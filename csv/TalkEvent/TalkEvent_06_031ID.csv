@@ -1,0 +1,44 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+	依頼人	"おかげでようやく、作物が育ち始めたよ！
+本当にありがとう！　"	Client	Thanks to you, our crops have finally started growing! We can't thank you enough.　	委托人	"多亏了你们，作物终于能够生长了！
+实在是太感谢你们了！　"	委託人	"託各位的福，農作物終於可以生長了！
+真的很謝謝妳們！　"
+Resna	レスナ	本当ですか！？　よかったぁ！	Resna	Really?! That's such great news!	蕾斯娜	真的吗？！太好啦！	蕾斯娜	真的嗎！？太好了！
+Valeria	ヴァレリア	やったわね、レスナ！	Valeria	We did it, Resna!	瓦莱莉娅	蕾斯娜，你做到了！	瓦萊莉婭	蕾斯娜，幹得好！
+Resna	レスナ	みんなが協力してくれたおかげだよ！	Resna	It's all thanks to everyone working together.	蕾斯娜	都是多亏了大家的帮助！	蕾斯娜	這都要感謝大家的幫忙！
+	依頼人	"いやあ、恩に着るよ。正直諦めかけてたからね。
+本当に感謝してる！"	Client	Oh, we are very much obliged. Honestly, I was beginning to think there was no hope. I am truly grateful.	委托人	"哎呀，谢谢你们。其实我们本来都快放弃了。
+实在太感谢了！"	委託人	"哎呀，簡直感激不盡。坦白說，我都快要死心了。
+真的非常感謝！"
+Resna	レスナ	"私たちも嬉しいです！　これは人を幸せにする力――
+錬金術の力なんですよ"	Resna	We're also very glad! This is the power of alchemy—the power to bring people happiness.	蕾斯娜	"我们也很高兴！
+这就是能让人幸福的力量——炼金术的力量。"	蕾斯娜	"我們也很開心！這就是帶給人們幸福的力量──
+鍊金術的力量喔！"
+	依頼人	そうか、錬金術の力か……	Client	The power of alchemy, huh...	委托人	哦——是炼金术的力量啊……	委託人	原來如此，是鍊金術的力量嗎……
+Resna	レスナ	はい！	Resna	Exactly!	蕾斯娜	是的！	蕾斯娜	沒錯！
+	街の住人Ａ	"おい。もう読んだか？　例の不作の件なんだが
+驚きだよ"	Townsperson A	Hey, have you read this? You know, the news about the bad harvest? It's unbelievable!	城镇居民A	"喂，你看报纸了吗？
+就是歉收的事，真没想到啊。"	城鎮居民A	"喂，你看過了嗎？之前的農作物歉收問題，
+結果真令我吃驚。"
+	街の住人Ｂ	"錬金術士がこのへんの不作を解決したってやつだろう？
+本当なのかね？"	Townsperson B	You mean the alchemist who ended the bad harvests around these parts? I wonder if it's true.	城镇居民B	"是炼金术士解决了这一带的歉收问题吧？
+是真的吗？"	城鎮居民B	"你是指鍊金術士解決了這一帶的歉收問題那件事？
+那是真的嗎？"
+	街の住人Ａ	"それが王都から来た錬金術士だそうだぞ。
+そんなのが本当にいたとはね"	Townsperson A	Apparently, they came from the capital. I can't believe they actually exist.	城镇居民A	"似乎是从王都来的炼金术士解决的。
+没想到炼金术士真的存在啊。"	城鎮居民A	"聽說是來自王都的鍊金術士。
+沒想到真的存在啊。"
+	街の住人Ｂ	"そこだよ。錬金術など眉唾だとばかり思っていたの
+だがね。畑の主が言うには――"	Townsperson B	Right? I always thought alchemists were nothing but a myth. So, according to the field owners...	城镇居民B	"问题就是这个。我还以为炼金术都是骗人的，
+结果田地的主人说——"	城鎮居民B	"就是說啊。我本來覺得鍊金術不可信，
+但田地主人說──"
+Saskia	ザスキア	あら、新しいのが出たのね。何部かもらえる？	Saskia	Well, well. That looks like a new edition. Can I have a few?	萨丝琪亚	哎呀，有新的报纸了。我能拿几份走吗？	薩絲琪亞	哎呀，新的報紙已經出來了啊。能給我幾份嗎？
+	新聞屋	ああ、あんたか。例の記事、載ってるよ	Newspaper Vendor	Oh, it's you! You're mentioned in the article!	卖报人	哦，是你啊。上面刊登了那篇报道哦。	送報員	哦，妳好。那篇報導被刊出來了呢。
+Saskia	ザスキア	ふふ。そのようね	Saskia	Hehe. So it seems.	萨丝琪亚	呵呵，是啊。	薩絲琪亞	呵呵，看來是這樣沒錯。
+Saskia	ザスキア	"「錬金術士レスナ・シュテルネンリヒト一行、長年
+続いた不作を救う」……いい記事ね"	Saskia	"""Alchemist Resna Sternenlicht and Company Solve Years-Long Crop Failure."" Nice article."	萨丝琪亚	"“炼金术士蕾斯娜·修特涅利希特一行人，
+解决了积年累月的歉收问题”……这篇报道真不错。"	薩絲琪亞	"「鍊金術士蕾斯娜‧修特涅利希特一行人，
+解決長年歉收問題」……這篇報導真不錯。"
+Saskia	ザスキア	さすが私のレスナよ	Saskia	That's my Resna!	萨丝琪亚	不愧是我的徒弟蕾斯娜。	薩絲琪亞	不愧是我的蕾斯娜。
+Roman	ロマン	素晴らしい記事だ	Roman	What a fantastic article.	罗曼	真是篇精彩的报道。	羅曼	這篇報導寫得真好。
+Roman	ロマン	時は満ちたようだ	Roman	It appears the time has come.	罗曼	时机好像已经成熟了。	羅曼	時機似乎成熟了。

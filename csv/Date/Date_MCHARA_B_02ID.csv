@@ -1,0 +1,221 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Heidi	ハイディ	（さてと、なんか良い仕事来てないかな）	Heidi	(Let's see. I wonder if any good requests have come in...)	海蒂	（好，看看有没有合适的工作吧。）	海蒂	（好了，有沒有什麼不錯的委託呢？）
+Valeria	ヴァレリア	いらっしゃいませ！	Valeria	Welcome!	瓦莱莉娅	欢迎光临！	瓦萊莉婭	歡迎光臨！
+Heidi	ハイディ	（ヴァ、ヴァレリア！？）	Heidi	(What?! Valeria?!)	海蒂	（瓦、瓦莱莉娅？！）	海蒂	（瓦、瓦萊莉婭！？）
+Heidi	ハイディ	"（「いらっしゃいませ」って、
+　え？　ここで働いてるの！？）"	Heidi	"(Wait, she said ""Welcome!"" when I walked in. No way. Does that mean she's working here?!)"	海蒂	"（她说“欢迎光临”，
+　咦？难道她在这里工作吗？！）"	海蒂	"（她喊「歡迎光臨」……
+　咦？她在這裡工作嗎！？）"
+	選択肢	素直に驚く	Selection	Ask her why she's here	选项	表现出震惊	選項	直接表現驚訝
+Heidi	ハイディ	なんでここに！？	Heidi	What are you doing here?!	海蒂	你怎么会在这里？！	海蒂	妳怎麼會在這裡！？
+Valeria	ヴァレリア	ふっふっふ～、驚きました？	Valeria	Heh heh heh... Surprised, huh?	瓦莱莉娅	嘿嘿，吓你一跳吧？	瓦萊莉婭	哼哼哼～嚇了一跳吧？
+Valeria	ヴァレリア	どうでしょう？　ウェイトレスの私は	Valeria	I make a pretty great waitress, don't you think?	瓦莱莉娅	您认为我的女服务员打扮怎么样呢？	瓦萊莉婭	我這個服務生看起來怎麼樣？
+Heidi	ハイディ	"あんまり見た目は変わらないけど、
+敬語の違和感がすごい"	Heidi	You don't look much different than usual, but you sounded pretty official when you greeted me!	海蒂	"外表上是没什么差别，
+可你毕恭毕敬的说话方式让人很不适应。"	海蒂	"雖然外表沒什麼太大的變化，
+但畢恭畢敬的說話方式好不習慣。"
+Valeria	ヴァレリア	ご注文が決まったらお声がけあそばせ	Valeria	When you're ready to order, please just, uh...give me a shout!	瓦莱莉娅	想好要点什么了就跟小的说吧。	瓦萊莉婭	決定餐點之後請告知我一聲。
+Heidi	ハイディ	"（敬語でもない気がするけど、
+　面白いからこのままでいっか）"	Heidi	(This is great! She hasn't exactly perfected her customer service persona, but I have to see where this goes.)	海蒂	"（好像也不是正经敬语，
+　不过也挺有趣的，就这样吧。）"	海蒂	"（好像也不算畢恭畢敬。
+　反正挺有趣的，就隨她吧。）"
+	選択肢	腕っぷしの強そうな新入りさんだね	Selection	Looks like the cafe is hiring for toughness.	选项	这位新人看起来身手了得呢	選項	新來的店員看起來臂力很強呢
+Heidi	ハイディ	"う、腕っぷしの強そうな
+新入りさんですこと……"	Heidi	Whoa. Looks like the cafe just hired a burly new staff member.	海蒂	这、这位新人看起来身手了得呢……	海蒂	這、這位新來的店員看起來臂力很強呢……
+Valeria	ヴァレリア	ええ、看板娘兼用心棒よ！	Valeria	Yup! I'm the new poster girl—and I double as a security guard!	瓦莱莉娅	是的，我是招牌女店员兼保镖！	瓦萊莉婭	嗯，我是招牌姑娘兼保鑣！
+Heidi	ハイディ	その二つを一人で担うことってあるんだ	Heidi	Can the same person really do both of those things...?	海蒂	还有人能身兼这两职啊。	海蒂	原來可以一人身兼二職啊。
+Valeria	ヴァレリア	一石二鳥でお得でしょ？	Valeria	Kill two birds with one stone, right?	瓦莱莉娅	一石二鸟，很值当吧？	瓦萊莉婭	雇用我一石二鳥很划算吧？
+Heidi	ハイディ	"まぁ、確かに。
+愛嬌と度胸が両方あれば無敵かもね"	Heidi	I guess you're right. There's nothing better than someone who's both beautiful and brave.	海蒂	"嗯，确实。既惹人怜爱又胆识过人，
+那可能无人能敌了吧。"	海蒂	"嗯，確實。同時兼具可愛和膽量，
+或許就無人能敵了。"
+Valeria	ヴァレリア	うふふ～	Valeria	Hehe!	瓦莱莉娅	呵呵～	瓦萊莉婭	呵呵～
+	選択肢	あえて他人のふりをする	Selection	Pretend not to recognize her	选项	假装不认识她	選項	刻意假裝不認識
+Heidi	ハイディ	えっと、仕事を探しに来たのですが	Heidi	Um, I'm here looking for some work.	海蒂	唔，我是来找工作的。	海蒂	妳好，我是來找工作的。
+Heidi	ハイディ	"討伐とか、警護とか、
+腕っぷしが活かせる依頼って
+何か来てます？"	Heidi	Do you have any new requests in looking for someone tough? Like a hunt? Or maybe guard duty?	海蒂	"你们这里有没有讨伐、护卫之类的
+能让人一展身手的委托？"	海蒂	"請問有沒有一些像是討伐或護衛這種
+需要戰力的委託呢？"
+Valeria	ヴァレリア	え？	Valeria	Huh?	瓦莱莉娅	啊？	瓦萊莉婭	咦？
+Heidi	ハイディ	報酬はこのくらいだと嬉しいんですけど……	Heidi	I was hoping for a reward somewhere in this range...	海蒂	报酬的话，能给这个数就好了……	海蒂	我希望報酬至少要有這個數字……
+Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+Heidi	ハイディ	"（すごく反応してほしそうに
+　こっちを見てくるな……）"	Heidi	(She's just begging for me to notice it's her. I can tell by the look on her face.)	海蒂	（她看起来很想让我给个反应……）	海蒂	"（她一直盯著我看，
+　好像很期待我有什麼反應……）"
+Heidi	ハイディ	"（このまま泳がせてもいいけど、
+　気になるのは気になるし
+　素直に訊くか）"	Heidi	(I could leave her hanging, but I really am curious to know why she's here. I guess I should just ask.)	海蒂	"（继续装不认识吊她胃口也行，
+　可我说实话也挺在意的，
+　还是乖乖问问她吧。）"	海蒂	"（雖然繼續裝傻也不錯，
+　但我還是很好奇，就直接問吧。）"
+Heidi	ハイディ	どうしてここで働いてるの？	Heidi	Seriously, though. What are you doing working at the cafe?	海蒂	你为什么会在这里工作啊？	海蒂	為什麼妳會在這裡工作？
+Valeria	ヴァレリア	"今、ちょうど繁忙期らしくて。
+期間限定で給仕の手伝いをしてるの"	Valeria	This is the cafe's busiest season, so I'm helping out as a waitress until things slow down.	瓦莱莉娅	"现在似乎正好是旺季，
+所以我就来这里当临时服务员啦。"	瓦萊莉婭	"現在似乎正好是餐飲旺季，
+所以我暫時來幫忙招待客人。"
+Heidi	ハイディ	"ヴァレリアの手も借りたいほど
+人手が足りてないのか……"	Heidi	They must be pretty desperate to ask you for help...	海蒂	人手都缺到需要找瓦莱莉娅来帮忙了啊……	海蒂	居然人手不足到都把瓦萊莉婭請來幫忙了嗎……
+Valeria	ヴァレリア	ううん、私からお願いしたの	Valeria	Oh, they didn't ask me. I asked them!	瓦莱莉娅	不不，是我主动提出要来帮忙的。	瓦萊莉婭	不是，是我主動要求的。
+Heidi	ハイディ	え、ヴァレリアから！？	Heidi	You did?!	海蒂	啊？你主动提出来的？！	海蒂	咦，是妳要求的！？
+Heidi	ハイディ	"（今まで色んな仕事が
+　続かなかったヴァレリアが、
+　自分から！？）"	Heidi	(Valeria's never been able to hold down a job for long. But she's the one who wanted to work here?!)	海蒂	"（瓦莱莉娅之前做什么事都是半途而废，
+　这次却主动请缨了？！）"	海蒂	"（一直以來做任何工作
+　都三分鐘熱度的瓦萊莉婭，
+　竟然會主動應徵打工！？）"
+	客	すみませーん、注文いいですか？	Customer	Excuse me! I'd like to order!	客人	不好意思，能帮忙点单吗？	顧客	不好意思～可以點餐了嗎？
+Valeria	ヴァレリア	はーい、ただいま！	Valeria	Yep, hold your horses!	瓦莱莉娅	好的，这就来！	瓦萊莉婭	好～我馬上來！
+Heidi	ハイディ	（うーん、大丈夫なのだろうか）	Heidi	(I really hope she's going to be all right...)	海蒂	（唔……她没问题吧？）	海蒂	（唔～真的沒問題嗎？）
+	ナレーション	１時間後	Narrator	One hour later...	旁白	1小时后	旁白	1小時後
+Valeria	ヴァレリア	"はぁ……
+イクセルに怒られちゃった"	Valeria	Aw, man... Iksel got really mad at me.	瓦莱莉娅	"唉……
+挨了伊克赛尔的骂。"	瓦萊莉婭	唉……被伊克賽爾罵了。
+Heidi	ハイディ	まぁ、確かにさ	Heidi	I mean, he had a point.	海蒂	那肯定啊。	海蒂	嗯，這也是當然的嘛。
+Heidi	ハイディ	"いくら美味しそうだからって
+出された店の料理をつまみ食いはねぇ"	Heidi	No matter how good his cooking is, he can't let his staff sneak bites off of people's plates.	海蒂	"就算料理有多好吃，
+你也不能偷吃端给客人的料理吧。"	海蒂	"就算看起來再怎麼美味，
+也不能偷吃客人的餐點啊。"
+Valeria	ヴァレリア	体が勝手に動いちゃって	Valeria	The food was in my mouth before I realized what was happening!	瓦莱莉娅	身体下意识地这么做了嘛。	瓦萊莉婭	身體自己動起來的……
+Heidi	ハイディ	"おまけだーって言って勝手に
+大盛りにするのもいけないね"	Heidi	"You're also probably not supposed to randomly pile extra food on customers' plates and tell them it's their ""lucky day."""	海蒂	"嘴上说着“这是送你的”，
+擅自把饭盛得满当当也不行。"	海蒂	"還有擅自把客人的飯升級成大碗
+這一點也很糟糕。"
+Valeria	ヴァレリア	ご飯は多ければ多いほど良いと思って	Valeria	But I thought everyone would be happy to get extra food...	瓦莱莉娅	米饭还是吃得越多越好嘛。	瓦萊莉婭	因為我覺得飯越大碗越好啊。
+Heidi	ハイディ	"みんながみんな、相棒みたいに
+大食いなわけじゃないんだから"	Heidi	Sorry, partner. Not everyone is a glutton like you.	海蒂	"每个人都不一样啊，
+不是人人都像搭档你一样胃口这么大的。"	海蒂	又不是每個人都像搭檔妳這麼能吃。
+Heidi	ハイディ	"そりゃそんなことされたら、
+イクセルも怒るよ"	Heidi	After all of that, of course Iksel was angry!	海蒂	你这么做，伊克赛尔当然会生气。	海蒂	隨便加量又不收費，伊克賽爾當然會生氣啊。
+Valeria	ヴァレリア	"私のお給料から天引きしてもらおうと
+思ってたんだけど……"	Valeria	I just thought he'd take it out of my pay...	瓦莱莉娅	亏损的钱可以从我的薪水里扣嘛……	瓦萊莉婭	我原本是想請他從我的薪水裡面扣的……
+Heidi	ハイディ	"そういう事思ってやってると、給料どころか
+マイナスになっちゃうんじゃないの？"	Heidi	Keep doing that, and you'll be the one owing him money.	海蒂	"你继续这么做下去，别说是领薪水，
+都要倒贴着给人干活了吧？"	海蒂	"抱著這種心態工作，別說薪水了，
+恐怕還得倒貼錢吧？"
+Valeria	ヴァレリア	"そっか……そうよね……。
+はぁ……やっぱりこういう仕事は
+向いてないのかしら"	Valeria	Oh...right. That makes sense. *Sigh* I guess I'm not cut out for this kind of work after all.	瓦莱莉娅	"这样啊……我就知道……
+唉……我果然不适合做这类工作吧。"	瓦萊莉婭	"這樣啊……說的也是……
+唉……我果然不適合做這種工作吧。"
+Valeria	ヴァレリア	良かれと思ってやったんだけど……	Valeria	I really was trying my best, though...	瓦莱莉娅	可我是出于好意才这么做的……	瓦萊莉婭	本來想說可以幫上一些忙的……
+	選択肢	それは伝わってる	Selection	I could tell you were.	选项	别人感受到了你的好意	選項	已經感受到這份心意
+Heidi	ハイディ	それは伝わってると思うよ	Heidi	I know, I could tell you were.	海蒂	别人确实感受到了你的好意。	海蒂	其他人已經感受到這份心意了喔。
+Valeria	ヴァレリア	え……？	Valeria	Really...?	瓦莱莉娅	什么……？	瓦萊莉婭	咦……？
+Heidi	ハイディ	さっきのお客さんが言ってたよ	Heidi	One of the customers was saying it before.	海蒂	刚才那位客人说了……	海蒂	剛才有位客人說……
+Heidi	ハイディ	"ちょっと空回っちゃってるけど
+一生懸命働いてる感じが健気で
+応援したくなるって"	Heidi	They said that you seemed a little out of your element, but they were rooting for you since it was obvious that you were working so hard.	海蒂	"虽然有些瞎忙活，
+但她努力工作的样子值得褒奖，
+让人想为她加油。"	海蒂	"雖然妳有點手忙腳亂，但是拚命工作的樣子
+會讓人忍不住想替妳加油。"
+Valeria	ヴァレリア	本当に……？	Valeria	Wow, really?	瓦莱莉娅	真的吗……？	瓦萊莉婭	真的嗎……？
+Heidi	ハイディ	"（こういうところだろうな。
+　「応援したくなる」の）"	Heidi	(Her heart's in the right place—she's just the kind of underdog you always want to cheer for.)	海蒂	（就是这点让人“想为你加油”呀。）	海蒂	（也許這一點就是讓人「想替她加油」的原因吧。）
+	選択肢	王国一豪快なウェイトレスとして売りにする	Selection	We'll make you the kingdom's most heroic waitress.	选项	把全王国最豪爽的女服务员当作卖点	選項	以全王國最豪邁的女服務生為賣點
+Heidi	ハイディ	そこを売りにしよう	Heidi	I have an idea. We need to play to your strengths.	海蒂	把这个当卖点吧。	海蒂	就展現妳的賣點吧。
+Heidi	ハイディ	"豪快な大型新人現るって宣伝すれば、
+一定の層には支持されるかも"	Heidi	Once word gets out that the cafe has a heroic new waitress on board, I'm sure you'll get loads of new customers!	海蒂	"打出“豪爽新人现身”的宣传，
+搞不好能得到某些群体的支持。"	海蒂	"以豪邁的實力派新人作為宣傳，
+也許能獲得特定客層的支持。"
+Valeria	ヴァレリア	"豪快……悪い響きじゃないわね。
+わかったわ！"	Valeria	Heroic... Yeah. That sounds pretty cool!	瓦莱莉娅	"豪爽……听起来不赖啊，
+我明白了！"	瓦萊莉婭	豪邁……聽起來不錯，我明白了！
+	客	"きゃー！　
+あのウエイトレス、武器を振り回してるわ！"	Customer	Eek, help! That waitress is swinging a weapon around!	客人	"呀！
+那个女服务员在挥舞武器！"	顧客	呀啊──！那個女服務生在店裡揮舞武器！
+Valeria	ヴァレリア	"ご、ごめん！
+ちょっと暑いって言ってた人がいたから"	Valeria	S-Sorry! I just, er, one of the customers said it was a little too hot in here, so...	瓦莱莉娅	"抱、抱歉！
+有人说热，我就想扇扇！"	瓦萊莉婭	抱、抱歉！因為客人說覺得有點熱……
+Heidi	ハイディ	（なんか、拍車がかかってような……）	Heidi	(I wonder if there's any way to help her...)	海蒂	（总感觉有点太跳跃了……）	海蒂	（情況似乎更嚴重了……）
+	選択肢	誰かお手本を見つけたら？	Selection	Have you tried imitating someone else?	选项	学学别人是怎么接客的吧？	選項	找其他人當學習對象？
+Heidi	ハイディ	"誰か接客のお手本を見つけたら？
+たとえばライザとか"	Heidi	Have you tried imitating someone else? Maybe you could learn a thing or two from watching Ryza in action.	海蒂	"学学别人是怎么接客的吧？
+比如跟莱莎学学。"	海蒂	"學習其他人的待客方式呢？
+比如說萊莎之類的。"
+Heidi	ハイディ	"人懐っこいけどお節介過ぎない、
+ちょうど良い距離感の接客じゃない？"	Heidi	She's friendly with the customers, but never nosy! I'd say she has the perfect balance for customer service.	海蒂	"亲切但是不会过分热情，
+她这种就是距离感把控到位的接客。"	海蒂	"平易近人卻不會多管閒事，
+這樣的距離感挺恰到好處的吧？"
+Valeria	ヴァレリア	"なるほど……。
+ちょっと真似してみるわ"	Valeria	Okay, got it. I'll try and copy her.	瓦莱莉娅	"这样啊……
+我学着试试。"	瓦萊莉婭	原來如此……我來試試看。
+	客	居心地良い店だね。また来るよ	Customer	This cafe was lovely. I'll definitely be coming back again!	客人	这家店待着很舒服，我还会再来的。	顧客	真是舒適的咖啡廳，我會再來的。
+Valeria	ヴァレリア	"ハイディ、ありがとう！
+うまくいったわ！！"	Valeria	Heidi, it worked! Thanks for your help!	瓦莱莉娅	"谢谢你，海蒂！
+成功了！！"	瓦萊莉婭	海蒂，謝謝妳！我成功了！！
+Heidi	ハイディ	（うん、良い助言ができたみたい）	Heidi	(Good, my advice seemed to do the trick!)	海蒂	（嗯，看来我提了个不错的建议。）	海蒂	（嗯，看來這個提議不錯。）
+Heidi	ハイディ	"ところで、最近……
+家事をしたり、働いたり、
+どういう風の吹き回し？"	Heidi	By the way, what's up with you lately? First you were doing chores, now you're working a new job...	海蒂	"说起来，你最近……
+又是做家务又是干活的，
+到底是发生什么了？"	海蒂	"話說，最近……妳一下幫忙家務、一下又應徵工作，
+究竟是怎麼回事？"
+Valeria	ヴァレリア	苦手なことにあえて挑戦したい気分なの	Valeria	I wanted to challenge myself. You know, try new things.	瓦莱莉娅	我就是想挑战自己不擅长做的事。	瓦萊莉婭	我想要挑戰自己不擅長的事情。
+Valeria	ヴァレリア	"フロッケも頑張ってるし、
+ランツェだって変わったし、
+私だって成長してるのよ"	Valeria	Flocke is out there giving it her all, and Lanze has been working on himself. I thought that I needed to do some growing too.	瓦莱莉娅	"芙洛可也在努力，
+兰泽也有改变，
+我也是会成长的呀。"	瓦萊莉婭	"芙洛可很努力，
+藍澤也改變了很多，
+我當然也要跟著成長啊。"
+Heidi	ハイディ	"（うーん、本当に？
+　何か隠しているようにも見えるけど）"	Heidi	(Hmm... Is she telling the truth? I'm getting the feeling she's hiding something.)	海蒂	"（唔……真的吗？
+　她像是有事瞒着我。）"	海蒂	"（唔～真的是這樣嗎？
+　看上去她還隱瞞了些什麼。）"
+	選択肢	本当にそれだけ？	Selection	Is that really the only reason?	选项	真的就是因为这些？	選項	真的只有這樣嗎？
+Valeria	ヴァレリア	ええ！	Valeria	Huh?!	瓦莱莉娅	真的！	瓦萊莉婭	是的！
+Valeria	ヴァレリア	"ほら、あれよ。えっと……
+レスナが前にどっかで言ってた……"	Valeria	Er, well, it's just... I was talking to Resna before.	瓦莱莉娅	"就是那个呀，你想想，
+蕾斯娜之前也在什么地方说过的……"	瓦萊莉婭	"妳想想，就是那個啊，呃……
+蕾斯娜之前在哪兒說過的……"
+Valeria	ヴァレリア	"「女子、三日会わざれば
+　目をかっぴらいて見よ」よ！"	Valeria	"She said, ""With girls, absence makes the heart grow fonder! A few days apart will do you some good!"""	瓦莱莉娅	“女士别三日，当瞪眼相看”！	瓦萊莉婭	「女別三日，當刮目相看」啦！
+Heidi	ハイディ	"なんか色々違う気がするけど、
+まぁ大体伝わったわ"	Heidi	I feel like I'm missing something...but whatever.	海蒂	"总觉得不太对，
+不过我懂你的意思了。"	海蒂	"總覺得意思完全不一樣……
+但我大概明白了。"
+	選択肢	気になる相手でもできた？	Selection	Is it because there's a special someone on your mind?	选项	你是有在意的人了吗？	選項	妳有了在意的對象嗎？
+Heidi	ハイディ	気になる相手でもできた？	Heidi	Is it because there's a special someone on your mind?	海蒂	你是有在意的人了吗？	海蒂	妳有了在意的對象嗎？
+Valeria	ヴァレリア	え？　なんで？	Valeria	Huh? Why?	瓦莱莉娅	啊？为什么这么想？	瓦萊莉婭	咦？為什麼？
+Heidi	ハイディ	お金を貯めて、何か渡したいのかなって	Heidi	Well, I thought you might be saving up some Cole to buy them something nice.	海蒂	我还以为你是要攒钱送人东西呢。	海蒂	我猜妳是想要存錢買禮物送人。
+Heidi	ハイディ	"それとも自分に投資して、
+振り向かせたい感じ？"	Heidi	Or maybe you wanted to buy yourself some new clothes to get their attention.	海蒂	"还是说你要为自己投资，
+好让那个人注意到你？"	海蒂	還是妳想投資自己，引起對方的注意？
+Valeria	ヴァレリア	"んー、そうね。
+今はロロナが気になるかしら"	Valeria	You know, I guess you're right. I can't stop thinking about Rorona.	瓦莱莉娅	"唔……是的呢，
+现在我比较在意萝乐娜吧。"	瓦萊莉婭	嗯～現在的話，可能是蘿樂娜吧。
+Heidi	ハイディ	え！？	Heidi	Seriously?!	海蒂	咦？！	海蒂	咦！？
+Valeria	ヴァレリア	"今日のおすすめが魚料理だったから、
+きっと賄いはお魚のパイよね。ふふふ"	Valeria	Today's special is fish. So I was thinking there might even be fish in the pie she gives us today. Heh heh...	瓦莱莉娅	"今天的推荐料理是鱼料理，
+员工餐肯定是鱼肉派吧，呵呵。"	瓦萊莉婭	"今天的推薦餐點是魚肉料理，
+所以我猜員工餐一定是烤魚派。嘿嘿嘿。"
+Heidi	ハイディ	（そういうことか……）	Heidi	(So her mind was stuck on food again...)	海蒂	（在意的是这个啊……）	海蒂	（原來是說這個嗎……）
+	選択肢	カマをかけてみる	Selection	Call her out	选项	套她的话	選項	試著套話
+Heidi	ハイディ	"鼻ヒクヒクしてるよ。
+ヴァレリアが嘘をついているときのクセだ"	Heidi	Your nose is twitching... That's your tell. I know you're lying to me, Valeria.	海蒂	"瓦莱莉娅，你的鼻子在动哦，
+你撒谎的时候就会这样。"	海蒂	妳每次說謊都會下意識地抽動鼻子，就像現在。
+Valeria	ヴァレリア	……？	Valeria	Huh...?	瓦莱莉娅	……？	瓦萊莉婭	……？
+Valeria	ヴァレリア	"……あ、カマかけようとしたわね！
+その手には乗らないわよ"	Valeria	Ohhh, I get it. You're trying to trick me into talking. Sorry, but that's not gonna work on me.	瓦莱莉娅	"……啊，你是想套我的话吧！
+我可不会上当。"	瓦萊莉婭	"……啊，妳想套我的話對吧！
+我可是不會上當的。"
+Heidi	ハイディ	"ダメかぁ。
+こういう勘鋭いんだよなぁ"	Heidi	Crap, you saw right through me...	海蒂	"不起作用啊。
+你在这时候总会很敏锐呢。"	海蒂	"果然行不通啊。
+畢竟妳對這方面特別敏銳嘛。"
+Valeria	ヴァレリア	"ふふん、伊達に看板娘兼用心棒じゃ
+ないのよ！"	Valeria	Heh! You won't fool this poster girl-bodyguard so easily!	瓦莱莉娅	"呵呵，
+我招牌女店员兼保镖的名号可不是吹的！"	瓦萊莉婭	哼哼，我這招牌姑娘兼保鑣可不是當假的！
+Heidi	ハイディ	それは関係あるの……？	Heidi	What does any of that have to do with it...?	海蒂	跟这个有关系吗……？	海蒂	這兩者有關係嗎……？
+Heidi	ハイディ	（やっぱり、他にも理由がありそうだな）	Heidi	(I'm sure of it now. There's definitely another reason Valeria is doing all of this.)	海蒂	（她肯定还有别的理由。）	海蒂	（看樣子她果然另有隱情。）
+Heidi	ハイディ	"（成長しようとする心持ちは良いことだと
+　思うけど……なんで理由を隠そうと
+　してるんだろう？）"	Heidi	(I know that she really does want to grow as a person, but there's definitely more to it. Why isn't she telling me the whole truth?)	海蒂	"（她想成长是好事……
+　可为什么要隐瞒理由呢？）"	海蒂	"（雖然有想要成長的上進心是件好事……
+　但她為何要隱瞞原因呢？）"
+Heidi	ハイディ	"（何かこっそりお金を稼ごうとしてる
+　みたいだし。しかも、カフェで）"	Heidi	(It seems like she was trying to earn money on the side without me knowing. And at the cafe, no less.)	海蒂	"（而且她好像还在偷偷攒钱，
+　还是在咖啡厅打工。）"	海蒂	"（這樣好像在偷偷摸摸地賺錢一樣，
+　而且還是在咖啡廳。）"
+Heidi	ハイディ	（もしかして、私に黙って依頼を……？）	Heidi	(Wait a minute... Has she been taking on requests without me?)	海蒂	（该不会是瞒着我接了委托吧……？）	海蒂	（難不成，她瞞著我接了委託……？）

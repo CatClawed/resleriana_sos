@@ -1,0 +1,243 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Lanze	ランツェ	"（……よし、これで必要な道具は揃ったな。
+　そろそろ帰るか）"	Lanze	(There, that's all the stuff I needed to pick up. Guess I'll head on home.)	兰泽	"（好……需要的道具全都齐了。
+　回家吧。）"	藍澤	"（……好，這樣需要的道具都備齊了，
+　差不多該回去了吧。）"
+Lanze	ランツェ	"（そういえば、天使ちゃんはこの辺りで
+　店をやっていたな。
+　最近はどんな感じで働いてるだろう）"	Lanze	(Hang on. Now that I'm thinkin' about it, Flocke's stall oughta be around here. I wonder how things've been goin' lately.)	兰泽	"（说起来，小天使好像在这附近做生意。
+　不知道最近她工作得怎么样。）"	藍澤	"（對了，小天使在這附近做生意呢。
+　不知道她最近的工作狀態怎麼樣？）"
+	中年の客	"親父が魚好きだから
+食べさせてやりたいんだ。
+何がいいかな"	Middle-Aged Customer	My father loves eating fish, so I was hoping to get him some. Do you have any recommendations?	中年客人	"我家老爹喜欢吃鱼，所以想来给他买点。
+有什么推荐的吗？"	中年客人	"我老爸喜歡魚，
+所以想買一些給他吃，
+該選什麼好呢？"
+Flocke	フロッケ	お父様はおいくつでしょうか？	Flocke	If you don't mind my asking, how old is he?	芙洛可	请问令尊几岁了？	芙洛可	您父親幾歲呢？
+	中年の客	今年でもう８０になるんだよ	Middle-Aged Customer	He'll be turning eighty this year.	中年客人	今年有80了。	中年客人	他今年要80歲了。
+Flocke	フロッケ	"でしたらこちらの切り身がおすすめです！　
+脂が少ないのに味が濃厚なのが特徴です。
+小骨が取ってあるので、食べるのも楽ですよ"	Flocke	Then, I think he'd love this filet! It's lean but bursting with flavor! It's already been deboned too, so it's easy to eat.	芙洛可	"那我推荐这个刺身！
+它脂肪少，味道浓郁。
+而且剔除了鱼刺，吃起来也很方便。"	芙洛可	"這樣的話，我推薦這邊切好的魚！
+特色是脂肪少但味道濃郁，
+而且我已經去掉魚刺，吃起來也很方便喔。"
+	中年の客	ほう……	Middle-Aged Customer	Hm...	中年客人	唔……	中年客人	哦……
+Flocke	フロッケ	"特に相性がいいのがこの香辛料です。
+こちらは味を引き立てるだけでなく、
+消化を助ける作用もあって――"	Flocke	I should also mention that these spices go perfectly with it! Of course, they don't just make it tastier—they also help with digestion.	芙洛可	"这个香辛料和这个刺身尤其配。
+不仅能增加风味，还能帮助消化——"	芙洛可	"這款香辛料跟它特別搭，
+不僅能提味，
+還能幫助消化──"
+	中年の客	じゃあ、両方買っちゃおうかな	Middle-Aged Customer	I'll take both, then.	中年客人	那我两个都买了吧。	中年客人	那我兩個都買好了。
+Flocke	フロッケ	ありがとうございます！	Flocke	Thank you very much!	芙洛可	多谢惠顾！	芙洛可	謝謝惠顧！
+	選択肢	よっ、商売上手！	Selection	That was a solid sale!	选项	哟，小老板！	選項	嗨，妳真會做生意！
+Lanze	ランツェ	よっ、商売上手！	Lanze	That was a solid sale!	兰泽	哟，小老板！	藍澤	嗨，妳真會做生意！
+Flocke	フロッケ	わ、ランツェさん！	Flocke	Oh! Lanze!	芙洛可	哇，兰泽先生！	芙洛可	哇，藍澤先生！
+Flocke	フロッケ	"そんな風に声をかけられると、
+少し照れますね"	Flocke	I can't help but feel a little embarrassed hearing you say that.	芙洛可	你这么叫我，我会不好意思的。	芙洛可	"你這樣跟芙洛可打招呼，
+讓芙洛可有點害羞呢。"
+Flocke	フロッケ	"でもフロッケは行商人なので、
+嬉しい誉め言葉です！"	Flocke	But as a merchant, I have to admit that it also makes me feel proud!	芙洛可	"但芙洛可是个商人，
+所以听到你这么叫我很高兴！"	芙洛可	"但芙洛可是旅行商人，
+所以這是很令人開心的讚美！"
+	選択肢	俺も一つ買おうかな	Selection	Ring one up for me too.	选项	我也买点吧	選項	我也買一份好了。
+Lanze	ランツェ	"天使ちゃんの話聞いてたら、
+俺も食いたくなってきちまった。
+一つ買おうかな"	Lanze	Well, you got me convinced. Ring one up for me too. I gotta try some of this special fish.	兰泽	"听了小天使的话，我也想吃鱼了。
+我也买点吧。"	藍澤	"聽了小天使剛才的推薦，
+我也跟著想吃了起來，
+買一份好了？"
+Flocke	フロッケ	"いらっしゃいませ、ランツェさん。
+ランツェさんは家族ですから、
+買わなくてもお譲りしますよ"	Flocke	Oh, there's no need, Lanze! You're family, so this one is on the house.	芙洛可	"欢迎挑选，兰泽先生。
+兰泽先生是我的家人，可以直接送你哦。"	芙洛可	"藍澤先生，歡迎光臨。
+你是我們的家人，
+就算不買芙洛可也會直接送給你的。"
+Flocke	フロッケ	"でも、そう言っていただけたのは
+商人冥利に尽きます。ふふっ"	Flocke	But thank you for your compliment. It's nice to hear you say that!	芙洛可	不过能得到兰泽先生的夸奖我很开心，呵呵。	芙洛可	"不過，能得到這種稱讚，
+是身為商人的莫大光榮。"
+	選択肢	じきに立派な店を建てられそうだな	Selection	You're gonna have your own store in no time.	选项	看样子你很快就能有自己的店面了	選項	感覺妳很快就能蓋一間氣派的店了。
+Lanze	ランツェ	じきに立派な店を建てられそうだな	Lanze	Yep, you're gonna be able to build your own fancy store in no time.	兰泽	看样子你很快就能有自己的店面了。	藍澤	感覺妳很快就能蓋一間氣派的店了。
+Flocke	フロッケ	あ、いらっしゃいませ！　ランツェさん	Flocke	Oh, Lanze! Welcome!	芙洛可	啊，欢迎光临！兰泽先生。	芙洛可	啊，藍澤先生，歡迎光臨！
+Flocke	フロッケ	"お店を建てる、ですか……
+固定の店舗を持つのも楽しそうですね"	Flocke	Hm, my very own store? It would be nice to have someplace more permanent, but...	芙洛可	"自己的店面啊……
+能有固定的店铺也不错呢。"	芙洛可	"蓋一間店，是嗎……
+有固定的店鋪好像也不錯呢。"
+Flocke	フロッケ	"でも、潮目を読んで身軽に動ける
+行商という売り方が好きなんです。
+小さい頃からずっと親しみがありますしね"	Flocke	I like being able to read the currents and go with the flow. Besides, I've been peddling since I was little, so I'm used to it.	芙洛可	"不过我还是喜欢旅行商人这种方式，
+可以根据生意的状况灵活采取行动。"	芙洛可	"不過，我喜歡擺攤這種
+看情況隨機應變的銷售方式。
+畢竟從小就很熟悉了。"
+Lanze	ランツェ	"そうか。
+今の売り方にもこだわりがあるんだな"	Lanze	Ah, gotcha. So there's a good side to everything.	兰泽	"是吗。
+看来你也有自己的坚持啊。"	藍澤	"這樣啊，妳現在的銷售方式
+也是有自己的堅持呢。"
+	幼い子ども	うえええん！　痛いよぉ……	Young Child	Waaah! It huuurts!	幼童	呜哇！好痛……	年幼的小孩	嗚呃呃呃！好痛喔……
+	子連れの客	"転んじゃったの？　
+仕方ないわね、すぐ手当してあげるから。
+……あら、いつも持ち歩いてる薬草がないわ"	Customer with Child	Oh, dear. Did you trip? Goodness, you've scraped your knee, too. Now where did I put those medicinal herbs? Gosh... I must've run out.	带孩子的客人	"摔倒了吗？
+真拿你没办法，妈妈马上给你处理。
+哎呀……平时带着的药草用完了。"	帶著小孩的客人	"跌倒了嗎？
+真拿你沒辦法，我馬上幫你包紮。
+……哎呀，我沒帶平時隨身攜帶的藥草。"
+Flocke	フロッケ	その薬草って、こちらでしょうか？	Flocke	Would any of these do?	芙洛可	您说的药草是指这个吗？	芙洛可	您說的藥草，是指這個嗎？
+	子連れの客	"そうそう！　ちょうどよかった、助かるわ。
+いくらになるかしら？"	Customer with Child	They would! Thank goodness, that's such a relief. How much are they?	带孩子的客人	"就是这个！真是帮大忙了。
+要多少钱？"	帶著小孩的客人	"沒錯！真巧，真是幫大忙了。
+這要多少錢呢？"
+Flocke	フロッケ	お代は結構です。緊急事態ですから	Flocke	They're on the house! This is an emergency, after all.	芙洛可	钱就不用了，毕竟是紧急情况。	芙洛可	因為是緊急狀況，錢就不必了。
+Flocke	フロッケ	"……これでよし、と。
+痛いの痛いの……とんでけ～！"	Flocke	There, now you're all patched up. And here's a spell to make the pain fly away!	芙洛可	"……处理好了。
+痛痛……飞走啦～！"	芙洛可	"……這樣就行了。
+痛痛全都……飛走吧～！"
+Flocke	フロッケ	"お、泣き止みましたね。
+えらいえらい、強い子ですね"	Flocke	There we go, no more tears. You're so brave!	芙洛可	"啊，不哭了。
+真是个坚强的孩子，你很了不起哦。"	芙洛可	"喔，你不哭啦。
+真了不起，你很堅強呢。"
+Lanze	ランツェ	"（坊主、あっという間に
+　笑顔になっちまった！
+　さすがは天使ちゃんだぜ！）"	Lanze	(Whoa, that kid went from cryin' to smilin' in a snap! Yep, our angel's got the sweetest touch.)	兰泽	"（那个小孩一下子就转哭为笑了！
+　不愧是小天使！）"	藍澤	"（那男孩一下子
+　就破涕為笑了！
+　真不愧是小天使！）"
+	選択肢	すごいな、コツは？	Selection	That sure was smooth. Is there a trick to it?	选项	好厉害，有什么诀窍吗？	選項	真厲害，訣竅是？
+Lanze	ランツェ	すごいな。コツはあるのか？	Lanze	That sure was smooth. Is there a trick to it?	兰泽	好厉害，你哄小孩有什么诀窍吗？	藍澤	妳真厲害，有什麼訣竅嗎？
+Flocke	フロッケ	そうですね……	Flocke	Well, let's see...	芙洛可	唔……	芙洛可	這個嘛……
+Flocke	フロッケ	"自分が子どもの頃にしてもらいたかった
+ことや、言ってもらいたかったことを
+思い出す、とか？"	Flocke	I just think back to when I was little, I guess. What I wish people did, what I wish people had said to me...	芙洛可	"比方说回想一下自己小时候希望别人做什么、
+说什么，之类的？"	芙洛可	"大概就是回想小時候
+希望大人為自己做的事，
+或是希望大人對自己說的話，之類的？"
+Lanze	ランツェ	"（天使ちゃんの子どもの頃か……
+　いや、ヘンに憐れむのは違うな）"	Lanze	(Our little angel's childhood, huh... I want to feel sorry for her, but that doesn't seem right.)	兰泽	"（小时候的小天使啊……
+　不对，我怎么就开始心疼小天使了。）"	藍澤	"（小天使的小時候啊……
+　不，隨便用憐憫的眼光看待是不對的。）"
+Lanze	ランツェ	"（それよりも、
+　子どもに優しく接する天使ちゃんの
+　その清廉なる志を褒めるべきだ）"	Lanze	(I oughta be proud of her for stayin' such a kind and honest girl after all that.)	兰泽	"（我应该夸夸温柔无私地
+　照顾孩子的小天使才对。）"	藍澤	"（更重要的是，
+　應該要誇獎小天使溫柔對待孩童時的
+　那份純潔無私的心意。）"
+Lanze	ランツェ	いい心がけだな	Lanze	That's a good way of goin' about it.	兰泽	小天使真贴心啊。	藍澤	妳真是用心。
+Flocke	フロッケ	ありがとうございます	Flocke	Thank you!	芙洛可	谢谢夸奖。	芙洛可	謝謝你。
+	選択肢	いい母親になりそうだな	Selection	You're gonna make a great mom.	选项	你应该会成为一个好妈妈。	選項	妳應該會是個好母親。
+Lanze	ランツェ	天使ちゃん、いい母親になりそうだな	Lanze	You know, you're gonna make a great mom someday.	兰泽	小天使应该会成为一个好妈妈。	藍澤	小天使應該會是個好母親喔。
+Flocke	フロッケ	ほ、本当ですか……？	Flocke	Y-You really think so?	芙洛可	真、真的吗……？	芙洛可	真、真的嗎……？
+Flocke	フロッケ	"そう言っていただけるのは……
+すごく、嬉しいです"	Flocke	Hearing that...actually makes me really happy.	芙洛可	"听到兰泽先生这么夸我……
+我很高兴。"	芙洛可	能聽到你這麼說……芙洛可非常高興。
+	選択肢	遠くにいるみたいで寂しい	Selection	Feels like you've gone and left me miles behind.	选项	遥不可及的小天使让我有点寂寞	選項	感覺好像很遙遠，怪寂寞的。
+Lanze	ランツェ	"天使ちゃんはほんと、何でもできちまうな。
+なんだか遠くにいるみたいで寂しいぜ……"	Lanze	Is there anything you can't do, little angel? Feels like you've gone and left me miles behind.	兰泽	"小天使太能干了，
+感觉像是遥不可及的人，让我有点寂寞……"	藍澤	"小天使真的什麼都做得到呢。
+妳給我的感覺好像很遙遠，怪寂寞的……"
+Flocke	フロッケ	"大丈夫です。
+フロッケはどこにも行きませんよ。
+ランツェさんたちの傍にいます"	Flocke	Don't worry, I'm not going anywhere! I'll always be with you and the others, Lanze.	芙洛可	"别担心。芙洛可哪儿都不去，
+会一直陪在大家身边。"	芙洛可	"沒事的。
+芙洛可哪裡都不去，
+會一直待在你們身邊的。"
+Lanze	ランツェ	"そう言い切られると、
+妙な安心感があるな……"	Lanze	Y'know, hearin' you say that so decisively is weirdly comforting.	兰泽	"有你这话，
+我突然觉得好安心……"	藍澤	"妳說得那麼肯定，
+讓人有種奇妙的安心感……"
+	博識そうな客	"すみません、
+お尋ねしたいことがあるのですが"	Wise-Looking Customer	Excuse me, but I have a question I'd like to ask.	似乎很博学的客人	不好意思，可以打扰一下吗？	看似博學的客人	不好意思，我有事情想請教一下。
+Flocke	フロッケ	"いらっしゃいませ。
+はい、何でしょう？"	Flocke	Of course! What is it?	芙洛可	"欢迎光临。
+您请说。"	芙洛可	"歡迎光臨。
+好的，是什麼事呢？"
+	博識そうな客	"こちらの魚は雨の日に釣ったものですか？
+それとも、晴れの日ですか？"	Wise-Looking Customer	Were these fish caught on a rainy day, or a sunny one?	似乎很博学的客人	"请问这鱼是雨天钓上来的，
+还是晴天钓上来的？"	看似博學的客人	"這隻魚是雨天釣到的嗎？
+還是晴天釣到的呢？"
+Flocke	フロッケ	えっ……釣った日の天気、ですか？	Flocke	Oh! You'd like to know...what the weather was like?	芙洛可	咦……您是问钓上来时的天气吗？	芙洛可	咦……釣到這隻魚的當天天氣嗎？
+	博識そうな客	"ええ、雨の日に活発になる個体と、
+晴れの日に活発になる個体があって、
+それぞれ味が微妙に違うと聞いたので"	Wise-Looking Customer	Yes, indeed. I have heard that there are subtle differences in taste, depending on such conditions.	似乎很博学的客人	"是的。我听说不同天气下活跃的鱼不同，
+它们的味道也会有所区别。"	看似博學的客人	"對，因為我聽說有些品種在雨天會較有活力，
+有些則是在晴天，
+兩者的滋味各有微妙的差異。"
+Flocke	フロッケ	えっと……それは……	Flocke	Um, I-I think that maybe...	芙洛可	呃……这个嘛……	芙洛可	呃……這個嘛……
+Lanze	ランツェ	そいつは晴れだな	Lanze	These guys were all hauled in on a clear day.	兰泽	那条是晴天钓的。	藍澤	那隻是晴天釣到的喔。
+Lanze	ランツェ	"ここに縞模様があるだろ。こいつが
+ついてるのが、晴れが得意なやつだ。
+今は黒いが、釣れたては虹色で――"	Lanze	See? They've got these stripes right here. Those're fish that like soakin' in the sun. They might look black now, but they're rainbow when you pull 'em out. And those ones over there...	兰泽	"你看这里，有条纹对吧。
+有这种花纹的鱼在晴天比较活跃。
+虽然现在表皮呈黑色，但刚钓上来时是彩虹色——"	藍澤	"這裡有條紋對吧？
+有這種條紋的在晴天較有活力，雖然現在是黑色，
+但剛釣上來時是七彩的顏色──"
+Flocke	フロッケ	"ランツェさん、助けてくださって
+ありがとうございます……！"	Flocke	Thank you so much, Lanze! I never could have answered that!	芙洛可	兰泽先生，谢谢你……！	芙洛可	藍澤先生，謝謝你幫了芙洛可……！
+	選択肢	これが海の男の力よ	Selection	I'm a man of the sea!	选项	这就是海上男儿的实力	選項	這就是海上男兒的實力。
+Lanze	ランツェ	"これが海の男の力よ。
+船や魚のことなら、何でも聞いてくれ"	Lanze	I'm a man of the sea, and don't ya forget it! When it comes to boats and fish, I'm a walkin' encyclopedia!	兰泽	"这就是海上男儿的实力。
+关于船和鱼的问题都可以问我。"	藍澤	"這就是海上男兒的實力喔。
+關於船和魚的事情，儘管問我吧。"
+Flocke	フロッケ	"海の男、かっこいいです……！
+フロッケも見習わないと"	Flocke	That's so amazing! I should try and be more like you that way.	芙洛可	"海上男儿，好帅气啊……！
+芙洛可也要向兰泽先生看齐。"	芙洛可	"海上男兒，好帥氣……！
+芙洛可也得向你看齊才行！"
+Flocke	フロッケ	"ここに縞模様があるだろ。
+こいつがついてるのが――"	Flocke	See? They've got these stripes right here. Those're fish that—	芙洛可	"你看这里，有条纹对吧。
+有这种花纹的鱼——"	芙洛可	"這裡有條紋對吧？
+有這種條紋的──"
+Lanze	ランツェ	それ、まさか……俺の真似か？	Lanze	Hang on, are you tryin' to imitate me?	兰泽	你……难道是在模仿我？	藍澤	妳這是……在模仿我嗎？
+Flocke	フロッケ	"うう、そんなに似てないですか。
+かっこいいの道は険しいです……"	Flocke	"Yes... Was that too much? I guess I've got a long way to go before I can call myself ""cool""..."	芙洛可	"唔，不像吗？
+看来要变帅气也不容易……"	芙洛可	"嗚，看起來沒那麼像嗎？
+變帥氣的路途真是困難重重……"
+	選択肢	今度から俺が説明係になろうか？	Selection	Why don't you sign me on as a consultant?	选项	以后我来帮忙说明吧？	選項	下次讓我來幫忙解說吧？
+Lanze	ランツェ	今度から俺が説明係になろうか？	Lanze	Why don't you sign me on as a consultant?	兰泽	以后我来帮忙说明吧？	藍澤	下次讓我來幫忙解說吧？
+Flocke	フロッケ	"そんな、毎回手伝ってもらうなんて
+悪いですよ！"	Flocke	Oh no, I couldn't! Having you come to work with me every day would be asking way too much!	芙洛可	"这怎么行，每次都让兰泽先生帮忙，
+也太麻烦你了。"	芙洛可	這怎麼行，每次都麻煩你太不好意思了！
+Flocke	フロッケ	"でも、こうやって二人で店先に立つのは
+楽しいので……"	Flocke	Although, running the stall with you is a lot of fun...	芙洛可	不过两个人一起摆摊很开心……	芙洛可	但是，像這樣兩個人一起顧店也很開心……
+Flocke	フロッケ	"その、ランツェさんがよかったら……
+時々遊びに来てくれると嬉しいです"	Flocke	Um, well, would you maybe mind coming and hanging out with me sometimes? That would be really nice...	芙洛可	"如果兰泽先生方便……
+希望你能偶尔过来玩。"	芙洛可	"那個，如果藍澤先生不介意……
+歡迎你隨時來找我玩。"
+	選択肢	いつも天使ちゃんに助けてもらってるからな	Selection	It'd be the least I could do.	选项	因为小天使一直在帮我啊	選項	畢竟我總是受到小天使的關照。
+Lanze	ランツェ	いつも天使ちゃんに助けてもらってるからな	Lanze	You're always doin' so much for us. The least I can do is have your back.	兰泽	因为小天使一直在帮我啊。	藍澤	畢竟我總是受到小天使的關照。
+Flocke	フロッケ	"それはフロッケがしたくて
+やってるだけですから"	Flocke	I do all that because I want to, though.	芙洛可	那是芙洛可自愿做的。	芙洛可	芙洛可只是按照自己的心意去做而已。
+Lanze	ランツェ	謙遜しなくていいんだぜ？	Lanze	Aw, you don't gotta be so modest.	兰泽	你不用谦虚啦。	藍澤	妳不需要謙虛喔？
+Flocke	フロッケ	いえ！　本当にしたくて、やってるので！	Flocke	No, I mean it! I really do!	芙洛可	不是！真的是芙洛可自愿的！	芙洛可	沒有！這真的是、芙洛可想做的！
+Lanze	ランツェ	そうか……いい子だな。天使ちゃんは	Lanze	Ah, you're such a good kid. An honest-to-goodness angel.	兰泽	是吗……小天使真是个好孩子啊。	藍澤	這樣啊……小天使真是好孩子呢。
+Flocke	フロッケ	"それにしてもびっくりしました。
+まさか釣った日の天気まで聞かれるなんて"	Flocke	That question really surprised me, though. I never imagined that anyone would ask about the weather.	芙洛可	"不过真是吓了我一跳。
+没想到客人居然会问钓鱼时的天气。"	芙洛可	"話說回來，我真的嚇了一跳。
+沒想到連釣魚的天氣都有人會問。"
+Flocke	フロッケ	"仕事柄、魚のことは
+ある程度知っているつもりでしたが……
+まだまだ勉強が足りませんね"	Flocke	I thought I knew enough about fish to sell it, but I guess I still have a lot to learn.	芙洛可	"还以为自从开始做这份工作后
+我算是比较了解鱼的人了……看来还远远不够呢。"	芙洛可	"我身為商人，還以為自己
+對魚已經有一定程度的了解……
+看來我學習得還不夠呢。"
+Lanze	ランツェ	"まぁ、あの魚にあんな特徴があるなんて、
+そんなに有名な話じゃねえからな。
+普通は漁師か船乗りしか知らねえさ"	Lanze	Well, that thing about the stripes ain't so well-known. The only people who'd know that are fishermen or sailors.	兰泽	"不过，那种鱼有那种特征，
+也不算是大家都知道的小知识。
+一般来说只有渔夫和船员才会知道。"	藍澤	"不過，那種魚有那樣的特徵
+也不是什麼普遍的常識，
+通常只有漁夫或水手才會知道啦。"
+Flocke	フロッケ	"沖の方でしか釣れないですもんね。
+これからは魚を卸してもらうとき、
+教えてもらう必要があるかもしれません……"	Flocke	Right. These fish are only found out at sea, too. Maybe I should ask my supplier when I pick them up from now on...	芙洛可	"因为那种鱼只能在近海才能钓到嘛。
+看来以后进货的时候最好再多问两句……"	芙洛可	"畢竟牠是遠洋的魚種嘛。
+以後跟批發商進貨時，
+或許有必要好好請教一下了……"
+Flocke	フロッケ	"フロッケも釣りをしますが、
+沖の方の魚は縁遠いですから"	Flocke	I do some of my own fishing too, but it's always from the dock or the shore.	芙洛可	芙洛可虽然也钓鱼，但从没去近海钓过。	芙洛可	"雖然芙洛可也會釣魚，
+但沒什麼機會跑到外海去。"
+Lanze	ランツェ	"（行商人は大変だな。たくさんある商品の
+　中のひとつにそこまで知識を求められる。
+　だったら……）"	Lanze	(Bein' a merchant's no joke. You gotta sell a bunch of stuff and know everything about it, too. In that case...)	兰泽	"（旅行商人可真不容易。卖的东西杂，
+　会的又要精。既然如此……）"	藍澤	"（旅行商人真是辛苦。
+　那不過是眾多商品裡的其中一件，
+　卻都需要具備如此深厚的知識。既然如此……）"

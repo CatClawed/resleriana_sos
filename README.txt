@@ -1,0 +1,9 @@
+This repo is intended for any translation efforts for the game. When I got more info I'll give more info.
+
+The script I use is jank. I could have been smart and just piggybacked off an existing script, but reading the work of others is scary and I was having fun.
+
+There's something funny about AtelierTalk names, and yes a lot of CityTalkEvent files are broken, as well as a few TalkEvent. I just have txt files where things broke instead of CSV.
+
+Still need to test results more teehee.
+
+idk I'm tired I can work out more details later. work in progress. still gotta fetch JP exclusive files.

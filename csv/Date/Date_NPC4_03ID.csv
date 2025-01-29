@@ -1,0 +1,97 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Heidi	ハイディ	"町の近くに、こんな洞窟があったなんて……
+入り口も小さいし、地図がなかったら気づかなかったな"	Heidi	To think there was a cave like this so close to town! The entrance is so small, I wouldn't have noticed without the map.	海蒂	"村子附近居然有这种洞窟……
+入口这么狭小，要不是有地图根本发现不了。"	海蒂	"城鎮附近居然有這樣的洞窟……
+入口還那麼小，要是沒有地圖根本不會發現吧。"
+Heidi	ハイディ	今のところは魔物もいないし、平和っぽいね	Heidi	No sign of any monsters yet. Everything seems peaceful.	海蒂	目前还没有碰到魔物，看样子很和平呢。	海蒂	目前都還沒遇到魔物呢，看起來挺和平的。
+Juna	ユナ	"ああ。だが油断するな。ここが既に竜の棲み処の中で、
+それを恐れて他の魔物がいないだけかもしれない"	Juna	Don't let your guard down. If this is dragon territory, it might be that monsters are too afraid to roam around here.	尤娜	"嗯。但不能松懈。我们现在在龙的地盘上，
+说不定其他魔物是因为害怕龙才不敢靠近这里。"	尤娜	"嗯，但是千萬別大意。或許這裡已經是
+龍的棲息地，所以其他魔物不敢接近。"
+Heidi	ハイディ	"怖い事をいいますなぁ……
+竜という言葉に過敏なのでは"	Heidi	Oof, that sounds terrifying... Are you sure you're not being paranoid?	海蒂	"别吓我啊……
+你是不是太敏感了。"	海蒂	"別說這麼可怕的話嘛……
+我對龍這個字很敏感的。"
+Juna	ユナ	用心するに越したことはない、ということだ	Juna	I'm just saying we'd better be careful.	尤娜	小心驶得万年船。	尤娜	我們還是小心謹慎一點比較好。
+Juna	ユナ	！　止まれ、分かれ道だ	Juna	Stop! There's a fork in the road.	尤娜	停！路分叉了。	尤娜	！停下，前面是岔路。
+Heidi	ハイディ	"うーん、この先の地図はなさそうだよ。
+なんかよく分からない数字の並びはあるけど……"	Heidi	Hmm, it doesn't look like there's anything beyond here on the map. But there are some strange numbers written down.	海蒂	"唔，地图上好像没记录前面的部分，
+但写了很多奇怪的数字……"	海蒂	"唔～地圖好像只有畫到這裡。
+不過，旁邊有著一排奇怪的數字……"
+Heidi	ハイディ	"右の道は、５桁の数字。左の道には、４桁の数字。
+今のところ、法則性もなさそう……"	Heidi	The right path has a five-digit number. The left path has a four-digit number. There doesn't seem to be any pattern.	海蒂	"右边的路标了5个数字，左边标了4个。
+目前还搞不懂规则……"	海蒂	"岔路的右邊是五個數字，左邊是四個數字。
+目前還沒找到它們的規律性……"
+Heidi	ハイディ	"これが何か謎解きなら、どこかにヒントがあるはず……
+あっ、分かれ道の間の壁に、記号が彫ってある！"	Heidi	There should be some hints if this is some kind of riddle... Oh! There are some symbols carved into the wall between the split paths!	海蒂	"如果是解谜的话，应该会留下线索……
+啊，分叉口中间的墙壁上刻着记号！"	海蒂	"如果這是什麼解謎，提示應該就在某個地方……
+啊，岔路中間的牆壁上有刻著一些記號！"
+Juna	ユナ	"△、□、〇、☆……記号が４つ。これがヒントなので
+あれば、４桁の数字になりそうだが……"	Juna	△, □, 〇, ☆... There are four symbols. Maybe this is a hint for the four-digit number.	尤娜	"△、□、〇、☆……有4个记号。
+如果这是线索的话，应该对应的是4位数字……"	尤娜	"△、□、○、☆……一共有四個記號。
+假如這就是提示，那可能代表了四位數字……"
+Heidi	ハイディ	暗号でしょ、分かったよ	Heidi	It's a code, right? I think I figured it out.	海蒂	这是暗号吧，我明白了。	海蒂	這是暗號吧，我看懂了。
+Juna	ユナ	やるな、教えてくれ	Juna	Excellent. What's the answer?	尤娜	这么快就明白了吗。是什么意思？	尤娜	真厲害，快告訴我。
+Heidi	ハイディ	"えっとね、
+ここに並んでいる図形の、角の数に注目してみてよ"	Heidi	Okay, so, look at how many angles each symbol has.	海蒂	唔，你仔细观察一下这些图形的角的数量。	海蒂	妳看哦，試著數數看這些圖形有幾個角。
+Juna	ユナ	"角だと？　△は３、□は４、〇は……０で
+☆は……１０……"	Juna	Angles? Well, △ has three, □ has four, and 〇...well, that's zero. ☆ would be...ten.	尤娜	"角的数量？△是3，□是4，〇是……0
+☆是……10……"	尤娜	"幾個角？△有三個、□有四個、○是……零個，
+☆是……十個……"
+Juna	ユナ	"なるほど。数字を全部繋げた３４０１０、
+地図上でこの数字が書いてあるほうの道が正解だな！"	Juna	I see. Put the numbers together and you get 34010. So that means the path with this number on the map is the correct answer!	尤娜	"原来如此，所有数字拼起来就是34010，
+地图上标了这个数字的路就是正确的路！"	尤娜	"原來如此，全部連起來是34010，
+地圖上寫著這個數字的那條路就是正確答案！"
+Heidi	ハイディ	いえーい！　多分正解！	Heidi	Yay! That's probably right!	海蒂	嗯！应该就是这么回事！	海蒂	耶～！大概沒錯！
+Juna	ユナ	"さすがだ、ハイディ。私一人では
+ここを超えるのにもっと時間がかかっていただろう"	Juna	Nicely done, Heidi. It would've taken me ages to figure it out alone.	尤娜	"海蒂你真厉害。如果只有我一个人的话，
+要解开谜题恐怕还得花上不少时间。"	尤娜	"真不愧是海蒂。如果只有我一個人，
+應該會花上更多時間才能通過這裡吧。"
+Heidi	ハイディ	"あはは、ユナさんは真面目だからねー。こういうのは、
+どれだけとんちが利くかってのも大事だからね"	Heidi	Ahaha, you can be a bit hard-headed sometimes. But the key to this kind of thing is how quick-witted you can be!	海蒂	"啊哈哈，因为尤娜小姐很正经嘛。
+这种时候就得看脑筋转不转得过来了。"	海蒂	"啊哈哈，畢竟尤娜小姐太正經八百了～
+解謎這種東西也很需要臨機應變的能力喔。"
+Heidi	ハイディ	んじゃ、早速進んでみますか	Heidi	So, should we go and see what's ahead?	海蒂	我们继续前进吧。	海蒂	那我們趕快繼續前進吧。
+Heidi	ハイディ	"ユナさんを初めて見た時は威圧感あって怖かったけど、
+今となってはとっても真面目な人なんだなってわかるよ"	Heidi	I'll admit, I was intimidated when I first met you. But now, I know you're actually a really diligent, hard-working person.	海蒂	"第一次见到尤娜小姐那时，觉得你气魄十足有点害怕，
+现在我知道了，尤娜小姐其实是个非常正经的人。"	海蒂	"尤娜小姐剛開始會給我一種很可怕的壓迫感。
+但是相處過後，才發現原來妳是個非常認真的人。"
+Juna	ユナ	"真面目か、よく言われる。
+第一印象なら……私はお前に注目していた"	Juna	You're not the first to say that. Since we're talking about first impressions... I felt that I had to keep my eye on you.	尤娜	"我常被人说性格正经。
+说到第一印象……当时我很关注你。"	尤娜	"認真啊，經常有人這麼說。
+說起第一印象……我其實很早就注意到妳了。"
+Heidi	ハイディ	"えっ、なんで？
+まさか、私に才能を感じてたり……？"	Heidi	What? Why's that? Oh! Did you sense some hidden talent in me?	海蒂	"咦，为什么？
+难道是感受到了我身上的才能……？"	海蒂	"咦，為什麼？
+難道是注意到我的才能……？"
+Juna	ユナ	"月影の会に所属していたとなれば、殿下をお守りする
+ためにも警戒する必要があったからな"	Juna	My job is to protect His Highness. If you were a member of the Moonlight Society, I would need to be on guard.	尤娜	"因为你曾经是月影会的一员。
+为了保护殿下，当然要对你保持警戒。"	尤娜	"身為殿下的護衛，
+我必須時刻關注月影會成員的動向。"
+Heidi	ハイディ	あ、なるほど。そっちね	Heidi	Oh. Okay...	海蒂	啊，原来如此，是这个意思啊。	海蒂	啊，原來是這麼一回事。
+Juna	ユナ	"今となっては、臆病ではあるが、
+仲間や家族想いな人間なんだと感じている"	Juna	Now I see you're actually quite timid, but I can tell you cherish your friends and family.	尤娜	"现在的话，我觉得你虽然胆小，
+但非常关心伙伴和家人。"	尤娜	"現在我覺得妳雖然膽小，
+但是很重視同伴與家人。"
+Heidi	ハイディ	"臆病か……
+やっぱユナさんもそう思う？"	Heidi	Timid? You think so too?	海蒂	"胆小……
+尤娜小姐也这么觉得吗？"	海蒂	膽小啊……妳果然也這麼認為嗎？
+Juna	ユナ	"臆病は決して悪い事ではない、
+騎士が臆病ではダメだと思うがな"	Juna	There's nothing wrong with being timid. Wouldn't do for a knight, of course.	尤娜	"胆小不是坏事，
+只是骑士不可以这样。"	尤娜	騎士確實最忌諱這一點，不過膽小絕非壞事。
+Juna	ユナ	それに最近気づいたが、	Juna	Also, there's something else I noticed recently.	尤娜	另外最近我发现了一件事。	尤娜	而且我最近發現一件事。
+Juna	ユナ	"お前は笑ってその場をやり過ごそうしたり
+嘘でその場を乗り切ろうとするのに慣れているようだな"	Juna	You have a way of getting through tough situations by smiling and making things up.	尤娜	"当遇到麻烦和困难的时候，
+你似乎习惯用了笑容和谎言去应对。"	尤娜	"妳好像已經很習慣用假笑或謊言
+來解決當下的問題呢。"
+Heidi	ハイディ	"まぁそれが日常でありまして……
+慣れてる、ねぇ"	Heidi	Oh, yeah. Well, that's just how it is. You could say I'm used to it.	海蒂	"因为这种事情三天两头就有嘛……
+确实是习惯了。"	海蒂	嗯，這對我來說是家常便飯……習慣了。
+Juna	ユナ	"（ハイディにとってこれが慣れであるのは、
+　きっと……）"	Juna	(Heidi is used to it? That must mean...)	尤娜	"（海蒂之所以会习惯，
+　一定是因为……）"	尤娜	（海蒂之所以會習慣這麼做，一定是……）
+Juna	ユナ	"この先、行き止まりの空間になっているようだ。
+竜がいることは、さすがにないようだが、用心はしよう"	Juna	It looks like the area up ahead is a dead end. I don't think we'll see any dragons around here, but let's stay alert.	尤娜	"前面似乎没路了。
+龙看上去不像在那里，但还是要小心。"	尤娜	"前面好像是死路。看樣子應該是不會有龍了，
+但還是要小心一點。"
+Heidi	ハイディ	わ、分かった	Heidi	A-All right.	海蒂	好、好的。	海蒂	知、知道了。

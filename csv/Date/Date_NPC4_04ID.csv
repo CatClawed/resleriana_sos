@@ -1,0 +1,290 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Heidi	ハイディ	"私身軽だから、ちょっと中見てくるよ。
+ヤバかったらすぐ逃げてくるから、
+援護してね"	Heidi	I'm packed lighter, so I'll take a look inside. If things get dangerous, I'll get out of there right away. Back me up, okay?	海蒂	"我身手灵活，先进去探查看看。
+如果有危险我会马上逃出来，
+到时候要掩护我哦。"	海蒂	"我衣裝比較輕便，先去探探路。
+如果有危險會馬上逃出來，
+到時就拜託妳掩護了。"
+Juna	ユナ	ああ。気を付けろ	Juna	Understood. Be careful.	尤娜	好，千万小心。	尤娜	嗯，小心一點。
+Juna	ユナ	"（分かれ道にあった記号、地図の暗号、
+　魔物一匹いない空間……ここは一体）"	Juna	(The symbols at the fork of the road, the code on the map, this area without a single monster in sight... What is this place?)	尤娜	"（分叉路上的记号、地图上的暗号、
+　不见魔物踪影的洞窟……这究竟是……）"	尤娜	"（岔路上的記號、地圖的暗號，
+　以及沒有半隻魔物的空間……這裡到底是……？）"
+Heidi	ハイディ	"ユナさん、すごいものあったよ！
+こっちこっち！"	Heidi	Juna, this is incredible! Quick, come over here!	海蒂	"尤娜小姐，我发现了不得了的东西！
+快来快来！"	海蒂	"尤娜小姐，我發現一個很酷的東西！
+這邊這邊！"
+Juna	ユナ	"何だここは。ぬいぐるみや、
+おもちゃがたくさん……
+壁には、竜の落書きか……？"	Juna	What is this place? Stuffed animals, toys, and drawings of...dragons on the wall?	尤娜	"这是什么情况。好多娃娃和玩具……
+墙壁上的是，龙的涂鸦……？"	尤娜	"這裡是怎麼回事？好多娃娃和玩具……
+牆壁上那是龍的塗鴉嗎……？"
+Heidi	ハイディ	"ここはきっと、いつかの子どもたちの
+秘密基地だったんじゃないかな。
+地図も、子供たちの秘密の暗号だったんだ"	Heidi	I bet this was some kids' secret hideout from a long time ago. That was probably their secret code written on the map, too.	海蒂	"我想这里以前应该是孩子们的秘密基地吧。
+地图也是用孩子们的秘密暗号做成的。"	海蒂	"這裡以前一定曾經是孩子們的秘密基地吧。
+地圖上的塗鴉也是他們的秘密暗號。"
+Heidi	ハイディ	"傷み具合を見た感じ、
+長い時間放置されていたようだけれど……"	Heidi	Based on the wear of these toys, I'd say no one's been here for a pretty long time.	海蒂	"看这些东西的样子，
+应该是很久没人来过了……"	海蒂	"看這磨損的程度，
+應該已經放置了很長一段時間……"
+Heidi	ハイディ	"魔物もいないし、
+入り口も小さくて分かりづらいから、
+こうして残ったんだろうね"	Heidi	There aren't any monsters, and the entrance is so small and well-hidden, so I guess this place was left as-is.	海蒂	"大概是因为没有魔物，
+加上入口窄小不容易被发现，
+才完整地保存了下来。"	海蒂	"因為沒有魔物，入口又小得難以察覺，
+才會像這樣保留下來吧。"
+Heidi	ハイディ	"竜のすみか、っていうのは
+この壁に描いてある絵からつけたのかな？"	Heidi	"The ""Dragon's Den"" must've been referring to these drawings on the wall."	海蒂	"之所以会叫龙的巢穴，
+大概是因为墙壁上的画的缘故？"	海蒂	"龍的巢穴這個名字，
+是取自牆壁上的圖畫嗎？"
+Juna	ユナ	"（ここには竜も宝もないようだが、
+　ハイディは嬉しそうだな）"	Juna	(No dragon and no treasure, but Heidi looks happy.)	尤娜	"（虽然这里没有龙也没有宝藏，
+　但海蒂看上去很高兴。）"	尤娜	"（雖然這裡沒有龍也沒有寶藏，
+　但海蒂好像很高興。）"
+	選択肢	そのまま放置することはできない	Selection	We have to do something about this.	选项	不能就这么放着不管	選項	不能就這樣放著不管。
+Juna	ユナ	"ここは状態良く残っているとはいえ、
+放置はできない"	Juna	It's impressively well-preserved, but we can't just leave it be.	尤娜	"虽然这里保存得很好，
+但不能就这样放着不管。"	尤娜	"就算這裡保存得很完整，
+我也不能放著不管。"
+Juna	ユナ	"他の者が地図を見つけていたら、
+事故になっていた可能性もある"	Juna	If someone else had found the map, there could've been an accident.	尤娜	"如果有别人发现了地图，
+说不定会出什么意外。"	尤娜	"如果是其他人發現地圖，
+就有可能會發生意外。"
+Heidi	ハイディ	"そうだね。ちょっと寂しいけれど、
+このまま放置っていうわけにはいかないよね"	Heidi	Yeah, you're right. It's a shame, but I guess we should do something about it.	海蒂	"是啊。虽然要处理掉这里有点惆怅，
+但不能不管啊。"	海蒂	"也對。雖然有點捨不得，
+但也不能就這樣放著這個洞窟不管。"
+Juna	ユナ	……ハイディ、寂しいのか？	Juna	Heidi? Are you...sad?	尤娜	海蒂你……觉得惆怅吗？	尤娜	……海蒂，妳覺得捨不得嗎？
+Heidi	ハイディ	うん。少しね	Heidi	Yeah, kind of.	海蒂	嗯，有一点。	海蒂	嗯，有一點。
+	選択肢	お宝がなくて残念だったな	Selection	It's too bad there wasn't any treasure.	选项	没有宝藏真是太遗憾了	選項	沒有寶藏真是可惜。
+Juna	ユナ	お宝がなくて残念だったな	Juna	It really is too bad there wasn't any treasure.	尤娜	没有宝藏真是太遗憾了。	尤娜	沒有寶藏真是可惜。
+Heidi	ハイディ	えっ、お宝？	Heidi	Huh? Treasure?	海蒂	什么，宝藏？	海蒂	咦，寶藏？
+Juna	ユナ	"もし宝があれば、
+お前が持って帰ることもできたんだが……"	Juna	Yes, treasure. If there were treasure, you'd be able to claim it.	尤娜	如果有宝藏的话，你就可以带回去……	尤娜	如果有寶藏的話，妳也可以帶回家了……
+Heidi	ハイディ	"ああ、確かにそれは残念だけれど、
+これはこれで、見つけられてよかったかも"	Heidi	Oh yeah. Well, of course it's too bad there wasn't any treasure. But I'm glad we found this, too.	海蒂	"啊，确实很可惜呢。
+不过能找到这个也不错。"	海蒂	"哦，那確實是很可惜，
+但我覺得能發現這個也滿不錯的。"
+Juna	ユナ	これとは、この秘密基地のことか？	Juna	You mean this kids' hideout?	尤娜	你是指秘密基地？	尤娜	妳是指這個秘密基地嗎？
+	選択肢	秘密基地に思い出があるのか？	Selection	Does this hideout bring back memories?	选项	你有关于秘密基地的回忆吗？	選項	對秘密基地有什麼回憶嗎？
+Juna	ユナ	"ハイディ、嬉しそうだな。
+何か秘密基地に思い出があるのか？"	Juna	You look happy. Does this hideout bring back fond memories?	尤娜	"你看起来很高兴。
+是有什么关于秘密基地的回忆吗？"	尤娜	"海蒂妳看起來真開心呢。
+難道是對秘密基地有什麼回憶嗎？"
+Heidi	ハイディ	うん、そんな感じ	Heidi	Yeah, you could say that.	海蒂	嗯，是的。	海蒂	嗯，就是這樣。
+Heidi	ハイディ	"私にもあったんだ、秘密基地。
+こんなに立派な感じじゃないけれど"	Heidi	I used to have my own secret hideout. It wasn't as elaborate as this, though.	海蒂	"我也曾经有过一个秘密基地，
+虽然没有这个这么夸张。"	海蒂	"我以前也有個秘密基地。
+雖然沒有這麼氣派就是了。"
+Heidi	ハイディ	心の拠り所だった	Heidi	It was a source of comfort.	海蒂	那里是我曾经的心灵港湾。	海蒂	那裡是我的心靈寄託。
+Heidi	ハイディ	"実は私、前はシスターとして働いていてさ。
+でもシスターの生活は堅苦しくって！"	Heidi	I used to work as a nun, actually. But the sisters' way of life was just too strict for me!	海蒂	"其实我以前当过修女。
+但是修女的生活太死板了！"	海蒂	"其實我以前是做修女的，
+但修女的生活太死板了！"
+Heidi	ハイディ	"そういう時は、横穴に逃げ込んでたんだ。
+私の秘密基地、秘密の逃げ場所"	Heidi	Whenever it got to be too much, I would hide away in a cave. It was my secret hideout, my secret getaway.	海蒂	"难受的时候，我就会逃进洞窟里。
+那里是我的秘密基地，"	海蒂	"這種時候我就會逃進洞穴裡躲起來。
+那是我的秘密基地，秘密的避難處。"
+Heidi	ハイディ	"だから好きなんだ、秘密基地っていう響き。
+ここは子どもたち共有の秘密基地だから
+私のとは違うけど！"	Heidi	So there's something I like about the idea of a secret hideout. It's a bit different from mine, though, since a bunch of kids were using this one.	海蒂	"所以我很喜欢秘密基地这个词。
+虽然这里是很多孩子共享的秘密基地，
+和我的不一样！"	海蒂	"所以我很喜歡秘密基地這個詞。
+不過這裡是小孩子們共享的秘密基地，
+跟我的不一樣！"
+Heidi	ハイディ	あはは、私、昔から逃げてばっかりだ	Heidi	Haha. Guess I've always been running away from things.	海蒂	啊哈哈，我从以前开始就一直在逃避。	海蒂	啊哈哈，我從以前就一直在逃避了。
+	選択肢	逃げてばかりでいいのか	Selection	Are you going to keep running your whole life?	选项	一直逃避真的好吗	選項	一直逃避真的好嗎？
+Juna	ユナ	逃げてばかりの人生、それでいいのか	Juna	Are you going to keep running your whole life?	尤娜	一直逃避的人生真的好吗？	尤娜	一直在逃避的人生，妳覺得好嗎？
+Heidi	ハイディ	"うーん。
+逃げずに我慢して嫌々過ごしていくよりは
+いいと思う"	Heidi	Hmm... I think it's better than living a life of forcing myself to do things I don't want to.	海蒂	唔……比一直忍着不情不愿地过日子要好吧。	海蒂	"唔～總比不逃避
+卻壓抑地過著不喜歡的生活
+還要好多了吧。"
+Heidi	ハイディ	けど、ユナさんの言いたいことも分かる	Heidi	But I know what you mean, Juna.	海蒂	但我明白尤娜小姐想说什么。	海蒂	不過，我也明白尤娜小姐想表達的意思。
+Juna	ユナ	"私もハイディの生き方を否定したい訳では
+ない。ただ、逃げてばかりだと
+いつか損をするかもしれない"	Juna	I don't mean to dismiss your way of life either, Heidi. It's just that if you only ever run away from things, you might eventually come to regret it.	尤娜	"我不想否定你的生活方式，
+但如果一直逃避，也许将来会吃大亏。"	尤娜	"我也不是想否定海蒂妳的生存之道。
+但總是逃避的話，
+總有一天可能會吃虧的。"
+Juna	ユナ	お前が心配になったんだ	Juna	I suppose I'm just worried about you.	尤娜	我很担心你。	尤娜	我開始擔心妳了。
+	選択肢	別にいいんじゃないか	Selection	Nothing wrong with that.	选项	逃避也挺好的	選項	這樣也沒什麼不好啊。
+Juna	ユナ	別にいいんじゃないか	Juna	Nothing wrong with that.	尤娜	逃避也挺好的。	尤娜	這樣也沒什麼不好啊。
+Juna	ユナ	"私は今まで、困難にぶつかった時は
+武力を高め正面から立ち向かっていったが、
+向き合うことだけが全てじゃないだろう"	Juna	For me, whenever I've run into trouble, I've always worked to raise my physical strength and fight it head-on. But confrontation isn't everything.	尤娜	"每当遇到困难，我总是选择用武力正面应对，
+但解决问题的方法不止这一个。"	尤娜	"我以往遭遇困難時都會精進武藝，
+堂堂正正地面對挑戰，但並不是所有問題
+都只有正面迎戰這個方法啊。"
+Heidi	ハイディ	"驚いた。
+ユナさん真面目だから、
+てっきり怒られるかと……"	Heidi	Oh? I thought you would be upset with me since you're so...by-the-book.	海蒂	"吓我一跳。
+尤娜小姐那么正经，我还以为又会挨训呢……"	海蒂	"我好驚訝。
+因為尤娜小姐的個性很嚴謹，
+還以為鐵定會挨妳的罵呢……"
+Heidi	ハイディ	"ユナさんにそう言われると、
+なんか自信出てくるよ！
+ありがとう"	Heidi	Hearing that from you makes me feel a little better about it! Thanks!	海蒂	"听到你这么说，我感觉自信多了！
+谢谢你。"	海蒂	"聽到妳這麼說，
+我就有自信了！謝謝妳。"
+	選択肢	お前に足りないのは力だ	Selection	You just need to become stronger.	选项	你欠缺的是力量	選項	妳欠缺的是力量。
+Juna	ユナ	"私が思うに、
+お前には力が足りていない"	Juna	If you ask me, I'd say you just need to become stronger.	尤娜	在我看来，你欠缺的是力量。	尤娜	在我看來，妳欠缺的是力量。
+Heidi	ハイディ	"自分が臆病なことは自覚しているけど……
+力？"	Heidi	I know I'm timid, but...stronger?	海蒂	我知道自己胆小……但为什么是力量？	海蒂	我知道自己很膽小啦，可是……力量？
+Juna	ユナ	"ああ。
+逃げないためには、困難を乗り越えられると
+思えるほどの力があればいい"	Juna	Exactly. Strong enough to know that you can get through hardship. Then, you won't be tempted to run away.	尤娜	要想不逃避，就要拥有能够战胜困难的力量。	尤娜	"對。只要具備足以克服困難的力量，
+自然就不會逃避了。"
+Heidi	ハイディ	"力か……
+力と勇気は比例するものなのかな？
+私の臆病さは生まれつきだからなー"	Heidi	Stronger, huh? Though, I feel like that has to do with courage, too. And I'm just not a very courageous person...	海蒂	"力量啊……力量和勇气是成正比的吗？
+可是我天生胆小哎。"	海蒂	"力量啊……
+力量和勇氣是成正比的嗎？
+畢竟我天生就這麼膽小啊～"
+Juna	ユナ	"ハイディは、ヴァレリアたちと出会うまで
+シスターだったのか？"	Juna	You were a nun before you met Valeria and the others?	尤娜	"在遇到瓦莱莉娅她们之前，
+你一直是修女吗？"	尤娜	"海蒂妳在認識瓦萊莉婭他們之前，
+一直都在當修女嗎？"
+Heidi	ハイディ	話すと長いんだけど、実は色々あってさ	Heidi	Well, a lot of things happened. It's a long story.	海蒂	说来话长，其实以前发生过很多事。	海蒂	這個說來話長，其實發生了很多事。
+Heidi	ハイディ	"嫌なことがあって実家から逃げ出して、
+そのあと教会でお世話になったんだけど、
+シスター生活が嫌でまた逃げて"	Heidi	I ran away from home after something bad happened. Then the church took me in, but I didn't like the sister lifestyle, so I ran away again.	海蒂	"因为遇到了讨厌的事，我从家里逃出来，
+之后一直待在教会。
+后来厌倦了修女生活，又逃出了教会。"	海蒂	"因為有討厭的事情，我就從老家逃了出來，
+後來承蒙教會收留照顧，
+但我又厭煩了當修女的生活，結果又逃走了。"
+Juna	ユナ	"そうだったのか。聞く限り、
+その逃げ癖は、お前のこれまでの
+人生が強く影響していそうだな"	Juna	Ah, I see. It sounds like your habit of running away is tied heavily to your past experiences.	尤娜	"原来是这样。听起来你之所以习惯逃避，
+是因为过去的经历影响。"	尤娜	"原來是這樣啊。這麼聽起來，
+這種習慣性逃避在很大程度上
+應該是受到妳過去人生的影響吧。"
+Heidi	ハイディ	"うん。
+逃げるのは楽なんだって、知っちゃたからね"	Heidi	Yeah. I guess I just realized how easy it was to just drop everything and run.	海蒂	"嗯。因为逃过一次就知道，
+逃避很轻松啊。"	海蒂	嗯，當時我發現逃避會很輕鬆。
+Heidi	ハイディ	それに、私は生まれつき臆病だからさ	Heidi	Not to mention the fact that I've been a coward since the day I was born.	海蒂	而且我天生胆小。	海蒂	而且我天生又很膽小。
+Heidi	ハイディ	"現状が嫌だ、でも立ち向かう勇気もない、
+向き合うのが怖い。
+臆病すぎて、逃げるしかなかった"	Heidi	I'd hate the situation I was in, but wouldn't have the courage to do anything about it. Running away was the only option I had.	海蒂	"就算讨厌现在的生活，也没有直面问题的勇气。
+因为胆小，所以只能逃避。"	海蒂	"討厭現狀卻也沒有勇氣反抗，
+害怕面對挑戰。
+我太膽小了，只能選擇逃避。"
+Juna	ユナ	"笑ってその場をやり過ごしたり、
+嘘でその場を乗り切るのに慣れているのも
+そこから来ているのだろうか"	Juna	Perhaps that's why you're so used to laughing things off or lying to get through difficult circumstances.	尤娜	"你会用笑容和谎言去应对麻烦困难，
+应该也是出于这个缘故吧。"	尤娜	"習慣假笑敷衍當下的問題，
+或是用謊言來蒙混過關，
+看來這些毛病也是由此而來的吧。"
+Heidi	ハイディ	"それ、この部屋に入るときも言ってたね。
+うん、そうかも"	Heidi	Right, you mentioned that earlier. Yeah, that's probably true.	海蒂	"刚进来的时候你说过一样的话吧。
+嗯，我想就是这样。"	海蒂	"妳進來這個房間的時候也這麼說過呢。
+嗯，或許是這樣沒錯。"
+Juna	ユナ	"確かにそうすれば、その場を
+やり過ごすことはできるかもしれないが、
+同時に本心をないがしろにしていないか"	Juna	That tactic may get you out of hardship, but it must be frustrating too. You'd have to ignore your true feelings, wouldn't you?	尤娜	"这样做也许的确能解燃眉之急，
+但同时你也压抑了自己的本心。"	尤娜	"確實這麼做的話，
+或許可以暫時蒙混過去，
+但同時不也是在蒙蔽自己的良心嗎？"
+Juna	ユナ	"（臆病で、逃げ腰なハイディに、
+　私が伝えたいことは……）"	Juna	(Heidi is timid and tends to run away... What should I say to her?)	尤娜	"（面对胆小又爱逃避的海蒂，
+　我想告诉她的是……）"	尤娜	"（對於膽小又愛逃避的海蒂，
+　我想告訴她的是……）"
+	選択肢	だが私はそれを否定しない	Selection	But I don't think you're doing something wrong.	选项	但我不会否定你	選項	但我不會否定這一點。
+Juna	ユナ	"だが、私はそれを否定しない。
+それはお前が見つけた、
+人生を上手く生きるための術なんだろう"	Juna	But I don't think you're doing something wrong. Those are the skills you learned in order to survive.	尤娜	"但我不会否定你。
+这是你找到的让自己过得比较舒心的方式吧。"	尤娜	"但我不會否定妳這一點。
+畢竟這是妳為了將人生
+活得更率性自由而找到的方法。"
+Juna	ユナ	"困難にぶつかった時、ハイディは今まで
+そうして成果を手に入れてきたのだろう"	Juna	When you came across a struggle, that's how you got through it. That's how you persevered.	尤娜	"一直以来，你都是用这种方法
+面对困难并且顺利解决的不是吗。"	尤娜	"妳一直以來遇到困難的時候，
+都是透過這個方法來取得成果的吧。"
+Heidi	ハイディ	うん！　こうやって生きてきたのさ！	Heidi	Yep! That's how I live my life!	海蒂	嗯！我就是这么过来的！	海蒂	嗯！我一路走到現在都是如此！
+Juna	ユナ	"私にはできないことだが、
+だからといって否定はしない"	Juna	I could never do it myself, but that doesn't mean I think it's bad.	尤娜	虽然我做不到，但我不会否定。	尤娜	"雖然我沒辦法這麼做，
+但也不會否定妳。"
+Juna	ユナ	"それを上手くできる術を持っているのなら、
+それでいいのではないだろうか"	Juna	I don't see any problem if you've got the skills to make that work.	尤娜	"既然你已经有了合适的办法，
+那就不需要强行做出改变。"	尤娜	"既然妳能夠善用這個方法，
+那就沒問題了吧。"
+	選択肢	違う方法を考える道はないのか	Selection	Maybe there's a better way?	选项	不考虑一下别的办法吗	選項	不考慮其他方法嗎？
+Juna	ユナ	"何か、違う方法を
+考えるという道はないのか。
+それではあまりにも苦しくないか？"	Juna	You know, maybe there's a better way? Isn't it tough to keep living like this?	尤娜	"不能考虑一下别的办法吗？
+这样活着不辛苦吗？"	尤娜	"難道妳不考慮其他方法嗎？
+這樣不是很難受嗎？"
+Heidi	ハイディ	"うん。でも今までこれでやって来たから、
+今さら他の生き方なんて無理っていうか、さ"	Heidi	Yeah... But this is how I've always lived. I can't even fathom a different lifestyle at this point.	海蒂	"辛苦啊。但我一直以来都这么过，
+事到如今已经改不了啦。"	海蒂	"嗯，但到今天為止我都是這樣走過來的，
+事到如今要我選擇其他生存之道太困難了。"
+	選択肢	私を頼ってくれ	Selection	You can always lean on me.	选项	来依靠我吧	選項	依靠我吧。
+Juna	ユナ	"これからは
+私を存分に頼ってくれて構わない"	Juna	From now on, know that you can always lean on me.	尤娜	以后有什么事你都可以来找我。	尤娜	妳今後可以盡情依靠我沒關係。
+Juna	ユナ	"私にとってお前は、
+騎士として守るべき民であり、友人だからな"	Juna	As a knight, you are a citizen that I'm duty-bound to protect. Not to mention, you are my friend.	尤娜	"对我来说，你既是我身为骑士时该守护的国民，
+也是我的朋友。"	尤娜	"對我來說，妳是我身為騎士應該
+保護的人民，也是我的朋友。"
+Heidi	ハイディ	"そんなこと言ったら、頼りまくっちゃうよ？
+……でも"	Heidi	You sure about that? I might actually take you up on that offer. Still...	海蒂	"那我真的会动不动就依靠你哦？
+不过……"	海蒂	"妳要是這麼說，會讓我一直依賴妳喔？
+……不過，"
+Heidi	ハイディ	"いつもそばにユナさんがいるとは限らない。
+そんな甘えてらんないよ"	Heidi	...You can't always be by my side, Juna. And I shouldn't depend on you like that.	海蒂	"尤娜小姐并不是时时刻刻都在我身边。
+不可能事事都依靠你。"	海蒂	"尤娜小姐並不會隨時都在我身邊。
+我可不能這麼做。"
+Heidi	ハイディ	"ユナさん、ありがとう。
+まさか騎士であるユナさんに、
+私がそんな言葉をかけてもらえるなんて"	Heidi	Thank you, Juna. I never thought that a knight like you would care so much about me.	海蒂	"谢谢你，尤娜小姐。
+没想到身为骑士，尤娜小姐居然会对我这么说。"	海蒂	"尤娜小姐，謝謝妳。
+沒想到竟然能聽見身為騎士的
+尤娜小姐對我說出這番話。"
+Heidi	ハイディ	"……そういえばさ、気になってたんだけど、
+ユナさんって、
+やっぱりかわいいものが好きなんだね"	Heidi	Oh, by the way! I've been wondering... Juna, you like cute things, don't you?	海蒂	"说起来……我也有一点很在意。
+你其实很喜欢可爱的东西对吧？"	海蒂	"……說起來，有件事我很好奇，
+尤娜小姐妳果然喜歡可愛的事物吧？"
+Juna	ユナ	なっ！	Juna	What?!	尤娜	什……！	尤娜	什麼！
+Heidi	ハイディ	"ここに来てから、あそこにある
+かわいいぬいぐるみをちらちら見てたから、
+気づいちゃった"	Heidi	I noticed that you've been stealing glances at those cute stuffed animals since we got here.	海蒂	"来这里之后你一直在偷看那些可爱的娃娃，
+我就注意到了。"	海蒂	"因為妳來到這裡之後，
+會不時地看向那邊可愛的布偶，
+我才發現的。"
+Heidi	ハイディ	"竜騎士のこの一面を本にしたら、
+儲かるかな？　……なーんて"	Heidi	Maybe I should write a book about it? A stuffed toy-loving, dragon-hunting knight! Heheh...	海蒂	"要是把这样的龙骑士写成书，
+不知道会不会大赚一笔呢？开玩笑的啦。"	海蒂	"把龍騎士的這一面寫進書裡的話，
+會不會大賺一筆呢……開玩笑的啦～"
+Heidi	ハイディ	"隠してるんだよね、きっと。
+任せて！　世間には秘密にするよ"	Heidi	Just kidding! Don't worry, I won't tell anyone. Your secret is safe with me.	海蒂	"你不想让别人知道吧。
+放心吧！我不会告诉任何人的。"	海蒂	"妳一定是刻意隱藏起來的吧。
+儘管放心！我會對世人保密的。"
+Juna	ユナ	ああ、助かる	Juna	...Thank you.	尤娜	嗯，多谢。	尤娜	嗯，多謝。
+Heidi	ハイディ	"人それぞれ、
+事情や生き様ってのがあるんだよね"	Heidi	Everyone has their own circumstances, and their own way of dealing with life. You and I are no different.	海蒂	大家都各有各的苦衷和生活方式嘛。	海蒂	每個人都有各自的難處和生存之道嘛。
+Juna	ユナ	そのようだな	Juna	It would appear so.	尤娜	你说得没错。	尤娜	妳說的對。
+Juna	ユナ	"（きっとみんな、上手く生きるための術を
+　それぞれ持っているのだろう）"	Juna	(She's right. I suppose we all have our own way of getting through the day.)	尤娜	（大家一定都有各自的生存法则吧。）	尤娜	"（想必大家一定都有各自
+　能活得率性自由的方法吧。）"
+Heidi	ハイディ	"心配してくれてありがとね。
+でもほんと、そんな心配してくれなくても
+大丈夫だから！"	Heidi	Thanks for looking out for me, though. But I promise, I'm fine! You don't need to worry about me so much.	海蒂	"谢谢你担心我。
+不过我真的没事！"	海蒂	"謝謝妳的關心，
+但真的不需要為我操那份心啦！"
+Heidi	ハイディ	"あんまり話してると帰り遅くなっちゃうし、
+そろそろ行こ！"	Heidi	Anyway, if we keep talking here, we won't get back till late. Let's get going!	海蒂	"再聊下去就太晚了。
+我们走吧！"	海蒂	"聊太久會耽誤到回去的時間，
+我們差不多該走了！"
+Heidi	ハイディ	"いやー、竜がいなくてよかったよ！
+任務達成、万々歳だね！"	Heidi	I'm just glad there wasn't a dragon. Mission accomplished! Hip, hip, hurray!	海蒂	"哎呀，还好没有龙！
+任务完成，万岁！"	海蒂	"哎呀～沒有遇到龍真是太好了！
+任務達成萬萬歲！"
+Juna	ユナ	"（誰に何と言われても、
+　ハイディは自分の生き方を変えることは
+　ないのだろうな……）"	Juna	(Looks like Heidi's set on living the way she always has, no matter who says what.)	尤娜	"（无论别人说什么，
+　海蒂都会不会改变自己的生活方式吧……）"	尤娜	"（不管別人怎麼說，
+　海蒂應該都不會改變
+　自己的生存之道吧……）"

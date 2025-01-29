@@ -1,0 +1,68 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Valeria	ヴァレリア	レスナー、いるー？	Valeria	Resna? Are you in?	瓦莱莉娅	蕾斯娜，你在吗——？	瓦萊莉婭	蕾斯娜～妳在嗎～？
+Valeria	ヴァレリア	あれ、リディーだけ？	Valeria	Hm? Lydie, is that you?	瓦莱莉娅	嗯？只有莉迪吗？	瓦萊莉婭	奇怪，只有莉迪在嗎？
+Lydie	リディー	あっ！　ヴァレリアさん、ハイディさん	Lydie	Oh! Valeria! Heidi!	莉迪	啊，瓦莱莉娅小姐、海蒂小姐。	莉迪	啊！瓦萊莉婭小姐、海蒂小姐。
+Heidi	ハイディ	スーは一緒じゃないんだ？	Heidi	Is Sue with you?	海蒂	苏没和你在一起吗？	海蒂	蘇沒跟妳在一起嗎？
+Lydie	リディー	"スーちゃんはまだ砦のほうにいます。
+海で頂獣を迎え撃つための準備をお手伝いしてて"	Lydie	No, she's back at the fortress helping with the preparations for the Apexi interception.	莉迪	"小苏还在要塞那边。
+她在帮忙做海上迎击顶兽的准备。"	莉迪	"小蘇還待在要塞。
+為了在海邊迎擊頂獸，她在那裡協助準備。"
+Heidi	ハイディ	いよいよって感じだねえ	Heidi	Gosh, it feels like that battle's just around the corner.	海蒂	有种大战将至的感觉呢。	海蒂	有種終於要開始的感覺呢。
+Valeria	ヴァレリア	あっ、そうそう。レスナ見てない？	Valeria	Oh, right. Have you seen Resna around?	瓦莱莉娅	啊，对了。你有见到蕾斯娜吗？	瓦萊莉婭	啊，對了。妳有看到蕾斯娜嗎？
+Lydie	リディー	"私がアトリエに来た時にはもういませんでしたね。
+レスナさんに何か急用なんですか？"	Lydie	She hasn't stopped by since I got here. Was there something you needed her for?	莉迪	"我来炼金工房的时候她好像已经离开了。
+你找她有什么事吗？"	莉迪	"我來鍊金工房的時候就沒看到她了。
+妳找蕾斯娜有什麼急事嗎？"
+Valeria	ヴァレリア	実はね……	Valeria	Well, you see...	瓦莱莉娅	其实……	瓦萊莉婭	其實……
+Lydie	リディー	"うーん。岩をどかすなら
+爆弾を使うのが一番、効果的でしょうか"	Lydie	Hmm... If a boulder or two are blocking the way, then using a bomb would probably be the most effective way to get rid of them.	莉迪	"唔……要清除岩石的话，
+我觉得用炸弹是最有效的方式。"	莉迪	"唔～要移除岩石的話，
+炸彈應該是效果最好的吧？"
+Valeria	ヴァレリア	うんうん！　爆弾でどかーんってやるのが一番よね！	Valeria	Yeah! We should blast it all away with a great big boom!	瓦莱莉娅	是啊！用炸弹砰地一下炸开最方便了！	瓦萊莉婭	嗯嗯！用炸彈「砰！」地讓岩石碎裂最快了！
+Heidi	ハイディ	"いや待って！　塔の中なんだから、そこらの地面で
+爆発させるのとは違うでしょ！"	Heidi	Whoa, hang on! You'd be inside the tower! Blowing up the floor is a no-go!	海蒂	"不，等等！毕竟是在塔里，
+不能像在普通平地上一样炸吧！"	海蒂	"不，等等！既然在塔內，
+總不能把地面一起炸了吧！"
+Lydie	リディー	"そうなんですよね。足元が崩れるかもしれませんし
+……ええっと"	Lydie	Oh, that's a good point. That might do too much damage to the foundation. Um, then...	莉迪	"也是，搞不好自己站的地方都会被炸塌啊。
+我再想想……"	莉迪	"說得也是，畢竟有失足的風險。
+再讓我想想……"
+Lydie	リディー	"そもそも、隠し通路の先に素材があるなら、
+無闇に爆破しちゃったらまずいしなぁ……"	Lydie	Now that I think about it, if there are materials beyond that hidden passage, recklessly blasting it is probably a bad idea.	莉迪	"况且还要去密道的尽头采集素材呢，
+说炸就炸确实不太好……"	莉迪	"通道另一端有素材的話，
+隨便亂炸可能會把事情搞砸……"
+Heidi	ハイディ	素材も爆破しちゃったら困るもんね	Heidi	Yeah, we don't want to ruin those either.	海蒂	毕竟要是连素材一起炸没了就白忙活了。	海蒂	要是素材也被破壞就傷腦筋了。
+Lydie	リディー	"つまり、岩だけしっかり壊せるように
+しないといけませんよね"	Lydie	So you need a way to only break the rubble.	莉迪	"总之，得想个办法保证破坏岩石
+而不造成其他影响。"	莉迪	"也就是說，
+必須找到只破壞岩石的方法。"
+Lydie	リディー	"そうなると、爆発させるんじゃなくて……
+凍らせて砕くとかのほうがいいのかも？"	Lydie	In that case, maybe freezing it and then smashing it could work?	莉迪	"这样的话，比起炸毁……
+冻碎或许会更稳妥？"	莉迪	"既然如此，不靠爆破的話……
+把石頭凍碎如何？"
+Valeria	ヴァレリア	"なるほど……。確かにそれなら、必要なものだけ
+壊せるわ"	Valeria	Right, okay... We have to be really careful about what we are and aren't busting up.	瓦莱莉娅	"还有这招……
+确实这样就能精准破坏目标了。"	瓦萊莉婭	"原來如此……這樣確實可以
+破壞特定範圍。"
+Lydie	リディー	"では、その方向で考えましょう！
+壊したい岩の大体の大きさって分かりますか？"	Lydie	Anyway, let's try doing that! About how big is this pile of rocks and stones?	莉迪	"那我们就照着这个思路想下去吧！
+要破坏的岩石大概有多大呢？"	莉迪	"那就朝這個方向思考吧！
+妳們知道那顆岩石大概多大嗎？"
+Valeria	ヴァレリア	"岩の大きさ？
+ああ、確かザスキアからもらった紙に……"	Valeria	Huh? Oh, Saskia gave me this note...	瓦莱莉娅	"岩石的大小？
+我记得萨丝琪亚给我们的笔记上有……"	瓦萊莉婭	"岩石的大小？
+啊，薩絲琪亞給我的紙上似乎……"
+Lydie	リディー	"ふーむ、なるほど。
+じゃあこの素材はこれくらいで……"	Lydie	Hmm... Okay. Let's see, it should be this much of this material...	莉迪	"嗯，我知道了。
+那就需要这个素材，用量大概是……"	莉迪	"嗯……原來如此。
+這個素材大概需要這麼多……"
+Lydie	リディー	"こっちの素材はこれに置き換えたほうが……
+あとは混ぜる時間を調整して……"	Lydie	Swap this one for that one... Oh, the mixing time could use some tweaking...	莉迪	"这种的素材换成这种比较好……
+还有搅拌的时间也需要调整……"	莉迪	"這個素材換成這個比較好……
+再調整一下攪拌時間……"
+Heidi	ハイディ	おお、すごい集中力……	Heidi	Wow, she's so focused.	海蒂	哦哦，真是聚精会神……	海蒂	哦哦，好強的專注力……
+Lydie	リディー	"できました！
+このレシピ通りに作れば上手くいくと思います！"	Lydie	There, done! If you follow that recipe, it should turn out just fine!	莉迪	"好了！
+照着这份配方做的话应该没问题！"	莉迪	"好了！
+應該能靠這個配方順利完成！"
+Valeria	ヴァレリア	さすがリディーね！　じゃあ早速作ってみましょ！	Valeria	Lydie, you're amazing! We'll put this straight to good use!	瓦莱莉娅	真不愧是莉迪！那我们就赶紧行动起来吧！	瓦萊莉婭	不愧是莉迪！那我們趕緊開始吧！

@@ -1,0 +1,365 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Juna	ユナ	"（久しぶりの休日だ。
+　過剰な鍛錬は殿下に止められているし、
+　カフェで少しゆっくりするか）"	Juna	(It's my first day off in a while. If His Highness insists on me taking a break, I might as well relax at a cafe.)	尤娜	"（今天是久违的休息日。
+　殿下也禁止我过度锻炼。
+　那去咖啡厅放松一下吧。）"	尤娜	"（好久沒放假了。
+　既然殿下叫我不要過度鍛鍊，
+　那就去咖啡廳稍微放鬆一下吧。）"
+Juna	ユナ	（む、あそこにいるのは）	Juna	(Huh? Is that...?)	尤娜	（唔，那个人是……）	尤娜	（唔，在那邊的是……）
+Juna	ユナ	ハイディ	Juna	Heidi!	尤娜	海蒂。	尤娜	海蒂。
+Heidi	ハイディ	"わ！　ユナさん！
+いつもと服装違うから一瞬わかんなかった！
+今日は騎士、お休み？"	Heidi	Oh, it's Juna! I didn't recognize you with those clothes! Off knight duty today?	海蒂	"啊！尤娜小姐！
+你和平时打扮不一样，一下子都没认出来！
+今天你不用去骑士团吗？"	海蒂	"哇！尤娜小姐！
+妳穿得跟平常不一樣，我一下子沒認出來！
+今天不用當騎士嗎？"
+Juna	ユナ	"ああ。今日は休日だからな。
+ところでお前は何をしている"	Juna	Yes, I am. What are you up to?	尤娜	"嗯，今天我休息。
+话说回来，你在这里做什么？"	尤娜	"對，我今天放假。
+話說妳在做什麼？"
+Heidi	ハイディ	"いやー、私はちょっとね。
+どんな依頼があるのか見に来たんだ"	Heidi	Oh, well... I came to see what kind of requests there might be.	海蒂	呃，我来看看有什么能接的委托。	海蒂	"哎呀～也沒什麼啦。
+我就是來看看有哪些委託。"
+Juna	ユナ	"そうか。
+先日も言ったが、依頼を受けるなら、
+ここにあるような正式なものを選ぶべきだ"	Juna	I see. Like I said, if you're looking for requests, you should look for proper ones like what they have around here.	尤娜	"是吗。之前我也说过，
+要接委托就来这里选正规的。"	尤娜	"這樣啊。
+前幾天也說過了，既然要接委託，
+就該選擇像這種地方會有的正式案件。"
+Juna	ユナ	"ここにも、探せば割りのいい依頼はある。
+例えば……"	Juna	If you look hard enough, you should be able to find lucrative requests here, too. Let's see...	尤娜	"用心找的话，这里也有划算的委托。
+比如……"	尤娜	"只要仔細找找，這裡也會有很賺的委託。
+比如說……"
+	選択肢	「池のヌシを釣り上げてください」	Selection	"""Can someone fish the master of the pond for me?"""	选项	“请钓一条池沼之主”	選項	「請幫忙釣起池中之主」。
+Juna	ユナ	"「池のヌシを釣り上げてください」、
+この依頼はどうだ。
+釣りだから、命の危険はなさそうだぞ"	Juna	"How about this one? ""Fish the master of the pond."" No danger in fishing."	尤娜	"“请钓一条池沼之主”。
+这个怎么样。
+钓鱼的话不会有生命危险吧。"	尤娜	"「請幫忙釣起池中之主」，
+這個委託如何？
+釣魚的話，應該不會有生命危險吧。"
+Heidi	ハイディ	"池のヌシってなかなか見れないやつじゃん。
+ハイディちゃんの豪運を
+お見せするときが来たかな？"	Heidi	Master of the pond? That's one of those super rare fish, right? This might be the time to show off my magnificent luck!	海蒂	"池沼之主一般根本见不到啊。
+是时候让大家见识一下我的强运了！"	海蒂	"池中之主是很難見到的傢伙耶。
+海蒂我會有展現超強運氣的時候嗎？"
+Juna	ユナ	……ハイディが、豪運……？	Juna	Your...magnificent luck?	尤娜	你，强运……？	尤娜	……海蒂展現超強運氣……？
+Heidi	ハイディ	"うっ！
+私がツイてないことくらい
+私もわかってるよ！"	Heidi	I'm joking, okay?! I know better than anyone how unlucky I am!	海蒂	呃！我当然知道我运气很烂啦！	海蒂	唔！我也非常清楚自己很不走運啦！
+	選択肢	「思い出の家具を修理してください」	Selection	"""Furniture repairs needed. Important memorabilia."""	选项	“请修理承载着回忆的家具”	選項	「請幫忙修理充滿回憶的傢俱」。
+Juna	ユナ	"「思い出の家具を修理してください」、
+この依頼はどうだ。
+お前は手先が器用だったな"	Juna	"How about this one? ""Furniture repairs needed. Important memorabilia."" You're good with your hands, aren't you?"	尤娜	"“请修理承载着回忆的家具”。
+这个怎么样？
+你不是很心灵手巧吗。"	尤娜	"「請幫忙修理充滿回憶的傢俱」，
+這個委託如何？
+畢竟妳有一雙巧手啊。"
+Heidi	ハイディ	"うん。器用さには自信があるよ！
+修理くらいお手の物！"	Heidi	Absolutely, I'm proud of my handiwork. I could handle a repair in no time.	海蒂	"嗯，这个我很有自信！
+修理东西不在话下！"	海蒂	"嗯，我對手藝很有自信喔！
+修理這點小事輕輕鬆鬆啦！"
+Heidi	ハイディ	"だけどこれは、思い出の、ってあるから
+責任重大って感じで少し怖いなー……"	Heidi	But it sounds like this piece of furniture is important to them, right? That's a lot of pressure.	海蒂	"但这上面写了承载着回忆，
+给人一种责任重大的感觉，我有点担心……"	海蒂	"不過，這上面有提到是「充滿回憶」的東西，
+感覺責任很重大，有點怕怕的……"
+Juna	ユナ	"責任から逃げていたら、
+なかなか儲かれないぞ"	Juna	You'll never earn a single Cole if you keep running away from responsibility like that.	尤娜	一直逃避责任可赚不到钱。	尤娜	"要是一直逃避責任的話，
+那可賺不了什麼錢喔。"
+Heidi	ハイディ	"そうかもしれないけどー……
+ま、こういう依頼は錬金術士さんに
+お任せしますかね"	Heidi	I guess, but... I think I'll leave this kind of request to an alchemist.	海蒂	"或许你说的没错，但……
+算了，这种委托还是交给炼金术士吧。"	海蒂	"或許是這樣沒錯啦……
+不過，這種委託還是交給鍊金術士吧。"
+	選択肢	「求ム！謝罪職人」	Selection	"""Apology specialist desperately needed!"""	选项	“急求专业道歉人！”	選項	「徵求！道歉專家」。
+Juna	ユナ	"「求ム！謝罪職人」……？
+なんだ、この依頼は"	Juna	"""Apology specialist""? What in the world is that?"	尤娜	"“急求专业道歉人！”……？
+这是什么委托？"	尤娜	"「徵求！道歉專家」……？
+怎麼會有這種委託？"
+Heidi	ハイディ	"うーん、よくわかんないけど、
+謝るだけで報酬もらえるなんて最高じゃん！"	Heidi	Hmm... I have no idea what it means, but making money just by apologizing? Sounds perfect!	海蒂	"唔……虽然搞不明白，
+但只要道歉就能拿到报酬也太棒了吧！"	海蒂	"唔～雖然不是很清楚，
+但道歉就能收取報酬簡直棒呆了嘛！"
+Heidi	ハイディ	"あ、でもこれよく見たら報酬、料理じゃん！
+ならいいや。
+料理は、うちのフロッケのが一番だからね！"	Heidi	Oh, wait... They're paying with food? In that case, I'll pass. There's no one whose cooking could ever beat Flocke's!	海蒂	"啊，但仔细一看，这报酬是料理啊！
+那算了。我们家芙洛可做的饭最好吃了。"	海蒂	"啊，不過仔細一看，報酬是料理耶！
+既然是這樣就算了。
+料理還是我們家芙洛可做的最好吃啦！"
+Juna	ユナ	"報酬が良ければ、お前は
+意味の分からない謝罪でもするのか？"	Juna	You would consider making an apology to some random stranger just to get paid?	尤娜	"只要报酬合适，
+让你不明不白地道歉也行吗？"	尤娜	"只要報酬不錯，
+妳就願意糊里糊塗地道歉嗎？"
+Heidi	ハイディ	"私にも譲れないものはあるけどさ、
+謝罪して上手くいくなら依頼でもなんでも、
+私は喜んで謝るよ！"	Heidi	I have my non-negotiables too, you know. But if I can complete a job by apologizing, that sounds good enough for me!	海蒂	"我当然有自己的底线，
+但如果只要道歉就能解决问题，
+管它是委托还是什么，我都愿意！"	海蒂	"我當然也有無法退讓的事。
+不過既然道歉就能解決一切，那不管是
+委託還是什麼，我都很樂意去做！"
+Heidi	ハイディ	"あっ、この魔物討伐の依頼、報酬いいかも！
+そこまで危険もなさそうだけれど、
+でもやっぱ私一人で行くのもなあ……"	Heidi	Oh! This request to take down monsters might be worth it! It doesn't look all that dangerous, but still, maybe I shouldn't do it alone...	海蒂	"啊，这个讨伐魔物的委托报酬不错！
+看上去没那么危险，但我一个人有点勉强……"	海蒂	"啊，這份討伐魔物的委託好像報酬不錯！
+看起來也不怎麼危險，
+不過只有我一個人去的話……"
+Juna	ユナ	"それならば私が同行しよう。
+今日は身体を動かし足りていないからな。
+鍛錬ついでだから、私は報酬もいらん"	Juna	In that case, I'll accompany you. I haven't gotten enough exercise today, anyway. And I don't need the reward, either.	尤娜	"那我陪你去吧，
+今天有点活动不足，我就当锻炼了。
+也不需要报酬。"	尤娜	"那我也一起同行吧，
+反正今天身體的活動量不太夠。
+我只是順便去鍛鍊而已，不需要報酬。"
+Heidi	ハイディ	"ええーっ！　いいの！？　やった！
+さっすがユナさん、頼れる騎士様！
+じゃ早速、依頼の受注を……"	Heidi	What?! Really!? Woohoo! I knew I could count on you, brave Knight Juna! All right, let's take this request and...	海蒂	"咦！真的吗？！太好了！
+真不愧是尤娜小姐，可靠的骑士大人！
+我马上去办手续……"	海蒂	"咦～！可以嗎！？太好了！
+不愧是尤娜小姐，最可靠的騎士大人！
+我這馬上就去登記……"
+	屈強な男	"おい待てよ、
+その依頼は俺が先に目をつけてたんだ。
+横取りすんじゃねえ！"	Burly Man	Hold it right there, missy. I saw that request first. You tryin' to steal it from me?!	强壮的男人	"喂，等下。
+这个委托是我先看上的，不准抢！"	健壯的男人	"喂，站住。
+那份委託是我先看上的，別想搶走！"
+Juna	ユナ	"なんだ貴様。目をつけていた？　横取り？
+そんな道理はまかり通らない！
+正式に受注されていないのだからな"	Juna	"""Saw it first""? ""Steal""? Nothing is decided until the request has been officially accepted. You're being ridiculous!"	尤娜	"你在胡说什么。你先看上的？抢你的？
+又没有办手续，你少在这里胡搅蛮缠！"	尤娜	"你哪位啊？你先看上？搶走？
+天底下沒有這種道理！
+這委託都還沒被正式登記呢。"
+	屈強な男	"調子乗ってんじゃねえぞ！
+痛い目見たいか！？"	Burly Man	Who you callin' ridiculous?! You wanna start somethin'?!	强壮的男人	"凶什么凶？！
+小心我给你好果子吃！"	健壯的男人	少得意忘形了！妳是想吃點苦頭嗎！？
+Heidi	ハイディ	まあまあまあまあ落ち着きなって。ね？	Heidi	All right, all right. Let's all just calm down, okay?	海蒂	好了好了，两位都冷静一下怎么样？	海蒂	好啦好啦，你們都冷靜點。好嗎？
+Heidi	ハイディ	"いやー、あんたが先に目をつけていたなんて
+知らなかったよ。ごめん！"	Heidi	Seriously, I didn't realize you had been eyeing it before me. Sorry!	海蒂	"哎呀，我不知道你先看上了这个，
+不好意思！"	海蒂	"哎呀～我都不知道你已經先看上
+這份委託了，真是抱歉！"
+	屈強な男	あ、ああ……	Burly Man	O-Oh... Sure.	强壮的男人	啊、哦……	健壯的男人	啊，嗯……
+Heidi	ハイディ	"てかあんた、私と違って腕が立つだろ？
+そんなあんたにオススメの依頼があるんだ。
+私には無理だったんだけどさー、どう？"	Heidi	You know, you seem like a pretty tough guy. There's actually a different request I think you'd be the perfect fit for. I could never pull it off, but maybe you can. Interested?	海蒂	"不过你看起来比我有实力啊。
+这里有个委托我做不了，
+但应该很适合你，如何？"	海蒂	"話說，你一定比我厲害吧？
+我有份委託想推薦給你。
+這對我來說太困難了～你覺得怎麼樣？"
+	屈強な男	"俺の腕があればどんな依頼だって余裕よ！
+その依頼、寄越せ！　受けてやるよ"	Burly Man	Heh, I guess I am pretty tough! Sure, let's have it. I'll take that request offa ya.	强壮的男人	"凭我的实力，不管什么委托都不在话下！
+把那个委托给我！我来做。"	健壯的男人	"我的實力絕對能輕鬆完成任何委託！
+快點拿來！我這就接下啦。"
+Heidi	ハイディ	"はい！　んじゃ、よろしくね！
+頼りにしてるよー！
+……よし"	Heidi	Great! Well, here you go. I'm counting on you... Whew, he's gone.	海蒂	"好的！那就麻烦你啦！
+靠你了哦！
+好了……"	海蒂	"好！那就拜託了！
+一切全靠你囉～！
+……搞定。"
+Heidi	ハイディ	"今日はユナさん私服とはいえ、
+白夜の騎士筆頭を知らないのは、
+王都の人間じゃないね、あれは"	Heidi	I know you're not in uniform, but if he couldn't recognize a leading Knight of the Midnight Sun, he must not be from around here.	海蒂	"虽说今天尤娜小姐穿的是私服，
+但他居然不认识白夜骑士的佼佼者，
+看来应该不是王都人。"	海蒂	"就算尤娜小姐今天穿便服，
+他也應該要知道妳是白夜騎士，
+可見他不是王都人呢。"
+Juna	ユナ	"（ハイディに乗せられた男は、
+　他の討伐依頼を受注して去って行ったな。
+　……ところで）"	Juna	(Looks like that man fell for Heidi's trick and took a different request instead. Which reminds me...)	尤娜	"（那男人听了海蒂的话，
+　接了别的讨伐委托走了。
+　话说回来……）"	尤娜	"（那個男人被海蒂的花言巧語給說服，
+　接下了其他討伐委託後就離開了……
+話說回來……）"
+	選択肢	オススメの依頼？	Selection	What was that request you recommended to him?	选项	适合他的委托？	選項	推薦的委託？
+Juna	ユナ	"オススメの依頼とはなんだ？
+他に気になる依頼があったのか。
+腕が不安だというなら私が手を貸すが"	Juna	"What was that ""request"" you recommended to him, anyway? If it was too much for you to handle, you should've just asked me to lend a hand."	尤娜	"适合他的委托是指？
+你还看中了别的委托吗。
+如果担心实力不够，我会帮你的。"	尤娜	"妳推薦的委託是什麼？
+還有其他想接的工作嗎？
+如果怕自己處理不來，我可以幫忙喔。"
+Heidi	ハイディ	"え？　いやいや、あれはその場しのぎの嘘！
+依頼自体は本当だけどね。
+あっちよりこっちの依頼の方がいいもん"	Heidi	Huh? Oh, that? Nah, I was just making things up on the fly! The request is real, but this one here is much better.	海蒂	"嗯？啊不是，那只是为了搪塞他撒的谎而已！
+委托本身是真的，不过还是我这个委托更好。"	海蒂	"咦？不不不，那只是臨時胡謅出來的啦！
+雖然真的有那樣的委託，
+但是現在這個更好。"
+Juna	ユナ	嘘のわりには随分自然だったな	Juna	That was certainly convincing for a lie.	尤娜	但我看你说得很自然。	尤娜	妳撒起謊來真是得心應手呢。
+Heidi	ハイディ	"上手く生きていくには、
+口達者も大切なんだよ"	Heidi	If you want to get ahead in life, you have to be a smooth talker!	海蒂	"要想活得舒心一点，
+嘴皮子工夫也是很重要的。"	海蒂	"想要活得如魚得水，
+嘴上功夫也是很重要的。"
+	選択肢	なぜ謝ったんだ	Selection	Why did you apologize?	选项	你为什么道歉	選項	為什麼要道歉？
+Juna	ユナ	"なぜ謝ったんだ。
+あの男はただ難癖をつけてきていただけだ"	Juna	Why did you apologize? That man did nothing but lash out at you.	尤娜	"你为什么道歉。
+那个男人根本就是找茬。"	尤娜	"剛才妳為什麼要道歉？
+那個男人只是在找碴而已。"
+Heidi	ハイディ	"うん。
+だけど、あそこはああするのが
+丸く収まっていいかなって"	Heidi	No kidding. But I figured it'd be better to calm him down.	海蒂	"嗯。
+不过刚才那种情况，道个歉就能和平解决了。"	海蒂	"嗯。但是，我覺得在當下的情況
+這樣做就能圓滿收場了。"
+Heidi	ハイディ	"それにああいった態度の大きい人は、
+相手が下手に出ると気分が良くなるから
+扱いやすいんだよねー"	Heidi	And besides, arrogant people like that love it when others grovel, so dealing with them is easy.	海蒂	"而且那种趾高气昂的人，
+只要对方给足了面子就会心情很好，
+还挺好应付的呢。"	海蒂	"而且像他那樣自大的人，
+只要受到吹捧就會沾沾自喜，
+很好應付的啦～"
+Heidi	ハイディ	"結果的に、
+狙っていた依頼は私たちがとれたんだから、
+いいじゃん！"	Heidi	After all, we got the request we were after, didn't we?	海蒂	"从结果上来说我们拿到了想要的委托，
+不是挺好的吗！"	海蒂	"以結果來說，
+我們也接到想要的委託了。
+這不是挺好的嘛！"
+Heidi	ハイディ	何より謝るのは無料だよ、得々すぎるね	Heidi	More importantly, apologizing is completely free! Can't beat that!	海蒂	最重要的是道歉不要钱，简直太赚啦。	海蒂	反正道歉又不用花錢，簡直賺翻了。
+	選択肢	荒事なら私に頼れ	Selection	Leave the ruffians to me.	选项	要动手的话就交给我	選項	要打架就交給我吧。
+Juna	ユナ	"こういう時は私を頼ってくれていいんだぞ。
+何とかなったからよかったものの、
+相手が実力行使に走る可能性だってあった"	Juna	You should really leave these kinds of things to me. It worked out this time, but he could've just as easily resorted to violence.	尤娜	"这种情况可以交给我处理。
+好在刚才没出什么事，
+但对方说不定会动粗。"	尤娜	"這種時候儘管交給我處理吧。
+如果能和平收場當然很好，
+但是對方也有可能動用武力來解決。"
+Heidi	ハイディ	ありがとう！　ユナさん頼りになるー！	Heidi	Aw, thanks! I'll let you handle it next time, then.	海蒂	谢谢！尤娜小姐真是太可靠了！	海蒂	謝謝妳！尤娜小姐真可靠～！
+Heidi	ハイディ	"てかあいつ、ユナさんを知らなくても
+この溢れ出る強者の波動にも
+気付かないなんて……命知らずめ……"	Heidi	That guy sure was reckless though, wasn't he? He was completely unaware of your intense warrior's aura. He should count himself lucky.	海蒂	"话说，那家伙不仅不知道尤娜小姐，
+连这股扑面而来的强者气息都没注意到……
+真是个不要命的家伙……"	海蒂	"話說回來，那傢伙不認識妳就算了，
+居然沒注意到妳渾身散發出來的強者氣息……
+簡直不要命……"
+Heidi	ハイディ	"まあ、丸く収められてよかった。
+殴り合いとか始まっちゃたら怖いしね"	Heidi	Good thing it ended peacefully. Imagine if we got into a fistfight or something... Eugh.	海蒂	"总之事情能圆满解决就好。
+要是真打起来的话也太吓人了。"	海蒂	"總之，能順利解決真是太好了。
+要是兩邊打起來就太可怕了。"
+Heidi	ハイディ	"よし、狙ってた依頼は受注できたし、
+早速行きますか！
+ユナさん、同行よろしくお願いします！"	Heidi	Okay. Now that we got the request we were after, let's get a move on! Thanks for coming with me, Juna.	海蒂	"好，既然接到了想要的委托，那就赶快出发吧！
+尤娜小姐，麻烦你和我一起去一趟了！"	海蒂	"好，成功接到想要的委託，
+我們馬上出發吧！
+尤娜小姐，這一路上還請妳多多指教！"
+Juna	ユナ	ああ、行くぞ！	Juna	Of course. Lead the way!	尤娜	嗯，走吧！	尤娜	嗯，我們走吧！
+Heidi	ハイディ	"あー！　無事帰ってこれた！
+これもユナさんのおかげだよ、ありがとう！"	Heidi	Whew, we made it back! Thanks again, Juna!	海蒂	"啊！顺利回来了！
+这都是尤娜小姐的功劳，谢谢你！"	海蒂	"啊～！終於平安回來了！
+這都是託尤娜小姐的福，謝謝妳！"
+Juna	ユナ	"気にするな。私もいい鍛錬になった。
+ところで、その持っている箱はなんだ"	Juna	Don't mention it. It was good training for me, too. By the way, what's that box you got there?	尤娜	"不客气。我也好好锻炼了一番。
+话说，你手里的箱子是什么？"	尤娜	"不客氣，我也好好鍛鍊到身體了。
+話說，妳手上的箱子是什麼？"
+Heidi	ハイディ	"あ、これ？　依頼先で見つけたんだよね。
+すっごい古びてるけど、宝箱かなーって。
+鍵かかってたけど、こんなのちょちょいよ！"	Heidi	Hm, oh this? I found it while we were working. It looks pretty old, but I thought it might be a treasure chest. The lock on it was a piece of cake for me, though!	海蒂	"啊，这个？这是在委托地点发现的。
+虽然很旧，但说不定是宝箱。
+虽然上了锁，但要打开倒也不难！"	海蒂	"啊，這個嗎？是我在委託地點找到的。
+它看上去非常老舊，但也算是個寶箱吧。
+要打開這種鎖對我來說是小菜一碟！"
+Juna	ユナ	中には何が入っていたんだ？	Juna	What was inside?	尤娜	里面有什么？	尤娜	寶箱裡有什麼？
+Heidi	ハイディ	"それがさー、期待してたんだけど、
+いかにもな落書きの地図一枚だけ。
+きっと子どものイタズラだね……"	Heidi	I was really excited, but you know what I found? Nothing more than a measly scribble of a map. Just one sheet. Probably just some kid's prank.	海蒂	"这个嘛，我本来还很期待呢，
+结果只有一张潦草的地图。
+一定是小孩子的恶作剧……"	海蒂	"這個嘛～我本來很期待，
+結果裡頭只有一張塗鴉的地圖。
+肯定是小孩子的惡作劇吧……"
+Juna	ユナ	"ちょっと待て。
+この地図、「竜のすみか」と書いてある。
+これは放っておけん！"	Juna	"Wait a minute. This map has ""Dragon's Den"" written on it. We can't ignore that!"	尤娜	"等等。这张地图上写着“龙的巢穴”。
+这可不能不管！"	尤娜	"妳等等，這張地圖上寫著「龍的巢穴」。
+這我可不能當作沒看見！"
+Heidi	ハイディ	え？	Heidi	Huh?	海蒂	咦？	海蒂	咦？
+Juna	ユナ	"ハイディの言うように、
+九割九分、子どものイタズラだろう。
+だが万が一、本物の地図だったら大変だ"	Juna	Like you said, there's a 99% chance that it's just a harmless prank. But if that turns out to be real, we're in trouble.	尤娜	"海蒂说得没错，这极有可能是某个小孩的恶作剧。
+但万一这张地图是真的就糟了。"	尤娜	"或許如妳所說，
+這八成是小孩子的惡作劇。
+但萬一它是真的，那可就糟了。"
+Juna	ユナ	"早速だがハイディ、明日、私と行くぞ。
+まずは様子見として、
+私と、斥候のお前の二人で"	Juna	Heidi, we're not wasting any time. You're going with me tomorrow! We'll start by investigating the site between the two of us, with you as the scout.	尤娜	"海蒂，明天和我去一趟吧。
+看看到底什么情况，你负责侦察。"	尤娜	"事不宜遲，海蒂，明天跟我走一趟。
+由我和身為斥侯的妳先過去那邊看看情況。"
+Heidi	ハイディ	"ええー！？　万が一の話をするなら、
+私、竜なんかムリムリ！
+もっと強い人と行くべきだって！"	Heidi	Huh?! No way am I going to take that 1% chance of running into a dragon! Nuh-uh! Find someone stronger to take along!	海蒂	"咦？！万一这是真的，我可打不过龙啊！
+你应该找更强的人一起去！"	海蒂	"咦～！？萬一真的遇到龍，
+我絕對打不過！
+妳應該要找個更強的人一起去啦！"
+Juna	ユナ	"（だがこの地図を見つけたのはハイディだ。
+　ハイディをその気にさせるには……）"	Juna	(But Heidi's the one who found this map. I know how I might convince her...)	尤娜	"（但找到这张地图的人是海蒂。
+　要想让她松口……）"	尤娜	"（但這可是海蒂找到的地圖。
+　為了讓她有那個意願……）"
+	選択肢	報酬が出るぞ	Selection	There'll be a reward.	选项	可以拿到报酬	選項	提供報酬。
+Juna	ユナ	"これは国の安全を守るための正式な依頼だ。
+よって、報酬が出る"	Juna	This is a formal request to protect the safety of the kingdom. Thus, there shall be a reward.	尤娜	"这是为了守护王国安全的正式委托。
+你可以拿到报酬。"	尤娜	"這是保衛國家的正式委託，
+所以我會提供報酬。"
+Heidi	ハイディ	"ええっ？！　報酬が！？
+ユナさんも同行してくれるんだよね？
+えへへ、ちなみに、いかほどで……"	Heidi	Really?! A reward?! And you'd be coming with me, right, Juna? By the way, eheh, how much is the reward?	海蒂	"咦？！能拿到报酬？！
+尤娜小姐也会一起去对吧？
+嘿嘿，顺便问问，大概能拿到多少呢……"	海蒂	"什麼？！報酬！？
+而且尤娜小姐也會跟我一起吧？
+嘿嘿，是說，報酬大概有多少……"
+Juna	ユナ	……これくらいだ	Juna	...About this much.	尤娜	……差不多这个数。	尤娜	……大約這麼多。
+Heidi	ハイディ	"やりますやります！！
+斥候ハイディちゃんにお任せを！"	Heidi	I'm in! Scout Heidi at your service!	海蒂	"我去我去！
+侦察就交给我吧！"	海蒂	"我去、我要去！！
+就包在斥侯海蒂身上吧！"
+	選択肢	地図の先に宝があるかも	Selection	There may be a treasure at the map's location.	选项	地图上标的地方说不定有宝藏	選項	這可能是藏寶圖。
+Juna	ユナ	"この地図を見つけたのはお前だ。
+竜がいた場合は討伐隊を組むことになるが、
+宝があった場合はお前に所有権がある"	Juna	You're the one who found the map. We'll have to assemble a strike force if there is in fact a dragon, but any treasure would be rightfully yours.	尤娜	"找到这张地图的人是你。
+如果真的有龙，会组织讨伐队前去讨伐。
+但如果有宝藏，那就都归你了。"	尤娜	"這張地圖是妳發現的。
+如果遇到龍了，我們會組成討伐隊。
+但如果找到寶藏，就全部歸妳所有。"
+Heidi	ハイディ	"え！　ほんと！
+そこにある宝、全部もらっても……？"	Heidi	Huh?! Really?! If we find treasure there, it's all mine?!	海蒂	"咦！真的吗！
+所有宝藏都归我……？"	海蒂	"咦！真的嗎？
+我可以拿走所有的寶藏……？"
+Juna	ユナ	ああ。構わないだろう	Juna	Yep, have at it.	尤娜	嗯，没问题。	尤娜	嗯，當然可以。
+Heidi	ハイディ	"やった！
+竜いませんように、いませんように！
+宝であれー、宝であれー！"	Heidi	All right! Please, don't let there be a dragon, don't let there be a dragon! Only treasure! Just treasure!	海蒂	"太好了！希望没有龙！
+希望是宝藏！"	海蒂	"太好了！
+希望不要遇到龍、不要遇到龍！
+給我寶藏～給我寶藏～！"
+	選択肢	冒険譚のネタになるかも	Selection	It might make a great hero's tale.	选项	可以当做冒险故事的素材	選項	說不定會被寫成冒險故事。
+Juna	ユナ	ハイディ、これはいい機会かもしれないぞ	Juna	Heidi, I think this might be a good opportunity for you.	尤娜	海蒂，这说不定是个好机会。	尤娜	海蒂，這也許是個好機會喔。
+Heidi	ハイディ	え、なんで？	Heidi	Huh? Why?	海蒂	咦，什么意思？	海蒂	咦，為什麼？
+Juna	ユナ	"私は竜を討伐したことが冒険譚となり、
+今の位置にいる"	Juna	I'd take down the dragon, and you being with me...	尤娜	"过去我讨伐龙的故事被写成冒险小说，
+我才升到了现在的位置。"	尤娜	"我屠龍的事蹟被寫成冒險故事，
+才換來現在的地位。"
+Juna	ユナ	"お前もこの経験を冒険譚として
+書いてみたらいい。上手くいけば、
+怪しい依頼を受けるより儲かるだろう"	Juna	...You could write the ordeal as a hero's tale. If things go well, you might earn even more than with those shady requests.	尤娜	"你也可以把这次经历写成小说。
+顺利的话，说不定能比接来路不明的委托更赚。"	尤娜	"妳也可以把這次的經驗
+試著寫進冒險故事裡。順利的話，
+或許會比接那些可疑的委託更賺錢吧。"
+Heidi	ハイディ	"た、確かに！
+上手くいけばその売り上げだけで、
+楽して暮らしていけるかも！"	Heidi	Y-Yeah, you're right! If it goes well, I might even be able to retire and live off of the royalties!	海蒂	"是、是这个道理！
+卖得好的话，说不定光靠卖小说的钱
+就能过上轻松日子了！"	海蒂	"對、對耶！順利的話，
+搞不好光靠賣書的收入，
+就能讓我財富自由了！"
+Juna	ユナ	"よし、ではそうと決まれば、
+明日の昼、カフェの前に集合だ。
+しっかり準備してこい"	Juna	Okay, now that that's settled, we'll meet up at the cafe at noon tomorrow. Be ready!	尤娜	"好，那就这么决定了。
+明天白天在咖啡厅门口集合。
+做好准备。"	尤娜	"好，既然決定了，
+那我們明天中午在咖啡廳前面集合。
+務必做好充足的準備。"
+Heidi	ハイディ	了解！　じゃっ、また明日ー！	Heidi	Yes, ma'am! See you tomorrow!	海蒂	了解！明天见！	海蒂	收到！那就明天見啦～！
+Juna	ユナ	"（ハイディと男のやり取りを見て思ったが、
+　ハイディには、笑顔でその場を収め、
+　相手を言いくるめる力があるな）"	Juna	(It dawned on me watching Heidi and that man—she's got a knack for using that disarming smile and smooth talking her way out of things.)	尤娜	"（看海蒂和刚才那个男人对话的样子，
+　她很擅长用笑容缓和气氛，
+　引导对方改变想法。）"	尤娜	"（看海蒂跟那個男人的互動，
+　我覺得她具有一種能靠著燦爛的笑容
+　與強大的說服力來解決問題的能力。）"
+Juna	ユナ	（武力一辺倒の私とは違うな）	Juna	(A far cry from me and my reliance on physical strength.)	尤娜	（和只会用武力解决的我不一样。）	尤娜	（跟仰賴武力的我完全不同。）

@@ -1,0 +1,207 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Izana	イザナ	（今日は体力作り特訓初日！）	Izana	(Today is the first day of Resna's special training regimen!)	伊札娜	（今天是进行增强体力特训的第一天！）	伊札娜	（今天是鍛鍊體力的特訓第一天！）
+Izana	イザナ	"（準備運動も終わったし、
+　そろそろ始めようかな）"	Izana	(We're all finished warming up, so it's about time for the main event.)	伊札娜	"（热身运动也结束了，
+　是时候开始了吧。）"	伊札娜	"（也做好了暖身運動，
+　差不多可以開始了吧。）"
+Izana	イザナ	よーし、まずこの辺りを軽く走ってみよう	Izana	You ready, Resna? First, let's do some running!	伊札娜	好，先在这附近跑一会儿吧。	伊札娜	好～首先在這附近輕鬆地跑一跑吧。
+Resna	レスナ	はいっ！	Resna	Yes, ma'am!	蕾斯娜	好的！	蕾斯娜	好！
+	ナレーション	――しばらくして	Narrator	A short while later...	旁白	——一段时间后。	旁白	過了一會兒──
+Resna	レスナ	"イザナちゃん、
+ちょっと休憩してもいい……？"	Resna	Izana... Would it be okay if I took a little break?	蕾斯娜	"伊札娜，
+我能稍微休息一下吗……？"	蕾斯娜	伊札娜，我可以稍微休息一下嗎……？
+Izana	イザナ	"（レスナちゃん頑張った！
+　本気がビビッと伝わってくるよ……！）"	Izana	(Resna's doing great! I can tell she's really pushing herself!)	伊札娜	"（蕾斯娜很努力了！
+　她那股认真的势头已经传达给我了……！）"	伊札娜	"（蕾斯娜很努力了！
+　我能真切地感受到她的認真……！）"
+Izana	イザナ	"（でも、体力をつけるならもうちょっと
+　頑張ってほしい！　
+　なんて声を掛けたらいいかな？）"	Izana	(But if she's going to build her endurance, I need her to push herself a bit more. What should I say?)	伊札娜	"（可要是想增强体力，
+　我还是想让她更努力一点！
+　我要怎么鼓励她呢？）"	伊札娜	"（可是，既然要鍛鍊體力，
+　我希望她能再多努力一下！
+　要說些什麼來幫她打氣好呢？）"
+	選択肢	まだまだいけるよ	Selection	You can do better than that!	选项	你还能继续	選項	妳還撐得下去
+Izana	イザナ	"まだまだいける、アタシはそう見たよ。
+本当に駄目そうなら、もちろん止めてるけど"	Izana	Come on, Resna, I know you can do better than that! I'd stop you if it was really too much.	伊札娜	"我觉得你还能坚持，
+如果真的撑不下去了，我自然会阻止你的。"	伊札娜	"妳還撐得下去，我看得出來喔。
+感覺到妳真的撐不下去，當然會阻止妳的。"
+Resna	レスナ	け、結構、きついんだけど	Resna	But, I... This might be too hard for me.	蕾斯娜	我、我现在就已经撑不下去了。	蕾斯娜	可、可是，我覺得滿累的。
+Izana	イザナ	"ううん、アタシは信じてるもん！
+レスナちゃんは壁を越えられるって！"	Izana	It's not. I believe in you. There's no mountain you can't climb!	伊札娜	"不，我相信你！
+蕾斯娜一定可以跨过那道坎！"	伊札娜	不，我相信妳！妳能克服障礙的！
+Resna	レスナ	私なら、壁を……	Resna	Really...?	蕾斯娜	我……能跨过……	蕾斯娜	我能克服障礙……
+Resna	レスナ	"い、イザナちゃんが
+そう信じてくれるなら……！"	Resna	Well... If you believe in me, Izana, then I know I can do it!	蕾斯娜	"既、既然伊札娜这么信任我，
+那我再坚持一下……！"	蕾斯娜	既、既然伊札娜這麼相信我……！
+	選択肢	立派な錬金術士になりたいんだよね？	Selection	Don't you want to become a great alchemist?	选项	你想成为出色的炼金术士吧？	選項	妳想成為出色的鍊金術士吧？
+Izana	イザナ	"立派な錬金術士になりたいんでしょ！
+ここは一発、頑張り所だよ！"	Izana	If you really want to become a great alchemist, you need to push yourself past your limits! Just a little more!	伊札娜	"你想成为出色的炼金术士吧？
+那现在正是努力的时候！"	伊札娜	"妳想成為出色的鍊金術士吧！
+現在正是該努力一搏的時候！"
+Resna	レスナ	う、うん！	Resna	O-Okay! I'll try!	蕾斯娜	好、好的！	蕾斯娜	嗯、好！
+Izana	イザナ	"憧れの先輩たちに
+少しでも近づきたいんだよね？"	Izana	You want to be just as good as all of the alchemists you admire, right?	伊札娜	你想接近憧憬着的前辈们吧？	伊札娜	妳想離崇拜的前輩們更近一點吧？
+Resna	レスナ	うん！	Resna	Yeah!	蕾斯娜	嗯！	蕾斯娜	嗯！
+Resna	レスナ	"……そうだ、ここで諦めたら
+何も変わらない！"	Resna	You're right... If I give up now, nothing will change.	蕾斯娜	"……没错，如果就此放弃，
+那就不会有任何改变了！"	蕾斯娜	"……沒錯，在這裡放棄的話，
+什麼都不會改變！"
+Resna	レスナ	待っていてください、皆さん！	Resna	I'm going to keep on getting better. Just wait and see!	蕾斯娜	各位，等着我吧！	蕾斯娜	各位，請你們等著吧！
+	選択肢	もうやめる？	Selection	Do you want to stop for today?	选项	要不就放弃吧？	選項	要放棄了嗎？
+Izana	イザナ	"もうやめる？　いきなりはきついもんね。
+アタシはそれもありだと思う"	Izana	Today's workout was pretty tough. Do you want to call it quits for now? That would be fine by me.	伊札娜	"要不就放弃吧？一下子强度这么大确实挺累人的。
+我也觉得放弃很正常。"	伊札娜	"要放棄了嗎？突然這樣鍛鍊太辛苦了嘛。
+這也是能理解的。"
+Izana	イザナ	"レスナちゃんの意志だから続けるのも
+止めるのも、尊重するよ"	Izana	Of course, we don't have to stop if you think you can keep going. It's up to you.	伊札娜	"一切都看蕾斯娜你愿不愿意，
+不管是继续还是放弃，我都尊重你的想法。"	伊札娜	"這一切都取決妳的意志，
+要繼續還是放棄，我都會尊重妳的。"
+Resna	レスナ	"……イザナちゃんが無理に止めない。そっか
+私はまだ、頑張れるんだね"	Resna	So you're not going to force me either way... Okay! Then I think I can keep going a little longer!	蕾斯娜	"……伊札娜不会强行阻止我。
+嗯，也就是说我还能继续努力。"	蕾斯娜	"……伊札娜不會強行要我堅持住。
+這樣啊，那我還撐得下去吧。"
+Resna	レスナ	よぉぉーし、越えろ限界！	Resna	I can do this! It's up to me to become the best me I can be!	蕾斯娜	好，我要超越极限！	蕾斯娜	好──超越極限吧！
+Izana	イザナ	"（うんうん！
+　それでこそレスナちゃんだよ！）"	Izana	(That's my Resna. I'm so proud of her!)	伊札娜	"（没错！
+　这才是蕾斯娜会做的行动！）"	伊札娜	（嗯嗯！這樣才是蕾斯娜嘛！）
+	ナレーション	――さらにしばらくして	Narrator	Even later on...	旁白	——又一段时间后。	旁白	又過了一會兒──
+	選択肢	優しい言葉を掛ける	Selection	Cheer her on	选项	温柔鼓励	選項	對她說些溫柔的話語
+Izana	イザナ	"上出来だよ！
+よく頑張ったね"	Izana	You've got this, Resna! You're doing great!	伊札娜	"做得很不错！
+你很努力啊。"	伊札娜	做得很好喔！妳很努力了呢。
+Izana	イザナ	"ここからはグッと速度を落として
+少しずつ距離を伸ばしていこう"	Izana	Now that you've come this far, let's slow down your pace for one last push. Just take it step by step!	伊札娜	"从现在开始降低速度，
+慢慢增加距离吧。"	伊札娜	"從這裡開始放慢速度，
+一點一點地增加距離吧。"
+Resna	レスナ	イザナちゃん……！	Resna	Izana...	蕾斯娜	伊札娜……！	蕾斯娜	伊札娜……！
+	選択肢	ハンマーで暗示をかける	Selection	Hypnotize her with your hammer	选项	用锤子催眠她	選項	用錘子暗示
+Izana	イザナ	"アタシの見立てではまだいける。
+ここはハンマ－催眠術零式の出番だね"	Izana	From where I'm standing, it looks like you've got some fight left in you. So it's time for my secret weapon: hammer hypnosis!	伊札娜	"依我看，你还能继续。
+这时候就轮到我的锤子催眠术零式出场了。"	伊札娜	"就我判斷，妳還可以的。
+現在該是錘子催眠術零式出場的時候了。"
+Resna	レスナ	ハンマー催眠術零式！？	Resna	What?! Hammer hypnosis?!	蕾斯娜	锤子催眠术零式？！	蕾斯娜	錘子催眠術零式！？
+Izana	イザナ	うん、まずはハンマーを構えてね	Izana	Yup! First, we'll need this hammer.	伊札娜	嗯，先拿起锤子摆好架势。	伊札娜	嗯，妳先把錘子拿好。
+Resna	レスナ	"れ、レスナ・シュテルネンリヒト
+まだいけます！"	Resna	Uh, er... I think you're right! I do still have some fight left in me!	蕾斯娜	"蕾、蕾斯娜·修特涅利希特，
+还能继续！"	蕾斯娜	蕾、蕾斯娜‧修特涅利希特還撐得下去！
+Izana	イザナ	"術をかけたい人の目の前で
+ハンマーをブンブン振り回すと
+目が回って……ってあれ？"	Izana	If you swing the hammer back and forth in front of someone's face, you can hypnotize them into—wait, what?	伊札娜	"在想要催眠的人面前挥舞锤子，
+那个人就会晕……咦？"	伊札娜	"在想要施術的對象眼前，
+用力地來回揮舞錘子，
+對方就會頭昏眼花……呃，奇怪？"
+Izana	イザナ	"なんか誤解しちゃったかな？　
+でも走り出せたしいいかな！"	Izana	I didn't even have a chance to start, but it looks like that already did the trick! She's back to running again!	伊札娜	"她是误会什么了吗？
+但她都跑起来了，那就没问题了吧！"	伊札娜	"她是不是誤會什麼了？
+不過既然她跑得動，那就好了！"
+	選択肢	あえて厳しくいく	Selection	Show her some tough love	选项	严格对待	選項	刻意更嚴格
+Izana	イザナ	"ここでさらに追い込まないと
+体力は付かないよ！
+さあ、次は腹筋だぁあああ！！！"	Izana	If you don't pick up the pace now, you'll never build up your stamina! It's time for some sit-ups!	伊札娜	"如果在这时候不逼自己一把，
+是不能增强体力的！
+好，接下来是仰卧起坐！！！"	伊札娜	"現在不進一步逼迫自己，體力是不會變好的！
+好了，接下來是仰臥起坐喔──！！！"
+Resna	レスナ	えぇっ、ちょっと待って！	Resna	Wait, sit-ups?! Now?!	蕾斯娜	不是吧，等等！	蕾斯娜	咦、等一下！
+Izana	イザナ	はい、座って！	Izana	All right! Drop and give me fifty!	伊札娜	来，坐下！	伊札娜	來，坐下吧！
+Resna	レスナ	ま、待ってってば！	Resna	Hold on, Izana! I can't!	蕾斯娜	等、等等呀！	蕾斯娜	等、等一下啦！
+Resna	レスナ	"……はっ、これはもしかして
+イザナちゃんの愛の鞭？"	Resna	Oh... Wait. I get it now. This is tough love, isn't it?	蕾斯娜	……啊，难道这是伊札娜爱的鞭策？	蕾斯娜	……啊，這該不會是伊札娜的愛之鞭策？
+Resna	レスナ	"よ、ようしイザナちゃんがその気なら、
+私頑張るよ！"	Resna	It's because you want me to succeed... All right! I'll keep going!	蕾斯娜	"好、好的，既然伊札娜有这个想法，
+那我也要努力！"	蕾斯娜	"好、好的，既然伊札娜打算這麼做，
+那我會加油的！"
+Resna	レスナ	"腹筋は何回すればいい？
+１００回でも、２００回でもいいよ！"	Resna	How many sit-ups should I do? Only fifty? I can handle 100, even 200, no problem!	蕾斯娜	"要做多少个仰卧起坐？
+做100个200个都行！"	蕾斯娜	"仰臥起坐要做幾下好呢？
+不管是100下，還是200下都行喔！"
+Izana	イザナ	じゃあ３００回いっちゃおう！！	Izana	In that case, start with 300 reps!	伊札娜	那就努力做到300个吧！！	伊札娜	那就做300下吧！！
+Resna	レスナ	"腹筋の次は何？　
+もっと激しい運動でもいいよ！"	Resna	What's next? Don't worry, I can handle something even harder!	蕾斯娜	"做完仰卧起坐之后要做什么？
+可以做更激烈的运动哦！"	蕾斯娜	"仰臥起坐之後是什麼？
+更激烈的運動也行喔！"
+Izana	イザナ	"それじゃ背筋５００回！
+腕立て１０００回だ！！"	Izana	You asked for it! We'll do 500 reps to work your back and follow that up with 1,000 push-ups!	伊札娜	"那就背肌500个，
+俯卧撑1000个！"	伊札娜	"那就背肌訓練500下！
+伏地挺身1000下！！"
+Resna	レスナ	やぁああああああ！！！！	Resna	Yeaaah! I can DO THIS!	蕾斯娜	呀——！！！	蕾斯娜	喝啊啊啊啊啊啊啊！！！！
+	ナレーション	１時間後	Narrator	One hour later...	旁白	1小时后	旁白	1小時後
+Resna	レスナ	はぁ～、疲れたぁ～……	Resna	Phew... I'm exhausted...	蕾斯娜	呼……好累啊……	蕾斯娜	呼～好累喔……
+	選択肢	労う	Selection	Reward her	选项	慰劳	選項	慰勞
+Izana	イザナ	よく頑張ったね。えらいえらい	Izana	I'm so proud of you, Resna. You were amazing!	伊札娜	做得很不错，真了不起。	伊札娜	妳很努力了呢，真是了不起。
+Resna	レスナ	えへへ……	Resna	Ehehe...	蕾斯娜	嘿嘿……	蕾斯娜	嘿嘿……
+Izana	イザナ	"あ、そうだ。汗拭いてあげるよ。
+いつも耳を拭いてもらってるからお返し"	Izana	Here, let me help you dry off. You always help me wipe behind my ears, so it's time for me to return the favor!	伊札娜	"啊，对了，我来给你擦汗吧。
+就当是你一直以来给我擦耳朵的回礼。"	伊札娜	"啊，對了，我幫妳擦擦汗。
+因為妳經常幫我清耳朵，這是報答。"
+Resna	レスナ	え？　自分で拭けるから大丈夫だよ！	Resna	Whuh? Um, that's okay, I can do it myself!	蕾斯娜	啊？我自己可以擦的啦，没事！	蕾斯娜	咦？我可以自己擦，沒關係的！
+Izana	イザナ	まぁまぁ、遠慮しなくていいから！	Izana	Aww, don't be shy now!	伊札娜	哎呀，别跟我客气嘛！	伊札娜	好啦好啦，妳不用客氣！
+Resna	レスナ	ふぇえっ！？　冷たい！！	Resna	Eeek! It's freezing!	蕾斯娜	呜啊？！好凉！！	蕾斯娜	唔耶！？好冰！！
+Izana	イザナ	"川の水で冷やしたの。
+気持ち良いでしょー？"	Izana	I cooled it in the river water. Doesn't it feel good?	伊札娜	"我用河水冰过了。
+很舒服吧？"	伊札娜	我用河水冰鎮過了，感覺很舒服吧～？
+Resna	レスナ	"確かにこれは、極楽～……
+ふわぁ～……"	Resna	You're right, this is heavenly... *Yawn*...	蕾斯娜	"确实，好舒服啊～
+呼……"	蕾斯娜	這的確是天堂……呼～
+	選択肢	甘やかす	Selection	Dote on her	选项	宠溺	選項	寵溺
+Izana	イザナ	レスナちゃん、ちょっとこっち来て	Izana	Resna, come here a second.	伊札娜	蕾斯娜，你到这边来。	伊札娜	蕾斯娜，妳過來一下。
+Resna	レスナ	え？	Resna	Huh?	蕾斯娜	嗯？	蕾斯娜	咦？
+Resna	レスナ	"ど、どうしたの！？
+いきなり頭なんて撫でて……"	Resna	Wha—! Izana! What's this all of a sudden...?	蕾斯娜	"怎、怎么了？！
+突然摸我头……"	蕾斯娜	怎、怎麼了！？為什麼突然摸我的頭……
+Izana	イザナ	"弟が小さい頃、頑張ったらこうやって
+褒めてあげてたんだ"	Izana	When my little brother was young, I always used to stroke his hair like this after a long day and tell him how proud I was.	伊札娜	"我弟弟小时候要是努力做了什么，
+我就会这样表扬他。"	伊札娜	"我弟弟小時候很努力時，
+我就會像這樣稱讚他。"
+Izana	イザナ	嫌だった？	Izana	Does it feel too weird?	伊札娜	你不喜欢吗？	伊札娜	不喜歡嗎？
+Resna	レスナ	"ううん！
+なんか、新鮮でむしろ……"	Resna	No, no! That's not it at all. It's just...new.	蕾斯娜	"不是的，
+就是觉得挺新鲜的，反而……"	蕾斯娜	不會！總覺得很新鮮，應該說……
+Izana	イザナ	もっとやってほしい？	Izana	Does that mean you want me to keep going?	伊札娜	反而想让我多摸摸？	伊札娜	希望妳再多摸一下？
+Izana	イザナ	いいよ、頑張ったもんね	Izana	You deserve it. You did your very best, I know it.	伊札娜	可以哦，毕竟你很努力。	伊札娜	好啊，因為妳很努力了嘛。
+	選択肢	ハンマーで暗示をかけてみる！！	Selection	Try hammer hypnosis on her	选项	用锤子催眠她！！	選項	試著用錘子施加暗示！！
+Izana	イザナ	"続けていくうちに、
+その疲労感が癖になるから"	Izana	If you just keep at it, you'll start to love that worn-out feeling you get after working out! I promise!	伊札娜	"在坚持的过程中，
+你会迷恋上这种疲惫感。"	伊札娜	堅持下去，那種疲勞感會在不知不覺間讓人上癮喔。
+Resna	レスナ	そんな日来るのかなぁ	Resna	Uh, do you really think so...?	蕾斯娜	这一天会到来吗……	蕾斯娜	會有那樣的一天嗎～
+Izana	イザナ	"ほら、この揺れてるハンマーを見て。
+だんだん気持ち良くなってきたでしょ？"	Izana	Here, just keep your eyes on my hammer. The longer you look at it, the better you'll feel...	伊札娜	"来，看着这个摇晃着的锤子，
+有没有觉得逐渐舒服起来了？"	伊札娜	"來，看著這個擺動的錘子。
+感覺越來越舒服了，對吧？"
+Resna	レスナ	言われてみれば……	Resna	Yeah, now that you mention it...	蕾斯娜	确实……	蕾斯娜	聽妳這麼一說，確實是……
+Resna	レスナ	なんだか頭が……ぽやぽやする……	Resna	My head is starting to feel...so light...	蕾斯娜	感觉……头有点发昏……	蕾斯娜	總覺得腦袋……放空了……
+Resna	レスナ	すぅ……すぅ……	Resna	*Snore*...	蕾斯娜	呼……呼……	蕾斯娜	呼……呼……
+Izana	イザナ	"（おおー……効いた効いた。
+　やっぱりハンマーは凄いや！）"	Izana	(Wow, that really worked! I knew hammers were magical!)	伊札娜	"（哦……起作用了。
+　锤子可真厉害啊！）"	伊札娜	"（喔喔……見效了見效了。
+　錘子果然很厲害！）"
+Izana	イザナ	"（このまま暗示を掛け続ければ……
+　どうなっちゃうんだろう……）"	Izana	(I wonder what will happen if I keep on going...)	伊札娜	"（只要持续给出暗示……
+　会变成什么样呢……）"	伊札娜	"（如果持續這樣對她施加暗示……
+　會變得怎麼樣呢……？）"
+Resna	レスナ	はっ！	Resna	Whoa!	蕾斯娜	啊！	蕾斯娜	喝！
+Resna	レスナ	"……イザナちゃん、なんでハンマーを持って
+私の顔をのぞき込んでるの？"	Resna	What's going on, Izana? And why are you staring at me with your hammer like that?	蕾斯娜	"……伊札娜，
+你怎么拿着锤子盯着我看啊？"	蕾斯娜	……伊札娜，妳怎麼拿著錘子在偷看我？
+Izana	イザナ	んーんー、なんでもないよー	Izana	Oh, no reason! Don't worry about it!	伊札娜	嗯，嗯，没什么～	伊札娜	沒有～沒什麼啦～
+Izana	イザナ	"レスナちゃん、そろそろ休憩は
+おしまいにして移動しようか"	Izana	Hey, Resna, I think it's about time we got back to training. What do you say?	伊札娜	蕾斯娜，休息得差不多了，该走了吧？	伊札娜	"蕾斯娜，休息時間差不多該結束了，
+我們準備移動吧？"
+Resna	レスナ	う、動けない……麻痺の攻撃を、受けた感じ	Resna	I can't move a muscle... I feel like a monster hit me with a paralyzing attack.	蕾斯娜	我、我动不了……像是遭到了麻痹攻击。	蕾斯娜	我、我動不了……感覺像是受到了麻痺攻擊一樣。
+Izana	イザナ	え、一歩も？	Izana	You mean you can't even take one step?	伊札娜	咦？一步也动不了？	伊札娜	咦，一步也動不了？
+Resna	レスナ	一歩も、で、あります	Resna	Nope... Not even one.	蕾斯娜	一步也……动不了。	蕾斯娜	一步也動不了。
+	レスナ/イザナ	…………	Resna/Izana	...	蕾斯娜/伊札娜	……	蕾斯娜/伊札娜	…………
+Resna	レスナ	"ごめんね、すぐに回復させるから。
+呼吸だ、呼吸を意識するんだ……"	Resna	I'm sorry, I promise I'll get myself going again. I just need to breathe. Focus, now...	蕾斯娜	"抱歉，我这就努力恢复过来。
+呼吸，要注意呼吸……"	蕾斯娜	"對不起，我會馬上讓自己恢復的。
+呼吸，要留意自己的呼吸……"
+Izana	イザナ	"（思った以上に大変そうだ
+続けられるかな）"	Izana	(She's struggling more than I thought. Will she be able to keep this up?)	伊札娜	"（比我想的还要严重啊，
+　能坚持下去吗？）"	伊札娜	（好像比想像中還吃力，她堅持得下去嗎？）
+Izana	イザナ	"（レスナちゃんのやる気を
+　無駄にしたくない）"	Izana	(She was so excited before. I don't want to discourage her...)	伊札娜	（我不想让蕾斯娜的干劲白费。）	伊札娜	（我不想讓蕾斯娜的那股幹勁白白浪費掉。）
+Izana	イザナ	"（もう少しレスナちゃんに沿ったやり方が
+　あればな……
+　でも、どうすればいいんだろう……）"	Izana	(If only I knew a better way to help her through this. But how?)	伊札娜	"（如果有更适合蕾斯娜的锻炼方法就好了……
+　可到底该怎么做呢……）"	伊札娜	"（要是有更適合蕾斯娜的鍛鍊方法就好了……
+　可是該怎麼做才好呢……）"

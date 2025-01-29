@@ -1,0 +1,72 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Judie	ユーディー	ちょっとキースさん！　待ってよ！	Judie	Come on, Mr. Keith! Wait up!	优蒂	奇斯先生！你等我一下啊！	優蒂	等一下啦，奇斯！你別走！
+Keithgrif	キースグリフ	"オレは次の目的地を目指す。
+ついてくるならさっさとしろ"	Keithgriff	I have places to be. If you insist on accompanying me, then move those feet.	奇斯葛里夫	"我要去下一个目的地了。
+想跟着我的话就动作快点。"	奇斯葛里夫	"我要去下一個目的地了。
+要跟我走就加緊腳步。"
+Judie	ユーディー	"もうっ！　勝手なんだから！
+そ、それじゃあね、レスナ！"	Judie	Ugh! I swear! So bossy! S-See you later, Resna!	优蒂	"真是的，这人也太随心所欲了！
+那、那我先走了，蕾斯娜！"	優蒂	"真是的！每次都自己走掉！
+那、那下次見囉，蕾斯娜！"
+Resna	レスナ	あ、はい！　お気を付けて！	Resna	Oh, okay! Stay safe!	蕾斯娜	啊，好的！请小心！	蕾斯娜	啊，好的！路上小心！
+Johanna	ヨハナ	な、なんだか自分勝手なおっさんね……	Johanna	Yikes... That's one self-centered geezer.	约翰娜	好、好我行我素的大叔啊……	約翰娜	感、感覺是個自我中心的大叔呢……
+Izana	イザナ	あはは、ヨハナがそれ言う？	Izana	Ahaha! Takes one to know one, huh?	伊札娜	啊哈哈，约翰娜也没资格说别人吧？	伊札娜	啊哈哈，約翰娜有資格說人家嗎？
+Johanna	ヨハナ	私は協力的じゃない！　最近は！	Johanna	At least I'm helping people! Sure, it's recent, but it still counts!	约翰娜	我最近明明挺配合大家的好吗！	約翰娜	我很配合大家啊！以最近來看！
+Roman	ロマン	"ははは。さてレスナ、これからどうする？
+アンチュもまだ目を覚まさないようだが……"	Roman	Ahaha. Well, what should we do now? It doesn't look like Antje's going to wake up anytime soon, but...	罗曼	"哈哈哈。蕾斯娜，接下来你打算怎么办？
+看样子安洁暂时还醒不过来……"	羅曼	"哈哈哈。那蕾斯娜妳接下來要怎麼做？
+安潔看樣子也還不會醒來……"
+Resna	レスナ	"緊急の依頼でしたから、まず依頼人に報告に行き、
+しかる後、あの人をアトリエに運んで話をしましょう"	Resna	It seemed urgent, so I'd like to check in with the requester before we do anything else. We can take Antje to the atelier to talk after that.	蕾斯娜	"紧急委托还没有处理完。不如先去和委托人报告，
+然后把安洁带回工房吧。"	蕾斯娜	"因為這是件緊急委託，我們先去回報委託人，
+然後把那個人搬回鍊金工房後再跟她談吧。"
+	依頼人	"ほう……これで岩を固定して落下しないようにね。
+大助かりだよ、ありがとう"	Client	Oho...! So this glue will keep the rocks from falling? Thank you, that's going to be immensely helpful.	委托人	"哦……这么一来，岩石被固定住，不会再滚落了是吗。
+谢谢你们，真是帮大忙了。"	委託人	"哦……用這個固定岩石避免掉落啊。
+真是幫大忙了，謝謝。"
+	依頼人	いやぁ、錬金術ってすごいんだな	Client	But, wow! Alchemy sure is something else!	委托人	哎呀， 炼金术可真厉害啊。	委託人	哎呀～鍊金術真是厲害呢。
+Resna	レスナ	"おほめいただき恐悦至極です。
+ところで、うかがいたいことが……"	Resna	Thank you very much for the kind words! That being said, there's something I have to ask.	蕾斯娜	"多谢夸奖。
+那个，我有件事想和您打听一下……"	蕾斯娜	"承蒙您的稱讚真是榮幸之至。
+另外，有一件事想要請教……"
+	依頼人	お、なんだい？	Client	Shoot.	委托人	哦，什么事？	委託人	哦，什麼事？
+Resna	レスナ	ルクルク州の外にある「呪いの村」をご存じですか？	Resna	Have you heard of a cursed village that's just outside of Lukluk?	蕾斯娜	您知道路克尔克州境外的“受诅咒的村子”吗？	蕾斯娜	請問您知道盧庫魯克州外的「詛咒之村」嗎？
+	依頼人	あ、ああ……このへんじゃ、有名な話さ	Client	Ah... You'd be hard pressed to find someone here who hasn't.	委托人	啊，嗯……那个村子在我们这儿还挺有名的。	委託人	哦，那個啊……在這一帶無人不知呢。
+Resna	レスナ	"実は、そこの出身の方も錬金術で癒すことが
+できたんです！"	Resna	Actually, they managed to cure the people there with alchemy!	蕾斯娜	其实，他们受到的诅咒已经用炼金术治好了！	蕾斯娜	其實，有位來自那村莊的人也因為鍊金術而痊癒了！
+	依頼人	"へえ、そうなのかい！
+錬金術というのは、そんなことまでできるんだな"	Client	You don't say! I didn't know alchemy could do that.	委托人	是吗！炼金术连这种事都能做到啊。	委託人	"哦，真的啊！
+原來鍊金術連那種事都辦得到。"
+Resna	レスナ	"はい。たとえ得体の知れない恐ろしい力でも……
+きちんと向き合えば、対処する道は見えてきます"	Resna	It can! It might be a scary and mysterious power, but...if you can stand tall and face it, you'll find a way to work with it.	蕾斯娜	"是的。即便是未知的可怕力量……
+只要勇敢面对，就能找到解决办法。"	蕾斯娜	"是的，即使是來歷不明的可怕力量……
+只要認真面對，就能找到因應之道。"
+Resna	レスナ	"もし、何かに怯え、恐れることがあったなら……
+ぜひまた、錬金術士を頼ってくださいね"	Resna	And if anything frightens you in the future, or makes you feel worried...please call an alchemist for help!	蕾斯娜	"如果又发生了可怕的事……
+请务必再次委托炼金术士。"	蕾斯娜	"如果有任何讓你們擔心受怕的事情……
+請務必再來尋求鍊金術士的協助。"
+Resna	レスナ	……というわけで、報告も無事終わりました	Resna	There. Another request safely completed.	蕾斯娜	……报告顺利结束了。	蕾斯娜	……好，順利回報完畢了。
+Izana	イザナ	"ジェロンたちみたいに、誤解されて苦しむ人が
+少しでも減ってほしいよね"	Izana	I really hope that helps keep people like Geron from having to go through such tough times just because of some misunderstanding.	伊札娜	"希望像杰隆他们那样
+因为被误解而备受折磨的人能越少越好。"	伊札娜	"像傑隆他們那樣遭受誤解而受苦的人，
+但願能少一個是一個。"
+Roman	ロマン	"差別の廃絶は王国としても進めなければいけない
+課題だね。そう簡単に解決とはいかないが……"	Roman	Really, the kingdom as a whole needs to move towards eliminating any kind of discrimination, but that's certainly easier said than done.	罗曼	"如何消灭歧视也是王国必须面对的问题。
+虽然不能一蹴而就……"	羅曼	"站在王國的立場，消滅歧視也是必須推行的課題。
+但不是那麼簡單就能解決就是了……"
+Resna	レスナ	一歩ずつ進めていくしかないんですね	Resna	All we can do is take things one step at a time.	蕾斯娜	只能一点一点慢慢处理了。	蕾斯娜	只能一步一步向前邁進了。
+Roman	ロマン	ああ	Roman	Exactly.	罗曼	嗯。	羅曼	嗯。
+Izana	イザナ	それじゃあ、アタシたちも帰ろっか！	Izana	But for now, it's time for us to go home!	伊札娜	那我们也回去吧！	伊札娜	那麼，我們也回去吧！
+Resna	レスナ	"うん。それにしても……ヴァレリアの件は
+結局、何も手掛かりを得られなかったな……"	Resna	Mhm. Still, it would've been nice if we heard something about Valeria while we were here, but...	蕾斯娜	"嗯。不过……
+最后还是没能获得瓦莱莉娅的情报……"	蕾斯娜	"嗯。話說回來……瓦萊莉婭的事情，
+到頭來還是沒打聽到任何線索……"
+Johanna	ヨハナ	"ヴァレリアが消えた王都州とここじゃあ
+距離も離れすぎてるし、しょうがないでしょ"	Johanna	We're so far away from the capital, though. It'd be more surprising if we had.	约翰娜	"没办法，毕竟瓦莱莉娅是在王都州失踪的，
+离这里十万八千里呢。"	約翰娜	"這裡距離瓦萊莉婭消失的王都州太遠了，
+這也沒辦法吧。"
+Roman	ロマン	"アンチュが目覚めたら、何か話を聞けるかもしれない。
+それに期待しよう"	Roman	Well, it's entirely possible that Antje will have information for us. We can ask when she wakes up.	罗曼	"现在只能期待等安洁醒后
+能从她嘴里问出点什么了。"	羅曼	"等安潔醒來後，或許能打聽到什麼消息。
+把希望放在她身上吧。"
+Resna	レスナ	そうですね……	Resna	Yeah...	蕾斯娜	是啊……	蕾斯娜	說得也是……

@@ -1,0 +1,250 @@
+romanized	name_jp	text_jp	name_en	text_en	name_zh-CN	text_zh-CN	name_zh-TW	text_zh-TW
+Johanna	ヨハナ	（うーん、どの本にしよう）	Johanna	(Hmm, which book should I choose?)	约翰娜	（唔，看哪本书好呢？）	約翰娜	（唔～要選哪本書呢？）
+Johanna	ヨハナ	"（私が読む本を自分で選んだら、
+　レスナ、喜ぶかな）"	Johanna	(I wonder if Resna will be happy if I pick a book on my own...)	约翰娜	"（要是我自己挑选要看的书，
+　蕾斯娜会高兴吗？）"	約翰娜	（我親自挑選要讀的書，蕾斯娜會高興嗎？）
+Johanna	ヨハナ	あ、イザナ	Johanna	Oh, Izana.	约翰娜	啊，伊札娜。	約翰娜	啊，伊札娜。
+Izana	イザナ	"あ、ヨハナ！
+また会ったね！"	Izana	Hey, Johanna! Fancy meeting you here!	伊札娜	"啊，是约翰娜呀！
+又见面了！"	伊札娜	啊，約翰娜！又見面了呢！
+Izana	イザナ	今日はどうしたの？	Izana	What are you up to today?	伊札娜	今天有什么事吗？	伊札娜	妳今天怎麼來這裡呢？
+Johanna	ヨハナ	"別に！　ちょっと歩いてただけよ。
+あんたは？"	Johanna	N-Nothing, just out for a walk. What about you?	约翰娜	"没有！就是出来走一走。
+你呢？"	約翰娜	沒事呀！只是稍微散散步而已。妳呢？
+Izana	イザナ	"アタシは本を見に来たんだ！
+レスナちゃんほどじゃないけど、
+アタシも本、ちょっとは読むんだよ"	Izana	I came to browse some books! I'm not as big of a reader as Resna, but I do read a little.	伊札娜	"我是来看书的！
+虽然不像蕾斯娜那么爱读书，
+但我也会稍微看一看的。"	伊札娜	"我是來看書的！
+雖然沒有蕾斯娜那麼愛閱讀，
+但我也會看一點喔。"
+Izana	イザナ	"でも今日は買うつもりないから、
+店頭に並んでいるのを見るだけ"	Izana	I'm not planning on buying anything today, though—just checking out what's on display.	伊札娜	"不过今天不打算买，
+就只看看摆在店头的这些。"	伊札娜	"不過我今天沒有買書的打算，
+只是來看看架上的書而已。"
+Izana	イザナ	ヨハナも一緒に見てく？	Izana	Do you want to take a look with me?	伊札娜	约翰娜，你要不要一起看？	伊札娜	約翰娜也要一起看嗎？
+Johanna	ヨハナ	"まあ、どうしてもっていうなら
+見てやってもいいけど……"	Johanna	Well, if you insist, I suppose I could join you...	约翰娜	"你要是非要看的话，
+陪你看一会儿也行……"	約翰娜	"這個嘛，如果妳堅持的話，
+我是可以陪妳看看啦……"
+Izana	イザナ	"あ！　この本、レスナちゃんが好きそう！
+今度教えてあげよっと"	Izana	Oh! This book looks like something Resna would love! I'll have to tell her about it later.	伊札娜	"啊！感觉这本书蕾斯娜会喜欢！
+下次和她说吧。"	伊札娜	"啊！這本書蕾斯娜應該會喜歡喔！
+下次告訴她好了。"
+Johanna	ヨハナ	"（たしかにこの本の作者名、
+　アトリエで何度か見たやつだわ）"	Johanna	(Yeah, I've seen that author's name a few times in the atelier before...)	约翰娜	"（我的确在炼金工房
+　看到过好多次这本书的作者名。）"	約翰娜	"（這本書的作者名字，
+　確實在鍊金工房看過幾次。）"
+Johanna	ヨハナ	（……あ、あの本、イザナが好きそう）	Johanna	(Hmm, this book looks like one that Izana would like...)	约翰娜	（……啊，感觉伊札娜会喜欢那本书。）	約翰娜	（……啊，那本書感覺伊札娜會喜歡。）
+	選択肢	『双剣少女の英雄譚』	Selection	"""The Heroine with Twin Swords"""	选项	《双剑少女英雄传》	選項	《雙劍少女英雄傳》
+Johanna	ヨハナ	"これ、「英雄」って書いてある。
+イザナ、好きでしょ？"	Johanna	"This one says ""heroine"" on it. You like stories about heroes, right?"	约翰娜	伊札娜应该喜欢这本写着“英雄”的书吧？	約翰娜	"這本書上面寫著「英雄」。
+伊札娜妳應該會喜歡吧？"
+Izana	イザナ	"うん！　英雄譚好き！　わくわくする！
+これ読んだことないやつだ！"	Izana	Yeah! I love heroic stories; they always get me so excited. I've never read this one before!	伊札娜	"嗯！我喜欢英雄传！看得人心潮澎湃！
+这本我还没看过呢！"	伊札娜	"嗯！我喜歡英雄傳記！會很興奮！
+這本書我沒看過耶！"
+Izana	イザナ	"主人公、双剣の女の子だって。
+ヨハナみたいだね！
+今度買いに来ようかな～"	Izana	The main character is a heroine who uses twin swords. Just like you, Johanna! Maybe I'll buy this one next time.	伊札娜	"主角是用双剑的女生啊。
+好像约翰娜哦！
+下次要不买来看看吧！"	伊札娜	"上面寫說主角是拿著雙劍的女孩子。
+好像約翰娜喔！下次來買好了～"
+Izana	イザナ	教えてくれてありがと！　ヨハナ！	Izana	Thanks for showing me, Johanna!	伊札娜	谢谢你告诉我，约翰娜！	伊札娜	約翰娜！謝謝妳告訴我！
+Johanna	ヨハナ	ふん！　私に感謝しなさい！	Johanna	Hmph! At least you're grateful!	约翰娜	嗯！好好感谢我吧！	約翰娜	哼！好好感謝我吧！
+	選択肢	『恋情詩歌集』	Selection	"""Collection of Love Poems"""	选项	《恋情诗歌集》	選項	《戀情詩歌集》
+Johanna	ヨハナ	"これ、
+表紙の色がイザナのいつもの服と同じ色。
+どう？"	Johanna	Look at this one. The cover's the same color as your usual outfit. Maybe you'd like it?	约翰娜	"这本书封面的颜色
+和伊札娜常穿的衣服颜色一样。
+你觉得怎么样？"	約翰娜	"這本書的封面顏色跟伊札娜平常穿的衣服一樣。
+妳覺得如何？"
+Izana	イザナ	"れ、恋情？！　ヨハナ、
+ちなみにこの本の内容って……"	Izana	L-Love poems? Do you know what those are, Johanna?	伊札娜	"恋、恋情？！约翰娜，
+这本书的内容是……"	伊札娜	"戀、戀情？！約翰娜，
+順帶一問，這本書的內容是……"
+Johanna	ヨハナ	"アタシは全く知らないわよ、
+選ばれし者の勘で選んだだけ"	Johanna	No idea. I just picked it with my genius intuition.	约翰娜	"我不清楚啊。
+只不过是凭被选中之人的直接选出来的。"	約翰娜	"我完全不知道喔，
+只是憑天選之人的直覺來選的。"
+Izana	イザナ	"まあそうなんだけど……
+これはまだアタシたちには早いかも！"	Izana	Right... I think we might still be a bit young to really enjoy this one.	伊札娜	"话是这么说……
+但这种对我们来说也许太早了！"	伊札娜	"原來是這樣……
+但這本書對我們來說可能太早了！"
+	選択肢	『生きている筋肉～顎～』	Selection	"""Living Muscles: The Jaw"""	选项	《有生命的肌肉——下颚》	選項	《活著的肌肉～下巴篇～》
+Johanna	ヨハナ	"この本、「筋肉」って書いてある。
+イザナ、好きなんじゃない？"	Johanna	"This one says ""muscle"" on it, it should be right up your alley."	约翰娜	"这本书上写着“肌肉”。
+伊札娜应该会喜欢吧？"	約翰娜	"這本書上面寫著「肌肉」。
+伊札娜妳應該會喜歡吧？"
+Izana	イザナ	ヨハナ文字すらすら読めてる！　すごい！	Izana	Wow, Johanna! You really can read even really tough words now!	伊札娜	约翰娜都看得懂这么多字了！好厉害！	伊札娜	約翰娜可以很流暢地讀著文字！好厲害！
+Izana	イザナ	"たしかに
+筋力強化には力を入れているけれど……
+うーん、顎かあ"	Izana	I do enjoy my muscle training, but the jaw? I'm not so sure about that one...	伊札娜	"我的确有在强化肌肉上下功夫，但是……
+唔，下颚啊……"	伊札娜	"我的確有努力在強化肌力啦……
+不過，下巴啊。"
+Izana	イザナ	機会があったら読んでみるね	Izana	Maybe I'll read it if I find the time.	伊札娜	有机会我会看看的。	伊札娜	有機會再讀讀看吧。
+Izana	イザナ	"あ、あの本……
+『耳の形でみる未来〈獣耳編〉』だって。
+未来かあ……"	Izana	"Oh! Look at that book—""Predicting the Future by Ear Shape: Beast Edition."" The future, huh?"	伊札娜	"啊，那本书……
+《从耳朵形状看到未来（兽耳篇）》
+未来啊……"	伊札娜	"那、那本書……
+寫著《以耳朵形狀判斷未來（獸耳篇）》耶。
+未來啊……"
+Johanna	ヨハナ	"ふーん。
+耳で未来がわかるなんてばかばかしい"	Johanna	Pfft. Predicting the future through ear shapes? That's ridiculous.	约翰娜	"唔。
+通过耳朵就能看到未来，也太蠢了。"	約翰娜	哦～用耳朵判斷未來也太愚蠢了吧。
+Johanna	ヨハナ	"イザナ、もしかしてあんた、
+こういうの信じてるの？
+……イザナ？"	Johanna	Wait. You don't actually believe this stuff, do you? Izana?	约翰娜	"伊札娜，你该不会相信这个吧？
+伊札娜……？"	約翰娜	"伊札娜，妳該不會相信這種東西吧？
+……伊札娜？"
+Johanna	ヨハナ	"（もしかして、この間みたいに
+　また不安になってる？）"	Johanna	(Is she feeling worried again, like before?)	约翰娜	"（她该不会和之前一样，
+　又在担心吧？）"	約翰娜	（難道跟之前一樣又感到不安了嗎？）
+Johanna	ヨハナ	"……もう！
+イザナ、こっちに来て！"	Johanna	Ugh! Izana, come here!	约翰娜	"真是的！
+伊札娜，过来！"	約翰娜	……真是的！伊札娜，妳過來這邊！
+Izana	イザナ	わ、ちょっ、ヨハナ？！	Izana	Wha—? Johanna?!	伊札娜	哇，等一下啊，约翰娜？！	伊札娜	哇，等……約翰娜？！
+Izana	イザナ	急にどうしたの、ヨハナ	Izana	What's gotten into you, Johanna?	伊札娜	你突然这是怎么了，约翰娜？	伊札娜	約翰娜，妳突然間怎麼了？
+Johanna	ヨハナ	"それはこっちのセリフ！
+この間から、あんた様子変よ！"	Johanna	That's my line! You've been acting weird ever since the other day!	约翰娜	"这话该我问你才对！
+从之前开始你就很奇怪！"	約翰娜	"這是我要說的才對！
+妳從之前開始就不太對勁耶！"
+Johanna	ヨハナ	（今のイザナに必要なことは……）	Johanna	(I know what Izana needs right now...)	约翰娜	（现在伊札娜需要的是……）	約翰娜	（伊札娜現在所需要的是……）
+	選択肢	鍛錬したいなら相手になるわよ！	Selection	If you want training, I'll take you on!	选项	你要是想锻炼的话，我来当你的对手！	選項	想鍛鍊的話我來當妳的對手吧！
+Johanna	ヨハナ	鍛錬したいなら相手になるわよ！	Johanna	If you want training, I'll take you on!	约翰娜	你要是想锻炼的话，我来当你的对手！	約翰娜	想鍛鍊的話我來當妳的對手吧！
+Izana	イザナ	"え、急に？！
+どうしたの？"	Izana	What? Why right now?!	伊札娜	"咦，这么突然？！
+这是怎么了？"	伊札娜	咦，這麼突然？！妳是怎麼了？
+Johanna	ヨハナ	"どうしたのって、あんた、
+強くなりたいって言ってたじゃない"	Johanna	Why? You said you wanted to get stronger, right?	约翰娜	"什么怎么了。
+你不是说想变强大吗？"	約翰娜	還問為什麼，妳不是說過想要變強的嗎？
+Izana	イザナ	うん	Izana	Yeah, but...	伊札娜	嗯。	伊札娜	嗯。
+Johanna	ヨハナ	"だったらこの私と手合わせすれば
+いいじゃない！"	Johanna	Then let's have a match! No better way to do it!	约翰娜	那和我比试不就行了！	約翰娜	既然如此，只要跟我切磋切磋不就好了！
+Izana	イザナ	……うん。ありがとう、ヨハナ	Izana	True. Thanks, Johanna, but...	伊札娜	嗯……谢谢你，约翰娜。	伊札娜	……嗯。謝謝妳，約翰娜。
+Izana	イザナ	"でも今日はもう鍛錬してきたし、
+やりすぎもよくないから"	Izana	I've already trained today. It's never good to overdo it.	伊札娜	"但我今天已经锻炼过了，
+过度锻炼也不好。"	伊札娜	但我今天已經鍛鍊過了，努力過頭也不太好。
+Izana	イザナ	代わりに、少し話聞いてくれる？	Izana	Instead, maybe we could just talk for a bit?	伊札娜	不过，你能听我说几句吗？	伊札娜	不過，妳可以陪我聊聊嗎？
+	選択肢	この天才が話を聞いてやるわ！	Selection	My genius will hear you out!	选项	本天才就听你说说吧！	選項	我這個天才就陪妳聊聊吧！
+Johanna	ヨハナ	"この天才が話を聞いてやるわ！
+だからなんか思うことがあるなら
+全部言いなさい！"	Johanna	I think you need to talk about whatever's on your mind, so spill it! My genius mind will hear you out.	约翰娜	"本天才就听你说说吧！
+你要是有什么想法就全都说出来吧！"	約翰娜	"我這個天才就陪妳聊聊吧！
+所以妳如果有什麼心事
+就儘管說出來！"
+Izana	イザナ	"あはは。ヨハナ、あまりにも
+上から過ぎて逆におかしいや"	Izana	Haha. Only you would choose to word it like that, Johanna.	伊札娜	"哈哈哈。
+你太过高高在上了反而有点好笑。"	伊札娜	"啊哈哈，約翰娜，
+妳姿態擺太高反而很好笑耶。"
+Johanna	ヨハナ	何よ、なんか文句あるの？	Johanna	What? Got a problem with it?	约翰娜	怎么了，你有意见吗？	約翰娜	怎樣，有意見嗎？
+Izana	イザナ	"ううん。
+ん－、じゃあちょっと話聞いてもらおうかな"	Izana	Nope! In fact, I think I will take you up on that offer to talk.	伊札娜	"没有。
+唔，那我就和你说说吧。"	伊札娜	沒有。唔～那妳就陪我聊聊吧。
+	選択肢	レスナを呼んでやるわ！	Selection	I'm going to call Resna for you!	选项	我去叫蕾斯娜！	選項	我去叫蕾斯娜過來！
+Johanna	ヨハナ	レスナを呼んでやるわ！	Johanna	I'm going to call Resna for you!	约翰娜	我去叫蕾斯娜！	約翰娜	我去叫蕾斯娜過來！
+Izana	イザナ	ええっ？！　急にどうして？！	Izana	Wait, what?! Why?	伊札娜	咦？！为什么突然要去叫她？！	伊札娜	咦咦？！怎麼突然這麼說？！
+Johanna	ヨハナ	"あんた、この間から様子変じゃない！
+何かあるなら、レスナに聞いてもらったら？"	Johanna	You've been acting all weird! I think you need to talk to Resna if something's bothering you.	约翰娜	"因为你前段时间开始就很奇怪啊！
+要是发生了什么，就去和蕾斯娜说说嘛？"	約翰娜	"妳從之前就一直不太對勁啊！
+要是有什麼煩惱，去問問蕾斯娜怎麼樣？"
+Izana	イザナ	"うーん……レスナちゃんに
+会いたくないわけじゃないんだけど"	Izana	Hmm... It's not that I don't want to see her, but...	伊札娜	唔……我也不是不想见蕾斯娜，但是……	伊札娜	唔……我並不是不想見到蕾斯娜啦，
+Izana	イザナ	レスナちゃんに心配かけたくないし……	Izana	I just don't want to worry her...	伊札娜	我不想让她担心……	伊札娜	只是不想讓她擔心……
+Izana	イザナ	ヨハナ、よかったら少し話聞いてくれる？	Izana	Maybe I could talk to you instead, Johanna?	伊札娜	约翰娜，如果你愿意的话能听我说一说吗？	伊札娜	約翰娜，妳有空的話可以陪我聊聊嗎？
+Izana	イザナ	"レスナちゃんには内緒にしてほしいんだけど
+……実はちょっと悩んでて"	Izana	I don't want Resna to know, but I've been a bit worried recently.	伊札娜	"但我希望你能对蕾斯娜保密。
+其实我有点烦恼……"	伊札娜	希望妳不要告訴蕾斯娜……其實我有點煩惱。
+Johanna	ヨハナ	何に悩んでるのよ	Johanna	Worried about what?	约翰娜	什么烦恼？	約翰娜	妳在煩惱什麼啊？
+Izana	イザナ	"旅が進んで、頼れる仲間もどんどん増えて、
+レスナちゃんは国にとっても、
+とても大事な人になってきてる"	Izana	As our journey has progressed, we've gained more and more amazing allies, and Resna is becoming more important to the kingdom.	伊札娜	"随着旅途的进行，可靠的伙伴越来越多，
+蕾斯娜也成了对国家来说很重要的人。"	伊札娜	"我們一路旅行下來，
+不僅可靠的夥伴越來越多，
+蕾斯娜在國內的地位也逐漸變得非常重要。"
+Izana	イザナ	"アタシはこれからも、ずっとずっと、
+そんなレスナちゃんの騎士として
+レスナちゃんを傍で支えていきたいんだけど"	Izana	I want to stay by her side forever and ever, and support her in any way that I can as her knight, but...	伊札娜	"我今后也想作为蕾斯娜的骑士，
+一直在她身边支持她。"	伊札娜	"我今後也想繼續擔任蕾斯娜的騎士，
+長長久久地陪伴在她身邊給予支持。"
+Izana	イザナ	……ついていけなくなったら怖いなって	Izana	I'm worried I won't be able to keep up with her.	伊札娜	……可我很害怕会跟不上她。	伊札娜	……但是我很害怕跟不上她的腳步。
+Johanna	ヨハナ	……はあ？	Johanna	Huh?	约翰娜	啊……？	約翰娜	……什麼？
+Izana	イザナ	えっ？	Izana	Wh-What?	伊札娜	咦？	伊札娜	咦？
+Johanna	ヨハナ	そんなこと？	Johanna	That's it?	约翰娜	就这件事？	約翰娜	妳在煩惱這種事？
+Johanna	ヨハナ	"あんたの不安は、
+レスナについていけなくなったら、とか
+レスナと離れ離れになったら、とか"	Johanna	Your big worry is that you might not keep up with Resna or that you might be forced apart?	约翰娜	"你担心的是怕跟不上蕾斯娜，
+害怕和她分开……"	約翰娜	"妳之所以感到不安，
+是怕自己跟不上蕾斯娜的腳步，
+還有怕跟她分開什麼的。"
+Johanna	ヨハナ	ほーんとレスナのことばっかりね！	Johanna	You really think about nothing but her!	约翰娜	全部都是和蕾斯娜有关的事呢！	約翰娜	真的都跟蕾斯娜有關啊！
+Johanna	ヨハナ	騎士っていうには精神が弱いんじゃないの？	Johanna	You call yourself a knight, but just listen to the weak nonsense you're saying!	约翰娜	身为骑士，你的精神是不是太脆弱了？	約翰娜	以騎士而言，妳意志會不會太薄弱了？
+Izana	イザナ	うう……	Izana	Oof...	伊札娜	呜呜……	伊札娜	唔唔……
+Johanna	ヨハナ	"よくわかんないけど、
+イザナは考えすぎよ！"	Johanna	I really don't get why you're worried, but I know you're overthinking things.	约翰娜	"虽然我不是很清楚，
+但是你想太多了！"	約翰娜	雖然我不是很懂，但伊札娜妳想太多了啦！
+Johanna	ヨハナ	（この天才の私がびしっと言ってやるわ！）	Johanna	(Time for my genius to set Izana straight...)	约翰娜	（本天才就严厉地和她说说吧！）	約翰娜	（由我這個天才來好好點醒她！）
+	選択肢	これからは天才の私が近くにいるわ	Selection	From now on, I'll be by your side.	选项	今后我这个天才会在你身边	選項	今後我這個天才會待在妳身邊
+Johanna	ヨハナ	これからは天才の私が近くにいるわ！	Johanna	From now on, you'll have my genius by your side!	约翰娜	今后我这个天才会在你身边！	約翰娜	今後我這個天才會待在妳身邊！
+Johanna	ヨハナ	"あんたがついていけなくなったら
+鍛えてやるし、離れ離れになりそうなら
+いい知恵を貸してやるわよ！"	Johanna	If you feel like you can't keep up, I'll train you. If you feel like you're being forced apart, I'll come up with a solution!	约翰娜	"你跟不上的时候，
+我就来锻炼你，如果你们要分开了，
+我就把我的智慧借给你！"	約翰娜	"要是妳跟不上她，我就幫妳鍛鍊；
+要是妳們可能會分開，我就會幫妳出主意！"
+Johanna	ヨハナ	どう？　心強いでしょ！	Johanna	What do you think? Feeling better?	约翰娜	怎么样？这下安心了吧！	約翰娜	如何？很可靠吧！
+Izana	イザナ	うん！　すっごく心強いよ！	Izana	Yeah! Thanks, Johanna!	伊札娜	嗯！非常安心！	伊札娜	嗯！非常可靠！
+	選択肢	悩む暇があるならハンマーよ！	Selection	If you've got time to worry, it's hammer time!	选项	有时间烦恼不如舞锤！	選項	妳有空煩惱就去練習揮錘子吧！
+Johanna	ヨハナ	悩む暇があるならハンマーよ！	Johanna	If you've got time to worry, it's hammer time!	约翰娜	有时间烦恼不如舞锤！	約翰娜	妳有空煩惱就去練習揮錘子吧！
+Izana	イザナ	ハンマー？！	Izana	Hammer time?!	伊札娜	舞锤？！	伊札娜	錘子？！
+Johanna	ヨハナ	あんたはレスナとハンマーでしょ！	Johanna	You're all about Resna and hammers, right?	约翰娜	你脑子里不是只有蕾斯娜和锤子吗！	約翰娜	妳最重視的就是蕾斯娜和錘子吧！
+Johanna	ヨハナ	"レスナの傍にずっといたいなら、
+強くなればいいのよ！
+ほら、ハンマーを振りなさいよ！"	Johanna	If you want to stay by Resna's side, you just need to get stronger by swinging that hammer around!	约翰娜	"如果想永远待在蕾斯娜身边，
+只要变强就行了！
+来，挥舞锤子吧！"	約翰娜	"如果妳想一直待在蕾斯娜身邊，
+那只要變強就好了啊！
+好了，去揮錘子吧！"
+Izana	イザナ	ハ、ハンマー！！	Izana	H-Hammer time!!	伊札娜	锤、锤呀！！	伊札娜	錘、錘子！！
+	選択肢	レスナに直接話してみなさいよ	Selection	Talk to Resna yourself.	选项	你直接和蕾斯娜谈谈吧	選項	直接去找蕾斯娜談談吧
+Johanna	ヨハナ	レスナに直接話してみなさいよ	Johanna	You need to talk to Resna yourself.	约翰娜	你直接和蕾斯娜谈谈吧。	約翰娜	直接去找蕾斯娜談談吧。
+Johanna	ヨハナ	"レスナはきっと、
+強さとか騎士とか関係なく
+あんたと一緒にいてくれるわよ"	Johanna	I'm sure Resna will want you by her side, no matter how strong you are or whether you're a knight.	约翰娜	"不管你是否强大，是不是骑士，
+蕾斯娜一定会陪在你身边的。"	約翰娜	"蕾斯娜一定很願意跟妳在一起，
+不管妳實力強不強
+或者是不是騎士啦。"
+Izana	イザナ	でも……それっていいのかな？	Izana	But is that really enough?	伊札娜	可是……这样可以吗？	伊札娜	可是……這樣沒關係嗎？
+Johanna	ヨハナ	"いいかどうかは、
+あんたとレスナが決めることでしょ"	Johanna	That's for you and Resna to decide.	约翰娜	可不可以也是你和蕾斯娜来决定的。	約翰娜	有沒有關係，是由妳和蕾斯娜來決定的吧？
+Izana	イザナ	そっか……	Izana	I guess so...	伊札娜	这样啊……	伊札娜	這樣啊……
+Izana	イザナ	アタシ、考えすぎていたかもしれない	Izana	Maybe you're right. I've been overthinking things.	伊札娜	可能是我想太多了。	伊札娜	妳可能想太多了。
+Izana	イザナ	"ふふ、「天才の私が近くにいる」……
+あはは"	Izana	Haha, I'll have your genius by my side... Hahaha.	伊札娜	"呵呵，“今后我这个天才会在你身边”……
+哈哈哈。"	伊札娜	"呵呵，「我這個天才會待在妳身邊」……
+啊哈哈。"
+Johanna	ヨハナ	な、何よ！	Johanna	Wh-Why are you laughing?!	约翰娜	怎、怎么啦！	約翰娜	怎、怎樣啊！
+Izana	イザナ	"ありがとう！
+ヨハナのおかげで元気でたよ！"	Izana	Thanks, Johanna! You really cheered me up!	伊札娜	"谢谢你！
+多亏了约翰娜，我又有精神了！"	伊札娜	謝謝妳！多虧了約翰娜，我打起精神來囉！
+Izana	イザナ	"アタシ、これからも
+レスナちゃんの騎士として頑張る！"	Izana	I'm going to keep doing whatever I can to be the best knight for Resna!	伊札娜	今后我也要作为蕾斯娜的骑士加油！	伊札娜	我今後也會作為蕾斯娜的騎士繼續加油的！
+Johanna	ヨハナ	（やっぱりイザナは元気でいないとね）	Johanna	(I much prefer Izana when she's happy like this.)	约翰娜	（伊札娜就是要这么活力满满才行。）	約翰娜	（伊札娜果然要保持活力十足的模樣才行。）
+Johanna	ヨハナ	"（こいつがうじうじしていると、
+　なんだかむかむかするのよね。
+　……なんで？）"	Johanna	(When she gets all gloomy, it really annoys me for some reason. I wonder why...)	约翰娜	"（她这么犹犹豫豫的，总让我觉得火大。
+　为什么呢……？）"	約翰娜	"（看到這傢伙猶豫不決的樣子，
+　我就會莫名一肚子火。
+　……這是為什麼呢？）"
+Izana	イザナ	うーん……わからなくなってきちゃった	Izana	Hmm, I'm not so sure...	伊札娜	唔……搞不懂啊。	伊札娜	唔……越來越搞不懂了。
+Izana	イザナ	とりあえずハンマー振り回そうかな……	Izana	I guess I'll just go swing my hammer around for a bit...	伊札娜	总之先去挥锤吧……	伊札娜	總之去練習揮錘子吧……
+Johanna	ヨハナ	"（ああ、もう！
+　レスナのことになると、
+　イザナ、めんどくさいところあるわね）"	Johanna	(Oh, come on! Why does she become so annoying when it comes to Resna?)	约翰娜	"（哎呀真是的！只要一牵扯到蕾斯娜，
+　伊札娜就会很麻烦。）"	約翰娜	"（哎，真是的！
+　一遇到蕾斯娜的事情，
+　伊札娜就會變得很麻煩耶。）"
+Johanna	ヨハナ	"（こういう時、
+　なんて言えばよかったのよ）"	Johanna	(What am I supposed to say in moments like this?)	约翰娜	（这种时候说点什么好呢？）	約翰娜	（這種時候，我該說些什麼才好啊？）
+Izana	イザナ	未来か。未来に向けて、強くならないと	Izana	The future, huh? I've got to get stronger for the future.	伊札娜	将来啊。为了将来，我必须要强大起来。	伊札娜	未來啊。為了未來，必須變得更強才行。
