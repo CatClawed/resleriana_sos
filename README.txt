@@ -7,3 +7,5 @@ There's something funny about AtelierTalk names, and yes a lot of CityTalkEvent 
 Still need to test results more teehee.
 
 idk I'm tired I can work out more details later. work in progress. still gotta fetch JP exclusive files.
+
+TalkEvent is JP only from 20 onward. This will likely change before global EOS.
