@@ -1,9 +1,10 @@
 import UnityPy
 import os, json, re, struct, csv
 
+events = {}
+
 def unpack_text(source_folder : str, destination_folder : str):
     # iterate over all files in source folder
-    events = {}
     for root, dirs, files in os.walk(source_folder):
         for file_name in files:
             # generate file_path
@@ -14,9 +15,7 @@ def unpack_text(source_folder : str, destination_folder : str):
             for obj in env.objects:
                 if obj.type.name in ["TextAsset"]:
                     data = obj.read()
-
-
-                    if ("TalkEvent" in data.m_Name or "Date_" in data.m_Name or "SeasonalTalkEvent" in data.m_Name or "Atelier_Talk" in data.m_Name) and data.m_Script != '':
+                    if ("TalkEvent" in data.m_Name or "Date_" in data.m_Name or "SeasonalTalkEvent" in data.m_Name or "Atelier_Talk" in data.m_Name or "LegendEvent" in data.m_Name ) and data.m_Script != '':
                         thing = data.m_Script.encode('utf-8', 'surrogateescape')
                         index = thing.find(b'\x30\xd2\xb1\x17')
                         key = 'jp'
@@ -61,7 +60,7 @@ def unpack_text(source_folder : str, destination_folder : str):
                                 print('Warning!', data.m_Name)
                             index += line_length
 
-                            # idk this crap prolly don't do much
+                            # Just assume the CityTalkEvent stuff is failed efforts idk.
                             if "CityTalkEvent" in data.m_Name and "main" not in data.m_Name:
                                 index = thing.find(b'\x3F\x50\x3F\x2E', index)
                             if "CityTalkEvent" in data.m_Name and "main" in data.m_Name:
@@ -77,16 +76,19 @@ def unpack_text(source_folder : str, destination_folder : str):
                             with open(path, "w") as f:
                                 f.write(data.m_Script.encode('utf-8', 'replace').decode('utf8'))
 
-    for k, v in events.items():
-        path = os.path.join(destination_folder, f"{k}.json")
-        with open(path, "w") as f:
-            f.write(json.dumps(v, ensure_ascii=False))
-        path = os.path.join(destination_folder, f"{k}.csv")
-        with open(path, 'w') as csvfile:
-            fieldnames = ['romanized', 'name_jp', 'text_jp', 'name_en', 'text_en', 'name_zh-CN', 'text_zh-CN', 'name_zh-TW', 'text_zh-TW']
-            writer = csv.DictWriter(csvfile, delimiter="\t", fieldnames=fieldnames)
-            writer.writeheader()
-            for k2, v2 in v.items():
-                writer.writerow(v2)
 
 unpack_text('gbl','gbl_text')
+print("JP")
+unpack_text('output','gbl_text')
+
+for k, v in events.items():
+    #path = os.path.join("gbl_text", f"{k}.json")
+    #with open(path, "w") as f:
+    #    f.write(json.dumps(v, ensure_ascii=False))
+    path = os.path.join("gbl_text", f"{k}.csv")
+    with open(path, 'w') as csvfile:
+        fieldnames = ['romanized', 'name_jp', 'text_jp', 'name_en', 'text_en', 'name_zh-CN', 'text_zh-CN', 'name_zh-TW', 'text_zh-TW']
+        writer = csv.DictWriter(csvfile, delimiter="\t", fieldnames=fieldnames)
+        writer.writeheader()
+        for k2, v2 in v.items():
+            writer.writerow(v2)
