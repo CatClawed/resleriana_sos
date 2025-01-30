@@ -22,3 +22,15 @@ TalkEvent is JP only from 20 onward. This will likely change before global EOS.
 | Dragon Bride  | 007  |
 | Summer | 008  |
 | some jp event lol | 009 |
+
+
+| Event  | LegendEvent Range |
+| ------------- | ------------- |
+| Salburg  | 00  |
+| Lydie & Suelle  | 01  |
+| Atelier Ryza  | 02  |
+| Atelier Shallie  | 03  |
+| Arland  | 04  |
+| Atelier 27th  | 05 |
+| Dusk Development Team  | 06  |
+| Firis | 08  |
