@@ -1,0 +1,19 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	アタッカーのHPアップ	HP Up (Attacker)	攻击者HP提升	攻擊者的HP上升
+2	アタッカーの与ダメージアップ	Dealt Damage Up (Attacker)	攻击者造成伤害提升	攻擊者的給予傷害上升
+3	ブレイカーのHPアップ	HP Up (Breaker)	破坏者HP提升	破壞者的HP上升
+4	ブレイカーの与ダメージアップ	Dealt Damage Up (Breaker)	破坏者造成伤害提升	破壞者的給予傷害上升
+5	ディフェンダーのHPアップ	HP Up (Defender)	防御者HP提升	防禦者的HP上升
+6	ディフェンダーのダメージ耐性アップ	Damage Resistance Up (Defender)	防御者伤害耐性提升	防禦者的傷害耐性上升
+7	サポーターのHPアップ	HP Up (Supporter)	支援者HP提升	支援者的HP上升
+8	サポーターのダメージ耐性アップ	Damage Resistance Up (Supporter)	支援者伤害耐性提升	支援者的傷害耐性上升
+9	戦闘アイテムのHP回復量アップ	Battle Item HP Recovery Up	战斗道具的HP恢复量提升	戰鬥道具的HP回復量上升
+10	戦闘アイテムの与ダメージアップ	Battle Item Dealt Damage Up	战斗道具造成伤害提升	戰鬥道具的給予傷害上升
+11	戦闘アイテムの強化効果アップ	Battle Item Buff Effects Up	战斗道具的强化效果提升	戰鬥道具的強化效果上升
+12	戦闘アイテムのマイナス効果アップ	Battle Item Negative Effects Up	战斗道具的负面效果提升	戰鬥道具的減弱效果上升
+13	武器の物攻アップ	Weapon Physical ATK Up	武器物攻提升	武器物攻上升
+14	武器の魔攻アップ	Weapon Magic ATK Up	武器魔攻提升	武器魔攻上升
+15	防具の物防アップ	Armor Physical DEF Up	防具物防提升	防具物防上升
+16	防具の魔防アップ	Armor Magic DEF Up	防具魔防提升	防具魔防上升
+17	装飾品のHPアップ	Accessory HP Up	装饰品HP提升	裝飾品HP上升
+18	装飾品の素早さアップ	Accessory Speed Up	装饰品敏捷提升	裝飾品敏捷上升

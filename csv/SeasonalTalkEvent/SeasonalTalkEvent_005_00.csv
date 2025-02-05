@@ -1,0 +1,969 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_005_00_001ID	0	Resna	レスナ	（夢は必ず叶うわけじゃないと知ってから）	Resna	(Ever since I learned that not all dreams are meant to come true...)	蕾斯娜	（明白梦想不一定会实现后……）	蕾斯娜	（自從知道夢想不一定能實現之後……）
+SeasonalTalkEvent_005_00_001ID	1	Resna	レスナ	（夢を語ることが少し恥ずかしくなった）	Resna	(...Talking about mine has become a bit embarrassing.)	蕾斯娜	（我开始羞于诉说梦想。）	蕾斯娜	（我就有點不好意思談論夢想。）
+SeasonalTalkEvent_005_00_001ID	2	Resna	レスナ	（そうして夢を語ることが減り、\n　現実を語ることが増え）	Resna	(So I bring it up less and less, and spend more time chatting about things rooted in reality.)	蕾斯娜	（于是诉说梦想的时候越来越少，\n　谈论现实的时候越来越多。）	蕾斯娜	（於是談論夢想的次數少了，\n　談論現實的次數多了。）
+SeasonalTalkEvent_005_00_001ID	3	Resna	レスナ	（それが大人になるということなら）	Resna	(If that's what it means to grow up...)	蕾斯娜	（如果这就是长大成人的话……）	蕾斯娜	（如果這就就叫做長大……）
+SeasonalTalkEvent_005_00_001ID	4	Resna	レスナ	（大人の正体見つけたり）	Resna	(Or what it takes to figure out who you should be as an adult, then...)	蕾斯娜	（我一定要弄清楚大人的真面目。）	蕾斯娜	（那就必須做好接受長大的覺悟。）
+SeasonalTalkEvent_005_00_001ID	5		村人	なんだ、レスナ。\nまーた錬金術の素材を集めてんのか？	Villager	Honestly, Resna. Are you still scrounging up materials for that alchemy stuff?	村民	咦，蕾斯娜。\n你又在找炼金术的素材啊？	村民	蕾斯娜，怎麼了？\n妳又在蒐集鍊金術的素材了嗎？
+SeasonalTalkEvent_005_00_001ID	6	Resna	レスナ	あ、はい！　新しい技法を勉強したんです。\nこれならきっと、成功させられるんじゃないかって	Resna	Oh! Yes! I just learned a new technique. This time, I'm sure it'll go well!	蕾斯娜	嗯，是的！我最近学了新的技法。\n相信这个技法一定能成功。	蕾斯娜	啊，對！我學了新的技法。\n我覺得這次一定能成功。
+SeasonalTalkEvent_005_00_001ID	7		村人	そう言い続けて何年経つんだ？\nいい加減、諦めろって	Villager	And just how many years have you been telling yourself that, huh? Let it go, Resna.	村民	这些话你都说了多少年了？\n也该死心了吧。	村民	這種話妳都說了幾年了啊？\n也差不多該放棄了吧？
+SeasonalTalkEvent_005_00_001ID	8		村人	いいか？　錬金術を使うには才能が必要なんだ。\nそして、お前にはその才能がない	Villager	Alchemy takes talent—which you clearly don't have.	村民	听着，使用炼金术是需要天赋的，\n你没有这个天赋。	村民	聽好了，使用鍊金術需要有才能，\n而妳並沒有那種才能。
+SeasonalTalkEvent_005_00_001ID	9	Resna	レスナ	確かに才能はないかもですが……。\nでも……まだ諦めるには……！	Resna	Sure, I might not have any natural ability, but that doesn't mean I should just give up on it!	蕾斯娜	或许我的确没有天赋……\n但是……我还不想放弃……！	蕾斯娜	我或許的確沒有才能……\n但是……我還不想放棄……！
+SeasonalTalkEvent_005_00_001ID	10		村人	勉強はできるんだから、他の道だって選べるだろ？\nお母さんを安心させてやりなさい	Villager	If you're so good at studying, then why don't you apply that intelligence to a path that would put your mom's mind at ease?	村民	你学习很好，不是能换一条路走吗？\n别再让你妈妈为你操心了。	村民	既然妳擅長讀書，選擇其他出路也行吧？\n別讓妳母親為妳操心。
+SeasonalTalkEvent_005_00_001ID	11	Resna	レスナ	……はい	Resna	...Right.	蕾斯娜	知道了……	蕾斯娜	……是。
+SeasonalTalkEvent_005_00_001ID	12	Resna	レスナ	（そんなことない！　私だってできる！）	Resna	(As if I could give up! I know I can do this!)	蕾斯娜	（才不是呢！我也能做到！）	蕾斯娜	（才沒這回事！我也可以做到！）
+SeasonalTalkEvent_005_00_001ID	13	Resna	レスナ	（ずっとそう思い続けてきて、言い続けてきて……）	Resna	(I've always thought that! I've always said it!)	蕾斯娜	（我一直是这么想的，也是这么说的……）	蕾斯娜	（我一直都是這麼想的，也一直堅持這麼說……）
+SeasonalTalkEvent_005_00_001ID	14	Resna	レスナ	（でも、ちょっと恥ずかしくもなってきたんだ）	Resna	(But it's gotten a little embarrassing.)	蕾斯娜	（不过现在自己也开始有点感到难堪了。）	蕾斯娜	（可是，我也開始覺得有點丟臉了。）
+SeasonalTalkEvent_005_00_001ID	15	Resna	レスナ	……大人の正体、枯れレスナ	Resna	So, growing up means that a part of you dies?	蕾斯娜	……大人的真面目就是泄气的蕾斯娜。	蕾斯娜	……大人的真面目，枯竭的蕾斯娜。
+SeasonalTalkEvent_005_00_001ID	16	Resna	レスナ	記念すべき調合１０００回目、\n技法を変えるが本日も成果なし……	Resna	That was my thousandth synthesis. I refined my technique, but it had no effect...	蕾斯娜	这是我值得纪念的第1000次调合，\n虽然改变了技法，可今天依旧毫无成果……	蕾斯娜	值得紀念的第1000次調合，\n雖然改變了技法，但今天也依然一無所獲……
+SeasonalTalkEvent_005_00_001ID	17	Resna	レスナ	はあ……やっぱりダメなのかな	Resna	*Sigh* Maybe this is useless, after all.	蕾斯娜	唉……还是不行吗。	蕾斯娜	唉……果然不行嗎？
+SeasonalTalkEvent_005_00_001ID	18	Resna	レスナ	勉強なんてできなくてもよかったから、\n錬金術ができればよかったのに	Resna	I'm glad that I'm good at studying, but I'd rather be an alchemist.	蕾斯娜	我宁愿学习不好，\n也好想变得擅长炼金术啊。	蕾斯娜	即使不會念書也沒關係，\n如果能學會鍊金術就好了。
+SeasonalTalkEvent_005_00_001ID	19	Resna	レスナ	（やりたいことがある。できることがある）	Resna	(There are things I want to do, and then there are things I can do.)	蕾斯娜	（有自己想做的事，也有能做到的事。）	蕾斯娜	（我有想做的事，也有做得到的事。）
+SeasonalTalkEvent_005_00_001ID	20	Resna	レスナ	（でも、やりたいこと＝できること、じゃない。\n　これって、もしかしてみんなそうなのかな？）	Resna	(But those two things appear to be at odds. Is that the same for everyone?)	蕾斯娜	（可想做的事不等于能做到的事。\n　不知道是否每个人都是这样呢？）	蕾斯娜	（然而，想做的事並不等於做得到的事。\n　大家是不是也都跟我一樣？）
+SeasonalTalkEvent_005_00_001ID	21	Resna	レスナ	（私は……どうするのが、正しいんだろう）	Resna	(I don't know what I should be doing.)	蕾斯娜	（对我来说……什么才是正确的道路呢？）	蕾斯娜	（我……該怎麼做才是正確的呢？）
+SeasonalTalkEvent_005_00_001ID	22	Resna	レスナ	あ……	Resna	Ah...	蕾斯娜	啊……	蕾斯娜	啊……
+SeasonalTalkEvent_005_00_001ID	23	Resna	レスナ	（流れ星よ。どうか……）	Resna	(It's a shooting star. Please...)	蕾斯娜	（流星啊，拜托了……）	蕾斯娜	（流星，拜託……）
+SeasonalTalkEvent_005_00_001ID	24	Resna	レスナ	（どうか私をお導きください）	Resna	(I need you to light my way.)	蕾斯娜	（请为我指引方向。）	蕾斯娜	（請指引我吧。）
+SeasonalTalkEvent_005_00_001ID	25	Resna	レスナ	……え	Resna	Huh...?	蕾斯娜	……咦？	蕾斯娜	……咦？
+SeasonalTalkEvent_005_00_001ID	26	Resna	レスナ	えっえっ！	Resna	Um! What?!	蕾斯娜	怎么回事！	蕾斯娜	咦咦！？
+SeasonalTalkEvent_005_00_001ID	27	Resna	レスナ	きゃあ！	Resna	Eeek!	蕾斯娜	哇啊！	蕾斯娜	呀啊！
+SeasonalTalkEvent_005_00_001ID	28	Resna	レスナ	な、なに？　て……がみ……？　え？　私に？	Resna	I-Is that...a letter? Um? For me?	蕾斯娜	什、什么东西？一封……信……？咦？是给我的？	蕾斯娜	什、什麼？是……信……？咦？給我的？
+SeasonalTalkEvent_005_00_001ID	29	Resna	レスナ	「レスナ・シュテルネンリヒト様\n　おめでとうございます。あなたを……」	Resna	"""Miss Resna Sternenlicht,\nCongratulations!"""	蕾斯娜	“蕾斯娜·修特涅利希特\n祝贺你……”	蕾斯娜	「蕾斯娜‧修特涅利希特小姐\n恭喜您……」
+SeasonalTalkEvent_005_00_001ID	30	Resna	レスナ	「ランターナ学園、錬金術科の生徒として\n　歓迎いたします」……！？	Resna	"""You have been accepted into Lantarna Academy's alchemy program""...?!"	蕾斯娜	“成为兰塔纳学园炼金术科的学生”……？！	蕾斯娜	「歡迎您成為\n蘭塔納學園鍊金術科的學生。」……！？
+SeasonalTalkEvent_005_00_001ID	31		　	数日後――	　	A few days later...	　	几天后——	　	幾天後──
+SeasonalTalkEvent_005_00_001ID	32	Resna	レスナ	（何度も諦めた）	Resna	(I gave up so many times.)	蕾斯娜	（我曾无数次打算放弃。）	蕾斯娜	（我放棄了很多次。）
+SeasonalTalkEvent_005_00_001ID	33	Resna	レスナ	（これで最後にしようって思った）	Resna	(I told myself that was it—that was the last one.)	蕾斯娜	（无数次决定到此为止。）	蕾斯娜	（每次都想著這次是最後一次了。）
+SeasonalTalkEvent_005_00_001ID	34	Resna	レスナ	（それでも、やっぱりって。次ならきっとって）	Resna	(Except, I just couldn't quit. I kept at it.)	蕾斯娜	（但最后总是狠不下心，总是指望着下次就会成功。）	蕾斯娜	（但即使如此，還是會想繼續、覺得下次一定可以。）
+SeasonalTalkEvent_005_00_001ID	35	Resna	レスナ	（そう思っていると、こうしてチャンスが来たりして）	Resna	(I'm sure that's what granted me this chance!)	蕾斯娜	（这个信念居然真的支撑我等到了机会降临。）	蕾斯娜	（覺得只要想著想著，機會就會像這樣降臨。）
+SeasonalTalkEvent_005_00_001ID	36	Resna	レスナ	（ああ、流れ星よ！）	Resna	(Thanks, shooting star!)	蕾斯娜	（啊，流星啊！）	蕾斯娜	（啊，流星啊！）
+SeasonalTalkEvent_005_00_001ID	37	Resna	レスナ	（愚かなるレスナはまた走り始めようとしています！）	Resna	(I stumbled back there, but now I'm back up and running!)	蕾斯娜	（傻瓜蕾斯娜又要开始奔跑了！）	蕾斯娜	（愚鈍的蕾斯娜即將再次開始奔跑了！）
+SeasonalTalkEvent_005_00_001ID	38	Resna	レスナ	（ゴールにたどり着くのかなんて分からないのに！）	Resna	(Honestly, I have no idea if I'll make it to my goal.)	蕾斯娜	（尽管不知道能否跑到终点！）	蕾斯娜	（雖然不曉得能不能抵達終點！）
+SeasonalTalkEvent_005_00_001ID	39	Resna	レスナ	（それでもまた――）	Resna	(But...)	蕾斯娜	（但我还是决定——）	蕾斯娜	（即使如此，我還是──）
+SeasonalTalkEvent_005_00_001ID	40	Resna	レスナ	（――往くと決めたのだ！）	Resna	(I'm going to keep moving forward!)	蕾斯娜	（——再次迈开脚步！）	蕾斯娜	（──決定要向前進！）
+SeasonalTalkEvent_005_00_001ID	41	Resna	レスナ	行ってきます！	Resna	I'm off!	蕾斯娜	我出门啦！	蕾斯娜	我出發囉！
+SeasonalTalkEvent_005_00_001ID	42	Resna Sternenlicht	レスナ・シュテルネンリヒト	村外れに住む少女。\n錬金術を愛しているが、調合は失敗続き	Resna Sternenlicht	A young woman who lives on the edge of town. As much as she loves alchemy, she has yet to successfully synthesize anything.	蕾斯娜·修特涅利希特	住在村郊的少女。\n虽然热爱炼金术，但调合却屡战屡败。	蕾斯娜‧修特涅利希特	住在村外的少女。\n雖熱愛鍊金術，調合卻總是失敗。
+SeasonalTalkEvent_005_00_002ID	0	Resna	レスナ	ええっと、王都行きのバス停は……	Resna	Um, the bus that goes to the capital is...	蕾斯娜	唔……去王都的公交车站……	蕾斯娜	我看看，往王都的公車站在……
+SeasonalTalkEvent_005_00_002ID	1	Coachman	御者	君がレスナさんだね。待っていたよ	Coachman	You must be Resna. I've been waiting for you.	车夫	你就是蕾斯娜小姐吧。我一直在等你。	車夫	妳就是蕾斯娜同學吧？我等妳很久了。
+SeasonalTalkEvent_005_00_002ID	2	Resna	レスナ	えっ？	Resna	Sorry?	蕾斯娜	嗯？	蕾斯娜	咦？
+SeasonalTalkEvent_005_00_002ID	3	Coachman	御者	私はしがない御者。君をランターナ学園へ\n送迎するように言付かっているんだ	Coachman	I am but a humble coachman who has been instructed to escort you to Lantarna Academy.	车夫	我是一介车夫，收到吩咐接你去兰塔纳学园。	車夫	我是個不足掛齒的車夫，\n接到吩咐要送妳到蘭塔納學園。
+SeasonalTalkEvent_005_00_002ID	4	Resna	レスナ	そうなんですか！？\nそんなの、聞いてなかったのでびっくりしました	Resna	You really mean it?! Oh, um, no one told me that.	蕾斯娜	真的吗？！\n我完全没听说会有人来接，所以吓了一跳。	蕾斯娜	這樣啊！？\n我沒聽說這回事，嚇了一跳。
+SeasonalTalkEvent_005_00_002ID	5	Coachman	御者	嘘なんてないさ。\nさあ、向こうに馬車を停めてる。ついてきてくれ	Coachman	Still, it's the truth, my lady. Please, follow me. I've parked the carriage over there.	车夫	当然是真的。\n好了，马车就停在对面。请随我来。	車夫	我沒有騙妳。\n好了，馬車停在對面，跟我來吧。
+SeasonalTalkEvent_005_00_002ID	6	Resna	レスナ	（すごいなあ……鳥を飛ばしてきたと思ったら\n　送迎まで手配されてるなんて）	Resna	(Oh, wow... When I sent the bird back, I wasn't expecting them to make any arrangements like this.)	蕾斯娜	（真郑重啊……不光派了鸟来送信，\n　还安排人来接我。）	蕾斯娜	（真是驚人……沒想到不僅會派鳥來送信，\n　還安排人來接我去學園。）
+SeasonalTalkEvent_005_00_002ID	7	Resna	レスナ	（馬車は街道を走り続けた）	Resna	(We just keep getting farther and farther away from town...)	蕾斯娜	（马车在路上不断前行。）	蕾斯娜	（馬車持續在街道上奔跑著。）
+SeasonalTalkEvent_005_00_002ID	8	Resna	レスナ	（今までいた現実が、少しずつ少しずつ遠ざかって）	Resna	(...And from everything I've ever known.)	蕾斯娜	（以往的现实正在一点点离我远去。）	蕾斯娜	（我一步步地遠離一路以來的現實。）
+SeasonalTalkEvent_005_00_002ID	9	Resna	レスナ	（夢の中へ入っていくような……そんな気がした）	Resna	(It all feels like a dream.)	蕾斯娜	（感觉自己仿佛正在走向梦中……）	蕾斯娜	（就像是逐漸進入夢中的……那種感覺。）
+SeasonalTalkEvent_005_00_002ID	10	Coachman	御者	青い鳥……そんなものを学園は寄こすんだね	Coachman	A blue bird, huh? Yes, I've heard that's what the academy sends out.	车夫	蓝色的鸟……学园还派了那样的信使去找你啊。	車夫	青鳥……學園派了那種東西去找妳啊？
+SeasonalTalkEvent_005_00_002ID	11	Resna	レスナ	はい。本物なのかなって心配でしたが……	Resna	Honestly, I wasn't sure this letter was even real...	蕾斯娜	是啊。我本来还在担心是不是真的……	蕾斯娜	是的，我原本還很擔心這是不是真的……
+SeasonalTalkEvent_005_00_002ID	12	Coachman	御者	私が学園からちゃんと話を聞いてるから、\n偽物ってことはないと思うよ	Coachman	Well, from what the academy tells me, that is no forgery.	车夫	这是学园正式安排我做的工作，\n应该不会有假。	車夫	學園那邊跟我交代得很清楚，\n所以我想應該不是假的。
+SeasonalTalkEvent_005_00_002ID	13	Resna	レスナ	よかった……願書も出していないので\n詐欺なのかもってちょっと疑っていました	Resna	That's good to hear. I mean, I didn't even apply to go there! I couldn't help but wonder if this was all a scam.	蕾斯娜	那就好……我都没有提交过申请书，\n所以还有点怀疑是不是诈骗呢。	蕾斯娜	太好了……因為我連申請書都沒交，\n所以本來還有點懷疑是不是詐騙。
+SeasonalTalkEvent_005_00_002ID	14	Coachman	御者	にしても、錬金術科かあ。\n物好きなもんだ	Coachman	And you'll be studying alchemy, hm? That's not your average vocation.	车夫	说起来，你是要就读炼金术科吗？\n你的爱好还真是奇特啊。	車夫	話說回來，鍊金術科啊～\n真是特別的喜好。
+SeasonalTalkEvent_005_00_002ID	15	Coachman	御者	今は科学の時代。ランターナ学園も、確か\n科学科が普通科と呼ばれるようになっただろう？	Coachman	Especially since we live in an age of science. Actually, I believe the science class in the academy is considered a part of general studies.	车夫	现在是科学时代了。兰塔纳学园的\n科学科好像已经改叫普通科了吧？	車夫	現在是科學的時代，\n我記得蘭塔納學園現在也把科學科稱為普通科了吧？
+SeasonalTalkEvent_005_00_002ID	16	Resna	レスナ	……そうですね。錬金術には才能が必要です。\nでも、科学は勉強すれば、ある程度誰にでもできます	Resna	You're not wrong. With a bit of studying, anyone can learn the sciences. But for alchemy, you need to have a particular aptitude.	蕾斯娜	嗯……学习炼金术是需要天赋的。\n但是，只要好好学习，谁都能在科学上达到一定水平。	蕾斯娜	……是啊，鍊金術需要有才能，\n但科學只要學習，任誰都能做到一定的程度。
+SeasonalTalkEvent_005_00_002ID	17	Resna	レスナ	だから、今は科学を勉強するのが、\n普通なのかもしれません	Resna	So it's not surprising that the sciences are the common choice.	蕾斯娜	所以，如今选择学习科学可能才符合常理吧。	蕾斯娜	所以，\n這個年代學習科學或許才是一般人的選擇。
+SeasonalTalkEvent_005_00_002ID	18	Coachman	御者	それなのに、君はどうして錬金術を？	Coachman	And yet you've got your heart set on alchemy. Why is that?	车夫	那你为什么要选炼金术？	車夫	既然如此，妳為什麼要學習鍊金術呢？
+SeasonalTalkEvent_005_00_002ID	19	Resna	レスナ	錬金術にしかできないことが、あると思ったからです	Resna	I believe that there are some things that only alchemy can accomplish.	蕾斯娜	因为有些事只有靠炼金术才能做到。	蕾斯娜	因為我認為有些事只有鍊金術才做得到。
+SeasonalTalkEvent_005_00_002ID	20	Coachman	御者	……そうかい	Coachman	Hm, I see.	车夫	……这样啊。	車夫	……這樣啊。
+SeasonalTalkEvent_005_00_002ID	21	Coachman	御者	そうだね、自動車が走り始めたこの時代にも、\nまだ馬車を走らせてる私みたいな者もいる	Coachman	A kindred spirit, then. There aren't many left who'd choose to travel by horse like I do. Not since cars became readily available.	车夫	说得也是，如今尽管汽车的风潮正在兴起，\n但也还有像我这样驾驶马车的人啊。	車夫	是啊，即使這個年代汽車已經開始跑在路上了，\n也還是有我這種駕馬車的人存在。
+SeasonalTalkEvent_005_00_002ID	22	Coachman	御者	頑張れ、お嬢さん	Coachman	Good luck, my lady.	车夫	加油吧，小姐。	車夫	小姐，妳就加油吧。
+SeasonalTalkEvent_005_00_002ID	23	Resna	レスナ	ふふ、ありがとうございます	Resna	Ehehe. Thank you very much!	蕾斯娜	嘿嘿，谢谢你。	蕾斯娜	呵呵，謝謝你。
+SeasonalTalkEvent_005_00_002ID	24	Coachman	御者	さ、馬の休憩も十分そうだ。そろそろ行こう。\nあとひとっ走りで王都につくよ	Coachman	Well, I think our horses have had enough of a break. It's about time we got back to the road. Not much farther to the capital now.	车夫	好了，马也休息好了。准备出发吧。\n再走一会儿就到王都了。	車夫	好了，馬好像也休息夠了，我們差不多該走了。\n再跑一陣子就到王都囉。
+SeasonalTalkEvent_005_00_002ID	25	Resna	レスナ	分かりました、引き続きよろしくお願いします	Resna	Okay! Let's get going!	蕾斯娜	我知道了。接下来也请多关照。	蕾斯娜	好的，接下來也要繼續麻煩你了。
+SeasonalTalkEvent_005_00_002ID	26	Resna	レスナ	ちなみに……お兄さんはどうして馬車を？	Resna	Um, by the way... Why DO you drive a carriage instead of a car?	蕾斯娜	多嘴问一句……小哥哥你为什么还在驾驶马车呢？	蕾斯娜	順帶一問……大哥你為什麼選擇駕馬車呢？
+SeasonalTalkEvent_005_00_002ID	27	Coachman	御者	浪漫さ	Coachman	Why, for the drama.	车夫	因为浪漫啊。	車夫	為了浪漫。
+SeasonalTalkEvent_005_00_002ID	28	Coachman	御者	よーし、お嬢さん、ついたよ	Coachman	There we go! We've arrived, my lady.	车夫	好了，小姐，我们到了。	車夫	好了～小姐，我們到囉。
+SeasonalTalkEvent_005_00_002ID	29	Resna	レスナ	ありがとうございました！\n大変お世話になりました	Resna	Thank you very much for the ride!	蕾斯娜	非常感谢！\n给你添麻烦了。	蕾斯娜	謝謝你！\n感謝你一路上的關照。
+SeasonalTalkEvent_005_00_002ID	30	Coachman	御者	馬車がここまでしか入れなくてね。\n学園の受付までは少しばかり歩くことになる	Coachman	I'm afraid that I can't take the carriage any farther than this. You'll have to walk the rest of the way to the academy.	车夫	马车只能走到这里。\n还得再稍微步行一段才能到学园接待处。	車夫	馬車沒辦法再進去了，\n妳還得走一小段路才會到學園的報到處。
+SeasonalTalkEvent_005_00_002ID	31	Coachman	御者	それじゃあ、お元気で。\nせっかくの学園生活だ。楽しんで	Coachman	Take care, and enjoy your time at school!	车夫	那我走了，你多保重。\n要好好享受宝贵的学园生活啊。	車夫	再見，保重囉。\n好好享受難得的學園生活吧。
+SeasonalTalkEvent_005_00_002ID	32	Resna	レスナ	お兄さんこそ、お元気で！	Resna	I will, mister! See you!	蕾斯娜	小哥哥你也请多保重！	蕾斯娜	大哥你也是，請多保重！
+SeasonalTalkEvent_005_00_002ID	33	Resna	レスナ	（さて……入学の手続きは、広場にある\n　事務棟で行うんだったっけ）	Resna	(Um, okay... I'm supposed to register at an office in the square, but...)	蕾斯娜	（接下来……办入学手续好像是在\n　广场的办公楼里。）	蕾斯娜	（好了……\n　我記得入學手續應該要到廣場的行政樓辦理吧？）
+SeasonalTalkEvent_005_00_002ID	34	Resna	レスナ	（って、時間がないや！\n　遅刻しちゃう！　広場はどっちだろう！？）	Resna	(Just where is it?! Oh... Shoot! When did it get so late? I'll get in trouble if I don't find it fast!)	蕾斯娜	（哎呀，没时间了！\n　要迟到了！广场在哪里呀？！）	蕾斯娜	（呃，沒時間了！\n　要遲到了！廣場在哪邊啊！？）
+SeasonalTalkEvent_005_00_002ID	35	Resna	レスナ	ひゃ……っ！？	Resna	Eeek...!	蕾斯娜	呀……？！	蕾斯娜	呀啊……！？
+SeasonalTalkEvent_005_00_002ID	36	Sophie	ソフィー	わっ！？	Sophie	Whoa!	苏菲	哇？！	蘇菲	哇！？
+SeasonalTalkEvent_005_00_002ID	37	Resna	レスナ	あいたた……ごめんなさい、前を見てませんでし……	Resna	Ouch... Sorry, I should've been paying more attentio—	蕾斯娜	好疼……对不起，是我没看路……	蕾斯娜	好痛……對不起，我沒注意看前面……
+SeasonalTalkEvent_005_00_002ID	38	Resna	レスナ	ひ……っ！？	Resna	Eep!	蕾斯娜	嘶……？！	蕾斯娜	咦……！？
+SeasonalTalkEvent_005_00_002ID	39	Resna	レスナ	（え、不良！？）	Resna	(I-Is she a delinquent?!)	蕾斯娜	（什么，是不良少女？！）	蕾斯娜	（咦？不良學生！？）
+SeasonalTalkEvent_005_00_002ID	40	Sophie	ソフィー	大丈夫？　ケガはない？	Sophie	Hey, are you okay? You're not hurt?	苏菲	你没事吧？有没有受伤？	蘇菲	妳還好嗎？　有沒有受傷？
+SeasonalTalkEvent_005_00_002ID	41	Resna	レスナ	（不良ってことは、もしかしてこの後……）	Resna	(U-Um, if she's one of those tough-girl types, then...)	蕾斯娜	（看这副不良少女的派头，她接下来是不是会说……）	蕾斯娜	（如果她是不良學生，難不成接下來……）
+SeasonalTalkEvent_005_00_002ID	42	Sophie	ソフィー	こっちは肩の骨が折れてもうたわい。\n慰謝料払ってもらわんとなァ？	Sophie	Hey. Ain't ya gonna apologize for rammin' into my shoulder? In Cole, of course.	苏菲	老子肩膀都让你给撞骨折了。\n还不快把赔偿金交出来？	蘇菲	我肩膀骨頭都斷了，\n妳可得付我醫藥費才行！
+SeasonalTalkEvent_005_00_002ID	43	Resna	レスナ	（……って、言われるってことおおお！？）	Resna	(That's absolutely what she's going to say next, right?!)	蕾斯娜	（要是这样可怎么办啊啊啊？！）	蕾斯娜	（……她該不會這麼說吧──！？）
+SeasonalTalkEvent_005_00_002ID	44		不良Ａ	番長！　どうしたっすか！？	Delinquent A	Hey, boss! What's goin' on here?	不良A	大姐头！出什么事了？！	不良學生A	老大！妳怎麼了！？
+SeasonalTalkEvent_005_00_002ID	45		不良Ｂ	おいてめえ、番長に何しやがるんだ	Delinquent B	Yo, did ya mess with our main chick?	不良B	混蛋，你对大姐头做了什么？	不良學生B	喂！妳這傢伙，對老大做了什麼？
+SeasonalTalkEvent_005_00_002ID	46	Resna	レスナ	あわわわ、ごめんなさい！　本当に申し訳ないです！\nどうか命だけはー！	Resna	I-I-I'm so sorry! It won't ever happen again! Please, spare meee!	蕾斯娜	哇啊啊，对不起！非常抱歉！\n还请饶我一命！	蕾斯娜	啊哇哇哇，對不起！真的非常抱歉！\n請饒我一命吧──！
+SeasonalTalkEvent_005_00_002ID	47	Sophie	ソフィー	あっ、ちょっと！	Sophie	Hey! Wait!	苏菲	啊，等等！	蘇菲	啊，等等！
+SeasonalTalkEvent_005_00_002ID	48	Sophie	ソフィー	もう、みんなダメだよ。\nあの子に怖がられちゃった	Sophie	Aw, guys! You scared her off!	苏菲	哎呀，你们别这样。\n都把那个女生吓坏了。	蘇菲	真是的，大家這樣不行啦，\n嚇到她了。
+SeasonalTalkEvent_005_00_002ID	49		不良Ｂ	す、すいません……	Delinquent B	O-Our bad...	不良B	对、对不起……	不良學生B	對、對不起……
+SeasonalTalkEvent_005_00_002ID	50	Sophie Neuenmuller	ソフィー・ノイエンミュラー	ランターナ学園の生徒。\n不良たちから慕われており、「番長」と呼ばれている	Sophie Neuenmuller	"A student at Lantarna Academy. All the delinquents look up to her and call her ""boss."""	苏菲·诺伊恩缪拉	兰塔纳学园的学生。\n深受不良少年们的敬仰，被尊称为“大姐头”。	蘇菲‧諾伊恩繆拉	蘭塔納學園的學生，\n受一群不良學生們仰慕，被稱為「老大」。
+SeasonalTalkEvent_005_00_003ID	0	Resna	レスナ	はあ、はあ……あれって、不良ってやつだよね？\n初めて見た……	Resna	*Huff* *Huff* So delinquents...really do exist? That was my first time meeting one...	蕾斯娜	呼、呼……那些人应该就是不良吧？\n我还是第一次见……	蕾斯娜	呼、呼……那就是所謂的不良學生吧？\n我第一次看到……
+SeasonalTalkEvent_005_00_003ID	1	Resna	レスナ	……って、あれ。ここは……	Resna	Huh? Wait, this must be...	蕾斯娜	哎呀，这里……	蕾斯娜	……呃，奇怪？這裡是……
+SeasonalTalkEvent_005_00_003ID	2	Resna	レスナ	広場だ！	Resna	The square!	蕾斯娜	就是广场啊！	蕾斯娜	是廣場！
+SeasonalTalkEvent_005_00_003ID	3	Resna	レスナ	すごく賑わってるなあ。うちの村とは大違い	Resna	Wow, it's so crowded here. It's nothing like my village.	蕾斯娜	好热闹呀，比我们村繁华多了。	蕾斯娜	好熱鬧喔～跟我的村子差好多。
+SeasonalTalkEvent_005_00_003ID	4	Resna	レスナ	って、見とれてる場合じゃなかった！\n学園の事務棟は……あそこかな	Resna	Oh! This isn't the time to be playing tourist! I need to find the administration office! Um... Is that it?	蕾斯娜	不对，现在不是看热闹的时候！\n学园办公楼……应该是那栋吧。	蕾斯娜	呃，沒時間觀賞了！\n學園的行政樓……是在那邊吧？
+SeasonalTalkEvent_005_00_003ID	5	Resna	レスナ	あれ？　ここでいいのかな？\n食堂に見えるけど……	Resna	Er, is this really the right spot? It looks more like a cafeteria...	蕾斯娜	咦？真的是这里吗？\n看起来比较像食堂……	蕾斯娜	奇怪？是這裡嗎？\n可是看起來像餐廳……
+SeasonalTalkEvent_005_00_003ID	6	Marion	マリオン	新入生の方、こちらが受付になります。\n順番にお越しください	Marion	New students, registration is at this counter. Please form a line and wait your turn.	玛丽翁	各位新生，接待处在这里，\n请大家按顺序过来报到。	瑪麗翁	各位新生，這邊是報到處，\n請依序辦理手續。
+SeasonalTalkEvent_005_00_003ID	7	Resna	レスナ	あ、合ってるっぽい？\nすみませーん	Resna	Oh! I guess this really is it. Excuse me!	蕾斯娜	啊，好像就是这里？\n不好意思——	蕾斯娜	啊，好像沒錯？\n不好意思～
+SeasonalTalkEvent_005_00_003ID	8	Marion	マリオン	新入生の方ね。入学おめでとう。\nランターナ学園へようこそ	Marion	Ah, you must be a new student. Congratulations on your acceptance into Lantarna Academy.	玛丽翁	你是新生吧，祝贺你入学。\n欢迎来到兰塔纳学园。	瑪麗翁	妳是新生吧？\n恭喜入學，歡迎來到蘭塔納學園。
+SeasonalTalkEvent_005_00_003ID	9	Resna	レスナ	はい！　ありがとうございます！	Resna	Thank you very much!	蕾斯娜	谢谢你！我很荣幸！	蕾斯娜	是！謝謝妳！
+SeasonalTalkEvent_005_00_003ID	10	Marion	マリオン	早速だけど、入学関連書類の提出を……\nって、あなたは……レスナさん？	Marion	So, we'll start by having you fill out this paperwork. Hm...? Your name is Resna?	玛丽翁	那就抓紧时间办手续吧，请你提交入学相关文件……\n啊，你是……蕾斯娜同学？	瑪麗翁	那麼現在請妳提交入學相關文件……\n呃，妳是……蕾斯娜同學？
+SeasonalTalkEvent_005_00_003ID	11	Resna	レスナ	は、はい？　そうですが……	Resna	U-Um, yes. That's me.	蕾斯娜	咦？是、是的，我是蕾斯娜……	蕾斯娜	嗯、嗯？我就是……
+SeasonalTalkEvent_005_00_003ID	12	Marion	マリオン	ねえ、もしかして、青い鳥が手紙を持ってきた？	Marion	Say, did a blue bird happen to bring you a letter?	玛丽翁	你把蓝鸟的信带过来了吗？	瑪麗翁	我問妳，是不是有青鳥送信給妳？
+SeasonalTalkEvent_005_00_003ID	13	Resna	レスナ	そうです！　その入学案内を見て、\n今日ここに来るようにって！	Resna	Yes! That's exactly why I'm here today!	蕾斯娜	带来了！\n我今天就是照着那封入学通知上的内容来到了这里！	蕾斯娜	沒錯！\n上面寫著看完那份入學指南後，今天再到這裡來！
+SeasonalTalkEvent_005_00_003ID	14	Marion	マリオン	なるほど、この子が、例の……	Marion	I see, so you're...	玛丽翁	原来如此，这个女生就是那个……	瑪麗翁	原來如此，這孩子就是那個……
+SeasonalTalkEvent_005_00_003ID	15	Resna	レスナ	あ、あの……？	Resna	U-Um...	蕾斯娜	什、什么……？	蕾斯娜	那、那個……？
+SeasonalTalkEvent_005_00_003ID	16	Marion	マリオン	ああ、ごめんなさいね。こっちの事情よ。\n大丈夫、あなたはここの生徒で間違いないわ	Marion	Oh, my apologies. I was thinking of something else. Fear not, you're meant to be studying at this academy, there is no doubt about that.	玛丽翁	哦，不好意思。你不需要在意。\n没问题的，你就是这里的学生。	瑪麗翁	啊，抱歉，這是我們自己的事。\n沒問題，妳確實是這裡的學生。
+SeasonalTalkEvent_005_00_003ID	17	Marion	マリオン	改めて、ようこそレスナさん。\nランターナ学園、錬金術科へ	Marion	Welcome to the alchemy program, Resna.	玛丽翁	让我再次欢迎你，蕾斯娜同学。\n欢迎来到兰塔纳学园炼金术科。	瑪麗翁	再次歡迎妳，蕾斯娜同學。\n歡迎妳來到蘭塔納學園的鍊金術科。
+SeasonalTalkEvent_005_00_003ID	18	Marion	マリオン	あなたはちょっと特別な事情があるから、\n放課後また声をかけさせてもらうわね	Marion	Your circumstances are a tad peculiar, though, so I'll come see you again after classes end for the day.	玛丽翁	你情况比较特殊，\n所以放学后请你再来找我谈谈。	瑪麗翁	因為妳的情況有點特別，\n放學後我會再找妳談談的。
+SeasonalTalkEvent_005_00_003ID	19		生徒Ａ（ぷに）	おい！　ボクが先に並んでたんだぞ！	Student A (Puni)	Hey! I was in line first!	学生A（噗尼）	喂！是我先排在这里的！	學生A（噗尼）	喂！是我先排的耶！
+SeasonalTalkEvent_005_00_003ID	20		生徒Ｂ（鎧騎士）	うっせえ！　ぷにの癖して生意気言ってんじゃねえ！	Student B (Armored Knight)	Like I care! Yeesh, you've sure got a mouth on ya for bein' so dang puny!	学生B（铠族骑士）	闭嘴！你一个噗尼神气什么！	學生B（鎧騎士）	吵死了！不過是隻噗尼，少在那邊囂張！
+SeasonalTalkEvent_005_00_003ID	21	Resna	レスナ	わ、え、なに！？	Resna	Huh? Um, what?!	蕾斯娜	哇啊，怎、怎么回事？！	蕾斯娜	哇，咦，什麼！？
+SeasonalTalkEvent_005_00_003ID	22	Marion	マリオン	はあ……またケンカが始まったわ。\n相性悪いのよ、ぷに族と鎧族	Marion	*Sigh* Wonderful, more brawling. Those two simply can't seem to see eye-to-eye.	玛丽翁	唉……又吵起来了。\n噗尼族和铠族一直都是话不投机半句多。	瑪麗翁	唉……他們又開始吵架了。\n噗尼族和鎧族就是合不來。
+SeasonalTalkEvent_005_00_003ID	23	Rorona	ロロナ	こらー！	Rorona	Hey, knock it off!	萝乐娜	你们两个！	蘿樂娜	喂──！
+SeasonalTalkEvent_005_00_003ID	24	Rorona	ロロナ	ケンカはダメだよ！　いったいどうしたの？	Rorona	What's going on here? You know fighting's not the answer!	萝乐娜	不可以吵架！到底发生什么事了？	蘿樂娜	不可以吵架！到底怎麼回事？
+SeasonalTalkEvent_005_00_003ID	25		生徒Ａ（ぷに）	ボクが受付に先に並んでたのに、\nコイツが割り込んだんだ！	Student A (Puni)	I was patiently waiting in line, and then this guy cut in front of me!	学生A（噗尼）	是我先在接待处前排队的，\n可这家伙非要插队！	學生A（噗尼）	明明是我先來櫃檯排隊的，\n這傢伙卻插隊！
+SeasonalTalkEvent_005_00_003ID	26		生徒Ｂ（鎧騎士）	見えなかったんだよ！　小さすぎてなあ！	Student B (Armored Knight)	Hey, it ain't my fault you're too short to see!	学生B（铠族骑士）	我没看到啊！要怪就怪你太小了！	學生B（鎧騎士）	我沒看到你啊！你太小隻了！
+SeasonalTalkEvent_005_00_003ID	27	Rorona	ロロナ	二人とも落ち着いて！　冷静に話そうよ	Rorona	Okay, just calm down! This is no way to have a discussion!	萝乐娜	你们两个别争了！好好沟通一下吧。	蘿樂娜	你們兩個都冷靜點！心平氣和地講吧。
+SeasonalTalkEvent_005_00_003ID	28		生徒Ｂ（鎧騎士）	ああ？　横から入ってきたと思えばなんだお前は！	Student B (Armored Knight)	Huuuh? I was wonderin' who was buttin' into our business, but it's just you.	学生B（铠族骑士）	什么？多管闲事，你算老几啊！	學生B（鎧騎士）	啊？妳又是誰啊突然插嘴！
+SeasonalTalkEvent_005_00_003ID	29		生徒Ａ（ぷに）	そうだ！　これはボクとコイツの問題なんだ！	Student A (Puni)	Yeah, stay out of this! This is between me and him!	学生A（噗尼）	就是！这是我和这家伙之间的问题！	學生A（噗尼）	對啊！這是我和這傢伙之間的問題！
+SeasonalTalkEvent_005_00_003ID	30	Rorona	ロロナ	あわわ……ダメ！　ダメだったら！	Rorona	Oooh... Nope! No way!	萝乐娜	哇啊啊……不行！都说了不许吵架！	蘿樂娜	啊哇哇……不行！就說不行了！
+SeasonalTalkEvent_005_00_003ID	31	Marion	マリオン	ちょ！　ロロナさん、ストップ！	Marion	Wha?! Rorona! Put that away!	玛丽翁	啊！萝乐娜同学，住手！	瑪麗翁	等等！蘿樂娜同學，停下來！
+SeasonalTalkEvent_005_00_003ID	32	Rorona	ロロナ	ケンカは、ダメええええ！！！	Rorona	I said, NO FIGHTIIING!	萝乐娜	不许吵架啊啊啊啊！！！	蘿樂娜	不可以吵架────！！！
+SeasonalTalkEvent_005_00_003ID	33		生徒Ａ（ぷに）	わあああ！？	Student A (Puni)	Whoa?!	学生A（噗尼）	哇啊啊啊？！	學生A（噗尼）	哇啊啊啊！？
+SeasonalTalkEvent_005_00_003ID	34		生徒Ｂ（鎧騎士）	ぐえええ！？	Student B (Armored Knight)	Guuuh?!	学生B（铠族骑士）	唔哇啊啊？！	學生B（鎧騎士）	唔呃呃呃！？
+SeasonalTalkEvent_005_00_003ID	35	Marion	マリオン	……委員長として頑張ってるのは分かるけどね。\nもうちょっと落ち着いてもらえると助かるわ	Marion	While I understand that you were just trying to keep the peace, as class president, it would help if you could do so in a more composed manner.	玛丽翁	……我明白你身为班长想努力维持学园秩序，\n但希望你能更冷静沉着一点。	瑪麗翁	……我知道妳很努力當班長，\n但如果能再沉著一點就好了。
+SeasonalTalkEvent_005_00_003ID	36	Rorona	ロロナ	はい……ごめんなさい……	Rorona	Um, okay... I'm sorry...	萝乐娜	知道了……对不起……	蘿樂娜	是……對不起……
+SeasonalTalkEvent_005_00_003ID	37	Marion	マリオン	ま、あの二人にも保健室で反省してもらわないとね。\nそれはそうと、ロロナさんが来てちょうどよかったわ	Marion	Well, I suppose some time to reflect in the nurse's office would do those two good. That aside, your timing couldn't be better, Rorona.	玛丽翁	也得让那两位同学去保健室好好反省一下。\n对了，萝乐娜同学，我正好有事要拜托你。	瑪麗翁	算了，也得讓他們兩個在保健室裡反省一下才行。\n話說回來，蘿樂娜同學妳來得正好。
+SeasonalTalkEvent_005_00_003ID	38	Rorona	ロロナ	はい？	Rorona	Huh?	萝乐娜	什么事？	蘿樂娜	嗯？
+SeasonalTalkEvent_005_00_003ID	39	Marion	マリオン	この子の案内を頼める？\n錬金術科新入生の、レスナさんよ	Marion	This is Resna, a new alchemy student. Would you be able to show her around?	玛丽翁	你能带她熟悉一下学园吗？\n她是炼金术科的新生蕾斯娜。	瑪麗翁	能拜託妳帶這孩子熟悉環境嗎？\n她是鍊金術科的新生蕾斯娜同學。
+SeasonalTalkEvent_005_00_003ID	40	Rorona	ロロナ	わあ、よろしくね、レスナちゃん！\n錬金術科２年のロロナだよ	Rorona	Oh, sure! It's nice to meet you, Resna! I'm Rorona, a second-year alchemy student!	萝乐娜	哇，请多指教啦，蕾斯娜！\n我是炼金术科2年级的萝乐娜。	蘿樂娜	哇啊，請多指教囉，蕾斯娜！\n我是鍊金術科二年級的蘿樂娜。
+SeasonalTalkEvent_005_00_003ID	41	Resna	レスナ	はい、よろしくお願いします！\nロロナ先輩！	Resna	Wow! I'm so glad to have an upperclassman like you, Rorona!	蕾斯娜	你好，请多指教！\n萝乐娜前辈！	蕾斯娜	是，請多多指教！\n蘿樂娜學姐！
+SeasonalTalkEvent_005_00_003ID	42	Rorona	ロロナ	じゃあ、早速だけどついてきて！\n色々案内するね！	Rorona	Aw, thanks! But we'd better get going! There's so much to see here!	萝乐娜	那我们这就出发吧！\n我给你到处介绍一下！	蘿樂娜	那妳趕快跟我來吧！\n我帶妳熟悉各個地方！
+SeasonalTalkEvent_005_00_003ID	43	???	？？？	すみません。入学の手続きをしに来ました	???	Excuse me, I'm here to register as a new student.	？？？	你好，我是来办入学手续的。	？？？	不好意思，我來辦理入學手續。
+SeasonalTalkEvent_005_00_003ID	44	Marion	マリオン	入学おめでとう。\nそれじゃあ、書類を確認するわね	Marion	Congratulations on your acceptance to the academy. Now, if you'll just take a look at these forms...	玛丽翁	祝贺你入学。\n我来确认一下文件。	瑪麗翁	恭喜入學。\n我確認一下文件。
+SeasonalTalkEvent_005_00_003ID	45	Marion Quinn	マリオン・クィン	ランターナ学園に勤める女性。\n仕事熱心なしっかり者だが、その分、気苦労が絶えない	Marion Quinn	A woman who works for Lantarna Academy. She excels at everything related to her job, but is burdened by an equal amount of stress.	玛丽翁·昆恩	在兰塔纳学园工作的女性。\n热爱工作，为人可靠，但也因此有着操不完的心。	瑪麗翁‧昆恩	在蘭塔納學園工作的女性。\n工作認真又可靠，但也因此總是在操心。
+SeasonalTalkEvent_005_00_003ID	46	Rorolina Frixell	ロロライナ・フリクセル	錬金術科の２年生。通称「ロロナ」。少しだけ天然だが\n真面目な性格で、クラスの委員長を務めている	Rorolina Frixell	A second-year alchemy student whose nickname is Rorona. Her sincerity more than makes up for her slight airheadedness, making her a good fit for class president.	萝乐莱娜·菲立克塞尔	炼金术科2年级学生。人称“萝乐娜”。\n有些少根筋，但个性认真，担任班长一职。	蘿樂萊娜‧菲立克塞爾	鍊金術科二年級生，人稱「蘿樂娜」，雖然有點少根筋，\n但個性認真，擔任班長。
+SeasonalTalkEvent_005_00_004ID	0	Rorona	ロロナ	それじゃあ、早速今いるここから説明するね	Rorona	Okay! I'll kick things off by explaining where we are right now.	萝乐娜	好，就从现在所在的地方说起吧。	蘿樂娜	那麼，我就先從現在這個地方開始介紹。
+SeasonalTalkEvent_005_00_004ID	1	Rorona	ロロナ	ここは事務受付兼食堂！\n購買にもなってるよ	Rorona	This is both the administration office and the dining hall! There's also a little shop where you can buy supplies and things, too.	萝乐娜	这里是接待处兼食堂！\n也是个小卖店。	蘿樂娜	這裡是行政櫃檯兼餐廳！\n也有賣東西喔。
+SeasonalTalkEvent_005_00_004ID	2	Rorona	ロロナ	お昼は他のお店に行っても大丈夫ではあるけど、\nみんなここで食べることが多いかな	Rorona	You're free to go wherever you'd like for lunch, but most people come here to eat.	萝乐娜	去别的饭店吃午饭也可以，\n不过大部分同学都是在这里吃的。	蘿樂娜	中午想去其他店吃也可以，\n但大家大多會在這裡吃午餐。
+SeasonalTalkEvent_005_00_004ID	3	Rorona	ロロナ	色々頼めるけど、早く出てきて安いのは\n日替わり定食。Ａ～Ｃ定食まであるよ	Rorona	There's a bunch of stuff on the menu, but the quickest and cheapest options are the A, B, and C daily specials.	萝乐娜	在这里能点很多料理，但出餐最快还便宜的\n是每天不一样的套餐。一共有A、B、C三种哦。	蘿樂娜	可以點的東西有很多，其中每日特餐出餐快又便宜，\n有A～C套餐可以選喔。
+SeasonalTalkEvent_005_00_004ID	4	Rorona	ロロナ	Ａ定はおしゃれ系、Ｂ定はがっつり系。\nそれだけ分かってればここは大丈夫	Rorona	The A special's usually fancier, and the B special is good if you want to fill up. That's about all you need to know about those.	萝乐娜	A套餐是卖相漂亮类型，B套餐是分量大的类型，\n只要知道这两个就行了。	蘿樂娜	A套餐走精緻風格，B套餐走分量路線，\n基本上只要知道這些就沒問題了。
+SeasonalTalkEvent_005_00_004ID	5	Resna	レスナ	あれ、Ｃ定食はどうなんですか？	Resna	Um, what about the C special?	蕾斯娜	咦，那C套餐是什么样的？	蕾斯娜	奇怪？那C套餐呢？
+SeasonalTalkEvent_005_00_004ID	6	Rorona	ロロナ	Ｃ定は……ちょ、ちょっと個性的な味だから\nやめておいたほうがいいよ	Rorona	It's got... Ummm... A pretty, uh, unique flavor. I honestly wouldn't recommend it.	萝乐娜	C套餐啊……它、它的味道比较有个性，\n建议你最好不要尝试。	蘿樂娜	C套餐……因、因為味道有點特別，\n勸妳還是不要點比較好。
+SeasonalTalkEvent_005_00_004ID	7	Rorona	ロロナ	もう見てるとは思うけど、ここが王都の広場だね	Rorona	I'm sure you've already seen it, but this is the capital's main square.	萝乐娜	你应该已经来过了，这里是王都的广场。	蘿樂娜	這裡是王都的廣場，雖然我想妳應該已經看過了。
+SeasonalTalkEvent_005_00_004ID	8	Resna	レスナ	私、地方から来たのでびっくりしちゃいました。\n都会にある学園ってすごいなあ	Resna	There's nothing like it where I'm from! It's astonishing! Having a school in a city is so amazing...	蕾斯娜	我是从外地来的，看到这里真有种大开眼界的感觉。\n大城市的学园好气派呀。	蕾斯娜	我是從鄉村地區來的，所以嚇了一跳，\n大都市的學校真的好厲害。
+SeasonalTalkEvent_005_00_004ID	9	Rorona	ロロナ	そうなんだ。わたし、この街の生まれだから\n地方のほうが興味あるかも	Rorona	Oh really? I was born here, so I'm more interested in the regions outside of the capital.	萝乐娜	是吗？我是在这个城镇出生的，\n所以倒是对外地更感兴趣。	蘿樂娜	這樣啊，我是在這個城鎮出身的，\n所以對鄉村地區還比較有興趣呢。
+SeasonalTalkEvent_005_00_004ID	10	Resna	レスナ	それじゃあ、今度うちにご招待しますよ！\n本当に何もないですけど……	Resna	You should come for a visit sometime! Um, there's really nothing there, though.	蕾斯娜	那下次欢迎你去我老家玩！\n不过那里真的什么都没有……	蕾斯娜	那下次妳來我家玩吧！\n雖然真的什麼都沒有……
+SeasonalTalkEvent_005_00_004ID	11	Rorona	ロロナ	あはは、じゃあ、夏休みにでもお願いしようかな	Rorona	Ahaha! I might take you up on that offer over summer break.	萝乐娜	哈哈哈，那我想等放暑假就去做客。	蘿樂娜	啊哈哈，那，等暑假時再拜託妳囉。
+SeasonalTalkEvent_005_00_004ID	12	Rorona	ロロナ	……見えてきたね	Rorona	And just over here you'll see...	萝乐娜	……已经能看到了。	蘿樂娜	……看得到了呢。
+SeasonalTalkEvent_005_00_004ID	13	Resna	レスナ	あ……もしかして、あれが	Resna	Oh! Is that...?	蕾斯娜	啊，该不会那个就是……	蕾斯娜	啊……難道說，那是……
+SeasonalTalkEvent_005_00_004ID	14	Rorona	ロロナ	そう！　ランターナ学園の学舎だよ！	Rorona	Yep! Lantarna Academy's main building!	萝乐娜	没错！是兰塔纳学园的学堂！	蘿樂娜	沒錯！是蘭塔納學園的校舍！
+SeasonalTalkEvent_005_00_004ID	15	Resna	レスナ	わあ……大きいですね。まるでお城みたい	Resna	Wow, it's so big...! It looks like a castle!	蕾斯娜	哇……真大呀。好像一座城堡。	蕾斯娜	哇啊……好大喔，像座城堡一樣。
+SeasonalTalkEvent_005_00_004ID	16	Rorona	ロロナ	だよね！　わたしも初めて見た時同じことを思ったよ。\n歴史ある学園だからこういう見た目なんだ	Rorona	Right? That's exactly what I thought when I first saw it. The academy has a lot of history, which is why it looks like that.	萝乐娜	是吧！我第一次见到的时候也是这么想的。\n因为是历史悠久的学园，所以才会是这样的造型。	蘿樂娜	對吧！我第一次看到時也這麼覺得。\n因為是歷史悠久的學園，外觀才會長這樣。
+SeasonalTalkEvent_005_00_004ID	17	Resna	レスナ	これから、毎日ここに通うんですね	Resna	And I'm enrolled here starting today...	蕾斯娜	今后我要每天在这个地方上学了啊。	蕾斯娜	以後我每天都要來這裡上學啊。
+SeasonalTalkEvent_005_00_004ID	18	Rorona	ロロナ	実感してきた？	Rorona	Feels real now, huh?	萝乐娜	现在有真切的感受了吗？	蘿樂娜	開始有現實感了嗎？
+SeasonalTalkEvent_005_00_004ID	19	Resna	レスナ	はい！　それはもう、猛烈に！	Resna	Yeah! It's so intense!	蕾斯娜	嗯！真切感扑面而来了！	蕾斯娜	是的！非常強烈！
+SeasonalTalkEvent_005_00_004ID	20	Rorona	ロロナ	あはは、やる気十分だね。\nそれじゃあ、行こっか！　わたしたちの教室に！	Rorona	Ahaha, you sure are fired up. Come on, I'll show you our classroom!	萝乐娜	哈哈哈，干劲十足呢。\n接下来就去我们的教室看看吧！	蘿樂娜	啊哈哈，幹勁十足呢。\n那我們走吧！去我們的教室！
+SeasonalTalkEvent_005_00_005ID	0	Rorona	ロロナ	おはよー	Rorona	G'morning!	萝乐娜	早上好～	蘿樂娜	早安──
+SeasonalTalkEvent_005_00_005ID	1	Ryza	ライザ	おっ。おはよう、ロロナ。\nん？　その子は？	Ryza	Hey! Morning, Rorona. Hm? Who've you got with you?	莱莎	哦，早上好，萝乐娜。\n嗯？这位是？	萊莎	喔，早安，蘿樂娜。\n嗯？她是？
+SeasonalTalkEvent_005_00_005ID	2	Rorona	ロロナ	新入生のレスナちゃんだよ	Rorona	This is Resna. She's a new student!	萝乐娜	她是新生，名叫蕾斯娜。	蘿樂娜	她是新生蕾斯娜。
+SeasonalTalkEvent_005_00_005ID	3	Resna	レスナ	はじめまして！　レスナ・シュテルネンリヒトです！	Resna	My full name is Resna Sternenlicht! It's nice to meet you!	蕾斯娜	初次见面，你好！我是蕾斯娜·修特涅利希特！	蕾斯娜	初次見面！我是蕾斯娜‧修特涅利希特！
+SeasonalTalkEvent_005_00_005ID	4	Ryza	ライザ	どうも～。あたしはライザ。\n錬金術科２年だよ	Ryza	You too! I'm Ryza, a second-year alchemy student.	莱莎	你好呀～我叫莱莎。\n是炼金术科2年级的学生。	萊莎	妳好～我是萊莎，\n鍊金術科二年級。
+SeasonalTalkEvent_005_00_005ID	5	Resna	レスナ	よろしくお願いします！\nわあ、おしゃれな人だ……	Resna	I can't wait to study together! And wow, you're so stylish...	蕾斯娜	请多多关照！\n哇，好时尚的打扮啊……	蕾斯娜	請多多指教！\n哇啊，妳好時髦……
+SeasonalTalkEvent_005_00_005ID	6	Ryza	ライザ	そう？　ありがとう！　オキニのコーデなんだよね	Ryza	Aw, you think so? Thanks! This is my favorite outfit.	莱莎	是吗？谢谢你！这是人家很喜欢的搭配呢。	萊莎	是嗎？謝謝！這是我很喜歡的穿搭。
+SeasonalTalkEvent_005_00_005ID	7	Resna	レスナ	わわ、すみません！　声が漏れてました……！	Resna	I-I'm so sorry! I didn't mean to say that out loud!	蕾斯娜	哇啊啊，不好意思！我本来没想说出声的……！	蕾斯娜	哇哇，不好意思！我不小心說出來了……
+SeasonalTalkEvent_005_00_005ID	8	Resna	レスナ	……って、２年？\n１年の教室はいずこに？	Resna	But, um, you're a second-year too? Where's the first-years' classroom?	蕾斯娜	……咦，2年级？\n那1年级的教室在哪里呢？	蕾斯娜	……呃，二年級？\n一年級的教室在哪裡呢？
+SeasonalTalkEvent_005_00_005ID	9	Ryza	ライザ	ううん、ここで合ってるよ。\n錬金術科はね、特別なんだ	Ryza	There isn't one—we're all together. The alchemy program's special like that.	莱莎	就在这里哦。\n炼金术科情况有点特别。	萊莎	不，就是這裡。\n鍊金術科有點特別。
+SeasonalTalkEvent_005_00_005ID	10	Ryza	ライザ	才能がある人しか入れないから、\n人数が少なくてさ。全学年、合同授業なんだ	Ryza	You can only get in if you've got the talent for it, which is a scant few people. So they've crammed all the grades into one big room.	莱莎	只有那些有天赋的人才会被录取，\n所以人数很少，所有年级都是一起上课的。	萊莎	因為只有擁有才能的人才可以入學，人數很少，\n所以是全年級一起上課。
+SeasonalTalkEvent_005_00_005ID	11	Resna	レスナ	才能がある人しか……	Resna	Only talented people make it in, huh...	蕾斯娜	只有那些有天赋的人……	蕾斯娜	擁有才能的人才可以……
+SeasonalTalkEvent_005_00_005ID	12	Ryza	ライザ	ん、どうしたの？	Ryza	Hm? Something wrong?	莱莎	嗯？怎么了吗？	萊莎	嗯？妳怎麼了？
+SeasonalTalkEvent_005_00_005ID	13	Resna	レスナ	いえ、なんでもないです！\n私の席はどこでしょうか？	Resna	No! Nothing at all! Um, where should I sit?	蕾斯娜	啊，没什么！\n我的座位在哪里呀？	蕾斯娜	不，沒什麼！\n我的座位在哪裡呢？
+SeasonalTalkEvent_005_00_005ID	14	Rorona	ロロナ	新入生は一番前の席だよ！\n空いてる所に座っちゃってー	Rorona	First-years are right up front! Any of the open seats are fine.	萝乐娜	新生坐第一排！\n去随便挑个空位坐吧。	蘿樂娜	新生的位子在最前面喔！\n妳就找空位坐下吧～
+SeasonalTalkEvent_005_00_005ID	15	Resna	レスナ	は、はい！	Resna	Th-Thank you!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+SeasonalTalkEvent_005_00_005ID	16	Sophie	ソフィー	みんな、おはよー	Sophie	Morning, guys.	苏菲	各位早啊。	蘇菲	大家早安～
+SeasonalTalkEvent_005_00_005ID	17	Ryza	ライザ	おはよ、ソフィー	Ryza	Hey, Sophie.	莱莎	早啊，苏菲。	萊莎	蘇菲，早安。
+SeasonalTalkEvent_005_00_005ID	18	Resna	レスナ	……えっ！？	Resna	H-Huh?!	蕾斯娜	咦……？！	蕾斯娜	……咦！？
+SeasonalTalkEvent_005_00_005ID	19	Sophie	ソフィー	あ。あなたはあの時の……	Sophie	Oh. Aren't you that girl from...?	苏菲	啊，你是刚才的……	蘇菲	啊，妳是那時候的……
+SeasonalTalkEvent_005_00_005ID	20	Ryza	ライザ	なに、知り合いなの？	Ryza	What, you two know each other?	莱莎	怎么，你们认识吗？	萊莎	怎麼？妳們認識？
+SeasonalTalkEvent_005_00_005ID	21	Sophie	ソフィー	うん、ちょっとね	Sophie	Yeah, sort of.	苏菲	嗯，算是吧。	蘇菲	嗯，算是吧。
+SeasonalTalkEvent_005_00_005ID	22	Sophie	ソフィー	後でちょっと、時間もらえる？	Sophie	Hey, do you have some time after school today?	苏菲	一会儿我能跟你聊两句吗？	蘇菲	晚點能借一步說話嗎？
+SeasonalTalkEvent_005_00_005ID	23	Resna	レスナ	（そ、それはもしかして……）	Resna	(D-Does that mean what I think it does...?)	蕾斯娜	（她、她要跟我聊什么……）	蕾斯娜	（這、這難道說……）
+SeasonalTalkEvent_005_00_005ID	24	Sophie	ソフィー	おう、ツラ貸せや。さっきの落とし前付けんとなァ？	Sophie	'Ey. You still owe me for this morning, so we're gonna take this out back. Got it?	苏菲	喂，你给我过来。得把刚才的事做个了断。	蘇菲	喂，出來，我們得解決剛才的事情是吧？
+SeasonalTalkEvent_005_00_005ID	25	Resna	レスナ	（……って、ことおおお！？）	Resna	(That's how it's going to go, r-right?!)	蕾斯娜	（……该不会是这样吧啊啊啊？！）	蕾斯娜	（……是這個意思嗎！？）
+SeasonalTalkEvent_005_00_005ID	26	Resna	レスナ	ひっ……ひいいぃぃぃ……！	Resna	Eeep...!	蕾斯娜	噫噫噫……!	蕾斯娜	噫……噫噫噫噫噫噫……！
+SeasonalTalkEvent_005_00_005ID	27	Sophie	ソフィー	？？？	Sophie	Huh?	苏菲	？？？	蘇菲	？？？
+SeasonalTalkEvent_005_00_005ID	28	Marion	マリオン	はーい、みんな席について。\nＨＲを始めるわよ	Marion	All right, everyone, take your seats. We'll be starting homeroom.	玛丽翁	好了，同学们坐好。\n我们准备开班会。	瑪麗翁	好了～大家回座位上坐好。\n要開班會囉。
+SeasonalTalkEvent_005_00_005ID	29	Resna	レスナ	（あれ、あの人……受付の人？）	Resna	(Isn't that...the woman from the reception desk?)	蕾斯娜	（咦，那是……刚才接待处的人？）	蕾斯娜	（奇怪？那個人……是櫃檯的人？）
+SeasonalTalkEvent_005_00_005ID	30	Reisalin Stout	ライザリン・シュタウト	錬金術科の２年生。通称「ライザ」。\n人懐こく明るい性格で、誰とでもすぐに打ち解ける	Reisalin Stout	A second-year alchemy student whose nickname is Ryza. Her bright and kind personality puts everyone around her at ease.	莱莎琳·斯托特	炼金术科2年级学生。人称“莱莎”。\n性格亲切开朗，不论和谁都能立刻打成一片。	萊莎琳‧斯托特	鍊金術科二年級生。人稱「萊莎」。\n個性開朗親切，跟任何人都能立刻打成一片。
+SeasonalTalkEvent_005_00_006ID	0	Marion	マリオン	まずは改めて、新入生の皆さん、ご入学おめでとう。\nここがランターナ学園、錬金術科クラスよ	Marion	Once again, I would like to offer my congratulations to our newest students. This is where you will do the bulk of your studies at Lantarna Academy.	玛丽翁	首先让我再次祝贺各位新生入学。\n这里是兰塔纳学园炼金术科。	瑪麗翁	首先，再次恭喜各位新生入學。\n這裡是蘭塔納學園鍊金術科班。
+SeasonalTalkEvent_005_00_006ID	1	Marion	マリオン	そして私は、本クラスの担任を務める、\nマリオン・クィン。よろしくね	Marion	I'm Marion Quinn, your homeroom teacher. I look forward to seeing you grow.	玛丽翁	我是这个班的班主任，\n玛丽翁·昆恩。请多关照哦。	瑪麗翁	我是本班的班導，\n瑪麗翁‧昆恩，請多指教。
+SeasonalTalkEvent_005_00_006ID	2	Marion	マリオン	進級したみんなも、おめでとう。\n１年間、一人も欠けることなく一緒に学べると嬉しいわ	Marion	And congratulations as well to those of you who have advanced a year in your studies. I hope to see you apply yourselves as thoroughly as you did last year.	玛丽翁	也祝贺顺利升上2年级的同学们。\n希望大家在新学年共同学习共同进步，谁都不掉队。	瑪麗翁	也恭喜晉級的各位。\n希望在這一年內，大家能一起學習，不缺少任何一個人。
+SeasonalTalkEvent_005_00_006ID	3	Sophie	ソフィー	…………	Sophie	...	苏菲	……	蘇菲	…………
+SeasonalTalkEvent_005_00_006ID	4	Rorona	ロロナ	…………	Rorona	...	萝乐娜	……	蘿樂娜	…………
+SeasonalTalkEvent_005_00_006ID	5	Ryza	ライザ	…………	Ryza	...	莱莎	……	萊莎	…………
+SeasonalTalkEvent_005_00_006ID	6	Resna	レスナ	…………？	Resna	...?	蕾斯娜	……？	蕾斯娜	…………？
+SeasonalTalkEvent_005_00_006ID	7	Marion	マリオン	さあ、それじゃあ早速、新入生の自己紹介と\n行きましょうか。まずミミさん、お願いできるかしら？	Marion	Now then, let's have our new students give a quick introduction. Mimi, would you care to go first?	玛丽翁	接下来请新生们自我介绍一下吧。\n敏敏同学，从你开始可以吗？	瑪麗翁	好了，那麼我們馬上來請新生做自我介紹吧。\n首先是敏敏同學，能自我介紹一下嗎？
+SeasonalTalkEvent_005_00_006ID	8	Mimi	ミミ	はい	Mimi	Understood.	敏敏	好的。	敏敏	好的。
+SeasonalTalkEvent_005_00_006ID	9	Mimi	ミミ	お初にお目にかかります、ミミと申します。\n錬金術の研鑽を積むため、この学園へとやって来ました	Mimi	It's a pleasure to meet you all. You may call me Mimi. I chose to enter this academy to diligently apply myself to the study of alchemy.	敏敏	初次见面，我叫敏敏。\n我是为了钻研炼金术来到这个学园的。	敏敏	初次見面，我是敏敏。\n我來這個學園是為了累積鑽研鍊金術的經驗。
+SeasonalTalkEvent_005_00_006ID	10	Mimi	ミミ	皆さんと切磋琢磨して、時代を担うような\n錬金術士になれたらと思います	Mimi	I wish to become a reliable alchemist, capable of carrying my generation upon my shoulders through hard work and mutual support.	敏敏	我希望能和大家相互切磋，\n成为引领时代的炼金术士。	敏敏	希望能與各位切磋琢磨，\n成為肩負時代的鍊金術士。
+SeasonalTalkEvent_005_00_006ID	11	Mimi	ミミ	よろしくお願いします	Mimi	I look forward to learning with you.	敏敏	请多关照。	敏敏	請多多指教。
+SeasonalTalkEvent_005_00_006ID	12	Rorona	ロロナ	おおー。すごい意気込み	Rorona	Ooh, a real go-getter.	萝乐娜	哇——好有志气。	蘿樂娜	喔喔～真是有理想。
+SeasonalTalkEvent_005_00_006ID	13	Marion	マリオン	ミミさんはあのシュヴァルツラング家のご令嬢よ	Marion	As it so happens, Mimi is a member of the Schwarzlang house.	玛丽翁	敏敏同学是修瓦兹兰格家的千金。	瑪麗翁	敏敏同學是修瓦茲蘭格家的千金喔。
+SeasonalTalkEvent_005_00_006ID	14	Ryza	ライザ	え、シュヴァルツラング家の！？　すごい！	Ryza	Whoa, she's from THAT noble family?! That's amazing!	莱莎	什么？修瓦兹兰格？！大人物啊！	萊莎	咦？修瓦茲蘭格家的人！？好厲害！
+SeasonalTalkEvent_005_00_006ID	15	Marion	マリオン	家の名に恥じぬ実力の持ち主よ。\n入試もほぼほぼ満点	Marion	Indeed, she is already living up to her house's good name. The scores on her entrance exam were nearly perfect.	玛丽翁	她有着无愧于家门的实力。\n在入学考试中也几乎全拿了满分。	瑪麗翁	她的實力不負家族之名，\n入學考試也幾乎滿分。
+SeasonalTalkEvent_005_00_006ID	16	Marion	マリオン	みんな、うっかりしていると追い抜かれちゃうからね	Marion	If you don't want to find yourself outstripped by a freshman, then you had better buckle down.	玛丽翁	你们稍有疏忽就会被她超过哦。	瑪麗翁	各位，大意的話可是會被她給追過的。
+SeasonalTalkEvent_005_00_006ID	17	Mimi	ミミ	先生、家の名前はあまり……	Mimi	Miss Marion, I fail to see what my family has to do with anything.	敏敏	老师，我不太想提出身的事……	敏敏	老師，我不太希望我的家族名號……
+SeasonalTalkEvent_005_00_006ID	18	Marion	マリオン	ごめんなさい。確かに知られると\nプレッシャーになるわよね。軽率だったわ	Marion	True. Mentioning them would put undue pressure on you. My apologies, that was careless of me.	玛丽翁	抱歉。也是，被别人知道了\n会给你带来压力。是我草率了。	瑪麗翁	抱歉，確實被人知道會有壓力對吧。\n是我太輕率了。
+SeasonalTalkEvent_005_00_006ID	19	Mimi	ミミ	いえ……大丈夫です	Mimi	No, it's...no matter.	敏敏	没事……不要紧。	敏敏	不……沒關係的。
+SeasonalTalkEvent_005_00_006ID	20	Marion	マリオン	それじゃあ次、レスナさん、お願いできる？	Marion	Well then, Resna? Would you mind going next?	玛丽翁	下一位，蕾斯娜同学，能介绍一下自己吗？	瑪麗翁	那麼下一位，蕾斯娜同學，可以麻煩妳嗎？
+SeasonalTalkEvent_005_00_006ID	21	Resna	レスナ	は、はい！	Resna	R-Right!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+SeasonalTalkEvent_005_00_006ID	22	Resna	レスナ	皆さん、はじめまして！\nレスナ・シュテルネンリヒトと言います！	Resna	My name is Resna Sternenlicht! It's nice to meet you!	蕾斯娜	大家好！\n我叫蕾斯娜·修特涅利希特！	蕾斯娜	各位，初次見面！\n我叫做蕾斯娜‧修特涅利希特！
+SeasonalTalkEvent_005_00_006ID	23	Resna	レスナ	えーと、あの、その……\nわわ、なに言えばいいんだろう……	Resna	Ummm, and... I-I'm not sure what else to say.	蕾斯娜	唔，然后……\n哎呀，现在该说什么好呢……	蕾斯娜	我想想，那個、呃……\n哇哇，我該說些什麼才好呢……
+SeasonalTalkEvent_005_00_006ID	24	Ryza	ライザ	レスナ、頑張れー	Ryza	You've got this, Resna!	莱莎	蕾斯娜，加油——	萊莎	蕾斯娜，加油──
+SeasonalTalkEvent_005_00_006ID	25	Resna	レスナ	は、はい、その……	Resna	Th-Thank you. Well...	蕾斯娜	好、好的！我……	蕾斯娜	好、好的，那個……
+SeasonalTalkEvent_005_00_006ID	26	Resna	レスナ	錬金術が好きで、ずっと錬金術を学んできて……\nこの学園に入れたことが夢みたいです	Resna	I've always loved alchemy, and it feels like I've been studying it my whole life. Being accepted into this school still feels like a dream.	蕾斯娜	我喜欢炼金术，也一直在学习炼金术……\n能进入这所学园简直像做梦一样。	蕾斯娜	我很喜歡鍊金術，所以一直都在學習鍊金術……\n能進入這所學園，簡直像在做夢一樣。
+SeasonalTalkEvent_005_00_006ID	27	Resna	レスナ	調合の腕を磨いて、人々を幸せにできるような……\nそんな錬金術士になれたらって思います	Resna	I'd like to brush up on my synthesis so that I can make people happy. That's the kind of alchemist I'd like to be.	蕾斯娜	我想通过磨练调合的本领，\n成为能给人们带去幸福的炼金术士。	蕾斯娜	我想要磨練調合的技術……\n成為能讓人們幸福的鍊金術士。
+SeasonalTalkEvent_005_00_006ID	28	Resna	レスナ	よろしくお願いします！	Resna	I hope that we'll all get along!	蕾斯娜	请多多关照！	蕾斯娜	請多多指教！
+SeasonalTalkEvent_005_00_006ID	29	Sophie	ソフィー	いいこと言うなあ。名前、ちゃんと覚えたよ	Sophie	Nicely said. I'll be keeping an eye on you, Resna.	苏菲	说得很不错嘛。我记住你的名字了。	蘇菲	說得真好。我記住妳的名字了。
+SeasonalTalkEvent_005_00_006ID	30	Resna	レスナ	（ひょえーーー！！！　覚えなくていいです！！！）	Resna	(Nooo! Please don't! Feel free to ignore me forever!)	蕾斯娜	（噫——！！不用记住啊！！）	蕾斯娜	（咿呀────！！！妳不用記住我也沒關係的！！！）
+SeasonalTalkEvent_005_00_006ID	31	Marion	マリオン	レスナさんは推薦入学よ。つまり、識者から\nそれなりの実力を認められてるってこと	Marion	Resna is here on recommendation, in fact. That means that someone has personally vouched for her potential.	玛丽翁	蕾斯娜同学是经人推荐入学的。\n也就是说她的实力得到了有识之士的认可。	瑪麗翁	蕾斯娜同學是推薦入學的，也就是說，\n她的實力受到了有識人士一定的認可。
+SeasonalTalkEvent_005_00_006ID	32	Resna	レスナ	え、そうなんですか！？	Resna	That's what happened?!	蕾斯娜	咦，是吗？！	蕾斯娜	咦？是這樣嗎！？
+SeasonalTalkEvent_005_00_006ID	33	Marion	マリオン	ええ。その件はまた放課後に。\nさて。本当はもう一人、新入生がいるんだけど……	Marion	Indeed it is. I'll elaborate more on your situation after class. Now then, there was supposed to be one more new student, but...	玛丽翁	嗯，这件事放学后再说吧。\n除了你们二位，应该还有一个新生……	瑪麗翁	對，這件事我們放學後再談。\n好了，其實應該還有一名新生的……
+SeasonalTalkEvent_005_00_006ID	34	Marion	マリオン	初日からサボりね。\nはあ、いったい何を考えてるのかしら	Marion	She appears to be absent. *Sigh* Honestly, what could she be thinking?	玛丽翁	但是她开学第一天就翘课了。\n唉，怎么会这么散漫啊。	瑪麗翁	但第一天就蹺課啊。\n唉，到底在想些什麼。
+SeasonalTalkEvent_005_00_006ID	35	Marion	マリオン	まあいいわ。ミミさん、レスナさん。席について	Marion	Well, that doesn't change the fact that she isn't here. Mimi, Resna. Please return to your seats.	玛丽翁	算了不说这个了。敏敏同学、蕾斯娜同学，请坐。	瑪麗翁	算了。敏敏同學，蕾斯娜同學，回座位坐吧。
+SeasonalTalkEvent_005_00_006ID	36	Marion	マリオン	さあ、みんな。今一度、周りを見回して	Marion	Everyone, please take a good look around you.	玛丽翁	好了，现在请同学们环视周围。	瑪麗翁	好了，各位，現在再環視一下妳們的周遭。
+SeasonalTalkEvent_005_00_006ID	37	Marion	マリオン	これがこれから１年、一緒に過ごすクラスの顔よ。\nみんなは、錬金術科の仲間であり……	Marion	These are the faces of the classmates you will be spending the next year with. Among them are precious partners in alchemy...	玛丽翁	在场的就是这一年里要共同学习的同学们。\n大家既是炼金术科的伙伴……	瑪麗翁	這些是妳們未來一年要一起相處的同學，\n大家都是鍊金術科的夥伴……
+SeasonalTalkEvent_005_00_006ID	38	Marion	マリオン	そして、敵でもあるわ！	Marion	...And equally pernicious foes!	玛丽翁	同时也是敌人！	瑪麗翁	同時也是敵人！
+SeasonalTalkEvent_005_00_006ID	39	Resna	レスナ	え……敵？	Resna	Wait, what?	蕾斯娜	什么……敌人？	蕾斯娜	咦……敵人？
+SeasonalTalkEvent_005_00_006ID	40	Marion	マリオン	新入生もいることだし、この学園のことから\nもう一度説明するわね。しっかり覚えなさい	Marion	Since we have some new students joining us, I'll take a moment to explain in more detail. You would do well to remember this information.	玛丽翁	为了让新生了解情况，我再次介绍一下这个学园。\n请同学们牢记。	瑪麗翁	在場也有新生，我就再說明一次這所學園的事情，\n牢牢記好了。
+SeasonalTalkEvent_005_00_006ID	41	Mimi Houllier von Schwarzlang	ミミ・ウリエ・フォン・シュヴァルツラング	錬金術科の新入生。\n名家の令嬢だが、その身分に甘んじない努力家	Mimi Houllier von Schwarzlang	A new student entering the alchemy program. While she comes from an influential family, she is a hard worker who doesn't abuse her status.	敏敏·霍利尔·冯·修瓦兹兰格	炼金术科的新生。\n虽身为名门千金，却不因此自满，十分刻苦。	敏敏‧霍利爾‧馮‧修瓦茲蘭格	鍊金術科新生。\n雖是名門千金，卻不滿足於該身分，十分勤奮。
+SeasonalTalkEvent_005_00_007ID	0	Marion	マリオン	私立ランターナ学園。創立２６０年の歴史ある学校よ。\n国内でもトップレベルの偏差値を誇るわ	Marion	Lantarna Academy is a private institution that was founded 260 years ago, and it remains one of the most prestigious educational institutions in the country.	玛丽翁	私立兰塔纳学园建校已有260年，\n是一所底蕴深厚的学府。\n教育水平在国内处于顶尖。	瑪麗翁	私立蘭塔納學園是間創立260年，歷史悠久的學校。\n在國內的偏差值也是頂尖水準。
+SeasonalTalkEvent_005_00_007ID	1	Marion	マリオン	学科は大きく分けて２つ	Marion	Its courses of study are roughly divided into two paths.	玛丽翁	这里的学科分为2大类。	瑪麗翁	學科大致分為兩種。
+SeasonalTalkEvent_005_00_007ID	2	Marion	マリオン	１つは普通科。近年、異世界からもたらされた\n科学を中心に、カリキュラムが組まれた学科ね	Marion	The first is a generalized program, with a curriculum based on the study of the sciences that were more recently made known to us via other worlds.	玛丽翁	其一是普通科。主要学习的是\n近些年从异世界流传而来的科学知识。	瑪麗翁	一種是普通科，\n課程架構是以近年異世界帶來的科學為主。
+SeasonalTalkEvent_005_00_007ID	3	Marion	マリオン	そしてもう１つが、錬金術科。\nこの国の発展を支えてきた、歴史ある学問を扱う学科よ	Marion	The second is the study of alchemy, which provides an in-depth look at the system that has historically supported our country's development.	玛丽翁	其二就是炼金术科。\n这里学习的是支撑着国家发展、历史悠久的学问。	瑪麗翁	而另一種是鍊金術科。\n教的是過去支撐本國發展、歷史悠久的學問。
+SeasonalTalkEvent_005_00_007ID	4	Marion	マリオン	科学はできることに制約はあるものの、\n勉強すれば誰にでも使える	Marion	While the sciences have their limits, anyone can apply themselves with a bit of study.	玛丽翁	尽管科学能做到的事情有限，\n但只要学习，任何人都能有效利用。	瑪麗翁	科學能做的事雖然受到限制，\n但只要學習，任誰都能使用。
+SeasonalTalkEvent_005_00_007ID	5	Marion	マリオン	安定した発展が望まれる現代においては、\n科学の需要は高まる一方ね	Marion	And in a world where steady, stable progress is in demand, requests for those well-versed in the sciences will only rise.	玛丽翁	现如今社会谋求的是平稳发展，\n对科学的需求在不断提高。	瑪麗翁	現代人期望穩定的發展，\n因此對於科學的需求不斷升高。
+SeasonalTalkEvent_005_00_007ID	6	Marion	マリオン	ただ、科学は一般化、量産化には優れるものの、\n多様性や発展性については錬金術に劣るわ	Marion	However, while its accessibility has streamlined production methods, science still pales in terms of diversity and potential.	玛丽翁	可是，科学虽在普及和量产上具有优势，\n但在多样性和发展性上，却逊炼金术一筹。	瑪麗翁	然而，雖然科學在普及與量產方面表現優秀，\n但多樣性與發展性還是比鍊金術差。
+SeasonalTalkEvent_005_00_007ID	7	Marion	マリオン	いまだ科学の及ばない分野にも果敢に\n挑むのが錬金術の役割……そう言えるわね	Marion	As such, alchemy's role is to continue to resolutely forge paths toward the realms that science is unable to reach.	玛丽翁	可以说，勇敢挑战现在科学\n还无法到达的领域，就是炼金术的职责。	瑪麗翁	因此鍊金術的職責可以說是……\n勇敢地挑戰目前科學仍未能及的領域。
+SeasonalTalkEvent_005_00_007ID	8	Marion	マリオン	だからこそ！　錬金術を扱う者には、\n前に立つ者としての資質が求められる	Marion	Which is precisely why only those with the necessary qualities will excel in this field.	玛丽翁	正因如此！\n炼金术士需要有敢于人先的资质。	瑪麗翁	正因如此！\n我們希望鍊金術使用者擁有領導者該有的資質。
+SeasonalTalkEvent_005_00_007ID	9	Marion	マリオン	その資質を、本学園では様々な課題や試験から\n評価していくわ	Marion	You will be judged on these qualities through assignments and exams offered by the academy.	玛丽翁	在我们学园里，\n会通过各种课题和考试对这种资质进行评价。	瑪麗翁	本學園會以各式各樣的課題與考試來評斷這種資質。
+SeasonalTalkEvent_005_00_007ID	10	Marion	マリオン	そして資質のない者は……	Marion	Those without sufficient aptitude...	玛丽翁	不具备资质的人……	瑪麗翁	而沒有資質的人……
+SeasonalTalkEvent_005_00_007ID	11	Marion	マリオン	退学か、普通科への転科の道を進むことになる	Marion	...Will be required to either switch to the general sciences program or withdraw entirely.	玛丽翁	会被退学，或者转去普通科。	瑪麗翁	將會被退學，或是被轉至普通科。
+SeasonalTalkEvent_005_00_007ID	12	Resna	レスナ	（…………！　そ、そんなに厳しいんだ）	Resna	(That's so strict!)	蕾斯娜	（……！这、这么严格啊。）	蕾斯娜	（…………！這、這麼嚴苛啊。）
+SeasonalTalkEvent_005_00_007ID	13	Resna	レスナ	（でも、そうだよね。入学できたのだって奇跡なんだ。\n　そのまま卒業できるほうがおかしいよね）	Resna	(But I guess it's only fair. It's a miracle that I got in, anyway. Coasting along all the way to graduation would be unheard of.)	蕾斯娜	（不过也是，我能入学已经是个奇迹了。\n　能一帆风顺地毕业才奇怪呢。）	蕾斯娜	（不過，也對，我光是能入學就是個奇蹟了。\n　能直接順利畢業才比較奇怪吧？）
+SeasonalTalkEvent_005_00_007ID	14	Marion	マリオン	……とはいえ。\nいきなりそんなこと言われても不安よね	Marion	That being said, I don't mean to cause you any undue anxiety.	玛丽翁	……不过，\n刚一入学就听到这些，你们心里一定很慌乱吧？	瑪麗翁	……話雖如此，\n突然這麼說，妳們也會很不安吧。
+SeasonalTalkEvent_005_00_007ID	15	Marion	マリオン	大丈夫、学園としても退学にならないよう\nサポートする仕組みを整えてるわ。それが！	Marion	The academy has supports in place to keep students from failing out.	玛丽翁	别担心，为了不让你们退学，\n学园有一整套的支援体系。那就是——	瑪麗翁	別擔心，為了不讓各位被退學，\n學園設立了支援機制，那就是！
+SeasonalTalkEvent_005_00_007ID	16	Marion	マリオン	「錬金術部」よ！	Marion	Specifically, the Alchemy Club!	玛丽翁	“炼金术社团”！	瑪麗翁	「鍊金術社」！
+SeasonalTalkEvent_005_00_007ID	17	Marion	マリオン	錬金術はそれぞれが自分の感覚を掴むことが大事。\nでも、それは授業だけじゃ賄いきれないもの	Marion	Making sense of alchemy in your own way is integral to your success. However, that isn't something that can be covered in a lecture.	玛丽翁	炼金术里最重要的就是找到自己的感觉。\n但是，只靠上课是无法长久维持这种感觉的。	瑪麗翁	鍊金術的一大重點就是需要靠個人直覺去掌握，\n但是，這樣只靠上課是不夠的。
+SeasonalTalkEvent_005_00_007ID	18	Marion	マリオン	そこで放課後、調合器材の整った「部室」を使って\n部活動として自由に調合することを許可しているわ	Marion	To that end, you are free to make use of the fully furnished club rooms to synthesize at your leisure.	玛丽翁	所以在放学后，大家可以使用配有调合器材的“活动室”，\n以社团活动的的形式进行自由调合。	瑪麗翁	所以妳們放學後可以使用備有調合器材的「社團教室」，\n以社團活動的名義自由進行調合。
+SeasonalTalkEvent_005_00_007ID	19	Marion	マリオン	もちろん、顧問の先生も付く。\n入れば先輩たちの教えを受けることもできる	Marion	Of course, such activities are supervised by a faculty member. You can also ask the senior members for guidance.	玛丽翁	当然，也会有顾问老师从旁指导。\n只要加入社团，还能得到前辈们的教导。	瑪麗翁	當然，裡面也會有指導老師。\n加入社團還能接受前輩們的指導。
+SeasonalTalkEvent_005_00_007ID	20	Marion	マリオン	先人たちの姿を間近で見て、みんなで勉強することは\n必ずあなたたちの役に立つはずよ	Marion	Being in proximity to more established alchemists will surely benefit your studies.	玛丽翁	近距离观察师长的操作，和同学们一起钻研，\n一定会对你们有所帮助。	瑪麗翁	只要近距離觀察前人的做法，和大家一起學習，\n一定會對妳們有所幫助的。
+SeasonalTalkEvent_005_00_007ID	21	Marion	マリオン	その意味で、ここにいるみんなは仲間同士というわけ	Marion	As such, we hope that you will all treat each other as friends.	玛丽翁	在这个意义上，在座的各位都是伙伴。	瑪麗翁	以這個角度來說，在這裡的大家都是夥伴。
+SeasonalTalkEvent_005_00_007ID	22	Marion	マリオン	ただし、もう１つ大事な点があるわ。\nそれは、錬金術部が３つのチームに分かれていること	Marion	However, there is one more thing to bear in mind: the Alchemy Club is divided into three teams.	玛丽翁	不过还有一件很重要的事。\n那就是，炼金术社团分为3支小队。	瑪麗翁	不過，還有一點很重要。\n那就是鍊金術社又分為三組隊伍。
+SeasonalTalkEvent_005_00_007ID	23	Marion	マリオン	あなたたちには、いずれかのチームに所属し、\n学期末に対抗戦をしてもらうことになる	Marion	These teams will compete against each other at the end of the semester...	玛丽翁	同学们需要选择某一支小队加入，\n在期末将举行小队之间的对抗赛。	瑪麗翁	妳們將加入其中一隊，\n並在學期末進行對抗賽。
+SeasonalTalkEvent_005_00_007ID	24	Marion	マリオン	その対抗戦で優秀な成績を収めたチーム順に、\n錬金術部の部費を優先的に分配するわ	Marion	...And whoever comes out on top will receive more Cole to fund their club-related activities.	玛丽翁	炼金术社团的活动费用会根据\n小队在对抗赛中获得的成绩以从高到低的顺序分配。	瑪麗翁	在該對抗賽中成績越優秀的隊伍，\n可分配到的鍊金術社社費就越多。
+SeasonalTalkEvent_005_00_007ID	25	Marion	マリオン	つまりこういうことよ	Marion	In short...	玛丽翁	相信同学们都听明白了吧。	瑪麗翁	也就是說。
+SeasonalTalkEvent_005_00_007ID	26	Marion	マリオン	より充実した錬金術の研究を行いたければ、\nあなたたちの全力の錬金術をもって対抗戦で勝ちなさい	Marion	If you want to further your alchemical research, striving to be—then proving yourselves to be—the best team possible will afford you more opportunities.	玛丽翁	如果想对炼金术进行更加多丰富多样的研究，\n就拿出全部炼金术造诣赢得对抗赛吧。	瑪麗翁	如果想進行更充實的鍊金術研究，\n就拿出妳們鍊金術的所有實力贏得對抗賽吧。
+SeasonalTalkEvent_005_00_007ID	27	Marion	マリオン	その意味では、あなたたちは敵同士にもなり得る。\n理解できたかしら？	Marion	Which is how your classmates may end up becoming your foes. Does that make sense?	玛丽翁	在这个意义上，你们也是彼此的敌人。\n这下理解了吗？	瑪麗翁	從這個角度來說，你們彼此也可以是敵人，\n這樣理解了嗎？
+SeasonalTalkEvent_005_00_007ID	28	Mimi	ミミ	対抗戦というのは、どのようなことを\nするのでしょうか？	Mimi	What does the competition entail?	敏敏	对抗赛会比些什么呢？	敏敏	所謂的對抗賽會做些什麼呢？
+SeasonalTalkEvent_005_00_007ID	29	Marion	マリオン	それは学期末が近くなってから発表するわ。\n短い期間での対応力も評価に入れたいから	Marion	That will be announced closer to the actual date. After all, there is merit in being able to make the most out of a limited amount of time.	玛丽翁	具体内容会在临近期末时公布。\n因为快速随机应变的能力也是评价指标之一。	瑪麗翁	這個會在接近學期末時公布，\n因為我想把短時間內的應對能力也列入評分項目。
+SeasonalTalkEvent_005_00_007ID	30	Mimi	ミミ	……分かりました	Mimi	...I see.	敏敏	……我知道了。	敏敏	……我明白了。
+SeasonalTalkEvent_005_00_007ID	31	Marion	マリオン	ちょうどいい時間ね。錬金術科の概要については\n説明できたと思うわ	Marion	Well, that's about all the time we have. Though, that should serve as a general outline of the alchemy program.	玛丽翁	时间刚刚好。\n炼金术科的大致情况应该都介绍清楚了。	瑪麗翁	時間差不多了，\n我想我已經說明完鍊金術科的概要了。
+SeasonalTalkEvent_005_00_007ID	32	Marion	マリオン	休み時間の後は、錬金術基礎の授業をするわ。\n２年生以上も、おさらいとしてよく聞いておくこと	Marion	Your first class after the break will be Alchemical Foundations. Second-year students, I trust that you'll pay equal attention, as reviewing the basics is always a good idea.	玛丽翁	课间休息过后，我们要学习炼金术基础。\n2年级以上的学生也要认真听讲，就当是温习一遍。	瑪麗翁	休息時間過後會上鍊金術的基礎課程。\n二年級以上的同學也請當作複習仔細聽講。
+SeasonalTalkEvent_005_00_007ID	33	Marion	マリオン	それじゃあ、委員長？	Marion	Now then. Class President?	玛丽翁	好了。班长？	瑪麗翁	那麼，班長。
+SeasonalTalkEvent_005_00_007ID	34	Rorona	ロロナ	はい！　きりーつ！	Rorona	Yes! Stand!	萝乐娜	到！起立！	蘿樂娜	是！起立──！
+SeasonalTalkEvent_005_00_007ID	35	Rorona	ロロナ	れーい！	Rorona	Bow!	萝乐娜	行礼！	蘿樂娜	敬禮──！
+SeasonalTalkEvent_005_00_007ID	36		みんな	ありがとうございましたー	Everyone	Thank you for today's class!	所有人	谢谢老师——	大家	謝謝老師～
+SeasonalTalkEvent_005_00_007ID	37	Rorona	ロロナ	ちゃくせーき！	Rorona	Be seated!	萝乐娜	请坐！	蘿樂娜	坐下──！
+SeasonalTalkEvent_005_00_007ID	38	Resna	レスナ	（課題に試験、錬金術部に対抗戦……）	Resna	(Assignments, exams, and a competition between Alchemy Club teams...?)	蕾斯娜	（课题、考试，还有炼金术社团的对抗赛……）	蕾斯娜	（課題加上考試，還有鍊金術社與對抗賽……）
+SeasonalTalkEvent_005_00_007ID	39	Resna	レスナ	（どうしよう！　大丈夫かな？\n　私、一度も調合成功したことないよお！）	Resna	(How am I going to handle all of that?! Can I even?! I've never had a single synthesis go well!)	蕾斯娜	（怎么办！我能行吗？\n　我还一次都没能成功调合过呢！）	蕾斯娜	（怎麼辦！我沒問題嗎？\n　調合我一次都沒有成功過耶！）
+SeasonalTalkEvent_005_00_007ID	40	Resna	レスナ	（こんなので、授業にちゃんとついて\n　いけるのかな……？）	Resna	(What about the lectures? Am I going to be able to keep up with those?)	蕾斯娜	（凭我这种水准，能跟得上课程吗……？）	蕾斯娜	（我這樣，有辦法好好跟上課業進度嗎……？）
+SeasonalTalkEvent_005_00_008ID	0	Marion	マリオン	錬金術に必要な要素は３つ。\n「錬金釜」「素材」……そして「レシピ」よ	Marion	There are three fundamental components to alchemy. These are cauldrons, materials, and recipes.	玛丽翁	炼金术必备的要素有3个，\n那就是“炼金釜”“素材”……还有“配方”。	瑪麗翁	鍊金術所需的要素有三個。\n那就是「鍊金釜」、「素材」……還有「配方」。
+SeasonalTalkEvent_005_00_008ID	1	Marion	マリオン	特に「レシピ」は錬金術士のセンスが試される\n重要な要素で――	Marion	Recipes in particular are an indicator of an alchemist's style, as it were.	玛丽翁	尤其是“配方”，\n这是检验炼金术士灵性的重要因素。	瑪麗翁	尤其「配方」是考驗鍊金術士直覺的\n重要要素──
+SeasonalTalkEvent_005_00_008ID	2	Marion	マリオン	数多の先人たちによって多様なバリエーションが\n生まれ、進化してきたものなの	Marion	The more a recipe is used, the more variations of it appear. And as such, it evolves.	玛丽翁	在无数先辈们的努力下，\n才会有多种多样的配方诞生，并进化至此。	瑪麗翁	經過了眾多前人之手，\n才進化產生出了多種變化。
+SeasonalTalkEvent_005_00_008ID	3	Marion	マリオン	たとえばこのレシピは……	Marion	For instance, this particular recipe...	玛丽翁	比如这个配方……	瑪麗翁	比如說這份配方……
+SeasonalTalkEvent_005_00_008ID	4	Resna	レスナ	（分かる……私でも分かる！\n　これ、『錬金ゼミ』に載ってたやつだ！）	Resna	"(Oh! Even I know this one! It was in ""A Masterclass in Alchemy""!)"	蕾斯娜	（我知道……这个连我也知道！\n　是刊登在《炼金研究会》上的配方！）	蕾斯娜	（我知道……就算是我也知道！\n　這個曾經在「鍊金期刊」上刊載過！）
+SeasonalTalkEvent_005_00_008ID	5	Resna	レスナ	（すごく面白い本だったなあ。昔トイレで読み始めたら\n　いつの間にか夕方になってたっけ）	Resna	(That was such a fascinating book... I used to take it into the restroom to read, but time flew by and it would be night before I knew it!)	蕾斯娜	（那是本非常有趣的书。以前在厕所里看着看着，\n　不知不觉天都黑了。）	蕾斯娜	（那本書真的很有趣～\n　以前我在廁所裡一讀就不知不覺讀到傍晚了。）
+SeasonalTalkEvent_005_00_008ID	6	Resna	レスナ	（そういえばトイレから出たら、お父さんがトイレの\n　前で泣いてたけど……なんだったんだろう？）	Resna	(That reminds me, I caught my dad crying in front of the door that one time... I wonder what that was about?)	蕾斯娜	（说起来，那天我从厕所出去的时候，\n　发现爸爸在厕所门前流眼泪……那是怎么回事啊？）	蕾斯娜	（這麼說起來，我從廁所出來後，\n　發現爸爸在廁所前面哭……為什麼啊？）
+SeasonalTalkEvent_005_00_008ID	7	Marion	マリオン	そしたら、１つ問題を出そうかしら。\nこれがなんのレシピだか分かる人？	Marion	Now, then. Who can tell me what this recipe is for?	玛丽翁	让我来出道题吧。\n有人知道这是什么配方吗？	瑪麗翁	那麼，我來出一個題目吧。\n有人知道這是什麼的配方嗎？
+SeasonalTalkEvent_005_00_008ID	8	Resna	レスナ	（っ！　これも分かる！）	Resna	(Oh! I know this too!)	蕾斯娜	（这个我也知道！）	蕾斯娜	（唔！這個我也知道！）
+SeasonalTalkEvent_005_00_008ID	9	Resna	レスナ	はいっ！　「ヒーリングサルヴ」という\n鎮痛薬のレシピです！	Resna	I can! It's for a Healing Salve, which is a pain reducer!	蕾斯娜	我知道！\n这是一种叫“治愈软膏”的镇痛药的配方！	蕾斯娜	我知道！\n這是一種叫做「治癒軟膏」的止痛藥配方！
+SeasonalTalkEvent_005_00_008ID	10	Marion	マリオン	正解。ただし――	Marion	That is correct. However...	玛丽翁	回答正确。不过——	瑪麗翁	正確答案，不過──
+SeasonalTalkEvent_005_00_008ID	11	Resna	レスナ	ただ、そのレシピは初期に考案されたものですね。\n後年には研究が進み、改良されてますから	Resna	Oh! But this is the original version of the recipe. It was redeveloped in recent years, and now it's new and improved!	蕾斯娜	不过，这配方是早期的研究方案。\n后来随着研究深入，已经获得了改良。	蕾斯娜	不過，這份配方是初期想出來的對吧？\n後來研究有新的發展，就被改良了。
+SeasonalTalkEvent_005_00_008ID	12	Resna	レスナ	現在用いられているのは、今から９年前に考案された\n「Ｒ製法」と呼ばれているものが主流で……	Resna	Most people would probably be more familiar with the R-Formula version, which was released nine years ago.	蕾斯娜	现在的主流是9年前研究出的“R制法”……	蕾斯娜	目前所使用的配方，\n是以九年前發明的一種叫「R製法」的作法為主……
+SeasonalTalkEvent_005_00_008ID	13	Resna	レスナ	この製法は大量栽培可能な薬草を使用していることが\n特徴で、生産性が飛躍的に向上しており――	Resna	That method uses medicinal herbs that are easily mass-cultivated, which resulted in a dramatic increase in productivity. Of course, that means—	蕾斯娜	这种制作方法的特征是使用了可以大量种植的药草，\n因此生产能力获得了质的飞跃——	蕾斯娜	這種製法的特徵是使用了能夠大量栽培的藥草，\n因此使得生產效率急速成長──
+SeasonalTalkEvent_005_00_008ID	14	Mimi	ミミ	っ……！	Mimi	...!	敏敏	……！	敏敏	唔……！
+SeasonalTalkEvent_005_00_008ID	15	Marion	マリオン	はーいそこまで！\nふふっ、先に全部言われちゃったわね	Marion	Right, I'm going to stop you there! *Chuckle* My goodness, you've barely left me with anything to explain.	玛丽翁	好了，就到这里！\n呵呵呵，全被抢答了呢。	瑪麗翁	好──到此為止！\n呵呵，全都被妳搶先講完了呢。
+SeasonalTalkEvent_005_00_008ID	16	Resna	レスナ	はっ！　す、すみませんっ！	Resna	Oh! I-I'm so sorry!	蕾斯娜	啊！对、对不起！	蕾斯娜	啊！不、不好意思！
+SeasonalTalkEvent_005_00_008ID	17	Ryza	ライザ	すごいよレスナ。あたしそんな製法知らなかったもん	Ryza	That was awesome, Resna! I had no idea about that other version.	莱莎	你真厉害，蕾斯娜。我都不知道那种制作方法。	萊莎	蕾斯娜妳好厲害喔，我根本不知道那種製法。
+SeasonalTalkEvent_005_00_008ID	18	Resna	レスナ	あはは……偶然、本で読んだんです	Resna	Ahaha... I just happened to read it in a book before.	蕾斯娜	啊哈哈……我只是碰巧在书上看到过。	蕾斯娜	啊哈哈……我碰巧在書上讀過。
+SeasonalTalkEvent_005_00_008ID	19	Marion	マリオン	とまあ、そんな風に錬金術のレシピは日進月歩なの。\nみんなもしっかり勉強して、いいレシピを生み出してね	Marion	Still, that just goes to show how an alchemical recipe can make steady progress over the years. I hope that you'll all apply yourselves and create splendid recipes of your own.	玛丽翁	嗯，炼金术配方就是这样日新月异。\n大家也要认真学习，创造出优秀的配方哦。	瑪麗翁	總之，鍊金術的配方就是像這樣日新月異。\n大家要好好用功，創造出好配方喔。
+SeasonalTalkEvent_005_00_008ID	20		みんな	はーい！	Everyone	Yes, Miss Marion!	所有人	是——！	大家	是──！
+SeasonalTalkEvent_005_00_008ID	21	Mimi	ミミ	……ふぅん	Mimi	Hm.	敏敏	……哼。	敏敏	……哦～
+SeasonalTalkEvent_005_00_009ID	0	Rorona	ロロナ	きりーつ！　れーい！	Rorona	Stand! Bow!	萝乐娜	起立！行礼！	蘿樂娜	起立──！敬禮──！
+SeasonalTalkEvent_005_00_009ID	1	Resna	レスナ	（行ける……これなら行ける気がする！\n　これまで勉強したこと全部、無駄じゃなかった！）	Resna	(I think...I might just be able to do this! All that reading I did before wasn't a total waste!)	蕾斯娜	（我能做到……我感觉自己能做到！\n　至今为止积累的知识不会是无用功！）	蕾斯娜	（有救……這樣的話應該有救！\n　以前學過的東西全都不是徒勞！）
+SeasonalTalkEvent_005_00_009ID	2	Resna	レスナ	（ここから私の、錬金術士としての学園生活が\n　始まるんだ！）	Resna	(This is where my adventure as an alchemy student begins!)	蕾斯娜	（我作为炼金术士的学园生活，就要从这里开始了！）	蕾斯娜	（我身為鍊金術士的校園生活\n　就要從這裡開始了！）
+SeasonalTalkEvent_005_00_009ID	3	Sophie	ソフィー	それじゃあ、レスナちゃん。ちょっといいかな？	Sophie	Hey there, Resna. D'you have a minute?	苏菲	好了蕾斯娜，你能来一下吗？	蘇菲	那麼，蕾斯娜，能打擾妳一下嗎？
+SeasonalTalkEvent_005_00_009ID	4	Resna	レスナ	（あ、そうだった。終わったんだった、学園生活）	Resna	(Oh, right. My adventure is actually going to end horribly today.)	蕾斯娜	（啊，差点忘了这件事。学园生活这么快就要结束了。）	蕾斯娜	（啊，對喔，我的校園生活完蛋了。）
+SeasonalTalkEvent_005_00_009ID	5	Sophie	ソフィー	ミミちゃんも	Sophie	You too, Mimi.	苏菲	还有敏敏。	蘇菲	敏敏也是。
+SeasonalTalkEvent_005_00_009ID	6	Mimi	ミミ	あ、はい。私もですか？	Mimi	Oh, are you sure?	敏敏	啊，好的。我也要去吗？	敏敏	啊，是，我也要嗎？
+SeasonalTalkEvent_005_00_009ID	7	Sophie	ソフィー	二人もいいよね？	Sophie	What about you two?	苏菲	你们两个也都有空吧？	蘇菲	妳們兩位也有空吧？
+SeasonalTalkEvent_005_00_009ID	8	Ryza	ライザ	もちろん！　さぁ行こう！	Ryza	You bet! Come on, let's go!	莱莎	当然啦！我们走！	萊莎	那當然！好了，我們走吧！
+SeasonalTalkEvent_005_00_009ID	9	Rorona	ロロナ	今日はなんにしようかなあー	Rorona	I wonder what I should get today?	萝乐娜	今天点什么好呢——	蘿樂娜	今天要點什麼好呢～
+SeasonalTalkEvent_005_00_009ID	10	Resna	レスナ	……あれ？	Resna	Huh?	蕾斯娜	……咦？	蕾斯娜	……奇怪？
+SeasonalTalkEvent_005_00_009ID	11	Rorona	ロロナ	それじゃあ改めて！\n二人とも錬金術科にようこそ！	Rorona	Once again, let's show our new students a warm welcome!	萝乐娜	那么！\n再次欢迎你们成为炼金术科的学生！	蘿樂娜	那麼!再次歡迎兩位來到鍊金術科！
+SeasonalTalkEvent_005_00_009ID	12	Ryza	ライザ	う～っいぇーい！	Ryza	Wooo! Yeeeah!	莱莎	哦～耶——！	萊莎	唔～耶～咿！
+SeasonalTalkEvent_005_00_009ID	13	Sophie	ソフィー	そして、レスナちゃん！　朝はごめんね！	Sophie	By the way, Resna! I'm so sorry for this morning!	苏菲	还有，蕾斯娜！早上的事对不起！	蘇菲	然後，蕾斯娜！早上很抱歉！
+SeasonalTalkEvent_005_00_009ID	14	Ryza	ライザ	そうだぞ～！　謝れー！	Ryza	You bet you are! Apologize to her!	莱莎	这才对嘛～！快道歉！	萊莎	沒錯～！要好好道歉～！
+SeasonalTalkEvent_005_00_009ID	15	Resna	レスナ	えっと……これは、いったい？	Resna	Um, what's all this about?	蕾斯娜	请问……这到底是怎么回事？	蕾斯娜	呃……這到底是？
+SeasonalTalkEvent_005_00_009ID	16	Rorona	ロロナ	二人の入学祝いだよ！\nなんと、ソフィーちゃんのおごり！	Rorona	We're here to celebrate you getting into the academy! Plus, Sophie said it's her treat!	萝乐娜	当然是庆祝你们入学呀！\n而且是苏菲请客哦！	蘿樂娜	慶祝妳們兩位入學呀！\n而且，還是蘇菲請客喔！
+SeasonalTalkEvent_005_00_009ID	17	Sophie	ソフィー	レスナちゃんを怖がらせちゃったお詫びでもあるんだ。\n別にあたし、不良とかそういうのじゃないからね！	Sophie	Well, I wanted to make up for scaring you, Resna. I'm not a delinquent or anything like that!	苏菲	也是为了向被我吓到的蕾斯娜道歉。\n我可不是什么不良少女啊！	蘇菲	同時也是為了向妳道歉。\n我可不是什麼不良學生喔！
+SeasonalTalkEvent_005_00_009ID	18	Resna	レスナ	でも、番長って呼ばれてましたよ！？	Resna	"Even though those other people called you ""boss""?!"	蕾斯娜	可他们不是叫你大姐头吗？！	蕾斯娜	可是，有人叫妳老大耶！？
+SeasonalTalkEvent_005_00_009ID	19	Sophie	ソフィー	あ、あれはみんなが勝手に呼んでるだけだよ！	Sophie	I-I didn't ask them to! And they won't stop, either!	苏菲	那、那是他们自己乱叫的！	蘇菲	那、那是大家擅自叫的啦！
+SeasonalTalkEvent_005_00_009ID	20	Mimi	ミミ	それでは、その格好は？	Mimi	Then what about that outfit of yours?	敏敏	那你那副打扮是？	敏敏	那麼，妳那身打扮是？
+SeasonalTalkEvent_005_00_009ID	21	Sophie	ソフィー	これは……その？\n勇気を出すための服っていうか？	Sophie	What, this? It's for...you know...courage?	苏菲	这个嘛……怎么说呢，\n算是为了让自己能鼓起勇气的装束吧。	蘇菲	這是……那個，\n可以說是用來激發勇氣的服裝吧？
+SeasonalTalkEvent_005_00_009ID	22	Resna	レスナ	怖いですよ！	Resna	It makes you look scary!	蕾斯娜	我觉得很吓人！	蕾斯娜	很可怕耶！
+SeasonalTalkEvent_005_00_009ID	23	Ryza	ライザ	そうだ怖いぞ！	Ryza	Yeah! Totally intimidating!	莱莎	没错，很吓人哦！	萊莎	對啊很可怕耶！
+SeasonalTalkEvent_005_00_009ID	24	Sophie	ソフィー	う……やっぱそうかなあ？	Sophie	Y-You really think so?	苏菲	呜……真的很吓人吗？	蘇菲	嗚……果然是這樣嗎？
+SeasonalTalkEvent_005_00_009ID	25	Rorona	ロロナ	ちょっと、ライザちゃん！\nソフィーちゃんが可哀そうだよ！	Rorona	Hey, Ryza! Leave poor Sophie's fashion choices alone!	萝乐娜	别这样，莱莎！\n苏菲好可怜啦！	蘿樂娜	等等，萊莎！\n這樣蘇菲很可憐耶！
+SeasonalTalkEvent_005_00_009ID	26	Ryza	ライザ	あはは、ごめんって～	Ryza	Ahaha, my bad.	莱莎	啊哈哈，对不起啦～	萊莎	啊哈哈，對不起啦～
+SeasonalTalkEvent_005_00_009ID	27	Ryza	ライザ	大丈夫だよ、二人とも。\nソフィーが優しい子なのは本当。あたしが保証する	Ryza	Don't you worry, Sophie's as kind as they come. I promise!	莱莎	你们两个不用怕。\n苏菲真的是个很温柔的人，我可以保证。	萊莎	妳們兩位不用擔心，\n我保證蘇菲真的是個溫柔的人。
+SeasonalTalkEvent_005_00_009ID	28	Sophie	ソフィー	だからお願い！　同じ錬金術科の仲間として、\n仲良くしてくれると嬉しいな！	Sophie	I'd really like us all to be friends! We're all studying alchemy, so that would make me super happy!	苏菲	所以，作为炼金术科的伙伴，\n希望我们可以友好地相处！	蘇菲	所以拜託！\n希望我們同屬鍊金術科的夥伴能好好相處！
+SeasonalTalkEvent_005_00_009ID	29	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_009ID	30	Mimi	ミミ	…………	Mimi	...	敏敏	……	敏敏	…………
+SeasonalTalkEvent_005_00_009ID	31		レスナ/ミミ	ふ、あはは	Resna/Mimi	Pfft... Ahahaha!	蕾斯娜/敏敏	哈，哈哈哈。	蕾斯娜/敏敏	呵，啊哈哈。
+SeasonalTalkEvent_005_00_009ID	32	Mimi	ミミ	ふ、ふふ	Mimi	Heh. Ehehe.	敏敏	呵呵，呵呵呵。	敏敏	呵、呵呵。
+SeasonalTalkEvent_005_00_009ID	33	Mimi	ミミ	分かりました。\n確かに、悪い人には見えません	Mimi	It truly is difficult to see her as a bad person.	敏敏	我知道了。\n你看上去的确不像坏人。	敏敏	我知道了。\n妳看起來確實不像壞人。
+SeasonalTalkEvent_005_00_009ID	34	Resna	レスナ	私も、怖がっちゃってごめんなさい。\nぜひ、先輩と仲良くしたいです！	Resna	I'm sorry for thinking you were scary! I'd like us to be friends, too!	蕾斯娜	我也不该表现得那么大惊小怪，对不起。\n我也想和前辈们友好相处！	蕾斯娜	我也是，很抱歉之前那麼怕妳。\n我很希望能和學姐好好相處！
+SeasonalTalkEvent_005_00_009ID	35	Sophie	ソフィー	…………！　ありがとう！	Sophie	Oh...! Thank you!	苏菲	……！谢谢你们！	蘇菲	…………！謝謝妳們！
+SeasonalTalkEvent_005_00_009ID	36	Ryza	ライザ	うん、よかったね。\n一件落着というところで	Ryza	Great, that's settled! All's well that ends well.	莱莎	嗯，太好了。\n这下事情总算解决了。	萊莎	嗯，太好了呢。\n既然一件事情解決了……
+SeasonalTalkEvent_005_00_009ID	37	Ryza	ライザ	さあ、食べよう！	Ryza	Okay! Everyone, eat up!	莱莎	来吧，开吃吧！	萊莎	來，我們開動吧！
+SeasonalTalkEvent_005_00_009ID	38	Resna	レスナ	はい！	Resna	Yeah!	蕾斯娜	好的！	蕾斯娜	好！
+SeasonalTalkEvent_005_00_009ID	39	Resna	レスナ	（終わってなんかなかった！\n　これは、いい学園生活のスタートになりそう……！）	Resna	(Thank goodness, my alchemy adventure didn't end before it even really started! I think school's actually going to be a lot of fun!)	蕾斯娜	（没有结束！\n　感觉这会成为美好学园生活的开始……！）	蕾斯娜	（原來沒有完蛋！\n　感覺這會是校園生活的一個美好開始……！）
+SeasonalTalkEvent_005_00_010ID	0	Saskia	ザスキア	……さあ、午後の授業を始めるわ	Saskia	Let's begin afternoon classes, shall we?	萨丝琪亚	……那么，下午的课程要开始了。	薩絲琪亞	……好了，下午的課程要開始囉。
+SeasonalTalkEvent_005_00_010ID	1	Saskia	ザスキア	学年主任のザスキアよ。\n新入生の諸君、まずは入学おめでとう	Saskia	I'm Saskia, the teacher in charge of first years. First and foremost, I would like to welcome you both to the program.	萨丝琪亚	我是年级主任萨丝琪亚。\n各位新生，首先祝贺你们入学。	薩絲琪亞	我是學年主任薩絲琪亞。\n各位新生，首先恭喜妳們入學。
+SeasonalTalkEvent_005_00_010ID	2	Saskia	ザスキア	ランターナ学園、錬金術科は狭き門。\nここに来るまで、色々な困難があったことでしょう	Saskia	Being accepted into Lantarna Academy is a feat in and of itself. I have no doubt that you overcame many hurdles to get here.	萨丝琪亚	兰塔纳学园的炼金术科有着相当高的门槛。\n想必同学们都是克服艰难险阻才抵达了这个地方。	薩絲琪亞	蘭塔納學園的鍊金術科是道窄門。\n妳們在來到這裡之前，應該遭遇過許多困難吧。
+SeasonalTalkEvent_005_00_010ID	3	Saskia	ザスキア	だけどここはゴールではないわ。\nむしろ、ここからあなたたちの本当の戦いは始まるの	Saskia	However, entry into the program cannot be your end goal. If anything, your battle begins from this point onward.	萨丝琪亚	但这里并不是你们的终点。\n恰恰相反，其实真正的战斗从这里才刚刚开始。	薩絲琪亞	但這裡並非終點，\n不如說，妳們真正的戰鬥現在才要開始。
+SeasonalTalkEvent_005_00_010ID	4	Saskia	ザスキア	これまで以上の困難が立ちはだかり、\nあなたたちの夢の行く手を阻むことでしょう	Saskia	More challenges than ever stand ready to bar the way to your dreams.	萨丝琪亚	想必会有更艰巨的困难层出不穷地\n阻碍你们在追逐梦想的道路上前进。	薩絲琪亞	相信未來會有比過往更加艱鉅的難關，\n阻礙妳們實現夢想吧。
+SeasonalTalkEvent_005_00_010ID	5	Saskia	ザスキア	しかしそれはすべて、あなたたちが誇りと責任を持って\n世へと羽ばたいていくための礎	Saskia	That being said, having pride in your abilities and taking initiative will help you spread your wings and soar.	萨丝琪亚	但这一切都是在为了你们将来能心怀自豪与责任感\n在世间大展身手而打下基础。	薩絲琪亞	但那些全都是讓妳們肩負責任與榮耀飛向世界的基礎。
+SeasonalTalkEvent_005_00_010ID	6	Saskia	ザスキア	来年も同じ顔ぶれと会えることを期待しているわ	Saskia	I expect to see you both continuing your studies through to next year and beyond.	萨丝琪亚	我期待着明年还能在这里看到你们的面孔。	薩絲琪亞	希望明年還是能見到妳們。
+SeasonalTalkEvent_005_00_010ID	7	Resna	レスナ	……ごくり	Resna	*Gulp*	蕾斯娜	……紧张。	蕾斯娜	……（吞口水）。
+SeasonalTalkEvent_005_00_010ID	8	Saskia	ザスキア	…………	Saskia	...	萨丝琪亚	……	薩絲琪亞	…………
+SeasonalTalkEvent_005_00_010ID	9	Saskia	ザスキア	さーて、肩ひじ張る話はこのくらいにして	Saskia	But let's set all those formalities aside for now.	萨丝琪亚	好了，激励的话就说到这里。	薩絲琪亞	好了──訓話就訓到這裡。
+SeasonalTalkEvent_005_00_010ID	10	Saskia	ザスキア	ねえ。ぶっちゃけみんな、錬金術で何がしたい？	Saskia	Allow me to be blunt. What do you want to do with alchemy?	萨丝琪亚	下面来聊聊心里话，同学们都想用炼金术做些什么？	薩絲琪亞	我說各位，老實說，妳們想用鍊金術做什麼？
+SeasonalTalkEvent_005_00_010ID	11	Resna	レスナ	……え	Resna	Huh...?	蕾斯娜	……咦？	蕾斯娜	……咦？
+SeasonalTalkEvent_005_00_010ID	12	Saskia	ザスキア	だって、なんでもできるのよ？　錬金術は。\nやろうと思えば、なんだってできる	Saskia	After all, isn't the sky the limit? You could, in theory, do anything you put your mind to.	萨丝琪亚	因为炼金术能做到任何事啊。\n只要有想法，什么都能实现。	薩絲琪亞	因為鍊金術什麼都做得到不是嗎？\n只要想做，什麼都能做到。
+SeasonalTalkEvent_005_00_010ID	13	Saskia	ザスキア	そりゃあ、あんなことやこんなことの１つや２つ。\nやりたいことはあるわよねえ？	Saskia	So there must be at least one or two things that you've considered.	萨丝琪亚	所以，你们总会有一两件想做的事吧？	薩絲琪亞	所以肯定會有一兩件想做的事吧？
+SeasonalTalkEvent_005_00_010ID	14	Mimi	ミミ	は、はあ	Mimi	Uh...huh.	敏敏	也、也许吧。	敏敏	喔、喔……
+SeasonalTalkEvent_005_00_010ID	15	Saskia	ザスキア	ダメよ、自分の内なる欲望に蓋をしちゃ。\n錬金術士に必要な三大要素の１つなんだから	Saskia	Now, now. You can't go around putting a cork in your own desires. That's one of the three main things an alchemist needs.	萨丝琪亚	掩盖自己内心的欲望可不行。\n这是炼金术士所需的三大要素之一。	薩絲琪亞	不能壓抑自己內心的慾望喔，\n畢竟這可是鍊金術士所需的三大要素之一。
+SeasonalTalkEvent_005_00_010ID	16	Saskia	ザスキア	どこかの変態が変態的な欲望を叶えようと頑張って、\nその結果、生まれた驚くべき発明が世には溢れてるの	Saskia	Somewhere out in the wide world, someone with an appetite that is downright deviant is striving to realize their twisted ambitions. The pursuit of such obsessions results in a shocking number of discoveries.	萨丝琪亚	正是因为世间有变态为了实现变态的欲望去努力，\n才会有诸多震惊世人的发明诞生。	薩絲琪亞	這個世界上許多驚人的發明，\n都是因為有某個變態在努力實現變態的欲望才誕生的。
+SeasonalTalkEvent_005_00_010ID	17	Saskia	ザスキア	だからみんな。恥ずかしがらないで。変態になりなさい	Saskia	So don't be shy. Embrace your inner pervert.	萨丝琪亚	所以同学们，不要害羞。成为变态吧。	薩絲琪亞	所以各位，不用害羞，成為一名變態吧。
+SeasonalTalkEvent_005_00_010ID	18	Mimi	ミミ	そ、その。興味深いお話です。\nあまりの衝撃に、その、言葉もありません	Mimi	Th-That's such a...unique take. I don't know what I could possibly say to do such a statement, er, justice.	敏敏	唔，这个话题的确很发人深思。\n但内容太过刺激，我、我一时不知该怎么回答。	敏敏	那、那個，這話題真有意思。\n但是太過驚人了，呃，我不知道該說什麼。
+SeasonalTalkEvent_005_00_010ID	19	Mimi	ミミ	ところで……錬金術士に必要な三大要素と\n仰いましたが、残り２つはなんなんでしょうか？	Mimi	By the way, you said that alchemists needed three things. What might the other two be?	敏敏	对了……刚才您说炼金术士有三大要素，\n那剩下的两个是什么呢？	敏敏	話說回來……您提到了鍊金術士所需的三大要素，\n請問剩下的兩個是什麼呢？
+SeasonalTalkEvent_005_00_010ID	20	Saskia	ザスキア	１つは執念深さね。抱いた欲望を現実にする\n意地とでも言えばいいかしら	Saskia	Another is tenacity. That stubborn drive to see your desires realized.	萨丝琪亚	一个是深重的执念。\n也可以说是实现欲望的坚定决心。	薩絲琪亞	其中一個是執念，\n也可以說是將欲望化為現實的堅持吧。
+SeasonalTalkEvent_005_00_010ID	21	Mimi	ミミ	諦めないことが大事、ということですか？	Mimi	Do you mean that it's important to never give up?	敏敏	也就是说，重要的是不轻言放弃吗？	敏敏	也就是說，鍥而不捨很重要是嗎？
+SeasonalTalkEvent_005_00_010ID	22	Saskia	ザスキア	そうは言ってないわよ？\n苦しかったら、諦めてもいいんじゃない？	Saskia	No, I would have phrased it that way if I did. If things get tough, there's no shame in letting them go, isn't there?	萨丝琪亚	我可没这么说哦。\n如果很痛苦的话，放弃也未尝不可。	薩絲琪亞	我可沒有這麼說喔。\n如果很痛苦的話，放棄也沒關係吧？
+SeasonalTalkEvent_005_00_010ID	23	Resna	レスナ	え。でも、それじゃあ執念深いとは言えないんじゃ……	Resna	"But you can't really call that being ""tenacious,"" can you...?"	蕾斯娜	咦，可那不就算不上执念深重了……	蕾斯娜	咦？但是，這樣就不能說是執念了吧……
+SeasonalTalkEvent_005_00_010ID	24	Saskia	ザスキア	本当に叶えたい欲望だったら、\nまた勝手に立ち上がってるでしょ	Saskia	If you truly want a desire to be fulfilled, you'll surely pick yourself up again when you fall.	萨丝琪亚	如果是真正想实现的欲望，\n就算中途放弃也会重新迸发吧。	薩絲琪亞	如果是真的想實現的欲望，\n應該會自己再浮現出來才對。
+SeasonalTalkEvent_005_00_010ID	25	Saskia	ザスキア	最後に立ってりゃいいのよ。最後にね	Saskia	You simply have to be the last person standing when the dust settles.	萨丝琪亚	只要在最后一刻心怀执念就行了。	薩絲琪亞	所以只要最後有堅持就好。
+SeasonalTalkEvent_005_00_010ID	26	Mimi	ミミ	な、なるほど……では、最後の１つは？	Mimi	I-I see. Then, what's the last one?	敏敏	这、这样啊……那最后一个是什么？	敏敏	原、原來如此……那麼，最後一個是？
+SeasonalTalkEvent_005_00_010ID	27	Saskia	ザスキア	運、かしらね	Saskia	Why, luck.	萨丝琪亚	应该是运气吧。	薩絲琪亞	嗯，運氣吧？
+SeasonalTalkEvent_005_00_010ID	28	Saskia	ザスキア	……嘘。最後の１つは自分で見つけなさい	Saskia	I kid, I kid. The last one is something that you have to find for yourself.	萨丝琪亚	……开玩笑的。最后一个你们要自己找到答案。	薩絲琪亞	……騙妳們的，最後一個妳們就自己去找吧。
+SeasonalTalkEvent_005_00_010ID	29	Saskia	ザスキア	これから先の、願わくば長い人生の中で、\nその答えを見つけられることを切に願うわ	Saskia	You have, hopefully, long lives ahead of you. I sincerely hope that you will discover the answer.	萨丝琪亚	我衷心希望，在未来漫长的人生中，\n你们能找到这个答案。	薩絲琪亞	我衷心期望，\n你們能在接下來的漫長人生中找到那個答案。
+SeasonalTalkEvent_005_00_010ID	30	Saskia	ザスキア	ランターナ学園で錬金術を教える教師。\n新入生の学年主任。様々な噂が絶えない、謎多き女性	Saskia	An instructor of alchemy at Lantarna Academy, and head teacher of the first-year students. An enigmatic woman who inspires an endless stream of rumors.	萨丝琪亚	兰塔纳学园教授炼金术的教师。\n新生的年级主任。一位神秘的女性，围绕她的各种传言数不胜数。	薩絲琪亞	在蘭塔納學園教鍊金術的教師，新生的學年主任。\n身邊圍繞著各種傳聞，是名充滿謎團的女性。
+SeasonalTalkEvent_005_00_011ID	0	Marion	マリオン	それでは、今日の授業はここまで	Marion	I believe that's a good place to stop for today.	玛丽翁	今天的课到此结束。	瑪麗翁	那麼，今天的課就上到這裡。
+SeasonalTalkEvent_005_00_011ID	1	Marion	マリオン	この後、錬金術部のみんなは新入生の二人を\n勧誘すると思うけど、ちゃんと優しくしてあげてね	Marion	I'm certain that everyone in the Alchemy Club will want to encourage the new students to join their team, but remember to be kind.	玛丽翁	之后炼金术社团的同学们应该准备开始\n游说两名新生加入了吧，不要做得太强硬了啊。	瑪麗翁	接下來，鍊金術社的大家應該會開始拉兩位新生入社吧，\n記得要溫柔一點喔。
+SeasonalTalkEvent_005_00_011ID	2	Marion	マリオン	ただ、ちょっとレスナさんには話があるの。\n号令の後、こっちに来てくれる？	Marion	Before that, however, I must speak with you, Resna. Could you come here once class is over?	玛丽翁	不过，蕾斯娜同学，我有些话要和你说。\n下课行礼后你能过来一下吗？	瑪麗翁	不過，我有些話要跟蕾斯娜同學說，\n喊完口令之後，妳能來找我一下嗎？
+SeasonalTalkEvent_005_00_011ID	3	Resna	レスナ	あ、はい。分かりました	Resna	Oh, um! Yes, of course!	蕾斯娜	啊，好的。知道了。	蕾斯娜	啊，好的，我知道了。
+SeasonalTalkEvent_005_00_011ID	4	Marion	マリオン	それじゃあ、委員長	Marion	Class President, if you please.	玛丽翁	好了，班长。	瑪麗翁	那麼，班長。
+SeasonalTalkEvent_005_00_011ID	5	Rorona	ロロナ	きりーつ！　れーい！	Rorona	Stand! Bow!	萝乐娜	起立！行礼！	蘿樂娜	起立──！敬禮──！
+SeasonalTalkEvent_005_00_011ID	6		みんな	ありがとうございましたー	Everyone	Thank you for today's class!	所有人	谢谢老师——	大家	謝謝老師～
+SeasonalTalkEvent_005_00_011ID	7	Resna	レスナ	それで、なんでしょう？	Resna	Um, what did you want to talk to me about?	蕾斯娜	老师找我有什么事？	蕾斯娜	所以，請問是什麼事呢？
+SeasonalTalkEvent_005_00_011ID	8	Marion	マリオン	あなたを推薦した人について、\n話をしておこうと思ってね	Marion	It's regarding the person who referred you to the program.	玛丽翁	我想和你聊一下推荐你入学的人。	瑪麗翁	我想跟妳聊聊妳的推薦人。
+SeasonalTalkEvent_005_00_011ID	9	Resna	レスナ	そう言えば、誰なんでしょうか？\n私、ぜんぜん心当たりがなくて	Resna	Er, who is the person who recommended me? I can't think of anyone who would.	蕾斯娜	对哦，究竟是谁推荐了我啊？\n我一点头绪都没有。	蕾斯娜	這麼說來，到底是誰呢？\n我完全沒有頭緒。
+SeasonalTalkEvent_005_00_011ID	10	Resna	レスナ	何か成果を出したわけでもないですし、\nそういう知り合いがいるわけでもないんです	Resna	It's not like I've been getting great results, and I'm sure I don't know anyone with ties to the academy.	蕾斯娜	我既没有做出什么成果，\n也不认识有这方面门路的人。	蕾斯娜	我並未取得什麼成果，\n也不認識那樣的人。
+SeasonalTalkEvent_005_00_011ID	11	Marion	マリオン	……うちの理事長よ	Marion	Why, our chairman.	玛丽翁	……是我们的理事长。	瑪麗翁	……是本校的理事長。
+SeasonalTalkEvent_005_00_011ID	12	Resna	レスナ	え……理事長さん？	Resna	What? The chairman?	蕾斯娜	什么……理事长？	蕾斯娜	咦……理事長？
+SeasonalTalkEvent_005_00_011ID	13	Marion	マリオン	ええ。青い鳥郵便で入学案内を送る人は、\n理事長しか考えられないわ	Marion	Yes. They're the only one who sends out admission letters via blue bird.	玛丽翁	没错。能派蓝鸟送出入学通知的，\n只可能是理事长。	瑪麗翁	對，會使用青鳥寄送入學指南的人，\n只可能是理事長。
+SeasonalTalkEvent_005_00_011ID	14	Resna	レスナ	え？　青い鳥を使った配達って、\n普段から行ってるわけじゃないんですか？	Resna	Huh? You mean, that's not how it's usually done?	蕾斯娜	咦？这么说平时不会用蓝鸟寄信吗？	蕾斯娜	咦？\n學園平時不會用青鳥來寄東西嗎？
+SeasonalTalkEvent_005_00_011ID	15	Marion	マリオン	私たちが普段使っているのは赤い鳥なのよ	Marion	The rest of the faculty tend to use red ones.	玛丽翁	我们平时用的是红鸟。	瑪麗翁	我們平常使用的是紅鳥。
+SeasonalTalkEvent_005_00_011ID	16	Marion	マリオン	だから、通常の推薦枠での合格通知書は\n赤い鳥郵便で届くわ	Marion	In short, red birds mean that a student has successfully been accepted through regular means.	玛丽翁	因此，常规推荐名额的合格通知书\n都是用红鸟送出的。	瑪麗翁	所以一般推薦名額的合格通知書都是紅鳥在送。
+SeasonalTalkEvent_005_00_011ID	17	Marion	マリオン	でも、理事長権限で出された特別な郵便は、\n青い鳥で届くの	Marion	However, blue birds are indicative of a student who has been specially selected.	玛丽翁	但是，以理事长权限开具的特殊信件，\n是用蓝鸟送出的。	瑪麗翁	但如果是以理事長權限送出的特別信件，\n就會由青鳥來寄送。
+SeasonalTalkEvent_005_00_011ID	18	Resna	レスナ	なるほど……どうして理事長さんは\n私を推薦したんでしょう？	Resna	That's easy enough to understand. But...why did the chairman nominate me?	蕾斯娜	原来是这样……\n为什么理事长会推荐我呢？	蕾斯娜	原來如此……\n為什麼理事長會推薦我呢？
+SeasonalTalkEvent_005_00_011ID	19	Resna	レスナ	知り合いでもなんでもないですけど……	Resna	It's not like we've ever met or anything...	蕾斯娜	我和那位理事长完全素不相识啊……	蕾斯娜	我根本不認識他……
+SeasonalTalkEvent_005_00_011ID	20	Marion	マリオン	分からないわ。聞き出そうと思ったんだけど、\nあの人は気まぐれだから、今どこにいるか分からなくて	Marion	Honestly, I couldn't say. And as much as I would like to ask, they've gone off on another one of their flights of fancy.	玛丽翁	不知道。我也想了解这其中的原委，\n可理事长是个我行我素的人，现在人在哪里都不知道。	瑪麗翁	不曉得，我也想問，但那個人很隨興，\n所以我也不知道他現在在哪裡。
+SeasonalTalkEvent_005_00_011ID	21	Marion	マリオン	でも、どこかであなたのことを見つけ出したんだと\n思うわ。あなたに心当たりがなくても	Marion	Though I can say that they have met you somewhere before. Even if you might not recall the encounter yourself.	玛丽翁	我想一定是理事长在什么地方注意到了你的资质，\n只是你自己还不知道。	瑪麗翁	不過，即使妳沒有頭緒，\n他應該也是在某個地方發現妳的。
+SeasonalTalkEvent_005_00_011ID	22	Resna	レスナ	……そうなんですね	Resna	Oh... Okay.	蕾斯娜	是吗……	蕾斯娜	……是這樣啊。
+SeasonalTalkEvent_005_00_011ID	23	Marion	マリオン	ごめんなさいね。振り回してしまって。\nそれで、ちゃんと聞いておきたいのだけど……	Marion	Sorry, we've gotten a little off topic. What I actually wanted to ask you was...	玛丽翁	不好意思，我方的自作主张给你添麻烦了。\n另外有件事我想先确认一下……	瑪麗翁	抱歉，把妳耍得團團轉的。\n然後，我有事情想跟妳確認清楚……
+SeasonalTalkEvent_005_00_011ID	24	Marion	マリオン	この学園に入るのは、\nあなたの望んだことなのよね？	Marion	Did you want to be accepted into the academy?	玛丽翁	来到这个学园学习，\n是你自己愿意的吗？	瑪麗翁	進入這所學園，\n是妳所期望的沒錯吧？
+SeasonalTalkEvent_005_00_011ID	25	Resna	レスナ	……はい！　もちろんです！	Resna	Yes, I did! Very much!	蕾斯娜	……是的！那是当然！	蕾斯娜	……是的！那當然！
+SeasonalTalkEvent_005_00_011ID	26	Marion	マリオン	それならよかった。話は以上よ。\n推薦の理由は、理事長に会えたら聞いておくわね	Marion	Good, that's all I needed to know. When the chairman returns, I'll be sure to wrestle the reason for your recommendation out of them.	玛丽翁	那就好。我想问的就是这个。\n至于推荐你的原因，就等见到理事长了再问清楚吧。	瑪麗翁	那就好，我要說的就這些。\n遇到理事長時，我會再幫妳問問推薦的理由。
+SeasonalTalkEvent_005_00_011ID	27	Resna	レスナ	はい！　ありがとうございました！	Resna	Okay! Thank you very much!	蕾斯娜	好的！谢谢老师！	蕾斯娜	好的！謝謝您！
+SeasonalTalkEvent_005_00_011ID	28	Ryza	ライザ	レスナ！　ミーミ！	Ryza	Resna! Mimi!	莱莎	蕾斯娜！敏敏！	萊莎	蕾斯娜！　敏敏！
+SeasonalTalkEvent_005_00_011ID	29	Resna	レスナ	わ、先輩、どうしたんですか？	Resna	Ryza? What is it?	蕾斯娜	哇，前辈。怎么了呀？	蕾斯娜	哇，學姐，怎麼了嗎？
+SeasonalTalkEvent_005_00_011ID	30	Ryza	ライザ	錬金術部の見学、行くでしょ？\n案内するよ？	Ryza	You're going to come check out the Alchemy Club, right? Why don't I show you the way?	莱莎	你们会去炼金术社团参观的吧？\n我来给你们带路吧？	萊莎	妳們要去鍊金術社參觀對吧？\n我帶妳們去吧？
+SeasonalTalkEvent_005_00_011ID	31	Mimi	ミミ	ええ、ぜひお願いします	Mimi	That would be wonderful, thank you.	敏敏	嗯，拜托你了。	敏敏	好的，那就拜託妳了。
+SeasonalTalkEvent_005_00_011ID	32	Resna	レスナ	（錬金術部……どんな所なんだろう？）	Resna	(I wonder what the club rooms are like...)	蕾斯娜	（炼金术社团……那会是什么样的地方呢？）	蕾斯娜	（鍊金術社……是什麼樣的地方呢？）
+SeasonalTalkEvent_005_00_012ID	0	Ryza	ライザ	じゃーん！　ここが錬金術部の部室の１つ！\nどう？　かっこいいでしょ！	Ryza	Ta-daaah! This is one of the club rooms! Well? Isn't it great?	莱莎	请看——！这里就是炼金术社团的活动室之一！\n怎么样，是不是很有型！	萊莎	鏘──！這是鍊金術社的其中一間社團教室！\n怎麼樣？很帥氣吧！
+SeasonalTalkEvent_005_00_012ID	1	Resna	レスナ	わぁ～！　すごいです！　素敵です！\nこんな立派な場所で調合ができるんですね！	Resna	Oh, wow! It's amazing! It's so wonderful that you have such a nice place to do synthesis in!	蕾斯娜	哇～！好壮观！真是太棒了！\n可以在这么气派的地方进行调合呀！	蕾斯娜	哇啊～！好厲害！好棒喔！\n可以在這麼了不起的地方調合嗎！
+SeasonalTalkEvent_005_00_012ID	2	Mimi	ミミ	私もここまでの設備は初めて見ました	Mimi	This is my first time seeing some of this equipment, too.	敏敏	我也是第一次见到这么多设备。	敏敏	我也是第一次見識到這麼齊全的設備。
+SeasonalTalkEvent_005_00_012ID	3	Ryza	ライザ	それじゃあ改めて説明するね！\nようこそ！　「ねこさんチーム」の部室へ！	Ryza	Okay, so! Let me formally welcome you to the Kitty Cat club room! It's where our team hangs out!	莱莎	下面让我来详细说明一下！\n首先欢迎你们来到“猫猫小队”的活动室！	萊莎	那麼容我再重新說明一次！\n歡迎來到「貓咪隊」的社團教室！
+SeasonalTalkEvent_005_00_012ID	4	Resna	レスナ	……ねこさんチーム？\nそういえば、３つのチームに分かれてるんでしたっけ	Resna	"""Team""? Oh, right. We're supposed to be divided into teams."	蕾斯娜	……猫猫小队？\n啊，我记得社团分为3支小队是吧。	蕾斯娜	……貓咪隊？\n對了，鍊金術社好像說是分為三組隊伍？
+SeasonalTalkEvent_005_00_012ID	5	Ryza	ライザ	そ！　あとの２つは\n「くまさんチーム」と「へびさんチーム」だね！	Ryza	Yep! The other two are the Fuzzy Bears and the Sleek Snakes!	莱莎	没错！另外两队是“熊熊小队”和“蛇蛇小队”！	萊莎	對！\n另外兩隊是「熊熊隊」和「蛇蛇隊」！
+SeasonalTalkEvent_005_00_012ID	6	Ryza	ライザ	どのチームに入るかは二人の自由！\n……なんだけど	Ryza	You're allowed to choose whichever team you want! But...	莱莎	想加入哪支小队是你们两个的自由！\n不过……	萊莎	想加入哪隊是妳們的自由！\n不過……
+SeasonalTalkEvent_005_00_012ID	7	Ryza	ライザ	やっぱり結束しやすいメンバーで集まりがちかな	Ryza	Well, you're probably going to want to pick one that's got people you think you could get along with.	莱莎	同学们大都会和容易团结的人聚在一起。	萊莎	最後應該還是會物以類聚類吧。
+SeasonalTalkEvent_005_00_012ID	8	Mimi	ミミ	……なるほど、そういうことですか	Mimi	I see, so it's that sort of situation.	敏敏	哦……我好像明白是什么意思了。	敏敏	……原來如此，是這麼一回事啊。
+SeasonalTalkEvent_005_00_012ID	9	Resna	レスナ	え？　なに？　どういうこと？	Resna	Huh? I don't get it. What's that supposed to mean?	蕾斯娜	嗯？什么？什么意思？	蕾斯娜	咦？什麼？什麼意思？
+SeasonalTalkEvent_005_00_012ID	10	Mimi	ミミ	他のチームの部室に行ってみると分かると思います	Mimi	I suspect you will after we've paid a visit to the other teams.	敏敏	去其他小队的活动室看看应该就会明白的。	敏敏	妳去其他隊伍的社團教室看看，應該就會明白了。
+SeasonalTalkEvent_005_00_012ID	11	Ryza	ライザ	うん、そうだね。じゃあ、続けてくまさんチームの\n所に行ってみようか	Ryza	Yep, exactly. Here, let me show you their club rooms.	莱莎	嗯，也是。\n那接下来就去熊熊小队的活动室看看吧。	萊莎	嗯，說得也是。\n那麼我們接著去熊熊隊的教室看看吧！
+SeasonalTalkEvent_005_00_012ID	12		生徒Ｃ（ぷに）	あ、お客さんだ～！	Student C (Puni)	Ooh, guests!	学生C（噗尼）	啊，有客人来了～！	學生C（噗尼）	啊，是客人～！
+SeasonalTalkEvent_005_00_012ID	13		生徒Ｄ（ぷに）	ようこそ！　いらっしゃい！	Student D (Puni)	Welcome! Come on in!	学生D（噗尼）	欢迎你们！	學生D（噗尼）	歡迎！
+SeasonalTalkEvent_005_00_012ID	14	Resna	レスナ	わ、ぷにだらけ……	Resna	Whoa! There are only Puni in here...	蕾斯娜	哇，全是噗尼……	蕾斯娜	哇，全是噗尼……
+SeasonalTalkEvent_005_00_012ID	15	Mimi	ミミ	やはりそういうことですよね	Mimi	Just as I thought.	敏敏	果然是这样啊。	敏敏	果然是這麼一回事啊。
+SeasonalTalkEvent_005_00_012ID	16	Ryza	ライザ	うん。くまさんチームは、ぷに族が集まっている\nチームだよ	Ryza	Yep, the Fuzzy Bear team is pretty much entirely Puni.	莱莎	嗯。熊熊小队是以噗尼族为主的小队。	萊莎	嗯，\n熊熊隊是聚集了噗尼族的隊伍喔。
+SeasonalTalkEvent_005_00_012ID	17		生徒Ｃ（ぷに）	ボクらは人間も大歓迎さ。\nよかったら見ていってよ～	Student C (Puni)	But humans are totally free to join too! Go ahead, take a look around!	学生C（噗尼）	我们也非常欢迎人类哦。\n有兴趣的话欢迎进去参观～	學生C（噗尼）	我們也很歡迎人類，\n不嫌棄的話，來參觀一下吧～
+SeasonalTalkEvent_005_00_012ID	18	Resna	レスナ	はい！　ありがとうございます！	Resna	Thank you very much!	蕾斯娜	好的！非常感谢！	蕾斯娜	好的！謝謝！
+SeasonalTalkEvent_005_00_012ID	19	Resna	レスナ	きゃあ！　な、なに？　なんかヌメヌメが……	Resna	Yeeek! Wh-What's this slippery stuff...?	蕾斯娜	哇啊！怎、怎么回事？地上滑溜溜的……	蕾斯娜	呀啊！怎、怎麼回事？感覺滑溜溜的……
+SeasonalTalkEvent_005_00_012ID	20		生徒Ｄ（ぷに）	ごめん、ボクらが歩いた所かな？\n人間にとって過ごしづらいかもね～	Student D (Puni)	Sorry! Those are just the trails we leave behind when we're moving around. I guess that might make it a little tricky for humans to feel at home here.	学生D（噗尼）	不好意思，是我们走过的地方吧？\n人类可能不太好走～	學生D（噗尼）	抱歉，應該是我們走過的地方吧？\n對人類來說或許有點不太方便～
+SeasonalTalkEvent_005_00_012ID	21	Resna	レスナ	あ、あはは……	Resna	Ahaha...	蕾斯娜	啊、啊哈哈……	蕾斯娜	啊、啊哈哈……
+SeasonalTalkEvent_005_00_012ID	22		生徒Ｅ（鎧騎士）	ああん？　見学ぅ？	Student E (Armored Knight)	Huuuh? You're here to take a look around?	学生E（铠族骑士）	啊？来参观？	學生E（鎧騎士）	啊～？參觀？
+SeasonalTalkEvent_005_00_012ID	23		生徒Ｆ（鎧騎士）	あっはっはっは。聞いたかお前ら？\n人間がへびさんチームを見学だってよ！	Student F (Armored Knight)	Hahaha! Are they for real? A buncha humans actually wanna see what the Sleek Snakes're up to?	学生F（铠族骑士）	啊哈哈哈。你们听到了吗？\n人类说要来参观蛇蛇小队！	學生F（鎧騎士）	啊、哈、哈、哈，你們聽見了嗎？\n人類說要參觀蛇蛇隊耶！
+SeasonalTalkEvent_005_00_012ID	24	Resna	レスナ	あの、えっと……場違いでしょうか？	Resna	Um... Is that a bad thing?	蕾斯娜	唔……我们是不是不该来啊？	蕾斯娜	那個，呃……不適合嗎？
+SeasonalTalkEvent_005_00_012ID	25		生徒Ｅ（鎧騎士）	あ？　なに言ってんだ？	Student E (Armored Knight)	C'mon, what're you sayin'?	学生E（铠族骑士）	啊？你在说什么啊？	學生E（鎧騎士）	啊？妳在說什麼啊？
+SeasonalTalkEvent_005_00_012ID	26		生徒Ｆ（鎧騎士）	人間のほうがいつも俺らを怖がって\n近づかないんだろうが	Student F (Armored Knight)	Usually, humans're the ones who're too scared to get anywhere near us.	学生F（铠族骑士）	明明是人类惧怕我们，\n不肯接近才对吧。	學生F（鎧騎士）	明明一直都是人類害怕得不敢接近我們吧。
+SeasonalTalkEvent_005_00_012ID	27		生徒Ｅ（鎧騎士）	気にしないのはザスキア先生くらいだぜ	Student E (Armored Knight)	Except Miss Saskia. She doesn't seem to mind much.	学生E（铠族骑士）	不在意这个的大概只有萨丝琪亚老师了。	學生E（鎧騎士）	不介意的大概就只有薩絲琪亞老師而已。
+SeasonalTalkEvent_005_00_012ID	28	Resna	レスナ	あ、ザスキア先生……	Resna	She doesn't?	蕾斯娜	啊，萨丝琪亚老师……	蕾斯娜	啊，薩絲琪亞老師……
+SeasonalTalkEvent_005_00_012ID	29	Mimi	ミミ	もしかして、ザスキア先生がへびさんチームの\n顧問なのですか？	Mimi	Is that because she's your advisor?	敏敏	难道萨丝琪亚老师是蛇蛇小队的顾问吗？	敏敏	難道說，薩絲琪亞老師是蛇蛇隊的指導老師？
+SeasonalTalkEvent_005_00_012ID	30		生徒Ｅ（鎧騎士）	ちげえよ……。いつも勝手にやって来ては\nここの器材を使って調合してくんだ	Student E (Armored Knight)	Nah, it's nothin' like that. She's always comin' in to use the tools and stuff here for synthesis.	学生E（铠族骑士）	才不是呢……她总是擅自过来\n用这里的器材进行调合。	學生E（鎧騎士）	才不是……\n她總是擅自過來用這裡的器材進行調合。
+SeasonalTalkEvent_005_00_012ID	31		生徒Ｆ（鎧騎士）	なんでも、「研究」のためらしいぜ？\nなんの研究かは知らねえけどさ	Student F (Armored Knight)	I guess it's for research or whatever? Don't know what she's tryin' to figure out, though.	学生F（铠族骑士）	她做那些调合好像是为了进行“研究”。\n具体是什么研究我就不知道了。	學生F（鎧騎士）	好像說是為了「研究」？\n我不知道是什麼研究就是了。
+SeasonalTalkEvent_005_00_012ID	32		生徒Ｅ（鎧騎士）	怪しい噂も多いんだ。\nあんま近づかないほうがいいぜ	Student E (Armored Knight)	She's so suspicious, even her rumors have rumors. You're probably better off keepin' your distance.	学生E（铠族骑士）	她身上还有很多可疑的传闻。\n奉劝你们最好不要靠近她。	學生E（鎧騎士）	她也有很多可疑的傳聞，\n妳們還是別太接近她比較好。
+SeasonalTalkEvent_005_00_012ID	33	Resna	レスナ	怪しい噂……	Resna	She is?	蕾斯娜	可疑的传闻……	蕾斯娜	可疑的傳聞……
+SeasonalTalkEvent_005_00_012ID	34	Saskia	ザスキア	あら、あなたたち。見学？	Saskia	Oh my, it's you two. Have you come to observe?	萨丝琪亚	哎呀，是你们啊。在参观吗？	薩絲琪亞	哎呀，是妳們啊，來參觀的？
+SeasonalTalkEvent_005_00_012ID	35	Resna	レスナ	は、はい！　どこのチームに入ろうかなと	Resna	Y-Yes! We're trying to decide which team we should join.	蕾斯娜	是、是的！正在考虑该加入哪支小队。	蕾斯娜	是、是的！我們在考慮要加入哪一隊。
+SeasonalTalkEvent_005_00_012ID	36	Saskia	ザスキア	そう。今後ずっと一緒にやっていく大事なチームよ。\nよく考えて決めなさい	Saskia	Ah, a very important decision. After all, whichever you choose will be the group you'll end up spending the most time with. Be sure to give the matter plenty of thought.	萨丝琪亚	是吗。这是非常重要的选择，因为今后要和\n小队成员们朝夕相处。你们要仔细考虑清楚再决定啊。	薩絲琪亞	沒錯，這可是以後要朝夕相處的重要隊伍，\n好好考慮後再決定吧。
+SeasonalTalkEvent_005_00_012ID	37	Saskia	ザスキア	ただ、へびさんチームに入るのなら、\n私ともよろしくすることになるかしらねえ	Saskia	Well, if you happen to pick the Sleek Snakes, we'll get to know one another quite well, I think.	萨丝琪亚	不过，如果你们加入了蛇蛇小队，\n今后我也要请你们多多关照了。	薩絲琪亞	不過，如果要加入蛇蛇隊的話，\n可能也會需要跟我好好相處就是。
+SeasonalTalkEvent_005_00_012ID	38	Resna	レスナ	ひぇっ！　か、考えておきます！	Resna	Eeep! I-I'll take it into consideration!	蕾斯娜	噫！我、我考虑考虑！	蕾斯娜	咿！我、我考慮一下！
+SeasonalTalkEvent_005_00_013ID	0	Resna	レスナ	ふうー、疲れました	Resna	Phew. That took a lot out of me.	蕾斯娜	呼——好累啊。	蕾斯娜	呼～好累喔。
+SeasonalTalkEvent_005_00_013ID	1	Ryza	ライザ	あはは。初日は考えなきゃいけないこと目白押しだよね	Ryza	Ahaha! I know, there's a lot to take in on the first day.	莱莎	哈哈哈，第一天需要考虑的事情真是接连不断呢。	萊莎	啊哈哈，第一天就有一堆需要好好考慮的事情呢。
+SeasonalTalkEvent_005_00_013ID	2	Resna	レスナ	課題に、対抗戦。そしてチーム選び……。\n初めてのことばかりで大変ですが、わくわくもします！	Resna	Assignments, competitions, and we even have to pick a team... This is all brand new to me, but it's super exciting!	蕾斯娜	课题、对抗赛，还有选队……好多第一次接触的事，\n感觉好复杂啊，但同时我也非常期待！	蕾斯娜	課題、對抗賽，以及選擇隊伍……\n全都是第一次遇到的事，雖然很辛苦，但我也很興奮！
+SeasonalTalkEvent_005_00_013ID	3	Ryza	ライザ	チームはどこにするか決めた？	Ryza	So, any thoughts on who you'd like to join up with?	莱莎	你想好要加入哪支小队了吗？	萊莎	妳決定好加入哪一隊了嗎？
+SeasonalTalkEvent_005_00_013ID	4	Resna	レスナ	う……へびさんチームは嫌だへびさんチームは嫌だ	Resna	U-Um... Anyone BUT the Sleek Snakes, please and thanks!	蕾斯娜	呜……我不想去蛇蛇小队我不想去蛇蛇小队。	蕾斯娜	唔……不要蛇蛇隊、不要蛇蛇隊。
+SeasonalTalkEvent_005_00_013ID	5	Mimi	ミミ	ザスキア先生がトラウマになってますね……	Mimi	Wow, running into Miss Saskia scared her out of her wits.	敏敏	被萨丝琪亚老师吓得留下心理阴影了啊……	敏敏	看來薩絲琪亞老師讓妳產生心理陰影了呢……
+SeasonalTalkEvent_005_00_013ID	6	Resna	レスナ	きゃっ！　いたたた……	Resna	Oof! Ow ow ow...	蕾斯娜	哎呀！好疼……	蕾斯娜	呀啊！好痛……
+SeasonalTalkEvent_005_00_013ID	7		ゴロツキＡ	いってえええ！！　肩の骨が折れちまったよ	Thug A	Damn, that hurt! I think my shoulder's broken!	流氓A	疼死我了啊啊啊！！你把我肩膀撞骨折了。	流氓A	很痛耶──！！我的肩膀骨折了啦！
+SeasonalTalkEvent_005_00_013ID	8		ゴロツキＢ	こいつはイシャリョーが必要だよなあ？	Thug B	I think that calls for some proper recompense, don't you?	流氓B	这你们可得赔医药费才行。	流氓B	妳該付我醫藥費了吧？
+SeasonalTalkEvent_005_00_013ID	9	Mimi	ミミ	……は？	Mimi	Seriously?	敏敏	……哈？	敏敏	……什麼？
+SeasonalTalkEvent_005_00_013ID	10	Ryza	ライザ	……ちょっと！　なに意味分かんないこと言ってんの！	Ryza	Hey! I don't think that word means what you want it to!	莱莎	……喂！你们在胡言乱语什么！	萊莎	……等一下！你們說那什麼莫名其妙的話啊！
+SeasonalTalkEvent_005_00_013ID	11		ゴロツキＡ	お前らがぶつかってきたせいで\nケガしたって言ってんだよ！	Thug A	'Course it does! She slammed into me, and now I'm hurt!	流氓A	我说因为你们撞过来，害我受伤了！	流氓A	我說妳們撞到了我，\n害我受傷了！
+SeasonalTalkEvent_005_00_013ID	12		ゴロツキＢ	ランターナ学園のお嬢様なら金はたくさんあるだろ？\nいいから出しなって	Thug B	She's one of the Lantarna Academy's little darlings, right? That means she's loaded. C'mon, cough up the Cole.	流氓B	兰塔纳学园的大小姐应该很有钱吧？\n少废话了，快给钱。	流氓B	既然妳們是蘭塔納學園的千金大小姐，應該有很多錢吧？\n別廢話快交出來。
+SeasonalTalkEvent_005_00_013ID	13	Ryza	ライザ	そっちからぶつかってきたんじゃない！	Ryza	No way! You're the one who bumped into her!	莱莎	明明是你们故意撞过来的吧！	萊莎	明明是你們自己撞過來的！
+SeasonalTalkEvent_005_00_013ID	14	Sophie	ソフィー	……うちの後輩が何かした？	Sophie	Got something against my underclassmen?	苏菲	……我的后辈怎么你们了吗？	蘇菲	……我的學妹做了什麼嗎？
+SeasonalTalkEvent_005_00_013ID	15		ゴロツキＡ	お前は……ノイエンミュラーの番長か！	Thug A	You...! You're Boss Neuenmuller!	流氓A	你是……诺伊恩缪拉大姐头吗！	流氓A	妳是……諾伊恩繆拉老大嗎！
+SeasonalTalkEvent_005_00_013ID	16	Sophie	ソフィー	番長じゃないけどね。\nでも、この子たちに手を出すなら容赦はしないよ	Sophie	*Sigh* I'm really not, though. Still, that doesn't mean I'm going to let you off easy after laying a hand on those girls.	苏菲	我不是什么大姐头。\n不过，你要是敢对她们做什么，我可饶不了你们。	蘇菲	我不是老大就是了。\n但你們要是敢對她們出手，我可饒不了你們。
+SeasonalTalkEvent_005_00_013ID	17		ゴロツキＢ	くっ……こいつは強いって噂だぜ。\nどうする？	Thug B	Tch...! I heard the boss is wicked strong. What are we gonna do?	流氓B	唔……听说这家伙很强。\n怎么办？	流氓B	唔……聽說這傢伙很強。\n怎麼辦？
+SeasonalTalkEvent_005_00_013ID	18		ゴロツキＡ	心配すんな。見ろ、いつもの取り巻きがいねえ。\n今日は一人だ	Thug A	Stop worryin', that's what. Look, she ain't surrounded by the others today like she usually is. She's on her own.	流氓A	别怕。你看，她平时的跟屁虫都不在，\n今天就只有她一个人。	流氓A	別擔心，看，平時的那些馬屁精都不在，\n今天她只有一個人。
+SeasonalTalkEvent_005_00_013ID	19		ゴロツキＢ	それなら俺らが負ける理由もないよなあ？	Thug B	We ain't gonna lose to a bunch of wimps, are we?	流氓B	这样我们怎么可能输啊？	流氓B	這樣我們沒理由輸吧？
+SeasonalTalkEvent_005_00_013ID	20		ゴロツキＡ	やっちまおうぜ、野郎ども！	Thug A	C'mon! Let 'em have it!	流氓A	上吧，小的们！	流氓A	大伙們，上！
+SeasonalTalkEvent_005_00_013ID	21	Sophie	ソフィー	……っ！	Sophie	...!	苏菲	……！	蘇菲	……唔！
+SeasonalTalkEvent_005_00_013ID	22	???	？？？	下がるんだ	???	Get back.	？？？	后退。	？？？	退下。
+SeasonalTalkEvent_005_00_013ID	23	Sophie	ソフィー	え？	Sophie	Huh?	苏菲	咦？	蘇菲	咦？
+SeasonalTalkEvent_005_00_013ID	24		ゴロツキＡ	わっ！　なんだ！？	Thug A	Whoa! What the...?!	流氓A	哇！怎么了？！	流氓A	哇！怎麼回事！？
+SeasonalTalkEvent_005_00_013ID	25		ゴロツキＢ	ぐあああ！！！	Thug B	Guuuh!	流氓B	呜啊啊啊！！！	流氓B	唔啊啊啊！！！
+SeasonalTalkEvent_005_00_013ID	26		ゴロツキＡ	ど、どこから！　うわあああ！！？	Thug A	Wh-Where are they? Whoa!	流氓A	谁、谁在打我！呜哇啊啊啊！！	流氓A	從、從哪來的！嗚哇啊啊啊！！？
+SeasonalTalkEvent_005_00_013ID	27	Mimi	ミミ	え……いったい何が？	Mimi	Um... What just happened?	敏敏	咦……发生了什么事？	敏敏	咦……到底發生了什麼事？
+SeasonalTalkEvent_005_00_013ID	28	Resna	レスナ	あ！　助けてくれた人が、あそこに！\nお礼を言わないと……！	Resna	Oh! The person who helped us is over there! We'd better go thank he—	蕾斯娜	啊！救我们的人在那边！\n得去道谢才行……！	蕾斯娜	啊！幫我們的人在那裡！\n得向她道謝才行……！
+SeasonalTalkEvent_005_00_013ID	29	Resna	レスナ	あっ、いたた……足が……	Resna	Ouch! Oooh, my leg...	蕾斯娜	啊，好疼……我的腿……	蕾斯娜	啊，好痛……我的腳……
+SeasonalTalkEvent_005_00_013ID	30	Ryza	ライザ	さっき転んだ時にケガしたんだ！\nお礼はあたしが言ってくるよ	Ryza	Did you get hurt when you fell? Hang on, I'll go do the thanking.	莱莎	你刚才摔倒受伤了！\n道谢的事交给我吧。	萊莎	妳剛剛跌倒的時候受傷了！\n我去向她道謝就好。
+SeasonalTalkEvent_005_00_013ID	31	Ryza	ライザ	ソフィー！　レスナの手当てをお願い！	Ryza	Sophie! Look after Resna, okay?	莱莎	苏菲！麻烦你帮蕾斯娜包扎一下！	萊莎	蘇菲！麻煩妳幫蕾斯娜治療！
+SeasonalTalkEvent_005_00_013ID	32	Sophie	ソフィー	うん、分かったよ！\nミミちゃん、レスナちゃんを部室まで連れていこう	Sophie	Yep, sure thing! Mimi, let's take her to the club room.	苏菲	好，知道了！\n敏敏，我们带蕾斯娜去活动室吧。	蘇菲	嗯，我知道了！\n敏敏，我們帶蕾斯娜去社團教室吧。
+SeasonalTalkEvent_005_00_013ID	33	Mimi	ミミ	はい、任せてください	Mimi	Of course. No need to worry.	敏敏	好的，交给我吧。	敏敏	好的，請交給我。
+SeasonalTalkEvent_005_00_014ID	0	Sophie	ソフィー	待ってて！　すぐ傷薬を調合するから！	Sophie	Hang on, I'll whip up a salve for you in a jiffy!	苏菲	等一下哦！我这就调合伤药。	蘇菲	妳等著！我馬上調合傷藥！
+SeasonalTalkEvent_005_00_014ID	1	Resna	レスナ	わあ！　先輩の調合……！\n近くで見てもいいですか！	Resna	Oh wow! I get to see Sophie synthesize up close!	蕾斯娜	哇！前辈要调合了……！我能在旁边看看吗！	蕾斯娜	哇啊！學姐的調合……！\n我可以靠近看看嗎！？
+SeasonalTalkEvent_005_00_014ID	2	Mimi	ミミ	あなた、ケガしているのではないのですか？	Mimi	You're awfully chipper for someone who's supposed to be injured.	敏敏	你不是受伤了吗？	敏敏	妳不是受傷了嗎？
+SeasonalTalkEvent_005_00_014ID	3	Resna	レスナ	って、いたた、そうだった！	Resna	Ugh, I'd forgotten. Oooh, that still stings!	蕾斯娜	啊，好疼，我差点忘了！	蕾斯娜	呃，好痛，對喔！
+SeasonalTalkEvent_005_00_014ID	4	Mimi	ミミ	まあ……気持ちは分かります	Mimi	Well, I know how you feel.	敏敏	不过……我懂你的心情。	敏敏	嗯……不過我懂妳的心情。
+SeasonalTalkEvent_005_00_014ID	5	Mimi	ミミ	この丁寧でゆっくりに見えるのに、無駄のない動き……\nこれが１年の差……	Mimi	She might look like she's going slow and steady, but there's honestly not a single wasted move. So that's the difference a year makes...	敏敏	她的动作虽然看上去又轻又缓，但却全部恰到好处……\n这就是1个年级间的差距啊……	敏敏	她的動作看起來細心又從容，卻沒有多餘的動作……\n這就是一年經驗的差距……
+SeasonalTalkEvent_005_00_014ID	6	Resna	レスナ	……やっぱりすごいなぁ、錬金術は	Resna	Alchemy is just so amazing...	蕾斯娜	……炼金术真的很了不起呢。	蕾斯娜	……鍊金術果然很厲害呢～
+SeasonalTalkEvent_005_00_014ID	7	Mimi	ミミ	……ええ、すごいです	Mimi	Yeah, it really is.	敏敏	……嗯，很了不起。	敏敏	……是啊，很厲害。
+SeasonalTalkEvent_005_00_014ID	8	Sophie	ソフィー	……どう？　痛みは無くなった？	Sophie	How does that feel? Better?	苏菲	……怎么样，不痛了吧？	蘇菲	……如何？不會痛了吧？
+SeasonalTalkEvent_005_00_014ID	9	Resna	レスナ	はい！　すっかり良くなりました！	Resna	Yep! It doesn't hurt at all now!	蕾斯娜	嗯！好多了！	蕾斯娜	是的！已經完全治好了。
+SeasonalTalkEvent_005_00_014ID	10	Sophie	ソフィー	よかったー。こんなに突貫で作ったのは\n初めてだよ	Sophie	That's good to hear. I think that's the fastest I've ever synthesized anything.	苏菲	那就好。\n我还是第一次进行这种一气呵成的调合呢。	蘇菲	太好了～\n我還是第一次像這樣在短時間內做出藥。
+SeasonalTalkEvent_005_00_014ID	11	Resna	レスナ	改めて、色々ありがとうございました！\n広場でも先輩がいなかったらどうなっていたことか	Resna	I can't thank you enough for your help! Who knows what would have happened if you hadn't been there.	蕾斯娜	让我再说一次谢谢！\n在广场那次也是，如果前辈不在，事情真是不堪设想。	蕾斯娜	我真的要再次謝謝學姐！在廣場的時候也是，\n要是學姐不在，真不知道事情會變成怎樣。
+SeasonalTalkEvent_005_00_014ID	12	Sophie	ソフィー	あれはあたしは何もしてないんだけどなあ	Sophie	Aw. I honestly didn't do much.	苏菲	刚才我没有做什么啊。	蘇菲	我什麼也沒做就是了。
+SeasonalTalkEvent_005_00_014ID	13	Ryza	ライザ	ソフィー！　レスナの様子はどう？	Ryza	Hey, Sophie! How's Resna doing?	莱莎	苏菲！蕾斯娜怎么样了？	萊莎	蘇菲！蕾斯娜的狀況如何？
+SeasonalTalkEvent_005_00_014ID	14	Sophie	ソフィー	問題なし！　そっちも、助けてくれた人、\n見つけられた？	Sophie	Just fine! What about you? Did you find whoever stepped in to help?	苏菲	没事了！\n你呢，找到救我们的人了吗？	蘇菲	沒問題！妳那邊呢？\n找到幫我們的人了嗎？
+SeasonalTalkEvent_005_00_014ID	15	Ryza	ライザ	それが見失っちゃったのよね。\nおっかしいなー、すぐ追いかけたつもりだったのに	Ryza	Nope, couldn't find her anywhere. Which is weird, considering we were right on her heels.	莱莎	跟丢了。\n好奇怪啊，我感觉我追得还挺快的。	萊莎	我追丟了。\n真奇怪～我明明馬上就追上去了啊。
+SeasonalTalkEvent_005_00_014ID	16	Sophie	ソフィー	どんな格好だったか覚えてる？\nあたしもう一度見ても気付ける自信ないや	Sophie	Do you remember what she looked like? Because she's mostly a blur in my memory.	苏菲	你们还记得那个人是什么打扮吗？\n我就算再见到也不一定认得出来……	蘇菲	妳記得他的打扮嗎？\n我就算再見到她，也沒自信能認出來。
+SeasonalTalkEvent_005_00_014ID	17	Ryza	ライザ	あたしも。ま、仕方ないか	Ryza	Me, too. Well, not that there's anything we can do about it.	莱莎	我也是。唉，这也无可奈何啦。	萊莎	我也是，算了，沒辦法。
+SeasonalTalkEvent_005_00_014ID	18	Resna	レスナ	……そういえばここって、ねこさんチームの\n部室ですよね。どうしてここに？	Resna	Come to think of it, isn't this the Kitty Cat team's club room? What are we doing here?	蕾斯娜	……说起来，这里是猫猫小队的活动室吧？\n你为什么来这里呀？	蕾斯娜	……對了，這裡是貓咪隊的社團教室吧？\n為什麼要來這裡？
+SeasonalTalkEvent_005_00_014ID	19	Sophie	ソフィー	あれ、言ってなかったっけ？\nあたしもねこさんチームなんだよ	Sophie	Oh, didn't I tell you? That's the team I'm on.	苏菲	咦，我没说吗？\n我也是猫猫小队的。	蘇菲	咦，我沒說過嗎？\n我也是貓咪隊的啊。
+SeasonalTalkEvent_005_00_014ID	20	Ryza	ライザ	ロロナも一緒。あたしたちは全員同じチームなんだ	Ryza	Rorona is, too. We've all stuck together.	莱莎	萝乐娜也是。我们都是同一支小队的队友。	萊莎	蘿樂娜也是，我們所有人都是同一隊的。
+SeasonalTalkEvent_005_00_014ID	21	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_014ID	22	Resna	レスナ	私、ねこさんチームに入ります……入りたいです！	Resna	I'd really like to join too, please! If at all possible!	蕾斯娜	我要加入猫猫小队……希望可以让我加入！	蕾斯娜	我要加入貓咪隊……我很想加入！
+SeasonalTalkEvent_005_00_014ID	23	Resna	レスナ	ソフィー先輩みたいな錬金術士になりたいから！	Resna	I want to be a wonderful alchemist just like you, Sophie!	蕾斯娜	我想成为像苏菲前辈一样的炼金术士！	蕾斯娜	因為我想要成為像蘇菲學姐這樣的鍊金術士！
+SeasonalTalkEvent_005_00_014ID	24	Sophie	ソフィー	ええっ、あたし！？	Sophie	Huh? M-Me?!	苏菲	什么，像我一样？！	蘇菲	咦咦，我嗎！？
+SeasonalTalkEvent_005_00_014ID	25	Ryza	ライザ	おお！　やるじゃん、ソフィー！\n心わしづかみだね	Ryza	Oooh, nice job, Sophie! You really stole her heart!	莱莎	哇哦！很厉害嘛，苏菲！\n俘获了蕾斯娜的心呢。	萊莎	喔喔！蘇菲，厲害喔！\n妳抓住了學妹的心呢。
+SeasonalTalkEvent_005_00_014ID	26	Mimi	ミミ	私も、いいでしょうか？\nぜひ、ねこさんチームに入りたいです	Mimi	Would it be all right if I joined the team too? I'd very much like to.	敏敏	我也可以吗？\n请务必允许我加入猫猫小队。	敏敏	我也可以加入嗎？\n我非常希望能加入貓咪隊。
+SeasonalTalkEvent_005_00_014ID	27	Ryza	ライザ	いいね！　大歓迎だよ！	Ryza	Of course! The more the merrier!	莱莎	好啊！非常欢迎！	萊莎	好啊！非常歡迎！
+SeasonalTalkEvent_005_00_014ID	28	Ryza	ライザ	それじゃあ、改めて！\nようこそ、ねこさんチームへ！	Ryza	Well then! Allow me to welcome you to the Kitty Cat team!	莱莎	那么！正式欢迎你们加入猫猫小队！	萊莎	那就再次歡迎兩位！\n歡迎加入貓咪隊！
+SeasonalTalkEvent_005_00_014ID	29	Resna	レスナ	はい！　先輩方、よろしくお願いします！	Resna	Thank you! We won't let you down!	蕾斯娜	谢谢！请各位前辈多多关照！	蕾斯娜	是！請學姐們多多指教！
+SeasonalTalkEvent_005_00_014ID	30	Mimi	ミミ	よろしくお願いします！	Mimi	I hope that you'll look after us.	敏敏	请多多关照！	敏敏	請多指教！
+SeasonalTalkEvent_005_00_015ID	0	Resna	レスナ	（快晴！　心地のいい風！　まるで今日という日を\n　祝福してくれているかのよう！）	Resna	(Clear skies! A refreshing breeze! Today's definitely going to be a lucky day, I can feel it!)	蕾斯娜	（万里的晴空！怡人的微风！\n　仿佛在为今天这个日子送上祝福！）	蕾斯娜	（萬里晴空！舒適的風！\n　簡直就像在祝福今天這個好日子一樣！）
+SeasonalTalkEvent_005_00_015ID	1	Resna	レスナ	（今日から錬金術部での活動が始まる……\n　いよいよ、本格的な錬金術の勉強が始まるんだ！）	Resna	(Alchemy Club activities start today, too. I'm finally going to start studying for real!)	蕾斯娜	（从今天起就要开始在炼金术社团活动了……\n　终于要开始正式学习炼金术了！）	蕾斯娜	（鍊金術社的社團活動即將從今天開始……\n　我終於要正式開始學習鍊金術了！）
+SeasonalTalkEvent_005_00_015ID	2	Resna	レスナ	（きっと錬金術部で教われば、今までできなかった\n　調合もできるようになるはず！）	Resna	(I'm sure that whatever I learn there will help me get over whatever hurdle's been keeping me from a successful synthesis!)	蕾斯娜	（在炼金术社团学习过后，\n　过去连战连败的调合也一定会有进展的！）	蕾斯娜	（相信只要在鍊金術社學習，\n　以前沒成功的調合一定也能成功的！）
+SeasonalTalkEvent_005_00_015ID	3	Rorona	ロロナ	あ、レスナちゃーん、おはよー！	Rorona	Oh! G'morning, Resna!	萝乐娜	啊，蕾斯娜，早呀——！	蘿樂娜	啊，蕾斯娜，早安～！
+SeasonalTalkEvent_005_00_015ID	4	Resna	レスナ	ロロナ先輩！　おはようございます！	Resna	Rorona! Good morning to you too!	蕾斯娜	萝乐娜前辈，早上好！	蕾斯娜	蘿樂娜學姐！早安！
+SeasonalTalkEvent_005_00_015ID	5	Rorona	ロロナ	ごめんね、昨日は委員長の仕事で一緒に見学に\n行けなくて	Rorona	I'm sorry that I missed out on the big after-school tour yesterday. I had some council work to do.	萝乐娜	不好意思，昨天因为有班长的工作，\n没能陪你们去参观。	蘿樂娜	抱歉，我昨天因為有班長的工作，\n沒能陪妳們一起去參觀。
+SeasonalTalkEvent_005_00_015ID	6	Rorona	ロロナ	聞いたよ。ねこさんチームに入ったんだよね？	Rorona	But I heard that you're going to be joining us on the Kitty Cat team?	萝乐娜	我听说了哦，你们要加入猫猫小队是吧？	蘿樂娜	我聽說了喔，妳們加入貓咪隊了對吧？
+SeasonalTalkEvent_005_00_015ID	7	Resna	レスナ	はい、そうなんです！\n今日からよろしくお願いします！	Resna	Yes, I am! I can't wait to work with you!	蕾斯娜	嗯，是的！\n今后还请多多关照！	蕾斯娜	對，沒錯！\n從今天起請多指教！
+SeasonalTalkEvent_005_00_015ID	8	Rorona	ロロナ	うん！　レスナちゃん、勉強ができるみたいだから\nすっごく頼もしいよ！	Rorona	Great! You seem like you're a really good student, so that probably means you're super reliable, too!	萝乐娜	嗯！蕾斯娜好像学习也很好，\n有你加入简直如虎添翼！	蘿樂娜	嗯！妳好像很會讀書，\n感覺很可靠呢！
+SeasonalTalkEvent_005_00_015ID	9	Resna	レスナ	えへへ……そんなことないですよ	Resna	Ehehe... Um, I wouldn't go that far.	蕾斯娜	嘿嘿嘿……没那回事啦。	蕾斯娜	嘿嘿……沒這回事啦。
+SeasonalTalkEvent_005_00_015ID	10	Marion	マリオン	……気持ちは分かるけど、なるべく授業には出てね？\nそうじゃないと……	Marion	While I do understand your feelings, please be sure that you attend class. If you don't, then...	玛丽翁	……我理解你的想法，但还是要尽量来上课哦。\n不然的话……	瑪麗翁	……我懂妳的心情，但妳還是要盡量來上課喔。\n不然的話……
+SeasonalTalkEvent_005_00_015ID	11	???	？？？	……申し訳ございません。すべて承知の上です	???	Sorry. I'll be more careful in the future.	？？？	……非常抱歉。我明白。	？？？	……非常抱歉。這些我都明白。
+SeasonalTalkEvent_005_00_015ID	12	Resna	レスナ	……どちら様でしょう？	Resna	Who's that?	蕾斯娜	……那是谁呀？	蕾斯娜	……她是誰呢？
+SeasonalTalkEvent_005_00_015ID	13	Rorona	ロロナ	昨日、欠席してた子かな	Rorona	Hm, maybe yesterday's missing student?	萝乐娜	是昨天缺席的同学吧？	蘿樂娜	是昨天缺席的同學嗎？
+SeasonalTalkEvent_005_00_015ID	14	Marion	マリオン	はあ……これ以上はうるさく言わないけど。\n何が自分のためなのか、よく考えて	Marion	*Sigh* Well, I won't harp on you for much longer. I trust that you'll do what's best for you.	玛丽翁	唉……我也不会再对你啰嗦了。\n但你要想清楚什么才是对自己好的。	瑪麗翁	唉……我不會再多說什麼，\n但妳好好思考一下怎樣才是為自己好吧。
+SeasonalTalkEvent_005_00_015ID	15	Eren	エレン	はい	Eren	Yes, Miss.	艾莲	我知道了。	艾蓮	好的。
+SeasonalTalkEvent_005_00_015ID	16	Marion	マリオン	ああ、委員長、ちょうどよかった。\nこちら、エレンさん	Marion	Oh, Class President. Perfect timing. This is Eren.	玛丽翁	哦，班长，你来得正好。\n这位是艾莲同学。	瑪麗翁	啊，班長，妳來得正好。\n這位是艾蓮同學。
+SeasonalTalkEvent_005_00_015ID	17	Marion	マリオン	昨日、欠席してた新入生の子よ。\n今日から授業に参加するから、面倒を見てあげて	Marion	She's the new student who was absent yesterday. She'll be joining us from today onwards, so please look after her.	玛丽翁	她是昨天缺席的新生。\n今天开始会来上课的，你照顾一下吧。	瑪麗翁	她是昨天缺席的新生，\n今天開始會一起上課，妳好好照顧她吧。
+SeasonalTalkEvent_005_00_015ID	18	Rorona	ロロナ	分かりました。それじゃあレスナちゃん、また放課後に	Rorona	Of course! Resna, I'll see you after school, okay?	萝乐娜	我知道了。蕾斯娜，我们放学再聊。	蘿樂娜	我知道了，那蕾斯娜，我們放學後見。
+SeasonalTalkEvent_005_00_015ID	19	Resna	レスナ	はい、それではまた！	Resna	Sure! See you later!	蕾斯娜	好的，之后再见！	蕾斯娜	好的，晚點見！
+SeasonalTalkEvent_005_00_015ID	20	Resna	レスナ	（エレンちゃんかあ。どんな子なんだろう。\n　エレンちゃんもねこさんチームに入るのかな？）	Resna	(So, her name's Eren? I wonder what she's like. Maybe she'll join the Kitty Cats too?)	蕾斯娜	（她叫艾莲啊，不知是个什么样的人呢？\n　她也会加入猫猫小队吗？）	蕾斯娜	（艾蓮啊～她是怎樣的人呢？\n　她也會加入貓咪隊嗎？）
+SeasonalTalkEvent_005_00_015ID	21	Resna	レスナ	（……あれ？　あの子、どこかで見たような）	Resna	(I get the feeling I've seen her somewhere before, though.)	蕾斯娜	（……咦？我是不是在哪里见过她？）	蕾斯娜	（……奇怪？我總覺得她很眼熟。）
+SeasonalTalkEvent_005_00_015ID	22	Resna	レスナ	（……思い出せない。きっと気のせいだよね）	Resna	(Hm, but nothing's coming to mind. Maybe it's just my imagination.)	蕾斯娜	（……想不起来了。可能是错觉吧。）	蕾斯娜	（……想不起來，一定是我的錯覺吧。）
+SeasonalTalkEvent_005_00_015ID	23		エレン	錬金術科の新入生。レスナと同じく推薦で入学した。\n寡黙で単独行動を好む	Eren	Another new alchemy student who entered the academy on recommendation. A lone wolf who would prefer to engage in as little conversation as possible.	艾莲	炼金术科新生。和蕾斯娜一样是通过推荐入学的。\n沉默寡言，喜欢单独行动。	艾蓮	鍊金術科新生，和蕾斯娜一樣透過推薦入學，\n沉默寡言且喜歡單獨行動。
+SeasonalTalkEvent_005_00_016ID	0	Resna	レスナ	失礼します！\n今日からよろしくお願いし――	Resna	Hello! Thank you all for letting me j—	蕾斯娜	打扰了！\n今后请多多——	蕾斯娜	打擾了！\n從今以後還請多多指──
+SeasonalTalkEvent_005_00_016ID	1	Resna	レスナ	ひぃやああああ！？\nな、なに！？　爆発！？	Resna	H-Huh?! What happened here?! Did something explode?!	蕾斯娜	呀啊啊啊啊啊？！\n怎、怎么了？！爆炸？！	蕾斯娜	呀啊啊啊啊！？\n什、什麼！？爆炸！？
+SeasonalTalkEvent_005_00_016ID	2	???	？？？	おおお！！！　これはイイ感じかも！？	???	Ooh! That might have been the best combo yet!	？？？	哦哦哦！！这个感觉好像不错！	？？？	喔喔喔！！！感覺好像不錯喔！？
+SeasonalTalkEvent_005_00_016ID	3	Sophie	ソフィー	けほっ……マルローネ先生！\n今度は何を調合したんですか！	Sophie	*Cough*! Miss Marlone! Just what did you put in there?!	苏菲	咳咳……玛洛娜老师！\n你这次又是在调合什么啊！	蘇菲	咳咳……瑪洛娜老師！\n妳這次又調合了什麼啊！
+SeasonalTalkEvent_005_00_016ID	4	Resna	レスナ	（この声は、ソフィー先輩と……？）	Resna	(That sounded like...Sophie? But who's the other person?)	蕾斯娜	（听声音是苏菲前辈和……？）	蕾斯娜	（這個聲音，是蘇菲學姐和……？）
+SeasonalTalkEvent_005_00_016ID	5	Marie	マリー	あはは、新しい爆弾をちょっとね。\nうーん、あそこの改善がまだ必要だなあ	Marie	Ahaha, I was just working on a new bomb. It's got potential, but it might need some more work.	玛莉	啊哈哈，我试了试新的炸弹。\n唔，那里还需要改进一下啊。	瑪莉	啊哈哈，我在試做新的炸彈。\n嗯～那邊還需要改良才行。
+SeasonalTalkEvent_005_00_016ID	6	Sophie	ソフィー	はあ……部室がぐちゃぐちゃだよ。\n掃除は……	Sophie	I'll say. The club room's a disaster. We should probably tidy all this up, but...	苏菲	唉……活动室都变得乱七八糟了。\n得打扫一下……	蘇菲	唉……社團教室亂糟糟的，\n打掃……
+SeasonalTalkEvent_005_00_016ID	7	Sophie	ソフィー	ま、いっか！	Sophie	Eh, it can wait!	苏菲	还是算了吧！	蘇菲	嗯，算了！
+SeasonalTalkEvent_005_00_016ID	8	Marie	マリー	どうせまた汚れるしね！	Marie	Exactly! We're just going to make another mess of it, anyway!	玛莉	反正很快又会弄脏的！	瑪莉	反正還是會再弄亂！
+SeasonalTalkEvent_005_00_016ID	9	Resna	レスナ	ち、ちょっと待ってくださーい！！	Resna	P-Please wait!	蕾斯娜	等、等一下啊——！！	蕾斯娜	請、請等一下──！！
+SeasonalTalkEvent_005_00_016ID	10	Resna	レスナ	こんな状況で調合するなんて不便ですよ！\n私、お掃除します！	Resna	There's no way you could synthesize in a room like this! I'll clean it up!	蕾斯娜	在这种环境下调合是很不方便的！\n我来打扫！	蕾斯娜	這種環境太不方便調合了！\n我來打掃！
+SeasonalTalkEvent_005_00_016ID	11	Marie	マリー	おおー、ありがとう！	Marie	Oh, wow! Thank you!	玛莉	哇——谢谢你！	瑪莉	喔喔～謝謝妳！
+SeasonalTalkEvent_005_00_016ID	12	Marie	マリー	「生きてるホウキ」も使わずに、\nここまで綺麗にするなんて	Marie	I can't believe you got this place so tidy without using a Living Broom!	玛莉	不用“活动扫帚”居然就能打扫得这么干净。	瑪莉	沒有使用「活著的掃帚」，\n竟然還能打掃得這麼乾淨。
+SeasonalTalkEvent_005_00_016ID	13	Resna	レスナ	えへへ……\nおほめに預かり光栄です！	Resna	Ehehe... Thanks, that's some pretty high praise!	蕾斯娜	嘿嘿嘿……\n能得到夸赞我万分荣幸！	蕾斯娜	嘿嘿……\n很榮幸獲得您的稱讚！
+SeasonalTalkEvent_005_00_016ID	14	Marie	マリー	そういえばあなた、見ない顔だけど……	Marie	Come to think of it, I don't think I've seen you before.	玛莉	不过这位同学是生面孔呢……	瑪莉	對了，我沒看過妳……
+SeasonalTalkEvent_005_00_016ID	15	Sophie	ソフィー	昨日ねこさんチームに入ってくれた新入生なんです	Sophie	She's one of the new girls who joined our team yesterday.	苏菲	她是昨天加入猫猫小队的新生。	蘇菲	她是昨天剛加入貓咪隊的新生。
+SeasonalTalkEvent_005_00_016ID	16	Resna	レスナ	錬金術科１年、レスナと申します	Resna	I'm Resna! A first-year alchemy student!	蕾斯娜	我是炼金术科1年级的蕾斯娜。	蕾斯娜	我是鍊金術科一年級的蕾斯娜。
+SeasonalTalkEvent_005_00_016ID	17	Marie	マリー	あたしはマルローネ。\nねこさんチームの顧問をやってるわよ	Marie	Nice to meet you. My name's Marlone. I'm the advisor for the Kitty Cat team.	玛莉	我叫玛洛娜，是猫猫小队的顾问。	瑪莉	我叫瑪洛娜，\n是貓咪隊的指導老師。
+SeasonalTalkEvent_005_00_016ID	18	Resna	レスナ	マルローネ先生！\nご指導ご鞭撻のほどよろしくお願いいたします！	Resna	Oh, you're a teacher! Thank you in advance for your guidance and support!	蕾斯娜	玛洛娜老师！\n还请您多多指导和鞭策！	蕾斯娜	瑪洛娜老師！\n還請您多多鞭策指導！
+SeasonalTalkEvent_005_00_016ID	19	Marie	マリー	うん、お願いされました！　それじゃあ、\nみんなが集まったら早速、採取に行こっか	Marie	Don't worry, I'm happy to help you however I can! Well, once everyone gets here, we should head straight out to do some gathering.	玛莉	嗯，交给我吧！\n那等大家到齐后，我们就出发去采集吧。	瑪莉	嗯，交給我吧！\n那等大家集合後，就立刻去採集吧。
+SeasonalTalkEvent_005_00_016ID	20	Resna	レスナ	採取、ですか？	Resna	Of...materials?	蕾斯娜	采集？	蕾斯娜	採集嗎？
+SeasonalTalkEvent_005_00_016ID	21	Marie	マリー	せっかく器材があるんだし、小難しい勉強をするよりも\n身体を動かして学びたいでしょ？	Marie	Mhm. We've got all the tools for it, and isn't learning through experience better than sitting around and studying?	玛莉	难得有器材，比起枯燥的授课，\n肯定更想通过亲身体验来学习吧？	瑪莉	難得有器材可用，比起學習難懂的知識，\n妳應該更想透過實際活動來學習吧？
+SeasonalTalkEvent_005_00_016ID	22	Marie	マリー	早く調合したい。そんな顔してる	Marie	Though, you look like you'd rather skip all that and go straight to synthesizing.	玛莉	你满脸都写着好想赶快开始调合呢。	瑪莉	妳的臉上寫著我想要快點調合。
+SeasonalTalkEvent_005_00_016ID	23	Resna	レスナ	う。分かりますか？	Resna	Um! Was it that obvious?	蕾斯娜	唔，有这么明显吗？	蕾斯娜	唔，看得出來嗎？
+SeasonalTalkEvent_005_00_016ID	24	Marie	マリー	分かりやすいよ。それじゃあお出かけの準備をしてね！\n裏手の森に行くわよ！	Marie	It couldn't have been clearer. So let's pack up and get ready to go! We'll be heading out to the woods behind the academy.	玛莉	我一眼就看出来了。去做一下外出的准备吧！\n我们要去学园后边的森林！	瑪莉	很明顯喔。那妳們就先去準備出門吧！\n我們要去後面的森林喔！
+SeasonalTalkEvent_005_00_016ID	25	Resna	レスナ	はい！	Resna	Okay!	蕾斯娜	好的！	蕾斯娜	是！
+SeasonalTalkEvent_005_00_016ID	26	Marie	マリー	ランターナ学園で錬金術を教える教師。\n爆弾の研究に日夜打ち込んでいる	Marie	An instructor of alchemy at Lantarna Academy. Her study of bombs is an endless endeavor.	玛莉	兰塔纳学园教授炼金术的教师。\n不舍昼夜地投身于炸弹研究。	瑪莉	在蘭塔納學園教鍊金術的教師，\n日夜埋首於炸彈的研究。
+SeasonalTalkEvent_005_00_017ID	0	Resna	レスナ	わあ、シロヒメクサ！　こっちはナナシ草！\n若葉の枝葉まであるなんてっ	Resna	Wow! Princess Grass! And here's some Nameless Grass! There are so many kinds of greenery!	蕾斯娜	哇，是白姬草！这个是无名草！\n居然还有带嫩芽的枝叶！	蕾斯娜	哇啊，白姬草！這邊的是無名草！\n竟然連嫩枝葉都有！
+SeasonalTalkEvent_005_00_017ID	1	Resna	レスナ	す、すごい……！\nみんな図鑑で見た通りです！	Resna	This is so amazing...! They're just like the pictures in my reference books!	蕾斯娜	太、太棒了……！\n这些都和我在图鉴上看到的一模一样！	蕾斯娜	太、太棒了……！\n都跟我在圖鑑上看到的一模一樣！
+SeasonalTalkEvent_005_00_017ID	2	Ryza	ライザ	ぱっと見ただけでそこまで分かるなんて。\nやっぱりレスナ、知識が豊富だね	Ryza	You can tell them all apart at a glance? You really are just a barrel of knowledge, huh?	莱莎	只要看一眼就知道是什么，\n蕾斯娜的知识储备真丰富啊。	萊莎	光看一眼就能認出這麼多素材，\n蕾斯娜的知識果然很豐富。
+SeasonalTalkEvent_005_00_017ID	3	Resna	レスナ	そうだ、ソフィー先輩。\nこの前の薬って、コゲクサが入ってましたか？	Resna	Oh, right! Sophie, did you use any Dry Grass in that medicine you made?	蕾斯娜	对了，苏菲前辈。\n你在之前的药里边放焦草了吗？	蕾斯娜	對了，蘇菲學姐。\n之前那個藥裡面是不是加了焦草？
+SeasonalTalkEvent_005_00_017ID	4	Sophie	ソフィー	えっ……	Sophie	Um...	苏菲	咦……	蘇菲	咦……
+SeasonalTalkEvent_005_00_017ID	5	Resna	レスナ	最初はヒーリングサルヴを改良したものだと\n思ったんですけど、香りと色が違うかなって	Resna	I heard that the recipe for a Healing Salve has undergone some improvements, but the color and scent of yours was different, too.	蕾斯娜	一开始我以为你调合的是改良过的治愈软膏，\n但气味和颜色都不一样。	蕾斯娜	我原本以為那是用治癒軟膏改良的，\n但總覺得它的香味和顏色不太一樣。
+SeasonalTalkEvent_005_00_017ID	6	Resna	レスナ	どっちかっていうと、ドライビスクを\n改良したものに近いような気がして……	Resna	If anything, it was more like a refined version of a Dry Biscuit, but...	蕾斯娜	据我推测，感觉更像改良过的饼干……	蕾斯娜	認真說起來，\n感覺更像是用餅乾改良而成的……
+SeasonalTalkEvent_005_00_017ID	7	Sophie	ソフィー	…………	Sophie	...	苏菲	……	蘇菲	…………
+SeasonalTalkEvent_005_00_017ID	8	Resna	レスナ	はっ！？　す、すす、すみません！	Resna	Oh! I-I-I'm so sorry!	蕾斯娜	啊！对、对、对不起！	蕾斯娜	啊！？真、真真、真是抱歉！
+SeasonalTalkEvent_005_00_017ID	9	Resna	レスナ	私のような者が、ソフィー先輩のレシピを\n知ろうなんておこがましいことをっ！！	Resna	I didn't mean to be so presumptuous! Of course, I wouldn't know the ins and outs of your recipe!	蕾斯娜	是我太自不量力了，\n居然妄想了解苏菲前辈的配方！！	蕾斯娜	我這種人竟然還敢打聽蘇菲學姐的配方，\n實在是太不知天高地厚了！！
+SeasonalTalkEvent_005_00_017ID	10	Sophie	ソフィー	ううん、単純に驚いただけ。\nすごい、よくそこまで分かったね	Sophie	No, it's fine. I was just surprised that you worked it out from just that. You're amazing, Resna.	苏菲	不，我只是很吃惊。\n你真厉害，居然能分析出这么多。	蘇菲	沒事，我只是有些驚訝而已。\n妳真厲害，竟然看出了這麼多。
+SeasonalTalkEvent_005_00_017ID	11	Marie	マリー	これは、とんでもない逸材が入ってきたわね。\n今年はねこさんチーム大勝利かも！？	Marie	Amazing? I'd consider that to be a rare gift. Will this be the year that the Kitty Cat team actually wins?!	玛莉	看来我们小队多了一个优秀的人才啊。\n说不定今年猫猫小队会大获全胜哦！	瑪莉	看來我們這來了個不得了的人才呢。\n今年說不定會是貓咪隊大獲全勝喔！
+SeasonalTalkEvent_005_00_017ID	12	Rorona	ロロナ	うう、２年のわたしよりも勉強できるのかも	Rorona	Urgh, I think she's got more memorized than I've ever managed—and I've got a year on her.	萝乐娜	呜呜，感觉她比我这个2年级学生懂得还多。	蘿樂娜	嗚嗚，她搞不好比我這個二年級生還會念書呢。
+SeasonalTalkEvent_005_00_017ID	13	Mimi	ミミ	き、きっとそんなことないですよ。\n……でも、私ももっと勉強しないとですね	Mimi	I-I'm sure that's not true! There's still plenty I need to study, too.	敏敏	应、应该不至于。\n不过……这下我也得更加努力学习才行了。	敏敏	肯、肯定沒這回事啦。\n……不過，我也要更努力學習才行。
+SeasonalTalkEvent_005_00_017ID	14	Resna	レスナ	（ずっと独学で勉強してきたことが活きてる……。\n　うん、いい感じだよ、レスナ！）	Resna	(I've been doing nothing but just reading all on my own... But it looks like it paid off! I've done such a good job!)	蕾斯娜	（长年自学的知识终于派上了用场……\n　嗯，做得很不错嘛，蕾斯娜！）	蕾斯娜	（過去自學的知識派上用場了……\n　嗯，做得好，蕾斯娜！）
+SeasonalTalkEvent_005_00_017ID	15	Resna	レスナ	……え？　な、何かいる？	Resna	Huh? Is something over there?	蕾斯娜	……咦？有、有东西？	蕾斯娜	……咦？好、好像有什麼東西？
+SeasonalTalkEvent_005_00_017ID	16	Mimi	ミミ	下がってください！　きっと魔物です！	Mimi	Please, get back! I'm sure it's a monster!	敏敏	退后！一定是魔物！	敏敏	快退後！一定是魔物！
+SeasonalTalkEvent_005_00_017ID	17	Resna	レスナ	ひゃあ！	Resna	Eeek!	蕾斯娜	呀啊？！	蕾斯娜	呀啊！
+SeasonalTalkEvent_005_00_017ID	18	Sophie	ソフィー	レスナちゃん、構えて！\n錬金術士は身を守る力も必要だよ！	Sophie	Get ready, Resna! An alchemist has to be able to protect herself too!	苏菲	蕾斯娜，摆好架势！\n炼金术士也要有保护自己的能力才行！	蘇菲	蕾斯娜，準備戰鬥！\n身為鍊金術士也必須要具備保護自己的能力！
+SeasonalTalkEvent_005_00_017ID	19	Resna	レスナ	は、はい、ソフィー先輩！	Resna	O-Okay! I'll try!	蕾斯娜	知、知道了，苏菲前辈！	蕾斯娜	是、是，蘇菲學姐！
+SeasonalTalkEvent_005_00_017ID	20	Sophie	ソフィー	しっかり杖を持って……よし、行こう！	Sophie	Just grip your staff tight... Yep, like that! Let's go!	苏菲	把手杖拿稳……好了，我们上！	蘇菲	握緊妳的手杖……好，我們上！
+SeasonalTalkEvent_005_00_018ID	0	Ryza	ライザ	いやあ、すごいよミミ！\nなにあの槍さばき！	Ryza	Whoa, Mimi! You're something else! That was some spear handling!	莱莎	你真厉害啊，敏敏！\n长枪用得好熟练！	萊莎	哎呀，敏敏妳真厲害！\n那揮槍的動作怎麼那麼出神入化啊！
+SeasonalTalkEvent_005_00_018ID	1	Mimi	ミミ	日々、研鑽を積んでいますので	Mimi	That's nothing but the result of diligent practice.	敏敏	因为我每天都在不懈练习。	敏敏	這是我平日鍛鍊積累的成果。
+SeasonalTalkEvent_005_00_018ID	2	Marie	マリー	さーて、それじゃあ早速、調合だね。\n新入生の腕前をチェックよ！	Marie	All right, let's start synthesizing. We'll have our new students show us what they can do!	玛莉	好了，让我们赶快开始调合吧。\n来检验一下新生的实力！	瑪莉	好了～那就趕快開始調合吧。\n讓我看看新生的實力如何！
+SeasonalTalkEvent_005_00_018ID	3	Rorona	ロロナ	まずはミミちゃんからやってみよっか	Rorona	Mimi, why don't you go first?	萝乐娜	就先从敏敏开始吧。	蘿樂娜	先從敏敏開始試試看吧。
+SeasonalTalkEvent_005_00_018ID	4	Mimi	ミミ	はい、よろしくお願いします。\n何かありましたら、容赦なくご指摘を	Mimi	Sure, not a problem. If you see any issues, please don't hesitate to point them out.	敏敏	好的，请多指教。\n如果有不对的地方，还请前辈们直接指出。	敏敏	是，請多多指教。\n如果我有做得不對的地方，還請直接指正。
+SeasonalTalkEvent_005_00_018ID	5	Mimi	ミミ	……こんなところでしょうか。\nちょっとした傷薬を作ってみましたが	Mimi	There, how about that? It's nothing much, though. Just some ointment.	敏敏	基本完成了……\n我做了些简单的伤药，请前辈过目。	敏敏	……差不多這樣吧。\n我試著做了點傷藥……
+SeasonalTalkEvent_005_00_018ID	6	Sophie	ソフィー	うん、ばっちりだね！\n教科書通り。基礎はしっかりしてるよ	Sophie	Yep, this is practically perfect! Just like a textbook synthesis. You've got a good grasp of the basics.	苏菲	嗯，很完美！\n和教材上的一模一样，你基础很扎实呢。	蘇菲	嗯，做得很好！\n跟教科書上的一樣，基礎很紮實。
+SeasonalTalkEvent_005_00_018ID	7	Marie	マリー	これから応用を覚えていけば、\nぐんぐん上達していくわよ	Marie	Yes, and with a little more practical experience, I'm sure that you'll see steady improvement.	玛莉	如果之后能学会如何运用，\n就能获得突飞猛进的进步哦。	瑪莉	接下來只要記住如何應用，\n妳肯定能進步神速。
+SeasonalTalkEvent_005_00_018ID	8	Mimi	ミミ	ありがとうございます	Mimi	Thank you very much.	敏敏	感谢指导。	敏敏	謝謝老師。
+SeasonalTalkEvent_005_00_018ID	9	Marie	マリー	それじゃあ、次はレスナ。\nあなたの腕、見せてちょうだい！	Marie	Next up is Resna. Show off your skills!	玛莉	接下来是蕾斯娜。\n让我们看看你的本事吧！	瑪莉	好了，接下來是蕾斯娜。\n讓我見識一下妳的實力吧！
+SeasonalTalkEvent_005_00_018ID	10	Resna	レスナ	は、はい！	Resna	R-Right!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+SeasonalTalkEvent_005_00_018ID	11	Resna	レスナ	（いよいよだ……）	Resna	(Here it is, the moment of truth...)	蕾斯娜	（终于要来了……）	蕾斯娜	（終於輪到我了……）
+SeasonalTalkEvent_005_00_018ID	12	Resna	レスナ	（ずっと失敗し続けてきた調合……。\n　今度こそ成功させるんだ）	Resna	(I haven't had a single successful synthesis, but this time I'll get it right!)	蕾斯娜	（我过去在调合上失败了太多次……\n　今天一定要成功。）	蕾斯娜	（之前我調合總是失敗……\n　這次一定要成功。）
+SeasonalTalkEvent_005_00_018ID	13	Resna	レスナ	（こんなに器材も揃ってる。\n　理事長さんの推薦だって受けてるんだもん）	Resna	(Everything I need is right here. And even the chairman vouched for me.)	蕾斯娜	（毕竟这里器材齐全。\n　而且我还得到了理事长的推荐。）	蕾斯娜	（而且這裡的器材這麼齊全，\n　我還受到了理事長推薦。）
+SeasonalTalkEvent_005_00_018ID	14	Resna	レスナ	（ここで、私は変わるんだ！）	Resna	(This is my time to shine!)	蕾斯娜	（我要在这里脱胎换骨！）	蕾斯娜	（我要在這裡改變自己！）
+SeasonalTalkEvent_005_00_018ID	15	Resna	レスナ	……行きます！	Resna	Here goes nothing!	蕾斯娜	……我要开始了！	蕾斯娜	……我要開始了！
+SeasonalTalkEvent_005_00_018ID	16	Mimi	ミミ	…………	Mimi	...	敏敏	……	敏敏	…………
+SeasonalTalkEvent_005_00_018ID	17	Ryza	ライザ	…………	Ryza	...	莱莎	……	萊莎	…………
+SeasonalTalkEvent_005_00_018ID	18	Sophie	ソフィー	…………	Sophie	...	苏菲	……	蘇菲	…………
+SeasonalTalkEvent_005_00_018ID	19	Rorona	ロロナ	…………	Rorona	...	萝乐娜	……	蘿樂娜	…………
+SeasonalTalkEvent_005_00_018ID	20	Marie	マリー	…………	Marie	...	玛莉	……	瑪莉	…………
+SeasonalTalkEvent_005_00_018ID	21	Resna	レスナ	あ、あれ。また失敗……。\nすみません！　もう一度……！	Resna	Huh? Another failure... S-Sorry! I'll try that one more time!	蕾斯娜	奇、奇怪，又失败了……\n不好意思！我再试一次……！	蕾斯娜	奇、奇怪，又失敗了……\n不好意思！請讓我再試一次……！
+SeasonalTalkEvent_005_00_018ID	22	Marie	マリー	えっと、いったんやめよっか。\n今これ以上続けても多分、結果は変わらないから	Marie	Er, you're better off stopping there. I don't think the outcome will change no matter how many attempts you make.	玛莉	唔，先停一停吧。\n即使继续尝试，恐怕结果也不会改变。	瑪莉	呃，我們先暫停一下吧。\n我想就算繼續嘗試，結果應該也是不會變的。
+SeasonalTalkEvent_005_00_018ID	23	Mimi	ミミ	レスナさん、あなた……。\n才能がないのね	Mimi	Resna, you...don't have an ounce of talent for this.	敏敏	蕾斯娜同学，你……没有天赋呢。	敏敏	蕾斯娜同學，妳……\n沒有才能對吧？
+SeasonalTalkEvent_005_00_018ID	24	Resna	レスナ	……っ！	Resna	...!	蕾斯娜	……！	蕾斯娜	……唔！
+SeasonalTalkEvent_005_00_018ID	25	Sophie	ソフィー	ミミちゃん！	Sophie	Mimi!	苏菲	敏敏！	蘇菲	敏敏！
+SeasonalTalkEvent_005_00_018ID	26	Mimi	ミミ	事実です。それに、言ってあげるのが\n本人のためだと思います	Mimi	What? It's the truth. It's better for her to hear it straight.	敏敏	这是事实。而且实话实说才是为她好。	敏敏	這是事實。\n況且，我認為直說才是真的為她好。
+SeasonalTalkEvent_005_00_018ID	27	Mimi	ミミ	錬金術は才能がないとできないもの。\n才能がないのに夢を抱き続けるのは悲しいですよ	Mimi	You can't be an alchemist if you don't have the innate ability. Wouldn't it be crueler to let someone keep chasing a dream that won't ever come true?	敏敏	没有天赋的人走不了炼金术这条路。\n明明没有天赋却一直抱有幻想就太可悲了。	敏敏	沒有才能是無法使用鍊金術的。\n明明沒有才能卻繼續懷抱夢想才是最令人難過的。
+SeasonalTalkEvent_005_00_018ID	28	Rorona	ロロナ	それは……	Rorona	But...	萝乐娜	这个……	蘿樂娜	這……
+SeasonalTalkEvent_005_00_018ID	29	Ryza	ライザ	……ね、きっと今日は調子が悪いんだよね？\nまた明日やろう？	Ryza	Hey, I'm sure you were just having an off day. Why don't we try again tomorrow?	莱莎	……我说，一定是因为今天状态不好吧？\n明天再试试怎么样？	萊莎	……妳一定是今天狀況不好而已對吧？\n我們明天再試試吧？
+SeasonalTalkEvent_005_00_018ID	30	Sophie	ソフィー	あたしも、どこを直したらいいか\nちゃんと見てみるよ。今日は帰ろっか	Sophie	I'll pay more attention, too. Maybe we can figure out where things went wrong. Come on, let's head home for now.	苏菲	我也会仔细帮你看看哪里需要改进的。\n今天就先回去吧。	蘇菲	我也會好好幫妳看看有哪裡需要改進的，\n今天就先回去吧。
+SeasonalTalkEvent_005_00_018ID	31	Resna	レスナ	……はい	Resna	O-Okay.	蕾斯娜	好的……	蕾斯娜	……好的。
+SeasonalTalkEvent_005_00_018ID	32	Mimi	ミミ	…………	Mimi	...	敏敏	……	敏敏	…………
+SeasonalTalkEvent_005_00_019ID	0	Resna	レスナ	（……こうなるって、心のどこかで分かってた）	Resna	(Honestly, I knew deep in my heart that was how things were going to end.)	蕾斯娜	（……我心里也猜到会这样了。）	蕾斯娜	（……其實我心裡大概早就知道事情會變成這樣了。）
+SeasonalTalkEvent_005_00_019ID	1	Resna	レスナ	（推薦を受けて、学園に導かれて……\n　もしかしたらって思っちゃったんだ）	Resna	(I held out a bit of hope that since I'd come to the academy on a recommendation, then...)	蕾斯娜	（我心存侥幸地认为既然得到推荐，来到学园……\n　说不定自然就能成功了。）	蕾斯娜	（受到推薦來到這座學園……\n　讓我以為這次說不定會不一樣。）
+SeasonalTalkEvent_005_00_019ID	2	Resna	レスナ	（でも、私は何も変わってないから……。\n　できなかったことができるようになるわけじゃない）	Resna	(But nothing's any different. I haven't magically changed, so what I can and can't do hasn't changed, either.)	蕾斯娜	（结果我却毫无进境……\n　做不到的依然做不到。）	蕾斯娜	（但我根本沒有任何改變……\n　不可能突然就做得到本來做不到的事。）
+SeasonalTalkEvent_005_00_019ID	3	Marie	マリー	でも、あと１か月でなんとかしないとね	Marie	Ultimately, whatever happens...it has to be within the next month.	玛莉	但是，之后的1个月里我一定得想想办法。	瑪莉	不過，剩下這一個月得想想辦法才行。
+SeasonalTalkEvent_005_00_019ID	4	Sophie	ソフィー	そういえば、最初の試験は実技でしたっけ	Sophie	Right, that's when the first practical skills test is.	苏菲	说起来，我记得最开始的考试内容是实操吧。	蘇菲	話說回來，第一場考試考的是實作吧？
+SeasonalTalkEvent_005_00_019ID	5	Resna	レスナ	……１か月？　実技？	Resna	The what?	蕾斯娜	……1个月？实操？	蕾斯娜	……一個月？實作？
+SeasonalTalkEvent_005_00_019ID	6	Marie	マリー	１か月後に実技試験があるのよ。\n錬金術で何か作るっていう課題	Marie	There's an exam that takes place next month where you'll be asked to create something with alchemy.	玛莉	1个月后有实操考试。\n课题就是用炼金术制作物品。	瑪莉	一個月後會舉辦實作考試，\n考題是運用鍊金術製作物品。
+SeasonalTalkEvent_005_00_019ID	7	Resna	レスナ	え	Resna	Oh.	蕾斯娜	咦？	蕾斯娜	咦？
+SeasonalTalkEvent_005_00_019ID	8	Rorona	ロロナ	だから、それまでに調合ができるようになって\nおかないと、その……	Rorona	So, if you can't synthesize by then, well...	萝乐娜	所以，如果你在那之前\n学不会调合的话，就会……	蘿樂娜	所以，妳得在考試前學會調合才行，\n不然的話，那個……
+SeasonalTalkEvent_005_00_019ID	9	Resna	レスナ	もしかして……退、学！？	Resna	I-I'll be...expelled?!	蕾斯娜	难道我会被……退学？！	蕾斯娜	難道會被……退、學！？
+SeasonalTalkEvent_005_00_019ID	10	Resna	レスナ	――こうして、レスナの学園生活は\n終わりを告げるのでした……	Resna	And just like that, my school life was over.	蕾斯娜	——就这样，蕾斯娜的学园生活落下了帷幕……	蕾斯娜	──於是，\n蕾斯娜的校園生活就這樣宣告結束了……
+SeasonalTalkEvent_005_00_019ID	11	Ryza	ライザ	にはならないよ！\n大丈夫、なんとかなるって！	Ryza	That's not going to happen! Don't worry, we'll figure something out!	莱莎	不会这样的啦！\n别担心，一定有办法的！	萊莎	才不會呢！\n不要緊，一定會有辦法的！
+SeasonalTalkEvent_005_00_019ID	12	Marie	マリー	残りの１か月、頑張ろう！	Marie	You still have a month left, that's tons of time!	玛莉	还有1个月，我们一起加油吧！	瑪莉	還剩下一個月，一起加油吧！
+SeasonalTalkEvent_005_00_019ID	13	Resna	レスナ	……はい	Resna	O-Okay.	蕾斯娜	好的……	蕾斯娜	……好的。
+SeasonalTalkEvent_005_00_019ID	14	Resna	レスナ	（……そうは言っても。もう何年も、ダメだったんだ）	Resna	(They make it sound so easy, but things have been like this for years.)	蕾斯娜	（话虽如此，但我这么多年都没成功……）	蕾斯娜	（……話是這麼說，但我已經失敗這麼多年了。）
+SeasonalTalkEvent_005_00_019ID	15	Resna	レスナ	（あと１か月何かしたところで、本当に\n　できるようになるのかな？）	Resna	(Can I really pull off a proper synthesis after just one month?)	蕾斯娜	（难道接下来努力1个月就能做到吗？）	蕾斯娜	（就算我在剩下的這一個月裡做了什麼努力，\n　真的能學會調和嗎？）
+SeasonalTalkEvent_005_00_019ID	16	Resna	レスナ	やっぱり、無理かなあ……	Resna	I don't know, it feels pretty impossible.	蕾斯娜	果然不行啊……	蕾斯娜	我看還是不行吧……
+SeasonalTalkEvent_005_00_019ID	17	Saskia	ザスキア	…………	Saskia	...	萨丝琪亚	……	薩絲琪亞	…………
+SeasonalTalkEvent_005_00_019ID	18	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_019ID	19	Saskia	ザスキア	気にしないで？　どうぞ続けて	Saskia	Don't mind me. Please, go about your business.	萨丝琪亚	别在意我，继续做你的事吧。	薩絲琪亞	別在意我，請繼續。
+SeasonalTalkEvent_005_00_019ID	20	Resna	レスナ	いえ、あの……	Resna	No, um...	蕾斯娜	呃，请问……	蕾斯娜	不，那個……
+SeasonalTalkEvent_005_00_019ID	21	Resna	レスナ	わ、私を見るのが、楽しいですか？	Resna	I-Is watching me fun?	蕾斯娜	看、看着我很有趣吗？	蕾斯娜	請、請問，觀察我很有趣嗎？
+SeasonalTalkEvent_005_00_019ID	22	Saskia	ザスキア	今は楽しくないわね。この後楽しくなるのを待ってる	Saskia	At the moment? Not particularly. Though, I believe it won't be long before things pick up.	萨丝琪亚	现在不太有趣。我在等今后变得有趣。	薩絲琪亞	現在是不有趣，不過我在等待未來會變得有趣。
+SeasonalTalkEvent_005_00_019ID	23	Resna	レスナ	は、はあ	Resna	Uh...huh.	蕾斯娜	这、这样啊。	蕾斯娜	這、這樣啊。
+SeasonalTalkEvent_005_00_019ID	24	Resna	レスナ	え……食べてるの、Ｃ定食ですか？\n美味しくないと聞いたのですが……	Resna	Um, are you eating the...C set? I heard that it wasn't very tasty.	蕾斯娜	咦……您是在吃C套餐吗？\n我听说C套餐不是很好吃……	蕾斯娜	咦……老師妳正在吃C套餐嗎？\n但我聽說那個套餐不太好吃……
+SeasonalTalkEvent_005_00_019ID	25	Saskia	ザスキア	美味しくないわね	Saskia	It isn't.	萨丝琪亚	的确不是很好吃。	薩絲琪亞	的確不好吃。
+SeasonalTalkEvent_005_00_019ID	26	Resna	レスナ	なのに、なぜ食べているのでしょうか？	Resna	Then why did you pick it?	蕾斯娜	那为什么还要吃这个呢？	蕾斯娜	那老師為什麼要吃呢？
+SeasonalTalkEvent_005_00_019ID	27	Saskia	ザスキア	では、ここで問題。\nＣ定食はなぜ不味いのでしょうか？	Saskia	All right, here's a question for you. What makes the C set so unpalatable?	萨丝琪亚	我先问问你。\nC套餐为什么不好吃呢？	薩絲琪亞	那麼，我來考考妳。\n為什麼C套餐會難吃呢？
+SeasonalTalkEvent_005_00_019ID	28	Resna	レスナ	え……不味く作っているからですか？	Resna	Um... They did it that way on purpose?	蕾斯娜	唔……是故意做成这种味道的吗？	蕾斯娜	呃……是因為廚師故意煮得不好吃嗎？
+SeasonalTalkEvent_005_00_019ID	29	Saskia	ザスキア	不正解	Saskia	Incorrect.	萨丝琪亚	不对。	薩絲琪亞	錯。
+SeasonalTalkEvent_005_00_019ID	30	Resna	レスナ	味音痴だから？	Resna	No one's tastes are sophisticated enough for it?	蕾斯娜	因为厨师味觉不灵敏？	蕾斯娜	因為廚師是味覺白癡？
+SeasonalTalkEvent_005_00_019ID	31	Saskia	ザスキア	それも不正解	Saskia	Also incorrect.	萨丝琪亚	也不对。	薩絲琪亞	還是錯。
+SeasonalTalkEvent_005_00_019ID	32	Resna	レスナ	え、えーっと……じゃあ、単純に料理が下手だから？	Resna	U-Uh... Ummm... Whoever made it just isn't any good at cooking?	蕾斯娜	唔，那……是因为厨师本身厨艺就是不好吗？	蕾斯娜	呃、呃……那、單純是因為廚師不太會料理？
+SeasonalTalkEvent_005_00_019ID	33	Saskia	ザスキア	正解	Saskia	There you go.	萨丝琪亚	对了。	薩絲琪亞	正確答案。
+SeasonalTalkEvent_005_00_019ID	34	Resna	レスナ	え。でも、他の料理は美味しいですよ？	Resna	Huh? But everything else on the menu tastes just fine!	蕾斯娜	咦，可是其他料理很好吃啊？	蕾斯娜	咦？可是其他料理都很好吃呀？
+SeasonalTalkEvent_005_00_019ID	35	Saskia	ザスキア	Ｃ定食はね。料理人見習いの子に作らせているの。\n好きに作ってみろって、自由にさせてね	Saskia	Ah, but the C special is crafted daily by a chef who is still undergoing their apprenticeship. By and large, they're given the freedom to do as they please.	萨丝琪亚	C套餐是实习厨师制作的。\n实习厨师得到的指示是可以自由制作自己想做的料理。	薩絲琪亞	C套餐啊，是見習廚師做的。\n他們可以自由嘗試，想做什麼就做什麼。
+SeasonalTalkEvent_005_00_019ID	36	Saskia	ザスキア	もちろん美味しくないから、ぜんぜん頼まれない。\n悔しいでしょうね。見習いの子は	Saskia	The end result is something that isn't the slightest bit delicious, and no one ever orders it. You can't help but feel for that poor trainee.	萨丝琪亚	不过因为不好吃，自然没人点。\n想必实习厨师会觉得很不甘心吧。	薩絲琪亞	當然因為不好吃，所以根本沒人點。\n我想見習生應該也很不甘心吧。
+SeasonalTalkEvent_005_00_019ID	37	Saskia	ザスキア	でも日々、経験を積んで、改良を重ねて……。\nいつしか美味しいものになる	Saskia	However, as their experience grows...someday, all those improvements will turn into a selection of wonderful dishes.	萨丝琪亚	但是只要每天积累经验，不断改良……\n不知不觉间厨艺就会精进，做出好吃的饭菜。	薩絲琪亞	不過只要每天積累經驗，不斷改良……\n遲早會做出美味的料理。
+SeasonalTalkEvent_005_00_019ID	38	Saskia	ザスキア	そしたら晴れてＡ定食やＢ定食を任されるようになる	Saskia	And then, they'll be trusted to do the dishes for the A or B specials.	萨丝琪亚	然后他们就可以去制作A套餐或B套餐了。	薩絲琪亞	最終他們便能擔起A、B套餐的製作工作。
+SeasonalTalkEvent_005_00_019ID	39	Saskia	ザスキア	私はね。その時を待ってるのよ	Saskia	That's what I'm waiting for.	萨丝琪亚	我就是在等待那一刻的到来。	薩絲琪亞	我呀，就是在等待那一刻的到來。
+SeasonalTalkEvent_005_00_019ID	40	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_019ID	41	Resna	レスナ	…………！	Resna	...!	蕾斯娜	……！	蕾斯娜	…………！
+SeasonalTalkEvent_005_00_019ID	42	Resna	レスナ	あの、ありがとうございます。\nもうちょっと、頑張ってみます！	Resna	Um... Thank you very much! I'm going to try a little harder!	蕾斯娜	谢谢老师。\n我会再努力看看的！	蕾斯娜	那個，謝謝老師。\n我會再試著努力一下的！
+SeasonalTalkEvent_005_00_019ID	43	Saskia	ザスキア	あら、何がかしら	Saskia	Oh? At what, I wonder.	萨丝琪亚	咦，谢我什么呀？	薩絲琪亞	哎呀，妳是指什麼事呢？
+SeasonalTalkEvent_005_00_019ID	44	Resna	レスナ	……ザスキア先生って、不思議な人ですね	Resna	Miss Saskia, you sure are odd.	蕾斯娜	萨丝琪亚老师……您真是个不可思议的人。	蕾斯娜	……薩絲琪亞老師，妳真是個不可思議的人。
+SeasonalTalkEvent_005_00_019ID	45	Saskia	ザスキア	よく言われるわ	Saskia	Mm, I do get that a lot.	萨丝琪亚	经常有人这么说我。	薩絲琪亞	經常有人這麼說。
+SeasonalTalkEvent_005_00_020ID	0	Resna	レスナ	（考えたこともなかった。\n　調合したものを待っている人がいるなんて）	Resna	(I don't need to think too hard about it. Someone, somewhere, is waiting for something I'll eventually create.)	蕾斯娜	（我从未想过，\n　居然会有人期待我的调合成果。）	蕾斯娜	（我從來都沒想過，\n　會有人在等待我調合出來的東西。）
+SeasonalTalkEvent_005_00_020ID	1	Resna	レスナ	（人々を幸せにしたい。そう思うなら、\n　真っ先に気が付かなくちゃいけなかったのに）	Resna	(I want to make people happy. That's what I should be focusing on.)	蕾斯娜	（我想为人们带去幸福。\n　既然如此，我早该意识到这件事才对。）	蕾斯娜	（我想為人們帶來幸福。\n　有這種願望的話，本來應該要最先意識到這點才對。）
+SeasonalTalkEvent_005_00_020ID	2	Resna	レスナ	（待ってくれている人が一人でもいるなら、\n　私は……諦めるわけにはいかない！）	Resna	(Even if there's just one person waiting for me to get it right, then...I can't give up!)	蕾斯娜	（只要有一个人对我抱有期待，\n　那我……就不能放弃！）	蕾斯娜	（只要還有一個人願意等待，\n　我……就絕不能放棄！）
+SeasonalTalkEvent_005_00_020ID	3	Marie	マリー	わ！　レスナ？\nこんな朝早くからどうしたの？	Marie	Oh! Resna? What are you doing here so early?	玛莉	哇！蕾斯娜？\n你怎么一大早就在这里？	瑪莉	哇！蕾斯娜？\n怎麼這麼早就來了？
+SeasonalTalkEvent_005_00_020ID	4	Resna	レスナ	マルローネ先生！\n少しでも調合の練習がしたくて	Resna	Miss Marlone! I'd really like to practice synthesizing! Every little bit will help!	蕾斯娜	玛洛娜老师！\n我想多练习一下调合。	蕾斯娜	瑪洛娜老師！\n因為我實在很想多練習一下調合……
+SeasonalTalkEvent_005_00_020ID	5	Marie	マリー	……そう	Marie	I see.	玛莉	……这样啊。	瑪莉	……這樣啊。
+SeasonalTalkEvent_005_00_020ID	6	Marie	マリー	よかった。昨日は撃沈してたように見えたから。\n今日は元気がないんじゃないかなって思ってたの	Marie	Thank goodness. You looked so down yesterday that I wouldn't have expected you to bounce back so quickly.	玛莉	太好了。昨天你看上去大受打击，\n我还担心你今天会很消沉呢。	瑪莉	太好了，妳昨天看起來那麼消沉，\n我還擔心妳今天會不會沒有活力呢。
+SeasonalTalkEvent_005_00_020ID	7	Marie	マリー	レスナが諦めない限り、あたしも精一杯教えるから。\nあと１か月、頑張ろう！	Marie	If you aren't giving up, then I'll do everything I can to help. Let's work our hardest for the whole month!	玛莉	只要蕾斯娜不放弃，我也会尽全力教你的。\n在剩下的1个月里加油练习吧！	瑪莉	只要妳還沒放棄，我就會盡全力教導妳的。\n還有一個月，一起加油吧！
+SeasonalTalkEvent_005_00_020ID	8	Resna	レスナ	はい！	Resna	Okay!	蕾斯娜	好的！	蕾斯娜	是！
+SeasonalTalkEvent_005_00_020ID	9	Marion	マリオン	はーい、みんなよく聞いて！　今度実施する、\n錬金術の実技試験について説明するわよ	Marion	All right, everyone! Listen up! I have information for you about the upcoming practical.	玛丽翁	来，同学们都听好！下面我要介绍一下\n即将举行的炼金术实操考试。	瑪麗翁	來～大家聽好了！\n我要開始說明接下來要舉辦的鍊金術實作考試了。
+SeasonalTalkEvent_005_00_020ID	10	Resna	レスナ	（これが、マルローネ先生の言ってた試験！\n　どんな内容なんだろう……）	Resna	(That's the test that Miss Marlone mentioned! I wonder what it's going to be on.)	蕾斯娜	（这就是玛洛娜老师提到的考试！\n　会是什么样的内容呢……）	蕾斯娜	（這就是瑪洛娜老師說的考試！\n　不知道會是什麼樣的內容……）
+SeasonalTalkEvent_005_00_020ID	11	Marion	マリオン	試験の内容はいたってシンプルよ。\nテーマに沿った道具をみんなの前で調合するだけ	Marion	The test is quite simple, really. All you need to do is synthesize an item that fits the prompt.	玛丽翁	考试内容非常简单。\n大家只需要根据主题调合道具即可。	瑪麗翁	考試內容很簡單。\n只要在大家面前調合出符合主題的道具就可以了。
+SeasonalTalkEvent_005_00_020ID	12	Marion	マリオン	今回のテーマは……\n「癒しを与える道具」	Marion	"The subject this time will be... ""healing tools."""	玛丽翁	本次的主题是……\n“带去治愈的道具”。	瑪麗翁	這次的主題是……\n「賦予治癒的道具」。
+SeasonalTalkEvent_005_00_020ID	13	Marion	マリオン	固定観念にとらわれず、\n自由な発想で道具を調合してちょうだい	Marion	You may approach the prompt from any angle you see fit, so be sure to try and think outside the box.	玛丽翁	不要被固有观念束缚住，\n请用你们自由的想象来调合道具吧。	瑪麗翁	請同學不要拘泥於刻板印象，\n自由發揮想像力調合出道具。
+SeasonalTalkEvent_005_00_020ID	14	Resna	レスナ	（傷を癒す……心を癒す……\n　「癒し」って色んな意味があるよね）	Resna	"(""Healing"" does have a lot of potential meanings. Sure, there are external wounds, but also less visible ones, like a broken heart...)"	蕾斯娜	（治愈伤口……治愈心灵……\n　“治愈”包含着很多层意思呢。）	蕾斯娜	（治癒傷口……治癒內心……\n　「治癒」有各種不同的涵義呢。）
+SeasonalTalkEvent_005_00_020ID	15	Resna	レスナ	ミミちゃんは何を作るの？	Resna	What will you be making, Mimi?	蕾斯娜	敏敏你要做什么呀？	蕾斯娜	敏敏打算製作什麼呢？
+SeasonalTalkEvent_005_00_020ID	16	Mimi	ミミ	……もちろん、薬です。\n癒しと言われれば、これは外せないでしょう	Mimi	Medicine, naturally. When it comes to healing, what else is there?	敏敏	……那当然是药了。\n说到治愈，做药是肯定不会错的。	敏敏	……當然是藥。\n都說是治癒了，肯定脫離不了藥的範疇吧。
+SeasonalTalkEvent_005_00_020ID	17	Resna	レスナ	やっぱりそっち方面なのかな。\nうーん……	Resna	I suppose that really is the best way to go, huh? Hm...	蕾斯娜	果然是这个思路啊。\n唔……	蕾斯娜	果然是這個方向嗎。\n嗯……
+SeasonalTalkEvent_005_00_020ID	18	Mimi	ミミ	まあ、レスナさんはそもそも調合ができるように\nならないと始まらないですが	Mimi	Well, you've got a lot more to worry about than just that. You have to be able to synthesize first.	敏敏	不过说到底，蕾斯娜同学如果不先学会调合，\n后面的一切就都免谈了啊。	敏敏	不過蕾斯娜同學，妳得先學會調合，\n否則一切就只是空談罷了。
+SeasonalTalkEvent_005_00_020ID	19	Resna	レスナ	うん、それもそうだね！\n考えるのは後にしよう！	Resna	Yep, that's true! I'll worry about the details later!	蕾斯娜	嗯，说得也是！\n我之后再想这些吧！	蕾斯娜	嗯，說得也對！\n題目的事還是晚點再思考吧！
+SeasonalTalkEvent_005_00_020ID	20	Mimi	ミミ	…………	Mimi	...	敏敏	……	敏敏	…………
+SeasonalTalkEvent_005_00_020ID	21	Resna	レスナ	ソフィー先輩！　調合するところを見てて\nいただけませんか！	Resna	Sophie! Would you mind watching me synthesize?	蕾斯娜	苏菲前辈！我要调合了，可以帮我看看吗？	蕾斯娜	蘇菲學姐！\n可以請妳幫忙看我調合嗎？
+SeasonalTalkEvent_005_00_020ID	22	Sophie	ソフィー	いいよ。おかしなところがあったら\n指摘するね！	Sophie	Not at all! If I spot anything odd, I'll be sure to point it out!	苏菲	好啊。如果有不对的地方，\n我会指出来的！	蘇菲	好啊，\n如果有奇怪的地方，我會指正妳的！
+SeasonalTalkEvent_005_00_020ID	23	Sophie	ソフィー	うーん、なんだろうなあ。\n才能がないというより……うーん……	Sophie	Hm, I wonder. It's not that you don't have any talent, it's more like, um...	苏菲	唔——该怎么说呢。\n与其说是没有天赋……唔……	蘇菲	嗯～該怎麼說呢？\n與其說妳沒有才能，不如說妳……嗯……
+SeasonalTalkEvent_005_00_020ID	24	Sophie	ソフィー	センスがない？	Sophie	You've got no sense for it?	苏菲	更像没有品味吧？	蘇菲	沒有抓到感覺？
+SeasonalTalkEvent_005_00_020ID	25	Resna	レスナ	ぐぇっ！　才能がないと言われるより、\nなぜか深く傷つくような……	Resna	Gah! That's somehow worse than hearing that I don't have the knack.	蕾斯娜	呜！感觉比没有天赋杀伤力还要大……	蕾斯娜	唔呃！\n這句話怎麼好像比沒有才能更傷人……
+SeasonalTalkEvent_005_00_020ID	26	Sophie	ソフィー	ごめん！　そんなつもりはないよ！	Sophie	I'm sorry! I really didn't mean anything bad by it!	苏菲	对不起！这不是我的本意！	蘇菲	抱歉！我沒那個意思啦！
+SeasonalTalkEvent_005_00_020ID	27	Sophie	ソフィー	ただ、間違った自己流の動きをずっと続けてきて\n身に染み付いちゃったんじゃないかな	Sophie	It's just... I think that you've been doing your self-taught movements for so long that whichever parts are wrong are ingrained in your muscle memory now.	苏菲	我猜可能因为你一直在坚持自己那套错误的做法，\n结果已经养成了坏习惯吧？	蘇菲	只是我想可能是因為妳一直以來都用自創的錯誤動作，\n導致久而久之養成了壞習慣。
+SeasonalTalkEvent_005_00_020ID	28	Sophie	ソフィー	だからまだ、錬金術を掴めてないんだと思うんだ	Sophie	Which would explain why you can't get the hang of it.	苏菲	所以你才掌握不了炼金术。	蘇菲	所以才會到現在都還沒掌握鍊金術的訣竅。
+SeasonalTalkEvent_005_00_020ID	29	Resna	レスナ	そ、そうなんですね……	Resna	That does make sense...	蕾斯娜	是、是这样啊……	蕾斯娜	原、原來是這樣啊……
+SeasonalTalkEvent_005_00_020ID	30	Resna	レスナ	マルローネ先生、この部室、\n泊まり込みで使ってはダメでしょうか？	Resna	Um, Miss Marlone, could I maybe stay in the club room overnight?	蕾斯娜	玛洛娜老师，\n我可不可以在这间活动室过夜啊？	蕾斯娜	瑪洛娜老師，\n我能不能借住在這間社團教室練習？
+SeasonalTalkEvent_005_00_020ID	31	Resna	レスナ	もっともっと、練習の時間が欲しくて……	Resna	I'd like to get in even more practice, so...	蕾斯娜	我需要更多更多的练习时间……	蕾斯娜	因為我真的很想要多一些時間練習……
+SeasonalTalkEvent_005_00_020ID	32	Marie	マリー	さすがに泊まるのは許可できないかなあ。\n夕方と朝の時間を上手く使ってね	Marie	Sorry, I can't let you do that. You'll just have to make the most of your mornings and evenings.	玛莉	这个要求我实在是不能答应。\n请你好好利用傍晚和早上的时间吧。	瑪莉	留宿是真的沒辦法，\n妳好好利用早晨和傍晚的時間吧。
+SeasonalTalkEvent_005_00_020ID	33	Resna	レスナ	うう、分かりました……	Resna	Okay...	蕾斯娜	呜呜，好吧……	蕾斯娜	嗚……我明白了……
+SeasonalTalkEvent_005_00_021ID	0	Resna	レスナ	はあ……今日もダメだったなあ……	Resna	*Sigh* Today was another bust...	蕾斯娜	唉……今天也没成功……	蕾斯娜	唉……今天還是失敗了……
+SeasonalTalkEvent_005_00_021ID	1	Sophie	ソフィー	……レスナちゃんってさ。\n調合は学園に来てから初めてやったの？	Sophie	Say, Resna? Did you only start synthesizing when you got here?	苏菲	……蕾斯娜，\n你是来到学园后才进行了第一次调合吗？	蘇菲	……話說蕾斯娜，\n妳是進學園後才第一次進行調合嗎？
+SeasonalTalkEvent_005_00_021ID	2	Resna	レスナ	いえ……実家ではずっと調合の練習をしてました。\n１０００回やって１回も成功しなかったですけど……	Resna	No, I practiced a whole bunch at home. I couldn't even manage one successful synthesis out of a thousand...	蕾斯娜	不是的……我在老家一直都在练习调合。\n不过尝试了一千次却一次都没成功……	蕾斯娜	不是……我在老家一直都有在練習調合。\n但練了一千次卻連一次都沒有成功……
+SeasonalTalkEvent_005_00_021ID	3	Sophie	ソフィー	そ、そんなに！？　いちいち数えてることも\nすごいけど……努力してたんだね	Sophie	Y-You've tried that many times?! And you counted them all, too? Wow, that would have been so much work...	苏菲	那、那么多次？！亏你还把次数都记下来了……\n看来你真的很努力啊。	蘇菲	這、這麼多次！？能把次數都記下來也是很厲害……\n妳努力了很久耶。
+SeasonalTalkEvent_005_00_021ID	4	Sophie	ソフィー	でも、そうなるとやっぱり……言いにくいけど、\n錬金術の才能はない……のかも	Sophie	But, in that case, as much as I hate to say it... It's possible that you might just...not have the right skills.	苏菲	可如果是这样的话……虽然很难说出口，\n但你可能真的没有炼金术的天赋……	蘇菲	不過既然如此，那……雖然有些難以啟齒，\n但妳也許……真的沒有鍊金術的才能。
+SeasonalTalkEvent_005_00_021ID	5	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_021ID	6	Sophie	ソフィー	ほ、ほら！　そんな努力ができるなら、\n錬金術以外の道だってきっと目指せるよ！	Sophie	A-And, you know! With that kind of dedication, I'm sure you'd excel in anything you put your mind to! Even if it's not alchemy!	苏菲	不、不过！相信像你这样肯努力的人\n一定也能找到炼金术之外的目标！	蘇菲	妳、妳想嘛！既然妳都能努力做到這麼多了，\n那肯定也能找到鍊金術以外的出路！
+SeasonalTalkEvent_005_00_021ID	7	Sophie	ソフィー	今は科学があるし、きっとレスナちゃんなら\n科学の第一人者になれるんじゃないかな？	Sophie	Like, there's the general sciences program here, right? I bet you'd top all the charts in those tests!	苏菲	现在还有科学这条路啊，\n蕾斯娜你一定有能力成为科学先驱吧？	蘇菲	這個年代也還有科學，憑妳的能力，\n應該能成為科學界的權威吧？
+SeasonalTalkEvent_005_00_021ID	8	Resna	レスナ	……ソフィー先輩のいうことは、\nもっともだと思います	Resna	...I don't disagree with you, Sophie. I've thought that way for a while now.	蕾斯娜	……苏菲前辈的建议非常合情合理。	蕾斯娜	……我覺得蘇菲學姐說得很有道理。
+SeasonalTalkEvent_005_00_021ID	9	Resna	レスナ	でも、私……。\nどうしても自分の夢を諦められない	Resna	But, still... I can't give up on this dream.	蕾斯娜	但是……\n我无论如何都无法放弃自己的梦想。	蕾斯娜	但是我……\n無論如何都無法放棄自己的夢想。
+SeasonalTalkEvent_005_00_021ID	10	Resna	レスナ	お父さんみたいな錬金術士になりたいって\nずっとずっと思ってきたんです	Resna	I've always wanted to be an alchemist, just like my dad was.	蕾斯娜	我一直以来都想成为像爸爸那样的炼金术士。	蕾斯娜	我從小就一直想成為像我爸爸一樣的鍊金術士。
+SeasonalTalkEvent_005_00_021ID	11	Sophie	ソフィー	……お父さんが錬金術士だったんだね	Sophie	"Wait, ""was""?"	苏菲	……原来你爸爸是炼金术士啊。	蘇菲	……原來妳爸爸是鍊金術士啊。
+SeasonalTalkEvent_005_00_021ID	12	Resna	レスナ	はい。何年も前に病気で\n亡くなってしまったんですけど……	Resna	Yeah. He passed away from an illness years ago, but...	蕾斯娜	是的。不过几年前他因病去世了……	蕾斯娜	是的，\n雖然他在幾年前就因病去世了……
+SeasonalTalkEvent_005_00_021ID	13	Sophie	ソフィー	…………！	Sophie	...!	苏菲	……！	蘇菲	…………！
+SeasonalTalkEvent_005_00_021ID	14	Resna	レスナ	家にはお父さんが残してくれた\n錬金術に関する本がたくさんありました	Resna	He kept a lot of books about alchemy at home. They're all I have left of him.	蕾斯娜	我家里有许多爸爸留下的炼金术书籍。	蕾斯娜	我家裡有很多爸爸留下來的鍊金術書籍。
+SeasonalTalkEvent_005_00_021ID	15	Resna	レスナ	お母さんが仕事で家にいない間、私の相手を\nしてくれたのはその本だけでした	Resna	My mom isn't home very much, because of work, so those books were my closest friends.	蕾斯娜	妈妈上班不在家的时候，\n陪伴我的只有那些书。	蕾斯娜	媽媽出門工作的時候，\n陪著我的就只有那些書了。
+SeasonalTalkEvent_005_00_021ID	16	Sophie	ソフィー	…………	Sophie	...	苏菲	……	蘇菲	…………
+SeasonalTalkEvent_005_00_021ID	17	Resna	レスナ	いつしか、錬金術が魅せてくれる\n夢や希望に憧れを抱くようになって……	Resna	Before I knew it, alchemy had stolen my heart. It was all I ever wanted to strive for.	蕾斯娜	不知不觉中，我被炼金术迷住了，\n心中燃起了梦想和希望……	蕾斯娜	不知道從什麼時候開始，\n我嚮往起了鍊金術所展現的美好夢想和希望……
+SeasonalTalkEvent_005_00_021ID	18	Resna	レスナ	私もお父さんみたいな錬金術士になりたいって、\nそう思うようになったんです	Resna	I just...want to be the sort of alchemist my dad would be proud of.	蕾斯娜	我开始想要成为\n像我爸爸那样的炼金术士。	蕾斯娜	也開始希望自己能成為像爸爸一樣的鍊金術士。
+SeasonalTalkEvent_005_00_021ID	19	Sophie	ソフィー	そっ……	Sophie	That's...	苏菲	原……	蘇菲	這……
+SeasonalTalkEvent_005_00_021ID	20	Resna	レスナ	そ？	Resna	Yeah?	蕾斯娜	原？	蕾斯娜	這？
+SeasonalTalkEvent_005_00_021ID	21	Sophie	ソフィー	そっかあ……レスナちゃんも、苦労してたんだねえ……	Sophie	That's so sad... You've had such a tough go of things, Resna!	苏菲	原来是这样……蕾斯娜你也吃了很多苦啊……	蘇菲	這樣啊……蕾斯娜妳一路以來走得很辛苦吧……
+SeasonalTalkEvent_005_00_021ID	22	Resna	レスナ	ええっ！？\nソフィー先輩、泣いてる！？	Resna	Huh?! S-Sophie, are you crying?	蕾斯娜	哎呀？！\n苏菲前辈，你怎么哭了？！	蕾斯娜	咦咦！？\n蘇菲學姐，妳怎麼哭了！？
+SeasonalTalkEvent_005_00_021ID	23	Sophie	ソフィー	そんな話を聞いちゃったら、\nあたしも一肌脱がずにいられない！！	Sophie	Who wouldn't, after a story like that?! Don't worry, I'm going to do everything I can to help!	苏菲	听了你的故事，\n我说什么都想助你一臂之力！！	蘇菲	聽到這樣的故事，\n我都忍不住想助妳一臂之力了！！
+SeasonalTalkEvent_005_00_021ID	24	Sophie	ソフィー	レスナちゃん！　死ぬ気でやる覚悟があるなら、\nあたしに１つ手があるよ	Sophie	So! Resna! If you're ready to go absolutely all out, I've got one more thing that we could try.	苏菲	蕾斯娜！如果你愿意抱着必死的决心去做的话，\n我倒是有一个办法。	蘇菲	蕾斯娜！\n如果妳有拚命努力的決心，那我還有一個方法。
+SeasonalTalkEvent_005_00_021ID	25	Resna	レスナ	ほ、本当ですか！？\n私にできることなら、なんでもやります！	Resna	Y-You do?! Whatever it is, I'm in!	蕾斯娜	真、真的吗？！\n只要是我能做到的，我都愿意做！	蕾斯娜	真、真的嗎！？\n只要是我能辦到的事，我什麼都願意做！
+SeasonalTalkEvent_005_00_022ID	0	Marion	マリオン	それでは出欠を取ります。\nミミさん	Marion	All right, I'll be taking attendance. Mimi?	玛丽翁	接下来开始点名。\n敏敏同学。	瑪麗翁	接著開始點名。敏敏同學。
+SeasonalTalkEvent_005_00_022ID	1	Mimi	ミミ	はい	Mimi	Present.	敏敏	到。	敏敏	到。
+SeasonalTalkEvent_005_00_022ID	2	Marion	マリオン	レスナさん	Marion	Resna?	玛丽翁	蕾斯娜同学。	瑪麗翁	蕾斯娜同學。
+SeasonalTalkEvent_005_00_022ID	3	Marie	マリー	はあい	Marie	Heeere!	玛莉	到——	瑪莉	到～
+SeasonalTalkEvent_005_00_022ID	4	Marion	マリオン	……何をふざけているんですか？\nマルローネ先生	Marion	...Marlone, what are you doing here?	玛丽翁	……你是在搞什么恶作剧吗，\n玛洛娜老师？	瑪麗翁	……瑪洛娜老師，妳在胡鬧什麼啊？
+SeasonalTalkEvent_005_00_022ID	5	Marie	マリー	えーっと……あはは。これはその、なんというか……	Marie	Er, well... Ahaha... You see, the thing is...	玛莉	唔……啊哈哈。这个嘛，怎么说好呢……	瑪莉	這個……啊哈哈，這該怎麼說呢……
+SeasonalTalkEvent_005_00_022ID	6	Marion	マリオン	しばらく学校を休む！？	Marion	She's taking a break from school?!	玛丽翁	暂时不来上学了？！	瑪麗翁	她要請假一陣子！？
+SeasonalTalkEvent_005_00_022ID	7	Marie	マリー	うん。それで、ソフィーの実家に泊まり込んで\n調合の練習をするんだって	Marie	Yes, she'll be staying at Sophie's house to do some dedicated synthesis training.	玛莉	嗯。她们说要住在苏菲家里练习调合。	瑪莉	嗯，聽說她要住進蘇菲的老家練習調合。
+SeasonalTalkEvent_005_00_022ID	8	Ryza	ライザ	ソフィーの実家には調合用の器材があるんです	Ryza	She has everything they'd need at home, after all.	莱莎	她家里有用来调合的器材。	萊莎	蘇菲的老家那裡有調合用的器材。
+SeasonalTalkEvent_005_00_022ID	9	Ryza	ライザ	部室への泊まり込みはダメでも、\nこれなら問題ないですよね？	Ryza	And staying in the club room's a no-go, of course. So wouldn't that be a good compromise?	莱莎	既然老师不同意她在活动室过夜，\n那在苏菲家应该就没问题了吧？	萊莎	既然她不能住進社團教室，\n那這樣就沒問題了吧？
+SeasonalTalkEvent_005_00_022ID	10	Marion	マリオン	うん、それは大丈夫。大丈夫なんだけど……	Marion	No, it's a fair solution. It's just...	玛丽翁	嗯，没问题。这个倒是没问题……	瑪麗翁	嗯，雖然這麼做是沒問題，但是……
+SeasonalTalkEvent_005_00_022ID	11	Marion	マリオン	だからといってどうして授業を休むことになるの！	Marion	Does it have to come at the expense of her regular schooling? Honestly!	玛丽翁	但为什么会不来上学呢！	瑪麗翁	就算是這樣，怎麼就變成請假不來上課了啊！
+SeasonalTalkEvent_005_00_022ID	12	Rorona	ロロナ	レスナちゃん、座学はよくできるみたいだから、\n授業に出るよりもそのほうがいいかなって	Rorona	I don't think a break would really hurt Resna. She's so good at studying, I'm sure she'd catch up in no time!	萝乐娜	蕾斯娜在讲座课程方面好像学得很好，\n所以与其来上课，还是去实践更好。	蘿樂娜	蕾斯娜聽課方面似乎很強，\n所以我想比起上課，還是練習調合會更好。
+SeasonalTalkEvent_005_00_022ID	13	Marion	マリオン	あなた委員長でしょ。\nそれを認めてどうするのよ	Marion	That's not something for a class president to decide.	玛丽翁	你不是班长吗，\n怎么能允许她们那么做啊。	瑪麗翁	妳是班長吧？\n怎麼能認同她的行為呢？
+SeasonalTalkEvent_005_00_022ID	14	Rorona	ロロナ	でも……そうしないと、\nレスナちゃん退学になっちゃうから！	Rorona	I know, but...she'd be in danger of flunking out if she didn't skip class for a bit!	萝乐娜	可是……如果不那么做，\n蕾斯娜会被退学的！	蘿樂娜	可是……如果不這樣做的話，\n蕾斯娜就要被退學了！
+SeasonalTalkEvent_005_00_022ID	15	Marie	マリー	ロ、ロロナの言う通り！　だから顧問の権限で\nこれを認めたの	Marie	E-Exactly! Marion, you're an advisor. This needs your seal of approval, but you know it's the right thing to do... Right?	玛莉	萝、萝乐娜说得对！\n所以我用顾问的权限批准了她们的做法。	瑪莉	蘿、蘿樂娜說得沒錯！\n所以我才會以指導老師的權限批准她這麼做。
+SeasonalTalkEvent_005_00_022ID	16	Marion	マリオン	……はあ。\nマルローネ先生、後でソフィーさんの家に行きますよ	Marion	*Sigh*... Marlone, you will be accompanying me on a visit to Sophie's house.	玛丽翁	……唉。\n玛洛娜老师，晚点和我一起去趟苏菲同学家。	瑪麗翁	……唉。\n瑪洛娜老師，妳待會跟我去一趟蘇菲家。
+SeasonalTalkEvent_005_00_022ID	17	Marie	マリー	う……はい	Marie	Er... Fine, that's fair.	玛莉	呜……知道了。	瑪莉	唔……知道了。
+SeasonalTalkEvent_005_00_022ID	18	Marie	マリー	ほら、やっぱり怒られた！\nだから嫌だったのにー	Marie	See, I knew she'd get mad at me! That's why I didn't want to be the one to break it to her!	玛莉	看吧，果然被骂了！\n所以我本来不想答应的。	瑪莉	我就說吧，她果然很生氣！\n所以我之前才不想答應嘛～
+SeasonalTalkEvent_005_00_022ID	19	Ryza	ライザ	ありがとうございます。\nそんな中、認めてくださって	Ryza	Still, you got Miss Marion to agree. Thanks, Miss Marlone.	莱莎	但你还是同意了她们那么做，真的非常感谢。	萊莎	謝謝老師即使這樣是還願意批准這件事。
+SeasonalTalkEvent_005_00_022ID	20	Marie	マリー	……だって、レスナ頑張ってるから。\n応援したくなるじゃない	Marie	Well, Resna really is trying her hardest. It makes you want to cheer her on.	玛莉	因为看到蕾斯娜那么努力，\n我也想为她加油啊。	瑪莉	……畢竟蕾斯娜她那麼努力，\n不就會讓人忍不住想幫幫她嗎？
+SeasonalTalkEvent_005_00_022ID	21	Marie	マリー	みんなもそうでしょ？	Marie	You all feel the same way, don't you?	玛莉	你们也是一样吧？	瑪莉	大家也都是這麼想的吧？
+SeasonalTalkEvent_005_00_022ID	22	Sophie	ソフィー	ここが、あたしの実家だよ	Sophie	So, this is my place!	苏菲	这里就是我的家。	蘇菲	這裡就是我的老家了。
+SeasonalTalkEvent_005_00_022ID	23	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_022ID	24	Resna	レスナ	（え、嘘。やっぱり、ソフィー先輩の家って\n　そういう……？）	Resna	(Um. What? No way. Her house is kind of full of, uhhh...)	蕾斯娜	（咦，真的假的。\n　苏菲前辈家果然是那种……？）	蕾斯娜	（咦？不會吧。\n　難道蘇菲學姐家果然是那種……？）
+SeasonalTalkEvent_005_00_022ID	25		不良Ａ	番長、おかえりなさい！	Delinquent A	Welcome home, boss!	不良A	恭迎大姐头！	不良學生A	老大，歡迎回來！
+SeasonalTalkEvent_005_00_022ID	26		不良Ｂ	あれ、コイツは……	Delinquent B	Huh. Ain't that...?	不良B	咦，这家伙是……	不良學生B	奇怪？那傢伙是……
+SeasonalTalkEvent_005_00_022ID	27	Resna	レスナ	ひ、ひええええ！！！	Resna	Eeek!	蕾斯娜	噫——！！！	蕾斯娜	咿、咿咿咿咿咿！！！
+SeasonalTalkEvent_005_00_023ID	0	Sophie	ソフィー	こーら！　番長じゃないって\n何度も言ってるでしょ！	Sophie	"Hey! How many times do I have to tell you? None of this ""boss"" business!"	苏菲	喂！说你们多少遍了，\n不要叫我大姐头！	蘇菲	你們幾個！\n我說過好幾次我不是老大了吧！
+SeasonalTalkEvent_005_00_023ID	1		不良Ａ	す、すいません……	Delinquent A	O-Our bad...	不良A	对、对不起……	不良學生A	對、對不起……
+SeasonalTalkEvent_005_00_023ID	2	Resna	レスナ	あ、あのあの、ソフィー先輩。\nここはその、どういう場所で……？	Resna	Um, Sophie? Wh-Where exactly are we?	蕾斯娜	啊，我问一下，苏菲前辈。\n这里到底是什么地方啊……？	蕾斯娜	那、那那那個，蘇菲學姐，\n這裡到底是……什麼地方……？
+SeasonalTalkEvent_005_00_023ID	3	Sophie	ソフィー	ここは日影の会。\nちょっと世間に居場所がない子たちが集まる場所	Sophie	Oh, this is the Sunshine Society. It's where kids who don't have anywhere else to go gather.	苏菲	这里是日影会。\n是供一些居无定所的孩子生活的地方。	蘇菲	這裡是日影會，\n聚集了在社會上找不到容身之處的孩子們。
+SeasonalTalkEvent_005_00_023ID	4	Sophie	ソフィー	そんな子たちの、居場所になるといいなって場所	Sophie	I think it's great that so many of them can call this place home.	苏菲	希望这里能成为他们的容身之所。	蘇菲	本意是希望這個地方能成為他們的容身之所。
+SeasonalTalkEvent_005_00_023ID	5	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_023ID	6	Sophie	ソフィー	この会を開いたのがあたしのおばあちゃん。\nおばあちゃんは、とても優しくて厳しい人だった	Sophie	Anyway, my grandmother's the one who started the place. She's the nicest woman you'd ever meet!	苏菲	这个地方是我的奶奶开设的。\n她是个既温柔又严厉的人。	蘇菲	我的奶奶是日影會的創始人。\n她是個相當溫柔卻又嚴厲的人。
+SeasonalTalkEvent_005_00_023ID	7	Sophie	ソフィー	家に帰りたくない。学校に行きたくない。\n周囲となじめない	Sophie	She'd find kids who didn't want to go home, or go to school, or who just couldn't fit in...	苏菲	如果发现有不想回家、不想去学校、\n无法融入周围的小孩，	蘇菲	看到那些不想回家、不想去學校、\n無法融入周遭環境的孩子……
+SeasonalTalkEvent_005_00_023ID	8	Sophie	ソフィー	そんな子たちを見つけては、おばあちゃんは家に招いて\n一緒にご飯を食べてお話をして……	Sophie	...And she'd invite them here for a meal and a chat.	苏菲	奶奶会把他们带回家，\n和他们一起吃饭聊天……	蘇菲	奶奶都會邀請他們來家裡一起吃飯聊天……
+SeasonalTalkEvent_005_00_023ID	9	Sophie	ソフィー	時には慰めたり、時には叱ったりしてた。\nそれで来なくなる子もいれば、来続ける子もいた	Sophie	She'd comfort the ones who needed a kind word and scold the ones who needed to hear it straight. Some would only stop by once, and others kept coming back.	苏菲	有时会给予安慰，有时也会批评他们。\n有些孩子因此不再来了，也有些孩子会一直过来。	蘇菲	有時會安慰他們，有時也會罵罵人。\n有些人因此就不來了，但也有人還是常來。
+SeasonalTalkEvent_005_00_023ID	10	Sophie	ソフィー	そんなことを繰り返して、周囲から不良のたまり場\nだって言われることもあったけど……	Sophie	Either way, she kept it up, and people started calling this place a hangout spot for hoodlums.	苏菲	由于这种情况一直反复，\n也有街坊邻居说我们这里是不良少年的聚集地……	蘇菲	這樣的日子一天天地反覆著，\n附近的人還曾說過這裡是不良少年的聚集地……
+SeasonalTalkEvent_005_00_023ID	11	Sophie	ソフィー	おばあちゃんはやめなかった。\nこの子たちは不良なんかじゃないって言って	Sophie	That didn't stop my grandmother. Oh, but she wasn't pleased that people stuck that label on the kids, though.	苏菲	可奶奶却没有放弃。\n她说这些孩子们不是什么不良少年。	蘇菲	不過我奶奶並沒有放棄收留他們，\n還說這些孩子才不是什麼不良少年。
+SeasonalTalkEvent_005_00_023ID	12	Sophie	ソフィー	そうしていつしかここは日影の会って呼ばれるように\nなった。けど……そのおばあちゃんが死んじゃった	Sophie	"I'm not exactly sure where the name ""Sunshine Society"" came from, but that's what it's been called...ever since my grandmother passed."	苏菲	不知不觉，人们开始叫这里“日影会”。\n可是后来……奶奶去世了。	蘇菲	後來也不知道什麼時候起，這裡就被稱作日影會了。\n但……創立這裡的奶奶已經去世了。
+SeasonalTalkEvent_005_00_023ID	13	Sophie	ソフィー	それであたしがおばあちゃんの後を継いで\nみんなをまとめてたら、みんな番長番長って	Sophie	"I've been following in her footsteps, inviting in the kids who seem to need it. And what do I get for it? A whole gang calling me ""boss""!"	苏菲	所以我接替奶奶的工作，打点大家在这里的生活，\n结果大家就开始一口一个大姐头地叫我。	蘇菲	於是我便繼承了奶奶的志業統領大家，\n結果他們開始老大老大地喊我。
+SeasonalTalkEvent_005_00_023ID	14	Sophie	ソフィー	酷いよね？	Sophie	Isn't that just awful?	苏菲	真受不了他们，对吧？	蘇菲	很過分吧？
+SeasonalTalkEvent_005_00_023ID	15	Resna	レスナ	なるほど……そんなことが	Resna	So that's why...	蕾斯娜	原来是这么回事啊……	蕾斯娜	原來……事情是這樣啊。
+SeasonalTalkEvent_005_00_023ID	16	Sophie	ソフィー	だから、ここはぜんぜん怖い場所なんかじゃないよ。\nみんなちょっと癖があるかもだけど、根は優しいんだ	Sophie	But you don't need to be so jumpy. The folks here might be a little rough around the edges, but they're all good people at heart.	苏菲	所以这里不是什么可怕的地方哦。\n大家可能会有点脾气，但都是心地善良的人。	蘇菲	所以說，這裡根本不是什麼恐怖的地方啦。\n雖然大家可能比較有個性，但其實都是好人。
+SeasonalTalkEvent_005_00_023ID	17	Resna	レスナ	……そうなんですね	Resna	Yeah, I guess they are.	蕾斯娜	这样啊……	蕾斯娜	……原來是這樣啊。
+SeasonalTalkEvent_005_00_023ID	18	Sophie	ソフィー	ま、そんな話は置いておいて	Sophie	Yup! Now, that aside...	苏菲	好了，先不说这个了。	蘇菲	好啦，這裡的事先放一邊。
+SeasonalTalkEvent_005_00_023ID	19	Sophie	ソフィー	レスナちゃんにはおばあちゃん直伝の\n錬金術特訓を受けてもらうよ！	Sophie	I'm going to let you experience my grandmother's very own special alchemy training course!	苏菲	我会让蕾斯娜进行我奶奶亲传的\n炼金术特训哦！	蘇菲	蕾斯娜，\n我會帶妳進行我奶奶親傳的鍊金術特訓！
+SeasonalTalkEvent_005_00_023ID	20	Resna	レスナ	分かりました！　そんな優しいおばあさまの特訓かあ。\nどんな感じだろう……	Resna	Okay! She sounds like she was a really nice person, so her training course must be just as supportive!	蕾斯娜	明白了！是温柔奶奶的特训呀。\n会是什么样的呢……	蕾斯娜	我明白了！那麼溫柔的奶奶所傳授的特訓啊……\n不知道會是什麼樣子……
+SeasonalTalkEvent_005_00_023ID	21	Sophie	ソフィー	あれ、言わなかったっけ。\nおばあちゃんはとても優しくて……	Sophie	Uh, about that. She was kind, sure, but...	苏菲	咦，刚才没有说吗？\n我奶奶的确非常温柔……	蘇菲	咦？我沒說嗎？\n我奶奶可是個相當溫柔……
+SeasonalTalkEvent_005_00_023ID	22	Sophie	ソフィー	厳しい人だったって	Sophie	She was also super intense.	苏菲	但同时也非常严厉哦。	蘇菲	卻又嚴厲的人喔。
+SeasonalTalkEvent_005_00_024ID	0	Sophie	ソフィー	それじゃあ、ビシバシ行くよ！\n錬金術は素材集めから	Sophie	Okay, let's get to it! First off, material gathering!	苏菲	严格的特训要开始了哦！\n炼金术要从收集素材开始。	蘇菲	那麼我要開始嚴厲指導了！\n要學鍊金術就要從蒐集素材開始。
+SeasonalTalkEvent_005_00_024ID	1	Resna	レスナ	はいっ！	Resna	Got it!	蕾斯娜	好的！	蕾斯娜	是！
+SeasonalTalkEvent_005_00_024ID	2	Sophie	ソフィー	指定した素材を１００個ずつ、\n夕方までに集めてくること！	Sophie	You have until dusk to collect a hundred of what's on your list! Each!	苏菲	到傍晚之前，\n每种指定素材都要收集100个！	蘇菲	在傍晚前要蒐集到所有指定素材各100個！
+SeasonalTalkEvent_005_00_024ID	3	Resna	レスナ	ええっ！？　そんなに！？\nせめて夜も使っちゃダメですか？	Resna	Huh?! A hundred?! Can't I at least have until nighttime?	蕾斯娜	什么？！要那么多？！\n能不能让我晚上也继续找？	蕾斯娜	咦咦！？這麼多！？\n至少讓我蒐集到晚上不行嗎？
+SeasonalTalkEvent_005_00_024ID	4	Sophie	ソフィー	この森には獰猛な獣が棲んでるの。\n昼は寝てるけど、夜になったら……	Sophie	Sorry, but some pretty tough beasts live out here. They're asleep during the day, but...	苏菲	这片森林里栖息着凶暴的野兽。\n白天是它们的睡觉时间，但到了晚上……	蘇菲	這座森林裡棲息著凶猛的野獸喔。\n雖然牠們白天都在睡覺，但到了夜晚……
+SeasonalTalkEvent_005_00_024ID	5	Resna	レスナ	ゴ、ゴクリ	Resna	*Gulp.*	蕾斯娜	好、好可怕。	蕾斯娜	咕、咕嚕。
+SeasonalTalkEvent_005_00_024ID	6	Sophie	ソフィー	さあ、急いでよ！　１分１秒も\n無駄にできないからね！	Sophie	All right, let's see some hustle! You can't waste a single minute! Or even a single second!	苏菲	好了，抓紧时间！\n一分一秒都不能浪费！	蘇菲	好了，動作快！\n妳現在可是一分一秒都不能浪費！
+SeasonalTalkEvent_005_00_024ID	7	Resna	レスナ	は、はいぃぃぃ！！！	Resna	R-Right! I'm off!	蕾斯娜	知、知道了！！	蕾斯娜	是、是～～！！！
+SeasonalTalkEvent_005_00_024ID	8	Sophie	ソフィー	それじゃあ、次は器材の使い方！	Sophie	Next, we'll look at how to use your equipment!	苏菲	接下来是器材的使用方法！	蘇菲	那麼，接著要練習器材的使用方法！
+SeasonalTalkEvent_005_00_024ID	9	Sophie	ソフィー	調合器材は正しい使い方と正しいタイミングが命だよ！\nさあ、早速使ってみせて！	Sophie	The key to a successful synthesis is using the right tool, the right way, at exactly the right time! So! Let's get right to it!	苏菲	使用调合器材的关键在于正确的方式和正确的时机！\n好了，快实践一下吧！	蘇菲	正確地使用調合器材並掌握正確的時機十分重要！\n來，快來操作看看！
+SeasonalTalkEvent_005_00_024ID	10	Resna	レスナ	ちょ、ちょっと休憩を……させて……	Resna	Um, couldn't we take...just a tiny break?	蕾斯娜	让、让我稍微……休息一下……	蕾斯娜	讓、讓我休息……一下……
+SeasonalTalkEvent_005_00_024ID	11	Sophie	ソフィー	ダメ！　素材は採取したその瞬間から劣化が\n始まってるんだよ！　時間を無駄にしない！	Sophie	Nope! The quality of your materials starts to degrade from the moment you pick them! The clock's already working against you!	苏菲	不行！素材从采集到的那一瞬间起\n就开始腐坏了！不能浪费时间！	蘇菲	不行！素材從採集到的那一刻起就會開始腐敗！\n不能浪費時間！
+SeasonalTalkEvent_005_00_024ID	12	Resna	レスナ	え、えええええっ！？	Resna	Whaaat?!	蕾斯娜	什么——？！	蕾斯娜	什、什麼～～～！？
+SeasonalTalkEvent_005_00_024ID	13	Sophie	ソフィー	ダメ。角度が違うよ	Sophie	Stop. That's the wrong angle.	苏菲	不行。角度不对。	蘇菲	不行，角度不對。
+SeasonalTalkEvent_005_00_024ID	14	Resna	レスナ	え？　これくらい、なんの影響もないんじゃ……	Resna	Huh? Does that really have such a big effect on things?	蕾斯娜	咦？这应该没什么影响吧……	蕾斯娜	咦？這點差距不會有什麼影響吧……
+SeasonalTalkEvent_005_00_024ID	15	Sophie	ソフィー	その積み重ねが最後には大きな違いになるんだよ。\nはい、やり直し	Sophie	Not on its own, but those little mistakes can really add up. All right, try it again.	苏菲	就是这些小差错不断积累，最后才会酿成大错。\n好了，重来。	蘇菲	這些小差異累積下來，結果可是會大有不同的。\n好了，重來。
+SeasonalTalkEvent_005_00_024ID	16	Sophie	ソフィー	はい、やり直し	Sophie	Okay, one more time.	苏菲	好，重来。	蘇菲	嗯，重來。
+SeasonalTalkEvent_005_00_024ID	17	Sophie	ソフィー	やり直し！	Sophie	Nope. Again.	苏菲	重来！	蘇菲	重來！
+SeasonalTalkEvent_005_00_024ID	18	Sophie	ソフィー	やり直し！！	Sophie	Wrong. Again!	苏菲	重来！！	蘇菲	重來！！
+SeasonalTalkEvent_005_00_024ID	19	Resna	レスナ	ひえええええ！！！	Resna	Ahhh!	蕾斯娜	咦——！！！	蕾斯娜	咦咦咦咦咦咦！！！
+SeasonalTalkEvent_005_00_024ID	20	Marion	マリオン	こんにちは。レスナさん、いるわよね？	Marion	Hello. Would Resna happen to be in?	玛丽翁	打扰了。蕾斯娜同学在这里吧？	瑪麗翁	妳好，蕾斯娜同學應該在吧？
+SeasonalTalkEvent_005_00_024ID	21	Marion	マリオン	……どうしたの？　これ	Marion	Goodness, what happened here?	玛丽翁	……这是怎么了？	瑪麗翁	……她這是怎麼了？
+SeasonalTalkEvent_005_00_024ID	22	Sophie	ソフィー	朝から今まで特訓し続けて、\n疲れて寝ちゃいました	Sophie	She's been running through her crash course since this morning, so she just...crashed.	苏菲	她从一大早一直特训到现在，\n已经累得睡着了。	蘇菲	她從早上開始特訓到現在，累到睡著了。
+SeasonalTalkEvent_005_00_024ID	23	Marie	マリー	ぶっ通しで！？　厳しすぎるよ……	Marie	The whole day?! No wonder she's so tired...	玛莉	一直都没休息吗？！也太严格了……	瑪莉	都沒休息嗎！？太嚴苛了吧……
+SeasonalTalkEvent_005_00_024ID	24	Marion	マリオン	それで、できそうなの？	Marion	And? Do you think she'll pull it together in time?	玛丽翁	那情况怎么样，有希望了吗？	瑪麗翁	那妳覺得她能成功嗎？
+SeasonalTalkEvent_005_00_024ID	25	Sophie	ソフィー	今のところはまだ分からないです……。\n結局は、感覚を掴めるかどうか次第かなと思います	Sophie	Honestly, it's still too early to tell, but... I think it'll all depend on whether or not she can get a sense for it.	苏菲	现在还不清楚……\n还是要看她能不能抓住感觉。	蘇菲	目前還不確定……\n我想最終還是得看她能不能抓到感覺。
+SeasonalTalkEvent_005_00_024ID	26	Marion	マリオン	そう	Marion	I see.	玛丽翁	这样啊。	瑪麗翁	這樣啊。
+SeasonalTalkEvent_005_00_024ID	27	Marion	マリオン	……久しぶりに来たけれど、\nここは変わらないのね	Marion	Hm... It's been a while since I was here last, but it hasn't changed a bit.	玛丽翁	……好久没来过了，\n不过这里还是跟以前一模一样。	瑪麗翁	……雖然很久沒來，\n但這裡還是一點都沒變呢。
+SeasonalTalkEvent_005_00_024ID	28	Marion	マリオン	きっとあなたがここを継いだからだわ	Marion	I'm certain that's because you've taken over the reins.	玛丽翁	一定是因为你接管了这里。	瑪麗翁	我想一定是因為有妳繼承了這裡吧。
+SeasonalTalkEvent_005_00_024ID	29	Sophie	ソフィー	……そうだと、嬉しいです	Sophie	Thanks, that really means a lot.	苏菲	……如果是这样，那我很高兴。	蘇菲	……如果真是這樣就太好了。
+SeasonalTalkEvent_005_00_024ID	30	Marie	マリー	マリオン先生、ここに来たことがあるんですか？	Marie	Marion, you've been here before, haven't you?	玛莉	玛丽翁老师，你以前来过这里吗？	瑪莉	瑪麗翁老師，妳曾經來過這裡嗎？
+SeasonalTalkEvent_005_00_024ID	31	Marion	マリオン	まあ、ちょっとね	Marion	Sure, once or twice.	玛丽翁	嗯，算是吧。	瑪麗翁	嗯，算是吧。
+SeasonalTalkEvent_005_00_024ID	32	Marion	マリオン	週に一度は教室に顔を出すこと。\nそして、絶対に試験に合格すること	Marion	Tell Resna to stop by the classroom at least once a week.	玛丽翁	每周至少要去教室露个面。\n还有，一定要通过考试。	瑪麗翁	每週至少要進一次教室露個臉。\n還有，絕對要通過考試。
+SeasonalTalkEvent_005_00_024ID	33	Marion	マリオン	レスナさんに伝えてちょうだい	Marion	...And then she's sure to pass the exam.	玛丽翁	帮我把这两点转告给蕾斯娜同学吧。	瑪麗翁	幫我轉告這些給蕾斯娜同學吧。
+SeasonalTalkEvent_005_00_024ID	34	Sophie	ソフィー	……はい！	Sophie	I will!	苏菲	……好的！	蘇菲	……是！
+SeasonalTalkEvent_005_00_024ID	35	Marion	マリオン	帰りましょう、マルローネ先生	Marion	Let's go, Marlone.	玛丽翁	我们回去吧，玛洛娜老师。	瑪麗翁	我們回去吧，瑪洛娜老師。
+SeasonalTalkEvent_005_00_024ID	36	Marie	マリー	え、あれ？　は、はい	Marie	Uh...huh? Oh, okay.	玛莉	咦？好、好的。	瑪莉	呃，咦？好、好的。
+SeasonalTalkEvent_005_00_024ID	37	Sophie	ソフィー	…………	Sophie	...	苏菲	……	蘇菲	…………
+SeasonalTalkEvent_005_00_024ID	38	Sophie	ソフィー	おばあちゃん、どうか力を貸してください	Sophie	Grandmother, please lend us your strength...	苏菲	奶奶，请助我一臂之力。	蘇菲	奶奶，請把妳的力量借給我吧。
+SeasonalTalkEvent_005_00_025ID	0	Resna	レスナ	はあ……はあ……	Resna	*Huff* *Huff*...	蕾斯娜	呼……呼……	蕾斯娜	呼……呼……
+SeasonalTalkEvent_005_00_025ID	1	Resna	レスナ	あれ……私……何を、してたんだっけ……	Resna	Huh? What was I doing...?	蕾斯娜	咦……我在……做什么来着……	蕾斯娜	奇怪……我……本來是在做什麼……
+SeasonalTalkEvent_005_00_025ID	2	Resna	レスナ	そうだ。釜を……釜を混ぜないといけないんだった	Resna	Oh, right. I have to...mix whatever's in the cauldron.	蕾斯娜	对了。炼金釜……我得搅拌炼金釜。	蕾斯娜	對了，我得……我得攪拌鍊金釜才行。
+SeasonalTalkEvent_005_00_025ID	3	Resna	レスナ	う……重い。もっとこう……水を切るように……	Resna	Ngh... It's too thick... I need to put my back into it.	蕾斯娜	唔……好粘稠。还得继续……排除水分……	蕾斯娜	唔……好重，應該要像這樣……劃開水面……
+SeasonalTalkEvent_005_00_025ID	4	Resna	レスナ	軽い……これなら……！	Resna	That did it! Now I just have to...	蕾斯娜	变得轻松了……这样应该就……！	蕾斯娜	好輕……這樣的話……！
+SeasonalTalkEvent_005_00_025ID	5	Resna	レスナ	まだだよ……もっと……！	Resna	Not yet... A little bit more!	蕾斯娜	还不行……再加把劲……！	蕾斯娜	還不行……得再……！
+SeasonalTalkEvent_005_00_025ID	6	Resna	レスナ	あ……ソフィー先輩	Resna	Oh... Sophie?	蕾斯娜	啊……苏菲前辈。	蕾斯娜	啊……蘇菲學姐。
+SeasonalTalkEvent_005_00_025ID	7	Sophie	ソフィー	おはよう、レスナちゃん	Sophie	Morning, Resna.	苏菲	早啊，蕾斯娜。	蘇菲	早安，蕾斯娜。
+SeasonalTalkEvent_005_00_025ID	8	Resna	レスナ	先輩、私、夢を見たんです	Resna	I had the best dream...	蕾斯娜	前辈，我刚刚做了个梦。	蕾斯娜	學姐，我做了一個夢。
+SeasonalTalkEvent_005_00_025ID	9	Sophie	ソフィー	どんな夢？	Sophie	What was it about?	苏菲	梦到什么了？	蘇菲	什麼夢啊？
+SeasonalTalkEvent_005_00_025ID	10	Resna	レスナ	宇宙に……浮かぶ夢です。\n私は光の中にいて……身体が羽のように軽くなって	Resna	I was floating in space. There was a light inside me, and my body felt weightless, just like a feather...	蕾斯娜	梦到我漂浮在……太空里。\n我被光芒笼罩着……身体像羽毛一样轻快。	蕾斯娜	一個飄浮在……宇宙中的夢。\n我身處在光芒中……身體變得像羽毛一樣輕。
+SeasonalTalkEvent_005_00_025ID	11	Resna	レスナ	たくさんの何かに包まれて……心地がいい……\nそんな夢でした	Resna	I was all wrapped up in something, but...whatever it was, it was so comforting...	蕾斯娜	有好多不知名的东西包裹着我……感觉非常舒服……\n就是这么一个梦。	蕾斯娜	我好像被什麼團團包裹著……\n是個感覺……很舒暢的夢。
+SeasonalTalkEvent_005_00_025ID	12	Sophie	ソフィー	そっか	Sophie	You don't say.	苏菲	是吗。	蘇菲	這樣啊。
+SeasonalTalkEvent_005_00_025ID	13	Sophie	ソフィー	おめでとう。掴んだんだね	Sophie	Congrats, you figured it out.	苏菲	恭喜你，你找到感觉了。	蘇菲	恭喜妳，看來妳抓到感覺了。
+SeasonalTalkEvent_005_00_025ID	14	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_025ID	15	Resna	レスナ	……はい	Resna	Yeah.	蕾斯娜	谢谢……	蕾斯娜	……嗯。
+SeasonalTalkEvent_005_00_025ID	16	Sophie	ソフィー	心地いい感覚。懐かしいなあ。\nあたしも初めてできた時、そんな感覚があったっけ	Sophie	It felt comforting, huh? That sure brings me back. I remember my own first successful synthesis feeling a lot like that.	苏菲	好怀念那种舒服的感觉。\n我第一次掌握的时候，也有过类似的感觉。	蘇菲	舒暢的感覺，還真令人懷念呢。\n我第一次成功時，好像也有過那種感覺。
+SeasonalTalkEvent_005_00_025ID	17	Sophie	ソフィー	でも、宇宙に浮かぶ、かあ。\nそこまで大きな浮遊感は体験したことないや	Sophie	Well, minus the floating in space. The sensation definitely wasn't that vast.	苏菲	不过她是飘浮在太空里啊？\n我倒是没有体验到那么强烈的飘浮感。	蘇菲	不過，飄浮在宇宙中啊……\n我好像從沒體驗過那麼浩瀚的飄浮感呢。
+SeasonalTalkEvent_005_00_025ID	18	Sophie	ソフィー	何を掴んだの？\nもしかしたら、この子は……ふふ	Sophie	I wonder what she stumbled on, exactly? Maybe she's... Hehe.	苏菲	究竟是掌握了什么呢？\n说不定她……呵呵呵。	蘇菲	她掌握到什麼了呢？\n看來她說不定……呵呵。
+SeasonalTalkEvent_005_00_026ID	0	Resna	レスナ	ん……あれ……私……	Resna	Nh... Huh? I...	蕾斯娜	唔……奇怪……我……	蕾斯娜	嗯……奇怪……我……
+SeasonalTalkEvent_005_00_026ID	1	Resna	レスナ	はっ！　そうだ！　調合に成功して……\n夢じゃないよね！？	Resna	Oh! It wasn't all a dream...right? I really synthesized something?!	蕾斯娜	啊！对了！调合成功了……\n那该不会是做梦吧？！	蕾斯娜	啊！對了！我調合成功了……\n這應該不是夢吧！？
+SeasonalTalkEvent_005_00_026ID	2	Resna	レスナ	ふう……よかった。夢じゃない	Resna	Phew... Thank goodness. It actually happened!	蕾斯娜	呼……太好了。不是梦。	蕾斯娜	呼……還好，不是我在做夢。
+SeasonalTalkEvent_005_00_026ID	3	Resna	レスナ	……やった。やった！　ついにやったんだ！	Resna	Yes! I did it, I did it! I finally did it!	蕾斯娜	……太好了。成功了！我终于成功了！	蕾斯娜	……成功了，成功了！我終於成功了！
+SeasonalTalkEvent_005_00_026ID	4	Resna	レスナ	そうだ！　ソフィー先輩にお礼を言わないと！	Resna	Right, I'd better go thank Sophie for all her help!	蕾斯娜	对了！我得去向苏菲前辈道谢!	蕾斯娜	對了！我得向蘇菲學姐道謝才行！
+SeasonalTalkEvent_005_00_026ID	5	Resna	レスナ	……先輩、どこだろう？	Resna	But...where is she?	蕾斯娜	……前辈去哪了呢？	蕾斯娜	……學姐去哪裡了？
+SeasonalTalkEvent_005_00_026ID	6	Resna	レスナ	あ、ソフィーせん……	Resna	Oh! Um, Soph—	蕾斯娜	啊、苏菲前……	蕾斯娜	啊，蘇菲學……
+SeasonalTalkEvent_005_00_026ID	7	Sophie	ソフィー	ああ……いいねぇ……かわいいよ	Sophie	Oooh, that's such a great look on you! You're just so darn cute!	苏菲	啊……太棒了……很可爱哦。	蘇菲	嗯……很好……很可愛喔。
+SeasonalTalkEvent_005_00_026ID	8	Resna	レスナ	（わ。えっと……何してるんだろう？）	Resna	(Um... What is she doing?)	蕾斯娜	（哎呀。咦……她在做什么？）	蕾斯娜	（哇，呃……學姐在做什麼啊？）
+SeasonalTalkEvent_005_00_026ID	9	Sophie	ソフィー	わぁ！　似合うね！\nま、ぜーったい似合うと思って作ったんだけどね！	Sophie	Wow! This one's even better! Well, that's exactly why I made it for you!	苏菲	哇！很适合你呢！\n我就是因为感觉肯定适合你才做的！	蘇菲	哇！很適合你耶！\n雖然我本來就是覺得一定很適合才做的！
+SeasonalTalkEvent_005_00_026ID	10	Sophie	ソフィー	うーん。あとは帽子が欲しいかな？\nだよね！　どんなのがいい？	Sophie	Hmm... You'd like a hat, too? Of course you would! What kind?	苏菲	嗯，你肯定还想要顶帽子吧？\n对吧！哪顶好？	蘇菲	嗯～好像還缺一頂帽子吧？\n沒錯吧！你想要哪種款式呢？
+SeasonalTalkEvent_005_00_026ID	11	Sophie	ソフィー	だよね、やっぱり！\nあ、この服ももうちょっといじってみよっか？	Sophie	Oh, that one? Yes, that's the perfect style! Hm, maybe I should change a few things here to match.	苏菲	这顶对吧，我就知道！\n啊，衣服要不要再调整一下？	蘇菲	我也覺得，是不是！\n啊，這件衣服也再修改一下吧？
+SeasonalTalkEvent_005_00_026ID	12	Sophie	ソフィー	よし、それじゃあ早速――	Sophie	Okay! I'll get right on it!	苏菲	好，那就赶快来——	蘇菲	好，那就趕快──
+SeasonalTalkEvent_005_00_026ID	13	Resna	レスナ	（なんだか、声をかけちゃいけない気がする……）	Resna	(I kind of get the feeling I shouldn't interrupt.)	蕾斯娜	（感觉现在不能去打扰她……）	蕾斯娜	（總覺得好像不該在這時候搭話……）
+SeasonalTalkEvent_005_00_026ID	14		不良Ａ	見たな	Delinquent A	You saw that, huh?	不良A	你看到了啊。	不良學生A	妳看到了吧。
+SeasonalTalkEvent_005_00_026ID	15	Resna	レスナ	きゃっ！？	Resna	Eeek?!	蕾斯娜	呀？！	蕾斯娜	呀啊！？
+SeasonalTalkEvent_005_00_026ID	16		不良Ａ	馬鹿！　静かにしろ！　番長にバレるだろ！	Delinquent A	Keep it down, idiot! You can't let the boss know you're there!	不良A	笨蛋！给我安静！会被大姐头发现的！	不良學生A	笨蛋！安靜點！不然會被老大發現的！
+SeasonalTalkEvent_005_00_026ID	17	Resna	レスナ	ご、ごめんなさい……	Resna	S-Sorry, I didn't mean to...	蕾斯娜	对、对不起……	蕾斯娜	對、對不起……
+SeasonalTalkEvent_005_00_026ID	18		不良Ａ	ちょっと、こっち来いよ	Delinquent A	Just come over here, would ya?	不良A	你过来一下。	不良學生A	妳跟我過來一下。
+SeasonalTalkEvent_005_00_026ID	19		不良Ａ	さっき見たこと、誰にも言うなよな。\n番長、隠してるみたいなんだ	Delinquent A	Look, you can't tell anyone what you saw. The boss doesn't like folks knowin'.	不良A	不要把你刚才看到的事告诉任何人。\n大姐头好像不想让人知道。	不良學生A	妳剛才看到的事絕不能跟任何人說。\n畢竟老大似乎有意瞞著大家。
+SeasonalTalkEvent_005_00_026ID	20	Resna	レスナ	そ、そうなんですね	Resna	R-Right, that makes sense...	蕾斯娜	是、是这样啊……	蕾斯娜	這、這樣啊。
+SeasonalTalkEvent_005_00_026ID	21		不良Ａ	昔から人形遊びは好きな子だったんだ。けど、番長の\nばあちゃんがいなくなってから隠すようになった	Delinquent A	She used to love playin' with dolls. But ever since her grams died, she's been pretending like she doesn't still do it.	不良A	大姐头从小就喜欢玩娃娃。\n可是自从奶奶去世后，她就不再光明正大地玩了。	不良學生A	老大她從以前就喜歡玩娃娃，\n但是自從老大的奶奶去世後，她就只會偷偷玩了。
+SeasonalTalkEvent_005_00_026ID	22		不良Ａ	きっとあたしたちを心配させないためなんだ。\n寂しさを紛らわせてるって、思われないように	Delinquent A	We're pretty sure she just doesn't want to make us worry, y'know? Like, she doesn't want us to know how sad she gets sometimes.	不良A	她一定是不想让我们担心。\n不想让我们知道她还有寂寞需要排解。	不良學生A	我想她肯定是不希望我們擔心才這麼做的，\n不想讓我們覺得她是為了排解寂寞才玩娃娃。
+SeasonalTalkEvent_005_00_026ID	23	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_005_00_026ID	24		不良Ａ	あたしたちじゃ頼りないから隠してるのかもしれない。\nあたしたちが、番長を番長にしてるのかもしれない	Delinquent A	And that's probably because we made her the boss. Which means she's always gotta be boss-like.	不良A	可能是因为我们不够可靠，所以她才会瞒着我们。\n可能都是为了我们，大姐头才不得不维持大姐头的形象。	不良學生A	或許是覺得我們幾個靠不住，她才隱藏起來的吧。\n又或許其實是我們讓老大擔起了這個身分。
+SeasonalTalkEvent_005_00_026ID	25		不良Ａ	レスナ、その……	Delinquent A	So, Resna? Uh...	不良A	蕾斯娜，那个……	不良學生A	蕾斯娜，那個……
+SeasonalTalkEvent_005_00_026ID	26		不良Ａ	番長をよろしく頼む	Delinquent A	Would ya mind keeping an eye on her for us?	不良A	大姐头还请你多关照了。	不良學生A	老大就拜託妳多關照了！
+SeasonalTalkEvent_005_00_026ID	27	Sophie	ソフィー	あ、起きたんだね！	Sophie	Oh! You're awake!	苏菲	啊，你醒了啊！	蘇菲	啊，妳醒啦！
+SeasonalTalkEvent_005_00_026ID	28	Resna	レスナ	ソフィー先輩！　はい、ぐっすり眠れました	Resna	Hello, Sophie! I slept really well!	蕾斯娜	苏菲前辈！嗯。我睡得很好。	蕾斯娜	蘇菲學姐！嗯，我睡得很飽。
+SeasonalTalkEvent_005_00_026ID	29	Sophie	ソフィー	あはは、よかった	Sophie	Haha, that's great.	苏菲	啊哈哈，那就好。	蘇菲	啊哈哈，那就好。
+SeasonalTalkEvent_005_00_026ID	30	Resna	レスナ	先輩、ありがとうございました。\n先輩のおかげで、私、ここまで来られました	Resna	Thank you for everything! I never would've gotten this far without you!	蕾斯娜	前辈，太感谢你了！\n多亏了你的帮助，我才能成功。	蕾斯娜	學姐，謝謝妳。\n多虧有學姐的幫助，我才能走到這裡。
+SeasonalTalkEvent_005_00_026ID	31	Sophie	ソフィー	違うよ。レスナちゃんが頑張ったんだよ	Sophie	Nah, that was all because of the hard work you put in.	苏菲	不是哦，是蕾斯娜你努力的成果。	蘇菲	才不是，這是因為妳很努力啊。
+SeasonalTalkEvent_005_00_026ID	32	Resna	レスナ	いいえ。先輩が番長だったから頑張れたんです	Resna	But, boss! If it wasn't for your support, I might've given up!	蕾斯娜	不，是因为前辈是大姐头，才会激发我那么努力。	蕾斯娜	不，都是因為有學姐這位老大我才能這麼努力。
+SeasonalTalkEvent_005_00_026ID	33	Sophie	ソフィー	ちょ！　番長じゃないよ！	Sophie	What! Not you, too!	苏菲	哎！我不是大姐头啦！	蘇菲	真是的！就說我不是老大啦！
+SeasonalTalkEvent_005_00_026ID	34	Resna	レスナ	あはは……	Resna	Ahaha.	蕾斯娜	啊哈哈……	蕾斯娜	啊哈哈……
+SeasonalTalkEvent_005_00_026ID	35	Resna	レスナ	……先輩はどうして、おばあさんの後を継ごうと\n思ったんですか？	Resna	Hey, Sophie? What made you decide to follow in your grandmother's footsteps, anyway?	蕾斯娜	……前辈，你为什么想接手奶奶的事业呢？	蕾斯娜	……學姐，妳為什麼會決定繼承奶奶的事業呢？
+SeasonalTalkEvent_005_00_026ID	36	Sophie	ソフィー	そうだなあ	Sophie	Hm, I wonder...	苏菲	这个嘛……	蘇菲	這個嘛……
+SeasonalTalkEvent_005_00_026ID	37	Sophie	ソフィー	ここに来るみんなが好きだから、かな	Sophie	I just love everyone here, I guess.	苏菲	可能是因为我喜欢来到这里的每一个人吧。	蘇菲	大概是因為我喜歡來到這裡的大家吧。
+SeasonalTalkEvent_005_00_026ID	38	Sophie	ソフィー	おばあちゃんが死んじゃって……\nあたしずっと泣いてたんだ	Sophie	When my grandmother passed, I cried all the time.	苏菲	奶奶去世后……我哭了很久很久。	蘇菲	奶奶去世後……我哭了很久。
+SeasonalTalkEvent_005_00_026ID	39	Sophie	ソフィー	そんなあたしをみんな慰めてくれた。\nあたしがどんなに泣きわめいても根気強く	Sophie	So they did their best to comfort me. It didn't matter if I didn't stop crying, either. They never lost patience with me.	苏菲	那个时候，是大家的安慰让我振作起来。\n不管我哭了多久，他们都耐心地陪伴着我。	蘇菲	但他們卻願意安慰這樣的我，\n不管我哭得多慘都沒有離我而去。
+SeasonalTalkEvent_005_00_026ID	40	Sophie	ソフィー	だからもらった優しさを、お返ししたいと思ったんだ	Sophie	I wanted to return their kindness.	苏菲	所以我也想回报大家的善意。	蘇菲	所以我想報答他們的這份溫柔。
+SeasonalTalkEvent_005_00_026ID	41	Sophie	ソフィー	でも、あたしにはおばあちゃんの代わりなんて\nできなかった。そんな度胸があたしにはなかった	Sophie	I can't do everything my grandmother did, though. I don't have that kind of courage.	苏菲	但是，我做得远不如奶奶那么好。\n我没有她的那种气魄。	蘇菲	只是，我終究無法取代奶奶。\n我沒有奶奶那樣的氣度。
+SeasonalTalkEvent_005_00_026ID	42	Sophie	ソフィー	だからそんな弱いあたしを乗り越えるために、\nこの服を着て……みんなの番長になったんだ	Sophie	That's why I wear this kind of clothing. To give myself the strength to be everyone's boss.	苏菲	所以为了战胜那个软弱的自己，\n我才穿上这身衣服……成为了大家的大姐头。	蘇菲	所以為了超越弱小的自己，我才穿上了這身衣服……\n成了大夥們的老大。
+SeasonalTalkEvent_005_00_026ID	43	Resna	レスナ	なってよかったですか？	Resna	Are you happy with how things turned out?	蕾斯娜	你很乐意能成为大姐头吗？	蕾斯娜	妳慶幸妳有當上嗎？
+SeasonalTalkEvent_005_00_026ID	44	Sophie	ソフィー	もちろんだよ	Sophie	Of course!	苏菲	当然了。	蘇菲	當然。
+SeasonalTalkEvent_005_00_026ID	45	Resna	レスナ	ソフィー先輩……	Resna	Sophie...	蕾斯娜	苏菲前辈……	蕾斯娜	蘇菲學姐……
+SeasonalTalkEvent_005_00_026ID	46	Resna	レスナ	……だそうですよ。\n盗み聞きなんかやめて、直接話してみては？	Resna	Yeah, that's what I thought. You really should talk to her yourselves, instead of eavesdropping all the time.	蕾斯娜	……她是这么说的哦。\n你们不要偷听了，来和她面对面地谈谈吧？	蕾斯娜	……她是這麼說的唷。\n你們就別偷聽了，直接跟學姐談談怎麼樣？
+SeasonalTalkEvent_005_00_026ID	47	Sophie	ソフィー	……え？	Sophie	Huh?	苏菲	……咦？	蘇菲	……咦？
+SeasonalTalkEvent_005_00_026ID	48		不良Ａ	う……レスナ、お前余計な真似を！	Delinquent A	Urk. C'mon, Resna! Be cool!	不良A	唔……蕾斯娜，你干嘛多管闲事！	不良學生A	唔……蕾斯娜，妳幹嘛多此一舉！
+SeasonalTalkEvent_005_00_026ID	49	Sophie	ソフィー	わ、みんな！？　どこに隠れてたの！？	Sophie	Wh-What?! Where were you guys hiding?!	苏菲	哇，你们？！都是从哪冒出来的？！	蘇菲	哇，你們！？剛才都躲在哪裡啊！？
+SeasonalTalkEvent_005_00_026ID	50		不良Ｂ	そんな風に思ってくれてたんすね、番長……\n一生ついていくっす！	Delinquent B	We didn't realize you felt that way, boss... We'll follow you for the rest of our lives!	不良B	原来你是这么想的啊，大姐头……\n我会一生追随你的！	不良學生B	老大，原來妳是這麼想的……\n我一輩子都要跟隨老大！
+SeasonalTalkEvent_005_00_026ID	51	Sophie	ソフィー	何してるの、もう、恥ずかしいなあ！\nそれにあたしは！	Sophie	Oh, knock it off already! This is so embarrassing! And more importantly...	苏菲	你们在干什么呀，太难为情了！\n还有！	蘇菲	搞什麼啊？真是的，太丟臉了！\n況且我說過了！
+SeasonalTalkEvent_005_00_026ID	52	Sophie	ソフィー	番長じゃなーい！	Sophie	I keep telling you, I'm no one's boss!	苏菲	我不是大姐头啦！	蘇菲	我不是老大啦～！
+SeasonalTalkEvent_005_00_027ID	0	Marion	マリオン	そう……よかった……本当によかったわ。\n調合ができるようになったのね！	Marion	Oh, thank goodness... I'm so glad to hear that you managed to synthesize something!	玛丽翁	是吗……太好了……真是太好了。\n你已经能完成调合了啊！	瑪麗翁	是嗎……太好了……真是太好了。\n妳成功學會調合了啊！
+SeasonalTalkEvent_005_00_027ID	1	Resna	レスナ	はい、皆さんのおかげです。\nやっとここまで来ました！	Resna	It was all thanks to everyone's help that I finally made it this far!	蕾斯娜	是的，都是多亏了大家帮忙。\n我终于成功了。	蕾斯娜	是的，多虧有大家的幫助，\n我才能走到這一步！
+SeasonalTalkEvent_005_00_027ID	2	Rorona	ロロナ	おめでとう、レスナちゃん！	Rorona	Congrats, Resna!	萝乐娜	恭喜你，蕾斯娜！	蘿樂娜	恭喜妳，蕾斯娜！
+SeasonalTalkEvent_005_00_027ID	3	Ryza	ライザ	これで厳しい特訓ともお別れだね！	Ryza	Now you can kiss that harsh special training goodbye!	莱莎	这下也能和严格的特训说再见了！	萊莎	這麼一來，妳也能和嚴格的特訓說再見了！
+SeasonalTalkEvent_005_00_027ID	4	Mimi	ミミ	……でも、ここがスタート地点ですよ。\n試験に向けて、何を作るのか決めないと	Mimi	Still, this only puts you back at what should have been your starting point. You also have to figure out what to do for the test.	敏敏	……不过，这下才算站上了起点。\n接下来还得思考要在考试中制作什么。	敏敏	……不過這只是剛站上起點而已，\n妳還得決定考試要製作什麼才行。
+SeasonalTalkEvent_005_00_027ID	5	Marion	マリオン	プレゼンの練習もしないといけないわ。\n自分の作ったものをアピールする必要があるから	Marion	As well as practice for your accompanying presentation. Students are required to explain the appeal of what they've chosen to make.	玛丽翁	而且还要练习演讲哦，\n因为需要向大家展示自己的作品。	瑪麗翁	也得練習發表才行呢。\n因為必須推薦自己製作的物品。
+SeasonalTalkEvent_005_00_027ID	6	Resna	レスナ	実はもう、何を作るかは考えてるんです	Resna	Actually, I have thought about what I'd like to synthesize.	蕾斯娜	关于要制作的东西，其实我已经有想法了。	蕾斯娜	其實我已經想好要做什麼了。
+SeasonalTalkEvent_005_00_027ID	7	Resna	レスナ	これなんですけど……いかがでしょうか？	Resna	It'd be something like this... Do you think it would work?	蕾斯娜	就是这个……老师觉得怎么样？	蕾斯娜	就是這個……怎麼樣呢？
+SeasonalTalkEvent_005_00_027ID	8	Marie	マリー	どれどれ……	Marie	Hm, let's see...	玛莉	我看看……	瑪莉	我看看……
+SeasonalTalkEvent_005_00_027ID	9	Marie	マリー	……なるほどね。面白いこと考えるじゃない。\nいいと思うわ	Marie	Well, isn't that something! I think it's a fine choice.	玛莉	……这个啊，很有意思嘛。\n我觉得非常不错。	瑪莉	……原來如此，這點子滿有意思的嘛。\n我覺得不錯。
+SeasonalTalkEvent_005_00_027ID	10	Marie	マリー	それじゃあ、あともうひと踏ん張りだよ。\n試験当日も失敗しないよう、たくさん練習しよう！	Marie	You just need to hold out for a little bit longer. Make sure to get plenty of practice in between now and the test so you don't slip up!	玛莉	接下来要再加把油。\n多多练习，不要在考试当天失败哦！	瑪莉	那麼就再努力一下吧。\n為了避免考試當天失敗，要多加練習喔！
+SeasonalTalkEvent_005_00_027ID	11	Resna	レスナ	はい！	Resna	Okay!	蕾斯娜	好的！	蕾斯娜	是！
+SeasonalTalkEvent_005_00_027ID	12	Resna	レスナ	（そして、いよいよその日が訪れた）	Resna	(And then, that fateful day finally arrived.)	蕾斯娜	（于是，这一天终于来了。）	蕾斯娜	（然後，那一天終於來了。）
+SeasonalTalkEvent_005_00_027ID	13	Resna	レスナ	（何度も諦めた）	Resna	(I gave up so many times.)	蕾斯娜	（我曾无数次打算放弃。）	蕾斯娜	（我放棄了很多次。）
+SeasonalTalkEvent_005_00_027ID	14	Resna	レスナ	（これで最後にしようって思った）	Resna	(I told myself that was it, that was the last one.)	蕾斯娜	（无数次决定到此为止。）	蕾斯娜	（每次都想著這次是最後一次了。）
+SeasonalTalkEvent_005_00_027ID	15	Resna	レスナ	（それでも、やっぱりって。次ならきっとって）	Resna	(Except I just couldn't quit. I kept at it.)	蕾斯娜	（但最后总是狠不下心，总是指望着下次就会成功。）	蕾斯娜	（但即使如此，還是會想繼續、覺得下次一定可以。）
+SeasonalTalkEvent_005_00_027ID	16	Resna	レスナ	（そう思っていると、こうしてチャンスが来たりして）	Resna	(I'm sure that's what granted me this chance!)	蕾斯娜	（这个信念居然真的支撑我等到了机会降临。）	蕾斯娜	（覺得只要想著想著，機會就會像這樣降臨。）
+SeasonalTalkEvent_005_00_027ID	17	Resna	レスナ	（まだ、私は立っている）	Resna	(I'm still standing.)	蕾斯娜	（我还站在这里。）	蕾斯娜	（我還沒有倒下。）
+SeasonalTalkEvent_005_00_027ID	18	Resna	レスナ	（大丈夫……何度も練習したし……忘れ物もないはず）	Resna	(Everything'll be fine... I've practiced so many times... I don't think I forgot anything, either.)	蕾斯娜	（没问题的……我练习了无数次……也没有忘带东西。）	蕾斯娜	（不要緊……我練習很多次了……應該也沒忘記東西。）
+SeasonalTalkEvent_005_00_027ID	19	Resna	レスナ	（つい最近、調合ができるようになったばかりで、\n　拙いものしか作れないかもしれない……それでも！）	Resna	(Sure, I might have only just gotten to the point where I can actually synthesize something... And none of it's very good, but...)	蕾斯娜	（我直到最近才刚学会调合，\n　也许只能做出粗劣的东西……可就算如此！）	蕾斯娜	（雖然我最近才剛學會調合，\n　可能只能做出拙劣的東西……但即使如此！）
+SeasonalTalkEvent_005_00_027ID	20	Resna	レスナ	（見せつけるんだ！　私の錬金術を！）	Resna	(I'm going to find it! My very own alchemy!)	蕾斯娜	（我也要把自己的炼金术展现给大家看！）	蕾斯娜	（我也要讓大家看看！我的鍊金術！）
+SeasonalTalkEvent_005_00_028ID	0	Marion	マリオン	見事な出来ね。説明も簡潔で分かりやすかったわ	Marion	Expertly done, Eren. Your explanation was concise and easy to understand, too.	玛丽翁	做得很好，介绍也简洁易懂。	瑪麗翁	成品相當出色，說明也十分簡單易懂呢。
+SeasonalTalkEvent_005_00_028ID	1	Saskia	ザスキア	それでは、ミミ。次はあなたです。\n「癒しを与える道具」を作成しなさい	Saskia	Mimi, let's have you go next. Please show us which healing item you have chosen to make.	萨丝琪亚	来吧，敏敏。接下来到你了。\n请制作一个“带去治愈的道具”。	薩絲琪亞	那麼敏敏，接下來輪到妳了。\n請妳製作出「賦予治癒的道具」。
+SeasonalTalkEvent_005_00_028ID	2	Mimi	ミミ	はい	Mimi	Yes, Miss.	敏敏	好的。	敏敏	是。
+SeasonalTalkEvent_005_00_028ID	3	Mimi	ミミ	……できました	Mimi	There, it's finished.	敏敏	……我做好了。	敏敏	……完成了。
+SeasonalTalkEvent_005_00_028ID	4	Mimi	ミミ	こちらは、基本的な回復効果のある薬に\n追加の効果を付与したものです	Mimi	I took a basic restorative and added additional effects to it.	敏敏	这是给拥有基础恢复效果的药\n赋予了额外效果的恢复药。	敏敏	這是對具備基礎回復效果的藥，\n賦予附加效果的物品。
+SeasonalTalkEvent_005_00_028ID	5	Mimi	ミミ	摂取後、一時的に\n体力を継続的に回復できる効果が発生します	Mimi	Once ingested, it continuously restores a person's stamina over a short period of time.	敏敏	服用后，会在一段时间内持续恢复体力。	敏敏	服用後，\n能在短時間內持續回復體力。
+SeasonalTalkEvent_005_00_028ID	6	Marie	マリー	なるほどね。確かに回復薬を上手くアレンジしてるわ	Marie	Hm, I see. As medicines go, this one's extremely well made.	玛莉	原来如此。的确巧妙地对恢复药进行了改进。	瑪莉	原來如此，確實將回復藥改良得很好。
+SeasonalTalkEvent_005_00_028ID	7	Mimi	ミミ	素材を厳選し、調合の順番を調整することで、\nシンプルなレシピになったと思います	Mimi	I carefully selected the materials and adjusted the synthesis until the recipe was as simple as I could possibly make it.	敏敏	我通过严格挑选素材，调整调合的顺序，\n使这个配方变得更加简洁了。	敏敏	我認為在嚴選素材及調整調合的順序後，\n它成了更簡單的配方了。
+SeasonalTalkEvent_005_00_028ID	8	Marion	マリオン	そうね。\n高度でありながら基本もちゃんと押さえている	Marion	Indeed. While it's an advanced product, it's firmly rooted in the basics.	玛丽翁	没错。\n既有一定高度，基础又很扎实。	瑪麗翁	的確。\n不僅展現了高級的技術，也踏實地掌握了基礎。
+SeasonalTalkEvent_005_00_028ID	9	Marion	マリオン	しかも実用的。残業続きのときにはもってこいね	Marion	It's quite practical, too. I could see it being useful on days when you find yourself doing overtime work.	玛丽翁	而且还很实用。可以说是连续加班时的救星呢。	瑪麗翁	同時還兼具實用性，很適合長期加班時使用呢。
+SeasonalTalkEvent_005_00_028ID	10	Mimi	ミミ	ありがとうございます	Mimi	Thank you very much.	敏敏	谢谢老师。	敏敏	謝謝。
+SeasonalTalkEvent_005_00_028ID	11	Resna	レスナ	（ミミちゃん、やっぱりすごい……。難しいことを\n　先生たちの前で、落ち着いてできている）	Resna	(Mimi's amazing... She did all that tricky stuff in front of the teachers without batting an eye.)	蕾斯娜	（敏敏可真厉害啊……能在老师们面前\n　沉着冷静地完成这么困难的调合。）	蕾斯娜	（敏敏果然很厲害……\n　能在老師們面前冷靜地完成這麼困難的事。）
+SeasonalTalkEvent_005_00_028ID	12	Marie	マリー	それじゃ、次はいよいよレスナね	Marie	All right, let's have Resna come up next.	玛莉	接下来终于轮到蕾斯娜了。	瑪莉	那麼，接下來終於輪到蕾斯娜了。
+SeasonalTalkEvent_005_00_028ID	13	Resna	レスナ	は、はい！　頑張ります！	Resna	R-Right! I'll do my best!	蕾斯娜	好、好的！我会加油的！	蕾斯娜	是、是！我會加油的！
+SeasonalTalkEvent_005_00_028ID	14	Resna	レスナ	……始めます！	Resna	Okay! Here goes nothing!	蕾斯娜	……我开始了！	蕾斯娜	……我開始了！
+SeasonalTalkEvent_005_00_028ID	15	Resna	レスナ	……で、できた！	Resna	I-It's done!	蕾斯娜	……完、完成了！	蕾斯娜	……完、完成了！
+SeasonalTalkEvent_005_00_028ID	16		生徒Ｇ	あ、あれは爆弾じゃ……！？	Student G	I-Is that a bomb?!	学生G	那、那该不会是炸弹吧……？！	學生G	那、那是炸彈吧……！？
+SeasonalTalkEvent_005_00_028ID	17		生徒Ｈ	確かアイツ、マルローネ先生の教え子だって噂だぞ！\nま、まさか教室を爆破する気じゃ！？	Student H	I heard she was one of Miss Marlone's students, so doesn't that mean she could actually blow the roof off of this classroom?!	学生H	对了，她好像是玛洛娜老师的学生！\n她、她难道要炸掉教室吗？！	學生H	我聽說那傢伙是瑪洛娜老師的學生！\n她、她不會是想炸了這間教室吧！？
+SeasonalTalkEvent_005_00_028ID	18	Saskia	ザスキア	……それは、どういうものなのかしら？	Saskia	Now, then. Why don't you tell us what this does?	萨丝琪亚	……你调合的是什么呀？	薩絲琪亞	……那是什麼樣的物品呢？
+SeasonalTalkEvent_005_00_028ID	19	Resna	レスナ	実際に使ってみるのが一番分かりやすいかと思います	Resna	Actually, I think it'd be a lot easier to understand if I just showed you.	蕾斯娜	我相信实际用用看可以带给大家最直观的感受。	蕾斯娜	我想實際使用後大家會更好理解。
+SeasonalTalkEvent_005_00_028ID	20	Saskia	ザスキア	分かりました。使ってみなさい	Saskia	Very well, go ahead.	萨丝琪亚	知道了。那就请你实际演示吧。	薩絲琪亞	我明白了，妳就試用看看吧。
+SeasonalTalkEvent_005_00_028ID	21		生徒Ｇ	ま、まさかホントに爆弾！？	Student G	That's not seriously a bomb, right?!	学生G	不、不会真的是炸弹吧？！	學生G	不、不會真的是炸彈吧！？
+SeasonalTalkEvent_005_00_028ID	22		生徒Ｈ	わああああ！？	Student H	Whoooa!	学生H	哇啊啊啊啊？！	學生H	哇啊啊啊啊！？
+SeasonalTalkEvent_005_00_028ID	23		生徒Ｇ	…………	Student G	...	学生G	……	學生G	…………
+SeasonalTalkEvent_005_00_028ID	24		生徒Ｈ	…………	Student H	...	学生H	……	學生H	…………
+SeasonalTalkEvent_005_00_028ID	25	Mimi	ミミ	こ……これは……	Mimi	Th-This is...	敏敏	这……这是……	敏敏	這……這是……
+SeasonalTalkEvent_005_00_028ID	26	Marion	マリオン	これは、どういったものか……\nレスナさん、説明してくれる？	Marion	Well, I think some explanations are still in order. Resna, if you wouldn't mind?	玛丽翁	这是什么……\n蕾斯娜同学，你能介绍一下吗？	瑪麗翁	這是什麼東西……\n蕾斯娜同學，能麻煩妳說明一下嗎？
+SeasonalTalkEvent_005_00_028ID	27	Resna	レスナ	はい。これは私が調合するときに感じるイメージを\n再現する道具です	Resna	Right! I wanted to make a tool that recreated the feeling of my very first synthesis.	蕾斯娜	好的。这个道具能够重现我调合时的心理感受。	蕾斯娜	好的，\n這是能把我在調合時感覺到的意象重現出來的道具。
+SeasonalTalkEvent_005_00_028ID	28	Resna	レスナ	私が初めてこのイメージに出会ったのは、幾度も失敗\nを繰り返し、身も心も疲れ果てていた時でした	Resna	This was the vision I had after my body and soul had been run ragged from an endless string of failures.	蕾斯娜	我第一次有这种感受，是在经历了无数次失败，\n身心俱疲的时候。	蕾斯娜	就在我重複失敗了好幾次，身心俱疲的時候，\n第一次體會到了這種意象。
+SeasonalTalkEvent_005_00_028ID	29	Resna	レスナ	軽やかに舞う光の粒、身体が羽のように軽くなる感覚。\nまるで夢を見ているようでした	Resna	The bright specks of light that danced around me made me feel so light. It was just like a dream!	蕾斯娜	在轻盈飞舞的光点包围中，身体像羽毛一样变得轻快，\n简直仿佛在做梦一样。	蕾斯娜	輕快飛舞的光點，身體彷彿變得像羽毛一樣輕盈，\n感覺就好像在做夢一樣。
+SeasonalTalkEvent_005_00_028ID	30	Resna	レスナ	これは私が苦労した末にたどり着いた、\n一番、心地のいい瞬間なんです	Resna	I'd struggled so much to get there, so that moment felt extremely comforting.	蕾斯娜	这是我经历了艰苦的特训后茅塞顿开，\n心情最舒畅的瞬间。	蕾斯娜	這是我在費盡千辛萬苦之後，\n所體會到最暢快的一瞬間。
+SeasonalTalkEvent_005_00_028ID	31	Saskia	ザスキア	……なるほど、考えたわね。\n採点するのも錬金術士だと、理解している	Saskia	Hm, you really gave this some thought. That is to say, you took your judges into consideration.	萨丝琪亚	……原来是这样，很有想法。\n而且你明白打分的人也都是炼金术士。	薩絲琪亞	……原來如此，妳想得很周到呢。\n也很清楚評分者會是鍊金術士。
+SeasonalTalkEvent_005_00_028ID	32	Marie	マリー	そして錬金術士なら、\nこの感覚を知らないわけがない	Marie	Mhm. Every single alchemist knows exactly how this feels.	玛莉	而身为炼金术士就不可能不知道这种感觉。	瑪莉	而只要是鍊金術士，就一定知道這種感覺。
+SeasonalTalkEvent_005_00_028ID	33	Marion	マリオン	結果は……みんなの顔が物語ってるわね	Marion	Precisely. You can tell by the smiles on everyone's faces.	玛丽翁	结果……都已经写在大家的脸上了。	瑪麗翁	考試的結果……從大家的表情就能看出來了。
+SeasonalTalkEvent_005_00_029ID	0	Resna	レスナ	（それから――）	Resna	(And then...)	蕾斯娜	（在那之后——）	蕾斯娜	（考試結束後──）
+SeasonalTalkEvent_005_00_029ID	1	Sophie	ソフィー	試験合格おめでとう、レスナちゃん！	Sophie	Congrats on passing the test, Resna!	苏菲	恭喜你通过了考试，蕾斯娜！	蘇菲	恭喜妳通過考試，蕾斯娜！
+SeasonalTalkEvent_005_00_029ID	2	Marie	マリー	あの短期間で、よく頑張ったわよ	Marie	You sure worked hard in a short amount of time!	玛莉	能在短期内做出那样的成果，你真的非常努力了。	瑪莉	能在這麼短的時間內學會調合，妳真的很努力呢。
+SeasonalTalkEvent_005_00_029ID	3	Resna	レスナ	ソフィー先輩、マルローネ先生、皆さんも……\n本当にありがとうございました！	Resna	Everyone... I can't thank you enough for all of your help! Especially you, Sophie! And Miss Marlone, too!	蕾斯娜	苏菲前辈、玛洛娜老师，还有同学们……\n真的非常感谢你们！	蕾斯娜	蘇菲學姐、瑪洛娜老師，還有各位……\n真的非常謝謝妳們！
+SeasonalTalkEvent_005_00_029ID	4	Resna	レスナ	おかげで諦めかけていた夢を\nまた追い続けることができそうです	Resna	Now I won't have to give up on my dream! I can keep chasing after it!	蕾斯娜	因为有你们我才没有放弃，\n得以坚持追寻自己的梦想。	蕾斯娜	託大家的福，\n我又能繼續追逐快要放棄的夢想了。
+SeasonalTalkEvent_005_00_029ID	5	Rorona	ロロナ	ふふ……よかった	Rorona	Hehe... That's great.	萝乐娜	呵呵呵……真是太好了。	蘿樂娜	呵呵……太好了。
+SeasonalTalkEvent_005_00_029ID	6	Ryza	ライザ	よーし、レスナ！　心置きなく学園生活を謳歌しよう！	Ryza	All right, Resna! Let's really and truly enjoy the rest of the school year!	莱莎	好了，蕾斯娜！来尽情地讴歌学园生活吧！	萊莎	好～蕾斯娜！我們就放心地享受校園生活吧！
+SeasonalTalkEvent_005_00_029ID	7	Resna	レスナ	はい！	Resna	Yeah!	蕾斯娜	好的！	蕾斯娜	好！
+SeasonalTalkEvent_005_00_029ID	8	Resna	レスナ	あ、ザスキア先生！	Resna	Oh! Miss Saskia!	蕾斯娜	啊，萨丝琪亚老师！	蕾斯娜	啊，薩絲琪亞老師！
+SeasonalTalkEvent_005_00_029ID	9	Saskia	ザスキア	あら、レスナ。試験合格おめでとう	Saskia	Why, if it isn't Resna. Congratulations on successfully passing.	萨丝琪亚	哎呀，是蕾斯娜啊。恭喜你通过了考试。	薩絲琪亞	哎呀，是蕾斯娜。恭喜妳合格。
+SeasonalTalkEvent_005_00_029ID	10	Resna	レスナ	今日もＣ定食を食べるんですか？	Resna	Are you getting the C special again today?	蕾斯娜	您今天也吃C套餐吗？	蕾斯娜	老師今天也要吃C套餐嗎？
+SeasonalTalkEvent_005_00_029ID	11	Saskia	ザスキア	ええ。レスナと違って、まだ待たされそうね	Saskia	Indeed. Though, it seems that it will be some time before there is any progress on that front.	萨丝琪亚	是啊。看来实习厨师和蕾斯娜不一样，我还得继续等他啊。	薩絲琪亞	是啊，他們不像妳，大概還有得等呢。
+SeasonalTalkEvent_005_00_029ID	12	Resna	レスナ	その……待った甲斐はあったでしょうか？	Resna	Is that sort of thing worth the wait?	蕾斯娜	唔……您觉得等待值得吗？	蕾斯娜	請問……我的表現有值得等待嗎？
+SeasonalTalkEvent_005_00_029ID	13	Saskia	ザスキア	……ええ。とても楽しませてもらったわ	Saskia	Oh, absolutely. It brings me untold joy.	萨丝琪亚	……嗯，这次我很开心。	薩絲琪亞	……當然，我看得很開心呢。
+SeasonalTalkEvent_005_00_029ID	14	Saskia	ザスキア	でもね。私は強欲なの	Saskia	Then again, I suppose I can be somewhat insatiable.	萨丝琪亚	不过，我是很贪婪的。	薩絲琪亞	不過，我這個人很貪心的。
+SeasonalTalkEvent_005_00_029ID	15	Saskia	ザスキア	また、次を楽しみにしているわ	Saskia	I can't wait to see what unfolds.	萨丝琪亚	现在已经开始期待下次了哦。	薩絲琪亞	我很期待妳下次的表現喔。
+SeasonalTalkEvent_005_00_029ID	16	Mimi	ミミ	…………？	Mimi	...?	敏敏	……？	敏敏	…………？
+SeasonalTalkEvent_005_00_029ID	17	Resna	レスナ	次……？	Resna	Huh?	蕾斯娜	下次……？	蕾斯娜	下次……？
+SeasonalTalkEvent_005_00_029ID	18	Mimi	ミミ	……どういうことでしょう？	Mimi	What was that supposed to mean?	敏敏	……什么意思啊？	敏敏	……這是什麼意思啊？
+SeasonalTalkEvent_005_00_029ID	19	Resna	レスナ	えっと……私にもよく分からないです	Resna	Um... I'm not too sure, either.	蕾斯娜	唔……我也不是很懂。	蕾斯娜	呃……我也不太明白。
+SeasonalTalkEvent_005_00_029ID	20	Resna	レスナ	優しい人だと思ったんですけど、\nやっぱり不思議な人でした	Resna	I still think she's a nice person, but... She's so strange.	蕾斯娜	我以为她是个温柔的人，\n但果然还是个不可思议的人啊。	蕾斯娜	我還以為老師是個溫柔的人，\n沒想到結果她還是這麼神秘又難以捉摸。
+SeasonalTalkEvent_005_00_029ID	21	Ryza	ライザ	まあ、そんなことよりも！\nみんな、次の試験の対策ちゃんとしてる？	Ryza	Okay, anyway! Have you guys already started thinking about the next test?	莱莎	先不说这个了。\n你们有没有好好准备下次考试呀？	萊莎	哎呀，別討論老師了！\n妳們都有在認真準備下次的考試嗎？
+SeasonalTalkEvent_005_00_029ID	22	Resna	レスナ	……次の試験？	Resna	Um, which one's that?	蕾斯娜	……下次考试？	蕾斯娜	……下次考試？
+SeasonalTalkEvent_005_00_029ID	23	Ryza	ライザ	あれ、まだ聞いてなかったんだっけ？\n１か月後に筆記試験があるんだよ	Ryza	Huh? Didn't anyone tell you? There's a written one we have to do next month.	莱莎	咦，你还不知道吗？\n一个月后会有笔试哦。	萊莎	嗯？妳還沒聽說嗎？\n一個月後有一場筆試喔。
+SeasonalTalkEvent_005_00_029ID	24	Resna	レスナ	よかった……筆記試験なら自信があります！\n錬金術のことなら、なんだってお任せです！	Resna	Oh, thank goodness... I'm plenty good at paper tests! And I'm pretty confident I could answer anything and everything about alchemy!	蕾斯娜	太好了……笔试是我的拿手好戏！\n炼金术的任何问题都尽管问吧！	蕾斯娜	太好了……筆試我就有自信了！\n跟鍊金術有關的事儘管包在我身上！
+SeasonalTalkEvent_005_00_029ID	25	Rorona	ロロナ	レスナちゃん、違うよ。\n錬金術以外の一般教科の試験があるんだよ	Rorona	Um, Resna? That's not exactly how it works. The test covers every subject BUT alchemy. It's a much more generalized exam.	萝乐娜	蕾斯娜，不是的。\n除了炼金术以外，我们还要参加普通科目的考试。	蘿樂娜	蕾斯娜，不是啦。\n是鍊金術以外的一般科目考試。
+SeasonalTalkEvent_005_00_029ID	26	Resna	レスナ	え	Resna	What?	蕾斯娜	咦？	蕾斯娜	咦？
+SeasonalTalkEvent_005_00_029ID	27	Sophie	ソフィー	錬金術科は一般教科の点数も優秀な成績を\nおさめないと……退学なんだよ	Sophie	It gets worse. Alchemy students have to have higher than average scores, or they'll get expelled.	苏菲	在炼金术科，如果普通科目上拿不到\n优秀的成绩……是会被退学的。	蘇菲	鍊金術科的學生如果沒在一般科目也取得優秀的成績……\n是會被退學的。
+SeasonalTalkEvent_005_00_029ID	28	Resna	レスナ	そ、そんなあああ！！！	Resna	N-No way!	蕾斯娜	怎、怎么会这样啊啊啊！！	蕾斯娜	怎、怎麼這樣啊──！！！
+SeasonalTalkEvent_005_00_029ID	29	Ryza	ライザ	あれ、レスナ。もしかして自信ない？	Ryza	Uh, Resna? Aren't you supposed to be good at that sort of thing?	莱莎	哎呀，蕾斯娜，你难道没有信心吗？	萊莎	咦，蕾斯娜，難道妳沒信心？
+SeasonalTalkEvent_005_00_029ID	30	Resna	レスナ	だ、だって……実技試験のために、\nぜんぜん授業出てませんでしたし……	Resna	Y-Yeah, but... I skipped a whole bunch of regular classes to get ready for the practical!	蕾斯娜	因、因为……我为了准备实操考试，\n最近完全没有来上课……	蕾斯娜	因、因為……我為了通過實作考試，\n都沒去上課嘛……
+SeasonalTalkEvent_005_00_029ID	31	Sophie	ソフィー	それじゃあまた、あたしの家で泊まり込みだね！	Sophie	Don't worry! You can just come stay at my house again!	苏菲	那就再来我家过夜吧！	蘇菲	那這麼看來，妳又要來我家住了吧！
+SeasonalTalkEvent_005_00_029ID	32	Resna	レスナ	ひえええええ！！！	Resna	Nooo!	蕾斯娜	咦——！！！	蕾斯娜	咦咦咦咦咦咦！！！
+SeasonalTalkEvent_005_00_029ID	33	Resna	レスナ	（こうして、私の学園生活が\n　本当の意味で始まるのでした）	Resna	(My school life really is just getting started!)	蕾斯娜	（就这样，我的学园生活真的要开始了。）	蕾斯娜	（就這樣，\n　我的校園生活正式開始了。）

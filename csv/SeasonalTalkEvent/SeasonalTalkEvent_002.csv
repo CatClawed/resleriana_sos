@@ -1,0 +1,438 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_002_001ID	0	Patricia	パトリツィア	……この服、どうでしょうか？	Patricia	Um, how does this outfit look on me?	帕特莉夏	……这件衣服怎么样？	派翠夏	……這件衣服如何？
+SeasonalTalkEvent_002_001ID	1	Resna	レスナ	とっても似合ってますよ、パトリツィアさん	Resna	It couldn't be any more perfect, Patricia!	蕾斯娜	很适合你哦，帕特莉夏小姐。	蕾斯娜	很適合妳唷，派翠夏小姐。
+SeasonalTalkEvent_002_001ID	2	Patricia	パトリツィア	ありがとうございます。レスナさんも、\nお似合いです	Patricia	Thank you very much. You look wonderful in yours as well, Miss Resna.	帕特莉夏	谢谢夸奖。\n蕾斯娜小姐穿的这身也很适合你。	派翠夏	多謝誇獎。\n蕾斯娜小姐的裝扮也很好看。
+SeasonalTalkEvent_002_001ID	3	Resna	レスナ	えへへ、そう言ってもらえると嬉しいです	Resna	Ehehe! I'm glad to hear you say it!	蕾斯娜	嘿嘿，你能这么说我好开心。	蕾斯娜	嘿嘿，能被這麼說真是太好了。
+SeasonalTalkEvent_002_001ID	4	Patricia	パトリツィア	ランターナの星誕祭（せいたんさい）……\n面白い行事ですね	Patricia	Lantarna's Starbirth Festival certainly is fascinating, isn't it?	帕特莉夏	兰塔纳的星诞祭……\n好有趣的活动啊。	派翠夏	蘭塔納的星誕祭……\n真是有趣的活動。
+SeasonalTalkEvent_002_001ID	5	Resna	レスナ	はい、星の誕生日と定めた日を、みんなで祝うんです	Resna	Yeah! Everyone gets together to celebrate the birth of the planet.	蕾斯娜	嗯，大家会一起庆祝星星诞生的这一天。	蕾斯娜	沒錯。這是大家一起慶祝星星誕生的日子。
+SeasonalTalkEvent_002_001ID	6	Resna	レスナ	夜には、そりに乗った「星誕の使者」が現れて、\nランターナの人々にプレゼントを届けてくれる！	Resna	And then at night, the Starbirth Envoy comes riding on a sleigh to deliver presents to everyone!	蕾斯娜	还有这样一个传说——乘着雪橇的“星诞使者”\n会在夜晚出现，为兰塔纳的人们发放礼物！	蕾斯娜	在童話故事中，「星誕使者」會在夜晚駕著雪橇，\n將禮物送到蘭塔納的居民家中！
+SeasonalTalkEvent_002_001ID	7	Resna	レスナ	……というおとぎ話がありまして、身近な人に\nプレゼントを贈る行事になっています	Resna	Or so the story goes, but what really happens is that people give gifts to those they're close to.	蕾斯娜	因此人们有在这一天给亲近的人赠送礼物的习俗。	蕾斯娜	……後來，就演變成\n贈送禮物給親朋好友的活動。
+SeasonalTalkEvent_002_001ID	8	Resna	レスナ	でも、そんな素敵な使者が本当にいたらいいなって\n思っている人も、たくさんいるんです	Resna	Still, it would be great if an envoy that fantastic actually did exist. It's no wonder so many people keep that story going!	蕾斯娜	不过，也有很多人期待\n如此善良的星诞使者真实存在。	蕾斯娜	不過，仍然有許多人\n希望現實中真的存在這種使者。
+SeasonalTalkEvent_002_001ID	9	Patricia	パトリツィア	ロマンチックですもんね。\nそして今日私たちは、星誕の使者の格好をしています	Patricia	There's a certain allure to it, isn't there? Which is why we have dressed up like the fictitious envoy.	帕特莉夏	毕竟要是那样一定很浪漫嘛。\n所以我们今天才会扮成星诞使者的样子。	派翠夏	真是浪漫呢。\n而且我們今天又打扮成星誕使者的樣子。
+SeasonalTalkEvent_002_001ID	10	Resna	レスナ	はい。寓話を、本当にやってみる大作戦！！	Resna	Yep! Also, because it's part of our grand plan to make that story come true!	蕾斯娜	嗯，这是一场让传说成真的大作战！！	蕾斯娜	沒錯。我們要嘗試讓童話成真！！
+SeasonalTalkEvent_002_001ID	11	Resna	レスナ	今年の星誕祭は、私たちが星誕の使者となりて……	Resna	We're going to become genuine Starbirth Envoys...	蕾斯娜	在今年的星诞祭，我们要化作星诞使者……	蕾斯娜	今年的星誕祭，我們將扮演星誕使者……
+SeasonalTalkEvent_002_001ID	12	Resna	レスナ	お世話になった人や街の人にプレゼントをお届け！！	Resna	...and deliver presents to everyone in Lantarna who helped us out this year!	蕾斯娜	为关照过我们的人们送去礼物！！	蕾斯娜	將禮物送給照顧過我們的人們和城鎮居民！！
+SeasonalTalkEvent_002_001ID	13	Patricia	パトリツィア	はい、とっても素敵な考えだと思います	Patricia	Which I think is a lovely idea.	帕特莉夏	嗯，我觉得这个主意棒极了。	派翠夏	嗯，這是個很棒的主意。
+SeasonalTalkEvent_002_001ID	14	Patricia	パトリツィア	ぜひ、私にもお手伝いさせてください	Patricia	I'm so glad that you're allowing me to assist you.	帕特莉夏	请务必让我也来帮忙！	派翠夏	請務必讓我幫忙。
+SeasonalTalkEvent_002_001ID	15	Resna	レスナ	とっても助かります！\nプレゼントをたくさん配る予定ですから	Resna	Well, having you there would be such a big help. There are a lot of presents that need to be delivered!	蕾斯娜	太感谢你了！\n因为我打算派发好多好多礼物。	蕾斯娜	實在太感謝了！\n因為我準備了非常多份禮物。
+SeasonalTalkEvent_002_001ID	16	Patricia	パトリツィア	この試みは、皆に内緒という事でいいですか？	Patricia	Are you sure that we should be keeping this endeavor a secret, though?	帕特莉夏	这件事要向大家保密吗？	派翠夏	這個計畫要對大家保密，對嗎？
+SeasonalTalkEvent_002_001ID	17	Resna	レスナ	いかにも！	Resna	Absolutely!	蕾斯娜	当然了！	蕾斯娜	那當然了！
+SeasonalTalkEvent_002_001ID	18	Resna	レスナ	星誕の使者は正体が明らかになっていないんです。\nだから、この計画はみんなに知られないようにしないと	Resna	The Starbirth Envoy doesn't have a proven identity, after all, so I think it's better to not let anyone else in on this plan!	蕾斯娜	星诞使者的真实身份还是个谜团。\n所以这个计划绝对不能让大家知道。	蕾斯娜	星誕使者的身分是個謎。\n所以，絕對不能被大家發現。
+SeasonalTalkEvent_002_001ID	19	Saskia	ザスキア	あら、似合ってるわね	Saskia	My, that style rather suits you.	萨丝琪亚	哎呀，这身衣服和你很配哦。	薩絲琪亞	哎呀，這身打扮真適合妳們。
+SeasonalTalkEvent_002_001ID	20	Resna	レスナ	えっ、師匠！？　いたんですか！？	Resna	Huh? Miss Saskia?! How long have you been standing there?!	蕾斯娜	咦，师父？！你在啊？！	蕾斯娜	咦，師父！？原來妳在啊！？
+SeasonalTalkEvent_002_001ID	21	Saskia	ザスキア	ええ。話もバッチリ聞いてたわよ	Saskia	Oh, long enough. I heard the whole thing.	萨丝琪亚	嗯，你说的我也全都听见了。	薩絲琪亞	嗯。妳們的對話我也聽得一清二楚喔。
+SeasonalTalkEvent_002_001ID	22	Patricia	パトリツィア	早速バレているじゃないですか	Patricia	Well, there goes that surprise.	帕特莉夏	这么快就暴露了啊。	派翠夏	馬上就被發現了呢。
+SeasonalTalkEvent_002_001ID	23	Resna	レスナ	うぅぅ、やっぱりアトリエを使う以上\n秘密にするのは無理かぁ	Resna	Ooooh, I should've known that keeping things completely hush-hush in the atelier was going to be pretty much impossible.	蕾斯娜	呜呜……\n在炼金工房的场地做准备就很难保密啊。	蕾斯娜	嗚嗚，果然在鍊金工房\n是不可能保有秘密的～
+SeasonalTalkEvent_002_001ID	24	Saskia	ザスキア	星誕祭に全力で取り組む気なのね。素敵よ、二人とも\n	Saskia	I think it's marvelous that you're both taking the holiday so seriously.	萨丝琪亚	你们想尽全力举行星诞祭呢，想法很好。	薩絲琪亞	看來妳們打算全力準備星誕祭呢。真是太棒了。
+SeasonalTalkEvent_002_001ID	25	Resna	レスナ	師匠にもプレゼント持ってきますね	Resna	I'll have a present for you too, Miss Saskia.	蕾斯娜	我们也会送师父礼物的。	蕾斯娜	我們也準備了給師父的禮物。
+SeasonalTalkEvent_002_001ID	26	Saskia	ザスキア	あら、ありがと。\n前もってお礼しちゃおうかしら～？	Saskia	Well now! Thank you. Perhaps I should show my appreciation in advance?	萨丝琪亚	是嘛，谢谢你。\n我是不是该提前准备回礼～？	薩絲琪亞	哎呀，謝謝妳們。\n我是不是該提前回禮呢～？
+SeasonalTalkEvent_002_001ID	27	Resna	レスナ	き、気が早いですよ、師匠～	Resna	Y-You're getting too far ahead of things, Miss Saskia!	蕾斯娜	你、你这也太心急啦，师父～	蕾斯娜	師、師父妳太心急了啦～
+SeasonalTalkEvent_002_001ID	28	Resna	レスナ	さ、さて、気を取り直して行動開始といきますか。\nこうなった以上、堂々と、この出で立ちで	Resna	O-Okay! Give me a second to collect myself, and then we'll go. I'm just going to wear this outfit with pride!	蕾斯娜	好、好啦，调整一下心态，该开始行动了。\n事已至此就光明正大地出发吧。	蕾斯娜	那、那就重新振作，開始行動吧。\n既然都被發現了，乾脆抬頭挺胸地走出去好了。
+SeasonalTalkEvent_002_001ID	29	Patricia	パトリツィア	はい、この格好をしているのは、あくまで星誕祭を\n盛り上げるため、という事にしておきましょう	Patricia	Yes, it's an important part of getting people excited for the Starbirth Festival.	帕特莉夏	嗯，我们不如先准备好说辞，\n就说打扮成这样只是为了炒热星诞祭的氛围吧。	派翠夏	嗯，我們只是為了\n要炒熱星誕祭的氣氛，才打扮成這樣！
+SeasonalTalkEvent_002_001ID	30	Resna	レスナ	おおっ！　才気煥発！\nプレゼントの事は伏せておきましょうね	Resna	Oooh! I just got a great idea! We should hide the presents!	蕾斯娜	哦！真是足智多谋！\n至于礼物的事就先不提好了。	蕾斯娜	哦～！妳真聰明！\n但禮物的事要先保密喔。
+SeasonalTalkEvent_002_001ID	31	Patricia	パトリツィア	ではまず、贈り物を作るための素材の調達や、\nそりの用意ですね	Patricia	Before that, though, we'll need the materials and such to make them, as well as prepare the sleigh.	帕特莉夏	那首先要去筹备制作礼物所需的素材，\n还得准备雪橇。	派翠夏	首先，我們必須\n取得製作禮物的素材和雪橇。
+SeasonalTalkEvent_002_001ID	32	Resna	レスナ	いざ参らん！　素材集めに！	Resna	Now, onwards! To collect materials!	蕾斯娜	出发吧！收集素材！	蕾斯娜	走吧！我們去蒐集素材！
+SeasonalTalkEvent_002_001ID	33	Patricia	パトリツィア	はい！　	Patricia	Yes, let's go!　	帕特莉夏	好的！　	派翠夏	好！　
+SeasonalTalkEvent_002_001ID	34	Resna Sternenlicht	レスナ・シュテルネンリヒト	駆け出しの錬金術士。街の人々やお世話になった人々に\n星誕祭を楽しんでもらおうとしている	Resna Sternenlicht	An up-and-coming alchemist who wants to bring joy to the people of Lantarna through the Starbirth Festival.	蕾斯娜·修特涅利希特	初出茅庐的炼金术士。\n想让关照过自己的人们开心度过星诞祭。	蕾斯娜‧修特涅利希特	菜鳥鍊金術士。希望城鎮居民與曾幫助自己的人\n能享受特別的星誕祭。
+SeasonalTalkEvent_002_001ID	35	Patricia Abelheim	パトリツィア・アーベルハイム	資産家の娘。礼儀正しいが、時に猛進することもある。\nある人物のために星誕祭の準備を手伝っている	Patricia Abelheim	The courteous daughter of a wealthy family, with the odd reckless streak. She's keen on helping make the Starbirth Festival special for a certain someone.	帕特莉夏·阿贝尔海姆	有钱人家的女儿。礼数周全，但偶尔会鲁莽行事。\n是为了某个人才协助准备星诞祭的。	派翠夏‧阿貝爾海姆	有錢人家的女兒。舉止溫文儒雅，但也有衝動的時候。\n正在幫助某人準備星誕祭。
+SeasonalTalkEvent_002_002ID	0	Resna	レスナ	あっ、イザナちゃんだ	Resna	Oh! Izana!	蕾斯娜	啊，是伊札娜。	蕾斯娜	啊，是伊札娜。
+SeasonalTalkEvent_002_002ID	1	Izana	イザナ	わー！　レスナちゃん！　パティ！！\n星誕祭の格好だ！\n	Izana	Wow, Resna?! And Patty?! And you're all dressed up for the Starbirth Festival!	伊札娜	哇！蕾斯娜！帕蒂！！\n你们穿的是星诞祭的衣服！	伊札娜	哇～！蕾斯娜！派蒂！！\n是星誕祭的衣服！
+SeasonalTalkEvent_002_002ID	2	Izana	イザナ	かーわいいー！！\n	Izana	You're both too adorable for words!	伊札娜	好可爱！！	伊札娜	好～可～愛～！！
+SeasonalTalkEvent_002_002ID	3	Patricia	パトリツィア	こんにちは、イザナさん。ハンマーの特訓ですか	Patricia	Hello, Miss Izana. Are you out training with your hammer?	帕特莉夏	你好，伊札娜小姐。你是在进行锤子的特训吗？	派翠夏	妳好，伊札娜小姐。妳在進行重鎚特訓嗎？
+SeasonalTalkEvent_002_002ID	4	Izana	イザナ	うん、いい汗をかいてたんだ。これから家に帰って、\n今度は騎士試験に向けて座学をやるんだけど	Izana	Yep! I got in a pretty good workout, so I was just on my way home. I thought I'd do some studying for the knight exam.	伊札娜	嗯，练得很畅快。我接下来还要\n回家学习书本课程，为骑士考试做准备。	伊札娜	嗯，出了一身汗呢。我現在正要回家，\n然後為了騎士考試要去聽講座。
+SeasonalTalkEvent_002_002ID	5	Izana	イザナ	レスナちゃん、なになに？\nどうしてこんなに可愛い格好してるの？	Izana	But what are YOU up to, Resna? Why are you wearing such a cute outfit?	伊札娜	蕾斯娜，发生什么事了？\n为什么要穿得这么可爱？	伊札娜	蕾斯娜，發生什麼事了？\n為什麼穿得這麼可愛？
+SeasonalTalkEvent_002_002ID	6	Resna	レスナ	う、うん、異邦人のみんなにも\n星誕祭の雰囲気を楽しんでもらえたらなって思って	Resna	Um, I thought it might help the Starbirth Festival feel more special for the wanderers.	蕾斯娜	是、是这样的，\n我想让异邦人们也能享受星诞祭的氛围。	蕾斯娜	唔、嗯……因為我想讓異邦人\n也能好好感受星誕祭的氣氛。
+SeasonalTalkEvent_002_002ID	7	Izana	イザナ	ふーん？　いいね！\n異邦人の皆もランターナの行事を体験できるし	Izana	Oh, really? That's great! They should experience some fun things while they're in Lantarna!	伊札娜	哦？真不错！\n这样异邦人也能体验兰塔纳的节日活动了。	伊札娜	哦～？不錯嘛！\n讓異邦人體驗蘭塔納的傳統。
+SeasonalTalkEvent_002_002ID	8	Izana	イザナ	よーし、そうと決まれば手伝うよ、レスナちゃん！	Izana	Well then, that means I've definitely got to lend a hand!	伊札娜	好，我也来帮你吧，蕾斯娜！	伊札娜	那～蕾斯娜，我也一起來幫忙好了！
+SeasonalTalkEvent_002_002ID	9	Resna	レスナ	イザナちゃんは大事なお勉強があるんでしょ？\nこの期間は座学に集中するって宣言してたし	Resna	Um, don't you have super important stuff to study, Izana? I thought you said you were going to buckle down and study hard over the holidays.	蕾斯娜	伊札娜还得为重要的考试做准备吧？\n你不是都向大家放话说这段时间要集中精力学习了嘛。	蕾斯娜	伊札娜得準備重要的考試吧？\n妳不是才剛宣布這段期間要專心上課嗎？
+SeasonalTalkEvent_002_002ID	10	Izana	イザナ	そ、そうではあるんだけど	Izana	I-I might've said something like that, yeah.	伊札娜	是、是这样没错啦。	伊札娜	是、是這樣沒錯啦。
+SeasonalTalkEvent_002_002ID	11	Resna	レスナ	私とパトリツィアさんだけじゃ手に負えない事が\n起きそうだったら、イザナちゃんに相談するね	Resna	If it gets to be too much for me and Patricia to handle, we'll come to you for help, okay?	蕾斯娜	如果发生了我和帕特莉夏小姐无法应对的事，\n我再来找你商量。	蕾斯娜	如果遇到我和派翠夏小姐無法解決的事，\n我再來找伊札娜商量。
+SeasonalTalkEvent_002_002ID	12	Izana	イザナ	うぅ、分かった……家に戻るよ	Izana	Sure, that sounds all right, I guess... I'll just go back home, then.	伊札娜	呜呜，好吧……我这就回家。	伊札娜	唔，好吧……那我先回家。
+SeasonalTalkEvent_002_002ID	13	Resna	レスナ	あぁっ、イザナちゃ～ん、やっぱり一緒に――	Resna	Ooh, I can't do this! Izanaaa! You should joi—	蕾斯娜	啊，伊札娜，要不你还是跟我们一起——	蕾斯娜	啊、伊札娜～我們還是一起──
+SeasonalTalkEvent_002_002ID	14	Patricia	パトリツィア	レスナさん甘過ぎですよ！　\nほらイザナさーん！　座学座学ーっ！	Patricia	Do not give in so easily, Miss Resna! Miss Izana—make sure you go straight home and study!	帕特莉夏	蕾斯娜小姐，你太容易心软了！\n好啦，伊札娜小姐，快去学习吧！	派翠夏	蕾斯娜小姐，妳太縱容她了！\n伊札娜小姐！講座講座──！
+SeasonalTalkEvent_002_002ID	15	Resna	レスナ	は、はーい！	Resna	Y-Yes, ma'am!	蕾斯娜	是、是呀！	蕾斯娜	知、知道了～！
+SeasonalTalkEvent_002_002ID	16	Patricia	パトリツィア	なんだか珍しい魔物がいますね	Patricia	Hm, there are some peculiar monsters around.	帕特莉夏	这只魔物感觉很罕见呢。	派翠夏	似乎有不常見的魔物在呢。
+SeasonalTalkEvent_002_002ID	17	Resna	レスナ	はい、好奇心が強い魔物で、そのへんの\n落ちているものとかを身につけているんですよ	Resna	Yep! These ones are super curious, and they like sticking the things they find to themselves.	蕾斯娜	是的，这是一种好奇心很强的魔物，\n会把掉落在附近的东西戴在自己身上。	蕾斯娜	嗯，那種魔物好奇心相當旺盛，\n喜歡撿地上的東西裝飾自己。
+SeasonalTalkEvent_002_002ID	18	Patricia	パトリツィア	だから今の時期は、ああいう外見なんですね	Patricia	So they end up looking a little different at this time of year.	帕特莉夏	所以它在这个时节会变成现在那种样子。	派翠夏	所以這陣子才會變成那副模樣啊。
+SeasonalTalkEvent_002_002ID	19	Resna	レスナ	行商人を襲ったりする不届き者なので、\n倒しておきましょう。二人なら全然いけます！	Resna	But they don't have any manners. They attack merchants, so we'd better take them down. Besides, it'd be a piece of cake for the two of us!	蕾斯娜	它是会袭击旅行商人的坏家伙，\n所以我们去打倒它吧。凭我们俩一定能做到！	蕾斯娜	這些不守規矩的傢伙會襲擊旅行商人，\n先打倒牠們吧。憑我們兩個絕對沒問題！
+SeasonalTalkEvent_002_002ID	20	Patricia	パトリツィア	良い素材も集められそうです	Patricia	I would imagine they have some fine materials as well.	帕特莉夏	好像能收集到不错的素材。	派翠夏	也許還能蒐集到不錯的素材。
+SeasonalTalkEvent_002_002ID	21	Resna	レスナ	レスナ・シュテルネンリヒト！	Resna	I, Resna Sternenlicht!	蕾斯娜	蕾斯娜·修特涅利希特！	蕾斯娜	蕾斯娜‧修特涅利希特！
+SeasonalTalkEvent_002_002ID	22	Patricia	パトリツィア	パトリツィア・アーベルハイム！	Patricia	And I, Patricia Abelheim!	帕特莉夏	帕特莉夏·阿贝尔海姆！	派翠夏	派翠夏‧阿貝爾海姆！
+SeasonalTalkEvent_002_002ID	23	Resna	レスナ	いざ尋常に	Resna	Are going to...	蕾斯娜	堂堂正正地……	蕾斯娜	堂堂正正地……
+SeasonalTalkEvent_002_002ID	24	Patricia	パトリツィア	勝負です！	Patricia	...win in a flash!	帕特莉夏	一决胜负吧！	派翠夏	一決勝負！
+SeasonalTalkEvent_002_003ID	0	Patricia	パトリツィア	素材、結構集まりましたね	Patricia	We've certainly gathered a lot of materials.	帕特莉夏	收获了不少素材呢。	派翠夏	蒐集到不少素材呢。
+SeasonalTalkEvent_002_003ID	1	Resna	レスナ	はい、少し休憩しましょう	Resna	Yeah, we should take a quick break.	蕾斯娜	是啊，稍微休息一会儿吧。	蕾斯娜	是啊，我們休息一下吧。
+SeasonalTalkEvent_002_003ID	2	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_002_003ID	3	Patricia	パトリツィア	どうかしましたか、レスナさん	Patricia	What's the matter, Miss Resna?	帕特莉夏	蕾斯娜小姐，怎么了？	派翠夏	怎麼了嗎，蕾斯娜小姐？
+SeasonalTalkEvent_002_003ID	4	Resna	レスナ	パトリツィアさんって、食べたり飲んだりする時とか\n細かい所作が、すごく綺麗ですよね	Resna	Whenever you're eating or drinking anything, you always make it look so elegant.	蕾斯娜	帕特莉夏小姐在用餐的时候，\n动作都很优雅呢。	蕾斯娜	派翠夏小姐無論是吃飯還是喝水，\n都非常優雅呢。
+SeasonalTalkEvent_002_003ID	5	Patricia	パトリツィア	そ、そうですか	Patricia	I-I see.	帕特莉夏	是、是吗……	派翠夏	是、是嗎？
+SeasonalTalkEvent_002_003ID	6	Resna	レスナ	はい、つい見とれてしまいます	Resna	I mean it! I can't help but stare.	蕾斯娜	是的，我都看入迷了。	蕾斯娜	嗯，不知不覺就看到入迷了。
+SeasonalTalkEvent_002_003ID	7	Patricia	パトリツィア	貴族として、ふさわしい所作を教え込まれてきました	Patricia	Well, as a member of the aristocracy, I was thoroughly educated in proper comportment.	帕特莉夏	我出身于贵族家庭，因此接受过相应的礼仪教育。	派翠夏	我曾接受過貴族的禮儀教育。
+SeasonalTalkEvent_002_003ID	8	Patricia	パトリツィア	礼儀を教えられてる時は、大変でしたけど、\nそうやってほめてもらえると、嬉しいですね	Patricia	Learning all those manners was rather troublesome, but I do appreciate being praised for my conduct.	帕特莉夏	学习礼仪非常辛苦，\n不过因此得到赞美还是很开心的。	派翠夏	儘管學習禮儀的過程很辛苦，\n但被別人誇獎時，還是會覺得非常開心。
+SeasonalTalkEvent_002_003ID	9	Patricia	パトリツィア	…………	Patricia	...	帕特莉夏	……	派翠夏	…………
+SeasonalTalkEvent_002_003ID	10	Resna	レスナ	どうかしましたか？	Resna	What's wrong?	蕾斯娜	怎么了？	蕾斯娜	怎麼了？
+SeasonalTalkEvent_002_003ID	11	Patricia	パトリツィア	貴族の話をしていて、父のことを思い出していました。\n今頃どうしているかなと	Patricia	Talking about my upbringing made me think of my father. I wonder how he's doing.	帕特莉夏	提起贵族，我就会想起父亲。\n不知道他现在在做什么。	派翠夏	說到貴族，讓我想起了我父親。\n不知道他現在過得如何。
+SeasonalTalkEvent_002_003ID	12	Resna	レスナ	お父さん、好きなんですね	Resna	You really love him, don't you?	蕾斯娜	你很敬爱你父亲呢。	蕾斯娜	妳很喜歡父親呢。
+SeasonalTalkEvent_002_003ID	13	Patricia	パトリツィア	はい、色々ありましたけどね	Patricia	Yes, I do. We have had our ups and downs, though.	帕特莉夏	是的。虽然我们之间也发生过不少事。	派翠夏	是啊，雖然發生了很多事情。
+SeasonalTalkEvent_002_003ID	14	Resna	レスナ	ところでパトリツィアさんは、誰かプレゼントを\n贈りたい人がいるんですか？	Resna	By the way... Patricia, is there anyone you want to give a present to?	蕾斯娜	说起来，\n帕特莉夏小姐有想送礼物的对象吗？	蕾斯娜	話說回來，\n派翠夏小姐妳有想要送禮的對象嗎？
+SeasonalTalkEvent_002_003ID	15	Patricia	パトリツィア	！	Patricia	!	帕特莉夏	！	派翠夏	！
+SeasonalTalkEvent_002_003ID	16	Patricia	パトリツィア	……はい、います。星誕祭の存在を知って、\nプレゼントをしたいなって	Patricia	Yes, there is. I've been thinking about it ever since I first heard about the Starbirth Festival.	帕特莉夏	……是的，我有想送礼物的人。\n得知星诞祭的事之后，我就决定要送那个人礼物了。	派翠夏	……有的。聽說了星誕祭的事之後，\n我打算趁這個機會送禮物給對方。
+SeasonalTalkEvent_002_003ID	17	Resna	レスナ	きっと喜びますよ。私でよければ手伝いますからね	Resna	I'm sure they'll be overjoyed! If there's anything I can help you with, just let me know!	蕾斯娜	那个人肯定会很开心的。不嫌弃的话我也会帮你准备的。	蕾斯娜	對方一定會很高興的。不介意的話，我可以幫忙喔。
+SeasonalTalkEvent_002_003ID	18	Patricia	パトリツィア	ありがとうございます	Patricia	Thank you very much.	帕特莉夏	谢谢你。	派翠夏	謝謝妳。
+SeasonalTalkEvent_002_003ID	19	Resna	レスナ	それでは、今度は王都に行きましょう。\n買い足したいものがありますので	Resna	Okay, let's head to the capital! There are a couple of things I'd like to buy.	蕾斯娜	那么，接下来就去王都吧。\n我也有要买的东西。	蕾斯娜	那我們往王都前進吧。\n我想添購一些東西。
+SeasonalTalkEvent_002_003ID	20	Patricia	パトリツィア	はい！	Patricia	Yes, let's go!	帕特莉夏	好的！	派翠夏	好！
+SeasonalTalkEvent_002_003ID	21	Patricia	パトリツィア	この格好で歩いても、ぜんぜん目立ちませんね	Patricia	We don't seem to stand out much, despite our appearances.	帕特莉夏	现在就算穿成这样走在街上也完全不显得突兀呢。	派翠夏	就算打扮成這樣，走在路上也完全不突兀呢。
+SeasonalTalkEvent_002_003ID	22	Resna	レスナ	星誕祭の時期ですからね。欲しいものは買えたので\n今度はそりを作りにいきましょう	Resna	Well, it is that time of year. I've gotten everything I wanted, so let's get working on the sleigh!	蕾斯娜	毕竟现在是星诞祭时期嘛。\n想要的东西都买到了，之后就去做雪橇吧。	蕾斯娜	畢竟星誕祭就快到了。既然東西都買到了，\n我們來製作雪橇吧。
+SeasonalTalkEvent_002_003ID	23	Tao	タオ	……あれ、パティ？\nこんな所で、何してるの？	Tao	Is that you, Patty? What are you doing here?	塔奥	……咦，帕蒂？\n你在这里做什么？	塔奧	……咦，派蒂？\n妳在這裡做什麼？
+SeasonalTalkEvent_002_003ID	24	Patricia	パトリツィア	タオさん！	Patricia	Mr. Tao!	帕特莉夏	塔奥先生！	派翠夏	塔奧先生！
+SeasonalTalkEvent_002_003ID	25	Tao Mongarten	タオ・モンガルテン	遺跡に目がない研究者気質の少年。\nパトリツィアとは元の世界での知り合い	Tao Mongarten	A young man with a love of research and ruins. An acquaintance of Patricia's in their original world.	塔奥·蒙伽特恩	痴迷遗迹的少年，一身研究者的风范。\n是帕特莉夏在原来世界的熟人。	塔奧‧蒙伽特恩	熱衷於遺跡研究的少年。\n與派翠夏在原本的世界是舊識。
+SeasonalTalkEvent_002_004ID	0	Tao	タオ	その格好……星誕の使者、だっけ？	Tao	Those outfits... Is that for the, er, Starbirth Festival?	塔奥	这身是……星诞使者的装扮？	塔奧	這身打扮……是星誕使者？
+SeasonalTalkEvent_002_004ID	1	Patricia	パトリツィア	あ、そ、そうです。\nせっかく盛り上がっているので、私もと思いまして……	Patricia	Y-Yes, that's right. Since everyone is getting into the spirit, I thought that I should as well.	帕特莉夏	啊，是、是的。\n看到节日气氛这么浓厚，我忍不住也想加入……	派翠夏	啊……是、是的。\n因為慶典氣氛相當熱烈，我也想入境隨俗……
+SeasonalTalkEvent_002_004ID	2	Lent	レント	ランターナじゃ有名な行事なんだってな。\nすげえよな、その使者ってのは空を飛ぶんだろ？	Lent	That's a famous event here, yeah? I think it's cool that there's an envoy who flies through the sky.	兰托	听说这是兰塔纳的著名盛事。\n好厉害啊，那个使者是能在空中飞吗？	蘭托	聽說這是蘭塔納非常知名的活動。\n真厲害。那個星誕使者還會飛，對吧？
+SeasonalTalkEvent_002_004ID	3	Tao	タオ	あくまでおとぎ話らしいけどね。\nそんなの、いるとは思えないよ	Tao	Well, it's still just a fairy tale. There's no way someone like that actually exists.	塔奥	传说说到底只是传说。\n我不认为真的有会飞的使者。	塔奧	據說只是個童話故事而已。\n現實中根本不可能有那種事。
+SeasonalTalkEvent_002_004ID	4	Patricia	パトリツィア	そ、それで！　タオさんとレントさんは、\n二人でどこかに出かけていたんですか？	Patricia	I-In any case! I presume that you are both on an outing, but where might you be headed?	帕特莉夏	对、对了！\n塔奥先生、兰托先生，你们是去哪里有事吗？	派翠夏	話、話說！塔奧先生和蘭托先生，\n你們兩位剛才去了哪裡？
+SeasonalTalkEvent_002_004ID	5	Tao	タオ	うん。レントに付き合ってもらって、\n地図の修復ができる店を探してるんだ	Tao	Oh, I've asked Lent to help me find a shop that would be capable of repairing a map.	塔奥	嗯，我拜托兰托陪我去找能修复地图的店。	塔奧	嗯。\n我請蘭托陪我一起找能修復地圖的店。
+SeasonalTalkEvent_002_004ID	6	Patricia	パトリツィア	それって、この前見つけたって言ってた\nルイネ州にある遺跡の地図……？	Patricia	Would that happen to be the one that you showed me before of the ruins in Ruine province?	帕特莉夏	是你说过的那张地图吗，\n就是你前不久找到的瑞恩州的遗迹地图……？	派翠夏	是你之前提過的，\n那張盧涅州的遺跡地圖嗎……？
+SeasonalTalkEvent_002_004ID	7	Tao	タオ	そうそう！　その地図の修復を\n試みているんだけど、上手くいかなくてさ	Tao	Yes, exactly! I thought I could get it patched up, but it hasn't been going very well.	塔奥	没错！我试过自己修复那张地图，\n但效果不太理想。	塔奧	就是那個！我們試著修復它，\n但都失敗了。
+SeasonalTalkEvent_002_004ID	8	Tao	タオ	色んな店を回ってみたけど、地図の破損状態が\nひどくて修復は難しいって言われたんだ	Tao	We've been to a number of shops, but the map is so badly damaged that we've yet to find someone who's confident that they can restore it.	塔奥	我问过很多家店，可他们都说地图破损严重，\n修复很困难。	塔奧	我們詢問了好幾間店。\n只得到了地圖破損嚴重、難以修復的回覆。
+SeasonalTalkEvent_002_004ID	9	Lent	レント	王都で無理なら、もうこの地図を直せる奴は\nいねえんじゃねえか？	Lent	If the capital's no good, then I'm guessing our odds of finding someone to do the job are going to get a lot worse.	兰托	要是在王都都找不到有能力修复它的人，\n那可能真的没戏了吧？	蘭托	如果連王都都讓我們無功而返，\n恐怕沒有人能修復這張地圖了。
+SeasonalTalkEvent_002_004ID	10	Tao	タオ	そうかもしれないけど、あの地図が修復できたら\n何か発見があるはずなんだ	Tao	That might be so, but I'm certain that we'd discover something if only we could repair that map.	塔奥	或许是这样，但要是能修复那张地图，\n肯定会有什么新发现。	塔奧	也許吧。但如果成功了，\n應該會有一些新的發現。
+SeasonalTalkEvent_002_004ID	11	Tao	タオ	昼と夜しかない世界。そしてひしめく遺跡の数々。\nこの世界も、本当に興味深いよ	Tao	Only noon and night exist in this ruin-filled world. I find the whole thing simply fascinating.	塔奥	只有白天与夜晚的世界，数不胜数的遗迹，\n这个世界太让人好奇了。	塔奧	只有白天跟黑夜的世界。豐富的歷史遺跡。\n這個世界還真是有意思啊。
+SeasonalTalkEvent_002_004ID	12	Lent	レント	ほんと、どこに行っても変わらねぇなタオは	Lent	Seriously, no matter where Tao goes, he always stays the same.	兰托	塔奥你真是走到哪里都不会变啊。	蘭托	真是的。塔奧不管到哪裡都是這副德性。
+SeasonalTalkEvent_002_004ID	13	Tao	タオ	レントだって、どうせなら武者修行って\n張り切ってるじゃない	Tao	And what about you, Lent? You're constantly rushing around, enthusiastically training anywhere you travel.	塔奥	兰托你不也蓄势待发地说反正在哪都是武者修行嘛。	塔奧	蘭托，\n你不也是滿腦子武者修行嗎？
+SeasonalTalkEvent_002_004ID	14	Tao	タオ	とにかく、この遺跡を直接、調べる旅に出たいんだ！	Tao	Ah, but if I could, I'd run straight over to those ruins to investigate them!	塔奥	总之我很想去这个遗迹实地调查！	塔奧	無論如何，我想直接啟程，調查這座遺跡！
+SeasonalTalkEvent_002_004ID	15	Patricia	パトリツィア	…………。\nあの、タオさん	Patricia	Um, Mr. Tao...	帕特莉夏	……\n塔奥先生……	派翠夏	…………\n那個，塔奧先生。
+SeasonalTalkEvent_002_004ID	16	Patricia	パトリツィア	もし私が、\n地図を直す力を持ってると言ったらどうしますか？	Patricia	What if I told you I had the ability to repair that map?	帕特莉夏	要是我说，我有能力修复这张地图，\n你会作何反应？	派翠夏	如果我能修復這張地圖，\n你會怎麼做？
+SeasonalTalkEvent_002_004ID	17	Tao	タオ	え？　どうって……そうだなあ。\n嬉しくて飛び上がっちゃうかもしれないね！	Tao	"Huh? What do you mean, ""what if""? I'd be beside myself with joy!"	塔奥	咦？作何反应……？我想想啊，\n我应该会开心得一蹦三尺高吧！	塔奧	咦？怎麼做……這個嘛……\n應該會高興到跳起來吧！
+SeasonalTalkEvent_002_004ID	18	Tao	タオ	もし地図が修復できたら\nすぐにでも旅に出て、遺跡を調査したいなあ	Tao	I'd be able to head straight out to investigate those ruins if I had a complete map.	塔奥	如果能修复好地图，\n我恨不得立即启程去调查这个遗迹。	塔奧	只要地圖一修復完成，\n我想要立刻啟程，出發調查遺跡。
+SeasonalTalkEvent_002_004ID	19	Resna	レスナ	ルイネ州は王都州のすぐ北とはいえ、\nもし本当に調査をするとなれば時間はかかりそうですね	Resna	Ruine's not too far north of here, but I'm guessing it'll take you some time to seriously explore the area.	蕾斯娜	虽说瑞恩州就在王都州的北侧，\n但要是真去调查，还是挺花时间的吧。	蕾斯娜	雖說盧涅州就在王都州的北邊不遠處，\n但要認真調查的話，可能需要不少時間。
+SeasonalTalkEvent_002_004ID	20	Tao	タオ	うん。\nしばらくは王都に戻ってこられないと思う	Tao	Indeed. I doubt I'd be able to return to the capital for quite some time.	塔奥	是啊。\n应该短时间内都回不了王都了。	塔奧	嗯。\n我想，大概會有一陣子無法回王都。
+SeasonalTalkEvent_002_004ID	21	Patricia	パトリツィア	…………	Patricia	...	帕特莉夏	……	派翠夏	…………
+SeasonalTalkEvent_002_005ID	0	Resna	レスナ	パトリツィアさん！　そっちはどうでしょう？\n良い素材は見つかりましたか？	Resna	Patricia! How's it going over there? Did you find any good materials?	蕾斯娜	帕特莉夏小姐！你那边的情况怎么样？\n找到合适的素材了吗？	蕾斯娜	派翠夏小姐！妳那邊的狀況如何？\n有發現好素材嗎？
+SeasonalTalkEvent_002_005ID	1	Patricia	パトリツィア	レスナさん、これとかどうですか？	Patricia	What about this, Miss Resna?	帕特莉夏	蕾斯娜小姐，这个怎么样？	派翠夏	蕾斯娜小姐，妳看這個怎麼樣？
+SeasonalTalkEvent_002_005ID	2	Resna	レスナ	よき！\nその木材なら、そりを作るのに使えそうですね	Resna	Perfect! This lumber would probably make for a great sleigh!	蕾斯娜	不错！\n这种木材应该能用来做雪橇。	蕾斯娜	真不錯！\n這根木材應該可以用來製作雪橇。
+SeasonalTalkEvent_002_005ID	3	Patricia	パトリツィア	自分でそりを調達しないといけないなんて\n星誕の使者も大変ですね	Patricia	Goodness, building your own sleigh would be an awful lot of work. Starbirth Envoys certainly have it rough.	帕特莉夏	星诞使者也不容易啊，\n还得自己从雪橇做起。	派翠夏	居然連雪橇都得自行打造，\n星誕使者真辛苦呢。
+SeasonalTalkEvent_002_005ID	4	Resna	レスナ	……あの、パトリツィアさん。使者に\nなりたかったのって、タオさんが理由ですか？	Resna	Hey, Patricia? Did you maybe want to be one because of Tao?	蕾斯娜	……帕特莉夏小姐，\n你想当使者是为了塔奥先生吗？	蕾斯娜	那個……派翠夏小姐。\n妳是為了塔奧先生才想成為使者的嗎？
+SeasonalTalkEvent_002_005ID	5	Patricia	パトリツィア	えっ……	Patricia	Um!	帕特莉夏	咦……	派翠夏	咦……
+SeasonalTalkEvent_002_005ID	6	Resna	レスナ	パトリツィアさん、タオさんに会った時、\nすごく嬉しそうでしたよ	Resna	It's just, well, you looked really happy when we ran into him earlier.	蕾斯娜	因为你刚才遇到塔奥先生的时候，\n神色好像特别欣喜。	蕾斯娜	因為派翠夏小姐見到塔奧先生時，\n看起來非常開心。
+SeasonalTalkEvent_002_005ID	7	Patricia	パトリツィア	そ、そんなことは！\nえっと、あのっ……その……	Patricia	N-No, why would I? Err, that is... Um...	帕特莉夏	不、不是那样的！\n唔，我……其实……	派翠夏	沒、沒那回事！\n呃，那個……我……
+SeasonalTalkEvent_002_005ID	8	Patricia	パトリツィア	……実は、タオさんは、\n私の家庭教師をしてくれているんです	Patricia	Actually, Mr. Tao used to be one of my tutors.	帕特莉夏	……其实，\n塔奥先生是我的家庭教师。	派翠夏	其實……\n塔奧先生是我的家庭教師。
+SeasonalTalkEvent_002_005ID	9	Patricia	パトリツィア	私の知らないことをたくさん教えてくれて、\nタオさんのおかげで今の私がいます	Patricia	He taught me so much about things I had never even heard of before. I doubt I would be who I am today without his help.	帕特莉夏	他教给我许多我未曾了解的事，\n多亏了他才有现在的我。	派翠夏	塔奧先生教了我許多不知道的事。\n都是因為他，才有現在的我。
+SeasonalTalkEvent_002_005ID	10	Patricia	パトリツィア	この世界でタオさんと再会した時は、\n互いの情報整理が大変だったんですよ	Patricia	When I met Mr. Tao in this world, sorting through the information we each had was quite troublesome.	帕特莉夏	我在这个世界与塔奥先生重聚的时候，\n共享情报费了好大一番工夫。	派翠夏	當初我和塔奧先生在這個世界重逢時，\n光是理解彼此的情報就已經很不容易了。
+SeasonalTalkEvent_002_005ID	11	Patricia	パトリツィア	私がよく知るタオさんとは格好が少し違いましたから。\nでもタオさんは、タオさんのままでした。	Patricia	He didn't look quite as I remembered him, but he truly does have a consistent personality.	帕特莉夏	因为他跟我熟悉的塔奥先生样子有点不同。\n不过，塔奥先生还是那个塔奥先生。	派翠夏	他看起來和我所熟悉的塔奧先生有點不同。\n不過，塔奧先生依舊是那位塔奧先生。
+SeasonalTalkEvent_002_005ID	12	Patricia	パトリツィア	今もたくさん助けられています	Patricia	Even now, Mr. Tao has helped me with a good number of things.	帕特莉夏	我现在也依然经常受到他的帮助。	派翠夏	直到現在，我也一直在接受他的幫助。
+SeasonalTalkEvent_002_005ID	13	Patricia	パトリツィア	だから、その恩を返すためにも\nタオさんの役に立ちたいとずっと思ってて……	Patricia	That's why I thought it would be nice if I could return the favor by being useful to him, somehow.	帕特莉夏	所以，为了报答他的恩情，\n我一直都想帮上他的忙。	派翠夏	所以，為了報答這份恩情，\n我一直希望能幫上塔奧先生的忙……
+SeasonalTalkEvent_002_005ID	14	Resna	レスナ	なるほど……それで、星誕祭で\nタオさんに何かプレゼントしたかったんですね	Resna	Oh, okay. So that's why you want to get him a present for the Starbirth Festival.	蕾斯娜	这样啊……\n所以你想在星诞祭送礼物给塔奥先生是吧。	蕾斯娜	原來如此……於是，\n妳想趁星誕祭送禮物給塔奧先生。
+SeasonalTalkEvent_002_005ID	15	Patricia	パトリツィア	はい、この格好なら自然に渡せるかなと	Patricia	Yes. And that way, giving him something wouldn't feel out of place.	帕特莉夏	是的，穿成这样应该就能自然地送出去了。	派翠夏	嗯。我想，穿成這樣應該就能自然地遞給他了。
+SeasonalTalkEvent_002_005ID	16	Patricia	パトリツィア	あの地図を修復したいというのも、\n知っていました	Patricia	Well, I did know that he wanted to repair that map.	帕特莉夏	而且现在也知道了他想修复那张地图。	派翠夏	我知道\n他很希望能修復那張地圖。
+SeasonalTalkEvent_002_005ID	17	Patricia	パトリツィア	他に何か欲しいものがあればと思っているのですが、\nやっぱり一番はあの地図みたいですね	Patricia	I was hoping there might be something else he would like, but it really does seem like that would be the best present possible.	帕特莉夏	如果他还有其他想要的东西，我也想去满足，\n不过他最想要的应该就是那张地图了吧。	派翠夏	我也思考了很久他還需要什麼。\n但他最渴望的似乎是那張地圖。
+SeasonalTalkEvent_002_005ID	18	Patricia	パトリツィア	本当にタオさんらしいです。元の世界でも、\n本や研究の話ばっかりで	Patricia	Which is just like Mr. Tao. Back in our world, he was always talking about books or his research.	帕特莉夏	塔奥先生的性格还是一如既往。\n他在原来的世界也是三句话不离书籍和研究。	派翠夏	真像塔奧先生的作風。連在原本的世界裡，\n他也是滿口書籍或研究的事。
+SeasonalTalkEvent_002_005ID	19	Resna	レスナ	それでも今、パトリツィアさんが寂しそうに\nしてるのは、さっきの話が理由ですか？	Resna	Is that why you're looking a little glum? Because of that conversation we just had with them?	蕾斯娜	可是现在帕特莉夏小姐好像有些闷闷不乐，\n是因为刚才听到的那番话吧？	蕾斯娜	所以派翠夏小姐\n是因為剛才那件事而感到失落嗎？
+SeasonalTalkEvent_002_005ID	20	Patricia	パトリツィア	……私、知らなかったんです。\nそんなに沢山時間がかかる遺跡の調査だったなんて	Patricia	Well, I hadn't realized that exploring the ruins would take so much of his time.	帕特莉夏	……我没想到调查那个遗迹要花那么长的时间。	派翠夏	……我之前並不曉得，\n調查那座遺跡竟然得花上那麼多時間。
+SeasonalTalkEvent_002_005ID	21	Patricia	パトリツィア	あの地図が修復されたら、\nタオさんは王都を出ていってしまう	Patricia	Once that map is fixed, he will almost certainly leave the capital immediately.	帕特莉夏	如果那张地图得到修复，\n塔奥先生就要离开王都了。	派翠夏	一旦地圖修復完成，\n塔奧先生就會離開王都。
+SeasonalTalkEvent_002_005ID	22	Patricia	パトリツィア	そう思ったら私……\nなんだかすごく寂しくなっちゃって	Patricia	Thinking about that...made me feel terribly lonely.	帕特莉夏	这么一想……我就觉得好舍不得。	派翠夏	一想到這點，我就……\n不知怎麼地感到很失落。
+SeasonalTalkEvent_002_005ID	23	Patricia	パトリツィア	私は王都で、責任ある仕事があるから\nついていけませんし	Patricia	I have duties to attend to here, so I will not be able to accompany him, either.	帕特莉夏	我在王都有应尽的职责，\n没办法跟着他一起去。	派翠夏	我無法丟下在王都負責的工作，\n所以也不能跟去。
+SeasonalTalkEvent_002_005ID	24	Patricia	パトリツィア	この世界に来た時、タオさんにもう会えなくなると\n思って悲しかったんですけど、再会できました	Patricia	When I first arrived in this world, I felt so sad when I thought that I might never see Mr. Tao again, but we managed to reunite.	帕特莉夏	刚来这个世界的时候，我很难过，\n以为再也见不到塔奥先生了，\n结果居然在这里和他意外重逢。	派翠夏	來到這個世界後，想到再也見不到塔奧先生，\n我就會悲從中來。但後來我們重逢了。
+SeasonalTalkEvent_002_005ID	25	Patricia	パトリツィア	お互い、この世界に来た時期が違ったみたいで、\n少し情報の整理に時間はかかりましたけど	Patricia	It appeared that we had been brought here at different times, so it took us a little while to sort out the details, but...	帕特莉夏	我们来到这个世界的时期不同，\n因此花了不少时间整理情报。	派翠夏	我們抵達這個世界的時期似乎不同，\n所以花了點時間整理資訊。
+SeasonalTalkEvent_002_005ID	26	Patricia	パトリツィア	この世界で会えたのに、なのに、タオさんと\nまた離れてしまうと思うと……	Patricia	I was not expecting us to have to part again so soon.	帕特莉夏	不过我还是很庆幸能在这个世界重聚，\n可是现在……一想到又要跟塔奥先生分开……	派翠夏	好不容易在這個世界見到面了，\n卻要再度和塔奧先生分開，一想到這點……
+SeasonalTalkEvent_002_005ID	27	Patricia	パトリツィア	移動手段の飴があるのに、連絡は取れるのに、\n同じ所にいない、それだけで……	Patricia	I know I could contact him easily enough, plus I have those teleporting candies, but not being in the same place as him is...	帕特莉夏	明明有可以移动的糖果，也能取得联络，\n但只是分隔两地就让我感觉……	派翠夏	明明有用來移動的糖果，也能取得聯繫，\n但光是分隔兩地，我就……
+SeasonalTalkEvent_002_005ID	28	Resna	レスナ	……パトリツィアさん	Resna	Patricia...	蕾斯娜	……帕特莉夏小姐。	蕾斯娜	……派翠夏小姐。
+SeasonalTalkEvent_002_006ID	0	Resna	レスナ	ふーっ、やっとついたあ！\nパトリツィアさん、大丈夫ですか？　疲れてませんか？	Resna	Phew, we made it! How are you feeling, Patricia? Not too worn out?	蕾斯娜	呼——终于到啦！\n帕特莉夏小姐，你怎么样？累不累？	蕾斯娜	呼～終於到了～！\n派翠夏小姐，妳還好嗎？會不會累？
+SeasonalTalkEvent_002_006ID	1	Patricia	パトリツィア	はい、大丈夫です。\nこの後は、どうするんですか？	Patricia	I'm quite well, thank you. What do we have to do next?	帕特莉夏	嗯，我不累。\n之后要做些什么？	派翠夏	嗯，我沒事。\n接下來要做什麼呢？
+SeasonalTalkEvent_002_006ID	2	Resna	レスナ	素材を集めた後は、素材を集めに行きますよ	Resna	After getting all those materials? Go out and get more!	蕾斯娜	收集完素材之后还要去收集素材。	蕾斯娜	蒐集素材之後，還是蒐集素材喔。
+SeasonalTalkEvent_002_006ID	3	Patricia	パトリツィア	えっ？　今、行ってきたのに？	Patricia	Hm? Even though that is what we were just doing?	帕特莉夏	咦？刚刚不是才收集完素材吗？	派翠夏	咦？我們才剛蒐集完而已耶？
+SeasonalTalkEvent_002_006ID	4	Resna	レスナ	今度は別の素材集めなんです。\nできるだけたくさんの人にプレゼントを渡したいので	Resna	I've got to get some others. I want to make as many different presents for as many people as I can!	蕾斯娜	接下来要去收集别的素材。\n我想尽量把礼物送给更多的人。	蕾斯娜	這次要蒐集其他素材。\n因為我想盡可能送出更多禮物。
+SeasonalTalkEvent_002_006ID	5	Ryza	ライザ	あっ、レスナにパティ！\n二人一緒にいるなんて珍しいねー！	Ryza	Oh! Resna, Patty! I don't usually see you two together!	莱莎	啊，蕾斯娜、帕蒂！\n难得见到你们两个一起行动！	萊莎	啊，是蕾斯娜和派蒂！\n這個組合真稀奇耶～！
+SeasonalTalkEvent_002_006ID	6	Patricia	パトリツィア	ライザさん、クラウディアさん。\nこんにちは	Patricia	Hello to you both as well, Miss Ryza, Miss Klaudia.	帕特莉夏	莱莎小姐、科洛蒂娅小姐，\n你们好。	派翠夏	萊莎小姐、科洛蒂婭小姐。\n妳們好。
+SeasonalTalkEvent_002_006ID	7	Klaudia	クラウディア	ふふ、二人とも今日は\nすごくかわいい格好してるんだね	Klaudia	*Chuckle* Goodness, and you're both dressed so adorably.	科洛蒂娅	呵呵，你们今天打扮得好可爱啊。	科洛蒂婭	呵呵。\n兩位今天都打扮得好可愛呀。
+SeasonalTalkEvent_002_006ID	8	Ryza	ライザ	ほんとだ～！　これが噂の星誕祭かぁ	Ryza	Aren't they just the cutest?! That's for the Starbirth Festival I keep hearing about, right?	莱莎	真可爱！这就是传说中的星诞祭啊。	萊莎	對啊～！原來這就是傳說中的星誕祭啊。
+SeasonalTalkEvent_002_006ID	9	Ryza	ライザ	いいなぁ、あたしも着てみたいなぁ	Ryza	That's so nice... I wouldn't mind dressing up in something like that, too...	莱莎	真好啊，我也想穿上试试。	萊莎	真不錯～我也好想穿穿看！
+SeasonalTalkEvent_002_006ID	10	Resna	レスナ	それはもうぜひどうぞ気が変わらないうちに！！！！！　\nでは早速アトリエへ	Resna	You should absolutely do that! Seriously! I mean it! Before you change your mind! Come on, let's go straight to the atelier!	蕾斯娜	那就赶快去炼金工房穿穿看吧！！！\n趁你还没有改变主意！	蕾斯娜	請務必趁還沒改變心意前試試！！！！！\n我們立刻回鍊金工房吧！
+SeasonalTalkEvent_002_006ID	11	Ryza	ライザ	わー、冗談だって、今はいいって！　\n飴を出さなくていいから！	Ryza	Whoa! It's fine, I didn't mean like, right now! Put that candy away!	莱莎	哇，我开玩笑的，现在还是不了！\n不用拿糖出来啦！	萊莎	哇──我開玩笑的。現在先不用！\n妳不用拿出糖果啦！
+SeasonalTalkEvent_002_006ID	12	Patricia	パトリツィア	お二人はプレゼントを贈り合ったりするんですか？	Patricia	Will the two of you be exchanging presents?	帕特莉夏	你们是想互赠礼物吗？	派翠夏	妳們兩位會互相送禮嗎？
+SeasonalTalkEvent_002_006ID	13	Ryza	ライザ	あー……ちょっとそれが難しそうなんだ	Ryza	Oh. Um, actually, that's going to be a little tricky.	莱莎	啊……这个恐怕实现不了。	萊莎	啊……這恐怕有點困難。
+SeasonalTalkEvent_002_006ID	14	Patricia	パトリツィア	え？　それって、どういう……	Patricia	Hm? What do you mean by that?	帕特莉夏	咦？为什么……	派翠夏	咦？什麼意思……
+SeasonalTalkEvent_002_006ID	15	Klaudia	クラウディア	私ね、もうすぐ王都を出るの。星誕祭より前に\n隊商についていくことになったから	Klaudia	I have to leave the capital soon. Before the Starbirth Festival, in fact. I'll be accompanying a caravan.	科洛蒂娅	因为我很快就要离开王都了。\n在星诞祭开始前就要跟随商队出发。	科洛蒂婭	我啊，馬上就要離開王都了。在星誕祭之前，\n我就會跟著商隊離開了。
+SeasonalTalkEvent_002_006ID	16	Klaudia	クラウディア	だから、星誕祭の日は一緒にいられなくて	Klaudia	So we won't be able to see each other on the day itself.	科洛蒂娅	所以没机会在星诞祭当天见面了。	科洛蒂婭	所以，星誕祭那天我們不會在一起。
+SeasonalTalkEvent_002_006ID	17	Patricia	パトリツィア	そう、なんですか……	Patricia	Oh, I see...	帕特莉夏	这样啊……	派翠夏	是、這樣啊……
+SeasonalTalkEvent_002_006ID	18		隊商の男	おーい、クラウディア！\n次の移動日についての話があるんだが……	Caravan Man	Heeey, Klaudia! There's something I need to talk to you about for the upcoming trip.	商队男性	喂，科洛蒂娅！\n我想跟你谈谈出发当天的事宜……	商隊男性	喂──科洛蒂婭！\n關於下次的移動日期，我打算商量一下……
+SeasonalTalkEvent_002_006ID	19	Klaudia	クラウディア	あ、はい！　分かりました！	Klaudia	Oh! Yes, I'll be right there!	科洛蒂娅	啊，好的！我这就来！	科洛蒂婭	啊，好的！我知道了！
+SeasonalTalkEvent_002_006ID	20	Klaudia	クラウディア	早速、隊商の準備があるみたい。\n行ってくるね	Klaudia	My, they do seem to be in a rush to get ready. Sorry, I have to go.	科洛蒂娅	商队好像很快就要开始做准备了。\n我去去就回。	科洛蒂婭	商隊好像馬上就要開始做準備了。\n我先走囉。
+SeasonalTalkEvent_002_006ID	21	Ryza	ライザ	うん、頑張って！	Ryza	Sure, that's fine. Good luck!	莱莎	嗯，加油！	萊莎	嗯，加油！
+SeasonalTalkEvent_002_006ID	22	Ryza	ライザ	……もう時間がないなあ。急がなきゃ	Ryza	Guess there's not a lot of time left. I'd better hurry up.	莱莎	……没多少时间了，我得加快速度。	萊莎	……時間不多了。我得快點才行。
+SeasonalTalkEvent_002_006ID	23	Patricia	パトリツィア	急ぐ……ですか？	Patricia	And...do what?	帕特莉夏	加快速度……吗？	派翠夏	妳說……快點？
+SeasonalTalkEvent_002_006ID	24	Ryza	ライザ	あんなことは言ったけど、実は内緒でプレゼントを\n用意しようと思ってるんだ	Ryza	I know I said all that, but I was thinking I'd just get a present ready for her in secret.	莱莎	别看我嘴上那样说，\n其实我打算偷偷准备礼物哦。	萊莎	剛才我雖然那麼說，\n但其實我打算偷偷準備禮物。
+SeasonalTalkEvent_002_006ID	25	Resna	レスナ	おお、さすがライザ先輩！\nクラウディアさんも喜ぶと思います！	Resna	Ooh, I should've known you would! That'll make Klaudia so happy!	蕾斯娜	不愧是莱莎前辈！\n科洛蒂娅小姐肯定也会很开心的！	蕾斯娜	哦哦，不愧是萊莎前輩！\n科洛蒂婭小姐一定會很高興的！
+SeasonalTalkEvent_002_006ID	26	Ryza	ライザ	ただ、プレゼントに使いたい鉱石があるんだけど、\nそれがまだ見つけられてないんだよ	Ryza	Problem is, there's an ore that I'd like to use in it, but I can't seem to find it anywhere.	莱莎	不过，礼物要用到一种矿石，\n我到现在还没找到。	萊莎	不過，\n我還沒找到送禮需要的礦石。
+SeasonalTalkEvent_002_006ID	27	Resna	レスナ	どんなものなんですか？	Resna	What kind of ore?	蕾斯娜	那是什么样的矿石呢？	蕾斯娜	是什麼樣的礦石呢？
+SeasonalTalkEvent_002_006ID	28	Ryza	ライザ	なんでも、結晶の洞窟でだけ採れる、\n白銀に輝く綺麗な石があるらしくて	Ryza	It's a glittery pale silver stone that's supposed to be absolutely beautiful. Apparently, you can only find it in crystal caves.	莱莎	听说那种矿石只能在结晶洞窟里采集到，\n石头会散发出银白色光辉，很好看。	萊莎	據說有種散發著銀白色光輝的美麗石頭，\n只有在結晶洞窟才採集得到。
+SeasonalTalkEvent_002_006ID	29	Ryza	ライザ	ちょこちょこカフェを抜けて探しに行ってるんだ。\nイクセルにも迷惑かかるし、早く見つけないとなあ	Ryza	I've been slipping away from work at the cafe here and there to go looking for it, which isn't really fair to Iksel. Either way, I need to track it down soon.	莱莎	我一有空就会溜出咖啡厅找它。\n这样做也会给伊克赛尔添麻烦，所以得尽快找到才行。	萊莎	我最近經常從咖啡廳溜出去找。\n為了不給伊克賽爾添麻煩，我得快點找到。
+SeasonalTalkEvent_002_006ID	30	Resna	レスナ	なるほど……	Resna	Hm, I see.	蕾斯娜	这样啊……	蕾斯娜	原來如此……
+SeasonalTalkEvent_002_006ID	31	Patricia	パトリツィア	（ライザさんとクラウディアさんは、星誕祭を\n　別々に過ごすことになるんだわ）	Patricia	(So Miss Ryza and Miss Klaudia will be spending the Starbirth Festival apart.)	帕特莉夏	（莱莎小姐跟科洛蒂娅小姐要分开过星诞祭了。）	派翠夏	（萊莎小姐和科洛蒂婭小姐\n　星誕祭那天要各自度過了。）
+SeasonalTalkEvent_002_006ID	32	Patricia	パトリツィア	（ライザさんは、クラウディアさんがこの街を\n　去ること……寂しくないのかしら？）	Patricia	(Doesn't she feel lonely whenever Miss Klaudia has to leave the city?)	帕特莉夏	（科洛蒂娅小姐要离开这个城镇了，\n　莱莎小姐应该很舍不得她吧？）	派翠夏	（科洛蒂婭小姐離開這座城鎮後……\n　萊莎小姐會不會感到寂寞呢？）
+SeasonalTalkEvent_002_006ID	33	Reisalin Stout	ライザリン・シュタウト	カフェで受付をしている錬金術士。親友のクラウディア\nとは、この世界で運命の再会を果たしている	Reisalin Stout	An alchemist who manages the reception counter at the cafe. She's had the good fortune to meet her best friend Klaudia in this world too.	莱莎琳·斯托特	在咖啡厅接待客人的炼金术士。\n在命运的指引下与挚友科洛蒂娅在这个世界重逢了。	萊莎琳‧斯托特	在咖啡廳當櫃檯小姐的鍊金術士。與摯友科洛蒂婭\n在這個世界實現了命運的重逢。
+SeasonalTalkEvent_002_006ID	34	Klaudia Valentz	クラウディア・バレンツ	商家の娘。この世界でも順調に事業を進めている。元の\n世界ではクーケン島でライザと出会い、親友になった	Klaudia Valentz	The daughter of a merchant, who's doing just as well at managing businesses in this world as her own. She met Ryza back on Kurken Island, and they've been best friends ever since.	科洛蒂娅·巴兰茨	商人家的女儿，她的事业在这个世界也经营得有声有色。\n在原来的世界中，她在库肯岛与莱莎相遇，和她成为了挚友。	科洛蒂婭‧巴蘭茨	商家千金。在這個世界的事業也進展得很順利。\n在原本的世界裡，和萊莎於庫肯島相遇，並成了摯友。
+SeasonalTalkEvent_002_007ID	0	Resna	レスナ	本で調べたところによると、多分、ライザ先輩が\n言っていた鉱石はここにあるはず……	Resna	Going by what I found in a book, this should be where the ore that Ryza is looking for is, but...	蕾斯娜	根据书上的记载，\n莱莎前辈所说的矿石应该就在这里……	蕾斯娜	根據書中查到的資料，\n萊莎前輩說的礦石應該就在這裡……
+SeasonalTalkEvent_002_007ID	1	Patricia	パトリツィア	結構広いですね。\n目的の鉱石が分かりやすいとよいのですが	Patricia	It's an awfully vast area. It might not be so easy to find.	帕特莉夏	这个地方还挺大的。\n要是能更有效地辨别目标矿石就好了。	派翠夏	還滿寬闊的呢。\n希望我們要找的礦石很容易分辨。
+SeasonalTalkEvent_002_007ID	2	Patricia	パトリツィア	……間に合うでしょうか	Patricia	Do we even have enough time?	帕特莉夏	……能赶上吗？	派翠夏	……來得及嗎？
+SeasonalTalkEvent_002_007ID	3	Resna	レスナ	やってみせます！　星誕の使者として！\n書物の知識を活かす時は今！	Resna	Doesn't matter! We're Starbirth Envoys, so we have to try! And if there was ever a good time to put all my reading to good use, it's now!	蕾斯娜	尽力试试看吧！我们是星诞使者啊！\n现在正是活用书籍知识的时候！	蕾斯娜	我會以星誕使者的身分努力的！\n現在正是活用書籍知識的時候！
+SeasonalTalkEvent_002_007ID	4	Patricia	パトリツィア	……はい！　では、急ぎましょう！	Patricia	Very well! Let's search as quickly as we can!	帕特莉夏	……好的！那就抓紧时间行动吧！	派翠夏	……好的！那我們加緊腳步吧！
+SeasonalTalkEvent_002_007ID	5	Empel	アンペル	洞窟内が騒がしいと思ったら、知った顔だったな	Empel	Well now. I was thinking the cave had gotten noisier, but we know those culprits.	安佩尔	我就说洞窟里边吵吵闹闹的，原来是熟人啊。	安佩爾	才在想洞窟裡怎麼這麼熱鬧，原來是熟人啊。
+SeasonalTalkEvent_002_007ID	6	Lila	リラ	素材集めに熱中しているようだ。危険は少なそうだし、\n声はかけずそっとしておくか	Lila	They're all riled up about whatever material it is they're looking for. It's probably safer to not interrupt them and just let them do their thing.	莉拉	她们好像在专心收集素材。周围也不危险，\n就先不打扰了吧。	莉拉	她們好像在專心蒐集素材。目前應該沒什麼危險，\n那就別打擾她們吧。
+SeasonalTalkEvent_002_007ID	7	Empel	アンペル	そういえば、レスナたちのあの格好は\n星誕祭に関わりがあるものらしい	Empel	On another note, don't their outfits look like they're related to that Starbirth Festival?	安佩尔	看样子，\n蕾斯娜她们那身打扮好像跟星诞祭有关。	安佩爾	話說回來，蕾斯娜她們那身打扮，\n似乎跟星誕祭有關。
+SeasonalTalkEvent_002_007ID	8	Lila	リラ	色々と行事があるようだな。この世界にも	Lila	People sure do love their celebrations, even here.	莉拉	看来这个世界里也有很多节庆活动啊。	莉拉	這個世界……好像也有很多活動呢。
+SeasonalTalkEvent_002_007ID	9	Lila	リラ	まぁ私たちには、関係がないことだ。調査を進めよう	Lila	Not that it has anything to do with us. Come on, let's get back to work.	莉拉	跟我们是没什么关系了。继续调查吧。	莉拉	不過跟我們無關就是了。我們繼續調查吧。
+SeasonalTalkEvent_002_007ID	10	Empel	アンペル	そうだな。\n…………	Empel	Sure, true enough...	安佩尔	也对。\n……	安佩爾	妳說得對。\n…………
+SeasonalTalkEvent_002_007ID	11	Lila	リラ	どうした	Lila	What's up?	莉拉	怎么了？	莉拉	怎麼了？
+SeasonalTalkEvent_002_007ID	12	Empel	アンペル	いやなに。リラには何か欲しいものが\nあるのかと思ってな	Empel	Oh, nothing. I was just wondering if there was anything you wanted.	安佩尔	啊，没事，\n只是突然想到不知莉拉你有什么想要的东西。	安佩爾	沒什麼。只是在想……\n妳有沒有想要的東西。
+SeasonalTalkEvent_002_007ID	13	Lila	リラ	特に。必要なものがあったら、都度言っている	Lila	Not really. If there's something I need, though, I'll let you know.	莉拉	没有特别想要的。要是有的话我自然会说。	莉拉	沒有。有需要的話，我會直接說。
+SeasonalTalkEvent_002_007ID	14	Empel	アンペル	そういう話ではないんだが……まあ、いいか	Empel	That wasn't what I... Never mind. It's fine.	安佩尔	我不是指这个……好吧，算了。	安佩爾	我不是指這個……嗯，算了。
+SeasonalTalkEvent_002_007ID	15	Patricia	パトリツィア	…………！　レスナさん、この輝き……。\nこれがライザさんの言っていたものではないですか？	Patricia	Oh! Miss Resna, look at this glow. Could this be what Miss Ryza was talking about?	帕特莉夏	……！蕾斯娜小姐，看这道光芒……\n这就是莱莎小姐说的东西吧？	派翠夏	…………！蕾斯娜小姐，這個光芒……\n會不會就是萊莎小姐說的東西呢？
+SeasonalTalkEvent_002_007ID	16	Resna	レスナ	この鉱石は……そっか、ライザ先輩はもしかして……	Resna	Let's see... Aha, I wonder if Ryza's...?	蕾斯娜	这个矿石……我懂了，莱莎前辈可能……	蕾斯娜	這個礦石是……對了，萊莎前輩說不定……
+SeasonalTalkEvent_002_007ID	17	Patricia	パトリツィア	違いましたか？	Patricia	Is it not the right ore?	帕特莉夏	不是这个吗？	派翠夏	不是嗎？
+SeasonalTalkEvent_002_007ID	18	Resna	レスナ	ううん、これで間違いありません！\n早速、ライザ先輩の所に届けましょう！	Resna	Nope, this is definitely it! Come on, let's hurry and get it to her!	蕾斯娜	不，就是这个！\n我们快把它带给莱莎前辈吧！	蕾斯娜	不，就是這個沒錯！\n我們趕快送去給萊莎前輩吧！
+SeasonalTalkEvent_002_008ID	0	Patricia	パトリツィア	（レスナさんから、鉱石をライザさんに\n　届けるように言われたけど……）	Patricia	(Miss Resna asked me to deliver this ore to Miss Ryza, but...)	帕特莉夏	（蕾斯娜小姐交代我把矿石送给莱莎小姐……）	派翠夏	（蕾斯娜小姐要我把\n　礦石送去給萊莎小姐……）
+SeasonalTalkEvent_002_008ID	1	Ryza	ライザ	ふん、ふーん……ふふふーん	Ryza	Hmm-hm-hm... Hm-hm-hmmm...	莱莎	啦啦，啦啦啦……啦啦啦～	萊莎	啦、啦……啦啦啦～
+SeasonalTalkEvent_002_008ID	2	Patricia	パトリツィア	（星誕の使者は、決して人前には姿を見せず\n　気付かない間にプレゼントを置いていくらしい）	Patricia	(The Starbirth Envoy never appears in front of people. They are supposed to deliver presents without being noticed.)	帕特莉夏	（星诞使者绝不会在人前现身，\n　只会悄悄地留下礼物。）	派翠夏	（據說星誕使者都是\n　在不被察覺的情況下偷偷放好禮物。）
+SeasonalTalkEvent_002_008ID	3	Patricia	パトリツィア	（ライザさんに気付かれないように……）	Patricia	(So I need to do this without being seen by Miss Ryza.)	帕特莉夏	（希望别被莱莎小姐发现……）	派翠夏	（要小心別被萊莎小姐發現……）
+SeasonalTalkEvent_002_008ID	4	Patricia	パトリツィア	（ふう、これでよし。……あっ！\n　メッセージカードを忘れるところだったわ）	Patricia	(Phew. There, finished! ...Oh! Goodness, I almost forgot to add the card.)	帕特莉夏	（呼，任务完成……\n　啊！差点忘了放留言卡。）	派翠夏	（呼～這樣就行了……啊！\n　差點忘了放留言卡。）
+SeasonalTalkEvent_002_008ID	5	Patricia	パトリツィア	（……「ライザへ。\n　貴君の願いが届きますように　星誕の使者より」）	Patricia	"(""Dear Ryza. May all your wishes come true. From the Starbirth Envoy."")"	帕特莉夏	（……“致莱莎：\n　愿你心想事成。——星诞使者。”）	派翠夏	（……「給萊莎：\n　願妳的心願實現。　星誕使者敬啟」）
+SeasonalTalkEvent_002_008ID	6	Patricia	パトリツィア	（これで、大丈夫よね？）	Patricia	(That should work.)	帕特莉夏	（这下没问题了吧？）	派翠夏	（這樣就行了吧？）
+SeasonalTalkEvent_002_008ID	7	Ryza	ライザ	今誰かいたような気がしたんだけど……\n気のせいかな？	Ryza	Huh? I could've sworn someone was here just now, but...maybe it was just my imagination?	莱莎	总觉得刚才有人来过……\n是我的错觉吗？	萊莎	剛剛好像有人來過……\n是我的錯覺嗎？
+SeasonalTalkEvent_002_008ID	8	Ryza	ライザ	あれっ？　なんだろう、これ。\nお客さんの忘れ物かな……	Ryza	Hm? What's this? Did one of our customers forget something?	莱莎	咦？这是什么，\n是客人忘拿走的东西吗……	萊莎	奇怪？這是什麼？\n是客人忘記拿的東西嗎……？
+SeasonalTalkEvent_002_008ID	9	Patricia	パトリツィア	（ライザさん、カードですっ！\n　カードを見てください！）	Patricia	(No! The card! Look at the card, Miss Ryza!)	帕特莉夏	（莱莎小姐，看卡片！\n　千万要看卡片啊！）	派翠夏	（萊莎小姐，卡片！\n　請看卡片！）
+SeasonalTalkEvent_002_008ID	10	Ryza	ライザ	このカード……あたしの名前が書いてある	Ryza	Oh, wait. This has my name on it.	莱莎	这张卡片上……写了我的名字。	萊莎	這張卡片上……寫著我的名字。
+SeasonalTalkEvent_002_008ID	11	Ryza	ライザ	「ライザへ。\n　貴君の願いが届きますように　星誕の使者より」	Ryza	"""Dear Ryza,\nMay all your wishes come true.\nFrom, the Starbirth Envoy."""	莱莎	“致莱莎：\n　愿你心想事成。——星诞使者。”	萊莎	「給萊莎：\n　願妳的心願實現。　星誕使者敬啟」
+SeasonalTalkEvent_002_008ID	12	Ryza	ライザ	え！？　星誕の使者！？　本物！？	Ryza	Whoa! The Starbirth Envoy?! They're really real?!	莱莎	不是吧？！星诞使者？！是真的星诞使者？！	萊莎	咦！？星誕使者！？真的嗎！？
+SeasonalTalkEvent_002_008ID	13	Ryza	ライザ	いったい何が入ってるんだろう……あ	Ryza	Hm, I wonder what's inside? ...Ah.	莱莎	里面到底装着什么……啊！	萊莎	裡面到底放了什麼……啊。
+SeasonalTalkEvent_002_008ID	14	Ryza	ライザ	……星誕の使者さん、ありがとう	Ryza	Thank you, Starbirth Envoy.	莱莎	……谢谢你，星诞使者。	萊莎	……星誕使者，謝謝你。
+SeasonalTalkEvent_002_008ID	15	Patricia	パトリツィア	（いったいどこへ？　調合しに行ったのかな？）	Patricia	(Where is she rushing off to? Is she going to do some synthesis?)	帕特莉夏	（她到底要去哪里？是去调合了吗？）	派翠夏	（她打算去哪裡？去調合嗎？）
+SeasonalTalkEvent_002_008ID	16	Rorona	ロロナ	あー、びっくりしたぁ	Rorona	Wow! That was a huge shock!	萝乐娜	啊，紧张死我了。	蘿樂娜	啊──嚇了我一跳～
+SeasonalTalkEvent_002_008ID	17	Iksel	イクセル	よく声出さなかったな。偉いぜ、ロロナ	Iksel	You did a good job staying quiet, though. I'm proud of you, Rorona.	伊克赛尔	真亏你能憋住没出声，了不起啊，萝乐娜。	伊克賽爾	蘿樂娜妳竟然能忍住不出聲，真了不起。
+SeasonalTalkEvent_002_008ID	18	Iksel	イクセル	そこまで威張る顔をするほどでもないと思うがな……	Iksel	Well, not THAT proud.	伊克赛尔	不过也不至于骄傲成那样吧……	伊克賽爾	是不用露出那種驕傲的表情啦……
+SeasonalTalkEvent_002_009ID	0	Ryza	ライザ	クラウディア！	Ryza	Klaudia!	莱莎	科洛蒂娅！	萊莎	科洛蒂婭！
+SeasonalTalkEvent_002_009ID	1	Klaudia	クラウディア	ライザ？	Klaudia	Hm? Ryza?	科洛蒂娅	莱莎？	科洛蒂婭	萊莎？
+SeasonalTalkEvent_002_009ID	2	Ryza	ライザ	はあ、はあっ……\nよかったぁ、まだここにいて	Ryza	*Huff* *Huff* Thank goodness, you're still here.	莱莎	呼、呼……\n太好了，你还没走。	萊莎	呼、呼……\n太好了～妳還沒走。
+SeasonalTalkEvent_002_009ID	3	Klaudia	クラウディア	どうしたの、そんなに慌てて。\n何かあった？	Klaudia	What's the matter? Why are you in such a rush?	科洛蒂娅	怎么这么慌里慌张的，\n出什么事了？	科洛蒂婭	為何如此慌張？\n發生什麼事了？
+SeasonalTalkEvent_002_009ID	4	Ryza	ライザ	クラウディアが出発する前に、\n渡したいものがあって……	Ryza	There's something I wanted to give you before you left.	莱莎	科洛蒂娅，在你出发之前，\n我有东西想送给你……	萊莎	在妳出發之前，\n我有東西要給妳……
+SeasonalTalkEvent_002_009ID	5	Ryza	ライザ	これ、開けてみて	Ryza	Here. Go ahead, open it!	莱莎	你打开这个看看。	萊莎	就是這個。打開來看看吧。
+SeasonalTalkEvent_002_009ID	6	Klaudia	クラウディア	……これ、ペンダント？\nでも、どうして同じものが２つあるの？	Klaudia	A pendant? Oh, but why are there two of the same pendant?	科洛蒂娅	这是……坠饰？\n为什么有两个一样的？	科洛蒂婭	這是……\n兩個一模一樣的墜飾？
+SeasonalTalkEvent_002_009ID	7	Ryza	ライザ	１つはあたしの。……そしてもう１つは\nクラウディアに持っていてほしい	Ryza	One's for me. I'd like you to bring the other one with you, Klaudia.	莱莎	一个是我自己的……\n另一个我希望你能带在身边。	萊莎	其中一個是我的……\n而另一個我希望科洛蒂婭能帶著。
+SeasonalTalkEvent_002_009ID	8	Ryza	ライザ	このペンダント、別れた人がまた会えるって\nいわれてる縁結びの鉱石を素材に使ってるんだよ	Ryza	They're made from a material called fated ore, which means that even if two people are apart, they're fated to meet again!	莱莎	这个坠饰是用结缘矿石做的，\n据说这种矿石能保佑分开的同伴重聚。	萊莎	這個墜飾以有結緣功效的礦石為素材，\n據說能讓分離的人再次相見。
+SeasonalTalkEvent_002_009ID	9	Klaudia	クラウディア	…………！	Klaudia	...!	科洛蒂娅	……！	科洛蒂婭	…………！
+SeasonalTalkEvent_002_009ID	10	Ryza	ライザ	あたしね……本当はクラウディアが\n街を出ていっちゃうのが寂しいんだ	Ryza	If I'm being honest...I get lonely when you leave town, Klaudia.	莱莎	你要离开这座城镇了……\n其实我心里很舍不得。	萊莎	其實，一想到科洛蒂婭要離開城鎮\n我就會感到很寂寞。
+SeasonalTalkEvent_002_009ID	11	Ryza	ライザ	でも、クラウディアの……友達の夢は応援したい	Ryza	But you're my friend, and I want to support your dream.	莱莎	可是我想支持你……支持我的朋友追寻梦想。	萊莎	但我想支持朋友……科洛蒂婭實現夢想。
+SeasonalTalkEvent_002_009ID	12	Klaudia	クラウディア	ライザ……	Klaudia	Ryza...	科洛蒂娅	莱莎……	科洛蒂婭	萊莎……
+SeasonalTalkEvent_002_009ID	13	Ryza	ライザ	だからまた会おうって約束して！	Ryza	And I know we'll meet again!	莱莎	所以答应我，我们一定要重聚！	萊莎	所以讓我們約定以後再見吧！
+SeasonalTalkEvent_002_009ID	14	Ryza	ライザ	このペンダントは、その証として\nずっと持っていてほしい	Ryza	These pendants are proof of that promise. I want us to keep these forever!	莱莎	这个坠饰就是必将重聚的证明，\n我希望你能一直带着。	萊莎	希望妳能一直帶著這個墜飾，\n作為信物。
+SeasonalTalkEvent_002_009ID	15	Klaudia	クラウディア	……私だって、ライザと離れるのは寂しいよ	Klaudia	I miss you when we're apart too.	科洛蒂娅	……莱莎，我也很舍不得离开你啊。	科洛蒂婭	我也覺得……必須和萊莎分開很難受。
+SeasonalTalkEvent_002_009ID	16	Klaudia	クラウディア	だから、帰ってくる。\n……ライザに会いに、必ず帰ってくるから！	Klaudia	I'll definitely be back to see you, Ryza! No matter what!	科洛蒂娅	所以我会回来的……\n我保证会再次回来见你的！	科洛蒂婭	我會回來的……\n為了見妳，我一定會回來！
+SeasonalTalkEvent_002_009ID	17	Ryza	ライザ	約束だよ、クラウディア。\nどこにいても、あたしたちは友達だからね！	Ryza	I'll hold you to that, Klaudia. No matter how far apart we are, we'll always be friends!	莱莎	我们约好了，科洛蒂娅。\n无论身在何方，我们都是好朋友！	萊莎	科洛蒂婭，我們約好囉！\n無論妳身在何方，我們都是好朋友！
+SeasonalTalkEvent_002_009ID	18	Klaudia	クラウディア	うん！　約束だよ、ライザ！	Klaudia	Of course! I swear by our bonds, Ryza!	科洛蒂娅	嗯，莱莎，这是我们的约定！	科洛蒂婭	嗯！萊莎，我答應妳。
+SeasonalTalkEvent_002_009ID	19	Patricia	パトリツィア	（そっか……レスナさんは気付いてたんだ。\n　あれが縁結びの鉱石だって）	Patricia	(I see. So Miss Resna did know that material was called fated ore.)	帕特莉夏	（这样啊……\n　原来蕾斯娜小姐早就察觉那是结缘矿石了。）	派翠夏	（原來……蕾斯娜小姐注意到了啊。\n　那是結緣的礦石。）
+SeasonalTalkEvent_002_009ID	20	Patricia	パトリツィア	（離れていても、\n　二人の心はそばにあるように……）	Patricia	(It is as though their hearts will be side-by-side even though they're far apart.)	帕特莉夏	（希望她们即使分隔两地，\n　也能心连着心……）	派翠夏	（即使分隔兩地，\n　希望兩人的心會一直相伴……）
+SeasonalTalkEvent_002_009ID	21	Patricia	パトリツィア	…………	Patricia	...	帕特莉夏	……	派翠夏	…………
+SeasonalTalkEvent_002_009ID	22	Patricia	パトリツィア	（私も……タオさんの役に立ちたいと願うのなら\n　あの人の夢を応援するべきだわ）	Patricia	(I should be supportive of Mr. Tao's dreams if I want to be useful to him as well.)	帕特莉夏	（我也一样……既然想帮上塔奥先生的忙，\n　就应该支持他去实现梦想。）	派翠夏	（我也是……既然希望能幫上塔奧先生的忙，\n　就應該要支持他的夢想。）
+SeasonalTalkEvent_002_009ID	23	Patricia	パトリツィア	（どんなに寂しくても怖くても……\n　自分の気持ちを素直に伝えなくちゃ）	Patricia	(I may be lonely or afraid, but...I must tell him how I feel.)	帕特莉夏	（无论有多孤单多害怕……\n　我也要诚实地说出自己的想法。）	派翠夏	（無論多寂寞、多害怕……\n　我都得把自己的想法誠實地告訴他。）
+SeasonalTalkEvent_002_009ID	24	Patricia	パトリツィア	私……タオさんの地図を修復したい！	Patricia	I want to repair Mr. Tao's map!	帕特莉夏	我……想要修复塔奥先生的地图！	派翠夏	我……想協助塔奧先生修復地圖！
+SeasonalTalkEvent_002_010ID	0	Patricia	パトリツィア	レスナさん、お願いがあります！！	Patricia	Miss Resna! Please, I require your assistance!	帕特莉夏	蕾斯娜小姐，我有事想拜托你！	派翠夏	蕾斯娜小姐，我有事想拜託妳！！
+SeasonalTalkEvent_002_010ID	1	Resna	レスナ	ど、どうしたんですか、パトリツィアさん。\n尋常ならざる決意のようなものを感じますが……	Resna	Is everything okay, Patricia? You look way more determined than usual.	蕾斯娜	怎、怎么了，帕特莉夏小姐？\n感觉你散发出了非比寻常的坚定气场……	蕾斯娜	派、派翠夏小姐，發生什麼事了？\n感覺妳好像做了重大的決定……
+SeasonalTalkEvent_002_010ID	2	Patricia	パトリツィア	私、タオさんの持っている遺跡の地図を\n修復したいんです！	Patricia	I want to restore Mr. Tao's map of the ruins!	帕特莉夏	我想修复塔奥先生手上那张遗迹地图！	派翠夏	我打算修復\n塔奧先生手上的遺跡地圖！
+SeasonalTalkEvent_002_010ID	3	Resna	レスナ	……そうですか。\nタオさんへのプレゼントはそれに決めたんですね	Resna	Oh, I get it. You want to make that your present to him, right?	蕾斯娜	……我知道了。\n那就是你要送给塔奥先生的礼物吧。	蕾斯娜	……原來如此。\n妳決定把這個當作送給塔奧先生的禮物了啊。
+SeasonalTalkEvent_002_010ID	4	Patricia	パトリツィア	はいっ！！\n	Patricia	Yes!	帕特莉夏	是的！！	派翠夏	沒錯！！
+SeasonalTalkEvent_002_010ID	5	Resna	レスナ	分かりました！　では早速、地図を修復しますか！\nとにかく、やれることをやってみましょう！	Resna	Okay! We'll get straight to it! Or at least we'll get straight to trying!	蕾斯娜	我明白了！那就赶快修复地图吧！\n总之从能着手的事情开始准备吧！	蕾斯娜	知道了！那現在就來修復地圖吧！\n總之，盡力而為！
+SeasonalTalkEvent_002_010ID	6	Patricia	パトリツィア	はいっ！	Patricia	Thank you!	帕特莉夏	好的！	派翠夏	好！
+SeasonalTalkEvent_002_010ID	7	Patricia	パトリツィア	……と、いきたいところなんですけど	Patricia	That being said, there is one small problem.	帕特莉夏	虽然很想立刻开工……	派翠夏	雖然……很想這麼做……
+SeasonalTalkEvent_002_010ID	8	Patricia	パトリツィア	問題は、その地図を\nどうやって入手するかということです	Patricia	I am not sure how to go about getting the map.	帕特莉夏	但问题在于，\n究竟该如何拿到那张地图。	派翠夏	但我們要\n如何取得那張地圖？
+SeasonalTalkEvent_002_010ID	9	Resna	レスナ	アトリエに同じ地図があるはずです。\n伊達に本を読み続けていた訳じゃないんですから	Resna	That's okay, there should be a copy somewhere in the atelier. I didn't read all the books there just for show, you know!	蕾斯娜	炼金工房里应该也有一样的地图。\n我读那么多书可不是装装样子而已。	蕾斯娜	鍊金工房應該有一樣的地圖。\n我書可不是白讀的。
+SeasonalTalkEvent_002_010ID	10	Resna	レスナ	師匠が歴史好きなので、そういった本が\n充実してる、っていうのもあるんですけど	Resna	Plus, Miss Saskia loves history, so we have a lot on that subject.	蕾斯娜	另外也是因为师父爱好历史，工房里有大量这方面的书，\n所以我看得比较多啦。	蕾斯娜	師父對歷史很有興趣，\n所以擁有大量藏書。
+SeasonalTalkEvent_002_010ID	11	Patricia	パトリツィア	そっか、そういえばレスナさん、タオさんと\n同じ趣味なんですね	Patricia	I see. Miss Resna, your interests are much like Mr. Tao's.	帕特莉夏	这样啊，\n这么说来蕾斯娜小姐跟塔奥先生志趣相投呢。	派翠夏	原來如此。這麼一說，\n蕾斯娜小姐的興趣跟塔奧先生一樣呢。
+SeasonalTalkEvent_002_010ID	12	Resna	レスナ	はい	Resna	Yep!	蕾斯娜	是的。	蕾斯娜	是的。
+SeasonalTalkEvent_002_010ID	13	Patricia	パトリツィア	むむ……	Patricia	Ngh...	帕特莉夏	唔……	派翠夏	唔唔……
+SeasonalTalkEvent_002_010ID	14	Patricia	パトリツィア	は、話が盛り上がったりするんですか？	Patricia	D-Do you find that you have very lively discussions?	帕特莉夏	你、你们聊过很多吗？	派翠夏	你、你們很聊得來嗎？
+SeasonalTalkEvent_002_010ID	15	Resna	レスナ	この前、レントさんとイザナちゃんが\nリラさんの話で盛り上がってましたけど	Resna	Last time, Lent and Izana got really into their conversation about Lila...	蕾斯娜	之前兰托先生和伊札娜\n聊莉拉小姐聊得热火朝天……	蕾斯娜	之前蘭托先生和伊札娜\n聊了很多莉拉小姐的事情。
+SeasonalTalkEvent_002_010ID	16	Resna	レスナ	その時に、私はタオさんと話してたんです。\n有意義な情報交換になりましたよ	Resna	So I was talking to Tao instead. We traded so much useful information!	蕾斯娜	那时我跟塔奥先生聊了聊，\n进行了一次很有意义的情报交换。	蕾斯娜	那時，我趁機和塔奧先生聊了一會兒。\n我們互相交換了有用的情報喔。
+SeasonalTalkEvent_002_010ID	17	Patricia	パトリツィア	情報交換……ほっ	Patricia	O-Oh, is that all? Phew...	帕特莉夏	情报交换啊……呼。	派翠夏	交換情報……呼。
+SeasonalTalkEvent_002_010ID	18	Resna	レスナ	はっ、いけない。それよりも……	Resna	But! More importantly...	蕾斯娜	啊，不对。还有更要紧的事……	蕾斯娜	啊，不行。不說這個了……
+SeasonalTalkEvent_002_010ID	19	Resna	レスナ	ほら、これタオさんが持ってるのと同じやつですよね	Resna	See? Isn't this one the same as Tao's?	蕾斯娜	看，这个是不是跟塔奥先生手上的地图一样？	蕾斯娜	妳瞧，這跟塔奧先生手上的地圖一模一樣吧？
+SeasonalTalkEvent_002_010ID	20	Patricia	パトリツィア	確かに	Patricia	I believe it is.	帕特莉夏	是的。	派翠夏	對耶。
+SeasonalTalkEvent_002_010ID	21	Resna	レスナ	ルイネ州には遺跡がとにかくたくさんありますから。\n解明が進むなら、私も楽しみです	Resna	There really are a lot of ruins in Ruine. I'm looking forward to seeing what gets uncovered!	蕾斯娜	瑞恩州分布着数不清的遗迹。\n我也很期待塔奥先生的研究能有所进展。	蕾斯娜	畢竟盧涅州有許多遺跡，\n我也很期待遺跡研究能有所進展。
+SeasonalTalkEvent_002_010ID	22	Patricia	パトリツィア	具体的にどう動きます？	Patricia	So what should we do now?	帕特莉夏	具体来说我们要怎么做？	派翠夏	那具體來說，我們該怎麼做？
+SeasonalTalkEvent_002_010ID	23	Resna	レスナ	やることは１つ、素材を集めるんです！	Resna	First of all, we're going to need some materials!	蕾斯娜	要做的只有一件事，收集素材！	蕾斯娜	要做的事只有一件，就是蒐集素材！
+SeasonalTalkEvent_002_010ID	24	Patricia	パトリツィア	やはりそれしかありませんよね……\nでも、へこたれません。最後までついていきます！	Patricia	I had a feeling you might say that. But I will not be discouraged! I plan on seeing this through from start to finish!	帕特莉夏	还得是收集素材啊……\n不过，我是不会泄气的。我会坚持到最后！	派翠夏	果然是這樣……\n但我不會因此氣餒。一定要堅持到底！
+SeasonalTalkEvent_002_011ID	0	Patricia	パトリツィア	ここは……遺跡ですか？\nどうして、この場所に？	Patricia	These are...ruins? Why did we come here?	帕特莉夏	这里是……遗迹吗？\n为什么要来这里？	派翠夏	這裡是……遺跡嗎？\n為什麼要來這裡？
+SeasonalTalkEvent_002_011ID	1	Resna	レスナ	あの地図を修復するためには、\n年代感の近い素材が必要なんです	Resna	If we're going to repair that map, we'll need some materials that are from a similar era.	蕾斯娜	修复那张地图要用到时代相近的素材。	蕾斯娜	我們需要使用年代相近的素材\n修復那份地圖。
+SeasonalTalkEvent_002_011ID	2	Resna	レスナ	だから、この遺跡に遺ってるもので\n修復に使えるものがないかなって	Resna	So I was thinking we might be able to find something useful here!	蕾斯娜	所以我就想，\n说不定能用遗留在这个遗迹的素材来修复它。	蕾斯娜	說不定能在這個遺跡裡\n找到可以拿來修復的材料。
+SeasonalTalkEvent_002_011ID	3	Patricia	パトリツィア	なるほど……なんでも錬金術の素材に\nなるわけじゃないんですね	Patricia	I see. Almost anything can be used in alchemy, it would seem.	帕特莉夏	这样啊……\n并不是随便什么东西都能拿来当炼金术素材呀。	派翠夏	原來如此……並非所有東西\n都能當作鍊金術的素材啊。
+SeasonalTalkEvent_002_011ID	4	Resna	レスナ	はい、錬金術は適当に素材を入れておけば\nなんでもできると思われがちですが……	Resna	Yep! If you've got the right ingredients, you can synthesize whatever you want!	蕾斯娜	是的，经常有人以为炼金术无所不能，\n随便放点素材就能做出任何东西……	蕾斯娜	沒錯。雖然外界經常誤以為\n任何物品都能作為鍊金術的素材……
+SeasonalTalkEvent_002_011ID	5	Resna	レスナ	できること、できないことがあるんですよ	Resna	Well, more or less. It does have its limits.	蕾斯娜	其实有的东西还是没法生成的。	蕾斯娜	但其實有分為做得到和做不到的事喔。
+SeasonalTalkEvent_002_011ID	6	Patricia	パトリツィア	そうなんですか？\n錬金術は万能なものだと思っていました	Patricia	Is that so? I was under the impression that alchemy could do anything.	帕特莉夏	原来是这样啊？\n我也以为炼金术是万能的呢。	派翠夏	是這樣啊？\n我還以為鍊金術是萬能的。
+SeasonalTalkEvent_002_011ID	7	Resna	レスナ	やっぱりそう思いますよね。だから、私はみんなの\n期待に応えられるように、できるだけ頑張りたいんです	Resna	Oh, yeah. Most people are. That's why I want to work hard at meeting those expectations!	蕾斯娜	你也会这么想吧。\n所以我想尽我所能发挥力量，满足更多人的期待。	蕾斯娜	大家果然都這麼認為呢。所以，\n我想要盡力回應大家的期待。
+SeasonalTalkEvent_002_011ID	8	Resna	レスナ	私が諦めてしまったら……\n誰かの願いもそこで終わってしまうから	Resna	Someone's wish might go unfulfilled if I gave up.	蕾斯娜	我要是放弃了……\n或许就会有人期待落空。	蕾斯娜	要是連我都放棄的話……\n有些人的願望就永遠無法實現了。
+SeasonalTalkEvent_002_011ID	9	Patricia	パトリツィア	諦めたら、誰かの願いもそこで……	Patricia	If that happened, then...	帕特莉夏	要是放弃，就会有人无法实现愿……	派翠夏	放棄的話，有些人的願望就……
+SeasonalTalkEvent_002_011ID	10	Resna	レスナ	…………！\nパトリツィアさん、あそこに何かいます！	Resna	Oh! Patricia, there's something over there!	蕾斯娜	……！\n帕特莉夏小姐，那边好像有什么东西！	蕾斯娜	…………！\n派翠夏小姐，那裡有東西！
+SeasonalTalkEvent_002_011ID	11	Patricia	パトリツィア	あれは……魔物！？	Patricia	Is that...a monster?!	帕特莉夏	那是……魔物？！	派翠夏	那是……魔物！？
+SeasonalTalkEvent_002_011ID	12	Resna	レスナ	大丈夫、二人なら倒せます。\nいきますよ、パトリツィアさん！	Resna	Don't worry, we can take it down together. Let's go, Patricia!	蕾斯娜	别担心，我们俩能打倒它。\n我们上吧，帕特莉夏小姐！	蕾斯娜	不要緊，靠我們兩個就能打倒。\n派翠夏小姐，要上囉！
+SeasonalTalkEvent_002_011ID	13	Patricia	パトリツィア	はい！！！！	Patricia	All right!	帕特莉夏	好的！！！	派翠夏	是！！！！
+SeasonalTalkEvent_002_011ID	14	Resna	レスナ	す、すごい気合ですね	Resna	Wh-Whoa. You're really fired up about this!	蕾斯娜	好、好强大的压迫感。	蕾斯娜	真、真是氣勢十足。
+SeasonalTalkEvent_002_011ID	15	Patricia	パトリツィア	思いの力、ぶつけます！	Patricia	I will fight with the full force of my feelings!	帕特莉夏	我会倾注我的所有念想进攻！	派翠夏	賭上我的心意，看招！
+SeasonalTalkEvent_002_012ID	0	Resna	レスナ	よしっ、これで素材は揃ったかと。\nパトリツィアさんが頑張って魔物を倒したおかげです	Resna	Okay! That's it for the materials. Thank you for working so hard to take down that monster!	蕾斯娜	好，这下就集齐素材了。\n多亏帕特莉夏小姐努力打倒了魔物。	蕾斯娜	好，這樣一來素材就蒐集完成了。\n多虧派翠夏小姐努力打倒魔物。
+SeasonalTalkEvent_002_012ID	1	Patricia	パトリツィア	これがあれば、\n錬金術で地図を修復できるんですか？	Patricia	We can repair the map with this?	帕特莉夏	只要有了这个，\n就能用炼金术来修复地图了吗？	派翠夏	有了這個，\n就能用鍊金術修復地圖嗎？
+SeasonalTalkEvent_002_012ID	2	Resna	レスナ	そう簡単には、いかないと思いますが\nできることを精一杯！	Resna	I don't think it'll be an easy synthesis, but I'll do the best I can!	蕾斯娜	应该没那么简单，\n但我会全力以赴的！	蕾斯娜	應該沒那麼簡單。\n但我會全力以赴！
+SeasonalTalkEvent_002_012ID	3	Patricia	パトリツィア	あの、あまり私一人のわがままに時間を使ってしまうと\nレスナさん自身のプレゼントを用意する時間が	Patricia	I do worry that this selfish request of mine is cutting into the time you need to make your own presents, Miss Resna.	帕特莉夏	蕾斯娜小姐，要是为了我一个人的私心花费太久，\n会不会耽误你自己准备礼物的时间……	派翠夏	抱歉占用蕾斯娜小姐這麼多時間，\n害妳沒辦法準備自己的禮物……
+SeasonalTalkEvent_002_012ID	4	Resna	レスナ	そこは抜かりなく、合間合間で進めていたので\n大丈夫です	Resna	No, it's fine! I've been chipping away at them here and there, so I'm making good progress.	蕾斯娜	我正有条不紊地准备自己的礼物呢，\n你就放心吧。	蕾斯娜	別擔心。我一直都在抽空進行這件事，\n沒問題的。
+SeasonalTalkEvent_002_012ID	5	Resna	レスナ	さぁ、まずは思考実験！	Resna	Okay! I'll start by visualizing the process!	蕾斯娜	好，首先进行思考实验！	蕾斯娜	那首先，從假想實驗開始！
+SeasonalTalkEvent_002_012ID	6	Patricia	パトリツィア	どうでしょう、レスナさん	Patricia	Well? What do you think, Miss Resna?	帕特莉夏	怎么样呢，蕾斯娜小姐？	派翠夏	蕾斯娜小姐，情況如何？
+SeasonalTalkEvent_002_012ID	7	Resna	レスナ	んんん……いいところまでいってると思うんですが、\nこのまま本番の調合をすると多分、失敗しちゃいます	Resna	Hmm... I can get most of the way there, but I think if I tried synthesizing it now, it would probably fail.	蕾斯娜	唔……感觉还是很有希望的，\n但直接进行正式调合可能会失败。	蕾斯娜	嗯……還算順利。不過，\n如果就這樣進行調合，大概會失敗。
+SeasonalTalkEvent_002_012ID	8	Resna	レスナ	あと一押し、何か閃いたら――	Resna	It's like I'm missing one last push, or some spark of inspiration...	蕾斯娜	还差一点，要是能想到什么主意——	蕾斯娜	還差那麼一點。要是能靈光一閃──
+SeasonalTalkEvent_002_012ID	9	Saskia	ザスキア	その一押し、私が手伝ってあげるわ	Saskia	I could provide that, if you'd like.	萨丝琪亚	我来帮你完成最后一步吧。	薩絲琪亞	就讓我來幫妳一把吧。
+SeasonalTalkEvent_002_012ID	10	Resna	レスナ	師匠！	Resna	Miss Saskia!	蕾斯娜	师父！	蕾斯娜	師父！
+SeasonalTalkEvent_002_012ID	11	Saskia	ザスキア	いいところまで進められたわよ、レスナ。\nあと一押し、あなた一人でも、恐らくはたどり着いた	Saskia	You've done well to reach this point, Resna. I'm certain that you would find that final step on your own, given enough time.	萨丝琪亚	蕾斯娜，你做得很好。\n相信靠你自己的力量最终也能完成这最后一步。	薩絲琪亞	能走到這一步相當不錯唷，蕾斯娜。\n就差那麼一點，妳一個人應該也能完成。
+SeasonalTalkEvent_002_012ID	12	Saskia	ザスキア	ただもうすぐ、星誕祭だからね。\n今回は特別に手を貸しちゃう	Saskia	However, the Starbirth Festival is fast approaching, so I'll step in as a special favor.	萨丝琪亚	只不过很快就要到星诞祭了，\n这一次就破例帮你一把好了。	薩絲琪亞	不過星誕祭就快到了，\n我就特別幫妳一次吧。
+SeasonalTalkEvent_002_012ID	13	Resna	レスナ	でも……	Resna	But...	蕾斯娜	可是……	蕾斯娜	可是……
+SeasonalTalkEvent_002_012ID	14	Saskia	ザスキア	この手伝いは、私から愛するあなたへの\n星誕祭プレゼント。受け取ってくれないと泣くわよ	Saskia	Consider it my Starbirth Festival gift for my beloved pupil. If you don't accept, I'll start to sob.	萨丝琪亚	就当是我送给宝贝徒弟的星诞祭礼物吧。\n你要是不收下，我可要哭给你看了。	薩絲琪亞	這是我送給妳的星誕祭禮物。\n如果妳不肯收下，我可是會哭出來的喔。
+SeasonalTalkEvent_002_012ID	15	Resna	レスナ	師匠……ありがとうございます	Resna	Miss Saskia... Thank you very much.	蕾斯娜	师父……谢谢你。	蕾斯娜	師父……謝謝妳。
+SeasonalTalkEvent_002_012ID	16	Saskia	ザスキア	いいのよ、当然のことだから。\nそちらのお嬢さんのためにもね	Saskia	Oh, it's nothing. Besides, it would help that young lady over there as well.	萨丝琪亚	不客气，我自然是要帮你的。\n而且我这么做也是为了这位小姐。	薩絲琪亞	別客氣，這是理所當然的。\n這也是為了這位小姑娘啊。
+SeasonalTalkEvent_002_012ID	17	Patricia	パトリツィア	（ザスキアさん……優しい師匠なんだなぁ）	Patricia	(Miss Saskia truly is a kind mentor.)	帕特莉夏	（萨丝琪亚小姐……真是一位优秀的师父啊。）	派翠夏	（薩絲琪亞小姐……是位溫柔的師父呢～）
+SeasonalTalkEvent_002_012ID	18	Patricia	パトリツィア	ありがとうございます！	Patricia	That would be much appreciated!	帕特莉夏	谢谢你！	派翠夏	謝謝妳！
+SeasonalTalkEvent_002_013ID	0	Izana	イザナ	レスナちゃーん、手伝いに来たよー！\n勿論、座学は全部終わらせましたー！	Izana	Resnaaa! I finished all my studying, so I'm here to lend a hand!	伊札娜	蕾斯娜，我来帮忙啦！\n别担心，我的课程已经全上完了！	伊札娜	蕾斯娜，我來幫忙囉──！\n當然，講座我全聽完了──！
+SeasonalTalkEvent_002_013ID	1	Heidi	ハイディ	イザナから話は聞かせてもらったよ	Heidi	And Izana told me what was up, so.	海蒂	伊札娜都跟我说了。	海蒂	伊札娜全告訴我了。
+SeasonalTalkEvent_002_013ID	2	Resna	レスナ	イザナちゃん、ハイディさん！？\nどうして……？	Resna	Izana and Heidi?! How did you...	蕾斯娜	伊札娜、海蒂小姐？！\n你们怎么……？	蕾斯娜	伊札娜、海蒂小姐！？\n妳們為什麼……？
+SeasonalTalkEvent_002_013ID	3	Izana	イザナ	レスナちゃんが急にこんな服を着るなんて、\n普通じゃないからね。考えてる事、わかるんだー	Izana	Well, changing your whole outfit without warning really isn't like you. So, with a bit of thinking, I put two and two together!	伊札娜	蕾斯娜突然穿上了这样的服装，\n我就知道事情不寻常。\n你在想什么我可是一清二楚——\n	伊札娜	因為蕾斯娜突然打扮成這樣很不尋常嘛。\n我知道妳在想什麼──
+SeasonalTalkEvent_002_013ID	4	Izana	イザナ	あー、やっぱり可愛いよ、レスナちゃーん	Izana	But that look is super cute on you, Resna!	伊札娜	哎呀，还是觉得你这样好可爱啊！	伊札娜	啊、蕾斯娜妳果然很可愛──
+SeasonalTalkEvent_002_013ID	5	Heidi	ハイディ	水臭いじゃん。私たちも一枚噛ませてよ。\nこういう企み、嫌いじゃないし	Heidi	Look, I'm going to get straight to the point. We think this is a cool idea, so we want in too.	海蒂	你也太见外了，让我们也来掺一脚吧。\n而且我很中意这种计划哦。	海蒂	妳們太見外了啦。也讓我們加入吧！\n這種計畫，我並不討厭喔。
+SeasonalTalkEvent_002_013ID	6	Heidi	ハイディ	プレゼントを配るために頑張ってるんでしょ。\n力を貸すよ	Heidi	You're working hard to get those presents delivered, so we'll help lighten the load!	海蒂	你这么努力忙活是为了送给大家礼物吧？\n我会帮忙的。	海蒂	妳們正在為了送禮而努力對吧？\n我們願意提供協助。
+SeasonalTalkEvent_002_013ID	7	Patricia	パトリツィア	ありがとうございます	Patricia	Thank you very much.	帕特莉夏	非常感谢。	派翠夏	謝謝妳。
+SeasonalTalkEvent_002_013ID	8	Heidi	ハイディ	いいって気にしないで、なんかパティには親近感わくし	Heidi	Aw, it's nothing. Besides, I feel like you and I could be buds, Patty!	海蒂	别客气啦，而且感觉我跟帕蒂也会合得来。	海蒂	別客氣。我總覺得跟派蒂妳很有緣呢。
+SeasonalTalkEvent_002_013ID	9	Resna	レスナ	皆にお返ししたかったのに、またお世話に\nなっちゃうなぁ	Resna	*Sigh* After going through all this trouble to return favors, I'm still going to end up owing you guys.	蕾斯娜	我本来是想送礼物回馈大家，\n结果又要麻烦你们了。	蕾斯娜	明明是我要報答大家，\n結果又受妳們照顧了。
+SeasonalTalkEvent_002_013ID	10	Izana	イザナ	ふっふっふ、観念するんだね	Izana	Heh heh. You're just going to have to accept it, Resna.	伊札娜	呵呵呵，你就死了这条心吧。	伊札娜	呵呵呵。妳就認了吧。
+SeasonalTalkEvent_002_013ID	11	Saskia	ザスキア	星の導きに感謝、ね。レスナ	Saskia	Indeed. You should be thankful that the stars have aligned so.	萨丝琪亚	感谢星星的指引吧，蕾斯娜。	薩絲琪亞	感謝星之導引。對吧？蕾斯娜。
+SeasonalTalkEvent_002_013ID	12	Resna	レスナ	はい！　二人とも、ありがとう！！	Resna	I am! Thank you both!	蕾斯娜	嗯，谢谢你们！！	蕾斯娜	沒錯！謝謝妳們兩位！！
+SeasonalTalkEvent_002_013ID	13	Keithgriff	キースグリフ	――起きろ	Keithgriff	Hey. Get up.	奇斯葛里夫	——起床了！	奇斯葛里夫	──醒醒。
+SeasonalTalkEvent_002_013ID	14	Empel	アンペル	私たちも、実は星誕の使者を希望していてね。\n力を貸すよ	Empel	We also aspire to be Starbirth Envoys, so we shall lend you our strength.	安佩尔	其实我们也一直想当星诞使者，\n所以让我们帮忙吧。	安佩爾	我們也想成為星誕使者。\n我們願意提供協助。
+SeasonalTalkEvent_002_013ID	15	Lanze	ランツェ	おじさんなぁ、実はプレゼント配りが\n趣味だったんだよ！	Lanze	Gents like us're actually into things like deliverin' presents, y'know!	兰泽	还没告诉你，大叔我有个爱好，\n那就是派发礼物！	藍澤	其實啊，\n送禮是叔叔我的興趣喔！
+SeasonalTalkEvent_002_013ID	16	Resna	レスナ	み、皆さん、なんて頼もしい	Resna	Wow, you're all so reliable.	蕾斯娜	真、真是太谢谢各位了。	蕾斯娜	大、大家，真是太可靠了。
+SeasonalTalkEvent_002_013ID	17	Keithgriff	キースグリフ	さぁプレゼントを配りに出発だ。\nクールにいこう、クールにな	Keithgriff	Well, it's time we were off. Let us pass these out with style, hm?	奇斯葛里夫	好，该出发去派发礼物了。\n帅气地完成任务吧。	奇斯葛里夫	好～那我們就出發送禮吧。\n記得要保持冷靜喔，冷靜。
+SeasonalTalkEvent_002_013ID	18	Resna	レスナ	ふぁぁっ！？　待ってください！	Resna	Whaaat?! Wait up!	蕾斯娜	哇？！等等我！	蕾斯娜	哇啊啊！？請等一下！
+SeasonalTalkEvent_002_013ID	19	Resna	レスナ	あれ？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	奇怪？
+SeasonalTalkEvent_002_013ID	20	Saskia	ザスキア	あら、仮眠はもういいの？　なら仕上げにいくわよ	Saskia	Goodness, have you napped long enough? If so, we should add the finishing touches.	萨丝琪亚	哎呀，你睡醒了吗？那就去进行最后一步吧。	薩絲琪亞	哎呀，醒了啊？那就起來把東西完成吧。
+SeasonalTalkEvent_002_013ID	21	Resna	レスナ	す、すみません、変な夢を見ていました	Resna	S-Sorry, I just had the weirdest dream...	蕾斯娜	对、对不起。我做了个怪梦。	蕾斯娜	不、不好意思，我做了奇怪的夢。
+SeasonalTalkEvent_002_013ID	22	Patricia	パトリツィア	さぁもう一息です、レスナさん	Patricia	This is it, Miss Resna. Only a little more to go!	帕特莉夏	就差最后一点了，蕾斯娜小姐。	派翠夏	剩下最後一個步驟了！蕾斯娜小姐。
+SeasonalTalkEvent_002_013ID	23	Resna	レスナ	はい！	Resna	Right!	蕾斯娜	好的！	蕾斯娜	好！
+SeasonalTalkEvent_002_013ID	24	Patricia	パトリツィア	お、終わったーー！！	Patricia	It's finished!	帕特莉夏	完、完成了——！！	派翠夏	完、完成了──！
+SeasonalTalkEvent_002_013ID	25	Resna	レスナ	やりましたね、パトリツィアさん！\n星誕祭当日に間に合いましたよ！	Resna	Yep! You did great, Patricia! And we made it in time for the Starbirth Festival, too!	蕾斯娜	帕特莉夏小姐，我们做到了！\n我们能赶上星诞祭了！	蕾斯娜	派翠夏小姐，我們成功了！\n在星誕祭當天趕上了！
+SeasonalTalkEvent_002_013ID	26	Resna	レスナ	……オスカーさんの分よし、\nシャリステラ先輩の分よし、全員分、よし！	Resna	This one's for Oskar, and this one's for Shallistera. Okay, that's all of them!	蕾斯娜	……奥斯卡先生的准备好了，\n夏莉丝堤拉前辈的准备好了，所有人的礼物都准备好了！	蕾斯娜	……奧斯卡先生、夏莉絲堤菈前輩……\n嗯，所有人的份都準備好了！
+SeasonalTalkEvent_002_013ID	27	Resna	レスナ	私から送るプレゼントや、\n街の人たちへのプレゼント各種も	Resna	I've got all the presents I want to give out, plus the ones for the townspeople.	蕾斯娜	我要送的礼物，\n还有送给城镇居民们的各种礼物也安排妥当了。	蕾斯娜	除了我要送的禮物，\n給鎮民們的各種禮物也都備齊了。
+SeasonalTalkEvent_002_013ID	28	Patricia	パトリツィア	皆さんのおかげです。\n本当にありがとうございました！	Patricia	Thank you so much for your help, everyone! We could not have accomplished this without you.	帕特莉夏	都是多亏大家帮忙才能赶上。\n谢谢你们！	派翠夏	這都是多虧了各位的協助。\n真的很謝謝大家！
+SeasonalTalkEvent_002_013ID	29	Saskia	ザスキア	ふふっ。\n頑張ったのはあなたやレスナよ	Saskia	*Chuckle* Well, you and Resna did the majority of the work.	萨丝琪亚	呵呵。\n最大的功臣是你和蕾斯娜哦。	薩絲琪亞	呵呵，\n妳和蕾斯娜也很努力啊。
+SeasonalTalkEvent_002_013ID	30	Izana	イザナ	これをタオ君に届けるのは、\nもちろんパティだよ！	Izana	Of course, you've got to be the one to give Tao his present, Patty!	伊札娜	给塔奥的这份礼物，肯定得由帕蒂来送啦！	伊札娜	那就請派蒂把地圖送去給塔奧吧！
+SeasonalTalkEvent_002_013ID	31	Patricia	パトリツィア	はい。バレないように置いてきます	Patricia	Oh, yes. I will make sure not to be seen.	帕特莉夏	嗯，我会悄悄放好，不被发现的。	派翠夏	好的。我會小心不被他發現的。
+SeasonalTalkEvent_002_013ID	32	Resna	レスナ	あの、それはどうなんでしょう	Resna	Um, is that really the best idea?	蕾斯娜	请问，为什么要这么做呢？	蕾斯娜	應該沒這個必要才對。
+SeasonalTalkEvent_002_013ID	33	Resna	レスナ	これは直接渡したほうがいいと思うんです。\n星誕の使者としてじゃなく、パトリツィアさんとして	Resna	I think you should give it to him in person. Not as a Starbirth Envoy or anything, just as you!	蕾斯娜	我认为这个应该由你亲手交给他才对。\n不是作为星诞使者，而是作为帕特莉夏本人送给他。	蕾斯娜	我覺得由妳當面交給他比較好。\n不是以星誕使者的身分，而是妳親自交給他。
+SeasonalTalkEvent_002_013ID	34	Patricia	パトリツィア	……そうですね。そうします！	Patricia	...You're quite right. That's just what I'll do, then!	帕特莉夏	……有道理。我会这么做的！	派翠夏	……妳說得對，我會這麼做的！
+SeasonalTalkEvent_002_013ID	35	Resna	レスナ	イザナちゃん！　はい、プレゼント！	Resna	Here, Izana! Your present!	蕾斯娜	伊札娜！收下吧，这是送你的！	蕾斯娜	伊札娜！來，這是妳的禮物！
+SeasonalTalkEvent_002_013ID	36	Izana	イザナ	うわぁああ、いきなりだ！\nありがとう、レスナちゃん	Izana	Wooow, I get the very first one?! Thanks, Resna!	伊札娜	哇，好突然啊！\n谢谢你，蕾斯娜！	伊札娜	嗚哇啊，真突然！\n蕾斯娜，謝謝妳。
+SeasonalTalkEvent_002_013ID	37	Resna	レスナ	師匠、こちらを！\n感謝の手紙も３０枚ぐらい添えてあります	Resna	Miss Saskia, these are for you! I wrote you a thirty-page letter expressing my gratitude!	蕾斯娜	师父，请收下这个！\n里面还附上了感谢信，有30张信纸那么长。	蕾斯娜	師父，這個送妳！\n我還附上了三十多頁的感謝信。
+SeasonalTalkEvent_002_013ID	38	Saskia	ザスキア	ふふふ、ありがとう。ゆっくり読むとするわ	Saskia	*Chuckle* Why, thank you. I'll be sure to take my time reading it.	萨丝琪亚	呵呵，谢谢你。我会慢慢看的。	薩絲琪亞	呵呵呵，謝謝妳。我會慢慢讀它的。
+SeasonalTalkEvent_002_013ID	39	Patricia	パトリツィア	（この地図はタオさんの願い……\n　なんとしてでも、タオさんに届けなくちゃ！）	Patricia	(This map represents Mr. Tao's dreams, so I have to be the one to give it to him!)	帕特莉夏	（这张地图就是塔奥先生的最想要的东西……\n　无论如何我都要把它送给塔奥先生！）	派翠夏	（地圖是塔奧先生的心願……\n　無論如何都要送到塔奧先生手中！）
+SeasonalTalkEvent_002_014ID	0	Tao	タオ	あれ、パティ？	Tao	Hm? Patty?	塔奥	咦，帕蒂？	塔奧	咦，派蒂？
+SeasonalTalkEvent_002_014ID	1	Patricia	パトリツィア	……タ、タオさん！！	Patricia	M-Mr. Tao!	帕特莉夏	……塔、塔奥先生！！	派翠夏	……塔、塔奧先生！！
+SeasonalTalkEvent_002_014ID	2	Tao	タオ	どうしたの……って、え！？\nそ、その手に持ってる地図は、もしかして！？	Tao	What's the matt... H-Huh?! That map you're holding, is that...?	塔奥	你怎么了……咦？！\n你、你手上的地图该不会是……？！	塔奧	怎麼了……呃，咦！？\n妳、妳手上的地圖，該不會是！？
+SeasonalTalkEvent_002_014ID	3	Patricia	パトリツィア	あっ、これは！　そのっ……	Patricia	Um! You see! It's, well...	帕特莉夏	啊，这……这个是……	派翠夏	啊，這是！那個……
+SeasonalTalkEvent_002_014ID	4	Patricia	パトリツィア	私から、タオさんへの、星誕祭のプレゼントです！	Patricia	It's my Starbirth Festival present to you!	帕特莉夏	是我要送给塔奥先生的星诞祭礼物！	派翠夏	是我替塔奧先生準備的星誕祭禮物！
+SeasonalTalkEvent_002_014ID	5	Tao	タオ	あ、ありがとう	Tao	Th-Thank you.	塔奥	谢、谢谢你。	塔奧	謝、謝謝妳。
+SeasonalTalkEvent_002_014ID	6	Patricia	パトリツィア	どう、ですか？	Patricia	How...does it look?	帕特莉夏	你喜欢吗……？	派翠夏	你覺得……怎麼樣？
+SeasonalTalkEvent_002_014ID	7	Tao	タオ	すごいよ……完璧に修復されてる。\nこの紙質も、まるで当時のものみたいだ	Tao	This is incredible... It's been perfectly restored. The paper even feels exactly like what they would have used at the time.	塔奥	太厉害了……修复得完美无缺。\n这个纸质简直跟当时的地图一模一样。	塔奧	真厲害……修復得很完美。\n紙質感覺就像是那個年代的東西。
+SeasonalTalkEvent_002_014ID	8	Tao	タオ	こんな修復技術は今まで見たことがない。\nまさに奇跡としか言いようがないね	Tao	I've never seen restoration work like this before. I'd even go so far as to call it miraculous!	塔奥	我至今从来没有见过这么厉害的修复技术。\n简直唯有奇迹可以形容。	塔奧	我從沒看過這樣的修復技術。\n簡直就是奇蹟。
+SeasonalTalkEvent_002_014ID	9	Patricia	パトリツィア	…………！　よかった……	Patricia	Thank goodness...	帕特莉夏	……！你喜欢就太好了……	派翠夏	…………！太好了……
+SeasonalTalkEvent_002_014ID	10	Tao	タオ	どうやってこれを？	Tao	How did you get this?	塔奥	你是怎么修复的？	塔奧	妳是怎麼得到這個的？
+SeasonalTalkEvent_002_014ID	11	Patricia	パトリツィア	その……ここ数日星に願っていたんです。\nそうしたら今日、枕元に置かれてました	Patricia	Um... I wished on the stars for a few days and it appeared by my bedside today.	帕特莉夏	我……我最近都一直在向星星许愿。\n然后今天它出现在了我的枕边。	派翠夏	那個……我這幾天一直向星星祈禱。\n然後，今天它就出現在我的枕邊了。
+SeasonalTalkEvent_002_014ID	12	Patricia	パトリツィア	きっと、星誕の使者さんがくれたんだと思います	Patricia	I'm certain the Starbirth Envoy must have delivered it!	帕特莉夏	肯定是星诞使者送给我的。	派翠夏	我想，一定是星誕使者送給我的。
+SeasonalTalkEvent_002_014ID	13	Tao	タオ	……そっか。すごいなあ。\n星誕の使者は本当にいたんだね	Tao	You don't say. Honestly, that's incredible. So they really do exist!	塔奥	……这样啊，太神奇了。\n居然真的有星诞使者这号人物。	塔奧	原來如此……太驚人了～\n原來星誕使者真的存在啊。
+SeasonalTalkEvent_002_014ID	14	Tao	タオ	本当にありがとう、パティ！\n僕のために願ってくれて	Tao	Thank you so much for making those wishes on my behalf, Patty!	塔奥	帕蒂，谢谢你为我许愿！	塔奧	派蒂，真的很謝謝妳\n幫我許願！
+SeasonalTalkEvent_002_014ID	15	Tao	タオ	後で何かお返しをしないとね	Tao	I'll have to do something to repay you later.	塔奥	我之后会送你回礼的。	塔奧	之後得給妳回禮才行呢。
+SeasonalTalkEvent_002_014ID	16	Patricia	パトリツィア	あの、タオさん	Patricia	Um, Mr. Tao?	帕特莉夏	塔奥先生……	派翠夏	那個，塔奧先生。
+SeasonalTalkEvent_002_014ID	17	Patricia	パトリツィア	……私、タオさんがこの街から\nいなくなることが寂しいです	Patricia	It...makes me sad that you will be leaving the city.	帕特莉夏	……得知塔奥先生要离开这座城镇，\n我心里很是不舍。	派翠夏	……一想到你要離開這座城鎮，\n我就感到很寂寞。
+SeasonalTalkEvent_002_014ID	18	Tao	タオ	……え？	Tao	It does?	塔奥	……咦？	塔奧	……咦？
+SeasonalTalkEvent_002_014ID	19	Patricia	パトリツィア	でも、タオさんには夢を叶えてほしいって\n心から願っているんです	Patricia	But I want nothing more than for your dreams to come true.	帕特莉夏	不过，我会诚心诚意祈祷，\n希望塔奥先生梦想成真。	派翠夏	但我打從心底希望\n塔奧先生的夢想能實現。
+SeasonalTalkEvent_002_014ID	20	Patricia	パトリツィア	だから、その夢が叶ったら必ず戻ってきてください。\n私、ずっと待ってますから！	Patricia	So I hope you will return when they do! I will be waiting for you!	帕特莉夏	所以当你实现梦想之后，请一定要回来。\n我会一直等着你！	派翠夏	所以，如果你實現夢想了，請一定要回來。\n我會一直等著你！
+SeasonalTalkEvent_002_014ID	21	Tao	タオ	……パティ。うん、約束するよ。\n夢が叶ったら、必ず戻ってくる！	Tao	Patty... Don't worry, I promise I will!	塔奥	……帕蒂。嗯，我向你保证。\n等实现了梦想，我一定会回来的！	塔奧	……派蒂，我答應妳。\n夢想實現後，我一定會回來的。
+SeasonalTalkEvent_002_014ID	22	Patricia	パトリツィア	はい！\n約束ですよ、タオさん！	Patricia	I shall hold you to it, Mr. Tao!	帕特莉夏	嗯！\n一言为定，塔奥先生！	派翠夏	好的！\n塔奧先生，我們約好囉！
+SeasonalTalkEvent_002_014ID	23	Tao	タオ	……パティ	Tao	Hey, Patty?	塔奥	……帕蒂。	塔奧	……派蒂。
+SeasonalTalkEvent_002_014ID	24	Patricia	パトリツィア	な、なんですか？	Patricia	Y-Yes?	帕特莉夏	怎、怎么了？	派翠夏	什、什麼事？
+SeasonalTalkEvent_002_014ID	25	Tao	タオ	いつもありがとう	Tao	Thanks. For everything.	塔奥	谢谢你一直以来的帮助。	塔奧	謝謝妳一直以來的關照。
+SeasonalTalkEvent_002_014ID	26	Patricia	パトリツィア	いいえ。\n私のほうが、ありがとうです	Patricia	It's nothing. If anything, I should be thanking you.	帕特莉夏	不……\n我才要谢谢你。	派翠夏	不，\n我才要謝謝你。
+SeasonalTalkEvent_002_014ID	27	Tao	タオ	あはは。なんか、改まってこういうことを言うの\n照れくさいね	Tao	Haha! There's something a little embarrassing about talking in circles like this.	塔奥	哈哈，这么正式地道谢，\n总觉得好难为情啊。	塔奧	啊哈哈。像這樣認真道謝，\n總覺得有點害羞呢。
+SeasonalTalkEvent_002_014ID	28	Patricia	パトリツィア	ふふ……そうですね	Patricia	*Chuckle* There is, isn't there?	帕特莉夏	呵呵……是啊。	派翠夏	呵呵……對啊。
+SeasonalTalkEvent_002_015ID	0	Resna	レスナ	いつもお世話になっている皆さんに、\n星誕祭の贈り物です！	Resna	I brought Starbirth Festival presents for you guys as thanks for always having my back!	蕾斯娜	感谢各位一直以来的照顾，\n这是送给大家的星诞祭礼物！	蕾斯娜	因為各位總是照顧著我，\n我來送星誕祭的禮物了！
+SeasonalTalkEvent_002_015ID	1	Valeria	ヴァレリア	やったーやったー、レスナ大好きー	Valeria	Woo-hoo! Resna, you're the absolute best! Love you!	瓦莱莉娅	太好啦！我最喜欢蕾斯娜了！	瓦萊莉婭	好耶！太棒了──！最喜歡蕾斯娜了──！
+SeasonalTalkEvent_002_015ID	2	Flocke	フロッケ	フロッケにまで。ありがとうございます	Flocke	There's one for me too? Thank you very much!	芙洛可	居然有芙洛可的份，谢谢你。	芙洛可	連芙洛可都有，謝謝妳。
+SeasonalTalkEvent_002_015ID	3	Lanze	ランツェ	まさか、おじさんの歳でプレゼントを\nもらうなんてなぁ	Lanze	I'm still in shock that you'd bother givin' an old fogey like me somethin' this nice.	兰泽	我这个年纪居然还能收到礼物啊。	藍澤	沒想到叔叔我一把年紀了，\n還能收到禮物。
+SeasonalTalkEvent_002_015ID	4	Heidi	ハイディ	ハイディちゃんも手伝ったんだぞー	Heidi	I helped too, you know!	海蒂	海蒂也有出力哦——	海蒂	海蒂我也有幫忙喔──
+SeasonalTalkEvent_002_015ID	5	Lila	リラ	誰だ？	Lila	Who's there?	莉拉	谁啊？	莉拉	是誰？
+SeasonalTalkEvent_002_015ID	6	Resna	レスナ	夜分、失礼します！	Resna	I'm so sorry to bother you in the middle of the night!	蕾斯娜	不好意思，这么晚来打扰！	蕾斯娜	抱歉，這麼晚來打擾！
+SeasonalTalkEvent_002_015ID	7	Empel	アンペル	レスナ、よくここが分かったな	Empel	Resna? Goodness, I'm impressed you knew we were here.	安佩尔	蕾斯娜，真亏你能找到这里。	安佩爾	蕾斯娜，真虧妳能找到這裡。
+SeasonalTalkEvent_002_015ID	8	Resna	レスナ	こちら、お二人に星誕祭のプレゼントです！	Resna	I've got Starbirth Festival presents for you both!	蕾斯娜	这是我要送给二位的星诞祭礼物！	蕾斯娜	這些是給兩位的星誕祭禮物！
+SeasonalTalkEvent_002_015ID	9	Lila	リラ	私たちにも……	Lila	You do?	莉拉	连我们都有份啊……	莉拉	我們也有……
+SeasonalTalkEvent_002_015ID	10	Resna	レスナ	はい！	Resna	Of course!	蕾斯娜	是的！	蕾斯娜	沒錯！
+SeasonalTalkEvent_002_015ID	11	Empel	アンペル	そうか、わざわざ、すまない	Empel	Well now. Thank you for going through the trouble.	安佩尔	这样啊，不好意思，麻烦你特地准备这些。	安佩爾	這樣啊。抱歉讓妳費心了。
+SeasonalTalkEvent_002_015ID	12	Resna	レスナ	アンペル先輩には、お菓子の詰め合わせです	Resna	Here's an assortment of sweet treats for you, Empel.	蕾斯娜	送给安佩尔前辈的是点心大礼包。	蕾斯娜	給安佩爾前輩的是綜合點心。
+SeasonalTalkEvent_002_015ID	13	Empel	アンペル	！	Empel	!	安佩尔	！	安佩爾	！
+SeasonalTalkEvent_002_015ID	14	Resna	レスナ	リラさんには、ご馳走を詰めたものです	Resna	And a bunch of gourmet goodies for you, Lila!	蕾斯娜	送给莉拉小姐的是各种美食。	蕾斯娜	給莉拉小姐的是美食禮盒。
+SeasonalTalkEvent_002_015ID	15	Lila	リラ	！	Lila	!	莉拉	！	莉拉	！
+SeasonalTalkEvent_002_015ID	16	Resna	レスナ	それでは、お邪魔いたしました！	Resna	Okay, that's it! I'm off!	蕾斯娜	那我就失陪啦！	蕾斯娜	那我先告辭囉！
+SeasonalTalkEvent_002_015ID	17	Empel	アンペル	嵐のような子だな	Empel	What a tempest of a girl she is.	安佩尔	她可真是风风火火的呢。	安佩爾	這孩子真是來去如風啊。
+SeasonalTalkEvent_002_015ID	18	Lila	リラ	これは、うまいぞ	Lila	This is delicious.	莉拉	这东西很好吃啊。	莉拉	這個很好吃耶。
+SeasonalTalkEvent_002_015ID	19	Empel	アンペル	星誕祭か、いいお祭りじゃないか	Empel	Though, I do rather like this Starbirth Festival.	安佩尔	星诞祭……是个不错的庆典啊。	安佩爾	星誕祭啊，真是個不錯的節日。
+SeasonalTalkEvent_002_015ID	20	Empel	アンペル	……リラ、いつもありがとう	Empel	I should thank you, Lila.	安佩尔	……莉拉，一直以来谢谢你。	安佩爾	……莉拉，謝謝妳一直以來的關照。
+SeasonalTalkEvent_002_015ID	21	Lila	リラ	なんだ、いきなり	Lila	Hm? What for?	莉拉	怎么突然说这个？	莉拉	為何這麼突然？
+SeasonalTalkEvent_002_015ID	22	Empel	アンペル	贈るものがないので、せめて言葉でもと思ってな	Empel	Everything, really. I may not have a present for you, but I figured that I should at least express my gratitude.	安佩尔	我没什么东西能送你，所以至少得口头说一句。	安佩爾	雖然沒有準備禮物，但我還是想道個謝。
+SeasonalTalkEvent_002_015ID	23	Lila	リラ	……そうか	Lila	Oh.	莉拉	……这样啊。	莉拉	……這樣啊。
+SeasonalTalkEvent_002_015ID	24	Lila	リラ	…………	Lila	...	莉拉	……	莉拉	…………
+SeasonalTalkEvent_002_015ID	25	Lila	リラ	私も、いつも、ありがとう	Lila	Me too. Thanks.	莉拉	我也要谢谢你。	莉拉	我也是，感謝你一直以來的關照。
+SeasonalTalkEvent_002_015ID	26	Empel	アンペル	すまない、聞こえなかった！	Empel	Hm? What was that? I couldn't quite hear you!	安佩尔	不好意思，你刚才说了什么？	安佩爾	抱歉，我沒聽到妳說什麼！
+SeasonalTalkEvent_002_015ID	27	Lila	リラ	菓子をばりばりと食っているからだろうが。\nもう言わんぞ	Lila	Well, that's what you get for eating crunchy snacks. Too bad, I'm not repeating it.	莉拉	谁让你只顾着大吃特吃那些点心啊。\n我不会再说第二遍了。	莉拉	還不是因為你只顧著吃點心。\n我不會再說第二遍了。
+SeasonalTalkEvent_002_015ID	28		ナレーション	それから、レスナは……	Narrator	After that, Resna pushed onward...	旁白	在那之后，蕾斯娜……	旁白	在那之後，蕾斯娜……
+SeasonalTalkEvent_002_015ID	29	Patricia	パトリツィア	お疲れさまです。\nこれでお世話になった方々へは配り終えたでしょうか	Patricia	I imagine you are a little tired after delivering all those personalized presents. Have you finished?	帕特莉夏	辛苦你了。\n给关照过我们的人准备的礼物都送到了吧？	派翠夏	辛苦妳了。\n照顧過我們的人都收到禮物了嗎？
+SeasonalTalkEvent_002_015ID	30	Resna	レスナ	はい！　残るは街の人たちへのプレゼントですね！	Resna	Yep! All I have left now are the ones for the townspeople!	蕾斯娜	是的！剩下的礼物是给城镇居民的！	蕾斯娜	沒錯！只剩下給鎮民們的禮物了！
+SeasonalTalkEvent_002_015ID	31	Resna	レスナ	なんと用意した特製風船をそりに付ければ、\n短時間ながらも、宙に浮く！	Resna	I hooked this extra-special balloon I happened to have up to the sleigh I made, so we can save some time by floating through the air!	蕾斯娜	只要把特制气球系在雪橇上，\n雪橇就能在短时间内浮在空中。	蕾斯娜	把特製的氣球綁在雪橇上，\n就能暫時浮在空中！
+SeasonalTalkEvent_002_015ID	32	Patricia	パトリツィア	皆、喜びますよ。それじゃ、早速……	Patricia	Everyone will be thrilled, I'm sure of it. We should hurry and—	帕特莉夏	大家肯定会很开心的。那就赶快……	派翠夏	大家一定會很開心。那我們快點……
+SeasonalTalkEvent_002_015ID	33	Patricia	パトリツィア	レスナさん、あれを！	Patricia	Miss Resna! Over there!	帕特莉夏	蕾斯娜小姐，快看那边！	派翠夏	蕾斯娜小姐，看那邊！
+SeasonalTalkEvent_002_015ID	34	Resna	レスナ	うわわっ、魔物の群れだ！　ちょこざいな！\nもしかして、プレゼントに引き寄せられたのかも？	Resna	Oh nooo! It's a whole pack of monsters! Those cheeky so-and-so's! Do you think they're here for the presents?	蕾斯娜	呜哇，有一群魔物！算盘打得挺响！\n该不会是被礼物引来的吧？	蕾斯娜	嗚哇，成群的魔物！可惡！\n難道說，是被禮物吸引過來的？
+SeasonalTalkEvent_002_015ID	35	Patricia	パトリツィア	そんなことってあります？\nくっ……囲まれてる！	Patricia	I suppose? Ack... We're being surrounded!	帕特莉夏	会吗？\n啊……它们围过来了！	派翠夏	真的嗎？\n唔……我們被包圍了！
+SeasonalTalkEvent_002_015ID	36	Patricia	パトリツィア	（……このプレゼントには\n　みんなの大切な願いが込められている）	Patricia	(These presents contain everyone's precious wishes...)	帕特莉夏	（……这些礼物里面装的是大家的宝贵愿望。）	派翠夏	（……這個禮物\n　包含了大家重要的心願。）
+SeasonalTalkEvent_002_015ID	37	Patricia	パトリツィア	（そして、私やレスナさん……\n　手伝ってくれた皆さんの想いだって！）	Patricia	(...along with my and Miss Resna's feelings toward all those who have helped us.)	帕特莉夏	（还有我和蕾斯娜小姐……\n　以及所有帮助我们的人真挚的心情！）	派翠夏	（還有我和蕾斯娜小姐……\n　以及大家協助我們的心意！）
+SeasonalTalkEvent_002_015ID	38	Patricia	パトリツィア	――星誕祭の邪魔をするのは許さない！\nこのプレゼントは、私が守ってみせるっ！	Patricia	I vow to protect these presents! I will not allow our Starbirth Festival plans to be ruined!	帕特莉夏	——不会让你们妨碍星诞祭！\n我会将礼物守护到底！	派翠夏	──我絕不允許星誕祭遭到妨礙！\n我要守護這份禮物！
+SeasonalTalkEvent_002_015ID	39	Patricia	パトリツィア	レスナさん、絶対にこのプレゼントを\n街の皆さんに届けましょう！	Patricia	Miss Resna! We absolutely must deliver these presents to the townspeople!	帕特莉夏	蕾斯娜小姐，\n我们一定要把这些礼物送到居民们手上！	派翠夏	蕾斯娜小姐，\n我們絕對要把禮物送給鎮上的大家！
+SeasonalTalkEvent_002_015ID	40	Resna	レスナ	はい、もちろんです！	Resna	Without a doubt!	蕾斯娜	嗯，当然了！	蕾斯娜	那當然！
+SeasonalTalkEvent_002_015ID	41		ナレーション	お世話になった人たちにプレゼントを配って回り続けた	Narrator	She continued to deliver presents to the people who had helped them over the year.	旁白	四处奔波，为照顾过她的人送去礼物。	旁白	繼續分送禮物給幫助過自己的人們。
+SeasonalTalkEvent_002_016ID	0		子供Ａ	……あれっ、なんだろう？	Child A	Huh? What's this?	孩童A	……咦，那是什么啊？	小孩A	……奇怪，那是什麼？
+SeasonalTalkEvent_002_016ID	1		子供Ｂ	見て！　そりだ！　\n星誕祭に、使者さんが来たんだよ！！	Child B	Look! It's a sleigh! The Starbirth Envoy's here!	孩童B	快看，是雪橇！\n使者们来庆祝星诞祭了！	小孩B	看！是雪橇！\n使者在星誕祭這天降臨了！！
+SeasonalTalkEvent_002_016ID	2	Resna	レスナ	皆さーん！！　星誕祭のプレゼントですー！	Resna	Hellooo, everyone! Your Starbirth presents have arrived!	蕾斯娜	大家好！！这是送给你们的星诞祭礼物！	蕾斯娜	各位──！！這是星誕祭的禮物──！
+SeasonalTalkEvent_002_016ID	3		おじさん	おおっ！　あれは……星誕の使者か！？	Old Man	Well, I'll be! Is that the Starbirth Envoy?!	叔叔	哇！那就是……星诞使者吗？！	叔叔	哦哦！那是……星誕使者嗎！？
+SeasonalTalkEvent_002_016ID	4		お姉さん	嘘、飛んでる！？　夢じゃないよね！？	Young Woman	They really can fly?! Am I dreaming?!	姐姐	不是吧，她们在飞？！我没做梦吧？！	大姐姐	騙人，雪橇在飛！？我不是在作夢吧！？
+SeasonalTalkEvent_002_016ID	5		おばあさん	いるんじゃよ。使者様は本当に。\nああ、ありがたや、ありがたや	Old Woman	Goodness me, so they do exist. Isn't that a happy discovery!	老奶奶	使者大人是真实存在的啊。\n哎呀，真是太好了，太好了。	老婆婆	使者大人，是真的存在喔。\n啊，可喜可賀、可喜可賀。
+SeasonalTalkEvent_002_016ID	6	Patricia	パトリツィア	……レスナさん、見てください。\n皆さんとても嬉しそうですよ	Patricia	Miss Resna, look at that. Everyone is so happy.	帕特莉夏	……蕾斯娜小姐，你看，\n大家都笑容满面呢。	派翠夏	……蕾斯娜小姐，妳看。\n大家看起來都很開心呢。
+SeasonalTalkEvent_002_016ID	7	Resna	レスナ	はい！　やってよかったですね、パトリツィアさん！	Resna	Yeah! We did it, Patricia!	蕾斯娜	嗯！有实施这次计划真是太好了，帕特莉夏小姐！	蕾斯娜	對啊！真是太好了，派翠夏小姐！
+SeasonalTalkEvent_002_016ID	8	Resna	レスナ	みんなの笑顔が見られて、すごく嬉しいです！	Resna	Seeing everyone's smiles is just the best!	蕾斯娜	能看到大家露出笑容，我好开心啊！	蕾斯娜	能看到大家的笑容，我超開心的！
+SeasonalTalkEvent_002_016ID	9	Patricia	パトリツィア	……私が使者になりたいと願ったのは\nタオさんにプレゼントを渡すためでした	Patricia	I wanted to be a Starbirth Envoy so that I could give Mr. Tao a present, but...	帕特莉夏	……我想当使者，\n是因为想送给塔奥先生礼物。	派翠夏	……本來，我成為使者的目的是\n為了送禮物給塔奧先生。
+SeasonalTalkEvent_002_016ID	10	Patricia	パトリツィア	でも、今なら分かります	Patricia	I think I understand now.	帕特莉夏	但我现在明白……	派翠夏	但現在我明白了。
+SeasonalTalkEvent_002_016ID	11	Patricia	パトリツィア	タオさんだけじゃない。\nライザさんや、クラウディアさん……	Patricia	Miss Ryza and Miss Klaudia are part of it, too. And all these other people's wishes and feelings...	帕特莉夏	不光是为了塔奥先生。\n莱莎小姐、科洛蒂娅小姐……	派翠夏	不僅是塔奧先生，\n萊莎小姐、科洛蒂婭小姐……
+SeasonalTalkEvent_002_016ID	12	Patricia	パトリツィア	他の皆さんの願いや想い。\nそして、みんなが見せてくれた心からの笑顔……	Patricia	Being able to see everyone smile, from the bottom of their heart...	帕特莉夏	其他所有人的愿望与心情，\n还有大家发自内心的笑容……	派翠夏	還有其他人的願望和心意，\n以及大家發自內心的笑容……
+SeasonalTalkEvent_002_016ID	13	Patricia	パトリツィア	そのすべてが、素晴らしいものなんだって	Patricia	...is absolutely wonderful.	帕特莉夏	这一切都是美好的事物。	派翠夏	原來這一切是如此美好。
+SeasonalTalkEvent_002_016ID	14	Resna	レスナ	パトリツィアさん……	Resna	Patricia...	蕾斯娜	帕特莉夏小姐……	蕾斯娜	派翠夏小姐……
+SeasonalTalkEvent_002_016ID	15	Patricia	パトリツィア	さあ、レスナさん！\nのんびりしている暇はありませんよ	Patricia	Miss Resna! We do not have time to be lazing about!	帕特莉夏	蕾斯娜小姐！\n现在还没到休息的时候。	派翠夏	來吧，蕾斯娜小姐！\n我們沒時間悠悠哉哉了。
+SeasonalTalkEvent_002_016ID	16	Patricia	パトリツィア	プレゼントは、まだまだあるんですから！	Patricia	There are still presents to be delivered!	帕特莉夏	还有无数礼物等着我们发放呢！	派翠夏	我們還有好多禮物要送呢！
+SeasonalTalkEvent_002_016ID	17	Resna	レスナ	そうですね！\n皆さーん、星誕祭、おめでとうございまーす！	Resna	You're right! Have a happy Starbirth Festival, everyone!	蕾斯娜	是呀！\n祝大家星诞祭快乐！	蕾斯娜	妳說得對！\n大家，星誕祭快樂──！
+SeasonalTalkEvent_002_016ID	18	Patricia	パトリツィア	（１つ１つのプレゼントに込められた想いが、\n　みんなの心に届きますように……）	Patricia	(May the feelings packed into each of these presents reach everyone's hearts.)	帕特莉夏	（希望倾注在每份礼物中的心意，\n　都能传递给大家……）	派翠夏	（希望每個禮物的心意，\n　都能順利傳達給大家……）
+SeasonalTalkEvent_002_016ID	19	Patricia	パトリツィア	（そして、どうか……あの人の元へ。\n　笑顔よ届け――）	Patricia	(And please let this smile also find its way to that special person...)	帕特莉夏	（也传递给那个人……\n　让他露出笑容——）	派翠夏	（然後……也希望那個人，\n　可以被這些笑容感染──）
+SeasonalTalkEvent_002_016ID	20	Lent	レント	おおー、すげぇなぁ。\nこれが年に一度しか見られねえなんてもったいねえ	Lent	Whoa, this is amazing. It's a shame a view like this only comes around once a year.	兰托	哦，好壮观啊。\n一年居然只有一次机会，真不够看。	蘭托	哦哦──真是驚人。\n這種景象一年竟然只能看到一次，真可惜～
+SeasonalTalkEvent_002_016ID	21	Tao	タオ	なに言ってるのさ。\n年に一度の特別な日だからいいんじゃないか	Tao	Come on, be reasonable. There's nothing wrong with keeping special days special.	塔奥	你在说什么啊，\n就是因为一年一度，所以才会是特殊的日子啊。	塔奧	你在說什麼啊。\n正因為是一年一度的盛事，才顯得特別啊。
+SeasonalTalkEvent_002_016ID	22	Ryza	ライザ	そうだよ。だからみんな、あんなに嬉しそうな顔で\nプレゼントもらってるんでしょ	Ryza	Yeah! That's definitely part of why everyone looks so happy to be getting presents.	莱莎	是啊，就是因为难得，\n大家才会开开心心地收下礼物。	萊莎	沒錯。所以大家收到禮物時\n才會那麼開心吧。
+SeasonalTalkEvent_002_016ID	23	Lent	レント	それもそうか。にしてもタオ、本当にいたな。\n星誕の使者は	Lent	I guess so. But more importantly... Hey, Tao! Turns out there really is a Starbirth Envoy.	兰托	确实说得通。\n话说回来，塔奥，原来星诞使者是真实存在的啊。	蘭托	說得也是。話說回來，塔奧，\n原來星誕使者真的存在啊。
+SeasonalTalkEvent_002_016ID	24	Tao	タオ	うん、そうだね	Tao	Yeah, looks like it.	塔奥	嗯，是啊。	塔奧	嗯，是啊。
+SeasonalTalkEvent_002_016ID	25	Lent	レント	いるわけない、って言ってたのにな	Lent	You were saying there's no way someone like that actually exists.	兰托	你之前还说不可能存在呢。	蘭托	你明明說過那是不可能的。
+SeasonalTalkEvent_002_016ID	26	Tao	タオ	事実、僕も地図をもらってるから	Tao	Actually, they gave me my map.	塔奥	但我真的收到了地图嘛。	塔奧	實際上，我也收到地圖了。
+SeasonalTalkEvent_002_016ID	27	Ryza	ライザ	そう言えばそうだったわね。\nタオ、遺跡の調査、気を付けていってきなさいよ	Ryza	Speaking of which—Tao, stay safe while you're out investigating those ruins, okay?	莱莎	也对。\n塔奥，你调查遗迹的时候要小心哦。	萊莎	這麼說來的確是這樣耶。\n塔奧，調查遺跡時要小心喔。
+SeasonalTalkEvent_002_016ID	28	Tao	タオ	うん	Tao	I will.	塔奥	嗯。	塔奧	嗯。
+SeasonalTalkEvent_002_016ID	29	Tao	タオ	……必ず、帰ってくるよ	Tao	I'll definitely be back.	塔奥	……我一定会回来的。	塔奧	……我一定會回來的。

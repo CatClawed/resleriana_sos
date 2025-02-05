@@ -1,0 +1,306 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_VILLAIN_C_01ID	0	Resna	レスナ	（今日は大好きな文学作品の新刊発売日！\n　書店までもう少し！ るんるん、やー！）	Resna	(Today's the day my favorite book series gets its newest release! Ooh, I can hardly wait!)	蕾斯娜	（今天是我最喜欢的文学作品新刊发售日！\n　马上就到书店了！开心开心～！）	蕾斯娜	（今天是我最喜歡的文學作品的新書發售日！\n　就快到書店了！啦啦啦～！）
+Date_VILLAIN_C_01ID	1	Resna	レスナ	（！　あ、あの姿は……）	Resna	(Huh? Is that who I think it is?)	蕾斯娜	（那、那背影是……！）	蕾斯娜	（！那、那個身影是……）
+Date_VILLAIN_C_01ID	2			ララさん		Lara		拉拉小姐		拉拉小姐
+Date_VILLAIN_C_01ID	3	Resna	レスナ	ララさん！	Resna	Lara!	蕾斯娜	拉拉小姐！	蕾斯娜	拉拉小姐！
+Date_VILLAIN_C_01ID	4	Lara	ララ	あら、レスナ。ごきげんよう	Lara	Well if it isn't Resna. How do you do?	拉拉	啊，蕾斯娜。贵安。	拉拉	哎呀，蕾斯娜。妳好呀。
+Date_VILLAIN_C_01ID	5	Resna	レスナ	ごきげんよう、です！	Resna	Uh, h-how do you do too!	蕾斯娜	贵安！	蕾斯娜	妳、妳好！
+Date_VILLAIN_C_01ID	6	Lara	ララ	ふふ。あなたのごきげんようは、\n赤子が初めてくしゃみをするような\nたどたどしさがあってかわいいですわね	Lara	Hehe. Listen to you, putting on airs! Somehow it doesn't quite suit you, but you still manage to look cute as a button.	拉拉	呵呵，你的“贵安”，\n就好像婴儿第一次打喷嚏一样稚拙呢。	拉拉	呵呵。妳的那句「妳好」\n感覺好像小嬰兒第一次打噴嚏一樣\n有種生澀感，真可愛呀。
+Date_VILLAIN_C_01ID	7			ララちゃん		Miss Lara		小拉拉		拉拉
+Date_VILLAIN_C_01ID	8	Resna	レスナ	ララちゃん！	Resna	Hi, Miss Lara!	蕾斯娜	小拉拉！	蕾斯娜	拉拉！
+Date_VILLAIN_C_01ID	9	Lara	ララ	あら、新鮮な呼ばれ方ですわね	Lara	My, my. It's been quite a while since someone last called me that.	拉拉	哎呀，真是新奇的称呼。	拉拉	哎呀，這稱呼還真新奇呢。
+Date_VILLAIN_C_01ID	10	Resna	レスナ	す、すみません！　噛みました！	Resna	Oh, I'm really sorry! It just kind of slipped out...	蕾斯娜	对、对不起！我说错了！	蕾斯娜	抱、抱歉！我叫錯了！
+Date_VILLAIN_C_01ID	11	Lara	ララ	ふふ、あなたになら別に構いませんのに	Lara	*Chuckle* You're more than welcome to call me whatever you like, Resna.	拉拉	呵呵呵，你可以这么称呼我哦。	拉拉	呵呵，我不會介意妳這麼叫我的。
+Date_VILLAIN_C_01ID	12	Lara	ララ	ララちゃんと呼ばれたのはいつぶりかしら。\nなんだか少しむず痒いですが、\n悪い気はしませんわね	Lara	But now that I'm a queen, hardly anyone refers to me that way... I don't dislike it, mind you. It'll just take some getting used to.	拉拉	上次有人叫我小拉拉是什么时候的事了呢。\n感觉有些不好意思，不过我并不讨厌。	拉拉	已經好久沒人叫我拉拉了呢。\n總覺得有點肉麻，不過我不討厭喔。
+Date_VILLAIN_C_01ID	13			ララ様		Queen Lara		拉拉大人		拉拉大人
+Date_VILLAIN_C_01ID	14	Resna	レスナ	ララ様！	Resna	Queen Lara!	蕾斯娜	拉拉大人！	蕾斯娜	拉拉大人！
+Date_VILLAIN_C_01ID	15	Lara	ララ	あら？　その呼び方、ララ・キングダムに\n移住する気になったのかしら？	Lara	"""Queen,"" hm? I take it you're ready to join the Kingdom of Lara as one of my loyal subjects, then?"	拉拉	咦？你这么叫我，\n是决定移居到拉拉王国来了吗？	拉拉	哎呀，聽妳這種叫法，\n莫非妳決定要移居到拉拉王國了？
+Date_VILLAIN_C_01ID	16	Resna	レスナ	ハッ！\nす、すみません！　間違えました！	Resna	Oops! No, I... I'm so sorry! I didn't mean to give you the wrong impression!	蕾斯娜	啊！\n对、对不起！我说错了！	蕾斯娜	咦！抱、抱歉！我叫錯了！
+Date_VILLAIN_C_01ID	17	Lara	ララ	それは残念。本当に残念ですわ	Lara	That's a shame. I was quite hoping you'd pledge your fealty to me.	拉拉	那可真遗憾。真是太遗憾了。	拉拉	那真可惜，真的太可惜了。
+Date_VILLAIN_C_01ID	18	Lara	ララ	あなたに様付けで呼ばれるのは\n気分が良いですわね。\nいつでも召し抱えて差し上げますわ	Lara	"But coming from you, the words ""Queen Lara"" have a lovely ring to them. If you change your mind, you're welcome to serve in my kingdom anytime."	拉拉	被你称作“大人”可真是令我心情愉快。\n我随时都愿意把你纳入麾下哦。	拉拉	能被妳稱呼為大人心情真愉快。\n我隨時都歡迎妳加入我們。
+Date_VILLAIN_C_01ID	19	Lara	ララ	ところで、何か用ですの？	Lara	Anyway, is there something you need?	拉拉	话说回来，你找我有什么事吗？	拉拉	話說回來，找我有什麼事嗎？
+Date_VILLAIN_C_01ID	20	Resna	レスナ	本を買いに来たら、\nララさんがいたので……\n特に用はないんですが……	Resna	No, not really... I just came to buy a book, and I noticed you were here.	蕾斯娜	我来买书，结果看到拉拉小姐你在这里……\n我没有什么事啦……	蕾斯娜	我只是來買書正巧碰到拉拉小姐妳……\n所以沒什麼特別的事……
+Date_VILLAIN_C_01ID	21	Resna	レスナ	ララさんはここで何しているんですか？	Resna	What brings you here, Lara?	蕾斯娜	拉拉小姐，你在这里做什么呢？	蕾斯娜	拉拉小姐在這裡做什麼呢？
+Date_VILLAIN_C_01ID	22	Lara	ララ	わたくしも書店に用がありますの。\n本を探しに来たのです	Lara	I have business with the bookseller, myself. There's a certain book I'm searching for.	拉拉	我也是来书店的，我来找书。	拉拉	我也是有事才來書店的。\n我來找一些書。
+Date_VILLAIN_C_01ID	23	Resna	レスナ	なんの本ですか？	Resna	What kind of book?	蕾斯娜	找什么书呀？	蕾斯娜	什麼樣的書呢？
+Date_VILLAIN_C_01ID	24	Lara	ララ	実は……	Lara	Well...	拉拉	其实……	拉拉	其實……
+Date_VILLAIN_C_01ID	25	Lara	ララ	ララ・キングダムの民が新たに耕した畑に、\n見たことのない虫が\n来るようになってしまいまして……	Lara	You see, there's a mysterious insect plaguing my kingdom. They're infesting the fields that my subjects worked so hard to cultivate.	拉拉	拉拉王国的国民新开垦的田地里，\n出现了从没见过的虫子……	拉拉	拉拉王國的人民新耕作的田地裡，\n出現了從未見過的蟲……
+Date_VILLAIN_C_01ID	26	Lara	ララ	害虫の可能性もあるとのことで\n王であるわたくしがなんとかしなければ、と	Lara	Those insects may be a danger to my people. As queen, duty demands that I protect my kingdom from harm.	拉拉	如果是害虫就不好了，\n我这个做国王的得想办法处理。	拉拉	那很可能是一種害蟲。\n我身為君主必須想辦法處理才行。
+Date_VILLAIN_C_01ID	27	Lara	ララ	ですが、\nわたくしは虫の専門家ではありません。\nこうして本に知識を求めに来たのですわ	Lara	However, I know very little of insects. That's why I came here in search of information.	拉拉	但是我并不是虫子的专家，\n所以就来寻求书中的知识了。	拉拉	但我不是蟲子專家，\n只能像這樣來這裡尋求書中知識了。
+Date_VILLAIN_C_01ID	28	Resna	レスナ	なるほど！　でしたらこのレスナ、\nお力になれるかもしれません！	Resna	I see! If it's a bug problem you've got, just leave it to me!	蕾斯娜	原来如此！\n那我蕾斯娜说不定能帮上你的忙！	蕾斯娜	原來如此！\n這樣的話，說不定我能幫上妳的忙！
+Date_VILLAIN_C_01ID	29	Lara	ララ	あなた、虫が苦手なのではなくて？	Lara	Hm? I seem to recall you being afraid of insects...	拉拉	你不是怕虫子吗？	拉拉	妳不是很怕蟲嗎？
+Date_VILLAIN_C_01ID	30	Resna	レスナ	はい！　私は虫が苦手なので、\n対策のためにも本でたくさん学びました！\nお任せください！	Resna	That's right, I am! But don't worry, I've been studying up on them to conquer my fear! You can count on me!	蕾斯娜	是的！因为害怕，我为了对付虫子，\n看书学习了好多知识！交给我吧！	蕾斯娜	是！我的確很怕蟲子，\n所以從書上學習了許多害蟲的應對措施！\n請交給我吧！
+Date_VILLAIN_C_01ID	31	Resna	レスナ	（ここで力になることができたら、\n　ララさんと仲良くなれるかも！）	Resna	(If I can help Lara with her problem, that might just bring us closer together!)	蕾斯娜	（如果能帮上拉拉小姐的忙，\n　说不定可以拉近关系！）	蕾斯娜	（如果在這個時候幫上忙，\n　也許就能和拉拉小姐成為好朋友呢！）
+Date_VILLAIN_C_01ID	32	Resna	レスナ	（まずは、畑にやって来た虫が\n　なんていう虫なのか、分からないとだね）	Resna	(First things first. I need to figure out what kind of bug is infesting her kingdom's fields.)	蕾斯娜	（首先，需要弄清楚田地里出现的是什么虫。）	蕾斯娜	（首先，得要弄清楚\n　跑到田地裡的是什麼蟲才行。）
+Date_VILLAIN_C_01ID	33			どんな見た目の虫でしたか？		What do the bugs look like?		那种虫子长什么样子？		蟲的外觀長得怎麼樣呢？
+Date_VILLAIN_C_01ID	34	Resna	レスナ	どんな見た目の虫でしたか？	Resna	What do the bugs look like?	蕾斯娜	那种虫子长什么样子？	蕾斯娜	蟲的外觀長得怎麼樣呢？
+Date_VILLAIN_C_01ID	35	Lara	ララ	そうですわね……黒い体で、\n緑色の羽をしていましたわ	Lara	If memory serves, they're black with green wings.	拉拉	我想想……身体是黑色的，长着绿色的翅膀。	拉拉	這個嘛……身體是黑色的，然後有一對綠色翅膀。
+Date_VILLAIN_C_01ID	36	Lara	ララ	地面を這ったり、飛んだりと\nすばしっこくて、容易に捕らえるのは\n難しそうでしたわ……それから	Lara	And they're quite fast. Too fast to catch. They dart through the dirt and fly about like mad...	拉拉	会在地上爬或者在天上飞，\n动作很敏捷，感觉不好捕捉……\n还有……	拉拉	一會兒在地上爬一會兒又飛上天，\n行動相當敏捷，感覺很難輕易地抓到……\n還有……
+Date_VILLAIN_C_01ID	37	Resna	レスナ	詳細な説明、ありがとうございます。\nその特徴……心当たりがあります！	Resna	Thank you, that helps a lot. In fact, I think I might just know what our culprit is!	蕾斯娜	谢谢你详细的说明。\n这样的特征……我想到了！	蕾斯娜	感謝妳的詳細說明。\n那些特徵……讓我有頭緒了！
+Date_VILLAIN_C_01ID	38			現状の被害はどうなっていますか？		Have they caused any damage, or hurt anyone?		目前造成了什么样的伤害呢？		現在田地的受災情況如何呢？
+Date_VILLAIN_C_01ID	39	Resna	レスナ	現状の被害はどうなっていますか？	Resna	Have they caused any damage, or hurt anyone?	蕾斯娜	目前造成了什么样的伤害呢？	蕾斯娜	現在田地的受災情況如何呢？
+Date_VILLAIN_C_01ID	40	Lara	ララ	今のところ実害はありませんが……\n皆、恐れているのですわ。\n緑色の羽をしていて、不気味だと。それから	Lara	Thankfully, not yet. But my subjects are terrified. Something about those green wings is ever so off-putting...	拉拉	目前还没有实际伤害，但是……\n大家都很害怕。\n他们说那虫子长着绿色的翅膀，很恶心。另外……	拉拉	目前還沒有實質損失……\n不過大家很害怕，都覺得那些\n有綠色翅膀的蟲很嚇人。還有……
+Date_VILLAIN_C_01ID	41	Resna	レスナ	ふむふむ、詳細な説明感謝します	Resna	Hmm... I see. I appreciate your explanation.	蕾斯娜	原来如此，谢谢你详细的说明。	蕾斯娜	嗯嗯，感謝妳的詳細說明。
+Date_VILLAIN_C_01ID	42	Resna	レスナ	ララさん……キングダムの場所からして、\nもしかしたら、あの虫かもしれません	Resna	Considering your kingdom's unique location, I think I've got an idea...	蕾斯娜	拉拉小姐……从王国的位置推测，\n说不定是那种虫子。	蕾斯娜	拉拉小姐……從王國的位置來判斷，\n我想說不定是那種蟲。
+Date_VILLAIN_C_01ID	43			その畑では何を育てていますか？		What crops are you producing?		田里种了什么作物呢？		那些田地裡種著什麼呢？
+Date_VILLAIN_C_01ID	44	Resna	レスナ	その畑では何を育てていますか？	Resna	What crops are you producing?	蕾斯娜	田里种了什么作物呢？	蕾斯娜	那些田地裡種著什麼呢？
+Date_VILLAIN_C_01ID	45	Lara	ララ	野菜ですわ	Lara	Vegetables, generally.	拉拉	种了蔬菜。	拉拉	種蔬菜。
+Date_VILLAIN_C_01ID	46	Lara	ララ	その虫は緑色の羽で\n葉や茎に止まるものですから、\n見つけづらいと言っていましたわ。それから	Lara	They use their green wings to blend in with the stalks and leaves of the vegetation. Much to the farmers' vexation, they're terribly difficult to find.	拉拉	他们说虫子长着绿色翅膀，\n会停留在叶片或茎上，很难发现。\n另外……	拉拉	他們說那些蟲因生著一對綠色翅膀，\n停在葉子和莖部時很難發現牠們。還有……
+Date_VILLAIN_C_01ID	47	Resna	レスナ	詳細な説明、ありがとうございます。\nよもや、あの虫かもしれません	Resna	Thank you very much! From what you described, it does sound like a certain bug I know.	蕾斯娜	谢谢你详细的说明。\n说不定是那种虫子。	蕾斯娜	感謝妳的詳細說明。難不成是那種蟲……
+Date_VILLAIN_C_01ID	48	Lara	ララ	分かったんですの？	Lara	Was that enough for you to identify the insect in question?	拉拉	你知道是什么虫了吗？	拉拉	妳知道是什麼蟲了嗎？
+Date_VILLAIN_C_01ID	49	Resna	レスナ	はい！　畑に居着く希少な虫ですね。\n北部のごく一部に生息しているという	Resna	It was! It's a rare bug that thrives on farmlands. And they only inhabit a small area in the north.	蕾斯娜	嗯！是一种生活在田里的稀有昆虫。\n据说只分布在北部的一小部分地区。	蕾斯娜	是的！那是一種棲息在田地的稀有蟲子。\n據說牠們生存在北部的少數地區。
+Date_VILLAIN_C_01ID	50	Resna	レスナ	今はまだ少数で害もないかもしれませんが、\nたくさん集まると、畑の作物を餌として\n繁殖してしまうかもしれません！	Resna	I assume since there are still relatively few of them, they haven't done much harm yet. But once they start eating the crops, their population will explode!	蕾斯娜	现在数量还少，也还没有危害，\n但是聚集起来之后，\n它们可能会以田里的作物为食，繁衍后代！	蕾斯娜	雖然目前數量還少沒有造成損失，\n但大量聚集後，牠們可能會啃食田地裡的\n農作物並開始繁殖！
+Date_VILLAIN_C_01ID	51	Lara	ララ	それは避けたいですわね……\nレスナ、何か対策はご存じ？	Lara	We simply cannot have that! Do you have any idea how we might stop them?	拉拉	我可不希望演变成那样……\n蕾斯娜，你知道什么处理方法吗？	拉拉	希望能避免那種事發生……\n蕾斯娜，妳知道什麼應對措施嗎？
+Date_VILLAIN_C_01ID	52			畑用防虫網を調合しましょう		Synthesize insect nets		调合田地防虫网吧		可以調合田地專用的防蟲網
+Date_VILLAIN_C_01ID	53	Resna	レスナ	畑用防虫網を調合しましょう！	Resna	Let's synthesize some insect nets!	蕾斯娜	调合田地防虫网吧！	蕾斯娜	可以調合田地專用的防蟲網！
+Date_VILLAIN_C_01ID	54	Lara	ララ	網で畝を覆う……\nということかしら？	Lara	You mean you intend to cover the crops with nets?	拉拉	你的意思是……\n用网罩覆盖田地？	拉拉	也就是說……用網子覆蓋整片田地是嗎？
+Date_VILLAIN_C_01ID	55	Resna	レスナ	はい！　防虫はもちろん、\n多少の温度管理にも役立つと思います！	Resna	Exactly! The nets will keep the bugs out, and as a bonus, they'll also help keep the soil moist!	蕾斯娜	是的！不仅可以防虫，\n应该还能起到一点调节温度的作用！	蕾斯娜	是的！除了防蟲，\n還有一些幫助調節溫度的效果！
+Date_VILLAIN_C_01ID	56	Lara	ララ	ふむ、予算と時間を回しましょうか	Lara	Very good. Then let us draw up a plan at once.	拉拉	好，那我分配一点预算和时间。	拉拉	嗯，來花些預算和時間吧。
+Date_VILLAIN_C_01ID	57	Lara	ララ	王たるわたくし自らも農業を\n手助けしますわ	Lara	As queen, I shall do everything in my power to save my kingdom's crops!	拉拉	本王也来亲自协助农业。	拉拉	身為君主的我也會親自著手幫忙農業的。
+Date_VILLAIN_C_01ID	58			虫よけ効果のある肥料を調合しましょう		Synthesize insect-repelling fertilizer		调合具有驱虫效果的肥料吧		可以調合有驅蟲效果的肥料
+Date_VILLAIN_C_01ID	59	Resna	レスナ	虫よけ効果のある肥料を調合しましょう！	Resna	We should try synthesizing some fertilizer that can also repel insects!	蕾斯娜	调合具有驱虫效果的肥料吧！	蕾斯娜	可以調合有驅蟲效果的肥料！
+Date_VILLAIN_C_01ID	60	Resna	レスナ	作物に悪影響がない虫よけも、\n錬金術ならば生み出せるかもしれません！\n肥料にすることで、一石二鳥です！	Resna	If we use the power of alchemy to make a fertilizer that both helps the crops grow and protects them from those bugs, we'll be killing two birds with one stone!	蕾斯娜	只要使用炼金术，\n说不定可以做出对作物没有负面影响的驱虫药！\n做成肥料的话还能一石二鸟！	蕾斯娜	或許能用鍊金術製作出一種\n不會對作物帶來負面影響的驅蟲劑！\n把它加進肥料裡，一舉兩得！
+Date_VILLAIN_C_01ID	61	Lara	ララ	虫の種類も分かった今なら、\nレシピを生み出せそうですわ	Lara	Now that we know the insect we're dealing with, I'm sure we'll be able to think of a recipe that will do the trick.	拉拉	现在知道虫的品种了，\n应该可以想出配方来。	拉拉	既然現在已經知道蟲的種類，\n應該就能製作出配方了。
+Date_VILLAIN_C_01ID	62	Lara	ララ	王たるわたくしのこの頭脳を以て、\n王自ら、皆の不安を\n取り除いて見せましょう！	Lara	As queen of the Kingdom of Lara, I shall use my knowledge to eliminate the pests plaguing my people!	拉拉	本王就用我的智慧，亲自消除大家的不安吧！	拉拉	就讓我用身為君主的聰明才智，\n親自消除大家的不安吧！
+Date_VILLAIN_C_01ID	63			花を植えましょう		Plant flowers		种花吧		可以來種花
+Date_VILLAIN_C_01ID	64	Resna	レスナ	花を植えましょう！	Resna	Why don't we plant some flowers?	蕾斯娜	种花吧！	蕾斯娜	可以來種花！
+Date_VILLAIN_C_01ID	65	Lara	ララ	花、ですの？	Lara	Flowers, you say?	拉拉	种花？	拉拉	種花嗎？
+Date_VILLAIN_C_01ID	66	Resna	レスナ	はい！　花の中には、生存のために\n虫や鳥が嫌う香りを放つものがいます	Resna	Yeah, flowers! Certain types of flowers give off scents that birds and insects can't stand.	蕾斯娜	是的！有些花为了生存，\n会散发出虫子和鸟类讨厌的香味。	蕾斯娜	是的！有些花為了生存，\n會釋放出蟲子和鳥厭惡的香味。
+Date_VILLAIN_C_01ID	67	Resna	レスナ	それらの種を調合して、\n畑の近くに植えるのはいかがでしょう？	Resna	If we synthesize some of those flower seeds and plant them near the fields, that might drive the bugs away!	蕾斯娜	调合这些品种的花，\n种在田地附近怎么样？	蕾斯娜	調合出那些花的種子，\n然後種在田地附近，妳覺得如何呢？
+Date_VILLAIN_C_01ID	68	Lara	ララ	問題解決も優雅であれ。\nレスナも、王がなんたるか\n分かってきたようですわね	Lara	You are quite the problem-solver, my dear. Now you're starting to think like a queen!	拉拉	解决问题也要优雅。\n蕾斯娜，看来你也开始理解何谓王者了呢。	拉拉	解決問題也要很優雅。\n看來蕾斯娜妳也逐漸明白君主是何種存在了呢。
+Date_VILLAIN_C_01ID	69	Resna	レスナ	調合するのなら、お手伝いします！	Resna	If you want help synthesizing, just say the word!	蕾斯娜	如果你要调合，我也来帮忙！	蕾斯娜	要調合的話，我也一起幫忙吧！
+Date_VILLAIN_C_01ID	70	Lara	ララ	では、またあとで合流しましょう。\nわたくしは一度ララ・キングダムへ戻ります	Lara	Very well. Then the two of us shall reconvene later. For now, I will return to my kingdom.	拉拉	那我们稍后再会合吧。\n我先回拉拉王国一趟。	拉拉	那麼，我們晚點再會合吧。\n我先回去拉拉王國一趟。
+Date_VILLAIN_C_01ID	71	Lara	ララ	関係者に一刻も早く\nこのことを伝えようと思いますから	Lara	I must deliver the news to my subjects at once.	拉拉	我想尽早把这件事转达给相关人员。	拉拉	我想盡快把這件事轉告給相關的人知道。
+Date_VILLAIN_C_01ID	72	Resna	レスナ	はい！　お待ちしてます！	Resna	Okay! I'll be ready when you come back!	蕾斯娜	好的！等你！	蕾斯娜	好！我等妳回來！
+Date_VILLAIN_C_01ID	73	Resna	レスナ	（ララさんは、王国の人々の悩みを\n　解決しようと頑張ってる）	Resna	(Lara is doing her best for the sake of her kingdom. She wants to put her people at ease.)	蕾斯娜	（拉拉小姐为了解决王国国民的烦恼而努力着。）	蕾斯娜	（拉拉小姐很努力地在幫王國的人民解決煩惱。）
+Date_VILLAIN_C_01ID	74	Resna	レスナ	（王国の人の悩みは、ララさんが解決する。\n　……じゃあ、ララさんの悩みは誰が？）	Resna	(But if Lara always has her hands full helping her subjects with all of their problems, who is going to help her with her own?)	蕾斯娜	（王国国民的烦恼，由拉拉小姐解决。\n　那么……拉拉小姐的烦恼呢？）	蕾斯娜	（王國人民的煩惱由拉拉小姐來解決。\n　那……她的煩惱又有誰能幫忙呢？）
+Date_VILLAIN_C_01ID	75	Resna	レスナ	（というか、\n　ララさんって悩むことあるのかな……？）	Resna	(I mean, even queens have problems! I think...)	蕾斯娜	（话说，\n　拉拉小姐会有烦恼吗……？）	蕾斯娜	（話說回來，拉拉小姐也會有煩惱吧……？）
+Date_VILLAIN_C_01ID	76	Lara	ララ	王国西部で農業をしていた経歴を持つ\n農耕担当者も、知らない虫でした	Lara	Not even the most experienced farmhands in the west of the kingdom knew of those pests.	拉拉	这种虫，连曾经在王国西部务农的\n农耕负责人都不认识。	拉拉	就連那些曾在王國西部從事農業生產的人，\n也沒見過那種蟲。
+Date_VILLAIN_C_01ID	77	Resna	レスナ	(農耕担当者の人も、錬金術士のララさんも\n分からない虫、強敵だけど、頑張るぞ！)	Resna	(If even the great alchemist Lara and her kingdom's best farmers were stumped by those bugs, I've got to give it my all!)	蕾斯娜	（农耕负责人和炼金术士拉拉小姐都不认识的虫，\n　这可不好办，但我会加油的！）	蕾斯娜	（連農耕者和鍊金術士拉拉小姐都沒見過的蟲，\n　根本是個強敵，我會加油的！）
+Date_VILLAIN_C_02ID	0	Resna	レスナ	（イザナちゃんとの待ち合わせまで、\n　まだ時間がある。何しようかな）	Resna	(There's still a bit of time before I meet up with Izana. What should I do for now?)	蕾斯娜	（距离跟伊札娜约好的时间还有一会儿，\n　干点什么好呢？）	蕾斯娜	（和伊札娜碰面之前還有一點時間，\n　要做什麼好呢？）
+Date_VILLAIN_C_02ID	1	Resna	レスナ	（あ、ララさんだ）	Resna	(Oh, look! It's Lara!)	蕾斯娜	（啊，是拉拉小姐。）	蕾斯娜	（啊，是拉拉小姐！）
+Date_VILLAIN_C_02ID	2	Resna	レスナ	ララさん、こんにちは！	Resna	Hi, Lara!	蕾斯娜	拉拉小姐，你好！	蕾斯娜	拉拉小姐，午安！
+Date_VILLAIN_C_02ID	3	Lara	ララ	あらレスナ、1週間ぶりですわね。\nどうしましたの？	Lara	Oh, Resna. I haven't seen you since last week. Is something amiss?	拉拉	啊，蕾斯娜，一周没见了。\n有什么事吗？	拉拉	哎呀，蕾斯娜，一週沒見了呢。\n怎麼了嗎？
+Date_VILLAIN_C_02ID	4	Resna	レスナ	ララさんの姿が見えたので。\n今日はどうしたんですか？	Resna	No, I just wanted to say hello. What are you up to today?	蕾斯娜	我就是碰巧看到你了。\n今天是有什么事呢？	蕾斯娜	看到拉拉小姐所以來打聲招呼。\n妳今天有什麼事嗎？
+Date_VILLAIN_C_02ID	5	Lara	ララ	今日は、新たな知識をつけるために\n本を買いに来ましたの	Lara	I've returned once again in search of knowledge, so I'm here to buy a new book.	拉拉	今天我是为了汲取新的知识，来买书的。	拉拉	我今天是來買書的，想學習一些新知識。
+Date_VILLAIN_C_02ID	6	Lara	ララ	この間の虫の件で、わたくしはまだまだ\n知識不足なのだと痛感いたしました	Lara	That plague of pests made me painfully aware of that which I lack: knowledge.	拉拉	上次虫子的那件事，\n让我深刻体会到自己的知识还远远不够。	拉拉	前幾天的害蟲事件，\n讓我深切感受到自己的知識仍遠遠不足。
+Date_VILLAIN_C_02ID	7	Lara	ララ	王である以上、錬金術や政治以外の\n知識も身につけねばと思いまして	Lara	To rule well, I'll need to know much more than just alchemy and politics.	拉拉	既然我是国王，\n就必须掌握炼金术和政治以外的知识。	拉拉	既然身為君主，我也得多學習鍊金術\n與政治之外的知識才行。
+Date_VILLAIN_C_02ID	8	Lara	ララ	こう思えたのも、\nあなたのおかげですのよ、レスナ	Lara	And you, Resna, are the one who taught me that.	拉拉	我之所以能这么想，\n也是因为你哦，蕾斯娜。	拉拉	我能想通這件事，也都是多虧了妳喔，蕾斯娜。
+Date_VILLAIN_C_02ID	9			光栄です		I'm honored.		我很荣幸		這是我的榮幸
+Date_VILLAIN_C_02ID	10	Resna	レスナ	光栄です！	Resna	Oh, thank you! I'm honored!	蕾斯娜	我很荣幸！	蕾斯娜	這是我的榮幸！
+Date_VILLAIN_C_02ID	11	Resna	レスナ	ララさんに\nそう言っていただけるなんて……！	Resna	I'm just so glad that I could help you.	蕾斯娜	居然能听到拉拉小姐这么说……！	蕾斯娜	沒想到我竟然能被拉拉小姐稱讚……！
+Date_VILLAIN_C_02ID	12	Lara	ララ	ええ。あなたの実力は認めていますわ	Lara	You've proven yourself to be quite the alchemist, my dear.	拉拉	嗯，我承认你的实力。	拉拉	嗯，我承認妳的實力。
+Date_VILLAIN_C_02ID	13	Lara	ララ	いったいどれほど読書を重ねたのかしら……\nあなたの努力には感服いたしますわ	Lara	I can't imagine how many hours you must have spent to accumulate the vast knowledge you possess. I admire your devotion.	拉拉	究竟是读了多少书……\n你的努力让我心服口服。	拉拉	真不知道妳到底讀過多少書……\n我對妳的努力深感佩服。
+Date_VILLAIN_C_02ID	14			私のおかげだなんて、そんな……		I can't take the credit.		怎么能说因为我呢，太抬举了……		竟然說是多虧了我，真不敢當……
+Date_VILLAIN_C_02ID	15	Resna	レスナ	私のおかげだなんて、そんな……	Resna	Oh, no. I can't take the credit. It was nothing...	蕾斯娜	怎么能说因为我呢，太抬举了……	蕾斯娜	竟然說是多虧了我，真不敢當……
+Date_VILLAIN_C_02ID	16	Lara	ララ	このわたくしが褒めているのですから、\n謙遜せず受け取りなさい	Lara	You would do well to accept a compliment when it is paid to you by royalty.	拉拉	我都夸你了，你不必谦虚，接受便好。	拉拉	我都這麼稱讚妳了，\n妳就不必謙虛，大方接受吧。
+Date_VILLAIN_C_02ID	17	Lara	ララ	自身の価値を軽んじてしまうことは、\nあなたの惜しい点ですわね	Lara	You underestimate yourself. I fear that your greatest fault lies in your lack of confidence.	拉拉	轻视自己的价值，是你的缺点。	拉拉	妳這個人最可惜的一點，就是會低估自己的價值。
+Date_VILLAIN_C_02ID	18			私も、引き続き精進します		I'll keep studying hard.		我也会继续学习的		我也會繼續精進的
+Date_VILLAIN_C_02ID	19	Resna	レスナ	私も、引き続き精進します！	Resna	I promise to keep on studying hard, too!	蕾斯娜	我也会继续学习的！	蕾斯娜	我也會繼續精進的！
+Date_VILLAIN_C_02ID	20	Resna	レスナ	偉大なる錬金術士への道は、\n錬金術の知識のみならず！　ですよね！	Resna	If I want to become a great alchemist, I can never stop learning! And that means I need to know much more than just alchemy. Just like you!	蕾斯娜	通往伟大炼金术士的道路，\n不止需要炼金术的知识！对吧！	蕾斯娜	要成為偉大的鍊金術士，\n腦中不能僅有鍊金術的知識！對吧！
+Date_VILLAIN_C_02ID	21	Lara	ララ	成長意欲があって素晴らしいですわね。\nわたくしも負けられませんわ	Lara	Indeed. But considering your incredible thirst for knowledge, I'll have to do my best to keep up with you.	拉拉	你的上进心可圈可点。\n我也不能输。	拉拉	妳有提升自我的熱情真是太棒了。\n我也不能輸給妳呢。
+Date_VILLAIN_C_02ID	22	Lara	ララ	レスナ。よろしければ\nお薦めの本を紹介してくださらない？	Lara	Resna, would you be so kind as to give me a book recommendation?	拉拉	蕾斯娜，如果你愿意的话，\n可不可以给我推荐一些书？	拉拉	蕾斯娜。可以的話，\n能為我介紹一本妳推薦的書嗎？
+Date_VILLAIN_C_02ID	23	Lara	ララ	できれば、わたくしが\n読んだことなさそうなものがいいですわ	Lara	Mind you, I'm looking for something I haven't read before.	拉拉	可以的话，希望推荐我多半没读过的书。	拉拉	希望盡量是我沒有讀過的書。
+Date_VILLAIN_C_02ID	24	Resna	レスナ	（ララさんが読んだことなさそうな\n　お薦めの本は……）	Resna	(Hmm, a new book for Lara to read... What should I suggest?)	蕾斯娜	（能推荐给拉拉小姐的，她应该没读过的书……）	蕾斯娜	（拉拉小姐沒有讀過，\n　並且想推薦給她的書是……）
+Date_VILLAIN_C_02ID	25			『クイズＤＥランターナ！極』		Trivia de Lantarna: Ultimate Edition		《兰塔纳小知识！极》		《蘭塔納問與答！終極版》
+Date_VILLAIN_C_02ID	26	Resna	レスナ	では、『クイズＤＥランターナ！極』は\nいかがでしょう？	Resna	"How about ""Trivia de Lantarna: Ultimate Edition""?"	蕾斯娜	那么，《兰塔纳小知识！极》怎么样？	蕾斯娜	那麼，《蘭塔納問與答！終極版》\n這本如何呢？
+Date_VILLAIN_C_02ID	27	Resna	レスナ	様々な学問領域の問題が載っているので、\n知らないことを知るきっかけになるかと！	Resna	It's full of knowledge from a wide variety of subjects, so everyone who picks up this book is sure to learn something new!	蕾斯娜	上面记载着各个学术领域的问题，\n应该能成为学习新知识的契机！	蕾斯娜	裡面記載了各類學術領域的問題，\n或許有機會學習到妳所不知道的知識！
+Date_VILLAIN_C_02ID	28	Lara	ララ	なるほど。\nこうした本から攻めるのもありですわね	Lara	Trivia, hm? I hadn't thought of it as a learning experience, but I suppose you're right.	拉拉	原来如此。\n从这种书入手也是个不错的选择呢。	拉拉	原來如此，先從這樣的書來學習也不錯。
+Date_VILLAIN_C_02ID	29	Resna	レスナ	手に取りやすい題名とは裏腹に\n高難易度で有名ですので、ぴったりです	Resna	It's especially handy because there's a glossary to look up each subject. Plus, the material is ranked in order of difficulty.	蕾斯娜	这本书有名就有名在，书名看起来浅显易懂，\n但是内容其实相当深奥，我觉得很合适。	蕾斯娜	它的書名簡單但內容卻不然，\n是以高難度著稱，很適合妳。
+Date_VILLAIN_C_02ID	30			『ランターナ恐怖物語１００』		The Hundred Horrors of Lantarna		《100个兰塔纳恐怖故事》		《蘭塔納恐怖故事100則》
+Date_VILLAIN_C_02ID	31	Resna	レスナ	では、『ランターナ恐怖物語１００』は\nいかがでしょう？	Resna	"How about ""The Hundred Horrors of Lantarna""?"	蕾斯娜	那么，《100个兰塔纳恐怖故事》怎么样？	蕾斯娜	那麼，《蘭塔納恐怖故事100則》\n這本如何呢？
+Date_VILLAIN_C_02ID	32	Resna	レスナ	ランターナのこわ～い話を集めた本です！\nとても怖いですが、お化け対策になります！	Resna	This book is packed with scary stories from all over Lantarna! It's really spooky, but it might even help you think of ways to ward off ghosts in the future!	蕾斯娜	这本书汇编了兰塔纳的恐怖故事！\n特别吓人，但是可以当作妖怪应对指南！	蕾斯娜	這本書匯集了蘭塔納很～恐怖的故事！\n雖然內容非常可怕，但能學到對付妖怪的方法！
+Date_VILLAIN_C_02ID	33	Lara	ララ	お化け対策ですか……\nふふ、レスナはかわいいですわね	Lara	Ghosts? Are you truly worried about such things? *Chuckle* How cute.	拉拉	应对妖怪吗……\n呵呵呵，蕾斯娜你真可爱。	拉拉	對付妖怪的方法呀……\n呵呵，蕾斯娜真是可愛。
+Date_VILLAIN_C_02ID	34	Lara	ララ	わたくしには必要ない対策ですが、\nお化けに怯える国民のためにも\n読むのもまた一興……	Lara	I don't foresee the need to fend off ghosts in my daily duties, but my subjects might. One can never be too cautious...	拉拉	虽然我不需要应对妖怪，\n但是为了害怕妖怪的国民，\n读一读或许也不错……	拉拉	雖然我不需要知道這些方法，\n不過為了害怕妖怪的國民而讀也是一種樂趣……
+Date_VILLAIN_C_02ID	35			『ダジャレ大事典』		Pun-dle of Laughs Joke Encyclopedia		《冷笑话大全》		《冷笑話大全》
+Date_VILLAIN_C_02ID	36	Resna	レスナ	では、『ダジャレ大事典』は\nいかがでしょう？！	Resna	"Ooh! Then how about the ""Pun-dle of Laughs Joke Encyclopedia""?"	蕾斯娜	那么，《冷笑话大全》怎么样？！	蕾斯娜	那麼，《冷笑話大全》\n這本如何呢？
+Date_VILLAIN_C_02ID	37	Resna	レスナ	ララさん、読んだことなさそうなので……\nお笑いのお勉強になるかと！	Resna	It might be a new experience for you. Plus, there's plenty you can learn through laughter!	蕾斯娜	感觉拉拉小姐应该没读过……\n可以用来学习怎么搞笑！	蕾斯娜	拉拉小姐應該沒有讀過……\n也許妳能從書裡學到幾個笑話！
+Date_VILLAIN_C_02ID	38	Lara	ララ	もしかして、\nわたくしには茶目っ気が足りないと\nおっしゃりたいのかしら？	Lara	Are you implying that I need to improve my sense of humor?	拉拉	你是不是想说，我太过严肃了，不够随和？	拉拉	妳該不會是想對我說，\n我的幽默感不夠吧？
+Date_VILLAIN_C_02ID	39	Lara	ララ	ああ、わたくし悲しいですわ……\nこの悲しみは、レスナに高級お茶菓子を\n贈られなければ晴れませんわ……	Lara	How cruel! I'm simply heartbroken! Alas, the only thing that could mend these wounds is a gift of the world's finest sweets...	拉拉	唉，我好难过……\n这份悲伤，只有蕾斯娜送我高级茶点才能消散……	拉拉	哎呀，我好傷心啊……\n如果蕾斯娜不送我高級茶點，\n我可無法從這種悲傷中釋懷呢……
+Date_VILLAIN_C_02ID	40	Resna	レスナ	え！　ララさん、ご、ごめんなさい！\nあわわ、ど、どうしよう……！	Resna	Oh, no! What should I do?! Lara, I'm so, so sorry! Please don't be sad!	蕾斯娜	啊！拉拉小姐，对、对不起！\n啊啊，怎、怎么办……！	蕾斯娜	咦！拉拉小姐、對、對不起！\n哇啊啊、該、該怎麼辦……！
+Date_VILLAIN_C_02ID	41	Lara	ララ	ふふ、王の冗談ですわ	Lara	Hehe. And that, my dear, is how a queen tells a joke.	拉拉	呵呵呵，只是王的玩笑而已。	拉拉	呵呵，這是君主的玩笑話。
+Date_VILLAIN_C_02ID	42	Resna	レスナ	（び、びっくりした……！\n　ララさんも冗談を言うんだ……）	Resna	(Oh, what a relief! She really had me going. I guess even Lara has a playful side...)	蕾斯娜	（吓、吓死我了……！\n　原来拉拉小姐也会开玩笑……）	蕾斯娜	（嚇、嚇我一跳……！\n　原來拉拉小姐也會開玩笑……）
+Date_VILLAIN_C_02ID	43	Lara	ララ	実は今日、このあとあなたに\n会いに行こうと思っていましたの	Lara	To tell you the truth, I was planning to visit you after I finished up with my business here.	拉拉	其实，今天我本来就想着之后去找你的。	拉拉	其實我今天本來打算等一下去見妳的。
+Date_VILLAIN_C_02ID	44	Resna	レスナ	そうなんですか？\nいったいなんのご用でしょう	Resna	Oh, really? Did you need me for something?	蕾斯娜	是吗？\n找我有什么事呢？	蕾斯娜	真的嗎？妳找我有什麼事呢？
+Date_VILLAIN_C_02ID	45	Lara	ララ	先日の礼として、あなたを\nわたくしのティータイムに招待しようと\n思いまして	Lara	I'd like to request your company for tea tomorrow. As a small gesture of gratitude for your help before.	拉拉	为了感谢你上次帮忙，\n我想邀请你一起喝茶。	拉拉	我想為上次的事情致謝，招待妳來喝我的下午茶。
+Date_VILLAIN_C_02ID	46	Lara	ララ	明日は天気もいいですし、\nいかがかしら？	Lara	It's going to be a bright, sunny day. How about it?	拉拉	明天天气不错，要不要来？	拉拉	明天的天氣也不錯，\n妳覺得如何？
+Date_VILLAIN_C_02ID	47	Resna	レスナ	はい！　ぜひ！	Resna	That sounds great! I'd love to!	蕾斯娜	嗯，我要去！	蕾斯娜	好的！我很樂意！
+Date_VILLAIN_C_02ID	48			とても楽しみです		I'm so excited!		我很期待		我非常期待
+Date_VILLAIN_C_02ID	49	Resna	レスナ	恐悦至極！　とっても楽しみです！	Resna	This feels like a dream! I'm so excited!	蕾斯娜	感激涕零！我很期待！	蕾斯娜	真是榮幸之至！我非常期待！
+Date_VILLAIN_C_02ID	50	Lara	ララ	いいお返事ですわ	Lara	I'm glad to hear it.	拉拉	这回答真不错。	拉拉	很棒的回答。
+Date_VILLAIN_C_02ID	51	Lara	ララ	わたくし直々におもてなしいたしますから\n覚悟なさって？	Lara	Prepare yourself for a real treat, my dear. I'll have nothing but the best for you.	拉拉	我会亲自招待你的，做好准备哦？	拉拉	這次會由我來親自招待妳，\n妳可要做好心理準備喔。
+Date_VILLAIN_C_02ID	52			お茶の作法、学んでおきます		I'll brush up on my teatime etiquette!		我会提前学习喝茶的礼仪		我會先預習一下喝茶的禮儀
+Date_VILLAIN_C_02ID	53	Resna	レスナ	お茶の作法、学んでおきます！	Resna	I'll be sure to brush up on my teatime etiquette!	蕾斯娜	我会提前学习喝茶的礼仪！	蕾斯娜	我會先預習一下喝茶的禮儀！
+Date_VILLAIN_C_02ID	54	Lara	ララ	いい心がけですわ	Lara	That's the spirit.	拉拉	态度不错。	拉拉	有心向學真不錯。
+Date_VILLAIN_C_02ID	55	Lara	ララ	作法というのは、\nその人の品格を表しますからね。\nこれを学び、自身の力としなさいな	Lara	A guest's manners are a reflection of their refinement. Study those, and let them become the foundation for your self-confidence.	拉拉	礼仪可以体现出一个人的品格，\n认真学习，提高自身吧。	拉拉	禮儀代表著一個人的品性。\n把它學起來，成為自己的力量吧。
+Date_VILLAIN_C_02ID	56			緊張します		But I'm nervous...		有点紧张		好緊張
+Date_VILLAIN_C_02ID	57	Resna	レスナ	でも、緊張します……！　光栄がゆえに	Resna	I'm honored! But to be honest, I'm a little nervous...	蕾斯娜	但是，我有点紧张……！实在是太荣幸了……	蕾斯娜	深感光榮……但是，也好緊張！
+Date_VILLAIN_C_02ID	58	Lara	ララ	わたくしと二人きりなのですから、\n緊張しなくても大丈夫ですわよ	Lara	There's no need to be on edge, my dear. It will only be the two of us.	拉拉	只有你和我两个人，不必紧张。	拉拉	只有我們兩人獨處而已，妳不必太緊張喔。
+Date_VILLAIN_C_02ID	59	Lara	ララ	気軽に楽しみにいらっしゃいな	Lara	So put your mind at ease. I only want you to enjoy yourself.	拉拉	放松心情来参加就好。	拉拉	放輕鬆過來享受下午茶吧。
+Date_VILLAIN_C_02ID	60	Lara	ララ	では、明日を楽しみにしていますわ	Lara	Until tomorrow, then. I'll be looking forward to it.	拉拉	那就再见了，我很期待明天哦。	拉拉	那麼，期待明天與妳相見。
+Date_VILLAIN_C_02ID	61	Resna	レスナ	はい！　ララさん、また明日！	Resna	Me too! See you tomorrow!	蕾斯娜	好的！拉拉小姐，明天见！	蕾斯娜	是！拉拉小姐，我們明天見！
+Date_VILLAIN_C_02ID	62	Resna	レスナ	（明日は、\n　ララさんともっと仲良くなれそう！）	Resna	(Tomorrow's the perfect chance to get to know Lara better.)	蕾斯娜	（感觉明天可以和拉拉小姐变得更亲近！）	蕾斯娜	（感覺明天跟拉拉小姐的關係\n　可以變得更親近！）
+Date_VILLAIN_C_02ID	63	Resna	レスナ	（ララさんのことをもっと知れるかも！）	Resna	(It might just bring us closer together!)	蕾斯娜	（说不定可以进一步了解拉拉小姐！）	蕾斯娜	（說不定還能知道更多拉拉小姐的事！）
+Date_VILLAIN_C_02ID	64	Lara	ララ	良いですわね、見事な勧め方ですわ	Lara	What an excellent recommendation. I'm glad I asked.	拉拉	不错，你推荐得很好。	拉拉	真不錯呢，很棒的推薦方式。
+Date_VILLAIN_C_03ID	0	Resna	レスナ	本日は、お招きにあずかり誠に光栄ですっ！	Resna	Thank you for this opportunity, Your Majesty! I am most honored by your gracious invitation!	蕾斯娜	今日承蒙款待，不胜荣幸！	蕾斯娜	今天能榮獲邀請，讓我深感光榮！
+Date_VILLAIN_C_03ID	1	Lara	ララ	ふふ、緊張しすぎですわよ	Lara	*Chuckle* Don't be so stiff, my dear.	拉拉	呵呵，你也太紧张了。	拉拉	呵呵，妳太緊張了。
+Date_VILLAIN_C_03ID	2	Resna	レスナ	えへへ、昨日は楽しみと緊張で\nなかなか寝られませんでした……	Resna	Ehehe... Sorry. I was so excited for today that I couldn't sleep a wink last night.	蕾斯娜	嘿嘿，昨天因为期待和紧张，\n都没怎么睡着……	蕾斯娜	嘿嘿，昨天太期待又很緊張，\n結果怎麼也睡不著……
+Date_VILLAIN_C_03ID	3	Lara	ララ	あら、体調は大丈夫ですの？	Lara	Oh my! I hope you're feeling all right.	拉拉	哎呀，那你的身体没事吗？	拉拉	哎呀，妳的身體狀況還好嗎？
+Date_VILLAIN_C_03ID	4	Lara	ララ	わたくし、本日のために\nとびっきりの茶葉を調合したのですが……	Lara	I've synthesized the finest tea leaves for the occasion.	拉拉	我为了今天调合了特别好的茶叶……	拉拉	我本來為了今天特意調合了上等的茶葉……
+Date_VILLAIN_C_03ID	5	Lara	ララ	寝不足なら、また体調が万全な日に\n日程を変更してもよろしくてよ	Lara	But they're meant to be enjoyed when you're feeling your best. If you're unwell, perhaps it would be best for us to reschedule.	拉拉	不过，如果你睡眠不足，\n也可以改天身体状态好了再说。	拉拉	但如果妳睡眠不足也可以改期，\n等妳身體狀況恢復再過來。
+Date_VILLAIN_C_03ID	6	Resna	レスナ	いえ！　体調は万全です！　普段から読書のために\n夜更かしすることも多いですから、問題ありません！	Resna	No, no! I'm more than all right, really! I'm used to staying up late reading books, anyway.	蕾斯娜	没事！我的身体状态很好！\n我平时就经常为了读书熬夜，所以没问题！	蕾斯娜	不！我身體狀況很好！\n平時就經常熬夜讀書，所以沒問題的！
+Date_VILLAIN_C_03ID	7	Lara	ララ	そうですか。\nですが夜更かしはいけませんわね	Lara	Is that so? Well, that simply won't do. You need your rest.	拉拉	是吗。\n但是熬夜可不好哦。	拉拉	這樣啊，但熬夜可是不行的喔。
+Date_VILLAIN_C_03ID	8	Lara	ララ	今日は夜更かしせず寝ると、約束してくださる？\nわたくしはあなたの体調が心配ですわ	Lara	I'm concerned that all of those late nights will take a toll on your health. Please promise me that you'll get enough sleep tonight.	拉拉	今天可不要熬夜了，你能答应我吗？\n我很担心你的身体。	拉拉	妳能答應我今天會準時上床睡覺嗎？\n我很擔心妳的身體。
+Date_VILLAIN_C_03ID	9	Resna	レスナ	ララさん……\nはい、約束します！	Resna	Aw, Lara... I will, I swear!	蕾斯娜	拉拉小姐……\n好的，我答应！	蕾斯娜	拉拉小姐……好的，我答應妳！
+Date_VILLAIN_C_03ID	10	Lara	ララ	改めて、先日はララ・キングダムの問題解決に\n協力してくれて感謝いたしますわ	Lara	Once again, allow me to thank you for your assistance in keeping the Kingdom of Lara safe.	拉拉	那么，再次感谢你\n前些日子协助解决拉拉王国的问题。	拉拉	再次感謝妳前幾天協助我們解決拉拉王國的問題。
+Date_VILLAIN_C_03ID	11	Lara	ララ	早くも効果が現れて、\n皆も喜び、感謝しておりましたわ	Lara	Your methods proved to be extremely effective. My subjects are delighted, as am I. You have our gratitude.	拉拉	你的方法已经初见成效，\n大家都很高兴，很感激你。	拉拉	妳的方法很快就奏效了，\n大家都欣喜若狂，十分感激妳。
+Date_VILLAIN_C_03ID	12	Resna	レスナ	よかったです！\nお力になれたようで、何よりです！	Resna	I was glad to help. I'm just happy that I could be of service!	蕾斯娜	太好了！\n能帮上忙真是太好了！	蕾斯娜	太好了！\n我能幫上忙真的再好不過了！
+Date_VILLAIN_C_03ID	13	Resna	レスナ	（おいしそう……！\n　これって手づかみで食べていいのかな？）	Resna	(Wow, this looks tasty! But I wonder... Am I supposed to eat it with my hands?)	蕾斯娜	（感觉好好吃……！\n　这个可以用手拿着吃吗？）	蕾斯娜	（看起來好美味……！\n　這個可以直接用手抓著吃嗎？）
+Date_VILLAIN_C_03ID	14	Resna	レスナ	（お茶の作法は予習してきたけれど、\n　食べ方の作法は忘れちゃった……！）	Resna	(Oh no. I read up on teatime etiquette to prepare for today, but I can't remember the proper way to eat this!)	蕾斯娜	（我虽然预习了喝茶的礼仪，\n　但是忘记学吃东西的礼仪了……！）	蕾斯娜	（雖然預習過怎麼喝茶，\n　但卻忘記預習吃東西的禮儀了……！）
+Date_VILLAIN_C_03ID	15	Lara	ララ	レスナ、これは手で食べていいんですのよ	Lara	Resna, you may use your hands to eat these.	拉拉	蕾斯娜，这个可以用手拿着吃哦。	拉拉	蕾斯娜，這個妳可以直接用手拿來吃喔。
+Date_VILLAIN_C_03ID	16	Resna	レスナ	ララさん！\n私、声に出してしまっていましたか？！	Resna	Wait, did you just read my mind?!	蕾斯娜	拉拉小姐！\n我刚刚说出声了吗？！	蕾斯娜	拉拉小姐！我不小心把內心話說出來了嗎？
+Date_VILLAIN_C_03ID	17	Lara	ララ	ふふ、いいえ。でも分かりましたわ	Lara	Hehe, no. But it was quite obvious what you were thinking.	拉拉	呵呵，没有。但我猜到了。	拉拉	呵呵，沒有。不過我能看得出來。
+Date_VILLAIN_C_03ID	18	Lara	ララ	こういった場では、みっともなくがっついたり、\n相手を不快にさせたりしなければ問題ありません	Lara	At times like this, you'll be fine as long as you don't behave like a glutton or offend your guests.	拉拉	这种场合，只要不粗俗地一把抓起来，\n或者让对方不愉快就没问题。	拉拉	在這種場合，只要別吃得太狼吞虎嚥，\n讓他人感到不快就沒有關係。
+Date_VILLAIN_C_03ID	19	Lara	ララ	こうした作法は地域によって様々で、\n唯一の答えはないですから。お好きに食べなさいな	Lara	"Since the rules of etiquette differ by culture, there is no single ""correct"" way to take tea. Just relax and enjoy."	拉拉	各个地域都有不同的礼仪，\n没有一个统一的答案。你就随意吧。	拉拉	這類禮儀因地區而有所不同，沒有絕對的正確答案。\n所以就用妳喜歡的方式來吃吧。
+Date_VILLAIN_C_03ID	20	Resna	レスナ	大変勉強になります！　さすが、ララさんです！\nでは、お言葉に甘えて！	Resna	Thank you for all of your help! I just knew a queen like you would have excellent table manners. I'll go ahead and try a bite...	蕾斯娜	受教了！不愧是拉拉小姐！\n那我就恭敬不如从命了！	蕾斯娜	學到了一課！不愧是拉拉小姐！\n那麼我就恭敬不如從命了！
+Date_VILLAIN_C_03ID	21	Resna	レスナ	とっても美味しかったです！	Resna	Mm, that was delicious!	蕾斯娜	太好吃了！	蕾斯娜	真的非常美味！
+Date_VILLAIN_C_03ID	22	Resna	レスナ	……ララさんが私のお姉ちゃんだったら、	Resna	If only I had a big sister like you...	蕾斯娜	如果拉拉小姐是我的姐姐……	蕾斯娜	……如果拉拉小姐是我的姊姊，
+Date_VILLAIN_C_03ID	23	Resna	レスナ	一緒にこうしてお茶したり、本を読んだり、\n錬金術の話をしたり……きっととても楽しいです！	Resna	The two of us could spend every day having tea, reading books, and practicing alchemy together. We would have so much fun!	蕾斯娜	我们可以一起喝茶、看书、\n聊炼金术……一定会很快乐！	蕾斯娜	我們就能像這樣一起喝茶、讀書、\n聊著鍊金術的話題……一定會非常有趣！
+Date_VILLAIN_C_03ID	24	Lara	ララ	……そうですわね	Lara	It... It certainly does sound fun.	拉拉	……是啊。	拉拉	……是啊。
+Date_VILLAIN_C_03ID	25	Lara	ララ	あなたが妹ならば、気品が備わるよう、\n毎日たっぷりしごいてさしあげますわ！	Lara	But if you were my little sister, I'd have to be much stricter with you. To whip you into the picture of elegance, that is.	拉拉	如果你是我妹妹，为了培养你的优雅气质，\n我会每天狠狠教育你的！	拉拉	如果妳是我的妹妹，我會每天嚴加磨練，\n讓妳變得更有氣質！
+Date_VILLAIN_C_03ID	26	Resna	レスナ	そ、それは……！\nお手柔らかにお願いします……！	Resna	Whip?! Well, er... Please don't be too hard on me!	蕾斯娜	这、这……！\n　拜托你手下留情……！	蕾斯娜	這、這個……！\n還請妳手下留情……！
+Date_VILLAIN_C_03ID	27	Resna	レスナ	今日は本当にありがとうございました！\n素晴らしい時間でした！	Resna	I can't thank you enough for today! I had such a wonderful time.	蕾斯娜	今天谢谢你的款待！\n我度过了很充实的一段时光！	蕾斯娜	今天真的非常感謝妳！\n度過了很美好的下午茶時光！
+Date_VILLAIN_C_03ID	28	Lara	ララ	わたくしも楽しかったですわ。\nでは、わたくしはここで	Lara	As did I. Well, then, please pardon me. I must be going now.	拉拉	我也很开心。\n那么，我就告辞了。	拉拉	我也很開心。\n那麼，我就先告辭了。
+Date_VILLAIN_C_03ID	29	Resna	レスナ	（とっても楽しかった！　……でも、ララさん）	Resna	(Wow, that was amazing! But one thing still has me a little worried.)	蕾斯娜	（好开心啊！但是，拉拉小姐……）	蕾斯娜	（真的好開心啊！不過，拉拉小姐……）
+Date_VILLAIN_C_03ID	30	Resna	レスナ	（ララさんが私のお姉ちゃんだったら、って私が\n　言ったとき、どこか暗い顔をしていた気がする……）	Resna	(Lara had such a sad look on her face when I mentioned how fun it would be to be her sister.)	蕾斯娜	（我说“如果拉拉小姐是我的姐姐”的时候，\n　感觉她的表情有点阴郁……）	蕾斯娜	（當她聽到我說如果她是我姊姊的那句話時，\n　總覺得她的臉色好像沉了幾分……）
+Date_VILLAIN_C_03ID	31	Resna	レスナ	（ララさんは強い人だけれど、もしかしたらまだ\n　家族のことで悩んでいるのかもしれない）	Resna	(She's a strong person, but maybe, deep down, she's still worried about her family.)	蕾斯娜	（拉拉小姐是个坚强的人，但是，\n　说不定还在为家人的事情烦恼。）	蕾斯娜	（雖然拉拉小姐是很堅強的人，\n　但說不定還在為家人的事情煩惱。）
+Date_VILLAIN_C_03ID	32	Resna	レスナ	（ララさんのために、私にできることって、\n　何かないかな……？）	Resna	(I wonder if there's anything I can do for her...)	蕾斯娜	（我能不能为拉拉小姐做点什么呢……？）	蕾斯娜	（有什麼事情是我能夠為拉拉小姐做的嗎……？）
+Date_VILLAIN_C_04ID	0	Resna	レスナ	（今日は何しよう？　天気がいいし、\n　採取に行こうかな……）	Resna	(Hm, what should I do today? Since the weather is so nice, maybe I'll go and gather some materials.)	蕾斯娜	（今天干什么好呢？\n　天气不错，不然去采集好了……）	蕾斯娜	（今天要做什麼好呢？\n　天氣不錯，出門去採集好了……）
+Date_VILLAIN_C_04ID	1	Resna	レスナ	（あ！　あそこにいるのは！）	Resna	(Oh, look who it is!)	蕾斯娜	（啊！那个人是……！）	蕾斯娜	（啊！那個人是！）
+Date_VILLAIN_C_04ID	2	Resna	レスナ	ララさーん！	Resna	Laraaa!	蕾斯娜	拉拉小姐～！	蕾斯娜	拉拉小姐──！
+Date_VILLAIN_C_04ID	3	Resna	レスナ	ララさん、こんにちは！	Resna	It's great to see you!	蕾斯娜	拉拉小姐，你好！	蕾斯娜	拉拉小姐，午安！
+Date_VILLAIN_C_04ID	4	Lara	ララ	ごきげんよう、レスナ。\nなんだかご機嫌のようですわね？	Lara	Likewise, my dear Resna. You certainly look well.	拉拉	你好，蕾斯娜。\n你似乎心情不错？	拉拉	妳好呀，蕾斯娜。\n感覺妳的心情似乎不錯？
+Date_VILLAIN_C_04ID	5	Resna	レスナ	はい！　ララさんにお会いできたので！	Resna	Oh, I am! It's because I'm happy to see you.	蕾斯娜	是的！因为见到了拉拉小姐！	蕾斯娜	是的！因為遇到了拉拉小姐！
+Date_VILLAIN_C_04ID	6	Resna	レスナ	今日は何をしているんですか？	Resna	What are you up to today?	蕾斯娜	你今天在做什么呀？	蕾斯娜	妳今天來做什麼呢？
+Date_VILLAIN_C_04ID	7	Lara	ララ	少しお買い物を。\n服や小物を見て回ろうかと思いまして	Lara	Just a bit of shopping. I thought I'd spend some time looking for some new clothes, maybe some accessories.	拉拉	来买点东西。\n我想看看衣服和配饰之类的。	拉拉	我想買點東西，\n然後逛一逛看看衣服或小飾品。
+Date_VILLAIN_C_04ID	8	Lara	ララ	王たるもの、日ごろの身だしなみから\n気を配らねばなりませんもの	Lara	After all, as queen, I represent my kingdom. I must be sure to present myself well at all times.	拉拉	身为国王，必须注意日常的衣着打扮。	拉拉	身為君主，必須注重日常的穿著儀容才行。
+Date_VILLAIN_C_04ID	9	Resna	レスナ	胸襟秀麗、素晴らしいです！\nララさん、私にお供させてください！	Resna	How wonderful! You're so devoted to your people. Would you mind if I tagged along?	蕾斯娜	真是胸有丘壑，太了不起了！\n拉拉小姐，请让我同行！	蕾斯娜	真是優雅高尚，太棒了！\n拉拉小姐，請讓我陪妳一起逛吧！
+Date_VILLAIN_C_04ID	10	Lara	ララ	ふふ、許可しましょう	Lara	*Chuckle* Be my guest.	拉拉	呵呵呵，准了。	拉拉	呵呵，我同意。
+Date_VILLAIN_C_04ID	11	Resna	レスナ	（この間はララさんに\n　少し暗い表情をさせてしまったし……\n　何か楽しい話題はないかな？）	Resna	(The last time I talked with Lara, I ended up touching on a sore subject... So today, I want to talk about something lighthearted and fun!)	蕾斯娜	（上次我害拉拉小姐不开心了……\n　有没有什么愉快的话题呢？）	蕾斯娜	（前兩天不小心讓拉拉小姐的臉色有些不好……\n　我這次來找個開心的話題吧。）
+Date_VILLAIN_C_04ID	12	Resna	レスナ	（あ！　この服、\n　ララさんに似合いそう！）	Resna	(Oh, wow! I just know Lara would look great in this!)	蕾斯娜	（啊！这件衣服，感觉好适合拉拉小姐！）	蕾斯娜	（啊！那件衣服感覺很適合拉拉小姐！）
+Date_VILLAIN_C_04ID	13			布たっぷりのワンピース		A frilly dress		布料超多的连衣裙		布料層層疊疊的連身裙
+Date_VILLAIN_C_04ID	14	Resna	レスナ	この布たっぷりのワンピース、素敵です！\nララさんに絶対似合います！	Resna	Isn't this frilly dress lovely? It almost looks like it was made just for you!	蕾斯娜	这条布料超多的连衣裙，好好看！\n拉拉小姐穿一定很合适！	蕾斯娜	這件布料層層疊疊的連身裙好好看！\n一定很適合拉拉小姐！
+Date_VILLAIN_C_04ID	15	Lara	ララ	あら、分かっていますわね。\n意匠も凝っていて素敵ですわ	Lara	Oh, you certainly do know my taste. And such an elaborate design... It's exquisite.	拉拉	哎呀，你很有见地呢。\n款式也很讲究，不错。	拉拉	哎呀，妳很懂嘛。\n設計也很細膩，非常好看。
+Date_VILLAIN_C_04ID	16	Lara	ララ	こうしたドレスのような衣服は、\n着た者の気品を高めてくださるから、\n特にお気に入りですわ	Lara	Dresses like this serve to accentuate the elegance of the person wearing them. And that's precisely why I love them!	拉拉	这类像礼服一样的服装\n可以提升穿着者的气质，我尤其喜欢。	拉拉	這種像禮服一樣的衣服，\n能夠提升穿著者的氣質，所以我特別喜歡。
+Date_VILLAIN_C_04ID	17			黒いミニスカート		A black miniskirt		黑色迷你裙		黑色的迷你裙
+Date_VILLAIN_C_04ID	18	Resna	レスナ	この黒いミニスカート、かわいいです！\nララさんなら着こなせると思います！	Resna	Isn't this black miniskirt cute? Someone like you could really pull off this look!	蕾斯娜	这条黑色迷你裙，好可爱！\n拉拉小姐一定可以穿得很好看！	蕾斯娜	這件黑色的迷你裙好可愛！\n拉拉小姐穿上應該會很合身！
+Date_VILLAIN_C_04ID	19	Lara	ララ	確かにかわいいですけれど……\n過度な肌見せは気品を損ねてしまいますわ	Lara	It is cute, I'll give you that... But showing that much skin doesn't exactly lend itself to elegance.	拉拉	可爱是可爱……\n但是露出过多肌肤有些不雅。	拉拉	的確是很可愛……\n不過暴露太多肌膚，會有損氣質呢。
+Date_VILLAIN_C_04ID	20	Lara	ララ	もちろん、着る機会がありましたら\nその時は完璧に着こなしてみせますわ	Lara	Of course, if the proper occasion arose for such a style, I assure you I could turn every head in the room.	拉拉	当然，如果有机会穿的话，\n到时候我会穿得光彩动人的。	拉拉	當然，什麼時候有機會穿上的話，\n我肯定會很完美地駕馭它的。
+Date_VILLAIN_C_04ID	21			桃色のもこもこ寝巻き		Fuzzy, pink pajamas		粉色毛绒绒睡衣		粉紅色的軟綿綿睡衣
+Date_VILLAIN_C_04ID	22	Resna	レスナ	この桃色のもこもこ寝巻き、かわいいです！\nララさんに似合うと思います！	Resna	These pink pajamas are so adorable! And fuzzy! I'd love to see how cute you look in them.	蕾斯娜	这件粉色毛绒绒睡衣，好可爱！\n我觉得很适合拉拉小姐！	蕾斯娜	這件粉紅色的軟綿綿睡衣好可愛！\n我覺得很適合拉拉小姐！
+Date_VILLAIN_C_04ID	23	Lara	ララ	確かにかわいいですけれど……\n今、寝巻きは求めておりませんわ	Lara	They are adorable indeed. Unfortunately, I'm not looking for pajamas today.	拉拉	可爱是可爱……\n但我现在不想买睡衣。	拉拉	的確是很可愛……\n但我現在不是要找睡衣。
+Date_VILLAIN_C_04ID	24	Lara	ララ	でも、お揃いの寝巻きでのお泊り会、\nそれもまた一興やも……	Lara	But if we were to plan a sleepover, wearing matching pajamas would be delightful...	拉拉	不过，穿同款睡衣一起过夜，\n说不定也不错……	拉拉	不過，如果舉辦同款睡衣的過夜聚會，\n或許也別有趣味……
+Date_VILLAIN_C_04ID	25	Resna	レスナ	あ、小物もありますよ！	Resna	Look, they have accessories here too!	蕾斯娜	啊，也有配饰！	蕾斯娜	啊，這裡也有小飾品！
+Date_VILLAIN_C_04ID	26	Resna	レスナ	（この小物、ララさんに似合いそう！）	Resna	(Ooh, this would be perfect for Lara!)	蕾斯娜	（啊！这个配饰，感觉好适合拉拉小姐！）	蕾斯娜	（這個小飾品，感覺很適合拉拉小姐！）
+Date_VILLAIN_C_04ID	27			薔薇の形の髪飾り		A rose-shaped hair pin		蔷薇形状的发饰		玫瑰造型的髮飾
+Date_VILLAIN_C_04ID	28	Resna	レスナ	この、薔薇の髪飾り……\nララさんっぽくて素敵です……！	Resna	Look, this hair pin is shaped like a rose. It's gorgeous, just like you!	蕾斯娜	这个蔷薇发饰……\n好有拉拉小姐的感觉，好好看……！	蕾斯娜	這個玫瑰造型的髮飾……\n很有拉拉小姐的風格，太美了……！
+Date_VILLAIN_C_04ID	29	Lara	ララ	確かに美しいですわね。\nいいものですわ	Lara	It's stunning. You found a beautiful piece.	拉拉	的确很美丽，是件好配饰。	拉拉	的確很美，\n是個好東西。
+Date_VILLAIN_C_04ID	30	Lara	ララ	薔薇は色によっても花言葉が異なります。\nこの薔薇は紫色。花言葉は『気品』……\nわたくしにふさわしいですわ	Lara	"Roses have different meanings based on their color. This rose is purple, meaning ""elegance."" Fit for a queen, don't you think?"	拉拉	蔷薇不同的颜色有不同的花语。\n这个蔷薇是紫色，花语是“优雅”……\n很适合我。	拉拉	不同顏色的玫瑰對應不同的花語。\n這個玫瑰是紫色，花語是「氣質」……\n和我十分相稱。
+Date_VILLAIN_C_04ID	31			向日葵の付いた麦わら帽子		A straw hat with sunflowers		装饰着向日葵的草帽		向日葵的草帽
+Date_VILLAIN_C_04ID	32	Resna	レスナ	向日葵の麦わら帽子！\n日差し対策にどうでしょう？	Resna	Look, a straw hat! And it even has sunflowers on it! It would help you keep the sun out of your face.	蕾斯娜	装饰着向日葵的草帽！\n买来防晒如何？	蕾斯娜	向日葵的草帽！\n用來遮陽妳覺得如何呢？
+Date_VILLAIN_C_04ID	33	Lara	ララ	かわいいですが、\nわたくしの好みではありませんわ	Lara	It's certainly cute, but it isn't quite my style.	拉拉	很可爱，但是不符合我的喜好。	拉拉	雖然很可愛，\n但不是我的喜好。
+Date_VILLAIN_C_04ID	34	Lara	ララ	わたくしよりあなたに似合いますわよ	Lara	Actually, I think it might suit you far better.	拉拉	比起我，还是你戴更合适。	拉拉	比起我，它更適合妳。
+Date_VILLAIN_C_04ID	35	Lara	ララ	……ほら、とってもかわいいですわ	Lara	There, see how precious you look?	拉拉	……你看，很可爱哦。	拉拉	……妳看，戴起來非常可愛呢。
+Date_VILLAIN_C_04ID	36			桃色の獣耳付き髪留め		Animal ear hair clips		粉色兽耳发饰		粉紅色的獸耳髮夾
+Date_VILLAIN_C_04ID	37	Resna	レスナ	この獣耳付き髪留め、\nララさんの髪色と一緒です！\nララさん、どうですか？	Resna	Look at these hair clips, Lara! They look like animal ears, and they're even the same color as your hair! What do you think?	蕾斯娜	这个兽耳发饰，和拉拉小姐的头发颜色一样！\n拉拉小姐，怎么样？	蕾斯娜	這個粉紅色的獸耳髮夾，\n和拉拉小姐的髮色一樣！\n拉拉小姐，妳覺得如何呢？
+Date_VILLAIN_C_04ID	38	Lara	ララ	かわいいですけれど、\nこれは恥ずかしいですわ……！	Lara	They are quite cute, but aren't they a bit embarrassing?	拉拉	可爱是可爱，但是太难为情了……！	拉拉	雖然很可愛，但戴這個太難為情了……！
+Date_VILLAIN_C_04ID	39	Lara	ララ	それに、これを付けたわたくしと居たら、\nあなた、イザナに嫉妬されますわよ？	Lara	Besides, if I were to wear these while I was with you, I imagine Izana would get terribly jealous!	拉拉	而且，你要是和戴上这个发饰的我在一起，\n会让伊札娜嫉妒的哦？	拉拉	而且，要是和戴著這個的我在一起，\n妳可是會被伊札娜嫉妒的喔。
+Date_VILLAIN_C_04ID	40	Resna	レスナ	い、イザナちゃんが！\nそれは、やめておきましょう	Resna	Oh no! Maybe we should put them back then. We don't want to upset her...	蕾斯娜	伊、伊札娜！\n那还是算了吧……	蕾斯娜	伊、伊札娜嗎！？\n那還是先算了吧。
+Date_VILLAIN_C_04ID	41	Lara	ララ	あなた、服や小物を見ても\nわたくしのことばかりね	Lara	Even though we're shopping for clothes and accessories together, you're completely focused on me.	拉拉	不管看衣服还是配饰，你都只给我挑呢。	拉拉	不管是看衣服還是看小飾品，\n妳都在想著我呢。
+Date_VILLAIN_C_04ID	42	Resna	レスナ	その、ララさんはとても素敵なので、\nあれもこれも美しく着こなしそうだと\n思いまして……！	Resna	You're so beautiful that you would look stunning in any of these clothes. I can't help but imagine all of the possibilities!	蕾斯娜	因为，拉拉小姐很有气质，\n感觉不管什么都能穿得很好看……！	蕾斯娜	那是因為拉拉小姐太漂亮了，\n不管什麼衣服和飾品好像都能穿得很美……！
+Date_VILLAIN_C_04ID	43	Lara	ララ	そう言われて悪い気はしませんわね	Lara	Well, I don't exactly mind the compliments...	拉拉	真会说话。	拉拉	我不討厭被妳這麼說。
+Date_VILLAIN_C_04ID	44	Lara	ララ	衣服や小物に優劣をつけるつもりは\nありませんが、王たるわたくしは\n気品溢れる装いをしなくては	Lara	However, while I don't intend to belittle the beauty of any of these pieces, as queen, I must adorn myself in only the most refined attire.	拉拉	我不觉得衣服和配饰也分三六九等，\n但是我既身为国王，必须穿着优雅得体。	拉拉	我沒有要斷定衣服或小飾品的好壞，\n只不過身為君主，\n我必須打扮得高貴大氣才行。
+Date_VILLAIN_C_04ID	45	Resna	レスナ	はい、勉強になります！	Resna	Right! That makes perfect sense!	蕾斯娜	嗯，受教了！	蕾斯娜	是，我受教了！
+Date_VILLAIN_C_04ID	46	Lara	ララ	レスナ。\nあなたは、王としてあるべき姿とは\nどういうものと考えますの？	Lara	Resna, I'd like to ask you something. In your opinion, what are the qualities of a good queen?	拉拉	蕾斯娜。你觉得什么样的国王才能算是好国王？	拉拉	蕾斯娜，妳認為一名君主應當是什麼模樣呢？
+Date_VILLAIN_C_04ID	47	Resna	レスナ	王として、ですか……	Resna	A good queen is, well...	蕾斯娜	好国王吗……	蕾斯娜	君主應當是什麼模樣嗎……
+Date_VILLAIN_C_04ID	48	Resna	レスナ	（ララさん、真剣な表情。\n　もしかして、王としてのあり方に\n　悩みがあるのかな？）	Resna	(Lara looks really serious. Maybe she's worried about the way she rules her kingdom.)	蕾斯娜	（拉拉小姐的表情好认真。\n　难道说，她在烦恼如何当一个好国王？）	蕾斯娜	（拉拉小姐的表情好認真。\n　她該不會是對君主應有的模樣感到迷惘吧？）
+Date_VILLAIN_C_04ID	49	Resna	レスナ	（そんなララさんに、\n　私から伝えられる言葉は……）	Resna	(What should I say to help put her mind at ease?)	蕾斯娜	（对这样的拉拉小姐，我能说些什么呢……）	蕾斯娜	（面對拉拉小姐的問題，\n　我能給出的答案是……）
+Date_VILLAIN_C_04ID	50			民に寄り添い、努力を欠かさないこと		Someone who works hard to understand her people.		体恤人民，不懈努力的国王		同理人民以及努力不懈
+Date_VILLAIN_C_04ID	51	Resna	レスナ	民に寄り添い、努力を欠かさないこと、\nじゃないでしょうか	Resna	Someone who works hard, hand in hand with her people, and tries to understand them.	蕾斯娜	我想，应该是体恤人民，不懈努力的国王吧……	蕾斯娜	是同理人民以及努力不懈嗎？
+Date_VILLAIN_C_04ID	52	Lara	ララ	ええ。わたくしもそう思っていますわ。\n知識や財力も大事ですが、最も大切なのは\n民に寄り添える心の形だと	Lara	I agree wholeheartedly. Though it is important for a ruler to possess knowledge and wealth, compassion is the most valuable trait of all.	拉拉	嗯，我也这么想。\n知识和财力固然重要，\n但最重要的还是体恤人民的心胸。	拉拉	嗯，我也這麼認為。\n知識和財力固然重要，\n但最不可或缺的還是那顆能夠同理人民的心。
+Date_VILLAIN_C_04ID	53	Lara	ララ	ただ、それだけでは王たりえません	Lara	Yet compassion alone is not enough.	拉拉	但是，仅仅如此还不足以为王。	拉拉	不過，只憑這些不足以為一國之君。
+Date_VILLAIN_C_04ID	54	Lara	ララ	民からの信頼に応えるためにも\n努力を欠かさず、また、彼らの王として\n恥ずかしくないよう気品も備えなければ	Lara	To earn the trust of her subjects, a queen must always work hard. And she must never behave in a way that would dishonor her people.	拉拉	为了回应民众的期待需要付出不懈努力，\n为了不让民众蒙羞，需要具备优雅气质。	拉拉	還得為回報人民的信賴而努力，\n同時也需具備身為他們的君主應有的品格，\n不讓他們蒙羞。
+Date_VILLAIN_C_04ID	55			民から信頼され、尊敬されること		Someone who is trusted and respected.		受到民众信赖和尊敬的国王		受到人民的信賴與尊敬
+Date_VILLAIN_C_04ID	56	Resna	レスナ	民から信頼され、尊敬されること、\nじゃないでしょうか	Resna	Someone who is trusted and respected by their people, right?	蕾斯娜	应该是，受到民众信赖和尊敬的国王吧。	蕾斯娜	是受到人民的信賴與尊敬嗎？
+Date_VILLAIN_C_04ID	57	Lara	ララ	ええ。ですが、\nそれは結果ですわね	Lara	Indeed. But those things are a result of a queen's actions.	拉拉	没错。不过，这只是结果。	拉拉	嗯。不過，這算是最終的目標。
+Date_VILLAIN_C_04ID	58	Lara	ララ	そこに至るために、\nどうあるべきなのかが大事なのであり、\n最も難しいことなのです	Lara	One must think about what a queen must do to earn that trust and respect. And that is the most difficult question of all.	拉拉	而为了达成这个目标需要做些什么，\n这才是最重要的，也是最难的。	拉拉	為了達到這個目標必須做些什麼，\n是最重要也是最困難的事。
+Date_VILLAIN_C_04ID	59			気品があり、何事にも感謝を忘れないこと		Someone who is elegant and appreciative.		具有优雅气质和感恩一切的心的国王		氣質出眾，對凡事都心懷感激
+Date_VILLAIN_C_04ID	60	Resna	レスナ	気品があり、何事にも感謝を忘れないこと、\nじゃないでしょうか	Resna	Hmm... Someone who is both elegant and appreciative.	蕾斯娜	应该是具有优雅气质和感恩一切的心的国王吧。	蕾斯娜	是氣質出眾，\n對凡事都心懷感激嗎？
+Date_VILLAIN_C_04ID	61	Lara	ララ	それは王として、最低限のことですわ	Lara	Those are the bare minimum for a queen.	拉拉	这是做国王最基础的要求。	拉拉	這是身為君主的基本條件。
+Date_VILLAIN_C_04ID	62	Lara	ララ	王というものは、民の存在によって\n成立するものですから。\n感謝の心を忘れたら終わりですわ	Lara	After all, a queen is nothing without her people. As such, she must never forget to be thankful for them.	拉拉	没有人民则没有所谓国王，\n要是忘记感恩就会灭亡。	拉拉	先有人民，才有君主。\n要是不心懷感謝，國家就會完蛋。
+Date_VILLAIN_C_04ID	63	Lara	ララ	あなた、王というものがどうあるべきなのか\nよく分かっておいでなのね	Lara	I'm impressed that you possess such an understanding of what it takes to rule.	拉拉	看来你很清楚应该怎么做一个好国王呢。	拉拉	看來妳很清楚身為君主的責任與義務。
+Date_VILLAIN_C_04ID	64	Lara	ララ	ララ・キングダムはいつでもあなたを\n歓迎いたしますわ！	Lara	As ever, the Kingdom of Lara awaits you with open arms!	拉拉	拉拉王国随时欢迎你！	拉拉	拉拉王國隨時歡迎妳！
+Date_VILLAIN_C_04ID	65	Resna	レスナ	こ、光栄ですが、\n未来のことはまだ……！	Resna	Oh, uh, it would be an honor, but... It's still a little too soon for me to make a decision like that!	蕾斯娜	我、我很荣幸，但是以后的事我还没……！	蕾斯娜	不、不敢當。\n但對於將來的事，我還沒……！
+Date_VILLAIN_C_04ID	66	Lara	ララ	ふふ。\n今日はこの辺りで失礼いたしますわ	Lara	Hehe. In that case, I shall take my leave for today. I bid you adieu.	拉拉	呵呵呵。\n今天我就先失陪了。	拉拉	呵呵。\n我差不多該告辭了。
+Date_VILLAIN_C_04ID	67	Resna	レスナ	（ララさんの力になれたかな？）	Resna	(I think I helped her feel a little better.)	蕾斯娜	（我有没有帮到拉拉小姐呢？）	蕾斯娜	（我有幫上拉拉小姐的忙嗎？）
+Date_VILLAIN_C_04ID	68	Lara	ララ	なかなか興味深い時間でしたわ\n今日はこのあたりで失礼します	Lara	Well, that conversation certainly was...interesting. But if you'll excuse me, I must take my leave for today.	拉拉	这段时间非常有意义。\n今天我就先失陪了。	拉拉	這段時間真有意思，\n我差不多該告辭了。
+Date_VILLAIN_C_04ID	69	Resna	レスナ	（……あれ？）	Resna	(Huh?)	蕾斯娜	（……咦？）	蕾斯娜	（……咦？）
+Date_VILLAIN_C_04ID	70	Resna	レスナ	（こ、心なしか、\n　ご満足なされていないような）	Resna	(Th-That didn't seem to make her feel any better.)	蕾斯娜	（是、是我的错觉吗，\n　感觉她不是很满意……）	蕾斯娜	（是、是我的錯覺嗎？\n　總覺得她好像沒有很滿意。）
+Date_VILLAIN_C_04ID	71	Resna	レスナ	（まだまだララさんのことを\n　理解できていないのかも……）	Resna	(I need to take more time to truly understand Lara's feelings...)	蕾斯娜	（看来我可能还不够了解拉拉小姐……）	蕾斯娜	（也許我對拉拉小姐還不夠了解……）
+Date_VILLAIN_C_04ID	72	Lara	ララ	ミーケとディオーナ……優秀な人材も\nいますが、彼女たちは別の仕事を\nしてますから	Lara	I could ask Mieke and Diona... They're capable indeed. But they're both so busy with their work.	拉拉	米可和迪欧娜……虽说也有这样优秀的人才，\n但她们在做其他工作。	拉拉	米珂和蒂歐娜……雖然也相當優秀，\n但她們都已經有其他身分了。
+Date_VILLAIN_C_05ID	0	Resna	レスナ	（採取終了！　帰ったら早速調合を……\n　あれ？　あそこにいるのは）	Resna	(All finished! Now it's time to take these materials back and get to synthesizing! But wait... I see a familiar face over there!)	蕾斯娜	（采集结束！回去之后抓紧时间调合……\n　咦？那里那个人是……）	蕾斯娜	（採集完畢！回去之後要快點開始調合……\n　咦？那邊那個人是？）
+Date_VILLAIN_C_05ID	1	Resna	レスナ	こんにちは。ララさん	Resna	Hello again, Lara!	蕾斯娜	你好呀，拉拉小姐。	蕾斯娜	妳好，拉拉小姐。
+Date_VILLAIN_C_05ID	2	Lara	ララ	あらレスナ。最近よく会いますわね	Lara	Oh, Resna. I've been seeing a lot of you lately.	拉拉	啊，蕾斯娜。最近经常遇见呢。	拉拉	哎呀，蕾斯娜，最近很常見到妳呢。
+Date_VILLAIN_C_05ID	3	Resna	レスナ	（あれ？　ララさん、元気ない？\n　どうしたんだろう）	Resna	(Uh oh... What happened? Lara looks like she's feeling really down.)	蕾斯娜	（咦？拉拉小姐好像没精神？\n　这是怎么了？）	蕾斯娜	（咦？拉拉小姐似乎沒什麼精神，\n　她怎麼了？）
+Date_VILLAIN_C_05ID	4	Resna	レスナ	ここで何しているんですか？	Resna	What are you doing here?	蕾斯娜	你在这里做什么呢？	蕾斯娜	妳在這裡做什麼呢？
+Date_VILLAIN_C_05ID	5	Lara	ララ	強いて言うなら、何もしておりませんわ	Lara	To be frank, nothing at all.	拉拉	硬要说的话，我什么也没在做。	拉拉	硬要說的話，我什麼也沒做。
+Date_VILLAIN_C_05ID	6	Lara	ララ	レスナ、もし今お時間あるようでしたら、\n少しお話しませんこと？	Lara	If you can spare a moment, would you mind chatting with me for a while?	拉拉	蕾斯娜，你现在有时间的话，\n能不能陪我说说话？	拉拉	如果蕾斯娜妳現在有空，\n我能稍微和妳聊一聊嗎？
+Date_VILLAIN_C_05ID	7	Resna	レスナ	はい！　大丈夫です！	Resna	I'd be happy to!	蕾斯娜	嗯，没问题！	蕾斯娜	好的，沒問題！
+Date_VILLAIN_C_05ID	8	Lara	ララ	……あなたは、他の錬金術士に\n嫉妬することはありませんの？	Lara	Have you ever been jealous of another alchemist?	拉拉	你……会不会嫉妒其他炼金术士？	拉拉	……妳嫉妒過其他鍊金術士嗎？
+Date_VILLAIN_C_05ID	9	Resna	レスナ	え？	Resna	Jealous?	蕾斯娜	嗯？	蕾斯娜	咦？
+Date_VILLAIN_C_05ID	10	Lara	ララ	身近に自分よりも優れた者がいる……\nそれは大きな嫉妬を生み出し、\n感情を揺さぶりますわ。……良くも、悪くも	Lara	You see, there's an alchemist I know who is far more talented than I. I've started to develop this overwhelming feeling of jealousy... It's making me terribly emotional.	拉拉	如果身边有比自己更优秀的人……\n人就会产生嫉妒，感情波动……\n这可能是好事，也可能是坏事。	拉拉	身邊的人比自己更優秀……\n因此產生了強烈的嫉妒心，心情也為之起伏……\n無論是在好的還是壞的方面。
+Date_VILLAIN_C_05ID	11	Resna	レスナ	私は……\n今まで嫉妬したことが全くないと言ったら、\n嘘になるかもしれないけれど……	Resna	Well, I can't say I've never been jealous...	蕾斯娜	我……如果说我从来没有嫉妒过谁，\n那是骗人的。但是……	蕾斯娜	我……如果說我從沒嫉妒過別人，\n那肯定是騙人的……
+Date_VILLAIN_C_05ID	12	Resna	レスナ	私の目標は、\n決して一人では叶えられないことで、\nこれまでもたくさんお世話になっていて……	Resna	But my dream isn't something that I can achieve on my own. Up until now, I've had help from countless alchemists.	蕾斯娜	我的目标是仅凭一个人绝对无法达成的，\n至今为止我也受到许多人帮助……	蕾斯娜	我的目標絕對無法靠自己一個人達成，\n所以至今為止接受了許多人的幫忙……
+Date_VILLAIN_C_05ID	13	Resna	レスナ	色々と教わって、\n学ばせていただいたからこそ\n今の私がここにいるので！	Resna	Thanks to them, I've learned and grown so much. They made me who I am today!	蕾斯娜	大家教了我很多，我从大家身上学到很多，\n这样才有了今天的我！	蕾斯娜	多虧了大家的指導，\n才有了現在的蕾斯娜！
+Date_VILLAIN_C_05ID	14	Resna	レスナ	嫉妬よりも、\n尊敬や憧れの気持ちが大きいです！	Resna	So even though I might feel a little jealous, I admire and respect them even more!	蕾斯娜	所以，比起嫉妒，更多的是尊敬和憧憬！	蕾斯娜	比起嫉妒，\n尊敬和憧憬的心情反而更強烈！
+Date_VILLAIN_C_05ID	15	Resna	レスナ	ララさんのことも尊敬しています！\nずっと憧れです！	Resna	And you're one of those alchemists I admire, Lara. I'll always look up to you!	蕾斯娜	我也尊敬拉拉小姐！\n我一直很憧憬你！	蕾斯娜	我也非常尊敬拉拉小姐！\n一直把妳當作榜樣！
+Date_VILLAIN_C_05ID	16	Lara	ララ	そうですか	Lara	Is that so?	拉拉	是吗。	拉拉	這樣啊。
+Date_VILLAIN_C_05ID	17	Resna	レスナ	……もしかして、\n何か悩んでいるんですか？	Resna	There's something worrying you, isn't there?	蕾斯娜	……你是不是有什么烦恼？	蕾斯娜	……妳該不會在煩惱些什麼吧？
+Date_VILLAIN_C_05ID	18	Lara	ララ	……	Lara	...	拉拉	……	拉拉	……
+Date_VILLAIN_C_05ID	19	Resna	レスナ	……ララさんは、王国の人の悩みに\n真剣に向き合っていました。\nとても素敵です	Resna	Lara, you're amazing. You're always giving your all to help your subjects solve their problems.	蕾斯娜	……拉拉小姐认真处理了王国国民的烦恼，\n这很了不起。	蕾斯娜	……拉拉小姐總是很認真地看待王國子民的煩惱。\n真的很厲害。
+Date_VILLAIN_C_05ID	20	Resna	レスナ	でも……じゃあ、ララさんの悩みは\n誰が聞いてくれるんでしょうか	Resna	But it makes me wonder... Who helps you with your problems? Who lends you an ear when you need it?	蕾斯娜	但是……那拉拉小姐的烦恼，又有谁可以倾听呢？	蕾斯娜	但是……這樣的話，\n拉拉小姐的煩惱能向誰訴說呢？
+Date_VILLAIN_C_05ID	21	Resna	レスナ	ララさんがもし何か悩んでいるのなら、\n力になりたいです！	Resna	I want to be that person for you! If you're ever worried about anything, I'm here to help.	蕾斯娜	拉拉小姐，如果你有什么烦恼，\n我想帮助你！	蕾斯娜	如果拉拉小姐有煩惱，\n我想助妳一臂之力！
+Date_VILLAIN_C_05ID	22	Lara	ララ	わたくしは、家族の事を思い出すのが\n嫌なのです	Lara	It... It pains me to remember my family.	拉拉	我不喜欢回忆起家人的事。	拉拉	我很討厭想起我的家人。
+Date_VILLAIN_C_05ID	23	Lara	ララ	嫉妬の感情に囚われて、わたくしを\n攻撃してきた血縁者……	Lara	Though they were my own flesh and blood, they were all overcome with jealousy toward me. And that jealousy turned to abuse.	拉拉	亲人被嫉妒心蒙蔽双眼，对我拔刀相向……	拉拉	那些和我有血緣關係\n卻因為嫉妒而不斷攻擊我的人……
+Date_VILLAIN_C_05ID	24	Lara	ララ	わたくしが、嫉妬の感情を持つと、自分も\nあの者たちに近しい感じがして、おぞましい	Lara	That's why my own feelings of jealousy disgust me. They make me feel as though I've sunk to their level...	拉拉	我总觉得，如果产生嫉妒心，\n我会变得和他们相似，这令人作呕。	拉拉	我不想和他們同流合汙，\n所以我很厭惡產生嫉妒之心的自己。
+Date_VILLAIN_C_05ID	25	Lara	ララ	むろん妬みを攻撃性に変えることは\nありませんが……それでも嫌で	Lara	Of course, I would never lash out with violence like they did, but still... I despise this feeling.	拉拉	当然，我不会因为嫉妒就攻击他人……\n即便如此，我还是不舒服。	拉拉	當然這份嫉妒並不具有攻擊性……\n但我依舊十分厭惡這種感覺。
+Date_VILLAIN_C_05ID	26	Lara	ララ	嫉妬はしないように、と思っているのですが\n人間なかなか、ままなりませんわね	Lara	So I tried to push all of the thoughts of jealousy out of my mind. But in the end, I'm only human.	拉拉	我尽量控制自己不去嫉妒，\n但看来，人性没有那么容易改变。	拉拉	雖然我不想嫉妒他人，\n但身為人類，實在很難隨心所欲。
+Date_VILLAIN_C_05ID	27	Resna	レスナ	ララさん……	Resna	Lara...	蕾斯娜	拉拉小姐……	蕾斯娜	拉拉小姐……
+Date_VILLAIN_C_05ID	28	Resna	レスナ	あの、ふつつかながら、\n私めの考えを述べさせていただきます！	Resna	Well, I can't possibly understand exactly what you're feeling, but can I tell you what I think!	蕾斯娜	那个，可能会有些冒昧，\n但是我想说说我的想法！	蕾斯娜	那個、請容我冒昧說幾句話！
+Date_VILLAIN_C_05ID	29	Resna	レスナ	ララさんは、自国の民に対して\n正しく優しい王であろうとするから、\n勤勉故に他者の能力が眩しく見えている！	Resna	I think you're a kind, just queen who always wants to do what's best for her people. And because you want to be the best you can be, you admire the good in others.	蕾斯娜	拉拉小姐为了自己的国民，\n想做一个正确、温柔的国王，为此下了很多功夫，\n因此才会觉得他人的能力耀眼！	蕾斯娜	拉拉小姐為了成為溫柔又公正的君主做了很多努力！\n正因為妳很努力，才會覺得他人的能力格外耀眼！
+Date_VILLAIN_C_05ID	30	Resna	レスナ	つまり、良い嫉妬です！　大丈夫です！\nララさんは、ララさんです！	Resna	In other words, that jealousy is coming from a good place! But it's all right. You don't need to be anyone but yourself!	蕾斯娜	也就是说，这是好的嫉妒！没问题的！\n拉拉小姐就是拉拉小姐！	蕾斯娜	也就是說，這種嫉妒是正面的！\n拉拉小姐不用太在意，因為妳還是妳自己！
+Date_VILLAIN_C_05ID	31	Resna	レスナ	それに、ご安心ください！　人間ゆえに\nあやまちもあるかもしれませんが	Resna	So please don't worry! Like you said, we're only human. We all make mistakes.	蕾斯娜	而且，请你放心！\n人总是难免犯错的，但是……	蕾斯娜	然後，放心吧！\n身為人類，都有機會犯錯。
+Date_VILLAIN_C_05ID	32	Resna	レスナ	ララさんが何か間違ったら、私が止めます！\nあの、だから……！	Resna	But you have me! If you're about to make a big mistake, I'll stop you. I promise!	蕾斯娜	如果拉拉小姐做错了什么，我会阻止你的！\n那个，所以说……！	蕾斯娜	要是拉拉小姐做錯事，\n我會負責阻止妳！呃，所以……！
+Date_VILLAIN_C_05ID	33	Lara	ララ	ふふ……\nありがとう、レスナ\nまさかあなたに励まされるなんて……	Lara	Hehe... Thank you, Resna. It's a bit ironic that you're the one who helped cheer me up.	拉拉	呵呵呵……\n谢谢你，蕾斯娜。\n居然受到你的鼓励……	拉拉	呵呵……謝謝妳，蕾斯娜。\n沒想到妳會鼓勵我……
+Date_VILLAIN_C_05ID	34	Lara	ララ	わたくしらしくなく、\n悩んでしまいましたわね	Lara	What was I thinking? It's not like me to fret like this.	拉拉	居然思前想后，真不像我的风格。	拉拉	竟然不小心開始煩惱這些，\n真不像我會做的事。
+Date_VILLAIN_C_05ID	35	Lara	ララ	……日差しが強くなってきましたわね\nレスナ、近くにいらっしゃい	Lara	The sun certainly is bright today, isn't it? Resna, come closer.	拉拉	……阳光变强了呢。\n蕾斯娜，靠近一点。	拉拉	……陽光越來越強了。\n蕾斯娜，快過來吧。
+Date_VILLAIN_C_05ID	36	Resna	レスナ	えっ、え？	Resna	H-Huh?	蕾斯娜	咦、咦？	蕾斯娜	咦、咦？
+Date_VILLAIN_C_05ID	37	Lara	ララ	ほら、もっと近くにいらっしゃい	Lara	No, silly. Closer.	拉拉	哎呀，再靠近一点。	拉拉	來，再更靠近一點。
+Date_VILLAIN_C_05ID	38	Resna	レスナ	わっ！　ララさん、近いです……！	Resna	Whoa, is it all right to be this close to you?!	蕾斯娜	哇！拉拉小姐，好近……！	蕾斯娜	哇！拉拉小姐、太近了……！
+Date_VILLAIN_C_05ID	39	Lara	ララ	照れていらっしゃるの？\n姉妹で日傘を共有するのは、普通ですわよ？	Lara	Don't be shy now. What's so strange about two sisters sharing a parasol?	拉拉	你在害羞吗？\n姐妹同撑一把阳伞，是很正常的呀？	拉拉	妳在害羞嗎？\n姊妹共用一把陽傘，是很平常的事喔。
+Date_VILLAIN_C_05ID	40	Resna	レスナ	そ、そうなんですか？　姉妹……えへへ。\nでも、どうして急に……？	Resna	O-Oh, sisters... Ehehe. But why are you so worried about the weather all of a sudden?	蕾斯娜	这、这样吗？姐妹……嘿嘿。\n但是，为什么突然……？	蕾斯娜	是、是這樣嗎？姊妹……嘿嘿。\n不過，怎麼會突然……？
+Date_VILLAIN_C_05ID	41	Lara	ララ	以前、イザナから聞きましたわ。あなたは\n日差しなど、環境の変化に強くないのでしょう？	Lara	Izana told me that the elements can be a bit hard on you. That you can't be out in the sun for too long.	拉拉	以前我听伊札娜说过，\n你不擅长应对阳光之类的环境变化，不是吗？	拉拉	我從伊札娜那裡聽說過，\n妳不太適應像陽光這種環境變化，對吧？
+Date_VILLAIN_C_05ID	42	Lara	ララ	あなたがわたくしを止めるのなら、わたくしは\nそんなあなたが倒れないよう気を付けなければね	Lara	And if you're going to be my voice of reason, it won't do to have you faint from heat exhaustion.	拉拉	由你来阻止我的话，\n我可要注意不能让你倒下了。	拉拉	既然妳要阻止做錯事的我，\n我可不能讓妳先倒下。
+Date_VILLAIN_C_05ID	43	Resna	レスナ	（ララさん、私のために日傘を……？）	Resna	(Does that mean Lara brought that parasol just for me?)	蕾斯娜	（拉拉小姐，为我撑了阳伞……？）	蕾斯娜	（拉拉小姐，是為了我才帶陽傘的……？）
+Date_VILLAIN_C_05ID	44	Resna	レスナ	やっぱりララさんは、人に寄り添えて\n人のことを考えられる、素晴らしい人です！	Resna	Oh, Lara. You really are amazing. You're so compassionate, always thinking about others.	蕾斯娜	果然拉拉小姐是一个能够关心他人、\n为他人着想的优秀的人！	蕾斯娜	拉拉小姐果然是個能同理他人，\n為大家著想的優秀人才！
+Date_VILLAIN_C_05ID	45	Lara	ララ	当たり前ですわ。\nわたくしは王たる器なのですから	Lara	But of course. If I'm going to be a good queen, I always must.	拉拉	那是自然。\n我可是具备着一国之王的能力。	拉拉	那是當然的。\n我可是生來就要當君主的女人。
+Date_VILLAIN_C_05ID	46	Lara	ララ	……レスナ。今日わたくしがあなたに話したことは、\nここだけの秘密にしてくださらない？	Lara	By the way, Resna. Could you keep what we talked about today between us?	拉拉	蕾斯娜，今天我对你说的，你能不能保密？	拉拉	……蕾斯娜。我今天和妳說的話，\n可以當作兩個人之間的秘密嗎？
+Date_VILLAIN_C_05ID	47	Lara	ララ	王であるわたくしが\n後ろ向きな感情を吐露しただなんて……	Lara	As queen, I mustn't show any signs of weakness or negativity.	拉拉	我身为国王，居然吐露了消极的感情……	拉拉	我明明身為一國之君，\n卻擅自吐露了消極的情感……
+Date_VILLAIN_C_05ID	48	Lara	ララ	王国の皆を不安にさせたくはないですから	Lara	I wouldn't want to make my people uneasy.	拉拉	这会让王国的国民们不安。	拉拉	我不想讓王國的子民們感到不安。
+Date_VILLAIN_C_05ID	49	Resna	レスナ	……はい、分かりました。でも	Resna	I understand, but...	蕾斯娜	嗯，我明白了。但是……	蕾斯娜	……好的，我明白了。不過……
+Date_VILLAIN_C_05ID	50	Resna	レスナ	悩みを一人で抱え込むのは、止めてください！\n人に話すことで解決することもあると思います	Resna	Please don't worry all by yourself like this anymore. Talking to other people can really help!	蕾斯娜	请不要再独自烦恼了！\n有些事和别人商量就可以解决。	蕾斯娜	請別再獨自承擔煩惱了！\n有時候，把心事說出來反而能解決難題。
+Date_VILLAIN_C_05ID	51	Resna	レスナ	だから、また何か悩むことがあったら、\n私に、力にならせてください！	Resna	So if you start to feel worried again, I want you to talk to me about it!	蕾斯娜	所以，如果你有什么烦恼的话，请让我帮忙！	蕾斯娜	所以，如果又有新的煩惱，\n請讓我助妳一臂之力！
+Date_VILLAIN_C_05ID	52	Lara	ララ	……ええ、そうさせてもらいますわね	Lara	Very well, I'll do just that.	拉拉	……嗯，那我就不客气了。	拉拉	……嗯，我會這麼做的。
+Date_VILLAIN_C_05ID	53	Lara	ララ	あなたも、わたくしの力が必要な時はおっしゃって？\n力になりますわ	Lara	And in return, you must promise to come to me in your times of need. I, too, will be your strength.	拉拉	你也是，需要我帮忙的时候要说哦？\n我会出一份力的。	拉拉	當妳需要我的協助時，也要記得跟我說喔。\n我會出手相助的。
+Date_VILLAIN_C_05ID	54	Resna	レスナ	はい！　ありがとうございます！	Resna	I will! Thank you, Lara!	蕾斯娜	嗯！谢谢你！	蕾斯娜	好的！謝謝妳！
+Date_VILLAIN_C_05ID	55	Resna	レスナ	（ララさん、元気になったみたい！\n　よかった！）	Resna	(Lara looks like she's had a weight lifted from her. Thank goodness!)	蕾斯娜	（拉拉小姐好像恢复精神了！太好了！）	蕾斯娜	（拉拉小姐好像不再煩惱了！\n　太好了！）

@@ -1,0 +1,461 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_003_001ID	0	Marie	マリー	んー……最近、なんだか街の中が騒がしいというか、\n落ち着かない感じがするなあ	Marie	Hm... Lately, it feels like the town has gotten livelier and livelier with no signs of slowing down.	玛莉	唔……最近城镇里好像很喧闹啊，\n感觉人们都忙忙碌碌的。	瑪莉	嗯……總覺得最近鎮上好像有點吵雜，\n令人心浮氣躁。
+SeasonalTalkEvent_003_001ID	1		住民Ａ	もうじき今年も終わりねぇ。早いことったら	Citizen A	Year's almost over, huh? It always goes by so quickly.	居民A	今年很快就要结束了，好快啊。	居民A	今年也快要結束了呢。時間過得真快。
+SeasonalTalkEvent_003_001ID	2		住民Ｂ	いやまったく。月日が経つのは早いもんだ	Citizen B	You can say that again. Just blink, and a whole month's gone.	居民B	就是说啊，时间过得可真快。	居民B	真的。光陰似箭，歲月如梭啊。
+SeasonalTalkEvent_003_001ID	3		住民Ａ	この時期は何かと物入りだし、やることも多いしで、\nどうにも忙しないね	Citizen A	This might be the busiest time of the year, too. There's so much to prepare, and it all adds up.	居民A	这段时期又得花钱置办东西，又有好多事务要做，\n忙得不可开交啊。	居民A	這個季節的花費和待辦事項很多，\n簡直要忙不過來了。
+SeasonalTalkEvent_003_001ID	4	Marie	マリー	ああ……そっか、この国の暦では\nもうすぐ年末なんだ	Marie	Oh, I see. Going by the calendar here, it's almost time for a new year to start.	玛莉	哦……原来按照这个国家的历法来看，\n很快就是年末了啊。	瑪莉	啊……以這個國家的曆法來說，\n馬上就要過年了。
+SeasonalTalkEvent_003_001ID	5	Marie	マリー	（元の世界……ザールブルグでは、\n　年末に武闘大会が開かれてたなあ）	Marie	(In my world, Salburg celebrates by hosting a tournament.)	玛莉	（在原来世界的时候……每年年末\n　在萨尔布鲁克都会举行武斗大会。）	瑪莉	（我記得在原本的世界……薩爾布魯克，\n　每年年底都會召開武鬥大會。）
+SeasonalTalkEvent_003_001ID	6	Marie	マリー	（あたしも昔、出場したっけ。\n　ふふっ、懐かしいなあ……）	Marie	(Which I've taken part in, too. Heehee, that brings back memories...)	玛莉	（我之前也参加过。\n　呵呵，好怀念啊……）	瑪莉	（我曾經報名參加過呢。\n　呵呵，真懷念……）
+SeasonalTalkEvent_003_001ID	7	Marie	マリー	最近、一人で行動することが多かったし、\nたまにはみんなの顔を見に行ってみようかな	Marie	Lately, I've been traveling around a lot on my own, so it might be nice to visit and say hello to everyone.	玛莉	我最近经常独自行动，\n偶尔也去见见大家吧。	瑪莉	最近總是獨來獨往，\n還是得偶爾去見見大家才行。
+SeasonalTalkEvent_003_001ID	8	Marie	マリー	お邪魔しまーす。……あら？	Marie	Sorry to barge in... Hm?	玛莉	打扰啦……咦？	瑪莉	打擾了～哎呀……？
+SeasonalTalkEvent_003_001ID	9	Saskia	ザスキア	そういうわけだから。頑張って、レスナ	Saskia	There, that settles that. Good luck, Resna.	萨丝琪亚	就是这样。加油吧，蕾斯娜。	薩絲琪亞	事情就是這樣。蕾斯娜，加油。
+SeasonalTalkEvent_003_001ID	10	Resna	レスナ	わ、分かりました、師匠。\nレスナ・シュテルネンリヒト、やってみせます	Resna	S-Sure thing, Miss Saskia! I, Resna Sternenlicht, will do my very best!	蕾斯娜	我、我明白了，师父。\n我蕾斯娜·修特涅利希特会努力尝试的。	蕾斯娜	師父，我、我明白了。\n我蕾斯娜‧修特涅利希特會努力達成的。
+SeasonalTalkEvent_003_001ID	11	Marie	マリー	こんにちは！	Marie	Hello!	玛莉	你们好！	瑪莉	妳們好！
+SeasonalTalkEvent_003_001ID	12	Resna	レスナ	これはマルローネ先輩！　いらっしゃいませ！	Resna	Oh, Marlone! It's good to see you!	蕾斯娜	是玛洛娜前辈！欢迎光临！	蕾斯娜	瑪洛娜前輩！歡迎！
+SeasonalTalkEvent_003_001ID	13	Marie	マリー	何を話していたの？	Marie	What were you talking about?	玛莉	你们在聊什么？	瑪莉	妳們在聊什麼呢？
+SeasonalTalkEvent_003_001ID	14	Saskia	ザスキア	年始の予定についてちょっちね	Saskia	Just our plans for the start of the new year.	萨丝琪亚	聊了聊年初的计划。	薩絲琪亞	我們在聊年初的安排。
+SeasonalTalkEvent_003_001ID	15	Marie	マリー	予定？　何かあるんですか？	Marie	Hm? Which are?	玛莉	计划？你们有什么计划呀？	瑪莉	安排？什麼事呀？
+SeasonalTalkEvent_003_001ID	16	Saskia	ザスキア	新年の挨拶回りよ。毎年の習慣なの	Saskia	Going around and giving New Year's greetings is the custom here.	萨丝琪亚	就是向大家拜年的事，这是每年都要做的。	薩絲琪亞	拜年啊。這是每年的習慣。
+SeasonalTalkEvent_003_001ID	17	Saskia	ザスキア	「今年もよろしくお願いします」って、\nお世話になった人たちみんなにね	Saskia	We thank those who have assisted us over the past year and request that they continue to show us the same care over the next.	萨丝琪亚	要向关照过自己的人致以问候，\n说一句“今年也请多多关照！”	薩絲琪亞	向照顧過我們的人說聲\n「今年也請多指教」。
+SeasonalTalkEvent_003_001ID	18	Marie	マリー	へえ～。まめなんですね。\n結構な人数になるんじゃないですか？	Marie	Ooh! That's really diligent of you. I mean, that can't be a small number of visits to make.	玛莉	哦，你们好细心啊。\n这样要问候的人不会很多吗？	瑪莉	哦～真是認真啊。\n要拜訪的人應該不少吧？
+SeasonalTalkEvent_003_001ID	19	Saskia	ザスキア	そうよ、大変なのよ。きゃーってなるわ。\nでも、そういう人の繋がりこそ大事だからね	Saskia	Oh, yes. It ends up turning into quite the ordeal. But connections between people are important.	萨丝琪亚	是啊，这件事非常累人，累得我都想大声尖叫。\n不过，维护人与人之间的联系是非常重要的。	薩絲琪亞	是啊，很累人呢。簡直筋疲力盡。\n不過，我很重視人與人相互交往的情誼。
+SeasonalTalkEvent_003_001ID	20	Marie	マリー	人の繋がりかあ……	Marie	Connections, huh...	玛莉	人与人之间的联系啊……	瑪莉	人與人相互交往的情誼啊……
+SeasonalTalkEvent_003_001ID	21	Resna	レスナ	それから、挨拶と一緒にこのお守りを渡すんですよ	Resna	We also give out good luck charms when we go out for greetings!	蕾斯娜	在问候的同时，我们还会送上护身符。	蕾斯娜	另外，拜年時還要把這個護身符交給對方。
+SeasonalTalkEvent_003_001ID	22	Resna	レスナ	１年の幸せを願う気持ちを込めて、\n師匠が作ってるんです	Resna	Miss Saskia makes them. They're imbued with our wishes for people to have a full year of happiness!	蕾斯娜	这是师父做的，\n祝愿大家能度过幸福的一年。	蕾斯娜	這是師父用心製作的。\n希望大家新的一年能過得幸福。
+SeasonalTalkEvent_003_001ID	23	Resna	レスナ	今年は不肖私も、調合を少しお手伝いしました	Resna	And I, her humble apprentice, assisted a little with the synthesis this year!	蕾斯娜	我的技艺还不够成熟，但今年也帮忙调合了。	蕾斯娜	今年，不成材的我也協助了一些調合工作。
+SeasonalTalkEvent_003_001ID	24	Marie	マリー	いいわね、そういうの。\nじゃあ、二人で一緒にそれを配り歩くわけね	Marie	That's great! So you'll be going out to distribute them together?	玛莉	好有心啊。\n那你们准备两个人一起出门发放是吧？	瑪莉	聽起來真不錯。\n所以你們會一起四處發放它，對吧？
+SeasonalTalkEvent_003_001ID	25	Resna	レスナ	ええと、例年はそうなんですけど……\n今回は別々に回ろうって話になったんです	Resna	Um, that's usually how it would go, but...this year's going to be a little different. Which is what we were talking about before.	蕾斯娜	唔，前几年都是这样的……\n不过我们在讨论今年是不是该分头行动。	蕾斯娜	這個嘛，往年是這樣沒錯……\n但這次我們決定分開走。
+SeasonalTalkEvent_003_001ID	26	Saskia	ザスキア	レスナも錬金術士として一人立ちして、知り合いも\n増えたから、そのほうがいいんじゃない？ってね	Saskia	Resna has become quite independent and her circle of acquaintances has grown considerably. It's only fitting that she take on more responsibility this year.	萨丝琪亚	蕾斯娜也是独立的炼金术士了，要问候的人也更多了，\n所以我觉得分头行动或许更合适。	薩絲琪亞	蕾斯娜不但已經成為獨當一面的鍊金術士，\n也建立起自己的人脈了，這樣應該比較合適吧。
+SeasonalTalkEvent_003_001ID	27	Saskia	ザスキア	まあ、ちょっと心配ではあるけど……	Saskia	Though, I must admit that I have...some slight concerns.	萨丝琪亚	说实话，确实还是有点不放心的……	薩絲琪亞	雖然我還是會擔心……
+SeasonalTalkEvent_003_001ID	28	Saskia	ザスキア	そうだわ。\nマルローネさんに同行してもらったらどう？	Saskia	Actually, would you keep her company, Marlone?	萨丝琪亚	对了。\n玛洛娜小姐陪她一起去怎么样？	薩絲琪亞	對了。\n瑪洛娜小姐，妳願意陪她一起去嗎？
+SeasonalTalkEvent_003_001ID	29	Marie	マリー	えっ、あたし？	Marie	Huh? Why me?	玛莉	咦，我吗？	瑪莉	咦，我嗎？
+SeasonalTalkEvent_003_001ID	30	Saskia	ザスキア	マルローネさんも結構顔が広いでしょう。\n手伝ってもらうなら適任だと思うけれど	Saskia	Why not? You're rather well-known around here. And I know you would be a more-than-capable assistant.	萨丝琪亚	玛洛娜小姐的人脉也很广吧？\n我觉得你是最佳帮手哦。	薩絲琪亞	瑪洛娜小姐的人脈應該很廣才對。\n我想，請妳幫忙是最合適的。
+SeasonalTalkEvent_003_001ID	31	Resna	レスナ	でも、ご迷惑ではないでしょうか……？	Resna	But wouldn't that be a big bother for her?	蕾斯娜	但是会不会太麻烦玛洛娜前辈啊……？	蕾斯娜	但，這會不會給妳添麻煩啊……？
+SeasonalTalkEvent_003_001ID	32	Marie	マリー	……いえ。そういうことなら、手伝うわよ	Marie	No, not at all. I'd be happy to help.	玛莉	……没关系，既然如此，这件事我愿意帮忙。	瑪莉	……不。這種事我很樂意協助。
+SeasonalTalkEvent_003_001ID	33	Resna	レスナ	マルローネ先輩と一緒に行動できるなら\n慶賀に堪えませんが、よろしいのですか？	Resna	You really mean it? You'd be okay with us working together?!	蕾斯娜	要是能和玛洛娜前辈一起行动，\n我真的要感谢上天了！不过真的可以吗？	蕾斯娜	和瑪洛娜前輩一起行動是我的榮幸。\n但真的可以嗎？
+SeasonalTalkEvent_003_001ID	34	Marie	マリー	このアトリエに来る人たちなら、\n共通の知り合いも多いだろうし……	Marie	Well, I know a lot of the people who come visit the atelier...	玛莉	出入这个炼金工房的人，有很多也是我的熟人……	瑪莉	會造訪這間鍊金工房的，\n應該大部分都是我們的熟人……
+SeasonalTalkEvent_003_001ID	35	Marie	マリー	あたしもちょうど、みんなの顔が見たいなーって\n思ってたところだったの	Marie	And I was just thinking that it would be nice to see everyone again.	玛莉	正好我也想见见大家。	瑪莉	我正好有點想\n見見大家呢。
+SeasonalTalkEvent_003_001ID	36	Resna	レスナ	ありがとうございます！　とても心強いです！	Resna	Thank you very much! That's such a huge relief!	蕾斯娜	谢谢你！有你在感觉行动会更顺利的！	蕾斯娜	謝謝妳！有前輩在身邊真令人放心！
+SeasonalTalkEvent_003_001ID	37	Resna	レスナ	ぜひ、よろしくお願いします！！！	Resna	I promise, I won't let you down!	蕾斯娜	一路上还请多多关照！！！	蕾斯娜	好，那就拜託前輩了！
+SeasonalTalkEvent_003_001ID	38	Marie	マリー	すごい角度！\n決まりね！　じゃあ、年明けにまた！	Marie	Wow, that's an impressive angle! All right, I'll see you in the new year!	玛莉	太郑重啦！\n那就这么说好了！年后再见！	瑪莉	用到這角度也太誇張了吧！\n就這麼決定囉！明年見！
+SeasonalTalkEvent_003_001ID	39	Saskia	ザスキア	ふふ。これもまた、１つの繋がりね	Saskia	*Chuckle* There, yet another connection.	萨丝琪亚	呵呵，这也是一种联系呢。	薩絲琪亞	呵呵。這也是情誼的一種呢。
+SeasonalTalkEvent_003_001ID	40	Marlone	マルローネ	愛称は「マリー」。マナの調査のため各地を旅している。\n次の旅の準備のため、王都へと戻ってきた	Marlone	"Affectionately nicknamed ""Marie,"" she travels far and wide to further her study of mana. She has returned to the capital to prepare for her next big trip."	玛洛娜	爱称是“玛莉”。为了调查玛那在各处旅行。\n这次回到王都是为下一段旅行做准备。	瑪洛娜	暱稱「瑪莉」。為了調查瑪那而前往各地旅行。\n目前正回到王都準備下一場旅行。
+SeasonalTalkEvent_003_001ID	41	Saskia	ザスキア	レスナの成長を見守る師匠。レスナが\n一人立ちできるように、いくつかの課題を与えてきた	Saskia	Resna's watchful alchemy teacher. She likes to assign all sorts of tasks to help her student learn to stand on her own two feet.	萨丝琪亚	默默守护蕾斯娜成长的师父。\n曾为蕾斯娜出过多个课题，考研她能否独当一面。	薩絲琪亞	守護蕾斯娜成長的師父。為了讓弟子能獨當一面，\n出了好幾個作業給她。
+SeasonalTalkEvent_003_001ID	42	Resna Sternenlicht	レスナ・シュテルネンリヒト	ここ最近、大きな成長を遂げた錬金術士。\nお世話になった人々に感謝を伝えたいと思っている	Resna Sternenlicht	An alchemist who has recently shown an impressive amount of growth. She's eager to show her gratitude towards the people who have helped her over the past year.	蕾斯娜·修特涅利希特	最近有了长足进步的炼金术士。\n想感谢关照过自己的人。	蕾斯娜‧修特涅利希特	最近大幅成長蛻變的鍊金術士。\n希望能將謝意傳達給照顧過自己的人們。
+SeasonalTalkEvent_003_002ID	0	Marie	マリー	ど、どうですか？　どこか変なところありませんかね？	Marie	H-How do I look? There's nothing odd or out of place?	玛莉	怎、怎么样？没有看着奇怪的地方吧？	瑪莉	如、如何？有沒有哪裡怪怪的？
+SeasonalTalkEvent_003_002ID	1	Saskia	ザスキア	いえ、とても似合ってるわ。\nやっぱり、年の初めにはこの衣装ね	Saskia	No, it looks perfect on you. Mhm, the right outfit really makes it feel like the New Year.	萨丝琪亚	没有，很适合你哦。\n年初就该穿成这样才对。	薩絲琪亞	不會，很適合妳。\n果然過年就是要打扮成這樣呢。
+SeasonalTalkEvent_003_002ID	2	Marie	マリー	いいんですか？　あたしが着ちゃって	Marie	And you're sure it's okay for me to be wearing this?	玛莉	这身衣服真的可以给我穿吗？	瑪莉	這真的可以給我穿嗎？
+SeasonalTalkEvent_003_002ID	3	Saskia	ザスキア	もちろん。\nレスナを手伝ってくれるお礼だと思ってちょうだい	Saskia	Oh, absolutely. Think of it as a thank you for assisting Resna.	萨丝琪亚	当然没问题。\n就当是你帮蕾斯娜的谢礼吧。	薩絲琪亞	當然。\n就當作是幫助蕾斯娜的謝禮吧。
+SeasonalTalkEvent_003_002ID	4	Marie	マリー	……そうですか。\nじゃあ、ありがたくいただきます	Marie	All right, I will. Thank you very much.	玛莉	……这样啊。\n那我就收下了，谢谢你。	瑪莉	……原來如此。\n那我就心懷感激地收下了。
+SeasonalTalkEvent_003_002ID	5	Resna	レスナ	すみません、ちょっと遅れちゃいました！\nって、マルローネ先輩！？　その格好は……	Resna	Sorry I'm late! Oh, wow! Marlone, that outfit's so...	蕾斯娜	抱歉，我来晚了！\n咦？玛洛娜前辈？！你这身是……	蕾斯娜	抱歉來晚了！\n咦，瑪洛娜前輩！？這身打扮……
+SeasonalTalkEvent_003_002ID	6	Marie	マリー	どう？　似合う？	Marie	Does it look okay?	玛莉	怎么样，好看吗？	瑪莉	妳覺得怎麼樣？適合我嗎？
+SeasonalTalkEvent_003_002ID	7	Resna	レスナ	はい、とっても素敵です！\n髪飾りもよくお似合いですし！　目に焼き付けます！	Resna	Yes! You look gorgeous! That hairpin really suits you, too! I've got to sear this sight into my memory!	蕾斯娜	嗯，很好看！\n发饰也特别合适！我会牢牢记住你这身扮相的！	蕾斯娜	真是太美了！髮飾也很合適！\n簡直令人印象深刻！
+SeasonalTalkEvent_003_002ID	8	Resna	レスナ	……あ。\nよく見たら、これって師匠が以前着ていた……	Resna	Oh! But now that I'm looking more closely, isn't that the one that you were wearing before, Miss Saskia?	蕾斯娜	……啊。\n仔细一看，这是师父以前穿过的……	蕾斯娜	……啊。\n仔細一看，這不是師父以前穿的……
+SeasonalTalkEvent_003_002ID	9	Saskia	ザスキア	ええ。私は新しいのを仕立てたから、\nマルローネさんに譲ったの	Saskia	Indeed it is. I made a new one, so I've bequeathed it to Marlone.	萨丝琪亚	嗯，我做了一件新的，\n所以这件就送给玛洛娜小姐了。	薩絲琪亞	嗯。我訂做了新的，\n所以把舊的送給瑪洛娜小姐了。
+SeasonalTalkEvent_003_002ID	10	Resna	レスナ	おお、なるほど。本当にお似合いですよ	Resna	Oh! That makes sense! It's a great match.	蕾斯娜	哦，原来是这样。真的很适合呢。	蕾斯娜	哦，原來如此。真的很適合前輩。
+SeasonalTalkEvent_003_002ID	11	Marie	マリー	それにしてもこの衣装、ちょっと珍しいっていうか……\nあまり街中では見かけない雰囲気ですよね	Marie	There's something a little unusual about this outfit, though. It's not a style you usually see around town.	玛莉	说起来这件衣服样式有些罕见……\n在街上好像没见过有人穿成这样。	瑪莉	話說這種服裝似乎挺少見的……\n應該不是常在鎮上看到的風格吧？
+SeasonalTalkEvent_003_002ID	12	Saskia	ザスキア	その衣装は、元をたどればこのランターナ大陸の\n外からやって来た文化に由来するものなの	Saskia	As it so happens, it originally came from a culture located beyond Lantarna's borders.	萨丝琪亚	追根溯源的话，\n这件衣服属于来自兰塔纳大陆之外的舶来品文化。	薩絲琪亞	這種服裝風格\n是從蘭塔納大陸之外傳進來的。
+SeasonalTalkEvent_003_002ID	13	Marie	マリー	大陸の外……って、海の向こうからってことですか？\nでも、海を渡るのは難しいって聞いたような……	Marie	Wait, you mean across the sea? But I thought crossing it was next to impossible.	玛莉	大陆以外……也就是说来自海那边？\n可我听说渡海很困难……	瑪莉	大陸之外……也就是海的對面嗎？\n但聽說渡海是非常困難的一件事……
+SeasonalTalkEvent_003_002ID	14	Resna	レスナ	仰る通り、今は外海に棲みついた頂獣によって航路は\n閉ざされています	Resna	Yeah, that's true. The Apexi have pretty much shut down those routes.	蕾斯娜	没错，由于外海有顶兽栖息，\n现在航路都被封闭了。	蕾斯娜	妳說得沒錯。\n棲息在外海的頂獸導致航線被關閉。
+SeasonalTalkEvent_003_002ID	15	Resna	レスナ	ただ、頂獣が現れる前には、\n大陸の外との交易もありまして	Resna	This was before they appeared, when trade with other regions was still going on.	蕾斯娜	不过，在顶兽出现前，\n我们跟大陆外界也有过交易。	蕾斯娜	其實在頂獸出現前，\n這裡曾和大陸外界進行過貿易。
+SeasonalTalkEvent_003_002ID	16	Marie	マリー	へえ～、そうだったのね	Marie	Oh, so that's why.	玛莉	哦～这样啊。	瑪莉	哦～原來是這樣啊。
+SeasonalTalkEvent_003_002ID	17	Marie	マリー	そういえば、レスナはこういうのは着ないの？	Marie	By the way, Resna... Aren't you going to dress up, too?	玛莉	对了，蕾斯娜不穿这种衣服吗？	瑪莉	話說回來，蕾斯娜妳不穿這種衣服嗎？
+SeasonalTalkEvent_003_002ID	18	Saskia	ザスキア	前に勧めたことはあるんだけどね	Saskia	I did recommend that earlier, yes.	萨丝琪亚	我是有推荐过她这么穿……	薩絲琪亞	我曾經向她推薦過。
+SeasonalTalkEvent_003_002ID	19	Resna	レスナ	ちょっと私には恐れ多いといいますか	Resna	I don't know, I think it might be a little too much for me.	蕾斯娜	但我觉得我和这身衣服好像不太相称。	蕾斯娜	該說好像和我的身分地位不太相符嗎……
+SeasonalTalkEvent_003_002ID	20	Marie	マリー	そんなことないと思うけどなあ	Marie	I wouldn't say that.	玛莉	我倒不这么觉得。	瑪莉	我倒不這麼覺得耶。
+SeasonalTalkEvent_003_002ID	21	Resna	レスナ	そ、それより！　マルローネ先輩、師匠、\n新年明けましておめでとうございます	Resna	But more importantly! Happy New Year, Miss Saskia! Marlone!	蕾斯娜	不、不说这个了！玛洛娜前辈、师父，\n新年快乐！	蕾斯娜	不、不說這個了！瑪洛娜前輩、師父，\n新年快樂。
+SeasonalTalkEvent_003_002ID	22	Resna	レスナ	今年も流れ星の導きがありますように	Resna	May the stars light your way even more brightly this year.	蕾斯娜	希望你们在今年也能得到流星的指引。	蕾斯娜	願流星今年也引導兩位。
+SeasonalTalkEvent_003_002ID	23	Marie	マリー	ええ。今年もよろしくね。\nそれじゃあ早速、新年の初仕事といきますか！	Marie	You too, Resna. Okay! Let's get right to our New Year's duties!	玛莉	嗯，今年也请多关照。\n那就赶快去做新年的第一件工作吧。	瑪莉	嗯。今年也請多指教囉。\n那我們馬上開始新年的第一件工作吧！
+SeasonalTalkEvent_003_002ID	24	Resna	レスナ	はい！　参りましょう！！	Resna	Yeah! Time to head out!	蕾斯娜	嗯！我们走吧！！	蕾斯娜	好的！一起出發吧！！
+SeasonalTalkEvent_003_002ID	25	Saskia	ザスキア	あなたの分のお守りはここに置いておくわね。\n私は自分の分を配ってくるから	Saskia	I'll leave your portion of the charms right here, all right? And I'll take the ones that I'll be distributing.	萨丝琪亚	这些就是你要发放的护身符。\n我去发我自己的份了。	薩絲琪亞	妳的護身符我先放這裡。\n那我去發送我的份囉！
+SeasonalTalkEvent_003_002ID	26	Marie	マリー	行ってらっしゃーい。\nそれで、どこから挨拶に行くの？	Marie	Have a safe trip! So, Resna, where do we start?	玛莉	慢走！\n那我们要从哪里开始问候呢？	瑪莉	路上小心～\n那我們要先去哪裡拜年呢？
+SeasonalTalkEvent_003_002ID	27	Resna	レスナ	ある程度の計画は立ててあります。\nまずはあそこから！	Resna	I've got a plan more or less worked out already. First off is everyone's favorite!	蕾斯娜	我事先做了大致计划，\n先从那里开始！	蕾斯娜	我大致上已經決定好了。\n首先從那裡開始！
+SeasonalTalkEvent_003_003ID	0	Ryza	ライザ	いらっしゃい、二人とも！\nあれ、マルローネさん。今日はいつもと雰囲気違うね	Ryza	Welcome, you two! Wow, Marlone. You've got a whole new look today!	莱莎	你们来啦，欢迎！\n咦？玛洛娜小姐，今天跟平时的样子不太一样呢。	萊莎	歡迎兩位！\n咦，是瑪洛娜小姐。妳今天給人的感覺不太一樣耶。
+SeasonalTalkEvent_003_003ID	1	Marie	マリー	ふふ。今日は新年のご挨拶に来たのよ。\nこの衣装はザスキアさんにいただいたものなの	Marie	Heehee. Saskia lent me this outfit since we're out doing New Year's greetings today.	玛莉	呵呵，今天我是来做新年问候的。\n这身衣服是萨丝琪亚小姐送我的。	瑪莉	呵呵。我是來拜年的。\n這套衣服是薩絲琪亞小姐給我的。
+SeasonalTalkEvent_003_003ID	2	Resna	レスナ	ライザ先輩、昨年はお世話になりました！\n本当に、何から何まで……	Resna	Thank you for all your help last year, Ryza! Seriously, I owe you a ton...	蕾斯娜	莱莎前辈，去年受你关照了！\n感谢你事无巨细的帮助……	蕾斯娜	萊莎前輩，去年承蒙妳照顧了！\n我總是一直在麻煩妳……
+SeasonalTalkEvent_003_003ID	3	Resna	レスナ	旅立って間もない頃、\n危ないところを助けていただき……	Resna	I mean, you saved me from a bad situation almost the moment I set out on my trip to the capital.	蕾斯娜	在我刚开始旅行的时候，\n你就在危急关头救了我……	蕾斯娜	從旅途初期開始，\n妳就協助我度過危機……
+SeasonalTalkEvent_003_003ID	4	Resna	レスナ	王都に来てからも、依頼の斡旋はもちろん、\n採取に調合にと、たくさん力を貸していただきました	Resna	And then ever since I got here, you've been helping me get requests, gather materials, do synthesis, and just all sorts of things!	蕾斯娜	来到王都之后，你不仅帮我安排委托，\n在采集和调合的时候也帮了我许多忙。	蕾斯娜	來到王都後，無論是承接委託還是採集、調合，\n妳也都不厭其煩地出手相助。
+SeasonalTalkEvent_003_003ID	5	Resna	レスナ	私がこうして王都で錬金術士として活動できているのは\nライザ先輩のおかげです！	Resna	I wouldn't have made it as an alchemist here without you, Ryza!	蕾斯娜	我如今能在王都作为炼金术士活动，\n也是多亏了莱莎小姐！	蕾斯娜	我能以鍊金術士的身分在王都活動，\n都是託萊莎前輩的福！
+SeasonalTalkEvent_003_003ID	6	Ryza	ライザ	あはは、大げさだなあ。\nでも悪い気はしないよ。ありがと	Ryza	Ahaha, I don't think things would've gone THAT badly for you. But thanks!	莱莎	哈哈，太夸张了啦。\n不过听你这么夸还是很开心的，谢谢你。	萊莎	哈哈哈，妳太誇張了啦。\n但被感謝的感覺很不錯呢。謝啦。
+SeasonalTalkEvent_003_003ID	7	Resna	レスナ	今年はその恩を少しでも返せるように頑張りますね！\n先輩のためならなんでもする所存です	Resna	This year, I'm going to do my very best to return the favor! Whatever you need, you just say the word!	蕾斯娜	为了能报答这份恩情，我今年会继续努力！\n只要为了前辈，我愿意做任何事！	蕾斯娜	我今年會努力回報前輩的恩情！\n為了前輩，我願意做任何事。
+SeasonalTalkEvent_003_003ID	8	Resna	レスナ	あと、これ……。１年の幸福を願うお守りなんです。\nライザ先輩に、流れ星の導きがありますように	Resna	Oh, and here's a good luck charm for you. May the stars light your way even more brightly this year!	蕾斯娜	还有，这个送给你……\n这是能保佑你过上幸福一年的护身符。\n希望莱莎前辈今年也能得到流星的指引。	蕾斯娜	還有，這個……是護身符。希望妳新的一年能過得\n很幸福。萊莎前輩，願流星引導妳。
+SeasonalTalkEvent_003_003ID	9	Ryza	ライザ	へえ～。ありがと、大事にするね！	Ryza	Aw, thank you! I'll take good care of it!	莱莎	哦～谢谢，我会好好保管它的！	萊莎	哦～謝謝妳，我會珍惜它的！
+SeasonalTalkEvent_003_003ID	10	Marie	マリー	そういえば、イクセルとロロナは今日はいないのね。\nロマンの姿も見えないし……	Marie	Come to think of it, Iksel and Rorona aren't here today. And I don't see Roman anywhere, either.	玛莉	说起来，今天伊克赛尔和萝乐娜不在啊。\n还有罗曼也不在……	瑪莉	話說回來，伊克賽爾和蘿樂娜今天都不在耶。\n也沒看到羅曼……
+SeasonalTalkEvent_003_003ID	11	Ryza	ライザ	ああ、今日はお休みなんです。\n確か、友達と買い物に行くって話してたっけなあ	Ryza	Yeah, they're off today. I think they said they were going shopping with their friend?	莱莎	嗯，今天是休息日。\n我记得他们说是要去跟朋友一起买东西。	萊莎	嗯，他們今天休假。\n好像說過要跟朋友去購物。
+SeasonalTalkEvent_003_003ID	12	Ryza	ライザ	ロマンさんも年末年始は忙しいみたいで、\nこのところお店には来てないですね	Ryza	Even Roman's been too busy to stop by the cafe. I haven't seen him in a while.	莱莎	罗曼先生在年关这段时间好像有事要忙，\n所以最近都没有来店里。	萊莎	感覺羅曼先生過年期間也很忙，\n最近都沒來店裡呢。
+SeasonalTalkEvent_003_003ID	13	Resna	レスナ	うーん、皆さんにもご挨拶したかったのですが……	Resna	I guess everyone else is out doing their greetings, too.	蕾斯娜	唔……我还想给他们拜年呢……	蕾斯娜	唔～本來也打算向他們拜年的……
+SeasonalTalkEvent_003_003ID	14	Marie	マリー	また出直せばいいわよ	Marie	We'll just have to come back later.	玛莉	下次再来就好啦。	瑪莉	下次再來就好啦。
+SeasonalTalkEvent_003_003ID	15	Resna	レスナ	それもそうですね。それじゃあライザ先輩、\n改めて、今年もよろしくお願いします！	Resna	Yep, there's nothing else to it. Thanks again for everything, Ryza!	蕾斯娜	也对。那么莱莎前辈，\n今年也请你多多关照了！	蕾斯娜	說得也是。那萊莎前輩，\n今年也麻煩妳多多指教了！
+SeasonalTalkEvent_003_003ID	16	Marie	マリー	ライザもお仕事頑張ってね	Marie	Good luck with your work too.	玛莉	莱莎也要努力工作哦。	瑪莉	萊莎妳工作也要加油喔。
+SeasonalTalkEvent_003_003ID	17	Ryza	ライザ	うん。二人とも、今年もよろしく！	Ryza	Thanks. I'll see you around!	莱莎	嗯，今年也请你们多关照啦！	萊莎	好，兩位今年也請多指教！
+SeasonalTalkEvent_003_003ID	18	Marie	マリー	それじゃあ、次はどこへ行く？	Marie	So, where to next?	玛莉	那接下来要去哪里？	瑪莉	我們接著要去哪裡呢？
+SeasonalTalkEvent_003_003ID	19	Resna	レスナ	王都の中をぐるりと回っていきます	Resna	Just sort of around the capital, really.	蕾斯娜	我准备在王都走一圈。	蕾斯娜	要在王都逛一圈。
+SeasonalTalkEvent_003_003ID	20	Marie	マリー	了解。行きましょ！	Marie	All right, let's go!	玛莉	好的，那就走吧！	瑪莉	了解。走吧！
+SeasonalTalkEvent_003_003ID	21	Reisalin Stout	ライザリン・シュタウト	カフェで受付をしている錬金術士。\n明るく行動的で、いつも新しい冒険を探している	Reisalin Stout	An alchemist who manages the reception counter at the cafe. She's cheerful and always on the lookout for a new adventure.	莱莎琳·斯托特	在咖啡厅接待客人的炼金术士。\n阳光开朗，行动力强，总是在追寻全新的冒险。	萊莎琳‧斯托特	在咖啡廳當櫃檯小姐的鍊金術士。\n開朗積極，總是在尋求全新的冒險。
+SeasonalTalkEvent_003_004ID	0	Marie	マリー	お、あそこにいるのは……	Marie	Oh! That looks like...	玛莉	哦？那边的人是……	瑪莉	哦，那些人是……
+SeasonalTalkEvent_003_004ID	1	Wilbell	ウィルベル	うーん。年始の初売りねぇ	Wilbell	Hmm... The first sale of the new year, huh?	薇尔贝儿	唔——年初的首次开张……	薇爾貝兒	唔～新年首賣啊。
+SeasonalTalkEvent_003_004ID	2	Corneria	コルネリア	やはり、ガツンと印象に残る商品を\n売り出したいですが……	Corneria	I really would like it to be something with an impact, but...	柯尔涅莉雅	我还是想卖那种能给人留下深刻印象的商品……	柯爾涅莉雅	我果然很想販售那種\n讓人印象深刻的商品……
+SeasonalTalkEvent_003_004ID	3	Flocke	フロッケ	はい、商人にとって稼ぎ時ですからね。\nガツンかつズガンとした商品を……	Flocke	Yeah, this is a profitable time for merchants, so it's better to have wares that make an impact!	芙洛可	是啊，那可是商人赚钱的绝佳时机，\n要准备超厉害的亮眼商品……	芙洛可	沒錯，畢竟這對商人來說是賺錢的好時機嘛。\n必須是強而有力的商品……
+SeasonalTalkEvent_003_004ID	4	Resna	レスナ	皆さん、新年明けましておめでとうございます！\n何を話していたんですか？	Resna	Happy New Year, everyone! What's this serious discussion about?	蕾斯娜	新年快乐！\n你们在聊什么？	蕾斯娜	各位，新年快樂！\n妳們在聊什麼呢？
+SeasonalTalkEvent_003_004ID	5	Flocke	フロッケ	レスナさん、マルローネさん。\n明けましておめでとうございます	Flocke	Hello, Resna! Marlone! Happy New Year to you, too!	芙洛可	蕾斯娜小姐、玛洛娜小姐，\n新年快乐。	芙洛可	是蕾斯娜小姐和瑪洛娜小姐。\n新年快樂。
+SeasonalTalkEvent_003_004ID	6	Corneria	コルネリア	数日後に控えている「初売り」に向けて、\n作戦会議をしていたです	Corneria	We're forming a battle plan for the First Sale event that's coming up a few days from now.	柯尔涅莉雅	几天后就要开始“新年首卖”了，\n我们正在开作战会议。	柯爾涅莉雅	我們正在為幾天後的「新年首賣」\n開作戰會議。
+SeasonalTalkEvent_003_004ID	7	Flocke	フロッケ	王都の恒例行事なんです。新年を迎えてすぐ、\n大陸中から商人が集まってお店を出すんですよ	Flocke	It's a big tradition in the capital. Merchants from aaall over Lantarna will be setting up stalls!	芙洛可	这是王都的例行活动，迎来新年之后，\n整个大陆的商人们都会聚集起来出摊。	芙洛可	這是王都的例行公事。一過完年，\n來自大陸各地的商人都會聚集到這裡。
+SeasonalTalkEvent_003_004ID	8	Marie	マリー	へえ～、賑やかになりそうね	Marie	Wow, that sounds like quite a lively event.	玛莉	哇～听起来会很热闹呢。	瑪莉	哦～似乎會變得相當熱鬧呢。
+SeasonalTalkEvent_003_004ID	9	Wilbell	ウィルベル	そういう二人は何してたの？	Wilbell	What are the two of you up to?	薇尔贝儿	那你们呢，在做什么？	薇爾貝兒	那兩位又在做什麼呢？
+SeasonalTalkEvent_003_004ID	10	Resna	レスナ	新年の挨拶回りをしているんです。\n皆さん、昨年は大変お世話になりました	Resna	We're going around doing our New Year's greetings. Thank you all for everything you did for us last year.	蕾斯娜	我们正在给大家拜年。\n去年你们给了我莫大的帮助。	蕾斯娜	我們正在四處拜年。\n各位，去年承蒙妳們照顧了。
+SeasonalTalkEvent_003_004ID	11	Resna	レスナ	別の州への遠征に同行していただいたこともありました	Resna	I mean, you even joined me on a journey to another province!	蕾斯娜	甚至还陪我远走其他州应对委托。	蕾斯娜	還讓妳們陪我去別的州遠征。
+SeasonalTalkEvent_003_004ID	12	Marie	マリー	そうね。あたしも足りない素材とか\nよく買わせてもらったわ。いつもありがとね	Marie	And I tend to buy materials from you when I'm short. Thanks for always being so well-stocked.	玛莉	是啊，我也经常从你们店里购买缺少的素材。\n谢谢你们一直以来的帮助。	瑪莉	對啊，我也常常向妳們購入\n需要的素材呢。感謝妳們的協助。
+SeasonalTalkEvent_003_004ID	13	Corneria	コルネリア	いえ。今年もどうぞごひいきに、です	Corneria	Oh, it's nothing. We'll be looking forward to more of your business.	柯尔涅莉雅	不客气，今年也请多关照我的生意。	柯爾涅莉雅	不客氣。今年也請多多上門光顧！
+SeasonalTalkEvent_003_004ID	14	Marie	マリー	それで、ここに並んでいるのが初売りで出す商品？\nたくさんあるわね	Marie	Is this everything that you're planning to offer at the First Sale event? That sure is a lot of stuff.	玛莉	摆在这里的就是为新年首卖准备的商品吗？\n有好多种类啊。	瑪莉	擺在這裡的就是要在新年首賣販售的商品？\n數量不少呢。
+SeasonalTalkEvent_003_004ID	15	Corneria	コルネリア	はい。ただ、このままだとごちゃごちゃ\nしてしまうので、絞ろうとしていたところです	Corneria	Yes, but it's a little too disorganized, so we're trying to narrow it down a bit more.	柯尔涅莉雅	是的。不过，要是全都这么摆出来就太乱了，\n我们想精简一下。	柯爾涅莉雅	沒錯。不過，品項還是有點繁雜。\n所以我們打算篩選商品。
+SeasonalTalkEvent_003_004ID	16	Resna	レスナ	なるほど……私にはどれも逸品に見えます	Resna	Ah, that makes sense. They all look like great products to me!	蕾斯娜	这样啊……在我看来全都是很吸引人的东西呢。	蕾斯娜	原來如此……在我眼中每個都像奇珍異品。
+SeasonalTalkEvent_003_004ID	17	Flocke	フロッケ	どれも良い品だという自信はあるんですけどね	Flocke	Of course they are! There's no doubt about that!	芙洛可	那倒是没错，我敢说摆出来的每一件都是精品。	芙洛可	我對這些商品的品質相當有自信。
+SeasonalTalkEvent_003_004ID	18	Marie	マリー	んー、それならいっそ、色々混ぜて中身が\n分からないようにしちゃうのはどう？	Marie	Hmm... What if you added even more of them and made it so that you couldn't tell what you were getting?	玛莉	唔……干脆把它们混在一起，\n让人分不清里面放的什么，怎么样？	瑪莉	嗯～那乾脆把不同品項混在一起，\n讓客人不知道裡面有什麼。這樣如何？
+SeasonalTalkEvent_003_004ID	19	Wilbell	ウィルベル	へえ、なんか楽しそうじゃないそれ。\nくじ引きみたいで	Wilbell	Ooh, that sounds like fun. Kind of like a lottery.	薇尔贝儿	哦，这样挺好玩的嘛，\n像抽签一样。	薇爾貝兒	哦，聽起來很有趣耶。\n就像在抽籤一樣。
+SeasonalTalkEvent_003_004ID	20	Corneria	コルネリア	それ、いけるかもです	Corneria	That might actually work.	柯尔涅莉雅	这没准是个好主意。	柯爾涅莉雅	說不定這方法是可行的。
+SeasonalTalkEvent_003_004ID	21	Flocke	フロッケ	いいですね！　気分良くたくさん買ってもらえるよう\n奮発していきましょう！	Flocke	I really like it! Let's go all out so people get super into it and buy a whole bunch!	芙洛可	不错！我们多花些心思安排商品，\n让大家买得开心又满意吧！	芙洛可	聽起來不錯！我們一起努力\n讓客人開開心心地購物吧！
+SeasonalTalkEvent_003_004ID	22		コルネリア＆フロッケ	採用！	Corneria & Flocke	Agreed!	柯尔涅莉雅&芙洛可	就用这个方案了！	柯爾涅莉雅＆芙洛可	採用！
+SeasonalTalkEvent_003_004ID	23	Wilbell	ウィルベル	決まりね！　面白そうだし\nあたしも準備を手伝ってあげる	Wilbell	Well, that settles that! It sounds interesting, so I'll lend you a hand with the prep work.	薇尔贝儿	那就这么定了！听上去很有趣，\n我也来帮忙准备吧。	薇爾貝兒	就這麼決定了！\n聽起來很有趣，我也來幫忙吧。
+SeasonalTalkEvent_003_004ID	24	Marie	マリー	ふふっ。頑張ってね！	Marie	Heehee. Good luck with everything!	玛莉	呵呵，加油哦！	瑪莉	呵呵，加油哦！
+SeasonalTalkEvent_003_004ID	25	Resna	レスナ	あっ、そうだ。忘れるところでした。\n皆さんにはこれを！　手作りのお守りです	Resna	Whoops, almost forgot. You each get a handmade charm!	蕾斯娜	啊，我差点忘了。\n还要送给大家这个！这是手工制作的护身符。	蕾斯娜	啊，對了。差點忘了。\n這個給各位！是手工製護身符。
+SeasonalTalkEvent_003_004ID	26	Wilbell	ウィルベル	へえ、お守りかあ。どんなおまじないがかかってるの？	Wilbell	Huh, that's nice. What kind of charm is it?	薇尔贝儿	哦，是护身符啊。上面施了什么样的魔法？	薇爾貝兒	哦，護身符啊。裡面藏了什麼樣的祝福呢？
+SeasonalTalkEvent_003_004ID	27	Resna	レスナ	１年の幸福を願って作りました。\n皆さん、今年もよろしくお願いします！	Resna	We wished for a full year of happiness while we were making them! I hope this one is another great one!	蕾斯娜	是能让人幸福地度过一整年的魔法。\n各位，今年也请多指教！	蕾斯娜	這是一邊祈求大家整年的幸福一邊製作的。\n各位，今年也請多指教！
+SeasonalTalkEvent_003_004ID	28	Flocke	フロッケ	はい。よろしくお願いします！	Flocke	Yep, me too. Or even better!	芙洛可	嗯，请多指教！	芙洛可	沒問題。請多多指教。
+SeasonalTalkEvent_003_004ID	29	Corneria	コルネリア	私たちのためにこんな……ありがとうございます。\n何かお礼を考えておくです	Corneria	And you did all that for us? Thank you very much. I'll have to think of some way to return the favor.	柯尔涅莉雅	谢谢你为了我们如此花心思……\n我得想想送你什么回礼。	柯爾涅莉雅	竟然特地為了我們製作……謝謝妳。\n我來思考要拿什麼當作回禮。
+SeasonalTalkEvent_003_004ID	30	Resna	レスナ	そんな！　日々のお礼をしたいのは\nこちらのほうですよ	Resna	Please don't! I made it to repay you for everything you do for me! If anything, I still owe you!	蕾斯娜	不用客气！\n是我想感谢你们一直以来的帮助！	蕾斯娜	別這樣！\n我只是想對協助過我的各位表達感謝。
+SeasonalTalkEvent_003_004ID	31	Corneria	コルネリア	もらってばかりでは商人として気が済まないです。\n準備をしますので、待っててもらえますか？	Corneria	Still, as a merchant, it doesn't sit right with me to get things and give nothing in return. Would you mind waiting for me to put something together?	柯尔涅莉雅	单方面接受赠予可不符合商人的性格。\n我这就去准备，可以等我一下吗？	柯爾涅莉雅	身為一位商人無法只收不送。\n我去準備東西，妳能等我一下嗎？
+SeasonalTalkEvent_003_004ID	32	Flocke	フロッケ	受け取ってくださいね、レスナさん	Flocke	You really should just let her, Resna.	芙洛可	你就收下吧，蕾斯娜小姐。	芙洛可	蕾斯娜小姐，妳就收下吧。
+SeasonalTalkEvent_003_004ID	33	Resna	レスナ	わ、分かりました。\nえへへ、ありがとうございます	Resna	O-Okay, if you insist. Ehehe. Thanks!	蕾斯娜	好、好的。\n嘿嘿，谢谢你。	蕾斯娜	我、我明白了。\n嘿嘿，謝謝妳。
+SeasonalTalkEvent_003_004ID	34	Marie	マリー	（持ちつ持たれつ……\n　ふふ、レスナらしいわね）	Marie	(Getting back as much as she gives? Haha. That's so like Resna.)	玛莉	（互相帮衬……\n　呵呵，真有蕾斯娜的风格。）	瑪莉	（互助互惠……\n　呵呵，真像蕾斯娜會做的事。）
+SeasonalTalkEvent_003_004ID	35	Wilbell Voll-Ersleid	ウィルベル・フォル＝エルスリート	魔法使いの少女。\n懐が少し寂しいようで、商売には興味津々	Wilbell Voll-Ersleid	A young witch. Since her finances are stretched a little thin, she's keen on learning the ins and outs of commerce.	薇尔贝儿·沃·耶斯礼特	少女魔法师。\n似乎囊中羞涩，对做生意兴趣十足。	薇爾貝兒‧沃‧耶斯禮特	少女魔法師。\n生活有些拮据，對做生意十分有興趣。
+SeasonalTalkEvent_003_004ID	36	Corneria	コルネリア	王都を拠点に活動する商人。\n錬金術士でもあり、その力を店の経営にも活かしている	Corneria	A merchant who is based out of the capital. While she is an alchemist, she uses her store to make the most of her abilities.	柯尔涅莉雅	以王都为据点活动的商人。\n也是名炼金术士，用炼金术来辅助店铺经营。	柯爾涅莉雅	以王都為據點活動的商人。\n也是一名鍊金術士，她會將其力量運用在店鋪的經營上。
+SeasonalTalkEvent_003_004ID	37	Flocke Cerha	フロッケ・チェルハ	王都を拠点に行商を営む少女。\nヴァレリアたちと暮らしを共にしている	Flocke Cerha	A young woman whose business is based out of the capital. She lives with Valeria, Heidi, and Lanze.	芙洛可·契尔哈	以王都为据点经商的少女。\n与瓦莱莉娅等人共同生活。	芙洛可‧契爾哈	以王都為生意據點的行商小販少女。\n和瓦萊莉婭等人一同生活。
+SeasonalTalkEvent_003_005ID	0	Marie	マリー	――あ！　あれって……	Marie	Oh! That's...	玛莉	——啊！那是……	瑪莉	啊──！那是……
+SeasonalTalkEvent_003_005ID	1	Rorona	ロロナ	やっぱり新年といったら、お魚のパイだよ！	Rorona	When it comes to the New Year, fish pie is the right pie!	萝乐娜	提起新年就少不了鱼肉派呢！	蘿樂娜	果然新年就是少不了魚派！
+SeasonalTalkEvent_003_005ID	2	Iksel	イクセル	それ、いつもとどう違うんだよ？	Iksel	How's now any different from usual?	伊克赛尔	这跟平时卖的有什么不一样？	伊克賽爾	跟平常的不一樣嗎？
+SeasonalTalkEvent_003_005ID	3	Cordelia	クーデリア	特別な時期だもの。やっぱり特別な中身にしたいわよね	Cordelia	But it's a special season. At the very least, I'd like for us to use something fancy for the filling.	库蝶莉亚	现在正值佳节，所以好想放些特别的馅料啊。	庫蝶莉亞	畢竟是特殊節日嘛。內餡當然得特別一點才行。
+SeasonalTalkEvent_003_005ID	4	Resna	レスナ	皆さん、お会いできてよかったです！　まさに僥倖！	Resna	Thank my lucky stars! Our paths finally crossed!	蕾斯娜	各位，能在这里遇见你们，我的运气真是太好了！	蕾斯娜	各位，能遇見你們真是幸運！
+SeasonalTalkEvent_003_005ID	5	Iksel	イクセル	お、二人とも。なんだ、俺たちを探してたのか？	Iksel	Hey guys. Were you looking for us?	伊克赛尔	哦，怎么，你们两个是在找我们吗？	伊克賽爾	哦，兩位好。怎麼了？找我們有什麼事嗎？
+SeasonalTalkEvent_003_005ID	6	Marie	マリー	新年の挨拶をして回ってるのよ。\nカフェに行ったらお休みだって聞いたから	Marie	We've been going around doing our New Year's greetings. We were at the cafe earlier, but Ryza said you were both out.	玛莉	我们正在到处拜年，\n刚才去过了咖啡厅，结果听说你们今天休息。	瑪莉	我們在四處拜年。\n結果到了咖啡廳才聽說你們放假。
+SeasonalTalkEvent_003_005ID	7	Rorona	ロロナ	そうなんだ～。わざわざありがとね	Rorona	You were? Oh nooo! Thanks for going out of your way!	萝乐娜	这样啊，谢谢你们特意来找我们。	蘿樂娜	原來如此～抱歉讓妳們特地跑一趟。
+SeasonalTalkEvent_003_005ID	8	Resna	レスナ	お買い物に行く予定だったと聞きましたが、\n何を買いに？	Resna	She said that you were probably out shopping, but what for?	蕾斯娜	听说你们是出来买东西的，是要买什么呢？	蕾斯娜	聽說兩位要去買東西，\n你們打算買什麼呢？
+SeasonalTalkEvent_003_005ID	9	Rorona	ロロナ	わたしたち、\n「新年パイ」の材料を買いに来たんです	Rorona	The ingredients for New Year's Pie!	萝乐娜	我们是来买“新年派”的食材的。	蘿樂娜	我們來買\n「新年派」的材料。
+SeasonalTalkEvent_003_005ID	10	Marie	マリー	なるほど。ロロナらしいわね	Marie	I'd expect nothing less from you, Rorona.	玛莉	哦，不愧是萝乐娜。	瑪莉	原來如此。真像蘿樂娜會做的事。
+SeasonalTalkEvent_003_005ID	11	Cordelia	クーデリア	あたしはやっぱり、果物をふんだんに入れたパイが\n豪華でいいなって思うんだけど……	Cordelia	Usually, I'd say that fruit pies are the absolute best ones, but...	库蝶莉亚	我比较想做水果派，\n放入很多水果，馅料丰富又好吃……	庫蝶莉亞	我覺得塞滿水果的派\n看起來很豪華，超棒的……
+SeasonalTalkEvent_003_005ID	12	Iksel	イクセル	それって特別か？	Iksel	"Does that count as ""fancy""?"	伊克赛尔	但那样算特别吗？	伊克賽爾	那很特別嗎？
+SeasonalTalkEvent_003_005ID	13	Cordelia	クーデリア	じゃあ何なら特別なのよ？\nいーっぱい入れれば素敵じゃない？	Cordelia	Perhaps something peculiar then? Wouldn't it be lovely to have a pie that's bursting at the seams?	库蝶莉亚	那到底什么才算特别呀？\n放满了水果不是很好吗？	庫蝶莉亞	什麼樣的東西才叫特別？\n只要裝得滿～滿的不就很棒了？
+SeasonalTalkEvent_003_005ID	14	Resna	レスナ	それなら、何か年始らしく\nおめでたいものを入れるのはどうでしょうか？	Resna	What if you put in something celebratory for the new year?	蕾斯娜	放一些比较有新年气氛的喜庆东西怎么样？	蕾斯娜	既然如此，\n放點充滿過年氣氛的開運食材如何？
+SeasonalTalkEvent_003_005ID	15	Cordelia	クーデリア	おめでたいもの、ねぇ……	Cordelia	"""Celebratory,"" you say?"	库蝶莉亚	喜庆的东西……	庫蝶莉亞	開運食材啊……
+SeasonalTalkEvent_003_005ID	16	Iksel	イクセル	そういえば、ある地方に、めでたい意味を持つ食材を\n使った料理を年始に食べる風習があるらしいぞ	Iksel	Come to think of it, it's custom to eat dishes that have special meanings in some regions.	伊克赛尔	说起来，某些地区会在新年时\n用带有吉祥寓意的食材来做饭菜。	伊克賽爾	確實，聽說某個地區流傳著\n過年時食用開運料理的習俗。
+SeasonalTalkEvent_003_005ID	17	Iksel	イクセル	長寿を願う意味のあるエビとか、「まめに働く」って\n意味の語呂合わせで豆料理とかな。あとは――	Iksel	Like, shrimp are supposed to represent longevity. There are others based on colors or wordplay, like eating something gold or yellow to bring in more wealth.	伊克赛尔	吃笋代表节节高，\n吃鱼就代表年年有余，还有——	伊克賽爾	例如祈求長壽的蝦子、\n象徵「勤奮工作」的豆類料理等等。還有──
+SeasonalTalkEvent_003_005ID	18	Rorona	ロロナ	よーし。それ全部入れちゃおう！	Rorona	Okay! We'll put all of those auspicious things in!	萝乐娜	好，那就把有美好寓意的食材全塞进去吧！	蘿樂娜	好～把那些全部放進去吧！
+SeasonalTalkEvent_003_005ID	19	Cordelia	クーデリア	全部って、どういう味になるのよ……	Cordelia	Er, but how would that end up tasting?	库蝶莉亚	全塞进去？那会变成什么味道啊……	庫蝶莉亞	全部混在一起會變成什麼味道啊……
+SeasonalTalkEvent_003_005ID	20	Rorona	ロロナ	あ、そっか……	Rorona	Oh. Right. Probably not very good.	萝乐娜	啊，也对……	蘿樂娜	啊，對耶……
+SeasonalTalkEvent_003_005ID	21	Iksel	イクセル	１個のパイに全部入れることはねえだろ。\n小さいのをいくつも作って詰め合わせにしたらどうだ？	Iksel	What if you made a bunch of small ones instead of cramming them all into one pie?	伊克赛尔	应该没法往1个派里面塞进所有食材吧。\n分别做成小的派，然后切开拼在一起怎么样？	伊克賽爾	不可能全都塞到同一個派裡吧。\n不然做成幾個不同口味的派互相搭配，如何？
+SeasonalTalkEvent_003_005ID	22	Rorona	ロロナ	なるほど！　イクセくん天才！	Rorona	Yeah, that's it! Iksel, you're a genius!	萝乐娜	还能这样啊！伊克赛真是个天才！	蘿樂娜	原來如此！伊克賽是天才！
+SeasonalTalkEvent_003_005ID	23	Resna	レスナ	ふふっ、皆さん本当に仲がいいですね。\nそのやりとり、ずっと見ていたいです！	Resna	Heehee! You all get along so well! I could listen to you chat all day long!	蕾斯娜	呵呵，你们感情真好。\n好想一直看你们这么聊下去！	蕾斯娜	呵呵，大家感情真好。\n這種互動我永遠看不膩！
+SeasonalTalkEvent_003_005ID	24	Cordelia	クーデリア	ま、一応昔からの付き合いだから	Cordelia	Well, we have known each other for ages.	库蝶莉亚	我们毕竟认识很久了嘛。	庫蝶莉亞	畢竟認識很多年了。
+SeasonalTalkEvent_003_005ID	25	Marie	マリー	そういう気心の知れた関係っていいわよね	Marie	Those sorts of close friendships are really nice.	玛莉	这种融洽的关系可真令人羡慕。	瑪莉	這種心意相通的關係真棒呢！
+SeasonalTalkEvent_003_005ID	26	Iksel	イクセル	ま、気を遣わなくていいのは助かるな	Iksel	Not having to think too hard about it is handy, yeah.	伊克赛尔	嗯，说话不用顾忌是挺好的。	伊克賽爾	不用特地費心這點確實挺好的。
+SeasonalTalkEvent_003_005ID	27	Rorona	ロロナ	わたし、こっちの世界で二人に会えてなかったら\n寂しくて泣いちゃってたかも……	Rorona	If I hadn't met you both in this world, I would've been so lonely I'd have cried!	萝乐娜	我要是在这个世界里见不到你们俩，\n可能会寂寞得哭出来的……	蘿樂娜	要是我沒有在這邊的世界遇見兩位，\n我可能會難過得哭出來……
+SeasonalTalkEvent_003_005ID	28	Cordelia	クーデリア	というか、再会した時に泣いてたでしょ、あんたは	Cordelia	You did, though. Right when we met up again, in fact.	库蝶莉亚	你跟我们见面的时候也哭出来了吧。	庫蝶莉亞	妳和我們重逢的時候早就哭過了吧。
+SeasonalTalkEvent_003_005ID	29	Resna	レスナ	改めてになりますが、去年はありがとうございました。\n私のために歓迎会も開いていただいて……	Resna	Um, going back in the conversation, thank you for everything last year. Especially that welcome party that you threw for me!	蕾斯娜	借这个机会请让我正式说一句，感谢各位去年的照顾。\n谢谢你们为我举办了欢迎会……	蕾斯娜	我要再次感謝各位去年對我的照顧。\n甚至還替我舉辦歡迎會……
+SeasonalTalkEvent_003_005ID	30	Iksel	イクセル	別にいいって。俺たちも常連客が増えて嬉しいぜ	Iksel	That was nothing. Besides, we're always happy to get more cafe regulars.	伊克赛尔	这又没什么，多了一位常客我们也很高兴啊。	伊克賽爾	別客氣。我們也很高興常客又增加了。
+SeasonalTalkEvent_003_005ID	31	Resna	レスナ	今年もよろしくお願いしますね！	Resna	Well, you'll see me there even more often this year!	蕾斯娜	今年也请多关照！	蕾斯娜	今年也請各位多多指教！
+SeasonalTalkEvent_003_005ID	32	Marie	マリー	王都の中は大体回ったかしら？	Marie	Have we finished our tour of the capital?	玛莉	王都里头已经逛得差不多了吧？	瑪莉	王都大致上逛完了吧？
+SeasonalTalkEvent_003_005ID	33	Resna	レスナ	はい。なので次は……里帰りします！	Resna	Yep! So for now, we'll...go back to my village!	蕾斯娜	嗯，那接下来……该回家了！	蕾斯娜	是的。所以接下來……要返鄉！
+SeasonalTalkEvent_003_005ID	34	Rorolina Frixell	ロロライナ・フリクセル	通称「ロロナ」。パイを作るのが好きな錬金術士。\nカフェ「星の繭」で働いている	Rorolina Frixell	"An alchemist who adores making pies, whose nickname is ""Rorona."" She currently works at the Star's Cocoon."	萝乐莱娜·菲立克塞尔	人称“萝乐娜”。爱好烤派的炼金术士。\n在咖啡厅“星之茧”工作。	蘿樂萊娜‧菲立克塞爾	人稱「蘿樂娜」。喜歡做派的鍊金術士。\n在咖啡廳「星之繭」工作。
+SeasonalTalkEvent_003_005ID	35	Iksel Jahnn	イクセル・ヤーン	ロロナの幼馴染。カフェ「星の繭」では料理担当。\n料理やその素材へのこだわりが強く、熱血漢	Iksel Jahnn	Rorona's childhood friend, and a chef at the Star's Cocoon. Obsessed with ingredients and materials, he's quick to get fired up about things.	伊克赛尔·杨	萝乐娜的青梅竹马，在咖啡厅“星之茧”担任厨师。\n对料理和食材很有讲究，是一名热血男子汉。	伊克賽爾‧楊	蘿樂娜的兒時玩伴。在咖啡廳「星之繭」中負責做料理。\n對料理及使用的素材十分講究，是位熱血男子漢。
+SeasonalTalkEvent_003_005ID	36	Cordelia von Feuerbach	クーデリア・フォン・フォイエルバッハ	ロロナの幼馴染で、貴族の令嬢。\n少し怒りっぽいが、ロロナのことを気にかけている	Cordelia von Feuerbach	Rorona's childhood friend, and a member of the aristocracy. She can be a little snappy, but she cares deeply about Rorona.	库蝶莉亚·冯·费尔巴哈	萝乐娜的儿时玩伴，贵族家庭的大小姐。\n有些易怒，但很关心萝乐娜。	庫蝶莉亞‧馮‧費爾巴哈	蘿樂娜的兒時玩伴，是貴族的千金。\n稍微有些易怒，但很關心蘿樂娜。
+SeasonalTalkEvent_003_006ID	0	Resna	レスナ	イザナちゃん、明けましておめでとう！	Resna	Izana! Happy New Year!	蕾斯娜	伊札娜，新年快乐！	蕾斯娜	伊札娜，新年快樂！
+SeasonalTalkEvent_003_006ID	1	Izana	イザナ	明けましておめでとう！\n毎年お守りありがとね、レスナちゃん	Izana	Happy New Year to you too! Thanks for the good luck charms every year, Resna.	伊札娜	新年快乐！\n谢谢你每年都送我护身符，蕾斯娜。	伊札娜	新年快樂！\n蕾斯娜，謝謝妳每年都送我護身符。
+SeasonalTalkEvent_003_006ID	2	Marie	マリー	イザナは実家のお手伝い中って聞いたけど……	Marie	I heard that you're helping out back at home, Izana?	玛莉	我听说伊札娜在帮老家的店里干活……	瑪莉	聽說伊札娜正在老家幫忙……
+SeasonalTalkEvent_003_006ID	3	Izana	イザナ	うん、この時期はうちの鍛冶屋も忙しくてね。\n新年だからって、金物を新調するお客さんが多いんだよ	Izana	Yeah, this is a super busy time for our smithy. Everyone's looking to get their utensils and stuff fixed up for the start of the year.	伊札娜	嗯，我老家是铁匠铺，这时候总是特别忙。\n有很多客人会在新年置办许多金属器具。	伊札娜	嗯，最近我們家的鐵匠鋪變得很忙碌。\n許多客人會趁過年購買新的鐵器。
+SeasonalTalkEvent_003_006ID	4	Izana	イザナ	お父さんは「心配するな」って言ってたけど、\nやっぱり気になるから	Izana	My dad told me not to worry about it, but I just can't help it!	伊札娜	我爸爸让我别担心，\n但我肯定不能放着不管嘛。	伊札娜	雖然爸爸叫我不要擔心，\n但我還是很在意。
+SeasonalTalkEvent_003_006ID	5	Marie	マリー	レスナたちは村を出てからは初めての年越しなのよね	Marie	And this is your first New Year's since setting out from your village, right?	玛莉	这是蕾斯娜你们离开村子后过的第一个新年吧。	瑪莉	這是妳們離開村子後第一次過年，對吧？
+SeasonalTalkEvent_003_006ID	6	Izana	イザナ	なんだか旅に出たのがつい昨日みたいだよ。\nあっという間だったなあ	Izana	Wow, that almost feels like it was yesterday. The past year went by so quickly.	伊札娜	感觉踏上旅程就像昨天的事一样。\n真是时光飞逝啊。	伊札娜	總覺得踏上旅途好像是昨天的事。\n時間一眨眼就過去了。
+SeasonalTalkEvent_003_006ID	7	Resna	レスナ	本当、短い間に色んなことがあったよね	Resna	A lot sure happened in not a lot of time, huh?	蕾斯娜	这短短一段时间里真的发生了好多事啊。	蕾斯娜	真的，短時間內發生了好多事啊。
+SeasonalTalkEvent_003_006ID	8	Resna	レスナ	お店のほうは大丈夫そう？　何か手伝うことある？	Resna	How about the store? Do you need any help there?	蕾斯娜	你家的店还好吧？有什么要帮忙的事吗？	蕾斯娜	店裡還好嗎？需要幫忙嗎？
+SeasonalTalkEvent_003_006ID	9	Izana	イザナ	大丈夫。弟もいるし。それより、「あっち」を\n手伝ってあげたほうがいいかも……	Izana	Nah, my little brother's got it covered. If anything, THOSE folks need the most help.	伊札娜	没事的，我弟弟也在。\n与其关心我，或许帮帮“那边”更要紧……	伊札娜	別擔心。我弟弟也在。比起這裡，\n也許「那邊」比較需要協助……
+SeasonalTalkEvent_003_006ID	10	Marie	マリー	あっち……？	Marie	Who?	玛莉	那边……？	瑪莉	那邊……？
+SeasonalTalkEvent_003_006ID	11	Heidi	ハイディ	ヴァレリアー！　このへんのゴミをまとめてくれる？	Heidi	Valeria! Could you gather up all the trash over here?	海蒂	瓦莱莉娅！你能帮忙收拾一下这附近的垃圾吗？	海蒂	瓦萊莉婭～！能幫我打包這邊的垃圾嗎？
+SeasonalTalkEvent_003_006ID	12	Valeria	ヴァレリア	ん。分かったわ。それぐらいなら、この私でも！	Valeria	Yep, sure thing. Even I can handle that much!	瓦莱莉娅	嗯，我知道了。这点小事我还是能做到的！	瓦萊莉婭	嗯。知道了。這點小事交給我吧！
+SeasonalTalkEvent_003_006ID	13	Lanze	ランツェ	おい洗濯物はこれだけか？　いーんだな？\n俺はちゃんと確認したぞ	Lanze	This's all the laundry, right? 'Cause this is your last call! I ain't askin' again!	兰泽	喂，要洗的东西就这些？确定是吧？\n我可是问过你们了啊。	藍澤	喂，要洗的衣服只有這些？確定嗎？\n我都一一問過了喔。
+SeasonalTalkEvent_003_006ID	14	Valeria	ヴァレリア	あ！　私のがまだ奥にあるかも……	Valeria	Oh! Hang on, I think I've got one more thing in the back.	瓦莱莉娅	啊！我的好像还在里边……	瓦萊莉婭	啊！裡面好像還有我的……
+SeasonalTalkEvent_003_006ID	15	Heidi	ハイディ	あんたのは私がちゃーんと管理してるから大丈夫	Heidi	Don't worry! I made sure to grab your stuff, too!	海蒂	你的东西我都安排好了，你就别操心了。	海蒂	妳的東西我都管理得好好的，別擔心。
+SeasonalTalkEvent_003_006ID	16	Valeria	ヴァレリア	さすが相棒ね！	Valeria	You're the best, partner!	瓦莱莉娅	不愧是我的搭档！	瓦萊莉婭	真不愧是我的好搭檔！
+SeasonalTalkEvent_003_006ID	17	Lanze	ランツェ	それぐらいは自分でやるもんだろうが！\nおじさんだってやってるんだぞ！	Lanze	C'mon, you should be able to manage that on your own! Even I can keep track of my own socks!	兰泽	这点事还是自己做才对吧！\n大叔我可都是自己干的啊！	藍澤	這點小事應該要自行負責吧！\n就連叔叔我也是自己來耶！
+SeasonalTalkEvent_003_006ID	18	Resna	レスナ	ヴァレリアー！　皆さーん！	Resna	Hellooo! Valeria!	蕾斯娜	瓦莱莉娅！各位！	蕾斯娜	瓦萊莉婭～！各位～！
+SeasonalTalkEvent_003_006ID	19	Valeria	ヴァレリア	レスナ！　マルローネ！　いらっしゃい！	Valeria	Resna! And Marlone, too! Come on in!	瓦莱莉娅	蕾斯娜、玛洛娜！欢迎光临！	瓦萊莉婭	蕾斯娜！瑪洛娜！歡迎！
+SeasonalTalkEvent_003_006ID	20	Marie	マリー	な、なんだか忙しそうね	Marie	You three look awfully busy.	玛莉	感觉……你们好忙啊。	瑪莉	你、你們好像很忙呢。
+SeasonalTalkEvent_003_006ID	21	Heidi	ハイディ	見ての通りどったんばったん大掃除中なんだ	Heidi	As you can see, we're up to our necks in cleaning.	海蒂	如你所见，我们正在手忙脚乱地大扫除呢。	海蒂	如妳所見，我們正在手忙腳亂地大掃除。
+SeasonalTalkEvent_003_006ID	22	Heidi	ハイディ	ホントは年末までに終わらせて気持ちよく新年を\n迎えたかったんだけど……仕事が立て込んでたからね	Heidi	It would've been nice to get this all out of the way before the new year so we could start fresh, but we just got caught up in work.	海蒂	其实本想在去年内做完，干净整洁地迎接新年……\n结果工作太多给耽误了。	海蒂	本來打算在年底前完成打掃，舒服地迎接新年……\n但工作卻又多了起來。
+SeasonalTalkEvent_003_006ID	23	Lanze	ランツェ	年の初めくらいゆっくりしたいってのが本音だが……	Lanze	Look, I get wantin' to laze around over the holidays, but...	兰泽	说句实话，难得的新年我根本不想干活只想躺着……	藍澤	我其實也想悠哉地度過新年……
+SeasonalTalkEvent_003_006ID	24	Lanze	ランツェ	新年早々、働きに出てる天使ちゃんのためにも、\nこれくらいはやらねえとな	Lanze	We owe our hard-workin' angel at least this much. She's already off doin' business, the little go-getter!	兰泽	但小天使她刚一开年就开始勤奋工作了，\n这点小事我总得帮帮忙。	藍澤	但小天使可是一過完年就早早出門工作，\n這點家事還是讓我們來吧。
+SeasonalTalkEvent_003_006ID	25	Resna	レスナ	あの、よかったら手伝いますよ？	Resna	Um, would you like any help?	蕾斯娜	如果你们需要的话，我可以帮忙哦？	蕾斯娜	那個……需要的話，我可以幫忙喔！
+SeasonalTalkEvent_003_006ID	26	Heidi	ハイディ	ありがたい申し出だけど……でも、大丈夫。\n私たちの家だし、私たちだけで終わらせるよ	Heidi	As much as I'd like to take you up on that... Thanks, but we'll manage. It's our house, so it's our problem.	海蒂	谢谢你这么说……不过不用了。\n这是我们的家，我想靠我们自己完成大扫除。	海蒂	應該不用……但還是謝謝妳的好意。\n畢竟這是我們的家，必須自行收拾。
+SeasonalTalkEvent_003_006ID	27	Lanze	ランツェ	このくらいは俺たちだけで片付けられねえと、\n今後やっていけるか不安だしなぁ	Lanze	Seriously, if we can't handle this much cleanin', then I'm gonna start worryin' about our future.	兰泽	要是我们自己连这点事都处理不好，\n那我可要担心今后能不能生活下去了。	藍澤	要是連這點東西都無法處理，\n未來應該會過得很慘吧。
+SeasonalTalkEvent_003_006ID	28	Heidi	ハイディ	頼むよお父さん、娘三人、抱えてるんだから。\n特に一人は食べ盛りで	Heidi	Your three daughters are counting on you, pops! Especially your growing girl with the massive appetite.	海蒂	拜托你啦爸爸，你可是有三个女儿要养呢。\n其中一个女儿还特别能吃。	海蒂	老爸，拜託了。你可是擁有三位女兒呢。\n而且還有一位食量特別大。
+SeasonalTalkEvent_003_006ID	29	Lanze	ランツェ	意気込みは十分だぜ。身体持ってくれよ	Lanze	Well, the enthusiasm's what matters. I'll handle the physical stuff.	兰泽	我的精神上干劲十足，只希望身体能坚持住！	藍澤	我現在衝勁十足。但身體要撐住啊。
+SeasonalTalkEvent_003_006ID	30	Resna	レスナ	じゃあ、健康祈願も込めて……\nこちらをどうぞ！	Resna	Then, with your good health in mind... Here! Take one of these!	蕾斯娜	那我也祝你们身体健康……\n请收下这个！	蕾斯娜	希望你能健健康康……\n請收下這個！
+SeasonalTalkEvent_003_006ID	31	Valeria	ヴァレリア	なになに？　食べ物！？　甘い？　辛い？	Valeria	Oooh, what's that? Can I eat it?! Is it sweet? Spicy?	瓦莱莉娅	这是什么？吃的吗？甜的还是辣的？	瓦萊莉婭	什麼？可以吃嗎！？是甜的？還是辣的？
+SeasonalTalkEvent_003_006ID	32	Resna	レスナ	た、食べられるようにしたほうがよかったかな？	Resna	Um, should I have made them edible?	蕾斯娜	我、我是不是应该把它做成吃的比较好？	蕾斯娜	咦？是不是做成吃的比較好？
+SeasonalTalkEvent_003_006ID	33	Heidi	ハイディ	がっつくんじゃありません。めっ！\nこれ、お守りだよね？	Heidi	Hey! Don't go getting greedy! These are good luck charms, right?	海蒂	别什么时候都想着吃！\n这是护身符吧？	海蒂	別那麼貪吃！\n這是護身符對吧？
+SeasonalTalkEvent_003_006ID	34	Marie	マリー	そう。１年の幸福を願うお手製のお守りよ	Marie	Yep! They're handmade and packed with wishes for a good year!	玛莉	是的，它是手工制作的，能保佑佩戴者度过幸福的一年。	瑪莉	沒錯。希望各位在這一年能過得很幸福。
+SeasonalTalkEvent_003_006ID	35	Lanze	ランツェ	おぉ、わざわざすまねぇな。\nレスナたちには世話になりっぱなしでよ	Lanze	Well, ain't that somethin'! You didn't need to go outta your way like that when you've already been such a huge help.	兰泽	哦，还特地做给我们了啊，太麻烦你了。\n我们简直数不清受了蕾斯娜你们多少关照啊。	藍澤	哦，抱歉讓妳們費心了。\n我總是受到蕾斯娜妳們的幫助。
+SeasonalTalkEvent_003_006ID	36	Resna	レスナ	それより、私のせいで大変なことに\n巻き込んでしまったような……	Resna	But, because of me, you ended up in such a dangerous situation...	蕾斯娜	但你们也曾因为被我牵连陷入过大危机……	蕾斯娜	不過，\n我好像害你們吃了不少苦頭……
+SeasonalTalkEvent_003_006ID	37	Valeria	ヴァレリア	レスナは悪くないわよ	Valeria	That wasn't your fault, Resna.	瓦莱莉娅	那又不是蕾斯娜的错。	瓦萊莉婭	那不是蕾斯娜的錯。
+SeasonalTalkEvent_003_006ID	38	Lanze	ランツェ	むしろ、俺たちは救われたって気がしてるぜ。\nあのままじゃ、どのみちダメになってた	Lanze	If anythin', you saved our skins. We'd have been goners otherwise.	兰泽	倒不如说是你救了我们。\n毕竟当时要不是你，我们可就遭重了。	藍澤	我們反而覺得被拯救了。\n因為本來就已經陷入走投無路的狀態。
+SeasonalTalkEvent_003_006ID	39	Heidi	ハイディ	二人とも、私たちのために必死で戦ってくれたじゃん。\n本当、ありがとうって思ってるよ	Heidi	You both stepped in and fought your buns off for us. I'm really, really grateful for that.	海蒂	两位都为了我们拼了命战斗过。\n真的很感谢你们。	海蒂	妳們不是為了我們用盡全力戰鬥嗎？\n我真的很感謝妳們。
+SeasonalTalkEvent_003_006ID	40	Lanze	ランツェ	今年はその恩を返していかねえとな。\nおじさんの恩返しだ	Lanze	We're gonna pay ya back for that this year. Sailor's honor.	兰泽	今年得回报这份恩情才是。\n这是大叔我的报恩。	藍澤	今年得好好回報這份恩情才行。\n這可是「叔叔的報恩」。
+SeasonalTalkEvent_003_006ID	41	Heidi	ハイディ	うん。流れ星に誓うよ	Heidi	Yep. We swear it on the stars.	海蒂	嗯，向流星起誓。	海蒂	嗯。向流星發誓。
+SeasonalTalkEvent_003_006ID	42	Valeria	ヴァレリア	今年もよろしくね！	Valeria	Let's have another great year!	瓦莱莉娅	今年也请多关照！	瓦萊莉婭	今年也請多指教囉！
+SeasonalTalkEvent_003_006ID	43	Izana Kokoschka	イザナ・ココシュカ	レスナの幼馴染で、共に旅に出た仲。\n鍛冶屋の娘で、ハンマーには強いこだわりを持っている	Izana Kokoschka	Resna's childhood friend and traveling companion. The daughter of a blacksmith, she's a fervent fan of hammers.	伊札娜·柯克西卡	蕾斯娜的儿时玩伴，两人相伴踏上旅途。\n家里经营铁匠铺，善使锤子，时时追求精进锤技。	伊札娜‧柯克西卡	蕾斯娜的兒時玩伴，也是一起旅行的旅伴。\n身為鐵匠的女兒，對錘子特別講究。
+SeasonalTalkEvent_003_006ID	44	Heidi	ハイディ	一発逆転の人生を夢見る冒険者。\nヴァレリアの相棒として、戦術面を担当している	Heidi	An adventurer who dreams of turning her life around. Valeria's partner, and the general brains of the operation.	海蒂	梦想逆风翻盘的冒险者。\n是瓦莱莉娅的搭档，负责拟定战术。	海蒂	夢想一舉逆轉人生的冒險者。\n身為瓦萊莉婭的搭檔，負責擬定戰術。
+SeasonalTalkEvent_003_006ID	45	Valeria	ヴァレリア	並外れた戦闘能力を持ちながら、無邪気で食い意地の\n張った少女。レスナはかけがえのない友人である	Valeria	A young woman with exceptional combat skills and a one-track mind that runs straight to her stomach. Resna's irreplaceable friend.	瓦莱莉娅	拥有超常战斗能力的少女，但性格天真，很贪吃。\n蕾斯娜是她无可替代的朋友。	瓦萊莉婭	擁有超群的戰鬥能力。\n同時也是位天真無邪的大胃王少女。\n對她來說，蕾斯娜是無可取代的朋友。
+SeasonalTalkEvent_003_006ID	46	Lanze Dach	ランツェ・ダッハ	いざと言うときに頼れる元船乗り。\nヴァレリア、ハイディ、フロッケと行動を共にする	Lanze Dach	An ex-sailor who can be counted on in a pinch. Keeps an eye on Valeria, Heidi, and Flocke.	兰泽·达赫	到了关键时刻从不掉链子的前水手。\n与瓦莱莉娅、海蒂、芙洛可共同行动。	藍澤‧達赫	緊要關頭很可靠的前水手。\n和瓦萊莉婭、海蒂、芙洛可共同行動。
+SeasonalTalkEvent_003_007ID	0	Marie	マリー	とりあえず手近な所は回り終えたかしら？	Marie	Was that all of the visits in this area?	玛莉	这下这附近也都走访过一遍了吧？	瑪莉	總之我們已經把附近逛完了，對嗎？
+SeasonalTalkEvent_003_007ID	1	Resna	レスナ	そうですね……あ！	Resna	Yeah, I think so... Oh!	蕾斯娜	是的……啊！	蕾斯娜	是的……啊！
+SeasonalTalkEvent_003_007ID	2	Resna	レスナ	マリオンさん！	Resna	Marion!	蕾斯娜	玛丽翁小姐！	蕾斯娜	瑪麗翁小姐！
+SeasonalTalkEvent_003_007ID	3	Marion	マリオン	あら、レスナ。マルローネも	Marion	Goodness, it's Resna. Marlone too, I see.	玛丽翁	哎呀，是蕾斯娜，玛洛娜也在啊。	瑪麗翁	哎呀，是蕾斯娜。瑪洛娜也在。
+SeasonalTalkEvent_003_007ID	4	Resna	レスナ	新年、明けましておめでとうございます。\n今年もよろしくお願いします！	Resna	The happiest of New Year's to you! I hope this year is a good one!	蕾斯娜	新年快乐！\n今年也请多关照！	蕾斯娜	新年快樂。\n今年也請多多指教！
+SeasonalTalkEvent_003_007ID	5	Marion	マリオン	あら、ご丁寧にありがとう	Marion	My, how polite. Thank you for the consideration.	玛丽翁	这么客气呀，谢谢你。	瑪麗翁	哎呀，謝謝妳這麼用心。
+SeasonalTalkEvent_003_007ID	6	Resna	レスナ	いつもアトリエの管理のお手伝い、\nありがとうございます。本当に助かってます	Resna	Thank YOU so much for minding the atelier's documents and stuff. It's a really big help!	蕾斯娜	感谢你一直帮忙管理炼金工房，\n帮了我们很多。	蕾斯娜	感謝妳一直以來\n協助管理鍊金工房。真的幫了我很大的忙。
+SeasonalTalkEvent_003_007ID	7	Marion	マリオン	どういたしまして。\nまあ、こっちも結構楽しくやらせてもらってるわよ	Marion	You're quite welcome. Besides, it isn't terribly taxing work.	玛丽翁	不客气。\n我干得也挺开心的。	瑪麗翁	不客氣。\n我其實也做得很開心哦。
+SeasonalTalkEvent_003_007ID	8	Marion	マリオン	まあ、もう少し整理整頓の意識を持ってもらえると\nありがたいけど。ね、マルローネ	Marion	Though, I would appreciate it if you ladies kept things a little tidier. Wouldn't you agree, Marlone?	玛丽翁	不过要是你们能有点保持整洁的意识就更好了，\n对吧，玛洛娜。	瑪麗翁	不過，要是妳能多留意整潔一點，\n我會更開心。對吧？瑪洛娜。
+SeasonalTalkEvent_003_007ID	9	Marie	マリー	うう、ごめんなさい……今年は頑張ります	Marie	Um... I'm sorry, I'll try to do better this year.	玛莉	呜，对不起……我今年会努力的。	瑪莉	唔唔，對不起……我今年會努力。
+SeasonalTalkEvent_003_007ID	10	Resna	レスナ	それから、このお守りも……あれ？\nマリオンさん、それって	Resna	Also, I'd like you to have this cha... Huh? Marion, is that...?	蕾斯娜	对了，还要送你这个护身符……\n咦？玛丽翁小姐，那个是……	蕾斯娜	還有，這個護身符也……咦？\n瑪麗翁小姐，那是？
+SeasonalTalkEvent_003_007ID	11	Marion	マリオン	ああ、これ。さっきザスキアさんからもらったのよ。\nもしかして、レスナも同じものを配ってるの？	Marion	Oh, this? I just got it from Saskia. I take it you're distributing similar ones?	玛丽翁	啊，你说这个啊，是萨丝琪亚小姐刚才给我的。\n莫非蕾斯娜也在发放一样的东西？	瑪麗翁	哦，這個呀。是剛才薩絲琪亞小姐給我的。\n蕾斯娜，妳該不會也在發一樣的東西吧？
+SeasonalTalkEvent_003_007ID	12	Resna	レスナ	あ、はい。そうです	Resna	Um, yes. That's right.	蕾斯娜	啊，是的。	蕾斯娜	啊，是的。沒錯。
+SeasonalTalkEvent_003_007ID	13	Marie	マリー	先を越されちゃったわね。\nって、どっちが先でも関係ないか	Marie	I guess she beat you to the punch, huh? Well, not that it matters who was first.	玛莉	被抢先了啊。\n不对，又不是在竞争什么。	瑪莉	被搶先了呢。\n不過，先後順序其實沒那麼重要。
+SeasonalTalkEvent_003_007ID	14	Resna	レスナ	あの、私の分も……もらっていただけますか？	Resna	Um, would you mind if I gave you one of mine too?	蕾斯娜	请问……我也想送给你一个，你愿意收下吗？	蕾斯娜	那，妳也能……收下我的嗎？
+SeasonalTalkEvent_003_007ID	15	Marion	マリオン	もちろんいただくわ。ありがとう、レスナ	Marion	Of course not. Thank you, Resna.	玛丽翁	当然可以啦。谢谢你，蕾斯娜。	瑪麗翁	當然可以呀。謝謝妳，蕾斯娜。
+SeasonalTalkEvent_003_007ID	16	Marion	マリオン	でも、みんなに配るとなると、なかなか大変よね。\n進捗状況はどう？	Marion	Still, delivering them all must be a formidable task. How is that going so far?	玛丽翁	不过，你要分发给所有人的话肯定很累吧。\n发得怎么样了？	瑪麗翁	不過，要發這些給大家應該很辛苦吧。\n進度如何？
+SeasonalTalkEvent_003_007ID	17	Resna	レスナ	ひとまず王都やフリーゲンのほうは\n一通り回りました	Resna	We've done our rounds in Friegen and the capital.	蕾斯娜	王都和弗里根一带已经逛过一圈了。	蕾斯娜	已經繞了王都和弗里岡一圈了。
+SeasonalTalkEvent_003_007ID	18	Resna	レスナ	あとは街の外や他の州にいる皆さんの所へも\nうかがいたいと思っているのですが……	Resna	All that's left are the people in areas outside of towns or in other regions. And as much as I'd like to go hand them out in person...	蕾斯娜	另外我还想送给住在城镇外，\n还有去了其他州的朋友们……	蕾斯娜	接下來還想到鎮外\n以及其他州拜訪大家……
+SeasonalTalkEvent_003_007ID	19	Resna	レスナ	足取りを把握しきれてはいないので、難しければ\nまたアトリエにいらっしゃった時に渡そうかと	Resna	A lot of them have moved, and I'm not sure where to. So I was thinking I could just wait until they come back to visit the atelier.	蕾斯娜	不过我也不清楚每个人都在哪里，\n实在不行，就在他们来炼金工房时再送。	蕾斯娜	但我尚未掌握大家的行蹤。\n所以如果有困難，我打算等他們來鍊金工房時再送出去。
+SeasonalTalkEvent_003_007ID	20	Marie	マリー	まあ、そうよね。\nそれぞれ行きたい場所もやりたいことも違うわけだし	Marie	That's sensible enough. Most wanderers have different places they want to go and different things they want to do.	玛莉	是个问题呢。\n大家都有各自想去的地方和想做的事。	瑪莉	嗯，也是。\n畢竟大家都有各自的目標和目的地。
+SeasonalTalkEvent_003_007ID	21	Marion	マリオン	私が把握している分でよければ教えてあげるわよ。\n調査結果もだいぶ集まってきたの	Marion	I might be able to point you in the right direction for some of them. I've made a fair bit of progress on my research, after all.	玛丽翁	我来告诉你我掌握到的情报吧？\n调查已经收获颇丰了。	瑪麗翁	有需要的話，我可以告訴妳我掌握到的動向。\n目前已經蒐集到不少情報了。
+SeasonalTalkEvent_003_007ID	22	Resna	レスナ	あ……そういえば、マリオンさんは異邦人の方々の\n情報を集めているんでしたね！	Resna	Oh right! You've been collecting information about the wanderers!	蕾斯娜	啊……说起来，\n玛丽翁小姐在调查异邦人的事是吧！	蕾斯娜	啊……這麼一說，\n瑪麗翁小姐會蒐集異邦人的情報，對吧？
+SeasonalTalkEvent_003_007ID	23	Marion	マリオン	少し情報が古いものもあるかもしれないけど、\nよかったら参考にしてちょうだい	Marion	It might be slightly out of date at this point, but you're welcome to take a look.	玛丽翁	一部分情报可能会有点过时，\n你要是不嫌弃就参考一下吧。	瑪麗翁	裡面可能摻雜了一些比較舊的資訊。\n不介意的話，請拿去參考。
+SeasonalTalkEvent_003_007ID	24	Resna	レスナ	ありがとうございます！　とても助かります！	Resna	Thank you very much! That would be super helpful!	蕾斯娜	谢谢你，帮大忙了！	蕾斯娜	謝謝妳！真是幫大忙了！
+SeasonalTalkEvent_003_007ID	25	Marie	マリー	よーし、それじゃみんなに会いに行きますか！	Marie	Okay! Then we'll be able to go visit even more people!	玛莉	好了，快点出发去问候大家吧！	瑪莉	好～那就去拜訪大家吧！
+SeasonalTalkEvent_003_007ID	26	Resna	レスナ	はい！　それで、皆さんにもお守りを……	Resna	Yeah! And we can give them their very own char—	蕾斯娜	好的！还要把护身符送给……	蕾斯娜	嗯！然後還要把護身符送給他們……
+SeasonalTalkEvent_003_007ID	27	Resna	レスナ	…………！？　これはしたり！\nなんということを……！	Resna	Oh no! How did this happen?!	蕾斯娜	……？！这下糟了！\n怎么会这样……！	蕾斯娜	…………！？這下子糟糕了！\n大事不妙……！
+SeasonalTalkEvent_003_007ID	28	Marie	マリー	どしたの？	Marie	What's the matter?	玛莉	怎么了？	瑪莉	怎麼了？
+SeasonalTalkEvent_003_007ID	29	Resna	レスナ	お守りの残り、もうこれだけしか……	Resna	These are all the charms we have left.	蕾斯娜	护身符只剩这么点了……	蕾斯娜	護身符只剩下這些了……
+SeasonalTalkEvent_003_007ID	30	Marie	マリー	嘘、もうそんなに配っちゃったんだっけ	Marie	No! We really gave out that many?	玛莉	不是吧，已经送出去那么多了吗？	瑪莉	不會吧！我們已經送掉這麼多了嗎？
+SeasonalTalkEvent_003_007ID	31	Resna	レスナ	移動中にどこかで落としてしまったのかもしれません。\nまだ挨拶したい人、いるのに……	Resna	I might have dropped some while we were out and about. *Sigh* And there were still a bunch of people I wanted to greet, too.	蕾斯娜	也可能是途中掉在什么地方了。\n我还有其他想问候的人啊……	蕾斯娜	可能是移動時不小心掉在別地方了。\n我們還有沒拜到年的人耶……
+SeasonalTalkEvent_003_007ID	32	Marion	マリオン	……そういえば。さっきザスキアさんが来た時、\nこれをあなたに渡してくれって言われたのよ	Marion	That reminds me. When Saskia came to visit, she asked me to give this to you.	玛丽翁	……说起来，刚才碰到萨丝琪亚小姐的时候，\n她让我把这个给你。	瑪麗翁	……對了。剛才薩絲琪亞來的時候，\n要我把這個交給妳。
+SeasonalTalkEvent_003_007ID	33	Resna	レスナ	え？　これって……	Resna	Huh? It's...	蕾斯娜	咦？这是……	蕾斯娜	咦？這是……
+SeasonalTalkEvent_003_007ID	34	Marie	マリー	錬金術のレシピ、よね……	Marie	An alchemy recipe.	玛莉	这是炼金术的配方吧……	瑪莉	應該是鍊金術的配方吧……
+SeasonalTalkEvent_003_007ID	35	Resna	レスナ	これ……お守りのレシピですよ！\n師匠と一緒に調合した時のと同じです	Resna	This shows how to make the charms! It's exactly the same process as when we were synthesizing them together!	蕾斯娜	这是……做护身符的配方！\n跟我和师父一起调合时的配方是一样的！	蕾斯娜	這是……護身符的配方！\n這個配方和我跟師父一起調合時的一樣。
+SeasonalTalkEvent_003_007ID	36	Marie	マリー	ご丁寧に素材が採れる場所まで書いてあるわね	Marie	Wow, it even lists where to get all the materials, too.	玛莉	她还细心地写下了能采集到素材的地点哦。	瑪莉	她還很貼心地寫上了能採集到素材的地方呢。
+SeasonalTalkEvent_003_007ID	37	Marion	マリオン	ザスキアさんは「もし必要になったら」って\n言ってたけど、そういうことだったのね	Marion	"So that's what she meant when said she was leaving it behind ""just in case."""	玛丽翁	萨丝琪亚小姐说“以备不时之需”，\n指的就是现在的情况吧。	瑪麗翁	薩絲琪亞說的「有需要可以用」，\n原來是這麼回事啊。
+SeasonalTalkEvent_003_007ID	38	Resna	レスナ	師匠……！　ありがとうございます！\n今後、こういうことがないよう自らを戒めます	Resna	Oh, I can't thank Miss Saskia enough! I'll have to make sure that this never happens again, though.	蕾斯娜	师父……！谢谢你！\n今后我会时刻谨记，不再犯同样的错。	蕾斯娜	師父……！太感謝妳了！\n我今後會警惕自己，不再犯這種錯了。
+SeasonalTalkEvent_003_007ID	39	Marie	マリー	早速、素材を集めましょう。あたしも手伝うわよ	Marie	Let's hurry up and get those materials! I'll lend a hand.	玛莉	那就赶快去收集素材吧，我也会帮忙的。	瑪莉	我們趕快去蒐集素材吧。我也來一起幫忙。
+SeasonalTalkEvent_003_007ID	40	Marion Quinn	マリオン・クィン	「異邦人」の調査に取り組む仕事人間。\n大人として、様々な面でレスナたちを支援してくれる	Marion Quinn	A workaholic in the midst of compiling research on her fellow wanderers. A seasoned adult, she helps Resna and the others where she can.	玛丽翁·昆恩	调查“异邦人”的工作人员。\n作为成年人，在各方面支援着蕾斯娜他们。	瑪麗翁‧昆恩	致力於調查「異邦人」的工作狂。\n總是以成年人的角度，在各方面支援著蕾斯娜等人。
+SeasonalTalkEvent_003_008ID	0	Resna	レスナ	この先の洞窟に、星の力を蓄えているという\n石が採れる場所がありまして……	Resna	The cave we're headed to has stones that have supposedly stored up the power of the stars.	蕾斯娜	在前方的洞窟里，\n有个地方能采集到据说蕴含星之力的石头……	蕾斯娜	前方的洞窟裡，\n有個地方能採集到儲存著星之力的石頭……
+SeasonalTalkEvent_003_008ID	1	Resna	レスナ	その石がお守りを作るために必須なんです	Resna	Which we need to use to make more charms.	蕾斯娜	那个石头是制作护身符的必要材料。	蕾斯娜	那個石頭是製作護身符不可或缺的素材。
+SeasonalTalkEvent_003_008ID	2	Marie	マリー	星の力……マナみたいなもの？	Marie	"The ""power of the stars""? So something like mana?"	玛莉	星之力……是类似玛那的东西吗？	瑪莉	星之力……類似瑪那的東西嗎？
+SeasonalTalkEvent_003_008ID	3	Resna	レスナ	そういう言い伝えがあるというだけで、\n何か特殊な力があるというわけではないんですけど……	Resna	That's what the legends say, but they just seem to have some sort of special strength.	蕾斯娜	好像只是有这么个传说，\n并不是说石头真的有什么特殊力量……	蕾斯娜	只是有這種傳說而已，\n並不具有什麼特殊的力量……
+SeasonalTalkEvent_003_008ID	4	Marie	マリー	あくまで縁起物ってことね	Marie	Ah, more like a talisman then.	玛莉	说到底只是个祈求好运的东西，对吧。	瑪莉	只能算是幸運物是吧。
+SeasonalTalkEvent_003_008ID	5	Marie	マリー	あら？　あれって……	Marie	Hm? Isn't that...?	玛莉	咦？那个人……	瑪莉	咦？那個人是……
+SeasonalTalkEvent_003_008ID	6	Marie	マリー	ロジーじゃない！	Marie	Logy! Hello!	玛莉	是罗吉！	瑪莉	是羅吉耶！
+SeasonalTalkEvent_003_008ID	7	Logy	ロジー	やあ、マルローネさんか。なんだか久しぶりだな	Logy	Hey, Marlone. It's been a while, hasn't it?	罗吉	你们好，是玛洛娜小姐啊，好久不见。	羅吉	嗨，是瑪洛娜啊。感覺我們好久不見了。
+SeasonalTalkEvent_003_008ID	8	Marie	マリー	そうね。その節はお世話になりました	Marie	No kidding. Thank you for all your help back then.	玛莉	嗯，感谢你之前的帮助。	瑪莉	是啊，謝謝你前陣子的幫忙。
+SeasonalTalkEvent_003_008ID	9	Logy	ロジー	はは。こちらこそ。\nレスナとも久しぶりな感じだよな	Logy	Haha, I could say the same. It feels like it's been ages since we last met too, Resna.	罗吉	哈哈，我才要谢谢你呢。\n还有蕾斯娜，我们好像也很久没见了。	羅吉	哈哈。彼此彼此。\n我跟蕾斯娜好像也好久不見了對吧。
+SeasonalTalkEvent_003_008ID	10	Resna	レスナ	ご無沙汰しております、ロジー先輩！\nそして、明けましておめでとうございます！	Resna	I'm terribly sorry for not staying in touch, Logy! Also, a very happy New Year to you!	蕾斯娜	好久不见，罗吉前辈！\n祝你新年快乐！	蕾斯娜	好久不見，羅吉前輩！\n還有，祝你新年快樂！
+SeasonalTalkEvent_003_008ID	11	Logy	ロジー	確か海辺での一件以来だよな	Logy	I suppose our paths haven't crossed since the beach.	罗吉	我们在海边那个事件之后应该就没再见过面吧。	羅吉	我記得上次見面是海邊那次了吧。
+SeasonalTalkEvent_003_008ID	12	Marie	マリー	あの時は色々あったわよねえ	Marie	An awful lot happened there, didn't it?	玛莉	当时那些事实在让人措手不及啊。	瑪莉	當時真的發生了很多事呢。
+SeasonalTalkEvent_003_008ID	13	Logy	ロジー	マルローネさんが爆弾で岩を吹き飛ばしたりな	Logy	Like you sending that boulder flying with one of your bombs?	罗吉	玛洛娜小姐还用炸弹炸飞了岩石呢。	羅吉	瑪洛娜還用炸彈把岩石給炸飛了。
+SeasonalTalkEvent_003_008ID	14	Resna	レスナ	あはは、ありましたね	Resna	Ahaha! Exactly!	蕾斯娜	哈哈，是有过这种事。	蕾斯娜	哈哈，沒錯。
+SeasonalTalkEvent_003_008ID	15	Resna	レスナ	ロジー先輩は確か……あの後、\n頂獣について調べると仰ってましたよね	Resna	Logy, you said that you were going to do research on the Apexi, right?	蕾斯娜	我记得罗吉前辈说过……\n之后要去调查顶兽吧。	蕾斯娜	我記得……羅吉前輩當時說，\n在那之後要去調查頂獸對吧？
+SeasonalTalkEvent_003_008ID	16	Logy	ロジー	ああ。引き続き調査中だ	Logy	Yeah. That's still ongoing.	罗吉	没错，现在也依旧在调查。	羅吉	對，我還在持續調查中。
+SeasonalTalkEvent_003_008ID	17	Marie	マリー	何か手掛かりは見つけた？	Marie	Have you figured anything out?	玛莉	你有找到什么线索吗？	瑪莉	你有找到什麼線索嗎？
+SeasonalTalkEvent_003_008ID	18	Logy	ロジー	まあ、それなりにはな。協力者も……っと、\nこれはまだ言えないんだった	Logy	Hm, within limits. I'm working with... Ah, never mind. Forget I said anything.	罗吉	算是有些收获。还找到了帮手……啊，\n这个还不能说。	羅吉	算是有找到一些吧。合作者也……\n啊，這件事還不方便多說。
+SeasonalTalkEvent_003_008ID	19	Resna	レスナ	と、とても気になりますね	Resna	Okay, now I'm really curious!	蕾斯娜	我、我好在意啊。	蕾斯娜	真、真讓人好奇。
+SeasonalTalkEvent_003_008ID	20	Logy	ロジー	まあ、一段落ついたらまたレスナたちにも話すよ。\nその日は遠くないと思う	Logy	Well, I'll give you the full story once things have settled down a little. That shouldn't be too much longer.	罗吉	等事情告一段落之后再告诉你们吧，\n那一天应该就快到来了。	羅吉	嗯，等事情告一個段落之後我會再跟妳們說的。\n我想應該快了。
+SeasonalTalkEvent_003_008ID	21	Resna	レスナ	はい、ぜひ！	Resna	Please do!	蕾斯娜	嗯，到时请务必告诉我们！	蕾斯娜	好的，我洗耳恭聽！
+SeasonalTalkEvent_003_008ID	22	Marie	マリー	そういえばレスナ。お守りってまだちょっとだけ\n残ってたわよね	Marie	By the way, Resna, we do still have some of those charms left.	玛莉	对了，蕾斯娜，\n我们手头还剩了几个护身符吧？	瑪莉	對了，蕾斯娜。妳應該\n還剩下一些護身符吧？
+SeasonalTalkEvent_003_008ID	23	Resna	レスナ	そうでした！　ロジー先輩、\n実は今、新年のご挨拶をして回っていまして	Resna	Oh right! Actually, we've been going around doing our New Year's greetings.	蕾斯娜	对了！罗吉前辈，\n其实我正在四处拜年。	蕾斯娜	對耶！\n羅吉前輩，其實我們正在四處拜年。
+SeasonalTalkEvent_003_008ID	24	Logy	ロジー	ああ、そうか。この世界の暦ではそうなんだったな。\n明けましておめでとう……で、いいのか？	Logy	So this is when the calendar changes over here? Happy New Year, then. Did I say that right?	罗吉	哦，原来按这个世界的历法，已经到了这个时节啊。\n新年快乐……可以这么说吗？	羅吉	喔，這樣啊。照這個世界的曆法的確是這個時節沒錯。\n所以該說……新年快樂嗎？
+SeasonalTalkEvent_003_008ID	25	Resna	レスナ	はい！　今年もよろしくお願いします！\n今年の幸福を願って、このお守りを……どうぞ！	Resna	Yep! And a happy New Year to you too! So, here! A charm to help you find even more happiness this year!	蕾斯娜	嗯！今年也请多关照！\n护身符里寄托着祝你幸福度过今年的愿望……\n还请收下！	蕾斯娜	是的！今年也請多多指教！\n祝你今年能過得幸福──請收下這個護身符！
+SeasonalTalkEvent_003_008ID	26	Resna	レスナ	ロジー先輩に流れ星の導きがありますように	Resna	May the stars light your way even more brightly, Logy.	蕾斯娜	希望罗吉前辈今年也能得到流星的指引。	蕾斯娜	羅吉前輩，願流星引導你。
+SeasonalTalkEvent_003_008ID	27	Logy	ロジー	ありがとう。\nレスナたちも気を付けてな	Logy	Thanks, Resna. You two take care too.	罗吉	谢谢你。\n也祝你们万事顺利。	羅吉	謝謝妳們。\n蕾斯娜，妳們也要多保重。
+SeasonalTalkEvent_003_008ID	28	Logix Ficsario	ロジックス・フィクサリオ	通称「ロジー」。冷静な性格だが世話焼き。\nかつて、マリーやレスナと行動を共にした	Logix Ficsario	"A laid-back and helpful man who is most commonly known as ""Logy."" He's gone on some adventures with Marie and Resna."	罗吉克斯·菲克萨立欧	人称“罗吉”，性格冷静但很爱照顾人。\n曾与玛莉和蕾斯娜共同行动。	羅吉克斯‧菲克薩立歐	人稱「羅吉」。性格冷靜，不過很照顧人。\n過去曾與瑪莉和蕾斯娜一起行動。
+SeasonalTalkEvent_003_009ID	0	Marie	マリー	この湖の近くにあの子が？	Marie	She's supposed to be near this lake?	玛莉	她就在这座湖附近？	瑪莉	她在這座湖附近？
+SeasonalTalkEvent_003_009ID	1	Resna	レスナ	はい。依頼を受けてここに向かったそうなので、\nもしかしたら会えるかもと……	Resna	Yep! Apparently, she took on a request out this way, so we might just run into her.	蕾斯娜	是的，她好像是来这里做委托的，\n说不定能见到她……	蕾斯娜	是的。聽說她接了委託來到這裡，\n所以我想也許能見到她……
+SeasonalTalkEvent_003_009ID	2	Resna	レスナ	お守りもあと１つ残っていますし……あ！	Resna	We still have one charm left, too... Ah!	蕾斯娜	护身符正好还剩一个……啊！	蕾斯娜	護身符也還剩下最後一個……啊！
+SeasonalTalkEvent_003_009ID	3	Resna	レスナ	シャリステラせんぱーーーーーい！	Resna	Miss Shallisteraaa!	蕾斯娜	夏莉丝堤拉前辈——！	蕾斯娜	夏莉絲堤菈前輩──！
+SeasonalTalkEvent_003_009ID	4	Shallistera	シャリステラ	レスナさん！　マルローネさんも！	Shallistera	Oh, Resna! And Marlone, too!	夏莉丝堤拉	蕾斯娜小姐！玛洛娜小姐也在！	夏莉絲堤菈	蕾斯娜！瑪洛娜也在這裡！
+SeasonalTalkEvent_003_009ID	5	Resna	レスナ	あぁ、シャリステラ先輩……\nこうしてまた会えて感激の至りです！	Resna	Oooh, I'm just so overjoyed that we could meet like this!	蕾斯娜	哎呀，夏莉丝堤拉前辈……\n又和你见面了，我真是太感动了！	蕾斯娜	嗚啊，夏莉絲堤菈前輩……\n能再次見到妳，我真是太感激了！
+SeasonalTalkEvent_003_009ID	6	Shallistera	シャリステラ	ふふ、大げさですよ。\nでも、こんな所で会うなんて奇遇ですね	Shallistera	*Chuckle* My, so dramatic. Still, what are the odds of us meeting here?	夏莉丝堤拉	呵呵，说这么夸张。\n不过，能在这种地方碰见确实好巧啊。	夏莉絲堤菈	呵呵，妳太誇張了啦。\n不過，能在這種地方碰見妳們還真巧。
+SeasonalTalkEvent_003_009ID	7	Resna	レスナ	いえ。実は、マリオンさんから依頼で\nここに向かったという情報をいただきまして……	Resna	Pretty good, actually. Marion told us that you were out working on a request in the area, so...	蕾斯娜	不，其实我是从玛丽翁小姐那边\n听说你来这里做委托……	蕾斯娜	不，其實是我打聽到，\n妳接下瑪麗翁小姐的委託後來到這裡的情報……
+SeasonalTalkEvent_003_009ID	8	Shallistera	シャリステラ	えっ、もしかしてわたしに\n会いに来てくださったんですか？	Shallistera	Oh! Did you come out all this way just to see me?	夏莉丝堤拉	咦？这么说你是特地来找我的吗？	夏莉絲堤菈	咦？\n莫非妳是專程來見我的嗎？
+SeasonalTalkEvent_003_009ID	9	Marie	マリー	実はね……	Marie	Even better!	玛莉	是这样的……	瑪莉	事情是這樣的……
+SeasonalTalkEvent_003_009ID	10	Shallistera	シャリステラ	１年の幸福を願うお守り、ですか。\nわたしにまで……ありがとうございます	Shallistera	A charm that summons a whole year of happiness? For me? Thank you very much.	夏莉丝堤拉	保佑度过幸福一年的护身符啊。\n居然还给我准备了……谢谢你。	夏莉絲堤菈	保佑我新的一年過得幸福的護身符嗎？\n還特地送我這份禮物……真謝謝妳。
+SeasonalTalkEvent_003_009ID	11	Resna	レスナ	シャリステラ先輩にはたくさんのことを\n教えていただきました	Resna	You taught me lots and lots, Miss Shallistera!	蕾斯娜	夏莉丝堤拉前辈教会了我许多。	蕾斯娜	因為夏莉絲堤菈前輩\n教導了我很多事情。
+SeasonalTalkEvent_003_009ID	12	Shallistera	シャリステラ	こちらこそ。この世界に来て間もない頃に、\nレスナさんやマルローネさんたちに会えてよかったです	Shallistera	I could say the same for you. I'm very glad that I met you and Marlone when I first arrived here.	夏莉丝堤拉	你也教了我许多呀。我很庆幸，\n自己刚来到这个世界就遇见了蕾斯娜小姐和玛洛娜小姐。	夏莉絲堤菈	彼此彼此。我也很慶幸，\n能在剛來到這個世界的那段期間遇到妳和瑪洛娜。
+SeasonalTalkEvent_003_009ID	13	Shallistera	シャリステラ	おかげで、この世界でもちゃんとやっていけそうだ、\nって思えました。とっても心強かったんですから	Shallistera	Thanks to you, I think I've adapted well to life here in this world. Which is truly a relief.	夏莉丝堤拉	托你们的福，我才有了在这个世界好好生活下去的信心，\n你们就像是我坚强的后盾。	夏莉絲堤菈	多虧有大家，才讓我覺得我能在這個世界\n好好生活下去。妳們真的讓我覺得很安心。
+SeasonalTalkEvent_003_009ID	14	Resna	レスナ	恐縮です……えへへ	Resna	Ehehe. You couldn't be more welcome!	蕾斯娜	真不敢当……嘿嘿。	蕾斯娜	不敢當……嘿嘿。
+SeasonalTalkEvent_003_009ID	15	Marie	マリー	……ねえ。シャリステラは、\n故郷が恋しくなったりはしない？	Marie	Hey, Shallistera? Do you ever miss your hometown?	玛莉	……夏莉丝堤拉，\n你不会想念故乡吗？	瑪莉	……那個。夏莉絲堤菈，\n妳會想念故鄉嗎？
+SeasonalTalkEvent_003_009ID	16	Shallistera	シャリステラ	もちろん、そうなること、ありますよ	Shallistera	Oh, absolutely.	夏莉丝堤拉	当然会想呀。	夏莉絲堤菈	當然多少會啊。
+SeasonalTalkEvent_003_009ID	17	Shallistera	シャリステラ	でも、元の世界の友達や知り合いにも\n会えましたし……	Shallistera	But as much as I might miss my friends and fellows...	夏莉丝堤拉	不过，\n我在这里也能见到原来世界的朋友和熟人……	夏莉絲堤菈	不過，\n畢竟也已經見到原本世界的朋友與熟人了……
+SeasonalTalkEvent_003_009ID	18	Shallistera	シャリステラ	ここでやりたいこと、やるべきことがありますから。\n前向きな気持ちのほうが強いですね	Shallistera	...there are things that I want to do here, and things I must do. Having a positive outlook is the best way to move forward.	夏莉丝堤拉	我在这里也有想做的事、该做的事。\n比起思乡，积极行动的意念更强烈。	夏莉絲堤菈	而且我在這裡也有想做的事、該做的事。\n所以，心情還是比較正向的。
+SeasonalTalkEvent_003_009ID	19	Marie	マリー	……そっか。それは何よりだわ	Marie	Oh, okay. That's good to hear.	玛莉	……这样啊，那就最好了。	瑪莉	原來如此……那真是太好了。
+SeasonalTalkEvent_003_009ID	20	Marie	マリー	そういえば、依頼の途中よね？\n邪魔しちゃってごめんなさい	Marie	Wait, weren't you in the middle of a request? Sorry, we'll get out of your hair.	玛莉	说起来，你正在应对委托吧？\n抱歉耽误你时间了。	瑪莉	話說回來，妳現在正在忙委託吧？\n抱歉打擾妳了。
+SeasonalTalkEvent_003_009ID	21	Shallistera	シャリステラ	いえ、ちょうど終わったところなので大丈夫です。\n今から街に戻るところでしたし	Shallistera	No, it's fine. I was just finishing up, actually. I was about to head back into town.	夏莉丝堤拉	不不，没事的，我的委托正好做完了，\n这会儿正要返回城镇呢。	夏莉絲堤菈	不會，我正好剛忙完，沒關係。\n現在正要返回城鎮。
+SeasonalTalkEvent_003_009ID	22	Resna	レスナ	それならよかったです。シャリステラ先輩。\n今後も何とぞよろしくお願いします！	Resna	What good timing! Miss Shallistera, I hope that you'll teach me even more this year!	蕾斯娜	那就好，夏莉丝堤拉前辈。\n今后也请多指教！	蕾斯娜	這樣啊，那就好。夏莉絲堤菈前輩。\n今後也請妳多多指教囉！
+SeasonalTalkEvent_003_009ID	23	Shallistera	シャリステラ	はい！　お二人も頑張ってくださいね	Shallistera	Of course! Please work hard and do your best!	夏莉丝堤拉	嗯，你们也要加油哦。	夏莉絲堤菈	好的！也請妳們繼續加油唷。
+SeasonalTalkEvent_003_009ID	24	Marie	マリー	今渡した分で手持ちの分は全部だっけ。\n急いで素材を集めなきゃ	Marie	That's everything we had to give away. We'd better gather the rest of those materials quickly!	玛莉	刚才给出的就是手头最后的一个护身符吧。\n我们得赶紧收集素材了。	瑪莉	剛才送出去的就是手上的最後一份了對吧？\n得盡快去蒐集素材才行。
+SeasonalTalkEvent_003_009ID	25	Resna	レスナ	はい！	Resna	Yeah!	蕾斯娜	好的！	蕾斯娜	好！
+SeasonalTalkEvent_003_009ID	26	Shallistera	シャリステラ	故郷を救う手掛かりを求めて旅する錬金術士の少女。\n駆け出しで上手くいかない頃のレスナを導いた	Shallistera	A young alchemist traveling to find clues on ways to save her hometown. As one of Resna's mentors, she helped set the novice alchemist on the path to improvement.	夏莉丝堤拉	为了寻求拯救故乡的线索而踏上旅程的少女炼金术士。\n指导过初出茅庐笨拙的蕾斯娜。	夏莉絲堤菈	為了尋找拯救故鄉的線索而踏上旅途的鍊金術士少女。\n曾引導過初入門時碰壁的蕾斯娜。
+SeasonalTalkEvent_003_010ID	0	Resna	レスナ	目的地の洞窟まではもう少しです。\n明日にはつけるかと！	Resna	We only have a little farther to go now. We should make it to the cave by tomorrow!	蕾斯娜	距离要去的洞窟还有一点路程，\n明天应该就能到了！	蕾斯娜	我們距離目的地的洞窟很近了。\n明天應該就能抵達了！
+SeasonalTalkEvent_003_010ID	1	Marie	マリー	それじゃ、今日はゆっくり休んで\n明日に備えますかー	Marie	Why don't we take it easy for the rest of today then, and do anything we need to get ready?	玛莉	那今天就先好好休息，\n为明天做准备吧——	瑪莉	那我們今天就好好休息，\n為明天做準備吧～
+SeasonalTalkEvent_003_010ID	2	Resna	レスナ	あの、マルローネ先輩……	Resna	Um, Marlone...	蕾斯娜	玛洛娜前辈……	蕾斯娜	那個，瑪洛娜前輩……
+SeasonalTalkEvent_003_010ID	3	Marie	マリー	ん？　どうしたの？	Marie	Hm? What is it?	玛莉	嗯？怎么了吗？	瑪莉	嗯？怎麼了嗎？
+SeasonalTalkEvent_003_010ID	4	Resna	レスナ	さっき、シャリステラ先輩と話していた\nことなんですけど……	Resna	About what you asked Miss Shallistera earlier...	蕾斯娜	刚才你跟夏莉丝堤拉前辈聊的话题……	蕾斯娜	就是，\n剛才跟夏莉絲堤菈前輩聊到的那件事……
+SeasonalTalkEvent_003_010ID	5	Marie	マリー	故郷が恋しくないかって話？	Marie	Oh, if she missed her hometown?	玛莉	想念故乡的事？	瑪莉	妳說會不會想念故鄉嗎？
+SeasonalTalkEvent_003_010ID	6	Resna	レスナ	はい。\nロロナ先輩たちも、同じようなことを言っていました	Resna	Yeah. And before that, you made a point of mentioning how Rorona and her friends were getting along.	蕾斯娜	是的。\n萝乐娜前辈他们也说过差不多的话。	蕾斯娜	是的。\n蘿樂娜前輩她們也曾說過相似的話。
+SeasonalTalkEvent_003_010ID	7	Resna	レスナ	やっぱり、マルローネ先輩も……	Resna	So, does that mean...you're feeling a little lonely?	蕾斯娜	玛洛娜前辈果然也……	蕾斯娜	果然瑪洛娜前輩也是吧……
+SeasonalTalkEvent_003_010ID	8	Marie	マリー	まぁね……	Marie	More or less.	玛莉	算是吧……	瑪莉	其實……
+SeasonalTalkEvent_003_010ID	9	Marie	マリー	レスナの挨拶回りを手伝うことにしたのも、\n元々それがきっかけだったのよ	Marie	That's what pushed me to help you with the New Year's greetings, actually.	玛莉	我会答应陪你一起给大家拜年，\n也是因为这个。	瑪莉	我一開始決定幫妳一起拜年的契機，\n就是因為這件事。
+SeasonalTalkEvent_003_010ID	10	Resna	レスナ	え？　どういうことですか？	Resna	Huh? How so?	蕾斯娜	咦，什么意思？	蕾斯娜	咦？這是什麼意思？
+SeasonalTalkEvent_003_010ID	11	Marie	マリー	ふと、一人でいるのが寂しく感じちゃってね。\nみんなの顔を見たら少しは紛れるかなって	Marie	Well, it just sort of hit me that being on my own was getting to be a bit much. Seeing everyone has been helping me forget about it, though.	玛莉	因为独处时偶尔会突然觉得有些寂寞。\n我想着要是和大家见见面，说不定能排遣那种心情。	瑪莉	就是，忽然有種獨自一個人很寂寞的感覺。\n所以想說見一見大家，也許多少就能解悶了。
+SeasonalTalkEvent_003_010ID	12	Resna	レスナ	そうだったんですか……	Resna	Oh, I see.	蕾斯娜	是这样啊……	蕾斯娜	原來是這樣……
+SeasonalTalkEvent_003_010ID	13	Marie	マリー	でもね。みんなと会って話すうちに気付いたの	Marie	But talking with everyone also made me realize something.	玛莉	不过，跟大家聊天的时候我意识到……	瑪莉	不過啊。和大家見面聊天之後，我才注意到。
+SeasonalTalkEvent_003_010ID	14	Marie	マリー	この世界に来てからも、\nたくさん新しい繋がりが生まれていたんだって	Marie	I've made so many new connections since coming to this world.	玛莉	来到这个世界之后，\n也会建立起全新的关系。	瑪莉	來到這個世界之後，\n我也認識了很多人。
+SeasonalTalkEvent_003_010ID	15	Marie	マリー	もし仮に、あたしが元の世界に戻れたとして――\nきっと、今度はこの場所が恋しくなると思うの	Marie	If I get sent back to mine somehow, then I'm sure I'd start missing things from this one instead.	玛莉	假如我真的回到了原来的世界——\n肯定又会想念这个地方的。	瑪莉	假如回到了原本的世界──\n我一定又會想念這裡了吧。
+SeasonalTalkEvent_003_010ID	16	Resna	レスナ	マルローネ先輩……	Resna	Marlone...	蕾斯娜	玛洛娜前辈……	蕾斯娜	瑪洛娜前輩……
+SeasonalTalkEvent_003_010ID	17	Marie	マリー	だから、今はこの世界の生活を\n目いっぱい楽しまなきゃね	Marie	So I'm going to have as much fun as I can while I'm here!	玛莉	所以，我现在要尽情享受在这个世界的生活。	瑪莉	所以，\n我現在得盡全力享受這個世界的生活才行。
+SeasonalTalkEvent_003_010ID	18	Resna	レスナ	……マルローネ先輩のそういう前向きなところ、\n私も見習いたいです	Resna	I'd like to learn from that optimism of yours, Marlone.	蕾斯娜	……我也要学习玛洛娜前辈这份积极的心态。	蕾斯娜	……我要好好學習\n前輩這樣積極的態度。
+SeasonalTalkEvent_003_010ID	19	Marie	マリー	ふふ、ありがと	Marie	Hehe. Thank you.	玛莉	呵呵，谢谢你。	瑪莉	呵呵，謝謝妳。
+SeasonalTalkEvent_003_010ID	20	Marie	マリー	――今、物音がしなかった？	Marie	Wait, did you hear that?	玛莉	——刚才是不是有什么声音？	瑪莉	──妳剛才有聽到什麼動靜嗎？
+SeasonalTalkEvent_003_010ID	21	Resna	レスナ	は、はい。まさか魔物……	Resna	Y-Yeah. It sounded like a monster.	蕾斯娜	是、是的。难道是魔物……	蕾斯娜	有、有。該不會是魔物……
+SeasonalTalkEvent_003_010ID	22	Marie	マリー	こっちに近づいてくる……！	Marie	It's getting closer!	玛莉	声音越来越近了……！	瑪莉	聲音正往我們接近……！
+SeasonalTalkEvent_003_010ID	23	Resna	レスナ	――――！	Resna	!	蕾斯娜	――！	蕾斯娜	────！
+SeasonalTalkEvent_003_010ID	24	Valeria	ヴァレリア	いただきまーーーす！！！	Valeria	Time to dig in!	瓦莱莉娅	我开动了——！！！	瓦萊莉婭	我要開動了～～！！！
+SeasonalTalkEvent_003_010ID	25	Resna	レスナ	キャー！！　って、ヴァレリア！？	Resna	Eeeek! Wait, Valeria?!	蕾斯娜	呀！！咦，是瓦莱莉娅？！	蕾斯娜	哇啊──！！瓦萊莉婭！？
+SeasonalTalkEvent_003_010ID	26	Valeria	ヴァレリア	あ、レスナたちだったのね！　かじるところだったわ。\nよかったー、合流できて	Valeria	Oh! Resna! Whoops, I almost took a bite out of you. Boy, I'm glad I ran into you guys!	瓦莱莉娅	啊，是蕾斯娜你们啊！我差点就张嘴咬下去了。\n太好啦，终于跟你们会合了。	瓦萊莉婭	啊，蕾斯娜，是妳們啊！我才正想咬下去呢。\n太好了，跟妳們會合了。
+SeasonalTalkEvent_003_010ID	27	Marie	マリー	合流？　あたしたちを探してたの？	Marie	Huh? Were you looking for us?	玛莉	会合？你是在找我们吗？	瑪莉	會合？妳在找我們嗎？
+SeasonalTalkEvent_003_010ID	28	Valeria	ヴァレリア	マリオンに聞いたら採取に出かけたって言うから。\n家の掃除も終わったし、手伝いに行こうと思って	Valeria	Marion told me that you were out gathering materials. We're done cleaning at home, so I figured I'd come lend a hand.	瓦莱莉娅	我问过玛丽翁之后知道你们出门采集了，\n正好家里的大扫除也结束了，所以我打算来帮帮你们。	瓦萊莉婭	我問瑪麗翁，她說妳們出門去採集了。\n我想說家裡也打掃完了，就過來幫妳們的忙。
+SeasonalTalkEvent_003_010ID	29	Valeria	ヴァレリア	その途中、美味しそうな匂いにつられて来てみたら……	Valeria	Then I caught a whiff of this really tasty scent, so I followed my nose here.	瓦莱莉娅	路上突然闻到一股香味，我就循着味道过来……	瓦萊莉婭	然後半路上，就被一股美味的味道吸引了過來……
+SeasonalTalkEvent_003_010ID	30	Resna	レスナ	あはは……。あまり残ってないけど、食べる？	Resna	Ahaha... There's not much left, but would you like some?	蕾斯娜	哈哈……剩下的不多了，你要吃吗？	蕾斯娜	啊哈哈……剩不多就是了，妳要吃嗎？
+SeasonalTalkEvent_003_010ID	31	Valeria	ヴァレリア	ぜひ！　いただけたらと、思いますっ！！	Valeria	Absolutely! I will humbly partake in your proffered goods!	瓦莱莉娅	要！有我份的话我当然要吃！！	瓦萊莉婭	當然！可以給我就太感激了！！
+SeasonalTalkEvent_003_010ID	32	Marie	マリー	こっちもすごい角度！	Marie	Whoa! Yet another impressive angle!	玛莉	这位也很夸张！	瑪莉	妳的角度也好誇張啊！
+SeasonalTalkEvent_003_011ID	0	Marie	マリー	ここがお守りの素材が採れる洞窟ね	Marie	So this is the cave where we'll find the materials for the charms?	玛莉	这就是能采集到护身符素材的洞窟啊。	瑪莉	這裡就是能採集到護身符素材的洞窟啊。
+SeasonalTalkEvent_003_011ID	1	Resna	レスナ	ずーっと奥まで続いてますね。\nなかなか険しい道のりになりそうです……	Resna	Wow, it just goes on forever. The path looks pretty rugged, too.	蕾斯娜	通往里面的路好长啊。\n路好像还挺险的……	蕾斯娜	洞窟一直延伸到深處耶。\n感覺這段路相當危險……
+SeasonalTalkEvent_003_011ID	2	Marie	マリー	よし。早速行きましょ！\n頼もしい仲間も加わったしね	Marie	Okay! The quicker we start, the quicker we'll be done! Plus, we've got a reliable addition to the party.	玛莉	好，我们加速前进吧！\n毕竟现在又多了一名可靠的伙伴。	瑪莉	好。我們盡快出發吧！\n畢竟也有可靠的夥伴加入了。
+SeasonalTalkEvent_003_011ID	3	Valeria	ヴァレリア	マルローネ、今さらだけどそんな格好で平気？\n洞窟探索には向いてないわよね	Valeria	It's a little late to ask now, but... Are you doing okay in that outfit, Marlone? It doesn't seem all that suited to spelunking.	瓦莱莉娅	玛洛娜，你到这里还穿这身没事吗？\n穿成这样探索洞窟不方便吧。	瓦萊莉婭	瑪洛娜，現在說好像有點晚，\n但妳那套服裝不太適合探索洞窟吧，沒問題嗎？
+SeasonalTalkEvent_003_011ID	4	Marie	マリー	え？　うん。平気よ！\nよく分からないけど、不思議と力が出てくるのよ	Marie	Hm? Oh, I'm fine! It's almost like it's giving me strength for some reason.	玛莉	咦？啊，没事的！不知为什么，\n穿着这身衣服好像会莫名涌出一股力量。	瑪莉	咦？嗯。沒事啦！我也不是很清楚，\n但穿上它之後我就很不可思議地充滿力量。
+SeasonalTalkEvent_003_011ID	5	Resna	レスナ	さすが、師匠が着ていた服ですね	Resna	That's Miss Saskia's wardrobe for you!	蕾斯娜	不愧是师父穿过的衣服。	蕾斯娜	不愧是師父曾經穿過的服裝。
+SeasonalTalkEvent_003_011ID	6	Valeria	ヴァレリア	レスナと初めて会ったのも、\nこういう洞窟の中だったわよね	Valeria	We first met in a cave a lot like this one, huh?	瓦莱莉娅	我第一次见到蕾斯娜的时候，\n也是在这种洞窟里。	瓦萊莉婭	我第一次和蕾斯娜相遇時，\n也是在這種洞窟裡呢。
+SeasonalTalkEvent_003_011ID	7	Resna	レスナ	……うん、そうだね	Resna	Yep, we sure did.	蕾斯娜	……嗯，是啊。	蕾斯娜	……嗯，是啊。
+SeasonalTalkEvent_003_011ID	8	Valeria	ヴァレリア	今思うと……あの出会いをきっかけに、\n全部が変わった気がする	Valeria	Looking back on it now... Everything changed with that meeting.	瓦莱莉娅	现在一想……就是那次相遇，\n让一切都变得不一样了。	瓦萊莉婭	現在回想起來……\n自從那次邂逅之後，一切似乎都隨之改變了。
+SeasonalTalkEvent_003_011ID	9	Valeria	ヴァレリア	もちろん、いい意味でね	Valeria	Oh! For the better, of course.	瓦莱莉娅	当然是指好的转变。	瓦萊莉婭	當然，我是指往好的方面。
+SeasonalTalkEvent_003_011ID	10	Resna	レスナ	私も同じだよ。あそこでヴァレリアと出会って\nなかったら、ぜんぜん違う今になっていたかも	Resna	I feel the same way. If I hadn't met you then, I don't think I'd be who I am today.	蕾斯娜	我也这么想。要是没能在那里遇见瓦莱莉娅，\n我可能会和现在这个我完全不一样吧。	蕾斯娜	我也一樣。如果沒有在那裡遇見瓦萊莉婭，\n我現在也許會是完全不同的樣子吧。
+SeasonalTalkEvent_003_011ID	11	Resna	レスナ	ふぅ……結構奥まで来ましたね。\nそろそろ石が採れる場所のはずですけど	Resna	Phew... We finally made it all the way in. That means we should be coming up on the gathering spot for those stones.	蕾斯娜	呼……已经走到很深的地方了。\n按说这里应该能采集到石头了。	蕾斯娜	呼……已經走到相當深的地方了。\n應該快到採集石頭的地點了。
+SeasonalTalkEvent_003_011ID	12	Valeria	ヴァレリア	――――！　二人とも、構えて！	Valeria	Whoa! Get back, you two!	瓦莱莉娅	——！两位，摆好架势！	瓦萊莉婭	────！妳們兩個，做好準備！
+SeasonalTalkEvent_003_011ID	13	Resna	レスナ	えっ、えっ！？	Resna	Huh?! What's going on?!	蕾斯娜	咦，怎么了？！	蕾斯娜	咦、咦！？
+SeasonalTalkEvent_003_011ID	14	Marie	マリー	っ、魔物よ！	Marie	Monsters!	玛莉	有魔物！	瑪莉	是魔物！
+SeasonalTalkEvent_003_011ID	15	Valeria	ヴァレリア	この洞窟のヌシ、ってところかしら？	Valeria	Is that the cave's master?	瓦莱莉娅	是洞窟之主吗？	瓦萊莉婭	或許是這個洞窟的主人吧？
+SeasonalTalkEvent_003_011ID	16	Resna	レスナ	こっちに向かってきます！	Resna	It's coming this way!	蕾斯娜	朝这边过来了！	蕾斯娜	牠正往我們這裡過來！
+SeasonalTalkEvent_003_011ID	17	Marie	マリー	邪魔はさせないわよ！	Marie	We're not going to let you stop us!	玛莉	不会让你碍事的！	瑪莉	別想來妨礙我們！
+SeasonalTalkEvent_003_012ID	0	Valeria	ヴァレリア	ふう。戦いに採取に……いい汗かいたわね！	Valeria	Phew! Fighting and gathering really work up a sweat!	瓦莱莉娅	呼……又是战斗又是采集的……好好施展了一番拳脚！	瓦萊莉婭	呼。戰鬥加上採集……讓人出了一身汗呢！
+SeasonalTalkEvent_003_012ID	1	Marie	マリー	無事にお守りの素材も手に入れられたわ	Marie	It's great that we managed to get the materials for the charms safely.	玛莉	也顺利采集到了做护身符的素材。	瑪莉	順利拿到護身符的素材了。
+SeasonalTalkEvent_003_012ID	2	Valeria	ヴァレリア	これが星の力を宿した石……\nって、普通の鉱石にしか見えないけど	Valeria	So these stones are supposed to have star power? They just look like regular rocks to me.	瓦莱莉娅	这就是蕴含星之力的石头……\n可它看起来跟普通的矿石没两样啊。	瓦萊莉婭	這就是寄宿著星之力的石頭……\n看起來就只是普通的礦石啊。
+SeasonalTalkEvent_003_012ID	3	Resna	レスナ	あはは、あくまで言い伝えだし……\nそのへんは気の持ちようだから	Resna	Ahaha! Well, it's only a rumor. It's probably one of those things that's more superstition than anything.	蕾斯娜	哈哈，那只是个传说……\n其实就是看你是否相信。	蕾斯娜	啊哈哈，畢竟那只是個傳說嘛……\n這部分就看大家怎麼看待它了。
+SeasonalTalkEvent_003_012ID	4	Valeria	ヴァレリア	そういうものなの？	Valeria	You think?	瓦莱莉娅	是这样的吗？	瓦萊莉婭	是這樣嗎？
+SeasonalTalkEvent_003_012ID	5	Resna	レスナ	そういうものなの。\nマルローネ先輩、あとは調合するだけですね	Resna	I do. Okay, Marlone! All we have to do now is synthesize!	蕾斯娜	就是这样的。\n玛洛娜前辈，之后只要调合就好了吧。	蕾斯娜	就是這樣啦。\n瑪洛娜前輩，接下來只剩下調合了。
+SeasonalTalkEvent_003_012ID	6	Marie	マリー	ええ。アトリエに帰りましょ！	Marie	Mhm. Let's head back to the atelier!	玛莉	是的，我们回炼金工房吧！	瑪莉	嗯。我們回去鍊金工房吧！
+SeasonalTalkEvent_003_012ID	7	Marie	マリー	あとはこれを入れて……	Marie	We just add some of this, and...	玛莉	然后加入这个……	瑪莉	接著再放進去這個……
+SeasonalTalkEvent_003_012ID	8	Valeria	ヴァレリア	このお守りって、１年の幸福を願うものなのよね	Valeria	These charms are supposed to help bring happiness for the whole year, right?	瓦莱莉娅	这个护身符能让佩戴者度过幸福的一年是吧。	瓦萊莉婭	這個護身符會保佑人一整年都過得幸福對吧。
+SeasonalTalkEvent_003_012ID	9	Resna	レスナ	うん。だから、しっかり願いを込めて作るんだ	Resna	Yep. That's why we've made sure they're packed with hope!	蕾斯娜	是啊，所以要诚心倾注心愿来制作。	蕾斯娜	嗯。所以，我們才會全心全意製作它。
+SeasonalTalkEvent_003_012ID	10	Marie	マリー	そうね。今年の「錬金術初め」、\nあたしたちの思いをたくさん込めて――	Marie	Mhm. Our first synthesis of the new year is filled with our feelings.	玛莉	是的。在今年的“首次炼金”中，\n倾注我们的念想——	瑪莉	是啊，讓我們一起全心全意做\n今年的「第一次鍊金術」──
+SeasonalTalkEvent_003_012ID	11	Marie	マリー	このお守りを手にしたみんなに、\n今年１年の幸福がきっと訪れますように――	Marie	That way, they're sure to bring the holder joy.	玛莉	祝愿得到这个护身符的人们，\n能迎来幸福的一年——	瑪莉	期盼收到這個護身符的大家，\n今年一整年都能過得幸福──
+SeasonalTalkEvent_003_013ID	0	Resna	レスナ	……よし、できた！	Resna	There, finished!	蕾斯娜	……好，完成了！	蕾斯娜	……好，完成了！
+SeasonalTalkEvent_003_013ID	1	Marie	マリー	それじゃ、他のみんなの所に行きましょうか！	Marie	Now we can go deliver them to the others!	玛莉	那就接着去拜访其他人吧！	瑪莉	接下來，我們就去找其他人吧！
+SeasonalTalkEvent_003_013ID	2	Valeria	ヴァレリア	頑張ってね、二人とも	Valeria	Good luck with that, you two.	瓦莱莉娅	你们两个加油哦！	瓦萊莉婭	妳們加油喔。
+SeasonalTalkEvent_003_013ID	3	Resna	レスナ	うん。手伝ってくれてありがとね、ヴァレリア。\nじゃあ行ってくる！	Resna	Thanks! And thank you for your help, Valeria. We'll see you later!	蕾斯娜	嗯，谢谢你来帮忙，瓦莱莉娅。\n我去去就回！	蕾斯娜	嗯，謝謝妳幫我們，瓦萊莉婭。\n那我們出門囉！
+SeasonalTalkEvent_003_013ID	4	Marie	マリー	（あたしと同じ、異世界からやって来たみんな）	Marie	(There are other people who came here from another world, just like me.)	玛莉	（跟我一样来自其他世界的人们……）	瑪莉	（大家和我一樣，都是來自異世界。）
+SeasonalTalkEvent_003_013ID	5	Marie	マリー	（慣れない土地、初めて見る錬金術。\n　色々な苦労がありながら……）	Marie	(We've all basically had to relearn alchemy in a strange place. We've definitely had our troubles, but...)	玛莉	（陌生的土地，不同于过去的炼金术。\n　尽管面临重重困难……）	瑪莉	（這片陌生的土地，以及初次見到的鍊金術，\n　讓大家吃了不少苦……）
+SeasonalTalkEvent_003_013ID	6	Marie	マリー	（それでも、みんな前を向いて頑張ってる）	Marie	(Everyone is looking toward the future in spite of that.)	玛莉	（但大家都在积极地努力着。）	瑪莉	（即便如此，大家還是努力地積極前進。）
+SeasonalTalkEvent_003_013ID	7	Marie	マリー	（そんなみんながいるからこそ、\n　あたしも楽しく過ごせてる）	Marie	(It's because of those people that I've been able to enjoy myself here too.)	玛莉	（就是因为身边有这样一群人在，\n　我才能快乐地生活。）	瑪莉	（正因為有大家在，\n　我才能快樂地在這裡生活。）
+SeasonalTalkEvent_003_013ID	8	Marie	マリー	（これからも、色々な壁にぶつかるでしょうけど……）	Marie	(I'll probably encounter more obstacles, but...)	玛莉	（虽然今后想必也会遇上各种挫折……）	瑪莉	（雖然今後想必還是會遇上不少難關……）
+SeasonalTalkEvent_003_013ID	9	Marie	マリー	（それと同じくらい――いえ、それ以上に\n　面白くて楽しいことがたくさん待ってるはず）	Marie	(I know that I'll be able to have just as much—no, even more fun than I have been.)	玛莉	（但也会有同样快乐――\n　不，会有更多令人激动欣喜的事等着我。）	瑪莉	（但是，肯定也會有一樣多的──\n　不，會有更多有趣又快樂的事在等著我們。）
+SeasonalTalkEvent_003_013ID	10	Marie	マリー	（みんなが今年も１年、幸せに過ごせますように）	Marie	(I hope that everyone has another wonderful year filled with happiness.)	玛莉	（希望大家在新的一年也能过上幸福的生活。）	瑪莉	（希望大家今年一整年都能過得幸福。）
+SeasonalTalkEvent_003_013ID	11	Lilie	リリー	マルローネと会うのは、前に村の病気の件で手伝って\nもらって以来かしら	Lilie	You know, I don't think I've seen you since the outbreak in the village, Marlone.	莉莉	在帮忙处理那个村庄疾病的事之后，\n就没有见过玛洛娜了。	莉莉	好久沒見到妳了，\n上次見面是妳來幫忙處理村子疾病的時候吧。
+SeasonalTalkEvent_003_013ID	12	Marie	マリー	そういえばそんなこともあったわね	Marie	Oh, right, I nearly forgot about that.	玛莉	是啊，那件事感觉也像过去很久了一样。	瑪莉	這麼一說的確有過這件事。
+SeasonalTalkEvent_003_013ID	13	Lilie	リリー	あれ？　そういえば、エリーはあの後\n一緒についていったんじゃなかったかしら？	Lilie	Hm? Come to think of it, didn't Elie go with you after that?	莉莉	咦？这么一说，\n艾莉在那之后不是跟你们一起走了吗？	莉莉	咦？話說回來，\n艾莉在那之後不是跟妳們一起走了嗎？
+SeasonalTalkEvent_003_013ID	14	Elie	エリー	ええ。ただ、お互いやりたいことができたので、\nすぐに別れたんです	Elie	I did. But we had our own projects to work on, so we ended up going our separate ways pretty quickly.	艾莉	是的，但我们都有各自想做的事，\n所以很快就分别了。	艾莉	嗯。不過，因為我們各自有想做的事情，\n所以很快就分開了。
+SeasonalTalkEvent_003_013ID	15	Ruven	ルーウェン	やりたいことって、なんなんだ？	Ruven	What was it that you wanted to do?	路温	什么想做的事？	路溫	想做的事，是指什麼事？
+SeasonalTalkEvent_003_013ID	16	Marie	マリー	あたしは知識の探究……かな。\nこの世界の錬金術について、もっと詳しく知りたい	Marie	I wanted to...do research, I guess? I'd like to learn more about how alchemy in this world works.	玛莉	我想做的……大概是探究知识吧。\n我想更深入地了解这个世界的炼金术。	瑪莉	我的話是……鑽研知識吧。\n我想更深入了解這個世界的鍊金術。
+SeasonalTalkEvent_003_013ID	17	Elie	エリー	私は、自分の錬金術で何ができるかを探しています	Elie	I want to see what I can accomplish here with my own knowledge.	艾莉	我是在寻找用自己的炼金术能做到些什么。	艾莉	我則是在尋找自己的鍊金術能做到的事。
+SeasonalTalkEvent_003_013ID	18	Mu	ミュー	あたしにはよく分からない話だけど、\nでも、やりたいことをやれるならそれが一番いいよね	Mu	I don't really get what you're talking about, but it's great that you've got a goal.	缪羽	我不太懂，\n不过，能做想做的事就是最幸福的吧。	繆羽	雖然我不太懂這些，\n不過的確選擇做自己想做的事是最好的。
+SeasonalTalkEvent_003_013ID	19	Ruven	ルーウェン	まあ、それはそうだな	Ruven	That's all well and good, but...	路温	那倒没错。	路溫	嗯，妳說得對。
+SeasonalTalkEvent_003_013ID	20	Ruven	ルーウェン	ただな、マリー。爆弾使うのは程々にしといてくれよ。\n前は危うくこっちが吹き飛ぶとこだったんだから	Ruven	Go easy on the bombs, would you? I almost got blown to pieces last time.	路温	不过玛莉，你用炸弹也得有个度。\n之前差点把我们给炸飞了。	路溫	不過啊，瑪莉。妳用炸彈麻煩適可而止。\n之前可是差一點就連我一起炸飛了。
+SeasonalTalkEvent_003_013ID	21	Marie	マリー	あはは……ごめん	Marie	Ahaha... Sorry about that.	玛莉	啊哈哈……抱歉。	瑪莉	啊哈哈……抱歉。
+SeasonalTalkEvent_003_013ID	22	Mu	ミュー	でも、マリーと冒険するの、楽しくて好きだなあ。\n何が起こるか分からなくてワクワクするし	Mu	I like going on adventures with you, Marie. They're lots of fun! I never really know what's going to happen, which is exciting.	缪羽	但是我很喜欢跟玛莉冒险，一路上都很开心，\n完全预料不到接下来会发生什么，让人特别兴奋。	繆羽	不過，跟瑪莉一起冒險很有趣，我很喜歡。\n都不知道會發生什麼事，讓人很興奮。
+SeasonalTalkEvent_003_013ID	23	Lilie	リリー	それ、あんまりほめてないような……	Lilie	Um, that doesn't exactly sound like a compliment, though.	莉莉	这话不像在夸人……	莉莉	感覺這聽起來不太像讚美……
+SeasonalTalkEvent_003_013ID	24	Ruven	ルーウェン	それじゃ、そろそろ解散すっか。またな、マリー	Ruven	Well, I guess it's about time we got going. See you around, Marie.	路温	是时候解散啦。再见，玛莉。	路溫	那麼，我們差不多該解散了吧。瑪莉，再見。
+SeasonalTalkEvent_003_013ID	25	Mu	ミュー	また一緒に冒険しようね～	Mu	Let's go on another adventure sometime!	缪羽	下次再一起冒险吧～	繆羽	之後再一起冒險吧～
+SeasonalTalkEvent_003_013ID	26	Lilie	リリー	新しい１年も、お互い頑張りましょ！	Lilie	It's a new year, so let's work hard and do our best!	莉莉	新的一年里也一起加油吧！	莉莉	新的一年也一起加油哦！
+SeasonalTalkEvent_003_013ID	27	Elie	エリー	マルローネさん、お元気で！	Elie	Take care, Marlone!	艾莉	玛洛娜小姐，保重身体！	艾莉	瑪洛娜，請多保重！
+SeasonalTalkEvent_003_013ID	28	Marie	マリー	うん。みんな、今後ともよろしくね！	Marie	Thanks, I will. See you all later!	玛莉	嗯。各位，今后也请多关照啦！	瑪莉	嗯。今後也麻煩各位多多指教！
+SeasonalTalkEvent_003_013ID	29	Lilie	リリー	独学で錬金術を覚えた経歴を持つ。\nマリーと同じ「ザールブルグ」からやって来た	Lilie	A self-taught alchemist. Comes from Salburg, just like Marie.	莉莉	自学成才习得了炼金术。\n与玛莉一样来自“萨尔布鲁克”。	莉莉	擁有自學鍊金術的經歷。\n與瑪莉一樣來自「薩爾布魯克」。
+SeasonalTalkEvent_003_013ID	30	Elfir Traum	エルフィール・トラウム	愛称「エリー」。真面目な性格でマリーを慕っている。\nリリーやマリーと村の風土病治療で協力した	Elfir Traum	"More commonly known as ""Elie."" Seriously idolizes Marie. She helped find a cure for a disease that was plaguing a village with Lilie and Marie."	艾菲尔·特劳姆	爱称“艾莉”，个性认真，仰慕玛莉。\n与莉莉和玛莉一起帮忙治好了一座村子里的地方病。	艾菲爾‧特勞姆	暱稱為「艾莉」。個性認真，很仰慕瑪莉。\n曾和莉莉與瑪莉合作治療村子裡的地方流行病。
+SeasonalTalkEvent_003_013ID	31	Ruven Filnir	ルーウェン・フィルニール	威勢のいい冒険者の青年。\nマリーと同じ世界からやって来ている	Ruven Filnir	A young, spirited adventurer. He comes from the same world as Marie.	路温·芬尔尼鲁	威风凛凛的青年冒险者。\n与玛莉来自同一个世界。	路溫‧芬爾尼魯	意氣風發的冒險者青年。\n來自和瑪莉相同的世界。
+SeasonalTalkEvent_003_013ID	32	Mu Seqstanse	ミュー・セクスタンス	各地を放浪している冒険者。\nマリーと同じ世界の、南国の出身	Mu Seqstanse	A roving adventurer who hails from the southern lands in Marie's world.	缪羽·塞克丝坦斯	浪迹各地的冒险者。\n与玛莉来自同一个世界，在南国出生。	繆羽‧塞克絲坦斯	漂泊於各地的冒險者。\n出身於南國，來自和瑪莉相同的世界。
+SeasonalTalkEvent_003_014ID	0	Marie	マリー	ただいまー！	Marie	We're baaack!	玛莉	我回来了——！	瑪莉	我們回來了──！
+SeasonalTalkEvent_003_014ID	1	Saskia	ザスキア	あら、おかえりなさい	Saskia	Well! Welcome home.	萨丝琪亚	哎呀，你回来啦。	薩絲琪亞	哎呀，歡迎回來。
+SeasonalTalkEvent_003_014ID	2	Resna	レスナ	ええっ！？　師匠、このご馳走どうしたんですか！？	Resna	Huh?! Miss Saskia, what's with all the food?!	蕾斯娜	咦？！师父，怎么有一桌好吃的？！	蕾斯娜	咦咦！？師父，這些美食是怎麼回事！？
+SeasonalTalkEvent_003_014ID	3	Iksel	イクセル	俺が用意したんだ。挨拶とお守りのお返しだと\n思ってくれ。みんなで新年を祝おうぜ	Iksel	I made it as thanks for the New Year's greetings and the charm. I figured we should kick the year off right.	伊克赛尔	这是我做的，就当是感谢你们的问候和护身符。\n大家来一起庆祝新年吧。	伊克賽爾	是我準備的。妳就把這些當成\n拜年禮物和護身符的回禮吧。大家一起來慶祝新年吧。
+SeasonalTalkEvent_003_014ID	4	Valeria	ヴァレリア	待ってました！	Valeria	We've been waiting for you guys!	瓦莱莉娅	就等你们啦！	瓦萊莉婭	總算可以吃了！
+SeasonalTalkEvent_003_014ID	5	Marion	マリオン	他のみんなからも、お礼の手紙やお返しが\n続々と届いてるわよ	Marion	Anyone not here has sent thank you letters, too. They've been coming one after the other.	玛丽翁	我们陆续收到了别人送来的感谢信和礼物。	瑪麗翁	其他人的道謝信以及回禮\n也陸續送到了唷。
+SeasonalTalkEvent_003_014ID	6	Resna	レスナ	本当ですか！？	Resna	You really mean it?!	蕾斯娜	真的吗？！	蕾斯娜	真的嗎！？
+SeasonalTalkEvent_003_014ID	7	Marion	マリオン	ほら、これとか	Marion	Go on, see for yourselves.	玛丽翁	比如这个。	瑪麗翁	妳看，這些都是。
+SeasonalTalkEvent_003_014ID	8	Marie	マリー	これ……コルネリアたちと一緒に考えた初売りの！	Marie	Oh! This is from Corneria's First Sale stock, like we were talking about!	玛莉	这是……我和柯尔涅莉雅他们一起想出来的新年首卖品！	瑪莉	這是……我和柯爾涅莉雅她們一起想的新年首賣商品！
+SeasonalTalkEvent_003_014ID	9	Rorona	ロロナ	じゃーん！　これはおめでたい食材を\nふんだんに盛り込んだ新年パイです！	Rorona	Ta-dah! These are my special bursting-with-lucky-ingredients New Year's pies!	萝乐娜	快看！\n这个是装满了吉祥寓意食材的新年派！	蘿樂娜	登登～！\n這是塞滿各種吉祥食材的新年派！
+SeasonalTalkEvent_003_014ID	10	Marie	マリー	美味しそうじゃない！	Marie	They look so good!	玛莉	看起来好好吃啊！	瑪莉	感覺好好吃！
+SeasonalTalkEvent_003_014ID	11	Saskia	ザスキア	他にも色々来てるわよ	Saskia	Really, this is only a portion of what has arrived at the atelier for you.	萨丝琪亚	还有别的东西哦。	薩絲琪亞	其他還有很多喔。
+SeasonalTalkEvent_003_014ID	12	Saskia	ザスキア	……私が思っている以上に、\nたくさんの繋がりが生まれていたのね	Saskia	I must say, you've made a good many more connections than I was expecting.	萨丝琪亚	……看来建立起的全新关系，\n比我想的还多啊。	薩絲琪亞	……妳連繫起的情誼，\n比我想像中還要多呢。
+SeasonalTalkEvent_003_014ID	13	Resna	レスナ	皆さん……	Resna	You guys...	蕾斯娜	各位……	蕾斯娜	大家……
+SeasonalTalkEvent_003_014ID	14	Marie	マリー	頑張ってよかったわね、レスナ！	Marie	All that hard work really paid off, didn't it?	玛莉	我们这么努力是值得的呢，蕾斯娜！	瑪莉	不枉費我們這麼努力了，蕾斯娜！
+SeasonalTalkEvent_003_014ID	15	Resna	レスナ	はい！	Resna	Yeah!	蕾斯娜	是的！	蕾斯娜	是的！
+SeasonalTalkEvent_003_014ID	16	Marie	マリー	ふう……お腹いっぱい！\nそれに、歩き回って疲れたあ……	Marie	Phew, I'm stuffed! Plus, we wore ourselves out with all that walking earlier...	玛莉	呼……好饱啊！\n而且到处走了那么久也累坏了……	瑪莉	呼……塞滿肚子了！\n而且四處奔波好累人喔……
+SeasonalTalkEvent_003_014ID	17	Resna	レスナ	あれ、マルローネ先輩？	Resna	Huh? Marlone?	蕾斯娜	咦，玛洛娜前辈？	蕾斯娜	咦，瑪洛娜前輩？
+SeasonalTalkEvent_003_014ID	18	Valeria	ヴァレリア	寝ちゃってるわね	Valeria	She's conked out.	瓦莱莉娅	她睡着了啊。	瓦萊莉婭	她好像睡著了。
+SeasonalTalkEvent_003_014ID	19	Resna	レスナ	なんだか幸せそう……先輩、寝顔も素敵です	Resna	She looks so happy. And so pretty, too!	蕾斯娜	前辈好像一脸幸福呢……她的睡脸也好美呀。	蕾斯娜	感覺她睡得很幸福……前輩睡著的樣子也好可愛。
+SeasonalTalkEvent_003_014ID	20	Valeria	ヴァレリア	楽しい夢でも見てるのかしら	Valeria	I wonder what kind of dream she's having. I hope it's a good one.	瓦莱莉娅	是梦见了开心的事吗？	瓦萊莉婭	她可能正在快樂的夢裡吧。
+SeasonalTalkEvent_003_015ID	0	Marie	マリー	ここは……	Marie	This is...	玛莉	这里是……	瑪莉	這裡是……
+SeasonalTalkEvent_003_015ID	1	Marie	マリー	前にレスナたちと探索した場所ね。\nふふっ。懐かしいわ	Marie	Oh, it's the beach that Resna and I ended up exploring. Hehe, that brings back memories.	玛莉	是之前跟蕾斯娜他们一起探索过的地方吧？\n呵呵，好怀念啊。	瑪莉	之前和蕾斯娜她們探索過的地方吧。\n呵呵。真懷念。
+SeasonalTalkEvent_003_015ID	2	Marie	マリー	（あれから色んなことがあったわね……）	Marie	(So much has happened since then, too.)	玛莉	（在那之后发生了好多事……）	瑪莉	（在那之後發生了好多事情……）
+SeasonalTalkEvent_003_015ID	3	Marie	マリー	ん？　何かしら……日の出？	Marie	Hm? Is that...the sunrise?	玛莉	嗯？那是什么……日出？	瑪莉	嗯？那是什麼……日出？
+SeasonalTalkEvent_003_015ID	4	Marie	マリー	（ううん。このランターナで、そんなものが見られる\n　はずがないし……なんだろ？）	Marie	(No, couldn't be. This is Lantarna, and that's a sight you'd never see here. Right?)	玛莉	（不，在兰塔纳是看不到那种现象的……\n　那究竟是什么？）	瑪莉	（不對。這裡是蘭塔納，\n　應該看不到這種景色才對……那究竟是什麼？）
+SeasonalTalkEvent_003_015ID	5	Marie	マリー	ん？　んんんん？　船！？	Marie	Huh? Whaaat? A boat?!	玛莉	嗯？嗯嗯嗯？一艘船？！	瑪莉	嗯？嗯嗯嗯嗯？船！？
+SeasonalTalkEvent_003_015ID	6	Marie	マリー	ど、どうしてみんなが！？	Marie	Wh-What's everyone doing there?!	玛莉	为、为什么大家会在船上？！	瑪莉	為、為什麼大家都在！？
+SeasonalTalkEvent_003_015ID	7	Marie	マリー	でも……なんか楽しそう！	Marie	Oh, but they look like they're having fun!	玛莉	不过……气氛好开心啊！	瑪莉	不過……看起來好開心啊！
+SeasonalTalkEvent_003_015ID	8	Resna	レスナ	この船の針路は希望に溢れた未来です！	Resna	This ship's course is set for a bright future!	蕾斯娜	这艘船的目的地是充满希望的未来！	蕾斯娜	這艘船要航向充滿希望的未來！
+SeasonalTalkEvent_003_015ID	9	Resna	レスナ	どんな困難が待っていたとしても、己の力を信じ、\n突き進んでいきます！	Resna	No matter what problems we face, I believe that my power will see us through!	蕾斯娜	无论有怎样的困难在等着我们，\n我们都会相信自己的力量，向前迈进！	蕾斯娜	不管前方有什麼困難在等著我們，\n都要相信自己的力量，奮力前進！
+SeasonalTalkEvent_003_015ID	10	Valeria	ヴァレリア	安心して。船の行く手を阻むものは\n私が倒してあげる！　そして食べる！	Valeria	Don't worry. If anything gets in our way, I'll blow it out of the water! Then eat it!	瓦莱莉娅	放心吧，我会打倒那些妨碍我们前进的东西！\n然后大快朵颐！	瓦萊莉婭	放心吧。我會打倒阻止這艘船前進的敵人！\n然後吃掉他！
+SeasonalTalkEvent_003_015ID	11	Resna	レスナ	マルローネ先輩もどうぞこっちへ！	Resna	Come on, Marlone! Hop aboard!	蕾斯娜	玛洛娜前辈，你也快过来呀！	蕾斯娜	瑪洛娜前輩也過來這裡吧！
+SeasonalTalkEvent_003_015ID	12	Marie	マリー	ええ！	Marie	Okay!	玛莉	嗯！	瑪莉	好！
+SeasonalTalkEvent_003_015ID	13	Marie	マリー	行きましょう！　共に希望の未来へ！	Marie	Let's set sail! Our future awaits!	玛莉	朝着充满希望的未来前进吧！	瑪莉	出發吧！一起前往充滿希望的未來！
+SeasonalTalkEvent_003_015ID	14	Marie	マリー	ん……	Marie	Mnh...	玛莉	嗯……	瑪莉	嗯……
+SeasonalTalkEvent_003_015ID	15	Resna	レスナ	目が覚めましたか？　マルローネ先輩	Resna	Are you awake now, Marlone?	蕾斯娜	玛洛娜前辈，你醒了吗？	蕾斯娜	瑪洛娜前輩，妳醒來了嗎？
+SeasonalTalkEvent_003_015ID	16	Marie	マリー	ああ……あたし、寝ちゃってたのね	Marie	Oh... I fell asleep.	玛莉	嗯……刚才打了个瞌睡。	瑪莉	喔……我睡著了啊。
+SeasonalTalkEvent_003_015ID	17	Valeria	ヴァレリア	すごく幸せそうな顔をしてたけど、\n何かいい夢でも見た？	Valeria	You looked like you were having a great dream though. What'd you dream of?	瓦莱莉娅	刚才你的表情很幸福呢，\n是做了什么美梦吗？	瓦萊莉婭	妳剛才的表情好幸福，\n做了什麼好夢嗎？
+SeasonalTalkEvent_003_015ID	18	Marie	マリー	うーん、ちょっと変な夢だったけど……\nでも、いい気分になれる夢だったわ	Marie	Um, it was a little odd, but...it was warm and fuzzy.	玛莉	唔，那个梦有一点点离奇……\n但让人心情很好。	瑪莉	嗯～那個夢有點奇怪……\n不過，是個讓人心情愉悅的夢。
+SeasonalTalkEvent_003_015ID	19	Resna	レスナ	ふふ、新年早々、縁起がいいですね	Resna	Hehe! That sounds like a good start to the new year.	蕾斯娜	呵呵，刚过新年就做了吉祥的梦呀。	蕾斯娜	呵呵，新年做這種夢是好兆頭呢。
+SeasonalTalkEvent_003_015ID	20	Marie	マリー	そうね。なんだか今年もいい１年になりそう！	Marie	Yeah. It feels like this is going to be a great year!	玛莉	是啊，感觉预示着今年一定会过得很好！	瑪莉	是啊。感覺今年也會是個不錯的一年！
+SeasonalTalkEvent_003_015ID	21	Marie	マリー	二人は？　今年はどんな１年にしたい？	Marie	What about you two? Is there anything you want to do?	玛莉	你们呢？希望今年会是怎样的一年？	瑪莉	妳們兩個呢？今年想過怎麼樣的一年？
+SeasonalTalkEvent_003_015ID	22	Resna	レスナ	そうですね。去年はようやく目標への第一歩を\n踏み出したところなので……	Resna	Hmm... I finally started taking the first steps towards my goals last year, so...	蕾斯娜	我想想，\n去年总算是朝着目标踏出了第一步……	蕾斯娜	這個嘛……我去年總算朝目標踏出了第一步，\n所以……
+SeasonalTalkEvent_003_015ID	23	Resna	レスナ	さらに己を鍛え、自信を付けて、\n大目標である果ての大陸を目指して突き進みます！	Resna	I want to keep working on my strength and self-confidence and push toward my ultimate goal—the World's End!	蕾斯娜	今年要继续锻炼自己，增加自信，\n继续朝着终极大陆这个大目标迈进！	蕾斯娜	我要繼續鍛鍊自己、培養自信，\n朝最大的目標──終極大陸奮力前進！
+SeasonalTalkEvent_003_015ID	24	Marie	マリー	（あれ、さっき見た夢の中でも\n　似たようなことを聞いたような……）	Marie	(Huh? This sounds kind of familiar. Didn't I hear something like it in my dream?)	玛莉	（咦，在我刚才的梦里，\n　好像也听见过类似的话……）	瑪莉	（咦？總覺得我剛才好像在夢裡\n　也聽過類似的話……）
+SeasonalTalkEvent_003_015ID	25	Resna	レスナ	あ、あと！　最近忙しくて、買ったまま放置している\n本がたくさんあるので……それを読破したいです！	Resna	Also! I've been kind of busy, so I've been buying books and letting them pile up without reading them! I'm planning on putting a dent in those numbers!	蕾斯娜	还、还有！最近太忙了，有好多书买了没看……\n我想看完那些堆积的书！	蕾斯娜	還、還有！我最近太忙，\n買了很多書都放著沒讀……我想把它們讀完！
+SeasonalTalkEvent_003_015ID	26	Valeria	ヴァレリア	それじゃあ、私は美味しいものをたくさん食べる！\nそしてたくさん寝る！	Valeria	I'm going to eat even more delicious things than I did last year! And sleep a whole bunch, too!	瓦莱莉娅	那我要吃很多好吃的东西！\n然后睡到饱！	瓦萊莉婭	那我要盡情吃美食！\n再盡情睡到飽！
+SeasonalTalkEvent_003_015ID	27	Marie	マリー	あはは。二人らしいわね	Marie	Ahaha! That's so like you two.	玛莉	哈哈，一听就是你们会说的话。	瑪莉	啊哈哈。真像妳們的作風。
+SeasonalTalkEvent_003_015ID	28	Marie	マリー	（んー、やっぱり気のせいだったかしら？\n　……まあ、いいか！）	Marie	(Was it just my imagination? Well, whatever!)	玛莉	（唔，是我的错觉吗？\n　算了，不管啦！）	瑪莉	（嗯～果然是我的錯覺嗎？\n　……算了，不管了！）
+SeasonalTalkEvent_003_015ID	29	Marie	マリー	あたしも、二人に負けないように頑張らないとね。\n錬金術の真理を追い求めて、調査と研究に打ち込む！	Marie	I won't let my own ambitions be any less than yours! I'm going to keep up with my research and uncover the truths about alchemy!	玛莉	我也不能输给你们俩，\n我要继续努力，追寻炼金术的真理，潜心调查研究！	瑪莉	我也要好好努力，不能輸給妳們。\n我要追求鍊金術的真理，認真投入調查與研究！
+SeasonalTalkEvent_003_015ID	30	Marie	マリー	みんな、改めて――今年もよろしくね！	Marie	But in case I haven't said it enough... Happy New Year!	玛莉	各位，容我再说一遍——今年也请多关照！	瑪莉	各位──今年也請多多指教！

@@ -1,0 +1,466 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_005_02_001ID	0	Marie	マリー	みんな集まってるわね	Marie	Good, it looks like everyone's here.	玛莉	同学们都到齐了吧。	瑪莉	大家都到了吧。
+SeasonalTalkEvent_005_02_001ID	1	Marie	マリー	今日、錬金術部で期末に開催される\nチーム対抗戦の内容が決定したわよ！	Marie	I've got information for you about our end-of-term team competition today!	玛莉	炼金术社团期末举行的小队对抗赛的内容，\n已经在今天定好了哦！	瑪莉	鍊金術社期末要舉辦的隊伍對抗賽，\n今天已經訂好內容了！
+SeasonalTalkEvent_005_02_001ID	2	Resna	レスナ	対抗戦……！	Resna	Wow...!	蕾斯娜	对抗赛……！	蕾斯娜	對抗賽……！
+SeasonalTalkEvent_005_02_001ID	3	Ryza	ライザ	あー、もうそんな時期だっけ	Ryza	Ooh, it's that time of year again.	莱莎	啊——已经到这时候了吗。	萊莎	啊，已經到這個時期了啊。
+SeasonalTalkEvent_005_02_001ID	4	Marie	マリー	今期の対抗戦の内容は――これよ！	Marie	So, the theme of this throwdown is...	玛莉	这次对抗赛的内容——是这个！	瑪莉	本期的對抗賽內容就是──這個！
+SeasonalTalkEvent_005_02_001ID	5	Rorona	ロロナ	「チーム対抗バトルロイヤル」……？	Rorona	A three-way battle royale?	萝乐娜	“小队对抗大乱斗”……？	蘿樂娜	「分組對戰大亂鬥」……？
+SeasonalTalkEvent_005_02_001ID	6	Marie	マリー	そう！　３つのチームが戦って、\n最後まで脱落せずに残っていたチームが勝ち！	Marie	That's right! The Kitty Cats, Fuzzy Bears, and Sleek Snakes are going to battle it out until there's only one team left standing!	玛莉	没错！3支小队混战，\n留到最后没被淘汰的那一支获胜！	瑪莉	沒錯！我們會分為三組隊伍互相對戰，\n撐到最後都沒被淘汰的隊伍即可獲勝！
+SeasonalTalkEvent_005_02_001ID	7	Marie	マリー	基本的には全員参加で、\nチーム全員が戦闘不能になった時点で脱落よ	Marie	Really, that's all there is to it. Everyone gets to participate, but once you're unable to continue fighting, you're out.	玛莉	按规则所有成员都要参加，\n当一支小队全员都无法战斗时，即被视为淘汰。	瑪莉	原則上所有人都要參加，\n當隊伍全體都無法戰鬥時就視為淘汰。
+SeasonalTalkEvent_005_02_001ID	8	Sophie	ソフィー	へぇ、分かりやすくていいじゃん	Sophie	Hm, that's pretty straightforward.	苏菲	哦，规则很浅显易懂嘛。	蘇菲	哦，簡單明瞭真不錯。
+SeasonalTalkEvent_005_02_001ID	9	Mimi	ミミ	あまり錬金術と関係ないような……	Mimi	I fail to see what that has to do with alchemy, though.	敏敏	感觉和炼金术没什么关系……	敏敏	感覺跟鍊金術好像沒什麼關係……
+SeasonalTalkEvent_005_02_001ID	10	Marie	マリー	そんなことないわよ。錬金術で作った道具も、\nもちろん使用可能だもの！	Marie	Well, let me tell you. This isn't a regular brawl—alchemical tools are encouraged!	玛莉	当然有关系。\n因为比赛中可以使用炼金术制作的道具！	瑪莉	才沒這回事。\n妳們用鍊金術製作的道具當然能在戰鬥中使用啊！
+SeasonalTalkEvent_005_02_001ID	11	Resna	レスナ	じゃあ、強力な爆弾とか、治療用のお薬とか、\n相手の動きを止める罠とかも使えるってことですか！	Resna	So we could blast people with bombs or keep our health up with salves? Oooh, we could even use traps to stop our opponents where they stand!	蕾斯娜	那强大的炸弹、治疗用药、\n能阻止对手行动的陷阱也可以使用吗！	蕾斯娜	也就是說，可以使用強力炸彈、治療用的藥品，\n或是阻止對手行動的陷阱囉！
+SeasonalTalkEvent_005_02_001ID	12	Marie	マリー	危険すぎるようなものは禁止だけどね。\nでも、錬金術の腕もかなり勝敗に影響するはずよ	Marie	Well, anything that's too dangerous is banned. Still, that leaves a lot of wiggle room. And skill really makes the difference between winning and losing.	玛莉	太过危险的道具是不允许用的。\n不过，炼金术技术会对胜负有影响哦。	瑪莉	太危險的東西會禁止使用。\n不過，鍊金術的實力應該還是能大幅左右隊伍的勝負。
+SeasonalTalkEvent_005_02_001ID	13	Mimi	ミミ	チーム内の連携が重要そうですね	Mimi	We'll need to come up with some strategies as a team then.	敏敏	看来队内合作是很重要的。	敏敏	感覺隊伍成員間的相互配合很重要。
+SeasonalTalkEvent_005_02_001ID	14	Rorona	ロロナ	うん。まずは各々の得意分野を考慮して作戦を……	Rorona	Yep. We should start by taking people's strengths into consideration, too.	萝乐娜	嗯。先来结合每个人擅长的领域拟定作战计划……	蘿樂娜	嗯。首先得依各個成員的擅長領域來擬定作戰……
+SeasonalTalkEvent_005_02_001ID	15	Ryza	ライザ	あたしは元気が出る料理でも作ろうかなー	Ryza	I'm really good at making energy-boosting meals, I guess?	莱莎	我来做些鼓舞士气的料理吧——	萊莎	不然我來做讓人充滿活力的料理好了～
+SeasonalTalkEvent_005_02_001ID	16	Resna	レスナ	腹が減っては戦はできぬといいますからね！\n私も何か役に立つものを考えなきゃ	Resna	And we definitely can't fight on empty stomachs! Um, I'd better do some thinking about what I can contribute.	蕾斯娜	毕竟人是铁饭是钢嘛！\n我也得想想自己能做些什么。	蕾斯娜	畢竟有句話說餓著肚子是打不了仗的嘛！\n我也得想想自己可以幫上什麼忙才行。
+SeasonalTalkEvent_005_02_001ID	17	Sophie	ソフィー	道具に頼ってばかりじゃダメだよ。\n自分自身の強さも磨いていかないと	Sophie	We probably shouldn't put all our Uni in one basket, either. We'll have to do some personal training, too.	苏菲	不能只依靠道具哦。\n还得让自身也变得强大起来。	蘇菲	不能太過依賴道具，\n也得加強磨練自己的實力才行。
+SeasonalTalkEvent_005_02_001ID	18	Marie	マリー	ふふ、みんなやる気満々ね。対抗戦の模様は\n全校中継されるから、恥ずかしい戦いはしないように！	Marie	*Chuckle* It's good to see that you're all taking this so seriously. By the way, the entire campus is going to serve as the battlefield, so it's not going to be an easy fight!	玛莉	呵呵，大家都干劲十足呢。届时战况会向全校转播，\n所以我们要打出有水平的战斗！	瑪莉	呵呵，大家都幹勁十足呢。\n對抗賽的戰況會向全校實況轉播，認真表現別丟臉囉！
+SeasonalTalkEvent_005_02_001ID	19	Resna	レスナ	全校中継……！　注目度大ですね！	Resna	Oh, wow! That really is a lot of space!	蕾斯娜	全校转播……！原来关注度这么高啊！	蕾斯娜	全校實況轉播……！會備受關注呢！
+SeasonalTalkEvent_005_02_001ID	20	Marie	マリー	部費を多くゲットするためにも、\nチーム全員で勝ちに行くわよ！	Marie	All right, ladies. For the sake of a better team budget, let's aim for victory!	玛莉	为了争取更多社团经费，\n小队全员一起加油赢得比赛吧！	瑪莉	為了爭取更多的社費，\n我們隊伍全體成員要一起努力贏得勝利哦！
+SeasonalTalkEvent_005_02_001ID	21		みんな	おーー！！	Everyone	Yeaaah!	所有人	好——！！	大家	好──！！
+SeasonalTalkEvent_005_02_001ID	22	Sophie	ソフィー	直接対決となると、\n他のチームの戦力も把握しておかないとね	Sophie	Since we're going to be facing off against the other teams directly, it probably wouldn't be a bad idea to get a sense of what they're capable of too.	苏菲	既然要直接对战，\n就必须得了解其他小队的战斗能力才行。	蘇菲	要正面對決的話，\n就得先掌握其他隊伍的戰力才行。
+SeasonalTalkEvent_005_02_001ID	23	Ryza	ライザ	そういえば、あの子は結局どこのチームにも\n入らなかったのかな？	Ryza	That reminds me. What about that other girl? I wonder if she's still not on a team.	莱莎	说起来，那个女生最后哪支小队都没有加入吗？	萊莎	話說回來，\n結果她到最後都沒有加入任何隊伍嗎？
+SeasonalTalkEvent_005_02_001ID	24	Sophie	ソフィー	あの子？	Sophie	Who?	苏菲	那个女生？	蘇菲	她？
+SeasonalTalkEvent_005_02_001ID	25	Rorona	ロロナ	エレンちゃん、だよね	Rorona	You know, Eren.	萝乐娜	是艾莲吧？	蘿樂娜	就是艾蓮啊。
+SeasonalTalkEvent_005_02_001ID	26	Sophie	ソフィー	あー……ま、何か事情があるんじゃない？\n深入りされたくないこともあるよ	Sophie	Oh, right. Well, I guess she's got her own stuff to deal with? Not that we need to be putting our noses into it.	苏菲	嗯……她应该有自己的理由吧。\n谁都会有不想让人知道的秘密呀。	蘇菲	啊……嗯，應該是有什麼理由吧？\n有些人就不太想被追問。
+SeasonalTalkEvent_005_02_001ID	27	Rorona	ロロナ	そうなのかなあ。困ったりしてないといいんだけど	Rorona	That's true enough. I just hope she's not in any sort of trouble.	萝乐娜	这样啊，希望她不是遇到了什么难处。	蘿樂娜	是這樣嗎？希望她不是碰上了什麼困難。
+SeasonalTalkEvent_005_02_001ID	28	Eren	エレン	…………	Eren	...	艾莲	……	艾蓮	…………
+SeasonalTalkEvent_005_02_001ID	29	Eren	エレン	……私には関係ない	Eren	Not my problem.	艾莲	……和我无关。	艾蓮	……跟我無關。
+SeasonalTalkEvent_005_02_002ID	0	Sophie	ソフィー	５限目は自習かあ。昼寝でもしよっかな	Sophie	Fifth period's study hall? Maybe I'll just take a nap...	苏菲	第5节课是自习啊，要不要睡个午觉呢。	蘇菲	第五節課是自習嗎？來睡個午覺好了。
+SeasonalTalkEvent_005_02_002ID	1	Ryza	ライザ	あんまりサボってると委員長に怒られちゃうよ～	Ryza	You'd better not, unless you want an earful from the class prez.	莱莎	太偷懒可是会被班长骂的哦～	萊莎	老是偷懶的話班長可是會生氣的喔～
+SeasonalTalkEvent_005_02_002ID	2	Rorona	ロロナ	…………	Rorona	...	萝乐娜	……	蘿樂娜	…………
+SeasonalTalkEvent_005_02_002ID	3	Ryza	ライザ	あれ？　反応なし？\nよーし、今のうちにトランプでもやろっか！	Ryza	What, no response to that? Okay, let's play cards instead!	莱莎	咦？没反应？\n好，那就趁现在玩会儿扑克牌吧！	萊莎	咦？沒反應？\n很好～趁現在來玩個撲克牌吧！
+SeasonalTalkEvent_005_02_002ID	4	Mimi	ミミ	ライザ先輩までサボらないでください。\nロロナ先輩、どうしたんですか？	Mimi	Ryza, please take your studies more seriously. Rorona, is everything okay?	敏敏	莱莎前辈，不要连你也跟着溜号啊。\n萝乐娜前辈，你怎么了？	敏敏	麻煩萊莎學姐不要跟著偷懶。\n蘿樂娜學姐，妳怎麼了？
+SeasonalTalkEvent_005_02_002ID	5	Rorona	ロロナ	あ……うん。エレンちゃん、\n今日も来なかったなあって	Rorona	Hm? Oh... I was just thinking about how Eren was absent again today.	萝乐娜	啊……我在想艾莲她今天也没来上课。	蘿樂娜	啊……嗯，\n我只是在想，艾蓮今天也沒來上課耶。
+SeasonalTalkEvent_005_02_002ID	6	Ryza	ライザ	あの子も確か推薦組だったよね。\nもしかしたら、授業がいらないほどの天才なのかも？	Ryza	She's another recommendation student, right? Maybe she's sooo fabulously talented that regular schooling's beneath her.	莱莎	她好像也是通过推荐入学的吧。\n可能她是个连课都不需要上的天才？	萊莎	我記得她是推薦入學的吧。\n她該不會是厲害到不必上課的天才吧？
+SeasonalTalkEvent_005_02_002ID	7	Mimi	ミミ	いえ、飛び抜けて優秀という話は聞かないですね	Mimi	No, I think we'd have heard of someone that brilliant by now.	敏敏	不，没听说她是那种极其优秀的人才。	敏敏	不是，我沒聽說她有這麼出類拔萃。
+SeasonalTalkEvent_005_02_002ID	8	Resna	レスナ	もしかしたら、身体が弱いのかも。\n午後から登校してくることもよくあるし	Resna	Maybe her health is poor? She does show up a lot in the afternoons.	蕾斯娜	说不定是身体不好。\n她经常下午才来上学。	蕾斯娜	說不定她身體不太好。\n我常看到她下午才來上學。
+SeasonalTalkEvent_005_02_002ID	9	Mimi	ミミ	確かに、採取に行ったりとか、魔物と戦ったりとか、\nそういう課外授業ではほとんど姿を見ないわね	Mimi	It's possible. She doesn't tend to do any of the material gathering, monster hunting, or extracurriculars.	敏敏	的确，几乎没见她参加过\n采集和对抗魔物之类的校外授课。	敏敏	的確，像是採集或是和魔物戰鬥這類校外教學，\n我都幾乎沒看過她參加。
+SeasonalTalkEvent_005_02_002ID	10	Rorona	ロロナ	……えっ？	Rorona	Hm?	萝乐娜	……咦？	蘿樂娜	……咦？
+SeasonalTalkEvent_005_02_002ID	11	Rorona	ロロナ	っ……！	Rorona	...!	萝乐娜	……！	蘿樂娜	唔……！
+SeasonalTalkEvent_005_02_002ID	12	Resna	レスナ	ロロナ先輩！？　どうしたんですか、急に	Resna	Rorona?! Where are you running off to?!	蕾斯娜	萝乐娜前辈？！你怎么了？	蕾斯娜	蘿樂娜學姐！？妳突然怎麼了？
+SeasonalTalkEvent_005_02_002ID	13	Rorona	ロロナ	ごめんなさい、ちょっと急用で！	Rorona	Sorry, I've got a thing!	萝乐娜	不好意思，我有点急事！	蘿樂娜	抱歉，我有急事！
+SeasonalTalkEvent_005_02_002ID	14	Sophie	ソフィー	自習とはいえ、あの子が授業抜け出すなんて珍しいね。\n急用ってなんだろう？	Sophie	What was that about? I know it's just study hall, but Rorona barely ever misses anything school related.	苏菲	虽说是自习课，但她会翘课也真稀奇啊。\n会是什么急事呢？	蘇菲	雖然是自習，但她會翹課還真少見。\n她說的急事是什麼事呀？
+SeasonalTalkEvent_005_02_002ID	15	Ryza	ライザ	さあ……？	Ryza	Who knows?	莱莎	我也不清楚……	萊莎	誰知道……？
+SeasonalTalkEvent_005_02_002ID	16	Eren	エレン	…………？	Eren	...?	艾莲	……？	艾蓮	…………？
+SeasonalTalkEvent_005_02_002ID	17	Rorona	ロロナ	こんにちは。エレンちゃん	Rorona	Hi, Eren.	萝乐娜	你好，艾莲。	蘿樂娜	妳好，艾蓮。
+SeasonalTalkEvent_005_02_002ID	18	Eren	エレン	上級生の方が私に何かご用ですか？	Eren	What do you want?	艾莲	高年级前辈找我有事吗？	艾蓮	高年級生來找我有什麼事？
+SeasonalTalkEvent_005_02_002ID	19	Rorona	ロロナ	窓からあなたの姿が見えたから。\n今、授業中だよ？　ここで何をしてるの？	Rorona	Oh, well, I just happened to see you from the window, and... Classes are still in session, you know? What are you doing out here?	萝乐娜	我从窗户看到你在这里所以过来了。\n现在是上课时间，你在这里做什么？	蘿樂娜	我從窗戶看到妳在這。\n現在不是在上課嗎？妳在這裡做什麼呢？
+SeasonalTalkEvent_005_02_002ID	20	Eren	エレン	あなたには関係のないことです	Eren	That's none of your business.	艾莲	与你无关。	艾蓮	跟妳無關。
+SeasonalTalkEvent_005_02_002ID	21	Rorona	ロロナ	関係あるよ！　同じクラスの委員長として、\n授業を休んで出歩くような行動は見過ごせないから！	Rorona	It is my business! I'm the class president, so when I see one of my classmates walking around outside instead of in class, I just can't let it slide!	萝乐娜	怎么无关！作为班长，\n我可不会对同班同学翘课在外闲逛的行为视而不见！	蘿樂娜	當然有關囉！我身為同班的班長，\n不能對妳翹課出來閒晃的行為視若無睹！
+SeasonalTalkEvent_005_02_002ID	22	Eren	エレン	あなたも授業中に出歩いているようですが	Eren	You're skipping too, though.	艾莲	你好像也正在上课时在外闲逛啊。	艾蓮	妳現在應該也是翹課出來閒晃吧。
+SeasonalTalkEvent_005_02_002ID	23	Rorona	ロロナ	あ、あなたが外にいるのが見えたから\n注意しに来たんだよ！　……一緒に教室に行こう？	Rorona	But, well, I only came out here to give you a warning! So... Are you going to come to class with me?	萝乐娜	我、我是因为看到你在外面，才过来提醒你的！\n我们一起回教室吧……？	蘿樂娜	那、那是因為我看到妳在外面，才跑來提醒妳的！\n……我們一起回教室吧？
+SeasonalTalkEvent_005_02_002ID	24	Eren	エレン	私に構わないでください	Eren	I'd rather not.	艾莲	请不要管我。	艾蓮	麻煩別來管我。
+SeasonalTalkEvent_005_02_002ID	25	Rorona	ロロナ	どうして授業を休んでいるの？\nもしかして、どこか体調が悪いとか……	Rorona	Why do you miss so much school? Are you having some trouble with your health, or...?	萝乐娜	你为什么不来上课呢？\n莫非是身体不舒服……	蘿樂娜	為什麼妳不來上課呢？\n該不會是身體哪裡不舒服吧……
+SeasonalTalkEvent_005_02_002ID	26	Eren	エレン	いえ、別に	Eren	Nope.	艾莲	不是。	艾蓮	不是，並沒有。
+SeasonalTalkEvent_005_02_002ID	27	Rorona	ロロナ	それじゃあ、何か悩みがあるとか……	Rorona	Okay, is there something on your mind then, or...?	萝乐娜	那是有什么烦恼吗……	蘿樂娜	還是，妳有什麼煩惱……
+SeasonalTalkEvent_005_02_002ID	28	Eren	エレン	あなたに心配していただくようなことはありません	Eren	Nothing that you need to bother with.	艾莲	不需要你来担心。	艾蓮	沒有值得妳操心的事。
+SeasonalTalkEvent_005_02_002ID	29	Rorona	ロロナ	むむむ……	Rorona	Ngh...	萝乐娜	唔唔唔……	蘿樂娜	唔唔唔……
+SeasonalTalkEvent_005_02_002ID	30	Eren	エレン	他に用がないなら、もう放っておいてください	Eren	If that's all you've got, then please leave me alone.	艾莲	要是没别的事了，麻烦你放开我。	艾蓮	如果沒其他事的話，麻煩別來管我了。
+SeasonalTalkEvent_005_02_002ID	31	Rorona	ロロナ	あ、ちょっと！　さ、最後に１つだけ！	Rorona	Wait! Just one more question!	萝乐娜	啊、等等！还、还有最后一个问题！	蘿樂娜	啊、等等！還、還有最後一件事！
+SeasonalTalkEvent_005_02_002ID	32	Eren	エレン	なんですか？	Eren	What?	艾莲	什么问题？	艾蓮	什麼事？
+SeasonalTalkEvent_005_02_002ID	33	Rorona	ロロナ	錬金術部に興味はない？　授業ではやらないような\n楽しいことがいっぱいできると思うよ！	Rorona	Are you interested in the Alchemy Club at all? We get to do all sorts of fun things that we can't do in class!	萝乐娜	你对炼金术社团有兴趣吗？在那里可以做很多\n课堂上不会做的有趣的事哦！	蘿樂娜	妳對鍊金術社有興趣嗎？\n可以做很多上課不會教的有趣的事喔！
+SeasonalTalkEvent_005_02_002ID	34	Eren	エレン	……興味ありません。失礼します	Eren	I'm not. See you.	艾莲	……我不感兴趣。告辞。	艾蓮	……我沒興趣。告辭。
+SeasonalTalkEvent_005_02_002ID	35	Rorona	ロロナ	うう……行っちゃった……	Rorona	Nooo, she's gone...	萝乐娜	呜呜……走掉了……	蘿樂娜	嗚嗚……走掉了……
+SeasonalTalkEvent_005_02_002ID	36	Rorona	ロロナ	（でも、なんだか悲しそうな顔してたなあ。\n　やっぱり、何か事情があるのかも……）	Rorona	(She looked a little down, though. She must have something going on...)	萝乐娜	（不过，感觉她露出了很悲伤的表情。\n　看来是真的有什么隐情……）	蘿樂娜	（不過，總覺得她的表情有點悲傷。\n　她果然是有什麼理由吧……）
+SeasonalTalkEvent_005_02_002ID	37	Rorona	ロロナ	（また今度、声をかけてみよう！）	Rorona	(I'll try talking to her again sometime!)	萝乐娜	（下次碰到再找她聊聊吧！）	蘿樂娜	（下次再找她聊聊看好了！）
+SeasonalTalkEvent_005_02_003ID	0	Eren	エレン	…………	Eren	...	艾莲	……	艾蓮	…………
+SeasonalTalkEvent_005_02_003ID	1	Rorona	ロロナ	――――！　エレンちゃん！	Rorona	Oh...! Eren!	萝乐娜	——！艾莲！	蘿樂娜	────！艾蓮！
+SeasonalTalkEvent_005_02_003ID	2	Sophie	ソフィー	ふわあ……終わった～	Sophie	*Yaaawn* Finally done for the day.	苏菲	呼啊……放学了～	蘇菲	呼啊……結束了～
+SeasonalTalkEvent_005_02_003ID	3	Ryza	ライザ	ロロナー、部活行こー！	Ryza	C'mon, Rorona! Let's head to the club room!	莱莎	萝乐娜，我们去社团吧！	萊莎	蘿樂娜，我們去社團活動吧！
+SeasonalTalkEvent_005_02_003ID	4	Rorona	ロロナ	あっ、ごめん！\n用事があるから先に行ってて！	Rorona	Sorry! There's something I've got to do, so you go ahead!	萝乐娜	啊，抱歉！\n我还有事，你先去吧！	蘿樂娜	啊、抱歉！\n我還有點事，妳先過去吧！
+SeasonalTalkEvent_005_02_003ID	5	Ryza	ライザ	さっきも似たようなことあったね	Ryza	Isn't that basically the same thing that happened last time?	莱莎	感觉这个情景似曾相识。	萊莎	剛才也見過類似的情況呢。
+SeasonalTalkEvent_005_02_003ID	6	Sophie	ソフィー	ロロナ、どうしたんだろう……？	Sophie	Yeah. What's gotten into Rorona?	苏菲	萝乐娜这是怎么了……？	蘇菲	蘿樂娜她是怎麼了啊……？
+SeasonalTalkEvent_005_02_003ID	7	Rorona	ロロナ	はあ……ふう……\nあれ、エレンちゃんは……	Rorona	*Huff*\nPhew! Wait, where did she...	萝乐娜	呼……呼……\n咦，艾莲哪去了……	蘿樂娜	哈……呼……\n奇怪？艾蓮她……
+SeasonalTalkEvent_005_02_003ID	8	Rorona	ロロナ	あっ、いた！	Rorona	Aha! There she is!	萝乐娜	啊，找到了！	蘿樂娜	啊，找到了！
+SeasonalTalkEvent_005_02_003ID	9	Rorona	ロロナ	（どこへ行こうとしてるんだろう。もしかしたら、\n　授業を休んでいることと関係あるかも……）	Rorona	(I wonder where she's going. Maybe it's got something to do with why she's missing so much class...)	萝乐娜	（她要去哪里啊？\n　难不成和不来上课有关系吗……）	蘿樂娜	（她打算去哪裡呢？\n　說不定，和她不去上課的原因有關……）
+SeasonalTalkEvent_005_02_003ID	10	Rorona	ロロナ	――よしっ！	Rorona	Okay!	萝乐娜	——好吧！	蘿樂娜	──好！
+SeasonalTalkEvent_005_02_003ID	11	Rorona	ロロナ	はあ……いつの間にか街の外に。\n肝心のエレンちゃんは見失っちゃうし……	Rorona	*Sigh* I came all the way out of town just to lose sight of Eren.	萝乐娜	呼……不知不觉来到了郊外，\n还把目标艾莲跟丢了……	蘿樂娜	呼……不知不覺就走到了城鎮外，\n但卻把最重要的艾蓮追丟了……
+SeasonalTalkEvent_005_02_003ID	12	Rorona	ロロナ	一人でこんな森の中まで、\nいったいなんの用事があるんだろう……	Rorona	What is she doing in the forest all by herself anyway?	萝乐娜	她一个人来这样偏僻的森林，\n到底有什么事啊……	蘿樂娜	她一個人來這種森林，到底要做什麼呢……？
+SeasonalTalkEvent_005_02_003ID	13	Rorona	ロロナ	この辺りは魔物も出るし、放っておくのも\n心配だよね。ちゃんと探して連れ帰らないと！	Rorona	Monsters like to hang out around here, so I can't just leave her alone, either. I've got to find her and drag her back to the city!	萝乐娜	这附近还有魔物出没，实在让人放心不下。\n还是快点找到她把她带回去吧！	蘿樂娜	這附近會出現魔物，放著不管也滿令人擔心的。\n我得仔細找找，把她帶回去才行！
+SeasonalTalkEvent_005_02_004ID	0	Rorona	ロロナ	エレンちゃーん！　どこにいるのー！？	Rorona	Ereeen! Where are youuu?	萝乐娜	艾莲——！你在哪里——？！	蘿樂娜	艾蓮～！妳在哪裡～！？
+SeasonalTalkEvent_005_02_004ID	1	Rorona	ロロナ	うう、ぜんぜん見つからない……\nどこかで入れ違いになっちゃったのかなあ	Rorona	Ugh... I can't find her anywhere! Did she pass me going the other way somewhere?	萝乐娜	呜呜，怎么找也找不到……\n难道是在哪里和她错过了吗？	蘿樂娜	嗚嗚，完全找不到……\n是在哪裡錯過了嗎？
+SeasonalTalkEvent_005_02_004ID	2	Rorona	ロロナ	――エレンちゃん！？	Rorona	Eren?!	萝乐娜	——艾莲？！	蘿樂娜	──艾蓮！？
+SeasonalTalkEvent_005_02_004ID	3	Rorona	ロロナ	っ！　魔物！！	Rorona	Oh no! A monster!	萝乐娜	啊！是魔物！！	蘿樂娜	是魔物！！
+SeasonalTalkEvent_005_02_004ID	4	Rorona	ロロナ	ひゃあっ！？　に、逃げなきゃ……！	Rorona	Eeep! I've got to get away!	萝乐娜	呀啊？！得、得赶紧逃……！	蘿樂娜	呀啊！？我、我得逃走才行……！
+SeasonalTalkEvent_005_02_004ID	5	Rorona	ロロナ	お、追いかけてくるーー！！	Rorona	Quit following meee!	萝乐娜	追、追过来了——！！	蘿樂娜	追、追上來了──！！
+SeasonalTalkEvent_005_02_004ID	6	Rorona	ロロナ	はあっ……はあっ……	Rorona	*Huff*... *Huff*...	萝乐娜	呼……呼……	蘿樂娜	哈啊……哈啊……
+SeasonalTalkEvent_005_02_004ID	7	Rorona	ロロナ	きゃっ！	Rorona	Oof!	萝乐娜	呀！	蘿樂娜	呀啊！
+SeasonalTalkEvent_005_02_004ID	8	Rorona	ロロナ	っ……	Rorona	...	萝乐娜	唔……	蘿樂娜	……！
+SeasonalTalkEvent_005_02_004ID	9	Rorona	ロロナ	え……	Rorona	Um...	萝乐娜	咦……	蘿樂娜	咦……
+SeasonalTalkEvent_005_02_004ID	10	Rorona	ロロナ	（今の人影……もしかしてわたしを助けてくれたの？）	Rorona	(That shadowy figure just now... Did they help me?)	萝乐娜	（刚才那个人影……难道是救了我吗？）	蘿樂娜	（難道……是剛才的人影幫了我？）
+SeasonalTalkEvent_005_02_004ID	11	Rorona	ロロナ	はふぅ……よかったあ……	Rorona	Phew. That was close...	萝乐娜	呼……得救了……	蘿樂娜	呼……太好了……
+SeasonalTalkEvent_005_02_004ID	12	Rorona	ロロナ	（エレンちゃんのことは心配だけど、\n　今日はもう帰ろう……）	Rorona	(I'm still worried about Eren, but I should go home for the day...)	萝乐娜	（虽然很担心艾莲，但今天还是先回去吧……）	蘿樂娜	（雖然很擔心艾蓮，但今天還是先回去吧……）
+SeasonalTalkEvent_005_02_004ID	13	Rorona	ロロナ	（一応、エレンちゃんが戻ってるか\n　寮長さんに確認しておかなきゃ）	Rorona	(I'll check in with the dorm leader just to see if Eren made it back.)	萝乐娜	（然后得向宿舍长确认一下艾莲回去了没有。）	蘿樂娜	（還得跟宿舍長確認一下艾蓮回來了沒。）
+SeasonalTalkEvent_005_02_004ID	14	Rorona	ロロナ	……あ	Rorona	Ah.	萝乐娜	……啊。	蘿樂娜	……啊。
+SeasonalTalkEvent_005_02_004ID	15	Eren	エレン	…………？	Eren	...?	艾莲	……？	艾蓮	…………？
+SeasonalTalkEvent_005_02_004ID	16	Rorona	ロロナ	ああーーー！！	Rorona	Aaah!	萝乐娜	啊——！！	蘿樂娜	啊────！！
+SeasonalTalkEvent_005_02_004ID	17	Eren	エレン	っ……なんでしょうか？	Eren	What's your problem?	艾莲	……有什么事吗？	艾蓮	……有什麼事嗎？
+SeasonalTalkEvent_005_02_004ID	18	Rorona	ロロナ	し、心配したんだよ！　あなたを追いかけて\n森に入ったら見失って、魔物にも襲われちゃうし……	Rorona	I-I was so worried about you! I followed you to the forest, then I lost track of you, and then I got attacked by monsters!	萝乐娜	我、我好担心你啊！我一直跟在你后面，\n结果进入森林的时候跟丢了，还被魔物袭击……	蘿樂娜	我、我很擔心妳耶！\n我追著妳進森林結果跟丟了，還被魔物襲擊……
+SeasonalTalkEvent_005_02_004ID	19	Eren	エレン	それで服がボロボロなんですね	Eren	Sure looks like it. Your clothes are a mess.	艾莲	所以才把衣服弄得破破烂烂的啊。	艾蓮	所以妳的衣服才會破破爛爛的啊。
+SeasonalTalkEvent_005_02_004ID	20	Rorona	ロロナ	そ、そうだよ！　親切な誰かが助けてくれたから\nなんとか無事だったけど……	Rorona	E-Exactly! A nice person stepped in before things could get any worse, but...	萝乐娜	就、就是啊！多亏有个没露面的热心人相救，\n我才会平安无事……	蘿樂娜	對、對啊！\n幸好有好心人救了我，才沒出事……
+SeasonalTalkEvent_005_02_004ID	21	Eren	エレン	それに、膝を擦りむいているようです。\n手当てしないと	Eren	You scraped your knee. Better patch it up.	艾莲	但你的膝盖好像擦破了，\n得包扎一下。	艾蓮	還有，妳的膝蓋好像也擦傷了，\n得包紮才行。
+SeasonalTalkEvent_005_02_004ID	22	Eren	エレン	そこに座ってください	Eren	Go on, sit down.	艾莲	请坐在这里。	艾蓮	請妳到那邊坐下。
+SeasonalTalkEvent_005_02_004ID	23	Rorona	ロロナ	えっ？　は、はい……	Rorona	Huh? O-Oh, um, okay.	萝乐娜	咦？好、好的……	蘿樂娜	咦？好、好的……
+SeasonalTalkEvent_005_02_004ID	24	Eren	エレン	――よし。これでいいですよ	Eren	There, that should do it.	艾莲	——好。这样就没问题了。	艾蓮	──好，這樣就行了。
+SeasonalTalkEvent_005_02_004ID	25	Rorona	ロロナ	あ、ありがとう	Rorona	Th-Thank you.	萝乐娜	谢、谢谢你。	蘿樂娜	謝、謝謝妳。
+SeasonalTalkEvent_005_02_004ID	26	Eren	エレン	感謝は不要です。原因の一端は私にもありますから	Eren	Don't mention it. Besides, I was technically part of the problem.	艾莲	不用谢。毕竟你会受伤部分原因也在我。	艾蓮	不必謝我，妳會受傷有一部分也是因為我。
+SeasonalTalkEvent_005_02_004ID	27	Rorona	ロロナ	あの……あそこで何をしてたの？\n一人で森に入るなんて危ないこと……	Rorona	Um... What were you doing all alone in the forest, anyway? It's not exactly the safest place.	萝乐娜	可不可以问问……你在那里做什么呢？\n一个人进入森林这么危险……	蘿樂娜	那個……妳去那邊做什麼呢？\n獨自進森林很危險的……
+SeasonalTalkEvent_005_02_004ID	28	Eren	エレン	あなたには関係ありません。\nこれは、私の問題ですから	Eren	That's none of your business. I'm handling things.	艾莲	与你无关。\n这是我的问题。	艾蓮	與妳無關。\n這是我自己的問題。
+SeasonalTalkEvent_005_02_004ID	29	Eren	エレン	心配してくださったことは感謝します。\nでもこれ以上、私に関わらないでください	Eren	Look, I appreciate the concern, but I'd rather that you butt out.	艾莲	感谢你担心我。\n但请你之后不要再管我了。	艾蓮	很感謝妳替我擔心，但請妳別再管我了。
+SeasonalTalkEvent_005_02_004ID	30	Rorona	ロロナ	あ、ちょっと！	Rorona	H-Hey!	萝乐娜	啊，等一下！	蘿樂娜	啊，等一下！
+SeasonalTalkEvent_005_02_004ID	31	Rorona	ロロナ	（あんな風に言われたら\n　余計気になっちゃうよ……）	Rorona	(Saying it like that is only making me want to know more, though.)	萝乐娜	（这种说法不是让人更在意了吗……）	蘿樂娜	（妳這麼說，我會更在意啦……）
+SeasonalTalkEvent_005_02_004ID	32	Rorona	ロロナ	（でも、傷の手当てしてくれたし、\n　悪い人じゃない……のかも？）	Rorona	(Still, she took the time to treat my knee, so that probably means that she's a good person?)	萝乐娜	（不过她都给我包扎伤口了，\n　应该……不是坏人吧？）	蘿樂娜	（不過，她還幫我包紮了傷口，\n　應該……不是壞人吧？）
+SeasonalTalkEvent_005_02_004ID	33	Rorona	ロロナ	（あの子のこと、\n　ますます分からなくなっちゃった……）	Rorona	(It feels like the more I learn about her, the less I understand...)	萝乐娜	（越来越不懂她了……）	蘿樂娜	（我又更搞不懂她了……）
+SeasonalTalkEvent_005_02_005ID	0	Ryza	ライザ	ねえロロナ。昨日の放課後、どこ行ってたの？	Ryza	Hey, Rorona? Where'd you run off to yesterday?	莱莎	哎，萝乐娜，你昨天放学以后去哪里了啊？	萊莎	我說蘿樂娜，昨天放學後，妳去了哪裡啊？
+SeasonalTalkEvent_005_02_005ID	1	Rorona	ロロナ	えっ？	Rorona	Huh?	萝乐娜	嗯？	蘿樂娜	咦？
+SeasonalTalkEvent_005_02_005ID	2	Sophie	ソフィー	授業中も用事があるって抜け出してたよね？\n何かあったの？	Sophie	Didn't you disappear during class that one time, too? What was that about?	苏菲	上次上课的时候也说有事溜出去了吧？\n发生什么事了？	蘇菲	上課時妳也說有事就跑出去了對吧？\n發生了什麼事嗎？
+SeasonalTalkEvent_005_02_005ID	3	Rorona	ロロナ	ええと、実は……	Rorona	Um, well, you see...	萝乐娜	唔，其实……	蘿樂娜	那個，其實是這樣的……
+SeasonalTalkEvent_005_02_005ID	4	Sophie	ソフィー	へえ。噂の新入生を追いかけて、ねえ	Sophie	Ooh, so you've been chasing down that wayward first-year student.	苏菲	哇，去跟踪传说中的新生了啊。	蘇菲	哦～追著傳聞中的那名新生遇到了那種事啊。
+SeasonalTalkEvent_005_02_005ID	5	Ryza	ライザ	無事でよかったね～ホント	Ryza	I'm so glad you made it out of the woods safely!	莱莎	真危险啊，还好你没事～	萊莎	妳沒事真的是太好了～
+SeasonalTalkEvent_005_02_005ID	6	Rorona	ロロナ	うん。でも、あの時誰が助けてくれたんだろう……	Rorona	Yeah, me too. I'm still not sure who helped me out, though.	萝乐娜	嗯。不过，还不知道那时是谁救了我……	蘿樂娜	嗯，不過，那時到底是誰幫了我呢……
+SeasonalTalkEvent_005_02_005ID	7	Ryza	ライザ	もしかしたら自警団の人かもね。\nほら、街の見回りとか、魔物退治とかしてる	Ryza	It could've been someone from the neighborhood watch. You know, that group that does patrols around town and clears out any monsters they find.	莱莎	有可能是治安会的人吧。\n他们不是会在城镇里巡逻，击退魔物嘛。	萊莎	說不定是自警團的人？\n就是會在城鎮裡巡邏、消滅魔物的那群人。
+SeasonalTalkEvent_005_02_005ID	8	Rorona	ロロナ	ああ、確かにそうかも	Rorona	Oh, that's true.	萝乐娜	嗯，的确有可能。	蘿樂娜	啊，確實有可能。
+SeasonalTalkEvent_005_02_005ID	9	Sophie	ソフィー	自警団かあ……ちょっと苦手だなあ、あたしは	Sophie	Hm, they're kind of a tough crowd.	苏菲	治安会啊……我不太喜欢那些人。	蘇菲	自警團嗎……我不太喜歡他們。
+SeasonalTalkEvent_005_02_005ID	10	Rorona	ロロナ	どうして？\nみんなの安全を守ってくれるいい人たちだよね	Rorona	What makes you say that? Aren't they working to keep everyone safe?	萝乐娜	为什么？\n他们都是很负责的人，是居民们的安全卫士啊。	蘿樂娜	為什麼？\n他們是守護大家安全的好人吧？
+SeasonalTalkEvent_005_02_005ID	11	Sophie	ソフィー	あたしの周りの子たち、結構荒っぽい子が多いから。\nたまに自警団の人たちといざこざになったりするの	Sophie	Well, you know how the kids at my place are. Every now and again, I'll hear that one of them's gone and picked a fight with a watchperson.	苏菲	因为我身边的孩子很多都不太守规矩，\n有时会跟治安会的人发生摩擦。	蘇菲	因為我身邊有很多挺粗暴的人，\n他們有時會和自警團的人起爭執。
+SeasonalTalkEvent_005_02_005ID	12	Sophie	ソフィー	まあ、悪いのはあの子たちのほうなんだけどさ	Sophie	Not that I'm saying they're at fault, but...	苏菲	虽然我也明白有错的是那些孩子们。	蘇菲	不過，錯的是那些人就是了。
+SeasonalTalkEvent_005_02_005ID	13	Sophie	ソフィー	そうだ、自警団と言えば……知ってる？\nかつて「最恐」と呼ばれ畏れられた伝説の団員	Sophie	Speaking of, have you heard about their so-called super watchperson? They're supposed to be the scariest thing this side of Lantarna.	苏菲	对了，说到治安会……你们知道吗？传闻中那里\n有过一个号称“凶煞”的成员，令人闻风丧胆。	蘇菲	對了，說到自警團……妳們知道嗎？\n傳說過去有個人稱「最恐」的團員，十分受人敬畏。
+SeasonalTalkEvent_005_02_005ID	14	Ryza	ライザ	何それー？　知らないなあ	Ryza	Whaaat? I've never heard of that.	莱莎	那是什么啊？没听说过。	萊莎	那是什麼～？我不知道耶。
+SeasonalTalkEvent_005_02_005ID	15	Sophie	ソフィー	ランターナ学園に棲む「魔王」と肩を並べる、\n５大都市伝説の１つ！	Sophie	They're one of the city's five great legends, rumored to be able to rub shoulders with Lantarna Academy's own notorious Demon King!	苏菲	那是和栖息在兰塔纳学园的“魔王”同级别的\n五大都市传说之一！	蘇菲	那是五大都市傳說之一，\n與棲息在蘭塔納學園的「魔王」並駕齊驅。
+SeasonalTalkEvent_005_02_005ID	16	Rorona	ロロナ	魔王って、もしかしてザスキア先生のこと……？\nそれに、５大って……あと３つはなんなの？	Rorona	Wait, is the Demon King supposed to be Miss Saskia? And if there are five of them, what about the other three?	萝乐娜	你说的魔王难道是萨丝琪亚老师吗……？\n而且居然有五大传说啊……那剩下三个是什么？	蘿樂娜	魔王該不會是指薩絲琪亞老師吧……？\n而且妳說五大……那另外三個是什麼？
+SeasonalTalkEvent_005_02_005ID	17	Sophie	ソフィー	さあ？	Sophie	Who knows?	苏菲	我不清楚。	蘇菲	誰知道？
+SeasonalTalkEvent_005_02_005ID	18	Rorona	ロロナ	もう、適当なんだから……	Rorona	Well, that's no help.	萝乐娜	你也真是够随意的……	蘿樂娜	真是的，太隨便了吧……
+SeasonalTalkEvent_005_02_005ID	19	Ryza	ライザ	そういえば、噂の新入生ちゃんとは何か話せたの？	Ryza	Anyway, what did you end up talking to that first-year about?	莱莎	说起来，你和传说中的新生聊得怎么样？	萊莎	話說回來，妳跟傳聞中的新生好好聊過了嗎？
+SeasonalTalkEvent_005_02_005ID	20	Rorona	ロロナ	いや、結局何も分からなかったんだ。\nそれに、もう関わるなって言われちゃって……	Rorona	Honestly, not much. She mostly just wanted me to stay out of her business.	萝乐娜	唉，聊过之后对她还是一无所知。\n而且她还让我别再管她……	蘿樂娜	沒有，結果我什麼都沒搞懂。\n而且，她還叫我別再管她了……
+SeasonalTalkEvent_005_02_005ID	21	Sophie	ソフィー	ま、あの子にはあの子なりの事情があるんだよ。\nあまり詮索しすぎるのも良くないんじゃない？	Sophie	Mm, yeah. Everyone has their own things going on, so it's probably best not to pry.	苏菲	嗯，她那么做应该也有她自己的理由。\n最好不要太深入打探别人的事了吧？	蘇菲	她肯定有她的苦衷，\n過問太多也不太好吧？
+SeasonalTalkEvent_005_02_005ID	22	Rorona	ロロナ	だけど……できたら対抗戦に参加してほしいなって。\nそれが無理でも、せめて授業くらいは……	Rorona	I know, but... I really want her to do the battle royale with us. Or, if the club is too much, she could at least come to more classes...	萝乐娜	可是……可以的话，我希望她能参加对抗赛。\n就算不参加对抗赛，至少要来上课吧……	蘿樂娜	可是……如果可以的話，我希望她能參加對抗賽。\n就算她不參加，至少希望她來上課……
+SeasonalTalkEvent_005_02_005ID	23	Ryza	ライザ	まあでも、いきなり先輩から詰められたら、\n「うっ」ってなっちゃう気持ちも分かるなあ	Ryza	Sure, but suddenly having an upperclassman come down on my head for it would make me clam up, too.	莱莎	不过要是突然冒出个前辈强迫自己做事，\n产生厌烦的情绪我也能理解。	萊莎	不過，要是突然被學姐逼問，\n我也能理解那種驚慌的心情。
+SeasonalTalkEvent_005_02_005ID	24	Rorona	ロロナ	詰めるだなんて、そんなつもりは……\nでも、そう思われちゃってたのかなあ	Rorona	I really didn't mean it like that, but... I guess I can see how it'd come off that way.	萝乐娜	我没想强迫她啊……\n是我方式不对让她误会了吗？	蘿樂娜	我才不是要逼問她……\n不過，她會不會有這種感覺呢？
+SeasonalTalkEvent_005_02_005ID	25	Ryza	ライザ	とりあえず仲良くなるところからじゃない？\nよく知らない相手にプライベートな話はできないでしょ	Ryza	You just need to focus on making friends with her first. Hardly anyone wants to talk about their private life with total strangers.	莱莎	总之首先应该从拉近关系开始吧？\n谁会和不熟的人聊自己的私事啊。	萊莎	總之，先和她打好關係吧？\n畢竟誰都不可能對不熟的人聊私事吧。
+SeasonalTalkEvent_005_02_005ID	26	Rorona	ロロナ	う、確かにそうだね……\nでも、仲良くなるってどうしたらいいんだろう？	Rorona	Um... Yeah, that's a good point. But how should I go about doing that?	萝乐娜	唔，有道理……\n但要怎么样才能和她拉近关系呢？	蘿樂娜	唔，確實如此……\n可是，要怎樣才能跟她打好關係呢？
+SeasonalTalkEvent_005_02_005ID	27	Sophie	ソフィー	仲を深めるって言ったら、河原で殴り合いでしょ！\nこういうときは拳で語り合うしかない！	Sophie	Nothing connects people better than a fistfight down by the river! Sometimes you just have to fight it out to come to an understanding.	苏菲	提到加深友谊的方法，当然少不了在河边互殴啦！\n这种时候最棒的方法就是用拳头互诉衷肠！	蘇菲	說到讓感情升溫的方式，果然還是在河邊互毆吧！\n這種時候就只能用拳頭來對話了！
+SeasonalTalkEvent_005_02_005ID	28	Rorona	ロロナ	それ、多分違うと思う……	Rorona	That...doesn't sound like the best solution.	萝乐娜	你那样应该不行……	蘿樂娜	我覺得應該不是那樣……
+SeasonalTalkEvent_005_02_005ID	29	Ryza	ライザ	なんか美味しいものでも差し入れしてみるとか？\n胃袋を掴むってやつ？	Ryza	Why don't you make her something tasty? After all, people say that the quickest way to someone's heart is through their stomach.	莱莎	给她送点好吃的怎么样？先抓住她的胃。	萊莎	送點好吃的東西之類的怎麼樣？\n不是都說要抓住對方的胃嗎？
+SeasonalTalkEvent_005_02_005ID	30	Rorona	ロロナ	差し入れ！　確かに、それはいいかも！	Rorona	Oh, you're right! That's a great idea!	萝乐娜	送好吃的！感觉这个主意不错！	蘿樂娜	送點心！有道理，這麼做好像不錯！
+SeasonalTalkEvent_005_02_005ID	31	Rorona	ロロナ	早速試してみるね！	Rorona	I'm going to go whip something up!	萝乐娜	那就赶快试试吧！	蘿樂娜	我馬上來試試看！
+SeasonalTalkEvent_005_02_005ID	32	Ryza	ライザ	頑張れ～	Ryza	Good luck!	莱莎	加油啊～	萊莎	加油～
+SeasonalTalkEvent_005_02_006ID	0	Rorona	ロロナ	こんにちは。エレンちゃん	Rorona	Hi, Eren!	萝乐娜	你好，艾莲。	蘿樂娜	妳好，艾蓮。
+SeasonalTalkEvent_005_02_006ID	1	Eren	エレン	……私には関わらないでほしいと言ったはずですが	Eren	I thought I told you to leave me alone.	艾莲	我应该已经说过希望你不要管我了……？	艾蓮	……我應該說過希望妳別管我了。
+SeasonalTalkEvent_005_02_006ID	2	Rorona	ロロナ	ごめんなさい。でも……	Rorona	I'm sorry, you did. It's just...	萝乐娜	对不起。不过……	蘿樂娜	對不起，可是……
+SeasonalTalkEvent_005_02_006ID	3	Eren	エレン	落第しない程度に授業には出ています。\nあなたに心配されなくとも――	Eren	Look, I'm attending just enough classes to stay enrolled. There's really nothing else you need to—	艾莲	为了不留级我会适当出勤的，\n你不用担心——	艾蓮	我的出席率不至於被留級，\n所以妳不用擔心也──
+SeasonalTalkEvent_005_02_006ID	4	Rorona	ロロナ	そうじゃないの！\n今日はそういう話をしに来たんじゃなくて……	Rorona	That's not what I wanted to talk about! I'm here because, um...	萝乐娜	不是的！\n我今天不是来说这个的……	蘿樂娜	不是這樣的！\n我今天來找妳不是為了說這個……
+SeasonalTalkEvent_005_02_006ID	5	Rorona	ロロナ	実は、部活でお菓子を作ってたんだけど、\nたくさん作りすぎちゃったんだ。だからお裾分け！	Rorona	I was doing some baking for the club today, and I accidentally made too many. So I thought I'd share!	萝乐娜	是这样，我在社团活动的时候做了点心，\n因为做太多了，所以来给你分点！	蘿樂娜	其實是我在社團活動做點心時，\n不小心做太多了，所以想分一點給妳！
+SeasonalTalkEvent_005_02_006ID	6	Eren	エレン	……どうして、それを私に？	Eren	Okay, but why bring them to me?	艾莲	……为什么要给我？	艾蓮	……為什麼要給我？
+SeasonalTalkEvent_005_02_006ID	7	Rorona	ロロナ	ええと、それは……	Rorona	Well, that's because...	萝乐娜	唔，那是因为……	蘿樂娜	呃，因為……
+SeasonalTalkEvent_005_02_006ID	8	Rorona	ロロナ	あなたのことをもっと知りたい……\nあなたともっと仲良くなりたいから！	Rorona	I want to get to know you better. I'd really like for us to be friends!	萝乐娜	我想对你增进了解……\n想和你加深友情！	蘿樂娜	我想要更了解妳……\n想跟妳更要好！
+SeasonalTalkEvent_005_02_006ID	9	Eren	エレン	…………。えっと……	Eren	Uh...	艾莲	……这……	艾蓮	……那個……
+SeasonalTalkEvent_005_02_006ID	10	Eren	エレン	分かりました。ありがたくいただきます	Eren	Fine, I guess one wouldn't hurt.	艾莲	明白了。那我就心怀感激地收下了。	艾蓮	我知道了，我就心懷感激地收下了。
+SeasonalTalkEvent_005_02_006ID	11	Rorona	ロロナ	どうぞ！　あ、お茶も用意してあるからね	Rorona	Please, help yourself! I've even got some tea with me, too.	萝乐娜	请吧！啊，我还给你准备了茶哦。	蘿樂娜	請用！啊，我也準備了茶喔！
+SeasonalTalkEvent_005_02_006ID	12	Eren	エレン	え、今ここで食べるんですか？	Eren	Huh? You mean that you want me to eat it right now?	艾莲	咦，要现在在这里吃吗？	艾蓮	咦，現在在這裡吃嗎？
+SeasonalTalkEvent_005_02_006ID	13	Rorona	ロロナ	もちろん！　できたてが一番美味しいんだから！	Rorona	Yep! They're best when they're fresh out of the oven!	萝乐娜	当然啦！新鲜出炉的才是最美味的嘛！	蘿樂娜	那當然！剛出爐可是最好吃的！
+SeasonalTalkEvent_005_02_006ID	14	Eren	エレン	ええと……分かりました。いただきます	Eren	Er... If you insist. Thanks.	艾莲	好吧……我知道了。那我开动了。	艾蓮	那個……我知道了，那我開動了。
+SeasonalTalkEvent_005_02_006ID	15	Eren	エレン	……美味しい	Eren	...It's good.	艾莲	……真好吃。	艾蓮	……很美味。
+SeasonalTalkEvent_005_02_006ID	16	Rorona	ロロナ	本当！？\nふふっ、このために作った甲斐があったなあ！	Rorona	You really mean it?! Ehehe, I'm glad I went through all that trouble to make a special batch!	萝乐娜	真的吗？！\n呵呵，那就不枉我特地为你制作了！	蘿樂娜	真的！？\n呵呵，看來沒有白做呢～！
+SeasonalTalkEvent_005_02_006ID	17	Eren	エレン	余りものだったのでは？	Eren	Didn't you say these were extras?	艾莲	不是做多了吗？	艾蓮	妳不是說是剩下的嗎？
+SeasonalTalkEvent_005_02_006ID	18	Rorona	ロロナ	はっ、そうだった！　ええと、その……\nとにかくお口に合ってよかったー！	Rorona	Oh, shoot! Um, errr... Anyway, all that matters is that you enjoyed it!	萝乐娜	啊，对哦！那、那个……\n总之，合你口味就好！	蘿樂娜	啊，對喔！呃，那個……\n總之合妳胃口真是太好了～！
+SeasonalTalkEvent_005_02_006ID	19	Eren	エレン	……ふっ	Eren	...Heh.	艾莲	……呵呵。	艾蓮	……呵。
+SeasonalTalkEvent_005_02_006ID	20	Rorona	ロロナ	（あれ、今笑った……？）	Rorona	(Did she just laugh?)	萝乐娜	（咦，她笑了……？）	蘿樂娜	（咦，她剛才笑了……？）
+SeasonalTalkEvent_005_02_006ID	21	Eren	エレン	部活で作った、ということは、\nこのパイも錬金術で？	Eren	So if you made these during club time, then did you do it with alchemy?	艾莲	既然是在社团活动里做的，\n那这派也是用炼金术做成的吗？	艾蓮	在社團活動上做的，意思是，\n這份派也是使用鍊金術做的？
+SeasonalTalkEvent_005_02_006ID	22	Rorona	ロロナ	そうだよ。わたし、お菓子作りが好きで、\n色んなレシピを研究してるんだ	Rorona	Yep! I really love sweets, so I've looked up all sorts of recipes for them.	萝乐娜	对呀。我喜欢制作点心，\n平时也在研究各种点心配方哦。	蘿樂娜	沒錯，我喜歡做點心，\n所以在研究各式各樣的配方。
+SeasonalTalkEvent_005_02_006ID	23	Rorona	ロロナ	また今度、新作ができたら味見してくれると嬉しいなあ	Rorona	The next time I try something new, I'd appreciate it if you could taste test it for me!	萝乐娜	等我下次做出新品，你愿不愿意帮我尝尝味道？	蘿樂娜	希望我下次做新口味時，妳也願意幫忙試吃。
+SeasonalTalkEvent_005_02_006ID	24	Eren	エレン	……そうですね。ぜひまた	Eren	I'd like that.	艾莲	……这个嘛。我很乐意。	艾蓮	……嗯，那就拜託妳了。
+SeasonalTalkEvent_005_02_006ID	25	Rorona	ロロナ	それに――	Rorona	And...	萝乐娜	还有——	蘿樂娜	而且──
+SeasonalTalkEvent_005_02_006ID	26	Eren	エレン	……どうしました？	Eren	What is it?	艾莲	……怎么了？	艾蓮	……怎麼了嗎？
+SeasonalTalkEvent_005_02_006ID	27	Rorona	ロロナ	い、いや！　なんでもないよ。\nそれじゃあ、用も済んだからもう行くね！	Rorona	Um! Never mind, it's nothing! I'll stop bothering you now. Bye!	萝乐娜	没、没事！没什么啦。\n我没事了，先走了哦！	蘿樂娜	不、沒有！沒什麼。\n那我沒事了，先走囉！
+SeasonalTalkEvent_005_02_006ID	28	Rorona	ロロナ	（ふふっ、いい感じだったかも！\n　差し入れ作戦、大成功！）	Rorona	(Ehehe, that went pretty well! The treats tactic was a huge success!)	萝乐娜	（呵呵，感觉不错！\n　送好吃的作战大成功！）	蘿樂娜	（呵呵，感覺好像不錯呢！\n　送點心作戰非常成功！）
+SeasonalTalkEvent_005_02_006ID	29	Rorona	ロロナ	（よーし、この調子でもっと仲良くなるぞー！）	Rorona	(At this rate, we'll be friends in no time!)	萝乐娜	（好嘞，再接再厉，和她变得更要好吧——！）	蘿樂娜	（好～就繼續這樣跟她變得更要好吧──！）
+SeasonalTalkEvent_005_02_007ID	0	Eren	エレン	ロロナ先輩……か	Eren	Rorona, huh...?	艾莲	萝乐娜前辈……	艾蓮	蘿樂娜學姐啊……
+SeasonalTalkEvent_005_02_007ID	1	Eren	エレン	（きっと、あの人は本気で私のことを気遣って\n　くれているのだろう）	Eren	(She really does seem to be genuinely worried about me.)	艾莲	（她一定是真心在关心我吧。）	艾蓮	（那個人肯定是真心為我著想的吧。）
+SeasonalTalkEvent_005_02_007ID	2	Eren	エレン	（でも……）	Eren	(But...)	艾莲	（但是……）	艾蓮	（不過……）
+SeasonalTalkEvent_005_02_007ID	3	Eren	エレン	きゃああああっ！	Eren	Aaah!	艾莲	呀啊啊啊啊啊！	艾蓮	呀啊啊啊啊！
+SeasonalTalkEvent_005_02_007ID	4	Eren	エレン	誰か助けて……！\n父さん……母さん……！	Eren	Someone, help! Mom... Dad...!	艾莲	救命啊……！\n爸爸……妈妈……！	艾蓮	誰來救救我……！\n爸爸……媽媽……！
+SeasonalTalkEvent_005_02_007ID	5		自警団員Ａ	はあっ！	Watchperson A	Haaah!	治安会成员A	喝啊！	自警團員A	喝啊！
+SeasonalTalkEvent_005_02_007ID	6		自警団員Ａ	お嬢ちゃん！　大丈夫かい？	Watchperson A	Are you okay, missy?!	治安会成员A	小姑娘！你没事吧？	自警團員A	小妹妹！妳沒事吧？
+SeasonalTalkEvent_005_02_007ID	7	Eren	エレン	は、はい……！	Eren	Y-Yes!	艾莲	没、没事……！	艾蓮	沒、沒事……！
+SeasonalTalkEvent_005_02_007ID	8	Eren	エレン	（昔、魔物に襲われたところを自警団に助けられた）	Eren	(When I was younger, a member of the neighborhood watch saved me from a monster attack.)	艾莲	（小时候有一次我差点被魔物袭击，是治安会救了我。）	艾蓮	（以前，我被魔物襲擊時，是自警團救了我。）
+SeasonalTalkEvent_005_02_007ID	9	Eren	エレン	（それ以来、私は自警団に憧れ、あの人たちのように\n　人々を守る仕事がしたいと夢見るようになった）	Eren	(Ever since then, I've wanted to be just like them. My dream was to become someone who worked to keep people safe.)	艾莲	（从那以后，我就十分崇拜治安会，\n　梦想着像他们一样从事保护民众的工作。）	艾蓮	（從那之後，我就很崇拜自警團，\n　夢想著像那些人一樣，從事守護人們的工作。）
+SeasonalTalkEvent_005_02_007ID	10		団長	エレン！　今日からお前は自警団として、\n街や民を助け、守る役目を背負うことになる	Leader	Eren! From this day onward, you will be tasked with keeping this town and its citizens safe.	会长	艾莲！从今天起你就是治安会的一员了，\n你要坚守保护城镇和民众的责任。	團長	艾蓮！從今天起，妳將以自警團的身分，\n肩負守護城鎮、幫助鎮民的職責。
+SeasonalTalkEvent_005_02_007ID	11		団長	覚悟はできているな	Leader	Are you prepared to shoulder that burden?	会长	做好心理准备了吗？	團長	做好心理準備了吧？
+SeasonalTalkEvent_005_02_007ID	12	Eren	エレン	はい！	Eren	Yes, sir!	艾莲	做好了！	艾蓮	是！
+SeasonalTalkEvent_005_02_007ID	13		団長	入団試験でもなかなかの成績だったそうじゃないか。\nお前には期待しているからな	Leader	I heard that you achieved some rather impressive scores on your entrance exam. I'll be expecting a lot from you in the future.	会长	你在入会考试中取得了不错的成绩，\n我们很期待你的表现。	團長	妳入團考試的成績好像也挺不錯的嘛，\n我很期待妳的表現喔。
+SeasonalTalkEvent_005_02_007ID	14	Eren	エレン	はっ、ありがとうございます！\nご期待に沿えるよう頑張ります！	Eren	Thank you very much! I promise, I won't let you down!	艾莲	是，非常感谢！\n为了不负您的期待，我会努力的！	艾蓮	是，謝謝您！\n我會努力不負您的期待！
+SeasonalTalkEvent_005_02_007ID	15	Eren	エレン	（幸いなことに、私には戦いの才があった。\n　そして史上最年少で自警団の入団試験に合格した）	Eren	(It was lucky that I actually had a knack for fighting. Thanks to that, I ended up being the youngest person ever to pass the watch association's entrance exam.)	艾莲	（幸运的是，我有战斗的天赋。\n　于是我成为了史上最年轻的治安会考试合格者。）	艾蓮	（幸運的是，我擁有戰鬥的才能。\n　並且成為了自警團入團考試史上最年輕的合格者。）
+SeasonalTalkEvent_005_02_007ID	16	Eren	エレン	（私は夢のスタートラインに立った……はずだった）	Eren	(That should have put me on the path to realizing my dream, but...)	艾莲	（我站上了梦想的起点……本应如此的。）	艾蓮	（我站上了夢想的起跑線……原本應該是這樣的……）
+SeasonalTalkEvent_005_02_007ID	17	Eren	エレン	はああああっ！！	Eren	Raaagh!	艾莲	喝啊啊啊啊！！	艾蓮	喝啊啊啊啊！！
+SeasonalTalkEvent_005_02_007ID	18	Eren	エレン	大丈夫か！？	Eren	Are you all right?!	艾莲	你没事吧？！	艾蓮	妳沒事吧！？
+SeasonalTalkEvent_005_02_007ID	19		女性	ひっ……	Woman	Eep!	女人	噫……	女性	噫……
+SeasonalTalkEvent_005_02_007ID	20	Eren	エレン	…………？	Eren	...?	艾莲	……？	艾蓮	…………？
+SeasonalTalkEvent_005_02_007ID	21		女性	きゃあああああ！	Woman	Nooo!	女人	呀啊啊啊啊！	女性	呀啊啊啊啊啊！
+SeasonalTalkEvent_005_02_007ID	22	Eren	エレン	あ、ちょっと――！	Eren	Hey, wait!	艾莲	啊，等等——！	艾蓮	啊，等一下──！
+SeasonalTalkEvent_005_02_007ID	23		自警団員Ｂ	あいつ、また助けた相手に逃げられたって	Watchperson B	Yikes, that's another person you rescued who's run off on you.	治安会成员B	听说那家伙又把救下的人吓跑了。	自警團員B	聽說那傢伙，又把救的人給嚇跑了。
+SeasonalTalkEvent_005_02_007ID	24		自警団員Ｃ	まあ、あの戦いぶりじゃあな……\n俺らでもちょっと引くくらいだし	Watchperson C	Well, after watching a battle like that, I'd probably lose what was left of my nerve too.	治安会成员C	这也正常，她那战斗的样子……\n我们看了都忍不住害怕。	自警團員C	看她那戰鬥的模樣，也難怪……\n就連我們都有點怕了。
+SeasonalTalkEvent_005_02_007ID	25		自警団員Ｂ	街でも噂になってるみたいだぜ。あいつを倒してくれ\nっていう依頼までうちに届いてるらしい	Watchperson B	"You know that folks around town are talking about you, right? We've actually gotten requests to ""take down that scary girl."""	治安会成员B	现在她的名声好像已经在城镇里传开了。\n还有人给我们发来了打败她的委托。	自警團員B	城鎮裡好像也傳開了，\n聽說我們甚至還收到了要求打倒她的委託呢。
+SeasonalTalkEvent_005_02_007ID	26	Eren	エレン	っ……！	Eren	...!	艾莲	……！	艾蓮	唔……！
+SeasonalTalkEvent_005_02_007ID	27		自警団員Ｃ	それはさすがに可哀そうだなあ……\n街の安全に貢献してるのは確かなのに	Watchperson C	Yeah, that's just mean. Especially since you're doing your part to keep them safe.	治安会成员C	那也太可怜了吧……\n她的确为城镇的安全做出了贡献。	自警團員C	那也未免太可憐了吧……\n她確實對城鎮的安全盡了一份心力啊。
+SeasonalTalkEvent_005_02_007ID	28	Eren	エレン	（私は持てる限りの力で自警活動に取り組んだ）	Eren	(I did everything I could to join the neighborhood watch.)	艾莲	（我尽我所能，将全部精力都投入到了治安活动中。）	艾蓮	（我竭盡了全力從事自警工作。）
+SeasonalTalkEvent_005_02_007ID	29	Eren	エレン	（しかし、私は強すぎた。\n　助けるべき人々からも恐怖を抱かれるほどに）	Eren	(But I was too strong to be of any comfort. The people I was supposed to save might have been more afraid of me than of the monsters.)	艾莲	（然而我太强了，\n　强得连我要帮助的人们都会心生恐惧。）	艾蓮	（然而，我太過強大，\n　甚至讓本該幫助的人們都感到恐懼。）
+SeasonalTalkEvent_005_02_007ID	30	Eren	エレン	（自警団の中でも「最恐」の私は浮いた存在となり、\n　居場所を無くして……自ら団を辞めた）	Eren	(Even the other members started saying that I was scary. I didn't feel like I belonged, so I quit.)	艾莲	（在治安会中，我这个“凶煞”也被同伴疏远，\n　留下来也只会不自在……于是我主动退出了治安会。）	艾蓮	（被稱為「最恐」的我，成了自警團中突兀的存在，\n　失去了棲身之所……最終辭去了自警團的工作。）
+SeasonalTalkEvent_005_02_007ID	31	Eren	エレン	（――しかし、私は夢を諦めきれなかった。\n　幼い頃に抱いた、人々を助けたいという夢を）	Eren	(Still, I didn't want to give up on my dream of protecting people. It's all I ever wanted.)	艾莲	（——可是，我放不下我的梦想。\n　自幼追求的帮助他人的梦想。）	艾蓮	（──但是，我沒辦法徹底放棄夢想。\n　那個我從小就想幫助人們的夢想。）
+SeasonalTalkEvent_005_02_007ID	32	Eren	エレン	（悩んだ末に私が選んだのは……姿を隠し、\n　人々の目につかないように活動するという道だった）	Eren	(So I decided to just help from the shadows instead, staying out of sight.)	艾莲	（经过深思熟虑后，我选择了隐藏自己，\n　不为人知地继续进行治安活动。）	艾蓮	（煩惱到最後，我選擇的路是……\n　隱藏自己，在暗地裡繼續活動。）
+SeasonalTalkEvent_005_02_007ID	33	Rorona	ロロナ	っ！　魔物！！	Rorona	Oh no! A monster!	萝乐娜	啊！是魔物！！	蘿樂娜	是魔物！！
+SeasonalTalkEvent_005_02_007ID	34	Rorona	ロロナ	ひゃあっ！？　に、逃げなきゃ……！	Rorona	Eek! I-I've got to run away!	萝乐娜	呀啊？！得、得赶紧逃……！	蘿樂娜	呀啊！？我、我得逃走才行……！
+SeasonalTalkEvent_005_02_007ID	35	Eren	エレン	っ……！	Eren	...!	艾莲	……！	艾蓮	唔……！
+SeasonalTalkEvent_005_02_007ID	36	Rorona	ロロナ	はあっ……はあっ……	Rorona	*Huff*... *Huff*...	萝乐娜	呼……呼……	蘿樂娜	哈啊……哈啊……
+SeasonalTalkEvent_005_02_007ID	37	Rorona	ロロナ	きゃっ！	Rorona	Oof!	萝乐娜	呀！	蘿樂娜	呀啊！
+SeasonalTalkEvent_005_02_007ID	38	Rorona	ロロナ	っ……	Rorona	...	萝乐娜	唔……	蘿樂娜	……！
+SeasonalTalkEvent_005_02_007ID	39	Eren	エレン	ふっ――！	Eren	*Huff!*	艾莲	呼——！	艾蓮	呼──！
+SeasonalTalkEvent_005_02_007ID	40	Eren	エレン	（先輩に知られるわけにはいかない。\n　もし知られてしまったら、きっと怖がられてしまう）	Eren	(I can't let her know it was me. If she knew, I'm sure she'd be scared.)	艾莲	（我不能让前辈知道这些。\n　如果她知道了，一定也会害怕我的。）	艾蓮	（不能被學姐知道。\n　她要是發現的話，一定會害怕我的。）
+SeasonalTalkEvent_005_02_007ID	41	Eren	エレン	（あの人は優しい。\n　こんな私と、仲良くしたいと言ってくれた）	Eren	(She's a good person. She even said that she wanted to be friends with someone like me.)	艾莲	（她很善良。\n　甚至说想和我这样的人增进友情。）	艾蓮	（那個人很溫柔，\n　還說想跟這樣的我好好相處。）
+SeasonalTalkEvent_005_02_007ID	42	Eren	エレン	（そんなあの人の笑顔を、\n　曇らせるようなことはしたくない）	Eren	(I don't want to see her smile fade.)	艾莲	（我不想让那个人的笑容蒙上阴霾。）	艾蓮	（我不想讓這樣一個人的笑容蒙上陰影。）
+SeasonalTalkEvent_005_02_007ID	43	Eren	エレン	私は影でいい。影となり、あの人を護る	Eren	I don't mind sticking to the shadows if it means I can protect her.	艾莲	我甘愿躲在阴影后。成为影子，保护她。	艾蓮	我當影子就好。我要成為影子，守護那個人。
+SeasonalTalkEvent_005_02_008ID	0	Rorona	ロロナ	ふわあ……	Rorona	*Yaaawn*...	萝乐娜	呼啊……	蘿樂娜	呼啊……
+SeasonalTalkEvent_005_02_008ID	1	Rorona	ロロナ	（エレンちゃんに食べてもらうパイのレシピを\n　考えてたら、夜更かししちゃった……）	Rorona	(I stayed up waaay too late thinking up pie recipes for Eren to try...)	萝乐娜	（一直在全神贯注地琢磨要做给艾莲吃的派的配方，\n　不知不觉就熬夜了……）	蘿樂娜	（為了構思配方做派給艾蓮嚐，\n　不小心就熬夜了……）
+SeasonalTalkEvent_005_02_008ID	2	Rorona	ロロナ	（ふふっ、喜んでもらえるかなあ）	Rorona	(Ehehe, I wonder if she'll like them.)	萝乐娜	（呵呵，不知道她会不会喜欢。）	蘿樂娜	（呵呵，不曉得她會不會喜歡。）
+SeasonalTalkEvent_005_02_008ID	3	Rorona	ロロナ	――きゃっ！	Rorona	Ahh!	萝乐娜	——呀啊！	蘿樂娜	──呀啊！
+SeasonalTalkEvent_005_02_008ID	4	Rorona	ロロナ	へぶっ！\nってて……なんでこんな所にマットが？	Rorona	Oof! Ow... Huh? What's a mat doing in a place like this?	萝乐娜	噗！\n好疼……为什么这里会有个垫子？	蘿樂娜	呃唔！\n好痛……這種地方怎麼會有地墊？
+SeasonalTalkEvent_005_02_008ID	5	Rorona	ロロナ	でもおかげで助かったあ！	Rorona	Oh well! That was really lucky!	萝乐娜	不过多亏有垫子我才没受伤！	蘿樂娜	不過幸好有它我才沒受傷！
+SeasonalTalkEvent_005_02_008ID	6	Eren	エレン	……ふう	Eren	Phew...	艾莲	……呼。	艾蓮	呼……
+SeasonalTalkEvent_005_02_008ID	7	Rorona	ロロナ	よーし！　パイの素材を集めるぞー！	Rorona	Okay! Time to go pie ingredient gathering!	萝乐娜	好嘞！去收集制作派的素材吧——！	蘿樂娜	好──！要來蒐集派的素材囉──！
+SeasonalTalkEvent_005_02_008ID	8	Rorona	ロロナ	今日は魔物にも会わないし、なんだか調子いいなあ。\n……ん？	Rorona	I haven't seen any monsters yet, which is kind of nice! ...Hm?	萝乐娜	今天也没有遇到魔物，感觉好顺利啊……\n嗯？	蘿樂娜	今天也沒碰到魔物，感覺運氣不錯耶。\n……嗯？
+SeasonalTalkEvent_005_02_008ID	9	Rorona	ロロナ	わあ、素材がいっぱい！\nもしかしたら誰かの忘れ物かなあ……？	Rorona	Wow, look at all these materials! Did someone forget to pack them up?	萝乐娜	哇，有好多素材啊！\n难道是有人忘在这里的……？	蘿樂娜	哇啊，有好多素材！\n該不會是有人忘記帶走的吧……？
+SeasonalTalkEvent_005_02_008ID	10	Rorona	ロロナ	勝手に持っていったらまずいよね。\nそっとしておこうっと	Rorona	Well, I should leave them here in case they come back.	萝乐娜	随便拿走不太好吧。\n就放在这里好了。	蘿樂娜	擅自拿走應該不太好，還是放著吧。
+SeasonalTalkEvent_005_02_008ID	11	Eren	エレン	……はあ	Eren	*Sigh*...	艾莲	……唉。	艾蓮	……唉。
+SeasonalTalkEvent_005_02_008ID	12	Rorona	ロロナ	きゃあああっ！　出たー！！	Rorona	Nooo! A monster!	萝乐娜	呀啊啊啊！出现了！！	蘿樂娜	呀啊啊啊！出現了──！！
+SeasonalTalkEvent_005_02_008ID	13	Eren	エレン	ふっ――	Eren	Hup!	艾莲	呼——	艾蓮	呼──
+SeasonalTalkEvent_005_02_008ID	14	Eren	エレン	おいで	Eren	Come along, you.	艾莲	过来。	艾蓮	過來。
+SeasonalTalkEvent_005_02_008ID	15	Rorona	ロロナ	あ、あれ？　行っちゃった……	Rorona	Huh? It's gone.	萝乐娜	哎、哎呀？走掉了……	蘿樂娜	奇、奇怪？走掉了……
+SeasonalTalkEvent_005_02_008ID	16	Rorona	ロロナ	（今、誰かいた……？）	Rorona	(Was there someone here just now...?)	萝乐娜	（刚才好像有人在……？）	蘿樂娜	（剛才，有人在嗎……？）
+SeasonalTalkEvent_005_02_008ID	17	Rorona	ロロナ	ふう、なんとか素材も集まったし、\n早速、調合を……あれ！？	Rorona	Phew, that's it for the ingredients. Next up, synthesi... Huh?!	萝乐娜	呼，总算把素材收集完了。\n赶快开始调合……咦？！	蘿樂娜	呼，總算把素材湊齊了，\n趕快來調合……奇怪！？
+SeasonalTalkEvent_005_02_008ID	18	Resna	レスナ	ロロナ先輩？　どうかしましたか？	Resna	What's wrong, Rorona?	蕾斯娜	萝乐娜前辈？你怎么了？	蕾斯娜	蘿樂娜學姐？妳怎麼了？
+SeasonalTalkEvent_005_02_008ID	19	Rorona	ロロナ	レシピをまとめてた手帳がないの！\nどこかで落としちゃったのかなあ……	Rorona	My recipe book is missing! I must've dropped it somewhere...	萝乐娜	我整理配方的笔记本不见了！\n是掉在哪里了吗……	蘿樂娜	寫好配方的記事本不見了！\n是不是掉在哪裡了……
+SeasonalTalkEvent_005_02_008ID	20	Mimi	ミミ	ああ、もしかしてあれのことでしょうか？	Mimi	Oh, do you mean that one?	敏敏	哦，该不会是那个本子吧？	敏敏	啊，該不會是那個？
+SeasonalTalkEvent_005_02_008ID	21	Rorona	ロロナ	ああっ、これだ！　よかったあ……	Rorona	Oh! Yes, that's it! Thank goodness...	萝乐娜	啊，就是这个！太好了……	蘿樂娜	啊，就是這個！太好了……
+SeasonalTalkEvent_005_02_008ID	22	Mimi	ミミ	部室の前に置いてあったんです。\n誰かが届けてくれたのかもしれませんね	Mimi	I saw it sitting outside of the club room. Someone must have picked it up and brought it back.	敏敏	这个就放在活动室门口。\n可能是有人帮你送过来的吧。	敏敏	它被放在社團教室前面，\n可能是別人送來的吧。
+SeasonalTalkEvent_005_02_008ID	23	Rorona	ロロナ	ありがとうございます、親切な人！	Rorona	Thank you, kind stranger!	萝乐娜	感谢那个好心人！	蘿樂娜	親切的好心人，太感謝你了！
+SeasonalTalkEvent_005_02_008ID	24	Rorona	ロロナ	（ふふっ。なんだか今日はラッキーなことが続くなあ）	Rorona	(Ehehe! I've had the best luck all day long!)	萝乐娜	（呵呵呵，总觉得今天一直很幸运啊。）	蘿樂娜	（呵呵，總覺得今天一直很幸運呢～）
+SeasonalTalkEvent_005_02_009ID	0	Rorona	ロロナ	エレンちゃん！\n新作のパイ、持ってきたよ！	Rorona	Eren! I brought you another new pie to try!	萝乐娜	艾莲！\n我带了新做的派过来哦！	蘿樂娜	艾蓮！\n我帶了新口味的派來囉！
+SeasonalTalkEvent_005_02_009ID	1	Eren	エレン	いつもありがとうございます	Eren	Thank you.	艾莲	谢谢你总是带点心给我。	艾蓮	謝謝妳總是送派來給我。
+SeasonalTalkEvent_005_02_009ID	2	Rorona	ロロナ	さ、食べて！　ほら！	Rorona	Go ahead, dig in!	萝乐娜	好了，快尝尝吧！快尝尝！	蘿樂娜	來，吃吧！快點！
+SeasonalTalkEvent_005_02_009ID	3	Eren	エレン	いつも私ばかりいただいていますが……\n先輩も一緒にいかがですか？	Eren	It feels like I'm always the one eating. Why don't you have some too?	艾莲	每次都是我一个人在吃……\n前辈要不要一起吃？	艾蓮	每次都只有我在吃……\n學姐妳要不要也一起吃？
+SeasonalTalkEvent_005_02_009ID	4	Rorona	ロロナ	え？　あー、実は最近甘い物控えてて……	Rorona	Huh? Oh, um... I've been taking a break from sweets lately, so...	萝乐娜	咦？啊——其实我最近正在控糖呢……	蘿樂娜	咦？啊～其實我最近在控制甜食……
+SeasonalTalkEvent_005_02_009ID	5	Eren	エレン	どうしてですか？	Eren	Why's that?	艾莲	为什么呢？	艾蓮	為什麼？
+SeasonalTalkEvent_005_02_009ID	6	Rorona	ロロナ	ちょっと体重のほうが気になってね……\n味見だけで我慢してるんだ	Rorona	I'm pretty sure I've put on a bit of weight, so I've been limiting myself to a few samples.	萝乐娜	因为我担心长胖……\n所以会克制自己不多吃，只尝尝味道。	蘿樂娜	因為我有點在意體重……\n所以頂多嚐個味道將就一下。
+SeasonalTalkEvent_005_02_009ID	7	Rorona	ロロナ	エレンちゃんはそういう悩みとかないの？	Rorona	Is that something you ever worry about, Eren?	萝乐娜	艾莲不会有这方面的烦恼吗？	蘿樂娜	妳沒有這種煩惱嗎？
+SeasonalTalkEvent_005_02_009ID	8	Eren	エレン	ありません。一応、普段から身体を動かすよう\n心がけていますので	Eren	Nope. I generally aim to stay active.	艾莲	没有。因为我平时都会注意保证运动量。	艾蓮	沒有。\n我平時算是有注意要活動身體。
+SeasonalTalkEvent_005_02_009ID	9	Rorona	ロロナ	そうなんだ！　偉いなあ。\n何かスポーツでもやってるの？	Rorona	Oh, that's great! Do you do any sports?	萝乐娜	原来如此！好有毅力啊。\n你在做什么运动？	蘿樂娜	這樣啊！真了不起。\n妳有在做什麼運動嗎？
+SeasonalTalkEvent_005_02_009ID	10	Eren	エレン	……それは、秘密です	Eren	That's...a secret.	艾莲	……这是秘密。	艾蓮	……這是秘密。
+SeasonalTalkEvent_005_02_009ID	11	Eren	エレン	いただきます	Eren	Anyway, let me try this pie.	艾莲	我不客气了。	艾蓮	我要開動了。
+SeasonalTalkEvent_005_02_009ID	12	Resna	レスナ	ロロナ先輩とエレンちゃん、\n最近よく一緒にいるよね	Resna	Lately, it feels like I'm always seeing Rorona and Eren together.	蕾斯娜	萝乐娜前辈和艾莲最近总是待在一起呢。	蕾斯娜	蘿樂娜學姐和艾蓮，最近經常在一起呢。
+SeasonalTalkEvent_005_02_009ID	13	Mimi	ミミ	それにしても、結構絵になる二人よね……	Mimi	They make a fine pair, don't they?	敏敏	话说回来，她们两个真是赏心悦目啊……	敏敏	話說回來，這兩個人還真像一幅畫啊……
+SeasonalTalkEvent_005_02_009ID	14	Ryza	ライザ	うん、順調に仲を深めてるみたいだね	Ryza	Mhm. Looks like her friendship scheme is going according to plan.	莱莎	嗯，看来顺利加深了友情呢。	萊莎	嗯，看來她們很順利地越來越要好了。
+SeasonalTalkEvent_005_02_009ID	15	Sophie	ソフィー	当初の目的を忘れてる気がしないでもないけど……	Sophie	I get the feeling she's forgotten about her original goal, though.	苏菲	感觉她可能已经忘记了一开始的目的……	蘇菲	雖然蘿樂娜搞不好已經忘了當初的目的……
+SeasonalTalkEvent_005_02_009ID	16	Resna	レスナ	目的ってなんですか？	Resna	What goal?	蕾斯娜	目的是什么啊？	蕾斯娜	目的是指什麼？
+SeasonalTalkEvent_005_02_009ID	17	Ryza	ライザ	元々はあの子に授業をちゃんと受けてもらいたい、\nって話だったんだよね	Ryza	She was saying that she wanted Eren to come to class more regularly.	莱莎	本来是希望她能按时来上课的。	萊莎	她原本是說想讓那女孩乖乖去上課。
+SeasonalTalkEvent_005_02_009ID	18	Ryza	ライザ	そのためにはまず仲良くなるところから、\nってアドバイスしたんだけど……	Ryza	She wanted to befriend her so that she'd be in a position to offer advice, but...	莱莎	所以我们建议她要想达成目的，\n最好从增进友情做起……	萊莎	所以我們才建議她先跟對方打好關係……
+SeasonalTalkEvent_005_02_009ID	19	Mimi	ミミ	まあ、仲良くなるというところは達成してますね	Mimi	Well, she's at least managed that first part.	敏敏	不过增进友情的目的是已经达成了。	敏敏	關係的確是有成功變好了。
+SeasonalTalkEvent_005_02_009ID	20	Sophie	ソフィー	エレンちゃんは相変わらず休みがちだけど	Sophie	Sure, but Eren's still skipping most of our lessons.	苏菲	但艾莲还是经常不来上课。	蘇菲	不過艾蓮還是老樣子，經常不去上課。
+SeasonalTalkEvent_005_02_009ID	21	Resna	レスナ	そうですね……ふらっと教室を抜け出したり、\n遅れて登校したりするのも変わってません	Resna	Or disappearing halfway through them, or coming late to school. That part really hasn't changed.	蕾斯娜	是啊……她依旧会突然从教室溜走，\n或者上学时迟到。	蕾斯娜	是啊……她還是會偷偷溜出教室，\n或很晚才來上學。
+SeasonalTalkEvent_005_02_009ID	22	Ryza	ライザ	ま、二人が楽しそうならいいんじゃない？	Ryza	Well, if they're having fun, isn't that good enough?	莱莎	哎呀，她们两个现在很开心这不就够了吗？	萊莎	算了，她們兩個開心就好吧？
+SeasonalTalkEvent_005_02_009ID	23	Sophie	ソフィー	それもそうだね	Sophie	That's true.	苏菲	说得也是。	蘇菲	說得也是。
+SeasonalTalkEvent_005_02_010ID	0	Rorona	ロロナ	お出かけ付き合ってくれてありがとね。\nせっかくの休みの日に	Rorona	Thanks for coming out with me! Especially since it's your day off and all.	萝乐娜	谢谢你在宝贵的休息日陪我出来。	蘿樂娜	難得放假還陪我外出，真的很謝謝妳。
+SeasonalTalkEvent_005_02_010ID	1	Eren	エレン	いえ、特に用事もありませんでしたから	Eren	It's fine, I didn't have any plans.	艾莲	不客气，反正我也没什么事。	艾蓮	不會，反正我也沒什麼安排。
+SeasonalTalkEvent_005_02_010ID	2	Rorona	ロロナ	普段は休みに何してるの？	Rorona	What do you usually do in your free time?	萝乐娜	你平时休息日会做些什么？	蘿樂娜	平時放假妳都會做些什麼呢？
+SeasonalTalkEvent_005_02_010ID	3	Eren	エレン	……これといって話すようなことは何も。\n趣味と呼べるものも特にありませんし	Eren	Nothing in particular. I don't really have any hobbies.	艾莲	……没什么值得一提的事。\n我这个人也没什么兴趣爱好。	艾蓮	……沒什麼值得一提的，\n而且我也沒什麼特別的興趣。
+SeasonalTalkEvent_005_02_010ID	4	Rorona	ロロナ	そうなんだー	Rorona	Hm, I see...	萝乐娜	这样啊。	蘿樂娜	這樣啊～
+SeasonalTalkEvent_005_02_010ID	5	Eren	エレン	先輩は休日は外出することが多いんですか？	Eren	I take it that you like to go out?	艾莲	前辈休息时经常出门吗？	艾蓮	學姐妳假日經常外出嗎？
+SeasonalTalkEvent_005_02_010ID	6	Rorona	ロロナ	うん。街でお買い物したり、\n美味しそうなお店を探したり	Rorona	Yep! I like going shopping, or tracking down stores with tasty-looking treats.	萝乐娜	嗯。我会去逛街买东西，\n还有寻访美食店。	蘿樂娜	嗯，我會在城鎮裡買東西，\n或是去找看起來很好吃的店。
+SeasonalTalkEvent_005_02_010ID	7	Eren	エレン	そういえば、今日はなんの用事だったのでしょう？	Eren	Was there anything in particular you wanted to do today?	艾莲	那你今天找我出来是有什么事吗？	艾蓮	對了，妳今天打算要做什麼？
+SeasonalTalkEvent_005_02_010ID	8	Rorona	ロロナ	今日は対抗戦に向けた買い出しをしようと\n思ってたんだけど……	Rorona	I was thinking about maybe getting some stuff for the upcoming competition, but...	萝乐娜	今天我本来打算去采购对抗赛中要用的东西……	蘿樂娜	今天我本來想去買對抗賽要用的東西……
+SeasonalTalkEvent_005_02_010ID	9	Rorona	ロロナ	せっかくエレンちゃんが一緒に来てくれたし、\n買い物は後回しにして遊ぼうよ！	Rorona	Since you're here, I'd rather do something fun!	萝乐娜	不过难得艾莲陪我一起出来了，\n采购的事之后再说，我们先玩个开心吧！	蘿樂娜	不過難得艾蓮妳也一起來了，\n我們就先去玩，晚點再去買東西吧！
+SeasonalTalkEvent_005_02_010ID	10	Eren	エレン	え？　私に気を遣っていただかなくても……	Eren	Huh? You don't need to worry about me.	艾莲	咦？你不用为我费心的……	艾蓮	咦？妳不用特地為我費心……
+SeasonalTalkEvent_005_02_010ID	11	Rorona	ロロナ	気にしないで！\nあ……それとも、お節介だったかな？	Rorona	It's fine, I don't mind doing it later! Oh...! Um, unless I'm being a bother?	萝乐娜	别客气啦！\n啊……我会不会有点多管闲事了？	蘿樂娜	別在意！\n啊……還是說，我太多管閒事了嗎？
+SeasonalTalkEvent_005_02_010ID	12	Eren	エレン	いえ……嬉しいです。こうやって誰かと一緒に\n出かけることってあまりないので	Eren	No, I'm...glad. I don't do this sort of thing much.	艾莲	不会……我很高兴。因为我很少和别人一起出来玩。	艾蓮	不……我很高興。\n因為我很少像這樣和別人一起出門。
+SeasonalTalkEvent_005_02_010ID	13	Rorona	ロロナ	そっか！　じゃあ今日は目いっぱい楽しんじゃおう！	Rorona	Okay! Let's have as much fun as we possibly can!	萝乐娜	这样啊！那今天就玩个痛快吧！	蘿樂娜	這樣啊！那我們今天要好好玩個痛快喔！
+SeasonalTalkEvent_005_02_010ID	14	Rorona	ロロナ	実は最近、美味しいクレープのお店を見つけてね――	Rorona	Actually, there's this crepe place that I've been meaning to—	萝乐娜	其实我最近发现了一家可丽饼很好吃的店——	蘿樂娜	其實，我最近發現了一家很美味的可麗餅店──
+SeasonalTalkEvent_005_02_010ID	15	Rorona	ロロナ	きゃっ！	Rorona	Oh no!	萝乐娜	呀！	蘿樂娜	呀啊！
+SeasonalTalkEvent_005_02_010ID	16	Eren	エレン	先輩！	Eren	Rorona!	艾莲	前辈！	艾蓮	學姐！
+SeasonalTalkEvent_005_02_010ID	17	Eren	エレン	……大丈夫ですか？	Eren	Are you all right?	艾莲	……你没事吧？	艾蓮	……妳沒事吧？
+SeasonalTalkEvent_005_02_010ID	18	Rorona	ロロナ	あ、ありがとう……	Rorona	Y-Yeah, thank you...	萝乐娜	谢、谢谢你……	蘿樂娜	謝、謝謝妳……
+SeasonalTalkEvent_005_02_010ID	19	Eren	エレン	それじゃあ、行きましょうか	Eren	Shall we, then?	艾莲	那我们走吧。	艾蓮	那我們走吧。
+SeasonalTalkEvent_005_02_010ID	20	Rorona	ロロナ	う、うん……	Rorona	Mhm...	萝乐娜	好、好的……	蘿樂娜	唔、嗯……
+SeasonalTalkEvent_005_02_010ID	21		住民Ａ	キャーーーーーーー！！	Citizen A	Aaah!	居民A	呀啊啊啊——！！	居民A	呀啊────────！！
+SeasonalTalkEvent_005_02_010ID	22	Eren	エレン	――――！？	Eren	...?!	艾莲	――――？！	艾蓮	────！？
+SeasonalTalkEvent_005_02_010ID	23	Rorona	ロロナ	なに！？　今の声！？	Rorona	What just happened?! Was that a scream?!	萝乐娜	怎么了？！刚刚有人在尖叫？！	蘿樂娜	剛才那是什麼聲音！？
+SeasonalTalkEvent_005_02_010ID	24		住民Ｂ	ま、魔物だあー！　あっちで魔物が出たぞおおお！！	Citizen B	M-Monster! There's a monster over there!	居民B	魔、魔物——！那边有魔物出现了啊啊啊！！	居民B	是、是魔物──！那邊出現了魔物────！！
+SeasonalTalkEvent_005_02_010ID	25	Eren	エレン	くっ……	Eren	Ngh...	艾莲	唔……	艾蓮	唔……
+SeasonalTalkEvent_005_02_010ID	26	Rorona	ロロナ	どどど、どうしよう……！	Rorona	Wh-What should we do?	萝乐娜	这这这、这可怎么办…… ！	蘿樂娜	怎怎怎、怎麼辦……！
+SeasonalTalkEvent_005_02_010ID	27	Eren	エレン	…………	Eren	...	艾莲	……	艾蓮	…………
+SeasonalTalkEvent_005_02_010ID	28	Eren	エレン	（先輩に知られるわけにはいかない。\n　もし知られてしまったら、きっと怖がられてしまう）	Eren	(I can't let her know it was me. If she knew, I'm sure she'd be scared.)	艾莲	（我不能让前辈知道这些。\n　如果她知道了，一定也会害怕我的。）	艾蓮	（不能被學姐知道。\n　她要是發現的話，一定會害怕我的。）
+SeasonalTalkEvent_005_02_010ID	29	Eren	エレン	（でも、私は――！）	Eren	(But, I...!)	艾莲	（但是，我要去——！）	艾蓮	（但是，我──！）
+SeasonalTalkEvent_005_02_010ID	30	Rorona	ロロナ	エレンちゃん！　あ……	Rorona	Eren! Oh...!	萝乐娜	艾莲！啊……	蘿樂娜	艾蓮！啊……
+SeasonalTalkEvent_005_02_010ID	31	Rorona	ロロナ	（あの剣……！）	Rorona	(That sword...!)	萝乐娜	（那把剑……！）	蘿樂娜	（那把劍……！）
+SeasonalTalkEvent_005_02_010ID	32	Eren	エレン	先輩、少しここで待っていてください！	Eren	Sorry, I'll be right back!	艾莲	前辈，你在这里等我一会儿！	艾蓮	學姐，請妳在這裡等一下！
+SeasonalTalkEvent_005_02_011ID	0	Eren	エレン	はああああああああっ！！！	Eren	Haaah!	艾莲	喝啊啊啊啊啊啊啊啊！！！	艾蓮	喝啊啊啊啊啊啊啊啊！！！
+SeasonalTalkEvent_005_02_011ID	1	Rorona	ロロナ	…………	Rorona	...	萝乐娜	……	蘿樂娜	…………
+SeasonalTalkEvent_005_02_011ID	2	Eren	エレン	先輩……	Eren	Rorona...	艾莲	前辈……	艾蓮	學姐……
+SeasonalTalkEvent_005_02_011ID	3	Rorona	ロロナ	ご、ごめんね。エレンちゃんが、\nどうしても心配で……	Rorona	I-I'm sorry, I was worried about you, so I...	萝乐娜	对、对不起。\n因为我实在不放心你……	蘿樂娜	對、對不起，因為我實在太擔心妳了……
+SeasonalTalkEvent_005_02_011ID	4	Eren	エレン	っ……	Eren	...	艾莲	……	艾蓮	……！
+SeasonalTalkEvent_005_02_011ID	5		住民Ａ	なに、あの人……	Citizen A	Just what IS she...?	居民A	她是什么人……	居民A	那個人是怎麼回事……
+SeasonalTalkEvent_005_02_011ID	6		住民Ｂ	魔物をあっという間に……	Citizen B	She got rid of those monsters in the blink of an eye...	居民B	居然一瞬间就把魔物给……	居民B	一瞬間就把魔物給……
+SeasonalTalkEvent_005_02_011ID	7		住民Ａ	ひいっ！	Citizen A	Eeek!	居民A	咦！	居民A	噫！
+SeasonalTalkEvent_005_02_011ID	8	Eren	エレン	（……もう、終わりだ。\n　先輩にも知られてしまった）	Eren	(There's no going back now. She knows.)	艾莲	（……完了。被前辈知道了。）	艾蓮	（……全都完了。連學姐都知道了。）
+SeasonalTalkEvent_005_02_011ID	9	Eren	エレン	（やはり、私は……）	Eren	(Still, I...)	艾莲	（果然，我……）	艾蓮	（我果然……）
+SeasonalTalkEvent_005_02_011ID	10	Rorona	ロロナ	――エレンちゃん！	Rorona	Eren!	萝乐娜	——艾莲！	蘿樂娜	──艾蓮！
+SeasonalTalkEvent_005_02_012ID	0	Eren	エレン	ぐっ……うぅ……	Eren	Nnh... *Sniff*...	艾莲	呜……呜……	艾蓮	嗚……嗚……
+SeasonalTalkEvent_005_02_012ID	1	Eren	エレン	（分かっていた。私は誰とも仲良くなんかできない。\n　私の力は、人を遠ざけてしまうから）	Eren	(I knew it. I'll never be able to make friends with anyone. My strength just pushes people away.)	艾莲	（我早就知道了，我和谁都不可能成为朋友。\n　我的力量会让人们远离我。）	艾蓮	（我本來就知道，自己跟任何人都處不來，\n　因為我的力量，會讓他人遠離我。）
+SeasonalTalkEvent_005_02_012ID	2	Eren	エレン	（また、独りになってしまう。自警団を辞めた\n　あの時と同じように……）	Eren	(I'm on my own again. It's just like when I left the neighborhood watch...)	艾莲	（我又会变成孤单一人了。\n　就像退出治安会的时候一样……）	艾蓮	（我又要變成孤單一個人了，\n　就像離開自警團那時一樣……）
+SeasonalTalkEvent_005_02_012ID	3	Rorona	ロロナ	エレンちゃん	Rorona	Eren.	萝乐娜	艾莲。	蘿樂娜	艾蓮。
+SeasonalTalkEvent_005_02_012ID	4	Eren	エレン	ロロナ、先輩……	Eren	Rorona...?	艾莲	萝乐娜前辈……	艾蓮	蘿樂娜、學姐……
+SeasonalTalkEvent_005_02_012ID	5	Rorona	ロロナ	探したんだよ。どうして逃げちゃったの？	Rorona	I was looking everywhere for you! Why did you run off?	萝乐娜	我找了你好久，你为什么要跑呢？	蘿樂娜	我找妳找很久了耶，妳為什麼要逃跑呢？
+SeasonalTalkEvent_005_02_012ID	6	Eren	エレン	それは……	Eren	I...	艾莲	这个……	艾蓮	因為……
+SeasonalTalkEvent_005_02_012ID	7	Eren	エレン	みんなを……あなたを、怖がらせてしまったから……	Eren	I scared you, and everyone else, so...	艾莲	因为我刚才吓到了大家……还有你……	艾蓮	我嚇到了大家……也嚇到妳……
+SeasonalTalkEvent_005_02_012ID	8	Rorona	ロロナ	詳しく、聞かせてもらってもいい？	Rorona	Would you mind telling me more about what happened?	萝乐娜	你愿意把一切的原委告诉我吗？	蘿樂娜	我可以問問詳細原因嗎？
+SeasonalTalkEvent_005_02_012ID	9	Eren	エレン	…………	Eren	...	艾莲	……	艾蓮	…………
+SeasonalTalkEvent_005_02_012ID	10	Rorona	ロロナ	あなたのこと、ちゃんと知りたい	Rorona	I want to know everything about you.	萝乐娜	因为我想了解你的全部。	蘿樂娜	我想要更了解妳。
+SeasonalTalkEvent_005_02_012ID	11	Eren	エレン	……分かりました	Eren	...All right.	艾莲	……我知道了。	艾蓮	……我知道了。
+SeasonalTalkEvent_005_02_012ID	12	Rorona	ロロナ	人に怖がられないよう、隠れて活動……かあ	Rorona	So you've been staying out of sight to avoid frightening people...	萝乐娜	为了不吓到别人，所以偷偷活动啊……	蘿樂娜	為了不嚇到人，而在暗地裡活動嗎……
+SeasonalTalkEvent_005_02_012ID	13	Eren	エレン	はい……。数年前に自警団を辞めてからずっと……	Eren	Yeah. Ever since I left the neighborhood watch a few years ago.	艾莲	是的……几年前我离开治安会后就一直在这么做……	艾蓮	是的……從幾年前我辭掉自警團的工作時開始……
+SeasonalTalkEvent_005_02_012ID	14	Eren	エレン	推薦を受けたので、自警活動にも役立つかと思い\n錬金術科に入り、こっちの活動はそのまま続けていました	Eren	When I was accepted into the academy, I thought that might help with my patrols, so I started splitting my time between both.	艾莲	因为得到了推荐，想着对治安活动也有帮助，\n所以我进入了炼金术科，并继续着这些活动。	艾蓮	受到推薦後，我想對自警活動也有幫助，\n於是進了鍊金術科，繼續進行自警活動。
+SeasonalTalkEvent_005_02_012ID	15	Rorona	ロロナ	だから、ときどき授業を休んでいたんだ……\nきっと放課後も活動してるんでしょ？	Rorona	Which is why you're absent so often. That's what keeps you busy after school too, huh?	萝乐娜	我明白了，你有时不来上课就是在忙这些啊……\n课余时间你也在进行治安活动吧？	蘿樂娜	所以，妳才經常沒來上課啊……\n妳一定連放學後都在活動吧？
+SeasonalTalkEvent_005_02_012ID	16	Rorona	ロロナ	前に森でわたしを助けてくれたのも、\nあなただったんだね	Rorona	You were the one who helped me in the forest before, weren't you?	萝乐娜	之前在森林里也是你救了我吧。	蘿樂娜	之前在森林裡救了我的人，也是妳對吧？
+SeasonalTalkEvent_005_02_012ID	17	Rorona	ロロナ	もしかして、その後もときどき助けてくれたりしてた？	Rorona	And maybe a few more times after that?	萝乐娜	难不成之后时不时帮助我的人也是你吗？	蘿樂娜	難不成，在那之後妳也經常幫助我？
+SeasonalTalkEvent_005_02_012ID	18	Eren	エレン	……はい	Eren	...Yes.	艾莲	是的……	艾蓮	……是。
+SeasonalTalkEvent_005_02_012ID	19	Rorona	ロロナ	そっか	Rorona	I thought so.	萝乐娜	原来是这样。	蘿樂娜	這樣啊。
+SeasonalTalkEvent_005_02_012ID	20	Eren	エレン	先輩……？	Eren	Rorona...?	艾莲	前辈……？	艾蓮	學姐……？
+SeasonalTalkEvent_005_02_012ID	21	Rorona	ロロナ	ずっと気付かなくてごめんなさい。\n何度も、わたしを助けてくれてありがとう	Rorona	I'm sorry for not noticing sooner. Thank you for helping me so many times!	萝乐娜	对不起，我一直都没有发觉。\n谢谢你帮助了我那么多次。	蘿樂娜	對不起我一直沒注意到，\n謝謝妳幫了我好多次。
+SeasonalTalkEvent_005_02_012ID	22	Eren	エレン	私なんて……感謝されるような人間じゃありません	Eren	That's... I'm not the kind of person you should be thanking.	艾莲	我不值得被你感谢……	艾蓮	我這種人……不值得妳感謝。
+SeasonalTalkEvent_005_02_012ID	23	Rorona	ロロナ	そんなに自分を責めないで。\nエレンちゃんは悪くないんだから	Rorona	You shouldn't put yourself down so much! You're not a bad person!	萝乐娜	不要那么苛责自己。\n你没做错什么。	蘿樂娜	別這樣責備自己，艾蓮妳並沒有錯啊。
+SeasonalTalkEvent_005_02_012ID	24	Eren	エレン	でも……ずっと先輩に隠しごとをしてきました	Eren	But...I was skulking around behind you the whole time.	艾莲	可是……这些事我一直瞒着你。	艾蓮	可是……我一直瞞著學姐。
+SeasonalTalkEvent_005_02_012ID	25	Eren	エレン	せっかくお出かけに誘ってもらったのに、\nそれも台無しにして……	Eren	Also, you were nice enough to invite me out today, and I ruined it.	艾莲	难得你约我出来，\n我却毁了这个开心的日子……	艾蓮	而且難得妳約我出來，結果都泡湯了……
+SeasonalTalkEvent_005_02_012ID	26	Rorona	ロロナ	そんなの気にしなくていいよ。\nだって、お出かけなんていつでも行けるもん	Rorona	Don't worry about it! There's always next time!	萝乐娜	不用那么在意啦。\n我们什么时候都能再一起出来啊。	蘿樂娜	這種事妳不用在意，\n要是想出門，隨時都可以走啊。
+SeasonalTalkEvent_005_02_012ID	27	Rorona	ロロナ	次のお休みでも、またその次でも。\nまた、一緒にお出かけしよう？	Rorona	And the time after that, and the time after that! You'll come shopping with me again, right?	萝乐娜	下次休息日也可以，下下次也可以。\n有机会我们再一起出来玩吧？	蘿樂娜	看是等下次放假，還是下下次，\n我們再一起出門吧？
+SeasonalTalkEvent_005_02_012ID	28	Eren	エレン	え……	Eren	Um...	艾莲	咦……	艾蓮	咦……
+SeasonalTalkEvent_005_02_012ID	29	Eren	エレン	また……誘ってくれるんですか？\nこんな……こんな恐ろしい人間でも	Eren	You really want me...to go with you? Even though I'm so scary?	艾莲	你还愿意……再邀请我吗？\n我……明明是这么恐怖的人。	艾蓮	妳……願意再次邀請我嗎？\n就算……就算我是這麼可怕的人……
+SeasonalTalkEvent_005_02_012ID	30	Rorona	ロロナ	もちろんだよ。まあ、確かにちょっとびっくりは\nしちゃったけど、でも……	Rorona	Of course! Well, if I'm being honest, you do make me the teeniest bit nervous, but...	萝乐娜	当然愿意啦。\n我的确吓了一跳，不过……	蘿樂娜	那當然囉。\n的確，我是有點嚇到啦，但是……
+SeasonalTalkEvent_005_02_012ID	31	Rorona	ロロナ	エレンちゃんが本当は優しくて、思いやりの\nある子だってこと、わたしは知ってるから	Rorona	I know that you're a kind and considerate person.	萝乐娜	我知道艾莲其实是个非常善良，\n非常体贴的人。	蘿樂娜	我知道妳其實是個溫柔又為人著想的孩子啊。
+SeasonalTalkEvent_005_02_012ID	32	Eren	エレン	先輩……うぅ……	Eren	Rorona... *Sniff*...	艾莲	前辈……呜呜……	艾蓮	學姐……嗚嗚……
+SeasonalTalkEvent_005_02_012ID	33	Eren	エレン	すみません……お見苦しいところを	Eren	I'm sorry that you had to see something so shameful.	艾莲	对不起……让你看到了这么丢脸的一面。	艾蓮	不好意思……讓妳看到了我難堪的一面。
+SeasonalTalkEvent_005_02_012ID	34	Rorona	ロロナ	平気だよ！　気にしないで	Rorona	What? No! You have nothing to apologize for!	萝乐娜	没关系啦！别放在心上。	蘿樂娜	沒事的！妳別介意。
+SeasonalTalkEvent_005_02_012ID	35	Rorona	ロロナ	もしかして、エレンちゃんが錬金術部に\n入らないのは、誰とも仲良くなれないと思ってるから？	Rorona	Is that why you haven't joined the Alchemy Club? Because you thought the other members wouldn't like you?	萝乐娜	艾莲之所以不加入炼金术社团，\n该不会是因为觉得交不到朋友吧？	蘿樂娜	該不會妳不願意加入鍊金術社，\n也是擔心和大家處不來吧？
+SeasonalTalkEvent_005_02_012ID	36	Eren	エレン	はい……	Eren	Yeah.	艾莲	是的……	艾蓮	是的……
+SeasonalTalkEvent_005_02_012ID	37	Rorona	ロロナ	多分、錬金術部のみんなも、わたしと同じだと思うよ	Rorona	I'm pretty sure they'd feel the same way I do.	萝乐娜	炼金术社团成员们的想法应该和我一样哦。	蘿樂娜	我想鍊金術社的大家，應該也都跟我一樣喔。
+SeasonalTalkEvent_005_02_012ID	38	Eren	エレン	え？	Eren	Huh?	艾莲	咦？	艾蓮	咦？
+SeasonalTalkEvent_005_02_012ID	39	Rorona	ロロナ	エレンちゃんのこと、受け入れてくれると思う。\nだから、入ってみない？　錬金術部	Rorona	They'd definitely accept you, Eren! Why don't you give it a shot?	萝乐娜	我相信大家都会接纳你的。\n所以你要不要加入炼金术社团呢？	蘿樂娜	我覺得大家都會接納妳的。\n所以，妳要不要加入鍊金術社看看？
+SeasonalTalkEvent_005_02_012ID	40	Eren	エレン	本当にそうでしょうか……	Eren	I don't know about that...	艾莲	真的吗……	艾蓮	真的是這樣嗎……
+SeasonalTalkEvent_005_02_012ID	41	Rorona	ロロナ	大丈夫だよ。きっとあなたを拒んだりなんかしない	Rorona	Don't worry, they'd definitely welcome you with open arms!	萝乐娜	别担心，她们一定不会排斥你的。	蘿樂娜	沒事的，大家肯定不會拒絕妳的。
+SeasonalTalkEvent_005_02_012ID	42	Rorona	ロロナ	むしろ、戦いが得意な人なんて\n引く手あまただと思う！	Rorona	Actually, someone who can hold their own in a fight would probably be in high demand!	萝乐娜	像你这样战斗力高强的人，\n反而会很抢手哦！	蘿樂娜	倒不如說，擅長戰鬥的人反倒搶手喔！
+SeasonalTalkEvent_005_02_012ID	43	Rorona	ロロナ	特に今は、対抗戦に向けた準備で色々と素材も\n足りてないから。きっと大歓迎されるよ！	Rorona	Especially since we're trying to get ready for our upcoming competition. We're short on everything, so we could really use a hand!	萝乐娜	尤其是现在正在为对抗赛做准备，好多素材都不够。\n大家肯定会非常欢迎你的！	蘿樂娜	尤其是現在正忙著準備對抗賽，\n很多素材都不足，所以大家一定會很歡迎妳的！
+SeasonalTalkEvent_005_02_012ID	44	Eren	エレン	そう、ですね……試しに入ってみてもいいかも	Eren	I...see. Well, I guess it wouldn't hurt to come see what it's about.	艾莲	这样啊……那我就加入试试看吧。	艾蓮	這樣、啊……那或許可以加入看看。
+SeasonalTalkEvent_005_02_012ID	45	Rorona	ロロナ	やったあ！	Rorona	Yay!	萝乐娜	太好啦！	蘿樂娜	太好了！
+SeasonalTalkEvent_005_02_012ID	46	Rorona	ロロナ	改めてよろしくね、エレンちゃん	Rorona	Everyone will be so happy to have you, Eren!	萝乐娜	再次请你多多关照哦，艾莲。	蘿樂娜	那就再次請妳多多指教囉，艾蓮。
+SeasonalTalkEvent_005_02_012ID	47	Eren	エレン	はい。ロロナ先輩	Eren	Thanks, Rorona.	艾莲	请多多关照，萝乐娜前辈。	艾蓮	好的，蘿樂娜學姐。
+SeasonalTalkEvent_005_02_013ID	0	Marie	マリー	と、いうわけで！　我らがねこさんチームに新しい\n仲間が加わることになったわよ！	Marie	And so! We have a new member joining us on the Kitty Cat team!	玛莉	就是这么回事！\n有一个新伙伴要加入我们猫猫小队啦！	瑪莉	事情就是這樣！\n我們貓咪隊又有新夥伴加入了！
+SeasonalTalkEvent_005_02_013ID	1	Eren	エレン	エレンです。よろしくお願いします	Eren	I'm Eren. I'm looking forward to working with you.	艾莲	我是艾莲。请多关照。	艾蓮	我是艾蓮，請多指教。
+SeasonalTalkEvent_005_02_013ID	2	Resna	レスナ	エレンちゃんが仲間に加わってくれるなんて！\nまさに僥倖！　望外の喜びです！	Resna	Wow, Eren's really going to be joining our team?! That's amazing! I'm so excited!	蕾斯娜	没想到艾莲居然会加入我们！\n这是何等幸运！太让人喜出望外了！	蕾斯娜	艾蓮竟然加入我們了！\n太走運了！真是喜出望外！
+SeasonalTalkEvent_005_02_013ID	3	Sophie	ソフィー	対抗戦の前に戦力が増えるのは嬉しいね	Sophie	Having someone capable of combat coming in before the competition sure is great.	苏菲	很高兴在对抗赛之前还能增加战斗力。	蘇菲	能在對抗賽前增加戰力，真的很令人高興。
+SeasonalTalkEvent_005_02_013ID	4	Mimi	ミミ	推薦組の実力、しっかり見せてもらわないとね	Mimi	You'll have to show us what you can do, recommendation student.	敏敏	好好让我见识一下推荐入学的同学有多厉害吧。	敏敏	得讓大家看看推薦入學者的實力才行呢。
+SeasonalTalkEvent_005_02_013ID	5	Eren	エレン	はい。ご期待に沿えるよう、頑張ります	Eren	Of course. I swear, I won't let you down.	艾莲	好的，我会努力不辜负大家的期待。	艾蓮	是，我會努力不負大家的期待。
+SeasonalTalkEvent_005_02_013ID	6	Ryza	ライザ	ロロナが口説き落としたんでしょ？\nねー、どうやったの？	Ryza	Rorona, you won her over, huh? How'd you finally do it?	莱莎	是萝乐娜成功勾搭到她的吧？\n快告诉我们，你是怎么说动她的？	萊莎	是蘿樂娜死纏爛打說服艾蓮的吧？\n欸欸，妳是怎麼做到的啊？
+SeasonalTalkEvent_005_02_013ID	7	Rorona	ロロナ	それは……秘密。\nあと、口説いてないよ！	Rorona	Weeell... That's a secret. But I really didn't have to do much persuading!	萝乐娜	这个嘛……保密。\n还有，不要说勾搭那么难听！	蘿樂娜	這是……秘密。\n還有，我才沒有死纏爛打呢！
+SeasonalTalkEvent_005_02_013ID	8	Eren	エレン	せやああああああ！！	Eren	Yaaah!	艾莲	嘿呀啊啊啊啊啊！！	艾蓮	喝啊啊啊啊啊啊啊！！
+SeasonalTalkEvent_005_02_013ID	9	Ryza	ライザ	うわーお！　豪快！	Ryza	Whoooa! That was so cool!	莱莎	哇哦——！真豪迈！	萊莎	唔哇～！好豪邁！
+SeasonalTalkEvent_005_02_013ID	10	Mimi	ミミ	へえ、やるわね	Mimi	Hm, not bad at all.	敏敏	哇……有两下子嘛。	敏敏	哦～真有一套。
+SeasonalTalkEvent_005_02_013ID	11	Resna	レスナ	鬼気迫る感じというか……\nちょっと怖いくらい強いですね	Resna	That was blood-curdlingly strong... I've got chills.	蕾斯娜	有些毛骨悚然……强大到堪称恐怖了。	蕾斯娜	該說是氣勢逼人嗎……\n強到有點可怕呢。
+SeasonalTalkEvent_005_02_013ID	12	Eren	エレン	……えっと	Eren	Um...	艾莲	……唔。	艾蓮	……那個……
+SeasonalTalkEvent_005_02_013ID	13	Resna	レスナ	どうすればそこまでの強さを得られるの！？\nエレンちゃん！	Resna	What do I need to do to get that strong?! Please, you've got to tell me!	蕾斯娜	要怎么锻炼才能像你那么强啊，艾莲？！	蕾斯娜	要怎樣才能變得那麼強大呢！？\n艾蓮！
+SeasonalTalkEvent_005_02_013ID	14	Eren	エレン	え？	Eren	Huh?	艾莲	咦？	艾蓮	咦？
+SeasonalTalkEvent_005_02_013ID	15	Resna	レスナ	私、調合はまあまあ様になってきたんですけど、\n戦うほうはどうもまだ苦手というか……	Resna	I'm pretty okay at synthesis now, but I'm still awful at fighting.	蕾斯娜	我在调合上越来越熟练了，\n可是战斗还是很不得要领……	蕾斯娜	調合我雖然已經有點樣子了，\n但戰鬥方面好像還是完全不行……
+SeasonalTalkEvent_005_02_013ID	16	Resna	レスナ	ぜひ私に、戦い方を教えてください！	Resna	I'd really appreciate some pointers!	蕾斯娜	请一定要教教我战斗方法！	蕾斯娜	請妳務必教我戰鬥的方法！
+SeasonalTalkEvent_005_02_013ID	17	Eren	エレン	……ああ、今度な	Eren	Sure, next time.	艾莲	……好，下次教你。	艾蓮	……嗯，下次吧。
+SeasonalTalkEvent_005_02_013ID	18	Sophie	ソフィー	調合の腕は普通くらいって感じだったけど、\n戦闘能力はずば抜けてるかも	Sophie	Her synthesis skills are pretty standard, but her fighting ability is something else.	苏菲	虽然她的调合水平一般，\n但战斗能力可以说是出类拔萃。	蘇菲	她的調合技術雖然普普通通，\n但戰鬥能力似乎相當過人呢。
+SeasonalTalkEvent_005_02_013ID	19	Marie	マリー	それも錬金術士に必要な能力だしね	Marie	Well, that's another skill alchemists need.	玛莉	那也是炼金术士必备的能力。	瑪莉	畢竟這也是鍊金術士所需的能力嘛。
+SeasonalTalkEvent_005_02_013ID	20	Marie	マリー	特に、最近は錬金術への風当たりも強いから……\nなかなか護衛についてくれる人もいないのよ	Marie	Especially since alchemy itself is coming under fire more nowadays. There aren't as many people who are willing to stick up for it.	玛莉	特别是最近大众非常排斥炼金术……\n很少有人愿意给我们做护卫。	瑪莉	尤其最近社會大眾對鍊金術的抨擊也很強烈……\n沒什麼人願意當我們的護衛。
+SeasonalTalkEvent_005_02_013ID	21	Rorona	ロロナ	世知辛いですね……	Rorona	Times sure have gotten tough, huh...	萝乐娜	日子不好过呢……	蘿樂娜	真是艱辛的世代阿……
+SeasonalTalkEvent_005_02_013ID	22	Marie	マリー	学園があの子を推薦で採ったのも、\n戦える錬金術士を求めてのことだったのかもね	Marie	I wonder if that's why she was recommended? To boost the number of alchemists who can also fight.	玛莉	学园会推荐她入学，\n可能是看上了她的战斗能力吧。	瑪莉	學園會接受她推薦入學，\n或許也是想找有戰鬥能力的鍊金術士吧。
+SeasonalTalkEvent_005_02_013ID	23	Sophie	ソフィー	おかげで、対抗戦の準備も捗りそう	Sophie	Well, thanks to that, we stand a shot at winning the battle royale!	苏菲	多亏有她加入，对抗赛的准备工作也能取得进展了。	蘇菲	多虧有她，對抗賽的準備應該也會很順利。
+SeasonalTalkEvent_005_02_013ID	24	Marie	マリー	ええ！　これなら今回は勝てるわ！	Marie	Yes! This time, victory will be ours!	玛莉	嗯！感觉这次赢面很大！	瑪莉	是啊！這樣一來這次我們肯定能贏的！
+SeasonalTalkEvent_005_02_013ID	25	Mimi	ミミ	私も負けてられない……！\nレスナ！　行くわよ！	Mimi	I'm not going to lose to anyone either! Come on, Resna! Let's do this!	敏敏	我也不能输给她……！\n蕾斯娜！我们走！	敏敏	我也不能輸……！\n蕾斯娜！走了喔！
+SeasonalTalkEvent_005_02_013ID	26	Resna	レスナ	うん！	Resna	Yeah!	蕾斯娜	嗯！	蕾斯娜	嗯！
+SeasonalTalkEvent_005_02_013ID	27	Rorona	ロロナ	よーし、本番に向けて頑張ろー！	Rorona	Okay! Let's keep working toward the real competition!	萝乐娜	好嘞，加油备战正式比赛吧！	蘿樂娜	好，努力為正式上場做準備吧！
+SeasonalTalkEvent_005_02_014ID	0	Rorona	ロロナ	エレンちゃん！　くまさんチームの人たちが\n来ました！　……へびさんチームを倒したみたいです	Rorona	Eren! The group from the Fuzzy Bears is here! It looks like they wiped out the Sleek Snakes...	萝乐娜	艾莲！熊熊小队的人来了！\n他们好像打败蛇蛇小队了。	蘿樂娜	艾蓮！熊熊隊的人來了！\n……他們好像打倒蛇蛇隊了。
+SeasonalTalkEvent_005_02_014ID	1	Eren	エレン	人……？　結構、数が多いですね	Eren	They did? Hm, there are quite a few of them.	艾莲	该说是人吗……？数量还挺多的。	艾蓮	人……？人數還真多啊。
+SeasonalTalkEvent_005_02_014ID	2	Resna	レスナ	私たちのチームはこの６人だけ……。\nいけるでしょうか？	Resna	And there are only six of us! Not that we're going to run away.	蕾斯娜	我们小队只有6个人……有胜算吗？	蕾斯娜	我們隊裡只有這六個人……\n打得過嗎？
+SeasonalTalkEvent_005_02_014ID	3	Sophie	ソフィー	まあ、やるしかないでしょ。\nレスナちゃん、支援よろしくね！	Sophie	Yep, we've just got to go for it. Back me up, Resna!	苏菲	不管怎样也只能上了。\n蕾斯娜，支援交给你了！	蘇菲	不管怎樣也只能上了。\n蕾斯娜，麻煩妳支援了！
+SeasonalTalkEvent_005_02_014ID	4	Resna	レスナ	はい！　ソフィー先輩！	Resna	Okay, Sophie!	蕾斯娜	好的！苏菲前辈！	蕾斯娜	好！蘇菲學姐！
+SeasonalTalkEvent_005_02_014ID	5	Ryza	ライザ	ミミ、もう少し腹ごしらえしていく？	Ryza	Mimi, how are you feeling? Still hungry?	莱莎	敏敏，要不要再吃点东西？	萊莎	敏敏，要吃飽一點再上場嗎？
+SeasonalTalkEvent_005_02_014ID	6	Mimi	ミミ	……さっき十分いただきました。\n私たちも行きますよ！	Mimi	No, I had enough to eat earlier. Let's get going too!	敏敏	……刚才已经吃饱了。\n我们也去吧！	敏敏	……剛才已經吃得夠飽了。\n我們也上場吧！
+SeasonalTalkEvent_005_02_014ID	7	Ryza	ライザ	はーい！	Ryza	All right!	莱莎	好——！	萊莎	好～！
+SeasonalTalkEvent_005_02_015ID	0	Mimi	ミミ	はあ……はあ……	Mimi	*Huff* *Huff*...	敏敏	呼……呼……	敏敏	呼……呼……
+SeasonalTalkEvent_005_02_015ID	1	Eren	エレン	……囲まれたか	Eren	We're surrounded.	艾莲	……被包围了。	艾蓮	……被包圍了嗎？
+SeasonalTalkEvent_005_02_015ID	2	Rorona	ロロナ	どどど、どうしよう！\nここを切り抜けるには……	Rorona	Wh-What should we do? Do we have anything that will help us get past them?	萝乐娜	怎怎怎、怎么办啊！\n要想杀出这片重围……	蘿樂娜	怎、怎怎麼辦！\n該怎麼突破包圍……
+SeasonalTalkEvent_005_02_015ID	3	Rorona	ロロナ	これを相手に向かって投げつければ……！	Rorona	Oh! Maybe if we toss this their way...!	萝乐娜	就只有把这个扔给对手了……！	蘿樂娜	要是把這個丟向對手的話……！
+SeasonalTalkEvent_005_02_015ID	4	Rorona	ロロナ	へ？	Rorona	Huh?	萝乐娜	咦？	蘿樂娜	咦？
+SeasonalTalkEvent_005_02_015ID	5	Resna	レスナ	ロ、ロロナ先輩！\nそれ、点火しちゃってますよね！？	Resna	R-Rorona! The fuse is already lit!	蕾斯娜	萝、萝乐娜前辈！\n那个已经点着了吧？！	蕾斯娜	蘿、蘿樂娜學姐！\n妳手裡那個是不是已經點燃了！？
+SeasonalTalkEvent_005_02_015ID	6	Sophie	ソフィー	ちょ、ちょっと！　こんな所で爆発させたら\nみんな巻き込まれちゃうよ！	Sophie	What'd you do that for?! We're all going down if you set something like that off here!	苏菲	等、等一下！要是在这里爆炸了，\n大家都会受到波及的！	蘇菲	慢、慢著！要是在這種地方爆炸，\n會波及到大家的！
+SeasonalTalkEvent_005_02_015ID	7	Rorona	ロロナ	あわわわ！　そんなつもりじゃ！\n勝手にスイッチが入っちゃったのー！	Rorona	Oh no no no! I didn't mean to push the switch! It was an accident!	萝乐娜	哇啊啊啊！我不是故意的！\n下意识地把炸弹点燃了！	蘿樂娜	啊哇哇哇！我不是故意的！\n是開關自己開了！
+SeasonalTalkEvent_005_02_015ID	8	Mimi	ミミ	と、とにかく遠くに投げてください！　早く！	Mimi	Accident or not, hurry up and get rid of it! Throw it as far as you can!	敏敏	总、总之尽量扔远一点！快！	敏敏	總、總之快往遠處丟！快點！
+SeasonalTalkEvent_005_02_015ID	9	Ryza	ライザ	みんな伏せてー！	Ryza	Everyone, hit the deck!	莱莎	大家趴下——！	萊莎	大家快趴下──！
+SeasonalTalkEvent_005_02_015ID	10	Rorona	ロロナ	わわわわ……とおっ！	Rorona	S-Sorry! There!	萝乐娜	哇哇哇哇……我扔！	蘿樂娜	哇哇哇哇……我丟！
+SeasonalTalkEvent_005_02_015ID	11		みんな	うわあああああああああ！！！	Everyone	Aaah!	所有人	哇啊啊啊啊啊啊啊！！！	大家	嗚哇啊啊啊啊啊啊啊啊！！！
+SeasonalTalkEvent_005_02_015ID	12	Marie	マリー	あっはっはっは！　いい爆発っぷりだったわよ！	Marie	Ahahaha! What a splendid explosion!	玛莉	啊哈哈哈！这爆炸很带劲嘛！	瑪莉	啊哈、哈、哈！炸得真漂亮！
+SeasonalTalkEvent_005_02_015ID	13	Marion	マリオン	これはまた、派手に吹き飛ばしたわね……\nはあ、後始末が大変なんだから……	Marion	Which went and created a rather splendid mess. *Sigh* Cleaning this up is going to take ages...	玛丽翁	这可真是一场大爆炸啊……\n唉，搞这么大阵仗之后收拾起来很麻烦的……	瑪麗翁	還真是炸得徹底……\n唉，收拾善後肯定很累……
+SeasonalTalkEvent_005_02_015ID	14	Saskia	ザスキア	ふふふ。とりあえず、全員生きてはいるみたいね	Saskia	*Chuckle* At the very least, everyone seems to have survived the blast.	萨丝琪亚	呵呵呵，看来至少所有人都没有生命危险。	薩絲琪亞	呵呵呵。總之，所有人似乎都生存下來了。
+SeasonalTalkEvent_005_02_015ID	15	Marion	マリオン	でも、両チームとも戦闘続行は困難でしょう	Marion	Still, I don't think either team can continue fighting.	玛丽翁	可两支队伍都很难继续战斗了吧。	瑪麗翁	不過，兩方隊伍也很難再繼續交戰了吧。
+SeasonalTalkEvent_005_02_015ID	16	Marion	マリオン	今回の対抗戦はねこさんチーム、くまさんチームの\n引き分け……同率１位とします！	Marion	Which means that the battle royale will be ending in a tie between the Kitty Cats and the Fuzzy Bears. They'll have to share first place.	玛丽翁	这次对抗赛猫猫小队和熊熊小队\n不分胜负……并列第一！	瑪麗翁	這次的對抗賽為貓咪隊和熊熊隊平手……\n雙方並列第一名！
+SeasonalTalkEvent_005_02_015ID	17	Ryza	ライザ	まあ、そうなるかー	Ryza	Yeah, I guess that's how that had to go.	莱莎	唉，也只能这样了——	萊莎	果然會是這種結果啊。
+SeasonalTalkEvent_005_02_015ID	18	Rorona	ロロナ	うう……ごめんなさい。\nやっちゃいましたぁ……	Rorona	Urgh... I'm so sorry, it's all my fault...	萝乐娜	呜呜……对不起。\n我搞砸了……	蘿樂娜	嗚嗚……抱歉。\n我搞砸了……
+SeasonalTalkEvent_005_02_015ID	19	Eren	エレン	ふっ……ふふっ。あははは！	Eren	Pfft... Heh. Hahaha!	艾莲	呵……呵呵。啊哈哈哈！	艾蓮	呵……呵呵，啊哈哈哈！
+SeasonalTalkEvent_005_02_015ID	20	Eren	エレン	あははっ。ロロナ先輩……ボロボロじゃないですか	Eren	Ahaha... Rorona, you're a total mess.	艾莲	啊哈哈，萝乐娜前辈……你全身都破破烂烂的。	艾蓮	啊哈哈，蘿樂娜學姐……妳好狼狽喔。
+SeasonalTalkEvent_005_02_015ID	21	Rorona	ロロナ	そ、それはエレンちゃんもでしょ！	Rorona	S-So are you, Eren!	萝乐娜	艾、艾莲不也一样！	蘿樂娜	妳、妳也是啊！
+SeasonalTalkEvent_005_02_015ID	22		ロロナ/エレン	あはははは！	Rorona/Eren	Ahahaha!	萝乐娜/艾莲	哈哈哈哈哈！	蘿樂娜/艾蓮	啊哈哈哈哈！
+SeasonalTalkEvent_005_02_015ID	23	Ryza	ライザ	あははっ！　いいオチがついたじゃん！	Ryza	Haha! Nice one, Rorona!	莱莎	哈哈哈！这结局不也挺圆满的嘛！	萊莎	啊哈哈！這也算是有個好結局了吧！
+SeasonalTalkEvent_005_02_015ID	24	Sophie	ソフィー	ま、引き分けなら上々じゃない？	Sophie	Well, a tie's still really good, right?	苏菲	嗯，平手也是很不错的成绩吧？	蘇菲	平手算是非常好的結果了吧？
+SeasonalTalkEvent_005_02_015ID	25	Mimi	ミミ	でも、次は勝ちましょうね！	Mimi	We'll definitely win the next one!	敏敏	但下次我们要赢啊！	敏敏	不過，我們下次會贏的！
+SeasonalTalkEvent_005_02_015ID	26	Resna	レスナ	はい！　このチームで、次も頑張りましょう！	Resna	Yeah! We'll put in even more teamwork!	蕾斯娜	嗯！保持这个阵容，下次继续加油！	蕾斯娜	好！我們整隊一起為下一次努力吧！
+SeasonalTalkEvent_005_02_015ID	27		女生徒Ａ	ねえエレンさん！\n昨日の対抗戦、中継で見てたよー！	Female Student A	Hey, Eren! I saw you in the contest yesterday!	女学生A	艾莲同学！\n我看了昨天对抗赛的转播哦！	女學生A	欸，艾蓮！\n我有看昨天對抗賽的實況轉播喔～！
+SeasonalTalkEvent_005_02_015ID	28		女生徒Ｂ	すっごくかっこよかった！\nファンになっちゃったかも！	Female Student B	You looked really cool! I'm definitely going to cheer for you from now on!	女学生B	你好帅啊！\n我都要变成你的粉丝了！	女學生B	妳在賽場上真的好帥！\n我都要變成妳的粉絲了！
+SeasonalTalkEvent_005_02_015ID	29	Eren	エレン	あ、ありがとう……	Eren	Th-Thank you...	艾莲	谢、谢谢你……	艾蓮	謝、謝謝妳……
+SeasonalTalkEvent_005_02_015ID	30		女生徒Ａ	それに、エレンさんってちょっと怖いかもって\n思ってたんだけど……	Female Student A	Honestly, I thought you were kind of scary, but...	女学生A	而且，我本来还觉得你有点可怕……	女學生A	而且，我以前覺得艾蓮有一點可怕……
+SeasonalTalkEvent_005_02_015ID	31		女生徒Ａ	あんな風に笑うこともあるんだね！	Female Student A	You've got a great smile!	女学生A	没想到你也能笑得那么灿烂呀！	女學生A	沒想到妳也會像那樣大笑啊！
+SeasonalTalkEvent_005_02_015ID	32	Eren	エレン	え？	Eren	Huh?	艾莲	咦？	艾蓮	咦？
+SeasonalTalkEvent_005_02_015ID	33		女生徒Ｂ	ああ、試合後でしょ？\nふふっ、笑うと結構かわいいなあって思った	Female Student B	You know how you guys were all laughing at the end? That was super cute!	女学生B	哦，你是说比赛结束后吧？\n呵呵呵，我也觉得笑起来很可爱啊。	女學生B	啊，妳是說比賽結束之後的那個對嗎？\n呵呵，我覺得她笑起來滿可愛的。
+SeasonalTalkEvent_005_02_015ID	34		女生徒Ａ	ほんとそう！　ギャップあっていいよね～	Female Student A	I know, right! Don't you just love it when someone looks scary but acts cute?	女学生A	是啊！这种反差很萌呢～	女學生A	真的！有種反差感真可愛～
+SeasonalTalkEvent_005_02_015ID	35	Eren	エレン	そ、そう……	Eren	I-I see...	艾莲	是、是吗……	艾蓮	是、是嗎……
+SeasonalTalkEvent_005_02_015ID	36		女生徒Ａ	じゃあね！　また今度、話聞かせてよ～	Female Student A	Anyways, let's chat again sometime! See you!	女学生A	我们走啦！下次再聊哦～	女學生A	掰掰囉！下次再講比賽的事給我們聽吧～
+SeasonalTalkEvent_005_02_015ID	37	Eren	エレン	あ……	Eren	Oh...	艾莲	啊……	艾蓮	啊……
+SeasonalTalkEvent_005_02_015ID	38	Sophie	ソフィー	おはよう！	Sophie	Hello!	苏菲	早上好！	蘇菲	早安！
+SeasonalTalkEvent_005_02_015ID	39	Ryza	ライザ	やるね～？　朝から人気者じゃん	Ryza	Oooh, aren't you popular? First thing in the morning, too!	莱莎	厉害啊～一大早就这么受欢迎。	萊莎	妳還真行耶～一大早就那麼受歡迎。
+SeasonalTalkEvent_005_02_015ID	40	Resna	レスナ	だってエレンちゃん、すごい活躍でしたもんね！	Resna	That's because she was so cool yesterday!	蕾斯娜	因为艾莲的表现实在太精彩了！	蕾斯娜	畢竟艾蓮在對抗賽上大展身手了嘛！
+SeasonalTalkEvent_005_02_015ID	41	Mimi	ミミ	私たちも結構目立ってたと思うんだけど……\nまあ、今回は手柄を譲ってあげるわ	Mimi	Sure, but we were there too... Never mind, it's fine. I'll overlook it this once.	敏敏	我们的表现也很引人注目啊……\n算了，这次的功劳就让给你了。	敏敏	我覺得我們的表現也很亮眼啊……\n不過，這次的功績就讓給妳吧。
+SeasonalTalkEvent_005_02_015ID	42	Eren	エレン	みんな……	Eren	You guys...	艾莲	大家……	艾蓮	大家……
+SeasonalTalkEvent_005_02_015ID	43	Rorona	ロロナ	大丈夫だよ。きっとあなたを拒んだりなんかしない	Rorona	Don't worry, they'd definitely welcome you with open arms!	萝乐娜	别担心，她们一定不会排斥你的。	蘿樂娜	沒事的，大家肯定不會拒絕妳的。
+SeasonalTalkEvent_005_02_015ID	44	Rorona	ロロナ	大丈夫だったでしょ？	Rorona	See? I told you it'd be fine.	萝乐娜	我说的没错吧？	蘿樂娜	我就說會沒事的對吧？
+SeasonalTalkEvent_005_02_015ID	45	Eren	エレン	……はい	Eren	Yeah.	艾莲	是的……	艾蓮	……嗯。
+SeasonalTalkEvent_005_02_016ID	0	Resna	レスナ	（……こうして）	Resna	(And just like that...)	蕾斯娜	（就这样……）	蕾斯娜	（就這樣……）
+SeasonalTalkEvent_005_02_016ID	1	Resna	レスナ	（エレンちゃんが諦めていた\n　何かがまた動き出す）	Resna	(Even though Eren had given up hope, her whole situation changed.)	蕾斯娜	（艾莲对曾经放弃的事物重新萌发了向往。）	蕾斯娜	（艾蓮原本已經放棄的某個東西，\n　又再次復甦了。）
+SeasonalTalkEvent_005_02_016ID	2	Resna	レスナ	（火を灯したのはきっと、誰かの優しい言葉）	Resna	(I'm sure the spark was the kind words she got from a certain someone.)	蕾斯娜	（点燃火种的，一定是某个人温柔的话语。）	蕾斯娜	（點燃那火光的，肯定是某人溫柔的話語。）
+SeasonalTalkEvent_005_02_016ID	3	Resna	レスナ	（歩き出した先にあるものを今度こそ）	Resna	(Still, she's got a ways to go before she gets to her destination.)	蕾斯娜	（希望她这次……）	蕾斯娜	（希望她這次邁出步伐後──）
+SeasonalTalkEvent_005_02_016ID	4	Resna	レスナ	（掴めるといいな）	Resna	(I hope she manages to find what she wants.)	蕾斯娜	（可以得偿所愿。）	蕾斯娜	（能抓住前方的目標。）
+SeasonalTalkEvent_005_02_016ID	5	Resna	レスナ	（きっとここは、この学園は）	Resna	(Besides, I'm pretty sure...)	蕾斯娜	（这所学园，）	蕾斯娜	（這個地方、這座學園，肯定會成為──）
+SeasonalTalkEvent_005_02_016ID	6	Resna	レスナ	（私たちが全力で夢を追いかけられる場所）	Resna	(...That this academy is exactly where we need to be to chase our dreams.)	蕾斯娜	（一定就是我们能全力追梦的地方。）	蕾斯娜	（能讓我們盡全力追逐夢想的地方。）
+SeasonalTalkEvent_005_02_016ID	7	Resna	レスナ	（私たちがなりたい大人の形を、もう一度見つける場所）	Resna	(This is where we'll figure out what kind of adults we want to be.)	蕾斯娜	（在这里我们会重新认识到自己想要成为什么样的大人。）	蕾斯娜	（同時也會讓我們重新找到，自己想要長成的模樣。）
+SeasonalTalkEvent_005_02_016ID	8	Ryza	ライザ	なんで引き分けだと、どっちのチームにも\n賞金が出ないんだー！	Ryza	Apparently, neither team gets the prize money because it ended in a tie!	莱莎	为什么打了平手，\n哪个队都拿不到奖金啊——！	萊莎	為什麼打成平手，\n雙方隊伍都拿不到獎金啊！
+SeasonalTalkEvent_005_02_016ID	9	Sophie	ソフィー	山分けにしてほしかったよね……	Sophie	It would've been nice if we could split it...	苏菲	要是能平分奖金就好了……	蘇菲	要是能平分就好了……
+SeasonalTalkEvent_005_02_016ID	10	Ryza	ライザ	くーっ！　次は絶対に勝つ！	Ryza	Aaargh! Whatever! We'll just get the next one!	莱莎	呜——！下次一定要获胜！	萊莎	嗚──！下次一定要贏！
+SeasonalTalkEvent_005_02_016ID	11	Eren	エレン	ふふ。そうですね	Eren	Heh, that's right.	艾莲	呵呵，没错。	艾蓮	呵呵，是啊。
+SeasonalTalkEvent_005_02_016ID	12	Rorona	ロロナ	こんなチームだけど、改めてよろしくね。\nエレンちゃん	Rorona	Thanks again for joining the team, Eren. We're a bit all over the place, but we mean well.	萝乐娜	我们就是这样的队伍，\n今后还请多多关照哦，艾莲。	蘿樂娜	雖然我們是這樣的隊伍，\n還是要再次請妳多多指教囉，艾蓮。
+SeasonalTalkEvent_005_02_016ID	13	Sophie	ソフィー	そういえば。エレンちゃんのちゃんとした\n自己紹介を聞いてなかった気がする	Sophie	Come to think of it, we never did get your self-introduction, did we?	苏菲	说起来，我好像还没有听艾莲正式介绍过自己呢。	蘇菲	話說回來，\n我們好像還沒聽艾蓮好好自我介紹過。
+SeasonalTalkEvent_005_02_016ID	14	Eren	エレン	確かにそうですね、すみません	Eren	Oh, no. Sorry.	艾莲	你说得对。不好意思。	艾蓮	確實是這樣，不好意思。
+SeasonalTalkEvent_005_02_016ID	15	Ryza	ライザ	いいって、気にしないで。それじゃあ改めて、\n自己紹介をお願いできる？	Ryza	It's fine, these things happen. Besides, you can just do it now!	莱莎	没事啦，不要放在心上。\n那能请你做一个自我介绍吗？	萊莎	沒關係啦，別在意。\n那麼，能麻煩妳重新自我介紹嗎？
+SeasonalTalkEvent_005_02_016ID	16	Eren	エレン	分かりました	Eren	All right.	艾莲	好的。	艾蓮	我明白了。
+SeasonalTalkEvent_005_02_016ID	17	Eren	エレン	私は、エレン・Ｋ・セントブルグ	Eren	I'm Eren K. St. Burg.	艾莲	我叫艾莲·K·圣布鲁格。	艾蓮	我叫做艾蓮‧K‧聖布魯格。
+SeasonalTalkEvent_005_02_016ID	18	Eren	エレン	人々を守るために、錬金術士を志す者です	Eren	I intend to become an alchemist who protects people.	艾莲	为了保护人们，立志成为炼金术士。	艾蓮	我是為了守護人們，才立志成為鍊金術士的。

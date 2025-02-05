@@ -1,0 +1,630 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	フラム	Bomb	炎烧	炎燒
+2	ヒーリングサルヴ	Healing Salve	治愈软膏	治癒軟膏
+3	エナジーペンダント	Energy Pendant	能量坠饰	能量墜飾
+4	フランベルジュ	Flamberge	焰形剑	波焰劍
+5	旅人のベスト	Traveler's Vest	旅人背心	旅人背心
+6	うに袋	Uni Bag	海胆袋	海膽袋
+7	ドライビスク	Dry Biscuit	饼干	餅乾
+8	ウサギのシッポ	Bunny Tail	兔子的尾巴	兔子的尾巴
+9	お手製の杖	Handmade Staff	手工杖	手工手杖
+10	混合毛のシャツ	Mixed Fur Shirt	混合毛衬衫	混毛襯衫
+11	うに型チャーム	Uni Charm	海胆挂饰	海膽掛飾
+12	蒼穹の弓	Blue Sky Bow	苍穹之弓	蒼穹之弓
+13	ノーブルチュニック	Noble Tunic	贵族外衣	尊貴上衣
+14	魔女の秘薬	Witch's Potion	魔女的秘药	魔女的秘藥
+15	ナントカの秘薬	Secret Remedy	总有办法秘药	總有辦法祕藥
+16	ヒーリングベル	Healing Bell	治愈之铃	治癒之鈴
+17	モノクログラス	Monochrome Glasses	黑白眼镜	黑白眼鏡
+18	軽い鉄の杖	Light Iron Staff	轻巧铁杖	輕巧鐵杖
+19	レザープロテクター	Leather Protector	护身皮甲	護身皮甲
+20	ドナーストーン	Lightning Bomb	电导之石	電導之石
+21	暗黒水	Dark Water	暗黑水	暗黑水
+22	素朴な焼き菓子	Simple Cookies	朴素烘焙点心	樸素烘焙點心
+23	精霊の首飾り	Spirit Necklace	精灵的项链	精靈的項鍊
+24	鉄鉤	Iron Claws	铁钩	鐵鉤
+25	風来人のシャツ	Wanderer's Shirt	浪人衬衫	浪人襯衫
+26	クラフト	Craft	诡雷	卡夫
+27	ルーンストーン	Runestone	符文石	符文石
+28	バトルアクス	Battle Axe	战斧	戰斧
+29	ハードコート	Hard Coat	坚硬外套	硬質外套
+30	神秘の羽衣	Mystic Robe	神秘的羽衣	神秘的羽衣
+31	クォーツネックレス	Quartz Necklace	石英项链	石英項鍊
+32	癒しの杖	Healing Staff	治愈之杖	治癒之杖
+33	ボルダースケイル	Border Scale	巨鳞铠甲	巨鱗鎧甲
+34	ウォーパウダー	War Powder	金创粉	金創粉
+35	たたかう魔剣	Magic Sword	战斗魔剑	戰鬥魔劍
+36	白銀の双剣	Silver Twin Swords	白银双剑	白銀雙劍
+37	ナイトシェイド	Night Shade	夜影	暗黑夜影
+38	グナーデリング・物	Gnade Ring - Phys	恩典戒指·物	恩典戒指‧物
+39	闘志のマフラー	Battle Scarf	斗志围巾	鬥志圍巾
+40	グナーデリング・魔	Gnade Ring - Mag	恩典戒指·魔	恩典戒指‧魔
+41	スモークミート	Smoked Meat	熏肉	燻肉
+42	不幸の瓶詰め	Bottled Misfortune	不幸之瓶	不幸瓶
+43	クレアエンパシー	Clairempathy	灵感锤	靈感錘
+44	極彩色のローブ	Colorful Robes	极亮彩外袍	極亮彩外袍
+45	シュペーヴァイス	Spee Weiss	银光之戟	銀光之戟
+46	コンバットシャツ	Combat Shirt	战斗衬衫	戰鬥襯衫
+47	ローゼフラム	Rose Bomb	玫瑰炎烧	玫瑰炎燒
+48	妙薬ドラッヘン	Drachen Elixir	妙药龙液	妙藥龍液
+49	エネルジアニカ	Energianica	形意口琴	形意口琴
+50	精霊の杖・火	Spirit Staff - Fire	精灵之杖·火	精靈之杖‧火
+51	精霊の杖・氷	Spirit Staff - Ice	精灵之杖·冰	精靈之杖‧冰
+52	精霊の杖・風	Spirit Staff - Air	精灵之杖·风	精靈之杖‧風
+53	精霊の杖・雷	Spirit Staff - Bolt	精灵之杖·雷	精靈之杖‧雷
+54	燃える水	Flame Aqua	可燃烧的水	可燃燒的水
+55	錬金キャンディ	Alchemy Candy	炼金糖果	鍊金糖果
+56	熱血はちまき	Hot-Blooded Bandana	热血头巾	熱血頭巾
+57	無重力シャツ	Weightless Shirt	无重力衬衫	無重力襯衫
+58	エンゼルチャーム	Angel Charm	天使吊饰	天使吊飾
+59	冒険者の服	Adventurer's Clothing	冒险者的服装	冒險者的服裝
+60	ハッスルベルト	Hustle Belt	干劲腰带	幹勁腰帶
+61	鋲打ちの皮鎧	Riveted Leather Armor	铆钉皮铠	鉚釘皮鎧
+62	魔獣の革鎧	Beast Armor	魔兽皮甲	魔獸皮甲
+63	エンゼルリボン	Angel Ribbon	天使缎带	天使緞帶
+64	黄金エキススープ	Golden Extract Soup	黄金精华汤	黃金精華湯
+65	エリキシル剤	Elixir	万灵药剂	萬靈藥劑
+66	創世の槌	Genesis Hammer	创世之槌	創世之槌
+67	リュミエールランス	Luminous Lance	光之枪	光之槍
+68	レーツェルフト	Ratsel Luft	龙卷结晶	神秘之息
+69	クライトレヘルン	Kleid Ice Bomb	礼服冰精	禮服冰精
+70	シュトラプラジグ	Strahl Plajig	漫舞雷球	漫舞雷球
+71	クロニクルマーク・斬	Chronicle Mark - Slash	时光标记·斩	圖騰項鍊‧斬
+72	クロニクルマーク・打	Chronicle Mark - Strike	时光标记·打	圖騰項鍊‧打
+73	クロニクルマーク・突	Chronicle Mark - Stab	时光标记·突	圖騰項鍊‧突
+74	火霊のリング	Fire Spirit Ring	火灵戒指	火靈戒指
+75	暴風のリング	Gale Force Ring	暴风戒指	暴風戒指
+76	氷幻のリング	Phantom Ice Ring	冰幻戒指	冰幻戒指
+77	雷帝のリング	King of Thunder Ring	雷帝戒指	雷帝戒指
+78	守護者の大剣	Protector Sword	守护者大剑	守護者大劍
+79	おしゃれなほうき	Stylish Broom	时髦扫把	時髦掃把
+80	肉体活性の粉末	Body Energy Powder	活化肉体粉末	活化肉體粉末
+81	剛力の塗り薬	Powerful Ointment	强力敷药	強力敷藥
+82	トリトンのほら貝	Triton's Trumpet	特里同的法螺	特里同的法螺貝
+83	スカラーコート	Skuller Coat	学者御用服	學者御用服
+84	レディアントプレート	Radiant Plate	光辉板甲	光輝板甲
+85	風繰り車	Pinwheel	驭风风车	馭風風車
+86	シュネーシュトルム	Schnee Sturm	冰雪风暴	冰雪風暴
+87	薬草のシャツ	Herbal Shirt	药草衬衫	藥草襯衫
+88	雷の呼び鈴	Lightning Bell	呼雷铃	呼雷鈴
+89	レッドウォーパウダー	Red War Powder	怒血金创粉	怒血金創粉
+90	リストレア薬瓶	Restoration Bottle	里斯托莱阿药瓶	復癒藥瓶
+91	プレートベスト	Plate Vest	铁甲背心	板甲背心
+92	クリングメーネ	Klinge Mähne	历神之剑	曆神之劍
+93	ヤマネコの槍	Madcat Spear	山猫长枪	山貓之槍
+94	かぼちゃドール	Pumpkin Doll	南瓜娃娃	南瓜娃娃
+95	フォーチュンライト	Fortune's Light	幸运之光	幸運之光
+96	陽だまりの杖	Sunburst Staff	日照之杖	日照之杖
+97	修練の道標	Training Path	修炼道标	修煉道標
+98	エレメントブレス・火	Elemental Breath - Fire	元素吐息·火	元素吐息‧火
+99	エレメントブレス・氷	Elemental Breath - Ice	元素吐息·冰	元素吐息‧冰
+100	エレメントブレス・雷	Elemental Breath - Bolt	元素吐息·雷	元素吐息‧雷
+101	コロッサルエッジ	Colossal Edge	无双	巨型劍鋒
+102	白翼の槍	White Wing Spear	白翼长枪	白翼之槍
+103	イバラの抱擁	Thorny Embrace	苦难的拥抱	荊棘的擁抱
+104	ワンダーミステル・火	Mystical Wonder - Fire	惊奇手杖·火	驚奇手杖‧火
+105	ワンダーミステル・風	Mystical Wonder - Air	惊奇手杖·风	驚奇手杖‧風
+106	氷びし	Ice Caltrop	冰菱	冰稜
+107	ワンダーミステル・氷	Mystical Wonder - Ice	惊奇手杖·冰	驚奇手杖‧冰
+108	ワンダーミステル・雷	Mystical Wonder - Bolt	惊奇手杖·雷	驚奇手杖‧雷
+109	ブリッツコア	Blitz Core	凝缩核	凝縮核
+110	生きてるゴミ箱	Living Trash Can	活着的垃圾桶	活著的垃圾桶
+111	銀糸の鎧	Silver Thread Armor	银线铠甲	銀絲之鎧
+112	ファーデンコート	Yarn Coat	发晶外套	髮晶外套
+113	ゴールドジャケット	Gold Jacket	黄金夹克	黃金夾克
+114	金刺繍のコート	Gold Embroidered Coat	金线刺绣大衣	金線刺繡大衣
+115	シャレードルマント	Charade Lumont	侦探外褂	偵探外褂
+116	ヒロイックガイスト	Heroic Geist	英雄精神	英雄知性
+117	万物の写本	Codex of Creation	万物抄本	萬物手抄本
+118	精霊のローブ	Spirit Robe	精灵的外袍	精靈的外袍
+119	旅の羽衣	Journey Raiment	旅行羽衣	旅行羽衣
+120	妖精の羽衣・火	Fairy Cloak - Fire	妖精羽衣·火	妖精羽衣‧火
+121	妖精の羽衣・風	Fairy Cloak - Air	妖精羽衣·风	妖精羽衣‧風
+122	妖精の羽衣・氷	Fairy Cloak - Ice	妖精羽衣·冰	妖精羽衣‧冰
+123	妖薬エボニアル	Miracle Ebonyal	黑檀妖药	黑檀妖藥
+124	廻る魔剣	Revolving Magic Sword	回旋魔剑	迴旋魔劍
+125	トランヒールサルヴ	Tranquil Salve	鱼油治愈软膏	特效療癒軟膏
+126	ドナークリスタル	Lightning Crystal	电导水晶	電導水晶
+127	破壊の秘薬	Potion of Destruction	破坏秘药	破壞的秘藥
+128	波打つ刺剣	Rippling Rapier	浪刃刺剑	波打刺劍
+129	クレプスクルン	Crepusculum	黄昏微光	黃昏微光
+130	神速のブーツ	Godspeed Boots	神速之靴	神速之靴
+131	ミシカルリング	Mythical Ring	神话戒指	神話戒指
+132	ベルベットレイヤード・斬	Layered Velvet - Slash	多层丝绒装·斩	多層絲絨裝‧斬
+133	雷鳴の鎧	Thunder Armor	雷鸣之铠	雷鳴之鎧
+134	氷霧の鎧	Frost Armor	冰雾之铠	冰霧之鎧
+135	ベルベットレイヤード・打	Layered Velvet - Strike	多层丝绒装·打	多層絲絨裝‧打
+136	鋼鉄弓	Steel Bow	钢铁弓	鋼鐵弓
+137	フローリッシュハート	Flourish Heart	华丽之心	華麗之心
+138	炎熱の鎧	Fire Armor	炎热之铠	炎熱之鎧
+139	風凪の鎧	Air Armor	息风之铠	風止之鎧
+140	ベルベットレイヤード・突	Layered Velvet - Stab	多层丝绒装·突	多層絲絨裝‧突
+141	白熱はちまき	White-Hot Headband	白热头巾	灼熱頭巾
+142	グローリーベルト	Glory Belt	荣耀腰带	榮耀腰帶
+143	鋼の杖	Steel Staff	钢之杖	鋼手杖
+144	ミーミルの杖	Mimir's Staff	密米尔之杖	密米爾之杖
+145	鋼の鎧	Steel Armor	钢之铠	鋼之鎧
+146	輝く絹の服	Silky Outfit	闪耀丝绢服	閃耀絲絹服
+147	パルフューム	Perfume	芬芳之链	誘香項鍊
+148	安らぎのマフラー	Serenity Scarf	宁神围巾	寧神圍巾
+149	プリンセスステッキ	Princess Wand	公主之杖	公主手杖
+150	勇者の剣	Hero's Sword	勇者之剑	勇者之劍
+151	プリンセスドレス	Princess Dress	公主裙	公主禮服
+152	勇者の鎧	Hero's Armor	勇者之铠	勇者之鎧
+153	プリンセスティアラ	Princess Tiara	公主皇冠	公主皇冠
+154	勇者のお守り	Hero's Charm	勇者的护身符	勇者的護身符
+155	魔女の剣	Witch's Sword	魔女之剑	魔女之劍
+156	吸血鬼の杖	Vampire's Staff	吸血鬼之杖	吸血鬼之杖
+157	魔女の服	Witch's Outfit	魔女之服	魔女服
+158	吸血鬼のマント	Vampire's Cloak	吸血鬼披风	吸血鬼披風
+159	魔女のお面	Witch's Mask	魔女面具	魔女面具
+160	吸血鬼のブローチ	Vampire's Brooch	吸血鬼胸针	吸血鬼胸針
+161	プロテクトパウダー	Protection Powder	保护粉	防禦粉
+162	まじないほうき	Enchanted Broom	咒文扫帚	咒文掃帚
+163	メタルターナー	Metal Stirrer	金属锅铲	金屬鍋鏟
+164	羽根飾り	Feather Pin	羽毛饰品	羽毛飾品
+165	神秘のタリスマン	Mystic Talisman	神秘护符	神秘護符
+166	シュタルレヘルン	Stahl Ice Bomb	坚硬冰精	冷冽冰精
+167	さすらい人の服	Wanderer's Clothes	流浪者之服	漂泊者服
+168	薬草のポンチョ	Herbal Poncho	药草斗篷	藥草斗篷
+169	オーレスケイル	Ore Scale Armor	矿石鳞甲	礦石鱗甲
+170	デイフーガ	Daylight	白日朝晖	白日朝暉
+171	カクテルレープ	Cocktail Leb	鸡尾酒点心	雞尾酒點心
+172	ラーヴァキューブ	Lava Cube	熔岩方块	熔岩方塊
+173	コールドハンマー	Cold Hammer	冰冷锤子	冰寒之錘
+174	ラギーソード	Rugged Sword	不工之剑	不工之劍
+175	詰め合わせキャンディ	Assorted Candy	混装糖果	綜合糖果
+176	スケイルアーマー	Scale Armor	鳞片铠甲	鱗片鎧甲
+177	ナチュラルコート	Natural Coat	自然大衣	自然大衣
+178	ダークレザー	Dark Leather Armor	暗黑皮铠	暗黑皮鎧
+179	オルフィックリング・氷	Orphic Ring: Ice	神秘戒指·冰	魔性戒指‧冰
+180	オルフィックリング・雷	Orphic Ring: Bolt	神秘戒指·雷	魔性戒指‧雷
+181	ビギナースタッフ	Beginner's Staff	新手魔杖	初學者之杖
+182	ブラッディクロー	Bloody Claw	血腥双爪	血腥雙爪
+183	幻月の服	Paraselene Clothes	幻月之服	幻月服裝
+184	ハードローブ	Hard Robe	坚硬长袍	硬質外袍
+185	ナックルガード	Knuckle Guard	手指虎拳套	護指圈
+186	アンジュパリュール	Ange Parure	天使宝石套装	天使珠寶飾品組
+187	さすらう地球儀	Wandering Globe	漂泊地球仪	流浪地球儀
+188	ヘリオプロクス	Helioprox	赤炎弦月杖	赤炎弦月杖
+189	森番鐘	Forest Bell	万物钟	萬物鐘
+190	ソルジャーキュイラス	Soldier's Cuirass	士兵铁甲	士兵鐵甲
+191	ゴールデンメイル	Golden Mail	黄金之铠	黃金之鎧
+192	魔石のチェイン	Fairystone Chain	魔石手链	魔石的鎖鏈
+193	バロンズクラウン	Baron's Crown	男爵冠	男爵冠
+194	頼れる錬金術士の杖	Reliable Alchemist's Staff	可靠的炼金术士之杖	可靠的鍊金術士之杖
+195	グラスビーンズ	Grass Beans	草豆	草豆
+196	クーケンスウェット	Kurken Sweats	库肯布衣	庫肯布衣
+197	退魔のブローチ	Exorcism Brooch	退魔胸针	退魔胸針
+198	栄養剤	Tonic	营养剂	營養劑
+199	トネルアッシュ	Tonnelash	雷斧	雷斧
+200	グランドプレート	Grand Plate	大地板甲	大地胸鎧
+201	バイタルペンダント	Vital Pendant	活力坠饰	生命墜飾
+202	禁じられた秘薬	Forbidden Elixir	禁忌秘药	禁忌秘藥
+203	クリーガーズタロン	Krieger's Talon	流金爪	流金爪
+204	ライトベスト	Light Vest	轻便背心	光之背心
+205	ヒートアップバングル	Heated Bangle	发热手镯	發熱手鐲
+206	神剃丸	Divinity's Edge	神剃丸	神剃丸
+207	アーツサマリー	Summary of Arts	艺术概论	藝術概論
+208	リフュールボトル	Healing Elixir	补给瓶	補給瓶
+209	放電管	Electrical Discharge Tube	放电管	放電管
+210	真紅の皮鎧	Crimson Leather Armor	深红皮甲	深紅皮鎧
+211	疾走シャツ	Dart Shirt	疾跑衬衫	疾走襯衫
+212	守護女神の盾	Goddess Shield	守护女神之盾	守護女神之盾
+213	エレメントガード	Element Guard	元素盾	元素盾
+214	ファンシーリング	Fancy Ring	奇想戒指	幻想戒指
+215	ビビットマフラー	Vivid Scarf	鲜艳围巾	豔色圍巾
+216	オルフィックリング・火	Orphic Ring: Fire	神秘戒指·火	魔性戒指‧火
+217	オルフィックリング・風	Orphic Ring: Air	神秘戒指·风	魔性戒指‧風
+218	解の魔導書・火	Tome of Answers: Fire	解之魔导书·火	解之魔導書‧火
+219	解の魔導書・氷	Tome of Answers: Ice	解之魔导书·冰	解之魔導書‧冰
+220	解の魔導書・雷	Tome of Answers: Bolt	解之魔导书·雷	解之魔導書‧雷
+221	解の魔導書・風	Tome of Answers: Air	解之魔导书·风	解之魔導書‧風
+222	アブシュナイデン	Abschneiden	截断之剑	截斷之劍
+223	ザシュテーレン	Zerstören	破坏之锤	破壞之錘
+224	ドヒドリンゲン	Durchdringen	刺穿之枪	刺穿之槍
+225	ロイヤルティローブ	Royalty Robe	皇家法袍	忠誠外袍
+226	チャスティティローブ	Purity Robe	忠贞法袍	貞潔外袍
+227	トレランスローブ	Tolerance Robe	宽恕法袍	寬容外袍
+228	デリジェンスローブ	Diligence Robe	勤奋法袍	勤勉外袍
+229	センシブルローブ	Sensible Robe	理智法袍	明智外袍
+230	テンペランスローブ	Temperance Robe	节制法袍	節制外袍
+231	メルシーローブ	Mercy Robe	感谢法袍	感謝外袍
+232	伝承のエリキシル剤	Ancestral Elixir	传承万灵药剂	傳承的萬靈藥劑
+233	伝承の教典	Ancestral Doctrine	传承教典	傳承的教典
+234	伝承の呪術書	Ancestral Spellbook	传承咒术书	傳承的咒術書
+235	プライドリング	Pride Ring	傲慢戒指	傲慢戒指
+236	エンヴィーリング	Envy Ring	嫉妒戒指	嫉妒戒指
+237	スロースリング	Sloth Ring	懒惰戒指	怠惰戒指
+238	ウォラスリング	Wrath Ring	暴怒戒指	憤怒戒指
+239	グリードリング	Greed Ring	贪婪戒指	貪婪戒指
+240	グラトニーリング	Gluttony Ring	暴食戒指	暴食戒指
+241	ラストリング	Lust Ring	色欲戒指	色慾戒指
+242	天恵の杖	Blessed Staff	天佑之杖	天惠之杖
+243	冥護の杖	Shadowguard Staff	冥护之杖	冥護之杖
+244	神助の杖	Divine Aid Staff	神助之杖	神助之杖
+245	聖寵の杖	Holy Favor Staff	圣宠之杖	聖寵之杖
+246	エルドへヴァイス	Edelweiss	白色大地	埃德海瓦斯之劍
+247	シュターカヴィレ	Starker Wille	坚强意志	強志之戟
+248	エーヴィヒエーレ	Ewig Ehre	永恒荣光	永譽之弓
+249	幻重鎧グランツ	Phantom Armor Glanz	梦幻重甲辉耀	幻重鎧光輝
+250	幻重鎧ラヴィーネ	Phantom Armor Lawine	梦幻重甲雪崩	幻重鎧雪崩
+251	幻重鎧シュバルツ	Phantom Armor Schwarz	梦幻重甲漆黑	幻重鎧漆黑
+252	幻重鎧エルフォルク	Phantom Armor Erfolg	梦幻重甲成功	幻重鎧成功
+253	幻重鎧フライハイト	Phantom Armor Freiheit	梦幻重甲自由	幻重鎧自由
+254	幻重鎧フリーデン	Phantom Armor Frieden	梦幻重甲安宁	幻重鎧和平
+255	幻重鎧トロイメライ	Phantom Armor Träumerei	梦幻重甲幻想	幻重鎧夢幻
+256	オリジンネックレス・火	Origin Necklace: Fire	原始项链·火	起源項鍊‧火
+257	オリジンネックレス・氷	Origin Necklace: Ice	原始项链·冰	起源項鍊‧冰
+258	オリジンネックレス・雷	Origin Necklace: Bolt	原始项链·雷	起源項鍊‧雷
+259	オリジンネックレス・風	Origin Necklace: Air	原始项链·风	起源項鍊‧風
+260	オリジンネックレス・斬	Origin Necklace: Slash	原始项链·斩	起源項鍊‧斬
+261	オリジンネックレス・打	Origin Necklace: Strike	原始项链·打	起源項鍊‧打
+262	オリジンネックレス・突	Origin Necklace: Stab	原始项链·突	起源項鍊‧突
+263	フレアノヴァフラム	Flare Nova Bomb	闪耀新星炎烧	閃亮新星炎燒
+264	ブリザードレヘルン	Blizzard Ice Bomb	暴风雪冰精	暴風雪冰精
+265	トルネードルフト	Tornado Luft	龙卷风精	龍捲風風精
+266	グングニルプラジグ	Gungnir Plajig	冈格尼尔雷球	岡格尼爾雷球
+267	シュレッドディザスター	Shred Disaster	粉碎之灾	碎撕災厄
+268	ディスペアカノン	Despair Cannon	绝望加农炮	絕望卡農砲
+269	カタストクラフト	Catastro Craft	灾祸诡雷	災禍卡夫
+270	爆粉うに	Explosive Uni	爆裂海胆	爆裂海膽
+271	旅人のコート	Traveler's Coat	旅人的大衣	旅人的大衣
+272	ヘヴィブルワーク	Heavy Bulwark	障壁重剑	障壁重劍
+273	メモリアブレスレット	Memoria Bracelet	回忆手环	回憶手環
+274	クラフトリオ	Craftlio	多重诡雷	卡夫三重奏
+275	聖鎚・雨坤波更	Holy Torrent	圣锤·雨坤波更	聖錘‧雨坤波更
+276	かく乱の鈴	Bell of Disruption	扰乱之铃	擾亂之鈴
+277	異国の甲冑	Exotic Armor	异国甲胄	異國盔甲
+278	ゆらぎの毒煙	Poison Smoke	飘摇的毒烟	飄搖的毒煙
+279	アスラドーナツ	Ashra Donut	阿斯拉甜甜圈	阿斯拉甜甜圈
+280	情熱の使者ステッキ	Passionate Envoy's Cane	热情使者杖	熱情使者的手杖
+281	静穏の使者ブレード	Serene Envoy's Blade	静稳使者之刃	平靜使者之劍
+282	情熱の使者コート	Passionate Envoy's Coat	热情使者大衣	熱情使者的大衣
+283	静穏の使者コート	Serene Envoy's Coat	静稳使者大衣	平靜使者的大衣
+284	情熱の使者ブーツ	Passionate Envoy's Boots	热情使者靴	熱情使者的靴子
+285	静穏の使者ブーツ	Serene Envoy's Boots	静稳使者靴	平靜使者的靴子
+286	福の杖	Fortune Staff	福之杖	福之杖
+287	寿の杵	Longevity Mallet	寿之杵	壽之杵
+288	福の振袖	Fortune Kimono	福之振袖	福之振袖
+289	寿の羽織	Longevity Haori	寿之羽织	壽之羽織
+290	福のしめ縄	Fortune Shimenawa	福之稻草绳	福之注連繩
+291	寿のぽち袋	Longevity Envelope	寿之小袋	壽之紅包袋
+292	小悪魔のいたずら	Imp's Mischief	小恶魔的恶作剧	小惡魔的惡作劇
+293	トゥルビヨン	Tourbillon	旋风	陀飛輪
+294	無彩色のローブ	Colorless Robe	单色调外袍	無色彩外袍
+295	青ぷに型チャーム	Blue Puni Charm	蓝噗尼挂饰	藍噗尼掛飾
+296	オーカンルフェン	Orkanruf	疾风加护	奧康路風扇
+297	薫り高き杖	Fragrant Staff	芬芳之杖	芬芳之杖
+298	魔法のプレート	Magic Plate	魔法胸铠	魔法胸鎧
+299	薬石の耳飾り	Medical Earring	药石耳饰	藥石耳飾
+300	氷棘箒	Ice Thorn Broom	冰棘扫把	冰棘掃帚
+301	氷面鏡の弓	Ice Mirror Bow	冰面镜之弓	冰面鏡之弓
+302	吸魂ひょうたん	Soul Absorbing Gourd	吸魂葫芦	吸魂葫蘆
+303	ガラスのバラ	Glass Rose	玻璃玫瑰	玻璃玫瑰
+304	疾風の小太刀	Gale Dagger	疾风小太刀	疾風的小太刀
+305	金糸の鎧	Gold Thread Armor	金线铠甲	金絲之鎧
+306	ストラパール	Stellapearl	史特拉珍珠	史特拉珍珠
+307	エルドリッチリング・突	Eldritch Ring: Stab	怪异之环·突	怪異戒指‧突
+308	エルドリッチリング・斬	Eldritch Ring: Slash	怪异之环·斩	怪異戒指‧斬
+309	エルドリッチリング・打	Eldritch Ring: Strike	怪异之环·打	怪異戒指‧打
+310	スタビルスト	Stabilisto	护身铠甲	穩定鎧甲
+311	ストライフシャツ	Strife Shirt	战争衬衫	鬥爭襯衫
+312	レゾナンスチャイム	Resonance Chime	共振铃	共振鈴
+313	風よけの外套	Windbreaker	防风外套	防風外套
+314	ガラスのティアラ	Glass Tiara	玻璃花冠	玻璃花冠
+315	便利ほうき	Convenient Broom	便利扫把	便利掃把
+316	隕鉄の鎧	Meteorite Armor	陨铁铠甲	隕鐵之鎧
+317	メタルブーツ	Metal Boots	金属靴	金屬靴
+318	テネブルランス	Ténèbres Lance	防御长枪	暗黑長矛
+319	トモストリアイナ	Tomost Riaina	无垢法杖	聖典三叉戟
+320	穢れずの鎧	Unblemished Armor	无瑕铠甲	純潔之鎧
+321	ブレイブマスク	Brave Mask	英勇面具	英勇面具
+322	スノーブーツ	Snow Boots	雪原靴	雪靴
+323	夢幻の羽衣	Dream Raiment	梦幻羽衣	夢幻羽衣
+324	酸の霧雲	Acid Fog	酸性云雾	酸的霧雲
+325	アービデルトネ	Arbidel Torne	雷电大剑	艾比德魯特涅之劍
+326	アネンドトス	Anendtos	闪电铠甲	亞納多特斯之鎧
+327	招雷の冠	Thundercall Crown	召雷之冠	招雷頭冠
+328	みなぎるドリンク	Energizing Drink	活力饮料	精力飲料
+329	烽火の弓	Signal Fire Bow	烽火之弓	烽火之弓
+330	サピエンスコート	Sapience Coat	现代大衣	人族外套
+331	幸運の金貨	Lucky Coin	幸运金币	幸運的金幣
+332	ピュアアロマ	Pure Aroma	纯净香薰	純香精油
+333	フォルスマハトパワー	Force Macht Power	强力之锤	全能力量
+334	ボーンプレート	Bone Plate	骨制胸铠	骨質胸鎧
+335	ガントレット	Gauntlets	护手	護手
+336	ハイカラなシャツ	Stylish Shirt	时髦衬衫	時髦襯衫
+337	緑ぷに型チャーム	Green Puni Charm	绿噗尼挂饰	綠噗尼掛飾
+338	ハートフルロッド	Heartful Wand	真心杖	真心之杖
+339	ハートフルコスチューム	Heartful Dress	真心时装	真心衣裝
+340	ハートフルイヤーマフ	Heartful Earmuffs	真心耳罩	真心耳罩
+341	親愛の剣	Beloved Sword	情谊之剑	親愛之劍
+342	親愛の鎧	Beloved Armor	情谊之铠	親愛之鎧
+343	親愛のタリスマン	Beloved Talisman	情谊护符	親愛護符
+344	まごころチョコレート	Wholehearted Chocolate	真心巧克力	真心巧克力
+345	天使の杖	Angel Staff	天使之杖	天使之杖
+346	シルキィチェイン	Silky Chainmail	丝绢链甲	絲絹鏈甲
+347	勝負師のお守り	Victory Charm	赌徒的护身符	賭徒的護身符
+348	魔女の杖	Witch's Staff	魔女之杖	魔女之杖
+349	天使のローブ	Angel Robe	天使外袍	天使外袍
+350	実影の腕輪	Shadow Band	实影手环	實影手環
+351	高火力錬金大砲	High-Power Alchemy Cannon	高火力炼金大炮	高火力鍊金大砲
+352	凍結破壊爆弾	Freeze Blast Bomb	冻结破坏炸弹	凍結破壞炸彈
+353	力のトーテム	Power Totem	力量图腾	力量圖騰
+354	凶兆水	Ominous Water	凶兆水	凶兆水
+355	ハルベルト	Halberd	枪斧	槍斧
+356	クリアレザー	Clear Leather Armor	光亮皮甲	純淨皮鎧
+357	音無しの靴	Silent Shoes	无声之靴	無聲之靴
+358	オラクルブレイド	Oracle Blade	神谕之剑	神諭之劍
+359	ファントムレザーメイル	Phantom Leather Mail	幻影皮铠	魅影皮甲
+360	戦いの護符	Battle Amulet	战斗护符	戰鬥的護符
+361	ピロソティー	Piro Sotea	焦味苏茶	焦味蘇茶
+362	アブメイン	Abmähen	横扫灵矛	長柄刀
+363	狂風箒	Gale Broom	狂风扫帚	狂風掃把
+364	ウィルムソウル	Wyrmsoul	亚龙之魂	亞龍之魂
+365	コマンダープレート	Commander's Plate	司令胸铠	司令官胸鎧
+366	ブリーズドレス	Breeze Dress	微风礼服	微風禮服
+367	シルバージャケット	Silver Jacket	白银夹克	銀夾克
+368	物霊のイヤリング	Spirit Earrings	物灵耳坠	物靈耳環
+369	強靱はちまき	Resilient Headband	强韧头巾	強韌頭巾
+370	赤ぷに型チャーム	Red Puni Charm	红噗尼挂饰	紅噗尼掛飾
+371	ビギンスリング	Beginner's Sling	初发弹弓	初始彈弓
+372	レゾヌマント	Raisonnement	推理风衣	理智披風
+373	霊獣のシッポ	Spirit Beast's Tail	灵兽的尾巴	靈獸尾巴
+374	ウィズダムハート	Heart of Wisdom	智慧之心	智慧之心
+375	フリッシュコート	Frisch Coat	冰潮大衣	清新外套
+376	フリーズチャーム	Freeze Charm	冰冻挂饰	冰結飾品
+377	つけもの石	Weight Stone	渍物石	漬物石
+378	原初の力肉	Strength Meat	原初之力肉	原初的力肉
+379	魔法の鎖	Magic Chain	魔法锁链	魔法鎖鏈
+380	ファウンダーブーメラン	Founder's Boomerang	创始飞镖	崩壞迴旋鏢
+381	ソフトローブ	Soft Robe	柔软长袍	柔軟外袍
+382	花ぷに型チャーム	Flower Puni Charm	花噗尼挂饰	花噗尼掛飾
+383	鷹の目の弓	Hawkeye Bow	鹰眼之弓	鷹眼之弓
+384	ゴッデスメイル	Goddess Mail	女神铠甲	女神戰甲
+385	深緑の羽飾り	Feather Ornament	深绿色羽毛头饰	深綠羽毛飾品
+386	シェルペルホルン	Shellper Horn	谢尔佩尔号角	謝爾佩爾號角
+387	アジルチャクラム	Agile Chakram	灵动环刃	迅捷環刃
+388	勇士の杖	Champion's Staff	勇士之杖	勇士之杖
+389	勇士の衣	Champion's Attire	勇士之服	勇士之服
+390	勇士の証	Champion's Mark	勇士之证	勇士之證
+391	不屈新入生の杖	Resilient New Students' Staff	不屈新生之杖	不屈新生之杖
+392	不屈新入生の制服	Resilient New Students' Uniform	不屈新生校服	不屈新生制服
+393	不屈新入生のシュシュ	Resilient New Students' Scrunchie	不屈新生发圈	不屈新生髮圈
+394	番長のメリケンサック	Boss's Knuckleduster	大姐头的拳刺	老大的指虎
+395	番長の制服	Boss's Uniform	大姐头校服	老大的制服
+396	番長のマスク	Boss's Mask	大姐头口罩	老大的面具
+397	奮励努力の竹刀	Bamboo Sword of Endeavor	奋勇拼搏竹刀	勤奮努力的竹刀
+398	奮励努力の防具	Armor of Endeavor	奋勇拼搏防具	勤奮努力的防具
+399	奮励努力のスパイク	Spiked Shoes of Endeavor	奋勇拼搏钉鞋	勤奮努力的釘鞋
+400	令嬢の槍	Young Lady's Spear	千金长枪	千金之槍
+401	令嬢の制服	Young Lady's Uniform	千金校服	千金的制服
+402	令嬢のソックス	Young Lady's Socks	千金袜子	千金的襪子
+403	試作品うに袋	Prototype Uni Bag	试制海胆袋	試作品海膽袋
+404	学生応援レッドゼリー	Student Support Red Jelly	学生应援红色果冻	援助學生紅色果凍
+405	ギャルの杖	Gyaru Staff	辣妹之杖	辣妹之杖
+406	ギャルの制服	Gyaru Uniform	辣妹校服	辣妹的制服
+407	ギャルのバングル	Gyaru Bangle	辣妹手镯	辣妹的手環
+408	学生応援大盛定食	Student Support Extra-Large Meal	学生应援大份套餐	援助學生大份套餐
+409	魔物除けスプレー	Monster Repellent Spray	防魔物喷雾	驅除魔物噴罐
+410	一意専心の巨大鉛筆	Giant Pencil of Dedication	一心一意巨大铅笔	一心一意的巨大鉛筆
+411	一意専心の学ラン	Uniform of Dedication	一心一意立领校服	一心一意的立領制服
+412	一意専心の消しゴム	Eraser of Dedication	一心一意橡皮	一心一意的橡皮擦
+413	委員長の杖	Class President's Cane	班长的手杖	班長的手杖
+414	試作品ルフト	Prototype Luft	试制品风精	試作品風精
+415	委員長の制服	Class President's Uniform	班长的校服	班長的制服
+416	学生応援ブルーゼリー	Student Support Energy Drink	学生应援蓝色果冻	援助學生藍色果凍
+417	委員長のリボン	Class President's Ribbon	班长的蝴蝶结	班長的緞帶
+418	高嶺の剣	Lofty Longsword	高岭之剑	高峰之劍
+419	高嶺の制服	Lofty Uniform	高岭校服	高峰的制服
+420	高嶺の手鏡	Lofty Pocket Mirror	高岭手镜	高峰的手鏡
+421	学生応援健康定食	Student Support Balanced Meal	学生应援健康套餐	援助學生健康套餐
+422	魔物集めトラップ	Monster Gathering Trap	魔物诱捕陷阱	蒐集魔物陷阱
+423	清廉潔白の箒	Immaculate Broom	清廉洁白扫帚	正直清廉的掃把
+424	清廉潔白のワイシャツ	Immaculate Dress Shirt	清廉洁白白衬衫	正直清廉的白襯衫
+425	清廉潔白の雑巾	Immaculate Cloth	清廉洁白抹布	正直清廉的抹布
+426	温もりの笛	Flute of Warmth	温暖之笛	溫暖的笛子
+427	温もりの浴衣	Yukata of Warmth	温暖浴衣	溫暖的浴衣
+428	温もりの下駄	Sandals of Warmth	温暖木屐	溫暖的木屐
+429	寛ぎのうちわ	Fan of Relaxation	悠闲扇	舒適的扇子
+430	寛ぎの浴衣	Yukata of Relaxation	悠闲浴衣	舒適的浴衣
+431	寛ぎのハンドタオル	Hand Towel of Relaxation	悠闲小毛巾	舒適的手巾
+432	ブレードナックル	Blade Knuckle	指虎匕首	指虎之刃
+433	ブロンズメイル	Bronze Mail	青铜铠甲	青銅戰甲
+434	フェーダクナイ	Feder Kunai	飞羽苦无	飛羽苦無
+435	ヘルスシャツ	Vitality Shirt	健康衬衫	健康襯衫
+436	鋭い鉄の杖	Pointed Iron Staff	尖锐铁杖	鋒銳鐵杖
+437	一つ角のマスケラ	One Angle Mascara	独角的面具	獨角的面具
+438	生命のバングル	Life Bangle	生命手镯	生命手環
+439	因果の鎖	Chain of Karma	因果之锁	因果之鎖
+440	テンペストギア	Tempest Gear	风暴齿轮	風暴齒輪
+441	盗賊のバンダナ	Thief Bandana	盗贼的头巾	盜賊的頭巾
+442	リアクトコート	Reactive Coat	反应外套	反應外套
+443	魔除けの霧吹き	Sprayer Talisman	除魔喷雾	除魔噴霧
+444	蛮勇の角笛	Barbaric Horn Whistle	蛮勇的角笛	蠻勇角笛
+445	木の杖	Wooden Staff	木之杖	樹之杖
+446	冒険用の服	Adventurer's Garb	冒险服	冒險專用的服裝
+447	天空の護符	Celestial Talisman	天空护符	天空的護符
+448	鋼の剣	Steel Sword	钢之剑	鋼之劍
+449	白銀の鎧	Silver Armor	白银铠甲	白銀之鎧
+450	太陽の首飾り	Sun Necklace	太阳项链	太陽項鍊
+451	不退転の斧	Unyielding Axe	坚定不移之斧	不屈之斧
+452	ナイトキュイラス	Knight's Cuirass	夜色铁甲	騎士鐵甲
+453	ラウズバングル	Rousing Bangle	激励手镯	激勵手環
+454	光焔の大剣	Lightflame Sword	光焰大剑	光焰大劍
+455	ラジュリアベスト	Luxuria Vest	华丽背心	奢華背心
+456	成就の指輪	Success Ring	许愿戒指	許願戒指
+457	命札フリューエル	Wheel of Fortune Tarot	命牌昔日	命牌昔日
+458	大自然の服	Natural Clothes	大自然之服	大自然的服裝
+459	ファントムスカーフ	Phantom Scarf	魅影领巾	魅影領巾
+460	エクサボム	Exa-Bomb	究极炸弹	究極炸彈
+461	猛火の塗り薬	Inferno Ointment	猛火敷药	猛火敷藥
+462	メディアの秘毒	Medea's Poison	美狄亚的秘毒	梅迪亞的秘毒
+463	しびれ毒液	Numbing Venom	麻痹毒液	麻痺毒液
+464	誓いの木槌	Vowed Hammer	誓约木槌	誓約木槌
+465	誓いの白無垢	Vowed White Kimono	誓约日式婚礼服装	誓約白無垢
+466	誓いの置物	Vowed Ornament	誓约摆件	誓約裝飾品
+467	幸せのスリング	Sling of Happiness	幸福弹弓	幸福彈弓
+468	幸せのドレス	Dress of Happiness	幸福礼服	幸福禮服
+469	幸せのリング	Ring of Happiness	幸福戒指	幸福戒指
+470	黒檀の杖	Ebony Staff	黑檀之杖	黑檀之杖
+471	黒檀のプレート	Ebony Plate	黑檀胸铠	黑檀胸鎧
+472	魂縛のチェイン	Soul Binder	缚魂锁链	縛魂鎖鏈
+473	幻獣の太刀	Mythical Beast Sword	幻兽的太刀	幻獸的太刀
+474	七糸のシャツ	Rainbow Shirt	七线衬衫	七線襯衫
+475	不死鳥の腕輪	Phoenix Bracelet	不死鸟手环	不死鳥手環
+476	グラスィエ	Glacie	冰棘之剑	冰河
+477	渡り者の服	Vagabond's Clothing	旅者的服装	流浪者的服裝
+478	クリアバングル	Clear Bangle	冷澈手镯	純淨手環
+479	スパークダガー	Spark Dagger	火花短剑	電光短劍
+480	レザーシャツ	Leather Shirt	皮革衬衫	皮革襯衫
+481	精霊の力帯	Spirit Belt	精灵的力带	精靈的力帶
+482	鳳凰の杖	Firebird Staff	凤凰之杖	鳳凰之杖
+483	メタリカレザーメイル	Metal and Leather Mail	金属皮铠	金屬皮甲
+484	マイスターミトン	Meister Mittens	大师连指手套	大師手套
+485	氷結の塗り薬	Frozen Ointment	冻结敷药	凍結敷藥
+486	帯電の塗り薬	Charged Ointment	带电敷药	帶電敷藥
+487	ドナーシュテルン	Lightning Stern	电导之星	電導之星
+488	エーテルインキ	Ether Ink	以太墨水	乙太墨水
+489	カフトスクーパ	Kaftí Skoúpa	灼热拂帚	灼熱掃帚
+490	クリオスクーパ	Krýa Skoúpa	冰冷拂帚	冰晶掃帚
+491	シエラスクーバ	Thýella Skoúpa	暴风拂帚	暴風掃帚
+492	アストゥラスクーバ	Astra Skoúpa	雷光拂帚	星芒掃帚
+493	番いの剣	Paired Swords	双股剑	成對之劍
+494	潰滅の戦棍	Mace of Devastation	溃灭战锤	潰滅戰棍
+495	根絶の薙刀	Blade of Eradication	根绝薙刀	根絕薙刀
+496	フローガスモキン	Flóga Smókin	火焰礼服	火焰無尾禮服
+497	パゴニャスモキン	Pagoniá Smókin	极寒礼服	冰霜無尾禮服
+498	キクロスモキン	Kykló Smókin	旋风礼服	旋風無尾禮服
+499	ケラヴスモキン	Kerá Smókin	神雷礼服	神雷無尾禮服
+500	ヒメルマンテ	Himmel Mantel	天空长袍	天空大衣
+501	エーデマンテ	Erde Mantel	大地长袍	大地大衣
+502	ウンヴェルマンテ	Unterwel Mantel	地底长袍	地底大衣
+503	サンティテロン	Scinti Talon	赤辉翼履	焰光之翼
+504	グラソテロン	Glaço Talon	冰柱翼履	冰柱之翼
+505	シエルテロン	Ciel Talon	翠空翼履	蒼穹之翼
+506	フードルテロン	Foudre Talon	闪电翼履	雷電之翼
+507	テレールテロン	Tutél Talon	捍御翼履	守護之翼
+508	ディアンテロン	Dien Talon	守护翼履	擁護之翼
+509	アミレテロン	Amule Talon	护身翼履	護身之翼
+510	潮騒のパラソル	Seaside Umbrella	涛声遮阳伞	海潮聲陽傘
+511	潮騒の水着	Seaside Swimsuit	涛声泳装	海潮聲泳裝
+512	潮騒の帽子	Seaside Hat	涛声帽子	海潮聲帽子
+513	陽光の釣竿	Sunshine Fishing Rod	阳光钓竿	陽光釣竿
+514	陽光の水着	Sunshine Swimsuit	阳光泳装	陽光泳裝
+515	陽光のサンダル	Sunshine Sandals	阳光凉鞋	陽光涼鞋
+516	盛夏のフィッシュソード	Midsummer Fish Sword	盛夏鱼剑	盛夏魚劍
+517	盛夏の水着	Midsummer Swimsuit	盛夏泳装	盛夏泳裝
+518	盛夏のシュノーケル	Midsummer Snorkel	盛夏呼吸管	盛夏浮潛裝備
+519	羽伸ばしのこん棒	Carefree Bat	展翅棍	自在棍棒
+520	羽伸ばしの水着	Carefree Swimsuit	展翅泳装	自在泳裝
+521	羽伸ばしのゴーグル	Carefree Goggles	展翅目镜	自在蛙鏡
+522	波打ち際のフルート	Shoreline Flute	海岸的长笛	海邊的長笛
+523	波打ち際の水着	Shoreline Swimsuit	海岸的泳装	海邊的泳裝
+524	波打ち際のサングラス	Shoreline Sunglasses	海岸的太阳眼镜	海邊的太陽眼鏡
+525	海の家特製かき氷	Beach House Special Shaved Ice	海边小屋特制刨冰	海之家特製刨冰
+526	海の家特製オイル	Beach House Special Oil	海边小屋特制油	海之家特製油
+527	海の家特製焼きそば	Beach House Special Yakisoba	海边小屋特制炒面	海之家特製炒麵
+528	海の家特製トラップ	Beach House Special Trap	海边小屋特制陷阱	海之家特製陷阱
+529	月夜の双星	Moonlit Twin Stars	月夜的双星	月夜雙星
+530	ファントムスーツ	Phantom Suit	魅影西装	幻影戰甲
+531	韋駄天のブーツ	Idaten's Boots	韦驮天之靴	韋馱天之靴
+532	氷柱扇	Icicle Fan	冰柱扇	冰柱扇
+533	淡紫の鎧	Mauve Armor	淡紫铠甲	淡紫鎧甲
+534	心眼のモノクル	Monocle of Insight	心眼单边眼镜	心眼單眼鏡
+535	業火箒	Hellfire Broom	业火扫帚	業火帚
+536	ヴァルキリーメイル	Valkyrie Mail	女武神链甲	女武神鏈甲
+537	浄火の腕輪	Purifying Flame Bracelet	净火手环	淨火手環
+538	護りのロッド	Guardian Rod	护身短杖	護身短杖
+539	淡氷の鎧	Crystal Ice Armor	淡冰之铠	淡冰之鎧
+540	共鳴の鈴	Resonance Bell	共鸣之铃	共鳴之鈴
+541	焔の禁書	Forbidden Tome of Flames	火焰禁书	焰之禁書
+542	ブレイズドレス	Blaze Dress	烈焰礼服	熾焰禮服
+543	炎の髪留め	Flame Hairpin	火炎发簪	炎之髮夾
+544	イバラの嘆息	Thorny Sigh	蔷薇叹息	荊棘的嘆息
+545	エレガンハート	Elegant Heart	优雅之心	優雅之心
+546	ラディアントコロネット	Radiant Coronet	光辉王冠	光耀王冠
+547	フワットケーキ	Velvety Pancakes	蓬松的蛋糕	蓬鬆的蛋糕
+548	クイーンズクレイブ	Queen's Craving	皇后的渴望	女王的渴望
+552	エテルノ・フローガ	Eterno Flóga	不灭之火	永恆‧火焰
+553	リヒトシュッツメイル	Lichtschutz Mail	光耀守护者之铠	炮手戰甲
+554	リンクシンボル	Link Symbol	连结象征	協力象徵
+555	テネブルエナジー	Ténèbres Energy	暗黑能量	暗黑能量
+556	ムギトゥスプレート	Mugitus Plate	咆哮胸铠	移動胸鎧
+557	シャドウウォーカー	Shadow Walkers	黑影行者	黑影行者
+558	パステートドリーム	Pastete Dream	甜美派梦	捕夢杖
+559	ミエルローブ	Miel Robe	甜蜜长袍	甜蜜外袍
+560	星へのツバサ	Starbound Wings	星之翼	翔星之翼
+561	クリスタルロッド	Crystal Rod	水晶之杖	羽晶短杖
+562	アイシークストディア	Icy Custodia	庇护之袍	冰護披風
+563	アンブロシアの花冠	Ambrosia Garland	仙灵花冠	仙靈花冠
+564	古伝の大槌	Ancient Sledgehammer	古传大锤	古傳大錘
+565	身軽な甲冑	Lightweight Armor	轻便甲胄	迅捷盔甲
+566	キュートな肩当て	Cute Shoulder Guards	可爱肩甲	可愛護肩
+567	ブキュリエ・ド・ロア	Bouclier du Roi	王之盾	王者之劍
+568	アミュール・ルミエ	Armure Lumière	光之铠	愛光鎧甲
+569	クロンヌ・ヴィクトリア	Couronne Victoire	胜利之冠	勝利王冠
+570	号令のホイッスル	Whistle of Command	号令哨子	號令之哨
+571	ブランクシチュー	Blank Stew	白色炖汤	白色燉湯
+572	審判の鉄槌	Hammer of Judgment	审判铁锤	審判鐵錘
+573	クルーガークローク	Kruger Cloak	聪慧大衣	睿智斗篷
+574	アルケミストベルト	Alchemist's Belt	炼金术士腰带	鍊金術師腰帶
+575	フルエンスフラマ	Fluens Flamma	流火炽翼枪	流炎魔杖
+576	フラマエチュテラ	Flamma Etutela	炽翼上衣	流炎護衣
+577	ヴィンクラティス	Vinculatis	桎梏腰带	火鏈皮帶
+578	竜巻のとどめ	Tornado Finisher	龙卷终结	龍捲之弓
+579	ウィンドシェイド	Wind Shade	风影	阻風套裝
+580	リンクプロテクター	Link Protector	绑带护膝	吊帶膝甲
+581	ヴィス・ナトゥラエ	Vis Naturae	自然之力	自然回力鏢
+582	プエラヴィヴァクス	Puella Vivax	跃动少女	活力少女服
+583	ヴィヴァクスの願い	Vivax's Wish	少女的祈愿	朝氣心願髮帶
+584	クラーレン			
+585	ナチュナリシュツ			
+586	獣の護符			
+587	叫びのハサミ			
+588	サイレンススタイル			
+589	紫宝石の首飾り			
+590	禁断の袋			
+591	プレーンワッフル			
+592	石割りアックス			
+593	鱗のプレート			
+594	メルクリウスの瞳			
+595	ノブレスランス			
+596	エミナンスコート			
+597	フィエールガント			
+598	冥闇の杖			
+599	寧静の服			
+600	花占いの札			
+601	インクイジターソード			
+602	イージスジャケット			
+603	オミノスバングル			
+604	スペシャルミート			
+605	シュメルツシュヴェールト			
+606	旅のプレート			
+607	献身のロケット			
+608	嘆きの毒煙瓶			
+609	寒凪のハルバード			
+610	寒凪のドレス			
+611	寒凪のネックレス			
+612	シュレクリヒソード			
+613	才華のコート			
+614	ソヴァールリング			
+615	フェアニヒターメテオール			
+616	福徳招来の扇			
+617	福徳招来の晴れ着			
+618	福徳招来のかんざし			
+619	薔薇の曲剣			
+620	治者の衣			
+621	ロイヤルハット			
+622	ツァイトシュターブ			
+623	リュクストワール			
+624	ブレイブシール			
+625	大巨人の鉄槌			
+626	安らぎの灯火			
+627	鳥と陽の杖			
+628	錬金外套			
+629	獣のアロマ			
+630	アジュアケージ			
+631	旅人の服			
+632	ハートイヤリング			

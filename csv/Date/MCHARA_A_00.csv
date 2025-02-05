@@ -1,0 +1,362 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_MCHARA_A_00_01ID	0	Ryza	ライザ	（まずいなあ……\n　この依頼、まだ残ってる）						
+Date_MCHARA_A_00_01ID	1	Ryza	ライザ	（期日も迫ってるし、\n　断るくらいなら、いっそ……）						
+Date_MCHARA_A_00_01ID	2	Resna	レスナ	こんにちは、ライザ先輩！\nあれ、難しい顔ですね、どうしました？						
+Date_MCHARA_A_00_01ID	3	Ryza	ライザ	いやー、期日の近い依頼があるんだけど、\n受ける人がいないんだよね						
+Date_MCHARA_A_00_01ID	4	Resna	レスナ	わっ。ここは、強い魔物が出るという！？						
+Date_MCHARA_A_00_01ID	5	Ryza	ライザ	そう……レスナ、どう？						
+Date_MCHARA_A_00_01ID	6	Resna	レスナ	ライザ先輩直々のご指名、\n身に余る光栄です！ 欣喜雀躍！						
+Date_MCHARA_A_00_01ID	7	Resna	レスナ	でもですね、いささか自信が……\n失敗したら、ご迷惑をおかけしてしまい\nそうで……						
+Date_MCHARA_A_00_01ID	8	Ryza	ライザ	そっかぁ。……じゃあ、\nあたしが受けちゃおうかな						
+Date_MCHARA_A_00_01ID	9	Resna	レスナ	おぉ！！\nさすがライザ先輩、なんて頼もしい！						
+Date_MCHARA_A_00_01ID	10	Resna	レスナ	その腕前を間近で拝見したく、\n恐怖心が吹き飛んでしまいました！						
+Date_MCHARA_A_00_01ID	11	Resna	レスナ	若輩者で恐縮ですが、\nこのレスナ・シュテルネンリヒト！\nお供させてください！						
+Date_MCHARA_A_00_01ID	12		選択肢	用心棒に任命						
+Date_MCHARA_A_00_01ID	13	Ryza	ライザ	うむ！　では用心棒に任命しよう！						
+Date_MCHARA_A_00_01ID	14	Resna	レスナ	恐悦至極！						
+Date_MCHARA_A_00_01ID	15	Resna	レスナ	すぐに爆弾や薬を大量に用意しますね！						
+Date_MCHARA_A_00_01ID	16		選択肢	荷物持ちに任命						
+Date_MCHARA_A_00_01ID	17	Ryza	ライザ	いい心がけだ！ 荷物持ちを頼む！						
+Date_MCHARA_A_00_01ID	18	Resna	レスナ	お任せください！						
+Date_MCHARA_A_00_01ID	19	Resna	レスナ	あらん限りの！　かごや容器をば！！\nかき集めてまいります！！！　やー！！！！						
+Date_MCHARA_A_00_01ID	20		選択肢	お弁当係に任命						
+Date_MCHARA_A_00_01ID	21	Ryza	ライザ	ならば、お弁当係に任命する！\nレスナの手料理、楽しみだな～						
+Date_MCHARA_A_00_01ID	22	Resna	レスナ	料理なら、少しは覚えがあります！\n腕によりをかけて、ご用意しますね						
+Date_MCHARA_A_00_01ID	23	Resna	レスナ	一部の材料は、現地調達してもいいですね。\n調味料はどうしようかな……						
+Date_MCHARA_A_00_01ID	24	Ryza	ライザ	いやいや、冗談だって！\nちゃんと頼りにしてるからね						
+Date_MCHARA_A_00_01ID	25	Resna	レスナ	えへへ。勇み足でしたね						
+Date_MCHARA_A_00_01ID	26	Resna	レスナ	難所の不安はありますが、ライザ先輩との\n旅程を思うだけで胸が高鳴ります						
+Date_MCHARA_A_00_01ID	27	Resna	レスナ	ですが、ほんの少し心配なんです。\nちゃんとお供できるかどうか						
+Date_MCHARA_A_00_01ID	28	Ryza	ライザ	え、どうして？						
+Date_MCHARA_A_00_01ID	29	Resna	レスナ	私、まだまだ未熟者ですから……\nライザ先輩のお役に立てるでしょうか						
+Date_MCHARA_A_00_01ID	30		選択肢	力を合わせれば問題ない！						
+Date_MCHARA_A_00_01ID	31	Ryza	ライザ	力を合わせれば問題ないよ！						
+Date_MCHARA_A_00_01ID	32	Ryza	ライザ	レスナの不安はわかるけど、\n強ければ一人でも万全ってわけじゃないし						
+Date_MCHARA_A_00_01ID	33	Ryza	ライザ	だから、一緒に頑張ろ！						
+Date_MCHARA_A_00_01ID	34	Resna	レスナ	はい！　不肖の後輩ではありますが、\n精一杯ついてゆきます！						
+Date_MCHARA_A_00_01ID	35	Resna	レスナ	とはいえ、９割方は先輩のお力に\nなりそうな気はしますが……						
+Date_MCHARA_A_00_01ID	36	Ryza	ライザ	まさか～！　頼りにしてるよ！						
+Date_MCHARA_A_00_01ID	37		選択肢	自分で考えてるよりも、実力があるよ！						
+Date_MCHARA_A_00_01ID	38	Ryza	ライザ	なーに言ってるの！\n自分で考えてるよりも、実力があるよ！						
+Date_MCHARA_A_00_01ID	39	Resna	レスナ	ええっ！？　私がですか？						
+Date_MCHARA_A_00_01ID	40	Resna	レスナ	まだ成功しない調合も、\n噛み砕けない理論もたくさんあるのに……						
+Date_MCHARA_A_00_01ID	41	Ryza	ライザ	みんなそうだって！						
+Date_MCHARA_A_00_01ID	42	Ryza	ライザ	出会ったときからレスナはぐんぐん\n成長してるよ						
+Date_MCHARA_A_00_01ID	43	Resna	レスナ	ライザ先輩……\nまだまだ先輩には遠く及びませんが……						
+Date_MCHARA_A_00_01ID	44	Resna	レスナ	ご期待に沿えるよう、\n粉骨砕身の覚悟で挑みます！						
+Date_MCHARA_A_00_01ID	45	Ryza	ライザ	その意気、その意気～！						
+Date_MCHARA_A_00_01ID	46		選択肢	この世界の知識が必要						
+Date_MCHARA_A_00_01ID	47	Ryza	ライザ	もちろん！　レスナの持ってる、\nこの世界の知識が必要なんだから						
+Date_MCHARA_A_00_01ID	48	Ryza	ライザ	そりゃあたしはレスナより\n長く錬金術に触れてるけど						
+Date_MCHARA_A_00_01ID	49	Ryza	ライザ	この世界のことは\n知らないことが多いもん						
+Date_MCHARA_A_00_01ID	50	Ryza	ライザ	だから、助けてくれないかな？						
+Date_MCHARA_A_00_01ID	51	Resna	レスナ	私が、ライザ先輩を……！？						
+Date_MCHARA_A_00_01ID	52	Resna	レスナ	ですが、仰るとおりかもしれません						
+Date_MCHARA_A_00_01ID	53	Resna	レスナ	私のほうがすこーしだけ長く\nこの世界に住んでますもんね……						
+Date_MCHARA_A_00_01ID	54	Ryza	ライザ	いや、少しどころじゃないけどね？						
+Date_MCHARA_A_00_01ID	55	Resna	レスナ	しかし！　それに甘んじることなく、\n念入りに下調べしておきます！						
+Date_MCHARA_A_00_01ID	56	Ryza	ライザ	おっ、やる気になってきたね～						
+Date_MCHARA_A_00_01ID	57	Resna	レスナ	……ふふ。本当に楽しみです						
+Date_MCHARA_A_00_01ID	58	Resna	レスナ	ライザ先輩には、私よりずっと\n多くのものが見えているんでしょうね						
+Date_MCHARA_A_00_01ID	59	Resna	レスナ	同じ素材でも、土地によって\n形や生育度が異なりますし……\nあっ、魔物も違いますよね						
+Date_MCHARA_A_00_01ID	60	Resna	レスナ	一緒に、研究できたら嬉しいです！						
+Date_MCHARA_A_00_01ID	61	Ryza	ライザ	そうだね、レスナ。だけど……						
+Date_MCHARA_A_00_01ID	62		選択肢	早く寝るんだよ						
+Date_MCHARA_A_00_01ID	63	Ryza	ライザ	早く寝るんだよ						
+Date_MCHARA_A_00_01ID	64	Resna	レスナ	えっ！　ど、どうしてご存じなんですか？						
+Date_MCHARA_A_00_01ID	65	Resna	レスナ	次の日が楽しみすぎると、\nなかなか寝付けないって！						
+Date_MCHARA_A_00_01ID	66	Ryza	ライザ	あはは。なんとなーく、ね						
+Date_MCHARA_A_00_01ID	67		選択肢	しっかり食べておいでね						
+Date_MCHARA_A_00_01ID	68	Ryza	ライザ	しっかり食べておいでね。\n魔物も出るし、体力には気をつけよう						
+Date_MCHARA_A_00_01ID	69	Resna	レスナ	それはもう！\n起き抜けに、１日分食べてきます！						
+Date_MCHARA_A_00_01ID	70	Ryza	ライザ	そ、それは食べすぎなんじゃ……						
+Date_MCHARA_A_00_01ID	71	Resna	レスナ	もちろん、おやつも持っていきます！						
+Date_MCHARA_A_00_01ID	72	Ryza	ライザ	あっ。それはよろしく！						
+Date_MCHARA_A_00_01ID	73		選択肢	依頼内容を確認しておいてね						
+Date_MCHARA_A_00_01ID	74	Ryza	ライザ	依頼の内容はちゃんと確認しておくこと！						
+Date_MCHARA_A_00_01ID	75	Resna	レスナ	そ、そうでした！						
+Date_MCHARA_A_00_01ID	76	Resna	レスナ	自分のことで舞い上がってましたが、\n依頼あってのお供ですもんね						
+Date_MCHARA_A_00_01ID	77	Resna	レスナ	苦難の渦中にいる方のため、\nしっかり頑張ります！						
+Date_MCHARA_A_00_01ID	78	Ryza	ライザ	うん。二人で喜んでもらおう！						
+Date_MCHARA_A_00_01ID	79	Resna	レスナ	では、しばしお暇をちょうだいいたします。\n当日までに、準備しておきますね！						
+Date_MCHARA_A_00_01ID	80	Ryza	ライザ	うーん！　張り切ってるね～						
+Date_MCHARA_A_00_01ID	81	Ryza	ライザ	（だけどあたしも、レスナとの旅に\n　やっぱりドキドキしてる。\n　それに……久しぶりの冒険だ）						
+Date_MCHARA_A_00_01ID	82	Ryza	ライザ	よーし！　楽しむぞ～！						
+Date_MCHARA_A_00_02ID	0	Ryza	ライザ	うーん。絶好の採取日和！\n明日のレスナとの依頼に向けて、\nお目当てが見つかりますように！						
+Date_MCHARA_A_00_02ID	1	Resna	レスナ	ライザ先輩！　見てください！						
+Date_MCHARA_A_00_02ID	2	Resna	レスナ	この花なんですが、アーシャ先輩が\n探してませんでしたか！？						
+Date_MCHARA_A_00_02ID	3	Ryza	ライザ	あー。ちょーっと違うかも。\nアーシャは甘い匂いのする花だって\n言ってたけど、この花は匂いがしないし						
+Date_MCHARA_A_00_02ID	4	Resna	レスナ	た、確かに！\n本を読むだけでは想像もできないことが\n実際の採取では起こるんですね……						
+Date_MCHARA_A_00_02ID	5	Resna	レスナ	ああ……せっかく先輩がたの\nお役に立てると思ったのに						
+Date_MCHARA_A_00_02ID	6	Ryza	ライザ	まあまあ、よく似てたし。次、次！						
+Date_MCHARA_A_00_02ID	7	Resna	レスナ	うう……私も早く、一人前の\n錬金術士になりたいです。\n近道って、あるんでしょうか？						
+Date_MCHARA_A_00_02ID	8		選択肢	経験を積みまくる						
+Date_MCHARA_A_00_02ID	9	Ryza	ライザ	とにもかくにも経験を積むことだね。\nどんなことにも意味があると思って、\nなんでも挑戦してみる……かな						
+Date_MCHARA_A_00_02ID	10	Resna	レスナ	挑戦……今回の依頼もそうですね。\n力不足なんて思わず、挑戦しなくちゃ						
+Date_MCHARA_A_00_02ID	11	Resna	レスナ	……ちょっと怖いですけど						
+Date_MCHARA_A_00_02ID	12		選択肢	助けたい人を思い浮かべる						
+Date_MCHARA_A_00_02ID	13	Ryza	ライザ	助けたい人を思い浮かべるというのはどう？\nこの人のために頑張るんだ、って思うと、\n力が湧いてこない？						
+Date_MCHARA_A_00_02ID	14	Resna	レスナ	わかります！　絶対にやり遂げるぞって						
+Date_MCHARA_A_00_02ID	15	Resna	レスナ	そう考えると、依頼を受けることは\n上達への近道なのかもしれません						
+Date_MCHARA_A_00_02ID	16	Resna	レスナ	必要とされてこそ一人前、ですもんね！						
+Date_MCHARA_A_00_02ID	17		選択肢	近道なんかない						
+Date_MCHARA_A_00_02ID	18	Ryza	ライザ	近道なんかなーい！\nなんでもそうだけど、\n結局は地道にやるしかないよ						
+Date_MCHARA_A_00_02ID	19	Ryza	ライザ	だけど積み上げてきたものは\n後になって必ず役に立つ						
+Date_MCHARA_A_00_02ID	20	Resna	レスナ	基本あってこその応用ですもんね						
+Date_MCHARA_A_00_02ID	21	Resna	レスナ	それに、地道にやるのは得意ですから、\nかえって希望が見えてきました！						
+Date_MCHARA_A_00_02ID	22	Ryza	ライザ	だけど、重要なのはレスナ自身だからね。\n大事なのは、人と比べないこと						
+Date_MCHARA_A_00_02ID	23	Resna	レスナ	はい、ライザ先輩！						
+Date_MCHARA_A_00_02ID	24	Ryza	ライザ	でね、落ち込むことも\nあるだろうけど……あっ						
+Date_MCHARA_A_00_02ID	25	Ryza	ライザ	（これ、欲しかった薬草だ～！\n　根っこまで綺麗に採って……）						
+Date_MCHARA_A_00_02ID	26	Ryza	ライザ	そういうときは、喜んでくれた人の\n顔を思い出すとー……ん？						
+Date_MCHARA_A_00_02ID	27	Ryza	ライザ	（この石、ロロナが探してたやつだ。\n　割れやすいし、別にしとこ）						
+Date_MCHARA_A_00_02ID	28	Ryza	ライザ	あ～、ちゃんとやれてたな～って\n実感が……						
+Date_MCHARA_A_00_02ID	29	Resna	レスナ	お話し中、失礼します！						
+Date_MCHARA_A_00_02ID	30	Ryza	ライザ	な、なに！？						
+Date_MCHARA_A_00_02ID	31	Resna	レスナ	今の手さばき、もう一度\nお願いできますか！？						
+Date_MCHARA_A_00_02ID	32	Ryza	ライザ	手さばきって？						
+Date_MCHARA_A_00_02ID	33	Resna	レスナ	ご助言の最中に、葉と根を\n一瞬で仕分けてましたよね！？						
+Date_MCHARA_A_00_02ID	34	Resna	レスナ	それに、見逃してませんよ！\n土に紛れていた鉱石を\n別の容器に分けていました！						
+Date_MCHARA_A_00_02ID	35	Resna	レスナ	どうして……いえ、この短時間に\nどのようなご判断を！？						
+Date_MCHARA_A_00_02ID	36	Ryza	ライザ	作業としては普通なんだけど……						
+Date_MCHARA_A_00_02ID	37	Resna	レスナ	ですが、驚異的な速度です！						
+Date_MCHARA_A_00_02ID	38	Resna	レスナ	どうすればライザ先輩のように、\nてきぱき作業できるんでしょう！？						
+Date_MCHARA_A_00_02ID	39		選択肢	起こりうることを想定しておく						
+Date_MCHARA_A_00_02ID	40	Ryza	ライザ	起こりうることを想定しておくのが\n大事かなあ						
+Date_MCHARA_A_00_02ID	41	Resna	レスナ	予習ということですか？\nでも、それなら私も……						
+Date_MCHARA_A_00_02ID	42	Ryza	ライザ	ちょ～っと違うかな。\n似た薬草があるとか、保存に適した容器を\n知っていれば、迷う時間が減るよね						
+Date_MCHARA_A_00_02ID	43	Resna	レスナ	確かに！　魔物避けを用意して、\n無用な戦いを避ける……とかもですかね？						
+Date_MCHARA_A_00_02ID	44	Ryza	ライザ	そうそう！　飲み込みが早いね！						
+Date_MCHARA_A_00_02ID	45	Resna	レスナ	勉強になりました！\n次回からは心がけます！						
+Date_MCHARA_A_00_02ID	46		選択肢	誰かと競い合う						
+Date_MCHARA_A_00_02ID	47	Ryza	ライザ	誰かと競い合うことを考えれば、\n早くなれるよ						
+Date_MCHARA_A_00_02ID	48	Resna	レスナ	もしかして……私とですか！？						
+Date_MCHARA_A_00_02ID	49	Ryza	ライザ	あはは！　違う違う。\nあたしの場合は、幼馴染かな						
+Date_MCHARA_A_00_02ID	50	Ryza	ライザ	目指す方向は違ったけど、\n負けてられないっていうか						
+Date_MCHARA_A_00_02ID	51	Ryza	ライザ	もっと成長した姿を\n見せてやるぞって思えたんだよね						
+Date_MCHARA_A_00_02ID	52	Resna	レスナ	ふふ。私にとってのイザナちゃんですね						
+Date_MCHARA_A_00_02ID	53	Resna	レスナ	イザナちゃんは騎士、\n私は錬金術士ですが……						
+Date_MCHARA_A_00_02ID	54	Resna	レスナ	夢を叶えると誓った思いは一緒ですから！						
+Date_MCHARA_A_00_02ID	55		選択肢	期日間近にやる						
+Date_MCHARA_A_00_02ID	56	Ryza	ライザ	期日間近にやることかな！\n間に合わないかも、という想いが\n速度を上げてくれるよ						
+Date_MCHARA_A_00_02ID	57	Resna	レスナ	そんな！　ライザ先輩が！？						
+Date_MCHARA_A_00_02ID	58	Ryza	ライザ	あはは！　冗談だって！\n家の手伝いをサボってたあたしも、\nさすがに依頼はちゃんとするよ～						
+Date_MCHARA_A_00_02ID	59	Resna	レスナ	ライザ先輩、お家のお手伝いを\nサボってたんですか！？\nな、何か深いお考えなどが、あったり……？						
+Date_MCHARA_A_00_02ID	60	Resna	レスナ	でも、期日間近にやるという心理は\n分からなくもないです……\n焦りすぎると、集中できますから						
+Date_MCHARA_A_00_02ID	61	Ryza	ライザ	まあ、レスナがレスナのままでいれば、\nそのうちできるようになるよ						
+Date_MCHARA_A_00_02ID	62	Resna	レスナ	そうでしょうか……頑張ります！						
+Date_MCHARA_A_00_02ID	63	Resna	レスナ	……すみません。\nまた質問攻めにしてしまいました						
+Date_MCHARA_A_00_02ID	64	Resna	レスナ	やっぱり、ご迷惑でしたか……？						
+Date_MCHARA_A_00_02ID	65		選択肢	意欲は抑えなくたっていい						
+Date_MCHARA_A_00_02ID	66	Ryza	ライザ	大丈夫、意欲は抑えなくたっていいんだよ。\nだって、分かるもん。\n気持ちが走り出して、止まらないこと						
+Date_MCHARA_A_00_02ID	67	Ryza	ライザ	だから、レスナの探究心を、\n大事に育ててあげて。\nそれが、未来の自分を作るんだから						
+Date_MCHARA_A_00_02ID	68	Resna	レスナ	はい……ライザ先輩！\nライザ先輩にそう言っていただけると、\nとても心強いです！						
+Date_MCHARA_A_00_02ID	69	Resna	レスナ	私の探究心、大事にのびのびと\n育てさせていただきます！　やーっ！						
+Date_MCHARA_A_00_02ID	70	Ryza	ライザ	うん。その調子！						
+Date_MCHARA_A_00_02ID	71		選択肢	緩急が大事						
+Date_MCHARA_A_00_02ID	72	Ryza	ライザ	緩急が大事だよ。\nもちろん調合は、静かに丁寧に						
+Date_MCHARA_A_00_02ID	73	Ryza	ライザ	だけど、それ以外は元気で\nいいんじゃないかな						
+Date_MCHARA_A_00_02ID	74	Ryza	ライザ	みんなもレスナに触発されて、\n研究を進めたりしてるんだよ						
+Date_MCHARA_A_00_02ID	75	Resna	レスナ	緩急があることによって、\nお互いに刺激し合える良い関係を築ける、\nそういうことでしょうか！？						
+Date_MCHARA_A_00_02ID	76	Resna	レスナ	先輩がたのお役に立てているなんて……\n私、感無量です！						
+Date_MCHARA_A_00_02ID	77		選択肢	どーんとぶつかってこい！						
+Date_MCHARA_A_00_02ID	78	Ryza	ライザ	どーんとぶつかってきなよ！\n大事な後輩だもん、受け止めるよ！						
+Date_MCHARA_A_00_02ID	79	Ryza	ライザ	好きなだけ語り倒しちゃって！						
+Date_MCHARA_A_00_02ID	80	Resna	レスナ	はいっ！　ライザ先輩！\nでは、お言葉に甘えて……						
+Date_MCHARA_A_00_02ID	81	Resna	レスナ	やーーー！！！						
+Date_MCHARA_A_00_02ID	82	Ryza	ライザ	ぐえええ！　物理じゃないよ！？						
+Date_MCHARA_A_00_02ID	83	Resna	レスナ	す、すみません！\n早とちりしてしまいました！						
+Date_MCHARA_A_00_02ID	84	Ryza	ライザ	あはは、まったくもう						
+Date_MCHARA_A_00_02ID	85	Ryza	ライザ	それにね。あたしも師匠に出会って\n錬金術の存在を知ったとき、\n家まで突撃しちゃったんだよね						
+Date_MCHARA_A_00_02ID	86	Resna	レスナ	ご、ご自宅に！？						
+Date_MCHARA_A_00_02ID	87	Ryza	ライザ	だから分かるよ、レスナの気持ち。\nなんだか懐かしいなぁ						
+Date_MCHARA_A_00_02ID	88	Ryza	ライザ	だからレスナは、そのままでいいの。\n想いのままに、突き進んでよ						
+Date_MCHARA_A_00_02ID	89	Resna	レスナ	そのままで……いいんですか？						
+Date_MCHARA_A_00_02ID	90	Ryza	ライザ	うん。熱い気持ちで盛り上げたら、\n錬金術士が増えるかもしれないし！						
+Date_MCHARA_A_00_02ID	91	Resna	レスナ	なんて素敵な夢なんでしょう……\n分かりました。一翼を担ってみせます！\nそしていつか……						
+Date_MCHARA_A_00_02ID	92	Resna	レスナ	私も、誰かの先輩に。\nそんな日が、来るのかな……						
+Date_MCHARA_A_00_02ID	93	Ryza	ライザ	（うん。きっと来るよ。\n　レスナは後輩の気持ちに寄り添える、\n　そんな先輩になる気がするな）						
+Date_MCHARA_A_00_03ID	0	Ryza	ライザ	（楽しみにしていたレスナとの依頼当日。\n　釣り糸を垂らし始めて、早３時間……）						
+Date_MCHARA_A_00_03ID	1	Resna	レスナ	あああ……また逃げられちゃった……						
+Date_MCHARA_A_00_03ID	2	Ryza	ライザ	なら、こっちの練り餌でやってみて。\n今日のために作ってきたんだよ						
+Date_MCHARA_A_00_03ID	3	Resna	レスナ	はい！　お借りします！						
+Date_MCHARA_A_00_03ID	4	Resna	レスナ	出発してから、強い魔物にも遭遇しましたが						
+Date_MCHARA_A_00_03ID	5	Resna	レスナ	もしかしたら、ここが一番の\n難所かもしれませんね						
+Date_MCHARA_A_00_03ID	6	Resna	レスナ	湖底に棲む、白銀の魚……その鱗なんて						
+Date_MCHARA_A_00_03ID	7	Ryza	ライザ	まあ、のんびりやろうよ。\n釣りってそういうものだからね						
+Date_MCHARA_A_00_03ID	8	Resna	レスナ	はい！　私、湖で何かあった時のために\n色々と対応事項を調べてきました！						
+Date_MCHARA_A_00_03ID	9	Resna	レスナ	来ました！						
+Date_MCHARA_A_00_03ID	10	Ryza	ライザ	よし、いっくよーーーーっ！！						
+Date_MCHARA_A_00_03ID	11	Resna	レスナ	やりましたね！　さすがライザ先輩です！						
+Date_MCHARA_A_00_03ID	12	Ryza	ライザ	いや～、自分の才能が怖いよ～。\nだけど……						
+Date_MCHARA_A_00_03ID	13	Ryza	ライザ	これじゃ……ないんだよねー						
+Date_MCHARA_A_00_03ID	14	Resna	レスナ	ですが、とっても人気があるんですよ						
+Date_MCHARA_A_00_03ID	15	Ryza	ライザ	そうなの？						
+Date_MCHARA_A_00_03ID	16	Resna	レスナ	はい！　少し赤みがかった身が\nぷりぷりとして美味しいんです！						
+Date_MCHARA_A_00_03ID	17	Ryza	ライザ	ぷりぷり……じゅるっ						
+Date_MCHARA_A_00_03ID	18	Resna	レスナ	綺麗な湖に生息するため、\nくせも臭みもなく、上品なお味です						
+Date_MCHARA_A_00_03ID	19	Resna	レスナ	塩焼きや干し魚にするのはもちろん、\n味付け次第で可能性は無限大！						
+Date_MCHARA_A_00_03ID	20	Ryza	ライザ	ううっ……お腹空いてきた～！						
+Date_MCHARA_A_00_03ID	21	Ryza	ライザ	お弁当食べたばっかりだけど……\nレスナ、料理してもらえない？						
+Date_MCHARA_A_00_03ID	22	Resna	レスナ	喜んで！　と言いたいところですが……						
+Date_MCHARA_A_00_03ID	23	Resna	レスナ	一番美味しくいただけるのが、\n「揚げ」なんです						
+Date_MCHARA_A_00_03ID	24	Resna	レスナ	香辛料と一緒に低温からじっくり\n揚げていくと、身も骨もほろほろに……						
+Date_MCHARA_A_00_03ID	25	Ryza	ライザ	うわーっ！　やります！\n持って帰って作ります！						
+Date_MCHARA_A_00_03ID	26	Resna	レスナ	はい、ぜひ！						
+Date_MCHARA_A_00_03ID	27	Ryza	ライザ	それにしても、レスナはすごいな。\nこっちの分野はあたしより先輩だね						
+Date_MCHARA_A_00_03ID	28	Resna	レスナ	わわわ私が！　ライザ先輩の先輩っ！？						
+Date_MCHARA_A_00_03ID	29	Resna	レスナ	そんな、とんでもない！\nイクセルさんには遠く及びませんし……						
+Date_MCHARA_A_00_03ID	30	Ryza	ライザ	関係ないよ。レスナのいいところは、\nレスナだけのものでしょ						
+Date_MCHARA_A_00_03ID	31	Ryza	ライザ	気負わずに、胸を張ってね						
+Date_MCHARA_A_00_03ID	32	Resna	レスナ	恐縮です……！						
+Date_MCHARA_A_00_03ID	33	Resna	レスナ	私にも、先輩に教えて差し上げることが\nあったなんて……						
+Date_MCHARA_A_00_03ID	34	Ryza	ライザ	（ねぇレスナ。先輩と後輩っていうのは、先輩が後輩に\n　指導するだけの関係じゃなくてもいいと思うんだ）						
+Date_MCHARA_A_00_03ID	35	Resna	レスナ	もうメモでびっしりとノートを\n埋めております！						
+Date_MCHARA_A_00_03ID	36	Resna	レスナ	ですから、ご安心ください！　釣りをしている間、\nライザ先輩のことは私が守ってみせます！						
+Date_MCHARA_A_00_04ID	0	Ryza	ライザ	よし！　これで、依頼分は集まったかな。\nありがとう、レスナのおかげだよ						
+Date_MCHARA_A_00_04ID	1	Ryza	ライザ	……レスナ？　大丈夫？						
+Date_MCHARA_A_00_04ID	2	Resna	レスナ	す、すみません！　ちょっと考えごとを……						
+Date_MCHARA_A_00_04ID	3	Ryza	ライザ	気になることあった？						
+Date_MCHARA_A_00_04ID	4	Resna	レスナ	その、ライザ先輩に「先輩」と\n呼んでいただいたことなんですが……						
+Date_MCHARA_A_00_04ID	5	Ryza	ライザ	（あたしの知らない調理法について\n　詳しく教えてくれたからね）						
+Date_MCHARA_A_00_04ID	6	Resna	レスナ	やっぱり身に余るお言葉だと思うんです						
+Date_MCHARA_A_00_04ID	7	Ryza	ライザ	へ？						
+Date_MCHARA_A_00_04ID	8	Resna	レスナ	私はまだまだ若輩者……						
+Date_MCHARA_A_00_04ID	9	Resna	レスナ	せめて、一人前の自信がつくまでは\n保留にしていただけませんか！？						
+Date_MCHARA_A_00_04ID	10		選択肢	気にしなくていいのに						
+Date_MCHARA_A_00_04ID	11	Ryza	ライザ	気にしなくていいのに。\n自信なんて、どれだけやっても\nつかないものだよ						
+Date_MCHARA_A_00_04ID	12	Resna	レスナ	ライザ先輩でも、そうなんですか？						
+Date_MCHARA_A_00_04ID	13	Ryza	ライザ	うん、いまだに緊張することだってあるし						
+Date_MCHARA_A_00_04ID	14	Resna	レスナ	うーん、先は長いんですね……						
+Date_MCHARA_A_00_04ID	15		選択肢	そうしよっか						
+Date_MCHARA_A_00_04ID	16	Ryza	ライザ	そうしよっか。\nそこまで気になるなら、やめとこう						
+Date_MCHARA_A_00_04ID	17	Resna	レスナ	このままじゃ、先輩がたをお呼びするたびに\n罪悪感が疼いて仕方ありません！						
+Date_MCHARA_A_00_04ID	18	Ryza	ライザ	うーん、重症だな……						
+Date_MCHARA_A_00_04ID	19		選択肢	レスナらしいね						
+Date_MCHARA_A_00_04ID	20	Ryza	ライザ	なんだかレスナらしいね						
+Date_MCHARA_A_00_04ID	21	Resna	レスナ	そ、そうですか？						
+Date_MCHARA_A_00_04ID	22	Ryza	ライザ	錬金術には貪欲だけど\n謙虚な気持ちは忘れないところ、\nあたしは美点だと思うな～						
+Date_MCHARA_A_00_04ID	23	Resna	レスナ	あ、ありがとうございます……						
+Date_MCHARA_A_00_04ID	24	Ryza	ライザ	だけどさ、レスナもアトリエを\n引き継いだんだから、もう一人前でしょ。\nどーんと構えようよ！						
+Date_MCHARA_A_00_04ID	25	Resna	レスナ	はい！						
+Date_MCHARA_A_00_04ID	26	Ryza	ライザ	そうだなぁ……これは\n師匠に出会った頃の話なんだけど						
+Date_MCHARA_A_00_04ID	27	Ryza	ライザ	感激したあたしが「先生」って呼んだら\nすげなく流されたことがあったんだよね						
+Date_MCHARA_A_00_04ID	28	Resna	レスナ	ふふっ。でも、本気だったんですよね？						
+Date_MCHARA_A_00_04ID	29	Ryza	ライザ	そうだよ。レスナに「先輩だね」って\n言ったのと同じくらいね						
+Date_MCHARA_A_00_04ID	30	Ryza	ライザ	教えてもらえて、嬉しかった。\n得意なことは、自信持ってよ						
+Date_MCHARA_A_00_04ID	31	Resna	レスナ	ですが、大したことじゃありませんよ？						
+Date_MCHARA_A_00_04ID	32	Ryza	ライザ	なんてことないと思うことにこそ、\n発見があるんだよ						
+Date_MCHARA_A_00_04ID	33	Ryza	ライザ	たとえば、自分にとっては普通のことが、\n人には羨ましく見える長所だったりね						
+Date_MCHARA_A_00_04ID	34	Resna	レスナ	じゃあ私も、ライザ先輩のように……						
+Date_MCHARA_A_00_04ID	35	Resna	レスナ	いいえ、自分だけが目指せる\n錬金術士の姿があるんでしょうか？						
+Date_MCHARA_A_00_04ID	36		選択肢	今のままでいい						
+Date_MCHARA_A_00_04ID	37	Ryza	ライザ	今のままでいいんじゃないかな						
+Date_MCHARA_A_00_04ID	38	Resna	レスナ	今のまま……ですか？						
+Date_MCHARA_A_00_04ID	39	Ryza	ライザ	言ったでしょ？\nレスナにはレスナの美点があるって						
+Date_MCHARA_A_00_04ID	40	Ryza	ライザ	それは、想いのままに突き進めること						
+Date_MCHARA_A_00_04ID	41	Resna	レスナ	あっ……！\n錬金術への想いこそが、\n私を成長させてくれる……！						
+Date_MCHARA_A_00_04ID	42	Ryza	ライザ	そういうこと！\nだからこのまま突っ走って、\n立派な錬金術士になるんだよ！						
+Date_MCHARA_A_00_04ID	43	Resna	レスナ	はいっ！						
+Date_MCHARA_A_00_04ID	44		選択肢	努力を続ければ叶う						
+Date_MCHARA_A_00_04ID	45	Ryza	ライザ	不安なときは、努力を続けるしかないよ。\nそうすれば、実力もついてくるしさ						
+Date_MCHARA_A_00_04ID	46	Resna	レスナ	そうですね。\nただ、がむしゃらに努力するより、\n目標を絞ったほうがいいのかなって……						
+Date_MCHARA_A_00_04ID	47	Resna	レスナ	努力……私は何をするべきでしょうか？\nど、努力って……努力っていったい！？\nう～～ん……						
+Date_MCHARA_A_00_04ID	48		選択肢	お手本はたくさんある						
+Date_MCHARA_A_00_04ID	49	Ryza	ライザ	迷う気持ちは分かるけど、\n今のアトリエは参考になる人が多いよね。\nそう考えると、お手本はたくさんあるよ						
+Date_MCHARA_A_00_04ID	50	Ryza	ライザ	錬金術士が集まってるんだから！						
+Date_MCHARA_A_00_04ID	51	Resna	レスナ	たしかに心強いですね！　ただ……						
+Date_MCHARA_A_00_04ID	52	Resna	レスナ	できることなら私も、他の人にはない\n何かに長けた錬金術士になりたいんです						
+Date_MCHARA_A_00_04ID	53	Ryza	ライザ	レスナは、心配してる以上に\n未来に向けて進んでるよ						
+Date_MCHARA_A_00_04ID	54	Ryza	ライザ	今は少しずつでも、\nいつかぎゅーんって加速するから！						
+Date_MCHARA_A_00_04ID	55	Resna	レスナ	ありがとうございます、ライザ先輩。\n私、少しは胸を張れそうです！						
+Date_MCHARA_A_00_04ID	56	Ryza	ライザ	うん！　それじゃ、帰る支度しよっか。\n王都に戻ったら、釣った魚を調理しよーっと						
+Date_MCHARA_A_00_04ID	57	Resna	レスナ	あ！　どんな風に調理されるんでしょう！？						
+Date_MCHARA_A_00_04ID	58	Ryza	ライザ	（せっかくだから、さっきレスナが\n　勧めてくれた調理法で……）						
+Date_MCHARA_A_00_04ID	59		選択肢	刺身にする！						
+Date_MCHARA_A_00_04ID	60	Resna	レスナ	えっ。刺身……ですか？						
+Date_MCHARA_A_00_04ID	61	Ryza	ライザ	うん。身がぷりぷりって聞いたし、\nまだ釣りたてで新鮮だからね！						
+Date_MCHARA_A_00_04ID	62	Ryza	ライザ	え？　ダメだった？						
+Date_MCHARA_A_00_04ID	63	Resna	レスナ	あの魚は、その……\n寄生虫のいる可能性があるので……						
+Date_MCHARA_A_00_04ID	64	Ryza	ライザ	うわっ！　本当に？\nあ、危なかった……						
+Date_MCHARA_A_00_04ID	65	Resna	レスナ	食べる際はぜひ、加熱をお願いします！\nでも新鮮な魚だからこそ刺身に、というのは\nさすがライザ先輩、という感じです！						
+Date_MCHARA_A_00_04ID	66		選択肢	揚げる！						
+Date_MCHARA_A_00_04ID	67	Resna	レスナ	おすすめした通りにですか！？						
+Date_MCHARA_A_00_04ID	68	Ryza	ライザ	それはもちろん！\nあれを聞いたら、もう揚げ以外\n考えられないよー！						
+Date_MCHARA_A_00_04ID	69	Resna	レスナ	えへへ、嬉しいです！\n絶対美味しいと\n自信を持っておすすめします！						
+Date_MCHARA_A_00_04ID	70	Resna	レスナ	でも実は、もっと美味しくできて……。\n可能性を極限まで突き詰めた、\n私特製香辛料と一緒なら……！						
+Date_MCHARA_A_00_04ID	71	Ryza	ライザ	わーっ！　何それ！　教えてよ～！						
+Date_MCHARA_A_00_04ID	72		選択肢	蒸す！						
+Date_MCHARA_A_00_04ID	73	Resna	レスナ	蒸す……んですか？						
+Date_MCHARA_A_00_04ID	74	Ryza	ライザ	あれ、違った？						
+Date_MCHARA_A_00_04ID	75	Resna	レスナ	あ、いえ！　違うとかではないんですが、\nあまり蒸して食べられる魚ではないので						
+Date_MCHARA_A_00_04ID	76	Resna	レスナ	蒸すとなると、\n味が抜けてしまいそうな気もしますが……						
+Date_MCHARA_A_00_04ID	77	Resna	レスナ	新しい食べ方に挑むなんて、\nさすがライザ先輩です！\nやっぱり私、教わるほうが好きみたいです						
+Date_MCHARA_A_00_04ID	78	Ryza	ライザ	この世界の料理は、\n誰もレスナには敵わないね						
+Date_MCHARA_A_00_04ID	79	Resna	レスナ	いえいえ、そんな！						
+Date_MCHARA_A_00_04ID	80	Resna	レスナ	私が教えられることなんて、ほんの少しで！						
+Date_MCHARA_A_00_04ID	81	Ryza	ライザ	……あのね、レスナ						
+Date_MCHARA_A_00_04ID	82	Ryza	ライザ	あたしの師匠は、なんでもかんでも\n教えてくれる人じゃないんだ						
+Date_MCHARA_A_00_04ID	83	Ryza	ライザ	だけど、半人前だったあたしと\n対等に接してくれた						
+Date_MCHARA_A_00_04ID	84	Ryza	ライザ	大きな問題のときは意見を出し合って、\n挑戦して、切磋琢磨してきたんだよ						
+Date_MCHARA_A_00_04ID	85	Resna	レスナ	素敵です。そんな師弟関係もあるんですね						
+Date_MCHARA_A_00_04ID	86	Ryza	ライザ	うん。だからね……\nいつかレスナともそうなりたい						
+Date_MCHARA_A_00_04ID	87	Resna	レスナ	そんな。私なんて、まだ全然……でも……						
+Date_MCHARA_A_00_04ID	88	Resna	レスナ	光栄です。ライザ先輩！						
+Date_MCHARA_A_00_04ID	89	Ryza	ライザ	えへへ。よかった～						
+Date_MCHARA_A_00_04ID	90	Ryza	ライザ	そうだ。その「先輩」っていうの\nちょっとやめてみない？						
+Date_MCHARA_A_00_04ID	91	Resna	レスナ	ええっ！？　そ、それはさすがに……						
+Date_MCHARA_A_00_04ID	92	Ryza	ライザ	ほら、練習！　「ライザ」って！						
+Date_MCHARA_A_00_04ID	93	Resna	レスナ	ライザ……さん！						
+Date_MCHARA_A_00_04ID	94	Ryza	ライザ	「さん」って……まあいっか。あはは！						
+Date_MCHARA_A_00_04ID	95	Ryza	ライザ	（これがあたしとレスナの今の関係。\n　先輩後輩関係に、正解なんてないっ！）						
+Date_MCHARA_A_00_04ID	96	Resna	レスナ	うーん、やっぱり……私にはライザ先輩に\n意見するなんておこがましく思えます						
+Date_MCHARA_A_00_04ID	97	Resna	レスナ	ライザ先輩は、ご自身の経験を\n優先してください！						
+Date_MCHARA_A_00_04ID	98	Resna	レスナ	よろしければ、先輩の冒険について\nお聞かせいただけませんか？						
+Date_MCHARA_A_00_04ID	99	Ryza	ライザ	う、うん。どの話をしようかな……						
+Date_MCHARA_A_00_04ID	100	Ryza	ライザ	（残念だな……レスナに\n　もっと聞きたいことがあったのに）						
+Date_MCHARA_A_00_04ID	101	Ryza	ライザ	（この続きはまた今度……かな）						
+Date_MCHARA_A_00_04ID	102	Resna	レスナ	そのために、私は何をお手本にするべき\nなんでしょうか……自分だけの長所に\nお手本はないのかも！？　あああ～～						
+Date_MCHARA_A_00_05ID	0	Resna	レスナ	こんにちはー！						
+Date_MCHARA_A_00_05ID	1	Ryza	ライザ	レスナ！　この間はありがとうね\n依頼人さん、大喜びだったよ！						
+Date_MCHARA_A_00_05ID	2	Resna	レスナ	よかった！　頑張った甲斐がありましたね！\nこれもライザ先……						
+Date_MCHARA_A_00_05ID	3	Ryza	ライザ	おーっと。「先輩」じゃなくて～？						
+Date_MCHARA_A_00_05ID	4	Resna	レスナ	ラ、ライザ……さんのおかげです！						
+Date_MCHARA_A_00_05ID	5	Ryza	ライザ	よしよし、その調子！\nそれで、今日はどうしたの？						
+Date_MCHARA_A_00_05ID	6	Resna	レスナ	はい。あの日のことなんですけど……						
+Date_MCHARA_A_00_05ID	7	Ryza	ライザ	ん？　なに？						
+Date_MCHARA_A_00_05ID	8	Resna	レスナ	お、お手を拝借します！						
+Date_MCHARA_A_00_05ID	9	Ryza	ライザ	もしかして、秘密の話？						
+Date_MCHARA_A_00_05ID	10	Resna	レスナ	いえ、そうではなく……						
+Date_MCHARA_A_00_05ID	11	Resna	レスナ	先日は、相談に乗ってくださり\nありがとうございました						
+Date_MCHARA_A_00_05ID	12	Resna	レスナ	先輩なんて呼ばれて、舞い上がって						
+Date_MCHARA_A_00_05ID	13	Resna	レスナ	だけど、まだまだ後輩でいたい\n気持ちもあって						
+Date_MCHARA_A_00_05ID	14	Resna	レスナ	そんなとき、お師匠様とのお話を\n聞かせていただいて……						
+Date_MCHARA_A_00_05ID	15	Resna	レスナ	ちょっとだけ気持ちが軽くなったような、\n構えなくていいんだって思えたんです						
+Date_MCHARA_A_00_05ID	16	Ryza	ライザ	……緊張させること言ってごめんね						
+Date_MCHARA_A_00_05ID	17	Resna	レスナ	いいえ、とんでもない！\nむしろ、考えるきっかけになりました						
+Date_MCHARA_A_00_05ID	18	Resna	レスナ	私が誰かの先輩になれたときも、\n落ち着いて、受け止めてあげたいって						
+Date_MCHARA_A_00_05ID	19	Resna	レスナ	今はまだ、そわそわしちゃいますけどね						
+Date_MCHARA_A_00_05ID	20	Ryza	ライザ	ふふっ。そうだよね						
+Date_MCHARA_A_00_05ID	21	Resna	レスナ	それで、もしライザさんさえ\nよろしければ……						
+Date_MCHARA_A_00_05ID	22	Ryza	ライザ	もらっていいの？						
+Date_MCHARA_A_00_05ID	23	Resna	レスナ	ライザさんのために調合しました。\nあの魚にとっても合う、特製香辛料です！						
+Date_MCHARA_A_00_05ID	24	Ryza	ライザ	こ、これが、例の！\nうわあ！　食欲をそそるいい香り！						
+Date_MCHARA_A_00_05ID	25	Ryza	ライザ	これはにんにくと唐辛子だな～。\n違う。ほのかに香る、爽やかな風味は……						
+Date_MCHARA_A_00_05ID	26	Ryza	ライザ	ん～、生の胡椒？						
+Date_MCHARA_A_00_05ID	27	Resna	レスナ	残念！　でも、さすがはライザ先輩！\nその発想はありませんでした！						
+Date_MCHARA_A_00_05ID	28	Ryza	ライザ	わ、わあ！　びっくりした……						
+Date_MCHARA_A_00_05ID	29	Ryza	ライザ	ええと、正解は？						
+Date_MCHARA_A_00_05ID	30	Resna	レスナ	実はこの香辛料、フリーゲンの近くで\n採れるものだけで作っていまして						
+Date_MCHARA_A_00_05ID	31	Resna	レスナ	仰るとおり、爽やかでぴりりと辛い\n木の実が存在するんですね						
+Date_MCHARA_A_00_05ID	32	Resna	レスナ	この実には独特の成分が含まれており、\n味覚だけでなく脳をも刺激します						
+Date_MCHARA_A_00_05ID	33	Resna	レスナ	そのため、塩分少なめでもより美味しく、\n風味豊かにいただけるんです！						
+Date_MCHARA_A_00_05ID	34	Ryza	ライザ	そ、そうなんだ。すごいねー……						
+Date_MCHARA_A_00_05ID	35	Resna	レスナ	ですが、ライザ先輩の仰る案も\nまた試してみたいところです						
+Date_MCHARA_A_00_05ID	36	Resna	レスナ	きっと違う美味しさを引き出せるはず！						
+Date_MCHARA_A_00_05ID	37	Resna	レスナ	試作したら、もらっていただけますか？\nライザ先輩！						
+Date_MCHARA_A_00_05ID	38	Ryza	ライザ	も、もちろんだよ						
+Date_MCHARA_A_00_05ID	39	Resna	レスナ	やった！　いくつかお持ちしますからね！						
+Date_MCHARA_A_00_05ID	40	Ryza	ライザ	（「先輩」呼びをやめたはずなのに\n　いつの間にか戻っちゃったな……）						
+Date_MCHARA_A_00_05ID	41	Ryza	ライザ	（まあ、あたしたちが仲良しなのは\n　変わりないし……）						
+Date_MCHARA_A_00_05ID	42	Ryza	ライザ	（これもレスナらしさ、だよね）						
+Date_MCHARA_A_00_05ID	43	Resna	レスナ	楽しみにしててくださいね、ライザ先輩！						

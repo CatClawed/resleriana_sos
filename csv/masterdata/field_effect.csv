@@ -1,0 +1,17 @@
+id	description	description_en	description_zh-CN	description_zh-TW	popup_text	popup_text_en	popup_text_zh-CN	popup_text_zh-TW
+11	味方：行動前に最大HPの10％の割合ダメージ	Allies: Receives 10% max HP damage before turn.	我方：行动前HP上限的10%的比例伤害	我方：行動前HP最大值10%的比例傷害。	HP割合ダメージ	HP Percentage Damage	HP比例伤害	HP比例傷害
+12	味方：アイテムゲージ増加量が99%DOWN	Allies: Reduces item gauge charge rate by 99%.	我方：道具槽增加量减少99%	我方：道具量表增加量下降99%。	アイテムゲージ増加停止	Item Gauge Charge Disabled	道具槽停止增加	道具量表停止增加
+13	味方：行動前に最大HPの3％の割合ダメージ	Allies: Receives 3% max HP damage before turn.	我方：行动前HP上限的3%的比例伤害	我方：行動前HP最大值3%的比例傷害。	HP割合ダメージ	HP Percentage Damage	HP比例伤害	HP比例傷害
+14	味方：アイテムゲージ増加量が20%DOWN	Allies: Reduces item gauge charge rate by 20%.	我方：道具槽增加量减少20%	我方：道具量表增加量下降20%。	アイテムゲージ増加量減少	Item Gauge Charge Rate Down	道具槽增加量减少	道具量表增加量減少
+15	味方：物防＆魔防5％DOWN	Allies: Reduces P. DEF and M. DEF by 5%.	我方：物防&魔防减少5%	我方：物防&魔防下降5%。	ステータスダウン	Stats Down	状态下降	狀態下降
+16	味方：物防＆魔防＆雷耐性10％DOWN	Allies: Reduces P. DEF, M. DEF, and Bolt resistance by 10%.	我方：物防&魔防&雷耐性减少10%	我方：物防&魔防&雷耐性下降10%。	ステータスダウン	Stats Down	状态下降	狀態下降
+17	味方：強化効果量30％DOWN	Allies: Reduces potency of buff effects by 30%.	我方：强化效果量减少30%	我方：強化效果量下降30%。	受ける強化効果量ダウン	Received Buff Effects Down	所受强化效果量下降	所受強化效果量下降
+18	味方：強化効果量90％DOWN	Allies: Reduces potency of buff effects by 90%.	我方：强化效果量减少90%	我方：強化效果量下降90%。	受ける強化効果量ダウン	Received Buff Effects Down	所受强化效果量下降	所受強化效果量下降
+20	敵：与ダメージ50%UP				与ダメージUP			
+21	全体：敵に被ダメージ3%DOWN付与				被ダメージDOWNを付与			
+22	全体：敵に被ダメージ2%UP付与				被ダメージUPを付与			
+26	味方：与ダメージ80％DOWN				与ダメージDOWN			
+27	味方：与ダメージ90％DOWN				与ダメージDOWN			
+28	味方：与ダメージ90％DOWN、与ブレイクダメージ30％DOWN				与ダメージ/与ブレイクダメージDOWN			
+29	味方：与ダメージ95％DOWN、与ブレイクダメージ50％DOWN				与ダメージ/与ブレイクダメージDOWN			
+30	敵：被ダメージ100%UP				被ダメージUP			

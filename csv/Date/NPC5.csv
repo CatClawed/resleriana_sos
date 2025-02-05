@@ -1,0 +1,294 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_NPC5_01ID	0	Lanze	ランツェ	（うっかりこんな時間に目覚めちまった。\n　いつもよりだいぶ早いな、まだ夜か）	Lanze	(Ugh, I'm wide awake. It's so dang early, it ain't even day yet.)	兰泽	（一不小心在这个点醒了。\n　比平时早了很多，天好像还没亮。）	藍澤	（不小心在這個時間醒來了。\n　比平時早了很多，天還沒亮啊。）
+Date_NPC5_01ID	1	Lanze	ランツェ	（今から寝直すにも中途半端な時間だしな。\n　軽く走り込みでも行くか）	Lanze	(Well, it's too late to try to go back to sleep. Guess I'll go for a run or somethin'.)	兰泽	（现在睡回笼觉也不上不下的。\n　干脆去跑两圈吧。）	藍澤	（現在再躺回去也睡不了多久，\n　去跑個步好了。）
+Date_NPC5_01ID	2	???	？？？	こっちは売り物にして、こっちは家用に……	???	I'll sell this one, keep this one for home...	？？？	这些拿出去卖，这些留着自用……	？？？	這邊是要拿去賣的，這邊是家裡用的……
+Date_NPC5_01ID	3	Lanze	ランツェ	ん？　この声は……	Lanze	Hm? That sounds like...	兰泽	嗯？这声音是……	藍澤	嗯？這聲音是……
+Date_NPC5_01ID	4		選択肢	仕入れか？	Selection	Flocke takin' stock of stuff?	选项	进货了吗？	選項	採買嗎？
+Date_NPC5_01ID	5	Lanze	ランツェ	おはよう、天使ちゃん。\n今日も早くから仕入れに行ってたのか？	Lanze	You're up early, little angel. Startin' the day off by gettin' your stock in order?	兰泽	早啊，小天使。\n今天也一大早去进货了吗？	藍澤	小天使，早安。\n妳今天也一大早就去採買了嗎？
+Date_NPC5_01ID	6	Flocke	フロッケ	あっ、ランツェさん。おはようございます。\nはい、ちょっと市場まで	Flocke	Oh! Hello, Lanze. Yep, just making a quick trip to the market.	芙洛可	啊，兰泽先生。早上好。\n是的，我刚从市场回来。	芙洛可	啊，藍澤先生，早安。\n是的，我去了一下市場。
+Date_NPC5_01ID	7	Lanze	ランツェ	こんな早くから大変だな	Lanze	Yeah, but this early? That's rough.	兰泽	天都没亮就这么辛苦啊。	藍澤	這麼早就去，很辛苦吧。
+Date_NPC5_01ID	8	Flocke	フロッケ	いえいえ、いつものことですから！\n行商人の一日の始まりは早いのです	Flocke	No, not at all! I'm used to it, really! Every merchant starts before the sun comes out!	芙洛可	不会，我平时都是这个时间进货的！\n旅行商人都起得很早。	芙洛可	不會不會，我習慣了！\n旅行商人的一天都開始得很早。
+Date_NPC5_01ID	9		選択肢	一人で出かけていたのか？	Selection	Flocke gettin' back from shoppin' on her own?	选项	你一个人出门了吗？	選項	妳是一個人出門的嗎？
+Date_NPC5_01ID	10	Lanze	ランツェ	おはよう、天使ちゃん。\nまだ暗いが、一人で出かけていたのか？	Lanze	Hey there, little angel. Didja already go out shopping in the dark? All by yourself?	兰泽	早啊，小天使。\n天还黑着你就一个人出门了吗？	藍澤	小天使，早安。\n天色還很暗，妳是一個人出門的嗎？
+Date_NPC5_01ID	11	Flocke	フロッケ	おはようございます、ランツェさん。\nいえ、一人じゃありませんでした	Flocke	Hello, Lanze. And no, there was someone with me.	芙洛可	早上好，兰泽先生。\n我不是一个人去的。	芙洛可	藍澤先生，早安。\n不，我不是一個人去的。
+Date_NPC5_01ID	12	Flocke	フロッケ	今日はイザナさんが早起きハンマー\nとのことでしたので、\n一緒に行動していました	Flocke	Izana was up early to do training, so we went together.	芙洛可	今天伊札娜小姐要早起锻炼，\n所以我和她一起。	芙洛可	今天伊札娜小姐說要早起練練錘子，\n所以我們就一起行動了。
+Date_NPC5_01ID	13	Flocke	フロッケ	星明かりの下でハンマーを振り回す\nイザナさん、とてもかっこよかったです！	Flocke	She looked so cool swinging her hammer under the stars!	芙洛可	伊札娜小姐在星空下挥动锤子的样子\n实在是太帅气了！	芙洛可	在星光下揮舞錘子的伊札娜小姐，非常帥氣！
+Date_NPC5_01ID	14	Lanze	ランツェ	イザナが一緒だったんなら、安心だな	Lanze	Ah, so that's who you were with. Good, that's a load off my mind.	兰泽	有她和你一起我就放心了。	藍澤	有伊札娜陪妳，我就放心了。
+Date_NPC5_01ID	15		選択肢	うわっ、幽霊だ！	Selection	Uh-oh, a ghost!	选项	哇啊，有幽灵！	選項	哇，是幽靈！
+Date_NPC5_01ID	16	Lanze	ランツェ	うわっ、幽霊だ！	Lanze	Uh-oh, a ghost!	兰泽	哇啊，有幽灵！	藍澤	哇，是幽靈！
+Date_NPC5_01ID	17	Flocke	フロッケ	ゆ、幽霊？　えっと……	Flocke	A-A what? Um...	芙洛可	幽、幽灵？我想想……	芙洛可	幽、幽靈？我想想……
+Date_NPC5_01ID	18	Flocke	フロッケ	お、おばけだぞ～……	Flocke	Uh, okay... Ooh, I'm a ghost?	芙洛可	我、我是鬼哦～	芙洛可	芙、芙洛可是妖怪哦～
+Date_NPC5_01ID	19	Lanze	ランツェ	天使ちゃんを驚かしたつもりだったんだが、\nまさか天使ちゃんがおばけちゃんに\nなっちまうとは	Lanze	No, no. Not you... I was trying to give you a little fright, but I guess that wasn't clear enough.	兰泽	本来想吓唬一下小天使，\n没想到小天使变成鬼了。	藍澤	我本來是想嚇嚇小天使的，\n沒想到小天使竟裝成了妖怪。
+Date_NPC5_01ID	20	Flocke	フロッケ	な、なるほど！　解釈を間違えました。\n次は任せてください！	Flocke	O-Oh! I get it now. Sorry, I'll get it right next time!	芙洛可	原、原来如此！是我理解错了。\n下次不会再出错了！	芙洛可	原、原來如此！芙洛可搞錯方向了。\n下次就包在芙洛可身上！
+Date_NPC5_01ID	21	Flocke	フロッケ	さて、仕入れも終わったので、\nそろそろご飯の準備をしないと	Flocke	Well, that's that! I'd better go get started on breakfast.	芙洛可	好，货物也理好了，\n可以开始准备做饭了。	芙洛可	好，採買也結束了，\n差不多得準備早餐了。
+Date_NPC5_01ID	22		選択肢	おぉ、今から！	Selection	Wait, right now?!	选项	哦，这么早吗！	選項	喔，現在開始！
+Date_NPC5_01ID	23	Lanze	ランツェ	おぉ、今から！	Lanze	Wait, right now?!	兰泽	哦，这么早吗！	藍澤	喔，現在開始！
+Date_NPC5_01ID	24	Flocke	フロッケ	今くらいから始めるのが\nちょうどいいんですよ	Flocke	Yep! It's about that time.	芙洛可	这个点开始准备刚好差不多。	芙洛可	現在這個時間\n開始準備剛剛好呢。
+Date_NPC5_01ID	25	Flocke	フロッケ	まずこの野菜を火にかけて、\n煮え立つのを待っている間に\nこっちの食材を……	Flocke	I'm going to start by frying those vegetables, then I'll work on these while I wait for the pot to come to a boil...	芙洛可	先把这些蔬菜下锅，\n在等它煮熟的同时处理这部分食材……	芙洛可	先把這些蔬菜放到火上煮，\n等待沸騰的期間，\n再把這邊的食材……
+Date_NPC5_01ID	26	Lanze	ランツェ	すごいぜ天使ちゃん、職人みたいだ。\n何度見ても感心させられる	Lanze	You're just like a proper little chef! No matter how many times I see ya at work, it's always impressive.	兰泽	好厉害啊小天使，跟专业的厨师一样。\n不管看几次都让人很感慨。	藍澤	小天使妳真厲害，好像專業廚師。\n不管看幾次都覺得好佩服。
+Date_NPC5_01ID	27	Lanze	ランツェ	天使ちゃんの華麗な食材捌きが見られるのは\n早起きの特権だな	Lanze	I guess gettin' to see it is my bonus for bein' up this early.	兰泽	能看到小天使熟练处理食材的样子\n是早起的特权啊。	藍澤	能看到小天使動作俐落地處理食材，\n是早起的特權呢。
+Date_NPC5_01ID	28	Flocke	フロッケ	ふふ、これくらい、\nいつでもお見せできますよ	Flocke	Hehe! You can watch me cook whenever you'd like.	芙洛可	呵呵，你想看的话随时可以来看哦。	芙洛可	呵呵，這點小事，\n芙洛可隨時都能表演給你看喔。
+Date_NPC5_01ID	29		選択肢	ちゃんと手間をかけてくれるなぁ……	Selection	You always go to so much trouble for us.	选项	真是让你费心了……	選項	用心地花時間準備呢……
+Date_NPC5_01ID	30	Lanze	ランツェ	毎日こんな早くから……\nちゃんと手間をかけてくれるなぁ……	Lanze	You always go to so much trouble for us, what with startin' this early every day and all.	兰泽	每天这么早起床准备……\n真是让你费心了……	藍澤	妳每天都這麼早就開始……\n用心地花時間準備呢……
+Date_NPC5_01ID	31	Flocke	フロッケ	皆さんにできる限り美味しいものを\n提供したいので！	Flocke	Well, I want to make sure that everything's as tasty as it can be!	芙洛可	因为我想尽可能让大家吃到美味的饭菜！	芙洛可	因為芙洛可想盡可能提供大家\n美味的餐點！
+Date_NPC5_01ID	32	Lanze	ランツェ	いつもありがとな。\n毎日大事にいただくよ	Lanze	And I really appreciate it. I make sure I savor every dish, down to the last bite!	兰泽	谢谢你。\n我会每天认真品尝的。	藍澤	一直以來都很謝謝妳，\n我每天都會珍惜地享用的。
+Date_NPC5_01ID	33		選択肢	実はこっそり体力作りしてるのか？	Selection	Have you been doin' some trainin' on the sly or somethin'?	选项	你是不是在偷偷锻炼？	選項	其實是在偷偷鍛練體力吧？
+Date_NPC5_01ID	34	Lanze	ランツェ	そんなに体力あるなんて、\nなんか秘密に鍛えているのか？	Lanze	Have you been doin' some trainin' on the sly or somethin'? Where does all that stamina come from?	兰泽	精力这么旺盛，难道你偷偷在锻炼？	藍澤	妳的體力竟然這麼好，\n是不是有在偷偷鍛鍊呢？
+Date_NPC5_01ID	35	Flocke	フロッケ	特別なことは何もやっていませんよ	Flocke	Nope, nothing in particular.	芙洛可	我没有特地干什么哦。	芙洛可	芙洛可沒有特別做什麼。
+Date_NPC5_01ID	36	Flocke	フロッケ	フロッケ、意外と体力あるんですよ！\n商人は体力勝負なので！	Flocke	I'm pretty strong, you know! A merchant has to be!	芙洛可	想不到吧，芙洛可其实体力很好！\n干商人这一行没有体力可不行！	芙洛可	芙洛可的體力出乎意料地好喔！\n畢竟商人是靠體力取勝的！
+Date_NPC5_01ID	37	Lanze	ランツェ	すごいな天使ちゃん。\nさすが、できる商人だな	Lanze	Well, that's just grand. It's no wonder you're such a successful businesswoman.	兰泽	好厉害啊小天使。\n不愧是优秀的商人。	藍澤	小天使妳真了不起，不愧是能幹的商人呢。
+Date_NPC5_01ID	38	Lanze	ランツェ	しかし、毎日早起きして、夜遅くまで\nいつも忙しそうにしてるよな。\nたまには息抜きなんかどうだ？	Lanze	Still, you're always the first person up and the last one in bed. Don't you think you oughta take a breather every now and then?	兰泽	但你每天要早起，还总是忙到半夜，\n偶尔也需要休息一下吧？	藍澤	不過妳每天都早起，\n又總是忙到很晚對吧？\n偶爾也放鬆一下如何？
+Date_NPC5_01ID	39	Flocke	フロッケ	楽しいから大丈夫です！\nむしろ暇な方が不安になってくるので！	Flocke	It's all fun, so I don't mind! If anything, having nothing to do makes me anxious.	芙洛可	没关系，我做得很开心！\n闲下来反而会让我不安！	芙洛可	我忙得很開心，所以沒關係！\n太閒的話反倒會覺得不安！
+Date_NPC5_01ID	40		選択肢	不安？	Selection	Anxious?	选项	不安？	選項	不安？
+Date_NPC5_01ID	41	Lanze	ランツェ	不安？　どうして不安なんだ？	Lanze	Anxious? Why's that?	兰泽	不安？为什么会这么想？	藍澤	不安？為什麼會不安？
+Date_NPC5_01ID	42	Flocke	フロッケ	商人にとって、忙しいのは繁盛している\n証拠ですから。\n閑古鳥が鳴くよりずっとマシです	Flocke	Well, being busy is a sure sign of being successful. I'd much rather that than being stuck in a slump.	芙洛可	因为对商人来说，忙碌就意味着生意兴隆。\n比门可罗雀好多了。	芙洛可	因為對商人來說，\n忙碌就代表生意興隆，\n比冷冷清清要來得好多了。
+Date_NPC5_01ID	43	Flocke	フロッケ	待てど暮らせどお客さんが来なくて、\n残った在庫の処分に追われたり……	Flocke	You wait for ages for customers who don't show, then you have to get rid of your excess stock...	芙洛可	我不希望左等右等也不见客人上门，\n还得费心思处理滞销的商品……	芙洛可	比起等了又等也沒有客人上門，\n只好忙著處理剩下的庫存……
+Date_NPC5_01ID	44	Flocke	フロッケ	天候不良で何日もお店を出せなくて、\nじわじわ減っていく貯金を見つめるよりも、\nずっと……	Flocke	Or the weather is too awful for you to open up shop, and there's nothing you can do but sit and watch all your savings dwindle...	芙洛可	或是因为天气不好连续几天不能出门做生意，\n眼睁睁看着存款一点点减少……	芙洛可	或是因天候不佳，好幾天沒辦法做生意，\n就這麼看著存款一點一點地減少，\n要好太多了……
+Date_NPC5_01ID	45	Lanze	ランツェ	天使ちゃん、苦労してるな……	Lanze	Sounds like you've had some rough times...	兰泽	小天使很不容易啊……	藍澤	小天使妳很辛苦呢……
+Date_NPC5_01ID	46		選択肢	遊びに行きたいところは？	Selection	Is there some place you wanna go?	选项	想不想去哪里玩玩？	選項	妳有想去哪裡玩嗎？
+Date_NPC5_01ID	47	Lanze	ランツェ	とは言っても、たまには息抜きが必要だろ。\nどこか遊びに行きたいところはないか？	Lanze	Still, you can't be all work and no play. Is there some place you wanna go to blow off some steam?	兰泽	话是这么说，但偶尔也需要休息一下。\n想不想去哪里玩玩？	藍澤	話是這麼說沒錯，但偶爾還是得休息一下吧。\n妳有沒有想去哪裡玩呢？
+Date_NPC5_01ID	48	Flocke	フロッケ	うーん、特には……\n行商で色々なところに行っているので	Flocke	Hm, not really. I mean, I get to travel a lot as a merchant anyways.	芙洛可	唔，好像没有……\n做生意的时候我已经走过很多地方了。	芙洛可	唔──沒有耶……\n因為經商會去很多地方。
+Date_NPC5_01ID	49	Lanze	ランツェ	でもそれは仕事だろ？\n遊ぶ暇はないんじゃねえか？	Lanze	Yeah, but ain't that part of the job? Don't you take any time for yourself?	兰泽	但那是为了做生意去的吧？\n根本没有好好玩吧？	藍澤	但那是工作啊？妳應該沒時間玩吧？
+Date_NPC5_01ID	50	Flocke	フロッケ	そうですけど、ご当地の名物はできるだけ\n食べるようにしてるんですよね	Flocke	Yes, but I usually focus on eating as many regional specialties as I can.	芙洛可	但那些地方的特产我基本都吃过了。	芙洛可	是沒錯，但芙洛可會盡可能\n到處嚐嚐當地的名產。
+Date_NPC5_01ID	51	Flocke	フロッケ	この前もジュゲル州に行ったのですが、\nとれたてのミルクを使ったお菓子が\n本当に美味しくて……	Flocke	Like these milk sweets that I had in Yuggel province. Those were really tasty!	芙洛可	前段时间我去了尤格鲁州，\n那里用新鲜牛奶做的点心真的非常好吃……	芙洛可	之前芙洛可還去朱格爾州，\n吃了用現榨鮮奶做的點心，\n那真的非常美味……
+Date_NPC5_01ID	52	Lanze	ランツェ	（忙しくても、天使ちゃんなりに\n　楽しみを見出してるんだな）	Lanze	(Good. Sounds like she's managin' to carve out some leisure time for herself, even if she's always on the go.)	兰泽	（忙归忙，小天使也在用她自己的方式\n　享受生活啊。）	藍澤	（即使再忙，小天使也會以自己的方式\n　找到樂趣呢。）
+Date_NPC5_01ID	53		選択肢	その体力を見習いたい	Selection	I oughta follow your example.	选项	要是我也有你这么好的体力就好了	選項	真想向妳的體力看齊。
+Date_NPC5_01ID	54	Lanze	ランツェ	その体力、見習わないとだな	Lanze	Honestly, I oughta take a page or six outta your book.	兰泽	要是我也有你这么好的体力就好了。	藍澤	我得向妳的體力看齊才行呢。
+Date_NPC5_01ID	55	Flocke	フロッケ	お試しで、ランツェさんも一緒に\n行商の仕事をしてみますか？	Flocke	Why don't you come with me and try your hand at being a merchant?	芙洛可	兰泽先生要不要也来试试做生意？	芙洛可	藍澤先生要不要試著跟芙洛可\n一起經商看看呢？
+Date_NPC5_01ID	56	Lanze	ランツェ	それもいいかもな	Lanze	Y'know, that ain't a bad idea.	兰泽	这主意不错。	藍澤	這主意好像也不錯。
+Date_NPC5_01ID	57	Flocke	フロッケ	行商に関してはフロッケの方が先輩なので、\n色々お教えしますよ	Flocke	I've been a peddler for a pretty long time, so I'll teach you everything I know! Which is a lot!	芙洛可	芙洛可是做生意的前辈，\n会好好指导兰泽先生的。	芙洛可	在經商方面芙洛可是前輩，\n可以教你很多的東西。
+Date_NPC5_01ID	58	Lanze	ランツェ	ははっ、頼りになるな	Lanze	Haha! I'll be countin' on your expertise.	兰泽	哈哈，那就靠你啦。	藍澤	哈哈，真是可靠。
+Date_NPC5_01ID	59	Flocke	フロッケ	では、フロッケはご飯の準備を進めるので、\nランツェさんには玄関前のお掃除を\nお願いしてもいいですか？	Flocke	I'm going to keep making breakfast, but would you mind sweeping the entrance way, please?	芙洛可	好了，芙洛可要继续准备早饭了。\n可以拜托兰泽先生打扫家门口吗？	芙洛可	那芙洛可要繼續準備飯菜了，\n可以麻煩藍澤先生\n幫忙打掃一下玄關前面嗎？
+Date_NPC5_01ID	60	Lanze	ランツェ	ああ、任せろ	Lanze	Sure, can do.	兰泽	嗯，交给我吧！	藍澤	嗯，交給我吧。
+Date_NPC5_01ID	61	Lanze	ランツェ	（でも、やっぱり働きづめってのは\n　心配だな）	Lanze	(Still, I'm worried about how she's always goin' non-stop.)	兰泽	（不过，我还是担心她努力过头了。）	藍澤	（不過，她從早忙到晚，\n　還是很令人擔心呢。）
+Date_NPC5_01ID	62	Lanze	ランツェ	（そういう性分なのは理解しているが、\n　普通なら遊びたい年頃だろうに）	Lanze	(I get that she's just that kinda person, but someone her age oughta be playin' around a bit more.)	兰泽	（我知道她就是这个性子，但一般来说，\n　这个年纪的女孩子都会想出去玩吧。）	藍澤	（能理解她本來就是那種個性，\n　但一般來說她應該正值愛玩的年紀吧。）
+Date_NPC5_01ID	63	Lanze	ランツェ	（お節介かもしれねえが、\n　天使ちゃんを適度に息抜きさせてやるには\n　どうすりゃいいか……）	Lanze	(I might be stickin' my nose where it don't belong, but... How do I go about gettin' our angel to stop and smell some roses?)	兰泽	（可能是我多管闲事，但怎样才能\n　让小天使适当休息一下呢……）	藍澤	（或許我有點多管閒事了，\n　但要怎麼做，\n　才能讓小天使適度地休息呢？）
+Date_NPC5_02ID	0	Lanze	ランツェ	（……よし、これで必要な道具は揃ったな。\n　そろそろ帰るか）	Lanze	(There, that's all the stuff I needed to pick up. Guess I'll head on home.)	兰泽	（好……需要的道具全都齐了。\n　回家吧。）	藍澤	（……好，這樣需要的道具都備齊了，\n　差不多該回去了吧。）
+Date_NPC5_02ID	1	Lanze	ランツェ	（そういえば、天使ちゃんはこの辺りで\n　店をやっていたな。\n　最近はどんな感じで働いてるだろう）	Lanze	(Hang on. Now that I'm thinkin' about it, Flocke's stall oughta be around here. I wonder how things've been goin' lately.)	兰泽	（说起来，小天使好像在这附近做生意。\n　不知道最近她工作得怎么样。）	藍澤	（對了，小天使在這附近做生意呢。\n　不知道她最近的工作狀態怎麼樣？）
+Date_NPC5_02ID	2		中年の客	親父が魚好きだから\n食べさせてやりたいんだ。\n何がいいかな	Middle-Aged Customer	My father loves eating fish, so I was hoping to get him some. Do you have any recommendations?	中年客人	我家老爹喜欢吃鱼，所以想来给他买点。\n有什么推荐的吗？	中年客人	我老爸喜歡魚，\n所以想買一些給他吃，\n該選什麼好呢？
+Date_NPC5_02ID	3	Flocke	フロッケ	お父様はおいくつでしょうか？	Flocke	If you don't mind my asking, how old is he?	芙洛可	请问令尊几岁了？	芙洛可	您父親幾歲呢？
+Date_NPC5_02ID	4		中年の客	今年でもう８０になるんだよ	Middle-Aged Customer	He'll be turning eighty this year.	中年客人	今年有80了。	中年客人	他今年要80歲了。
+Date_NPC5_02ID	5	Flocke	フロッケ	でしたらこちらの切り身がおすすめです！　\n脂が少ないのに味が濃厚なのが特徴です。\n小骨が取ってあるので、食べるのも楽ですよ	Flocke	Then, I think he'd love this filet! It's lean but bursting with flavor! It's already been deboned too, so it's easy to eat.	芙洛可	那我推荐这个刺身！\n它脂肪少，味道浓郁。\n而且剔除了鱼刺，吃起来也很方便。	芙洛可	這樣的話，我推薦這邊切好的魚！\n特色是脂肪少但味道濃郁，\n而且我已經去掉魚刺，吃起來也很方便喔。
+Date_NPC5_02ID	6		中年の客	ほう……	Middle-Aged Customer	Hm...	中年客人	唔……	中年客人	哦……
+Date_NPC5_02ID	7	Flocke	フロッケ	特に相性がいいのがこの香辛料です。\nこちらは味を引き立てるだけでなく、\n消化を助ける作用もあって――	Flocke	I should also mention that these spices go perfectly with it! Of course, they don't just make it tastier—they also help with digestion.	芙洛可	这个香辛料和这个刺身尤其配。\n不仅能增加风味，还能帮助消化——	芙洛可	這款香辛料跟它特別搭，\n不僅能提味，\n還能幫助消化──
+Date_NPC5_02ID	8		中年の客	じゃあ、両方買っちゃおうかな	Middle-Aged Customer	I'll take both, then.	中年客人	那我两个都买了吧。	中年客人	那我兩個都買好了。
+Date_NPC5_02ID	9	Flocke	フロッケ	ありがとうございます！	Flocke	Thank you very much!	芙洛可	多谢惠顾！	芙洛可	謝謝惠顧！
+Date_NPC5_02ID	10		選択肢	よっ、商売上手！	Selection	That was a solid sale!	选项	哟，小老板！	選項	嗨，妳真會做生意！
+Date_NPC5_02ID	11	Lanze	ランツェ	よっ、商売上手！	Lanze	That was a solid sale!	兰泽	哟，小老板！	藍澤	嗨，妳真會做生意！
+Date_NPC5_02ID	12	Flocke	フロッケ	わ、ランツェさん！	Flocke	Oh! Lanze!	芙洛可	哇，兰泽先生！	芙洛可	哇，藍澤先生！
+Date_NPC5_02ID	13	Flocke	フロッケ	そんな風に声をかけられると、\n少し照れますね	Flocke	I can't help but feel a little embarrassed hearing you say that.	芙洛可	你这么叫我，我会不好意思的。	芙洛可	你這樣跟芙洛可打招呼，\n讓芙洛可有點害羞呢。
+Date_NPC5_02ID	14	Flocke	フロッケ	でもフロッケは行商人なので、\n嬉しいほめ言葉です！	Flocke	But as a merchant, I have to admit that it also makes me feel proud!	芙洛可	但芙洛可是个商人，\n所以听到你这么叫我很高兴！	芙洛可	但芙洛可是旅行商人，\n所以這是很令人開心的讚美！
+Date_NPC5_02ID	15		選択肢	俺も一つ買おうかな	Selection	Ring one up for me too.	选项	我也买点吧	選項	我也買一份好了。
+Date_NPC5_02ID	16	Lanze	ランツェ	天使ちゃんの話聞いてたら、\n俺も食いたくなってきちまった。\n一つ買おうかな	Lanze	Well, you got me convinced. Ring one up for me too. I gotta try some of this special fish.	兰泽	听了小天使的话，我也想吃鱼了。\n我也买点吧。	藍澤	聽了小天使剛才的推薦，\n我也跟著想吃了起來，\n買一份好了？
+Date_NPC5_02ID	17	Flocke	フロッケ	いらっしゃいませ、ランツェさん。\nランツェさんは家族ですから、\n買わなくてもお譲りしますよ	Flocke	Oh, there's no need, Lanze! You're family, so this one is on the house.	芙洛可	欢迎挑选，兰泽先生。\n兰泽先生是我的家人，可以直接送你哦。	芙洛可	藍澤先生，歡迎光臨。\n你是我們的家人，\n就算不買芙洛可也會直接送給你的。
+Date_NPC5_02ID	18	Flocke	フロッケ	でも、そう言っていただけたのは\n商人冥利に尽きます。ふふっ	Flocke	But thank you for your compliment. It's nice to hear you say that!	芙洛可	不过能得到兰泽先生的夸奖我很开心，呵呵。	芙洛可	不過，能得到這種稱讚，\n是身為商人的莫大光榮。
+Date_NPC5_02ID	19		選択肢	じきに立派な店を建てられそうだな	Selection	You're gonna have your own store in no time.	选项	看样子你很快就能有自己的店面了	選項	感覺妳很快就能蓋一間氣派的店了。
+Date_NPC5_02ID	20	Lanze	ランツェ	じきに立派な店を建てられそうだな	Lanze	Yep, you're gonna be able to build your own fancy store in no time.	兰泽	看样子你很快就能有自己的店面了。	藍澤	感覺妳很快就能蓋一間氣派的店了。
+Date_NPC5_02ID	21	Flocke	フロッケ	あ、いらっしゃいませ！　ランツェさん	Flocke	Oh, Lanze! Welcome!	芙洛可	啊，欢迎光临！兰泽先生。	芙洛可	啊，藍澤先生，歡迎光臨！
+Date_NPC5_02ID	22	Flocke	フロッケ	お店を建てる、ですか……\n固定の店舗を持つのも楽しそうですね	Flocke	Hm, my very own store? It would be nice to have someplace more permanent, but...	芙洛可	自己的店面啊……\n能有固定的店铺也不错呢。	芙洛可	蓋一間店，是嗎……\n有固定的店鋪好像也不錯呢。
+Date_NPC5_02ID	23	Flocke	フロッケ	でも、潮目を読んで身軽に動ける\n行商という売り方が好きなんです。\n小さい頃からずっと親しみがありますしね	Flocke	I like being able to read the currents and go with the flow. Besides, I've been peddling since I was little, so I'm used to it.	芙洛可	不过我还是喜欢旅行商人这种方式，\n可以根据生意的状况灵活采取行动。	芙洛可	不過，我喜歡擺攤這種\n看情況隨機應變的銷售方式。\n畢竟從小就很熟悉了。
+Date_NPC5_02ID	24	Lanze	ランツェ	そうか。\n今の売り方にもこだわりがあるんだな	Lanze	Ah, gotcha. So there's a good side to everything.	兰泽	是吗。\n看来你也有自己的坚持啊。	藍澤	這樣啊，妳現在的銷售方式\n也是有自己的堅持呢。
+Date_NPC5_02ID	25		幼い子ども	うえええん！　痛いよぉ……	Young Child	Waaah! It huuurts!	幼童	呜哇！好痛……	年幼的小孩	嗚呃呃呃！好痛喔……
+Date_NPC5_02ID	26		子連れの客	転んじゃったの？　\n仕方ないわね、すぐ手当してあげるから。\n……あら、いつも持ち歩いてる薬草がないわ	Customer with Child	Oh, dear. Did you trip? Goodness, you've scraped your knee, too. Now where did I put those medicinal herbs? Gosh... I must've run out.	带孩子的客人	摔倒了吗？\n真拿你没办法，妈妈马上给你处理。\n哎呀……平时带着的药草用完了。	帶著小孩的客人	跌倒了嗎？\n真拿你沒辦法，我馬上幫你包紮。\n……哎呀，我沒帶平時隨身攜帶的藥草。
+Date_NPC5_02ID	27	Flocke	フロッケ	その薬草って、こちらでしょうか？	Flocke	Would any of these do?	芙洛可	您说的药草是指这个吗？	芙洛可	您說的藥草，是指這個嗎？
+Date_NPC5_02ID	28		子連れの客	そうそう！　ちょうどよかった、助かるわ。\nいくらになるかしら？	Customer with Child	They would! Thank goodness, that's such a relief. How much are they?	带孩子的客人	就是这个！真是帮大忙了。\n要多少钱？	帶著小孩的客人	沒錯！真巧，真是幫大忙了。\n這要多少錢呢？
+Date_NPC5_02ID	29	Flocke	フロッケ	お代は結構です。緊急事態ですから	Flocke	They're on the house! This is an emergency, after all.	芙洛可	钱就不用了，毕竟是紧急情况。	芙洛可	因為是緊急狀況，錢就不必了。
+Date_NPC5_02ID	30	Flocke	フロッケ	……これでよし、と。\n痛いの痛いの……とんでけ～！	Flocke	There, now you're all patched up. And here's a spell to make the pain fly away!	芙洛可	……处理好了。\n痛痛……飞走啦～！	芙洛可	……這樣就行了。\n痛痛全都……飛走吧～！
+Date_NPC5_02ID	31	Flocke	フロッケ	お、泣き止みましたね。\nえらいえらい、強い子ですね	Flocke	There we go, no more tears. You're so brave!	芙洛可	啊，不哭了。\n真是个坚强的孩子，你很了不起哦。	芙洛可	喔，你不哭啦。\n真了不起，你很堅強呢。
+Date_NPC5_02ID	32	Lanze	ランツェ	（坊主、あっという間に\n　笑顔になっちまった！\n　さすがは天使ちゃんだぜ！）	Lanze	(Whoa, that kid went from cryin' to smilin' in a snap! Yep, our angel's got the sweetest touch.)	兰泽	（那个小孩一下子就转哭为笑了！\n　不愧是小天使！）	藍澤	（那男孩一下子\n　就破涕為笑了！\n　真不愧是小天使！）
+Date_NPC5_02ID	33		選択肢	すごいな、コツは？	Selection	That sure was smooth. Is there a trick to it?	选项	好厉害，有什么诀窍吗？	選項	真厲害，訣竅是？
+Date_NPC5_02ID	34	Lanze	ランツェ	すごいな。コツはあるのか？	Lanze	That sure was smooth. Is there a trick to it?	兰泽	好厉害，你哄小孩有什么诀窍吗？	藍澤	妳真厲害，有什麼訣竅嗎？
+Date_NPC5_02ID	35	Flocke	フロッケ	そうですね……	Flocke	Well, let's see...	芙洛可	唔……	芙洛可	這個嘛……
+Date_NPC5_02ID	36	Flocke	フロッケ	自分が子どもの頃にしてもらいたかった\nことや、言ってもらいたかったことを\n思い出す、とか？	Flocke	I just think back to when I was little, I guess. What I wish people did, what I wish people had said to me...	芙洛可	比方说回想一下自己小时候希望别人做什么、\n说什么，之类的？	芙洛可	大概就是回想小時候\n希望大人為自己做的事，\n或是希望大人對自己說的話，之類的？
+Date_NPC5_02ID	37	Lanze	ランツェ	（天使ちゃんの子どもの頃か……\n　いや、ヘンに憐れむのは違うな）	Lanze	(Our little angel's childhood, huh... I want to feel sorry for her, but that doesn't seem right.)	兰泽	（小时候的小天使啊……\n　不对，我怎么就开始心疼小天使了。）	藍澤	（小天使的小時候啊……\n　不，隨便用憐憫的眼光看待是不對的。）
+Date_NPC5_02ID	38	Lanze	ランツェ	（それよりも、\n　子どもに優しく接する天使ちゃんの\n　その清廉なる志をほめるべきだ）	Lanze	(I oughta be proud of her for stayin' such a kind and honest girl after all that.)	兰泽	（我应该夸夸温柔无私地\n　照顾孩子的小天使才对。）	藍澤	（更重要的是，\n　應該要誇獎小天使溫柔對待孩童時的\n　那份純潔無私的心意。）
+Date_NPC5_02ID	39	Lanze	ランツェ	いい心がけだな	Lanze	That's a good way of goin' about it.	兰泽	小天使真贴心啊。	藍澤	妳真是用心。
+Date_NPC5_02ID	40	Flocke	フロッケ	ありがとうございます	Flocke	Thank you!	芙洛可	谢谢夸奖。	芙洛可	謝謝你。
+Date_NPC5_02ID	41		選択肢	いい母親になりそうだな	Selection	You're gonna make a great mom.	选项	你应该会成为一个好妈妈。	選項	妳應該會是個好母親。
+Date_NPC5_02ID	42	Lanze	ランツェ	天使ちゃん、いい母親になりそうだな	Lanze	You know, you're gonna make a great mom someday.	兰泽	小天使应该会成为一个好妈妈。	藍澤	小天使應該會是個好母親喔。
+Date_NPC5_02ID	43	Flocke	フロッケ	ほ、本当ですか……？	Flocke	Y-You really think so?	芙洛可	真、真的吗……？	芙洛可	真、真的嗎……？
+Date_NPC5_02ID	44	Flocke	フロッケ	そう言っていただけるのは……\nすごく、嬉しいです	Flocke	Hearing that...actually makes me really happy.	芙洛可	听到兰泽先生这么夸我……\n我很高兴。	芙洛可	能聽到你這麼說……芙洛可非常高興。
+Date_NPC5_02ID	45		選択肢	遠くにいるみたいで寂しい	Selection	Feels like you've gone and left me miles behind.	选项	遥不可及的小天使让我有点寂寞	選項	感覺好像很遙遠，怪寂寞的。
+Date_NPC5_02ID	46	Lanze	ランツェ	天使ちゃんはほんと、何でもできちまうな。\nなんだか遠くにいるみたいで寂しいぜ……	Lanze	Is there anything you can't do, little angel? Feels like you've gone and left me miles behind.	兰泽	小天使太能干了，\n感觉像是遥不可及的人，让我有点寂寞……	藍澤	小天使真的什麼都做得到呢。\n妳給我的感覺好像很遙遠，怪寂寞的……
+Date_NPC5_02ID	47	Flocke	フロッケ	大丈夫です。\nフロッケはどこにも行きませんよ。\nランツェさんたちのそばにいます	Flocke	Don't worry, I'm not going anywhere! I'll always be with you and the others, Lanze.	芙洛可	别担心。芙洛可哪儿都不去，\n会一直陪在大家身边。	芙洛可	沒事的。\n芙洛可哪裡都不去，\n會一直待在你們身邊的。
+Date_NPC5_02ID	48	Lanze	ランツェ	そう言い切られると、\n妙な安心感があるな……	Lanze	Y'know, hearin' you say that so decisively is weirdly comforting.	兰泽	有你这话，\n我突然觉得好安心……	藍澤	妳說得那麼肯定，\n讓人有種奇妙的安心感……
+Date_NPC5_02ID	49		博識そうな客	すみません、\nお尋ねしたいことがあるのですが	Wise-Looking Customer	Excuse me, but I have a question I'd like to ask.	似乎很博学的客人	不好意思，可以打扰一下吗？	看似博學的客人	不好意思，我有事情想請教一下。
+Date_NPC5_02ID	50	Flocke	フロッケ	いらっしゃいませ。\nはい、何でしょう？	Flocke	Of course! What is it?	芙洛可	欢迎光临。\n您请说。	芙洛可	歡迎光臨。\n好的，是什麼事呢？
+Date_NPC5_02ID	51		博識そうな客	こちらの魚は雨の日に釣ったものですか？\nそれとも、晴れの日ですか？	Wise-Looking Customer	Were these fish caught on a rainy day, or a sunny one?	似乎很博学的客人	请问这鱼是雨天钓上来的，\n还是晴天钓上来的？	看似博學的客人	這隻魚是雨天釣到的嗎？\n還是晴天釣到的呢？
+Date_NPC5_02ID	52	Flocke	フロッケ	えっ……釣った日の天気、ですか？	Flocke	Oh! You'd like to know...what the weather was like?	芙洛可	咦……您是问钓上来时的天气吗？	芙洛可	咦……釣到這隻魚的當天天氣嗎？
+Date_NPC5_02ID	53		博識そうな客	ええ、雨の日に活発になる個体と、\n晴れの日に活発になる個体があって、\nそれぞれ味が微妙に違うと聞いたので	Wise-Looking Customer	Yes, indeed. I have heard that there are subtle differences in taste, depending on such conditions.	似乎很博学的客人	是的。我听说不同天气下活跃的鱼不同，\n它们的味道也会有所区别。	看似博學的客人	對，因為我聽說有些品種在雨天會較有活力，\n有些則是在晴天，\n兩者的滋味各有微妙的差異。
+Date_NPC5_02ID	54	Flocke	フロッケ	えっと……それは……	Flocke	Um, I-I think that maybe...	芙洛可	呃……这个嘛……	芙洛可	呃……這個嘛……
+Date_NPC5_02ID	55	Lanze	ランツェ	そいつは晴れだな	Lanze	These guys were all hauled in on a clear day.	兰泽	那条是晴天钓的。	藍澤	那隻是晴天釣到的喔。
+Date_NPC5_02ID	56	Lanze	ランツェ	ここに縞模様があるだろ。こいつが\nついてるのが、晴れが得意なやつだ。\n今は黒いが、釣れたては虹色で――	Lanze	See? They've got these stripes right here. Those're fish that like soakin' in the sun. They might look black now, but they're rainbow when you pull 'em out. And those ones over there...	兰泽	你看这里，有条纹对吧。\n有这种花纹的鱼在晴天比较活跃。\n虽然现在表皮呈黑色，但刚钓上来时是彩虹色——	藍澤	這裡有條紋對吧？\n有這種條紋的在晴天較有活力，雖然現在是黑色，\n但剛釣上來時是七彩的顏色──
+Date_NPC5_02ID	57	Flocke	フロッケ	ランツェさん、助けてくださって\nありがとうございます……！	Flocke	Thank you so much, Lanze! I never could have answered that!	芙洛可	兰泽先生，谢谢你……！	芙洛可	藍澤先生，謝謝你幫了芙洛可……！
+Date_NPC5_02ID	58		選択肢	これが海の男の力よ	Selection	I'm a man of the sea!	选项	这就是海上男儿的实力	選項	這就是海上男兒的實力。
+Date_NPC5_02ID	59	Lanze	ランツェ	これが海の男の力よ。\n船や魚のことなら、何でも聞いてくれ	Lanze	I'm a man of the sea, and don't ya forget it! When it comes to boats and fish, I'm a walkin' encyclopedia!	兰泽	这就是海上男儿的实力。\n关于船和鱼的问题都可以问我。	藍澤	這就是海上男兒的實力喔。\n關於船和魚的事情，儘管問我吧。
+Date_NPC5_02ID	60	Flocke	フロッケ	海の男、かっこいいです……！\nフロッケも見習わないと	Flocke	That's so amazing! I should try and be more like you that way.	芙洛可	海上男儿，好帅气啊……！\n芙洛可也要向兰泽先生看齐。	芙洛可	海上男兒，好帥氣……！\n芙洛可也得向你看齊才行！
+Date_NPC5_02ID	61	Flocke	フロッケ	ここに縞模様があるだろ。\nこいつがついてるのが――	Flocke	See? They've got these stripes right here. Those're fish that—	芙洛可	你看这里，有条纹对吧。\n有这种花纹的鱼——	芙洛可	這裡有條紋對吧？\n有這種條紋的──
+Date_NPC5_02ID	62	Lanze	ランツェ	それ、まさか……俺の真似か？	Lanze	Hang on, are you tryin' to imitate me?	兰泽	你……难道是在模仿我？	藍澤	妳這是……在模仿我嗎？
+Date_NPC5_02ID	63	Flocke	フロッケ	うう、そんなに似てないですか。\nかっこいいの道は険しいです……	Flocke	"Yes... Was that too much? I guess I've got a long way to go before I can call myself ""cool""..."	芙洛可	唔，不像吗？\n看来要变帅气也不容易……	芙洛可	嗚，看起來沒那麼像嗎？\n變帥氣的路途真是困難重重……
+Date_NPC5_02ID	64		選択肢	今度から俺が説明係になろうか？	Selection	Why don't you sign me on as a consultant?	选项	以后我来帮忙说明吧？	選項	下次讓我來幫忙解說吧？
+Date_NPC5_02ID	65	Lanze	ランツェ	今度から俺が説明係になろうか？	Lanze	Why don't you sign me on as a consultant?	兰泽	以后我来帮忙说明吧？	藍澤	下次讓我來幫忙解說吧？
+Date_NPC5_02ID	66	Flocke	フロッケ	そんな、毎回手伝ってもらうなんて\n悪いですよ！	Flocke	Oh no, I couldn't! Having you come to work with me every day would be asking way too much!	芙洛可	这怎么行，每次都让兰泽先生帮忙，\n也太麻烦你了。	芙洛可	這怎麼行，每次都麻煩你太不好意思了！
+Date_NPC5_02ID	67	Flocke	フロッケ	でも、こうやって二人で店先に立つのは\n楽しいので……	Flocke	Although, running the stall with you is a lot of fun...	芙洛可	不过两个人一起摆摊很开心……	芙洛可	但是，像這樣兩個人一起顧店也很開心……
+Date_NPC5_02ID	68	Flocke	フロッケ	その、ランツェさんがよかったら……\nときどき遊びに来てくれると嬉しいです	Flocke	Um, well, would you maybe mind coming and hanging out with me sometimes? That would be really nice...	芙洛可	如果兰泽先生方便……\n希望你能偶尔过来玩。	芙洛可	那個，如果藍澤先生不介意……\n歡迎你隨時來找我玩。
+Date_NPC5_02ID	69		選択肢	いつも天使ちゃんに助けてもらってるからな	Selection	It'd be the least I could do.	选项	因为小天使一直在帮我啊	選項	畢竟我總是受到小天使的關照。
+Date_NPC5_02ID	70	Lanze	ランツェ	いつも天使ちゃんに助けてもらってるからな	Lanze	You're always doin' so much for us. The least I can do is have your back.	兰泽	因为小天使一直在帮我啊。	藍澤	畢竟我總是受到小天使的關照。
+Date_NPC5_02ID	71	Flocke	フロッケ	それはフロッケがしたくて\nやってるだけですから	Flocke	I do all that because I want to, though.	芙洛可	那是芙洛可自愿做的。	芙洛可	芙洛可只是按照自己的心意去做而已。
+Date_NPC5_02ID	72	Lanze	ランツェ	謙遜しなくていいんだぜ？	Lanze	Aw, you don't gotta be so modest.	兰泽	你不用谦虚啦。	藍澤	妳不需要謙虛喔？
+Date_NPC5_02ID	73	Flocke	フロッケ	いえ！　本当にしたくて、やってるので！	Flocke	No, I mean it! I really do!	芙洛可	不是！真的是芙洛可自愿的！	芙洛可	沒有！這真的是、芙洛可想做的！
+Date_NPC5_02ID	74	Lanze	ランツェ	そうか……いい子だな。天使ちゃんは	Lanze	Ah, you're such a good kid. An honest-to-goodness angel.	兰泽	是吗……小天使真是个好孩子啊。	藍澤	這樣啊……小天使真是好孩子呢。
+Date_NPC5_02ID	75	Flocke	フロッケ	それにしてもびっくりしました。\nまさか釣った日の天気まで聞かれるなんて	Flocke	That question really surprised me, though. I never imagined that anyone would ask about the weather.	芙洛可	不过真是吓了我一跳。\n没想到客人居然会问钓鱼时的天气。	芙洛可	話說回來，我真的嚇了一跳。\n沒想到連釣魚的天氣都有人會問。
+Date_NPC5_02ID	76	Flocke	フロッケ	仕事柄、魚のことは\nある程度知っているつもりでしたが……\nまだまだ勉強が足りませんね	Flocke	I thought I knew enough about fish to sell it, but I guess I still have a lot to learn.	芙洛可	还以为自从开始做这份工作后\n我算是比较了解鱼的人了……看来还远远不够呢。	芙洛可	我身為商人，還以為自己\n對魚已經有一定程度的了解……\n看來我學習得還不夠呢。
+Date_NPC5_02ID	77	Lanze	ランツェ	まぁ、あの魚にあんな特徴があるなんて、\nそんなに有名な話じゃねえからな。\n普通は漁師か船乗りしか知らねえさ	Lanze	Well, that thing about the stripes ain't so well-known. The only people who'd know that are fishermen or sailors.	兰泽	不过，那种鱼有那种特征，\n也不算是大家都知道的小知识。\n一般来说只有渔夫和船员才会知道。	藍澤	不過，那種魚有那樣的特徵\n也不是什麼普遍的常識，\n通常只有漁夫或水手才會知道啦。
+Date_NPC5_02ID	78	Flocke	フロッケ	沖の方でしか釣れないですもんね。\nこれからは魚を卸してもらうとき、\n教えてもらう必要があるかもしれません……	Flocke	Right. These fish are only found out at sea, too. Maybe I should ask my supplier when I pick them up from now on...	芙洛可	因为那种鱼只能在近海才能钓到嘛。\n看来以后进货的时候最好再多问两句……	芙洛可	畢竟牠是遠洋的魚種嘛。\n以後跟批發商進貨時，\n或許有必要好好請教一下了……
+Date_NPC5_02ID	79	Flocke	フロッケ	フロッケも釣りをしますが、\n沖の方の魚は縁遠いですから	Flocke	I do some of my own fishing too, but it's always from the dock or the shore.	芙洛可	芙洛可虽然也钓鱼，但从没去近海钓过。	芙洛可	雖然芙洛可也會釣魚，\n但沒什麼機會跑到外海去。
+Date_NPC5_02ID	80	Lanze	ランツェ	（行商人は大変だな。たくさんある商品の\n　中のひとつにそこまで知識を求められる。\n　だったら……）	Lanze	(Bein' a merchant's no joke. You gotta sell a bunch of stuff and know everything about it, too. In that case...)	兰泽	（旅行商人可真不容易。卖的东西杂，\n　会的又要精。既然如此……）	藍澤	（旅行商人真是辛苦。\n　那不過是眾多商品裡的其中一件，\n　卻都需要具備如此深厚的知識。既然如此……）
+Date_NPC5_03ID	0	Lanze	ランツェ	天使ちゃん、明日は市場が休みなんだって？	Lanze	You're takin' tomorrow off, right?	兰泽	小天使，明天市场是不是不开？	藍澤	小天使，聽說明天是市場的休市日？
+Date_NPC5_03ID	1	Flocke	フロッケ	ええ、仕入れができないので、\nフロッケも明日はお休みです	Flocke	Yep! The market's closed, so I'll be taking a holiday as well.	芙洛可	嗯。没办法进货，\n所以芙洛可明天也休息。	芙洛可	嗯，明天沒辦法進貨，\n所以芙洛可也休息一天。
+Date_NPC5_03ID	2	Lanze	ランツェ	だったら船出すからよ、\nこの前の魚、釣りに行かねえか？	Lanze	What would you say to takin' the boat out and doin' some fishin' with me?	兰泽	那要不要去钓刚才说的那种鱼？\n我来开船。	藍澤	那要不要我來開船，\n一起去釣剛才的那種魚？
+Date_NPC5_03ID	3	Flocke	フロッケ	えっ、いいんですか！	Flocke	Oh! That would be wonderful!	芙洛可	咦，可以吗！	芙洛可	咦，可以嗎！？
+Date_NPC5_03ID	4	Flocke	フロッケ	でも、フロッケのためにわざわざ船を\n出していただくのは……	Flocke	Um, as long as you're not going to all that trouble just for me.	芙洛可	但是，还要麻烦你特意开船出来……	芙洛可	但是，還要麻煩你特地為了芙洛可\n把船開出來……
+Date_NPC5_03ID	5	Lanze	ランツェ	気にすんな。航海の肩慣らしになるし、\nちょうど俺も釣りがしたかったんだ	Lanze	It's no trouble. My navigatin' could some brushin' up, and I wanted to do some fishin' anyway.	兰泽	不麻烦。就当是练练开船的技术，\n而且刚好我也想钓鱼了。	藍澤	別放在心上。我可以練練開船的手感，\n而且也剛好想去釣魚。
+Date_NPC5_03ID	6	Flocke	フロッケ	でしたら、ありがとうございます！\nぜひついていかせてください！！	Flocke	Then I'd be happy to take you up on the offer! I'd absolutely love to go!	芙洛可	那就谢谢你了！\n请务必带我一起去！！	芙洛可	如果是這樣就太感謝了！\n請務必讓我一起同行！！
+Date_NPC5_03ID	7	Flocke	フロッケ	あ、そうだ。船のことはあまり手伝えないので、\n代わりにお弁当を――	Flocke	Oh, I know! I can't really help with the boat, but I could pack us some lunches—	芙洛可	啊，对了。开船我帮不上忙，\n我就做便当带去——	芙洛可	啊，對了。雖然我在航海方面幫不上忙，\n但是準備便當的工作──
+Date_NPC5_03ID	8	Lanze	ランツェ	手ぶらで大丈夫だ。\n俺がとっておきの船乗り飯を食わせてやる	Lanze	Nope, you don't gotta bring a thing. I'll whip you up a real mariner's meal.	兰泽	你就空着手来吧。\n我会准备水手餐的。	藍澤	妳空手來就好，我會幫妳準備\n我的私房船員特餐。
+Date_NPC5_03ID	9	Flocke	フロッケ	船乗り飯……！	Flocke	A mariner's meal...!	芙洛可	水手餐……！	芙洛可	船員特餐……！
+Date_NPC5_03ID	10	Flocke	フロッケ	釣れた！　釣れました！	Flocke	I did it! I caught one!	芙洛可	钓到了！我钓到鱼了！	芙洛可	釣到了！我釣到了！
+Date_NPC5_03ID	11	Flocke	フロッケ	わっ、本当に虹色の縞模様がある！　ランツェさんが\nおっしゃていた通り、すごく綺麗です……！	Flocke	Wow! The stripes really are rainbow, just like you said, Lanze! They're so pretty!	芙洛可	哇，真的有彩虹条纹！\n和兰泽先生说的一样，好漂亮……！	芙洛可	哇，真的有七彩的紋路！\n跟藍澤先生說的一樣，牠們非常漂亮……！
+Date_NPC5_03ID	12	Lanze	ランツェ	天使ちゃん、ちょっとコツを教えただけですぐ上達\nしたな。なかなか海の女の素質があるんじゃねえか？	Lanze	Man, all I did was show you the ropes, and you're already haulin' them in. I think you've got the makings of a woman of the sea.	兰泽	稍微教了点窍门你就熟练掌握钓鱼了。\n看来小天使很有海上女儿的天分啊。	藍澤	小天使剛學會沒多久就抓到訣竅了呢。\n妳其實很有當女水手的資質吧？
+Date_NPC5_03ID	13	Flocke	フロッケ	本当ですか？　えへへ……	Flocke	You really mean it? Ehehe...	芙洛可	真的吗？嘿嘿……	芙洛可	真的嗎？嘿嘿……
+Date_NPC5_03ID	14	Flocke	フロッケ	よーし、もっといっぱい釣りますよー！	Flocke	Okay! I'm going to catch even more!	芙洛可	好，芙洛可要钓更多的鱼！	芙洛可	好～我要釣到更多大魚！
+Date_NPC5_03ID	15	Flocke	フロッケ	これでよし、と。\n後は竿が動くのを待つだけですね	Flocke	There we go. Now I just have to wait for the fish to bite!	芙洛可	好，接下来就是等鱼上钩了。	芙洛可	這樣就好了，\n再來只需要靜靜等待魚竿晃動。
+Date_NPC5_03ID	16	Lanze	ランツェ	……そういや、前から思ってたんだが。\n天使ちゃんは少し働き者すぎないか？	Lanze	That reminds me... I was thinkin' about this before, but aren't ya workin' too hard?	兰泽	说起来……我一直觉得，\n小天使你是不是努力过头了？	藍澤	……說起來，我之前就一直在想，\n小天使妳其實是工作狂吧？
+Date_NPC5_03ID	17	Flocke	フロッケ	え？	Flocke	Huh?	芙洛可	咦？	芙洛可	咦？
+Date_NPC5_03ID	18	Lanze	ランツェ	俺も天使ちゃんくらいの年には船乗りとして働いてたが\n隙を見つけてはよくサボったり遊んだりしてたんだ	Lanze	Sure, I was workin' on boats when I was your age, but the second I saw a chance to kick back, I would.	兰泽	我跟小天使差不多大的时候虽然已经上船工作了，\n但总是钻空子跑出去偷懒玩乐。	藍澤	我也是差不多在妳這個年紀開始跑船當水手的，\n但是我經常會找機會摸魚玩耍。
+Date_NPC5_03ID	19	Lanze	ランツェ	それこそこんな風に釣りばかりしてよ。\n俺だけじゃなくて、周りの仲間たちも	Lanze	So me and my buds spent a lot of time fishin' together, just like this.	兰泽	比如像这样钓钓鱼之类的。\n不光是我，身边的朋友们也都这么干。	藍澤	就是這樣才會除了釣魚什麼都不懂。\n不只我，身邊的其他同伴也是。
+Date_NPC5_03ID	20	Lanze	ランツェ	でも天使ちゃんがサボってるとこなんか見たこと\nねえから、ちょっと不安になっちまってよ	Lanze	But I never ever see you slackin' off, so I was gettin' kind of worried.	兰泽	但我从没见过小天使你偷懒，\n稍微有点担心。	藍澤	但是，我從來沒有看過妳偷懶的樣子，\n所以有點擔心。
+Date_NPC5_03ID	21	Flocke	フロッケ	……フロッケはみんなで暮らしている今が\n人生で一番幸せで、毎日楽しいんです	Flocke	Living with everyone has made me the happiest I've ever been. Every day is a lot of fun!	芙洛可	……对芙洛可来说，现在能和大家住在一起\n已经是人生中最幸福的时光了，每天都很开心。	芙洛可	……現在能和大家住在一起，是芙洛可的人生中\n最幸福的時刻。每天都過得很開心。
+Date_NPC5_03ID	22	Flocke	フロッケ	フロッケばっかり皆さんから色んなものをもらっている\n気がするから……お返ししないとと思ってて	Flocke	I don't want to feel like I'm always just being given things, though. So I thought I had to return the favor.	芙洛可	芙洛可受了大家很多帮助……\n所以也想尽可能报答大家。	芙洛可	不過，總覺得芙洛可老是受到大家的關照……\n所以得想辦法報答才行。
+Date_NPC5_03ID	23	Flocke	フロッケ	それにいい子にしていれば、いつかまた、\n両親と会えるかもしれませんから	Flocke	And I thought that maybe, if I was on my best behavior, I'd be able to see my parents again someday.	芙洛可	而且只要当个好孩子，\n说不定以后还能见到爸爸妈妈。	芙洛可	而且，只要我當個乖孩子，\n說不定未來有一天還能再見到父母呢。
+Date_NPC5_03ID	24	Lanze	ランツェ	そうか……	Lanze	Right...	兰泽	是吗……	藍澤	這樣啊……
+Date_NPC5_03ID	25	Lanze	ランツェ	（そういう気持ち自体はいいことだからなぁ。\n　否定するつもりはないが……）	Lanze	(I mean, wantin' to repay folks ain't a bad thing on its own. I'm not about to argue that.)	兰泽	（她的想法本身没问题，\n　我也不想否定她……）	藍澤	（這個想法本身是挺好的，\n　我也不打算否定她，只是……）
+Date_NPC5_03ID	26	Lanze	ランツェ	（あまり根を詰めすぎないように、今回みたいに\n　適度に気晴らしに誘ってやらないとな）	Lanze	(Still, I don't want Flocke to push herself harder than she oughta. I guess I'm just gonna have to keep invitin' her out for more relaxin' diversions like this.)	兰泽	（以后时不时像今天一样邀请她出来转换心情，\n　让她放松一下吧。）	藍澤	（為了不要讓她把自己逼得太緊，\n　我得像這樣多帶她出來散散心才行。）
+Date_NPC5_03ID	27	Lanze	ランツェ	どうだ、釣ってすぐ捌いた味は？	Lanze	So, how's that fresh-caught fish tastin'?	兰泽	用现钓的鱼做的料理味道怎么样？	藍澤	如何，新鮮現釣的魚好吃嗎？
+Date_NPC5_03ID	28	Flocke	フロッケ	最高です！！	Flocke	It's the best!	芙洛可	简直是绝品！！	芙洛可	超好吃！！
+Date_NPC5_03ID	29	Flocke	フロッケ	身が締まっていて、脂も乗っていて、\n口の中いっぱい、幸せの味です……！	Flocke	It's nice and firm, but fatty enough that it just melts in your mouth! It's delicious!	芙洛可	肉质紧实，脂肪肥厚，\n嘴里充满了幸福的味道……！	芙洛可	肉質緊實、油脂飽滿，\n幸福的味道在嘴裡蔓延開來……！
+Date_NPC5_03ID	30	Lanze	ランツェ	そうかそうか、よかった	Lanze	Good, I'm glad to hear it.	兰泽	是吗，好吃就好。	藍澤	這樣啊，真是太好了。
+Date_NPC5_03ID	31	Flocke	フロッケ	今度王都でお祭りがあるので、いっぱい釣って\n干物にして売ろうと思います！	Flocke	There's a festival coming up, so I'm going to fish up a ton! If I dehydrate them, I think they'll sell really well!	芙洛可	之后王都要举办庆典，\n我想多钓一点做成干货去卖！	芙洛可	這次王都有舉辦慶典活動，\n我想多釣一些魚，做成魚乾來賣！
+Date_NPC5_03ID	32	Lanze	ランツェ	だったら当日一番にまた船を出そうか？　\nこいつは刺身が一番美味いからな	Lanze	Then why don't we head out on the boat again that day, too? These guys taste the best when they're served raw.	兰泽	要不然那天早点出海钓鱼怎么样？\n这种鱼做成生鱼片最好吃。	藍澤	既然如此，我們當天一早再出海一次吧？\n這種魚做成生魚片最美味了。
+Date_NPC5_03ID	33	Flocke	フロッケ	本当ですか！？\nありがとうございます……！	Flocke	You wouldn't mind?! Thank you so much!	芙洛可	真的吗？！\n谢谢你……！	芙洛可	真的嗎！？實在太感謝了……！
+Date_NPC5_03ID	34	Lanze	ランツェ	（こういう形なら、力になれるかもしれねえな。\n　この調子で必要に応じて手助けするか）	Lanze	(Y'know, maybe this is the way to support her. Well, I'm happy to help however I can.)	兰泽	（这样也算是帮上小天使的忙了吧。\n　小天使有需要的时候，就像这样出份力吧。）	藍澤	（這樣說不定可以幫上她的忙，\n　以後就照這種方式來滿足她的需求吧。）
+Date_NPC5_04ID	0		ナレーション	祭り当日	Narrator	Day of the Festival	旁白	庆典当天	旁白	祭典當天。
+Date_NPC5_04ID	1	Lanze	ランツェ	さて、天使ちゃんの店は……\nあれ、どこだ？	Lanze	Let's see, our angel's stall oughta be... Huh? Where's she at?	兰泽	小天使的摊子……\n咦，在哪儿来着？	藍澤	好了，小天使的店……咦，在哪裡啊？
+Date_NPC5_04ID	2	Lanze	ランツェ	（おかしい、全然見当たらない）	Lanze	(Weird, I don't see her at all.)	兰泽	（奇怪了，怎么找不到。）	藍澤	（真奇怪，完全找不到。）
+Date_NPC5_04ID	3	Flocke	フロッケ	あっ、ランツェさん！\n遊びに来てくださったんですね	Flocke	Oh! Lanze! Thank you for stopping by!	芙洛可	啊，兰泽先生！\n你来玩啦！	芙洛可	啊，藍澤先生！你來找我玩了呀。
+Date_NPC5_04ID	4	Lanze	ランツェ	天使ちゃん！\nこんなところにいたのか	Lanze	There you are! I've been lookin' everywhere for ya!	兰泽	小天使！\n原来你在这里啊。	藍澤	小天使！原來妳在這裡啊。
+Date_NPC5_04ID	5	Flocke	フロッケ	すみません、分かりづらかったですよね	Flocke	Sorry, it's not the easiest spot to find.	芙洛可	抱歉，这里不好找吧。	芙洛可	不好意思，我的位置很難找吧。
+Date_NPC5_04ID	6	Lanze	ランツェ	なんで天使ちゃんの店はこんな隅なんだ？\n他の店はもっと広場の近くとか……\nああ、在庫もたくさん残っちまってるな	Lanze	What're you doin' crammed into a corner like this anyway? Most folks're way closer to the square. Yeesh, you've got a bunch of stuff left to sell, too.	兰泽	为什么小天使的摊子在这种角落里？\n别的摊子都离广场更近……\n啊，商品也有好多没卖出去。	藍澤	妳的攤位怎麼會在這麼不起眼的地方？\n其他人都在廣場附近……\n啊，庫存也還剩下好多。
+Date_NPC5_04ID	7	Flocke	フロッケ	実は、場所決めのくじ引きで、\n一番端の場所を引いてしまいまして……	Flocke	Um, they actually assign the spaces through a lottery...and I drew the worst one.	芙洛可	其实是我抽签的时候抽到了最偏僻的位置……	芙洛可	其實是因為，我剛好抽到了最角落的位置……
+Date_NPC5_04ID	8	Lanze	ランツェ	くじか……ツイてなかったな。\n俺でよければ何か力になるぜ。\nまずはこの在庫をどうするか考えないとだな	Lanze	Ah, so luck just ain't on your side today. Well, maybe I can help ya somehow. There's gotta be a way to get that stock down.	兰泽	抽签啊……那真是运气不好。\n我也来帮忙。\n先想想怎么处理积压的商品吧。	藍澤	原來是抽籤的啊……真是不走運。\n不介意的話，我可以幫忙喔。\n得先想個辦法處理這些庫存才行。
+Date_NPC5_04ID	9	Flocke	フロッケ	ありがとうございます、ランツェさん。\nでも大丈夫です。\nフロッケは一人で頑張ります	Flocke	Thank you, but I'll manage. I can figure this out on my own!	芙洛可	谢谢你，兰泽先生。\n不过没关系，芙洛可一个人可以的。	芙洛可	謝謝你，藍澤先生。\n不過沒關係，芙洛可會自己努力的。
+Date_NPC5_04ID	10		選択肢	冷静だ、大人だな	Selection	Look at you, all cool and mature.	选项	真是冷静又成熟啊	選項	真冷靜，妳長大了呢。
+Date_NPC5_04ID	11	Lanze	ランツェ	冷静だ、大人だな	Lanze	Look at you, bein' all cool and mature about it.	兰泽	真是冷静又成熟啊。	藍澤	真冷靜，妳長大了呢。
+Date_NPC5_04ID	12	Flocke	フロッケ	そうですよ、フロッケは大人なのです。\n商人たるもの、これくらいの困難\n乗り越えてみせます！	Flocke	That's right! I'm a real grown-up! A good merchant can deal with these sorts of setbacks!	芙洛可	是啊，芙洛可已经是大人了。\n身为商人，这点小困难不在话下！	芙洛可	沒錯，芙洛可已經是大人了。\n身為商人，這點困難一定能克服的！
+Date_NPC5_04ID	13	Lanze	ランツェ	（なんてことなさそうに言っているが、\n　空元気な感じがする）	Lanze	(She's tryin' to brush it off like it's no big deal, but I get the feeling that she's fakin' it.)	兰泽	（虽然她嘴上说没事，\n　但看起来只是在故作精神。）	藍澤	（她說得一派輕鬆，\n　但聽起來卻有種故作堅強的感覺。）
+Date_NPC5_04ID	14			無理はするな		Don't push yourself too hard, y'hear?		别勉强自己		不要勉強。
+Date_NPC5_04ID	15	Lanze	ランツェ	分かった。だが無理はするなよ	Lanze	If you say so. Just don't push yourself too hard, y'hear?	兰泽	我知道，但你不要勉强自己。	藍澤	我知道了，不要勉強自己喔。
+Date_NPC5_04ID	16	Flocke	フロッケ	！　……はい	Flocke	Oh! I won't.	芙洛可	唔……！好的……	芙洛可	……嗯！
+Date_NPC5_04ID	17	Flocke	フロッケ	フロッケはこなしてみせます。\n大丈夫です	Flocke	Don't worry, I'll be okay.	芙洛可	芙洛可会想办法的，没关系。	芙洛可	沒問題，芙洛可會把庫存通通賣光。
+Date_NPC5_04ID	18	Lanze	ランツェ	（天使ちゃんの気持ちを尊重しよう。\n　だがやっぱり少し不安だ）	Lanze	(As much as I wanna respect her resolve, I'm still kinda worried.)	兰泽	（我想尊重小天使的想法，\n　但总归有些放不下心。）	藍澤	（尊重小天使的決定吧。\n　不過，我還是有點擔心。）
+Date_NPC5_04ID	19		選択肢	腕の見せどころだな！	Selection	This is your time to shine!	选项	正是大显身手的时候！	選項	正是展現實力的機會！
+Date_NPC5_04ID	20	Lanze	ランツェ	こういう時こそ、腕の見せどころだな！	Lanze	This is your time to shine! You've got the skills to turn this around!	兰泽	现在正是大显身手的时候！	藍澤	這種時候才是展現實力的機會啊！
+Date_NPC5_04ID	21	Flocke	フロッケ	ええ、そうです。\nこういう時のために鍛えてきたので！\nやってみせます！	Flocke	Yeah, you're right. Like they say, pressure makes diamonds! I'm going to give it my all!	芙洛可	没错。养兵千日用兵一时！\n芙洛可会努力的！	芙洛可	嗯，沒錯。\n每天的訓練就是為了這一刻！\n我一定會好好表現的！
+Date_NPC5_04ID	22	Lanze	ランツェ	（前向きな口ぶりだが……\n　自分に言い聞かせているみたいだ）	Lanze	(That all sounds good and positive, but I'm not really hearin' much conviction in her voice.)	兰泽	（虽然态度很积极……\n　但像是说给自己打气听的。）	藍澤	（這語氣聽來很積極樂觀……\n　但就像是說給自己聽的一樣。）
+Date_NPC5_04ID	23	Lanze	ランツェ	（しばらく近くで様子を見てみるか）	Lanze	(Maybe I'll kick around for a bit. See how things go.)	兰泽	（在附近观察一会儿吧。）	藍澤	（暫時先在附近觀察一下吧。）
+Date_NPC5_04ID	24	Flocke	フロッケ	いらっしゃいませ！\n新鮮で美味しいお魚、ご用意してます！	Flocke	Welcome! Come browse our fresh and tasty fish!	芙洛可	瞧一瞧看一看！\n新鲜美味的鱼肉！	芙洛可	歡迎光臨！這裡有新鮮美味的魚喔！
+Date_NPC5_04ID	25	Lanze	ランツェ	（あれから天使ちゃんが必死に呼びかけを\n　しているが……立地のせいもあって、\n　なかなか在庫が減らないな……）	Lanze	(She keeps callin' out to passersby, but that location really isn't doin' her any favors. Barely anyone's stopping.)	兰泽	（那之后小天使一直在拼命吆喝……\n　但位置太偏僻，卖得还是不好……）	藍澤	（在那之後，小天使卯足了勁大聲叫賣……\n　無奈地點實在太偏僻了，\n　庫存還是賣不完……）
+Date_NPC5_04ID	26	Lanze	ランツェ	天使ちゃん、やっぱり手伝うぜ。\n一人じゃきついだろ	Lanze	C'mon, angel. Lemme help ya. Workin' on your own like that can't be easy.	兰泽	小天使，还是让我帮你吧。\n一个人很辛苦吧。	藍澤	小天使，還是讓我來幫忙吧。\n妳一個人太辛苦了。
+Date_NPC5_04ID	27	Flocke	フロッケ	ランツェさん……\nいえ、フロッケは大丈夫ですから	Flocke	Lanze... No, it's okay. I'm fine.	芙洛可	兰泽先生……\n不，芙洛可没事的。	芙洛可	藍澤先生……不，芙洛可沒問題的。
+Date_NPC5_04ID	28	Flocke	フロッケ	売れないのはフロッケの頑張りが\n足りないせいですから、\nフロッケが頑張らないといけないんです	Flocke	If I'm not selling things, that's because I'm not trying hard enough. I just have to do better.	芙洛可	卖不出去是因为芙洛可还不够努力。\n芙洛可一定要更努力才行。	芙洛可	東西賣不出去是因為芙洛可不夠勤奮，\n所以還得更努力才行。
+Date_NPC5_04ID	29		選択肢	えらいな、天使ちゃんは	Selection	You're a one-in-a-million merchant, Flocke.	选项	小天使真了不起啊	選項	小天使真了不起。
+Date_NPC5_04ID	30	Lanze	ランツェ	えらいな、天使ちゃんは	Lanze	You're a one-in-a-million merchant, Flocke.	兰泽	小天使真了不起啊。	藍澤	小天使真了不起。
+Date_NPC5_04ID	31	Flocke	フロッケ	いえ、そんなことないですよ	Flocke	No, I'm nothing special.	芙洛可	才没这回事呢。	芙洛可	不，才沒這回事呢。
+Date_NPC5_04ID	32	Lanze	ランツェ	（あれ、ほめたつもりなんだが……）	Lanze	(Huh? She shot that compliment right down.)	兰泽	（咦，我是想夸她来着……）	藍澤	（咦，我明明是在稱讚她……）
+Date_NPC5_04ID	33		選択肢	いや、運が悪かっただけだ	Selection	Nah, you were just dealt a bad hand this time.	选项	不，你只是运气不好	選項	不，只是運氣不好而已。
+Date_NPC5_04ID	34	Lanze	ランツェ	いや、運が悪かっただけだ。\n天使ちゃんは充分頑張ってるよ	Lanze	Nah, you were just dealt a bad hand this time. You've been workin' plenty hard.	兰泽	不，你只是运气不好。\n小天使已经够努力了。	藍澤	不，妳已經很努力了，\n只是運氣不好而已。
+Date_NPC5_04ID	35	Flocke	フロッケ	でも、運を言い訳にはしたくないんです。\n運も実力のうち、ですよ！	Flocke	I don't want to blame it all on luck, though. I can make my own luck!	芙洛可	但芙洛可不想把运气当做借口。\n运气也是实力的一部分！	芙洛可	我不想拿運氣當失敗的藉口。\n俗話說，運氣也是實力的一環！
+Date_NPC5_04ID	36	Lanze	ランツェ	（殊勝な心掛けだが……\n　本心というより、自分に言い聞かせている\n　感じだ）	Lanze	(That's a fine outlook to have, but it sounds more like she's tryin' to talk herself into it.)	兰泽	（她很坚强……\n　但与其说这是真心话，更像是在自我安慰。）	藍澤	（很棒的心態……\n　只可惜，這句話聽起來\n　更像是在說服自己。）
+Date_NPC5_04ID	37		選択肢	それは本心か？	Selection	Is that really how ya feel?	选项	你真的这么想吗？	選項	妳真心這麼覺得嗎？
+Date_NPC5_04ID	38	Lanze	ランツェ	それは本心か？	Lanze	Is that really how ya feel?	兰泽	你真的这么想吗？	藍澤	妳真心這麼覺得嗎？
+Date_NPC5_04ID	39	Flocke	フロッケ	本心です	Flocke	Yep.	芙洛可	真的。	芙洛可	是的。
+Date_NPC5_04ID	40	Lanze	ランツェ	嘘をついちゃあいけねぇよ	Lanze	C'mon, you know it ain't right to fib.	兰泽	不可以撒谎哦。	藍澤	不可以說謊喔。
+Date_NPC5_04ID	41	Lanze	ランツェ	いい子として頑張りすぎて\n自分の気持ちにまで嘘をつき続けたら、\n身体も心も壊しちまうぞ	Lanze	If you keep ignorin' your own feelings because you're tryin' too hard to be perfect, you're gonna run yourself right into the ground.	兰泽	要是太在意要当个好孩子，\n为此甚至压抑自己真正的心情，\n对身心健康可不好哦。	藍澤	如果為了當乖孩子而拚命壓抑自己的心情，\n時間久了，身心都會出問題喔。
+Date_NPC5_04ID	42	Flocke	フロッケ	ランツェさん……	Flocke	Lanze...	芙洛可	兰泽先生……	芙洛可	藍澤先生……
+Date_NPC5_04ID	43	Lanze	ランツェ	天使ちゃんは、\n頼ることを恐れてないか？	Lanze	Are you scared to ask folks for help?	兰泽	小天使，你是不是害怕依靠别人？	藍澤	小天使很怕麻煩別人嗎？
+Date_NPC5_04ID	44	Flocke	フロッケ	恐れるなんて、そんな……	Flocke	O-Of course not...	芙洛可	没这回事……	芙洛可	我才沒有怕……
+Date_NPC5_04ID	45		選択肢	辛い時に頼ることは悪いことじゃない	Selection	There's no shame in leanin' on people.	选项	辛苦的时候依靠别人也没问题	選項	難受時依賴別人並不是壞事。
+Date_NPC5_04ID	46	Lanze	ランツェ	辛い時に頼ることは悪いことじゃない。\n辛い時に、本心を言ってくれないと\n俺は寂しい	Lanze	There's no shame in leanin' on people when you need the support. If you don't tell me how you're really feelin' when you're sad, I'll be sad too.	兰泽	辛苦的时候依靠别人也没问题。\n如果你辛苦的时候不告诉我真话，\n我可是会觉得寂寞的。	藍澤	難受時依賴別人並不是壞事。\n如果妳總是把苦往肚子裡吞，\n我會覺得很寂寞的。
+Date_NPC5_04ID	47	Lanze	ランツェ	練習だと思って、自分の正直な気持ちを\n言ってみろ。何を聞いても、天使ちゃんの\nことを嫌いになんてならねえから	Lanze	C'mon, why don't you give it a shot? You can tell me anything and I won't think any less of ya, I promise.	兰泽	就当是练习，试试看说出真心话吧。\n无论听到什么，我都绝对不会讨厌小天使。	藍澤	小天使就把這當成練習，\n說出自己真實的想法吧。\n無論說了什麼，我都不會討厭妳的。
+Date_NPC5_04ID	48		選択肢	よく我慢してるな	Selection	You're dead set on sticking it out, huh?	选项	你很能忍啊	選項	真虧妳忍得住呢。
+Date_NPC5_04ID	49	Lanze	ランツェ	よく我慢してるな	Lanze	You're dead set on sticking it out, huh?	兰泽	你很能忍啊。	藍澤	真虧妳忍得住呢。
+Date_NPC5_04ID	50	Flocke	フロッケ	はい、我慢するのは得意なので。\nフロッケは頑張ります……	Flocke	Yep. Perseverance is one thing I'm really good at! So I'm going to keep trying.	芙洛可	是的，芙洛可很擅长忍耐。\n我会加油的……	芙洛可	嗯，芙洛可很擅長忍耐。\n芙洛可會繼續加油的……
+Date_NPC5_04ID	51	Flocke	フロッケ	……これでいいんですよね。\n間違ってないですよね	Flocke	Everything's...fine. I have nothing to complain about.	芙洛可	这样就好……\n这么做才是对的。	芙洛可	……這樣就行了吧，這樣做沒有錯吧？
+Date_NPC5_04ID	52	Lanze	ランツェ	（引っ掛かるものがあるみたいだな……）	Lanze	(She's really stuck on that, huh?)	兰泽	（看样子似乎别有隐情……）	藍澤	（看來她經歷過一些傷痛……）
+Date_NPC5_04ID	53		選択肢	じゃあ、無理矢理手伝っちゃおう	Selection	Guess I'm just gonna have to force some help onto ya.	选项	那我要强行帮忙了	選項	那我就自己過來幫忙囉。
+Date_NPC5_04ID	54	Lanze	ランツェ	じゃあ、無理矢理手伝っちゃおう	Lanze	Well, guess I'm just gonna have to force some help onto ya.	兰泽	那我要强行帮忙了。	藍澤	那我就自己過來幫忙囉。
+Date_NPC5_04ID	55	Flocke	フロッケ	いえ、大丈夫です！\nランツェさんにお手数をかけさせたくは\nありません	Flocke	You really don't have to! I don't want to be a bother.	芙洛可	不，没关系的！\n我不想麻烦兰泽先生。	芙洛可	不用了，芙洛可沒問題的！\n不想麻煩藍澤先生。
+Date_NPC5_04ID	56	Flocke	フロッケ	これは、フロッケが頑張らなくちゃいけない\n領分なんです……	Flocke	This is my job, so I should be the one to do the work.	芙洛可	现在该努力的是芙洛可才对……	芙洛可	這是芙洛可必須努力的份內工作……
+Date_NPC5_04ID	57	Lanze	ランツェ	（しまった、天使ちゃんにこんな顔を\n　させちまった……）	Lanze	(Shoot, I didn't mean to make our angel look so down in the dumps.)	兰泽	（糟了，我害得小天使露出了这种表情……）	藍澤	（糟糕，我竟然讓小天使露出了這種表情……）
+Date_NPC5_04ID	58	Flocke	フロッケ	……売れ残りそうなので、\n助けてほしいです	Flocke	Um, it looks like I'm going to have stock left over, so I might need some help.	芙洛可	东西好像要卖不完了……请你帮帮我。	芙洛可	……看樣子應該是賣不完了，\n希望你能幫幫我。
+Date_NPC5_04ID	59	Flocke	フロッケ	フロッケはダメな子です。\n昔も、行商で大きく失敗しちゃって、\n両親に呆れられてしまって……	Flocke	I'm no good. Whenever I messed up like this before, my parents would get really upset with me.	芙洛可	芙洛可是个没用的孩子。\n以前也曾经搞砸过生意，\n让爸爸妈妈非常失望……	芙洛可	芙洛可真沒用。\n以前也因為經商徹底失敗\n讓父母感到失望……
+Date_NPC5_04ID	60	Flocke	フロッケ	もうフロッケはそんな風にはなりたくない、\n嫌われたくないんです……	Flocke	I never wanted that to happen ever again. I don't want anyone to hate me...	芙洛可	芙洛可不想重蹈覆辙，\n不想再被讨厌了……	芙洛可	芙洛可不想再變成那樣、\n不想被任何人討厭了……
+Date_NPC5_04ID	61	Flocke	フロッケ	ラ、ランツェさん！？\nなんで急に頭を撫で――	Flocke	Um, Lanze?! What are you patting my head for?	芙洛可	兰、兰泽先生？！\n为什么突然摸我的头——	芙洛可	藍、藍澤先生！？\n為什麼突然摸芙洛可的頭──
+Date_NPC5_04ID	62	Lanze	ランツェ	よく言えたな、偉いぞ	Lanze	Great job. I'm proud of you for speakin' up.	兰泽	终于说出口了，你很了不起哦。	藍澤	說的很好，妳真了不起。
+Date_NPC5_04ID	63	Lanze	ランツェ	よし、それじゃいい子へのご褒美に\n一肌脱ぐか！	Lanze	Good kids deserve rewards, so I'm gonna roll up my sleeves for ya!	兰泽	嗯，好孩子就要好好奖励！	藍澤	好，那我就助妳一臂之力\n當作是給好孩子的獎賞吧！
+Date_NPC5_04ID	64	Flocke	フロッケ	すごい……ランツェさんがお友達を\nいっぱい呼んでくださったおかげで、\n完売しちゃいました……	Flocke	Oh, wow... You have so many friends! And they bought out my stock completely!	芙洛可	好厉害……\n兰泽先生叫了好多朋友过来，\n一眨眼就卖完了……	芙洛可	好厲害……\n多虧了藍澤先生叫來這麼多朋友，\n一瞬間就賣光了……
+Date_NPC5_04ID	65	Lanze	ランツェ	行きつけだった酒場の店長やら、\n元飲み仲間やら……	Lanze	Well, I'm still on good terms with all my old drinkin' buddies. Same with the owner of the tavern I used to be a regular at.	兰泽	我以前常去的酒馆的老板，\n还有以前的酒友……	藍澤	他們是我以前常去的酒館的老闆和酒友……
+Date_NPC5_04ID	66	Lanze	ランツェ	どうしようもない過去が、こんな形で\n役に立つなんてな。はっはっは	Lanze	It might not've been the highest point in my history, but it sure came in handy, huh? Hahaha!	兰泽	虽说以前我活得很不像话，但没想到\n还能以这种形式派上用场，哈哈哈。	藍澤	沒想到那段不堪回首的過去\n還能派上用場，哈哈哈。
+Date_NPC5_04ID	67	Flocke	フロッケ	ランツェさん、本当にありがとうございます	Flocke	Thank you very much, Lanze.	芙洛可	兰泽先生，真的很谢谢你。	芙洛可	藍澤先生，真的非常謝謝你。
+Date_NPC5_04ID	68	Flocke	フロッケ	フロッケは……\n今まで自分の感情を表に出すのが\n苦手だったんです	Flocke	I've...never been very good at letting my emotions show.	芙洛可	一直以来……芙洛可都不敢\n表露自己真正的想法。	芙洛可	芙洛可……一直以來都不太懂要怎麼\n表達自己的情緒。
+Date_NPC5_04ID	69	Flocke	フロッケ	いい子じゃなくなるのが怖かったですし、\n誰かから嫌われたり、\n怒られたりするのも怖くて	Flocke	I was just so scared that people would hate me or get angry if I wasn't polite and smiling all the time.	芙洛可	芙洛可害怕自己不再是好孩子，\n害怕被人讨厌、惹人生气。	芙洛可	我很害怕自己成為別人眼中的壞小孩，\n或是遭到厭惡和責罵。
+Date_NPC5_04ID	70	Flocke	フロッケ	だから、ランツェさんに\nああやって言ってもらえて嬉しかったです	Flocke	So I really appreciate what you said, Lanze.	芙洛可	所以，兰泽先生的话真的让我很高兴。	芙洛可	所以，我真的很高興能聽到藍澤先生那麼說。
+Date_NPC5_04ID	71	Lanze	ランツェ	俺たちがどれだけ天使ちゃんに\n助けられてると思ってんだ。\n天使ちゃんもどんどん頼ってくれよ　	Lanze	We all owe you a lot, little angel. We wanna return those favors too, y'know.　	兰泽	你也不想想你帮了我们多少了。\n小天使也尽情依赖我们吧。　	藍澤	小天使妳都不知道自己幫了我們多少忙。\n妳也儘管依賴我們吧。　
+Date_NPC5_04ID	72	Flocke	フロッケ	えへへ、ありがとうございます	Flocke	Ehehe. Thank you very much.	芙洛可	嘿嘿，谢谢你。	芙洛可	嘿嘿，謝謝你。
+Date_NPC5_04ID	73	Flocke	フロッケ	あ、あの、じゃあ３日に一度、\n夜の家事をやってくれると助かります。\n夜は、疲れが翌日に残るので	Flocke	U-Um, then...it would really help if you could do the evening chores once every three days. Doing too much work too late at night adds up after a while.	芙洛可	那，这样的话，能不能麻烦你每3天\n晚上帮忙做一次家务呢？\n我晚上搞卫生的话第二天会很累。	芙洛可	既、既然這樣，我希望你能每三天\n就幫我做一次晚上要做的家務。\n因為睡前太累隔天會很沒精神。
+Date_NPC5_04ID	74	Lanze	ランツェ	ああ、任せておけ	Lanze	Sure. Leave it all to me.	兰泽	好，交给我吧。	藍澤	嗯，交給我吧。
+Date_NPC5_04ID	75	Flocke	フロッケ	はい！\nランツェさん、ありがとうございます！	Flocke	Okay! Thank you, Lanze!	芙洛可	好的！\n谢谢你，兰泽先生！	芙洛可	好的！藍澤先生，非常謝謝你！
+Date_NPC5_04ID	76	Lanze	ランツェ	（よしよし、こんな感じで頼ってくれ）	Lanze	(That's the spirit, kid. Let's keep those favors comin'.)	兰泽	（很好，就这样多依赖我一点吧。）	藍澤	（好乖好乖，就這樣多多依賴我吧。）
+Date_NPC5_04ID	77	Flocke	フロッケ	ごめんなさい、\nランツェさんに心配をかけてしまって……	Flocke	I'm sorry for making you worry, Lanze.	芙洛可	对不起，让兰泽先生担心了……	芙洛可	對不起，讓藍澤先生擔心了……
+Date_NPC5_04ID	78	Flocke	フロッケ	フロッケはもう、大丈夫ですから。\nあとはひたすら、頑張るだけです	Flocke	I'm feeling a lot better now. I'm going to do my best right until the very end!	芙洛可	芙洛可没事。\n只要继续努力就好了。	芙洛可	芙洛可已經沒事了。\n接下來只要一心一意地努力就好。
+Date_NPC5_04ID	79	Flocke	フロッケ	……あ、いらっしゃいませ！\n獲れたてで新鮮ですよー！\nお土産にいかがですかー？	Flocke	Oh! Welcome! How would you like some freshly caught fish to take home as a special treat?	芙洛可	……啊，瞧一瞧看一看！\n刚钓到的新鲜的鱼！\n买一条带回家如何？	芙洛可	……啊，歡迎光臨！\n剛捕撈的很新鮮喔～！\n要不要買來當伴手禮呢～？
+Date_NPC5_04ID	80	Lanze	ランツェ	（明らかに無理してるよな。\n　不安だ……）	Lanze	(She's obviously still pushin' herself, though. I'm gonna be worryin' about this for a while, huh...)	兰泽	（她明显在勉强自己啊。\n　真叫人担心……）	藍澤	（她很明顯在勉強自己呢，\n　真令人操心……）
+Date_NPC5_05ID	0	Flocke	フロッケ	ふんふん～♪	Flocke	Hm-hm-hmmm!	芙洛可	哼哼～	芙洛可	哼哼～
+Date_NPC5_05ID	1	Lanze	ランツェ	ご機嫌だな。\n何かいいことでもあったか？	Lanze	Well, you're in a fine mood. Did something good happen?	兰泽	你心情很好啊。\n有什么好事吗？	藍澤	妳心情還真好。\n遇到什麼好事了嗎？
+Date_NPC5_05ID	2	Flocke	フロッケ	この前ランツェさんが紹介してくれた\nお客さんが通ってくださるようになって、\nおかげさまで売り上げが増えたんです！	Flocke	All those friends of yours that you introduced me to keep coming back! Sales have been better than ever!	芙洛可	前段时间兰泽先生介绍的客人变成了常客，\n所以营业额也增加了！	芙洛可	之前藍澤先生介紹的客人\n現在會定期上門光顧，\n多虧這樣營收增加了！
+Date_NPC5_05ID	3	Flocke	フロッケ	教会にも、いつもより多めに\n寄付できました。\n本当にありがとうございます、ランツェさん	Flocke	I could even make a bigger donation to the church than usual! Thank you for everything, Lanze!	芙洛可	能捐给教会的钱也变多了。\n真的很谢谢你，兰泽先生。	芙洛可	給教會的捐款也比平常還要多。\n真的非常謝謝你，藍澤先生。
+Date_NPC5_05ID	4	Lanze	ランツェ	通ってくれるようになったのは、\n天使ちゃんが頑張ったからだ。\nこりゃまたご褒美をやらないとなぁ……	Lanze	Nah, if they're turnin' into repeats, that's all 'cause of you. Yep, that's another achievement worth rewarding.	兰泽	是因为小天使的努力，他们才变成常客的。\n看来得给小天使奖励才行……	藍澤	客人之所以會定期上門光顧\n都是因為小天使妳自己的努力。\n這下又得給妳獎勵了……
+Date_NPC5_05ID	5	Flocke	フロッケ	そ、そんな！\n助けていただいた上にご褒美なんて！	Flocke	I-It's really not! Things only worked out like that thanks to your help!	芙洛可	不、不用啦！\n兰泽先生帮了我，怎么还能要奖励呢！	芙洛可	不、不行啦！\n都讓你來幫芙洛可了，怎麼還能討獎勵！
+Date_NPC5_05ID	6	Lanze	ランツェ	いいから何でも言ってみろ	Lanze	Eh, no need to keep a tally. C'mon, name your prize.	兰泽	别推辞了，说说你想要什么。	藍澤	別客氣了，儘管提出來吧。
+Date_NPC5_05ID	7	Flocke	フロッケ	えっと、じゃあ……	Flocke	Um, well...	芙洛可	嗯，那……	芙洛可	呃，那麼……
+Date_NPC5_05ID	8	Flocke	フロッケ	お客さんからいい釣り場を\n教えてもらったので、\nよかったら今度……船で行ってみたいです	Flocke	Those customers have been telling me about the best fishing spots, so...it would be nice to go out on the boat and take a look at them.	芙洛可	客人告诉了我一个钓鱼的好地方，\n可以的话……我想坐船去那里看看。	芙洛可	有客人告訴芙洛可一個很棒的釣魚地點，\n你方便的話，下次……\n芙洛可想坐船去看看。
+Date_NPC5_05ID	9	Flocke	フロッケ	また、ランツェさんと釣りをしたいです	Flocke	I'd like to go fishing with you again, Lanze.	芙洛可	我还想和兰泽先生一起钓鱼。	芙洛可	芙洛可還想再跟藍澤先生一起釣魚。
+Date_NPC5_05ID	10	Lanze	ランツェ	おう、いくらでも連れて行ってやる	Lanze	Sure, I'll take you out as many times as you wanna go.	兰泽	哦，你想去哪儿我都带你去。	藍澤	好啊，不管幾次我都會帶妳去的。
+Date_NPC5_05ID	11	Lanze	ランツェ	そんな簡単なことでいいのか？\nもっとわがままを言ってもいいんだぞ	Lanze	Is that all you want, though? That sorta thing's nothin'. You can ask for more, it's fine.	兰泽	就这样就行了？\n提要求可以更任性一点哦。	藍澤	這麼簡單的事情就可以了嗎？\n再任性一點的要求也沒問題喔。
+Date_NPC5_05ID	12	Flocke	フロッケ	そ、それなら……	Flocke	Th-Then, um...	芙洛可	那、那我想……	芙洛可	這、這樣的話……
+Date_NPC5_05ID	13	Flocke	フロッケ	ランツェさんを……なでなでしたいです	Flocke	Could I pat your head?	芙洛可	摸摸兰泽先生的脑袋……！	芙洛可	芙洛可想要……摸摸藍澤先生的頭。
+Date_NPC5_05ID	14	Lanze	ランツェ	え？	Lanze	Huh?	兰泽	咦？	藍澤	咦？
+Date_NPC5_05ID	15	Lanze	ランツェ	もしかして、前に撫でてやったお礼か？\nそれなら別にいらな――	Lanze	Y'mean like how I ruffled your hair last time? I'm good, I don't—	兰泽	难道是因为我之前摸了你脑袋？\n这点小事不用放在心上——	藍澤	難道是之前摸頭的回禮嗎？\n如果是的話，其實不需要──
+Date_NPC5_05ID	16	Flocke	フロッケ	違います	Flocke	No, it's different.	芙洛可	不是的。	芙洛可	不是的。
+Date_NPC5_05ID	17	Lanze	ランツェ	即答だな	Lanze	Yeesh, ya didn't even let me finish.	兰泽	秒答啊。	藍澤	回答得真快。
+Date_NPC5_05ID	18	Flocke	フロッケ	ランツェさんは年上だし、お父さんのような\n存在なので今まで控えていたんですけど、	Flocke	You're a lot older, and you're filling in as everyone's dad, so I've been holding back, but...	芙洛可	兰泽先生年纪比我大，像爸爸一样照顾我……\n所以芙洛可一直忍着。	芙洛可	藍澤先生比較年長，就像芙洛可的父親一樣，\n所以一直以來都克制下來了。
+Date_NPC5_05ID	19	Flocke	フロッケ	本当は頑張っているランツェさんにも、\nフロッケからよしよししたいです	Flocke	You've been working really hard too, so I wanted to pat your head to show you that you're doing a good job.	芙洛可	但看到兰泽先生那么努力，\n其实芙洛可也很想摸摸兰泽先生的脑袋。	芙洛可	但其實芙洛可也想要給非常努力的藍澤先生\n摸摸頭獎勵一下。
+Date_NPC5_05ID	20	Flocke	フロッケ	ご、ごめんなさい！　失礼ですよね！\nずっと年上のランツェさんにこんなことを\n思うなんて	Flocke	I-I'm sorry! That's really rude, isn't it? Of course adults don't want to be treated like that.	芙洛可	对、对不起！我说了很失礼的话！\n兰泽先生比我大这么多，我怎么能这么做呢。	芙洛可	對、對不起！這樣很失禮對吧！\n竟然對年長自己這麼多的藍澤先生\n抱有這種想法。
+Date_NPC5_05ID	21	Flocke	フロッケ	悪いこと、ですよね……？	Flocke	I shouldn't have brought it up at all. Sorry...	芙洛可	这种事，应该是不对的吧……？	芙洛可	這是不對的吧……？
+Date_NPC5_05ID	22	Lanze	ランツェ	別に悪いことじゃねぇけどよ……	Lanze	Well... I guess it wouldn't be the worst.	兰泽	倒也不至于不对……	藍澤	也沒有什麼不對啦……
+Date_NPC5_05ID	23	Lanze	ランツェ	（仕方ない、天使ちゃんが\n　そこまで言うなら……）	Lanze	(I mean, since our angel's askin' so nicely...)	兰泽	（没办法，既然小天使都这么说了……）	藍澤	（真是沒辦法，\n　既然小天使都說到這份上了……）
+Date_NPC5_05ID	24	Flocke	フロッケ	え、いいんですか！？	Flocke	Y-You'll let me?!	芙洛可	咦，真的可以吗？！	芙洛可	咦，真的可以嗎！？
+Date_NPC5_05ID	25	Lanze	ランツェ	ああ……その代わり、ヴァレリアたちが\n帰って来るまでだぞ	Lanze	Go for it. But I've got one condition: as soon as Valeria and Heidi get home, no more.	兰泽	嗯……不过只能到瓦莱莉娅她们回来为止哦。	藍澤	嗯……不過只能摸到瓦萊莉婭她們\n回來之前喔。
+Date_NPC5_05ID	26	Lanze	ランツェ	あいつらに見られたら、何言われるか\n分かったもんじゃねえからな	Lanze	I don't even want to think about what quips they'd have if they stumbled on a sight like that.	兰泽	要是被她们看到了，\n不知道要被调侃成什么样。	藍澤	要是被那幾個傢伙看到，\n天曉得會被說什麼。
+Date_NPC5_05ID	27	Flocke	フロッケ	お父さん、いつも私たち家族のことを気に掛けてくれて\nありがとうございます……なでなで……	Flocke	Thank you for always being so concerned about your family, Papa. There, there...	芙洛可	爸爸，谢谢你一直关心我们……\n摸摸……	芙洛可	爸爸，謝謝你總是惦記著我們一家人……\n摸摸……
+Date_NPC5_05ID	28	Flocke	フロッケ	毎日早起きして、身体を鍛えて、\nお酒もずっと我慢して、えらいえらい……	Flocke	You wake up early every day to do your training drills, and you even gave up drinking. I'm so proud of you.	芙洛可	每天早睡早起、锻炼身体、\n还努力戒酒，真的很了不起哦……	芙洛可	每天早起鍛鍊身體，還一直忍著不喝酒，\n真的很了不起……
+Date_NPC5_05ID	29	Flocke	フロッケ	自分を変えるために努力を続けているところ、\nすっごくかっこいいですよ	Flocke	You've put in a lot of effort to improve yourself, and I think that's really cool.	芙洛可	你一直努力改变自己的样子真的非常帅啊。	芙洛可	你為了改變自己而持續不懈地努力，\n讓芙洛可覺得非常帥氣。
+Date_NPC5_05ID	30	Lanze	ランツェ	（自分の子どもでもおかしくないくらい年が離れている\n　天使ちゃんに撫でてもらうなんて）	Lanze	(We're far enough apart in age that she really could be my kid, but I'm the one gettin' head pats.)	兰泽	（被年纪都能当自己孩子的小天使摸脑袋……）	藍澤	（居然被年紀小到當自己的孩子\n　都不奇怪的小天使摸頭……）
+Date_NPC5_05ID	31	Lanze	ランツェ	（変な気分だが、\n　天使ちゃんが嬉しそうだからいいか……）	Lanze	(Gotta say, it feels strange, but it's makin' our angel happy and that's all that matters.)	兰泽	（虽然感觉怪怪的，但她开心就好……）	藍澤	（感覺有點怪怪的，\n　但小天使看起來很開心就隨她去了吧……）

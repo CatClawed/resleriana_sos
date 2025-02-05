@@ -1,0 +1,405 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_MCHARA_A_01ID	0	Izana	イザナ	（冒険と冒険の合間……束の間のひと時）	Izana	(Finally, a break between missions.)	伊札娜	（在冒险的间隙……极短的一段时间内……）	伊札娜	（冒險與冒險的空檔……轉瞬即逝的一刻。）
+Date_MCHARA_A_01ID	1	Izana	イザナ	（たまにはダラダラしたって、\n　罰は当たらないよね！）	Izana	(There's nothing wrong with being a little lazy every once in a while, right?)	伊札娜	（偶尔犯懒也没问题吧！）	伊札娜	（偶爾像這樣偷個閒，不會受到懲罰吧！）
+Date_MCHARA_A_01ID	2	Izana	イザナ	レスナちゃ～ん、そこのお菓子取って～	Izana	Resna, would you hand me those sweets? Pretty please?	伊札娜	蕾斯娜～帮我拿一下那边的零食～	伊札娜	蕾斯娜～幫我拿那邊的點心～
+Date_MCHARA_A_01ID	3	Resna	レスナ	んん～眠くて動けないよぉ……\n待ってねぇ……\n３つ数える間に力をいれるから、いーち……	Resna	*Yawn* Mm, I'm so sleepy I can't move... Hold on, Izana... Once I count to three, I promise I'll get up. One...	蕾斯娜	唔～我困得动不了……等一下哦……\n等数到三我就会打起精神来的，一……	蕾斯娜	嗯嗯～睏得動不了啊……等我一下……\n在數到3之前，我會使力的，1……
+Date_MCHARA_A_01ID	4	Marie	マリー	あら、２人とも久しぶり	Marie	Well, well, you two! It's been a while!	玛莉	两位，好久不见。	瑪莉	哎呀，兩位都好久不見了。
+Date_MCHARA_A_01ID	5	Resna	レスナ	マルローネ先輩！！\nお久しぶりです！	Resna	Oh, Marlone! Long time no see!	蕾斯娜	玛洛娜前辈！！\n好久不见！	蕾斯娜	瑪洛娜前輩！！好久不見！
+Date_MCHARA_A_01ID	6	Izana	イザナ	（さすがレスナちゃん、\n　先輩の前ではしっかりしてる！）	Izana	(Resna perked right up once she saw Marlone!)	伊札娜	（不愧是蕾斯娜，\n　在前辈面前就正经起来了！）	伊札娜	（真不愧是蕾斯娜，\n　在前輩面前很可靠的樣子！）
+Date_MCHARA_A_01ID	7	Resna	レスナ	しばらくお見掛けしませんでしたが、\nどちらにいらっしゃったんですか？	Resna	It's been a while since we last met! Were you on a trip?	蕾斯娜	最近都没见过前辈，\n之前都去哪里了呢？	蕾斯娜	好一陣子沒見到妳了，請問是去了哪裡呢？
+Date_MCHARA_A_01ID	8	Marie	マリー	ハイネ州よ。素材探しのついでに\nバカンスも楽しんできちゃった	Marie	Yes, to Haine. I was actually searching for some materials, but I decided to take a bit of time for a vacation, too.	玛莉	是去海涅州找素材了，\n顺便享受了一下假期。	瑪莉	海涅州。我去找素材，順便度了個假。
+Date_MCHARA_A_01ID	9	Marie	マリー	マリオンにお土産渡してるから、\n適当に分けちゃって	Marie	Plus, I brought some souvenirs back for all of you to share. I left them with Marion.	玛莉	我也给玛丽翁带了特产，\n你们就分一下吧。	瑪莉	伴手禮我已經交給瑪麗翁了，\n妳們就隨意分一分吧。
+Date_MCHARA_A_01ID	10	Resna	レスナ	お心遣い恐縮です！\nありがたくいただきます！	Resna	Oh, how nice of you! Thank you so much for thinking of us!	蕾斯娜	感谢你的心意！\n那我们就收下了，谢谢！	蕾斯娜	不好意思讓妳費心！\n那我們就心懷感激地收下了！
+Date_MCHARA_A_01ID	11	Marie	マリー	じゃ、また来るわね	Marie	Enjoy! I'll see you around, then.	玛莉	那我下次再来。	瑪莉	那麼，我會再來的。
+Date_MCHARA_A_01ID	12	Resna	レスナ	え、もうご出発されるんですか？	Resna	Wait, you're leaving already?	蕾斯娜	咦，你这就要走了？	蕾斯娜	咦，妳已經要走了嗎？
+Date_MCHARA_A_01ID	13	Marie	マリー	うん、ルクルク州に行こうと思って	Marie	Afraid so. I'm on my way to Lukluk Province next.	玛莉	嗯，我想去路克尔克州。	瑪莉	嗯，我打算去盧庫魯克州。
+Date_MCHARA_A_01ID	14	Resna	レスナ	なんとっ、即刻ですか！？	Resna	You mean, right now?!	蕾斯娜	什么，现在就要出发了吗？！	蕾斯娜	什麼，馬上出發嗎！？
+Date_MCHARA_A_01ID	15	Marie	マリー	火薬に使える良い鉱物があるんですって。\n居ても立ってもいられないわ！	Marie	I heard that there was a special mineral there that can be used for gunpowder, so there's no time to waste!	玛莉	听说那边有能做火药的优质矿物，\n我根本坐不住啊！	瑪莉	聽說那裡有一種不錯的礦物能拿來製作火藥，\n我已經等不及了！
+Date_MCHARA_A_01ID	16	Marie	マリー	またお土産買ってくるから！\nじゃあね～	Marie	But don't worry, I'll be sure to bring you back something nice. Bye for now!	玛莉	我还会带特产回来的！\n再见～	瑪莉	我會再買伴手禮回來的！那我走囉～
+Date_MCHARA_A_01ID	17	Izana	イザナ	ハイネ州からアトリエに立ち寄って、\n休む間もなくルクルク州か。すごいねぇ	Izana	She's amazing! After Haine, she only stopped back to drop off souvenirs. She didn't even rest before setting out for Lukluk.	伊札娜	从海涅州来到炼金工房，\n都不休息一下就要去路克尔克州，真厉害啊。	伊札娜	從海涅州回來就跑到鍊金工房，\n然後沒有休息就前往盧庫魯克州啊，真厲害。
+Date_MCHARA_A_01ID	18	Resna	レスナ	やっぱり立派な錬金術士になるには\nあのくらいの体力が必須なのかなぁ	Resna	If I'm going to be a great alchemist one day, I wonder if I'll need that kind of stamina too...	蕾斯娜	想要成为出色的炼金术士，\n还是得有那样强大的体力吧。	蕾斯娜	要成為出色的鍊金術士，\n果然必須要有那種程度的體力嗎？
+Date_MCHARA_A_01ID	19	Izana	イザナ	まぁ、あるに越したことはないだろうねえ	Izana	Well, it definitely wouldn't hurt!	伊札娜	确实，有体力总比没有强。	伊札娜	嗯，有是最好不過的吧。
+Date_MCHARA_A_01ID	20	Resna	レスナ	だよね～……もっと休みなく動きたいなぁ	Resna	You're right... I wish I could just keep moving without needing to take so many breaks.	蕾斯娜	对吧……真希望我能持续活动更长时间。	蕾斯娜	也對……好希望我有更多體力可以不用休息喔。
+Date_MCHARA_A_01ID	21	Resna	レスナ	ねぇねぇ、イザナちゃん。\nどうすれば体力ってつけられると思う？	Resna	Hey, Izana, what do you think I should do to get stronger?	蕾斯娜	我问你哦，伊札娜，\n要怎么做才能增强体力呢？	蕾斯娜	伊札娜我問妳，\n妳覺得要怎麼做才能增強體力？
+Date_MCHARA_A_01ID	22		選択肢	重りを持って走る	Selection	Run with weights	选项	负重跑	選項	提重物跑步
+Date_MCHARA_A_01ID	23	Izana	イザナ	重りを持って走るとか？	Izana	Why don't you try running around with something heavy?	伊札娜	做负重跑之类的运动？	伊札娜	提重物跑步之類的？
+Date_MCHARA_A_01ID	24	Resna	レスナ	おぉ、分かりやすくも大変そうな	Resna	Ooh. That's simple and straight to the point, but it also sounds really hard...	蕾斯娜	哦，这个很好懂，不过感觉好累。	蕾斯娜	喔～很好懂，但好像很辛苦。
+Date_MCHARA_A_01ID	25	Izana	イザナ	それが一番効くってユナさんから聞いたよ	Izana	Juna told me about that method. She said it helps her build stamina.	伊札娜	我听尤娜小姐说这个是最有效果的。	伊札娜	我聽尤娜小姐說這樣最有效。
+Date_MCHARA_A_01ID	26	Resna	レスナ	ただ走るのもきついのに！　さすがユナさん	Resna	She sure is strong! I have enough trouble running even when I'm not holding anything...	蕾斯娜	明明光跑步就已经够累了！不愧是尤娜小姐。	蕾斯娜	光是跑步就已經很累了！真不愧是尤娜小姐。
+Date_MCHARA_A_01ID	27	Izana	イザナ	だからこそ効率的に持久力を\n鍛えられるんだって	Izana	That's exactly why it works. It hones both your endurance and your mental resilience!	伊札娜	她说就是累才能高效锻炼持久力。	伊札娜	她說正是因為這麼做，\n才能鍛鍊出高效的持久力。
+Date_MCHARA_A_01ID	28	Resna	レスナ	ちょっと私には早いかも……	Resna	I have a feeling that might be a little bit too advanced for me...	蕾斯娜	对我来说可能为时尚早……	蕾斯娜	這對我來說可能有點太高階了……
+Date_MCHARA_A_01ID	29		選択肢	ハンマーを振る	Selection	Swing a hammer	选项	舞锤	選項	揮舞錘子
+Date_MCHARA_A_01ID	30	Izana	イザナ	それはもうハンマーだよ。\nハンマーで素振りするとか	Izana	What else? Swing a hammer!	伊札娜	那肯定要用上锤子了，\n通过舞锤来增强体力。	伊札娜	那當然是錘子啦，\n像是空揮錘子之類的。
+Date_MCHARA_A_01ID	31	Resna	レスナ	イザナちゃんらしい答えだね！	Resna	Right, that's your secret!	蕾斯娜	真像伊札娜会说的话啊！	蕾斯娜	很像是伊札娜會給的回答呢！
+Date_MCHARA_A_01ID	32	Izana	イザナ	実はハンマーには不思議な力があってね	Izana	Hammers have this mysterious power about them.	伊札娜	其实锤子里有神奇之力。	伊札娜	其實錘子有著神奇的力量。
+Date_MCHARA_A_01ID	33	Izana	イザナ	思いを込めて振れば振るほど、\n体力がみなぎってくるんだよ！	Izana	The more you swing them around, the stronger you feel!	伊札娜	只要凝神舞锤，就会越挥越有力！	伊札娜	妳越是全心全意地去揮動它，\n體力就會越充沛喔！
+Date_MCHARA_A_01ID	34	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+Date_MCHARA_A_01ID	35	Izana	イザナ	どうかな？　ハンマー？	Izana	So, what do you think? Ready for some hammer time?	伊札娜	试试舞锤怎么样？	伊札娜	怎麼樣？要試試錘子嗎？
+Date_MCHARA_A_01ID	36	Resna	レスナ	……イザナちゃんが、そう言うなら	Resna	Well... If it works for you, maybe it will work for me, too!	蕾斯娜	……既然你都这么说了，那我试试。	蕾斯娜	……既然伊札娜都這麼說了。
+Date_MCHARA_A_01ID	37	Resna	レスナ	不肖、レスナ・シュテルネンリヒト\n精一杯ハンマーを振らせていただきます！	Resna	I, Resna Sternenlicht, may be weak now, but I'll swing this hammer with all my might!	蕾斯娜	蕾斯娜·修特涅利希特不才，\n愿努力舞锤！	蕾斯娜	不成材的蕾斯娜‧修特涅利希特，\n將竭盡全力揮舞錘子！
+Date_MCHARA_A_01ID	38	Izana	イザナ	その意気だよ！　ハンマーの喝采が\n聞こえてくるね！　うぉぉぉーんって	Izana	That's the spirit, Resna! Can you hear the hammer calling to you? It's cheering you on!	伊札娜	要的就是这股气势！\n我都听见锤子的喝彩声了！它正嗷嗷叫呢！	伊札娜	就該這樣才對！都能聽見錘子為妳喝采的聲音了！\n「唔喔喔喔喔」這樣。
+Date_MCHARA_A_01ID	39	Resna	レスナ	この細腕がもげるまで！	Resna	I'll keep swinging until my arms fall off!	蕾斯娜	我会努力到这双手残废为止！	蕾斯娜	我要揮到這雙手臂掉下來為止！
+Date_MCHARA_A_01ID	40	Izana	イザナ	それはアタシが止めるけどね！	Izana	Don't worry, I won't let you go that far!	伊札娜	那我是会阻止的啦！	伊札娜	這我就會阻止妳了！
+Date_MCHARA_A_01ID	41		選択肢	歩く	Selection	Take walks	选项	走路	選項	走路
+Date_MCHARA_A_01ID	42	Izana	イザナ	歩くのは？　探索しない日とかも\n距離を決めて、毎日散歩するとか	Izana	How about taking walks? On days when you don't have any exploring to do, you can pick a goal and try to walk that distance!	伊札娜	走路怎么样？不出门探索的日子\n也定个目标路程，每天都散步。	伊札娜	走路呢？沒有要出門探索的日子也定個距離，\n每天散散步什麼的。
+Date_MCHARA_A_01ID	43	Resna	レスナ	それなら続けられるかも！　\n実際探索のおかげで昔よりは体力がついたし	Resna	Oh, that sounds like a plan I can stick to! And I know it works. After all, I'm much stronger now than I was before I started exploring.	蕾斯娜	那我应该能坚持！\n多亏了探索，我的体力比以前好了不少。	蕾斯娜	這樣也許就能堅持下去了！事實上我也是多虧了探索，\n體力才比以前好上許多。
+Date_MCHARA_A_01ID	44	Izana	イザナ	アタシもレスナちゃんについていくよ！\nおやつとか持ってね	Izana	And I'll be right there to cheer you on! I can go along with you and bring snacks!	伊札娜	我也会带上零食跟蕾斯娜你一起去的！	伊札娜	我也會跟蕾斯娜一起去的！\n帶些點心什麼的。
+Date_MCHARA_A_01ID	45	Resna	レスナ	それじゃ楽しい楽しいお出かけに\nなっちゃうよ！	Resna	If you're with me, that would make exercising really fun!	蕾斯娜	那就要变成轻松愉快的远足了！	蕾斯娜	這樣就變成開開心心出門去玩啦！
+Date_MCHARA_A_01ID	46	Resna	レスナ	もうちょっと激しい体力のつけ方でも\n大丈夫だよ	Resna	But you know, maybe I can handle some training that's a bit more difficult.	蕾斯娜	可以用更激烈一点的方式来增强体力哦。	蕾斯娜	增強體力的方法再激烈一點也沒關係喔。
+Date_MCHARA_A_01ID	47	Izana	イザナ	けど、あんまり激しい運動も逆効果だよね	Izana	Be careful. If you start off with something too hard, you'll just end up hurting yourself.	伊札娜	但是太激烈的运动也会造成反效果吧。	伊札娜	可是，太激烈的運動會造成反效果的。
+Date_MCHARA_A_01ID	48	Resna	レスナ	そうなんだよねぇ……	Resna	Good point...	蕾斯娜	也对……	蕾斯娜	這麼說也是……
+Date_MCHARA_A_01ID	49	Izana	イザナ	うーん、他の方法はないかな？	Izana	Hmm... There must be another way.	伊札娜	唔……有没有其他办法呢？	伊札娜	嗯──沒有其他方法了嗎？
+Date_MCHARA_A_01ID	50	Izana	イザナ	体力をつける以外で、\n休みなく動き回れる方法……	Izana	Besides exercising, is there a way to stay active without needing to take breaks?	伊札娜	除了增强体力之外，\n还有没有能让人持续活动的方法呢……	伊札娜	除了增強體力之外，\n能到處跑也不用休息的方法……
+Date_MCHARA_A_01ID	51		選択肢	体力を回復する薬を作る	Selection	Make stamina recovery medicine	选项	制作恢复体力的药物	選項	製作回復體力的藥
+Date_MCHARA_A_01ID	52	Izana	イザナ	体力を回復する薬を作るのは？	Izana	I know! What if you made some medicine to help you recover your stamina?	伊札娜	制作恢复体力的药物怎么样？	伊札娜	製作回復體力的藥呢？
+Date_MCHARA_A_01ID	53	Resna	レスナ	それはね、試したことあるよ	Resna	Actually, I've tried something like that already.	蕾斯娜	我有试过哦。	蕾斯娜	這個啊，我有試過。
+Date_MCHARA_A_01ID	54	Resna	レスナ	これでいくらでも読書できる！　って、\n継ぎ足し継ぎ足し飲んで、\n３日連続徹夜したこともあったよ	Resna	I thought if I could make some energy medicine, I could keep reading forever. So I drank a bunch and stayed up for three days straight!	蕾斯娜	我想着用了这种药就能尽情看书了，\n然后我就一直喝个不停，\n连着熬了3天夜。	蕾斯娜	原本想說這樣就能盡情讀書了！\n於是我一杯接著一杯地喝，\n結果連續熬夜熬了3天喔。
+Date_MCHARA_A_01ID	55	Izana	イザナ	３日！？　\nそれはちょっと飲み過ぎじゃ……	Izana	Three whole days?! It sounds like you drank way too much!	伊札娜	3天？！\n你会不会喝太多了啊……	伊札娜	3天！？那樣有點喝太多了吧……
+Date_MCHARA_A_01ID	56	Resna	レスナ	でも段々効かなくなってきて、\n成分をどんどん強くしていったら	Resna	The medicine wore off faster every time I drank it, so I kept making the recipe stronger and stronger...	蕾斯娜	但是药物逐渐不起作用，\n我就只能加大剂量。	蕾斯娜	不過那個藥漸漸變得沒有效了，\n所以我把成分越加越強……
+Date_MCHARA_A_01ID	57	Resna	レスナ	飲まないと不安になったり、\n頭痛がしたりしてきて	Resna	And finally, it got to the point where I'd feel nervous and get headaches if I didn't drink it.	蕾斯娜	然后不喝就静不下心，还会头疼。	蕾斯娜	最後沒喝的話就會坐立不安，頭也痛了起來。
+Date_MCHARA_A_01ID	58	Izana	イザナ	えええ！？　アタシの知らない大事件が！？	Izana	Oh no! How come you never told me about this?!	伊札娜	咦？！怎么还发生了我不知道的大事啊？！	伊札娜	咦咦咦！？這麼嚴重的事我居然不知道！？
+Date_MCHARA_A_01ID	59	Resna	レスナ	ちょっと怖くなってきたから、\n封印することにしたんだ	Resna	Yeah, it started to scare me a little. I decided it was best to never use it again.	蕾斯娜	我有些害怕，所以就不喝这种药了。	蕾斯娜	我開始感到有些害怕，就把藥封印起來了。
+Date_MCHARA_A_01ID	60	Izana	イザナ	その封印解くの禁止ね！	Izana	Good! You have to promise! Never, ever again!	伊札娜	禁止继续用药哦！	伊札娜	禁止解開那個封印喔！
+Date_MCHARA_A_01ID	61		選択肢	助手を雇う	Selection	Hire assistants	选项	雇佣助手	選項	聘請助手
+Date_MCHARA_A_01ID	62	Izana	イザナ	助手をいっぱい雇って、\n代わりに働いてもらうのは？	Izana	How about hiring some assistants? Then they could do all of the work for you!	伊札娜	雇佣大批助手，\n让他们帮忙工作怎么样？	伊札娜	聘請很多助手來替妳工作呢？
+Date_MCHARA_A_01ID	63	Resna	レスナ	助手！？　いやいや、私みたいな若い衆が\n恐れ多すぎるよ！！	Resna	Assistants? Me?! No way, I don't have the experience to be hiring anyone!	蕾斯娜	助手？！不行不行，\n像我这种愣头青怎么好意思做这种事！	蕾斯娜	助手！？不不不，\n那對我這種年輕人來說實在不敢當！！
+Date_MCHARA_A_01ID	64	Resna	レスナ	錬金術を布教して、仲間を増やすって\n形ならありかもしれないけど。\n賑やかで楽しそうだし	Resna	Although, well, the more the merrier, right? The more allies we recruit to our cause, the more we can spread the wonders of alchemy!	蕾斯娜	就把这当成传播炼金术、增加伙伴吧，\n感觉会变得热闹又开心。	蕾斯娜	但藉由宣傳鍊金術來增加夥伴的形式或許可行。\n好像會很熱鬧又很好玩。
+Date_MCHARA_A_01ID	65	Izana	イザナ	ね、いい案でしょ？	Izana	See? It's a pretty good idea, don't you think?	伊札娜	你看，这主意不错吧？	伊札娜	不錯的提議，對吧？
+Date_MCHARA_A_01ID	66	Resna	レスナ	でも、私にはイザナちゃんがいるから。\n今も充分楽しいし	Resna	But I already have you, Izana. I couldn't ask for anything more!	蕾斯娜	不过，我有伊札娜在身边，\n现在就已经很开心了。	蕾斯娜	不過，我身邊有伊札娜在，現在就已經很開心了。
+Date_MCHARA_A_01ID	67	Izana	イザナ	えへへ、そっかぁ	Izana	Hehe, yay!	伊札娜	嘿嘿，是嘛。	伊札娜	嘿嘿，是嗎？
+Date_MCHARA_A_01ID	68	Resna	レスナ	他に良い方法は、うーん……	Resna	But is there any other way besides exercise? Hmm...	蕾斯娜	我再想想有没有其他好办法，唔……	蕾斯娜	其他的好方法，嗯……
+Date_MCHARA_A_01ID	69		選択肢	ない	Selection	Nope!	选项	没有	選項	沒有
+Date_MCHARA_A_01ID	70	Izana	イザナ	うん、他の方法なんてないね\n	Izana	You know what? I don't think there is.	伊札娜	嗯，没有其他办法了。	伊札娜	嗯，沒有其他的方法了。
+Date_MCHARA_A_01ID	71	Izana	イザナ	とにかく無心で体を動かすべし！\n結果は後からついてくる！	Izana	So don't overthink it and just start moving! The results will come naturally!	伊札娜	总之就该专心活动身体！\n之后就会得到应有的成果了！	伊札娜	總之一心一意地活動身體就對了！\n成果之後就會顯現的！
+Date_MCHARA_A_01ID	72	Resna	レスナ	昔、とある人が言いました	Resna	You know, there's a famous proverb...	蕾斯娜	有人曾说过……	蕾斯娜	曾經有人說過……
+Date_MCHARA_A_01ID	73	Resna	レスナ	怠惰は、発明の母だと	Resna	"""Laziness is the mother of innovation."""	蕾斯娜	懒惰是发明之母。	蕾斯娜	怠惰為發明之母。
+Date_MCHARA_A_01ID	74	Izana	イザナ	え？	Izana	Huh?	伊札娜	啊？	伊札娜	咦？
+Date_MCHARA_A_01ID	75	Resna	レスナ	ここで知恵を絞り出すのが\n偉大なる錬金術士への近道！	Resna	That means this is my chance to innovate! If I can prove myself here, I'll be one step closer to becoming a great alchemist!	蕾斯娜	在这时候绞尽脑汁想办法，\n才是成为伟大炼金术士的捷径！	蕾斯娜	在這裡絞盡腦汁地思考，\n才是通往成就偉大鍊金術士的捷徑！
+Date_MCHARA_A_01ID	76	Resna	レスナ	錬金術を駆使すれば、どうにか短期間で\n効率良く体力をつける方法が見つかるかも！	Resna	By harnessing the power of alchemy, I should be able to raise my stamina in a flash! There just has to be a way!	蕾斯娜	只要使用炼金术，说不定就能在短时间内\n找到高效增强体力的办法！	蕾斯娜	只要活用鍊金術，或許能找到短時間內\n高效增強體力的方法！
+Date_MCHARA_A_01ID	77	Resna	レスナ	古の賢者たちよ、力を貸してください！\nやーーー！！！！	Resna	Sages of the ancients, I call upon thee! Lend me your strength! Pleeease!	蕾斯娜	古代贤者们，请帮帮我！\n呀——！！！	蕾斯娜	古代的賢者們，請助我一臂之力！\n喝────！！！！
+Date_MCHARA_A_01ID	78	Izana	イザナ	れ、レスナちゃん！？	Izana	Wait, what?! Resna!	伊札娜	蕾、蕾斯娜？！	伊札娜	蕾、蕾斯娜！？
+Date_MCHARA_A_01ID	79	Resna	レスナ	うーん。色々考えてみたけど、\nどれも実現が難しそう……	Resna	Hmm. I thought of lots of different ways, but none of them seem very realistic...	蕾斯娜	唔，我想了很多办法，\n可不管哪个都很难实现……	蕾斯娜	嗯……我雖然想了很多方法，\n但好像每個都很難實現……
+Date_MCHARA_A_01ID	80	Resna	レスナ	うう、こうなったら……	Resna	In that case...	蕾斯娜	唔……既然如此……	蕾斯娜	唔唔，既然如此……
+Date_MCHARA_A_01ID	81	Resna	レスナ	イザナちゃん、お願い！\n私に特訓をつけて！	Resna	Izana, I need your help! Please train me to be stronger!	蕾斯娜	伊札娜，拜托你了！\n对我进行特训吧！	蕾斯娜	伊札娜，拜託妳！幫我特訓！
+Date_MCHARA_A_01ID	82	Izana	イザナ	え、アタシが！？	Izana	Huh? Me?!	伊札娜	什么？让我来吗？！	伊札娜	咦，我嗎！？
+Date_MCHARA_A_01ID	83	Resna	レスナ	うん、だってイザナちゃん、\n普段から体力作りしてるでしょ？	Resna	Of course, who else? You're always training yourself, right?	蕾斯娜	嗯，\n因为你平时就有在增强体力吧？	蕾斯娜	嗯，因為伊札娜平常有在鍛鍊體力吧？
+Date_MCHARA_A_01ID	84	Izana	イザナ	まぁ、そうだけど……	Izana	Well, yeah, but...	伊札娜	话是这么说没错，但是……	伊札娜	嗯，是這樣沒錯……
+Date_MCHARA_A_01ID	85	Resna	レスナ	ね、お願い！　\n私、もっと動けるようになって、\n早く皆さんに近づきたい！	Resna	Then please! You're the only one that can get me moving enough to catch up with everyone else!	蕾斯娜	拜托你了！\n我要变得更有活力，\n想更快地跟上大家的步伐！	蕾斯娜	好嗎？拜託妳！\n我想要提升體力，早日追上大家！
+Date_MCHARA_A_01ID	86		選択肢	快諾する	Selection	I accept.	选项	爽快答应	選項	欣然答應
+Date_MCHARA_A_01ID	87	Izana	イザナ	いいよ！\nどーんと任せちゃって！	Izana	All right, Resna! Get ready, because I'm about to whip you into shape!	伊札娜	可以啊！\n你就放宽心交给我吧！	伊札娜	好啊！儘管交給我吧！
+Date_MCHARA_A_01ID	88	Resna	レスナ	ありがとう！！\nやっぱりイザナちゃんは頼もしいなぁ	Resna	Oh, thank you! I knew I could count on you.	蕾斯娜	谢谢！！\n还是伊札娜可靠呀。	蕾斯娜	謝謝妳！！伊札娜果然很可靠呢。
+Date_MCHARA_A_01ID	89		選択肢	引き受けるが、気を引き締める	Selection	I'll accept, but I have to warn you...	选项	鼓足干劲地答应	選項	答應，但態度嚴肅起來
+Date_MCHARA_A_01ID	90	Izana	イザナ	いいけど、やるからには本気でいくよ	Izana	I'll help you, but you need to be ready for some super hard training!	伊札娜	可以是可以，但既然要做就要下功夫。	伊札娜	是可以，但既然要做就要認真練喔。
+Date_MCHARA_A_01ID	91	Resna	レスナ	イザナちゃんに頼んだその時から\n覚悟は決まってる	Resna	Don't worry, I knew from the beginning that you wouldn't go easy on me.	蕾斯娜	我开口拜托你的时候，\n就已经下定决心了。	蕾斯娜	從拜託伊札娜那一刻起，\n我就已經做好心理準備了。
+Date_MCHARA_A_01ID	92	Resna	レスナ	堅忍果決、どんと来い！	Resna	I'm ready for anything you can throw at me!	蕾斯娜	坚忍果断，放马来吧！	蕾斯娜	堅定果斷，放馬過來！
+Date_MCHARA_A_01ID	93	Izana	イザナ	ふふ、いい心構えだね！	Izana	Hehe, that's just the attitude you need!	伊札娜	呵呵，很坚定嘛！	伊札娜	呵呵，很棒的決心！
+Date_MCHARA_A_01ID	94		選択肢	引き受けたいが、よく考える	Selection	I want to help, but I'm not sure...	选项	想答应，但是再三考虑	選項	很想答應，但要好好考慮
+Date_MCHARA_A_01ID	95	Izana	イザナ	でも……アタシでいいのかな。\nレスナちゃんのことだからこそ、慎重に！	Izana	I'd love to help you, but I don't know if I'm the right person for the job. I only want what's best for you.	伊札娜	但是……你确定要选我吗？\n事关蕾斯娜，我得慎重点才好！	伊札娜	可是……找我可以嗎？\n正因為是蕾斯娜的事情，更要慎重！
+Date_MCHARA_A_01ID	96	Izana	イザナ	ユナさんとかリラさんの方が\n良い方法知ってると思うけど	Izana	Someone like Juna or Lila would probably have better techniques than anything I could come up with.	伊札娜	尤娜小姐跟莉拉小姐\n应该更清楚什么方法比较好。	伊札娜	我反倒覺得尤娜小姐或莉拉小姐\n會知道更多不錯的方法。
+Date_MCHARA_A_01ID	97	Resna	レスナ	イザナちゃんがいいんだよ！	Resna	You're the person I need, Izana! I'm sure of it!	蕾斯娜	我就要让伊札娜帮我嘛！	蕾斯娜	就是伊札娜才好！
+Date_MCHARA_A_01ID	98	Resna	レスナ	気心知れてるし、イザナちゃんと一緒が\n一番楽しくて、続けられそうだから！	Resna	You know me better than anyone. And I'll have so much fun with you that I'll be able to stick to it even when things get tough!	蕾斯娜	我们关系这么好，跟你一起我最开心，\n我觉得这样更能坚持得下来！	蕾斯娜	伊札娜很懂我的脾氣，\n和妳在一起最開心，感覺能堅持下去！
+Date_MCHARA_A_01ID	99	Izana	イザナ	れ、レスナちゃん…っ	Izana	Aw, Resna... I...	伊札娜	蕾、蕾斯娜……	伊札娜	蕾、蕾斯娜……
+Date_MCHARA_A_01ID	100	Resna	レスナ	なんでちょっと泣いてるの！？	Resna	Oh, no! Wait! Are you crying?!	蕾斯娜	你怎么还哭了？！	蕾斯娜	妳為什麼淚眼汪汪的！？
+Date_MCHARA_A_01ID	101	Izana	イザナ	大丈夫、これは決意の涙だよ	Izana	I'm okay, just touched. These are tears of determination.	伊札娜	没事，这是代表决心的眼泪。	伊札娜	沒事，這是下定決心的眼淚。
+Date_MCHARA_A_01ID	102	Izana	イザナ	いいよ、わかった。\nアタシが特訓つける！	Izana	If I'm the one you really want, then of course I'll train you!	伊札娜	好，我明白了。\n由我来实施特训计划！	伊札娜	好啊，我知道了，\n我來幫妳特訓！
+Date_MCHARA_A_01ID	103	Resna	レスナ	やったぁ！　ありがとう！	Resna	Yaaay! Thanks a million, Izana!	蕾斯娜	太好了！谢谢你！	蕾斯娜	太棒了！謝謝妳！
+Date_MCHARA_A_01ID	104	Izana	イザナ	（レスナちゃんがこんな風に\n　アタシを頼ってくれるなんて……）	Izana	(I never would've guessed that I'd become Resna's personal trainer...)	伊札娜	（蕾斯娜居然会这样拜托我……）	伊札娜	（沒想到蕾斯娜竟然會這樣依賴我……）
+Date_MCHARA_A_01ID	105	Izana	イザナ	（体力作りなら得意分野だし、\n　力になりたい！　頑張るぞ！）	Izana	(But since exercise is my strong suit, I know I can help her get stronger! I just have to give it my all!)	伊札娜	（我正好擅长增强体力，\n　所以我想帮她！要加油了！）	伊札娜	（鍛鍊體力是我的專長，\n　我想助她一臂之力！我要努力！）
+Date_MCHARA_A_02ID	0	Izana	イザナ	（今日は体力作り特訓初日！）	Izana	(Today is the first day of Resna's special training regimen!)	伊札娜	（今天是进行增强体力特训的第一天！）	伊札娜	（今天是鍛鍊體力的特訓第一天！）
+Date_MCHARA_A_02ID	1	Izana	イザナ	（準備運動も終わったし、\n　そろそろ始めようかな）	Izana	(We're all finished warming up, so it's about time for the main event.)	伊札娜	（热身运动也结束了，\n　是时候开始了吧。）	伊札娜	（也做好了暖身運動，\n　差不多可以開始了吧。）
+Date_MCHARA_A_02ID	2	Izana	イザナ	よーし、まずこの辺りを軽く走ってみよう	Izana	You ready, Resna? First, let's do some running!	伊札娜	好，先在这附近跑一会儿吧。	伊札娜	好～首先在這附近輕鬆地跑一跑吧。
+Date_MCHARA_A_02ID	3	Resna	レスナ	はいっ！	Resna	Yes, ma'am!	蕾斯娜	好的！	蕾斯娜	好！
+Date_MCHARA_A_02ID	4		ナレーション	――しばらくして	Narrator	A short while later...	旁白	——一段时间后。	旁白	過了一會兒──
+Date_MCHARA_A_02ID	5	Resna	レスナ	はあっ、はあっ、はあっ……\nき、きつくなって、きた	Resna	*Huff*... *Huff*... This is starting to get...really hard...	蕾斯娜	呼……呼……呼……\n开、开始喘不上气了。	蕾斯娜	呼、呼、呼……開、開始有點、累了。
+Date_MCHARA_A_02ID	6	Resna	レスナ	イザナちゃん、\nちょっと休憩してもいい……？	Resna	Izana... Would it be okay if I took a little break?	蕾斯娜	伊札娜，\n我能稍微休息一下吗……？	蕾斯娜	伊札娜，我可以稍微休息一下嗎……？
+Date_MCHARA_A_02ID	7	Izana	イザナ	（レスナちゃん頑張った！\n　本気がビビッと伝わってくるよ……！）	Izana	(Resna's doing great! I can tell she's really pushing herself!)	伊札娜	（蕾斯娜很努力了！\n　她那股认真的势头已经传达给我了……！）	伊札娜	（蕾斯娜很努力了！\n　我能真切地感受到她的認真……！）
+Date_MCHARA_A_02ID	8	Izana	イザナ	（でも、体力をつけるならもうちょっと\n　頑張ってほしい！　\n　なんて声を掛けたらいいかな？）	Izana	(But if she's going to build her endurance, I need her to push herself a bit more. What should I say?)	伊札娜	（可要是想增强体力，\n　我还是想让她更努力一点！\n　我要怎么鼓励她呢？）	伊札娜	（可是，既然要鍛鍊體力，\n　我希望她能再多努力一下！\n　要說些什麼來幫她打氣好呢？）
+Date_MCHARA_A_02ID	9		選択肢	まだまだいけるよ	Selection	You can do better than that!	选项	你还能继续	選項	妳還撐得下去
+Date_MCHARA_A_02ID	10	Izana	イザナ	まだまだいける、アタシはそう見たよ。\n本当に駄目そうなら、もちろん止めてるけど	Izana	Come on, Resna, I know you can do better than that! I'd stop you if it was really too much.	伊札娜	我觉得你还能坚持，\n如果真的撑不下去了，我自然会阻止你的。	伊札娜	妳還撐得下去，我看得出來喔。\n感覺到妳真的撐不下去，當然會阻止妳的。
+Date_MCHARA_A_02ID	11	Resna	レスナ	け、結構、きついんだけど	Resna	But, I... This might be too hard for me.	蕾斯娜	我、我现在就已经撑不下去了。	蕾斯娜	可、可是，我覺得滿累的。
+Date_MCHARA_A_02ID	12	Izana	イザナ	ううん、アタシは信じてるもん！\nレスナちゃんは壁を越えられるって！	Izana	It's not. I believe in you. There's no mountain you can't climb!	伊札娜	不，我相信你！\n蕾斯娜一定可以跨过那道坎！	伊札娜	不，我相信妳！妳能克服障礙的！
+Date_MCHARA_A_02ID	13	Resna	レスナ	私なら、壁を……	Resna	Really...?	蕾斯娜	我……能跨过……	蕾斯娜	我能克服障礙……
+Date_MCHARA_A_02ID	14	Resna	レスナ	い、イザナちゃんが\nそう信じてくれるなら……！	Resna	Well... If you believe in me, Izana, then I know I can do it!	蕾斯娜	既、既然伊札娜这么信任我，\n那我再坚持一下……！	蕾斯娜	既、既然伊札娜這麼相信我……！
+Date_MCHARA_A_02ID	15		選択肢	立派な錬金術士になりたいんだよね？	Selection	Don't you want to become a great alchemist?	选项	你想成为出色的炼金术士吧？	選項	妳想成為出色的鍊金術士吧？
+Date_MCHARA_A_02ID	16	Izana	イザナ	立派な錬金術士になりたいんでしょ！\nここは一発、頑張り所だよ！	Izana	If you really want to become a great alchemist, you need to push yourself past your limits! Just a little more!	伊札娜	你想成为出色的炼金术士吧？\n那现在正是努力的时候！	伊札娜	妳想成為出色的鍊金術士吧！\n現在正是該努力一搏的時候！
+Date_MCHARA_A_02ID	17	Resna	レスナ	う、うん！	Resna	O-Okay! I'll try!	蕾斯娜	好、好的！	蕾斯娜	嗯、好！
+Date_MCHARA_A_02ID	18	Izana	イザナ	憧れの先輩たちに\n少しでも近づきたいんだよね？	Izana	You want to be just as good as all of the alchemists you admire, right?	伊札娜	你想接近憧憬着的前辈们吧？	伊札娜	妳想離崇拜的前輩們更近一點吧？
+Date_MCHARA_A_02ID	19	Resna	レスナ	うん！	Resna	Yeah!	蕾斯娜	嗯！	蕾斯娜	嗯！
+Date_MCHARA_A_02ID	20	Resna	レスナ	……そうだ、ここで諦めたら\n何も変わらない！	Resna	You're right... If I give up now, nothing will change.	蕾斯娜	……没错，如果就此放弃，\n那就不会有任何改变了！	蕾斯娜	……沒錯，在這裡放棄的話，\n什麼都不會改變！
+Date_MCHARA_A_02ID	21	Resna	レスナ	待っていてください、皆さん！	Resna	I'm going to keep on getting better. Just wait and see!	蕾斯娜	各位，等着我吧！	蕾斯娜	各位，請你們等著吧！
+Date_MCHARA_A_02ID	22		選択肢	もうやめる？	Selection	Do you want to stop for today?	选项	要不就放弃吧？	選項	要放棄了嗎？
+Date_MCHARA_A_02ID	23	Izana	イザナ	もうやめる？　いきなりはきついもんね。\nアタシはそれもありだと思う	Izana	Today's workout was pretty tough. Do you want to call it quits for now? That would be fine by me.	伊札娜	要不就放弃吧？一下子强度这么大确实挺累人的。\n我也觉得放弃很正常。	伊札娜	要放棄了嗎？突然這樣鍛鍊太辛苦了嘛。\n這也是能理解的。
+Date_MCHARA_A_02ID	24	Izana	イザナ	レスナちゃんの意志だから続けるのも\n止めるのも、尊重するよ	Izana	Of course, we don't have to stop if you think you can keep going. It's up to you.	伊札娜	一切都看蕾斯娜你愿不愿意，\n不管是继续还是放弃，我都尊重你的想法。	伊札娜	這一切都取決妳的意志，\n要繼續還是放棄，我都會尊重妳的。
+Date_MCHARA_A_02ID	25	Resna	レスナ	……イザナちゃんが無理に止めない。そっか\n私はまだ、頑張れるんだね	Resna	So you're not going to force me either way... Okay! Then I think I can keep going a little longer!	蕾斯娜	……伊札娜不会强行阻止我。\n嗯，也就是说我还能继续努力。	蕾斯娜	……伊札娜不會強行要我堅持住。\n這樣啊，那我還撐得下去吧。
+Date_MCHARA_A_02ID	26	Resna	レスナ	よぉぉーし、越えろ限界！	Resna	I can do this! It's up to me to become the best me I can be!	蕾斯娜	好，我要超越极限！	蕾斯娜	好──超越極限吧！
+Date_MCHARA_A_02ID	27	Izana	イザナ	（うんうん！\n　それでこそレスナちゃんだよ！）	Izana	(That's my Resna. I'm so proud of her!)	伊札娜	（没错！\n　这才是蕾斯娜会做的行动！）	伊札娜	（嗯嗯！這樣才是蕾斯娜嘛！）
+Date_MCHARA_A_02ID	28		ナレーション	――さらにしばらくして	Narrator	Even later on...	旁白	——又一段时间后。	旁白	又過了一會兒──
+Date_MCHARA_A_02ID	29	Resna	レスナ	うう、はぁ、はぁ、はぁ、息が苦しい……\nもうダメかも……	Resna	Ungh... *Huff*...*Puff*... I can't...breathe... I think this is the best I can do...	蕾斯娜	呜……呼……呼……呼……\n我都喘不过气了……可能撑不住了……	蕾斯娜	唔唔……呼、呼、呼，喘不過氣了……\n我可能快不行了……
+Date_MCHARA_A_02ID	30		選択肢	優しい言葉を掛ける	Selection	Cheer her on	选项	温柔鼓励	選項	對她說些溫柔的話語
+Date_MCHARA_A_02ID	31	Izana	イザナ	上出来だよ！\nよく頑張ったね	Izana	You've got this, Resna! You're doing great!	伊札娜	做得很不错！\n你很努力啊。	伊札娜	做得很好喔！妳很努力了呢。
+Date_MCHARA_A_02ID	32	Izana	イザナ	ここからはグッと速度を落として\n少しずつ距離を伸ばしていこう	Izana	Now that you've come this far, let's slow down your pace for one last push. Just take it step by step!	伊札娜	从现在开始降低速度，\n慢慢增加距离吧。	伊札娜	從這裡開始放慢速度，\n一點一點地增加距離吧。
+Date_MCHARA_A_02ID	33	Resna	レスナ	イザナちゃん……！	Resna	Izana...	蕾斯娜	伊札娜……！	蕾斯娜	伊札娜……！
+Date_MCHARA_A_02ID	34		選択肢	ハンマーで暗示をかける	Selection	Hypnotize her with your hammer	选项	用锤子催眠她	選項	用錘子暗示
+Date_MCHARA_A_02ID	35	Izana	イザナ	アタシの見立てではまだいける。\nここはハンマ－催眠術零式の出番だね	Izana	From where I'm standing, it looks like you've got some fight left in you. So it's time for my secret weapon: hammer hypnosis!	伊札娜	依我看，你还能继续。\n这时候就轮到我的锤子催眠术零式出场了。	伊札娜	就我判斷，妳還可以的。\n現在該是錘子催眠術零式出場的時候了。
+Date_MCHARA_A_02ID	36	Resna	レスナ	ハンマー催眠術零式！？	Resna	What?! Hammer hypnosis?!	蕾斯娜	锤子催眠术零式？！	蕾斯娜	錘子催眠術零式！？
+Date_MCHARA_A_02ID	37	Izana	イザナ	うん、まずはハンマーを構えてね	Izana	Yup! First, we'll need this hammer.	伊札娜	嗯，先拿起锤子摆好架势。	伊札娜	嗯，妳先把錘子拿好。
+Date_MCHARA_A_02ID	38	Resna	レスナ	れ、レスナ・シュテルネンリヒト\nまだいけます！	Resna	Uh, er... I think you're right! I do still have some fight left in me!	蕾斯娜	蕾、蕾斯娜·修特涅利希特，\n还能继续！	蕾斯娜	蕾、蕾斯娜‧修特涅利希特還撐得下去！
+Date_MCHARA_A_02ID	39	Izana	イザナ	術をかけたい人の目の前で\nハンマーをブンブン振り回すと\n目が回って……ってあれ？	Izana	If you swing the hammer back and forth in front of someone's face, you can hypnotize them into—wait, what?	伊札娜	在想要催眠的人面前挥舞锤子，\n那个人就会晕……咦？	伊札娜	在想要施術的對象眼前，\n用力地來回揮舞錘子，\n對方就會頭昏眼花……呃，奇怪？
+Date_MCHARA_A_02ID	40	Izana	イザナ	なんか誤解しちゃったかな？　\nでも走り出せたしいいかな！	Izana	I didn't even have a chance to start, but it looks like that already did the trick! She's back to running again!	伊札娜	她是误会什么了吗？\n但她都跑起来了，那就没问题了吧！	伊札娜	她是不是誤會什麼了？\n不過既然她跑得動，那就好了！
+Date_MCHARA_A_02ID	41		選択肢	あえて厳しくいく	Selection	Show her some tough love	选项	严格对待	選項	刻意更嚴格
+Date_MCHARA_A_02ID	42	Izana	イザナ	ここでさらに追い込まないと\n体力は付かないよ！\nさあ、次は腹筋だぁあああ！！！	Izana	If you don't pick up the pace now, you'll never build up your stamina! It's time for some sit-ups!	伊札娜	如果在这时候不逼自己一把，\n是不能增强体力的！\n好，接下来是仰卧起坐！！！	伊札娜	現在不進一步逼迫自己，體力是不會變好的！\n好了，接下來是仰臥起坐喔──！！！
+Date_MCHARA_A_02ID	43	Resna	レスナ	えぇっ、ちょっと待って！	Resna	Wait, sit-ups?! Now?!	蕾斯娜	不是吧，等等！	蕾斯娜	咦、等一下！
+Date_MCHARA_A_02ID	44	Izana	イザナ	はい、座って！	Izana	All right! Drop and give me fifty!	伊札娜	来，坐下！	伊札娜	來，坐下吧！
+Date_MCHARA_A_02ID	45	Resna	レスナ	ま、待ってってば！	Resna	Hold on, Izana! I can't!	蕾斯娜	等、等等呀！	蕾斯娜	等、等一下啦！
+Date_MCHARA_A_02ID	46	Resna	レスナ	……はっ、これはもしかして\nイザナちゃんの愛の鞭？	Resna	Oh... Wait. I get it now. This is tough love, isn't it?	蕾斯娜	……啊，难道这是伊札娜爱的鞭策？	蕾斯娜	……啊，這該不會是伊札娜的愛之鞭策？
+Date_MCHARA_A_02ID	47	Resna	レスナ	よ、ようしイザナちゃんがその気なら、\n私頑張るよ！	Resna	It's because you want me to succeed... All right! I'll keep going!	蕾斯娜	好、好的，既然伊札娜有这个想法，\n那我也要努力！	蕾斯娜	好、好的，既然伊札娜打算這麼做，\n那我會加油的！
+Date_MCHARA_A_02ID	48	Resna	レスナ	腹筋は何回すればいい？\n１００回でも、２００回でもいいよ！	Resna	How many sit-ups should I do? Only fifty? I can handle 100, even 200, no problem!	蕾斯娜	要做多少个仰卧起坐？\n做100个200个都行！	蕾斯娜	仰臥起坐要做幾下好呢？\n不管是100下，還是200下都行喔！
+Date_MCHARA_A_02ID	49	Izana	イザナ	じゃあ３００回いっちゃおう！！	Izana	In that case, start with 300 reps!	伊札娜	那就努力做到300个吧！！	伊札娜	那就做300下吧！！
+Date_MCHARA_A_02ID	50	Resna	レスナ	腹筋の次は何？　\nもっと激しい運動でもいいよ！	Resna	What's next? Don't worry, I can handle something even harder!	蕾斯娜	做完仰卧起坐之后要做什么？\n可以做更激烈的运动哦！	蕾斯娜	仰臥起坐之後是什麼？\n更激烈的運動也行喔！
+Date_MCHARA_A_02ID	51	Izana	イザナ	それじゃ背筋５００回！\n腕立て１０００回だ！！	Izana	You asked for it! We'll do 500 reps to work your back and follow that up with 1,000 push-ups!	伊札娜	那就背肌500个，\n俯卧撑1000个！	伊札娜	那就背肌訓練500下！\n伏地挺身1000下！！
+Date_MCHARA_A_02ID	52	Resna	レスナ	やぁああああああ！！！！	Resna	Yeaaah! I can DO THIS!	蕾斯娜	呀——！！！	蕾斯娜	喝啊啊啊啊啊啊啊！！！！
+Date_MCHARA_A_02ID	53		ナレーション	１時間後	Narrator	One hour later...	旁白	1小时后	旁白	1小時後
+Date_MCHARA_A_02ID	54	Izana	イザナ	お疲れさま、レスナちゃん。\nこれ以上は危ないからいったん休憩しよっか	Izana	Well done, Resna. But it would be dangerous to push yourself any harder than this. Why don't we take a break?	伊札娜	辛苦你了，蕾斯娜。\n继续锻炼下去会有危险，休息一下吧。	伊札娜	辛苦了，蕾斯娜。\n再做下去就太危險了，先休息一下吧。
+Date_MCHARA_A_02ID	55	Resna	レスナ	はぁ～、疲れたぁ～……	Resna	Phew... I'm exhausted...	蕾斯娜	呼……好累啊……	蕾斯娜	呼～好累喔……
+Date_MCHARA_A_02ID	56		選択肢	労う	Selection	Reward her	选项	慰劳	選項	慰勞
+Date_MCHARA_A_02ID	57	Izana	イザナ	よく頑張ったね。えらいえらい	Izana	I'm so proud of you, Resna. You were amazing!	伊札娜	做得很不错，真了不起。	伊札娜	妳很努力了呢，真是了不起。
+Date_MCHARA_A_02ID	58	Resna	レスナ	えへへ……	Resna	Ehehe...	蕾斯娜	嘿嘿……	蕾斯娜	嘿嘿……
+Date_MCHARA_A_02ID	59	Izana	イザナ	あ、そうだ。汗拭いてあげるよ。\nいつも耳を拭いてもらってるからお返し	Izana	Here, let me help you dry off. You always help me wipe behind my ears, so it's time for me to return the favor!	伊札娜	啊，对了，我来给你擦汗吧。\n就当是你一直以来给我擦耳朵的回礼。	伊札娜	啊，對了，我幫妳擦擦汗。\n因為妳經常幫我清耳朵，這是報答。
+Date_MCHARA_A_02ID	60	Resna	レスナ	え？　自分で拭けるから大丈夫だよ！	Resna	Whuh? Um, that's okay, I can do it myself!	蕾斯娜	啊？我自己可以擦的啦，没事！	蕾斯娜	咦？我可以自己擦，沒關係的！
+Date_MCHARA_A_02ID	61	Izana	イザナ	まぁまぁ、遠慮しなくていいから！	Izana	Aww, don't be shy now!	伊札娜	哎呀，别跟我客气嘛！	伊札娜	好啦好啦，妳不用客氣！
+Date_MCHARA_A_02ID	62	Resna	レスナ	ふぇえっ！？　冷たい！！	Resna	Eeek! It's freezing!	蕾斯娜	呜啊？！好凉！！	蕾斯娜	唔耶！？好冰！！
+Date_MCHARA_A_02ID	63	Izana	イザナ	川の水で冷やしたの。\n気持ち良いでしょー？	Izana	I cooled it in the river water. Doesn't it feel good?	伊札娜	我用河水冰过了。\n很舒服吧？	伊札娜	我用河水冰鎮過了，感覺很舒服吧～？
+Date_MCHARA_A_02ID	64	Resna	レスナ	確かにこれは、極楽～……\nふわぁ～……	Resna	You're right, this is heavenly... *Yawn*...	蕾斯娜	确实，好舒服啊～\n呼……	蕾斯娜	這的確是天堂……呼～
+Date_MCHARA_A_02ID	65		選択肢	甘やかす	Selection	Dote on her	选项	宠溺	選項	寵溺
+Date_MCHARA_A_02ID	66	Izana	イザナ	レスナちゃん、ちょっとこっち来て	Izana	Resna, come here a second.	伊札娜	蕾斯娜，你到这边来。	伊札娜	蕾斯娜，妳過來一下。
+Date_MCHARA_A_02ID	67	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	嗯？	蕾斯娜	咦？
+Date_MCHARA_A_02ID	68	Resna	レスナ	ど、どうしたの！？\nいきなり頭なんて撫でて……	Resna	Wha—! Izana! What's this all of a sudden...?	蕾斯娜	怎、怎么了？！\n突然摸我头……	蕾斯娜	怎、怎麼了！？為什麼突然摸我的頭……
+Date_MCHARA_A_02ID	69	Izana	イザナ	弟が小さい頃、頑張ったらこうやって\n褒めてあげてたんだ	Izana	When my little brother was young, I always used to stroke his hair like this after a long day and tell him how proud I was.	伊札娜	我弟弟小时候要是努力做了什么，\n我就会这样表扬他。	伊札娜	我弟弟小時候很努力時，\n我就會像這樣稱讚他。
+Date_MCHARA_A_02ID	70	Izana	イザナ	嫌だった？	Izana	Does it feel too weird?	伊札娜	你不喜欢吗？	伊札娜	不喜歡嗎？
+Date_MCHARA_A_02ID	71	Resna	レスナ	ううん！\nなんか、新鮮でむしろ……	Resna	No, no! That's not it at all. It's just...new.	蕾斯娜	不是的，\n就是觉得挺新鲜的，反而……	蕾斯娜	不會！總覺得很新鮮，應該說……
+Date_MCHARA_A_02ID	72	Izana	イザナ	もっとやってほしい？	Izana	Does that mean you want me to keep going?	伊札娜	反而想让我多摸摸？	伊札娜	希望妳再多摸一下？
+Date_MCHARA_A_02ID	73	Izana	イザナ	いいよ、頑張ったもんね	Izana	You deserve it. You did your very best, I know it.	伊札娜	可以哦，毕竟你很努力。	伊札娜	好啊，因為妳很努力了嘛。
+Date_MCHARA_A_02ID	74		選択肢	ハンマーで暗示をかけてみる！！	Selection	Try hammer hypnosis on her	选项	用锤子催眠她！！	選項	試著用錘子施加暗示！！
+Date_MCHARA_A_02ID	75	Izana	イザナ	続けていくうちに、\nその疲労感が癖になるから	Izana	If you just keep at it, you'll start to love that worn-out feeling you get after working out! I promise!	伊札娜	在坚持的过程中，\n你会迷恋上这种疲惫感。	伊札娜	堅持下去，那種疲勞感會在不知不覺間讓人上癮喔。
+Date_MCHARA_A_02ID	76	Resna	レスナ	そんな日来るのかなぁ	Resna	Uh, do you really think so...?	蕾斯娜	这一天会到来吗……	蕾斯娜	會有那樣的一天嗎～
+Date_MCHARA_A_02ID	77	Izana	イザナ	ほら、この揺れてるハンマーを見て。\nだんだん気持ち良くなってきたでしょ？	Izana	Here, just keep your eyes on my hammer. The longer you look at it, the better you'll feel...	伊札娜	来，看着这个摇晃着的锤子，\n有没有觉得逐渐舒服起来了？	伊札娜	來，看著這個擺動的錘子。\n感覺越來越舒服了，對吧？
+Date_MCHARA_A_02ID	78	Resna	レスナ	言われてみれば……	Resna	Yeah, now that you mention it...	蕾斯娜	确实……	蕾斯娜	聽妳這麼一說，確實是……
+Date_MCHARA_A_02ID	79	Resna	レスナ	なんだか頭が……ぽやぽやする……	Resna	My head is starting to feel...so light...	蕾斯娜	感觉……头有点发昏……	蕾斯娜	總覺得腦袋……放空了……
+Date_MCHARA_A_02ID	80	Resna	レスナ	すぅ……すぅ……	Resna	*Snore*...	蕾斯娜	呼……呼……	蕾斯娜	呼……呼……
+Date_MCHARA_A_02ID	81	Izana	イザナ	（おおー……効いた効いた。\n　やっぱりハンマーは凄いや！）	Izana	(Wow, that really worked! I knew hammers were magical!)	伊札娜	（哦……起作用了。\n　锤子可真厉害啊！）	伊札娜	（喔喔……見效了見效了。\n　錘子果然很厲害！）
+Date_MCHARA_A_02ID	82	Izana	イザナ	（このまま暗示を掛け続ければ……\n　どうなっちゃうんだろう……）	Izana	(I wonder what will happen if I keep on going...)	伊札娜	（只要持续给出暗示……\n　会变成什么样呢……）	伊札娜	（如果持續這樣對她施加暗示……\n　會變得怎麼樣呢……？）
+Date_MCHARA_A_02ID	83	Resna	レスナ	はっ！	Resna	Whoa!	蕾斯娜	啊！	蕾斯娜	喝！
+Date_MCHARA_A_02ID	84	Resna	レスナ	……イザナちゃん、なんでハンマーを持って\n私の顔をのぞき込んでるの？	Resna	What's going on, Izana? And why are you staring at me with your hammer like that?	蕾斯娜	……伊札娜，\n你怎么拿着锤子盯着我看啊？	蕾斯娜	……伊札娜，妳怎麼拿著錘子在偷看我？
+Date_MCHARA_A_02ID	85	Izana	イザナ	んーんー、なんでもないよー	Izana	Oh, no reason! Don't worry about it!	伊札娜	嗯，嗯，没什么～	伊札娜	沒有～沒什麼啦～
+Date_MCHARA_A_02ID	86	Izana	イザナ	レスナちゃん、そろそろ休憩は\nおしまいにして移動しようか	Izana	Hey, Resna, I think it's about time we got back to training. What do you say?	伊札娜	蕾斯娜，休息得差不多了，该走了吧？	伊札娜	蕾斯娜，休息時間差不多該結束了，\n我們準備移動吧？
+Date_MCHARA_A_02ID	87	Resna	レスナ	う、動けない……麻痺の攻撃を、受けた感じ	Resna	I can't move a muscle... I feel like a monster hit me with a paralyzing attack.	蕾斯娜	我、我动不了……像是遭到了麻痹攻击。	蕾斯娜	我、我動不了……感覺像是受到了麻痺攻擊一樣。
+Date_MCHARA_A_02ID	88	Izana	イザナ	え、一歩も？	Izana	You mean you can't even take one step?	伊札娜	咦？一步也动不了？	伊札娜	咦，一步也動不了？
+Date_MCHARA_A_02ID	89	Resna	レスナ	一歩も、で、あります	Resna	Nope... Not even one.	蕾斯娜	一步也……动不了。	蕾斯娜	一步也動不了。
+Date_MCHARA_A_02ID	90		レスナ/イザナ	…………	Resna/Izana	...	蕾斯娜/伊札娜	……	蕾斯娜/伊札娜	…………
+Date_MCHARA_A_02ID	91	Resna	レスナ	ごめんね、すぐに回復させるから。\n呼吸だ、呼吸を意識するんだ……	Resna	I'm sorry, I promise I'll get myself going again. I just need to breathe. Focus, now...	蕾斯娜	抱歉，我这就努力恢复过来。\n呼吸，要注意呼吸……	蕾斯娜	對不起，我會馬上讓自己恢復的。\n呼吸，要留意自己的呼吸……
+Date_MCHARA_A_02ID	92	Izana	イザナ	（思った以上に大変そうだ\n続けられるかな）	Izana	(She's struggling more than I thought. Will she be able to keep this up?)	伊札娜	（比我想的还要严重啊，\n　能坚持下去吗？）	伊札娜	（好像比想像中還吃力，她堅持得下去嗎？）
+Date_MCHARA_A_02ID	93	Izana	イザナ	（レスナちゃんのやる気を\n　無駄にしたくない）	Izana	(She was so excited before. I don't want to discourage her...)	伊札娜	（我不想让蕾斯娜的干劲白费。）	伊札娜	（我不想讓蕾斯娜的那股幹勁白白浪費掉。）
+Date_MCHARA_A_02ID	94	Izana	イザナ	（もう少しレスナちゃんに沿ったやり方が\n　あればな……\n　でも、どうすればいいんだろう……）	Izana	(If only I knew a better way to help her through this. But how?)	伊札娜	（如果有更适合蕾斯娜的锻炼方法就好了……\n　可到底该怎么做呢……）	伊札娜	（要是有更適合蕾斯娜的鍛鍊方法就好了……\n　可是該怎麼做才好呢……）
+Date_MCHARA_A_03ID	0	Izana	イザナ	（レスナちゃんに合った体力作りを考えた結果、\n　アタシはある方法を思いついた）	Izana	(After thinking long and hard about how to help Resna develop her stamina, I came up with something that just might work.)	伊札娜	（为了配合蕾斯娜的体质来增强体力，\n　我想到了一个办法。）	伊札娜	（經過一番思考後，我想到了一個\n　適合蕾斯娜增強體力的方法。）
+Date_MCHARA_A_03ID	1	Izana	イザナ	あ、レスナちゃん！\nこっちこっち！	Izana	Hey, Resna! Over here!	伊札娜	啊，蕾斯娜！\n来这里！	伊札娜	啊，蕾斯娜！這邊這邊！
+Date_MCHARA_A_03ID	2	Resna	レスナ	どうしたの？\nカフェに呼び出して	Resna	What is it, Izana? Why did you want to meet at the cafe?	蕾斯娜	特地喊我来咖啡厅是要做什么呢？	蕾斯娜	妳找我來咖啡廳是怎麼了嗎？
+Date_MCHARA_A_03ID	3	Izana	イザナ	ねえ、レスナちゃん。\nこの依頼を受けてみない？	Izana	Check this out! I have a new request for us to take on!	伊札娜	蕾斯娜，你要不要接下这个委托啊？	伊札娜	蕾斯娜，妳要不要接接看這個委託？
+Date_MCHARA_A_03ID	4	Resna	レスナ	「とある素材が２種類必要なのですが、\n　ケガで収集に行けずに困っています」	Resna	"""I'm in need of two very important materials. However, because I'm injured, I can't go out and gather them myself."""	蕾斯娜	“我需要两种素材，\n但我受了伤没办法去采集，很头疼。”	蕾斯娜	「我需要某2種素材，\n　但因為受了傷無法前去採集而感到困擾。」
+Date_MCHARA_A_03ID	5	Resna	レスナ	「まず１つ目の素材は……」	Resna	"""The first material I need is..."""	蕾斯娜	“第1个素材是……”	蕾斯娜	「首先，第1種素材是……」
+Date_MCHARA_A_03ID	6	Resna	レスナ	これは！	Resna	Oh my goodness!	蕾斯娜	这是……！	蕾斯娜	這是！
+Date_MCHARA_A_03ID	7	Resna	レスナ	かの第３代国王ルキウスが錬金術を\n推奨するきっかけとなった、伝説の……！	Resna	This material is legendary! It's said to be the spark that ignited King Lucius's passion for alchemy!	蕾斯娜	传说中的素材，\n也是第3代国王鲁奇斯推行炼金术的契机……！	蕾斯娜	讓第3代國王路奇烏斯開始推薦鍊金術的契機，\n是傳說中的……！
+Date_MCHARA_A_03ID	8	Izana	イザナ	え、そんなすごいものなんだ	Izana	Oh, wow! I didn't realize it was so important.	伊札娜	啊，是这么厉害的东西吗……	伊札娜	咦，是那麼厲害的東西啊？
+Date_MCHARA_A_03ID	9	Resna	レスナ	２つ目の素材もすごいよ！\n第４代国王サビーナの時代に発見されたんだけど……	Resna	And the second material is just as magnificent! It was discovered during the reign of Queen Sabina, Lucius's successor.	蕾斯娜	第二个素材也很厉害哦！\n是在第4代国王萨比娜时期发现的……	蕾斯娜	第2種素材也很厲害喔！\n那是在第4代國王薩比娜的時代被人發現的……
+Date_MCHARA_A_03ID	10	Resna	レスナ	その頃は農業技術がまだ発展してなくて、\n農地にできる場所も収穫高も少なかったの	Resna	At that time, the kingdom didn't have much at all in terms of agricultural technology. There wasn't much space to farm, and harvests were poor.	蕾斯娜	当时农业技术尚不发达，\n农田数量跟作物生产量都很低。	蕾斯娜	但當時農業技術還不發達，\n能做為農地的地方和農作物的收穫量都很少。
+Date_MCHARA_A_03ID	11	Resna	レスナ	でも、これを肥料に使用すれば土壌を\n飛躍的に改良できることが分かったんだ	Resna	But they found that when they used this material as fertilizer, the soil fertility improved dramatically!	蕾斯娜	但用了这个素材当肥料的土壤\n得到了飞跃性的改良。	蕾斯娜	不過，後來發現只要把這個用在肥料中，\n就能使土壤有飛躍性的改善。
+Date_MCHARA_A_03ID	12	Resna	レスナ	おかげでサビーナ女王は土壌改良や開墾を進めて\n国民を飢饉から救うことができたんだよ	Resna	Thanks to that discovery, Queen Sabina was able to make the soil fertile, increase the amount of arable land, and save her people from famine.	蕾斯娜	多亏了它，萨比娜女王才能改良土壤、\n开垦田地，拯救人民免于饥饿。	蕾斯娜	多虧如此，薩比娜女王才會推行了土壤改良和開墾，\n拯救國民免受飢荒之苦。
+Date_MCHARA_A_03ID	13	Resna	レスナ	嗚呼、なんと歴史浪漫溢れる依頼……	Resna	Ah, isn't it wonderful? This feels like a request straight out of a history book!	蕾斯娜	啊，真是满载着历史情怀的委托……	蕾斯娜	哎呀……如此充滿歷史浪漫情懷的委託……
+Date_MCHARA_A_03ID	14	Izana	イザナ	ただライザに聞いたら、どっちもかなり\n険しい場所にあるみたいなんだけど	Izana	Er, there's just one catch. Ryza warned me that we'll have to traverse really rugged terrain to get to both materials.	伊札娜	可我问过莱莎，\n这两个素材都只生长在险峻的地方。	伊札娜	不過我問了萊莎，\n她說這兩樣素材都位於相當險峻的地方。
+Date_MCHARA_A_03ID	15	Resna	レスナ	全然問題ないよ！\n行こう！	Resna	Well, we won't let that stop us! Come on, let's go!	蕾斯娜	这不是问题！\n我们走吧！	蕾斯娜	這完全不是問題！我們走吧！
+Date_MCHARA_A_03ID	16	Resna	レスナ	はぁ……はぁ……	Resna	*Pant* *Pant*...	蕾斯娜	呼……呼……	蕾斯娜	呼……呼……
+Date_MCHARA_A_03ID	17	Izana	イザナ	レスナちゃん、あとちょっとで辿り着くよ！\n頑張って！	Izana	You can do it, Resna! We're almost there!	伊札娜	蕾斯娜，很快就要到了！\n加油！	伊札娜	蕾斯娜，再一下就到了！加油！
+Date_MCHARA_A_03ID	18	Resna	レスナ	うん……！　\nこんな貴重な素材、滅多にお目に掛かれないし……	Resna	Right! It's not every day that we get the chance to see such rare materials...	蕾斯娜	嗯……！\n这么珍贵的素材是很少见的……	蕾斯娜	嗯……！\n畢竟這麼貴重的素材，很少有機會看到……
+Date_MCHARA_A_03ID	19	Resna	レスナ	それに依頼者の人、困ってるから……	Resna	But most of all, someone out there is counting on me to get them.	蕾斯娜	而且委托人也很头疼……	蕾斯娜	而且那位委託人正為此苦惱……
+Date_MCHARA_A_03ID	20	Resna	レスナ	困っている人がいるなら……\n力になりたい！	Resna	I can't stop now... I just have to help them!	蕾斯娜	有人需要帮助……\n那我就要伸出援手！	蕾斯娜	如果有人遇到困難……我希望能助對方一臂之力！
+Date_MCHARA_A_03ID	21	Izana	イザナ	（うん、やっぱりレスナちゃんは\n　そういう子だよね！）	Izana	(I knew it! Resna is the kind of person who gets her motivation from helping others!)	伊札娜	（嗯，这就是蕾斯娜的性格呢！）	伊札娜	（嗯，蕾斯娜果然就是這種人！）
+Date_MCHARA_A_03ID	22	Resna	レスナ	よーし、収集完了！	Resna	That's everything we need! We did it!	蕾斯娜	好，收集齐了！	蕾斯娜	好～收集完畢！
+Date_MCHARA_A_03ID	23	Izana	イザナ	ねえ、せっかく景色の良いところに来たし、\nここでいったん休憩しない？	Izana	Since the scenery around here is so beautiful, why don't we take a break here?	伊札娜	我说啊，好不容易到了景色这么美的地方，\n在这里休息一下吧？	伊札娜	難得來到景色這麼棒的地方，\n要不要在這裡休息一下？
+Date_MCHARA_A_03ID	24	Resna	レスナ	そうだね！\n実は今日、お弁当を作ってきたんだ！	Resna	That's a great idea! And guess what? I packed us both some lunch for today!	蕾斯娜	好啊！\n其实我今天带了自己做的便当！	蕾斯娜	也對！其實，我今天做了便當來！
+Date_MCHARA_A_03ID	25	Izana	イザナ	やった、レスナちゃんの手作り弁当だ！	Izana	Hooray! I can't wait, your special lunches are my favorite!	伊札娜	太好了，是蕾斯娜亲手做的便当！	伊札娜	太棒了，是蕾斯娜親手做的便當！
+Date_MCHARA_A_03ID	26	Resna	レスナ	もしかしてだけど……	Resna	Izana, I was wondering...	蕾斯娜	我其实一直在想……	蕾斯娜	我一直在猜想妳該不會……
+Date_MCHARA_A_03ID	27	Resna	レスナ	今回の依頼、体力作りの特訓にもなるから\n提案してくれたの？	Resna	The real reason you wanted to take on this request... It was because it would help me exercise, wasn't it?	蕾斯娜	做这个委托的同时也能增强体力，\n所以你才提议要接这个委托吧？	蕾斯娜	是因為這次的委託也可以兼當增強體力的特訓，\n才會提議我接下的？
+Date_MCHARA_A_03ID	28	Izana	イザナ	へへ、バレてたかー	Izana	Heh, was it that obvious?	伊札娜	嘿嘿，让你看出来了啊。	伊札娜	嘿嘿，被發現啦～
+Date_MCHARA_A_03ID	29	Resna	レスナ	よくこんな私にぴったりの特訓を\n思いついたね	Resna	That was the perfect kind of training for me. You know just how to get me fired up!	蕾斯娜	真亏你能想到这么适合我的特训内容。	蕾斯娜	真虧妳能想出這麼適合我的特訓呢。
+Date_MCHARA_A_03ID	30	Izana	イザナ	小さい頃のことを思い出したんだ	Izana	Well, it reminded me of when we were little.	伊札娜	我想起了小时候的事。	伊札娜	我想起了小時候的事情。
+Date_MCHARA_A_03ID	31	Izana	イザナ	ねぇ、村の図書館で本の整理を手伝うことに\nなったの覚えてる？	Izana	Do you remember that time we helped organize the village library?	伊札娜	你还记得帮村子里的图书馆\n整理书本的事吗？	伊札娜	妳還記得我們去村裡的圖書館\n幫忙整理書籍的事嗎？
+Date_MCHARA_A_03ID	32	Izana	イザナ	図書館にあるどんな本でも一冊、\n自分のものにしていいって条件のやつ	Izana	They told us that if we helped out, we could pick out any book we wanted and keep it as a reward.	伊札娜	帮了忙的话就能从图书馆里\n挑一本书给自己的那个。	伊札娜	去幫忙的話，就能從圖書館裡\n任選一本書帶回家的那次。
+Date_MCHARA_A_03ID	33	Resna	レスナ	あー、あったね	Resna	Oh, yeah! I remember that!	蕾斯娜	啊，确实有过这事。	蕾斯娜	啊～是有這件事。
+Date_MCHARA_A_03ID	34	Izana	イザナ	アタシはあんまり本に興味ないから、\nわりとしぶしぶ手伝ってたんだけど	Izana	I've never been that interested in books, so I wasn't too excited about helping out.	伊札娜	我对书没什么兴趣，\n所以帮忙的时候不情不愿的。	伊札娜	因為我對書沒什麼興趣，所以做得不情不願的。
+Date_MCHARA_A_03ID	35	Izana	イザナ	レスナちゃんはすっごく集中して\n真剣に取り組んでてさ	Izana	But not you. You took it so seriously, it was like you got completely lost in your work.	伊札娜	你倒是全神贯注的，\n很认真地在整理呢。	伊札娜	但蕾斯娜卻全神貫注，非常很認真地整理個不停。
+Date_MCHARA_A_03ID	36	Izana	イザナ	周りの大人が心配しちゃうくらい、\n長時間ずーーっと頑張ってた	Izana	You stayed in that library for so long, all of the adults around started to worry!	伊札娜	因为你埋头整理的时间太长，\n周围的大人都担心你了。	伊札娜	努力了非──常久，\n久到周圍的大人都開始擔心了。
+Date_MCHARA_A_03ID	37	Resna	レスナ	あはは……没頭すると、ね	Resna	Ahaha... I can't help but get absorbed in things like that.	蕾斯娜	哈哈……我一沉迷什么事情就会这样。	蕾斯娜	啊哈哈……我一專心起來就會這樣。
+Date_MCHARA_A_03ID	38	Izana	イザナ	で、その帰り道。レスナちゃんが病気で\n寝込んでる子の家に行くのを見かけて	Izana	On my way home, I caught a glimpse of you. You had stopped by the home of a child who had come down with a serious illness.	伊札娜	然后在回家路上，\n我看到你去了卧床养病的孩子家里。	伊札娜	然後，回程的時候，我看到蕾斯娜妳\n去了一個臥病在床的孩子的家。
+Date_MCHARA_A_03ID	39	Izana	イザナ	レスナちゃんが頑張ってたのは、その子に\n絵本を届けるためだったんだって分かったんだ	Izana	That's when I realized why you had been working so hard. You wanted a picture book to give to that sick child.	伊札娜	我这才知道，你这么努力\n是为了把绘本带给那个孩子。	伊札娜	我才知道原來蕾斯娜妳會那麼努力，\n都是為了送繪本去給那個孩子。
+Date_MCHARA_A_03ID	40	Resna	レスナ	よ、よく覚えてたね	Resna	Wow, you remember it even better than I do.	蕾斯娜	你、你居然还记得啊。	蕾斯娜	真、真虧妳記得啊。
+Date_MCHARA_A_03ID	41	Izana	イザナ	そりゃ覚えてるよ！	Izana	Of course I do!	伊札娜	我当然记得啊！	伊札娜	我當然記得啊！
+Date_MCHARA_A_03ID	42	Izana	イザナ	レスナちゃんってなんて偉いんだ！　って\n感動したもん！	Izana	I was so touched by your amazing generosity. How could I ever forget?	伊札娜	我当时可感动了，\n觉得你好了不起啊！	伊札娜	因為我當時很感動嘛！\n覺得蕾斯娜實在太了不起了！
+Date_MCHARA_A_03ID	43	Resna	レスナ	お、大げさだよぉ……	Resna	I-I didn't do anything special, really.	蕾斯娜	你、你也太夸张啦……	蕾斯娜	妳、妳太誇張了啦……
+Date_MCHARA_A_03ID	44	Izana	イザナ	それでね、アタシ思ったんだ	Izana	Ever since then, I've known what kind of person you are.	伊札娜	然后我就想……	伊札娜	所以我想到了。
+Date_MCHARA_A_03ID	45	Izana	イザナ	あの時みたいに、誰かのためなら\n頑張れるんじゃないかなって	Izana	You're someone who always tries her best for those around her.	伊札娜	要是为了他人，\n你应该就能像那时一样努力吧。	伊札娜	如果像那時候一樣是為了別人，\n妳應該就有辦法努力了吧。
+Date_MCHARA_A_03ID	46	Resna	レスナ	そっか……\n覚えててくれて、ありがとう	Resna	Thanks, Izana. You're so sweet for remembering.	蕾斯娜	这样啊……\n谢谢你为我记得这件事。	蕾斯娜	這樣啊……謝謝妳記得這件事。
+Date_MCHARA_A_03ID	47	Izana	イザナ	ふふふ～	Izana	Hehe!	伊札娜	呵呵～	伊札娜	呵呵呵～
+Date_MCHARA_A_03ID	48	Resna	レスナ	でも、結局その時もイザナちゃんに\n助けてもらっちゃったからなぁ	Resna	But don't you remember? It only worked out because of you.	蕾斯娜	不过，\n当时我也受到了伊札娜的帮助吧。	蕾斯娜	不過，那最後也是因為伊札娜妳幫了我喔。
+Date_MCHARA_A_03ID	49	Izana	イザナ	そうだっけ？	Izana	Huh? Me?	伊札娜	是吗？	伊札娜	是這樣嗎？
+Date_MCHARA_A_03ID	50	Resna	レスナ	絵本をその子のお母さんに\n渡そうとしたんだけど	Resna	I tried to deliver the picture book to the sick child's mother.	蕾斯娜	我当时想把绘本交给那个孩子的妈妈。	蕾斯娜	我本來想把繪本交給那孩子的母親。
+Date_MCHARA_A_03ID	51	Resna	レスナ	今以上に人見知りだったし、元々その子と\nそんなに仲が良かったわけでもなかったから	Resna	But back then, I was even shier than I am now. And I didn't know that family very well, either.	蕾斯娜	可我那时候比现在更怕生，\n跟那个孩子的关系也不是特别好。	蕾斯娜	但我那時比現在還要怕生，\n而且和那孩子並沒有很熟。
+Date_MCHARA_A_03ID	52	Resna	レスナ	上手く伝わらなくて、\n変な子扱いされちゃって	Resna	So since I couldn't get the words out, I couldn't explain why I was there. The mother thought I was just some strange kid.	蕾斯娜	我不太会解释自己的意图，\n还被当成了怪小孩。	蕾斯娜	沒辦法把話說得很清楚，\n結果被當成了奇怪的孩子。
+Date_MCHARA_A_03ID	53	Resna	レスナ	見かねたイザナちゃんが助けてくれたから、\nなんとか渡せたんだよ	Resna	But that's when you stepped in to save the day. Thanks to you, we were finally able to hand over the picture book.	蕾斯娜	伊札娜你看不下去就来帮我了，\n这才顺利把绘本给出去了。	蕾斯娜	是伊札娜剛好看到並幫了我，\n才總算把繪本交了出去。
+Date_MCHARA_A_03ID	54	Resna	レスナ	私、全然成長してないなぁ	Resna	Thinking back on it now, I realize that I haven't grown at all...	蕾斯娜	我完全没有成长呢。	蕾斯娜	我還真是一點長進都沒有呢。
+Date_MCHARA_A_03ID	55	Resna	レスナ	昔も今も、イザナちゃんやみんなに\n助けてもらってばっかりだし	Resna	Just like back then, I'm always getting bailed out of trouble by you and everyone around me.	蕾斯娜	过去也好现在也好，\n一直都一味接受你的帮助。	蕾斯娜	無論是以前還是現在，\n都老是受到伊札娜和大家的幫助。
+Date_MCHARA_A_03ID	56	Izana	イザナ	そんなこと……	Izana	That's not true, Resna...	伊札娜	没这回事啊……	伊札娜	沒這回事……
+Date_MCHARA_A_03ID	57	Resna	レスナ	今回の依頼だってそうでしょ？	Resna	Don't you see? The same thing happened on our mission today!	蕾斯娜	这个委托不也是你在帮我？	蕾斯娜	這次委託不也是這樣嗎？
+Date_MCHARA_A_03ID	58	Izana	イザナ	…………	Izana	...	伊札娜	……	伊札娜	…………
+Date_MCHARA_A_03ID	59	Izana	イザナ	（成長してないなんてこと全然ないし、\n　思い悩む必要なんてないのに）	Izana	(Resna is way too hard on herself. She can't see how much she's grown at all.)	伊札娜	（她才不是完全没有成长，\n　根本不用这么苦恼的啊。）	伊札娜	（才不是一點長進也沒有，\n　她根本沒必要為了這種事煩惱的。）
+Date_MCHARA_A_03ID	60	Izana	イザナ	（レスナちゃんの心残りを払拭するには\n　どうしたらいいんだろう）	Izana	(I just wish I could take all of her worries away. How can I make her see how much progress she's made?)	伊札娜	（我该怎么做才能让蕾斯娜解开心结呢？）	伊札娜	（要怎麼做才能消去蕾斯娜心中的疙瘩呢？）
+Date_MCHARA_A_04ID	0	Izana	イザナ	うーん……	Izana	Hmm...	伊札娜	唔……	伊札娜	唔……
+Date_MCHARA_A_04ID	1	Resna	レスナ	イザナちゃん、何読んでるの？	Resna	What are you reading, Izana?	蕾斯娜	伊札娜，你在看什么？	蕾斯娜	伊札娜，妳在看什麼？
+Date_MCHARA_A_04ID	2	Izana	イザナ	ランターナの歴史の本。\n騎士試験の勉強をしてたんだ	Izana	A book about the history of Lantarna. I'm studying to retake my knight exam!	伊札娜	兰塔纳的历史书。\n我在为骑士考试学习呢。	伊札娜	蘭塔納的歷史書，我正在準備騎士考試。
+Date_MCHARA_A_04ID	3	Izana	イザナ	王国の成り立ちとか、その辺りは\nまだ覚えやすいんだけど	Izana	I can remember this part about how the kingdom was founded pretty well.	伊札娜	关于王国成立之类的还挺好记。	伊札娜	王國成立的那部分還算容易記。
+Date_MCHARA_A_04ID	4	Izana	イザナ	時代が進むと人物名や用語がどんどん増えて\n頭がこんがらがってくる～	Izana	But once I start trying to cram more and more names and dates into my brain, I start to get really confused...	伊札娜	随着时代的推移，人名跟专用术语逐渐多起来了，\n我的脑子里一片混乱啊～	伊札娜	但隨著時代推進，人物名和用語也越來越多，\n腦子都亂成一片漿糊了～
+Date_MCHARA_A_04ID	5	Resna	レスナ	確かに、ややこしいよね。\n私はそういうのも好きなんだけど	Resna	It's easy to mix them all up, isn't it? I understand how you feel...even though I actually like memorizing those kinds of things!	蕾斯娜	确实不好记呢，\n不过我还挺喜欢记这些的。	蕾斯娜	的確是很複雜呢。\n雖然這種內容我也滿喜歡的。
+Date_MCHARA_A_04ID	6	Resna	レスナ	じゃあさ、どういう勉強方法が\nイザナちゃんに合ってるか、\n一緒に探してみよう	Resna	Why don't I help you find a way to study that fits you a little better?	蕾斯娜	那我们就一起来找找，\n看哪种学习方法更适合你吧。	蕾斯娜	這樣的話，我們一起來找找什麼樣的學習方法\n適合伊札娜吧。
+Date_MCHARA_A_04ID	7	Izana	イザナ	え、いいの？	Izana	Really? Are you sure?	伊札娜	咦，可以吗？	伊札娜	咦，可以嗎？
+Date_MCHARA_A_04ID	8	Resna	レスナ	だってイザナちゃん、この前私の特訓に\n付き合ってくれたでしょ？	Resna	Of course! You helped me exercise, now I'll help you study!	蕾斯娜	伊札娜你之前不是有陪我做特训吗？	蕾斯娜	因為伊札娜先前不也陪我特訓了嗎？
+Date_MCHARA_A_04ID	9	Resna	レスナ	お返ししたいなってずっと思ってたんだ	Resna	I've been hoping for a way to repay you this whole time, and now I've found one!	蕾斯娜	我一直都想回报你。	蕾斯娜	我一直想著要報答妳。
+Date_MCHARA_A_04ID	10	Izana	イザナ	ありがとう！\nえーっと、そうだなぁ。\nアタシに合う勉強方法かぁ……	Izana	Thanks, Resna! Let me think... What would be a good way to help me learn, anyway?	伊札娜	谢谢！\n唔，我想想啊，适合我的学习办法……	伊札娜	謝謝妳！\n呃～我想想喔，適合我的學習方法啊……
+Date_MCHARA_A_04ID	11		選択肢	レスナに教わる	Selection	Ask Resna to teach you	选项	让蕾斯娜来教	選項	蕾斯娜妳來教我
+Date_MCHARA_A_04ID	12	Resna	レスナ	え、私に？	Resna	Huh? You really want me to teach you?	蕾斯娜	咦？让我来教你？	蕾斯娜	咦，我來教？
+Date_MCHARA_A_04ID	13	Izana	イザナ	レスナちゃん、いつもアタシに色んなこと\n教えてくれるでしょ。\n分かりやすいなって思ってたんだ	Izana	Yeah, you're great at it! You're always teaching me things. Plus, you're really easy to understand!	伊札娜	蕾斯娜总是在教我各种东西嘛，\n我觉得你教的很好懂。	伊札娜	蕾斯娜，妳總是會告訴我很多事情對吧？\n我覺得妳說得很好懂。
+Date_MCHARA_A_04ID	14	Izana	イザナ	アタシにどうやって説明すれば伝わるか\n一番理解してるのは、ずっとそばにいた\nレスナちゃんだよ	Izana	You've always been by my side. That must be why you always seem to know how to explain things in a way I can understand.	伊札娜	要怎么跟我说明我才能懂，\n最清楚的莫过于一直陪伴着我的蕾斯娜了。	伊札娜	最清楚要怎樣說明才能讓我理解的人，\n是一直在我身邊的蕾斯娜妳喔。
+Date_MCHARA_A_04ID	15	Izana	イザナ	だからレスナちゃんにお願いしたいの！	Izana	So I think a lesson from you would help me the most!	伊札娜	所以我想拜托你！	伊札娜	所以我才想請蕾斯娜幫忙！
+Date_MCHARA_A_04ID	16	Resna	レスナ	そっかぁ、えへへ……\nイザナちゃんがそこまで言ってくれるなら\n喜んで引き受けるよ！	Resna	Aww, really? Ehehe... Well, if that's what you want, I'd be more than happy to teach you!	蕾斯娜	是吗，嘿嘿……\n既然你都这么说了，那我乐意效劳！	蕾斯娜	這樣啊，嘿嘿……\n既然伊札娜都說到這個份上了，\n那我很樂意幫妳喔！
+Date_MCHARA_A_04ID	17		選択肢	気合いで乗り切る	Selection	Use sheer willpower to cram	选项	凭借气势克服	選項	靠幹勁拼過去
+Date_MCHARA_A_04ID	18	Izana	イザナ	気合いで乗り切るしかないか！\n最悪一夜漬けすればいいよね！	Izana	I guess I'll just have to hunker down and study! Even if it means I have to cram all night!	伊札娜	看来只能凭借气势克服难题了！\n最差的情况也不过就是考前熬夜背书嘛！	伊札娜	只能靠幹勁拼過去了吧！\n最壞的情況，頂多就是臨時抱佛腳了！
+Date_MCHARA_A_04ID	19	Resna	レスナ	もう、前の時もそういう感じで\n全然身につかなかったでしょ！	Resna	Isn't that what you were doing before? It didn't exactly seem to be working...	蕾斯娜	你之前也是这样，\n结果知识完全没记进脑子里呀！	蕾斯娜	真是的，妳以前也是這樣，\n完全沒把知識記到腦子裡啊！
+Date_MCHARA_A_04ID	20	Izana	イザナ	つ、ついココシュカ家の家訓が	Izana	B-But that's the Kokoschka family way...	伊札娜	我、我是不自觉地想起了柯克西卡家的家训。	伊札娜	不、不小心忘記了柯克西卡家的家訓。
+Date_MCHARA_A_04ID	21	Resna	レスナ	反省を活かさないと！\n別の方法を見つけよう！	Resna	The most important thing is that you learn from your mistakes! Let's think of something else!	蕾斯娜	必须汲取教训！\n找找其他办法吧！	蕾斯娜	得從反省中學習改進才行！\n我們來找找別的方法吧！
+Date_MCHARA_A_04ID	22	Izana	イザナ	確かにレスナちゃんの言う通りだよね。\nうーん、どうすればいいかなぁ	Izana	Yeah, you're right. But what should I do instead...?	伊札娜	蕾斯娜说得对。\n唔，要怎么做才好呢。	伊札娜	蕾斯娜確實說的沒錯。\n唔……我該怎麼做才好呢～
+Date_MCHARA_A_04ID	23		選択肢	頭が良くなる薬とかって……	Selection	Use medicine to get smarter	选项	有没有能让人变聪明的药呢……	選項	做一些能變聰明的藥……
+Date_MCHARA_A_04ID	24	Izana	イザナ	頭が良くなる薬とかって……	Izana	I just wish there was some kind of medicine I could take to make me smarter...	伊札娜	有没有能让人变聪明的药呢……	伊札娜	做一些能變聰明的藥……
+Date_MCHARA_A_04ID	25	Resna	レスナ	いいね、私も欲しい！	Resna	That sounds amazing. I wish I had something like that too!	蕾斯娜	这个好，我也想要！	蕾斯娜	不錯耶，我也想要！
+Date_MCHARA_A_04ID	26	Resna	レスナ	本気で作ってみようかな。\nできたらイザナちゃんにも教えるね！	Resna	In fact, I think I'll try and synthesize some! If I manage to make something good, I'll share it with you!	蕾斯娜	我努力做做看吧。\n要是做成了也会告诉伊札娜你的！	蕾斯娜	認真來做做看好了。\n等我完成之後再跟妳說！
+Date_MCHARA_A_04ID	27	Resna	レスナ	でも試験で使うのはダメだよ	Resna	But I think it would be cheating to use it for your test.	蕾斯娜	可你不能用在考试里哦。	蕾斯娜	但這不能用在考試上吧。
+Date_MCHARA_A_04ID	28	Izana	イザナ	そうだよねー……	Izana	Oh, I guess you're right...	伊札娜	我想也是……	伊札娜	也是啦……
+Date_MCHARA_A_04ID	29	Resna	レスナ	イザナちゃんが苦手なのはどの辺り？	Resna	Which part are you having the most trouble with?	蕾斯娜	伊札娜是哪里不懂呢？	蕾斯娜	伊札娜不懂的地方是哪裡？
+Date_MCHARA_A_04ID	30	Izana	イザナ	こことか……	Izana	Probably this part...	伊札娜	比如这里……	伊札娜	這裡吧……
+Date_MCHARA_A_04ID	31	Resna	レスナ	じゃあ、まずは私がここを解説するから	Resna	Okay! Then I'll start my explanation from there.	蕾斯娜	那我先来跟你解释这部分的内容哦。	蕾斯娜	那麼，我先來解說這裡。
+Date_MCHARA_A_04ID	32	Resna	レスナ	分からないところがあったら、\nなんでも質問して！	Resna	If there are any parts you don't understand, you can ask me as many questions as you want!	蕾斯娜	有不明白的地方你就尽管问吧！	蕾斯娜	要是有什麼地方不太懂，就儘管問我吧！
+Date_MCHARA_A_04ID	33	Izana	イザナ	（レスナちゃんの協力のおかげで、\n　だいぶ捗ったけど）	Izana	(I feel like I've made a lot of progress thanks to Resna's help.)	伊札娜	（多亏有蕾斯娜的帮助，\n　我的学习有了很大进展。）	伊札娜	（多虧了蕾斯娜的幫忙，我有了很大的進展。）
+Date_MCHARA_A_04ID	34	Izana	イザナ	（そろそろ疲れてきちゃった。\n　なんだか眠くなってきたかも……）	Izana	(But I'm really starting to get tired. I can feel my eyes getting heavy...)	伊札娜	（学得有些累了，\n　都开始犯困了……）	伊札娜	（差不多累了。總覺得開始想睡了……）
+Date_MCHARA_A_04ID	35	Resna	レスナ	イザナちゃん	Resna	Izana.	蕾斯娜	伊札娜。	蕾斯娜	伊札娜。
+Date_MCHARA_A_04ID	36	Izana	イザナ	は、はいっ！	Izana	Y-Yes!	伊札娜	我、我在！	伊札娜	是、是！
+Date_MCHARA_A_04ID	37	Resna	レスナ	今、よそ見してたでしょ	Resna	Were you daydreaming about something?	蕾斯娜	你刚才东张西望了吧？	蕾斯娜	妳剛才分心了對吧。
+Date_MCHARA_A_04ID	38		選択肢	レスナちゃんのこと考えてた	Selection	I was thinking about you.	选项	我在想蕾斯娜	選項	我在想著妳的事情
+Date_MCHARA_A_04ID	39	Izana	イザナ	レスナちゃんのこと考えてて、つい	Izana	Sorry, I was just thinking about you.	伊札娜	我在想你，一不小心就走神了。	伊札娜	我在想著妳的事情，不知不覺出神了。
+Date_MCHARA_A_04ID	40	Resna	レスナ	え？　な、なんで今！？	Resna	Wait, about me?! Why now?!	蕾斯娜	咦？为、为什么现在会想到我啊？！	蕾斯娜	咦？為、為什麼要現在想我的事！？
+Date_MCHARA_A_04ID	41	Izana	イザナ	アタシはいつでもレスナちゃんのこと\n考えてるよ	Izana	What do you mean? I'm always thinking about you, silly.	伊札娜	我随时都在想着你哦。	伊札娜	我隨時都在想著妳的事啊。
+Date_MCHARA_A_04ID	42	Resna	レスナ	も、もう、そういうこと言えばいいと\n思って……	Resna	Wh-What? Are you trying to get me all flustered?	蕾斯娜	你、你也真是的。\n是不是以为说了这种话就能得到原谅……	蕾斯娜	真、真是的，妳是不是覺得這樣說\n我就會放妳一馬……
+Date_MCHARA_A_04ID	43	Resna	レスナ	私のことを考えてくれるのは、\nその……嬉しいけど……\nちゃんと集中しなきゃダメだよ！	Resna	I mean, I'm really happy to hear you say that and all... But you really have to focus on your studies, okay?!	蕾斯娜	你想着我，我……是很开心啦……\n可你要集中注意力才行呀！	蕾斯娜	妳想著我的事情，那個……我是很開心啦……\n但妳還是得好好集中精神才行！
+Date_MCHARA_A_04ID	44		選択肢	ハンマーで頭がいっぱいで……	Selection	I was thinking about my hammer.	选项	我满脑子锤子……	選項	我滿腦子都在想錘子……
+Date_MCHARA_A_04ID	45	Izana	イザナ	ごめん、ハンマーで頭がいっぱいで	Izana	Sorry, I just can't get my mind off of my hammer.	伊札娜	抱歉，我满脑子锤子……	伊札娜	抱歉，我滿腦子都在想著錘子。
+Date_MCHARA_A_04ID	46	Resna	レスナ	あのね、イザナちゃん。\nイザナちゃんにとって、ハンマーがとっても\n大事なのは分かるよ	Resna	Um, Izana... I know how important your hammer is to you.	蕾斯娜	伊札娜，\n我知道对你来说锤子很重要。	蕾斯娜	我說啊，伊札娜。\n我知道錘子對妳來說很重要。
+Date_MCHARA_A_04ID	47	Resna	レスナ	でも、こんな時まで考えちゃうなんて\n不安だよ。\nちょっとご両親に相談……	Resna	But if that's really all you can think about, I'm honestly a little worried. Maybe I need to have a talk with your parents...	蕾斯娜	可你这时候还在想锤子也挺让人担心的，\n要不要跟你家人谈谈……	蕾斯娜	但是，妳連這種時候都在想它，這讓我很不安。\n妳還是跟父母談一下……
+Date_MCHARA_A_04ID	48	Izana	イザナ	あ、あわわわ	Izana	N-No, wait!	伊札娜	啊，不不不不。	伊札娜	啊、啊哇哇……
+Date_MCHARA_A_04ID	49	Izana	イザナ	ご、ごめん！　頭いっぱいは言い過ぎた！\n集中力切れただけ！	Izana	Please, I'm sorry! I was just exaggerating! To tell you the truth, I just couldn't focus anymore.	伊札娜	抱、抱歉！我这是夸张的说法！\n只是注意力没法集中而已！	伊札娜	抱、抱歉！是我說得太誇張了！\n我只是一時分心而已！
+Date_MCHARA_A_04ID	50		選択肢	正直に白状する	Selection	Honestly, I just lost my focus.	选项	老实交代	選項	老實坦白
+Date_MCHARA_A_04ID	51	Izana	イザナ	ごめん、集中力切れちゃって	Izana	I'm sorry... To be honest, I just lost my focus.	伊札娜	抱歉，我的注意力集中不了。	伊札娜	抱歉，我一時分心了
+Date_MCHARA_A_04ID	52	Resna	レスナ	え？　……あ、もうこんな時間か！　	Resna	Huh...? Oh, wow! Look at the time!　	蕾斯娜	咦……啊，都这么晚了！　	蕾斯娜	咦……啊，已經這麼晚了啊！　
+Date_MCHARA_A_04ID	53	Resna	レスナ	ごめんごめん、気付かなかった。\nさすがに疲れちゃうよね、休憩しようか	Resna	I'm so sorry, Izana! I didn't realize how long we've been here, you must be so tired. Let's take a break!	蕾斯娜	抱歉，我没能注意到。\n你肯定累了，我们休息一下吧。	蕾斯娜	真抱歉，我沒注意到。\n妳肯定很累了，我們來休息吧。
+Date_MCHARA_A_04ID	54	Izana	イザナ	（よかった、正直に伝えて）	Izana	(Thank goodness. I'm glad I told her the truth.)	伊札娜	（还好说了实话。）	伊札娜	（向她老實坦白是對的。）
+Date_MCHARA_A_04ID	55	Izana	イザナ	うーん、どうすれば集中を切らさないで\n楽しく勉強できるかなぁ	Izana	I wish there was some way I could make studying more fun. Then maybe I could focus better.	伊札娜	唔，要怎么做才能全神贯注地快乐学习呢。	伊札娜	唔……要怎麼做才能在維持專注力的狀態下\n愉快地學習呢？
+Date_MCHARA_A_04ID	56	Resna	レスナ	……あ、そういえば。\nまた図書館でのお手伝いのこと\n思い出したんだけど	Resna	You know, I might just know a way! You reminded me of it when you brought up that time from the library.	蕾斯娜	……啊，说起来，\n我又想起了去图书馆帮忙的事了。	蕾斯娜	……啊，這麼說來，\n我又想起了之前在圖書館裡幫忙的事情了。
+Date_MCHARA_A_04ID	57	Resna	レスナ	あの時イザナちゃんは、なぞなぞの本を\n持ち帰ってたよね	Resna	That day, the book you chose to take home was a book of riddles.	蕾斯娜	你当时带了本猜谜书回家吧。	蕾斯娜	妳那時候帶回了一本猜謎的書對吧。
+Date_MCHARA_A_04ID	58	Resna	レスナ	騎士の英雄譚とかじゃなかったから、\nなんで？　って尋ねたら	Resna	Do you remember what you told me when I asked you why you didn't choose something like a tale of a knight's tale?	蕾斯娜	我就问你为什么不带骑士英雄传之类的回家。	蕾斯娜	我當時問妳，那本又不是騎士英雄傳記相關的書，\n怎麼帶回來了？
+Date_MCHARA_A_04ID	59	Resna	レスナ	「これならレスナちゃんと二人で\n楽しめるから」って言ってくれて	Resna	"You said, ""Because we can both have fun reading this one together!"""	蕾斯娜	然后你跟我说，\n“带这本书就能跟蕾斯娜一起开开心心地看了”。	蕾斯娜	妳回答我：「這個就可以和妳一起看啦」。
+Date_MCHARA_A_04ID	60	Resna	レスナ	私とっても嬉しかったんだ	Resna	Do you know how happy that made me?	蕾斯娜	我特别高兴。	蕾斯娜	我聽了真的很開心。
+Date_MCHARA_A_04ID	61	Izana	イザナ	へへ、よく覚えてたね	Izana	Hehe. You have a good memory.	伊札娜	嘿嘿，这你居然都记得啊。	伊札娜	嘿嘿，真虧妳還記得。
+Date_MCHARA_A_04ID	62	Resna	レスナ	その本を使って問題を出し合いっこして\nすっごく楽しかったから	Resna	After that, we took turns quizzing each other and asking questions from the book. It was so much fun!	蕾斯娜	因为我们用那本书一问一答，\n玩得特别开心嘛。	蕾斯娜	我們用那本書互相出題考對方，\n真的很好玩。
+Date_MCHARA_A_04ID	63	Resna	レスナ	あの時みたいな形式で勉強すれば\n楽しく身につくんじゃないかなって\n思うんだけど、どうかな？	Resna	So I was thinking—what if we turned studying into a quiz game like the one we played with that book?	蕾斯娜	我就想，用当时的形式学习的话，\n或许也能快乐地学习知识，你怎么想？	蕾斯娜	所以我在想，如果用當時的那種形式來學習，\n應該能很愉快地把知識記起來吧，妳覺得呢？
+Date_MCHARA_A_04ID	64	Izana	イザナ	なるほど、いいかも！	Izana	Great thinking! That really sounds like it would work!	伊札娜	这样啊，或许能行！	伊札娜	原來如此，聽起來不錯！
+Date_MCHARA_A_04ID	65	Resna	レスナ	どこから問題を出そうかな。\n……よし、決めた！　いくよ？	Resna	Now we just have to choose a place to start. Like...here! Ready for your first question?	蕾斯娜	要出哪个问题呢……\n好，就这个！我要问咯？	蕾斯娜	該從什麼開始出題呢？\n……好，決定了！我發問囉？
+Date_MCHARA_A_04ID	66	Resna	レスナ	王国暦３６年に即位し、錬金術の研究を\n推し進めた第３代国王は？	Resna	What was the name of the kingdom's third ruler who ascended to the throne in year 36 and promoted the study of alchemy?	蕾斯娜	在王国历36年即位，\n积极推进炼金术研究的第3代国王是谁？	蕾斯娜	王國曆36年即位，\n推動鍊金術研究的第3代國王是誰？
+Date_MCHARA_A_04ID	67		選択肢	サビーナ	Selection	Sabina	选项	萨比娜	選項	薩比娜
+Date_MCHARA_A_04ID	68	Resna	レスナ	サビーナ女王は第４代国王だね	Resna	Actually, Queen Sabina was the fourth ruler of the kingdom.	蕾斯娜	萨比娜女王是第4代国王吧。	蕾斯娜	薩比娜女王是第4代國王喔。
+Date_MCHARA_A_04ID	69	Resna	レスナ	土壌改良や農地面積の拡大を\n推し進めた女王様だよ	Resna	She helped improve soil quality and increase the amount of arable land.	蕾斯娜	她是推行改良土壤、扩大农耕面积的女王哦。	蕾斯娜	她是推行土壤改良和擴大農地面積的女王。
+Date_MCHARA_A_04ID	70	Izana	イザナ	そういえばこの前聞いた……	Izana	Oh, right. We were just talking about that.	伊札娜	说起来之前确实听你说过……	伊札娜	這麼說來，我之前聽過……
+Date_MCHARA_A_04ID	71		選択肢	ルキウス	Selection	Lucius	选项	鲁奇斯	選項	路奇烏斯
+Date_MCHARA_A_04ID	72	Izana	イザナ	ルキウス！	Izana	Lucius!	伊札娜	是鲁奇斯！	伊札娜	路奇烏斯！
+Date_MCHARA_A_04ID	73	Resna	レスナ	正解！	Resna	That's right!	蕾斯娜	回答正确！	蕾斯娜	正確答案！
+Date_MCHARA_A_04ID	74	Izana	イザナ	この前話してたよね？\n依頼兼、体力作り特訓の時！	Izana	We were just talking about him, weren't we? During our mission before!	伊札娜	之前也提到过这个吧？\n就是委托兼增强体力特训那次！	伊札娜	妳之前說過對吧？\n那次執行委託兼體力特訓的時候！
+Date_MCHARA_A_04ID	75	Resna	レスナ	そうそう！\n覚えててくれて嬉しいよ！	Resna	Exactly! I'm so glad you remembered!	蕾斯娜	没错！\n我好开心啊，你还记得这件事呢！	蕾斯娜	沒錯！妳能記得，我好開心！
+Date_MCHARA_A_04ID	76		選択肢	ルシアス	Selection	Lucian	选项	鲁西亚斯	選項	路希亞斯
+Date_MCHARA_A_04ID	77	Resna	レスナ	惜しい！\n正解はルキウス王だよ	Resna	"Oh, you were so close! The answer is ""Lucius,"" not ""Lucian."""	蕾斯娜	差点就答对了！\n正确答案是鲁奇斯王哦。	蕾斯娜	好可惜！正確答案是路奇烏斯王喔。
+Date_MCHARA_A_04ID	78	Izana	イザナ	うー、悔しい！\n迷ったんだよね	Izana	Aw, darn it! I was going back and forth between those two, too!	伊札娜	呜……好不甘心啊！\n我就是在纠结这两个哪个是对的。	伊札娜	嗚，真不甘心！我剛才還猶豫了一下。
+Date_MCHARA_A_04ID	79		ナレーション	レスナに何問か出題してもらった後――	Narrator	Several questions later...	旁白	让蕾斯娜出了几道题之后——	旁白	蕾斯娜出過幾道題目之後──
+Date_MCHARA_A_04ID	80	Resna	レスナ	すごい、全問正解だよ！\nよく頑張りました！	Resna	Wow, Izana! You got them all right! You're doing a great job.	蕾斯娜	好厉害，你全都答对了！\n真努力啊！	蕾斯娜	好厲害，全部答對了！妳很努力呢！
+Date_MCHARA_A_04ID	81	Izana	イザナ	ありがとう、レスナちゃん！\nアタシのためにここまで色々考えて\n寄り添ってくれるなんて	Izana	Thanks! I can't believe you're going so far out of your way to help me study like this.	伊札娜	谢谢你，蕾斯娜！\n为了我考虑了这么多，\n还愿意亲自帮助我。	伊札娜	蕾斯娜，謝謝妳！\n讓妳陪著我學習，還為我設想了這麼多。
+Date_MCHARA_A_04ID	82	Izana	イザナ	おかげでばっちり身に付いたよ！\nレスナちゃん、本当にすごい！	Izana	Thanks to all of your help, I've learned so much! You're an amazing teacher.	伊札娜	多亏了你，我已经全记住了！\n蕾斯娜你真的好厉害啊！	伊札娜	多虧蕾斯娜的幫忙，我全都學起來了！\n妳真的好厲害！
+Date_MCHARA_A_04ID	83	Resna	レスナ	勉強が身に付いたのは、\nイザナちゃんが頑張ったからだよ	Resna	Oh, it's not because of anything I did. You learned all of that because of your own hard work.	蕾斯娜	能学会知识都是伊札娜你努力的成果哦。	蕾斯娜	能夠把這些學起來，\n都是因為妳很努力的關係喔。
+Date_MCHARA_A_04ID	84	Resna	レスナ	私は全然すごくない。体力作りも、\n果ての大陸を目指すのも、\nみんなの力を借りてばかりだし	Resna	Besides, nothing about me is amazing. I couldn't have reached the World's End without everyone's help. I couldn't even exercise without you.	蕾斯娜	我一点都不厉害。\n想要增强体力、朝终极大陆迈进，\n全都要靠大家的努力才能完成。	蕾斯娜	我一點也不厲害。\n不論是鍛鍊體力，還是前往終極大陸的目標，\n都需要借助大家的力量。
+Date_MCHARA_A_04ID	85	Resna	レスナ	私、全然成長してないなぁ	Resna	Thinking back on it now, I realize that I haven't grown at all...	蕾斯娜	我完全没有成长呢。	蕾斯娜	我還真是一點長進都沒有呢。
+Date_MCHARA_A_04ID	86	Resna	レスナ	昔も今も、イザナちゃんやみんなに\n助けてもらってばっかりだよ	Resna	Just like back then, I'm always getting bailed out of trouble by you and everyone around me.	蕾斯娜	过去也好现在也好，\n我一直都一味接受你的帮助。	蕾斯娜	無論是以前還是現在，總是伊札娜和大家在幫我。
+Date_MCHARA_A_04ID	87	Izana	イザナ	……一人でできなきゃ、ダメなのかな？	Izana	Is it really so bad to rely on your friends?	伊札娜	……非要一个人做才行吗？	伊札娜	……非得要一個人做到才行嗎？
+Date_MCHARA_A_04ID	88	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	嗯？	蕾斯娜	咦？
+Date_MCHARA_A_04ID	89	Izana	イザナ	レスナちゃん、アタシはまだ正式な騎士に\nなれてないんだよ	Izana	You know, I'm still not a full-fledged knight yet.	伊札娜	蕾斯娜，我还没能正式成为骑士呢。	伊札娜	蕾斯娜，我還沒有成為一名正式的騎士。
+Date_MCHARA_A_04ID	90	Izana	イザナ	その勉強をこうして、レスナちゃんに\n手伝ってもらってる	Izana	That's why you've been helping me study so much.	伊札娜	我还让你帮着我学习知识，\n好通过考试。	伊札娜	還讓妳像這樣幫我學習這些知識。
+Date_MCHARA_A_04ID	91	Izana	イザナ	これっていけないこと？	Izana	Is needing your help really such a bad thing?	伊札娜	这样不行吗？	伊札娜	我這樣子是不行的嗎？
+Date_MCHARA_A_04ID	92	Resna	レスナ	そんなことは……	Resna	When you put it like that, no...	蕾斯娜	才不会……	蕾斯娜	才沒這種事……
+Date_MCHARA_A_04ID	93	Izana	イザナ	だよね！	Izana	Exactly!	伊札娜	对吧！	伊札娜	對吧！
+Date_MCHARA_A_04ID	94	Izana	イザナ	じゃあ、レスナちゃんが手伝ってもらうのも\n悪いことじゃないよね	Izana	It's not a bad thing at all! So why are you so hard on yourself for getting help from your friends?	伊札娜	那蕾斯娜你找人帮忙也不是坏事吧。	伊札娜	所以，蕾斯娜接受別人的幫助也不是壞事啊。
+Date_MCHARA_A_04ID	95	Izana	イザナ	それぞれができることを頑張って、\n足りない部分は補い合って、\n一緒に成長していく	Izana	We each have our own strengths—that means we can make up for what the other lacks and help each other grow.	伊札娜	我们各自努力做力所能及的事，\n互相弥补不足的部分，共同成长。	伊札娜	大家各自努力做自己擅長的事，\n互相補全對方不足的部分，一起成長。
+Date_MCHARA_A_04ID	96	Izana	イザナ	そうして一人では辿り着けなかった場所を\n目指す	Izana	So if we work together, we can achieve much more than either of us could on our own.	伊札娜	就这样，\n朝着仅凭自己一个人无法到达的地方前进。	伊札娜	然後再一起前往獨自一人所無法到達的地方。
+Date_MCHARA_A_04ID	97	Izana	イザナ	それでいいんじゃないかな	Izana	When you think about it, isn't that a wonderful thing?	伊札娜	这样不就可以了嘛。	伊札娜	這樣不是很好嗎？
+Date_MCHARA_A_04ID	98	Resna	レスナ	イザナちゃん……	Resna	Izana...	蕾斯娜	伊札娜……	蕾斯娜	伊札娜……
+Date_MCHARA_A_04ID	99	Resna	レスナ	そっか、そうだよね	Resna	You're right. About everything.	蕾斯娜	也对，你说得没错。	蕾斯娜	對喔，說的也是。
+Date_MCHARA_A_04ID	100	Izana	イザナ	でも、本当にレスナちゃんの教え方\n上手かったなぁ。\n昔よりさらに分かりやすいよ	Izana	And you know what else, Resna? You've always been good at explaining things. But you're even better now than you were before.	伊札娜	话说回来，你真的很会教人，\n比以前教得更易懂了。	伊札娜	不過，蕾斯娜真的很會教人呢。\n比以前更淺顯易懂了。
+Date_MCHARA_A_04ID	101	Izana	イザナ	今度から専属の家庭教師に\nなってもらおうかな	Izana	Maybe I can hire you to be my private tutor from now on!	伊札娜	下次就请你当我得专属家教吧。	伊札娜	下次就找妳當我的私人家教好了。
+Date_MCHARA_A_04ID	102	Resna	レスナ	そ、それは褒めすぎだよ！	Resna	Oh, come on! I'm not THAT good!	蕾斯娜	你、你夸得也太过啦！	蕾斯娜	妳、妳這太過獎了啦！
+Date_MCHARA_A_04ID	103	Resna	レスナ	でも、そう思ってくれるのは嬉しい！\nいつでも声掛けて！	Resna	I'm flattered, though. If you ever want to study together again, just let me know!	蕾斯娜	不过你能这么觉得，我也很开心！\n随时都可以来问我！	蕾斯娜	可是，妳這麼想讓我很高興！\n有需要隨時跟我說！
+Date_MCHARA_A_04ID	104	Izana	イザナ	（レスナちゃん、晴れやかな顔してる。\n　よかった……！）	Izana	(Resna is looking much brighter now. I'm so glad she cheered up!)	伊札娜	（蕾斯娜的表情好开朗，太好啦……！）	伊札娜	（蕾斯娜看上去開心多了。\n　真是太好了……！）
+Date_MCHARA_A_04ID	105	Izana	イザナ	（うーん、何問か問題出してもらったけど\n　微妙な正答率だな）	Izana	(Ngh... Resna has asked me a bunch of questions, but I haven't been able to get that many right.)	伊札娜	（唔……让她出了几道问题，\n　但正确率不算理想。）	伊札娜	（唔……蕾斯娜出了幾道題目，\n　我的答對率有些一言難盡。）
+Date_MCHARA_A_04ID	106	Resna	レスナ	ごめん、そもそも私の解説が下手だったよね	Resna	I'm sorry, Izana. I'm just not a very good teacher.	蕾斯娜	抱歉，是我解释得不够好。	蕾斯娜	抱歉，是我的解說方式不夠好。
+Date_MCHARA_A_04ID	107	Resna	レスナ	色々余計な提案をして、勉強の邪魔を\nしちゃっただけだったかも	Resna	I came up with all of these silly ideas to help you, but all they really did was get in the way of your study time.	蕾斯娜	我提了各种多余的提议，\n搞不好妨碍你学习了。	蕾斯娜	都怪我提這些多餘的建議，\n結果只是干擾妳學習了吧。
+Date_MCHARA_A_04ID	108	Izana	イザナ	ううん！\nむしろ巻き込んじゃってごめん！	Izana	No, that's not it at all! I'm just sorry for roping you into this.	伊札娜	别道歉啊！\n让你为我操心，我才要跟你道歉。	伊札娜	才不會！反而是我麻煩到妳比較抱歉！
+Date_MCHARA_A_04ID	109	Izana	イザナ	（うう、レスナちゃんに\n　謝らせちゃった……）	Izana	(Oh no... I made her feel guilty even though she didn't do anything wrong.)	伊札娜	（呜呜……\n　我害蕾斯娜跟我道歉了……）	伊札娜	（嗚嗚，讓蕾斯娜對我道歉了……）
+Date_MCHARA_A_04ID	110	Izana	イザナ	レスナちゃんに教えてもらうとか？	Izana	Resna, could you maybe talk me through it instead?	伊札娜	让蕾斯娜来教吧？	伊札娜	請蕾斯娜來教教我怎麼樣？
+Date_MCHARA_A_05ID	0	Resna	レスナ	これで頼まれてた分は全部かな	Resna	And I think that just about covers everything in that section.	蕾斯娜	委托需要的都收集齐了吧。	蕾斯娜	這樣就把委託的部分都完成了吧。
+Date_MCHARA_A_05ID	1	Izana	イザナ	そうだね。お疲れさま、レスナちゃん	Izana	Thanks a lot, Resna. That was great.	伊札娜	嗯。辛苦你了，蕾斯娜。	伊札娜	是啊。妳辛苦了，蕾斯娜。
+Date_MCHARA_A_05ID	2	Resna	レスナ	いや～、久しぶりにこの辺りの薬草を\n採取したよ	Resna	You know, it's been a long time since I gathered herbs around here.	蕾斯娜	哎呀，好久没有在这附近采集药草了。	蕾斯娜	哎呀～很久沒來這邊採集藥草了呢。
+Date_MCHARA_A_05ID	3	Izana	イザナ	まだ村にいた頃は、よくここの薬草を使って\n調合してたもんね	Izana	When we were still in the village, you were always using those herbs in your alchemy.	伊札娜	还待在村子里的时候，\n你常用这里的药草调合呢。	伊札娜	還在村裡的時候，\n妳很常用這裡的藥草來調合呢。
+Date_MCHARA_A_05ID	4	Resna	レスナ	この丘を登るの、いつもひと苦労だったけど\n今日はちょっぴり楽だったかも？	Resna	The funny thing is, I usually get pretty tired before I make it all the way up here. But today's hike didn't feel quite so hard.	蕾斯娜	我每次爬这个山坡都可累了，\n但是今天好像轻松了一点？	蕾斯娜	每次爬這座山丘都覺得很辛苦，\n但今天怎麼好像輕鬆一點了？
+Date_MCHARA_A_05ID	5	Izana	イザナ	そりゃそうだよ。\nレスナちゃん、最近めきめき\n体力つけてるもん	Izana	That's because of all of the time you've put into exercising! Your training is paying off.	伊札娜	那肯定啊，你最近增强了不少体力嘛。	伊札娜	這是當然的。\n妳最近體力明顯好了很多啊。
+Date_MCHARA_A_05ID	6	Resna	レスナ	イザナちゃんが提案してくれた\nあの特訓のおかげで、コツが掴めたんだ	Resna	I think your special training program is really helping me build up some stamina.	蕾斯娜	多亏了你提议的特训，我掌握了窍门。	蕾斯娜	多虧了伊札娜提議的那個特訓，\n讓我抓到訣竅了。
+Date_MCHARA_A_05ID	7	Resna	レスナ	きっと一人だったら合わない方法を\n続けて迷走してたと思う	Resna	If I had kept trying on my own, I'd still be running in circles with no results.	蕾斯娜	如果只凭我自己，\n肯定只会一直用不适合的方法瞎忙活。	蕾斯娜	如果靠我自己，一定會繼續用不適合的\n方法亂練一通吧。
+Date_MCHARA_A_05ID	8	Resna	レスナ	イザナちゃんはやっぱり、\n私のことを一番分かってるね	Resna	You really do know me better than anyone else.	蕾斯娜	还是伊札娜最了解我。	蕾斯娜	伊札娜果然是最懂我的人呢。
+Date_MCHARA_A_05ID	9	Izana	イザナ	ふふ、だといいな	Izana	Hehe, I sure try!	伊札娜	呵呵，那就好。	伊札娜	呵呵，是這樣就太好了。
+Date_MCHARA_A_05ID	10	Izana	イザナ	……ねえ、そういえばさ	Izana	Hey, Resna... There's something I've been wanting to ask you about.	伊札娜	说起来……	伊札娜	……對了，話說回來。
+Date_MCHARA_A_05ID	11	Izana	イザナ	レスナちゃんは絵本を渡すのに失敗した後も、\n定期的にあの子の家に通ってたよね	Izana	After you delivered the picture book to that sick child's house, you kept stopping by every once in a while, didn't you?	伊札娜	你虽然没能成功给出故事书，\n但之后也有定期去那个孩子家里吧。	伊札娜	蕾斯娜沒能成功把繪本交出去之後，\n也還是會固定去那孩子家裡看看吧。
+Date_MCHARA_A_05ID	12	Resna	レスナ	そうだね。お菓子とか、花とか、手紙とか\n持って行ったり……	Resna	Yeah, I did. I'd drop off letters or things like flowers and candy.	蕾斯娜	是呢，我有送点心、花朵、信件过去……	蕾斯娜	是啊。我會拿一些點心、花或信之類的過去……
+Date_MCHARA_A_05ID	13	Resna	レスナ	病状が落ち着いてお見舞いできるようになってからは\nなぞなぞの本を持って行ったりしたっけ	Resna	Once the child was feeling better, I was even able to go and visit them. And when I did, I brought a book of riddles along.	蕾斯娜	等那个孩子病情稳定，能接受探望之后，\n我好像还拿了猜谜书过去。	蕾斯娜	後來等她病情好轉，可以去探病了，\n我還有帶猜謎的書去看她。。
+Date_MCHARA_A_05ID	14	Resna	レスナ	これを使えば、イザナちゃんみたいに\nもっと仲良くなれるかもって	Resna	I thought that it would help us become better friends—just like it did with you and me.	蕾斯娜	当时就想，如果一起看了那本书，\n我跟她的关系说不定就能变得跟你一样好。	蕾斯娜	本來想說，用了那本書說不定就能像和伊札娜一樣，\n變得感情更好。
+Date_MCHARA_A_05ID	15	Resna	レスナ	結局、友達になれるほど距離は\n縮まらなかったけど	Resna	But in the end, we never did end up becoming close.	蕾斯娜	但最后也没好到说得上朋友的程度。	蕾斯娜	結果，還是沒有和她拉近距離到\n能成為朋友的程度。
+Date_MCHARA_A_05ID	16	Resna	レスナ	……今思えば、一気に、\nがーって行きすぎたのかな	Resna	Now that I think about it, I was probably trying too hard to force a friendship.	蕾斯娜	……现在想想，我应该是攻势太猛了。	蕾斯娜	……現在回想起來，\n大概是我一下子衝太快了吧。
+Date_MCHARA_A_05ID	17	Izana	イザナ	でも、あの子とあの子の親に「とても親切な子」って\n認識してもらえるようにはなったでしょ？	Izana	But still, that whole family always went on and on about how kind you were. They never forgot that.	伊札娜	但那个孩子跟孩子家长都觉得你很热心吧？	伊札娜	不過，妳還是有讓她的父母了解到\n妳是個非常親切的人了，對吧？
+Date_MCHARA_A_05ID	18	Resna	レスナ	うん……だと、いいな	Resna	Yeah... I just hope I helped a little.	蕾斯娜	嗯……但愿如此。	蕾斯娜	嗯……是這樣就好了。
+Date_MCHARA_A_05ID	19	Izana	イザナ	レスナちゃんのそういう思いやりに溢れたところとか	Izana	Resna, you have such a good heart. You're so kind and giving.	伊札娜	蕾斯娜这种爱热心照顾人的性格……	伊札娜	像蕾斯娜妳這種充滿善意的一面，
+Date_MCHARA_A_05ID	20	Izana	イザナ	誰かのためなら苦手なことでも\n諦めないで頑張れるところとか	Izana	And no matter what, you never give up when you're trying to help someone else.	伊札娜	会为了他人努力，克服自己的弱点的性格……	伊札娜	還是妳為了他人，即使是不擅長的事情\n也不放棄地努力下去的地方，
+Date_MCHARA_A_05ID	21	Izana	イザナ	そういうところが好きだし、\n応援したくなるんだ	Izana	I love that about you. So I always want to be there for you when you need it, too.	伊札娜	我很喜欢你的这些特质，\n这让我情不自禁想为你你加油。	伊札娜	我都很喜歡，很想替妳加油。
+Date_MCHARA_A_05ID	22	Resna	レスナ	褒めすぎだよ	Resna	You're just too sweet.	蕾斯娜	你夸得也太过啦。	蕾斯娜	妳太過獎了啦。
+Date_MCHARA_A_05ID	23	Izana	イザナ	だって本当にそう思ってるんだもん	Izana	I really mean it!	伊札娜	因为我就是这么想的呀。	伊札娜	我是真的這麼想的嘛。
+Date_MCHARA_A_05ID	24	Resna	レスナ	だから余計に恥ずかしいんだって	Resna	I know you do. That's why I can't stop blushing...	蕾斯娜	那我就更不好意思了。	蕾斯娜	妳這樣說讓我更難為情了啦。
+Date_MCHARA_A_05ID	25		レスナ/イザナ	……ふふっ	Resna/Izana	Hehe!	蕾斯娜/伊札娜	……呵呵。	蕾斯娜/伊札娜	……呵呵。
+Date_MCHARA_A_05ID	26	Resna	レスナ	私もそういう風に捉えてくれる\nイザナちゃんが好きだよ	Resna	You're always there for me, so I know I can count on you. And I love that about YOU!	蕾斯娜	我也很喜欢这样看待我的伊札娜。	蕾斯娜	我也喜歡能像這樣理解我的伊札娜喔。
+Date_MCHARA_A_05ID	27	Resna	レスナ	そんなイザナちゃんが私の幼馴染で、親友で、\n私をずっと支えてくれたから、今も頑張れてる	Resna	You've always stuck by me ever since we were little. I wouldn't be able to do any of this without you.	蕾斯娜	而你是我的儿时玩伴、我的好朋友，\n因为你一直支持着我，我现在才能努力。	蕾斯娜	因為有妳這個童年玩伴兼摯友一直支持著我，\n我才能努力到現在。
+Date_MCHARA_A_05ID	28	Resna	レスナ	ありがとう、イザナちゃん	Resna	So thank you, Izana.	蕾斯娜	谢谢你，伊札娜。	蕾斯娜	謝謝妳，伊札娜。
+Date_MCHARA_A_05ID	29	Izana	イザナ	（……幸せ者だな、アタシは）	Izana	(Resna... How did I get so lucky?)	伊札娜	（……我也太幸福了。）	伊札娜	（我真是個幸福的人……）
+Date_MCHARA_A_05ID	30	Izana	イザナ	（これからも、一緒に支え合いながら\n　頑張ろう）	Izana	(As long as we're together, I know there's no limit to what we can accomplish!)	伊札娜	（今后也互相扶持，共同努力吧。）	伊札娜	（我們今後也繼續相互支持，\n　一起努力下去吧。）

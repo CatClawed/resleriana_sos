@@ -1,0 +1,378 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_NPC1_01ID	0	Resna	レスナ	（今日は素材がたくさん採れたなぁ。\n　早いうちに整理しちゃおう。\n　花びらと葉、根っこは分けて……）						
+Date_NPC1_01ID	1	Resna	レスナ	（あれ？　今、もぞもぞって……）						
+Date_NPC1_01ID	2	Resna	レスナ	ひゃいあああ～っ！　虫～！						
+Date_NPC1_01ID	3	Izana	イザナ	大丈夫だよ、レスナちゃん！　捕まえたっ！						
+Date_NPC1_01ID	4	Izana	イザナ	ただいま～。外に出してきたよ。\n少し離れた所だから戻ってこないでしょ						
+Date_NPC1_01ID	5	Resna	レスナ	イ、イ、イザナちゃん、ありがとう～！						
+Date_NPC1_01ID	6	Izana	イザナ	このくらい、ちょちょいのちょいだよ						
+Date_NPC1_01ID	7	Resna	レスナ	はぁ、イザナちゃんがそばにいてくれて\n心の底からありがたいよ						
+Date_NPC1_01ID	8	Izana	イザナ	大げさだよ～						
+Date_NPC1_01ID	9	Izana	イザナ	でも、他には何がありがたい？						
+Date_NPC1_01ID	10	Resna	レスナ	ええっ？　急に言われても、\nありすぎて混乱しちゃうなあ						
+Date_NPC1_01ID	11	Izana	イザナ	えへへ、そう？\nでもでも、その中で強いて言うとしたら？						
+Date_NPC1_01ID	12		選択肢	重い荷物を運んでくれること						
+Date_NPC1_01ID	13	Resna	レスナ	持てない荷物を運んでくれることかな！\nいつも「重くない？」って\n気づかってくれるよね						
+Date_NPC1_01ID	14	Izana	イザナ	レスナちゃん、折れちゃいそうなんだもん。\nそれに、大抵の荷物は\nハンマーより軽いから！						
+Date_NPC1_01ID	15	Izana	イザナ	騎士の修行の役にも立つし、\nこれからも重いものはアタシが持つからね！						
+Date_NPC1_01ID	16		選択肢	疲れたときに応援してくれること						
+Date_NPC1_01ID	17	Resna	レスナ	疲れたときに応援してくれることかな！\n調合で疲労困憊のとき、\nイザナちゃんの声が沁みるんだー						
+Date_NPC1_01ID	18	Izana	イザナ	えー？　そんなことでいいの？\nアタシだってレスナちゃんとの時間に\n癒されてるのに						
+Date_NPC1_01ID	19	Izana	イザナ	でも、アタシの声で元気が出るなら、\n一層声も元気よく出さないとね！\n行け行けレスナちゃんー！！！						
+Date_NPC1_01ID	20		選択肢	世間との橋渡し						
+Date_NPC1_01ID	21	Resna	レスナ	それはもちろん、世間との橋渡しだよ！						
+Date_NPC1_01ID	22	Resna	レスナ	イザナちゃんなしじゃ、\n人付き合いが……その……						
+Date_NPC1_01ID	23	Izana	イザナ	なーにを言ってるのかな！						
+Date_NPC1_01ID	24	Izana	イザナ	これまでも、依頼をたっくさん\n受けてきたでしょ。自信もって！						
+Date_NPC1_01ID	25	Resna	レスナ	うん！　だけどイザナちゃんがいたから、\n勇気を出して進めたんだよ						
+Date_NPC1_01ID	26	Izana	イザナ	もう、レスナちゃんってば……						
+Date_NPC1_01ID	27	Izana	イザナ	えへへ。褒められて嬉しいなー						
+Date_NPC1_01ID	28	Izana	イザナ	リラさんの厳しい修行を\n頑張ったご褒美だね！						
+Date_NPC1_01ID	29	Resna	レスナ	だけどね、やっぱり一番嬉しいのは……\nイザナちゃんが戻ってきてくれたことだよ						
+Date_NPC1_01ID	30	Resna	レスナ	おかえりなさい、イザナちゃん						
+Date_NPC1_01ID	31	Izana	イザナ	うん……ただいま！						
+Date_NPC1_01ID	32	Izana	イザナ	アタシね、この先もレスナちゃんと\n一緒にいるために強くなりたかった						
+Date_NPC1_01ID	33	Izana	イザナ	だからどんな攻め方にも対応できるよう、\n密度の高い鍛錬をしてきたの						
+Date_NPC1_01ID	34	Resna	レスナ	うん！　一目で分かったよ！						
+Date_NPC1_01ID	35	Izana	イザナ	でしょでしょ！？　よーしこれも聞いちゃえ\nどこが一番すごかった！？						
+Date_NPC1_01ID	36		選択肢	無駄を削ぎ落した動き！						
+Date_NPC1_01ID	37	Resna	レスナ	無駄を削ぎ落した動き！\n思わず見惚れちゃったもん！						
+Date_NPC1_01ID	38	Izana	イザナ	リラさんに助言をもらったの。\n隙をなくすために、無駄な動きを\n削るんだって						
+Date_NPC1_01ID	39	Izana	イザナ	そうしたら、体力の配分が上手くなって\n前より長く動けるようになったんだ！						
+Date_NPC1_01ID	40	Izana	イザナ	今までは一打入魂！　って思ってたけど、\nこれからは百打入魂だよ！						
+Date_NPC1_01ID	41	Resna	レスナ	すごいよ、ずっと最強でいられるね！						
+Date_NPC1_01ID	42		選択肢	２本になったハンマー！						
+Date_NPC1_01ID	43	Resna	レスナ	もちろん、２本になったハンマーだよ！\nまさか増えるとは思わなかったなあ						
+Date_NPC1_01ID	44	Izana	イザナ	リラさんが武器を２つ持ってて\n悔しかったからね						
+Date_NPC1_01ID	45	Resna	レスナ	そういう流れだったの？						
+Date_NPC1_01ID	46	Izana	イザナ	でも、１本でもすごいんだから、\n２本ならもっとすごいのは当然だよね！						
+Date_NPC1_01ID	47	Resna	レスナ	鉄壁の構えだよ！　３本目はどうするの？						
+Date_NPC1_01ID	48	Izana	イザナ	もう決めてるよ！\n柄の先に付けて、両刃ならぬ両ハンマー！						
+Date_NPC1_01ID	49	Resna	レスナ	わっ、夢が広がるね！						
+Date_NPC1_01ID	50		選択肢	揺るぎない精神力！						
+Date_NPC1_01ID	51	Resna	レスナ	ゆるぎない精神力だよ！\n戻ってきてくれたときのイザナちゃん、\nまっすぐでかっこよかったな……						
+Date_NPC1_01ID	52	Izana	イザナ	あはは、かっこつけすぎだよって\n言ったのに？						
+Date_NPC1_01ID	53	Izana	イザナ	でも、あの時のアタシは、\nレスナちゃんのところへ戻るなら\nそのくらい決めなきゃって思ってたんだ						
+Date_NPC1_01ID	54	Izana	イザナ	頼れるイザナちゃんに生まれ変わったって\nところを見せなくちゃいけなかったしね！						
+Date_NPC1_01ID	55	Resna	レスナ	夜空の星……ううん。\n満天の星くらい輝いてたよ！						
+Date_NPC1_01ID	56	Izana	イザナ	ふふふ……！\nやっぱりレスナちゃんといると\n何を話しても楽しくなっちゃうなぁ						
+Date_NPC1_01ID	57	Resna	レスナ	こういう時間は久しぶりだから、\nなおさらだよね						
+Date_NPC1_01ID	58	Izana	イザナ	だから……離れてる間は、寂しかったな						
+Date_NPC1_01ID	59		選択肢	私もだよ！						
+Date_NPC1_01ID	60	Resna	レスナ	私もだよ。\nいつも隣にいてくれたイザナちゃんが\nいなくて、すごく苦しかった……						
+Date_NPC1_01ID	61	Resna	レスナ	でも、イザナちゃんがあれだけ迷って\n決めたことを、私は快く送り出せなかった。\nそれを、ずっと悔やんでたの						
+Date_NPC1_01ID	62	Izana	イザナ	アタシもごめんね。大事なことだったのに\n一人で決めちゃって						
+Date_NPC1_01ID	63	Izana	イザナ	でも、これからもレスナちゃんを\n守り続けるためには、\nもっと強くなる必要があったんだ						
+Date_NPC1_01ID	64	Izana	イザナ	だから、ずっとずっと一緒にいるために、\n今は我慢して離れなくちゃって思ったんだ						
+Date_NPC1_01ID	65	Resna	レスナ	うん。今なら分かるよ。\n私はイザナちゃんを信じてる。\nイザナちゃんだけが、私の騎士様だから						
+Date_NPC1_01ID	66	Izana	イザナ	もちろん！\nずっとそばで守るからね、レスナちゃん！						
+Date_NPC1_01ID	67		選択肢	負けないように頑張った						
+Date_NPC1_01ID	68	Resna	レスナ	私も、負けないように頑張ったよ。\nイザナちゃんが頑張ってるのに\nいつまでもめそめそしていられない						
+Date_NPC1_01ID	69	Izana	イザナ	クラウディアに励まされたんだっけ？\nでも、クラウディアはレスナちゃん自身の\n力だよって言ってたけどな\n						
+Date_NPC1_01ID	70	Izana	イザナ	いつも一生懸命なところ、かっこいいな						
+Date_NPC1_01ID	71	Izana	イザナ	レスナちゃんは、いつでも\n自慢のレスナちゃんだね！						
+Date_NPC1_01ID	72		選択肢	マメにブラシに話しかけてた						
+Date_NPC1_01ID	73	Resna	レスナ	私は……マメにブラシに話しかけてたかな						
+Date_NPC1_01ID	74	Izana	イザナ	えっ、どういうこと！？						
+Date_NPC1_01ID	75	Resna	レスナ	あのブラシは、いつもイザナちゃんと\n一緒だったでしょ？						
+Date_NPC1_01ID	76	Resna	レスナ	だから同じくらい、\n寂しかったかもしれない						
+Date_NPC1_01ID	77	Izana	イザナ	なるほど……						
+Date_NPC1_01ID	78	Resna	レスナ	そう思って、気持ちを分かち合ってたの						
+Date_NPC1_01ID	79	Izana	イザナ	確かに、鋼鉄の魂を分け合った双子……\nいや、もはや分身と言えるかも？						
+Date_NPC1_01ID	80	Resna	レスナ	じょ、冗談だよ～！						
+Date_NPC1_01ID	81	Izana	イザナ	……実はね、ちょっとだけ不安だったんだ。\n今のレスナちゃんだったら、\nアタシがいなくても……						
+Date_NPC1_01ID	82	Resna	レスナ	そんなことないよ！\n流れ星に誓った日を忘れたことなんてない。\nイザナちゃんは、ずっと私の特別なの						
+Date_NPC1_01ID	83	Izana	イザナ	レスナちゃん、ありがとう。\n絶対、一緒に夢を叶えようね！						
+Date_NPC1_01ID	84			（やっぱり、イザナちゃんがそばにいると\n　安心するなあ。本当に戻ってきてくれて\n　良かった）						
+Date_NPC1_01ID	85			（きっと、これからはずっと一緒に\n　いられるよね……？）						
+Date_NPC1_02ID	0	Resna	レスナ	わっ！　もうこんな時間……\nすっかり調べものに没頭しちゃった						
+Date_NPC1_02ID	1	Izana	イザナ	うう～……お腹ぺこぺこだよ～						
+Date_NPC1_02ID	2	Izana	イザナ	あれ？　レスナちゃん？						
+Date_NPC1_02ID	3	Resna	レスナ	イザナちゃん！\nまさかこの時間まで鍛錬を？						
+Date_NPC1_02ID	4	Izana	イザナ	レスナちゃんこそ！　大丈夫なの？						
+Date_NPC1_02ID	5	Resna	レスナ	私は……						
+Date_NPC1_02ID	6	Izana	イザナ	あはは、お互いに限界みたいだね						
+Date_NPC1_02ID	7	Izana	イザナ	何か食べるものあるかな？						
+Date_NPC1_02ID	8		選択肢	野菜たっぷりスープ						
+Date_NPC1_02ID	9	Izana	イザナ	うーん、沁み渡る～！						
+Date_NPC1_02ID	10	Izana	イザナ	ぺこぺこのお腹にも優しいね！						
+Date_NPC1_02ID	11	Resna	レスナ	身体の調子を整え、疲労回復に効く、\nお野菜たっぷりの一品だよ！						
+Date_NPC1_02ID	12		選択肢	がっつりお肉サンド						
+Date_NPC1_02ID	13	Izana	イザナ	体力を使った分だけ、補わないとね！						
+Date_NPC1_02ID	14	Izana	イザナ	うん、食べ応えたっぷりで美味しい～！						
+Date_NPC1_02ID	15	Resna	レスナ	う、羨ましい……私も食べよ！						
+Date_NPC1_02ID	16		選択肢	身体を作るチーズリゾット						
+Date_NPC1_02ID	17	Izana	イザナ	まろやかで優しい味だね……						
+Date_NPC1_02ID	18	Izana	イザナ	家に帰ったみたいで、ほっとするよ						
+Date_NPC1_02ID	19	Resna	レスナ	骨も筋肉も育む、乳製品たっぷりだからね						
+Date_NPC1_02ID	20	Izana	イザナ	はぁ……ごちそうさま！　美味しかった！						
+Date_NPC1_02ID	21	Resna	レスナ	よかった～。イザナちゃんの身体作りを\n助けられる内容にしたんだよ						
+Date_NPC1_02ID	22	Izana	イザナ	鍛錬の後の食事っていうと、思い出すね						
+Date_NPC1_02ID	23	Izana	イザナ	へとへとの身体でレスナちゃんちの\n窓に声をかけると……						
+Date_NPC1_02ID	24	Izana	イザナ	生焼けのクッキーや\nぜんぜん膨らんでないパンを作ってたりして						
+Date_NPC1_02ID	25	Resna	レスナ	あ、あの頃は料理が下手だったから！\n今はさすがにそんなことないでしょ？						
+Date_NPC1_02ID	26	Izana	イザナ	もちろん。\nレスナちゃんの料理は最高だもん						
+Date_NPC1_02ID	27	Izana	イザナ	アタシだって、あの頃より成長したよ						
+Date_NPC1_02ID	28	Izana	イザナ	今日は昼から夜までずっと\nハンマーの素振りに走り込み……						
+Date_NPC1_02ID	29	Izana	イザナ	そして夜になってからさっきまで、\n筋トレに打ち込んでたんだ！						
+Date_NPC1_02ID	30	Resna	レスナ	きょ、驚天動地だよ、イザナちゃん……						
+Date_NPC1_02ID	31	Izana	イザナ	えへへ！　すごいでしょ！						
+Date_NPC1_02ID	32		選択肢	だけど、心配だなあ……						
+Date_NPC1_02ID	33	Resna	レスナ	だけど、心配だなあ……。\nもしかして、鍛錬の内容が\n偏ってたりしてない？						
+Date_NPC1_02ID	34	Resna	レスナ	実は、本で読んだんだけど……\n筋肉には、瞬発力に長けたものと\n長時間の運動に長けたものがあるんだって						
+Date_NPC1_02ID	35	Resna	レスナ	そのどちらも鍛えないと、\n均整の取れた筋肉にならないみたい						
+Date_NPC1_02ID	36	Izana	イザナ	うわあ……筋肉にも勉強が必要なの！？\n勉強は頭がこう、わあああってなって\nいっぱいいっぱいになるから嫌なのにー						
+Date_NPC1_02ID	37	Izana	イザナ	その時間を鍛錬に回したいんだけどなあ。\nでも、これも騎士試験と一緒かあ						
+Date_NPC1_02ID	38	Izana	イザナ	試験勉強と一緒に筋肉勉強も\nこれからはしていかないとね。\n筋肉筋肉！						
+Date_NPC1_02ID	39		選択肢	強くなるのも納得だね！						
+Date_NPC1_02ID	40	Izana	イザナ	うん。実感が伴ってるよ。\n筋肉がたぎってるのを感じるもん！						
+Date_NPC1_02ID	41	Izana	イザナ	だけど、まだまだ……！\nアタシの筋肉ちゃんたちは\nもっと頑張れるって言ってる！						
+Date_NPC1_02ID	42	Izana	イザナ	リラさんにはかなわなくても、\nせめて追いつかないと！						
+Date_NPC1_02ID	43	Resna	レスナ	（イザナちゃん……かっこいいな）						
+Date_NPC1_02ID	44		選択肢	マッサージするよ！						
+Date_NPC1_02ID	45	Resna	レスナ	筋肉が張ってるから、ほぐしていくね						
+Date_NPC1_02ID	46	Resna	レスナ	まずは脚から……！						
+Date_NPC1_02ID	47	Izana	イザナ	あっ。えっ、ちょっと待って！						
+Date_NPC1_02ID	48	Izana	イザナ	くすぐったい……あはははは！						
+Date_NPC1_02ID	49	Izana	イザナ	もう！　ダメだってばーーーーー！！						
+Date_NPC1_02ID	50	Resna	レスナ	イザナちゃん！　大丈夫！？						
+Date_NPC1_02ID	51	Izana	イザナ	う、うん……大変だったぁ						
+Date_NPC1_02ID	52	Izana	イザナ	とにかく、アタシはもっともっと\n強くなるから楽しみにしててね！						
+Date_NPC1_02ID	53	Izana	イザナ	明日は誰かに手合わせをお願いしようかな						
+Date_NPC1_02ID	54	Resna	レスナ	……さすがに、根を詰めすぎじゃないかな						
+Date_NPC1_02ID	55	Izana	イザナ	え？						
+Date_NPC1_02ID	56	Resna	レスナ	本に書いてあったんだけどね						
+Date_NPC1_02ID	57	Resna	レスナ	筋肉は、鍛えたときじゃなくて\n休息時にこそ発達するんだって						
+Date_NPC1_02ID	58	Resna	レスナ	あ、リラさんに教えてもらったことと\n違ったら気にしなくていいんだけど……！						
+Date_NPC1_02ID	59	Izana	イザナ	……心配してくれて、ありがとう						
+Date_NPC1_02ID	60	Izana	イザナ	だけど、リラさんが言ってたんだ\n錬金術士と共に在ろうとするのは大変って						
+Date_NPC1_02ID	61	Izana	イザナ	きっと、アンペルさんとの旅で\nいくつもの困難があったんだろうね						
+Date_NPC1_02ID	62	Izana	イザナ	アタシも、レスナちゃんを守るために\n強くならなきゃって覚悟を決めたの						
+Date_NPC1_02ID	63	Izana	イザナ	そのための鍛錬は苦じゃないし、\n行ける場所が広がって、嬉しいんだよ						
+Date_NPC1_02ID	64	Resna	レスナ	イザナちゃん……ありがとう						
+Date_NPC1_02ID	65	Izana	イザナ	だからね、依頼が一段落したら\nどこへだって連れていくよ！						
+Date_NPC1_02ID	66	Izana	イザナ	行きたい場所、ある？						
+Date_NPC1_02ID	67		選択肢	ハンマーに聞こう						
+Date_NPC1_02ID	68	Resna	レスナ	ハンマーに聞こう！\nハンマーもイザナちゃんと一緒に\n頑張ったんだから、聞かなくちゃ						
+Date_NPC1_02ID	69	Izana	イザナ	ありがとう。きっと喜ぶよ						
+Date_NPC1_02ID	70	Izana	イザナ	それじゃ、耳を澄ませて……						
+Date_NPC1_02ID	71	Resna	レスナ	ハンマーさん、ハンマーさん。\nどこに行きたいですか？						
+Date_NPC1_02ID	72		ハンマー？	ケーキヤサンニ……イキタイナ……						
+Date_NPC1_02ID	73	Resna	レスナ	ん！？　今の、イザナちゃんだよね？						
+Date_NPC1_02ID	74	Izana	イザナ	あはは、バレちゃった						
+Date_NPC1_02ID	75		選択肢	王都の生地屋						
+Date_NPC1_02ID	76	Resna	レスナ	王都の生地屋さんに行きたいな。\nスカートがほつれちゃったから、\n繕う生地が欲しくて						
+Date_NPC1_02ID	77	Izana	イザナ	それなら、新しいの作っちゃおうよ！						
+Date_NPC1_02ID	78	Izana	イザナ	レスナちゃんが映えるように、\nレースやフリルをつけたいな～						
+Date_NPC1_02ID	79	Resna	レスナ	じゃあ私は、イザナちゃんに\nリボンの付け襟を作っちゃいます！						
+Date_NPC1_02ID	80	Izana	イザナ	やった！　楽しみ～！						
+Date_NPC1_02ID	81		選択肢	レスナの家						
+Date_NPC1_02ID	82	Izana	イザナ	里帰り？						
+Date_NPC1_02ID	83	Resna	レスナ	自分の部屋で、イザナちゃんと\nのんびり過ごしたいな						
+Date_NPC1_02ID	84	Resna	レスナ	ここは人の出入りがあるから、\nちょっと恥ずかしくて						
+Date_NPC1_02ID	85	Izana	イザナ	昔はお菓子片手に、ゴロゴロしたよね～						
+Date_NPC1_02ID	86	Izana	イザナ	同じ部屋にいるのに、\n読んでた本は別々だった						
+Date_NPC1_02ID	87	Resna	レスナ	そのうち、うとうとしちゃってね						
+Date_NPC1_02ID	88	Izana	イザナ	そうそう！						
+Date_NPC1_02ID	89	Resna	レスナ	だけど、まずは気になってた採取地かな						
+Date_NPC1_02ID	90	Izana	イザナ	うん。それじゃ、また明日。おやすみ！						
+Date_NPC1_02ID	91	Resna	レスナ	（嬉しくってお願いしちゃったけど……）						
+Date_NPC1_02ID	92	Resna	レスナ	（お休みなしで、大丈夫かなあ）						
+Date_NPC1_02ID	93	Resna	レスナ	強くなるのも納得だね！						
+Date_NPC1_02ID	94	Resna	レスナ	フリーゲンの、私の家はどうかな？						
+Date_NPC1_03ID	0	Resna	レスナ	（イザナちゃんと採取の約束をした次の日。\n私達はさっそく外に出て探索をしていた）						
+Date_NPC1_03ID	1	Izana	イザナ	やあああ！！						
+Date_NPC1_03ID	2	Izana	イザナ	おしまいっ！						
+Date_NPC1_03ID	3	Izana	イザナ	お待たせ！　もう平気だよ						
+Date_NPC1_03ID	4	Resna	レスナ	わぁ……綺麗な花！						
+Date_NPC1_03ID	5	Resna	レスナ	あうっ！						
+Date_NPC1_03ID	6	Resna	レスナ	うう～……情けないこと、山の如し……						
+Date_NPC1_03ID	7	Izana	イザナ	レスナちゃんってば、危なっかしいなあ						
+Date_NPC1_03ID	8	Izana	イザナ	お手をどうぞ？						
+Date_NPC1_03ID	9	Resna	レスナ	イザナちゃん、かっこいいよ……！						
+Date_NPC1_03ID	10	Izana	イザナ	騎士みたいに？						
+Date_NPC1_03ID	11	Resna	レスナ	騎士みたいに！						
+Date_NPC1_03ID	12	Izana	イザナ	えへへ！　やった……						
+Date_NPC1_03ID	13	Izana	イザナ	下がって！						
+Date_NPC1_03ID	14	Resna	レスナ	ぜ、ぜんぜん気付かなかった						
+Date_NPC1_03ID	15	Resna	レスナ	電光石火の一撃だったよ！						
+Date_NPC1_03ID	16	Izana	イザナ	このハンマーも、一緒に鍛錬したからね						
+Date_NPC1_03ID	17	Izana	イザナ	ハンマーはただでさえ最強なのに、\nもっと強くなったんだ						
+Date_NPC1_03ID	18	Izana	イザナ	今は自分の腕みたいに振るえるよ						
+Date_NPC1_03ID	19	Resna	レスナ	イザナちゃんと一心同体なら、\n怖いものなしだね！						
+Date_NPC1_03ID	20	Izana	イザナ	アタシもそう思うよ！						
+Date_NPC1_03ID	21	Izana	イザナ	しっかり守るから、\nレスナちゃんは採取に専念して						
+Date_NPC1_03ID	22	Resna	レスナ	ありがとう！　よろしくね						
+Date_NPC1_03ID	23	Resna	レスナ	（イザナちゃんが戦ってくれるおかげで\n　安心して採取に集中できるなぁ）						
+Date_NPC1_03ID	24	Resna	レスナ	……よし。こんなところかな						
+Date_NPC1_03ID	25	Resna	レスナ	終わったよ、イザナちゃん！						
+Date_NPC1_03ID	26	Izana	イザナ	あ……うん！						
+Date_NPC1_03ID	27	Resna	レスナ	どうしたの？　もしかして、ケガ……						
+Date_NPC1_03ID	28	Izana	イザナ	違うの。そうじゃなくて……						
+Date_NPC1_03ID	29	Izana	イザナ	緊張で、疲れちゃったみたい！　えへへ						
+Date_NPC1_03ID	30	Resna	レスナ	イザナちゃん……						
+Date_NPC1_03ID	31	Resna	レスナ	今日はもう、寄り道しないで帰ろっか						
+Date_NPC1_03ID	32	Izana	イザナ	いいけど……レスナちゃん、変なの						
+Date_NPC1_03ID	33	Resna	レスナ	（やっぱり、鍛錬のしすぎなのかも。\n　無理にでも休んでもらわなきゃ……）						
+Date_NPC1_04ID	0	Izana	イザナ	ただいま～！\nレスナちゃんが採取したもの、\nここに置いておくね						
+Date_NPC1_04ID	1	Resna	レスナ	うん、ありがとう！						
+Date_NPC1_04ID	2	Izana	イザナ	欲しいもの、集められた？\nもっといてもよかったんだよ						
+Date_NPC1_04ID	3	Resna	レスナ	必要なものは揃ったから大丈夫。\nそれより、最近のイザナちゃんが心配なの						
+Date_NPC1_04ID	4	Resna	レスナ	なんだか、頑張りすぎてるみたいで……\nもっと気を楽にしてもいいんだよ？						
+Date_NPC1_04ID	5	Izana	イザナ	……これはね、ただの鍛錬不足						
+Date_NPC1_04ID	6	Izana	イザナ	リラさんに無駄のない動きを\n教わったのに、活かせなくて悔しいよ						
+Date_NPC1_04ID	7	Izana	イザナ	アタシね、早く強くなりたいの。\n騎士になって、レスナちゃんを守りたい						
+Date_NPC1_04ID	8	Izana	イザナ	流れ星に誓ったあの日より、\n気持ちがもっと強くなってるんだ						
+Date_NPC1_04ID	9		選択肢	騎士だと思ってるから、心配						
+Date_NPC1_04ID	10	Resna	レスナ	私はイザナちゃんを騎士だと思ってるから、\n心配なんだよ						
+Date_NPC1_04ID	11	Resna	レスナ	イザナちゃんがどれだけ努力してきたか、\n分かってるつもりだよ						
+Date_NPC1_04ID	12	Resna	レスナ	他の人の何倍も努力して、\n苦手な勉強にも向き合ってきたよね。\nそんな姿を見てきたから、心配してるの						
+Date_NPC1_04ID	13	Resna	レスナ	一緒に夢を叶えたい気持ちは、\n変わってないよ						
+Date_NPC1_04ID	14	Izana	イザナ	あっ……						
+Date_NPC1_04ID	15		選択肢	大事な幼馴染だから、心配						
+Date_NPC1_04ID	16	Resna	レスナ	イザナちゃんは大事な幼馴染だから、\n心配だよ						
+Date_NPC1_04ID	17	Resna	レスナ	小さな頃から努力する姿を見てきたけど、\n最近は特に、無理してるようで……						
+Date_NPC1_04ID	18	Izana	イザナ	その頃のアタシとは違うからね						
+Date_NPC1_04ID	19	Izana	イザナ	強くなった分だけ、\nもっと追い込まなきゃいけないの						
+Date_NPC1_04ID	20		選択肢	親友として、心配						
+Date_NPC1_04ID	21	Resna	レスナ	親友として、心配だよ						
+Date_NPC1_04ID	22	Resna	レスナ	疲労困憊のイザナちゃんなんて、\n見てられないよ。\nかけがえのない友達なんだから						
+Date_NPC1_04ID	23	Izana	イザナ	ありがとう……でも						
+Date_NPC1_04ID	24	Izana	イザナ	レスナちゃんと同じくらい、本気なの						
+Date_NPC1_04ID	25	Resna	レスナ	イザナちゃんが、夢への想いを\n強めたことは私にも分かる……						
+Date_NPC1_04ID	26	Resna	レスナ	それならせめて、離れてた間の成果を\n見てもらえないかな						
+Date_NPC1_04ID	27	Resna	レスナ	私も、イザナちゃんを支える方法を\n錬金術で見つけたいと思ったの						
+Date_NPC1_04ID	28	Izana	イザナ	レスナちゃんがアタシのために？						
+Date_NPC1_04ID	29	Izana	イザナ	嬉しい！　どんな方法か、教えて！						
+Date_NPC1_04ID	30		選択肢	怪我をしない備え						
+Date_NPC1_04ID	31	Resna	レスナ	実はもう、作ってあるの						
+Date_NPC1_04ID	32	Resna	レスナ	鍛錬は身体に負荷がかかるから、\n一番怖いのは怪我だよね						
+Date_NPC1_04ID	33	Resna	レスナ	だから……はい！						
+Date_NPC1_04ID	34	Izana	イザナ	えっと、このお椀みたいなのは？						
+Date_NPC1_04ID	35	Resna	レスナ	特製の保護器具だよ！\nこれで関節を守って！						
+Date_NPC1_04ID	36	Izana	イザナ	備えって、そっちかー						
+Date_NPC1_04ID	37	Izana	イザナ	でも、ありがとう。気を付けるね						
+Date_NPC1_04ID	38		選択肢	先人の知恵						
+Date_NPC1_04ID	39	Resna	レスナ	鍛えるには、やっぱりコツがあるみたい。\n先人の知恵に頼ってみたんだ						
+Date_NPC1_04ID	40	Resna	レスナ	調べたことを紙にまとめたから、\n読んでほしいな						
+Date_NPC1_04ID	41	Resna	レスナ	……よいしょっと						
+Date_NPC1_04ID	42	Izana	イザナ	うわっ！　分厚いね……						
+Date_NPC1_04ID	43	Izana	イザナ	読んでるそばから\n忘れちゃいそうだけど……						
+Date_NPC1_04ID	44	Izana	イザナ	レスナちゃんの熱意は伝わったよ						
+Date_NPC1_04ID	45		選択肢	効率的な身体作り						
+Date_NPC1_04ID	46	Izana	イザナ	もしかして、筋力を上げるコルセットとか\nおもりの入った靴とか！？						
+Date_NPC1_04ID	47	Izana	イザナ	逆に、翼のついた服や、\n衝撃を吸収する手袋の可能性も！？						
+Date_NPC1_04ID	48	Resna	レスナ	ううん。そうじゃないけど、\nとっておきの秘策があるの						
+Date_NPC1_04ID	49	Izana	イザナ	隠し玉ってこと！？						
+Date_NPC1_04ID	50	Resna	レスナ	もっともっと、手軽な方法だよ						
+Date_NPC1_04ID	51	Resna	レスナ	本当は、錬金術を応用したかったんだよ						
+Date_NPC1_04ID	52	Resna	レスナ	だけど、筋力を引き出す薬には\n反動があるし……						
+Date_NPC1_04ID	53	Resna	レスナ	イザナちゃんちのハンマーを\n超えるものは作れない						
+Date_NPC1_04ID	54	Resna	レスナ	だから、身体の仕組みを勉強したの						
+Date_NPC1_04ID	55	Resna	レスナ	鍛錬の効果を、もっと引き出すために！						
+Date_NPC1_04ID	56	Izana	イザナ	ご、ごくり……！						
+Date_NPC1_04ID	57	Resna	レスナ	それは……！						
+Date_NPC1_04ID	58	Izana	イザナ	待って。もしかしてそれが、\n「休む」ってこと？						
+Date_NPC1_04ID	59	Resna	レスナ	……うん						
+Date_NPC1_04ID	60	Resna	レスナ	今のやり方じゃ、いくら鍛錬しても\n身につかないと思うの						
+Date_NPC1_04ID	61	Izana	イザナ	そっかー……						
+Date_NPC1_04ID	62	Resna	レスナ	（やっぱり、納得してないよね）						
+Date_NPC1_04ID	63	Resna	レスナ	（どうしたら伝わるんだろう。\n　身近なものを例に出せばいいのかな）						
+Date_NPC1_04ID	64	Resna	レスナ	（たとえば、武器に手入れが必要なのと\n　同じように……とか）						
+Date_NPC1_04ID	65	Izana	イザナ	……あのね、レスナちゃんが\n心配してくれるのは嬉しいけど						
+Date_NPC1_04ID	66	Izana	イザナ	ずっと追い込んできたから、\nアタシはここまで強くなれたんだよ						
+Date_NPC1_04ID	67		選択肢	ハンマーと同じなんだよ						
+Date_NPC1_04ID	68	Izana	イザナ	えっ？　アタシが？						
+Date_NPC1_04ID	69	Resna	レスナ	というより、人もハンマーも……かな						
+Date_NPC1_04ID	70	Resna	レスナ	筋肉は、鍛えれば強くなると思うでしょ？						
+Date_NPC1_04ID	71	Resna	レスナ	だけど本当は、休んでるときにこそ\n発達してるの						
+Date_NPC1_04ID	72	Resna	レスナ	それは、ハンマーも同じで、\n使うだけじゃボロボロになっちゃう						
+Date_NPC1_04ID	73	Resna	レスナ	どうしてなのかは、\nイザナちゃんのほうが詳しいよね						
+Date_NPC1_04ID	74	Izana	イザナ	たぶん、手入れしてないからかな。\nアタシはちゃんと……						
+Date_NPC1_04ID	75	Izana	イザナ	あっ						
+Date_NPC1_04ID	76	Resna	レスナ	そうなんだよ、イザナちゃん！						
+Date_NPC1_04ID	77	Resna	レスナ	あんなに最強のハンマーにも\n手入れが必要なんだもん						
+Date_NPC1_04ID	78	Resna	レスナ	イザナちゃんにも、お休みが必要だよ						
+Date_NPC1_04ID	79	Izana	イザナ	そっか……うん！　わかった！						
+Date_NPC1_04ID	80		選択肢	努力家だからだよ						
+Date_NPC1_04ID	81	Resna	レスナ	追い込んだから強くなったんじゃなくて、\n毎日コツコツ続けたから						
+Date_NPC1_04ID	82	Resna	レスナ	継続力こそ、イザナちゃんの力なんだよ						
+Date_NPC1_04ID	83	Izana	イザナ	ううん、全然足りない						
+Date_NPC1_04ID	84	Izana	イザナ	すごい人たちに追いつくくらい、\n強くならなくちゃ						
+Date_NPC1_04ID	85	Izana	イザナ	それでね、どんな脅威からも\nレスナちゃんを守ってみせるよ！						
+Date_NPC1_04ID	86		選択肢	一途だからだよ						
+Date_NPC1_04ID	87	Resna	レスナ	夢に一途だから、すべての時間を\n注ぎ込んで強くなったんだよね						
+Date_NPC1_04ID	88	Resna	レスナ	その想いの強さが、\nイザナちゃんの武器なんだと思うよ						
+Date_NPC1_04ID	89	Izana	イザナ	想いなら、誰にも負けない！						
+Date_NPC1_04ID	90	Izana	イザナ	……つもりだったけど、\nそれだけじゃ敵わない人たちがいるんだ						
+Date_NPC1_04ID	91	Izana	イザナ	アタシ、まだまだなの						
+Date_NPC1_04ID	92	Izana	イザナ	すごいな、レスナちゃんは						
+Date_NPC1_04ID	93	Izana	イザナ	身体作りだけじゃなくて、\nハンマーのことまで勉強してくれたんだ						
+Date_NPC1_04ID	94	Resna	レスナ	信じてくれるの？						
+Date_NPC1_04ID	95	Izana	イザナ	もちろん！						
+Date_NPC1_04ID	96	Izana	イザナ	何かを知りたくなったレスナちゃんは、\n徹底的に調べるって知ってるからね						
+Date_NPC1_04ID	97	Izana	イザナ	今日は意地を張るのをやめて、\nレスナちゃんとお休みする！						
+Date_NPC1_04ID	98	Resna	レスナ	（よかった！\n　イザナちゃんが受け入れてくれた）						
+Date_NPC1_04ID	99	Izana	イザナ	それじゃ、ちょっと準備してくるね						
+Date_NPC1_04ID	100	Izana	イザナ	休みを思いっきり満喫できるように！						
+Date_NPC1_04ID	101	Resna	レスナ	イザナちゃん……						
+Date_NPC1_04ID	102	Izana	イザナ	あーあ。何が足りなかったんだろう						
+Date_NPC1_04ID	103	Izana	イザナ	ちょっと、ハンマーと語り合ってくるね						
+Date_NPC1_04ID	104	Resna	レスナ	待って、イザナちゃん！						
+Date_NPC1_04ID	105	Resna	レスナ	（心配してただけなのに、\n　裏目に出ちゃった……）						
+Date_NPC1_04ID	106	Resna	レスナ	（もっと上手く伝えられたら\n　よかったのに……）						
+Date_NPC1_04ID	107	Resna	レスナ	効率的な身体の作り方なんだけど……						
+Date_NPC1_04ID	108	Resna	レスナ	イザナちゃんは、\nハンマーと同じなんだよ						
+Date_NPC1_05ID	0	Resna	レスナ	（あれから、イザナちゃんは\n　鍛錬の合間に効率的に\n　休息を入れるようになった……と思う）						
+Date_NPC1_05ID	1	Resna	レスナ	（でも、一人だとやっぱり動き続けちゃう\n　ということなので、私がいる時は\n　私が休憩の声かけ役！）						
+Date_NPC1_05ID	2	Resna	レスナ	（ほら、今日もこうして……）						
+Date_NPC1_05ID	3	Resna	レスナ	もういいよ、イザナちゃん！						
+Date_NPC1_05ID	4	Izana	イザナ	よーし、休むぞー！						
+Date_NPC1_05ID	5	Izana	イザナ	って言っても、ここ最近は鍛錬ばかり\nしてたから、いざ休もうとすると\nどうすればいいか分からないね						
+Date_NPC1_05ID	6	Resna	レスナ	ふふ。そう思って、ご用意しました！						
+Date_NPC1_05ID	7	Resna	レスナ	ささ、まずは粗茶ですが……						
+Date_NPC1_05ID	8	Izana	イザナ	はぁ……いい香り						
+Date_NPC1_05ID	9	Resna	レスナ	気持ちの落ち着く調合にしてみたよ						
+Date_NPC1_05ID	10	Izana	イザナ	景色のいいところで飲むお茶は、\nほっとするね～						
+Date_NPC1_05ID	11	Resna	レスナ	次はこちらをご覧あれ！　はいっ！						
+Date_NPC1_05ID	12	Izana	イザナ	わあっ！　レスナちゃんの手料理だ！						
+Date_NPC1_05ID	13	Resna	レスナ	軽くつまめるものだけど、\nイザナちゃんの好きなものだけで作ったよ						
+Date_NPC1_05ID	14	Izana	イザナ	どれも美味しそう～！　目移りしちゃう！						
+Date_NPC1_05ID	15	Resna	レスナ	好きなとこから、好きなだけ食べてね						
+Date_NPC1_05ID	16	Izana	イザナ	うん！　いっただきまーす！						
+Date_NPC1_05ID	17	Izana	イザナ	はぐっ！　うーん！						
+Date_NPC1_05ID	18	Izana	イザナ	やっぱり、レスナちゃんの\n料理も最強だよ！						
+Date_NPC1_05ID	19	Resna	レスナ	ううっ……喜びに打ち震えそう						
+Date_NPC1_05ID	20	Resna	レスナ	だけど、まだまだ！						
+Date_NPC1_05ID	21	Resna	レスナ	最強といえば……はいっ！						
+Date_NPC1_05ID	22	Izana	イザナ	雑誌？　いったいなんの……						
+Date_NPC1_05ID	23	Izana	イザナ	あーっ！　王都最強ハンマー番付だ！\nありがとう、レスナちゃん！						
+Date_NPC1_05ID	24	Resna	レスナ	好きな本と一緒だと、\n気持ちが落ち着くもんね						
+Date_NPC1_05ID	25	Izana	イザナ	ううん！　逆に燃えてきたよ！						
+Date_NPC1_05ID	26	Izana	イザナ	このハンマー凝ってるなあ……\nまあ、お父さんのにはかなわないけど						
+Date_NPC1_05ID	27	Resna	レスナ	（ふふ。イザナちゃん、生き生きしてる。\n　探してきてよかった）						
+Date_NPC1_05ID	28	Izana	イザナ	はあ……満喫したなぁ						
+Date_NPC1_05ID	29	Resna	レスナ	少しはゆっくりできた？						
+Date_NPC1_05ID	30	Izana	イザナ	うん。それでね、改めて気付いたんだ						
+Date_NPC1_05ID	31	Izana	イザナ	アタシの癒しは、レスナちゃんといる時間だって						
+Date_NPC1_05ID	32	Resna	レスナ	そ、そうなの？						
+Date_NPC1_05ID	33	Izana	イザナ	なのに、強くなりたい一心で\nこの時間をなくしそうになってたんだから						
+Date_NPC1_05ID	34	Izana	イザナ	まったく、アタシって本当に\nおっちょこちょいなんだから！						
+Date_NPC1_05ID	35	Resna	レスナ	でも、一緒に過ごしてくれてありがとう						
+Date_NPC1_05ID	36	Izana	イザナ	えへへ。アタシこそだよ						
+Date_NPC1_05ID	37	Resna	レスナ	そんなイザナちゃんに、\nさらなる癒しの時間をお届けします！						
+Date_NPC1_05ID	38	Resna	レスナ	耳かきのお時間です！						
+Date_NPC1_05ID	39	Izana	イザナ	やった～！　最後はやっぱりこれだよね						
+Date_NPC1_05ID	40	Izana	イザナ	うにゃ～……気持ちいい～……						
+Date_NPC1_05ID	41	Resna	レスナ	こしょこしょ～、こしょこしょ～						
+Date_NPC1_05ID	42	Izana	イザナ	ううううっ……！						
+Date_NPC1_05ID	43	Resna	レスナ	イザナちゃん、動かないでね～？						
+Date_NPC1_05ID	44	Izana	イザナ	ううっ……でも、これは……						
+Date_NPC1_05ID	45	Izana	イザナ	ふわあああ～～～						
+Date_NPC1_05ID	46	Resna	レスナ	はい、おしまい。どうだった？						
+Date_NPC1_05ID	47	Izana	イザナ	至福の時だったよ～……						
+Date_NPC1_05ID	48	Izana	イザナ	ねえ、また耳かきしてくれる？						
+Date_NPC1_05ID	49	Resna	レスナ	もちろん！　イザナちゃんが\nお休みのときにね						
+Date_NPC1_05ID	50	Izana	イザナ	うん！　これからは、鍛錬したら\n必ず休むようにするよ						
+Date_NPC1_05ID	51	Resna	レスナ	約束だよ、イザナちゃん						
+Date_NPC1_05ID	52	Izana	イザナ	レスナちゃんと、この耳かきに誓って！						

@@ -1,0 +1,466 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_001_001ID	0			とある時代、とある場所		Once upon a time, in a faraway land...		从前，在某个地方……		在某個時代的某個地方……
+SeasonalTalkEvent_001_001ID	1			村のはずれに１軒のお菓子屋がありました		There was a small pastry shop on the outskirts of a village.		有一家开在村郊的点心店。		村郊有一間點心店。
+SeasonalTalkEvent_001_001ID	2			そこではソフィーという少女と\n人形のプラフタが働いています		A young girl named Sophie and a doll named Plachta worked in the shop.		少女苏菲和人偶普拉芙妲在这里工作。		在那裡，一名叫做蘇菲的少女\n與人偶普拉芙妲正在工作。
+SeasonalTalkEvent_001_001ID	3			これは、二人が紡ぐ\n甘くて優しい物語――		This is the heartwarming tale of their sweet adventure—		下面要讲述的是发生在她们两人之间的\n甜美而温情的故事――		這是她們兩人所譜寫出的\n甜美又溫柔的故事──
+SeasonalTalkEvent_001_001ID	4	Sophie	ソフィー	仕上げに砂糖をまぶして……\nよーし、完成！	Sophie	Sprinkle some sugar on top, and... There, it's done!	苏菲	最后撒上白糖……\n好，大功告成！	蘇菲	最後再撒上砂糖……\n好～完成！
+SeasonalTalkEvent_001_001ID	5	Sophie	ソフィー	えっと、あの……プラフタ。\n味見してもらえるかな？	Sophie	Um, Plachta? Could you taste this for me?	苏菲	我说啊……普拉芙妲，\n可以帮我尝尝味道吗？	蘇菲	呃，那個……普拉芙妲。\n妳能幫我試吃看看嗎？
+SeasonalTalkEvent_001_001ID	6	Plachta	プラフタ	はい、構いません。\n今日は何を作ったのですか、ソフィー	Plachta	Yes, of course. What did you make today, Sophie?	普拉芙妲	好的，没问题。\n苏菲，你今天做的是什么？	普拉芙妲	好的，沒問題。\n蘇菲，妳今天做了什麼呢？
+SeasonalTalkEvent_001_001ID	7	Sophie	ソフィー	おばあちゃんのレシピに書いてあった\n木の実たっぷりのパウンドケーキだよ	Sophie	It's a pound cake filled with nuts, from my grandma's recipe book.	苏菲	这是写在奶奶配方里的树果满满磅蛋糕。	蘇菲	我做了奶奶的配方裡所寫的\n那種有滿滿樹木果實的磅蛋糕喔。
+SeasonalTalkEvent_001_001ID	8	Plachta	プラフタ	先代が得意だったお菓子ですね。\n……では、いただきます	Plachta	Oh, that was one of her specialty cakes. This should be delicious.	普拉芙妲	是上代主人拿手的点心啊……\n好，我这就尝尝看。	普拉芙妲	是上一代主人最拿手的點心吧。\n……那麼，我開動了。
+SeasonalTalkEvent_001_001ID	9	Sophie	ソフィー	どう？　美味しい？\nレシピ通りに作ったつもりだけど……	Sophie	So? How is it? I tried to follow the recipe as closely as possible...	苏菲	怎么样，好吃吗？\n我是严格按照配方制作的……	蘇菲	如何？好吃嗎？\n我是照著配方做的……
+SeasonalTalkEvent_001_001ID	10	Plachta	プラフタ	そうですね。\n店に出しても問題はないかと	Plachta	Well, it's definitely good enough to sell in the shop.	普拉芙妲	嗯——\n我认为完全够格在店里出售了。	普拉芙妲	這個嘛，\n我覺得拿出來賣也不成問題吧。
+SeasonalTalkEvent_001_001ID	11	Sophie	ソフィー	それってつまり、\nおばあちゃんの味を再現できてるってこと？	Sophie	Does that mean it tastes the same as Grandma's?	苏菲	这么说，\n我完美重现了奶奶做出的味道吗？	蘇菲	也就是說，\n我有重現出奶奶的味道嗎？
+SeasonalTalkEvent_001_001ID	12	Plachta	プラフタ	素材の割合や工程はレシピ通りです。\n食感も先代のものに似ています	Plachta	The ingredients and process were done by the book. The texture is also very similar to hers.	普拉芙妲	素材的配比和制作过程都跟配方分毫不差。\n口感也和上代主人制作的蛋糕相近。	普拉芙妲	素材的比例和程序跟配方一樣。\n口感也跟上一代主人做的蛋糕很像。
+SeasonalTalkEvent_001_001ID	13	Sophie	ソフィー	もお～……そういうことじゃなくて。\n味の感想が聞きたいのに	Sophie	Oh, come on! You know I want to know what you think of the taste!	苏菲	哎呀……不是啦，\n我是问你味道怎么样。	蘇菲	真是的……我不是問妳這個，\n我想知道的是對味道的感想。
+SeasonalTalkEvent_001_001ID	14	Sophie	ソフィー	プラフタ、一度も美味しいって\n言ってくれたことないんだよね……	Sophie	I don't think you've ever once said my cooking tastes good...	苏菲	因为你从来没说过我做的东西“好吃”嘛……	蘇菲	普拉芙妲，\n妳從來都沒有對我說過「好吃」這句話呢……
+SeasonalTalkEvent_001_001ID	15	Plachta	プラフタ	ソフィー、何か言いましたか？	Plachta	Did you say something, Sophie?	普拉芙妲	苏菲，你刚才说话了吗？	普拉芙妲	蘇菲，妳說了什麼嗎？
+SeasonalTalkEvent_001_001ID	16	Sophie	ソフィー	う、ううん、なんでもない！\nそろそろ開店準備しよっか！	Sophie	N-No, nothing! Let's get ready to open the shop!	苏菲	没、没有，我什么都没说！\n我们得抓紧时间准备开门了！	蘇菲	唔，不，沒什麼！\n我們差不多該準備營業了！
+SeasonalTalkEvent_001_001ID	17	Sophie	ソフィー	今日はお客さん、\n来てくれるといいけど……	Sophie	I hope we get some customers today...	苏菲	希望今天会有顾客上门……	蘇菲	希望今天會有客人上門……
+SeasonalTalkEvent_001_001ID	18	Plachta	プラフタ	先代が亡くなってから、\nこの店を訪れる客も少なくなりましたからね	Plachta	Ever since your grandmother passed away, we've had a lot less customers.	普拉芙妲	是啊，上代主人去世后，\n这家店的顾客就越来越少了。	普拉芙妲	自從上一代主人過世後，\n來這間店的客人就變少了呢。
+SeasonalTalkEvent_001_001ID	19	Sophie	ソフィー	……うん。\n賑やかだったあの頃が懐かしいよ	Sophie	Yeah. I really miss the busier times.	苏菲	……嗯。\n好怀念过去生意兴隆的光景啊。	蘇菲	……嗯。\n好懷念過去那些熱鬧的時候喔。
+SeasonalTalkEvent_001_001ID	20	Sophie	ソフィー	でも、くよくよしてられないよね！\nよーし、絶対おばあちゃんの味に追いつくぞー！	Sophie	But we can't just sit here feeling sorry for ourselves! We need to catch up to Grandma's delicious taste!	苏菲	可我也不能一直这么垂头丧气！\n没错，我一定要重现奶奶的手艺！	蘇菲	不過，一直愁眉苦臉的也不是辦法！\n好～我絕對要追上奶奶的手藝～！
+SeasonalTalkEvent_001_001ID	21	Plachta	プラフタ	（……何か言うべきなのでしょうが、\n　今の私には、かける言葉が見つかりません）	Plachta	(I know I should say something, but I can't find the words.)	普拉芙妲	（……我应该对她说点什么才是，\n　但是，我现在找不到合适的话语。）	普拉芙妲	（……我應該要說點什麼才對，\n　但現在的我，找不到合適的話語。）
+SeasonalTalkEvent_001_001ID	22	Plachta	プラフタ	（先代が亡くなってから、私はソフィーに\n　どう接すればいいか分からなくなってしまいました）	Plachta	(Ever since her grandmother passed away, I haven't really been sure how to interact with Sophie.)	普拉芙妲	（自从上代主人去世后，\n　我就变得不知该如何与苏菲相处了。）	普拉芙妲	（自從上一代主人過世之後，\n　我就不知道該如何與蘇菲相處了。）
+SeasonalTalkEvent_001_001ID	23	Plachta	プラフタ	（もっとソフィーと……色んなことを話したい。\n　そう思っているのに）	Plachta	(Even though there is so much I want to talk to her about...)	普拉芙妲	（我其实……很想跟苏菲说说话，\n　说好多好多话。）	普拉芙妲	（我想和蘇菲……多聊一些，\n　我明明是這樣想的。）
+SeasonalTalkEvent_001_001ID	24	Plachta	プラフタ	（それなのに、いつもそっけなくしてしまって……\n　嫌われているかもしれませんね、私は）	Plachta	(So much, yet I always end up holding back. I wonder if she's starting to hate me.)	普拉芙妲	（但我总会不由自主地摆出冷冰冰的态度……\n　苏菲可能都开始讨厌我了吧。）	普拉芙妲	（然而，卻總是忍不住冷淡以對……\n　我也許已經被她討厭了吧。）
+SeasonalTalkEvent_001_001ID	25	Plachta	プラフタ	ソフィー。\n私は看板を外に出してきます	Plachta	Sophie, I'll put the signboard outside.	普拉芙妲	苏菲，我把招牌摆到外面吧。	普拉芙妲	蘇菲，\n我去把招牌擺到外面。
+SeasonalTalkEvent_001_001ID	26	Sophie	ソフィー	よろしく、プラフタ！\nさあ、今日も頑張るぞー！	Sophie	Thanks, Plachta! I'm sure we'll sell loads today!	苏菲	谢谢，普拉芙妲！\n今天也要努力开店喽！	蘇菲	拜託妳了，普拉芙妲！\n好～今天也加油吧！
+SeasonalTalkEvent_001_001ID	27	Sophie Neuenmuller	ソフィー・ノイエンミュラー	村はずれでお菓子屋さんを営む少女。\n明るく前向きだが、ちょっぴりずぼらで掃除が苦手	Sophie Neuenmuller	A young girl who runs a pastry shop on the outskirts of the village. She's cheerful and optimistic, but a little careless and not very good at cleaning.	苏菲·诺伊恩缪拉	在村郊经营点心店的少女。\n性格开朗乐观，也有点大大咧咧，不擅长打扫。	蘇菲‧諾伊恩繆拉	在村郊經營點心店的少女。\n開朗積極但有點懶散，不擅長打掃。
+SeasonalTalkEvent_001_001ID	28	Plachta	プラフタ	魂を宿した人形。共に暮らすソフィ―にとって\n家族であり、お菓子作りの師匠でもある	Plachta	A doll with a soul. Sophie, who lives with her, sees Plachta as both family and a master of making delicious treats.	普拉芙妲	拥有灵魂的人偶。和苏菲一起生活，\n既是她的家人，也是教她做点心的师父。	普拉芙妲	寄宿了靈魂的人偶，對一起生活的蘇菲來說，\n她既是家人，也是做點心的師父。
+SeasonalTalkEvent_001_002ID	0			――カランカラン		*Ting-a-ling*		咣啷——		──噹啷噹啷。
+SeasonalTalkEvent_001_002ID	1	Plachta	プラフタ	あ、いらっしゃいま……	Plachta	Ah, welco—	普拉芙妲	啊，欢迎光……	普拉芙妲	啊，歡迎光……
+SeasonalTalkEvent_001_002ID	2		ハロウィンぷに	オレさま登場！\nあまーいお菓子は、ここかー！？	Halloween Puni	It is I! Here to grace your shop at last! Is this where the sweet treats are?!	万圣节噗尼	本大爷大驾光临了！\n这里有甜甜的点心是吗？！	萬聖節噗尼	本大爺登場！\n甜～甜的點心在這裡嗎～！？
+SeasonalTalkEvent_001_002ID	3	Plachta	プラフタ	ハロウィンぷに……！\nどうしてこんな所に	Plachta	A Halloween Puni?! What is it doing here?	普拉芙妲	是万圣节噗尼……！\n怎么会跑到这里来……	普拉芙妲	萬聖節噗尼……！\n你怎麼會來這種地方？
+SeasonalTalkEvent_001_002ID	4		ハロウィンぷに	おおー！　うまそうなモンが、あるじゃねぇか！\nいっただきまーーす！	Halloween Puni	Wow! These look delicious! I'll just help myself!	万圣节噗尼	哦！还真有好吃的东西！\n那本大爷就不客气了——！	萬聖節噗尼	喔喔～！這不是有很美味的東西嘛！\n我要開動了──！
+SeasonalTalkEvent_001_002ID	5	Plachta	プラフタ	このお菓子は、魔物に食べさせるために\n作ったものではありません！	Plachta	Those treats are not made for monsters!	普拉芙妲	这里的点心才不是做给魔物吃的！	普拉芙妲	這些點心不是做來給你們魔物吃的！
+SeasonalTalkEvent_001_002ID	6		ハロウィンぷに	うるせえなあ！\nオレさまの邪魔をするなら、こうしてやる！	Halloween Puni	Oh, be quiet! This is what happens to those who get in my way!	万圣节噗尼	住口！\n竟敢碍事，看本大爷如何处置你！	萬聖節噗尼	少囉嗦！\n既然妳要妨礙我，就給妳點顏色瞧瞧！
+SeasonalTalkEvent_001_002ID	7			――ぼわんっ！		*Poof*		——啵噗！		──啵汪！
+SeasonalTalkEvent_001_002ID	8	Plachta	プラフタ	なっ、こ、これは……！？	Plachta	Wh-What is going on?!	普拉芙妲	什么？这、这是……？!	普拉芙妲	什麼，這、這是……！？
+SeasonalTalkEvent_001_002ID	9		ハロウィンぷに	ヒヒヒッ！　とっておきの呪いをかけてやったぞ！\nオレさまを倒さないといつまでもその姿だからな！	Halloween Puni	Hee hee hee! Behold the super special hex I have cast upon you! You shall stay in that form until you defeat me!	万圣节噗尼	嘻嘻嘻！这诅咒可是本大爷的杀手锏！\n只要不打倒本大爷，你永远会是那副模样！	萬聖節噗尼	嘻嘻嘻！我對妳施了我珍藏的詛咒！\n要是不打倒我，妳永遠都會是那副模樣喔！
+SeasonalTalkEvent_001_002ID	10	Sophie	ソフィー	ただいまー！\nプラフタ、店番ありがと――えぇっ！？	Sophie	I'm back! Plachta, thanks for minding the—huh?!	苏菲	我回来了！\n普拉芙妲，看店辛苦——咦？！	蘇菲	我回來了～！\n普拉芙妲，謝謝妳幫忙看店──咦咦！？
+SeasonalTalkEvent_001_002ID	11	Sophie	ソフィー	そ、その服どうしたの？\nお店の中もグチャグチャだし……	Sophie	Wh-Why are you wearing that outfit? And why is the shop such a mess?	苏菲	你、你怎么穿成这样？\n店里也弄得一团糟……	蘇菲	妳、妳那身衣服是怎麼回事？\n店裡也亂糟糟的……
+SeasonalTalkEvent_001_002ID	12	Plachta	プラフタ	魔物が店に入り込んできたのです。\nお菓子を食べようとしたので、止めたのですが	Plachta	A monster found its way into the shop. I tried to stop it from eating the treats...	普拉芙妲	刚才有魔物闯了进来，还想吃店里的点心，\n所以我阻止了它。	普拉芙妲	剛才有魔物闖進了店裡，\n牠打算吃點心，所以我阻止了，但……
+SeasonalTalkEvent_001_002ID	13	Plachta	プラフタ	邪魔をするなと、このような姿に変えられました。\nとっておきの呪いだそうです	Plachta	But as soon as I got in it's way, it transformed me into this outfit with some sort of curse.	普拉芙妲	然后它说我碍事，把我变成了这副模样。\n据说这诅咒是它的杀手锏。	普拉芙妲	牠叫我別妨礙牠，接著就把我變成這副模樣了。\n還說是牠珍藏的詛咒。
+SeasonalTalkEvent_001_002ID	14	Sophie	ソフィー	魔物が店に来たの！？\nプラフタにケガはなかったんだよね？	Sophie	There was a monster inside the shop?! You're not hurt, are you, Plachta?	苏菲	有魔物闯进了店里？！\n普拉芙妲，你没有受伤吧？	蘇菲	有魔物來過店裡！？\n普拉芙妲妳沒受傷吧？
+SeasonalTalkEvent_001_002ID	15	Plachta	プラフタ	はい。\nですが、ソフィーの作ったお菓子が……	Plachta	No, I'm fine. But the treats you made...	普拉芙妲	没有。\n但是，苏菲做的点心都被……	普拉芙妲	沒有。\n但是，蘇菲妳做的點心……
+SeasonalTalkEvent_001_002ID	16	Sophie	ソフィー	それならよかった！\nプラフタに何かあったのかと思って心配したよ	Sophie	As long as you aren't hurt, that's all that matters!	苏菲	那就好！\n担心死我了，还以为你出什么事了……	蘇菲	那就好！\n我本來很擔心妳有沒有怎麼樣呢。
+SeasonalTalkEvent_001_002ID	17	Plachta	プラフタ	…………	Plachta	...	普拉芙妲	……	普拉芙妲	…………
+SeasonalTalkEvent_001_002ID	18	Sophie	ソフィー	プラフタ？　どうかし……\nあはっ、あははっ！！	Sophie	Plachta? Are you okay? Aha. Hahaha!	苏菲	普拉芙妲？你怎……\n哈哈、哈哈哈！！	蘇菲	普拉芙妲？妳怎麼了……\n啊哈，啊哈哈！！
+SeasonalTalkEvent_001_002ID	19	Plachta	プラフタ	こちょ、こちょ、こちょ……	Plachta	Tickle-tickle time!	普拉芙妲	我挠我挠我挠……	普拉芙妲	我搔、我搔、我搔……
+SeasonalTalkEvent_001_002ID	20	Sophie	ソフィー	プ、プラフタ、やめっ……あはは！	Sophie	P-Plachta! Stop! Ahaha!	苏菲	普、普拉芙妲，别闹……哈哈哈！	蘇菲	普、普拉芙妲，住手……啊哈哈！
+SeasonalTalkEvent_001_002ID	21	Plachta	プラフタ	――はっ！？\nわ、私はいったい何を……	Plachta	Huh?! What was I...	普拉芙妲	啊？！\n我、我到底在做什么……	普拉芙妲	──啊！？\n我、我到底做了什麼……
+SeasonalTalkEvent_001_002ID	22	Sophie	ソフィー	はあ、はあ……突然くすぐるなんて\nプラフタも結構お茶目さんだね	Sophie	*Huff* *Huff* You're quite the prankster, Plachta. Suddenly tickling me like that!	苏菲	呼、呼……居然突然挠我痒痒，\n普拉芙妲，原来你这么调皮呀。	蘇菲	呼、呼……居然突然搔我癢，\n普拉芙妲妳也挺淘氣的嘛。
+SeasonalTalkEvent_001_002ID	23	Plachta	プラフタ	違います！　今のは身体が勝手に……\nもしかしたら、この服のせいでは……！？	Plachta	No! That wasn't me! My body just moved on it's own...or maybe the outfit did it?!	普拉芙妲	不是的！刚才是身体自己动起来……\n莫非是这身衣服搞的鬼吗……？！	普拉芙妲	不是的！剛才是身體自己……\n難道說，是這身衣服害的……！？
+SeasonalTalkEvent_001_002ID	24	Sophie	ソフィー	その服に操られたってこと？	Sophie	You mean the outfit was controlling you?	苏菲	你是说你被衣服控制了？	蘇菲	意思是妳被那身衣服操縱了嗎？
+SeasonalTalkEvent_001_002ID	25	Plachta	プラフタ	ええ、そうです。\n断じて私のせいではありません	Plachta	Exactly. I swear I had nothing to do with it.	普拉芙妲	是的。\n绝对不是我自己想那么做。	普拉芙妲	是的，沒錯。\n絕對不是我自己想這樣做的。
+SeasonalTalkEvent_001_002ID	26	Sophie	ソフィー	いつも冷静なプラフタも\nムキになったりするんだね	Sophie	Looks like even you can get a bit flustered sometimes, huh?	苏菲	那个淡定的普拉芙妲居然也会这样较真呀。	蘇菲	原來平時總是很冷靜的普拉芙妲\n也會發火啊。
+SeasonalTalkEvent_001_002ID	27	Plachta	プラフタ	何がおかしいのですか、ソフィー？	Plachta	What's so funny, Sophie?	普拉芙妲	什么事那么好笑，苏菲？	普拉芙妲	這有什麼好奇怪的嗎，蘇菲？
+SeasonalTalkEvent_001_002ID	28	Sophie	ソフィー	あはは！　ごめんって！　\nでも、プラフタがいつものプラフタと違うから	Sophie	Haha! Sorry! It's just that you're acting so different than usual.	苏菲	哈哈哈，抱歉啦！\n我只是觉得，现在的普拉芙妲跟平时好不一样。	蘇菲	啊哈哈！對不起啦！\n只是因為妳和平時的樣子不同。
+SeasonalTalkEvent_001_002ID	29	Plachta	プラフタ	く……なんとしても、この呪いを解かなければ	Plachta	I need to break this curse as soon as possible.	普拉芙妲	呜……我一定要想办法破解这个诅咒。	普拉芙妲	唔……無論如何，一定要想辦法解開這個詛咒。
+SeasonalTalkEvent_001_002ID	30	Sophie	ソフィー	うん、このままじゃプラフタも困るもんね！\nあたしも協力するよ！	Sophie	Yeah, I can see you're going to be stressed if this continues! I'll help you!	苏菲	是啊，现在这样子你也很不方便吧！\n我会帮你想办法的！	蘇菲	嗯，再這樣下去，普拉芙妲也會很困擾吧！\n我也會幫忙的！
+SeasonalTalkEvent_001_002ID	31	Plachta	プラフタ	（冗談ではありません。これ以上ソフィーに\n　嫌われないために、早く解決しなくては！）	Plachta	(This is no joke. I need to solve this quickly so Sophie doesn't end up hating me more.)	普拉芙妲	（这不是闹着玩的事。我必须尽快解决这件事，\n　绝不能再做让苏菲讨厌的事了！）	普拉芙妲	（這可不是開玩笑。為了不讓蘇菲更討厭我，\n　得快點解決才行！）
+SeasonalTalkEvent_001_003ID	0	Plachta	プラフタ	ハロウィンぷにの言うことが確かなら、\nあれを倒すことで呪いは解けるはずです	Plachta	If what the Halloween Puni said is true, defeating it should break the curse.	普拉芙妲	如果万圣节噗尼没有说谎的话，\n只要打倒它应该就能破解诅咒了。	普拉芙妲	如果萬聖節噗尼說的是真的，\n那打倒牠，詛咒應該就會解除。
+SeasonalTalkEvent_001_003ID	1	Sophie	ソフィー	なるほど……じゃあ、そのハロウィンぷにを\n早く見つけなくちゃ！	Sophie	All right, then let's head out and find it as quickly as we can!	苏菲	这样啊……\n那我们得快点找到那只万圣节噗尼！	蘇菲	原來如此……那麼，\n我們得快點找到那隻萬聖節噗尼！
+SeasonalTalkEvent_001_003ID	2	Plachta	プラフタ	ええ。\nですが、今はどこにいるのか……	Plachta	Yes, but we have no idea where it is...	普拉芙妲	是的。\n但是它现在会在哪里呢……	普拉芙妲	是啊。\n但是，牠現在在哪裡呢……
+SeasonalTalkEvent_001_003ID	3	Sophie	ソフィー	うーん……そもそも、どうして\nうちのお店にやって来たんだろう	Sophie	Hmm. Why did it come to our shop in the first place?	苏菲	唔……首先，\n它为什么会跑到我们店里来呢？	蘇菲	嗯……說起來，\n牠為什麼會來我們店裡呢？
+SeasonalTalkEvent_001_003ID	4	Plachta	プラフタ	そういえば、甘いお菓子はここか、と\n言いながら店に飛び込んできました	Plachta	Now that you mention it, it said something about sweet treats when it barged in.	普拉芙妲	我记起来了，它闯进店里的时候说，\n“这里有甜甜的点心是吗”……	普拉芙妲	對了，牠闖進店裡時，\n嘴上還說著「甜甜的點心在這裡嗎？」。
+SeasonalTalkEvent_001_003ID	5	Sophie	ソフィー	もしかして、お菓子の匂いに\nつられてやって来たのかも？	Sophie	Maybe it was attracted by the smell of the treats?	苏菲	难不成它是被点心的香气吸引过来的？	蘇菲	搞不好，\n牠是被點心的氣味給吸引過來的？
+SeasonalTalkEvent_001_003ID	6	Plachta	プラフタ	だとすると、あのぷにをおびき出す方法は\n１つだけですね	Plachta	If that's the case, there's only one way to lure it out again.	普拉芙妲	如果是这样，\n把它引出来就只有一个办法了。	普拉芙妲	這樣的話，要引出那隻噗尼的方法\n就只有一個了。
+SeasonalTalkEvent_001_003ID	7	Sophie	ソフィー	分かった！\nお菓子をたくさん用意するんだね	Sophie	Yep! We need to prepare more treats!	苏菲	明白了！\n看来需要准备很多很多点心了啊。	蘇菲	我知道了！\n要準備很多點心對吧。
+SeasonalTalkEvent_001_003ID	8	Plachta	プラフタ	はい。ハロウィンぷにが飛びついてくるような\n最高のお菓子が必要です	Plachta	Agreed. We need to best treats possible to make sure the Halloween Puni can't resist.	普拉芙妲	是的。要准备最好吃的点心，\n让万圣节噗尼急不可耐地扑过来。	普拉芙妲	是的，必須準備會讓萬聖節噗尼衝來的\n最棒的點心。
+SeasonalTalkEvent_001_003ID	9	Sophie	ソフィー	最高のお菓子かぁ。おばあちゃんのお菓子は\nどれも美味しいからなぁ	Sophie	The best treats possible? But everything in Grandma's recipes is already so delicious...	苏菲	最好吃的点心啊……\n奶奶做的点心每样都很好吃嘛。	蘇菲	最棒的點心啊～但奶奶的點心，\n每樣都很好吃耶……
+SeasonalTalkEvent_001_003ID	10	Plachta	プラフタ	そういえば、先代が特別な時にだけ作っていた\nお菓子のレシピがあるはずです	Plachta	If I remember correctly, there was one recipe that she only ever made on special occasions.	普拉芙妲	对了，上代主人有一份特殊的点心配方，\n那是一种专为特殊的日子制作的点心。	普拉芙妲	這麼說來，上一代主人好像有只在特別的日子\n才會做的點心的配方。
+SeasonalTalkEvent_001_003ID	11	Plachta	プラフタ	私も何度か、手伝わせていただきました	Plachta	I remember helping her make it a number of times.	普拉芙妲	我也曾经协助她做过好几次。	普拉芙妲	我也幫忙做過好幾次。
+SeasonalTalkEvent_001_003ID	12	Sophie	ソフィー	あっ！　確かに、おばあちゃんが特別な日に\n作ってくれたお菓子があったね	Sophie	Oh, yes! There were those amazing treats she would only make on the most special of days.	苏菲	啊！对对，我记得奶奶在特殊的日子\n给我做过一种点心。	蘇菲	啊！對耶，奶奶的確有那種在特別的日子\n才會做給我的點心。
+SeasonalTalkEvent_001_003ID	13	Sophie	ソフィー	そのレシピなら、どこかにしまったはずだよ	Sophie	I definitely saw the recipe somewhere...	苏菲	那份配方应该放在了某个地方。	蘇菲	那份配方應該是收在某個地方。
+SeasonalTalkEvent_001_003ID	14	Plachta	プラフタ	どこか、というのは……\nこの片付いてない家の中のことですか？	Plachta	Somewhere...in this messy house?	普拉芙妲	某个地方……\n是放在这个乱糟糟的房子里了吗？	普拉芙妲	某個地方……\n是指這個沒整理的家中某處嗎？
+SeasonalTalkEvent_001_003ID	15	Sophie	ソフィー	あはは……その通りです	Sophie	Ahaha... Yes.	苏菲	哈哈哈……你说得对。	蘇菲	啊哈哈……正是如此。
+SeasonalTalkEvent_001_003ID	16	Plachta	プラフタ	まったく……普段から掃除をしていれば、\n探す手間も省けたというのに	Plachta	You know, if you kept things tidy, you wouldn't have to spend so much time looking for things.	普拉芙妲	唉……要是平时定期收拾打扫，\n现在找起来一定会轻松不少。	普拉芙妲	真是的……妳要是平時有在打掃，\n就不必花工夫去找了。
+SeasonalTalkEvent_001_003ID	17	Sophie	ソフィー	ううっ、返す言葉もないよ	Sophie	Ouch, I can't argue with that...	苏菲	呜呜，您批评得是。	蘇菲	嗚嗚，無法反駁。
+SeasonalTalkEvent_001_003ID	18	Sophie	ソフィー	あった！\nこれだよ、おばあちゃんのレシピ！	Sophie	Here it is! Grandma's recipe!	苏菲	找到了！\n就是这份，是奶奶写的配方。	蘇菲	找到了！\n就是這個，奶奶的配方！
+SeasonalTalkEvent_001_003ID	19	Plachta	プラフタ	作れそうですか、ソフィー	Plachta	Do you think you can you make it, Sophie?	普拉芙妲	苏菲，你做得出来吗？	普拉芙妲	做得出來嗎，蘇菲？
+SeasonalTalkEvent_001_003ID	20	Sophie	ソフィー	うん、この素材なら近くのお店で揃うと思う。\n早速、買いに行こう！	Sophie	Yes, all these ingredients should be available at the nearby shop. Let's go grab them!	苏菲	嗯，看样子素材都能在附近的店里买到。\n我这就去买！	蘇菲	嗯，我想這些素材大概在附近的店可以買到。\n我們現在就去買吧！
+SeasonalTalkEvent_001_003ID	21	Sophie	ソフィー	コルちゃん、こんにちは！	Sophie	Hello, Cory!	苏菲	小柯柯，你好！	蘇菲	小柯柯，妳好！
+SeasonalTalkEvent_001_003ID	22	Corneria	コルネリア	ソフィーさん、いらっしゃいです。\nいつもの仕入れに来たですか？	Corneria	Sophie, welcome. Here for your usual supplies?	柯尔涅莉雅	苏菲小姐，欢迎光临。\n你是来进货的吗，按老样子？	柯爾涅莉雅	蘇菲小姐，歡迎光臨。\n妳是來進平常的貨嗎？
+SeasonalTalkEvent_001_003ID	23	Sophie	ソフィー	ううん、今日は別のお買い物！\nこの素材が欲しいんだけど……	Sophie	Nope, we're here for some different shopping today! I'm looking for these ingredients.	苏菲	不，我今天想买别的东西！\n你看，就是这种素材……	蘇菲	不是，今天要買別的東西！\n我想要這個素材……
+SeasonalTalkEvent_001_003ID	24	Corneria	コルネリア	これならすぐに用意できるです。\n少しお待ちください……です	Corneria	I can get these together for you in no time. Just...give me a sec.	柯尔涅莉雅	这个啊，我马上就能备好，\n请稍候……	柯爾涅莉雅	這個我馬上就能準備好。\n請稍待片刻……
+SeasonalTalkEvent_001_003ID	25	Sophie	ソフィー	うん！\nよろしくね、コルちゃん！	Sophie	Great! Thanks, Cory!	苏菲	嗯！麻烦你了，小柯柯！	蘇菲	嗯！\n麻煩妳囉，小柯柯！
+SeasonalTalkEvent_001_003ID	26	Corneria	コルネリア	ソフィーの友人で、やり手の行商人。\nお菓子の材料だけでなく色んなものを売ってくれる	Corneria	A skilled merchant and a friend of Sophie. She sells baking ingredients along with a variety of other items.	柯尔涅莉雅	苏菲的朋友，精明能干的旅行商人。\n除了点心材料，也贩卖许多其他商品。	柯爾涅莉雅	蘇菲的朋友，能幹的旅行商人。\n除了點心材料外，也販賣各式各樣的東西。
+SeasonalTalkEvent_001_004ID	0	Plachta	プラフタ	ソフィー、成功です。\nお菓子ができあがりました	Plachta	Sophie, the treats are ready.	普拉芙妲	苏菲，成功了。\n点心做好了。	普拉芙妲	蘇菲，成功了。\n點心做好了。
+SeasonalTalkEvent_001_004ID	1	Sophie	ソフィー	見た目はいい感じだね。\nプラフタ、早速味見してみよう	Sophie	Let's see if they taste as good as they look!	苏菲	卖相很不错嘛。\n普拉芙妲，快尝尝看。	蘇菲	外觀看起來不錯呢。\n普拉芙妲，趕快來試吃看看吧。
+SeasonalTalkEvent_001_004ID	2	Plachta	プラフタ	では、いただきます。\n……もぐ、もぐ……	Plachta	I'll give them a taste test... *Munch* *Munch*	普拉芙妲	好的，我不客气了。\n嚼嚼……	普拉芙妲	那麼，我開動了。\n……（嚼嚼）
+SeasonalTalkEvent_001_004ID	3	Sophie	ソフィー	あたしも！　いただきまーす！\n……んぐ、んぐっ……	Sophie	Me too! *Crunch* *Crunch*	苏菲	我也来尝尝看——！\n嚼嚼……	蘇菲	我也要開動囉～！\n……（嚼嚼）
+SeasonalTalkEvent_001_004ID	4	Sophie	ソフィー	うーん。\nあんまり、美味しくないかも	Sophie	Hmm. They're not that great...	苏菲	唔……不太好吃呀。	蘇菲	嗯～\n好像不怎麼好吃。
+SeasonalTalkEvent_001_004ID	5	Plachta	プラフタ	そうですね、以前食べたものとは\n食感が違うような気がします	Plachta	Yes, the texture isn't quite how I remember them.	普拉芙妲	是的，\n跟我以前吃过的口感不一样。	普拉芙妲	是啊，\n感覺跟以前吃過的口感不一樣。
+SeasonalTalkEvent_001_004ID	6	Sophie	ソフィー	レシピ通りに作ったはずなんだけど	Sophie	I thought I followed the recipe to a tee...	苏菲	我是严格按照配方制作的啊……	蘇菲	我應該有照著配方做啊……
+SeasonalTalkEvent_001_004ID	7	Sophie	ソフィー	やっぱりあたしじゃ、おばあちゃんには\n追いつけないのかなあ……	Sophie	I guess I just can't reach the level of baking skill that Grandma had.	苏菲	看来我是怎么都达不到奶奶的境界了吧……	蘇菲	我果然追不上奶奶的手藝嗎……
+SeasonalTalkEvent_001_004ID	8	Plachta	プラフタ	……先代は、使う素材に\nかなりのこだわりを持っていました	Plachta	I believe she used be very particular about the ingredients she used.	普拉芙妲	……上代主人在素材方面是非常讲究的。	普拉芙妲	……上一代主人對使用的素材相當講究。
+SeasonalTalkEvent_001_004ID	9	Plachta	プラフタ	特に、このお菓子を作る時には\n自らの足で出向き、素材を選別していたのです	Plachta	In fact, for these treats I believe she always went and selected the ingredients for herself.	普拉芙妲	尤其是在制作点心的时候，\n她会亲自四处奔走，甄选素材。	普拉芙妲	尤其是做這款點心的時候，\n她會親自去挑選素材。
+SeasonalTalkEvent_001_004ID	10	Sophie	ソフィー	素材の選別……	Sophie	Selecting the ingredients...	苏菲	甄选素材……	蘇菲	挑選素材……
+SeasonalTalkEvent_001_004ID	11	Plachta	プラフタ	確か先代は、馴染みの農家から\n直接、素材を仕入れていたような……	Plachta	If I remember correctly, she often sourced directly from the local farms.	普拉芙妲	我记得她都是直接从相熟的农户手上进货的……	普拉芙妲	我記得上一代主人，\n好像會直接跟熟悉的農家採買素材……
+SeasonalTalkEvent_001_004ID	12	Sophie	ソフィー	じゃあ、あたしも農家さんにお願いすれば……\nって、そんな簡単にはいかないかも	Sophie	Then maybe if I ask the farms, they'll—oh, but it won't be quite so easy...	苏菲	那我也去请农户帮忙……\n不对，这件事恐怕没那么容易。	蘇菲	那麼，我也去拜託農家的話……\n不對，可能沒那麼容易。
+SeasonalTalkEvent_001_004ID	13	Plachta	プラフタ	どうしてですか？	Plachta	Why is that?	普拉芙妲	为什么？	普拉芙妲	為什麼？
+SeasonalTalkEvent_001_004ID	14	Sophie	ソフィー	おばあちゃんが亡くなってから、\n農家さんとの交流がほとんど無くて	Sophie	I've had very little contact with the farmers ever since Grandma passed away.	苏菲	因为奶奶去世后，\n我就再没有维护过和农户之间的关系啊。	蘇菲	自從奶奶過世之後，\n我就跟那些農家幾乎沒有交流了。
+SeasonalTalkEvent_001_004ID	15	Sophie	ソフィー	おばあちゃんへの厚意で、\n引き続き素材は卸してくれてるけど	Sophie	They continue to send us ingredients out of respect for her.	苏菲	虽然他们看在过去与奶奶交情的份上，\n仍然在卖素材给我……	蘇菲	雖然他們念在和奶奶之間的情分，\n還是會繼續批發素材給我。
+SeasonalTalkEvent_001_004ID	16	Sophie	ソフィー	今のあたしに、そんな人たちとちゃんと話し合って\n素材を選別できるかどうか……	Sophie	But I'm not sure if I'd be able to communicate with them and select the ingredients for myself...	苏菲	可我现在怎么好意思\n开口跟他们要求甄选素材呢……	蘇菲	但現在的我，不知道有沒有辦法和那些人好好商量，\n挑選出素材……
+SeasonalTalkEvent_001_004ID	17	Plachta	プラフタ	なるほど……先代が築いてきた関係の下で\n作れたお菓子だったということですね	Plachta	I guess these treats could only be made because of the connections she had made.	普拉芙妲	我明白了……过去能做出那种点心，\n是归功于上代主人与他人结下的深厚情谊啊。	普拉芙妲	原來如此……也就是說，這是在上一代主人\n所建立的關係下做出來的點心。
+SeasonalTalkEvent_001_004ID	18	Sophie	ソフィー	うん。このレシピを完成させるには、\nもう一度、農家の人たちとの絆を取り戻さなきゃ	Sophie	Yeah. If we want to make the proper thing, we'll need to rebuild the relationships with those farmers.	苏菲	是的，为了重现这份配方，\n我必须重新和农户们建立情谊才行。	蘇菲	嗯，想要完成這份配方，\n我就得再次找回與那些農家之間的羈絆才行。
+SeasonalTalkEvent_001_004ID	19	Plachta	プラフタ	言うのは簡単ですが、上手く行くでしょうか	Plachta	Easier said than done.	普拉芙妲	这件事说来轻巧，可是真的能成功吗？	普拉芙妲	說起來簡單，但是會順利嗎？
+SeasonalTalkEvent_001_004ID	20	Sophie	ソフィー	なんとかなる！　なんとかする！\nだってプラフタのためだもん	Sophie	We'll find a way! For you, Plachta, we have to!	苏菲	会有办法的！我会努力想办法的！\n因为我想帮助普拉芙妲啊。	蘇菲	一定會有辦法！我會想辦法的！\n因為這是為了普拉芙妲啊。
+SeasonalTalkEvent_001_004ID	21	Plachta	プラフタ	ソフィー……	Plachta	Sophie...	普拉芙妲	苏菲……	普拉芙妲	蘇菲……
+SeasonalTalkEvent_001_004ID	22	Sophie	ソフィー	ここで、じっとしてても\nプラフタの呪いは解けない	Sophie	I don't think the curse is just going to undo itself!	苏菲	什么都不做在这里干等着，\n肯定没法帮你解开诅咒嘛。	蘇菲	在這裡什麼都不做，\n可是解除不了普拉芙妲的詛咒。
+SeasonalTalkEvent_001_004ID	23	Sophie	ソフィー	だったら、やれることをやらなくちゃ。\n今のあたしに、できることを……！	Sophie	We just need to do what we can and see where that leads us!	苏菲	那有希望的办法就都试试看吧。\n我要去做我力所能及的事……！	蘇菲	既然如此，就該盡力而為，\n做我現在能做得到的事……！
+SeasonalTalkEvent_001_004ID	24	Plachta	プラフタ	……分かりました、行きましょう	Plachta	All right, let's get going.	普拉芙妲	……我明白了，我们走吧。	普拉芙妲	……我明白了，我們走吧。
+SeasonalTalkEvent_001_004ID	25	Sophie	ソフィー	うん！\nまずは、リンゴ農園に向かおう	Sophie	Yeah! Let's go to the apple orchard first!	苏菲	嗯！\n第一站是苹果园。	蘇菲	嗯！\n我們先去蘋果園吧。
+SeasonalTalkEvent_001_005ID	0	Plachta	プラフタ	ん？\nあそこにいるのは……	Plachta	Oh? Is that who I think it is?	普拉芙妲	嗯？那边的人是……	普拉芙妲	嗯？\n在那邊的人是
+SeasonalTalkEvent_001_005ID	1	Escha	エスカ	ううん、どうしよう……\nまさか、こんなことになっちゃうなんて	Escha	Oh, what should I do? How did this happen...	爱丝卡	唔，怎么办……\n没想到居然会变成这样……	愛絲卡	唔唔，怎麼辦……\n沒想到事情竟然會變成這樣。
+SeasonalTalkEvent_001_005ID	2	Sophie	ソフィー	エスカさーん！	Sophie	Escha!	苏菲	爱丝卡小姐！	蘇菲	愛絲卡小姐～！
+SeasonalTalkEvent_001_005ID	3	Escha	エスカ	あっ、ソフィーさん！\nそれに、プラフタさんも……	Escha	Ah, Sophie! And Plachta too!	爱丝卡	啊，苏菲小姐！\n普拉芙妲小姐也在……	愛絲卡	啊，蘇菲小姐！\n還有普拉芙妲小姐……
+SeasonalTalkEvent_001_005ID	4	Sophie	ソフィー	こんな所で、どうしたんですか？\nなんだか困ってるみたいでしたけど……	Sophie	What are you doing here? Is something the matter?	苏菲	你在这里做什么？\n而且好像遇上了麻烦事……	蘇菲	妳怎麼會在這種地方？\n而且看起來很傷腦筋的樣子……
+SeasonalTalkEvent_001_005ID	5	Escha	エスカ	実は、うちのリンゴ園が\nハロウィンぷにに襲われたんですよ！	Escha	Yes, my family's orchard was attacked by a Halloween Puni!	爱丝卡	事情是这样的，\n万圣节噗尼攻击了我家的苹果园！	愛絲卡	其實，我們的蘋果園\n被萬聖節噗尼襲擊了！
+SeasonalTalkEvent_001_005ID	6	Sophie	ソフィー	えっ、エスカさんの所もですか！？	Sophie	Huh? It was here too?!	苏菲	什么，它也去你家了啊？！	蘇菲	咦，愛絲卡小姐這邊也是嗎！？
+SeasonalTalkEvent_001_005ID	7	Escha	エスカ	ということは……\nソフィーさんのお菓子屋さんも！？	Escha	You mean it was at your shop as well?!	爱丝卡	这么说，难道……\n它也攻击了你家的点心店吗？！	愛絲卡	蘇菲小姐的意思是……\n妳們的點心店也……！？
+SeasonalTalkEvent_001_005ID	8	Sophie	ソフィー	はい。\nあたしたちの店もハロウィンぷにに襲われました	Sophie	Yes. Our shop was invaded by a Halloween Puni...	苏菲	是的，我们店也被万圣节噗尼攻击了。	蘇菲	是的。\n我們的店也被萬聖節噗尼襲擊了。
+SeasonalTalkEvent_001_005ID	9	Escha	エスカ	わわ！　それは大変でしたね。\nお二人にケガがなくてよかったです	Escha	Wah! That must have been horrible! I'm glad you're both safe.	爱丝卡	天啊，太可怕了。\n还好你们两个没受伤。	愛絲卡	哇哇！那可真是不得了。\n妳們兩位沒有受傷，真是太好了。
+SeasonalTalkEvent_001_005ID	10	Sophie	ソフィー	エスカさんは、大丈夫だったんですか？	Sophie	Are you all right, Escha?	苏菲	爱丝卡小姐你呢，没有受伤吧？	蘇菲	愛絲卡小姐，妳還好嗎？
+SeasonalTalkEvent_001_005ID	11	Escha	エスカ	わたしは大丈夫だったんですけど。\nリンゴ園の周りを魔物だらけにされちゃって……	Escha	I'm fine, but the orchard is completely surrounded by monsters...	爱丝卡	我人倒是没事，\n但是现在苹果园周围布满了魔物……	愛絲卡	我是沒事，\n但牠把蘋果園的周圍變得全都是魔物……
+SeasonalTalkEvent_001_005ID	12	Sophie	ソフィー	ええっ！？\nなんで、そんなことに！？	Sophie	What?! How did that happen?!	苏菲	咦？！\n怎么会这样？！	蘇菲	什麼！？\n為什麼會變成那樣！？
+SeasonalTalkEvent_001_005ID	13	Escha	エスカ	ハロウィンぷにに美味しいお菓子をあげれば\nイタズラされないって聞いていたんです	Escha	Well, I heard that if you give Halloween Puni sweet treats, they won't play any tricks on you.	爱丝卡	因为我听说只要给万圣节噗尼好吃的点心，\n它就不会对我们做恶作剧了。	愛絲卡	我聽說只要給萬聖節噗尼好吃的點心，\n就不會被牠惡作劇。
+SeasonalTalkEvent_001_005ID	14	Escha	エスカ	だからあらかじめ、リンゴのタルトを\n用意していたんですけど……	Escha	So I baked some apple tarts to give the Puni if it came by...	爱丝卡	所以我提前准备了苹果挞……	愛絲卡	所以我還事先準備了蘋果塔，\n可是……
+SeasonalTalkEvent_001_005ID	15	Escha	エスカ	それだけじゃ満足してくれなくて\nとっておきのイタズラをお見舞いしてやるーって	Escha	But it seems that wasn't quite enough, so it said it was going to play a super special trick on me...	爱丝卡	可光是提供那些并不能满足它，\n它还是使出了杀手锏恶作剧。	愛絲卡	牠說只有那個牠不滿意，\n所以要使出牠珍藏的惡作劇讓我好看。
+SeasonalTalkEvent_001_005ID	16	Escha	エスカ	リンゴ園の周りを、\n魔物でいっぱいにされちゃいました	Escha	And just like that, the orchard was swarmed by monsters.	爱丝卡	让苹果园周围布满了魔物……	愛絲卡	於是蘋果園的周圍\n就被牠弄得全都是魔物了。
+SeasonalTalkEvent_001_005ID	17	Sophie	ソフィー	むぐぐ！\nイタズラにしては、やりすぎだよ！	Sophie	What! Even as a Halloween trick, that seems a bit over the top!	苏菲	好气人啊！\n这么恶毒已经不叫恶作剧了！	蘇菲	唔唔唔！\n就惡作劇來說，未免太過分了！
+SeasonalTalkEvent_001_005ID	18	Escha	エスカ	このままだと、リンゴの収穫もできなくて\nみんな困っているんです	Escha	We can't even get into the orchard, let alone harvest the apples, so my whole family is worried.	爱丝卡	这样就没法采摘苹果了，\n大家都很苦恼。	愛絲卡	再這樣下去也沒辦法採收蘋果，\n大家都很頭疼。
+SeasonalTalkEvent_001_005ID	19	Sophie	ソフィー	プラフタ。あたし、エスカさんたちを放っておけない。\nだから、その……	Sophie	Plachta, I don't think we can leave Escha to deal with this alone.	苏菲	普拉芙妲，我不放心爱丝卡小姐家的情况，\n所以……	蘇菲	普拉芙妲，我沒辦法不管愛絲卡小姐他們。\n所以，那個……
+SeasonalTalkEvent_001_005ID	20	Plachta	プラフタ	ええ。私もです、ソフィー。\n今の私たちにできることをしましょう	Plachta	I agree, Sophie. Let's help out with this first.	普拉芙妲	我明白，苏菲，我也一样。\n我们先尽力帮帮她吧。	普拉芙妲	嗯，我也是，蘇菲。\n來做我們現在能做得到的事吧。
+SeasonalTalkEvent_001_005ID	21	Sophie	ソフィー	あ、ありがとう、プラフタ！	Sophie	Thanks, Plachta!	苏菲	谢、谢谢你，普拉芙妲！	蘇菲	謝、謝謝妳，普拉芙妲！
+SeasonalTalkEvent_001_005ID	22	Plachta	プラフタ	エスカ、私たちでよければ\n魔物を追い払うのを手伝います	Plachta	Escha, we'll help drive the monsters away.	普拉芙妲	爱丝卡，我们想略尽微薄之力，\n帮你驱逐魔物。	普拉芙妲	愛絲卡，不嫌棄的話，\n讓我們來幫妳趕走魔物。
+SeasonalTalkEvent_001_005ID	23	Escha	エスカ	いいんですか！	Escha	You will?!	爱丝卡	真的可以吗？	愛絲卡	可以嗎！？
+SeasonalTalkEvent_001_005ID	24	Sophie	ソフィー	はい。実はあたしたちもリンゴ園に\n用事があって来たんです	Sophie	Yes! We actually have some business with the orchard, so it'll help us too.	苏菲	没关系的。\n而且我们正好也有事要去苹果园。	蘇菲	是的，其實我們也是有事相求\n才來蘋果園的。
+SeasonalTalkEvent_001_005ID	25	Escha	エスカ	そうだったんですね。\nじゃあ、お言葉に甘えさせてください！	Escha	Oh, I see. Then allow me to take you up on that offer!	爱丝卡	这样啊。\n那就麻烦你们了！	愛絲卡	原來是這樣啊，\n那我就恭敬不如從命了！
+SeasonalTalkEvent_001_005ID	26	Escha	エスカ	リンゴ園はこっちです、案内しますね！	Escha	The orchard is this way—follow me!	爱丝卡	苹果园在这边，请跟我来！	愛絲卡	蘋果園在這邊，我來帶路！
+SeasonalTalkEvent_001_005ID	27	Escha Malier	エスカ・メーリエ	リンゴ農家の娘で、リンゴをこよなく愛している。\n得意な料理はリンゴのタルト	Escha Malier	The daughter of an apple farmer, who has a deep love for apples. Her specialty is apple tarts.	爱丝卡·梅莉耶	种植苹果的农户之女，最爱苹果。\n擅长制作苹果挞。	愛絲卡‧梅莉耶	蘋果農家的女兒，非常熱愛蘋果，\n擅長的料理是蘋果塔。
+SeasonalTalkEvent_001_006ID	0	Escha	エスカ	ええっ！　プラフタさんって、ハロウィンぷにの\nイタズラでその格好になったんですか？	Escha	What?! Plachta's outfit is another one of the Halloween Puni's tricks?	爱丝卡	咦！普拉芙妲小姐，你打扮成这样\n原来是因为万圣节噗尼的恶作剧呀？	愛絲卡	咦咦！普拉芙妲小姐是因為萬聖節噗尼的惡作劇\n才變成這副打扮的嗎？
+SeasonalTalkEvent_001_006ID	1	Plachta	プラフタ	はい。どうやら呪いをかけられたようです。\n脱ごうと思っても、脱げませんでした	Plachta	Yes. It seems to be some kind of curse. I can't take it off even if I try.	普拉芙妲	是的。\n上面似乎施加了诅咒，想脱也脱不掉。	普拉芙妲	是的，我似乎被牠下了詛咒。\n就算想脫也脫不掉。
+SeasonalTalkEvent_001_006ID	2	Escha	エスカ	むむむ……脱げない服を着せられる。\nそれが、ハロウィンぷにの呪いなんですね！	Escha	Oh my, you can't even take it off? I guess that's a Halloween Puni's curse for you!	爱丝卡	唔……也就是说，万圣节噗尼的诅咒内容是\n让人穿上脱不掉的衣服对吧！	愛絲卡	唔唔唔……被迫穿上脫不掉的衣服，\n這就是萬聖節噗尼的詛咒吧！
+SeasonalTalkEvent_001_006ID	3	Sophie	ソフィー	いや、実はプラフタの呪いは……あひゃっ！	Sophie	Actually, that's not the only part of the curse. She also—ah!	苏菲	不，普拉芙妲中的诅咒其实是……哎呀！	蘇菲	不，其實普拉芙妲身上的詛咒是……啊呀！
+SeasonalTalkEvent_001_006ID	4	Plachta	プラフタ	こちょ、こちょ、こちょ……\nさあ、イタズラの時間ですよ	Plachta	Tickle-tickle time! Time for some more mischief!	普拉芙妲	我挠我挠我挠……\n接招吧，恶作剧时间到。	普拉芙妲	我搔、我搔、我搔……\n來吧，惡作劇的時間到了。
+SeasonalTalkEvent_001_006ID	5	Escha	エスカ	プ、プラフタさん？　いったい何を……	Escha	P-Plachta? What are you doing...	爱丝卡	普、普拉芙妲小姐？你在做什么……	愛絲卡	普、普拉芙妲小姐？妳究竟是在……
+SeasonalTalkEvent_001_006ID	6	Sophie	ソフィー	これがプラフタの呪いで……\nあはっ、あはは！　くすぐったい～っ！	Sophie	Th-This is a part of her curse... Haha. Ahaha! Stop tickling me!	苏菲	这就是普拉芙妲中的诅咒……\n哈哈、哈哈哈！痒死了～！	蘇菲	這就是普拉芙妲身上的詛咒……\n啊哈、啊哈哈！好癢～！
+SeasonalTalkEvent_001_006ID	7	Plachta	プラフタ	うふふ……素敵な笑い声ですね、ソフィー。\nもっと聞かせてください……ほら、ツンツン	Plachta	Heehee, what a delightful laugh you have, Sophie! Let me hear it more! More!	普拉芙妲	呵呵呵……多么清亮的笑声，苏菲。\n我还没有听够……看招，我戳我戳。	普拉芙妲	呵呵……真是美妙的笑聲啊，蘇菲。\n請讓我再多聽一點……來吧，撓癢癢。
+SeasonalTalkEvent_001_006ID	8	Sophie	ソフィー	あははっ！　やめて、プラフタ！\nしっかりしてぇっ！	Sophie	Ahaha! Stop it, Plachta! Come back to your senses!	苏菲	哈哈哈！快住手，普拉芙妲！\n清醒过来吧！	蘇菲	啊哈哈！普拉芙妲，住手！\n妳清醒一點～！
+SeasonalTalkEvent_001_006ID	9	Plachta	プラフタ	……はっ！？\nわ、私は今、何を……？	Plachta	Huh?! Wh-What am I doing?!	普拉芙妲	……啊？！\n我、我刚才做了什么……？	普拉芙妲	……啊！？\n我、我剛剛做了什麼……？
+SeasonalTalkEvent_001_006ID	10	Escha	エスカ	えっと……\nソフィーさんを思いきりくすぐってました	Escha	Uh... You were tickling Sophie like crazy.	爱丝卡	嗯……\n你毫不留情地挠苏菲小姐痒痒来着。	愛絲卡	呃……\n妳剛才狠狠地搔了蘇菲小姐癢。
+SeasonalTalkEvent_001_006ID	11	Plachta	プラフタ	そ、それは私の意志ではありませんっ。\nこの服にかけられた呪いのせいなのです	Plachta	Th-That wasn't me! It was the curse on this outfit.	普拉芙妲	那、那绝非我的本意，\n是衣服上的诅咒在控制我。	普拉芙妲	那、那不是我自願的，\n是施加在這件衣服上的詛咒害的。
+SeasonalTalkEvent_001_006ID	12	Sophie	ソフィー	はあ、はあ……そうなんです。\n呪いをかけられてから、ずっとこんな調子で	Sophie	*Huff* *Huff*... Yes, ever since she was cursed, she keeps doing this.	苏菲	呼、呼……是的，\n她被诅咒后就变成这样了。	蘇菲	呼、呼……沒錯。\n自從她被施了詛咒之後，就一直是這個狀態。
+SeasonalTalkEvent_001_006ID	13	Plachta	プラフタ	すみません、ソフィー。\n自分の身体なのに制御ができなくて	Plachta	I'm sorry, Sophie. Even though it's my own body, I just can't control it...	普拉芙妲	对不起，苏菲。\n我控制不住自己……	普拉芙妲	抱歉了，蘇菲，\n這明明是我自己的身體，卻控制不了。
+SeasonalTalkEvent_001_006ID	14	Sophie	ソフィー	いいよ、気にしないで。いつもと違う\nプラフタが見られて、あたしはちょっと楽しいし	Sophie	Don't worry about it. I actually quite enjoy seeing a different side to you, Plachta!	苏菲	没关系，别放在心上。\n而且能看到不同以往的普拉芙妲还挺开心的。	蘇菲	沒關係，妳別介意。能夠看到\n和平時不一樣的普拉芙妲，我還滿開心的。
+SeasonalTalkEvent_001_006ID	15	Plachta	プラフタ	私は楽しくありません	Plachta	Well, I don't enjoy it at all.	普拉芙妲	我不开心。	普拉芙妲	我可不開心。
+SeasonalTalkEvent_001_006ID	16	Escha	エスカ	……ふっ、あはは！	Escha	Pfft, haha!	爱丝卡	噗……哈哈哈！	愛絲卡	……呵、啊哈哈！
+SeasonalTalkEvent_001_006ID	17	Plachta	プラフタ	エスカ？\nどうして、あなたが笑うのですか？	Plachta	Escha? Why are you laughing?!	普拉芙妲	爱丝卡？\n你这是在笑什么？	普拉芙妲	愛絲卡？\n妳為什麼要笑呢？
+SeasonalTalkEvent_001_006ID	18	Escha	エスカ	ごめんなさい、なんか安心しちゃって	Escha	I'm sorry, I guess I just feel a bit relieved!	爱丝卡	对不起，只是看见你们这样，我感觉放心多了。	愛絲卡	對不起，因為我稍微放心了。
+SeasonalTalkEvent_001_006ID	19	Escha	エスカ	ソフィーさんのおばあさんが亡くなってから、\nうちの農園とは疎遠になっちゃったじゃないですか	Escha	Ever since your grandmother passed away, you seemed to distance yourself from our orchard quite a lot.	爱丝卡	苏菲小姐不是自从奶奶去世后，\n就很少来我们苹果园了嘛。	愛絲卡	蘇菲小姐自從奶奶過世後，\n不是就跟我們農園疏遠了嗎？
+SeasonalTalkEvent_001_006ID	20	Escha	エスカ	だから、二人とどうやって接したらいいのかなって\n悩んでいたんですけど……	Escha	I wasn't really sure how to reconnect with you two again.	爱丝卡	所以我本来有点犯愁，\n不知道今后该怎么跟你们来往……	愛絲卡	所以，我本來很煩惱\n不知道該如何和妳們相處……
+SeasonalTalkEvent_001_006ID	21	Escha	エスカ	わたし今、二人と話せて楽しいですっ！\nずっと、悩んでいたのがバカみたいに	Escha	But talking to you two has been such a delight. It seems silly that I've been putting it off for so long.	爱丝卡	但现在和你们说上话，心情就变好了！\n我之前根本就是在瞎操心嘛。	愛絲卡	但我現在很高興能和妳們聊天！\n之前一直煩惱，實在太傻了。
+SeasonalTalkEvent_001_006ID	22	Sophie	ソフィー	エスカさん……	Sophie	Escha...	苏菲	爱丝卡小姐……	蘇菲	愛絲卡小姐……
+SeasonalTalkEvent_001_006ID	23	Escha	エスカ	わたしにも、リンゴ園を手伝ってくれている\nオートマタの家族がいるんです	Escha	I actually have an automaton family member who works at the orchard too.	爱丝卡	我家也有一位帮我打理苹果园的自动人偶。	愛絲卡	我也有個家人，\n是在蘋果園幫忙我的自動人偶。
+SeasonalTalkEvent_001_006ID	24	Escha	エスカ	わたしにとっては、母親みたいな存在で……\nとっても大事な人です	Escha	She's very dear to me, almost like a mother.	爱丝卡	对我来说，她就像母亲一样……\n是我非常非常重要的人。	愛絲卡	對我來說，她就像母親一樣……\n是非常重要的人。
+SeasonalTalkEvent_001_006ID	25	Escha	エスカ	二人のことを見ていたらわたしと同じだなって。\nそんな風に思っちゃいました	Escha	Looking at the two of you made me feel you have a similar relationship.	爱丝卡	所以看到你们二位，我就会情不自禁地想，\n原来还有和我处境相似的人呀。	愛絲卡	看著兩位，\n讓我不禁覺得妳們跟我是一樣的。
+SeasonalTalkEvent_001_006ID	26	Plachta	プラフタ	（エスカには私とソフィーが親しく\n　見えたのでしょうか？　もし、そうなら……）	Plachta	(Escha sees Sophie and I as close? But then, does that mean...)	普拉芙妲	（爱丝卡觉得我和苏菲让她很有亲近感？\n　如果是这样的话……）	普拉芙妲	（在愛絲卡眼裡，我和蘇菲看起來很親近嗎？\n　如果是這樣的話……）
+SeasonalTalkEvent_001_006ID	27	Escha	エスカ	リンゴ園はもうすぐそこですよ。\n魔物がたくさんいますから気を付けてください！	Escha	The apple orchard is just ahead. There are lots of monsters, so be careful!	爱丝卡	马上就要到苹果园了。\n周围魔物众多，你们要小心啊！	愛絲卡	蘋果園就快到了。\n那邊有很多魔物，請妳們小心！
+SeasonalTalkEvent_001_007ID	0	Plachta	プラフタ	――ふうっ。\nなんとか魔物を追い払えましたね	Plachta	Phew. That's the last of them.	普拉芙妲	呼——\n总算赶走魔物了。	普拉芙妲	──呼～\n總算把魔物給趕走了。
+SeasonalTalkEvent_001_007ID	1	Escha	エスカ	すごいです、二人ともっ！\nこれで安心して、リンゴの収穫ができます	Escha	You two are both amazing! Now we can harvest the apples safe and sound!	爱丝卡	你们好厉害啊！\n这下可以安心采摘苹果了。	愛絲卡	妳們兩位都好厲害！\n這麼一來，我們就能放心地採收蘋果了。
+SeasonalTalkEvent_001_007ID	2	Sophie	ソフィー	えへへ……\n少しはお役に立てたかな？	Sophie	Ehehe. I hope it was enough.	苏菲	嘿嘿……\n我们有帮到你吗？	蘇菲	嘿嘿……\n我們有幫上一點忙嗎？
+SeasonalTalkEvent_001_007ID	3	Escha	エスカ	少しどころじゃないですよ。ソフィーさんも\nプラフタさんも、リンゴ園の大恩人ですっ	Escha	More than enough! You and Plachta are the saviors of the orchard.	爱丝卡	那可是帮大忙了。苏菲小姐、\n普拉芙妲小姐，你们是苹果园的大恩人！	愛絲卡	才不只一點呢。\n蘇菲小姐和普拉芙妲小姐都是蘋果園的大恩人。
+SeasonalTalkEvent_001_007ID	4	Escha	エスカ	これ……お礼になるか分からないんですけど。\nもらってください、とびっきりのリンゴです！	Escha	Take these. They're not enough to really say thank you, but they are some extra-special apples!	爱丝卡	这个……虽然不是什么贵重的东西，\n但还请你们收下。这是我们最优质的苹果！	愛絲卡	這個……雖然不知能否當作謝禮，\n但還是請收下吧，這些是頂級的蘋果！
+SeasonalTalkEvent_001_007ID	5	Sophie	ソフィー	ええっ！？\nこんなにたくさん、もらっていいんですか？	Sophie	What?! We don't need this many! Are you sure?	苏菲	哇？！\n真的要给我们这么多吗！	蘇菲	咦咦！？\n這麼多，我們真的可以收下嗎？
+SeasonalTalkEvent_001_007ID	6	Escha	エスカ	はいっ。\n改めて、お近づきの印にどうぞ	Escha	Of course! Take it as a token of our newfound friendship!	爱丝卡	当然。\n请收下吧，这是我们重修旧好的证明。	愛絲卡	可以，\n請當作是我們再次變親近的證明。
+SeasonalTalkEvent_001_007ID	7	Sophie	ソフィー	そういうことなら……\nありがとうございます、エスカさん！	Sophie	If you say so! Thank you so much, Escha!	苏菲	既然是这样……\n我就收下了，谢谢你，爱丝卡小姐！	蘇菲	既然是這樣的話……\n謝謝妳，愛絲卡小姐！
+SeasonalTalkEvent_001_007ID	8	Sophie	ソフィー	ねえ、プラフタ。せっかくだから、\nこの場で１つ食べてみない？	Sophie	Hey, Plachta. Let's have one now and see how they taste!	苏菲	看，普拉芙妲，我们收到了这么好的苹果，\n要不要现在就来尝一个？	蘇菲	我說普拉芙妲，反正機會難得，\n要不要現在吃一個看看？
+SeasonalTalkEvent_001_007ID	9	Sophie	ソフィー	今日一日、動きっぱなしだから\nプラフタもお腹空いたでしょ？	Sophie	You've been working all day, so you must be pretty hungry, right?	苏菲	今天忙到现在都没休息，\n你肯定也饿了吧？	蘇菲	今天活動了一整天，\n普拉芙妲妳肚子也餓了吧？
+SeasonalTalkEvent_001_007ID	10	Escha	エスカ	えっ、プラフタさんってお腹空くんですか？	Escha	Huh? Plachta can get hungry?	爱丝卡	咦，普拉芙妲小姐会饿吗？	愛絲卡	咦，普拉芙妲小姐會肚子餓嗎？
+SeasonalTalkEvent_001_007ID	11	Sophie	ソフィー	……あっ、そっか！　プラフタは人形なんだっけ。\nあはは、すっかり忘れてたよ	Sophie	Ah. Oops. I completely forgot you were a doll for a second, Plachta.	苏菲	啊，对哦！普拉芙妲是人偶啊，\n哈哈哈，我都忘了。	蘇菲	……啊，對喔！普拉芙妲是人偶吧。\n啊哈哈，我完全忘記了。
+SeasonalTalkEvent_001_007ID	12	Plachta	プラフタ	まったく……\n忘れるようなことではないと思うのですが	Plachta	Honestly... That's not really something you can just forget.	普拉芙妲	真是的……\n一般来说不可能忘记这种事吧。	普拉芙妲	真是的……\n這可不是會忘記的事情吧。
+SeasonalTalkEvent_001_007ID	13	Escha	エスカ	ふふ。それだけ、一緒にいるのが\n当たり前になったってことじゃないですか？	Escha	Haha. That just goes to show how natural it's become for you two to be together.	爱丝卡	呵呵，因为你们在一起太久了，\n已经习以为常了嘛。	愛絲卡	呵呵，這就表示妳們在一起\n已經成了理所當然的事吧？
+SeasonalTalkEvent_001_007ID	14	Plachta	プラフタ	そう、なのでしょうか……？	Plachta	You think so?	普拉芙妲	是吗……？	普拉芙妲	是、這樣嗎……？
+SeasonalTalkEvent_001_007ID	15	Escha	エスカ	前から気になってたんですけど……ソフィーさんと\nプラフタさんって、どういう関係なんですか？	Escha	I've actually always wondered about what kind of relationship the two of you have.	爱丝卡	我早就想问了……\n苏菲小姐和普拉芙妲小姐到底是什么关系呀？	愛絲卡	我從之前就一直很好奇……\n蘇菲小姐和普拉芙妲小姐是什麼關係呢？
+SeasonalTalkEvent_001_007ID	16	Escha	エスカ	以前、プラフタさんは、ソフィーさんの\nおばあさんのお手伝いをされてましたよね	Escha	Plachta used to help your grandmother, right?	爱丝卡	普拉芙妲小姐以前是苏菲小姐奶奶的助手吧？	愛絲卡	普拉芙妲小姐以前在蘇菲小姐的\n奶奶身邊幫忙過，對吧？
+SeasonalTalkEvent_001_007ID	17	Sophie	ソフィー	はい。だからあたしにとっては、プラフタも\nお菓子作りの師匠みたいな存在なんです	Sophie	That's right! Which is why Plachta is like my mentor when it comes to making treats.	苏菲	是的，\n所以普拉芙妲也是教我制作点心的师父之一。	蘇菲	是的，所以對我來說，\n普拉芙妲也像是點心師父一樣的存在。
+SeasonalTalkEvent_001_007ID	18	Plachta	プラフタ	私は、こんなにずぼらで手のかかる弟子を\nとった覚えはないのですが	Plachta	I don't remember ever accepting an apprentice who was so careless and time-consuming, though.	普拉芙妲	我可不记得收过这么粗枝大叶让人操心的徒弟。	普拉芙妲	我可不記得有收過這麼懶散\n又需要照顧的徒弟。
+SeasonalTalkEvent_001_007ID	19	Sophie	ソフィー	そ、そんなことないもん！\nプラフタが厳しすぎるんだよ	Sophie	I-I am not! You're just too strict, Plachta!	苏菲	我、我才不是你说的那样！\n是你太严厉了啦。	蘇菲	才、才沒這回事呢！\n是普拉芙妲太嚴格了啦。
+SeasonalTalkEvent_001_007ID	20	Sophie	ソフィー	あーしろ、こうしろって\nおばあちゃんよりずっと頑固なんだから	Sophie	You're always saying do this, or do that! You're even stricter than Grandma was!	苏菲	你总是要求我做这做那，\n简直比奶奶还死板。	蘇菲	老是叫我做這個、做那個的，\n比奶奶固執得多了呢。
+SeasonalTalkEvent_001_007ID	21	Plachta	プラフタ	そうですか。では私がいなくとも\n一人でやっていけそうですね、ソフィー	Plachta	Is that so? I guess you don't need me anymore then, Sophie?	普拉芙妲	原来你是这样想的啊。那么就算没有我，\n你一个人一定也能经营下去吧，苏菲。	普拉芙妲	是這樣嗎？那就算我不在，\n蘇菲妳一個人也能搞定很多事吧。
+SeasonalTalkEvent_001_007ID	22	Sophie	ソフィー	うぐっ！　そ、それは、ちょっと……\nまだ、早いかなぁ……なんて	Sophie	Eep! W-Well, I think I could still use a little more guidance... Haha...	苏菲	唔！这、这个嘛……\n可能……对我来说还早了点……	蘇菲	唔呃！這、這個，有點……\n應該、還早吧……我想。
+SeasonalTalkEvent_001_007ID	23	Escha	エスカ	あははっ。\n二人とも、本当に仲がいいんですね	Escha	Ahaha! You two really do have a special bond.	爱丝卡	哈哈哈，\n你们两个关系真的好好。	愛絲卡	啊哈哈，\n妳們的感情真的很好呢。
+SeasonalTalkEvent_001_007ID	24	Plachta	プラフタ	（……不思議ですね。以前はこのように\n　ソフィーと話すことはできなかったのに）	Plachta	(How strange. I've never been able to speak to Sophie like this before.)	普拉芙妲	（真是不可思议……\n　我以前好像没法和苏菲这样对话。）	普拉芙妲	（……真不可思議，我以前明明沒辦法像這樣\n　和蘇菲聊天的。）
+SeasonalTalkEvent_001_007ID	25	Plachta	プラフタ	（もしかしたら、呪いのせいでしょうか？\n　だとすれば……）	Plachta	(I wonder if this is also because of the curse? But if that's the case, then...)	普拉芙妲	（现在这样莫非是诅咒的功效吗？\n　如果是这样……）	普拉芙妲	（難道是我身上詛咒的緣故？\n　這樣的話……）
+SeasonalTalkEvent_001_007ID	26	Plachta	プラフタ	（このまま、呪いが解けなければいいのに）	Plachta	(Maybe it'd be better if I didn't break it.)	普拉芙妲	（我宁愿诅咒永远不要解除。）	普拉芙妲	（真希望詛咒就這樣下去不要解除。）
+SeasonalTalkEvent_001_007ID	27	Sophie	ソフィー	んー！　このリンゴ、すっごく美味しい！\nほら、プラフタも食べてみて	Sophie	Mmm! These apples are absolutely delicious! Come on, Plachta, try one!	苏菲	嗯——！这个苹果真好吃！\n普拉芙妲，你也快吃呀。	蘇菲	嗯～！這個蘋果超好吃的！\n來吧，普拉芙妲妳也吃吃看。
+SeasonalTalkEvent_001_007ID	28	Plachta	プラフタ	……はい、いただきます	Plachta	Okay, one for the road.	普拉芙妲	……好的，我不客气了。	普拉芙妲	……好的，我開動了。
+SeasonalTalkEvent_001_008ID	0	Sophie	ソフィー	はあー……色々あったけど\n無事に素材が手に入ってよかったね	Sophie	Phew! That was a rather eventful morning, but at least we got some ingredients!	苏菲	呼……这一趟遇到了不少波折，\n好在是成功获得素材了。	蘇菲	呼……雖然發生了很多事，\n但順利取得素材，真是太好了。
+SeasonalTalkEvent_001_008ID	1	Plachta	プラフタ	安心するのはまだ早いですよ、ソフィー。\nレシピに必要な素材はまだあるのですから	Plachta	It's too soon to relax, Sophie. We still need more ingredients for the recipe.	普拉芙妲	先别急着安心，苏菲。\n那个配方还需要其他素材呢。	普拉芙妲	現在放心還太早了喔，蘇菲。\n因為配方還需要其他素材啊。
+SeasonalTalkEvent_001_008ID	2	Sophie	ソフィー	うう、分かってるよお	Sophie	Yeah, I know...	苏菲	呜呜，我知道啦。	蘇菲	嗚嗚，我知道啦～
+SeasonalTalkEvent_001_008ID	3	Sophie	ソフィー	（おばあちゃんとは違って、\n　プラフタは小言が多いなぁ）	Sophie	(Plachta really is a lot stricter than Grandma ever was.)	苏菲	（普拉芙妲和奶奶不一样，\n　她常会出言批评我。）	蘇菲	（和奶奶不同，\n　普拉芙妲真愛嘮叨。）
+SeasonalTalkEvent_001_008ID	4	Sophie	ソフィー	（……でも、それも全部、\n　あたしと、このお店のためなんだよね）	Sophie	(But I suppose, at the end of the day, it's for my and the shop's sake.)	苏菲	（不过，她这么做都是为了我，\n　也是为了商店能好好发展。）	蘇菲	（……不過，這也全都是\n　為了我和這間店吧。）
+SeasonalTalkEvent_001_008ID	5	Sophie	ソフィー	（いつもお世話になってばかりで、\n　あたし、プラフタに何も返せてない……）	Sophie	(She always has my best interests at heart. I just wish I could return the favor...)	苏菲	（我一直在单方面接受普拉芙妲的关照，\n　从来没有回报她什么……）	蘇菲	（我總是受普拉芙妲照顧，\n　卻無以回報……）
+SeasonalTalkEvent_001_008ID	6	Sophie	ソフィー	（だから、プラフタの呪いを解いて、\n　少しでも恩返しするんだ！）	Sophie	(I have to help her break this curse. That's a good way to repay her!)	苏菲	（所以我要帮普拉芙妲解除诅咒，\n　就当是小小的报恩！）	蘇菲	（所以我要解除普拉芙妲的詛咒，\n　稍微報答她一下！）
+SeasonalTalkEvent_001_008ID	7	???	？？？	こんにちはー！　ソフィーいるかな？	???	Hello! Is Sophie here?	？？？	你好！苏菲在吗？	？？？	妳好～！蘇菲在嗎？
+SeasonalTalkEvent_001_008ID	8	Sophie	ソフィー	ライザさん！　お店に来るなんて珍しいですね。\nどうかしたんですか？	Sophie	Ryza! You never come by the shop yourself. Is something the matter?	苏菲	莱莎小姐！真是稀客呀。\n你怎么来了？	蘇菲	萊莎小姐！妳好難得來店裡喔。\n怎麼了嗎？
+SeasonalTalkEvent_001_008ID	9	Ryza	ライザ	お母さんの代理で小麦を届けに来たんだ。\nこのへんに置いといていい？	Ryza	I'm here to deliver some flour on behalf of my mother. Can I leave it here?	莱莎	我来帮妈妈送小麦。\n放在这里可以吗？	萊莎	我來替媽媽送小麥的。\n放這附近可以嗎？
+SeasonalTalkEvent_001_008ID	10	Sophie	ソフィー	はい、いつもありがとうございます！	Sophie	Yes, that's fine! Thanks as always!	苏菲	可以，谢谢你们总是这么费心。	蘇菲	可以，謝謝妳們平時的關照！
+SeasonalTalkEvent_001_008ID	11	Plachta	プラフタ	ソフィー、小麦も必要な素材の１つです。\nライザに相談してみては？	Plachta	Sophie, flour is another one of the ingredients we need. Maybe you could ask Ryza for some help?	普拉芙妲	苏菲，小麦也是必备素材之一，\n你要不要和莱莎谈谈？	普拉芙妲	蘇菲，小麥也是需要的素材之一。\n跟萊莎商量一下如何？
+SeasonalTalkEvent_001_008ID	12	Sophie	ソフィー	あっ、そうだね！	Sophie	Oh, good idea!	苏菲	啊，也对！	蘇菲	啊，說得也是！
+SeasonalTalkEvent_001_008ID	13	Sophie	ソフィー	ライザさん、相談があるんですけど。\n今、村を騒がせているハロウィンぷにのことで……	Sophie	Ryza, while you're here, I was wondering if you could help. There's a Halloween Puni causing trouble around the village, and—	苏菲	莱莎小姐，我有事想跟你商量。\n关于最近在村子里作乱的万圣节噗尼……	蘇菲	萊莎小姐，我有件事想跟妳商量。\n是關於現在在村裡鬧事的萬聖節噗尼……
+SeasonalTalkEvent_001_008ID	14	Ryza	ライザ	なるほど……ハロウィンぷにのせいで\nプラフタが呪いにかかっちゃったんだね	Ryza	Oh, so that explains Plachta's outfit. She's been cursed by the Halloween Puni.	莱莎	原来是这样……\n万圣节噗尼给普拉芙妲施加了诅咒啊。	萊莎	原來如此……萬聖節噗尼\n害普拉芙妲被詛咒了啊。
+SeasonalTalkEvent_001_008ID	15	Sophie	ソフィー	ハロウィンぷにをおびき出すために、\nおばあちゃんの特別なお菓子が必要なんですけど	Sophie	To lure out the Halloween Puni, we need a special treat my grandma used to make.	苏菲	所以我想制作奶奶的特制点心，把万圣节噗尼引出来……	蘇菲	為了引出萬聖節噗尼。\n我必須做出奶奶的特別點心才行。
+SeasonalTalkEvent_001_008ID	16	Sophie	ソフィー	ライザさんの所に、\nとびっきりの小麦ってありませんか？	Sophie	Do you have any extra-special flour we could use?	苏菲	莱莎小姐，\n你们家有没有特别优质的小麦呢？	蘇菲	萊莎小姐那邊，\n有沒有頂級的小麥呢？
+SeasonalTalkEvent_001_008ID	17	Ryza	ライザ	もちろんあるよ！　どんなお菓子も料理も\nとびっきり美味しくできる小麦がね	Ryza	Absolutely! We've got some flour that could make any baking or cooking a culinary masterpiece!	莱莎	当然有啊！我们有特别优质的美味小麦，\n适合制作一切点心和料理。	萊莎	當然有啊！是那種不管什麼點心和料理\n都能做得很好吃的小麥喔。
+SeasonalTalkEvent_001_008ID	18	Sophie	ソフィー	そ、それ！　分けてもらえませんか！？	Sophie	Th-That sounds amazing! Would you be willing to part with some?!	苏菲	我、我就是想要这个！可不可以分给我一些呢？！	蘇菲	那、那個！能分一些給我嗎！？
+SeasonalTalkEvent_001_008ID	19	Ryza	ライザ	うーん……どうしようかなあ	Ryza	Hmm, I'm not so sure...	莱莎	唔……要不要给你呢……	萊莎	嗯……我要怎麼做才好呢？
+SeasonalTalkEvent_001_008ID	20	Sophie	ソフィー	ライザさーん！　お願いします！	Sophie	Please, Ryza!	苏菲	莱莎小姐！求你了！	蘇菲	萊莎小姐！拜託妳！
+SeasonalTalkEvent_001_008ID	21	Ryza	ライザ	じゃあさ、交換条件っていうのはどう？	Ryza	How about we make a trade deal?	莱莎	那我设一个交换条件可以吗？	萊莎	那麼，我們來交換條件如何？
+SeasonalTalkEvent_001_008ID	22	Sophie	ソフィー	交換条件ですか？　\nそれって……	Sophie	A trade deal? What do you have in mind?	苏菲	交换条件？\n是什么条件……	蘇菲	交換條件嗎？\n那是要……
+SeasonalTalkEvent_001_008ID	23	Ryza	ライザ	あたしの配達を手伝ってくれたら、\nとびっきりの小麦を分けてあげる！	Ryza	If you help me with my deliveries, I'll give you some of my extra-special flour!	莱莎	如果你帮我送货，\n我就分给你那种优质小麦！	萊莎	妳幫我送貨的話，\n我就分給妳頂級的小麥！
+SeasonalTalkEvent_001_008ID	24	Plachta	プラフタ	……それは、ライザの仕事なのでは	Plachta	Isn't that supposed to be your job, Ryza?	普拉芙妲	……莱莎，那是你的工作吧？	普拉芙妲	……那不是萊莎妳的工作嗎？
+SeasonalTalkEvent_001_008ID	25	Sophie	ソフィー	プ、プラフタ！　しーっ！	Sophie	P-Plachta! Shhh!	苏菲	普、普拉芙妲！小声点！	蘇菲	普、普拉芙妲！噓～！
+SeasonalTalkEvent_001_008ID	26	Sophie	ソフィー	分かりました、手伝います！！	Sophie	No problem! We'll do it!	苏菲	好的，我愿意帮你！！	蘇菲	明白了，我願意幫忙！！
+SeasonalTalkEvent_001_008ID	27	Ryza	ライザ	よしっ、交渉成立！\nじゃあ、みんなで配達にしゅっぱーつ！	Ryza	Great, it's a deal! Come on, let's get started!	莱莎	好，成交！\n大家这就出发送货吧！	萊莎	好，達成協議了！\n那我們大家就出發去送貨吧～！
+SeasonalTalkEvent_001_008ID	28	Reisalin Stout	ライザリン・シュタウト	小麦農家の娘。いつも冒険心に満ち溢れているが\nよく農作業をさぼっては母親に叱られている	Reisalin Stout	The daughter of a wheat farmer, always brimming with adventure. She often skips farm work, earning frequent scoldings from her mother.	莱莎琳·斯托特	小麦农户之女。时刻都跃跃欲试想要出门冒险，\n却总是被母亲教训不要溜号，要认真干农活。	萊莎琳‧斯托特	小麥農家的女兒，總是充滿了冒險精神，\n但經常因逃避農活而受母親責備。
+SeasonalTalkEvent_001_009ID	0	Plachta	プラフタ	……くっ、この感覚は	Plachta	Oh no, I know this feeling.	普拉芙妲	唔……这种感觉是……	普拉芙妲	……唔，這個感覺是……
+SeasonalTalkEvent_001_009ID	1	Sophie	ソフィー	あ、これはもしかして……	Sophie	Uh-oh, I think it's happening again...	苏菲	啊，你该不会又要……	蘇菲	啊，這難不成是……
+SeasonalTalkEvent_001_009ID	2	Plachta	プラフタ	……さあ、ソフィー。\n楽しく愉快な、イタズラのお時間ですよ	Plachta	Come now, Sophie. It's time for some playful mischief!	普拉芙妲	来吧，苏菲。\n令人笑破肚皮的恶作剧就要开始了哦。	普拉芙妲	……來吧，蘇菲，\n開心愉快的惡作劇時間到囉。
+SeasonalTalkEvent_001_009ID	3	Sophie	ソフィー	あははっ！　やっぱりー！　\nなんか、プラフタのイタズラにも慣れてきたよ	Sophie	Ahaha! I thought so! But I think I'm getting used to your tricks now, Plachta.	苏菲	哈哈哈！我就知道！\n我好像已经适应普拉芙妲的恶作剧了。	蘇菲	啊哈哈！果然！\n感覺我也已經習慣普拉芙妲的惡作劇了呢。
+SeasonalTalkEvent_001_009ID	4	Ryza	ライザ	えーと、これがプラフタにかけられた\n呪いなんだよね？	Ryza	Uh... I guess this is the curse you were talking about?	莱莎	啊，这就是普拉芙妲中的诅咒？	萊莎	呃～這就是普拉芙妲被下的詛咒吧？
+SeasonalTalkEvent_001_009ID	5	Sophie	ソフィー	はい。\n突然誰かをくすぐりたくなるみたいです	Sophie	Yes. It seems to make her suddenly want to tickle someone.	苏菲	是的。\n这诅咒好像会让她突然开始挠人痒痒。	蘇菲	對的，\n似乎是會突然很想搔別人癢。
+SeasonalTalkEvent_001_009ID	6	Ryza	ライザ	なんか、かわいい呪いだね	Ryza	That's rather cute as far as curses go!	莱莎	很可爱的诅咒嘛。	萊莎	還真是可愛的詛咒呢。
+SeasonalTalkEvent_001_009ID	7	Sophie	ソフィー	プラフタは困ってるみたいですけどね	Sophie	Plachta might not agree...	苏菲	但她本人深受其扰呢。	蘇菲	但普拉芙妲好像很困擾就是了。
+SeasonalTalkEvent_001_009ID	8	Plachta	プラフタ	うふふ……こしょ、こしょ、こしょ……	Plachta	Hehe... Tickle-tickle time!	普拉芙妲	哦呵呵……我挠我挠我挠……	普拉芙妲	呵呵……我搔、我搔、我搔……
+SeasonalTalkEvent_001_009ID	9	Sophie	ソフィー	あっ！　ちょっ、そこはダメだってば！\nあはっ、あははっ！	Sophie	Ah! No, not there! Ahaha, hahaha!	苏菲	啊！不行，不能挠那里！\n哈哈、哈哈哈！	蘇菲	啊！等等，那裡不行啦！\n啊哈、啊哈哈！
+SeasonalTalkEvent_001_009ID	10	Plachta	プラフタ	……ふう。\nソフィーの弱点が分かってきました	Plachta	Ooh. I believe I've found your weak spot, Sophie.	普拉芙妲	呼……\n掌握苏菲的弱点了。	普拉芙妲	……呼～\n我知道蘇菲的弱點了。
+SeasonalTalkEvent_001_009ID	11	Sophie	ソフィー	はあ、はあ……\n冷静に言わないでよ、プラフタ	Sophie	*Huff* *Huff*... Do you have to say that so matter-of-factly?	苏菲	呼、呼……\n普拉芙妲，不要一脸清醒地说那种话。	蘇菲	呼、呼……\n別一臉冷靜地說這種話啦，普拉芙妲。
+SeasonalTalkEvent_001_009ID	12	Ryza	ライザ	ふっ……あははっ！\nソフィーとプラフタって、面白いね！	Ryza	Haha! It's so much fun watching the two of you!	莱莎	噗……哈哈哈！\n苏菲、普拉芙妲，你们好有趣！	萊莎	呵……啊哈哈！\n蘇菲和普拉芙妲妳們真有意思耶！
+SeasonalTalkEvent_001_009ID	13	Ryza	ライザ	今までちゃんと話したことなかったけど、\nもったいないことしちゃったな	Ryza	I've never really had the chance to talk with you, but I wish I had.	莱莎	之前都没跟你们好好聊过，\n现在想想好可惜哦。	萊莎	之前都沒好好跟妳們聊過，\n真是太可惜了。
+SeasonalTalkEvent_001_009ID	14	Sophie	ソフィー	えへへ……あたしもライザさんがこんなに\n気さくな方だったなんて知りませんでした	Sophie	Ehehe. I also had no idea you would be so easy to get along with, Ryza!	苏菲	嘿嘿……我之前也不知道\n莱莎小姐是这么好相处的人。	蘇菲	嘿嘿……我之前也不知道萊莎小姐\n原來是這麼爽朗的人。
+SeasonalTalkEvent_001_009ID	15	Ryza	ライザ	ねえ。\n今度、畑仕事をさぼるときに遊びに行っていい？	Ryza	Say, can I come by your shop the next time I skip work on the farm?	莱莎	那我下次不想干农活的时候，\n可不可以去找你玩？	萊莎	我說，\n下次蹺掉農活時可以去找妳們玩嗎？
+SeasonalTalkEvent_001_009ID	16	Sophie	ソフィー	もちろんです！\nいつでも、遊びに来てください！	Sophie	Of course! Feel free to stop by whenever you like!	苏菲	当然可以！\n随时欢迎你来玩！	蘇菲	那當然！\n隨時歡迎妳來找我們玩！
+SeasonalTalkEvent_001_009ID	17	Plachta	プラフタ	仕事をさぼるのはどうかと思いますが……\nご来店、お待ちしてます	Plachta	I'm not so sure you should be skipping work, but we'll be waiting.	普拉芙妲	我认为逃避工作并不好……\n不过我也很期待你的光临。	普拉芙妲	雖然我認為蹺班不太好……\n但我會等妳光臨本店的。
+SeasonalTalkEvent_001_009ID	18	Ryza	ライザ	やった！　ありがとう！	Ryza	Yay! Thanks!	莱莎	太好了！谢谢你们！	萊莎	太棒了！謝謝妳們！
+SeasonalTalkEvent_001_009ID	19	Ryza	ライザ	――ふう。\nこれで、配達は全部終わりかな	Ryza	Phew. That's all the deliveries done.	莱莎	呼——\n送货工作全都做完了吧。	萊莎	──呼～\n這樣貨就全部送完了吧。
+SeasonalTalkEvent_001_009ID	20	Ryza	ライザ	ソフィー、プラフタ。\n手伝ってくれてありがとう！	Ryza	Thanks for helping, you two.	莱莎	苏菲、普拉芙妲，谢谢你们帮忙！	萊莎	蘇菲、普拉芙妲，\n謝謝妳們的幫忙！
+SeasonalTalkEvent_001_009ID	21	Sophie	ソフィー	いえ、あたしも楽しかったです	Sophie	No problem! It was quite fun!	苏菲	不客气，这段时间我也过得很开心！	蘇菲	不會，我也做得很開心。
+SeasonalTalkEvent_001_009ID	22	Ryza	ライザ	じゃあ、これ……\n約束してたとびっきりの小麦	Ryza	Here—the extra-special flour I promised you.	莱莎	那就按照说好的……\n给你们优质小麦。	萊莎	那麼，這個……\n我們說好的頂級小麥。
+SeasonalTalkEvent_001_009ID	23	Sophie	ソフィー	わあ、ありがとうございます！	Sophie	Wow, thank you so much!	苏菲	哇，谢谢！	蘇菲	哇啊，謝謝妳！
+SeasonalTalkEvent_001_009ID	24	Plachta	プラフタ	これで残る素材は、あと１つですね	Plachta	Now there's only one ingredient left.	普拉芙妲	现在只差1种素材了。	普拉芙妲	這樣需要的素材就只剩一種了。
+SeasonalTalkEvent_001_009ID	25	Sophie	ソフィー	うん！　あたし、プラフタを元に戻すために\n全力で頑張るから！	Sophie	Yeah! I'll do whatever it takes to make sure we can break your curse, Plachta!	苏菲	嗯！为了帮普拉芙妲恢复原状，\n我会拼尽全力的！	蘇菲	嗯！為了讓普拉芙妲恢復正常，\n我會盡全力加油的！
+SeasonalTalkEvent_001_009ID	26	Ryza	ライザ	その意気だよ、ソフィー。\nプラフタの呪い、早く解けるといいね	Ryza	That's the spirit, Sophie. I hope you can break it soon.	莱莎	很有志气嘛，苏菲。\n希望普拉芙妲的诅咒能早日解除。	萊莎	就是這個氣勢，蘇菲。\n希望普拉芙妲的詛咒能快點解除。
+SeasonalTalkEvent_001_009ID	27	Plachta	プラフタ	……ですが。\n私が元に戻ったら、ソフィーとの関係も……	Plachta	...But if I return to normal, will my relationship with Sophie also go back?	普拉芙妲	但是……\n如果复原了，我和苏菲的关系就……	普拉芙妲	……但是，\n我恢復正常的話，和蘇菲的關係也……
+SeasonalTalkEvent_001_009ID	28	Sophie	ソフィー	プラフタ？　どうかしたの？	Sophie	Plachta? Is something wrong?	苏菲	普拉芙妲？怎么了？	蘇菲	普拉芙妲？妳怎麼了？
+SeasonalTalkEvent_001_009ID	29	Plachta	プラフタ	い、いえ。なんでもありません。\nそれではライザ、私たちはこれで	Plachta	N-No, it's nothing. Thanks, Ryza. We'll be going now.	普拉芙妲	没、没事。\n那么莱莎，我们先告辞了。	普拉芙妲	呃、不，沒什麼。\n那麼萊莎，我們就告辭了。
+SeasonalTalkEvent_001_009ID	30	Ryza	ライザ	うん！　またね、二人とも！	Ryza	Okay! See you both again soon!	莱莎	嗯！再见！	萊莎	嗯！兩位再見囉！
+SeasonalTalkEvent_001_010ID	0	Sophie	ソフィー	はあ、いよいよ最後の素材だあ！\nなんか、緊張してきたかも……	Sophie	Okay, we're finally down to the last ingredient. I'm starting to feel a bit nervous!	苏菲	呼，就差最后一样素材了啊！\n我好像开始紧张了……	蘇菲	呼～終於要收集最後的素材了！\n我好像開始緊張起來了……
+SeasonalTalkEvent_001_010ID	1	Plachta	プラフタ	最後の素材は、とびっきりのタマゴですね。\n先代はよく、この辺りに採りに来ていました	Plachta	The final ingredient we need is some extra-special eggs. Your grandmother often came here to gather them.	普拉芙妲	最后一样素材是优质蛋。\n上代主人经常来这附近采集。	普拉芙妲	最後需要的素材是頂級的蛋吧，\n上一代主人經常來這附近採集。
+SeasonalTalkEvent_001_010ID	2	Sophie	ソフィー	あのお菓子は、\nあたしにとっても思い出の品だけど	Sophie	Those treats hold a lot of precious memories for me...	苏菲	那份点心对我来说不仅是特别的回忆……	蘇菲	那個點心對我來說，\n雖然是充滿回憶的食物……
+SeasonalTalkEvent_001_010ID	3	Sophie	ソフィー	プラフタにとっても、\nおばあちゃんとの思い出なんだね	Sophie	But it must also be a very special memory of Grandma for you too, Plachta.	苏菲	对普拉芙妲来说，\n也是与奶奶有关的宝贵回忆吧。	蘇菲	但對普拉芙妲來說，\n也是與奶奶之間的回憶吧。
+SeasonalTalkEvent_001_010ID	4	Plachta	プラフタ	はい。先代にはお菓子作りだけではなく\n多くのことを学ばせていただきました	Plachta	Yes. She taught me all sorts of things, not just about making treats.	普拉芙妲	是的。上代主人不仅教我制作点心，\n还教会了我许许多多事情。	普拉芙妲	是的，我從上一代主人身上學到了很多東西，\n不只是做點心而已。
+SeasonalTalkEvent_001_010ID	5	Plachta	プラフタ	……そういえば。\n知っていますか、ソフィー	Plachta	Actually, now that I think about it...	普拉芙妲	……对了，苏菲，你知道吗？	普拉芙妲	……對了。\n蘇菲，妳知道嗎？
+SeasonalTalkEvent_001_010ID	6	Plachta	プラフタ	先代も初めから美味しいお菓子を\n作れたわけではありませんでしたよ	Plachta	Did you know she wasn't always the baking master you know her to be?	普拉芙妲	上代主人刚开始制作点心的时候，\n手艺也没那么好哦。	普拉芙妲	上一代主人也不是一開始就做得出美味的點心喔。
+SeasonalTalkEvent_001_010ID	7	Sophie	ソフィー	えっ、そうなの！？	Sophie	What? She wasn't?!	苏菲	咦，是吗？！	蘇菲	咦，是這樣嗎！？
+SeasonalTalkEvent_001_010ID	8	Plachta	プラフタ	むしろ初めて作ったお菓子については、\nソフィーのほうが良くできていたくらいです	Plachta	In fact, I think your first attempts were actually better than hers.	普拉芙妲	真要说的话，\n还是苏菲的第一份作品更好吃呢。	普拉芙妲	以第一次做的點心而言，\n反而是蘇菲做得更好。
+SeasonalTalkEvent_001_010ID	9	Sophie	ソフィー	うーん。だったらどうして、あたしの作るお菓子は\nおばあちゃんのものに届かないんだろう	Sophie	Hmm. Then why are the treats I'm making not quite reaching her level?	苏菲	唔……那为什么我现在做的点心比不上奶奶的呢？	蘇菲	唔～既然如此，\n為什麼我做的點心還是比不上奶奶做的呢？
+SeasonalTalkEvent_001_010ID	10	Plachta	プラフタ	……ソフィーと先代の違い、ですか	Plachta	You mean, what's different between you two?	普拉芙妲	说到苏菲和上代主人的不同点……	普拉芙妲	……蘇菲和上一代主人的差異嗎？
+SeasonalTalkEvent_001_010ID	11	Plachta	プラフタ	味や成分に違いが出るとは思えないのですが。\nただ、先代はいつも楽しそうにお菓子を作っていました	Plachta	While I don't think it would make a difference in taste, your grandmother definitely enjoyed making treats.	普拉芙妲	我不认为你们做的点心在用料和味道上有什么不同。\n不过，上代主人在制作点心时，总是一副快乐的模样。	普拉芙妲	我認為味道或成分上沒什麼不同。\n只是上一代主人做點心時總是很樂在其中的樣子。
+SeasonalTalkEvent_001_010ID	12	Sophie	ソフィー	うん！　あたしも、お菓子を作ってる時の\nおばあちゃんの笑顔、大好きだったなあ	Sophie	Oh, yes! I always loved the way she smiled while she was baking!	苏菲	嗯！我也好喜欢奶奶做点心时的笑容。	蘇菲	嗯！奶奶做點心時露出的笑容，\n我也非常喜歡呢～
+SeasonalTalkEvent_001_010ID	13	Plachta	プラフタ	あの笑顔を見ていたら、黒焦げの焼き菓子を\n食べても笑顔になってしまったでしょうね	Plachta	As long as that smile was there, even burnt treats would make me smile.	普拉芙妲	看到她那张笑脸，就算吃下烤焦的点心，\n可能也会露出微笑吧。	普拉芙妲	只要看著那張笑臉，\n就算吃著烤焦的烘焙點心也會忍不住露出笑容吧。
+SeasonalTalkEvent_001_010ID	14	Plachta	プラフタ	現に私も、先代の失敗作を食べた時\n一緒に笑っていたような気がします	Plachta	I even remember laughing together while we munched on some of her failed attempts.	普拉芙妲	其实以前吃掉她的失败作时，\n我们也一起笑个不停呢。	普拉芙妲	實際上，吃到上一代主人做的失敗作時，\n我好像也跟著她一起笑了。
+SeasonalTalkEvent_001_010ID	15	Sophie	ソフィー	……おばあちゃんの笑顔かあ	Sophie	...Grandma's smile.	苏菲	奶奶的笑容……	蘇菲	……奶奶的笑容啊～
+SeasonalTalkEvent_001_010ID	16	Sophie	ソフィー	プラフタが美味しいと思えるものは\n味の問題だけじゃないのかも……	Sophie	Maybe it's not just about the taste for Plachta...	苏菲	或许普拉芙妲觉得那时的点心好吃，\n并不只是因为味道的关系。	蘇菲	能夠讓普拉芙妲覺得好吃的東西，\n或許不只是味道的問題而已……
+SeasonalTalkEvent_001_010ID	17	Plachta	プラフタ	ソフィー、あれを見てください！	Plachta	Sophie, look over there!	普拉芙妲	苏菲，你看那个！	普拉芙妲	蘇菲，請看那個！
+SeasonalTalkEvent_001_010ID	18	Sophie	ソフィー	あっ、おっきなタマゴ！\nもしかして、あれが最後の素材？	Sophie	Wow, that's a huge egg! I suppose that's the final ingredient?	苏菲	啊，好大的蛋！\n莫非那就是最后一样素材？	蘇菲	啊，好大顆的蛋！\n難道那就是最後的素材嗎？
+SeasonalTalkEvent_001_010ID	19	Plachta	プラフタ	ええ、恐らくは	Plachta	Yes, I think so.	普拉芙妲	嗯，应该就是它。	普拉芙妲	對，應該沒錯。
+SeasonalTalkEvent_001_010ID	20	Sophie	ソフィー	やったあ！\nこれで、最高のお菓子が作れる！	Sophie	Yay! Now we can make the perfect treats!	苏菲	太好了！\n这下能做出最美味的点心了！	蘇菲	好耶！\n這樣就能做出最棒的點心了！
+SeasonalTalkEvent_001_010ID	21	Sophie	ソフィー	早速持って帰って……	Sophie	Let's just grab the egg to take back...	苏菲	快把它带回去……	蘇菲	我們快點帶回去……
+SeasonalTalkEvent_001_010ID	22			――ピギャアアアッ！		*Screech!*		吼啊啊啊啊啊！		──唧嘎啊啊啊！
+SeasonalTalkEvent_001_010ID	23	Sophie	ソフィー	うわわ！　魔物だ！\nもしかして、このタマゴの親鳥！？	Sophie	Wah! A monster! Maybe the egg belongs to her?	苏菲	哇啊！是魔物！\n难不成这是它的蛋？！	蘇菲	嗚哇哇！是魔物！\n牠該不會是這顆蛋的媽媽吧！？
+SeasonalTalkEvent_001_010ID	24	Plachta	プラフタ	そう簡単には\n渡してくれそうにないですね	Plachta	I don't think she's going to just let us take it, either.	普拉芙妲	看来它不会轻易让我们把蛋带走。	普拉芙妲	看來不會那麼輕易地讓給我們呢。
+SeasonalTalkEvent_001_010ID	25	Sophie	ソフィー	うん、やるしかないよ。\nいこう、プラフタ！	Sophie	Yeah, I guess we'll have to fight. Let's go, Plachta!	苏菲	嗯，只能用实力说话了。\n我们上，普拉芙妲！	蘇菲	嗯，只能一戰了。\n普拉芙妲，我們上吧！
+SeasonalTalkEvent_001_010ID	26	Plachta	プラフタ	はい！	Plachta	Right behind you!	普拉芙妲	好的！	普拉芙妲	沒錯！
+SeasonalTalkEvent_001_011ID	0	Sophie	ソフィー	エスカさんにもらった「とびっきりのリンゴ」と、\nライザさんにもらった「とびっきりの小麦」……	Sophie	We have Escha's extra-special apples, Ryza's extra-special wheat...	苏菲	爱丝卡小姐的“优质苹果”、\n莱莎小姐的“优质小麦”……	蘇菲	愛絲卡小姐給的「頂級蘋果」、\n萊莎小姐給的「頂級小麥」……
+SeasonalTalkEvent_001_011ID	1	Sophie	ソフィー	そしてさっき手に入れた「とびっきりのタマゴ」。\nこれで素材は揃ったね！　早速作ってみよう！	Sophie	And now we also have an extra-special egg! That's everything we need, so let's get to baking!	苏菲	还有刚才拿到的“优质蛋”。\n这下素材都齐了！快开始制作吧！	蘇菲	再加上剛才取得的「頂級蛋」。\n這樣就湊齊素材了呢！快點來做做看吧！
+SeasonalTalkEvent_001_011ID	2	Sophie	ソフィー	美味しくできるといいんだけど……	Sophie	I hope it tastes good this time...	苏菲	希望能做出美味的点心……	蘇菲	希望可以做出很棒的味道……
+SeasonalTalkEvent_001_011ID	3	Sophie	ソフィー	よーし、完成！\nうん、見た目は美味しそう！	Sophie	All right, it's done! It sure looks delicious!	苏菲	好，大功告成！\n嗯，看卖相应该很美味！	蘇菲	很好～完成了！\n嗯，外觀看起來很好吃！
+SeasonalTalkEvent_001_011ID	4	Plachta	プラフタ	ソフィー、何をしているのですか？	Plachta	Sophie, what are you doing?	普拉芙妲	苏菲，你在做什么？	普拉芙妲	蘇菲，妳在做什麼呢？
+SeasonalTalkEvent_001_011ID	5	Sophie	ソフィー	あ、プラフタ！　今ね、練習がてら\nお菓子を作ってみたの。味見してくれる？	Sophie	Oh, Plachta! I made a test batch. Want to try it?	苏菲	啊，普拉芙妲！\n我在练习手艺，顺便做了份点心。要尝尝吗？	蘇菲	啊，普拉芙妲！我剛才試做了點心當作練習。\n妳願意嘗嘗看嗎？
+SeasonalTalkEvent_001_011ID	6	Plachta	プラフタ	ふむ。見た目は良いですね。\nでは、いただきます……むぐ、むぐ	Plachta	Hmm. They certainly look good. Let me have a taste... *Munch* *Munch*	普拉芙妲	唔，卖相很漂亮呢。\n好，我尝尝……嚼嚼。	普拉芙妲	嗯，外觀看起來很棒呢。\n那麼，我來嘗嘗味道……（嚼嚼、嚼嚼）
+SeasonalTalkEvent_001_011ID	7	Sophie	ソフィー	どうかな？	Sophie	How is it?	苏菲	怎么样？	蘇菲	怎麼樣？
+SeasonalTalkEvent_001_011ID	8	Plachta	プラフタ	（……驚きました。ソフィーがこんな味の\n　お菓子を作れるなんて）	Plachta	(...It's incredible. I never thought Sophie could make such a delicious treat.)	普拉芙妲	（真出乎意料……\n　苏菲居然能做出这种味道了啊。）	普拉芙妲	（……真是驚人。\n　沒想到蘇菲竟能做出這種風味的點心。）
+SeasonalTalkEvent_001_011ID	9	Plachta	プラフタ	（あともう少し……もう少しで、\n　先代の味に追いつくかもしれない）	Plachta	(Just a tiny bit more...a really tiny bit, and I think she would be at her grandmother's level.)	普拉芙妲	（只差一点……\n　只差一点就能跟上代主人并驾齐驱了。）	普拉芙妲	（再加把勁……再多加把勁，\n　或許就做得出上一代主人的味道了。）
+SeasonalTalkEvent_001_011ID	10	Plachta	プラフタ	（でも……そうなったら私は……）	Plachta	(But if that happens, what happens to me?)	普拉芙妲	（可是……到那时候我就……）	普拉芙妲	（不過……那樣的話，我……）
+SeasonalTalkEvent_001_011ID	11	Plachta	プラフタ	……か、改善はされていますが、\nお店に出せるほどではないですね	Plachta	I-It's definitely improved, but not quite ready for the shop.	普拉芙妲	……有、有进步，\n但还不够格在店里上架。	普拉芙妲	……雖、雖然有所改善了，\n但還不到可以擺在店裡賣的程度。
+SeasonalTalkEvent_001_011ID	12	Sophie	ソフィー	えぇー。とびっきりの素材を使ったのに？	Sophie	Oh no. Even with the extra special ingredients...	苏菲	是吗——可是都已经使用最优质的素材了啊？	蘇菲	咦～明明用了頂級的素材耶？
+SeasonalTalkEvent_001_011ID	13	Plachta	プラフタ	はい。\n最高とは呼べないかと	Plachta	Yes. I don't think this can quite be called the best there is.	普拉芙妲	是的。\n我认为还未达到最美味的境界。	普拉芙妲	是的，\n這點心還稱不上是最棒的。
+SeasonalTalkEvent_001_011ID	14	Sophie	ソフィー	そ、そっかあ	Sophie	D-Darn...	苏菲	这、这样啊……	蘇菲	這、這樣啊。
+SeasonalTalkEvent_001_011ID	15	Sophie	ソフィー	……そうだよね、おばあちゃんの時と\nまったく同じ素材っていうわけじゃないもんね	Sophie	I guess the ingredients we're using aren't necessarily the same as Grandma's.	苏菲	也是啊……毕竟素材可能\n跟奶奶当时用的不是完全一样。	蘇菲	……說得也是，畢竟跟奶奶當時\n使用的素材並不是完全一模一樣嘛。
+SeasonalTalkEvent_001_011ID	16	Sophie	ソフィー	今持っているこのとびっきりの素材たちを\n活かせるようにレシピの調整が必要なんだ	Sophie	I need to adjust the recipe so that it works better with the extra-special ingredients I'm using.	苏菲	为了完美发挥出我手头的优质素材的风味，\n需要针对配方进行适当的调整。	蘇菲	為了能充分運用現有的頂級素材，\n得調整一下配方才行。
+SeasonalTalkEvent_001_011ID	17	Sophie	ソフィー	待っててね、プラフタ！\n絶対あたしがプラフタの呪いを解いてあげるから！	Sophie	Give me a little time, Plachta! I'm going to help you break that curse!	苏菲	等着我，普拉芙妲！\n我绝对会帮你解除诅咒的！	蘇菲	等著吧，普拉芙妲！\n我絕對會解開妳身上的詛咒！
+SeasonalTalkEvent_001_011ID	18	Plachta	プラフタ	……はぁ	Plachta	...*Sigh*	普拉芙妲	唉……	普拉芙妲	……唉。
+SeasonalTalkEvent_001_011ID	19	Plachta	プラフタ	私は……何をしているのでしょう	Plachta	What am I doing...	普拉芙妲	我……到底在做什么啊……	普拉芙妲	我……究竟在做什麼呢？
+SeasonalTalkEvent_001_011ID	20	Plachta	プラフタ	（このままでいたいからといって嘘をついて……\n　きっとソフィーを傷つけている）	Plachta	(I lied to stay like this, and my lies are going to end up hurting Sophie...)	普拉芙妲	（我为了保持被诅咒的状态，居然不惜说谎……\n　苏菲一定很伤心吧……）	普拉芙妲	（因為希望能這樣相處下去而說謊……\n　我肯定傷害到蘇菲了。）
+SeasonalTalkEvent_001_011ID	21	Plachta	プラフタ	（最低ですね、私は）	Plachta	(I'm the worst.)	普拉芙妲	（我真是太卑鄙了。）	普拉芙妲	（我真是太差勁了。）
+SeasonalTalkEvent_001_011ID	22	Plachta	プラフタ	……一人で頭を冷やすとしましょう	Plachta	I need to be alone for a while to clear my head.	普拉芙妲	……我还是一个人冷静一下吧。	普拉芙妲	……一個人冷靜一下吧。
+SeasonalTalkEvent_001_012ID	0	Sophie	ソフィー	こんな所にいたんだ。\n何してるの？	Sophie	There you are. What are you doing here?	苏菲	原来你在这里啊。\n在做什么？	蘇菲	原來妳在這裡呀。\n在做什麼呢？
+SeasonalTalkEvent_001_012ID	1	Plachta	プラフタ	……少し星を見たくなりまして。\nそういうソフィーは何をしに来たのですか？	Plachta	I just wanted to look at the stars for a while. Why are you here?	普拉芙妲	……我想在这里看会儿星星。\n苏菲你呢，来这里做什么？	普拉芙妲	……突然想看一下星星。\n那蘇菲妳是來做什麼的呢？
+SeasonalTalkEvent_001_012ID	2	Sophie	ソフィー	じゃーん！　これ食べてみてよ！	Sophie	Tada! Try these!	苏菲	请看！我想让你尝尝这个！	蘇菲	鏘鏘～！妳嘗嘗看這個！
+SeasonalTalkEvent_001_012ID	3	Sophie	ソフィー	エスカさんやライザさんの意見も聞きながら、\nレシピを調整してお菓子を作ってみたんだ	Sophie	I adjusted the recipe with some of Escha and Ryza's advice and made a new batch of treats!	苏菲	我听取爱丝卡小姐和莱莎小姐的建议，\n重新调整配方做了新的点心。	蘇菲	我參考了愛絲卡小姐和萊莎小姐的意見，\n把配方調整過後，試做了點心喔。
+SeasonalTalkEvent_001_012ID	4	Plachta	プラフタ	…………	Plachta	...	普拉芙妲	……	普拉芙妲	…………
+SeasonalTalkEvent_001_012ID	5	Plachta	プラフタ	（私は……どうすれば……）	Plachta	(What should I do...)	普拉芙妲	（我该……怎么办才好……）	普拉芙妲	（我……該怎麼辦才好……）
+SeasonalTalkEvent_001_012ID	6	Sophie	ソフィー	あれ？　どうしたの、プラフタ？	Sophie	Hmm? Is something the matter, Plachta?	苏菲	咦？你怎么了，普拉芙妲？	蘇菲	奇怪？普拉芙妲，妳怎麼了？
+SeasonalTalkEvent_001_012ID	7	Plachta	プラフタ	いえ……なんでもありません。\nいただきます。あむ	Plachta	No, it's nothing. Let me try one. *Munch*	普拉芙妲	没什么……我没事。\n那我尝尝看。啊呜。	普拉芙妲	不……沒什麼。\n我要開動了。（咬下）
+SeasonalTalkEvent_001_012ID	8	Plachta	プラフタ	…………	Plachta	...	普拉芙妲	……	普拉芙妲	…………
+SeasonalTalkEvent_001_012ID	9	Plachta	プラフタ	…………！　こ、これは……	Plachta	Th-This taste!	普拉芙妲	……！这、这是……	普拉芙妲	…………！這、這是……
+SeasonalTalkEvent_001_012ID	10	Sophie	ソフィー	ど、どう？　プラフタ？	Sophie	Well? How is it?	苏菲	怎、怎么用？普拉芙妲？	蘇菲	怎、怎麼樣？普拉芙妲？
+SeasonalTalkEvent_001_012ID	11	Plachta	プラフタ	……先代の顔が浮かびます	Plachta	...It makes me picture your grandmother's face.	普拉芙妲	……我眼前浮现出了上代主人的面庞。	普拉芙妲	……我想起了上一代主人的臉龐。
+SeasonalTalkEvent_001_012ID	12	Sophie	ソフィー	え？	Sophie	Huh?	苏菲	咦？	蘇菲	咦？
+SeasonalTalkEvent_001_012ID	13	Plachta	プラフタ	（忘れるはずもありません。\n　これは、先代が作ったお菓子そのもの）	Plachta	(I could never forget this flavor. It's exactly like she used to make them.)	普拉芙妲	（我不可能记错。\n　这就是上代主人做的点心啊。）	普拉芙妲	（我不可能忘記。\n　這個就是上一代主人做過的點心。）
+SeasonalTalkEvent_001_012ID	14	Plachta	プラフタ	（私によく食べさせてくれた、あの……。\n　美味しいと言ったら笑顔を向けてくれたあのお菓子）	Plachta	(The same treats she always used to give me, smiling when I said they were delicious.)	普拉芙妲	（这就是她过去常常拿给我吃的那种点心……\n每当听到我说好吃，她就会向我展露笑容。）	普拉芙妲	（她經常讓我吃的那種……\n　只要我說很好吃，她就會露出笑容的那種點心。）
+SeasonalTalkEvent_001_012ID	15	Plachta	プラフタ	（そういえば、先代は言っていましたっけ。\n　みんなが美味しいと言ってくれるのが……）	Plachta	(She always used to say that others calling her baking delicious...)	普拉芙妲	（对了，我记得她说过……\n　听到大家说好吃……）	普拉芙妲	（對了，上一代主人似乎這麼說過。\n　聽到大家稱讚很好吃……）
+SeasonalTalkEvent_001_012ID	16	Plachta	プラフタ	（何より、嬉しいのだと……）	Plachta	(Was what made her the happiest.)	普拉芙妲	（就是她最开心的事……）	普拉芙妲	（對她來說，就是最大的喜悅……）
+SeasonalTalkEvent_001_012ID	17	Plachta	プラフタ	（どうして私は、そんな簡単な言葉すら……）	Plachta	(Why have I never been able to say something so simple?)	普拉芙妲	（我怎么会把这么简单的话语忘到脑后了呢……）	普拉芙妲	（為什麼我卻連這麼簡單的話都……）
+SeasonalTalkEvent_001_012ID	18	Sophie	ソフィー	プラフタ？　ひょっとして、不味かった……？	Sophie	Plachta? I guess they're not so good?	苏菲	普拉芙妲？该不会很难吃吧……？	蘇菲	普拉芙妲？該不會是很難吃吧……？
+SeasonalTalkEvent_001_012ID	19	Plachta	プラフタ	……しい	Plachta	I-It's...	普拉芙妲	……吃。	普拉芙妲	……吃。
+SeasonalTalkEvent_001_012ID	20	Sophie	ソフィー	え……？	Sophie	Hmm?	苏菲	你说什么……？	蘇菲	咦……？
+SeasonalTalkEvent_001_012ID	21	Plachta	プラフタ	美味しい、です。本当に	Plachta	It's delicious. Incredibly.	普拉芙妲	好吃，真的很好吃。	普拉芙妲	很好吃，真的。
+SeasonalTalkEvent_001_012ID	22	Sophie	ソフィー	本当！？　嘘じゃないよね？\nやった！　初めて美味しいのを作れた！	Sophie	Really?! You're not lying? Yay! I finally baked something delicious!	苏菲	真的吗？！不是骗我的吧？\n太好了！我终于做出好吃的点心了！	蘇菲	真的嗎！？妳沒有騙我吧？\n太好了！第一次做出了好吃的點心！
+SeasonalTalkEvent_001_012ID	23	Plachta	プラフタ	……初めてなんかではないのです。\n前からソフィーのお菓子は美味しかった	Plachta	It's not just this one either. Everything you've made has been delicious.	普拉芙妲	……你早就做出来了。\n你之前做的那几份点心也都很好吃。	普拉芙妲	……並不是第一次。\n蘇菲妳做的點心一直都很好吃。
+SeasonalTalkEvent_001_012ID	24	Plachta	プラフタ	私が……呪いを解きたくなくて\n嘘をついていただけなのです	Plachta	I lied...because I didn't want the curse to break.	普拉芙妲	只是……我因为不想解除诅咒，\n所以骗了你。	普拉芙妲	我……只是不想要解開詛咒，\n才會說了那種謊。
+SeasonalTalkEvent_001_012ID	25	Sophie	ソフィー	呪いを解きたくない？\nどういうこと……？	Sophie	You didn't want the curse to break? Why not?	苏菲	你不想解除诅咒？\n这是怎么回事……？	蘇菲	不想要解開詛咒？\n這是什麼意思……？
+SeasonalTalkEvent_001_012ID	26	Plachta	プラフタ	先代が亡くなって以来、\nどうあなたに接すればいいか分からなくて	Plachta	I've been struggling with figuring out how to connect with you ever since your grandmother passed...	普拉芙妲	因为自从上代主人去世后，\n我就不知道该如何跟你相处了。	普拉芙妲	上一代主人過世之後，\n我不知道該如何跟妳相處。
+SeasonalTalkEvent_001_012ID	27	Plachta	プラフタ	もっとソフィーと仲良くなりたいと思っていたのです。\nでも、私は不器用ですから……上手く行かなくて	Plachta	I wanted to get closer to you, I really did... But I kept messing it up with clumsy responses.	普拉芙妲	我心里很想和你更亲密地相处，\n可是，我不擅长表达……所以一直说不出我的想法。	普拉芙妲	我一直很想跟妳變得更要好。\n但是，我很笨拙……始終不順利。
+SeasonalTalkEvent_001_012ID	28	Plachta	プラフタ	そんな時、この呪いにかかりました。\n最初は早く解かなければと思っていましたが……	Plachta	Then I got cursed, and at first I wanted to break the curse as soon as possible, but...	普拉芙妲	就在这时，我中了这个诅咒。\n一开始，我也希望能尽快解除诅咒……	普拉芙妲	剛好在這時候中了這個詛咒。\n我一開始是想要快點解開的……
+SeasonalTalkEvent_001_012ID	29	Plachta	プラフタ	この呪いがもたらすイタズラで、\nソフィーと仲良くなれた気がしたのです	Plachta	The silly tickles the curse made me do let me get closer to you, Sophie.	普拉芙妲	不过我感觉诅咒强迫我搞恶作剧，\n反倒让我和你的关系更亲密了。	普拉芙妲	但因為這個詛咒帶來的惡作劇，\n讓我覺得自己和妳的感情變好了。
+SeasonalTalkEvent_001_012ID	30	Plachta	プラフタ	呪いが解けてしまったらまた元の関係に戻ってしまう。\nそう思うと……いっそ呪いは解けないほうがと	Plachta	I was worried that if the curse was broken, our relationship would go back to the way it was before.	普拉芙妲	我害怕解除诅咒后，我们的关系又会变成之前那样，\n所以……我决定干脆就让诅咒永远存续下去好了。	普拉芙妲	要是解開詛咒的話，又會回到原本的關係。\n一想到這一點……還不如乾脆不要解開算了。
+SeasonalTalkEvent_001_012ID	31	Plachta	プラフタ	そう……思ったのです	Plachta	So I didn't want to break it anymore.	普拉芙妲	这就是……我的想法。	普拉芙妲	我是……這麼想的。
+SeasonalTalkEvent_001_012ID	32	Sophie	ソフィー	プラフタ……	Sophie	Plachta...	苏菲	普拉芙妲……	蘇菲	普拉芙妲……
+SeasonalTalkEvent_001_012ID	33	Sophie	ソフィー	ごめんね。あたし、プラフタがそんなことを考えてる\nなんて気付かなかった	Sophie	I'm so sorry. I didn't notice you were feeling that way at all.	苏菲	对不起，普拉芙妲，\n我没发现原来你是这么想的……	蘇菲	對不起。\n我完全沒有察覺到妳的這些想法。
+SeasonalTalkEvent_001_012ID	34	Sophie	ソフィー	でも、そんな風に思ってくれてたんだ。\n嬉しいよ、プラフタ	Sophie	But I'm really happy to know you felt that way, Plachta.	苏菲	不过，原来你想和我更亲密啊。\n我听了好开心，普拉芙妲。	蘇菲	不過，原來妳是這麼想的呀。\n普拉芙妲，我很開心喔。
+SeasonalTalkEvent_001_012ID	35	Plachta	プラフタ	……怒らないのですか？	Plachta	You're not angry?	普拉芙妲	……你不生我的气吗？	普拉芙妲	……妳不生氣嗎？
+SeasonalTalkEvent_001_012ID	36	Sophie	ソフィー	怒るわけない。怒るわけないよ	Sophie	Not at all! Why would I be angry?	苏菲	我不生气，怎么会生气呢。	蘇菲	怎麼會生氣？我才不會生氣呢。
+SeasonalTalkEvent_001_012ID	37	Plachta	プラフタ	ありがとうございます、ソフィー	Plachta	Thank you, Sophie.	普拉芙妲	谢谢你，苏菲。	普拉芙妲	謝謝妳，蘇菲。
+SeasonalTalkEvent_001_012ID	38	Sophie	ソフィー	……どうする？　呪いは解かないほうがいい？	Sophie	What should we do? Do you want to keep the curse?	苏菲	……那怎么办？诅咒就放着不管了？	蘇菲	……妳想怎麼做？不要解開詛咒比較好嗎？
+SeasonalTalkEvent_001_012ID	39	Plachta	プラフタ	……いいえ、解きましょう。\n本当の私で、ソフィーともっと仲良くなりたいですから	Plachta	No, let's break it. I want to get closer to you as myself, not from a curse.	普拉芙妲	……不，还是解除诅咒吧。\n因为我想靠自己的力量和苏菲增进感情。	普拉芙妲	……不，還是解開吧。\n我想要以真實的自己，跟妳變得更要好。
+SeasonalTalkEvent_001_012ID	40	Sophie	ソフィー	ふふ、分かった	Sophie	Hehe, okay!	苏菲	呵呵，好的。	蘇菲	呵呵，我知道了。
+SeasonalTalkEvent_001_012ID	41	Sophie	ソフィー	あたしも正直に言えばよかった。\n今よりもっと、プラフタと仲良くなりたいんだって	Sophie	I should have been more honest with you too. I've always wished we could be closer!	苏菲	我也应该早点说清楚自己的心情。\n我也想和普拉芙妲增进感情，要比现在更加亲密。	蘇菲	我也應該坦白說出來才對。\n直接告訴妳，我想要跟妳變得比現在更要好。
+SeasonalTalkEvent_001_012ID	42	Sophie	ソフィー	そうと決まれば！\nあとはハロウィンぷにを倒すだけ！	Sophie	So with that decided, let's go beat that Halloween Puni!	苏菲	所以！\n接下来我们要做的就是打倒万圣节噗尼！	蘇菲	既然這麼決定了！\n接下來只要打倒萬聖節噗尼就好！
+SeasonalTalkEvent_001_012ID	43	Sophie	ソフィー	このお菓子なら、きっと誘い出せるはずだよね！	Sophie	I'm sure this treat will be able to lure it out!	苏菲	相信用这个点心一定能把它引出来！	蘇菲	用這個點心，一定能把牠引誘出來吧！
+SeasonalTalkEvent_001_012ID	44	Plachta	プラフタ	ええ！	Plachta	Yeah!	普拉芙妲	嗯！	普拉芙妲	好！
+SeasonalTalkEvent_001_013ID	0	Sophie	ソフィー	よし！　お菓子の準備もできたし、\nこれでやっとあのぷにを誘い出せるね	Sophie	Okay! The treats are ready. Now we can lure the Puni out.	苏菲	好！现在点心也制作完毕了，\n终于可以动手给那只噗尼布局啦。	蘇菲	好！點心也準備就緒，\n這下終於可以把那隻噗尼引誘出來了。
+SeasonalTalkEvent_001_013ID	1	Plachta	プラフタ	待ってください、ソフィー。\n一休みしてからにしましょう	Plachta	Hold on a second, Sophie. Let's take a break first.	普拉芙妲	等等，苏菲。\n在行动之前先休息一下吧。	普拉芙妲	請等一下，蘇菲。\n先休息一下再出發吧。
+SeasonalTalkEvent_001_013ID	2	Plachta	プラフタ	お菓子作りで集中してきっと疲れているでしょうし	Plachta	I'm sure you're tired after all that baking.	普拉芙妲	你做点心的时候那么全神贯注，一定消耗了不少体力。	普拉芙妲	一直埋頭做點心，妳現在一定很累。
+SeasonalTalkEvent_001_013ID	3	Sophie	ソフィー	あはは、さすがプラフタ。\n実はちょっと腕が痛いかも	Sophie	Haha, you know me too well, Plachta. My arms actually are a little sore...	苏菲	哈哈哈，被你说中了。\n我的胳膊确实有点酸。	蘇菲	啊哈哈，不愧是普拉芙妲。\n其實我的手臂好像有一點痛。
+SeasonalTalkEvent_001_013ID	4	Plachta	プラフタ	私が言うのもなんですが、もっと肩の力を抜いて\n楽しんで作ったほうが美味しくなると思いますよ	Plachta	You know, I think if you tried to relax and enjoy baking a bit more, you'd make even tastier treats.	普拉芙妲	可能我也没有立场这样说教，不过我认为\n以轻松愉悦的状态制作出的点心会更好吃哦。	普拉芙妲	雖然這些話不該由我來說，但盡量放鬆肩膀的力量，\n抱著愉快的心情做點心才會更好吃喔。
+SeasonalTalkEvent_001_013ID	5	Sophie	ソフィー	楽しんで作る……うん、そうだね！　おばあちゃんとの\nお菓子作りは、いつだって楽しかった	Sophie	You're right. I need to try enjoy myself just like Grandma. She was always so happy while baking!	苏菲	轻松愉悦啊……嗯，你说得对！\n以前我和奶奶一起做点心的时候，总是开开心心的。	蘇菲	抱著愉快的心情做點心……說得也是！\n每次跟奶奶一起做點心的時候都很開心呢。
+SeasonalTalkEvent_001_013ID	6	Sophie	ソフィー	大好きなおばあちゃんの笑顔と、甘いお菓子の匂い。\nあたしにとっては、夢みたいな時間だったんだ	Sophie	Her lovely smile and the sweet scent of her treats... It always felt like I was living in a dream.	苏菲	看着奶奶亲切的笑容，闻着点心的香气，\n就好像置身于美梦中一样。	蘇菲	最喜歡的奶奶的笑容，還有點心的甜甜香味。\n對我來說，那段時光就像是在作夢一樣。
+SeasonalTalkEvent_001_013ID	7	Sophie	ソフィー	……プラフタ、あたし気付いたことがあるの。\nおばあちゃんのお菓子があんなに美味しかったのは	Sophie	You know, Plachta, I think I just realized something. I think I know why Grandma's treats were so delicious.	苏菲	普拉芙妲，我好像明白了一件事。\n奶奶做的点心之所以那么好吃……	蘇菲	……普拉芙妲，我領悟到了一件事。\n奶奶做的點心之所以那麼好吃……
+SeasonalTalkEvent_001_013ID	8	Sophie	ソフィー	おばあちゃんと一緒に楽しみながら\n食べたからじゃないかなって……	Sophie	It was because we were enjoying them together with her.	苏菲	是不是因为我们当时\n是和奶奶一起幸福地分享了点心呢……	蘇菲	可能是因為，\n那是跟奶奶一起開心享用的點……
+SeasonalTalkEvent_001_013ID	9	Plachta	プラフタ	……確かに先代とお菓子を食べていた時は\nいつも楽しかったことを覚えています	Plachta	I also remember feeling nothing but joy when eating treats with your grandmother.	普拉芙妲	……是啊，我记得和上代主人一起享用点心时，\n气氛总是那样幸福快乐。	普拉芙妲	……我記得和上一代主人一起吃點心的時候，\n確實總是很開心。
+SeasonalTalkEvent_001_013ID	10	Sophie	ソフィー	あたしたち、お菓子を作ることに必死で、\n自分たちがお菓子を楽しむ時間を忘れてたのかも	Sophie	We've been so focused on making the treats, I think we forgot to enjoy them ourselves.	苏菲	而我们好像只顾埋头钻研制作的方法，\n却没有留给自己享用点心的闲暇。	蘇菲	我們可能太拚命在做點心這件事情上，\n都忘記了自己要享受做點心的時光。
+SeasonalTalkEvent_001_013ID	11	Plachta	プラフタ	……そうかもしれません	Plachta	I think you're right...	普拉芙妲	……好像确实如此。	普拉芙妲	……或許是這樣沒錯。
+SeasonalTalkEvent_001_013ID	12	Sophie	ソフィー	全部終わったら、みんなでお菓子を食べよっか	Sophie	Once all this is over, let's enjoy some treats with the others!	苏菲	等事情圆满解决，我们叫上大家一起分享点心吧。	蘇菲	等一切都結束後，再和大家一起吃點心吧。
+SeasonalTalkEvent_001_013ID	13	Plachta	プラフタ	ええ。きっとみんな笑顔になって……\nもっと仲良くなれると思います	Plachta	That sounds good. I'm sure it'll bring smiles to everyone's faces and bring us all closer together.	普拉芙妲	好的。相信和大家共度快乐的时光……\n一定可以拉近与大家的关系。	普拉芙妲	好的，大家一定都會露出笑容……\n彼此的感情會變得更好。
+SeasonalTalkEvent_001_013ID	14	Escha	エスカ	ソフィーさーん！　プラフタさーん！\nこんにちはー！	Escha	Sophie! Plachta! Are you there?	爱丝卡	苏菲小姐！普拉芙妲小姐！\n你们好！	愛絲卡	蘇菲小姐～！普拉芙妲小姐～！\n妳們好呀～！
+SeasonalTalkEvent_001_013ID	15	Sophie	ソフィー	あ、エスカさん？　いらっしゃーい！	Sophie	Oh, Escha? Come on in!	苏菲	啊，爱丝卡小姐？欢迎光临！	蘇菲	啊，愛絲卡小姐？歡迎光臨～！
+SeasonalTalkEvent_001_013ID	16	Escha	エスカ	うわあ！　すっごく美味しそうな匂いですね！	Escha	Wow! Something smells amazing in here!	爱丝卡	哇——！好香甜的气味啊！	愛絲卡	嗚哇！這香味聞起來感覺很好吃耶！
+SeasonalTalkEvent_001_013ID	17	Ryza	ライザ	これだけいい匂いなら、お菓子作りは成功かな！	Ryza	I guess your baking must have been a success!	莱莎	闻起来这么香，\n看来你们成功做出理想的点心了吧！	萊莎	既然香味這麼棒，點心應該做得很成功吧！
+SeasonalTalkEvent_001_013ID	18	Sophie	ソフィー	うん！　見てよ！\nこれならハロウィンぷにを誘い出せるよね	Sophie	Yes! Take a look! I'm sure we'll be able to lure out the Halloween Puni with these.	苏菲	嗯！快看！\n用这个点心一定能引出万圣节噗尼。	蘇菲	嗯！快看！\n只要用這個，就能把萬聖節噗尼引誘出來吧。
+SeasonalTalkEvent_001_013ID	19	Corneria	コルネリア	はい。きっとこれなら、成功間違いなしです	Corneria	Agreed. I'm sure this will do the trick.	柯尔涅莉雅	嗯，我认为用这个保准能成功。	柯爾涅莉雅	是的，用這個絕對萬無一失。
+SeasonalTalkEvent_001_013ID	20	Plachta	プラフタ	あとはどうやって上手く誘い出すかですが……	Plachta	The only question now is how to lure it out...	普拉芙妲	接下来要考虑的是引诱的方式……	普拉芙妲	再來就是要想想該怎麼順利把牠引誘出來了……
+SeasonalTalkEvent_001_013ID	21	Ryza	ライザ	そうだった。あたしたちそのことを調べてきたんだ	Ryza	Oh, we did some research on that.	莱莎	对了，关于这个我们也做了调查。	萊莎	對了，我們查過了這方面的事情。
+SeasonalTalkEvent_001_013ID	22	Sophie	ソフィー	何か分かったの！？	Sophie	Did you figure anything out?!	苏菲	你们查到什么了吗？！	蘇菲	有查到什麼方法嗎！？
+SeasonalTalkEvent_001_013ID	23	Escha	エスカ	実は昔、村の人たちがよく、森にある祠に\nお菓子を供えてたそうですよ	Escha	Long ago, villagers would apparently offer treats at a shrine in the forest.	爱丝卡	据说过去村民们经常在森林里的小庙供奉点心。	愛絲卡	其實，據說以前的村民們，\n會在森林裡的神祠供奉點心喔。
+SeasonalTalkEvent_001_013ID	24	Corneria	コルネリア	どうやらハロウィンぷには、お供えのお菓子を食べに\nよく姿を現していたらしいです	Corneria	It seems the Halloween Puni often came out to eat those offerings.	柯尔涅莉雅	然后万圣节噗尼就会频繁现身偷吃供品。	柯爾涅莉雅	看來萬聖節噗尼好像很常現身，\n把供奉的點心吃掉。
+SeasonalTalkEvent_001_013ID	25	Sophie	ソフィー	ってことは……\n誘い出すなら、その祠がいいってことだね！	Sophie	In other words, we could use that shrine to lure it out?	苏菲	这么说……\n那个小庙就是最好的布局地点！	蘇菲	意思就是說……\n要引誘牠出現的話，那座神祠是最好的選擇吧！
+SeasonalTalkEvent_001_013ID	26	Plachta	プラフタ	やりましょう、ソフィー	Plachta	Sounds perfect, Sophie!	普拉芙妲	就这么办，苏菲。	普拉芙妲	我們走吧，蘇菲。
+SeasonalTalkEvent_001_014ID	0	Sophie	ソフィー	これでよし、っと！	Sophie	That should do it!	苏菲	好，布置好了！	蘇菲	這樣就行了！
+SeasonalTalkEvent_001_014ID	1	Plachta	プラフタ	無事に誘い出せるといいのですが……	Plachta	I hope this works...	普拉芙妲	希望它能顺我们心意乖乖上钩……	普拉芙妲	但願可以順利引誘牠出現……
+SeasonalTalkEvent_001_014ID	2	Ryza	ライザ	ほら、二人とも隠れようよ。\n見張ってたら、ハロウィンぷにも出てこないって	Ryza	Come on, let's hide. If we're visible, the Halloween Puni won't come out.	莱莎	你们两个快藏好。\n听说有人监视的话，万圣节噗尼就不会现身。	萊莎	好了，妳們兩個都躲起來吧。\n在這裡監視的話，萬聖節噗尼也不會出現的。
+SeasonalTalkEvent_001_014ID	3	Plachta	プラフタ	そ、それもそうですね	Plachta	Oh, good point.	普拉芙妲	我、我也明白……	普拉芙妲	說、說得也是。
+SeasonalTalkEvent_001_014ID	4		ハロウィンぷに	なんだ、この甘い匂いは！？\nこんなにうまそうな菓子は見たことないぞ！	Halloween Puni	Ooh! What is this deliciously sweet smell?! I've never seen such delicious-looking treats!	万圣节噗尼	好香甜啊，这是什么气味？！\n本大爷从来没碰到过这么好吃的点心！	萬聖節噗尼	這個甜甜的香氣是怎麼回事！？\n我可從來沒見過這麼誘人的點心啊！
+SeasonalTalkEvent_001_014ID	5	Sophie	ソフィー	来た！	Sophie	There it is!	苏菲	它来了！	蘇菲	來了！
+SeasonalTalkEvent_001_014ID	6	Plachta	プラフタ	来ましたね！	Plachta	As expected!	普拉芙妲	真的出现了！	普拉芙妲	出現了呢！
+SeasonalTalkEvent_001_014ID	7	Sophie	ソフィー	待ってたよ！	Sophie	We've been waiting for you!	苏菲	让人好等！	蘇菲	我們等你很久了！
+SeasonalTalkEvent_001_014ID	8		ハロウィンぷに	な、なんだと！？	Halloween Puni	Wh-What the—?!	万圣节噗尼	什、什么情况？！	萬聖節噗尼	什、什麼！？
+SeasonalTalkEvent_001_014ID	9	Plachta	プラフタ	私たちと尋常に勝負しなさい！	Plachta	Time to face us in a fair fight!	普拉芙妲	和我们一决胜负吧！	普拉芙妲	我們來堂堂正正地一決勝負吧！
+SeasonalTalkEvent_001_014ID	10		ハロウィンぷに	このオレさまに勝てると思ってるのか！？\n全員、イタズラしてやるーーっ！	Halloween Puni	You think you can defeat ME?! I'll just play tricks on all of you!	万圣节噗尼	难不成你们以为赢得了本大爷？！\n所有人准备好接受恶作剧的惩罚吧——！	萬聖節噗尼	妳們覺得有辦法贏過本大爺嗎！？\n看我對妳們所有人惡作劇──！
+SeasonalTalkEvent_001_014ID	11	Sophie	ソフィー	やるよ、みんな！	Sophie	Come on, let's do this!	苏菲	大家一起上！	蘇菲	各位，準備上吧！
+SeasonalTalkEvent_001_015ID	0		ハロウィンぷに	くぅ、参った……オレさまの負けだあ……	Halloween Puni	Argh, I give up... You win...	万圣节噗尼	唔……本大爷居然会输……	萬聖節噗尼	唔～輸了……本大爺落敗了……
+SeasonalTalkEvent_001_015ID	1	Sophie	ソフィー	やったあ！　あたしたちが勝った！	Sophie	We did it! We won!	苏菲	太好了！我们胜利了！	蘇菲	太好了！我們贏了！
+SeasonalTalkEvent_001_015ID	2	Plachta	プラフタ	あっ！	Plachta	Ah!	普拉芙妲	啊！	普拉芙妲	啊！
+SeasonalTalkEvent_001_015ID	3	Plachta	プラフタ	…………	Plachta	...	普拉芙妲	……	普拉芙妲	…………
+SeasonalTalkEvent_001_015ID	4	Plachta	プラフタ	肌に貼りつくような感覚が無くなりました	Plachta	The feeling of the outfit sticking to my skin seems to have gone.	普拉芙妲	紧贴着皮肤的感触消失了！	普拉芙妲	那種衣服緊貼著皮膚的感覺消失了。
+SeasonalTalkEvent_001_015ID	5	Ryza	ライザ	プラフタにかけられた呪いが解けたんだね！	Ryza	I guess that means the curse has been broken!	莱莎	普拉芙妲身上的诅咒解除了！	萊莎	看來普拉芙妲身上的詛咒解開了呢！
+SeasonalTalkEvent_001_015ID	6	Sophie	ソフィー	よかったぁ……。\nこれでもう、勝手にイタズラしなくて済むね	Sophie	Thank goodness! Now you won't have to suddenly tickle people anymore!	苏菲	太好了……\n这下你就不会被迫发动恶作剧了。	蘇菲	太好了……\n這樣就不會再不受控制地對人惡作劇了。
+SeasonalTalkEvent_001_015ID	7	Plachta	プラフタ	ふふ。私もホッとしました	Plachta	Haha. I'm more relieved than anyone about that.	普拉芙妲	呵呵，我也终于能放下心了。	普拉芙妲	呵呵，我也鬆了口氣。
+SeasonalTalkEvent_001_015ID	8	Sophie	ソフィー	それじゃあ早速、着替えてくる？	Sophie	Do you want to go get changed?	苏菲	那就快去把这身衣服换掉吧？	蘇菲	那麼，妳趕緊去換衣服吧？
+SeasonalTalkEvent_001_015ID	9	Plachta	プラフタ	……いえ、このままで大丈夫です。\n改めて見てみると、服自体は存外悪くありませんので	Plachta	...No, I'll stay in this outfit for now. Now that I've had a good look, I actually quite like it!	普拉芙妲	……不，我想就这样穿着。\n事情解决后再看这身衣服其实还挺漂亮的。	普拉芙妲	……不，就這樣穿著沒關係。\n仔細一看，衣服本身意外地還不錯。
+SeasonalTalkEvent_001_015ID	10	Plachta	プラフタ	それでは話していたように、\n皆でお菓子を食べましょうか	Plachta	I think we should all enjoy some of these treats together, just like we said!	普拉芙妲	那大家就按计划的那样，\n来一起享用点心吧。	普拉芙妲	接下來，就像之前說過的一樣，\n和大家一起吃點心吧。
+SeasonalTalkEvent_001_015ID	11	Escha	エスカ	わぁ！　待ってました！	Escha	Yay! I was hoping you would say that!	爱丝卡	哇！终于要开吃啦！	愛絲卡	哇～！我等好久了！
+SeasonalTalkEvent_001_015ID	12	Escha	エスカ	んんっ。美味しい～！	Escha	Mmm! Delicious!	爱丝卡	嗯嗯，好好吃～！	愛絲卡	嗯嗯！真好吃～！
+SeasonalTalkEvent_001_015ID	13	Corneria	コルネリア	これはハロウィンぷにが誘い出されるのも納得の\n美味しさです	Corneria	I can see why the Halloween Puni was so easily lured out by these!	柯尔涅莉雅	这么好吃也难怪万圣节噗尼会被引出来了。	柯爾涅莉雅	這麼好吃，\n難怪可以把萬聖節噗尼引誘出來。
+SeasonalTalkEvent_001_015ID	14	Sophie	ソフィー	それに、みんなで食べると、\nお菓子ってもっと美味しいんだって思ったんだ	Sophie	And you know, sharing treats with friends makes them taste even better.	苏菲	而且我明白了，\n点心和大家一起分享就会变得更美味。	蘇菲	而且我之前就在想，點心這種東西，\n和大家一起分享會更好吃。
+SeasonalTalkEvent_001_015ID	15	Plachta	プラフタ	それが先代のお菓子を\nとても美味しくしていた極意だったのですね	Plachta	I guess that was the secret to your grandmother's treats as well.	普拉芙妲	这才是上代主人做的点心格外好吃的真谛。	普拉芙妲	這就是讓上一代主人的點心\n嘗起來美味無比的祕訣吧。
+SeasonalTalkEvent_001_015ID	16	Escha	エスカ	はいっ！　わたしもそう思います！	Escha	Yep! I agree!	爱丝卡	没错！我也这么想！	愛絲卡	是的！我也這麼認為！
+SeasonalTalkEvent_001_015ID	17	Ryza	ライザ	そうだなあ。あたしもこれからはもっと\n友達と一緒に食べようかな	Ryza	Yeah. I should definitely try to make more time to eat with friends.	莱莎	这样啊，那以后我也要多多和朋友分享食物。	萊莎	說得沒錯呢，\n我今後也要多多跟朋友一起吃點心。
+SeasonalTalkEvent_001_015ID	18	Corneria	コルネリア	もっと美味しく感じられるのですから\nそうしない手はないです	Corneria	It's certainly worth it if it makes everything taste better.	柯尔涅莉雅	既然发现了让食物更好吃的诀窍，\n没有理由不照做啊。	柯爾涅莉雅	畢竟嘗起來會更加美味，\n沒有道理不這麼做。
+SeasonalTalkEvent_001_015ID	19	Escha	エスカ	うーん。美味しくて楽しくて……幸せー！	Escha	Mmm-mmm-mmm! So tasty AND so fun! This is the best!	爱丝卡	嗯——和朋友开心地分享美食……我现在好幸福！	愛絲卡	嗯～不僅好吃又很開心……太幸福了～！
+SeasonalTalkEvent_001_015ID	20	Sophie	ソフィー	ふふ。よかったね、プラフタ	Sophie	Hehe. Looks like things turned out for the best, Plachta.	苏菲	呵呵。真是太好了，普拉芙妲。	蘇菲	呵呵，真是太好了呢，普拉芙妲。
+SeasonalTalkEvent_001_015ID	21	Plachta	プラフタ	ええ。皆さんの笑顔に囲まれることができました。\nお菓子を作った甲斐がありましたね	Plachta	Yes. Being surrounded by everyone's smiles makes all the effort we put in worth it.	普拉芙妲	是啊，大家满足的笑容，\n就是对制作者最好的回报。	普拉芙妲	是的，能夠被大家的笑容所圍繞，\n做點心的心血都沒有白費呢。
+SeasonalTalkEvent_001_016ID	0	Plachta	プラフタ	今日はお疲れさまでした。それから……	Plachta	Great work out there today, Sophie. And...	普拉芙妲	今天大家都辛苦了。我还有句话想说……	普拉芙妲	今天辛苦了。然後……
+SeasonalTalkEvent_001_016ID	1	Plachta	プラフタ	呪いを解くために頑張ってくれて、\nありがとうございます	Plachta	Thank you. For helping me break the curse.	普拉芙妲	谢谢各位不吝出力帮我解除诅咒。	普拉芙妲	非常感謝妳這麼費心幫我解開詛咒。
+SeasonalTalkEvent_001_016ID	2	Sophie	ソフィー	イタズラをしちゃう呪いにはびっくりしたけど、\nプラフタらしくないもんね	Sophie	The tickle curse was certainly a surprise, especially when it was coming from you!	苏菲	世上居然有强迫人搞恶作剧的诅咒，真让我吃了一惊。\n不过这个诅咒放在普拉芙妲身上太别扭啦。	蘇菲	雖然忍不住對人惡作劇的詛咒讓我嚇了一跳，\n畢竟這不像是普拉芙妲會做的事嘛。
+SeasonalTalkEvent_001_016ID	3	Plachta	プラフタ	ふふ。私は元々、愛想が無いほうですからね	Plachta	Haha. I guess I'm not really known to be that friendly.	普拉芙妲	呵呵，因为我原本的性格是比较冷淡的吧。	普拉芙妲	呵呵，誰叫我的個性本來就比較冷淡啊。
+SeasonalTalkEvent_001_016ID	4	Sophie	ソフィー	そういう意味じゃないって！	Sophie	That's not what I meant!	苏菲	我不是这个意思！	蘇菲	我不是那個意思啦！
+SeasonalTalkEvent_001_016ID	5	Sophie	ソフィー	あたしね。プラフタがあたしと仲良くなりたいと\n思ってくれてたのが、すっごく嬉しかったんだ	Sophie	You know, Plachta, I was really happy when you said you wanted to be closer to me.	苏菲	普拉芙妲，听到你说想和我更加亲密，\n我真的开心极了。	蘇菲	當我知道妳一直想要跟我變得更要好的時候，\n真的非常開心。
+SeasonalTalkEvent_001_016ID	6	Plachta	プラフタ	すみません。私が不器用なせいで……	Plachta	I'm sorry, I was always fumbling around it before...	普拉芙妲	对不起，都怪我不善于表达……	普拉芙妲	對不起，都怪我太笨拙了……
+SeasonalTalkEvent_001_016ID	7	Plachta	プラフタ	今まで築いてきた関係まで壊してしまうのではないかと\n一歩踏み出すことを恐れていたのです	Plachta	I was so afraid that trying to take a step forward might ruin our relationship.	普拉芙妲	我担心破坏现有的关系，\n所以一直害怕做出改变。	普拉芙妲	我擔心會破壞至今建立起來的關係，\n所以遲遲不敢踏出一步。
+SeasonalTalkEvent_001_016ID	8	Sophie	ソフィー	それは……あたしも同じだったんだと思う	Sophie	I think...that was the same for both of us.	苏菲	这个……其实我也一样啊。	蘇菲	這一點……我也是一樣的。
+SeasonalTalkEvent_001_016ID	9	Sophie	ソフィー	でもね。聞いて、プラフタ	Sophie	But you know, Plachta...	苏菲	但是，普拉芙妲，你听我说。	蘇菲	可是，妳聽我說喔，普拉芙妲。
+SeasonalTalkEvent_001_016ID	10	Sophie	ソフィー	プラフタがいてくれたから\nおばあちゃんが亡くなった後も寂しくなかったんだ	Sophie	Having you by my side after Grandma passed away is what kept me from feeling lonely.	苏菲	都是因为有你在，\n奶奶去世后我才没有陷入孤独之中。	蘇菲	幸好有妳在，\n我才不會在奶奶過世之後感到寂寞。
+SeasonalTalkEvent_001_016ID	11	Sophie	ソフィー	プラフタ。一緒にいてくれてありがとう	Sophie	Thank you, Plachta. For always staying by my side.	苏菲	普拉芙妲，谢谢你的陪伴。	蘇菲	普拉芙妲，謝謝妳陪在我身邊。
+SeasonalTalkEvent_001_016ID	12	Plachta	プラフタ	ソフィー……	Plachta	Sophie...	普拉芙妲	苏菲……	普拉芙妲	蘇菲……
+SeasonalTalkEvent_001_016ID	13	Plachta	プラフタ	……そうですね。ソフィーは寂しがり屋ですから、\n誰かがそばにいなくては	Plachta	...You really do get lonely far too easily! Someone has to be here for you!	普拉芙妲	说得也是，苏菲是个只要没人陪就会哭的孩子，\n必须得有个人陪她才行啊。	普拉芙妲	……說得也是。蘇菲妳很怕寂寞，\n必須有人陪在妳身邊才行。
+SeasonalTalkEvent_001_016ID	14	Sophie	ソフィー	えええっ！　寂しがり屋じゃないもん！	Sophie	Hey! I don't get lonely THAT easily!	苏菲	你说什么！我才没哭呢！	蘇菲	咦咦咦！我才不是怕寂寞呢！
+SeasonalTalkEvent_001_016ID	15	Plachta	プラフタ	ふふ……あはは……！	Plachta	Pfft... Hahaha!	普拉芙妲	呵呵……哈哈哈……！	普拉芙妲	呵呵……哈哈哈……！
+SeasonalTalkEvent_001_016ID	16	Sophie	ソフィー	あははははっ！	Sophie	Ahahaha!	苏菲	哈哈哈哈哈！	蘇菲	哈哈哈哈哈！
+SeasonalTalkEvent_001_016ID	17	Plachta	プラフタ	思えば……イタズラの呪いのおかげで\nこうして一緒に笑えるようになったのですね	Plachta	In a way, it's all thanks to the tickle curse that we can laugh together like this.	普拉芙妲	现在想想……好久没有这样一起欢笑了，\n倒是要感谢那个恶作剧诅咒呢。	普拉芙妲	仔細一想……多虧惡作劇的詛咒，\n我才有辦法像這樣和妳一起歡笑。
+SeasonalTalkEvent_001_016ID	18	Plachta	プラフタ	だとすると。\nイタズラも悪いものではないかもしれません	Plachta	I guess that means that a little prank here and there isn't always a bad thing.	普拉芙妲	这么说来，\n恶作剧或许也不总是坏事吧。	普拉芙妲	這樣的話，\n或許惡作劇也並不是壞事了。
+SeasonalTalkEvent_001_016ID	19	Sophie	ソフィー	イタズラのおかげかぁ……	Sophie	All thanks to the curse, huh...	苏菲	要感谢恶作剧啊……	蘇菲	要多虧惡作劇啊……
+SeasonalTalkEvent_001_016ID	20	Sophie	ソフィー	ねえ、プラフタ。\nこれからも一緒にお菓子作りを続けていこうね	Sophie	Hey, Plachta. I hope we can continue baking together like this forever.	苏菲	普拉芙妲，\n今后我们也要继续一起制作点心哦。	蘇菲	我說，普拉芙妲。\n我們今後也繼續一起做點心喔。
+SeasonalTalkEvent_001_016ID	21	Plachta	プラフタ	そうですね。\n先代のように美味しいお菓子を作り続けましょう	Plachta	Me too. Let's make your grandmother proud with lots of delicious treats.	普拉芙妲	当然。\n我们要像上代主人一样，永远致力于制作好吃的点心。	普拉芙妲	說得對，\n像上一代主人一樣繼續做美味的點心吧。
+SeasonalTalkEvent_001_017ID	0			あれからしばらくして		Some time later...		后来。		在那之後，幾天過去──
+SeasonalTalkEvent_001_017ID	1	Sophie	ソフィー	いらっしゃいませ！	Sophie	Welcome!	苏菲	欢迎光临！	蘇菲	歡迎光臨！
+SeasonalTalkEvent_001_017ID	2	Plachta	プラフタ	順番にお席にご案内しますね	Plachta	Please wait there, I'll seat you in a second.	普拉芙妲	请随我依次就坐。	普拉芙妲	依序為您帶位喔。
+SeasonalTalkEvent_001_017ID	3		男の子	おねーちゃん！　イタズラして！	Boy	Platcha! Play a trick on me!	男孩	大姐姐！我想看你的恶作剧！	男孩	大姐姐！快來惡作劇！
+SeasonalTalkEvent_001_017ID	4	Plachta	プラフタ	ふふ。坊や、覚悟はいいですか？	Plachta	Hehe. I hope you're ready this time.	普拉芙妲	呵呵，小朋友，你真的做好准备了吗？	普拉芙妲	呵呵，小弟弟，做好心理準備了嗎？
+SeasonalTalkEvent_001_017ID	5		女性Ａ	プラフタちゃん！\nこの子と私、二人分でお願いね！	Woman A	Plachta! Two tricks for us, please!	女性A	普拉芙妲！\n我们两个人各要一份！	女性A	普拉芙妲！\n這孩子和我都要，麻煩來兩人份喔！
+SeasonalTalkEvent_001_017ID	6	Plachta	プラフタ	おやおや。奇特な方のようですね	Plachta	Oh my, you all seem like quite the remarkable lot.	普拉芙妲	是吗，二位顾客的喜好很特别呢。	普拉芙妲	哎呀，似乎來了奇特的客人呢。
+SeasonalTalkEvent_001_017ID	7	Plachta	プラフタ	お待たせしました。お菓子のイタズラですよ。\n坊や、この中からどれを選びますか？	Plachta	Here you go. A trick with your treats. Come now, pick one.	普拉芙妲	久等了，这是你们要的恶作剧点心。\n小朋友，你要选哪一个？	普拉芙妲	久等了，這是惡作劇點心喔。\n小弟弟，這裡面你要選哪一個呢？
+SeasonalTalkEvent_001_017ID	8		男の子	わぁ！　どれにしようかな～。\nぱくっ……ぐっ！	Boy	Wow! Which one should I choose? I'll go with...this one! *Munch*... Urk!	男孩	哇！要哪个好呢～\n一口吞……呀！	男孩	哇～！要選哪個好呢～\n（吃掉）……唔！
+SeasonalTalkEvent_001_017ID	9	Plachta	プラフタ	ふふふ。よりにもよって、それに引っ掛かりましたか	Plachta	Haha. Looks like you picked the special one!	普拉芙妲	呵呵呵，居然选到了那个啊，真是不巧。	普拉芙妲	呵呵呵，偏偏選到那個上當了啊。
+SeasonalTalkEvent_001_017ID	10		男の子	か、からーい！！	Boy	S-So spicy!	男孩	好、好辣啊！！	男孩	好、好辣啊～！！
+SeasonalTalkEvent_001_017ID	11	Sophie	ソフィー	あはは。見事に「当たり」を引いちゃったね！\n坊や、他のは甘いお菓子だよ	Sophie	Ahaha. Looks like you hit the jackpot! The others are all much sweeter!	苏菲	哈哈哈，真厉害，一下就抽中“大奖”了呢！\n小朋友，另外几样都是甜点哦。	蘇菲	哈哈哈，漂亮地「中獎」了呢！\n小弟弟，另外幾個才是甜甜的點心喔。
+SeasonalTalkEvent_001_017ID	12		男の子	うう……ぱくっ。\nこっちは甘くて美味しい～！	Boy	Ugh... *Munch* Oh! This one is so sweet and delicious!	男孩	呜呜……一口吞。\n这个是甜的，真好吃～！	男孩	唔唔……（吃掉）\n這個甜甜的，好好吃～！
+SeasonalTalkEvent_001_017ID	13		女性Ａ	もぐもぐ……あら、普通に美味しいお菓子だったわ。\n実は「当たり」の激辛味も癖になるのよね～	Woman A	*Munch* *Munch* Oh, these ones really are simply delectable. The spicy one is actually quite nice once you get used to it, too!	女性A	嚼嚼……哎呀，是正常的点心，好吃是好吃，\n不过“大奖”超辣点心那别样的味道也很让人着迷～	女性A	（嚼嚼）……哎呀，這是一般的美味點心呀。\n其實「中獎」的超辣口味也很令人上癮呢～
+SeasonalTalkEvent_001_017ID	14		女性Ａ	もぐっ……んんっ！　やっぱりからーい！	Woman A	*Munch* Ahh! It's so spicy though!	女性A	嚼嚼……嗯嗯！不行了，太辣啦！	女性A	（嚼嚼）……唔唔！果然很辣啊～！
+SeasonalTalkEvent_001_017ID	15		女性Ｂ	あはは、顔真っ赤！\nぱくっ……ん、んんんっ！！	Woman B	Haha! Your face is red as a tomato! *Munch* Mmmm!	女性B	哈哈哈，你脸好红！\n一口吞……嗯、嗯嗯嗯！！	女性B	哈哈哈，整張臉紅通通的！\n（吃掉）……唔、唔唔唔！！
+SeasonalTalkEvent_001_017ID	16	Plachta	プラフタ	皆さん、お茶をどうぞ	Plachta	Here's some tea for everyone.	普拉芙妲	各位顾客请用茶。	普拉芙妲	各位，請用茶。
+SeasonalTalkEvent_001_017ID	17		男性Ａ	ソフィー！　プラフタ！\nこっちにも１つ頼むよ！	Man A	Sophie! Plachta! I'll have one too!	男性A	苏菲！普拉芙妲！\n我还要一份！	男性A	蘇菲！普拉芙妲！\n這裡也要一份喔！
+SeasonalTalkEvent_001_017ID	18	Sophie	ソフィー	はーい！	Sophie	Coming right up!	苏菲	好的——！	蘇菲	好～！
+SeasonalTalkEvent_001_017ID	19	Sophie	ソフィー	あ、プラフタ！　イタズラ用のお菓子がそろそろ\n残り少なくなってる！	Sophie	Uh-oh, Plachta! We're running low on tricks!	苏菲	啊，普拉芙妲！恶作剧点心快要卖完了！	蘇菲	啊，普拉芙妲！\n惡作劇用的點心快要賣完了！
+SeasonalTalkEvent_001_017ID	20	Plachta	プラフタ	それはいけません。\n急いで追加で作りましょう！	Plachta	That's no good. We'd better bake some more then!	普拉芙妲	那就糟了。\n我们加紧做新的补货吧。	普拉芙妲	這可不行。\n趕緊再多做一些吧！
+SeasonalTalkEvent_001_017ID	21		女性Ａ	ごちそうさま！	Woman A	Thanks for the treats!	女性A	味道好极了，谢谢你们！	女性A	謝謝款待！
+SeasonalTalkEvent_001_017ID	22		男の子	イタズラ、楽しかったー！	Boy	And the tricks!	男孩	恶作剧也好有意思！	男孩	惡作劇真好玩～！
+SeasonalTalkEvent_001_017ID	23		ソフィー&プラフタ	また来てくださいね！	Sophie & Plachta	Please come again!	苏菲&普拉芙妲	欢迎下次再来！	蘇菲＆普拉芙妲	歡迎下次再來！
+SeasonalTalkEvent_001_017ID	24			村のはずれに１軒のお菓子屋がありました		Once upon a time, there was a small pastry shop on the outskirts of a village.		有一家开在村郊的点心店。		村郊有一間點心店。
+SeasonalTalkEvent_001_017ID	25			そこではソフィーといういつも笑顔の少女と、\nイタズラ好きの人形のプラフタが働いています		A young girl named Sophie, who always had a smile on her face, and a mischievous doll named Plachta worked in the shop.		爱笑的少女苏菲\n和爱搞恶作剧的人偶普拉芙妲在这里工作。		在那裡工作的，是一位總是笑臉迎人、名叫蘇菲的少女，\n以及喜歡惡作劇的人偶普拉芙妲。
+SeasonalTalkEvent_001_017ID	26			イタズラされているというのに、店から出てきた\n人たちは、誰もが笑顔になっているそうで		Despite the tricks that were played on them, the customers of the shop always left with a smile on their faces...		光顾这家点心店的顾客们尽管遭到了恶作剧，\n却都面带笑容尽兴而归。		據說那些人們明明被惡作劇了，\n但從店裡出來時臉上卻都帶著笑容。
+SeasonalTalkEvent_001_017ID	27			お店はいつもいつまでも、\n訪れる人々が絶えなかったそうです		And they lived happily ever after, with no end to the visitors seeking out their delicious treats and tricks.		店里从早到晚门庭若市，\n这样的日子还将持续下去，直到永远。		無論何時，\n造訪這間店的人潮永遠絡繹不絕。

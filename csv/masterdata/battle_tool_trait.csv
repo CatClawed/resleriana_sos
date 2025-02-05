@@ -1,0 +1,52 @@
+id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-CN	description_zh-TW
+1	剛力の祝福	Mighty Blessing	刚力之祝福	剛力之祝福				
+2	斬の祝福	Slash Blessing	斩击之祝福	斬之祝福				
+3	打の祝福	Strike Blessing	打击之祝福	打之祝福				
+4	突の祝福	Stab Blessing	突刺之祝福	突之祝福				
+5	魔力の祝福	Magic Blessing	魔力之祝福	魔力之祝福				
+6	火の祝福	Fire Blessing	火之祝福	火之祝福				
+7	氷の祝福	Ice Blessing	冰之祝福	冰之祝福				
+8	風の祝福	Air Blessing	风之祝福	風之祝福				
+9	雷の祝福	Bolt Blessing	雷之祝福	雷之祝福				
+10	守護の祝福	Guardian's Blessing	守护之祝福	守護之祝福	「物防{0}%アップ」と「魔防{1}%アップ」を1回攻撃されるまで付与	Boosts P. DEF by {0}% and M. DEF by {1}% for 1 attack.	赋予“物防提升{0}%”和“魔防提升{1}%”，受到1次攻击后失效	賦予「物防上升{0}%」與「魔防上升{1}%」，直到被攻擊1次為止。
+11	魔防の祝福	M. DEF Blessing	魔防之祝福	魔防之祝福				
+12	物防の祝福	P. DEF Blessing	物防之祝福	物防之祝福				
+13	剛力の呪詛	Mighty Curse	刚力之诅咒	剛力之詛咒				
+14	斬の呪詛	Slash Curse	斩击之诅咒	斬之詛咒				
+15	打の呪詛	Strike Curse	打击之诅咒	打之詛咒				
+16	突の呪詛	Stab Curse	突刺之诅咒	突之詛咒				
+17	魔力の呪詛	Magic Curse	魔力之诅咒	魔力之詛咒				
+18	火の呪詛	Fire Curse	火之诅咒	火之詛咒				
+19	氷の呪詛	Ice Curse	冰之诅咒	冰之詛咒				
+20	風の呪詛	Air Curse	风之诅咒	風之詛咒				
+21	雷の呪詛	Bolt Curse	雷之诅咒	雷之詛咒				
+22	斬の盾	Slash Shield	斩击之盾	斬之盾				
+23	打の盾	Strike Shield	打击之盾	打之盾				
+24	突の盾	Stab Shield	突刺之盾	突之盾				
+25	火の盾	Fire Shield	火之盾	火之盾				
+26	氷の盾	Ice Shield	冰之盾	冰之盾				
+27	風の盾	Air Shield	风之盾	風之盾				
+28	雷の盾	Bolt Shield	雷之盾	雷之盾				
+29	ぷに特攻	Puni Slayer	噗尼特攻	噗尼特攻				
+30	精霊特攻	Spirit Slayer	精灵特攻	精靈特攻				
+31	獣特攻	Beast Slayer	野兽特攻	獸類特攻				
+32	鳥特攻	Bird Slayer	鸟类特攻	鳥類特攻				
+33	水棲特攻	Aquatic Slayer	水生特攻	水棲特攻				
+34	ぷに特防	Resistance vs. Puni	噗尼特防	噗尼特防				
+35	精霊特防	Resistance vs. Spirits	精灵特防	精靈特防				
+36	獣特防	Resistance vs. Beasts	野兽特防	獸類特防				
+37	鳥特防	Resistance vs. Birds	鸟类特防	鳥類特防				
+38	水棲特防	Resistance vs. Aquatics	水生特防	水棲特防				
+39	ぷに弱点サーチ	Puni Weakness Radar	噗尼弱点侦测	尋找噗尼弱點				
+40	精霊弱点サーチ	Spirit Weakness Radar	精灵弱点侦测	尋找精靈弱點				
+41	獣弱点サーチ	Beast Weakness Radar	野兽弱点侦测	尋找獸類弱點				
+42	鳥弱点サーチ	Bird Weakness Radar	鸟类弱点侦测	尋找鳥類弱點				
+43	水棲弱点サーチ	Aquatic Weakness Radar	水生弱点侦测	尋找水棲弱點				
+44	大きな回復量	Ample Healing	强大的恢复量	強大的回復量				
+45	単体回復ボーナス	Single Recovery Bonus	单体恢复奖励	單體回復獎勵				
+46	全体回復ボーナス	All Recovery Bonus	全体恢复奖励	全體回復獎勵				
+47	使い切り回復強化	Enhanced Last Recovery	一次性恢复强化	一次性回復強化				
+48	使い切り攻撃強化	Enhanced Last Attack	一次性攻击强化	一次性攻擊強化				
+49	追い打ち強化	Chaser Charge	追击强化	追擊強化				
+50	会心の出来	Critical Finish	暴击成品	重擊成果				
+51	破壊力上昇	Destructive Power Boost	破坏力提升	破壞力上升				

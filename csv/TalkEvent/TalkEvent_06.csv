@@ -1,0 +1,787 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_06_001ID	0	Lara	ララ	その狂おしいまでの闘志。\nわたくしの心を震わせましてよ	Lara	Ooh, I simply adore that kind of single-minded fighting spirit. It makes my heart quiver!	拉拉	多么疯狂的斗志，\n连我的内心都为之震颤。	拉拉	那幾近發狂的鬥志，\n深深震撼了我的心。
+TalkEvent_06_001ID	1	Lara	ララ	でも、その姿が涙を流しているように見えたのは\n気のせいでしょうか	Lara	But, did I happen to see you shedding some tears, or was that simply my imagination?	拉拉	但你看起来像是在落泪，\n是我的错觉吗？	拉拉	不過，是我的錯覺嗎？\n妳看起來像是在哭泣……
+TalkEvent_06_001ID	2	Izana	イザナ	極夜の……錬金党……！	Izana	You're that...Polar Night Alchemist!	伊札娜	极夜的……炼金党……！	伊札娜	極夜的……鍊金黨……！
+TalkEvent_06_001ID	3	Izana	イザナ	（レスナちゃんたちが危ない）	Izana	(Resna and the others are in trouble.)	伊札娜	（蕾斯娜她们有危险。）	伊札娜	（蕾斯娜她們有危險。）
+TalkEvent_06_001ID	4	Izana	イザナ	（アタシが、なんとかしなくちゃ！）	Izana	(I've got to do something!)	伊札娜	（我必须做点什么！）	伊札娜	（我必須想點辦法！）
+TalkEvent_06_001ID	5	Izana	イザナ	アンタはアタシが止める！	Izana	I'll put an end to you!	伊札娜	我会阻止你的！	伊札娜	我會負責阻止妳！
+TalkEvent_06_001ID	6	Lara	ララ	あら。わたくし、戦う気分ではありませんのよ。\n今夜は、あなたとお話がしたかっただけですわ	Lara	Well, I am in no mood to fight. I simply wanted to have a talk with you tonight.	拉拉	哎呀，我不是来找你打架的。\n我今晚来是有话想对你说。	拉拉	哎呀，我沒有跟妳交手的打算。\n我今晚只是想和妳聊聊而已。
+TalkEvent_06_001ID	7	Izana	イザナ	アタシと話って？	Izana	You wanted to talk?	伊札娜	有话想对我说？	伊札娜	和我聊聊？
+TalkEvent_06_001ID	8	Lara	ララ	あなたの魂の声を聞きつけ、\n統治者として語りかけたのですわ	Lara	Your spirit spoke to me, and I have responded as its ruler.	拉拉	我听到了你灵魂的呼喊，\n所以想以统治者的身份找你谈谈。	拉拉	我聽見了妳的靈魂之聲，\n於是以統治者的身分來找妳攀談。
+TalkEvent_06_001ID	9	Izana	イザナ	魂の声って、なんのことなの？	Izana	What do you mean my spirit spoke to you?	伊札娜	什么灵魂的呼喊……你在说什么？	伊札娜	靈魂之聲是什麼？
+TalkEvent_06_001ID	10	Lara	ララ	ふふ。あなたから立ち上る力は確かなもの。\nあなた、わたくしの王国に加わる資質がありますわ	Lara	Haha. The power rising from you is unmistakable. You would be of great value to my kingdom.	拉拉	呵呵。从你身上传来的力量确实强大。\n你有加入我王国的资质。	拉拉	呵呵，從妳身上湧現的力量貨真價實。\n妳有資質加入我的王國。
+TalkEvent_06_001ID	11	Izana	イザナ	王国にって……アンタ、なに言ってんの？	Izana	Your kingdom? What are you talking about?	伊札娜	王国……你到底在说什么？	伊札娜	加入王國……妳到底在說什麼？
+TalkEvent_06_001ID	12	Lara	ララ	わたくしはララ・キングダムの王として、\n優れた人材を発掘しているのですわ	Lara	As Queen of the Kingdom of Lara, I am seeking out exceptional individuals.	拉拉	作为拉拉王国的国王，\n我正在挖掘优秀的人才。	拉拉	我身為拉拉王國的君主，\n正在發掘優秀的人才。
+TalkEvent_06_001ID	13	Lara	ララ	わたくしたちと来れば、あなたの渇きは満たされる。\nその力を引き上げることもできるでしょう	Lara	Come with us, and your thirst will be quenched. The power you hold will grow ever more.	拉拉	只要加入我们，你的愿望就能得到满足，\n我们也能帮你开发你的力量。	拉拉	只要加入我們，妳的渴望就能獲得滿足，\n能力也會更上一層樓。
+TalkEvent_06_001ID	14	Lara	ララ	より強靭に。しなやかに――炎のように	Lara	You will become stronger, nimbler—like fire.	拉拉	更加强韧、柔软——犹如火焰。	拉拉	變得更加強韌、優美──宛如火焰一般。
+TalkEvent_06_001ID	15	Lara	ララ	そしていつかは、わたくしの騎士として、\nハンマーを存分に振るいなさいな	Lara	And someday, as my knight, you will swing that hammer to your heart's content.	拉拉	这样将来你就可以如臂使指地挥舞锤子，\n担任我的骑士。	拉拉	然後有朝一日妳將成為我的騎士，\n盡情揮舞妳的錘子。
+TalkEvent_06_001ID	16	Izana	イザナ	騎士、として……？	Izana	Me...a knight?	伊札娜	担任……骑士……？	伊札娜	成為騎士……？
+TalkEvent_06_001ID	17	Lara	ララ	ええ。わたくしに仕える、このアンペルのように。\n錬金術の叡智を求めて参じたばかりですのよ	Lara	Yes. Just as Empel here serves me. He has just now joined in search of alchemy wisdom.	拉拉	嗯，像这位侍奉着我的安佩尔一样。\n他是最近为了探寻炼金术的奥秘加入我们的。	拉拉	對，就像服侍我的安佩爾一樣。\n他為了追求鍊金術之睿智，自願前來成為我的部下。
+TalkEvent_06_001ID	18	Empel	アンペル	…………	Empel	...	安佩尔	……	安佩爾	…………
+TalkEvent_06_001ID	19	Lara	ララ	イザナ。わたくしの下へいらっしゃいな	Lara	Izana, serve under my command.	拉拉	伊札娜，加入我的麾下吧。	拉拉	伊札娜，成為我麾下的一員吧。
+TalkEvent_06_001ID	20	Izana	イザナ	アタシは行かない。\n騎士として守る相手は、もう決まってるんだ	Izana	I'd never join you. I've already decided who to protect as knight.	伊札娜	我不会加入的。\n我已经决定了要作为骑士守护谁。	伊札娜	我拒絕。\n我已經決定好要以騎士的身分守護誰了。
+TalkEvent_06_001ID	21	Lara	ララ	そう。それならもう用はありませんわね	Lara	Is that so? In that case, I believe we are finished here.	拉拉	这样啊，那我就没事找你了。	拉拉	是嗎？那我們之間已經無話可說了。
+TalkEvent_06_001ID	22	Izana	イザナ	でも	Izana	But...	伊札娜	但是……	伊札娜	但……
+TalkEvent_06_001ID	23	Izana	イザナ	そのまま帰すわけにはいかないでしょ！	Izana	You think I'll just let you go?!	伊札娜	怎么可能容你说来就来说走就走！	伊札娜	我可不能就這樣放妳走！
+TalkEvent_06_001ID	24	Izana	イザナ	衛兵に引き渡しちゃうよ！	Izana	I'm turning you in to the guards!	伊札娜	我要把你交给卫兵！	伊札娜	我要把妳交給衛兵！
+TalkEvent_06_001ID	25	Lara	ララ	ふふ	Lara	Hehe.	拉拉	呵呵。	拉拉	呵呵。
+TalkEvent_06_001ID	26	Izana	イザナ	っ！！	Izana	Urgh!	伊札娜	！！	伊札娜	唔！！
+TalkEvent_06_001ID	27	Lara	ララ	言ったでしょう――「いつかは」と	Lara	As I said—someday.	拉拉	我说过的吧——那是“将来”的事。	拉拉	我不是說了嗎──「有朝一日」。
+TalkEvent_06_001ID	28	Izana	イザナ	く……ぁっ……	Izana	Urgh...	伊札娜	呜……啊……	伊札娜	唔……啊……
+TalkEvent_06_001ID	29	Lara	ララ	今のままでは、騎士など務まりませんわね。\nごきげんよう	Lara	You are unfit to be anything resembling a knight as you are now. Farewell.	拉拉	凭你现在的实力是无法胜任骑士一职的。\n失陪了。	拉拉	現在的妳是無法勝任騎士一職的。\n後會有期。
+TalkEvent_06_001ID	30	Izana	イザナ	くっ……レスナ……ちゃん……	Izana	Ugh... Resna...	伊札娜	呜……蕾斯娜……	伊札娜	唔……蕾……斯娜……
+TalkEvent_06_001ID	31	Empel Vollmer	アンペル・フォルマー	極夜の錬金党のララと行動を共にしている錬金術士。\n見た目は若いが、不思議な貫禄がある	Empel Vollmer	A seemingly youthful alchemist with a mysterious yet dignified presence who is accompanying Lara, a Polar Night Alchemist.	安佩尔·沃尔默	与极夜的炼金党拉拉共同行动的炼金术士。\n年轻的外表下有着不可思议的威严感。	安佩爾‧沃爾默	鍊金術士。總是與極夜的鍊金黨的拉拉一同行動。\n擁有年輕的外貌，卻散發出一股不可思議的威嚴。
+TalkEvent_06_002ID	0	Izana	イザナ	そんなわけで、逃げられちゃった。ごめん。\nアタシがもっと強かったら……	Izana	And then she got away. I'm sorry. If only I were stronger.	伊札娜	结果我没能拦住，让她逃走了，抱歉。\n我要是足够强大的话……	伊札娜	所以被他們逃了，真的很抱歉。\n要是我再更強一點……
+TalkEvent_06_002ID	1	Resna	レスナ	そんなのどうでもいいよ！\nはぁ……イザナちゃんが無事でよかった\n　	Resna	None of that matters! *Sigh* I'm just glad that you're okay, Izana.　	蕾斯娜	别在意那些了！\n呼……伊札娜你没事就好。\n　	蕾斯娜	那一點都不重要！\n呼……幸好伊札娜平安無事。
+TalkEvent_06_002ID	2	Valeria	ヴァレリア	レスナの言う通りよ、イザナ	Valeria	Yeah, exactly! Resna's right.	瓦莱莉娅	伊札娜，蕾斯娜说得对。	瓦萊莉婭	伊札娜，蕾斯娜說得沒錯。
+TalkEvent_06_002ID	3	Valeria	ヴァレリア	それにしてもあいつらめー、\n何を考えてるのかしら	Valeria	I still can't believe them. What are they up to?	瓦莱莉娅	不过那些混蛋到底在想什么啊？	瓦萊莉婭	不過，那些可惡的傢伙，\n究竟在打什麼算盤？
+TalkEvent_06_002ID	4	Resna	レスナ	またイザナちゃんに何かしてくるかも。\nどんな奸計を巡らせてくるか	Resna	They'll probably try something with Izana again. We just don't know what they'll try next.	蕾斯娜	他们搞不好又会对伊札娜做什么。\n也不知道他们会用什么奸计。	蕾斯娜	他們可能還會再來找伊札娜，\n不知道又要耍什麼技倆。
+TalkEvent_06_002ID	5	Izana	イザナ	「もう用はない」って言ってたけど……うーん	Izana	"But, she did say, ""We're finished here."" Hmm."	伊札娜	她倒是说过没事找我了……但是……	伊札娜	雖然她說「我們之間已經無話可說了」……唔……
+TalkEvent_06_002ID	6	Resna	レスナ	（私とイザナちゃん、ヴァレリアとハイディさんは\n　今、ランターナ大陸の南端、ハイネ州にいる）	Resna	(Right now, Izana, Valeria, Heidi, and I are in Haine, in the southern part of the Lantarna continent.)	蕾斯娜	（我和伊札娜、瓦莱莉娅还有海蒂小姐\n　现在在兰塔纳大陆南端的海涅州。）	蕾斯娜	（我、伊札娜、瓦萊莉婭還有海蒂小姐，\n　目前正在蘭塔納大陸南端的海涅州。）
+TalkEvent_06_002ID	7	Resna	レスナ	（果ての大陸を目指すためには、まず経験を積むこと。\n　そこで、各地の難しい依頼を受けることにした）	Resna	(We need to get more experience before we can reach the World's End. That's why we're taking on challenging requests where we travel to different lands.)	蕾斯娜	（去终极大陆之前要积累经验。\n　所以我们决定接受来自各地的困难委托。）	蕾斯娜	（前往終極大陸之前，必須先累積經驗。\n　所以我們決定去承接各地的高難度委託。）
+TalkEvent_06_002ID	8	Resna	レスナ	（この地方を蝕む不作を解決するために必要な素材の\n　１つ、「ハイネの炎石」をどうにか手に入れて……）	Resna	(We managed to obtain the Haine Fire Stone, which is one of the materials we need to solve the poor crops that have been plaguing this region.)	蕾斯娜	（我们费尽千辛万苦拿到了解决这里的歉收问题\n　所需的素材之一——海涅炎石……）	蕾斯娜	（為了解決這個地區的歉收問題，\n　我們設法取得了其中一樣所需素材「海涅炎石」……）
+TalkEvent_06_002ID	9	Resna	レスナ	（残るはあと１つ、「翡翠の煌水」）	Resna	(Now there's only one other item we need—Jade Water.)	蕾斯娜	（接下来就只缺“翡翠煌水”了。）	蕾斯娜	（現在只缺另一樣素材「翡翠煌水」。）
+TalkEvent_06_002ID	10	Resna	レスナ	（だけどそんな時、極夜の錬金党の錬金術士、\n　ララが現れて……）	Resna	(But right as we were going to go looking, that Polar Night Alchemist named Lara showed up...)	蕾斯娜	（但就在这时，极夜的炼金党的炼金术士——\n　拉拉现身了……）	蕾斯娜	（但就在這個時候，\n　極夜的鍊金黨鍊金術士──拉拉現身了……）
+TalkEvent_06_002ID	11	Resna	レスナ	（イザナちゃんを仲間に誘った）	Resna	(...and called on Izana to join her.)	蕾斯娜	（她邀请伊札娜成为自己的同伴。）	蕾斯娜	（她邀請伊札娜成為夥伴。）
+TalkEvent_06_002ID	12	Valeria	ヴァレリア	ねぇ、ひとまず場所をどこかに移さない？\nこのままだとみんなが心配だわ	Valeria	Hey, I think we should go somewhere else for now. Sticking around here's just asking for trouble.	瓦莱莉娅	我们要不要先换个地方？\n感觉继续待在这里大家可能会有危险。	瓦萊莉婭	對了，我們要不要先往別處移動？\n再這樣下去的話，大家會擔心的。
+TalkEvent_06_002ID	13	Izana	イザナ	でもさ、ハイディがまだ戻ってきてないよ	Izana	Yeah, but Heidi hasn't come back yet.	伊札娜	可是海蒂还没回来。	伊札娜	可是海蒂還沒回來耶。
+TalkEvent_06_002ID	14	Valeria	ヴァレリア	大丈夫。ハイディなら素材の在り処を\nちゃちゃーっと見つけて合流するわよ	Valeria	She's fine. I'm sure Heidi will find out where the materials are and join back up with us in no time.	瓦莱莉娅	没事的，海蒂肯定能飞快找到素材所在地，\n然后跟我们会合的。	瓦萊莉婭	放心。海蒂一定能迅速找到素材的所在地，\n再來跟我們會合的。
+TalkEvent_06_002ID	15	Valeria	ヴァレリア	素材っていえば……極夜の錬金党は\n前にも横取りしに現れたのよね	Valeria	Speaking of materials, the Polar Night Alchemists have shown up before and tried to steal from us.	瓦莱莉娅	提起素材……\n极夜的炼金党之前也曾现身抢夺我们的素材吧。	瓦萊莉婭	說到素材……\n極夜的鍊金黨也曾為了搶奪素材而現身，對吧？
+TalkEvent_06_002ID	16	Izana	イザナ	アタシの前に現れたのも、ひょっとして……	Izana	Wait, maybe the one I saw earlier was...	伊札娜	她这次出现在我面前，难不成……	伊札娜	所以，他們出現在我面前的原因難道是……
+TalkEvent_06_002ID	17	Resna	レスナ	翡翠の煌水目当て……なのかな？	Resna	...after the Jade Water?	蕾斯娜	是为了翡翠煌水……？	蕾斯娜	取得翡翠煌水……嗎？
+TalkEvent_06_002ID	18	Valeria	ヴァレリア	また、横取りしようとする気かもしれないわ	Valeria	They're probably trying to steal from us again!	瓦莱莉娅	她搞不好又想抢走我们的东西。	瓦萊莉婭	為了搶奪素材，他們可能會再度出現。
+TalkEvent_06_002ID	19	Resna	レスナ	そんなことがあっても、きっと大丈夫だよ！\nイザナちゃんとヴァレリアが一緒だもん！	Resna	We don't have to worry about that! I mean, I have both of you with me!	蕾斯娜	就算是这样也不用担心！\n因为有伊札娜和瓦莱莉娅在嘛！	蕾斯娜	就算他們來了，也不用怕！\n因為有伊札娜和瓦萊莉婭在身邊啊！
+TalkEvent_06_002ID	20	Valeria	ヴァレリア	ふふ。任せて。\nあの時の私たちとは一味違うものね。刺身にしてやるわ	Valeria	Hehe. You can count on us. We're not the same as we were back then! We'll slice and dice them!	瓦莱莉娅	呵呵，交给我吧。\n现在的我跟当时可大不相同了。看我不把她千刀万剐！	瓦萊莉婭	呵呵，包在我身上。\n我們已經和當時不同了，看我把他們切成薄片。
+TalkEvent_06_002ID	21	Resna	レスナ	私たち、色んなことを経験したもんね。\n頼りにしてるね。ヴァレリア、イザナちゃん！	Resna	Yeah, we really have been through a lot. I'm counting on you two!	蕾斯娜	毕竟我们已经经历了重重冒险啊。\n就靠你们啦，瓦莱莉娅、伊札娜！	蕾斯娜	畢竟我們累積了不少經驗嘛。\n瓦萊莉婭、伊札娜，就靠妳們了！
+TalkEvent_06_002ID	22	Izana	イザナ	もっちろんだよ！	Izana	Yep, of course!	伊札娜	放心交给我们吧！	伊札娜	那是當然的啦！
+TalkEvent_06_002ID	23	Izana	イザナ	（でも、アタシは頼られる程の実力なんて……）	Izana	(Not that I'm strong enough for Resna to rely on me...)	伊札娜	（但是，我的实力还不值得大家依靠……）	伊札娜	（不過，我的實力還無法作為大家的依靠……）
+TalkEvent_06_003ID	0	Heidi	ハイディ	お待ちどおさま！\n翡翠の煌水ネタ、仕入れてきたよ	Heidi	Thanks for waiting! I found a lead on the Jade Water.	海蒂	久等啦！\n我找到了有关翡翠煌水的线索！	海蒂	久等了！\n我打聽到翡翠煌水的所在地啦！
+TalkEvent_06_003ID	1	Resna	レスナ	わぁ！　ハイディさん、早かったですね！	Resna	Wow! That was quick, Heidi!	蕾斯娜	哇！海蒂小姐，你动作真快！	蕾斯娜	哇！海蒂小姐速度真快！
+TalkEvent_06_003ID	2	Heidi	ハイディ	ふっふっふ、顔の広さが役立ったってとこかな？\nハイディちゃんにかかれば、こんなもんよ！	Heidi	Heh heh! You could say it pays off to have connections. Leave it to me to deliver!	海蒂	呵呵呵，可能多亏了我人脉广吧？\n交给我来办，轻松搞定！	海蒂	呵呵呵，應該是多虧我人脈很廣吧？\n只要海蒂出面，任何事情都能輕鬆解決！
+TalkEvent_06_003ID	3	Valeria	ヴァレリア	持つべきものはハイディね！　それでそれで？\n翡翠の煌水って、どこにあるの？	Valeria	You're a lifesaver, Heidi! So, what's the lead? Where's the Jade Water?	瓦莱莉娅	遇上问题还得靠海蒂啊！\n快说快说，翡翠煌水在哪？	瓦萊莉婭	有海蒂在真令人放心！所以所以？\n翡翠煌水在哪裡呢？
+TalkEvent_06_003ID	4	Heidi	ハイディ	どうも「大原野」ってとこにある泉で採れるみたい。\n比較的安全な道もついでに調べてきたよ	Heidi	Apparently, you can collect it from a spring located in a place called the Haine Wilderness. I also managed to find a fairly safe way to get there.	海蒂	好像能在“大原野”上的某一眼泉水中采集到。\n我也调查到比较安全的路线了。	海蒂	似乎就在「大原野」的湧泉那裡。\n另外，我也順便調查了相對安全的路線。
+TalkEvent_06_003ID	5	Resna	レスナ	ありがとうございます、ハイディさん！\nお疲れでしょうし、少し休憩してくださいね	Resna	Thank you, Heidi! I'm sure you're tired from all that work, so let's take a quick break.	蕾斯娜	谢谢你，海蒂小姐！\n你肯定也累了，稍微休息一下吧。	蕾斯娜	謝謝妳，海蒂小姐！\n妳應該很累了吧？請稍微休息一下。
+TalkEvent_06_003ID	6	Heidi	ハイディ	ありがとね。\nじゃあ、このお土産、今ここで食べちゃおっか	Heidi	Thanks! Well, maybe we can dig into these treats that I brought back as souvenirs?	海蒂	谢谢。\n那现在就来尝尝我带回来的伴手礼吧。	海蒂	謝啦。\n那麼就先把這些伴手禮吃掉好了。
+TalkEvent_06_003ID	7	Valeria	ヴァレリア	食べ物！？　ハイディ、何か買ってきたの！？	Valeria	Food?! What'd you buy, Heidi?!	瓦莱莉娅	吃的？海蒂，你还买了吃的啊？！	瓦萊莉婭	食物！？海蒂，妳買了什麼！？
+TalkEvent_06_003ID	8	Heidi	ハイディ	半分は買ったけど、半分はもらいもの。\nまずは、南国特産の果物！　滋養強壮に効くそうだよ	Heidi	I only bought half of this, the other half is gifts I received. First off, tropical fruit! Word has it that these nourish and revitalize the body.	海蒂	一半是我买的，一半是别人送的。\n首先是这个南国特产水果！据说很滋补哦。	海蒂	一半是買的，一半是人家送的。\n首先，是南國特產的水果！聽說有滋養強身的效果喔。
+TalkEvent_06_003ID	9	Resna	レスナ	わあ、いい香り！	Resna	Oh, what a nice aroma!	蕾斯娜	哇，好香！	蕾斯娜	哇，好香唷！
+TalkEvent_06_003ID	10	Valeria	ヴァレリア	果物。うん、美味しそうね	Valeria	Yep, that fruit looks yummy.	瓦莱莉娅	水果。嗯，看起来挺好吃的。	瓦萊莉婭	是水果啊。嗯，看起來很好吃呢！
+TalkEvent_06_003ID	11	Heidi	ハイディ	はいはい、分かってるって、相棒。果物だけじゃ\nお腹に溜まらないって言いたいんでしょ？	Heidi	Yeah, partner, I hear you. You're about to tell me that fruit alone won't fill you up, aren't you?	海蒂	好啦好啦，我知道你的意思，搭档。\n你想说光靠水果填不饱肚子吧？	海蒂	好好好，我就知道。\n我的搭檔只有水果是吃不飽的。
+TalkEvent_06_003ID	12	Heidi	ハイディ	そんなあんたのために……ほい！\n厚切り肉の串焼き！　途中の村で買ってきたよ	Heidi	Well, you're in luck! Look here! Thick-cut meat skewers! I bought them at a village along the way.	海蒂	就知道你会这么想……所以给你这个！\n厚切烤肉串！是我在路过的村子里买的。	海蒂	為了妳……瞧！\n我經過村莊時買了厚切肉串燒！
+TalkEvent_06_003ID	13	Valeria	ヴァレリア	さっすがハイディ！　情報収集だけじゃなくて\nお土産選びも完璧！　有能すぎるっ！	Valeria	Heidi, you're the best! Your taste in souvenirs is perfect, just like your information gathering! You're so talented.	瓦莱莉娅	海蒂真能干啊！不光是收集情报，\n连选择伴手礼的本事也是一等一的！太厉害了！	瓦萊莉婭	真不愧是海蒂！除了擅長打聽消息，\n連選伴手禮的品味都很好！太能幹了！
+TalkEvent_06_003ID	14	Resna	レスナ	ふふっ。ハイディさんとヴァレリアは本当に\n気の置けない関係……まさに相棒なんだね	Resna	Hehe. You two really are inseparable! The perfect partners!	蕾斯娜	呵呵，海蒂小姐和瓦莱莉娅真亲密啊……\n完美诠释了搭档这两个字。	蕾斯娜	呵呵，海蒂小姐和瓦萊莉婭真的相當信賴彼此呢……\n果然是好搭檔。
+TalkEvent_06_003ID	15	Heidi	ハイディ	それを言うなら、あんたたち二人もじゃない	Heidi	Oh yeah? Well, the same goes for you two.	海蒂	真要这么说，你们不也一样？	海蒂	這麼一說，妳們兩個不也一樣嗎？
+TalkEvent_06_003ID	16	Valeria	ヴァレリア	うんうん。レスナとイザナも、背中を預けられる\n一番信頼してる相手だもんね？　見てれば分かるわ	Valeria	That's right, Resna! You and Izana trust each other completely to have each other's backs, right? I can tell at a glance!	瓦莱莉娅	嗯嗯，一看就知道蕾斯娜和伊札娜也能将身后托付给对方，\n是彼此最信赖的人。	瓦萊莉婭	嗯嗯，蕾斯娜和伊札娜妳們對彼此來說，\n也是最信任的那個吧？看妳們的樣子就知道囉。
+TalkEvent_06_003ID	17	Izana	イザナ	一番、信頼……	Izana	Complete trust...?	伊札娜	最信赖的人……	伊札娜	最信任……
+TalkEvent_06_003ID	18	Resna	レスナ	えへへ。そうかな？\nでもそう言われると嬉しいね、イザナちゃん	Resna	Ehehe. You think? Either way, that's a nice way to put it. Wouldn't you say, Izana?	蕾斯娜	嘿嘿，真的吗？\n听你们这么说我好开心啊。对吧，伊札娜？	蕾斯娜	嘿嘿，是這樣嗎？\n聽到這番話真令人開心，對吧？伊札娜。
+TalkEvent_06_003ID	19	Izana	イザナ	う、うん！　そうだね、レスナちゃん	Izana	Y-Yeah! You're right, Resna.	伊札娜	是、是啊！蕾斯娜。	伊札娜	嗯、嗯！就是說呀，蕾斯娜。
+TalkEvent_06_003ID	20	Valeria	ヴァレリア	ぷはーっ、満足満足！　元気も出てきたし、\n大原野までの魔物も、さくさく倒せそうだわ！	Valeria	Phew, that was good! I feel better now. Like I could plow straight through all the monsters between here and the wilderness.	瓦莱莉娅	呼，好满足啊！这下也有精神了，\n三下五除二打倒阻挡我们前往大原野的魔物吧！	瓦萊莉婭	呼～吃得真飽！精神也恢復得差不多了，\n就算在前往大原野途中遇到魔物，應該也能輕鬆解決！
+TalkEvent_06_003ID	21	Resna	レスナ	ごちそうさまでした！\n私も勇往邁進できそうです！	Resna	Thanks for the food! I think I'm ready to forge ahead, too!	蕾斯娜	多谢款待！\n感觉全身涌出了前进的力量！	蕾斯娜	感謝招待！\n好像能繼續勇往直前了！
+TalkEvent_06_003ID	22	Heidi	ハイディ	そいつは何より。\nじゃ、私はいつも通り先行して下調べしとくから	Heidi	I'm glad it hit the spot! All right, I'll get a head start as usual and see what we're up against.	海蒂	你们能这么说就太好了。\n那我就跟之前一样先行一步，继续侦察了。	海蒂	太好了。\n那我一樣先出發去打探消息囉！
+TalkEvent_06_003ID	23	Resna	レスナ	よーし！\nでは翡翠の煌水を求めて――いざ大原野へ！	Resna	Okay! Onward to the wilderness to find Jade Water!	蕾斯娜	好！\n为了找到翡翠煌水——前往大原野！	蕾斯娜	好～！那就\n朝大原野出發──尋找翡翠煌水！
+TalkEvent_06_003ID	24	Valeria	ヴァレリア	どんな敵が出てくるか今から楽しみね！	Valeria	I'm excited to see what foes await.	瓦莱莉娅	接下来会遇到什么样的敌人呢，好期待啊！	瓦萊莉婭	接下來會遇到什麼樣的敵人呢？真期待！
+TalkEvent_06_004ID	0	Lara	ララ	お取りなさいな。お茶請けでしてよ	Lara	Have some cookies to go with your tea.	拉拉	这是配茶点心，收下吧。	拉拉	請用茶點。
+TalkEvent_06_004ID	1	Empel	アンペル	おや、これは。ララ様から直々に賜れるとは光栄です	Empel	Oh my. What an honor to be given this personally by you, Your Majesty.	安佩尔	哎呀，这可真是……很荣幸能得到拉拉大人的亲自恩赐。	安佩爾	哎呀……能讓拉拉大人親自招待，是我的榮幸。
+TalkEvent_06_004ID	2	Empel	アンペル	……これはうまい	Empel	How delicious.	安佩尔	……真是意想不到的美味。	安佩爾	……真是美味。
+TalkEvent_06_004ID	3	Lara	ララ	ふふ。お茶の味わいが引き立ちますわね	Lara	Hehe. Yes, they bring out the flavor of the tea.	拉拉	呵呵，搭配着吃能让茶香更浓郁吧。	拉拉	呵呵，這樣更能凸顯茶的風味，對吧？
+TalkEvent_06_004ID	4	Lara	ララ	アンペル。あなたの知識は、それは見事なもの。\nわたくしの王国にふさわしい人材ですわ	Lara	Empel, your knowledge is truly impressive. Your talents are certainly a perfect fit for my kingdom.	拉拉	安佩尔，你的知识十分渊博，\n是我的王国需要的人才。	拉拉	安佩爾，你學問淵博，\n我的王國正需要這種人才。
+TalkEvent_06_004ID	5	Empel	アンペル	もったいないお言葉です	Empel	I am unworthy of such kind words.	安佩尔	谬赞了。	安佩爾	不敢當。
+TalkEvent_06_004ID	6	Lara	ララ	いずれ、あなたを正式な党員へと\n党首クリセルダに推薦いたしますわ	Lara	One of these days, I will recommend you to the party leader, Criselda, to become an official party member.	拉拉	总有一天我会将你推荐给党首克莉赛尔达，\n让你成为正式党员。	拉拉	將來，我會向黨魁克莉賽爾達推薦你，\n讓你成為正式黨員。
+TalkEvent_06_004ID	7	Lara	ララ	そうすればあなたは、本部の設備を使って\n存分に錬金術の腕を振るうことができましてよ	Lara	That way you can use equipment from headquarters and really demonstrate your alchemy skills.	拉拉	如此一来，你就能使用总部的设备，\n尽情发挥你的炼金术本领。	拉拉	如此一來，你就能使用總部的設備，\n盡情施展鍊金術的長才。
+TalkEvent_06_004ID	8	Empel	アンペル	ふふ、待ち遠しいですね	Empel	Hehe. I can hardly wait.	安佩尔	呵呵，我很期待。	安佩爾	呵呵，真令人迫不及待。
+TalkEvent_06_004ID	9	Empel	アンペル	クリセルダ――それが中心人物の名前なのか	Empel	Criselda... So that's the name of the person behind all of this.	安佩尔	克莉赛尔达——这就是中心人物的名字吗？	安佩爾	克莉賽爾達──這就是中心人物的名字嗎？
+TalkEvent_06_004ID	10	Empel	アンペル	……もう１ついただいても？	Empel	May I have another?	安佩尔	……我可以再吃一个吗？	安佩爾	……我可以再吃一個嗎？
+TalkEvent_06_004ID	11	Lara	ララ	ええ	Lara	Yes, you may.	拉拉	可以。	拉拉	好。
+TalkEvent_06_004ID	12	Lara	ララ	あなたのその腕、補助器具を付けていますのね	Lara	Why, I see you have a support device on your arm there.	拉拉	你的手腕上戴着辅助器具吧。	拉拉	你那隻手臂上裝著輔助器具呢。
+TalkEvent_06_004ID	13	Empel	アンペル	…………	Empel	...	安佩尔	……	安佩爾	…………
+TalkEvent_06_004ID	14	Lara	ララ	話していただけるまでは、\n無理に事情を聞こうとは思いませんわ	Lara	I will not force you to give me information before you are ready.	拉拉	如果你自己不愿意说出来，\n我自然不会强迫你告诉我。	拉拉	在你願意告訴我之前，\n我不會逼迫你說出來的。
+TalkEvent_06_004ID	15	Lara	ララ	ですが、極夜の闇はあなたにとって\nきっと心地の良いものになるでしょう	Lara	But I do believe you will find the darkness of the Polar Night rather nice.	拉拉	不过，极夜之暗对你来说\n想必会是很舒适的事物。	拉拉	不過，對你而言，\n極夜的黑暗一定會是個舒適的地方。
+TalkEvent_06_004ID	16	Empel	アンペル	いやはや、私のような者に目をかけていただき恐縮です	Empel	Y-Your words of praise for someone like me are greatly humbling.	安佩尔	哎呀，您居然会关心我这种小人物的经历，真叫人惶恐。	安佩爾	不不不，能被您任用，小的真是受寵若驚。
+TalkEvent_06_004ID	17	Lara	ララ	王として当然の振る舞いですわ	Lara	It is only to be expected from your queen.	拉拉	身为国王，这么做再正常不过。	拉拉	身為君主這相當基本。
+TalkEvent_06_004ID	18	Lara	ララ	出自や身分、後ろ暗い過去。\nそんなものは、ささいなことではありませんか	Lara	Your beginnings, title, the dark past that lays behind you... Are these not but trivial things?	拉拉	出身、身份、不堪回首的过去。\n这些不过是不值一提的小事。	拉拉	無論出身何處或擁有什麼樣的過去，\n這些都不重要。不是嗎？
+TalkEvent_06_004ID	19	Lara	ララ	わたくしは王として――\n満たされぬ者の縁になりたいのです	Lara	As the queen...I wish to be the foundation upon which unfulfilled souls stand.	拉拉	作为国王——\n我愿成为未满足者的机缘。	拉拉	我要以君主的身分──\n成為有所渴求之人的避風港。
+TalkEvent_06_004ID	20	Empel	アンペル	なるほど……。ええ、素晴らしいお考えかと	Empel	I see. Yes, that is an wonderful notion.	安佩尔	这样啊……您的想法十分崇高。	安佩爾	原來如此……嗯，這目標真是偉大。
+TalkEvent_06_004ID	21	Lara	ララ	そのためには、王自身が力を示さなくてはなりません	Lara	That is why I must demonstrate my capabilities as a monarch.	拉拉	为此，国王需要彰显自己的力量。	拉拉	為此，君主必須展現出自身的實力。
+TalkEvent_06_004ID	22	Lara	ララ	理想の実現のため、阻む者は徹底的に排除いたします。\n王たるこのわたくしの手によって	Lara	By my own two royal hands, I shall eliminate all who stand in the way of making my vision a reality.	拉拉	为了实现理想，\n本王会亲力亲为，彻底扫清障碍。	拉拉	若要實現這個理想，\n就得由身為君主的我親自出馬，徹底清除絆腳石。
+TalkEvent_06_004ID	23	Lara	ララ	では、休憩はこれくらいにしましょうか	Lara	Well then, I think we have had enough of a break.	拉拉	好了，休息时间结束。	拉拉	休息得差不多了。
+TalkEvent_06_004ID	24	Empel	アンペル	次の目的地に向かうのですね	Empel	We will head to the next destination now, correct?	安佩尔	是要前往下一个目的地吧？	安佩爾	我們要前往下一個目的地了？
+TalkEvent_06_004ID	25	Lara	ララ	ええ――ハイネ大原野へ	Lara	Yes, to the Haine Wilderness.	拉拉	是的——前往海涅大原野。	拉拉	沒錯──朝海涅大原野前進。
+TalkEvent_06_005ID	0	Resna	レスナ	ここがハイネ州の大原野……。\nなんて自然豊かな所なんだろう	Resna	So this is Haine's wilderness. It's just teeming with nature.	蕾斯娜	这里就是海涅州的大原野啊……\n给人一种生机勃勃的感觉。	蕾斯娜	這裡就是海涅州的大原野啊……\n真是個生態豐富的地方。
+TalkEvent_06_005ID	1	Valeria	ヴァレリア	空気も他とはちょっと違うわね。\n緑が濃いっていうか	Valeria	Even the atmosphere feels kind of unique. Maybe it's the lush green?	瓦莱莉娅	这里的空气与其他地方也有些不同。\n或许是因为植物比较多吧。	瓦萊莉婭	空氣也跟其他地方不太一樣呢。\n該說是綠意盎然嗎？
+TalkEvent_06_005ID	2	Izana	イザナ	（レスナちゃんは、アタシのことを\n　「自分を守ってくれる騎士」だって言ってくれた）	Izana	(Resna said I was her knight and that I protect her.)	伊札娜	（蕾斯娜说过，\n　我是“守护她的骑士”。）	伊札娜	（蕾斯娜說我是\n　「保護她的騎士」。）
+TalkEvent_06_005ID	3	Izana	イザナ	（でも今のアタシじゃ……その信頼には応えられない）	Izana	(But, right now...I just don't have what it takes to live up to her trust.)	伊札娜	（可是凭我现在的实力……还当不起她的信赖。）	伊札娜	（但我目前的實力……還無法回應她的信賴。）
+TalkEvent_06_005ID	4	Izana	イザナ	（レスナちゃんが安心して背中を預けられる、\n　本当に頼れる存在にアタシはなりたい）	Izana	(I want to be someone Resna can really count on and feel safe with.)	伊札娜	（我要成为真正值得依靠的人，\n　让蕾斯娜放心将身后交给我守护。）	伊札娜	（我想成為一位\n　能讓蕾斯娜安心依靠的人。）
+TalkEvent_06_005ID	5	Resna	レスナ	翡翠の煌水以外にも、色んな素材が眠ってそう！\nね、イザナちゃ……イザナちゃん？	Resna	I bet there are a bunch of other great materials hiding here besides Jade Water. Don't you think, Izana? ...Izana?	蕾斯娜	感觉这里除了翡翠煌水之外还藏着各种其他素材！\n对吧，伊札娜……伊札娜？	蕾斯娜	除了翡翠煌水之外，這裡似乎還蘊藏了各式各樣的素材！\n嘿，伊札……伊札娜？
+TalkEvent_06_005ID	6	Izana	イザナ	う、うん！\n行こう、レスナちゃん！　頑張るぞ、ハンマーーっ！	Izana	Y-Yeah! Let's go for it, Resna! It's hammer time!	伊札娜	对、对呀！\n蕾斯娜，我们走吧！要加油啦，锤呀！	伊札娜	嗯、嗯！\n走吧，蕾斯娜！要好好加油，錘子～！
+TalkEvent_06_005ID	7	Resna	レスナ	えっ！？　お、おーっ！　ハンマー！	Resna	What?! Oh, y-yeah! Hammer time!	蕾斯娜	咦？！好、好的！锤呀！	蕾斯娜	咦！？好、好的～！錘子！
+TalkEvent_06_005ID	8	Heidi	ハイディ	ハンマーっ！	Heidi	It's hammer time!	海蒂	锤呀！	海蒂	錘子！
+TalkEvent_06_005ID	9	Resna	レスナ	わあっ！？　ハイディさん、戻ってたんですか！？	Resna	Whoa! Heidi, you're back!	蕾斯娜	哇？！海蒂小姐，你回来啦？！	蕾斯娜	哇啊！？海蒂小姐，妳回來啦！？
+TalkEvent_06_005ID	10	Heidi	ハイディ	あはは、いい反応。\n一足先に、この辺りを見回ってきたよ	Heidi	Haha, nice reaction. I snuck a quick peek at the area around here.	海蒂	哈哈，反应不错。\n我先去这附近看了一圈。	海蒂	哈哈，妳的反應真有趣。\n我先大略巡視過這一帶了。
+TalkEvent_06_005ID	11	Heidi	ハイディ	聞いていた通り、この大原野は本当にだだっ広いね。\n手ごわい魔物もあちこちウヨウヨしてるよ	Heidi	The wilderness here really is incredibly vast, just like they said. There are swarms of tough monsters all over.	海蒂	就跟听说的一样，这片大原野确实广阔。\n到处都有棘手的魔物游荡。	海蒂	如傳聞所言，這片大原野真的非常遼闊。\n到處都有棘手的魔物在蠢蠢欲動。
+TalkEvent_06_005ID	12	Heidi	ハイディ	ここで翡翠の煌水が採れる泉を見つけるのは、\n結構骨が折れるだろうねぇ	Heidi	Looking for the springs with the Jade Water is going to be backbreaking.	海蒂	要在这里找到翡翠煌水，\n估计得费不少力气。	海蒂	要找出能採集到翡翠煌水的湧泉，\n恐怕得耗費一番功夫。
+TalkEvent_06_005ID	13	Resna	レスナ	困難な素材探し！　望むところです！\nでも、魔物には十分気を付けないといけませんね	Resna	A challenging search for materials! That's exactly what I've been waiting for. We should stay on guard for monsters, though.	蕾斯娜	艰难的寻找素材之行！正合我意！\n不过要小心行事，当心魔物才行。	蕾斯娜	困難的尋找素材之旅！正合我意！\n不過，得處處提防魔物才行。
+TalkEvent_06_005ID	14	Valeria	ヴァレリア	手ごわい敵……わくわくする、じゃなかった。\n油断はできないわね。ぞくぞくする	Valeria	Strong enemies? How exciti—oh no, I meant... We can't let our guard down! How frightening.	瓦莱莉娅	棘手的敌人……好兴奋……不能这么说。\n要提高警惕，我振奋起来了。	瓦萊莉婭	棘手的敵人啊……看來不該用雀躍來形容。\n雖然不能有任何鬆懈，但真令人亢奮。
+TalkEvent_06_005ID	15	Izana	イザナ	手ごわい敵……	Izana	Strong enemies...	伊札娜	棘手的敌人……	伊札娜	棘手的敵人……
+TalkEvent_06_005ID	16	Izana	イザナ	（そうだ。アタシはとにかく強くなるしかない。\n　だったら、魔物との戦いなんて望むところ！）	Izana	(But wait. I need to get stronger. I should be so happy to battle monsters!)	伊札娜	（好，无论如何我都需要变强。\n　所以跟魔物战斗正合我意！）	伊札娜	（沒錯，我只能努力讓自己變強。\n　既然如此，跟魔物交手正合我意！）
+TalkEvent_06_005ID	17	Izana	イザナ	（戦った分だけアタシも強くなる。\n　ううん、強くならなくちゃいけないんだ！）	Izana	(Each fight will only make me stronger. I have to grow stronger!)	伊札娜	（我要多在战斗中历练，让自己变得越强。\n　我必须变强！）	伊札娜	（累積實戰經驗能提升我的實力。\n　對，我必須變得更強才行！）
+TalkEvent_06_005ID	18	Izana	イザナ	大丈夫、どんなヤツが来ても負けないよ！\nさ、しゅっぱーつ！	Izana	Don't worry, we'll crush any monster that comes our way. Let's gooo!	伊札娜	没事的，不管碰到什么样的敌人我都不会输！\n来，出发吧！	伊札娜	別擔心，不管遇到誰，我都不會輸的！\n好，出發吧～！
+TalkEvent_06_005ID	19	Resna	レスナ	わっ！　待ってよ、イザナちゃん！	Resna	Whoa! Izana, wait!	蕾斯娜	哇！ 等等我啊，伊札娜！	蕾斯娜	哇！伊札娜，等等！
+TalkEvent_06_006ID	0	Resna	レスナ	わぁ、このへんの草地の植生、初めて見た！\nこんなのフリーゲンにはなかったよね、イザナちゃん！	Resna	Wow, the plants in these grasslands are unlike anything I've ever seen. There's nothing like this in Friegen, right, Izana?	蕾斯娜	哇，这附近草地的植被我还是头一次见！\n弗里根没有这样的植被呢，对吧，伊札娜！	蕾斯娜	哇，這種植被我是第一次看到！\n弗里岡沒有這樣的植被吧？伊札娜！
+TalkEvent_06_006ID	1	Izana	イザナ	そうだね！　何か珍しい素材がありそう？	Izana	Right! Think we'll find any rare materials?	伊札娜	确实！有什么罕见的素材吗？	伊札娜	確實如此！我們有機會發現其他珍貴素材嗎？
+TalkEvent_06_006ID	2	Resna	レスナ	あるに決まってるよ！　目を皿のようにして\nじーっくり探したいなぁ！　……あ！	Resna	Of course we will! We just need to keep our eyes wide open and search hard! Oh, wow!	蕾斯娜	肯定有啊！\n我要瞪大眼睛看仔细，一个都不放过……啊！	蕾斯娜	當然有囉！得張大眼睛\n仔細尋找才行！……啊！
+TalkEvent_06_006ID	3	Izana	イザナ	あっ、レスナちゃん！　先行きすぎー！	Izana	Ugh, Resna! Don't go so far ahead!	伊札娜	啊……蕾斯娜！你走得太远了！	伊札娜	啊，蕾斯娜！妳走太遠了～！
+TalkEvent_06_006ID	4	Resna	レスナ	すごい、すごーい！\nこっちの沼地も興味深いなぁ！	Resna	Whoaaa! These swamps are really interesting, too.	蕾斯娜	好棒！好棒啊！\n这边的沼泽地里一定也会有许多发现！	蕾斯娜	真是太棒了～！\n這沼澤也很有意思呢！
+TalkEvent_06_006ID	5	Heidi	ハイディ	レスナー！　足元気を付けなよー！	Heidi	Resna! Watch your step!	海蒂	蕾斯娜！当心脚下！	海蒂	蕾斯娜～！小心腳下喔～！
+TalkEvent_06_006ID	6	Resna	レスナ	はーい！	Resna	Okay!	蕾斯娜	知道啦！	蕾斯娜	知道了～！
+TalkEvent_06_006ID	7	Izana	イザナ	なんだかレスナちゃん、\nいつも以上にいきいきしてる感じ！	Izana	Resna seems a bit more upbeat than usual.	伊札娜	感觉蕾斯娜比平时还生龙活虎呢！	伊札娜	總覺得蕾斯娜\n比平常還要更有活力呢！
+TalkEvent_06_006ID	8	Heidi	ハイディ	まー、火山の時はあんまり楽しむ余裕もなかったしね。\nその反動ってことかしら	Heidi	Well, it was pretty rough on the volcano. She's probably just bouncing back from that.	海蒂	毕竟在火山的时候没有余力探索周边，\n现在她的好奇心终于得到释放了吧。	海蒂	畢竟在火山時沒什麼餘力好好享受，\n所以現在才會格外興奮吧。
+TalkEvent_06_006ID	9	Valeria	ヴァレリア	うんうん。楽しそうで何よりだわ	Valeria	Totally! I'm just glad she's having fun.	瓦莱莉娅	嗯嗯，她开心就是最好的。	瓦萊莉婭	嗯嗯，只要她覺得開心就沒問題了。
+TalkEvent_06_006ID	10	Heidi	ハイディ	そういやレスナのこと、\n近くで守らなくていいの？	Heidi	Speaking of which, don't you need to stay close to protect her?	海蒂	你呢，不去蕾斯娜的身边保护她吗？	海蒂	說到這個，\n妳不跟在蕾斯娜身邊保護她嗎？
+TalkEvent_06_006ID	11	Valeria	ヴァレリア	だって、今は危険な魔物の気配はないし、\n出ても駆けつけられる距離だし？	Valeria	Yeah, but there's no sign of deadly monsters, and I could rush them from here even if any showed up.	瓦莱莉娅	因为现在没感受到危险魔物的气息，\n而且距离没多远，就算有魔物出现也能及时赶到她身边嘛。	瓦萊莉婭	反正現在似乎沒有危險魔物的氣息，\n就算出現了，我也能立刻趕到她的身邊。
+TalkEvent_06_006ID	12	Heidi	ハイディ	ちょーっと前までは、あんなに先回りして\n心配してたのに？	Heidi	But weren't you JUST worried about her getting too far ahead?	海蒂	你前不久不是还操心得不得了，\n恨不得什么事都先替她做好吗？	海蒂	明明不久前妳還很擔心她的安危，\n甚至走在她的前面呢！
+TalkEvent_06_006ID	13	Valeria	ヴァレリア	レスナがああやって楽しそうにしてるのって、\n私たちを信じてくれてるってことだもん	Valeria	Resna believes in us. That's why she's out there enjoying herself right now.	瓦莱莉娅	蕾斯娜现在会这么开心，\n就代表她相信我们啊。	瓦萊莉婭	正因為蕾斯娜信任我們，\n她才能如此投入啊。
+TalkEvent_06_006ID	14	Valeria	ヴァレリア	信じてもらえるって、いいことよね	Valeria	It's nice to be trusted.	瓦莱莉娅	得到他人的信赖，是很开心的事吧。	瓦萊莉婭	能獲得她的信任是一件好事。
+TalkEvent_06_006ID	15	Heidi	ハイディ	ヴァレリア、変わったね	Heidi	You've changed, Valeria.	海蒂	瓦莱莉娅，你变了呢。	海蒂	瓦萊莉婭，妳變了呢。
+TalkEvent_06_006ID	16	Valeria	ヴァレリア	え、そう？	Valeria	What? Really?	瓦莱莉娅	咦，有吗？	瓦萊莉婭	咦，真的嗎？
+TalkEvent_06_006ID	17	Izana	イザナ	（レスナちゃんが安心して冒険できるよう、\n　アタシもやるぞ！）	Izana	(I'll help make sure Resna stays safe while we go on this adventure!)	伊札娜	（为了能让蕾斯娜放心冒险，\n　我也要努力！）	伊札娜	（為了讓蕾斯娜安心冒險，\n　我也要加油！）
+TalkEvent_06_007ID	0	Izana	イザナ	魔物だ！	Izana	It's a monster!	伊札娜	是魔物！	伊札娜	是魔物！
+TalkEvent_06_007ID	1	Resna	レスナ	大変！　助けに行かなきゃ！	Resna	Oh no! We have to help!	蕾斯娜	不好了！得赶快去救她！	蕾斯娜	糟糕！得去救她才行！
+TalkEvent_06_007ID	2	Resna	レスナ	速い……！	Resna	Wow, what speed!	蕾斯娜	好快……！	蕾斯娜	好快……！
+TalkEvent_06_007ID	3	???	？？？	この大原野で、女の子たちだけなんて危ないわよ。\nあなたたち、冒険者か何かなの？	???	It's very dangerous to be out here in the wilderness by yourselves! Are you adventurers or something?	？？？	一群女孩子来到这片大原野上可是很危险的。\n你们是冒险者还是干什么的？	？？？	幾個女孩子待在這片大原野真的很危險。\n妳們是冒險者嗎？
+TalkEvent_06_007ID	4	Resna	レスナ	こ、こんにちは。私は錬金術士です。\nここには素材を集めに来ていて……	Resna	H-Hello. I'm an alchemist, and I came here to gather materials.	蕾斯娜	你、你好，我是炼金术士。\n来这里是为了收集素材……	蕾斯娜	妳、妳好，我是鍊金術士。\n我們來這裡蒐集素材……
+TalkEvent_06_007ID	5	???	？？？	錬金術士？	???	An alchemist?	？？？	炼金术士？	？？？	鍊金術士？
+TalkEvent_06_007ID	6	???	？？？	リボン付きの帽子に、その特徴的な杖……\nあなた、もしかしてレスナちゃん？	???	That ribbon on your hat and that unmistakable staff... You must be...Resna?	？？？	帽子上有蝴蝶结，标志性的手杖……\n莫非你就是蕾斯娜？	？？？	有緞帶的帽子和特色鮮明的手杖……\n難道妳就是蕾斯娜？
+TalkEvent_06_007ID	7	Resna	レスナ	えっ！？　どうして私の名前を？	Resna	What?! How do you know my name?	蕾斯娜	什么？！你怎么知道我的名字？	蕾斯娜	咦！？為什麼妳知道我的名字？
+TalkEvent_06_007ID	8	???	？？？	マリオンから話を聞いたのよ。\nあなた、あのアトリエのご主人なんでしょう？	???	I heard about you from Marion. You run that atelier, don't you?	？？？	我听玛丽翁提起过你。\n你是那个炼金工房的主人吧？	？？？	我從瑪麗翁那邊聽說了。\n妳是那間鍊金工房的主人吧？
+TalkEvent_06_007ID	9	Resna	レスナ	ああ！\nマリオンさんのお知り合いの方だったんですね	Resna	Oh, so you're a friend of Marion's!	蕾斯娜	啊！\n你认识玛丽翁小姐呀。	蕾斯娜	啊！\n原來妳跟瑪麗翁小姐認識呀。
+TalkEvent_06_007ID	10	???	？？？	私はエスティ。異邦人の情報を集めてるの。\nマリオンの同僚、みたいなものかしらね	???	I'm Esty. I'm collecting information on wanderers. You could say I'm Marion's colleague.	？？？	我是艾丝缇，正在收集异乡人的情报，\n类似于玛丽翁的同事吧。	？？？	我是艾絲緹，正在蒐集異邦人的情報。\n應該算是瑪麗翁的同事吧。
+TalkEvent_06_007ID	11	Resna	レスナ	エスティさん、ですね！　よろしくお願いします	Resna	It's a pleasure, Esty.	蕾斯娜	艾丝缇小姐！请多多关照！	蕾斯娜	艾絲緹小姐呀！請多指教。
+TalkEvent_06_007ID	12	Resna	レスナ	私もマリオンさんから聞いたことがあります！\n自分以外にも異邦人の調査をしている人がいるって	Resna	Marion did mention there was someone other than herself researching wanderers.	蕾斯娜	我也听玛丽翁小姐提起过，\n除了她之外也有其他人在调查异乡人。	蕾斯娜	我也從瑪麗翁小姐那邊聽說過！\n她說除了自己以外，還有其他人在調查異邦人的事情。
+TalkEvent_06_007ID	13	Esty	エスティ	ええ。各地を巡って情報集めってところね。\nマリオンは情報の整理とか分析が中心だけど	Esty	That's right. I'm in the middle of traveling around to collect information. Marion mainly organizes and analyzes the information.	艾丝缇	嗯，我现在正在四处收集情报。\n玛丽翁主要是在整理、分析情报。	艾絲緹	沒錯，我為了蒐集情報四處遊走。\n瑪麗翁主要負責整理、分析情報等工作。
+TalkEvent_06_007ID	14	Esty	エスティ	それで、大きなハンマーを持った獣人の子が\nイザナちゃん	Esty	And this young beastgirl with the large hammer must be Izana.	艾丝缇	然后，\n拿着大锤子的兽人女孩是伊札娜。	艾絲緹	然後，\n手持巨大錘子的獸人女孩是伊札娜。
+TalkEvent_06_007ID	15	Izana	イザナ	よろしくー！	Izana	Nice to meet you!	伊札娜	请多关照！	伊札娜	請多指教～！
+TalkEvent_06_007ID	16	Esty	エスティ	そっちの二人がヴァレリアちゃんと、ハイディちゃんね	Esty	Those two over there must be Valeria and Heidi.	艾丝缇	那两位就是瓦莱莉娅和海蒂对吧。	艾絲緹	那兩位分別是瓦萊莉婭和海蒂吧？
+TalkEvent_06_007ID	17	Valeria	ヴァレリア	よろしく、エスティ	Valeria	Nice to meet you, Esty.	瓦莱莉娅	请多指教，艾丝缇。	瓦萊莉婭	請多指教，艾絲緹。
+TalkEvent_06_007ID	18	Heidi	ハイディ	おー、私らのこともご存じとは、やりますな	Heidi	Oh wow, she knows who we are too!	海蒂	哦，你居然还知道我们，消息真灵通啊。	海蒂	哦～妳認識我們啊，真不簡單。
+TalkEvent_06_007ID	19	Esty	エスティ	諜報活動も結構、得意なのよね。\n……それにしても	Esty	Well, I am quite well-versed in intelligence acquisition. But, I must say...	艾丝缇	我也很擅长谍报活动的。\n说起来……	艾絲緹	諜報工作也是我的專長。\n話說回來……
+TalkEvent_06_007ID	20	Esty	エスティ	聞いてた通り、みんな本当にかわいいわねー！　\n青春真っただ中、って感じ！	Esty	You all are exactly as adorable as I've heard! Right in the prime of your youths.	艾丝缇	你们果然跟我听说的一样可爱！\n正是青春洋溢的年纪！	艾絲緹	如同傳聞所言，大家都好可愛呀～！\n散發出一種正值青春年華的氣息呢！
+TalkEvent_06_007ID	21	Resna	レスナ	せ、青春かどうかは分かりませんが、\n日々精進を重ねているところです！	Resna	N-Not quite sure if we're in the prime of our youths, but we're definitely devoted to moving forward each and every day.	蕾斯娜	我、我也不清楚到底算不算是青春 ，\n但我每天都有在努力锻炼！	蕾斯娜	雖、雖然不曉得這算不算是青春，\n但我們每天都很努力！
+TalkEvent_06_007ID	22	Esty	エスティ	ふふ。気負いすぎると途中で疲れちゃうわよ？\n視野も狭くなっちゃうし。はい、深呼吸	Esty	Hehe. Don't wear yourself out getting all worked up. You'll lose sight of everything else, too. Okay, deep breaths.	艾丝缇	呵呵。气势太足很快就会累的，\n而且会让你的眼界变得狭窄。来，深呼吸。	艾絲緹	呵呵，別太勉強自己喔！\n要是累壞了，視野也會變得狹隘！來，深呼吸。
+TalkEvent_06_007ID	23	Resna	レスナ	はぁーっ。あ、私……ここに初めて訪れて、\n緊張していたのかもしれません	Resna	Haaahhh. Um. I'm probably just nervous about visiting here for the first time.	蕾斯娜	呼……啊，我还是头一次来这里……\n所以可能有些紧张。	蕾斯娜	呼～我是第一次來到這裡……\n或許有點過度緊張了。
+TalkEvent_06_007ID	24	Esty	エスティ	そっか。じゃあ、お姉さんの助言をときどきは\n思い出してね。努力もいいけど、余裕も大事よ	Esty	I see. Well, just try to keep this in mind: hard work is important, but so is staying calm.	艾丝缇	这样啊，那你要时常记着姐姐我的建议哦。\n努力是好事，但保持从容的心态也很重要。	艾絲緹	原來如此。那可別忘了來自大姊姊的忠告喔！\n努力是件好事，但適度放輕鬆也很重要。
+TalkEvent_06_007ID	25	Resna	レスナ	はいっ！	Resna	Yes, ma'am!	蕾斯娜	好的！	蕾斯娜	是！
+TalkEvent_06_007ID	26	Esty	エスティ	じゃないと……青春時代っていうのは\nあっという間に、過ぎ去っていくからね	Esty	Remember that, or else...you'll one day find that your youth passed you by.	艾丝缇	要是不这么做……\n青春可是会转瞬即逝的。	艾絲緹	否則……所謂的青春時代，\n一眨眼就過去了呢。
+TalkEvent_06_007ID	27	Resna	レスナ	はいっ……えっ！？	Resna	Okay... Wait, what?	蕾斯娜	好的……咦？！	蕾斯娜	是……咦！？
+TalkEvent_06_007ID	28	Esty	エスティ	なーんて、冗談よ！\nじゃあ私はそろそろ行くわね	Esty	Haha, just kidding! All right, I think I'll be on my way now.	艾丝缇	我开玩笑的啦！\n好了，我该走了。	艾絲緹	開玩笑的！\n我差不多該走了。
+TalkEvent_06_007ID	29	Resna	レスナ	あっ、ええと、ご指導ありがとうございました！	Resna	Oh, um. Thank you for the advice!	蕾斯娜	啊……嗯，感谢你的建议！	蕾斯娜	啊，還有，謝謝妳的建議！
+TalkEvent_06_007ID	30	Esty	エスティ	そうだ。ここの奥地には危険な魔物もいるから、\n準備はしっかりね。それじゃ！	Esty	By the way, there are dangerous monsters lurking in the wilderness's depths, just beyond here. Be sure to prepare yourselves well. All right, see you around!	艾丝缇	对了，这片原野深处也有危险的魔物，\n你们要做好准备哦，再见！	艾絲緹	對了，這裡的深處也有危險的魔物，\n記得事先做好準備。再見！
+TalkEvent_06_007ID	31	Resna	レスナ	エスティさん、素敵な人だったなぁ。\n強くて綺麗で、でも気さくに話しかけてくれて	Resna	Esty... what a wonderful person. Strong and beautiful, yet open and friendly.	蕾斯娜	艾丝缇小姐好厉害啊。\n强大又美丽，跟我们聊天又那么亲切。	蕾斯娜	艾絲緹小姐真是個好人。\n不但長得美，實力又很堅強，聊起天時也相當平易近人。
+TalkEvent_06_007ID	32	Resna	レスナ	私もあんな風に素敵な大人の女性になりたいなぁ	Resna	I want to become a woman like her.	蕾斯娜	我也好想变成像她那样的成熟女性啊。	蕾斯娜	我也好想成為像她一樣出色的成熟女性。
+TalkEvent_06_007ID	33	Valeria	ヴァレリア	そういえば、マリオンも仕事ができる人って感じよね。\nザスキアも、そんな感じかしら？	Valeria	That reminds me, Marion is a talented worker, too. I wonder if Saskia's the same.	瓦莱莉娅	说起来，玛丽翁看起来也很能干呢。\n萨丝琪亚也像她们一样吗？	瓦萊莉婭	這麼一說，瑪麗翁似乎也是個能幹的人呢。\n薩絲琪亞她也是如此嗎？
+TalkEvent_06_007ID	34	Resna	レスナ	師匠……いや、師匠は……うーん……	Resna	Miss Saskia... She's... Hmm.	蕾斯娜	师父啊……师父不一样……唔……	蕾斯娜	師父……不，師父她……唔……
+TalkEvent_06_007ID	35	Valeria	ヴァレリア	どしたの、レスナ。\n急に眉間にしわが寄ったけど	Valeria	What's wrong? Why are you frowning like that?	瓦莱莉娅	怎么了，蕾斯娜？\n好好的怎么突然皱起眉头了？	瓦萊莉婭	蕾斯娜，怎麼啦？\n為什麼突然皺起了眉頭呢？
+TalkEvent_06_007ID	36	Resna	レスナ	師匠もすごい人ではあるんだけど、\n憧れの大人の女性かと言われると……？	Resna	Miss Saskia is a wonderful person, too. But to describe her as a woman I admire...	蕾斯娜	虽然师父也很厉害，\n但如果问我她是不是那种会让人憧憬的成熟女性……	蕾斯娜	雖然師父也很厲害，\n但她應該不算是我憧憬的成熟女性類型……？
+TalkEvent_06_007ID	37	Resna	レスナ	いつの間にか散らかってて、私が部屋を片付けたり、\nときどきだけど、ものすごく抜けてたり……	Resna	Things get messy very quickly, and then I have to straighten them up. And every now and then, she gets extremely absentminded.	蕾斯娜	我会想起她把房间弄得一团糟留给我收拾，\n还有她偶尔马虎闯大祸的行径……	蕾斯娜	因為房間經常亂糟糟的，我會幫她收拾房間。\n偶爾又非常糊塗……
+TalkEvent_06_007ID	38	Heidi	ハイディ	へー、人は見かけによらないんだねぇ	Heidi	Wow, really? Guess you can't judge people by their appearance.	海蒂	这样啊，看来人不可貌相。	海蒂	咦～真是人不可貌相。
+TalkEvent_06_007ID	39	Resna	レスナ	はぁ……そうなんです	Resna	*Sigh* No, you really can't.	蕾斯娜	唉……是这样的。	蕾斯娜	唉……就是說啊。
+TalkEvent_06_007ID	40	Esty Dee	エスティ・エアハルト	マリオンと共に異邦人の調査をしている女性。\n人当たりがよく、おしゃべりが大好き	Esty Dee	A woman investigating wanderers together with Marion. She's very friendly and enjoys chatting.	艾丝缇·爱哈德	跟玛丽翁一起调查异乡人的女性。\n待人亲切，很爱聊天。	艾絲緹‧愛哈德	與瑪麗翁一同調查異邦人的女性。\n待人親切，熱愛聊天。
+TalkEvent_06_008ID	0	Izana	イザナ	やああああっ！	Izana	Hi-yahhhhhh!	伊札娜	哈——！	伊札娜	喝啊啊啊啊！
+TalkEvent_06_008ID	1	Izana	イザナ	ふーっ。よしっ！	Izana	Whew. Perfect!	伊札娜	呼，搞定！	伊札娜	呼～好極了！
+TalkEvent_06_008ID	2	Resna	レスナ	イザナちゃんのさっきの一撃……ううん、\n今日のハンマーさばきは全部、気迫がこもってるね	Resna	That last strike of yours, Izana... No, all of your hammer work today was really intense.	蕾斯娜	伊札娜刚才那一击……\n不，今天每次挥舞锤子都充满气势呢。	蕾斯娜	伊札娜剛才那一擊……不，\n今天揮舞錘子的動作都氣勢驚人呢。
+TalkEvent_06_008ID	3	Resna	レスナ	何かあったの、イザナちゃん？\nここに来た時もすごく張り切ってたし	Resna	Is something going on? You've been fired up ever since we got here.	蕾斯娜	是发生了什么事吗，伊札娜？\n刚来到这里的时候你好像也憋足了劲。	蕾斯娜	伊札娜，是不是發生了什麼事？\n妳來到這裡的時候也充滿了鬥志。
+TalkEvent_06_008ID	4	Izana	イザナ	理由なんて、ないよ。\nとにかく頑張ろうって思ってるだけ！	Izana	No, nothing really. I just want to give it my best!	伊札娜	没什么理由。我现在一心只想努力！	伊札娜	沒有什麼特別的理由。\n我只是想好好努力而已！
+TalkEvent_06_008ID	5	Resna	レスナ	そ、そっか。私も負けないように頑張らなくちゃね！	Resna	O-Okay. I better do my best too so that we don't get defeated.	蕾斯娜	这、这样啊。那我也要努力，不能输给你！	蕾斯娜	原、原來如此。為了不要輸，我也得好好努力才行！
+TalkEvent_06_008ID	6	Valeria	ヴァレリア	おかえり、ハイディ。\nそれらしい泉は見つかった？	Valeria	Welcome back, Heidi. Any signs of the springs?	瓦莱莉娅	海蒂，你回来啦。\n找到那眼泉水了吗？	瓦萊莉婭	歡迎回來，海蒂。\n發現類似的湧泉了嗎？
+TalkEvent_06_008ID	7	Heidi	ハイディ	んーん、成果なし。\nそれより、ちょうど見えたんだけどさ	Heidi	Nuh-uh, no luck. But more importantly, there's something I realized.	海蒂	没有，毫无收获。\n不过我刚才正好看到了……	海蒂	唔～一無所獲。\n比起這個，我正好看到剛才那一幕了。
+TalkEvent_06_008ID	8	Heidi	ハイディ	魔物を無事に倒せたのはよかったけど、あの\n相手ならそもそも戦闘を避けられたんじゃない？	Heidi	It's great that we managed to beat those monsters, but we could have simply avoided battling that last one.	海蒂	你们能顺利打倒魔物是好，不过对付那种对手\n不一定要正面战斗，也可以选择回避吧 ？	海蒂	順利打倒魔物是好事，\n但那種對手應該也可以直接避開吧？
+TalkEvent_06_008ID	9	Resna	レスナ	そういう選択肢もありですね	Resna	Yeah, I guess that was an option.	蕾斯娜	确实，这个方法也可以。	蕾斯娜	這也是一種選擇。
+TalkEvent_06_008ID	10	Heidi	ハイディ	翡翠の煌水が採れる泉まで、どれくらいかかるか\n分からないし。できるだけ体力温存しとこうよ	Heidi	We have no idea how long it'll take us to reach the springs that have the Jade Water we need, so we should try to conserve our energy as much as possible.	海蒂	毕竟我们不知要花多长时间才能找到采集到翡翠煌水的泉水，\n在那之前要尽量留存体力才是。	海蒂	畢竟不知道得花多少時間才能取得翡翠煌水，\n我們得儘量保留體力。
+TalkEvent_06_008ID	11	Izana	イザナ	で、でも……	Izana	But...	伊札娜	可、可是……	伊札娜	可、可是……
+TalkEvent_06_008ID	12	Valeria	ヴァレリア	倒したほうが安全なのは間違いないでしょ。\n相棒はね、ちょっと慎重がすぎるのよ	Valeria	Defeating the monsters is definitely a safer bet. My partner's just a bit too cautious.	瓦莱莉娅	打倒它们确实更安全吧，\n我的搭档只是有些慎重过头了。	瓦萊莉婭	先解決魔物絕對比較安全吧？\n搭檔妳未免也太慎重了。
+TalkEvent_06_008ID	13	Heidi	ハイディ	突撃がすぎる人には言われたくないねー	Heidi	Says the person always charging headfirst into battle!	海蒂	真不想被只知道横冲直撞的人这么说——	海蒂	我才不想被橫衝直撞的人這麼說呢～
+TalkEvent_06_008ID	14	Valeria	ヴァレリア	この先にはさらに強敵がいるって話なんだから、\n警戒は怠らないようにしましょ	Valeria	There are apparently even stronger monsters up ahead, so we need to stay on guard.	瓦莱莉娅	既然前方还有更强的敌人，\n那就不能放松警惕。	瓦萊莉婭	也許會在前方遇見其他強敵，\n別大意了。
+TalkEvent_06_008ID	15	Izana	イザナ	うんうん！　気合入れて行こう！	Izana	Yeah! Let's give it our all!	伊札娜	嗯！打起精神上吧！	伊札娜	好！拿出幹勁向前衝吧！
+TalkEvent_06_008ID	16	Heidi	ハイディ	まぁ……程々にね？	Heidi	Let's not overdo it.	海蒂	好吧……要掌握好分寸啊。	海蒂	嗯……有時候要適可而止喔？
+TalkEvent_06_009ID	0	Resna	レスナ	やっと終わった……苦労しましたね	Resna	Finally, we beat them. That was a tough fight.	蕾斯娜	总算是结束了……费了好大劲啊。	蕾斯娜	終於結束了……真是難纏。
+TalkEvent_06_009ID	1	Valeria	ヴァレリア	エスティが言ってた通り、\nこのへんは強い魔物がやたらと出るわね	Valeria	Esty wasn't joking. This area is crawling with strong monsters.	瓦莱莉娅	艾丝缇说得没错，\n这附近遇到强大魔物的频率相当高。	瓦萊莉婭	如艾絲緹所言，\n這一帶有很多強悍的魔物呢。
+TalkEvent_06_009ID	2	Resna	レスナ	このまま進むのは危うきことかと	Resna	I think it's much too dangerous for us to keep going.	蕾斯娜	继续前进或许会很危险。	蕾斯娜	就這樣繼續往前走可能會遇上危險。
+TalkEvent_06_009ID	3	Heidi	ハイディ	同感。頭数をあと一人二人は増やしたいね	Heidi	I agree. We might need to add one or two more to our headcount.	海蒂	我也这么觉得，要是能再多一两个人手就好了。	海蒂	沒錯。真希望能再增加一兩個人。
+TalkEvent_06_009ID	4	Resna	レスナ	あ。今なら飴も使えるみたい。\n王都に戻って、協力してくれる人を探してみよう	Resna	Oh, it looks like we can use the candy now. Why don't we go back to the capital and find someone who can help?	蕾斯娜	啊，现在好像也能用糖了。\n我们回王都去找帮手吧。	蕾斯娜	啊，現在好像可以使用糖果呢！\n我們先回王都一趟，尋找能夠幫助我們的人吧！
+TalkEvent_06_009ID	5	Resna	レスナ	カフェで、どなたか先輩方に会えるかな？\nでも、皆さん忙しいかもしれないし……	Resna	Maybe we'll run into some great alchemists at the cafe! But then again, they'll probably be busy.	蕾斯娜	不知道在咖啡厅能碰到哪位前辈？\n不过大家也可能都有事要忙……	蕾斯娜	能在咖啡廳見到前輩們嗎？\n不過，也許大家都很忙……
+TalkEvent_06_009ID	6	Izana	イザナ	ごめんね、レスナちゃん	Izana	Resna, I'm sorry.	伊札娜	对不起，蕾斯娜。	伊札娜	抱歉，蕾斯娜。
+TalkEvent_06_009ID	7	Resna	レスナ	えっ？　ど、どうしたのイザナちゃん。\n急に「ごめん」だなんて	Resna	Huh? What's wrong, Izana? Why are you apologizing all of sudden?	蕾斯娜	咦？怎、怎么了，伊札娜？\n怎么突然道歉呀？	蕾斯娜	咦？怎、怎麼了，伊札娜？\n為何突然開始道歉？
+TalkEvent_06_009ID	8	Izana	イザナ	アタシがもっと強ければ……余裕をもって敵を\n倒せていれば、戻る必要なんてなかったのに	Izana	If only I were stronger and better at defeating enemies, we wouldn't need to go back.	伊札娜	如果我比现在更强…… 能轻松打倒敌人的话，\n就没必要再回去一趟了。	伊札娜	如果我更厲害一點……如果我能輕鬆打倒敵人，\n就不必特地回去一趟了。
+TalkEvent_06_009ID	9	Resna	レスナ	イザナちゃん……。\nそれを言うなら、私だって	Resna	Izana, I'm the one who should be apologizing.	蕾斯娜	伊札娜……\n要是这么说的话，我也一样呀。	蕾斯娜	伊札娜……\n這樣的話，我其實也差不多……
+TalkEvent_06_009ID	10	Resna	レスナ	もっと強力な道具を調合できていたら。\nもっと知識があったら……ごめんね、イザナちゃん	Resna	If only I could synthesize stronger items... If only I had more knowledge... Izana, I'm sorry.	蕾斯娜	如果我能调合更强大的道具，\n如果我有更丰富的知识……对不起，伊札娜。	蕾斯娜	要是我能調合出更強力的道具，\n要是我擁有更多知識……伊札娜，對不起。
+TalkEvent_06_009ID	11	Izana	イザナ	そんな！　レスナちゃんは目標に向かって\n精一杯、頑張ってるよ！	Izana	What? Resna, you're working so hard to achieve your goal.	伊札娜	别道歉啊！\n蕾斯娜明明在全力以赴追逐目标呢！	伊札娜	別這麼說！\n為了達成目標，蕾斯娜已經很努力了！
+TalkEvent_06_009ID	12	Izana	イザナ	レスナちゃんはぜんぜん悪くない！　謝らないで！	Izana	You didn't do anything wrong! You don't need to apologize.	伊札娜	蕾斯娜完全没有错！别道歉！	伊札娜	蕾斯娜完全沒有錯！不需要道歉！
+TalkEvent_06_009ID	13	Resna	レスナ	イザナちゃんこそ、謝ったりしないで！\n一生懸命戦ってくれて、私はすごく助かって……	Resna	You shouldn't apologize either, Izana. The way you've poured your heart into fighting has helped me so many times.	蕾斯娜	伊札娜才是，别道歉！\n你这么拼命地战斗，帮了我许多……	蕾斯娜	伊札娜才不該道歉！\n妳總是用盡全力戰鬥，幫了我很多忙……
+TalkEvent_06_009ID	14	Izana	イザナ	レスナちゃん……	Izana	Resna...	伊札娜	蕾斯娜……	伊札娜	蕾斯娜……
+TalkEvent_06_009ID	15	Resna	レスナ	イザナちゃん……	Resna	Izana...	蕾斯娜	伊札娜……	蕾斯娜	伊札娜……
+TalkEvent_06_009ID	16	Heidi	ハイディ	おーい、お二人さん。\nそろそろ移動しないかーい？	Heidi	Come on, you two. Let's get moving, shall we?	海蒂	我说两位，\n差不多该走了吧？	海蒂	喂～妳們兩個。\n差不多該移動了吧～？
+TalkEvent_06_009ID	17	Resna	レスナ	す、すみません！　今行きます！	Resna	Oh! Sorry! We're coming!	蕾斯娜	对、对不起！这就来！	蕾斯娜	不、不好意思！我立刻過去！
+TalkEvent_06_009ID	18	Resna	レスナ	とにかくイザナちゃんは心配しないで！\n私、きっと強力な助っ人を迎えてみせるから！	Resna	Anyway, don't worry, Izana. I'm sure I can find someone strong to help us out.	蕾斯娜	总之，伊札娜你别担心！\n我一定会请来厉害的帮手！	蕾斯娜	總之，伊札娜妳別擔心！\n我絕對會找來厲害的幫手！
+TalkEvent_06_009ID	19	Resna	レスナ	一生懸命私たちのやりたいことを伝えて\nお願いすれば、必ず協力してくれる人はいるよ	Resna	If we do our best to explain what we're after, I'm certain someone will lend a hand.	蕾斯娜	只要尽力说明我们想做的事、诚心求助，\n肯定会有人愿意帮我们的！	蕾斯娜	只要清楚說明我們的目的並展現誠意，\n一定會遇見願意伸出援手的人。
+TalkEvent_06_009ID	20	Izana	イザナ	そうだね。レスナちゃんなら、\n協力してくれる人を見つけられると思う	Izana	Okay. I know we trust you to find someone to help us out.	伊札娜	也对，相信蕾斯娜一定能找到帮手。	伊札娜	說得也是。\n我相信蕾斯娜絕對找得到願意協助的人。
+TalkEvent_06_009ID	21	Resna	レスナ	ありがとう、イザナちゃん。\nじゃあ早速、王都に戻ろう	Resna	Thanks, Izana. All right, let's go back to the capital.	蕾斯娜	谢谢你，伊札娜。\n那我们就赶快回王都吧。	蕾斯娜	謝謝妳，伊札娜。\n那我們快點回去王都吧。
+TalkEvent_06_009ID	22	Izana	イザナ	うん……	Izana	Okay.	伊札娜	嗯……	伊札娜	嗯……
+TalkEvent_06_010ID	0	Resna	レスナ	クラウディアさん！\n今日はカフェにいらしてたんですね	Resna	Klaudia! I didn't know you'd be here at the cafe today.	蕾斯娜	科洛蒂娅小姐！\n你今天来咖啡厅啦！	蕾斯娜	科洛蒂婭小姐！\n妳今天來咖啡廳了呀。
+TalkEvent_06_010ID	1	Klaudia	クラウディア	ええ、ちょっと時間ができたから、\nライザの手伝いをしようと思って	Klaudia	Oh, yes, I had some extra time, so I thought I'd lend Ryza a hand.	科洛蒂娅	嗯，我稍微腾出了点时间来，\n想帮帮莱莎。	科洛蒂婭	對，正好有點空檔，\n於是打算來這裡協助萊莎。
+TalkEvent_06_010ID	2	Resna	レスナ	そうだったんですね。\n師匠のほうは、依頼でも探しに来たんですか？	Resna	Oh, I see. What about you, Miss Saskia? Are you here in search of a request?	蕾斯娜	这样啊。\n师父呢，你是来接委托的吗？	蕾斯娜	原來如此。\n師父是來尋找委託的嗎？
+TalkEvent_06_010ID	3	Saskia	ザスキア	私は違うわ。依頼を探しているのは、こっちの子	Saskia	I can't say I am, but this young lady right here is.	萨丝琪亚	不是。这个女孩倒是来接委托的。	薩絲琪亞	不。來尋找委託的是這孩子。
+TalkEvent_06_010ID	4	Saskia	ザスキア	旅先で出会った、リラよ	Saskia	This is Lila. I met her during my travels.	萨丝琪亚	她是我在旅途中遇到的，叫莉拉。	薩絲琪亞	我和莉拉是在旅行時遇見的。
+TalkEvent_06_010ID	5	Saskia	ザスキア	戦闘が得意そうな顔をしてたから、\n王都まで護衛してちょうだいってお願いしたの	Saskia	She looked to be quite the capable fighter, so I asked her to escort me on my way to the capital.	萨丝琪亚	我看她一副擅长战斗的样子，\n所以拜托她护送我去王都。	薩絲琪亞	她看起來很擅長戰鬥，\n所以我拜託她護送我到王都。
+TalkEvent_06_010ID	6	Resna	レスナ	ま、また師匠はそういう無茶なことを……	Resna	Miss Saskia... You always make such unreasonable requests.	蕾斯娜	师、师父你又乱来了……	蕾斯娜	師、師父妳又在亂來了……
+TalkEvent_06_010ID	7	Lila	リラ	リラ・ディザイアスだ。「師匠」ということは、\nザスキアの弟子というのはお前か	Lila	"Hello, I'm Lila Decyrus. ""Miss"" Saskia? You must be Saskia's pupil."	莉拉	我是莉拉·德西亚斯。我听到你叫萨丝琪亚“师父”，\n那你一定就是她的徒弟吧。	莉拉	我是莉拉‧德西亞斯。因為妳稱呼她為「師父」，\n所以妳是薩絲琪亞的弟子？
+TalkEvent_06_010ID	8	Resna	レスナ	はい、レスナ・シュテルネンリヒトです。\nうちの師匠が、大変お世話になりました	Resna	Yes, I'm Resna Sternenlicht. Thank you for looking after my teacher.	蕾斯娜	是的，我叫蕾斯娜·修特涅利希特。\n谢谢你照顾我的师父。	蕾斯娜	是的，我叫做蕾斯娜‧修特涅利希特。\n我的師父承蒙妳費心照顧了。
+TalkEvent_06_010ID	9	Klaudia	クラウディア	レスナさん。リラさんはね、\n私たちと同じ世界から来たんですよ	Klaudia	Resna, Lila is from the same world we are.	科洛蒂娅	蕾斯娜小姐，\n莉拉小姐跟我们来自同一个世界哦。	科洛蒂婭	蕾斯娜小姐。莉拉小姐她呀～\n跟我們來自同一個世界喔！
+TalkEvent_06_010ID	10	Resna	レスナ	えっ！　そうなんですか！？	Resna	Oh! She is?!	蕾斯娜	咦！是吗？！	蕾斯娜	咦！真的嗎！？
+TalkEvent_06_010ID	11	Ryza	ライザ	一緒に色んな冒険もしたんだよ。\n今は別行動で、頂獣の調査をしているんだけど	Ryza	Yeah, we've gone on quite a few adventures together. But right now, we've split up to research Apexi.	莱莎	我们一起经历过各式各样的冒险。\n现在正在分头行动调查顶兽。	萊莎	我們跟她一起去過很多地方冒險喔。\n不過目前我們分頭行動，她正在調查頂獸的事情。
+TalkEvent_06_010ID	12	Ryza	ライザ	ところで、ハイネ州の依頼はもう終わったんだ？\nすっごい早かったね！	Ryza	By the way, did you already finish the Haine request? That sure was fast!	莱莎	对了，你们在海涅州的委托已经完成了吗？\n好快啊！	萊莎	對了，妳完成海涅州的委託了？\n真快！
+TalkEvent_06_010ID	13	Resna	レスナ	うっ。じ、実はまだ終わってなくて。\nどなたか助っ人を頼みに戻ってきたところなんです	Resna	Um, actually, not yet... We just came back to find someone to provide some extra backup.	蕾斯娜	唔，其、其实还没结束。\n我们回来是想找帮手。	蕾斯娜	嗚，其、其實委託還沒完成……\n我是回來找人幫忙的。
+TalkEvent_06_010ID	14	Valeria	ヴァレリア	魔物の数がとにかく多くて、素材探しも\nおちおちしてらんないのよねー	Valeria	It's just not possible for us to search for materials with so many monsters around.	瓦莱莉娅	因为那边魔物的数量太多了，\n没法安心寻找素材。	瓦萊莉婭	魔物數量太多了，\n我們實在無法放心尋找素材啊～
+TalkEvent_06_010ID	15	Saskia	ザスキア	あらあら。あなたがそう言うなら、\nよほど苦戦してるのね	Saskia	Oh dear. Sounds like you girls are really struggling.	萨丝琪亚	哎呀，连你都这么说，\n可见任务真的十分辛苦啊。	薩絲琪亞	哎呀，連妳都這麼說了，\n看來是陷入了一番苦戰呢。
+TalkEvent_06_010ID	16	Ryza	ライザ	そうなんだ？　ふっふっふ。そういうことなら\nレスナはちょうどいい時にカフェに来たよ	Ryza	Heh heh heh. In that case, you've come to the cafe at just the right time.	莱莎	这样啊？呵呵，既然如此，\n蕾斯娜，你来咖啡厅来得正是时候。	萊莎	這樣啊？呵呵，\n那蕾斯娜妳來咖啡廳的時機正好。
+TalkEvent_06_010ID	17	Ryza	ライザ	みんなが探している助っ人は、\n今まさに目の前にいるからね！	Ryza	The backup you're looking for is standing right in front of you!	莱莎	因为你们正在寻找的帮手就在眼前！	萊莎	因為你們要找的幫手，\n現在就在妳們的面前啊！
+TalkEvent_06_010ID	18	Resna	レスナ	も、もしかして、ライザ先輩、\n一緒に来てくださるんですかっ？	Resna	Y-You mean you'll come with us?!	蕾斯娜	难、难道说莱莎前辈愿意跟我们一起来吗？	蕾斯娜	難、難道……萊莎前輩，\n妳願意和我們一起去嗎？
+TalkEvent_06_010ID	19	Ryza	ライザ	うん！　この間は一緒に行けなかったけど、\n今なら時間が作れそうなんだ！	Ryza	Yep! I couldn't before, but I think I have some time now!	莱莎	嗯！上次没能跟你们一起去，\n不过现在我能抽出时间来！	萊莎	嗯！雖然前陣子我沒能參加，\n但現在應該能空出時間了！
+TalkEvent_06_010ID	20	Klaudia	クラウディア	もちろん、私も一緒に行くよ。\nライザ共々、しばらくよろしくね、レスナさん	Klaudia	And that means I'm going too. Both Ryza and I are excited to be part of the team.	科洛蒂娅	当然，我也会一起去。\n我和莱莎要请你多关照啦，蕾斯娜小姐。	科洛蒂婭	當然，我也會一起去。\n蕾斯娜小姐，這段期間還請妳多多關照我和萊莎了。
+TalkEvent_06_010ID	21	Resna	レスナ	ライザ先輩にクラウディアさんも！\nわぁ、なんという僥倖！　星の導きに感謝を！	Resna	Both Ryza and Klaudia?! Wow, what luck! Thank the stars!	蕾斯娜	莱莎前辈和科洛蒂娅小姐都愿意帮忙！\n哇，运气太好了！感谢群星的指引！	蕾斯娜	萊莎前輩和科洛蒂婭小姐居然都願意來！\n哇～真是太幸運了！感謝星之導引！
+TalkEvent_06_010ID	22	Saskia	ザスキア	そういうことなら、リラもちょうどよかったんじゃ\nない？　次の依頼、レスナの護衛っていうのはどう？	Saskia	Wait, wouldn't Lila be perfect, too? Lila, how would you like to protect Resna on our next request?	萨丝琪亚	莉拉你呢，要不要也跟着一起去？\n下一个委托就来护送蕾斯娜吧？	薩絲琪亞	這麼一說，莉拉不也正好有空嗎？\n要不要來當蕾斯娜的護衛？
+TalkEvent_06_010ID	23	Resna	レスナ	あ、あの！　もしよければお願いできませんか？\n実は今、とある依頼を受けていまして……	Resna	Oh, right! Um, if we may, we'd like to request your assistance. You see, we've received this request...	蕾斯娜	请、请问！方便的话可以拜托你吗？\n其实我们接受了一个委托……	蕾斯娜	那、那個！如果可以，能麻煩妳嗎？\n其實，我目前正在進行一項委託……
+TalkEvent_06_010ID	24	Lila	リラ	事情は分かった。\n頂獣の調査と並行でいいなら護衛に加わろう	Lila	I understand the situation. I'll join and protect you, so long as I can continue my Apexi research along the way.	莉拉	我明白了。\n如果可以跟顶兽调查同时进行，那我可以担任你的护卫。	莉拉	明白了。如果能與頂獸調查同時進行，\n我就加入護衛行列吧！
+TalkEvent_06_010ID	25	Resna	レスナ	ありがとうございます！\nリラさん、これからよろしくお願いしますね！	Resna	Thank you so much! We're thrilled to have you on board, Miss Lila!	蕾斯娜	太感谢了！\n莉拉小姐，之后就拜托你了！	蕾斯娜	謝謝妳！\n莉拉小姐，接下來還請多多指教了！
+TalkEvent_06_010ID	26	Resna	レスナ	よかったぁ。皆さんがいれば、翡翠の煌水探しも\n今よりぐんと捗りそうです	Resna	This worked out great. With everyone here, I'm sure our search for Jade Water will go much more smoothly.	蕾斯娜	这下就放心了。只要有各位在，\n寻找翡翠煌水的事一定会有进展！	蕾斯娜	太好了～有大家的協助，\n應該能加快尋找翡翠煌水的速度。
+TalkEvent_06_010ID	27	Klaudia	クラウディア	私も、また一緒に冒険できて嬉しいです	Klaudia	Yes. I'm really glad I'm able to join you all for another adventure too.	科洛蒂娅	我也很高兴又能跟你们一起冒险了。	科洛蒂婭	我也很開心能再度一起冒險。
+TalkEvent_06_010ID	28	Saskia	ザスキア	私は次の予定があるから同行はできないけど、\nリラの戦闘能力は本当に大したものよ	Saskia	I have other plans, so I'm afraid I won't be accompanying you. However, Lila's combat abilities are truly remarkable.	萨丝琪亚	我接下来还有事，所以不能跟你们一起去，\n不过莉拉的战斗能力非常高强。	薩絲琪亞	雖然我因為之後還有行程，無法同行，\n不過莉拉的戰鬥能力真的很強喔。
+TalkEvent_06_010ID	29	Saskia	ザスキア	学ぶところも多いだろうし、\nきっと今後の手助けになるでしょうね	Saskia	There's a lot you can learn from her, and I'm certain she'll be a big help.	萨丝琪亚	而且她身上有很多值得你们学习的地方，\n肯定会为你们今后的冒险带来帮助。	薩絲琪亞	她身上有不少值得學習之處，\n這些對妳的未來肯定會有幫助。
+TalkEvent_06_010ID	30	Lila Decyrus	リラ・ディザイアス	冷静沈着な流浪の戦士。\n元の世界で、ライザたちと共に行動していたことがある	Lila Decyrus	A wandering warrior, calm and serene. She once worked with Ryza and company in her own world.	莉拉·德西亚斯	沉着冷静的流浪战士。\n在原来的世界和莱莎等人共同行动过。	莉拉‧德西亞斯	冷靜沉著的流浪戰士。\n在原本的世界，曾與萊莎等人一起行動。
+TalkEvent_06_011_00ID	0	Resna	レスナ	それじゃ、リラさんはライザ先輩やクラウディアさんの\n大先輩みたいなものなんですね！	Resna	Does that mean that Miss Lila is like a mentor to you and Klaudia, Ryza?	蕾斯娜	这么说莉拉小姐就像是\n莱莎前辈和科洛蒂娅小姐的大前辈一样吧！	蕾斯娜	那莉拉小姐就像\n萊莎前輩與科洛蒂婭小姐的大前輩呢！
+TalkEvent_06_011_00ID	1	Ryza	ライザ	そうなんだ。大先輩っていうか先生かな？\n幼馴染はリラさんに教わって強くなったしさ	Ryza	You could say that, but she's more like a teacher than a mentor. It's thanks to Lila's instruction that we've grown so strong.	莱莎	没错。与其说是大前辈，不如说是老师？\n我的发小就是跟莉拉小姐学习之后变强的。	萊莎	沒錯。但我覺得比起大前輩，她更像我們的老師？\n我的兒時玩伴也是經過莉拉小姐教導後變強的。
+TalkEvent_06_011_00ID	2	Lila	リラ	大げさだ。お前たちはいつも、\n自分の力で道を切り拓いてきただろう	Lila	I wouldn't go that far. You've each always been responsible for forging your own paths forward, haven't you?	莉拉	太夸张了，你们不是也一直在靠自己的力量\n开辟道路吗？	莉拉	過獎了。明明妳們一直都是\n靠自己的力量在開闢道路啊。
+TalkEvent_06_011_00ID	3	Klaudia	クラウディア	リラさんたちと出会えたことは、大きかったと思います	Klaudia	But you guys played a huge part in that, Lila.	科洛蒂娅	我觉得跟莉拉小姐一行相遇是个非常重要的契机。	科洛蒂婭	我覺得，遇到莉拉小姐妳們是件非常幸運的事。
+TalkEvent_06_011_00ID	4	Valeria	ヴァレリア	うんうん。リラは相当手練れっぽいし、\n大げさではないんじゃないかしら	Valeria	Yeah, you do seem pretty skilled. I doubt it's an exaggeration.	瓦莱莉娅	嗯嗯，莉拉做起事来相当老道，\n我不觉得刚才说的有夸张成分。	瓦萊莉婭	沒錯。莉拉妳的實力有目共睹，\n她肯定沒有誇大其辭。
+TalkEvent_06_011_00ID	5	Resna	レスナ	私もそう思うな。\nお師匠様に出会えるってすごい幸運だもん！	Resna	I agree. We're so lucky to have run into such a great teacher!	蕾斯娜	我也这么想。\n能遇见自己的师父是一件很幸运的事！	蕾斯娜	我也這麼認為。\n能夠與師父相遇，是件非常幸運的事！
+TalkEvent_06_011_00ID	6	Resna	レスナ	どうしたの、イザナちゃん？	Resna	Izana, what's wrong?	蕾斯娜	怎么了，伊札娜？	蕾斯娜	伊札娜，發生什麼事了？
+TalkEvent_06_011_00ID	7	Izana	イザナ	突然だけど……リラ、アタシと手合わせして！	Izana	I know this is sudden, but...would you spar with me, Lila?	伊札娜	我这样说可能很冒昧……但是莉拉，请和我切磋一下！	伊札娜	雖然很突然，不過……莉拉，請和我交手！
+TalkEvent_06_011_00ID	8	Lila	リラ	手合わせ？　ケガをしても知らんぞ？	Lila	Spar? I can't guarantee you won't get hurt.	莉拉	切磋？你要是受伤了，我可不管哦？	莉拉	交手？要是受傷了，我可不會負責喔？
+TalkEvent_06_011_00ID	9	Izana	イザナ	お願い！　アタシ、どうしても強くなりたいんだ！	Izana	Please! I really want to get stronger!	伊札娜	拜托了！我无论如何都要变强！	伊札娜	拜託妳了！我無論如何都想變強。
+TalkEvent_06_011_00ID	10	Lila	リラ	ま、いいだろう。では、夜にでも時間をとろう	Lila	Okay, fine. We can take some time to spar tonight.	莉拉	好吧，那到了晚上再抽时间切磋吧。	莉拉	嗯，好吧。那我們晚上來找個時間進行吧。
+TalkEvent_06_011_01ID	0	Izana	イザナ	はあ……はあ……	Izana	*Huff* *Huff*	伊札娜	呼……呼……	伊札娜	呼……呼……
+TalkEvent_06_011_01ID	1	Lila	リラ	このへんにしておくか？	Lila	Have you had enough?	莉拉	到此为止吧？	莉拉	要就此打住嗎？
+TalkEvent_06_011_01ID	2	Izana	イザナ	く……っ。まだまだぁっ！	Izana	Ugh... I'm not finished yet!	伊札娜	可恶……我还能打！	伊札娜	唔……還沒完呢！
+TalkEvent_06_011_01ID	3	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	4	Lila	リラ	　	Lila	　	莉拉	　	莉拉	　
+TalkEvent_06_011_01ID	5	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	6	Izana	イザナ	せいっ！	Izana	Urgh!	伊札娜	嘿！	伊札娜	喝！
+TalkEvent_06_011_01ID	7	Lila	リラ	　	Lila	　	莉拉	　	莉拉	　
+TalkEvent_06_011_01ID	8	Lila	リラ	　	Lila	　	莉拉	　	莉拉	　
+TalkEvent_06_011_01ID	9	Lila	リラ	どうした？　お前の距離だろう	Lila	What happened? I was in your range.	莉拉	怎么了？不是在你的攻击范围内吗？	莉拉	怎麼了？這是妳的距離吧？
+TalkEvent_06_011_01ID	10	Izana	イザナ	こんのー！！	Izana	Take this!	伊札娜	可恶！！	伊札娜	可惡──！！
+TalkEvent_06_011_01ID	11	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	12	Lila	リラ	　	Lila	　	莉拉	　	莉拉	　
+TalkEvent_06_011_01ID	13	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	14	Lila	リラ	がら空きだ	Lila	You're defenseless.	莉拉	破绽百出。	莉拉	破綻百出。
+TalkEvent_06_011_01ID	15	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	16	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	17	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	18	Izana	イザナ	うあー、負けた！	Izana	Ahhh! I lost!	伊札娜	呜哇，我输了！	伊札娜	嗚啊～我輸了！
+TalkEvent_06_011_01ID	19	Valeria	ヴァレリア	ほぉーっ！　すごいわね！	Valeria	Wow! That was amazing.	瓦莱莉娅	哦——！厉害啊！	瓦萊莉婭	哦～！真是厲害！
+TalkEvent_06_011_01ID	20	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_011_01ID	21	Lila	リラ	筋はいい。だが、無駄な動きが多いな	Lila	You have talent, but a lot of wasted movement.	莉拉	你的资质不错，但多余的动作太多了。	莉拉	妳很有天賦，但動作不夠乾淨俐落。
+TalkEvent_06_011_01ID	22	Izana	イザナ	いやぁ……あはは。ホントに手も足も出ないや。	Izana	Phew... Ahaha. I don't hold a candle to you.	伊札娜	哎呀……哈哈，我真是全无招架之力。	伊札娜	哎呀……啊哈哈，我真的束手無策。
+TalkEvent_06_011_01ID	23	Izana	イザナ	リラってすっごいなぁ！	Izana	You really are incredible!	伊札娜	莉拉好厉害啊！	伊札娜	莉拉好厲害喔～！
+TalkEvent_06_011_01ID	24	Lila	リラ	もっと実戦経験を積めばお前も強くなれる。	Lila	You too will grow stronger with more real combat experience.	莉拉	只要多多积累实战经验，你也能变强的。	莉拉	累積更多實戰經驗，妳也會變得更強。
+TalkEvent_06_011_01ID	25			諦めずに励むことだ		Just keep at it, and don't give up.		别放弃，多加努力。		別放棄，繼續努力吧。
+TalkEvent_06_011_01ID	26	Izana	イザナ	……あの、さ。	Izana	Right. Um...	伊札娜	其实……	伊札娜	那個……
+TalkEvent_06_011_01ID	27	Izana	イザナ	ちょっと、相談したいことがあるんだけど	Izana	I want to ask you for some advice.	伊札娜	我有点事想和你商量。	伊札娜	我有事想和妳商量一下。
+TalkEvent_06_011_01ID	28	Resna	レスナ	（イザナちゃん、なに話してるのかな？）	Resna	(I wonder what kind of advice Izana is asking for.)	蕾斯娜	（伊札娜和莉拉在聊什么呢？）	蕾斯娜	（伊札娜她們……在談什麼呢？）
+TalkEvent_06_012ID	0	Izana	イザナ	あのね、レスナちゃん！\nちょっといいかな？	Izana	Hey, Resna! Can I talk to you about something?	伊札娜	蕾斯娜！\n你现在方便吗？	伊札娜	蕾斯娜！\n我有事想告訴你，現在有空嗎？
+TalkEvent_06_012ID	1	Resna	レスナ	イザナ、ちゃん？	Resna	What is it?	蕾斯娜	伊札娜？	蕾斯娜	伊札娜……？
+TalkEvent_06_012ID	2	Izana	イザナ	実は、リラと話し合ってさ	Izana	Well, I was talking to Lila, and...	伊札娜	其实我刚才跟莉拉聊了聊。	伊札娜	其實，我剛才跟莉拉談過了。
+TalkEvent_06_012ID	3	Izana	イザナ	アタシ……決めたんだ。\nこの先には一緒に行かない、って	Izana	I've made up my mind. I won't be going with you for now.	伊札娜	然后……我做了个决定。\n接下来的路，我打算和你分开行动。	伊札娜	我……已經下定決心了。\n這趟旅程我不會再陪伴妳了。
+TalkEvent_06_012ID	4	Resna	レスナ	えっ？	Resna	What?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_06_012ID	5	Izana	イザナ	アタシ、ずっと、自分の力不足を感じてた	Izana	I've known all along that I'm just not strong enough.	伊札娜	我早就感觉到自己的实力不够。	伊札娜	我一直……覺得自己能力不足。
+TalkEvent_06_012ID	6	Izana	イザナ	ランツェさんに負けた時……ううん、\n本当の本当は、それよりも前からずっと	Izana	I realized when I lost to Lanze... No, in all honesty, I've known since long before then.	伊札娜	自从我输给兰泽先生……\n不，其实比那还要早得多。	伊札娜	自從輸給藍澤先生……不，\n在更久之前，我就已經這麼覺得了。
+TalkEvent_06_012ID	7	Izana	イザナ	だから、リラにきちんと戦い方を教わって、\nもっともっと強くなりたい！	Izana	I need Lila to teach me how to really fight so that I can truly become stronger.	伊札娜	所以我想向莉拉认真学习战斗的方法，\n变得更强！	伊札娜	所以，為了增強實力，\n我打算好好向莉拉學習戰鬥方法！
+TalkEvent_06_012ID	8	Resna	レスナ	イザナちゃん……	Resna	Izana...	蕾斯娜	伊札娜……	蕾斯娜	伊札娜……
+TalkEvent_06_012ID	9	Izana	イザナ	そのためには、中途半端な鍛え方じゃダメだと思う	Izana	I just know that anything less for training wouldn't be enough.	伊札娜	为了达到这个目标，三心二意地练习肯定是不够的。	伊札娜	因此，我認為半吊子的鍛鍊方法是不行的。
+TalkEvent_06_012ID	10	Izana	イザナ	だから……ちょっとだけ別行動するね。\nごめん、レスナちゃん	Izana	So... I'm going to split off on my own for a while. I'm sorry, Resna.	伊札娜	所以……我们稍微分开一段时间吧。\n对不起，蕾斯娜。	伊札娜	所以……我們暫時分頭行動吧。\n抱歉，蕾斯娜。
+TalkEvent_06_012ID	11	Resna	レスナ	イザナちゃんは、しっかり修行したいんだね。\n分かった！　じゃあ、修行が終わるまで待ってるよ！	Resna	You really are serious about training. Okay! I understand. I'll be waiting here until you finish!	蕾斯娜	伊札娜想要专心修行对吧。\n我明白了！那我就等到你结束修行为止！	蕾斯娜	伊札娜，妳想專心修行是吧？\n我明白了！那我會等妳，直到修行結束為止！
+TalkEvent_06_012ID	12	Resna	レスナ	だってほら、前に、置いていったりしないよって\n約束したでしょ？　だから――	Resna	I mean, I promised I'd never leave you behind, remember? So...	蕾斯娜	因为我们之前也约定过\n不会抛下对方对吧？所以——	蕾斯娜	因為我們約定好\n不會丟下彼此不管，所以──
+TalkEvent_06_012ID	13	Izana	イザナ	レスナちゃん、ハイネ州の人たちはきっと、\nレスナちゃんの帰りを今か今かと待ってるよ	Izana	Resna, everyone's probably counting down the moments until you return to Haine.	伊札娜	蕾斯娜，\n海涅州的人们肯定在焦急盼着你回去呢。	伊札娜	蕾斯娜，海涅州的人們\n肯定都在期盼妳回去。
+TalkEvent_06_012ID	14	Izana	イザナ	ここで無駄な時間を使っちゃダメ。錬金術は、\nみんなを幸せにするためのものなんだからさ	Izana	You can't waste time waiting here. Alchemy is supposed to make people happy.	伊札娜	你不能在这里浪费时间。\n因为炼金术应该是给大家带来幸福的力量。	伊札娜	所以妳不能在這裡浪費時間，\n因為鍊金術是為了帶給大家幸福而存在的。
+TalkEvent_06_012ID	15	Resna	レスナ	そうだけどっ！	Resna	I know, but...!	蕾斯娜	话是这么说没错，但是……！	蕾斯娜	話是這麼說沒錯！
+TalkEvent_06_012ID	16	Resna	レスナ	じゃ、じゃあ、この依頼が終わってから修行を\n始めるのはどうかな？　それならゆっくり……	Resna	O-Okay, then why don't you start training after we finish this request? And then you can take it easy...	蕾斯娜	要不、要不这样吧，等这个委托结束之后，\n你再开始修行好吗？这样就不用赶时间……	蕾斯娜	那、那要不要委託結束後再開始修行？\n這樣妳就能慢慢來……
+TalkEvent_06_012ID	17	Izana	イザナ	それはできないよ。\nごめんね。でも、もう決めたんだ	Izana	I just can't do that. I'm sorry, but I've already made up my mind.	伊札娜	我办不到。\n抱歉。但是这件事我已经决定了。	伊札娜	這我做不到。\n抱歉，我已經下定決心了。
+TalkEvent_06_012ID	18	Resna	レスナ	どうしてっ……イザナちゃんは、私の騎士でしょう？	Resna	But why? Izana, aren't you my knight?	蕾斯娜	为什么……伊札娜不是我的骑士吗？	蕾斯娜	為什麼……伊札娜，妳不是我的騎士嗎？
+TalkEvent_06_012ID	19	Resna	レスナ	騎士だったら、ちゃんとそばにいてよ！	Resna	You have to stick by my side if you're my knight!	蕾斯娜	如果是骑士，就该陪在我身边啊！	蕾斯娜	身為騎士，不是更應該好好待在我身邊嗎？
+TalkEvent_06_012ID	20	Izana	イザナ	騎士でいたいから、今はそばを離れなきゃダメなんだ	Izana	I want to be your knight. That's exactly why we have to part ways for now.	伊札娜	就是为了做你的骑士，我现在才要离开你身边。	伊札娜	正因為我想成為妳的騎士，現在才不得不離開妳身邊啊。
+TalkEvent_06_012ID	21	Izana	イザナ	アタシ、行くね	Izana	I have to go.	伊札娜	我先走了。	伊札娜	那我走了。
+TalkEvent_06_012ID	22	Lila	リラ	聞いての通り私はいったん抜ける。\nお前たち、後のことは任せたぞ	Lila	As she said, I'll be staying with her. The rest is up to you and the others.	莉拉	正如你们听到的那样，我要稍微离开一段时间。\n之后的事就交给你们了。	莉拉	如妳們所聽見的，我將暫時離隊。\n之後的事就交給妳們了。
+TalkEvent_06_012ID	23	Ryza	ライザ	う、うん	Ryza	...Okay.	莱莎	好、好的。	萊莎	唔、嗯。
+TalkEvent_06_013ID	0	Valeria	ヴァレリア	レスナ、いったんアトリエに戻る？	Valeria	Resna, should we go back to the atelier for a bit?	瓦莱莉娅	蕾斯娜，要回一趟炼金工房吗？	瓦萊莉婭	蕾斯娜，要不要回鍊金工房一趟？
+TalkEvent_06_013ID	1	Resna	レスナ	だ、大丈夫。\nだって今は、依頼を頑張らなくちゃいけないし	Resna	N-No, it's okay. Besides, we have a request to fulfill.	蕾斯娜	我、我没事。\n现在当务之急是努力完成委托嘛。	蕾斯娜	沒、沒關係。\n因為我現在得努力完成委託。
+TalkEvent_06_013ID	2	Resna	レスナ	……立ち止まってちゃ、ダメだから。\n子どもじゃないんだから、しっかりしないと	Resna	We can't just stop. We have to pull it together because we're not children.	蕾斯娜	……不能止步不前。\n我已经不是小孩子了，我要振作起来。	蕾斯娜	我……不能停下腳步。\n我已經不是小孩了，得振作一點才行。
+TalkEvent_06_013ID	3	Heidi	ハイディ	あーそうだ。しばらくは私もみんなと一緒に\n動くかな？　戦力が集中してたほうがいいっしょ\n	Heidi	Ah, right. I think I'd better stick with you all for the time being. Better to combine our strengths for combat.	海蒂	啊，对了。我也暂时跟大家一起行动吧？\n把能投入战斗的人集中在一块比较好。	海蒂	對了～那我也加入大家的行列吧！\n把戰力集中在一起應該會比較方便。
+TalkEvent_06_013ID	4	Valeria	ヴァレリア	助かるわ、ハイディ。ライザとクラウディアも\n加わるし、５人いれば魔物もどうにかなるわよ	Valeria	Thanks, Heidi. The five of us should be able to handle the monsters, especially with Ryza and Klaudia here, too.	瓦莱莉娅	那太好了，海蒂。加上莱莎和科洛蒂娅，\n有我们5个人足够对付魔物了。	瓦萊莉婭	謝啦！海蒂。包含萊莎和科洛蒂婭，\n我們現在有五個人，應該能處理魔物的問題。
+TalkEvent_06_013ID	5	Resna	レスナ	そ、それでは、これからの予定をお伝えしますね	Resna	R-Right, okay. Then let's go over our plans.	蕾斯娜	那、那么，我来说一下之后的计划。	蕾斯娜	那、那我來告訴各位之後的行程。
+TalkEvent_06_013ID	6	Resna	レスナ	こっちの沼地はすでに確認済みなんですが、こっちは\n強力な魔物がいたので、避けて調査していて……	Resna	We've finished checking the swamps over here, and we avoided this area with strong monsters during our previous investigations.	蕾斯娜	这边的沼泽地已经都确认过了，\n不过这边因为有强大的魔物，所以是边躲边调查的……	蕾斯娜	這裡的沼澤我們已經確認過了，但這邊有強大的魔物在，\n所以之前調查時只能避開……
+TalkEvent_06_013ID	7	Klaudia	クラウディア	聞いてはいたけど、大原野って本当に広大なんですね。\nレスナさんが苦戦してたのも分かります	Klaudia	I've heard that the Haine Wilderness is really huge. It's no wonder you had trouble, Resna.	科洛蒂娅	之前也听说了大原野很大，可没想到有这么大。\n我算是明白为什么蕾斯娜小姐会陷入苦战了。	科洛蒂婭	雖然早已有所耳聞，但大原野真的很遼闊呢。\n難怪蕾斯娜小姐會陷入苦戰。
+TalkEvent_06_013ID	8	Ryza	ライザ	頑張り甲斐があっていいじゃん。\nこういう時はしっかり準備しといたほうがいいかな	Ryza	Nothing wrong with having something worth the hard work. But times like these call for solid preparations.	莱莎	那才有努力的价值嘛，\n这种时候应该好好准备才是。	萊莎	但這裡非常值得調查，不是很棒嗎？\n為此，我們必須做好萬全的準備。
+TalkEvent_06_013ID	9	Valeria	ヴァレリア	準備？　お弁当はしっかり持ったわよね？	Valeria	What do we need to prepare? We've already packed our lunches, haven't we?	瓦莱莉娅	准备？我们应该有带便当吧？	瓦萊莉婭	準備？我們確實帶了便當啊？
+TalkEvent_06_013ID	10	Klaudia	クラウディア	食べ物のことだけじゃなくて、魔物と戦いながら\n泉を探し出すための準備、でしょうか	Klaudia	We should probably prepare more than just food. You know, like things we'll need to search for the springs while also fighting monsters.	科洛蒂娅	不是指食物，\n是指在对抗魔物的同时寻找泉水的准备吧？	科洛蒂婭	不只是食物，也得做好一邊與魔物戰鬥\n一邊尋找泉水的準備，不是嗎？
+TalkEvent_06_013ID	11	Heidi	ハイディ	まあ、人数が増えたとはいえ\n長期戦がしんどいことには変わりないしね	Heidi	Yeah, we may have more people now, but that doesn't make long battles any less tiresome.	海蒂	嗯，人数是增加了，\n但长线任务仍然是非常辛苦的。	海蒂	嗯，雖然我們的人數增加了，\n但長期戰依舊不輕鬆。
+TalkEvent_06_013ID	12	Resna	レスナ	念には念を入れて、ですね	Resna	It never hurts to be extra careful!	蕾斯娜	要做好万全的准备才行。	蕾斯娜	所以必須做好萬全的準備，對吧？
+TalkEvent_06_013ID	13	Ryza	ライザ	それならさ！　作って備えればいいんじゃない？	Ryza	You know what? Why don't we make the supplies we need?	莱莎	那先做点道具以防万一吧？	萊莎	既然如此！那要不要先做點物資備著？
+TalkEvent_06_013ID	14	Resna	レスナ	そうですね！　さすがライザ先輩です！	Resna	Oh yeah! Great idea, Ryza!	蕾斯娜	对呀！莱莎前辈想得好周到！	蕾斯娜	說得對！不愧是萊莎前輩！
+TalkEvent_06_013ID	15	Heidi	ハイディ	え、なになに？	Heidi	Huh? What do you mean?	海蒂	咦，要做什么？	海蒂	咦，什麼？
+TalkEvent_06_013ID	16	Resna	レスナ	回り道になりますが、素材を集めましょう！\n魔物と戦うのに役立つ薬を作るんです	Resna	It'll be a bit of a detour, but we should gather materials to make medicines that'll help us fight monsters!	蕾斯娜	我们准备稍微绕点路收集素材，\n制作一些有助于与魔物战斗的药剂。	蕾斯娜	雖然會繞點遠路，但我們來蒐集素材吧！\n製作與魔物戰鬥時可以用上的藥。
+TalkEvent_06_014ID	0	Klaudia	クラウディア	そういえば、ヴァレリアさんも錬金術が\n使えるんですよね	Klaudia	Oh, right, I forgot that Valeria could do alchemy.	科洛蒂娅	说起来，\n瓦莱莉娅小姐也会用炼金术吧？	科洛蒂婭	說到這個，\n瓦萊莉婭小姐應該也能使用鍊金術吧？
+TalkEvent_06_014ID	1	Heidi	ハイディ	私も見るたびにびっくりしてるんだよね	Heidi	I know, right? It amazes me every time I see it.	海蒂	我到现在每次看到还是会吓一跳呢。	海蒂	我也是每看到一次都會嚇一跳呢。
+TalkEvent_06_014ID	2	Heidi	ハイディ	それで、探索に役立つ薬って、どんなの作るの？	Heidi	So, what kind of medicines are we talking?	海蒂	那要做什么有助于探索的药剂？	海蒂	所以，對探索有幫助的藥是什麼呢？
+TalkEvent_06_014ID	3	Resna	レスナ	この前は、魔物の強さもさることながら、\n大原野の広さに苦労させられました	Resna	Well, we struggled with how strong the monsters were, but the sheer vastness of the wilderness was what was really grueling.	蕾斯娜	之前的难题除了对付强大的魔物，\n还有在广阔的大原野上奔波这件事。	蕾斯娜	之前，除了強大的魔物外，\n我們也為太過遼闊的大原野吃盡苦頭。
+TalkEvent_06_014ID	4	Resna	レスナ	長時間歩いて、その間に魔物とも戦って……\n想像以上に体力を消耗してしまったのが苦戦の原因です	Resna	We'd walk long stretches, fighting monsters along the way. It was more draining than we'd anticipated, and that's really what did us in.	蕾斯娜	在长时间行走的过程中，时不时与魔物战斗……\n体力消耗得比预想的要多，所以才导致了苦战。	蕾斯娜	一邊與魔物們戰鬥、一邊長途移動……\n體力消耗速度超乎想像，是我們陷入苦戰的原因。
+TalkEvent_06_014ID	5	Valeria	ヴァレリア	ん。そうね。強い魔物だって、そいつだけだったら\n多分倒せたわ	Valeria	Hmm, that's a good point. If we only had to deal with the monsters, we could probably handle it just fine.	瓦莱莉娅	嗯，也对。如果只需要讨伐魔物，\n就算是强大的家伙我们应该也是能打倒的。	瓦萊莉婭	嗯，沒錯。就算魔物很強，\n如果只需要對付一名敵人，應該不用花太多時間。
+TalkEvent_06_014ID	6	Resna	レスナ	そこで思い出したんです。\nハイディさんがお土産で持ってきてくれた果物のことを	Resna	Which reminds me, you know the fruit that Heidi brought back as a souvenir?	蕾斯娜	然后我想到了……\n海蒂小姐之前带给我们的水果。	蕾斯娜	於是我想起海蒂小姐\n曾帶給我當伴手禮的水果。
+TalkEvent_06_014ID	7	Heidi	ハイディ	ああ、あれがどうしたの？	Heidi	Oh yeah, what about it?	海蒂	哦，那个水果怎么了？	海蒂	哦，那個水果怎麼了嗎?
+TalkEvent_06_014ID	8	Resna	レスナ	滋養強壮に効果がある、というお話の通り、\n食べたらすごく元気が湧いてきたじゃないですか	Resna	Remember how energized we felt after eating it? It was nourishing and revitalizing, just like you said.	蕾斯娜	据说它有滋补效果，\n我们吃完之后果然浑身都有劲了。	蕾斯娜	妳說過它有滋養強身的效果，\n吃下後馬上就會精力充沛，對吧？
+TalkEvent_06_014ID	9	Heidi	ハイディ	確かに、食べたら疲れが吹っ飛んだよね。\n……って、そういうことか	Heidi	Now that you mention it, my fatigue really melted away after eating that fruit... Oh, I see what you're getting at!	海蒂	吃了那个水果之后疲劳确实一扫而空……\n啊，我明白你要做什么了。	海蒂	的確，吃下後疲勞一掃而空。\n哦……原來是這麼一回事。
+TalkEvent_06_014ID	10	Resna	レスナ	はい。疲れを忘れるくらい、元気が湧くようなものが\n作れれば、きっと大丈夫なはずです！	Resna	Exactly. All we need to do is make something that'll give us enough energy to forget how tired we are!	蕾斯娜	是的，只要能制作让人忘记疲劳、涌现力量的药剂，\n那肯定就没问题了！	蕾斯娜	沒錯，只要做出能讓人忘記疲憊、打起精神的東西，\n大概就沒問題了！
+TalkEvent_06_014ID	11	Heidi	ハイディ	そんなことできるの！？\nっていうか、それなんか身体に悪影響出るんじゃ……	Heidi	Is that really possible?! I mean, that sounds like it could be bad for your health.	海蒂	还能这样？！\n不对，这样会不会对身体有害啊……	海蒂	竟然能辦到這種事！？\n會不會對身體造成不良影響啊……
+TalkEvent_06_014ID	12	Resna	レスナ	いえ、そんなに危険なものは使わないので！\n効果が切れた後に疲れが一気に来るかもですけど……	Resna	Oh, no. We wouldn't use anything dangerous like that. The only thing is that the exhaustion might sink in as soon the effects wear off.	蕾斯娜	不会的，我不会用那种危险的素材！\n不过等失效了可能会突然变得特别累……	蕾斯娜	不，我不會使用那麼危險的東西！\n雖然效果結束後，疲勞感可能會一口氣湧現……
+TalkEvent_06_014ID	13	Ryza	ライザ	そんなの、その前に素材を見つけちゃえばいいんだよ。\nねえ、クラウディア	Ryza	Then we'll just need to find what we need before that happens. Right, Klaudia?	莱莎	那只要在那之前找到素材就好了。\n对吧，科洛蒂娅。	萊莎	但只要在效果結束前找到素材就行啦。\n科洛蒂婭，我說得沒錯吧？
+TalkEvent_06_014ID	14	Klaudia	クラウディア	ふふ、そうだね。ちょっと楽しそうかも	Klaudia	Hehe, right. That sounds kind of fun, actually.	科洛蒂娅	呵呵，是啊。好像挺有趣的。	科洛蒂婭	呵呵，是啊。好像挺有趣的呢！
+TalkEvent_06_014ID	15	Valeria	ヴァレリア	疲れを気にせず戦い続けられるなんて\nサイコーじゃないのよ！　ヒュウ！	Valeria	Being able to keep on fighting without getting tired? Count me in! Yippee!	瓦莱莉娅	可以不用在意疲劳持续战斗，\n这不是天大的好事嘛！	瓦萊莉婭	可以不在意疲勞並持續戰鬥，\n不是超棒的嗎！？咻～！
+TalkEvent_06_014ID	16	Heidi	ハイディ	まあ、あんたたちならそう言うよね	Heidi	That's just what I would expect from all of you.	海蒂	我就知道你们会这么说。	海蒂	嗯，很像妳們會說的話。
+TalkEvent_06_014ID	17	Resna	レスナ	それじゃ、ヴァレリア、ライザ先輩。\n早速薬を作って、また大原野へ出発しましょう！	Resna	All right then, you two. Let's brew up some medicine and head back into the wilderness!	蕾斯娜	那瓦莱莉娅、莱莎前辈，\n我们快制作药剂，然后再次朝着大原野出发吧！	蕾斯娜	那瓦萊莉婭、萊莎前輩，\n我們趕緊把藥做好，再次前往大原野吧！
+TalkEvent_06_015ID	0	Ryza	ライザ	大原野かあ。どんな場所なんだろう	Ryza	So this is the wilderness! I wonder what we'll find here.	莱莎	大原野啊……那是什么样的地方呢？	萊莎	大原野啊～那是什麼樣的地方？
+TalkEvent_06_015ID	1	Ryza	ライザ	レスナ、教えてくれる？	Ryza	Resna, could you tell us what to expect?	莱莎	蕾斯娜，你能告诉我吗？	萊莎	蕾斯娜，妳能告訴我嗎？
+TalkEvent_06_015ID	2	Resna	レスナ	はい！　喜んで！\nではまず、一番の目的である翡翠の煌水から……	Resna	With pleasure! Okay, first of all, Jade Water is our main target, and that's what...	蕾斯娜	嗯！我很乐意！\n先从最重要的目的，也就是翡翠煌水开始说起吧……	蕾斯娜	好的！我很樂意！\n首先，從此行首要目標──翡翠煌水開始說起……
+TalkEvent_06_015ID	3	Klaudia	クラウディア	ふふ。ライザ、張り切ってるなあ	Klaudia	Hehe. Ryza sure is excited.	科洛蒂娅	呵呵，莱莎，很有干劲呢。	科洛蒂婭	呵呵，萊莎幹勁十足呢～
+TalkEvent_06_015ID	4	Valeria	ヴァレリア	レスナも、いつも以上に気合入ってる感じね	Valeria	Resna seems even more worked up than usual, too.	瓦莱莉娅	蕾斯娜好像也比平时更有气势呢。	瓦萊莉婭	蕾斯娜也是，感覺比平時還要投入。
+TalkEvent_06_015ID	5	Heidi	ハイディ	そういや、クラウディア。\n一緒に遺跡に行った時に作った爆弾あったじゃん？	Heidi	By the way, Klaudia. Do you remember the bombs we made when we went to the ruins together?	海蒂	说起来，科洛蒂娅，\n我们一起去遗迹的时候不是做过炸弹吗？	海蒂	對了，科洛蒂婭，\n我們一起去遺跡時，不是做了炸彈嗎？
+TalkEvent_06_015ID	6	Heidi	ハイディ	商品として売ってみるって話してたけど、\nその後どうなったの？	Heidi	You mentioned trying to sell them. Did you have any luck?	海蒂	不是说过要拿来卖嘛，\n之后怎么样了？	海蒂	妳曾說要嘗試當成商品販售，\n後來情況如何？
+TalkEvent_06_015ID	7	Klaudia	クラウディア	ああ、はい。結構売れ行きが良くて、\n買ってくれた人たちからも好評ですよ！	Klaudia	Oh, yeah. They've been selling pretty well and getting good reviews.	科洛蒂娅	哦，那个非常畅销，\n顾客们也都觉得很好用！	科洛蒂婭	哦，銷量非常不錯呢！\n廣受顧客好評喔！
+TalkEvent_06_015ID	8	Heidi	ハイディ	へえ、そうなんだ。\nよかったじゃん、作ったものが役に立って	Heidi	Oh, really? Wow, that's great. It's nice that something we made turned out to be so helpful.	海蒂	哦，这样啊。\n真高兴制作的东西能派上用场。	海蒂	哦～這樣啊。\n太好了，做出來的東西成功派上用場。
+TalkEvent_06_015ID	9	Valeria	ヴァレリア	ええ、そうね	Valeria	Yeah, isn't it?	瓦莱莉娅	嗯，是啊。	瓦萊莉婭	嗯，對啊。
+TalkEvent_06_015ID	10	Valeria	ヴァレリア	（レスナの夢の手伝い、少しはできたのかしら）	Valeria	(Hopefully that helped a little with Resna's dream.)	瓦莱莉娅	（我应该多少有为蕾斯娜实现梦想做出贡献吧。）	瓦萊莉婭	（關於蕾斯娜的夢想，我是否成功幫上忙了呢？）
+TalkEvent_06_015ID	11	Klaudia	クラウディア	フロッケさんやコルネリアさんも、行く先で宣伝して\nくれていたりして。いつも助かってます	Klaudia	Flocke and Corneria have been advertising for us everywhere they go. I'm so grateful.	科洛蒂娅	芙洛可小姐和柯尔涅莉雅小姐也有在旅途中做宣传，\n我们得到了她们的许多帮助。	科洛蒂婭	芙洛可小姐與柯爾涅莉雅小姐\n也在目的地為我宣傳了一番，幫了很多忙。
+TalkEvent_06_015ID	12	Heidi	ハイディ	そっか。フロッケも色々頑張ってんだねー	Heidi	I see. Sounds like Flocke's been working hard.	海蒂	这样啊，芙洛可也在努力呢。	海蒂	這樣啊。芙洛可也相當努力呢～
+TalkEvent_06_015ID	13	Heidi	ハイディ	しばらく顔見てないからちょっと寂しいんだよね。\nこの依頼が終わったら真っ先に会いたいよ	Heidi	I kind of miss her. It's been a while since I last saw her. As soon as we finish this request, I'm going straight to her.	海蒂	这阵子都没见到她，挺想她的吧。\n等完成了这个委托，我第一个想见的就是她。	海蒂	好一陣子沒見到她了，有點寂寞呢。\n委託結束後，我第一個想見的人就是她。
+TalkEvent_06_015ID	14	Valeria	ヴァレリア	うん。フロッケを食べたい。\nフロッケのご飯が恋しい……	Valeria	Yeah, I'm hungry for Flocke. I miss her cooking.	瓦莱莉娅	嗯，我好想吃芙洛可，\n也好想念芙洛可做的饭……	瓦萊莉婭	嗯，我好想吃芙洛可，\n好想念芙洛可做的飯喔……
+TalkEvent_06_015ID	15	Heidi	ハイディ	逆ゥー！	Heidi	I think you got those backwards.	海蒂	你说反了！	海蒂	反了啦！
+TalkEvent_06_015ID	16	Klaudia	クラウディア	ふふ。そのためにも、素材探しを\n頑張らないといけませんね	Klaudia	Hehe. Anyway, that's just another reason for us to work hard at searching for these materials.	科洛蒂娅	呵呵，为此也得努力寻找素材啊。	科洛蒂婭	呵呵，\n那我們得更努力尋找素材才行。
+TalkEvent_06_016ID	0	Ryza	ライザ	よーし。明日はいよいよ大原野だね。楽しみだなあ！	Ryza	You bet it is! And tomorrow's the day we head out to the Haine Wilderness. How exciting!	莱莎	好，明天终于要去大原野了，好期待啊！	萊莎	好～明天終於要前往大原野了，好期待喔～！
+TalkEvent_06_016ID	1	Klaudia	クラウディア	ふふっ。薬もできたし、準備は万全だね	Klaudia	Hehe. And now that we've got our medicine made, we're good to go!	科洛蒂娅	呵呵，药剂也做好了，准备工作万无一失。	科洛蒂婭	呵呵，藥也完成了。我們已經做好萬全的準備了呢！
+TalkEvent_06_016ID	2	Valeria	ヴァレリア	狩って狩って狩りまくるわね！　うっふっふ	Valeria	We're going to hunt, hunt, and hunt some more! Heh heh heh.	瓦莱莉娅	疯狂狩猎吧！呼呼呼。	瓦萊莉婭	我要狩獵、狩獵、不停地狩獵！呵呵。
+TalkEvent_06_016ID	3	Heidi	ハイディ	まー程々にね。\n不要な戦いは避けるに越したことはないから	Heidi	Well, let's not get carried away. It might be wise to steer clear of unnecessary battles.	海蒂	那也要有点分寸哦。\n避免不必要的战斗绝不是坏事。	海蒂	唉～記得要適可而止喔。\n還是儘量避免不必要的戰鬥比較好。
+TalkEvent_06_016ID	4	Klaudia	クラウディア	何を読んでるんですか？	Klaudia	What are you reading?	科洛蒂娅	你在看什么？	科洛蒂婭	妳在讀什麼呢？
+TalkEvent_06_016ID	5	Resna	レスナ	あ、すみません！　最近読み始めた小説なんですけど\n続きが気になっちゃって、つい	Resna	Oh, sorry! I've been reading this book recently, and I just can't put it down!	蕾斯娜	啊，抱歉！这是我最近开始看的小说。\n我太在意后续，忍不住又翻开了。	蕾斯娜	啊，不好意思！這是我最近開始看的小說，\n因為我很在意後續，就忍不住看了起來。
+TalkEvent_06_016ID	6	Klaudia	クラウディア	レスナさんは本が好きなんですね	Klaudia	You like to read, Resna?	科洛蒂娅	蕾斯娜小姐真的很爱看书呢。	科洛蒂婭	蕾斯娜小姐很喜歡看書呢。
+TalkEvent_06_016ID	7	Resna	レスナ	私、昔は本とイザナちゃんしか友達がいなくて。\n今はみんながいるのに、ダメですね	Resna	Yeah! Before, my only friends were books and Izana. But I shouldn't be reading now that I have everyone here.	蕾斯娜	以前我的朋友就只有书和伊札娜。\n现在明明有大家在我身边，我还这样真是不应该。	蕾斯娜	以前，我的朋友就只有書本和伊札娜。\n明明現在大家就在我身邊，這樣子真的不太好呢。
+TalkEvent_06_016ID	8	Klaudia	クラウディア	全然悪いことなんかじゃないですよ	Klaudia	No, no, there's nothing wrong with reading.	科洛蒂娅	这不是什么坏事。	科洛蒂婭	這完全不是壞事喔。
+TalkEvent_06_016ID	9	Klaudia	クラウディア	私の友達も本が好きで、\nその子の知識のおかげで助かったこともたくさんあって	Klaudia	I have another friend who also loves reading, and his knowledge has helped me time and time again.	科洛蒂娅	我的朋友也爱看书，\n他的知识帮了我不少忙。	科洛蒂婭	我朋友也很愛看書。\n多虧了那孩子的豐富知識，我也獲得了許多幫助。
+TalkEvent_06_016ID	10	Klaudia	クラウディア	だから、本の知識を蓄えてる人ってすごいと思いますよ	Klaudia	I think people who build up their wisdom from books are amazing.	科洛蒂娅	所以我觉得从书中获取知识的人很厉害。	科洛蒂婭	所以，我覺得從書中吸收知識的人很厲害。
+TalkEvent_06_016ID	11	Resna	レスナ	ありがとうございます。\n本が好きでよかったなって思えました	Resna	I appreciate that. That makes me happy to be a book lover.	蕾斯娜	谢谢你。\n你这番话让我觉得喜欢看书是一件好事。	蕾斯娜	謝謝妳。\n這讓我覺得喜愛閱讀真是太好了。
+TalkEvent_06_016ID	12	Resna	レスナ	読書、続けていこうと思います。\nもちろん、迷惑にならない範囲で、ですけど	Resna	I think I should keep reading, then. Of course, I'll make sure it doesn't cause any trouble.	蕾斯娜	我还会继续读书的，\n当然，我不会给大家添麻烦的。	蕾斯娜	那我想我會保持閱讀的習慣。\n當然，不會給大家添麻煩的。
+TalkEvent_06_016ID	13	Klaudia	クラウディア	ふふ、そのほうがレスナさんらしいと思います	Klaudia	Hehe, that's more like the Resna I know.	科洛蒂娅	呵呵，这才是蕾斯娜的风格嘛。	科洛蒂婭	呵呵，這才像蕾斯娜嘛！
+TalkEvent_06_017ID	0	Ryza	ライザ	大原野って言うだけあって、すっごい広いね！\nうーん！　どこから探索しよう！	Ryza	I know it goes without saying, but Haine's wilderness really is huge! Hmm, where shall we begin exploring?	莱莎	不愧是大原野，真的好广阔啊！\n唔……要从哪里开始探索呢？	萊莎	真的很遼闊呢！難怪會被稱作大原野！\n嗯～要從哪裡開始探索呢？
+TalkEvent_06_017ID	1	Resna	レスナ	慎重かつ大胆に進みましょう。\n先輩がたもいるし、薬も準備しましたし！	Resna	Let's be bold, but let's be smart about it! We have Ryza and Klaudia with us, and we've prepared some medicine.	蕾斯娜	谨慎而不失大胆地前进吧。\n这次有前辈们在，药剂也都准备好了！	蕾斯娜	我們小心謹慎地大膽前進吧。\n現在不但有前輩們陪在身邊，藥品也都準備好了！
+TalkEvent_06_017ID	2	Valeria	ヴァレリア	今度こそたどり着けるわよ、レスナ	Valeria	This time we'll get there for sure, Resna.	瓦莱莉娅	这次一定要找到目的地啊，蕾斯娜。	瓦萊莉婭	蕾斯娜，我們這次一定能成功找到。
+TalkEvent_06_017ID	3	Resna	レスナ	うん。今回は前よりもっと先に進めるはず。\n今度こそ見つけられるよ！	Resna	Yeah, we should be able to get farther than last time. We're definitely going to find that Jade Water!	蕾斯娜	嗯，这次应该能比之前走得更远，\n相信一定能找到的！	蕾斯娜	嗯，這次我們應該能走得更遠。\n絕對會找到的！
+TalkEvent_06_017ID	4	Resna	レスナ	魔物もたくさんいて、大変な道のりになると思います。\n皆さん、よろしくお願いします！	Resna	It's going to be a tough journey with many monsters along the way. I'm counting on all of you!	蕾斯娜	这个地方也有很多魔物出没，一定会是一趟艰辛的旅途。\n各位，我们一起加油吧！	蕾斯娜	沿途有不少魔物，大概會很辛苦。\n各位，接下來就麻煩妳們了！
+TalkEvent_06_017ID	5	Klaudia	クラウディア	ふふ、大冒険ですね。なんだかわくわくするよ	Klaudia	Hehe. This is going to be a big adventure. It's kind of exciting.	科洛蒂娅	呵呵，会是一场大冒险吧。我还有点小激动呢。	科洛蒂婭	呵呵，是場大冒險呢！真令人興奮。
+TalkEvent_06_017ID	6	Resna	レスナ	え、わくわく……ですか？	Resna	Huh? Exciting...?	蕾斯娜	咦，你会觉得……激动？	蕾斯娜	咦，興奮……是嗎？
+TalkEvent_06_017ID	7	Heidi	ハイディ	お、なんかクラウディアもノリノリだね	Heidi	Oh-ho! Looks like Klaudia's raring to go!	海蒂	哦，科洛蒂娅好像也在跃跃欲试啊。	海蒂	哦，科洛蒂婭似乎也幹勁十足呢。
+TalkEvent_06_017ID	8	Klaudia	クラウディア	みんなで大事なもののために挑めるって、\n素敵なことだと思うんです。ね、ライザ？	Klaudia	I think it's wonderful that we can work together toward something so important. Don't you think so too, Ryza?	科洛蒂娅	大家为了重要的事物进行挑战，\n这是很美好的事呀。你说呢，莱莎？	科洛蒂婭	我認為，大家一起努力完成重要的事非常棒。\n萊莎，我說得沒錯吧？
+TalkEvent_06_017ID	9	Ryza	ライザ	だね！　仲間と一緒に未知の世界を切り拓いていく！\n何にも代えがたい経験だもんね……だからさ\n	Ryza	Yeah! Clearing our path into an unknown world together with friends. What a priceless experience. Which is exactly why...	莱莎	对啊！跟伙伴们一起开辟未知的世界！\n这是无法替代的宝贵经历……所以……	萊莎	沒錯！與夥伴一同開拓未知的世界，\n是無法被取代的珍貴經驗……所以～
+TalkEvent_06_017ID	10	Ryza	ライザ	レスナ、もっと肩の力抜いていこう！	Ryza	...you need to relax a little, Resna!	莱莎	蕾斯娜，放轻松点！	萊莎	蕾斯娜，別太緊張！
+TalkEvent_06_017ID	11	Resna	レスナ	ひゃ、ひゃい！　ありがとうございます先輩！	Resna	A-Ah, yes! Thank you so much, Ryza!	蕾斯娜	我、我会的！谢谢你，前辈！	蕾斯娜	好、好的！謝謝前輩！
+TalkEvent_06_017ID	12	Resna	レスナ	よ、よーし！　魔物なんかなぎ倒して\n泉の在り処を探そう！　	Resna	Come on, now! We're going to show those monsters who's boss and figure out where those springs are.　	蕾斯娜	开、开始吧！打倒不值一提的魔物，\n寻找泉水的所在之处！　	蕾斯娜	很、很好～！讓我們接二連三打倒魔物，\n找出泉水的所在地吧！　
+TalkEvent_06_017ID	13	Heidi	ハイディ	その意気。じゃあ、私とヴァレリアが先頭に立って\n様子をうかがうよ。ね、相棒	Heidi	That's the spirit! All right, Valeria and I will take the lead and see how things look. Right, partner?	海蒂	要的就是这股劲。那我和瓦莱莉娅在前面侦察情况，\n怎么样，搭档？	海蒂	這就對了！那我和瓦萊莉婭負責帶頭探路。\n搭檔，沒問題吧？
+TalkEvent_06_017ID	14	Valeria	ヴァレリア	ええ。任せて！　先頭も戦闘も大好きってね	Valeria	Sounds good to me! Nothing better than leading the charge!	瓦莱莉娅	嗯，交给我吧！我最喜欢战斗和领头了。	瓦萊莉婭	嗯，交給我們吧！無論是帶頭還是戰鬥，我都超喜歡。
+TalkEvent_06_017ID	15	Valeria	ヴァレリア	（レスナ、なんだかいつもと様子が違う\n　気がするんだけど……）	Valeria	(Something seems a little off about Resna to me...)	瓦莱莉娅	（蕾斯娜看起来好像有些反常……）	瓦萊莉婭	（總覺得蕾斯娜的樣子\n　和平時不太一樣……）
+TalkEvent_06_017ID	16	Valeria	ヴァレリア	（気のせいかしら……？）	Valeria	(Maybe it's just my imagination.)	瓦莱莉娅	（是我多心了吗……？）	瓦萊莉婭	（是我的錯覺嗎……？）
+TalkEvent_06_018ID	0	Valeria	ヴァレリア	レスナ、どうだった？	Valeria	How does it look, Resna?	瓦莱莉娅	蕾斯娜，你怎么了？	瓦萊莉婭	蕾斯娜，情況如何？
+TalkEvent_06_018ID	1	Resna	レスナ	ここも違ったみたい。\n少し休憩したら、別の場所に行ってみよう	Resna	I don't think this is it either. Let's take a little break and then look somewhere else.	蕾斯娜	好像也不在这里。\n稍微休息一下再去别的地方看看吧。	蕾斯娜	似乎不是這裡。\n我們稍作休息後就去其他地方看看吧。
+TalkEvent_06_018ID	2	Ryza	ライザ	いやー、貴重な素材だけあって、\nさすがに簡単には見つからないね	Ryza	*Sigh* Well, it is a rare material. I wouldn't expect it to be easy to find.	莱莎	唉，真不好找啊，\n难怪是贵重的素材。	萊莎	哎呀～貴重的素材\n果然無法輕易被發現呢。
+TalkEvent_06_018ID	3	Klaudia	クラウディア	うーん。\nもっと奥のほうに翡翠の煌水が採れる泉があるのかな？	Klaudia	Hmm. Perhaps the springs we're looking for are farther ahead.	科洛蒂娅	唔……\n或许还要继续深入才能找到涌出翡翠煌水的泉眼吧？	科洛蒂婭	嗯～能採集到翡翠煌水的泉水\n會不會在更深處？
+TalkEvent_06_018ID	4	Resna	レスナ	でも、前に来た時よりも順調に進めてるね！	Resna	Either way, we're managing better than the last time we came.	蕾斯娜	不过我们这一路比上次走得顺利多了！	蕾斯娜	不過，比上次來的時候還要順利許多呢！
+TalkEvent_06_018ID	5	Valeria	ヴァレリア	そうね。手応えのある魔物とも戦えたしね。\nせいっ♪　えいっ♪　とりゃとりゃ♪	Valeria	Yeah, definitely. And we brought down some mighty impressive monsters. Hip! Hip! Hooray!	瓦莱莉娅	是啊，而且还能跟厉害的魔物打得有来有回。\n嘿～呀～看招～	瓦萊莉婭	確實，我也和魔物打得很盡興。\n嘿～喝～喝啊！
+TalkEvent_06_018ID	6	Heidi	ハイディ	妙な歌を歌わない	Heidi	Spare me the old-fashioned cheers.	海蒂	别唱奇怪的歌。	海蒂	別唱奇怪的歌。
+TalkEvent_06_018ID	7	Heidi	ハイディ	ま、ライザたちのおかげで手堅く進めてるし、\nこの調子なら見つかるのも時間の問題かもね	Heidi	Well, thanks to Ryza and everyone, we're making excellent progress. If this keeps up, it's only a matter of time until we find the materials.	海蒂	多亏了莱莎她们，这次我们走得很稳健。\n照这势头，找到要找的东西也只是时间的问题。	海蒂	嗯，託萊莎妳們的福，我們才能踏實地前進。\n如果能維持這種步調，我們應該遲早會找到。
+TalkEvent_06_018ID	8	Resna	レスナ	そうですね！　では早速、次の候補地に――	Resna	That's right! Okay, so let's start making our way  to the next place, and—	蕾斯娜	是的！那就赶快去下一个疑似地点——	蕾斯娜	說得對！那我們趕緊前往下一個候補地點──
+TalkEvent_06_018ID	9	Heidi	ハイディ	ちょいちょい、待ちなって。少し休憩しようって\nついさっきレスナが言ったんじゃなかったっけ？	Heidi	Whoa, whoa, hold on. Aren't you the one who said we should take a little break just now, Resna?	海蒂	稍微等一下。\n蕾斯娜，你不是刚提议要稍作休息吗？	海蒂	等等，請等一下。蕾斯娜剛才不是說\n要稍微休息一下嗎？
+TalkEvent_06_018ID	10	Resna	レスナ	えっ？　ああっ！？　そ、そうでした！\nすみません、私うっかりしていたようで！	Resna	Huh?! Oh, y-yeah! Sorry, I must've been daydreaming!	蕾斯娜	咦？啊？！对、对哦！\n抱歉，我不小心给忘了！	蕾斯娜	咦？啊啊！？對、對耶！\n不好意思，我好像有點心不在焉！
+TalkEvent_06_018ID	11	Ryza	ライザ	あーっ！　見てよクラウディア！\nこの植物って調味料になるやつだよね！？	Ryza	Whoa! Klaudia, look! This plant could be used to make spices, don't you think?	莱莎	啊——！快看，科洛蒂娅！\n这种植物能拿来当调味料吧？！	萊莎	啊～！科洛蒂婭妳看！\n這種植物能做成調味料，對吧！？
+TalkEvent_06_018ID	12	Klaudia	クラウディア	どれ？　ほんとだ。採っていけばイクセルさんが喜ぶね	Klaudia	Let's see... Oh, you're right! I bet Iksel would be thrilled to receive some.	科洛蒂娅	我看看？还真是。把它带回去的话伊克赛尔先生会很高兴的。	科洛蒂婭	我看看？真的耶！帶回去的話，伊克賽爾先生會很高興吧。
+TalkEvent_06_018ID	13	Valeria	ヴァレリア	レスナ、少し何か食べる？\n今回用意した保存食、結構いけるわよ	Valeria	Hey, Resna, do you want to eat something? The rations we prepared this time are pretty good.	瓦莱莉娅	蕾斯娜，要不要稍微吃点什么？\n这次准备的干粮还挺好吃的。	瓦萊莉婭	蕾斯娜，要不要吃點東西？\n這次準備的儲備糧食可真美味。
+TalkEvent_06_018ID	14	Heidi	ハイディ	いや、それはいざってときのモノだから！\nって、ヴァレリアもう食べてるし！？	Heidi	Come on, those are for emergencies! You're already eating them?!	海蒂	不不，那些都是用来以防万一的！\n等等，瓦莱莉娅怎么都开吃了？！	海蒂	喂，那食物是為了以防萬一而準備的耶！\n呃，瓦萊莉婭，妳已經在吃了！？
+TalkEvent_06_018ID	15	Resna	レスナ	腹が減っては戦ができぬ、って言うもんね。\nありがとう、ヴァレリア	Resna	Well, as they say, you can't fight on an empty stomach. Thanks, Valeria.	蕾斯娜	毕竟饿着肚子可没法战斗。\n谢谢你，瓦莱莉娅。	蕾斯娜	畢竟不填飽肚子的話，就無法戰鬥嘛。\n瓦萊莉婭，謝謝妳。
+TalkEvent_06_018ID	16	Resna	レスナ	でもハイディさんの言う通り、保存食は取っておこう？\nお腹、まだ空いてないしね	Resna	But I think Heidi's right. Why don't we save our rations? Besides, I'm not hungry yet.	蕾斯娜	但海蒂小姐说得对，干粮还是留着以防万一吧？\n我现在也不饿嘛。	蕾斯娜	不過海蒂小姐說得對，儲備糧食還是先留著吧？\n而且我目前還不會餓。
+TalkEvent_06_018ID	17	Resna	レスナ	そうだ。私、今のうちに薬の残りを確認しておくね	Resna	That reminds me, I should check how much medicine we have left now while we have a moment.	蕾斯娜	对了，我趁现在确认一下药剂的库存。	蕾斯娜	對了，我趁現在來確認藥品的剩餘數量吧。
+TalkEvent_06_019ID	0	Izana	イザナ	なるほど！　確かに！	Izana	Okay, I see. That makes sense!	伊札娜	原来是这样！我懂了！	伊札娜	原來如此！的確是這樣！
+TalkEvent_06_019ID	1	Izana	イザナ	うんうん。リラ先生の教え、すごく分かりやすい！	Izana	Mhm! Your lessons are so easy to follow, Professor Lila!	伊札娜	嗯嗯，莉拉老师的教学特别清晰易懂！	伊札娜	嗯，莉拉老師的講解十分好懂！
+TalkEvent_06_019ID	2	Lila	リラ	「先生」はやめろ。リラでいい	Lila	"Enough with the ""professor"" business. Just call me Lila."	莉拉	不用叫我老师，叫我莉拉就行。	莉拉	別稱呼我為「老師」，叫我莉拉就行了。
+TalkEvent_06_019ID	3	Izana	イザナ	えぇー。じゃあ、リラさん。\nリラさん、教え方がすごく上手いんだね	Izana	Huh? Okay, then... Miss Lila! You are really good at teaching, Miss Lila.	伊札娜	唔，那我叫你莉拉小姐吧。\n莉拉小姐，你真会教人。	伊札娜	咦～那請讓我稱妳為莉拉小姐。\n莉拉小姐，妳很擅長指導別人呢。
+TalkEvent_06_019ID	4	Lila	リラ	一人、やんちゃな奴を鍛えたことがあるんだ。\nそれで慣れてるのかもな	Lila	I trained a certain rowdy someone in the past, so I think I've got the hang of it.	莉拉	因为我以前教过一个气盛的家伙。\n所以可能已经很熟悉方法了。	莉拉	我曾訓練過一個淘氣鬼。\n可能是因為這樣，已經很習慣指導他人了。
+TalkEvent_06_019ID	5	Izana	イザナ	ふーん。そうなんだ！	Izana	Ooh, I see!	伊札娜	哦，是这样啊！	伊札娜	哦～原來如此！
+TalkEvent_06_019ID	6	Izana	イザナ	リラさんて、なんでそんなに強いの？\n教え方も実戦向きですごく的確だしさ	Izana	How did you get so strong? Your training is so combat-focused and precise.	伊札娜	莉拉小姐为什么会这么厉害？\n你教我的那些战斗方法也很适合实战，直取要害。	伊札娜	莉拉小姐，妳為什麼如此強大？\n指導方式也很貼近實戰，相當實用。
+TalkEvent_06_019ID	7	Lila	リラ	元々、戦いに秀でた一族の生まれでな。\n昔から一族の使命のため戦いに身を投じていた	Lila	I was born into a family of warriors. Ever since I was young, I dedicated myself to fighting for our family's mission.	莉拉	我的家族本来就是勇猛善战的一族，\n一代又一代人都在为家族的使命而战。	莉拉	我的家族非常驍勇善戰。\n我投身於戰鬥是因為肩負了一族的使命。
+TalkEvent_06_019ID	8	Lila	リラ	ライザたちとはその過程で知り合ったんだ。\n世界の滅びを回避するため、共に戦った	Lila	I met Ryza and the others in the process of doing so, and we fought together to save the world from destruction.	莉拉	就是在那时候，我认识了莱莎他们。\n为了保护世界不被毁灭，我们共同战斗过。	莉拉	我因此結識了萊莎她們。\n為了避免世界毀滅，我們並肩作戰。
+TalkEvent_06_019ID	9	Izana	イザナ	え、世界の滅び！？　話が大きい！	Izana	What? Save the world from destruction?! That's huge!	伊札娜	咦？世界毁灭？！好夸张啊！	伊札娜	咦，世界毀滅！？好嚴重！
+TalkEvent_06_019ID	10	Lila	リラ	まさかそんな話になるとは、私も思ってなかったさ	Lila	I never expected things to turn out that way either.	莉拉	我也没想到事情会变得这么夸张。	莉拉	我也沒料到事情會發展成那樣。
+TalkEvent_06_019ID	11	Lila	リラ	だが私も、ライザたちも、\nあの戦いで大きく成長できたことは確かだ	Lila	But I know the fighting helped me, Ryza, and the others to grow immensely.	莉拉	但我和莱莎他们也确实是通过那一场战斗\n得到了巨大的成长。	莉拉	不過，我和萊莎她們\n確實在那場戰役中成長了很多。
+TalkEvent_06_019ID	12	Lila	リラ	自己流じゃ誰だって一度は壁にぶち当たる。\nお前も乗り越えれば必ず強くなるさ	Lila	Everyone runs into a wall at some point when self-taught. I promise, you too will grow stronger by overcoming this obstacle.	莉拉	独自钻研武艺必然是会碰壁的。\n你如果能跨越这道难关，也一定能变强。	莉拉	使用自己獨創的戰鬥方式，任誰都會遇上瓶頸。\n只要能克服這關，妳一定可以變強。
+TalkEvent_06_019ID	13	Izana	イザナ	うん。頑張って乗り越えよう！\nハンマーに誓って！	Izana	Yes, I'm ready to work hard and overcome anything! I swear on my hammer!	伊札娜	嗯，我会努力跨越的！\n向着这把锤子起誓！	伊札娜	嗯，我會努力的！\n我以錘子發誓！
+TalkEvent_06_019ID	14	Izana	イザナ	ねぇ、リラさんは自分に力が足りない、\nみたいな無力感って感じたことある？	Izana	Um, Miss Lila, have you ever felt like you weren't strong enough? Like you were powerless?	伊札娜	莉拉小姐，你有过因实力不足\n而觉得无力的时候吗？	伊札娜	莉拉小姐，妳感受過\n因為自身能力不足而產生的無力感嗎？
+TalkEvent_06_019ID	15	Lila	リラ	…………	Lila	...	莉拉	……	莉拉	…………
+TalkEvent_06_019ID	16	Izana	イザナ	あ、ごめん。リラさんに限ってそんなことは\nないよね	Izana	Oh, sorry. Of course you'd never feel that way.	伊札娜	啊，抱歉。\n你肯定不会有这种烦恼吧。	伊札娜	啊，抱歉，\n莉拉小姐應該沒有這種經驗吧。
+TalkEvent_06_019ID	17	Lila	リラ	あるさ	Lila	I have.	莉拉	我有的。	莉拉	其實我有。
+TalkEvent_06_019ID	18	Izana	イザナ	え？	Izana	Huh?	伊札娜	咦？	伊札娜	咦？
+TalkEvent_06_019ID	19	Lila	リラ	元の世界では、どうにもならない無力感を覆すために\n旅を続けていたようなものだ	Lila	Back in my home world, I continued my travels in hopes of ridding myself of a relentless sense of powerlessness.	莉拉	在原来的世界，我长期在外游历\n也是为了摆脱难以消除的无力感。	莉拉	還在原本的世界時，我就是為了\n消除莫可奈何的無力感才持續旅行。
+TalkEvent_06_019ID	20	Izana	イザナ	それ……覆せた？	Izana	Did you...succeed?	伊札娜	那……你成功了吗？	伊札娜	那……妳成功了嗎？
+TalkEvent_06_019ID	21	Lila	リラ	完全にとはいかない。だが、１つ１つ\nやれることを積み重ねることはできている	Lila	Not completely. But I've been able to build upon each and every one of my capabilities.	莉拉	并不完全成功。\n但能逐步积累力所能及的事——	莉拉	雖然無法徹底改變，\n但我仍在能力範圍內一點一滴累積經驗。
+TalkEvent_06_019ID	22	Lila	リラ	元気な錬金術士とその仲間たちの力を借りて、な	Lila	And that was with the help of an energetic alchemist and her friends.	莉拉	在活力十足的炼金术士与她伙伴们的帮助下。	莉拉	活潑的鍊金術士與她的夥伴也助了我一臂之力。
+TalkEvent_06_019ID	23	Izana	イザナ	１つ１つできることを……か。\nそっか……そうだね！	Izana	Building up each of your capabilities? Oh... I see!	伊札娜	逐步积累力所能及的事啊……\n我明白了……是这样啊！	伊札娜	在能力範圍內一點一滴累積經驗……嗎？\n原來如此……妳說得對！
+TalkEvent_06_019ID	24	Izana	イザナ	アタシも、できることを積み重ねて\n強くならなきゃ、だね！	Izana	I guess I also need to work on building up my capabilities to get stronger.	伊札娜	我也要积累力所能及的事，\n变得更强！	伊札娜	我也必須在能力範圍內一點一滴累積經驗，\n變得更強才行。對吧！
+TalkEvent_06_019ID	25	Lila	リラ	ああ。それも戦士の心得の１つだな	Lila	Yes. It's one of the principles of being a warrior.	莉拉	嗯，这也是战士的心得之一。	莉拉	嗯，這也是戰士心得之一。
+TalkEvent_06_019ID	26	Izana	イザナ	アタシ、誰よりも近くでレスナちゃんを守りたい。\nそのための力が欲しいんだ	Izana	I want to be with Resna and protect her, more than anyone else. But I need the strength to do that.	伊札娜	我想在蕾斯娜身边守护她。\n为此我需要力量。	伊札娜	我想在最接近蕾斯娜的地方守護她。\n因此，我需要得到力量。
+TalkEvent_06_019ID	27	Lila	リラ	錬金術士とは常に果てを目指すものだからな。\n共に在ろうとすれば、それなりに大変だぞ	Lila	Alchemists are always out to push their limits. Keeping pace won't be easy.	莉拉	炼金术士时刻都在朝着无尽的前方迈进，\n与他们同行是艰巨的挑战。	莉拉	鍊金術士總是在追求極限，\n陪在她身邊肯定不是件容易的事。
+TalkEvent_06_019ID	28	Izana	イザナ	うん。努力あるのみだね！	Izana	Yeah! I'll just have to give it my all!	伊札娜	嗯，我能做的唯有努力！	伊札娜	嗯，所以只有努力一途了！
+TalkEvent_06_020ID	0	Ryza	ライザ	おっ！　引いてる引いてる！\nここは慎重に……今だ！	Ryza	Oh! I got a bite! Okay, careful... Now!	莱莎	啊！有鱼上钩了！\n现在要先稳住……提杆！	萊莎	哦！上鉤了上鉤了！\n記得要謹慎點……就是現在！
+TalkEvent_06_020ID	1	Heidi	ハイディ	おおっ！　でっかい魚だね！	Heidi	Woohoo! What a gigantic fish!	海蒂	哦！好大的鱼啊！	海蒂	哦哦！好大條的魚！
+TalkEvent_06_020ID	2	Valeria	ヴァレリア	むぅ。やるわね、ライザ！	Valeria	Wow, good job, Ryza!	瓦莱莉娅	唔，厉害啊，莱莎！	瓦萊莉婭	唔～萊莎妳真行！
+TalkEvent_06_020ID	3	Ryza	ライザ	ふっふーん、魚釣りはね、わりと自信あるんだ。\n故郷の島ではいつも釣ってたしね	Ryza	Heh heh! I have a knack for fishing. I used to fish all the time on my island.	莱莎	哼哼，我在钓鱼上还是挺有信心的。\n因为我在家乡的小岛上一直都有在钓鱼。	萊莎	哼哼～我對釣魚可是很有自信的，\n畢竟我的故鄉就是島嶼，所以時常在釣魚喔！
+TalkEvent_06_020ID	4	Valeria	ヴァレリア	よーしこうなったら、私だって	Valeria	Oh yeah? Watch this!	瓦莱莉娅	好，我也不能输。	瓦萊莉婭	好～既然如此，換我了！
+TalkEvent_06_020ID	5	Valeria	ヴァレリア	こぉぉぉ……妙技、お魚掴み取りっ！	Valeria	*Huff* Get ready for some masterful fish wrestling!	瓦莱莉娅	看我的……妙技——徒手抓鱼！	瓦萊莉婭	哦哦哦哦……奇技，大把捉魚！
+TalkEvent_06_020ID	6	Ryza	ライザ	えええっ！？	Ryza	Whaaat?!	莱莎	什么？！	萊莎	咦咦咦！？
+TalkEvent_06_020ID	7	Heidi	ハイディ	私らも水の近くで暮らしてたからね	Heidi	Yeah, we used to live near the waterside, too.	海蒂	因为我们也是住在河边的嘛。	海蒂	因為我們也生活在水邊啊。
+TalkEvent_06_020ID	8	Valeria	ヴァレリア	捕まえたあーっ！！	Valeria	Got one!	瓦莱莉娅	抓到了！	瓦萊莉婭	抓到了──！！
+TalkEvent_06_020ID	9	Heidi	ハイディ	どうしてもお腹空いたら、こうやって食べてたわけで	Heidi	This is how we'd get food if we got really hungry.	海蒂	实在没东西吃的时候，我们就会这样自己捕鱼吃。	海蒂	餓到受不了時，我們就會像這樣抓魚來吃。
+TalkEvent_06_020ID	10	Ryza	ライザ	あっはっは！　すごいすごい！	Ryza	Ahaha! Wow, look at that!	莱莎	哈哈！真厉害啊！	萊莎	啊哈哈！厲害～厲害！
+TalkEvent_06_020ID	11	Valeria	ヴァレリア	成し遂げたわ	Valeria	Mission accomplished.	瓦莱莉娅	成功了。	瓦萊莉婭	我成功了。
+TalkEvent_06_020ID	12	Ryza	ライザ	驚いた。まさに掴み取り名人だね！	Ryza	That was incredible. You really are a fish wrestling master!	莱莎	吓我一跳，你是徒手抓鱼大师啊！	萊莎	太驚人了，妳簡直就是捉魚專家！
+TalkEvent_06_020ID	13	Valeria	ヴァレリア	ふふ、ライザは魚釣り名人ね	Valeria	Hehe. Well, you're a true fishing master, Ryza.	瓦莱莉娅	呵呵，那莱莎就是钓鱼大师了。	瓦萊莉婭	呵呵，那萊莎妳就是釣魚專家囉。
+TalkEvent_06_020ID	14	Ryza	ライザ	これも魚が作ってくれた縁ってことね。よろしく！	Ryza	Looks like we also make a good fishing team, huh, partner?	莱莎	这也是鱼为我们带来的缘分，彼此彼此啦！	萊莎	這是魚兒創造的緣分呢。請多指教！
+TalkEvent_06_020ID	15	Klaudia	クラウディア	ふふ。ライザってば相変わらずだなぁ。\nああやって、すぐに友達になっちゃう	Klaudia	Hehe. That's Ryza for you. She's always making friends right away.	科洛蒂娅	呵呵，莱莎还是老样子。\n她总是很快就能交上朋友。	科洛蒂婭	呵呵，萊莎還是老樣子呢～\n她總是能立刻和別人成為朋友。
+TalkEvent_06_020ID	16	Heidi	ハイディ	そりゃいいけど……おーい、二人とも！\nいい加減にしないと、魚を捕り尽くしちゃうよー！	Heidi	That's nice, but... Hey, you two! Take it easy or you'll catch all the fish!	海蒂	好是挺好的……喂，你们要是不见好就收，\n鱼就要被你们抓光了！	海蒂	那樣是很好啦……喂～妳們兩個！\n要是不節制點，魚會被妳們抓光喔──！
+TalkEvent_06_020ID	17	Ryza	ライザ	はーい！	Ryza	Okay!	莱莎	知道啦！	萊莎	知道了～！
+TalkEvent_06_020ID	18	Valeria	ヴァレリア	レスナ！　今日は美味しいお魚が食べられるわよ！	Valeria	Resna! Today we feast on some scrumptious fish!	瓦莱莉娅	蕾斯娜！今天能吃到好吃的鱼哦！	瓦萊莉婭	蕾斯娜！看來我們今天可以嚐到美味的魚！
+TalkEvent_06_020ID	19	Resna	レスナ	うん。楽しみ！	Resna	Yeah, I'm excited!	蕾斯娜	嗯，好期待啊！	蕾斯娜	嗯，我很期待！
+TalkEvent_06_021ID	0	Izana	イザナ	なんのぉっ！　……え	Izana	Here I go! ...Huh?!	伊札娜	看我的！啊……	伊札娜	可惡～！咦……？
+TalkEvent_06_021ID	1	Lila	リラ	お前の武器は、当たれば強いが、外れると隙が大きい。\n２つだけでいい。意識しろ	Lila	Your weapon hits hard but leaves you wide open when you miss. There are two things you need to remember.	莉拉	你的武器只要命中目标，就会造成极大伤害，\n但失手后也会露出很大破绽。要时刻记得这两点。	莉拉	妳的武器如果成功擊中對手，可以造成不小的傷害。\n但要是揮空，就會露出破綻。請務必記住這兩點。
+TalkEvent_06_021ID	2	Lila	リラ	１つは隙を無くすこと。\nもう１つは、攻撃を当てるために相手の隙を作ること	Lila	First, don't leave yourself open. And second, force your opponent open to your attacks.	莉拉	第一，消除自身的破绽。\n第二，引导对手露出破绽，好让自己的攻击成功。	莉拉	第一點，妳必須消除破綻。\n第二點，為了擊中敵人，妳得讓敵人露出破綻。
+TalkEvent_06_021ID	3	Izana	イザナ	相手の隙を作る……	Izana	Force my opponent open...	伊札娜	引导对手露出破绽……	伊札娜	讓敵人露出破綻……
+TalkEvent_06_021ID	4	Izana	イザナ	こういうことっ？	Izana	Like this?	伊札娜	是指这么做？	伊札娜	像這樣嗎？
+TalkEvent_06_021ID	5	Izana	イザナ	あいたっ！	Izana	You're open!	伊札娜	好痛！	伊札娜	啊，好痛！
+TalkEvent_06_021ID	6	Lila	リラ	そしてこれが、隙を無くすということだ。\n油断は禁物だぞ	Lila	And this is how you keep yourself from being open. You mustn't let your guard down.	莉拉	而这样就是消除自身的破绽。\n不可轻敌啊。	莉拉	這樣就叫消除破綻。\n絕對不能大意。
+TalkEvent_06_021ID	7	Lila	リラ	だが、さっきの動きは良かった。\n繰り返して、あとは相手が隙を見せるのを待てばいい	Lila	But you did good just now. All you need to do is keep that up and wait to catch your opponent off guard.	莉拉	不过，你刚才的动作很漂亮。\n只要重复这个过程，等对手露出破绽就好。	莉拉	不過，妳剛才的動作很不錯。\n只要重複那個動作，並等待對手露出破綻就行了。
+TalkEvent_06_021ID	8	Izana	イザナ	うーん、\nこっちが先に隙を見せちゃいそうだよ	Izana	Hmm, but I'm afraid I'll be the one who lets my guard down first.	伊札娜	唔，感觉我会先露出破绽……	伊札娜	唔……\n我覺得自己似乎會先露出破綻。
+TalkEvent_06_021ID	9	Lila	リラ	なに、たくさん打ち合っていれば身体が覚えるさ	Lila	Just keep practicing at fighting and it'll become instinctual.	莉拉	别担心，只要多加练习，身体自然会形成肌肉记忆。	莉拉	別擔心。累積大量對戰經驗後，身體自然會記住。
+TalkEvent_06_021ID	10	Lila	リラ	お前の課題は経験不足だ。\n特に、格上の相手との戦いに慣れていない	Lila	Your biggest hurdle is inexperience. I can tell you aren't accustomed to fighting higher-level opponents.	莉拉	你最大的问题是经验尚浅。\n尤其不擅长与强于自己的敌人战斗。	莉拉	妳的問題在於經驗不足。\n特別是妳還不習慣和比自己強大的對手戰鬥。
+TalkEvent_06_021ID	11	Izana	イザナ	そうだね。リラさんに鍛えてもらって、\nそれがすごく分かる気がする	Izana	Yeah, training with you has made that very clear to me.	伊札娜	是啊，跟莉拉小姐切磋之后，\n我很清楚地体会到了这点。	伊札娜	是啊。接受莉拉小姐的訓練後，\n我深刻體會到這點。
+TalkEvent_06_021ID	12	Lila	リラ	普通はゆっくり経験を積めばいいだろう。\n数年かけて鍛錬を重ねれば、お前は強くなる	Lila	Normally, gaining experience gradually would suffice. Several years of training would make you strong.	莉拉	一般来说只要慢慢积累经验就好了吧。\n只要花上几年锻炼，你就会变强。	莉拉	一般來說，只要慢慢累積經驗就行了。\n花費數年持續鍛鍊，妳就能變強。
+TalkEvent_06_021ID	13	Lila	リラ	だが、それでは遅いのだろう？	Lila	But several years would be too long for you, wouldn't it?	莉拉	但你觉得那样太慢了吧？	莉拉	不過那樣太花時間了，對吧？
+TalkEvent_06_021ID	14	Izana	イザナ	うん。アタシは１日でも早く強くなりたい。\nレスナちゃんのために	Izana	Yes. I need to become strong as quickly as possible so that I can protect Resna.	伊札娜	嗯。为了蕾斯娜，我想尽快变强，越快越好。	伊札娜	嗯，為了蕾斯娜，\n我希望能儘快變強。
+TalkEvent_06_021ID	15	Lila	リラ	であれば、密度の濃い経験をしなければな	Lila	Then your experience must be built up intensively.	莉拉	那就得积累高强度的经验了。	莉拉	這樣的話，妳必須在短時間內取得豐富的經驗才行。
+TalkEvent_06_021ID	16	Lila	リラ	これから様々な手でお前を攻める。\nそのすべてに対応できるようになれ	Lila	Starting now, I will rain a number of different attacks upon you. You must learn to handle them all.	莉拉	之后我会对你使出各种攻击。\n你要学会应对我的所有招式。	莉拉	接下來我會用各種方式攻擊妳。\n妳得設法學會如何應對那些攻擊。
+TalkEvent_06_021ID	17	Izana	イザナ	えええええ！？	Izana	Whaaat?!	伊札娜	什么——？！	伊札娜	咦咦咦咦咦！？
+TalkEvent_06_021ID	18	Lila	リラ	そのハンマーで私の速さに追いつく。\nまずはそこからだ	Lila	Keep pace with me with that hammer. We'll start there.	莉拉	拿着你的锤子跟上我的速度，\n先从这一点开始吧。	莉拉	首先，\n你必須用那把錘子跟上我的速度。
+TalkEvent_06_021ID	19	Izana	イザナ	くーっ！　そっちは２つも武器持ってるのに！	Izana	Ahhh! But you have two weapons!	伊札娜	呜！你可是有两把武器呢！	伊札娜	唔！妳可是手持兩把武器耶！
+TalkEvent_06_021ID	20	Lila	リラ	悔しかったらお前もハンマーを両手に持つことだな	Lila	You also have two hands for two hammers.	莉拉	要是不甘心，你也可以拿两把锤子。	莉拉	不甘心的話，就學會手持雙錘呀。
+TalkEvent_06_021ID	21	Izana	イザナ	…………	Izana	...	伊札娜	……	伊札娜	…………
+TalkEvent_06_021ID	22	Izana	イザナ	なるほど？	Izana	You're absolutely right!	伊札娜	还可以这样？	伊札娜	原來如此……？
+TalkEvent_06_022ID	0	Resna	レスナ	あ！　これ、使える素材だ！\nたくさん採っておかなきゃ！	Resna	Ah! We can use these materials. Let's collect a bunch.	蕾斯娜	啊！这个是用得上的素材！\n得多多采集才行！	蕾斯娜	啊！這是會用到的素材！\n必須多採一點！
+TalkEvent_06_022ID	1	Ryza	ライザ	待った！　レスナ、それ雑草じゃない！？\n素材はこっちの似てるやつ！	Ryza	Wait a second! Resna, those are weeds! The materials we want  look like this!	莱莎	等等！蕾斯娜，那不是杂草吗？！\n素材是这边这个！	萊莎	等等！蕾斯娜，那不是雜草嗎！？\n素材是這個才對！
+TalkEvent_06_022ID	2	Resna	レスナ	うわっ！　私、こんな基本的な間違いを！\nライザ先輩、ありがとうございます！	Resna	*Gasp* I can't believe I'm making such a basic mistake! Thanks, Ryza.	蕾斯娜	哇！我居然犯了这么低级的错误！\n莱莎前辈，谢谢你！	蕾斯娜	哇！我竟然犯了這麼基本的錯誤！\n萊莎前輩，謝謝妳！
+TalkEvent_06_022ID	3	Ryza	ライザ	あはは、よくあることだよ。\nよーし。それじゃ、あたしも採取しよっかな	Ryza	Haha. Happens all the time. Now, where were we? I'll gather some too!	莱莎	哈哈，这是常有的事啦。\n好，那我也来采集素材吧。	萊莎	啊哈哈，這是常有的事。\n好，我也一起來採集吧。
+TalkEvent_06_022ID	4	Valeria	ヴァレリア	私もやってみたい！　見分け方教えてくれる？	Valeria	I'll try too! How can you tell the difference?	瓦莱莉娅	我也想试试看！能教我怎么区分素材吗？	瓦萊莉婭	我也想試試！可以告訴我分辨方法嗎？
+TalkEvent_06_022ID	5	Heidi	ハイディ	ちょっとちょっと！　そんなに先行かない！	Heidi	Hey, hey! Don't go so far ahead!	海蒂	慢着！不能走那么远！	海蒂	等等！別跑到那麼遠的地方！
+TalkEvent_06_022ID	6	Klaudia	クラウディア	レスナさん、少し休みませんか？	Klaudia	Resna, shall we take a little break?	科洛蒂娅	蕾斯娜小姐，要不要休息一会儿？	科洛蒂婭	蕾斯娜小姐，要不要休息一下？
+TalkEvent_06_022ID	7	Resna	レスナ	ふぅ……	Resna	*Sigh*	蕾斯娜	呼……	蕾斯娜	呼……
+TalkEvent_06_022ID	8	Klaudia	クラウディア	あの……もしかして、イザナさんと離れ離れで\n落ち着かないですか？	Klaudia	Um... Are you by any chance having a hard time with Izana gone?	科洛蒂娅	请问……你是不是因为跟伊札娜小姐分开了，\n所以心里很乱？	科洛蒂婭	該不會……妳會感到不安，\n是因為伊札娜小姐不在身邊吧？
+TalkEvent_06_022ID	9	Resna	レスナ	――っ！　いえ、そんなことは！	Resna	Huh?! No, not at all!	蕾斯娜	——！不，不是那样的！	蕾斯娜	唔──！不，沒這回事！
+TalkEvent_06_022ID	10	Klaudia	クラウディア	私は……落ち着かなかったですよ。\nライザと離れ離れになった時	Klaudia	Well, I never felt like myself when Ryza and I were apart.	科洛蒂娅	我遇到同样的情况时……心里是很乱的。\n就是我跟莱莎分开的时候……	科洛蒂婭	其實……和萊莎分開的時候，\n我也曾感到相當不安。
+TalkEvent_06_022ID	11	Resna	レスナ	え？	Resna	What?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_06_022ID	12	Klaudia	クラウディア	ライザの故郷の島での冒険が終わった後。\n父の仕事の都合で、島を離れることになったんです	Klaudia	It was after the adventure on Ryza's little island finished. I had to move away from the island because of my dad's work.	科洛蒂娅	我们在莱莎的故乡海岛的冒险结束后，\n我因为父亲工作的原因离开了岛上。	科洛蒂婭	結束在萊莎故鄉島上的冒險之後，\n為了配合父親的工作，我必須離開島嶼。
+TalkEvent_06_022ID	13	Klaudia	クラウディア	平静でいようと思っていたけれど……\nやっぱり、いつも通りにはできませんでした	Klaudia	I tried to keep my composure, but I just couldn't be my usual self.	科洛蒂娅	我想表现得若无其事……\n可就是无法维持常态。	科洛蒂婭	雖然我想讓自己平靜下來……\n但果然還是做不到。
+TalkEvent_06_022ID	14	Resna	レスナ	クラウディアさん……あの、私……	Resna	Klaudia... Um, I...	蕾斯娜	科洛蒂娅小姐……我……	蕾斯娜	科洛蒂婭小姐……那個，我……
+TalkEvent_06_022ID	15	Klaudia	クラウディア	お父さんと一緒に各地を転々としていた私にとって、\nライザは初めての親友だったから	Klaudia	As someone always moving to different places with my dad, Ryza was my first close friend.	科洛蒂娅	我长年跟随父亲辗转各地，\n莱莎是我交到的第一个好朋友。	科洛蒂婭	對於總是和父親輾轉各地的我來說，\n萊莎是我第一個好朋友。
+TalkEvent_06_022ID	16	Klaudia	クラウディア	一緒に過ごす毎日がすごく楽しくて、嬉しくて。\nその分、みんなと別れる時は本当に寂しかったんです	Klaudia	Every day we spent together was fun and happy. Which made it that much harder when the time came to say goodbye.	科洛蒂娅	跟她一起度过的每一天都那么开心，充满欢乐，\n所以跟大家分别的时候我感到格外不舍。	科洛蒂婭	一起度過的每一天都相當快樂、開心。\n正因為如此，和大家分開時我真的很寂寞。
+TalkEvent_06_022ID	17	Klaudia	クラウディア	ライザが、私の中でどれだけ大きな存在に\nなっていたのか思い知らされました	Klaudia	It made me realize just how important Ryza had become to me.	科洛蒂娅	我这才意识到，\n莱莎在我心中占了多大的分量。	科洛蒂婭	這也讓我明白，\n萊莎在我心目中的地位是多麼重要。
+TalkEvent_06_022ID	18	Klaudia	クラウディア	今のレスナさんも、もしかしたら同じ気持ち\nなんじゃないかって	Klaudia	So I had a feeling that you might be going through the same thing right now, Resna.	科洛蒂娅	我想，\n现在的蕾斯娜可能跟那时的我抱有同样的心情。	科洛蒂婭	說不定蕾斯娜小姐現在的心情\n和我當時是一樣的。
+TalkEvent_06_022ID	19	Resna	レスナ	すみません。前言撤回します。\nイザナちゃんと離れてから、ずっと落ち着かないです	Resna	I'm sorry. I take back what I said. You're right, I haven't been myself since Izana and I parted ways.	蕾斯娜	抱歉，我收回刚才的话。\n我跟伊札娜分开之后，心里确实一直乱乱的。	蕾斯娜	抱歉，我確實在逞強。\n和伊札娜分開後，我一直感到坐立難安。
+TalkEvent_06_022ID	20	Resna	レスナ	私、昔から人付き合いが苦手で。でも、イザナちゃんは\nそんな私にできた初めての親友なんです	Resna	I've always had trouble connecting with people. Despite that, I managed to make my first close friend in Izana.	蕾斯娜	我从小就不擅长人际交往。\n但伊札娜是我交上的第一个好朋友。	蕾斯娜	我從小就不擅長和他人相處。\n即使如此，伊札娜還是願意成為我第一個好朋友。
+TalkEvent_06_022ID	21	Resna	レスナ	そのせいか、子どもの頃はイザナちゃんが\n他の子と遊ぶたびに、そわそわしていました	Resna	So when we were younger, I would get worried whenever she played with other kids.	蕾斯娜	或许是因为这个，我小时候看到伊札娜\n和别的孩子一起玩时，心里总是会很忐忑。	蕾斯娜	大概是因為這樣。小時候，\n當伊札娜和其他孩子玩在一起時，我都會很緊張。
+TalkEvent_06_022ID	22	Resna	レスナ	このまま私と遊んでくれなくなったらどうしよう、って	Resna	I was afraid she might never come back to play with me again.	蕾斯娜	我会想，她要是就这么不跟我玩了可怎么办？	蕾斯娜	擔心她不願意再和我一起玩了。
+TalkEvent_06_022ID	23	Resna	レスナ	私にとってはたった一人の友達だけど、\nイザナちゃんにはたくさんの友達がいるから	Resna	For me, Izana was my only friend. But for Izana, I was one of many friends.	蕾斯娜	对我来说，她是我唯一的朋友，\n但伊札娜自己有许多朋友。	蕾斯娜	對我來說，伊札娜是唯一的朋友。\n不過，她的朋友卻很多……
+TalkEvent_06_022ID	24	Klaudia	クラウディア	レスナさん……	Klaudia	Resna...	科洛蒂娅	蕾斯娜小姐……	科洛蒂婭	蕾斯娜小姐……
+TalkEvent_06_022ID	25	Resna	レスナ	あの頃の不安が、今でもときどき顔を出します	Resna	Those childhood insecurities still come up every now and then.	蕾斯娜	直到现在，我有时还会表现出那种不安的情绪。	蕾斯娜	即便到現在，我的表情依舊會流露出那種不安。
+TalkEvent_06_022ID	26	Resna	レスナ	イザナちゃんがそばにいないと、すぐに動揺して。\n本当に、情けないです	Resna	I get upset when Izana's not around. It really is silly.	蕾斯娜	只要伊札娜不在身边，我立刻就会慌乱起来。\n实在是很难为情。	蕾斯娜	只要伊札娜不在身邊，我就會立刻感到心神不寧。\n真是太丟人了。
+TalkEvent_06_022ID	27	Klaudia	クラウディア	大丈夫ですよ、レスナさん	Klaudia	It's okay, Resna.	科洛蒂娅	蕾斯娜小姐，你放心。	科洛蒂婭	沒關係的，蕾斯娜小姐。
+TalkEvent_06_022ID	28	Klaudia	クラウディア	どれだけ離れていても、ライザはずっと私のことを\n友達だと思ってくれてました	Klaudia	No matter how far apart we were, Ryza never stopped thinking of me as a friend.	科洛蒂娅	不管分开多远，\n在莱莎心中，我都是她的朋友。	科洛蒂婭	無論兩人的距離多遠，\n萊莎一直把我當成朋友。
+TalkEvent_06_022ID	29	Klaudia	クラウディア	イザナさんもそうだと思うんです。\nいつだってレスナさんのことを大事に思ってますよ	Klaudia	I'm sure that Izana's the same. She probably hasn't stopped thinking about you for a single moment.	科洛蒂娅	伊札娜小姐肯定也是这么想的。\n她一直都很在乎你。	科洛蒂婭	我認為伊札娜小姐也是這麼想的。\n無論何時，她都很珍惜蕾斯娜小姐。
+TalkEvent_06_022ID	30	Klaudia	クラウディア	だから今は、イザナさんを信じて頑張りましょう。\n修行してるイザナさんに負けないくらいに。ね？	Klaudia	So for now, it's important that you have faith in Izana and be strong. Strong enough to outdo Izana even as she trains, okay?	科洛蒂娅	所以现在就请相信伊札娜小姐，继续努力吧。\n不能输给正在修行的伊札娜小姐，好吗？	科洛蒂婭	所以現在就相信伊札娜小姐，然後繼續努力吧。\n別輸給正在修行的伊札娜小姐囉！答應我，好嗎？
+TalkEvent_06_022ID	31	Resna	レスナ	ありがとうございます、クラウディアさん。\nおかげで、気持ちが少し楽になりました	Resna	Thanks, Klaudia. I feel a little better already.	蕾斯娜	谢谢你，科洛蒂娅小姐。\n听你这么说，我轻松了不少。	蕾斯娜	謝謝妳，科洛蒂婭小姐。\n妳的這番話讓我比較釋懷了。
+TalkEvent_06_022ID	32	Resna	レスナ	泉探し、また頑張れそうです。\n今は私にできることを精一杯やらなくちゃ、ですね！	Resna	I think I can focus on searching for the springs again. Now is the time for me to do what I can as best as I can!	蕾斯娜	我又有力气去继续找泉水了。\n我得努力去做力所能及的事，对吧？	蕾斯娜	看來，我可以繼續尋找泉水了。\n現在最重要的是盡我所能，對吧？
+TalkEvent_06_022ID	33	Klaudia	クラウディア	ふふっ、その意気です	Klaudia	Hehe. That's the spirit.	科洛蒂娅	呵呵，就是要这么想。	科洛蒂婭	呵呵，就該這樣才對。
+TalkEvent_06_022ID	34	Resna	レスナ	はい！　あっ、ヴァレリアたち、あんな所まで\n行ってる！　クラウディアさん、追いかけましょう！	Resna	All right! Oh, Valeria and the others are already all the way over there! Klaudia, we should catch up.	蕾斯娜	好的！啊，瓦莱莉娅她们都走到那么远的地方了！\n科洛蒂娅小姐，我们快跟上她们吧！	蕾斯娜	是！啊，瓦萊莉婭她們竟然已經走那麼遠了！\n科洛蒂婭小姐，我們追上去吧！
+TalkEvent_06_023ID	0	Resna	レスナ	周囲の植生が明らかに違う！\nきっとここが翡翠の煌水が採れる泉です！	Resna	The vegetation around here is completely different. This has got to be the spring we're looking for!	蕾斯娜	周围的植被明显不一样！\n这里一定就是能采集到翡翠煌水的泉眼！	蕾斯娜	周遭的植物和其他地方明顯不同！\n能汲取翡翠煌水的泉水肯定在這裡！
+TalkEvent_06_023ID	1	Klaudia	クラウディア	本当？\nよかった、やっと見つかりましたね、レスナさん	Klaudia	Oh really? Great, we finally found it!	科洛蒂娅	真的吗？\n太好了，蕾斯娜小姐，总算是找到了。	科洛蒂婭	真的嗎？太棒啦！\n蕾斯娜小姐，我們總算找到了。
+TalkEvent_06_023ID	2	Ryza	ライザ	早速、水が湧き出ている場所を調べよっか	Ryza	All right, let's start looking for the source of the spring water.	莱莎	赶快去调查一下泉眼吧。	萊莎	快去調查湧泉的源頭吧。
+TalkEvent_06_023ID	3	Valeria	ヴァレリア	待って。魔物の気配がするわ	Valeria	Wait! I sense a monster nearby.	瓦莱莉娅	等等，有魔物的气息。	瓦萊莉婭	等等，有魔物的氣息。
+TalkEvent_06_023ID	4	Resna	レスナ	あんな魔物もここには居るんですね	Resna	I didn't know that kind of monster was around here.	蕾斯娜	这里居然还有那种魔物啊。	蕾斯娜	原來這裡也有那種魔物。
+TalkEvent_06_023ID	5	Heidi	ハイディ	おかしいな、あんな魔物の情報、\n仕入れた中にはなかったんだけど	Heidi	That's strange. There wasn't anything about this species of monster in the information I'd gathered.	海蒂	真奇怪，\n我收集的情报里都没提过有那种魔物。	海蒂	怪了，我沒聽說過那種魔物\n會出現在這裡啊。
+TalkEvent_06_023ID	6	Resna	レスナ	何か、様子がおかしくないですか？	Resna	Is it just me, or does something seem strange about it?	蕾斯娜	它看起来是不是有点奇怪？	蕾斯娜	不覺得牠有點奇怪嗎？
+TalkEvent_06_023ID	7	Valeria	ヴァレリア	落ち着きがない。\nそれに――目はこっちを見てる！	Valeria	It looks agitated. And...it's looking this way!	瓦莱莉娅	它很激动，\n而且——它朝我们看过来了！	瓦萊莉婭	一副蠢蠢欲動的模樣。\n而且──還直直盯著我們看！
+TalkEvent_06_023ID	8	Ryza	ライザ	やたら好戦的ね！	Ryza	It's quite aggressive!	莱莎	真是异常好战啊！	萊莎	似乎十分好戰呢！
+TalkEvent_06_023ID	9	Valeria	ヴァレリア	ン望むところぉ！　お手並み拝見と行くわよ！	Valeria	Bring it on! Let's see what it's got!	瓦莱莉娅	正合我意！就让我看看你的本事吧！	瓦萊莉婭	正合我意！讓我瞧瞧你的本事吧！
+TalkEvent_06_024ID	0	Ryza	ライザ	ふぅ。なかなか手ごわかったなぁ。\nでも、動きは止められたね	Ryza	Phew. That was pretty tough. But we stopped it in its tracks.	莱莎	呼，真棘手啊。\n不过总算是让它安静下来了。	萊莎	呼！雖然費了一番功夫，\n但還是成功阻止牠了。
+TalkEvent_06_024ID	1	Resna	レスナ	はい。でも、すごく気が立ってたみたいでした。\n何か理由があるんでしょうか……	Resna	Yes. But it seemed really jumpy. I wonder why that is.	蕾斯娜	是啊。不过，它刚才看起来特别激动，\n到底是发生了什么呢……	蕾斯娜	沒錯。不過是為什麼呢……\n牠好像很暴躁。
+TalkEvent_06_024ID	2	Valeria	ヴァレリア	今は辺りを警戒しておくしかないわね。それより……	Valeria	The only thing we can do for now is stay alert. But more importantly...	瓦莱莉娅	现在只能继续提高警惕了。说起来……	瓦萊莉婭	只能先對周邊保持警戒了。不過……
+TalkEvent_06_024ID	3	Valeria	ヴァレリア	レスナ、これでやっと翡翠の煌水を採取できるわね	Valeria	Resna, we can finally collect some Jade Water!	瓦莱莉娅	蕾斯娜，这下终于能采集到翡翠煌水了。	瓦萊莉婭	蕾斯娜，我們終於可以採集翡翠煌水了！
+TalkEvent_06_024ID	4	Resna	レスナ	うん！　それじゃ、早速！	Resna	Right! Let's get started!	蕾斯娜	嗯！我们快点采集吧！	蕾斯娜	嗯！我立刻動手！
+TalkEvent_06_024ID	5	Lara	ララ	人払いの役に就かせた魔物を、まさかあなたがたが\n倒してしまうとは	Lara	So you're the ones who defeated my guardian monster. Unbelievable!	拉拉	我让魔物帮我赶人，\n没想到你们竟然打倒了它。	拉拉	沒想到用來驅逐外人的魔物\n會被妳們給打倒。
+TalkEvent_06_024ID	6	Resna	レスナ	っ！　あなたは！	Resna	*Gasp* You!	蕾斯娜	啊！你是……！	蕾斯娜	唔……！妳是！
+TalkEvent_06_024ID	7	Lara	ララ	ごきげんよう。\n錬金術士のレスナ……でしたわね？	Lara	Hello, my dear. Let me see... You must be Resna the alchemist, correct?	拉拉	你们好。\n你是炼金术士蕾斯娜……对吧？	拉拉	好久不見。\n妳是鍊金術士蕾斯娜……沒錯吧？
+TalkEvent_06_024ID	8	Resna	レスナ	極夜の錬金党！？	Resna	You're that Polar Night Alchemist!	蕾斯娜	极夜的炼金党？！	蕾斯娜	極夜的鍊金黨！？
+TalkEvent_06_024ID	9	Heidi	ハイディ	ひいっ！　出たっ！？	Heidi	Eek! Is that her?!	海蒂	噫！从哪冒出来的？！	海蒂	呀！出現了！？
+TalkEvent_06_024ID	10	Ryza	ライザ	極夜の錬金党……\nじゃあ、あなたが前にレスナたちの邪魔をした奴！？	Ryza	A Polar Night Alchemist... So you're the one who got in their way before!	莱莎	极夜的炼金党……\n就是之前也妨碍过蕾斯娜他们的家伙？！	萊莎	極夜的鍊金黨……\n妳就是之前妨礙蕾斯娜她們的傢伙！？
+TalkEvent_06_024ID	11	Klaudia	クラウディア	人払いの魔物って……\nそれじゃあ、あの魔物がここにいたのは……！	Klaudia	You released a guardian monster...? That must've been the monster just now.	科洛蒂娅	你说你让魔物帮你赶人……\n那它会在这里就是因为……！	科洛蒂婭	驅逐外人的魔物……\n所以牠會在這裡是因為……！
+TalkEvent_06_024ID	12	Lara	ララ	あの魔物の名前は王たるわたくしが\n覚えておきましょう。王国の礎になった者として	Lara	As royalty, I shall commit the name of the monster to memory as one who helped lay the foundations of my kingdom.	拉拉	本王会记住那头魔物的名字，\n以感谢它成为王国的基石。	拉拉	身為國王，我會記住那隻魔物的名字，\n以紀念牠對這個王國的付出。
+TalkEvent_06_024ID	13	Lara	ララ	後は、あなたがたが邪魔さえしなければ、事足りますわ	Lara	And now, I should have everything I need so long as you all stay out of my way.	拉拉	然后只要你们不来碍事就完美了。	拉拉	接下來，只要妳們不來妨礙我，事情就圓滿了。
+TalkEvent_06_024ID	14	Valeria	ヴァレリア	事足りるって……どういうつもりなの！？\n私たちの周りをちょろちょろしてるみたいじゃない	Valeria	Everything you need? What are you after? You just seem to turn up wherever we go.	瓦莱莉娅	什么完美了……你到底在打什么主意？！\n看来你在我们周围偷偷做了不少小动作啊。	瓦萊莉婭	圓滿……妳想做什麼！？\n別老是在我們身邊打轉！
+TalkEvent_06_024ID	15	Lara	ララ	わたくしの王国のために足を運んでいるだけですわ。\nあなたがたこそ、行く先々で目障りではありませんの？	Lara	I have only come here for my kingdom. On the contrary, it is you people who keep disrupting my travels.	拉拉	我只是在为我的王国奔波。\n我才想问你们，总出现在我面前，不知道自己碍眼吗？	拉拉	我只是為了我的王國奔走罷了。\n倒是妳們，不要處處找我麻煩。
+TalkEvent_06_024ID	16	Lara	ララ	ともかく、お邪魔な者は排すれば良いですわね。\nわたくしは必要な素材をすべて採取するだけのこと	Lara	At any rate, I shall exterminate all pests that stand in my way. I am only here to collect all the materials I need.	拉拉	总之我要做的就是采集所有必要的素材，\n如有碍事者，只要铲除就好。	拉拉	總之，清除眼前的障礙就沒問題了。\n我只需要將所有必要的素材採集到手。
+TalkEvent_06_024ID	17	Resna	レスナ	あの、素材って……あなたの目的も、この泉\nなんでしょうか？	Resna	Um, by materials...do you mean you're also looking for the springs?	蕾斯娜	请问，你要采集的素材……\n你也是为这眼泉水而来的吗？	蕾斯娜	素材……難道，\n妳的目標也是這泉水嗎？
+TalkEvent_06_024ID	18	Lara	ララ	それが何か？	Lara	Perhaps, but why should this concern you?	拉拉	那又怎么了？	拉拉	那又怎麼樣？
+TalkEvent_06_024ID	19	Resna	レスナ	そ、それなら！　素材を分け合いませんか？\n私、この地方の長く続く不作を解決するために……	Resna	Th-Then, how about we share the materials? We need to use them to end the poor harvests that have been plaguing this region!	蕾斯娜	那、那样的话！要一起分享素材吗？\n我想解决这片土地上的长期歉收问题……	蕾斯娜	那、那我們要不要分享素材？\n我是為了解決這個地區的長年歉收……
+TalkEvent_06_024ID	20	Lara	ララ	分け合う？　なぜですの、どうしてですの？	Lara	Share? Why should I? Why would I?	拉拉	分享？我有什么理由这么做？	拉拉	分享？為什麼？為何要這麼做？
+TalkEvent_06_024ID	21	Lara	ララ	わたくしはわたくしの王国のために作物の栄養剤を\n作りたい。他の者に情けをかける気などありませんのよ	Lara	I wish to produce tonics for crops in my kingdom and my kingdom alone. I have no interest in taking pity on others.	拉拉	我想为我的王国制作作物营养剂。\n可没空去同情别人。	拉拉	我只替我的王國調製農作物營養劑，\n一點也不在意其他人的死活。
+TalkEvent_06_024ID	22	Resna	レスナ	で、でも！　本当の王様なら、もっと色んな人たちを\n守りたいと思うはずです！　お願いです！	Resna	B-But, a real queen should want to protect as many people as they can. I'm begging you!	蕾斯娜	可、可是！真正的国王应该去守护更多的人！\n拜托你了！	蕾斯娜	可、可是，真正的國王應該會\n想要保護更多人！拜託了！
+TalkEvent_06_024ID	23	Lara	ララ	あら？　わたくしが、本物の王ではないとでも？\nこれはまた無礼千万ですわ	Lara	Oh dear. Are you suggesting that I am not a real queen? My my, how incredibly disrespectful.	拉拉	哎呀？你的意思是我并非真正的国王？\n真是口出狂言。	拉拉	哎呀？妳的意思是，我不是真正的國王？\n好大的膽子啊。
+TalkEvent_06_024ID	24	Resna	レスナ	そうは言ってません！　ただ、必要な分だけ\n分け合っても――	Resna	That's not what I mean! All I'm saying is that we could share and just take what we need...	蕾斯娜	我没有那个意思！\n我只是觉得可以各取所需——	蕾斯娜	不是的！\n只要互相分享需要的量就──
+TalkEvent_06_024ID	25	Valeria	ヴァレリア	レスナ！	Valeria	Resna!	瓦莱莉娅	蕾斯娜！	瓦萊莉婭	蕾斯娜！
+TalkEvent_06_024ID	26	Valeria	ヴァレリア	くっ！	Valeria	Urk!	瓦莱莉娅	呜！	瓦萊莉婭	唔！
+TalkEvent_06_024ID	27	Resna	レスナ	ヴァレリア！	Resna	Valeria!	蕾斯娜	瓦莱莉娅！	蕾斯娜	瓦萊莉婭！
+TalkEvent_06_024ID	28	Lara	ララ	ララ・キングダムの法に照らし、厳罰に処します	Lara	You shall be punished severely in accordance with the laws of the Kingdom of Lara.	拉拉	依照拉拉王国的法律，严惩不贷。	拉拉	按照拉拉王國的律法，應處以嚴刑。
+TalkEvent_06_025_00ID	0	Valeria	ヴァレリア	はっ！　はああっ！	Valeria	Ugh! Ah!	瓦莱莉娅	喝！啊——！	瓦萊莉婭	喝！喝啊啊！
+TalkEvent_06_025_00ID	1	Lara	ララ	はっ！　はああっ！	Lara	Urgh! Ahhh!	拉拉	喝！啊——！	拉拉	喝！喝啊啊！
+TalkEvent_06_025_00ID	2	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_06_025_00ID	3	Lara	ララ	ふん……	Lara	Hmm...	拉拉	哼……	拉拉	呼……
+TalkEvent_06_025_00ID	4	Lara	ララ	はあ……	Lara	*Sigh*	拉拉	唉……	拉拉	哈啊……
+TalkEvent_06_025_00ID	5	Lara	ララ	存外、手を焼かせますのね	Lara	My, you are much more trouble than I had anticipated.	拉拉	还挺能给人添麻烦的呢。	拉拉	真棘手呢！令我出乎意料。
+TalkEvent_06_025_00ID	6	Valeria	ヴァレリア	はっ	Valeria	Ugh.	瓦莱莉娅	喝！	瓦萊莉婭	哈！
+TalkEvent_06_025_00ID	7	Lara	ララ	ふふっ	Lara	Hehe.	拉拉	呵呵。	拉拉	呵呵。
+TalkEvent_06_025_00ID	8	Valeria	ヴァレリア	っ！！	Valeria	*Gasp*	瓦莱莉娅	！！	瓦萊莉婭	唔！！
+TalkEvent_06_025_00ID	9	Lara	ララ	痛い思いをしたくなければ、家におかえりなさいな？	Lara	I suggest you scurry home, lest you suffer more.	拉拉	要是不想吃苦头，就乖乖回家吧？	拉拉	不想自討苦吃的話，就趕快回家吧？
+TalkEvent_06_025_00ID	10	Valeria	ヴァレリア	……っ！	Valeria	...	瓦莱莉娅	……！	瓦萊莉婭	唔……！
+TalkEvent_06_025_00ID	11	Izana	イザナ	させないよ！	Izana	Not so fast!	伊札娜	不会让你得逞的！	伊札娜	不會讓妳得逞的！
+TalkEvent_06_025_00ID	12	Valeria	ヴァレリア	イザナ！？	Valeria	Izana?!	瓦莱莉娅	伊札娜？！	瓦萊莉婭	伊札娜！？
+TalkEvent_06_025_00ID	13	Izana	イザナ	へへっ	Izana	Hehe.	伊札娜	嘿嘿。	伊札娜	嘿嘿。
+TalkEvent_06_025_00ID	14	Izana	イザナ	お待たせ、レスナちゃん	Izana	Sorry I'm late, Resna!	伊札娜	蕾斯娜，让你久等了！	伊札娜	久等啦，蕾斯娜。
+TalkEvent_06_025_00ID	15	Resna	レスナ	イザナちゃん！	Resna	Izana!	蕾斯娜	伊札娜！	蕾斯娜	伊札娜！
+TalkEvent_06_025_00ID	16	Klaudia	クラウディア	　	Klaudia	　	科洛蒂娅	　	科洛蒂婭	　
+TalkEvent_06_025_00ID	17	Lila	リラ	実戦向けに急いで仕上げた	Lila	We hurried and got her primed for combat.	莉拉	我快速将她训练成了擅长实战的类型。	莉拉	為了快速提升實戰能力，我們進行了密集訓練。
+TalkEvent_06_025_00ID	18	Klaudia	クラウディア	リラさん！	Klaudia	Lila!	科洛蒂娅	莉拉小姐！	科洛蒂婭	莉拉小姐！
+TalkEvent_06_025_00ID	19	Lila	リラ	まだまだ訓練の余地はあるが、なんとか間に合ったな	Lila	She still has a few things to work on, but we managed to get her up to speed.	莉拉	其实还有继续训练提升的空间，不过还好我们及时赶到了。	莉拉	雖然還有很多進步空間，但總算是趕上了。
+TalkEvent_06_025_00ID	20	Ryza	ライザ	これで頼もしさ倍増だよ！	Ryza	Now we have double the strength!	莱莎	这下就更添了一道可靠的保险！	萊莎	這下變得更可靠了呢！
+TalkEvent_06_025_00ID	21	Klaudia	クラウディア	うん！	Klaudia	Yeah!	科洛蒂娅	嗯！	科洛蒂婭	嗯！
+TalkEvent_06_025_00ID	22	Lara	ララ	ならばイザナ。あなたも共に地に堕とすのみですわね	Lara	Well then, Izana. You leave me no choice but to bury you both in the ground.	拉拉	那么伊札娜，我会让你也一败涂地。	拉拉	那伊札娜，妳也只好一起下地獄了。
+TalkEvent_06_025_00ID	23	Izana	イザナ	それは――っ、どうかな！	Izana	I don't think so! Not today!	伊札娜	你会不会如愿——还不好说呢！	伊札娜	這個嘛──可不一定喔！
+TalkEvent_06_025_00ID	24	Izana	イザナ	はあっ！	Izana	Hyah!	伊札娜	喝啊！	伊札娜	喝啊！
+TalkEvent_06_025_00ID	25	Lara	ララ	隙だらけ……っ！？	Lara	You're wide open!	拉拉	破绽百出……？！	拉拉	破綻百出……！？
+TalkEvent_06_025_00ID	26	Izana	イザナ	たあっ！	Izana	*Grunt*	伊札娜	啊！	伊札娜	喝啊！
+TalkEvent_06_025_00ID	27	Lara	ララ	　	Lara	　	拉拉	　	拉拉	　
+TalkEvent_06_025_00ID	28	Lara	ララ	なんですの、それ	Lara	My goodness, what was that?	拉拉	那是什么？	拉拉	那是什麼？
+TalkEvent_06_025_00ID	29	Izana	イザナ	隙を無くす必勝法だよ	Izana	An undefeatable, airtight technique.	伊札娜	是消除破绽的必胜招式。	伊札娜	無懈可擊的必勝法。
+TalkEvent_06_025_00ID	30	Izana	イザナ	ふんっ	Izana	Ha!	伊札娜	嘿！	伊札娜	哼。
+TalkEvent_06_025_00ID	31	Izana	イザナ	ハンマーは最強だ	Izana	This hammer is the ultimate weapon.	伊札娜	锤子是最强的。	伊札娜	錘子是最強的武器。
+TalkEvent_06_025_00ID	32	Izana	イザナ	だから、２つあればもっと最強だ！	Izana	Make it two, and I'm unstoppable!	伊札娜	所以有了两把锤子更是最最强！	伊札娜	所以，有了兩把就能成為史上最強！
+TalkEvent_06_025_00ID	33	Izana	イザナ	これでもう、アンタには負けない！	Izana	You're no match for me now!	伊札娜	这下我就不会输给你了！	伊札娜	這樣我就不會再輸給妳了！
+TalkEvent_06_025_00ID	34	Lara	ララ	ふ、あははは！　無茶苦茶ですわ！	Lara	Ahaha! How absurd!	拉拉	呵……哈哈哈！真是胡来！	拉拉	噗哈哈哈！妳真是亂來！
+TalkEvent_06_025_00ID	35	Lara	ララ	でも、面白い	Lara	Yet amusing.	拉拉	不过，有意思。	拉拉	不過，挺有趣的。
+TalkEvent_06_025_00ID	36	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_025_00ID	37	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_025_00ID	38	Lara	ララ	ふふ	Lara	Hehe.	拉拉	呵呵。	拉拉	呵呵。
+TalkEvent_06_025_00ID	39	Izana	イザナ	っ！	Izana	Huh?	伊札娜	唔！	伊札娜	唔……！
+TalkEvent_06_025_00ID	40	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_06_025_00ID	41	Lara	ララ	　	Lara	　	拉拉	　	拉拉	　
+TalkEvent_06_025_00ID	42	Lara	ララ	あら。来ると思ってましたのに	Lara	Well now, I rather expected you to take the shot.	拉拉	哎呀，我还以为你会攻上来的。	拉拉	哎呀，我還以為妳會出手。
+TalkEvent_06_025_00ID	43	Lara	ララ	あなた、変わりましたのね	Lara	You really have changed.	拉拉	你变了呢。	拉拉	妳變了呢。
+TalkEvent_06_025_00ID	44	Izana	イザナ	言ったでしょ	Izana	Like I said...	伊札娜	我说过的吧。	伊札娜	我說過了吧？
+TalkEvent_06_025_00ID	45	Izana	イザナ	アタシには、騎士として守りたい相手がいるって！	Izana	...There's someone I want to protect.	伊札娜	我有想作为骑士去守护的对象！	伊札娜	身為騎士，我擁有想守護的人！
+TalkEvent_06_025_00ID	46	Izana	イザナ	それに、油断は禁物だって教わったからね！	Izana	I was also taught to never let my guard down!	伊札娜	而且我也学到了不能轻敌！	伊札娜	而且妳教過我，輕敵是大忌！
+TalkEvent_06_025_00ID	47	Lara	ララ	ますますあなたが	Lara	I have truly grown...	拉拉	我真是越来……	拉拉	我對妳……
+TalkEvent_06_025_00ID	48	Lara	ララ	欲しくなりましたわっ	Lara	...to want you even more.	拉拉	越想得到你了。	拉拉	越來越感興趣了。
+TalkEvent_06_025_01ID	0	Lara	ララ	そう。どうやらあなたは、極夜の闇とは相容れない\n存在だったようです。人選を間違えましたわ	Lara	I see. It would appear as though you are incompatible with the darkness of the Polar Night. I was mistaken to seek you out.	拉拉	嗯，看来你是与极夜之暗水火不容的人物。\n我选错人了。	拉拉	確實，看來妳並不適合極夜的黑暗。\n是我搞錯人選了。
+TalkEvent_06_025_01ID	1	Resna	レスナ	そうだよ！\nイザナちゃんは、あなたについてなんかいかない！	Resna	You've got that right! Izana would never join you.	蕾斯娜	当然！伊札娜是不会跟你走的！	蕾斯娜	沒錯！\n伊札娜才不會投靠妳！
+TalkEvent_06_025_01ID	2	Resna	レスナ	イザナちゃんと私は、\nあなたになんか負けないんだから！	Resna	And you'll never defeat the two of us!	蕾斯娜	伊札娜和我是不会输给你这种人的！	蕾斯娜	因為伊札娜和我\n是不可能輸給妳的！
+TalkEvent_06_025_01ID	3	Empel	アンペル	随分盛り上がっているようですね	Empel	What's all the excitement about?	安佩尔	还挺热闹的嘛。	安佩爾	真熱鬧啊。
+TalkEvent_06_025_01ID	4	Izana	イザナ	アンタは、ララと一緒にいた……	Izana	You're the one who was with Lara!	伊札娜	你是之前和拉拉一起的那个……	伊札娜	你是和拉拉一起的……
+TalkEvent_06_025_01ID	5	Heidi	ハイディ	嘘っ！？　仲間がいたの！？	Heidi	What?! You have an accomplice?!	海蒂	什么？！她还有同伙？！	海蒂	咦！？是同夥嗎！？
+TalkEvent_06_025_01ID	6	Resna	レスナ	そんな……	Resna	I can't believe it...	蕾斯娜	不会吧……	蕾斯娜	竟然……
+TalkEvent_06_026ID	0	Empel	アンペル	素材の採取は済みましたよ	Empel	I have finished collecting the materials.	安佩尔	我已经采集完素材了。	安佩爾	素材已經採集完成。
+TalkEvent_06_026ID	1	Lara	ララ	よろしくてよ。間違いなく翡翠の煌水ですのね？	Lara	Music to my ears. You are certain that it is Jade Water, I presume?	拉拉	那就好。确定是翡翠煌水吧？	拉拉	很好。是翡翠煌水沒錯吧？
+TalkEvent_06_026ID	2	Empel	アンペル	間違いないでしょう	Empel	Completely.	安佩尔	千真万确。	安佩爾	不會錯的。
+TalkEvent_06_026ID	3	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+TalkEvent_06_026ID	4	Lila	リラ	あいつ……どうするつもりだ	Lila	He's got something up his sleeve...	莉拉	那家伙……在打什么算盘？	莉拉	那傢伙……究竟在打什麼主意？
+TalkEvent_06_026ID	5	Lara	ララ	それでは、この輩たちを成敗いたしましょうか	Lara	Now, shall we teach these little brats a lesson?	拉拉	那就处理掉这群家伙吧。	拉拉	那就來收拾這些人吧？
+TalkEvent_06_026ID	6	Lara	ララ	少しばかり手痛いお仕置きが必要なようですから。\nホホホ	Lara	I believe they are overdue for a bit of a harsh punishment. *Chuckle*	拉拉	看来得好好教训她们一顿呢。\n呵呵呵。	拉拉	看來她們必須接受嚴厲的教訓。\n呵呵呵！
+TalkEvent_06_026ID	7	Empel	アンペル	それは……できかねますな	Empel	I am afraid that's not going to happen.	安佩尔	这个……我恐怕办不到。	安佩爾	關於這件事……恕難從命。
+TalkEvent_06_026ID	8	Lara	ララ	ホ？　今、なんと言ったのです？	Lara	What did you just say?	拉拉	哦？你说什么？	拉拉	嗯？你說什麼？
+TalkEvent_06_026ID	9	Empel	アンペル	この腕がまだ動くのは、そこの錬金術士の\nおかげでしてね	Empel	That alchemist standing right there is the reason why I can still use my arm.	安佩尔	我的手臂之所以还能动，\n是因为那边那位炼金术士帮了忙。	安佩爾	我的這隻手現在還能活動，\n全是那位鍊金術士的功勞。
+TalkEvent_06_026ID	10	Empel	アンペル	彼女は実に優秀です。錬金術の基礎を教えたのは\n私ですが、想像以上の成長を見せてくれた	Empel	She is incredibly gifted. I may have taught her the fundamentals of alchemy, but she has grown far beyond my expectations.	安佩尔	她十分优秀，虽然教她炼金术基础的人是我，\n但她的成长远超我的想象。	安佩爾	她非常優秀。雖然指導她鍊金術基礎的人是我，\n但她的成長速度超乎想像。
+TalkEvent_06_026ID	11	Ryza	ライザ	は……はは	Ryza	Ah...haha.	莱莎	哈……哈哈。	萊莎	哈……哈哈……
+TalkEvent_06_026ID	12	Empel	アンペル	さすがに大事な教え子やその仲間を傷つけるような\n真似は心が痛むのでね	Empel	I could never do anything so heartbreaking as to hurt such a precious student and her friends.	安佩尔	让我伤害重要的学生和她的伙伴，\n还是很让人痛心的。	安佩爾	畢竟我不忍心傷害\n心愛的學生和她的夥伴們啊。
+TalkEvent_06_026ID	13	Resna	レスナ	ええっ！？　それってつまり……\nライザ先輩のお師匠様ってこと！？	Resna	What?! So that means... He's your teacher, Ryza?	蕾斯娜	咦？！也就是说……\n他是莱莎前辈的师父？！	蕾斯娜	咦！？也就是說……\n他是萊莎前輩的師父！？
+TalkEvent_06_026ID	14	Lara	ララ	あなた……いったい何が目的ですの？	Lara	You... What is the meaning of all this?	拉拉	你……究竟有什么目的？	拉拉	你……究竟有什麼目的？
+TalkEvent_06_026ID	15	Empel	アンペル	実は、この国には錬金術を悪用しようとする\n不埒な輩がいるという噂を聞きましてね	Empel	Well, I caught wind of a certain scoundrel in these lands out to use alchemy for nefarious purposes.	安佩尔	其实我听说在这个国家，\n有想利用炼金术作恶的恶人。	安佩爾	事實上，我聽說這個國家出現了\n打算濫用鍊金術的不肖之徒。
+TalkEvent_06_026ID	16	Empel	アンペル	少し興味がわいたので調査をしていたのです	Empel	Finding it somewhat curious, I decided to investigate.	安佩尔	我有些感兴趣，所以调查了一下。	安佩爾	這引起了我的興趣，所以我便展開調查。
+TalkEvent_06_026ID	17	Empel	アンペル	ただ、あのうまい菓子を二度と食べられなくなる\nことだけは残念でなりませんな。ララ様	Empel	What a shame, however, that I will never eat those delectable sweets of yours again, Your Majesty.	安佩尔	只有一件事令我感到遗憾，\n那就是我再也吃不到那些美味点心了，拉拉大人。	安佩爾	不過，拉拉陛下，我對於\n無法再嘗到那美味的點心感到相當遺憾。
+TalkEvent_06_026ID	18	Lara	ララ	わたくしを……王を……欺いていたと……！？	Lara	How dare you deceive me... How dare you deceive your queen!	拉拉	你欺骗了我……欺骗了国王……？！	拉拉	你竟敢……欺……欺騙本王……！？
+TalkEvent_06_026ID	19	Empel	アンペル	悪いが、お前が思う程まだ闇に染まっていないのでね	Empel	I hate to be the bearer of bad news, but it seems as though you are not as bathed in darkness as you wish to believe.	安佩尔	抱歉，我被黑暗侵蚀的程度远没有你想的那么深。	安佩爾	抱歉，其實妳的心地還沒有差到那種地步。
+TalkEvent_06_026ID	20	Empel	アンペル	ライザ！	Empel	Ryza!	安佩尔	莱莎！	安佩爾	萊莎！
+TalkEvent_06_026ID	21	Ryza	ライザ	わあっ！？　っとと。ふう……	Ryza	Aaaah! Ugh...	莱莎	哇？！啊，呼……	萊莎	哇啊！？噢，呼……
+TalkEvent_06_026ID	22	Lara	ララ	ふざけた真似を……！　許されません、\nこれは許されませんわ	Lara	Enough of this nonsense! You must pay. I will make you pay for this!	拉拉	敢耍这种小伎俩……！\n不可饶恕，我饶不了你。	拉拉	竟敢小看我……！不可饒恕！\n我不會放過你的。
+TalkEvent_06_026ID	23	Lila	リラ	おい。お前の余計な一言で、あいつを怒らせたぞ	Lila	Great. You took it a step too far. Now she's really angry.	莉拉	喂，都是你多嘴多舌惹火了她。	莉拉	喂，都怪你多嘴，把她給惹毛了。
+TalkEvent_06_026ID	24	Empel	アンペル	そうか？　まあ、どのみち同じことになっただろう	Empel	Did I? Oh well, it would've turned out the same either way.	安佩尔	是吗？反正她都会发火的吧。	安佩爾	是嗎？反正無論如何結果都一樣。
+TalkEvent_06_026ID	25	Izana	イザナ	許さないのはこっちだよ！	Izana	I'll be the one to make YOU pay!	伊札娜	是我饶不了你才对！	伊札娜	不會放過妳的人是我！
+TalkEvent_06_026ID	26	Ryza	ライザ	あたしたちも！	Ryza	That goes for all of us!	莱莎	还有我们！	萊莎	我們也是！
+TalkEvent_06_026ID	27	Lila	リラ	アンペル、合わせろ！	Lila	Empel, join in!	莉拉	安佩尔，一起上！	莉拉	安佩爾，跟上我們！
+TalkEvent_06_026ID	28	Empel	アンペル	行くぞ！	Empel	On it!	安佩尔	要上了！	安佩爾	要上了！
+TalkEvent_06_027ID	0	Izana	イザナ	この前の、お返しだあああ！	Izana	Remember last time? Now it's my turn!	伊札娜	这一击是为了报之前的仇！	伊札娜	讓我用這一擊回敬妳！
+TalkEvent_06_027ID	1	Lara	ララ	ぐうっ……！	Lara	Ugh...!	拉拉	呜……！	拉拉	唔……！
+TalkEvent_06_027ID	2	Lara	ララ	このような者たちにわたくしの素材を譲り渡すとは、\nなんとも腹立たしいことですわね	Lara	The notion that I would ever hand over my materials to such lowly people is infuriating.	拉拉	要我把素材让给这帮人，\n着实令人不快。	拉拉	一想到要把素材讓給這些人，\n我就感到火大。
+TalkEvent_06_027ID	3	Izana	イザナ	来るなら、来い！	Izana	Enough talking, show me what you've got!	伊札娜	要打就放马过来！	伊札娜	有種就來啊！
+TalkEvent_06_027ID	4	Lara	ララ	……とはいえ、引き際を間違えるのは暗愚のすること。\n今日のところはお暇いたしますわ	Lara	Only a feebleminded fool wouldn't know when to walk away. I'm afraid I've had enough of you for today. I must be on my way.	拉拉	……不过，搞错抽身的时机未免也太过愚蠢。\n今天就到此为止吧。	拉拉	話雖如此……我並沒有笨到會搞錯退場時機。\n今天我就先暫時撤退吧。
+TalkEvent_06_027ID	5	Lara	ララ	今回のことを戒めとしてわたくしは成長します。\nごきげんよう。ぜひ、またお会いしましょ	Lara	I shall take heed of this lesson and grow stronger. So long. We will meet again.	拉拉	我会吸取这次的教训脱胎换骨。\n再见，我们必将再会。	拉拉	經過這次的教訓後，我學到很多。\n請保重，我們下次見。
+TalkEvent_06_027ID	6	Izana	イザナ	レスナちゃんっ！　大丈夫！？	Izana	Resna! Are you all right?	伊札娜	蕾斯娜！你没事吧？！	伊札娜	蕾斯娜！妳還好嗎！？
+TalkEvent_06_027ID	7	Izana	イザナ	ケガはしてない！？　痛い所は！？	Izana	Are you injured?! Where does it hurt?!	伊札娜	没受伤吧？！有没有哪里痛？！	伊札娜	有受傷嗎！？或者哪裡會痛！？
+TalkEvent_06_027ID	8	Resna	レスナ	だ、大丈夫。どこも痛くないよ	Resna	I-I'm fine. I'm not hurt.	蕾斯娜	我、我没事，哪里也不痛。	蕾斯娜	我、我很好，沒有任何地方受傷。
+TalkEvent_06_027ID	9	Izana	イザナ	よかった……。\nレスナちゃんを、ちゃんと守れて……	Izana	Thank goodness... I protected you, Resna.	伊札娜	太好了……\n我有好好守护蕾斯娜……	伊札娜	太好了……\n蕾斯娜平安無事……
+TalkEvent_06_027ID	10	Resna	レスナ	イザナちゃん……	Resna	Izana...	蕾斯娜	伊札娜……	蕾斯娜	伊札娜……
+TalkEvent_06_027ID	11	Izana	イザナ	レスナちゃん、ごめんね。\nアタシのわがままで、いっぱい迷惑かけたよね	Izana	Resna, I'm sorry. My selfishness really made things hard for you.	伊札娜	蕾斯娜，对不起。\n都怪我太任性，给你添了那么多麻烦。	伊札娜	蕾斯娜，對不起。\n我的任性給妳添了不少麻煩。
+TalkEvent_06_027ID	12	Izana	イザナ	前にさ。ちょっと話したよね？\nずっと自分の力不足を感じてたって	Izana	Do you remember what I said before? About how I had always felt so weak?	伊札娜	之前我们聊过一点吧？\n我早就感觉到自己的实力不够。	伊札娜	我應該和妳提過吧？\n我一直覺得自己力不從心這件事。
+TalkEvent_06_027ID	13	Resna	レスナ	うん……	Resna	Yeah...	蕾斯娜	嗯……	蕾斯娜	嗯……
+TalkEvent_06_027ID	14	Izana	イザナ	レスナちゃんは気にしないって言ってくれるけど、\nアタシが気にするんだ。騎士は強くないといけないから	Izana	I know you said not to worry, but I can't help it. A knight has to be strong.	伊札娜	蕾斯娜你虽然说了不介意，\n但我会介意嘛。因为强大是骑士必备的素质。	伊札娜	雖然蕾斯娜妳曾安慰過我，叫我不要在意。\n但我還是無法釋懷。畢竟對騎士來說，實力就是一切。
+TalkEvent_06_027ID	15	Izana	イザナ	でも、これでレスナちゃんと肩を並べて冒険できるよ	Izana	But now I can adventure together with you.	伊札娜	不过，这下我就能跟蕾斯娜共同冒险了。	伊札娜	不過，現在我可以和蕾斯娜一起並肩冒險了。
+TalkEvent_06_027ID	16	Resna	レスナ	うん……！	Resna	Yeah!	蕾斯娜	嗯……！	蕾斯娜	嗯……！
+TalkEvent_06_027ID	17	Resna	レスナ	それにしてもイザナちゃん、かっこつけすぎだよ	Resna	You know, you don't have to act so tough, Izana.	蕾斯娜	话说回来，伊札娜你这次真是大出风头呀。	蕾斯娜	不過伊札娜，妳也太愛逞強了吧！
+TalkEvent_06_027ID	18	Izana	イザナ	だって……頑張るレスナちゃんの隣に立つなら、\nやっぱり強い騎士じゃなくちゃ！	Izana	I know, but...I need to be a strong knight if I'm going to stand by your side while you give it your all.	伊札娜	因为……蕾斯娜那么努力，\n我也得成为强大的骑士才配站在你身边嘛！	伊札娜	因為……唯有強悍的騎士\n才有資格待在上進的蕾斯娜身邊！
+TalkEvent_06_027ID	19	Izana	イザナ	アタシは、レスナちゃんに安心して背中を\n預けてもらえるアタシでいたいんだ！	Izana	I want to be that someone you can always trust to have your back.	伊札娜	我想让蕾斯娜放心将身后交给我守护！	伊札娜	我希望成為\n能讓蕾斯娜放心依靠的人！
+TalkEvent_06_027ID	20	Izana	イザナ	でね、リラさんのおかげでアタシも少し強くなれた\nから……また一緒に冒険しよう、レスナちゃん！	Izana	And thanks to Miss Lila, I've grown a little bit stronger. So, let's adventure together again, Resna!	伊札娜	现在我在莉拉小姐的帮助下变强了一点……\n我们继续一起冒险吧，蕾斯娜！	伊札娜	還有，我能提升實力都是多虧了莉拉小姐。\n所以……蕾斯娜，讓我們再度一起冒險吧！
+TalkEvent_06_027ID	21	Resna	レスナ	ごめんね、イザナちゃん	Resna	Izana, I'm sorry.	蕾斯娜	对不起啊，伊札娜。	蕾斯娜	伊札娜，我也必須向妳道歉。
+TalkEvent_06_027ID	22	Resna	レスナ	イザナちゃんはたくさん悩んで、リラさんと修行する\nって決めたのに。私、快く送り出してあげなかった	Resna	I know you were really struggling and that's why you decided to train with Lila. Even then, I wasn't ready to see you go.	蕾斯娜	你也是纠结了很久才决定要跟莉拉小姐修行的，\n可我当时的态度却像要阻拦你一样。	蕾斯娜	明明伊札娜決定和莉拉小姐修行是深思熟慮後的結果，\n我卻無法笑著送妳離開……
+TalkEvent_06_027ID	23	Resna	レスナ	イザナちゃんと離れるのが不安で……ごめんなさい	Resna	I was afraid to be apart from you, Izana. I'm sorry.	蕾斯娜	因为我很害怕跟你分开……对不起。	蕾斯娜	因為和伊札娜分隔兩地這件事讓我感到很不安……抱歉。
+TalkEvent_06_027ID	24	Izana	イザナ	レスナちゃん……	Izana	Resna...	伊札娜	蕾斯娜……	伊札娜	蕾斯娜……
+TalkEvent_06_027ID	25	Resna	レスナ	戻ってきてくれて、ありがとう	Resna	I'm so glad you're back.	蕾斯娜	谢谢你回来。	蕾斯娜	謝謝妳回到我身邊。
+TalkEvent_06_027ID	26	Resna	レスナ	ずっと待ってたよ、私の騎士様を	Resna	I never stopped waiting for my knight.	蕾斯娜	我一直在等你，我的骑士。	蕾斯娜	騎士大人，我一直在等妳唷。
+TalkEvent_06_028ID	0	Empel	アンペル	ほぅ……ここが話に聞いてたアトリエか。\nなかなか充実してるな	Empel	Wow... So this is the atelier I've been hearing about. It's quite impressive.	安佩尔	哦……这里就是你们说的炼金工房啊。\n里面的东西还挺齐全的。	安佩爾	哦……這裡就是傳說中的鍊金工房？\n設備看起來很充足呢。
+TalkEvent_06_028ID	1	Lila	リラ	錬金術士の血が騒ぐか？	Lila	Does it get the alchemist in you excited?	莉拉	炼金术士的本能开始叫嚣了吗？	莉拉	你身為鍊金術士的血開始沸騰了嗎？
+TalkEvent_06_028ID	2	Ryza	ライザ	あのね、アンペルさん。こっちにはね……	Ryza	Hey, Empel. Over here.	莱莎	安佩尔先生，你看，这边还有……	萊莎	安佩爾先生，這是……
+TalkEvent_06_028ID	3	Izana	イザナ	初めて来る人にはびっくりな場所だもんね。\nそれはそうと、レスナちゃん。これで前進だね！	Izana	This place is definitely surprising for first-timers. Anyway, Resna, we've really come far!	伊札娜	对第一次来的人来说是挺新奇的吧。\n说起来，蕾斯娜，这下就向前迈进一步了呢！	伊札娜	第一次來這裡的人都會大吃一驚。\n對了，蕾斯娜。如此一來我們又邁出一步了呢！
+TalkEvent_06_028ID	4	Resna	レスナ	これもみんなのおかげだね！\nよーし。早速、調合を……	Resna	Yeah, thanks to everyone! All right, time to synthesize!	蕾斯娜	多亏了大家！\n那就赶快开始调合……	蕾斯娜	都是託各位的福！\n好，接著來調合……
+TalkEvent_06_028ID	5	Klaudia	クラウディア	レスナさん、今日は休んだほうがいいと思いますよ？	Klaudia	Resna, I think we should rest today.	科洛蒂娅	蕾斯娜小姐，今天还是先休息吧？	科洛蒂婭	蕾斯娜小姐，今天要不要先休息了？
+TalkEvent_06_028ID	6	Heidi	ハイディ	そうだね。みんなボロボロだしさ。レスナだって\n疲れが相当溜まってるでしょ	Heidi	Yeah, I agree. Everyone is pretty beat. Resna, you must be awfully tired.	海蒂	也对，大家都筋疲力尽了。\n蕾斯娜，你肯定也很累了吧。	海蒂	沒錯，大家都累了。\n蕾斯娜應該也累積了不少疲勞吧？
+TalkEvent_06_028ID	7	Resna	レスナ	でも、せっかく素材を集められたんだし……	Resna	But we finally got the materials...	蕾斯娜	可我们好不容易集齐了素材……	蕾斯娜	但好不容易蒐集完素材了……
+TalkEvent_06_028ID	8	Heidi	ハイディ	いやいや。しっかり休んで疲れを取ってからのほうが\n錬金術だって上手く行くって	Heidi	Don't be silly. The alchemy will go much smoother once you're fully rested.	海蒂	别着急，好好休息消除疲劳之后，\n使用炼金术也会更得心应手吧。	海蒂	不不不。如果好好休息並消除疲勞，\n鍊金術的成功率會更高喔。
+TalkEvent_06_028ID	9	Izana	イザナ	そうだよ。素材は逃げたりしないんだから、今日は\n休もうよ、レスナちゃん	Izana	That's right. The materials aren't going anywhere. Take it easy today, Resna.	伊札娜	就是说啊，素材又不会跑掉。\n今天就先休息吧，蕾斯娜。	伊札娜	沒錯，素材不會逃跑。\n蕾斯娜，今天就到此為止吧！
+TalkEvent_06_028ID	10	Resna	レスナ	うぅ……分かったよ。みんなと調合したい気持ちが\n成長しすぎちゃった	Resna	Oh... All right. I've just been so excited to synthesize this with all of you.	蕾斯娜	唔……好吧。\n都怪我太想跟大家一起调合了。	蕾斯娜	唔……知道了。\n都是因為我太期待和大家一起調合了。
+TalkEvent_06_028ID	11	Resna	レスナ	それじゃ今日はいったん解散して、明日また集合\nしましょう	Resna	Well, let's call it a day for now and meet up again tomorrow.	蕾斯娜	那我们就先暂时解散，\n明天再集合吧。	蕾斯娜	那今天先解散，\n明天再集合吧。
+TalkEvent_06_028ID	12	Valeria	ヴァレリア	はむ、はむっ……はぁ、家に帰ってきたって感じ！\nランツェ、お料理の腕を上げた？	Valeria	*Gulp* *Gulp* Ahhh... It's like being back home. Lanze, did you get better at cooking?	瓦莱莉娅	嚼嚼、嚼嚼……呼，有回家的感觉了！\n兰泽，你的厨艺有长进啊？	瓦萊莉婭	嚼、嚼……呼，有種回到家的感覺！\n藍澤，你的廚藝又進步啦？
+TalkEvent_06_028ID	13	Lanze	ランツェ	鍋なんざ、船乗りの日常食だよ。礼を言うなら\n天使ちゃんお手製の香辛料に言え	Lanze	Hot pot's a standard sailor cuisine. If anyone, thank our li'l angel for her handmade spices.	兰泽	火锅是船员的家常菜。\n要道谢就去谢小天使亲手制作的香辛料吧。	藍澤	火鍋對水手來說可是日常菜色。\n真要說的話，去感謝小天使自製的香辛料吧。
+TalkEvent_06_028ID	14	Flocke	フロッケ	他の州から仕入れた素材を使ってみたんです	Flocke	I tried using some ingredients we got from other regions.	芙洛可	我用产自其他州的素材试着做了一下。	芙洛可	我試著使用了來自其他州的素材。
+TalkEvent_06_028ID	15	Valeria	ヴァレリア	そうなの？　この出来なら売り物になるわね。\nもぐもぐ……お魚にぴったり！　	Valeria	Oh, really? You could sell something this good at a restaurant. *Munch* *Munch* It's perfect with fish!　	瓦莱莉娅	是吗？做得这么好，都能拿出来卖了。\n嚼嚼……跟鱼肉太搭了！　	瓦萊莉婭	是嗎？這品質簡直可以拿去賣了。\n嚼、嚼……好適合搭配魚類！　
+TalkEvent_06_028ID	16	Heidi	ハイディ	ヴァレリア！　全部、一人で食べちゃわないでよ！？	Heidi	Valeria! Don't eat it all by yourself!	海蒂	瓦莱莉娅！别一个人全吃光了啊？！	海蒂	瓦萊莉婭！別一個人把那些吃光喔！？
+TalkEvent_06_028ID	17	Flocke	フロッケ	このお魚、ぷりぷりしていて旨味も濃いです。\nハイネ州の大原野では、こんなお魚が捕れるんですね	Flocke	This fish is so plump and bursting with flavor. I didn't know you could catch this kind of fish in Haine's wilderness.	芙洛可	这个鱼好有嚼劲，还很鲜甜。\n在海涅州的大原野还能抓到这种鱼呀。	芙洛可	這條魚很有彈性，而且鮮味濃郁。\n原來在海涅州的大原野可以抓到這種魚。
+TalkEvent_06_028ID	18	Lanze	ランツェ	大原野って、草しか生えてないんじゃねえのか？\nあんなでっかい魚が捕れんのか？	Lanze	Yeah, I thought the wilderness was nothin' but grass. You can catch giant fish like these there?	兰泽	原来大原野不止长着草啊？\n居然还能捕到那么大的鱼？	藍澤	大原野不是草原嗎？\n竟然可以抓到這麼大的魚？
+TalkEvent_06_028ID	19	Valeria	ヴァレリア	うん。大原野のあちこちに沼があってね。魚を捕って\n野営で食べたんだけど、あれも美味しかったわ	Valeria	Yeah, there are a bunch of swamps scattered around. We would catch some fish and eat them at the camp. They were delicious!	瓦莱莉娅	嗯，大原野上到处都是沼泽，\n我们在野营时也钓了鱼吃，那种鱼也很好吃。	瓦萊莉婭	嗯，大原野到處都是沼澤。\n我們曾經在露營時捕魚來吃，也非常美味喔！
+TalkEvent_06_028ID	20	Heidi	ハイディ	一緒に行ったライザが魚釣り名人でさ。ヴァレリアと\n魚捕りの絆で結ばれたりしてたんだよ～	Heidi	Ryza was with us, and it turns out she's a real fishing master. She and Valeria became really close fishing pals!	海蒂	跟我们同行的莱莎是钓鱼大师。\n她和瓦莱莉娅还成了捕鱼之友呢～	海蒂	同行的萊莎是位釣魚高手。\n她和瓦萊莉婭還靠捕魚建立了深厚的情誼呢～
+TalkEvent_06_028ID	21	Lanze	ランツェ	なんだ。結構楽しそうじゃねぇか	Lanze	No kiddin'. Sounds like you all had a good time.	兰泽	搞了半天，你们玩得还挺开心嘛。	藍澤	咦，聽起來很有趣呢。
+TalkEvent_06_028ID	22	Valeria	ヴァレリア	ハイディがしっかり斥候してくれたおかげでね	Valeria	All thanks to Heidi and her solid scouting.	瓦莱莉娅	那都要感谢海蒂事先做好了侦察工作。	瓦萊莉婭	都是多虧了協助勘查地形的海蒂。
+TalkEvent_06_028ID	23	Heidi	ハイディ	あーのーね。あんたが火山に落ちそうになったり、\nこっちは寿命が縮まったわよ	Heidi	Yeah... About that. You know you've probably taken years off my life, making me think you were gonna fall into that volcano and all.	海蒂	我说啊，你还差点就掉进火山里，\n我在一边看得都折寿了。	海蒂	還有，當妳差點跌下火山時，\n我真的快要嚇死了。
+TalkEvent_06_028ID	24	Valeria	ヴァレリア	え？　ニオたちと一緒に素材を受け止めただけよ？	Valeria	Huh? But I was just getting materials together with Nio and the others.	瓦莱莉娅	咦？我只是和妮欧她们一起接下了素材而已吧？	瓦萊莉婭	咦？我只是和妮歐她們一起去接住素材而已呀？
+TalkEvent_06_028ID	25	Heidi	ハイディ	もう、これだよお……	Heidi	Ugh... That's exactly what I'm talking about.	海蒂	你这性格也真是的……	海蒂	算了，真受不了你……
+TalkEvent_06_028ID	26	Lanze	ランツェ	あー。イザナの奴とは上手くやれたか？	Lanze	So uh... Did everything go okay with Izana?	兰泽	啊，你们跟伊札娜相处得还好吧？	藍澤	對了～妳和伊札娜處得還好嗎？
+TalkEvent_06_028ID	27	Valeria	ヴァレリア	イザナね、レスナの騎士として強くなるんだって\n修行して、すっごいハンマーさばきを見せたの！	Valeria	Oh yeah, Izana! She went away to train and get stronger so she could be Resna's knight. And then she came back and unleashed some incredible hammer moves!	瓦莱莉娅	伊札娜说作为蕾斯娜的骑士要变得更强，\n然后去修行了，现在学会了超厉害的锤子招式！	瓦萊莉婭	為了蕾斯娜，伊札娜修行後成了更強的騎士，\n還在大家面前施展了厲害的錘子攻擊喔！
+TalkEvent_06_028ID	28	Flocke	フロッケ	ヴァレリアさん、とっても嬉しそうですね	Flocke	Valeria, you look really happy.	芙洛可	瓦莱莉娅小姐，你看起来很高兴呢。	芙洛可	瓦萊莉婭小姐似乎很享受呢。
+TalkEvent_06_028ID	29	Valeria	ヴァレリア	うん。旅って色んな人と仲良くなって、色んなことが\n起こるのね	Valeria	I am. Journeys are just so full of new friends and new adventures.	瓦莱莉娅	嗯，因为在旅途中会认识许多人，\n经历许多事啊。	瓦萊莉婭	嗯，旅途中可以交到各式各樣的朋友，\n也會經歷很多不同的事。
+TalkEvent_06_028ID	30	Lanze	ランツェ	そうか。旅ではいい仲間と出会えたようだな	Lanze	I see. Looks like you made some good friends during your journey.	兰泽	哦——看来你在旅途中遇到了好伙伴啊。	藍澤	這樣啊，看來妳在旅程中遇到了很棒的夥伴呢。
+TalkEvent_06_028ID	31	Valeria	ヴァレリア	うん。それでね――	Valeria	Yeah, and that's not all.	瓦莱莉娅	嗯。然后——	瓦萊莉婭	嗯，還有啊──
+TalkEvent_06_029ID	0	Resna	レスナ	流れ星に誓います！\n私は将来、立派な錬金術士になります！	Resna	I swear upon a shooting star that I'll be a full-fledged alchemist when I grow up!	蕾斯娜	向流星起誓！\n我将来要成为厉害的炼金术士！	蕾斯娜	向流星發誓！\n我將來會成為出色的鍊金術士！
+TalkEvent_06_029ID	1	Izana	イザナ	流れ星に誓います！\nアタシは将来、最強の騎士になります！	Izana	And I swear upon a shooting star that I'll be the strongest knight ever when I grow up!	伊札娜	向流星起誓！\n我将来要成为最强的骑士！	伊札娜	向流星發誓！\n我將來會成為最強的騎士！
+TalkEvent_06_029ID	2	Resna	レスナ	えへへ……約束だよ、イザナちゃん	Resna	Hehe. Pinky promise, Izana.	蕾斯娜	嘿嘿……约好了，伊札娜。	蕾斯娜	嘿嘿……伊札娜，我們約好了喔。
+TalkEvent_06_029ID	3	Izana	イザナ	約束だよ、レスナちゃん！	Izana	Pinky promise, Resna!	伊札娜	约好了，蕾斯娜！	伊札娜	沒錯，我和蕾斯娜約定好了！
+TalkEvent_06_029ID	4	Resna	レスナ	イザナちゃん、覚えてる？\n子どもの頃、ここで将来の夢について話したこと	Resna	Izana, do you remember how we talked about our future dreams here when we were kids?	蕾斯娜	伊札娜，你记得吗？\n我们小时候在这里聊过将来的梦想。	蕾斯娜	伊札娜，妳還記得嗎？\n小時候，我們在這裡聊到將來的夢想。
+TalkEvent_06_029ID	5	Izana	イザナ	私は将来、立派な錬金術士になります！	Izana	"""I'll be a full-fledged alchemist when I grow up!"""	伊札娜	我将来要成为厉害的炼金术士！	伊札娜	我將來會成為出色的鍊金術士！
+TalkEvent_06_029ID	6	Izana	イザナ	……ってヤツ？	Izana	Sound familiar?	伊札娜	……你记得这件事吗？	伊札娜	……是這個嗎？
+TalkEvent_06_029ID	7	Resna	レスナ	ええ？　それ私の真似？\nそんな感じだったっけ	Resna	Huh? Is that your impression of me? Is that really what I sound like?	蕾斯娜	咦？你刚才是在学我？\n我当时是那么说的吗？	蕾斯娜	咦？妳在學我嗎？\n我看起來是這副模樣嗎？
+TalkEvent_06_029ID	8	Izana	イザナ	えー、結構自信あったのに！\nじゃあ、レスナちゃんも……	Izana	What? I thought it was pretty good! Okay, now you go, Resna!	伊札娜	咦，我还以为学得挺像的！\n那蕾斯娜你也试试……	伊札娜	什麼嘛～明明我很有自信的！\n蕾斯娜，換妳了……
+TalkEvent_06_029ID	9	Resna	レスナ	わ、私もやるの？　ええっと、ゴホン	Resna	Me? Um... *Gulp*	蕾斯娜	我、我也要学？唔……咳。	蕾斯娜	我、我也要模仿嗎？那，咳咳。
+TalkEvent_06_029ID	10	Resna	レスナ	アタシは将来、最強の騎士になります！	Resna	"""I'll be the strongest knight ever when I grow up!"""	蕾斯娜	我将来要成为最强的骑士！	蕾斯娜	我將來會成為最強的騎士！
+TalkEvent_06_029ID	11	Izana	イザナ	あはは！　ぜんぜん似てなーい！	Izana	Ahaha! That's nothing like me!	伊札娜	哈哈哈！一点都不像！	伊札娜	哈哈哈！一點也不像！
+TalkEvent_06_029ID	12	Resna	レスナ	うう、こういうの慣れてないから……	Resna	Uh... I'm not good at this sort of thing.	蕾斯娜	呜……我不擅长做这种事嘛……	蕾斯娜	嗚嗚，我不習慣做這種事……
+TalkEvent_06_029ID	13	Izana	イザナ	アタシの夢って、まだぜんぜん途中なんだよね。\n騎士の試験にも合格できてないし	Izana	I'm still working on achieving my dream. I haven't even passed the knight exam yet.	伊札娜	我离实现梦想还远得很，\n我甚至还没通过骑士考试呢。	伊札娜	我還沒通過騎士測驗，\n目前正在實現夢想的路上。
+TalkEvent_06_029ID	14	Resna	レスナ	それは私もだよ。一人前として認められはしたけど、\n立派だって胸を張って言えるようになるには、まだまだ	Resna	"Same here. I've earned my place as an alchemist, but I still have a long way to go until I can proudly call myself ""full-fledged."""	蕾斯娜	我也一样啊。虽然我的炼金术士身份得到了认可，\n但我觉得还要努力很久，我才敢挺起胸膛断言自己是成功的。	蕾斯娜	我也是。雖然大家覺得我能獨當一面了，\n但要想抬頭挺胸地說自己很優秀，那還差得遠了。
+TalkEvent_06_029ID	15	Resna	レスナ	でも私、イザナちゃんと一緒なら大丈夫だって、\nなんとなく思うんだ	Resna	But, I have a feeling that everything will be all right, as long as I'm with you, Izana.	蕾斯娜	不过我总觉得，\n只要跟伊札娜一起走下去就一定能做到。	蕾斯娜	不過，總覺得只要伊札娜在我身邊\n一定就沒問題。
+TalkEvent_06_029ID	16	Resna	レスナ	イザナちゃんは、私にないものをたくさん持ってるから	Resna	You just have so many things that I lack.	蕾斯娜	因为伊札娜拥有很多我没有的特质。	蕾斯娜	因為伊札娜擁有許多我沒有的特質。
+TalkEvent_06_029ID	17	Izana	イザナ	レスナちゃん……	Izana	Resna...	伊札娜	蕾斯娜……	伊札娜	蕾斯娜……
+TalkEvent_06_029ID	18	Izana	イザナ	アタシもだよ。レスナちゃんはアタシの知らないことを\nいっぱい知ってるもん	Izana	I feel the same way. You know about so many things that I don't.	伊札娜	我也这么想。\n蕾斯娜知道很多我不知道的事。	伊札娜	我也是呀。\n蕾斯娜知道很多我不知道的東西喔。
+TalkEvent_06_029ID	19	Resna	レスナ	こんな私だけど、これからもそばにいてね。\n私、頑張って夢を叶えるから	Resna	I still have a lot of work to do, but I hope you'll stay by my side. I'm going to work hard and make my dream come true.	蕾斯娜	我还不够成熟，但还是希望你能继续陪伴我。\n我会努力实现梦想的。	蕾斯娜	雖然我並不完美，但希望妳今後也能陪在我身邊。\n我會努力實現夢想的！
+TalkEvent_06_029ID	20	Izana	イザナ	もちろん。レスナちゃんの騎士として、\nこの先もずっと守り続けるよ	Izana	Of course! I'll always be here, protecting you as your knight.	伊札娜	当然了。作为蕾斯娜的骑士，\n我会一直守护着你的。	伊札娜	當然啦！身為蕾斯娜的騎士，\n我會一直守護著妳。
+TalkEvent_06_029ID	21		レスナ＆イザナ	流れ星に誓います	Resna & Izana	I swear upon a shooting star.	蕾斯娜＆伊札娜	向流星起誓。	蕾斯娜＆伊札娜	向流星發誓。
+TalkEvent_06_029ID	22	Izana	イザナ	流れ星に誓います	Izana	I swear upon a shooting star.	伊札娜	向流星起誓。	伊札娜	向流星發誓。
+TalkEvent_06_030ID	0	Resna	レスナ	それじゃ、仕上げです！	Resna	And now for the finishing touches!	蕾斯娜	最后一步！	蕾斯娜	只差最後一步了！
+TalkEvent_06_030ID	1	Resna	レスナ	やった！　栄養剤ができた！	Resna	Yay! The solution is complete!	蕾斯娜	太好了，做好营养剂了！	蕾斯娜	成功了！營養劑完成了！
+TalkEvent_06_030ID	2	Valeria	ヴァレリア	これを使えば、不作は解決するのね	Valeria	Now we can use this to end the bad harvest.	瓦莱莉娅	用这个就能解决歉收问题了吧。	瓦萊莉婭	有了這個，就能解決歉收的問題了呢。
+TalkEvent_06_030ID	3	Resna	レスナ	多分……うん。解決してほしいなあ	Resna	Yeah... Maybe. I hope it works.	蕾斯娜	大概吧……嗯，希望能顺利解决。	蕾斯娜	嗯……應該吧。希望能順利解決！
+TalkEvent_06_030ID	4	Ryza	ライザ	大丈夫だよ！　きっと解決するよ！	Ryza	Don't worry. I'm sure it'll fix things.	莱莎	放心吧！肯定能解决问题的！	萊莎	別擔心！一定可以解決的！
+TalkEvent_06_030ID	5	Heidi	ハイディ	それにしてもさ、翡翠の煌水を使った栄養剤って\n極夜の錬金党も作るつもりだったんだよね？	Heidi	So that means the Polar Night Alchemists were also after Jade Water in order to make tonics.	海蒂	说起来，极夜的炼金党\n也想用翡翠煌水来制作营养剂吧？	海蒂	話說回來，極夜的鍊金黨原本也打算\n利用翡翠煌水製作營養劑，對吧？
+TalkEvent_06_030ID	6	Heidi	ハイディ	また、あのララって奴と出くわさなきゃいいけど……\nアンペルはあいつらの調査をしてたんだよね？	Heidi	I really hope we don't run into Lara again. Empel, you were investigating her, weren't you?	海蒂	希望别再遇上那个叫拉拉的家伙了……\n安佩尔有调查过他们吧？	海蒂	希望別再遇到那個叫拉拉的傢伙……\n安佩爾，你是不是調查過她們？
+TalkEvent_06_030ID	7	Empel	アンペル	ああ。大した情報は掴めなかったがな。ただ……	Empel	Yeah, although I couldn't get a hold of any useful information. However...	安佩尔	嗯，我没掌握到什么重要的线索，不过……	安佩爾	嗯嗯，但沒有掌握到什麼重要情報。不過……
+TalkEvent_06_030ID	8	Empel	アンペル	党首の名はクリセルダというらしい	Empel	...The party leader's name seems to be Criselda.	安佩尔	党首的名字似乎是克莉赛尔达。	安佩爾	黨首的名字似乎叫克莉賽爾達。
+TalkEvent_06_030ID	9	Resna	レスナ	クリセルダ……	Resna	Criselda...	蕾斯娜	克莉赛尔达……	蕾斯娜	克莉賽爾達……
+TalkEvent_06_030ID	10	Valeria	ヴァレリア	聞いたこともないわね	Valeria	Doesn't ring a bell.	瓦莱莉娅	没听说过。	瓦萊莉婭	從來沒聽過呢。
+TalkEvent_06_030ID	11	Izana	イザナ	でも、その人には要注意ってことだね	Izana	Either way, that's someone we need to watch out for.	伊札娜	不过我们今后要注意叫这个名字的人物。	伊札娜	不過我們必須注意那個人，對吧？
+TalkEvent_06_030ID	12	Resna	レスナ	……結局また、素材を分け合うことはできませんでした	Resna	We weren't even able to share the materials.	蕾斯娜	……到头来还是没能跟她分享素材。	蕾斯娜	結果……最後還是沒能分享素材。
+TalkEvent_06_030ID	13	Empel	アンペル	彼女らはそれぞれが強い渇望を持っている。\nそれを満たさない限り、折り合えないだろう	Empel	Those women each have a powerful desire, and they won't budge until they've satisfied that desire.	安佩尔	她们各自拥有着强烈的渴望。\n只要她们得不到满足，交涉就不可能成立。	安佩爾	她們各懷鬼胎。\n在滿足各自的渴望之前，大概不會妥協。
+TalkEvent_06_030ID	14	Izana	イザナ	ララって奴は、王国がどうたらって言ってたけど	Izana	Lara did mention something about her kingdom.	伊札娜	那个叫拉拉的还说什么王国……	伊札娜	拉拉那傢伙，嘴上一直說著王國、王國的……
+TalkEvent_06_030ID	15	Empel	アンペル	それが彼女の渇望なのだろうな	Empel	That must be where her desires lie.	安佩尔	那就是她的渴望吧。	安佩爾	那就是她的渴望吧？
+TalkEvent_06_030ID	16	Empel	アンペル	私とリラは、これからまた続けて奴らを調査する。\nだからお前らは安心して依頼を果たしてこい	Empel	Lila and I will continue our investigation into them. The rest of you should stop worrying and focus on completing requests.	安佩尔	我和莉拉会继续调查那些家伙。\n你们别担心那些，专心去完成委托吧。	安佩爾	我和莉拉之後也會繼續調查她們。\n所以妳們就放心去完成委託吧。
+TalkEvent_06_030ID	17	Lila	リラ	イザナ、また稽古は付けてやる。あいつらと戦った時の\n感覚を忘れるんじゃないぞ	Lila	Izana, you and I will be doing more training. Don't forget how it felt to fight them.	莉拉	伊札娜，我还会再跟你切磋的。\n别忘记跟那些人战斗时的感觉。	莉拉	伊札娜，我會再陪妳練習的。\n別忘了和那些傢伙對戰時的那種感覺。
+TalkEvent_06_030ID	18	Izana	イザナ	はい！　リラさん！	Izana	Yes, ma'am!	伊札娜	我明白了，莉拉小姐！	伊札娜	是的！莉拉小姐！
+TalkEvent_06_030ID	19	Lila	リラ	それにしても、錬金党の一員の役、案外似合ってたな	Lila	I must say, you didn't look all that out of place with the Polar Night.	莉拉	话说回来，你的气质很适合当炼金党的成员啊。	莉拉	不過鍊金黨一員的角色，意外地適合你呢。
+TalkEvent_06_030ID	20	Empel	アンペル	お前やライザたちと出会ってなかったら、案外あっちに\n引き寄せられてたかもな……ふっ、冗談だが	Empel	You never know. If I hadn't run into you all, I may have been inclined to join them... Hehe. Just kidding.	安佩尔	如果我没遇见你和莱莎他们，\n搞不好真的会深受那些人吸引……呵，开个玩笑。	安佩爾	如果沒有和妳以及萊莎一行人相遇，\n說不定已經被那邊吸收了……呵，開玩笑的。
+TalkEvent_06_030ID	21	Ryza	ライザ	アンペルさん！　リラさん！　またね！	Ryza	Empel! Lila! We'll see you again!	莱莎	安佩尔先生！莉拉小姐！再见啦！	萊莎	安佩爾先生！莉拉小姐！下次見！
+TalkEvent_06_030ID	22	Resna	レスナ	お二人とも、ありがとうございました！	Resna	Thank you both so much!	蕾斯娜	谢谢你们！	蕾斯娜	謝謝妳們兩位！
+TalkEvent_06_030ID	23	Ryza	ライザ	じゃあ、あたしたちもそろそろ王都に帰るね。いい加減\nイクセルに怒られちゃう	Ryza	Well, we should also probably head back to the capital. Iksel will be upset with us if we don't get back soon.	莱莎	那我们也该回王都了。\n再不回去伊克赛尔会骂我的。	萊莎	那我們也差不多該回王都了。\n伊克賽爾應該快要發火了。
+TalkEvent_06_030ID	24	Klaudia	クラウディア	私もそろそろ、仕事に戻らないといけないから	Klaudia	Yeah, it's about time for me to get back to work.	科洛蒂娅	我也该回去工作了。	科洛蒂婭	我也該回到工作崗位了。
+TalkEvent_06_030ID	25	Resna	レスナ	お仕事を休んでいただいたし、無理は言えませんが……\nうぅ。もっと一緒に旅をしたかったなぁ	Resna	You both took time off from work for us, so I don't want to ask for anything more... It's just...I wish we could travel together more.	蕾斯娜	两位都撇开了工作来帮我，我不该再奢望什么……\n但是……唉，真想跟你们继续旅行啊。	蕾斯娜	很抱歉讓妳特地放下工作陪我們冒險，不過……\n好想再和大家一起旅行呀！嗚嗚……
+TalkEvent_06_030ID	26	Ryza	ライザ	もー！　そんな寂しそうな顔しない！	Ryza	Aww! Don't get so down.	莱莎	真是的，别一脸难过嘛！	萊莎	真是的！不要露出那種難過的表情嘛！
+TalkEvent_06_030ID	27	Klaudia	クラウディア	ふふ。また、みんなで冒険しようね	Klaudia	Hehe. Let's all go on another adventure again sometime.	科洛蒂娅	呵呵，下次有机会再一起冒险吧。	科洛蒂婭	呵呵，下次大家再一起冒險吧。
+TalkEvent_06_030ID	28	Resna	レスナ	はい！　先輩がた、ありがとうございました！	Resna	Yes! Thank you, you two.	蕾斯娜	好的！谢谢前辈们！	蕾斯娜	好的！謝謝各位前輩！
+TalkEvent_06_030ID	29	Valeria	ヴァレリア	ライザ、また魚釣りをしましょ！	Valeria	Ryza, we'll fish again!	瓦莱莉娅	莱莎，下次再一起钓鱼吧！	瓦萊莉婭	萊莎，有機會的話我們再一起去釣魚！
+TalkEvent_06_030ID	30	Ryza	ライザ	うん、またやろう！　じゃあ依頼、頑張ってね！	Ryza	Yeah, let's do it! All right then, good luck with the requests.	莱莎	嗯，一定！你要加油做委托哦！	萊莎	嗯，沒問題！要努力完成委託喔！
+TalkEvent_06_030ID	31	Resna	レスナ	じゃあ、私たちも出発しようか	Resna	Well, I guess we should get going too, huh?	蕾斯娜	那我们也出发吧。	蕾斯娜	那我們也出發吧。
+TalkEvent_06_031ID	0		依頼人	おかげでようやく、作物が育ち始めたよ！\n本当にありがとう！　	Client	Thanks to you, our crops have finally started growing! We can't thank you enough.　	委托人	多亏了你们，作物终于能够生长了！\n实在是太感谢你们了！　	委託人	託各位的福，農作物終於可以生長了！\n真的很謝謝妳們！　
+TalkEvent_06_031ID	1	Resna	レスナ	本当ですか！？　よかったぁ！	Resna	Really?! That's such great news!	蕾斯娜	真的吗？！太好啦！	蕾斯娜	真的嗎！？太好了！
+TalkEvent_06_031ID	2	Valeria	ヴァレリア	やったわね、レスナ！	Valeria	We did it, Resna!	瓦莱莉娅	蕾斯娜，你做到了！	瓦萊莉婭	蕾斯娜，幹得好！
+TalkEvent_06_031ID	3	Resna	レスナ	みんなが協力してくれたおかげだよ！	Resna	It's all thanks to everyone working together.	蕾斯娜	都是多亏了大家的帮助！	蕾斯娜	這都要感謝大家的幫忙！
+TalkEvent_06_031ID	4		依頼人	いやあ、恩に着るよ。正直諦めかけてたからね。\n本当に感謝してる！	Client	Oh, we are very much obliged. Honestly, I was beginning to think there was no hope. I am truly grateful.	委托人	哎呀，谢谢你们。其实我们本来都快放弃了。\n实在太感谢了！	委託人	哎呀，簡直感激不盡。坦白說，我都快要死心了。\n真的非常感謝！
+TalkEvent_06_031ID	5	Resna	レスナ	私たちも嬉しいです！　これは人を幸せにする力――\n錬金術の力なんですよ	Resna	We're also very glad! This is the power of alchemy—the power to bring people happiness.	蕾斯娜	我们也很高兴！\n这就是能让人幸福的力量——炼金术的力量。	蕾斯娜	我們也很開心！這就是帶給人們幸福的力量──\n鍊金術的力量喔！
+TalkEvent_06_031ID	6		依頼人	そうか、錬金術の力か……	Client	The power of alchemy, huh...	委托人	哦——是炼金术的力量啊……	委託人	原來如此，是鍊金術的力量嗎……
+TalkEvent_06_031ID	7	Resna	レスナ	はい！	Resna	Exactly!	蕾斯娜	是的！	蕾斯娜	沒錯！
+TalkEvent_06_031ID	8		街の住人Ａ	おい。もう読んだか？　例の不作の件なんだが\n驚きだよ	Townsperson A	Hey, have you read this? You know, the news about the bad harvest? It's unbelievable!	城镇居民A	喂，你看报纸了吗？\n就是歉收的事，真没想到啊。	城鎮居民A	喂，你看過了嗎？之前的農作物歉收問題，\n結果真令我吃驚。
+TalkEvent_06_031ID	9		街の住人Ｂ	錬金術士がこのへんの不作を解決したってやつだろう？\n本当なのかね？	Townsperson B	You mean the alchemist who ended the bad harvests around these parts? I wonder if it's true.	城镇居民B	是炼金术士解决了这一带的歉收问题吧？\n是真的吗？	城鎮居民B	你是指鍊金術士解決了這一帶的歉收問題那件事？\n那是真的嗎？
+TalkEvent_06_031ID	10		街の住人Ａ	それが王都から来た錬金術士だそうだぞ。\nそんなのが本当にいたとはね	Townsperson A	Apparently, they came from the capital. I can't believe they actually exist.	城镇居民A	似乎是从王都来的炼金术士解决的。\n没想到炼金术士真的存在啊。	城鎮居民A	聽說是來自王都的鍊金術士。\n沒想到真的存在啊。
+TalkEvent_06_031ID	11		街の住人Ｂ	そこだよ。錬金術など眉唾だとばかり思っていたの\nだがね。畑の主が言うには――	Townsperson B	Right? I always thought alchemists were nothing but a myth. So, according to the field owners...	城镇居民B	问题就是这个。我还以为炼金术都是骗人的，\n结果田地的主人说——	城鎮居民B	就是說啊。我本來覺得鍊金術不可信，\n但田地主人說──
+TalkEvent_06_031ID	12	Saskia	ザスキア	あら、新しいのが出たのね。何部かもらえる？	Saskia	Well, well. That looks like a new edition. Can I have a few?	萨丝琪亚	哎呀，有新的报纸了。我能拿几份走吗？	薩絲琪亞	哎呀，新的報紙已經出來了啊。能給我幾份嗎？
+TalkEvent_06_031ID	13		新聞屋	ああ、あんたか。例の記事、載ってるよ	Newspaper Vendor	Oh, it's you! You're mentioned in the article!	卖报人	哦，是你啊。上面刊登了那篇报道哦。	送報員	哦，妳好。那篇報導被刊出來了呢。
+TalkEvent_06_031ID	14	Saskia	ザスキア	ふふ。そのようね	Saskia	Hehe. So it seems.	萨丝琪亚	呵呵，是啊。	薩絲琪亞	呵呵，看來是這樣沒錯。
+TalkEvent_06_031ID	15	Saskia	ザスキア	「錬金術士レスナ・シュテルネンリヒト一行、長年\n続いた不作を救う」……いい記事ね	Saskia	"""Alchemist Resna Sternenlicht and Company Solve Years-Long Crop Failure."" Nice article."	萨丝琪亚	“炼金术士蕾斯娜·修特涅利希特一行人，\n解决了积年累月的歉收问题”……这篇报道真不错。	薩絲琪亞	「鍊金術士蕾斯娜‧修特涅利希特一行人，\n解決長年歉收問題」……這篇報導真不錯。
+TalkEvent_06_031ID	16	Saskia	ザスキア	さすが私のレスナよ	Saskia	That's my Resna!	萨丝琪亚	不愧是我的徒弟蕾斯娜。	薩絲琪亞	不愧是我的蕾斯娜。
+TalkEvent_06_031ID	17	Roman	ロマン	素晴らしい記事だ	Roman	What a fantastic article.	罗曼	真是篇精彩的报道。	羅曼	這篇報導寫得真好。
+TalkEvent_06_031ID	18	Roman	ロマン	時は満ちたようだ	Roman	It appears the time has come.	罗曼	时机好像已经成熟了。	羅曼	時機似乎成熟了。

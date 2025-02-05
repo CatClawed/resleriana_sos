@@ -1,0 +1,1029 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_21_001ID	0	Resna	レスナ	ソフィー先輩！　プラフタ先輩！\nこれは……何があったんですか！？						
+TalkEvent_21_001ID	1	Sophie	ソフィー	あたしたちが来た時にはもうこうなってたんだ。\n遠くからすごい音がしたと思って駆け付けてみたら……						
+TalkEvent_21_001ID	2	Plachta	プラフタ	どのような手段を用いたかは分かりませんが、\n犯人の目星はついています						
+TalkEvent_21_001ID	3	Valeria	ヴァレリア	もしかして、クリセルダが……？						
+TalkEvent_21_001ID	4	Sophie	ソフィー	ちょうど、この遺跡の中から出てくるところに\n遭遇して……						
+TalkEvent_21_001ID	5	Plachta	プラフタ	追跡しようとしましたが、彼女が使役する魔物たちに\n阻まれてしまいました						
+TalkEvent_21_001ID	6	Izana	イザナ	クリセルダが飼ってる魔物たち、まだ残ってたんだ						
+TalkEvent_21_001ID	7	Plachta	プラフタ	いえ、というよりは……その場にいた魔物たちを\n彼女が操っていた、ように見えました						
+TalkEvent_21_001ID	8	Valeria	ヴァレリア	どういうこと？						
+TalkEvent_21_001ID	9	Sophie	ソフィー	クリセルダさんが何か不思議な力を使って、\n周囲の魔物を呼び寄せていたんです						
+TalkEvent_21_001ID	10	Resna	レスナ	もしかすると、それが頂獣の骸から得た力……？						
+TalkEvent_21_001ID	11	Valeria	ヴァレリア	そういえば、ウェルテックスも石像みたいなやつを\n操って攻撃してきたわよね						
+TalkEvent_21_001ID	12	Izana	イザナ	でも、ただの像と魔物じゃだいぶ違うような……\n生きた魔物を操るほうが大変そうだよね						
+TalkEvent_21_001ID	13	Lara	ララ	それこそが、クリセルダが求めていた\n「頂獣を超える力」ということなのでしょう						
+TalkEvent_21_001ID	14	Resna	レスナ	ワルターさんが言っていたことが現実に……						
+TalkEvent_21_001ID	15	Izana	イザナ	そんなの放っておいたら……						
+TalkEvent_21_001ID	16	Resna	レスナ	クリセルダさんを、止めないと						
+TalkEvent_21_001ID	17	Resna	レスナ	あの人がどんな目的を持っているのか、\n私は知らない						
+TalkEvent_21_001ID	18	Resna	レスナ	でも、同じ錬金術士として……絶対に止めてみせる						
+TalkEvent_21_001ID	19	Sophie	ソフィー	うん。こんなの放っておいたらダメだよね						
+TalkEvent_21_001ID	20	Plachta	プラフタ	錬金術を危うい形で用いるなんて\n決して許してはならないことです						
+TalkEvent_21_001ID	21	Izana	イザナ	もちろん、アタシも同じ気持ちだよ！\nこれ以上好きにはさせない！						
+TalkEvent_21_001ID	22	Valeria	ヴァレリア	それがレスナの願いなら、私は支えるのみよ						
+TalkEvent_21_001ID	23	Valeria	ヴァレリア	レスナの夢を手伝うことが、私の願いだから						
+TalkEvent_21_001ID	24	Resna	レスナ	ヴァレリア……皆さんも、ありがとうございます						
+TalkEvent_21_001ID	25	Izana	イザナ	それにしても、クリセルダはどこに\n行ったんだろうね？						
+TalkEvent_21_001ID	26	Resna	レスナ	手分けして探すしかないかな……						
+TalkEvent_21_001ID	27	Resna	レスナ	ともかく一度、王都に戻って、\nロマンさんたちに何があったか報告しよう						
+TalkEvent_21_001ID	28	Sophie	ソフィー	あたしたちはこの遺跡の中をもう少し調べてみるよ						
+TalkEvent_21_001ID	29	Resna	レスナ	はい。よろしくお願いします！						
+TalkEvent_21_002ID	0		住民Ａ	み、見ろよ！						
+TalkEvent_21_002ID	1		観光客の男	誰だ！？　あんなとこに！？						
+TalkEvent_21_002ID	2		観光客の女	あ、危ないわよ！						
+TalkEvent_21_002ID	3		騎士	いったい何の騒ぎだ！　……なっ！？						
+TalkEvent_21_002ID	4	Criselda	クリセルダ	――見つけた						
+TalkEvent_21_002ID	5	Magda	マクダ	おいおい、あいつは……！						
+TalkEvent_21_002ID	6	Judie	ユーディー	クリセルダ！						
+TalkEvent_21_002ID	7	Magda	マクダ	まさか、あっちからお出ましとは！						
+TalkEvent_21_002ID	8	Judie	ユーディー	マクダさん！　捕まえよう！						
+TalkEvent_21_002ID	9	Magda	マクダ	おうよ、ユーディット！						
+TalkEvent_21_002ID	10	Criselda	クリセルダ	ふふっ……						
+TalkEvent_21_002ID	11	Judie	ユーディー	なっ、なに！？　きゃあっ……！						
+TalkEvent_21_002ID	12	Magda	マクダ	くっ！？　て、てめぇ……何しやがった……						
+TalkEvent_21_002ID	13	Judie	ユーディー	ち、力が……入らない……						
+TalkEvent_21_002ID	14		観光客の女	きゃああっ！						
+TalkEvent_21_002ID	15		観光客の男	な、なんだこいつは！？						
+TalkEvent_21_002ID	16	Criselda	クリセルダ	私は極夜の錬金党のクリセルダ。道を開けなさい						
+TalkEvent_21_002ID	17		住民Ａ	極夜の錬金党だって！？						
+TalkEvent_21_002ID	18		観光客の男	ひっ！　に、逃げろおおおおっ！						
+TalkEvent_21_002ID	19	Antje	アンチュ	クリセルダ……！						
+TalkEvent_21_002ID	20	Marion	マリオン	止まりなさい！						
+TalkEvent_21_002ID	21	Brad	ブラッド	くっ……！？　なんだ、その力は……						
+TalkEvent_21_002ID	22	Marion	マリオン	私たちを止めたって……きっと、みんなが……						
+TalkEvent_21_002ID	23	Criselda	クリセルダ	この力は、長い時間をかけた研究の成果よ。\n誰が何人来ようが負けない						
+TalkEvent_21_002ID	24	Criselda	クリセルダ	迎えに来たわ						
+TalkEvent_21_003ID	0	Criselda	クリセルダ	すっかり待たせちゃったわね						
+TalkEvent_21_003ID	1	Antje	アンチュ	クリセルダ！　クリセルダ！！						
+TalkEvent_21_003ID	2	Criselda	クリセルダ	言う通りにしていたのね。偉かったわ						
+TalkEvent_21_003ID	3	Antje	アンチュ	ううん！　クリセルダが無事でよかった……！\n迎えに来てくれて、ありがとう……						
+TalkEvent_21_003ID	4	Criselda	クリセルダ	ワルターも。待たせたわね						
+TalkEvent_21_003ID	5	Walther	ワルター	求めていた力に、たどり着けたのですね						
+TalkEvent_21_003ID	6	Brad	ブラッド	待て……！　お前もあちらに戻る気か？\n何が自分にとって有益か、よく考えろ！						
+TalkEvent_21_003ID	7	Walther	ワルター	答えなら最初から出ていますよ						
+TalkEvent_21_003ID	8	Criselda	クリセルダ	ジェロン。あなたはどうするの？						
+TalkEvent_21_003ID	9	Geron	ジェロン	俺の渇望はすでに満たされた。\n今、お前についていく理由はない						
+TalkEvent_21_003ID	10	Criselda	クリセルダ	ふふ。素直でいいわね。弟くんによろしく						
+TalkEvent_21_003ID	11	Resna	レスナ	皆さんっ！						
+TalkEvent_21_003ID	12	Valeria	ヴァレリア	クリセルダ……！						
+TalkEvent_21_003ID	13	Izana	イザナ	まさか、いきなり王都に現れるなんて……！						
+TalkEvent_21_003ID	14	Valeria	ヴァレリア	これ以上、好きにはさせないわ！						
+TalkEvent_21_003ID	15	Valeria	ヴァレリア	はぁぁぁぁっ！						
+TalkEvent_21_003ID	16	Valeria	ヴァレリア	くっ！						
+TalkEvent_21_003ID	17	Criselda	クリセルダ	いきなり激しいのね						
+TalkEvent_21_003ID	18	Lara	ララ	あら。そのようなものを侍らせるほうが危険ですわよ						
+TalkEvent_21_003ID	19	Criselda	クリセルダ	ララ。あなたは戻ってこないの？						
+TalkEvent_21_003ID	20	Lara	ララ	あいにくですが、お断りいたしますわ。\n王たるもの、口にしたことは守ります						
+TalkEvent_21_003ID	21	Criselda	クリセルダ	想定はしていたけど。それでも残念ね。\n思っていた以上に、あなたのことを気に入ってたみたい						
+TalkEvent_21_003ID	22	Antje	アンチュ	クリセルダ。私は一緒にいるから						
+TalkEvent_21_003ID	23	Resna	レスナ	アンチュちゃん！						
+TalkEvent_21_003ID	24	Antje	アンチュ	もう、誰にも邪魔はさせない						
+TalkEvent_21_003ID	25	Resna	レスナ	そんな……アンチュちゃん！						
+TalkEvent_21_003ID	26	Valeria	ヴァレリア	話は後よ、レスナ！						
+TalkEvent_21_004ID	0	Antje	アンチュ	うぁ……っ！						
+TalkEvent_21_004ID	1	Criselda	クリセルダ	アンチュ！						
+TalkEvent_21_004ID	2	Antje	アンチュ	大丈夫……まだ、やれる……						
+TalkEvent_21_004ID	3	Criselda	クリセルダ	力をあげる						
+TalkEvent_21_004ID	4	Antje	アンチュ	うぁ……ん……						
+TalkEvent_21_004ID	5	Antje	アンチュ	すごい……身体の奥から、力が湧いてくる……						
+TalkEvent_21_004ID	6	Resna	レスナ	いったい、何を……！？						
+TalkEvent_21_004ID	7	Criselda	クリセルダ	あまり無理はしないでね。今度は私も手伝うわ						
+TalkEvent_21_004ID	8	Izana	イザナ	望むところだよ！						
+TalkEvent_21_004ID	9	Resna	レスナ	アンチュちゃん！　行っちゃダメだよ！\nせっかく友達になれたのに！						
+TalkEvent_21_004ID	10	Antje	アンチュ	わ、私は……ずっとクリセルダを待ってたから						
+TalkEvent_21_004ID	11	Valeria	ヴァレリア	大人しくしなさい、クリセルダ						
+TalkEvent_21_004ID	12	Criselda	クリセルダ	その言葉、そのまま返させてもらうわ						
+TalkEvent_21_004ID	13	Valeria	ヴァレリア	くっ……！？						
+TalkEvent_21_004ID	14	Izana	イザナ	なんか、力が抜けて……						
+TalkEvent_21_004ID	15	Resna	レスナ	これは――						
+TalkEvent_21_004ID	16	Resna	レスナ	（これは、ウェルテックスと同じ……！？）						
+TalkEvent_21_004ID	17	Resna	レスナ	くうっ……						
+TalkEvent_21_004ID	18	Criselda	クリセルダ	ヴァレリアとはまた別に、\nあなたも興味深いわね、レスナ						
+TalkEvent_21_004ID	19	Roman	ロマン	みんな！						
+TalkEvent_21_004ID	20	Resna	レスナ	っ……ロマンさん……						
+TalkEvent_21_004ID	21	Juna	ユナ	皆、急げ！　奴らを取り囲むんだ！						
+TalkEvent_21_004ID	22	Roman	ロマン	クリセルダ……\n随分、派手に暴れてくれたみたいじゃないか						
+TalkEvent_21_004ID	23	Criselda	クリセルダ	こんにちは、リヒャルト殿下。\nちょうどよかった、あなたに話したいことがあったの						
+TalkEvent_21_004ID	24	Roman	ロマン	なに？						
+TalkEvent_21_004ID	25	Criselda	クリセルダ	私の要求を改めて伝えるわ。１つは王宮書庫の開放						
+TalkEvent_21_004ID	26	Criselda	クリセルダ	そしてもう１つは、ランターナ王国に貯蔵されている\n希少素材の譲渡						
+TalkEvent_21_004ID	27	Resna	レスナ	そんな……ウェルテックスの力を得て、目的は\n果たしたのに、まだ素材や知識が必要だというんですか						
+TalkEvent_21_004ID	28	Criselda	クリセルダ	渇望に限りはないのよ						
+TalkEvent_21_004ID	29	Roman	ロマン	私たちの答えは変わらないさ。\nそんな要求を飲むわけにはいかない						
+TalkEvent_21_004ID	30	Criselda	クリセルダ	ふふっ、そう……						
+TalkEvent_21_004ID	31	Criselda	クリセルダ	二人を迎えに来るという目的は果たせたし、\n今日のところは失礼させてもらうわ						
+TalkEvent_21_004ID	32	Criselda	クリセルダ	後日、場所を変えて思いきりやりましょう						
+TalkEvent_21_004ID	33	Geron	ジェロン	相変わらず、好き勝手に動くな……クリセルダ						
+TalkEvent_21_004ID	34	Resna	レスナ	アンチュちゃん……						
+TalkEvent_21_004ID	35	Roman	ロマン	三人とも、大丈夫か？						
+TalkEvent_21_004ID	36	Resna	レスナ	は、はい……なんとか						
+TalkEvent_21_004ID	37	Izana	イザナ	ごめん……逃げられちゃった						
+TalkEvent_21_004ID	38	Juna	ユナ	いや。むしろよく食い止めてくれた。\n大きな被害が出なくてよかった						
+TalkEvent_21_004ID	39	Valeria	ヴァレリア	クリセルダ……想像以上の力だったわ						
+TalkEvent_21_005ID	0		住民Ｂ	おいおい、いったいなんの騒ぎなんだ？						
+TalkEvent_21_005ID	1		住民Ｃ	極夜の錬金党が街に現れたって本当なの！？						
+TalkEvent_21_005ID	2		住民Ａ	間違いねえ！\n騎士たちを蹴散らしてこっちに向かって来たんだ！						
+TalkEvent_21_005ID	3	Roman	ロマン	人が集まってきたな……\n大きな騒ぎになる前に収めたほうがよさそうだ						
+TalkEvent_21_005ID	4	Juna	ユナ	危機は去った！　皆、安心してほしい						
+TalkEvent_21_005ID	5		住民Ｂ	あなたは白夜の騎士の！						
+TalkEvent_21_005ID	6		住民Ａ	あ、あなたほどの騎士様がそう言うなら……						
+TalkEvent_21_005ID	7		住民Ｃ	しかし、この間の魔物襲撃事件といい、\n物騒なことが続くねえ……						
+TalkEvent_21_005ID	8		住民Ｂ	しかも、また極夜の錬金党って\n奴らの仕業だっていうんだろ？						
+TalkEvent_21_005ID	9		住民Ｃ	早く捕まってほしいもんだよ。錬金術だかなんだか\n知らないけど、放っておいていいのかね						
+TalkEvent_21_005ID	10	Resna	レスナ	っ……！						
+TalkEvent_21_005ID	11		住民Ａ	まったくだ。こんな風に街が壊されちまったのも、\n錬金術のせいなんだろ？						
+TalkEvent_21_005ID	12		住民Ｂ	そんな危ないもの、禁止しちまえばいいんだよ						
+TalkEvent_21_005ID	13	Resna	レスナ	っ……そんなこと、ありません！						
+TalkEvent_21_005ID	14	Roman	ロマン	レスナ……！						
+TalkEvent_21_005ID	15	Resna	レスナ	錬金術は人々の願いを叶え、幸せにできる力なんです！						
+TalkEvent_21_005ID	16		住民Ｃ	なんだいこの子は？						
+TalkEvent_21_005ID	17		住民Ｂ	あっ、新聞で見たことあるぞ！\n確か錬金術士の……						
+TalkEvent_21_005ID	18		住民Ａ	まさか、極夜の錬金党の仲間じゃないだろうな！						
+TalkEvent_21_005ID	19	Resna	レスナ	え……いや、違……						
+TalkEvent_21_005ID	20		住民Ｃ	また何か起こす前に捕まえちまいなよ！						
+TalkEvent_21_005ID	21		住民Ｂ	そうだ、その通りだ！						
+TalkEvent_21_005ID	22	Izana	イザナ	ちょっと、何勝手なこと言ってんの！						
+TalkEvent_21_005ID	23	Valeria	ヴァレリア	レスナがそんなことするわけないでしょ！						
+TalkEvent_21_005ID	24	Roman	ロマン	みんな、まずは落ち着いて話を――						
+TalkEvent_21_005ID	25		オルペウス	――静まれ						
+TalkEvent_21_005ID	26	Roman	ロマン	っ！　兄上！						
+TalkEvent_21_005ID	27		住民Ａ	オ、オルペウス様！？						
+TalkEvent_21_005ID	28		オルペウス	話はおおよそ聞いていた。\n皆が不安に思う気持ちは理解できる						
+TalkEvent_21_005ID	29		オルペウス	だが、過去に錬金術士に救われた者も、\nこの中にはいるのではないか？						
+TalkEvent_21_005ID	30		住民たち	…………						
+TalkEvent_21_005ID	31		住民Ｄ	錬金術士が作る薬にはいつも助けられてるよ。\n普通に売ってる薬より効き目がいいんだ						
+TalkEvent_21_005ID	32		住民Ｅ	私は家族の思い出のテーブルを修理してもらった\nことがある。今でも感謝してるよ						
+TalkEvent_21_005ID	33		オルペウス	他にも、同じように世話になった者は大勢いるはずだ						
+TalkEvent_21_005ID	34		オルペウス	かの頂獣ウェルテックスの討伐も、\n錬金術士たちの協力なくては成しえなかっただろう						
+TalkEvent_21_005ID	35		住民Ｃ	オルペウス様。仰ることは分かりますが、実際に\n錬金術士が大きな事件を起こしてるんですから……						
+TalkEvent_21_005ID	36		オルペウス	もちろん、手放しに肯定するわけにはいかない。\nただ、あちらの言い分にも耳を傾けるべきだろう						
+TalkEvent_21_005ID	37		オルペウス	錬金術士レスナ・シュテルネンリヒト						
+TalkEvent_21_005ID	38	Resna	レスナ	……は、はいっ！						
+TalkEvent_21_005ID	39		オルペウス	君は此度の件、どう考える？						
+TalkEvent_21_005ID	40	Resna	レスナ	私、は……						
+TalkEvent_21_005ID	41	Resna	レスナ	錬金術は、とても大きな力です						
+TalkEvent_21_005ID	42	Resna	レスナ	使い方次第で、人々を幸せにする薬にも、\n害を及ぼす毒にもなる						
+TalkEvent_21_005ID	43	Resna	レスナ	でも、私は人々を幸せにするためにこの力を使いたい。\nその想いは最初から変わりません						
+TalkEvent_21_005ID	44	Resna	レスナ	だからこそ、己のために力を使い、人々を害する\nような行いは、断じて許すことはできません						
+TalkEvent_21_005ID	45	Resna	レスナ	極夜の錬金党は、私が止めます。\n同じ錬金術士として						
+TalkEvent_21_005ID	46		オルペウス	……分かった						
+TalkEvent_21_005ID	47		オルペウス	皆も、彼女の決意に免じて、今は矛を収めてほしい！\nこの先は、我々が責任を持って見届けよう						
+TalkEvent_21_006ID	0	Marion	マリオン	そう。そんなことが……						
+TalkEvent_21_006ID	1	Resna	レスナ	はい……オルペウス殿下のおかげで\nなんとかその場は収まりましたけど……						
+TalkEvent_21_006ID	2	Marion	マリオン	住民たちも不安なのよ。\nあなたが気に病むことはないわ						
+TalkEvent_21_006ID	3	Resna	レスナ	大丈夫です、マリオンさん						
+TalkEvent_21_006ID	4	Resna	レスナ	むしろ、余計に決意が強まりました。\n必ずクリセルダさんを止めなきゃって						
+TalkEvent_21_006ID	5	Marion	マリオン	……本当に、強くなったわね。レスナ						
+TalkEvent_21_006ID	6	Resna	レスナ	えへへ……ありがとうございます						
+TalkEvent_21_006ID	7	Resna	レスナ	それより、皆さんもクリセルダさんの襲撃を\n受けていたなんて……						
+TalkEvent_21_006ID	8	Judie	ユーディー	し……染みる……						
+TalkEvent_21_006ID	9	Ayesha	アーシャ	ごめんね。きちんと治療しないと、大変だから……						
+TalkEvent_21_006ID	10	Judie	ユーディー	ううん。大したケガじゃないのに、ごめん。\nブラッドさんは？						
+TalkEvent_21_006ID	11	Sophie	ソフィー	かなり体力を消耗したみたいで、眠ったとこだよ。\nでも……						
+TalkEvent_21_006ID	12	Brad	ブラッド	う……うう……おのれぇ						
+TalkEvent_21_006ID	13	Magda	マクダ	無理もないね。恥ずかしいけどさ。あいつの力は\n圧倒的だった。正直、恐怖を覚えたよ						
+TalkEvent_21_006ID	14	Valeria	ヴァレリア	まるで内臓を掴まれたみたいだったわ。\n力が抜けて、動けなくて……						
+TalkEvent_21_006ID	15	Resna	レスナ	それに、一度倒れたアンチュちゃんを\n起き上がらせた力も……						
+TalkEvent_21_006ID	16	Resna	レスナ	どちらも、ウェルテックスの力を元に\n創り出したものだと思う						
+TalkEvent_21_006ID	17	Valeria	ヴァレリア	魔物を操る力だけじゃなかったのね						
+TalkEvent_21_006ID	18	Resna	レスナ	でも、生き物に干渉するという意味では、\n似たような力とも言えるかも						
+TalkEvent_21_006ID	19	Marion	マリオン	まさか、こっちを操ろうとしてたっていうの？						
+TalkEvent_21_006ID	20	Resna	レスナ	そこまではできないんだと思います。人を操ることに\n興味はない、という証言もありますし……						
+TalkEvent_21_006ID	21	Resna	レスナ	ただ、動きを止めたり、逆に活力を与えたり\nすることはできる。きっとそういう力なんだと思います						
+TalkEvent_21_006ID	22	Valeria	ヴァレリア	わりとなんでもありになってるわ。厄介ね						
+TalkEvent_21_006ID	23	Marion	マリオン	しかも、それでもまだ知識を欲しているんでしょ？\n途方もないことを企んでそうね……						
+TalkEvent_21_006ID	24	Izana	イザナ	レスナちゃん！						
+TalkEvent_21_006ID	25	Resna	レスナ	イザナちゃん？　どうしたの？						
+TalkEvent_21_006ID	26	Izana	イザナ	大変だよ！\n王都の周りで魔物たちが暴れてるの！						
+TalkEvent_21_007ID	0	Valeria	ヴァレリア	はぁぁぁっ！						
+TalkEvent_21_007ID	1	Johanna	ヨハナ	やぁぁぁっ！						
+TalkEvent_21_007ID	2	Izana	イザナ	ハンマーーーッ！						
+TalkEvent_21_007ID	3	Rorona	ロロナ	うう、こんなにたくさん。\nいきなりどうしちゃったんだろう						
+TalkEvent_21_007ID	4	Valeria	ヴァレリア	ウェルテックスが現れる前にも魔物の様子が\nおかしくなってたわよね。それと同じじゃない？						
+TalkEvent_21_007ID	5	Resna	レスナ	クリセルダさんの力に魔物たちが怯えてるってこと？						
+TalkEvent_21_007ID	6	Izana	イザナ	とにかく、今はこの魔物たちを片付けないと！						
+TalkEvent_21_007ID	7	Rorona	ロロナ	うん。街の人たちをこれ以上不安にさせたくないしね						
+TalkEvent_21_007ID	8	Rorona	ロロナ	マルローネさん！						
+TalkEvent_21_007ID	9	Marie	マリー	いっけー！						
+TalkEvent_21_007ID	10	Resna	レスナ	私も……！						
+TalkEvent_21_007ID	11	Resna	レスナ	やぁぁぁぁっ！						
+TalkEvent_21_007ID	12	Izana	イザナ	すべては、このハンマーで解決するよ！　たぁっ！！						
+TalkEvent_21_008ID	0	Rorona	ロロナ	ふう……なんとかなったね						
+TalkEvent_21_008ID	1	Johanna	ヨハナ	この辺りの魔物は片付いたけど、原因があの女なら、\nまた同じようなことが起こるんじゃないの？						
+TalkEvent_21_008ID	2	Valeria	ヴァレリア	そうね。急いでクリセルダを見つけて懲らしめないと						
+TalkEvent_21_008ID	3	Johanna	ヨハナ	アンチュとワルターもね。あいつら、あんなに\nあっさり寝返るなんて……めちゃくちゃ許せないわ						
+TalkEvent_21_008ID	4	Resna	レスナ	う、うん……そうだね						
+TalkEvent_21_008ID	5	Rorona	ロロナ	わたし、街の人たちに大丈夫だったよーって\n伝えてくる！						
+TalkEvent_21_008ID	6	Izana	イザナ	……レスナちゃん。アンチュのこと、残念だったね。\nやっと仲良くなりかけてたんでしょ？						
+TalkEvent_21_008ID	7	Resna	レスナ	ありがとう、イザナちゃん。でも、まだ諦めてないよ						
+TalkEvent_21_008ID	8	Resna	レスナ	きっと分かり合えるって、私は信じてるんだ						
+TalkEvent_21_008ID	9	Izana	イザナ	レスナちゃん、強くなった……かっこいいよ！						
+TalkEvent_21_008ID	10	Resna	レスナ	えへへ……じゃ、私たちも帰ろっか						
+TalkEvent_21_009ID	0	Heidi	ハイディ	あれ、相棒。その服って						
+TalkEvent_21_009ID	1	Valeria	ヴァレリア	うん。クリセルダのとこに行ってた時に着てたやつ						
+TalkEvent_21_009ID	2	Valeria	ヴァレリア	多分、あいつの趣味全開だと思うんだけど						
+TalkEvent_21_009ID	3	Valeria	ヴァレリア	ふっ……ふんっ！						
+TalkEvent_21_009ID	4	Heidi	ハイディ	よく着れるねぇ。それ着てて、気持ち悪くない？						
+TalkEvent_21_009ID	5	Valeria	ヴァレリア	ん？　服には罪はないし、これはこれで、いつもと\n違った戦い方ができるのよね						
+TalkEvent_21_009ID	6	Heidi	ハイディ	はえ～こだわりがないねぇ						
+TalkEvent_21_009ID	7	Lanze	ランツェ	まぁ、ヴァレリアらしいんじゃねぇか？						
+TalkEvent_21_009ID	8	Flocke	フロッケ	ふふっ。ヴァレリアさんが嫌じゃないなら、フロッケは\nいいと思いますよ						
+TalkEvent_21_009ID	9	Valeria	ヴァレリア	許せないのは……自分を見失っていた私が\n利用されていたってことだけ						
+TalkEvent_21_009ID	10	Valeria	ヴァレリア	だから、クリセルダとの決戦のために、使えるものは\nなんでも使ってやるわ！						
+TalkEvent_21_009ID	11	Heidi	ハイディ	うん。頑張ろうね、相棒！						
+TalkEvent_21_009ID	12	Lanze	ランツェ	そういやクリセルダの行方はまだ掴めてねえのか？						
+TalkEvent_21_009ID	13	Heidi	ハイディ	そうみたい。今、錬金術士と騎士が総出で\n捜索してるとこ						
+TalkEvent_21_009ID	14	Valeria	ヴァレリア	私も手伝おうとしたんだけど、この間の件もあったし\n少し休んでろってさ						
+TalkEvent_21_009ID	15	Heidi	ハイディ	魔物が暴れ出すって騒動もあったけど、\n今は落ち着いてるみたいだね						
+TalkEvent_21_009ID	16	Lanze	ランツェ	つまり今は束の間の休みってとこだな……						
+TalkEvent_21_009ID	17	Flocke	フロッケ	そうですね。この間にしっかり準備をしておきましょう						
+TalkEvent_21_009ID	18	Valeria	ヴァレリア	もうっ！　早く場所が分からないかしら！\nこうやって待ってるの、落ち着かないのよ						
+TalkEvent_21_009ID	19	Lanze	ランツェ	そこは落ち着けって。休めるうちに休んでおかねぇと\nいざってときに全力を出せねぇぞ						
+TalkEvent_21_009ID	20	Valeria	ヴァレリア	はぁ……それもそっか						
+TalkEvent_21_009ID	21	Lanze	ランツェ	あー。そうだな、家族でちょっと旅行でも行くか！						
+TalkEvent_21_009ID	22	Valeria	ヴァレリア	旅行？						
+TalkEvent_21_009ID	23	Lanze	ランツェ	決戦の前に英気を養うんだよ。気分を盛り上げて\nいこうぜ！						
+TalkEvent_21_009ID	24	Heidi	ハイディ	いいね、それ！						
+TalkEvent_21_010ID	0	Flocke	フロッケ	あ！　ランツェさん！　引いてますよ！						
+TalkEvent_21_010ID	1	Lanze	ランツェ	ちょい待て……ここだ！　よっ！						
+TalkEvent_21_010ID	2	Flocke	フロッケ	わぁ、たくさん釣れましたね！						
+TalkEvent_21_010ID	3	Lanze	ランツェ	ははっ。長い間、船に乗ってたからな						
+TalkEvent_21_010ID	4	Flocke	フロッケ	ふふっ。ランツェさんはフロッケたちの頼もしい\nお父さんですね						
+TalkEvent_21_010ID	5	Heidi	ハイディ	キノコはこれ位でいいかな？						
+TalkEvent_21_010ID	6	Valeria	ヴァレリア	うんうん。木の実もいっぱい採りましょ！						
+TalkEvent_21_010ID	7	Heidi	ハイディ	えへへ。今日のご飯は楽しみだねぇ						
+TalkEvent_21_010ID	8	Valeria	ヴァレリア	ねぇ、ハイディ。ランツェは私のことを気にかけて\n旅行に誘ってくれたのよね						
+TalkEvent_21_010ID	9	Heidi	ハイディ	へぇ。相棒もそういうの分かるようになったんだね						
+TalkEvent_21_010ID	10	Valeria	ヴァレリア	ふふっ。ちょっと成長してる？						
+TalkEvent_21_010ID	11	Heidi	ハイディ	うん、してる！						
+TalkEvent_21_010ID	12	Heidi	ハイディ	おっと。一家団らんを邪魔する不届き者だ						
+TalkEvent_21_010ID	13	Valeria	ヴァレリア	よし！　気分転換に思いっきり戦っちゃうわ！						
+TalkEvent_21_010ID	14	Heidi	ハイディ	そういうところは変わんないよね！						
+TalkEvent_21_011ID	0	Heidi	ハイディ	ん～っ！　おっさんの作った鍋、美味しいね！\nお魚もプリップリだー！						
+TalkEvent_21_011ID	1	Flocke	フロッケ	お魚やキノコもたっぷりで、とってもいい出汁が\n出てます！　……あ、ヴァレリアさん、こっちもどうぞ						
+TalkEvent_21_011ID	2	Valeria	ヴァレリア	ありがと！　フロッケの料理は相変わらず美味しいわ						
+TalkEvent_21_011ID	3	Flocke	フロッケ	ふふっ。お弁当なので、冷めてますけどね						
+TalkEvent_21_011ID	4	Lanze	ランツェ	いーや。冷めててもうまいように考えられてる！\nさすが天使ちゃんだ！						
+TalkEvent_21_011ID	5	Valeria	ヴァレリア	あ！　これもーらい！						
+TalkEvent_21_011ID	6	Heidi	ハイディ	ちょっと相棒！？　それ私の分だよ！？						
+TalkEvent_21_011ID	7	Flocke	フロッケ	ま、まだまだありますから……						
+TalkEvent_21_011ID	8	Lanze	ランツェ	はは……運命なんて分からねぇモンだな……						
+TalkEvent_21_011ID	9	Lanze	ランツェ	（ちょっと前まで、王都で飲んだくれてたなんて\n　嘘みてぇだ）						
+TalkEvent_21_011ID	10	Magda	マクダ	それじゃあ、この拳はどうだ？						
+TalkEvent_21_011ID	11	Valeria	ヴァレリア	ふっ！　じゃあこっちも行くわね！　えっ！？						
+TalkEvent_21_011ID	12	Magda	マクダ	あーんな攻撃繰り出す癖に、ほっぺは柔らかいなぁ！						
+TalkEvent_21_011ID	13	Valeria	ヴァレリア	ええっ、やめてよね！						
+TalkEvent_21_011ID	14	Heidi	ハイディ	あはは！　相棒のその顔！						
+TalkEvent_21_011ID	15	Lanze	ランツェ	てめえら……うるせぇよ。暴れるなら向こうでやれよ\n……ヒック						
+TalkEvent_21_011ID	16	Magda	マクダ	うるせぇ、酔っ払い						
+TalkEvent_21_011ID	17	Flocke	フロッケ	皆さーん！　お役人さんが来ます！　お役人ですよー！						
+TalkEvent_21_011ID	18	Magda	マクダ	ちっ。また目を付けられたら面倒くせぇ。\n続きはまた今度だな						
+TalkEvent_21_011ID	19	Valeria	ヴァレリア	ええ。ランツェ、さっさと起きないと\nしょっ引かれるわよ						
+TalkEvent_21_011ID	20	Lanze	ランツェ	へいへい……						
+TalkEvent_21_011ID	21	Lanze	ランツェ	天使ちゃんはともかく、あんなロクでもない生活を\n送ってた俺たちなのに……						
+TalkEvent_21_011ID	22	Heidi	ハイディ	何おっさん？　昔を振り返ってんの？						
+TalkEvent_21_011ID	23	Lanze	ランツェ	ああ。今はこんなに健康的な生活を送ってるなんて、\n夢にも思わなかったと思ってな						
+TalkEvent_21_011ID	24	Heidi	ハイディ	人生何が起こるか分からないもんだね、ホント						
+TalkEvent_21_011ID	25	Valeria	ヴァレリア	「定められた道」、か						
+TalkEvent_21_011ID	26	Flocke	フロッケ	ヴァレリアさん？						
+TalkEvent_21_011ID	27	Valeria	ヴァレリア	クリセルダは私の進む道は決められたものだって、\nそう言ってたけど……						
+TalkEvent_21_011ID	28	Valeria	ヴァレリア	ううん。これは私が自分で切り開いてきた運命よ						
+TalkEvent_21_011ID	29	Heidi	ハイディ	そうだよ！　それでこそ相棒だよ！						
+TalkEvent_21_011ID	30	Valeria	ヴァレリア	ふふっ。それにしても、フロッケのお弁当は\n本当に美味しいわね						
+TalkEvent_21_011ID	31	Lanze	ランツェ	おいおい。俺の作った鍋だってうまいだろ？						
+TalkEvent_21_011ID	32	Valeria	ヴァレリア	ん……はふはふ……美味しい！						
+TalkEvent_21_011ID	33	Valeria	ヴァレリア	（これは、私が切り開いた道。\n　だから、この日常を壊させたりは、絶対にしないわ）						
+TalkEvent_21_012ID	0	Resna	レスナ	今のところ手掛かりはなしですね……						
+TalkEvent_21_012ID	1	Roman	ロマン	ああ。クリセルダたちは完全に姿をくらましている						
+TalkEvent_21_012ID	2	Roman	ロマン	大陸中に手配書を配って、騎士たちも動員し、\n人海戦術で捜索を続けているんだが……						
+TalkEvent_21_012ID	3	Sophie	ソフィー	あの遺跡も隅々まで調べてみたんだけど、\nなーんにも手掛かりなし						
+TalkEvent_21_012ID	4	Resna	レスナ	何かいい方法はないでしょうか……						
+TalkEvent_21_012ID	5	Izana	イザナ	あっちから仕掛けてきそうな感じあったのに\nどうしたんだろう。う～～～ん						
+TalkEvent_21_012ID	6	Rorona	ロロナ	いらっしゃ……ええっ！？						
+TalkEvent_21_012ID	7	Roman	ロマン	なっ！？						
+TalkEvent_21_012ID	8	Resna	レスナ	ワルターさん……！？						
+TalkEvent_21_012ID	9	Walther	ワルター	冒険者への依頼を出すのは、ここでいいでしょうか？						
+TalkEvent_21_012ID	10	Rorona	ロロナ	え、え、えっと……						
+TalkEvent_21_012ID	11	Ryza	ライザ	ロロナ！　下がって！						
+TalkEvent_21_012ID	12	Resna	レスナ	今度は何をするつもりですか？						
+TalkEvent_21_012ID	13	Walther	ワルター	……武器を収めていただけると助かります。\n争うつもりはありませんよ						
+TalkEvent_21_012ID	14	Roman	ロマン	では、何をしに来た？						
+TalkEvent_21_012ID	15	Walther	ワルター	先ほど言った通り、依頼を出しに来ました。\n内容は――						
+TalkEvent_21_012ID	16	Walther	ワルター	極夜の錬金党党首、クリセルダ・アメルハウザーの討伐						
+TalkEvent_21_012ID	17	Resna	レスナ	えっ……						
+TalkEvent_21_012ID	18	Izana	イザナ	どういうこと……！？						
+TalkEvent_21_012ID	19	Walther	ワルター	と言っても、私は代理人ですがね						
+TalkEvent_21_012ID	20	Walther	ワルター	依頼主はクリセルダ本人です。\nアンチュでは難しいお使いなので、私が						
+TalkEvent_21_012ID	21	Izana	イザナ	余計に分からなくなったんだけど！						
+TalkEvent_21_012ID	22	Ryza	ライザ	自分で自分の討伐を依頼するって、\nどういうこと？						
+TalkEvent_21_012ID	23	Walther	ワルター	クリセルダは頂獣の骸を素材に研究を進め、\n目標としていた力を得ることに成功しました						
+TalkEvent_21_012ID	24	Walther	ワルター	彼女はその力を証明し、ランターナ王国に要求を\n飲ませたいと考えているんですよ						
+TalkEvent_21_012ID	25	Roman	ロマン	先日の襲撃の際に言っていたあの言葉通りということか						
+TalkEvent_21_012ID	26	Walther	ワルター	そうです。しかし、余計な犠牲が出ることは\n望んでいない						
+TalkEvent_21_012ID	27	Walther	ワルター	居所を明かし、他に邪魔の入らない場所で\n存分に戦う……それが彼女の「依頼」です						
+TalkEvent_21_012ID	28	Walther	ワルター	これはいわば――\nクリセルダからの挑戦状でもある、ということです						
+TalkEvent_21_013ID	0	Resna	レスナ	クリセルダさんは今……どういう状態なんでしょうか						
+TalkEvent_21_013ID	1	Walther	ワルター	特にどう、ということはありませんよ						
+TalkEvent_21_013ID	2	Walther	ワルター	大きな力を取り入れたことで、何かしらの影響が\nあるのでは、と少し気がかりではありましたが……						
+TalkEvent_21_013ID	3	Walther	ワルター	クリセルダの人格に変化はありませんでした。\n拍子抜けするくらい、そのままでしたよ						
+TalkEvent_21_013ID	4	Resna	レスナ	そう、ですか……						
+TalkEvent_21_013ID	5	Criselda	クリセルダ	自分の討伐依頼なんて、今までの錬金党ではなかった\n面白い趣向よ。そうは思わない？						
+TalkEvent_21_013ID	6	Walther	ワルター	はぁ……あなたは相変わらずですね。\n傍若無人でありながら、妙に人に甘い						
+TalkEvent_21_013ID	7	Criselda	クリセルダ	あなたのような、血も涙もない研究者と\n一緒にしてもらっては困るわね						
+TalkEvent_21_013ID	8	Walther	ワルター	心外ですね。こう見えて、義理堅い性分ですよ私は。\nこうして先輩の横暴にも付き合っている						
+TalkEvent_21_013ID	9	Antje	アンチュ	クリセルダ……						
+TalkEvent_21_013ID	10	Criselda	クリセルダ	大丈夫よ、アンチュ。私は私だから						
+TalkEvent_21_013ID	11	Resna	レスナ	ワルターさんは、クリセルダさんのことを心配して\n戻っていったんですね						
+TalkEvent_21_013ID	12	Walther	ワルター	……さあ、それはどうでしょうか						
+TalkEvent_21_013ID	13	Walther	ワルター	ともかく、私の用件は以上です。\n依頼を受けるも受けないも、あなたの自由ですが……						
+TalkEvent_21_013ID	14	Resna	レスナ	受けます						
+TalkEvent_21_013ID	15	Resna	レスナ	私はクリセルダさんを止めると決めました。\n受けて立ちます						
+TalkEvent_21_013ID	16	Izana	イザナ	依頼ってことはさ、報酬はあるの？						
+TalkEvent_21_013ID	17	Walther	ワルター	ええ。報酬は彼女の持つ「すべて」とのことです						
+TalkEvent_21_013ID	18	Roman	ロマン	すべて？						
+TalkEvent_21_013ID	19	Walther	ワルター	これまで極夜の錬金党が収集してきた希少素材、\nあらゆる知識や情報、そして……						
+TalkEvent_21_013ID	20	Walther	ワルター	クリセルダ自身の渇望についても						
+TalkEvent_21_013ID	21	Resna	レスナ	…………						
+TalkEvent_21_013ID	22	Walther	ワルター	では、用は済みましたので、私は失礼します						
+TalkEvent_21_013ID	23	Roman	ロマン	こちらとしては、易々と帰らせるわけにはいかないね						
+TalkEvent_21_013ID	24	Walther	ワルター	やめておいたほうがいいですよ。私が戻らなければ、\n無差別に攻撃を仕掛けると彼女は言っていました						
+TalkEvent_21_013ID	25	Roman	ロマン	……余計な犠牲が出ることを望んではいないが、\nやると決めたら、やる。そういう人物だったね						
+TalkEvent_21_013ID	26	Walther	ワルター	ご理解ありがとうございます						
+TalkEvent_21_013ID	27	Walther	ワルター	それでは皆さん、またお会いしましょう						
+TalkEvent_21_013ID	28	Resna	レスナ	場所はルイネ州にある「閉ざさずの門」と呼ばれる\n遺跡。期限は１０日後……						
+TalkEvent_21_013ID	29	Izana	イザナ	１０日……まだ結構あるね						
+TalkEvent_21_013ID	30	Roman	ロマン	時間をやるから、きっちり準備しろってことだろうね。\nその上で、こちらを叩き潰す自信があるんだろう						
+TalkEvent_21_013ID	31	Roman	ロマン	言い訳が効かないように、\n心を折りに来ている、ということさ						
+TalkEvent_21_013ID	32	Izana	イザナ	望むところだよ！\nこっちこそコテンパンにしてあげるんだから！						
+TalkEvent_21_013ID	33	Resna	レスナ	決戦の準備をしましょう！						
+TalkEvent_21_014ID	0	Valeria	ヴァレリア	クリセルダからの挑戦状か……上等じゃない！\n絶対負けないわよ！						
+TalkEvent_21_014ID	1	Valeria	ヴァレリア	で、その「閉ざさずの門」って、思いっきり\n戦える場所なのよね？						
+TalkEvent_21_014ID	2	Roman	ロマン	ああ。心配はいらない。\n周辺の住民にも避難を促している						
+TalkEvent_21_014ID	3	Roman	ロマン	ただ……現地を偵察しに行った者から、\n気になる報告があってね						
+TalkEvent_21_014ID	4	Resna	レスナ	気になる報告？						
+TalkEvent_21_014ID	5	Firis	フィリス	はーい、それは実際に行ったわたしから！						
+TalkEvent_21_014ID	6	Firis	フィリス	遺跡の周りを大勢の魔物がぐるっと取り囲んでるんだ。\nまるで遺跡を守るみたいに						
+TalkEvent_21_014ID	7	Valeria	ヴァレリア	それって……！						
+TalkEvent_21_014ID	8	Resna	レスナ	クリセルダさんが操ってるんだ……						
+TalkEvent_21_014ID	9	Firis	フィリス	実際に見てもらえば分かると思うけど、\n本当にすごい数なんだよ						
+TalkEvent_21_014ID	10	Roman	ロマン	そんな大群をまとめて使役するとは……\n彼女の力は想像以上のものらしいね						
+TalkEvent_21_014ID	11	Valeria	ヴァレリア	まずは魔物を蹴散らして、クリセルダの所まで\nたどり着かないとね						
+TalkEvent_21_014ID	12	Resna	レスナ	それはもちろんだけど、多分今のままじゃ勝てない						
+TalkEvent_21_014ID	13	Resna	レスナ	特に、こちらの動きを封じるあの力……\nあれの対処方法を考えないと						
+TalkEvent_21_014ID	14	Marion	マリオン	幸い、まだ期限まで１０日あるわ。考えられる対策は\nすべて立てましょう						
+TalkEvent_21_014ID	15	Resna	レスナ	私、ウェルテックス討伐の時に作ったくさびが\n役に立つかな、と思ったんです						
+TalkEvent_21_014ID	16	Firis	フィリス	……あ！　なるほど！						
+TalkEvent_21_014ID	17	Valeria	ヴァレリア	それって、あの大きな槍みたいなやつ？						
+TalkEvent_21_014ID	18	Resna	レスナ	うん。クリセルダさんの力がウェルテックスの力を\n応用したものなら、同じような手段で対抗できるはず						
+TalkEvent_21_014ID	19	Resna	レスナ	もちろんそのままでは使えませんが、\nあれを改造するのが近道ではないかと						
+TalkEvent_21_014ID	20	Firis	フィリス	いいと思う！\nみんなで知恵を出し合って作ったとっておきだもんね						
+TalkEvent_21_014ID	21	Roman	ロマン	よし。ではそちらは頼んだよ、レスナ						
+TalkEvent_21_014ID	22	Resna	レスナ	はい！　早速、改造のための素材を集めます！						
+TalkEvent_21_014ID	23	Rorona	ロロナ	わたしたちも一緒にやるよ、レスナちゃん！						
+TalkEvent_21_014ID	24	Firis	フィリス	錬金術士には錬金術士の力で対抗しないとね！						
+TalkEvent_21_014ID	25	Marion	マリオン	私は異邦人たちに連絡を回しておくわね						
+TalkEvent_21_014ID	26	Valeria	ヴァレリア	じゃあ私は、「閉ざさずの門」の周りの魔物を\nちょっとでも減らしておくわ						
+TalkEvent_21_014ID	27	Roman	ロマン	ウェルテックス討伐の時のように、全員で力を\n合わせよう！						
+TalkEvent_21_014ID	28	Resna	レスナ	皆さん、よろしくお願いします！						
+TalkEvent_21_015ID	0	Saskia	ザスキア	お邪魔するわね						
+TalkEvent_21_015ID	1	Resna	レスナ	師匠！　ブラッドさんも、いらっしゃいませ						
+TalkEvent_21_015ID	2	Resna	レスナ	ブラッドさん、もうお身体は大丈夫なんですか？						
+TalkEvent_21_015ID	3	Brad	ブラッド	ああ、もう問題ない。\n我ながら不甲斐ない有様だった						
+TalkEvent_21_015ID	4	Resna	レスナ	いいえ。ブラッドさんの負傷は一番酷かったんです。\n無事に治ってよかったですよ						
+TalkEvent_21_015ID	5	Resna	レスナ	もう、あんなことは二度と起こしてはいけないんです						
+TalkEvent_21_015ID	6	Brad	ブラッド	……リヒャルトやオルペウス殿下から、\nあの時のことは聞いている						
+TalkEvent_21_015ID	7	Brad	ブラッド	私も錬金爵として、最大限の協力を約束しよう						
+TalkEvent_21_015ID	8	Resna	レスナ	ありがとうございます！						
+TalkEvent_21_015ID	9	Saskia	ザスキア	作戦についても大体聞いているわ。\nあなたならきっと大丈夫よ						
+TalkEvent_21_015ID	10	Resna	レスナ	ありがとうございます、師匠						
+TalkEvent_21_015ID	11	Brad	ブラッド	今のうちに、今後のことについても決めておきたい。\n具体的には、極夜の錬金党の処遇についてだ						
+TalkEvent_21_015ID	12	Roman	ロマン	それはさすがに気が早すぎじゃないかい？						
+TalkEvent_21_015ID	13	Brad	ブラッド	いや。ここを曖昧にしていては、\n戦いに迷いが生じてしまうだろう						
+TalkEvent_21_015ID	14	Brad	ブラッド	クリセルダに関しては、然るべき裁きを受けるべきだ\nというのが私の考えだ						
+TalkEvent_21_015ID	15	Brad	ブラッド	ワルターとアンチュの２名も同じだ。\n彼らは寛容を示した王国を裏切った						
+TalkEvent_21_015ID	16	Resna	レスナ	仰ることは分かります。ただ、決着が付いた後でも、\n私はクリセルダさんと改めて話をしたいと思っています						
+TalkEvent_21_015ID	17	Resna	レスナ	あの人には、まだ明かしていない「何か」がある。\n恐らく、錬金党の他の二人にも言っていないことが						
+TalkEvent_21_015ID	18	Roman	ロマン	討伐が成功した場合、クリセルダは持てるすべてを\n差し出す。これが依頼の条件だ						
+TalkEvent_21_015ID	19	Roman	ロマン	我々が勝利すればそれもきっと明らかになるだろう						
+TalkEvent_21_015ID	20	Resna	レスナ	その内容次第では、もしかしたら……						
+TalkEvent_21_015ID	21	Brad	ブラッド	奴の真意が明らかになったとしても、\n結果は変わらないと思うがな						
+TalkEvent_21_015ID	22	Brad	ブラッド	根本的な部分が相容れないからこそ、\nここまで対立しているのではないか？						
+TalkEvent_21_015ID	23	Valeria	ヴァレリア	まあ、クリセルダがそう簡単にこちらに降るとも\n考えにくいわよね……						
+TalkEvent_21_015ID	24	Saskia	ザスキア	そうね。\n今回ばかりは、手を取り合うのは難しいでしょう						
+TalkEvent_21_015ID	25	Saskia	ザスキア	レスナ。あなたは優しいわ。でもね、その優しさの\n枠に当てはめられない相手も存在するのよ						
+TalkEvent_21_015ID	26	Saskia	ザスキア	彼女には、罪にふさわしい罰を与えるべきだわ						
+TalkEvent_21_015ID	27	Resna	レスナ	そう、ですよね……						
+TalkEvent_21_015ID	28	Brad	ブラッド	まだ迷いがあるのか？						
+TalkEvent_21_015ID	29	Resna	レスナ	いえ、大丈夫です。クリセルダさんを止めなくては\nいけない、という想いは初めから変わっていません						
+TalkEvent_21_015ID	30	Saskia	ザスキア	ええ、それでいいわ。\nあなたは自分の為すべきことを為しなさい						
+TalkEvent_21_015ID	31	Brad	ブラッド	……同意だな。まずは奴らを捕らえてからだ						
+TalkEvent_21_016ID	0	Rorona	ロロナ	ひゃあっ！　すごい風だぁ……！						
+TalkEvent_21_016ID	1	Firis	フィリス	ロロナちゃんもみんなも、足を踏ん張って！\nゆっくり着実に一歩ずつ進むんだよ！						
+TalkEvent_21_016ID	2	Izana	イザナ	レスナちゃん、大丈夫？						
+TalkEvent_21_016ID	3	Resna	レスナ	うん。平気だよ、イザナちゃん。\nこういう環境でも、冒険できる						
+TalkEvent_21_016ID	4	Izana	イザナ	そっか！						
+TalkEvent_21_016ID	5	Resna	レスナ	（前に来た時より、足が軽い。\n　私も、ちゃんと成長してるんだ）						
+TalkEvent_21_016ID	6	Rorona	ロロナ	わぁ。ここ、珍しい素材がいっぱいありそうだね！						
+TalkEvent_21_016ID	7	Firis	フィリス	必要なもの以外でも、使えるものは採取しておきたいね						
+TalkEvent_21_016ID	8	Resna	レスナ	ジェロンさん。こちらに残ってくれて\nありがとうございます						
+TalkEvent_21_016ID	9	Geron	ジェロン	なんだ、いきなり？						
+TalkEvent_21_016ID	10	Resna	レスナ	その、きちんとお礼を言ってなかったなと思いまして						
+TalkEvent_21_016ID	11	Geron	ジェロン	ティムのためだ。それに恩は返すと約束したからな						
+TalkEvent_21_016ID	12	Resna	レスナ	ふふっ……はい						
+TalkEvent_21_017ID	0	Lara	ララ	レスナ。クリセルダが頂獣の力の他にも、何か\n別の手を持っているとしたら……どうします？						
+TalkEvent_21_017ID	1	Resna	レスナ	何か思い当たることでもあるんですか？						
+TalkEvent_21_017ID	2	Lara	ララ	いえ。具体的なことは何も。\nですが、クリセルダはそうした備えを行う人物ですわ						
+TalkEvent_21_017ID	3	Izana	イザナ	そのときはハンマーでぶっ飛ばしちゃうから！						
+TalkEvent_21_017ID	4	Resna	レスナ	あはは、イザナちゃんらしいね						
+TalkEvent_21_017ID	5	Izana	イザナ	予測できないことまで、\n今から悩んでたって仕方ないってこと！						
+TalkEvent_21_017ID	6	Lara	ララ	ふ、ふふふ……その勇気、さすがララ・キングダムの\n騎士ですわね						
+TalkEvent_21_017ID	7	Izana	イザナ	まーた言ってる						
+TalkEvent_21_017ID	8	Geron	ジェロン	こいつはただの冗談じゃなく、\nあわよくばと企んでいるぞ。気を付けたほうがいい						
+TalkEvent_21_017ID	9	Geron	ジェロン	お前たちのほうもな						
+TalkEvent_21_017ID	10	Rorona	ロロナ	えっ？						
+TalkEvent_21_017ID	11	Lara	ララ	あら。ロロナはララ・キングダムの\nパイ焼き錬金術士に内定していましてよ？						
+TalkEvent_21_017ID	12	Rorona	ロロナ	ええっ？　パイ焼き錬金術士かあ……\n悪くないかも						
+TalkEvent_21_017ID	13	Firis	フィリス	えーっ。いいなぁ！　わたしもなんか役職が欲しい！						
+TalkEvent_21_017ID	14	Lara	ララ	あら。キングダムの王国民になりたいのですか？						
+TalkEvent_21_017ID	15	Firis	フィリス	あ。えーと、王国民になりたいとか、そういうのじゃ\nなくてですね……						
+TalkEvent_21_017ID	16	Lara	ララ	残念ですわ。気持ちが変わったら、いつでも仰って\nくださいな						
+TalkEvent_21_017ID	17	Firis	フィリス	あはは……ララさん、すごい圧……						
+TalkEvent_21_017ID	18	Resna	レスナ	あの、ララさん。改めてになりますけど……						
+TalkEvent_21_017ID	19	Resna	レスナ	クリセルダさんの元に戻らず、残ってくださって\nありがとうございます						
+TalkEvent_21_017ID	20	Lara	ララ	わたくしは、自分の言ったことを守っているだけですわ						
+TalkEvent_21_017ID	21	Lara	ララ	わたくしはこれからも、\nあなたの行く末を見届けさせていただきます						
+TalkEvent_21_017ID	22	Resna	レスナ	はい！						
+TalkEvent_21_018ID	0	Geron	ジェロン	かなり奥のほうまで来たな						
+TalkEvent_21_018ID	1	Resna	レスナ	素材もあと少しで揃いますね						
+TalkEvent_21_018ID	2	Firis	フィリス	よーし！　レスナちゃん、\n残りも一気に採取しちゃおう！						
+TalkEvent_21_018ID	3	Izana	イザナ	ヴァレリアたちは「閉ざさずの門」の周りで\n魔物と戦ってるんだよね						
+TalkEvent_21_018ID	4	Izana	イザナ	アタシたちも頑張らなきゃね！						
+TalkEvent_21_018ID	5	Resna	レスナ	うん！						
+TalkEvent_21_018ID	6	Resna	レスナ	（ヴァレリアたち……大丈夫、だよね）						
+TalkEvent_21_019ID	0	Valeria	ヴァレリア	ハイディ、どうだった？						
+TalkEvent_21_019ID	1	Heidi	ハイディ	遺跡の入口付近までは行ってみたけど\nクリセルダの姿は見当たらなかったよ						
+TalkEvent_21_019ID	2	Heidi	ハイディ	もっと奥のほうにいるんだと思う						
+TalkEvent_21_019ID	3	Valeria	ヴァレリア	了解。気合を入れていきましょ！\nレスナの道を確保するわよ！						
+TalkEvent_21_019ID	4	Magda	マクダ	そこだぁぁっ！						
+TalkEvent_21_019ID	5	Lanze	ランツェ	でやぁぁぁっ！						
+TalkEvent_21_019ID	6	Marion	マリオン	リンカ！　こっちをお願い！						
+TalkEvent_21_019ID	7	Linca	リンカ	了解です！						
+TalkEvent_21_019ID	8	Plachta	プラフタ	数は多いですが、一体一体は大したことはありません。\n焦らず、各個撃破していきましょう						
+TalkEvent_21_019ID	9	Valeria	ヴァレリア	友達や仲間たちが頑張ってるのを見ると、\nいつもより気合が入るわね						
+TalkEvent_21_019ID	10	Heidi	ハイディ	だね！						
+TalkEvent_21_019ID	11	Valeria	ヴァレリア	マクダ！						
+TalkEvent_21_019ID	12	Heidi	ハイディ	なんか、いつも以上に気合入ってるじゃん						
+TalkEvent_21_019ID	13	Magda	マクダ	ああ……クリセルダの力に怯んじまった\n自分が許せねぇ。その分取り返さなきゃってな						
+TalkEvent_21_019ID	14	Magda	マクダ	ヴァレリア、合わせろ！						
+TalkEvent_21_019ID	15	Valeria	ヴァレリア	任せて！						
+TalkEvent_21_019ID	16	Magda	マクダ	いっけぇぇぇ！						
+TalkEvent_21_019ID	17	Valeria	ヴァレリア	やぁぁぁっ！						
+TalkEvent_21_020ID	0	Criselda	クリセルダ	じき、ここは戦場になる。\nあなたたちは下がりなさい						
+TalkEvent_21_020ID	1		信者	アメルハウザーのために						
+TalkEvent_21_020ID	2	Criselda	クリセルダ	ヴァレリアたちは、外の魔物を律儀に減らしている\nようね。ここまで来るにはまだ時間がかかりそう						
+TalkEvent_21_020ID	3	Criselda	クリセルダ	少し、猶予を長く取りすぎたかしら						
+TalkEvent_21_020ID	4	Criselda	クリセルダ	あら。あなたが一人目の挑戦者とはね						
+TalkEvent_21_020ID	5	Criselda	クリセルダ	ようこそ、ザスキア						
+TalkEvent_21_020ID	6	Saskia	ザスキア	やる気満々なところ悪いけど、今すぐ戦う気はないわ。\nあなたがどんな力を手にしたのか、見に来ただけ						
+TalkEvent_21_020ID	7	Criselda	クリセルダ	それは残念。私はいつでも歓迎なのだけど						
+TalkEvent_21_020ID	8	Saskia	ザスキア	……なるほど、ね						
+TalkEvent_21_020ID	9	Saskia	ザスキア	その時が来たら、また会いに来るわ						
+TalkEvent_21_020ID	10	Antje	アンチュ	……あいつ、何をしに来たのかしら						
+TalkEvent_21_020ID	11	Walther	ワルター	こちらの力を探りに来たのでしょうね						
+TalkEvent_21_020ID	12	Criselda	クリセルダ	一応、これも用意しておこうかしら						
+TalkEvent_21_020ID	13	Antje	アンチュ	それは何？						
+TalkEvent_21_020ID	14	Criselda	クリセルダ	念のための備えよ						
+TalkEvent_21_021ID	0	Resna	レスナ	……よし、これで準備は整ったはず						
+TalkEvent_21_021ID	1	Firis	フィリス	素材も全部揃ってるし……分量もバッチリだね！						
+TalkEvent_21_021ID	2	Saskia	ザスキア	調子はどう？						
+TalkEvent_21_021ID	3	Resna	レスナ	師匠、おかえりなさい！						
+TalkEvent_21_021ID	4	Resna	レスナ	ちょうど、今からクリセルダさんとの戦いに向けた\n道具を調合するところで……						
+TalkEvent_21_021ID	5	Saskia	ザスキア	そう。あの力、直に見てみると想像以上だったわ。\n十分、用心することね						
+TalkEvent_21_021ID	6	Firis	フィリス	直に……？						
+TalkEvent_21_021ID	7	Rorona	ロロナ	あはは、さっき見てきたみたいに言いますね						
+TalkEvent_21_021ID	8	Saskia	ザスキア	ええ、その通りよ。クリセルダの所に\nふらっと遊びに行ってきたの						
+TalkEvent_21_021ID	9	Rorona	ロロナ	ええっ！？						
+TalkEvent_21_021ID	10	Lara	ララ	なかなか大物ですわね、あなたの師匠は						
+TalkEvent_21_021ID	11	Resna	レスナ	あはは……まあこういう人なので						
+TalkEvent_21_021ID	12	Saskia	ザスキア	それじゃあ、せっかくだから\n私も調合を手伝おうかしら						
+TalkEvent_21_021ID	13	Resna	レスナ	えっ！　ありがとうございます、師匠！						
+TalkEvent_21_021ID	14	Saskia	ザスキア	いいのよ。それくらい、念入りに準備をしないと\nいけなさそうだから						
+TalkEvent_21_022ID	0	Roman	ロマン	ヴァレリア！　みんな！						
+TalkEvent_21_022ID	1	Valeria	ヴァレリア	ロマンじゃない！　何か動きがあったの？						
+TalkEvent_21_022ID	2	Roman	ロマン	ああ。レスナたちが準備していた道具がそろそろ\n完成するようだ						
+TalkEvent_21_022ID	3	Valeria	ヴァレリア	レスナ、頑張ったのね……						
+TalkEvent_21_022ID	4	Roman	ロマン	いよいよ、こちらもクリセルダとの戦いに向けて\n本格的に動き出す必要がある						
+TalkEvent_21_022ID	5	Valeria	ヴァレリア	それなら私は、クリセルダがいる遺跡の奥まで\n道を切り開くわ						
+TalkEvent_21_022ID	6	Brad	ブラッド	我々も同行したいところだが……\n周囲の魔物も放っておくわけにはいかないか						
+TalkEvent_21_022ID	7	Brad	ブラッド	クリセルダを倒せば、魔物への支配は解けるだろうが、\nこの数が一度に自由になるのも問題がある						
+TalkEvent_21_022ID	8	Roman	ロマン	そうだね。騎士団も動員して、引き続き周囲の魔物\nへの対処にも当たろう。ユナ、指揮は任せたよ						
+TalkEvent_21_022ID	9	Juna	ユナ	承知しました						
+TalkEvent_21_022ID	10	Juna	ユナ	今より陣を展開し、この地の魔物討伐を行う！						
+TalkEvent_21_022ID	11		騎士たち	はっ！						
+TalkEvent_21_022ID	12	Empel	アンペル	ならば私も、そちらに手を貸すことにしよう						
+TalkEvent_21_022ID	13	Roman	ロマン	クリセルダのほうは任せたよ、ヴァレリア						
+TalkEvent_21_022ID	14	Valeria	ヴァレリア	ええ！						
+TalkEvent_21_022ID	15	Valeria	ヴァレリア	じゃあ……このまま遺跡の奥を目指すわよ。いい？						
+TalkEvent_21_022ID	16	Heidi	ハイディ	いよいよかあ……う～、怖くなってきたあ……						
+TalkEvent_21_022ID	17	Magda	マクダ	へへ。王都の隅っこでくすぶってた奴らが、\n随分な大役を任されたもんだな						
+TalkEvent_21_022ID	18	Lanze	ランツェ	いや、天使ちゃんとアーシャは違ぇだろ。\n一緒にすんな						
+TalkEvent_21_022ID	19	Flocke	フロッケ	でも、大事な仲間なのは一緒ですよ！						
+TalkEvent_21_022ID	20	Ayesha	アーシャ	手当てなら任せてくださいね						
+TalkEvent_21_022ID	21	Valeria	ヴァレリア	じゃあ、行きましょ！						
+TalkEvent_21_023ID	0	Valeria	ヴァレリア	……ん！						
+TalkEvent_21_023ID	1	Heidi	ハイディ	ん？　どした、相棒？						
+TalkEvent_21_023ID	2	Magda	マクダ	敵の気配か！？						
+TalkEvent_21_023ID	3	Valeria	ヴァレリア	いや、お腹空いちゃったなぁと思って						
+TalkEvent_21_023ID	4	Lanze	ランツェ	またそれかよ						
+TalkEvent_21_023ID	5	Heidi	ハイディ	しょうがないなぁ……はい、これでも食べて						
+TalkEvent_21_023ID	6	Valeria	ヴァレリア	ありがと！　むぐむぐ……						
+TalkEvent_21_023ID	7	Ayesha	アーシャ	ふふっ、ヴァレリアさんは変わらないなぁ……						
+TalkEvent_21_023ID	8	Ayesha	アーシャ	こっちのほうは、人通りが少ないなあ。\nこの建物、何だろう……						
+TalkEvent_21_023ID	9	Crow	鴉	そこのお前。立ち止まれ						
+TalkEvent_21_023ID	10	Ayesha	アーシャ	はいっ！？						
+TalkEvent_21_023ID	11	Crow	鴉	見ない顔だな						
+TalkEvent_21_023ID	12	Ayesha	アーシャ	え、えーと。\nこの街には初めて来たんですけど……						
+TalkEvent_21_023ID	13	Crow	鴉	旅人か。\nこの建物には近づくな。命が惜しければな						
+TalkEvent_21_023ID	14	Ayesha	アーシャ	わ、分かりました。\nごめんなさい、失礼しますね						
+TalkEvent_21_023ID	15	Heidi	ハイディ	ねえ、あんた！						
+TalkEvent_21_023ID	16	Ayesha	アーシャ	…………？						
+TalkEvent_21_023ID	17	Valeria	ヴァレリア	じゃあアーシャは、どっか遠くの世界から来たのね						
+TalkEvent_21_023ID	18	Heidi	ハイディ	心細いよね。分かんないことがあったら、私たちに\nなんでも聞いてよ！						
+TalkEvent_21_023ID	19	Ayesha	アーシャ	ありがとうございます。\nヴァレリアさん、ハイディさん！						
+TalkEvent_21_023ID	20	Valeria	ヴァレリア	ところでアーシャ、お腹空かない？\nちなみに私はそろそろ限界……						
+TalkEvent_21_023ID	21	Heidi	ハイディ	またぁ？　しょうがないなあ……						
+TalkEvent_21_023ID	22	Valeria	ヴァレリア	だって空くもんは空くんだもん						
+TalkEvent_21_023ID	23	Ayesha	アーシャ	思い返すと、ヴァレリアさんって\nいつもお腹を空かせてる気がするかも……						
+TalkEvent_21_023ID	24	Valeria	ヴァレリア	ふふん。ブレないことが私の魅力なのよ！						
+TalkEvent_21_023ID	25	Heidi	ハイディ	いや、なんで得意げなのさ						
+TalkEvent_21_023ID	26	Ayesha	アーシャ	でも、実際そうだと思いますよ。\nなんだか、見ているとホッとします						
+TalkEvent_21_023ID	27	Lanze	ランツェ	違ぇねぇな						
+TalkEvent_21_023ID	28	Magda	マクダ	よっしゃ！　どんどん進もうぜ！						
+TalkEvent_21_024ID	0	Flocke	フロッケ	っ！　魔物が！						
+TalkEvent_21_024ID	1	Lanze	ランツェ	天使ちゃん！　俺の後ろに回れ！						
+TalkEvent_21_024ID	2	Valeria	ヴァレリア	囲まれたみたいね						
+TalkEvent_21_024ID	3	Heidi	ハイディ	遺跡の中にまだこんな数がいたなんて……！						
+TalkEvent_21_024ID	4	Magda	マクダ	ちっ、歯ごたえありそうじゃねぇか						
+TalkEvent_21_024ID	5	Valeria	ヴァレリア	でも、倒すしかないでしょ						
+TalkEvent_21_024ID	6	Magda	マクダ	これだけの魔物を操ってるんだ。クリセルダ本人は\n結構、消耗してるんじゃねぇか						
+TalkEvent_21_024ID	7	Lanze	ランツェ	にしたって、この数は厄介だぜ――						
+TalkEvent_21_024ID	8	???	？？？	ちょっとそこどいてー！						
+TalkEvent_21_024ID	9	Magda	マクダ	何だ！？						
+TalkEvent_21_024ID	10	Valeria	ヴァレリア	その声は……！						
+TalkEvent_21_024ID	11	???	？？？	そりゃーっ！						
+TalkEvent_21_024ID	12	Valeria	ヴァレリア	っ……！						
+TalkEvent_21_024ID	13	Judie	ユーディー	みんな、お待たせ！						
+TalkEvent_21_024ID	14	Ayesha	アーシャ	皆さん！						
+TalkEvent_21_024ID	15	Rorona	ロロナ	加勢しに来ました！						
+TalkEvent_21_024ID	16	Ryza	ライザ	こいつらはあたしたちが食い止めるよ！						
+TalkEvent_21_024ID	17	Sophie	ソフィー	レスナちゃんたちもすぐ追いつくはずなので、\nここは、あたしたちに任せて先に行ってください！						
+TalkEvent_21_024ID	18	Valeria	ヴァレリア	……分かった。ありがとう、みんな！						
+TalkEvent_21_024ID	19	Ayesha	アーシャ	ヴァレリアさん。わたしもここに残ります。\nあとはお願いします！						
+TalkEvent_21_024ID	20	Valeria	ヴァレリア	うん。みんなも気を付けて！						
+TalkEvent_21_024ID	21	Sophie	ソフィー	それじゃあ派手に行きますか！						
+TalkEvent_21_024ID	22	Keithgrif	キースグリフ	……ここか						
+TalkEvent_21_025ID	0	Magda	マクダ	チッ、またか！　本気で国そのものとケンカする気だな						
+TalkEvent_21_025ID	1	Heidi	ハイディ	あともう一息なのに！						
+TalkEvent_21_025ID	2	Valeria	ヴァレリア	強引に突破しても、追撃されてはさみ撃ちにされる。\nここは、やるしかないわ！						
+TalkEvent_21_025ID	3	Lanze	ランツェ	ようし、ここは俺に任せな。お前は\nクリセルダに聞きたいことがあるんだろう						
+TalkEvent_21_025ID	4	Magda	マクダ	ああ！　お前らは先に行け！\n燃えてきたぜ、マクダ様が全部ぶっ倒してやる						
+TalkEvent_21_025ID	5	Flocke	フロッケ	フロッケも、ここに残ってお二人の手助けをします！						
+TalkEvent_21_025ID	6	Heidi	ハイディ	分かった。ケガしないでよね！						
+TalkEvent_21_025ID	7	Valeria	ヴァレリア	ありがとう！						
+TalkEvent_21_025ID	8	Magda	マクダ	おーし。大ゲンカだ。やるぜ、おっさん、フロッケ！						
+TalkEvent_21_025ID	9	Lanze	ランツェ	お前までおっさんって言うな！						
+TalkEvent_21_025ID	10	Flocke	フロッケ	フロッケ、頑張ります！						
+TalkEvent_21_025ID	11		マクダ/ランツェ	だぁぁぁぁっ！						
+TalkEvent_21_026ID	0	Izana	イザナ	わーっ！　まだ魔物があんなに！						
+TalkEvent_21_026ID	1	Resna	レスナ	ロマンさん！\nクリセルダさんの力に対抗する道具、完成しました！						
+TalkEvent_21_026ID	2	Roman	ロマン	おぉ！　君なら成し遂げると思っていたよ、レスナ！						
+TalkEvent_21_026ID	3	Resna	レスナ	皆さんの力あってこそです。\nそれで、こちらの状況は……						
+TalkEvent_21_026ID	4	Roman	ロマン	なんとか、遺跡への道は切り開くことができた。\nヴァレリアたちが先に遺跡の中へ向かったよ						
+TalkEvent_21_026ID	5	Izana	イザナ	じゃあ、アタシたちも追いかけよう！						
+TalkEvent_21_026ID	6	Resna	レスナ	うんっ！						
+TalkEvent_21_026ID	7	Roman	ロマン	頼んだよ、レスナ！						
+TalkEvent_21_026ID	8	Resna	レスナ	レスナ・シュテルネンリヒト！　いきます！　						
+TalkEvent_21_026ID	9	Roman	ロマン	さて、私たちももうひと踏ん張りだ						
+TalkEvent_21_026ID	10	Juna	ユナ	皆！　最後まで気を抜くな！						
+TalkEvent_21_026ID	11	Brad	ブラッド	彼女たちだけで大丈夫だろうか						
+TalkEvent_21_026ID	12	Marion	マリオン	大丈夫よ。あの子たちなら						
+TalkEvent_21_026ID	13	Plachta	プラフタ	ソフィーや他の錬金術士たちも増援に向かっています						
+TalkEvent_21_026ID	14	Empel	アンペル	私の教え子も中で戦っているはずだ。\nなぁに、心配はいらんさ						
+TalkEvent_21_026ID	15	Ryza	ライザ	やぁぁぁっ！						
+TalkEvent_21_026ID	16	Ryza	ライザ	あっ、外した！						
+TalkEvent_21_026ID	17	Keithgrif	キースグリフ	……フン、他愛もない						
+TalkEvent_21_026ID	18	Ayesha	アーシャ	キースさん！						
+TalkEvent_21_026ID	19	Judie	ユーディー	もしかして、手伝いに来てくれたの！？						
+TalkEvent_21_026ID	20	Keithgrif	キースグリフ	ただの見物のつもりだったが……君たちがあまりに\nのんびりしすぎているのでな						
+TalkEvent_21_026ID	21	Judie	ユーディー	もう、いちいち嫌味なんだから						
+TalkEvent_21_026ID	22	Ayesha	アーシャ	ふふっ、キースさん、お久しぶりです						
+TalkEvent_21_026ID	23	Keithgrif	キースグリフ	ああ。こうして共に戦うのはいつぶりだったか						
+TalkEvent_21_026ID	24	Ayesha	アーシャ	何度もお誘いしようと思っていたんですけど……\nいつも捕まらないんですから						
+TalkEvent_21_026ID	25	Keithgrif	キースグリフ	オレは自分自身の目的のために旅をしている。\nたまたま君と行き先が重ならなかっただけだろう						
+TalkEvent_21_026ID	26	Ayesha	アーシャ	ようやく重なりましたね						
+TalkEvent_21_026ID	27	Keithgrif	キースグリフ	……ふん						
+TalkEvent_21_026ID	28	Keithgrif	キースグリフ	おしゃべりは終わりだ。\nじきに後続もやってくる。さっさと片付けるぞ						
+TalkEvent_21_026ID	29	Ayesha	アーシャ	はいっ！						
+TalkEvent_21_027ID	0	Criselda	クリセルダ	ようやく来たわね。待っていたわよ						
+TalkEvent_21_027ID	1	Antje	アンチュ	また大勢ぞろぞろと……						
+TalkEvent_21_027ID	2	Geron	ジェロン	崖下には鋭い岩が連なっているようだな。\n戦闘中落ちるなよ						
+TalkEvent_21_027ID	3	Lara	ララ	気を付けるとしましょう						
+TalkEvent_21_027ID	4	Resna	レスナ	クリセルダさん。あなたの依頼を受けて来ました						
+TalkEvent_21_027ID	5	Criselda	クリセルダ	ええ。望んだ力を手に入れた以上、もう逃げる必要は\nないわ。ここなら気兼ねする必要もない						
+TalkEvent_21_027ID	6	Criselda	クリセルダ	どちらかが倒れるまで、徹底的にやりましょう						
+TalkEvent_21_027ID	7	Valeria	ヴァレリア	私、クリセルダのことは個人的に嫌いじゃなかったけど\n正気を失っていた私を利用したことは許せない						
+TalkEvent_21_027ID	8	Heidi	ハイディ	相棒の敵は私の敵だよ						
+TalkEvent_21_027ID	9	Criselda	クリセルダ	あら、私もヴァレリアのことは好きよ						
+TalkEvent_21_027ID	10	Resna	レスナ	これ以上、好きにはさせません。\nあなたを止めてみせます						
+TalkEvent_21_027ID	11	Criselda	クリセルダ	その覚悟、好ましいわ						
+TalkEvent_21_027ID	12	Antje	アンチュ	私も、やる						
+TalkEvent_21_027ID	13	Antje	アンチュ	私はずっと一緒。そう約束したから……						
+TalkEvent_21_027ID	14	Criselda	クリセルダ	そうね、アンチュ						
+TalkEvent_21_027ID	15	Resna	レスナ	アンチュちゃん……						
+TalkEvent_21_027ID	16	Johanna	ヨハナ	まあ……誰かの隣にいたいっていう気持ちは、\n分からなくはないけど						
+TalkEvent_21_027ID	17	Izana	イザナ	敵ながら、ね						
+TalkEvent_21_027ID	18	Criselda	クリセルダ	ワルター						
+TalkEvent_21_027ID	19	Walther	ワルター	はぁ……仕方ありませんか						
+TalkEvent_21_027ID	20	Walther	ワルター	錬金術士同士の戦いを見学したかったのですが、\nそうも言っていられないようですから						
+TalkEvent_21_027ID	21	Geron	ジェロン	お前がそれほどクリセルダに尽くすとは意外だな						
+TalkEvent_21_027ID	22	Walther	ワルター	後輩の義理、というものです。\nそしてやるからには、とことんやりますよ						
+TalkEvent_21_027ID	23	Lara	ララ	来ますわよ！						
+TalkEvent_21_028_00ID	0	Resna	レスナ	はあ……はあ……						
+TalkEvent_21_028_00ID	1	Valeria	ヴァレリア	いい加減、大人しくしなさい……！						
+TalkEvent_21_028_00ID	2	Criselda	クリセルダ	ふふっ、さすがね						
+TalkEvent_21_028_00ID	3	Criselda	クリセルダ	温存しておきたかったけれど……！						
+TalkEvent_21_028_00ID	4	Resna	レスナ	ぐぅっ……！						
+TalkEvent_21_028_00ID	5	Valeria	ヴァレリア	くっ……！						
+TalkEvent_21_028_00ID	6	Criselda	クリセルダ	ふっ						
+TalkEvent_21_028_00ID	7	Valeria	ヴァレリア	があっ！						
+TalkEvent_21_028_00ID	8	Geron	ジェロン	はああっ！！						
+TalkEvent_21_028_00ID	9	Geron	ジェロン	く……！						
+TalkEvent_21_028_00ID	10	Lara	ララ	ふっ――						
+TalkEvent_21_028_00ID	11	Lara	ララ	くっ……						
+TalkEvent_21_028_00ID	12	Valeria	ヴァレリア	く、はあ……						
+TalkEvent_21_028_00ID	13	Criselda	クリセルダ	！？						
+TalkEvent_21_028_00ID	14	Resna	レスナ	はあ、はあ……						
+TalkEvent_21_028_00ID	15	Criselda	クリセルダ	――――！						
+TalkEvent_21_028_00ID	16	Criselda	クリセルダ	なるほど。これくらいは対策済みというわけね						
+TalkEvent_21_028_00ID	17	Valeria	ヴァレリア	そういうこと！						
+TalkEvent_21_028_00ID	18	Valeria	ヴァレリア	やぁぁぁぁっ！						
+TalkEvent_21_028_00ID	19	Criselda	クリセルダ	でも――						
+TalkEvent_21_028_00ID	20	Criselda	クリセルダ	……はあああっ！						
+TalkEvent_21_028_00ID	21	Valeria	ヴァレリア	ぐっ……！						
+TalkEvent_21_028_00ID	22	Resna	レスナ	ヴァレリア！						
+TalkEvent_21_028_00ID	23	Valeria	ヴァレリア	はあ……はあ……						
+TalkEvent_21_028_00ID	24	Resna	レスナ	そんな……						
+TalkEvent_21_028_00ID	25	Criselda	クリセルダ	それで完全に抑えられるほど、私はぬるくない						
+TalkEvent_21_028_00ID	26	Valeria	ヴァレリア	くっ……						
+TalkEvent_21_028_00ID	27	Resna	レスナ	ヴァレリア、大丈夫っ！？						
+TalkEvent_21_028_00ID	28	Valeria	ヴァレリア	心配ないわ。この間受けたのよりぜんぜん平気						
+TalkEvent_21_028_00ID	29	Valeria	ヴァレリア	まだ、戦える						
+TalkEvent_21_028_01ID	0	Criselda	クリセルダ	さあ、本番はこれからよ						
+TalkEvent_21_028_01ID	1	Valeria	ヴァレリア	くっ……なんて力						
+TalkEvent_21_028_01ID	2	Resna	レスナ	クリセルダさん						
+TalkEvent_21_028_01ID	3	Resna	レスナ	あなたは、なぜそこまで大きな力を求めるんですか？						
+TalkEvent_21_028_01ID	4	Criselda	クリセルダ	何度でも言うわ、己の渇望のためよ						
+TalkEvent_21_028_01ID	5	Resna	レスナ	それは、街を焼き、人々を傷つけ……						
+TalkEvent_21_028_01ID	6	Resna	レスナ	平和や秩序を乱してまでやることなんですか？						
+TalkEvent_21_028_01ID	7	Criselda	クリセルダ	ええ、そうよ						
+TalkEvent_21_028_01ID	8	Criselda	クリセルダ	私は、自分の中にある渇望に従うだけ。\n必要であれば、やる！						
+TalkEvent_21_028_01ID	9	Resna	レスナ	あなたの渇望は、やっぱり\nアメルハウザーの一族に関係することなんですか？						
+TalkEvent_21_028_01ID	10	Criselda	クリセルダ	私のこと、調べてきてくれたのね						
+TalkEvent_21_028_01ID	11	Criselda	クリセルダ	でも、そうね。ことの始まりは、\nランターナ王国設立の前にさかのぼる						
+TalkEvent_21_028_01ID	12	Criselda	クリセルダ	この国の成り立ちや歴史には違和感がいくつもある。\nそうは思わないかしら？						
+TalkEvent_21_028_01ID	13	Resna	レスナ	なんらかの陰謀があった……ということですか？						
+TalkEvent_21_028_01ID	14	Criselda	クリセルダ	ふふ						
+TalkEvent_21_028_01ID	15	Criselda	クリセルダ	ランターナ王国は平和的に設立したというけれど、\nあり得ない。国というのは争いの果てに生まれるもの						
+TalkEvent_21_028_01ID	16	Criselda	クリセルダ	マナが枯渇したから錬金術の使用を取りやめる？\n限られた資源をめぐる争いがなぜ起こらない？						
+TalkEvent_21_028_01ID	17	Criselda	クリセルダ	そこには何者かの力が働いている。そして……\nアメルハウザーの者たちもまた、その犠牲となった						
+TalkEvent_21_028_01ID	18	Criselda	クリセルダ	私はそれが気に食わない。誰かに用意された\n予定調和の平穏に、なんの価値があるというの？						
+TalkEvent_21_028_01ID	19	Criselda	クリセルダ	私は、自分の手でこの世界を「解放」する。\nそのために錬金術を究めてきたのだから						
+TalkEvent_21_028_01ID	20	Resna	レスナ	……でも。だからと言って、\n今の平和を脅かしていい理由になんてなりません						
+TalkEvent_21_028_01ID	21	Resna	レスナ	ましてや、錬金術でそんなことをするなんて……\n絶対に許せない！						
+TalkEvent_21_028_01ID	22	Criselda	クリセルダ	あなたも、己の渇望のために錬金術を使っている						
+TalkEvent_21_028_01ID	23	Criselda	クリセルダ	それは同じでしょう？						
+TalkEvent_21_028_01ID	24	Resna	レスナ	違う！！						
+TalkEvent_21_028_01ID	25	Resna	レスナ	私の錬金術は、そんなんじゃない						
+TalkEvent_21_028_02ID	0	Resna	レスナ	錬金術は、みんなを幸せにするためのものなんだ						
+TalkEvent_21_028_02ID	1	Lara	ララ	……あなたは、初めて会った時から変わりませんわね						
+TalkEvent_21_028_02ID	2	Lara	ララ	あの時から、こうして戦うことが						
+TalkEvent_21_028_02ID	3	Lara	ララ	運命づけられていたのでしょう						
+TalkEvent_21_028_02ID	4	Resna	レスナ	クリセルダ・アメルハウザー						
+TalkEvent_21_028_02ID	5	Resna	レスナ	あなたを止めます。同じ錬金術士として						
+TalkEvent_21_028_02ID	6	Criselda	クリセルダ	ふふ……						
+TalkEvent_21_028_02ID	7	Criselda	クリセルダ	錬金術はみんなを幸せにするためのもの						
+TalkEvent_21_028_02ID	8	Criselda	クリセルダ	それがあなたの渇望						
+TalkEvent_21_028_02ID	9	Criselda	クリセルダ	あなたの渇望と、私の渇望、そのどちらがより強いか？						
+TalkEvent_21_028_02ID	10	Criselda	クリセルダ	この戦いの決着が、その証明となる						
+TalkEvent_21_028_02ID	11	Criselda	クリセルダ	――受けて立ちましょう						
+TalkEvent_21_028_02ID	12		ふたり	「己のために！」「皆のために！」						
+TalkEvent_21_029ID	0	Resna	レスナ	はぁっ……はぁっ……						
+TalkEvent_21_029ID	1	Valeria	ヴァレリア	やった……わね……レスナ						
+TalkEvent_21_029ID	2	Criselda	クリセルダ	私が……負けた……叡智の結晶が……						
+TalkEvent_21_029ID	3	Resna	レスナ	クリセルダさんの力は……凄まじかったです。\nでも……誤った使い方をしました						
+TalkEvent_21_029ID	4	Criselda	クリセルダ	そう……ふふっ						
+TalkEvent_21_029ID	5	Criselda	クリセルダ	ああ……						
+TalkEvent_21_029ID	6	Izana	イザナ	やった……本当に勝ったんだ……！						
+TalkEvent_21_029ID	7	Heidi	ハイディ	やったね……相棒……！						
+TalkEvent_21_029ID	8	Johanna	ヨハナ	天才の私がいたんだから……当然よ……！						
+TalkEvent_21_029ID	9	Lara	ララ	これで外で戦っている者たちも、楽になるはずですわね						
+TalkEvent_21_029ID	10	Geron	ジェロン	王国すべてを敵に回して、よく戦ったものだ						
+TalkEvent_21_029ID	11	Brad	ブラッド	っ！　これは……						
+TalkEvent_21_029ID	12	Juna	ユナ	魔物の動きが乱れ始めた……？						
+TalkEvent_21_029ID	13	Plachta	プラフタ	この場を支配していた力の流れが消えています						
+TalkEvent_21_029ID	14	Marion	マリオン	レスナたちね！						
+TalkEvent_21_029ID	15	Roman	ロマン	やってくれたか、同志！						
+TalkEvent_21_029ID	16	Empel	アンペル	まだ喜ぶのは早いぞ。頭を失ったとはいえ、\nこの魔物たちを放っておくわけにはいかん						
+TalkEvent_21_029ID	17	Roman	ロマン	ユナ、掃討戦だ						
+TalkEvent_21_029ID	18	Juna	ユナ	はい、ここはお任せください						
+TalkEvent_21_029ID	19	Juna	ユナ	総員！　錬金党の首魁は倒れた！\n魔物の残党を掃討するぞ！						
+TalkEvent_21_029ID	20		騎士たち	おおおおおおっ！						
+TalkEvent_21_029ID	21	Roman	ロマン	私も、もう一働きと行こうか！						
+TalkEvent_21_029ID	22	Marion	マリオン	待って						
+TalkEvent_21_029ID	23	Marion	マリオン	あなたはレスナたちを迎えにいきなさい。\nそして、ちゃんと労ってあげて						
+TalkEvent_21_029ID	24	Roman	ロマン	だが、私がここを離れるわけには……						
+TalkEvent_21_029ID	25	Marion	マリオン	大事な同志なんでしょ。あなたが行かなくて\nどうするの。ユナも任せて、と言っていたでしょう						
+TalkEvent_21_029ID	26	Roman	ロマン	……そうだな。ははっ、君にはかなわないよ						
+TalkEvent_21_029ID	27	Roman	ロマン	そうだ、私からも君に１つ頼みがある						
+TalkEvent_21_029ID	28	Marion	マリオン	何かしら？						
+TalkEvent_21_029ID	29	Roman	ロマン	一足先に王都に戻り、この戦いの結末を伝えてほしい						
+TalkEvent_21_029ID	30	Roman	ロマン	少しでも早く、民を安心させたいんだ						
+TalkEvent_21_029ID	31	Marion	マリオン	ええ、分かったわ						
+TalkEvent_21_029ID	32	Roman	ロマン	じゃあ、また後で！						
+TalkEvent_21_030ID	0	Roman	ロマン	みんな！						
+TalkEvent_21_030ID	1	Resna	レスナ	ロマンさん！　ご無事で何よりです！						
+TalkEvent_21_030ID	2	Roman	ロマン	あぁ、外の皆も無事さ。\n……終わったんだね						
+TalkEvent_21_030ID	3	Resna	レスナ	はい。皆さんの力があったからこそです						
+TalkEvent_21_030ID	4	Roman	ロマン	よくやってくれた。\nおかげで、王国の平和は守られたよ						
+TalkEvent_21_030ID	5	Roman	ロマン	――さて						
+TalkEvent_21_030ID	6	Roman	ロマン	クリセルダ。君の依頼は達成された						
+TalkEvent_21_030ID	7	Roman	ロマン	君が敗北を認め、条件通り知識と技術を提供し、\n錬金術の復興に協力するならば						
+TalkEvent_21_030ID	8	Roman	ロマン	君の事情次第では、共に歩める道があると\n私は考えている						
+TalkEvent_21_030ID	9	Criselda	クリセルダ	これだけのことをした人間に、随分甘いのね						
+TalkEvent_21_030ID	10	Resna	レスナ	言ったはずです。\n錬金術は、みんなを幸せにするための力だって						
+TalkEvent_21_030ID	11	Resna	レスナ	私は、できることなら……\nあなたにも幸せになってほしい						
+TalkEvent_21_030ID	12	Criselda	クリセルダ	…………						
+TalkEvent_21_030ID	13	Lara	ララ	受け入れたほうが楽ですわよ。\n彼女はこういう人間なのです						
+TalkEvent_21_030ID	14	Criselda	クリセルダ	そう……ふふっ						
+TalkEvent_21_030ID	15	Criselda	クリセルダ	あなたも、結構な人たらしね						
+TalkEvent_21_030ID	16	Resna	レスナ	え、え……？						
+TalkEvent_21_030ID	17	Criselda	クリセルダ	認めましょう。あなたたちの勝ちよ						
+TalkEvent_21_030ID	18	Valeria	ヴァレリア	意外ね。絶対負けを認めないと思ってたわ						
+TalkEvent_21_030ID	19	Criselda	クリセルダ	渾身の力作が砕かれたのよ。どう見ても負けだわ						
+TalkEvent_21_030ID	20	Criselda	クリセルダ	私の渇望は、ともすれば国を滅ぼしかねないもの……						
+TalkEvent_21_030ID	21	Criselda	クリセルダ	でも、私を打ち破ったあなたなら、\n違う解決方法も見つけられるかもしれない						
+TalkEvent_21_030ID	22	Roman	ロマン	解決……？						
+TalkEvent_21_030ID	23	Resna	レスナ	聞かせてください。あなたの渇望とはなんなのか……\nいったい、何を望んでここまでのことをしたのか						
+TalkEvent_21_030ID	24	Criselda	クリセルダ	ええ。ただ、その前に１つ確認をさせて						
+TalkEvent_21_030ID	25	Criselda	クリセルダ	これを話すことで、あなたたちも否応なく\n巻き込まれる。知ってしまうのだから						
+TalkEvent_21_030ID	26	Valeria	ヴァレリア	巻き込まれる？						
+TalkEvent_21_030ID	27	Criselda	クリセルダ	それでも聞く覚悟はある？						
+TalkEvent_21_030ID	28	Johanna	ヨハナ	はぁ……この期に及んで勿体つけるなら、拷問\nしてあげてもいいけど？						
+TalkEvent_21_030ID	29	Criselda	クリセルダ	勿体をつけてるわけじゃないのだけどね						
+TalkEvent_21_030ID	30	Resna	レスナ	どんな内容でも、受け入れる覚悟はできています						
+TalkEvent_21_030ID	31	Criselda	クリセルダ	分かったわ。依頼の報酬として\n話しましょう。私のすべてを――						
+TalkEvent_21_031ID	0	Resna	レスナ	聞かせてください。あなたの渇望とはなんなのか……\nいったい、何を望んでここまでのことをしたのか						
+TalkEvent_21_031ID	1	Criselda	クリセルダ	ええ。ただ、その前に１つ確認をさせて						
+TalkEvent_21_031ID	2	Criselda	クリセルダ	これを話すことで、あなたたちも否応なく\n巻き込まれる。知ってしまうのだから						
+TalkEvent_21_031ID	3	Valeria	ヴァレリア	巻き込まれる？						
+TalkEvent_21_031ID	4	Criselda	クリセルダ	それでも聞く覚悟はある？						
+TalkEvent_21_031ID	5	Johanna	ヨハナ	はぁ……この期に及んで勿体つけるなら、拷問\nしてあげてもいいけど？						
+TalkEvent_21_031ID	6	Criselda	クリセルダ	勿体をつけてるわけじゃないのだけどね						
+TalkEvent_21_031ID	7	Resna	レスナ	どんな内容でも、受け入れる覚悟はできています						
+TalkEvent_21_031ID	8	Criselda	クリセルダ	分かったわ。依頼の報酬として\n話しましょう。私のすべてを――						
+TalkEvent_21_031ID	9	Resna	レスナ	っ！？						
+TalkEvent_21_031ID	10	Roman	ロマン	なんだ！？						
+TalkEvent_21_031ID	11	Johanna	ヨハナ	な！　何よあれ！？						
+TalkEvent_21_031ID	12	Heidi	ハイディ	ま、まだ音が続いてる！						
+TalkEvent_21_031ID	13	Izana	イザナ	レスナちゃん！　あれ見て！						
+TalkEvent_21_031ID	14	Criselda	クリセルダ	こうも手が早いとは……\nずっと様子をうかがっていたってわけね						
+TalkEvent_21_031ID	15	Johanna	ヨハナ	これもあんたが仕込んでたの！？						
+TalkEvent_21_031ID	16	Criselda	クリセルダ	いいえ、違う。これは――						
+TalkEvent_21_031ID	17	Izana	イザナ	やぁぁぁっ！						
+TalkEvent_21_031ID	18	Izana	イザナ	……ダメだ。力が出ない！						
+TalkEvent_21_031ID	19	Heidi	ハイディ	全力で戦った後なんだ！　仕方ないよ……！						
+TalkEvent_21_031ID	20	Geron	ジェロン	撤退するぞ！！						
+TalkEvent_21_031ID	21	Heidi	ハイディ	そうだね！　このままじゃまずい！						
+TalkEvent_21_031ID	22	Valeria	ヴァレリア	分かった……う……っ！						
+TalkEvent_21_031ID	23	Resna	レスナ	ヴァレリア！　どうしたの！？						
+TalkEvent_21_031ID	24	Criselda	クリセルダ	離れなさい！						
+TalkEvent_21_031ID	25	Resna	レスナ	え――						
+TalkEvent_21_031ID	26	Izana	イザナ	レスナちゃん！						
+TalkEvent_21_031ID	27	Izana	イザナ	――きゃあっ！						
+TalkEvent_21_031ID	28	Heidi	ハイディ	相棒！　どうしちゃったんだよ！\nヴァレリアっ！						
+TalkEvent_21_031ID	29	Heidi	ハイディ	うっ！						
+TalkEvent_21_031ID	30	Geron	ジェロン	くっ、何者だ、貴様ら……						
+TalkEvent_21_032ID	0	Saskia	ザスキア	約束通り、会いに来たわよ～						
+TalkEvent_21_032ID	1	Criselda	クリセルダ	ふ……ふふふ						
+TalkEvent_21_032ID	2	Saskia	ザスキア	楽しそうね？						
+TalkEvent_21_032ID	3	Criselda	クリセルダ	ようやくその正体を現してくれたのかと思って。\n長らく、追っていたわけだからね						
+TalkEvent_21_032ID	4	Saskia	ザスキア	ま、最後ぐらいはね。敬意を表して						
+TalkEvent_21_032ID	5	???	？？？	よくやったな、ナナ						
+TalkEvent_21_032ID	6	Criselda	クリセルダ	ナナ……そうか、それが目覚める前の彼女の名前						
+TalkEvent_21_032ID	7	Saskia	ザスキア	さて。クリセルダ・アメルハウザー						
+TalkEvent_21_032ID	8	Saskia	ザスキア	頂獣を超える力を取り込む道具の調合。\nそれを成し遂げた知恵と技術は素晴らしいわ						
+TalkEvent_21_032ID	9	Saskia	ザスキア	錬金釜の開発といい、独学でよくぞ\nそこまでたどり着きました。拍手！						
+TalkEvent_21_032ID	10	Saskia	ザスキア	でも、やりすぎてしまったわね						
+TalkEvent_21_032ID	11	???	？？？	人の領分を遥かに超えた行いを看過することはできん。\nお前をこの世界より、排除する						
+TalkEvent_21_032ID	12	Criselda	クリセルダ	排除？　私の先祖にしたように？						
+TalkEvent_21_032ID	13	???	？？？	その通りだ						
+TalkEvent_21_032ID	14	Criselda	クリセルダ	…………						
+TalkEvent_21_032ID	15	Criselda	クリセルダ	そういえば、あなたは？　名前くらい教えてくれる？						
+TalkEvent_21_032ID	16	August	アウグスト	私の名はアウグスト						
+TalkEvent_21_032ID	17	Criselda	クリセルダ	そう。覚えておくわ						
+TalkEvent_21_032ID	18	August	アウグスト	では最期の言葉を選ぶといい。記憶しておいてやろう						
+TalkEvent_21_032ID	19	Criselda	クリセルダ	私の最期は私が決めるわ						
+TalkEvent_21_032ID	20	August	アウグスト	ほう……						
+TalkEvent_21_032ID	21	Criselda	クリセルダ	はあああああっ！						
+TalkEvent_21_032ID	22	Criselda	クリセルダ	ふふっ						
+TalkEvent_21_032ID	23	August	アウグスト	ち……						
+TalkEvent_21_032ID	24	Criselda	クリセルダ	みんな、少しだけ起きてちょうだい						
+TalkEvent_21_032ID	25	Resna	レスナ	う……ん……						
+TalkEvent_21_032ID	26	Criselda	クリセルダ	試作品ではここまでか……でも緊急時の保険には\n役に立ったわね						
+TalkEvent_21_032ID	27	Criselda	クリセルダ	あなたたちの姿を、\nみんなの前にさらすことができたのだから						
+TalkEvent_21_032ID	28	Saskia	ザスキア	なんとまぁ……						
+TalkEvent_21_032ID	29	Resna	レスナ	クリセルダ……さん？						
+TalkEvent_21_032ID	30	Criselda	クリセルダ	よく目に焼き付けなさい。彼らこそが私たちの仇敵――						
+TalkEvent_21_032ID	31	Criselda	クリセルダ	そして、彼らを越えることこそが、私の渇望						
+TalkEvent_21_032ID	32	Resna	レスナ	師匠……？						
+TalkEvent_21_033ID	0	Resna	レスナ	師匠が、敵……？						
+TalkEvent_21_033ID	1	Criselda	クリセルダ	そうよ。その隣にいる、アウグストと名乗る男もね						
+TalkEvent_21_033ID	2	Resna	レスナ	え、何を言っているんですか？　確かに、\nクリセルダさんにとっては敵かもしれませんが……						
+TalkEvent_21_033ID	3	Criselda	クリセルダ	いいえ。あなたにとっても、味方とは言えない存在よ						
+TalkEvent_21_033ID	4	Resna	レスナ	そんなはずありませんよ。だって、あの人は私の\n師匠なんですから。きっと何か誤解があるんです						
+TalkEvent_21_033ID	5	Criselda	クリセルダ	残念だけど、誤解ではないわ。あなたたちが気を\n失っている間に、私を消そうとここに現れたんだもの						
+TalkEvent_21_033ID	6	Criselda	クリセルダ	今もヴァレリアは、彼らに操られているわよ						
+TalkEvent_21_033ID	7	Resna	レスナ	え……！？						
+TalkEvent_21_033ID	8	Heidi	ハイディ	ヴァレリア！？						
+TalkEvent_21_033ID	9	Heidi	ハイディ	ヴァレリア！　相棒！　しっかりしてよ！　あんた\n私たちの家族でしょ！？　ブレないって言ったでしょ！						
+TalkEvent_21_033ID	10	Valeria	ヴァレリア	うっ……！						
+TalkEvent_21_033ID	11	August	アウグスト	ナナ……？						
+TalkEvent_21_033ID	12	Heidi	ハイディ	ヴァレリア！						
+TalkEvent_21_033ID	13	Valeria	ヴァレリア	ハイ……ディ						
+TalkEvent_21_033ID	14	Valeria	ヴァレリア	ハイディ！　ハイディ！						
+TalkEvent_21_033ID	15	Heidi	ハイディ	うんうん。戻ってこられたんだね。さすが相棒だ						
+TalkEvent_21_033ID	16	Valeria	ヴァレリア	私……どうしたの？　また操られてたの？						
+TalkEvent_21_033ID	17	Heidi	ハイディ	うん。でもすぐに元通りになったし、\n私たちも平気だから。心配すんなって						
+TalkEvent_21_033ID	18	Heidi	ハイディ	まあ、かなり込み入った感じになってるけど……						
+TalkEvent_21_033ID	19	August	アウグスト	ふむ……こうもあっさり命令が解かれてしまうとは。\n一度「調整」が必要なようだな						
+TalkEvent_21_033ID	20	Heidi	ハイディ	そんな、相棒を道具みたいに言わないでよ						
+TalkEvent_21_033ID	21	Criselda	クリセルダ	ヴァレリア。すでに気付いていたかもしれないけど、\nあなたを操っていたのは私じゃない。そこの連中よ						
+TalkEvent_21_033ID	22	Valeria	ヴァレリア	ザスキア……？						
+TalkEvent_21_033ID	23	Criselda	クリセルダ	私の元へ来た時、あなたはすでに操られていた。\n様子がおかしいことには、すぐに気付いたわ						
+TalkEvent_21_033ID	24	Criselda	クリセルダ	きっと、投降したふりをさせ、\n隙を見て私を始末させるつもりだったんでしょうね						
+TalkEvent_21_033ID	25	Resna	レスナ	え……？						
+TalkEvent_21_033ID	26	Criselda	クリセルダ	もっとも、そんな隙は与えなかったわ						
+TalkEvent_21_033ID	27	Criselda	クリセルダ	私では無理だったけれど、レスナや彼女の仲間たちが\n正気に戻してくれた						
+TalkEvent_21_033ID	28	Valeria	ヴァレリア	ねぇ……あんたたちは何者なの？\n私を操ってたって本当？　……何のために？						
+TalkEvent_21_033ID	29	August	アウグスト	動じるな、ナナ						
+TalkEvent_21_033ID	30	Valeria	ヴァレリア	ナナって……私のこと？						
+TalkEvent_21_033ID	31	August	アウグスト	そうだ。お前の中にも微かに残っているはずだ。\n永い眠りにつく前の記憶が						
+TalkEvent_21_033ID	32	???	？？？	――あぁ、空が、こんなにも赤く……\nすべては、遅かった						
+TalkEvent_21_033ID	33	???	？？？	おやすみ、ナナ						
+TalkEvent_21_033ID	34	Valeria	ヴァレリア	っ……！						
+TalkEvent_21_033ID	35	August	アウグスト	クリセルダの言葉に耳を貸すな。\n私はお前たちの味方であり、その者こそ敵対者だ						
+TalkEvent_21_033ID	36	Saskia	ザスキア	あら、認めちゃうの？						
+TalkEvent_21_033ID	37	August	アウグスト	彼らは賢い。言って聞かせれば理解を示すだろう						
+TalkEvent_21_033ID	38	Resna	レスナ	どういう、ことですか。説明してください師匠！						
+TalkEvent_21_033ID	39	Saskia	ザスキア	仕方ないわね。まず１つはっきりさせておきましょう						
+TalkEvent_21_033ID	40	Saskia	ザスキア	私たちは悠久の時を生きる世界の守護者。\n――あなたの味方よ、レスナ						
+TalkEvent_21_034ID	0	Roman	ロマン	世界の、守護者……？						
+TalkEvent_21_034ID	1	August	アウグスト	改めて名乗ろう。私はアウグスト。錬金術士だ						
+TalkEvent_21_034ID	2	Resna	レスナ	錬金術士……！						
+TalkEvent_21_034ID	3	August	アウグスト	我々の役目は、この世界の秩序を維持し、\n民の平穏を守ること						
+TalkEvent_21_034ID	4	August	アウグスト	その者のように、人の領分を越え、秩序を乱す者には\n裁きを下さねばならん						
+TalkEvent_21_034ID	5	August	アウグスト	しかし、他の者たちを裁くつもりはない。静かに\n立ち去り、口をつぐむのなら、これ以上干渉はしない						
+TalkEvent_21_034ID	6	Valeria	ヴァレリア	アウグスト。私を創ったのはあんたなの？						
+TalkEvent_21_034ID	7	August	アウグスト	そうだ、ナナ						
+TalkEvent_21_034ID	8	Criselda	クリセルダ	彼らはいわば、世界を裏で操る存在。ランターナの\n歴史も宗教もすべてが思い通りに操られている						
+TalkEvent_21_034ID	9	Roman	ロマン	何だって……！？						
+TalkEvent_21_034ID	10	Resna	レスナ	――――！						
+TalkEvent_21_034ID	11	Criselda	クリセルダ	まるで、何者かの意思が働いているように\n思えないかしら？						
+TalkEvent_21_034ID	12	Resna	レスナ	どうして……そんなことを						
+TalkEvent_21_034ID	13	Saskia	ザスキア	あなたたちを守るためよ						
+TalkEvent_21_034ID	14	August	アウグスト	道を誤りそうになったときには現れ、正しき方向に\n導く。それが我々の役割……いわば親のようなものだ						
+TalkEvent_21_034ID	15	Criselda	クリセルダ	それが気に入らないのよ						
+TalkEvent_21_034ID	16	Criselda	クリセルダ	私たちのため？　正しい方向に導く？\nそんなもの、あなたたちの自己満足に過ぎない						
+TalkEvent_21_034ID	17	Resna	レスナ	クリセルダさんは、知ってたんですね……						
+TalkEvent_21_034ID	18	Criselda	クリセルダ	……ええ						
+TalkEvent_21_034ID	19	Criselda	クリセルダ	この傲慢な支配者たちから、私たちの世界を解放する。\nそれこそが私の渇望						
+TalkEvent_21_034ID	20	August	アウグスト	傲慢、か。その言葉はお前にこそふさわしい。\nこれだからアメルハウザーの者は野蛮でいけない						
+TalkEvent_21_034ID	21	August	アウグスト	かつても、己の利を通そうとするあまり、\n戦争を巻き起こそうとしていた						
+TalkEvent_21_034ID	22	August	アウグスト	あの時、私たちが対処していなければ、ランターナの\n平和的な国家統一は成し得なかっただろう						
+TalkEvent_21_034ID	23	Heidi	ハイディ	アメルハウザー家の滅亡は\nあんたたちの仕業だったって言うの……！？						
+TalkEvent_21_034ID	24	Roman	ロマン	そんなこと、この国の歴史には……						
+TalkEvent_21_034ID	25	Criselda	クリセルダ	もちろん、載っていないわ。\nこの事実は歴史の闇に葬られてしまった						
+TalkEvent_21_034ID	26	Criselda	クリセルダ	きっと、私も同じように始末するつもりなのでしょう						
+TalkEvent_21_034ID	27	August	アウグスト	先ほども告げた通りだ。\nお前はすでに看過できない領域に踏み込んでいる						
+TalkEvent_21_034ID	28	August	アウグスト	クリセルダ・アメルハウザー。\nお前には罰を与えねばならない						
+TalkEvent_21_035ID	0	Roman	ロマン	待ってくれ！！						
+TalkEvent_21_035ID	1	Roman	ロマン	クリセルダは王国の民。彼女を裁くのは王国だ						
+TalkEvent_21_035ID	2	August	アウグスト	ランターナ王国第二王子か						
+TalkEvent_21_035ID	3	Roman	ロマン	ああ。我々は未来のために最善を尽くそうと\n努力しているんだ						
+TalkEvent_21_035ID	4	Roman	ロマン	国の行く先は、我々が責任を持って考え、結論を出す。\nだから、手出しは無用だ						
+TalkEvent_21_035ID	5	August	アウグスト	ランターナ王国に対し近年我々は、\n大きな干渉を行ってこなかった						
+TalkEvent_21_035ID	6	August	アウグスト	お前の主張通りに、自らの足で歩めるか、\n見定める必要もあった						
+TalkEvent_21_035ID	7	Criselda	クリセルダ	見定める、ねぇ						
+TalkEvent_21_035ID	8	August	アウグスト	この国はまだ、随分と改善の余地があるようだ。\n治安、道徳、諸々とな						
+TalkEvent_21_035ID	9	Saskia	ザスキア	レスナも皆も、旅の途中で人々の心の乱れを\n感じたことがあるでしょう						
+TalkEvent_21_035ID	10	Resna	レスナ	し、師匠、ちょっと待ってください						
+TalkEvent_21_035ID	11	August	アウグスト	私たちの干渉が足りないと、ああなってしまうのだ						
+TalkEvent_21_035ID	12	August	アウグスト	ランターナ王国はまだ幼い。導く存在が今も必要だ						
+TalkEvent_21_035ID	13	August	アウグスト	その者を罰するのは、我々が決めたこと。\nならば、お前たちはそれに従うほかない						
+TalkEvent_21_035ID	14	Johanna	ヨハナ	な、何様なのよ！						
+TalkEvent_21_035ID	15	Lara	ララ	上に立つ者としては、\nいささか狭量なのではなくて？						
+TalkEvent_21_035ID	16	Resna	レスナ	あ、あの！　きっとすれ違いがあるんです！\n一度落ち着いて話し合えば、きっと……						
+TalkEvent_21_035ID	17	Resna	レスナ	きゃあっ！						
+TalkEvent_21_035ID	18	Izana	イザナ	レスナちゃん！						
+TalkEvent_21_035ID	19	Saskia	ザスキア	レスナ。あなたはじっとしていなさい						
+TalkEvent_21_035ID	20	Resna	レスナ	師匠……どうして……！						
+TalkEvent_21_035ID	21	August	アウグスト	話は終わりだ。\nクリセルダ・アメルハウザーを排除する						
+TalkEvent_21_035ID	22	Antje	アンチュ	クリセルダには、指一本触れさせない……！						
+TalkEvent_21_035ID	23	Walther	ワルター	そういうことです						
+TalkEvent_21_035ID	24	August	アウグスト	お前たちも、暴れてくれたようだな						
+TalkEvent_21_035ID	25	August	アウグスト	躾をしてやろう						
+TalkEvent_21_035ID	26	Antje	アンチュ	うっ！						
+TalkEvent_21_035ID	27	Walther	ワルター	く……						
+TalkEvent_21_035ID	28	August	アウグスト	そんなもの、私には通じん。大人しくしていろ						
+TalkEvent_21_035ID	29	Johanna	ヨハナ	はぁぁぁっ！						
+TalkEvent_21_035ID	30	Izana	イザナ	ハンマーーーーッ！						
+TalkEvent_21_035ID	31	Criselda	クリセルダ	くっ！　頂獣の力がないと太刀打ちできないか！						
+TalkEvent_21_035ID	32	Valeria	ヴァレリア	クリセルダ！　もう一度やるわよ！						
+TalkEvent_21_035ID	33	August	アウグスト	お前は座っていろ、ナナ						
+TalkEvent_21_035ID	34	Valeria	ヴァレリア	っ――！						
+TalkEvent_21_035ID	35	Valeria	ヴァレリア	な、なんで……身体が、勝手に……						
+TalkEvent_21_035ID	36	Criselda	クリセルダ	ぐっ！						
+TalkEvent_21_035ID	37	Johanna	ヨハナ	な、何よこれ！						
+TalkEvent_21_035ID	38	Lara	ララ	このような道具があるとは……！						
+TalkEvent_21_035ID	39	August	アウグスト	力の差が理解できたなら、大人しくすることだ						
+TalkEvent_21_035ID	40	August	アウグスト	かつては、ランターナの中に\n魔物を神と崇めるような街もあった						
+TalkEvent_21_035ID	41	August	アウグスト	その魔物の性質もあって、\n試しに、その都市を経過観察したのだが						
+TalkEvent_21_035ID	42	August	アウグスト	やはり、待っていたものは滅びだった。\n間違った信仰による結果だ						
+TalkEvent_21_035ID	43	August	アウグスト	信仰は星を崇めるものひとつでいい。\n他はいらない						
+TalkEvent_21_036ID	0	August	アウグスト	聞き分けのない子どもには厳しくせねば。さて――						
+TalkEvent_21_036ID	1	Resna	レスナ	師匠！　放してください！						
+TalkEvent_21_036ID	2	Saskia	ザスキア	レスナ。いい子だから、大人しくしていて						
+TalkEvent_21_036ID	3	Saskia	ザスキア	いつだって、私はあなたを導いてきたでしょう。\n今回も信じて						
+TalkEvent_21_036ID	4	Resna	レスナ	――っ						
+TalkEvent_21_036ID	5	Resna	レスナ	ダメです！　こんなことは――						
+TalkEvent_21_036ID	6	Saskia	ザスキア	っ！						
+TalkEvent_21_036ID	7	August	アウグスト	これは……レスナ、お前						
+TalkEvent_21_036ID	8	Resna	レスナ	ああああああっ！						
+TalkEvent_21_036ID	9	Resna	レスナ	はぁっ……はぁっ						
+TalkEvent_21_036ID	10	Saskia	ザスキア	すごいわ、レスナ……予想以上よ						
+TalkEvent_21_036ID	11	August	アウグスト	今日はまったく驚かされる日だな						
+TalkEvent_21_036ID	12	August	アウグスト	あの者も、拘束したとはいえ、\nまだどのような手を隠しているか分からん						
+TalkEvent_21_036ID	13	August	アウグスト	ナナ、私のために戦え						
+TalkEvent_21_036ID	14	Valeria	ヴァレリア	私……						
+TalkEvent_21_036ID	15	August	アウグスト	慎重を期す。私と共にクリセルダと戦え						
+TalkEvent_21_036ID	16	Valeria	ヴァレリア	嫌……そんなの……っ！						
+TalkEvent_21_036ID	17	Resna	レスナ	ヴァレリア、言うことを聞いちゃダメだよ！						
+TalkEvent_21_036ID	18	Heidi	ハイディ	相棒！　気をしっかり持つんだ！						
+TalkEvent_21_036ID	19	August	アウグスト	ナナ。お前の胸に埋められた核は、私の命令を聞くよう\n造られている						
+TalkEvent_21_036ID	20	August	アウグスト	時が経ったせいか若干、不備が出ているようなのでな。\n少々強めにしたほうがよさそうだ						
+TalkEvent_21_036ID	21	Valeria	ヴァレリア	嫌よ！　私は私！　思い通りになんかならないわ！						
+TalkEvent_21_036ID	22	August	アウグスト	無駄だ。お前の意思は私が入力したものだからだ						
+TalkEvent_21_036ID	23	August	アウグスト	レスナの役に立ちたいというお前の夢は、\nお前の意志ではない。この私が刻み込んだものだ						
+TalkEvent_21_036ID	24	August	アウグスト	レスナを果ての大陸へ導くための手足となる。\nそれが、私が与えたお前の役割なのだからな						
+TalkEvent_21_036ID	25	Resna	レスナ	ど……どうして、私の名前が……？						
+TalkEvent_21_036ID	26	Valeria	ヴァレリア	嘘、よ						
+TalkEvent_21_036ID	27	August	アウグスト	ナナ。お前の道は、すべて決められたものなのだ。\nレスナへの強い好意もな						
+TalkEvent_21_036ID	28	Heidi	ハイディ	ヴァレリア！　そんなの出まかせだよ！\nあんたは私たちの家族だ！						
+TalkEvent_21_036ID	29	Heidi	ハイディ	ヴァレリア！　						
+TalkEvent_21_037ID	0	Valeria	ヴァレリア	っ……は……						
+TalkEvent_21_037ID	1	Resna	レスナ	ヴァレリア、お願い！　やめて！						
+TalkEvent_21_037ID	2	Heidi	ハイディ	ヴァレリア！　相棒！　おっさんだってフロッケだって\nあんたを待ってるんだから！						
+TalkEvent_21_037ID	3	August	アウグスト	無駄だ。お前たちの声は届かない						
+TalkEvent_21_037ID	4	August	アウグスト	ナナ、ついてこい。クリセルダを排除するのだ						
+TalkEvent_21_037ID	5	Resna	レスナ	ヴァレリアーー！						
+TalkEvent_21_037ID	6	Valeria	ヴァレリア	っ！！！						
+TalkEvent_21_037ID	7	August	アウグスト	な……						
+TalkEvent_21_037ID	8	Valeria	ヴァレリア	ありがとう。レスナ、ハイディ						
+TalkEvent_21_037ID	9	Valeria	ヴァレリア	二人が呼びかけてくれたから、ギリギリ正気を保てたわ						
+TalkEvent_21_037ID	10	August	アウグスト	馬鹿な……あり得ん						
+TalkEvent_21_037ID	11	Valeria	ヴァレリア	でも……くっ、どこまでもつのか……						
+TalkEvent_21_037ID	12	Resna	レスナ	ヴァ……ヴァレリア、何を……						
+TalkEvent_21_037ID	13	Valeria	ヴァレリア	このままじゃ、私は何度だってこいつに操られる。\n大切な人たちを襲っちゃうわ						
+TalkEvent_21_037ID	14	Heidi	ハイディ	そうなったら、何度だって目を覚まさせてやるから！						
+TalkEvent_21_037ID	15	Valeria	ヴァレリア	ううん。それじゃダメ。\nみんなを傷つけるのは、耐えられないから						
+TalkEvent_21_037ID	16	August	アウグスト	無駄だ、ナナ						
+TalkEvent_21_037ID	17	Valeria	ヴァレリア	でもさぁ！　胸に埋まってる核が心を操ってるなら、\nそれを壊しちゃえば、私は自由ってことでしょ？						
+TalkEvent_21_037ID	18	August	アウグスト	自ら滅びる道を選ぶというのか？\nよせ、私はそんなことは命令していない！						
+TalkEvent_21_037ID	19	Resna	レスナ	っ……！　や、止めてよ……ヴァレリア！						
+TalkEvent_21_037ID	20	Valeria	ヴァレリア	滅びるだなんて大袈裟よ。\nレスナならきっと、私を治してくれるでしょ？						
+TalkEvent_21_037ID	21	August	アウグスト	お前の核は魂のようなものだ。\n壊せばお前の記憶もろとも消滅するのだぞ						
+TalkEvent_21_037ID	22	August	アウグスト	たとえ治ったところで、今までのお前ではなくなる						
+TalkEvent_21_037ID	23	Saskia	ザスキア	あなたの大切な家族や、友達との記憶だって\n消えちゃうのよ？　それでもいいの、ナナ？						
+TalkEvent_21_037ID	24	Valeria	ヴァレリア	何度も言わせないで！　私はヴァレリア。\nあんたたちの操り人形なんかじゃない……！						
+TalkEvent_21_037ID	25	Valeria	ヴァレリア	記憶を失うなんて、今さら怖くもなんともないわ。\nまた目を覚ました後で、まとめて思い出してみせる						
+TalkEvent_21_037ID	26	Valeria	ヴァレリア	……レスナ						
+TalkEvent_21_037ID	27	Valeria	ヴァレリア	参ったわよね、これが作られた気持ちだなんて。\n私はこんなにレスナのことが好きなのに						
+TalkEvent_21_037ID	28	Resna	レスナ	ヴァレリア……						
+TalkEvent_21_037ID	29	Valeria	ヴァレリア	ねぇ、レスナ。今度は普通に友達になってね						
+TalkEvent_21_037ID	30	Valeria	ヴァレリア	（忘れない）						
+TalkEvent_21_037ID	31	Valeria	ヴァレリア	（この想いを忘れてしまうの？）						
+TalkEvent_21_037ID	32	Valeria	ヴァレリア	（こんなに大切な想いでいっぱいなのに）						
+TalkEvent_21_037ID	33	Valeria	ヴァレリア	（忘れない）						
+TalkEvent_21_037ID	34	Valeria	ヴァレリア	（忘れるもんか）						
+TalkEvent_21_037ID	35	Valeria	ヴァレリア	絶対に						

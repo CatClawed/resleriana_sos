@@ -1,0 +1,145 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_008_02_001ID	0	Resna	レスナ	（――ロマンさんに頼まれて、ハイネ州の海辺を再び\n　リゾート地として盛り上げることになった私たち）	Resna	(Roman tasked us with a very important mission: to restore Haine's beach to the lively getaway destination it once was!)	蕾斯娜	（――受罗曼先生所托，\n　我们要让海涅州沿海地带重新成为热闹的度假胜地。）	蕾斯娜	（──受到羅曼先生的請託，我們決定\n　將海涅州的海邊再次打造成熱鬧的度假勝地。）
+SeasonalTalkEvent_008_02_001ID	1	Resna	レスナ	（錬金術を使って海の家を再建したり、\n　メニューを開発したり、島魚と仲良くなったり……）	Resna	(That meant using the power of alchemy to help rebuild the beach house, whip up some seaside cuisine, and get friendly with the fish!)	蕾斯娜	（我们在这里用炼金术重建了海边小屋，\n　开发新餐品，和岛鱼成为朋友……）	蕾斯娜	（我們使用鍊金術重建海之家、研發菜單，\n　並和島魚培養感情……）
+SeasonalTalkEvent_008_02_001ID	2	Resna	レスナ	（大変なこともあったけれどみんなの努力が実を結び、\n　海辺には観光客の姿が戻りつつあった）	Resna	(We sure went through a lot, but our efforts paid off. Little by little, tourists are trickling back to the area.)	蕾斯娜	（过程中也出过状况，不过大家的努力终究有了成果，\n　海边渐渐开始重新出现游客的身影了。）	蕾斯娜	（雖然過程很辛苦，但是大家的努力也獲得回報，\n　有越來越多遊客回到海邊。）
+SeasonalTalkEvent_008_02_001ID	3	Resna	レスナ	初めは私たちしかいなかったのに、\nいつの間にか賑やかになりましたね	Resna	At first, we were the only ones around here, but wow! It sure is looking livelier now.	蕾斯娜	这里一开始只有我们几个，\n不过不知不觉间就变热闹了呢。	蕾斯娜	這裡一開始都只有我們幾個，\n但不知不覺間就變得熱鬧起來了呢。
+SeasonalTalkEvent_008_02_001ID	4	Roman	ロマン	海の家のメニューも評判で\n王都にまで噂が広がっているらしいよ	Roman	Rumor has it that your beach house cuisine has been making waves all the way to the capital.	罗曼	海边小屋的餐品也大受好评，\n听说消息都传到王都去了哦。	羅曼	海之家的菜單也大受好評，\n消息好像還傳到了王都那裡哦。
+SeasonalTalkEvent_008_02_001ID	5	Klaudia	クラウディア	ふふ、当然です。あのかき氷は、\nとっても美味しいですから！	Klaudia	Hehe! With shaved ice that delicious, I knew it would be a hit!	科洛蒂娅	呵呵，那是当然。那款刨冰多好吃啊！	科洛蒂婭	呵呵，這是當然。\n畢竟那個刨冰真的非常美味！
+SeasonalTalkEvent_008_02_001ID	6	Valeria	ヴァレリア	ねえねえ、そこまで話題になったのなら\n花火大会も開催できるんじゃない？	Valeria	I've got an idea—since we've gotten this popular, why don't we hold a fireworks festival?	瓦莱莉娅	既然热度都这么高了，\n烟花大会应该也能正常举办了吧？	瓦萊莉婭	我說，既然這裡變得那麼受歡迎，\n應該也能舉行煙火大會了吧？
+SeasonalTalkEvent_008_02_001ID	7	Roman	ロマン	その通りだ、と言いたいところなんだが……\n前年度に比べると観光客の数は少ないんだよ	Roman	I'd love to indulge you, but I'm afraid we aren't quite ready for that yet. We still don't have the foot traffic that we had last year.	罗曼	——！	羅曼	雖然我很想回答妳「沒錯」……\n但和去年相比，遊客的人數還是少了很多。
+SeasonalTalkEvent_008_02_001ID	8	Roman	ロマン	今の２倍……\nいや、３倍近くは客足が欲しいところだね	Roman	We would need two, maybe three times the people to make something like that a reality.	罗曼	要让游客翻倍……\n不，至少得有现在的三倍才行。	羅曼	客流量至少要是目前的2倍……\n不，3倍左右才行。
+SeasonalTalkEvent_008_02_001ID	9	Ryza	ライザ	はあー……活気を完全に取り戻すには、\nまだまだ先は長いってことかあ	Ryza	*Sigh* Looks like we've still got a ways to go to restore this beach to its former glory.	莱莎	唉……看来要想让这里完全重振往日盛况，\n我们还有很长的路要走啊。	萊莎	唉……看來想完全恢復以往的生氣蓬勃，\n還得花上好一段時間了。
+SeasonalTalkEvent_008_02_001ID	10	Klaudia	クラウディア	だとすると、もっと話題になるようなものが\n欲しいですね	Klaudia	In that case, we'll just need to create a bit of excitement!	科洛蒂娅	那我们就需要准备更能吸引人气的材料啊。	科洛蒂婭	這樣的話，\n就需要能吸引更多觀光客前來的東西了。
+SeasonalTalkEvent_008_02_001ID	11	Klaudia	クラウディア	たとえば……\nみんなで遊べる催し物とか？	Klaudia	Like...how about we hold a sports event? Something everyone can play!	科洛蒂娅	比如说……举办能让所有人参与进来的活动？	科洛蒂婭	比方說……\n能讓大家一起玩的活動之類的？
+SeasonalTalkEvent_008_02_001ID	12	Resna	レスナ	うーん……それなら、ビーチフラッグなんて\nどうでしょうか？	Resna	Sports, huh? How about something like a beach flag race?	蕾斯娜	唔……那沙滩夺旗怎么样？	蕾斯娜	嗯……既然如此，\n那海灘奪旗如何呢？
+SeasonalTalkEvent_008_02_001ID	13	Valeria	ヴァレリア	ビーチフラッグ？\nそれってみんなで旗を取りあう遊びよね？	Valeria	A beach flag race? Is that just like regular old capture the flag?	瓦莱莉娅	沙滩夺旗？就是大家争夺旗子的游戏对吧？	瓦萊莉婭	海灘奪旗？\n那不是大家一起搶旗子的遊戲嗎？
+SeasonalTalkEvent_008_02_001ID	14	Valeria	ヴァレリア	ただのビーチフラッグじゃ\n話題にならないんじゃない？	Valeria	I don't really see what would make that so exciting.	瓦莱莉娅	单纯的沙滩夺旗肯定火不起来吧？	瓦萊莉婭	一般的海灘奪旗應該吸引不了什麼人吧？
+SeasonalTalkEvent_008_02_001ID	15	Roman	ロマン	では、「ただ」ではないビーチフラッグはどうかな	Roman	"Well, it won't be just ""regular old"" capture the flag if we spice things up. We'll make it a ""Beach Flag Bonanza."""	罗曼	那我们来组织“不单纯”的沙滩夺旗如何？	羅曼	那麼，如果是不「一般」的海灘奪旗呢？
+SeasonalTalkEvent_008_02_001ID	16	Roman	ロマン	ここから少し離れたところに、未開の海辺がある。\nその果てに、旗を立てるんだ	Roman	There's an uninhabited stretch of shoreline not far from here. We can plant the flag there.	罗曼	离这里稍远些的地方有块尚未开发的海滩。\n就在那里最远处设置旗子。	羅曼	離這裡稍遠的地方有一片尚未開發的海灘，\n旗子會立在那個海灘的最深處。
+SeasonalTalkEvent_008_02_001ID	17	Roman	ロマン	障害物や魔物をかいくぐって、いち早く\n旗にたどり着いた者が勝ち、という具合さ	Roman	The first one who manages to slip past the obstacles, thwart the monsters, and reach the flag will be crowned the winner!	罗曼	能够跨越障碍物和魔物的阻拦，\n最早到达旗子处的人就算取胜。	羅曼	遊戲規則是突破各種障礙物和魔物，\n最先抵達旗子處的人獲勝。
+SeasonalTalkEvent_008_02_001ID	18	Roman	ロマン	優勝者には豪華賞品も与えようじゃないか	Roman	All the more exciting if we offer a fabulous prize to the champion.	罗曼	还可以给冠军设置个豪华奖品。	羅曼	冠軍還能得到豪華獎品哦。
+SeasonalTalkEvent_008_02_001ID	19	Valeria	ヴァレリア	ご、豪華賞品！？	Valeria	A fabulous prize? Really?!	瓦莱莉娅	豪、豪华奖品？！	瓦萊莉婭	豪、豪華獎品！？
+SeasonalTalkEvent_008_02_001ID	20	Ryza	ライザ	それって、あたしたちも参加していいんだよね！？	Ryza	Wait, that means we can compete for it too, right?!	莱莎	我们也能参加这个活动吗？！	萊莎	那個比賽，我們應該也可以參加吧！？
+SeasonalTalkEvent_008_02_001ID	21	Roman	ロマン	ああ。もちろんだとも。\n参加者は多いに越したことはない	Roman	But of course! With competitions like these, the more the merrier.	罗曼	嗯，那当然。参加者越多越好。	羅曼	嗯，當然可以，\n參賽者自然是越多越好。
+SeasonalTalkEvent_008_02_001ID	22	Valeria	ヴァレリア	豪華賞品なんて、\n絶対に美味しいものに決まってるわ！	Valeria	The prize has got to be something delicious. I can already taste it!	瓦莱莉娅	豪华奖品的内容必须得是美食吧！	瓦萊莉婭	豪華獎品絕對是美食，\n不會錯的！
+SeasonalTalkEvent_008_02_001ID	23	Resna	レスナ	もしかしたら、貴重な素材かもしれませんよ！	Resna	Who knows? It might even be a rare crafting material!	蕾斯娜	说不定是珍贵的素材哦！	蕾斯娜	也可能是稀有的素材也說不定哦！
+SeasonalTalkEvent_008_02_001ID	24	Ryza	ライザ	そういうことなら、あたしも本気で行く！\n勝っても負けても文句なしだよ	Ryza	In that case, I'm in! I'll give it my all, so win or lose, I won't have any regrets!	莱莎	既然要办这种活动，我一定会拿出真本事的！\n不管最后结果如何也不许有怨言哦？	萊莎	這樣的話我也要拿出真本事參加！\n無論誰輸誰贏都不能有怨言哦。
+SeasonalTalkEvent_008_02_001ID	25	Roman	ロマン	準備は私に任せてくれ。\nとびきり刺激的なコースを用意しておくよ	Roman	Leave the preparations to me. But make sure you're ready—this course will be jam-packed with excitement!	罗曼	准备工作就交给我吧。\n我会给大家准备好特别刺激的赛程。	羅曼	活動就交給我來舉辦吧，\n我會準備一條最刺激的比賽路線給大家。
+SeasonalTalkEvent_008_02_001ID	26	Resna	レスナ	私たちにも何かできることはないでしょうか。\n海の家をもっと充実させるとか……	Resna	I wonder if there's any way we can help out. Maybe we could spruce up the beach house?	蕾斯娜	有没有我们能帮上忙的地方？\n比如给海边小屋增添些有用的东西……	蕾斯娜	有沒有什麼我們能做的事呢？\n像是讓海之家的服務更豐富之類的……
+SeasonalTalkEvent_008_02_001ID	27	Ryza	ライザ	じゃあ、貸し出し用の遊び道具をもっと増やす？	Ryza	I've got it! How about making some fun equipment for visitors to rent out?	莱莎	那要不要再添置点出租用的游乐用具？	萊莎	那我們要不要再增加一些可租借的娛樂用品？
+SeasonalTalkEvent_008_02_001ID	28	Ryza	ライザ	「ビーチフラッグ大会に向けて、楽しく身体作りを\nしませんか」って触れ込んでさ	Ryza	"""Flex your muscles and prep for the Beach Flag Race with some fun in the sun!"" Something like that?"	莱莎	广告词就写“为迎接沙滩夺旗大会，\n不来开开心心地锻炼一下吗？”	萊莎	順便宣傳「一起快樂地鍛鍊身體，\n盡情體驗海灘奪旗大賽的樂趣吧」。
+SeasonalTalkEvent_008_02_001ID	29	Klaudia	クラウディア	いいね、それ！\nお客さんがもっと増えるかも！	Klaudia	Ooh, great idea! I bet that will bring in even more visitors!	科洛蒂娅	这个点子不错啊！来客数量一定会增加的！	科洛蒂婭	這個提議不錯耶！\n或許能增加更多客源！
+SeasonalTalkEvent_008_02_001ID	30	Resna	レスナ	よーし、いっぱい作るぞー！	Resna	All right, then I'll whip up a bunch of equipment!	蕾斯娜	好！那我就来多做一点！	蕾斯娜	好～！來做很多很多器材吧──！
+SeasonalTalkEvent_008_02_002ID	0	Resna	レスナ	よーし、ネットの準備は完璧！	Resna	All right, the net is all set for some action!	蕾斯娜	搞定，网子完美挂好了！	蕾斯娜	很好，排球網準備就緒！
+SeasonalTalkEvent_008_02_002ID	1	Klaudia	クラウディア	やっぱり、ネットがあると見栄えが違うね	Klaudia	Just seeing it all set up livens things up around here!	科洛蒂娅	挂上网之后球场看起来一下子正规了许多呢。	科洛蒂婭	有了排球網後，看上去果然更氣派呢。
+SeasonalTalkEvent_008_02_002ID	2	Ryza	ライザ	うんうん、これでお客さんをもっと呼び込めるでしょ！	Ryza	Sure does. This will definitely draw in more visitors!	莱莎	嗯嗯，这样就更能招揽游客了吧！	萊莎	沒錯，這樣應該就能招攬到更多客人了吧！
+SeasonalTalkEvent_008_02_002ID	3	Valeria	ヴァレリア	ねえ、貸し出す前にお試しで遊んでみない？	Valeria	Hey... Do you think it'd be all right if we gave it a try first? You know, before we start renting it out?	瓦莱莉娅	在出租之前，我们要不要先玩玩看？	瓦萊莉婭	話說，在開放租借前，我們要不要先玩玩看啊？
+SeasonalTalkEvent_008_02_002ID	4	Ryza	ライザ	そうだね、せっかく作ったんだし	Ryza	Why not? After all the work we put in, I think we deserve it.	莱莎	是呀，好不容易做出来了。	萊莎	說的也是，畢竟都做出來了。
+SeasonalTalkEvent_008_02_002ID	5	Ryza	ライザ	ついでにビーチフラッグ大会優勝に向けて、\n足腰を鍛えるか！	Ryza	Plus, some volleyball will help us keep our legs nice and strong for the beach flag race!	莱莎	顺便为了之后的沙滩夺旗大会锻炼一下腰腿吧！	萊莎	還可以順便訓練一下腰和腿，\n一舉奪得海灘奪旗大賽的冠軍！
+SeasonalTalkEvent_008_02_002ID	6	Resna	レスナ	おーっ！	Resna	Woohoo!	蕾斯娜	好——！	蕾斯娜	喔──！
+SeasonalTalkEvent_008_02_002ID	7	Valeria	ヴァレリア	――そーれぇ！	Valeria	Taaake this!	瓦莱莉娅	——嘿呀！	瓦萊莉婭	──看我的！
+SeasonalTalkEvent_008_02_002ID	8	Ryza	ライザ	さすがはヴァレリア、いいサーブ！\nでも、負けないよ！	Ryza	Awesome serve, Valeria! But I'm not going down without a fight!	莱莎	不愧是瓦莱莉娅，发球真棒！\n不过我也不会输！	萊莎	真不愧是瓦萊莉婭，這球發得真好！\n但我也不會輸的！
+SeasonalTalkEvent_008_02_002ID	9	Valeria	ヴァレリア	甘いわね！\nこの程度で私を抜けるとでも！？	Valeria	Hah! You'll have to do better than that!	瓦莱莉娅	太天真了！该不会以为这样我就接不到了吧？！	瓦萊莉婭	太天真了！\n妳以為這種球我擋不下來嗎！？
+SeasonalTalkEvent_008_02_002ID	10	Klaudia	クラウディア	きゃあっ！	Klaudia	Eeeek!	科洛蒂娅	呀！	科洛蒂婭	呀啊！
+SeasonalTalkEvent_008_02_002ID	11	Ryza	ライザ	クラウディア！？	Ryza	Klaudia, are you okay?!	莱莎	科洛蒂娅？！	萊莎	科洛蒂婭！？
+SeasonalTalkEvent_008_02_002ID	12	Klaudia	クラウディア	私は大丈夫！　それより構えて！　\n次の一撃が来るよ！	Klaudia	I'm fine, really! But watch out! You need to keep your eyes on the ball!	科洛蒂娅	我没事！快点准备好！下一球要来了！	科洛蒂婭	我沒事！別管我，快準備防守！\n她要進攻了！
+SeasonalTalkEvent_008_02_002ID	13	Valeria	ヴァレリア	これでもくらいなさい！\nアターーーック！！	Valeria	Can you handle this?! Hyaaah!	瓦莱莉娅	看我这球！扣——杀——！！	瓦萊莉婭	吃我這招吧！\n攻擊──！！
+SeasonalTalkEvent_008_02_002ID	14		ふたり	「うわあああっ！」「きゃあああっ！」	Both	Whoaaa!	二人	“哇哇哇！”“呀啊啊！”	兩人	「唔哇啊啊！」、「呀啊啊啊！」
+SeasonalTalkEvent_008_02_002ID	15	Ryza	ライザ	はぁっはぁっ……\nヴァレリア強すぎ……	Ryza	*Huff* *Huff* Valeria, that was intense...	莱莎	呼……呼……\n瓦莱莉娅也太强了……	萊莎	呼……哈……\n瓦萊莉婭太強了……
+SeasonalTalkEvent_008_02_002ID	16	Valeria	ヴァレリア	ちょっとー！　ボール返してくれなきゃ、\nビーチバレーにならないじゃない	Valeria	Oh, come on! If you can't even manage to return the ball, you can't call this a volleyball game!	瓦莱莉娅	喂喂！你们都不把球打回来，\n这沙滩排球还怎么玩下去啊。	瓦萊莉婭	喂──！妳們不把球打回來，\n比賽要怎麼繼續啊！
+SeasonalTalkEvent_008_02_002ID	17	Ryza	ライザ	あんな爆裂剛速球とれるわけないよ！	Ryza	As if any of us could return a blazing meteor of a serve like that!	莱莎	谁接得到你那种爆炸高速球啊！	萊莎	誰接得了那種炸裂爆速球啦！
+SeasonalTalkEvent_008_02_002ID	18	Ryza	ライザ	第一、ヴァレリアばっかりボール拾って\nレスナは何もしてないじゃない！	Ryza	Besides, Valeria keeps hogging the ball. Resna isn't doing a thing!	莱莎	再说一直都是瓦莱莉娅在接球，\n蕾斯娜你什么都没干啊！	萊莎	而且都是瓦萊莉婭一個人在接球，\n蕾斯娜什麼都沒做啊！
+SeasonalTalkEvent_008_02_002ID	19	Resna	レスナ	す、すみませんっ！　私が拾う前に、\n全部ヴァレリアが返してしまってっ！	Resna	Oh, no! I'm sorry! It's just that Valeria scoops up the ball before I even have a chance, so...	蕾斯娜	对、对不起！还没等我去接，\n瓦莱莉娅就全给扣回去了！	蕾斯娜	對、對不起！在我接到球之前，\n瓦萊莉婭就把所有球打回去了！
+SeasonalTalkEvent_008_02_002ID	20	Klaudia	クラウディア	あの、提案なんですけど……１対３にしませんか？\nそれなら、もう少し勝負になるんじゃないかと	Klaudia	Then I have an idea... How about a one-on-three match? That might make things a bit fairer.	科洛蒂娅	我有个提议……不如1对3怎么样？\n这么分也许还能打个有来有回。	科洛蒂婭	那個，我有個提議……我們要不要改成1對3呢？\n或許那樣能稍微補足實力差距。
+SeasonalTalkEvent_008_02_002ID	21	Valeria	ヴァレリア	私と三人の勝負ってことね！\nいいわよ、まとめてかかってきなさい！	Valeria	Me against the rest of you, huh? All right, give me everything you've got!	瓦莱莉娅	要我对你们三个是吧！\n没问题，你们尽管一起上吧！	瓦萊莉婭	意思是我和妳們三人決勝負對吧！\n好啊，全都放馬過來！
+SeasonalTalkEvent_008_02_002ID	22	Valeria	ヴァレリア	でりゃああああ！！	Valeria	You're going dooown!	瓦莱莉娅	吃我一招！！	瓦萊莉婭	喝啊啊啊啊！！
+SeasonalTalkEvent_008_02_002ID	23	Ryza	ライザ	うわあああっ！	Ryza	Whoaaa!	莱莎	呜哇——！	萊莎	嗚哇啊啊啊！
+SeasonalTalkEvent_008_02_002ID	24	Klaudia	クラウディア	きゃあああっ！	Klaudia	Gyaaahhh!	科洛蒂娅	呀啊啊！	科洛蒂婭	呀啊啊啊！
+SeasonalTalkEvent_008_02_002ID	25	Resna	レスナ	ひぃえええー！	Resna	Yeeeek!	蕾斯娜	哇呀——！	蕾斯娜	咿咿咿──！
+SeasonalTalkEvent_008_02_002ID	26	Valeria	ヴァレリア	もう終わりなの？\nこれじゃあ訓練にならないじゃない	Valeria	What, is our training match over already? That wasn't even a warm-up!	瓦莱莉娅	这就结束了？连训练都算不上。	瓦萊莉婭	已經不行了嗎？\n這樣根本算不上鍛鍊吧？
+SeasonalTalkEvent_008_02_002ID	27	Ryza	ライザ	はあはあ……あたし、思ったんだけど。\nヴァレリアに訓練って必要？	Ryza	Phew... Valeria, I've been thinking... Maybe you don't need any more training.	莱莎	呼……呼……我说啊……\n瓦莱莉娅你还需要训练吗？	萊莎	呼……呼……\n我在想，瓦萊莉婭她有需要鍛練嗎？
+SeasonalTalkEvent_008_02_002ID	28	Klaudia	クラウディア	あはは……でも、私たちにはいい運動に\nなったかもね……	Klaudia	Ha ha... At least the rest of us got some exercise today...	科洛蒂娅	哈哈……我们倒是浑身都活动开了……	科洛蒂婭	啊哈哈……\n不過，我們也算是好好活動一番了吧……
+SeasonalTalkEvent_008_02_002ID	29	Resna	レスナ	また遊び道具を作りますね。\nでも、今はちょっと……休憩させてください……	Resna	In that case, I'll keep on making new beach equipment to rent. After I take a little break, that is...	蕾斯娜	回头再做点其他游乐用具吧。\n不过现在稍微……让我休息一下……	蕾斯娜	我們繼續做更多娛樂用品吧。\n不過現在……請先讓我休息一下……
+SeasonalTalkEvent_008_02_003ID	0	Ryza	ライザ	……よし、これでだいぶ海の家らしく\nなったんじゃない？	Ryza	Wow. This beach house really is starting to come together!	莱莎	好了……这就更有海边小屋的味道了吧？	萊莎	……很好。\n這樣一來海之家就更接近理想中的模樣了。
+SeasonalTalkEvent_008_02_003ID	1	Resna	レスナ	さすがはライザ先輩です！\nこんな立派な家まで錬金術で建ててしまうとは！	Resna	It's all thanks to you, Ryza! To think you can use alchemy to create a whole building... Incredible!	蕾斯娜	真不愧是莱莎前辈！\n竟然能用炼金术做出这么漂亮的小屋！	蕾斯娜	不愧是萊莎前輩！\n居然能用鍊金術建出這麼氣派的屋子！
+SeasonalTalkEvent_008_02_003ID	2	Ryza	ライザ	錬金術で作ったのは部品までだけどね	Ryza	Well, technically, we only used alchemy to create the parts, not the whole thing.	莱莎	用炼金术做出来的只是建筑材料而已啦。	萊莎	用鍊金術做出來的只是一些零件而已喔。
+SeasonalTalkEvent_008_02_003ID	3	Ryza	ライザ	組み立てはみんなに手伝ってもらったし	Ryza	Besides, it wasn't just me. Everyone lent a hand to build it!	莱莎	大家不也都帮忙搭建了吗。	萊莎	這房子還是大家幫忙組裝起來的。
+SeasonalTalkEvent_008_02_003ID	4	Valeria	ヴァレリア	こういうときこそ私の出番よ！\n力仕事は任せて！	Valeria	And that's where my muscles always come in handy! Just leave the heavy lifting to me!	瓦莱莉娅	这就是我的用武之地嘛！体力活尽管交给我吧！	瓦萊莉婭	這種時候就輪到我出馬了！\n體力活就交給我吧！
+SeasonalTalkEvent_008_02_003ID	5	Lanze	ランツェ	なんで俺も駆り出されてるんだ……？	Lanze	How'd I get roped into this, anyway...?	兰泽	为什么连我都被拉来了啊……？	藍澤	為什麼連我也被抓來幫忙啊……？
+SeasonalTalkEvent_008_02_003ID	6	Valeria	ヴァレリア	海の家のことは、海の男に頼んだほうがいいでしょ？	Valeria	If you want to build a beach house, you need a salty sea dog! Makes sense to me.	瓦莱莉娅	海边小屋的事拜托海员不是正合适吗？	瓦萊莉婭	海之家的事，還是拜託大海男兒比較好吧？
+SeasonalTalkEvent_008_02_003ID	7	Lanze	ランツェ	建築は専門外なんだけどな。\nまぁ、いい運動にはなったぜ	Lanze	I dunno the first thing about buildin'... But at least it was good exercise.	兰泽	建屋子可不是我的专长。\n算了，也算是好好锻炼了一下。	藍澤	建築可不是我的專長啊。\n算了，至少有活動到筋骨。
+SeasonalTalkEvent_008_02_003ID	8	Totori	トトリ	運動はいいですけど、一気に物を運ぼうと\nしないでくださいね	Totori	Exercise is one thing, but don't try to carry everything at once. You'll pull a muscle!	托托莉	锻炼归锻炼，可别再一口气搬太多东西了哦。	托托莉	活動筋骨是很好，\n但請別一口氣搬太多東西哦。
+SeasonalTalkEvent_008_02_003ID	9	Totori	トトリ	この前それでぎっくり腰になったじゃないですか	Totori	You practically threw your back out last time. I heard the crack!	托托莉	你之前不是还因为这个闪了腰吗。	托托莉	你之前不是因為那樣閃到腰的嗎？
+SeasonalTalkEvent_008_02_003ID	10	Lanze	ランツェ	う、それは……酒浸りだったツケが\nまだ残っていたというか	Lanze	Ah, y'see... I had a bit of a wild night, so I was feelin' a bit green around the gills, that's all.	兰泽	呜，那次是……过去喝太多酒的恶果啦。	藍澤	呃，那是因為……\n大概是以前長期酗酒造成的影響吧。
+SeasonalTalkEvent_008_02_003ID	11	Totori	トトリ	根が怠けようとしているからそうなるんです	Totori	Or maybe you're just getting a little too lazy for training.	托托莉	明明是因为平时不运动才会这样。	托托莉	明明就是你骨子裡打算懶惰才會變成那樣。
+SeasonalTalkEvent_008_02_003ID	12	Lanze	ランツェ	おじさんなりに力配分を考えてるんだって！\n……まぁ、言い訳だな。気ぃ付けるよ	Lanze	C'mon, now! This old dog still has some bark! But...point taken. I'll be careful.	兰泽	我都是个大叔了，得考虑合理分配体力啊！\n算了……都是借口。我以后会注意的。	藍澤	叔叔我那是在考量要怎麼分配力氣！\n……算了，不找藉口啦，我以後會多注意的。
+SeasonalTalkEvent_008_02_003ID	13	Totori	トトリ	あ、そうだ。ライザさん！\n余った木材って、いただいてもいいですか？	Totori	Oh, I almost forgot! Ryza! Would you mind if I took the leftover lumber from the construction?	托托莉	哦对了，莱莎小姐！剩下的木材可以给我吗？	托托莉	啊，對了。萊莎小姐！\n請問我可以拿走剩下的木材嗎？
+SeasonalTalkEvent_008_02_003ID	14	Ryza	ライザ	いいよ！　好きなだけ持っていって！	Ryza	Sure, take as much as you like!	莱莎	可以啊！你有需要就随便拿吧！	萊莎	當然！想拿多少就拿多少！
+SeasonalTalkEvent_008_02_003ID	15	Totori	トトリ	ありがとうございます！　\nふなべぇの補強に使わせていただきますね！	Totori	Thank you so much! I'll put it to good use reinforcing the ship!	托托莉	谢谢！那我拿去加固船兵卫了！	托托莉	謝謝！\n我會用這些木材來加固船兵衛的！
+SeasonalTalkEvent_008_02_003ID	16	Resna	レスナ	また少し観光客が増えたような気がするね	Resna	It looks like even more people have come to visit.	蕾斯娜	游客好像又变多了啊。	蕾斯娜	感覺遊客好像又增加一些了呢。
+SeasonalTalkEvent_008_02_003ID	17	Valeria	ヴァレリア	ビーチフラッグ大会の噂を聞きつけて\n参加者が集まってきてるのかもしれないわね	Valeria	I bet most of them came running as soon as they heard about the beach flag race.	瓦莱莉娅	也许是对沙滩夺旗大会感兴趣的人都聚过来了吧。	瓦萊莉婭	說不定是聽說海灘奪旗大賽的消息，\n來了不少要參加的人呢。
+SeasonalTalkEvent_008_02_003ID	18	Valeria	ヴァレリア	これだけたくさんの人がいると、騒ぎの１つでも\n起こりそうなものだけど……平和よねえ	Valeria	You'd think with this large of a crowd, something was bound to go wrong... But everything seems quiet.	瓦莱莉娅	人这么多，应该很容易出乱子……\n不过看样子真是一派祥和啊。	瓦萊莉婭	照理說聚集了這麼多觀光客，應該會出現幾個\n鬧事的人才對……但意外地平靜呢。
+SeasonalTalkEvent_008_02_003ID	19	Resna	レスナ	……確かに。ナンパ目的で海に来る人もいるって\n言うけど、そういう光景も見たことないよね？	Resna	You're right, it's strange. I hear creeps come to the beach to hit on people, but I haven't seen a single lecherous look!	蕾斯娜	是呀……我听说会有人专门为了搭讪来海边，\n但好像没看到这样的人嘛。	蕾斯娜	……的確，有些人會特意來海邊找女孩子搭訕，\n但目前也沒見到有那種情況吧？
+SeasonalTalkEvent_008_02_003ID	20	Valeria	ヴァレリア	うーん……何か理由があるのかしら？	Valeria	Weird... Could there be someone keeping them in line?	瓦莱莉娅	唔……是不是有什么原因？	瓦萊莉婭	嗯……背後有什麼原因嗎？
+SeasonalTalkEvent_008_02_003ID	21	Resna	レスナ	あれ、あそこにいるのってユナさん？\nロマンさんは……いないよね？	Resna	Hey, is that Juna over there? Huh, it looks like Roman isn't with her.	蕾斯娜	咦？那边那个人是不是尤娜小姐？\n罗曼先生……好像没跟她在一块？	蕾斯娜	咦？在那裡的不是尤娜小姐嗎？\n好像沒看到羅曼先生……？
+SeasonalTalkEvent_008_02_003ID	22	Valeria	ヴァレリア	珍しいこともあるのね。\nユナ一人で海辺まで来たのかしら	Valeria	Those two are usually attached at the hip. Maybe Juna just wanted a day at the beach by herself?	瓦莱莉娅	真稀奇啊，尤娜居然会一个人跑到海边来。	瓦萊莉婭	好難得哦。\n尤娜是一個人來海邊嗎？
+SeasonalTalkEvent_008_02_003ID	23	Valeria	ヴァレリア	しかも、鎧姿のままだけど……あれは目立つわよね	Valeria	She's not exactly dressed for the occasion. With all that armor, she sticks out like a sore thumb.	瓦莱莉娅	而且还穿着铠甲……好显眼啊。	瓦萊莉婭	而且她還穿著鎧甲……看上去真是顯眼耶。
+SeasonalTalkEvent_008_02_003ID	24	Resna	レスナ	もしかして、ユナさんの存在が圧になって\n観光客がハメを外しすぎないのかも	Resna	I got it—maybe the beachgoers are on their best behavior because they're intimidated by her!	蕾斯娜	会不会是因为尤娜小姐太有压迫感了，\n导致游客们都不敢玩得太开……	蕾斯娜	可能是尤娜小姐的氣勢太強，\n讓遊客都不敢亂來吧。
+SeasonalTalkEvent_008_02_003ID	25	Valeria	ヴァレリア	それはあり得るわね！	Valeria	Oh, that must be it!	瓦莱莉娅	很有可能啊！	瓦萊莉婭	妳說的有道理耶！
+SeasonalTalkEvent_008_02_003ID	26	Resna	レスナ	何もせずとも秩序を守らせる。\nさすがは白夜の騎士……！	Resna	That's a Knight of the Midnight Sun for you. Keeping the peace with her presence alone!	蕾斯娜	什么都不干就能维持秩序，\n真不愧是白夜骑士……！	蕾斯娜	真不愧是白夜騎士，\n不必出手也能維護秩序……！
+SeasonalTalkEvent_008_02_003ID	27	Valeria	ヴァレリア	でも、その白夜の騎士が本当に\n何もしてないわけじゃないでしょ	Valeria	But I mean, she has to be here for a reason, right?	瓦莱莉娅	不过白夜骑士肯定不会是来无所事事的吧？	瓦萊莉婭	不過，那位白夜騎士也不可能真的\n無所事事地待在那裡吧。
+SeasonalTalkEvent_008_02_003ID	28	Resna	レスナ	そうだよね。\nユナさん、あそこで何してるんだろう？	Resna	You have a point. Maybe we should ask her about it.	蕾斯娜	有道理。尤娜小姐在那里做什么呢？	蕾斯娜	說的也是。\n尤娜小姐究竟在那裡做什麼呢？
+SeasonalTalkEvent_008_02_004ID	0	Ryza	ライザ	うわあ、すごい人の数！\nこれ全員ビーチフラッグ大会の参加者？	Ryza	Whoa, just look at all these people! Do you think they're all here for the beach flag race?	莱莎	哇，好多人！都是来参加夺旗大会的吗？	萊莎	哇，好壯觀的人潮！\n大家都是來參加海灘奪旗大賽的嗎？
+SeasonalTalkEvent_008_02_004ID	1	Klaudia	クラウディア	ロマンさんの作戦、大成功だったみたいですね	Klaudia	Looks like Roman's done it again. Another successful scheme!	科洛蒂娅	罗曼先生的计划非常成功啊。	科洛蒂婭	看來羅曼先生的計畫非常成功呢！
+SeasonalTalkEvent_008_02_004ID	2	Valeria	ヴァレリア	ぐぬぬ……豪華賞品は誰にも渡さないわよ！	Valeria	Grrr... If they think I'll give up the prize, they've got another thing coming!	瓦莱莉娅	哼哼哼……我可不会让任何人夺走我的豪华奖品！	瓦萊莉婭	可惡……我不會把豪華獎品讓給任何人的！
+SeasonalTalkEvent_008_02_004ID	3	Ryza	ライザ	ええと……確かこの先の洞窟の奥に\n旗が立ってるんだよね？	Ryza	Hmm. The flag is hidden somewhere inside that cave, right?	莱莎	对了……要在这前面的洞窟深处插旗子是吧？	萊莎	我想想……\n我記得旗子就立在這前方的洞窟深處對吧？
+SeasonalTalkEvent_008_02_004ID	4	Resna	レスナ	はい、その旗を最初に取った人が優勝です	Resna	That's right! And the first one to capture that flag will be the champion.	蕾斯娜	是的，第一个拿到旗子的人就是冠军。	蕾斯娜	是的，最先取得那面旗子的人就是冠軍。
+SeasonalTalkEvent_008_02_004ID	5	Resna	レスナ	でも、道中色々、仕掛けが用意されているみたいで\nただ足が速ければいいというわけではなさそうです	Resna	But the fastest person won't necessarily win. The cave is filled with traps and obstacles to slow us down.	蕾斯娜	不过一路上好像设了不少机关，\n腿脚快也未必就能最终取胜。	蕾斯娜	只不過一路上似乎設有很多機關，\n並不是腳程快就能順利抵達的。
+SeasonalTalkEvent_008_02_004ID	6	Valeria	ヴァレリア	そんなの関係ないわよ。どんな仕掛けだろうと\n全力で突破すればいいんだもの！	Valeria	No trap's going to stop me from getting my hands on that fabulous reward! I'll bust through as many traps as it takes!	瓦莱莉娅	没关系，管它什么样的机关，\n只要尽全力突破就行了！	瓦萊莉婭	那無所謂。\n不管是什麼機關，只要盡全力突破就好了！
+SeasonalTalkEvent_008_02_004ID	7	Resna	レスナ	あれ、リンカさん！？\nこんな所で会うなんて	Resna	Oh, Linca! I didn't expect to see you here!	蕾斯娜	嗯？琳卡小姐？！竟然会在这里遇到你。	蕾斯娜	咦，琳卡小姐！？\n沒想到會在這裡遇見妳。
+SeasonalTalkEvent_008_02_004ID	8	Valeria	ヴァレリア	リンカも賞品狙い？	Valeria	Are you after my prize too?	瓦莱莉娅	琳卡也是冲着奖品来的吗？	瓦萊莉婭	琳卡也想要獎品嗎？
+SeasonalTalkEvent_008_02_004ID	9	Linca	リンカ	いえ。海辺で良い鍛錬になる催しが\n開かれていると聞きまして	Linca	No, nothing like that. I heard there was a beach event that would make for some great training.	琳卡	不，我只是听说海边在举行很有挑战性的活动。	琳卡	不，我是聽人說海邊在舉辦\n能鍛鍊身體的活動。
+SeasonalTalkEvent_008_02_004ID	10	Ryza	ライザ	誰から？	Ryza	Oh? Who told you that?	莱莎	你听谁说的？	萊莎	聽誰說的？
+SeasonalTalkEvent_008_02_004ID	11	Linca	リンカ	ユナから	Linca	Juna told me.	琳卡	尤娜。	琳卡	尤娜說的。
+SeasonalTalkEvent_008_02_004ID	12	Resna	レスナ	えっ！？	Resna	Huh?!	蕾斯娜	啊？！	蕾斯娜	咦！？
+SeasonalTalkEvent_008_02_004ID	13	Juna	ユナ	大会を盛り上げるために、私も参加するよう\n殿下から命じられたんだ	Juna	"By order of His Highness, I'm here to ""liven things up."" I'll be participating in the tournament as well."	尤娜	为了让比赛更激烈，殿下命令我也来参加。	尤娜	為了炒熱大賽的氣氛，\n殿下命令我也要參賽。
+SeasonalTalkEvent_008_02_004ID	14	Juna	ユナ	ついでに他の体力自慢も連れてくるように、と	Juna	I was also instructed to bring other strong competitors along with me.	尤娜	还让我顺便介绍些对体力有自信的人来。	尤娜	他還要我順便把其他對體能有自信的人也帶來。
+SeasonalTalkEvent_008_02_004ID	15	Juna	ユナ	私も賞品には興味はないが、\n参加するからには本気で挑ませてもらう	Juna	Although I'm not interested in any prizes, I'll do my utmost to overcome whatever challenges lie ahead.	尤娜	我也对奖品没什么兴趣，\n不过既然要参加，我必定会倾尽全力。	尤娜	雖然我也對獎品沒興趣，\n但既然要參加，那我便會全力以赴。
+SeasonalTalkEvent_008_02_004ID	16	Ryza	ライザ	二人とも、わざわざ動きやすい格好までして……\nこれはかなりの強敵だね	Ryza	The two of you even changed into lighter gear for this... Competition is going to be fierce!	莱莎	这两个人还特意穿了方便活动的衣服……\n有点难对付啊。	萊莎	妳們還特地換上方便活動的衣服……\n看來會是相當強勁的對手呢。
+SeasonalTalkEvent_008_02_004ID	17	Resna	レスナ	あれ、シャルロッテ先輩とシャリステラ先輩まで！	Resna	Oh! If it isn't Shallotte! And Shallistera, too!	蕾斯娜	啊，夏露罗蒂前辈和夏莉丝堤拉前辈也来了！	蕾斯娜	咦，夏露羅蒂前輩和夏莉絲堤菈前輩也來了！
+SeasonalTalkEvent_008_02_004ID	18	Shallistera	シャリステラ	わたしはロッテに連れてこられただけなんですけど……	Shallistera	Lotte practically dragged me here, so...	夏莉丝堤拉	是罗蒂非拉着我来的……	夏莉絲堤菈	我是被羅蒂給拉來的……
+SeasonalTalkEvent_008_02_004ID	19	Shallotte	シャルロッテ	だって、優勝したらなんでも望むものがもらえるって\n聞いたから	Shallotte	We heard the winner gets any prize their heart desires.	夏露罗蒂	因为听说赢了就能得到任何想要的东西嘛。	夏露羅蒂	因為我聽說冠軍能獲得任何想要的東西。
+SeasonalTalkEvent_008_02_004ID	20	Shallotte	シャルロッテ	そんなの、参加しないわけにいかないよね！	Shallotte	So we definitely couldn't pass up an opportunity like that!	夏露罗蒂	那不来参加可怎么行！	夏露羅蒂	這種活動，怎麼能不參加呢？
+SeasonalTalkEvent_008_02_004ID	21	Resna	レスナ	なんでも望むもの？\nあれ？　そんな話だったかな……	Resna	"That's strange. It's my first time hearing that the winner gets ""any prize their heart desires""..."	蕾斯娜	想要的东西？咦，一开始是这么说的吗……？	蕾斯娜	任何想要的東西？\n奇怪？之前是這樣說的嗎……
+SeasonalTalkEvent_008_02_004ID	22	???	？？？	あ、いたいた！　レスナー！	???	Oh, there she is! Resnaaa!	？？？	啊，你在这里！蕾斯娜～！	？？？	啊，找到了！蕾斯娜～！
+SeasonalTalkEvent_008_02_004ID	23	Resna	レスナ	えっ、この声は……	Resna	Wait, I know that voice...	蕾斯娜	这声音是……	蕾斯娜	咦，這聲音是……
+SeasonalTalkEvent_008_02_004ID	24	Wilbell	ウィルベル	あたしたちも、遊びに来たわよー！	Wilbell	We're here! We didn't want to miss out on the fun!	薇尔贝儿	我们也来玩了哦！	薇爾貝兒	我們也來玩了喔～！
+SeasonalTalkEvent_008_02_004ID	25	Resna	レスナ	ウィルベルさん、ニオさん、レジナさん！\nもしかして皆さんもビーチフラッグ大会に？	Resna	Wilbell, Nio, Regina! Are you all here for the beach flag race too?	蕾斯娜	薇尔贝儿小姐、妮欧小姐、瑞吉娜小姐！\n你们也是来参加沙滩夺旗大会的吗？	蕾斯娜	薇爾貝兒小姐、妮歐小姐、瑞吉娜小姐！\n難不成各位也是來參加海灘奪旗大賽的？
+SeasonalTalkEvent_008_02_004ID	26	Regina	レジナ	もっちろん！　優勝して、わたしの望みを\n叶えてもらうつもりだよ！	Regina	Of course! I'm going to win it all so that they make my wish come true!	瑞吉娜	当然啊！我要赢得比赛，然后实现我的愿望！	瑞吉娜	那當然！\n我打算奪得冠軍來實現自己的願望！
+SeasonalTalkEvent_008_02_004ID	27	Resna	レスナ	もしかして、ニオさんも？	Resna	Is that why you came along, Nio?	蕾斯娜	难不成妮欧小姐也是为此而来？	蕾斯娜	難道說妮歐小姐也是？
+SeasonalTalkEvent_008_02_004ID	28	Nio	ニオ	えへへ……\n実はちょっと、欲しいものがありまして	Nio	Heh heh... You could say there's a little something I want, too...	妮欧	嘿嘿……因为我刚好有点想要的东西。	妮歐	嘿嘿……\n其實我有一些想要的東西。
+SeasonalTalkEvent_008_02_004ID	29	Wilbell	ウィルベル	ふふん、優勝はこのウィルベル様で決まりよ！\n旗の元まで、ホウキでひとっ飛びなんだから！	Wilbell	Hmph! We all know that I, the great Wilbell, will be victorious! I'll just ride my broom over the competition and straight to the flag!	薇尔贝儿	哼哼，冠军当然属于我薇尔贝儿！\n我会用扫帚一路飞到旗子那里！	薇爾貝兒	哼哼，冠軍當然會是我薇爾貝兒大人囉！\n因為我會乘著掃帚一口氣飛到旗子那邊的！
+SeasonalTalkEvent_008_02_004ID	30	Ryza	ライザ	ええっ、それってズルくない！？	Ryza	H-Hey, that doesn't sound fair!	莱莎	啊？那也太赖皮了吧？！	萊莎	咦咦，這樣也太狡猾了吧！？
+SeasonalTalkEvent_008_02_004ID	31	Wilbell	ウィルベル	大会規則には、\n「持ち込み自由」って書いてあったわよ	Wilbell	The race's rules clearly state that you are free to use any tools you desire.	薇尔贝儿	大会规则里写着“可以携带任何东西”哦。	薇爾貝兒	大賽規則有寫「可自由攜帶道具」喔。
+SeasonalTalkEvent_008_02_004ID	32	Ryza	ライザ	……もしかして、この大会。\nあたしたちが思ってる以上に、ヤバい？	Ryza	Is it just me, or is this race turning out to be a lot more trouble than we thought?	莱莎	我们难不成……轻视了这场大会的凶险程度？	萊莎	……這場大賽該不會……\n比我們想像得還要困難？
+SeasonalTalkEvent_008_02_004ID	33	Klaudia	クラウディア	あはは……そうかも	Klaudia	Haha... I was thinking the exact same thing.	科洛蒂娅	哈哈哈……看来是这样。	科洛蒂婭	啊哈哈……有可能喔。
+SeasonalTalkEvent_008_02_004ID	34	Resna	レスナ	あっ、そろそろ始まるみたいですよ\n皆さん、準備はいいですか？	Resna	Ooh, the race is about to start! Is everyone ready?	蕾斯娜	哦，好像要开始了。大家准备好了吗？	蕾斯娜	啊，好像差不多要開始了。\n大家都準備好了嗎？
+SeasonalTalkEvent_008_02_004ID	35	Valeria	ヴァレリア	もちろんよ！　\nビーチフラッグ大会、思いきり楽しむわよ！	Valeria	You know it! Let's make this beach flag race a real blast!	瓦莱莉娅	当然准备好了！尽情享受沙滩夺旗大会吧！	瓦萊莉婭	那當然囉！\n我要盡情享受海灘奪旗大賽！
+SeasonalTalkEvent_008_02_005ID	0	Klaudia	クラウディア	はー……ビーチフラッグ大会\n楽しかったですね	Klaudia	Phew... That competition sure was fun!	科洛蒂娅	呼……沙滩夺旗大会真开心啊。	科洛蒂婭	呼……海灘奪旗大賽真好玩呢。
+SeasonalTalkEvent_008_02_005ID	1	Valeria	ヴァレリア	レスナ、頑張ってたわね。\n遊びの成果が出てたんじゃない？	Valeria	You really gave it your all out there, Resna. Looks like all of your fun on the beach paid off in the end!	瓦莱莉娅	蕾斯娜，你表现得很棒嘛。\n是之前玩排球练出的成果吧？	瓦萊莉婭	蕾斯娜，妳很努力耶。\n有發揮出當時玩遊戲的成果吧？
+SeasonalTalkEvent_008_02_005ID	2	Ryza	ライザ	他の人と接戦になっても、最後まで諦めないで\nビーチフラッグに食らいつく姿勢は尊敬するよ	Ryza	It made me really proud seeing you battle it out until the very end for that beach flag! It was a close match!	莱莎	和人激烈对抗也决不放弃，\n坚持夺旗的身姿真是令人佩服啊。	萊莎	即使和其他人勝負難分妳也堅持到了最後，\n我很尊敬妳那盡力奪取旗子的態度喔。
+SeasonalTalkEvent_008_02_005ID	3	Resna	レスナ	豪華賞品がかかってましたから！\nつい張り切っちゃいました	Resna	Thinking about that fabulous prize, I just couldn't do things halfway!	蕾斯娜	因为想到有可能获得豪华奖品，\n就不自觉地去卖力争取了。	蕾斯娜	因為關係到豪華獎品嘛！\n我忍不住就卯足了全力。
+SeasonalTalkEvent_008_02_005ID	4	Resna	レスナ	でも、皆さんと一緒に参加した思い出が\n一番の豪華賞品かもしれないです	Resna	But in the end, the memories I made with everyone along the way were a far better prize than any reward I could've received.	蕾斯娜	不过，也许和大家一起参赛的回忆，\n才是最宝贵的豪华奖品吧。	蕾斯娜	不過，和大家一起參加的回憶，\n或許就是最豪華的獎品。
+SeasonalTalkEvent_008_02_005ID	5	Valeria	ヴァレリア	いいわね、それ！\n私も、その豪華賞品にするわ	Valeria	That's the spirit! I'll go with that as my prize, too.	瓦莱莉娅	听上去不错啊！我就要那个了。	瓦萊莉婭	說得真好！\n我也要把這當成豪華獎品。
+SeasonalTalkEvent_008_02_005ID	6	Ryza	ライザ	じゃあ、ここにいる全員\n豪華賞品をもらえたってことで！	Ryza	So if the true prize is our friendship, then it looks like we're all winners! Hehe!	莱莎	那就是说这里所有人都获得了豪华奖品吧！	萊莎	也就是說，現場所有人都獲得豪華獎品了！
+SeasonalTalkEvent_008_02_005ID	7	Roman	ロマン	みんなとの思い出が豪華賞品か……\nふふ、実にレスナらしいね	Roman	So all the treasure you needed was time with your friends? You sure have a heart of gold, Resna.	罗曼	豪华奖品是和大家的回忆……\n呵呵，真有蕾斯娜的风格。	羅曼	和大家的回憶是豪華獎品啊……\n呵呵，真有蕾斯娜的風格。
+SeasonalTalkEvent_008_02_005ID	8	Roman	ロマン	ビーチフラッグ大会は大いに盛り上がり、\nレスナたちの頑張りで海の家も大繁盛	Roman	And thanks to the success of the beach flag race and all of your hard work, the beach is bustling once again!	罗曼	沙滩夺旗大会火爆非凡，\n海边小屋也靠着蕾斯娜等人的努力而生意兴隆。	羅曼	海灘奪旗大賽的氣氛非常熱烈，\n在蕾斯娜她們的努力下，海之家的生意也相當興隆。
+SeasonalTalkEvent_008_02_005ID	9	Roman	ロマン	この調子なら、元の活気に戻るのも\nそう遠い話ではないだろう	Roman	If this keeps up, prosperity may return to these shores sooner than we thought.	罗曼	按这样下去，\n海边应该很快就能像从前一样有活力了吧。	羅曼	如果能維持這個步調，恢復以往生氣蓬勃的日子\n應該也不遠了吧。
+SeasonalTalkEvent_008_02_005ID	10	Roman	ロマン	しかし、唯一気がかりなのは……	Roman	But I'm afraid we can't celebrate while danger still looms...	罗曼	不过还有一件事让我在意……	羅曼	不過，唯一令人擔心的是……
+SeasonalTalkEvent_008_02_005ID	11	Roman	ロマン	ユナ、目撃情報が来ていた「ゴーレム」の\nことだけど……	Roman	Juna has reported a golem running amok in the area.	罗曼	尤娜，关于有人目击到魔巨人的事……	羅曼	尤娜，關於目擊情報中提到的「魔巨人」……
+SeasonalTalkEvent_008_02_005ID	12	Juna	ユナ	まだ討伐報告は上がっておりません	Juna	Yes, and it has yet to be subdued.	尤娜	目前还没有接到它已被讨伐的报告。	尤娜	目前尚未收到討伐報告。
+SeasonalTalkEvent_008_02_005ID	13	Juna	ユナ	この数日間、私も海辺を監視しておりましたが、\n一向に姿を見せませんでした	Juna	I've been patrolling the beach for the past few days, but I haven't caught sight of it yet.	尤娜	这几天我也在海边监视，但完全没发现它的影子。	尤娜	這兩天我也持續在海邊監視，\n但牠完全沒有現身。
+SeasonalTalkEvent_008_02_005ID	14	Roman	ロマン	そうか……	Roman	I see...	罗曼	这样啊……	羅曼	這樣啊……
+SeasonalTalkEvent_008_02_005ID	15	Juna	ユナ	引き続き警戒を強めます	Juna	I'll increase patrols along the coast to tighten security.	尤娜	我会继续强化警戒。	尤娜	我們會繼續提高警戒。
+SeasonalTalkEvent_008_02_005ID	16	Roman	ロマン	ああ、頼むよ	Roman	Very good. I'm counting on you.	罗曼	嗯，拜托了。	羅曼	嗯，拜託了。
+SeasonalTalkEvent_008_02_005ID	17	Roman	ロマン	このまま出現しなければいいが……	Roman	I just hope that thing doesn't rear its head anytime soon...	罗曼	他要是能一直不出现就好了……	羅曼	要是就這樣一直不出現倒還好……

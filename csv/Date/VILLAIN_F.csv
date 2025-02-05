@@ -1,0 +1,308 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_VILLAIN_F_01ID	0	Logy	ロジー	（元極夜の錬金党の一員、ワルター……）						
+Date_VILLAIN_F_01ID	1	Logy	ロジー	（その研究者としての腕を買われ、\n　王国に利のある研究のためであれば一定の\n　監視下において行動を許されている）						
+Date_VILLAIN_F_01ID	2	Logy	ロジー	（その監視役の依頼が俺のもとにも\n　舞い込んできた。\n　最初は断ろうかと思ったが……）						
+Date_VILLAIN_F_01ID	3	Logy	ロジー	（あの頂獣ウェルテックスを素材に\n　人造頂獣を生み出した人物だ）						
+Date_VILLAIN_F_01ID	4	Logy	ロジー	（そばにいれば、俺が調べている\n　頂獣そのものについてもより理解が\n　深まるかもしれない……）						
+Date_VILLAIN_F_01ID	5	Logy	ロジー	（そう思い、監視役を引き受けることに\n　した。そろそろ手続きが終わって\n　城から出てくるはずだが……）						
+Date_VILLAIN_F_01ID	6	Walther	ワルター	……おや。推察するに、あなたが今日の\n監視役、ですか						
+Date_VILLAIN_F_01ID	7	Logy	ロジー	（さて……相手は要注意人物だ。\n　どこまで自分の素性を明かしたものか）						
+Date_VILLAIN_F_01ID	8		選択肢	名乗るだけに留める						
+Date_VILLAIN_F_01ID	9	Logy	ロジー	俺はロジーだ。よろしくな						
+Date_VILLAIN_F_01ID	10	Walther	ワルター	私はワルターと申します。\n以後お見知りおきを						
+Date_VILLAIN_F_01ID	11	Walther	ワルター	ところで、そのお名前……\nもしかして異邦人の方ではないですか？						
+Date_VILLAIN_F_01ID	12	Logy	ロジー	！　ああ、そうだ						
+Date_VILLAIN_F_01ID	13	Logy	ロジー	（知っていたのか……油断ならないな）						
+Date_VILLAIN_F_01ID	14		選択肢	監視役であると肯定する						
+Date_VILLAIN_F_01ID	15	Logy	ロジー	そうだ。お前の監視役を任されている						
+Date_VILLAIN_F_01ID	16	Walther	ワルター	ご存じかとは思いますが、\n私はワルター・マン						
+Date_VILLAIN_F_01ID	17	Walther	ワルター	ところで……その出で立ち。\n錬金術士はおやめになったのですか？\nロジー殿						
+Date_VILLAIN_F_01ID	18	Logy	ロジー	！　俺のことを知っているのか						
+Date_VILLAIN_F_01ID	19	Walther	ワルター	はい。異邦人の情報はある程度聞き及んで\nいますので、もしかして、と						
+Date_VILLAIN_F_01ID	20	Logy	ロジー	（研究者なだけある。情報集めと推測は\n　お手の物というわけか）						
+Date_VILLAIN_F_01ID	21		選択肢	異邦人であることまで明かす						
+Date_VILLAIN_F_01ID	22	Logy	ロジー	俺はロジー。別の世界から来た錬金術士だ。\n異邦人なんて呼ばれているな						
+Date_VILLAIN_F_01ID	23	Walther	ワルター	私はワルター・マン。\nこの世界の錬金術士です						
+Date_VILLAIN_F_01ID	24	Walther	ワルター	あなたのお噂はかねがね。\nお会いできて光栄です、ふふふ						
+Date_VILLAIN_F_01ID	25	Logy	ロジー	（……この様子、一目見た時から\n　俺のことは分かっていたんだろう。\n　油断は禁物だ）						
+Date_VILLAIN_F_01ID	26	Logy	ロジー	改めてだが、俺は今王国騎士に協力を\nしている。この出で立ちはその証だ						
+Date_VILLAIN_F_01ID	27	Logy	ロジー	俺がお前の監視をすることになったのも\nその延長線上だが、引き受けた以上\n手を抜くつもりはない						
+Date_VILLAIN_F_01ID	28	Walther	ワルター	私としても研究ができないのは困ります。\n逆らうことはしません						
+Date_VILLAIN_F_01ID	29	Walther	ワルター	しかし、どんな方に監視をされるのかと\n思いましたが、異邦人の錬金術士の方とは。\n私はなんてツイているのでしょう！						
+Date_VILLAIN_F_01ID	30	Walther	ワルター	ぜひ色々ご教授いただきたいものです。\nあなたの世界ではどのような錬金術が\n扱われていたのかを						
+Date_VILLAIN_F_01ID	31	Logy	ロジー	今日は遺跡の調査を行うと聞いているが、\nそれは必要なことなのか？						
+Date_VILLAIN_F_01ID	32	Walther	ワルター	おっと、失礼。ではまた後日お伺いすると\nしましょう						
+Date_VILLAIN_F_01ID	33	Logy	ロジー	それでいい。\n俺もあまりうるさく言うつもりはないんだ						
+Date_VILLAIN_F_01ID	34	Walther	ワルター	それではさっそく、遺跡へ向かいましょう						
+Date_VILLAIN_F_01ID	35	Walther	ワルター	……この部屋が貯蔵庫だったとすると、\nこの機構は長期保存を行うためのもの。\nとなると……						
+Date_VILLAIN_F_01ID	36	Logy	ロジー	（……もう数時間ずっとあの調子で\n　調査を続けている）						
+Date_VILLAIN_F_01ID	37	Logy	ロジー	（根っからの研究者というのは\n　本当のようだな）						
+Date_VILLAIN_F_01ID	38	Logy	ロジー	（しかし、このままだと休憩も食事も\n　とらずに調査を続けそうだ。\n　一応声をかけておくか……）						
+Date_VILLAIN_F_01ID	39	Logy	ロジー	おい。随分研究熱心なようだが……						
+Date_VILLAIN_F_01ID	40		選択肢	ちゃんと普段から飯はたべているのか？						
+Date_VILLAIN_F_01ID	41	Logy	ロジー	ちゃんと普段から飯はたべているのか？						
+Date_VILLAIN_F_01ID	42	Walther	ワルター	もちろんです。食事は人間の資本を\n形成しますからね						
+Date_VILLAIN_F_01ID	43	Walther	ワルター	それに、食事の栄養を考えて献立を\n組むのは、なかなか面白いですよ。\n組み合わせは無限大ですから						
+Date_VILLAIN_F_01ID	44	Logy	ロジー	意外だな。必要な栄養さえ取れればいいと\n考えているかと思っていた						
+Date_VILLAIN_F_01ID	45		選択肢	ちゃんと寝ているか？						
+Date_VILLAIN_F_01ID	46	Logy	ロジー	ちゃんと夜は寝ているんだろうな？						
+Date_VILLAIN_F_01ID	47	Walther	ワルター	定期的に睡眠はとっていますよ。\nしっかり眠らないと、研究効率が\n下がってしまいますからね						
+Date_VILLAIN_F_01ID	48	Walther	ワルター	……ああ、この目のクマは気にしないで\nください。時には睡眠よりも優先すべき\n大切なこともあるのですよ						
+Date_VILLAIN_F_01ID	49	Logy	ロジー	そうか……ちゃんと休息も考えられている\nならいいんだ						
+Date_VILLAIN_F_01ID	50		選択肢	部屋は片付いているか？						
+Date_VILLAIN_F_01ID	51	Logy	ロジー	部屋は片付いているか？						
+Date_VILLAIN_F_01ID	52	Walther	ワルター	ええ。もちろんです。部屋が荒れていては、\n思考も整いませんからね						
+Date_VILLAIN_F_01ID	53	Walther	ワルター	それに、私は研究のために各地を転々と\nすることもありましたから。大切なものは\nすぐ持ち出せるよう常に整理してますよ						
+Date_VILLAIN_F_01ID	54	Logy	ロジー	なるほど。自分だけが分かればいい、\nという奴もいるからな。\nしっかりしているようで何よりだ						
+Date_VILLAIN_F_01ID	55	Walther	ワルター	もしや、私が研究熱心で私生活をおろそかに\nする人間に見えましたか？						
+Date_VILLAIN_F_01ID	56	Logy	ロジー	まあ、な。不快に思ったら、悪い						
+Date_VILLAIN_F_01ID	57	Walther	ワルター	いえ、そう思われることには\n慣れていますし、実際そうでしたからね。\n今は寝食どちらもしっかりとっていますよ						
+Date_VILLAIN_F_01ID	58		選択肢	食べるようになったきっかけは？						
+Date_VILLAIN_F_01ID	59	Logy	ロジー	何か食べるようになった\nきっかけがあるのか？						
+Date_VILLAIN_F_01ID	60	Walther	ワルター	ええ。学生時代、研究に没頭して\n食事を怠り倒れた際、クリセルダに\nそれはそれは叱られましてね						
+Date_VILLAIN_F_01ID	61	Walther	ワルター	それ以来、食事は栄養も考えて\n定期的にとるようにしました						
+Date_VILLAIN_F_01ID	62		選択肢	寝るようになったきっかけは？						
+Date_VILLAIN_F_01ID	63	Logy	ロジー	何か寝るようになったきっかけがあるのか？						
+Date_VILLAIN_F_01ID	64	Walther	ワルター	ええ。私はこのクマのせいもあって、\n昔からクリセルダにはちゃんと寝ろと\n言われ続けてましてね……						
+Date_VILLAIN_F_01ID	65	Walther	ワルター	それもあって、時々は寝るように\nなりましたよ。癖になったのか、\nなかなかクマは取れませんが						
+Date_VILLAIN_F_01ID	66		選択肢	慣れているというのは？						
+Date_VILLAIN_F_01ID	67	Logy	ロジー	そう思われるのには慣れている、\nというのは？						
+Date_VILLAIN_F_01ID	68	Walther	ワルター	学生時代、多くの同級生や教師たちから\n同じようなことを言われました。						
+Date_VILLAIN_F_01ID	69	Walther	ワルター	研究の差し入れとして、よく食べ物も\n貰いましたし……						
+Date_VILLAIN_F_01ID	70	Walther	ワルター	ある時、先輩に注意されてからは\n気を付けるようになりましたが						
+Date_VILLAIN_F_01ID	71	Walther	ワルター	結果、体力がつき、より長く研究が\nできるようになりました						
+Date_VILLAIN_F_01ID	72	Walther	ワルター	ロジー殿もいかがでしょう？\nあなたの情報を私に提供していただければ、\n完璧な生活計画を立ててみせましょう						
+Date_VILLAIN_F_01ID	73	Logy	ロジー	いや、遠慮するよ……						
+Date_VILLAIN_F_01ID	74	Walther	ワルター	残念です。異邦人の身体記録、\nとても興味深いのですが……						
+Date_VILLAIN_F_01ID	75	Logy	ロジー	（錬金党の一人だと聞いていたはずだが……\n　もしかしてただの研究バカなのか？）						
+Date_VILLAIN_F_02ID	0	Logy	ロジー	（ここ最近調査に出てばかりだったし、\n　今日はゆっくり休むとしよう。\n　ワルター監視の依頼もないみたいだ）						
+Date_VILLAIN_F_02ID	1	Logy	ロジー	（……と、思っていたのだが）						
+Date_VILLAIN_F_02ID	2	Walther	ワルター	ふむ……						
+Date_VILLAIN_F_02ID	3	Logy	ロジー	（なぜかワルターがいて、俺のことを\n　ずっと見てくる）						
+Date_VILLAIN_F_02ID	4		選択肢	なんでついてくるんだ						
+Date_VILLAIN_F_02ID	5	Logy	ロジー	おい。なんでついてくるんだ						
+Date_VILLAIN_F_02ID	6	Walther	ワルター	なぜって……私はあなたの監視対象\nですから、あなたの視界に入っているのは\n当然でしょう						
+Date_VILLAIN_F_02ID	7	Logy	ロジー	その自覚は大変素晴らしいが、\nそれじゃあ俺が動かないとワルターも\n動けないだろ						
+Date_VILLAIN_F_02ID	8	Walther	ワルター	ええ。ですから、移動する際は\nあなたの許可をとるつもりでしたよ						
+Date_VILLAIN_F_02ID	9	Logy	ロジー	（とても面倒だと思う）						
+Date_VILLAIN_F_02ID	10		選択肢	何をしているんだ						
+Date_VILLAIN_F_02ID	11	Logy	ロジー	何をしているんだ？						
+Date_VILLAIN_F_02ID	12	Walther	ワルター	私はあなたの監視対象ですから、\nそれらしく振舞ってみようと思いまして						
+Date_VILLAIN_F_02ID	13	Walther	ワルター	私は観察することばかりで、\nされる側になることはないですから、\nなかなか新鮮な体験でとても面白いです						
+Date_VILLAIN_F_02ID	14	Logy	ロジー	（初めての体験であれば、\n　なんでもかんでも面白いと言いそうだな、\n　ワルターは）						
+Date_VILLAIN_F_02ID	15		選択肢	ちょっと近すぎないか						
+Date_VILLAIN_F_02ID	16	Logy	ロジー	何をしているのか分からないが、\nちょっと近すぎやしないか						
+Date_VILLAIN_F_02ID	17	Walther	ワルター	これは、失礼いたしました。\nですが遠慮なさらず。どうぞ、\n隅から隅まで、私のことを監視いただければ						
+Date_VILLAIN_F_02ID	18	Logy	ロジー	監視であって観察じゃないんだ。\nこんなに近い必要はないだろ……						
+Date_VILLAIN_F_02ID	19	Walther	ワルター	一挙手一投足を見ておく必要があるのでは\nないですか？　それであれば、\n見逃さないよう近いほうがいいでしょう						
+Date_VILLAIN_F_02ID	20	Logy	ロジー	（信じられないことだが、\n　これはワルターなりの気遣い…なのか？）						
+Date_VILLAIN_F_02ID	21	Logy	ロジー	俺は今日、休みなんだ。\nだからお前も俺についている必要はないぞ						
+Date_VILLAIN_F_02ID	22	Logy	ロジー	今日は別の騎士が少し離れた所から\nお前を監視するらしい						
+Date_VILLAIN_F_02ID	23	Walther	ワルター	そうなのですか。それは失礼しました。\n私のことは気にせず、存分にお休みください						
+Date_VILLAIN_F_02ID	24	Logy	ロジー	（ふう……引き下がってくれて助かった。\n　貴重な休日がなくなるところだった）						
+Date_VILLAIN_F_02ID	25	Logy	ロジー	（さて、それじゃあ何をしよう。\n　たまっていた本を読むのもいいな）						
+Date_VILLAIN_F_02ID	26	Logy	ロジー	（そういえば、エスカはどこにいるんだ？\n　暇をしているのなら、\n　一緒に出かけるのも……）						
+Date_VILLAIN_F_02ID	27	Walther	ワルター	…………						
+Date_VILLAIN_F_02ID	28	Logy	ロジー	…………						
+Date_VILLAIN_F_02ID	29		選択肢	なんでついてくるんだ						
+Date_VILLAIN_F_02ID	30	Logy	ロジー	なんでついてくるんだ！						
+Date_VILLAIN_F_02ID	31	Walther	ワルター	知りたいのです。\n異邦人の錬金術士がどのような休日を\n過ごすのかを！						
+Date_VILLAIN_F_02ID	32	Logy	ロジー	……もしかして、普段監視していることに\n対する当てつけか？						
+Date_VILLAIN_F_02ID	33	Walther	ワルター	…………？　何を言っているのです？\n私はただただあなたに興味があるだけです						
+Date_VILLAIN_F_02ID	34		選択肢	何をしているんだ						
+Date_VILLAIN_F_02ID	35	Logy	ロジー	……何をしているんだ？						
+Date_VILLAIN_F_02ID	36	Walther	ワルター	ロジー殿を観察しているのです。\n異邦人の私生活、非常に興味深い！						
+Date_VILLAIN_F_02ID	37	Logy	ロジー	そんなことをしていいと思っているのか？						
+Date_VILLAIN_F_02ID	38	Walther	ワルター	観察してはいけないとは\n言われてませんからね						
+Date_VILLAIN_F_02ID	39	Logy	ロジー	（詭弁だ！）						
+Date_VILLAIN_F_02ID	40		選択肢	……小遣いやるから、どこか行ってこい						
+Date_VILLAIN_F_02ID	41	Logy	ロジー	……小遣いをやる。\nこれでどこかへ行ってくれ						
+Date_VILLAIN_F_02ID	42	Walther	ワルター	……ロジー殿は、クリセルダのようなことを\nしますね。彼女と同じく、金銭にあまり\n頓着がない私を気遣ってのことでしょうが						
+Date_VILLAIN_F_02ID	43	Logy	ロジー	冗談だ。それとついてこなくていい						
+Date_VILLAIN_F_02ID	44	Walther	ワルター	いえ。私はロジー殿と一緒にいたい。\nあなたに興味がある						
+Date_VILLAIN_F_02ID	45	Logy	ロジー	（なんということだ。恐ろしいことに、\n　本当にただただ俺に\n　興味があるだけらしい）						
+Date_VILLAIN_F_02ID	46	Logy	ロジー	（ここで満足させておかないと、\n　今後ずっと付きまとわれる\n　かもしれないな）						
+Date_VILLAIN_F_02ID	47	Logy	ロジー	はあ……分かった。好きにしろ						
+Date_VILLAIN_F_02ID	48	Walther	ワルター	ありがとうございます。\nでは、お言葉に甘えて、隅から隅まで\n見させていただきますとも						
+Date_VILLAIN_F_02ID	49	Logy	ロジー	（……出かけるのは止めて、\n　カフェに食事でも行くか）						
+Date_VILLAIN_F_02ID	50	Walther	ワルター	……ああ、私のことは気にせず\nお好きなものを食べてください						
+Date_VILLAIN_F_02ID	51	Logy	ロジー	（そして、当然のように相席で座ると）						
+Date_VILLAIN_F_02ID	52	Walther	ワルター	何を注文されるのですか？						
+Date_VILLAIN_F_02ID	53		選択肢	がっつりお肉系のメニュー						
+Date_VILLAIN_F_02ID	54	Logy	ロジー	この肉料理を注文しようと思っている						
+Date_VILLAIN_F_02ID	55	Walther	ワルター	ふむふむ。\n肉料理が好きなのでしょうか？						
+Date_VILLAIN_F_02ID	56	Logy	ロジー	まあ、なぜか疲労感があるしな。\n体力をつけておこうと思って						
+Date_VILLAIN_F_02ID	57	Walther	ワルター	ただこれだと栄養の偏りがあります。\n普段は野菜もとっていますか？						
+Date_VILLAIN_F_02ID	58	Logy	ロジー	ああ。一応そのあたりは気を付けている\nつもりだが……						
+Date_VILLAIN_F_02ID	59	Walther	ワルター	複数の品が出ている場合、食べる順番でも\n栄養の吸収のされ方が異なるといいます。\n私の研究によると……						
+Date_VILLAIN_F_02ID	60	Logy	ロジー	（俺より不健康そうな奴に、\n　めちゃくちゃ健康について語られた）						
+Date_VILLAIN_F_02ID	61		選択肢	海の魚系のメニュー						
+Date_VILLAIN_F_02ID	62	Logy	ロジー	この魚料理を注文しようと思っている						
+Date_VILLAIN_F_02ID	63	Walther	ワルター	海の魚ですか。\nこれは栄養豊富でとてもいい食材です。\n普段から食べられるのですか？						
+Date_VILLAIN_F_02ID	64	Logy	ロジー	俺の世界に海はなかったからな。\nつい珍しくて頼んでしまうんだ						
+Date_VILLAIN_F_02ID	65	Walther	ワルター	なんと。もしやこの世界で初めて\n魚を目にしたのですか？						
+Date_VILLAIN_F_02ID	66	Logy	ロジー	魚自体は見たことあるよ。\nでも、ここまで種類は豊富じゃなかった。\n味も……この世界の魚は美味しいな						
+Date_VILLAIN_F_02ID	67	Walther	ワルター	……心中お察しします						
+Date_VILLAIN_F_02ID	68		選択肢	野菜中心のメニュー						
+Date_VILLAIN_F_02ID	69	Logy	ロジー	この野菜の料理を注文しようと思っている						
+Date_VILLAIN_F_02ID	70	Walther	ワルター	肉でも魚でもなく野菜をとるのですね。\nこれは意外でした						
+Date_VILLAIN_F_02ID	71	Logy	ロジー	そんなに野菜をとらないように見えるか？						
+Date_VILLAIN_F_02ID	72	Walther	ワルター	私と違ってあなたは活動量が\n多そうですからね。そういった方は\n肉を好む傾向にあります						
+Date_VILLAIN_F_02ID	73	Walther	ワルター	普段から野菜を積極的にとっているの\nですか？　それとも、今日がそういう\n気分だったというだけでしょうか？						
+Date_VILLAIN_F_02ID	74	Logy	ロジー	気分だ。肉でも魚でもいいと思っていたしな						
+Date_VILLAIN_F_02ID	75	Walther	ワルター	好みの偏りがあるわけではないということ\nですね						
+Date_VILLAIN_F_02ID	76	Walther	ワルター	他にもお尋ねしたいことが\nたくさんあるのですが、\n続けて質問しても？						
+Date_VILLAIN_F_02ID	77	Logy	ロジー	あ、ああ。大丈夫だ。\n今日はとことん付き合ってやる						
+Date_VILLAIN_F_02ID	78	Walther	ワルター	嬉しい限りです。\nでは、次の質問ですが……						
+Date_VILLAIN_F_02ID	79	Logy	ロジー	（その後も彼の好奇心の赴くままに、\n　色々な質問を受けた）						
+Date_VILLAIN_F_02ID	80	Logy	ロジー	（相手にするのは疲れるが、\n　俺のことを知るにつれて、\n　俺に合わせた配慮も見せるようになった）						
+Date_VILLAIN_F_02ID	81	Logy	ロジー	（ただただ好奇心が旺盛なだけで、\n　思っていたより悪い奴では\n　ないかもしれない……）						
+Date_VILLAIN_F_03ID	0	Logy	ロジー	（今日もワルターの監視役を任された。\n　最近、依頼されることが増えている気がする）						
+Date_VILLAIN_F_03ID	1	Logy	ロジー	（もしかして、ワルターの要望なのか？\n　信頼されているなら悪い気はしないが……）						
+Date_VILLAIN_F_03ID	2	Walther	ワルター	お待たせしました、ロジー殿						
+Date_VILLAIN_F_03ID	3	Logy	ロジー	いや、時間通りだ。それで、今日はどこへ向かうんだ？\n事前の申請に具体的な場所は書いていなかったが……						
+Date_VILLAIN_F_03ID	4	Walther	ワルター	ロジー殿の行きたい場所にお供したいと思いまして。\n先日は私の行きたい場所に来ていただきましたから						
+Date_VILLAIN_F_03ID	5	Logy	ロジー	俺の？　……いやダメだ、お前は研究の名目で\nある程度自由な行動が許されているんだから						
+Date_VILLAIN_F_03ID	6	Walther	ワルター	では、異邦人の研究を行うという体で。\nいかがでしょう？						
+Date_VILLAIN_F_03ID	7	Logy	ロジー	……仕方ないな。それなら……						
+Date_VILLAIN_F_03ID	8	Logy	ロジー	……頂獣の痕跡はこんなところか。						
+Date_VILLAIN_F_03ID	9	Walther	ワルター	ロジー殿は頂獣について調べているのですね。\n少し、お話をお伺いしても？						
+Date_VILLAIN_F_03ID	10	Logy	ロジー	ああ。なんだ？						
+Date_VILLAIN_F_03ID	11	Walther	ワルター	初めてお会いした時、ロジー殿は王国騎士に\n協力していると言っていましたね。何故協力を？						
+Date_VILLAIN_F_03ID	12	Logy	ロジー	俺はこの世界の未踏の地に興味があるんだ。\nだがそこに向かうには、頂獣が障害だった						
+Date_VILLAIN_F_03ID	13	Logy	ロジー	だからまずは頂獣について調べていて、そこで騎士と\n知り合い、協力関係になったんだよ						
+Date_VILLAIN_F_03ID	14	Walther	ワルター	なるほど……この海の向こうに興味があるのですね						
+Date_VILLAIN_F_03ID	15	Walther	ワルター	あなたが未踏の地と考えているであろう、\n無数島群域に私は行ったことがあります						
+Date_VILLAIN_F_03ID	16	Logy	ロジー	本当か？　どんな場所だった？						
+Date_VILLAIN_F_03ID	17	Walther	ワルター	そこの話でよければいくらでもしますよ。\nその代わりと言ってはなんですが、私も聞きたいことが						
+Date_VILLAIN_F_03ID	18	Logy	ロジー	なるほど。俺のことが聞きたいんだな						
+Date_VILLAIN_F_03ID	19	Walther	ワルター	ええ。ロジー殿のこと。そして、あなたがいた\n世界について興味があります						
+Date_VILLAIN_F_03ID	20	Logy	ロジー	……いいだろう。取引成立だ						
+Date_VILLAIN_F_03ID	21	Logy	ロジー	俺は元の世界では、未開発地方特別調査局の、\n開発班の一員として働いている						
+Date_VILLAIN_F_03ID	22	Logy	ロジー	分かりやすく言うと、そうだな……。\n地方の町役場の職員と思ってもらえばいい						
+Date_VILLAIN_F_03ID	23	Logy	ロジー	そこで俺達は、大地が痩せ、水が枯れる現象……\n“黄昏”について調べていた――						
+Date_VILLAIN_F_03ID	24	Walther	ワルター	……いやはや。大変興味深いお話でした。\nそちらの世界の錬金術は興味深い発展を遂げていますね						
+Date_VILLAIN_F_03ID	25	Walther	ワルター	ロジー殿の錬金剣にもそれが現れている。\nぜひ詳しく見てみたいものです						
+Date_VILLAIN_F_03ID	26	Logy	ロジー	そちらも、無数島群域の話はとても参考になった。\nなんとしてもそこへ行ってみたくなったよ						
+Date_VILLAIN_F_03ID	27	Walther	ワルター	それにしても、“黄昏”ですか……						
+Date_VILLAIN_F_03ID	28	Walther	ワルター	話を聞く限り、生物に死が来るように、世界の死という\n現象そのものなのかもしれないですね						
+Date_VILLAIN_F_03ID	29	Walther	ワルター	なんとかそちらの世界に行けるようにならないで\nしょうか。ぜひその“黄昏”を調べてみたいものです						
+Date_VILLAIN_F_03ID	30	Walther	ワルター	研究者の血が騒ぐのですよ。\n“黄昏”の理を、錬金術の叡智で覆してみたいと！！						
+Date_VILLAIN_F_03ID	31	Logy	ロジー	（研究熱心なワルターらしい言葉だ）						
+Date_VILLAIN_F_03ID	32	Logy	ロジー	（ワルターならその理を極地まで突き詰めて、\n　何かやってのけるかもしれない。だが……）						
+Date_VILLAIN_F_03ID	33	Logy	ロジー	（“黄昏”はそういった錬金術士の驕りが生んだ罪。\n　理を覆すなど……安易にやるのは危険だ）						
+Date_VILLAIN_F_03ID	34	Logy	ロジー	（……まあ、それ以前にこっちの世界の遺跡に\n　連れて行ったら興奮で倒れてしまいそうだけどな）						
+Date_VILLAIN_F_04ID	0	Logy	ロジー	……以上がワルターに関する報告です。\n好奇心が非常に強いのは気になりますが、\n思っているより悪い奴ではなさそうです						
+Date_VILLAIN_F_04ID	1	Brad	ブラッド	そうか、分かった。\n引き続き、警戒してくれ						
+Date_VILLAIN_F_04ID	2	Brad	ブラッド	それと……日頃の監視役、感謝する						
+Date_VILLAIN_F_04ID	3	Walther	ワルター	おや、これはロジー殿						
+Date_VILLAIN_F_04ID	4	Logy	ロジー	ワルターか。奇遇だな						
+Date_VILLAIN_F_04ID	5	Walther	ワルター	王宮にご用事が？\n今日の監視役はあなたではなかったはず\nですが……いや						
+Date_VILLAIN_F_04ID	6	Walther	ワルター	なるほど、私のことをブラッド殿に\n報告していたのですね						
+Date_VILLAIN_F_04ID	7	Logy	ロジー	（よく分かったな……）						
+Date_VILLAIN_F_04ID	8	Walther	ワルター	……突然このような質問をして\n恐縮なのですが						
+Date_VILLAIN_F_04ID	9	Walther	ワルター	ロジー殿は私のことを\nどう思っているのでしょう？						
+Date_VILLAIN_F_04ID	10	Logy	ロジー	お前のことを……？						
+Date_VILLAIN_F_04ID	11	Logy	ロジー	（どう思っているか、か。\n　正直なところ……）						
+Date_VILLAIN_F_04ID	12	Logy	ロジー	（ここしばらく行動を共にしてきて、\n　最初の印象からだいぶ変わった。\n　それを正直に言えばいいだろう）						
+Date_VILLAIN_F_04ID	13		選択肢	元錬金党の要注意人物						
+Date_VILLAIN_F_04ID	14	Logy	ロジー	元錬金党の要注意人物という認識だ						
+Date_VILLAIN_F_04ID	15	Walther	ワルター	……手厳しいですね。\nですが、事実です。受け入れましょう						
+Date_VILLAIN_F_04ID	16	Walther	ワルター	やはり一度犯した罪というものを\n拭うのは大変ですね。それを理解した上で\n犯罪に手を染めたはずなのですが						
+Date_VILLAIN_F_04ID	17	Logy	ロジー	後悔しているということは、\nその時のワルターからは変わったという\nことだろう						
+Date_VILLAIN_F_04ID	18	Walther	ワルター	そうなのでしょう。\n面白いものですね、人の変化というものは						
+Date_VILLAIN_F_04ID	19		選択肢	知識の探求に一生懸命な男						
+Date_VILLAIN_F_04ID	20	Logy	ロジー	知識の探求に一生懸命な男という認識だ						
+Date_VILLAIN_F_04ID	21	Walther	ワルター	おお。異邦人の錬金術士の方に\nそう評価していただけるなんて光栄ですね						
+Date_VILLAIN_F_04ID	22	Logy	ロジー	そのひたむきな姿勢がワルターらしさでも\nあり、長所でもある。\n短所ともなりえるが……						
+Date_VILLAIN_F_04ID	23	Walther	ワルター	はい。それは重々承知しております						
+Date_VILLAIN_F_04ID	24		選択肢	モノクル男						
+Date_VILLAIN_F_04ID	25	Logy	ロジー	そうだな……モノクル男……か？						
+Date_VILLAIN_F_04ID	26	Walther	ワルター	ふむ。それも事実ですが、\nここまで時間を共にしてきての印象が\n装飾品というのは寂しいですね						
+Date_VILLAIN_F_04ID	27	Logy	ロジー	……悪い、思ったことを言葉にするのが\n得意じゃないんだ						
+Date_VILLAIN_F_04ID	28	Logy	ロジー	それにしても、急にどうしたんだ？\n自分の印象なんか聞いてきて						
+Date_VILLAIN_F_04ID	29	Walther	ワルター	いえ。私はよく変人などと言われていた\nものですから						
+Date_VILLAIN_F_04ID	30	Walther	ワルター	私を監視していたロジー殿から\nどう見えているのか、少し気になりまして						
+Date_VILLAIN_F_04ID	31	Logy	ロジー	ワルターでも、人の評価を気にするんだな						
+Date_VILLAIN_F_04ID	32	Walther	ワルター	なにせこのような身分ですからね。\nそれに、私にも不安があるのです。\n自らに課した規律が正しいのか						
+Date_VILLAIN_F_04ID	33	Logy	ロジー	規律……？						
+Date_VILLAIN_F_04ID	34	Walther	ワルター	研究者の多くは、社会性などが破綻して\nいます。私の両親もそうでした						
+Date_VILLAIN_F_04ID	35	Walther	ワルター	その分、自分の中での規律はしっかり\nしている。私も人の道だけは外れないように\n心掛けているつもりなのです						
+Date_VILLAIN_F_04ID	36		選択肢	信じていいんだな						
+Date_VILLAIN_F_04ID	37	Logy	ロジー	信じていいんだな。\nその規律を守ってくれると						
+Date_VILLAIN_F_04ID	38	Walther	ワルター	はい。錬金術に誓って						
+Date_VILLAIN_F_04ID	39	Logy	ロジー	それならいいんだ。少なくとも\n今のワルターが間違ったことを\nしているとは思えない						
+Date_VILLAIN_F_04ID	40	Walther	ワルター	……ロジー殿は、私を犯罪者としてではなく\n一人の人間として見てくれているのですね						
+Date_VILLAIN_F_04ID	41		選択肢	両親も研究者なのか？						
+Date_VILLAIN_F_04ID	42	Logy	ロジー	両親も研究者なのか？						
+Date_VILLAIN_F_04ID	43	Walther	ワルター	ええ、そうですが……興味があるのですか？\n言葉の通りで、あなたに語ることも\n特にありませんが						
+Date_VILLAIN_F_04ID	44	Logy	ロジー	もっとワルターのことを知れたらと\n思ったんだが……気に障ったか？						
+Date_VILLAIN_F_04ID	45	Walther	ワルター	いえ。意図は分かりましたが、\n私が話したかったのはそこではないのです						
+Date_VILLAIN_F_04ID	46		選択肢	……そうは思えない						
+Date_VILLAIN_F_04ID	47	Logy	ロジー	……そうは思えないな。\n規律を守れないから、\nこうして監視されているんじゃないか？						
+Date_VILLAIN_F_04ID	48	Walther	ワルター	ええ、私の中の規律と、あなたたちの\n規律は違いますからね						
+Date_VILLAIN_F_04ID	49	Walther	ワルター	今後、研究を続けていくためには\nそこを改めていかねばならないのは\n理解しているつもりです						
+Date_VILLAIN_F_04ID	50	Walther	ワルター	今はそのズレも改めたつもりです						
+Date_VILLAIN_F_04ID	51	Walther	ワルター	とにかく伝えたいのは……\n私は研究のために素材を独占しても、\n研究の過程で人を殺める所まではしません						
+Date_VILLAIN_F_04ID	52	Walther	ワルター	そう、心に決めているということです						
+Date_VILLAIN_F_04ID	53	Logy	ロジー	それを考えるのも重要だろう\nたとえば人造頂獣は、どうなんだ。\n大量破壊を引き起こしていたかもしれない						
+Date_VILLAIN_F_04ID	54	Walther	ワルター	使う人次第ですよ。フラムを\n土木工事に使うか、生命に投げつけるか。\nそれと同じです						
+Date_VILLAIN_F_04ID	55	Logy	ロジー	結果的にレスナが使い方を\n模索してくれているが、\n当初は明らかに破壊目的だったろう						
+Date_VILLAIN_F_04ID	56	Walther	ワルター	私の中では、そこは問題の無い線引きでした						
+Date_VILLAIN_F_04ID	57	Logy	ロジー	（……俺は知っている。過ぎた力が\n　世界にどのような影響を与えるか）						
+Date_VILLAIN_F_04ID	58	Logy	ロジー	（研究者としての気持ちも分かる。\n　俺だって元は一介の研究者\n　だったんだから）						
+Date_VILLAIN_F_04ID	59	Logy	ロジー	（でも、だからこそ。\n　研究者は己を律し続けなければ\n　ならない）						
+Date_VILLAIN_F_04ID	60		選択肢	自分に厳しくなれ						
+Date_VILLAIN_F_04ID	61	Logy	ロジー	お前の中の規律。これからは、\nもう少しだけ厳しくしてくれないか						
+Date_VILLAIN_F_04ID	62	Logy	ロジー	調合前に、一度、調合するものについて\nよく考えてほしい。それが、世界に……\n人にどんな影響を与えるかを						
+Date_VILLAIN_F_04ID	63	Logy	ロジー	考えが不足した結果訪れた未来が、\n俺たちの世界なんだ						
+Date_VILLAIN_F_04ID	64	Walther	ワルター	……！　“黄昏”ですか						
+Date_VILLAIN_F_04ID	65	Walther	ワルター	どんな影響があったとしても、理を探求して\n覆せばいい。そう思っておりましたが……						
+Date_VILLAIN_F_04ID	66	Walther	ワルター	それは私の驕りだったのかもしれませんね						
+Date_VILLAIN_F_04ID	67		選択肢	二度と危険なものは調合するな						
+Date_VILLAIN_F_04ID	68	Logy	ロジー	二度と危険なものは調合するな。\n皆が皆、正しい使い方ができるとは限らない						
+Date_VILLAIN_F_04ID	69	Walther	ワルター	……ロジー殿の仰ることも\n分かります。ですが、それが人々の\n希望となることだってあるはずです						
+Date_VILLAIN_F_04ID	70	Walther	ワルター	その芽が潰えてしまうのですよ？						
+Date_VILLAIN_F_04ID	71	Logy	ロジー	危険を冒してまでやることじゃない						
+Date_VILLAIN_F_04ID	72	Walther	ワルター	研究にある程度の危険は付き物です。\nそこは相容れないかもしれませんね						
+Date_VILLAIN_F_04ID	73		選択肢	今後の調合品は俺がすべて監督する						
+Date_VILLAIN_F_04ID	74	Logy	ロジー	今後のワルターが調合するものは\n俺がすべて監督する。\nそうすれば間違いは起きないはずだ						
+Date_VILLAIN_F_04ID	75	Walther	ワルター	私の調合品についてロジー殿から\n意見をいただけるのは非常に嬉しいですが、\n非現実的な提案じゃないでしょうか						
+Date_VILLAIN_F_04ID	76	Walther	ワルター	四六時中私のそばにいる必要が\n出てきてしまいます						
+Date_VILLAIN_F_04ID	77	Logy	ロジー	（言っておいてなんだが、\n　確かに無理があるか……）						
+Date_VILLAIN_F_04ID	78	Walther	ワルター	ご忠告ありがとうございます。\nそれも今後、長く研究を続けるため、ですね						
+Date_VILLAIN_F_04ID	79	Logy	ロジー	分かってくれるのか						
+Date_VILLAIN_F_04ID	80	Walther	ワルター	ええ。ロジー殿のいうことであれば、\n間違いないでしょうから						
+Date_VILLAIN_F_04ID	81	Walther	ワルター	私の中の規律を、さらに改めるとしましょう						
+Date_VILLAIN_F_04ID	82	Logy	ロジー	ああ。そうしてくれると助かる						
+Date_VILLAIN_F_04ID	83	Logy	ロジー	（ワルターの研究力は確かなものだ。\n　使う方向を間違えなければ、\n　それはきっと社会のためになるはず）						
+Date_VILLAIN_F_04ID	84	Logy	ロジー	（人は変わる。罪だって償える。\n　俺が見てきたワルターを信じてやるんだ）						
+Date_VILLAIN_F_04ID	85	Walther	ワルター	色々話してくださりありがとう\nございました。残念ながら、\n分かり合うことはできないようですが						
+Date_VILLAIN_F_04ID	86	Walther	ワルター	私はただ、知を求めているだけ。\nロジー殿の期待に応えるのは難しい話です						
+Date_VILLAIN_F_04ID	87	Logy	ロジー	（結局、ワルターと分かり合うことは\n　できなかった）						
+Date_VILLAIN_F_04ID	88	Logy	ロジー	（ブラッドさんの言うとおり、\n　やはりワルターは危険人物なのか……？）						
+Date_VILLAIN_F_04ID	89	Logy	ロジー	研究過程で人は殺めない、それは\n資料を見て、守っていたのは分かるが\n生み出したものが、何をもたらすのか…						
+Date_VILLAIN_F_05ID	0	Logy	ロジー	本当に見てもいいんだな？						
+Date_VILLAIN_F_05ID	1	Walther	ワルター	ええ。ロジー殿のことは信頼して\nいますから。\nそれに……						
+Date_VILLAIN_F_05ID	2	Walther	ワルター	あなたの物だって見せてもらうのです。\nその信頼には答えねばなりません						
+Date_VILLAIN_F_05ID	3	Logy	ロジー	分かった、それじゃあ見せてもらうぞ						
+Date_VILLAIN_F_05ID	4	Walther	ワルター	おお、これがロジー殿の錬金剣……。\n想像していた通り、素晴らしい出来です						
+Date_VILLAIN_F_05ID	5	Logy	ロジー	ワルターの剣もすごいな……。複雑な機構だとは\n思っていたが、それぞれにちゃんと意味がある						
+Date_VILLAIN_F_05ID	6	Walther	ワルター	調合品には錬金術士の個性が出ますからね。\n自分だけが使う武器となればなおさらです						
+Date_VILLAIN_F_05ID	7	Walther	ワルター	これを見るだけでロジー殿の人となりが\n伝わってきますよ						
+Date_VILLAIN_F_05ID	8	Logy	ロジー	そう言われるとなんだか恥ずかしいな						
+Date_VILLAIN_F_05ID	9	Walther	ワルター	恥ずかしがることはないでしょう。\nあなたのまっすぐな心が見えているのですから						
+Date_VILLAIN_F_05ID	10	Walther	ワルター	それに私だってあなたにさらけ出しているのですよ						
+Date_VILLAIN_F_05ID	11	Logy	ロジー	まあ、そうか……						
+Date_VILLAIN_F_05ID	12	Walther	ワルター	そうだ、これを受け取ってください						
+Date_VILLAIN_F_05ID	13	Logy	ロジー	これは……？						
+Date_VILLAIN_F_05ID	14	Walther	ワルター	ロジー殿の錬金剣用に調合した特製の砥石です。\n私の見立てに間違いがなければ切れ味が上がるはず						
+Date_VILLAIN_F_05ID	15	Logy	ロジー	いいのか？						
+Date_VILLAIN_F_05ID	16	Walther	ワルター	ええ。あなたには色々お世話になりましたから。\nあなたが監視役で良かったです						
+Date_VILLAIN_F_05ID	17	Logy	ロジー	そう言ってもらえるならこっちも良かったよ						
+Date_VILLAIN_F_05ID	18	Walther	ワルター	いやはや、ありがとうございました。\n異邦人の調合したものをじっくり観察\nできるなんて夢のようです						
+Date_VILLAIN_F_05ID	19	Walther	ワルター	ぜひこれからも色々お話を\n聞かせてください。\nあなたとは長い付き合いになりそうですから						
+Date_VILLAIN_F_05ID	20	Logy	ロジー	ああ。こちらこそよろしく頼むよ						
+Date_VILLAIN_F_05ID	21	Logy	ロジー	（……こうして彼と接してみて\n　分かったことがある）						
+Date_VILLAIN_F_05ID	22	Logy	ロジー	（元極夜の錬金党、ワルター。\n　知らない知識に目を輝かせる彼は、\n　根っからの悪い奴ではない）						
+Date_VILLAIN_F_05ID	23	Logy	ロジー	（大丈夫。遅くはない。\n　罪はきっと、償えるはずなのだから）						

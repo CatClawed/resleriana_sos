@@ -1,0 +1,934 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_13_001ID	0	Flocke	フロッケ	それにしても、この間の初航海は大成功でしたね！\n踊り出したくなるぐらいに	Flocke	Our first voyage really was a huge success! It almost makes me want to dance!	芙洛可	说起来，首次航行圆满成功了呢！\n我都高兴得想跳起舞来了。	芙洛可	話說回來，之前的首次航行非常成功呢！\n都讓人想跳舞了。
+TalkEvent_13_001ID	1	Valeria	ヴァレリア	そ、そう？　踊っちゃう？	Valeria	O-Oh? Shall we dance, then?	瓦莱莉娅	是、是吗？要跳舞吗？	瓦萊莉婭	這、這樣啊？那要跳嗎？
+TalkEvent_13_001ID	2	Heidi	ハイディ	いや踊らなくていいから	Heidi	No. No need to dance.	海蒂	不不，不用跳了吧。	海蒂	不用，就別跳了吧。
+TalkEvent_13_001ID	3	Flocke	フロッケ	現地を見たことで、フロッケは\nオアゼス州への行商の販路を色々煮詰められました	Flocke	Seeing the place in person really helped me work out the details for peddling routes with Oazes.	芙洛可	根据当地情况，芙洛可已经总结出了\n将商品销往奥亚泽斯州的方法。	芙洛可	勘查過當地之後，芙洛可對於奧亞塞斯州的銷售通路\n研究出了最終結論。
+TalkEvent_13_001ID	4	Totori	トトリ	ふふっ。フロッケさん、抜かりないですね！	Totori	Hehe, you're always so on top of things, Flocke!	托托莉	呵呵，芙洛可小姐做事真是滴水不漏呢！	托托莉	呵呵，芙洛可小姐做事真是滴水不漏！
+TalkEvent_13_001ID	5	Lanze	ランツェ	ようし！　行商きっちり成功させような！	Lanze	Great! Let's make sure this peddling works out!	兰泽	好！我们一定要让生意蒸蒸日上！	藍澤	好！就讓經商徹底成功吧！
+TalkEvent_13_001ID	6	Flocke	フロッケ	もちろんです！　オアゼス州のお料理も覚えて\n皆さんに食べていただきたいですし！	Flocke	I'm sure it will! Plus, I've picked up some cooking ideas in Oazes and would love for everyone to try them!	芙洛可	那是自然！\n另外我还想学会奥亚泽斯州的料理做给大家吃！	芙洛可	當然！我也想學會奧亞塞斯州的料理給大家嘗嘗！
+TalkEvent_13_001ID	7	Heidi	ハイディ	そりゃあ楽しみだ！　あそこらへん、\n羊の肉料理とか美味しいみたいよ、相棒！	Heidi	I can't wait! I heard the lamb dishes around here are really tasty!	海蒂	好期待啊！\n那里的羊肉料理好像也很好吃哦，搭档！	海蒂	那真是令人期待！\n搭檔，聽說那一帶的羊肉料理很好吃喔！
+TalkEvent_13_001ID	8	Valeria	ヴァレリア	素敵ね。私も目いっぱい協力しちゃうわ！	Valeria	Sounds delicious. I'll do my best to help out wherever I can!	瓦莱莉娅	太好了，我会全力协助的！	瓦萊莉婭	太棒了，我也會盡全力協助的！
+TalkEvent_13_001ID	9	Valeria	ヴァレリア	（頂獣と戦った褒美として、私たちは国から\n　１隻の船をもらった。船長はランツェだ）	Valeria	(As a reward for defeating the Apexi, the kingdom gave us a ship. Lanze is our captain.)	瓦莱莉娅	（作为与顶兽战斗的奖励，\n　王国赠予我们一艘船，而船长就是兰泽。）	瓦萊莉婭	（因為我們與頂獸戰鬥，國家送了一艘船\n　給我們當作獎勵。而船長是藍澤。）
+TalkEvent_13_001ID	10	Valeria	ヴァレリア	（船乗りとして鈍った勘を取り戻すため、ランツェと\n　私たち、トトリはオアゼス州へ初航海。そこで……）	Valeria	(To regain his intuition as a sailor, Lanze, Totori, and I took our first voyage to the Oazes Province.)	瓦莱莉娅	（为了重新锻炼海员直觉，兰泽带着托托莉和我们几个\n　踏上首次航行，前往奥亚泽斯州。在那里……）	瓦萊莉婭	（為了找回當年身為船員的直覺，藍澤和我們以及托托莉\n　首次航行前往奧亞塞斯州。在那裡……）
+TalkEvent_13_001ID	11	Valeria	ヴァレリア	（フロッケはずっと探していた両親らしい男女と\n　出会った。でも、彼らは人違いだと言った）	Valeria	(There, Flocke met a couple who seemed to be her long-lost parents. But they said she had the wrong people.)	瓦莱莉娅	（芙洛可看到了一对男女，疑似她一直在寻找的父母。\n　但他们说她认错人了。）	瓦萊莉婭	（芙洛可遇到了一對男女，很像是她一直在尋找的雙親。\n　但他們卻說是認錯人了。）
+TalkEvent_13_001ID	12	Valeria	ヴァレリア	（怪しいと思った私とランツェ、ハイディは、\n　こっそり彼らの動きを探ってみた。そうしたら……）	Valeria	(Lanze, Heidi, and I found them suspicious, so we secretly investigated their actions, where we discovered a sad truth...)	瓦莱莉娅	（兰泽、海蒂和我觉得可疑，\n　就偷偷查探了他们的行动，结果发现……）	瓦萊莉婭	（我、藍澤和海蒂覺得事有蹊蹺，\n　於是偷偷探查他們的行動，結果……）
+TalkEvent_13_001ID	13	Valeria	ヴァレリア	（その二人は、ずっと放っておいたフロッケを\n　利用して儲けようと企んでた……実の親だった）	Valeria	(The couple were in fact Flocke's real parents, who had abandoned her, and were now planning to exploit her for profit.)	瓦莱莉娅	（那两个人真的是芙洛可的亲生父母，他们不仅长期\n　抛下芙洛可不管，现在更是企图利用她赚钱……）	瓦萊莉婭	（那兩個人是她真正的親生父母……\n　之前一直丟著芙洛可不管，現在卻想利用她來賺錢。）
+TalkEvent_13_001ID	14	Valeria	ヴァレリア	（当然、私たちはそんな奴らを\n　放っておくわけにはいかなかった）	Valeria	(Of course, we couldn't let those scoundrels get away with it.)	瓦莱莉娅	（当然，我们不会放任他们胡作非为。）	瓦萊莉婭	（當然，我們不能放任這種傢伙得逞。）
+TalkEvent_13_001ID	15	Valeria	ヴァレリア	（ランツェはこの最低な両親に向かって、二度と\n　フロッケに近づくなと言った）	Valeria	(Lanze confronted the despicable pair and told them never to approach Flocke again.)	瓦莱莉娅	（兰泽警告那对混蛋父母，\n　不准他们再接近芙洛可。）	瓦萊莉婭	（藍澤叫這對差勁透頂的父母不准再接近芙洛可了。）
+TalkEvent_13_001ID	16	Valeria	ヴァレリア	（そして、このことはフロッケが大人になるまで\n　内緒にしようと、話し合った）	Valeria	(We agreed to keep this secret from Flocke until she's old enough to understand.)	瓦莱莉娅	（我们聊过之后决定将这件事保密，\n　等到芙洛可长大成人之后再告诉她。）	瓦萊莉婭	（然後，我們說好這件事要一直瞞著芙洛可，\n　直到她長大成人。）
+TalkEvent_13_001ID	17	Valeria	ヴァレリア	（私たちが、家族としてフロッケのそばにいようと）	Valeria	(We decided we would be there for Flocke...as her real family.)	瓦莱莉娅	（我们想作为芙洛可的家人陪在她身边。）	瓦萊莉婭	（我們要像芙洛可的家人一樣陪在她身邊。）
+TalkEvent_13_001ID	18	Heidi	ハイディ	私さ、船のこととか操縦の仕方をお勉強しようと\n思うんだよね。今後の旅には必須じゃない？	Heidi	I'm thinking I need to learn more about the ship and how to steer it. It'll be quite essential for our future journeys, no?	海蒂	我想学习船舶知识和操纵方法，\n这对今后的旅途来说是不可或缺的吧？	海蒂	我想學習船的知識和操縱的方法。\n這在今後的旅程是不可或缺的吧？
+TalkEvent_13_001ID	19	Flocke	フロッケ	そうですね。フロッケも、行商人として海路に\n慣れておきたいところです！	Flocke	Yeah, as a peddler I'd like to get know the sea routes better, too!	芙洛可	是啊，芙洛可作为旅行商人，\n也想尽早适应海路呢！	芙洛可	對呀，芙洛可身為旅行商人也想先習慣坐船！
+TalkEvent_13_001ID	20	Lanze	ランツェ	それじゃあ今度は、近場の安全な航路を流して\n船のお勉強といくか！	Lanze	Okay then, next time we'll take a safer route that's not too far, so everyone can learn more about the ship.	兰泽	那下次我就在附近选个安全航线，\n教你们船舶知识吧！	藍澤	那下次就走附近的安全航線，學習船的知識吧！
+TalkEvent_13_001ID	21	Valeria	ヴァレリア	やったあ！　近場の美味しいものがいっぱい\n食べられるわね！	Valeria	Yay! That means we can also enjoy more of the delicious local food!	瓦莱莉娅	太好啦！\n这样就能吃到很多附近的美食了！	瓦萊莉婭	太好了！可以吃遍附近的美食！
+TalkEvent_13_001ID	22	Totori	トトリ	わぁ！　ヴァレリアさんも一緒に船のお勉強ですね！	Totori	Oh! Are you coming along to learn about the ship with us too, Valeria?	托托莉	哇！瓦莱莉娅也要一起了解船舶吗！	托托莉	哇！瓦萊莉婭小姐也會一起來學習船的知識吧！
+TalkEvent_13_001ID	23	Valeria	ヴァレリア	え！　私はいいわよ。船を壊しちゃいそうだもん。\nご飯を食べる係として乗船するわ！！	Valeria	What? No, I'd just end up breaking it. But I'll happily join as a food tester!	瓦莱莉娅	咦！我就算了，搞不好会把船弄坏的。\n我要以食客身份上船！	瓦萊莉婭	咦？我就算了吧，免得把船弄壞。\n我會以負責吃飯的身分跟你們上船的！！
+TalkEvent_13_001ID	24	Valeria	ヴァレリア	味の感想を素早く、的確に繰り出すわよ！\nこれは美味しさの錬金大成功よ！とかね	Valeria	"I'll give quick, precise reviews of all the dishes! Like, ""The synthesis of flavors is unmatched!"" or something."	瓦莱莉娅	我会快速准确地说出对于味道的感想！\n“这就是美味之炼金大成功！”之类的……	瓦萊莉婭	我可以很迅速又準確地說出味道的評語！\n像是「這道菜是美味的鍊金大成功喔！」之類的。
+TalkEvent_13_001ID	25	Lanze	ランツェ	働きもしない穀つぶしはいらねぇ	Lanze	We don't need a freeloader who ain't gonna work.	兰泽	我们不需要光吃饭不干活的饭桶。	藍澤	我們不需要不幹活的米蟲。
+TalkEvent_13_001ID	26	Valeria	ヴァレリア	ええっ！？　魔物とかが出たとき、役に立つわよ！？\nこう、ちぎっては投げ、ちぎっては投げ	Valeria	What?! But I'll be useful when monsters show up! I'll take them down, one after another!	瓦莱莉娅	什么？！要是出现魔物，我就能派上用场了啊？！\n我把它们打个溃不成军的！	瓦萊莉婭	什麼！？如果有魔物出現，我就能幫上忙啊！？\n像這樣，來一個打一個，來一個打一個。
+TalkEvent_13_001ID	27	Flocke	フロッケ	ふふっ。とっても頼もしいですよ	Flocke	Haha. That is very reassuring.	芙洛可	呵呵，真可靠。	芙洛可	呵呵，那真是可靠。
+TalkEvent_13_001ID	28	Valeria	ヴァレリア	でしょ！？　いざってときに備えて、\nごろごろはさせてもらうけども	Valeria	Exactly! You'll just have to put up with my laziness until there's something I can do.	瓦莱莉娅	对吧？！带我上船以备不时之需嘛，\n让我犯个懒也没什么。	瓦萊莉婭	對吧！？但為了能應付突發狀況，平常要讓我養精蓄銳。
+TalkEvent_13_001ID	29	Lanze	ランツェ	それが穀つぶしって言ってるんだ！	Lanze	That's exactly what a freeloader would say!	兰泽	这不就是饭桶吗！	藍澤	那就叫做米蟲！
+TalkEvent_13_001ID	30	Valeria	ヴァレリア	なぬぅ！？	Valeria	Wha?!	瓦莱莉娅	什么？！	瓦萊莉婭	什麼！？
+TalkEvent_13_001ID	31	Heidi	ハイディ	まあまあ。\n相棒はやる時はやるんだから許してやんなよ	Heidi	Relax, relax. When it matters, my partner always gets the job done. Cut her some slack.	海蒂	好啦好啦，\n搭档在关键时刻不会掉链子，你就让她上船吧。	海蒂	好啦好啦。\n搭檔在緊要關頭會認真起來的，就讓她去吧。
+TalkEvent_13_001ID	32	Valeria	ヴァレリア	そうでしょ！　ハイディからも言ってやってよ！	Valeria	See? Heidi agrees! You tell him, Heidi!	瓦莱莉娅	对吧！海蒂你早该这么说了！	瓦萊莉婭	對嘛！海蒂妳再幫我多說幾句話啦！
+TalkEvent_13_001ID	33	Heidi	ハイディ	ただ、もうちょい普段から真面目にやってくれると\n私も助かるけどね	Heidi	But it wouldn't hurt if you were a little more serious from time to time.	海蒂	不过，你要是平时也能好好干活，\n我也会轻松一点。	海蒂	但如果妳平時能再稍微認真一點，我也會覺得更好。
+TalkEvent_13_001ID	34	Valeria	ヴァレリア	ハイディまでー！	Valeria	Aww, come on! Even you, Heidi?!	瓦莱莉娅	怎么连你都这么说！	瓦萊莉婭	怎麼連海蒂都這麼說～！
+TalkEvent_13_001ID	35	Totori	トトリ	ふふっ、相変わらず仲良し家族ですね	Totori	Hehe, you guys really are like a close-knit family.	托托莉	呵呵，你们一家关系还是这么好呢。	托托莉	呵呵，你們這一家子還是一樣感情很好呢。
+TalkEvent_13_002ID	0	Valeria	ヴァレリア	ふんふ～ん♪　もぐもぐ……ここらへん\n山の幸が多くて最高ね	Valeria	Hmm-hm-hm. *Munch* *Munch*\nThe mountain vegetables around here are amazing.	瓦莱莉娅	啦啦～啊呜啊呜……\n这附近有好多山上的食材，太棒了。	瓦萊莉婭	哼哼～嚼嚼……這一帶有很多山中野味，真是太棒了。
+TalkEvent_13_002ID	1	Valeria	ヴァレリア	ん。キノコ見っけ！　……はむっ。\nん～シャキシャキ瑞々しくて甘～い	Valeria	Oh, mushrooms! *Munch*\nMmm, so crunchy, so juicy and sweet.	瓦莱莉娅	嗯，找到蘑菇了！我尝尝……\n嗯～脆脆的好多汁，好甜啊～	瓦萊莉婭	嗯，發現菌菇！\n……啊姆。嗯～鮮嫩多汁又甜美～
+TalkEvent_13_002ID	2	Valeria	ヴァレリア	あ、キイチゴ！\nよっと……はむはむ……	Valeria	Ah, berries! Here we go...\n*Munch* *Munch*	瓦莱莉娅	啊，是树莓！\n我摘！嚼嚼……	瓦萊莉婭	啊，是木莓！嘿咻……啊姆啊姆……
+TalkEvent_13_002ID	3	Valeria	ヴァレリア	そうだ！　これレスナへのお土産にしようっと！	Valeria	I know! I'll bring some back as a souvenir for Resna!	瓦莱莉娅	对了，带这个回去送给蕾斯娜好了！	瓦萊莉婭	對了！把這些帶回去送給蕾斯娜吧！
+TalkEvent_13_002ID	4	Valeria	ヴァレリア	よっし。レスナ、きっと喜んでくれるわね！	Valeria	There we go! Resna's going to love these.	瓦莱莉娅	好，蕾斯娜肯定会很开心的！	瓦萊莉婭	好，蕾斯娜一定會很開心！
+TalkEvent_13_002ID	5	???	？？？	よかった。こんな所で人に会えるなんて	???	Thank goodness. I didn't expect to find anyone here.	？？？	太好了，居然能在这里遇到别人。	？？？	太好了，能在這種地方遇到人。
+TalkEvent_13_002ID	6	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	…………	瓦萊莉婭	…………
+TalkEvent_13_002ID	7	???	？？？	いきなり話しかけてごめんなさい	???	Sorry, I didn't mean to startle you.	？？？	不好意思，突然打扰了。	？？？	很抱歉突然向妳搭話。
+TalkEvent_13_002ID	8	???	？？？	実は下山しようとしたら道に迷ってしまって、\n困っていたの	???	I was trying to descend the mountain, but I got lost and now I'm not sure where to go.	？？？	我在下山的路上迷了路，\n正发愁呢。	？？？	其實我本來想下山卻迷路了，正在傷腦筋呢。
+TalkEvent_13_002ID	9	Valeria	ヴァレリア	それは大変そうね	Valeria	Sounds like you've had a bad day.	瓦莱莉娅	那也太糟了。	瓦萊莉婭	那可真是麻煩啊。
+TalkEvent_13_002ID	10	???	？？？	ええ。恥ずかしいのだけど、この辺りには詳しく\nなくて……案内してもらえないかしら？	???	Indeed. This is rather embarrassing, but I'm not familiar with this area... Could you guide me out?	？？？	是啊。说起来惭愧，我不太熟悉这里……\n能麻烦你带路吗？	？？？	是啊。說來慚愧，我對這附近不太熟……\n能麻煩妳帶個路嗎？
+TalkEvent_13_002ID	11	Valeria	ヴァレリア	どこまで？　私もここに来て日が浅いから\nそんなに詳しくないのよね	Valeria	To where? I haven't been here long myself, so I'm not really familiar either.	瓦莱莉娅	你想去哪？我来到这里没多久，\n也不是特别熟悉。	瓦萊莉婭	妳要去哪？我來這裡沒有很久，也不算很熟喔。
+TalkEvent_13_002ID	12	Valeria	ヴァレリア	そうだ！　ちょっと待ってて！\n地元の人を呼んできてあげるわ	Valeria	Oh, I know! Just wait here! I'll find a local to help you.	瓦莱莉娅	对了！等我一下！\n我喊本地人过来。	瓦萊莉婭	對了！妳等我一下！我去找當地人過來。
+TalkEvent_13_002ID	13	???	？？？	待って！　行かないで！	???	Wait! Don't go!	？？？	等等！别走啊！	？？？	等等！不要走！
+TalkEvent_13_002ID	14	Valeria	ヴァレリア	え？	Valeria	Huh?	瓦莱莉娅	啊？	瓦萊莉婭	咦？
+TalkEvent_13_002ID	15	???	？？？	山を抜けるまででいいの！　お願い！	???	Just guide me off the mountain, please!	？？？	只要能带我走出这座山就好，拜托你了！	？？？	帶我離開山上就好！拜託！
+TalkEvent_13_002ID	16	Valeria	ヴァレリア	でも、私はホントに詳しくないのよ？\nキノコの生えてる場所とかは、別だけど	Valeria	But I'm really not familiar with this area either. Although, I guess I do know where the mushrooms grow...	瓦莱莉娅	可我真的不熟悉这里啊？\n要是找长蘑菇的地方我倒是清楚。	瓦萊莉婭	但我是真的不太知道路喔？\n菌菇的生長地點倒是另當別論啦。
+TalkEvent_13_002ID	17	???	？？？	ここで取り残されて魔物が出たら心細いもの。\nあなたは強そうだし！　ね？	???	If I'm alone here and monsters find me, I don't know what I'll do. You look strong! Please?	？？？	我怕一个人留在这里会碰见魔物。\n你看起来很强，带我一起走吧？	？？？	我擔心留在這裡會有魔物出現。\n而且妳看起來很強！好不好？
+TalkEvent_13_002ID	18	Valeria	ヴァレリア	そ、そっか。まあ、いいわよ	Valeria	O-Okay. All right, I'll help you.	瓦莱莉娅	这、这样啊。那好吧。	瓦萊莉婭	這、這樣啊。好吧，也行。
+TalkEvent_13_002ID	19	Ludmila	ルドミラ	ありがとう！　私はルドミラ	Ludmila	Thank you! My name is Ludmila.	露德米拉	谢谢你！我叫露德米拉。	露德米拉	謝謝妳！我叫做露德米拉。
+TalkEvent_13_002ID	20	Valeria	ヴァレリア	ヴァレリアよ	Valeria	I'm Valeria.	瓦莱莉娅	我叫瓦莱莉娅。	瓦萊莉婭	我是瓦萊莉婭。
+TalkEvent_13_002ID	21	Valeria	ヴァレリア	ルドミラ、噂をすればよ！　私の後ろに！	Valeria	Speak of the devil! Ludmila, get behind me!	瓦莱莉娅	露德米拉，快到我身后来！刚提到魔物它们就来了！	瓦萊莉婭	露德米拉，才剛說就出現了！妳到我後面！
+TalkEvent_13_002ID	22	Ludmila	ルドミラ	…………	Ludmila	...	露德米拉	…………	露德米拉	…………
+TalkEvent_13_002ID	23	Valeria	ヴァレリア	待ってて。ささっと倒しちゃうから！	Valeria	Wait there. I'll take care of them in a flash!	瓦莱莉娅	等着吧，我会飞快地打倒它们的！	瓦萊莉婭	在這等著，我馬上把魔物打倒！
+TalkEvent_13_003ID	0	Valeria	ヴァレリア	はぁぁぁっ！	Valeria	Haaah!	瓦莱莉娅	喝——！	瓦萊莉婭	喝啊啊啊！
+TalkEvent_13_003ID	1	Valeria	ヴァレリア	よし、倒したわ！　ルドミラは大丈夫？	Valeria	All right, they're down! Are you okay, Ludmila?	瓦莱莉娅	好，打倒了！露德米拉，你没事吧？	瓦萊莉婭	好，打倒了！露德米拉妳沒事吧？
+TalkEvent_13_003ID	2	Ludmila	ルドミラ	ヴァレリア、あなたの動き、とても綺麗ね	Ludmila	Valeria, your moves are so graceful.	露德米拉	瓦莱莉娅，你的动作真漂亮。	露德米拉	瓦萊莉婭，妳的動作實在太好看了。
+TalkEvent_13_003ID	3	Valeria	ヴァレリア	えっ、そうかしら？	Valeria	Really? You think so?	瓦莱莉娅	咦？有吗？	瓦萊莉婭	咦，是這樣嗎？
+TalkEvent_13_003ID	4	Ludmila	ルドミラ	なめらかで力強くて、本当に美しかったわ！\nもっと見ていたいくらい	Ludmila	Smooth, powerful, and truly beautiful! I wish I could have seen more.	露德米拉	动作流畅，力道强劲，真是太美了！\n我简直看得意犹未尽呢。	露德米拉	既流暢又強勁，真的太美了！我真想再多看幾次。
+TalkEvent_13_003ID	5	Valeria	ヴァレリア	あ、ありがと。じゃあ行きましょ！	Valeria	Thanks, I guess. Let's keep going!	瓦莱莉娅	谢、谢谢你的夸奖。那我们走吧！	瓦萊莉婭	謝、謝謝妳。那我們走吧！
+TalkEvent_13_003ID	6	Valeria	ヴァレリア	むぐむぐ……ルドミラのお弁当、どれも美味しいわ！\nいくらでも食べられちゃう	Valeria	*Munch* *Munch*... Ludmila, this lunch is amazing! I could eat this forever.	瓦莱莉娅	嚼嚼……露德米拉，你的便当都好好吃！\n有多少我都吃得下。	瓦萊莉婭	嚼嚼……露德米拉，妳便當的每道菜都好好吃！\n要我吃幾份都可以。
+TalkEvent_13_003ID	7	Ludmila	ルドミラ	遠慮せずに食べてね。ここまで案内してくれたお礼よ	Ludmila	Don't hold back. It's my way of thanking you for guiding me this far.	露德米拉	请别客气，敞开肚皮吃吧。就当是你带我到这里的谢礼。	露德米拉	請不要客氣，儘管吃吧。這是妳帶我到這裡的謝禮。
+TalkEvent_13_003ID	8	Valeria	ヴァレリア	最高ね！　この味に遠慮なんてできないわ。\nはむはむ……んんっ！　身体が熱くなる～！	Valeria	It's the best! I could never hold back with food this good. *Munch* *Munch*... Mmm! It's making me feel all warm inside!	瓦莱莉娅	太棒了！这味道好得让人根本没法客气。\n嚼嚼……嗯！身体都热乎起来了！	瓦萊莉婭	太棒了！這個滋味我可沒辦法客氣。\n啊姆啊姆……嗯！身體都暖和起來了～！
+TalkEvent_13_003ID	9	Ludmila	ルドミラ	ふふ……	Ludmila	Hehe...	露德米拉	呵呵……	露德米拉	呵呵……
+TalkEvent_13_003ID	10	Valeria	ヴァレリア	ごちそうさま！　ねぇ、ホントにここでいいの？	Valeria	Thanks for the meal! So, are you sure you'll be all right from here?	瓦莱莉娅	我吃完啦！你确定带你到这里就行了？	瓦萊莉婭	多謝款待！話說，真的送到這裡就行了嗎？
+TalkEvent_13_003ID	11	Ludmila	ルドミラ	ええ。ありがとう。助かったわ	Ludmila	Yes. Thank you. I don't know what I'd have done without you.	露德米拉	嗯，谢谢，还好有你帮忙。	露德米拉	對，謝謝妳，幫了我大忙。
+TalkEvent_13_003ID	12	Ludmila	ルドミラ	ね、ヴァレリア。またときどきこうして、\n二人でデートしましょう	Ludmila	Say, Valeria. How about we go on another date like this again sometime?	露德米拉	瓦莱莉娅，\n以后有机会我们再这样约会吧。	露德米拉	我說，瓦萊莉婭。偶爾我們倆再一起像這樣約會吧。
+TalkEvent_13_003ID	13	Valeria	ヴァレリア	えっ。それ、ナンパってやつ？	Valeria	Huh? Are you flirting with me?	瓦莱莉娅	咦？你这是在搭讪吗？	瓦萊莉婭	咦？這是在搭訕嗎？
+TalkEvent_13_003ID	14	Ludmila	ルドミラ	ふふ。そうね……どう？	Ludmila	Haha. Perhaps... What do you think?	露德米拉	呵呵，是呀……你答应吗？	露德米拉	呵呵，是啊……怎麼樣？
+TalkEvent_13_003ID	15	Valeria	ヴァレリア	んー。またお弁当を食べさせてくれるならいいわよ	Valeria	Well, if you bring lunch again, I'm in!	瓦莱莉娅	唔……如果你还请我吃便当，我就答应。	瓦萊莉婭	嗯～如果妳會再做便當給我吃的話就可以啊。
+TalkEvent_13_003ID	16	Ludmila	ルドミラ	それじゃ、決まりね	Ludmila	It's a deal then.	露德米拉	那就这么定了。	露德米拉	那就這麼說定了。
+TalkEvent_13_003ID	17	Ludmila	ルドミラ	ふふ……	Ludmila	Hehe...	露德米拉	呵呵……	露德米拉	呵呵……
+TalkEvent_13_003ID	18	Antje	アンチュ	す、すっかり仲良くなった……のね	Antje	It sure looks like you two managed to get along...	安洁	已、已经那么亲近了啊……	安潔	妳……妳們變得很要好呢！
+TalkEvent_13_003ID	19	Antje	アンチュ	あのヴァレリアって奴、クリセルダの貴重な時間、\nずっと独り占めしてた	Antje	Curse her! She hogged all of your precious time to herself!	安洁	那个叫瓦莱莉娅的居然独占了\n克莉赛尔达的宝贵时间。	安潔	那個叫做瓦萊莉婭的傢伙，\n一直霸占著克莉賽爾達的寶貴時間。
+TalkEvent_13_003ID	20	Antje	アンチュ	まあ、別に気にしてないけど……	Antje	Not that I care...	安洁	算了，我又不在意……	安潔	我是不怎麼在意啦……
+TalkEvent_13_003ID	21	Criselda	クリセルダ	一人にしてしまったわね。\nその分、また二人で一緒に遊びましょ	Criselda	I apologize for leaving you all alone. Let's have some fun together to make up for it.	克莉赛尔达	让你孤单了呢。\n我会补偿你的，下次我们两个人一起玩吧。	克莉賽爾達	害妳落單了呢。\n作為補償，下次我們兩個人再一起玩吧。
+TalkEvent_13_003ID	22	Antje	アンチュ	気にしてないってば……みんなとお話してたし。\nまぁ、遊ぶけど。ふふふ	Antje	I said I don't care... I was chatting with everyone else, anyway. But I'm always up for some fun! Hehe.	安洁	我都说了不在意……而且跟大家聊天也没觉得孤单。\n不过玩还是要玩的，呵呵呵。	安潔	就說我不在意了……我剛剛都在跟大家聊天。\n不過，玩是當然要玩。呵呵呵。
+TalkEvent_13_003ID	23	Criselda	クリセルダ	――それに、あなたが用意してくれた魔物も	Criselda	But, about those monsters you provided...	克莉赛尔达	——另外，你帮我准备的那些魔物……	克莉賽爾達	──還有，妳替我準備的魔物……
+TalkEvent_13_003ID	24	Criselda	クリセルダ	適当なところで切り上げて逃げるつもりだったけど、\nまさか全滅させられてしまうとはね	Criselda	I'd planned to retreat when the time was right, but she ended up wiping them all out.	克莉赛尔达	我本想玩得差不多了就收手撤退，\n没想到全让她给杀光了。	克莉賽爾達	我本來打算找時機喊停逃跑的，想不到竟被她全滅了。
+TalkEvent_13_003ID	25	Antje	アンチュ	……別にいいわ。代わりはいくらでもいる	Antje	Doesn't matter. We can always get more.	安洁	……没关系，反正备用品多得是。	安潔	……沒關係，我還有很多替代品。
+TalkEvent_13_003ID	26	Criselda	クリセルダ	ヴァレリアの力は大変興味深いわ。\n大当たりかもしれない	Criselda	Valeria's strength is most fascinating. She might be a real find.	克莉赛尔达	我对瓦莱莉娅的力量很有兴趣，\n她背后或许藏着不得了的秘密呢。	克莉賽爾達	瓦萊莉婭的力量真是太有意思了，或許找對人了。
+TalkEvent_13_003ID	27	Antje	アンチュ	あいつに、また会いに行くの？	Antje	You going to meet her again?	安洁	你还要去见她吗？	安潔	妳還會去找她嗎？
+TalkEvent_13_003ID	28	Criselda	クリセルダ	ええ。もう少し調べてみる必要がありそうだから。\nまたお弁当を用意しておかないと	Criselda	Yes. I need to find out a little more about her. I'm going to have to prepare another lunch.	克莉赛尔达	嗯，因为有必要进一步调查。\n这下得准备新的便当了呢。	克莉賽爾達	會喔，看起來有必要再調查一下。\n又得先準備好便當才行了。
+TalkEvent_13_003ID	29	Antje	アンチュ	私は、次に何をすればいい？	Antje	What should I do next?	安洁	我接下来该做些什么？	安潔	我接下來該做些什麼？
+TalkEvent_13_003ID	30	Criselda	クリセルダ	アンチュはワルターの調査に同行してあげて	Criselda	Join Walther in his investigation.	克莉赛尔达	安洁就去陪瓦尔特调查吧。	克莉賽爾達	安潔妳就陪瓦爾特一同去調查吧。
+TalkEvent_13_003ID	31	Antje	アンチュ	いいわ。私の渇望は、あなたの力になることだから	Antje	Okay. My only desire is to be of use to you.	安洁	好啊，因为我的渴望就是能帮到你。	安潔	好，畢竟我的渴望會成為妳的力量。
+TalkEvent_13_003ID	32	Antje	アンチュ	それで調査って、なんの？	Antje	But, what's his investigation about?	安洁	那他在调查什么啊？	安潔	所以是要調查什麼呢？
+TalkEvent_13_003ID	33	Criselda	クリセルダ	――赤のほうき星よ	Criselda	...The Red Comet.	克莉赛尔达	——是红色彗星哦。	克莉賽爾達	──紅色彗星。
+TalkEvent_13_004ID	0	Izana	イザナ	……えーっと、お父さんに頼まれたものは\nこれで全部買えたかな？	Izana	Uhh... I think we've got everything Dad asked for.	伊札娜	……唔，\n爸爸要我买的东西应该都买齐了吧？	伊札娜	……嗯～爸爸拜託我買的東西，這樣應該都買齊了吧？
+TalkEvent_13_004ID	1	Resna	レスナ	おじさんのケガのお薬は足りてる？\n必要なら私が調合するから言ってね！	Resna	Do you have enough medicine for his injury? If you need more, I can synthesize some for you!	蕾斯娜	叔叔疗伤的药还够吗？\n有需要的话跟我说吧，我会调合的！	蕾斯娜	叔叔的傷藥還夠嗎？\n有需要的話跟我說一聲，我可以調合給妳！
+TalkEvent_13_004ID	2	Izana	イザナ	あはは、そんなに心配しなくても大丈夫だって！	Izana	Haha, don't worry so much! He'll be fine.	伊札娜	哈哈，别担心，够用的！	伊札娜	啊哈哈，不用那麼擔心，他沒事的啦！
+TalkEvent_13_004ID	3	Izana	イザナ	そもそも、仕事の最中にケガしたお父さんが\n悪いんだもん	Izana	Honestly, it's his own fault for getting hurt while working.	伊札娜	说到底，\n都怪爸爸在干活的时候受了伤。	伊札娜	說到底，這都要怪爸爸在工作的時候受傷。
+TalkEvent_13_004ID	4	Izana	イザナ	アタシがケガした時なんて、それで一人前の鍛冶屋に\nなれるのかーってカンカンになるのにねー	Izana	When I get hurt, he always yells at me about whether I can really become a proper blacksmith.	伊札娜	在我受伤的时候，他还教训我说：\n“像你这样怎么当得上独当一面的铁匠啊！”	伊札娜	明明我以前受傷時還大發雷霆，責罵我說\n「妳這樣真的能成為獨當一面的鐵匠嗎？」這樣。
+TalkEvent_13_004ID	5	Izana	イザナ	……まぁ、お父さんの腕が治るまでは\nアタシが店を守るけどね	Izana	That said, I'll take care of the shop until his arm heals up.	伊札娜	……反正在爸爸的手臂痊愈之前，\n就由我来守着店铺。	伊札娜	……總之，在爸爸的手痊癒之前，店就要由我來顧了。
+TalkEvent_13_004ID	6	Resna	レスナ	おじさんには子どもの頃からお世話になってるし\nもしものときは私も手伝うから！	Resna	Ever since I was a child, he's always been so nice to me. Let me know if I can do anything to help!	蕾斯娜	叔叔在我小时候就很照顾我，\n有需要的话我也会帮忙的！	蕾斯娜	畢竟叔叔在我小時候就很照顧我，\n如果你們有什麼狀況，我也會去幫忙的！
+TalkEvent_13_004ID	7	Izana	イザナ	うん。ありがと、レスナちゃん！	Izana	I will! Thanks, Resna!	伊札娜	嗯。谢谢你，蕾斯娜！	伊札娜	嗯，謝謝妳，蕾斯娜！
+TalkEvent_13_004ID	8		女性Ａ	――ちょっと聞いた？\nまたケンカ騒ぎがあったそうよ	Woman A	Did you hear? There was another fight.	女性A	——你听说了吗？\n好像又有人干仗了。	女性A	──妳有聽到嗎？好像又有人在吵架了。
+TalkEvent_13_004ID	9		女性Ｂ	ああ、あの組織が原因でしょ？\nなんて言ったかしら……確か、月影の会？	Woman B	Yes, it was that strange organization, right? What were they called... The Moonlight Society?	女性B	啊，是那个组织闹事吧？\n叫什么来着……月影会？	女性B	嗯，起因是那個組織吧？\n叫什麼來著……好像是月影會？
+TalkEvent_13_004ID	10		女性Ａ	あっちでもこっちでも騒ぎを起こして……\n不安になっちゃうわよねぇ	Woman A	They seem to be causing trouble everywhere... It's very unsettling.	女性A	他们到处惹事……真叫人安心不下。	女性A	他們正四處引起騷動……真令人不安呢。
+TalkEvent_13_004ID	11	Izana	イザナ	レスナちゃん、今の聞こえた……？	Izana	Resna, did you hear that?	伊札娜	蕾斯娜，你听见了吗……？	伊札娜	蕾斯娜，妳有聽到剛剛的對話嗎……？
+TalkEvent_13_004ID	12	Resna	レスナ	うん。月影の会って言ってたね	Resna	Yeah. They mentioned the Moonlight Society.	蕾斯娜	嗯，她们提到月影会了。	蕾斯娜	嗯，她們提到了月影會對吧？
+TalkEvent_13_004ID	13	Resna	レスナ	あの人たちの名前をこんな表通りで聞くなんて。\n……何か事件でもあったのかな？	Resna	I never thought I'd hear that name in such a public place. I wonder if something happened...	蕾斯娜	居然能在普通人口中听见这个名字……\n是发生什么事了吗？	蕾斯娜	想不到會在這種大街上聽到那些人的名號……\n不知道是不是發生了什麼事？
+TalkEvent_13_004ID	14	Izana	イザナ	レスナちゃん。\n買い物に付き合ってくれて、ありがとね！	Izana	Resna, thanks for coming shopping with me!	伊札娜	蕾斯娜，谢谢你陪我买东西！	伊札娜	蕾斯娜，謝謝妳陪我買東西！
+TalkEvent_13_004ID	15	Resna	レスナ	ううん、私もイザナちゃんと話せて楽しかったし。\n……おじさん早く良くなるといいね	Resna	No problem! I enjoyed talking with you. I hope your dad gets better soon.	蕾斯娜	不客气，我能跟伊札娜聊天也很开心。\n希望叔叔能早点好起来。	蕾斯娜	不會，我也很開心能和妳聊聊天。\n……希望叔叔早日康復。
+TalkEvent_13_004ID	16	Izana	イザナ	もぉ～！　本当にそうだよ～！	Izana	Trust me, me too!	伊札娜	唉！就是说啊～！	伊札娜	唉～！真的希望他快點好啦～！
+TalkEvent_13_004ID	17	Izana	イザナ	お父さんが元気にならないと、\nアタシも家から離れられないんだからっ！	Izana	Until he gets better I can't even leave the house anymore!	伊札娜	要是爸爸不好起来，\n我都不能出门了！	伊札娜	要是他不康復，我就不能離開家裡了嘛！
+TalkEvent_13_004ID	18	Resna	レスナ	ふふっ、そんなこと言って！\nおじさんのこと心配でたまらないって顔してるよ？	Resna	Haha, you say that, but I can tell from your face that you're really worried about him.	蕾斯娜	呵呵，你呀，嘴上这么说，\n心里还不是担心得要命？	蕾斯娜	呵呵，雖然妳嘴上這麼說，\n但妳擔心叔叔的心情都寫在臉上囉！
+TalkEvent_13_004ID	19	Izana	イザナ	うっ！\nま、まあ……そうなんだけど	Izana	Urk! Well, yeah... But still.	伊札娜	唔！\n嗯……担心是担心啦。	伊札娜	唔！對、對啦……是這樣沒錯。
+TalkEvent_13_004ID	20	Resna	レスナ	家族が大変な時は一緒にいてあげて。\nおじさんも、イザナちゃんを頼りにしてるはずだよ	Resna	Stay with your family when they need you. I know your dad is counting on you.	蕾斯娜	家人遇到困难的时候你就好好陪陪他吧，\n叔叔现在一定也很需要你。	蕾斯娜	家人有困難的時候就陪著他們吧。\n我相信叔叔應該也很需要伊札娜喔。
+TalkEvent_13_004ID	21	Izana	イザナ	うん……。\nでもアタシはレスナちゃんのことだって……	Izana	Yeah... But I worry about you too, Resna...	伊札娜	嗯……\n可我也想保护好蕾斯娜啊……	伊札娜	嗯……但蕾斯娜對我來說也……
+TalkEvent_13_004ID	22	Resna	レスナ	…………	Resna	...	蕾斯娜	…………	蕾斯娜	…………
+TalkEvent_13_004ID	23	Resna	レスナ	イザナちゃん、私なら大丈夫だよ！\n今は、おじさんとお店のことだけ考えて。ねっ？	Resna	I'll be fine, Izana! Just focus on your dad and the shop for now, okay?	蕾斯娜	伊札娜，我没事的！\n你现在只要关心叔叔跟店里的事就好，知道吗？	蕾斯娜	伊札娜，我沒關係的！\n妳現在就專心顧好叔叔和店裡的事，好嗎？
+TalkEvent_13_004ID	24	Izana	イザナ	そうだね……分かった！	Izana	You're right. I'll do that!	伊札娜	你说得对……好的！	伊札娜	說得也是……好吧！
+TalkEvent_13_004ID	25	Izana	イザナ	じゃあ行くね、レスナちゃん	Izana	I'll see you later, Resna.	伊札娜	那我走啦，蕾斯娜。	伊札娜	那我走了，蕾斯娜。
+TalkEvent_13_004ID	26	Resna	レスナ	うん	Resna	Yeah.	蕾斯娜	嗯。	蕾斯娜	嗯。
+TalkEvent_13_004ID	27	Izana	イザナ	…………	Izana	...	伊札娜	…………	伊札娜	…………
+TalkEvent_13_004ID	28	Resna	レスナ	…………	Resna	...	蕾斯娜	…………	蕾斯娜	…………
+TalkEvent_13_004ID	29	Izana	イザナ	キ、キリがないから本当に行くね	Izana	I-I'm really going now, okay?	伊札娜	这、这样下去就没完没了了，我真的要走了。	伊札娜	這、這樣下去會沒完沒了，我真的要走囉。
+TalkEvent_13_004ID	30	Resna	レスナ	（……本当は、イザナちゃんがいないのは心細い。\n　でも、いつまでも甘えるわけにはいかないから）	Resna	(I really do feel lonely without Izana by my side, but I know I can't rely on her forever.)	蕾斯娜	（……其实伊札娜不在，我心里有些不安。\n　但我不能永远享受伊札娜的保护。）	蕾斯娜	（……老實說伊札娜不在身邊真的會感到不安。\n　但也不能一直依賴人家。）
+TalkEvent_13_004ID	31	Resna	レスナ	（私も、もっと頑張らなくちゃ！）	Resna	(I need to stand strong on my own too!)	蕾斯娜	（我也要更努力才行！）	蕾斯娜	（我也要多加油才行！）
+TalkEvent_13_005ID	0	Resna	レスナ	レスナ、ただいま戻りました\n……って、あれ？	Resna	Hi! I'm back from... Huh?	蕾斯娜	我回来了……\n咦？	蕾斯娜	蕾斯娜回來了……咦？
+TalkEvent_13_005ID	1	Roman	ロマン	やあ！　お邪魔しているよ、同志	Roman	Hey, kindred spirit! We were just stopping by.	罗曼	你好！打扰啦，同志。	羅曼	嗨！同伴，我們來打擾了。
+TalkEvent_13_005ID	2	Resna	レスナ	ロマンさん、ユナさん！　それに、ヴァレリアも！	Resna	Roman, Juna! And Valeria too!	蕾斯娜	罗曼先生！尤娜小姐！瓦莱莉娅也在！	蕾斯娜	羅曼先生，尤娜小姐！還有瓦萊莉婭！
+TalkEvent_13_005ID	3	Valeria	ヴァレリア	私はおやつ目的で来ただけなんだけど……\nロマンはレスナに話があるみたいよ	Valeria	I just came for the snacks... But Roman has something to discuss with you.	瓦莱莉娅	我只是来吃零食的……\n不过罗曼似乎有事找你。	瓦萊莉婭	我只是來吃點心的……但羅曼他好像有話要對妳說喔。
+TalkEvent_13_005ID	4	Roman	ロマン	実は、ちょっと気になることがあってね。\n最近、王都で広がってる噂は知ってるかい？	Roman	There's something that's been on my mind. Have you heard the recent rumors spreading in the capital?	罗曼	是这样，我发现了比较令人在意的事。\n你知道王都最近的传闻吗？	羅曼	其實有件事讓我有點在意。\n妳知道最近在王都傳開的那個傳聞嗎？
+TalkEvent_13_005ID	5	Resna	レスナ	噂ですか？　……あっ！　\nもしかして、月影の会……	Resna	Rumors? Oh, could it be about the Moonlight Society?	蕾斯娜	传闻？啊！\n难道是月影会……	蕾斯娜	傳聞嗎？\n……啊！該不會是指月影會……
+TalkEvent_13_005ID	6	Roman	ロマン	ああ。月影の会は頂獣出現の混乱に乗じて\n王都州の外まで勢力を拡大してきているんだ	Roman	Indeed. The Moonlight Society has taken advantage of the chaos during the Apexi's attack to expand their influence beyond the capital region.	罗曼	是的。月影会趁着顶兽之乱，\n将势力扩大到了王都州外。	羅曼	是啊。月影會趁著頂獸出沒的騷亂，\n把勢力擴大到王都州外圍來了。
+TalkEvent_13_005ID	7	Roman	ロマン	動向を探ったところ、王都州の隣のジュゲル州や\nホーフナ州にまで縄張りを広げていてね	Roman	Looking into their movements, it seems they've expanded their territory to include the neighboring Yuggel and Hoffner provinces.	罗曼	就我们目前探查到的情况，他们的势力范围\n扩大到了王都州附近的尤格鲁州与霍夫那州。	羅曼	我探了探他們的動向，發現連王都州隔壁的\n朱格爾州和霍夫納州也成了他們的地盤。
+TalkEvent_13_005ID	8	Resna	レスナ	そんなに広く……	Resna	That's so far...	蕾斯娜	范围居然这么大了……	蕾斯娜	勢力範圍變得這麼大……
+TalkEvent_13_005ID	9	Juna	ユナ	その縄張り争いで、奴らの動きは活発になっている	Juna	They're also becoming more active due to these territorial disputes.	尤娜	他们正愈发频繁地涉足于地盘争斗之中。	尤娜	他們就是為了爭奪地盤，行動才會變這麼活躍。
+TalkEvent_13_005ID	10	Juna	ユナ	ジュゲル州では、現地の盗賊団を傘下に収めた\nという報告まで上がっている	Juna	There's even reports that they've taken control of the local bandits in Yuggel.	尤娜	我们还在收到报告称他们在尤格鲁州\n将当地的盗贼团伙收入麾下了。	尤娜	甚至有報告指出，他們吸收了朱格爾州當地的盜賊集團。
+TalkEvent_13_005ID	11	Roman	ロマン	自然と民の間で不安が広がり、\n王都でも噂が広がっているというのが現状だ	Roman	This is spreading anxiety among the people, and rumors are running rampant in the capital.	罗曼	民众自然会人心惶惶，\n眼下传闻都传到了王都。	羅曼	民眾自然會開始感到不安，\n這個傳聞也傳到了王都，這就是現狀。
+TalkEvent_13_005ID	12	Valeria	ヴァレリア	随分、目立つ動きをしてるのね。\n私がいた頃とは大違いだわ	Valeria	They're making a lot of noise. It's very different from when I was there.	瓦莱莉娅	他们的行动可真明晃晃啊，\n跟我在的时候可大不一样。	瓦萊莉婭	他們的行動真夠引人注目的，\n跟我在的當時完全不同呢。
+TalkEvent_13_005ID	13	Roman	ロマン	そのおかげで奴らの実態が掴みやすくなったけど、\nまぁ不穏なことには変わりないね	Roman	While it certainly makes it easier to track them, it's still a troubling situation.	罗曼	多亏如此，我们也能轻松掌握他们的情况，\n但事态依旧不容乐观。	羅曼	多虧了如此，我才更容易掌握他們的實際樣貌，\n但令人不安這點還是一樣啦。
+TalkEvent_13_005ID	14	Roman	ロマン	国が、ウェルテックスや極夜の錬金党がらみの\n対応をしている裏で、勢力を拡大しているようだが……	Roman	The kingdom is busy dealing with Weltex and the Polar Night Alchemists, so in the meantime, the Moonlight Society is free to expand its influence.	罗曼	趁着王国处理威尔特克斯跟极夜的炼金党的空隙，\n月影会的确扩大了势力……	羅曼	他們似乎趁著國家在對付威爾特庫斯或極夜的鍊金黨時，\n在暗地裡擴張勢力……
+TalkEvent_13_005ID	15	Roman	ロマン	月影の会が好き勝手にできるのもここまでだ	Roman	The Moonlight Society's free reign needs to end.	罗曼	但他们嚣张不了多久了。	羅曼	但月影會能夠胡作非為也只有現在了。
+TalkEvent_13_005ID	16	Roman	ロマン	――我が総力をもって、月影の会を壊滅させる	Roman	With our combined strength, we'll take out the Moonlight Society.	罗曼	——因为接下来我将集结力量，铲除月影会。	羅曼	──我們會一舉摧毀月影會。
+TalkEvent_13_005ID	17	Valeria	ヴァレリア	月影の会を壊滅……。\nついにロマンも覚悟を決めたってわけね	Valeria	Take out the Moonlight Society? Looks like you're finally putting your foot down, Roman.	瓦莱莉娅	铲除月影会……\n罗曼终于下定决心了啊。	瓦萊莉婭	摧毀月影會……看來羅曼也終於下定決心了。
+TalkEvent_13_005ID	18	Roman	ロマン	ああ！　奴らは暴れすぎたよ。寛容なことに\n定評がある私も、これは許せない	Roman	Indeed! They've caused far too much trouble. Though patience may be something I'm known for, even I can no longer allow this to go on.	罗曼	是啊！他们太乱来了。虽然人人夸我宽宏大量，\n但我也不会允许他们胡作非为。	羅曼	是啊！他們實在太囂張了。\n一向以寬宏大量著稱的我都無法容忍了。
+TalkEvent_13_005ID	19	Juna	ユナ	今後、月影の会の対処には\n殿下が中心となって当たられることになる	Juna	Moving forward, His Highness will be leading the fight against the Moonlight Society.	尤娜	今后将由殿下牵头\n处理对抗月影会的相关事宜。	尤娜	今後將以殿下的決策為中心來對付月影會。
+TalkEvent_13_005ID	20	Resna	レスナ	ロマンさん……本気なんですね！\n私も、微力ながら助力します！	Resna	Roman, you're taking the fight to them! There's not a whole lot I can do, but I'll help in any way I can!	蕾斯娜	罗曼先生……要动真格的了啊！\n我也会尽绵薄之力的！	蕾斯娜	羅曼先生……看來你是認真的！\n我也會盡棉薄之力幫忙！
+TalkEvent_13_005ID	21	Roman	ロマン	ありがとう、レスナ。同志ならきっと\nそう言ってくれると思っていたとも！	Roman	Thank you, Resna. I knew I could count on my kindred spirit!	罗曼	谢谢你，蕾斯娜。\n我就知道我的同志一定会这么说！	羅曼	謝謝妳，蕾斯娜。\n我就覺得同伴肯定會這麼對我說的！
+TalkEvent_13_005ID	22	Juna	ユナ	といっても殿下は前線に立つことは\nお控えください	Juna	That said, you must avoid the front lines, Your Highness.	尤娜	不过，\n还请殿下远离前线作战。	尤娜	話雖如此，還是請殿下避免站上前線。
+TalkEvent_13_005ID	23	Roman	ロマン	しかしだね、ユナ	Roman	But, Juna...	罗曼	可是，尤娜……	羅曼	可是啊，尤娜……
+TalkEvent_13_005ID	24	Roman	ロマン	いや、なんでもない。危なかった、\n下手に反論したら長時間のお説教だ……	Roman	Wait, never mind. I almost got myself into another never-ending lecture...	罗曼	不，没什么。好险，要是我不慎出言反驳，\n肯定又会被教育一通……	羅曼	不，沒什麼。好險，\n要是亂回嘴就得聽長篇大論的說教了……
+TalkEvent_13_005ID	25	Valeria	ヴァレリア	月影の会か……\n鴉との決着は近いようね	Valeria	The Moonlight Society, huh... Looks like our showdown with Crow draws closer.	瓦莱莉娅	月影会啊……\n看来跟鸦决战的日子快要到了。	瓦萊莉婭	月影會啊……和烏鴉的決鬥就快到了呢。
+TalkEvent_13_005ID	26	Crow	鴉	――オリバー様。近頃、会の内部で小競り合いが\n起こっているようです	Crow	Lord Oliver, there have been some scuffles within the Society recently.	鸦	——奥利弗大人。\n最近月影会内部出现了一些小争端。	烏鴉	──奧利弗大人，最近會內似乎出現了小紛爭。
+TalkEvent_13_005ID	27		オリバー	お前が気にすることではない	Oliver	That is none of your concern.	奥利弗	你不用在意那些事。	奧利弗	這些事不需要妳操心。
+TalkEvent_13_005ID	28		オリバー	それより、お前にふさわしい重大な任務を……\n――ゴホッ、ゴホッ……！	Oliver	I have a more fitting mission for you...\n*Cough* *Cough*...	奥利弗	还是听我要交给你的重大任务吧……\n――咳、咳……！	奧利弗	現在有個非妳不可的重大任務……\n──咳、咳……！
+TalkEvent_13_005ID	29	Crow	鴉	…………	Crow	...	鸦	…………	烏鴉	…………
+TalkEvent_13_005ID	30		オリバー	っ……\nお前にはジュゲル州への遠征を命じる	Oliver	You are to lead an expedition to Yuggel.	奥利弗	唔……\n我命令你前往格鲁州。	奧利弗	唔……我命令妳遠征朱格爾州。
+TalkEvent_13_005ID	31		オリバー	密林に生息する、万能薬の素となる希少種の虫。\n一刻も早くそれを手に入れてこい	Oliver	There, in the jungle, resides a rare species of insect that is the key to making a panacea. Bring it to me as soon as possible.	奥利弗	那边的密林里生活着一种罕见的虫子，\n它是制作万能药的素材，你要尽快收集过来。	奧利弗	有一種棲息於密林的稀有蟲子，可作為萬能藥的材料。\n妳盡速去取回來。
+TalkEvent_13_005ID	32		オリバー	魔物も多く棲む危険な土地だが……\n天才であるお前ならばなんの問題もあるまい	Oliver	The lands there are infested with monsters, but someone of your talent should have no trouble.	奥利弗	那是栖息着众多魔物的危险土地……\n但有你这个天才出马，肯定不成问题。	奧利弗	雖然那裡棲息了許多魔物，是個危險之地……\n但對於妳這樣的天才想必是不成問題吧。
+TalkEvent_13_005ID	33	Crow	鴉	はっ	Crow	Understood.	鸦	是！	烏鴉	遵命。
+TalkEvent_13_005ID	34		オリバー	この頃、我らの動きを嗅ぎまわっている者たちも\nいるようだ。邪魔者は排除しろ。容赦はいらん	Oliver	There also seem to be some others sniffing around our movements. Eliminate any interlopers. No mercy.	奥利弗	最近有人在四处查探我们的动向。\n若遇到碍事者，只要剿灭即可，不必留情。	奧利弗	最近似乎也有人正在探聽我們的行動。\n把礙事者都除掉，不需手下留情。
+TalkEvent_13_005ID	35	Crow	鴉	――仰せのままに	Crow	As you command.	鸦	――我明白了。	烏鴉	──悉聽尊便。
+TalkEvent_13_006ID	0	Resna	レスナ	ライザ先輩、ロロナ先輩、こんにちは！\n新しい依頼を受けに来ました！	Resna	Hello, Ryza and Rorona! We're here for a new request!	蕾斯娜	莱莎前辈、萝乐娜前辈，你们好！\n我来接新的委托了！	蕾斯娜	萊莎前輩，蘿樂娜前輩，妳們好！\n我來承接新的委託了！
+TalkEvent_13_006ID	1	Ryza	ライザ	あ、レスナ。いらっしゃい！	Ryza	Ah, Resna. Welcome!	莱莎	啊，蕾斯娜，欢迎光临！	萊莎	啊，蕾斯娜。歡迎！
+TalkEvent_13_006ID	2	Rorona	ロロナ	今日は、ヴァレリアさんと一緒なんだ。\nイザナちゃんはどうしたの？	Rorona	I see you're here with Valeria today. Where is Izana?	萝乐娜	你今天是跟瓦莱莉娅小姐一起来的啊。\n伊札娜怎么没跟你一起？	蘿樂娜	妳今天和瓦萊莉婭一起呀。伊札娜怎麼了嗎？
+TalkEvent_13_006ID	3	Valeria	ヴァレリア	ふっふっふー！\n今日から私が、レスナの騎士になったのよ！	Valeria	Hehehe! As of today I am officially Resna's Knight!	瓦莱莉娅	哼哼哼！\n从今天开始，我才是蕾斯娜的骑士！	瓦萊莉婭	呵呵呵～！從今天起就由我擔任蕾斯娜的騎士了！
+TalkEvent_13_006ID	4	Ryza	ライザ	えっ？　どういうこと！？\nまさか、イザナとケンカしたとか……	Ryza	Huh? What do you mean? Don't tell me you and Izana are having a fight...	莱莎	咦？什么情况？！\n难道你跟伊札娜吵架了……	萊莎	咦？什麼意思！？妳該不會跟伊札娜吵架了吧……
+TalkEvent_13_006ID	5	Resna	レスナ	ち、違います、そうじゃなくて！\nもお、ヴァレリアってば……	Resna	N-No, it's not like that! Come on, Valeria...	蕾斯娜	才、才不是啦！\n瓦莱莉娅你别闹……	蕾斯娜	不、不是，不是那樣的！\n討厭，瓦萊莉婭妳真是的……
+TalkEvent_13_006ID	6	Resna	レスナ	事情があってイザナちゃんは\nしばらく実家の手伝いに専念しているんです	Resna	There's a lot going on at home for Izana, so she'll be helping out in her family's shop for a while.	蕾斯娜	伊札娜因为家里出了点事，\n不得不暂时在老家帮忙。	蕾斯娜	因為有一點事，伊札娜要暫時回家專心幫忙家業。
+TalkEvent_13_006ID	7	Resna	レスナ	その話をしたら、私が依頼に行くときは\nヴァレリアが同行してくれるって	Resna	When I told Valeria, she offered to join me on some requests.	蕾斯娜	瓦莱莉娅知道以后，\n就说会陪我一起做委托。	蕾斯娜	我把這件事告訴瓦萊莉婭之後，\n她就說願意在我去執行委託的時候同行。
+TalkEvent_13_006ID	8	Ryza	ライザ	あー、なるほどね！　新しい依頼を受けたいのなら\nちょうど隣の州から来たやつがあるよー	Ryza	Ah! That makes sense! Well, if you're looking for a new request, we just got one from a neighboring province.	莱莎	啊，原来是这么回事！\n如果你想接新委托，隔壁州刚好来了一份委托。	萊莎	哦～原來如此！如果妳想接新的委託，\n這裡正好有一件來自隔壁州的喔～
+TalkEvent_13_006ID	9	Ryza	ライザ	ジュゲル州からの依頼なんだけどね。\n……ほら、これ	Ryza	It's from Yuggel. Here, take a look.	莱莎	是尤格鲁州的委托。\n喏，你看看。	萊莎	只不過是來自朱格爾州的委託就是了。\n……妳看，就是這個。
+TalkEvent_13_006ID	10	Resna	レスナ	異常発生したコウモリ型の魔物退治\n……ですか	Resna	Eradicating a plague of bat-like monsters... Hmm.	蕾斯娜	驱逐无端出现的蝙蝠形魔物……\n是这个委托啊。	蕾斯娜	消滅異常增加的蝙蝠型魔物嗎……
+TalkEvent_13_006ID	11	Ryza	ライザ	密林に虫が異常発生したせいで、\nそれを捕食する魔物も増えちゃったんだって	Ryza	It was originally a plague of insects in the jungle, but these monsters came to feed on them.	莱莎	似乎是密林里的虫子无故增多，\n所以捕食它们的魔物也增加了。	萊莎	據說因為密林的蟲子異常增加，\n導致捕食蟲子的魔物也多了不少。
+TalkEvent_13_006ID	12	Resna	レスナ	ひぃえっ！？\nむ、むむ虫も異常発生してるんですか！？	Resna	Ack! There's a plague of insects too?!	蕾斯娜	噫？！\n虫、虫子也增多了？！	蕾斯娜	咦！？蟲、蟲蟲蟲子也異常增加嗎！？
+TalkEvent_13_006ID	13	Ryza	ライザ	……そういえば、レスナって虫が苦手なんだっけ？	Ryza	Oh, are you bad with bugs, Resna?	莱莎	……对了，我记得蕾斯娜怕虫子吧？	萊莎	……對了，蕾斯娜妳是不是怕蟲呀？
+TalkEvent_13_006ID	14	Resna	レスナ	うぅ、はい……。家に虫が出たらイザナちゃんを\n呼ぶことが多いですね	Resna	Ugh, yes... Whenever they come out at home, I always call Izana to help.	蕾斯娜	呜呜，是的……家里出现虫子的时候\n我大多是喊伊札娜来帮我处理的。	蕾斯娜	嗚嗚，對……要是家裡出現蟲子，\n我通常都會叫伊札娜過來。
+TalkEvent_13_006ID	15	Valeria	ヴァレリア	そういや前も大きな虫を見て、悲鳴をあげてたわね	Valeria	I remember one time a big bug came out, and you screamed like you'd seen a ghost.	瓦莱莉娅	对哦，之前看到大虫子的时候，你也放声尖叫了呢。	瓦萊莉婭	這麼說來，我想到妳上次看見大蟲子也叫得很慘呢。
+TalkEvent_13_006ID	16	Resna	レスナ	小さな虫や数匹程度なら、どうにか頑張るんだけど。\n群れってなると、さすがに……	Resna	I can handle a few small insects, but a whole swarm of them is another story...	蕾斯娜	要是虫子很小或者数量不多的话我还能忍受，\n但要是密密麻麻地冒出来就……	蕾斯娜	如果只有幾隻小蟲我還能硬著頭皮解決，\n但一大群的話實在是……
+TalkEvent_13_006ID	17	Valeria	ヴァレリア	でも、レスナが行きたがってる\n果ての大陸にもたくさん虫がいるかもしれないし	Valeria	But you know, you're trying to get to the World's End, right? For all we know, there might be a load of bugs over there too!	瓦莱莉娅	但蕾斯娜想去的终极大陆上\n说不定也有许多虫子呢。	瓦萊莉婭	不過，蕾斯娜妳一直很想去的終極大陸上\n搞不好也有很多蟲子。
+TalkEvent_13_006ID	18	Valeria	ヴァレリア	これを機会に苦手を克服してみたらどうかしら？\nまあ、無理にとは言わないけど	Valeria	Maybe this is your chance to face your fear? I won't force you or anything, though.	瓦莱莉娅	要不要趁这个机会克服弱点啊？\n不过不愿意的话也不用勉强啦。	瓦萊莉婭	妳就趁這個機會克服這個弱點如何？\n不過，也不要太勉強自己啦。
+TalkEvent_13_006ID	19	Resna	レスナ	正論すぎる。苦手克服かぁ……	Resna	You make a good point. Maybe it is time to face my fear...	蕾斯娜	好正确的提议，克服弱点啊……	蕾斯娜	妳說得太有道理了。要克服弱點啊……
+TalkEvent_13_006ID	20	Resna	レスナ	そうだ、私。イザナちゃんに甘えてばかりじゃなくて\nもっと頑張ろうって決めたんだ……	Resna	You know, I did decide recently that I should stop relying on Izana so much and try to stand strong on my own...	蕾斯娜	没错，我不能一直依靠伊札娜，\n毕竟都决定要更加努力了……	蕾斯娜	沒錯。我已經下定決心不能老是依賴伊札娜，\n要更加努力才行了……
+TalkEvent_13_006ID	21	Resna	レスナ	ライザ先輩！\nその依頼、引き受けますっ！	Resna	Ryza! Sign me up for that request!	蕾斯娜	莱莎前辈！\n我愿意接受这个委托！	蕾斯娜	萊莎前輩！我要接下那個委託！
+TalkEvent_13_006ID	22	Ryza	ライザ	りょーかい！\nそれじゃ、いつものようにお願いするね！	Ryza	Got it! I'll be counting on you as usual!	莱莎	好的！\n那就拜托你啦！	萊莎	明白！那就老樣子，拜託妳囉！
+TalkEvent_13_006ID	23	Rorona	ロロナ	ふふ、頑張ってね、レスナちゃん！	Rorona	Hehe. Good luck, Resna!	萝乐娜	呵呵，要加油哦，蕾斯娜！	蘿樂娜	呵呵，蕾斯娜，加油！
+TalkEvent_13_006ID	24	Valeria	ヴァレリア	ジュゲル州は川魚とか美味しいのよねえ。\nっていうか、月影の会が縄張り広げてる所だっけ	Valeria	The fish in Yuggel are delicious, you know. Hey, isn't that also where the Moonlight Society is expanding?	瓦莱莉娅	尤格鲁州的淡水鱼还挺好吃的吧。\n说起来，月影会最近是不是在那边扩张地盘啊？	瓦萊莉婭	朱格爾州的淡水魚很美味呢。\n話說，那裡好像是月影會正在擴張地盤的地方。
+TalkEvent_13_006ID	25	Resna	レスナ	うん。\n今回の依頼と関係ないとは思うけど……	Resna	Yeah. I doubt it has anything to do with this request, though...	蕾斯娜	嗯。\n不过感觉这次的委托应该跟他们无关……	蕾斯娜	嗯，雖然應該跟這次的委託無關……
+TalkEvent_13_006ID	26	Valeria	ヴァレリア	用心するに越したことはないわ。\nいつ何が起こるかなんて、誰にも分からないんだから	Valeria	Better safe than sorry. You never know what might happen.	瓦莱莉娅	万事小心为上。\n谁也不知道下一秒会发生什么。	瓦萊莉婭	我們還是謹慎一點比較好，\n畢竟沒人知道何時會發生什麼事。
+TalkEvent_13_006ID	27	Resna	レスナ	確かに、ヴァレリアの言う通りかも	Resna	That's another good point, Valeria.	蕾斯娜	瓦莱莉娅说得对。	蕾斯娜	確實，瓦萊莉婭說得很對。
+TalkEvent_13_006ID	28	Resna	レスナ	イザナちゃんもいないし、準備は入念にしないとね。\n協力してくれる人を探すのと……	Resna	Since Izana isn't here, I'll need to be extra prepared. We'll need to find some others to help...	蕾斯娜	伊札娜不在身边，我得做好充分准备。\n还得找其他能同行的人……	蕾斯娜	伊札娜也不在身邊，我必須做好萬全準備才行。\n要尋找能夠協助我的人……
+TalkEvent_13_006ID	29	Valeria	ヴァレリア	うんうん	Valeria	Yep!	瓦莱莉娅	嗯嗯。	瓦萊莉婭	沒錯沒錯。
+TalkEvent_13_006ID	30	Resna	レスナ	あとは、やっぱり虫に慣れる練習！　やー！！	Resna	Now I just need to practice getting used to bugs! Yaaah!	蕾斯娜	再就是要学着适应虫子！呀！！	蕾斯娜	還有練習適應蟲子！呀～！！
+TalkEvent_13_006ID	31	Valeria	ヴァレリア	うんうん……え？	Valeria	Yep, yep... Wait, what?	瓦莱莉娅	嗯嗯……咦？	瓦萊莉婭	沒錯沒錯……咦？
+TalkEvent_13_007ID	0	Resna	レスナ	この辺りなら、虫もたくさんいそうだよね。\nジュゲル州に行く前に苦手を克服しなくちゃ！	Resna	There should be a lot of bugs around here. I need to face my fear before we head to Yuggel!	蕾斯娜	这附近似乎有很多虫子呢。\n在去尤格鲁州前要克服怕虫的毛病！	蕾斯娜	感覺這附近也有很多蟲。\n我一定要在去朱格爾州之前克服這個弱點。
+TalkEvent_13_007ID	1	Valeria	ヴァレリア	レスナ、やる気なのはいいけど本当に大丈夫なの？	Valeria	Resna, I'm glad to see you're so confident, but are you sure you can do this?	瓦莱莉娅	蕾斯娜，我知道你有干劲，但真的没问题吗？	瓦萊莉婭	蕾斯娜，有幹勁是很好，但妳真的沒問題嗎？
+TalkEvent_13_007ID	2	Resna	レスナ	ここで慣れておかなきゃ、密林なんて無理だもん。\nそれに……私、頑張るって決めたから！	Resna	If I can't get used to them here, there's no way I'll survive in the jungle! I've got to stand on my own two feet!	蕾斯娜	要是不事先在这里适应一下，到了密林肯定受不了。\n而且……我已经决定要努力了！	蕾斯娜	如果不先在這裡適應一下，我就沒辦法去密林了嘛。\n而且……我已經下定決心要努力了！
+TalkEvent_13_007ID	3	Valeria	ヴァレリア	気合十分じゃない。\nじゃあ、あの茂みの辺りで探してみましょう	Valeria	Well, you're definitely determined. All right, let's go check out those bushes.	瓦莱莉娅	气势很足嘛。\n那就从那片草丛开始找起吧。	瓦萊莉婭	看來氣勢十足呢。\n那我們去那堆草叢附近探索看看吧。
+TalkEvent_13_007ID	4	Resna	レスナ	きゃあああっ！！	Resna	Eeek!	蕾斯娜	呀——！！	蕾斯娜	呀啊啊啊！！
+TalkEvent_13_007ID	5	Valeria	ヴァレリア	レスナ、よく見て！\nこの子まるっとしててかわいいわよ～	Valeria	Resna, look here! This one is all cute and round!	瓦莱莉娅	蕾斯娜，快看！\n它圆溜溜的好可爱呢～	瓦萊莉婭	蕾斯娜，仔細看！牠圓滾滾的很可愛喔～
+TalkEvent_13_007ID	6	Resna	レスナ	無理だよぉ！\nどう見てもかわいくないっ！	Resna	Nuh-uh! Nothing about it is cute!	蕾斯娜	我不行了！\n怎么看都不可爱啊！	蕾斯娜	不行！再怎麼看都不可愛！
+TalkEvent_13_007ID	7	Valeria	ヴァレリア	じゃあ、こっちのモサモサした毛虫とか……	Valeria	How about this fuzzy little caterpillar then?	瓦莱莉娅	那这只毛茸茸的毛虫呢……	瓦萊莉婭	那麼，這隻毛茸茸的毛毛蟲……
+TalkEvent_13_007ID	8	Resna	レスナ	ぴやぁぁぁぁっ！！	Resna	Eeek!	蕾斯娜	呀啊——！	蕾斯娜	不要啊啊啊！！
+TalkEvent_13_007ID	9	Valeria	ヴァレリア	……思ってた以上に重症だわ	Valeria	This is going to be harder than I thought.	瓦莱莉娅	……程度比我想得还严重啊。	瓦萊莉婭	……比我想得還要嚴重呢。
+TalkEvent_13_007ID	10	Valeria	ヴァレリア	湿地帯に来たのがまずかったかしら。\n別の場所で再挑戦してみる？	Valeria	Maybe coming to the marsh was a bad idea. Should we try somewhere else?	瓦莱莉娅	选湿地是不是选错了啊？\n我们去别的地方再试试？	瓦萊莉婭	可能不應該來濕地帶的。\n要不要去其他地方重新挑戰看看？
+TalkEvent_13_007ID	11	Resna	レスナ	ううん、ヴァレリアにも付き合ってもらってるし\nもう少しここで頑張ってみる！	Resna	No, you've been trying so hard to help me out. I'll stick it out a bit longer!	蕾斯娜	不，毕竟瓦莱莉娅都陪我来了，\n我要再努力一下！	蕾斯娜	不用，畢竟還有妳陪著，我要繼續在這裡努力一下！
+TalkEvent_13_007ID	12	Valeria	ヴァレリア	その意気よ！　それでこそ錬金術士！\n……じゃあ、こっちの虫はどう？	Valeria	That's the spirit! A true alchemist! Okay...how about this bug over here?	瓦莱莉娅	说得好！这才是炼金术士！\n那……这只虫子怎么样？	瓦萊莉婭	就是這股氣魄！這樣才是鍊金術士！\n……那麼，這隻蟲怎麼樣？
+TalkEvent_13_007ID	13	Resna	レスナ	あっ、それなら触れるかも……\nそーっと、そーっと……	Resna	Oh, I might be able to touch that one... Gently... Gently...	蕾斯娜	啊，这只的话我应该能碰一下……\n轻轻地、轻轻地碰一下……	蕾斯娜	啊，如果是那種的或許我敢摸……\n輕輕的、輕輕的……
+TalkEvent_13_007ID	14	Resna	レスナ	……っ！\nきゃあああっ、う、動いたぁ！	Resna	Ah! Eeek! I-It moved!	蕾斯娜	……噫！\n啊啊啊啊！它、它动了！	蕾斯娜	……！\n呀啊啊啊，牠、牠動了！
+TalkEvent_13_007ID	15	Valeria	ヴァレリア	まぁ生きてるから動くわよ、それは。\nじゃあ、この小さな水玉の虫は？	Valeria	Yeah, well, it's alive, so it'll do that. How about this tiny little polka-dotted bug?	瓦莱莉娅	它还活着，肯定会动啊。\n那这只小小的水滴虫呢？	瓦萊莉婭	既然牠活著，當然會動啊。\n那這隻身上有圓點的小蟲呢？
+TalkEvent_13_007ID	16	Resna	レスナ	見た目は虫っぽくないね。\nこれなら、大丈夫……	Resna	It doesn't look too buglike... I think I can handle this one...	蕾斯娜	看起来不像虫子，\n这只应该还好……	蕾斯娜	外觀不像蟲呢，這個應該沒問題……
+TalkEvent_13_007ID	17	Resna	レスナ	ひぃゃぁぁ！！　飛んだぁ！！\n羽、広げた、空に飛んだぁ！！	Resna	Aaah! It flew! It spread its wings and flew off!	蕾斯娜	噫——！它飞了！\n它展开翅膀飞上天了！！	蕾斯娜	呀啊啊啊！！飛起來了！！牠張開翅膀飛上天了！！
+TalkEvent_13_007ID	18	Valeria	ヴァレリア	あー、動かないでレスナ。\nレスナの前髪にくっついてる	Valeria	Ah. Don't move, Resna. It's stuck in your hair.	瓦莱莉娅	啊，蕾斯娜你别动，\n它停在你刘海上了。	瓦萊莉婭	啊～蕾斯娜妳不要動，牠停在妳的瀏海上。
+TalkEvent_13_007ID	19	Resna	レスナ	と、取って！　ヴァレリア、早く取ってぇ！	Resna	G-Get it off me, Valeria! Get it off, quick!	蕾斯娜	帮、帮我拿掉！瓦莱莉娅，快帮我拿掉！	蕾斯娜	幫、幫我拿掉！瓦萊莉婭，快點拿掉！
+TalkEvent_13_007ID	20	Valeria	ヴァレリア	はいはい、取れたわよ	Valeria	Yeah, yeah. There, I got it.	瓦莱莉娅	好好好，已经拿掉了。	瓦萊莉婭	好啦，拿掉了。
+TalkEvent_13_007ID	21	Resna	レスナ	うぅっ……ありがとぉ……	Resna	Phew... Thank you...	蕾斯娜	呜呜……谢谢……	蕾斯娜	嗚嗚……謝謝妳……
+TalkEvent_13_007ID	22	Valeria	ヴァレリア	ねえ、レスナ。\n今日はこれぐらいにして……	Valeria	So, Resna. Maybe we should call it a day...	瓦莱莉娅	蕾斯娜，\n今天不如就到此……	瓦萊莉婭	我說，蕾斯娜，今天就到此為止……
+TalkEvent_13_007ID	23	Resna	レスナ	あっ、あそこにも虫がいる！\nよ、よーし……今度こそ触ってみせるんだからっ！	Resna	Oh, there's another bug over there! I'm ready now! This time I'll touch it for sure!	蕾斯娜	啊，那边也有虫子！\n我、我准备好了……这次一定要摸到！	蕾斯娜	啊，那裡也有蟲！好、好……這次我一定要摸到！
+TalkEvent_13_007ID	24	Valeria	ヴァレリア	……こんなに頑張ってるのに、\nやめろなんて言えないわよね	Valeria	When you try so hard, I really can't bring myself to stop you.	瓦莱莉娅	……看她这么努力，\n我实在开不了口劝她放弃啊。	瓦萊莉婭	……看到她這麼努力，我怎麼忍心叫她放棄呢？
+TalkEvent_13_007ID	25	Valeria	ヴァレリア	そもそも、苦手を克服したらって言ったのは私だし	Valeria	Besides, I was the one who suggested you face your fear.	瓦莱莉娅	而且一开始就是我提出让她克服的。	瓦萊莉婭	而且說起來，叫她克服弱點的人就是我。
+TalkEvent_13_007ID	26	Resna	レスナ	ヴァレリア、見て！\nわ、私の指先に虫がとまってる！	Resna	Valeria, look! There's a bug on my finger!	蕾斯娜	瓦莱莉娅，你看！\n我、我的指尖上停了一只虫！	蕾斯娜	瓦萊莉婭，妳看！蟲、蟲停在我的手指上！
+TalkEvent_13_007ID	27	Valeria	ヴァレリア	すごいじゃない、レスナ！	Valeria	Wow, you did it, Resna!	瓦莱莉娅	干得漂亮，蕾斯娜！	瓦萊莉婭	蕾斯娜，妳很厲害嘛！
+TalkEvent_13_007ID	28	Resna	レスナ	……ひっ！？　き、きゃああぁぁ！！\nもぞもぞ動いてる！　登ってこないでぇ！	Resna	Ack! Eeek! It's moving! Don't crawl up my arm!	蕾斯娜	……噫？！呀、呀——！！\n它在蠕动！别、别爬过来啊！	蕾斯娜	……咿！？呀、呀啊啊啊！！牠在蠕動！不要爬上來！
+TalkEvent_13_007ID	29	Valeria	ヴァレリア	あはは、これはまだ先が長そうね	Valeria	Haha, seems we've still got a long way to go.	瓦莱莉娅	哈哈，来日方长啊。	瓦萊莉婭	啊哈哈，看來還有很長的路要走呢。
+TalkEvent_13_007ID	30	Valeria	ヴァレリア	私はどこまでも付き合うわよ！\nそれじゃ、次行ってみましょ！	Valeria	And I'll be with you every step of the way. Come on, let's try the next one!	瓦莱莉娅	我会奉陪到底的！\n让我们继续吧！	瓦萊莉婭	要去哪裡我都奉陪！\n那麼，我們去下一個地方吧！
+TalkEvent_13_007ID	31	Resna	レスナ	うぅっ！\n心強いよ、ヴァレリアっ！	Resna	Y-Yeah! I'm glad you're with me, Valeria!	蕾斯娜	呜呜！\n有你在好安心啊，瓦莱莉娅！	蕾斯娜	嗚嗚！瓦萊莉婭，妳真可靠！
+TalkEvent_13_008ID	0	Roman	ロマン	やあ、お邪魔するよ！	Roman	Hey! Sorry to drop by unannounced!	罗曼	大家好啊，打扰了！	羅曼	嗨，打擾了！
+TalkEvent_13_008ID	1	Marion	マリオン	聞いたわよ。\n今度はジュゲル州に行くんですってね	Marion	We heard the news. You're heading to Yuggel?	玛丽翁	我都听说了，\n你们这次要去尤格鲁州吧？	瑪麗翁	我聽說了喔。妳這次要去朱格爾州，對吧？
+TalkEvent_13_008ID	2	Resna	レスナ	ロマンさん、マリオンさん！\n耳が早いですね！	Resna	Roman, Marion! You two sure caught wind quickly!	蕾斯娜	罗曼先生、玛丽翁小姐！\n你们的消息真灵通！	蕾斯娜	羅曼先生，瑪麗翁小姐！你們消息真靈通呢！
+TalkEvent_13_008ID	3	Marion	マリオン	ふふ。情報収集には自信があるもの	Marion	Haha. I'm quite confident in my ability to gather intel.	玛丽翁	呵呵，我可是很擅长收集情报的。	瑪麗翁	呵呵，我對收集情報可是很有自信的。
+TalkEvent_13_008ID	4	Marion	マリオン	そこで相談なんだけど……\n私とリンカも同行させてもらえないかしら？	Marion	We actually have a favor to ask... Would you mind if Linca and I join you on your request?	玛丽翁	我想跟你商量一下……\n可以让我和琳卡一起去吗？	瑪麗翁	因此，我想和妳商量一下……可以讓我和琳卡同行嗎？
+TalkEvent_13_008ID	5	Resna	レスナ	わあ！　お二人が来てくれるのなら\nとっても心強いです！　ね、ヴァレリア！	Resna	Wow! It'd be really reassuring to have you two come along with us! Right, Valeria?	蕾斯娜	哇！有你们二位加入，\n队伍就更强大了！对吧，瓦莱莉娅！	蕾斯娜	哇！兩位願意一起來的話，就太令人安心了！\n瓦萊莉婭，妳說是吧？
+TalkEvent_13_008ID	6	Valeria	ヴァレリア	うん。大歓迎！　でも、急にどうしたの？	Valeria	Absolutely. You're more than welcome! But why the sudden interest?	瓦莱莉娅	是啊，我们很欢迎！不过你们怎么突然要去那里？	瓦萊莉婭	嗯，非常歡迎！不過怎麼這麼突然呢？
+TalkEvent_13_008ID	7	Marion	マリオン	実は私たちもロマンの調査に協力していてね	Marion	We're helping Roman with his investigation.	玛丽翁	其实我们也在协助罗曼进行调查。	瑪麗翁	其實我們也在協助羅曼進行調查。
+TalkEvent_13_008ID	8	Marion	マリオン	月影の会の動向を調べるために、\nジュゲル州に向かうところだったのよ	Marion	We were heading to Yuggel anyway to investigate the Moonlight Society's activities.	玛丽翁	为了调查清楚月影会的动向，\n正要前往尤格鲁州。	瑪麗翁	為了調查月影會的動向，正準備前往朱格爾州。
+TalkEvent_13_008ID	9	Resna	レスナ	なるほど！\n同じ目的地だったんですね！	Resna	Right! We have the same destination!	蕾斯娜	原来是这样啊，\n我们的目的地一样呢！	蕾斯娜	原來如此！我們的目的地一樣！
+TalkEvent_13_008ID	10	Roman	ロマン	調査の結果、ジュゲル州の密林で\n月影の会が不穏な動きをしていることが分かったんだ	Roman	The results from our investigation show the Moonlight Society is up to something in the jungles of Yuggel.	罗曼	最近的调查结果显示，\n月影会在尤格鲁州密林中的行迹着实可疑。	羅曼	調查結果顯示，\n月影會在朱格爾州的密林裡有可疑的舉動。
+TalkEvent_13_008ID	11	Roman	ロマン	あそこには古代の宝が眠っているという噂もあるし\nそれを手に入れようとしているのかもしれない	Roman	There are rumors of ancient treasures hidden there. They might be trying to get their hands on them.	罗曼	也有传闻说那里沉睡着古代宝藏，\n他们说不定就是想得到那个东西。	羅曼	也有傳言指出那裡沉睡著古代的寶物，\n他們或許就是想得到寶物。
+TalkEvent_13_008ID	12	Resna	レスナ	古代の宝……もし見つけることができたら、\n月影の会の資金源になりますね	Resna	Ancient treasures? Maybe they're looking for them to help fund the Moonlight Society.	蕾斯娜	古代宝藏……要是被月影会找到，\n就会成为他们的资金来源吧。	蕾斯娜	古代的寶物……如果讓月影會成功找到，\n就會成為他們的資金來源了。
+TalkEvent_13_008ID	13	Roman	ロマン	ああ。\n奴らが手にする前に阻止したい	Roman	Exactly. We need to stop them before that happens.	罗曼	是啊，\n所以我想抢先阻止他们。	羅曼	是啊，希望能在他們得手之前加以阻止。
+TalkEvent_13_008ID	14	Roman	ロマン	……本来なら、私が同行したかったんだが\n今、王都を離れるわけにはいかなくてね……	Roman	I would have liked to join you myself, but I'm unable to leave the capital right now...	罗曼	……我本想亲自和你们同行，\n但我现在有王都的事务，脱不开身……	羅曼	……我本來也很想要一起去的，\n但現在我不能離開王都……
+TalkEvent_13_008ID	15	Marion	マリオン	ロマンは、大人しくウェルテックス戦の\n後始末を頑張ることね	Marion	Roman needs to stay here and handle the aftermath of the battle with Weltex.	玛丽翁	罗曼还是老实去做\n威尔特克斯大战的善后工作吧。	瑪麗翁	羅曼，你要乖乖收拾威爾特庫斯戰的殘局喔。
+TalkEvent_13_008ID	16	Roman	ロマン	はぁぁ……分かっているさ	Roman	*Sigh* I know, I know...	罗曼	唉……我知道的。	羅曼	唉……我知道啦。
+TalkEvent_13_008ID	17	Roman	ロマン	私の代わりと言ってはなんだが、\nユナを連れていってもらえるかな	Roman	May I ask you to take Juna with you in my place?	罗曼	你们就带尤娜一起去吧，\n她算是我的代理人。	羅曼	雖然不能說是代替我，但妳們可以帶尤娜一起去嗎？
+TalkEvent_13_008ID	18	Resna	レスナ	ユナさんが来てくれるんですか！　すごいです！	Resna	Juna is coming too? That's fantastic!	蕾斯娜	尤娜小姐会一起去吗？！太棒了！	蕾斯娜	尤娜小姐可以來嗎？太棒了！
+TalkEvent_13_008ID	19	Valeria	ヴァレリア	マリオンと、リンカと、ユナ……うん！\n面白くなってきたじゃない！	Valeria	Marion, Linca, and Juna? This is getting interesting!	瓦莱莉娅	玛丽翁、琳卡、尤娜……\n嗯！事情有趣起来了嘛！	瓦萊莉婭	瑪麗翁、琳卡還有尤娜……\n嗯！事情變有趣了呢！
+TalkEvent_13_008ID	20	Marion	マリオン	どこで月影の会と接触することになるか\n分からない以上、油断はできないものね	Marion	We don't know where we might run into the Moonlight Society, so we can't let our guard down.	玛丽翁	也不知道会在哪里碰上月影会，\n所以要时时保持警惕。	瑪麗翁	既然還不知道會在哪碰上月影會，\n就不能掉以輕心。
+TalkEvent_13_008ID	21	Marion	マリオン	……さて。リンカ、そろそろ準備はできたかしら？	Marion	Now then. Linca, are you ready?	玛丽翁	……来吧，琳卡，你应该准备好了吧？	瑪麗翁	……那麼，琳卡，妳差不多做好準備了嗎？
+TalkEvent_13_008ID	22	Roman	ロマン	ユナも入っておいでよ！	Roman	Juna, you can also come on in!	罗曼	尤娜也进来吧！	羅曼	尤娜也進來吧！
+TalkEvent_13_008ID	23	Resna	レスナ	えっ？	Resna	Hmm?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_13_008ID	24	Linca	リンカ	は、はい！　失礼します！	Linca	Y-Yes! Reporting in!	琳卡	好、好的！我来了！	琳卡	是、是！打擾了！
+TalkEvent_13_008ID	25	Juna	ユナ	お呼びでしょうか、殿下	Juna	You called, Your Highness?	尤娜	殿下，您叫我？	尤娜	殿下，您找我嗎？
+TalkEvent_13_008ID	26	Resna	レスナ	リンカさん、ユナさん！\nその格好、どうしたんですか！？	Resna	Linca, Juna! What's with the new outfits?!	蕾斯娜	琳卡小姐、尤娜小姐！\n你们这身打扮是？！	蕾斯娜	琳卡小姐、尤娜小姐！\n妳們這身裝扮是怎麼了！？
+TalkEvent_13_008ID	27	Linca	リンカ	へ、変じゃないですか！？	Linca	D-Do they look strange?	琳卡	很、很奇怪吗？！	琳卡	很、很奇怪嗎！？
+TalkEvent_13_008ID	28	Roman	ロマン	いやあ、二人並ぶと一層、花があるねぇ。\nよく似合っているよ、二人とも！	Roman	Not at all, you both look wonderful. The new look suits you both so well!	罗曼	不不，两个人站在一起就更美了。\n二位穿的衣服十分合适！	羅曼	不會，兩個人站在一起更顯得魅力十足了。\n非常適合妳們！
+TalkEvent_13_009ID	0	Resna	レスナ	ふわぁ……\nお二人とも、とっても素敵です！	Resna	Wow... You both look amazing!	蕾斯娜	哇……\n你们这身打扮特别好看！	蕾斯娜	哇啊……\n兩位都好好看！
+TalkEvent_13_009ID	1	Valeria	ヴァレリア	ユナがいつもの鎧を着てないなんて、\nなんだか新鮮ね	Valeria	It's refreshing to see you without your usual armor, Juna!	瓦莱莉娅	尤娜没有穿平时一直穿着的铠甲，\n给人感觉很新鲜呢。	瓦萊莉婭	難得尤娜沒有穿著平常那套鎧甲，\n感覺很新鮮。
+TalkEvent_13_009ID	2	Juna	ユナ	今回は殿下の護衛ではなく月影の会との戦いだからな。\nそれに、密林は足場も悪いし障害物も多い	Juna	This time, it's not about guarding His Highness but fighting the Moonlight Society. Plus, the jungle terrain is rough with many obstacles.	尤娜	这次的工作不是守护殿下，而是要与月影会战斗。\n而且密林中环境复杂，有不少障碍物。	尤娜	因為我這次不是要當殿下的護衛，而是要和月影會戰鬥。\n而且密林中地面崎嶇，障礙物也很多。
+TalkEvent_13_009ID	3	Juna	ユナ	不測の事態に備えてすぐに動けるよう、\n軽装を選んだんだ	Juna	I chose lighter armor to be able to move quickly in case of any unexpected situations.	尤娜	为了应对不测，\n我选了便于行动的轻装。	尤娜	我希望能迅速行動以應付意外情況，才會換上輕裝。
+TalkEvent_13_009ID	4	Valeria	ヴァレリア	そうね、それがいいと思うわ。\nそっちのほうが、鴉とも戦いやすそうだし	Valeria	Good idea. It looks like it would be easier to fight Crow in that too.	瓦莱莉娅	也对，这身装备很应景。\n这样跟鸦战斗起来也方便。	瓦萊莉婭	確實，這麼做比較好。\n而且這樣也比較方便和烏鴉戰鬥。
+TalkEvent_13_009ID	5	Resna	レスナ	でも、ユナさん。本当にいいんですか？\nロマンさんのそばを離れても	Resna	But Juna, are you sure it's okay to leave Roman's side?	蕾斯娜	不过，尤娜小姐，\n你真的放心离开罗曼先生吗？	蕾斯娜	不過，尤娜小姐，\n妳離開羅曼先生真的沒關係嗎？
+TalkEvent_13_009ID	6	Juna	ユナ	私がおそばにいない間、\n殿下は王宮を出ないと約束してくださった	Juna	His Highness has promised not to leave the palace while I'm away.	尤娜	殿下答应我了，\n在我不在他身边的期间，他不会离开王宫。	尤娜	殿下答應過我，\n我不在他身旁的期間，他不會離開王宮。
+TalkEvent_13_009ID	7	Roman	ロマン	はぁ……こんなに仕事が詰まっていなければ……	Roman	*Sigh*... If only I didn't have so much work...	罗曼	唉……但凡我没有这么多的工作……	羅曼	唉……如果工作沒有塞得這麼滿的話……
+TalkEvent_13_009ID	8	Marion	マリオン	ふふふ。そんなわけで、ロマンの犠牲の上に\n揃ったのが、この最高にかわいい二人ってわけ！	Marion	Hehe. So with Roman's brave sacrifice, we instead have these two lovely ladies ready to accompany us.	玛丽翁	呵呵，所以能得到这两位无比可爱的同伴，\n是建立在罗曼的牺牲上呢！	瑪麗翁	呵呵呵。也就是說，\n羅曼的犧牲換來兩位超級可愛的夥伴了！
+TalkEvent_13_009ID	9	Resna	レスナ	じゃあ、お二人の衣装はマリオンさんが？	Resna	So, Marion, did you make their outfits?	蕾斯娜	那她们的衣服是玛丽翁小姐做的吗？	蕾斯娜	那，兩位的服裝是瑪麗翁小姐準備的嗎？
+TalkEvent_13_009ID	10	Juna	ユナ	私のは自分で用意したものだ	Juna	I prepared my own attire.	尤娜	我的是自己准备的。	尤娜	我的服裝是自己準備的。
+TalkEvent_13_009ID	11	Marion	マリオン	ユナのこのかわいい衣装を見て\nリンカに着せることを閃いたのよね	Marion	And I saw the adorable outfit Juna made, which gave me the idea to dress Linca similarly.	玛丽翁	我看到尤娜那身可爱的衣服后，\n灵光一闪，想让琳卡也这么穿。	瑪麗翁	我看到尤娜這套可愛的服裝，\n靈機一動也想讓琳卡穿穿看。
+TalkEvent_13_009ID	12	Marion	マリオン	似た意匠を取り入れつつ、\n対照的な色を取り入れてみたの	Marion	I tried to keep the designs similar, but I decided to use contrasting colors.	玛丽翁	于是我采用相似的款式\n和对比强烈的颜色设计了琳卡的衣服。	瑪麗翁	所以採用了相近的設計和對比的顏色。
+TalkEvent_13_009ID	13	Resna	レスナ	確かに……たとえるなら、\nユナさんは青空、リンカさんは太陽、って感じですね！	Resna	They look great! Juna is like the blue sky, and Linca is like the sun!	蕾斯娜	还真是……要是打比方的话，\n尤娜小姐像是蓝天，琳卡小姐就是太阳！	蕾斯娜	確實……如果要比喻的話，\n尤娜小姐就像藍天，琳卡小姐則像是太陽呢！
+TalkEvent_13_009ID	14	Marion	マリオン	なるほど、いいたとえね	Marion	That's a wonderful comparison.	玛丽翁	哦，你这个比喻不错。	瑪麗翁	原來如此，比喻得很好呢。
+TalkEvent_13_009ID	15	Resna	レスナ	えへへ……。\nリンカさん、よくお似合いですよ！	Resna	Hehe... Linca, it really suits you!	蕾斯娜	嘿嘿……\n琳卡小姐，你穿这身很合适哦！	蕾斯娜	嘿嘿……\n琳卡小姐，這真的很適合妳！
+TalkEvent_13_009ID	16	Linca	リンカ	うう。自分は必要ないと言ったのに……	Linca	Ngh... I told her it wasn't necessary...	琳卡	唔，我都说了不需要的……	琳卡	唔唔，我都說過不需要了……
+TalkEvent_13_009ID	17	Marion	マリオン	なに言ってるのよ！　こんなにかわいいのに！\nもっと楽しまないと、もったいないじゃない！	Marion	What are you talking about? You look adorable! Just enjoy it!	玛丽翁	你说什么呀！你这么可爱！\n要是不好好打扮就太浪费了！	瑪麗翁	妳在說什麼呀！明明這麼可愛！\n不好好享受也太可惜了吧！
+TalkEvent_13_009ID	18	Juna	ユナ	……かわいいか。\nなんの迷いもなく、口に出せるのだな……	Juna	Adorable? How can you say such things so easily...	尤娜	……可爱啊。\n真是毫不犹豫地就说出口了呢……	尤娜	……可愛嗎？\n真虧妳能毫不猶豫地說出這種話……
+TalkEvent_13_009ID	19	Valeria	ヴァレリア	そういえば、武器もいつもと違うわね？	Valeria	Looks like you're using a different weapon, too.	瓦莱莉娅	说起来，你们的武器跟平时用的也不一样吧？	瓦萊莉婭	話說，妳的武器也和平常不太一樣對吧？
+TalkEvent_13_009ID	20	Juna	ユナ	あ、ああ……	Juna	Ah, yes.	尤娜	是、是的……	尤娜	嗯、對……
+TalkEvent_13_009ID	21	Roman	ロマン	ユナは色んな武器を使えるんだよ。武芸百般ってね	Roman	Juna can use all kinds of weapons. She's a true weapons master!	罗曼	尤娜可是样样精通哦，没有她用不好的武器。	羅曼	尤娜會使用各式各樣的武器，精通百般武藝。
+TalkEvent_13_009ID	22	Juna	ユナ	今回は、場所や相手を聞いて、\nこの武器がよいと思った。直感ではあるが	Juna	Given the location and our opponents, I felt this weapon would be best. Just a gut feeling, though.	尤娜	听说了这次的任务地点跟对手后，\n我觉得用这种武器比较合适，不过这只是我的直觉。	尤娜	我聽到這次的地點和對手，就覺得這種武器比較合適。\n不過只是直覺就是了。
+TalkEvent_13_009ID	23	Valeria	ヴァレリア	直感分かる。大事よね～	Valeria	I get that. Intuition is important.	瓦莱莉娅	我懂的，直觉很重要。	瓦萊莉婭	我懂那個直覺，這很重要呢～
+TalkEvent_13_009ID	24	Roman	ロマン	しかし本当に残念だ……。\nまたしても旅に同行できないとは	Roman	It really is such a shame that I'm unable to journey with you this time.	罗曼	说来这次我无法同行实在是太可惜了……	羅曼	但是真的好可惜……\n沒想到又不能跟妳們一起旅行了。
+TalkEvent_13_009ID	25	Roman	ロマン	なにせ、ジュゲル州は\nあの「赤のほうき星」が落ちた場所でもあるからね	Roman	Especially since Yuggel is where the Red Comet fell!	罗曼	毕竟尤格鲁州也是“红色彗星”的坠落地点。	羅曼	再怎麼說，\n朱格爾州可是那個「紅色彗星」墜落的地方。
+TalkEvent_13_009ID	26	Resna	レスナ	はっ！？　赤のほうき星！\nそういえばそうですね！	Resna	What?! The Red Comet? I almost forgot about that!	蕾斯娜	啊？！红色彗星！\n对哦！	蕾斯娜	什麼！？紅色彗星！這麼說來確實是耶！
+TalkEvent_13_009ID	27	Valeria	ヴァレリア	赤のほうき星……？　何それ？	Valeria	The Red Comet? What's that?	瓦莱莉娅	红色彗星……？那是什么？	瓦萊莉婭	紅色彗星……？那是什麼？
+TalkEvent_13_009ID	28	Resna	レスナ	恵みのマナをもたらすほうき星とは違って\n災厄を呼ぶといわれる不吉な星なの	Resna	Unlike the comet that brought the blessing of mana, the Red Comet is said to have brought disaster.	蕾斯娜	传说红色彗星跟带来丰富玛那的彗星不同，\n是招来灾祸的不祥彗星。	蕾斯娜	它和帶來星之恩惠瑪那的彗星不同，\n是人稱災厄的不祥之星。
+TalkEvent_13_009ID	29	Resna	レスナ	ジュゲル州は、その赤い星が落ちた場所だって\nいわれてて。書物にも載ってるの	Resna	It's also often mentioned in books that the Red Comet fell in Yuggel.	蕾斯娜	尤格鲁州据说就是那个红色彗星的坠落地点，\n书上也有记载呢。	蕾斯娜	據說朱格爾州就是那顆赤紅之星墜落的地方。\n書籍上也有記載。
+TalkEvent_13_009ID	30	Resna	レスナ	ずっと昔の話だから、詳しくは分からないんだけどね	Resna	It's a story from a really long time ago, though, so I don't know the details.	蕾斯娜	那是很久很久以前的事了，所以谁也不清楚详情。	蕾斯娜	但這是非常久遠的事了，詳細內容我也不清楚。
+TalkEvent_13_009ID	31	Valeria	ヴァレリア	へぇ……	Valeria	Huh...	瓦莱莉娅	这样啊……	瓦萊莉婭	哦……
+TalkEvent_13_009ID	32	Roman	ロマン	実は、私はその落下地点だといわれている場所へ\n調査に赴いたこともあるんだ	Roman	I've actually been to the supposed impact site for an investigation in the past.	罗曼	其实我以前也去那个疑似坠落地点调查过。	羅曼	其實，我曾經前往那個傳說的彗星墜落地點調查過。
+TalkEvent_13_009ID	33	Resna	レスナ	そうなんですか！？\nいったいどういう場所なんでしょう！？	Resna	Really?! What kind of place was it?	蕾斯娜	是吗？！\n那里是个什么样的地方？！	蕾斯娜	真的嗎！？那裡是什麼樣的地方呢？
+TalkEvent_13_009ID	34	Roman	ロマン	それは実際に君の目で確かめるといい。\nまた今度、感想を聞かせてくれ	Roman	You should see it for yourself. Tell me what you think once you return.	罗曼	你还是自己去见证一番比较好。\n下次让我听听你的感想吧。	羅曼	妳就自己親眼去確認吧。\n下次再跟我說說妳的感想。
+TalkEvent_13_009ID	35	Resna	レスナ	はいっ！　ぜひ語り合いましょう！	Resna	Yes! I'd love to discuss it with you!	蕾斯娜	嗯！到时候一定要聊聊！	蕾斯娜	好！到時候再一起聊聊！
+TalkEvent_13_009ID	36	Roman	ロマン	ああ！	Roman	Indeed!	罗曼	好！	羅曼	嗯！
+TalkEvent_13_009ID	37	Roman	ロマン	しかしまあ、ユナに加えてマリオンまで一緒では\n四六時中、説教が飛んできそうだ	Roman	Anyway, at least with Juna and Marion joining you I'll be avoiding the constant lectures.	罗曼	不过，不仅有尤娜在，连玛丽翁都来了，\n一路上肯定会说教个没完。	羅曼	不過，有尤娜再加上瑪麗翁，\n感覺一整天都得聽她們說教。
+TalkEvent_13_009ID	38	Roman	ロマン	今回は同行しなくて正解だったかもしれないね。\n私は王都で大人しく留守番でもしているよ	Roman	In that sense, maybe it's for the best that I'm not going. I'll stay in the capital and hold the fort.	罗曼	这次说不定不去才是明智的。\n我就在王都老实看家吧。	羅曼	這次沒有和妳們一起走也許是對的。\n我會老實待在王都看家的。
+TalkEvent_13_009ID	39	Marion	マリオン	ロマン……\n強がれば強がるほど、むなしくなるわよ	Marion	Roman... The more you try to act tough, the hollower it sounds.	玛丽翁	罗曼……\n你越是嘴硬就越容易空虚寂寞哦。	瑪麗翁	羅曼……你越逞強只會越覺得空虛喔。
+TalkEvent_13_009ID	40	Roman	ロマン	泣いていいかい？	Roman	Maybe I should cry then?	罗曼	我可要哭了啊？	羅曼	我可以哭一下嗎？
+TalkEvent_13_009ID	41	Juna	ユナ	仕事してください	Juna	Just get back to work.	尤娜	请您好好工作。	尤娜	請去工作。
+TalkEvent_13_010ID	0	Valeria	ヴァレリア	そろそろつく頃かしら。\nレスナ、心の準備はできてる？	Valeria	We should be getting close. Resna, are you ready?	瓦莱莉娅	是时候出发了。\n蕾斯娜，你准备好了吗？	瓦萊莉婭	差不多快要抵達了。\n蕾斯娜，妳做好心理準備了嗎？
+TalkEvent_13_010ID	1	Resna	レスナ	うん、大丈夫にも程があるよ	Resna	Yeah, ready as can be.	蕾斯娜	嗯，我已经准备过头啦。	蕾斯娜	嗯，完全沒問題。
+TalkEvent_13_010ID	2	Resna	レスナ	だって。こんなに頼もしい仲間と一緒だもん	Resna	I mean, I have such reliable companions here with me!	蕾斯娜	毕竟有这么多可靠的伙伴跟我一起嘛。	蕾斯娜	畢竟有這麼多可靠的夥伴和我在一起。
+TalkEvent_13_010ID	3	Linca	リンカ	自分とヴァレリアが揃っているのですから\n大船に乗った気持ちでいてください！	Linca	With Valeria and myself by your side, you couldn't be in better hands.	琳卡	有我跟瓦莱莉娅在，\n你们就放一百万个心吧！	琳卡	有我和瓦萊莉婭在，\n肯定安安穩穩，儘管放心吧！
+TalkEvent_13_010ID	4	Marion	マリオン	リンカってば友達ができて嬉しそうね……ん？\nあそこ……人が倒れてるわ	Marion	Linca, you seem so happy to have made some frien— Hm? Over there... Someone is collapsed on the ground.	玛丽翁	琳卡交上了朋友，看起来很开心呢……\n嗯？那边……好像有人倒在地上。	瑪麗翁	感覺琳卡交到了朋友很開心呢……嗯？\n那裡……有人倒在那。
+TalkEvent_13_010ID	5	Resna	レスナ	よし。これでケガのほうは応急処置できましたよ	Resna	Okay, I've done what I can for his injuries.	蕾斯娜	好，伤口紧急处理完毕。	蕾斯娜	好，這樣傷口就緊急處理好了。
+TalkEvent_13_010ID	6		男	くっ……いてて……！	Man	Ugh... It hurts...	男性	唔……好痛啊……！	男	嗚……好痛……！
+TalkEvent_13_010ID	7	Marion	マリオン	さて。どうして倒れてたのか、話を聞かせてくれる？	Marion	So. Care to tell us why you were collapsed over here?	玛丽翁	能告诉我们你为什么会倒在这里吗？	瑪麗翁	那麼，你能告訴我們，為什麼你會倒在這裡嗎？
+TalkEvent_13_010ID	8		男	ちょっと同業者と内輪揉めして、のされたんだよ	Man	Just a scuffle with some colleagues.	男性	我跟同行起矛盾挨了一顿揍。	男	我和同行起了內鬨，被他們修理了一頓。
+TalkEvent_13_010ID	9	Marion	マリオン	「同業者」か。こんなケガを負わされるなんて、\n随分荒っぽいお仲間なのね	Marion	Colleagues? They're not very good companions if they leave you in a state like this.	玛丽翁	“同行”啊，受了这么重的伤，\n你的伙伴也是挺凶残的。	瑪麗翁	「同行」是嗎？\n把你打成這樣，這些夥伴還真是粗暴啊。
+TalkEvent_13_010ID	10		男	仲間なんかじゃねぇよ。同じこの州の出ってだけだ。\n俺も含めて全員寄せ集めの新入りだよ	Man	They ain't no companions of mine. Just came from the same province, that's all. We're all just new recruits.	男性	算不上什么伙伴，我们只是来自同一个州。\n包括我在内，大家都是临时组队的新人。	男	他們才不是什麼夥伴。只不過是同個州出身的人而已。\n包括我在內，所有人都是招來的新人。
+TalkEvent_13_010ID	11	Juna	ユナ	「新入り」ということは、\n何かの組織に属しているのか？	Juna	New recruits? Are you part of some kind of organization?	尤娜	你说“新人”，\n你们是加入了什么组织吗？	尤娜	「新人」，也就是說，你們隸屬於某個組織嗎？
+TalkEvent_13_010ID	12		男	そんな質問に……ま、いっか。月影の会だよ	Man	I ain't gonna tell y... Actually, who cares. It's the Moonlight Society.	男性	这个问题不太……算了，就是月影会。	男	我幹嘛回答……算了，就是月影會啦。
+TalkEvent_13_010ID	13	Resna	レスナ	月影の会！？	Resna	The Moonlight Society?!	蕾斯娜	月影会？！	蕾斯娜	月影會！？
+TalkEvent_13_010ID	14	Valeria	ヴァレリア	会の仲間同士で争いを……？	Valeria	Fighting among their own members?	瓦莱莉娅	月影会起内讧了……？	瓦萊莉婭	會裡的同伴鬧內鬨嗎……？
+TalkEvent_13_010ID	15		男	お前さんたちみてぇな嬢ちゃんは知らねぇだろうが……\n月影の会ってのは、そういう場所なんだよ	Man	Heh. Buncha young ladies like you wouldn't know, but that's just the kinda place the Moonlight Society is.	男性	像你们这种小姑娘是不知道的吧……\n月影会就是那么一个地方。	男	像妳們這種大小姐肯定不會知道吧……\n月影會就是這樣的地方。
+TalkEvent_13_010ID	16		男	それなりの額を上納すりゃ、幹部になれるんだ。\nそんで、みんな手柄を競って足を引っ張りあってる	Man	Pay in enough to the Society and you become a ranking member... So everyone is always workin' against each other to take all the credit.	男性	赚到足够的收入交给上头就能成为干部，\n所以大家为了立功都在互相扯后腿。	男	只要上繳足夠的錢就能當上幹部，\n然後，大家都為了爭奪功勞而互相扯後腿。
+TalkEvent_13_010ID	17	Valeria	ヴァレリア	え？　そんなことってあるの！？	Valeria	Huh? I can hardly believe that.	瓦莱莉娅	咦？还有这种事啊？！	瓦萊莉婭	咦？可以這樣的嗎！？
+TalkEvent_13_010ID	18		男	まったくだよ。無茶苦茶で割に合わねぇってんだ。\nってことで、俺はもう抜けるわ。じゃあな！	Man	Exactly. It's ridiculous and just ain't worth it. So, I'm out. See ya!	男性	是啊。那里头乱七八糟的，待着浪费时间。\n所以我这就要退出了，再见啦！	男	真的，亂七八糟一點都不划算。\n所以，我打算退出了。再見！
+TalkEvent_13_010ID	19	Valeria	ヴァレリア	変ね。月影の会って、そんな考えなしの会じゃ\nなかったんだけど……何かあったのかしら	Valeria	Weird. That doesn't sound like the Moonlight Society I know at all... I wonder what changed.	瓦莱莉娅	真奇怪，月影会应该不是这么无脑乱来的组织……\n到底是发生什么了？	瓦萊莉婭	真奇怪，月影會應該不是這麼魯莽的組織才對……\n發生了什麼事嗎？
+TalkEvent_13_010ID	20	Resna	レスナ	ヴァレリアがいた時の月影の会って、\nどんなだったの？	Resna	What was the Moonlight Society like when you were there?	蕾斯娜	瓦莱莉娅在籍的时候，月影会是什么样的？	蕾斯娜	妳當初還在的時候，月影會是怎麼樣的情況？
+TalkEvent_13_010ID	21	Valeria	ヴァレリア	少なくとも、構成員同士の争いごとはご法度だったわ。\nそんなことをしたら、すぐに鴉が飛んでくる	Valeria	At the very least, fighting among members was forbidden. If you did, Crow would swoop down immediately.	瓦莱莉娅	至少是禁止成员之间争斗的。\n要是做了那种事，鸦很快就会出现。	瓦萊莉婭	至少同伴之間禁止爭鬥。\n要是起了爭執，烏鴉很快就會出現了。
+TalkEvent_13_010ID	22	Resna	レスナ	鴉……	Resna	Crow...	蕾斯娜	鸦……	蕾斯娜	烏鴉……
+TalkEvent_13_010ID	23	Valeria	ヴァレリア	強引なやり方ではあったけど、\nちゃんと決まりがあって、月影の会なりの秩序があった	Valeria	They were very forceful in their ways, but there were strict rules that kept the peace within the Society.	瓦莱莉娅	这种处理方式虽然强硬，\n但规矩森严也维护了月影会自己的秩序。	瓦萊莉婭	雖然做法有些強硬，\n但月影會有自己的規則與秩序。
+TalkEvent_13_010ID	24	Valeria	ヴァレリア	私やハイディみたいな訳ありの奴らも\n受け入れてくれたしね	Valeria	I mean, they even accepted people that weren't exactly ideal, like Heidi and me.	瓦莱莉娅	毕竟他们会接纳我跟海蒂这种有隐情的人嘛。	瓦萊莉婭	而且月影會還接受了我和海蒂這樣另有隱情的人。
+TalkEvent_13_010ID	25	Marion	マリオン	前にロマンからも聞いたわ。月影の会は規律によって\n管理されていて、あまり目立つようなことはしない	Marion	Roman mentioned that as well. The Moonlight Society was controlled with strict discipline to make sure it never drew too much attention.	玛丽翁	之前罗曼也说过，月影会就是因为有规矩，\n才不会做太出格的事。	瑪麗翁	我之前也聽羅曼說過。\n月影會內部有紀律在管理，不太會做出引人注目的事。
+TalkEvent_13_010ID	26	Marion	マリオン	だから、国も黙認せざるを得ない。その辺りは抜け目が\nないというか……上手くやってきたみたいね	Marion	That's why the kingdom had to just quietly condone them. They had their bases covered and took care of things well.	玛丽翁	所以，王国也只能默许。过去他们在这方面\n做得相当妥善……总之一直都那样顺利运作着。	瑪麗翁	所以，國家也只能默許他們的存在。\n可能是因為行事精明……他們一直以來似乎都活得很好。
+TalkEvent_13_010ID	27	Juna	ユナ	だが、今やそれも崩れた	Juna	But now, that seems to be falling apart.	尤娜	但现在，规矩也维持不了了。	尤娜	但是，現在連這點也走樣了。
+TalkEvent_13_010ID	28	Marion	マリオン	何か事情があって、方針が変わったのかしら	Marion	Something must have happened to change the way they're doing things.	玛丽翁	是出了什么事改变了方针吗？	瑪麗翁	會是因為什麼苦衷，讓他們改變了方針嗎？
+TalkEvent_13_010ID	29	Valeria	ヴァレリア	何があったのかは知らないけど……\n私たちの邪魔をするなら、容赦しないんだから	Valeria	Not sure what that something might be... But if they get in our way, we won't hold back.	瓦莱莉娅	虽然不知道发生了什么……\n但要是敢妨碍我们，我绝不会手下留情。	瓦萊莉婭	雖然不知道發生了什麼事……\n但他們要是敢來妨礙我們，我絕不會放過他們的。
+TalkEvent_13_011ID	0		依頼主	……というわけで、魔物が密林一帯に出るように\nなって、しかも日増しに数が増えちまってるんだ	Client	...Simply put, monsters have begun to appear throughout the jungle, and their numbers are increasing by the day.	委托人	……所以魔物开始在密林一带出没，\n而且数量与日俱增。	委託人	……事情就是這樣。\n魔物開始出現在密林那一帶，而且數量還日益增加。
+TalkEvent_13_011ID	1	Resna	レスナ	今回のような被害は、これが初めてですか？	Resna	Is this the first time something like this has occurred?	蕾斯娜	是第一次造成这种损失吗？	蕾斯娜	你是第一次遇上像這樣的災情嗎？
+TalkEvent_13_011ID	2		依頼主	いや、実は昔にも似たようなことがあったんだよ。\n害虫と、それを食べる魔物が異常に増えてしまって	Client	No, there was actually a similar case in the past—a sudden increase in insects that led to an increase in the monsters that feed on them.	委托人	不，其实以前也有过类似的情况。\n害虫跟以它为食的魔物无端增加……	委託人	不是，其實以前也發生過類似的情況，\n害蟲和掠食害蟲的魔物數量異常增加。
+TalkEvent_13_011ID	3		依頼主	でも今は、それよりさらに厄介な状況だ。\n魔物だけでなく、怪しげな連中までうろついている	Client	But this time it's a lot worse. This time, along with the monsters, we also have those suspicious folk loitering about.	委托人	但这次的情况更麻烦。\n不仅是魔物，还有一帮可疑的团伙在游荡。	委託人	但是這次的情況比當時更嚴重。\n不只是魔物，連可疑分子都在附近遊蕩。
+TalkEvent_13_011ID	4	Marion	マリオン	怪しげな連中？	Marion	Suspicious folk?	玛丽翁	可疑的团伙？	瑪麗翁	可疑分子？
+TalkEvent_13_011ID	5		依頼主	ああ。何を探してるのかは知らねえが、\n大勢で森の中に入っていくのを見たぜ	Client	Yeah, I saw a large group heading into the forest. No idea what they're looking for.	委托人	是啊，我看到有一大帮人进入了森林，\n也不知道他们在找什么。	委託人	嗯。不知道他們在找什麼，\n我看到他們一大群人進到了森林裡。
+TalkEvent_13_011ID	6	Valeria	ヴァレリア	大勢で……月影の会の奴らかしら	Valeria	A large group? Could it be the Moonlight Society again?	瓦莱莉娅	一大帮人……会是月影会吗？	瓦萊莉婭	一大群人……會是月影會的人嗎？
+TalkEvent_13_011ID	7		依頼主	あと、女の二人組もついさっき見かけたな。\n止めようとしたんだが、あっという間に行っちまった	Client	I also saw two women head in not long ago. I tried to stop them, but they just barged on in.	委托人	我刚才还看到两个女人要进森林，\n我本想阻止她们，谁知道一眨眼人就不见了。	委託人	還有，我剛才也看到兩個女人，\n本來打算去阻止她們，但她們轉眼間就跑掉了。
+TalkEvent_13_011ID	8		依頼主	依頼しておいてなんだけど、正直、頂獣を倒した\n騎士団くらいじゃないと手に負えないかもしれない	Client	I know I put in the request, but to be honest, I'm starting to think we should get someone like the knights who defeated the Apexi to handle this.	委托人	虽然是我有求于人，但丑话说在前头，如果不是\n打倒了顶兽的骑士团，或许无力应对这个委托。	委託人	雖然我委託了妳們，但老實說，\n如果妳們比不上打倒頂獸的騎士團，說不定應付不了。
+TalkEvent_13_011ID	9	Marion	マリオン	あら、じゃああなた、運がいいわね。\nその頂獣討伐隊に、このレスナも参加していたのよ	Marion	Well, you're in luck. Resna here was part of the team that defeated the Apexi.	玛丽翁	哎呀，那你运气很好呢，\n这边这位蕾斯娜就加入过顶兽讨伐队哦。	瑪麗翁	哎呀，那你運氣很好呢。\n這位蕾斯娜就有參加那個頂獸討伐隊喔。
+TalkEvent_13_011ID	10		依頼主	えっ！　本当かい？	Client	Huh?! Really?	委托人	咦！真的吗？	委託人	咦！真的嗎？
+TalkEvent_13_011ID	11	Resna	レスナ	は、はい！　それに、こっちのヴァレリアも\n同じく作戦に参加していたんです！	Resna	Y-Yes! And Valeria here also took part in the mission!	蕾斯娜	是、是的！而且这位瓦莱莉娅\n也跟我一起参加过那次作战！	蕾斯娜	是、是的！\n而且，這邊這位瓦萊莉婭也同樣有參加那場作戰！
+TalkEvent_13_011ID	12	Valeria	ヴァレリア	いぇい	Valeria	Yippie.	瓦莱莉娅	耶——！	瓦萊莉婭	耶～
+TalkEvent_13_011ID	13		依頼主	そうだったのか！　そう言われれば、\n君たちの仲間たちはみんな強そうな……お！？	Client	I had no idea! Now that you mention it, your companions do look rather formi—huh?!	委托人	是这么回事啊！的确，\n你们的伙伴看起来挺强……哦？！	委託人	原來是這樣！\n這麼一說，妳的這些夥伴每個人感覺都很強……喔！？
+TalkEvent_13_011ID	14	Juna	ユナ	…………。\nなんだろうか？	Juna	...Is something the matter?	尤娜	……\n有什么事？	尤娜	…………\n怎麼了嗎？
+TalkEvent_13_011ID	15		依頼主	も、もしかして、そっちにいるのは白夜の騎士の\nユナじゃないかい！？　白い鎧は着てないけれど	Client	A-Are you who I think you are? Juna, the Knight of the Midnight Sun? Your armor isn't white, though...	委托人	难、难道这边这位是白夜骑士尤娜吗？！\n虽然没有穿白色铠甲……	委託人	這、這位該不會是白夜騎士尤娜吧！？\n雖然現在沒穿白色鎧甲。
+TalkEvent_13_011ID	16		依頼主	うん、やっぱり間違いない！　竜退治の伝記は\n何度も読んだんだ！　挿絵と瓜二つだよ！	Client	But there's not a doubt in my mind! I've read the tales of your dragon slaying so many times! You look just like the pictures!	委托人	嗯，我果然没看错！毕竟屠龙传记我都翻烂了！\n你跟插图上的人长得一模一样！	委託人	嗯，肯定沒錯！我讀過無數次那本妳打倒龍的傳記！\n妳的長相跟插畫一模一樣！
+TalkEvent_13_011ID	17	Marion	マリオン	そんなすぐに分かるものなのね	Marion	I didn't think Juna was so recognizable.	玛丽翁	有这么好认吗……	瑪麗翁	原來大家這麼快就能認出她啊。
+TalkEvent_13_011ID	18	Resna	レスナ	ユナさんの伝記は人気ですし、ご本人も誰もが\n想像する騎士を体現したような方ですから！	Resna	The stories of Juna's adventures are very popular. She embodies what everyone imagines a knight to be!	蕾斯娜	因为首先尤娜小姐的传记就是热门图书，\n而且你的形象也完全符合人们对骑士的想象！	蕾斯娜	畢竟尤娜小姐的傳記很受歡迎，\n而且她本人就如同大家想像中的騎士一樣！
+TalkEvent_13_011ID	19		依頼主	あのユナがいるなら百人力だ！\n魔物退治、よろしく頼むよ！	Client	With Juna here, we have nothing to worry about! I leave the monsters in your capable hands!	委托人	相信白夜骑士尤娜必定能以一敌百！\n那就拜托你们帮忙讨伐魔物了！	委託人	有這位尤娜在肯定能以一擋百！\n就麻煩各位消滅魔物了！
+TalkEvent_13_011ID	20	Resna	レスナ	はいっ！\n粉骨砕身、頑張らせていただきます！	Resna	Great! We'll do everything we can!	蕾斯娜	好的！\n我会努力的！粉身碎骨，万死不辞！	蕾斯娜	是！我會使出渾身解數努力的！
+TalkEvent_13_011ID	21	Resna	レスナ	前に来た時は虫から逃げてばっかりだったけど……\n今回は逃げるわけにはいかない！	Resna	Last time I was here, I just ran away from the bugs... But this time, I won't run!	蕾斯娜	上次来的时候一直都在躲虫子……\n不过这次我不会再逃了！	蕾斯娜	上一次來的時候一直被蟲追得四處跑……\n這次我不能再逃跑了！
+TalkEvent_13_011ID	22	Resna	レスナ	このために虫に慣れる特訓だってした。\n心頭滅却、精神一到。よし、頑張るぞ！	Resna	I trained to get used to bugs just for this. Suppress the fear. Mind over matter. I can do this!	蕾斯娜	为此我特地进行了适应虫子的特训。\n心无杂念，集中精神，好，加油！	蕾斯娜	我還特地做了特訓要習慣蟲。\n平心靜氣、集中精神。好，加油吧！
+TalkEvent_13_011ID	23	Valeria	ヴァレリア	うんうん。その意気よ、レスナ	Valeria	That's the spirit, Resna!	瓦莱莉娅	嗯嗯，说得好，蕾斯娜！	瓦萊莉婭	嗯嗯，就是這股氣勢，蕾斯娜！
+TalkEvent_13_011ID	24	Resna	レスナ	月影の会の話もあるし、\n一層気を付けて進まないと……！	Resna	Bugs are one thing, but we also have the Moonlight Society to worry about. We need to be extra careful!	蕾斯娜	事关月影会，\n要慎重前进……！	蕾斯娜	加上還有月影會的事，\n我們得更加謹慎前進才行……！
+TalkEvent_13_011ID	25	Juna	ユナ	レスナ。確かに警戒は必要だが、\nそんなに気を張っていては長くは持たないぞ	Juna	Resna, it's good to be vigilant, but if you're always that tense, you're not going to last long.	尤娜	蕾斯娜，戒备固然重要，\n不过你这么绷紧神经可撑不久啊。	尤娜	蕾斯娜，雖然保持警戒是必要的，\n但這麼緊繃是撐不了太久的。
+TalkEvent_13_011ID	26	Juna	ユナ	いざというときに力を発揮できるよう、\n上手く力の配分をしろ	Juna	Manage your energy so you can perform when it really matters.	尤娜	要好好分配你的力量，\n保证在关键时刻发挥能力。	尤娜	為了在關鍵時刻發揮實力，\n妳得善加分配精力。
+TalkEvent_13_011ID	27	Resna	レスナ	は、はいっ！	Resna	R-Right!	蕾斯娜	好、好的！	蕾斯娜	是、是！
+TalkEvent_13_011ID	28	Resna	レスナ	力の配分……なかなか難しいですね	Resna	Manage my energy... Easier said than done.	蕾斯娜	分配力量……感觉好难啊。	蕾斯娜	分配精力……感覺好難啊。
+TalkEvent_13_011ID	29	Valeria	ヴァレリア	私とレスナってなんだか正反対ね	Valeria	You and I really are quite the opposites.	瓦莱莉娅	我跟蕾斯娜正好相反呢。	瓦萊莉婭	總覺得我和妳正好相反呢。
+TalkEvent_13_011ID	30	Resna	レスナ	えっ？	Resna	Hmm?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_13_011ID	31	Valeria	ヴァレリア	私、やる時以外やらなすぎってみんなから言われるの。\nいつも頑張りすぎなレスナとは真逆じゃない？	Valeria	Everyone always says I don't do anything unless it's absolutely necessary, but you're always going full steam. We're opposites.	瓦莱莉娅	大家都说我只有关键时刻靠得住，平时毫无干劲，\n这跟时刻都很有干劲的蕾斯娜不是正相反吗？	瓦萊莉婭	大家都說我除了該做事的時候以外都太沒幹勁了。\n而妳恰好相反，總是很努力對吧？
+TalkEvent_13_011ID	32	Resna	レスナ	ふふっ……いっそ、間を取ればいいのかな？	Resna	Hehe... Maybe we should find a balance between us?	蕾斯娜	呵呵……能匀一匀就好了对吧？	蕾斯娜	呵呵……我們乾脆平均一下好了？
+TalkEvent_13_011ID	33	Valeria	ヴァレリア	結構難しそうだけど、お互い気を付けましょ	Valeria	Doesn't sound easy, but we can give it a go.	瓦莱莉娅	改起来还挺难的，总之我们都注意点吧。	瓦萊莉婭	做起來可能不容易，但我們就彼此注意一下吧。
+TalkEvent_13_011ID	34	Resna	レスナ	うん。ヴァレリア、ありがとう！	Resna	Yeah. Thanks, Valeria!	蕾斯娜	嗯。瓦莱莉娅，谢谢你！	蕾斯娜	嗯。謝謝妳，瓦萊莉婭！
+TalkEvent_13_011ID	35	Resna	レスナ	じゃあ改めて――いざ密林へ！	Resna	All right, come on. Into the jungle!	蕾斯娜	那我们就正式——朝密林出发！	蕾斯娜	那麼──我們再次往密林出發吧！
+TalkEvent_13_012ID	0	Juna	ユナ	っ……何か来る	Juna	Something's coming.	尤娜	……有什么过来了。	尤娜	……有什麼過來了。
+TalkEvent_13_012ID	1	Resna	レスナ	え！？	Resna	Huh?!	蕾斯娜	咦？！	蕾斯娜	咦！？
+TalkEvent_13_012ID	2	Juna	ユナ	何者だ	Juna	Who's there?	尤娜	什么人！	尤娜	是誰？
+TalkEvent_13_012ID	3	Lila	リラ	…………	Lila	...	莉拉	…………	莉拉	…………
+TalkEvent_13_012ID	4	Valeria	ヴァレリア	リラ！	Valeria	Lila!	瓦莱莉娅	莉拉！	瓦萊莉婭	莉拉！
+TalkEvent_13_012ID	5	Lila	リラ	なんだ、お前たちか	Lila	Hmm, it's you lot.	莉拉	原来是你们啊。	莉拉	什麼嘛，是妳們啊。
+TalkEvent_13_012ID	6	Linca	リンカ	知り合いなのですか？	Linca	You know her?	琳卡	是熟人？	琳卡	是認識的人嗎？
+TalkEvent_13_012ID	7	Resna	レスナ	はい。以前、依頼を手伝っていただいたことがあって	Resna	Yes. She helped us with a previous request.	蕾斯娜	嗯，她以前在委托中帮过我们。	蕾斯娜	是。她以前曾在委託中幫過我們。
+TalkEvent_13_012ID	8	Juna	ユナ	失礼した	Juna	My apologies.	尤娜	真不好意思。	尤娜	失禮了。
+TalkEvent_13_012ID	9	???	？？？	どうやら盗賊じゃなかったみたいね	???	Oh, so they're not bandits?	？？？	看来不是盗贼呢。	？？？	看樣子不是盜賊啊。
+TalkEvent_13_012ID	10	Lila	リラ	ああ。知り合いの錬金術士の一行だ	Lila	They're not. Some alchemists I know.	莉拉	嗯，是我认识的见习炼金术士跟她的伙伴。	莉拉	嗯。是我認識的鍊金術士一行人。
+TalkEvent_13_012ID	11	Valeria	ヴァレリア	リラの仲間？	Valeria	Who's this?	瓦莱莉娅	这位是莉拉的伙伴吗？	瓦萊莉婭	她是莉拉的夥伴嗎？
+TalkEvent_13_012ID	12	Jurie	ユリエ	私はユリエ。トレジャーハンターよ	Jurie	I'm Jurie, a treasure hunter.	尤莉耶	我叫尤莉耶，是一名寻宝猎人。	尤莉耶	我叫尤莉耶，是寶藏獵人。
+TalkEvent_13_012ID	13	Resna	レスナ	なるほど、ではお二人は旅先でたまたま一緒になったと	Resna	So you two just happened to end up traveling together?	蕾斯娜	原来你们二位是在旅途中偶然结伴的啊。	蕾斯娜	原來如此，所以妳們是在旅行途中偶遇的啊。
+TalkEvent_13_012ID	14	Jurie	ユリエ	そう。たまたま目的地が同じだったの。\n目当てのものは違うけど	Jurie	Yes. We share the same destination, even though our goals are not the same.	尤莉耶	是的，只是目的地碰巧一致罢了。\n我们想要找的东西也不一样。	尤莉耶	對。我們恰巧要去同個目的地。\n不過各自的目標不同就是了。
+TalkEvent_13_012ID	15	Lila	リラ	目的が違う分、争うこともないんでな。\n一時的に行動を共にしていた	Lila	Not the same, but not conflicting either. It made sense to travel together for a while.	莉拉	目的不一样就不会争抢了。\n所以我们决定暂时共同行动。	莉拉	目標不同，不會起爭執，所以就暫時一起行動。
+TalkEvent_13_012ID	16	Marion	マリオン	トレジャーハンターってことは、\nユリエさんの目当てはやっぱり……	Marion	I guess we can assume what your goal is, given you're a treasure hunter.	玛丽翁	既然尤莉耶小姐是寻宝猎人，\n那你的目的应该是……	瑪麗翁	既然是寶藏獵人，那尤莉耶的目標果然是……
+TalkEvent_13_012ID	17	Jurie	ユリエ	ええ。この密林に眠るお宝を探しに来たの	Jurie	Correct. I'm looking for a treasure said to be hidden in this jungle.	尤莉耶	是的，就是沉睡在这密林中的宝藏。	尤莉耶	嗯。我是來尋找沉眠於這座密林裡的寶物的。
+TalkEvent_13_012ID	18	Valeria	ヴァレリア	お宝ってなに？　まさかガブリと食べられるもの！？	Valeria	A treasure? Please tell me it's something I can munch on!	瓦莱莉娅	宝藏是什么？是可以大口吃的东西吗？！	瓦萊莉婭	是什麼寶物？該不會是能讓人大口吃飽的東西吧！？
+TalkEvent_13_012ID	19	Jurie	ユリエ	万病に効く薬の素になるっていわれてる虫。\n一応食べられると言えば、食べられるかも	Jurie	It's said to be an insect that can be used to create a panacea. I suppose you could eat it...	尤莉耶	是一种虫子，据说用它制作的药能治百病。\n所以也算可以吃吧。	尤莉耶	是一種蟲，據說可以做成能治萬病的藥。\n要說能不能吃，姑且算是可以吃吧。
+TalkEvent_13_012ID	20	Resna	レスナ	む、虫ぃっ！？　たっ、食べたくないです	Resna	An insect?! I'd rather not, thanks.	蕾斯娜	虫、虫子？！我、我不是很想吃呢。	蕾斯娜	蟲、蟲！？我、我才不想吃。
+TalkEvent_13_012ID	21	Marion	マリオン	薬に煎じて飲むんだったら\n食べてるのと変わらないんじゃない？	Marion	If you can drink it after it's been brewed into medicine, is it really that different from eating it as a bug?	玛丽翁	熬制成汤药喝下去的话，\n跟吃掉也没什么不同吧？	瑪麗翁	燉成藥喝下去，就跟吃下去沒什麼差別吧。
+TalkEvent_13_012ID	22	Resna	レスナ	イ、イヤーっ！\n……でも、薬の素材に使える虫なんて採れたっけなあ	Resna	S-Stop it! But I can't think of any insects that can be used as an ingredient for medicine...	蕾斯娜	不、不要啊！\n不过这么一说，我应该也抓过能入药的虫子。	蕾斯娜	不、不要！\n……不過，我好像有採集過能當藥物素材的蟲。
+TalkEvent_13_012ID	23	Jurie	ユリエ	まあ、見つからないなら見つからないで、\nそれもまた１つの経験だから	Jurie	Well, even if I don't find any, I'll at least know that for the future.	尤莉耶	就算找不到也没关系，\n这也算是一种经验。	尤莉耶	要是找不到就算了，這也是一種經驗。
+TalkEvent_13_012ID	24	Jurie	ユリエ	……私はもう少し森の奥まで行ってみるつもりだけど、\nあなたたちは？	Jurie	I'm planning on going deeper into the jungle. What about all of you?	尤莉耶	……我打算再去森林深处看看，\n你们呢？	尤莉耶	……我打算再往森林深處走，妳們呢？
+TalkEvent_13_012ID	25	Resna	レスナ	まずは入口に近い所から探索するつもりです。\n大発生した魔物が森の外に出てもいけないですから	Resna	We're going to start our search near the entrance. We can't let the monsters leave the jungle, after all.	蕾斯娜	我想先从入口附近开始探索。\n因为不能让大量出现的魔物跑到森林外面。	蕾斯娜	我想先從入口附近開始探索。\n畢竟也不能讓大量出現的魔物跑到森林外。
+TalkEvent_13_012ID	26	Lila	リラ	私も、とりあえずこの近くを調べるつもりだ	Lila	I'll also be investigating around here for now.	莉拉	我也想先从近处开始调查。	莉拉	我也是，總之我打算先調查這附近。
+TalkEvent_13_012ID	27	Jurie	ユリエ	そう。じゃあ、あなたたちの邪魔をするわけにも\nいかないし、私はもう行く	Jurie	Very well. I don't want to get in your way, so I'll be off.	尤莉耶	这样啊。那我不打扰你们了，\n先走啦。	尤莉耶	是嗎？那我也不好妨礙妳們，先走了。
+TalkEvent_13_012ID	28	Jurie	ユリエ	リラ、付き合ってくれてありがとう	Jurie	Thank you for joining me, Lila.	尤莉耶	莉拉，谢谢你跟我同行哦。	尤莉耶	莉拉，謝謝妳陪我走到這。
+TalkEvent_13_012ID	29	Lila	リラ	ああ	Lila	Sure.	莉拉	嗯。	莉拉	嗯。
+TalkEvent_13_012ID	30	Resna	レスナ	お宝、見つかるといいですね！	Resna	I hope you find your treasure!	蕾斯娜	希望你能找到宝物！	蕾斯娜	希望妳能找到寶物！
+TalkEvent_13_012ID	31	Jurie	ユリエ	ん。じゃあね	Jurie	Thanks. See you.	尤莉耶	嗯，再见。	尤莉耶	嗯，再見。
+TalkEvent_13_012ID	32	Valeria	ヴァレリア	そういえば、リラはなんでこの密林に？	Valeria	By the way, Lila, why are you here in the jungle?	瓦莱莉娅	说起来，莉拉为什么会来这座密林啊？	瓦萊莉婭	話說回來，莉拉為什麼會來這片密林？
+TalkEvent_13_012ID	33	Lila	リラ	私はアンペルからの頼みでな。この辺りに\n極夜の錬金党が現れたという情報が入ったんだ	Lila	Empel asked me to look into the area. We received intel that the Polar Night Alchemists have been seen here.	莉拉	是安佩尔托我过来的，\n他收到消息称这附近有极夜的炼金党出没。	莉拉	我是受安佩爾所託。\n她接獲的情報指出，極夜的鍊金黨出現在這附近。
+TalkEvent_13_012ID	34	Valeria	ヴァレリア	またあいつらが！？	Valeria	Them again?!	瓦莱莉娅	他们又来了？！	瓦萊莉婭	又是他們嗎！？
+TalkEvent_13_012ID	35	Resna	レスナ	いったい何が目的なんでしょう……	Resna	What could they want in this area?	蕾斯娜	到底有什么目的啊……	蕾斯娜	他們的目的到底是什麼……
+TalkEvent_13_012ID	36	Lila	リラ	それを調べに来たんだ。\n今のところ成果はないがな	Lila	That's what I'm here to find out. So far, no leads.	莉拉	我就是来调查这个的，\n可现在还没有调查出结果。	莉拉	我就是來調查這件事的，不過目前還沒有成果。
+TalkEvent_13_012ID	37	Marion	マリオン	月影の会に加えて極夜の錬金党も……\n厄介の種が増えたわね	Marion	So not only do we have to deal with the Moonlight Society, but we also have the Polar Night Alchemists here? This is getting a little out of hand.	玛丽翁	又是月影会又是极夜的炼金党……\n麻烦人物一个接一个啊。	瑪麗翁	月影會加上極夜的鍊金黨……\n感覺麻煩事越來越多了。
+TalkEvent_13_012ID	38	Resna	レスナ	あの……リラさん。\nよければ、私たちと一緒に来ていただけませんか？	Resna	Say, Lila... If you're not against the idea, how about you join us?	蕾斯娜	莉拉小姐，\n如果你愿意，可以跟我们一起行动吗？	蕾斯娜	那個……莉拉小姐。\n如果妳不介意的話，要不要和我們一起行動？
+TalkEvent_13_012ID	39	Lila	リラ	お前たちと？	Lila	Join you?	莉拉	跟你们一起？	莉拉	和妳們一起嗎？
+TalkEvent_13_012ID	40	Resna	レスナ	錬金術士同士だからなのか、あの人たちとは\n行く先々でよくぶつかるんです	Resna	Seeing as we're all alchemists, the Polar Night Alchemists and I tend to cross paths often.	蕾斯娜	可能因为同是炼金术士，\n我经常会在目的地碰上那群人。	蕾斯娜	也許是因為同是鍊金術士的關係，\n我們和那些人常常不期而遇。
+TalkEvent_13_012ID	41	Lila	リラ	なるほど。お前を餌におびき寄せればいい\nということか	Lila	Makes sense. You're saying I can use you as bait to lure them out.	莉拉	我明白了，你是要拿自己当诱饵，\n吸引他们过来吧。	莉拉	原來如此。也就是說，\n可以拿妳當誘餌吸引他們是嗎？
+TalkEvent_13_012ID	42	Resna	レスナ	い、言い方はちょっと気になりますが、\nそういうことです！　その代わり――	Resna	Th-That's not exactly the best way of putting it, but I guess that's the gist of it! In return—	蕾斯娜	总、总觉得你的说法怪怪的……\n但就是这么回事！作为交换——	蕾斯娜	雖、雖然這個說法有點怪，\n但就是這樣沒錯！相對的──
+TalkEvent_13_012ID	43	Lila	リラ	分かった。戦いのことならば力になれるだろう	Lila	I know. You want me to help out in any fights.	莉拉	我知道，在战斗上我会帮助你们的。	莉拉	明白了，碰上戰鬥的話我可以出力幫忙。
+TalkEvent_13_012ID	44	Resna	レスナ	はいっ！　よろしくお願いします！	Resna	Exactly! Sounds like we have a deal!	蕾斯娜	好的！那就请多多关照了！	蕾斯娜	是！麻煩妳了！
+TalkEvent_13_012ID	45	Resna	レスナ	（極夜の錬金党か……\n　また不安が１つ増えちゃったけど……）	Resna	(The Polar Night Alchemists... Yet another concern added to the list...)	蕾斯娜	（极夜的炼金党啊……\n　又多了一个让人担心的因素……）	蕾斯娜	（極夜的鍊金黨嗎……\n　又多了一件讓人擔憂的事……）
+TalkEvent_13_012ID	46	Resna	レスナ	（さらに頼もしい仲間が加わってくれた！\n　皆さんと一緒なら、どんな敵が出てきても安心だね）	Resna	(But we got yet another reliable companion! With all of us together, I feel like we could take on the world!)	蕾斯娜	（但同时我们也多了一名可靠的伙伴！\n　跟大家在一起，不管出现什么样的敌人都不用担心。）	蕾斯娜	（但是又有一位可靠的夥伴加入了！\n　只要和大家在一起，碰上什麼敵人都不用擔心。）
+TalkEvent_13_012ID	47	Jurie Crotze	ユリエ・クロッツェ	一匹狼のトレジャーハンター。その経験を冒険譚の\n物語に重ね合わせ、詳細に記録をつけている	Jurie Crotze	A lone wolf treasure hunter. She meticulously records all her experiences, weaving them into detailed tales of adventure.	尤莉耶·库罗兹	单打独斗的寻宝猎人，\n会以冒险故事般的文风详细记录自己的旅行经历。	尤莉耶‧庫羅茲	單獨行動的寶藏獵人。\n她會把個人經歷結合進冒險故事，詳細記錄下來。
+TalkEvent_13_013ID	0	Linca	リンカ	遅いっ！　やぁっ！	Linca	Too slow! Hyaah!	琳卡	太慢了！呀！	琳卡	太慢了！喝！
+TalkEvent_13_013ID	1	Valeria	ヴァレリア	やるじゃない、リンカ！\n私も負けてらんないわ……っと！	Valeria	Great work, Linca! But I won't let you outdo me... Hyah!	瓦莱莉娅	真不赖啊，琳卡！\n我也不能输……嘿！	瓦萊莉婭	身手不錯嘛，琳卡！\n我也不會輸給妳的……看招！
+TalkEvent_13_013ID	2	Lila	リラ	確かに数は多いが――ふっ！	Lila	There are a lot of them, but—hup!	莉拉	虽然数量确实不少——呼！	莉拉	數量確實不少，不過──呼！
+TalkEvent_13_013ID	3	Juna	ユナ	はぁっ！\n動きは単純。負けることはない	Juna	Haah! Their movements are simple. They're no match for us.	尤娜	喝！\n但它们动作单一，我们不可能输给这种对手。	尤娜	喝啊！\n動作太單純了，贏不了我的。
+TalkEvent_13_013ID	4	Resna	レスナ	相変わらず、皆さん本当にお強いです。\nその勇姿に、感動を禁じえません！	Resna	You're all so strong! Just watching everyone is so inspiring!	蕾斯娜	大家还是这么强大呢。\n大家的英姿深深打动了我！	蕾斯娜	大家還是老樣子，真的好強啊。\n看到各位的英姿，讓我忍不住好感動！
+TalkEvent_13_013ID	5	Resna	レスナ	私ももっと、皆さんくらいかっこよく戦えたらなぁ	Resna	I just wish I could fight as skillfully as all of you...	蕾斯娜	我也好想变得跟大家一样，能帅气地战斗啊。	蕾斯娜	如果我也能像大家一樣帥氣地戰鬥就好了。
+TalkEvent_13_013ID	6	Linca	リンカ	今よりさらに戦闘で活躍したいのですか？\nそれなら、基本的なところから始めましょう！	Linca	You want to be more active in combat? Let's start with the basics then!	琳卡	你想要比现在还要活跃吗？\n那就从基础开始做起吧！	琳卡	妳想在戰鬥裡表現得更加出色嗎？\n如果想的話，就從最基礎的部分開始吧！
+TalkEvent_13_013ID	7	Resna	レスナ	わっ！？　リ、リンカさん、聞いていたんですか？	Resna	Wha?! L-Linca, you heard me?	蕾斯娜	哇？！琳、琳卡小姐，你都听见了？	蕾斯娜	哇！？琳、琳卡小姐，妳聽見我說的話了嗎？
+TalkEvent_13_013ID	8	Linca	リンカ	聞いていました。強くなる方法は色々ありますが、\nやはり、まずは筋力の強化が先決です	Linca	I did. There are many ways to get stronger, but building muscle strength is the best way to start!	琳卡	都听见了。想要变强有很多方法，\n但首要办法必然是强化力量。	琳卡	我聽見了。想變強有各式各樣的方法，\n不過第一步還是要從強化肌力開始。
+TalkEvent_13_013ID	9	Resna	レスナ	やっぱり、まずはそこからですよね……	Resna	I guess that is my biggest problem right now...	蕾斯娜	果然要从这个开始啊……	蕾斯娜	果然要先從這部分開始啊……
+TalkEvent_13_013ID	10	Resna	レスナ	私でも、鍛えればリンカさんみたいに\n大きな武器を振り回せるようになるでしょうか	Resna	Do you think with enough training, I could swing a big weapon like yours, Linca?	蕾斯娜	只要经过锻炼，\n有一条我也能像琳卡小姐那样挥舞巨大武器吗？	蕾斯娜	我鍛鍊之後，\n也可以變得像琳卡小姐一樣揮舞巨大的武器嗎？
+TalkEvent_13_013ID	11	Linca	リンカ	それは努力次第ですが……今、試しに持ってみますか？	Linca	That depends on how much effort you put in... Would you like to try holding it now?	琳卡	那就看你够不够努力了……要不要这就拿拿看？	琳卡	這就要看妳的努力了……妳要現在試拿看看嗎？
+TalkEvent_13_013ID	12	Resna	レスナ	えっ！　じゃ、じゃあ、少しだけ……	Resna	What?! A-All right! Let me try!	蕾斯娜	咦！那、那我就稍微拿一下……	蕾斯娜	咦！那、那就稍微試一下……
+TalkEvent_13_013ID	13	Resna	レスナ	よっ……お、おもっ！\nとっとっと……うわあっ！	Resna	All right... Oh, that's HEAVY! Whoa... Ack!	蕾斯娜	嘿哟……好、好重！\n哎呀……哇！	蕾斯娜	好……重、好重！\n嘿咻……嗚哇！
+TalkEvent_13_013ID	14	Valeria	ヴァレリア	レスナ、大丈夫？	Valeria	You okay, Resna?	瓦莱莉娅	蕾斯娜，你没事吧？	瓦萊莉婭	蕾斯娜，妳沒事吧？
+TalkEvent_13_013ID	15	Resna	レスナ	う、うん……。ありがと、ヴァレリア	Resna	Yeah... Thanks, Valeria.	蕾斯娜	没、没事……谢谢你，瓦莱莉娅。	蕾斯娜	嗯、嗯……謝謝妳，瓦萊莉婭。
+TalkEvent_13_013ID	16	Linca	リンカ	申し訳ありません、いきなり無茶でしたね	Linca	My apologies. That was too much too soon.	琳卡	真抱歉，突然让你拿这个还是难为你了。	琳卡	非常抱歉，突然太勉強妳了。
+TalkEvent_13_013ID	17	Resna	レスナ	いえ。リンカさんのせいでは……\nうーん、やっぱりまだまだですね、私……	Resna	No, it's not your fault, Linca. I can see I still have a long way to go...	蕾斯娜	不不，不怪琳卡小姐……\n唔，我的力量真的太弱了……	蕾斯娜	不會，這不是琳卡小姐的錯……\n唔──我果然還差得很遠啊……
+TalkEvent_13_013ID	18	Marion	マリオン	レスナ、無理は良くないわ	Marion	Resna, don't push yourself too hard.	玛丽翁	蕾斯娜，不可以勉强自己哦。	瑪麗翁	蕾斯娜，太逞強是不好的。
+TalkEvent_13_013ID	19	Marion	マリオン	人それぞれに適性があるんだし、\nあなたはあなたに合った努力をすればいいのよ	Marion	Everyone has their strengths. You should focus on what suits you best.	玛丽翁	每个人都有自己的特质，\n你只要朝着适合你的方向努力就可以了。	瑪麗翁	每個人都有各自的才能，\n妳只要朝適合妳的才能努力就可以了。
+TalkEvent_13_013ID	20	Marion	マリオン	そりゃあ、ある程度は戦えたほうがいいけど、\n錬金術ならあなたも大活躍するじゃない	Marion	Sure, it's great to be able to fight, but just look how much more you shine in alchemy.	玛丽翁	能有一定的战斗能力固然好，\n但你在炼金术上不是能大放异彩吗？	瑪麗翁	當然能應付一定程度的戰鬥是很好，\n但妳也能用鍊金術大展身手不是嗎？
+TalkEvent_13_013ID	21	Resna	レスナ	マリオンさん……。\nっ！？　危ない！　後ろに魔物が！	Resna	Marion, thank you... Oh! Look out! Monster behind you!	蕾斯娜	玛丽翁小姐……\n啊？！当心！你身后有魔物！	蕾斯娜	瑪麗翁小姐……\n唔！？危險！妳後面有魔物！
+TalkEvent_13_013ID	22	Marion	マリオン	もう。人の話を……邪魔しないの！	Marion	Honestly. Didn't anyone ever tell you...not to interrupt people!	玛丽翁	真是的……不要打扰别人说话！	瑪麗翁	真是的，別妨礙……我說話！
+TalkEvent_13_013ID	23	Resna	レスナ	ふわぁ……お見事ですっ！	Resna	Wow... That was amazing!	蕾斯娜	哇……太厉害了！	蕾斯娜	哇啊……打得漂亮！
+TalkEvent_13_013ID	24	Resna	レスナ	確かに人によって適性はあるかもしれませんが、\nマリオンさんはお仕事もできる上にお強いんですね！	Resna	Everyone has their strengths, but you're both great at your work and strong in fights!	蕾斯娜	或许每个人的特质不同，\n但玛丽翁小姐不仅工作能力出色，战斗力也很强呢！	蕾斯娜	的確每個人都有各自的才能，\n不過瑪麗翁小姐不只擅長工作，戰鬥也很強呢！
+TalkEvent_13_013ID	25	Linca	リンカ	マリオンは私よりも強いのですよ！	Linca	Marion is actually stronger than me!	琳卡	玛丽翁比我还强哦！	琳卡	瑪麗翁比我還要強喔！
+TalkEvent_13_013ID	26	Resna	レスナ	リ、リンカさんよりお強いんですか！？	Resna	Stronger than you?!	蕾斯娜	什么，比琳卡小姐还要强吗？！	蕾斯娜	比、比琳卡小姐還要強嗎！？
+TalkEvent_13_013ID	27	Marion	マリオン	なんでリンカがいい笑顔してるのよ	Marion	Then why are you smiling like that, Linca?	玛丽翁	为什么琳卡笑得这么得意啊。	瑪麗翁	怎麼是妳笑得這麼開心啊。
+TalkEvent_13_013ID	28	Resna	レスナ	うーん、やっぱり憧れるなぁ。\n文武両道、いつかは私も目指したいです！	Resna	I just admire you all so much! I hope one day I can be as skilled as all of you!	蕾斯娜	唔，真叫人向往啊。\n我也好想变得文武双全！	蕾斯娜	唔～我還是好嚮往喔。\n總有一天我也想變得文武雙全！
+TalkEvent_13_014ID	0	Resna	レスナ	魔物の数、少しは減ってきたかな	Resna	I think the number of monsters has decreased a bit.	蕾斯娜	魔物的数量稍微少了一点吧。	蕾斯娜	魔物的數量應該減少一些了吧。
+TalkEvent_13_014ID	1	Valeria	ヴァレリア	そうね。ただ、怪しい連中の気配は――っ！\nみんな待って、物音がするわ！	Valeria	Yeah. But something still doesn't feel—ah! Wait, I hear something!	瓦莱莉娅	是啊。不过，我感到了可疑人物的——！\n等等，有动静！	瓦萊莉婭	是啊。但是，那些可疑分子的動靜──！\n大家等一下，有聲音！
+TalkEvent_13_014ID	2	Resna	レスナ	今度はなにっ！？　まさか虫！？　でも怖くない！	Resna	What now? Is it bugs?! I'm not scared!	蕾斯娜	又是什么？！不会是虫子吧？！我不会再害怕了！	蕾斯娜	這次又是什麼！？該不會是蟲！？但我不會怕了！
+TalkEvent_13_014ID	3	Lila	リラ	こちらに近づいてくるようだ	Lila	The sound is getting closer.	莉拉	声音似乎越来越近了。	莉拉	感覺在接近我們。
+TalkEvent_13_014ID	4	Linca	リンカ	そこの茂みです。\nみんな、警戒を……ん？	Linca	In those bushes. Everyone, stay on your guard... Hm?	琳卡	就在那边的树丛里。\n各位提高警惕……嗯？	琳卡	是那邊的草叢。大家提高警……嗯？
+TalkEvent_13_014ID	5	Juna	ユナ	…………！！	Juna	...!	尤娜	…………！！	尤娜	…………！！
+TalkEvent_13_014ID	6	Marion	マリオン	あら！　かわいい魔物ね	Marion	Aww! What a cute little guy!	玛丽翁	哎呀，好可爱的魔物！	瑪麗翁	哎呀！好可愛的魔物。
+TalkEvent_13_014ID	7	Linca	リンカ	マリオン、近づいては危険です！\nいくらこの見た目でも……	Linca	Marion, don't get too close! No matter how cute it may look...	琳卡	玛丽翁，接近它太危险了！\n就算它再可爱也……	琳卡	瑪麗翁，靠近牠很危險！\n就算牠長那樣……
+TalkEvent_13_014ID	8	Resna	レスナ	ああ、大丈夫ですよリンカさん。\n密林に棲むこの種の魔物はとても大人しいんです	Resna	Oh, it's okay, Linca. This kind of monster is known to live in this jungle, and they are very docile.	蕾斯娜	啊，没事的，琳卡小姐。\n这种住在密林里的魔物是很乖的。	蕾斯娜	啊，沒關係的，琳卡小姐。\n棲息在密林裡的這種魔物非常溫和。
+TalkEvent_13_014ID	9	Linca	リンカ	そうなのですか？	Linca	Is that so?	琳卡	是吗？	琳卡	是這樣嗎？
+TalkEvent_13_014ID	10	Resna	レスナ	一説によると、この辺りは餌が豊富なので、\n競争が起こらず穏やかな気質になったとか	Resna	One theory is that because there's so much to eat here, they never have to compete, so they are able to keep a very calm nature.	蕾斯娜	据说是因为这一带有丰富的食物，\n不会引起争斗，所以魔物都很温和。	蕾斯娜	有種說法說，因為這附近的食物豐富，\n不太需要競爭，才讓魔物的性情變溫和了。
+TalkEvent_13_014ID	11	Linca	リンカ	なるほど……\n確かに、我々が近づいても大人しくしていますね	Linca	That makes sense... It does seem to be staying calm even as we get closer.	琳卡	这样啊……\n还真是，我们靠这么近它也不动。	琳卡	原來如此……\n確實，就算我們走近牠，牠還是相當溫順。
+TalkEvent_13_014ID	12	Lila	リラ	まったく。人騒がせなヤツだ	Lila	Phew. Talk about a false alarm.	莉拉	真是的，一惊一乍害大家这么紧张。	莉拉	真是的，讓人虛驚一場的傢伙。
+TalkEvent_13_014ID	13	Juna	ユナ	…………	Juna	...	尤娜	…………	尤娜	…………
+TalkEvent_13_014ID	14	Juna	ユナ	（か……っ、かわいい……！）	Juna	(So...so cute!)	尤娜	（好……好可爱啊……！）	尤娜	（好……好可愛……！）
+TalkEvent_13_014ID	15	Valeria	ヴァレリア	残念。出てきたのが極夜の錬金党か、\n月影の会だったらなぁ	Valeria	Too bad it wasn't the Polar Night Alchemists or the Moonlight Society.	瓦莱莉娅	好遗憾啊，如果找到的是\n极夜的炼金党或者月影会的人就好了。	瓦萊莉婭	真可惜。\n如果出現的是極夜的鍊金黨或月影會的人就好了。
+TalkEvent_13_014ID	16	Marion	マリオン	なに言ってるのよ。こーんなにかわいい子に会える\nなんてすっごく幸運じゃない！	Marion	What are you talking about? It's incredibly lucky to come across such a cute creature!	玛丽翁	你说什么呀，能见到这么可爱的小家伙，\n不是很幸运吗！	瑪麗翁	妳在說什麼啊。\n能碰到這～麼可愛的孩子是非常幸運的事吧！
+TalkEvent_13_014ID	17	Marion	マリオン	ほら、撫でてあげるからおいでー。\nあ、本当に来たわ！　うーん、ふわふわの毛並み！	Marion	Hey! Come here! I'll give you some pets. Ah! It actually came closer! It's so fluffy!	玛丽翁	过来嘛，我摸摸你～\n啊，真的过来了！嗯，好蓬松柔软的皮毛啊！	瑪麗翁	來吧，讓我摸摸你～\n啊，牠真的來了！唔～這鬆鬆軟軟的絨毛！
+TalkEvent_13_014ID	18	Juna	ユナ	…………！	Juna	...!	尤娜	……！	尤娜	…………！
+TalkEvent_13_014ID	19	Valeria	ヴァレリア	そういえばマリオンはかわいいものが\n好きなんだったわね	Valeria	I had almost forgotten how much you love cute things like this, Marion.	瓦莱莉娅	说起来，玛丽翁也喜欢可爱的东西呢。	瓦萊莉婭	這麼說來，瑪麗翁很喜歡可愛的東西對吧。
+TalkEvent_13_014ID	20	Marion	マリオン	ええ、そうなの。ふふふ、とても人懐っこいのね。\nつぶらな瞳も癒される……。連れて帰りたいわ	Marion	I love them! Hehe, it's so friendly! The big shiny eyes are so soothing to look into. I want to take it home with me!	玛丽翁	嗯，是的。呵呵，好亲人啊。\n纯真的眼神好治愈人心……真想带回家啊。	瑪麗翁	嗯，是啊。呵呵呵，牠好親人。\n圓滾滾的眼睛也好療癒……好想把牠帶回家。
+TalkEvent_13_014ID	21	Juna	ユナ	（ふわふわ、なでなで……羨ましい！）	Juna	(Fluffy... Petting... I'm so jealous!)	尤娜	（她在摸蓬松柔软的皮毛……好羡慕啊！）	尤娜	（鬆鬆軟軟、摸來摸去……好羨慕！）
+TalkEvent_13_014ID	22	Juna	ユナ	（しかし、今は任務中！\n　白を纏う騎士が、こんなことではいけない！）	Juna	(But I am on duty! A knight in white armor can't be seen doing this!)	尤娜	（但现在正在执行任务！\n　身穿白色铠甲的骑士可不能做这种事！）	尤娜	（但是，我正在進行任務！\n　身穿白色鎧甲的騎士，不能做這種事！）
+TalkEvent_13_014ID	23	Linca	リンカ	あ。ユナの足元に、もう１匹来ましたね	Linca	Oh. There's another one by Juna's feet.	琳卡	啊，尤娜的脚边又来了一只。	琳卡	啊，又有一隻跑到尤娜的腳邊了。
+TalkEvent_13_014ID	24	Juna	ユナ	…………！！	Juna	...!!	尤娜	…………！！	尤娜	…………！！
+TalkEvent_13_014ID	25	Marion	マリオン	その子もかわいいじゃない！\nあなた、お友達を連れてきたの？	Marion	That one's cute too! Did you call one of your friends?	玛丽翁	它也很可爱呀！\n你是带朋友来了吗？	瑪麗翁	牠也好可愛！你把好朋友帶過來了嗎？
+TalkEvent_13_014ID	26	Lila	リラ	野生を忘れたような懐きっぷりだな	Lila	They've completely forgotten they're supposed to be wild animals.	莉拉	它们太亲人了，简直不像是野生的魔物。	莉拉	感覺親人親到都沒有野性了呢。
+TalkEvent_13_014ID	27	Juna	ユナ	（動じてはいけない！　いくらスリスリと愛らしく\n　頭をくっつけていても、なでなでするわけには！）	Juna	(I must resist! No matter how much it adorably nuzzles against me... I MUST NOT start petting it!)	尤娜	（我不能动摇！就算它再怎么蹭我\n　再怎么撒娇般地用脑袋贴着我，我也不能去摸它！）	尤娜	（不可以動搖！不管牠再怎麼磨蹭、\n　再怎麼可愛地用頭碰我，我都不可以摸！）
+TalkEvent_13_014ID	28	Resna	レスナ	ユナさん……	Resna	Juna...	蕾斯娜	尤娜小姐……	蕾斯娜	尤娜小姐……
+TalkEvent_13_014ID	29	Resna	レスナ	（本当はユナさんも、思いっきりかわいがりたいって\n　苦しんでるんだろうなぁ……）	Resna	(I bet Juna is just dying to pet it. She's really holding it in...)	蕾斯娜	（其实尤娜小姐也想摸个痛快吧，\n　现在肯定忍得很辛苦……）	蕾斯娜	（尤娜小姐的內心肯定很掙扎，\n　很想盡情摸摸牠吧……）
+TalkEvent_13_015ID	0	Lila	リラ	待て――この先に複数の人の気配がある	Lila	Wait—I sense multiple people up ahead.	莉拉	大家注意——前方能感受到数人的气息。	莉拉	等等──前方有多個人的氣息。
+TalkEvent_13_015ID	1	Resna	レスナ	…………！	Resna	...!	蕾斯娜	……！	蕾斯娜	…………！
+TalkEvent_13_015ID	2	Valeria	ヴァレリア	いよいよね。月影の会か	Valeria	Here we go. Is it the Moonlight Society?	瓦莱莉娅	终于要跟月影会的人碰上了啊。	瓦萊莉婭	終於來了啊，是月影會？
+TalkEvent_13_015ID	3	Resna	レスナ	それとも……極夜の錬金党か	Resna	Or the Polar Night Alchemists?	蕾斯娜	也可能是极夜的炼金党。	蕾斯娜	又或者……是極夜的鍊金黨？
+TalkEvent_13_015ID	4	Juna	ユナ	いずれにせよ、ここからは最大限に警戒して行こう	Juna	Either way, let's stay on high alert.	尤娜	不管是谁，接下来都要提高警戒。	尤娜	不論是誰，接下來的路都要保持最高警戒。
+TalkEvent_13_015ID	5	Resna	レスナ	あれは……鴉！	Resna	That's... Crow!	蕾斯娜	那是……鸦！	蕾斯娜	那是……烏鴉！
+TalkEvent_13_015ID	6	Valeria	ヴァレリア	すごい人数ね。どうする？　戦う？	Valeria	There are so many people with her. What should we do? Fight?	瓦莱莉娅	这么多人。怎么办？要战斗吗？	瓦萊莉婭	人數好驚人。怎麼辦？要打嗎？
+TalkEvent_13_015ID	7	Marion	マリオン	まだこっちは気付かれてないわ。様子を探りましょう	Marion	They haven't noticed us yet. Let's just observe for now.	玛丽翁	他们好像还没有注意到我们，我们去探探情况吧。	瑪麗翁	他們還沒發現我們，先觀察一下情況吧。
+TalkEvent_13_015ID	8	Crow	鴉	――どうだ？	Crow	Well?	鸦	——怎么样？	烏鴉	──如何？
+TalkEvent_13_015ID	9		毒蜘蛛団団長	ここに集まったのは、我ら「毒蜘蛛団」の中でも\n精鋭中の精鋭だ。必ずや手に入れてみせるさ	Poison Spider Leader	The members gathered here are the Poison Spiders' elite of the elite. You can trust us to get hold of it.	毒蜘蛛团团长	集合在这里的是我们“毒蜘蛛团”精英中的精英，\n必将取得任务物品。	毒蜘蛛團團長	聚集在這裡的，都是我們「毒蜘蛛團」中精銳中的精銳，\n我們一定會把東西弄到手的。
+TalkEvent_13_015ID	10	Lila	リラ	毒蜘蛛団？	Lila	The Poison Spiders?	莉拉	毒蜘蛛团？	莉拉	毒蜘蛛團？
+TalkEvent_13_015ID	11	Juna	ユナ	ジュゲル州最大勢力の盗賊団だ	Juna	The largest bandit group in Yuggel.	尤娜	是尤格鲁州势力最大的盗贼团。	尤娜	是朱格爾州勢力最大的盜賊集團。
+TalkEvent_13_015ID	12	Resna	レスナ	そういえば、月影の会が盗賊団を傘下に収めたって\n仰ってましたね	Resna	Oh, right, I remember you said the Moonlight Society had taken control of the local bandits.	蕾斯娜	啊，听你提到过月影会将盗贼团收入麾下的事。	蕾斯娜	對了，妳說過月影會吸收了盜賊集團對吧。
+TalkEvent_13_015ID	13	Valeria	ヴァレリア	部外者をどんどん入れてるのね……あ、でも\n顔見知りの奴も何人か紛れてるわ	Valeria	They're bringing in even more outsiders... But I also see some familiar faces.	瓦莱莉娅	他们让许多外人加入了呢……\n啊，不过里面也有几个面熟的。	瓦萊莉婭	他們不斷在吸收外部人士耶……\n啊，不過當中也混了幾個我認識的人。
+TalkEvent_13_015ID	14	Resna	レスナ	「手に入れる」って聞こえたけど……\n何かをここで探してる？	Resna	"They also said they would ""get hold of it""? It sounds like they're searching for something."	蕾斯娜	他们说了什么“必将取得”……\n莫非是为了找什么东西而来的吗？	蕾斯娜	他們說「弄到手」……是在這裡找什麼嗎？
+TalkEvent_13_015ID	15		毒蜘蛛団団長	どうやら、森の中に何匹かネズミが迷い込んでいる\nようだが……我らの敵ではない	Poison Spider Leader	It would seem some mice have wandered into the jungle...but they're no match for us.	毒蜘蛛团团长	森林里似乎混进了几只老鼠……\n但他们不是我们的对手。	毒蜘蛛團團長	看來森林中有幾隻迷路的老鼠……\n只不過他們不是我們的對手。
+TalkEvent_13_015ID	16	Crow	鴉	……ふん	Crow	Hmph.	鸦	……哼。	烏鴉	……哼。
+TalkEvent_13_015ID	17	Resna	レスナ	っ！	Resna	Ah!	蕾斯娜	唔！	蕾斯娜	唔！
+TalkEvent_13_015ID	18		毒蜘蛛団団長	――誰だ	Poison Spider Leader	Who dares?	毒蜘蛛团团长	――什么人？	毒蜘蛛團團長	──是誰？
+TalkEvent_13_015ID	19	Valeria	ヴァレリア	ふん、分かりやすい脅しね。レスナ、大丈夫？	Valeria	They're just trying to intimidate us. Resna, you all right?	瓦莱莉娅	哼，明明白白的威胁啊。蕾斯娜，你没事吧？	瓦萊莉婭	哼，真是簡單易懂的威脅。蕾斯娜，妳沒事吧？
+TalkEvent_13_015ID	20	Resna	レスナ	うん	Resna	Yes.	蕾斯娜	嗯。	蕾斯娜	嗯。
+TalkEvent_13_015ID	21	Resna	レスナ	（頂獣との戦いに比べたら、\n　これくらいぜんぜん平気！）	Resna	(Compared to fighting the Apexi, this is nothing!)	蕾斯娜	（与顶兽一战相比，\n　这点事完全不算什么！）	蕾斯娜	（和頂獸那戰相比，這點程度根本不算什麼！）
+TalkEvent_13_015ID	22	Crow	鴉	……またお前たちか	Crow	You again.	鸦	……又是你们啊。	烏鴉	……又是妳們啊。
+TalkEvent_13_015ID	23	Linca	リンカ	マリオン	Linca	Marion.	琳卡	玛丽翁。	琳卡	瑪麗翁。
+TalkEvent_13_015ID	24	Marion	マリオン	そうね。詳しいことは捕まえて吐かせましょうか	Marion	I know. Let's capture them first, then we can make them talk.	玛丽翁	嗯，详细情况就等抓到他们了再让他们交代吧。	瑪麗翁	是啊，先把他們抓起來再逼供吧。
+TalkEvent_13_015ID	25	Crow	鴉	早速仕事だ。こいつらを制圧しろ	Crow	Get to work. Subdue them.	鸦	赶紧干活，压制这帮家伙。	烏鴉	立刻開始工作吧。壓制住這些傢伙。
+TalkEvent_13_015ID	26		毒蜘蛛団団長	ああ。お前たち、行くぞ！　油断するな！！	Poison Spider Leader	You got it. Come on, guys, we're on! Stay sharp!	毒蜘蛛团团长	好，你们几个给我上，别大意！！	毒蜘蛛團團長	好，小子們，要上囉！別大意了！！
+TalkEvent_13_015ID	27		団員Ａ	了解！	Member A	Yessir!	团员A	是！	團員A	收到！
+TalkEvent_13_015ID	28		団員Ｂ	了解！	Member B	On it!	团员B	是！	團員B	收到！
+TalkEvent_13_015ID	29	Juna	ユナ	行くぞ！	Juna	Let's go!	尤娜	要上了！	尤娜	要上囉！
+TalkEvent_13_015ID	30	Linca	リンカ	はい！	Linca	Ready!	琳卡	好！	琳卡	好！
+TalkEvent_13_016ID	0	Linca	リンカ	こちらは自分が！	Linca	I've got this side!	琳卡	这里就由我来对付！	琳卡	這邊交給我！
+TalkEvent_13_016ID	1		団員Ａ	数を活かして圧倒しろ！	Member A	We got the numbers! Overwhelm 'em!	团员A	利用人数优势碾压对手！	團員A	用人數壓制對方！
+TalkEvent_13_016ID	2	Juna	ユナ	望むところ――はぁっ！	Juna	Bring it on! Haaah!	尤娜	求之不得——喝！	尤娜	正合我意──喝啊！
+TalkEvent_13_016ID	3		団員Ａ	な、なに！？	Member A	Wh-What?!	团员A	什、什么？！	團員A	什、什麼！？
+TalkEvent_13_016ID	4	Juna	ユナ	制圧する！	Juna	Bring them down!	尤娜	压制敌人！	尤娜	壓制他們！
+TalkEvent_13_016ID	5	Linca	リンカ	はぁぁぁぁぁっ！	Linca	Hyaaah!	琳卡	哈——！	琳卡	喝啊啊啊啊啊！
+TalkEvent_13_016ID	6	Resna	レスナ	す、すごい……！	Resna	Incredible!	蕾斯娜	真、真厉害……！	蕾斯娜	好、好厲害……！
+TalkEvent_13_016ID	7		毒蜘蛛団団長	怯むな！	Poison Spider Leader	Don't falter!	毒蜘蛛团团长	别退缩！	毒蜘蛛團團長	別害怕！
+TalkEvent_13_016ID	8	Juna	ユナ	効かないぞ！！	Juna	That did nothing!	尤娜	没用的！！	尤娜	沒用的！！
+TalkEvent_13_016ID	9	Juna	ユナ	畳みかける！　はぁぁぁっ！	Juna	Press the attack! Haaah!	尤娜	继续攻击！喝——！	尤娜	我們一鼓作氣上吧！喝啊啊啊！
+TalkEvent_13_016ID	10	Linca	リンカ	承知！　てやぁぁぁぁっ！	Linca	Understood! Hyaaah!	琳卡	明白！呀啊——！	琳卡	收到！喝啊啊啊啊！
+TalkEvent_13_016ID	11		団員Ｂ	ぐああああああっ！	Member B	Gaaah!	团员B	呜啊——！	團員B	呃啊啊啊啊啊！
+TalkEvent_13_016ID	12	Valeria	ヴァレリア	二人ともご機嫌ね、こっちも、踊れーー！	Valeria	Those two are stealing the show! Time for me to dance!	瓦莱莉娅	你们状态真不错啊，我也要上了，舞动吧——！	瓦萊莉婭	她們兩個心情很好呢，我們這邊、也起舞吧──！
+TalkEvent_13_016ID	13	Resna	レスナ	う、動きが速い……せめて援護を	Resna	Their movements are so fast... I need to at least try to provide a little support!	蕾斯娜	动、动作好快……我至少要做好援助。	蕾斯娜	行、行動好迅速……我至少得掩護……
+TalkEvent_13_016ID	14		毒蜘蛛団団長	わ、我々が……たった数人に、全滅だと……	Poison Spider Leader	How...? How did so few of them defeat all of us?	毒蜘蛛团团长	我、我们居然被区区几个人击溃了……	毒蜘蛛團團長	我、我們竟然……因寥寥數人全軍覆沒……
+TalkEvent_13_016ID	15		毒蜘蛛団団長	くそ……こいつら何者なんだ……	Poison Spider Leader	Damn... Who are these people?	毒蜘蛛团团长	该死……这几个人是什么来头啊……	毒蜘蛛團團長	可惡……這些傢伙是什麼人……
+TalkEvent_13_016ID	16	Valeria	ヴァレリア	リンカもユナもやるわねー！	Valeria	Linca, Juna, amazing show!	瓦莱莉娅	琳卡、尤娜，打得漂亮！	瓦萊莉婭	琳卡和尤娜也挺有一套的嘛～！
+TalkEvent_13_016ID	17	Juna	ユナ	白を纏う者として当然だ。……今は違うが	Juna	Simply what is expected for a knight in white. Even if I'm not wearing it right now.	尤娜	作为身着白铠者自然是有这两下子的……虽然现在没穿。	尤娜	這對身穿白色鎧甲的人是理所當然的……雖然現在沒穿。
+TalkEvent_13_016ID	18		団員Ａ	ユナ、だと？　白……ま、まさか……！\nあの竜退治の騎士ユナか！？	Member A	Juna? White? No way... Is that the dragon-slaying knight Juna?!	团员A	你说尤娜？白……难、难道你是……！\n那个屠龙骑士尤娜吗？！	團員A	妳叫、尤娜？白色……難、難不成……！\n妳是那個打倒龍的騎士尤娜嗎！？
+TalkEvent_13_016ID	19	Juna	ユナ	…………	Juna	...	尤娜	…………	尤娜	…………
+TalkEvent_13_016ID	20		団員Ｂ	あ、あの伝説のユナ本人なのか！？	Member B	Is this really the legendary Juna?!	团员B	你、你真是那个传说中的尤娜？！	團員B	妳、妳就是那個傳說中的尤娜嗎！？
+TalkEvent_13_016ID	21		団員Ａ	どうせなら……\n正々堂々、一騎打ちで戦ってみたかったぜ……	Member A	If I had known... I would have fought you one-on-one, fair and square...	团员A	反正都是输……\n应该跟你堂堂正正地单挑就好了……	團員A	既然要打……真希望能堂堂正正地一對一對決……
+TalkEvent_13_016ID	22	Crow	鴉	ふん……使えん奴らめ	Crow	Hmph... Useless fools.	鸦	哼……一群没用的家伙。	烏鴉	哼……一群沒用的傢伙。
+TalkEvent_13_016ID	23	Marion	マリオン	あら。この顔ぶれに対抗しようというの？	Marion	Oh? You think you can do better?	玛丽翁	哎呀，还妄图对抗我们这个阵容吗？	瑪麗翁	哎呀，妳打算對付我們這個陣容嗎？
+TalkEvent_13_016ID	24	Crow	鴉	邪魔者は排除する	Crow	Eliminate the interlopers.	鸦	驱除碍事者。	烏鴉	礙事者就是要除掉。
+TalkEvent_13_017_00ID	0	Crow	鴉	ちょこまかと……！	Crow	So fast!	鸦	到处乱窜……！	烏鴉	東奔西竄的……！
+TalkEvent_13_017_00ID	1	Linca	リンカ	はぁぁぁぁっ！	Linca	Haaah!	琳卡	喝——！	琳卡	喝啊啊啊啊！
+TalkEvent_13_017_00ID	2	Juna	ユナ	はっ！	Juna	Hah!	尤娜	哈！	尤娜	喝！
+TalkEvent_13_017_00ID	3	Crow	鴉	ぐっ！	Crow	Ngh!	鸦	呜！	烏鴉	唔！
+TalkEvent_13_017_00ID	4	Juna	ユナ	沈め！	Juna	It's over!	尤娜	倒下吧！	尤娜	下去吧！
+TalkEvent_13_017_00ID	5	Crow	鴉	がはっ！！	Crow	Gah!	鸦	啊！	烏鴉	呃啊！！
+TalkEvent_13_017_00ID	6	Crow	鴉	こうなった以上は……	Crow	Guess I have no choice...	鸦	既然如此……	烏鴉	既然事已至此……
+TalkEvent_13_017_00ID	7	Resna	レスナ	薬品！？	Resna	A potion?!	蕾斯娜	药？！	蕾斯娜	藥品！？
+TalkEvent_13_017_00ID	8	Juna	ユナ	何をするつもりだ	Juna	What are you trying to do?	尤娜	你要做什么？！	尤娜	妳想做什麼？
+TalkEvent_13_017_00ID	9	Crow	鴉	……いや、今は使う時ではない	Crow	Never mind, now isn't the time.	鸦	……不，现在还不是用它的时候。	烏鴉	……不，現在還不是用的時候。
+TalkEvent_13_017_00ID	10	Crow	鴉	任務が優先だ	Crow	The mission comes first.	鸦	要优先完成任务。	烏鴉	任務優先。
+TalkEvent_13_017_00ID	11	Linca	リンカ	逃げた！	Linca	She ran away!	琳卡	她逃了！	琳卡	她逃跑了！
+TalkEvent_13_017_00ID	12	Lila	リラ	こっちだ。足跡が続いている	Lila	This way. I see footprints!	莉拉	走这边，可以看到脚印。	莉拉	這邊，沿路有足跡。
+TalkEvent_13_017_00ID	13	Valeria	ヴァレリア	こんな分かりやすく痕跡を残すなんて、	Valeria	Leaving behind such an obvious trail...	瓦莱莉娅	居然会留下这么明显的痕迹……	瓦萊莉婭	她竟然留下了這麼明顯的痕跡……
+TalkEvent_13_017_00ID	14	Valeria	ヴァレリア	珍しいわね	Valeria	It's not like her.	瓦莱莉娅	她会这样真是少见啊。	瓦萊莉婭	真罕見。
+TalkEvent_13_017_00ID	15	Marion	マリオン	鴉も焦っているのかしら	Marion	I guess even Crow is feeling the pressure.	玛丽翁	鸦是不是也很焦躁呢？	瑪麗翁	烏鴉也急了嗎？
+TalkEvent_13_017_00ID	16	Juna	ユナ	追跡する。\n	Juna	Let's pursue.	尤娜	我要开展追踪。	尤娜	我要追上去。
+TalkEvent_13_017_00ID	17	Juna	ユナ	殿下の意向だ……奴らを放ってはおけない。いいな？	Juna	His Highness's orders. We can't let them go. Everyone ready?	尤娜	殿下有令……不能放跑那些家伙。明白吗？	尤娜	這是殿下的意思……不能放著他們不管，可以吧？
+TalkEvent_13_017_00ID	18	Resna	レスナ	分かりました。お供します！	Resna	Yes, we're with you!	蕾斯娜	明白，我们会一起去的！	蕾斯娜	知道了，我也和妳一起！
+TalkEvent_13_017_01ID	0	Marion	マリオン	鴉の奴、どこまで進んだのかしら	Marion	How far could she have gone?	玛丽翁	鸦到底逃了多远啊……	瑪麗翁	烏鴉那傢伙，到底跑多遠了？
+TalkEvent_13_017_01ID	1	Resna	レスナ	ケガもしているはずなのに……きゃっ！　む、虫！\nたくさんの、む、虫ーーっ！	Resna	She must be pretty injured as well, so—eek! Bugs! So many bugs!	蕾斯娜	她明明都受了伤……呀！有、有虫！\n好多虫子——！	蕾斯娜	她明明也受了傷才對……呀啊！是、是蟲！\n好多的、的、蟲──！
+TalkEvent_13_017_01ID	2	Valeria	ヴァレリア	レスナ、大丈夫！？　っ……すごい数の虫ね	Valeria	Resna, you okay?! That IS a lot of bugs.	瓦莱莉娅	蕾斯娜，你没事吧？啊……好多虫啊。	瓦萊莉婭	蕾斯娜，妳沒事吧！？唔……蟲的數量真驚人。
+TalkEvent_13_017_01ID	3	Resna	レスナ	な、慣れるために頑張ったけど……っ！\nこんなにたくさんいると、き、きついっ	Resna	I-I really tried to get used to them, but I just can't deal with this many at once.	蕾斯娜	我、我有在努力适应……！\n可、可是数量这么多也太让人受不了了。	蕾斯娜	我、我雖然有努力習慣……！\n但看到這麼多還是、吃、吃不消……
+TalkEvent_13_017_01ID	4	Lila	リラ	……気を付けろ。こいつらは毒を持っている	Lila	Careful. These ones are poisonous.	莉拉	……当心，它们有毒。	莉拉	……小心一點，這些傢伙有毒。
+TalkEvent_13_017_01ID	5	Resna	レスナ	毒！？　生命活動に芳しくない影響を\n与えるという、あの！	Resna	"Poisonous?! As in, ""slowly kills you"" poisonous?!"	蕾斯娜	有毒？！\n就是会对生命活动造成不良影响的那个吗！	蕾斯娜	毒！？\n就是據說會對生理機能造成不良影響的、那個！？
+TalkEvent_13_017_01ID	6	Valeria	ヴァレリア	落ち着いてレスナ。それにしても鴉は\nこんな中を突き進んだのね。やるわねぇ	Valeria	Relax, Resna. But that means Crow somehow managed to push her way through here, huh? Impressive.	瓦莱莉娅	冷静点，蕾斯娜。\n说起来鸦居然冲进这里面去了，也是厉害。	瓦萊莉婭	冷靜點蕾斯娜。\n話說回來烏鴉突破了這些啊，她可真有一套～
+TalkEvent_13_017_01ID	7	Marion	マリオン	このまま進むのは厳しそうね……	Marion	I guess continuing this way isn't going to be easy.	玛丽翁	看来我们很难继续前进了……	瑪麗翁	要繼續前進看來會很辛苦……
+TalkEvent_13_017_01ID	8	Resna	レスナ	うーん、何か対策を立てないと……	Resna	Yeah. We'll need a way to get through the bugs...	蕾斯娜	唔……得想点对策……	蕾斯娜	嗯～得想個對策才行……
+TalkEvent_13_017_01ID	9	Jurie	ユリエ	あら、あなたたち	Jurie	Oh, it's you guys.	尤莉耶	哎呀，是你们啊。	尤莉耶	哎呀，是妳們。
+TalkEvent_13_017_01ID	10	Resna	レスナ	ユリエさん！	Resna	Jurie!	蕾斯娜	尤莉耶小姐！	蕾斯娜	尤莉耶小姐！
+TalkEvent_13_017_01ID	11	Jurie	ユリエ	あなたたちもこの先に行こうとしてたの？	Jurie	Were you trying to get farther in as well?	尤莉耶	你们也要往前走吗？	尤莉耶	妳們也打算往前走嗎？
+TalkEvent_13_017_01ID	12	Valeria	ヴァレリア	そうなの。でも虫が邪魔で進めなくて	Valeria	Yes, but the bugs are blocking our way.	瓦莱莉娅	是的，但是虫子很碍事，我们被拦住了。	瓦萊莉婭	對啊，但蟲子很礙事，前進不了。
+TalkEvent_13_017_01ID	13	Jurie	ユリエ	実は私も同じ。だから、別の経路から進もうと\n思って引き返してきたの	Jurie	Same here. I was thinking of taking another route and was on my way back.	尤莉耶	其实我也一样，所以我准备先折返，\n找别的路前进。	尤莉耶	其實我也是，所以才折返打算走別的路線。
+TalkEvent_13_017_01ID	14	Jurie	ユリエ	あなたたちも遠回りしたほうがいいんじゃない？	Jurie	Maybe you should take a detour too?	尤莉耶	你们也绕一下怎么样？	尤莉耶	妳們也繞個路比較好吧？
+TalkEvent_13_017_01ID	15	Juna	ユナ	いや、実は我々は人を追っていてな。\n痕跡を見失うわけにはいかないのだ	Juna	No, we're tracking someone. We can't lose their trail.	尤娜	是这样，我们在追踪敌人，\n担心跟丢了。	尤娜	不，其實我們正在追人，不能跟丟她的蹤跡。
+TalkEvent_13_017_01ID	16	Jurie	ユリエ	……なるほど	Jurie	Oh, I see.	尤莉耶	……这样啊。	尤莉耶	……原來如此。
+TalkEvent_13_017_01ID	17	Jurie	ユリエ	一応、虫除けになる薬なら持ってる。\n分けてあげましょうか	Jurie	I have some medicine that should work as insect repellent. Would you like some?	尤莉耶	我手头姑且还有除虫药，\n分你们点吧？	尤莉耶	我姑且有帶驅蟲藥，分一些給妳們吧？
+TalkEvent_13_017_01ID	18	Resna	レスナ	わぁ……いいんですか！？	Resna	Wow, really?!	蕾斯娜	哇……真的吗？	蕾斯娜	哇……可以嗎！？
+TalkEvent_13_017_01ID	19	Jurie	ユリエ	効くけど、すごい大群だと\n少し効き目が弱いかもしれない	Jurie	It works, but against a swarm that big, it might not be quite as effective.	尤莉耶	这药对虫子有效，\n但数量太多的话效力或许会减弱。	尤莉耶	雖然有效，但數量太多的話效果可能會差一點。
+TalkEvent_13_017_01ID	20	Resna	レスナ	いいえっ！　恐悦至極に存じます！	Resna	That's okay! It's definitely better than nothing! Thank you!	蕾斯娜	不不，已经帮大忙了，感恩戴德！	蕾斯娜	沒關係！實在是感激不盡！
+TalkEvent_13_017_01ID	21	Resna	レスナ	このままでは効き目が弱くても、\n効力を増幅させる工夫があれば……！	Resna	Even if it's not fully effective, maybe we can find a way to amplify its effect...	蕾斯娜	就算药本身效力弱，\n也可以通过适当的方法增强效力……！	蕾斯娜	就算直接用的效果會弱一點，\n但只要下工夫增強效力的話……！
+TalkEvent_13_018ID	0	Resna	レスナ	えっと、ユリエさんから教えてもらった\n虫除け薬の素材はこれで全部揃ったかな	Resna	All right, I think I have all the ingredients for the insect repellent that Jurie told us about.	蕾斯娜	唔，尤莉耶小姐说的除虫药素材就是这些吧？	蕾斯娜	我看看，尤莉耶小姐告訴我們的驅蟲藥素材，\n這樣就齊全了吧？
+TalkEvent_13_018ID	1	Valeria	ヴァレリア	そのままだと効き目が足りないかもって話だったけど\nどうするの？	Valeria	She also said it might not be strong enough as is. What are you going to do?	瓦莱莉娅	不是说只有这些效力可能不够吗？\n你打算怎么办？	瓦萊莉婭	她說直接使用的話，效果可能不夠強，\n妳打算怎麼辦？
+TalkEvent_13_018ID	2	Resna	レスナ	これ、元々は人の肌に塗って使う薬なんだけど……	Resna	This is supposed to be an ointment you apply to your skin, but...	蕾斯娜	这个原本是涂在人皮肤上的药……	蕾斯娜	這個原本是塗在人類皮膚上的藥……
+TalkEvent_13_018ID	3	Resna	レスナ	霧状に噴射できるようにして、\n広範囲に薬を撒けるようにするんだ	Resna	I'm going to turn it into a spray so we can cover a wider area.	蕾斯娜	如果能加工成喷雾，\n就能大范围施药了。	蕾斯娜	我打算把它做成噴霧型的藥，\n讓它能夠大範圍噴灑。
+TalkEvent_13_018ID	4	Valeria	ヴァレリア	へえ、なるほど	Valeria	Oh, I see. Clever.	瓦莱莉娅	原来是这么回事。	瓦萊莉婭	哦，原來如此。
+TalkEvent_13_018ID	5	Resna	レスナ	これで邪魔な虫たちは一斉検挙、一網打尽！	Resna	With this, we'll get rid of all those pesky bugs in one fell swoop!	蕾斯娜	这下就能把这群虫子一网打尽了！	蕾斯娜	這麼一來就能把礙事的蟲子們全數逮捕、一網打盡！
+TalkEvent_13_018ID	6	Resna	レスナ	あとは調合するのみっ！\nよーし、頑張るぞ～！	Resna	Now, all that's left is to synthesize it. Let's get to it!	蕾斯娜	之后只要调合就好！\n好，我要加油了～！	蕾斯娜	接下來只要調合就行了！好～我要加油～！
+TalkEvent_13_018ID	7	Valeria	ヴァレリア	レスナってば、あんなに虫が嫌いなのに\n逃げずに立ち向かって、偉いわよね	Valeria	I'm impressed with Resna. She was so scared of bugs, but she still managed to face her fear and not run away.	瓦莱莉娅	蕾斯娜这么讨厌虫子还能勇敢面对，\n真是了不起。	瓦萊莉婭	蕾斯娜明明那麼討厭蟲子，\n卻選擇正面對抗而沒有逃跑，真了不起。
+TalkEvent_13_018ID	8	Linca	リンカ	ええ。積極的に苦手を克服しようとする姿勢は\n自分も見習わなければ	Linca	Agreed. Her proactive approach to overcoming her fears is something I should learn from.	琳卡	是啊，\n我也要学习她积极克服弱点的精神。	琳卡	是啊，\n這種積極克服弱點的態度，我也該向她學習。
+TalkEvent_13_018ID	9	Valeria	ヴァレリア	せっかくだし、\n待ってる間、私も何か苦手克服に挑戦してみようかしら	Valeria	While we wait, maybe I should try overcoming one of my fears too.	瓦莱莉娅	机会难得，\n等待的时候我也克服一下自己的弱点吧。	瓦萊莉婭	機會難得，\n不然我也來趁等待期間挑戰克服弱點好了。
+TalkEvent_13_018ID	10	Valeria	ヴァレリア	リンカも一緒にどう？　苦手克服の会	Valeria	Linca, will you join me? We'll create the Face Your Fears Club!	瓦莱莉娅	琳卡要不要也来参加克服弱点大会？	瓦萊莉婭	琳卡妳要不要也一起來？克服弱點大會。
+TalkEvent_13_018ID	11	Linca	リンカ	なるほど、それは名案です。\nでは、自分は書類仕事をやってみようかと	Linca	Oh, that's a great idea. I suppose I'll try my hand at getting through some paperwork.	琳卡	这个主意不错。\n那我就试试看做文书工作吧。	琳卡	原來如此，這真是個好主意。\n那麼，我想要試著做做看文書工作。
+TalkEvent_13_018ID	12	Valeria	ヴァレリア	私は掃除でもしてみようかしら。くぅーっ。\n偉い、我ながら偉いわ、ヴァレリア	Valeria	I'll see if I can bring myself to do some cleaning. Wow! Just thinking about it is making me proud of myself.	瓦莱莉娅	我也去试试打扫好了。\n哎呀，我真棒，自己都想夸声了不起呢。	瓦萊莉婭	我來試著打掃看看好了。\n唔～了不起，連我自己都覺得自己很了不起呢。
+TalkEvent_13_018ID	13	Valeria	ヴァレリア	――ふうっ！　お掃除終わり！\nはぁーっ。やり切った時の、この心地よい疲労感	Valeria	Phew! Cleaning all done! Once it's over, you definitely feel a sense of satisfaction alongside the tiredness!	瓦莱莉娅	——呼！打扫完了！\n呼……我感受到了尽全力打扫之后的畅快疲惫感。	瓦萊莉婭	呼～！打掃完畢！\n哈啊～完成時的疲勞感真是舒服。
+TalkEvent_13_018ID	14	Linca	リンカ	自分も今日の報告書を書き終わりました！	Linca	I also managed to get through my reports for the day.	琳卡	我也写完了今天的报告书！	琳卡	我也寫完今天的報告書了！
+TalkEvent_13_018ID	15	Valeria	ヴァレリア	思っていたより、簡単だったわね～。いぇい	Valeria	Facing your fears is way easier than I thought! Yay!	瓦莱莉娅	比我想的要简单很多呢。耶～	瓦萊莉婭	比想像中還簡單呢～耶～
+TalkEvent_13_018ID	16	Marion	マリオン	……これのどこが、簡単だったのかしら？	Marion	And what exactly was so easy about it?	玛丽翁	……你到底怎么说得出简单的？	瑪麗翁	……妳說哪裡簡單了？
+TalkEvent_13_018ID	17	Linca	リンカ	うひゃあ！　マ、マリオン！？	Linca	Yikes! M-Marion?!	琳卡	呜哇！玛、玛丽翁？！	琳卡	嗚呀！瑪、瑪麗翁！？
+TalkEvent_13_018ID	18	Marion	マリオン	床は水浸しで、荷物はぐちゃぐちゃ！\n書類も間違いだらけじゃない！	Marion	The floor is still soaking wet, there are still things lying all over the place, and the reports are filled with mistakes!	玛丽翁	地板上全是水，行李也都乱七八糟！\n文件资料上错漏百出！	瑪麗翁	地板都是水，行李都溼答答的！\n文件也錯誤連篇耶！
+TalkEvent_13_018ID	19	Marion	マリオン	あなたたちは何もしないで、\nそこで大人しくしてなさいっ！　もぉ……	Marion	You two should just sit there and do nothing! Honestly...	玛丽翁	你们什么都别做，\n给我老实点待着！真是的……	瑪麗翁	妳們什麼都別做，給我乖乖待著就好！\n真是……
+TalkEvent_13_018ID	20	Marion	マリオン	まったく。かえって仕事が増えたわよ……	Marion	Good grief. All you've done is made more work for me...	玛丽翁	唉，工作量反而增加了……	瑪麗翁	真是的，工作反而更多了……
+TalkEvent_13_018ID	21	Linca	リンカ	す、すみません、マリオン……	Linca	Sorry, Marion...	琳卡	对、对不起，玛丽翁……	琳卡	對、對不起，瑪麗翁……
+TalkEvent_13_018ID	22	Valeria	ヴァレリア	うぅっ……苦手克服の会は解散ね	Valeria	Aww... I guess it's time to disband the Face Your Fears Club.	瓦莱莉娅	唔……克服弱点大会到此结束。	瓦萊莉婭	嗚嗚……克服弱點大會要解散了。
+TalkEvent_13_018ID	23	Resna	レスナ	（あはは……マリオンさん、大変だなぁ）	Resna	(Haha. Marion sure has it rough sometimes.)	蕾斯娜	（哈哈……让玛丽翁小姐操心了啊。）	蕾斯娜	（啊哈哈……瑪麗翁小姐真是辛苦啊。）
+TalkEvent_13_019ID	0	Resna	レスナ	……そういえば、ユナさん	Resna	That reminds me, Juna...	蕾斯娜	……对了，尤娜小姐。	蕾斯娜	……對了，尤娜小姐。
+TalkEvent_13_019ID	1	Juna	ユナ	ん？　なんだろうか	Juna	Hm? What is it?	尤娜	嗯？有什么事？	尤娜	嗯？什麼事？
+TalkEvent_13_019ID	2	Resna	レスナ	密林で魔物の子どもに遭遇した時\n本当はかわいがりたいのを我慢してました？	Resna	When we met that cute little monster in the jungle, were you holding yourself back from petting it?	蕾斯娜	在密林遇到魔物幼崽的时候，\n其实你很想摸摸它们，只是在努力克制吧？	蕾斯娜	在密林遇見魔物的孩子時，\n妳是不是其實很想親近牠們，只是忍下來了？
+TalkEvent_13_019ID	3	Juna	ユナ	うっ！　な、なぜ、それを！	Juna	Ah! H-How did you know?	尤娜	唔！你、你怎么会知道！	尤娜	嗚！妳、妳怎麼會知道這個！
+TalkEvent_13_019ID	4	Resna	レスナ	ユナさん、ずっと目で追ってましたから	Resna	You couldn't keep your eyes off it!	蕾斯娜	因为你一直盯着它们看嘛。	蕾斯娜	因為妳的視線一直追著牠們跑。
+TalkEvent_13_019ID	5	Resna	レスナ	シュネール州の依頼の時もそうでしたけど……\nやっぱりかわいいものがお好きなんですね！	Resna	It was exactly the same as during our request in Schnell. You really love cute things, don't you!	蕾斯娜	去施内尔州做委托的时候也是……\n你就是很喜欢可爱的事物呢！	蕾斯娜	當時處理雪內爾州的委託時也是這樣……\n妳果然很喜歡可愛的東西吧！
+TalkEvent_13_019ID	6	Juna	ユナ	……他の者たちには言わないでくれ	Juna	Please, don't tell the others.	尤娜	……别告诉别人。	尤娜	……別告訴其他人。
+TalkEvent_13_019ID	7	Resna	レスナ	みんなの前では我慢しなくても\nいいんじゃないですか？	Resna	You don't need to hide it, you know. The others won't mind!	蕾斯娜	我觉得你不需要在大家面前掩饰呀？	蕾斯娜	在大家面前不用忍耐也沒關係吧？
+TalkEvent_13_019ID	8	Juna	ユナ	いや、たとえ仲間の前であっても、\n白夜の騎士として隙を見せるわけにはいかない	Juna	No. Even among my companions, a Knight of the Midnight Sun must never show weakness.	尤娜	不，就算是在伙伴面前，\n白夜骑士也不能松懈丝毫。	尤娜	不，身為白夜騎士，\n就算是在夥伴面前，也不能露出破綻。
+TalkEvent_13_019ID	9	Resna	レスナ	でも……	Resna	But...	蕾斯娜	可是……	蕾斯娜	可是……
+TalkEvent_13_019ID	10	Juna	ユナ	う……私は外で待っている。\n薬ができたら教えてくれ	Juna	I-I'll be waiting outside. Let me know when the repellent is ready.	尤娜	唔……我在外面等着，\n等你做好了药再叫我。	尤娜	唔……我去外面等。藥做好了再告訴我。
+TalkEvent_13_019ID	11	Resna	レスナ	あ……ユナさん……	Resna	Oh, Juna...	蕾斯娜	啊……尤娜小姐……	蕾斯娜	啊……尤娜小姐……
+TalkEvent_13_019ID	12	Resna	レスナ	（私たちの前では、ありのままのユナさんで\n　いてくれたらいいのにな……）	Resna	(I wish she would just be herself when she's with friends...)	蕾斯娜	（希望尤娜小姐在我们面前\n　能展示真实的自我……）	蕾斯娜	（如果尤娜小姐能在我們面前\n　展現最真實的模樣就好了……）
+TalkEvent_13_019ID	13	Valeria	ヴァレリア	ユナとなに話してたの？	Valeria	What were you chatting with Juna about?	瓦莱莉娅	你跟尤娜说了什么啊？	瓦萊莉婭	妳跟尤娜說了什麼嗎？
+TalkEvent_13_019ID	14	Resna	レスナ	ひゃあっ！？　ああ、ヴァレリア……\nううん、なんでもないよ	Resna	Eep! Ah, Valeria! Nothing at all!	蕾斯娜	呀？！啊，瓦莱莉娅……\n没有啦，我们没说什么。	蕾斯娜	呀啊！？啊，瓦萊莉婭……\n不，沒什麼。
+TalkEvent_13_019ID	15	Valeria	ヴァレリア	もしかして、ユナがかわいいものが好きって話？	Valeria	Something about Juna liking cute things?	瓦莱莉娅	是在说尤娜喜欢可爱的东西？	瓦萊莉婭	該不會是在說尤娜喜歡可愛東西的事？
+TalkEvent_13_019ID	16	Resna	レスナ	う、聞こえてたんだ……	Resna	Oh, you overheard us...	蕾斯娜	唔，你听见了啊……	蕾斯娜	唔，妳聽見了啊……
+TalkEvent_13_019ID	17	Valeria	ヴァレリア	え、聞いたらまずかった？	Valeria	Was I not supposed to?	瓦莱莉娅	咦？不能听吗？	瓦萊莉婭	咦，不能聽見嗎？
+TalkEvent_13_019ID	18	Resna	レスナ	ええっと……まあ、本人は秘密にしたいみたい	Resna	Um, well... She said she wanted to keep it a secret.	蕾斯娜	唔……她本人似乎是想保密的。	蕾斯娜	呃……嗯，因為她想保密的樣子。
+TalkEvent_13_019ID	19	Valeria	ヴァレリア	ふうん。確かに意外ではあるけど、\n別に隠すほどのことじゃないわよね？	Valeria	Hmm. I get that it's a little unexpected for her, but I don't see the point in hiding it.	瓦莱莉娅	这样啊，确实挺出人意料的，\n不过我觉得没必要保密吧？	瓦萊莉婭	哦～雖然確實挺意外的，\n但這也不是需要特別隱瞞的事吧？
+TalkEvent_13_019ID	20	Resna	レスナ	私もそう思う。\nでも、白夜の騎士なりの葛藤もあるのかなって……	Resna	I agree...but I suppose that's just one of the challenges of being a Knight of the Midnight Sun.	蕾斯娜	我也这么想。\n但是白夜骑士会有他们自己在意的事吧……	蕾斯娜	我也這麼覺得。\n不過，我想她也有身為白夜騎士的掙扎吧……
+TalkEvent_13_019ID	21	Valeria	ヴァレリア	そっか。ユナも色々悩んでるのね	Valeria	Huh. So even Juna has her own struggles.	瓦莱莉娅	这样啊，尤娜也有自己的烦恼呢。	瓦萊莉婭	這樣啊，看來尤娜也有很多煩惱。
+TalkEvent_13_020ID	0	Linca	リンカ	あ、あの、リラ！\nリラの鉤爪での戦い方、実に見事ですね！	Linca	Um, Lila! I just wanted to say I find the way you fight with those claws really impressive!	琳卡	莉、莉拉！\n你用钩爪战斗的样子实在是厉害！	琳卡	那、那個，莉拉！\n妳使用鉤爪的戰鬥方式真是出色！
+TalkEvent_13_020ID	1	Lila	リラ	リンカこそ見事な大剣さばきだ。\n細身の身体でよく使いこなしている	Lila	Your skill with the sword is also very impressive. You handle it well for someone with such a slender build.	莉拉	琳卡你的大剑招式才威风呢。\n看你这么小巧，居然能自如地使用那么大一把武器。	莉拉	妳才是，那個揮舞大劍的動作才出色，\n即使身形纖細，動作依然流暢。
+TalkEvent_13_020ID	2	Linca	リンカ	あ、ありがとうございますっ！\nそれから……ええと、どう話したものか……	Linca	Th-Thank you! Also, um... How should I put this...	琳卡	谢、谢谢你。\n然后……唔，该怎么说呢……	琳卡	謝、謝謝妳！\n然後……我想想，該怎麼說才好呢……
+TalkEvent_13_020ID	3	Lila	リラ	まだ何かあるのか？	Lila	Is there something else?	莉拉	还有别的事吗？	莉拉	還有什麼事嗎？
+TalkEvent_13_020ID	4	Linca	リンカ	いえ、大したことではないのですが……	Linca	Ah, it's nothing important, but...	琳卡	不不，也不是什么大事……	琳卡	不，不是什麼大不了的事……
+TalkEvent_13_020ID	5	Lila	リラ	そうか。\nでは、私は少し先の様子を見てくる	Lila	Okay. I'll go scout ahead then.	莉拉	是吗？\n那我就先去前面看看情况。	莉拉	這樣啊。那麼，我先去看一下前方的情況。
+TalkEvent_13_020ID	6	Linca	リンカ	あ、はい……お気を付けて	Linca	Ah, all right... be careful.	琳卡	啊，好的……请小心。	琳卡	啊，好的……路上小心。
+TalkEvent_13_020ID	7	Linca	リンカ	……はあぁぁ、また上手く言えなかった	Linca	*Sigh* I just can't find the words...	琳卡	……唉，又没能好好说出口。	琳卡	……唉～又沒能好好說出口。
+TalkEvent_13_020ID	8	Valeria	ヴァレリア	ねえ、なんの話してたの？	Valeria	Hey, what were you talking about?	瓦莱莉娅	嗨，你们聊了些什么？	瓦萊莉婭	妳們剛才在聊什麼？
+TalkEvent_13_020ID	9	Linca	リンカ	……以前、友達を作るという任務を受けて\nいるという話はしましたよね	Linca	As I mentioned before, I was given a mission to make friends.	琳卡	……我跟你说过吧，\n我以前接受过一个交朋友的任务。	琳卡	……以前，我說過我接了一個交朋友的任務對吧？
+TalkEvent_13_020ID	10	Valeria	ヴァレリア	ああ、今度はリラと友達になろうとしてたのね	Valeria	Aha. So you're trying to be friends with Lila.	瓦莱莉娅	哦，你这次是想跟莉拉当朋友啊。	瓦萊莉婭	喔，所以妳這次打算跟莉拉成為朋友啊。
+TalkEvent_13_020ID	11	Linca	リンカ	はい。でも、ヴァレリアの時みたいに\nなかなか自分から言えなくて……	Linca	Yes, but unfortunately I can't just run out and say it like I know you would...	琳卡	是的，但是我没法像对瓦莱莉娅那样\n主动说出口……	琳卡	是的。\n可是，我一直沒辦法像當時面對妳那樣說出來……
+TalkEvent_13_020ID	12	Valeria	ヴァレリア	そんなに難しく考えなくても大丈夫よ	Valeria	You're just thinking about it too much!	瓦莱莉娅	你不用顾虑那么多的啦。	瓦萊莉婭	不必想得這麼困難啦。
+TalkEvent_13_020ID	13	Valeria	ヴァレリア	私、リンカに友達になりたいって言われて\n嬉しかったもん！	Valeria	I mean, I was so happy when you said you wanted to be friends with me.	瓦莱莉娅	你说想跟我交朋友的时候，\n我可开心了！	瓦萊莉婭	當時聽到妳說想和我成為朋友，我很高興啊！
+TalkEvent_13_020ID	14	Linca	リンカ	ほ、本当ですか！？　ヴァレリアが\nそう言うのなら、もう一度挑戦してみます！	Linca	You were?! Hearing you say that really inspires confidence! I'm going to try again!	琳卡	真、真的吗？！\n既然瓦莱莉娅这么说，那我就再挑战试试！	琳卡	真、真的嗎！？\n既然妳這麼說了，我會再挑戰一次的！
+TalkEvent_13_020ID	15	Valeria	ヴァレリア	よく言ったわ。それでこそリンカ。\n頑張って！　見守ってるからさ	Valeria	Excellent! That's the Linca I want to see. Good luck! I'll be watching!	瓦莱莉娅	不错，这才是琳卡嘛。\n加油啊，我会在一边给你力量的。	瓦萊莉婭	說得好，這樣才像妳。\n加油！我會看著妳的。
+TalkEvent_13_020ID	16	Linca	リンカ	はい！　ありがとうございます！	Linca	Yes! Thank you!	琳卡	嗯！谢谢你！	琳卡	好的！謝謝妳！
+TalkEvent_13_020ID	17	Linca	リンカ	リラ、待ってください！\n実は、あなたにお願いがあるんです	Linca	Lila, wait a second! I have something to ask you!	琳卡	莉拉，请等一下！\n其实我有事想拜托你。	琳卡	莉拉，請等一下！\n老實說，我有個請求。
+TalkEvent_13_020ID	18	Lila	リラ	お願い？　言ってみろ	Lila	Something to ask? Go ahead.	莉拉	有事？说来听听。	莉拉	請求？妳說說看。
+TalkEvent_13_020ID	19	Linca	リンカ	じ、自分と友達になってもらえませんか！？	Linca	W-Would you be willing to be my friend?!	琳卡	你、你能做我的朋友吗？！	琳卡	請問妳、妳能跟我做朋友嗎！？
+TalkEvent_13_020ID	20	Lila	リラ	いや、その必要はない	Lila	No need.	莉拉	不，没必要。	莉拉	不，沒那個必要。
+TalkEvent_13_020ID	21	Linca	リンカ	……っ！！	Linca	Wha—?!	琳卡	……！！	琳卡	……唔！！
+TalkEvent_13_020ID	22	Valeria	ヴァレリア	瞬殺！？　リンカ、落ち着いて。息を吸う時間に\n対して２倍かけて息を吐くのよ！	Valeria	Shot down?! Linca, calm down. Take a deep breath and exhale slowly.	瓦莱莉娅	秒杀？！琳卡，冷静点，\n先吸气，再用2倍的时间缓缓吐气！	瓦萊莉婭	秒殺！？琳卡，冷靜下來，\n用吸氣的兩倍時間吐氣！
+TalkEvent_13_020ID	23	Lila	リラ	ふっ。もうすでに戦友なのだから、\n改めて友になる必要はないはずだ	Lila	We're already comrades-in-arms, there is no need to renew that friendship.	莉拉	呵。我们已经是战友了，\n没必要再去做朋友啊。	莉拉	呵，我們已經是戰友了，\n應該沒必要再重新結為朋友吧。
+TalkEvent_13_020ID	24	Linca	リンカ	せ、戦友……！　はい、そうですね！\n共に戦った仲間ですから！	Linca	C-Comrades! Yes! Of course! Companions who have fought together!	琳卡	战、战友……！对，没错！\n我们是共同战斗的伙伴！	琳卡	戰、戰友……！對，妳說得對！\n我們是並肩作戰過的夥伴嘛！
+TalkEvent_13_020ID	25	Lila	リラ	ああ。\nこれからも、よろしく頼むぞ	Lila	Correct. I'll always be counting on you.	莉拉	是啊。\n今后也请多关照。	莉拉	是啊。今後也請多關照。
+TalkEvent_13_020ID	26	Valeria	ヴァレリア	はーっ。ホッとした	Valeria	Phew. What a relief.	瓦莱莉娅	呼，总算松了一口气。	瓦萊莉婭	呼～總算鬆了口氣。
+TalkEvent_13_020ID	27	Marion	マリオン	ふふふ。よかったわね、リンカ	Marion	Hehe. Glad it all worked out, Linca.	玛丽翁	呵呵，太好啦，琳卡。	瑪麗翁	呵呵呵，太好了呢，琳卡。
+TalkEvent_13_020ID	28	Linca	リンカ	はい！\nまた１つ、任務達成です！	Linca	True! Another mission accomplished!	琳卡	是啊！\n我又完成了一个任务！	琳卡	是的！我又達成一項任務了！
+TalkEvent_13_020ID	29	Marion	マリオン	じゃあ、こっちの任務にも集中できるわね。\nここから先は今以上に気を引き締めてちょうだい	Marion	Now let's focus on our primary mission. We need to stay more vigilant than ever.	玛丽翁	那就该专心做手头这个任务了。\n接下来要严加防范啊。	瑪麗翁	這樣妳也能專注於這邊的任務了吧。\n接下來要比現在更認真哦。
+TalkEvent_13_020ID	30	Marion	マリオン	この奥には、月影の会だけじゃなく\n極夜の錬金党もいるはずだから	Marion	The Moonlight Society and Polar Night Alchemists could be up ahead.	玛丽翁	毕竟密林深处不仅有月影会，\n还有极夜的炼金党。	瑪麗翁	畢竟深處應該不只有月影會，\n還會有極夜的鍊金黨。
+TalkEvent_13_020ID	31	Linca	リンカ	はい！　行きましょう、皆さん！	Linca	Yes! Onward, everyone!	琳卡	好的！各位，我们走吧！	琳卡	好的！各位，我們走吧！
+TalkEvent_13_021ID	0	Juna	ユナ	はああっ！	Juna	Hyaah!	尤娜	喝啊啊啊！！	尤娜	喝啊啊！
+TalkEvent_13_021ID	1	Lila	リラ	そこだっ！	Lila	Got you!	莉拉	看招！	莉拉	就是那裡！
+TalkEvent_13_021ID	2	Lila	リラ	……ふう、片付いたな	Lila	Phew. That's the last of them.	莉拉	……呼，总算解决了啊。	莉拉	……呼～收拾完了。
+TalkEvent_13_021ID	3	Resna	レスナ	お見事です！　お二人とも、さすがですね！	Resna	Fantastic! You two really are amazing!	蕾斯娜	太棒了！你们两个真厉害！	蕾斯娜	太精彩了！真不愧是妳們兩位！
+TalkEvent_13_021ID	4	Valeria	ヴァレリア	うんうん！　さすがすぎてずるいぐらい！	Valeria	Agreed! Almost too amazing!	瓦莱莉娅	嗯嗯！厉害得都犯规了！	瓦萊莉婭	嗯嗯！簡直厲害到狡猾的程度呢！
+TalkEvent_13_021ID	5	Linca	リンカ	特にユナは動きも振る舞いも完璧です。\nむむむ……何か１つくらい欠点はないのでしょうか	Linca	Juna, your movements and stance are impeccable. Hmm... I really can't find a single flaw.	琳卡	尤其是尤娜的动作简直完美，\n唔……她就没有什么缺点吗……	琳卡	尤其是尤娜的動作舉止都很完美。\n唔唔唔……難道一點缺點都沒有嗎？
+TalkEvent_13_021ID	6	Juna	ユナ	王族を守護する白夜の騎士に\n弱点があってはならない	Juna	A Knight of the Midnight Sun lives to protect the royal bloodline. We cannot afford to show weakness.	尤娜	守护王族的白夜骑士\n不应该有弱点。	尤娜	守護王族的白夜騎士不能有任何弱點。
+TalkEvent_13_021ID	7	Juna	ユナ	自分の未熟さのせいで、\n殿下の身を危険にさらせないからな	Juna	I cannot put His Highness in danger due to my own lack of skill.	尤娜	我不能因为自己的不成熟\n让殿下陷入危险。	尤娜	我可不能因為不夠成熟，害殿下暴露於危險之中。
+TalkEvent_13_021ID	8	Linca	リンカ	はああ……かっこいいですね！	Linca	Oooh! That's so inspiring!	琳卡	哇……好帅啊！	琳卡	哈啊啊……真帥氣耶！
+TalkEvent_13_021ID	9	Valeria	ヴァレリア	むう……いかにも騎士らしいというか\nユナらしいわ	Valeria	Everything about you is exactly what I imagine a knight to be!	瓦莱莉娅	嗯……真是太有骑士风范了，\n可以说尤娜天生就是这样的人。	瓦萊莉婭	唔……真有十足的騎士風範，\n應該說真有尤娜的風格。
+TalkEvent_13_021ID	10	Valeria	ヴァレリア	リラは、なんかないの？　かわいい弱点	Valeria	Lila, do you have any silly weaknesses?	瓦莱莉娅	莉拉有什么可爱的弱点吗？	瓦萊莉婭	莉拉呢？有沒有什麼可愛的弱點？
+TalkEvent_13_021ID	11	Lila	リラ	いや、私は……	Lila	No, I don't...	莉拉	啊，我……	莉拉	不，我……
+TalkEvent_13_021ID	12	Marion	マリオン	リラは……そうねぇ。世間の常識から\nちょっとズレてるところがあるかもね	Marion	Lila does have one weakness. She's a bit out of touch with common sense.	玛丽翁	莉拉啊……我想想，\n她的弱点应该是有些缺乏常识吧。	瑪麗翁	莉拉……我想想，\n她或許有些脫離一般常識的地方。
+TalkEvent_13_021ID	13	Resna	レスナ	えっ、そうなんですか？	Resna	Oh, really?	蕾斯娜	咦，是这样吗？	蕾斯娜	咦，是這樣嗎？
+TalkEvent_13_021ID	14	Marion	マリオン	探索中も目についたものがあれば、\n食べられるとか毒があるとか……そんな話ばかりよ	Marion	During exploration, she's always commenting on whether things are edible or poisonous...	玛丽翁	她在探索中无论看见什么东西，\n都会说到能不能吃，有没有毒……	瑪麗翁	探索中每當她看到什麼東西，\n都會說這能吃、這有毒……之類的。
+TalkEvent_13_021ID	15	Marion	マリオン	さっきだって、あの虫は毒があるけど\nやり方次第で食べられるなんて言って	Marion	Just a bit ago she was talking about how those bugs are poisonous but can still be eaten depending on how you chew them...	玛丽翁	刚才不就是吗？她说那些虫虽然有毒，\n但处理过后也还是能吃的。	瑪麗翁	剛才也是，她說那種蟲雖然有毒，\n但處理得好就可以吃。
+TalkEvent_13_021ID	16	Resna	レスナ	虫をそのまま食べるんですか！？	Resna	You eat bugs raw?!	蕾斯娜	直接吃虫子吗？！	蕾斯娜	直接吃蟲嗎！？
+TalkEvent_13_021ID	17	Lila	リラ	ああ、必要があればな。\n……おかしいか？	Lila	If necessary, yes. Is that strange?	莉拉	是啊，有必要就会吃……这很奇怪吗？	莉拉	對，如果有必要的話。\n……很奇怪嗎？
+TalkEvent_13_021ID	18	Resna	レスナ	い、いえ！\n頼もしいと思いますっ！	Resna	N-No! It's very impressive!	蕾斯娜	不、不奇怪！\n我觉得你很可靠！	蕾斯娜	不、不會！我覺得妳很可靠！
+TalkEvent_13_021ID	19	Linca	リンカ	なるほど、虫か……。\n自分も虫を食べればリラのような強さを……	Linca	Bugs, huh? I wonder if I can become as strong as Lila if I eat bugs...	琳卡	吃虫子啊……我要是能吃虫子，\n是不是就能变得像莉拉一样强大……	琳卡	原來如此，蟲啊……\n如果我也吃蟲的話，就能變得像莉拉那麼強……
+TalkEvent_13_021ID	20	Marion	マリオン	リンカ、あなたも結構ズレてるわよ。\n知ってたけど	Marion	Linca, you're pretty out of touch with common sense too, I guess.	玛丽翁	琳卡，你也有些缺乏常识哦。\n虽然我早就知道了。	瑪麗翁	琳卡，妳也挺奇葩的。\n雖然我本來就知道了。
+TalkEvent_13_021ID	21	Linca	リンカ	えっ！？　自分もですか！？	Linca	Huh? Me too?!	琳卡	咦？！我也是吗？！	琳卡	咦！？我也是嗎！？
+TalkEvent_13_021ID	22	Valeria	ヴァレリア	あはは。戦いには関係のない欠点だし、\nかわいいもんじゃない	Valeria	Haha. At least it's not a weakness that will show in battle, and it's kinda cute!	瓦莱莉娅	哈哈，这种缺点在战斗中无关痛痒，\n不是挺可爱的嘛。	瓦萊莉婭	啊哈哈，反正是跟戰鬥無關的缺點，\n很可愛不是嗎？
+TalkEvent_13_022ID	0	Valeria	ヴァレリア	ん？　何かいるみたいだけど、この感じは……	Valeria	Hm? Something's there. It sounds like...	瓦莱莉娅	嗯？好像有什么东西，这是……	瓦萊莉婭	嗯？好像有什麼東西，這個感覺是……
+TalkEvent_13_022ID	1	Marion	マリオン	あら！　さっきのイタチみたいな子たちじゃない！	Marion	Oh! It's those weasel-like creatures from before!	玛丽翁	哎呀，这不是刚才那些像鼬的小魔物嘛！	瑪麗翁	哎呀！這不是剛才那些貌似鼬的孩子們嗎！
+TalkEvent_13_022ID	2	Juna	ユナ	…………！	Juna	...!	尤娜	……！	尤娜	…………！
+TalkEvent_13_022ID	3	Resna	レスナ	私たちの後をついてきたんでしょうか？\nこの子たちは、特に好奇心旺盛みたいですね	Resna	Did they follow us? They seem especially curious.	蕾斯娜	它们是跟着我们来的吗？\n真是一群好奇心格外旺盛的小家伙。	蕾斯娜	是不是跟著我們來的呢？\n這些孩子們的好奇心好像特別旺盛耶。
+TalkEvent_13_022ID	4	Marion	マリオン	そんなところもかわいいじゃない。よしよし。\nそっちの子は、レスナに撫でてほしそうよ？	Marion	That's what makes them so very cute! Look, that one wants you to pet it, Resna.	玛丽翁	你们这样也挺可爱的呢，乖宝宝。\n那边那只似乎想让蕾斯娜摸摸它哦？	瑪麗翁	這點也很可愛啊。好乖好乖。\n那邊那隻好像希望蕾斯娜妳摸牠耶？
+TalkEvent_13_022ID	5	Resna	レスナ	なでなでー。あ、気持ちよさそうな顔ですっ。\n私、撫でるのはイザナちゃんで慣れてますから	Resna	There's a good monster! Oh, it looks so happy. I'm used to petting Izana, so this is easy.	蕾斯娜	摸摸～啊，它看起来好享受。\n我可是在伊札娜身上锻炼过抚摸技巧的哦。	蕾斯娜	摸摸～啊，好像很舒服的表情。\n我跟伊札娜相處後很熟悉摸摸了。
+TalkEvent_13_022ID	6	Juna	ユナ	……か……かわ……くっ！！	Juna	So...cute... Ugh!	尤娜	……好……好可……唔！！	尤娜	……好……好可……唔！！
+TalkEvent_13_022ID	7	Marion	マリオン	はぁ。本当にこのまま連れ帰っちゃおうかしら。\nかわいいものを毎日愛でる生活……うん、いいわね	Marion	Hm, maybe we should take them home. A life filled with such cuteness would be wonderful!	玛丽翁	唉，干脆把它们带回去吧？\n要是每天都能抚摸可爱的生物……嗯，那就太好了。	瑪麗翁	唉～要不要乾脆就這樣把牠們帶回家好了？\n每天疼愛這些可愛小生物的生活……嗯，真不錯。
+TalkEvent_13_022ID	8	Linca	リンカ	む。マリオン、自分だって今はかわいいはずです。\nほら、マリオンがこだわって選んだ装いですよ	Linca	Hmph. Marion, am I not cute enough for you? This is the outfit you picked for me!	琳卡	唔。玛丽翁，我现在应该也很可爱啊。\n你看，这是你为我精心挑选的衣服哦。	琳卡	唔，瑪麗翁，我現在應該也很可愛啊。\n妳看，這是妳精挑細選才選出來的服裝喔。
+TalkEvent_13_022ID	9	Valeria	ヴァレリア	あ。リンカが急に対抗しだした	Valeria	Ah. Looks like Linca's feeling threatened by the cuteness.	瓦莱莉娅	啊，琳卡突然有了竞争意识。	瓦萊莉婭	啊，琳卡突然開始較勁了。
+TalkEvent_13_022ID	10	Marion	マリオン	リンカもかわいいわよ？\nでも、このふわふわは格別なのよねぇ	Marion	You're also cute! But not the fluffy kind of cute!	玛丽翁	琳卡当然也很可爱，\n但是这柔软蓬松的皮毛让人格外爱不释手。	瑪麗翁	琳卡妳也很可愛啊？\n不過，這種鬆鬆軟軟的感覺是特別的。
+TalkEvent_13_022ID	11	Linca	リンカ	むむむ……！	Linca	Hmmph!	琳卡	可恶……！	琳卡	唔唔唔……！
+TalkEvent_13_022ID	12	Resna	レスナ	確かにずっと撫でていたくなる心地よさ……。\n何より愛らしいこの仕草が……	Resna	They really are so comforting to pet... Not to mention the adorable way they move...	蕾斯娜	它们的手感让人欲罢不能……\n还有这惹人怜爱的举止……	蕾斯娜	確實舒服到讓人想一直摸下去……\n特別是這個可愛的動作……
+TalkEvent_13_022ID	13	Juna	ユナ	…………	Juna	...	尤娜	…………	尤娜	…………
+TalkEvent_13_022ID	14	Resna	レスナ	（はっ！？　ユナさん、撫でたいのを我慢してるんだ！\n　震える拳から、艱難辛苦がにじみ出ている……！）	Resna	(Ah! Juna's holding back from petting them again! I can see the struggle in her trembling fists...)	蕾斯娜	（啊？！尤娜小姐正强忍着不去抚摸！\n　从颤抖的拳头就能看出她忍得有多辛苦……！）	蕾斯娜	（啊！？尤娜小姐正在忍耐想摸的心情！\n　她顫抖的拳頭，透露出她忍得有多辛苦……！）
+TalkEvent_13_022ID	15	Lila	リラ	…………！　お前たち、ほのぼのするのはそこまでだ。\n魔物の気配がするぞ	Lila	Break time is over, everyone. There's a real monster approaching.	莉拉	……！你们差不多也该玩够了。\n附近有魔物的气息。	莉拉	…………！妳們幾個，溫馨時光就到此為止吧。\n有魔物的氣息。
+TalkEvent_13_022ID	16	Resna	レスナ	えっ！？　い、いつの間に！？	Resna	What? When did it get so close?!	蕾斯娜	咦？！魔物什么时候来的？！	蕾斯娜	咦！？什、什麼時候出現的！？
+TalkEvent_13_022ID	17	Valeria	ヴァレリア	こっちにまっすぐ向かってきてるわよ！	Valeria	It's coming straight for us!	瓦莱莉娅	它笔直地朝这边过来了！	瓦萊莉婭	正筆直朝我們這裡過來！
+TalkEvent_13_022ID	18	Resna	レスナ	どうしよう！　このままじゃ、この子たちが\n巻き込まれちゃうかも	Resna	What should we do? The little ones might get caught up in the fray.	蕾斯娜	怎么办啊！\n这样下去会波及这些小家伙的。	蕾斯娜	怎麼辦！再這樣下去，\n這些孩子們可能會被捲進來。
+TalkEvent_13_022ID	19	Juna	ユナ	それならば	Juna	The solution is clear.	尤娜	那么……	尤娜	既然如此……
+TalkEvent_13_022ID	20	Juna	ユナ	先手必勝。こちらから一気呵成に攻め立てる！\n行くぞ！！！	Juna	We take the battle to them! Don't give them a chance. Let's go!	尤娜	先下手为强，我们要先给它个下马威！\n上吧！！！	尤娜	先下手為強，由我們先一鼓作氣發動猛攻！\n我要上了！！！
+TalkEvent_13_022ID	21	Lila	リラ	あいつ、妙に張り切っているな？	Lila	What's she so fired up about?	莉拉	觉不觉得她现在比平时都要亢奋啊？	莉拉	她怎麼好像特別有幹勁？
+TalkEvent_13_022ID	22	Resna	レスナ	えっと、その……。\nと、とにかく私たちも援護しましょう！	Resna	Uh, well... C-Come on, we need to go help!	蕾斯娜	这个嘛……\n总、总之我们也去援助吧！	蕾斯娜	呃，這個……\n總、總之，我們也去支援吧！
+TalkEvent_13_023ID	0	Juna	ユナ	よし。敵はすべて殲滅した	Juna	Done. All enemies are down.	尤娜	好，歼灭了所有敌人。	尤娜	好，殲滅所有敵人了。
+TalkEvent_13_023ID	1	Valeria	ヴァレリア	さっすがユナ！　キレッキレの動きだったわね！	Valeria	Amazing as always, Juna! Your movements were so precise!	瓦莱莉娅	不愧是尤娜，动作干净利索呢！	瓦萊莉婭	真不愧是尤娜！動作迅速俐落！
+TalkEvent_13_023ID	2	Resna	レスナ	ほ、本当に。鬼神の如き働きで……あっ。\nあの子たちが……	Resna	They really were... You fought like something else took over your body. Oh, look at the little ones...	蕾斯娜	真、真的呢，动作有如神助……啊，\n小家伙们……	蕾斯娜	真、真的，如鬼神一般強大……啊。\n那些小生物們……
+TalkEvent_13_023ID	3	Juna	ユナ	…………！	Juna	...!	尤娜	……！	尤娜	…………！
+TalkEvent_13_023ID	4	Marion	マリオン	ユナの足元をくるくる回ってるわ。ふふふ、魔物から\n守ってくれたお礼を言いたいのかしら？	Marion	They're circling Juna's feet. Maybe they're thanking you for saving them from the monsters.	玛丽翁	它们在尤娜脚边打转呢，呵呵。\n是想谢谢她从魔物手中保护了它们吧？	瑪麗翁	牠們在尤娜的腳邊轉來轉去的耶，呵呵呵，\n是不是想感謝尤娜保護牠們不受魔物傷害啊？
+TalkEvent_13_023ID	5	Juna	ユナ	かわ……っ、……くっ……！	Juna	So...cu... Ugh!	尤娜	好可……唔……！	尤娜	好可……唔……呃……！
+TalkEvent_13_023ID	6	Resna	レスナ	…………。あのっ、ユナさん。\nその子たち、撫でてみませんか？	Resna	Say, Juna... Why don't you try petting them?	蕾斯娜	……尤娜小姐，\n你要不要摸摸它们呢？	蕾斯娜	…………那個，尤娜小姐，妳要不要摸摸看牠們？
+TalkEvent_13_023ID	7	Juna	ユナ	えっ？	Juna	Huh?	尤娜	咦？	尤娜	咦？
+TalkEvent_13_023ID	8	Resna	レスナ	だってユナさん、この子たちをかわいいって\n思ってますよね？	Resna	I mean, you think they're cute, right?	蕾斯娜	因为尤娜小姐也觉得它们很可爱吧？	蕾斯娜	因為尤娜小姐覺得牠們很可愛對吧？
+TalkEvent_13_023ID	9	Juna	ユナ	それは……	Juna	Well, I...	尤娜	这……	尤娜	這個……
+TalkEvent_13_023ID	10	Juna	ユナ	（……ああ、そうだ。私はこの小さい生き物たちを\n　かわいいと思っている。かわいいものが好きだ）	Juna	(Yes, of course I think these little creatures are cute. I love cute things.)	尤娜	（……嗯，没错，我觉得这些小家伙很可爱，\n　我喜欢可爱的东西。）	尤娜	（……對，沒錯，我覺得這些小動物們很可愛，\n　我喜歡可愛的東西。）
+TalkEvent_13_023ID	11	Juna	ユナ	（だが……）	Juna	(But...)	尤娜	（但是……）	尤娜	（可是……）
+TalkEvent_13_023ID	12	Valeria	ヴァレリア	ユナ？	Valeria	Juna?	瓦莱莉娅	尤娜？	瓦萊莉婭	尤娜？
+TalkEvent_13_023ID	13	Juna	ユナ	（武術を徹底的に鍛え、故郷を焼いた竜を倒した。\n　王宮に仕えるようになり、皆に慕ってもらった）	Juna	(I've trained my martial arts to perfection, defeated a dragon that burned my hometown. I've served the royal palace and gained the admiration of many.)	尤娜	（我专心钻研武艺，打倒了烧毁故乡的龙。\n　之后来到王宫为王族工作，得到了人们的敬仰。）	尤娜	（我徹底鍛鍊武術，打倒了燒毀故鄉的龍。\n　之後到王宮工作，受到眾人仰慕。）
+TalkEvent_13_023ID	14	Juna	ユナ	（そして白夜の騎士となり、王族からも期待される\n　ようになった。民も、戦う相手も、私を知っている）	Juna	(I became a Knight of the Midnight Sun, bound to serve the royal bloodline. The people, my opponents—they all know me.)	尤娜	（接着当上了白夜骑士，受到王族器重。\n　无论是民众还是对手都知道我的名头。）	尤娜	（接著成為白夜騎士，承受起王族的期待。\n　無論是人民還是戰鬥對手，都知道我這個人。）
+TalkEvent_13_023ID	15	Juna	ユナ	（そんな私が、かわいいものを愛でて油断した姿を\n　さらすことは……決してできない！）	Juna	(I absolutely cannot show weakness by letting my guard down just to indulge in this cuteness!)	尤娜	（绝不能让别人看到我玩赏可爱事物……\n　破绽百出的一面！）	尤娜	（要這樣的我露出親近可愛生物而大意的模樣……\n　我絕對做不到！）
+TalkEvent_13_023ID	16	Resna	レスナ	あ、あの……ユナさん？	Resna	Um... Juna?	蕾斯娜	你、你怎么了……尤娜小姐？	蕾斯娜	那、那個……尤娜小姐？
+TalkEvent_13_023ID	17	Juna	ユナ	私はいい。いつ極夜の錬金党の者が現れるか\n分からない状況だ。常に警戒を……	Juna	No need. We don't know when the Polar Night Alchemists might appear. I must stay vigilant...	尤娜	我就免了。现在也不知道极夜的炼金党\n什么时候会出现，要时刻警惕……	尤娜	我沒關係。目前並不清楚極夜的鍊金黨何時會現身。\n要持續保持警戒……
+TalkEvent_13_023ID	18	Lila	リラ	今は周囲に人や魔物の気配はないぞ？\n動物を少し撫でるくらい、構わないと思うが？	Lila	There are no monsters or people around at the moment. I'm sure it's safe to just pet the animals for a bit.	莉拉	现在周围完全没有人和魔物的气息哦，\n稍微摸摸小动物应该不会有事的。	莉拉	現在周圍沒有人或魔物的氣息啊？\n稍微摸一下動物，應該沒關係吧？
+TalkEvent_13_023ID	19	Juna	ユナ	うっ	Juna	Urk!	尤娜	唔……	尤娜	唔。
+TalkEvent_13_023ID	20	Linca	リンカ	撫でないのですか？　ユナの視線はずっとこの動物に\n釘付けですし、マリオンと同じものを感じますが	Linca	Just a quick little pet? You've been staring at them so intently and I get the feeling you feel the same way Marion does about them.	琳卡	尤娜不摸吗？你一直都盯着这个小家伙看呢，\n我能感到你心里有着跟玛丽翁类似的想法。	琳卡	妳不摸嗎？尤娜妳的視線一直盯著這些動物看，\n有種和瑪麗翁一樣的感覺。
+TalkEvent_13_023ID	21	Valeria	ヴァレリア	ユナもこの子たちを撫でたいのよね？\n撫でちゃいなよ	Valeria	Juna, you want to pet them, right? Just go ahead!	瓦莱莉娅	尤娜也想摸摸它们吧？\n那就摸摸嘛。	瓦萊莉婭	尤娜妳也想摸摸牠們對吧？那就摸嘛。
+TalkEvent_13_023ID	22	Juna	ユナ	い、いや、私は……	Juna	N-No, I...	尤娜	不、不是的，我没……	尤娜	不、不，我……
+TalkEvent_13_023ID	23	Marion	マリオン	いいのよ。このかわいさには誰も抗えないわよね！	Marion	It's fine! No one can resist such cuteness!	玛丽翁	你就摸摸吧，谁也没法抵抗这么可爱的事物嘛！	瑪麗翁	沒關係啦，可愛成這樣，任誰都抗拒不了嘛！
+TalkEvent_13_023ID	24	Resna	レスナ	皆さんもこう言っていることですし。\nさぁ！　なでなでしてあげてください！	Resna	Everyone agrees that it's okay. Come on, just give them a little pet!	蕾斯娜	你看大家都这么说了，\n来，请摸摸看吧！	蕾斯娜	大家都這麼說了。\n來吧！請妳摸摸牠們吧！
+TalkEvent_13_023ID	25	Juna	ユナ	…………っ、ダ、ダメだ！	Juna	... N-No! I can't!	尤娜	……不、不行！	尤娜	…………不、不行！
+TalkEvent_13_023ID	26	Juna	ユナ	私は王国から白夜の騎士の称号を頂戴している！！\nいついかなる時も、隙を見せてはならないのだ！！	Juna	The kingdom has entrusted me with the title of Knight of the Midnight Sun! I cannot show weakness at any time!	尤娜	王国授予了我白夜骑士的名号！！\n无论何时，我都不能露出破绽！	尤娜	王國授予了我白夜騎士這個稱號！！\n無論什麼時候我都不能露出破綻！！
+TalkEvent_13_024ID	0	Resna	レスナ	ユナさん……	Resna	Juna...	蕾斯娜	尤娜小姐……	蕾斯娜	尤娜小姐……
+TalkEvent_13_024ID	1	Juna	ユナ	私は常に己を律しなければならない。\nそれが騎士というものだと、私は思っている	Juna	I must always exercise self-discipline. I believe that is what it means to be a knight.	尤娜	我必须时常律己，\n这才是骑士该做的。	尤娜	我認為我必須隨時約束自己，\n這才是騎士該有的模樣。
+TalkEvent_13_024ID	2	Resna	レスナ	確かにユナさんは、誰もが憧れる騎士の中の\n騎士です。だけど……	Resna	Juna, you are without a doubt a knight among knights. Everyone looks up to you, but...	蕾斯娜	尤娜小姐的确是人人憧憬的优秀骑士，\n可是……	蕾斯娜	妳確實是每個人都崇拜的騎士中的騎士，但是……
+TalkEvent_13_024ID	3	Resna	レスナ	力の配分が大事だと私に教えてくれたのは、\nユナさんですよ	Resna	You're also the one that taught me the importance of managing my energy.	蕾斯娜	告诉我分配力量很重要的，\n不正是尤娜小姐吗？	蕾斯娜	是妳教會我分配精力很重要的啊。
+TalkEvent_13_024ID	4	Juna	ユナ	レスナ……	Juna	Resna...	尤娜	蕾斯娜……	尤娜	蕾斯娜……
+TalkEvent_13_024ID	5	Valeria	ヴァレリア	そうよ。任務の合間に、ほんの少し\n動物をかわいがるくらい、ぜんぜんいいじゃない	Valeria	Exactly. Taking a moment to pet some animals in between missions is a great way to rest up.	瓦莱莉娅	是啊，在任务间隙中摸摸小动物，\n这是完全无可非议的呀。	瓦萊莉婭	對啊，在任務空檔跟動物稍微玩一下，\n完全不成問題吧。
+TalkEvent_13_024ID	6	Valeria	ヴァレリア	ユナはちゃんと騎士の役目を果たしてるもの。\nやる時はやる。それでいいんじゃない？	Valeria	Juna, you always fulfill your duties as a knight. You're there when you're needed. Isn't that enough?	瓦莱莉娅	尤娜平时都有好好履行骑士的职责，\n关键时刻也会行动，这样不就足够了吗？	瓦萊莉婭	妳有好好完成騎士的任務啊。\n該做的時候會做，這樣就行了吧？
+TalkEvent_13_024ID	7	Juna	ユナ	しかし……	Juna	But, I...	尤娜	可是……	尤娜	可是……
+TalkEvent_13_024ID	8	Marion	マリオン	ユナ。あなた、ちょっと私と似てるわね	Marion	Juna, you're a lot like me, you know.	玛丽翁	尤娜，你跟我有点像呢。	瑪麗翁	尤娜，妳跟我有點像呢。
+TalkEvent_13_024ID	9	Juna	ユナ	えっ？	Juna	Huh?	尤娜	嗯？	尤娜	咦？
+TalkEvent_13_024ID	10	Marion	マリオン	私も仕事と私生活の切り離しが苦手というか、\nよく部下に働きすぎだって言われるのよね	Marion	I also struggle to separate work and my personal life. I'm always being told that I work too much.	玛丽翁	我也很难区分工作和私生活，\n总是被部下提醒说太过沉迷工作。	瑪麗翁	我也有點不擅長區分工作與私生活。\n部下經常說我工作過度。
+TalkEvent_13_024ID	11	Marion	マリオン	だからこそ言わせて。やっぱり息抜きって大事よ。\nずっと張り詰めていたら、身も心も疲弊しちゃうわ	Marion	That's why I need to say this: taking a break sometimes is crucial. If you're on alert all the time, your mind and body will wear out.	玛丽翁	所以让我劝你两句吧，劳逸结合很重要。\n你要是一直紧绷着，身心都是会疲惫的。	瑪麗翁	所以聽我說幾句吧，放鬆還是很重要的喔。\n老是繃緊神經，會身心俱疲的。
+TalkEvent_13_024ID	12	Lila	リラ	それに、生き物を愛でることが弱さに繋がる\nとは思わないしな	Lila	Besides, I don't think showing some affection to other living creatures is a sign of weakness.	莉拉	而且喜欢小动物也绝不是什么弱点。	莉拉	況且，我認為親近動物跟軟弱沒有關係。
+TalkEvent_13_024ID	13	Valeria	ヴァレリア	そうそう！　ユナは大げさに考えすぎよ！\nあまりに真面目すぎるっていうか	Valeria	Exactly! You're overthinking this, Juna. You just need to loosen up a bit.	瓦莱莉娅	没错！尤娜把事情想得太严重了！\n你也太一板一眼了吧。	瓦萊莉婭	對啊對啊！尤娜妳想得太誇張了！\n或許有點認真過頭了吧。
+TalkEvent_13_024ID	14	Linca	リンカ	敵の気配もない今が、絶好の機会です。\nさあ、撫でましょう、ユナ	Linca	With no enemies around, now is the perfect time. Go ahead, pet them, Juna.	琳卡	现在又没有敌人在，是个好机会。\n来，摸摸它吧，尤娜。	琳卡	現在沒有敵人氣息，正是絕佳時機。\n來，摸摸看吧，尤娜。
+TalkEvent_13_024ID	15	Juna	ユナ	……う……くっ……し、しかし……	Juna	But... Urgh... Still...	尤娜	……唔……可、可是……	尤娜	……唔……呃……可、可是……
+TalkEvent_13_024ID	16	Resna	レスナ	何も、全員の前で息抜きしろって言っている\nわけじゃありません	Resna	Nobody is saying that you need to let your guard down in front of everyone.	蕾斯娜	我们这么说也不是要让你在所有人面前松懈。	蕾斯娜	我們並不是要妳在所有人面前放鬆警戒。
+TalkEvent_13_024ID	17	Resna	レスナ	ただ、私たちはもう仲間じゃないですか！\n仲間の前なら、少しぐらいはいいと思いますよ	Resna	But we're not everyone! We're your companions! You can always take it a bit easier with friends!	蕾斯娜	只不过……我们都已经是伙伴了呀！\n在伙伴面前稍微放松一下也没什么的。	蕾斯娜	不過，我們已經是夥伴了不是嗎！\n我覺得在夥伴面前，放鬆一下下不要緊的。
+TalkEvent_13_024ID	18	Juna	ユナ	仲間……	Juna	Friends...	尤娜	伙伴……	尤娜	夥伴……
+TalkEvent_13_024ID	19	Juna	ユナ	……ありがとう。\n私は頑なになっていたようだ	Juna	Thank you. I see I've been too rigid.	尤娜	……谢谢你们。\n是我钻牛角尖了。	尤娜	……謝謝。\n我好像太固執了。
+TalkEvent_13_024ID	20	Resna	レスナ	ユナさん！	Resna	Juna!	蕾斯娜	尤娜小姐！	蕾斯娜	尤娜小姐！
+TalkEvent_13_024ID	21	Juna	ユナ	で、では。今から少しだけ撫でるとしよう。\n……よしよし……	Juna	All right then. Let me give them a little pet. There we go...	尤娜	那、那么我现在就来摸摸它们吧……\n乖乖……	尤娜	那、那麼，我現在就稍微摸一下吧。\n……好乖好乖。
+TalkEvent_13_024ID	22	Valeria	ヴァレリア	あ！　今、この子たち、嬉しそうだったわよね？	Valeria	Oh! Look, they seem so happy!	瓦莱莉娅	啊！小家伙们看起来很开心对吧？	瓦萊莉婭	啊！剛才牠們好像很高興對吧？
+TalkEvent_13_024ID	23	Linca	リンカ	ユナの優しい手つきにうっとりしているようです	Linca	They look enchanted by Juna's gentle touch.	琳卡	它们都陶醉于尤娜的温柔手法了呢。	琳卡	尤娜溫柔的摸法讓牠們很陶醉的樣子。
+TalkEvent_13_024ID	24	Juna	ユナ	よしよし……なでなで……うふふ……	Juna	There, there... Who's a good little monster? Hehe...	尤娜	乖乖……摸摸……呵呵……	尤娜	好乖好乖……摸摸……呵呵呵……
+TalkEvent_13_024ID	25	Resna	レスナ	よかったですね、ユナさん！\nようやくこの子たちを撫でることが……	Resna	I'm so happy for you, Juna! You finally got to pet them...	蕾斯娜	太好啦，尤娜小姐！\n总算是摸到了……	蕾斯娜	太好了呢，尤娜小姐！妳終於摸到牠們了……
+TalkEvent_13_024ID	26	Juna	ユナ	ふ……ふふっ。ふふふっ。なんて……なんて……	Juna	Hehe... Haha... They're so... So...	尤娜	呵……呵呵……呵呵呵。实在是……实在是……	尤娜	呵……呵呵，呵呵呵，實在是……實在是……
+TalkEvent_13_024ID	27	Resna	レスナ	あれ？　ユナさん？	Resna	Hmm? Juna?	蕾斯娜	咦？尤娜小姐！	蕾斯娜	奇怪？尤娜小姐？
+TalkEvent_13_024ID	28	Juna	ユナ	もう！　なんてかわいいの！　もふもふっ！	Juna	Oh! They're just sooo cute! And fluffy!	尤娜	哎呀！实在是太可爱了！毛茸茸的！	尤娜	真是的！實在是太可愛了！毛茸茸的！
+TalkEvent_13_025ID	0	Juna	ユナ	よーしよし、ん～ふ～かわいい～！！	Juna	There, there! You're so cute!	尤娜	乖乖！嗯～真可爱～！！	尤娜	好～乖好乖，嗯～呼～好可愛～！！
+TalkEvent_13_025ID	1	Juna	ユナ	もっとこっちにおいで？　あ～、小さいあんよ！\n鼻！　鼻もかわいい～。つんつん！	Juna	Here, come on closer. Oh, look at your tiny widdle feet! And your nose! Such a cute nose! Boop!	尤娜	再凑近点吧？啊～小小的！\n鼻子！鼻子也好可爱！戳戳！	尤娜	再過來一點呀？啊～小腳腳！\n鼻子！鼻子也好可愛～戳戳！
+TalkEvent_13_025ID	2	Juna	ユナ	ん？　どうしたの？　ちょっと触りすぎた？\nごめんね、仲良くしようね～～	Juna	Hm? What's wrong? Did I pet you too much? Sorry, let's be friends!	尤娜	嗯？怎么了？是我摸太过了？\n对不起哦，我们好好相处吧～	尤娜	嗯？怎麼了？有點摸過頭了？\n抱歉喔，我們好好相處吧～～
+TalkEvent_13_025ID	3	Resna	レスナ	なんと幸せそうな顔！\nこっちまで嬉しくなっちゃいます！	Resna	She looks so happy! I can't help but smile too!	蕾斯娜	好幸福的表情！\n连我都看得很开心呢！	蕾斯娜	多麼幸福的表情！連我都跟著開心了起來！
+TalkEvent_13_025ID	4	Marion	マリオン	ええ。ユナって、私に負けないくらい\nかわいいもの好きだったのね	Marion	Me too. I had no idea Juna loved cute things as much as I do.	玛丽翁	嗯，尤娜跟我一样喜欢可爱的事物呢。	瑪麗翁	是啊，尤娜她喜歡可愛東西的程度不會輸給我呢。
+TalkEvent_13_025ID	5	Lila	リラ	なんとなく、さっきから様子が変だと思っていたが。\nこれほどの欲求を隠していたのか	Lila	I thought her behavior was a bit strange earlier, but I never imagined she was holding back such intense desires...	莉拉	我就觉得她刚才怪怪的，\n原来是在掩饰这样的欲望啊。	莉拉	我從剛才開始就覺得她的樣子有點怪，\n原來她心裡藏著這麼強烈的慾望啊。
+TalkEvent_13_025ID	6	Juna	ユナ	はぅっ……なんでこんなにかわいいの！？\nん～っ、よしよし、かわいいねえ！　本当にいい子！	Juna	Aww! How can you be so cute?! You're such a good little monster. So cute!	尤娜	哎呀……怎么会这么可爱？！\n嗯～乖乖，你真可爱，真是个好孩子！	尤娜	呼……怎麼會這麼可愛啊！？\n嗯～乖哦乖哦，你真可愛！真是個好孩子！
+TalkEvent_13_025ID	7	Linca	リンカ	ん？　かすかに鳴き声が聞こえます。\nその子たちの仲間が呼んでいるのでしょうか？	Linca	Hm? I hear faint cries. Perhaps their packmates are calling for them?	琳卡	嗯？我好像远远地听见了叫声。\n是这些小家伙的伙伴在呼唤它们吗？	琳卡	嗯？我好像聽到了微弱的叫聲。\n是牠們的同伴在呼喚牠們嗎？
+TalkEvent_13_025ID	8	Juna	ユナ	……そっか、もうおうちに帰る時間か。元気でね？\n仲間と仲良く暮らすのよ。ばいばい。気を付けてね	Juna	Oh, I guess it's time for you to go home. Take care, all right? Stay safe and be happy with your friends. Goodbye!	尤娜	啊……原来你们该回家了啊。多保重啊，\n要跟伙伴和睦相处哦，再见，路上小心。	尤娜	……這樣啊，你們該回家了嗎？要保重喔。\n跟同伴們也要好好相處喔。拜拜，路上小心。
+TalkEvent_13_025ID	9	Juna	ユナ	はぁ。行っちゃったあ。\n後ろ姿までかわいかったなぁ……	Juna	Ah, they're gone. Even their little backs are adorable...	尤娜	呼，这就走了啊。\n背影也好可爱啊……	尤娜	唉，走掉了～連背影都好可愛喔……
+TalkEvent_13_025ID	10	Juna	ユナ	…………。\n…………はっ！！？？	Juna	...\n... *Gasp*	尤娜	……\n……啊？！	尤娜	…………\n…………啊！！？？
+TalkEvent_13_025ID	11	Resna	レスナ	ユナさん、ばっちり満喫されてましたね！\n撫でたいのをずーっと我慢してましたもんね！	Resna	You really enjoyed that, didn't you, Juna? You'd been holding back for so long!	蕾斯娜	尤娜小姐这次尽情享受了一通呢！\n毕竟之前一直在克制着自己不去摸嘛！	蕾斯娜	尤娜小姐看起來非常滿足呢！\n畢竟妳剛才一～直都在忍著想摸牠們的衝動嘛！
+TalkEvent_13_025ID	12	Juna	ユナ	い、いや、その……これは……っ	Juna	N-No, well... I, uh...	尤娜	不、不是的……其实这是……	尤娜	沒、沒有，呃……這是……
+TalkEvent_13_025ID	13	Valeria	ヴァレリア	あの子たちもかわいかったけど、\nメロメロになってるユナがかわいかったわ！	Valeria	The little ones were cute, but it was even cuter to see how smitten you were!	瓦莱莉娅	那些小家伙很可爱，\n被它们迷倒的尤娜也很可爱！	瓦萊莉婭	雖然牠們很可愛，\n但是被牠們迷倒的尤娜更可愛！
+TalkEvent_13_025ID	14	Marion	マリオン	分かるわ。あの子たちもかわいい。ユナもかわいい。\n一度で二度美味しい、って感じかしら？	Marion	I agree. They were adorable, but so were you, Juna. It was like a double treat!	玛丽翁	我懂，可爱的小家伙加上可爱的尤娜，\n就等于一次能品尝到两种可爱吧？	瑪麗翁	我懂，牠們和尤娜都很可愛。\n這種感覺是叫做一舉兩得嗎？
+TalkEvent_13_025ID	15	Linca	リンカ	ユナ、顔が……いえ、首や耳まで真っ赤です	Linca	Juna, your face... No, even your neck and ears are bright red.	琳卡	尤娜你的脸……不，脖子跟耳朵都红透了。	琳卡	尤娜，妳的臉好紅……不對，連脖子跟耳根都紅了。
+TalkEvent_13_025ID	16	Juna	ユナ	不覚だ……。いくら息抜きとはいえ、ここまで\n我を忘れてかわいがってしまうなんて……	Juna	What have I done? Even if it was just a short break, I was so caught up in the moment that I forgot myself...	尤娜	是我疏忽了……就算是放松，\n也不能如此忘我地抚摸……	尤娜	我太大意了……就算是放鬆，\n我也不該摸得這麼陶醉……
+TalkEvent_13_025ID	17	Resna	レスナ	いいじゃないですか！　ユナさんの素敵な姿が\n見られて、私たちは嬉しいですよ！	Resna	Don't worry about it! Seeing this side of you made us all happy!	蕾斯娜	没什么不好啊！能看到尤娜小姐的可爱一面，\n我们也很开心！	蕾斯娜	有什麼關係！\n我們都很高興能看見尤娜小姐這麼棒的一面！
+TalkEvent_13_025ID	18	Juna	ユナ	うう……	Juna	Ugh...	尤娜	呜呜……	尤娜	唔唔……
+TalkEvent_13_025ID	19	Juna	ユナ	何事も配分が大事だと、改めて分かった。あまりに\n抑圧すると、解放する時に加減がきかなくなるようだ	Juna	I see now how important it is to manage everything properly. If you suppress something for too long, it can be difficult to control once you let go.	尤娜	我再一次明白了劳逸结合的重要性。\n要是过于压抑本性，一旦松懈就会不知如何把握轻重。	尤娜	我重新體認到了凡事適度的重要性。\n如果過度壓抑，釋放時似乎會變得更難克制。
+TalkEvent_13_025ID	20	Juna	ユナ	締めるところは締める。息抜きもしっかりする。\n私の今後の課題だな	Juna	Stay focused when needed, but make sure to relax once in a while. That's my challenge moving forward.	尤娜	该警惕时就警惕，该放松就该好好放松。\n这是我今后要熟记的道理。	尤娜	該認真的時候要認真，但也該好好休息。\n這是我今後要改進的地方。
+TalkEvent_13_025ID	21	Valeria	ヴァレリア	まとめ方も真面目ねぇ。でも、言ってることは\n私たちにとってもそうね、レスナ	Valeria	Even your conclusions are overly serious! But you're right, we can all learn from this, right, Resna?	瓦莱莉娅	你总结起来也很认真呢。不过，\n你说的话对我们来说也很有用，是吧，蕾斯娜？	瓦萊莉婭	連總結都這麼認真。\n不過，這點我們也是一樣呢，蕾斯娜。
+TalkEvent_13_025ID	22	Resna	レスナ	うん。やりすぎず、やらなすぎず。\n少しずつ身につけていこう！	Resna	Yeah. Not too much, not too little. Let's all keep that in mind!	蕾斯娜	嗯，过犹不及，\n我们都要懂得这个道理！	蕾斯娜	嗯。不要認真過頭，也不要過於懶散，\n我們一起慢慢練習吧！
+TalkEvent_13_025ID	23	Juna	ユナ	…………！　みんな、気を付けろ！	Juna	...! Everyone, be careful!	尤娜	……！大家小心！	尤娜	…………！大家小心！
+TalkEvent_13_025ID	24	Resna	レスナ	はい！　力の配分には十分に気を付けて――	Resna	Yes! I'll be careful of how I manage my—	蕾斯娜	嗯！我们在分配力量上会十分小心的——	蕾斯娜	嗯！要小心分配精力──
+TalkEvent_13_025ID	25	Juna	ユナ	そっちではなく、魔物の気配だ！　すぐに来るぞ！\nヴァレリアは右、リラは左、リンカは私と共に来い！	Juna	Not that, there are monsters about! They're coming in quick! Valeria, you take the right, Lila the left. Linca, come with me.	尤娜	不是指那个，是魔物的气息正在朝我们逼近！\n瓦莱莉娅对付右边，莉拉对付左边，琳卡跟我来！	尤娜	不是，是魔物的氣息！馬上就要來了！\n瓦萊莉婭右邊、莉拉左邊，琳卡跟我來！
+TalkEvent_13_025ID	26	Linca	リンカ	了解！	Linca	On it!	琳卡	收到！	琳卡	收到！
+TalkEvent_13_025ID	27	Juna	ユナ	マリオンとレスナは援護を頼む！	Juna	Marion and Resna, provide support!	尤娜	玛丽翁和蕾斯娜负责援助！	尤娜	瑪麗翁跟蕾斯娜幫忙掩護！
+TalkEvent_13_025ID	28	Valeria	ヴァレリア	なんて切り替えの早さ！　これが達人の域なのね！\n……んじゃ、私も！	Valeria	Instantly switched into battle mode! Now that's what being an expert is all about! Right, let's do this!	瓦莱莉娅	这么快就进入应战状态了啊！这就是所谓的强者吧！\n我也要做好准备！	瓦萊莉婭	切換得真快！這就是專業的境界！\n……那我也要上了！
+TalkEvent_13_026ID	0	Valeria	ヴァレリア	よっし！　１匹倒したわ！	Valeria	Yeah! That's one down!	瓦莱莉娅	好，打倒1只了！	瓦萊莉婭	好！打倒一隻了！
+TalkEvent_13_026ID	1	Linca	リンカ	食材でないのが恨めしいですね	Linca	Too bad it's not edible.	琳卡	可恶啊，不是食材。	琳卡	可惜不能做成食材。
+TalkEvent_13_026ID	2	Marion	マリオン	もう、リンカってば緊張感が足りないわよ。\n鴉がどこで待ち伏せしているかも分からないし	Marion	Come now, Linca, you need to stay focused. We don't know where Crow might be lurking.	玛丽翁	琳卡也太缺乏紧张感了吧，\n也不知道鸦这会儿躲在哪儿伺机偷袭呢。	瑪麗翁	真是的，琳卡妳太隨興了啦。\n誰知道烏鴉會不會偷偷埋伏在附近。
+TalkEvent_13_026ID	3	Lila	リラ	極夜の錬金党の奴らも見つかっていないしな	Lila	And we still haven't found any of the Polar Night Alchemists.	莉拉	而且我们还没见到极夜的炼金党呢。	莉拉	畢竟還沒找到極夜的鍊金黨那些人。
+TalkEvent_13_026ID	4	Juna	ユナ	……む	Juna	Hmm?	尤娜	……唔。	尤娜	唔……
+TalkEvent_13_026ID	5	Resna	レスナ	ユナさん、どうかしました？	Resna	What is it, Juna?	蕾斯娜	尤娜小姐，怎么了吗？	蕾斯娜	尤娜小姐，怎麼了嗎？
+TalkEvent_13_026ID	6	Juna	ユナ	この先で鴉の痕跡が途切れている。\n警戒したほうがよさそうだ	Juna	Crow's trail ends ahead. We should be on high alert.	尤娜	鸦的足迹到此消失了，\n我们得提高警惕。	尤娜	烏鴉的蹤跡到前面就消失了，我們最好提高警戒。
+TalkEvent_13_026ID	7	Valeria	ヴァレリア	ふふん。どこからでもかかってきなさいって！	Valeria	Haha. Let her come at us! We can take her!	瓦莱莉娅	哼哼，尽管放马过来！	瓦萊莉婭	哼，隨時放馬過來吧！
+TalkEvent_13_026ID	8	Valeria	ヴァレリア	え……？　密林を抜けちゃったわよ？	Valeria	Huh? Did we just leave the jungle?	瓦莱莉娅	咦……？我们走出密林了？	瓦萊莉婭	咦……？我們走出密林了？
+TalkEvent_13_026ID	9	Resna	レスナ	この景色は……？	Resna	What is this place?	蕾斯娜	这片景色是……？	蕾斯娜	這片景色是……？
+TalkEvent_13_026ID	10	Juna	ユナ	これは……\n密林の中にこのような場所があったとは	Juna	Not sure. I didn't know there was a place like this in the jungle.	尤娜	这是……\n没想到密林内部还有这样的地方啊。	尤娜	這是……沒想到密林裡還有這樣的地方。
+TalkEvent_13_026ID	11	Lila	リラ	――誰かいるぞ	Lila	Someone's down there.	莉拉	——还有别人在。	莉拉	──那裡有人。
+TalkEvent_13_026ID	12	Linca	リンカ	ヴァレリア！　あの少女は、\n確か雪山で戦った極夜の錬金党の……！	Linca	Valeria! That girl is the Polar Night Alchemist we fought in the snowy mountains!	琳卡	瓦莱莉娅！那名少女就是\n同我们在雪山战斗过的极夜的炼金党……！	琳卡	瓦萊莉婭！\n那女生好像是在雪山跟我們交戰的極夜的鍊金黨……！
+TalkEvent_13_026ID	13	Juna	ユナ	リラの情報は確かだったようだな	Juna	It seems Lila's information was accurate.	尤娜	看来莉拉的情报没错。	尤娜	看來莉拉的情報是正確的。
+TalkEvent_13_026ID	14	Valeria	ヴァレリア	確か、アンチュって名前だったわね	Valeria	Her name was Antje, right?	瓦莱莉娅	我记得她叫安洁。	瓦萊莉婭	我記得她叫安潔。
+TalkEvent_13_026ID	15	Resna	レスナ	じゃあ、もう一人も……錬金術士	Resna	Then that means the other one is also an alchemist.	蕾斯娜	这么说，另一个人……也是炼金术士。	蕾斯娜	那，另一個人也是……鍊金術士。
+TalkEvent_13_026ID	16	Lila	リラ	恐らく、仲間だろうな	Lila	It does look like they're together.	莉拉	恐怕是她的伙伴。	莉拉	恐怕是同夥。
+TalkEvent_13_026ID	17	Antje	アンチュ	ねぇ。もう帰らない？　とっくに予定時間は\n過ぎていると思うんだけど	Antje	Hey, can we go home yet? The scheduled time passed ages ago.	安洁	我说，还不回去吗？\n都已经过了定好的时间了。	安潔	喂，我們要不要回去了啊？\n預定的時間應該早就過了。
+TalkEvent_13_026ID	18	Walther	ワルター	もう少し待ってください、アンチュ	Walther	Just a bit longer, Antje.	瓦尔特	再等一下，安洁。	瓦爾特	再等等，安潔。
+TalkEvent_13_026ID	19	Antje	アンチュ	…………	Antje	...	安洁	…………	安潔	…………
+TalkEvent_13_026ID	20	Antje	アンチュ	……ワルター、邪魔者が来た	Antje	Walther, we've got company.	安洁	……瓦尔特，有碍事的来了。	安潔	……瓦爾特，礙事者出現了。
+TalkEvent_13_026ID	21	Resna	レスナ	…………！	Resna	...!	蕾斯娜	……！	蕾斯娜	…………！
+TalkEvent_13_026ID	22	Walther	ワルター	研究の邪魔が１組……いや	Walther	It seems we have a distraction here to interfere with my research... No...	瓦尔特	有一伙人来妨碍研究……	瓦爾特	有一組妨礙研究的……不對。
+TalkEvent_13_026ID	23	Walther	ワルター	２組ですか	Walther	Make that two distractions.	瓦尔特	不，是两伙人啊。	瓦爾特	是兩組。
+TalkEvent_13_027ID	0	Resna	レスナ	あの、あなたたちは……	Resna	Um... Who exactly are you?	蕾斯娜	请问你们是……	蕾斯娜	請問你們是……
+TalkEvent_13_027ID	1	Walther	ワルター	極夜の錬金党ワルター・マンと申します。\nはじめまして、レスナ・シュテルネンリヒトさん	Walther	I am Walther Mann of the Polar Night Alchemists. A pleasure to meet you, Resna Sternenlicht.	瓦尔特	我是极夜的炼金党，瓦尔特·曼恩。\n你好，蕾斯娜·修特涅利希特小姐。	瓦爾特	我是極夜的鍊金黨的瓦爾特‧曼恩。\n初次見面，蕾斯娜‧修特涅利希特小姐。
+TalkEvent_13_027ID	2	Resna	レスナ	っ！　私の名前……	Resna	What! You know my name?	蕾斯娜	咦！你怎么知道……	蕾斯娜	唔！我的名字……
+TalkEvent_13_027ID	3	Walther	ワルター	党員が何度か世話になっているでしょう。\n名前くらいは知っていますよ	Walther	Our members have had dealings with you before. Of course I know your name.	瓦尔特	我们的成员和你们多次有缘相逢，\n自然是知道你的名字的。	瓦爾特	我們的黨員似乎多次受妳照顧，\n我當然得記得妳的名字。
+TalkEvent_13_027ID	4	Resna	レスナ	そ、そうですか……はじめまして。\nあなたたちは、どうしてこの場所に？	Resna	R-Right, I see... Nice to meet you, too. What exactly are you doing here?	蕾斯娜	这、这样啊……你好。\n你们为什么会来这里？	蕾斯娜	這、這樣啊……初次見面。\n你們怎麼會來這裡？
+TalkEvent_13_027ID	5	Walther	ワルター	この場所が、\nかつて赤のほうき星が落ちた場所だからです	Walther	This is where the Red Comet once fell.	瓦尔特	因为这里是过去红色彗星的坠落地点。	瓦爾特	因為這裡是以前紅色彗星墜落的地點。
+TalkEvent_13_027ID	6	Resna	レスナ	赤の……ほうき星の	Resna	The Red Comet?	蕾斯娜	红色……彗星……	蕾斯娜	紅色……彗星的……
+TalkEvent_13_027ID	7	Resna	レスナ	ここがその場所だったんですね……	Resna	This was where it fell?	蕾斯娜	原来就是这里啊……	蕾斯娜	原來就是這裡啊……
+TalkEvent_13_027ID	8	Crow	鴉	まんまと誘導に乗ってくれたな。\nお前たちは潰し合うといい	Crow	They took the bait. Now I can just let them fight it out.	鸦	那群人被我成功引过来了，\n祝你们两败俱伤。	烏鴉	魚兒徹底上鉤了，你們就互相殘殺吧。
+TalkEvent_13_027ID	9	Crow	鴉	目的のモノは手に入れた	Crow	I have what I came for.	鸦	目标物件已经拿到手了。	烏鴉	我已經拿到我要的了。
+TalkEvent_13_027ID	10	Walther	ワルター	かつて――\nこの地は、白きほうき星の恵みを受けていた	Walther	Long ago, this land was blessed by the White Comet.	瓦尔特	据说——\n这片大地曾经长期蒙受白色彗星的恩惠。	瓦爾特	過去──這片土地曾經接受白色彗星之恩惠。
+TalkEvent_13_027ID	11	Resna	レスナ	え……	Resna	Oh?	蕾斯娜	咦……	蕾斯娜	咦……
+TalkEvent_13_027ID	12	Walther	ワルター	天より与えられる恵みの雨により、\n文明は隆盛し栄華を極めたという	Walther	The rain of blessings from the heavens brought prosperity and civilization flourished.	瓦尔特	借由从天而降的恩惠之雨，\n文明曾发展繁荣，极尽昌盛。	瓦爾特	來自天上的恩惠之雨，\n使這裡發展出極為繁華昌盛的文明。
+TalkEvent_13_027ID	13	Walther	ワルター	しかし、白きほうき星は赤く変心し、\n様々な災厄をもたらした	Walther	But then, the White Comet turned Red and brought forth disaster.	瓦尔特	然而后来，白色彗星却变为赤红色，\n带来了诸多灾祸。	瓦爾特	然而白色彗星卻變心為紅色，帶來了各種災厄。
+TalkEvent_13_027ID	14	Walther	ワルター	だが、九人の偉人の奇跡によって世界は救われた	Walther	However, the world was saved by the miracle of the Miraculous Nine.	瓦尔特	但是，有九位伟人创造奇迹，拯救了世界。	瓦爾特	不過，有九位偉人創造奇蹟，拯救了世界。
+TalkEvent_13_027ID	15	Resna	レスナ	その後、九偉人は、遥か、果ての大陸で\n長き眠りについた	Resna	Afterward, the Miraculous Nine went to the World's End for a long slumber.	蕾斯娜	在那之后，九伟人在遥远的终极大陆\n陷入了漫长的沉眠。	蕾斯娜	之後，九偉人長眠於遙遠的終極大陸。
+TalkEvent_13_027ID	16	Resna	レスナ	彼らの奇跡の源は、今もなお彼の地に\n残されているという\n	Resna	The source of their miracles is said to still remain there.	蕾斯娜	而他们的奇迹之源，\n据说如今仍然留存在那片土地上。	蕾斯娜	據說他們的奇蹟根源，至今仍殘存在彼地。
+TalkEvent_13_027ID	17	Valeria	ヴァレリア	……それは？	Valeria	What's that?	瓦莱莉娅	……你说的是什么？	瓦萊莉婭	……這是什麼？
+TalkEvent_13_027ID	18	Resna	レスナ	遥か昔から伝わる伝承の一部だよ。\n私は本で読んだことがあって	Resna	It's part of an ancient legend. I read about it in a book.	蕾斯娜	是古老传说的一部分，\n我在书里也看到过。	蕾斯娜	某個古老傳說的一部分，我在書上讀到過。
+TalkEvent_13_027ID	19	Walther	ワルター	あなたとの会話は話が早そうで、\nこちらとしては助かりますね	Walther	It seems the two of us will understand each other quickly, which is very convenient for me.	瓦尔特	你对这些有了解真是太好了，\n我说起来也省事。	瓦爾特	看來妳理解得很快，那我就省事了。
+TalkEvent_13_027ID	20	Walther	ワルター	私はその赤のほうき星の痕跡を調査しているのです。\n邪魔をしないでもらいたい	Walther	I'm investigating the traces of the Red Comet here. I'd appreciate it if you didn't interfere.	瓦尔特	我正在调查红色彗星的痕迹。\n请别来妨碍我。	瓦爾特	我在調查那顆紅色彗星的痕跡，\n麻煩別妨礙我。
+TalkEvent_13_027ID	21	Juna	ユナ	そうは行かない	Juna	We can't let you do that.	尤娜	恕难从命。	尤娜	恕我拒絕。
+TalkEvent_13_027ID	22	Juna	ユナ	お前たちに盗まれたウェルテックスの屍の件も\n聞き出さねばならない	Juna	We need answers about the Apexi corpse that you stole.	尤娜	还得让你们老实交代偷走的威尔特克斯的尸骸\n藏在了哪里。	尤娜	我還得向你們問清楚，\n關於威爾特庫斯遺體遭竊的事。
+TalkEvent_13_027ID	23	Antje	アンチュ	だから早く帰ろうって言ったのに……\n面倒くさい	Antje	I told you we should have left earlier... This is so annoying.	安洁	我就说赶紧回去吧……\n这下麻烦了。	安潔	我就說要早點回去……麻煩死了。
+TalkEvent_13_027ID	24	Walther	ワルター	仕方ないですね。では手早く片付けた後に\n研究に戻るという方針に移行します	Walther	Too bad. Let's deal with this quickly and return to our research.	瓦尔特	没办法。\n那就速速解决他们，然后继续研究吧。	瓦爾特	真沒辦法。\n那目標就改為速戰速決，儘快回到研究工作中吧。
+TalkEvent_13_027ID	25	Antje	アンチュ	面倒くさいよね～？　え、愚痴る前に\n片付けたほうがいい？	Antje	Ugh, so annoying... What? I should stop complaining and just get it over with?	安洁	很麻烦吧～？\n咦，在抱怨之前还是先收拾掉敌人比较好？	安潔	很麻煩吧～？\n什麼？你說有時間抱怨不如趕快解決？
+TalkEvent_13_027ID	26	Antje	アンチュ	確かにその通りね。ていっ	Antje	Good point. Hup!	安洁	说得没错。喝！	安潔	的確說得沒錯。嘿。
+TalkEvent_13_028ID	0	Juna	ユナ	投降するなら、ここで矛を収めてもいい	Juna	If you're surrendering, now is the time to lower your weapons.	尤娜	要投降的话最好还是趁现在收回武器。	尤娜	只要你們投降，我也可以放過你們。
+TalkEvent_13_028ID	1	Antje	アンチュ	ず、随分と偉そう……	Antje	Y-You think you have the upper hand?	安洁	口气真不小……	安潔	真、真囂張……
+TalkEvent_13_028ID	2	Walther	ワルター	とことんやるべき場面か、どうか。さて……	Walther	Hmm, is this really the time to go all out? I'm not so sure...	瓦尔特	也不知道这时候是不是该全力一战……	瓦爾特	現在，該不該放手一搏呢……
+TalkEvent_13_028ID	3	Marion	マリオン	こちらも無用な戦いは避けたいところなのよね	Marion	We'd also rather avoid unnecessary fights if we can.	玛丽翁	我们也想避免无谓的争斗。	瑪麗翁	我們也想避免不必要的戰鬥。
+TalkEvent_13_028ID	4	Linca	リンカ	な、何を！？	Linca	Wh-What are you—?!	琳卡	你、你要做什么？！	琳卡	什、什麼！？
+TalkEvent_13_028ID	5	Walther	ワルター	これは、魔物を呼び寄せる性質を持っていましてね	Walther	This here has the ability to attract monsters, you see.	瓦尔特	这个东西的特性是能吸引魔物。	瓦爾特	這種煙霧具有吸引魔物的功效。
+TalkEvent_13_028ID	6	Resna	レスナ	きゃぁぁっ！	Resna	Eeek!	蕾斯娜	呀——！	蕾斯娜	呀啊！
+TalkEvent_13_028ID	7	Valeria	ヴァレリア	でっかい魔物ね……！	Valeria	That's one big monster!	瓦莱莉娅	好大的魔物啊……！	瓦萊莉婭	好大的魔物……！
+TalkEvent_13_028ID	8	Walther	ワルター	この一帯で異常発生している魔物の女王ですね	Walther	This is the queen of the monsters that have been plaguing this area.	瓦尔特	它就是这一带莫名增殖的魔物的女王。	瓦爾特	這是這一帶異常增加的魔物中的女王。
+TalkEvent_13_028ID	9	Lila	リラ	……そうか	Lila	...Their queen?	莉拉	这样啊……	莉拉	……原來如此。
+TalkEvent_13_028ID	10	Walther	ワルター	倒さなければ、この一帯の魔物の発生は	Walther	Unless you defeat it...	瓦尔特	要是不打倒它，这附近的魔物的增殖就……	瓦爾特	如果不打倒牠，這裡的魔物增加……
+TalkEvent_13_028ID	11	Resna	レスナ	なっ……！	Resna	Wha—!	蕾斯娜	什么……！	蕾斯娜	什麼……！
+TalkEvent_13_028ID	12	Valeria	ヴァレリア	それ、本当なの！？	Valeria	Is he telling the truth?!	瓦莱莉娅	你说的是真的？！	瓦萊莉婭	你說的是真的嗎！？
+TalkEvent_13_028ID	13	Lila	リラ	そういう類いの魔物がいることは確かだ	Lila	There certainly are monsters that would follow a queen like that.	莉拉	确实有那种魔物存在。	莉拉	確實有這種類型的魔物。
+TalkEvent_13_028ID	14	Lila	リラ	あいつが群れの女王ならば……	Lila	If that really is the queen of the swarm, then...	莉拉	如果它是群体的女王……	莉拉	假如那就是魔物群的女王……
+TalkEvent_13_028ID	15	Walther	ワルター	私たちはこれにて失礼します。やるべきことは山積みだ	Walther	We shall be taking our leave now. There is so much to do.	瓦尔特	我们就失陪了，还有数不清的事要做呢。	瓦爾特	我們還有堆積如山的事要處理，先告辭了。
+TalkEvent_13_028ID	16	Antje	アンチュ	あの魔物、趣味悪いね	Antje	That monster really is gross.	安洁	你招来的那个魔物真没品。	安潔	居然引來那種魔物，真是壞心。
+TalkEvent_13_028ID	17	Valeria	ヴァレリア	待ちなさい！　――くっ	Valeria	Stop right there—ugh.	瓦莱莉娅	站住！唔……	瓦萊莉婭	站住！唔──
+TalkEvent_13_028ID	18	Resna	レスナ	ヴァレリア！　今は追いかけてる場合じゃないよ！	Resna	Valeria! Now's not the time to chase them!	蕾斯娜	瓦莱莉娅！现在没空去追他们了！	蕾斯娜	瓦萊莉婭！現在不是追他們的時候！
+TalkEvent_13_028ID	19	Valeria	ヴァレリア	みたいね……	Valeria	So it seems...	瓦莱莉娅	确实……	瓦萊莉婭	似乎是這樣……
+TalkEvent_13_028ID	20	Lila	リラ	やるぞ！	Lila	Let's do this!	莉拉	迎战吧！	莉拉	要上囉！
+TalkEvent_13_028ID	21	Resna	レスナ	はいっ！	Resna	Ready!	蕾斯娜	是！	蕾斯娜	好！
+TalkEvent_13_028ID	22	Antje	アンチュ	ワルター、ちょっと本気出していいよね	Antje	Walther, can I please fight seriously now?	安洁	瓦尔特，我可以稍微使出点实力吧？	安潔	瓦爾特，我可以稍微拿出真本事吧。
+TalkEvent_13_028ID	23	Marion	マリオン	大人しく話を聞かせてくれたらありがたいのだけど……	Marion	It would be better for all of us if we could just calm down and talk...	玛丽翁	要是你们愿意老实告诉我们就再好不过了……	瑪麗翁	希望你們願意乖乖聽話……
+TalkEvent_13_028ID	24	Walther	ワルター	極夜の錬金党はこういった技術に長けているのです	Walther	The Polar Night Alchemists excel in such technology.	瓦尔特	极夜的炼金党很擅长这类技术。	瓦爾特	極夜的鍊金黨相當擅長這類的技術。
+TalkEvent_13_028ID	25	Walther	ワルター	油断しないことをお勧めします	Walther	I highly recommend you do not underestimate it.	瓦尔特	劝你们别大意。	瓦爾特	建議妳們最好別掉以輕心。
+TalkEvent_13_028ID	26	Lila	リラ	「女王」がいる種類の魔物だったか	Lila	I didn't realize this type of monster had a queen.	莉拉	原来这是有“女王”的魔物啊。	莉拉	存在著「女王」的魔物類型啊。
+TalkEvent_13_028ID	27	Walther	ワルター	止まらないことでしょうね	Walther	The monster outbreak in this area will not stop.	瓦尔特	不会停止吧。	瓦爾特	是不會停止的。
+TalkEvent_13_028ID	28	Lila	リラ	ここにいる限り、魔物を生み出し続ける	Lila	As long as it's here, it will keep creating more monsters.	莉拉	只要它还在这里，就会持续生下新的魔物。	莉拉	只要牠還在這裡，就會繼續產出魔物。
+TalkEvent_13_029ID	0	Lila	リラ	はぁぁぁっ！	Lila	Haaah!	莉拉	喝——！	莉拉	喝啊啊啊！
+TalkEvent_13_029ID	1	Resna	レスナ	はぁっ、はぁ……やった！	Resna	*Huff* *Huff*... We did it!	蕾斯娜	呼、呼……成功了！	蕾斯娜	呼、呼……成功了！
+TalkEvent_13_029ID	2	Linca	リンカ	ふぅ。これで一安心ですね！	Linca	Phew. Let's take a breather.	琳卡	呼，这下就能安心了！	琳卡	呼，這樣就可以放心了！
+TalkEvent_13_029ID	3	Marion	マリオン	そうでもないみたいよ	Marion	Seems like it's not over yet!	玛丽翁	好像并不能。	瑪麗翁	似乎還沒結束。
+TalkEvent_13_029ID	4	Valeria	ヴァレリア	わぉ。すごい数の魔物が集まってきてるじゃない！	Valeria	Wow. That's a lot of monsters to deal with!	瓦莱莉娅	哇，好多魔物聚过来了！	瓦萊莉婭	哇，大量的魔物聚集過來了！
+TalkEvent_13_029ID	5	Lila	リラ	女王が倒されて、怒り狂った魔物たちか。\n少し厄介だな	Lila	The monsters are enraged because their queen was defeated. This could be tricky.	莉拉	魔物们因为女王被打倒而发狂了啊，\n这下有些棘手了。	莉拉	女王被打倒讓魔物陷入了狂怒。有點棘手呢。
+TalkEvent_13_029ID	6	Juna	ユナ	だが、倒すしかあるまい	Juna	We have no choice other than to fight.	尤娜	但是除了打倒它们没别的办法。	尤娜	但，只能打倒牠們了。
+TalkEvent_13_029ID	7	Marion	マリオン	それにしても……多いわね！	Marion	There really is no end to them!	玛丽翁	不过……这数量也太多了！	瑪麗翁	不過……數量還真多！
+TalkEvent_13_029ID	8	Resna	レスナ	でも、全部倒さないと……くっ！	Resna	But we need to defeat them all! Hyah!	蕾斯娜	但必须全部打倒……唔！	蕾斯娜	可是不全部打倒的話……唔！
+TalkEvent_13_029ID	9	Izana	イザナ	ハン、マーーーー！！！	Izana	It's hammer time!	伊札娜	锤呀——！！！	伊札娜	重、鎚────！！！
+TalkEvent_13_029ID	10	Resna	レスナ	イザナちゃん！？	Resna	Izana?!	蕾斯娜	伊札娜？！	蕾斯娜	伊札娜！？
+TalkEvent_13_029ID	11	Izana	イザナ	えへへっ！　お父さんのケガ、だいぶ良くなって\nやっと手が空いたんだ！	Izana	Ehehe! My dad's injury has healed up nicely, so I finally had some free time!	伊札娜	嘿嘿，我爸爸的伤好得差不多了，\n我总算是有空过来了！	伊札娜	嘿嘿！\n爸爸的傷勢已經恢復一大半，我終於有空了！
+TalkEvent_13_029ID	12	Lila	リラ	腕は鈍ってないようだな、イザナ	Lila	Seems your skills haven't dulled, Izana.	莉拉	身手似乎没有退步啊，伊札娜。	莉拉	妳的身手沒有變遲鈍吧，伊札娜。
+TalkEvent_13_029ID	13	Izana	イザナ	リラさんがいるなら、なおさら頑張らないとね！	Izana	With you here, Lila, I've got to make sure I'm showing my best!	伊札娜	既然莉拉小姐在场，那我可要更努力了！	伊札娜	既然莉拉小姐也在，那我得更努力才行呢！
+TalkEvent_13_029ID	14	Heidi	ハイディ	相棒！　全力出しすぎて息切れしてない？	Heidi	Partner! You're not out of breath, are you?	海蒂	搭档！你是不是太拼了？都上气不接下气了啊。	海蒂	搭檔！是不是出力過頭累到喘不過氣來了呀？
+TalkEvent_13_029ID	15	Valeria	ヴァレリア	ハイディ！　ランツェとフロッケまで！？	Valeria	Heidi! And Lanze and Flocke too?!	瓦莱莉娅	海蒂！连兰泽和芙洛可都来了？！	瓦萊莉婭	海蒂！連藍澤跟芙洛可都來了！？
+TalkEvent_13_029ID	16	Lanze	ランツェ	航海訓練も一段落付いたんでな！\nとにかく……こいつらを倒して、とっとと帰ろうぜ！	Lanze	Sea training settled down a bit, so we came for a little visit! Anyway, let's take these guys down and head on home!	兰泽	航海训练告一段落了嘛！\n总之……赶紧打倒这群家伙回家吧！	藍澤	航海訓練剛好告一段落了！\n總之……快點收拾掉牠們回去吧！
+TalkEvent_13_029ID	17	Valeria	ヴァレリア	そうね！　あと私、ちゃーんと配分を考えて\n頑張ってたんだから！	Valeria	Yeah! And I've been doing my best to pace myself properly!	瓦莱莉娅	嗯！我之前战斗的时候\n可是好好考虑了力量的分配啊！	瓦萊莉婭	嗯！還有，這次我有好～好地分配精力喔！
+TalkEvent_13_029ID	18	Flocke	フロッケ	ふふ。ヴァレリアさんも皆さんも傷だらけですよ。\n後でしっかり治療しましょうね！	Flocke	Hehe. Both you and everyone else are covered in scratches. We best get home to treat them properly!	芙洛可	呵呵，瓦莱莉娅和大家都浑身是伤呢。\n待会儿要好好治疗哦！	芙洛可	呵呵，瓦萊莉婭小姐跟大家都渾身是傷呢。\n等等要好好治療喔！
+TalkEvent_13_029ID	19	Heidi	ハイディ	それじゃ、あとひと頑張りだ！	Heidi	One last push, then!	海蒂	那就再努力一把！	海蒂	那麼，再加油一下吧！
+TalkEvent_13_029ID	20	Izana	イザナ	よーし！　いっけぇぇぇっ！	Izana	All right! Let's gooo!	伊札娜	好！上吧——！	伊札娜	好～！上啊──！
+TalkEvent_13_029ID	21	Resna	レスナ	みんながいると、心強いね	Resna	It's so reassuring to have everyone here.	蕾斯娜	有大家在就更有信心了呢。	蕾斯娜	有大家在真令人放心。
+TalkEvent_13_029ID	22	Valeria	ヴァレリア	うん。やっぱり頼りになるわ！\nはぁぁぁっ！	Valeria	Yeah. They're always here when we need them! Haaah!	瓦莱莉娅	嗯，有伙伴就是放心！\n喝啊——！	瓦萊莉婭	嗯，大家果然很可靠！\n喝啊──！
+TalkEvent_13_029ID	23	Izana	イザナ	お疲れ、レスナちゃん！\nそして久しぶり！	Izana	Good job, Resna! And long time no see!	伊札娜	蕾斯娜，辛苦啦！\n好久不见！	伊札娜	辛苦了，蕾斯娜！還有好久不見！
+TalkEvent_13_029ID	24	Resna	レスナ	うん、ありがとうイザナちゃん！\nこれで、依頼の内容も果たせたぁ……	Resna	Thanks, Izana! With this lot defeated, we also completed the request...	蕾斯娜	嗯！谢谢你，伊札娜！\n这下就完成委托了……	蕾斯娜	嗯，謝謝妳，伊札娜！\n這樣委託就完成了……
+TalkEvent_13_029ID	25	Juna	ユナ	月影の会の動きもある程度抑止できた。\n鴉を取り逃がしたのは残念ではあるが……	Juna	We also managed to curb the Moonlight Society's activities to some extent. It's a shame Crow managed to escape, though...	尤娜	也在一定程度上抑制了月影会的行动，\n虽然让鸦逃走还是挺遗憾的……	尤娜	而且也在一定程度上牽制了月影會的行動。\n雖然讓烏鴉逃走有點可惜……
+TalkEvent_13_029ID	26	Marion	マリオン	まあ、首尾としては上出来でしょう	Marion	Well, overall, I'd say it was a success.	玛丽翁	但整体来看已经算是做得很好了吧。	瑪麗翁	哎呀，以結果來說算不錯了。
+TalkEvent_13_029ID	27	Lila	リラ	極夜の錬金党の狙いもいくつかは掴めたしな	Lila	We also gathered some intel on the Polar Night Alchemists' objectives.	莉拉	而且得知了极夜的炼金党的好几个目的。	莉拉	畢竟也掌握了極夜的鍊金黨的一些企圖。
+TalkEvent_13_029ID	28	Resna	レスナ	は、はい！	Resna	R-Right!	蕾斯娜	是、是啊！	蕾斯娜	是、是的！
+TalkEvent_13_029ID	29	Resna	レスナ	（赤のほうき星に、九偉人の伝承……）	Resna	(The Red Comet, the legend of the Miraculous Nine...)	蕾斯娜	（红色彗星、九伟人的传说……）	蕾斯娜	（紅色彗星與九偉人的傳說……）
+TalkEvent_13_029ID	30	Resna	レスナ	（極夜の錬金党は、この星の古代史にちなむ\n　何を調べて、何をしようとしているんだろう……）	Resna	(Whatever the Polar Night Alchemists are researching, it relates to the ancient history of this comet. But what are they trying to do?)	蕾斯娜	（极夜的炼金党以这颗星球的古代史为依据\n　调查了什么，又想做些什么呢…………）	蕾斯娜	（極夜的鍊金黨究竟在調查這顆星球古代史中的什麼，\n　以及有什麼企圖呢……）
+TalkEvent_13_029ID	31	Resna	レスナ	（私も……もう一度調べてみよう）	Resna	(I should look into it again myself.)	蕾斯娜	（我也再来……调查一下吧。）	蕾斯娜	（我也……再調查一次看看吧。）
+TalkEvent_13_030ID	0	Criselda	クリセルダ	これが、王国の貯蔵していた希少金属ね	Criselda	So this is the rare metal the kingdom was storing.	克莉赛尔达	这就是王国储藏的稀有金属吧。	克莉賽爾達	這些就是王國儲藏的稀有金屬吧。
+TalkEvent_13_030ID	1		騎士	か、返せ……　\nそれは我が国のものだ……	Knight	Th-That...belongs to the kingdom... Return it...at once...	骑士	放、放下它……\n那是我们国家的财产……	騎士	還、還來……\n那是屬於我國的東西……
+TalkEvent_13_030ID	2	Criselda	クリセルダ	まだ口の利ける者がいたのね。\nその頑強さ、誇っていいわ	Criselda	Oh, you're still able to speak? You should be proud of your resilience.	克莉赛尔达	还有人能说话啊，\n你大可以为自己的顽强自豪。	克莉賽爾達	還有人能開口說話啊，你的那份頑強值得自豪呢。
+TalkEvent_13_030ID	3		騎士	くっ……！	Knight	Urk!	骑士	唔……！	騎士	唔……！
+TalkEvent_13_030ID	4	Criselda	クリセルダ	殺しはしない。\n私が倒すべき相手は、あなたたちではないのだから	Criselda	Don't worry, I won't kill you. You are not the ones I need to defeat.	克莉赛尔达	我不会杀你，\n因为我要打倒的对手不是你们。	克莉賽爾達	我不會殺你們，因為你們並不是我必須打倒的對手。
+TalkEvent_13_030ID	5	Criselda	クリセルダ	けれど……私が力を得るために、\nこの砦にある素材はいただいていくわ	Criselda	However, I will be taking these materials to gain more power.	克莉赛尔达	但是……我想要得到力量，\n所以这座要塞里的素材归我了。	克莉賽爾達	但是……為了獲得力量，\n這座要塞的素材我就收下了。
+TalkEvent_13_030ID	6	Criselda	クリセルダ	では、さらば	Criselda	Farewell.	克莉赛尔达	那就再见了。	克莉賽爾達	那麼，再會。
+TalkEvent_13_030ID	7	Walther	ワルター	――クリセルダ。例の場所に、\n使えるものはありませんでしたよ	Walther	Criselda. We were unable to locate anything of use in the area.	瓦尔特	——克莉赛尔达，\n在那个地方没找到能用的东西。	瓦爾特	──克莉賽爾達，那個地方沒有任何可用的東西。
+TalkEvent_13_030ID	8	Criselda	クリセルダ	それは残念ね	Criselda	Unfortunate.	克莉赛尔达	那可真遗憾。	克莉賽爾達	那真是可惜。
+TalkEvent_13_030ID	9	Walther	ワルター	赤のほうき星が落ちた場所は、\n完全なる無の景色……	Walther	The area where the Red Comet fell has become a complete wasteland...	瓦尔特	红色彗星坠落的地点是彻底的虚无景象……	瓦爾特	紅色彗星墜落之處，完全是一片虛無的景象……
+TalkEvent_13_030ID	10	Walther	ワルター	私も期待していたんですがね。\n石の１つも持ち帰れませんでしたよ	Walther	I had high hopes, yet was unable to bring back even a single stone.	瓦尔特	我也期待过在那里找到有用的东西，\n可惜连一块石头都没能带回来。	瓦爾特	我本來也很期待的，\n結果卻連一塊石頭都沒能帶回來。
+TalkEvent_13_030ID	11	Criselda	クリセルダ	……そう。\nならば、従来通りの計画で進めましょう	Criselda	Hmm. Very well, then we proceed with our original plan.	克莉赛尔达	……这样啊。\n那就按照原计划进行吧。	克莉賽爾達	……這樣啊，那就按照原定計畫進行吧。
+TalkEvent_13_030ID	12	Criselda	クリセルダ	すべては……渇望を満たすために	Criselda	Everything is to satisfy these desires.	克莉赛尔达	一切都是为了……满足渴望。	克莉賽爾達	一切都是……為了滿足渴望。
+TalkEvent_13_031ID	0	Roman	ロマン	ああ、レスナ！\n王宮でも君の話題でもちきりだよ！	Roman	Ah, Resna! The palace is buzzing with your success!	罗曼	啊，蕾斯娜！\n如今就连在王宫，你也是热议焦点呢！	羅曼	啊，蕾斯娜！\n整個王宮裡也都在談論關於妳的話題喔！
+TalkEvent_13_031ID	1	Resna	レスナ	そ、そんなに噂になってるんですか？	Resna	A-Are they really talking about me?	蕾斯娜	有、有这么夸张？	蕾斯娜	消、消息傳得這麼誇張嗎？
+TalkEvent_13_031ID	2	Roman	ロマン	ああ！　ジュゲル州の問題を解決に導いたばかりか、\n月影の会の傘下に入っていた盗賊団を壊滅……	Roman	Absolutely! Not only did you resolve the issues in Yuggel, but you also wiped out the bandits under the Moonlight Society.	罗曼	是啊！你刚解决完尤格鲁州的问题，\n就又摧毁了加入月影会的盗贼团……	羅曼	嗯！妳不僅解決了朱格爾州的問題，\n還摧毀了月影會麾下的盜賊集團……
+TalkEvent_13_031ID	3	Roman	ロマン	さらに、極夜の錬金党の新たな情報まで掴んできたんだ！	Roman	Plus, you even gathered new intel on the Polar Night Alchemists!	罗曼	而且还掌握了极夜的炼金党的新情报！	羅曼	甚至也掌握了極夜的鍊金黨的最新情報！
+TalkEvent_13_031ID	4	Resna	レスナ	あはは……\nほめすぎですよ、ロマンさん	Resna	Ahaha... You're giving me way more credit than I deserve, Roman.	蕾斯娜	哈哈……\n太过奖了，罗曼先生。	蕾斯娜	啊哈哈……\n你過獎了，羅曼先生。
+TalkEvent_13_031ID	5	Resna	レスナ	それに、問題を解決できたのは\n私だけの力ではありません	Resna	Besides, I didn't solve those problems alone.	蕾斯娜	而且问题也不是只靠我的力量解决的。	蕾斯娜	而且，這些問題都不是靠我一個人解決的。
+TalkEvent_13_031ID	6	Resna	レスナ	みんなの力と想いがあったから\n解決へと導くことができたんです	Resna	It was the combined efforts of everyone that led to our success!	蕾斯娜	是因为有大家的力量和信念，\n问题才能迎刃而解。	蕾斯娜	因為有大家的力量和信念，事情才得以順利解決。
+TalkEvent_13_031ID	7	Roman	ロマン	……ああ、もちろん。\nそれは、分かっているよ	Roman	Yes, of course. You were all amazing.	罗曼	……嗯，那是自然，我明白的。	羅曼	……嗯，當然。這一點我非常明白。
+TalkEvent_13_031ID	8	Roman	ロマン	でもね、レスナ。私の耳には錬金術士レスナの名が\n一際大きく届いているんだ	Roman	That said, Resna... Your name as an alchemist is reaching further and further.	罗曼	不过，蕾斯娜，\n炼金术士蕾斯娜的名号可是更响亮了啊。	羅曼	但是，蕾斯娜。在所有的聲音當中，\n鍊金術士蕾斯娜的名聲更為響亮。
+TalkEvent_13_031ID	9	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_13_031ID	10	Roman	ロマン	この国には、\n錬金術の真価を知るものは少なかった	Roman	Within the kingdom, there have been few who truly understood the value of alchemy.	罗曼	在这个国家，\n知晓炼金术价值的人本是很少的。	羅曼	在這個國家裡，了解鍊金術真正價值的人少之又少。
+TalkEvent_13_031ID	11	Roman	ロマン	だけど、今までの働きのおかげで\n錬金術に対する期待も評価もさらに高まっている	Roman	But thanks to your efforts, the expectations and appreciation for alchemy have improved.	罗曼	但多亏你迄今为止的努力，\n大家开始期待炼金术的力量，也给予了高度评价。	羅曼	然而，妳過去所付出的努力，\n讓他們對鍊金術的期待與評價都更加提升了。
+TalkEvent_13_031ID	12	Roman	ロマン	だからこそ、君には知っていてほしい	Roman	That's why you need to know this:	罗曼	所以我想让你知道……	羅曼	正因如此，我才希望妳能知道……
+TalkEvent_13_031ID	13	Roman	ロマン	君の評判が上がれば上がるほど、\nそれを利用する良からぬ人間が出てくるだろうことを	Roman	The more your reputation rises, the more likely it is that those up to no good will try to take advantage of it.	罗曼	你的名声越大，\n就会有越多坏人想利用这一点。	羅曼	妳的名聲越是響亮，\n就會有越多不懷好意的人想要利用妳。
+TalkEvent_13_031ID	14	Resna	レスナ	…………！	Resna	...!	蕾斯娜	……！	蕾斯娜	…………！
+TalkEvent_13_031ID	15	Roman	ロマン	十分に注意してほしい。\n君と、君の錬金術を守るためにも	Roman	I want you to be more careful than ever. To protect both you and your alchemy.	罗曼	希望你能多加注意，\n这也是为了守护你和你的炼金术。	羅曼	希望妳務必小心。\n這是為了保護妳，還有妳的鍊金術。
+TalkEvent_13_031ID	16	Resna	レスナ	……ロマンさん。\nはい、分かりました！	Resna	Thank you, Roman. I will.	蕾斯娜	罗曼先生……\n好的，我知道了！	蕾斯娜	……羅曼先生。\n好的，我明白了！
+TalkEvent_13_031ID	17	Resna	レスナ	（ジュゲル州の問題が解決したからって、\n　安心してもいられない）	Resna	(Even though we've solved the problems in Yuggel, I can't relax yet.)	蕾斯娜	（就算解决了尤格鲁州的问题，\n　也不能彻底安心。）	蕾斯娜	（就算解決了朱格爾州的問題，也還不能掉以輕心。）
+TalkEvent_13_031ID	18	Resna	レスナ	（月影の会、極夜の錬金党。いつまたあの人たちと\n　戦いになるか、分からないんだから……）	Resna	(There's still the Moonlight Society and the Polar Night Alchemists. We never know when we'll have to fight them again...)	蕾斯娜	（月影会、极夜的炼金党。\n　不知道什么时候会和他们再次战斗……）	蕾斯娜	（月影會、極夜的鍊金黨。\n　畢竟不知道何時會再次和那些人交戰……）
+TalkEvent_13_031ID	19	Roman	ロマン	そうだ、赤のほうき星の痕跡も見たんだろう？\nぜひ君の感想を聞かせてくれたまえ、同志！	Roman	By the way, you saw the traces of the Red Comet, correct? I'd love to hear your thoughts on it, kindred spirit!	罗曼	对了，你也看到了红色彗星的痕迹吧？\n同志，请务必告诉我你的感想！	羅曼	對了，妳應該也看見紅色彗星的痕跡了吧？\n請務必跟我說說妳的感想，同伴！
+TalkEvent_13_031ID	20	Resna	レスナ	はい、同志！	Resna	Of course, kindred spirit!	蕾斯娜	好的，同志！	蕾斯娜	好的，同伴！
+TalkEvent_13_031ID	21	Crow	鴉	オリバー様、こちらがご所望の品です	Crow	Lord Oliver, the item you requested.	鸦	奥利弗大人，这是您想要的物件。	烏鴉	奧利弗大人，這是您想要的物品。
+TalkEvent_13_031ID	22		オリバー	……よくやった。\nこれで儂の病も治すことができる	Oliver	Well done. This should cure my illness.	奥利弗	……干得不错。\n这下我的病也能治好了。	奧利弗	……做得好，這樣子我的病也就能痊癒了。
+TalkEvent_13_031ID	23	Crow	鴉	……はっ	Crow	...Yes.	鸦	……是。	烏鴉	……是。
+TalkEvent_13_031ID	24		オリバー	いや……あの錬金術士さえいれば、\nこの煩わしい病だけでなく	Oliver	Now, if I only had that alchemist, I could not only cure this troublesome disease...	奥利弗	哎呀……只要有了那个炼金术士，\n不光能治好这恼人的病……	奧利弗	唉……若是得到那位鍊金術士，\n不僅可治好這惱人的病……
+TalkEvent_13_031ID	25		オリバー	若返ることすら可能かもしれない……ウッ	Oliver	But maybe even regain my youth... Ugh.	奥利弗	就连返老还童也不是不可能吧……唔。	奧利弗	也許連返老還童都能實現……嗚。
+TalkEvent_13_031ID	26	Crow	鴉	オ、オリバー様……！	Crow	L-Lord Oliver!	鸦	奥、奥利弗大人……！	烏鴉	奧、奧利弗大人……！
+TalkEvent_13_031ID	27		オリバー	ゲホッゲホッ……！\n鴉よ、次の任務だ	Oliver	*Cough* *Cough*...\nCrow, your next mission.	奥利弗	咳、咳……！\n鸦，你有下一个任务了。	奧利弗	咳咳……！\n烏鴉，這是新的任務。
+TalkEvent_13_031ID	28		オリバー	錬金術士レスナを捕らえてこい	Oliver	Capture the alchemist Resna.	奥利弗	把炼金术士蕾斯娜抓过来。	奧利弗	去把鍊金術士蕾斯娜捉回來。
+TalkEvent_13_031ID	29		オリバー	どんな手を使ってでも、\n儂の前に連れてくるのだ！！	Oliver	Use any means necessary. Just bring her to me!	奥利弗	不管是用什么手段，\n都要把她带到我跟前来！！	奧利弗	無論使用任何手段，都要將她帶到我面前！！
+TalkEvent_13_031ID	30	Crow	鴉	は！　オリバー様のご命令とあらば、必ず	Crow	Yes, Lord Oliver. By your command, I will not fail.	鸦	是！必将完成奥利弗大人的命令。	烏鴉	是！屬下必定不負使命。
+TalkEvent_13_031ID	31		オリバー	天才のお前ならば、成し遂げよう。\n頼んだぞ、鴉……	Oliver	With your genius, I'm sure you will succeed. Good luck, Crow...	奥利弗	像你这样的天才一定能成功的。\n一切就交给你了，鸦……	奧利弗	聰慧如妳一定能夠完成任務。\n交給妳了，烏鴉……

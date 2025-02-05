@@ -1,0 +1,839 @@
+id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-CN	description_zh-TW
+1	ナナシ草	Nameless Grass	无名草	無名草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+2	コゲクサ	Dry Grass	焦草	焦草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+3	食毒草	Poisonous Grass	食毒草	食毒草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+4	アオツメクサ	Blue Clover	蓝诘草	藍詰草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+5	スイートリーフ	Sweet Leaf	甜叶	甜葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+6	雲海の隠れ家	Cloud Sea Hideout	云海藏身处	雲海藏身處	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+7	蓮	Lotus	莲花	蓮花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+8	幸せクローバー	Lucky Clover	幸运四叶草	幸運四葉草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+9	千日草	Gomphrena	千日草	千日草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+10	エスプラント	Esplante	艾思草	艾思草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+11	ほたる火草	Glow Grass	萤火草	螢火草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+12	カブトバッタ	Helmeted Grasshopper​	独角仙蚱蜢	獨角仙蚱蜢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+13	キラービー	Killer Bee	杀人蜂	殺人蜂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+14	貯ミツアリ	Honeypot Ant	储蜜蚂蚁	儲蜜螞蟻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+15	苦ミミズ	Bitter Worm	苦蚯蚓	苦蚯蚓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+16	星テントウ	Star Ladybug	星星瓢虫	星星瓢蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+17	うにゾウムシ	Uni Weevil	海胆象鼻虫	海膽象鼻蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+18	インゴットバグ	Ingot Bug	金属块虫	金屬塊蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+19	ベビーヴルム	Baby Wyrm	幼虹虫	幼虹蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+20	月イナゴ	Lunar Locust	月蝗虫	月蝗蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+21	ラピス・パピヨン	Lapis Papillion	娜匹斯蝶	娜匹斯蝶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+22	アンバーフライ	Amber Fly	琥珀飞虫	琥珀飛蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+23	植物エキス	Plant Essence	植物精华	植物精華	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+24	パチパチ水	Crackling Water	啪汽啪汽水	啪汽啪汽水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+25	ビリビリ水	Zapping Water	霹麻霹麻水	霹麻霹麻水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+26	きれいな水	Clean Water	清澈的水	乾淨的水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+27	水底の水	Lakebottom Water	水底的水	水底的水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+28	闇の雫	Dark Dew	黑暗水滴	黑暗水滴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+29	黒水	Black Water	黑水	黑水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+30	甘露の湧水	Nectar Springwater	甘露涌泉	甘露湧泉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+31	誘惑の溶樹液	Tempting Sap	诱惑溶树液	誘惑溶樹液	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+32	ミネラル液晶	Liquid Crystal	矿物质结晶	礦物質結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+33	太古の蒼水	Ancient Blue Water	太古苍水	太古蒼水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+34	サルディン	Sardine	沙丁鱼	沙丁魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+35	チョウチョウウオ	Butterfly Fish	蝴蝶鱼	蝴蝶魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+36	セリヨル	Seriole	黄尾鱼	黃尾魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+37	エグゾフィッシュ	Exofish	江龙鱼	江龍魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+38	トゲトゲ	Spiky	刺刺鱼	刺刺魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+39	風船魚	Balloon Fish	气球鱼	氣球魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+40	ワームフィッシュ	Sea Horse	蠕虫鱼	蟲魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+41	レピアフィッシュ	Rapier Fish	刺剑鱼	刺劍魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+42	湖底のぬし	Lake Master	湖底之主	湖底之主	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+43	メイスフィッシュ	Mace Fish	钉锤鱼	釘錘魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+44	ソーンフィッシュ	Sawe Fish	尖嘴刺鱼	尖嘴剌魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+45	アイヒェ	Eiche	橡木	橡木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+46	パルマ	Palma	帕尔马木	帕爾馬木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+47	乾いた木くず	Dried Lumber	干燥木屑	乾燥木屑	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+48	白灰砂	Ashen Sand	白灰砂	白灰砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+49	エメラルドグラス	Emerald Glass	翡翠玻璃	翡翠玻璃	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+50	パルマの実	Palma Fruit	帕尔马果实	帕爾馬果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+51	パルマ樹皮	Palma Bark	帕尔马树皮	帕爾馬樹皮	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+52	聖樹の大枝	Holy Arbor Branch	圣树大枝	聖樹大枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+53	甘露の実	Nectar Fruit	甘露果实	甘露果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+54	エヴィヒブラウ	Evihibrow	永恒之蓝	永恆之藍	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+55	聖樹結晶	Holy Arbor Crystal	圣树结晶	聖樹結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+56	フェスト	Fest	费斯特石	費斯特石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+57	震える結晶	Quake Crystal	震动结晶	震動結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+58	スティム鋼石	Stim Stone	史提姆钢石	史提姆鋼石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+59	樹氷石	Snow Stone	树冰石	樹冰石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+60	蒼剛石	Blue Crystal	苍刚石	蒼剛石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+61	剛鉄鉱	Metal Ore	刚铁矿	剛鐵礦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+62	モルディナイト	Mordenite	毛尔迪夜石	毛爾迪夜石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+63	琥珀水晶	Amber Crystal	琥珀水晶	琥珀水晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+64	ゴルディナイト	Goldinite	戈尔迪夜石	戈爾迪夜石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+65	黒陽鉱	Black Ore	黑阳矿	黑陽礦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+66	永遠結晶	Eternal Crystal	永恒结晶	永恆結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+67	うに	Uni	海胆	海膽	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+68	トーン	Taun	唐木叶	通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+69	若木の枝葉	Sapling Branch	幼树枝叶	幼樹枝葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+70	ハチの巣	Beehive	蜂巢	蜂巢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+71	シロヒメクサ	Princess Grass	白姬草	白姬草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+72	正体不明の原石	Unknown Gemstone	未知的原石	未知的原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+73	怨嗟の叫び	Resentful Scream	怨嗟悲鸣	怨嗟悲鳴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+74	セイタカトーン	Tall Taun	长颈通草	長頸通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+75	マジックグラス	Magic Grass	奇异草	奇異草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+76	銀のハチの巣	Silver Beehive	银色蜂巢	銀色蜂巢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+77	三つ子トーン	Triplet Taun	三子唐木叶	三胞通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+78	安らぎの花	Serenity Flower	宁静花	寧靜花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+79	金のハチの巣	Gold Beehive	金色蜂巢	金色蜂巢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+80	コベリナイト	Koberinite	科比利夜石	科比利夜石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+81	ペントナイト	Pentanite	派恩特夜石	派恩特夜石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+82	自然油	Natural Oil	天然油	天然油	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+83	綿毛草	Cotton Grass	绵毛草	綿毛草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+84	丈夫なつる	Sturdy Vine	强韧藤蔓	強韌藤蔓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+85	魔石の欠片	Fairystone Fragment	魔石碎片	魔石碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+86	スカイバブル	Sky Bubble	天空泡沫	天空泡沫	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+87	リュウソウラン	Dragon Flower	龙葬兰	龍葬蘭	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+88	大木のツタ	Arbor Ivy	大树常春藤	大樹常春藤	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+89	彗星岩	Cometstone	彗星岩	彗星岩	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+90	灯火草	Torch Grass	灯火草	燈火草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+91	赤い花	Red Flower	红色的花	紅色的花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+92	赤砂	Red Sand	红砂	紅砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+93	クスリゴケ	Medicinal Moss	药苔	藥苔	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+94	輝く水晶のカケラ	Shiny Crystal Fragments	闪耀水晶碎片	閃爍水晶碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+95	砂晶石	Sand Crystals	砂晶石	砂晶石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+96	光る砂	Shining Sand	光砂	光砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+97	太陽の花	Solflower	太阳花	太陽花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+98	強化の雫Ⅰ	Power Up Dew I	强化之露Ⅰ	強化之露Ⅰ	メモリアの経験値がわずかに増加する。\nかつて見上げた木の名前はまだ思い出せない。	Boosts Memoria EXP by a tiny amount. \nThe name of the tree that loomed overhead remains forgotten.	微量增加回忆的经验值。\n仍想不起曾经仰望的那棵树的名字。	微量增加回憶的經驗值。\n現在依然無法回想起曾經仰望的樹木名稱。
+99	強化の雫Ⅱ	Power Up Dew II	强化之露Ⅱ	強化之露Ⅱ	メモリアの経験値が少し増加する。\nかつて流した涙の理由はまだ思い出せない。	Boosts Memoria EXP by a small amount. \nThe reason for the many tears shed remains forgotten.	少量增加回忆的经验值。\n仍想不起曾经流泪的理由。	少量增加回憶的經驗值。\n現在依然無法回想起曾經流淚的原因。
+100	強化の雫Ⅲ	Power Up Dew III	强化之露Ⅲ	強化之露Ⅲ	メモリアの経験値が増加する。\nかつて失った灰の原形はまだ思い出せない。	Boosts Memoria EXP. \nWhat those ashes once were remains forgotten.	增加回忆的经验值。\n仍想不起曾经失去的灰烬的原形。	增加回憶的經驗值。\n現在依然無法回想起曾經遺失的灰燼原形。
+101	強化の雫Ⅳ	Power Up Dew IV	强化之露Ⅳ	強化之露Ⅳ	メモリアの経験値が大きく増加する。	Boosts Memoria EXP by a large amount.	大量增加回忆的经验值。	大量增加回憶的經驗值。
+102	強化の雫Ⅴ	Power Up Dew V	强化之露Ⅴ	強化之露Ⅴ	メモリアの経験値が非常に大きく増加する。	Boosts Memoria EXP by an extremely large amount.	极大量增加回忆的经验值。	極大量增加回憶的經驗值。
+103	経験の飴Ⅰ	Experience Candy I	经验糖果Ⅰ	經驗糖果Ⅰ	キャラの経験値がわずかに増加する。\nみんな大好きメロン味。	Boosts Character EXP by a tiny amount.\nTastes like melon, which everybody loves!	微量增加角色的经验值。\n人人喜爱的蜜瓜口味。	微量增加角色的經驗值。\n大家最喜歡的哈密瓜口味。
+104	経験の飴Ⅱ	Experience Candy II	经验糖果Ⅱ	經驗糖果Ⅱ	キャラの経験値が少し増加する。\n口ではじけるソーダ味。	Boosts Character EXP by a small amount.\nTastes like soda and pops in your mouth!	少量增加角色的经验值。\n口感刺激的碳酸饮料口味。	少量增加角色的經驗值。\n氣泡在口中彈跳的蘇打口味。
+105	経験の飴Ⅲ	Experience Candy III	经验糖果Ⅲ	經驗糖果Ⅲ	キャラの経験値が増加する。\n昔懐かしヨーグルト味。	Boosts Character EXP.\nTastes like yogurt and the good ol' days.	增加角色的经验值。\n怀旧的酸奶口味。	增加角色的經驗值。\n懷舊的優格口味。
+106	経験の飴Ⅳ	Experience Candy IV	经验糖果Ⅳ	經驗糖果Ⅳ	キャラの経験値が大きく増加する。\n身体ぽかぽかショウガ味。	Boosts Character EXP by a large amount.\nA soothing ginger flavor that will warm your body up.	大幅增加角色的经验值。\n温暖身体的生姜口味。	大量增加角色的經驗值。\n讓身體暖呼呼的生薑口味。
+107	経験の飴Ⅴ	Experience Candy V	经验糖果Ⅴ	經驗糖果Ⅴ	キャラの経験値が非常に大きく増加する。\n未知の体験星の海味。	Boosts Character EXP by an extremely large amount.\nTastes like the sea of stars, the great unknown.	超大幅增加角色的经验值。\n带来未知体验的星之海口味。	極大量增加角色的經驗值。\n未曾體驗的星海之味。
+108	赤の光玉Ⅰ	Glowing Red Orb I	红色光玉Ⅰ	紅光玉Ⅰ	赤の力をわずかに秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Red Power. Can be used to unlock board panels.	蕴含微量红之力的玉石。\n可用于解锁星图的面板。	蘊藏微量紅之力的玉。\n可以用來解鎖星圖的面板。
+109	赤の光玉Ⅱ	Glowing Red Orb II	红色光玉Ⅱ	紅光玉Ⅱ	赤の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a small amount of Red Power. Can be used to unlock board panels.	蕴含少量红之力的玉石。\n可用于解锁星图的面板。	蘊藏少量紅之力的玉。\n可以用來解鎖星圖的面板。
+110	赤の光玉Ⅲ	Glowing Red Orb III	红色光玉Ⅲ	紅光玉Ⅲ	赤の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Red Power. Can be used to unlock board panels.	蕴含红之力的玉石。\n可用于解锁星图的面板。	蘊藏紅之力的玉。\n可以用來解鎖星圖的面板。
+111	青の光玉Ⅰ	Glowing Blue Orb I	蓝色光玉Ⅰ	藍光玉Ⅰ	青の力をわずかに秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Blue Power. Can be used to unlock board panels.	蕴含微量蓝之力的玉石。\n可用于解锁星图的面板。	蘊藏微量藍之力的玉。\n可以用來解鎖星圖的面板。
+112	青の光玉Ⅱ	Glowing Blue Orb II	蓝色光玉Ⅱ	藍光玉Ⅱ	青の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a small amount of Blue Power. Can be used to unlock board panels.	蕴含少量蓝之力的玉石。\n可用于解锁星图的面板。	蘊藏少量藍之力的玉。\n可以用來解鎖星圖的面板。
+113	青の光玉Ⅲ	Glowing Blue Orb III	蓝色光玉Ⅲ	藍光玉Ⅲ	青の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Blue Power. Can be used to unlock board panels.	蕴含蓝之力的玉石。\n可用于解锁星图的面板。	蘊藏藍之力的玉。\n可以用來解鎖星圖的面板。
+114	黄の光玉Ⅰ	Glowing Yellow Orb I	黄色光玉Ⅰ	黃光玉Ⅰ	黄の力をわずかに秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Yellow Power. Can be used to unlock board panels.	蕴含微量黄之力的玉石。\n可用于解锁星图的面板。	蘊藏微量黃之力的玉。\n可以用來解鎖星圖的面板。
+115	黄の光玉Ⅱ	Glowing Yellow Orb II	黄色光玉Ⅱ	黃光玉Ⅱ	黄の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a small amount of Yellow Power. Can be used to unlock board panels.	蕴含少量黄之力的玉石。\n可用于解锁星图的面板。	蘊藏少量黃之力的玉。\n可以用來解鎖星圖的面板。
+116	黄の光玉Ⅲ	Glowing Yellow Orb III	黄色光玉Ⅲ	黃光玉Ⅲ	黄の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Yellow Power. Can be used to unlock board panels.	蕴含黄之力的玉石。\n可用于解锁星图的面板。	蘊藏黃之力的玉。\n可以用來解鎖星圖的面板。
+117	緑の光玉Ⅰ	Glowing Green Orb I	绿色光玉Ⅰ	綠光玉Ⅰ	緑の力をわずかに秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Green Power. Can be used to unlock board panels.	蕴含微量绿之力的玉石。\n可用于解锁星图的面板。	蘊藏微量綠之力的玉。\n可以用來解鎖星圖的面板。
+118	緑の光玉Ⅱ	Glowing Green Orb II	绿色光玉Ⅱ	綠光玉Ⅱ	緑の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a small amount of Green Power. Can be used to unlock board panels.	蕴含少量绿之力的玉石。\n可用于解锁星图的面板。	蘊藏少量綠之力的玉。\n可以用來解鎖星圖的面板。
+119	緑の光玉Ⅲ	Glowing Green Orb III	绿色光玉Ⅲ	綠光玉Ⅲ	緑の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Green Power. Can be used to unlock board panels.	蕴含绿之力的玉石。\n可用于解锁星图的面板。	蘊藏綠之力的玉。\n可以用來解鎖星圖的面板。
+120	紫の光玉Ⅰ	Glowing Purple Orb I	紫色光玉Ⅰ	紫光玉Ⅰ	紫の力をわずかに秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Purple Power. Can be used to unlock board panels.	蕴含微量紫之力的玉石。\n可用于解锁星图的面板。	蘊藏微量紫之力的玉。\n可以用來解鎖星圖的面板。
+121	紫の光玉Ⅱ	Glowing Purple Orb II	紫色光玉Ⅱ	紫光玉Ⅱ	紫の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a small amount of Purple Power. Can be used to unlock board panels.	蕴含少量紫之力的玉石。\n可用于解锁星图的面板。	蘊藏少量紫之力的玉。\n可以用來解鎖星圖的面板。
+122	紫の光玉Ⅲ	Glowing Purple Orb III	紫色光玉Ⅲ	紫光玉Ⅲ	紫の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Purple Power. Can be used to unlock board panels.	蕴含紫之力的玉石。\n可用于解锁星图的面板。	蘊藏紫之力的玉。\n可以用來解鎖星圖的面板。
+123	宝玉	Light Orb	宝玉	寶玉	光の力を少し秘めた玉。\nボードのパネル解放に使用できる。	An orb with a tiny amount of Light Power. Can be used to unlock board panels.	蕴含少量光之力的玉石。\n可用于解锁星图的面板。	蘊藏少量光之力的玉。\n可以用來解鎖星圖的面板。
+124	大宝玉	Large Light Orb	大宝玉	大寶玉	光の力を秘めた玉。\nボードのパネル解放に使用できる。	An orb with some Light Power. Can be used to unlock board panels.	蕴含光之力的玉石。\n可用于解锁星图的面板。	蘊藏光之力的玉。\n可以用來解鎖星圖的面板。
+125	聖玉	Sacred Orb	圣玉	聖玉	虹の力を秘めた玉。\nEXボードの解放に使用できる。	An orb with some Rainbow Power. Can be used to unlock EX Board panels.	蕴含虹之力的玉石。\n可用于解锁EX星图。	蘊藏虹之力的玉。\n可以用來解鎖EX星圖。
+126	願いの輝石	Brilliant Wishing Stone	祈愿辉石	祈願輝石	誰かの願いが届いた時に真の姿が宿る特別な石。\nピース交換で使用できる。	A special stone whose true form is revealed when it receives a wish. Can be used at the Piece Exchange.	当接收愿望之时，寄放其真容的特殊石头。\n可在碎片兑换处使用。	接收到某個人的心願時，才會顯現真貌的特殊石頭。\n可以用來兌換碎片。
+127	記憶の断片	Memory Fragment	记忆片段	記憶片段	なんらかの記憶を宿した特別な欠片。\nショップで使用できる。	A special fragment imbued with the remnant of a memory. Can be used at the Shop.	蕴含着某种记忆的特殊碎片。\n可在商店使用。	蘊含了某些記憶的特殊碎片。\n可以在商店中使用。
+129	記憶の結晶	Memory Crystal	记忆结晶	記憶結晶	SSRメモリアの解放に使用できる。	Can be used to unlock SSR Memoria.	用于解锁SSR回忆。	可以用來解鎖SSR回憶。
+131	LEGENDメダル	Legend Medal	LEGEND币	LEGEND幣	杖が刻まれたメダル。\nメダル交換で使用できる。	A medal with a staff relief. Can be used at the Medal Exchange.	刻有手杖的代币。\n可在代币兑换所使用。	刻有手杖的代幣。\n可在代幣兌換所使用。
+134	キラキラコイン	Shiny Coins	闪亮硬币	閃亮硬幣	多くの収集家を魅了するキラキラ光るコイン。\nショップで使用できる。	A shiny coin that has charmed many a collector. Can be used at the Shop.	闪闪发光的硬币，受到众多收藏家喜爱。\n可在商店使用。	使許多收藏家為之著迷的閃亮硬幣。\n可以在商店中使用。
+135	プレーンクッキー	Plain Cookie	原味曲奇	原味餅乾	保存が利く冒険者御用達のクッキー。\nスタミナの回復に使用できる。	A long-lasting cookie, perfect for Adventurers. Can be used to recover stamina.	保质期长，受到冒险者喜爱的饼干。\n可用于恢复体力。	耐保存的冒險者愛用餅乾。\n可以用來回復精力。
+141	決戦コイン	Challenge Coin	决战硬币	決戰硬幣	「決戦！戦士の大鎧」交換所で使用できるアイテム。	"Exchange for items at the ""To Battle! Heavy Warrior Armor"" Exchange."	可以在“决战！战士的大铠”兑换所使用的道具。	可於「決戰！戰士的大鎧」兌換所使用的道具。
+142	挑戦券	Challenge Ticket	挑战券	挑戰券	「決戦！戦士の大鎧」に挑戦するために必要な券。	"Ticket required to participate in ""To Battle! Heavy Warrior Armor."""	挑战“决战！战士的大铠”所需的券。	挑戰「決戰！戰士的大鎧」所需的票券。
+143	香木のくず	Fragrant Chips	香木碎屑	香木碎屑	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+144	ラプチャー	Rapture	极乐鱼	鸚喜魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+145	砕けた石材	Broken Rock	碎裂的石材	碎裂的石材	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+146	スキマグサ	Gap Grass	缝隙草	縫隙草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+147	聖なるねじれ樹	Holy Twisted Arbor	扭曲圣树	神聖螺旋樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+148	スーメック	Smech	须鱿鱼	鬚魷魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+149	ルインストン	Ruin Stone	卢因石	毀滅之石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+150	朽ちた樹の大枝	Rotting Arbor Branch	枯树大枝	腐朽之木的大枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+151	古代魚	Living Fossil	古代鱼	古代魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+152	朽ちた樹の枯れ枝	Rotting Arbor Twig	枯树枯枝	腐朽之木的枯枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+153	幻惑の木片	Bewitching Chip	幻惑木片	幻惑木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+154	ルインフィッシュ	Ruin Fish	卢因鱼	毀滅魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+155	派手な石材	Gaudy Stone	华美石材	華麗的石材	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+156	邪なるねじれ樹	Evil Twisted Arbor	扭曲邪树	邪惡螺旋樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+157	ブラストフィッシュ	Blast Fish	爆裂鱼	爆破魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+158	ツドイグサ	Gathered Leaves	结草	集會草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+159	ブランチトランク	Blanched Trunk	树干	巨型枝幹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+160	チョウロウウオ	Elder Fish	丹色蝴蝶鱼	長老魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+161	正体不明の輝石	Unknown Augite	未知的辉石	未知的輝石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+162	太古の老木	Ancient Log	太古老柴	太古老柴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+163	太古の聖魚	Sage Fish	太古圣鱼	太古聖魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+164	導きの花	Shepherdflower	引路花	指引之花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+165	ローズビー	Rose Bee	玫瑰蜂	玫瑰蜂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+166	首垂れ草	Flopflower	垂首草	垂首草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+167	紫紺の雫	Indigo Droplet	黛紫之露	紫紺水滴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+168	オレンジグラス	Orange Glass	橙黄玻璃	香橙玻璃	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+169	ジェムフライ	Gem Fly	宝石蝇	寶石蠅	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+170	灯篭ホタル	Lantern Fly	灯笼萤火虫	燈籠螢火蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+171	激憤の叫び	Indignant Scream	激愤咆哮	激憤悲鳴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+172	霊魂宝珠	Spirit Stone	灵魂宝珠	靈魂寶珠	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+173	挑戦券[ザールブルグ]	Challenge Ticket [Salburg]	挑战券[萨尔布鲁克]	挑戰券[薩爾布魯克]	「ザールブルグの錬金術士～受け継がれる思い～」に挑戦するために必要な券。	"Ticket required to participate in ""The Alchemist of Salburg: Inherited Feelings."""	挑战“萨尔布鲁克的炼金术士 ～思念传承～”所需的券。	挑戰「薩爾布魯克的鍊金術士～被繼承的意念～」\n所需的票券。
+174	バトルコイン	Battle Coin	战斗硬币	戰鬥硬幣	「ザールブルグの錬金術士～受け継がれる思い～」交換所で使用できるアイテム。	"Exchange for items at the ""The Alchemist of Salburg: Inherited Feelings"" Exchange."	可以在“萨尔布鲁克的炼金术士 ～思念传承～”兑换所使用的道具。	可於「薩爾布魯克的鍊金術士～被繼承的意念～」\n兌換所使用的道具。
+175	オニワライタケ	Devilspawn Shoot	鬼笑菇	鬼笑菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+176	こじょのこしかけ	Polypore Shroom	女儿杌	女兒凳	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+177	レジエン石	Regicite	雷吉恩石	磊真石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+178	日影石	Shadestone	日影石	日影石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+179	宝石草のタネ	Jewelgrass Seeds	宝石草种	寶石草的種子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+180	月のしずく	Moon Drop	月之滴	月之水滴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+182	黄金うにの枝	Gold Uni Branch	黄金海胆树枝	黃金海膽樹的樹枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+183	聖銀石	Celestial Silver Stone	圣银石	聖銀石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+184	挑戦券[300万DL記念]	Challenge Ticket [5M Worldwide DL Celebration]	挑战券[全球500万次下载纪念]	挑戰券[全球500萬次下載紀念]	「300万DL記念 勇者レスナの大冒険～囚われの姫君～」に挑戦するために必要な券。	Ticket required to participate in 5M Worldwide DL Celebration, Resna the Hero's Great Adventure: The Imprisoned Princess.	挑战“全球500万次下载纪念 勇者蕾斯娜的大冒险 ～被囚禁的公主～”所需的券。	挑戰「全球500萬次下載紀念 勇者蕾斯娜的大冒險\n～被囚禁的公主～」所需的票券。
+186	記念メダル	Celebration Medal	纪念币	紀念幣	「300万DL記念 勇者レスナの大冒険～囚われの姫君～」交換所で使用できるアイテム。	Exchange for items at the 5M Worldwide DL Celebration, Resna the Hero's Great Adventure: The Imprisoned Princess Exchange.	可以在“全球500万次下载纪念 勇者蕾斯娜的大冒险 ～被囚禁的公主～”兑换所使用的道具。	可於「全球500萬次下載紀念 勇者蕾斯娜的大冒險\n～被囚禁的公主～」兌換所使用的道具。
+187	挑戦券[ハロウィン]	Challenge Ticket [Halloween]	挑战券[万圣节]	挑戰券[萬聖節]	イベント「決戦！ハロウィンぷに」に挑戦するために必要な券。	"Ticket required to participate in the ""Showdown! Halloween Puni"" Event."	挑战“决战！万圣节噗尼”活动所需的券。	挑戰活動「決戰！萬聖節噗尼」所需的票券。
+188	300万DL記念ガチャチケット	5M Worldwide DL Celebration Wish Ticket	全球500万次下载纪念星愿券	全球500萬次下載紀念星願券	300万DL記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the 5M Worldwide DL Celebration - LEGEND FES.	使用该券可以在“全球500万次下载纪念 LEGEND FES”许下1次星愿。	可許下1次全球500萬次下載紀念 LEGEND FES星願的票券。
+189	ハロウィンパンプキン	Halloween Pumpkin	万圣节南瓜	萬聖節南瓜	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+190	ハロウィンツリー	Halloween Tree	万圣节树	萬聖節樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+191	ハロウィンバグ	Halloween Bug	万圣节虫	萬聖節蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+192	トリックコイン	Trick Coin	捣蛋硬币	搗蛋硬幣	「決戦！ハロウィンぷに」交換所で使用できるアイテム。	"Exchange for items at the ""Showdown! Halloween Puni"" Exchange."	可以在“决战！万圣节噗尼”兑换所使用的道具。	可於「決戰！萬聖節噗尼」兌換所使用的道具。
+193	トリートボックス	Treat Box	甜点盒	糖果箱	「決戦！ハロウィンぷに」交換所で使用できるアイテム。	"Exchange for items at the ""Showdown! Halloween Puni"" Exchange."	可以在“决战！万圣节噗尼”兑换所使用的道具。	可於「決戰！萬聖節噗尼」兌換所使用的道具。
+194	ヴァレリア新章追加記念ガチャチケット	Celebrating a New Valeria Chapter Wish Ticket	瓦莱莉娅新章节追加纪念星愿券	瓦萊莉婭新章追加紀念星願券	ヴァレリア新章追加記念  LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Celebrating a New Valeria Chapter - LEGEND FES.	使用该券可以在“瓦莱莉娅新章节追加纪念 LEGEND FES”许下1次星愿。	可許下1次瓦萊莉婭新章追加紀念 LEGEND FES星願的票券。
+195	ザールブルグの錬金術士ガチャチケット	The Alchemist of Salburg Wish Ticket	萨尔布鲁克的炼金术士星愿券	薩爾布魯克的鍊金術士星願券	ザールブルグの錬金術士 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in The Alchemist of Salburg - LEGEND FES.	使用该券可以在“萨尔布鲁克的炼金术士 LEGEND FES”许下1次星愿。	可許下1次薩爾布魯克的鍊金術士 LEGEND FES星願的票券。
+196	HALLOWEEN2023ガチャチケット	HALLOWEEN 2024 Wish Ticket	HALLOWEEN2024星愿券	HALLOWEEN2024星願券	HALLOWEEN2023 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the HALLOWEEN 2024 - LEGEND FES.	使用该券可以在“HALLOWEEN2024 LEGEND FES”许下1次星愿。	可許下1次HALLOWEEN2024 LEGEND FES星願的票券。
+197	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+198	メイン5章追加記念ガチャチケット	Main Story Chapter 5 Celebration Wish Ticket	追加主线故事第5章纪念星愿券	主線第5章追加紀念星願券	メイン5章追加記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Main Story Chapter 5 Celebration - LEGEND FES.	使用该券可以在“追加主线故事第5章纪念 LEGEND FES”许下1次星愿。	可許下1次主線第5章追加紀念 LEGEND FES星願的票券。
+199	赤曜鉱	Red Obsidian Ore	红曜矿	赤曜礦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+200	赤玉鉱石	Red Volcanic Ore	红玉矿石	赤玉礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+201	フロジストン	Phlogiston	燃素结晶	燃素之石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+202	聖石の欠片	Holy Stone Fragment	圣石碎片	聖石碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+203	ホシナナ	Hoshinana	七星瓢虫	七星蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+204	スピリト・モルグ	Spirit Isopod	灵团虫	靈團蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+205	モノノフバッタ	Warrior Grasshopper	武士蝗虫	武士蚱蜢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+206	フラムドラグーン	Bomb Dragoon	炎烧蜻蜓	炎燒蜻蜓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+207	マグマパウダー	Magma Powder	岩浆粉	岩漿粉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+208	炭化樹皮	Charred Bark	炭化树皮	炭化樹皮	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+209	シュランク	Shrunk	休拉克之木	乾癟木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+210	熔けあう硬木	Fused Hardwood	交缠硬木	交融硬木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+211	赤熱結晶	Red Hot Crystal	赤热结晶	赤熱結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+212	黒玉鉱石	Black Volcanic Ore	黑玉矿石	黑玉礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+213	ヴァイヒ	Weich	软土	軟土	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+214	トキシーアント	Toxic Ant	毒素蚂蚁	毒蟻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+215	スピアワーム	Expiation Worm	矛线虫	矛線蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+216	フェロス・モルグ	Ferrous Isopod	食铁虫	費洛斯蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+217	紅草	Crimson Grass	红草	紅草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+218	灰かぶり草	Ash-Covered Grass	负灰草	染灰草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+219	ブルリエーレ	Brulyere	石楠木	布爾利艾雷藤	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+220	老木の枝葉	Old Tree Branch	老树枝叶	老樹枝葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+221	ファニプラント	Faniplant	滑稽花	凡尼花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+222	酸いの実	Sour Fruit	酸涩果实	酸果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+223	アイヒェロア	Eicheloa	橡树菇	橡樹菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+224	ハイネの炎石	Haine Fire Stone	海涅炎石	海涅炎石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+225	プルムル	Pourpremoule	普鲁姆鲁螺	普魯姆魯螺	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+226	ザフロア油	Zafloa Oil	扎夫洛阿油	分層油	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+227	煌く砂	Glittering Sand	闪耀之沙	輝耀砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+228	恩寵の淑女	Lady of Grace	恩宠淑女	恩寵的淑女	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+229	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+230	リディー＆スールのアトリエガチャチケット	Atelier Lydie & Suelle Wish Ticket	莉迪＆苏瑞的炼金工房星愿券	莉迪＆蘇瑞的鍊金工房星願券	リディー＆スールのアトリエ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Atelier Lydie & Suelle - LEGEND FES.	使用该券可以在“莉迪＆苏瑞的炼金工房 LEGEND FES”许下1次星愿。	可許下1次莉迪＆蘇瑞的鍊金工房 LEGEND FES星願的票券。
+231	星の花	Star Flower	星之花	星之花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+232	星の実	Starfruit	星之实	星之果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+233	ハイネライト	Hainelight	海涅之光	海涅之光	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+234	玉鋼石	Steel Balls	玉钢石	玉鋼石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+235	オオオニカブト	Big Horned Beetle	大鬼兜独角仙	大鬼兜獨角仙	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+236	黄金樹の葉	Golden Tree Leaf	黄金树叶	黃金樹之葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+237	バトルコイン	Battle Coin	战斗硬币	戰鬥硬幣	「リディー＆スールの日常 ～ふたりが描く家族の思い出～」交換所で使用できるアイテム。	"Exchange for items at the ""Lydie & Suelle's Everyday Lives ~A Shared Canvas of Memories~"" Exchange."	可在“莉迪＆苏瑞的日常～两人细数家人的回忆～”兑换所使用的道具。	可於「莉迪＆蘇瑞的日常～兩人描繪的家族回憶～」兌換所使用的道具。
+238	ライザのアトリエガチャチケット	Atelier Ryza Wish Ticket	莱莎的炼金工房星愿券	萊莎的鍊金工房星願券	ライザのアトリエ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Atelier Ryza - LEGEND FES.	使用该券可以在“莱莎的炼金工房 LEGEND FES”许下1次星愿。	可許下1次萊莎的鍊金工房 LEGEND FES星願的票券。
+239	挑戦券[リディー＆スール]	Challenge Ticket [Lydie & Suelle]	挑战券[莉迪＆苏瑞]	挑戰券[莉迪＆蘇瑞]	「リディー＆スールの日常 ～ふたりが描く家族の思い出～」に挑戦するために必要な券。	"Ticket required to participate in the ""Lydie & Suelle's Everyday Lives ~A Shared Canvas of Memories~"" event."	挑战“莉迪＆苏瑞的日常～两人细数家人的回忆～”所需的券。	挑戰「莉迪＆蘇瑞的日常～兩人描繪的家族回憶～」所需的票券。
+240	挑戦券[ライザのアトリエ]	Challenge Ticket [Atelier Ryza]	挑战券[莱莎的炼金工房]	挑戰券[萊莎的鍊金工房]	イベント「忘却の賢者と秘密の楽園」に挑戦するために必要な券。	"Ticket required to participate in the ""Sage of Oblivion & the Secret Paradise"" Event."	挑战“忘却的贤者与秘密的乐园”活动所需的券。	挑戰活動「忘卻的賢者與秘密的樂園」所需的票券。
+241	回帰の秘薬	Elixir of Return	回归秘药	回歸的秘藥	育成状態をリセットするために必要なアイテム。	An item required to reset a character's training.	初始化育成状态所需的道具。	重置育成狀態所需的道具。
+242	手包みミニクッキー	Hand-Wrapped Mini Cookies	手工迷你曲奇	手工迷你小餅乾	ひとつひとつ丁寧に包装されたミニクッキー。\n保存性・携帯性に優れた、旅先でのお口のお供。\nスタミナの回復に使用できる。	Individually wrapped mini cookies.\nIdeal for travel due to their shelf life and portability.\nCan be used to restore stamina.	每一个都仔细包装好的迷你曲奇。\n易于保存且方便携带，旅途中的解馋小吃。\n可用于恢复体力。	一個個精心包裝的迷你小餅乾。\n具有出色的保存性及便攜性，是旅途上充飢解饞的良伴。\n可用於回復精力。
+243	ATELIER FESガチャチケット	ATELIER FES Wish Ticket	ATELIER FES星愿券	ATELIER FES星願券	ATELIER FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the ATELIER FES.	使用该券可以在“ATELIER FES”许下1次星愿。	可許下1次ATELIER FES星願的票券。
+244	決戦コイン	Challenge Coin	决战硬币	決戰硬幣	「忘却の賢者と秘密の楽園」交換所で使用できるアイテム。	"Exchange for items at the ""Sage of Oblivion & the Secret Paradise"" Exchange."	可以在“忘却的贤者与秘密的乐园”兑换所使用的道具。	可於「忘卻的賢者與秘密的樂園」兌換所使用的道具。
+245	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+246	ヤギミルク	Goat's Milk	山羊奶	山羊奶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+247	夢見の霧花	Dream Flower	梦境雾花	夢境霧花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+248	森の賢人	Forest Sage	森林智草	森林智草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+249	七煌原石	Rainbow Gemstone	七煌原石	七煌原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+250	ゴールデンクラウン	Golden Crown	金色王冠	金色王冠	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+251	大王うに	Emperor Uni	大王海胆	大王海膽	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+252	イザナ新章追加記念ガチャチケット	New Izana Chapter Celebration Wish Ticket	伊札娜新章节追加纪念星愿券	伊札娜新章節追加紀念星願券	イザナ新章追加記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Izana Chapter Celebration - LEGEND FES.	使用该券可以在“伊札娜新章节追加纪念 LEGEND FES”许下1次星愿。	可許下1次伊札娜新章節追加紀念 LEGEND FES星願的票券。
+253	ホーテエルブ	Hortae Herb	美丽草	霍帖草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+254	雷雲の隠れ家	Thundercloud Hideout	雷云藏身处	雷雲藏身處	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+255	甘露の枝	Nectar Branch	甘露树枝	甘露樹枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+256	常世の仙花	Eternal Blossom	永世仙花	常世仙花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+257	青い花	Blue Flower	蓝色的花	藍色的花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+258	ソンブルエルブ	Sombre Herb	暗之草	暗黑草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+259	ニガゴケグサ	Bitter Grass	苦苔草	苦苔草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+260	清香水	Pure Perfume	清香水	清香水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+261	混濁水	Murky Water	浑浊水	混濁水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+262	透き通る水	Clear Water	清澈水	澄澈水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+263	ユグドールの湧水	Yugdore Water	优古多尔的涌水	優古多爾的湧水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+264	甘美な樹液	Sweet Sap	甘甜树液	甜美樹液	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+265	原野の湧水	Wilderness Water	原野涌泉	原野湧泉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+266	花香水	Flower Perfume	花香水	花香水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+267	カゲイナゴ	Shadow Locust	影蝗虫	影蝗蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+268	ルビー・パピヨン	Ruby Papillon	红宝石蝶	紅寶石蝶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+269	毒トンボ	Poison Dragonfly	毒蜻蜓	毒蜻蜓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+270	月光ホタル	Moonlight Firefly	月光萤火虫	月光螢火蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+271	アメル	Amel	白化蛇	亞梅爾魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+272	カタ巻き貝	Swirly Shell	硬螺贝	硬螺貝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+273	ミミクリー	Mimicry	拟态伪装	擬態魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+274	ルミナアメル	Luminous Amel	星光白化蛇	光輝亞梅爾魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+275	オニナキダケ	Honey Fungus	鬼哭菇	鬼哭菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+276	ニューズ	Nuse	针木果实	針木果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+277	濁った結晶	Muddied Crystal	浑浊结晶	混濁結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+278	翡翠の煌水	Jade Water	翡翠煌水	翡翠煌水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+279	色綿草	Colored Cotton Grass	色棉草	色錦草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+280	宵闇草	Twilight Grass	宵暗草	宵闇草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+281	グンセイゴケ	Clustered Moss	群栖苔	群生苔	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+282	フロートオクトパス	Floating Octopus	漂浮章鱼	漂浮大章魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+283	デルフィローズ	Delphi Rose	德尔福玫瑰	德爾福玫瑰	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+284	創生の逆さ石	Degenesis Stone	创生逆石	創生逆石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+285	ローズクリスタル	Rose Crystal	玫瑰水晶	玫瑰水晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+286	アークナイト	Arknite	方舟夜石	方舟夜石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+287	キュリオスアクア	Curious Aqua	神秘液体	珍奇之水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+288	虹翼の欠片	Rainbow Wing Fragment	虹翼碎片	虹翼碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+289	クリスマスガチャチケット	Christmas Wish Ticket	圣诞节星愿券	聖誕節星願券	クリスマス LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Christmas - LEGEND FES.	使用该券可以在“圣诞节 LEGEND FES”许下1次星愿。	可許下1次聖誕節 LEGEND FES星願的票券。
+290	挑戦券[星降る夜の贈りもの]	Challenge Ticket [Gifts on a Starry Night]	挑战券[繁星之夜的礼物]	挑戰券[繁星灑落之夜的贈禮]	イベント「星降る夜の贈りもの」に挑戦するために必要な券。	"Ticket required to participate in the ""Gifts on a Starry Night"" Event."	挑战“繁星之夜的礼物”活动所需的券。	挑戰活動「繁星灑落之夜的贈禮」所需的票券。
+291	星夜の葡萄	Starry Night Grapes	星夜葡萄	星夜葡萄	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+292	星夜のシゾール	Starry Night Scissor	星夜鳌虾	星夜帽蟹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+293	星夜の丹花	Starry Night Ixora	星夜丹花	星夜丹花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+294	星夜の樹	Starry Night Tree	星夜树	星夜樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+295	星夜の琥珀	Starry Night Amber	星夜琥珀	星夜琥珀	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+296	星夜の白花	Starry Night White Flower	星夜白花	星夜白花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+297	贈りものコイン	Gift Coin	礼物硬币	贈禮硬幣	「星降る夜の贈りもの」交換所で使用できるアイテム。	"Exchange for items at the ""Gifts on a Starry Night"" Exchange."	可以在“繁星之夜的礼物”兑换所使用的道具。	可於「繁星灑落之夜的贈禮」兌換所使用的道具。
+298	HAPPY NEW YEARガチャチケット	HAPPY NEW YEAR Wish Ticket	新年快乐星愿券	新年快樂星願券	HAPPY NEW YEAR LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the HAPPY NEW YEAR - LEGEND FES.	使用该券可以在“新年快乐 LEGEND FES”许下1次星愿。	可許下1次新年快樂 LEGEND FES星願的票券。
+299	初春の迎え竹	New Year Bamboo	初春迎新竹	新春竹飾	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+300	初春の果実	New Year Fruit	初春果实	新春果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+301	初春の長寿海老	New Year Shrimp	初春长寿虾	新春萬壽蝦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+302	初春の若水	New Year Water	初春若水	新春初水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+303	初春の清葉	New Year Leaves	初春清叶	新春清葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+304	初春の祝い魚	New Year Celebratory Fish	初春祝福鱼	新春吉祥魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+305	挑戦券[マリーの招福大作戦！]	Challenge Ticket [Marie's Fortune Frenzy!]	挑战券[玛莉的招福大作战！]	挑戰券[瑪莉的招福大作戰！]	イベント「マリーの招福大作戦！」に挑戦するために必要な券。	"Ticket required to participate in the ""Marie's Fortune Frenzy!"" Event."	挑战“玛莉的招福大作战！”活动所需的券。	挑戰活動「瑪莉的招福大作戰！」所需的票券。
+306	新章記念 浪漫の果てにガチャチケット	New Chapter: At the Edge of Romance Wish Ticket	新章节纪念 在浪漫的尽头星愿券	新章節紀念 在浪漫的盡頭星願券	新章記念 浪漫の果てに LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: At the Edge of Romance - LEGEND FES.	使用该券可以在“新章节纪念 在浪漫的尽头 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 在浪漫的盡頭 LEGEND FES星願的票券。
+308	鏡餅コイン	Kagami Mochi Coin	镜饼硬币	鏡餅硬幣	「マリーの招福大作戦！」交換所で使用できるアイテム。	"Exchange for items at the ""Marie's Fortune Frenzy!"" Exchange."	可以在“玛莉的招福大作战！”兑换所使用的道具。	可於「瑪莉的招福大作戰！」兌換所使用的道具。
+309	ゴールドぷに挑戦券	The Gold Puni Challenge Ticket	金噗尼挑战券	金噗尼挑戰券	イベント「ゴールドぷにチャレンジ」のEXチャレンジに挑戦するために必要な券。	"Ticket required to participate in the EX Challenge of ""The Gold Puni Challenge"" Event."	挑战“金噗尼挑战”活动的EX挑战所需的券。	挑戰活動「挑戰金噗尼」的EX挑戰所需的票券。
+310	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+311	シャリーのアトリエガチャチケット	Atelier Shallie Wish Ticket	夏莉的炼金工房星愿券	夏莉的鍊金工房星願券	シャリーのアトリエ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Atelier Shallie - LEGEND FES.	使用该券可以在“夏莉的炼金工房 LEGEND FES”许下1次星愿。	可許下1次夏莉的鍊金工房 LEGEND FES星願的票券。
+312	挑戦券[シャリーのアトリエ]	Challenge Ticket [Atelier Shallie]	挑战券[夏莉的炼金工房]	挑戰券[夏莉的鍊金工房]	イベント「二人のシャリーと母の願い」に挑戦するために必要な券。	"Ticket required to participate in the ""Two Shallies and a Mother's Wish"" Event."	挑战“两个夏莉与母亲的心愿”活动所需的券。	挑戰活動「兩個夏莉與母親的願望」所需的票券。
+313	地下蜘蛛	Underground Spider	地下蜘蛛	地底蜘蛛	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+314	ライデンドラグーン	Raiden Dragonfly	雷电蜻蜓	雷電蜻蜓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+315	ベビーメナス	Baby Menace	炼狱龙幼体	麥納斯幼體	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+316	イグルワーム	Iguru Worm	伊戈尔蠕虫	伊葛魯蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+317	マインアント	Mine Ant	矿蚁	礦蟻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+318	地下女王蜘蛛	Underground Spider Queen	地下女王蜘蛛	地底蜘蛛女王	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+319	ファントムバタフライ	Phantom Butterfly	魅影蝶	幻影蝶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+320	水晶のかけら	Crystal Shard	水晶碎片	水晶碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+321	フーレエルズ	Fuerels	风焦石	弗雷埃爾茲礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+322	紅い原石	Rouge Gemstone	赤红原石	赤紅原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+323	蒼い原石	Blue Gemstone	苍蓝原石	蒼藍原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+324	夢想石	Dream Stone	梦想石	夢想石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+325	眩い水晶のかけら	Dazzling Crystal Shard	闪耀水晶碎片	閃耀水晶碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+326	虹色の水晶片	Rainbow Crystal	彩虹水晶片	七色水晶片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+327	ソフレソース	Sofle Sauce	蓬松水	索伏雷液	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+328	地底水	Groundwater	地底水	地底水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+329	療養水	Cure Water	疗养水	療養水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+330	シュトロムヴァッサー	Stromwasser	电气水	暴風之水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+331	フーレシュメーレ	Fureshumere	多须鲇	鮮活泥鰍	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+332	チークフィッシュ	Cheek Fish	鼓颊鱼	臉頰魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+333	リードフィッシュ	Reed Fish	利多鱼	領頭魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+334	幽暗魚	Gloomy Fish	幽暗鱼	幽暗魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+335	何かのぬけがら	Unknown Husk	不知名的空壳	不知名的空殼	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+336	とげとげの実	Spiky Fruit	尖刺果实	尖刺果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+337	何かのタマゴ	Unknown Egg	不知名的蛋	不知名的蛋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+338	チャミーバブル	Chummy Bubbles	风火泡沫	迷人泡泡	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+339	青とげの実	Green Spiky Fruit	绿尖刺果实	綠色尖刺果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+340	純白の砂	Pure White Sand	纯白之沙	純白砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+341	金とげの実	Gold Spiky Fruit	金尖刺果实	金色尖刺果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+342	オーロラツリー	Aurora Tree	极光树	極光樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+343	クッキーコイン	Cookie Coin	曲奇硬币	餅乾硬幣	「週末！クッキーミッション」交換所で使用できるアイテム。	"Exchange for items at the ""Weekend! Cookie Missions"" Exchange."	可以在“周末！曲奇任务”兑换所使用的道具。	可於「週末！餅乾任務」兌換所使用的道具。
+345	バトルコイン	Battle Coin	战斗硬币	戰鬥硬幣	「二人のシャリーと母の願い」交換所で使用できるアイテム。	"Exchange for items at the ""Two Shallies and a Mother's Wish"" Exchange."	可以在“两个夏莉与母亲的心愿”兑换所使用的道具。	可於「兩個夏莉與母親的願望」兌換所使用的道具。
+346	鉱石かぼちゃ	Ore Pumpkin	矿石南瓜	礦石南瓜	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+347	百色貝の貝がら	Hundred Color Shell	百色贝的贝壳	百色貝的貝殼	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+348	おおがさ木イチゴ	Umbrella Tree Strawberry	大伞木莓	大傘木莓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+349	絶滅寸前の薬草	Endangered Herb	濒临绝种的药草	瀕臨絕種的藥草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+350	星核	Star Core	星核	星核	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+351	古ぼけた宝箱	Old Treasure Chest	陈旧的宝箱	陳舊的寶箱	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+352	ホワイトフライ	Whitefly	雪白飞虫	白色飛蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+353	ヒョウセツカブト	Glacial Beetle	冰雪甲虫	冰雪甲蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+354	アイスホッパー	Ice Hopper	寒气蝗虫	寒冰蚱蜢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+355	スノーフレイク	Snowflake	飞雪瓢虫	霜雪碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+356	パラサイト・モルグ	Parasite Isopod	寄生虫	寄生蟲‧死靈	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+357	アイシクルフライ	Icicle Fly	冰柱飞虫	冰柱飛蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+358	ウォームマンティス	Warm Mantis	温暖螳螂	溫熱螳螂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+359	エルテ	Erte	树枝	艾爾特	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+360	ブロンエクレトン	Bronekeleton	洁白光辉	白色光輝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+361	薫木の皮	Incense Bark	熏木的树皮	薰木的樹皮	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+362	浄化の木片	Purification Block	净化木片	淨化木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+363	フリーズツリー	Frozen Tree	冰冻树干	冰結樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+364	ネージュエルテ	Neige Erte	积雪树枝	冰雪艾爾特	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+365	ジェルアルブル	Gel Arbre	寒霜枝桠	果凍樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+366	光る結晶	Shining Crystal	发光结晶	發光結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+367	零氷石	Absolute Zero Stone	零冰石	零冰石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+368	ディアマント原石	Diamant Ore	钻石原石	鑽石原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+369	透輝石	Diopside	透辉石	透輝石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+370	凍てつく水	Freezing Water	冻结水	冰結水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+371	万年霧氷	Eternal Ice	万年雾冰	萬年霧冰	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+372	吹雪く水	Blizzard Water	暴风水	雪暴水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+373	不凍のしずく	Antifreeze Drop	不冻水滴	不凍之露	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+374	泥だんご	Mud Ball	泥丸子	泥丸子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+375	きまぐれいちご	Whimsy Strawberry	任性莓	隨興草莓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+376	きふじんのこしかけ	Duchess Shroom	贵妇杌	貴婦椅	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+377	雪の女王	Snow Queen	雪之女王	雪之女王	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+378	灰だんご	Ash Ball	灰丸子	灰丸子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+379	深碧きのこ	Marine Green Mushroom	深碧菌菇	深碧菌菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+380	金のだんご	Gold Ball	金丸子	金丸子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+381	ハイリヒブルーメ	Heilige Blume	神圣花朵	神聖之花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+382	赤の光玉Ⅳ	Glowing Red Orb IV	红色光玉IV	紅光玉IV	赤の力を多く秘めた玉。\nボードのパネル解放に使用できる。	An orb with a great deal of Red Power. Can be used to unlock board panels.	蕴含许多红之力的玉石。\n可用于解锁星图的面板。	蘊藏大量紅之力的玉。\n可以用來解鎖星圖的面板。
+383	青の光玉Ⅳ	Glowing Blue Orb IV	蓝色光玉IV	藍光玉IV	青の力を多く秘めた玉。\nボードのパネル解放に使用できる。	An orb with a great deal of Blue Power. Can be used to unlock board panels.	蕴含许多蓝之力的玉石。\n可用于解锁星图的面板。	蘊藏大量青之力的玉。\n可以用來解鎖星圖的面板。
+384	黄の光玉Ⅳ	Glowing Yellow Orb IV	黄色光玉IV	黃光玉IV	黄の力を多く秘めた玉。\nボードのパネル解放に使用できる。	An orb with a great deal of Yellow Power. Can be used to unlock board panels.	蕴含许多黄之力的玉石。\n可用于解锁星图的面板。	蘊藏大量黃之力的玉。\n可以用來解鎖星圖的面板。
+385	緑の光玉Ⅳ	Glowing Green Orb IV	绿色光玉IV	綠光玉IV	緑の力を多く秘めた玉。\nボードのパネル解放に使用できる。	An orb with a great deal of Green Power. Can be used to unlock board panels.	蕴含许多绿之力的玉石。\n可用于解锁星图的面板。	蘊藏大量綠之力的玉。\n可以用來解鎖星圖的面板。
+386	紫の光玉Ⅳ	Glowing Purple Orb IV	紫色光玉IV	紫光玉IV	紫の力を多く秘めた玉。\nボードのパネル解放に使用できる。	An orb with a great deal of Purple Power. Can be used to unlock board panels.	蕴含许多紫之力的玉石。\n可用于解锁星图的面板。	蘊藏大量紫之力的玉。\n可以用來解鎖星圖的面板。
+387	新章記念 双璧の騎士ガチャチケット	New Chapter: Paragon Knights Wish Ticket	新章节纪念 双璧骑士星愿券	新章節紀念 雙璧之騎士星願券	新章記念 双璧の騎士 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: Paragon Knights - LEGEND FES.	使用该券可以在“新章节纪念 双璧骑士 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 雙璧之騎士 LEGEND FES星願的票券。
+388	VALENTINE2024ガチャチケット	VALENTINE 2024 Wish Ticket	VALENTINE 2024星愿券	VALENTINE 2024星願券	VALENTINE2024 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the VALENTINE 2024 - LEGEND FES.	使用该券可以在“VALENTINE 2024 LEGEND FES”许下1次星愿。	可許下1次VALENTINE 2024 LEGEND FES星願的票券。
+389	記憶の鍵	Key of Memories	记忆之钥	記憶之鑰	冒険の記憶を紐解く鍵。\n復刻イベントの解放に使用できる。	A key that unravels memories of adventure. Can be used to unlock revival events.	解锁冒险记忆的钥匙。\n用于解锁复刻活动。	解開冒險記憶的鑰匙。\n可用於解鎖復刻活動。
+390	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+391	イベントBOXガチャ券[チョコレートミックス]	Event Boon Box Ticket [Chocolate Mix]	活动星运宝箱券[混合巧克力]	活動星運寶箱券[綜合巧克力]	「乙女たちのチョコレートミックス」のイベントBOXガチャで使用できるアイテム。	"An item that can be used for the ""Valentine's Chocolate Mix"" Event Boon Boxes."	可以在“少女们的混合巧克力”的活动星运宝箱中使用的道具。	可於「少女們的綜合巧克力」的活動星運寶箱使用的道具。
+392	スウィートフラワー	Sweet Flower	甜蜜花	甜蜜花朵	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+393	スウィートリーフ	Sweet Leaf	甜蜜叶	甜蜜葉子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+394	スウィートミルク	Sweet Milk	甜蜜奶	甜蜜鮮奶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+395	スウィートピース	Sweet Pieces	甜蜜碎片	甜蜜碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+396	スウィートバタフライ	Sweet Butterfly	甜蜜蝴蝶	甜蜜蝴蝶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+397	スウィートフィッシュ	Sweet Fish	甜蜜鱼	甜蜜魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+398	挑戦券[チョコレートミックス]	Challenge Ticket [Chocolate Mix]	挑战券[混合巧克力]	挑戰券[綜合巧克力]	イベント「乙女たちのチョコレートミックス」に挑戦するために必要な券。	"Ticket required to participate in the ""Valentine's Chocolate Mix"" Event."	挑战“少女们的混合巧克力”活动所需的券。	挑戰活動「少女們的綜合巧克力」所需的票券。
+399	アーランドの錬金術士ガチャチケット	The Alchemist of Arland Wish Ticket	亚兰德之炼金术士星愿券	亞蘭德之鍊金術士星願券	アーランドの錬金術士 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in The Alchemist of Arland - LEGEND FES.	使用该券可以在“亚兰德之炼金术士 LEGEND FES”许下1次星愿。	可許下1次亞蘭德之鍊金術士 LEGEND FES星願的票券。
+400	目覚めた災厄ガチャチケット	The Awakened Calamity Wish Ticket	苏醒的灾厄星愿券	覺醒的災厄星願券	決戦 LEGEND FES 目覚めた災厄を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES The Awakened Calamity.	使用该券可以在“决战 LEGEND FES 苏醒的灾厄”许下1次星愿。	可許下1次決戰 LEGEND FES 覺醒的災厄星願的票券。
+401	ダンジョンコイン	Dungeon Coin	迷宫硬币	迷宮硬幣	「アーランドの錬金術士 〜迷子の少女と雪の帰り道〜」交換所で使用できるアイテム。	"Exchange for items at the ""The Alchemist of Arland: The Lost Girl & the Snowy Road Home"" Exchange."	可以在“亚兰德之炼金术士 ～迷路的少女和皑皑回家路～”兑换所使用的道具。	可於「亞蘭德之鍊金術士 ～迷路少女與雪中歸途～」兌換所使用的道具。
+402	挑戦券[アーランドの錬金術士]	Challenge Ticket [The Alchemist of Arland]	挑战券[亚兰德之炼金术士]	挑戰券[亞蘭德之鍊金術士]	イベント「アーランドの錬金術士 〜迷子の少女と雪の帰り道〜」に挑戦するために必要な券。	"Ticket required to participate in the ""The Alchemist of Arland: The Lost Girl & the Snowy Road Home"" Event."	挑战“亚兰德之炼金术士 ～迷路的少女和皑皑回家路～”活动所需的券。	挑戰活動「亞蘭德之鍊金術士 ～迷路少女與雪中歸途～」所需的票券。
+403	グラビ石	Gravistone	重力石	重力石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+404	虹のかけら	Rainbow Fragment	彩虹碎片	彩虹碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+405	ペンデローク	Pendelook	梨形宝石	梨形寶石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+406	調合コイン[ノーマル]	Synthesis Coin [Normal]	调合币[普通]	調合硬幣[普通]	「半周年前夜祭！調合ボーナスキャンペーン」交換所で使用できるアイテム。	"Exchange for items at the ""Half-Year Anniversary Prelude! Synthesis Bonus Campaign"" Exchange."	可以在“半周年前夜祭！调合奖励活动”兑换所使用的道具。	可於「半週年前夜祭！調合獎勵活動」兌換所使用的道具。
+407	調合コイン[レア]	Synthesis Coin [Rare]	调合币[稀有]	調合硬幣[稀有]	「半周年前夜祭！調合ボーナスキャンペーン」交換所で使用できるアイテム。	"Exchange for items at the ""Half-Year Anniversary Prelude! Synthesis Bonus Campaign"" Exchange."	可以在“半周年前夜祭！调合奖励活动”兑换所使用的道具。	可於「半週年前夜祭！調合獎勵活動」兌換所使用的道具。
+408	やせた果実	Thin Fruit	贫瘠果实	貧瘠果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+409	大きな骨	Large Bone	大骨	大骨	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+410	エイグルフリュイ	Aigre Fruit	艾格尔果实	鷲鷹果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+411	群体きのこ	Mushroom Colony	群生蘑菇	群生蘑菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+412	熟した果実	Ripe Fruit	成熟果实	成熟果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+413	アカネゴケ	Crimson Moss	赤苔	茜苔	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+414	黄金の果実	Golden Fruit	黄金果实	黃金果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+415	幻のタマゴ	Phantom Egg	诡异蛋	幻之蛋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+416	ソプラノコオロギ	Soprano Cricket	女高音蟋蟀	女高音蟋蟀	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+417	ディソワフルール	Du Soir Fleur	夜之花	迪索瓦花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+418	古びた木片	Aged Wood Cut	古旧木片	古老木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+419	アイゼン鉱	Eisen Ore	艾森矿	艾森礦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+420	ストーンアント	Stone Ant	石蚁	石蟻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+421	変異トーン	Mutant Taun	变异草	變異通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+422	シニストランク	Sinister Trunk	幽蓝树干	西尼斯枝幹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+423	アンウェワーム	Unaware Worm	匿踪蠕虫	昂維蠕蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+424	カスミソウ	Baby's Breath	霞草	霞草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+425	柔鉄鉱	Soft Iron Ore	柔铁矿	柔鐵礦	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+426	バスコオロギ	Bass Cricket	男低音蟋蟀	男低音蟋蟀	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+427	ミニュイフルール	Minuit Fleur	暗夜花	深夜花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+428	ジンビオーズ	Symbiose	共生树	金比奧茲樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+429	王古虫	Ancient Bug	王古虫	王古蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+430	夜光花	Nightglow Flower	夜光花	夜光花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+431	エッグストーン	Egg Stone	蛋化石	蛋化石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+432	タートルバグ	Turtle Bug	虹龟虫	烏龜蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+433	しなるつる	Supple Vine	柔韧藤蔓	柔韌藤蔓	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+434	悠久の枝	Eternal Branch	悠久树枝	悠久樹枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+435	エンジェルスパイダー	Angel Spider	天使蛛	天使蜘蛛	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+436	アカキシクサ	Crimson Knight Herb	红骑士草	紅騎士草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+437	碧剛石	Green Crystal	碧刚石	碧剛石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+438	メモリア交換券[半周年記念]	Memoria Exchange Ticket [Half-Anniversary]	回忆兑换券[半周年纪念]	回憶兌換券［半週年紀念］	「半周年記念プレゼントバトル」交換所で使用できるアイテム。	"Exchange for items at the ""Half-Year Anniversary Present Battle"" Exchange."	可以在“半周年纪念赠礼战斗”兑换所使用的道具。	可於「半週年紀念獻禮戰鬥」兌換所使用的道具。
+439	チャレンジコイン[ジェロン]	Challenge Coin [Geron]	挑战币[杰隆]	挑戰硬幣［傑隆］	「チャレンジバトル ジェロン」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Geron"" Exchange."	可以在“挑战战斗 杰隆”兑换所使用的道具。	可於「挑戰戰鬥 傑隆」兌換所使用的道具。
+440	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+441	それぞれの覚悟ガチャチケット	Everyone's Resolve Wish Ticket	各自的决心星愿券	各自的決心星願券	決戦 LEGEND FES それぞれの覚悟を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES Everyone's Resolve.	使用该券可以在“决战 LEGEND FES 各自的决心”许下1次星愿。	可許下1次決戰 LEGEND FES 各自的決心星願的票券。
+442	最後の日ガチャチケット	Last Day Wish Ticket	终结之日星愿券	最後一日星願券	決戦 LEGEND FES 最後の日を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES Last Day.	使用该券可以在“决战 LEGEND FES 终结之日”许下1次星愿。	可許下1次決戰 LEGEND FES 最後一日星願的票券。
+443	半周年記念プレゼントバトル招待状	Half-Year Anniversary Present Battle Invitation	半周年纪念赠礼战斗邀请函	半週年紀念獻禮戰鬥邀請函	「半周年記念プレゼントバトル」のクエストを解放するためのアイテム。	An item used to unlock quests during the Half-Year Anniversary Present Battle.	用于解锁“半周年纪念赠礼战斗”挑战的道具。	用來解鎖「半週年紀念獻禮戰鬥」挑戰的道具。
+444	チャレンジコイン[ララ]	Challenge Coin [Lara]	挑战币[拉拉]	挑戰硬幣［拉拉］	「チャレンジバトル ララ」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Lara"" Exchange."	可以在“挑战战斗 拉拉”兑换所使用的道具。	可於「挑戰戰鬥 拉拉」兌換所使用的道具。
+445	青い悪魔	Blue Devil	蓝色恶魔	藍色惡魔	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+446	リドルバブル	Riddle Bubble	神秘泡沫	謎語泡泡	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+447	赤い悪魔	Red Devil	红色恶魔	紅色惡魔	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+448	とんがり辛子	Sharp Pepper	刺辣子	刺辣子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+449	シャイネスフラワー	Shyness Flower	含羞花	含羞花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+450	シュラブ	Crab	灌木蟹	灌木蟹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+451	フラウリーウッド	Flowery Wood	繁花木	帶花木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+452	雲綿花	Cotton Flower	云绵花	雲綿花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+453	リーフィッシュ	Leafish	绿叶鱼	葉鱗魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+454	善なるうねり樹	Benevolent Twisted Tree	善良盘曲树	善心曲樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+455	魔法の草	Magic Herb	魔法草	魔法草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+456	アヴィヨンフィッシュ	Avion Fish	飞蝶鱼	蝶翅魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+457	薫る木片	Fragrant Wood Cut	芳香木片	芬芳木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+458	アンエルフラワー	Unyielding Flower	不屈花	安業爾花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+459	キングシュラブ	King Crab	王灌木蟹	國王灌木蟹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+460	ウンショイト	Unschuld	无垢树皮	純潔木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+461	土かぶり	Mudhead	盖土菇	蓋土菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+462	きれいな貝殻	Pretty Shells	美丽贝壳	美麗貝殼	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+463	悲哀の叫び	Wail of Sorrow	悲伤呐喊	悲哀的吶喊	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+464	ペイントストーン	Paint Stone	彩绘石	彩繪石頭	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+465	クラルクリスタル	Clarté Crystal	明亮水晶	治癒水晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+466	蛍光花	Fluorescent Flower	荧光花	螢光花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+467	グラコフィッシュ	Drakon Fish	龙海马	古拉寇魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+468	畜輝石	Luminous Stone	畜辉石	畜輝石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+469	アルドピルム	Ard Pirum	大地梨花	阿爾多碧姆花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+470	チクチク	Prickprick	扎扎鱼	刺刺	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+471	球棘岩	Flail Rock	球棘岩	球棘岩	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+472	デザートステラ	Desert Stella	沙漠之星	蝶札朵星花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+473	なまけぬし	Slothfish	怠惰之主	懶懶鯰魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+474	擬花石	Petalstone	拟花石	擬花石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+475	チャレンジコイン[鴉]	Challenge Coin [Crow]	挑战币[鸦]	挑戰硬幣［烏鴉］	「チャレンジバトル 鴉」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Crow"" Exchange."	可以在“挑战战斗 鸦”兑换所使用的道具。	可於「挑戰戰鬥 烏鴉」兌換所使用的道具。
+476	レスレリ学園 入学編ガチャチケット	Resleriana Academy - Admission Arc Wish Ticket	蕾斯莱莉娅娜学园 入学篇星愿券	蕾斯萊莉婭娜學園 入學篇星願券	レスレリ学園 LEGEND FES 入学編を1回引くことができるチケット。	A ticket that allows you to make a wish in the Resleriana Academy - LEGEND FES Admission Arc.	使用该券可以在“蕾斯莱莉娅娜学园 LEGEND FES 入学篇”许下1次星愿。	可許下1次蕾斯萊莉婭娜學園 LEGEND FES 入學篇星願的票券。
+477	学園コイン	Academy Coin	学园硬币	學園硬幣	イベント「マリー先生の放課後ミッション！」交換所で使用できるアイテム。	"Exchange for items at the ""Ms. Marie's After-School Missions!"" Exchange."	可以在活动“玛莉老师的课外任务！”\n兑换所使用的道具。	可於活動「瑪莉老師的課後任務！」兌換所中使用的道具。
+478	バトルコイン[学園第1弾]	Battle Coin [Academy Part 1]	战斗硬币[学园第1弹]	戰鬥硬幣[學園第1彈]	イベント「レスレリ学園 ～退学！？　いきなり大ピンチ～」交換所で使用できるアイテム。	"Exchange for items at the ""Resleriana Academy - Expelled?! Suddenly in Big Trouble!"" Exchange."	可以在活动“蕾斯莱莉娅娜学园 ～退学？！突如其来的危机～”\n兑换所使用的道具。	可於活動「蕾斯萊莉婭娜學園 ～退學！？　突如其來的巨大危機～」兌換所中使用的道具。
+479	挑戦券[学園]	Challenge Ticket [Academy]	挑战券[学园]	挑戰券[學園]	イベント「レスレリ学園」に挑戦するために必要な券。	"Ticket required to participate in the ""Resleriana Academy"" Event."	挑战“蕾斯莱莉娅娜学园”活动所需的券。	挑戰活動「蕾斯萊莉婭娜學園」所需的票券。
+480	鎖グモの巣	Chainweb	锁链蜘蛛的巢	鎖鏈蜘蛛的巢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+481	魔導書の切れ端	Magic Tome Piece	魔导书残页	魔導書殘頁	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+482	サワーアップル	Sour Apple	沙瓦金苹果	沙瓦金蘋果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+483	学園うに	Academy Uni	学园海胆	學園海膽	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+484	学園トーン	Academy Taun	学园唐木叶	學園通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+485	学園の伝承花	Academy Legendary Flower	学园传承花	學園的傳承花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+487	イベントポイント[学園]	Event Point [Academy]	活动积分[学园]	活動點數[學園]	イベント「ザスキア先生の新入生歓迎ミッション！」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""Ms. Saskia's Welcome Missions for New Students!"" Event."	在活动“萨丝琪亚老师的迎新任务！”中获得报酬所需的积分。	活動[薩絲琪亞老師的迎新任務！]中獲得報酬所需的點數。
+488	レスレリ学園 錬金祭編ガチャチケット	Resleriana Academy - Alchemy Festival Arc Wish Ticket	蕾斯莱莉娅娜学园 炼金庆典篇星愿券	蕾斯萊莉婭娜學園 鍊金祭篇星願券	レスレリ学園 LEGEND FES 錬金祭編を1回引くことができるチケット。	A ticket that allows you to make a wish in the Resleriana Academy - LEGEND FES Alchemy Festival Arc.	使用该券可以在“蕾斯莱莉娅娜学园 LEGEND FES 炼金庆典篇”许下1次星愿。	可許下1次蕾斯萊莉婭娜學園 LEGEND FES 鍊金祭篇星願的票券。
+489	バトルコイン[学園第2弾]	Battle Coin [Academy Part 2]	战斗硬币[学园第2弹]	戰鬥硬幣[學園第2彈]	イベント「レスレリ学園 ～激闘の錬金祭！～」交換所で使用できるアイテム。	"Exchange for items at the ""Resleriana Academy - An Intense Alchemy Festival!"" Exchange."	可以在活动“蕾斯莱莉娅娜学园 ～难解难分的炼金庆典！～”\n兑换所使用的道具。	可於活動「蕾斯萊莉婭娜學園 ～激戰的鍊金祭！～」兌換所中使用的道具。
+490	夢見る王冠	Dreamy Crown	梦想的王冠	夢想的王冠	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+491	土忍び	Tsuchishinobi	土忍	土忍	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+492	風船の実	Balloon Fruit	气球果实	氣球果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+493	学園きのこ	Academy Mushroom	学园蘑菇	學園菌菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+494	学園小魚	Academy Small Fish	学园小鱼	學園小魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+495	学園のシンボルリーフ	Academy Symbol Leaf	学园象征之叶	學園的象徵葉片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+496	レスレリ学園 対抗戦編ガチャチケット	Resleriana Academy - Tournament Arc Wish Ticket	蕾斯莱莉娅娜学园 对抗赛篇星愿券	蕾斯萊莉婭娜學園 對抗賽篇星願券	レスレリ学園 LEGEND FES 対抗戦編を1回引くことができるチケット。	A ticket that allows you to make a wish in the Resleriana Academy - LEGEND FES Tournament Arc.	使用该券可以在“蕾斯莱莉娅娜学园 LEGEND FES 对抗赛篇”许下1次星愿。	可許下1次蕾斯萊莉婭娜學園 LEGEND FES 對抗賽篇星願的票券。
+497	瓶入りミルク	Bottled Milk	瓶装牛奶	瓶裝鮮奶	ランターナでとれた新鮮な牛乳。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	Fresh milk made in Lantarna. Can be used to recover stamina. Make sure to drink up before it goes bad!	产自兰塔纳当地的新鲜牛奶。\n可用于恢复体力。\n※保质期短，请尽快饮用。	在蘭塔納取得的新鮮牛奶。\n可用來回復精力。\n※保存期限很短，請盡快飲用。
+498	バトルコイン[学園第3弾]	Battle Coin [Academy Part 3]	战斗硬币[学园第3弹]	戰鬥硬幣[學園第3彈]	イベント「レスレリ学園 ～影より見守りし\n君へ～」交換所で使用できるアイテム。	"Exchange for items at the ""Resleriana Academy - To My Protector among the Shadows"" Exchange."	可以在活动“蕾斯莱莉娅娜学园 ～致暗中守望的你～”\n兑换所使用的道具。	可於活動「蕾斯萊莉婭娜學園\n～致在暗處守護我的你～」兌換所中使用的道具。
+499	サラート	Salat	色拉草	沙拉草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+500	破れた破片	Paper Scraps	破损碎片	破碎的碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+501	祝福のハネ	Blessed Feather	祝福羽毛	祝福羽毛	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+502	学園タマゴ	Academy Egg	学园蛋	學園蛋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+503	学園セイタカトーン	Academy Tall Taun	学园长颈通草	學園長頸通草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+504	学園のシンボルツリー	Academy Symbolic Tree	学园象征之树	學園的象徵樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+505	癒しくつろぎ温泉ガチャチケット	Healing & Relaxing Hot Springs Wish Ticket	休养怡心温泉星愿券	療癒舒心溫泉星願券	癒しくつろぎ温泉 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Healing & Relaxing Hot Springs - LEGEND FES.	使用该券可以在“休养怡心温泉 LEGEND FES”许下1次星愿。	可許下1次療癒舒心溫泉 LEGEND FES星願的票券。
+506	挑戦券[温泉奪還作戦！]	Challenge Ticket [Operation: Take Back the Hot Springs!]	挑战券[夺回温泉作战！]	挑戰券[奪回溫泉作戰！]	イベント「温泉奪還作戦！ ～ととのいと癒しを求めて～」に挑戦するために必要な券。	"Ticket required to participate in ""Operation: Take Back the Hot Springs! In Search of Clarity and Comfort."""	挑战“夺回温泉作战！ ～陶醉与治愈之旅～”活动所需的券。	挑戰活動「奪回溫泉作戰！ ～追求通體舒暢與治癒～」所需的票券。
+507	イベントBOXガチャ券[温泉奪還作戦！]	Event Boon Box Ticket [Operation: Take Back the Hot Springs!]	活动星运宝箱券[夺回温泉作战！]	活動星運寶箱券[奪回溫泉作戰！]	「温泉奪還作戦！ ～ととのいと癒しを求めて～」のイベントBOXガチャで使用できるアイテム。	"An item that can be used for the ""Operation: Take Back the Hot Springs! In Search of Clarity and Comfort"" Event Boon Boxes."	可以在“夺回温泉作战！ ～陶醉与治愈之旅～”的活动星运宝箱中使用的道具。	可於「奪回溫泉作戰！ ～追求通體舒暢與治癒～」的活動星運寶箱使用的道具。
+508	湯けむりタマゴ	Spring-Steamed Egg	氤氲蛋	熱氣蛋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+509	湯けむりホロ苦ミルク	Spring-Steamed Bitter Milk	氤氲微苦牛奶	熱氣微苦鮮奶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+510	湯けむり源泉の水	Steamy Spring Water	氤氲源泉水	熱氣源泉水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+511	湯けむりフィッシュ	Spring-Steamed Fish	氤氲鱼	熱氣魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+512	湯けむりスチームストーン	Spring Steam Stones	氤氲蒸汽石	熱氣蒸氣石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+513	湯けむりシトラス	Spring-Steamed Citrus	氤氲柑橘	熱氣柑橘	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+514	新章記念 海の男の門出ガチャチケット	New Chapter: The Seafarer's New Beginning Wish Ticket	新章节纪念 海上男儿将远行星愿券	新章節紀念 海上男兒的旅程星願券	新章記念 海の男の門出 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: The Seafarer's New Beginning - LEGEND FES.	使用该券可以在“新章节纪念 海上男儿将远行 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 海上男兒的旅程 LEGEND FES星願的票券。
+516	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+517	大武闘大会コイン	Grand Tournament Coin	大武斗大会硬币	大武鬥大會硬幣	イベント「ロマン大武闘大会」交換所で使用できるアイテム。	"Exchange for items at the ""Roman's Grand Tournament"" Exchange."	可以在活动“罗曼的大武斗大会”\n兑换所使用的道具。	可於活動「羅曼大武鬥大會」兌換所中使用的道具。
+518	巨獣の化石	Beast Fossil	巨兽化石	巨獸化石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+519	ニガアマウリ	Bitter Melon	苦甜瓜	苦甜瓜	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+520	変なぬけがら	Strange Husk	奇怪的空壳	奇怪的空殼	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+521	毒かぶり	Poisonhead	盖毒菇	蓋毒菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+522	死神のくちづけ	Reaper's Kiss	死神之吻	死神之吻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+523	ハニーメロン	Honey Melon	甜蜜瓜	甜蜜瓜	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+524	グリュクフート	Glück Frucht	幸运果	幸運柑果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+525	パシオンフュイユ	Passion Feuille	情热果	炎陽鳳梨花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+526	デザートブロック	Desert Block	沙漠晶石	沙漠之塊	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+527	デザートストン	Desert Stone	沙漠石	沙漠之石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+528	オアシスウォーター	Oasis Water	绿洲之水	綠洲之水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+529	薬木の根っこ	Med Tree Root	药木的树根	藥木的樹根	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+530	焼砂石	Scorched Sandstone	烧砂石	燒砂石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+531	凝砂石	Tuff Sandstone	凝砂石	凝砂石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+532	湖底の溜まり	Sea Puddle	湖底的沉积物	湖底的沉積物	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+533	藍灰砂	Ashen Blue Sand	蓝灰砂	藍灰砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+534	サクレミヌレ	Sacre Minerai	神圣矿石	神聖礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+535	不蒸のしずく	Everdry Drop	不蒸水滴	不蒸之露	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+536	ストレンジブロック	Strange Block	黛绿晶石	怪奇之塊	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+537	ベイルフルストン	Baleful Stone	不祥晶石	致命玫瑰石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+538	生きたサボテン	Living Cactus	活着的仙人掌	活著的仙人掌	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+539	黒砂	Black Sand	黑砂	黑砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+540	黒輝石	Black Shining Stone	黑辉石	黑輝石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+541	フヨプヨリーフ	Fuyo Puyo Leaf	肉肉叶	彈力石蓮花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+542	ATELIER 27th ガチャチケット	ATELIER 27th Wish Ticket	ATELIER 27th星愿券	ATELIER 27th星願券	ATELIER 27th LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the ATELIER 27th - LEGEND FES.	使用该券可以在“ATELIER 27th LEGEND FES”许下1次星愿。	可許下1次ATELIER 27th LEGEND FES星願的票券。
+543	挑戦券[ランターナ建国記念杯]	Challenge Ticket [Lantarna Founding Anniversary Cup]	挑战券[兰塔纳建国纪念杯]	挑戰券[蘭塔納建國紀念盃]	イベント「ランターナ建国記念杯」に挑戦するために必要な券。	"Ticket required to participate in the ""Lantarna Founding Anniversary Cup"" Event."	挑战“兰塔纳建国纪念杯”活动所需的券。	挑戰活動「蘭塔納建國紀念盃」所需的票券。
+544	決戦コイン	Challenge Coin	决战硬币	決戰硬幣	イベント「ランターナ建国記念杯」交換所で使用できるアイテム。	"Exchange for items at the ""Lantarna Founding Anniversary Cup"" Exchange."	可以在活动“兰塔纳建国纪念杯”\n兑换所使用的道具。	可於活動「蘭塔納建國紀念盃」兌換所中使用的道具。
+545	地底湖の溜まり	Underground Lake Puddle	地底湖的沉积物	地底湖的沉積物	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+546	ナゾの木の実	Mysterious Fruit	不明树木果实	神祕的樹木果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+547	黄金色の岩	Golden Rock	黄金色之岩	黃金色之岩	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+548	滝つぼのしずく	Waterfall Basin Drop	瀑布潭水滴	瀑潭之露	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+549	金色の鮭	Golden Salmon	金色鲑鱼	金色鮭魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+550	常若のリンゴ	Everyoung Apple	青春苹果	常若蘋果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+552	新章記念 緋蒼の剣士ガチャチケット	New Chapter: Crimson and Azure Blades Wish Ticket	新章节纪念 绯苍剑士星愿券	新章節紀念 緋蒼劍士星願券	新章記念 緋蒼の剣士 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: Crimson and Azure Blades - LEGEND FES.	使用该券可以在“新章节纪念 绯苍剑士 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 緋蒼劍士 LEGEND FES星願的票券。
+553	乾いた根っこ	Dried Root	干燥根	乾燥根	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+554	貴婦人のヒゲ	Lady's Whiskers	贵妇人胡须	貴婦人鬍鬚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+555	ケムリキノコ	Smoke Fungus	烟雾菌菇	煙霧菌菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+556	魅惑の骨	Bewitching Bone	魅惑骸骨	魅惑之骨	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+557	豊かな根っこ	Rich Root	营养根	營養根	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+558	金色の糸毛	Golden Yarn	金色毛线	金色毛線	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+559	アトラフレグラ	Attrafragra	碧蓝花朵	旖旎花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+560	ファルシュフルト	Falschfurt	虚幻果实	虛偽之果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+561	キャニークレア	Caniculaire	常绿草	精明之葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+562	テイルゼンマイ	Tail Fern	紫萁尾	紫萁尾	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+563	かみつき草	Biting Grass	啃咬草	啃咬草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+564	トキシクレア	Toxiculaire	带毒草	劇毒之葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+565	威光花	Majestic Flower	威光花	威光花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+566	物見の樹	Lookout Tree	瞭望树	瞭望之樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+567	巨人の木切れ	Giant's Log	巨人木片	巨人木片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+568	悪なるうねり樹	Wicked Twisted Tree	邪恶盘曲树	惡意曲樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+569	鳥瞰樹	Bird's-Eye Tree	鸟瞰树	鳥瞰樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+570	ラップドシャフト	Wrapped Branch	盘绕长柄	纏繞木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+571	けものぬし	Beast Master	兽类之主	野獸之主	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+572	アジュムル	Azurmoule	湛蓝贝壳	天使之淚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+573	獰猛魚	Fierce Fish	凶暴鱼	凶猛魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+574	鉄混じりの石	Iron Mixed Stone	含铁石	含鐵石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+575	光輝のカケラ	Radiant Fragments	光辉碎片	光輝碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+576	模倣の逆さ石	Desimulacrum Stone	模仿逆石	模仿逆石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+577	竜の花嫁ガチャチケット	The Dragon's Bride Wish Ticket	龙的新娘星愿券	龍的新娘星願券	竜の花嫁 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in The Dragon's Bride - LEGEND FES.	使用该券可以在“龙的新娘 LEGEND FES”许下1次星愿。	可許下1次龍的新娘 LEGEND FES星願的票券。
+578	挑戦券[竜の涙は花と散る]	Challenge Ticket [The Dragon's Tears Fall Like Petals]	挑战券[龙之泪随花凋零]	挑戰券[龍之淚如花凋零]	イベント「竜の涙は花と散る」に挑戦するために必要な券。	"Ticket required to participate in the ""The Dragon's Tears Fall Like Petals"" Event."	挑战“龙之泪随花凋零”活动所需的券。	挑戰活動「龍之淚如花凋零」所需的票券。
+579	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+580	ブライドボンドフラワー	Bridal Bond Flower	婚礼捧花	新娘捧花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+581	ブライドフルーツ	Bridal Fruit	婚礼水果	新娘果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+582	ブライドバグ	Bridal Bug	婚礼瓢虫	新娘蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+583	ブライドラブフラワー	Bridal Love Flower	婚礼爱意之花	新娘愛花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+584	ブライドレインドロップ	Bridal Raindrop	婚礼雨滴	新娘雨露	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+585	ダンジョンコイン	Dungeon Coin	迷宫硬币	迷宮硬幣	イベント「竜の涙は花と散る」交換所で使用できるアイテム。	"Exchange for items at the ""The Dragon's Tears Fall Like Petals"" Exchange."	可以在活动“龙之泪随花凋零”\n兑换所使用的道具。	可於活動「龍之淚如花凋零」兌換所中使用的道具。
+586	イベントポイント[花嫁]	Event Points [Bride]	活动积分[新娘]	活動點數[新娘]	イベント「花嫁修行ミッション！」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""Bridal Training Missions!"" Event."	在活动“新娘修行任务！”中获得报酬所需的积分。	活動[新娘修行任務！]中獲得報酬所需的點數。
+587	バトルコイン[飛び出せオフィス！]	Battle Coin [Dash Out of the Office!]	战斗硬币[出动吧，公务员！]	戰鬥硬幣[奔出辦公室！]	イベント「事件発生！　飛び出せオフィス！」交換所で使用できるアイテム。	"Exchange for items at the ""Incident Alert! Dash Out of the Office!"" Exchange."	可以在“事件发生！出动吧，公务员！”兑换所使用的道具。	可於「發生事件！奔出辦公室！」兌換所使用的道具。
+588	挑戦券[飛び出せオフィス！]	Challenge Ticket [Dash Out of the Office!]	挑战券[出动吧，公务员！]	挑戰券[奔出辦公室！]	イベント「事件発生！　飛び出せオフィス！」に挑戦するために必要な券。	"Ticket required to participate in the ""Incident Alert! Dash Out of the Office!"" Event."	挑战“事件发生！出动吧，公务员！”活动所需的券。	挑戰活動「發生事件！奔出辦公室！」所需的票券。
+589	トロイモ	Taro	黏芋	黏芋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+590	蒼白の粘土	Pale Clay	苍白黏土	蒼白黏土	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+591	ホタル石	Fluorite	荧光石	螢光石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+592	リビングクレイ	Living Clay	活黏土	活黏土	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+593	ハニーポピー	Honey Poppy	蜂蜜罂粟花	蜂蜜罌粟花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+594	灼熱の熔鉱石	Scorching Ore	灼热熔矿石	灼熱熔礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+595	黄昏の開発班ガチャチケット	Dusk Development Team Wish Ticket	黄昏的开发组星愿券	黃昏的開發組星願券	黄昏の開発班 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Dusk Development Team - LEGEND FES.	使用该券可以在“黄昏的开发组 LEGEND FES”许下1次星愿。	可許下1次黃昏的開發組 LEGEND FES星願的票券。
+596	新章記念 影の潜入者ガチャチケット	New Chapter: Shadow Infiltrators Wish Ticket	新章节纪念 影之潜入者星愿券	新章節紀念 暗影潛入者星願券	新章記念 影の潜入者 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: Shadow Infiltrators - LEGEND FES.	使用该券可以在“新章节纪念 影之潜入者 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 暗影潛入者 LEGEND FES星願的票券。
+597	粘銀の糸	Silver Web	黏银丝	黏銀絲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+598	こんがりきのこ	Crispy Mushroom	焦菇	焦菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+599	土いも	Soil Potato	土薯	土薯	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+600	スポンジの実	Sponge Fruit	海绵果实	海綿果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+601	粘金の鋼糸	Gold Steel Web	黏金钢丝	黏金鋼絲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+602	アルタル	Altare	祭坛苔藓	祭壇蘚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+603	夢見るきのこ	Dream Mushroom	做梦蘑菇	作夢蘑菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+604	ブリーアフルー	Brillianfru	五彩果	高貴果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+605	リバーストン	Riverstone	河石	河石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+606	冷輝棘岩	Glacial Rock	冷辉棘岩	冷輝棘岩	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+607	リバーストン・蒼炎	Blue Flame Riverstone	河石·苍炎	河石‧蒼炎	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+608	マダラ石	Marbled Stone	斑石	斑石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+609	変異石の欠片	Mutastone Fragment	变异石碎片	變異石碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+610	泰然の切り株	Serene Stump	泰然树桩	泰然樹頭	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+611	腐した樹の枯れ枝	Withered Arbor Twig	腐烂树的枯枝	腐爛之木的枯枝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+612	自若の切り株	Tranquil Stump	自若树桩	自若樹頭	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+613	古の樹根	Ancient Root	古老树根	古老樹根	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+614	魔の木くず	Cursed Lumber	魔木屑	魔木屑	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+615	超常の湧水	Supernatural Springwater	超常涌泉	超常湧泉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+616	ビザールアクア	Bizarre Aqua	奇异之水	奇異之水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+617	おぼろ泥水	Murky Mudwater	朦胧泥水	混濁泥水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+618	ヴェイパーバタフライ	Vapor Butterfly	翠金蝴蝶	霧化蝶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+619	ゼログラホッパー	Zero-Gravity Hopper	金属蝗虫	無重力蚱蜢	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+620	アーンズアント	Arnz Ant	琥珀蚁	甕蟻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+621	アトリエサマー第1弾ガチャチケット	Atelier Summer Part 1 Wish Ticket	炼金工房盛夏 第1弹星愿券	鍊金工房盛夏 第1彈星願券	夏だ！水着だ！アトリエサマー2024 第1弾 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Summer! Swimsuits! Atelier Summer 2024 Part 1 - LEGEND FES.	使用该券可以在“夏天！泳装！ 炼金工房盛夏2024 第1弹 LEGEND FES”许下1次星愿。	可許下1次夏天！泳裝！鍊金工房盛夏2024 第1彈 LEGEND FES星願的票券。
+622	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+623	思い出の輝き	Spark of Memories	记忆辉石	回憶光輝	旅の思い出がほのかな輝きとなって宿る特別な石。\n交換所で使用できる。	A special stone imbued with the faint glow of travel memories. Can be used at the Exchange.	一种特殊的石头，旅途中的记忆化为微光蕴含于其中。\n可在兑换所使用。	這是一顆隱約閃耀著旅行回憶的特別石頭。\n可於兌換所使用。
+624	海の星	Sea Star	海洋之星	海洋之星	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+625	虹珊瑚	Prism Coral	彩虹珊瑚	彩虹珊瑚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+626	マーメイドの涙	Mermaid Tear	人鱼之泪	人魚之淚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+627	サマータイムうに	Summertime Uni	夏日海胆	夏令海膽	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+628	サマータイムフィッシュ	Summertime Fish	夏日鱼	夏令小丑魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+629	サマータイムツリー	Summertime Tree	夏日树	夏令棕櫚樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+630	海の家お買い物コイン	Beach House Shopping Coin	海边小屋购物币	海之家購物硬幣	イベント「アトリエサマー2024 水着DEリゾート！」交換所で使用できるアイテム。	"Exchange for items at the ""Atelier Summer 2024 Resort Swim Time!"" Exchange."	可以在“炼金工房盛夏2024 泳装假日！”兑换所使用的道具。	可於「鍊金工房盛夏2024 身穿泳裝去度假！」兌換所使用的道具。
+631	挑戦券[水着DEリゾート！]	Challenge Ticket [Resort Swim Time!]	挑战券[泳装假日！]	挑戰券[身穿泳裝去度假！]	イベント「アトリエサマー2024 水着DEリゾート！」に挑戦するために必要な券。	"Ticket required to participate in the ""Atelier Summer 2024 Resort Swim Time!"" Event."	挑战“炼金工房盛夏2024 泳装假日！”活动所需的券。	挑戰活動「鍊金工房盛夏2024 身穿泳裝去度假！」所需的票券。
+632	海の家建築資材袋	Beach House Construction Materials	海边小屋建筑材料袋	海之家建築材料袋	「海の家」のLEVEL UPに必要なアイテム。	An item required to level up the Beach House.	“海边小屋”升级所需道具。	「海之家」LEVEL UP所需道具。
+633	イベントポイント[アトリエサマー2024]	Event Points [Atelier Summer 2024]	活动积分[炼金工房盛夏2024]	活動點數[鍊金工房盛夏2024]	イベント「アトリエサマー2024 ミッション」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""Atelier Summer 2024 Missions"" Event."	活动“炼金工房盛夏2024 任务”中获得报酬所需的积分。	活動[鍊金工房盛夏2024 任務]中獲得報酬所需的點數。
+634	アトリエサマー第2弾ガチャチケット	Atelier Summer Part 2 Wish Ticket	炼金工房盛夏 第2弹星愿券	鍊金工房盛夏 第2彈星願券	夏だ！水着だ！アトリエサマー2024 第2弾 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Summer! Swimsuits! Atelier Summer 2024 Part 2 - LEGEND FES.	使用该券可以在“夏天！泳装！ 炼金工房盛夏2024 第2弹 LEGEND FES”许下1次星愿。	可許下1次夏天！泳裝！鍊金工房盛夏2024 第2彈 LEGEND FES星願的票券。
+635	海の家レンタルコイン	Beach House Rental Coin	海边小屋出租币	海之家租借硬幣	イベント「アトリエサマー2024 水着DEリゾート！」交換所で使用できるアイテム。	"Exchange for items at the ""Atelier Summer 2024 Resort Swim Time!"" Exchange."	可以在“炼金工房盛夏2024 泳装假日！”兑换所使用的道具。	可於「鍊金工房盛夏2024 身穿泳裝去度假！」兌換所使用的道具。
+636	海の家増築資材袋	Beach House Expansion Materials	海边小屋扩建材料袋	海之家增建材料袋	「海の家」のLEVEL UPに必要なアイテム。	An item required to level up the Beach House.	“海边小屋”升级所需道具。	「海之家」LEVEL UP所需道具。
+638	水樹の実	Water Tree Fruit	水树果实	水樹果實	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+639	石サンゴ	Stone Coral	石珊瑚	石珊瑚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+640	セイレーンの涙	Siren's Tear	海妖之泪	海妖之淚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+641	サマータイムきのこ	Summertime Mushroom	夏日菌菇	夏令菌菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+642	サマータイムオクトパス	Summertime Octopus	夏日大章鱼	夏令大章魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+643	サマータイムシェル	Summertime Shell	夏日贝壳	夏令螺貝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+644	アトリエサマー第3弾ガチャチケット	Atelier Summer Part 3 Wish Ticket	炼金工房盛夏 第3弹星愿券	鍊金工房盛夏 第3彈星願券	夏だ！水着だ！アトリエサマー2024 第3弾 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Summer! Swimsuits! Atelier Summer 2024 Part 3 - LEGEND FES.	使用该券可以在“夏天！泳装！ 炼金工房盛夏2024 第3弹 LEGEND FES”许下1次星愿。	可許下1次夏天！泳裝！鍊金工房盛夏2024 第3彈 LEGEND FES星願的票券。
+645	海のくさ	Sea Grass	海草	海草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+646	砂石	Sandstone	砂石	砂石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+647	リシリコ	Rishikelp	利西利藻	利西利藻	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+648	サマータイムスクウィッド	Summertime Squid	夏日鱿鱼	夏令魷魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+649	サマータイムフラワー	Summertime Flower	夏日花	夏令花朵	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+650	サマータイムフルーツ	Summertime Fruit	夏日水果	夏令水果	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+651	挑戦券[夜空に笑顔が咲いた夏]	Challenge Ticket [Summer Smiles under the Night Sky]	挑战券[夏夜中绽放的笑容]	挑戰券[笑容在夜空中綻放的夏天]	イベント「アトリエサマー2024 夜空に笑顔が咲いた夏」に挑戦するために必要な券。	"Ticket required to participate in the ""Atelier Summer 2024 Summer Smiles under the Night Sky"" Event."	挑战“炼金工房盛夏2024 夏夜中绽放的笑容”活动所需的券。	挑戰活動「鍊金工房盛夏2024 笑容在夜空中綻放的夏天」所需的票券。
+653	アトリエサマー第4弾ガチャチケット	Atelier Summer Part 4 Wish Ticket	炼金工房盛夏 第4弹星愿券	鍊金工房盛夏 第4彈星願券	夏だ！水着だ！アトリエサマー2024 第4弾 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Summer! Swimsuits! Atelier Summer 2024 Part 4 - LEGEND FES.	使用该券可以在“夏天！泳装！ 炼金工房盛夏2024 第4弹 LEGEND FES”许下1次星愿。	可許下1次夏天！泳裝！鍊金工房盛夏2024 第4彈 LEGEND FES星願的票券。
+654	1周年 星祈祭 光差す月影ガチャチケット	1st Anniversary Star Festival Radiant Moonlight Wish Ticket	1周年 星祈祭 月影渐明星愿券	1週年 星祈祭照耀月影星願券	1周年 星祈祭 LEGEND FES 光差す月影を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Star Festival - LEGEND FES Radiant Moonlight.	使用该券可以在“1周年 星祈祭 LEGEND FES 月影渐明”许下1次星愿。	可許下1次1週年 星祈祭LEGEND FES 照耀月影星願的票券。
+655	挑戦券[ビーチで宝探し！]	Challenge Ticket [Treasure Hunt at the Beach!]	挑战券[沙砾腾腾！沙滩寻宝！]	挑戰券[沙沙作響！　在海灘尋寶！]	イベント「アトリエサマー2024 ザクザク！　ビーチで宝探し！」に挑戦するために必要な券。	"Ticket required to participate in the ""Atelier Summer 2024: Treasure Hunt at the Beach!"" Event."	挑战“炼金工房盛夏2024 沙砾腾腾！沙滩寻宝！”活动所需的券。	挑戰活動「鍊金工房盛夏2024 沙沙作響！　在海灘尋寶！」所需的票券。
+656	海の家決戦コイン	Beach House Challenge Coin	海边小屋决战硬币	海之家決戰硬幣	イベント「アトリエサマー2024 水着DEリゾート！」交換所で使用できるアイテム。	"Exchange for items at the ""Atelier Summer 2024 Resort Swim Time!"" Exchange."	可以在“炼金工房盛夏2024 泳装假日！”兑换所使用的道具。	可於「鍊金工房盛夏2024 身穿泳裝去度假！」兌換所使用的道具。
+657	幸福のハネ	Happiness Feather	幸福羽毛	幸福羽毛	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+658	グレヌジョーヌ	Grainejaune	黄金坚果	鮮黃種子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+659	ジェイドエッグ	Jade Egg	翡翠蛋	翡翠蛋	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+660	宝石虫	Jewel Bug	宝石虫	寶石蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+661	トキシラセ	Timeteller	报时花	報時花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+662	クラゲタケ	Jellyshroom	水母菇	水母蘑菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+663	チャレンジコイン[ヨハナ]	Challenge Coin [Johanna]	挑战币[约翰娜]	挑戰硬幣［約翰娜］	イベント「チャレンジバトル ヨハナ」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Johanna"" Exchange."	可以在“挑战战斗 约翰娜”兑换所使用的道具。	可於「挑戰戰鬥 約翰娜」兌換所使用的道具。
+664	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+665	ダンジョンコイン	Dungeon Coin	迷宫硬币	迷宮硬幣	イベント「アトリエサマー2024 ザクザク！　ビーチで宝探し！」交換所で使用できるアイテム。	"Exchange for items at the ""Atelier Summer 2024: Treasure Hunt at the Beach!"" Exchange."	可以在“炼金工房盛夏2024 沙砾腾腾！沙滩寻宝！”兑换所使用的道具。	可於「鍊金工房盛夏2024 沙沙作響！　在海灘尋寶！」兌換所使用的道具。
+667	1周年 星祈祭 祈りと安らぎの花ガチャチケット	1st Anniversary Star Festival - Flowers of Blessed Serenity Wish Ticket	1周年 星祈祭 祈愿与痊愈之花星愿券	1週年 星祈祭 祈願與寧靜花星願券	1周年 星祈祭 LEGEND FES 祈りと安らぎの花を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Star Festival - LEGEND FES Flowers of Blessed Serenity.	使用该券可以在“1周年 星祈祭 LEGEND FES 祈愿与宁静之花”许下1次星愿。	可許下1次1週年 星祈祭 LEGEND FES 祈願與寧靜之花星願的票券。
+668	フィラト石	Pyrothite Stone	菲拉特叶石	絲線石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+669	玉水晶	Crystal Balls	玉水晶	玉水晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+670	ドライフラワー	Dried Flower	干燥花	乾燥花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+671	岩トカゲ	Rock Lizard	岩石蜥蜴	岩蜥蜴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+672	ミカライト	Micalite	紫云母	天使礦石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+673	傷心の花	Woeflower	伤心之花	傷心之花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+674	挑戦券[１周年前夜祭ボスチャレンジ]	Challenge Ticket [1st Anniversary Prelude Boss Challenge]	挑战券[一周年前夜祭头目挑战]	挑戰券[1週年前夜祭頭目挑戰！]	イベント「１周年前夜祭ボスチャレンジ」に挑戦するために必要な券。	"Ticket required to participate in the ""1st Anniversary Prelude Boss Challenge"" Event."	挑战“一周年前夜祭头目挑战”活动所需的券。	挑戰活動「1週年前夜祭頭目挑戰」所需的票券。
+675	決戦コイン[１周年前夜祭ボスチャレンジ]	Challenge Coin [1st Anniversary Prelude Boss Challenge]	决战硬币[一周年前夜祭头目挑战]	決戰硬幣[1週年前夜祭頭目挑戰]	イベント「１周年前夜祭ボスチャレンジ」交換所で使用できるアイテム。	"Exchange for items at the ""1st Anniversary Prelude Boss Challenge"" Exchange."	可以在“一周年前夜祭头目挑战”兑换所使用的道具。	可於「1週年前夜祭頭目挑戰」兌換所使用的道具。
+679	チャレンジコイン[ララ]	Challenge Coin [Lara]	挑战币[拉拉]	挑戰硬幣［拉拉］	「チャレンジバトル ララ」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Lara"" Exchange."	可以在“挑战战斗 拉拉”兑换所使用的道具。	可於「挑戰戰鬥 拉拉」兌換所使用的道具。
+680	チャレンジコイン[アンチュ＆ワルター]	Challenge Coin [Antje & Walther]	挑战币[安洁＆瓦尔特]	挑戰硬幣［安潔＆瓦爾特］	「チャレンジバトル アンチュ＆ワルター」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Antje & Walther"" Exchange."	可以在“挑战战斗 安洁＆瓦尔特”兑换所使用的道具。	可於「挑戰戰鬥 安潔＆瓦爾特」兌換所使用的道具。
+681	銀白の水晶片	Argent Crystal	银白水晶片	銀白水晶片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+682	ローズデュニュイ	Rose du Nuit	环晶玫瑰	夜之玫瑰	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+683	赤い悪魔のタネ	Red Devil Seed	红色恶魔种子	紅色惡魔種子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+684	キエンタケ	Kien Mushroom	黄焰菇	氣焰菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+685	プルールファントーム	Pleur Phantom	幻影彼岸	淚露幻影	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+686	ジェムイータ	Gem Eater	宝石喰虫	食寶石蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+687	1周年 星導祭 訣別の時ガチャチケット	1st Anniversary Celestial Festival - Time of Parting Wish Ticket	1周年 星导庆典 诀别时刻星愿券	1週年 星導祭 訣別之時星願券	1周年 星導祭 LEGEND FES 訣別の時を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Festival - LEGEND FES Time of Parting.	使用该券可以在“1周年 星导庆典 LEGEND FES 诀别时刻”许下1次星愿。	可許下1次1週年 星導祭 LEGEND FES 訣別之時星願的票券。
+688	瓶詰マナ	Bottled Mana	玛那瓶	瓶裝瑪那	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。	Fragments of mana that once rained down from a comet. Can be used to restore mana.	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。
+689	メモリア交換券[1周年記念第1弾]	Memoria Exchange Ticket [1st Anniversary Part 1]	回忆兑换券[1周年纪念第1弹]	回憶兌換券［1週年紀念第1彈］	「1周年記念プレゼントバトル」交換所で使用できるアイテム。	"Exchange for items at the ""1st Anniversary Present Battle"" Exchange."	可以在“1周年纪念赠礼战斗”兑换所使用的道具。	可於「1週年紀念獻禮戰鬥」兌換所使用的道具。
+691	イベントポイント[1周年]	Event Point [1st Anniversary]	活动积分[1周年]	活動點數[1週年]	イベント「1周年記念 ミッション」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""1st Anniversary Missions"" Event."	在活动“1周年纪念 任务”中获得报酬所需的积分。	活動[1週年紀念 任務]中獲得報酬所需的點數。
+692	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+693	挑戦券[ボスチャレンジ ウェルテックス]	Challenge Ticket [Boss Challenge: Weltex]	挑战券[头目挑战 威尔特克斯]	挑戰券[頭目挑戰 威爾特庫斯]	イベント「ボスチャレンジ ウェルテックス」に挑戦するために必要な券。	"Ticket required to participate in the ""Boss Challenge: Weltex"" Event."	挑战“头目挑战 威尔特克斯”活动所需的券。	挑戰活動「頭目挑戰 威爾特庫斯」所需的票券。
+694	決戦コイン[ボスチャレンジ ウェルテックス]	Challenge Coin [Boss Challenge: Weltex]	决战硬币[头目挑战 威尔特克斯]	決戰硬幣[頭目挑戰 威爾特庫斯]	イベント「ボスチャレンジ ウェルテックス」交換所で使用できるアイテム。	"Exchange for items at the ""Boss Challenge: Weltex"" Exchange."	可以在“头目挑战 威尔特克斯”兑换所使用的道具。	可於「頭目挑戰 威爾特庫斯」兌換所使用的道具。
+695	1周年 星導祭 ヒト造リシ災禍ガチャチケット	1st Anniversary Celestial Festival - The Man-Made Calamity Wish Ticket	1周年 星导庆典 人造灾祸星愿券	1週年 星導祭 人造災禍星願券	1周年 星導祭 LEGEND FES ヒト造リシ災禍を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Festival - LEGEND FES The Man-Made Calamity.	使用该券可以在“1周年 星导庆典 LEGEND FES 人造灾祸”许下1次星愿。	可許下1次1週年 星導祭 LEGEND FES 人造災禍星願的票券。
+696	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+697	メモリア交換券[1周年記念第2弾]	Memoria Exchange Ticket [1st Anniversary Part 2]	回忆兑换券[1周年纪念第2弹]	回憶兌換券［1週年紀念第2彈］	「1周年記念プレゼントバトル」交換所で使用できるアイテム。	"Exchange for items at the ""1st Anniversary Present Battle"" Exchange."	可以在“1周年纪念赠礼战斗”兑换所使用的道具。	可於「1週年紀念獻禮戰鬥」兌換所使用的道具。
+698	友愛の鍵	Key of Friendship	友爱钥匙	友愛之鑰	皆が心の内に秘めた想いを解放する鍵。\nキャラの交流解放に使用できる。	A key that unlocks the feelings hidden within each of us. Can be used to unlock Character Bonds.	解放人们藏在心底的思念的钥匙。\n可用于解锁角色的交流。	解開大家內心隱藏想法的鑰匙。\n可用於解鎖角色交流。
+699	チャレンジコイン[ジェロン]	Challenge Coin [Geron]	挑战币[杰隆]	挑戰硬幣［傑隆］	イベント「チャレンジバトル ジェロン」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Geron"" Exchange."	可以在“挑战战斗 杰隆”兑换所使用的道具。	可於「挑戰戰鬥 傑隆」兌換所使用的道具。
+700	ラインヴァイス	Reinweiss	银白草	雪白鈴花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+701	六花魚	Snowflake Fish	六花鱼	六花魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+702	黒の魔石	Black Runestone	黑之魔石	黑之魔石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+703	ひかりクラゲ	Luminous Jellyfish	发光水母	光水母	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+704	閃光水	Flashwater	闪光水	閃光水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+705	忘れ去られた宝石	Forgotten Gem	被遗忘的宝石	被遺忘的寶石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+706	復刻 ヴァレリア新章追加記念ガチャチケット	Celebrating a New Valeria Chapter Wish Ticket	瓦莱莉娅新章节追加纪念星愿券	瓦萊莉婭新章追加紀念星願券	復刻 ヴァレリア新章追加記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Celebrating a New Valeria Chapter - LEGEND FES.	使用该券可以在“瓦莱莉娅新章节追加纪念 LEGEND FES”许下1次星愿。	可許下1次瓦萊莉婭新章追加紀念 LEGEND FES星願的票券。
+707	復刻 メイン5章追加記念ガチャチケット	Main Story Chapter 5 Celebration Wish Ticket	追加主线故事第5章纪念星愿券	主線第5章追加紀念星願券	復刻 メイン5章追加記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Main Story Chapter 5 Celebration - LEGEND FES.	使用该券可以在“追加主线故事第5章纪念 LEGEND FES”许下1次星愿。	可許下1次主線第5章追加紀念 LEGEND FES星願的票券。
+708	復刻 イザナ新章追加記念ガチャチケット	New Izana Chapter Celebration Wish Ticket	伊札娜新章节追加纪念星愿券	伊札娜新章節追加紀念星願券	復刻 イザナ新章追加記念 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Izana Chapter Celebration - LEGEND FES.	使用该券可以在“伊札娜新章节追加纪念 LEGEND FES”许下1次星愿。	可許下1次伊札娜新章節追加紀念 LEGEND FES星願的票券。
+709	復刻 新章記念 浪漫の果てにガチャチケット	New Chapter: At the Edge of Romance Wish Ticket	新章节纪念 在浪漫的尽头星愿券	新章節紀念 在浪漫的盡頭星願券	復刻 新章記念 浪漫の果てに LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: At the Edge of Romance - LEGEND FES.	使用该券可以在“新章节纪念 在浪漫的尽头 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 在浪漫的盡頭 LEGEND FES星願的票券。
+710	復刻 新章記念 双璧の騎士ガチャチケット	New Chapter: Paragon Knights Wish Ticket	新章节纪念 双璧骑士星愿券	新章節紀念 雙璧之騎士星願券	復刻 新章記念 双璧の騎士 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the New Chapter: Paragon Knights - LEGEND FES.	使用该券可以在“新章节纪念 双璧骑士 LEGEND FES”许下1次星愿。	可許下1次新章節紀念 雙璧之騎士 LEGEND FES星願的票券。
+711	復刻 目覚めた災厄ガチャチケット	The Awakened Calamity Wish Ticket	苏醒的灾厄星愿券	覺醒的災厄星願券	復刻 決戦 LEGEND FES 目覚めた災厄を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES The Awakened Calamity.	使用该券可以在“决战 LEGEND FES 苏醒的灾厄”许下1次星愿。	可許下1次決戰 LEGEND FES 覺醒的災厄星願的票券。
+712	復刻 それぞれの覚悟ガチャチケット	Everyone's Resolve Wish Ticket	各自的决心星愿券	各自的決心星願券	復刻 決戦 LEGEND FES それぞれの覚悟を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES Everyone's Resolve.	使用该券可以在“决战 LEGEND FES 各自的决心”许下1次星愿。	可許下1次決戰 LEGEND FES 各自的決心星願的票券。
+713	復刻 最後の日ガチャチケット	Last Day Wish Ticket	终结之日星愿券	最後一日星願券	復刻 決戦 LEGEND FES 最後の日を1回引くことができるチケット。	A ticket that allows you to make a wish in the Final Battle - LEGEND FES Last Day.	使用该券可以在“决战 LEGEND FES 终结之日”许下1次星愿。	可許下1次決戰 LEGEND FES 最後一日星願的票券。
+714	1周年 星導祭 彷徨える亡者ガチャチケット	1st Anniversary Celestial Festival - Wandering Souls Wish Ticket	1周年 星导庆典 彷徨亡者星愿券	1週年 星導祭 徘徊的亡者星願券	1周年 星導祭 LEGEND FES 彷徨える亡者を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Festival - LEGEND FES Wandering Souls.	使用该券可以在“1周年 星导庆典 LEGEND FES 彷徨亡者”许下1次星愿。	可許下1次1週年 星導祭 LEGEND FES 徘徊的亡者星願的票券。
+715	挑戦券[爆裂！！ マリーからの試練]	Challenge Ticket [Explosion Time!! Marie's Trial]	挑战券[炸裂！！玛莉的试炼]	挑戰券[爆裂！！瑪莉給予的試煉]	イベント「爆裂！！ マリーからの試練」に挑戦するために必要な券。	"Ticket required to participate in the ""Explosion Time!! Marie's Trial"" Event."	挑战“炸裂！！玛莉的试炼”活动所需的券。	挑戰活動「爆裂！！瑪莉給予的試煉」所需的票券。
+716	プルプルーム	Pluproom	噗尼菇	黏糊糊菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+717	ブラウシュメーレ	Blaushumere	蓝斑鲇	藍熔泥鰍	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+718	ヨロイガニ	Armor Crab	硬铠鲎	鎧甲蟹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+719	人縛草	Binding Grass	人缚草	人縛草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+720	クレールコキール	Clair Coquille	清新贝壳	晶透貝	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+721	ブラックスポーン	Black Spawn	墨黑卵	闇之卵	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+722	決戦コイン[爆裂！！ マリーからの試練 ]	Challenge Coin [Explosion Time!! Marie's Trial]	决战硬币[炸裂！！玛莉的试炼]	決戰硬幣[爆裂！！瑪莉給予的試煉]	イベント「爆裂！！ マリーからの試練」交換所で使用できるアイテム。	"Exchange for items at the ""Explosion Time!! Marie's Trial"" Exchange."	可以在“炸裂！！玛莉的试炼”兑换所使用的道具。	可於「爆裂！！瑪莉給予的試煉」兌換所使用的道具。
+723	メモリア交換券[1周年記念第3弾]	Memoria Exchange Ticket [1st Anniversary Part 3]	回忆兑换券[1周年纪念第3弹]	回憶兌換券［1週年紀念第3彈］	「1周年記念プレゼントバトル」交換所で使用できるアイテム。	"Exchange for items at the ""1st Anniversary Present Battle"" Exchange."	可以在“1周年纪念赠礼战斗”兑换所使用的道具。	可於「1週年紀念獻禮戰鬥」兌換所使用的道具。
+724	希望の果実	Fruit of Hope	希望果实	希望果實	食べると力がみなぎる希少な果実。夜空と星に色合いが\n似ていることから、星の力が蓄えられていると\nされている。キャラのレベル上限解放に使用できる。	A rare fruit that fills one with strength when eaten. Its colors resemble the night sky and stars, leading many to believe it stores the power of the stars. Can be used to raise a character's maximum level.	使用后会涌上力量的稀少果实。\n因为颜色与夜空和星星相似，被认为其中积蓄着星之力。\n可用于解锁角色等级上限。	食用後會湧上力量的稀有果實。\n因顏色相似於夜空與星辰，人們認為它積蓄著星之力。\n可用於解鎖角色等級上限。
+725	超宝玉	Super Light Orb	超宝玉	超寶玉	光の力を大きく秘めた玉。\nボードのパネル解放に使用できる。	An orb with a huge amount of Light Power. Can be used to unlock board panels.	蕴含大量光之力的玉石。\n可用于解锁星图的面板。	蘊藏大量光之力的玉。\n可以用來解鎖星圖的面板。
+726	チャレンジコイン[錬金党]	Challenge Coin [Polar Night Alchemists]	决战硬币[炼金党]	決戰硬幣[鍊金黨]	イベント「チャレンジバトル 錬金党」交換所で使用できるアイテム。	"Exchange for items at the ""Challenge Battle: Polar Night Alchemists"" Exchange."	可以在“挑战战斗 炼金党”兑换所使用的道具。	可於「挑戰戰鬥 鍊金黨」兌換所使用的道具。
+727	1周年 星礼祭 極夜に解ける呼び声ガチャチケット	1st Anniversary Celestial Ceremony - The Call that Fades into the Polar Night Wish Ticket	1周年 星礼庆典 融于极夜的呼唤星愿券	1週年 星禮祭 消散於極夜中的呼喊星願券	1周年 星礼祭 LEGEND FES 極夜に解ける呼び声を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Ceremony - LEGEND FES The Call that Fades into the Polar Night.	使用该券可以在“1周年 星礼庆典 LEGEND FES 融于极夜的呼唤”许下1次星愿。	可許下1次1週年 星禮祭 LEGEND FES 消散於極夜中的呼喊星願的票券。
+728	ほたる草	Firefly Grass	萤火草	螢火草	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+729	しょっぱい水	Salty Water	咸水	鹹水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+730	セディメント	Sediment	黄褐石	沉積物	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+731	ポアソンドレ	Poisson Doré	黄金小鱼	金輝魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+732	ドレスマッシュ	Dresshroom	裙摆菇	禮服菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+733	断崖のひげ	Cliff Beard	断崖之须	斷崖鬚木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+734	1周年 星礼祭 暁の風雲児ガチャチケット	1st Anniversary Celestial Ceremony - The Rising Hero of Dawn Wish Ticket	1周年 星礼庆典 黎明般的风云人物星愿券	1週年 星禮祭 拂曉的風雲人星願券	1周年 星礼祭 LEGEND FES 暁の風雲児を1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Ceremony - LEGEND FES The Rising Hero of Dawn.	使用该券可以在“1周年 星礼庆典 LEGEND FES 黎明般的风云人物”许下1次星愿。	可許下1次1週年 星禮祭 LEGEND FES 拂曉的風雲人物星願的票券。
+735	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+736	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+741	燃える土	Fuel Dirt	可燃土	可燃土	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+742	生きてるシッポ	Living Tail	活着的尾巴	活著的尾巴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+743	出来損ないの欠片	Useless Fragment	劣作的碎片	劣作的碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+744	病魔退散の薬葉	Medicinal Leaf	驱散病魔药叶	驅散病魔藥葉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+745	檻の妖花	Caged Flower	树笼妖花	樹籠妖花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+746	ナラインハ	Nareinja	澄净之橙	橙淨冰石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+747	決戦コイン[旋風！！ユーディーからの試練 ]	Challenge Coin [Whirlwind!! Judie's Trial]	决战硬币[旋风！！优蒂的试炼]	決戰硬幣[旋風！！優蒂給予的試煉]	イベント「旋風！！ユーディーからの試練」交換所で使用できるアイテム。	"Exchange for items at the ""Whirlwind!! Judie's Trial"" Exchange."	可以在“旋风！！优蒂的试炼”兑换所使用的道具。	可於「旋風！！優蒂給予的試煉」兌換所使用的道具。
+748	挑戦券[旋風！！ユーディーからの試練]	Challenge Ticket [Whirlwind!! Judie's Trial]	挑战券[旋风！！优蒂的试炼]	挑戰券[旋風！！優蒂給予的試煉]	イベント「旋風！！ユーディーからの試練」に挑戦するために必要な券。	"Ticket required to participate in the ""Whirlwind!! Judie's Trial"" Event."	挑战“旋风！！优蒂的试炼”活动所需的券。	挑戰活動「旋風！！優蒂給予的試煉」所需的票券。
+749	希望の粒				食べると力が湧く希少な果実の粒。色合いが似ている\nことから、星の力が蓄えられているとされている。\nキャラのレベル上限解放に使用できる。			
+750	虹魚	Rainbow Fish	虹鱼	虹魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+751	ハーブフレグランス	Herb Fragrance	香草香水	香草香水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+752	純粋なパウダー	Pure Powder	无垢粉	純粹粉末	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+753	オムニアオリウンツル	Omnia Oriuntur	万物生	萬象巨藤	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+754	きらめく原砂	Sparkling Sand	闪亮原色砂	輝耀原砂	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+755	琥珀油	Amber Oil	琥珀油	琥珀油	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+756	HALLOWEEN2024ガチャチケット	HALLOWEEN 2025 Wish Ticket	HALLOWEEN2025星愿券	HALLOWEEN2025星願券	HALLOWEEN2024 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the HALLOWEEN 2025 - LEGEND FES.	使用该券可以在“HALLOWEEN2025 LEGEND FES”许下1次星愿。	可許下1次HALLOWEEN2025 LEGEND FES星願的票券。
+757	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+758	1周年 星礼祭 かけがえのないモノガチャチケット	1st Anniversary Celestial Ceremony - Something Irreplaceable Wish Ticket	1周年 星礼庆典 无可替代之物星愿券	1週年 星禮祭 無可取代的事物星願券	1周年 星礼祭 LEGEND FES かけがえのないモノを1回引くことができるチケット。	A ticket that allows you to make a wish in the 1st Anniversary Celestial Ceremony - LEGEND FES Something Irreplaceable.	使用该券可以在“1周年 星礼庆典 LEGEND FES 无可替代之物”许下1次星愿。	可許下1次1週年 星禮祭 LEGEND FES 無可取代的事物星願的票券。
+759	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+760	イベントポイント[HALLOWEEN2024]	Event Point [HALLOWEEN 2025]	活动积分[HALLOWEEN2025]	活動點數[HALLOWEEN2025]	イベント「HALLOWEEN2024ミッション」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""Halloween 2025 Missions"" Event."	在活动“HALLOWEEN2025任务”中获得报酬所需的积分。	活動[HALLOWEEN2025任務]中獲得報酬所需的點數。
+761	挑戦券[ボスチャレンジ コズミックシェル]	Challenge Ticket [Boss Challenge: Cosmic Shell]	挑战券[头目挑战 宇宙壳]	挑戰券[頭目挑戰 宇宙殼]	イベント「ボスチャレンジ コズミックシェル」に挑戦するために必要な券。	"Ticket required to participate in the ""Boss Challenge: Cosmic Shell"" Event."	挑战“头目挑战 宇宙壳”活动所需的券。	挑戰活動「頭目挑戰 宇宙殼」所需的票券。
+762	決戦コイン[ボスチャレンジ コズミックシェル]	Challenge Coin [Boss Challenge: Cosmic Shell]	决战硬币[头目挑战 宇宙壳]	決戰硬幣[頭目挑戰 宇宙殼]	イベント「ボスチャレンジ コズミックシェル」交換所で使用できるアイテム。	"Exchange for items at the ""Boss Challenge: Cosmic Shell"" Exchange."	可以在“头目挑战 宇宙壳”兑换所使用的道具。	可於「頭目挑戰 宇宙殼」兌換所使用的道具。
+765	ねむり花				調合をするために必要な素材。			
+766	カラナシマイマイ				調合をするために必要な素材。			
+767	アルラウネの根				調合をするために必要な素材。			
+768	ヤミヨタケ				調合をするために必要な素材。			
+769	オドリダケ				調合をするために必要な素材。			
+770	エルトナイト				調合をするために必要な素材。			
+771	渇きの中で咲く花たちガチャチケット				渇きの中で咲く花たち LEGEND FESを1回引くことができるチケット。			
+772	イベントポイント[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」のストーリーを読むために必要なポイント。			
+773	イベントポイント[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」のストーリーを読むために必要なポイント。			
+774	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+775	火炎祭ガチャチケットNo.1				火炎祭ガチャ LEGEND FESを1回引くことができるチケット。			
+776	挑戦券[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」に挑戦するために必要な券。			
+777	踊る混沌 マクダガチャチケット				踊る混沌 マクダ LEGEND FESを1回引くことができるチケット。			
+778	フレッシュミント				調合をするために必要な素材。			
+779	漆黒樹の原木				調合をするために必要な素材。			
+780	ムカシヤシの実				調合をするために必要な素材。			
+781	苦悩せし規律 ブラッドガチャチケット				苦悩せし規律 ブラッド LEGEND FESを1回引くことができるチケット。			
+782	斬裂祭ガチャチケットNo.1				斬裂祭ガチャ LEGEND FESを1回引くことができるチケット。			
+783	チャレンジコイン[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」交換所で使用できるアイテム。			
+784	挑戦券[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」に挑戦するために必要な券。			
+785	チャレンジコイン[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」交換所で使用できるアイテム。			
+786	挑戦券[ブラッドの実地調査]				イベント「ブラッドの実地調査」に挑戦するために必要な券。			
+787	ダンジョンコイン				イベント「ブラッドの実地調査」交換所で使用できるアイテム。			
+788	ラーメル麦				調合をするために必要な素材。			
+789	蒸留石				調合をするために必要な素材。			
+790	リュウグウオウムガイ				調合をするために必要な素材。			
+791	極夜激闘 解放者たちの決意ガチャチケット				極夜激闘 解放者たちの決意 LEGEND FESを1回引くことができるチケット。			
+792	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			
+793	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+794	大きな原石				調合をするために必要な素材。			
+795	オオカブト				調合をするために必要な素材。			
+796	ニトロ水				調合をするために必要な素材。			
+797	臭い石				調合をするために必要な素材。			
+798	古代樹の欠片				調合をするために必要な素材。			
+799	イラストリアスウッド				調合をするために必要な素材。			
+801	水結晶				調合をするために必要な素材。			
+802	フローズンジンビオーズ				調合をするために必要な素材。			
+803	氷塊トカゲ				調合をするために必要な素材。			
+804	ウィスプストーン				調合をするために必要な素材。			
+805	極夜激闘 黒の奪還ガチャチケット				極夜激闘 黒の奪還 LEGEND FESを1回引くことができるチケット。			
+806	嵐風祭ガチャチケットNo.1				嵐風祭ガチャ LEGEND FESを1回引くことができるチケット。			
+807	ケモノ肉				調合をするために必要な素材。			
+808	新鮮な肉				調合をするために必要な素材。			
+809	霜降りの肉				調合をするために必要な素材。			
+810	挑戦券[目指せハイスコア！ラムローストくんバトル]				イベント「目指せハイスコア！ラムローストくんバトル」に挑戦するために必要な券。			
+811	チャレンジコイン[目指せハイスコア！ラムローストくんバトル]				イベント「目指せハイスコア！ラムローストくんバトル」交換所で使用できるアイテム。			
+812	Atelier Christmas 2024ガチャチケット				Atelier Christmas 2024 LEGEND FESを1回引くことができるチケット。			
+813	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			
+814	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+815	挑戦券[キラキラセキララ星誕祭！]				イベント「キラキラセキララ星誕祭！」に挑戦するために必要な券。			
+816	星夜のレイム				調合をするために必要な素材。			
+817	星夜のガーネル				調合をするために必要な素材。			
+818	星夜のフラジルローズ				調合をするために必要な素材。			
+819	イベントBOXガチャ券[キラキラセキララ星誕祭！]				「キラキラセキララ星誕祭！」のイベントBOXガチャで使用できるアイテム。			
+820	極夜激闘 渇望満ちる時ガチャチケット				極夜激闘 渇望満ちる時 LEGEND FESを1回引くことができるチケット。			
+821	雷電祭ガチャチケットNo.1				雷電祭ガチャ LEGEND FESを1回引くことができるチケット。			
+822	星誕祭パイ				星誕祭を祝う特別なパイ。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+823	白霊岩				調合をするために必要な素材。			
+824	陽晶石				調合をするために必要な素材。			
+825	HAPPY NEW YEAR 2025ガチャチケット				HAPPY NEW YEAR 2025 LEGEND FESを1回引くことができるチケット。			
+826	挑戦券[縁結ぶ者　星照らす道]				イベント「縁結ぶ者　星照らす道」に挑戦するために必要な券。			
+827	バトルコイン[縁結ぶ者　星照らす道]				イベント「縁結ぶ者　星照らす道」交換所で使用できるアイテム。			
+828	黄金うに				調合をするために必要な素材。			
+829	おいわいの黒豆				調合をするために必要な素材。			
+830	おいわいの魚卵				調合をするために必要な素材。			
+831	ダンジョンコイン				イベント「謹賀新年！　お宝ダンジョン！」交換所で使用できるアイテム。			
+832	挑戦券[謹賀新年！　お宝ダンジョン！]				イベント「謹賀新年！　お宝ダンジョン！」に挑戦するために必要な券。			
+833	復刻 アトリエサマー第4弾ガチャチケット				復刻 夏だ！水着だ！アトリエサマー2024 第4弾 LEGEND FESを1回引くことができるチケット。			
+835	星誕祭くま				星誕祭の贈り物として定番のぬいぐるみ\n※2025/01/01にフロッケが何か良いものと交換してくれるようだ			
+836	ロマン大武闘大会年末スペシャルガチャチケット				ロマン大武闘大会年末スペシャル LEGEND FESを1回引くことができるチケット。			
+837	イベントポイント[正月お年玉ミッション]				イベント「正月お年玉ミッション」で報酬を獲得するために必要なポイント。			
+838	フロッケショップチケット(緑)				フロッケが家族と一緒に作ったチケット。\n色づかいにハイディのセンスが光る。\nショップで使用できる。			
+839	フロッケショップチケット(紫)				フロッケが家族と一緒に作ったチケット。\nお花の模様はヴァレリアの力作。\nショップで使用できる。			
+840	ミッションパスポイント				ミッションパスの報酬を獲得するために必要なポイント。			
+841	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+842	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			
+843	はじまりの絆ガチャチケット				はじまりの絆 LEGEND FESを1回引くことができるチケット。			
+844	星祈石の種				種の形をした星のような輝きを持つ不思議な石。縁を導く祈りが込められている。ショップ＞交換所＞星祈石＞星祈石の蕾から提供割合に応じて抽選された\nキャラまたはメモリアと交換することができる。\n※提供割合はショップの交換ダイアログから確認可能です。			
+845	星祈石の花弁				花弁の形をした星のような輝きを持つ不思議な石。縁を導く大きな祈りが込められている。ショップ＞交換所＞星祈石＞星祈石の花冠から提供割合に応じて抽選された\nキャラまたはメモリアと交換することができる。\n※提供割合はショップの交換ダイアログから確認可能です。			
+846	流星の旅立ちガチャチケット				流星の旅立ち LEGEND FESを1回引くことができるチケット。			
+847	氷凍祭ガチャチケットNo.1				氷凍祭ガチャ LEGEND FESを1回引くことができるチケット。			
+848	キノコヤドシ				調合をするために必要な素材。			
+849	トキシーモス				調合をするために必要な素材。			
+850	大自然の湧水				調合をするために必要な素材。			
+851	ブランシュソンブル				調合をするために必要な素材。			
+852	森の恵み				調合をするために必要な素材。			
+853	石ギンチャク				調合をするために必要な素材。			
+854	親友と歩む未来 フィリスガチャチケット				親友と歩む未来 フィリス LEGEND FESを1回引くことができるチケット。			
+855	うにゅう				調合をするために必要な素材。			
+856	ファーデンライト				調合をするために必要な素材。			
+857	黄金いも				調合をするために必要な素材。			
+858	挑戦券[親友と歩む未来]				イベント「親友と歩む未来」に挑戦するために必要な券。			
+859	バトルコイン[親友と歩む未来]				イベント「親友と歩む未来」交換所で使用できるアイテム。			
+860	星祈石の花弁（メモリア）				花弁の形をした星のような輝きを持つ不思議な石。縁を導く大きな祈りが込められている。ショップ＞交換所＞星祈石＞星祈石の花冠（メモリア）から提供割合に応じて\n抽選されたメモリアと交換することができる。\n※提供割合はショップの交換ダイアログから確認可能です。			
+861	親友と歩む未来 イルメリアガチャチケット				親友と歩む未来 イルメリア LEGEND FESを1回引くことができるチケット。			
+862	ミッションパスポイント				ミッションパスの報酬を獲得するために必要なポイント。			
+863	ニュイラーハ				調合をするために必要な素材。			
+864	藪イチゴ				調合をするために必要な素材。			
+865	アインクォーツ				調合をするために必要な素材。			
+866	挑戦券[ライバルと競う未来]				イベント「ライバルと競う未来」に挑戦するために必要な券。			
+867	バトルコイン[ライバルと競う未来]				イベント「ライバルと競う未来」交換所で使用できるアイテム。			
+868	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+869	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			

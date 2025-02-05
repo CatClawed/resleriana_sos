@@ -1,0 +1,1031 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_09_001ID	0		幼いレスナ	お父さん、またお仕事行っちゃうの？\n一緒に遊んでくれるって約束したのに……	Young Resna	Dad, are you leaving for work again? You promised you'd play with me...	幼年蕾斯娜	爸爸，你又要去工作了吗？\n不是说好要陪我一起玩吗……	年幼的蕾斯娜	爸爸，你又要去工作了嗎？\n你明明答應過我，要陪我玩的……
+TalkEvent_09_001ID	1		レスナの父	ごめんな。どうしても外せないお仕事なんだ。\nなあに、すぐに終わらせて帰ってくるさ	Resna's Dad	Sorry, this isn't something I can skip. But I'll be finished and back before you know it, okay?	蕾斯娜的父亲	抱歉啊，这个工作我不去不行。\n不过别担心，我很快就会回来。	蕾斯娜的父親	抱歉，爸爸無論如何都得去做那份工作。\n別擔心，我會盡快完成的。
+TalkEvent_09_001ID	2		幼いレスナ	本当？　約束だよ！　お城ごっこするんだから。\nお土産も買ってきてくれると嬉しいな！	Young Resna	You really will? Then that's a promise! I want to play castle. I'll be even happier if you bring me a souvenir, too!	幼年蕾斯娜	真的吗？说好了哦！回来我们要一起玩过家家。\n要是爸爸能给我带礼物回来就更好了！	年幼的蕾斯娜	真的嗎？我們約好囉！要一起玩城堡遊戲。\n希望爸爸能順便買禮物回來！
+TalkEvent_09_001ID	3		レスナの父	ああ、分かった。レスナが欲しがってた本を\n買ってくるよ	Resna's Dad	Sure thing. I'll get you that book you wanted.	蕾斯娜的父亲	好，知道了。\n蕾斯娜想看的书我会买回来给你的。	蕾斯娜的父親	嗯，我知道了。\n我會買蕾斯娜想要的書回來。
+TalkEvent_09_001ID	4	Resna	レスナ	これが、私がお父さんを見た最後の記憶……	Resna	That was the last time I remember seeing my dad.	蕾斯娜	这就是我记忆中最后一次见到爸爸时的情景……	蕾斯娜	這是我最後一次看到父親的記憶……
+TalkEvent_09_001ID	5	Saskia	ザスキア	大陸の東……クア州の海岸に頂獣が出現、ね	Saskia	So, an Apexi appeared along the coast in the Kur province, off toward the east.	萨丝琪亚	大陆东边……库亚州的海岸上出现了顶兽啊。	薩絲琪亞	大陸東部……庫厄州的海岸出現了頂獸啊。
+TalkEvent_09_001ID	6	Resna	レスナ	こうしている間にも、きっと被害が拡大して……	Resna	But the longer we stay here, the more damage it's going to be causing...	蕾斯娜	在我们谈论这件事的同时，事态一定还在恶化……	蕾斯娜	在討論的當下，災情一定還在持續擴大……
+TalkEvent_09_001ID	7	Saskia	ザスキア	レスナ。焦りは何も生まないわ。\n今は続報を待ちましょう	Saskia	Resna. Nothing comes from being impatient. What we need to do now is wait for further information.	萨丝琪亚	蕾斯娜，再怎么焦急也无济于事。\n现在先等等后续的消息吧。	薩絲琪亞	蕾斯娜，著急沒有任何好處。\n現在就繼續等待消息吧。
+TalkEvent_09_001ID	8	Resna	レスナ	（近頃、各地で魔物が暴れるという異変が\n　相次いで起こっていた）	Resna	(Lately, monsters have been strangely active in a growing number of regions.)	蕾斯娜	（最近，各地接连出现了一系列\n　魔物失控的异常情况。）	蕾斯娜	（最近，各地相繼出現了\n　魔物狂暴的異常變化。）
+TalkEvent_09_001ID	9	Resna	レスナ	（ロマンさんの護衛を務める白夜の騎士のユナさんと、\n　錬金術士のロジー先輩はその調査にあたっていた）	Resna	(Juna, a Knight of the Midnight Sun, and Logy, a fellow alchemist, have been surveying the situation.)	蕾斯娜	（担任罗曼先生护卫的白夜骑士尤娜小姐\n　和炼金术士罗吉前辈正在对此进行调查。）	蕾斯娜	（負責護衛羅曼先生的白夜騎士──尤娜小姐\n　及鍊金術士──羅吉前輩正在調查此事。）
+TalkEvent_09_001ID	10	Resna	レスナ	（二人によれば、この魔物の異変は\n　強大な頂獣が現れる兆候なのだという）	Resna	(According to them, unusual monster activity is one of the signs that an Apexi will appear.)	蕾斯娜	（据二人所说，魔物行动异常预示着\n　强大的顶兽即将现身。）	蕾斯娜	（據兩人所說，魔物發生異變可能是\n　強大頂獸即將現身的前兆。）
+TalkEvent_09_001ID	11	Resna	レスナ	（そんな中、私たちは二度目となる遠方での依頼のため\n　北のシュネール州に向かい……）	Resna	(Meanwhile, our second faraway request took us up north to Schnell province.)	蕾斯娜	（与此同时，为了完成第二个来自远方的委托，\n　我们启程前往了北方的施内尔州……）	蕾斯娜	（為了完成第二個來自遠方的委託，\n　這段期間我們前往了北方的雪內爾州……）
+TalkEvent_09_001ID	12	Resna	レスナ	（その地でもまた、凶暴化した魔物の群れと\n　戦うことになった）	Resna	(While we were there, we had to fight wave after wave of ferocious monsters.)	蕾斯娜	（在那里，我们也与狂暴化的魔物们\n　进行了一番苦战。）	蕾斯娜	（而在該地，\n　我們又與凶暴化的魔物群進行了戰鬥。）
+TalkEvent_09_001ID	13	Resna	レスナ	（シュネール州の人たちは、錬金術を得体の知れない\n　ものだと言って受け入れてくれなくて……）	Resna	(The people of Schnell weren't very familiar with alchemy, and they weren't afraid to tell us how they felt about it.)	蕾斯娜	（施内尔州的人们认为炼金术是来路不明的力量，\n　一度排斥我们用炼金术解决问题……）	蕾斯娜	（雪內爾州的人們不願意接受鍊金術，\n　他們認為鍊金術是來歷不明的東西……）
+TalkEvent_09_001ID	14	Resna	レスナ	（そんな場所で魔物と対峙しながら\n　依頼を達成するのはとても大変だったけれど……）	Resna	(Completing their request while squaring off against monsters in a place like that wasn't easy, but...)	蕾斯娜	（在那样的地方边和魔物对峙边完成委托\n　确实很辛苦……）	蕾斯娜	（在那種地方與魔物對峙的同時，\n　還要完成委託，真的十分辛苦……）
+TalkEvent_09_001ID	15	Resna	レスナ	（人々を守りたいというユナさんの志や、仲間たちの\n　助けを借りて、どちらもやり遂げることができた）	Resna	(Thanks to Juna's desire to keep the citizens safe and all of our companions' help, we somehow managed to pull through.)	蕾斯娜	（但多亏了尤娜小姐守护百姓的意志以及伙伴们的支援，\n　我们成功击退魔物，也化解了成见。）	蕾斯娜	（但多虧尤娜小姐想守護人民的心\n　和夥伴們的協助，最後戰鬥與委託都順利解決了。）
+TalkEvent_09_001ID	16	Resna	レスナ	（けれど、一安心したのも束の間）	Resna	(But that relief only lasted for a moment.)	蕾斯娜	（然而，安心只持续了片刻。）	蕾斯娜	（然而，安心的時光轉瞬即逝。）
+TalkEvent_09_001ID	17	Resna	レスナ	（王都に帰ってきた私たちを待っていたのは\n　頂獣出現の知らせだった）	Resna	(When we got back to the capital, news of an Apexi's appearance was waiting for us.)	蕾斯娜	（一回到王都，我们立刻得知了顶兽现身的消息。）	蕾斯娜	（回到王都的我們，聽說了頂獸出現的消息。）
+TalkEvent_09_001ID	18	Suelle	スール	だけどさぁ、いつまでもぼんやりしてられないよね！	Suelle	Okay, but just how long are we supposed to sit around doing nothing?	苏瑞	但我们总不能一直在这什么都不做吧！	蘇瑞	可是～我們也不能就這樣坐以待斃嘛！
+TalkEvent_09_001ID	19	Lydie	リディー	落ち着いて、スーちゃん。\nザスキアさんも言ってたでしょ	Lydie	You heard Miss Saskia. You've got to take it easy, Sue.	莉迪	冷静，小苏。\n萨丝琪亚小姐不是也说了吗？	莉迪	小蘇，冷靜點。\n薩絲琪亞小姐不也這麼說了嗎？
+TalkEvent_09_001ID	20	Suelle	スール	そうは言うけどさぁ、リディー。せっかくこうして\n駆けつけてきたわけだし、早くその頂獣ってヤツを……	Suelle	I knooow, but, Lydie! We came running all the way over here, so why can't we get to the important stuff now?	苏瑞	我知道是这个道理，但是莉迪，\n我们都紧赶慢赶地过来了，快去收拾那个什么顶兽……	蘇瑞	確實……但莉迪，我們都好不容易趕來了，\n就快點把那個叫頂獸的傢伙給……
+TalkEvent_09_001ID	21	Lydie	リディー	でも、もう少し情報が集まらないと危ないよ	Lydie	Because not having enough information would be dangerous.	莉迪	可是，不充分收集情报就行动是很危险的。	莉迪	可是不再多蒐集一點情報的話，會很危險的。
+TalkEvent_09_001ID	22	Suelle	スール	それはそうかもしれないけど……	Suelle	Well, I guess you're not wrong about that, but...	苏瑞	或许是那样没错……	蘇瑞	是這樣沒錯啦……
+TalkEvent_09_001ID	23	Resna	レスナ	（異世界の錬金術士、リディー先輩とスー先輩……）	Resna	(Lydie and Sue are both alchemists from another world.)	蕾斯娜	（异世界的炼金术士莉迪前辈与苏前辈……）	蕾斯娜	（異世界的鍊金術士──莉迪前輩與蘇前輩……）
+TalkEvent_09_001ID	24	Resna	レスナ	（普段なら色々お話をうかがいたい。でも、頂獣が\n　出現してしまった今は……）	Resna	(Normally, I'd have a whole bunch of questions for them, but because of that Apexi...)	蕾斯娜	（要是平时我一定有好多话想和她们聊聊。\n　但现在是顶兽现身的危急之时……）	蕾斯娜	（正常來說，我想請教她們好多好多事。\n　但因為頂獸出現的緣故……）
+TalkEvent_09_001ID	25	Izana	イザナ	あ！　ユナさん！　ロマン君！	Izana	Oh, Juna! Roman!	伊札娜	啊！尤娜小姐！罗曼！	伊札娜	啊！尤娜小姐！羅曼！
+TalkEvent_09_001ID	26	Suelle	スール	状況はどんな感じなんですか！？	Suelle	How's the situation looking?!	苏瑞	现在情况如何了？！	蘇瑞	目前狀況如何！？
+TalkEvent_09_001ID	27	Juna	ユナ	出現した頂獣は現在、\nクア州沖の離島を襲撃しているようだ	Juna	The Apexi that appeared is currently assaulting a remote island in Kur.	尤娜	现身的顶兽目前\n正在袭击库亚州近海的一座小岛。	尤娜	頂獸現在似乎\n正在襲擊庫厄州的海上離島。
+TalkEvent_09_001ID	28	Lydie	リディー	クア州ってどの辺りなんですか？	Lydie	Where's that again?	莉迪	请问库亚州在哪里呢？	莉迪	庫厄州位在哪裡呢？
+TalkEvent_09_001ID	29	Roman	ロマン	ランターナ大陸の東に位置する、海に面した州だよ	Roman	It's east of the capital. It looks out over the ocean.	罗曼	在兰塔纳大陆的东边，是个临海的州。	羅曼	它位於蘭塔納大陸東方，是一個面海的州。
+TalkEvent_09_001ID	30	Roman	ロマン	「癒しの街」と呼ばれる場所があってね。発達した\n医療を求めて、全国からも療養者が集まるほどだ	Roman	People call it a place of healing. In fact, folks from all over the country go there to recover from illnesses and such, as it has the most developed medical care.	罗曼	那里有个地方叫“治愈之城”。\n因为医疗发达，全国各地都有不少人慕名前去疗养。	羅曼	那裡有個名為「治癒城鎮」的地方，\n醫療技術發達，吸引了來自全國的療養者。
+TalkEvent_09_001ID	31	Lydie	リディー	そんな所に現れるなんて……	Lydie	Oh no. Of all the places for it to show up...	莉迪	居然在那种地方现身……	莉迪	頂獸竟然在那種地方現身……
+TalkEvent_09_001ID	32	Juna	ユナ	我々騎士団に加え、招集に応じた冒険者たちも\n現地へ向かい、迎撃の準備を整えている	Juna	Knights like myself have been called to action, as have any available adventurers. They're all heading over to prepare to intercept the enemy.	尤娜	除了我们骑士团，响应号召的冒险者们\n也在赶往现场，准备迎击敌人。	尤娜	除了騎士團外，響應我們的冒險者們\n也開始朝當地前進，準備迎擊。
+TalkEvent_09_001ID	33	Roman	ロマン	何が目的かは分からないが……\nヤツは大陸の中心部を目指して進攻しているらしい	Roman	We don't know what the Apexi's aim is, but it looks like it's advancing on the central part of the continent.	罗曼	不知道是出于什么目的……\n那家伙发起进攻的同时好像在朝大陆中部前进。	羅曼	雖然不知道那隻頂獸的目的……\n但牠似乎正在以大陸中心為目標進攻。
+TalkEvent_09_001ID	34	Juna	ユナ	このままだとたくさんの街が被害を受けることになる。\nなんとしても上陸を阻止しなければならない	Juna	Countless towns will be destroyed in its wake if we let it. We need to stop it before it can make landfall.	尤娜	要是放任它前进，许多城镇都会遭到破坏。\n我们无论如何都得阻止顶兽登陆。	尤娜	再這樣下去的話會有很多城鎮受害。\n無論如何都得阻止牠登陸。
+TalkEvent_09_001ID	35	Izana	イザナ	じゃあ、アタシたちも急がないと！	Izana	So what are we waiting for?! We've got to hurry!	伊札娜	那我们也得赶紧过去！	伊札娜	那我們也得快點動身才行！
+TalkEvent_09_001ID	36	Roman	ロマン	いや……だからこそ落ち着いて備えを万全にしたい。\nいくら警戒してもし足りない相手なのだから	Roman	No, that's all the more reason to slow down and make sure that our preparations are flawless. With an enemy like this, no amount of caution will ever be enough.	罗曼	不……正因如此，我们才更要保持冷静，做好准备。\n面对那样的对手，我们再怎么小心谨慎都远远不够。	羅曼	不……正因如此，得冷靜地做好萬全的準備。\n因為對手是絕對不能掉以輕心的傢伙。
+TalkEvent_09_001ID	37	Roman	ロマン	はっきりと言おう。危険な相手だ。\n命を懸けた戦いになる	Roman	I'll be blunt: this Apexi is incredibly dangerous. Anyone fighting it will be putting their life on the line.	罗曼	我就实话实说了，那是相当危险的对手。\n参加这场战斗可以说要豁出性命。	羅曼	老實說，對手相當棘手。\n必須賭上性命戰鬥。
+TalkEvent_09_001ID	38	Roman	ロマン	その覚悟がある者は明日、広場に集まってくれ。\n皆、大事なものがあるだろう……強制はしない	Roman	If you're willing to do that, then meet us in the square tomorrow. I know you all have things that are important to you, so...the choice is yours.	罗曼	下定决心的人明天在广场集合。\n我相信各位都有自己珍视的事物……\n我不会强迫你们参加。	羅曼	願意加入的人請在明天到廣場集合。\n大家都有重視的事物吧……我不強迫各位。
+TalkEvent_09_001ID	39	Resna	レスナ	（あの時、お父さんが戦った頂獣……）	Resna	(Back then, what my dad fought was an Apexi.)	蕾斯娜	（那时爸爸抗击的顶兽……）	蕾斯娜	（當時曾與父親戰鬥的頂獸……）
+TalkEvent_09_001ID	40	Resna	レスナ	（また、誰かがいなくなる……そんなのは、嫌だ）	Resna	(I don't want someone else to die to one.)	蕾斯娜	（我不希望……又有人因此一去不回。）	蕾斯娜	（又會出現犧牲者……我不希望這件事發生。）
+TalkEvent_09_002ID	0	Heidi	ハイディ	相棒。私、もう一度荷物の確認してくるから、\nちょっと待っててよ	Heidi	Hey, partner. I'm just doing another once over on our bags. Give me a minute, would you?	海蒂	搭档，我再去确认一下行李，\n你在这里等等。	海蒂	搭檔，我再去確認一次行李，\n稍等我一下。
+TalkEvent_09_002ID	1	Valeria	ヴァレリア	うん。いつも悪いわね	Valeria	Sure thing. I'm sorry for leaving that stuff to you all the time.	瓦莱莉娅	嗯。抱歉，一直以来老是麻烦你。	瓦萊莉婭	嗯，抱歉，總是一直麻煩妳。
+TalkEvent_09_002ID	2	Heidi	ハイディ	いいっていいって。というか、\nあんたに任せると食料つまみ食いされるからね	Heidi	Nah, it's fine! Besides, you'd probably just snack on our rations if I left them in your hands.	海蒂	没事没事，交给我才对，\n不然要是交给你来干，食物早就被你偷吃光了。	海蒂	別在意。倒不如說，\n交給妳的話，糧食會被偷吃。
+TalkEvent_09_002ID	3	Valeria	ヴァレリア	……いつも悪いわね	Valeria	...Did I mention I was sorry?	瓦莱莉娅	……真是抱歉了。	瓦萊莉婭	……真不好意思。
+TalkEvent_09_002ID	4	Valeria	ヴァレリア	ねぇ、ユナ。待ってる間に、これから戦う頂獣のこと\nもうちょっと詳しく聞かせてもらえる？	Valeria	Hey, Juna? While we're waiting, is there anything else you can tell us about the Apexi we'll be fighting?	瓦莱莉娅	尤娜，正好趁着现在等人，\n你能跟我说说接下来要抗击的顶兽的情况吗？	瓦萊莉婭	嘿，尤娜。能趁機請妳再多告訴我一些\n接下來要迎戰的頂獸的事嗎？
+TalkEvent_09_002ID	5	Juna	ユナ	ああ	Juna	Indeed there is.	尤娜	好。	尤娜	嗯！
+TalkEvent_09_002ID	6	Juna	ユナ	――その頂獣の名は、「ウェルテックス」	Juna	This one is called Weltex.	尤娜	——那只顶兽名叫“威尔特克斯”。	尤娜	──那隻頂獸名為「威爾特庫斯」。
+TalkEvent_09_002ID	7	Resna	レスナ	ウェルテックス……	Resna	Weltex, huh?	蕾斯娜	威尔特克斯……	蕾斯娜	威爾特庫斯……
+TalkEvent_09_002ID	8	Roman	ロマン	ヤツが初めて姿を現したのは、今から９年前のことだ。\n大陸からほど近い海上で、漁船が被害にあった	Roman	It made its first appearance nine years ago. Destroyed a bunch of fishing boats out on the sea, not too far from the mainland.	罗曼	那家伙第一次现身是在9年前，\n当时它在大陆近海出现，毁坏了那里的渔船。	羅曼	那傢伙初次現身是距今9年前的事。\n大陸的近海有漁船受害。
+TalkEvent_09_002ID	9	Roman	ロマン	新種の魔物の話を聞いた冒険者たちは、\n武功を挙げんと我先に討伐へと向かった	Roman	Stories about a brand-new type of monster started to circulate among adventurers, so those who wanted accolades set out to be the first to bring it down.	罗曼	冒险者们听说有新的魔物出现，\n为了立下战功，争先恐后地前去讨伐。	羅曼	於是聽說出現新魔物的冒險者們\n爭先恐後地前往討伐。
+TalkEvent_09_002ID	10	Juna	ユナ	だが、討伐に向かった者たちは全滅した	Juna	However, anyone who attempted to subdue it was annihilated.	尤娜	然而他们却全军覆没，无一生还。	尤娜	然而，前往討伐者卻全軍覆沒。
+TalkEvent_09_002ID	11	Valeria	ヴァレリア	全滅……！？	Valeria	All of them?!	瓦莱莉娅	全军覆没……？！	瓦萊莉婭	全軍覆沒……！？
+TalkEvent_09_002ID	12	Juna	ユナ	王国はその危険性を鑑みて、それを頂獣と認定した	Juna	Considering that level of danger, the kingdom declared it an Apexi.	尤娜	鉴于其危险性，王国将其认定为顶兽。	尤娜	鑒於其危險性，王國將其認定為頂獸。
+TalkEvent_09_002ID	13	Juna	ユナ	ウェルテックスはランターナ大陸本土に上陸し、\n沿岸部の村や街を灰にした	Juna	Wherever Weltex went ashore, entire coastal towns and villages were reduced to nothing but ash.	尤娜	威尔特克斯随后登上了兰塔纳大陆，\n将沿海的村庄和城镇化为了灰烬。	尤娜	威爾特庫斯登陸了蘭塔納大陸本土後，\n將沿岸的村莊、城鎮都夷為平地。
+TalkEvent_09_002ID	14	Valeria	ヴァレリア	街を灰に……とんでもない強さね	Valeria	Yeah, that sounds like a really strong monster.	瓦莱莉娅	将城镇化为灰烬……真是恐怖的力量。	瓦萊莉婭	把城鎮夷為平地……真是令人難以置信的力量。
+TalkEvent_09_002ID	15	Roman	ロマン	強さはもちろんだが、\nヤツが厄介な理由がもう１つある	Roman	Its strength is one thing, but there's another reason why it's so much trouble.	罗曼	顶兽的强大确实有目共睹，\n但那家伙的棘手之处还有一点。	羅曼	那傢伙是很強沒錯，\n但牠難對付的理由不只這個。
+TalkEvent_09_002ID	16	Roman	ロマン	それが、他の頂獣とウェルテックスとの最も大きな差だ	Roman	Out of all the Apexi, Weltex is the biggest.	罗曼	而那也正是威尔特克斯与其他顶兽最大的区别。	羅曼	威爾特庫斯與其他頂獸最大的差異──
+TalkEvent_09_002ID	17	Valeria	ヴァレリア	他の頂獣との差？	Valeria	There are differences between them?	瓦莱莉娅	它与其他顶兽不一样吗？	瓦萊莉婭	與其他頂獸的差異？
+TalkEvent_09_002ID	18	Roman	ロマン	普段、生活していて、頂獣の被害にあったという話は\nあまり聞かないだろう？　それはなぜだと思う？	Roman	You usually go about your days without hearing about any Apexi destruction, right? Why do you think that is?	罗曼	平日生活里，我们很少听说有顶兽害人对吧？\n你觉得这是为什么？	羅曼	日常生活中很少聽到頂獸釀災的消息吧？\n妳知道為什麼嗎？
+TalkEvent_09_002ID	19	Izana	イザナ	えっと、頂獣が棲んでいる場所に近づかないから……？	Izana	Um, because their nests are really far away?	伊札娜	唔，因为人们不会轻易接近顶兽栖息的地方……？	伊札娜	呃，這是因為……人們不會靠近頂獸的棲息地？
+TalkEvent_09_002ID	20	Roman	ロマン	そうだ。頂獣が確認された大陸の辺境や遠洋、\nそういった場所には立ち入らないよう国が制限している	Roman	Exactly. The Apexi we know about are either in remote regions or deep in the ocean, and the kingdom restricts access to those locations.	罗曼	没错。因为国家限制了我们出入大陆边境与远洋，\n也就是已确认有顶兽栖息的地方。	羅曼	沒錯，國家限制人們前往\n已知有頂獸出沒的大陸邊境及遠洋等。
+TalkEvent_09_002ID	21	Roman	ロマン	逆に、頂獣も滅多なことがなければ自らの縄張りを\n離れることはない。そうやって棲み分けをしているんだ	Roman	Additionally, Apexi aren't too inclined to leave their territory unless they absolutely have to. So it's easy enough to let sleeping dogs lie.	罗曼	反过来，除非万不得已，顶兽也很少离开自己的地盘。\n这就是为什么人们能与顶兽共存。	羅曼	反之，頂獸也幾乎不會離開自己的地盤。\n於是雙方就這樣互不打擾。
+TalkEvent_09_002ID	22	Lydie	リディー	でも……ウェルテックスは違うということですね	Lydie	But Weltex isn't like that.	莉迪	但是……威尔特克斯却有所不同对吧。	莉迪	然而……威爾特庫斯卻不一樣，對吧？
+TalkEvent_09_002ID	23	Roman	ロマン	ああ、ヤツは我々の領土に容赦なく踏み込んでくる	Roman	Right. It just wants to stomp around our lands.	罗曼	没错。它会主动进犯，肆无忌惮地侵袭我们的领土。	羅曼	對，那傢伙毫不留情地侵入了我國領土。
+TalkEvent_09_002ID	24	Suelle	スール	なんでそのウェルテックスってのだけ\n縄張りを出てきちゃうわけ？	Suelle	Why doesn't it stick to its own area?	苏瑞	为什么偏偏只有威尔特克斯\n会离开自己的地盘呢？	蘇瑞	為何只有叫威爾特庫斯的頂獸\n會離開地盤呢？
+TalkEvent_09_002ID	25	Roman	ロマン	理由は分かっていないんだ。\n自分の本来の縄張りじゃ満足できないのかもしれない	Roman	That, we don't know. Maybe it's not too pleased with the space it originally carved out for itself.	罗曼	其中的原因尚不明晰。\n或许是因为它并不满足于现有的地盘。	羅曼	不曉得。\n或許原有的地盤已經無法滿足牠了。
+TalkEvent_09_002ID	26	Roman	ロマン	いずれにせよ、それを食い止めることができなければ、\n多くの被害が出ることになる	Roman	Either way, things aren't going to end well if we don't hold it back.	罗曼	无论如何，若是不能阻止它，\n更多的百姓将因此遭殃。	羅曼	總之，要是沒能阻止，\n災情大概不樂觀。
+TalkEvent_09_002ID	27	Valeria	ヴァレリア	でも、一度は食い止められたってことよね？	Valeria	But people have won against it before, right?	瓦莱莉娅	但人们也曾经成功阻止过它对吧？	瓦萊莉婭	不過，我記得以前曾成功阻止過一次吧？
+TalkEvent_09_002ID	28	Juna	ユナ	９年前は騎士や冒険者たちの活躍により、\nなんとかウェルテックスの撃退に成功した	Juna	Thanks to the efforts of knights and adventurers nine years ago, Weltex was repelled, yes.	尤娜	9年前，在骑士和冒险者的努力下，\n确实历经苦战最终击退了威尔特克斯。	尤娜	多虧了騎士與冒險者們的傑出表現，\n9年前我們曾勉強擊退威爾特庫斯。
+TalkEvent_09_002ID	29	Juna	ユナ	だが、討伐には至らず……戦いに挑んだ者たちにも\n数多くの犠牲が出てしまったそうだ	Juna	However, this came at the cost of many lives. Most of those who did battle against it did not survive.	尤娜	但是，他们没能成功讨伐它……\n而且参与战斗的人们也伤亡无数。	尤娜	不過，應該算不上討伐……\n據說有相當多的挑戰者因此犧牲。
+TalkEvent_09_002ID	30	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+TalkEvent_09_002ID	31	Valeria	ヴァレリア	だったら今度は倒し切らなきゃ！　そうよね！	Valeria	So we've got to bring it down! Once and for all!	瓦莱莉娅	那这次打倒它不就好了！对吧！	瓦萊莉婭	既然如此，這次一定得打倒牠！對吧？
+TalkEvent_09_002ID	32	Izana	イザナ	ヴァレリアの言う通りだね！\n被害が広がる前に今度こそやっつけちゃおう！	Izana	Yeah! What Valeria said! We'll take it out before it has a chance to do any more damage!	伊札娜	瓦莱莉娅说得对！\n这次我们一定要赶在它造成更大损失前干掉它！	伊札娜	瓦萊莉婭說得沒錯！\n這次一定要在災情擴大之前解決牠！
+TalkEvent_09_002ID	33	Heidi	ハイディ	お、なんか盛り上がってんね	Heidi	Huh, you guys are pretty excited about this.	海蒂	哦？还挺热闹的嘛。	海蒂	哦，你們好像討論得很投入呢。
+TalkEvent_09_002ID	34	Valeria	ヴァレリア	ハイディ！　準備はもういいの？	Valeria	Heidi! Are we all prepped and ready to go?	瓦莱莉娅	海蒂！都准备好了吗？	瓦萊莉婭	海蒂！都準備好了嗎？
+TalkEvent_09_002ID	35	Heidi	ハイディ	うん。バッチリよ！	Heidi	You bet! Everything's in place!	海蒂	嗯，万无一失！	海蒂	嗯，都準備好了！
+TalkEvent_09_002ID	36	Roman	ロマン	この国の危機だ。私としても、\n君たちが来てくれるなら心強い	Roman	This is an absolute crisis. Having you all with me would be really reassuring.	罗曼	这个国家正面临危难。\n你们若是加入，想必能够提高胜算。	羅曼	國家正陷入危機。\n若各位能陪在我身邊，我就安心了。
+TalkEvent_09_002ID	37	Roman	ロマン	共に戦ってくれるかい？	Roman	Would you be willing to come and fight?	罗曼	你们愿意和我一起战斗吗？	羅曼	大家願意和我並肩作戰嗎？
+TalkEvent_09_002ID	38	Resna	レスナ	……はい	Resna	...Yes.	蕾斯娜	……是。	蕾斯娜	……我願意。
+TalkEvent_09_002ID	39	Valeria	ヴァレリア	もちろんよ。早く戦いたくてウズウズしてるわ！	Valeria	Absolutely! I'm just itching to jump into battle!	瓦莱莉娅	当然。我已经迫不及待想大战一场了！	瓦萊莉婭	那當然囉。我早就已經躍躍欲試了！
+TalkEvent_09_002ID	40	Heidi	ハイディ	危ないことは正直したくないけど、相棒には\n私が必要だしね	Heidi	Honestly, I'd rather not rush straight at something so dangerous, but my partner's going to need me.	海蒂	说实话我是不太想掺和危险的事，\n但毕竟我的搭档需要我。	海蒂	老實說我不想冒險，\n但搭檔需要我。
+TalkEvent_09_002ID	41	Izana	イザナ	レスナちゃんのことも、レスナちゃんが守りたいものも\nアタシが守るよ！	Izana	Mine too! I want to protect Resna, so that's exactly what I'm going to do!	伊札娜	我一定会守护蕾斯娜，还有蕾斯娜想守护的事物！	伊札娜	我會保護好蕾斯娜\n和蕾斯娜重視的東西！
+TalkEvent_09_002ID	42	Roman	ロマン	ありがとう。ではまた明日、広場で	Roman	Thank you. Well then, I'll see you all tomorrow in the square.	罗曼	谢谢你们。那我们明天广场见。	羅曼	謝謝各位。那麼，我們明天廣場見。
+TalkEvent_09_003ID	0	Izana	イザナ	……レスナちゃん、大丈夫？	Izana	Are you okay, Resna?	伊札娜	……蕾斯娜，你可以吗？	伊札娜	……蕾斯娜，妳還好嗎？
+TalkEvent_09_003ID	1	Resna	レスナ	えっ？　な、何が？	Resna	Huh? Wh-Why wouldn't I be?	蕾斯娜	咦？什、什么？	蕾斯娜	咦？什、什麼？
+TalkEvent_09_003ID	2	Izana	イザナ	だって、お父さんのこと……	Izana	I mean, given everything that happened with your dad...	伊札娜	你爸爸不是……	伊札娜	因為妳爸爸的事情……
+TalkEvent_09_003ID	3	Resna	レスナ	……ううん、大丈夫。\n今は気にしてる場合じゃないから！	Resna	Really, I'm fine. This isn't the time to be worrying about that!	蕾斯娜	……放心吧，我没问题。\n现在可不是想那些事的时候！	蕾斯娜	……嗯，我不要緊。\n因為現在可不是在意這個的時候！
+TalkEvent_09_003ID	4	Izana	イザナ	…………	Izana	...	伊札娜	……	伊札娜	…………
+TalkEvent_09_003ID	5	Roman	ロマン	皆、招集に応じてくれてありがとう	Roman	Thank you all for gathering here today.	罗曼	各位，感谢你们愿意响应号召。	羅曼	謝謝願意加入的各位。
+TalkEvent_09_003ID	6	Roman	ロマン	事前に説明があった通り、我々はクア州で\n頂獣を迎え撃つ。各自、行動を開始してくれ！	Roman	As I explained before, we will be intercepting the Apexi that appeared in Kur. Let's move out!	罗曼	如前所述，我们将于库亚州迎击顶兽。\n各位，开始行动吧！	羅曼	就像之前說過的，我們即將在庫厄州迎擊頂獸。\n那大家可以各自展開行動了！
+TalkEvent_09_003ID	7	Roman	ロマン	私は討伐作戦の指揮を執ることになった。\nいったん別行動になるが、またクア州で合流しよう	Roman	I'm going to be the one coordinating this campaign. That means that I'll be making my own way to Kur—but let's meet up again when you get there.	罗曼	这次的讨伐作战由我来担任指挥。\n眼下大家得先暂时分开行动，之后我们在库亚州会合吧。	羅曼	這次由我負責指揮討伐作戰。\n在此之前，我們先分頭行動，之後再到庫厄州會合。
+TalkEvent_09_003ID	8	Roman	ロマン	現地の海岸には、すでに拠点となる野営地が\n築かれているはずだ。まずはそこを目指してくれ	Roman	There should be a campsite already set up on the shore, so just head toward that when you get into the province.	罗曼	当地的海岸上应该已经建起了一座野营地作为据点。\n你们就先赶往那边吧。	羅曼	作為據點的海岸營地應該也搭得差不多了，\n你們先朝那裡前進吧。
+TalkEvent_09_003ID	9	Juna	ユナ	私も白夜の騎士として殿下に同行する。\nそちらは任せたぞ、レスナ	Juna	I will also be accompanying His Highness in an official capacity. I'll leave the others in your care, Resna.	尤娜	我也将作为白夜骑士与殿下同行。\n那边就拜托你了，蕾斯娜。	尤娜	我會以白夜騎士的身分護送殿下。\n蕾斯娜，那邊就交給妳囉。
+TalkEvent_09_003ID	10	Resna	レスナ	は、はい！	Resna	R-Right!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+TalkEvent_09_003ID	11	Saskia	ザスキア	レスナ、私も先に行くわ。\nちょっと調べたいこともあるしね	Saskia	Resna, I shall also be going ahead of the group. There is something that I'd like to investigate.	萨丝琪亚	蕾斯娜，我也先走了。\n有些事我想去调查一下。	薩絲琪亞	蕾斯娜，我也先出發囉。\n因為我還有點事情想調查。
+TalkEvent_09_003ID	12	Resna	レスナ	あ、はい。師匠、お気を付けて	Resna	Oh, okay. Be careful, Miss Saskia.	蕾斯娜	啊，好的。师父也请路上小心。	蕾斯娜	啊，好的。師父，路上小心。
+TalkEvent_09_003ID	13	Ryza	ライザ	あたしとロロナは王都に残ろうと思ってる。\nこの状況で、街の人たちにも不安が広がってるから	Ryza	Rorona and I are going to stay in the capital. This whole situation has the citizens on edge, after all.	莱莎	我和萝乐娜打算留在王都。\n毕竟情况不容乐观，王都居民也是人心惶惶。	萊莎	我和蘿樂娜打算留在王都。\n因為在這種情況下，感到不安的鎮民會越來越多。
+TalkEvent_09_003ID	14	Rorona	ロロナ	はい！　わたしのパイでみんなに元気を出して\nもらおうと思います！	Rorona	Which is exactly why they need a steady supply of pies! To keep their spirits up!	萝乐娜	是啊！我要用我做的派鼓舞大家！	蘿樂娜	沒錯！我想用我的派\n讓大家打起精神！
+TalkEvent_09_003ID	15	Roman	ロマン	どうかこの街の人々を頼んだよ	Roman	Thanks, I'd really appreciate having someone looking after the folks in town.	罗曼	那么这里的百姓就拜托你们了。	羅曼	鎮上的人們就拜託妳們了。
+TalkEvent_09_003ID	16	Ryza	ライザ	任せてください！	Ryza	Just leave it to us!	莱莎	交给我们吧！	萊莎	交給我們吧！
+TalkEvent_09_003ID	17	Rorona	ロロナ	はい！	Rorona	Yep, we've got this one!	萝乐娜	好的！	蘿樂娜	好的！
+TalkEvent_09_003ID	18	Juna	ユナ	殿下、私たちも行きましょう	Juna	Your Highness. It's time for us to go.	尤娜	殿下，我们也出发吧。	尤娜	殿下，我們也出發吧。
+TalkEvent_09_003ID	19	Izana	イザナ	ユナさん、ロマン君。\nみんなで頑張ろうね！	Izana	Juna! Roman! Let's all do our best!	伊札娜	尤娜小姐、罗曼，\n我们一起加油吧！	伊札娜	尤娜小姐、羅曼，\n大家一起加油吧！
+TalkEvent_09_003ID	20	Juna	ユナ	ああ。頂獣退治だ	Juna	Mhm. We'll bring down that beast.	尤娜	嗯。一起消灭顶兽吧。	尤娜	嗯，必須消滅頂獸。
+TalkEvent_09_003ID	21	Roman	ロマン	みんな無事で、またここに帰ってこよう	Roman	Stay safe! I want us all to make it home.	罗曼	大家都要平安归来啊。	羅曼	大家要平安地回到這裡。
+TalkEvent_09_004ID	0	Lydie	リディー	改めまして、錬金術士のリディー・マーレンです！\nこっちは双子の妹の――	Lydie	Just in case anyone didn't already know, I'm Lydie Malen, and I'm an alchemist! And this is my sister—	莉迪	请容我再自我介绍一下，我是炼金术士莉迪·玛莲！\n这位是我的双胞胎妹妹——	莉迪	重新自我介紹一下，我是鍊金術士莉迪‧瑪蓮！\n這位是我的雙胞胎妹妹──
+TalkEvent_09_004ID	1	Suelle	スール	同じく錬金術士、スール・マーレンです！\n皆さん、スーって呼んでください！	Suelle	Fellow alchemist and younger twin, Suelle Malen! But please, call me Sue!	苏瑞	我是苏瑞·玛莲！同样也是一名炼金术士！\n各位，叫我苏就好啦！	蘇瑞	我也是鍊金術士，名叫蘇瑞‧瑪蓮！\n各位，叫我蘇就可以了！
+TalkEvent_09_004ID	2	Resna	レスナ	リディー先輩、スー先輩。困難な状況での\nご挨拶ではありますが、ご指導ご鞭撻の程――	Resna	Lydie, Sue, I'm so sorry that we had to meet under such unfortunate circumstances, but I appreciate your guidance and encouragement!	蕾斯娜	莉迪前辈、苏前辈，\n当下虽是危难之时，但也还请前辈训诲鞭策——	蕾斯娜	莉迪前輩、蘇前輩，雖然目前情勢緊急，\n但還是要請前輩們多多指教──
+TalkEvent_09_004ID	3	Suelle	スール	わぁっ！　リディー！　あたしたち先輩だってさ。\nくふふ……！	Suelle	Oh, wow! Lydie! We're being treated like senior alchemists! Hehe!	苏瑞	哇！莉迪！她叫我们前辈耶！\n呵呵……！	蘇瑞	哇啊！莉迪！她說我們是前輩耶！\n呵呵……！
+TalkEvent_09_004ID	4	Lydie	リディー	も、もうっ！　スーちゃんってば。\nレスナさん！　私たちこそ色々教えてください！	Lydie	S-Sue! Sheesh. If anything, Resna, you should be the one teaching us!	莉迪	哎呀！小苏你真是的。\n蕾斯娜小姐，也请你多多指教！	莉迪	哎、哎呀！小蘇妳真是的。\n蕾斯娜小姐！我們才要麻煩妳指導呢！
+TalkEvent_09_004ID	5	Resna	レスナ	そんな、私が先輩方に教えるなんて、\n滅相もございません！	Resna	What?! I'm sure that accomplished ladies such as yourselves don't need any help!	蕾斯娜	不不不，我才疏学浅，\n岂敢妄自指教前辈！	蕾斯娜	沒這回事，\n要我指導前輩們簡直不可能！
+TalkEvent_09_004ID	6	Izana	イザナ	リディーとスーは何か足りないものはない？\nあと、お腹が空いてたら今のうち！	Izana	You're not missing anything, are you? Also, if you're hungry, speak now or forever hold your peace!	伊札娜	莉迪和苏还有什么没准备好的吗？\n还有，要是肚子饿的话就趁现在吃点东西吧！	伊札娜	莉迪和蘇還需要什麼嗎？\n還有，如果肚子餓了，得趁現在吃點東西！
+TalkEvent_09_004ID	7	Lydie	リディー	私もスーちゃんもしっかり備えてます！	Lydie	Nope, Sue and I are totally good to go!	莉迪	我和小苏都已经准备好了！	莉迪	我和小蘇都已經準備好了！
+TalkEvent_09_004ID	8	Suelle	スール	ご飯もさっき、美味しいものを目いっぱい食べました！	Suelle	We ate a ton of tasty stuff before we came to the square!	苏瑞	刚才也美美地饱餐一顿了呢！	蘇瑞	剛剛也吃了很多好吃的東西！
+TalkEvent_09_004ID	9	Izana	イザナ	よーし！　それじゃ、いつでも出発できるね！	Izana	Great! Sounds like we can head out whenever!	伊札娜	好！那我们随时都能出发了！	伊札娜	很好！這下隨時都能出發！
+TalkEvent_09_004ID	10	Valeria	ヴァレリア	レスナ、大丈夫？　元気ないみたい	Valeria	What's the matter, Resna? You look kind of down.	瓦莱莉娅	蕾斯娜，你没事吧？怎么看起来没什么精神。	瓦萊莉婭	蕾斯娜，妳還好嗎？妳好像沒什麼精神。
+TalkEvent_09_004ID	11	Resna	レスナ	ヴァレリア……。ううん、大丈夫……	Resna	Oh, Valeria... It's nothing, I'm fine.	蕾斯娜	瓦莱莉娅……嗯，我没事……	蕾斯娜	瓦萊莉婭……嗯，我沒事……
+TalkEvent_09_004ID	12	Valeria	ヴァレリア	大丈夫じゃないでしょ。\n私だってそれくらいは分かるようになったんだから	Valeria	No, you're not. Even I can tell that much.	瓦莱莉娅	你这才不是没事的样子。\n这点事我如今还是能看得出来的。	瓦萊莉婭	妳可不像沒事的樣子。\n這種事我現在也多少看得出來。
+TalkEvent_09_004ID	13	Izana	イザナ	あ、あのね！　レスナちゃんは――	Izana	U-Um! Resna's, well...	伊札娜	其、其实！蕾斯娜她——	伊札娜	我、我跟妳說！蕾斯娜她──
+TalkEvent_09_004ID	14	Resna	レスナ	イザナちゃん。\nありがとう、でも大丈夫。自分で話すよ	Resna	Thanks, Izana, but it's okay. I'll explain it myself.	蕾斯娜	伊札娜，谢谢你。\n但是没关系，我自己说吧。	蕾斯娜	伊札娜，謝謝妳。\n沒關係，讓我自己說吧。
+TalkEvent_09_004ID	15	Resna	レスナ	……心配かけてごめんね、ヴァレリア	Resna	I'm sorry to make you worry, Valeria.	蕾斯娜	……抱歉，瓦莱莉娅，让你担心了。	蕾斯娜	……瓦萊莉婭，抱歉讓妳擔心了。
+TalkEvent_09_004ID	16	Resna	レスナ	実は、ずっと考えてて。\n頂獣のことや……お父さんのこと	Resna	But I can't stop thinking about the Apexi...and my dad.	蕾斯娜	其实，我一直在想一些事情。\n关于顶兽……还有我爸爸。	蕾斯娜	其實，我一直在思考。\n關於頂獸……還有爸爸的事。
+TalkEvent_09_004ID	17	Valeria	ヴァレリア	レスナのお父さん？	Valeria	Why your dad?	瓦莱莉娅	蕾斯娜的爸爸？	瓦萊莉婭	蕾斯娜的爸爸？
+TalkEvent_09_004ID	18	Resna	レスナ	私のお父さんは魔物との戦いで行方不明になった、\nって話したでしょ？　その魔物っていうのは……	Resna	Do you remember how I told you that he went missing while he was out fighting monsters? Well, that just so happened to be...	蕾斯娜	我之前不是说过我爸爸在和魔物的战斗中下落不明吗？\n其实，那只魔物是……	蕾斯娜	我爸爸在和魔物戰鬥時失蹤了。\n我應該提過這件事吧？而那隻魔物……
+TalkEvent_09_004ID	19	Valeria	ヴァレリア	まさか、ウェルテックスが？	Valeria	Oh no. It was Weltex?	瓦莱莉娅	难不成就是威尔特克斯吗？	瓦萊莉婭	難道就是威爾特庫斯？
+TalkEvent_09_004ID	20	Resna	レスナ	……うん。お父さんは９年前、討伐隊の一員だったの。\nそして、その戦いの後、行方知れずになった	Resna	Yeah. Nine years ago, he was part of the group that pushed it back. After that battle, he vanished.	蕾斯娜	……是的。9年前，爸爸也是讨伐队的一员。\n自那一战之后，他就失踪了。	蕾斯娜	……嗯，我爸爸是9年前那支討伐隊的一員。\n那場戰鬥之後，他就失蹤了。
+TalkEvent_09_004ID	21	Resna	レスナ	私……怖い。またあの時みたいに、\n誰かいなくなっちゃうんじゃないかって	Resna	I'm scared. I can't help but worry that someone else is going to disappear and never come back.	蕾斯娜	所以我现在……很害怕，\n我害怕可能又会有谁一去不回……	蕾斯娜	我……很害怕會不會又有人\n像那時候一樣消失不見。
+TalkEvent_09_004ID	22	Valeria	ヴァレリア	……そっか	Valeria	I see.	瓦莱莉娅	这样啊……	瓦萊莉婭	……這樣啊。
+TalkEvent_09_004ID	23	Valeria	ヴァレリア	ってことは、お父さんをひどい目にあわせたヤツを\nぶっ飛ばす絶好の機会ってことね！	Valeria	So that makes this your best chance to send that jerk of a monster flying!	瓦莱莉娅	也就是说，这是个绝佳的机会啊，我们正好可以\n去狠狠教训那只害你爸爸下落不明的顶兽！	瓦萊莉婭	也就是說，那傢伙害妳爸吃足了苦頭。\n那現在正是揍飛那傢伙的絕佳機會！
+TalkEvent_09_004ID	24	Resna	レスナ	え……？	Resna	Huh?	蕾斯娜	什么……？	蕾斯娜	咦……？
+TalkEvent_09_004ID	25	Valeria	ヴァレリア	どっちにしろ戦うしかないなら、\n前向きに挑んだほうがいいと思わない？	Valeria	We're going to fight it no matter what, so isn't it better to face things with a positive attitude?	瓦莱莉娅	既然这场战斗是非打不可了，\n那就更应该积极地去面对它不是吗？	瓦萊莉婭	反正戰鬥已經無法避免，\n不如就積極面對挑戰吧？
+TalkEvent_09_004ID	26	Valeria	ヴァレリア	それに、失うって決まったわけじゃない	Valeria	Besides, it's not like we're destined to fail.	瓦莱莉娅	再说了，也不一定真的会有人一去不回对吧。	瓦萊莉婭	而且又不一定會出現犧牲者。
+TalkEvent_09_004ID	27	Valeria	ヴァレリア	私や、他のみんなだっているんだから。\nそう簡単に負けやしないわ	Valeria	I'll be there, and so will everyone else. We're not going to lose so easily!	瓦莱莉娅	还有我和其他伙伴在呢。\n我们不会那么轻易输掉的。	瓦萊莉婭	因為還有我們啊，\n怎麼可能那麼容易就輸掉。
+TalkEvent_09_004ID	28	Resna	レスナ	うん……そうだね！	Resna	Yeah... You're right!	蕾斯娜	嗯……也是！	蕾斯娜	嗯……妳說得對！
+TalkEvent_09_004ID	29	Resna	レスナ	私たちみんなでウェルテックスを倒そう！	Resna	We'll take down Weltex together!	蕾斯娜	我们一起打倒威尔特克斯吧！	蕾斯娜	讓我們一起打倒威爾特庫斯吧！
+TalkEvent_09_004ID	30	Lydie Malen	リディー・マーレン	双子の錬金術士の姉。\n人当たりが良い性格だが、少し天然	Lydie Malen	The older twin of the alchemist duo. While she has a warm and friendly nature, she can be a little absentminded.	莉迪・玛莲	双胞胎炼金术士中的姐姐。\n心地善良，但有些少根筋。	莉迪‧瑪蓮	雙胞胎鍊金術士中的姊姊。\n個性親切，卻有點少根筋。
+TalkEvent_09_004ID	31	Suelle Malen	スール・マーレン	通称「スー」。双子の錬金術士の妹。\n明るくおてんばでイタズラ好き	Suelle Malen	"The younger twin of the alchemist duo who mostly goes by the nickname ""Sue."" Bubbly and a little brash, she likes to play pranks."	苏瑞・玛莲	人称“小苏”，双胞胎炼金术士中的妹妹。\n性格开朗活泼，也爱恶作剧。	蘇瑞‧瑪蓮	通稱「蘇」，雙胞胎鍊金術士中的妹妹。\n既開朗又淘氣，喜歡惡作劇。
+TalkEvent_09_005ID	0		熱血漢な騎士	くそっ！　効いてないのか！	Enthusiastic Knight	Ugh! Nothing's working!	热血的骑士	可恶！对它没用吗！	熱血的騎士	可惡！沒用嗎！？
+TalkEvent_09_005ID	1		生真面目な騎士	まずい！　装填まだか！	Earnest Knight	This isn't looking good! Are we reloaded yet?	一本正经的骑士	糟了！炮弹还没装填好吗！	一板一眼的騎士	糟了！裝填還沒完成嗎！？
+TalkEvent_09_005ID	2		熱血漢な騎士	間に合わない！　退避！　退避ーっ！！	Enthusiastic Knight	There's no time! Retreat! Retreaaat!	热血的骑士	来不及了！后撤！快后撤——！！	熱血的騎士	來不及了！撤退！撤退──！！
+TalkEvent_09_005ID	3		熱血漢な騎士	っ！？　なんだ！？	Enthusiastic Knight	What the...?!	热血的骑士	什么？！发生什么了？！	熱血的騎士	呃！？怎麼回事！？
+TalkEvent_09_005ID	4	Firis	フィリス	皆さん、大丈夫ですか！？	Firis	Is everyone here all right?!	菲利丝	你们没事吧？！	菲莉絲	各位，沒事吧！？
+TalkEvent_09_005ID	5		生真面目な騎士	助かった！　あなたは？	Earnest Knight	We are, thanks to you! Er, who are you?	一本正经的骑士	多谢相助！请问你是？	一板一眼的騎士	得救了！妳是？
+TalkEvent_09_005ID	6	Firis	フィリス	フィリスと言います！\nただの通りすがりの――錬金術士です！	Firis	The name's Firis! I'm an alchemist who just happened to be passing by!	菲利丝	我叫菲利丝！\n只是一名路过的——炼金术士！	菲莉絲	我叫做菲莉絲！\n只是個湊巧路過的鍊金術士罷了！
+TalkEvent_09_005ID	7		熱血漢な騎士	錬金術士……？	Enthusiastic Knight	An...alchemist?	热血的骑士	炼金术士……？	熱血的騎士	鍊金術士……？
+TalkEvent_09_005ID	8		生真面目な騎士	こんな所に居てはいけない。\nあなたも避難を	Earnest Knight	You shouldn't be here. Go on, get to safety.	一本正经的骑士	这里很危险。\n你也赶紧去避难吧。	一板一眼的騎士	這裡不能再待下去了，\n妳也快去避難！
+TalkEvent_09_005ID	9	Firis	フィリス	ううん、わたしなら大丈夫です！\nそれよりも……	Firis	Nah, I'll be fine! More importantly...	菲利丝	不用，我没事！\n看样子……	菲莉絲	別擔心我！\n比起這個……
+TalkEvent_09_005ID	10	Firis	フィリス	まだみんなの避難が終わってないんですよね！？\nあいつの足止めをしましょう！	Firis	Not everyone has finished evacuating yet, right? We've got to keep that thing from going any farther!	菲利丝	这里的人们都还没有疏散完毕吧？！\n我们赶紧牵制住它！	菲莉絲	大家還沒完全撤離，對吧！？\n讓我們來拖住那傢伙！
+TalkEvent_09_005ID	11		生真面目な騎士	……そうだな。\n次弾、装填完了！	Earnest Knight	...That's a fair point. Ready the next bomb!	一本正经的骑士	……好。\n下一枚炮弹，装填完毕！	一板一眼的騎士	……也是。\n砲彈裝填完畢！
+TalkEvent_09_005ID	12		熱血漢な騎士	よし！　発射よーい！	Enthusiastic Knight	Ready! Fire!	热血的骑士	好！发射！	熱血的騎士	好！發射預備──！
+TalkEvent_09_005ID	13	Firis	フィリス	きゃああぁぁっ！？	Firis	Huuuh?!	菲利丝	呀啊啊啊？！	菲莉絲	呀啊啊啊啊！？
+TalkEvent_09_005ID	14		熱血漢な騎士	な、なんだこれは！？　身動きできない！	Enthusiastic Knight	Wh-What's happening?! I can't move!	热血的骑士	这、这是怎么回事？！身体动弹不得！	熱血的騎士	這、這是怎麼一回事！？身體居然動不了！
+TalkEvent_09_005ID	15	Firis	フィリス	身体が……鉛みたい……っ！？\nお、重い……っ！	Firis	My body...feels like lead! I-It's too heavy...!	菲利丝	身体……就像灌了铅一样……？！\n好、好重……！	菲莉絲	身體……像鉛塊一樣……！？\n好、好重……！
+TalkEvent_09_005ID	16		生真面目な騎士	くっ、これが頂獣の力……！	Earnest Knight	Nngh! So this is an Apexi's power...!	一本正经的骑士	唔，这就是顶兽的力量……！	一板一眼的騎士	唔，這就是頂獸的力量嗎……！
+TalkEvent_09_005ID	17	Firis	フィリス	これじゃあ、まともに戦うなんて……！	Firis	How is this a fair fight?!	菲利丝	这样根本只能单方面挨打……！	菲莉絲	我們根本不是牠的對手……！
+TalkEvent_09_005ID	18		熱血漢な騎士	っ！？　来るぞ！　みんな、よけるんだ！	Enthusiastic Knight	Here it comes! Everyone, move!	热血的骑士	啊？！它攻过来了！各位小心！	熱血的騎士	唔！？要來了！大家快點避開！
+TalkEvent_09_005ID	19		生真面目な騎士	なんて力だ……！	Earnest Knight	What strength!	一本正经的骑士	这是何等的破坏力……！	一板一眼的騎士	這力量太驚人了……！
+TalkEvent_09_005ID	20	Firis	フィリス	くっ……させない！	Firis	Khh... I'm not going to let you fire off another one!	菲利丝	唔……不会让你得逞的！	菲莉絲	唔……不會讓你得逞的！
+TalkEvent_09_005ID	21	Firis	フィリス	なんとか……なったけど！	Firis	Th-That actually worked!	菲利丝	总算是……有了点效果！	菲莉絲	應該是……勉強擋下了！
+TalkEvent_09_005ID	22		生真面目な騎士	住民の避難が完了したようだ！\n我々も退避しよう。悔しいが、今の戦力では……	Earnest Knight	All the civilians have finished evacuating! And as much as I hate to say it, we should retreat with them. We're just no match for that thing right now.	一本正经的骑士	居民都已疏散完毕！我们也撤退吧。\n虽然很不甘心，但光凭我们也……	一板一眼的騎士	居民似乎已全數避難！我們也撤退吧。\n雖然很不甘心，但以現在的戰力……
+TalkEvent_09_005ID	23		熱血漢な騎士	く……ああ！	Enthusiastic Knight	Tch... Fine!	热血的骑士	唔……知道了！	熱血的騎士	唔……好！
+TalkEvent_09_005ID	24		男性	俺たちの島が……	Man	Our island, it's...	男人	我们的岛……	男性	我們的島……
+TalkEvent_09_005ID	25		子ども	うわーん！　わあぁぁん！！	Child	Waaah! Waaaaaah!	小孩子	呜呜！哇啊啊啊！！	小孩	嗚哇──！哇啊啊啊！！
+TalkEvent_09_005ID	26	Firis	フィリス	……泣かないで。大丈夫だよ。\nいつか絶対、帰ってこられるから……	Firis	Don't cry, everything will be all right. You'll definitely be able to go back someday, so...	菲利丝	别哭……相信我，\n你们总有一天一定能回去的……	菲莉絲	……別哭，沒事的！\n總有一天你們一定能回去……
+TalkEvent_09_005ID	27	Firis	フィリス	（旅の途中に立ち寄った島で、\n　こんなことが起こるなんて）	Firis	(I can't believe something like this happened to an island that I just stumbled across.)	菲利丝	（在旅行途中路过这座岛上，\n　竟然发生了这样的事情……）	菲莉絲	（沒想到在旅途中造訪的島嶼\n　竟然會發生這種事。）
+TalkEvent_09_005ID	28	Firis	フィリス	（なんとか村人たちは全員無事だったけど、\n　わたしたちの力じゃ島を守ることはできなかった）	Firis	(I'm glad that all of the villagers made it out safely, but we couldn't protect their homes.)	菲利丝	（好不容易算是确保了全体村民的人身安全，\n　但我们的力量还不足以守护这座岛。）	菲莉絲	（即便救出了所有村民，\n　但光憑我們的力量仍無法守住島嶼。）
+TalkEvent_09_005ID	29	Firis	フィリス	（元の世界と同じように錬金術を使えてたとしても……\n　とんでもなく危険な相手だったと思う）	Firis	(Even if I could use alchemy the same way I would back home, that would still be a seriously dangerous opponent.)	菲利丝	（即使现在能像原来的世界那样使用炼金术……\n　这样的对手还是太过危险了。）	菲莉絲	（雖然來到這個世界後還能使用鍊金術……\n　不過，牠依然是極度危險的對手。）
+TalkEvent_09_005ID	30	Firis	フィリス	（アトリエに行って、マリオンさんに報告しないと。\n　絶対に、頂獣をなんとかしなくちゃ）	Firis	(I'd better head to the atelier and report in with Marion. We've got to do something about this Apexi.)	菲利丝	（得先去趟炼金工房和玛丽翁小姐汇报一下才行。\n　一定要想办法解决这只顶兽。）	菲莉絲	（得去鍊金工房向瑪麗翁小姐報告。\n　一定要想辦法對付頂獸才行。）
+TalkEvent_09_005ID	31	Firis Mistlud	フィリス・ミストルート	クア州沖の離島を偶然訪れていた錬金術士。\n好奇心旺盛で、旅をこよなく愛している	Firis Mistlud	An alchemist who just happened to drop in on a remote island at the right (or wrong?) time. Brimming with curiosity, she loves traveling more than anything.	菲利丝·密斯忒卢特	偶然路过库亚州近海小岛的炼金术士。\n好奇心旺盛，热爱旅行。	菲莉絲‧密斯忒盧特	碰巧來到庫厄州離島的鍊金術士。\n不但擁有旺盛的好奇心，還極度熱愛旅行。
+TalkEvent_09_006ID	0	Izana	イザナ	野営地がある海岸ってこの辺りかな？	Izana	That campsite should be somewhere nearby, right?	伊札娜	建有野营地的海岸是在这附近吗？	伊札娜	這附近就是營地所在的海岸嗎？
+TalkEvent_09_006ID	1	Resna	レスナ	まだ上陸はされていないみたいだね。\nあ、でも……魔物たちの様子が！	Resna	It looks like the Apexi hasn't come ashore yet either. Oh, but...look at the monsters!	蕾斯娜	顶兽好像还没有登陆。\n但是……魔物们的状态不太对劲！	蕾斯娜	看來頂獸還沒登陸。\n啊，不過……魔物們的樣子不太對勁！
+TalkEvent_09_006ID	2	Valeria	ヴァレリア	暴れたり逃げ出したり……頂獣に怯えてるのかしら	Valeria	They're racing around in a panic... I wonder if they're afraid of the Apexi.	瓦莱莉娅	横冲直撞，四处逃窜……是因为畏惧顶兽吗？	瓦萊莉婭	到處橫衝直撞……是因為害怕頂獸嗎？
+TalkEvent_09_006ID	3	Heidi	ハイディ	魔物だけが感じられる何かがあるのかも。\nともかく、先へ進むにはあの魔物たちが邪魔だね	Heidi	I guess they can sense something that we can't. But we're not going to make any progress while they're in the way.	海蒂	也许是有什么只有魔物才能感受到的东西。\n不管怎样，那些魔物让我们很难继续赶路啊。	海蒂	魔物可能感覺到了些什麼。\n總之如果要前進，那些魔物很礙事呢。
+TalkEvent_09_006ID	4	Valeria	ヴァレリア	全員、大人しくしてもらいましょ！	Valeria	Then we'll just put them all in their place!	瓦莱莉娅	各位，我们一起让魔物们老实下来吧！	瓦萊莉婭	那只好請牠們安分下來了！
+TalkEvent_09_006ID	5	Heidi	ハイディ	やるっきゃないね	Heidi	Yep, that's how it'll have to go.	海蒂	只能上了呢。	海蒂	也只能這樣了。
+TalkEvent_09_006ID	6	Suelle	スール	リディー、あたしたちもやるよっ！	Suelle	Lydie, we'd better lend a hand!	苏瑞	莉迪，我们也上吧！	蘇瑞	莉迪，我們也上吧！
+TalkEvent_09_006ID	7	Lydie	リディー	うんっ、スーちゃん！	Lydie	Sure thing, Sue!	莉迪	嗯，小苏！	莉迪	好的，小蘇！
+TalkEvent_09_006ID	8	Lydie	リディー	今ならいけるかも！	Lydie	I think we can manage this!	莉迪	现在应该能行！	莉迪	我們現在應該做得到！
+TalkEvent_09_006ID	9	Suelle	スール	よーし、みんな覚悟してよねっ！\nてやーーっ！	Suelle	Okay, sounds like we're all ready, sooo... Take that!	苏瑞	好，都接招吧！\n喝——！	蘇瑞	好，那大家就做好心理準備吧！\n喝啊──！
+TalkEvent_09_006ID	10	Izana	イザナ	おおっ！　息ピッタリ！	Izana	Whoa! Nice synchronization!	伊札娜	哇！真是天衣无缝！	伊札娜	哦哦！配合得真完美！
+TalkEvent_09_006ID	11	Resna	レスナ	まさに流れるような連携ですね！\n先輩方、さすがです！	Resna	Your moves just flow into each other's! That's so amazing!	蕾斯娜	这连招真是行云流水！\n前辈们果然好厉害！	蕾斯娜	宛如行雲流水般的聯手攻擊！\n不愧是前輩們！
+TalkEvent_09_006ID	12	Suelle	スール	くふふ。美人な上に強いなんて、まさにあれだよね？	Suelle	Ehehe. We've got the brawn, we've got the beauty, we've got it all! Pretty impressive, huh?	苏瑞	哼哼。我们既漂亮又实力高强，完全当得起那个词吧？	蘇瑞	呵呵，外表美麗而且實力高強，就是這樣吧？
+TalkEvent_09_006ID	13	Resna	レスナ	はいっ！　才色兼備とはこのこと！\nお二人と同行できて本当に心強いです！	Resna	Absolutely! I'm so glad that you two came with us!	蕾斯娜	没错！真可谓是“才貌双全”！\n有二位同行真是令人安心！	蕾斯娜	沒錯！正所謂才色兼備！\n有妳們兩位同行真令人安心！
+TalkEvent_09_006ID	14	Izana	イザナ	うん、レスナちゃんもいつもの調子が出てきたみたい	Izana	Yep, looks like Resna's back to her usual self, too.	伊札娜	嗯，看来蕾斯娜也恢复到平时的状态了。	伊札娜	嗯，蕾斯娜好像也恢復到平時的狀態了。
+TalkEvent_09_006ID	15	Heidi	ハイディ	そいつは結構。その勢いがあれば、あっちの連中も\nあっという間に倒せそうじゃない	Heidi	All right, that's enough flattery. Although, we'll probably have those guys wiped out in no time with this kind of energy.	海蒂	那可太好了。照这个势头，\n那边那群家伙应该也能速战速决了。	海蒂	那就好。保持這股氣勢的話，\n應該也能輕鬆打倒那群傢伙吧。
+TalkEvent_09_006ID	16	Lydie	リディー	わっ、まだあんなに	Lydie	Wow, there are still so many of them.	莉迪	哇，怎么还有这么多。	莉迪	哇，居然還有那麼多。
+TalkEvent_09_006ID	17	Suelle	スール	まだまだいけるよ！　ス―ちゃんの実力見せてやる！	Suelle	But we're not going to slow down! I'll show you my true strength!	苏瑞	我还没使出全部本事呢！就让你们尝尝我的厉害吧！	蘇瑞	我還能繼續戰鬥！讓各位見識一下小蘇的實力！
+TalkEvent_09_007ID	0	Resna	レスナ	なんとか片付きましたね	Resna	Phew, that's the last of them.	蕾斯娜	总算解决掉了。	蕾斯娜	總算解決了。
+TalkEvent_09_007ID	1	Suelle	スール	あ！　もしかしてあそこに見えるのが野営地？	Suelle	Oh! Could that be the campsite over there?	苏瑞	啊！难道那边就是野营地？	蘇瑞	啊！難道說那就是營地？
+TalkEvent_09_007ID	2	Izana	イザナ	きっとそうだよ！\nあそこには先行している仲間が……うん？	Izana	I'm sure it is! Which means that everyone who got a head start should... Hm?	伊札娜	肯定是了！\n那边不是有先到的伙伴……嗯？	伊札娜	肯定是！\n先出發的夥伴應該已經到了……嗯？
+TalkEvent_09_007ID	3	Valeria	ヴァレリア	へーっ、何これ。随分たくさん並んでるわね、\n結構強そうじゃない	Valeria	Whoa, weird. There are a whole bunch of these strong-looking things in a row.	瓦莱莉娅	嗯？这是什么？\n这么多的石像一字排开，看着还挺强的嘛。	瓦萊莉婭	哦～這是什麼？好壯觀。\n看起來很強呢。
+TalkEvent_09_007ID	4	Heidi	ハイディ	この州の名物みたいだね	Heidi	This area's famous for them, actually.	海蒂	它们好像是这个州的名产。	海蒂	似乎是這個州的名勝。
+TalkEvent_09_007ID	5	Roman	ロマン	皆、無事に合流できて何よりだ	Roman	I'm so glad to see that everyone made it here safely.	罗曼	各位，能平安会合真是太好了。	羅曼	各位，能順利會合真是太好了。
+TalkEvent_09_007ID	6	Resna	レスナ	ロマンさん！　ユナさんも！\nそれから……ええと、そちらの方は？	Resna	Roman! Juna! And, um... Who might this other person be?	蕾斯娜	罗曼先生！尤娜小姐！\n还有……唔，那边那位是？	蕾斯娜	羅曼先生！尤娜小姐也在！\n還有……呃，那位是？
+TalkEvent_09_007ID	7	Lydie	リディー	あれっ！？　そこにいるのって……フィリスさん！\nフィリスさんがどうしてここに？	Lydie	Huh?! Is that you, Firis? What are you doing here?	莉迪	等等？！那个人……不是菲利丝小姐吗！\n菲利丝小姐怎么也在这里？	莉迪	咦！？在那邊的是……菲莉絲小姐！\n妳為什麼會在這裡？
+TalkEvent_09_007ID	8	Firis	フィリス	あー！　二人とも久しぶり！\n実はちょうどこの辺りを旅してる最中だったんだ	Firis	Oh, hey! Long time no see! I just happened to be traveling through the area when everything went south.	菲利丝	啊！好久不见啊两位！\n其实我正好在这一带旅行呢。	菲莉絲	啊──！兩位好久不見！\n其實我正好在附近旅行。
+TalkEvent_09_007ID	9	Lydie	リディー	今こんな状況なのでゆっくり説明はできないんですが、\nフィリスさんは私たちの師匠のお友達で……	Lydie	We don't really have time to explain everything, but Firis is our good friend and mentor.	莉迪	现在情况紧迫，来不及详细介绍了，\n简而言之，菲利丝小姐是我们师父的朋友……	莉迪	雖然目前情況危急，沒辦法和各位好好介紹，\n但總之菲莉絲是師父的友人……
+TalkEvent_09_007ID	10	Firis	フィリス	フィリス・ミストルートです。\nみんな、よろしくね	Firis	Firis Mistlud, at your service.	菲利丝	我叫菲利丝·密斯忒卢特。\n各位还请多多关照。	菲莉絲	我是菲莉絲‧密斯忒盧特。\n各位，請多指教囉。
+TalkEvent_09_007ID	11	Suelle	スール	フィリスさんは凄腕の錬金術士なんです！	Suelle	Firis is an absolutely brilliant alchemist!	苏瑞	菲利丝小姐可是超级厉害的炼金术士哦！	蘇瑞	菲莉絲小姐是相當厲害的鍊金術士！
+TalkEvent_09_007ID	12	Resna	レスナ	なんと！　錬金術士の方でしたか！　僥倖っ！！	Resna	Oh my goodness, another alchemist?! That's so lucky!	蕾斯娜	什么！又是一位炼金术士吗！我真是太幸运了！！	蕾斯娜	什麼！妳是鍊金術士啊！幸會！！
+TalkEvent_09_007ID	13	Roman	ロマン	彼女はたまたま近くにいて巻き込まれたらしい。\nその際、騎士と共に避難の手伝いをしてくれたんだ	Roman	She just happened to be in the right place at the right time. Thanks to that, Firis and the knights in the area were able to work together to escape.	罗曼	她好像是因为碰巧身在附近被牵扯进来的。\n顶兽来袭时，她协助骑士们一起疏散了居民。	羅曼	據說她因為正好在附近而被捲入其中。\n還和騎士一起協助居民避難。
+TalkEvent_09_007ID	14	Juna	ユナ	騎士団の者として、私からも重ねて礼を言う	Juna	On behalf of the knighthood, please allow me to extend my appreciation as well.	尤娜	作为骑士团的一员，再次感谢你的帮助。	尤娜	我代表騎士團再次向妳道謝。
+TalkEvent_09_007ID	15	Lydie	リディー	フィリスさん、私たちの知らないところで\nしっかり活躍してたんですね	Lydie	You sure have been keeping busy, huh?	莉迪	菲利丝小姐在我们不知道的地方\n也在积极发挥力量呢。	莉迪	菲莉絲小姐，妳在我們不知道的地方\n表現得相當活躍呢。
+TalkEvent_09_007ID	16	Resna	レスナ	錬金術を使いこなせれば、多くの人を救う手立てに\nなる……勉強になります、フィリス先輩！	Resna	Wow, so mastering alchemy means you can save a ton of people... Thank you, Firis! That was enlightening!	蕾斯娜	将炼金术运用自如也是拯救他人的一种方式……\n菲利丝前辈，真是让我受益匪浅！	蕾斯娜	若能精通鍊金術，就有機會拯救許多人……\n受教了，菲莉絲前輩！
+TalkEvent_09_007ID	17	Firis	フィリス	あはは、無我夢中で手伝ってただけなんだけどね。\nそれに、頂獣には手も足も出なかったし	Firis	Ahaha, I just leaped in to help without thinking too much about it. Not that it did much against the Apexi.	菲利丝	啊哈哈，我也只是情急之下帮忙了而已。\n而且，面对那只顶兽时我也毫无招架之力。	菲莉絲	啊哈哈，我只是拚了命地幫忙而已。\n而且，我對頂獸也束手無策。
+TalkEvent_09_007ID	18	Resna	レスナ	フィリス先輩、ウェルテックスと戦ったんですか！？	Resna	You fought Weltex?!	蕾斯娜	菲利丝前辈和威尔特克斯战斗了吗？！	蕾斯娜	菲莉絲前輩，妳和威爾特庫斯交手了！？
+TalkEvent_09_007ID	19	Firis	フィリス	ううん、戦うどころじゃなかった。実はね……	Firis	Well, I wouldn't really call it a fight. It was more like...	菲利丝	不，根本谈不上战斗。当时情况是这样……	菲莉絲	不。與其說是交手，不如說……
+TalkEvent_09_007ID	20	Heidi	ハイディ	身体が重くなって身動きが取れない……か。\n厄介そうな力だね	Heidi	Hm, so you all felt too heavy to move? That power sounds like bad news.	海蒂	身体重得无法动弹吗……\n这种力量恐怕很难对付啊。	海蒂	身體變得沉重所以無法行動……嗎？\n聽起來很棘手呢。
+TalkEvent_09_007ID	21	Valeria	ヴァレリア	それで、ウェルテックスは今どうなってるの？	Valeria	Then what's Weltex doing now?	瓦莱莉娅	威尔特克斯现在怎么样了？	瓦萊莉婭	那威爾特庫斯跑去哪裡了？
+TalkEvent_09_007ID	22	Roman	ロマン	ひとしきり暴れた後、\n今は再び海中に身を潜めているようだ	Roman	It went on a rampage, then promptly dove back into the sea.	罗曼	在岛上胡作非为一阵之后，又回到海里去了。	羅曼	大鬧了一會兒後，\n似乎再度潛入海中了。
+TalkEvent_09_007ID	23	Roman	ロマン	９年前の戦いでも、同様の記録が残っているんだが、\nヤツは主に夜間に活動する生態を持っているらしい	Roman	According to records from the battle nine years ago, that's not unusual behavior for it. By and large, it's mostly active at night.	罗曼	9年前的战斗中也留下了相同的记录，\n那家伙似乎习惯在夜里行动。	羅曼	紀錄顯示9年前的戰鬥也是如此。\n據說那傢伙總是在夜間活動。
+TalkEvent_09_007ID	24	Resna	レスナ	夜行性ってことですか？\nということは、太陽の光が大きな弱点とか？	Resna	So it's nocturnal? Is it possible that it's weak to sunlight?	蕾斯娜	也就是所谓的“夜行性”吗？\n照这么说，太阳光会不会是它的一大弱点？	蕾斯娜	所以是夜行性？\n那牠的弱點是不是陽光？
+TalkEvent_09_007ID	25	Roman	ロマン	残念なことに、そうではないようだ。\nなぜ夜行性なのかは分からないが……	Roman	Rather unfortunately, that doesn't seem to be the case. It's anyone's guess as to why it prefers the dark.	罗曼	很遗憾，似乎并不是。\n虽然不清楚它为什么会有这样的习性……	羅曼	可惜似乎不是這樣。\n雖然不曉得牠為何是夜行性……
+TalkEvent_09_007ID	26	Juna	ユナ	ただ１つ確かなのは、半日の活動でも９年前のような\n被害をもたらすほど強大な力を持っているということだ	Juna	That said, the one thing we do know is that a half-day's tantrum did as much damage as its attack almost a decade ago.	尤娜	但唯一可以确定的是，它的力量强大到\n即使活动短短半天就足以造成9年前的那种破坏。	尤娜	但可以確定的是，即使只活動半天，\n牠造成的災害規模依舊不輸給9年前那次。
+TalkEvent_09_007ID	27	Heidi	ハイディ	な、なるほど……話を聞くだけでもおっかないなぁ	Heidi	Uh-huh... M-Man, just hearing about it is scary enough.	海蒂	原、原来如此……光是听着就够吓人了。	海蒂	原、原來如此……光聽就覺得很嚇人。
+TalkEvent_09_007ID	28	Izana	イザナ	それじゃあ、また夜になったら\n動き出すってことだよね？	Izana	So that means it'll probably come back at night, right?	伊札娜	这么说，等到了晚上它又会开始行动吗？	伊札娜	所以天黑之後，\n牠又會開始行動，對吧？
+TalkEvent_09_007ID	29	Roman	ロマン	そう考えておいたほうがいいだろう。\nそれまでに迎撃準備を整えておきたい	Roman	I'd say it's safe to assume as much. In the meantime, we're focusing on our preparations for the assault.	罗曼	最好还是先以此为前提行事吧。\n在那之前我们要做好迎击的准备。	羅曼	先這麼認為比較好。\n在那之前，我想做好迎擊的準備。
+TalkEvent_09_007ID	30	Resna	レスナ	ロマンさん！　私たちは何をすれば……！	Resna	Um, Roman! If there's anything we can do...!	蕾斯娜	罗曼先生！我们要做什么呢……！	蕾斯娜	羅曼先生！那我們該做什麼才好……！
+TalkEvent_09_007ID	31	Roman	ロマン	作戦はすでに立ててある。これから説明させてもらうよ	Roman	We've already got a strategy worked out, which I'll break down for you.	罗曼	我已经制定好了作战计划。下面我来说明一下。	羅曼	作戰計畫已經制定好了，接下來讓我來說明吧。
+TalkEvent_09_008ID	0	Roman	ロマン	フィリスが話してくれた通り、厄介なのは\nこちらの身動きを取れなくする攻撃だ	Roman	Going by what Firis told us, that paralyzing attack is the worst thing we could get hit by.	罗曼	如菲利丝所说，这家伙的棘手之处在于\n限制对手行动的攻击。	羅曼	如菲莉絲所言，\n最棘手的是牠能讓大家無法行動。
+TalkEvent_09_008ID	1	Roman	ロマン	ただ、その範囲には限界があるようだ。\n距離を取れば影響を受けずに済む	Roman	Thankfully, though, it has its limits. You won't be affected if you're far enough away.	罗曼	不过，那种攻击似乎有范围限制。\n只要保持一定距离就不会受到影响。	羅曼	不過，那種攻擊似乎有範圍限制。\n只要和牠保持距離，就不會受到影響。
+TalkEvent_09_008ID	2	Firis	フィリス	そのおかげでなんとか逃げられたんだよね	Firis	That's how we managed to escape.	菲利丝	因此那时候我们才得以逃出生天。	菲莉絲	多虧如此，我們才有辦法逃脫。
+TalkEvent_09_008ID	3	Resna	レスナ	ということは、遠くから攻撃すれば……	Resna	So if we can attack it from a distance, then maybe...	蕾斯娜	也就是说，从远处攻击的话……	蕾斯娜	所以說，如果從遠方攻擊……
+TalkEvent_09_008ID	4	Roman	ロマン	ああ、そうだ。頂獣の進路にある島や洋上に\n武装を設置し、遠距離から攻撃を仕掛ける	Roman	Exactly. If we set up weapons on islands within its path, or on the water's surface, then we'll be able to launch an assault from a safer range.	罗曼	嗯，没错。我打算在顶兽行进路线上的\n岛屿和海面上设置武器，从远距离发动攻击。	羅曼	沒錯。我們會在位於頂獸前進路線的\n島嶼和海上設置武器，執行遠距離攻擊。
+TalkEvent_09_008ID	5	Heidi	ハイディ	そりゃ分かりやすい作戦。\n上手くいってほしいなぁ	Heidi	That sounds simple enough. I really hope it works.	海蒂	好简单明了的计划。\n要是能成功就好了。	海蒂	真是簡單易懂的作戰。\n希望能成功～
+TalkEvent_09_008ID	6	Roman	ロマン	もちろん、仕留めきれる保証はない。\nそこで、並行して海岸付近の砦で防衛態勢を整える	Roman	Of course, there's no guarantee that will be enough to bring it down, so we've also been working on a coastal fortress.	罗曼	当然，也没法保证这样就能直接解决掉它。\n因此，我们要同时在海岸附近的要塞做好防卫准备。	羅曼	當然，我無法保證一定能解決牠。\n因此得同時在海岸附近的要塞做好防禦準備。
+TalkEvent_09_008ID	7	Lydie	リディー	砦って……今から準備して間に合うでしょうか	Lydie	Is there even enough time to build something like that?	莉迪	要塞……现在开始准备还来得及吗？	莉迪	要塞……現在開始準備的話，還來得及嗎？
+TalkEvent_09_008ID	8	Roman	ロマン	９年前の戦いで使われた砦があるんだ。\nかなり傷ついてしまっているが、まだ再利用できる	Roman	The one they used nine years ago is still standing. It's seen better days, but it's serviceable.	罗曼	9年前的战斗中也同样用过那座要塞。\n要塞虽然受损严重，但还能使用。	羅曼	9年前曾使用過的要塞還留著。\n雖然傷痕累累，但還能再利用。
+TalkEvent_09_008ID	9	Roman	ロマン	その砦にヤツを誘い込み、総攻撃を仕掛ける。\nそれが本命の作戦ということだね	Roman	We lure it there, then launch an all-out attack. That is our real strategy.	罗曼	我们要把它引诱到要塞里，再发动全面进攻。\n这才是真正的作战计划。	羅曼	得把那傢伙引誘到要塞中，對他發動總攻擊。\n這才是作戰的重頭戲。
+TalkEvent_09_008ID	10	Roman	ロマン	時間は限られている。\n各自、分担して準備にあたってもらいたい	Roman	Either way, time is of the essence. I'd like to ask each of you to contribute to the ongoing tasks.	罗曼	时间有限，\n希望各位能分工合作。	羅曼	時間有限，\n我希望大家能分工合作。
+TalkEvent_09_008ID	11	Roman	ロマン	レスナ、イザナの二人はフィリスと共に\n洋上での迎撃に備えて武装の調達を頼む	Roman	Resna, Izana, would you mind working with Firis to make the arms that we'll put out on the sea?	罗曼	蕾斯娜、伊札娜，你们和菲利丝一起\n准备能在海上进行迎击的武器。	羅曼	麻煩蕾斯娜、伊札娜與菲莉絲協助\n調度武器，替海上作戰做準備。
+TalkEvent_09_008ID	12	Izana	イザナ	武装？	Izana	Like, the weapons?	伊札娜	武器？	伊札娜	武器？
+TalkEvent_09_008ID	13	Roman	ロマン	遠距離から攻撃を仕掛けるためのものだ。\nぜひ、錬金術の力を借りたい	Roman	Right, the ones for the long-range attacks. I'd appreciate having alchemical help with that.	罗曼	就是能从远处发动攻击的东西。\n我希望能借助炼金术的力量。	羅曼	為了執行遠距離攻擊，我們必須設置武器。\n我希望能借助鍊金術的力量。
+TalkEvent_09_008ID	14	Resna	レスナ	は、はい！　任せてください！	Resna	O-Of course! You can leave it to us!	蕾斯娜	好、好的！交给我们吧！	蕾斯娜	好、好的！包在我身上！
+TalkEvent_09_008ID	15	Firis	フィリス	よろしくね、レスナちゃん！\nって、なんか緊張してる？	Firis	I'm sure we'll make a great team, Resna! But...uh, you look a little tense.	菲利丝	请多关照啦，蕾斯娜！\n嗯？你怎么好像有点紧张？	菲莉絲	蕾斯娜，請多指教囉！\n呃，妳好像有點緊張？
+TalkEvent_09_008ID	16	Resna	レスナ	い、いえっ！　そんなことは……あるかもしれないです	Resna	I-I'm fine! I'm not... Okay, I might be the tiniest bit nervous.	蕾斯娜	没、没有！我才不紧张……不，我好像是有点紧张。	蕾斯娜	不、不！沒這回事……或許吧。
+TalkEvent_09_008ID	17	Roman	ロマン	レスナ。少しは肩の力を抜いたほうがいい。\nそんな調子では夜まで持たないよ	Roman	You should relax if you can, Resna. Otherwise, you'll be worn out by the time night rolls around again.	罗曼	蕾斯娜，试着稍微放松一下吧。\n不然你那样可坚持不到晚上哦。	羅曼	蕾斯娜，還是稍微放輕鬆比較好。\n否則會撐不到晚上。
+TalkEvent_09_008ID	18	Firis	フィリス	ほらっ、深呼吸だよ！	Firis	Come on, deep breaths!	菲利丝	来，深呼吸！	菲莉絲	來，深呼吸！
+TalkEvent_09_008ID	19	Resna	レスナ	はいっ！　すーーはーー	Resna	Right! Iiin... Ooout...	蕾斯娜	好！吸气——吐气——	蕾斯娜	好的！吸──吐──
+TalkEvent_09_008ID	20	Roman	ロマン	リディー、スーの二人は、砦のほうに来てくれ。\n外壁の修理や物資の運び込みを手伝ってほしい	Roman	Lydie, Sue, I'd like you two to head to the fortress. The walls need some patching, and there are still supplies to be brought in.	罗曼	莉迪、苏，你们跟我一起前往要塞。\n我需要你们帮忙一起修缮外墙和运送物资。	羅曼	莉迪、蘇，兩位請到要塞來。\n我希望妳們能幫忙修理外牆及運送物資。
+TalkEvent_09_008ID	21	Suelle	スール	はーい！	Suelle	Aye-aye, sir!	苏瑞	是——！	蘇瑞	是──！
+TalkEvent_09_008ID	22	Roman	ロマン	ヴァレリアとハイディは海辺周辺の魔物の討伐を頼む。\n作戦を邪魔されるのは避けたいからね	Roman	Valeria, Heidi. Could you do a sweep of the beach and clear out the monsters? We don't need any extra distractions.	罗曼	瓦莱莉娅和海蒂负责讨伐海边的魔物，\n避免作战受到魔物们的干扰。	羅曼	麻煩瓦萊莉婭和海蒂去討伐海邊的魔物，\n以免作戰計畫被阻撓。
+TalkEvent_09_008ID	23	Valeria	ヴァレリア	任せておいて！　そういうのは得意だから	Valeria	Sure thing! After all, that's what we're best at.	瓦莱莉娅	交给我们吧！那是我们的强项！	瓦萊莉婭	交給我吧！我最擅長這種事了。
+TalkEvent_09_008ID	24	Heidi	ハイディ	ちょっと！　私は得意じゃないよ！	Heidi	Um, you may be, but I'm not!	海蒂	打住！我可没这个强项！	海蒂	等一下！我可不擅長啊！
+TalkEvent_09_008ID	25	Roman	ロマン	説明は以上だ。では、作戦開始！	Roman	That's all for now. All right, let's put these plans in motion!	罗曼	计划说明就到这里。那么，作战开始！	羅曼	我的說明到此結束。那麼，作戰開始！
+TalkEvent_09_008ID	26		みんな	はい！	Everyone	All right!	所有人	是！	大家	是！
+TalkEvent_09_008ID	27	Roman	ロマン	ユナ、君には重要な役目をお願いしたい。\n私の下を離れて、レスナたちを手伝ってくれ	Roman	Juna, I've got an extra special task for you. I'd like you to go lend Resna's team a hand.	罗曼	尤娜，我有个重要的任务要交给你。\n离开我的身边，去帮助蕾斯娜她们。	羅曼	尤娜，我想將一個重要的工作交給妳。\n離開我身邊，去協助蕾斯娜她們吧。
+TalkEvent_09_008ID	28	Juna	ユナ	……私の任務は殿下の護衛です。\nおそばを離れるわけには	Juna	My duty is to serve as your guard. It wouldn't do to leave you on your own.	尤娜	……我的任务是护卫殿下的安全。\n断不可离开您的左右。	尤娜	……我的任務是護衛殿下。\n怎能離開您的身──
+TalkEvent_09_008ID	29	Roman	ロマン	ユナ。計画において、武装の調達は必須だ。\nレスナたちがこの計画の要なんだ	Roman	Getting those weapons in place is essential to the plan, which makes that group a key element.	罗曼	尤娜，武器的筹备对计划而言必不可缺。\n蕾斯娜她们是此次行动的关键。	羅曼	尤娜，為了計畫我們必須調度武器。\n蕾斯娜她們對這個計畫來說相當重要。
+TalkEvent_09_008ID	30	Roman	ロマン	砦に残る私のほうが安全。\nそれは君も分かっているだろう？	Roman	I'll be fine if I stay in the fortress. Even you can agree with that, right?	罗曼	我留在要塞也相对安全。\n你应该也明白吧？	羅曼	我會留在要塞，這樣很安全。\n妳應該能理解吧？
+TalkEvent_09_008ID	31	Roman	ロマン	それと、君には討伐作戦の前線指揮も頼むつもりだ。\n帰ってきたらそちらの準備に加わってほしい	Roman	Besides, I intend to ask you to lead the charge. Once you get back, I want you to join the preparations for that.	罗曼	另外，我还打算让你担任此次讨伐作战的前线指挥。\n希望你回来后能加入那边的准备工作。	羅曼	此外，我打算請妳在前線指揮討伐作戰。\n回來之後，麻煩妳協助相關準備。
+TalkEvent_09_008ID	32	Juna	ユナ	ですが……	Juna	Of course, but...	尤娜	但是……	尤娜	但是……
+TalkEvent_09_008ID	33	Roman	ロマン	安心してくれ。君の監視がなくても、\n真面目に務めを果たしてみせるさ	Roman	There's nothing you need to worry about. I'll buckle down and get things done without you hovering over me.	罗曼	放心吧。就算没有你的监视，\n我也会认真完成我的职责。	羅曼	放心吧。即使妳不在身邊，\n我也會認真處理好公事的。
+TalkEvent_09_008ID	34	Juna	ユナ	いえ、そういうことではなく……。\n私はただ殿下の御身を案じているのです	Juna	No, it's not that. I'm worried about your overall health.	尤娜	不，我不是这个意思……\n我只是在担心殿下您。	尤娜	不，我並不是那個意思……\n我只是在擔心殿下您。
+TalkEvent_09_008ID	35	Juna	ユナ	心なしか、普段より表情が固いようですので	Juna	Your expressions are stiffer than usual.	尤娜	不知是否是错觉，我从没见过您的表情如此僵硬。	尤娜	總覺得，您的表情似乎比平時還要凝重。
+TalkEvent_09_008ID	36	Roman	ロマン	……はは、お見通しか。レスナにはああ言ったが、\n私も内心は緊張しきりだよ	Roman	Ahaha... You noticed, huh? I said all that to Resna, but I'm not feeling very calm myself.	罗曼	哈哈……真瞒不过你。别看我嘴上对蕾斯娜那么说，\n其实我自己心里也紧张得不行。	羅曼	……哈哈，果然瞞不過妳。雖然我告訴蕾斯娜別緊張，\n我自己其實也不遑多讓呢。
+TalkEvent_09_008ID	37	Roman	ロマン	だが、心配はいらない。戦い抜く覚悟は決まっている。\n私を信じてくれ、ユナ	Roman	It's fine. I'm already prepared to fight to the bitter end. Have a little faith in me, Juna.	罗曼	不过，不用担心。我已经做好了战斗到底的准备。\n相信我吧，尤娜。	羅曼	但妳不用擔心。我已經決心奮戰到底了。\n相信我吧，尤娜。
+TalkEvent_09_008ID	38	Juna	ユナ	……かしこまりました。ご武運を、殿下	Juna	...As you wish. Good fortune to you, Your Highness.	尤娜	……我明白了。殿下，愿您旗开得胜。	尤娜	……我明白了。祝您好運，殿下。
+TalkEvent_09_008ID	39	Roman	ロマン	ああ。お互い頑張ろう	Roman	Thanks. Let's both give this our best.	罗曼	嗯，你也要加油啊。	羅曼	嗯，我們都要好好加油。
+TalkEvent_09_009ID	0	Resna	レスナ	わあ……すごい、中はこうなってるんだ。\nなんだか、不思議な雰囲気の場所ですね	Resna	Oh, wow... I never would have guessed the inside looked like this. There's a kind of mysterious feel to it, too.	蕾斯娜	哇……好厉害，里面原来是这样的啊。\n这地方给人的感觉真不可思议。	蕾斯娜	哇……好壯觀，原來裡面長這樣。\n這裡的氣氛真不可思議呢。
+TalkEvent_09_009ID	1	Firis	フィリス	うん。\nここなら準備に必要な素材が色々集まるかなって！	Firis	Mhm. I'm sure we'll be able to find all kinds of materials to prep the weapons here!	菲利丝	嗯。\n我觉得这里说不定能收集到我们需要的各种素材！	菲莉絲	嗯。\n我想，來這裡應該能蒐集到不少需要的素材！
+TalkEvent_09_009ID	2	Izana	イザナ	こんな場所よく見つけたねー	Izana	This was a seriously good find, Firis!	伊札娜	真亏你能找到这种地方啊。	伊札娜	妳居然能發現這種地方～
+TalkEvent_09_009ID	3	Firis	フィリス	わたし、旅が好きでついあちこち調べちゃうんだよね。\n元の世界でもよく旅をしていたし	Firis	Well, I love to travel, so I'm always investigating all kinds of places. I was always off on one adventure or another back in my own world.	菲利丝	因为我喜欢旅行，总是在到处调查嘛。\n我在原本的世界也一直在外旅行。	菲莉絲	我很喜歡旅行，總是忍不住四處調查。\n在原本的世界也常常到處旅行。
+TalkEvent_09_009ID	4	Firis	フィリス	そうしてるうちに、気付くとこういう変わった\nとこにたどり着いちゃったりするんだよね	Firis	Wandering around like that means that you're bound to stumble across some unusual spots.	菲利丝	所以经常不知不觉就走到这种奇怪的地方。	菲莉絲	有時，走著走著，\n就會抵達這種奇特的地方呢。
+TalkEvent_09_009ID	5	Resna	レスナ	なるほど。独自の観察眼や嗅覚を身に付けた\nフィリス先輩だからこそ、発見できたんですね	Resna	That makes sense. Plus, you've got such a keen eye. And a really good sense of smell! Of course you'd make a discovery like this!	蕾斯娜	原来如此，正因为菲利丝前辈具有独特的\n观察力与嗅觉，才能发现如此神奇的地方啊。	蕾斯娜	原來如此。正因為擁有獨特的觀察力和直覺，\n菲莉絲前輩才能發現這種地方。
+TalkEvent_09_009ID	6	Firis	フィリス	まあ、そんな感じかな？　えへへ	Firis	I mean, I can't say you're wrong! Ehehe.	菲利丝	嗯，或许是这样吧？嘿嘿。	菲莉絲	或許是這樣吧？嘿嘿。
+TalkEvent_09_009ID	7	Izana	イザナ	それにしても、驚きだよねー！\nおっきな茨がぐるぐる巻きついてて	Izana	But I still can't get over these giant thorns that are all over the place!	伊札娜	话又说回来，这地方真是壮观啊！\n巨大的荆棘这样一圈一圈地缠绕着。	伊札娜	話說回來，這些盤根錯節的巨大荊棘\n看起來真驚人～！
+TalkEvent_09_009ID	8	Resna	レスナ	もしかしてここって……この前読んだ本に\n出てきた塔かな？	Resna	I wonder... Is this the same tower that was in the story I read?	蕾斯娜	难道这里是……\n我之前在书里读到过的塔吗？	蕾斯娜	這座塔……\n我好像曾經在書裡看過。
+TalkEvent_09_009ID	9	Izana	イザナ	なになに、どんな塔なの？	Izana	Hm, what's that? Which tower?	伊札娜	什么什么，那是什么塔？	伊札娜	咦？真的嗎？那是什麼樣的塔？
+TalkEvent_09_009ID	10	Resna	レスナ	大昔に、星を手に入れようとした貴族がいてね。\nどこよりも高い塔を作ろうとしたんだ	Resna	Long, long ago, there was a nobleman who wanted to have his own star, so he built the tallest tower anyone had ever seen.	蕾斯娜	据说很久很久以前，有一位贵族想要天上的星星，\n于是他便打算建造一座比任何地方都高的塔。	蕾斯娜	很久很久以前，有個貴族為了摘下星星，\n便開始建造一座全世界最高的塔。
+TalkEvent_09_009ID	11	Resna	レスナ	そして塔には特別な装置もつけて、\n空の星を打ち落とそうとしてたみたい	Resna	He put special equipment at the very top to try and knock one from the skies.	蕾斯娜	而且他还在塔上安装了特别的装置，\n想把星星射落下来。	蕾斯娜	而且好像還在塔上加裝了特殊機關，\n打算擊落天上的星星。
+TalkEvent_09_009ID	12	Resna	レスナ	そんな塔が完成間近のある日。\nその貴族は、屋上から星に手を伸ばして……	Resna	Then, not long after the tower was finished, when the nobleman reached out to grab a star...	蕾斯娜	就在塔快要竣工时，\n那位贵族在塔顶向星星伸出了手……	蕾斯娜	高塔快完工的某一天，\n那位貴族站在樓頂朝星星伸出手……
+TalkEvent_09_009ID	13	Resna	レスナ	体勢を崩して、塔から落ちちゃったんだって	Resna	...He lost his footing and fell.	蕾斯娜	但这时他失去了平衡，不幸从塔上摔了下来。	蕾斯娜	結果卻不小心失去平衡，從高塔上跌落。
+TalkEvent_09_009ID	14	Firis	フィリス	え……それじゃあ、その人は……	Firis	Um, so that means he...	菲利丝	什么……那、那个人不就……	菲莉絲	咦……這不就表示那個人……
+TalkEvent_09_009ID	15	Resna	レスナ	うん……亡くなっちゃったみたい。\nでもその時、庭で薔薇が育てられてたんだけど……	Resna	Yeah, he lost his life. But at the same time, there were roses growing in the garden...	蕾斯娜	嗯……他不幸身亡了。\n不过当时，庭院里种着蔷薇……	蕾斯娜	嗯……好像因此過世了。\n而當時種在庭院中的薔薇……
+TalkEvent_09_009ID	16	Resna	レスナ	貴族の血を薔薇が吸ってその薔薇は、まるで貴族の\n意思を宿したかのように天へと伸び始めたんだって	Resna	Those roses absorbed the nobleman's blood. They started to grow higher and higher, stretching up toward the sky, like they were honoring his final wish.	蕾斯娜	那些蔷薇在吸收了贵族的血后，\n仿佛被他的意识附体了一般，开始不断向天生长。	蕾斯娜	吸收了貴族的血後，\n彷彿繼承了貴族的意志，開始朝天空延伸。
+TalkEvent_09_009ID	17	Resna	レスナ	そしていつしかその薔薇は宙に浮く力を帯びて、\n空へと舞い上がっていくようになった……	Resna	Eventually, the roses gained the ability to fly, and they danced up into the clouds.	蕾斯娜	而在不知不觉间，蔷薇拥有了浮空的力量，\n于是开始向着天空飞去……	蕾斯娜	不知不覺間，那些薔薇變得能浮在空中，\n並飛向天空……
+TalkEvent_09_009ID	18	Izana	イザナ	うっそだー。作り話でしょ	Izana	No way! That's got to be the tallest of tall tales.	伊札娜	好假，这故事是编的吧。	伊札娜	不可能！這故事是假的吧？
+TalkEvent_09_009ID	19	Resna	レスナ	私もそう思ってたけど、ここを見たら\n本当なのかもって思っちゃった	Resna	I don't think it really happened either, but...seeing this makes me wonder if maybe it was a little bit true.	蕾斯娜	我本来也这么以为。但在看到这里之后，\n我觉得那个故事有可能是真的。	蕾斯娜	我本來也這麼認為。但看到這裡後，\n我開始覺得或許是真的。
+TalkEvent_09_009ID	20	Resna	レスナ	宙に浮く力を帯びた薔薇も、\nもしかしたらあるのかも	Resna	Who knows? There might be roses out there that can float.	蕾斯娜	说不定这里真的生长着拥有浮空力量的蔷薇。	蕾斯娜	能浮在空中的薔薇\n也許真實存在。
+TalkEvent_09_009ID	21	Firis	フィリス	うん……。これはなんだか特別な名前を\n付けたくなっちゃうな……そうだ！	Firis	Hm... I feel like a place this special deserves a fancy name... I've got it!	菲利丝	嗯……这样一说，\n真想给这里起一个特别的名字呢……有了！	菲莉絲	嗯……好想幫它取個特別的名字……\n我想到了！
+TalkEvent_09_009ID	22	Firis	フィリス	「天目指す昏き楼閣」！　この塔の名前は、\nこれで決まりだよ！	Firis	"From here on out, it'll be known as the ""Celestial Gloom Tower""!"	菲利丝	“昏暗之冲天楼阁”！\n这座塔的名字就叫这个了！	菲莉絲	「聳入雲霄的昏暗樓閣」！\n這座塔的名字就決定是這個了！
+TalkEvent_09_009ID	23	Juna	ユナ	天目指す……昏き楼閣？	Juna	Gloom...Tower?	尤娜	昏暗之……冲天楼阁？	尤娜	聳入雲霄的……昏暗樓閣？
+TalkEvent_09_009ID	24	Resna	レスナ	フィリス先輩……	Resna	Um, Firis...	蕾斯娜	菲利丝前辈……	蕾斯娜	菲莉絲前輩……
+TalkEvent_09_009ID	25	Resna	レスナ	すっごく素敵な呼び方ですね！	Resna	That's such an elegant name!	蕾斯娜	这名字真是太棒了！	蕾斯娜	這個名稱太棒了！
+TalkEvent_09_009ID	26	Firis	フィリス	分かってくれる？　レスナちゃん！\nわたしも我ながらいい名前だと思ったよ	Firis	Isn't it? I knew you'd feel the same way, Resna!	菲利丝	你也有同感吗？蕾斯娜！\n我自己也觉得这名字起得可好了！	菲莉絲	蕾斯娜，妳真懂我！\n我自己也認為是個好名字。
+TalkEvent_09_009ID	27	Juna	ユナ	いい、名前……だろうか？	Juna	It is...indeed a name!	尤娜	这是……好名字吗？	尤娜	好名字……確定嗎？
+TalkEvent_09_009ID	28	Izana	イザナ	騎士物語に登場する伝説の建物みたいだね！\n夢があるなぁ！	Izana	That sounds exactly like the kind of place that would be in a tale about knights! It's so dreamy!	伊札娜	就仿佛是骑士故事中会出场的传说中的建筑一样！\n太令人憧憬了！	伊札娜	好像騎士故事裡登場的傳說中的建築物喔！\n真令人嚮往！
+TalkEvent_09_009ID	29	Firis	フィリス	でしょ！　えへへ、趣味が合って嬉しいなぁ！	Firis	Right?! Ehehe, I'm so glad we're into the same things!	菲利丝	对吧！嘿嘿，我们志趣相投真是太好了！	菲莉絲	對吧！嘿嘿，看來我們眼光一致，真開心！
+TalkEvent_09_009ID	30	Resna	レスナ	では、早速行きましょう。謎に包まれた楼閣へと、\n運命を切り開く手掛かりを求めて！	Resna	But we'd better hurry up. We've got to scour this mysterious tower for clues to carve out our own destiny!	蕾斯娜	那我们快出发吧。突入谜团重重的楼阁，\n寻求开辟命运的线索！	蕾斯娜	那趕快出發吧。讓我們前往謎團重重的樓閣，\n尋找開拓命運的線索！
+TalkEvent_09_009ID	31		イザナ/フィリス	おーっ！	Izana/Firis	Yeah!	伊札娜/菲利丝	好——！	伊札娜/菲莉絲	好～！
+TalkEvent_09_009ID	32	Juna	ユナ	…………。気を引き締めていこう	Juna	Let's be sure to stay focused.	尤娜	……保持警惕前进吧。	尤娜	……小心謹慎地前進吧。
+TalkEvent_09_010ID	0	Juna	ユナ	魔物の姿はないようだ。\nこれならじっくり周辺を調べられるだろう	Juna	I don't see any monsters. You should be able to search to your heart's content.	尤娜	没有魔物的迹象。\n看来能好好调查一下这附近了。	尤娜	似乎沒有魔物的身影。\n應該可以仔細調查周遭了。
+TalkEvent_09_010ID	1	Resna	レスナ	はい！　役立つ素材が見つかるといいんですが	Resna	Great! I hope we can find something useful.	蕾斯娜	好的！要是能找到有用的素材就好了。	蕾斯娜	嗯！但願能找到有用的素材。
+TalkEvent_09_010ID	2	Izana	イザナ	んー、このへんは大きい石だらけ……。\nあっ、そういえば	Izana	Hmm... This place is covered in big rocks. Oh! That reminds me...	伊札娜	嗯……这附近到处都是大石头……\n啊，对了……	伊札娜	唔～這一帶全是大石頭……\n啊，這麼說來……
+TalkEvent_09_010ID	3	Izana	イザナ	ねえレスナちゃん。海岸線にずら～っと並んでたあの\nへんちくりんな石像。あれってなんだったのかな？	Izana	Hey, Resna? What's up with that reeeally long line of weird statues along the shore, anyway?	伊札娜	蕾斯娜，那些沿着海岸线一字排开的\n奇怪石像是什么啊？	伊札娜	蕾斯娜，在海岸線一字排開的那些滑稽石像，\n究竟是什麼啊？
+TalkEvent_09_010ID	4	Resna	レスナ	ああ、あれはね、かつてネブラの民を守るために\n頂獣と戦った……という伝承を持つ石像だよ	Resna	Actually, legend has it that they once protected Nebra's citizens from Apexi attacks.	蕾斯娜	啊，那个是传说中\n为了守护涅布拉的民众，和顶兽战斗过的石像。	蕾斯娜	哦，那個呀。傳說中那些石像以前……\n為了保護涅布拉居民，曾與頂獸戰鬥過喔。
+TalkEvent_09_010ID	5	Firis	フィリス	えっ！？　石像が動いて戦ったの！？	Firis	Huh?! Those things can move and fight?!	菲利丝	什么？！石像动起来战斗了吗？！	菲莉絲	咦！？石像動起來戰鬥嗎！？
+TalkEvent_09_010ID	6	Resna	レスナ	あくまで伝承ですが、昔は錬金術がもっと発展していた\nみたいですし、あり得なくはないかと	Resna	It's not something anyone can prove, but...alchemy in that age was much more advanced, so it's not impossible.	蕾斯娜	虽然那只是一个传说，\n但在过去炼金术更发达的时代，或许也不无可能。	蕾斯娜	雖然只是傳說，不過\n以前鍊金術好像更發達，所以不無可能。
+TalkEvent_09_010ID	7	Izana	イザナ	ネブラ……えーと、アタシたちの時代よりも前の\n時代の文明……ってロマン君が言ってたよね	Izana	And the Nebra were, um... Roman said that was the civilization that existed way before we came around, right?	伊札娜	涅布拉……我记得罗曼好像说过，\n涅布拉是先于我们所在时代的古代文明……	伊札娜	涅布拉……嗯，那是比我們的時代\n更早的文明……羅曼這麼說過吧？
+TalkEvent_09_010ID	8	Resna	レスナ	さすが次代の騎士、イザナちゃん！\nだからあの石像のこともよく分かっていないんだ	Resna	That's our soon-to-be knight! But yeah, that's exactly why we don't know much about those statues.	蕾斯娜	未来的骑士伊札娜果然博学多闻！\n所以现在人们对那些石像还不是十分了解。	蕾斯娜	不愧是未來的騎士伊札娜！\n所以我對那些石像也不是很了解。
+TalkEvent_09_010ID	9	Resna	レスナ	ただ、同じような石像がクア州近海の海底にはたくさん\n沈んでいるっていわれているよ	Resna	But a bunch that look just like the ones on the beaches here have also been found underwater.	蕾斯娜	不过，据说有许多同样的石像\n都沉在库亚州附近的海底。	蕾斯娜	不過，聽說有很多相同的石像\n沉在庫厄州近海的海底喔。
+TalkEvent_09_010ID	10	Izana	イザナ	なるほど。これも騎士試験に出るかな！？	Izana	Got it! Maybe that'll even turn out to be a question on the knight exam!	伊札娜	原来如此，这在骑士考试里也会考到吗？！	伊札娜	原來如此。這個騎士測驗也會考嗎！？
+TalkEvent_09_010ID	11	Juna	ユナ	そこまでは出ないんじゃないか	Juna	I rather doubt that.	尤娜	应该不会考到这种程度吧。	尤娜	應該不至於吧。
+TalkEvent_09_010ID	12	Izana	イザナ	そっか。白夜の騎士のユナさんが言うなら間違いない！\n試験にどんな問題が出るか、もっと教えてよ！	Izana	Oh, okay. If a Knight of the Midnight Sun says so, then it's got to be true! Is there anything else you can tell me about the exam questions?	伊札娜	这样啊，白夜骑士尤娜小姐都这么说了，一定不会错！\n给我再透露一下考试里会出什么题目吧！	伊札娜	這樣啊。既然白夜騎士尤娜小姐這麼說了，\n肯定錯不了！可以告訴我更多會考的題目嗎？
+TalkEvent_09_010ID	13	Juna	ユナ	ダメだ。これ以上は教えられない	Juna	Absolutely not. I won't let more than that slip.	尤娜	不行。我不会再多说一个字了。	尤娜	不行，我不能再透露任何資訊了。
+TalkEvent_09_010ID	14	Izana	イザナ	やっぱりダメかぁー	Izana	Yeah, figures.	伊札娜	果然不行吗——	伊札娜	果然不行啊……
+TalkEvent_09_010ID	15	Izana	イザナ	それにしても、レスナちゃんは相変わらず色んなことを\n知ってるね！　いつも勉強を頑張ってる成果だ！	Izana	Anyway, you sure know a lot about a lot of things, Resna! Which is proof of how much you've studied over the years!	伊札娜	不过话说回来，蕾斯娜还是一如既往知识渊博呢！\n这就是一直努力学习的成果啊！	伊札娜	話說回來，蕾斯娜還是一樣知識豐富呢！\n這就是平時認真向學的成果！
+TalkEvent_09_010ID	16	Resna	レスナ	そ、そうかな？	Resna	Y-You think so?	蕾斯娜	是、是吗？	蕾斯娜	是、是嗎？
+TalkEvent_09_010ID	17	Izana	イザナ	そうだよ。レスナちゃんの頑張りはアタシがよーく\n知ってるし！	Izana	I know so! I've seen you stick at it all this time!	伊札娜	当然。蕾斯娜的努力\n我可是一直都看在眼里！	伊札娜	沒錯。畢竟我是最～了解\n蕾斯娜有多努力的人嘛！
+TalkEvent_09_010ID	18	Firis	フィリス	イザナちゃんとレスナちゃんって、なんかいいね。\nお互いのことよく分かってて、相棒って感じ	Firis	You two know each other so well, just like true partners!	菲利丝	伊札娜和蕾斯娜的关系真好啊。\n就像搭档一样，对彼此无所不知。	菲莉絲	伊札娜和蕾斯娜的感情真令人稱羨。\n兩人非常了解彼此，肯定是一對好搭檔。
+TalkEvent_09_010ID	19	Resna	レスナ	えへへ……イザナちゃんは子どもの頃からずっと\n優しくて、私を支えてくれているんです	Resna	Ehehe... Izana's been by my side since we were kids, kindly supporting me.	蕾斯娜	嘿嘿……伊札娜从小就对我很好，\n也一直在支持着我。	蕾斯娜	嘿嘿……伊札娜從小就很溫柔體貼，\n一直在身邊支持我。
+TalkEvent_09_010ID	20	Resna	レスナ	一番最初に故郷のフリーゲンを出発した時も、\nイザナちゃんと二人で頑張っていたんですよ	Resna	When I first set out from my hometown, Friegen, she was right there with me. We always help each other do our best!	蕾斯娜	当初从故乡弗里根启程的时候也是伊札娜陪着我，\n我们两个人一起一路走到现在。	蕾斯娜	從故鄉弗里岡啟程的時候開始，\n我和伊札娜兩個人就像這樣一路互相扶持。
+TalkEvent_09_010ID	21	Firis	フィリス	そうなんだぁ	Firis	You don't say.	菲利丝	这样啊。	菲莉絲	原來是這樣啊～
+TalkEvent_09_010ID	22	Firis	フィリス	故郷を出て二人で……かぁ。\nなんだかリア姉の顔が見たくなってきちゃったな	Firis	Two people who left their hometown together, huh...? Kind of makes me miss Lia.	菲利丝	两个人一起从故乡启程……\n说到这个我突然有点想念莉亚姐了。	菲莉絲	兩個人一起離鄉背井啊……\n突然好想見莉亞姐喔。
+TalkEvent_09_010ID	23	Firis	フィリス	……よし。皆さん、そろそろ移動しましょうか！	Firis	Okay! Time to get a move on, ladies!	菲利丝	……好。我们差不多该继续前进了哦！	菲莉絲	……好，各位，我們差不多該前進了！
+TalkEvent_09_010ID	24	Izana	イザナ	りょーかーい！	Izana	Roger that!	伊札娜	好——！	伊札娜	收到～！
+TalkEvent_09_010ID	25	Juna	ユナ	何があるか分からない場所だ。気を付けて進もう	Juna	Remember, we don't know what might be lurking where. Be on your guard.	尤娜	四周都可能潜藏着未知的威胁，大家小心行事。	尤娜	這裡不曉得會出現什麼，大家要小心。
+TalkEvent_09_011ID	0	Resna	レスナ	皆さん、あっちにも色々と素材がありそうですよ	Resna	Look over there! That looks like a promising spot for materials!	蕾斯娜	各位，那边好像也有很多素材哦。	蕾斯娜	各位，那邊好像也有各種素材呢。
+TalkEvent_09_011ID	1	Firis	フィリス	あれ？　誰かいる……。\nわたしたち以外にもここに入る人がいるなんて	Firis	Huh? Someone's there. I wasn't expecting anyone else to be here.	菲利丝	嗯？有人在……\n没想到这里除了我们还有别人。	菲莉絲	咦？是誰……\n沒想到這裡除了我們之外，還有其他人。
+TalkEvent_09_011ID	2	Izana	イザナ	あっ！？　あいつ、まさか！	Izana	Oh! No way, not that guy!	伊札娜	啊？！我好像见过那家伙！	伊札娜	啊！？那傢伙該不會是……！
+TalkEvent_09_011ID	3	Resna	レスナ	極夜の錬金党の！	Resna	He's a Polar Night Alchemist!	蕾斯娜	是极夜的炼金党！	蕾斯娜	極夜的鍊金黨！
+TalkEvent_09_011ID	4	Geron	ジェロン	お前は……あの時の錬金術士か	Geron	You're...the alchemist from the cave.	杰隆	你是……之前遇到过的炼金术士。	傑隆	妳是……那時候的鍊金術士啊。
+TalkEvent_09_011ID	5	Juna	ユナ	極夜の錬金党。こんな所で遭遇するとは	Juna	Of all the places to encounter one of their members...	尤娜	没想到会在这里碰上极夜的炼金党。	尤娜	竟然會在這種地方遇上極夜的鍊金黨。
+TalkEvent_09_011ID	6	Resna	レスナ	確か名前は……ジェロン。\n以前、素材を無理矢理、奪っていったことがあって……	Resna	I'm pretty sure his name was...Geron. The last time we met, he stole a bunch of our materials by force.	蕾斯娜	我记得……他叫杰隆。\n曾经不由分说地抢走了我们的素材……	蕾斯娜	我記得你叫做……傑隆。\n曾強行奪走素材……
+TalkEvent_09_011ID	7	Juna	ユナ	極夜の錬金党は騎士団としても要警戒対象だ。\nお前、ここで何をしていた	Juna	The knighthood has also been keeping a close watch on that particular group. You there. What are you doing here?	尤娜	极夜的炼金党也是骑士团的主要防备目标。\n你在这里做什么？	尤娜	身為騎士團的一員，極夜的鍊金黨是必須警戒的對象。\n你在這裡做什麼？
+TalkEvent_09_011ID	8	Geron	ジェロン	……白夜の騎士か	Geron	A Knight of the Midnight Sun, huh?	杰隆	……是白夜骑士啊。	傑隆	……是白夜騎士啊。
+TalkEvent_09_011ID	9	Juna	ユナ	質問に答えてもらおう	Juna	Answer the question.	尤娜	回答我的问题。	尤娜	請你回答問題。
+TalkEvent_09_011ID	10	Geron	ジェロン	お前たちに話す必要はない	Geron	I have no reason to speak with any of you.	杰隆	和你们无关。	傑隆	我沒必要告訴妳們。
+TalkEvent_09_011ID	11	Izana	イザナ	きっとまた素材を独り占めする気だよ！\n目的のためなら、なんだってする連中だもん	Izana	I'll bet he's here to nab all the materials again! Those guys will do anything to further their selfish goals!	伊札娜	你又打算独占素材了对吧！\n毕竟你们都是些为了目的不择手段的败类。	伊札娜	他肯定是打算獨占素材啦！\n畢竟都是些為了目的會不擇手段的傢伙。
+TalkEvent_09_011ID	12	Geron	ジェロン	だとしたらどうする？　またここで剣を交えるか？	Geron	What of it? Are you planning to cross swords with me again?	杰隆	是又如何？你们打算在这里再和我交手吗？	傑隆	若是如此，妳們打算怎麼辦？在這裡再次交手嗎？
+TalkEvent_09_011ID	13	Firis	フィリス	うーん、なんか穏やかじゃないですね	Firis	Um, that sounded an awful lot like a threat.	菲利丝	唔——有点剑拔弩张呢。	菲莉絲	唔……氣氛好像有點緊張呢。
+TalkEvent_09_011ID	14	Juna	ユナ	邪魔するならば私が相手だ	Juna	If you plan on getting in our way, then you'll have to face me.	尤娜	你若是想碍事，就要先过我这一关。	尤娜	你要來礙事的話，我會負責對付你。
+TalkEvent_09_011ID	15	Resna	レスナ	待ってください！\n今はこんなところで争ってる場合じゃありません！	Resna	Please, just wait! This really isn't the time for fighting!	蕾斯娜	请等一下！\n现在不是在这里争吵的时候！	蕾斯娜	請等一下！\n現在不是在這種地方起衝突的時候！
+TalkEvent_09_011ID	16	Resna	レスナ	私は頂獣――ウェルテックスと戦うための手段を\n少しでも増やすために、ここに来ています	Resna	We came here to see if we could find anything to help us fight Weltex—the Apexi.	蕾斯娜	我来这里，是为了尽可能多地增加\n对抗顶兽——威尔特克斯的手段。	蕾斯娜	我之所以來到這裡，\n是為了尋找對抗頂獸──威爾特庫斯的方法。
+TalkEvent_09_011ID	17	Geron	ジェロン	…………	Geron	...	杰隆	……	傑隆	…………
+TalkEvent_09_011ID	18	Resna	レスナ	今は一刻も早く、あの頂獣を止めなくちゃいけない	Resna	We have to stop it as fast as we possibly can.	蕾斯娜	眼下必须尽早阻止那只顶兽才行。	蕾斯娜	現在得盡快阻止那頭頂獸才行。
+TalkEvent_09_011ID	19	Resna	レスナ	そのために、錬金術が必要なんです！\n人々を幸せにする、錬金術の力が――	Resna	And to do that, we'll need to use alchemy! It's meant to make people happy...	蕾斯娜	为此，需要炼金术的力量！\n能带给人们幸福的炼金术的力量——	蕾斯娜	為了達成這個目的，鍊金術正是關鍵！\n鍊金術是能讓人們獲得幸福的力量──
+TalkEvent_09_011ID	20	Geron	ジェロン	お前は、まだそんな甘いことを言っているのか	Geron	Hmph. So you're still spouting that nonsense.	杰隆	你怎么还在说那些天真话。	傑隆	妳還在講這種天真的話啊？
+TalkEvent_09_011ID	21	Resna	レスナ	えっ？	Resna	Huh?	蕾斯娜	什么？	蕾斯娜	咦？
+TalkEvent_09_011ID	22	Geron	ジェロン	これ以上話していても時間の無駄だ。\n今の俺の相手はお前たちではない	Geron	There's no need to drag this conversation out. For now, you aren't my opponent.	杰隆	再说下去也不过是浪费时间。\n我现在的目标不是你们。	傑隆	再多費唇舌也只是浪費時間。\n我現在該對付的不是妳們。
+TalkEvent_09_011ID	23	Resna	レスナ	行っちゃった？	Resna	He just...left?	蕾斯娜	他走了？	蕾斯娜	他走了？
+TalkEvent_09_011ID	24	Firis	フィリス	ふう……戦いにならなくてよかった	Firis	Phew... I'm glad that didn't end in a brawl.	菲利丝	呼……还好没有打起来。	菲莉絲	呼……沒大打出手真是太好了。
+TalkEvent_09_011ID	25	Izana	イザナ	うん。意外とあっさり引き下がったね	Izana	Yeah. He left a lot more willingly than I thought he would.	伊札娜	是啊，没想到他真的什么都没做就离开了。	伊札娜	嗯，沒想到他會走得如此乾脆。
+TalkEvent_09_011ID	26	Juna	ユナ	結局、何が目的だったのだ？	Juna	I wonder what he was after.	尤娜	他到底有什么目的呢？	尤娜	所以他到底是來做什麼的？
+TalkEvent_09_011ID	27	Resna	レスナ	とにかく、今は急いで素材を集めましょう！	Resna	Anyway, let's hurry up and get those materials!	蕾斯娜	总之我们还是赶快去收集素材吧！	蕾斯娜	總之，我們現在趕緊蒐集素材吧！
+TalkEvent_09_012ID	0	Firis	フィリス	色々採れたね！	Firis	We found so much stuff!	菲利丝	收集到了好多呢！	菲莉絲	採到好多呢！
+TalkEvent_09_012ID	1	Resna	レスナ	はい！　これで武装の調達も捗りそうです	Resna	Yeah! That should help us get armed.	蕾斯娜	嗯！这样我们就可以顺利地准备武器了。	蕾斯娜	嗯！這樣應該就能順利準備武器。
+TalkEvent_09_012ID	2	Resna	レスナ	でも、結局お話にあった薔薇は無かったね	Resna	Oh, but...we never did find those roses.	蕾斯娜	不过到最后也没有找到故事里的蔷薇呀。	蕾斯娜	不過，到頭來還是沒看到傳說中的薔薇。
+TalkEvent_09_012ID	3	Saskia	ザスキア	あら、こんな所で会うなんて偶然ね	Saskia	Goodness, to think that we'd meet in a place like this.	萨丝琪亚	哦？居然会在这里碰到你们。	薩絲琪亞	哎呀，能在這種地方見面還真巧。
+TalkEvent_09_012ID	4	Resna	レスナ	師匠！？　どうしてここに！	Resna	Miss Saskia?! What are you doing here?	蕾斯娜	师父？！你怎么在这里！	蕾斯娜	師父！？妳怎麼會在這裡！
+TalkEvent_09_012ID	5	Saskia	ザスキア	ちょっと探しものをしていてね	Saskia	I'm searching for a certain something.	萨丝琪亚	我正好要在这里找些东西。	薩絲琪亞	我來找東西。
+TalkEvent_09_012ID	6	Firis	フィリス	もしかして、宙に浮く力を宿した薔薇のことですか？\nわたしたちも探しましたけど、ありませんでしたよ	Firis	It's not the roses that gained the power to fly, is it? We looked everywhere, but there wasn't a petal to be found.	菲利丝	难道你是在找拥有浮空力量的蔷薇吗？\n我们也找过了，可惜没找到。	菲莉絲	難道是在找能浮在空中的薔薇嗎？\n其實我們也去找了，但沒發現。
+TalkEvent_09_012ID	7	Saskia	ザスキア	あら、そうなの。まあいいわ。他にも調べたいことが\nあるし、あなたたちは自分の役目を優先して	Saskia	Oh, is that so? Well, no matter. There are other things I'd like to try and find, and you have your own duties to prioritize.	萨丝琪亚	哎呀，这样啊。不过没事，\n我还有其他想调查的事情，你们就先专注自己的任务吧。	薩絲琪亞	哎呀，這樣啊。沒關係，我還有其他事想調查，\n妳們以自己的任務為優先吧。
+TalkEvent_09_012ID	8	Resna	レスナ	分かりました！　師匠、ご武運を祈ります！	Resna	That's right! May you have good fortune, Miss Saskia!	蕾斯娜	好的！师父，祝你好运！	蕾斯娜	我明白了！師父，祝妳好運！
+TalkEvent_09_012ID	9	Saskia	ザスキア	ふふ。やる気になったみたいで何より。\nじゃあ、また後でね	Saskia	*Chuckle* It's a good thing to be so motivated. Well, I'll be off.	萨丝琪亚	呵呵，看到你恢复精神我就放心了。\n那一会再见啦。	薩絲琪亞	呵呵，看來妳恢復幹勁了，\n真是萬幸。那晚點見囉。
+TalkEvent_09_012ID	10	Saskia	ザスキア	あ、そうだ。ここに来る前にロマンに\n会ったわ。あちらの準備も順調みたいよ	Saskia	Ah, however, that reminds me. I happened to see Roman before coming here. It seems that things are progressing well on his end.	萨丝琪亚	啊，对了。来这里之前我还碰到了罗曼。\n他那边的准备似乎也很顺利。	薩絲琪亞	啊，對了。我來這裡之前遇見羅曼，\n他那邊的準備似乎也很順利。
+TalkEvent_09_012ID	11	Izana	イザナ	おお！　砦ってどんな感じなのかな？	Izana	That's great! So? How does the fortress look?	伊札娜	哦哦！不知那个要塞是什么样的地方啊？	伊札娜	哦哦！要塞是什麼模樣呢？
+TalkEvent_09_012ID	12	Juna	ユナ	我々も一度顔を出してみよう。場所を案内する	Juna	Why not go see for ourselves? I'll lead the way.	尤娜	我们也去打个招呼吧。我来带路。	尤娜	我們也去一趟吧。我負責帶路。
+TalkEvent_09_012ID	13	Resna	レスナ	はい、お願いします！　師匠、また後で！	Resna	Yes, please! See you later, Miss Saskia!	蕾斯娜	好的，那就拜托你了！师父，一会见！	蕾斯娜	好的，麻煩妳了！師父，晚點見囉！
+TalkEvent_09_013ID	0	Suelle	スール	この際だからさ、砦の防壁、\nもっと斬新なものにしたいよね！	Suelle	If we're going all out, then I'd really like to do something even more original to boost the fortress's defenses!	苏瑞	趁这个机会，我想把要塞的防御墙\n设计得更新颖点！	蘇瑞	考慮到這次的情況，\n如果能做出更創新的要塞防壁就好了！
+TalkEvent_09_013ID	1	Lydie	リディー	そうだなぁ……斬新かどうかは分からないけど、\n強度から考えてできるとしたら……	Lydie	I know how you feel, but...I think we should focus more on strength than on being innovative.	莉迪	嗯……新颖不新颖我倒是不在意，\n但从强度上来考虑，最好能……	莉迪	說得也是……雖然不曉得算不算創新，\n如果從強度下手，或許……
+TalkEvent_09_013ID	2	Roman	ロマン	い、いや！　今のままで十分だとも！	Roman	L-Ladies, please! You've done plenty already!	罗曼	不、不用了！现在这样已经足够了！	羅曼	沒、沒關係！現在這樣就夠了！
+TalkEvent_09_013ID	3	Resna	レスナ	ロマンさん！	Resna	Roman!	蕾斯娜	罗曼先生！	蕾斯娜	羅曼先生！
+TalkEvent_09_013ID	4	Roman	ロマン	やあ、みんな。\nどうだい？　ここが我々の拠点になる砦だ	Roman	Hey. What do you think of our fortress?	罗曼	各位好啊。\n怎么样？这座要塞就是我们的据点。	羅曼	嘿，這裡就是要用來當作據點的要塞。\n各位覺得如何？
+TalkEvent_09_013ID	5	Resna	レスナ	立派な建物ですね！　	Resna	It's an amazing piece of architecture!　	蕾斯娜	这座建筑真是气派！　	蕾斯娜	真是氣派的建築物！　
+TalkEvent_09_013ID	6	Juna	ユナ	きちんと務めを果たしていたようですね、殿下。\n武装や防壁も整いつつあるようです	Juna	I see that you're properly seeing to your duties, Your Highness. Everything's coming along quite smoothly.	尤娜	殿下，看来您有在尽职尽责啊。\n武器布署与防御墙修整都已经接近完善了。	尤娜	看來您十分盡責，殿下。\n武器和防壁的準備似乎也正按部就班地進行。
+TalkEvent_09_013ID	7	Roman	ロマン	皆の助力があってこそだ。\n特にこの二人が随分と力になってくれた	Roman	Well, that's because everyone's pitching in. But these two are especially skilled.	罗曼	这也是多亏了大家的帮助。\n尤其是这两位，实在是帮了我许多。	羅曼	這都要多虧大家的協助。\n尤其是這兩位，貢獻可多了。
+TalkEvent_09_013ID	8	Suelle	スール	でしょ！　有能美人姉妹って呼んでもいいですよ！	Suelle	"Naturally! Feel free to call us ""capable beauties""! We wouldn't mind!"	苏瑞	那当然！请称呼我们“才貌双全的姐妹花”！	蘇瑞	對吧！請稱呼我們為能幹姊妹花！
+TalkEvent_09_013ID	9	Firis	フィリス	二人ともすごいよ！\nこういうのも作れるようになってたんだね	Firis	You're both so amazing! I mean, you've even gotten to the point where you can make stuff like this now.	菲利丝	你们两个太棒了！\n现在都能做出这么厉害的东西了啊。	菲莉絲	妳們兩個真厲害！\n現在連這樣的東西都做得出來。
+TalkEvent_09_013ID	10	Lydie	リディー	フィリスさんはそう言ってくれますけど……\nうーん、まだ改善点はあると思うんだけどなぁ	Lydie	It's great to hear you say that, Firis, but... Well, to be honest, I think there are still places we could improve.	莉迪	很高兴菲利丝小姐能这么说，不过……\n唔——我总觉得还有需要改善的地方。	莉迪	雖然菲莉絲小姐這麼說……\n唔～我覺得還有改善的空間就是了。
+TalkEvent_09_013ID	11	Suelle	スール	フィリスさん！　あっちの壁の出来、見てください！\n会心の出来なんですよ！	Suelle	Firis! Check out the wall over there! It's the best of the bunch!	苏瑞	菲利丝小姐！你快看那边的墙！\n那是我的得意之作哦！	蘇瑞	菲莉絲小姐！妳看那道牆！\n那可是我們的得意之作喔！
+TalkEvent_09_013ID	12	Firis	フィリス	え？　どれー？	Firis	Hm? Which one?	菲利丝	嗯？哪边？	菲莉絲	咦？哪個～？
+TalkEvent_09_013ID	13	Resna	レスナ	先輩方も本当に頑張ってくださったんですね！	Resna	Wow, they really gave it their all!	蕾斯娜	前辈们真的都好努力啊！	蕾斯娜	前輩們真的都好努力喔！
+TalkEvent_09_013ID	14	Roman	ロマン	あはは。おかげで大助かりだとも	Roman	Ahaha, they've been a great help.	罗曼	啊哈哈，她们真是帮了大忙了。	羅曼	啊哈哈，她們真是幫了我一個大忙。
+TalkEvent_09_013ID	15	Juna	ユナ	楽しそうですね、殿下	Juna	You seem to be enjoying yourself, Your Highness.	尤娜	您看起来很开心呢，殿下。	尤娜	殿下，您看起來很開心呢。
+TalkEvent_09_013ID	16	Roman	ロマン	あの二人といると、ね。\nこんな状況下だから、あの明るさに助けられてる	Roman	Well, there's something about those two that's providing some levity to the current circumstances.	罗曼	也是因为有她们两位在。\n在这种情况下，那种开朗着实抚慰人心。	羅曼	跟那兩人在一起就會這樣。\n連這種情況下，心情也能因為她們變得開朗。
+TalkEvent_09_013ID	17	Juna	ユナ	ちょうど良く緊張がほぐれたようで、何よりです	Juna	I'm glad that you're not feeling as nervous now. They came at the right time.	尤娜	最令我欣慰的是您的紧张似乎也缓解了不少。	尤娜	能適度緩解緊張的心情，真是太好了。
+TalkEvent_09_013ID	18	Roman	ロマン	はは、確かに……。そうかもね	Roman	Haha, I guess so.	罗曼	哈哈……好像还真是。	羅曼	哈哈，確實……是這樣沒錯。
+TalkEvent_09_013ID	19	Lydie	リディー	あのー、ロマンさん。お客さんが来てますけど	Lydie	Um, Roman? You have a visitor.	莉迪	不好意思，罗曼先生，有客人找你。	莉迪	不好意思～羅曼先生，有您的訪客。
+TalkEvent_09_013ID	20	Roman	ロマン	客？	Roman	I do?	罗曼	客人？	羅曼	訪客？
+TalkEvent_09_013ID	21		アブラハム	リヒャルト殿下。この緊急時に殿下自ら\n駆け付けていただき本当にありがとうございます	Abraham	Prince Richard. I cannot thank you enough for personally rushing to our aid during this emergency.	亚伯拉罕	理查德殿下，非常感谢您在危难之际亲自前来。	亞伯拉罕	理查德殿下，\n非常感謝您在這種緊急時刻親自前來。
+TalkEvent_09_013ID	22	Roman	ロマン	アブラハム・トロッケル卿。\n貴殿も迅速な対応、ご苦労だった	Roman	Lord Trockel. Your prompt responses have also been much appreciated.	罗曼	亚伯拉罕·特洛克尔卿，\n也辛苦你给予了果断的配合。	羅曼	亞伯拉罕‧特羅克爾，\n我也很感謝你的迅速應對，辛苦了。
+TalkEvent_09_013ID	23		アブラハム	殿下、どうかこのクア州をお守りくださいませ！\n我々にできることなら、なんなりとお申し付けください	Abraham	Please, do whatever you can to keep Kur safe! If there is anything that we can assist you with, do not hesitate to ask!	亚伯拉罕	殿下，还请您务必守护库亚州！\n我等将尽自己所能为您效劳。	亞伯拉罕	殿下，請務必守住我們庫厄州！\n如果有任何幫得上忙的事情，您儘管吩咐。
+TalkEvent_09_013ID	24	Roman	ロマン	感謝する。すでに融通してもらっているが、兵站を\n増強したい。さらなる援軍がやって来る。それと……	Roman	Thank you. While you've already provided some finances, I would like to increase our supplies. There are more reinforcements on the way, and...	罗曼	谢谢你们。虽然你们也已在筹措，但我希望能进一步\n增加后勤保障。更多的增援部队还将赶来。还有……	羅曼	感激不盡。雖然你們已經提供不少協助，\n但我想加強後勤補給。仍有援軍正在趕來，再來是……
+TalkEvent_09_013ID	25	Juna	ユナ	クア州の長、アブラハム・トロッケル卿だ	Juna	That's Lord Abraham Trockel. He's the prime minister of Kur.	尤娜	这位是库亚州的州长，亚伯拉罕·特洛克尔卿。	尤娜	那位是庫厄州的州長──亞伯拉罕‧特羅克爾。
+TalkEvent_09_013ID	26	Resna	レスナ	州長さん……頂獣が現れてきっと心配でしょうね	Resna	So he's in charge of the province? Having an Apexi appear must be extremely concerning.	蕾斯娜	州长先生……他一定很忧虑顶兽现身一事吧。	蕾斯娜	州長……出現頂獸一定讓他很擔心吧。
+TalkEvent_09_013ID	27	Resna	レスナ	（あれ？　「トロッケル」っていう名前、\n　どこかで聞いたことある気が……）	Resna	"(Huh, I feel like I've heard the name ""Trockel"" before...)"	蕾斯娜	（嗯？“特洛克尔”这个姓氏，\n　怎么感觉好像在哪听过……）	蕾斯娜	（咦？「特羅克爾」這個姓氏，\n　我好像在哪裡聽過……）
+TalkEvent_09_013ID	28	Resna	レスナ	（って、そんなこと気にしてる場合じゃなかった！\n　アトリエで武装の用意をしなくちゃ）	Resna	(Wait, this isn't the time to be mulling things over! We've got to head to the atelier and get those weapons ready!)	蕾斯娜	（不不不，现在不是想这些的时候！\n　得赶紧回炼金工房准备武器。）	蕾斯娜	（唔，現在不是在意這種事的時候！\n　得去鍊金工房準備武器才行。）
+TalkEvent_09_014ID	0	Firis	フィリス	うん、いい感じにできてるね	Firis	Yep, these are looking pretty good.	菲利丝	嗯，调合得还不错。	菲莉絲	嗯，似乎很順利呢。
+TalkEvent_09_014ID	1	Resna	レスナ	あの塔で拾ってきた素材はちょっと特殊でしたが、\nフィリス先輩のおかげで、無事に完成しそうです	Resna	The materials that we found around the tower were a little peculiar, but we had no problems synthesizing with them thanks to your help!	蕾斯娜	在那座塔里采集到的素材有些特殊，\n不过多亏有菲利丝前辈在，应该能够顺利完成。	蕾斯娜	在那座塔撿到的素材雖然有點特殊，\n但多虧了菲莉絲前輩，應該能順利完成。
+TalkEvent_09_014ID	2	Resna	レスナ	そういえば、１つお聞きしてもいいですか？	Resna	Actually, would you mind if I asked you something?	蕾斯娜	对了，我可以请教一件事吗？	蕾斯娜	說到這個，可以請教前輩一件事嗎？
+TalkEvent_09_014ID	3	Firis	フィリス	ん？　なに？	Firis	Hm? What is it?	菲利丝	嗯？什么事？	菲莉絲	嗯？什麼事？
+TalkEvent_09_014ID	4	Resna	レスナ	フィリス先輩もこの素材を扱うのは初めてなのに、\n潜在能力を余すところなく引き出してましたよね？	Resna	This was your first time working with those materials, so how were you able to fully draw out their potential?	蕾斯娜	菲利丝前辈明明也是第一次接触这种素材，\n但却充分发挥出了素材的潜在能力。	蕾斯娜	明明菲莉絲前輩也是第一次使用這種素材，\n卻將潛在能力完全發揮出來了，對吧？
+TalkEvent_09_014ID	5	Resna	レスナ	もしかして、調合する時のコツのようなものが\nあるのでしょうか？	Resna	Is there a trick to synthesizing that I haven't figured out yet?	蕾斯娜	前辈在调合方面是有什么秘诀吗？	蕾斯娜	難道說，\n妳運用了什麼調合的訣竅嗎？
+TalkEvent_09_014ID	6	Firis	フィリス	うーん、コツかぁ。\nこれ、っていうものは思い当たらないけど……	Firis	A trick, huh? Nothing specific comes to mind, but...	菲利丝	唔……秘诀吗？\n好像没有什么称得上秘诀的东西……	菲莉絲	唔～訣竅嗎？\n我倒是想不到什麼值得說的……
+TalkEvent_09_014ID	7	Firis	フィリス	あ、でも。素材の声を聞くのは大事なんじゃないかな	Firis	Oh, being able to hear the voices of your materials is important.	菲利丝	啊，不过，我觉得关键或许在于倾听素材的声音。	菲莉絲	啊，不過，傾聽素材的聲音應該是一大重點吧？
+TalkEvent_09_014ID	8	Resna	レスナ	素材の声、ですか？	Resna	Their...voices?	蕾斯娜	“素材的声音”吗？	蕾斯娜	素材的聲音？
+TalkEvent_09_014ID	9	Firis	フィリス	そうだよ。たとえばなんだけど、あっちの花は\n「薬になりたい！」って言ってるんだ	Firis	Yep! This is just an example, but see those flowers over there? They want to get turned into medicine.	菲利丝	嗯，就比如说那边那朵花\n就在说着“我想成为药！”。	菲莉絲	沒錯，我舉個例子吧！\n那邊的花正在說：「我想成為藥！」
+TalkEvent_09_014ID	10	Firis	フィリス	だからその願いを叶えてあげれば、仕上がった\nものの出来も良くなるんだよ	Firis	Granting that wish ensures that the finished product is a great one!	菲利丝	所以要是能实现它的愿望，\n做出来的成品就会更完美。	菲莉絲	所以只要實現它的心願，\n成果也會很棒喔。
+TalkEvent_09_014ID	11	Izana	イザナ	じゃあこっちの石は、「強い武器になって\nやるぜー！」かな？	Izana	"Then, how about those rocks? Are they all like, ""We wanna be strong weapons""?"	伊札娜	那这块石头是在说\n“我要成为强大的武器！”吗？	伊札娜	那這邊的石頭是不是正在說\n「我要變成厲害的武器～！」呢？
+TalkEvent_09_014ID	12	Firis	フィリス	ううん、「綺麗に磨かれたい」って言ってるから\n装飾品とかがいいんじゃないかな	Firis	Nope, they want to be polished up nicely. Turning them into accessories would probably be a good call.	菲利丝	不是，它说的是“我想变得光鲜亮丽”，\n所以做成装饰品会更合适。	菲莉絲	不，它說的是「我想要被打磨得很漂亮」，\n所以做成裝飾品應該比較好。
+TalkEvent_09_014ID	13	Izana	イザナ	あー、違ったかー！	Izana	Aw, I took a swing and missed!	伊札娜	啊——听错了——！	伊札娜	啊～我猜錯了～！
+TalkEvent_09_014ID	14	Resna	レスナ	そ、それはもしや、錬金術の頂きを見た者だけが\n得られる究極の能力！？	Resna	Th-Then, is that the ultimate ability that awaits alchemists who've reached the peak of their craft?!	蕾斯娜	那、那难道是只有在炼金术上登峰造极之人\n才能获得的究极能力吗？！	蕾斯娜	這、這該不會是只有鍊金術專家\n才能獲得的終極能力吧！？
+TalkEvent_09_014ID	15	Firis	フィリス	そ、そういうわけじゃないと思うけど	Firis	Um, I...kind of doubt that's it.	菲利丝	应、应该不是吧。	菲莉絲	我、我覺得應該不是這樣啦。
+TalkEvent_09_014ID	16	Firis	フィリス	わたしや、わたしの先生……ソフィー先生は\n素材の声が聞こえるんだ	Firis	Both my mentor, Sophie, and I can hear them.	菲利丝	我，还有我的老师苏菲\n都能听见素材的声音。	菲莉絲	我和我的老師……蘇菲老師\n都聽得到素材的聲音。
+TalkEvent_09_014ID	17	Firis	フィリス	この世界に来てから、はっきりとは聞こえなく\nなっちゃってるんだけどね	Firis	Though I will say the voices have gotten really faint since coming here.	菲利丝	虽然在来到这个世界以后，\n就听得不是那么清楚了。	菲莉絲	但來到這個世界後，\n就沒辦法聽得很清楚了。
+TalkEvent_09_014ID	18	Resna	レスナ	ソフィー先輩！？　そっか、ソフィー先輩は\nフィリス先輩のお師匠様だったのですね	Resna	Sophie's your mentor?! Wow, so that's who taught you!	蕾斯娜	苏菲前辈？！\n原来苏菲前辈是菲利丝前辈的师父啊。	蕾斯娜	蘇菲前輩！？原來如此，\n蘇菲前輩是菲莉絲前輩的師父呀。
+TalkEvent_09_014ID	19	Resna	レスナ	確かにソフィー先輩も比類なき腕をお持ちでしたが、\nまさか素材の声が聞こえていらっしゃるとは	Resna	She's such an accomplished alchemist. I wouldn't have guessed that she could hear the materials she works with.	蕾斯娜	苏菲前辈确实有着无与伦比的炼金术本领，\n真没想到她还能听见素材的声音。	蕾斯娜	我確實聽說蘇菲前輩也擁有舉世無雙的本領，\n沒想到她聽得到素材的聲音。
+TalkEvent_09_014ID	20	Resna	レスナ	私もお二人のように声が聞こえたらよかった\nのですが。はぁ……残念です	Resna	*Sigh* It's a little disappointing. It would be nice if I could hear their wishes, too.	蕾斯娜	要是我也能拥有你们这个本领就好了。\n唉……真可惜。	蕾斯娜	要是我也能像兩位一樣聽得見就好。\n唉……真遺憾。
+TalkEvent_09_014ID	21	Firis	フィリス	そんなに落ち込むことないよ、レスナちゃん。\nわたしも最初は素材の声が分からなかったし	Firis	Aw, don't get so down, Resna. I couldn't hear them at first either.	菲利丝	别那么消沉嘛，蕾斯娜。\n其实我刚开始也是听不到的。	菲莉絲	別這麼沮喪嘛，蕾斯娜。\n其實我一開始也聽不到素材的聲音。
+TalkEvent_09_014ID	22	Firis	フィリス	だから、強い願いを持ち続けていれば、いつか\n素材の声が聞こえるんじゃないかなぁ	Firis	I'm sure you'll be able to someday if you keep wishing hard for it!	菲利丝	所以你只要怀抱着强烈的愿望，\n总有一天应该也能听到素材的声音。	菲莉絲	所以，只要持續懷抱強烈的希望，\n我想總有一天就會聽到素材的聲音。
+TalkEvent_09_014ID	23	Resna	レスナ	ほ、本当ですか！	Resna	Y-You really mean it?!	蕾斯娜	真、真的吗！	蕾斯娜	真、真的嗎！
+TalkEvent_09_014ID	24	Firis	フィリス	うん。レスナちゃんの願いが「錬金術でみんなを\n幸せにする」ことなら、きっと大丈夫だよ	Firis	Yep! I'd bet it's only a matter of time, since your wish is to make people happy with alchemy.	菲利丝	嗯，你的愿望是“用炼金术给大家带来幸福”呀，\n我相信一定没问题。	菲莉絲	嗯，既然蕾斯娜的心願是\n「透過鍊金術讓大家獲得幸福」，那一定沒問題。
+TalkEvent_09_014ID	25	Firis	フィリス	それってわたしの尊敬するソフィー先生と同じ願い\nだし、その思いにいずれ素材が応えてくれるはず	Firis	Plus, that's Sophie's goal too, and she's as respectable as they come. I think the materials eventually respond to that.	菲利丝	我尊敬的苏菲老师也怀有相同的愿望。\n所以，素材总有一天也一定会回应你的。	菲莉絲	因為我最敬愛的蘇菲老師也懷著相同心願，\n所以素材總有一天會回應這份心意的。
+TalkEvent_09_014ID	26	Izana	イザナ	レスナちゃんはいっつも頑張ってるしね！\n素材もそういうのを見てくれてるよ	Izana	Resna's always working her hardest! I'm sure the materials can see that too.	伊札娜	蕾斯娜每时每刻都是那么勤奋努力嘛！\n相信素材也会看在眼里的。	伊札娜	畢竟蕾斯娜一直都很努力嘛！\n素材肯定看在眼裡。
+TalkEvent_09_014ID	27	Resna	レスナ	そっか……毎日精進あるのみ、ってことかな	Resna	Oh, then...it's the sort of thing that you have to chip away at day by day.	蕾斯娜	这样啊……也就是说唯一的方法就是每天磨练自身啊。	蕾斯娜	這樣啊……意思是只有力求上進一途了吧。
+TalkEvent_09_015ID	0	Firis	フィリス	それじゃあ、わたしは先に行くね。\nレスナちゃんは、ちゃんと休んでから来るんだよ	Firis	Okay, I'm going to head out. Resna, be sure to take a proper break before you leave, all right?	菲利丝	那我就先走啦。\n蕾斯娜好好休息一下再来吧。	菲莉絲	那我先走了。\n蕾斯娜，過來之前記得先好好休息喔。
+TalkEvent_09_015ID	1	Resna	レスナ	分かりました。気を付けて行ってきてくださいね。\n一緒に調合してくださってありがとうございました！	Resna	I will. Please be careful, and thank you for synthesizing with me!	蕾斯娜	好的，前辈路上小心。\n谢谢你陪我一起调合！	蕾斯娜	知道了，路上小心。\n謝謝妳陪我一起調合！
+TalkEvent_09_015ID	2	Izana	イザナ	調合が終わったばっかりなのに飛び出していく\nなんて、フィリスってすっごく元気だよね	Izana	Wow, you only just finished synthesizing and Firis is already out the door. She's got energy for days, huh?	伊札娜	刚调合完立马就跑出去了，\n菲利丝的精力真是旺盛啊。	伊札娜	才剛結束調合就跑出去了，\n菲莉絲真是活力充沛呢。
+TalkEvent_09_015ID	3	Resna	レスナ	私も旅に慣れたらいつかフィリス先輩みたいに\nなれるかなぁ	Resna	I wish I was as used to traveling as she is.	蕾斯娜	等将来我也积累了丰富的旅行经验，\n是不是也能成为菲利丝前辈那样的人呢？	蕾斯娜	如果我也習慣四處旅行，\n能不能變得像菲莉絲前輩一樣？
+TalkEvent_09_015ID	4	Izana	イザナ	フィリスみたいなレスナちゃん……。\nうーんあんまり想像つかない	Izana	A Resna who's just like Firis? Hm... Something about that's hard to imagine.	伊札娜	蕾斯娜会变得像菲利丝一样吗……\n唔……想象不出来。	伊札娜	像菲莉絲一樣的蕾斯娜……\n唔～有點難以想像呢。
+TalkEvent_09_015ID	5	Izana	イザナ	あ、そうだ。せっかく休憩するなら、\n何かおやつがないか、アタシちょっと見てくるね	Izana	Oh, I know! If we're taking the time for a real break, then I'm going to go see if there's anything to snack on.	伊札娜	啊，对了，好不容易休息一会儿，\n我去看看有没有什么点心。	伊札娜	啊，對了。既然要休息的話，\n我去看看有沒有點心吧。
+TalkEvent_09_015ID	6	Resna	レスナ	（素材の声、かぁ）	Resna	(The voices of the materials...)	蕾斯娜	（素材的声音……）	蕾斯娜	（素材的聲音嗎……？）
+TalkEvent_09_015ID	7	Resna	レスナ	むむむむ……。\nはぁ。やっぱり声は聞こえないなぁ	Resna	Hnnngh... *Sigh* Nope, I don't hear anything.	蕾斯娜	嗯嗯嗯嗯……\n唉，还是什么都听不见。	蕾斯娜	唔唔唔唔……\n唉，果然聽不到……
+TalkEvent_09_015ID	8	Resna	レスナ	それとも、何かやり方があるのかな？	Resna	Maybe I'm going about this the wrong way...	蕾斯娜	会不会有什么工序呢？	蕾斯娜	或者，有沒有其他方法？
+TalkEvent_09_015ID	9	Resna	レスナ	…………。\nこ、こんにちは。レスナ・シュテルネンリヒトです	Resna	H-Hello, I'm Resna Sternenlicht.	蕾斯娜	……\n你、你好。我叫蕾斯娜·修特涅利希特。	蕾斯娜	…………\n您、您好，我是蕾斯娜‧修特涅利希特。
+TalkEvent_09_015ID	10	Resna	レスナ	もしよかったら、少しだけお話しませんか？\nなんて……	Resna	Would you mind having a tiny, little conversation with me? ...Oh, like that would wo—	蕾斯娜	可以的话，能和我聊聊吗？\n应该没用吧……	蕾斯娜	不嫌棄的話，能不能跟我聊聊呢？\n像這樣……
+TalkEvent_09_015ID	11	Izana	イザナ	ショーガナイナー、チョットダケダヨ！	Izana	Weeell, shucks! Guess we could spare ya a minute'r two!	伊札娜	真没办法，就稍微和你聊聊吧！	伊札娜	真拿妳沒辦法～只能聊一下喔！
+TalkEvent_09_015ID	12	Resna	レスナ	っ！？　こ、答えた！？\nあっ、答えてくださった！？	Resna	Th-They spoke back to me?! U-Um, is there anything you'd like to say?	蕾斯娜	嗯？！回、回应我了？！\n难道真的是素材在讲话？！	蕾斯娜	唔！？說、說話了！？\n啊，您是在回答我嗎！？
+TalkEvent_09_015ID	13	Izana	イザナ	ボクハ、リッパナ「ハンマー」ニナリタイナー！	Izana	We wanna be the best lookin' hammer ya ever did see!	伊札娜	我想成为帅气的“锤子”！	伊札娜	我好想變成一把出色的「錘子」喔～！
+TalkEvent_09_015ID	14	Resna	レスナ	どっ、どうしよう。いきなり聞こえると思って\nなかったから心の準備が……	Resna	O-Oh! This is all so sudden! I-I wasn't really expecting an answer, so...	蕾斯娜	怎、怎么办？没想到这么快就能听到素材的声音，\n我还没做好心理准备……	蕾斯娜	怎、怎麼辦？沒想到突然間就聽見了，\n我還沒做好心理準備……
+TalkEvent_09_015ID	15	Izana	イザナ	ぷっ。ふふふふ……	Izana	Pfft! Ehehehehe...	伊札娜	噗……呵呵……	伊札娜	噗！呵呵呵呵……
+TalkEvent_09_015ID	16	Resna	レスナ	……あーっ！　い、今の、イザナちゃんが\nしゃべってたの！？	Resna	Ah! I-Izana! Was that you?!	蕾斯娜	啊——！刚、刚才说话的\n原来是伊札娜吗？！	蕾斯娜	……啊～！\n剛、剛才是伊札娜妳在說話嗎！？
+TalkEvent_09_015ID	17	Izana	イザナ	あははは！　ごめん！\nレスナちゃんがあんまりかわいすぎて、つい出来心が	Izana	Ahahaha, sorry! You just sounded so cute, I couldn't help but reply!	伊札娜	啊哈哈哈！对不起！\n蕾斯娜太可爱了，我实在忍不住想逗你一下……	伊札娜	啊哈哈哈！抱歉！\n因為蕾斯娜實在太可愛了，忍不住就想捉弄一下。
+TalkEvent_09_015ID	18	Resna	レスナ	も、もう！　本当にびっくりしたんだよ	Resna	Honestly! I was really startled, you know!	蕾斯娜	讨、讨厌！真吓了我一大跳。	蕾斯娜	討、討厭！我可是真的嚇了一跳耶。
+TalkEvent_09_015ID	19	Izana	イザナ	ごめんなさーい。お詫びに見つけたお菓子\n全部食べていいからさ！　許してレスナちゃん	Izana	Sorry, sorry. To show my sincerity, you can have all the sweets! Please forgive me, Resna!	伊札娜	对不起嘛。作为赔礼，\n我找到的点心你全都吃了也行！原谅我吧，蕾斯娜。	伊札娜	對不起嘛～為了表示歉意，我把找到的點心都給妳吃！\n請原諒我，蕾斯娜。
+TalkEvent_09_015ID	20	Resna	レスナ	お菓子は二人で食べようよ。そのほうが美味しいし	Resna	No, it's okay. Sweets taste better when we eat them together.	蕾斯娜	我们一起吃吧。点心要两个人一起吃才更美味。	蕾斯娜	點心我們一起分著吃吧。因為這樣更好吃。
+TalkEvent_09_015ID	21	Izana	イザナ	ふふっ。レスナちゃんは優しいし頑張り屋さん\nだから、焦らなくてもきっと素材の声が聞こえるよ	Izana	Hehe! Resna, you're so kind and such a hard worker that I just know you'll be able to hear those voices eventually!	伊札娜	呵呵，蕾斯娜既善良又努力，\n不用着急，你一定能听到素材的声音的。	伊札娜	呵呵，這麼貼心又勤奮的蕾斯娜\n一定能聽見素材的聲音，別心急。
+TalkEvent_09_015ID	22	Izana	イザナ	ほら、オスカー君も植物の声が聞こえてたし、\nアタシもたまにハンマーの囁きを感じる気がするし	Izana	Like how Oskar can talk to plants, or how I swear I can sometimes hear my hammer whispering!	伊札娜	你想，奥斯卡也能听到植物的声音，\n我偶尔也能听见锤子的低语呀。	伊札娜	妳想想，奧斯卡也聽得到植物的聲音，\n而我有時也似乎能感覺到錘子在細語。
+TalkEvent_09_015ID	23	Resna	レスナ	そ、そうなんだ？	Resna	Y-You can?	蕾斯娜	是、是吗？	蕾斯娜	這、這樣啊？
+TalkEvent_09_015ID	24	Izana	イザナ	だから心配ご無用！\nそのうち聞こえる日が来るはずだよ！	Izana	So you've got nothing to worry about! A day will definitely come when it happens!	伊札娜	所以不用担心！\n总有一天你一定也能听见！	伊札娜	所以不用擔心！\n聽見素材聲音的那天很快就會到來！
+TalkEvent_09_015ID	25	Resna	レスナ	うん。ありがとう、イザナちゃん	Resna	Yeah. Thanks, Izana.	蕾斯娜	嗯。谢谢你，伊札娜。	蕾斯娜	嗯。謝謝妳，伊札娜。
+TalkEvent_09_015ID	26	Resna	レスナ	よし、それじゃあ砦に戻ろうか！	Resna	Okay! Let's head back to the fortress!	蕾斯娜	好，我们回要塞吧！	蕾斯娜	好，那我們回要塞吧！
+TalkEvent_09_016ID	0	Logy	ロジー	ユナさん、お疲れさまです	Logy	Thanks for all your hard work, Juna.	罗吉	尤娜小姐，你辛苦了。	羅吉	尤娜小姐，辛苦妳了。
+TalkEvent_09_016ID	1	Resna	レスナ	あっ、ロジー先輩！\nエスカ先輩とリンカさんも！	Resna	Oh, Logy! And Escha and Linca, too!	蕾斯娜	啊，罗吉前辈！\n还有爱丝卡前辈和琳卡小姐！	蕾斯娜	啊，羅吉前輩！\n還有愛絲卡前輩和琳卡小姐！
+TalkEvent_09_016ID	2	Escha	エスカ	こんにちは！　シュネール州で会って以来だね	Escha	Hey, there! We haven't seen each other since Schnell, huh?	爱丝卡	你好呀！上次见面还是在施内尔州吧。	愛絲卡	妳們好！上次見面是在雪內爾州呢。
+TalkEvent_09_016ID	3	Resna	レスナ	その節は大変お世話になりました！\nそういえば、皆さんはあの後……	Resna	Thank you so much for your help back then! Um, what have you been up to since?	蕾斯娜	施内尔州的事真的非常感谢！\n说起来，各位在那之后都在忙些什么……	蕾斯娜	那時候真是承蒙照顧了！\n說到這個，你們在那之後……
+TalkEvent_09_016ID	4	Logy	ロジー	あの街の周辺で魔物の対処にあたっていたんだ。\n頂獣の出現に合わせてまた動きが活発になったからな	Logy	We stayed behind to deal with the monsters in the surrounding area, since they were still rather active.	罗吉	我们在忙着处理那座城镇附近的魔物。\n顶兽的现身让那群魔物又开始骚动起来了。	羅吉	我們一直在那座城鎮周邊處理魔物。\n自從頂獸出現後，魔物又開始頻繁出沒了。
+TalkEvent_09_016ID	5	Juna	ユナ	そちらは片付いたのか？	Juna	Did you finish cleaning up there?	尤娜	你们那边都解决好了吗？	尤娜	那邊都解決了嗎？
+TalkEvent_09_016ID	6	Linca	リンカ	はい。危険性の高いものは、すでに倒しました	Linca	Yeah. We managed to get them all, in spite of the danger.	琳卡	嗯。危险性比较高的魔物都解决了。	琳卡	是的，危險性高的魔物都已經打倒了。
+TalkEvent_09_016ID	7	Escha	エスカ	現地の人たちも加勢してくれましたしね！	Escha	We had the locals' help, too!	爱丝卡	当地的居民们也贡献了不少力量！	愛絲卡	當地的人們也來幫忙我們呢！
+TalkEvent_09_016ID	8	Logy	ロジー	頂獣の様子はどうですか？	Logy	What's the Apexi up to now?	罗吉	顶兽的状况如何了？	羅吉	頂獸情況如何？
+TalkEvent_09_016ID	9	Juna	ユナ	現在は海中に身を潜めているようだ。\n活動の再開に備えて我々も迎撃準備を整えている	Juna	It's hiding somewhere under the waves. In the meantime, we've been preparing for our counterattack.	尤娜	它现在正躲在海里。\n我们正在为它下次活动做迎击准备。	尤娜	目前似乎潛伏在海中。\n為了提防牠再度作亂，我們正在著手準備迎擊。
+TalkEvent_09_016ID	10	Escha	エスカ	じゃあ、わたしたちもお手伝いを！	Escha	We'll do our part, too!	爱丝卡	那我们也来帮忙！	愛絲卡	那我們也來幫忙吧！
+TalkEvent_09_016ID	11	Juna	ユナ	頼む、リンカ、エスカ、ロジー	Juna	Thank you, I'm counting on you all.	尤娜	拜托了，琳卡、爱丝卡、罗吉。	尤娜	拜託你們了，琳卡、愛絲卡、羅吉。
+TalkEvent_09_016ID	12	Logy	ロジー	了解です	Logy	Yes, ma'am.	罗吉	好的。	羅吉	了解。
+TalkEvent_09_016ID	13	Linca	リンカ	マリオンもじきに合流すると連絡を受けています。\n同じく、行動を共にしているエスティも	Linca	I also heard that Marion's making her way over, and Esty, too.	琳卡	玛丽翁很快也会过来会合，\n还有和她同行的艾丝缇。	琳卡	我也接到了聯絡，瑪麗翁很快就會來跟大家會合。\n和她一起行動的艾絲緹也是。
+TalkEvent_09_016ID	14	Resna	レスナ	頼りになる方々がどんどん集まって……！\n心強いですね！	Resna	We're getting more and more reliable people by the hour! That's such great news!	蕾斯娜	可靠的帮手在不断增加……！\n队伍越来越壮大真是太好了！	蕾斯娜	聽到可靠的人們將陸續聚集……！\n真令人安心！
+TalkEvent_09_016ID	15	Juna	ユナ	総力戦で挑まねばな	Juna	Well, a battle this significant is going to call for all the help we can get.	尤娜	这一战必须动员一切力量才行。	尤娜	畢竟我們得傾全力應戰才行。
+TalkEvent_09_016ID	16	Logy	ロジー	戦力がいくらあっても足りないほどの\n相手ってことですね	Logy	Right. With an enemy like this, you can never have too much firepower. And even then, it still might not be enough.	罗吉	毕竟对手可是顶兽，\n战斗人员自然越多越好。	羅吉	這就表示這次的對手強悍到\n無論派出多少戰力都不夠。
+TalkEvent_09_016ID	17	Linca	リンカ	戦力といえば……\nヴァレリアもこちらに来ているのでしょうか	Linca	Speaking of firepower, is Valeria here?	琳卡	说到战斗人员……瓦莱莉娅也来了吗？	琳卡	說到戰力……\n瓦萊莉婭也抵達這裡了嗎？
+TalkEvent_09_016ID	18	Resna	レスナ	はい！　ヴァレリアたちは海岸沿いの魔物を\n退治しに行ってます	Resna	Yep! She's down on the beach exterminating monsters.	蕾斯娜	嗯！她们现在正在沿着海岸清剿魔物。	蕾斯娜	對！\n瓦萊莉婭她們去沿岸收拾魔物了。
+TalkEvent_09_016ID	19	Resna	レスナ	そういえば、結構経つのにまだ帰ってきてない……？	Resna	Come to think of it, she's been there for an awfully long while...	蕾斯娜	不过，都过去这么久了，她们怎么还没回来……？	蕾斯娜	這麼一說，為何過了這麼久都還沒回來……？
+TalkEvent_09_016ID	20	Juna	ユナ	騎士団も対応にあたっているが、\n想定以上に数が多く手こずっているようだ	Juna	There is a group of knights responding there as well, so I'd assume that there were more of them than we'd estimated.	尤娜	骑士团也在帮忙处理，\n但魔物数量似乎超出预期，比较费事。	尤娜	雖然騎士團也派人去處理了，\n但數量超乎預期，似乎不好對付。
+TalkEvent_09_016ID	21	Resna	レスナ	でも、ヴァレリアたちなら大丈夫ですよ！	Resna	Well, that wouldn't be a problem for Valeria!	蕾斯娜	但瓦莱莉娅她们一定没问题！	蕾斯娜	不過，瓦萊莉婭她們一定沒問題的！
+TalkEvent_09_016ID	22	Linca	リンカ	はい。彼女がそう簡単にやられると思えません	Linca	Yeah, she's not the sort to go down easily.	琳卡	嗯，我相信她不会轻易被打败的。	琳卡	沒錯，她可不會如此輕易被打倒。
+TalkEvent_09_016ID	23	Juna	ユナ	ああ。私たちは己の役割を果たそう	Juna	Indeed. We all have our roles, and I'm sure they're playing theirs perfectly.	尤娜	是啊。我们也各尽其责吧。	尤娜	嗯，我們做好自己的工作吧。
+TalkEvent_09_017ID	0	Heidi	ハイディ	はぁぁっ！　相棒、よろしく！	Heidi	Haaah! Take that one for me, partner!	海蒂	哈——！搭档，拜托了！	海蒂	喝啊啊！搭檔，交給妳了！
+TalkEvent_09_017ID	1	Valeria	ヴァレリア	任せて！　やぁぁっ！	Valeria	Got it! Hiyaaah!	瓦莱莉娅	交给我吧！呀——！	瓦萊莉婭	包在我身上！呀啊啊！
+TalkEvent_09_017ID	2	Heidi	ハイディ	また一丁上がりってね！　海辺から狩り始めて\n大分内陸まで来たし、これで十分なんじゃない？	Heidi	And another one eats dirt! We made it a good ways inland since we started hunting from the shoreline, so maybe that's enough?	海蒂	又解决了不少呢！\n我们都从海边杀到内陆了，应该差不多了吧？	海蒂	又解決一隻了！我們從海邊開始狩獵，\n現在已經來到內陸了，這樣應該夠了吧？
+TalkEvent_09_017ID	3	Valeria	ヴァレリア	暴れられて、とっても楽しいわ！	Valeria	Getting to go all out has been a ton of fun!	瓦莱莉娅	尽情战斗了一番真是痛快！	瓦萊莉婭	能盡情大展身手，實在是太痛快了！
+TalkEvent_09_017ID	4	Valeria	ヴァレリア	でも、お腹空いちゃったぁ。ハイディ、なんかない？	Valeria	I'm feeling kind of hungry, though. Got any snacks, Heidi?	瓦莱莉娅	但我肚子饿了。海蒂，有什么吃的吗？	瓦萊莉婭	不過我肚子好餓。海蒂，妳有什麼能吃的東西嗎？
+TalkEvent_09_017ID	5	Heidi	ハイディ	もう何もないよ！　さっき食べちゃったでしょ	Heidi	Not a single one! You cleaned us right out!	海蒂	没了！刚才全都被你吃光了吧。	海蒂	已經沒有了啦！剛才不是被妳吃掉了嗎？
+TalkEvent_09_017ID	6	Valeria	ヴァレリア	そりゃまずいわね……	Valeria	Well, that's no good.	瓦莱莉娅	那不妙了……	瓦萊莉婭	真糟糕……
+TalkEvent_09_017ID	7	Valeria	ヴァレリア	この飴もさっき食べちゃったし……	Valeria	I even ate this candy earlier, too.	瓦莱莉娅	我刚才还把这个糖也吃了……	瓦萊莉婭	剛才也吃了這個糖果……
+TalkEvent_09_017ID	8	Heidi	ハイディ	いやそれは食うなよ！	Heidi	Eat anything but that!	海蒂	别吃那个好吗！	海蒂	那個不可以吃啦！
+TalkEvent_09_017ID	9	Valeria	ヴァレリア	でも、放っておけば勝手に復活するじゃない。\n食べなきゃ損よ	Valeria	Why? It comes back on its own. It'd be a waste not to.	瓦莱莉娅	但就算吃了，一会它不就自己复原了嘛。\n不吃白不吃。	瓦萊莉婭	那不是放置一陣子就會自動復原嗎？\n不吃太可惜了。
+TalkEvent_09_017ID	10	Heidi	ハイディ	いざという時、使えないと困るでしょ。\n貴重な移動手段なんだからさ	Heidi	Until it's not there when we need it, and we get into even bigger trouble. That's an important means of transportation!	海蒂	万一关键时刻没法用不就麻烦了吗，\n这可是宝贵的移动手段啊。	海蒂	危急時如果不能使用就糟了，對吧？\n這可是重要的移動方法耶。
+TalkEvent_09_017ID	11	Valeria	ヴァレリア	でも、戦ってる最中とか、本当に「いざ」って時は\n使えなくない？	Valeria	Yeah, but are we really going to pull it out right in the middle of a battle? It's basically useless in a crisis.	瓦莱莉娅	但在战斗的紧要关头这种真正的“关键时刻”\n不还是用不了吗？	瓦萊莉婭	不過，如果真的在戰鬥中陷入「危險」，\n當下應該也沒辦法使用吧？
+TalkEvent_09_017ID	12	Heidi	ハイディ	まあ、それはね。ちゃんと気持ちを集中して、\n行き先を思い浮かべないといけないみたいだから	Heidi	No, I guess not. It seems like you have to be able to focus on where you want to go if you want it to work.	海蒂	那倒是没错。毕竟得集中精神，\n在脑内描绘出目的地才行。	海蒂	話是這麼說沒錯啦。好像必須集中精神，\n在腦中想著目的地才行。
+TalkEvent_09_017ID	13	Heidi	ハイディ	こういう状況だと、どうしてもね……	Heidi	Well, you were bound to get hungry in this situation.	海蒂	在这种情况下肯定是来不及……	海蒂	在這種情況下，實在很困難……
+TalkEvent_09_017ID	14	Valeria	ヴァレリア	うーん……	Valeria	Hmm...	瓦莱莉娅	唔……	瓦萊莉婭	唔……
+TalkEvent_09_017ID	15	Heidi	ハイディ	いや、よそ見しないでよ！\nまた魔物が寄ってきてるんだけど！？	Heidi	Quit staring into the distance! We've got more monsters approaching!	海蒂	不不不，先别东张西望了！\n魔物又逼近了啊！	海蒂	喂，別東張西望！\n又有魔物正在逼近喔！？
+TalkEvent_09_017ID	16	Valeria	ヴァレリア	あ！	Valeria	Ah!	瓦莱莉娅	啊！	瓦萊莉婭	啊！
+TalkEvent_09_017ID	17	Heidi	ハイディ	え？	Heidi	Huh?	海蒂	嗯？	海蒂	咦？
+TalkEvent_09_017ID	18	Valeria	ヴァレリア	すぐ戻ってくるわね――とうっ！	Valeria	I'll be right back!	瓦莱莉娅	我去去就回——嘿！	瓦萊莉婭	我馬上回來──嘿！
+TalkEvent_09_017ID	19	Heidi	ハイディ	ちょっとぉ！　どこ行くのよー！？	Heidi	Hey! Where are you going?!	海蒂	等等！你要去哪——？！	海蒂	等一下！妳要去哪裡！？
+TalkEvent_09_017ID	20	Valeria	ヴァレリア	もぐもぐ……ふぅ。とりあえずお腹が落ち着いたわ～	Valeria	*Munch* *Munch*... Phew. That's my stomach taken care of, at least.	瓦莱莉娅	嚼嚼……呼。总算填饱肚子了～	瓦萊莉婭	嚼嚼……呼～暫且填飽肚子了～
+TalkEvent_09_017ID	21	Heidi	ハイディ	あんた、今食べた果物、どっから持ってきたわけ……	Heidi	Where did you even get that fruit from?	海蒂	你刚才吃的水果是从哪拿的……	海蒂	妳剛才吃的水果是從哪裡拿來的啊……
+TalkEvent_09_017ID	22	Valeria	ヴァレリア	あっちに星廟があったんだけど、\nそこに美味しそうな実が成った木があって……	Valeria	Oh, that star shrine over there. They looked really tasty, so...	瓦莱莉娅	那边的星庙里，\n有棵树结满了果实，看着还挺好吃的……	瓦萊莉婭	那裡有一間星廟，\n還有樹木結著看起來很美味的果實……
+TalkEvent_09_017ID	23	Heidi	ハイディ	それ取っちゃったの！？	Heidi	You just took it?!	海蒂	你摘了那个？！	海蒂	難道妳採了那個！？
+TalkEvent_09_017ID	24	Valeria	ヴァレリア	え、ダメだった？	Valeria	Is that a bad thing?	瓦莱莉娅	嗯？不行吗？	瓦萊莉婭	咦，不行嗎？
+TalkEvent_09_017ID	25	Heidi	ハイディ	一応、あそこは星に祈りを捧げる神聖な\n場所なんだから、ちょっとは遠慮しなさいよ……	Heidi	Those are sacred places for people to leave prayers and offerings for the stars, so...it'd be better to show some restraint.	海蒂	那里好歹是向星星祈祷的圣地，\n你还是稍微敬畏一下吧……	海蒂	那裡好歹是向星星祈禱的神聖場所，\n拜託妳謹慎一點……
+TalkEvent_09_017ID	26	Valeria	ヴァレリア	敷地を荒らさないように\nいつも注意してはいるんだけど	Valeria	I'm always really respectful, though. I make sure not to leave a mess.	瓦莱莉娅	我平时在星庙范围内\n还是会注意不做不规矩的事啦。	瓦萊莉婭	為了避免把那裡弄亂，\n我每次都很小心喔。
+TalkEvent_09_017ID	27	Heidi	ハイディ	いつもって……\nあんた、まさか前にも同じようなこと……	Heidi	"""Always""...? Wait, you've done this before?"	海蒂	“平时”是什么意思……\n你不会以前就干过这种事吧……	海蒂	每次……？\n該不會妳以前也做過一樣的事吧……
+TalkEvent_09_017ID	28	Valeria	ヴァレリア	うん。お腹空いちゃったら動けないもん	Valeria	Yep. After all, I can't move when my stomach's empty.	瓦莱莉娅	嗯，毕竟肚子饿不就动不了了嘛。	瓦萊莉婭	嗯，畢竟肚子一餓就沒辦法動啦。
+TalkEvent_09_017ID	29	Heidi	ハイディ	はぁ……常習犯だったよ……	Heidi	*Sigh* So you're a repeat offender.	海蒂	唉……原来还是个惯犯……	海蒂	唉……竟然是慣犯……
+TalkEvent_09_017ID	30	Valeria	ヴァレリア	いざとなったら馬の桶から\nニンジンを分けてもらって食べるわ！	Valeria	I'd even take half of the carrots from a horse trough if I absolutely had to!	瓦莱莉娅	实在迫不得已的时候，\n我会去马槽那边请马分我点胡萝卜吃！	瓦萊莉婭	遇到緊要關頭時，\n我會從馬的飼料桶裡拿胡蘿蔔來吃！
+TalkEvent_09_017ID	31	Heidi	ハイディ	それ馬怒らない？　コラコラそういうことしたら\nあかんだろって。まったく頼もしい相棒だよ……	Heidi	"Wouldn't that tick them off? They'd be all, ""Hey! Get your grubby hands off our stuff!"" I mean, not that I'd put it past you..."	海蒂	马听了不生气吗？它们绝对会喝止你吧。\n唉，我这搭档可真能干……	海蒂	這樣不會惹馬生氣嗎？說「喂，別做這種事啦。」\n之類的。真是的，妳這個搭檔真令人放心……
+TalkEvent_09_018ID	0	Valeria	ヴァレリア	よっ！　はぁっ！	Valeria	Hup! Haaah!	瓦莱莉娅	嘿！喝！	瓦萊莉婭	嘿！喝啊！
+TalkEvent_09_018ID	1	Heidi	ハイディ	おおっと！　絶好調だね、相棒！	Heidi	Whoa, yeah! Nice form, partner!	海蒂	哎哟！搭档你状态绝佳啊！	海蒂	哦哦！我的搭檔，妳看起來狀況真不錯！
+TalkEvent_09_018ID	2	Valeria	ヴァレリア	ふふ！　果物でお腹膨れたからね！　はっ！	Valeria	Heheh! You can thank the fruit that filled up my stomach for that! Hiyah!	瓦莱莉娅	哼哼！吃了水果有力气了嘛！喝！	瓦萊莉婭	哼哼！畢竟已經用水果填飽肚子了！喝！
+TalkEvent_09_018ID	3	Valeria	ヴァレリア	あれ？　もう終わり？	Valeria	Huh? Was that the last of them?	瓦莱莉娅	嗯？这就没了？	瓦萊莉婭	奇怪？結束了？
+TalkEvent_09_018ID	4	Heidi	ハイディ	いや、魔物にずっと出てこられても困るでしょ	Heidi	I hope so. Never-ending monsters would not be a good thing.	海蒂	没了才好，魔物源源不断地冒出来也太头疼了。	海蒂	要是魔物一直冒出來也很傷腦筋啊。
+TalkEvent_09_018ID	5		星廟のシスター	ごきげんよう。冒険者さんですね。\n魔物を退治してくださってありがとうございます	Star Shrine Sister	Good day to you, adventurers. Thank you very much for disposing of those creatures.	星庙的修女	你们好，请问是冒险者对吧。\n谢谢你们帮忙消灭了魔物。	星廟的修女	兩位好，妳們是冒險者吧。\n非常感謝妳們協助消滅魔物。
+TalkEvent_09_018ID	6	Valeria	ヴァレリア	あれだけ魔物がいたら困るわよねぇ	Valeria	It's nothing. There really were too many of them hanging around.	瓦莱莉娅	有那么多的魔物，你们也很困扰吧。	瓦萊莉婭	魔物多成那樣很令人困擾吧。
+TalkEvent_09_018ID	7		星廟のシスター	きっとお疲れでしょう。\n……よろしければこちらをどうぞ	Star Shrine Sister	You must be quite worn out. Here, please take these.	星庙的修女	你们一定累坏了吧。\n不嫌弃的话还请收下这个。	星廟的修女	想必妳們都很疲憊。\n不介意的話……請享用這個。
+TalkEvent_09_018ID	8	Valeria	ヴァレリア	わぁ！　お弁当！？　いいの？	Valeria	Ooh, lunch boxes? For us?!	瓦莱莉娅	哇！便当？！可以吗？	瓦萊莉婭	哇！便當！？給我們吃的嗎？
+TalkEvent_09_018ID	9	Heidi	ハイディ	え、ええと……あんたはひょっとして、\nそこの星廟の……	Heidi	U-Uh, you wouldn't happen to be, um, the nun who...	海蒂	请、请问……你难道是\n那边那座星庙的……	海蒂	呃，那個……\n妳該不會是那間星廟的……
+TalkEvent_09_018ID	10		星廟のシスター	はい。シスターです。星に祈りを捧げております	Star Shrine Sister	Yes, I preside over that star shrine.	星庙的修女	是的，我是那里的修女。向星星祈祷正是我的职责。	星廟的修女	沒錯，我是修女。負責向星星祈禱。
+TalkEvent_09_018ID	11	Valeria	ヴァレリア	えっ。あそこの星廟の！？	Valeria	You do?!	瓦莱莉娅	什么，你是那边那座星庙的？！	瓦萊莉婭	咦，那間星廟的！？
+TalkEvent_09_018ID	12		ふたり	あ、あの！	Both	U-Um!	二人	听、听我解释！	兩人	其、其實！
+TalkEvent_09_018ID	13	Valeria	ヴァレリア	さっき、木に成ってた果物を勝手に\n食べちゃって……ごめんなさいっ！	Valeria	I'm sorry, I ate some of the fruit that was sitting there!	瓦莱莉娅	对不起！\n刚才我擅自吃了树上结的果实……	瓦萊莉婭	我剛才擅自摘了樹上的果實吃……\n真的很對不起！
+TalkEvent_09_018ID	14	Heidi	ハイディ	この子、悪気はなくてですね！	Heidi	She really didn't mean anything bad by it!	海蒂	她真的没有恶意的！	海蒂	她其實沒有惡意啦！
+TalkEvent_09_018ID	15		星廟のシスター	ふふ。気にしなくていいのですよ。皆を守るために\nこうして魔物と戦ってくださっているのでしょう？	Star Shrine Sister	*Chuckle* Oh, that's quite all right. After all, you've been fighting those monsters to keep everyone safe, haven't you?	星庙的修女	呵呵，不用在意。\n你是和魔物战斗是为了保护大家对吧？	星廟的修女	呵呵，別放在心上。妳們是為了保護大家，\n才在這裡對抗魔物吧？
+TalkEvent_09_018ID	16		星廟のシスター	それはお腹も空かせるでしょうから。\nこちらも、たくさん召し上がってくださいね	Star Shrine Sister	I would imagine that made you work up a considerable appetite. Go ahead, take as many of these as you care to.	星庙的修女	战斗之后肚子饿了也是情有可原。\n这边这些也请多多享用。	星廟的修女	肚子餓是人之常情。\n這些也給妳們，別客氣。
+TalkEvent_09_018ID	17	Valeria	ヴァレリア	うぅっ……こんなにいっぱい……ありがとう！	Valeria	Wow, that's so much food...! Thanks a ton!	瓦莱莉娅	呜呜……居然有这么多……谢谢你！	瓦萊莉婭	唔唔……居然給了這麼多……謝謝妳！
+TalkEvent_09_018ID	18	Heidi	ハイディ	流れ星が貴女に良き導きを示しますよう	Heidi	May the stars ever brighten your way.	海蒂	愿流星给予你指引。	海蒂	願流星為妳指引明路。
+TalkEvent_09_018ID	19		星廟のシスター	あら。貴女がたにも流れ星が良き導きを示しますよう。\nでは私はこれで	Star Shrine Sister	My goodness! And yours as well, ladies. Well then, if you'll excuse me.	星庙的修女	哎呀，也愿流星给予二位指引。\n那我就先失陪了。	星廟的修女	哎呀，也願流星為妳們指引明路。\n那我先告辭了。
+TalkEvent_09_018ID	20	Valeria	ヴァレリア	気を付けてね～！	Valeria	Stay safe out there!	瓦莱莉娅	路上小心～！	瓦萊莉婭	路上小心喔～！
+TalkEvent_09_018ID	21	Heidi	ハイディ	はぁ……叱られなくてよかったね	Heidi	Phew... I'm so glad she didn't yell at us.	海蒂	呼……还好没有被骂。	海蒂	呼……幸好沒挨罵。
+TalkEvent_09_018ID	22	Valeria	ヴァレリア	うん。それにしても、ハイディは随分ちゃんとした\n挨拶ができるのね！	Valeria	No kidding. And you even knew the proper way to thank her!	瓦莱莉娅	是啊。话说回来，\n海蒂你刚才的祝福说得真得体啊！	瓦萊莉婭	嗯。話說回來，\n原來海蒂妳懂那種體面的問候啊！
+TalkEvent_09_018ID	23	Heidi	ハイディ	そりゃ、元シスターだからね	Heidi	Well, sure. I used to be a nun, you know.	海蒂	因为我之前也当过修女嘛。	海蒂	當然啦，我以前可是修女耶。
+TalkEvent_09_018ID	24	Valeria	ヴァレリア	そうなんだ……ええっ！　そうなの！？	Valeria	Right, right... Wait, what?!	瓦莱莉娅	这样啊……咦！还有这事？！	瓦萊莉婭	原來如此……咦！真的嗎！？
+TalkEvent_09_018ID	25	Valeria	ヴァレリア	それが、どうしてまたあんな場所なんかにいたのよ！？	Valeria	Then how did you end up living in the slums?!	瓦莱莉娅	那你一个修女又为什么会在遗迹那种地方啊？！	瓦萊莉婭	那妳為什麼會出現在那種地方！？
+TalkEvent_09_018ID	26	Heidi	ハイディ	いやぁ、まあ……逃げたんだよ。\nシスターの仕事は堅苦しくてキツかったからさ	Heidi	I mean, to put it simply... I ran away. Life as a sister was way too strict for me.	海蒂	哎呀……因为我逃走了嘛。\n毕竟修女的活又死板又辛苦。	海蒂	呃，就……逃走了。\n修女的工作太過乏味，令人難以忍受。
+TalkEvent_09_018ID	27	Valeria	ヴァレリア	はぁ……初めて知ったわ～！	Valeria	Huh! I had no idea!	瓦莱莉娅	这样啊……我还是第一次知道～！	瓦萊莉婭	這樣啊……我還是第一次聽說呢～！
+TalkEvent_09_018ID	28	Heidi	ハイディ	話したことなかったしね……それより	Heidi	How could you? It's not like I've ever talked about it. But more importantly...	海蒂	因为我没跟你说过啊……现在先别聊天了。	海蒂	因為我沒提過嘛……不談這個了。
+TalkEvent_09_018ID	29	Valeria	ヴァレリア	……また魔物が集まってきたわね	Valeria	Yeah. We've got more monsters to deal with.	瓦莱莉娅	……又有魔物聚过来了。	瓦萊莉婭	……魔物又聚集過來了呢。
+TalkEvent_09_018ID	30	Heidi	ハイディ	私はそろそろ、この戦場からも逃げ出したいわ～	Heidi	You know, I'm starting to feel like just running away too.	海蒂	我已经受够这个战场了，又想逃跑了呢～	海蒂	我也想逃離這個戰場了～
+TalkEvent_09_018ID	31	Valeria	ヴァレリア	ふふ。それは禁止！　行きましょ！	Valeria	Heh! You know we can't do that! Come on, let's do this!	瓦莱莉娅	呵呵，那可不行！我们上吧！	瓦萊莉婭	呵呵，那可不行！我們走！
+TalkEvent_09_019ID	0	Saskia	ザスキア	お見事。魔物は一通り片付いたみたいね。\nさすがヴァレリア。素晴らしい戦闘能力だわ	Saskia	Expertly done, ladies. Not a single monster remains. Though, I would expect nothing less from you, Valeria. You have a remarkable talent for combat.	萨丝琪亚	干得漂亮，把魔物们全都解决了呢。\n不愧是瓦莱莉娅，战斗能力真是出神入化。	薩絲琪亞	幹得漂亮。看來魔物都收拾得差不多了。\n不愧是瓦萊莉婭，戰鬥能力無可挑剔。
+TalkEvent_09_019ID	1	Valeria	ヴァレリア	ザスキアじゃない！　こんな所でどうしたの？\n何か調べものをしてたんじゃなかったっけ？	Valeria	Hey, Saskia! What're you doing here? Wait, didn't you say you were looking for something?	瓦莱莉娅	这不是萨丝琪亚嘛！你怎么在这里？\n你不是去调查什么事了吗？	瓦萊莉婭	這不是薩絲琪亞嗎？妳在這種地方做什麼呢？\n我記得妳不是在進行調查？
+TalkEvent_09_019ID	2	Saskia	ザスキア	ええ。ウェルテックスが持つ力については聞いている？\n周囲のものの動きを制限してしまう力	Saskia	That's right. You remember hearing about Weltex's power, yes? Specifically, the one that renders anything in a certain radius immobile.	萨丝琪亚	嗯，你也听说威尔特克斯拥有某种力量了吧？\n就是那种能限制周围事物行动的力量。	薩絲琪亞	對。妳們知道威爾特庫斯的力量嗎？\n限制周遭人物行動的能力。
+TalkEvent_09_019ID	3	Heidi	ハイディ	それはもちろん。頂獣って本当にでたらめな\n力を持ってるもんだなあと思ったよ……	Heidi	Of course. I thought that was a ridiculously unfair ability, but I guess that's an Apexi for you.	海蒂	听说了。顶兽的力量真是够荒唐的……	海蒂	當然聽說了。\n頂獸的能力簡直超乎想像……
+TalkEvent_09_019ID	4	Saskia	ザスキア	もし、そのでたらめな頂獣の力に対抗できる\n装備があるとしたら……どうする？	Saskia	Yes, but what if there was some sort of equipment that could counter it?	萨丝琪亚	如果我说，有种装备能够抵御\n顶兽那种荒唐的力量呢？	薩絲琪亞	如果我說，有種裝備能夠對抗頂獸的超強能力……\n妳們會怎麼做？
+TalkEvent_09_019ID	5	Valeria	ヴァレリア	そんなものが作れるの！？	Valeria	You can make something like that?!	瓦莱莉娅	居然能做得出那样的装备吗？！	瓦萊莉婭	有辦法打造出那種東西嗎！？
+TalkEvent_09_019ID	6	Saskia	ザスキア	この近くに「浮流の塔」と呼ばれる場所があってね。\nそこで採れる素材があれば作れるの	Saskia	There is a place not too far from here called the Tower of Drifting Currents. If I use a certain material that can be found there, it should be possible.	萨丝琪亚	这附近有个地方叫“漂流之塔”。\n用在那边采集到的素材就能做出来。	薩絲琪亞	附近有個被稱為「漂流之塔」的地方。\n只要能取得那裡的素材，就可以打造出來。
+TalkEvent_09_019ID	7	Heidi	ハイディ	塔っていうと、レスナたちが採取に行ったとこ\nじゃない？	Heidi	Isn't that the spot where Resna's group went gathering?	海蒂	你说的塔，不就是蕾斯娜她们\n去采集素材的地方吗？	海蒂	說到塔，不就是蕾斯娜她們\n之前進行採集的地方嗎？
+TalkEvent_09_019ID	8	Saskia	ザスキア	実はあの塔には隠し通路があるのよ。\nレスナたちは気付かなかったみたいね	Saskia	Yes, there is a hidden passage located within it. Which, it would seem, they did not notice.	萨丝琪亚	其实那座塔里有条密道，\n不过蕾斯娜她们好像没有发现。	薩絲琪亞	其實那座塔還有一條隱藏通道，\n蕾斯娜她們好像沒發現。
+TalkEvent_09_019ID	9	Valeria	ヴァレリア	ザスキアも行ってみたんだ？	Valeria	You went to check the same place out, Saskia?	瓦莱莉娅	萨丝琪亚，你也去过那里了吗？	瓦萊莉婭	原來薩絲琪亞妳也去過了？
+TalkEvent_09_019ID	10	Saskia	ザスキア	ええ。ただ、その隠し通路の入り口を岩が塞いでるの。\nだからそれを壊す道具を作ろうと、素材を集めてたのよ	Saskia	I did. However, the entrance has been blocked by rubble. I came here to gather materials to build a tool that can break through.	萨丝琪亚	嗯，可惜那条密道的入口被岩石挡住了。\n所以我正在收集素材，制作可以破坏岩石的道具。	薩絲琪亞	對，不過那條隱藏通道的入口被岩石堵住了。\n所以我在蒐集素材，打算製作破壞岩石的道具。
+TalkEvent_09_019ID	11	Saskia	ザスキア	ちょうどいいわ。ヴァレリア、あなたがその道具を\n作りなさい	Saskia	Your timing could not be better. Valeria, I would like you to craft the tool and proceed through the passage on my behalf.	萨丝琪亚	遇见你正好，瓦莱莉娅，\n就请你来制作那个道具吧。	薩絲琪亞	既然遇到妳們了，\n那就請瓦萊莉婭打造那個道具好了。
+TalkEvent_09_019ID	12	Valeria	ヴァレリア	え、私が？	Valeria	Uh, why me?	瓦莱莉娅	什么？我吗？	瓦萊莉婭	咦，我嗎？
+TalkEvent_09_019ID	13	Saskia	ザスキア	他にもやらなきゃいけないことがあってね。\n浮流の塔の素材はあなたに任せるわ	Saskia	My to-do list is simply too long. So, I'll be leaving the Drifting Tower to you.	萨丝琪亚	因为我还有别的事情要做。\n就拜托你去漂流之塔采集素材了。	薩絲琪亞	我還有其他該做的事。\n漂流之塔的素材就交給妳了。
+TalkEvent_09_019ID	14	Saskia	ザスキア	その素材があれば、頂獣に対抗するための装備を作れる	Saskia	That will enable me to craft equipment that can counter the Apexi.	萨丝琪亚	只要有了那个素材，就能做出对抗顶兽的装备。	薩絲琪亞	只要取得那種素材，就能打造出對抗頂獸的裝備。
+TalkEvent_09_019ID	15	Saskia	ザスキア	レスナを助けてやってちょうだい	Saskia	Which, I might add, will greatly assist Resna.	萨丝琪亚	去帮帮蕾斯娜吧。	薩絲琪亞	幫蕾斯娜一個忙吧。
+TalkEvent_09_019ID	16	Valeria	ヴァレリア	レスナを……うん、分かったわ	Valeria	Oh! Okay, sure.	瓦莱莉娅	去帮蕾斯娜……嗯，我知道了。	瓦萊莉婭	幫蕾斯娜……嗯，我明白了。
+TalkEvent_09_019ID	17	Heidi	ハイディ	そうと決まれば、アトリエに戻ろっか。\nレスナたちもまだいるかもしれないし！	Heidi	If that's what we're doing, then we'd better head to the atelier. Resna and the others might still be there.	海蒂	既然如此，我们就回炼金工房吧。\n蕾斯娜她们说不定也还在那呢！	海蒂	既然這麼決定了，那就回鍊金工房吧。\n蕾斯娜她們說不定還在呢！
+TalkEvent_09_019ID	18	Saskia	ザスキア	そうだ。通路を塞いでる岩の場所と、大体の\n大きさを書いておいたから。渡しておくわ	Saskia	Before you do, take this. I made notes on the passage's location and the dimensions of the rubble blocking it.	萨丝琪亚	对了，岩石堵住的位置\n和岩石的大小我都写下来了。这个也给你。	薩絲琪亞	對了，我將堵住通道的岩石\n位置和大小都記錄下來了。麻煩妳了。
+TalkEvent_09_019ID	19	Saskia	ザスキア	それじゃ、あとはよろしくちゃんね	Saskia	Thank you in advance.	萨丝琪亚	那之后就拜托啦。	薩絲琪亞	那接下來就拜託妳囉。
+TalkEvent_09_019ID	20	Valeria	ヴァレリア	ええ。任せて！	Valeria	Sure, just leave it to us!	瓦莱莉娅	嗯，交给我吧！	瓦萊莉婭	好，包在我身上！
+TalkEvent_09_020ID	0	Valeria	ヴァレリア	レスナー、いるー？	Valeria	Resna? Are you in?	瓦莱莉娅	蕾斯娜，你在吗——？	瓦萊莉婭	蕾斯娜～妳在嗎～？
+TalkEvent_09_020ID	1	Valeria	ヴァレリア	あれ、リディーだけ？	Valeria	Hm? Lydie, is that you?	瓦莱莉娅	嗯？只有莉迪吗？	瓦萊莉婭	奇怪，只有莉迪在嗎？
+TalkEvent_09_020ID	2	Lydie	リディー	あっ！　ヴァレリアさん、ハイディさん	Lydie	Oh! Valeria! Heidi!	莉迪	啊，瓦莱莉娅小姐、海蒂小姐。	莉迪	啊！瓦萊莉婭小姐、海蒂小姐。
+TalkEvent_09_020ID	3	Heidi	ハイディ	スーは一緒じゃないんだ？	Heidi	Is Sue with you?	海蒂	苏没和你在一起吗？	海蒂	蘇沒跟妳在一起嗎？
+TalkEvent_09_020ID	4	Lydie	リディー	スーちゃんはまだ砦のほうにいます。\n海で頂獣を迎え撃つための準備をお手伝いしてて	Lydie	No, she's back at the fortress helping with the preparations for the Apexi interception.	莉迪	小苏还在要塞那边。\n她在帮忙做海上迎击顶兽的准备。	莉迪	小蘇還待在要塞。\n為了在海邊迎擊頂獸，她在那裡協助準備。
+TalkEvent_09_020ID	5	Heidi	ハイディ	いよいよって感じだねえ	Heidi	Gosh, it feels like that battle's just around the corner.	海蒂	有种大战将至的感觉呢。	海蒂	有種終於要開始的感覺呢。
+TalkEvent_09_020ID	6	Valeria	ヴァレリア	あっ、そうそう。レスナ見てない？	Valeria	Oh, right. Have you seen Resna around?	瓦莱莉娅	啊，对了。你有见到蕾斯娜吗？	瓦萊莉婭	啊，對了。妳有看到蕾斯娜嗎？
+TalkEvent_09_020ID	7	Lydie	リディー	私がアトリエに来た時にはもういませんでしたね。\nレスナさんに何か急用なんですか？	Lydie	She hasn't stopped by since I got here. Was there something you needed her for?	莉迪	我来炼金工房的时候她好像已经离开了。\n你找她有什么事吗？	莉迪	我來鍊金工房的時候就沒看到她了。\n妳找蕾斯娜有什麼急事嗎？
+TalkEvent_09_020ID	8	Valeria	ヴァレリア	実はね……	Valeria	Well, you see...	瓦莱莉娅	其实……	瓦萊莉婭	其實……
+TalkEvent_09_020ID	9	Lydie	リディー	うーん。岩をどかすなら\n爆弾を使うのが一番、効果的でしょうか	Lydie	Hmm... If a boulder or two are blocking the way, then using a bomb would probably be the most effective way to get rid of them.	莉迪	唔……要清除岩石的话，\n我觉得用炸弹是最有效的方式。	莉迪	唔～要移除岩石的話，\n炸彈應該是效果最好的吧？
+TalkEvent_09_020ID	10	Valeria	ヴァレリア	うんうん！　爆弾でどかーんってやるのが一番よね！	Valeria	Yeah! We should blast it all away with a great big boom!	瓦莱莉娅	是啊！用炸弹砰地一下炸开最方便了！	瓦萊莉婭	嗯嗯！用炸彈「砰！」地讓岩石碎裂最快了！
+TalkEvent_09_020ID	11	Heidi	ハイディ	いや待って！　塔の中なんだから、そこらの地面で\n爆発させるのとは違うでしょ！	Heidi	Whoa, hang on! You'd be inside the tower! Blowing up the floor is a no-go!	海蒂	不，等等！毕竟是在塔里，\n不能像在普通平地上一样炸吧！	海蒂	不，等等！既然在塔內，\n總不能把地面一起炸了吧！
+TalkEvent_09_020ID	12	Lydie	リディー	そうなんですよね。足元が崩れるかもしれませんし\n……ええっと	Lydie	Oh, that's a good point. That might do too much damage to the foundation. Um, then...	莉迪	也是，搞不好自己站的地方都会被炸塌啊。\n我再想想……	莉迪	說得也是，畢竟有失足的風險。\n再讓我想想……
+TalkEvent_09_020ID	13	Lydie	リディー	そもそも、隠し通路の先に素材があるなら、\n無闇に爆破しちゃったらまずいしなぁ……	Lydie	Now that I think about it, if there are materials beyond that hidden passage, recklessly blasting it is probably a bad idea.	莉迪	况且还要去密道的尽头采集素材呢，\n说炸就炸确实不太好……	莉迪	通道另一端有素材的話，\n隨便亂炸可能會把事情搞砸……
+TalkEvent_09_020ID	14	Heidi	ハイディ	素材も爆破しちゃったら困るもんね	Heidi	Yeah, we don't want to ruin those either.	海蒂	毕竟要是连素材一起炸没了就白忙活了。	海蒂	要是素材也被破壞就傷腦筋了。
+TalkEvent_09_020ID	15	Lydie	リディー	つまり、岩だけしっかり壊せるように\nしないといけませんよね	Lydie	So you need a way to only break the rubble.	莉迪	总之，得想个办法保证破坏岩石\n而不造成其他影响。	莉迪	也就是說，\n必須找到只破壞岩石的方法。
+TalkEvent_09_020ID	16	Lydie	リディー	そうなると、爆発させるんじゃなくて……\n凍らせて砕くとかのほうがいいのかも？	Lydie	In that case, maybe freezing it and then smashing it could work?	莉迪	这样的话，比起炸毁……\n冻碎或许会更稳妥？	莉迪	既然如此，不靠爆破的話……\n把石頭凍碎如何？
+TalkEvent_09_020ID	17	Valeria	ヴァレリア	なるほど……。確かにそれなら、必要なものだけ\n壊せるわ	Valeria	Right, okay... We have to be really careful about what we are and aren't busting up.	瓦莱莉娅	还有这招……\n确实这样就能精准破坏目标了。	瓦萊莉婭	原來如此……這樣確實可以\n破壞特定範圍。
+TalkEvent_09_020ID	18	Lydie	リディー	では、その方向で考えましょう！\n壊したい岩の大体の大きさって分かりますか？	Lydie	Anyway, let's try doing that! About how big is this pile of rocks and stones?	莉迪	那我们就照着这个思路想下去吧！\n要破坏的岩石大概有多大呢？	莉迪	那就朝這個方向思考吧！\n妳們知道那顆岩石大概多大嗎？
+TalkEvent_09_020ID	19	Valeria	ヴァレリア	岩の大きさ？\nああ、確かザスキアからもらった紙に……	Valeria	Huh? Oh, Saskia gave me this note...	瓦莱莉娅	岩石的大小？\n我记得萨丝琪亚给我们的笔记上有……	瓦萊莉婭	岩石的大小？\n啊，薩絲琪亞給我的紙上似乎……
+TalkEvent_09_020ID	20	Lydie	リディー	ふーむ、なるほど。\nじゃあこの素材はこれくらいで……	Lydie	Hmm... Okay. Let's see, it should be this much of this material...	莉迪	嗯，我知道了。\n那就需要这个素材，用量大概是……	莉迪	嗯……原來如此。\n這個素材大概需要這麼多……
+TalkEvent_09_020ID	21	Lydie	リディー	こっちの素材はこれに置き換えたほうが……\nあとは混ぜる時間を調整して……	Lydie	Swap this one for that one... Oh, the mixing time could use some tweaking...	莉迪	这种的素材换成这种比较好……\n还有搅拌的时间也需要调整……	莉迪	這個素材換成這個比較好……\n再調整一下攪拌時間……
+TalkEvent_09_020ID	22	Heidi	ハイディ	おお、すごい集中力……	Heidi	Wow, she's so focused.	海蒂	哦哦，真是聚精会神……	海蒂	哦哦，好強的專注力……
+TalkEvent_09_020ID	23	Lydie	リディー	できました！\nこのレシピ通りに作れば上手くいくと思います！	Lydie	There, done! If you follow that recipe, it should turn out just fine!	莉迪	好了！\n照着这份配方做的话应该没问题！	莉迪	好了！\n應該能靠這個配方順利完成！
+TalkEvent_09_020ID	24	Valeria	ヴァレリア	さすがリディーね！　じゃあ早速作ってみましょ！	Valeria	Lydie, you're amazing! We'll put this straight to good use!	瓦莱莉娅	真不愧是莉迪！那我们就赶紧行动起来吧！	瓦萊莉婭	不愧是莉迪！那我們趕緊開始吧！
+TalkEvent_09_021ID	0	Valeria	ヴァレリア	調合手伝ってくれてありがと、リディー。\nじゃあ行ってくるわね！	Valeria	Thanks for lending a hand with the synthesis too, Lydie. And with that, we'll be off!	瓦莱莉娅	谢谢你帮忙调合，莉迪。\n那我们去去就回！	瓦萊莉婭	莉迪，謝謝妳幫忙調合。\n那我們走囉！
+TalkEvent_09_021ID	1	Lydie	リディー	あ！　待ってください！\n私も一緒に行ってもいいですか？	Lydie	Oh, wait! Would you mind if I went with you?	莉迪	啊！请等一下！\n我可以一起去吗？	莉迪	啊！等一下！\n我可以一起去嗎？
+TalkEvent_09_021ID	2	Heidi	ハイディ	そりゃ大助かりだけど、何か仕事があって\nアトリエに来てたんじゃないの？	Heidi	That'd be a big help, but didn't you come to the atelier to get some stuff done?	海蒂	那真是太欢迎了，\n不过你不是因为有事才来炼金工房的吗？	海蒂	當然了。\n但妳應該是因為有工作才來鍊金工房的吧？
+TalkEvent_09_021ID	3	Lydie	リディー	あ、お二人が来た時にはちょうど手が空いたところ\nだったんです	Lydie	I did, but I was just wrapping up when you two came in.	莉迪	啊，你们来的时候我正好刚忙完。	莉迪	啊，妳們來的時候\n我正好閒下來了。
+TalkEvent_09_021ID	4	Lydie	リディー	それで……スーちゃんも皆さんも頑張ってますし、\n私もお役に立てればって思いまして	Lydie	And Sue's still busy doing her part, so I'd like to help out where I can, too.	莉迪	况且……小苏和各位都在努力，\n我也想帮上点什么忙。	莉迪	所以……既然小蘇和大家都這麼努力，\n我也希望自己能幫上忙。
+TalkEvent_09_021ID	5	Valeria	ヴァレリア	そういうことなら、こっちからお願いするわ！\n一緒に行きましょ！	Valeria	In that case, we'd love to have you with us! Let's get going!	瓦莱莉娅	既然如此，请务必借我们一臂之力！\n跟我们来吧！	瓦萊莉婭	如果是這樣，應該由我來拜託妳才對！\n一起走吧！
+TalkEvent_09_021ID	6	Lydie	リディー	はい！	Lydie	Yeah!	莉迪	好的！	莉迪	好的！
+TalkEvent_09_021ID	7	Valeria	ヴァレリア	ここがザスキアの言っていた「浮流の塔」ね！	Valeria	This must be the Tower of Drifting Currents that Saskia was telling us about!	瓦莱莉娅	这里就是萨丝琪亚说的“漂流之塔”啊！	瓦萊莉婭	這裡就是薩絲琪亞提到的「漂流之塔」吧！
+TalkEvent_09_021ID	8	Lydie	リディー	へぇ……不思議な場所	Lydie	Ooh... It's kind of spooky.	莉迪	哇……真是神奇的地方。	莉迪	哇……真是個神奇的地方。
+TalkEvent_09_021ID	9	Heidi	ハイディ	魔物もいるだろうし、慎重に進もう	Heidi	There are probably monsters lurking around, so be careful.	海蒂	可能会有魔物出没，我们小心前进吧。	海蒂	可能會遇見魔物，前進時務必小心。
+TalkEvent_09_021ID	10	Lydie	リディー	壊さなきゃいけない岩って、これですね！	Lydie	This must be the rubble that we're supposed to clear!	莉迪	要破坏的就是这块岩石吧！	莉迪	要破壞的岩石就是這個吧！
+TalkEvent_09_021ID	11	Lydie	リディー	それじゃあ	Lydie	Okay, it's ready!	莉迪	那么！	莉迪	那……
+TalkEvent_09_021ID	12	Valeria	ヴァレリア	いっけええっ！	Valeria	Gooo, ice!	瓦莱莉娅	看我的——！	瓦萊莉婭	我們上──！
+TalkEvent_09_021ID	13	Heidi	ハイディ	おおっ。見事に岩だけ砕けてる！\nリディー、あんたすごいじゃん！	Heidi	Whoa! That was such a tidy break! Lydie, you're incredible!	海蒂	哦哦，只有岩石被精准破坏了！\n莉迪，你太厉害了！	海蒂	哦哦，漂亮地擊碎特定岩石了！\n莉迪，妳真厲害！
+TalkEvent_09_021ID	14	Lydie	リディー	えへへ。成功してよかったです！	Lydie	Ehehe. I'm just glad it worked!	莉迪	嘿嘿，能成功就好！	莉迪	嘿嘿，能成功真是太好了！
+TalkEvent_09_021ID	15	Valeria	ヴァレリア	うんうん！　やったわね！	Valeria	Totally! Nicely done!	瓦莱莉娅	嗯嗯！太好了！	瓦萊莉婭	嗯嗯！幹得好！
+TalkEvent_09_021ID	16	Lydie	リディー	よーし！　いざ塔の奥へ！	Lydie	Okay! Let's head deeper into the tower!	莉迪	好！向塔的深处出发！	莉迪	行～！那就往塔內深處前進吧！
+TalkEvent_09_022ID	0	Heidi	ハイディ	それにしても、よくこんな場所を見つけたよね。\n知ってはいたけど、ザスキアさんって只者じゃないわ	Heidi	Finding this path in the first place is an impressive feat on its own. I'm telling you, Saskia's way beyond ordinary.	海蒂	话又说回来，真亏萨丝琪亚能找到这种地方。\n她果然不是一般人呢。	海蒂	話說回來，薩絲琪亞小姐竟然能發現這種地方。\n雖然早已心裡有數，她果然非等閒之輩。
+TalkEvent_09_022ID	1	Lydie	リディー	ザスキアさんってレスナさんのお師匠さん\nなんですよね。どんな方なんですか？	Lydie	She's Resna's mentor, right? How would you describe her?	莉迪	萨丝琪亚小姐是蕾斯娜小姐的师父对吧？\n她是什么样的人呢？	莉迪	薩絲琪亞小姐是蕾斯娜小姐的師父吧。\n她是什麼樣的人呢？
+TalkEvent_09_022ID	2	Valeria	ヴァレリア	そうね。うーん……わりと不思議な人？	Valeria	Yeah. She's, um...awfully mysterious?	瓦莱莉娅	唔……一个相当神秘的人？	瓦萊莉婭	這個嘛。嗯……是個不可思議的人？
+TalkEvent_09_022ID	3	Lydie	リディー	えーと……よく分からないってことですか？	Lydie	Wait, so...you don't really know what she's like?	莉迪	也就是说……其实你也不太清楚？	莉迪	呃……意思是不清楚她的為人？
+TalkEvent_09_022ID	4	Valeria	ヴァレリア	えへ。まぁ記憶喪失の私が言うことじゃないけど、\nなんか、他の人とは違う感じがするのよね	Valeria	Eheh. I know I'm not the most reliable person to ask, considering I'm missing a bunch of memories, but there's something about her that's just...different.	瓦莱莉娅	嘿嘿，虽然我这个失忆的人确实不好说什么，\n但我总感觉她和其他人不太一样。	瓦萊莉婭	嘿嘿，雖然失憶的我大概沒資格說，\n但總覺得她跟其他人不太一樣。
+TalkEvent_09_022ID	5	Heidi	ハイディ	まあ、私も似たような印象かも。\n掴みどころがないっていうか……	Heidi	I'm with you there. She's kind of...elusive? Vague? Something like that?	海蒂	嗯，其实我对她也有类似的印象。\n我也说不清，好像有种难以捉摸的感觉……	海蒂	不過，我的想法應該跟妳差不多。\n該說她難以捉摸嗎……
+TalkEvent_09_022ID	6	Lydie	リディー	な、なるほどです	Lydie	Uh-huh...	莉迪	这、这样啊。	莉迪	原、原來如此。
+TalkEvent_09_022ID	7	Valeria	ヴァレリア	レスナの師匠になる前は何してたのかしらね？	Valeria	I wonder what she did before taking Resna on as a student.	瓦莱莉娅	不知道她在当蕾斯娜的师父之前都在做什么呢？	瓦萊莉婭	她成為蕾斯娜的師父前都在做些什麼呀？
+TalkEvent_09_022ID	8	Heidi	ハイディ	錬金術にご執心のロマンも知らなかったみたいだし、\n細々と活動してたのかもね	Heidi	She didn't seem to know Roman, and he adores alchemy, so probably nothing too extravagant.	海蒂	连那个痴迷炼金术的罗曼之前好像都对她没有耳闻，\n可能她生活得比较低调吧。	海蒂	似乎連對鍊金術相當熱衷的羅曼都不清楚，\n或許行事比較低調吧。
+TalkEvent_09_022ID	9	Valeria	ヴァレリア	まあ、不思議な人なんだけど……\n私は結構、ザスキアのこと好きなのよね	Valeria	Anyway, she might be strange, but I like her a whole lot.	瓦莱莉娅	不过，虽然萨丝琪亚给人感觉很神秘……\n我还是挺喜欢她的。	瓦萊莉婭	反正就是個不可思議的人……\n不過，我挺喜歡薩絲琪亞的。
+TalkEvent_09_023ID	0	Heidi	ハイディ	はぁ……ちょっと一休みしない？\nわりと疲れたかも	Heidi	Phew... Can we take a break? I'm feeling pretty beat.	海蒂	呼……要不要稍微休息一下？\n没想到会这么累。	海蒂	呼……要不要休息一下？\n總覺得有點累了。
+TalkEvent_09_023ID	1	Lydie	リディー	さんせーい！　魔物も結構いましたしねー	Lydie	Let's! There were a lot of monsters, huh?	莉迪	附议！毕竟都对付了那么多魔物嘛。	莉迪	贊成～！畢竟剛才遇到了不少魔物～
+TalkEvent_09_023ID	2	Valeria	ヴァレリア	私はお腹空いた……	Valeria	I'm starving...	瓦莱莉娅	我肚子饿了……	瓦萊莉婭	我肚子餓了……
+TalkEvent_09_023ID	3	Heidi	ハイディ	あんたはこれだよ……はい、一人で全部\n食べちゃダメだからね？	Heidi	Of course you are. Here, you can snack on these—just don't eat all of them, okay?	海蒂	你也真是的……\n给，可别一个人全吃光了啊？	海蒂	真拿妳沒辦法……\n來，別一個人全吃光喔？
+TalkEvent_09_023ID	4	Valeria	ヴァレリア	わぁい！　いただきまーす！	Valeria	Yay! Food!	瓦莱莉娅	太好啦！我开动了——！	瓦萊莉婭	哇～！開動～！
+TalkEvent_09_023ID	5	Lydie	リディー	いただきまーす！	Lydie	Thanks, Heidi!	莉迪	我开动了——！	莉迪	開動～！
+TalkEvent_09_023ID	6	Heidi	ハイディ	いや、私の分は残しておいてね！？	Heidi	I mean it! Leave some for me, too!	海蒂	等等，记得给我留点啊？！	海蒂	喂，要記得留下我的份喔！
+TalkEvent_09_023ID	7	Valeria	ヴァレリア	ふぅ、美味しかったぁ……	Valeria	Ahhh, that was so tasty!	瓦莱莉娅	呼，真好吃……	瓦萊莉婭	呼～真好吃……
+TalkEvent_09_023ID	8	Valeria	ヴァレリア	普段食べてるものでも、みんなで食べると\n不思議といつもより美味しく感じるのよねー	Valeria	There's something about sharing a meal with others that makes it even more delicious.	瓦莱莉娅	明明是平时吃惯的味道，但和大家一起吃，\n就莫名感觉格外好吃呢。	瓦萊莉婭	即使是已經吃慣的食物，如果和大家一起分食，\n就會變得特別美味。真神奇～
+TalkEvent_09_023ID	9	Lydie	リディー	あ、それ分かります	Lydie	Oh! I know what you mean.	莉迪	啊，我懂这种感觉。	莉迪	啊，我懂。
+TalkEvent_09_023ID	10	Lydie	リディー	私もスーちゃんと一緒だと、いつものお菓子が\n何倍も美味しいって思いますし	Lydie	Sweets always taste ten times better when I'm eating them with Sue.	莉迪	我和小苏一起的时候也是，\n平时吃惯的点心都好吃了好几倍呢。	莉迪	跟小蘇在一起的時候，\n我也會覺得點心比平常美味好幾倍呢。
+TalkEvent_09_023ID	11	Heidi	ハイディ	うん。二人とも元気でよろしい	Heidi	I'm glad you two are back at a hundred percent.	海蒂	嗯，很好，两个人都很有精神。	海蒂	嗯。妳們兩個看起來很有精神，真是太好了。
+TalkEvent_09_023ID	12	Heidi	ハイディ	はぁー。私は早くのんびりしたいわー	Heidi	Urgh, I'd love to just take it easy.	海蒂	唉……好想赶紧解决完好好休息一下啊……	海蒂	唉～我也好想快點休息喔～
+TalkEvent_09_023ID	13	Lydie	リディー	ハイディさん、結構お疲れみたいですね	Lydie	You look awfully tired, Heidi.	莉迪	海蒂小姐还好吗，看你脸色非常差啊。	莉迪	海蒂小姐看起來似乎挺累的。
+TalkEvent_09_023ID	14	Heidi	ハイディ	海岸線の魔物を片付けてから、ほとんど休まずに\nこの塔に来たからねー	Heidi	Well, we basically went straight from clearing out the monsters along the shore to this tower.	海蒂	毕竟收拾完了海岸的魔物之后，\n几乎马不停蹄地就跑来这座塔了嘛。	海蒂	畢竟在解決海岸線的魔物後，\n我就馬不停蹄地趕來這座塔了～
+TalkEvent_09_023ID	15	Heidi	ハイディ	どっかの元気印と違って、ハイディちゃんは\n繊細なのよねぇ……	Heidi	And unlike you two bouncing balls of energy, I'm a much more delicate flower.	海蒂	和某位精神小姐不同，\n海蒂我可是很柔弱的……	海蒂	海蒂我跟某個活力少女不一樣，\n是很柔弱的……
+TalkEvent_09_023ID	16	Valeria	ヴァレリア	疲れ知らずよ。すごいでしょ	Valeria	Yeah, I don't think I ever get tired. Pretty impressive, huh?	瓦莱莉娅	我的字典里可没有“疲倦”这个词哦。厉害吧！	瓦萊莉婭	我的字典裡沒有累這個字，厲害吧？
+TalkEvent_09_023ID	17	Heidi	ハイディ	うん、そうね、すごいよー	Heidi	Yep, totally. Super amazing.	海蒂	嗯，是是是，厉害厉害。	海蒂	嗯，是啊。真厲害～
+TalkEvent_09_023ID	18	Lydie	リディー	じゃあ、私が疲れを取ってあげます！\nハイディさん、ちょっと背中いいですか？	Lydie	Then I'll help whisk that tiredness away! Heidi, could I borrow your back for a bit?	莉迪	那我来帮你舒缓下疲劳吧！\n海蒂小姐，把后背转过来好吗？	莉迪	我來幫妳消除疲勞好了！\n海蒂小姐，可以請妳轉身嗎？
+TalkEvent_09_023ID	19	Heidi	ハイディ	へ？　背中？	Heidi	Huh? Why?	海蒂	嗯？后背？	海蒂	咦？轉身？
+TalkEvent_09_023ID	20	Lydie	リディー	私、肩揉み得意なんですよ！　近所の人にも\n評判良かったですし、ばっちり疲れを取っちゃいます！	Lydie	So I can give your shoulders a massage! I'm really good at it—all my neighbors say so!	莉迪	我很擅长揉肩哦！\n街坊邻居都夸过我的手法，就让我来消除你的疲劳吧！	莉迪	我很擅長肩頸按摩喔！連附近的人都讚不絕口。\n我可以幫妳徹底緩解疲勞！
+TalkEvent_09_023ID	21	Heidi	ハイディ	うーん、まずその優しさに癒される！\nありがと、リディー。じゃあ、お願いしちゃおっかな	Heidi	All right, I'll let you work your gentle magic! Thanks, Lydie, I really appreciate it!	海蒂	唔——你的体贴已经先治愈我了！\n谢谢你，莉迪。那就拜托啦。	海蒂	嗯～謝謝妳的體貼！\n莉迪，那就拜託妳囉！
+TalkEvent_09_023ID	22	Valeria	ヴァレリア	あっ、ハイディだけずるい！\nリディー、私も私も！	Valeria	Hey! It's not fair that Heidi gets all the attention! I want a massage too!	瓦莱莉娅	啊，只有海蒂享受也太赖皮了！\n莉迪，我也要我也要！	瓦萊莉婭	啊，只有海蒂太不公平了！\n莉迪，我也要我也要！
+TalkEvent_09_023ID	23	Lydie	リディー	じゃあ順番に行きますね！	Lydie	Don't worry, I'll get to you both!	莉迪	那就按顺序来啦！	莉迪	那就輪流來吧！
+TalkEvent_09_023ID	24	Heidi	ハイディ	こ、これは……。　ふわぁぁ～……お゛ああ	Heidi	Oh, w-wow... Haaah... Oooh...	海蒂	这、这真是……呼啊……哦啊……	海蒂	這、這是……呼哈……啊啊……
+TalkEvent_09_023ID	25	Lydie	リディー	ふっふっふ。お客さん、凝ってますなぁ	Lydie	My goodness, miss. You're so tense!	莉迪	呵呵呵，这位客人，这里有些僵硬哦。	莉迪	呵呵呵，這位客人，妳的肩膀很僵硬喔。
+TalkEvent_09_023ID	26	Valeria	ヴァレリア	ん～～～～……き、効くぅ……はぁぁぁ～	Valeria	Mnnnh... N-Not anymore... Ahhh...	瓦莱莉娅	嗯～～～～好、好舒服……哈啊～	瓦萊莉婭	唔～～～～真、真是太有效了……呼哈啊啊～
+TalkEvent_09_023ID	27	Heidi	ハイディ	ふぁ～	Heidi	Phwaaah...	海蒂	呼啊～	海蒂	呼啊～
+TalkEvent_09_023ID	28	Valeria	ヴァレリア	ほぇ～	Valeria	Hooo...	瓦莱莉娅	唔呼～	瓦萊莉婭	哈啊～
+TalkEvent_09_023ID	29	Lydie	リディー	おーい！　お二人さーん！　先に進みますよー！\n頑張ったら後でまた肩揉みしますからー！	Lydie	Come on, you two, snap out of it! We've got places to be! I'll give you another massage if you work hard, okay?	莉迪	该起来啦！两位！要继续前进了哦！\n好好努力的话，一会就再帮你们揉揉肩哦！	莉迪	喂～！妳們兩個～！該往前走囉～！\n結束後我再幫妳們按摩肩膀～！
+TalkEvent_09_023ID	30		ふたり	またあれを！？	Both	You mean it?!	二人	还有机会享受那个吗？！	兩人	真的可以嗎！？
+TalkEvent_09_023ID	31	Heidi	ハイディ	よーし、ハイディちゃん、張り切っちゃう！	Heidi	Okay! I'm ready to push my limits!	海蒂	好！海蒂我要奋发前进了！	海蒂	好～海蒂我要拿出幹勁了！
+TalkEvent_09_023ID	32	Valeria	ヴァレリア	私も、最高に頑張るわ！	Valeria	Me too! I'm going to give it my all, and then some!	瓦莱莉娅	我也要打起十二分精神了！	瓦萊莉婭	我也會打起十二萬分的精神，好好加油！
+TalkEvent_09_024ID	0	Heidi	ハイディ	最上階まで来たし、私の勘では\nこの辺りに何かあると思うんだけど……	Heidi	I'm getting the sense that it's somewhere around this top floor, but...	海蒂	都来到顶层了，\n直觉告诉我这附近应该有什么……	海蒂	都來到最上層了，我的直覺告訴我，\n這一帶應該會有什麼才對……
+TalkEvent_09_024ID	1	Valeria	ヴァレリア	あっ！　あれ！	Valeria	Oh! Over there!	瓦莱莉娅	啊！你们看那个！	瓦萊莉婭	啊！那個！
+TalkEvent_09_024ID	2	Valeria	ヴァレリア	もしかしてあの花が\nザスキアが言っていた素材じゃない？	Valeria	Do you think those flowers are what Saskia was looking for?	瓦莱莉娅	那种花会不会就是萨丝琪亚说的素材？	瓦萊莉婭	那種花應該就是\n薩絲琪亞提到的素材吧？
+TalkEvent_09_024ID	3	Lydie	リディー	真っ黒な薔薇……明らかに他の素材と雰囲気が違う！\nきっとあれですよ！	Lydie	Pitch-black roses... Yep, compared to the other materials, these are giving off a completely different feeling! This has got to be it!	莉迪	纯黑的蔷薇……气场明显跟其他素材不同！\n一定就是它了！	莉迪	全黑的薔薇……散發出來的氣息\n明顯和其他素材不同！肯定就是它！
+TalkEvent_09_024ID	4	Valeria	ヴァレリア	よーし！　早速あれを採って帰りましょ！	Valeria	Okay! Let's grab a bunch and get going!	瓦莱莉娅	好！那我们赶紧采了回去吧！	瓦萊莉婭	好～！馬上把它採回去吧！
+TalkEvent_09_024ID	5	Heidi	ハイディ	ふーっ、ようやくこの塔ともおさらばできそうだね	Heidi	Phew. It'll be nice to finally leave this tower behind.	海蒂	呼——看来终于能离开这座塔了。	海蒂	呼～終於可以告別這座塔了。
+TalkEvent_09_024ID	6	Lydie	リディー	それにしても、ザスキアさんはこの黒い薔薇を\nどんな風に使うのか、興味深いです	Lydie	I'm really curious about how Saskia's going to use these black roses.	莉迪	不过萨丝琪亚小姐究竟打算\n如何使用这种黑蔷薇呢？真好奇啊。	莉迪	話說回來，我很好奇薩絲琪亞小姐\n會如何使用這種黑色薔薇。
+TalkEvent_09_024ID	7	Valeria	ヴァレリア	そうよね。錬金術って奥が深いわ	Valeria	Yeah, me too. Alchemy's really something else.	瓦莱莉娅	是啊。炼金术真是深奥啊。	瓦萊莉婭	就是說呀。鍊金術真是深奧。
+TalkEvent_09_024ID	8	Saskia	ザスキア	あなたもだいぶ錬金術士らしくなってきたわね	Saskia	You know, you've become quite adept at alchemy yourself, Valeria.	萨丝琪亚	你现在也很有炼金术士风范了哦。	薩絲琪亞	妳也越來越有鍊金術士的樣子了嘛。
+TalkEvent_09_024ID	9	Valeria	ヴァレリア	あら、ザスキアじゃない！	Valeria	Whoa! Saskia!	瓦莱莉娅	啊，这不是萨丝琪亚吗！	瓦萊莉婭	哎呀，是薩絲琪亞！
+TalkEvent_09_024ID	10	Saskia	ザスキア	そろそろたどり着いている頃だと思ってね。\nふふふ、さすが私	Saskia	I suspected you would be finishing up about now. *Chuckle* Why, I impress even myself.	萨丝琪亚	我正想着你们差不多要到了。\n呵呵呵，我果然神机妙算。	薩絲琪亞	我剛剛才想說妳們差不多快抵達了。\n呵呵呵，我果然很厲害。
+TalkEvent_09_024ID	11	Valeria	ヴァレリア	……これが素材でいいのね？	Valeria	Is this what you were after?	瓦莱莉娅	……这就是你要的素材对吧？	瓦萊莉婭	……就是這素材，沒錯吧？
+TalkEvent_09_024ID	12	Saskia	ザスキア	ええ。おかげで早く調合に取り掛かれるわ	Saskia	Oh, yes. Thanks to your assistance, I can get straight to synthesizing.	萨丝琪亚	嗯，多亏了你们，可以立刻开始调合了。	薩絲琪亞	沒錯。多虧妳們，我可以早點開始調合了。
+TalkEvent_09_024ID	13	Valeria	ヴァレリア	それで、どんなものを作るの？	Valeria	So what are you going to make?	瓦莱莉娅	那你到底要用它来做什么呢？	瓦萊莉婭	妳打算做什麼東西呢？
+TalkEvent_09_024ID	14	Saskia	ザスキア	ふふ。まぁ、楽しみにしててちょうだい	Saskia	*Chuckle* You'll just have to wait and see.	萨丝琪亚	呵呵，你们就好好等着瞧吧。	薩絲琪亞	呵呵。這個嘛……就請妳們拭目以待囉。
+TalkEvent_09_024ID	15	Saskia	ザスキア	じゃあ、私は早速アトリエに向かうわね。\nこっちの準備ができたらまた声をかけるわ	Saskia	On that note, I'm going to hurry back to the atelier. I'll let you know when everything is ready.	萨丝琪亚	那我就赶紧回炼金工房了。\n我这边准备好之后会再通知你们的。	薩絲琪亞	我先去鍊金工房了。\n準備好之後會告訴妳們一聲。
+TalkEvent_09_024ID	16	Heidi	ハイディ	それじゃ私たちはひとまず砦に戻ろっか	Heidi	I guess we'll head back to the fortress for now, then.	海蒂	那我们先回要塞吧。	海蒂	那我們先回要塞吧。
+TalkEvent_09_024ID	17	Valeria	ヴァレリア	そうね。みんなの様子も気になるもんね	Valeria	Yeah, I'd like to see how everyone's doing.	瓦莱莉娅	嗯，也不知道大家准备得怎么样了。	瓦萊莉婭	說得也是，我挺好奇大家現在情況如何。
+TalkEvent_09_025ID	0	Valeria	ヴァレリア	ウェルテックスと戦う準備もだいぶ整ってきたわね	Valeria	It looks like everyone's just about ready for the fight against Weltex.	瓦莱莉娅	看来和威尔特克斯战斗的准备做得差不多了。	瓦萊莉婭	對付威爾特庫斯的準備都差不多完成了呢。
+TalkEvent_09_025ID	1	Heidi	ハイディ	おーい。相棒ー、リディー	Heidi	Heeey, partner! Lydie!	海蒂	喂——搭档——莉迪——	海蒂	喂～！搭檔～莉迪～
+TalkEvent_09_025ID	2	Valeria	ヴァレリア	ハイディ、戻ったのね。\nロマンに用事ってなんだったの？	Valeria	There you are, Heidi. What did you want to talk to Roman about?	瓦莱莉娅	海蒂，你回来了。\n你找罗曼是有什么事啊？	瓦萊莉婭	海蒂，妳回來啦。\n妳去找羅曼做什麼呢？
+TalkEvent_09_025ID	3	Heidi	ハイディ	んっふっふ。ハイディちゃんの本領発揮というか、　\nちょ～っと一枚かませてもらったというか？	Heidi	Hehe. I've been given the opportunity to show my true skills. Or, more like, I've gotten myself a tiny piece of the pie!	海蒂	嗯哼，海蒂我发挥了一下自己的特长，\n或者该说是借机掺了一脚？	海蒂	嗯哼，與其說請他讓海蒂我發揮本領……\n不如說，我稍～微幫忙了一下？
+TalkEvent_09_025ID	4	Valeria	ヴァレリア	ん？	Valeria	Huh?	瓦莱莉娅	嗯？	瓦萊莉婭	嗯？
+TalkEvent_09_025ID	5	Heidi	ハイディ	この砦だけど、追撃の準備を整えるには\nもっと物資がいるなーって思ってさ	Heidi	Well, I was thinking that since this is a fortress and all, there's probably no end to the supplies we'll need for the siege.	海蒂	要想利用这座要塞追击顶兽，\n我觉得还需要更多的物资。	海蒂	為了做好追擊的準備，\n我想這座要塞應該需要更多物資。
+TalkEvent_09_025ID	6	Heidi	ハイディ	そこでロマンに掛け合ってきたわけ	Heidi	So I went to go do some negotiating.	海蒂	所以我就和罗曼商量了一下。	海蒂	所以就去找羅曼商量了。
+TalkEvent_09_025ID	7	Heidi	ハイディ	軍事費の一部を回してくれたら、\n私が物資を調達してくるよ、ってね	Heidi	I told Roman that if he were to give me a portion of the war funds, I'd be happy to hook him up with some quality items.	海蒂	我和他说，要是能拨我点军费，\n我就可以筹集到需要的物资。	海蒂	我說，如果他願意撥一部分軍費給我，\n我就會幫忙籌措物資。
+TalkEvent_09_025ID	8	Lydie	リディー	何かそういうツテがあるんですか？	Lydie	Do you have some sort of connection?	莉迪	你是有什么相关的门路吗？	莉迪	妳有這方面的門路嗎？
+TalkEvent_09_025ID	9	Valeria	ヴァレリア	あっ！　そういうことか！	Valeria	Oh! I get it now!	瓦莱莉娅	啊！我明白了！	瓦萊莉婭	啊！原來是這麼回事！
+TalkEvent_09_025ID	10	Heidi	ハイディ	ばっちりあるんだな。\nフロッケっていうカワイ子ちゃんとのツテがね	Heidi	You bet! And that connection is an adorable girl named Flocke.	海蒂	没错。\n我认识一个名叫芙洛可的小可爱。	海蒂	當然囉。\n是一位名叫芙洛可的可愛女孩。
+TalkEvent_09_025ID	11	Valeria	ヴァレリア	かわいいだけじゃなくて、やり手の商人なの。\n私たちの家族でもあるわ	Valeria	She's not just cute, she's got a real knack for business. Plus, she's family.	瓦莱莉娅	她不仅人很可爱，还是位手腕了得的商人。\n更是我们的家人。	瓦萊莉婭	不只可愛，還是非常可靠的商人。\n同時也是我們的家人喔。
+TalkEvent_09_025ID	12	Heidi	ハイディ	軍も助かるし、フロッケも商人として実績になる。\n一石二鳥ってわけさ	Heidi	The troops get a leg up, and Flocke manages to make more of a name for herself. Everyone wins!	海蒂	这桩生意下来，不仅能帮到军队，\n芙洛可作为商人也有了业绩。可谓是一举两得。	海蒂	這樣不但能幫上軍隊，芙洛可也能累積經驗。\n簡直一石二鳥。
+TalkEvent_09_025ID	13	Lydie	リディー	ふふ。家族思いなんですね	Lydie	Ehehe. You guys are such a tight-knit bunch.	莉迪	呵呵，真为家人着想啊。	莉迪	呵呵，妳們真是為家人著想呢。
+TalkEvent_09_025ID	14	Lydie	リディー	はっ！　そうだ！\nあの、私もスーちゃんの様子を見に戻ります！	Lydie	Oh no! I still haven't gone to check up on Sue! Sorry, I'm going to do that right away!	莉迪	啊！对了！\n我也去看看小苏现在如何了！	莉迪	啊！對了！\n我得回去看看小蘇的情況！
+TalkEvent_09_025ID	15	Valeria	ヴァレリア	うん。色々とありがとう。スーにもよろしくね	Valeria	Sure thing. Thanks for everything, and tell her we said hi.	瓦莱莉娅	嗯，谢谢你啦。替我和苏问个好。	瓦萊莉婭	嗯，謝謝妳幫我們這麼多。也替我們向小蘇打聲招呼吧。
+TalkEvent_09_025ID	16	Heidi	ハイディ	んじゃ私たちもフリーゲンに行きましょ	Heidi	Right, we should head on over to Friegen too!	海蒂	那我们也回趟弗里根吧。	海蒂	那我們也前往弗里岡吧。
+TalkEvent_09_026ID	0	Valeria	ヴァレリア	んーっ、久しぶりのフリーゲンね。\n相変わらず空気が美味し……	Valeria	It's been a while since we were last here. The air's still so nice and fresh!	瓦莱莉娅	嗯——好久没回弗里根了。\n空气还是像往常一样清新……	瓦萊莉婭	嗯～好久沒回弗里岡了。\n空氣還是一樣清新……
+TalkEvent_09_026ID	1	Valeria	ヴァレリア	ねえ、ハイディ。なんだか様子がおかしくない？	Valeria	Hey, Heidi. Does something feel off to you?	瓦莱莉娅	海蒂，你有没有觉得不太对劲？	瓦萊莉婭	嘿，海蒂。不覺得情況不太對勁嗎？
+TalkEvent_09_026ID	2	Heidi	ハイディ	ああ。なんだか荒れてるね。\n畑は踏み荒らされてるし、柵も倒れてる	Heidi	Yeah, everything here's seen better days. The fields are all trampled, and the fences are broken.	海蒂	嗯，有打斗过的痕迹。\n田地被踩得乱七八糟的，篱笆也倒了。	海蒂	嗯，感覺到處都很混亂。\n不但田地被踐踏，柵欄也倒了。
+TalkEvent_09_026ID	3	Totori	トトリ	あ！　ヴァレリアさん、ハイディさん！	Totori	Oh! Valeria! Heidi!	托托莉	啊！瓦莱莉娅小姐！海蒂小姐！	托托莉	啊！瓦萊莉婭小姐、海蒂小姐！
+TalkEvent_09_026ID	4	Valeria	ヴァレリア	あれ、トトリじゃない！	Valeria	It's Totori!	瓦莱莉娅	啊，这不是托托莉吗！	瓦萊莉婭	咦，這不是托托莉嗎！
+TalkEvent_09_026ID	5	Totori	トトリ	ちょうどよかったです！　早くおうちへ！\nランツェさんが大ケガをしてしまって	Totori	Thank goodness you're here! You'd better hurry home—Lanze is hurt badly!	托托莉	你们来得正好！请赶快回趟家吧！\n兰泽先生受了重伤。	托托莉	妳們來得正好！快回家裡去！\n藍澤先生受了好嚴重的傷。
+TalkEvent_09_026ID	6	Heidi	ハイディ	ええっ！？　何があったわけ！？	Heidi	What?! What happened to him?!	海蒂	什么？！发生什么事了？！	海蒂	咦咦！？發生什麼事了！？
+TalkEvent_09_026ID	7	Totori	トトリ	この近くに魔物が現れて……\n村を守るために戦っていたそうなんです	Totori	A bunch of monsters showed up, and he's been fighting them on the village's behalf.	托托莉	这附近出现了魔物……\n兰泽先生为了保护村庄和那些魔物大战了一场。	托托莉	這附近出現了魔物……\n聽說他為了保護村子挺身而出。
+TalkEvent_09_026ID	8	Totori	トトリ	クア州へお手伝いに向かう前に、様子を見に来たら\n大変なことになっていて……	Totori	I stopped in just to check on things before heading to Kur to lend a hand, but it's gotten pretty bad.	托托莉	在去库亚州帮忙之前，我想着先来这里看下情况，\n没想到居然会变成这样……	托托莉	去庫厄州幫忙前，我先過來看看情況，\n結果發現出了大事……
+TalkEvent_09_026ID	9	Heidi	ハイディ	ここでも魔物が凶暴化してるってこと……！？	Heidi	They've been running wild out here too?!	海蒂	连这里的魔物也变得凶暴了吗……？！	海蒂	難道這裡的魔物也凶暴化了嗎……！？
+TalkEvent_09_026ID	10	Valeria	ヴァレリア	フロッケのことも心配だわ。家に急ぎましょ！\nありがと、トトリ	Valeria	I'm worried about Flocke. Thanks, Totori. Come on, let's go!	瓦莱莉娅	我也很担心芙洛可，我们赶紧回家吧！\n谢谢你，托托莉！	瓦萊莉婭	我好擔心芙洛可。快回家吧！\n謝謝妳，托托莉。
+TalkEvent_09_026ID	11	Valeria	ヴァレリア	ランツェ！　フロッケ！　大丈夫なの？	Valeria	Lanze! Flocke! Are you okay?!	瓦莱莉娅	兰泽！芙洛可！你们没事吧？	瓦萊莉婭	藍澤！芙洛可！你們還好嗎？
+TalkEvent_09_026ID	12	Lanze	ランツェ	うおっ！？　なんだお前たちか。\nデカい声でびっくりさせんじゃねぇよ	Lanze	Huh?! Oh, it's just you two. What's with all the yellin'? I just about jumped outta my skin!	兰泽	唔哦？！哎呀，原来是你们。\n那么大声想吓死谁啊。	藍澤	哇啊！？搞什麼，原來是妳們。\n叫那麼大聲，害我嚇了一跳。
+TalkEvent_09_026ID	13	Heidi	ハイディ	……よかった、意識はあるんだね。\n見た目はかなり痛々しいけど	Heidi	Thank goodness, you're up and alert. You look like you're dead tired, though.	海蒂	……太好了，虽然样子看上去惨了点，\n但幸好意识还清醒。	海蒂	……太好了，意識還很清楚。\n不過看起來傷得很重。
+TalkEvent_09_026ID	14	Flocke	フロッケ	はい……この辺りの人たちを魔物から守ろうと\n一人で戦って……	Flocke	He is. Lanze's been fighting to keep everyone safe from the monsters all on his own.	芙洛可	嗯……\n兰泽先生为了保护这里的居民，孤身迎击魔物……	芙洛可	是的……為了保護這一帶的居民不被魔物傷害，\n他獨自一人應戰……
+TalkEvent_09_026ID	15	Lanze	ランツェ	よせって。大したケガじゃねぇし、そもそも\nあの程度でケガしてるほうが恥ずかしい	Lanze	Let it go, would ya? It ain't a major injury or anythin'. Honestly, I'm just mad that I got this beat up to begin with.	兰泽	别说了，这点伤算不了什么。\n应该说受伤这事才更难为情点。	藍澤	別說了，又沒有傷得多重。\n才這點程度就受傷，我反而很丟臉。
+TalkEvent_09_026ID	16	Heidi	ハイディ	酒でなまった身体を戻すにゃ、時間もかかるもんねぇ	Heidi	Well, I guess it's going to be a while before your body's back to what it was before all that drinking.	海蒂	毕竟你那被酒泡烂的身体想恢复当年之勇也得花点时间啊。	海蒂	畢竟因為酗酒而變遲鈍的身體，要花時間恢復嘛。
+TalkEvent_09_026ID	17	Lanze	ランツェ	うるせぇ！　その通りだよ！　いくら頂獣のせいで\n気が立ってるのが相手だったとはいえ……	Lanze	I know! You don't gotta spell it out! That lousy Apexi's just puttin' me on edge.	兰泽	吵死了！就你话多！就算那些家伙\n在顶兽影响下凶暴了几分，我也不该这么狼狈……	藍澤	少囉嗦！是沒錯啦！\n就算對手受頂獸影響而變得亢奮……
+TalkEvent_09_026ID	18	Heidi	ハイディ	はぁー……知ってたんだ？　頂獣のこと	Heidi	*Sigh* You know about the Apexi?	海蒂	唉……你们也知道顶兽的事情了？	海蒂	哦……原來你知道頂獸的事情？
+TalkEvent_09_026ID	19	Lanze	ランツェ	ああ。王都から村にも知らせが飛んできた。\n……昔、俺の船を襲ったのとは別のヤツみてえだがな	Lanze	Sure do. They sent out notices from the capital... This guy doesn't sound like the one that attacked my ship, though.	兰泽	嗯，消息从王都都传到了村里。\n不过……以前袭击我船的似乎并不是那家伙。	藍澤	嗯，王都也通知村子了。\n但……當時攻擊我的船的頂獸似乎不是牠。
+TalkEvent_09_026ID	20	Valeria	ヴァレリア	そうなのね……	Valeria	Oh...	瓦莱莉娅	这样啊……	瓦萊莉婭	這樣啊……
+TalkEvent_09_026ID	21	Lanze	ランツェ	それよりお前ら、用があって戻ったんじゃねえのか？	Lanze	So? What'd you two pop back into town for, anyway?	兰泽	我说，你们回来是不是有什么事啊？	藍澤	不說這個了，妳們是因為有事才回來的吧？
+TalkEvent_09_026ID	22	Heidi	ハイディ	あ、ああ……それなんだけど	Heidi	Uh, about that...	海蒂	啊，对了……说到这个……	海蒂	呃，對……是這樣沒錯。
+TalkEvent_09_026ID	23	Flocke	フロッケ	戦いに備えての物資調達ですね。任せてください。\nきっとお役に立ってみせます！	Flocke	Supplies for the front? You can leave it to me! I'll do everything I can to be of service!	芙洛可	准备战斗所需的物资对吧。交给我吧。\n我一定会努力争取帮上大家的！	芙洛可	籌措備戰物資，對吧？放心。\n芙洛可絕對使命必達！
+TalkEvent_09_026ID	24	Heidi	ハイディ	よっし、助かるよフロッケ。\n物資を集めてフリーゲンに送ってくれるだけでいいから	Heidi	Thanks, Flocke. That really helps. You can just have everything delivered here, and we'll take things from there.	海蒂	谢谢你，芙洛可。\n只要收集物资，然后送到弗里根就好。	海蒂	好，太謝謝妳了，芙洛可。\n只要將蒐集到的物資送到弗里岡就好。
+TalkEvent_09_026ID	25	Flocke	フロッケ	何を言ってるんですか。\nさあ、出発しますよ	Flocke	What? No, I'll head right to the main event.	芙洛可	你在说什么呢？\n我们赶紧出发吧。	芙洛可	妳在說什麼？\n我們快出發吧。
+TalkEvent_09_026ID	26	Heidi	ハイディ	んん！？　えっ、フロッケ、出発って……	Heidi	Huh?! Um, Flocke, you don't mean...	海蒂	嗯？！什么，芙洛可，你要往哪出发啊……	海蒂	嗯嗯！？咦，芙洛可，出發是指……
+TalkEvent_09_026ID	27	Flocke	フロッケ	フロッケも皆さんと一緒に前線に行きます！	Flocke	I'll go with you to the front lines!	芙洛可	芙洛可要和大家一起去前线！	芙洛可	芙洛可也要和大家一起上前線！
+TalkEvent_09_026ID	28	Valeria	ヴァレリア	な、なに言ってんの！　すっごく危ないのよ！？	Valeria	What are you saying? Don't you know how dangerous that would be?!	瓦莱莉娅	你、你在说什么啊！那里很危险哦？！	瓦萊莉婭	妳、妳說什麼？前線非常危險耶！？
+TalkEvent_09_026ID	29	Heidi	ハイディ	そ、そうだよ。遊びに行くんじゃないんだよ！？	Heidi	Exactly! The front lines aren't a game!	海蒂	对、对啊。我们可不是去郊游的啊？！	海蒂	就、就是說啊，我們可不是去玩的喔！？
+TalkEvent_09_026ID	30	Flocke	フロッケ	きっと今は猫の手も借りたいという状況ですよね？\nフロッケだけじっとしているなんて、できません！	Flocke	Aren't you still short-handed, though? I can't just sit around here and not do anything!	芙洛可	你们现在一定忙得不可开交吧？\n芙洛可怎么可能自己一个人置身事外！	芙洛可	大家現在一定忙得要命吧？\n芙洛可無法一個人待在原地！
+TalkEvent_09_026ID	31	Flocke	フロッケ	それに現地にいるほうが柔軟な支援ができますし。\n皆さんが戦いやすいよう、精一杯お手伝いします！	Flocke	Besides, I can provide more flexible support if I'm actually there. I promise, I'll work really hard to make the fight easier for people!	芙洛可	而且，在现场才更能做到灵活支援。\n为了各位能更加轻松作战，我一定会竭尽全力支援的！	芙洛可	而且在當地更能適時提供協助。\n為了讓大家專心戰鬥，芙洛可會全力支援！
+TalkEvent_09_027ID	0	Lanze	ランツェ	お、おい！\n天使ちゃんまで前線に行くだって！？	Lanze	H-Hang on now! You mean you're just gonna waltz on over to an active battlefield?!	兰泽	不、不是吧！\n连小天使都要上前线？！	藍澤	慢、慢著！\n連小天使都要上前線嗎！？
+TalkEvent_09_027ID	1	Flocke	フロッケ	はい。もう決めました	Flocke	Yes. I've already made up my mind.	芙洛可	嗯，芙洛可已经下定决心了。	芙洛可	是的，芙洛可心意已決。
+TalkEvent_09_027ID	2	Flocke	フロッケ	フロッケにだって、守りたいものはあります。\nだからフロッケはフロッケにできる方法で戦います	Flocke	I have things I want to protect too! So I'm going to fight back in my own way!	芙洛可	因为芙洛可也有想要守护的事物。\n所以，芙洛可也要以自己的方式战斗。	芙洛可	芙洛可也有想守護的事物。\n所以芙洛可要用自己的方法應戰。
+TalkEvent_09_027ID	3	Heidi	ハイディ	はぁ。こりゃ言っても聞かないね	Heidi	*Sigh* There's really not much I can say to that.	海蒂	唉，看样子是劝不动了。	海蒂	唉，看樣子無論說什麼她都聽不進去。
+TalkEvent_09_027ID	4	Lanze	ランツェ	天使ちゃんにだって思うところがあるのは分かる。\nけど、相手は頂獣だ。悪いことは言わねえから……	Lanze	Yeah, I get how our precious angel's feelin'. Still, we're talking about an Apexi here. I don't wanna say no, but...	兰泽	我知道小天使你也有自己的考虑，\n但敌人可是顶兽啊。劝你也都是为了你好……	藍澤	我明白小天使也有自己的想法。\n但對手可是頂獸，這麼說是為了妳好……
+TalkEvent_09_027ID	5	Lanze	ランツェ	おい、ハイディ！　こういう時、歯止めになるのが\nお前の役目だろうが	Lanze	Hey, Heidi! Ain't you the one who's usually piping up with the voice of reason at times like these?	兰泽	喂，海蒂！\n这时候你不该负责拦住她吗！	藍澤	喂，海蒂！\n這種時候妳更應該要出面制止吧。
+TalkEvent_09_027ID	6	Heidi	ハイディ	おっさん、フロッケの目、見た？　いくら止めたって\n王都を逃げた時みたいについてくるよ、この子は	Heidi	C'mon, didn't you see the look in her eyes, pops? None of us are going to be able to keep her from running off to the capital.	海蒂	大叔，你看到芙洛可的眼神了吗？就算再怎么拦，\n她也铁定会像之前逃离王都时那样跟过来的。	海蒂	大叔，看到芙洛可的眼神了嗎？再怎麼阻止，\n她也會像逃離王都那時一樣跟過來的。
+TalkEvent_09_027ID	7	Valeria	ヴァレリア	そうね。フロッケは一度決めたら最後まで\nやり通すもの。分かった、一緒に行きましょう	Valeria	Yep. Once Flocke's set her sights on something, she'll see it through. All right, you can come with us.	瓦莱莉娅	是啊。芙洛可一旦下定了决心，\n就会坚持到底。好，我们一起去吧。	瓦萊莉婭	確實。芙洛可一旦下定決心就會貫徹到底。\n我明白了，那就一起去吧。
+TalkEvent_09_027ID	8	Flocke	フロッケ	…………！　はいっ！　色々と手配をするので\n少しだけ待っていてくださ――	Flocke	Oh! Great! Hang on, I just need to get a few things ready...	芙洛可	……！好的！我需要做些准备，\n请稍等我一——	芙洛可	唔……！好的！我有很多事得安排，\n請稍等我一下──
+TalkEvent_09_027ID	9	Lanze	ランツェ	お前ら、１回落ち着け！　自分たちが何をやろうと\nしてるか、本当にちゃんと分かってんのか！？	Lanze	Okay, hold on a moment! Do y'all REALLY have any idea what you're getting into?!	兰泽	都先给我冷静一下！\n你们真的知道自己在做什么吗？！	藍澤	妳們幾個先冷靜點！\n妳們真的知道自己要做什麼嗎！？
+TalkEvent_09_027ID	10	Lanze	ランツェ	頂獣だ。今、現れてるのは頂獣なんだよ！\n危険なんてもんじゃねえ、別次元の相手だ	Lanze	This ain't your run-of-the-mill monster, it's an Apexi! Their danger levels are way beyond whatever the scale's supposed to be!	兰泽	顶兽啊！现在出现的可是顶兽啊！\n何止是危不危险的问题，常人就从来不是它的对手！	藍澤	那可是頂獸。這次的敵人是頂獸啊！\n那傢伙已經超越危險的範疇，是不同次元的對手。
+TalkEvent_09_027ID	11	Lanze	ランツェ	ひと薙ぎで、一息で、何十何百の命が潰れ消えて\nいく。俺は嫌というほど知ってる。一瞬なんだ	Lanze	Those things can ruin hundreds of lives in one single sweep. I know better than anyone just how awful things can get in the blink of an eye.	兰泽	它只要挥一挥爪，呼一口气，就能终结数以百计的生命。\n我可是再清楚不过了，真就是一瞬间的事。	藍澤	牠轉瞬間就能奪走數十、甚至數百條性命。\n那僅是一瞬間的事。關於這一點我有深刻的體會。
+TalkEvent_09_027ID	12	Valeria	ヴァレリア	ランツェ……	Valeria	Lanze...	瓦莱莉娅	兰泽……	瓦萊莉婭	藍澤……
+TalkEvent_09_027ID	13	Lanze	ランツェ	本当はな、ヴァレリア、お前だって行かせたく\nねえんだぞ	Lanze	If I'm bein' honest, I don't want ANY of you goin'. Not even you, Valeria.	兰泽	说实话，瓦莱莉娅，\n我也不希望你去。	藍澤	坦白說，\n我連瓦萊莉婭也無法放心。
+TalkEvent_09_027ID	14	Lanze	ランツェ	確かにお前は強い。\nだが、頂獣の前じゃ他の奴らと大差ない	Lanze	You're strong, sure, but against an Apexi? You ain't any less squishable than the next guy.	兰泽	你确实很强大。\n但在顶兽面前，你也和一般人没什么两样。	藍澤	妳確實很強。\n但在頂獸面前，妳跟其他人差別不大。
+TalkEvent_09_027ID	15	Lanze	ランツェ	……頼むからよく考えろ。本当にこのまま前線に\n行く気か？　お前らはまだ若いんだぞ	Lanze	Look, just give it some thought, would you? You're all so young. Do ya really need to be rushin' right to the front lines?	兰泽	……求你们了，再好好考虑一下吧。\n你们真打算就这么上前线吗？你们还太年轻了啊！	藍澤	……拜託妳們考慮清楚。\n真的要上前線嗎？妳們還年輕啊。
+TalkEvent_09_027ID	16	Valeria	ヴァレリア	行く。他の仲間は今この瞬間も頑張ってる。\n戦うのは私一人じゃないから、きっとなんとかなる	Valeria	Yeah, I do. My other friends are working their hardest right at this very moment. And it's not like I would be the only one fighting.	瓦莱莉娅	我要去。此时此刻其他伙伴都在全力备战。\n我不是要去单打独斗，大家一起一定可以找到胜机。	瓦萊莉婭	我要去。就連現在也有不少夥伴在努力。\n我並非孤身一人，一定能找到方法的。
+TalkEvent_09_027ID	17	Heidi	ハイディ	ヴァレリアが行くなら、まぁ仕方ないよね	Heidi	And if Valeria's going, then you know I've got to follow her.	海蒂	瓦莱莉娅要去的话，我肯定也得一起去啦。	海蒂	既然瓦萊莉婭下定決心了，我就只好去啦。
+TalkEvent_09_027ID	18	Flocke	フロッケ	ランツェさん。\n本気で止めてくれて、ありがとうございます	Flocke	Lanze. Thank you very much for trying to make us change our minds.	芙洛可	兰泽先生，谢谢你这么为我们着想。	芙洛可	藍澤先生。\n謝謝你苦口婆心地勸阻我們。
+TalkEvent_09_027ID	19	Lanze	ランツェ	なら、俺も一緒に行くぞ！　せめて年長者が\n一人でも……	Lanze	Fine! Then I'm goin' with ya! That way, you'll have at least one person with experience...	兰泽	那我也一起去！能多一个大人总归……	藍澤	既然如此，我也要去！\n至少得有位年長者陪同……
+TalkEvent_09_027ID	20	Valeria	ヴァレリア	ていっ	Valeria	Hah!	瓦莱莉娅	嘿。	瓦萊莉婭	嘿！
+TalkEvent_09_027ID	21	Lanze	ランツェ	うおっ！？　痛ぇぞおい！？	Lanze	What the?! That hurt, y'know!	兰泽	唔哦？！疼死了，你干什么？！	藍澤	呃啊！？很痛耶喂！？
+TalkEvent_09_027ID	22	Valeria	ヴァレリア	この程度の攻撃でのされてるケガ人、連れてける\nわけないでしょ	Valeria	If that's enough to knock you on your bruised back, then you know you can't come with us.	瓦莱莉娅	你是个伤员，我都没用多少力气你就这么大的反应，\n怎么可能带你一起上前线啊。	瓦萊莉婭	這點攻擊就能打倒的傷患，\n怎麼可能帶去呢？
+TalkEvent_09_027ID	23	Lanze	ランツェ	ぐっ……	Lanze	Urk...	兰泽	唔……	藍澤	唔……
+TalkEvent_09_027ID	24	Valeria	ヴァレリア	それに頂獣を倒さない限り、気が立った魔物は\nうじゃうじゃ湧いて出るんだから	Valeria	As long as that Apexi goes unchecked, aggravated monsters are going to be coming out in droves.	瓦莱莉娅	而且只要不打倒顶兽，\n那群狂暴的魔物肯定还会源源不断地冒出来。	瓦萊莉婭	而且在頂獸被打倒前，\n充滿敵意的魔物依舊會持續湧出。
+TalkEvent_09_027ID	25	Valeria	ヴァレリア	この家を守る役目……お願いできない？	Valeria	So...would you mind watching the house for us?	瓦莱莉娅	所以……能拜托你守护这栋房子吗？	瓦萊莉婭	守護這個家的任務……可以交給你嗎？
+TalkEvent_09_027ID	26	Lanze	ランツェ	この家を、守る……	Lanze	Protect the house...	兰泽	守护这栋房子……	藍澤	守護、這個家……
+TalkEvent_09_027ID	27	Valeria	ヴァレリア	ちゃんと三人で戻ってくるって約束する。\nだから、ランツェはこの場所を守って	Valeria	We swear we'll be back. Which means that we need you to make sure this place is still standing when we do.	瓦莱莉娅	我们向你保证，我们三个一定会平安回来。\n所以，替我们守护好这里吧，兰泽。	瓦萊莉婭	我保證我們三個人一定會平安歸來，\n所以，藍澤要好好守護這裡。
+TalkEvent_09_027ID	28	Lanze	ランツェ	……分かったよ	Lanze	Okay. Fine.	兰泽	……好吧。	藍澤	……知道了。
+TalkEvent_09_027ID	29	Lanze	ランツェ	絶対に、三人とも帰ってこい！\n約束だからな！	Lanze	You three had better come home! And that's a promise!	兰泽	你们三个一定要给我回来！\n说好了啊！	藍澤	妳們三個一定要平安回來！\n答應我！
+TalkEvent_09_027ID	30	Flocke	フロッケ	はい！	Flocke	Of course!	芙洛可	好的！	芙洛可	好的！
+TalkEvent_09_027ID	31	Heidi	ハイディ	もちろんだっつーの	Heidi	Pfft, like we'd ever let you down!	海蒂	这不是废话嘛。	海蒂	那還用說嗎？
+TalkEvent_09_027ID	32	Lanze	ランツェ	なにやってんだ……俺は。\nあいつらに気遣わせちまってよ	Lanze	Ugh, what's wrong with me? All I did was make 'em worry.	兰泽	我到底在做什么啊……\n怎么反倒让那群家伙担心起我来了。	藍澤	我到底在做什麼啊……\n還讓那些傢伙費心了。
+TalkEvent_09_027ID	33	Lanze	ランツェ	あの事故から、もっと早く立ち直って……\n酒に逃げたりしてなけりゃ……	Lanze	If I'd pulled myself back together faster, or ditched the booze sooner...	兰泽	要是我能早点摆脱那场意外的阴影……\n不用酒精来逃避现实的话……	藍澤	要是能早點從那起事故振作起來……\n沒有沉迷於酒精的話……
+TalkEvent_09_027ID	34	Lanze	ランツェ	……くそっ	Lanze	Ugh.	兰泽	……可恶。	藍澤	……可惡。
+TalkEvent_09_028ID	0	Valeria	ヴァレリア	フロッケ、どうしたの？	Valeria	What's wrong, Flocke?	瓦莱莉娅	芙洛可，怎么了吗？	瓦萊莉婭	芙洛可，妳還好嗎？
+TalkEvent_09_028ID	1	Flocke	フロッケ	あ、い、いえ……	Flocke	Oh! Um, i-it's nothing.	芙洛可	啊，没、没事……	芙洛可	啊，嗯、沒事……
+TalkEvent_09_028ID	2	Heidi	ハイディ	置いてきたおっさんのこと、気になる？	Heidi	Worried about leaving the old man?	海蒂	你是不放心那个被我们丢下的大叔吗？	海蒂	妳很在意被留下的大叔嗎？
+TalkEvent_09_028ID	3	Flocke	フロッケ	フロッケは絶対に戦場に行くつもりでした。\nどんなに危険な場所でも後悔はありません	Flocke	I was determined to come here, no matter how dangerous it might be. I don't regret that choice.	芙洛可	芙洛可已经下定决心要去战场了。\n无论多危险，芙洛可也绝不后悔。	芙洛可	芙洛可已經下定決心要上戰場，\n無論多危險都不會反悔。
+TalkEvent_09_028ID	4	Flocke	フロッケ	でも、ランツェさんにあんな顔をさせたのが\nフロッケたちだと思うと、少し胸が苦しいです	Flocke	But we made Lanze look so distraught... That makes my heart feel kind of heavy.	芙洛可	只是，一想到兰泽先生因为我们\n露出那样的神情，心里就有些难过。	芙洛可	不過，一想到我們讓藍澤先生露出了那種表情，\n就覺得心裡有點難受。
+TalkEvent_09_028ID	5	Heidi	ハイディ	じゃあ、少しでも早くしょぼくれたおっさんの\n元に帰ってやらなくちゃね	Heidi	Then we'll just have to make it back to him that much faster.	海蒂	那我们可得尽快回到那个可怜大叔的身边啊。	海蒂	那我們得盡快回到\n那個無精打采的大叔身邊才行。
+TalkEvent_09_028ID	6	Valeria	ヴァレリア	そうね。フロッケも来てくれたし、今まで以上に\n戦いやすくなったはず！	Valeria	Yep. And now that you're here, Flocke, fighting is only going to get easier!	瓦莱莉娅	是啊。不过连芙洛可都来帮忙了，\n我们的战斗一定会比以往更顺利！	瓦萊莉婭	是啊。因為連芙洛可也來了，\n戰鬥應該會變得更有利！
+TalkEvent_09_028ID	7	Roman	ロマン	なるほどね。物資の調達のツテというのは\nフロッケのことだったのか	Roman	Oh, I see. The supplier that you were waxing on about was Flocke.	罗曼	原来如此。筹备物资的门路，\n原来指的是芙洛可啊。	羅曼	原來如此。\n取得物資的管道是指芙洛可啊。
+TalkEvent_09_028ID	8	Heidi	ハイディ	えっ！　あ、あー……うん。でも、軍事費を身内で\nいいように使おうってつもりじゃないから！	Heidi	Um! Uh, er... Yes. But, that wasn't because I wanted to put war funds in my family's pockets or anything!	海蒂	咦！啊……是的。\n但我这么做可不是为了让自己人独占这笔军费啊！	海蒂	咦！啊、呃……對。\n但我並沒有私吞軍費的意思喔！
+TalkEvent_09_028ID	9	Roman	ロマン	分かっているさ。むしろ、君が相手ならばこちらも\n安心して依頼できる	Roman	No, I know. If anything, I'm relieved that's who it is. Flocke's someone that I can rely on.	罗曼	我知道。而且既然合作对象是你，\n我这边委托起来也无需顾虑了。	羅曼	我明白。倒不如說，如果是妳，\n我委託時反而更放心。
+TalkEvent_09_028ID	10	Roman	ロマン	せっかく来てくれたんだ。直接話したほうが早い\nだろう。早速、必要な物資について相談させてくれ	Roman	Well, since you're here, it would be faster to discuss what supplies we need in person. Let's get straight to business.	罗曼	来都来了，直接商量也更快些。\n事不宜迟，我们来聊一下需要的物资吧。	羅曼	既然妳都來了，要不要直接和我談談？\n一起商量所需物資的事吧。
+TalkEvent_09_028ID	11	Flocke	フロッケ	は、はい！　よろしくお願いします！	Flocke	O-Okay! I won't let you down!	芙洛可	好、好的！请尽管说吧！	芙洛可	好、好的！請多指教！
+TalkEvent_09_028ID	12	Firis	フィリス	あっ、ヴァレリアさん。戻ってきてたんですね	Firis	Oh, Valeria! Welcome back.	菲利丝	啊，瓦莱莉娅小姐，你们回来啦。	菲莉絲	啊，瓦萊莉婭小姐，妳回來了啊。
+TalkEvent_09_028ID	13	Valeria	ヴァレリア	フィリス！　そっちはどうだった？	Valeria	Firis! How are things going with you guys?	瓦莱莉娅	菲利丝，你那边怎么样了？	瓦萊莉婭	菲莉絲！妳那邊情況如何？
+TalkEvent_09_028ID	14	Firis	フィリス	バッチリです！\n頂獣対策の武装も色々と準備しましたよ	Firis	Perfectly fine! We've got all sorts of anti-Apexi measures in place now.	菲利丝	一切顺利！\n针对顶兽的武器也做好了充分准备。	菲莉絲	完美！\n我們也準備了各種對付頂獸的武器喔。
+TalkEvent_09_028ID	15	Heidi	ハイディ	そういやレスナたちは？	Heidi	What about Resna and her group?	海蒂	说起来，蕾斯娜她们呢？	海蒂	對了，蕾斯娜她們呢？
+TalkEvent_09_028ID	16	Roman	ロマン	ついさっき出発したところだよ。迎撃作戦に備えて\n頂獣の進路上にある島に向かっている	Roman	They just left to go set things up on the island that's in the Apexi's path.	罗曼	不久前刚刚离开。为了准备迎击作战，\n她们正在赶往顶兽行进路线上的一座岛屿。	羅曼	剛才出發了。為了準備迎擊作戰，\n她們正前往頂獸行進路線上的島嶼。
+TalkEvent_09_028ID	17	Valeria	ヴァレリア	そう……	Valeria	Oh, okay...	瓦莱莉娅	这样啊……	瓦萊莉婭	這樣啊……
+TalkEvent_09_028ID	18	Firis	フィリス	やっぱり心配ですか……？	Firis	You're worried about them, huh?	菲利丝	你很担心吗……？	菲莉絲	妳還是很擔心嗎……？
+TalkEvent_09_028ID	19	Valeria	ヴァレリア	まあ、ちょっとだけ。\nでもレスナなら大丈夫って信じてるから	Valeria	Yeah, a little. But it's Resna, so I'm sure they'll be fine.	瓦莱莉娅	嗯，确实有点。\n但我相信蕾斯娜一定没问题。	瓦萊莉婭	嗯，是有一點。\n但我相信蕾斯娜她一定沒問題的。
+TalkEvent_09_028ID	20	Heidi	ハイディ	私たちはとりあえず砦で待機って感じ？	Heidi	So the rest of us are on standby for now?	海蒂	也就是说，我们先暂时在要塞待命？	海蒂	總之，我們是不是得先在要塞等待？
+TalkEvent_09_028ID	21	Roman	ロマン	ああ。ただ、戦況次第では君たちにも\n出動してもらうかもしれない	Roman	Yeah. Though, depending on how that stage of the battle goes, you might get called to the front sooner rather than later.	罗曼	嗯，不过根据战况，\n也可能会派你们前去支援。	羅曼	對，不過可能會視戰況請妳們出動。
+TalkEvent_09_028ID	22	Heidi	ハイディ	了解。私たちも気持ちの準備はしておかないとね	Heidi	Understood. We'd better make sure we're mentally ready to go.	海蒂	知道了，那我们得提前做好心理准备呢。	海蒂	了解，我們也得做好心理準備才行呢。
+TalkEvent_09_028ID	23	Valeria	ヴァレリア	そうね	Valeria	Yeah.	瓦莱莉娅	是啊。	瓦萊莉婭	是啊。
+TalkEvent_09_028ID	24	Valeria	ヴァレリア	――もうじき、夜かしら	Valeria	It won't be much longer till nighttime.	瓦莱莉娅	——很快就要天黑了啊……	瓦萊莉婭	──馬上就要天黑了。
+TalkEvent_09_029ID	0	Juna	ユナ	――夜になったか	Juna	So, night has fallen.	尤娜	——天黑了啊……	尤娜	──已經天黑了啊。
+TalkEvent_09_029ID	1		熱血漢な騎士	ユナ隊長！　島内の布陣が完了しました！	Enthusiastic Knight	Commander Juna! Everyone on the island is in formation!	热血的骑士	尤娜队长！岛内已布阵完毕！	熱血的騎士	尤娜隊長！島內的布陣已經完成了！
+TalkEvent_09_029ID	2	Juna	ユナ	よし！　なんとか間に合った	Juna	Good! We managed to get everything ready in time.	尤娜	好！看来是赶上了。	尤娜	很好！總算趕上了。
+TalkEvent_09_029ID	3		生真面目な騎士	報告します！\n頂獣ウェルテックスが海中より現れました！	Earnest Knight	Reporting in! The Apexi Weltex has emerged from the sea!	一本正经的骑士	报告！\n顶兽威尔特克斯已浮出海面！	一板一眼的騎士	報告！\n頂獸威爾特庫斯從海中現身了！
+TalkEvent_09_029ID	4	Juna	ユナ	来たか……！\nここでヤツを討ち取れればそれでよし！	Juna	The time has come! We'll slay that beast here and now!	尤娜	来了吗……！\n若是能在这里打倒它自然最好！	尤娜	來了嗎……！\n如果能在此直接擊敗這傢伙，就沒問題了！
+TalkEvent_09_029ID	5	Juna	ユナ	それが叶わなかった場合は、攻撃でヤツを引き付け\n砦に誘導する！　行くぞ！　	Juna	If the current plan fails, then we'll draw it back to the fortress! Let's move out!　	尤娜	若是不行，就用攻击诱导它前往要塞！\n我们上！　	尤娜	如果失敗了，就用攻擊把那傢伙\n引誘到要塞！我們上！　
+TalkEvent_09_029ID	6		騎士たち	ユナ隊長に続け！！	Knights	Lead on, Commander Juna!	骑士们	跟上尤娜队长！！	騎士們	跟上尤娜隊長的腳步！！
+TalkEvent_09_029ID	7	Escha	エスカ	いよいよですね……	Escha	Here we go...	爱丝卡	终于要开战了啊……	愛絲卡	終於開始了……
+TalkEvent_09_029ID	8	Logy	ロジー	ああ。気を引き締めていこう	Logy	Yeah. Time to get to business.	罗吉	嗯，小心行事吧。	羅吉	是啊。得謹慎點才行。
+TalkEvent_09_029ID	9	Rorona	ロロナ	ライザさん、避難してきた人たちのお食事、\n配り終わりました！	Rorona	Ryza, I finished passing out the food to the evacuees!	萝乐娜	莱莎小姐，避难人员的餐食已分发完毕！	蘿樂娜	萊莎小姐，給避難民眾的食物\n已經發放完畢了！
+TalkEvent_09_029ID	10	Ryza	ライザ	うん、ありがとうロロナ	Ryza	Great! Thanks, Rorona.	莱莎	嗯，谢谢你，萝乐娜。	萊莎	嗯。謝謝妳，蘿樂娜。
+TalkEvent_09_029ID	11		住民Ａ	向こうはいったいどうなっているんだろうか……	Citizen A	I wonder what's happening in Kur...	居民A	那边情况究竟怎么样了啊……	居民A	那邊到底情況如何呢……
+TalkEvent_09_029ID	12		住民Ｂ	せ、先祖代々の畑は無事じゃろうか……	Citizen B	Those fields have been in my family for generations. I hope they're still in decent shape...	居民B	不知道祖祖辈辈传下来的田地能保住吗……	居民B	家、家裡代代相傳的田地應該沒事吧……
+TalkEvent_09_029ID	13		住民Ｃ	村や家はどうなっちまうんだろう……。\nあたしゃ、家財道具を一切合切、置いてきたんだよ	Citizen C	And what about the village? I left everything I own behind.	居民C	村子和房子会不会有事啊……\n我所有的家当都留在那了。	居民C	不曉得村子和家裡狀況如何……\n我的所有財產都還放在家裡呢。
+TalkEvent_09_029ID	14	Ryza	ライザ	大丈夫だよ！　きっとみんなが頂獣を撃退してくれる！	Ryza	Everything will be fine! I'm sure they'll drive the Apexi away!	莱莎	别担心！大家一定会击退顶兽的！	萊莎	別擔心！大家一定會擊退頂獸的！
+TalkEvent_09_029ID	15	Ryza	ライザ	向こうには騎士や冒険者たち……\nそれに頼れる王子様だっているんだから！	Ryza	There are so many knights and adventurers there, and a really dependable prince, too!	莱莎	那边有骑士和冒险者……\n还有可靠的王子殿下在啊！	萊莎	因為除了騎士和冒險者們……\n還有可靠的王子殿下！
+TalkEvent_09_029ID	16		住民Ｂ	お、王子までが……！	Citizen B	Even a member of the royal family's gone to fight?!	居民B	连、连王子都……！	居民B	連、連王子也……！
+TalkEvent_09_029ID	17	Rorona	ロロナ	そうですよ！　それに、この国は９年前だって\n頂獣を撃退したんですから！	Rorona	You bet! And don't forget that people won against this Apexi nine years ago!	萝乐娜	是啊！而且这个国家在9年前\n也曾击退过顶兽不是吗！	蘿樂娜	沒錯！而且這個國家9年前也擊退過頂獸！
+TalkEvent_09_029ID	18	Ryza	ライザ	だからさ、戦ってるみんなが無事に帰ってくるように\nみんなで祈ろうよ！	Ryza	But still, let's pray for everyone out there fighting to make it home safely!	莱莎	所以，我们就一起祈祷\n前线的各位能平安归来吧！	萊莎	所以讓我們大家一起祈禱，\n希望正在戰鬥的人們能平安歸來！
+TalkEvent_09_029ID	19		住民Ｃ	な、流れ星の導きに祈りを！	Citizen C	M-May the stars light their way!	居民C	愿、愿流星的指引保佑！	居民C	願、願流星也能引導大家！
+TalkEvent_09_029ID	20	Ryza	ライザ	（大丈夫――絶対に）	Ryza	(They'll be fine. I'm sure of it.)	莱莎	（一定会没事的——）	萊莎	（絕對──沒問題的。）
+TalkEvent_09_029ID	21	Odelia	オディーリア	アーシャ。\n頂獣の活動が本格化してきたとの報告が入りました	Odelia	Ayesha. A report has come in. The Apexi has returned to an active state.	奥迪莉雅	爱夏，已收到报告说顶兽开始行动了。	奧迪莉雅	愛夏。\n收到頂獸開始積極活動的報告了。
+TalkEvent_09_029ID	22	Ayesha	アーシャ	戦いが、始まるんですね……	Ayesha	Then the battle must be starting...	爱夏	战斗就要开始了……	愛夏	戰鬥要開始了啊……
+TalkEvent_09_029ID	23	Odelia	オディーリア	現地でも迎撃準備がほぼ完了したようです	Odelia	Apparently, the onsite preparations have mostly been completed.	奥迪莉雅	前线好像也已经做好了迎击准备。	奧迪莉雅	當地似乎也已經做好迎擊準備了。
+TalkEvent_09_029ID	24	Ayesha	アーシャ	レスナさんたちも、現地に行っているんですよね	Ayesha	Resna and the others are down there too, aren't they?	爱夏	蕾斯娜小姐她们也前往前线了对吧。	愛夏	蕾斯娜她們也前往當地了吧？
+TalkEvent_09_029ID	25	Odelia	オディーリア	心配、ですか？	Odelia	Are you concerned about them?	奥迪莉雅	你在为她们担心吗？	奧迪莉雅	妳很擔心嗎？
+TalkEvent_09_029ID	26	Ayesha	アーシャ	……はい	Ayesha	Yes...	爱夏	……是啊。	愛夏	……是的。
+TalkEvent_09_029ID	27	Ayesha	アーシャ	本当はわたしも一緒に行きたいんですけど、\n避難してきた人たちのお世話もあるし……	Ayesha	I wish I could go myself, but there are the evacuees here to consider.	爱夏	本来我也想跟她们一起去的，\n但来这里避难的人们也需要照顾……	愛夏	其實我也很想過去，\n但還得照顧來避難的人們……
+TalkEvent_09_029ID	28		オルペウス	行ってやってくれ	Orpheus	If you want to go, then go.	奥菲斯	你就去支援她们吧。	奧菲斯	妳去吧。
+TalkEvent_09_029ID	29	Ayesha	アーシャ	オ、オルペウス殿下！？\n	Ayesha	Y-Your Highness?!	爱夏	奥、奥菲斯殿下？！	愛夏	奧、奧菲斯殿下！？
+TalkEvent_09_029ID	30		オルペウス	住民たちの協力のおかげで、大きな混乱もなく、\n避難民の受け入れは順調に進んでいる	Orpheus	Thanks to cooperation from the citizenry, there has been no mass panic, and the evacuees are settling in nicely.	奥菲斯	多亏了居民们的帮助，并没有发生大规模骚乱，\n避难人员的安置也在稳步进行。	奧菲斯	多虧居民們的協助，\n避難者的收容進行得很順利，並未引起大騷動。
+TalkEvent_09_029ID	31		オルペウス	今は現地に少しでも戦力が必要だ。\n……弟を、リヒャルトを、助けてやってくれ	Orpheus	Those on the front lines will need all the firepower they can get. Please, help my younger brother.	奥菲斯	现在前线也急需战斗人员。\n去帮帮我弟弟理查德吧。	奧菲斯	現在，當地的戰力就算只多一人也好。\n去協助我的弟弟……理查德吧。
+TalkEvent_09_029ID	32	Ayesha	アーシャ	……はい！	Ayesha	I will!	爱夏	……好的！	愛夏	……好的！
+TalkEvent_09_030ID	0	Resna	レスナ	ユナさん！　ウェルテックスは――	Resna	Juna! Weltex is...	蕾斯娜	尤娜小姐！威尔特克斯它——	蕾斯娜	尤娜小姐！威爾特庫斯──
+TalkEvent_09_030ID	1	Juna	ユナ	たった今、出現の報告があったばかりだ	Juna	Yes, I just received word that it has been spotted.	尤娜	我们刚收到了它现身的报告。	尤娜	剛才收到牠出現的報告了。
+TalkEvent_09_030ID	2		生真面目な騎士	み、見えたぞ！	Earnest Knight	Th-There it is!	一本正经的骑士	出、出现了！	一板一眼的騎士	看、看見了！
+TalkEvent_09_030ID	3	Juna	ユナ	――！	Juna	...!	尤娜	――！	尤娜	──！
+TalkEvent_09_030ID	4	Resna	レスナ	あれが、ウェルテックス……！	Resna	So that's Weltex...!	蕾斯娜	那就是威尔特克斯……！	蕾斯娜	那就是威爾特庫斯……！
+TalkEvent_09_030ID	5	Izana	イザナ	うっ、背中がぞわっとする……	Izana	Ooh, that sent a chill down my spine.	伊札娜	呜，寒毛都竖起来了……	伊札娜	嗚，背脊一陣涼意……
+TalkEvent_09_030ID	6	Resna	レスナ	なんて禍々しい声……	Resna	What an ominous roar...	蕾斯娜	这声音真是不祥……	蕾斯娜	這聲音是何等不祥……
+TalkEvent_09_030ID	7	Logy	ロジー	ユナさん！　そろそろヤツが射程に入ります！	Logy	Juna! It's coming in range!	罗吉	尤娜小姐！那家伙差不多进入射程范围了！	羅吉	尤娜小姐！那傢伙快進入射程範圍了！
+TalkEvent_09_030ID	8	Juna	ユナ	よし――総員、攻撃開始！	Juna	All right! Everyone, fire at will!	尤娜	好——全员，开始攻击！	尤娜	好──所有人，開始攻擊！
+TalkEvent_09_030ID	9	Escha	エスカ	いっけー！！	Escha	Gooo!	爱丝卡	上吧！！	愛絲卡	上吧──！！
+TalkEvent_09_030ID	10	Izana	イザナ	どう！？　効いてる！？	Izana	Well?! Did it do anything?!	伊札娜	怎么样？！有效吗？！	伊札娜	怎麼樣！？有效果嗎！？
+TalkEvent_09_030ID	11		生真面目な騎士	ダメです、作っていただいた弾でも止まりません！	Earnest Knight	The cannonballs don't seem to be working against it!	一本正经的骑士	不行，你们做的炮弹还是阻止不了它！	一板一眼的騎士	不，即使用妳們製作的砲彈也無法阻止牠！
+TalkEvent_09_030ID	12	Resna	レスナ	そんな……威力は倍以上になっているはずなのに……！	Resna	Oh no... We made them so much more powerful than regular ones, too!	蕾斯娜	怎么会这样……威力都已经提升好几倍了啊……！	蕾斯娜	怎麼會……明明威力應該提升了一倍以上……！
+TalkEvent_09_030ID	13	Juna	ユナ	無傷というわけではあるまい。\nそのまま撃ち続けろ！	Juna	Still, it didn't come away unscathed. Keep pressing the attack!	尤娜	它不可能毫发无伤。继续保持攻势！	尤娜	牠並非毫髮無傷。\n繼續攻擊！
+TalkEvent_09_030ID	14		生真面目な騎士	了解！	Earnest Knight	Yes, ma'am!	一本正经的骑士	是！	一板一眼的騎士	收到！
+TalkEvent_09_030ID	15		熱血漢な騎士	よし！　こっちへ向かっているぞ！	Enthusiastic Knight	Okay! It's coming this way!	热血的骑士	好！它朝这边过来了！	熱血的騎士	好！牠往這邊來了！
+TalkEvent_09_030ID	16	Juna	ユナ	上陸に備えて砲撃班は後退！\n他の者は私に続け！　海岸でヤツを食い止めるぞ！	Juna	Artillery team! Fall back! The rest of you, come with me! We'll hold the beast on the shore!	尤娜	敌人即将登陆，炮击队后撤！\n其他人跟我来！在海岸上拦住它！	尤娜	頂獸準備登陸，砲擊班後退！\n其他人跟著我！我們要在海岸阻止那傢伙！
+TalkEvent_09_030ID	17		熱血漢な騎士	おお！	Enthusiastic Knight	Understood!	热血的骑士	是！	熱血的騎士	哦哦！
+TalkEvent_09_030ID	18	Juna	ユナ	白夜の騎士が相手だ、ウェルテックス！	Juna	Weltex! You face a Knight of the Midnight Sun!	尤娜	就由白夜骑士来做你的对手，威尔特克斯！	尤娜	由我白夜騎士來當你的對手，威爾特庫斯！
+TalkEvent_09_030ID	19	Juna	ユナ	はっ！！！	Juna	Haaah!	尤娜	喝！！！	尤娜	喝！！！
+TalkEvent_09_030ID	20	Juna	ユナ	通らないか。ならば、これはどうだ！！	Juna	It seems that wasn't enough. Take this!	尤娜	无效吗……那么再看这招！！	尤娜	無法造成傷害嗎？那這樣呢！！
+TalkEvent_09_030ID	21	Juna	ユナ	はあああああ！！！	Juna	Haaah!	尤娜	喝啊啊啊啊！！！	尤娜	喝啊啊啊啊啊！！！
+TalkEvent_09_030ID	22	Logy	ロジー	効いた！？	Logy	That worked?!	罗吉	起效了？！	羅吉	奏效了！？
+TalkEvent_09_030ID	23	Izana	イザナ	さすがユナさん！　これが……白を纏う騎士！	Izana	Wow, Juna! That's what it means to be a Knight of the Midnight Sun!	伊札娜	不愧是尤娜小姐！这就是……白夜骑士的威力！	伊札娜	不愧是尤娜小姐！這就是……散發白色光輝的騎士！
+TalkEvent_09_030ID	24	Juna	ユナ	……っ！　これは！	Juna	Wait! Look at that!	尤娜	……这是！	尤娜	……唔！這是！
+TalkEvent_09_030ID	25		熱血漢な騎士	あの時と同じだ！　みんな離れろ！\n身体が重くなるぞ！	Enthusiastic Knight	It's just like last time! Quick, get as far back as you can!	热血的骑士	和那时候一样！大家快后撤！\n身体会变重的！	熱血的騎士	和那時候一樣！大家快退開！\n否則身體會動彈不得！
+TalkEvent_09_030ID	26	Juna	ユナ	くっ！　これが例の……！	Juna	Nngh! This must be its special ability...	尤娜	唔！这就是之前听闻的……！	尤娜	唔！這就是之前說的……！
+TalkEvent_09_030ID	27	Resna	レスナ	身動きが、取れない……！\nこれじゃあ、まともに戦うなんて……！	Resna	I can't move...! This isn't a fair fight at all!	蕾斯娜	身体动弹不得……！\n这样根本没法好好战斗……！	蕾斯娜	身體、動不了……！\n根本無法好好戰鬥……！
+TalkEvent_09_030ID	28	Juna	ユナ	砲撃だ！　砦への誘導だけは成さねばならん！\nとにかくヤツを引き付けろ！	Juna	Keep bombarding it! All we need to do is draw it toward the fortress! Make sure that its attention stays on us!	尤娜	开炮！无论如何都要确保诱导它去要塞！\n总之先拖住它！	尤娜	用砲擊！一定要把牠誘導至要塞！\n總之想辦法引誘牠！
+TalkEvent_09_030ID	29		生真面目な騎士	了解！　射撃よーい！	Earnest Knight	Yes, ma'am! Ready... Aim...	一本正经的骑士	是！准备——！	一板一眼的騎士	收到！射擊預備──！
+TalkEvent_09_030ID	30		生真面目な騎士	てーっ！！！	Earnest Knight	Fireee!	一本正经的骑士	开炮！！！	一板一眼的騎士	嘿──！！！
+TalkEvent_09_030ID	31		熱血漢な騎士	なっ……！？　めちゃくちゃだ！	Enthusiastic Knight	What...?! That's impossible!	热血的骑士	什么……？！这也太不讲理了吧！	熱血的騎士	啥……！？太荒謬了！
+TalkEvent_09_030ID	32		生真面目な騎士	くっ、次の弾を――	Earnest Knight	Tch! Load the next ro—	一本正经的骑士	唔，得赶紧装填——	一板一眼的騎士	唔，下一發砲彈──
+TalkEvent_09_030ID	33	Izana	イザナ	っ！　何か来るよ！	Izana	It's charging something!	伊札娜	敌人发动攻击了！	伊札娜	唔！那是什麼？！
+TalkEvent_09_030ID	34	Juna	ユナ	間に合わん！　よけろ！	Juna	There's no time! Get out of the way!	尤娜	来不及了！快躲避！	尤娜	來不及了！快躲開！
+TalkEvent_09_030ID	35		生真面目な騎士	くそ！	Earnest Knight	Whoa!	一本正经的骑士	可恶！	一板一眼的騎士	可惡！
+TalkEvent_09_030ID	36	Juna	ユナ	ぐぁぁぁぁっ！！	Juna	Gaaah!	尤娜	唔啊啊啊啊！！	尤娜	唔啊啊啊啊！！
+TalkEvent_09_030ID	37	Izana	イザナ	ユナさん！？	Izana	Juna?!	伊札娜	尤娜小姐？！	伊札娜	尤娜小姐！？
+TalkEvent_09_030ID	38	Juna	ユナ	私は心配いらない……	Juna	Don't worry, I'm fine...	尤娜	我没事……	尤娜	不用擔心我……
+TalkEvent_09_030ID	39		生真面目な騎士	……ええ、なんとか……！	Earnest Knight	W-We all are!	一本正经的骑士	真是九死一生啊……！	一板一眼的騎士	……嗯，勉強……！
+TalkEvent_09_030ID	40	Logy	ロジー	まずい、ヤツの進路が！	Logy	Shoot, it's veering off-course!	罗吉	糟了，那家伙的行进路线！	羅吉	糟了，牠要往那邊去了！
+TalkEvent_09_030ID	41	Juna	ユナ	待て！　逃がすものか……！　ぐっ！	Juna	Hey! Don't you dare run, you...! Ngh!	尤娜	等等！别想逃……！唔！	尤娜	慢著！怎能讓牠逃掉……！唔！
+TalkEvent_09_030ID	42	Juna	ユナ	…………	Juna	...	尤娜	……	尤娜	…………
+TalkEvent_09_030ID	43	Resna	レスナ	ユナさん……	Resna	Juna...	蕾斯娜	尤娜小姐……	蕾斯娜	尤娜小姐……
+TalkEvent_09_030ID	44	Juna	ユナ	やむを得ん……撤退だ	Juna	There's nothing we can do...but withdraw.	尤娜	没办法了……撤退。	尤娜	沒辦法了……撤退吧。
+TalkEvent_09_031ID	0	Roman	ロマン	な――	Roman	What the...?	罗曼	什么——	羅曼	什麼──
+TalkEvent_09_031ID	1	Heidi	ハイディ	あれって、何かの合図！？	Heidi	Was that some kind of signal?	海蒂	那是在发信号吗？！	海蒂	難道那是某種信號！？
+TalkEvent_09_031ID	2	Roman	ロマン	ああ……。\n作戦続行不能……考え得る限り最悪の状況だ	Roman	Yeah. Our plan failed, and in the worst way possible.	罗曼	嗯……意思是无法继续作战……\n这是设想里最糟糕的情况了。	羅曼	對……\n無法繼續作戰……是預想中最糟的狀況。
+TalkEvent_09_031ID	3	Heidi	ハイディ	誘導に失敗したってこと！？	Heidi	They can't get the Apexi to come over here?!	海蒂	也就是说诱导失败了吗？！	海蒂	意思是誘導失敗了！？
+TalkEvent_09_031ID	4	Valeria	ヴァレリア	レスナたちは大丈夫なの！？	Valeria	Are Resna and the others okay?!	瓦莱莉娅	蕾斯娜她们没事吧？！	瓦萊莉婭	蕾斯娜她們沒事吧！？
+TalkEvent_09_031ID	5	Roman	ロマン	部隊には撤退を優先するよう指示してある。\n今は無事を祈るしかない	Roman	The troops all know to prioritize their safety over anything else, but all we can do now is hope for the best.	罗曼	之前有下达过指示让部队优先撤离。\n现在也只能祈祷她们平安无事了。	羅曼	我指示部隊以撤退為優先。\n現在只能祈禱他們平安無事了。
+TalkEvent_09_031ID	6	Roman	ロマン	しかし、誘導が不可能となるともう砦は使えない。\n何か。何か手は……	Roman	But if luring it here is impossible, then the fortress is as good as useless. Now what? Is there anything we could...	罗曼	但是如果无法诱导，要塞就派不上用场了。\n快想想，还有没有什么办法……	羅曼	如果無法誘導頂獸過來，要塞就無用武之地。\n有沒有什麼好方法……
+TalkEvent_09_031ID	7	Saskia	ザスキア	諦めるにはまだ早いんじゃないかしら？	Saskia	It's far too early to give up, wouldn't you say?	萨丝琪亚	现在放弃是不是还为时过早了？	薩絲琪亞	現在放棄還太早了吧？
+TalkEvent_09_031ID	8	Roman	ロマン	っ！　ザスキアさん……	Roman	Oh! Saskia!	罗曼	萨丝琪亚小姐……！	羅曼	唔！薩絲琪亞小姐……
+TalkEvent_09_031ID	9	Saskia	ザスキア	酷い顔。そんなんじゃ、仕える者たちは不安になるわ	Saskia	Goodness, what a dreadful expression. You're going to cause your subordinates so much worry.	萨丝琪亚	脸色这么难看，你手下的人会跟着不安的。	薩絲琪亞	臉色真難看。這樣部下們會感到不安的。
+TalkEvent_09_031ID	10	Roman	ロマン	……はは。参ったな。その通りだ	Roman	Heh. I know, but what else can I do?	罗曼	……哈哈，确实。你说得没错。	羅曼	……哈哈，傷腦筋。妳說得沒錯。
+TalkEvent_09_031ID	11	Roman	ロマン	でも、何分余裕がないものでね	Roman	We don't have much time left.	罗曼	但我也确实没有那个余力了。	羅曼	但我實在無法保持從容了。
+TalkEvent_09_031ID	12	Saskia	ザスキア	砦はまだ使える――と言ったら、どうかしら？	Saskia	What if I told you that the fortress is still a viable option?	萨丝琪亚	要是我说，要塞还能用呢？	薩絲琪亞	如果我說──要塞還有用處呢？
+TalkEvent_09_031ID	13	Roman	ロマン	なんだって？	Roman	Come again?	罗曼	什么？	羅曼	妳說什麼？
+TalkEvent_09_031ID	14	Saskia	ザスキア	ヤツを誘導するための力。私には、その用意があるわ	Saskia	I've harnessed the power to direct the Apexi over here.	萨丝琪亚	我准备了能够诱导那家伙的力量。	薩絲琪亞	我已經準備好誘導那傢伙的力量了。
+TalkEvent_09_031ID	15	Heidi	ハイディ	それって、私らがさっき素材を採りに行ったやつ？	Heidi	You mean, whatever you were planning on making with those materials we gathered?	海蒂	难道是用我们刚才采的素材做的那个？	海蒂	妳是指我們剛才去採集的素材嗎？
+TalkEvent_09_031ID	16	Valeria	ヴァレリア	完成したのね！	Valeria	You finished it?!	瓦莱莉娅	你做好了啊！	瓦萊莉婭	原來已經完成了啊！
+TalkEvent_09_031ID	17	Roman	ロマン	詳しく話を聞かせてくれ	Roman	You're going to have to explain things in more detail.	罗曼	愿闻其详。	羅曼	願聞其詳。
+TalkEvent_09_032ID	0	Resna	レスナ	はあ……はあ……。着いた……	Resna	*Huff* *Huff* We made it...	蕾斯娜	呼……呼……终于到了……	蕾斯娜	呼……呼……抵達了……
+TalkEvent_09_032ID	1	Juna	ユナ	とにかく、殿下へ状況を知らせ……ぐっ	Juna	For now, we must get to His Highness and report on the curre—ngh!	尤娜	总之，得先和殿下报告情况……唔。	尤娜	總之，必須先通知殿下……唔！
+TalkEvent_09_032ID	2	Izana	イザナ	ユナさん、さっきの傷が……！	Izana	Before that, we have to do something about your wounds!	伊札娜	尤娜小姐，你刚才受的伤……！	伊札娜	尤娜小姐，妳的傷勢……！
+TalkEvent_09_032ID	3	Juna	ユナ	私は大丈夫だ、心配するな。\nそれより、急がなければ……	Juna	Don't worry, I'll be fine. Speed is currently of the essence.	尤娜	我没事，别担心。\n先别管我了，必须抓紧时间才行……	尤娜	我沒事，別擔心。\n比起這個，不快點的話……
+TalkEvent_09_032ID	4	Juna	ユナ	こうしている間にも、ウェルテックスは進路を変え\n本土に向かっているんだ	Juna	The longer we take, the closer Weltex will get to the mainland.	尤娜	威尔特克斯已改变方向，\n在我们说话的时候，它正在朝着本土前进。	尤娜	威爾特庫斯連我們交談時\n也在改變路線，朝本土邁進。
+TalkEvent_09_032ID	5	Izana	イザナ	あんなの……どうにかできたの？	Izana	But...what else can we do against it?	伊札娜	我们……真的有办法阻止那种敌人吗？	伊札娜	我們……能派上什麼用場嗎？
+TalkEvent_09_032ID	6	Juna	ユナ	……どうにかしなければならなかった。\n失敗は許されなかったのに……	Juna	We have to find something. Failure would be inexcusable.	尤娜	……没有也必须想办法才行。\n明明绝不允许有半点差池的……	尤娜	……原本一定要派上用場的。\n明明不允許失敗……
+TalkEvent_09_032ID	7	Resna	レスナ	（あれが９年前にお父さんたちが戦った、\n　頂獣の力……）	Resna	(That was the power of the Apexi my dad fought nine years ago.)	蕾斯娜	（那就是9年前爸爸他们所对抗的\n　顶兽的力量……）	蕾斯娜	（那就是9年前爸爸他們面對的頂獸之力……）
+TalkEvent_09_032ID	8	Resna	レスナ	（歯が立たなかった……。\n　あんなの、本当に倒せるの……？）	Resna	(We barely even made a scratch. How could we possibly defeat it...?)	蕾斯娜	（我们根本毫无招架之力……\n　真的有希望打倒那种强敌吗……？）	蕾斯娜	（我們完全不是牠的對手……\n　真的有辦法打倒那種頂獸嗎……？）
+TalkEvent_09_032ID	9	Valeria	ヴァレリア	顔を上げて、レスナ	Valeria	Lift your head, Resna.	瓦莱莉娅	抬起头来，蕾斯娜。	瓦萊莉婭	蕾斯娜，抬起頭來。
+TalkEvent_09_032ID	10	Resna	レスナ	え――	Resna	Huh...?	蕾斯娜	咦——	蕾斯娜	咦──
+TalkEvent_09_032ID	11	Resna	レスナ	ヴァレリア……ハイディさん……。\nリディー先輩にスー先輩も	Resna	Valeria... Heidi... Lydie and Sue, too...	蕾斯娜	瓦莱莉娅……海蒂小姐……\n还有莉迪前辈和苏前辈……	蕾斯娜	瓦萊莉婭……海蒂小姐……\n還有莉迪前輩跟蘇前輩……
+TalkEvent_09_032ID	12	Heidi	ハイディ	みんな無事に戻ってこられたみたいだね	Heidi	Looks like everyone made it back safely.	海蒂	大家都平安回来了啊。	海蒂	看來大家都平安回來了呢。
+TalkEvent_09_032ID	13	Izana	イザナ	そ、その格好って……？	Izana	Wh-What's with those outfits?	伊札娜	你、你们穿的是……？	伊札娜	妳、妳們這身裝扮是……？
+TalkEvent_09_032ID	14	Suelle	スール	へへーん。どう？　カッコいいでしょ！	Suelle	Ehehe. Aren't they just the coolest?	苏瑞	嘿嘿，怎么样？很帅吧！	蘇瑞	嘿嘿──如何？很帥氣吧！
+TalkEvent_09_032ID	15	Lydie	リディー	こら、スーちゃん。調子に乗っちゃだめだよ！	Lydie	Honestly, Sue, this isn't the time to be bragging!	莉迪	小苏，别太得意忘形啦！	莉迪	喂，小蘇，別太得意忘形！
+TalkEvent_09_032ID	16	Roman	ロマン	ザスキアさんが作ってくれた装備だ。\n頂獣退治の切り札ってとこだね	Roman	Saskia made their armor. It's our one trump card against the Apexi.	罗曼	这是萨丝琪亚小姐做的装备。\n也就是讨伐顶兽的杀手锏。	羅曼	這是薩絲琪亞小姐為我們打造的裝備，\n也是消滅頂獸的秘密武器。
+TalkEvent_09_032ID	17	Resna	レスナ	師匠が！？	Resna	Miss Saskia did?!	蕾斯娜	师父做的？！	蕾斯娜	師父嗎！？
+TalkEvent_09_032ID	18	Juna	ユナ	殿下……申し訳ありません。\n頂獣の誘導に失敗しました	Juna	Your Highness, you have my deepest apologies. I was unable to direct it toward the fortress.	尤娜	殿下……万分抱歉。诱导顶兽失败了。	尤娜	殿下……非常抱歉，\n頂獸誘導失敗了。
+TalkEvent_09_032ID	19	Roman	ロマン	君で無理なら誰でも無理だよ、気にするな。\nそれで、頂獣はどこへ向かった？	Roman	If my most capable knight couldn't do it, then no one could have. Which way is it headed now?	罗曼	连你都做不到的事还有谁能成功呢？别放在心上。\n告诉我，顶兽往哪个方向去了？	羅曼	如果連妳都辦不到，那就真的沒轍了。\n別在意。頂獸去哪了？
+TalkEvent_09_032ID	20	Juna	ユナ	当初の想定より北に進路を取りました	Juna	More toward the north than we had originally predicted.	尤娜	现在的路线比原先设想的更偏北。	尤娜	牠的行進路線比預計的還要往北。
+TalkEvent_09_032ID	21	Roman	ロマン	北か……ならば小島をいくつか経由するはずだ。\nそこで再び頂獣を迎え撃つ	Roman	In that case, it'll have to pass by several smaller islands. That's where we'll relaunch our attack.	罗曼	偏北……那它应该会经过一些岛屿。\n我们要在岛上再次迎击顶兽。	羅曼	往北啊……那牠應該會經過幾座小島。\n讓我們在那裡再次迎擊頂獸。
+TalkEvent_09_032ID	22	Resna	レスナ	えっ！？　もう１回ですか？	Resna	Huh?! You're going to try again?!	蕾斯娜	什么？！还要再来一次吗？	蕾斯娜	咦！？再一次嗎？
+TalkEvent_09_032ID	23	Roman	ロマン	そのための切り札が、できたのさ	Roman	Like I said, we've got our trump card now.	罗曼	这次行动的杀手锏已经准备好了。	羅曼	秘密武器就是為此製作的。
+TalkEvent_09_032ID	24	Roman	ロマン	この服には、ウェルテックスが発する特殊な力場を\n軽減する力が宿っているらしい	Roman	These outfits have built-in resistances to Weltex's special force field.	罗曼	她们身上的衣服里蕴含的力量\n似乎能够减轻威尔特克斯发出的特殊力场。	羅曼	這件衣服據說能\n抵銷威爾特庫斯發出的特殊力場。
+TalkEvent_09_032ID	25	Izana	イザナ	すごい！　確かに、\nそれならウェルテックスに対抗できるかも！	Izana	Oh, wow! That would definitely give them a fighting chance!	伊札娜	好厉害！\n确实那样的话，就有希望对抗威尔特克斯了！	伊札娜	好厲害！的確，\n這樣或許就能對抗威爾特庫斯了！
+TalkEvent_09_032ID	26	Roman	ロマン	ヴァレリアとハイディ、そして砦に待機していた\n部隊から精鋭を集め出撃する	Roman	Valeria, Heidi, and the most skilled members of the forces who were on standby are going out to meet the Apexi.	罗曼	瓦莱莉娅和海蒂以及之前在要塞待命的部队\n将集结精锐兵力，共同出击。	羅曼	瓦萊莉婭、海蒂，以及從要塞駐守部隊\n選出的精銳會一起出擊。
+TalkEvent_09_032ID	27	Roman	ロマン	次こそ、ヤツを食い止めるぞ	Roman	This time, we'll definitely bring it down.	罗曼	这次我们一定要拦住它。	羅曼	下次我們一定要阻止那傢伙。
+TalkEvent_09_032ID	28	Roman	ロマン	では……皆、頼んだよ	Roman	Everyone... We're counting on you.	罗曼	那么……拜托各位了。	羅曼	那麼……各位，拜託了。
+TalkEvent_09_032ID	29	Heidi	ハイディ	相棒。なんか気合の入る一言、よろしく！	Heidi	Hey, partner! Give the troops some words of support, would you?	海蒂	搭档，麻烦你说两句鼓舞鼓舞士气啦！	海蒂	搭檔，麻煩妳說句話激勵大家！
+TalkEvent_09_032ID	30	Valeria	ヴァレリア	え？　んー……\n私、あんまり気の利いたことは言えないけど	Valeria	Who, me? Hm... I'm not too good at this sort of thing, but...	瓦莱莉娅	我吗？嗯……我说不出什么动听的话。	瓦萊莉婭	咦？嗯……\n我雖然說不出什麼勵志的話……
+TalkEvent_09_032ID	31	Valeria	ヴァレリア	私はここにいるみんなのことが好き	Valeria	I love everyone here.	瓦莱莉娅	但是，我喜欢这里的每一个人。	瓦萊莉婭	但我很喜歡在場的大家。
+TalkEvent_09_032ID	32	Valeria	ヴァレリア	そして、好き勝手に暴れてる\nウェルテックスのことは気に入らない	Valeria	And I'm not about to let this Weltex destroy whatever it likes.	瓦莱莉娅	并且，我看不顺眼威尔特克斯的肆意妄为。	瓦萊莉婭	還有，\n我討厭隨意肆虐的威爾特庫斯。
+TalkEvent_09_032ID	33	Valeria	ヴァレリア	だから……あいつをぶっ飛ばす！\nみんなと美味しいものを食べるためにね！	Valeria	So we're going to send it flying! That way, we can keep eating delicious meals together!	瓦莱莉娅	所以……为了还能和大家一起吃好吃的，\n我一定要揍飞那个家伙！	瓦萊莉婭	所以……我們要揍飛牠！\n這樣大家才能一起享用美食！
+TalkEvent_09_032ID	34		みんな	おおおおおお！！！	Everyone	Yeeeah!	所有人	哦哦哦哦哦哦！！！	大家	哦哦！！！
+TalkEvent_09_033ID	0	Resna	レスナ	ヴァレリアたち……大丈夫かな	Resna	Do you think Valeria and the others are going to be all right?	蕾斯娜	瓦莱莉娅她们……真的没问题吗？	蕾斯娜	瓦萊莉婭她們……不會有事吧？
+TalkEvent_09_033ID	1	Roman	ロマン	皆を信じよう	Roman	We'll just have to trust that they will.	罗曼	相信大家吧。	羅曼	必須相信大家。
+TalkEvent_09_033ID	2	Izana	イザナ	ロマン君！　周囲の魔物の様子がなんだか変だよ！	Izana	Roman! The monsters nearby are acting weird!	伊札娜	罗曼！附近的魔物状态有些异常！	伊札娜	羅曼！總覺得周遭的魔物不太對勁！
+TalkEvent_09_033ID	3	Roman	ロマン	頂獣の気に当てられたか……怯えておかしくなったか。\nヤツの誘導の障害になる。放っておくわけにはいかない	Roman	They must be reacting to the Apexi's presence. Out of...fear, maybe? Either way, they're throwing a wrench into our plan. We've got to clear them out.	罗曼	不知是被顶兽的气势感染，还是因为恐惧……\n但这样会妨碍到顶兽的诱导，不能放任不管。	羅曼	是受到頂獸影響……因為害怕而發狂了嗎？\n如果會妨礙頂獸的誘導，我無法置之不理。
+TalkEvent_09_033ID	4	Roman	ロマン	こちらに残った者で、\n周囲の魔物の掃討にあたるぞ！	Roman	All right, those of you still here—time to get to work!	罗曼	留在这里的人负责讨伐附近的魔物！	羅曼	留下來的人\n負責掃蕩周遭魔物！
+TalkEvent_09_033ID	5	Juna	ユナ	了解。二人とも、行こう	Juna	Of course. Come along, you two.	尤娜	是。两位，我们走吧。	尤娜	了解。兩位，走吧。
+TalkEvent_09_033ID	6	Resna	レスナ	ユナさん、ケガは……？	Resna	But Juna, what about your injuries?	蕾斯娜	尤娜小姐，你的伤……？	蕾斯娜	尤娜小姐，妳的傷……？
+TalkEvent_09_033ID	7	Juna	ユナ	こんなもの、かすり傷だ	Juna	Nothing but scratches.	尤娜	这点不算什么。	尤娜	這點傷勢跟擦傷沒兩樣。
+TalkEvent_09_033ID	8	Juna	ユナ	離島に向かった者たちは命懸けで戦っている！\nこちらも万全の状態を維持するんだ！	Juna	Those who set out for the outlying islands are putting their lives on the line! We owe them nothing less than perfection on our end.	尤娜	前往小岛的人们正在舍命战斗！\n我们也必须尽力保证作战能顺利进行！	尤娜	前往離島的人們正在拚命戰鬥！\n所以這邊也得維持在萬全的狀態！
+TalkEvent_09_033ID	9	Izana	イザナ	こんな時のためにハンマーを磨いてきたんだ！\n行こう、レスナちゃん！	Izana	That's exactly what I've been polishing up my hammers for! Let's go, Resna!	伊札娜	我磨练锤技就是为了这一刻！\n走吧，蕾斯娜！	伊札娜	我打磨錘子就是為了這一刻！\n走吧，蕾斯娜！
+TalkEvent_09_033ID	10	Resna	レスナ	うん！　皆さんが安心して戦えるように……\n私もできることを精一杯、頑張ります！	Resna	Yeah! I'll do my best to help keep the area safe for everyone to fight in!	蕾斯娜	嗯！为了大家能安心战斗，\n我也会尽我所能，全力以赴！	蕾斯娜	嗯！為了讓大家能放心戰鬥……\n我也會盡我所能，全力以赴！
+TalkEvent_09_034ID	0	Izana	イザナ	えやあぁぁぁっハン、マー！！	Izana	Eat! My! Hammeeers!	伊札娜	嘿——锤呀！！	伊札娜	喝啊啊啊啊重鎚！！
+TalkEvent_09_034ID	1	Izana	イザナ	よーし、今のが魔物の頭みたい。これで一安心……	Izana	Okay! I think I just took out their leader, so that should be...	伊札娜	好，刚才的应该就是魔物的首领了。这样就能暂时安心……	伊札娜	嗯～剛才那個好像是魔物的首領，能暫時鬆一口氣……
+TalkEvent_09_034ID	2	Izana	イザナ	って、ええ！？　すぐに次が来た！	Izana	H-Huh?! There are more of them already?!	伊札娜	什么？！怎么又来了！	伊札娜	呃，咦！？新的敵人立刻出現了！
+TalkEvent_09_034ID	3	Resna	レスナ	周りの魔物がこっちに引き寄せられてるんだ。\nなんて力……！	Resna	All the monsters in the area are being drawn over here! And they're so strong!	蕾斯娜	附近的魔物都被吸引过来了。\n真是恐怖的力量……！	蕾斯娜	周遭的魔物被吸引過來了，\n好驚人的力量……！
+TalkEvent_09_034ID	4	Roman	ロマン	はあっ！	Roman	Haaah!	罗曼	喝啊！	羅曼	喝啊！
+TalkEvent_09_034ID	5	Roman	ロマン	まったく、上手くいかないことばかりで参るなあ	Roman	Honestly, everything that could have gone wrong here has gone wrong.	罗曼	唉，诸事不顺真是头疼。	羅曼	可惡，事情老是不順利。真傷腦筋～
+TalkEvent_09_034ID	6	Roman	ロマン	でも、諦めるわけにはいかないよ！	Roman	Still, we can't give up!	罗曼	但我们决不可轻言放弃！	羅曼	不過，絕對不能放棄！
+TalkEvent_09_034ID	7	Resna	レスナ	はい！　離島のみんなが、\n私たちを信じて戦ってくれてるんですから！	Resna	Right! The other group is counting on us to clear the way!	蕾斯娜	没错！岛上的大家也是因为相信我们\n才在努力战斗的！	蕾斯娜	沒錯！離島的大家可是因為\n相信我們才拚命戰鬥的啊！
+TalkEvent_09_034ID	8	Geron	ジェロン	…………	Geron	...	杰隆	……	傑隆	…………
+TalkEvent_09_034ID	9	Geron	ジェロン	次から次へと――	Geron	Hmph. Just one thing after another.	杰隆	真是没完了——	傑隆	源源不絕地冒出來──
+TalkEvent_09_034ID	10	Geron	ジェロン	はあっ！	Geron	Haaah!	杰隆	喝啊！	傑隆	喝啊！
+TalkEvent_09_034ID	11	Geron	ジェロン	お前らの相手は俺だ	Geron	I'll be your opponent.	杰隆	你们的对手是我。	傑隆	你們的對手是我。
+TalkEvent_09_034ID	12	Geron	ジェロン	頂獣ウェルテックス……\nここで暴れさせるわけにはいかん。絶対に……	Geron	I absolutely won't allow that Apexi to run rampant. No matter what.	杰隆	顶兽威尔特克斯……\n我绝不会让你在此胡作非为……	傑隆	頂獸威爾特庫斯……\n我絕對不會讓你在這裡胡作非為……
+TalkEvent_09_035ID	0	Lydie	リディー	ああ！　もうあんな所まで！	Lydie	Oh no! It's already made it that far?!	莉迪	啊！它居然已经进发到那里了！	莉迪	啊啊！！牠已經抵達那裡了！
+TalkEvent_09_035ID	1		豪快な騎士	冒険者の方々！\n私たちも一緒に戦わせてもらうよ！	Heroic Knight	Hey! Adventurers! We'll fight with you!	豪气的骑士	各位冒险者！我们也来帮忙！	豪邁的戰士	冒險者們！\n也讓我們一起戰鬥吧！
+TalkEvent_09_035ID	2	Firis	フィリス	ありがとうございます！	Firis	Thank you very much!	菲利丝	谢谢你们！	菲莉絲	謝謝你們！
+TalkEvent_09_035ID	3		強面な騎士	我々は９年前、ヤツと戦った経験がある者たちだ。\n前の屈辱を晴らしてやる……！	Tough Knight	We have some past experience with this one, not to mention a nine-year-old bone to pick. We'll get back at it for humiliating us before!	态度强硬的骑士	我们曾在9年前和它打过交道。\n这次就让我们一雪前耻吧……！	強勢的騎士	9年前我們曾和那傢伙交手過。\n這次絕對要報仇雪恨……！
+TalkEvent_09_035ID	4		豪快な騎士	総員、攻撃に移れ！	Heroic Knight	Troops, fire at will!	豪气的骑士	全员！发起进攻！	豪邁的戰士	所有人，進攻！
+TalkEvent_09_035ID	5		強面な騎士	いいぞ！　ヤツの力場の範囲外から攻撃をし続けるんだ	Tough Knight	Keep it up! We're still out of its ability's range!	态度强硬的骑士	很好！继续在它的力场范围外攻击！	強勢的騎士	很好！我們要在那傢伙的力場範圍外持續攻擊。
+TalkEvent_09_035ID	6	Suelle	スール	よーし、いい感じ！	Suelle	All right! Things are looking good!	苏瑞	好！很不错！	蘇瑞	嗯～感覺不錯！
+TalkEvent_09_035ID	7	Firis	フィリス	上手く引き付けられてるよ！	Firis	We've definitely got its attention now!	菲利丝	成功拖住它了！	菲莉絲	誘導進行得很順利！
+TalkEvent_09_035ID	8	Lydie	リディー	きゃあっ……！	Lydie	Aaaah!	莉迪	呀啊……！	莉迪	呀啊……！
+TalkEvent_09_035ID	9		豪快な騎士	また……しても！	Heroic Knight	Not again...!	豪气的骑士	又来……！	豪邁的戰士	又……來了！
+TalkEvent_09_035ID	10	Flocke	フロッケ	でも、お二人なら――！	Flocke	Those two will be fine!	芙洛可	但是，那两位一定可以——！	芙洛可	不過，如果是那兩人──！
+TalkEvent_09_035ID	11	Heidi	ハイディ	さーて。私らの出番だよ、相棒	Heidi	Well, well... Looks like it's our turn, partner.	海蒂	好了，该我们出场了，搭档。	海蒂	好～輪到我們出場了，搭檔。
+TalkEvent_09_035ID	12	Valeria	ヴァレリア	ええ。行きましょ！	Valeria	Yup. Let's go!	瓦莱莉娅	嗯，我们走！	瓦萊莉婭	嗯，我們上吧！
+TalkEvent_09_035ID	13	Valeria	ヴァレリア	たあああっ！！！	Valeria	Raaah!	瓦莱莉娅	喝啊啊啊！！！	瓦萊莉婭	喝啊啊啊！！！
+TalkEvent_09_035ID	14	Heidi	ハイディ	こいつも召し上がれ！	Heidi	Let's see how you like this!	海蒂	也吃我一记！	海蒂	也嚐嚐這招吧！
+TalkEvent_09_035ID	15	Lydie	リディー	すごい！　ウェルテックスが押されてる！	Lydie	Whoa! They're pushing Weltex back!	莉迪	好厉害！威尔特克斯被压制住了！	莉迪	好厲害！擋下威爾特庫斯了！
+TalkEvent_09_035ID	16	Valeria	ヴァレリア	今よ！　はあああああ！！！	Valeria	This is it! Haaah!	瓦莱莉娅	就是现在！喝啊啊啊啊！！！	瓦萊莉婭	就是現在！喝啊啊啊啊啊！！！
+TalkEvent_09_035ID	17	Flocke	フロッケ	っ！　重みが無くなりました！	Flocke	Oh! I don't feel heavy anymore!	芙洛可	啊！沉重的感觉消失了！	芙洛可	唔！重量消失了！
+TalkEvent_09_035ID	18		強面な騎士	今だ！　追い打ちをかけろ！	Tough Knight	Now's our chance! Get it while it's down!	态度强硬的骑士	机会来了！乘胜追击！	強勢的騎士	就是現在！乘勝追擊！
+TalkEvent_09_035ID	19		豪快な騎士	いくぞ！　これまでやられた分、返してやるわ！	Heroic Knight	C'mon! Let's hit it back just as hard as it hit us!	豪气的骑士	冲啊！是时候清算你过去对我们犯下的恶行了！	豪邁的戰士	要上囉！把目前為止的損害全部討回來！
+TalkEvent_09_035ID	20	Firis	フィリス	みんな、行こう！	Firis	Let's go, everyone!	菲利丝	我们走！	菲莉絲	各位，動身吧！
+TalkEvent_09_035ID	21		リディー/スール	はい！	Lydie/Suelle	All right!	莉迪/苏瑞	是！	莉迪/蘇瑞	是！
+TalkEvent_09_036_00ID	0	Valeria	ヴァレリア	たぁぁぁっ！　敵が体勢を崩したわ！	Valeria	Haaah! Our enemy's all bent out of shape!	瓦莱莉娅	喝啊——！敌人失去平衡了！	瓦萊莉婭	喝啊啊啊！敵人失去平衡了！
+TalkEvent_09_036_00ID	1		強面な騎士	――！　ヤツの力が弱まってきた！	Tough Knight	It's getting weaker!	态度强硬的骑士	它的力量变弱了！	強勢的騎士	唔──！那傢伙的力量變弱了！
+TalkEvent_09_036_00ID	2		豪快な騎士	私らも一気に行くよ！	Heroic Knight	We'll get it in one go!	豪气的骑士	我们也一起上吧！	豪邁的戰士	我們也一鼓作氣地進攻吧！
+TalkEvent_09_036_00ID	3	Lydie	リディー	あと一息だよ！　スーちゃん！　フィリスさん！	Lydie	Just a little more! Sue! Firis!	莉迪	就差一点了！小苏！菲利丝小姐！	莉迪	就差一步了！小蘇！菲莉絲小姐！
+TalkEvent_09_036_00ID	4	Firis	フィリス	うん、行くよ！	Firis	Yeah! Let's do this!	菲利丝	嗯，我们上！	菲莉絲	嗯，我們上吧！
+TalkEvent_09_036_00ID	5		みんな	「いっけぇぇぇっ！」「てえぇぇぇいっ！」\n「どぉりゃぁぁぁっ！」「やあぁぁぁっ！」	Everyone	"""Go for it!"" ""Take that!""\n""Raaah!"" ""Hi-yaaah!"""	所有人	“上吧——！”“接招吧——！”\n“看招——！”“呀啊——！”	大家	「去吧──！」「嘿──！」\n「看招──」「喝啊──！」
+TalkEvent_09_036_00ID	6	Heidi	ハイディ	はぁ……はぁ……や、やったの！？	Heidi	*Huff* *Huff* D-Did we do it?!	海蒂	呼、呼……成、成功了吗？！	海蒂	呼……呼……成、成功了嗎！？
+TalkEvent_09_036_00ID	7	Valeria	ヴァレリア	どうにかね	Valeria	Looks like it.	瓦莱莉娅	勉强算是吧。	瓦萊莉婭	算是勉強打倒了呢。
+TalkEvent_09_036_00ID	8	Suelle	スール	だいぶ強かったけど……ふふん、相手が悪かったね！	Suelle	That sure was a strong one, but... Heheh! We were stronger!	苏瑞	哼哼，虽然它强得离谱……但遇到我们算它倒霉！	蘇瑞	確實很強……哼哼，但牠挑錯對手了呢！
+TalkEvent_09_036_00ID	9	Firis	フィリス	うん。みんな大活躍だったよ！\n大変だったけど、勝てない相手じゃなかったね	Firis	Yep! That was a solid show, everyone! It wasn't easy, but there's no enemy that we can't beat!	菲利丝	嗯，大家打得都很精彩！\n虽然赢得艰苦，但敌人毕竟并非不可战胜呢。	菲莉絲	嗯，大家都表現得很好！\n雖然辛苦，但看樣子牠並非贏不了的對手。
+TalkEvent_09_036_00ID	10	Flocke	フロッケ	み、皆さん……！　あれ……！	Flocke	U-Um, everyone...! Look!	芙洛可	各、各位……！快看……！	芙洛可	各、各位……！那是……！
+TalkEvent_09_036_01ID	0	Firis	フィリス	な、なに……！？　姿が変わってく……！	Firis	What the...?! It's changing!	菲利丝	什、什么……？！它在改变形态……！	菲莉絲	什、什麼……！？牠的模樣正在變化……！
+TalkEvent_09_036_01ID	1		強面な騎士	あの姿はなんだ！？	Tough Knight	Why does it look like that?!	态度强硬的骑士	那形态是怎么回事？！	強勢的騎士	那是怎麼回事！？
+TalkEvent_09_036_01ID	2		強面な騎士	このようなことは９年前には……！	Tough Knight	It didn't do that nine years ago!	态度强硬的骑士	9年前可没有发生过这种事啊……！	強勢的騎士	9年前沒發生過這種事啊……！
+TalkEvent_09_036_01ID	3		豪快な騎士	まさか、あれがヤツの本気ってわけかい！？	Heroic Knight	You mean this whole time, it wasn't even using its full strength?!	豪气的骑士	难道那才是它的真实形态？！	豪邁的戰士	難道說，牠現在才拿出真本事！？
+TalkEvent_09_036_01ID	4	Valeria	ヴァレリア	見るからにヤバそうね……！	Valeria	Okay, this isn't looking so good!	瓦莱莉娅	一看便知很不妙啊……！	瓦萊莉婭	光看就覺得相當不妙……！
+TalkEvent_09_036_01ID	5	Valeria	ヴァレリア	止めないと……くっ！	Valeria	We'd better stop it before... Nngh!	瓦莱莉娅	得阻止它……唔！	瓦萊莉婭	得阻止牠才行……唔！
+TalkEvent_09_036_01ID	6	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_036_01ID	7	Heidi	ハイディ	ダメだ！　こんなの、近づけない！	Heidi	Oh no! Stay back!	海蒂	不行！不能贸然接近它！	海蒂	不行！這樣根本無法接近！
+TalkEvent_09_036_01ID	8	Flocke	フロッケ	　	Flocke	　	芙洛可	　	芙洛可	　
+TalkEvent_09_036_01ID	9	Flocke	フロッケ	皆さん、物陰に……！	Flocke	Everyone, take cover!	芙洛可	大家，快找掩体……！	芙洛可	大家，快躲到隱蔽處……！
+TalkEvent_09_036_01ID	10	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_036_01ID	11	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_036_01ID	12	Heidi	ハイディ	ぐ……！	Heidi	Nngh...!	海蒂	唔……！	海蒂	唔……！
+TalkEvent_09_036_01ID	13	Flocke	フロッケ	きゃああああっ！	Flocke	Aaaah!	芙洛可	啊——！	芙洛可	呀啊啊啊啊！
+TalkEvent_09_036_01ID	14		強面な騎士	なんだ！？　皆、何かに掴まれ！	Tough Knight	What's going on?! Everyone, grab onto something!	态度强硬的骑士	怎么回事？！大家快找东西抓住！	強勢的騎士	這是怎麼回事！？大家，快抓緊附近的東西！
+TalkEvent_09_036_01ID	15		豪快な騎士	くそ、吸い込まれ……！　うわあああ！！！	Heroic Knight	No! We're being sucked up! Aaaah!	豪气的骑士	可恶！要被吸走了……！呜啊——！！！	豪邁的戰士	可惡，會被吸過去……！唔哇啊啊啊！！！
+TalkEvent_09_036_01ID	16	Suelle	スール	　	Suelle	　	苏瑞	　	蘇瑞	　
+TalkEvent_09_036_01ID	17	Lydie	リディー	二人とも、こっちに……！	Lydie	You two! Over here!	莉迪	两位快过来……！	莉迪	兩位，快來這邊……！
+TalkEvent_09_036_01ID	18	Firis	フィリス	　	Firis	　	菲利丝	　	菲莉絲	　
+TalkEvent_09_036_01ID	19	Lydie	リディー	！？	Lydie	?!	莉迪	？！	莉迪	！？
+TalkEvent_09_036_01ID	20	Suelle	スール	え、ちょ、ちょっと！	Suelle	Uh?! Hey, wait!	苏瑞	什么，不、不是吧！	蘇瑞	咦？等、等等！
+TalkEvent_09_036_01ID	21		みんな	きゃあああああ！！！	Everyone	Aaaah!	所有人	呀啊啊啊啊啊！！！	大家	呀啊啊啊啊啊！！！
+TalkEvent_09_036_01ID	22	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_036_01ID	23	Heidi	ハイディ	　	Heidi	　	海蒂	　	海蒂	　
+TalkEvent_09_036_01ID	24	Flocke	フロッケ	　	Flocke	　	芙洛可	　	芙洛可	　
+TalkEvent_09_036_01ID	25	Flocke	フロッケ	ヴァレリアさん……フロッケのことは……	Flocke	Valeria... You don't have to...	芙洛可	瓦莱莉娅小姐……请放手吧……	芙洛可	瓦萊莉婭小姐……芙洛可……
+TalkEvent_09_036_01ID	26	Valeria	ヴァレリア	絶対、離さない……！　だから、フロッケも……！	Valeria	I promise, I won't let you go! Just hold on!	瓦莱莉娅	当然不可能放手……！芙洛可，你也别放弃……！	瓦萊莉婭	我絕對不會放手……！所以，芙洛可也……！
+TalkEvent_09_036_01ID	27	Valeria	ヴァレリア	くっ！？	Valeria	*Gasp*!	瓦莱莉娅	唔？！	瓦萊莉婭	唔！？
+TalkEvent_09_036_01ID	28	Flocke	フロッケ	 　	Flocke	 　	芙洛可	 　	芙洛可	 　
+TalkEvent_09_036_01ID	29	Valeria	ヴァレリア	っ！？	Valeria	?!	瓦莱莉娅	？！	瓦萊莉婭	唔！？
+TalkEvent_09_036_01ID	30	Valeria	ヴァレリア	……！	Valeria	...!	瓦莱莉娅	……！	瓦萊莉婭	……！
+TalkEvent_09_036_01ID	31	Valeria	ヴァレリア	フロッケェエエエエエエエッ！！！！！！！	Valeria	FLOOOCKE!	瓦莱莉娅	芙洛可——！！！！！	瓦萊莉婭	芙洛可──！！！！！！！
+TalkEvent_09_036_01ID	32	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_09_036_01ID	33	Heidi	ハイディ	み……みんなが……そんな……	Heidi	E-Everyone... They're all...	海蒂	大……大家……怎么会……	海蒂	大……大家……怎麼會……
+TalkEvent_09_037_00ID	0	Heidi	ハイディ	な、なあ……なんなんだよ、アレ。\nみんな、いったいどこに……	Heidi	What...just happened? Where did everyone go...?	海蒂	那、那家伙……到底是怎么回事……\n把大家都弄到哪去了……	海蒂	喂、喂……那到底是怎麼回事？\n大家，究竟到哪去了……
+TalkEvent_09_037_00ID	1		強面な騎士	くっ……残っている者は立て！\n態勢を立て直すぞ！	Tough Knight	Nngh...! Those who are still here, get up! We need to regroup!	态度强硬的骑士	唔……剩下的人都站起来！\n重整旗鼓！	強勢的騎士	唔……剩下的人快站好！\n我們要重整態勢！
+TalkEvent_09_037_00ID	2	Heidi	ハイディ	ヴァレリア！　どうしよう！\nどうすれば……	Heidi	Valeria! What are we going to do?! What...can we do?	海蒂	瓦莱莉娅！怎么办！\n我们到底该怎么办……	海蒂	瓦萊莉婭！怎麼辦！\n這下該如何是好……
+TalkEvent_09_037_00ID	3	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_09_037_00ID	4	Heidi	ハイディ	……いや私だ。考えるのは、私の役目だ。\nどうする……どうすればいい……！	Heidi	I hate this. I'm the one who's supposed to make the plans, but...I don't know what to do!	海蒂	不对，振作起来。思考是我的职责才对。\n怎么办……快想想该怎么办才好……！	海蒂	……不。我必須思考。\n怎麼辦……該怎麼做才好……！
+TalkEvent_09_037_01ID	0	Heidi	ハイディ	ううぅ……	Heidi	Nnnngh...	海蒂	唔唔……	海蒂	唔唔唔……
+TalkEvent_09_037_01ID	1	Valeria	ヴァレリア	……う	Valeria	Nnh.	瓦莱莉娅	……唔。	瓦萊莉婭	……嗚。
+TalkEvent_09_037_01ID	2	Heidi	ハイディ	え	Heidi	Huh?	海蒂	咦？	海蒂	咦？
+TalkEvent_09_037_01ID	3	Valeria	ヴァレリア	うあああああああああああ！！！！	Valeria	RAAAAAAGH!	瓦莱莉娅	唔啊啊啊啊啊啊啊啊啊！！！！	瓦萊莉婭	嗚啊啊啊啊啊啊啊啊啊啊啊！！！！
+TalkEvent_09_037_01ID	4	Heidi	ハイディ	っ！？	Heidi	?!	海蒂	？！	海蒂	唔！？
+TalkEvent_09_037_01ID	5	Valeria	ヴァレリア	私の家族と仲間を！！！	Valeria	My friends! My family!	瓦莱莉娅	你把我的家人和同伴！！！	瓦萊莉婭	把我的家人和夥伴！！！
+TalkEvent_09_037_01ID	6	Valeria	ヴァレリア	どこへ！　やったぁぁぁっ！！！！	Valeria	What did you do with theeem?!	瓦莱莉娅	都弄到！哪里去了啊啊啊！！！！	瓦萊莉婭	還來──！！！！
+TalkEvent_09_037_01ID	7	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_037_01ID	8	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_09_037_01ID	9	Valeria	ヴァレリア	はああああああああああ！	Valeria	Haaah!	瓦莱莉娅	喝啊啊啊啊啊啊啊啊啊！	瓦萊莉婭	喝啊啊啊啊啊啊啊啊啊啊！
+TalkEvent_09_037_01ID	10	Valeria	ヴァレリア	っ！	Valeria	...!	瓦莱莉娅	唔！	瓦萊莉婭	唔！
+TalkEvent_09_037_01ID	11	Valeria	ヴァレリア	く……はあ、はあ……	Valeria	Khh... *Huff* *Huff*...	瓦莱莉娅	呼……呼……	瓦萊莉婭	唔……呼、呼……
+TalkEvent_09_037_02ID	0		強面な騎士	頂獣を押し返した――！\n怯むな！　我々も続くぞ！	Tough Knight	Hold fast! Repel the Apexi! We're going to keep up the fight!	态度强硬的骑士	压制住顶兽了——！\n别退缩！我们也跟上！	強勢的騎士	她擋住頂獸的攻擊了──！\n別怕！我們也跟上！
+TalkEvent_09_037_02ID	1	Heidi	ハイディ	なんだあれ！？	Heidi	What was that?!	海蒂	那是什么？！	海蒂	那是什麼！？
+TalkEvent_09_037_02ID	2	Heidi	ハイディ	海岸で見たのと同じ……なんで動いてんの！？	Heidi	Aren't those the same ones we saw on the shore? Why are they moving?!	海蒂	和之前在海岸上看到的一样……它们怎么在动？！	海蒂	和在海岸邊看到的一樣……為什麼動起來了！？
+TalkEvent_09_037_02ID	3		強面な騎士	分からん。だが、味方してくれているようだ	Tough Knight	Who knows? But at least it looks like they're here to help.	态度强硬的骑士	不清楚，但似乎是来支援我们的。	強勢的騎士	不曉得。但似乎是站在我們這一邊的。
+TalkEvent_09_037_02ID	4	Heidi	ハイディ	よし、これなら――！	Heidi	We still stand a chance!	海蒂	好，这样的话——！	海蒂	好，既然如此──！
+TalkEvent_09_037_02ID	5	Heidi	ハイディ	今度はこっちに！？　なんなんだよもう！	Heidi	Wait, now they're turning on us?! What's going on?!	海蒂	怎么又冲着我们来了？！到底什么意思啊！	海蒂	竟然往這裡來了！？到底要做什麼？可惡！
+TalkEvent_09_037_02ID	6		強面な騎士	まさか、ヤツが操っているのか！？	Tough Knight	No, don't tell me... Did it take control of them?!	态度强硬的骑士	难道是被顶兽操纵了吗？！	強勢的騎士	難道被那傢伙操控了嗎！？
+TalkEvent_09_037_02ID	7	Heidi	ハイディ	相棒！　戻れ！　これ以上は危険だ！	Heidi	Valeria! Come back! You're going to get yourself killed!	海蒂	搭档！快回来！这样下去太危险了！	海蒂	搭檔！快回來！再這樣下去可是很危險的！
+TalkEvent_09_037_02ID	8	Valeria	ヴァレリア	返せ！　フロッケたちを、返せぇぇぇ！！	Valeria	Give them back! Give me my Flocke back!	瓦莱莉娅	还回来！把芙洛可她们还回来！！	瓦萊莉婭	還來！把芙洛可她們還給我──！！
+TalkEvent_09_037_02ID	9	Heidi	ハイディ	馬鹿野郎！	Heidi	Knock it off, you moron!	海蒂	你这笨蛋！	海蒂	妳這笨蛋！
+TalkEvent_09_037_02ID	10	Heidi	ハイディ	落ち着け、そんな単調じゃすぐやられる！	Heidi	Get a grip! If you rush in, you'll be taken down in no time!	海蒂	冷静点！你这样一下子就会被干掉的！	海蒂	冷靜點。一直重複相同攻擊的話，馬上就會被打敗！
+TalkEvent_09_037_02ID	11	Valeria	ヴァレリア	そうね、ごめん助かったわ	Valeria	You're right, I'm sorry. Thanks for calling me back.	瓦莱莉娅	嗯。抱歉，谢谢了。	瓦萊莉婭	妳說得對。抱歉，謝謝妳。
+TalkEvent_09_037_02ID	12	Valeria	ヴァレリア	でも	Valeria	But...	瓦莱莉娅	但是……	瓦萊莉婭	不過……
+TalkEvent_09_037_02ID	13	Valeria	ヴァレリア	私がここであいつらを食い止める。\nみんなは船で戻って、起こったことを報告して	Valeria	You guys should take the boat and go report back. I'll stay here and hold them off.	瓦莱莉娅	我会留在这里拦住它们。\n你们先坐船回去报告这里发生的事情。	瓦萊莉婭	我要在這裡阻止牠們。\n請大家搭船回去報告發生的事。
+TalkEvent_09_037_02ID	14		強面な騎士	ならば、君が先に戻れ！　しんがりは我々が――	Tough Knight	No, you should go! We're the rear guard, we'll...	态度强硬的骑士	那你先走！这里由我们来殿后——	強勢的騎士	妳先回去吧！我們負責殿後──
+TalkEvent_09_037_02ID	15	Valeria	ヴァレリア	あいつの力に対抗できる私が残ったほうがいいでしょ？	Valeria	Can you even counter that sort of power? I'm the better choice.	瓦莱莉娅	我能对抗它的力量，我留下来才比较合适吧？	瓦萊莉婭	讓能對抗那傢伙的我留下比較好吧？
+TalkEvent_09_037_02ID	16	Valeria	ヴァレリア	それに……私、今すっごく腹が立ってるの。\n石像の１つや２つ、ぶん殴らないと気が済まないくらい	Valeria	Besides, I'm absolutely furious right now. Knocking down one or two of those things won't be enough to satisfy me.	瓦莱莉娅	而且……我现在火大得很。\n得揍几座石像才能解解气。	瓦萊莉婭	而且……我現在超級生氣。\n如果不拿一兩個石像出氣，我無法冷靜。
+TalkEvent_09_037_02ID	17		強面な騎士	――分かった。武運を祈る	Tough Knight	All right. Good luck to you.	态度强硬的骑士	……好吧，祝你好运。	強勢的騎士	──知道了，祝妳好運。
+TalkEvent_09_037_02ID	18	Valeria	ヴァレリア	ハイディ、あんたも早く船へ！	Valeria	Heidi! You hurry up and head to the boat too!	瓦莱莉娅	海蒂，你也快上船！	瓦萊莉婭	海蒂，妳也快去搭船！
+TalkEvent_09_037_02ID	19	Heidi	ハイディ	相棒ってのはさ、こういう時、\n隣で一緒に戦うもんでしょ	Heidi	No way, partner. At times like these, we fight together.	海蒂	所谓搭档，不就是这种时候\n能一起并肩作战的人吗？	海蒂	並肩作戰的人\n才稱得上搭檔吧。
+TalkEvent_09_037_02ID	20	Valeria	ヴァレリア	ハイディ……	Valeria	Heidi...	瓦莱莉娅	海蒂……	瓦萊莉婭	海蒂……
+TalkEvent_09_037_02ID	21	Valeria	ヴァレリア	ありがとう	Valeria	Thanks.	瓦莱莉娅	谢谢你。	瓦萊莉婭	謝謝妳。
+TalkEvent_09_037_02ID	22	Heidi	ハイディ	勝って帰ろう、ヴァレリア	Heidi	Let's win this, Valeria.	海蒂	赢下这一仗，然后一起回去吧，瓦莱莉娅。	海蒂	瓦萊莉婭，我們要凱旋而歸。
+TalkEvent_09_037_02ID	23	Valeria	ヴァレリア	もちろん――行こっか！	Valeria	Of course. Come on!	瓦莱莉娅	当然——我们走！	瓦萊莉婭	那當然──我們上吧！
+TalkEvent_09_037_02ID	24		ふたり	だぁぁぁぁぁぁっ！！	Both	Hi-yaaah!	二人	喝啊——！！	兩人	喝啊啊啊啊啊啊！！

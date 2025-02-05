@@ -1,0 +1,307 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_VILLAIN_A_01ID	0	Roman	ロマン	（ああ、なんて穏やかな日だろうか。\n　天気も良く、散策にうってつけの日だ）	Roman	(Ahh, what a lovely day. The weather is just perfect for a stroll.)	罗曼	（哎呀，今天可真是平静。\n　天气又好，太适合出门逛逛了。）	羅曼	（啊啊，多麼寧靜的日子啊。\n　天氣也很好，出來散步最適合不過了。）
+Date_VILLAIN_A_01ID	1	Roman	ロマン	（おや？　あれは……）	Roman	(Oh? What do we have here?)	罗曼	（咦？那是……）	羅曼	（哦？那是……）
+Date_VILLAIN_A_01ID	2	Geron	ジェロン	俺は暇ではない。どこかへ行け	Geron	I'm busy. Get lost.	杰隆	一边去，我没空。	傑隆	我沒空，走開。
+Date_VILLAIN_A_01ID	3	Roman	ロマン	（あの様子は、もしや……\n　どうしようか）	Roman	(Geron and...a lady friend? What is he up to?)	罗曼	（看这情况，难道说……\n　该怎么办呢。）	羅曼	（看那情況，莫非……\n　我該怎麼做呢？）
+Date_VILLAIN_A_01ID	4			声をかける		Call out to him		出声搭话		向他打聲招呼
+Date_VILLAIN_A_01ID	5	Roman	ロマン	やあ、待たせたね	Roman	So sorry to have kept you waiting!	罗曼	你好啊，让你久等了。	羅曼	嗨，讓你久等了。
+Date_VILLAIN_A_01ID	6	Geron	ジェロン	……ああ。遅かったな	Geron	Uh... Right. Almost thought you weren't going to show up.	杰隆	……嗯，你来晚了。	傑隆	……嗯，你來得真慢。
+Date_VILLAIN_A_01ID	7	Roman	ロマン	急がないと、予定に遅れるよ	Roman	We must be going now, or we'll be late.	罗曼	不赶快走的话要迟到了。	羅曼	不快點走的話，就趕不上行程了。
+Date_VILLAIN_A_01ID	8	Geron	ジェロン	見ての通り、俺達は暇じゃない	Geron	See? Like I said. I don't have the time to be dealing with you.	杰隆	如你所见，我们没空。	傑隆	如妳所見，我們很忙。
+Date_VILLAIN_A_01ID	9	Roman	ロマン	私たちも場所を移そうか	Roman	Perhaps we should take this conversation elsewhere.	罗曼	我们也换个地方吧。	羅曼	我們也換個地方吧。
+Date_VILLAIN_A_01ID	10			声をかけず、通り過ぎる		Say nothing and keep walking		不搭话，直接走过去		不出聲，直接走過去
+Date_VILLAIN_A_01ID	11	Roman	ロマン	（二人が本当に知り合いの可能性もある。\n　触れぬが吉、かな）	Roman	(They might know each other... If that's the case, maybe I shouldn't interrupt them.)	罗曼	（这两个人没准是熟人。\n　还是别扯上关系为妙。）	羅曼	（他們兩人可能真的認識。\n　還是別干涉為妙吧。）
+Date_VILLAIN_A_01ID	12	Geron	ジェロン	おい	Geron	Hey!	杰隆	喂。	傑隆	喂。
+Date_VILLAIN_A_01ID	13	Roman	ロマン	ん？	Roman	Hm?	罗曼	嗯？	羅曼	嗯？
+Date_VILLAIN_A_01ID	14	Geron	ジェロン	俺はこいつに用があるから付き合えん	Geron	My business is with him, not you.	杰隆	我找这家伙有事，没法陪你。	傑隆	我找他有事，沒空搭理妳。
+Date_VILLAIN_A_01ID	15	Geron	ジェロン	少し面を貸してくれ	Geron	We need to talk.	杰隆	陪我一下。	傑隆	你跟我過來一下。
+Date_VILLAIN_A_01ID	16			遠くから見守る。		Watch them from afar		在远处观察		在遠處觀望
+Date_VILLAIN_A_01ID	17	Roman	ロマン	（二人が本当に知り合いの可能性もある。\n　少し様子を見ようか）	Roman	(They might know each other... Let's wait and see what happens.)	罗曼	（这两个人没准是熟人。\n　还是先观察一下吧。）	羅曼	（他們兩人可能真的認識。\n　觀望一下情況好了。）
+Date_VILLAIN_A_01ID	18	Roman	ロマン	（これは……\n　助けを求められているのか？）	Roman	(It looks almost like he wants someone to bail him out.)	罗曼	（这是在……\n　向我求助么？）	羅曼	（他這是……在向我求助嗎？）
+Date_VILLAIN_A_01ID	19	Roman	ロマン	やあ、ジェロン	Roman	Hello there, Geron.	罗曼	你好啊，杰隆。	羅曼	嗨，傑隆。
+Date_VILLAIN_A_01ID	20	Geron	ジェロン	ちょっと付き合え	Geron	Hey. Real quick, just come with me.	杰隆	陪我一下。	傑隆	你過來一下。
+Date_VILLAIN_A_01ID	21	Geron	ジェロン	助かった	Geron	Thanks, I owe you one.	杰隆	谢了。	傑隆	勞你相助了。
+Date_VILLAIN_A_01ID	22	Geron	ジェロン	知らない女に声をかけられていてな……\n断っても、なかなか諦めようとせん	Geron	That woman started hitting on me out of nowhere. Even after I told her to get lost, she still wouldn't leave me alone.	杰隆	有个陌生女人跟我搭话……\n就算我拒绝她，她也不依不饶。	傑隆	有個陌生女人來找我攀談……\n我都拒絕了，她還是不死心。
+Date_VILLAIN_A_01ID	23	Roman	ロマン	君が対応に困ることがあるとはね	Roman	I must say, it was a little surprising to see you so out of your element.	罗曼	世上居然还有你不擅长应付的事啊。	羅曼	真沒想到會有你應付不了的事啊。
+Date_VILLAIN_A_01ID	24	Roman	ロマン	お茶に誘われていたようだけれど……\n初対面の女性に声をかけられることは\nよくあるのかい？	Roman	From what I heard, it sounded like she wanted to go on a date with you. Do you get approached by ladies like that often?	罗曼	她似乎是要邀请你喝茶……\n经常有陌生女性跟你搭话吗？	羅曼	我看她似乎在邀請你去喝茶……\n常常會有初次見面的女性找你說話嗎？
+Date_VILLAIN_A_01ID	25	Geron	ジェロン	……ああ。\nだが正直、女は苦手だ	Geron	I guess. But I'm not great with women.	杰隆	……是啊。\n说实话，我不擅长应付女人。	傑隆	……是啊。但坦白說，我不善於應付女人。
+Date_VILLAIN_A_01ID	26	Geron	ジェロン	こちらが冷たくすると、喜ぶやつもいる\nどうなっているんだかな	Geron	There are some real weirdos out there. Telling them off just makes them try even harder.	杰隆	就算我冷言相待，也有人会为此开心。\n这到底是怎么回事啊。	傑隆	我要是態度冷淡，有些人還會很開心。\n這到底是怎麼一回事？
+Date_VILLAIN_A_01ID	27	Geron	ジェロン	そもそも俺は少し前まで\n指名手配犯だったんだが……	Geron	I'd tell them I was a wanted criminal until recently, but something tells me that wouldn't stop them either...	杰隆	而且我之前还是个通缉犯啊……	傑隆	更何況，我在不久之前還是個通緝犯啊……
+Date_VILLAIN_A_01ID	28			犯罪者以前に、君は男前だからな		Because you're so handsome.		你是犯人，可更重要的是你很有男人味		你這麼帥氣，是不是罪犯都是其次了
+Date_VILLAIN_A_01ID	29	Roman	ロマン	犯罪者以前に、君は男前だからな。\n魅力的に見えるんだろう	Roman	You may have been a wanted criminal, but you were a handsome wanted criminal. I suppose that's the first thing they notice.	罗曼	你是犯人，可更重要的是你很有男人味。\n你看起来很有魅力吧。	羅曼	你這麼帥氣，是不是罪犯都是其次了。\n在女性眼中你應該很有魅力吧。
+Date_VILLAIN_A_01ID	30	Geron	ジェロン	……迷惑な話だな	Geron	I'd rather be ugly than deal with all of this.	杰隆	……真叫人头疼。	傑隆	……真是麻煩。
+Date_VILLAIN_A_01ID	31	Roman	ロマン	私も言ってみたいね、そんな台詞は	Roman	Do you know how many people wish they had that problem?	罗曼	我也好想说这种话啊。	羅曼	我也好想說說看這句話呢。
+Date_VILLAIN_A_01ID	32	Geron	ジェロン	女が考えていることはわからん	Geron	I just don't get women at all...	杰隆	我不懂女人脑子里的想法。	傑隆	我不懂女人在想什麼。
+Date_VILLAIN_A_01ID	33			こうしたことには動じないと思っていた		I didn't think anything could phase you.		我还以为你不会为这种事动摇		還以為你遇到這種事也能處變不驚。
+Date_VILLAIN_A_01ID	34	Roman	ロマン	女性が苦手とは……意外だな。\nこうしたことには動じないと思っていたよ	Roman	I'm surprised. To be honest, I didn't think anything could phase you, let alone the opposite sex.	罗曼	你居然不擅长应付女性……好意外啊。\n我还以为你不会为这种事动摇呢。	羅曼	竟然不擅長應付女性……真是意外。\n我還以為你遇到這種事也能處變不驚呢。
+Date_VILLAIN_A_01ID	35	Geron	ジェロン	今は立場的に強くでにくいというのもある	Geron	Well, I'm in a tricky situation right now.	杰隆	站在如今的立场，我也不好强硬回应。	傑隆	以我現在的立場也不好表現得太強硬。
+Date_VILLAIN_A_01ID	36	Geron	ジェロン	何か問題を起こして\nティムと引き離されるわけにはいかん	Geron	I need to be careful not to get mixed up in any trouble since I have Tim to think about.	杰隆	毕竟我要是惹了麻烦，\n被迫跟提姆分开可就不好了。	傑隆	不能惹出什麼麻煩害提姆和我分開。
+Date_VILLAIN_A_01ID	37	Roman	ロマン	その心がけはこちらとしてもありがたいよ	Roman	Hearing you say that so earnestly puts even me at ease.	罗曼	很感谢你能有这种想法。	羅曼	你能如此警惕自己，我也很感激。
+Date_VILLAIN_A_01ID	38			女性が苦手と言うが、ララはどうなんだ？		You say that, but what about Lara?		你说你不擅长应付女性，那拉拉呢？		你說自己不善於應付女性，那麼拉拉呢？
+Date_VILLAIN_A_01ID	39	Roman	ロマン	女性が苦手と言うが、ララはどうなんだ？\nよく一緒に行動しているね	Roman	You say you aren't good with women, but what about Lara? The two of you made a good team.	罗曼	你说你不擅长应付女性，那拉拉呢？\n你们总是一起行动的吧。	羅曼	你說自己不善於應付女性，那麼拉拉呢？\n你們經常一起行動吧。
+Date_VILLAIN_A_01ID	40	Geron	ジェロン	あいつとは\n利害の一致した協力関係というだけだ	Geron	Oh, her? We only worked together because it benefited us both.	杰隆	我跟她仅仅是利害一致的合作关系。	傑隆	我跟那傢伙只是利害一致的合作關係罷了。
+Date_VILLAIN_A_01ID	41	Geron	ジェロン	何度言っても\nララ・キングダムに\n勝手に就職させようとするしな……	Geron	But she's tried to swear me into the service of the Kingdom of Lara about a hundred times now...	杰隆	不管我说多少遍，\n她都想擅自让我在拉拉王国就职……	傑隆	而且不管我拒絕多少次，\n她都要擅自授予我拉拉王國的職位……
+Date_VILLAIN_A_01ID	42	Roman	ロマン	そうか。\n仲いいようでなによりだよ	Roman	Is that so? Well, it's good to know the two of you are so close.	罗曼	这样啊。\n你们相处得融洽就好。	羅曼	這樣啊。\n看來你們關係很好，真是萬幸。
+Date_VILLAIN_A_01ID	43	Geron	ジェロン	今の話のどこにそう思う要素があった……？	Geron	What part of what I said would give you that impression...?	杰隆	到底是我说的哪句话让你产生了这种误会……？	傑隆	剛才那些話哪裡讓你感覺到我們關係很好……？
+Date_VILLAIN_A_01ID	44	Roman	ロマン	そうだ！　女性に声をかけられた際の\n対応に困っているのなら、\n私が対策を教えよう！	Roman	Here's an idea! Since you have so much trouble dealing with women, I'll help you come up with a way to handle these situations.	罗曼	对了！如果你不知道该如何应付女性的搭讪，\n那就由我来告诉你对策吧！	羅曼	對了！既然你不知該如何應付前來攀談的女性，\n那我來教你一招吧！
+Date_VILLAIN_A_01ID	45			ひたすら無視する		Just ignore them.		无视就好		只管無視對方
+Date_VILLAIN_A_01ID	46	Roman	ロマン	声をかけられても、\nひたすら無視すればいい	Roman	If they give you that much trouble, why don't you just ignore them?	罗曼	就算被人搭话，\n你只要通通无视就好。	羅曼	就算有女性來攀談，你只管無視對方就行了。
+Date_VILLAIN_A_01ID	47	Geron	ジェロン	しているんだが	Geron	I already do.	杰隆	我已经在无视她们了。	傑隆	我一直都是這麼做的。
+Date_VILLAIN_A_01ID	48	Roman	ロマン	そうか、完全に無視しても駄目か	Roman	Drat, I thought that would work for sure...	罗曼	是吗，就算无视也没用啊。	羅曼	這樣啊，徹底無視她們也沒用嗎？
+Date_VILLAIN_A_01ID	49	Geron	ジェロン	うむ	Geron	Nope.	杰隆	是的。	傑隆	嗯。
+Date_VILLAIN_A_01ID	50	Roman	ロマン	……君はもともと\nそういう雰囲気の人物だから、\n逆効果になってしまうのか……	Roman	Well, since you're the brooding, mysterious type, perhaps ignoring them just makes them all the more attracted to you.	罗曼	……你本来就挺冷漠的，\n所以反而会产生反作用吧。	羅曼	……你這個人本來就帶有那樣的氣質，\n所以造成反效果了嗎……
+Date_VILLAIN_A_01ID	51	Roman	ロマン	そういうところも\n女性は魅力に感じるんだろうね	Roman	After all, women do love bad boys.	罗曼	对女性来说，你这一点也很有魅力。	羅曼	可能這一點也會讓女性感到很有魅力吧。
+Date_VILLAIN_A_01ID	52			逆にこちらから親しげに声をかける		Act overly enthusiastic to see them!		反客为主，亲密搭话		反過來主動親暱搭話
+Date_VILLAIN_A_01ID	53	Roman	ロマン	そういう時は、\n逆にこちらから親しげに声をかければいい。\n久しぶり、ってね	Roman	"If someone strikes up a conversation with you, try acting overly happy to see them. You could even say something like, ""Oh, it's so good to see you again!"""	罗曼	这种时候要反客为主，\n主动上前亲密搭话就好。\n跟她们问候一句“好久不见”。	羅曼	像這種時候，\n你只要反過來主動向她們親暱搭話就行了。\n說聲「好久不見」這樣。
+Date_VILLAIN_A_01ID	54	Roman	ロマン	きっと相手は驚いて\n去っていくんじゃないかな	Roman	I imagine that would scare them right off!	罗曼	她们肯定会在受到惊吓后离开的。	羅曼	對方肯定會受到驚嚇而離開吧。
+Date_VILLAIN_A_01ID	55	Geron	ジェロン	相手が去らずに、話に\n乗ってきたら、どうするんだ？	Geron	But what if it backfires? It might just make me seem like I want to talk to them.	杰隆	那她们要是不离开，\n接茬继续讲下去了呢？	傑隆	要是對方不離開，順著我的話聊下去該怎麼辦？
+Date_VILLAIN_A_01ID	56	Roman	ロマン	そこは臨機応変に……	Roman	You have to learn to play it by ear!	罗曼	那就得靠你随机应变了……	羅曼	這就需要臨機應變了……
+Date_VILLAIN_A_01ID	57	Geron	ジェロン	臨機応変か。わりと苦手な言葉\nなのかもしれんな	Geron	"""Playing it by ear"" doesn't sound like my strong suit."	杰隆	随机应变啊。\n这对我来说也挺困难的。	傑隆	臨機應變啊。\n我可能還滿怕聽到這幾個字的。
+Date_VILLAIN_A_01ID	58	Roman	ロマン	弱気な君は、珍しいねぇ	Roman	What happened to the cool, confident Geron I know?	罗曼	很少见你有这么消极的时候。	羅曼	你會這麼軟弱真是少見呢。
+Date_VILLAIN_A_01ID	59			ロマン式荒療治		The key is exposure therapy.		罗曼式暴露疗法		羅曼式下猛藥治療
+Date_VILLAIN_A_01ID	60	Roman	ロマン	ロマン式荒療治さ！\n私と一緒に舞踏会へ行こう	Roman	I know just the thing to cure you of your womanly woes: practice! You and I shall go to a ball.	罗曼	试试罗曼式暴露疗法好了！\n跟我一起去舞会吧！	羅曼	羅曼式下猛藥治療！\n跟我一起去參加舞會吧。
+Date_VILLAIN_A_01ID	61	Roman	ロマン	きっと、君と踊りたい人はたくさんいる。\nそれをいなし続けていれば、\n女性相手にも慣れるんじゃないか？	Roman	The ladies will be lining up to dance with you. By the time the ball ends, you'll have so much experience that talking to women will be a walk in the park.	罗曼	肯定有不少人想跟你跳上一曲。\n假以时日，就能习惯与女性交流了吧？	羅曼	到時一定會有很多人想跟你跳舞。\n只要和她們持續周旋，\n不就能習慣應付女性了嗎？
+Date_VILLAIN_A_01ID	62	Geron	ジェロン	おい、冗談じゃないぞ	Geron	Quit messing with me.	杰隆	喂，开什么玩笑。	傑隆	喂，這可不是在開玩笑。
+Date_VILLAIN_A_01ID	63	Geron	ジェロン	ああいった場はただでさえ\n視線が集まって落ち着かない。\n絶対にお断りだ	Geron	I'm not going anywhere close to a ball. I can't stand that kind of thing. It always feels like everyone is watching me...	杰隆	本来待在那种地方，\n就会受人瞩目让我静不下心。\n我是绝对不会去的。	傑隆	那種場合本來就會引來許多矚目，\n讓人坐立難安的。\n我絕對不去。
+Date_VILLAIN_A_01ID	64	Roman	ロマン	はは、もちろん冗談さ。\nだがもし本当に荒療治でもいいのなら、\nいつでも声をかけてくれたまえよ	Roman	Haha, that was just a joke. But if you do want me to help cure you of your little problem, you need only say the word.	罗曼	哈哈，我当然是在跟你说笑了。\n可你要是能接受暴露疗法了，\n随时都可以来找我帮你。	羅曼	哈哈，當然是開玩笑啦。\n但如果你真的想試試下猛藥治療，\n隨時都可以來跟我說一聲哦。
+Date_VILLAIN_A_01ID	65	Roman	ロマン	いやあ、まさか。こんな形で君の新たな\n一面が見られるとはね……	Roman	But really, what a surprise... I never thought I'd see a side like this to you.	罗曼	哎呀，真没想到会通过这种方式\n见到你的另一面……	羅曼	哎呀，真沒想到呢。\n居然會在這種情況下看到你的另一面……
+Date_VILLAIN_A_01ID	66	Geron	ジェロン	他の奴には言うなよ	Geron	Just don't go blabbing to anyone else about it.	杰隆	你可别告诉别人啊。	傑隆	不准告訴其他人。
+Date_VILLAIN_A_01ID	67	Roman	ロマン	口の堅さには定評があるよ。\nむしろ、また同じようなことで困った時は\n私を頼ってくれて構わないよ	Roman	Discretion is something I'm known for! Just remember that you can count on me if you ever run into any trouble like this again.	罗曼	你放心，大家都夸我口风紧。\n不如说，如果你再遇上麻烦事，\n大可以找我帮忙。	羅曼	我可是公認的口風很緊。\n反倒是你如果又因這類事情\n傷腦筋的話，儘管來找我幫忙吧。
+Date_VILLAIN_A_01ID	68	Geron	ジェロン	……感謝する。\n借りはいつか返す	Geron	Thanks. I'll be sure to return the favor.	杰隆	……谢了。\n我会报答你的。	傑隆	……謝謝你。這份恩情必定回報。
+Date_VILLAIN_A_01ID	69	Roman	ロマン	そこまで恩に着なくても。真面目だね	Roman	That's very kind of you, but there's no need to feel obligated.	罗曼	倒也不必为这个跟我道谢。你太正经啦。	羅曼	不用那麼感謝我啦，你還真是正經呢。
+Date_VILLAIN_A_01ID	70	Roman	ロマン	（まさか女性が苦手とは……\n　驚いたな）	Roman	(Who would've thought that Geron was shy around women?)	罗曼	（没想到他不擅长应付女性……\n　真叫人惊讶。）	羅曼	（沒想到他會不擅長應付女性……\n　真是令我驚訝啊。）
+Date_VILLAIN_A_01ID	71	Roman	ロマン	（よく考えたら私は\n　彼と顔を合わせる機会は多々あったが、\n　彼のことをほとんど知らないんだな……）	Roman	(Come to think of it, even though he and I have crossed paths a number of times, I still don't know much at all about him.)	罗曼	（仔细一想，我跟他打照面的机会虽多，\n　对他本人却不甚了解……）	羅曼	（仔細想想，\n　我雖然跟他碰面的機會很多，\n　但對他這個人幾乎是一無所知呢……）
+Date_VILLAIN_A_02ID	0	Roman	ロマン	（今日は王都に新しくできたと話題の\n　店でも見に行こうか）	Roman	(A new shop just opened in the capital today. Perhaps I'll drop by and take a look.)	罗曼	（今天就去备受热议的王都新店看看吧。）	羅曼	（大家都在討論王都那間新開的店，\n　今天去看看吧。）
+Date_VILLAIN_A_02ID	1	Roman	ロマン	（ん？　あそこにいるのはジェロンと……\n　泣いている女の子？）	Roman	(My word! Geron is over there with a little girl—and she's in tears!)	罗曼	（嗯？站在那里的是杰隆和……\n　哭泣的小女孩？）	羅曼	（嗯？在那裡的是傑隆和……\n　一個正在哭的小女孩？）
+Date_VILLAIN_A_02ID	2			女の子の涙を止めるために茶番をする		Put on a show to cheer her up		故意胡闹好让女孩停止哭泣		演一場鬧劇讓小女孩停止哭泣
+Date_VILLAIN_A_02ID	3	Roman	ロマン	やあ、お姫様。\nそんなに泣いてどうしたんだい？	Roman	What's the matter, princess? Dry those beautiful eyes, won't you?	罗曼	这位公主，你好啊。\n怎么哭得这么伤心？	羅曼	嗨，公主殿下。\n哭得這麼厲害是怎麼了？
+Date_VILLAIN_A_02ID	4	Geron	ジェロン	……	Geron	...	杰隆	……	傑隆	……
+Date_VILLAIN_A_02ID	5	Roman	ロマン	この私が来たからにはもう大丈夫さ。\nほら、笑って	Roman	It's all right, I'm here now. So go ahead, my lady, grace me with a smile.	罗曼	只要有我在，问题都会迎刃而解。\n来，笑一个吧。	羅曼	既然我都來了，就沒什麼好擔心了。\n來，笑一個吧。
+Date_VILLAIN_A_02ID	6	Geron	ジェロン	……ふ	Geron	Heh...	杰隆	……呵。	傑隆	……呵。
+Date_VILLAIN_A_02ID	7	Roman	ロマン	まさかジェロン、君が笑うとはね。\n……少し恥ずかしいな	Roman	Well, at least one of you laughed. But you're making me a bit embarrassed...	罗曼	没想到你会笑啊。\n……我都有点害臊了。	羅曼	沒想到是傑隆你笑了。\n……有點難為情呢。
+Date_VILLAIN_A_02ID	8	Geron	ジェロン	鮮やかなものだったぞ	Geron	That was quite the performance.	杰隆	你的表演很精彩。	傑隆	你表演得很精采喔。
+Date_VILLAIN_A_02ID	9	Geron	ジェロン	この子どもは、ここで一人で泣いていた……\n恐らく迷子だろう	Geron	I found this little girl here all alone, crying her eyes out. My guess is that she's lost.	杰隆	这个孩子在这里独自哭泣……\n恐怕是走丢了吧。	傑隆	這孩子一個人在這裡哭……恐怕是迷路了吧。
+Date_VILLAIN_A_02ID	10	Roman	ロマン	なるほど。\nならばこの子の保護者探し、私も手を貸そう	Roman	A damsel in distress, hm? Then allow me to lend a hand. We'll find her parents together.	罗曼	这样啊。\n那我也来帮她寻找监护人吧。	羅曼	原來如此。\n那我也來幫忙找這孩子的父母吧。
+Date_VILLAIN_A_02ID	11			君が泣かせたのかと聞く		Ask Geron if he made her cry		询问是不是杰隆弄哭她的		詢問是不是傑隆弄哭的
+Date_VILLAIN_A_02ID	12	Roman	ロマン	ジェロン、まさか……\n君が泣かせたのかい？！	Roman	Geron, she's just a little girl! Don't tell me you made her cry!	罗曼	杰隆，难道……\n是你把她弄哭了？！	羅曼	傑隆，難道說……是你把她弄哭的？！
+Date_VILLAIN_A_02ID	13	Geron	ジェロン	一人で泣いていたから、\n迷子だと思っていた	Geron	She was crying when I got here. Since she's all alone, she must be lost.	杰隆	这个孩子在这里独自哭泣，\n应该是迷路了。	傑隆	她一個人哭個不停，我想應該是迷路了。
+Date_VILLAIN_A_02ID	14	Roman	ロマン	ああ。もちろん本気で\n疑ってなどいないさ。	Roman	Right, of course. I never doubted you for a second.	罗曼	嗯，当然了，\n我不是真的在怀疑你。	羅曼	哦，我當然不是真的在懷疑你啦。
+Date_VILLAIN_A_02ID	15	Geron	ジェロン	……俺をからかっても、期待できるような\n反応は出来ないぞ	Geron	It doesn't matter how much you tease me. You're not going to get the reaction you're hoping for.	杰隆	……就算你捉弄我，\n我也不会给出有趣的反应。	傑隆	……就算戲弄我，\n你也得不到什麼值得期待的反應喔。
+Date_VILLAIN_A_02ID	16	Roman	ロマン	はは、すまない	Roman	Haha, my apologies.	罗曼	哈哈，抱歉。	羅曼	哈哈，真是抱歉。
+Date_VILLAIN_A_02ID	17			遠くから様子を見る		Watch them from afar		在远处观察		在遠處觀望情況
+Date_VILLAIN_A_02ID	18	Roman	ロマン	（ジェロンが泣かせたとは思わないが……\n　少し様子を見るか）	Roman	(I don't think Geron would make a child cry, but perhaps I should keep an eye on them.)	罗曼	（应该不是杰隆弄哭她的……\n　稍微观察一下情况吧。）	羅曼	（雖然我不認為是傑隆把她弄哭的……\n　但還是觀望一下情況吧。）
+Date_VILLAIN_A_02ID	19	Geron	ジェロン	おい、ロマン。\n時間があるなら手伝ってくれないか	Geron	Hey, Roman. If you're just standing around, I could use your help.	杰隆	喂，罗曼。\n你有空的话能帮帮我吗？	傑隆	喂，羅曼。有時間的話能不能幫個忙？
+Date_VILLAIN_A_02ID	20	Roman	ロマン	まさか君から声をかけられるとはね。\nその泣いているお姫様は\n一体どうしたんだい？	Roman	Asking for my help? How unexpectedly forthcoming... What happened to this tearful little princess?	罗曼	你居然会主动跟我搭话。\n那位哭个不停的小公主是什么情况？	羅曼	沒想到你會主動跟我搭話啊。\n那位正在哭泣的小公主究竟是怎麼了？
+Date_VILLAIN_A_02ID	21	Geron	ジェロン	わからん。ここで一人で泣いていた……\n多分迷子だろう	Geron	Beats me. She's been crying here alone since I found her. My guess would be that she's lost.	杰隆	我不清楚。她在这里独自哭泣……\n多半是走丢了吧。	傑隆	不知道，她一個人在這裡哭個不停……\n大概是迷路了吧。
+Date_VILLAIN_A_02ID	22	Geron	ジェロン	お前の方が怖がられなさそうだからな。\n時間があるなら少し付き合え	Geron	You're a lot more approachable than I am. If you have some time, would you help me out?	杰隆	你应该不会吓到她。\n有空的话来帮我一把。	傑隆	你看起來比較不會讓人害怕。\n有時間的話就陪她一下吧。
+Date_VILLAIN_A_02ID	23	Roman	ロマン	もちろん構わないよ	Roman	Of course, I'd be glad to!	罗曼	没问题。	羅曼	當然沒問題。
+Date_VILLAIN_A_02ID	24	Roman	ロマン	さて、この子の保護者は……\n近くにそれらしき人は見当たらないな	Roman	Hmm, I don't see anyone that looks like they could be her parents around here...	罗曼	我看看，她的监护人……\n附近好像没有类似的人物啊。	羅曼	那麼，這孩子的父母……\n這附近都沒見到有人在找孩子啊。
+Date_VILLAIN_A_02ID	25	Geron	ジェロン	ああ。この子どももずっと泣いていて……\n何も聞き出せない	Geron	She's been crying her eyes out this whole time. I can't get a word in edgewise.	杰隆	是啊，她还哭个不停……\n什么都问不出来。	傑隆	嗯，這孩子也一直在哭……什麼也問不出來。
+Date_VILLAIN_A_02ID	26	Roman	ロマン	そうか……\nそれなら	Roman	I see. Well, in that case...	罗曼	这样啊……\n那么……	羅曼	這樣啊……既然如此──
+Date_VILLAIN_A_02ID	27			私が保護者を探してこよう		I'll go look for her parents.		我去找她的监护人吧		我去找她的父母
+Date_VILLAIN_A_02ID	28	Roman	ロマン	私が保護者を探してこよう。\n君はその子と一緒にいてあげてくれ	Roman	Why don't I go look for her parents? Stay here and guard our little lady, would you?	罗曼	我去找她的监护人吧。\n你陪她在这里待着。	羅曼	我去找她的父母吧。\n你就好好陪著那孩子。
+Date_VILLAIN_A_02ID	29	Geron	ジェロン	わかった	Geron	Got it.	杰隆	好。	傑隆	知道了。
+Date_VILLAIN_A_02ID	30	Roman	ロマン	（うーん……離れたところまで来たものの、\n　このあたりは人が多いのもあって難しい。\n　それっぽい人も見当たらないな）	Roman	(I'm not getting anywhere... I've looked all over, but I haven't found anyone. It doesn't help that this place is so crowded.)	罗曼	（唔……到了挺远的地方，\n　可这附近人多，想找人也难。\n　没见到像是监护人的人啊。）	羅曼	（唔……雖然來到比較遠的地方，\n　但這一帶人很多，不太好找。\n　也沒有看到正在找小女孩的人。）
+Date_VILLAIN_A_02ID	31	Roman	ロマン	（一度あの子を落ち着かせて、\n　保護者の情報を聞くべきかもしれない）	Roman	(Perhaps it would be best to help the girl calm down and ask her where her parents might be instead.)	罗曼	（或许应该先让那个女孩子冷静下来，\n　再问问她有关监护人的信息比较好。）	羅曼	（或許應該先讓那孩子冷靜下來，\n　再打聽她父母的相關資訊。）
+Date_VILLAIN_A_02ID	32	Geron	ジェロン	大丈夫だ。今、あの金髪の男が\n君の親を探しに行っている……	Geron	Everything is going to be all right. That blonde man from before is going to find your parents.	杰隆	别担心，\n那个金发男人正在帮你寻找父母……	傑隆	不用擔心，\n剛才那個金髮男子去找妳的父母了……
+Date_VILLAIN_A_02ID	33	Geron	ジェロン	もうすぐ親に会えるから、安心しろ。\n……ああ、いい子だ	Geron	You'll be together again soon, so you only have to be brave a little while longer. There's a good girl...	杰隆	你很快就能见到父母了，放心吧。\n……嗯，真乖。	傑隆	馬上就能見到他們了，妳放心吧。\n……嗯，好孩子。
+Date_VILLAIN_A_02ID	34	Roman	ロマン	（彼、子ども相手だとあんなに優しく\n　なるのか……新たな発見だな。\n　一度二人のもとに戻ろう）	Roman	(Wow, so he does have a softer side. It's like night and day now that he's talking to a child.)	罗曼	（他面对小孩能变得这么温柔啊……\n　这算是新发现。\n　先回他们那边去吧。）	羅曼	（原來他在孩子面前會變得那麼溫柔啊……\n　真是一個新發現。\n　先回去找他們兩人吧。）
+Date_VILLAIN_A_02ID	35	Roman	ロマン	少し離れた場所まで行ってみたが、\nそれらしい人は見当たらなかったね……	Roman	I searched far and wide, but I'm afraid I didn't see anyone that looked like they might be her parents...	罗曼	我去远一点的地方看过了，\n没见到类似的人……	羅曼	我去比較遠的地方找了一下，\n並沒有看到像這孩子父母的人……
+Date_VILLAIN_A_02ID	36			二人で保護者を探してみよう		Let's both look for her parents.		我们一起去寻找监护人		我們一起去找她的父母
+Date_VILLAIN_A_02ID	37	Roman	ロマン	二人で保護者を探してみよう。\n手分けすればすぐ見つかるだろう	Roman	Why don't the two of us look for her parents? If we split up, I'm sure we'll be able to find them in no time.	罗曼	我们一起去寻找监护人。\n分头行动的话很快就能找到的吧。	羅曼	我們一起去找她的父母吧。\n分頭行動應該很快就能找到。
+Date_VILLAIN_A_02ID	38	Geron	ジェロン	いや、俺が行く。\nお前はここで子どもと待っていろ。\n……俺といるよりお前の方が安心するだろう	Geron	No, we can't leave her alone. I'll go by myself, so you wait here with her. She'll probably feel much better with you around, anyway.	杰隆	不，我去吧。\n你跟她一起在这里等着。\n……比起我来，跟你待着会更安心些。	傑隆	不，我去吧。\n你在這裡陪著孩子一起等。\n……比起我，她跟你在一起應該會比較安心。
+Date_VILLAIN_A_02ID	39	Geron	ジェロン	……ん？	Geron	Huh...?	杰隆	……嗯？	傑隆	……嗯？
+Date_VILLAIN_A_02ID	40	Roman	ロマン	どうやら、お姫様は\n君と一緒にいたいみたいだね	Roman	It looks like our little princess wants to stay with you.	罗曼	看来，小公主更想跟你待在一起呢。	羅曼	看來公主殿下想跟你待在一起呢。
+Date_VILLAIN_A_02ID	41	Roman	ロマン	きっと一人で心細かった時に、君に優しく\n声をかけられて、安心したんだろう。\nすっかり心を許しているようだ	Roman	After all, you're the one who reached out to her when she was scared and alone. It seems she trusts you.	罗曼	肯定是因为你在她六神无主的时候\n跟她温柔地搭了话，她才放下心来。\n看来她现在很信任你。	羅曼	一定是你在她落單時溫柔地找她說話，\n才會讓她感到安心吧。\n看起來對你徹底卸下心防了。
+Date_VILLAIN_A_02ID	42	Geron	ジェロン	……そうか。\nああ。一緒にいてやるから安心しろ。\n俺たちがお前の親を見つけてやるからな	Geron	Oh... Don't worry, I'm not going to leave you. We'll find your parents, so everything's going to be all right.	杰隆	……是吗。\n好吧，我会陪你的，你放心吧。\n我们会帮你找到你的父母的。	傑隆	……這樣啊。\n好，我會待在妳身邊，放心吧。\n我們一定會找到妳父母的。
+Date_VILLAIN_A_02ID	43	Roman	ロマン	（子ども相手だとこんなにも優しい……\n　ジェロンの新たな一面を見たな）	Roman	(How sweet... Geron certainly has a soft spot for children.)	罗曼	（面对孩子居然这么温柔……\n　看到了杰隆的另一面啊。）	羅曼	（在孩子面前竟然如此溫柔……\n　看到了傑隆的另一面呢。）
+Date_VILLAIN_A_02ID	44			まずはこの子を安心させよう		Let's help her calm down first.		首先让她放下心来吧。		先讓這孩子安心下來吧。
+Date_VILLAIN_A_02ID	45	Roman	ロマン	まずは泣いているこの子を安心させよう。\n保護者を探すためにも、いろいろと情報を\n聞きたいからね	Roman	Why don't we help her calm down first? We'll need to ask about her parents if we're going to find them.	罗曼	先让哭泣的孩子放下心来吧。\n为了找到她的监护人，\n也得跟她打听情况。	羅曼	先讓這個正在哭的孩子安心下來吧。\n為了能找到她父母，\n希望能多問到一些資訊。
+Date_VILLAIN_A_02ID	46	Geron	ジェロン	そうだな。\n……俺たちがお前の親を見つけてやるから、\n泣き止め。安心しろ	Geron	Good point... Don't cry, little one. We'll find your parents, so everything's going to be all right.	杰隆	也对。\n……我们会帮你找到父母的，\n你就别哭了，放心吧。	傑隆	說的也是。\n……我們會找到妳父母的，\n別再哭了，妳就放心吧。
+Date_VILLAIN_A_02ID	47	Geron	ジェロン	お前の親はどんな人だ？\n……そうか、答えられてえらいな。\nいい子だ。……ああ、お前は強い	Geron	Can you tell me who was with you before you got lost...? Your mommy, huh? Don't worry, you're doing great. You're a brave girl.	杰隆	你的父母长什么样？\n……这样啊，说得这么详细，真了不起。\n真乖……嗯，你很厉害。	傑隆	妳的父母是怎樣的人？\n……這樣啊，能答出來真了不起。\n乖孩子……嗯，妳很堅強喔。
+Date_VILLAIN_A_02ID	48	Roman	ロマン	（子ども相手が手慣れているな……\n　こんなに優しい表情をするなんて、\n　知らなかったな）	Roman	(He really has a way with children. I never knew he had such a kind heart.)	罗曼	（他很擅长跟孩子交流……\n　没想到他会露出这么温柔的表情来。）	羅曼	（真懂得和孩子相處……\n　沒想到他會露出這麼溫柔的表情，\n　還是第一次看到呢。）
+Date_VILLAIN_A_02ID	49	Geron	ジェロン	……なんだ。あまりじろじろと見るな	Geron	What? Quit looking at me like that.	杰隆	……怎么了，别死盯着我看。	傑隆	……幹嘛？別一直盯著我看。
+Date_VILLAIN_A_02ID	50	Roman	ロマン	すまない。\nいや、感心していたんだ。\n気に障ったのなら謝るよ	Roman	Oh, sorry. I was just impressed, that's all. I didn't mean to offend you.	罗曼	不好意思。\n我就是很佩服你。\n让你不舒服了的话我向你道歉。	羅曼	失禮了。\n沒什麼，只是覺得很欽佩。\n如果讓你不舒服，我很抱歉。
+Date_VILLAIN_A_02ID	51	Geron	ジェロン	それなら結構だ	Geron	Whatever.	杰隆	那倒不必。	傑隆	道歉就不必了。
+Date_VILLAIN_A_02ID	52	Roman	ロマン	ん？\nこっちに向かって走って来るあの女性は……	Roman	Huh? There's a woman coming this way.	罗曼	嗯？\n有一位女士朝这边走过来了……	羅曼	嗯？那位朝我們這裡跑過來的女性是……
+Date_VILLAIN_A_02ID	53	Roman	ロマン	無事、保護者と合流できてよかった	Roman	Thank goodness we were able to reunite that little girl and her mother.	罗曼	还好顺利找到监护人了。	羅曼	那個小女孩能順利找到媽媽真是太好了。
+Date_VILLAIN_A_02ID	54	Roman	ロマン	あの子、君の服をなかなか離さないから\n驚いたよ。随分懐かれたね	Roman	It was really heartwarming how attached she was to you. She barely let go of you.	罗曼	她居然怎么也不肯松开你的衣服，\n看来很亲近你呢。	羅曼	她好像很喜歡你呢。\n竟然抓著你的衣角不放，嚇了我一跳。
+Date_VILLAIN_A_02ID	55	Geron	ジェロン	……別にあれくらい普通だろう。\nただ心細かった時に近くにいたのが\n俺だったというだけだ	Geron	She's just a kid—that's what kids do when they're scared. I just happened to be the first person she latched on to.	杰隆	……那很普通吧。\n只是在没人依靠的时候恰巧遇上了我罢了。	傑隆	……這很正常吧。\n只是在她感到不安的時候，\n身邊剛好有我在而已。
+Date_VILLAIN_A_02ID	56	Roman	ロマン	ふ～ん、そうかそうか。\nまあ、何はともあれ良かった。\nところで	Roman	All right, if you say so... I'm just glad everything worked out. But I must say...	罗曼	哦～这样啊。总之结果不错。\n说起来……	羅曼	哦～原來是這樣啊。\n總之，沒事就好。\n話說回來……
+Date_VILLAIN_A_02ID	57			君は面倒見がいいんだな		You're quite caring.		没想到你这么会照顾人		你很會照顧人呢
+Date_VILLAIN_A_02ID	58	Roman	ロマン	君は面倒見がいいんだな。驚いたよ。\n何か理由でもあるのかい？	Roman	Deep down, you're really quite caring, aren't you? Have you always been that way?	罗曼	没想到你这么会照顾人。\n是有什么原因吗？	羅曼	你很會照顧人呢，嚇了我一跳。\n是不是有什麼原因呢？
+Date_VILLAIN_A_02ID	59	Geron	ジェロン	弟がいるからだろうか。\n兄としてしっかりしていなければと\n思っている	Geron	I don't know, maybe it's because I have a younger brother. I always had to look out for him.	杰隆	可能是因为我有个弟弟。\n作为哥哥就是要可靠些才对。	傑隆	或許是因為我有個弟弟吧。\n我一直都認為身為哥哥就得可靠一點。
+Date_VILLAIN_A_02ID	60			君は女性が苦手ではなかったか？		You aren't bad with women after all.		你不是不擅长应付女性吗？		你不是不擅長跟女性相處嗎？
+Date_VILLAIN_A_02ID	61	Roman	ロマン	君は、女性が苦手ではなかったか？	Roman	It seems to me that you aren't bad with women after all!	罗曼	你不是不擅长应付女性吗？	羅曼	你不是不擅長跟女性相處嗎？
+Date_VILLAIN_A_02ID	62	Geron	ジェロン	小さい子は別だ。女が苦手なのは\n言い寄ってくるからであって、\nそうでなければ問題ない	Geron	That was a little girl, not a woman. Besides, I wouldn't have a problem if they didn't try and hit on me.	杰隆	小孩子是例外。\n我不擅长应付的是自说自话接近我的人，\n不是这样的就没问题。	傑隆	小孩子另當別論。\n我只是討厭女人來主動搭訕，\n除此之外都沒問題。
+Date_VILLAIN_A_02ID	63			君は子どもと仲良くなるのが上手いんだな		You're really good with children.		你很擅长跟小朋友处好关系		你很懂得怎麼跟孩子打成一片
+Date_VILLAIN_A_02ID	64	Roman	ロマン	君は子どもと仲良くなるのが上手いんだな。\nあの子、君に懐いて安心しきっていたね	Roman	You're really good with children. That little girl calmed right down thanks to you.	罗曼	你很擅长跟小朋友处好关系呢。\n她很亲近你，所以彻底放下心来了。	羅曼	你很懂得怎麼跟孩子打成一片呢。\n那個女孩和你在一起很安心自在。
+Date_VILLAIN_A_02ID	65	Geron	ジェロン	子どもから見たら、俺は身体が大きくて\n怖いだろうからな……\n優しく接するよう気を付けている	Geron	Since I'm so big, most kids are scared at the sight of me. That's why I make sure to be extra nice to them.	杰隆	小孩子会因为我身形大而害怕我……\n所以我会多加注意，温柔对待他们。	傑隆	畢竟在小孩的眼裡，\n我應該像個可怕的巨人一樣……\n所以我會提醒自己對他們溫柔一點。
+Date_VILLAIN_A_02ID	66	Geron	ジェロン	小さい子は、弟のようで\n放っておけないんだ	Geron	Whenever I see little kids around, they always remind me of my younger brother.	杰隆	小孩子就跟我弟弟一样，\n我没法放任他们不管。	傑隆	那些小孩就像我的弟弟，讓人放心不下。
+Date_VILLAIN_A_02ID	67	Geron	ジェロン	他人にこんな気持ちがもてたのは、\n俺に手が差し伸べられてからだが……	Geron	I haven't felt this protective in a long time... But as soon as I saw that girl crying, my big brother instincts took over.	杰隆	我之所以会有这种想法，\n也是因为得到了他人的帮助……	傑隆	我之所以會有這種感覺，\n也是因為自從受到了他人的幫助……
+Date_VILLAIN_A_02ID	68	Roman	ロマン	弟か……そうだ！\n今度、兄弟について語り合わないかい？	Roman	So you have a little brother, eh? Why don't we swap sibling stories next time?	罗曼	弟弟啊……对了！\n我们下次要不要一起聊聊兄弟之间的事？	羅曼	弟弟啊……對了！\n下次我們要不要聊聊彼此的兄弟姊妹？
+Date_VILLAIN_A_02ID	69	Roman	ロマン	私にも自慢の兄弟いるんだ。\nぜひ君の弟の話も聞かせてくれよ	Roman	I'm a proud brother myself. I'd love to hear more about your family too.	罗曼	我也有让我自豪的兄弟姐妹。\n务必跟我聊聊你的弟弟啊。	羅曼	我也有幾個引以為傲的兄弟姊妹。\n請務必讓我聽聽令弟的事。
+Date_VILLAIN_A_02ID	70	Geron	ジェロン	ああ。いいだろう。\n……俺は行く。またな	Geron	Sure thing. But I've got to get going for now. See you around.	杰隆	嗯，好吧。\n……我要走了，再见。	傑隆	嗯，行吧……我先走了，再見。
+Date_VILLAIN_A_02ID	71	Roman	ロマン	（今日は、\n　彼の新たな一面を知ることができたな）	Roman	(After today, I feel like I understand a whole new part of Geron.)	罗曼	（今天见到了他全新的一面。）	羅曼	（今天意外地發現了傑隆的另一面。）
+Date_VILLAIN_A_02ID	72	Roman	ロマン	（彼の考え方の中心にある弟の話……\n　彼から聞けるのが楽しみだ）	Roman	(It seems like his little brother is always the first thought in his mind. I can't wait to hear more about him!)	罗曼	（他弟弟是他思考的起点……\n　真期待哪天能听他说说他弟弟啊。）	羅曼	（讓傑隆一心掛念的弟弟……\n　真期待能聽到他的事情。）
+Date_VILLAIN_A_03ID	0	Roman	ロマン	（人手が足りないと言われて手伝いに来たが……\n　もう一人くらい手を借りたいな）	Roman	(I volunteered to help out at the cafe today since they were short-staffed, but we could still use another pair of hands...)	罗曼	（店里说人手不够，我就来帮忙了……\n　可还想再叫个人来帮忙啊。）	羅曼	（我聽說咖啡廳人手不足就來幫忙了……\n　但感覺還需要再找一個幫手。）
+Date_VILLAIN_A_03ID	1	Roman	ロマン	やあ、ジェロン。いらっしゃい。\n今日はどうしたんだい？	Roman	Welcome, Geron! It's good to see you. What can I do for you today?	罗曼	哎呀，杰隆，欢迎光临。\n今天过来是有什么事吗？	羅曼	嗨，傑隆，歡迎光臨。\n今天有什麼事呢？
+Date_VILLAIN_A_03ID	2	Geron	ジェロン	討伐依頼の報告に来たんだが、忙しそうだな。\n……ところでお前は何をしている？	Geron	I came to report back about a hunt I just finished, but it seems like you have your hands full with... Wait. Why are you even here?	杰隆	我是来报告讨伐委托的，不过店里挺忙的啊。\n……你在这里做什么？	傑隆	我是來回報討伐委託相關的事，但店裡似乎很忙呢……\n話說，你在這裡做什麼？
+Date_VILLAIN_A_03ID	3	Roman	ロマン	私は今日限定で、このカフェの男前店員さ！\nそうだ、ジェロン。このあと時間はあるかい？	Roman	I just so happen to be this cafe's newest, most dashing staff member! For today only, that is. By the way, are you free?	罗曼	我是只出现在今天的咖啡厅男子汉店员！\n对了，杰隆，你待会儿有空吗？	羅曼	我今天是咖啡廳的一日限定帥氣店員！\n對了，傑隆你現在有空嗎？
+Date_VILLAIN_A_03ID	4	Roman	ロマン	見ての通り大繁盛で、人手が足りないんだ。\nよかったら手を貸してくれないか？	Roman	As you can see, we're a bit swamped at the moment. Would you be so kind as to lend us a hand?	罗曼	你看，店里生意火爆，人手不够。\n你要是方便能帮帮忙吗？	羅曼	如你所見，咖啡廳現在忙得不可開交。\n方便的話，可以請你幫忙嗎？
+Date_VILLAIN_A_03ID	5	Geron	ジェロン	……お前には借りもあるしな。いいだろう。\n具体的にはどうすればいい。俺はこういった経験がない	Geron	Well, I do owe you a favor. What do you need me to do, anyway? I've never done any of this.	杰隆	……好吧，毕竟我还欠着你人情。\n我要做些什么？我没干过这种工作。	傑隆	……好吧，我欠你一個人情。\n具體來說是要做什麼？我沒有相關經驗。
+Date_VILLAIN_A_03ID	6	Roman	ロマン	ありがとう！\nじゃあ君には料理の配膳と、注文を……	Roman	You're a lifesaver! Let's have you bring the customers their food and take some orders...	罗曼	太感谢你了！\n那你就来负责送菜跟点单……	羅曼	謝謝你！那就請你負責送餐和點餐……
+Date_VILLAIN_A_03ID	7	Roman	ロマン	ジェロン、次は窓際にいる女性客から\n注文とってきてくれるかな	Roman	Geron, could you take that young lady's order? The one sitting by the window over there.	罗曼	杰隆，能麻烦你去为窗边的女客人点单吗？	羅曼	傑隆，接下來能麻煩你去幫坐在窗邊的\n那位女客人點餐嗎？
+Date_VILLAIN_A_03ID	8	Geron	ジェロン	……さっきから、あの客の視線が痛いんだが	Geron	Her? She's been staring at me since she sat down...	杰隆	……那位客人一直都在盯着我看。	傑隆	……那個人從剛才開始就盯得我很不自在。
+Date_VILLAIN_A_03ID	9	Roman	ロマン	本当だ。でもあの視線は悪意とかじゃなく、好意から\n来るものじゃないかな？　……私が代わろうか	Roman	Oh, you're right. But I don't think she means any harm. Let's switch off, then! I'll take care of this.	罗曼	还真是。不过她应该没有恶意，\n是善意的眼神吧？不然我来替你点单好了。	羅曼	真的耶，不過她的眼神看起來沒有惡意，\n反而像是愛慕吧……需要我幫忙嗎？
+Date_VILLAIN_A_03ID	10	Geron	ジェロン	客である以上、無碍にも出来ん、助かる。\n……また借りを作ってしまったな	Geron	Thanks. I was worried about offending her since she's a customer and all... It seems I'll be in your debt again.	杰隆	既然是客人就不能怠慢，谢了。\n……我又欠了你一个人情啊。	傑隆	既然是客人又不能怠慢，感激不盡……\n我又欠你一個人情了。
+Date_VILLAIN_A_03ID	11	Roman	ロマン	はは、大げさだなあ、君は。\nじゃあ行ってくるよ	Roman	Haha, it's not a problem at all. I'll be right back.	罗曼	哈哈，你这话说得也太夸张了。\n那我去去就回。	羅曼	哈哈，你太誇張了啦。我去去就回。
+Date_VILLAIN_A_03ID	12	Roman	ロマン	お待たせいたしました、ご注文は？\n……かしこまりました、少しお待ちくださいね	Roman	Terribly sorry to keep you waiting, miss. May I take your order? Very well, coming right up.	罗曼	久等了，要来点什么？\n……好的，请稍等。	羅曼	讓您久等了，請問您要點什麼？\n……明白了，請稍等一下。
+Date_VILLAIN_A_03ID	13	Roman	ロマン	……ああ、彼は私の友人です。今日だけお手伝いで……\n緊張しているので、あまり見ないであげてくださいね	Roman	Oh, him? My friend is only helping out for the day. He's quite nervous, so please try not to pay him too much attention.	罗曼	……哦，他是我朋友，今天只是来帮忙一天……\n他有些紧张，还请别盯着他看。	羅曼	……哦，他是我的朋友，就今天抽空來幫忙的……\n他有點緊張，請別盯著他看太久喔。
+Date_VILLAIN_A_03ID	14	Geron	ジェロン	……あいつはすごいな	Geron	Whoa, Roman really is something else...	杰隆	……他可真厉害啊。	傑隆	……那傢伙真厲害。
+Date_VILLAIN_A_03ID	15	Roman	ロマン	お疲れ様！　おかげですごく助かったよ。\nありがとう。皆、君に感謝している	Roman	Great work today! I don't know what we would've done without you. Everyone is so thankful for your help!	罗曼	辛苦啦！你帮了不少忙呢，谢谢。\n大家都在感谢你呢。	羅曼	辛苦了！託你的福真是幫了大忙啊。\n謝謝你，大家也都覺得很感激。
+Date_VILLAIN_A_03ID	16	Geron	ジェロン	今までは力仕事ばかりだったから新鮮な経験だった。\n力になれたのなら何よりだ	Geron	I've never done anything but manual labor, so this was a nice change of pace. I'm just glad I could make myself useful.	杰隆	我之前做的都是体力活，做这种工作还挺新奇的。\n能帮上忙就好。	傑隆	我一直以來都是做體力活的，所以感覺很新奇。\n如果有幫上忙就再好不過了。
+Date_VILLAIN_A_03ID	17	Roman	ロマン	さあ、よく働いた後は、よく食べようじゃないか！\nどれも美味しそうだ	Roman	After a long day of hard work, I'd say we deserve a feast! Mm, everything looks delectable...	罗曼	好啦，忙活完了就来大吃一顿吧！\n每道菜看上去都很好吃啊。	羅曼	來吧，辛勤勞動之後就該大吃一頓！\n每樣菜看起來都好美味。
+Date_VILLAIN_A_03ID	18	Geron	ジェロン	ああ。ティムにも食べさせてやりたい	Geron	It does. I wish I could bring some back for Tim, too.	杰隆	是啊，真想让提姆也尝尝。	傑隆	嗯，真想讓提姆也嚐嚐看。
+Date_VILLAIN_A_03ID	19	Roman	ロマン	君の弟か。\nいい機会だ。君の弟の話を聞かせてくれよ	Roman	Speaking of your brother, what is he like? I'd love to hear more about him.	罗曼	提姆就是你的弟弟吧。\n机会难得，跟我聊聊你弟弟吧。	羅曼	你是說令弟嗎？機會難得，跟我說說他的事吧。
+Date_VILLAIN_A_03ID	20	Geron	ジェロン	ティムは、生まれつき身体が弱かった。\n生きるため一緒に働いていたが……辛そうで苦しかった	Geron	Tim... He was born with a weak constitution. The two of us used to work together, but it hurt to watch him suffer day in and day out.	杰隆	提姆天生身体就不好。为了活下去，\n我们一起劳动过……但他干起活来会很难受。	傑隆	提姆他從小體弱多病。我們曾一起靠打零工維生……\n但他看起來很難受而吃了不少苦。
+Date_VILLAIN_A_03ID	21	Geron	ジェロン	だが、食事をとる時、特に甘味があるときは、\nとても嬉しそうで幸せそうに笑うんだ	Geron	But whenever it was time to eat—especially the sweet stuff—his smile was as bright as the sun.	杰隆	可在吃饭的时候，尤其是吃甜食时，\n他会笑得特别幸福快乐。	傑隆	不過，每次吃飯時，他都會露出高興又幸福的笑容。\n特別是看見甜點的時候。
+Date_VILLAIN_A_03ID	22	Geron	ジェロン	俺に残された唯一の家族だ。\n……ティムが元気でいないと、俺に幸せなどない	Geron	He's all I have left, so I just want him to be happy and healthy... Without him, I would be nothing.	杰隆	他是我唯一的亲人了。\n……如果他不快乐，我就没有幸福可言。	傑隆	提姆是我唯一的家人了……\n除非他平安健康，否則我不可能會幸福的。
+Date_VILLAIN_A_03ID	23	Roman	ロマン	君は、本当に弟のことを大切に思っているんだな	Roman	Your little brother is truly lucky to have you.	罗曼	你真的很疼你弟弟。	羅曼	你真的非常重視這個弟弟呢。
+Date_VILLAIN_A_03ID	24	Geron	ジェロン	ティムは純粋で、ずっと俺を慕ってくれている。\n俺はティムを、あらゆるものから守っていきたい	Geron	Tim's got a heart of gold. He's done nothing but love me since the day he was born, so the only thing I want to do is protect him.	杰隆	提姆很单纯，一直都很仰慕我。\n我也想保护他，不让他受到任何伤害。	傑隆	提姆個性純真，而且一直很仰慕我。\n我希望自己能永遠保護他不受任何傷害。
+Date_VILLAIN_A_03ID	25	Roman	ロマン	……私にも兄と弟と妹がいるんだ	Roman	...I have an older brother and two younger siblings—a little brother and sister.	罗曼	……我也有哥哥、弟弟和妹妹。	羅曼	……我也有哥哥、弟弟和妹妹。
+Date_VILLAIN_A_03ID	26	Roman	ロマン	弟にとって、兄というのはとても大きな存在だ。\n私も兄には何度も助けられ、また学ばせてもらった	Roman	That's how I know: an older brother means the world to his siblings. I am who I am thanks to everything my brother taught me.	罗曼	对弟弟来说，哥哥是很重要的人。\n我受到过哥哥好几次帮助，也学到过不少。	羅曼	哥哥這個角色，在弟弟心目中的地位非常重要。\n我也多次受到兄長大人的幫助和教導。
+Date_VILLAIN_A_03ID	27	Roman	ロマン	私がそんな兄を尊敬し、大切に思っているように、\nきっと君の弟も、君を尊敬して大切に思っているはずさ	Roman	I have so much love and respect for him... I know Tim feels the same way about you.	罗曼	就像我尊敬、重视我哥哥一样，\n你的弟弟肯定也很尊敬重视你。	羅曼	正如我敬重兄長大人一般，令弟想必也非常敬重你。
+Date_VILLAIN_A_03ID	28	Roman	ロマン	上にも下にも兄弟がいる私が言うんだ。\n間違いないさ	Roman	As a middle child, I understand both what it means to look up to someone and what it means to be looked up to, so I'm sure of it.	罗曼	我有哥哥也有弟弟，说的话准没错。	羅曼	我上有哥哥下有弟弟，聽我的準沒錯。
+Date_VILLAIN_A_03ID	29	Geron	ジェロン	……そうか	Geron	...I hope so.	杰隆	……这样啊。	傑隆	……這樣啊。
+Date_VILLAIN_A_03ID	30	Roman	ロマン	今日のお手伝いの礼として、お土産をもらったよ。\nはい、これは君の分さ	Roman	The cafe gave me something special as thanks for our help today. Here, this is for you.	罗曼	我们今天帮了店里的忙，所以还收到了礼物。\n来，这是给你的。	羅曼	我拿到了一些點心作為今天的謝禮呢。\n來，這是你的那份。
+Date_VILLAIN_A_03ID	31	Geron	ジェロン	……甘味か。しかもこんなに……\nこれは、ティムが喜ぶ！　ティムが喜ぶぞ！	Geron	Sweets? And there are so many... Tim is going to love these! He'll be so happy!	杰隆	是甜食啊，而且量还这么多……\n提姆看了肯定会很开心，一定会的！	傑隆	……是甜點啊，而且還這麼多……\n提姆看到這個會很高興！他一定會很高興的！
+Date_VILLAIN_A_03ID	32	Roman	ロマン	ああ。ぜひ二人で食べてくれ。\n君と兄弟の話ができて楽しかったよ。またな！	Roman	Enjoy. There's enough for the two of you to share. Anyway, our chat today was delightful. Until next time!	罗曼	嗯，一定要兄弟俩一起吃啊。\n很高兴能跟你聊兄弟的话题，改天再见！	羅曼	嗯，請你們務必一起享用。\n我很高興能和你聊兄弟的事，下次再見！
+Date_VILLAIN_A_03ID	33	Roman	ロマン	（彼は本当に弟が大切なんだな……\n　弟が、彼の人生の中心を担っているんだ）	Roman	(Geron loves his brother more than anything. Tim is his whole world.)	罗曼	（他真的很疼弟弟啊……\n　弟弟在他的人生中占据了重要的位置。）	羅曼	（他真的很重視弟弟呢……\n　他的弟弟彷彿就是他人生的全部重心。）
+Date_VILLAIN_A_03ID	34	Roman	ロマン	（カフェのお手伝いもしてくれたし、\n　根は悪い奴じゃない。次はいつ会えるだろうか）	Roman	(He even helped me out here... It turns out that Geron was never a bad guy at heart. I hope we meet again soon.)	罗曼	（他也来咖啡厅帮忙了，\n　本质不坏。下次见面会是什么时候呢？）	羅曼	（他願意在咖啡廳幫忙，看來不是個壞人。\n　什麼時候能再見到他呢？）
+Date_VILLAIN_A_04ID	0	Roman	ロマン	今日は来てくれてありがとう！\n一度、一対一で手合わせを\nしてみたかったんだ	Roman	Thank you for joining me! I was hoping I'd be able to spar with you one of these days.	罗曼	谢谢你今天赏脸过来！\n我早就想跟你切磋试试了。	羅曼	謝謝你今天抽空過來！\n我一直很想與你來場一對一的切磋。
+Date_VILLAIN_A_04ID	1	Geron	ジェロン	俺もお前の流麗な動きは一目置いている。\n手合わせできるのは、光栄だ	Geron	I've seen your skill with a blade, so it will be an honor to cross swords with you myself.	杰隆	你行云流水的一套动作也让人佩服。\n很荣幸能跟你切磋过招。	傑隆	你那流暢的動作也令我深感敬佩。\n能與你切磋，是我的榮幸。
+Date_VILLAIN_A_04ID	2	Roman	ロマン	いやあ、素晴らしい剣捌きだね。\n一振り一振りに重さがある	Roman	Your swordsmanship is quite impressive indeed. There was such power behind each strike...	罗曼	你的剑法真是太出色了。\n一招一式都很有分量。	羅曼	哎呀，真是出色的劍法。每一劍都充滿了力道。
+Date_VILLAIN_A_04ID	3			この凄まじい腕力は、左腕の影響かい？		Does your strength come from your left arm?		你的臂力这么强劲，是受了左臂的影响吗？		如此驚人的力量是來自左臂嗎？
+Date_VILLAIN_A_04ID	4	Roman	ロマン	この凄まじい腕力は、その左腕の影響かい？	Roman	Does your incredible strength have something to do with that left arm of yours?	罗曼	你的臂力这么强劲，是受了左臂的影响吗？	羅曼	這如此驚人的力量是來自你的左臂嗎？
+Date_VILLAIN_A_04ID	5	Geron	ジェロン	その通りだが、話題に出すのは避けた方が\nいいぞ、不吉なものだ	Geron	In a word, yes. But let's just say there are some things you're better off not knowing.	杰隆	是这样没错，不过还是别提它为妙，不吉利。	傑隆	沒錯，但我們最好別提及這個話題，\n這條手臂是不祥之物。
+Date_VILLAIN_A_04ID	6	Geron	ジェロン	これは俺に力を与えたが、\n同時に俺から多くのものを奪っている……	Geron	Though it has given me great power...it's taken much from me as well.	杰隆	它给了我力量，却也夺走了我的许多东西。	傑隆	它給予我力量的同時，也奪走了很多東西……
+Date_VILLAIN_A_04ID	7	Roman	ロマン	不躾だったね。すまない	Roman	Forgive me. It was thoughtless of me to ask.	罗曼	是我冒昧了，抱歉。	羅曼	抱歉，是我冒犯了。
+Date_VILLAIN_A_04ID	8			その剣捌き、どこで学んだんだい？		Where did you learn to fight like that?		你的剑法是从哪里学的？		你在哪裡學的劍法？
+Date_VILLAIN_A_04ID	9	Roman	ロマン	その剣捌き、どこで学んだんだい？	Roman	I must ask, where did you learn to fight like that?	罗曼	你的剑法是从哪里学的？	羅曼	你在哪裡學的劍法？
+Date_VILLAIN_A_04ID	10	Geron	ジェロン	独学だ。金を稼ぐために地下闘技場で\n戦闘を重ねた	Geron	I taught myself. I needed a way to make Cole, so I spent a lot of time fighting in underground rings.	杰隆	是我自学的。\n我为了赚钱去地下竞技场打了很多场。	傑隆	是自學的。我曾在地下競技場\n打過多場戰鬥，賺取錢財。
+Date_VILLAIN_A_04ID	11	Geron	ジェロン	あの頃の俺は、生きるために、\nティムを生かすために、必死だった……\n気づいたらここまで強くなっていたんだ	Geron	I was desperate. I needed to do whatever it took for Tim and me to survive. Any skills I have now were honed out of necessity.	杰隆	我当时拼了命地活着，也为了养活提姆……\n等我察觉时自己已经变得这么厉害了。	傑隆	當時為了讓自己和提姆活下去，\n我拚盡了全力……\n回過神來，就變得這麼強了。
+Date_VILLAIN_A_04ID	12	Roman	ロマン	想いの力、ってやつかな。\n君の覚悟が伝わってくるよ	Roman	The true power of devotion. Now I see what made you so strong.	罗曼	这就是念想的力量啊。\n我感受到你的决心了。	羅曼	這就是所謂信念的力量吧。\n我能感受到你的決心。
+Date_VILLAIN_A_04ID	13			弟君も君のような素養を持っているのかな		Can your brother fight as well as you?		你弟弟也有跟你一样的天赋吗？		令弟也擁有相同的劍術天賦嗎？
+Date_VILLAIN_A_04ID	14	Roman	ロマン	弟君も君のような素養を持っているのかな	Roman	Can your brother fight as well as you?	罗曼	你弟弟也有跟你一样的天赋吗？	羅曼	令弟也擁有相同的劍術天賦嗎？
+Date_VILLAIN_A_04ID	15	Geron	ジェロン	ティムは生来、体が弱い……\n素養なんて、考えたこともない	Geron	I've never thought about it, actually. Tim has been so frail his whole life...	杰隆	提姆生来体弱……\n我从没想过他有这方面的天赋。	傑隆	提姆生來就體弱多病……\n劍術天賦什麼的連想都不敢想。
+Date_VILLAIN_A_04ID	16	Geron	ジェロン	あぁティム、今、何をしているのか。\n大丈夫だろうか……	Geron	I wonder what he's doing right now... I just hope he's all right without me.	杰隆	唉，提姆现在在做什么呢？\n他没事吧……	傑隆	啊……提姆，現在你在做什麼呢？\n有沒有生病……
+Date_VILLAIN_A_04ID	17	Roman	ロマン	これは、勝負どころではなくなって\nしまったようだね……落ち着くのを待とうか	Roman	I'm sorry, I ruined the mood, didn't I? Perhaps we can pick up where we left off later.	罗曼	这下可没有心情分出胜负了……\n等他冷静下来再说吧。	羅曼	看他這樣子，應該是沒辦法繼續切磋了……\n等他冷靜下來再說吧。
+Date_VILLAIN_A_04ID	18	Roman	ロマン	一度休憩しようか	Roman	What say we take a break?	罗曼	要不要休息一下？	羅曼	我們先休息一下吧。
+Date_VILLAIN_A_04ID	19	Roman	ロマン	どうやら、向こうの男が馬にひかせていた\n荷物が倒れたようだね。\n……おや？よく見れば知った顔だな	Roman	Oh, it looks like that man's cart tipped over. His things are everywhere... But actually, I think I know the owner.	罗曼	前面那个男人的马拉的货物翻倒在地了。\n哦？仔细一看还是熟面孔呢。	羅曼	好像是對面的男子不小心將馬背上的行李弄倒了……\n嗯？這個人看起來有點眼熟。
+Date_VILLAIN_A_04ID	20	Geron	ジェロン	知り合いか？\n随分と偉そうに、従者に命令しているが……	Geron	He a friend of yours? He sure is letting his help have it.	杰隆	是你的熟人吗？\n他好像在趾高气扬地对仆从下命令……	傑隆	你認識他嗎？\n看上去他似乎在對隨從頤指氣使的……
+Date_VILLAIN_A_04ID	21	Roman	ロマン	まあ、顔見知りではあるかな。\n王宮にも出入りするくらいの貴族だね。\n王宮では大人しく、問題もないが……	Roman	I wouldn't call him a friend. He's a noble who often visits the palace. But it seems that he reserves his best behavior for the royal grounds...	罗曼	算是熟人吧。他是能出入王宫的贵族。\n在王宫的时候倒规规矩矩的没惹事……	羅曼	嗯，算是見過面吧。\n他可是能進出王宮的大貴族呢。\n在王宮裡還挺老實的，沒什麼問題……
+Date_VILLAIN_A_04ID	22	Roman	ロマン	どうやら私には気づいていないようだね。\n従者を汚く罵って、気分が悪いな……	Roman	It seems like he doesn't recognize me. Ah, but the way he's treating his attendant makes me sick...	罗曼	看来是没有注意到我。\n他把仆人骂得狗血淋头，看得我难受……	羅曼	但這麼看來好像是我識人不清。\n居然辱罵隨從，真讓人不舒服……
+Date_VILLAIN_A_04ID	23	Roman	ロマン	ん？君の足元の荷物、彼のものじゃないか？\n拾って届けてあげようか	Roman	Ah, look! Near your feet. That must belong to him, too. I suppose we should see that he gets it back.	罗曼	嗯？你脚边的货物是他的吗？\n捡起来还给他吧。	羅曼	嗯？你腳邊的行李是他掉的吧？\n我們一起拿去給他。
+Date_VILLAIN_A_04ID	24	Roman	ロマン	これ、お兄さんの荷物ですか？\n向こうにまで転がってきましたよ	Roman	Excuse me, but I believe this is yours. It had fallen by the wayside...	罗曼	这是你的货物吗？\n滚落到那边去了。	羅曼	這是大哥你的行李吧？剛才滾到對面去了。
+Date_VILLAIN_A_04ID	25		貴族の男	おい、それは私の荷物だ、返せ！	Nobleman	You thieves! Unhand my belongings this instant!	男性贵族	喂，那是我的东西，还给我！	貴族男性	喂，那是我的東西，還給我！
+Date_VILLAIN_A_04ID	26	Geron	ジェロン	……	Geron	...	杰隆	……	傑隆	……
+Date_VILLAIN_A_04ID	27		貴族の男	何だ貴様ら……\n私に親切にして、見返りを求めているのか？\n私が誰かわかっているのか！	Nobleman	"Clearly, you filth are only ""helping"" me because you want to get your grubby paws on a reward. Do you have any idea who I am?!"	男性贵族	搞什么啊……\n对我这么好，是想捞什么好处吗？\n你知道我是谁吗！	貴族男性	你們兩個小子想做什麼……\n這麼親切，是想從我這兒得到好處嗎？\n知不知道我是誰啊！
+Date_VILLAIN_A_04ID	28	Roman	ロマン	（彼の態度は貴族としてあるまじきものだ。\n　ジェロンも怒りを感じているようだし、\n　さて、どうしたものか……）	Roman	(Frankly, this man's behavior is disgusting. And it looks like Geron is quite upset, too... How shall I handle this?)	罗曼	（他这可不是贵族该有的态度。\n　杰隆似乎也生气了，\n　接下来该怎么做才好呢……）	羅曼	（身為貴族不該如此目中無人。\n　傑隆似乎也被激怒了，\n　這下該怎麼辦呢……）
+Date_VILLAIN_A_04ID	29			貴族の男の態度を非難する		Criticize his bad behavior		谴责男性贵族的态度		指責貴族男子的態度
+Date_VILLAIN_A_04ID	30	Roman	ロマン	彼の態度は貴族としてあるまじきものだ。\n実に不愉快だね	Roman	What a disgrace. A man like that isn't worthy of his noble status...	罗曼	他这可不是贵族该有的态度，\n太让人生气了。	羅曼	身為貴族不該如此目中無人，真是令人不悅至極。
+Date_VILLAIN_A_04ID	31	Geron	ジェロン	そうだな……\n俺は昔から、こういう奴が気に入らない	Geron	Yeah... I've always hated jerks like him.	杰隆	是啊……\n我一直看这种人不顺眼。	傑隆	是啊……我從以前就看這種傢伙不順眼。
+Date_VILLAIN_A_04ID	32	Geron	ジェロン	この男は財力や権力を、何をしても許される\n免罪符と勘違いしているようだ	Geron	People like that think they're untouchable. They use their money and influence to get away with everything.	杰隆	他错把财力跟权力当成了免罪金牌，为非作歹。	傑隆	他似乎以為只要手握財富與權力，\n無論做什麼都不會被定罪。
+Date_VILLAIN_A_04ID	33	Roman	ロマン	王宮で大人しくしていたのは、\n猫をかぶっていたのかな？	Roman	"It's obvious to me now that his ""good manners"" in the royal palace were all just an act."	罗曼	他在王宫里的时候倒挺老实的，\n想必都是装出来的吧？	羅曼	難道他在王宮的老實形象都是裝出來的嗎？
+Date_VILLAIN_A_04ID	34			貴族の男は放っておこうと提案する		Leave him be		提议不去搭理男性贵族		提議無視貴族男子
+Date_VILLAIN_A_04ID	35	Roman	ロマン	さ、彼は放って、手合わせの続きと\nいこうじゃないか	Roman	Let's ignore him, Geron. Why don't you and I go somewhere and resume our sparring match instead?	罗曼	来，别去管他了，我们继续切磋吧。	羅曼	來吧，別理他了。我們繼續切磋武藝。
+Date_VILLAIN_A_04ID	36	Geron	ジェロン	これを放っておけるのか……？	Geron	Should we really let him carry on like this...?	杰隆	你能对这种人置之不理吗……？	傑隆	你能坐視不理嗎……？
+Date_VILLAIN_A_04ID	37	Geron	ジェロン	お前は、財力や権力を振りかざして\n言いたい放題なこの男に\nなんとも思わないのか……？	Geron	Doesn't it make you mad to see a guy throwing his weight around just because he has money and power?	杰隆	面对这种仗着权势肆意妄为的人，\n你就没有什么想法吗……？	傑隆	看見這種憑藉金錢與權力為所欲為的傢伙，\n你難道無動於衷嗎……？
+Date_VILLAIN_A_04ID	38	Roman	ロマン	もちろん思う所はあるさ	Roman	Of course it upsets me, but...	罗曼	当然有了。	羅曼	我當然也看不下去。
+Date_VILLAIN_A_04ID	39			貴族の男に見返りを求めてみる		Ask him for a reward		向男性贵族讨要谢礼		跟貴族男子索取好處
+Date_VILLAIN_A_04ID	40	Roman	ロマン	どうせなら、彼に何か見返りを\n求めてみるかい？	Roman	Well, if he's dead set on thinking all we're after is a reward, we might as well ask for one.	罗曼	横竖都是帮了忙，\n不如就跟他要点东西吧？	羅曼	反正我們都幫了忙，乾脆向他索取一些好處吧？
+Date_VILLAIN_A_04ID	41	Geron	ジェロン	こんな奴に、礼とはいえ施されたくはない。\n冗談でも言わないでくれ	Geron	Don't even joke about it. As if I'd accept a single Cole from that jerk.	杰隆	就算是谢礼，我也不想让这种人施舍。\n别开玩笑了。	傑隆	別開玩笑了。\n就算是謝禮，我也不想收這種人的東西。
+Date_VILLAIN_A_04ID	42	Roman	ロマン	すまない……	Roman	My apologies. You're right...	罗曼	抱歉……	羅曼	抱歉……
+Date_VILLAIN_A_04ID	43	Roman	ロマン	だが、ここで苛立ってはだめだ。\n冷静になろう	Roman	But we mustn't let him egg us on. Let's just stay calm.	罗曼	不过，不能在这时候不耐烦，\n冷静点吧。	羅曼	但是，現在生氣也無濟於事。冷靜下來吧。
+Date_VILLAIN_A_04ID	44		貴族の男	二人でこそこそと何を話している！\n貴様ら、私に向かって無礼だぞ！	Nobleman	What are you insolent dogs yapping about over there? You would do well to show your superior more respect!	男性贵族	你们两个在那里说什么悄悄话呢！\n也太无礼了！	貴族男性	你們兩個鬼鬼祟祟地說什麼！\n竟敢不把我放在眼裡！
+Date_VILLAIN_A_04ID	45		貴族の男	獣のくせに……\nお前の家族もろくでもない獣なんだろうな	Nobleman	"Not that I'm surprised... Trash breeds trash. You filthy curs and the beasts you call ""family"" are all scum."	男性贵族	明明是头野兽……\n你家人也是废物一样的野兽吧。	貴族男性	區區一頭野獸……\n你的家人想必也是毫無價值的畜生吧。
+Date_VILLAIN_A_04ID	46	Geron	ジェロン	っ！	Geron	...!	杰隆	唔！	傑隆	唔！
+Date_VILLAIN_A_04ID	47	Roman	ロマン	待て、ジェロン！	Roman	Geron, wait!	罗曼	慢着，杰隆！	羅曼	等等，傑隆！
+Date_VILLAIN_A_04ID	48	Roman	ロマン	（ジェロンを止めなければ。\n　冷静にさせるには、どうすればいい……）	Roman	(I have to stop Geron before it's too late! But how can I calm him down?)	罗曼	（得阻止杰隆才行。\n　要怎么做才能让他冷静下来呢……）	羅曼	（必須阻止傑隆才行……\n　我該怎麼做，才能讓他冷靜下來……）
+Date_VILLAIN_A_04ID	49			ジェロンの立場を確認させる		Implore him to think things through		让杰隆认清自己的立场		讓傑隆認清自己的立場
+Date_VILLAIN_A_04ID	50	Roman	ロマン	君は自分の立場を分かっているのか？\nここで手を出したら……	Roman	This man is a noble—surely you know what will happen to you if you harm him!	罗曼	你明白自己的立场吗？\n如果在这里出手……	羅曼	你明白自己的立場嗎？要是在這裡出手……
+Date_VILLAIN_A_04ID	51	Geron	ジェロン	口に出したら、許されないものがある	Geron	There are certain things I won't let slide.	杰隆	有些话是不该说出口的。	傑隆	有些話，是絕對不能說出口的。
+Date_VILLAIN_A_04ID	52	Roman	ロマン	分かっているが、こらえてくれ	Roman	I know how you must feel, but please, don't do this!	罗曼	我明白，可你还是忍忍吧。	羅曼	我知道，但請你忍耐。
+Date_VILLAIN_A_04ID	53	Geron	ジェロン	……くそっ	Geron	Damn it...	杰隆	……可恶。	傑隆	……可惡。
+Date_VILLAIN_A_04ID	54			やめるよう強く言う		Command him to stop		强硬劝他放弃		厲聲制止
+Date_VILLAIN_A_04ID	55	Roman	ロマン	耐えろ、我慢しろ。\nここで手を出したら君の負けだ！	Roman	Geron, stop this at once! If you hurt him, you'll only be sinking to his level!	罗曼	忍住，别冲动。\n要是这时候动手，你就输了！	羅曼	忍耐，吞下去。現在出手的話，你就輸了！
+Date_VILLAIN_A_04ID	56	Geron	ジェロン	分かっている……だが！\nティムも馬鹿にするようなこいつの言葉が\n許せないんだ……！	Geron	You think I don't know that?! I know, but... I won't let anyone talk about my little brother that way!	杰隆	我明白……！\n可我不能允许他贬低提姆……！	傑隆	我知道……但是！\n他竟然連提姆一起侮辱，不可原諒……！
+Date_VILLAIN_A_04ID	57	Geron	ジェロン	なぜ、俺を止める。\n止められるべきは、\nあの野郎のほうじゃないのか……！	Geron	Why are you trying to stop me?! That disgrace over there is the one you should be yelling at, not me!	杰隆	你为什么要阻止我？\n你该阻止的应该是那家伙啊……！	傑隆	為何要阻止我？\n你該制止的是那混蛋才對吧……！
+Date_VILLAIN_A_04ID	58	Geron	ジェロン	……くそっ	Geron	Damn it...	杰隆	……可恶。	傑隆	……可惡。
+Date_VILLAIN_A_04ID	59			自分（ロマン）の正体を明かす		Reveal your true identity		表明自己（罗曼）的真实身份		表明自己（羅曼）的真實身分
+Date_VILLAIN_A_04ID	60	Roman	ロマン	（私が正体を明らかにすれば、\n　この貴族を黙らせられるうえ、\n　ジェロンも冷静に……）	Roman	(Revealing my true identity will surely shut this nobleman up in a hurry. Hopefully that will calm Geron down, too...)	罗曼	（只要表明我的真实身份，\n　不仅能让这个贵族闭嘴，\n　杰隆也能冷静下来……）	羅曼	（只要表明我的真實身分，\n　就能堵住這名貴族的嘴，\n　也能讓傑隆冷靜下來……）
+Date_VILLAIN_A_04ID	61	Roman	ロマン	（頭の布を取れば、さすがにこの男も\n　私がどこの誰なのか気づくだろう）	Roman	(If I remove my cowl, that should be enough for him to recognize me.)	罗曼	（只要取下头上的布，\n　这个男人肯定也会认出我是谁了吧。）	羅曼	（拿下帽子之後，\n　這個男人應該就會認出我是誰了。）
+Date_VILLAIN_A_04ID	62	Geron	ジェロン	おい！　それはやめておけ	Geron	Hey, what do you think you're doing?! Stop!	杰隆	喂，别这么做。	傑隆	喂！你別那樣做！
+Date_VILLAIN_A_04ID	63	Roman	ロマン	……だが、この男を黙らせるには、\nこれが一番効果的じゃないか	Roman	This is the best way I know to silence this fool.	罗曼	……但要想让那个男人闭嘴，\n用这招不是最有效吗？	羅曼	……可是，如果要讓這個男人閉嘴，\n這是最有效的辦法吧。
+Date_VILLAIN_A_04ID	64	Geron	ジェロン	だが、お前の正体が知れ渡る可能性がある	Geron	But if you do that, you could ruin your secret identity for good.	杰隆	可你的身份或许会暴露。	傑隆	不過，這樣可能會讓你的身分變得人盡皆知。
+Date_VILLAIN_A_04ID	65	Geron	ジェロン	……やれやれ、お前をいさめたことで、\n冷静になったな。阿呆らしい	Geron	Goodness. I lost my temper for a second, but that little stunt of yours just brought me back to my senses.	杰隆	……唉，这么一劝你，\n我也冷静下来了。实在是太蠢了。	傑隆	……真是的，勸過你之後，\n我居然自己冷靜多了。真像個傻子。
+Date_VILLAIN_A_04ID	66	Geron	ジェロン	こんな男のために、\n自分を犠牲にしなくていい	Geron	Don't sacrifice everything you've built for this pompous jerk.	杰隆	没必要为了这种人牺牲自己。	傑隆	你不必為了這種人犧牲自己。
+Date_VILLAIN_A_04ID	67	Roman	ロマン	……そうだね、ありがとう	Roman	You're right... Thank you.	罗曼	……也对，谢谢。	羅曼	……說的也是，謝謝你。
+Date_VILLAIN_A_04ID	68	Geron	ジェロン	こんな奴相手にしてられん。\n場所を移動するぞ	Geron	A man like him isn't worth our time anyway. Let's get out of here.	杰隆	别去搭理这种人了。\n我们去别的地方吧。	傑隆	別與他一般見識，我們換個地方吧。
+Date_VILLAIN_A_04ID	69	Geron	ジェロン	ここまで来ればいいか……\nさっきは助かった	Geron	Hopefully this is far enough away... Thanks for trying to stick up for me back there.	杰隆	来到这里就差不多了……\n刚才真是谢谢你了。	傑隆	到這裡應該就沒問題了……剛才真是謝謝你。
+Date_VILLAIN_A_04ID	70	Geron	ジェロン	だが、お前にも目的があって、\n今の姿で旅をしているんだろう	Geron	But you have your own goals, and your journey is far from over.	杰隆	可你打扮成这样旅行，\n也是有自己的目的的吧。	傑隆	你會打扮成這副模樣四處旅行，\n應該有你的理由吧？
+Date_VILLAIN_A_04ID	71	Geron	ジェロン	俺が言えたことじゃないが、\n自分の目的を犠牲にするようなことはするな	Geron	It might sound rich coming from me, but promise not to do anything rash. You can't jeopardize your dream.	杰隆	这不是我能插嘴的事，\n但我不希望你牺牲自己的目的。	傑隆	雖然這不是我該干涉的事，\n但不要輕易犧牲自己的目標。
+Date_VILLAIN_A_04ID	72	Roman	ロマン	ああ……ありがとう。\n君を冷静にするつもりだったんだが、\n私も思ったより頭にきていたみたいだ	Roman	Thank you, Geron. I was only trying to calm you down, but I ended up losing my temper instead.	罗曼	嗯……谢谢你的提醒。\n我原本是想劝你冷静，\n可我自己当时似乎也挺冲动的。	羅曼	好……謝謝你。\n本來打算要讓你冷靜下來的，\n結果我好像比自己想像的還要生氣。
+Date_VILLAIN_A_04ID	73	Roman	ロマン	むろん、あの貴族の顔は覚えた。身辺調査を\nさせて、しかるべき罰は受けさせるよ	Roman	But rest assured, I've memorized that man's face. I'll have him investigated and see to it that he answers for his misdeeds.	罗曼	当然了，我已经记下了贵族的那张脸。\n我会让人调查他的背景，让他受到应有的惩罚。	羅曼	當然，我已經記住了他的長相。\n我會派人調查他的背景，讓他得到應有的懲罰。
+Date_VILLAIN_A_04ID	74	Geron	ジェロン	ふっ、そうか……\n手合わせを再開しないか。\nあのあたりが開けていていいな	Geron	Heh, that's a relief... What do you say we pick up our sparring match where we left off before? We'd have plenty of space over there.	杰隆	呵，这样啊……\n那我们继续切磋吧？\n那附近挺开阔的，正好合适。	傑隆	呵，這樣啊……那我們繼續切磋吧，\n那邊看起來很空曠挺不錯的。
+Date_VILLAIN_A_04ID	75	Roman	ロマン	（彼は感情をなかなか表に出さないと\n　思っていたが……\n　心の中には譲れないものがあって）	Roman	(Geron usually isn't one to wear his heart on his sleeve, but there are just some things that he simply won't abide.)	罗曼	（我以为他不太表露情绪……\n　但他心中也有不可让步的事物。）	羅曼	（我還以為他不會表露出自己的情緒……\n　原來他心中也有無法退讓的事。）
+Date_VILLAIN_A_04ID	76	Roman	ロマン	（でも周りの人間のことも考えて行動できる\n　熱い男なんだな）	Roman	(He's a man of his convictions. But even when he's upset, he's always thinking of those around him.)	罗曼	（他是个热血男儿，\n　也会考虑周围人的情况再行动。）	羅曼	（但是他會顧慮周遭的人再行動，\n　真是個熱血男兒呢。）
+Date_VILLAIN_A_04ID	77	Roman	ロマン	ここを離れよう	Roman	Get him out of there	罗曼	离开这里	羅曼	離開這裡吧。
+Date_VILLAIN_A_04ID	78	Roman	ロマン	すまない。君に非はないんだが、\n場を収めるにはその場を去るのが最善かと\n思ったんだ	Roman	Forgive me, Geron. You're clearly not at fault, but this is about to get ugly. Our best course of action would be to leave now.	罗曼	抱歉，错不在你。\n但为了平息这场风波，\n离开这里才是上策。	羅曼	抱歉。你的想法沒有錯。\n但是為了讓事情和平收場，\n離開這裡是最好的選擇。
+Date_VILLAIN_A_04ID	79	Geron	ジェロン	ああ……	Geron	Fine...	杰隆	好吧……	傑隆	嗯……
+Date_VILLAIN_A_04ID	80	Geron	ジェロン	悪いが、今日はもう帰らせてもらう	Geron	Sorry, but I've had enough for today. I'm going home.	杰隆	不好意思，那我今天就先回去了。	傑隆	不好意思，我今天就先走了。
+Date_VILLAIN_A_04ID	81	Roman	ロマン	あ、ああ。わかった	Roman	Very well, I... I understand.	罗曼	好、好的，我明白。	羅曼	啊、好，我知道了。
+Date_VILLAIN_A_04ID	82	Roman	ロマン	(さっきの貴族の顔は覚えた。身辺調査を\nさせて、しかるべき罰は与えるとして)	Roman	(I've memorized that man's face. I'll have him investigated and see to it that he answers for his abuse.)	罗曼	(我已经记下了贵族的那张脸。\n　我会让人调查他的背景，让他受到应有的惩罚。）	羅曼	（我記住了剛才那名貴族的長相，\n　打算派人調查他的背景，讓他得到應有的懲罰。）
+Date_VILLAIN_A_04ID	83	Roman	ロマン	（彼にとってたった一人の家族である弟は\n　かけがえのない大切な存在なんだ）	Roman	(Geron's brother is the most important person in the world to him.)	罗曼	（对他来说，弟弟是他唯一的家人，\n　是无可替代的重要人物。）	羅曼	（對他而言，弟弟是唯一的家人，\n　也是無法取代的至親。）
+Date_VILLAIN_A_04ID	84	Roman	ロマン	（それを馬鹿にするようなことを言われて\n　許せるわけがないよな……）	Roman	(There's no way he would tolerate such disrespect for the only family member he has left.)	罗曼	（那人这样侮辱他的弟弟，\n　他肯定是饶不了他的……）	羅曼	（最重視的人受到侮辱，\n　他當然不會輕易原諒……）
+Date_VILLAIN_A_05ID	0	Roman	ロマン	（ふぅ、今日も疲れたな。\n　天気がいいから、昼寝でも……）	Roman	(Phew, what a day. But the weather is lovely. An afternoon nap might be in order...)	罗曼	（呼……今天也很累了。\n　天气不错，要不睡个午觉……）	羅曼	（呼，今天也好累。\n　反正天氣不錯，來睡個午覺吧……）
+Date_VILLAIN_A_05ID	1	Roman	ロマン	（おや？　私のお気に入りの場所に\n　先客が……）	Roman	(What's this? Someone else has already claimed my favorite napping spot!)	罗曼	（咦？我心爱的午睡地点\n　已经有人捷足先登……）	羅曼	（哎呀？我最喜歡的地方已經有人了……）
+Date_VILLAIN_A_05ID	2	Roman	ロマン	ジェロンじゃないか！	Roman	Oh, Geron! It's you!	罗曼	这不是杰隆嘛！	羅曼	這不是傑隆嗎！？
+Date_VILLAIN_A_05ID	3	Geron	ジェロン	……ロマンか。なんか用か	Geron	Roman... Is something wrong?	杰隆	……是罗曼啊，找我有什么事？	傑隆	……是羅曼啊，有事嗎？
+Date_VILLAIN_A_05ID	4	Roman	ロマン	いや。たまたま昼寝しに来たら、\n君がいたってだけさ	Roman	Ah, no. I actually just came here for a little nap, and here you were!	罗曼	没什么，我就是碰巧来这里午睡，\n没想到你也在。	羅曼	沒有。我只是來睡午覺的，誰知遇見了你。
+Date_VILLAIN_A_05ID	5	Roman	ロマン	この場所を知っているなんて……\nもしかして君は相当な昼寝通だな？	Roman	But wait, since you know this spot...does that mean you're an avid napper, too?	罗曼	你居然知道这个好地方……\n难道你也是午睡能手？	羅曼	你居然知道這裡……\n難道你也是經驗豐富的午睡專家嗎？
+Date_VILLAIN_A_05ID	6	Geron	ジェロン	ああ。寝ることは好きだ。ここもお気に入りだ。\n……お前もか？	Geron	I am, and this spot is my favorite. I can't resist a good nap. Sounds like you can't, either.	杰隆	是的。我很爱午睡，也爱睡在这里。\n……你也是吗？	傑隆	嗯，我喜歡睡覺，也挺愛在這裡休息的。\n……你也是嗎？
+Date_VILLAIN_A_05ID	7	Roman	ロマン	ああ！　頑張って働いた後はよく食べてよく眠る、\nこれに限るね。……隣いいかい？	Roman	Guilty as charged! After a hard day, there's nothing better than a delicious meal and a nice, long snooze. Mind if I take that spot next to you?	罗曼	是啊！努力工作后好好吃一顿再睡上一觉，\n最幸福的事莫过于此……我能睡在你边上吗？	羅曼	沒錯！辛勤工作之後就是要大吃一頓，好好睡一覺，\n這才是最重要的……可以坐你旁邊嗎？
+Date_VILLAIN_A_05ID	8	Geron	ジェロン	ああ	Geron	Go ahead.	杰隆	可以。	傑隆	嗯。
+Date_VILLAIN_A_05ID	9	Roman	ロマン	そういえば、この間君の調書を読んで\n気づいたんだが、\n私たちは同い年らしいじゃないか！	Roman	Guess what! While I was looking over your dossier, I noticed that we were the same age.	罗曼	说起来，我之前看了你的调查档案才注意到，\n原来我们是同一年出生的！	羅曼	對了，上次看過你的調查報告，\n我才發現原來我們的年紀一樣大嘛！
+Date_VILLAIN_A_05ID	10	Geron	ジェロン	……そうなのか？	Geron	...Really?	杰隆	……是吗？	傑隆	……是這樣嗎？
+Date_VILLAIN_A_05ID	11	Roman	ロマン	なんだいその間は。\n私が幼く見えるとでも言うのかい？	Roman	Hey, why are you so surprised?! Do you mean to imply that I seem much younger?	罗曼	你沉默这么久做什么，\n是觉得我看起来年纪小吗？	羅曼	你那短暫的沉默是怎樣，\n難道你覺得我看起來比你小嗎？
+Date_VILLAIN_A_05ID	12	Geron	ジェロン	ああ。正直驚いた	Geron	Well... To be honest, yeah.	杰隆	是啊，我有被吓到。	傑隆	嗯，坦白說我很吃驚。
+Date_VILLAIN_A_05ID	13	Roman	ロマン	君の言葉には嫌みがないな！\nまあ、いいさ。私が言いたいのは、\n私たちには共通点が多いということさ	Roman	So you weren't joking after all! Oh well. Anyway, what I'm trying to say is that we have a lot in common.	罗曼	你的话里没有恶意！倒也没什么，\n我只想说我们之间有许多相似之处。	羅曼	居然一臉真誠地說出這種話！\n唉，算了。我想說的是，\n其實我們倆有很多共同點呢。
+Date_VILLAIN_A_05ID	14	Geron	ジェロン	……年齢と、寝ることが好きだということ、\nあとは剣が得意なことか？	Geron	You mean...because we're both the same age and like naps? I guess we both wield swords, too.	杰隆	……我们年龄一样，都爱睡觉，\n然后就是都很擅长用剑？	傑隆	……你是指年紀、喜歡睡覺和擅長劍術嗎？
+Date_VILLAIN_A_05ID	15	Roman	ロマン	ああ。男前なところもね	Roman	Exactly. Plus, we're both ridiculously attractive.	罗曼	是啊，而且都很有男子气概。	羅曼	嗯，還有帥氣十足。
+Date_VILLAIN_A_05ID	16	Geron	ジェロン	そんなこと言うのはお前くらいだ。\n俺は容姿にこだわりはない……それに\n明るく人好きするお前とは違うだろう	Geron	Now you're putting words in my mouth. I don't care one bit about my appearance. Besides, you're way friendlier than me.	杰隆	也就只有你会这么说了。\n我不在意外貌……而且你性格开朗讨人喜欢，\n我跟你不一样吧。	傑隆	會這樣說的大概就只有你。\n我不太注重外表……\n而且，我不像你這麼開朗又討人喜歡。
+Date_VILLAIN_A_05ID	17	Roman	ロマン	なにも男前は容姿だけの話じゃない。\n君には君の、男前があるのさ。\nあとは、兄弟がいることも共通点だね	Roman	Being attractive isn't all about looks, you know. You have a certain charm all your own. Oh, and another thing! We both have siblings.	罗曼	男子气概指的可不光是外貌。\n你也有属于你的男子气概。\n还有就是，我们都有兄弟。	羅曼	帥氣並不只有長相，\n你也有你帥氣的地方。\n還有一點，我們都有兄弟。
+Date_VILLAIN_A_05ID	18	Geron	ジェロン	俺にはティム……弟だけだが、\nお前にも、兄弟達がいると言っていたな	Geron	Right, I have Tim. And you've got three siblings, too.	杰隆	我有提姆……我只有这一个弟弟，\n我记得你说过，你也有兄弟姐妹。	傑隆	我只有提姆一個弟弟……\n我記得你也說過，自己有個弟弟和哥哥。
+Date_VILLAIN_A_05ID	19	Roman	ロマン	ああ。だから兄と弟、どちらの目線の\n考え方も理解できる。\n兄弟事の相談は任せてくれたまえ	Roman	And since I'm a middle child, I understand how both younger and older siblings think and feel. So I'd be happy to lend an ear regarding any sibling troubles.	罗曼	没错。\n所以我能理解兄弟双方的立场。\n想聊兄弟之间的事就尽管来找我吧。	羅曼	是啊，所以我能站在哥哥\n和弟弟的角度去思考。\n這方面的煩惱就儘管交給我吧。
+Date_VILLAIN_A_05ID	20	Geron	ジェロン	頼りにさせてもらう	Geron	Then I'll count on you when I need a little perspective.	杰隆	我会的。	傑隆	那就靠你了。
+Date_VILLAIN_A_05ID	21	Geron	ジェロン	……ロマン。お前にとっての錬金術はなんだ	Geron	Roman... What does alchemy mean to you?	杰隆	……罗曼，对你来说炼金术意味着什么？	傑隆	……羅曼，對你來說，鍊金術是什麼？
+Date_VILLAIN_A_05ID	22	Roman	ロマン	私にとって……	Roman	To me?	罗曼	对我来说……	羅曼	對我來說嗎……
+Date_VILLAIN_A_05ID	23	Geron	ジェロン	ああ。俺にとっては、ティムのためにも\n手放すことができないもので、\n俺たち兄弟にとっての……希望だ	Geron	Alchemy is something I need. For Tim's sake. It's what gives us both hope.	杰隆	嗯。对我来说，就算是为了提姆，\n我也不能放弃炼金术。\n那对我们兄弟来说……就是希望。	傑隆	沒錯。對我而言，\n它是提姆不可或缺的東西。\n是我們兄弟倆的……希望。
+Date_VILLAIN_A_05ID	24	Geron	ジェロン	錬金術が廃れてしまうのは困る。だから、\nこの国の重要な立場にいるお前の考えを\n改めて聞きたいんだ	Geron	That's why I can't let alchemy disappear from this world. But since you're in a position of power, I was wondering what you believe.	杰隆	炼金术要是就此荒废可就糟了。\n所以，我想再问问你的意见，\n毕竟你的立场在这个国家举足轻重。	傑隆	鍊金術沒落的話可就麻煩了。\n所以，你身為這個國家的重要人物，\n我想再次問問你的想法。
+Date_VILLAIN_A_05ID	25	Roman	ロマン	私は錬金術を扱えないが……\n私にとっても錬金術は「希望」だ。\n復活させたいと思っている	Roman	I may not be able to use alchemy myself, but it's my source of hope too. That's why I want to help it flourish.	罗曼	我不会用炼金术……\n但对我来说炼金术也是“希望”。\n我想重振炼金术。	羅曼	雖然我無法使用鍊金術……\n但對我而言，鍊金術是「希望」。\n我想要復興這個國家的鍊金術。
+Date_VILLAIN_A_05ID	26	Roman	ロマン	錬金術で国を繁栄させたいのさ。\n一人一人の幸福度をあげたい、と思っている	Roman	Alchemy can help this land prosper. I want to use it to bring happiness to every one of this kingdom's subjects.	罗曼	我想用炼金术让国家繁荣富强，\n让每一个人都过得幸福。	羅曼	我認為鍊金術能促進國家繁榮，\n讓每一位人民變得更加幸福。
+Date_VILLAIN_A_05ID	27	Roman	ロマン	だが錬金術士ではない私一人では\nどうにもならない。だから、錬金術士の\n助けが一人でも多く欲しいんだ	Roman	Unfortunately, I can't harness its power myself. That's why I need all of the help I can get from alchemists like you.	罗曼	但我都不是炼金术士，是做不了什么的，\n所以我想得到炼金术士的更多帮助，\n哪怕多一个人也好。	羅曼	但是，單靠我一個普通人什麼也做不到。\n所以我需要更多鍊金術士的幫忙。
+Date_VILLAIN_A_05ID	28	Geron	ジェロン	俺にできることなら力を貸そう。\n……その答えが聞けて良かった。\nティムのためにも	Geron	I'm glad to hear that. Just know that I'll do whatever I can to help. After all, your dream will help my brother, too.	杰隆	如果有我能帮上忙的就尽管说吧。\n很高兴能听到你的回答，\n你这样做也能帮上提姆。	傑隆	……能聽見你這麼說真是太好了。\n為了提姆，我願意盡己所能助你一臂之力。
+Date_VILLAIN_A_05ID	29	Roman	ロマン	ああ。ありがとう	Roman	Thank you, I truly appreciate it.	罗曼	嗯，谢谢你。	羅曼	嗯，謝謝你。
+Date_VILLAIN_A_05ID	30	Roman	ロマン	この数日で、ジェロンのことをよく知れた\n気がするな。君は、私が思っていたより\n熱い男なんだってことをね	Roman	It's only been a few days, but I feel like I know you so much better now. You're far more passionate than I thought you to be.	罗曼	通过这几天的相处，\n我觉得对你了解得更深入了。\n你比我想得还要热血啊。	羅曼	經過這幾天，我好像更了解你這個人了。\n你其實遠比我想像中的還要來得熱血呢。
+Date_VILLAIN_A_05ID	31	Geron	ジェロン	それは俺もだ。お前には力があるが、\nただそれを振りかざすだけの奴らとは違う	Geron	I could say the same about you. Unlike those power-hungry tyrants, you actually want to use your status to help others.	杰隆	我也这么想。你虽然有权势，\n但并不会跟别人一样仗势欺人。	傑隆	我也是。你雖然擁有力量，\n但是跟那些濫用權力的人完全不同。
+Date_VILLAIN_A_05ID	32	Geron	ジェロン	お前には感謝している。\nこれからも世話になる	Geron	Thank you for everything. I'm glad to have a friend like you.	杰隆	我很感谢你，\n今后也请你多担待了。	傑隆	我很感謝你，今後也要請你多多關照了。
+Date_VILLAIN_A_05ID	33	Roman	ロマン	ああ、こちらこそよろしく頼むよ！	Roman	You took the words right out of my mouth!	罗曼	好，请多多关照！	羅曼	嗯，我才要請你多多指教！
+Date_VILLAIN_A_05ID	34	Roman	ロマン	そうだ。\nこの間君に酷い言葉をかけた男だが、\n彼の処遇は私の方で決めさせてもらったよ	Roman	Oh, and by the way—I've already dealt with the nobleman who disrespected you and your family.	罗曼	对了。\n你还记得之前说你坏话的那个人吧？\n我已经惩治他了。	羅曼	對了，關於上次侮辱你的那個男人，\n我已經決定好該如何處置他了。
+Date_VILLAIN_A_05ID	35	Roman	ロマン	もう二度と会うことはないだろう。\n彼の身辺を調査した結果の、判断さ	Roman	When we investigated him, we uncovered numerous misdeeds. I imagine you'll see neither hide nor tail of him for a long time.	罗曼	你应该不会再遇见他了。\n这是我调查过他的背景后得出的判断。	羅曼	你永遠不會再見到他了吧。\n這是根據他的調查結果做出的決定。
+Date_VILLAIN_A_05ID	36	Geron	ジェロン	そうか……あの時は俺を止めてくれて\n本当に助かった。俺はもう、\nティムのためにも道を違えられない	Geron	Serves him right... But thanks for stopping me from doing something I'd regret. I can't do anything to let Tim down.	杰隆	是吗……我很感谢你当时阻止了我。\n我已经不会误入歧途了，\n这也是为了提姆。	傑隆	這樣啊……當時你拚命阻止我，真的幫了很大的忙。\n為了提姆，我不能一錯再錯了。
+Date_VILLAIN_A_05ID	37	Roman	ロマン	私の目が黒いうちは、\n君に道を違えさせはしないよ	Roman	If ever you lose your way, I'll be there to keep you on the right path.	罗曼	在我有生之年，\n我是不会让你误入歧途的。	羅曼	只要我還活著，就不會讓你步入歧途。
+Date_VILLAIN_A_05ID	38	Roman	ロマン	そうだ。今度、私も君の弟、ティムに\n会いに行っていいかい？	Roman	And one more thing... If it's all right with you, I'd like to visit your brother.	罗曼	对了，下次能让我见见你的弟弟提姆吗？	羅曼	對了，下次我可以跟你一起去見見提姆嗎？
+Date_VILLAIN_A_05ID	39	Geron	ジェロン	ああ。ティムもきっと喜ぶだろう。\n……楽しみにしている	Geron	Sure, Tim would love that. The two of us will be looking forward to it.	杰隆	好啊，提姆肯定也会很开心的。\n……我很期待你来做客。	傑隆	好啊，他一定會很高興的……\n期待那天的到來。
+Date_VILLAIN_A_05ID	40	Roman	ロマン	（私は彼の友人として、彼ら兄弟が\n　不自由なく過ごせる国を実現したいものだ）	Roman	(As Geron's friend, it's my responsibility to make this kingdom a wonderful place for him and his brother to live.)	罗曼	（作为他的朋友，我也希望建立一个\n　能让他们兄弟平安度日的国家。）	羅曼	（身為他的朋友，我一定要為他們\n　打造一個可以自在生活的國家。）

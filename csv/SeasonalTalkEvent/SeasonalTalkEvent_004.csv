@@ -1,0 +1,490 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_004_001ID	0	Marion	マリオン	エスカちゃん、お疲れさま。\n調査の内容はこれでバッチリよ	Marion	Well done, Escha. Everything looks perfect.	玛丽翁	爱丝卡，辛苦了。\n你的调查结果相当充分。	瑪麗翁	愛絲卡，辛苦妳了。\n調查內容這樣就很完美囉。
+SeasonalTalkEvent_004_001ID	1	Escha	エスカ	ふぅ。よかったです！	Escha	Phew. I'm glad I could help!	爱丝卡	呼，那就太好了！	愛絲卡	呼～太好了！
+SeasonalTalkEvent_004_001ID	2	Marion	マリオン	たまにはゆっくり休んでちょうだい。\nこのところ調査で忙しかったでしょ？	Marion	Please make sure you're getting enough rest, though. I know how busy you are with your research these days.	玛丽翁	有时间就好好休息一下吧。\n最近你为了调查不是一直忙得不可开交吗？	瑪麗翁	妳偶爾也好好休息一下吧。\n這陣子妳都在忙著調查吧？
+SeasonalTalkEvent_004_001ID	3	Escha	エスカ	ありがとうございます。\nじゃあ、息抜きに甘いものでも作ろうかなぁ……	Escha	I appreciate it. In that case, maybe I'll reward myself by baking myself a sweet treat...	爱丝卡	谢谢关心。\n那我要不要来做点甜食当消遣呢……	愛絲卡	謝謝妳。\n那我就休息一下，來做些甜點好了……
+SeasonalTalkEvent_004_001ID	4	Marion	マリオン	そう言えば、リンデマン菓子祭りって知ってる？\nこの世界の慣習だそうなんだけど	Marion	Speaking of treats, have you ever heard of the Lindemann Sweets Festival? I hear it's an old tradition in this world.	玛丽翁	这么说来，你知不知道林德曼点心节？\n好像是这个世界的传统节日。	瑪麗翁	對了，妳知道林德曼點心祭嗎？\n聽說是這個世界的習俗呢。
+SeasonalTalkEvent_004_001ID	5	Escha	エスカ	リンデマン、ですか？	Escha	Lindemann...?	爱丝卡	林德曼？	愛絲卡	林德曼，是嗎？
+SeasonalTalkEvent_004_001ID	6	Marion	マリオン	リンデマンっていう人の名前に由来するそうよ。\nランターナ王国で昔から続くお祭りなんですって	Marion	Lindemann is the person the festival was named after. Apparently, the Kingdom of Lantarna has celebrated the holiday since antiquity.	玛丽翁	听说节日的名字是来源于一位叫林德曼的人。\n这是兰塔纳王国历史悠久的节日。	瑪麗翁	林德曼是源自於人名的樣子，\n聽說是蘭塔納王國從以前流傳至今的祭典。
+SeasonalTalkEvent_004_001ID	7	Marion	マリオン	なんでも、大切な人にチョコを贈るお祭りだそうよ。\nその日がちょうど、もうじきなのよね	Marion	On the day of the festival, people give chocolates to those they hold dear. And that day is drawing near.	玛丽翁	而且听说在这个节日，人们还会给重要的人送巧克力哦。\n正好马上就是林德曼点心节了。	瑪麗翁	大家好像都會在這個祭典送巧克力給重要的人。\n剛好這個節日馬上就要到了呢。
+SeasonalTalkEvent_004_001ID	8	Escha	エスカ	大切な人にチョコを……素敵ですね！	Escha	A day to give chocolates to the most important people in your life... How wonderful!	爱丝卡	给重要的人送巧克力……真不错啊！	愛絲卡	送巧克力給重要的人……感覺好棒喔！
+SeasonalTalkEvent_004_001ID	9	Marion	マリオン	でしょ？　私もリンカに贈るつもりなの。\nいつもお世話になってるからね	Marion	Isn't it? I've actually been planning on giving chocolates to Linca. She's always helping me, so I want her to know how grateful I am.	玛丽翁	对吧？我也打算送给琳卡，\n借此机会感谢她长期以来的关照。	瑪麗翁	對吧？我也打算要送琳卡。\n畢竟她總是很照顧我。
+SeasonalTalkEvent_004_001ID	10	Marion	マリオン	エスカちゃん、お菓子作り得意じゃない。\nまた、誰かに作って渡してみたら	Marion	You're quite talented in the kitchen, aren't you, Escha? Perhaps you should share your creations with someone else.	玛丽翁	爱丝卡你很擅长做点心吧。\n要不要再做一点送给谁呢？	瑪麗翁	愛絲卡，妳不是很擅長做點心嗎？\n再試著做一些送人怎麼樣？
+SeasonalTalkEvent_004_001ID	11	Escha	エスカ	うーん、そうですね。どうしようかな……	Escha	Well, I don't know if I'm all that great, but...maybe I could.	爱丝卡	唔——是哦，我想想……	愛絲卡	唔～妳說得對。那我該做什麼樣的呢……
+SeasonalTalkEvent_004_001ID	12	Escha	エスカ	（いつもお世話になってる大切な人……）	Escha	(Hmm. A special someone I'm grateful for...)	爱丝卡	（一直关照我，对我来说重要的人……）	愛絲卡	（總是照顧著我又很重要的人……）
+SeasonalTalkEvent_004_001ID	13	Escha	エスカ	（ロジーさんに贈ったら、喜んでもらえるかな？）	Escha	(I wonder if Logy likes sweets.)	爱丝卡	（要是送给罗吉先生，他会不会开心呢？）	愛絲卡	（如果送給羅吉先生，他會覺得開心嗎？）
+SeasonalTalkEvent_004_001ID	14	Marion	マリオン	ふふ。エスカちゃんの手作りチョコなら、\n喜んでもらえること間違いなしよ	Marion	Hehe. Anyone would be happy to receive your homemade sweets, Escha. There's no doubt about that.	玛丽翁	呵呵，要是能收到爱丝卡亲手做的巧克力，\n任谁都会开心的。	瑪麗翁	呵呵，如果收到愛絲卡妳親手做的巧克力，\n對方一定會很開心的。
+SeasonalTalkEvent_004_001ID	15	Escha	エスカ	はい、決めました！　リンデマン菓子祭りでチョコを\n渡そうと思います。いつもお世話になっている――	Escha	Then I'll give it a try! The Lindemann Sweets Festival would be the perfect chance to show my appreciation. I'm going to give my chocolate to—	爱丝卡	好，我决定了！我也想在林德曼点心节上\n送巧克力给一个人，就是平时一直关照我的——	愛絲卡	好，決定了！我要在林德曼點心祭時送出巧克力。\n我要送給一直很照顧我的──
+SeasonalTalkEvent_004_001ID	16	Logy	ロジー	リンデマン？\nそれって頂獣の逸話に出てくるリンデマンか？	Logy	Did you say Lindemann? The one from the legend of the Apexi?	罗吉	林德曼？\n是顶兽的传说里提到的那个林德曼吗？	羅吉	林德曼？\n妳是說在頂獸的逸事中出現的林德曼嗎？
+SeasonalTalkEvent_004_001ID	17	Escha	エスカ	わ、ロジーさん！？　頂獣の逸話って……？	Escha	Oh, L-Logy! Um... Legend? What do you mean?	爱丝卡	哇，罗吉先生？！顶兽的传说是什么……？	愛絲卡	哇，羅吉先生！？頂獸的逸事是指……？
+SeasonalTalkEvent_004_001ID	18	Logy	ロジー	ランターナ王国が成り立ってすぐ、北の果ての\n雪山に、強力な魔物……頂獣が発見された	Logy	Around the time that the Kingdom of Lantarna was founded, terrifying beasts were discovered in the frozen reaches of the northern mountains: the Apexi.	罗吉	兰塔纳王国建立不久后，在遥远北方的雪山上，\n发现了强大的魔物……也就是顶兽。	羅吉	蘭塔納王國成立之初，就在北方盡頭的雪山中\n發現了強大的魔物……頂獸。
+SeasonalTalkEvent_004_001ID	19	Logy	ロジー	頂獣討伐へ出向く騎士と家族や恋人の別れに\n心を痛めたリンデマンという人がいてさ	Logy	A group of knights was sent to defeat them. Their friends and family had to see them off, not knowing whether they would come back.	罗吉	目睹了要去讨伐顶兽的骑士和家人以及恋人分别，\n这位叫林德曼的人感到万分痛心。	羅吉	騎士為前往討伐頂獸而不得不與家人和戀人告別，\n有位叫做林德曼的人為此感到痛心。
+SeasonalTalkEvent_004_001ID	20	Logy	ロジー	そんな家族や恋人が騎士の無事を祈る贈り物として\nチョコを広めたらしいんだ	Logy	Lindemann was one of them. Praying for their safe return, Lindemann gave out chocolates to the departing knights.	罗吉	于是他广为建议骑士们的家人和恋人\n送给骑士巧克力以祈求平安。	羅吉	於是他推廣把巧克力當作禮物，\n讓這些家人與戀人送給騎士，以祈求他們一路平安。
+SeasonalTalkEvent_004_001ID	21	Escha	エスカ	なるほど……チョコレートは\n疲労回復、滋養強壮の効果がありますもんね	Escha	It all makes sense now. Lindemann probably knew that chocolate was nutritious and energizing.	爱丝卡	原来是这样……巧克力有恢复疲劳、滋补身体的效果，\n确实很适合送给出征的骑士。	愛絲卡	原來如此……畢竟巧克力有消除疲勞、\n滋養強身的效果嘛。
+SeasonalTalkEvent_004_001ID	22	Logy	ロジー	結局、辺境に棲息している頂獣は倒すことができず\nやつらの領域には干渉しないことに決まったようだが	Logy	In the end, the knights were unable to defeat the Apexi and they decided it would be best not to encroach on their territory.	罗吉	但讨伐者最终还是没能打倒栖息在边境的顶兽，\n王国决定不再涉足它们的地盘。	羅吉	結果，騎士們似乎沒能打倒棲息於邊境的頂獸，\n於是他們決定不再干涉頂獸的領域。
+SeasonalTalkEvent_004_001ID	23	Logy	ロジー	チョコレートを所持していたおかげで、過酷な\n雪山を乗り切った騎士も多いと語り継がれているんだ	Logy	But many of the knights survived the harrowing journey across the snowcapped mountains, owing thanks to the chocolate they had received.	罗吉	相传有许多骑士正因为带有巧克力，\n而最终在严酷的雪山环境中坚持了下来。	羅吉	據說有許多騎士因為攜帶了巧克力，\n才得以撐過雪山嚴酷的環境。
+SeasonalTalkEvent_004_001ID	24	Marion	マリオン	それが形を変えて残ったのが、\n今の時代のリンデマン菓子祭りということね	Marion	And that's where the tradition of chocolate-giving came from—and why they now have the Lindemann Sweets Festival.	玛丽翁	也就是说，故事改变了形式流传至今，\n就变成了现在的林德曼点心节是吧。	瑪麗翁	而這樣的行為改變形式流傳下來後，\n就成了現今的林德曼點心祭。
+SeasonalTalkEvent_004_001ID	25	Logy	ロジー	はい。祭りのことを略してそのまま\nリンデ祭というとか	Logy	Right. But it's a bit of a mouthful, so most people just call it the Linde Festival.	罗吉	对，也有人直接简称它为林德节。	羅吉	是的，他們直接把這個祭典\n簡稱為林德祭。
+SeasonalTalkEvent_004_001ID	26	Marion	マリオン	……ところで、ロジー君は報告をしに\n戻ってきてくれたのかしら？	Marion	By the way, Logy. Now that you're back, does that mean you have something new to report?	玛丽翁	对了……罗吉，你是回来提交报告的吧？	瑪麗翁	……話說回來，\n羅吉你是回來報告的嗎？
+SeasonalTalkEvent_004_001ID	27	Logy	ロジー	そうでした。報告なんですが――	Logy	Oh, that's right. I haven't made my report yet.	罗吉	差点忘了，关于报告——	羅吉	對喔，關於報告──
+SeasonalTalkEvent_004_001ID	28	Escha	エスカ	あ、じゃあわたしはこれで……	Escha	Well, then. I'll leave you to it.	爱丝卡	啊，那我先告辞了……	愛絲卡	啊，那我就先告辭了……
+SeasonalTalkEvent_004_001ID	29	Marion	マリオン	お疲れさま。少しはのんびりしてね。\nあとはリンデ祭も楽しむのよ！	Marion	Thank you, Escha. Do get some rest. We have the Linde Festival to look forward to, after all!	玛丽翁	辛苦了，好好放松一下吧。\n林德节也要过得开心哦！	瑪麗翁	辛苦了，妳就稍微放鬆一下吧。\n接下來還要享受林德祭呢！
+SeasonalTalkEvent_004_001ID	30	Escha	エスカ	はい！　\nマリオンさんとロジーさんも頑張ってください	Escha	Right! Take care, both of you!	爱丝卡	好的！\n玛丽翁小姐和罗吉先生也请加油！	愛絲卡	好的！\n瑪麗翁小姐和羅吉先生也請加油！
+SeasonalTalkEvent_004_001ID	31	Logy	ロジー	エスカ、少し待っててくれるか？\n報告が終わったらお茶でもしに行こう	Logy	Escha, could you wait for me? I was thinking we could go and get some tea after I finish my report.	罗吉	爱丝卡，能不能稍微等我一下？\n等我报告完之后一起去喝个茶吧。	羅吉	愛絲卡，妳可以等我一下嗎？\n報告結束後，我們去喝杯茶吧。
+SeasonalTalkEvent_004_001ID	32	Escha	エスカ	あっ、はい！	Escha	Oh, of course!	爱丝卡	啊，好的！	愛絲卡	啊，好的！
+SeasonalTalkEvent_004_001ID	33	Logy	ロジー	早速ですが、あの地域の鉱物は――	Logy	Allow me to begin. My investigation revealed that the mineral deposits in that region are...	罗吉	那我就直奔主题了，那片地区的矿物——	羅吉	直接進入正題，那個地區的礦物──
+SeasonalTalkEvent_004_001ID	34	Escha	エスカ	（さすがだなぁ、ロジーさん）	Escha	(Logy is so dependable...)	爱丝卡	（罗吉先生真是厉害。）	愛絲卡	（真不愧是羅吉先生～）
+SeasonalTalkEvent_004_001ID	35	Escha	エスカ	（うん！　ロジーさんにチョコを贈ろう！）	Escha	(That's why he's the perfect person to give chocolate to!)	爱丝卡	（嗯！我要把巧克力送给罗吉先生！）	愛絲卡	（嗯！我就送巧克力給羅吉先生吧！）
+SeasonalTalkEvent_004_001ID	36	Escha Malier	エスカ・メーリエ	お菓子作りが得意で、努力家な錬金術士。\n錬金術を使って人の役に立ちたいと考えている	Escha Malier	A hard-working alchemist with a talent for making sweets. She is always looking for ways to use her skills to help those in need.	爱丝卡·梅莉耶	擅长做点心，努力勤奋的炼金术士。\n一心希望用炼金术帮助人们。	愛絲卡‧梅莉耶	勤奮努力的鍊金術士，擅長做點心。\n希望能使用鍊金術來幫助人們。
+SeasonalTalkEvent_004_001ID	37	Logix Ficsario	ロジックス・フィクサリオ	通称「ロジー」。冷静な性格だが世話焼き。\nエスカとは同僚であり、尊敬しあう仲である	Logix Ficsario	"A laid-back and helpful man who is most commonly known as ""Logy."" He and Escha are colleagues with great respect for one another."	罗吉克斯·菲克萨立欧	人称“罗吉”，性格冷静但很爱照顾人。\n是爱丝卡的同事，与她互相尊敬。	羅吉克斯‧菲克薩立歐	通稱「羅吉」，性格冷靜卻很照顧人。\n和愛絲卡是同事，彼此互相尊敬。
+SeasonalTalkEvent_004_001ID	38	Marion Quinn	マリオン・クィン	コルセイトという街で働いていた役人。エスカと\nロジーは部下にあたる。仕事人間だが、親切な性格	Marion Quinn	An official who worked for the town of Colseit. Escha and Logy are her subordinates, and though she can obsess over her work, she has a kind heart.	玛丽翁·昆恩	在小镇科尔先特工作的公务员。爱丝卡和罗吉\n是她的下属。是个工作狂，但待人亲切。	瑪麗翁‧昆恩	在柯爾塞特鎮工作的官員，\n愛絲卡和羅吉為其部下，雖然是個工作狂，但性格親切。
+SeasonalTalkEvent_004_002ID	0		オルペウス	このたびは、よくやってくれた。\n二人の働きで、街道の魔物が一掃できたぞ	Orpheus	Well done, you two. Thanks to your efforts, the roads are clear of monsters once again.	奥菲斯	这次你们做得很好。\n多亏你们二位，街道上的魔物都已尽数解决了。	奧菲斯	這次你們做得很好。\n多虧你們的努力，才順利殲滅了街道上的魔物。
+SeasonalTalkEvent_004_002ID	1	Roman	ロマン	兄上のお役に立てたのなら、本望ですよ	Roman	It's an honor to be of service, Orpheus.	罗曼	能帮上哥哥的忙是我的荣幸。	羅曼	如果有幫上兄長大人的忙，我就很滿足了。
+SeasonalTalkEvent_004_002ID	2		オルペウス	実際、お前たちの働きは目覚ましい。\nリヒャルト、ユナ。時に……	Orpheus	Your work together is truly quite remarkable. Now, there's one more thing before you go. Richard, Juna...	奥菲斯	你们的表现着实出色。\n话说回来，理查德、尤娜……	奧菲斯	理查德、尤娜，你們真的表現得非常出色。\n話說回來……
+SeasonalTalkEvent_004_002ID	3		オルペウス	リンデ祭が近いな	Orpheus	...The Linde Festival is coming up.	奥菲斯	林德节快要到了。	奧菲斯	林德祭就快到了呢。
+SeasonalTalkEvent_004_002ID	4	Roman	ロマン	兄上からリンデ祭という甘い言葉が出るとは	Roman	I certainly hadn't expected those words to come out of your mouth.	罗曼	没想到能从哥哥口中听到林德节这么甜蜜的词。	羅曼	兄長大人竟然會說出林德祭這麼帶甜味的詞。
+SeasonalTalkEvent_004_002ID	5		オルペウス	そろそろお前に恋人ができて、\nチョコをもらったりはしないのか、と思ってな	Orpheus	Isn't it about time that you found a special someone? I wouldn't be surprised if you got some chocolates this year.	奥菲斯	我只是在想，\n你是不是也该有个会送你巧克力的恋人了。	奧菲斯	因為我在想，你也差不多該交個女朋友，\n收收巧克力了吧？
+SeasonalTalkEvent_004_002ID	6	Roman	ロマン	恋人を紹介して兄上を喜ばせてあげたいものですが、\nそういった方面はどうも	Roman	As much as I would love to introduce you to a special someone of mine, I've nothing to share on that front.	罗曼	我也很想结交恋人介绍给哥哥，让哥哥开心一下，\n但我对这方面实在是不太感冒。	羅曼	我是想介紹自己的戀人來讓兄長大人高興一下，\n但我對戀愛實在沒什麼興趣。
+SeasonalTalkEvent_004_002ID	7		オルペウス	今は錬金術の復興に夢中か。\nユナ、支えてやってくれ	Orpheus	Ah. Married to your alchemy work, I suppose. Oh well. Juna, be sure to look after my brother.	奥菲斯	你现在全副精力都放在炼金术的复兴上是吧。\n尤娜，你就多多支持他吧。	奧菲斯	你現在熱衷於復興鍊金術是吧。\n尤娜，妳好好支援他吧。
+SeasonalTalkEvent_004_002ID	8	Juna	ユナ	はっ！	Juna	Yes, Your Highness!	尤娜	是！	尤娜	遵命！
+SeasonalTalkEvent_004_002ID	9	Juna	ユナ	（おどけているようでいて……\n　まっすぐなところもあるお方だ）	Juna	(Though he jokes around a lot, Prince Orpheus can be surprisingly direct at times...)	尤娜	（这位大人看似爱开玩笑……\n　却也有着直率的一面。）	尤娜	（這位大人看似愛開玩笑……\n　卻也有率直的一面。）
+SeasonalTalkEvent_004_002ID	10	Roman	ロマン	ユナ。リンデ祭が近いということで考えたんだ。\nこれは錬金術復興の助けに使えるんじゃないかと	Roman	You know, Juna... Since the Linde Festival is right around the corner, this could be a big opportunity for the field of alchemy.	罗曼	尤娜，林德节就快到了，所以我在想，\n能不能借助这个节日，为复兴炼金术添一把火。	羅曼	尤娜，林德祭將至，所以我思考了一下。\n我們或許能利用這個節日來幫助復興鍊金術。
+SeasonalTalkEvent_004_002ID	11	Juna	ユナ	と、いいますと？	Juna	How so?	尤娜	您的意思是？	尤娜	怎麼說？
+SeasonalTalkEvent_004_002ID	12	Roman	ロマン	錬金術チョコというものを世に広めてみるんだ。\nまずは錬金術という名前になじみを持ってもらう	Roman	It's the perfect time to introduce alchemical chocolates to the world! This could help make alchemy a household name.	罗曼	我想把炼金术巧克力在社会上推广开来。\n首先要让大家都认识炼金术这个名字。	羅曼	我要試著向世人推廣鍊金術巧克力，\n先讓大家熟悉鍊金術這個名字。
+SeasonalTalkEvent_004_002ID	13	Roman	ロマン	とにかく色々と試してみないことにはね。\nできるところから、やっていこう	Roman	We have so many possibilities at our disposal. It wouldn't hurt to try a few!	罗曼	总之各种方法都必须尝试。\n先从能做的开始做起吧。	羅曼	總之各方面都得嘗試看看，\n就從我們做得到的事開始著手吧。
+SeasonalTalkEvent_004_002ID	14	Roman	ロマン	錬金術の復興も国の繁栄も、積み重ねだと思うからね	Roman	If it's for the revival of alchemy and the prosperity of the kingdom, I'm willing to do whatever it takes.	罗曼	复兴炼金术、使王国更繁荣，两者都需要慢慢积累啊。	羅曼	我認為鍊金術的復興與國家繁榮，都是需要日積月累的。
+SeasonalTalkEvent_004_002ID	15	Juna	ユナ	（この計画、殿下の私財を使って行われるのだろう）	Juna	(His Highness probably has no problem reaching into his own Cole purse to fund this plan...)	尤娜	（殿下大概打算用私人财产推进这个计划吧。）	尤娜	（這項計畫，殿下應該會用自己的個人財產來進行吧。）
+SeasonalTalkEvent_004_002ID	16	Roman	ロマン	どうせならできるだけ効果的な形で\nリンデ祭を盛り上げなければ――	Roman	I should find a way to bring some excitement to the festival. Now, what would be the most effective method...?	罗曼	既然要做，那就要尽量有效地\n炒热林德节的气氛——	羅曼	既然要做，就得盡可能地用有效的方式\n炒熱林德祭的氣氛──
+SeasonalTalkEvent_004_002ID	17	Juna	ユナ	（兄君に、ひいては王国に尽くそうという心。\n　我が主ながら誇らしい。しかし……）	Juna	(On the one hand, I'm proud of my liege for being so relentless in his pursuits. He'll do anything for his kin and country. But even so...)	尤娜	（为其兄长，更为王国尽心尽力。\n　我真为殿下感到骄傲，可是……）	尤娜	（對自己的兄長、甚至對王國的那份竭盡所能的心意。\n　我的主人真令人驕傲。但是……）
+SeasonalTalkEvent_004_002ID	18	Juna	ユナ	……まったく、あなたは	Juna	*Sigh* You never quit, do you?	尤娜	哎，您真是……	尤娜	……您也真是的。
+SeasonalTalkEvent_004_002ID	19	Roman	ロマン	何か気になることがあったかい？	Roman	What's wrong? Is there some flaw in my plan?	罗曼	怎么了？是有哪里不妥吗？	羅曼	有哪裡讓妳覺得不妥的嗎？
+SeasonalTalkEvent_004_002ID	20	Juna	ユナ	（国を案じるお気持ちの欠片ほどでも、\n　その御身をも労っていただきたい）	Juna	(I know he's doing all of this out of concern for his kingdom, but he needs rest. At this rate, he'll collapse before the festival begins.)	尤娜	（我的担心跟殿下关注王国命运之情相比虽不值一提，\n　但我实在希望殿下也能保重自己的身体。）	尤娜	（真希望他那掛念國家的心情，\n　也能分出一點來關心自己。）
+SeasonalTalkEvent_004_002ID	21	Juna	ユナ	はい。最近の殿下の働きぶりは苛烈すぎます	Juna	Indeed there is, Your Highness. You're working yourself to the bone.	尤娜	是的，我认为殿下最近有些操劳过度了。	尤娜	是的，殿下您最近實在工作過度了。
+SeasonalTalkEvent_004_002ID	22	Juna	ユナ	（私も殿下に感謝の気持ちとして\n　チョコをお渡しし、御身を労りたい）	Juna	(Perhaps a gift of chocolate might help alleviate His Highness's weariness, and also convey my feelings of appreciation.)	尤娜	（作为感谢，我也想送巧克力以慰劳殿下。）	尤娜	（我也想抱著感謝殿下的心情，\n　送巧克力慰勞他。）
+SeasonalTalkEvent_004_002ID	23	Juna	ユナ	（我が師も言っていた。チョコは疲労を\n　回復させると。あれは実際、良い）	Juna	(My mentor said so herself: chocolate has healing properties. Yes... That will be my solution.)	尤娜	（师父也说过，巧克力能够缓解疲劳。\n　真是相当实用的点心。）	尤娜	（我的老師也曾說過巧克力能消除疲勞。\n　這點真的很不錯。）
+SeasonalTalkEvent_004_002ID	24	Juna	ユナ	錬金術復興の大望は理解しておりますが、\n御身のため、たまには休養なさってください	Juna	I know very well that your dream is to revive the art of alchemy, but please. You must rest periodically.	尤娜	我理解您想实现复兴炼金术的伟业。\n但为了您的身体，也请适当休养一下吧。	尤娜	我很清楚您復興鍊金術的大願，\n但為了身體著想，請您偶爾也要休息一下。
+SeasonalTalkEvent_004_002ID	25	Roman	ロマン	はは、また注意されてしまった。\nいつものことながら、ユナは手厳しいなぁ	Roman	Haha. There you go, lecturing me again. You're always around to keep me in line.	罗曼	呵呵，又被你教训了。\n你真是无论何时都这么严格。	羅曼	哈哈，又被妳警告了。\n雖然平時就是這樣，但尤娜妳真的很嚴格耶。
+SeasonalTalkEvent_004_002ID	26	Roman	ロマン	（ユナは騎士として私についてくるしかない。\n　考えてみれば……随分と負担をかけていたのかな）	Roman	(As a knight, Juna has no choice but to go along with all of my plans...no matter how burdensome.)	罗曼	（尤娜身为骑士，不得不跟随我的步调。\n　这么一想……我是不是给她增添了太多负担？）	羅曼	（尤娜只不過是以騎士的身分跟著我。\n　仔細想想……我是不是給了她很大的負擔呢？）
+SeasonalTalkEvent_004_002ID	27	Roman	ロマン	（一時期は、煙たがってしまっていたし……）	Roman	(It must get tiring for her at times.)	罗曼	（更别提有一阵子我还刻意躲着她……）	羅曼	（我有陣子又很疏遠她……）
+SeasonalTalkEvent_004_002ID	28	Juna	ユナ	（私までをも慮ってくださる殿下に、ぜひとも感謝の\n　気持ちをお伝えしたいが……これは難しいな）	Juna	(He always thinks about all of his subjects—even me. I want to express my gratitude...but it's hard for me to tell him how I really feel.)	尤娜	（殿下甚至还会特地关心我这个下属，我无论如何都想\n　将我的心意传达给殿下……但这真的好难啊。）	尤娜	（殿下連我的心情都會考慮到，我非常想向他傳達\n　我的感謝之情，不過……這可真難。）
+SeasonalTalkEvent_004_002ID	29	Juna	ユナ	（気が付けば、つい小言を言ってしまうし……）	Juna	(It doesn't help that I tend to fuss over him unintentionally.)	尤娜	（我还总是动不动就开始批评他……）	尤娜	（因為我會不知不覺就開始嘮叨……）
+SeasonalTalkEvent_004_002ID	30		ロマン/ユナ	はぁ……	Roman/Juna	*Sigh*...	罗曼/尤娜	唉……	羅曼/尤娜	唉……
+SeasonalTalkEvent_004_002ID	31		ロマン/ユナ	はぁ……	Roman/Juna	*Sigh*...	罗曼/尤娜	唉……	羅曼/尤娜	唉……
+SeasonalTalkEvent_004_002ID	32	Roman	ロマン	分かったよ。リンデ祭の企画は皆に任せて\n私は溜まっている公務を片付けて過ごすとしよう	Roman	I know, I know. I will leave the Linde Festival preparations to the others and handle the official business that's been piling up instead.	罗曼	我知道了。林德节就交给各位操办，\n我去处理那些积攒下来的公务吧。	羅曼	知道了，林德祭的企劃就交給大家去辦，\n我就趁這段時間來處理累積的公務吧。
+SeasonalTalkEvent_004_002ID	33	Roman	ロマン	しばらくは遠出を控えるから、護衛は不要だ。\nユナも、少しのんびりするといい	Roman	I won't be going out any time soon, so your services won't be needed. That means you're free to take a break, Juna.	罗曼	最近我不会出远门，就不需要护卫了。\n尤娜你也好好放松一下吧。	羅曼	我暫時不會出遠門，所以不需要護衛。\n尤娜妳也稍微放鬆一下吧。
+SeasonalTalkEvent_004_002ID	34	Juna	ユナ	はっ	Juna	Yes, my liege.	尤娜	是。	尤娜	遵命。
+SeasonalTalkEvent_004_002ID	35	Roman Kalman	ロマン・カルマン	錬金術に目がない冒険者。実はランターナ王国の第二\n王子リヒャルトであり、ユナはその護衛に就いている	Roman Kalman	An adventurer whose love for alchemy knows no bounds. His real identity is Prince Richard, second-in-line to rule the Kingdom of Lantarna. Juna serves as his personal guard.	罗曼·卡尔曼	极度热衷于炼金术的冒险者。真实身份是\n兰塔纳王国第二王子理查德。尤娜是他的护卫。	羅曼‧卡爾曼	熱衷於鍊金術的冒險者，其真實身分是\n蘭塔納王國的第二王子理查德，尤娜擔任他的護衛。
+SeasonalTalkEvent_004_002ID	36	Juna Waitz	ユナ・ヴァイツ	王国に忠誠を誓う、生真面目な騎士。\nリヒャルトの王子らしからぬ行動には手を焼きがち	Juna Waitz	An earnest knight who has sworn her undying loyalty to the Kingdom of Lantarna. As Prince Richard's personal guard, she always has her hands full with his antics.	尤娜·维茨	对王国尽忠，一本正经的骑士。\n为了理查德毫无王子派头的行动伤透脑筋。	尤娜‧維茨	發誓效忠王國，是個一本正經的騎士。\n總是為理查德不像王子的行動感到頭疼。
+SeasonalTalkEvent_004_003ID	0	Escha	エスカ	ロジーさん、何か甘いものを食べますか？	Escha	Logy, would you like to eat some sweets?	爱丝卡	罗吉先生，你想不想吃点甜食？	愛絲卡	羅吉先生，你要吃點甜食嗎？
+SeasonalTalkEvent_004_003ID	1	Logy	ロジー	甘いものか。そう言えば久しく食べてなかったな。\nロロナのパイでも……	Logy	Sweets, huh? Sounds good to me. I could go for one of Rorona's pies.	罗吉	甜食啊。这么一说确实很久都没吃了。\n要不然点个萝乐娜的派……\n\n	羅吉	甜食啊。這麼說來我好久沒吃了，\n不然點個蘿樂娜的派……
+SeasonalTalkEvent_004_003ID	2	Ryza	ライザ	あ！　エスカ！　ちょうどよかったぁ！	Ryza	Oh, Escha! Perfect timing!	莱莎	啊，是爱丝卡！你来得正好！	萊莎	啊！愛絲卡！妳來得正好！
+SeasonalTalkEvent_004_003ID	3	Escha	エスカ	ライザさん、こんにちは！\nええと、ちょうどよかったって……？	Escha	Good day to you, Ryza! Perfect timing for what, exactly...?	爱丝卡	莱莎小姐，你好！\n你说来得正好是指……？	愛絲卡	萊莎小姐，妳好！\n那個，妳說來得正好是指……？
+SeasonalTalkEvent_004_003ID	4	Ryza	ライザ	リンデ祭に向けて、カフェで錬金術チョコを\n出すことになったんだ。ロマン王子肝入りの企画でね	Ryza	I've been asked to make alchemical chocolates. The cafe is going to sell them at the festival! All planned and budgeted by Prince Roman, of course.	莱莎	咖啡厅为了迎接林德节，打算出售炼金术巧克力。\n这可是罗曼王子倾注心血的企划。	萊莎	咖啡廳決定要在林德祭上販售鍊金術巧克力了。\n這是羅曼王子主持的企劃喔。
+SeasonalTalkEvent_004_003ID	5	Ryza	ライザ	そこで、そのメニューの開発をエスカに依頼\nしたいねーって！　お店のみんなと話してたんだよね	Ryza	I was talking with everyone at the cafe, and we were saying how wonderful it would be if you could help plan the menu with us!	莱莎	于是我和店里大家商量了一下，\n希望把研发餐品一事委托给爱丝卡！	萊莎	所以，我就和店裡的大家討論了一下，\n希望這份菜單可以委託愛絲卡幫忙研發──！
+SeasonalTalkEvent_004_003ID	6	Escha	エスカ	錬金術チョコですか。なんだか楽しそうです！\nでも、どうしてわたしに？	Escha	Wow, making chocolates with alchemy? That sounds delightful! But...how would I help?	爱丝卡	炼金术巧克力吗？听上去好像很有意思！\n不过为什么要找我呢？	愛絲卡	鍊金術巧克力嗎？感覺好像很有趣！\n不過，為什麼會想找我呢？
+SeasonalTalkEvent_004_003ID	7	Ryza	ライザ	そりゃ、エスカがお菓子作りが得意だって、\nシャリステラから聞いたからだよ！	Ryza	It just so happens that I heard from Shallistera that you're amazing at making sweets!	莱莎	那当然是因为爱丝卡擅长做点心啊，\n夏莉丝堤拉是这么说的！	萊莎	那是因為我聽夏莉絲堤菈說\n愛絲卡妳很擅長做點心啊！
+SeasonalTalkEvent_004_003ID	8	Escha	エスカ	えっ！　シャリーちゃんからですか？\nえへへ。照れますね……	Escha	Huh?! Shallie said that? Oh dear. You're going to make me blush...	爱丝卡	咦！夏莉说的？\n嘿嘿，真不好意思……	愛絲卡	咦！？夏莉說的嗎？\n嘿嘿，好害羞喔……
+SeasonalTalkEvent_004_003ID	9	Logy	ロジー	けど、お菓子作りが得意な奴ならロロナだって\nいるだろ？　なんでわざわざエスカに頼むんだ？	Logy	But if you have Rorona, why would you need to ask Escha for help? Isn't she really good at making sweets, too?	罗吉	说到擅长做点心，不是还有萝乐娜在吗？\n为什么还要特地找爱丝卡呢？	羅吉	不過，蘿樂娜不是也很擅長做點心嗎？\n為什麼要特地拜託愛絲卡呢？
+SeasonalTalkEvent_004_003ID	10	Ryza	ライザ	ロロナとイクセルは通常業務で忙しいからね。\nそれにカフェに新しい風も入れたいし	Ryza	Rorona and Iksel are too busy with their usual work. Besides, we want a breath of fresh air for the cafe, so Escha is perfect.	莱莎	萝乐娜和伊克赛尔都在忙日常业务嘛。\n再说我也想给咖啡厅带来一些新气象。	萊莎	因為蘿樂娜和伊克賽爾有一般業務要忙。\n而且我也想在咖啡廳加入一點新變化。
+SeasonalTalkEvent_004_003ID	11	Logy	ロジー	なるほど、そういうことか	Logy	Ah, fair enough.	罗吉	哦，原来是这样。	羅吉	原來如此，是這麼一回事啊。
+SeasonalTalkEvent_004_003ID	12	Escha	エスカ	でしたら、ぜひやらせてください！　ちょうど美味しい\nチョコのお菓子を作りたいって思っていたんです	Escha	If I can be of service, I would love to help! I've been meaning to try my hand at making chocolates.	爱丝卡	那请一定要让我试试！\n正巧我也想做一些好吃的巧克力点心。	愛絲卡	那麼請務必讓我試試！\n我正好想要做好吃的巧克力點心。
+SeasonalTalkEvent_004_003ID	13	Ryza	ライザ	わぁ！　引き受けてくれるんだ！　ありがと！	Ryza	So you'll accept? Great! Thanks, Escha!	莱莎	哎呀，你愿意接受吗！太谢谢了！	萊莎	哇！妳願意接啊！謝謝妳！
+SeasonalTalkEvent_004_003ID	14	Ryza	ライザ	ロロナ！　エスカが引き受けてくれるって！	Ryza	Hey, Rorona! Escha said that she'll help out!	莱莎	萝乐娜！爱丝卡愿意接受委托哦！	萊莎	蘿樂娜！愛絲卡說她願意接下委託！
+SeasonalTalkEvent_004_003ID	15	Rorona	ロロナ	やったあ！　エスカさん早速ですが宣伝のためと思って\nこっちに来てください！	Rorona	Hurray! Come with me, Escha—we have some advertising to do!	萝乐娜	太好了！爱丝卡小姐，事不宜迟，\n为了宣传，请过来这边一下！	蘿樂娜	太好了～！愛絲卡小姐，\n為了宣傳請妳立刻跟我來！
+SeasonalTalkEvent_004_003ID	16	Escha	エスカ	えっ！？　	Escha	Huh?!　	爱丝卡	什么？！　	愛絲卡	咦！？　
+SeasonalTalkEvent_004_003ID	17	Escha	エスカ	な、なんですか？　この服は……？\nちょっと恥ずかしいです……	Escha	Umm, is this what you meant by advertising? This is a bit embarrassing...	爱丝卡	这、这是什么衣服啊……？\n这可有点难为情……	愛絲卡	這、這件衣服是怎麼回事……？\n覺得有點不好意思……
+SeasonalTalkEvent_004_003ID	18	Rorona	ロロナ	えへへ、リンデ祭を盛り上げようと\nわたしが考案したんですよ！　かわいいでしょう？	Rorona	Heh heh! The outfit was my idea to get everyone excited about the Linde Festival! Pretty adorable, don't you think?	萝乐娜	呵呵呵，这是我为了届时让林德节更热闹\n设计出来的哦！可爱吧？	蘿樂娜	嘿嘿，這是我為了炒熱林德祭的氣氛\n而設計的喔！很可愛吧！
+SeasonalTalkEvent_004_003ID	19	Escha	エスカ	かわいい……ですけど……\nロジーさんはどう思いますか？	Escha	Yes, it's very cute, but... Well, what do you think, Logy?	爱丝卡	可爱是可爱啦……\n罗吉先生你觉得呢？	愛絲卡	是……很可愛啦……\n羅吉先生你覺得怎麼樣呢？
+SeasonalTalkEvent_004_003ID	20	Logy	ロジー	お、おぉ。いいんじゃないか？\nエスカに似合ってるよ	Logy	Y-Yeah, sure. Why not? It looks good on you.	罗吉	哦，我、我觉得挺好的啊。\n很适合你。	羅吉	喔、嗯，挺不錯的啊，\n很適合妳喔。
+SeasonalTalkEvent_004_003ID	21	Escha	エスカ	そうですか？　えへへ……よかったぁ。\nわたし、頑張りますね！	Escha	You think so? Hehe. Well, in that case... I'll do my very best to make the cafe a big hit!	爱丝卡	是吗？嘿嘿……那就好。\n我会加油的！	愛絲卡	是嗎？嘿嘿……太好了～\n我會加油的！
+SeasonalTalkEvent_004_003ID	22	Logy	ロジー	あぁ。メニュー開発を頼まれるなんて\nすごいじゃないか。俺も応援したいんだが……そうだ	Logy	You'll do great. Look at you, planning out a whole menu by yourself. If only there were some way I could help...	罗吉	嗯，你能接到研发餐品的委托可真厉害啊。\n我也想为你出点力……对了。	羅吉	嗯，竟然能接到研發菜單的委託，\n妳很厲害呢，我也想為妳加油……對了。
+SeasonalTalkEvent_004_003ID	23	Logy	ロジー	お菓子作りは得意じゃないんだが、\n何か少しは手伝わせてもらえないか？	Logy	Well, I'm no baker, but I can always lend a helping hand. Anything I can do?	罗吉	有什么我能帮上忙的吗？\n虽然我不擅长做点心。	羅吉	雖然我不擅長做點心，\n但能讓我幫妳一點忙嗎？
+SeasonalTalkEvent_004_003ID	24	Escha	エスカ	本当ですか？　ぜひお願いします！	Escha	You will? Oh, thank you! That would mean a lot!	爱丝卡	你愿意帮忙吗？那就拜托了！	愛絲卡	真的嗎？那就拜託你了！
+SeasonalTalkEvent_004_003ID	25	Escha	エスカ	あっ、でも！　チョコを調合する工程は\nわたしに任せてくださいね！	Escha	Oh, but...you must follow one rule! Leave the chocolate-making to me, all right?	爱丝卡	啊，不过调合巧克力的步骤还是交给我吧！	愛絲卡	啊，不過！調合巧克力的工作\n請讓我自己來吧！
+SeasonalTalkEvent_004_003ID	26	Escha	エスカ	（ロジーさんに手伝ってもらえるのは嬉しいけど、\n　チョコを贈ろうとしているのがバレちゃう！）	Escha	(I'm really happy that Logy offered to help, but I can't let him see me making his chocolates!)	爱丝卡	（罗吉先生能来帮忙我真的很开心，\n　但我想送他巧克力的事就要暴露了！）	愛絲卡	（我是很高興羅吉先生願意幫忙，\n　但會被發現我想送他巧克力的！）
+SeasonalTalkEvent_004_003ID	27	Escha	エスカ	調合が始まったら、ロジーさんは絶対！　ぜーったいに\n手伝っちゃダメですよ！	Escha	Once I start making the chocolate, you have to promise me that you won't help! Swear you won't!	爱丝卡	一旦开始调合，\n罗吉先生一定！绝对！不可以来帮忙！	愛絲卡	調合開始之後，羅吉先生絕對！\n絕──對不可以幫我喔！
+SeasonalTalkEvent_004_003ID	28	Logy	ロジー	そ、そうか。分かった……	Logy	S-Sure, of course. I swear.	罗吉	这、这样吗？我知道了……	羅吉	這、這樣啊，我知道了……
+SeasonalTalkEvent_004_003ID	29	Escha	エスカ	よし！　それじゃあ早速、やっちゃいましょう！	Escha	Great! Then let's get started!	爱丝卡	好！那就赶快开工吧！	愛絲卡	好！那麼我們就趕快行動吧！
+SeasonalTalkEvent_004_003ID	30	Logy	ロジー	おっ。もう始めるのか？	Logy	Wait. We're starting right now?	罗吉	哦，这就要开始了吗？	羅吉	喔，現在就要開始了嗎？
+SeasonalTalkEvent_004_003ID	31	Escha	エスカ	まずはいくつかの種類のカカオ豆で試作してみて、\n良し悪しを確かめたいんですよね	Escha	We'll have to do a few experiments with a variety of cocoa beans first. I want to compare each of their qualities.	爱丝卡	首先我想用不同的原料可可豆试制样品，\n来确认它们的优劣。	愛絲卡	首先，我想用幾種可可豆來試做看看，\n以確認它們的優缺點。
+SeasonalTalkEvent_004_003ID	32	Ryza	ライザ	おっ。本格的だ！	Ryza	Wow. That sounds so professional!	莱莎	哟，很专业嘛！	萊莎	喔，來真的哦！
+SeasonalTalkEvent_004_003ID	33	Logy	ロジー	そうと決まったら採取だな	Logy	I guess it's time to go gather some cocoa beans.	罗吉	既然这样就得采集可可豆了啊。	羅吉	既然這麼決定，那就要去採集了吧。
+SeasonalTalkEvent_004_003ID	34	Rorona	ロロナ	エスカさん、楽しみにしてますね！	Rorona	Nice! Looking forward to the final product, Escha!	萝乐娜	爱丝卡小姐，我很期待哦！	蘿樂娜	愛絲卡小姐，我很期待喔！
+SeasonalTalkEvent_004_003ID	35	Escha	エスカ	はい！　美味しい錬金術チョコを作ってみせます！	Escha	Of course! I'll make you the best chocolate you've ever tasted!	爱丝卡	嗯！我一定会做出可口的炼金术巧克力！	愛絲卡	沒問題！我一定會做出美味的鍊金術巧克力！
+SeasonalTalkEvent_004_004ID	0	Escha	エスカ	この大きな実を割って、中の豆を使うんですよ。\nえいっ……うーっ……はぁ、割れたぁ……	Escha	You take a big fruit like this, break it open, and use the seeds inside. Hup! Hngh... Nnnh... Got it!	爱丝卡	要切开这个大果实，取出里面的豆子。\n嘿……哟……呼，终于开了……	愛絲卡	我要剖開這個大果實，用裡面的豆子。\n嘿……唔……呼～剖開了……
+SeasonalTalkEvent_004_004ID	1	Logy	ロジー	た、大変そうだな。それ、俺が割ろうか？	Logy	Hey, that looks pretty tough. Want me to open it for you?	罗吉	这看上去很吃力啊。要不我来切吧？	羅吉	好、好像難切耶。還是讓我來吧？
+SeasonalTalkEvent_004_004ID	2	Escha	エスカ	あっ。大丈夫です！　\nチョコの調合はわたしがやるんですからー！	Escha	N-No, I'm fine! Like I said, you have to leave the chocolate to me!	爱丝卡	啊，不用了！调合巧克力是我的工作！	愛絲卡	啊，不要緊！\n因為巧克力的調合我要自己來──！
+SeasonalTalkEvent_004_004ID	3	Logy	ロジー	そ、そうか……	Logy	If you say so...	罗吉	好、好吧……	羅吉	這、這樣啊……
+SeasonalTalkEvent_004_004ID	4	Escha	エスカ	う、うーん……	Escha	Hmm...	爱丝卡	唔……嗯……	愛絲卡	唔、嗯……
+SeasonalTalkEvent_004_004ID	5	Logy	ロジー	あ、危なっかしいな。本当に大丈夫か？	Logy	Uh, that looks pretty dangerous. Are you sure you're all right?	罗吉	看得我提心吊胆啊，真的不要紧吗？	羅吉	啊，感覺很危險耶，妳真的沒問題嗎？
+SeasonalTalkEvent_004_004ID	6	Escha	エスカ	はいっ。大丈夫ですよ！　えーいっ！	Escha	Yes! I can do this! Yah!	爱丝卡	请放心，不要紧的！嘿！	愛絲卡	嗯，我可以的！嘿──！
+SeasonalTalkEvent_004_004ID	7	Logy	ロジー	うわっ！　手を切りそうだったぞ！？	Logy	Whoa, careful! You almost cut your hand open!	罗吉	哇！这不是差点切到手吗？！	羅吉	嗚哇！妳差點切到手喔！？
+SeasonalTalkEvent_004_004ID	8	Escha	エスカ	ひぇっ！　だ、大丈夫ですー！	Escha	Aah! R-Really, I'm fine!	爱丝卡	呀！我、我没事～！	愛絲卡	咿！我、我沒事的──！
+SeasonalTalkEvent_004_004ID	9	Escha	エスカ	これをこうして……ゴリゴリと丁寧に混ぜて……\n温度よし、お砂糖よし……っと……	Escha	So I mix this carefully... Then, make sure the temperature's just right... Add the perfect amount of sugar, and...	爱丝卡	像这样……仔细搅拌在一起……\n温度刚刚好，糖也加了……好……	愛絲卡	把這個像這樣……咕嚕咕嚕地攪拌均勻……\n溫度沒問題，砂糖也加了……好……
+SeasonalTalkEvent_004_004ID	10	Logy	ロジー	へぇ……結構、手間がかかるもんなんだな……	Logy	Huh. Who knew making chocolate was this tough?	罗吉	哦……这还挺费功夫啊……	羅吉	哦……做巧克力還挺費工夫的呢……
+SeasonalTalkEvent_004_004ID	11	Escha	エスカ	何しろ豆からですからね！　……できました！	Escha	Well, that's just because we started from the beans! And... It's done!	爱丝卡	毕竟是从豆子开始做嘛……做好了！	愛絲卡	畢竟我是從豆子開始做起的嘛……完成了！
+SeasonalTalkEvent_004_004ID	12	Escha	エスカ	それぞれのカカオ豆からチョコを作ってみました！\nロジーさん、味見してみてください	Escha	I tried making chocolates with each type of cocoa bean! Logy, could you perform a taste test for me?	爱丝卡	我用各种可可豆分别做了巧克力！\n罗吉先生，请你尝尝看。	愛絲卡	我試著用各種不同的可可豆做了巧克力！\n羅吉先生，請你嚐嚐味道。
+SeasonalTalkEvent_004_004ID	13	Logy	ロジー	じゃあ、遠慮なく……もぐ……	Logy	No need to ask me twice. *Chomp*...	罗吉	好，那我不客气了……嚼……	羅吉	那我就不客氣了……嚼……
+SeasonalTalkEvent_004_004ID	14	Escha	エスカ	ど、どうですか？	Escha	So, um... How is it?	爱丝卡	怎、怎么样？	愛絲卡	怎、怎麼樣？
+SeasonalTalkEvent_004_004ID	15	Logy	ロジー	これは……香ばしさもあるな。こっちはさっぱり\nしてる……これは少し苦みとコクがあるのか	Logy	This one...has a strong aroma. But this one tastes almost fresher... And this one is more bitter, but with a deep flavor.	罗吉	这个……香味很足。这边这个很清淡……\n这个有些苦，后味十足。	羅吉	這個……還有一股香氣呢。這邊的很清爽……\n這個很濃郁又帶點苦味啊。
+SeasonalTalkEvent_004_004ID	16	Logy	ロジー	チョコっていうのは種類によって、こんなに\n味の違いがあるものなんだな……	Logy	Wow. I had no idea that different cocoa beans could have such an impact on the taste of chocolate.	罗吉	原来不同原料制作出的巧克力\n味道有这么大的区别……	羅吉	原來巧克力的種類不同，\n味道也會有這麼大的差異啊……
+SeasonalTalkEvent_004_004ID	17	Escha	エスカ	どれか好きな味はありましたか？	Escha	Which one did you like the best?	爱丝卡	你喜欢哪种口味呢？	愛絲卡	這裡面有你喜歡的口味嗎？
+SeasonalTalkEvent_004_004ID	18	Escha	エスカ	（それを使って、ロジーさんに贈る\n　特製チョコを作れば、喜んでもらえるはず！）	Escha	(I'll use Logy's favorite for the chocolate I make him. That will be sure to make him smile!)	爱丝卡	（如果能根据罗吉先生喜欢的口味制作\n　一款特制巧克力送给他，他一定会很开心的！）	愛絲卡	（如果能用羅吉先生喜歡的口味\n　做一款特製巧克力送給他，他應該會很開心吧！）
+SeasonalTalkEvent_004_004ID	19	Logy	ロジー	どれもうまいと思うけど……そうだなぁ	Logy	They were all good, but the one I liked the most was... Hmm...	罗吉	我觉得都很好吃啊，我再想想……	羅吉	我覺得每個都很好吃……我想想～
+SeasonalTalkEvent_004_004ID	20	Logy	ロジー	でも俺の好みじゃなくて、一般受けする味のほうが、\nカフェのメニューには向いてると思うぞ	Logy	Actually, instead of going with my favorite, wouldn't it be better to choose the one you think the most people would like? This chocolate is for the cafe, after all.	罗吉	哦，不过比起我喜欢的口味，\n还是大众口味更适用于咖啡厅的餐品吧。	羅吉	不過我認為應該別看我的喜好，而是選擇大眾口味，\n會比較適合咖啡廳的菜單喔。
+SeasonalTalkEvent_004_004ID	21	Escha	エスカ	そ、それは……そうかもしれませんけど……	Escha	O-Oh... Well, you're right, but...	爱丝卡	这、这个嘛……话是没错……	愛絲卡	這、這個……或許是這樣沒錯……
+SeasonalTalkEvent_004_004ID	22	Escha	エスカ	（うぅ……ロジーさんに贈る分だってことは、\n　渡すまで内緒にしたいし……）	Escha	(Urk... I can't let him know that the chocolate is for him. But I need to know!)	爱丝卡	（呜……但我还想做专门送给罗吉先生的巧克力，\n　这件事在送出去之前我想保密啊……）	愛絲卡	（嗚嗚……要送給羅吉先生的份，\n　我希望能保密到送出去為止……）
+SeasonalTalkEvent_004_004ID	23	Logy	ロジー	それでいうと、このチョコが良かったかな	Logy	Now, if we were choosing for the cafe, I think this chocolate would be best.	罗吉	这么想的话，我觉得这种比较合适。	羅吉	以這一點來說，這款巧克力應該就不錯。
+SeasonalTalkEvent_004_004ID	24	Logy	ロジー	ところで、エスカ。ちょっと採取に行ってくるから\n一休みして待っててくれるか？	Logy	By the way, Escha—I need to gather some things. Would you mind taking a break for a little while?	罗吉	对了爱丝卡，我要去采集一些东西。\n你能先休息一下等我回来吗？	羅吉	對了，愛絲卡，我去採集點素材，\n妳可以休息一下，等我回來嗎？
+SeasonalTalkEvent_004_004ID	25	Escha	エスカ	え？　は、はい	Escha	Huh? N-No, not at all.	爱丝卡	嗯？哦，好的。	愛絲卡	咦？好、好的。
+SeasonalTalkEvent_004_004ID	26	Escha	エスカ	（あれ？　何か足りない素材でもあったかな？）	Escha	(Were we missing some ingredients?)	爱丝卡	（怎么了？是缺了什么素材吗？）	愛絲卡	（奇怪？有什麼素材不夠嗎？）
+SeasonalTalkEvent_004_005ID	0	Logy	ロジー	ただいま、エスカ	Logy	Thanks for waiting, Escha.	罗吉	爱丝卡，我回来了。	羅吉	愛絲卡，我回來了。
+SeasonalTalkEvent_004_005ID	1	Escha	エスカ	おかえりなさい、ロジーさん。\nわたし、何か採り忘れてましたか？	Escha	Welcome back, Logy! Did we forget something important?	爱丝卡	罗吉先生你回来啦。\n我刚才是少采集了什么吗？	愛絲卡	羅吉先生，歡迎回來。\n是我忘記採集什麼了嗎？
+SeasonalTalkEvent_004_005ID	2	Logy	ロジー	いや、そうじゃないよ。ちょっと待っててくれ	Logy	No, it wasn't that. Wait just one moment.	罗吉	啊，不是。你稍微等我一下。	羅吉	不，不是這樣的。妳等我一下喔。
+SeasonalTalkEvent_004_005ID	3	Logy	ロジー	ここをこうして……よし、できた	Logy	All right, just attach this part here, and... Finished!	罗吉	把这个这样……好，做好了。	羅吉	把這裡像這樣……好，完成了。
+SeasonalTalkEvent_004_005ID	4	Escha	エスカ	何を作ったんですか？	Escha	What did you make?	爱丝卡	你在做什么啊？	愛絲卡	你做了什麼東西呢？
+SeasonalTalkEvent_004_005ID	5	Logy	ロジー	ほら、これならカカオの実を安全に割れるだろ	Logy	With this, you'll be able to pry open the fruit without cutting your hand off!	罗吉	给，有这个就能安全地切开可可果了吧。	羅吉	來，妳用這個就能安全地把可可果剖開了吧？
+SeasonalTalkEvent_004_005ID	6	Escha	エスカ	わぁ、小刀ですか！　これ、すごく手になじみます！\nロジーさん、これを作るために……	Escha	Wow! You made me a carving knife? It fits so well in my hand... You went out of your way to make this for me?	爱丝卡	哇，是小刀！这个真趁手啊！\n罗吉先生，原来你是为了做这个……	愛絲卡	哇，是小刀嗎？這個用起來很順手！\n羅吉先生，你是為了做這個……
+SeasonalTalkEvent_004_005ID	7	Logy	ロジー	俺にできるのはこれくらいだからな。\n……ほら、試しに割ってみろよ	Logy	It's the only way I can help, really. Go ahead, try it out!	罗吉	我也只能帮上这点忙了。\n来，试着切切看吧。	羅吉	因為我能做的事也就這些了啊。\n……好了，妳試著切切看吧。
+SeasonalTalkEvent_004_005ID	8	Escha	エスカ	はい！　……わぁ、簡単に割れますよ！\nロジーさんはやっぱりすごいです！	Escha	Oh, wow! It's so much easier this way. Logy, you're so talented!	爱丝卡	好！哎呀……很容易就切开了！\n罗吉先生果然厉害！	愛絲卡	好的……哇啊，很輕鬆就能剖開呢！\n羅吉先生果然很厲害！
+SeasonalTalkEvent_004_005ID	9	Logy	ロジー	いや。大したことないよ	Logy	Nah, this was nothing.	罗吉	别客气，没什么大不了的。	羅吉	不，這沒什麼了不起的。
+SeasonalTalkEvent_004_005ID	10	Escha	エスカ	ふふ。おかげで捗ります！　わたし、頑張りますね！	Escha	This should make things much easier for me. Thank you so much!	爱丝卡	呵呵，这样就能省好多力气了！我会继续加油的！	愛絲卡	呵呵，多虧這把小刀，感覺速度更快了！我會加油的！
+SeasonalTalkEvent_004_006ID	0	Shallotte	シャルロッテ	あー、いた！　ウィルベル師匠ー！	Shallotte	Oh, there you are, Master Wilbell!	夏露罗蒂	哦，找到了！薇尔贝儿师父！	夏露羅蒂	啊，找到了──！薇爾貝兒師父──！
+SeasonalTalkEvent_004_006ID	1	Wilbell	ウィルベル	シャルロッテじゃない。どうしたのよ？	Wilbell	Hello, Shallotte. What's the matter?	薇尔贝儿	这不是夏露罗蒂嘛。有什么事吗？	薇爾貝兒	是夏露羅蒂啊，妳怎麼了呀？
+SeasonalTalkEvent_004_006ID	2	Shallotte	シャルロッテ	師匠！　チョコの作り方を教えてください！\nあたし、リンデ祭でチョコを贈りたいんです！	Shallotte	Please, Master! I need you to teach me how to make chocolate. Y'see, it's for Lindemann's Day!	夏露罗蒂	师父！请教我怎么做巧克力吧！\n我想在林德节送人巧克力！	夏露羅蒂	師父！請教我怎麼做巧克力！\n我想在林德祭上送人巧克力！
+SeasonalTalkEvent_004_006ID	3	Wilbell	ウィルベル	はぁ、そんなことなの。それなら……	Wilbell	Oh, that's all? All right, then...	薇尔贝儿	哎，就这点事啊，你看着……	薇爾貝兒	哦，是這麼一回事啊，那麼……
+SeasonalTalkEvent_004_006ID	4	Shallotte	シャルロッテ	わっ！　お菓子が降ってきた！	Shallotte	Whoa! It's raining sweets!	夏露罗蒂	哇！下点心雨了！	夏露羅蒂	哇！下點心雨了！
+SeasonalTalkEvent_004_006ID	5	Wilbell	ウィルベル	どう、お菓子の魔法よ！	Wilbell	Behold, sweets magic! Pretty great, isn't it?	薇尔贝儿	我的点心魔法怎么样！	薇爾貝兒	如何？這是點心魔法喔！
+SeasonalTalkEvent_004_006ID	6	Shallotte	シャルロッテ	すごいです！……けど、これじゃ真似できないよ……	Shallotte	It's amazing! But...there's no way I can copy that.	夏露罗蒂	真厉害！不过……这我可学不来……	夏露羅蒂	好厲害！可是，這個我學不來……
+SeasonalTalkEvent_004_006ID	7	Shallotte	シャルロッテ	すみません、師匠。\n誰か他の人を頼ります……うーん……	Shallotte	Sorry to have bothered you, Master Wilbell. I guess I'll just ask someone else. Hmm...	夏露罗蒂	对不起，师父。\n我还是找别人吧……嗯……	夏露羅蒂	師父，不好意思，\n我這就去拜託別人……唔……
+SeasonalTalkEvent_004_006ID	8	Wilbell	ウィルベル	ま、待ちなさいよ！\n今のはちょっとした冗談に決まってるでしょ！	Wilbell	W-Wait! That was just a joke, silly!	薇尔贝儿	别、别走啊！\n我这不是在开玩笑嘛！	薇爾貝兒	妳、妳等一下啦！\n剛才那當然只是開個小玩笑啊！
+SeasonalTalkEvent_004_006ID	9	Shallotte	シャルロッテ	え、そうなんですか？	Shallotte	Oh, really?	夏露罗蒂	咦，是吗？	夏露羅蒂	咦，是這樣嗎？
+SeasonalTalkEvent_004_006ID	10	Wilbell	ウィルベル	あ、当たり前じゃない！\nチョコぐらい朝飯前で作れるわよ！	Wilbell	Y-Yes! Of course! Making chocolate is simple, really! Anyone could do it.	薇尔贝儿	当、当然了！\n不就是巧克力，我随手都能做出来！	薇爾貝兒	那、那當然囉！\n不過是做巧克力，根本小菜一碟！
+SeasonalTalkEvent_004_006ID	11	Shallotte	シャルロッテ	朝飯前！	Shallotte	Anyone?! Even me?	夏露罗蒂	随手就能吗！	夏露羅蒂	小菜一碟！
+SeasonalTalkEvent_004_006ID	12	Wilbell	ウィルベル	それに、お店に出せるくらい美味しいんだから！	Wilbell	Yes, and it'll be so delicious that it'll sell out in seconds!	薇尔贝儿	而且做得超级可口，摆在店里卖也没问题哦！	薇爾貝兒	而且，還美味到可以擺在店裡賣喔！
+SeasonalTalkEvent_004_006ID	13	Shallotte	シャルロッテ	お店に出せるくらい！　す、すごいです師匠！\nぜひ教えてください！	Shallotte	In seconds?! Wow... That's amazing! Please teach me your ways, Master!	夏露罗蒂	能摆在店里卖！师父真厉害！\n请一定要教教我！	夏露羅蒂	能擺在店裡賣！師、師父好厲害！\n請妳一定要教我！
+SeasonalTalkEvent_004_006ID	14	Wilbell	ウィルベル	い、いいわよ。\n準備してくるからちょっと待ってなさい！	Wilbell	Not a problem at all. But I have a few things to get ready first, so you just wait right here!	薇尔贝儿	好、好吧。\n我准备一下，你等等哦！	薇爾貝兒	沒、沒問題。\n我去做個準備，妳等我一下！
+SeasonalTalkEvent_004_006ID	15	Shallotte	シャルロッテ	はい！	Shallotte	Yes, ma'am!	夏露罗蒂	好的！	夏露羅蒂	好的！
+SeasonalTalkEvent_004_006ID	16	Wilbell	ウィルベル	つい引き受けちゃったものの……\nチョコなんて、魔法以外でしばらく作ってないし……	Wilbell	Oh, man... I can't believe I said yes like that. It's been ages since I tried to make chocolate without magic.	薇尔贝儿	话赶话答应了下来……\n可是我好久没用魔法之外的手段做过巧克力了……	薇爾貝兒	一不小心就答應了……但我已經好久沒有\n用魔法以外的方式來做巧克力了……
+SeasonalTalkEvent_004_006ID	17	Wilbell	ウィルベル	こうなったら、誰かお菓子作りが得意な知り合いに\n協力してもらうしかないわ	Wilbell	So I guess the best thing would be to ask a friend to help me. Someone who's good with sweets...	薇尔贝儿	看来只能找个擅长做点心的熟人来帮忙了。	薇爾貝兒	既然如此，我只好去找個\n擅長做點心的熟人來幫忙了。
+SeasonalTalkEvent_004_006ID	18	Wilbell	ウィルベル	となると……エスカよね！\n今、どこにいるのかしら？	Wilbell	I've got it! Escha could help! But I wonder where she is.	薇尔贝儿	这么一想……最佳人选就是爱丝卡！\n不知道她现在在哪里呢？	薇爾貝兒	這麼想想……就是愛絲卡了吧！\n她現在在哪裡呢？
+SeasonalTalkEvent_004_006ID	19	Shallotte Elminus	シャルロッテ・エルミナス	明るく快活な錬金術士。ウィルベルを錬金術士と\n勘違いして弟子入りして以降、彼女を慕っている	Shallotte Elminus	A bright and cheerful alchemist. She has idolized Wilbell ever since mistaking her for an alchemist and asking to become her apprentice.	夏露罗蒂·艾尔蜜娜思	活泼开朗的炼金术士。误以为薇尔贝儿是个炼金术士\n并拜她为师，一直仰慕着她。	夏露羅蒂‧艾爾蜜娜思	樂觀開朗的鍊金術士，誤以為薇爾貝兒是鍊金術士\n而拜她為師後，便一直仰慕著她。
+SeasonalTalkEvent_004_006ID	20	Wilbell Voll-Ersleid	ウィルベル・フォル＝エルスリート	魔法使いだが、シャルロッテの錬金術の師匠を務めた。\n調子のいい一面を持つが、面倒見は良い	Wilbell Voll-Ersleid	A witch who served as Shallotte's alchemy teacher. Though she seems carefree at first, others can always rely on her to come through for them.	薇尔贝儿·沃·耶斯礼特	虽然身为魔法师，但同时也是夏露罗蒂的炼金术师父。\n有时候容易得意忘形，但很会照顾人。	薇爾貝兒‧沃‧耶斯禮特	是位魔法師，曾任過夏露羅蒂的鍊金術師父。\n有老奸巨猾的一面，但很會照顧人。
+SeasonalTalkEvent_004_007ID	0	Escha	エスカ	ふんふんふ～ん。今度の出来はどうかな？	Escha	Hm-hm-hmm! I wonder how it'll taste this time.	爱丝卡	哼哼哼～这次做得怎么样呢？	愛絲卡	哼哼哼～這次的成品如何呢？
+SeasonalTalkEvent_004_007ID	1	Wilbell	ウィルベル	エスカ！　いたわね！　探したんだから！	Wilbell	Escha! Here you are! I've been looking all over for you.	薇尔贝儿	爱丝卡！你在这里啊！我正在找你呢！	薇爾貝兒	愛絲卡！妳在啊！我正在找妳呢！
+SeasonalTalkEvent_004_007ID	2	Escha	エスカ	えっ！？　ウィルベルさん？\nど、どうしたんですか？	Escha	Huh?! Wilbell, what's the matter?	爱丝卡	咦？！薇尔贝儿小姐？\n有、有什么事吗？	愛絲卡	咦！？薇爾貝兒小姐？\n有、有什麼事嗎？
+SeasonalTalkEvent_004_007ID	3	Wilbell	ウィルベル	時間がないから手短に話すわ！\n一目置かれるチョコのレシピを教えてほしいのよ！	Wilbell	There's no time, so I'll make this quick! I need you to teach me a recipe for some mind-blowing chocolate!	薇尔贝儿	我赶时间，就长话短说了！\n教教我能大受好评的巧克力配方吧！	薇爾貝兒	沒時間了，我就長話短說吧！\n希望妳告訴我能使人甘拜下風的巧克力配方！
+SeasonalTalkEvent_004_007ID	4	Escha	エスカ	チョコのレシピですか？　いいですよ	Escha	A chocolate recipe? Sure, no problem!	爱丝卡	巧克力配方？好啊。	愛絲卡	巧克力的配方嗎？好啊。
+SeasonalTalkEvent_004_007ID	5	Escha	エスカ	でも、なんだか意外です。\nウィルベルさんもチョコのお菓子を手作りするんですね	Escha	I'm a little surprised, actually. I didn't take you for someone who would make chocolate by hand.	爱丝卡	不过真没想到，\n薇尔贝儿小姐也会自己动手做巧克力啊。	愛絲卡	不過，我有點意外。\n薇爾貝兒小姐也會想親手做巧克力點心啊。
+SeasonalTalkEvent_004_007ID	6	Wilbell	ウィルベル	まぁね。あたしくらいの魔法使いになるとね～	Wilbell	Well, y'know. A great witch like me usually doesn't need to.	薇尔贝儿	嗯，对我这么厉害的魔法师来说这是当然的啦～	薇爾貝兒	算是吧，成為像我這樣的魔法師後就會這樣囉～
+SeasonalTalkEvent_004_007ID	7	Escha	エスカ	（ウィルベルさんは誰にあげるのかな……）\n	Escha	(Now I'm really curious. I wonder who Wilbell is making them for...)	爱丝卡	（薇尔贝儿小姐要做给谁呢……）	愛絲卡	（薇爾貝兒小姐要送給誰呢……）
+SeasonalTalkEvent_004_007ID	8	Escha	エスカ	はい、書けましたよ。チョコカップケーキのレシピです	Escha	All right, all set! This is my recipe for chocolate cupcakes.	爱丝卡	好，写好了，这是巧克力杯子蛋糕的配方。	愛絲卡	給妳，我寫好了。這是巧克力杯子蛋糕的配方。
+SeasonalTalkEvent_004_007ID	9	Wilbell	ウィルベル	ありがと！　恩に着るわ！	Wilbell	Thanks a lot, I owe you one!	薇尔贝儿	谢了！我欠你一份情！	薇爾貝兒	謝謝妳！感激不盡！
+SeasonalTalkEvent_004_007ID	10	Escha	エスカ	このレシピで使う素材の採取の仕方なんですけど……	Escha	As for the ingredients, there's quite a bit you need to know...	爱丝卡	关于配方所需素材的采集方式……	愛絲卡	關於這份配方所需的素材該如何採集……
+SeasonalTalkEvent_004_007ID	11	Wilbell	ウィルベル	ふんふん……はっ！\nそろそろ戻らないと、シャルロッテに怪しまれちゃう！	Wilbell	Hmmm... Right. Oh! I've got to get back before Shallotte starts to suspect something's up!	薇尔贝儿	嗯嗯……哎呀！\n再不回去夏露罗蒂就要起疑心了！	薇爾貝兒	嗯嗯……啊！\n我差不多該回去了，否則夏露羅蒂會起疑的！
+SeasonalTalkEvent_004_007ID	12	Wilbell	ウィルベル	じゃ、じゃあね！　エスカ！	Wilbell	See ya, Escha!	薇尔贝儿	我先走啦！爱丝卡！	薇爾貝兒	再、再見囉！愛絲卡！
+SeasonalTalkEvent_004_007ID	13	Escha	エスカ	えっ？　ウィルベルさん、まだ説明の途中……	Escha	Huh? But Wilbell, I wasn't finished explaining...	爱丝卡	咦？薇尔贝儿小姐，我还没说完呢……	愛絲卡	咦？薇爾貝兒小姐，我還沒說完……
+SeasonalTalkEvent_004_007ID	14	Escha	エスカ	ふふっ。ウィルベルさんはシャリーちゃんに\nあげるつもりなのかな？	Escha	Hehe, I think I get it now. Wilbell must be making those cupcakes for Shallie!	爱丝卡	呵呵，薇尔贝儿小姐是要做巧克力送给夏莉吧？	愛絲卡	呵呵，薇爾貝兒小姐\n是想送給夏莉嗎？
+SeasonalTalkEvent_004_007ID	15	Wilbell	ウィルベル	シャルロッテ！　待たせたわね！	Wilbell	Sorry to keep you, Shallotte! I'm back!	薇尔贝儿	夏露罗蒂！久等了！	薇爾貝兒	夏露羅蒂！讓妳久等了！
+SeasonalTalkEvent_004_007ID	16	Shallotte	シャルロッテ	師匠！　どこに行ってたんですか～！\nすっごい待ちましたよー！	Shallotte	Master, where were you? Do you know how long I've been waiting for you?!	夏露罗蒂	师父！你去哪里了啊！\n我都等了好久了！	夏露羅蒂	師父！妳去哪裡了啊～！\n我等了好久──！
+SeasonalTalkEvent_004_007ID	17	Wilbell	ウィルベル	ちょうど良さそうなレシピを見繕ってたのよ。\nはい、これあげるわ	Wilbell	I was just choosing the perfect recipe for you. These things take time! Anyway, here. You can have this.	薇尔贝儿	我去物色合适你的配方了嘛。\n这个给你。	薇爾貝兒	我正好在挑選感覺不錯的配方。\n來，這個給妳。
+SeasonalTalkEvent_004_007ID	18	Shallotte	シャルロッテ	チョコカップケーキかぁ！　さっすが師匠！\nそれに、この字……	Shallotte	Oh, chocolate cupcakes! Great thinking, Master! But wait, this handwriting...	夏露罗蒂	是巧克力杯子蛋糕啊！真不愧是师父！\n还有，这字迹……	夏露羅蒂	巧克力杯子蛋糕啊！真不愧是師父！\n而且這些字……
+SeasonalTalkEvent_004_007ID	19	Wilbell	ウィルベル	な、何よ？	Wilbell	H-Huh? What about it?	薇尔贝儿	字、字迹怎么了？	薇爾貝兒	怎、怎樣？
+SeasonalTalkEvent_004_007ID	20	Shallotte	シャルロッテ	師匠って字も綺麗なんですね！　さっすがぁ！	Shallotte	I never knew your handwriting was so beautiful! You're just good at everything, aren't you?	夏露罗蒂	师父连写字都这么好看！太厉害了！	夏露羅蒂	師父妳的字也寫得很漂亮呢！我好佩服！
+SeasonalTalkEvent_004_007ID	21	Wilbell	ウィルベル	ま、まあね！　じゃあ早速それに書いてある\n素材を集めるのよ！	Wilbell	Er, I guess you could say that! Anyway, let's get to work! We need to gather up all of the ingredients on that list.	薇尔贝儿	这、这还用说！\n好了，快去收集配方上写的素材吧！	薇爾貝兒	還、還好啦！那我們就趕快來蒐集\n上面寫的素材吧！
+SeasonalTalkEvent_004_007ID	22	Wilbell	ウィルベル	乗りかかった船、あたしも手伝ってあげるわ！	Wilbell	And since I'm already here, I might as well help you with that, too.	薇尔贝儿	一不做二不休，我也来帮忙！	薇爾貝兒	好人做到底，我也會幫妳的！
+SeasonalTalkEvent_004_007ID	23	Shallotte	シャルロッテ	えへへ……ありがとうございます！\nウィルベル師匠！	Shallotte	Hehe... Thanks so much, Master Wilbell!	夏露罗蒂	嘿嘿……谢谢你，薇尔贝儿师父！	夏露羅蒂	嘿嘿……薇爾貝兒師父！\n謝謝妳！
+SeasonalTalkEvent_004_008ID	0	Escha	エスカ	むぐむぐ……そうだなぁ。\nこの味の場合、食感をもう少し……	Escha	*Munch*... Hmm. This flavor might be even better with a slightly different texture...	爱丝卡	嚼嚼……我想想，\n这个口味如果再调整一下口感……	愛絲卡	嚼嚼……我想想，\n如果是這個味道，口感要稍微再……
+SeasonalTalkEvent_004_008ID	1	Juna	ユナ	失礼……ん、エスカか	Juna	Pardon me, I... Huh? Escha?	尤娜	打扰了……哦，是爱丝卡啊。	尤娜	打擾……嗯？是愛絲卡啊。
+SeasonalTalkEvent_004_008ID	2	Escha	エスカ	あ、ユナさん。こんにちは！	Escha	Oh! Hello there, Juna!	爱丝卡	哎呀，尤娜小姐，你好！	愛絲卡	啊，尤娜小姐，妳好！
+SeasonalTalkEvent_004_008ID	3	Juna	ユナ	この甘い匂い……チョコを作っていたのか？	Juna	What a lovely smell. You must be making chocolate.	尤娜	这股甜香……你在做巧克力吗？	尤娜	這股甜味……妳在做巧克力嗎？
+SeasonalTalkEvent_004_008ID	4	Escha	エスカ	はい。実はリンデマン菓子祭りにカフェで販売する、\n錬金術チョコのメニューを任されることになりまして	Escha	That's right. I've been placed in charge of planning the menu for the Lindemann Sweets Festival at the cafe. We're making sweets with alchemical chocolates.	爱丝卡	是的。咖啡厅想在林德曼点心节上卖巧克力点心，\n于是委托我帮忙研发炼金术巧克力餐品。	愛絲卡	是的，其實我被指派負責鍊金術巧克力的菜單，\n林德曼點心祭時會在咖啡廳販售。
+SeasonalTalkEvent_004_008ID	5	Juna	ユナ	そういえばエスカは、お菓子作りが得意だったか	Juna	Oh, that's right. You've always been good at baking.	尤娜	爱丝卡好像很擅长做点心吧。	尤娜	對喔，愛絲卡妳很擅長做點心吧。
+SeasonalTalkEvent_004_008ID	6	Escha	エスカ	得意というか、趣味なんですけどね	Escha	I'm not sure if I'm good at it, but it's a lot of fun!	爱丝卡	也不算擅长，只是个人爱好吧。	愛絲卡	與其說是擅長，應該說是興趣吧。
+SeasonalTalkEvent_004_008ID	7	Escha	エスカ	ひゃっ！？　ユナさん？　ど、どうしたんですか！？	Escha	J-Juna! Why are you so serious all of a sudden?!	爱丝卡	呀？！尤娜小姐，这、这是干什么？！	愛絲卡	呀啊！？尤娜小姐？妳、妳這是怎麼了？
+SeasonalTalkEvent_004_008ID	8	Juna	ユナ	エスカ。私を生徒にしてもらえないだろうか？	Juna	Escha. I humbly request that you make me your student.	尤娜	爱丝卡，你愿意收下我这个学生吗？	尤娜	愛絲卡，妳能收我為徒嗎？
+SeasonalTalkEvent_004_008ID	9	Escha	エスカ	あ、あの……どういうことか、聞いてもいいですか？	Escha	Uh, um... What do you mean by that, exactly?	爱丝卡	这、这……我能问问发生了什么事吗？	愛絲卡	那、那個……妳可以告訴我原因嗎？
+SeasonalTalkEvent_004_008ID	10	Juna	ユナ	む。そうだな……	Juna	Right. I should explain...	尤娜	嗯，其实……	尤娜	唔，這個嘛……
+SeasonalTalkEvent_004_008ID	11	Juna	ユナ	リンデ祭に合わせて、チョコを\n作って贈りたいと考えているんだ	Juna	I was actually thinking about giving some chocolates as a gift on Lindemann's Day.	尤娜	我想趁林德节这个机会，\n做些巧克力送给别人。	尤娜	我想要配合林德祭，\n做巧克力送人。
+SeasonalTalkEvent_004_008ID	12	Juna	ユナ	だが、私はお菓子作りの経験がなく、\n誰かを頼らざるを得なくてな……	Juna	But I have no experience making sweets, so there's no choice for me but to rely on someone else's expertise.	尤娜	可我从来没有做过点心，\n所以只能求助于人……	尤娜	可是，我沒有做點心的經驗，\n不得不拜託別人幫忙……
+SeasonalTalkEvent_004_008ID	13	Escha	エスカ	それで、わたしというわけですね！	Escha	I see. So that's why you want me to teach you.	爱丝卡	所以你才会找我帮忙啊！	愛絲卡	所以妳才來拜託我啊！
+SeasonalTalkEvent_004_008ID	14	Juna	ユナ	難しいだろうか？	Juna	Is it too much of a burden?	尤娜	不方便吗？	尤娜	會很困難嗎？
+SeasonalTalkEvent_004_008ID	15	Escha	エスカ	いいえ！　一緒に美味しいチョコを作りましょう！	Escha	Not at all! Let's make some delicious chocolate together!	爱丝卡	没有的事！一起来做好吃的巧克力吧！	愛絲卡	不會！我們一起來做美味的巧克力吧！
+SeasonalTalkEvent_004_008ID	16	Juna	ユナ	……恩に着る！　\nビシバシと鍛えてくれ、先生	Juna	I'm in your debt. Please whip me into shape, Miss Malier.	尤娜	太感激了……！\n请严格教导我吧，老师。	尤娜	……感激不盡！\n請妳好好鍛鍊我吧，老師。
+SeasonalTalkEvent_004_008ID	17	Escha	エスカ	せ、先生は……いいですよ……	Escha	"Um, you don't need to call me ""Miss,"" you know!"	爱丝卡	不、不用叫老师啦……	愛絲卡	不、不用……叫我老師啦……
+SeasonalTalkEvent_004_009ID	0	Escha	エスカ	えーと……この工程を入れ替えてみたらどうかな？	Escha	Hmm... It looks like we may need to adjust our methods a bit.	爱丝卡	嗯……要不要试着把这个步骤换一下？	愛絲卡	唔……試著替換掉這個程序會怎麼樣呢？
+SeasonalTalkEvent_004_009ID	1	Roman	ロマン	やぁ、エスカ！　錬金術チョコのメニュー開発は\n捗っているかい？	Roman	Hello, Escha! How are the alchemical chocolate recipes coming along?	罗曼	你好啊，爱丝卡！\n炼金术巧克力餐品研发得怎么样了？	羅曼	嗨，愛絲卡！\n鍊金術巧克力的菜單研發有進展了嗎？
+SeasonalTalkEvent_004_009ID	2	Escha	エスカ	ぼちぼちです！	Escha	I'm making progress, little by little!	爱丝卡	有了一定的进展！	愛絲卡	稍微有點進展了！
+SeasonalTalkEvent_004_009ID	3	Roman	ロマン	何か考えがあるようだね	Roman	It sounds like you have some good ideas.	罗曼	我看你好像想到了什么？	羅曼	妳好像在考慮什麼？
+SeasonalTalkEvent_004_009ID	4	Escha	エスカ	はい。チョコと言えば固めたものばかりですけど、\n何か普段と違う食感のチョコができたらよいと思い……	Escha	Well, when people think of chocolate, hard chocolate usually comes to mind. But I've been thinking up new ways to change the texture for a different experience.	爱丝卡	是的。说到巧克力大家都会想到块状的，\n但我在想，能不能做些和普通巧克力口感不同的……	愛絲卡	是的，因為印象中的巧克力都硬硬的，\n我想如果能做出和平時不同口感的巧克力應該不錯……
+SeasonalTalkEvent_004_009ID	5	Roman	ロマン	へぇ。それは興味深いね	Roman	Excellent. That sounds fascinating.	罗曼	哦？听上去很有意思。	羅曼	哦～這可真有意思。
+SeasonalTalkEvent_004_009ID	6	Escha	エスカ	はい。滑らかで、それでいてほろっとした\n食感のチョコを作ろうと思っています	Escha	I want to make chocolate with a smooth flavor that just melts in your mouth!	爱丝卡	嗯，我想做些口感又柔滑，又松软的巧克力。	愛絲卡	沒錯，我想做出口感滑順\n又鬆軟綿密的巧克力。
+SeasonalTalkEvent_004_009ID	7	Roman	ロマン	なるほど、そんなことができるのかい？	Roman	Sounds great. But is that kind of thing really possible?	罗曼	原来是这样，真的做得到吗？	羅曼	原來如此，這種巧克力做得出來嗎？
+SeasonalTalkEvent_004_009ID	8	Escha	エスカ	はい！　今、素材と工程を詰めてまして……	Escha	I think so! Now I'm just trying to perfect the process and balance the ingredients.	爱丝卡	做得到！我现在正在推敲要用的素材以及步骤……	愛絲卡	可以！我現在正在研究素材和加工程序……
+SeasonalTalkEvent_004_009ID	9	Juna	ユナ	エスカ。下ごしらえはこんな感じでよいだろうか	Juna	Escha, I've finished my prep work. Does this look all right?	尤娜	爱丝卡，前期准备做成这样可以吗？	尤娜	愛絲卡，備料這樣子就行了嗎？
+SeasonalTalkEvent_004_009ID	10	Juna	ユナ	で、殿下！	Juna	Oh! Your Highness!	尤娜	殿、殿下！	尤娜	殿、殿下！
+SeasonalTalkEvent_004_009ID	11	Roman	ロマン	おや、ユナ。一人でアトリエに来るなんて\n珍しいじゃないか！	Roman	Juna, what brings you here? It's rare for you to visit the atelier on your own.	罗曼	嗯？是尤娜啊。\n你会一个人跑来炼金工房还真是稀奇！	羅曼	哎呀，尤娜。妳竟然會一個人來鍊金工房，\n還真是稀奇啊！
+SeasonalTalkEvent_004_009ID	12	Juna	ユナ	（良くないな。このままでは殿下のために\n　チョコを作っているのがバレてしまう）	Juna	(This is bad. His Highness will find out that I'm making him chocolate.)	尤娜	（不好，要是这样聊下去，\n　我为了殿下做巧克力的事说不定会暴露。）	尤娜	（不妙，這樣下去會被殿下發現\n　我正在為他做巧克力。）
+SeasonalTalkEvent_004_009ID	13	Juna	ユナ	ちょっとした私用です。\n殿下のお耳に入れるような事情ではありません	Juna	Oh, just a personal errand. Nothing that is worthy of your attention considering your busy schedule, Your Highness.	尤娜	我只是来处理些私事。\n无需劳烦殿下亲自过问。	尤娜	只是一點私事，\n不是什麼需要讓殿下煩心的事。
+SeasonalTalkEvent_004_009ID	14	Roman	ロマン	そうか。私は錬金術の知見をより広げたいと思って、\nまたお邪魔させてもらっているよ！	Roman	All right then. I just came by to broaden my alchemical horizons a bit.	罗曼	这样啊。我这次过来拜访\n是因为想更多地了解炼金术的知识！	羅曼	這樣啊。我想要了解更多鍊金術的知識，\n所以還會再來喔！
+SeasonalTalkEvent_004_009ID	15	Juna	ユナ	何かお手伝いをいたしましょうか	Juna	Is there anything I can help you with, Your Highness?	尤娜	是否需要我来帮忙？	尤娜	有什麼需要我幫忙的嗎？
+SeasonalTalkEvent_004_009ID	16	Roman	ロマン	大丈夫だ、じゃあ、私は失礼するよ！\nユナにのんびりしろと言ったのは、私自身だからね	Roman	No, don't worry about me. I'll get out of your hair! I'm the one who gave you the order to relax, didn't I?	罗曼	不必了，毕竟是我自己叫你去放松的嘛。\n那我就先告辞了！	羅曼	沒事，那我先告辭了！\n畢竟是我自己要妳好好放鬆的。
+SeasonalTalkEvent_004_009ID	17	Escha	エスカ	え？　あ、はい！	Escha	Huh? Y-Yes, sir!	爱丝卡	咦？啊，好的！	愛絲卡	咦？啊，好的！
+SeasonalTalkEvent_004_009ID	18	Juna	ユナ	ふぅ……危なかったな	Juna	Phew... That was a close one.	尤娜	呼……好险啊。	尤娜	呼……好險。
+SeasonalTalkEvent_004_009ID	19	Escha	エスカ	あ、あの……ユナさんとロマンさんって、\n何かあったんですか？　もしかしてケンカとか	Escha	Um, is everything all right, Juna? Are you and Roman fighting or something?	爱丝卡	请问……尤娜小姐和罗曼先生之间，\n是发生了什么吗？你们该不会吵架了吧？	愛絲卡	那、那個……妳和羅曼先生之間\n發生了什麼事嗎？難不成是吵架了？
+SeasonalTalkEvent_004_009ID	20	Juna	ユナ	何もないぞ。\n今も殿下への贈り物を準備している	Juna	No, it's nothing like that. I've just been preparing a gift for him, that's all.	尤娜	什么都没发生啊。\n我现在还在准备要送给殿下的东西呢。	尤娜	沒什麼事。\n其實我現在也在準備要送給殿下的禮物。
+SeasonalTalkEvent_004_009ID	21	Escha	エスカ	へ？　ってことは、チョコを贈る相手って\nロマンさんだったんですか！？	Escha	Huh? Wait a minute... Roman's the one you're making chocolate for?!	爱丝卡	咦？这么说尤娜小姐要送巧克力的对象，\n是罗曼先生吗？！	愛絲卡	咦？妳的意思是，妳送巧克力的對象\n就是羅曼先生嗎！？
+SeasonalTalkEvent_004_009ID	22	Juna	ユナ	国のために奔走する殿下に感謝の気持ちを\n伝えたくてな。チョコは疲労回復にもなる	Juna	I want to show him my appreciation for his unending dedication to his kingdom. I've also heard that eating chocolate can help with exhaustion.	尤娜	我想给为国奔走的殿下送上一份谢意。\n而且巧克力还能缓解疲劳。	尤娜	殿下為了國家四處奔走，我想對他表達一下感謝之情。\n而且巧克力也能消除疲勞。
+SeasonalTalkEvent_004_009ID	23	Escha	エスカ	そうだったんですね！	Escha	How lovely!	爱丝卡	原来是这样！	愛絲卡	原來是這樣啊！
+SeasonalTalkEvent_004_009ID	24	Escha	エスカ	ふふっ。それじゃ、びっくりしましたよね！\nチョコを渡す前に、相手に知られたくないですもん！	Escha	Hehe... So that's why you looked so jumpy before! You didn't want to spoil the surprise!	爱丝卡	呵呵，怪不得你刚才那么慌张！\n送巧克力之前可不想让对方知道啊！	愛絲卡	呵呵，那妳剛才一定嚇了一跳吧！\n畢竟巧克力在送出去之前，不想被對方知道嘛！
+SeasonalTalkEvent_004_009ID	25	Juna	ユナ	そうだな……しかし……はぁ	Juna	Exactly, but... *Sigh*	尤娜	是啊。可是……唉……	尤娜	是啊……但是……唉。
+SeasonalTalkEvent_004_009ID	26	Juna	ユナ	私は小言が多いせいか殿下に煙たがられてしまってな。\n悲しいものだ	Juna	I end up nagging him about every little thing, so I'm always causing His Highness trouble. It must be hard for him to be around me.	尤娜	大概是因为我平时动不动就批评殿下，让他避我不及。\n真是伤心。	尤娜	不知道是不是我太嘮叨，殿下都對我敬而遠之了。\n真叫人難過。
+SeasonalTalkEvent_004_009ID	27	Escha	エスカ	ええっと……見た感じ、そういうことじゃないと\n思うんですけど……うーん	Escha	Really...? As far as I can tell, he never looks unhappy when he's with you. Hmmm...	爱丝卡	唔……在我看来应该不是那样啦……	愛絲卡	呃……就我看來，應該沒有這回事啦……\n唔～
+SeasonalTalkEvent_004_010ID	0	Wilbell	ウィルベル	よーし！　次はナッツよ！\nなるべく大粒のものを選びましょ！	Wilbell	All right! The next ingredient we need is nuts! The bigger, the better!	薇尔贝儿	好了，接下来要采集坚果！\n尽量挑大颗的吧！	薇爾貝兒	好──！接下來是堅果！\n我們盡可能選大顆一點的吧！
+SeasonalTalkEvent_004_010ID	1	Shallotte	シャルロッテ	ナッツですね！　でも師匠、ナッツってこんな湿地じゃ\nなくて、もっと乾燥した場所にあるんじゃないですか？	Shallotte	Okay! But if we need nuts, wouldn't we be better off searching for them in a drier place than a marsh?	夏露罗蒂	知道了，坚果！不过师父，这种湿地里不会有吧？\n坚果不是生长在比较干燥的地方吗？	夏露羅蒂	堅果啊！不過師父，堅果應該不會出現在這種濕地，\n而是會在更乾燥一點的地區吧？
+SeasonalTalkEvent_004_010ID	2	Wilbell	ウィルベル	そ、そういう側面もあるかもしれないわね	Wilbell	W-Well, I suppose that approach could work, too.	薇尔贝儿	可、可能也有这一说。	薇爾貝兒	或、或許也有這種說法啦。
+SeasonalTalkEvent_004_010ID	3	Shallotte	シャルロッテ	じゃあ、山のほうに行ってみますか？	Shallotte	So should we try heading to the mountains?	夏露罗蒂	那我们要不要去山里找？	夏露羅蒂	那我們要去山裡看看嗎？
+SeasonalTalkEvent_004_010ID	4	Wilbell	ウィルベル	いーえっ！\nここから乾燥した山地にかけて探せばいいのよ！	Wilbell	Nope, nope, nope! We'll start looking here as we make our way to the mountains.	薇尔贝儿	不！从这里一路找到干燥的山地那边吧！	薇爾貝兒	不～用！\n我們只要從這裡找到乾燥的山地就行了！
+SeasonalTalkEvent_004_010ID	5	Shallotte	シャルロッテ	えええっ！？	Shallotte	Huh?!	夏露罗蒂	什么？！	夏露羅蒂	咦咦咦！？
+SeasonalTalkEvent_004_010ID	6	Wilbell	ウィルベル	何よ。いい素材ってのは、こういう辺鄙な場所に\nあるものなんだから	Wilbell	What's the matter? Some of the best ingredients are found in the most unexpected of places.	薇尔贝儿	有意见吗？好素材总是藏在这种偏僻的地方哦。	薇爾貝兒	怎麼啦？好素材就是會出現在\n這種偏僻的地方啊。
+SeasonalTalkEvent_004_010ID	7	Shallotte	シャルロッテ	そうかなぁ……	Shallotte	Are you sure about that...?	夏露罗蒂	是这样吗……	夏露羅蒂	是這樣嗎……
+SeasonalTalkEvent_004_010ID	8	Wilbell	ウィルベル	ほら、ちゃっちゃと探すわよ！	Wilbell	Hey! Enough chatting, more searching!	薇尔贝儿	好了，赶紧找起来！	薇爾貝兒	好了，快點來找吧！
+SeasonalTalkEvent_004_010ID	9	Shallotte	シャルロッテ	ウィルベル師匠～！\nあたしたち、何を探してたんでしたっけ～	Shallotte	Master Wilbell! Could you remind me what exactly it is we're searching for?	夏露罗蒂	薇尔贝儿师父～！\n我们到底在找什么啊～	夏露羅蒂	薇爾貝兒師父～！\n我們原本是在找什麼啊～？
+SeasonalTalkEvent_004_010ID	10	Wilbell	ウィルベル	えーと、なんだったかしら……	Wilbell	Uh, well, it's... What was it, again?	薇尔贝儿	唔，在找什么来着……	薇爾貝兒	呃～是什麼呢……
+SeasonalTalkEvent_004_010ID	11	Shallotte	シャルロッテ	は～。お菓子作りの道は厳しい～	Shallotte	*Sigh* Baking is shaping up to be way harder than I thought...	夏露罗蒂	唉～做点心还真是不容易～	夏露羅蒂	唉～做點心之路可真艱辛～
+SeasonalTalkEvent_004_010ID	12	Wilbell	ウィルベル	はっ！　危ない！	Wilbell	Ah! Watch out!	薇尔贝儿	啊！小心！	薇爾貝兒	啊！危險！
+SeasonalTalkEvent_004_010ID	13	Shallotte	シャルロッテ	ひぇっ！	Shallotte	Eeek!	夏露罗蒂	哇！	夏露羅蒂	咿！
+SeasonalTalkEvent_004_010ID	14	Wilbell	ウィルベル	シャルロッテ！　ケガはない！？	Wilbell	Shallotte, are you all right?!	薇尔贝儿	夏露罗蒂！你没受伤吧？！	薇爾貝兒	夏露羅蒂！妳沒受傷吧！？
+SeasonalTalkEvent_004_010ID	15	Shallotte	シャルロッテ	だ、大丈夫です！　ありがとうございます、師匠！	Shallotte	I-I'm fine... Thanks to you, Master!	夏露罗蒂	我、我没事！谢谢师父！	夏露羅蒂	我、我沒事！師父，謝謝妳！
+SeasonalTalkEvent_004_010ID	16	Wilbell	ウィルベル	よかったわ！　いい、二人でコイツを倒すわよ！	Wilbell	Phew, you had me worried! Now let's take that thing down together!	薇尔贝儿	太好了！听着，我们先来打倒这家伙！	薇爾貝兒	太好了！來，我們一起打倒這傢伙吧！
+SeasonalTalkEvent_004_010ID	17	Shallotte	シャルロッテ	了解です！	Shallotte	Right!	夏露罗蒂	好！	夏露羅蒂	收到！
+SeasonalTalkEvent_004_011ID	0	Juna	ユナ	なるほど。私が作るものはチョコクッキーがよいと？	Juna	So you think it would be best if I made chocolate cookies?	尤娜	原来如此，你建议我做巧克力曲奇是吗？	尤娜	原來如此，我做巧克力餅乾比較好嗎？
+SeasonalTalkEvent_004_011ID	1	Escha	エスカ	はい。クッキーは美味しくて作るのも手軽ですから、\nユナさんにピッタリだと思うんです	Escha	Yes! Since they're delicious and don't require a whole lot of fuss, I think cookies would be a great choice!	爱丝卡	是的，曲奇又好吃又容易做，\n应该最适合尤娜小姐了。	愛絲卡	是的，因為餅乾很美味也很好做，\n我認為很適合尤娜小姐。
+SeasonalTalkEvent_004_011ID	2	Escha	エスカ	それに意外と繊細な料理で、奥が深いんですよ！	Escha	But cookies can be surprisingly delicate, so I think they're the perfect challenge for you!	爱丝卡	而且它做起来其实很需要注重细节，相当有讲究哦！	愛絲卡	而且餅乾是意外細緻的料理，很深奧喔！
+SeasonalTalkEvent_004_011ID	3	Juna	ユナ	私でも上手に作れるだろうか？	Juna	Do you really think someone like me will be able to do it?	尤娜	那我能做好吗？	尤娜	我也能做得好吃嗎？
+SeasonalTalkEvent_004_011ID	4	Escha	エスカ	もちろん、私が最後までお手伝いします！	Escha	Of course. And besides, I'll be here to help you all the way!	爱丝卡	没问题，我会协助到底的！	愛絲卡	那當然，我會幫妳到最後的！
+SeasonalTalkEvent_004_011ID	5	Juna	ユナ	先生には世話になるな……	Juna	I'm lucky to have such a wonderful teacher.	尤娜	真是太麻烦老师了……	尤娜	要承蒙老師妳的幫助了……
+SeasonalTalkEvent_004_011ID	6	Escha	エスカ	えへへ。頑張りましょうね！	Escha	Hehe. As long as we're together, we can do it!	爱丝卡	嘿嘿，一起加油吧！	愛絲卡	嘿嘿，我們一起加油吧！
+SeasonalTalkEvent_004_011ID	7	Juna	ユナ	これほど私の面倒を見てもらうのはありがたいが、\nエスカのメニューのほうは大丈夫なのか？	Juna	Don't get me wrong, I'm incredibly thankful for your help. But aren't I getting in the way of your recipe planning for the cafe?	尤娜	非常感谢你这么关心我，\n不过研发餐品那边进行得如何了？	尤娜	我很感謝愛絲卡妳這麼幫我，\n但妳的菜單沒問題嗎？
+SeasonalTalkEvent_004_011ID	8	Escha	エスカ	はい。文献を調べてみたんですけど、わたしの\nレシピは「白妙のミルク」があれば完成しそうです	Escha	Not to worry. After doing some research, it looks like the last ingredient I'll need is silken milk.	爱丝卡	很有进展，我查了一些文献，\n想做的配方还差“白妙鲜奶”就能完成了。	愛絲卡	沒問題的。我調查過文獻，\n我的配方只要有「白妙鮮奶」大概就能完成了。
+SeasonalTalkEvent_004_011ID	9	Escha	エスカ	それがあれば、ユナさんのチョコクッキーも美味しく\nできるはずですよ	Escha	We'll be able to use it in your chocolate cookies too! I just know they'll be delicious.	爱丝卡	而且只要有了那种奶，\n尤娜小姐的巧克力曲奇也能做得更好吃。	愛絲卡	有了那個，尤娜小姐的巧克力餅乾\n應該也能做得很好吃。
+SeasonalTalkEvent_004_011ID	10	Juna	ユナ	それはいい。早速その素材を採りに行こう	Juna	Excellent. Let's go and fetch some!	尤娜	真是个好消息。\n那我们就赶紧去找它吧。	尤娜	那就好。我們快點去採集妳說的那種素材吧。
+SeasonalTalkEvent_004_011ID	11	Escha	エスカ	ただ、問題があって。\n採取地までは分からなかったんですよね	Escha	Well, there's one small problem: I'm not sure where we can get any.	爱丝卡	不过有个问题，我不知道在哪里才能采集到。	愛絲卡	不過，現在的問題是，\n我還不清楚採集地在哪裡。
+SeasonalTalkEvent_004_011ID	12	Juna	ユナ	ふむ……彼女を頼ってみようか	Juna	Hm... Then I know just the person to ask.	尤娜	嗯……那就拜托那位试试吧。	尤娜	唔……我們去拜託她看看吧。
+SeasonalTalkEvent_004_011ID	13	Resna	レスナ	事情は分かりました！　エスカ先輩の素敵な試み、\n感激の極みです！	Resna	Got it. I'd be more than happy to help you with your experiment, Miss Escha!	蕾斯娜	事情我知道了！爱丝卡前辈竟然\n在做这么了不起的尝试，真是令人感动之至！	蕾斯娜	情況我明白了！愛絲卡前輩這美妙的嘗試，\n實在太令人感激了！
+SeasonalTalkEvent_004_011ID	14	Resna	レスナ	きっと素晴らしく美味しいはず！\n想像しただけで、気絶しそうです	Resna	It's going to be a culinary delight! Just imagining those sweets is making my mouth water!	蕾斯娜	做出来的巧克力一定会非常甜美可口吧！\n光是想想我就要美得昏过去了。	蕾斯娜	成品一定會超級美味！\n光是想像，我就快昏過去了。
+SeasonalTalkEvent_004_011ID	15	Escha	エスカ	レスナちゃんが言うなら間違いないですね！\nそれで、採取できる場所はご存じでしょうか？	Escha	If you say so, that makes me feel much more confident! Do you happen to know where we might find the milk we need?	爱丝卡	蕾斯娜都这么说了，那一定没错！\n那么你知道在哪里能采集到那种奶吗？	愛絲卡	既然蕾斯娜這麼說，就一定不會有錯！\n那麼，妳知道哪裡可以採集到嗎？
+SeasonalTalkEvent_004_011ID	16	Resna	レスナ	「白妙のミルク」ですが、私の読んだ文献に\n採取地が載っていましたよ！	Resna	I remember seeing something about silken milk in one of my books!	蕾斯娜	“白妙鲜奶”对吧，\n我读过的文献里记载了采集地哦！	蕾斯娜	「白妙鮮奶」的話，\n我讀過的文獻裡有記載採集地喔！
+SeasonalTalkEvent_004_011ID	17	Juna	ユナ	本当か、レスナ！	Juna	Really?!	尤娜	真的吗，蕾斯娜？！	尤娜	蕾斯娜，真的嗎！？
+SeasonalTalkEvent_004_011ID	18	Resna	レスナ	はい。ですが、強い魔物が出るという山なんです。\nですから不肖私もお供します！	Resna	Yeah, but the mountain where it can be found is said to be crawling with fierce monsters. But I'd be happy to accompany you!	蕾斯娜	没错。问题是那片山区里有强大的魔物出没。\n或许我帮不上多大忙，不过我愿意陪你们一起去！	蕾斯娜	是的。不過，那座山裡有強大的魔物出沒，\n所以不成材的我也與二位同行吧！
+SeasonalTalkEvent_004_011ID	19	Escha	エスカ	えっ、いいんですか！？	Escha	Oh, you will?!	爱丝卡	咦，不会太麻烦你吗？	愛絲卡	咦，可以嗎！？
+SeasonalTalkEvent_004_011ID	20	Resna	レスナ	ふふっ。錬金術を広める活動です。ぜひとも\nレスナ・シュテルネンリヒトに手伝わせてください！	Resna	Hehe, all in a day's work! I, Resna Sternenlicht, would be honored to help you spread the joy of alchemy throughout the world!	蕾斯娜	呵呵，这可是推广炼金术的活动。\n请一定让我蕾斯娜·修特涅利希特出一份力！	蕾斯娜	呵呵，這算是一種推廣鍊金術的活動，\n請務必讓我蕾斯娜‧修特涅利希特出一份力吧！
+SeasonalTalkEvent_004_011ID	21	Resna Sternenlicht	レスナ・シュテルネンリヒト	人助けに意欲的な駆け出しの錬金術士。\n錬金術を愛し、その素晴らしさを広めたいと思っている	Resna Sternenlicht	A novice alchemist dedicated to using her craft to help others. She loves the art dearly and wants to see it flourish.	蕾斯娜·修特涅利希特	初出茅庐的炼金术士，非常愿意助人为乐。\n深爱着炼金术，想宣传普及炼金术的厉害之处。	蕾斯娜‧修特涅利希特	熱心助人的新手鍊金術士。\n深愛鍊金術，想推廣其美好之處。
+SeasonalTalkEvent_004_012ID	0	Juna	ユナ	魔物の数が多いな	Juna	There really are a lot of monsters here...	尤娜	魔物数量好多啊。	尤娜	魔物數量還真多啊。
+SeasonalTalkEvent_004_012ID	1	Escha	エスカ	そうですね。ユナさんとレスナちゃんがいて\n助かりました	Escha	Yeah... I sure am glad I have you and Resna with me.	爱丝卡	是啊。有尤娜小姐和蕾斯娜在真是帮大忙了。	愛絲卡	是啊，有尤娜小姐和蕾斯娜妳們在\n真是幫了大忙。
+SeasonalTalkEvent_004_012ID	2	Resna	レスナ	そう仰っていただけると！\n採取地の山頂はもうすぐですので、頑張りましょう！	Resna	Aw, you're too kind! The summit where we can find the milk we need is just up ahead. One last push!	蕾斯娜	能帮到你就好！\n山顶采集地就快到了，大家再加把劲！	蕾斯娜	很高興聽到妳這麼說！\n要進行採集的山頂就快到了，我們加油吧！
+SeasonalTalkEvent_004_012ID	3	Juna	ユナ	ふふ。錬金術となるとレスナは本当に張り切るな	Juna	Hehe. You always light right up when it comes to alchemy, Resna.	尤娜	呵呵，只要涉及炼金术，蕾斯娜就鼓足了劲啊。	尤娜	呵呵，蕾斯娜遇到鍊金術的事就真的幹勁十足呢。
+SeasonalTalkEvent_004_012ID	4	Resna	レスナ	えへへ。でもそれはロマンさんもですよ！\nそういえば、ロマンさんはお元気ですか？	Resna	Heh heh, I do. But so does Roman! How's he doing these days, anyway?	蕾斯娜	嘿嘿，不过罗曼先生不也一样吗！\n对了，罗曼先生他最近好吗？	蕾斯娜	嘿嘿，不過這點羅曼先生也一樣喔！\n對了，羅曼先生他過得還好嗎？
+SeasonalTalkEvent_004_012ID	5	Juna	ユナ	あぁ。毎日、公務に励んでおられる	Juna	Well, he's busy handling public affairs day in and day out...	尤娜	他很好，每天都在勤奋处理公务。	尤娜	嗯，他每天都很勤奮地處理公務。
+SeasonalTalkEvent_004_012ID	6	Resna	レスナ	そうなんですね！　ふふっ。\nまた勝手に抜け出したりは、していないんですね	Resna	Haha, I'm a bit surprised, to be honest! Doesn't he sneak off on his own now and again?	蕾斯娜	是这样啊！呵呵。\n他应该没有再偷偷跑出来了吧。	蕾斯娜	這樣啊！呵呵，\n他沒有再自己隨便溜出去了啊。
+SeasonalTalkEvent_004_012ID	7	Juna	ユナ	約束をしてくださっている。それにしても、レスナは\n本当に殿下と意気投合しているな。羨ましい限りだ	Juna	He swore that he wouldn't. But I'm amazed at how much you and His Highness have in common. To be honest, I'm jealous.	尤娜	嗯，关于这个他已经向我保证过了。\n不过蕾斯娜和殿下真是志同道合啊，我好羡慕你。	尤娜	因為他答應過我。話說回來，\n蕾斯娜和殿下真的很合得來，真讓人羨慕。
+SeasonalTalkEvent_004_012ID	8	Resna	レスナ	そんな。ユナさんとロマンさんの仲の良さには\nかないませんよ！	Resna	Jealous? You shouldn't be. You and Roman are like two peas in a pod!	蕾斯娜	哪里的话。\n怎么也比不上尤娜小姐和罗曼先生的关系啦！	蕾斯娜	哪裡，沒有妳和羅曼先生的感情\n那麼好啦！
+SeasonalTalkEvent_004_012ID	9	Juna	ユナ	私は殿下に煙たがられることのほうが多い	Juna	But I feel like I'm always getting on his nerves...	尤娜	但殿下经常避我不及啊。	尤娜	殿下倒是挺常躲著我的。
+SeasonalTalkEvent_004_012ID	10	Resna	レスナ	そうでしょうか？　昔のことは分かりませんが\nロマンさんはユナさんをとっても信頼してますよ！	Resna	Why do you think that? If there's one thing I can tell for sure, it's that Roman trusts you completely.	蕾斯娜	是吗？以前的事我不清楚，\n不过现在罗曼先生非常信任尤娜小姐哦！	蕾斯娜	是這樣嗎？雖然我不清楚以前的事，\n但羅曼先生十分信任妳喔！
+SeasonalTalkEvent_004_012ID	11	Juna	ユナ	そう見えるのか？	Juna	Do you really think so?	尤娜	你这么觉得吗？	尤娜	看起來是這樣嗎？
+SeasonalTalkEvent_004_012ID	12	Resna	レスナ	はい！　そうとしか見えません！	Resna	I practically know so! It's plain to see.	蕾斯娜	是啊！不可能错的！	蕾斯娜	是的！怎麼看都是這樣！
+SeasonalTalkEvent_004_012ID	13	Escha	エスカ	あはは。あれでロマンさんも伝えるのが下手なのかも\nしれませんね	Escha	Haha! Roman probably just has a hard time showing it.	爱丝卡	哈哈哈，也许是罗曼先生不太擅长表达吧。	愛絲卡	啊哈哈，別看羅曼先生那樣，\n他或許也不擅長表達呢。
+SeasonalTalkEvent_004_012ID	14	Juna	ユナ	そ、そうなのか……	Juna	Oh... M-Maybe you're right...	尤娜	是、是吗……	尤娜	是、是這樣嗎……
+SeasonalTalkEvent_004_012ID	15	Escha	エスカ	もう。ユナさんもですよ？	Escha	You aren't the best communicator either, silly.	爱丝卡	真是的，尤娜小姐你也是哦？	愛絲卡	真是的，尤娜小姐妳也是喔！
+SeasonalTalkEvent_004_012ID	16	Juna	ユナ	わ、私も！？	Juna	What, me?!	尤娜	我、我也是？！	尤娜	我、我也是！？
+SeasonalTalkEvent_004_012ID	17	Escha	エスカ	そうですよ！　……そうだ。\nユナさん、１つわたしと約束してくれませんか？	Escha	Yes, you! So, Juna... Would you promise me something?	爱丝卡	是啊！对了……\n尤娜小姐，你可以答应我一件事吗？	愛絲卡	是啊！對了，\n尤娜小姐，妳可以答應我一件事嗎？
+SeasonalTalkEvent_004_012ID	18	Escha	エスカ	チョコを贈る時には、自分の気持ちを隠さず\n伝える……って	Escha	When we give our chocolates away, we won't hide our true feelings.	爱丝卡	送巧克力的时候，不要再隐藏自己的心情了，\n要好好告诉他……好吗？	愛絲卡	送巧克力的時候，\n請妳要如實表達自己的想法……
+SeasonalTalkEvent_004_012ID	19	Juna	ユナ	？　あぁ、約束しよう	Juna	Hm? All right. I promise.	尤娜	嗯？好吧，我答应你。	尤娜	？好，我答應妳。
+SeasonalTalkEvent_004_012ID	20	Escha	エスカ	よかった！　それなら安心です！	Escha	Thank you! That makes me feel much better!	爱丝卡	太好了！这下放心了！	愛絲卡	太好了！那我就放心了！
+SeasonalTalkEvent_004_013ID	0	Escha	エスカ	レスナちゃん。\n「白妙のミルク」はどうやって採るんでしょうか？	Escha	Um, Resna? Once we get there, how do we harvest the silken milk, anyway?	爱丝卡	蕾斯娜，“白妙鲜奶”要怎么采集呢？	愛絲卡	蕾斯娜，\n「白妙鮮奶」要怎麼採集呢？
+SeasonalTalkEvent_004_013ID	1	Escha	エスカ	カフェのメニューで提供する以上、チョコに使う\n「白妙のミルク」は大量にいると思うんです	Escha	Since we'll need enough for both the cafe and our own sweets, we'll have to acquire quite a bit.	爱丝卡	因为要保证咖啡厅的餐品供应，\n为了制作巧克力估计得用到大量“白妙鲜奶”才行。	愛絲卡	既然要在咖啡廳的菜單上提供，\n我想應該會需要大量的「白妙鮮奶」來製作巧克力。
+SeasonalTalkEvent_004_013ID	2	Resna	レスナ	確かにレシピを拝見した限りですが、通常のチョコと\n比べても、ミルクをたくさん必要とするようですね	Resna	On top of that, the recipes seem to call for much more milk than your average chocolate.	蕾斯娜	确实，我看了一下配方，\n发现比制作普通巧克力需要用到更多的奶。	蕾斯娜	就配方來看，需要的鮮奶用量\n好像也的確比一般巧克力還多。
+SeasonalTalkEvent_004_013ID	3	Resna	レスナ	「白妙のミルク」を入手するには、この山のひつじを\n攻略する必要があるんですが……	Resna	In order to get our hands on that milk, we have to conquer the sheep that live on this mountain.	蕾斯娜	要获取“白妙鲜奶”，\n就需要对付这座山里的绵羊……	蕾斯娜	要想要取得「白妙鮮奶」，\n就得攻略這座山的綿羊……
+SeasonalTalkEvent_004_013ID	4	Resna	レスナ	「ひつじは大群を形成しており、見た目に反し\n　ひどく凶暴だ」という記述があるんです	Resna	But according to what I've read, the sheep here live in large flocks. And they may look cute, but they're terribly vicious creatures.	蕾斯娜	书上说，“这里有着大规模的绵羊群，\n　它们尽管外表温顺，但性格非常凶狠”。	蕾斯娜	文獻上有記載，「山上住了一大群綿羊，\n牠們與外表相反，性情十分凶暴。」這樣的內容
+SeasonalTalkEvent_004_013ID	5	Escha	エスカ	つまり……凶暴な大群のひつじを大人しくさせて\n採取するってことですね？	Escha	So you're saying we need to calm down a flock of vicious sheep long enough to milk them?!	爱丝卡	也就是说……要驯服大群凶狠的绵羊，\n然后从它们身上采集奶吗？	愛絲卡	也就是說……我們要先馴服一大群凶暴的綿羊後\n再採集對吧？
+SeasonalTalkEvent_004_013ID	6	Resna	レスナ	はい。そして最上級品は山のぬしのひつじから\n採れるそうなんですが、これが非常に困難だそうです	Resna	That's about right. But we can only get the highest-quality milk from the Lady of the Mountain. The leader of the flock. And that certainly won't be easy.	蕾斯娜	是的。而且只有从头羊——山之主身上才能采集到\n最高级的奶，但是要制服它恐怕极其困难。	蕾斯娜	是的，而且據說最上級的鮮奶能從山林霸主羊\n身上採集到，但似乎非常困難。
+SeasonalTalkEvent_004_013ID	7	Escha	エスカ	そっか……	Escha	Oh... I see.	爱丝卡	这样啊……	愛絲卡	這樣啊……
+SeasonalTalkEvent_004_013ID	8	Resna	レスナ	最上級品にこだわらなければ、カフェで出す分の量は\n確保できるのではないでしょうか？	Resna	If you're not too concerned with quality, though, we can get the milk we need for the cafe from the other sheep.	蕾斯娜	要是不坚持用最高级货的话，\n应该就能保证制作咖啡厅餐品所需的量了吧？	蕾斯娜	如果不堅持一定要使用最上級品，\n應該就能確保咖啡廳所需的用量吧？
+SeasonalTalkEvent_004_013ID	9	Escha	エスカ	最上級品は欲しいところですけど、背に腹は\n代えられませんね	Escha	Well, I'd love to have the best milk possible. But if it comes down to it, we may have to compromise.	爱丝卡	可以的话当然想用最高级的原料，\n但为了保证供应量也只能割爱了。	愛絲卡	雖然很想用最上級品，\n但沒辦法兩全其美啊。
+SeasonalTalkEvent_004_013ID	10	Juna	ユナ	ともかく、ひつじのいる山頂を目指そう	Juna	In any case, let's make our way to the summit.	尤娜	总之先前往绵羊们栖息的山顶吧。	尤娜	總之，我們先前往綿羊所在的山頂吧。
+SeasonalTalkEvent_004_013ID	11	Escha	エスカ	あ！　ひつじの群れです！	Escha	Oh, look! A flock of sheep!	爱丝卡	看！是羊群！	愛絲卡	啊！是羊群！
+SeasonalTalkEvent_004_013ID	12	Resna	レスナ	あの見た目に油断してはいけませんよ！\nひつじですが、狼藉者。要注意です！	Resna	Be careful! They may be sheep, but they're way tougher than they look!	蕾斯娜	不要被它们的外表骗了，\n虽然是绵羊，但也是凶猛的魔兽，大家要小心！	蕾斯娜	千萬別因為牠們的外表而大意喔！\n牠們雖然是綿羊，卻很凶暴！一定要小心！
+SeasonalTalkEvent_004_013ID	13	Escha	エスカ	は、はいっ！	Escha	R-Right!	爱丝卡	好、好的！	愛絲卡	好、好的！
+SeasonalTalkEvent_004_013ID	14	Escha	エスカ	えっと、まず、どのひつじから狙いましょうか？	Escha	Hm... Which sheep should we set our sights on first?	爱丝卡	那我们要先对付哪只羊呢？	愛絲卡	呃，我們要先從哪隻羊開始呢？
+SeasonalTalkEvent_004_013ID	15	Juna	ユナ	あそこのやつがいいだろう。\n１匹だけ群れから離れている	Juna	How about that one over there? It's separated from the rest of the flock.	尤娜	那只就不错吧？\n它单独脱离了羊群。	尤娜	就從那邊的那隻下手吧。\n只有那隻離羊群比較遠。
+SeasonalTalkEvent_004_013ID	16	Resna	レスナ	そうですね。大人しくさせやすそうです！	Resna	Good thinking. That might make it easier to calm down.	蕾斯娜	是呀，看上去还挺老实的，应该比较容易对付。	蕾斯娜	也好，看起來感覺比較好馴服！
+SeasonalTalkEvent_004_013ID	17	Resna	レスナ	では……参りましょうか！	Resna	Let's go, team!	蕾斯娜	那……我们上吧！	蕾斯娜	那麼……我們出發吧！
+SeasonalTalkEvent_004_013ID	18	Resna	レスナ	えええええっ！？　なんという早さ	Resna	Ahhh! How'd these fluff balls get so fast?!	蕾斯娜	什么——？！居然这么敏捷！	蕾斯娜	咦咦咦咦咦！？未免太快了吧。
+SeasonalTalkEvent_004_013ID	19	Juna	ユナ	囲まれたか！？	Juna	We're surrounded!	尤娜	我们被包围了？！	尤娜	我們被包圍了嗎！？
+SeasonalTalkEvent_004_013ID	20	Escha	エスカ	うっ……これはやるしかないですね！	Escha	Ngh... We have no choice but to fight!	爱丝卡	唔……只能打一场了！	愛絲卡	唔……這下只能跟牠們一戰了！
+SeasonalTalkEvent_004_014ID	0	Escha	エスカ	はぁぁ～。すごい数のひつじでしたね……	Escha	Phew... I've never seen so many sheep before.	爱丝卡	呼～真是好大一群绵羊啊……	愛絲卡	天啊～綿羊的數量多得驚人……
+SeasonalTalkEvent_004_014ID	1	Resna	レスナ	でも、私たち、やり遂げました……	Resna	Yeah. But we made it through somehow.	蕾斯娜	不过，我们达成目的了……	蕾斯娜	不過，我們成功了……
+SeasonalTalkEvent_004_014ID	2	Juna	ユナ	あぁ。大量に採取できたな	Juna	Right. And we managed to gather quite a bit of milk.	尤娜	是啊，采集到了大量的奶。	尤娜	對啊，採集到了好多呢。
+SeasonalTalkEvent_004_014ID	3	Escha	エスカ	お二人のおかげでカフェで出すチョコのメニュー分は\n素材が確保できました！　これで完成させられます！	Escha	Thanks to the two of you, we have everything we need to make our sweets! And more than enough milk to run the cafe!	爱丝卡	多亏了二位，有这些素材就足够制作\n咖啡厅餐品要用到的巧克力了！这下我能完成委托了！	愛絲卡	多虧二位的幫忙，才確保了咖啡廳供應的\n巧克力菜單所需的素材！這樣就能做出成品了！
+SeasonalTalkEvent_004_014ID	4	Escha	エスカ	早速アトリエに戻ってチョコを作りましょうか！	Escha	Let's head back to the atelier so we can get to work!	爱丝卡	赶快回炼金工房去做巧克力吧！	愛絲卡	我們立刻回鍊金工房製作巧克力吧！
+SeasonalTalkEvent_004_014ID	5	Juna	ユナ	エスカは、最上級の「白妙のミルク」を\n狙っていたのでは？	Juna	But Escha, weren't you trying to get your hands on the highest-quality silken milk?	尤娜	爱丝卡，你不是想要最高级的“白妙鲜奶”吗？	尤娜	愛絲卡不是想要\n最上級的「白妙鮮奶」嗎？
+SeasonalTalkEvent_004_014ID	6	Escha	エスカ	そ、それは……もし手に入ればって思っては\nいましたけど……本当に難しいって……	Escha	Um, I was hoping we could, but since it's so dangerous...	爱丝卡	这、这个嘛……能弄得到当然再好不过……\n但不是说真的很难对付吗……	愛絲卡	這、這個嘛……如果能取得當然最好……\n但聽說真的很困難……
+SeasonalTalkEvent_004_014ID	7	Resna	レスナ	そうですね。確か文献には……	Resna	Well, according to what I've read...	蕾斯娜	确实，我记得文献上说……	蕾斯娜	說得也是，記得文獻上是說……
+SeasonalTalkEvent_004_014ID	8	Resna	レスナ	「出会うこともままならず、会えたとしても\n　並ならぬ気性の荒さと強さを持っている」――と	Resna	"""The Lady of the Mountain is incredibly elusive. Though an encounter is unlikely, employ caution, as this creature is far stronger and considerably more violent than its kin."""	蕾斯娜	“它们行踪不定。即使有幸遇见，\n　想制服这种脾气极其暴躁的强悍生物也绝非易事。”	蕾斯娜	「要見到並不是一件易事，即使見到了，\n牠也具備著非同尋常的暴躁性情與凶悍」──這樣。
+SeasonalTalkEvent_004_014ID	9	Escha	エスカ	はぁ……普通の「白妙のミルク」だって、十分に\n良い素材なんです。これでいきましょう	Escha	*Sigh*... It's all right. Let's just go home. The silken milk we have should be more than enough.	爱丝卡	唉……普通的“白妙鲜奶”已经是足够优质的素材了。\n就这样吧。	愛絲卡	唉……即使是一般的「白妙鮮奶」，\n也是夠好的素材了。就用這個來做吧。
+SeasonalTalkEvent_004_014ID	10	Juna	ユナ	いや。今度は私が恩返しをする番だ。\n最上級の「白妙のミルク」を私が採ってみせよう	Juna	No. We can't give up. It's time to repay you for all you've done for me. I'm going to get you that milk.	尤娜	不，这正是我报答你的机会。\n我会为你弄到最高级的“白妙鲜奶”。	尤娜	不，這次輪到我回報恩情了。\n我一定要採集到最上級的「白妙鮮奶」。
+SeasonalTalkEvent_004_014ID	11	Escha	エスカ	で、でも、山のぬしの居場所だって――	Escha	But we don't even know where the Lady of the Mountain i—	爱丝卡	可、可是，我们都不知道山之主在哪里——	愛絲卡	可、可是，我們連山林霸主的所在地──
+SeasonalTalkEvent_004_014ID	12	Shallotte	シャルロッテ	ひゃぁぁぁぁぁっ！！	Shallotte	Yaaagh!	夏露罗蒂	噫——！！	夏露羅蒂	咿啊啊啊啊啊！！
+SeasonalTalkEvent_004_014ID	13	Wilbell	ウィルベル	こ、来ないでぇぇぇぇ！！	Wilbell	Leave us alooone!	薇尔贝儿	不、不要过来啊！！	薇爾貝兒	不、不要過來────！！
+SeasonalTalkEvent_004_014ID	14	Escha	エスカ	シャリーちゃん！？　ウィルベルさん！？	Escha	Shallie?! And Wilbell?!	爱丝卡	夏莉？！薇尔贝儿小姐？！	愛絲卡	夏莉！？薇爾貝兒小姐！？
+SeasonalTalkEvent_004_014ID	15	Resna	レスナ	ど、どうしたんですか！？	Resna	Wh-What's wrong, you two?!	蕾斯娜	你、你们怎么了？！	蕾斯娜	發、發生什麼事了！？
+SeasonalTalkEvent_004_014ID	16	Juna	ユナ	なんだ、この音は！？	Juna	Huh? What on earth is that sound?!	尤娜	这是什么声音？！	尤娜	這是什麼聲音！？
+SeasonalTalkEvent_004_014ID	17	Shallotte	シャルロッテ	ひ、ひつじがまだ追いかけてくるぅぅぅ！	Shallotte	It's the attack of the rabid sheeep!	夏露罗蒂	绵羊还在穷追不舍啊啊啊！	夏露羅蒂	綿、綿羊還在追我們呀啊啊啊！
+SeasonalTalkEvent_004_014ID	18	Wilbell	ウィルベル	ぐっ、今回のはしつこいわね！	Wilbell	Ngh, that sheep just won't stand down!	薇尔贝儿	唔，这一只还真够纠缠不休的！	薇爾貝兒	唔，這次真是難纏啊！
+SeasonalTalkEvent_004_014ID	19	Escha	エスカ	ひ、ひつじですか！？	Escha	Sh-Sheep?!	爱丝卡	绵、绵羊？！	愛絲卡	綿、綿羊嗎！？
+SeasonalTalkEvent_004_014ID	20	Wilbell	ウィルベル	ああっ！？　エスカたちじゃない！	Wilbell	Huh? Escha, is that you?!	薇尔贝儿	啊？！这不是爱丝卡吗！	薇爾貝兒	啊啊！？愛絲卡妳們也在啊！
+SeasonalTalkEvent_004_014ID	21	Shallotte	シャルロッテ	き、来たぁ！　みんな、にげてぇぇぇ！	Shallotte	It's here! Everyone, ruuun!	夏露罗蒂	它、它朝这边来了！大家快跑啊！	夏露羅蒂	來、來了！大家快逃呀啊啊啊！
+SeasonalTalkEvent_004_014ID	22	Resna	レスナ	ホ、ホントにどこからどう見てもひつじだ……	Resna	Whoa... That's one serious sheep, all right.	蕾斯娜	这、这还真是，怎么看都是绵羊呢……	蕾斯娜	真、真的不管怎麼看都是綿羊耶……
+SeasonalTalkEvent_004_014ID	23	Escha	エスカ	す、すごく大きい……レスナちゃん！　まさかこれが！	Escha	It's HUGE! Resna, is that what I think it is?	爱丝卡	这也太大了吧……蕾斯娜！会不会就是它！	愛絲卡	超、超大隻的……蕾斯娜！該不會就是牠吧！
+SeasonalTalkEvent_004_014ID	24	Resna	レスナ	はい！　山のぬしに間違いありません	Resna	Yup... No doubt about it. That's the Lady of the Mountain.	蕾斯娜	不会错的！这就是山之主！	蕾斯娜	對！牠確實就是山林霸主。
+SeasonalTalkEvent_004_014ID	25	Juna	ユナ	なるほど。願ったり叶ったりだな	Juna	We found it. I guess we really should be more careful what we wish for.	尤娜	原来如此，得来全不费工夫。	尤娜	原來如此，真是心想事成呢。
+SeasonalTalkEvent_004_014ID	26	Escha	エスカ	はいっ！	Escha	Now's our chance!	爱丝卡	是啊！	愛絲卡	沒錯！
+SeasonalTalkEvent_004_014ID	27	Wilbell	ウィルベル	どどどういうことよ！？	Wilbell	You mean you WANTED to find this thing?!	薇尔贝儿	什什什什么意思？！	薇爾貝兒	什什什麼意思！？
+SeasonalTalkEvent_004_014ID	28	Juna	ユナ	このひつじを屈服させる！　行くぞ！	Juna	We're going to make this sheep play nice! Let's go!	尤娜	我会让这只绵羊俯首帖耳的！接招吧！	尤娜	讓這隻綿羊投降！準備囉！
+SeasonalTalkEvent_004_015ID	0	Juna	ユナ	むっ……なかなかの馬鹿力だが……！\n御するのはこちらだ！　エスカ、今だ！	Juna	Hmph... That thing may have super strength, but we're the ones who'll come out on top! Escha, now!	尤娜	唔……还真是怪力无穷……！\n但主动权在我们手里！爱丝卡，抓住机会！	尤娜	唔……牠的蠻力真是驚人……！\n但宰制對手的是我們！愛絲卡，趁現在！
+SeasonalTalkEvent_004_015ID	1	Escha	エスカ	はいっ！	Escha	Got it!	爱丝卡	是！	愛絲卡	是！
+SeasonalTalkEvent_004_015ID	2	Escha	エスカ	やぁぁぁぁっ！	Escha	Yaaah!	爱丝卡	呀啊！！	愛絲卡	喝啊啊啊啊！
+SeasonalTalkEvent_004_015ID	3	Resna	レスナ	さすがエスカ先輩っ！\n最上級の素材、入手に成功せり！	Resna	I knew you could do it, Miss Escha! And thanks to you, we got the highest-quality milk there is!	蕾斯娜	不愧是爱丝卡前辈！\n我们拿到最高级的素材了！	蕾斯娜	真不愧是愛絲卡前輩！\n成功取得最上級的素材了！
+SeasonalTalkEvent_004_015ID	4	Shallotte	シャルロッテ	す、すごい……	Shallotte	Wow...	夏露罗蒂	真、真厉害……	夏露羅蒂	好、好厲害……
+SeasonalTalkEvent_004_015ID	5	Wilbell	ウィルベル	あのひつじが伸びちゃったわ……	Wilbell	That sheep sure was a handful.	薇尔贝儿	那只绵羊居然倒下了……	薇爾貝兒	那隻綿羊被打趴了……
+SeasonalTalkEvent_004_015ID	6	Escha	エスカ	「白妙のミルク」はクリームにして使うんです。\nこれは先に手作業で準備したほうが美味しいので……	Escha	First, we have to make the silken milk into whipped cream. The method that gets the most delicious results is to mix it by hand.	爱丝卡	要把“白妙鲜奶”做成奶油来用。\n先做些手工处理会让它更美味……	愛絲卡	「白妙鮮奶」是要拿來做成鮮奶油的。\n這個先手動準備會比較好吃……
+SeasonalTalkEvent_004_015ID	7	Resna	レスナ	まぜまぜまぜまぜ……！	Resna	Mix, mix, mix...!	蕾斯娜	我搅搅搅搅搅……！	蕾斯娜	攪拌攪拌攪拌……！
+SeasonalTalkEvent_004_015ID	8	Juna	ユナ	こ、こんな感じだろうか？	Juna	A-Am I doing it right?	尤娜	这、这样可以了吗？	尤娜	是、是像這樣的感覺嗎？
+SeasonalTalkEvent_004_015ID	9	Escha	エスカ	レスナちゃんはもうちょっと！\nあっ！　ユナさん、混ぜすぎると分離しちゃいますっ！	Escha	Resna, you've almost got it! And Juna... Ah! You're mixing too much! It's going to get clumpy!	爱丝卡	蕾斯娜，你要再加把劲！\n啊，尤娜小姐，搅得太快了会油水分离的！	愛絲卡	蕾斯娜再用力一點！\n啊！尤娜小姐，攪拌過頭會油水分離的！
+SeasonalTalkEvent_004_015ID	10	Escha	エスカ	えっと……これを、こうして、こうやって……っと。\nできた！	Escha	Okay... I'll put the finishing touches on here, and... There! All done!	爱丝卡	要把这个……这样，然后这么……\n做好了！	愛絲卡	我看看……這個要這麼做，再像這樣……好。\n完成了！
+SeasonalTalkEvent_004_015ID	11	Juna	ユナ	む……美味しそうじゃないか！	Juna	Mm! Those look delicious!	尤娜	哦……看上去很好吃啊！	尤娜	唔……看起來很好吃嘛！
+SeasonalTalkEvent_004_015ID	12	Escha	エスカ	チョコ＆リンゴタルトです！\n早速、試食してみましょうか！	Escha	These are my chocolate apple tarts! Would you all help me taste them?	爱丝卡	巧克力苹果挞完成了！\n大家快来试吃一下吧！	愛絲卡	這是巧克力＆蘋果塔！\n我們趕快來試吃看看吧！
+SeasonalTalkEvent_004_015ID	13	Juna	ユナ	もぐ……これは！　滑らかな口当たりでいながら\nほろほろと口の中で溶ける……！	Juna	*Munch*... Ohhh! It's so light, it just melts in my mouth...!	尤娜	嚼嚼……天啊！口感非常顺滑，\n然后在嘴里一抿即化……！	尤娜	（嚼嚼）……這個！不只是口感滑順，\n而且還會在口中慢慢融化……
+SeasonalTalkEvent_004_015ID	14	Resna	レスナ	ごくん……す、素晴らしいです！\nこれも錬金術の叡智の結晶ですね！	Resna	*Gulp*... Wow! Just wow! You distilled the wisdom of alchemy into pastry form!	蕾斯娜	啊呜……太、太棒了！\n这也是炼金术智慧的结晶啊！	蕾斯娜	（吞下）……太、太美妙了！\n這也是鍊金術之睿智的結晶吧！
+SeasonalTalkEvent_004_015ID	15	Escha	エスカ	むぐ……味や食感は思った通りかな。\nでもこれ、足が早いのが難点なんですよね……	Escha	Hmm... The flavor and texture are just what I expected. But the drawback of this recipe is that it'll spoil in no time.	爱丝卡	嚼嚼……味道和口感跟想象的一样。\n不过这个的缺点是没法长期存放……	愛絲卡	（嚼嚼）……味道和口感都和預期中的一樣吧。\n不過，這個的缺點就是很容易壞掉……
+SeasonalTalkEvent_004_015ID	16	Escha	エスカ	リンデ祭で食べてもらうものだから問題は\nないと思うんですが、今後の課題として覚えておきます	Escha	Customers will eat them right away at the festival, so this recipe will serve its purpose for now, but I'll have to remember this problem in the future.	爱丝卡	在林德节期间食用倒是应该没问题。\n不过我要把这个问题记下来，今后想办法攻克。	愛絲卡	這是要在林德祭上吃的，所以應該沒問題，\n但我會記起來當作今後的課題。
+SeasonalTalkEvent_004_015ID	17	Resna	レスナ	な、なんと果てなき向上心！\nエスカ先輩、お見それしました！！	Resna	Goodness, what dedication to improvement! Miss Escha, I'm seeing you in a whole new light!	蕾斯娜	没、没想到爱丝卡前辈的上进心如此永无止境！！	蕾斯娜	真、真是無窮無盡的上進心！\n愛絲卡前輩，恕我之前有眼無珠！！
+SeasonalTalkEvent_004_015ID	18	Escha	エスカ	お、大げさですよ！\nユナさん！　ユナさんのクッキーを作りましょう！	Escha	D-Don't be silly! Okay, Juna, let's start baking your cookies next!	爱丝卡	过、过奖了！\n尤娜小姐！下面来做你的曲奇吧！	愛絲卡	太、太誇張了啦！\n尤娜小姐！我們來做尤娜小姐的餅乾吧！
+SeasonalTalkEvent_004_015ID	19	Juna	ユナ	よろしく頼む！	Juna	I'm counting on your wisdom, Escha!	尤娜	麻烦你协助了！	尤娜	萬事拜託了！
+SeasonalTalkEvent_004_015ID	20	Escha	エスカ	そこはサクサクっと切るようにかき混ぜて……	Escha	Make sure to mix the dough just like this.	爱丝卡	要搅拌到不那么粘稠……	愛絲卡	這邊要俐落地用切拌的方式混合……
+SeasonalTalkEvent_004_015ID	21	Juna	ユナ	わ、分かった	Juna	A-All right.	尤娜	知、知道了。	尤娜	好、好的。
+SeasonalTalkEvent_004_015ID	22	Escha	エスカ	じゃあ、生地を型抜きしましょうか！	Escha	Good, now it's time to cut them into shapes!	爱丝卡	然后把饼胚做成想要的形状吧！	愛絲卡	那麼，我們用模具切割麵團吧！
+SeasonalTalkEvent_004_015ID	23	Juna	ユナ	型なら持ってきたぞ	Juna	Actually, I brought my own cookie cutter.	尤娜	我带了模具。	尤娜	我有帶模具來喔。
+SeasonalTalkEvent_004_015ID	24	Escha	エスカ	わぁ、クマさん！　かわいいです！	Escha	Awww, a bear! How adorable!	爱丝卡	哇，是小熊！好可爱！	愛絲卡	哇，是小熊耶！真可愛！
+SeasonalTalkEvent_004_015ID	25	Juna	ユナ	そ、そうだろうか……	Juna	Y-You think so...?	尤娜	是、是吗……	尤娜	很、很可愛嗎……
+SeasonalTalkEvent_004_015ID	26	Resna	レスナ	ユナさん、すごいです！\nとっても美味しそうなチョコクッキーですね！	Resna	Juna, you did great! Your chocolate cookies look absolutely delectable!	蕾斯娜	尤娜小姐真厉害！\n这巧克力曲奇看上去好好吃！	蕾斯娜	尤娜小姐，妳真厲害！\n巧克力餅乾看起來太誘人了！
+SeasonalTalkEvent_004_015ID	27	Juna	ユナ	エスカ、それにレスナのおかげで、\nこうして完成させることができた。心から感謝する	Juna	I couldn't have done it without your help, Resna. And you either, Escha. Thank you both, from the bottom of my heart.	尤娜	都是多亏了爱丝卡，还有蕾斯娜的帮助，\n才能完成这样的曲奇。衷心感谢你们。	尤娜	這都是多虧了愛絲卡和蕾斯娜的幫忙，\n我才能做出這些餅乾。我發自內心感謝妳們。
+SeasonalTalkEvent_004_015ID	28	Escha	エスカ	ユナさんが頑張ったからですよ！\n約束……忘れないでくださいね	Escha	It's thanks to all of the effort you put in, Juna. Just...don't forget our promise, okay?	爱丝卡	是尤娜小姐自己努力的成果啦！\n那么……要记得你答应过我的事哦。	愛絲卡	這是尤娜小姐努力的成果！\n約定……可別忘了喔。
+SeasonalTalkEvent_004_015ID	29	Juna	ユナ	あぁ。胸に刻もう	Juna	I won't. I swear it.	尤娜	好，我会记在心上。	尤娜	嗯，我會牢記在心。
+SeasonalTalkEvent_004_015ID	30	Escha	エスカ	（最上級のミルクを使った、特別なチョコ……）	Escha	(This chocolate was made with the highest-quality milk... I want this to be truly special.)	爱丝卡	（用最高级的奶制作的特别的巧克力……）	愛絲卡	（使用最上級鮮奶的特別巧克力……）
+SeasonalTalkEvent_004_015ID	31	Escha	エスカ	（ロジーさん、喜んでくれるかな？）	Escha	(I really hope Logy will like it...)	爱丝卡	（罗吉先生收到了会开心吗？）	愛絲卡	（羅吉先生會喜歡嗎？）
+SeasonalTalkEvent_004_016ID	0	Shallotte	シャルロッテ	えっと、これとこれを入れて……	Shallotte	Let's see, I need to mix this with that, and...	夏露罗蒂	唔，要加这个，还有这个……	夏露羅蒂	我看看，加入這個和這個……
+SeasonalTalkEvent_004_016ID	1	Wilbell	ウィルベル	ほら、せっかく手に入れたミルクも忘れちゃダメよ！	Wilbell	Hey, don't forget the milk you worked so hard for!	薇尔贝儿	可别忘了好不容易才弄到的奶啊！	薇爾貝兒	來，好不容易取得的鮮奶也別忘了喔！
+SeasonalTalkEvent_004_016ID	2	Shallotte	シャルロッテ	あっ！　ありがとうございます、ウィルベル師匠！	Shallotte	Oops, I almost forgot! Thank you, Master Wilbell!	夏露罗蒂	啊！谢谢薇尔贝儿师父提醒！	夏露羅蒂	啊！謝謝妳，薇爾貝兒師父！
+SeasonalTalkEvent_004_016ID	3	Shallotte	シャルロッテ	あとは、ゆっくりとかき混ぜて……	Shallotte	Next I need to mix it up, but not too fast...	夏露罗蒂	然后，要缓缓搅拌……	夏露羅蒂	再來仔細攪拌……
+SeasonalTalkEvent_004_016ID	4	Shallotte	シャルロッテ	いやぁ、ここ数日は師匠とあちこち駆け回って\n大変だったなぁ……	Shallotte	Phew. We've really been running around the past few days, haven't we, Master?	夏露罗蒂	哎呀，这几天跟着师父到处奔走，\n真是累死人了……	夏露羅蒂	哎呀，這幾天跟師父東奔西走的，\n真的好累人……
+SeasonalTalkEvent_004_016ID	5	Wilbell	ウィルベル	でも素材も全部集まったことだし、\n結果的にはよかったんじゃないの？	Wilbell	But we managed to get all of the ingredients together. So all's well that ends well, right?	薇尔贝儿	不过素材全都找到了，\n也算是满意的结果吧？	薇爾貝兒	不過素材全都湊齊了，\n以結果而言不是很好嗎？
+SeasonalTalkEvent_004_016ID	6	Shallotte	シャルロッテ	まぁ、そうですね！　もう少しで完成するし、\nなんだかんだ楽しかったし！	Shallotte	Yeah, you're right! Plus, we're almost finished baking. And in the end, doing all of this with you was such a blast!	夏露罗蒂	说得也是！还差一点就能完成了，\n怎么说呢，还挺开心的！	夏露羅蒂	嗯，說得也是！再一下下巧克力就要完成了，\n而且這段過程也滿開心的！
+SeasonalTalkEvent_004_016ID	7	Wilbell	ウィルベル	そ、そう。\nちょっとシャルロッテ、手元が疎かじゃない！？	Wilbell	You think so? I... Whoa, Shallotte! Watch what you're doing!	薇尔贝儿	这、这样啊。\n喂，夏露罗蒂！手上别停啊？！	薇爾貝兒	沒、沒錯。\n啊，夏露羅蒂，妳的手是不是慢下來了！？
+SeasonalTalkEvent_004_016ID	8	Shallotte	シャルロッテ	わわっ！　そろそろ色が変わってきたから、\n最後の仕上げっと……	Shallotte	Oops, that was a close one! They're starting to change color, so we must be in the final stretch...	夏露罗蒂	哇啊！有一点点开始变色了，\n那就开始最后一步……	夏露羅蒂	哇哇！顏色差不多變了，\n再把最後一個步驟……
+SeasonalTalkEvent_004_016ID	9	Shallotte	シャルロッテ	よし、できた！　ホントにできちゃった！\nチョコカップケーキだ！	Shallotte	Aaand, they're done! I can't believe I actually did it... My chocolate cupcakes are finished!	夏露罗蒂	好，完成了！真的做出来了！\n是巧克力杯子蛋糕！	夏露羅蒂	好，完成了！我真的做出來了！\n巧克力杯子蛋糕！
+SeasonalTalkEvent_004_016ID	10	Wilbell	ウィルベル	そ、そりゃできるでしょうよ。\nで、誰にあげるつもりなのよ？	Wilbell	Well, yeah. Don't act so surprised. But who are these cupcakes for, anyway?	薇尔贝儿	当、当然能做出来啊。\n那你要把这个送给谁呢？	薇爾貝兒	當、當然做得出來啊。\n所以，妳打算送給誰啊？
+SeasonalTalkEvent_004_016ID	11	Shallotte	シャルロッテ	それはですね……	Shallotte	Actually...	夏露罗蒂	这个嘛……	夏露羅蒂	這個嘛……
+SeasonalTalkEvent_004_016ID	12	Shallotte	シャルロッテ	はい、ウィルベル師匠！	Shallotte	They're for you, Master Wilbell!	夏露罗蒂	送给你，薇尔贝儿师父！	夏露羅蒂	請收下吧，薇爾貝兒師父！
+SeasonalTalkEvent_004_016ID	13	Wilbell	ウィルベル	ええっ！？　あたしに作ってくれてたの！？	Wilbell	Huh?! Wait, you were making these for me the whole time?	薇尔贝儿	咦？！这个是为我做的吗？！	薇爾貝兒	咦咦！？這是做給我的嗎！？
+SeasonalTalkEvent_004_016ID	14	Shallotte	シャルロッテ	はい！　あたしの日頃の感謝の気持ちです！	Shallotte	Yup! I just wanted to show you how much I appreciate you.	夏露罗蒂	是的！我想用它代表一直以来对师父的谢意！	夏露羅蒂	是的！我要感謝師父平時對我的照顧！
+SeasonalTalkEvent_004_016ID	15	Wilbell	ウィルベル	も、もうっ！　あたしに渡すのにあたしに\n作り方を聞くなんて馬鹿なんだから……もぐもぐ	Wilbell	Ugh! If you're going to make Meme a present, then you should know better than to ask Meme for help doing it, dummy! *Munch*	薇尔贝儿	真、真是的！要送我还问我怎么做，\n真是个小笨蛋……嚼嚼……	薇爾貝兒	真、真是的！明明是要送給我的，\n卻還來問我作法也太傻了吧……（嚼嚼）
+SeasonalTalkEvent_004_016ID	16	Wilbell	ウィルベル	もう！　お、美味しいじゃない！\nほら、あんたも食べなさいよ！	Wilbell	Wow, these are actually really good! C'mon, I can't finish these all by myself! Eat up!	薇尔贝儿	哦！做得还挺很好吃嘛！\n来，你也尝尝！	薇爾貝兒	天啊！這、這很好吃耶！\n來，妳也嘗嘗吧！
+SeasonalTalkEvent_004_016ID	17	Shallotte	シャルロッテ	む、むぐっ！　美味しい～！\nちゃんとできててよかったよ～！	Shallotte	Mm, mmf! Yummy! I'm so happy they turned out well!	夏露罗蒂	唔……唔！好吃！\n能做得这么成功真是太好了～！	夏露羅蒂	（嚼、嚼嚼！）真好吃～！\n幸好做得很成功呢～！
+SeasonalTalkEvent_004_016ID	18	Wilbell	ウィルベル	馬鹿ね。あんたが頑張ったんだから、\n美味しいに決まってるでしょ！　もぐもぐ……	Wilbell	Don't be silly. When you work that hard, of course they'll be good. *Munch*	薇尔贝儿	真是的，你这么努力，\n做出来当然好吃啊！嚼嚼……	薇爾貝兒	傻瓜，妳都那麼努力了，\n當然會做得很好吃啊！（嚼嚼……）
+SeasonalTalkEvent_004_016ID	19	Wilbell	ウィルベル	（これもエスカのレシピのおかげね）	Wilbell	(This is all thanks to Escha. She really saved me with that recipe.)	薇尔贝儿	（也是多亏了爱丝卡给的配方。）	薇爾貝兒	（這也是多虧了愛絲卡的配方呢。）
+SeasonalTalkEvent_004_016ID	20	Rorona	ロロナ	じゃあ、ウィルベルさんとロッテちゃんも\nカフェの宣伝を手伝ってくれるんですか？	Rorona	Wilbell, Lotte, would you two be able to help me with a bit of advertising for the cafe too?	萝乐娜	那么薇尔贝儿小姐和罗蒂\n也会来帮忙宣传咖啡厅吗？	蘿樂娜	那麼，薇爾貝兒小姐和羅蒂\n也願意幫忙我們宣傳咖啡廳嗎？
+SeasonalTalkEvent_004_016ID	21	Wilbell	ウィルベル	ええ。エスカへのお礼ってところね	Wilbell	Sure. It's time I paid back Escha for her help.	薇尔贝儿	嗯，就当是给爱丝卡的回礼。	薇爾貝兒	對，就當作是給愛絲卡的謝禮吧。
+SeasonalTalkEvent_004_016ID	22	Escha	エスカ	あはは。そんなの気にしなくていいのに	Escha	Haha, it was my pleasure. You don't need to pay me back!	爱丝卡	呵呵，不用这么放在心上嘛。	愛絲卡	啊哈哈，這點小事不用放在心上的。
+SeasonalTalkEvent_004_016ID	23	Shallotte	シャルロッテ	師匠、お礼って？	Shallotte	What did she help you with, Master?	夏露罗蒂	师父，回礼是指什么啊？	夏露羅蒂	師父，什麼謝禮？
+SeasonalTalkEvent_004_016ID	24	Wilbell	ウィルベル	あんたは知らなくていいのよ。さて！\nあたしたちも着替えるわよ！	Wilbell	Never mind that. Uh, anyway! Let's get changed!	薇尔贝儿	这你就别管了。\n好了，我们也来换衣服吧！	薇爾貝兒	妳不需要知道啦。\n好了！我們也要換衣服了喔！
+SeasonalTalkEvent_004_016ID	25	Shallotte	シャルロッテ	へ？　着替えるって何にですか？	Shallotte	Huh? We're changing? Into what?	夏露罗蒂	啊？换什么衣服？	夏露羅蒂	咦？換什麼衣服呀？
+SeasonalTalkEvent_004_016ID	26	Wilbell	ウィルベル	決まってるでしょ。\nエスカたちとお揃いの服よ！	Wilbell	Isn't it obvious? We're wearing the same uniform as Escha!	薇尔贝儿	那还用说吗？\n当然是和爱丝卡她们一样的衣服！	薇爾貝兒	那還用說？\n跟愛絲卡她們同款的衣服啊！
+SeasonalTalkEvent_004_016ID	27	Shallotte	シャルロッテ	ええっ！？	Shallotte	Seriously?!	夏露罗蒂	咦？！	夏露羅蒂	咦咦！？
+SeasonalTalkEvent_004_016ID	28	Wilbell	ウィルベル	空からチョコが降ってきたら目立つでしょ？\n宣伝はあたしたちに任せておきなさい！	Wilbell	If I make it rain chocolate, there's no way customers will be able to resist! You won't find anyone better to advertise than us!	薇尔贝儿	让巧克力从天而降一定很吸引眼球吧？\n宣传的事尽管包在我们身上！	薇爾貝兒	巧克力從天而降的話不是會引人注目嗎？\n宣傳就包在我們身上吧！
+SeasonalTalkEvent_004_016ID	29	Escha	エスカ	ウィルベルさんもシャリーちゃんも似合いそう！	Escha	Oh, I just know those outfits will look great on you two.	爱丝卡	薇尔贝儿小姐和夏莉穿这身都很合适啊！	愛絲卡	薇爾貝兒小姐和夏莉穿起來應該會很適合！
+SeasonalTalkEvent_004_016ID	30	Rorona	ロロナ	よろしくお願いしますね！	Rorona	The cafe is definitely in good hands!	萝乐娜	请多多关照！	蘿樂娜	麻煩妳們囉！
+SeasonalTalkEvent_004_016ID	31	Escha	エスカ	じゃあ、わたしたちも\n最後の準備に取り掛かりましょう！	Escha	All right, everyone! We're in the final stretch. Let's finish up our prep work!	爱丝卡	那我们就来做最后的准备吧！	愛絲卡	那麼，我們也開始做\n最後的準備吧！
+SeasonalTalkEvent_004_017ID	0	Escha	エスカ	いらっしゃいませ！\nすぐに席をご案内しますね！	Escha	Welcome! I can seat you right away!	爱丝卡	欢迎光临！\n我这就领您就座哦！	愛絲卡	歡迎光臨！\n我馬上為您帶位！
+SeasonalTalkEvent_004_017ID	1	Escha	エスカ	（こうして迎えた、リンデマン菓子祭り当日――）	Escha	(Before I knew it, the day of the Lindemann Sweets Festival had arrived.)	爱丝卡	（就这样到了林德曼点心节当天——）	愛絲卡	（就這樣到了林德曼點心祭當天──）
+SeasonalTalkEvent_004_017ID	2	Escha	エスカ	ヴァレリアさんたち！　いらっしゃいませ！	Escha	Oh, you're all here! Thank you so much for coming!	爱丝卡	瓦莱莉娅小姐，你们也来了啊！\n欢迎光临！	愛絲卡	瓦萊莉婭小姐她們來了！歡迎光臨！
+SeasonalTalkEvent_004_017ID	3	Valeria	ヴァレリア	来たわよ、エスカ！　楽しみ楽しみーーっ	Valeria	We wouldn't miss it, Escha! Ooh, I can't wait!	瓦莱莉娅	爱丝卡，我来了哦！真是太期待了～	瓦萊莉婭	我們來囉，愛絲卡！真是太期待了～～！
+SeasonalTalkEvent_004_017ID	4	Heidi	ハイディ	錬金術チョコだなんて気になるものを作っちゃって～！	Heidi	I can't get that alchemical chocolate you've been advertising off of my mind!	海蒂	竟然做了炼金术巧克力这么吊人胃口的东西～！	海蒂	你們竟然做出鍊金術巧克力這麼令人好奇的東西～！
+SeasonalTalkEvent_004_017ID	5	Valeria	ヴァレリア	はむっ……これすっごく美味しいわ！\nチョコなのにとろっとふわっとしてる！	Valeria	*Munch*... Mmm, this chocolate tastes amazing! So fluffy, so creamy!	瓦莱莉娅	啊呜……这个太好吃了！\n明明是巧克力，却软软绵绵的！	瓦萊莉婭	（嚼嚼……）這個超級好吃的！\n明明是巧克力，卻綿綿滑滑的一入口就化掉了！
+SeasonalTalkEvent_004_017ID	6	Heidi	ハイディ	こりゃ新しいよ！　今までにない食感だし、\nリンゴともすごく合ってるね	Heidi	I've never tasted anything like this before! The texture is just perfect with the apples.	海蒂	真新奇啊！从没尝过这种口感，\n和苹果也非常搭。	海蒂	真是新奇呢！以前都沒嘗過這種口感，\n跟蘋果也非常搭耶。
+SeasonalTalkEvent_004_017ID	7	Flocke	フロッケ	はい！　これは稀少性の高い素材が使われています。\n錬金術で作ったとなると、さらに稀少ですよ！	Flocke	Oh, this is wonderful! Combining alchemy with such rare ingredients makes this experience even more special!	芙洛可	是呀！这里面用了非常稀有的素材。\n而且还是用炼金术做出来的，就更稀罕了！	芙洛可	是的！這使用了極為稀有的素材。\n又用了鍊金術來製作就顯得更加稀有了！
+SeasonalTalkEvent_004_017ID	8	Escha	エスカ	やった！　そういっていただけるなら大成功です！	Escha	Yippee! If all of you like it, that's a huge win in my book!	爱丝卡	太好了！你们能这么说，就证明我们成功了！	愛絲卡	太好了！能聽到妳們這麼說，就算是大成功了呢！
+SeasonalTalkEvent_004_017ID	9		若い女性客Ａ	わぁ！　何この食感！　こんなの初めて！	Young Female Customer A	Wow, it's so smooth! I've never had chocolate like this!	年轻女顾客A	哇！这是什么口感！第一次吃到！	年輕女性客人A	哇！這是什麼口感！我還是第一次嘗到！
+SeasonalTalkEvent_004_017ID	10		若い女性客Ｂ	これ錬金術で作ったってホント？	Young Female Customer B	Was this really made with alchemy?	年轻女顾客B	这真的是用炼金术做出来的吗？	年輕女性客人B	這真的是用鍊金術做的嗎？
+SeasonalTalkEvent_004_017ID	11		若い女性客Ｃ	見た目も綺麗だし、とっても美味しい！\n錬金術ってすごいね！	Young Female Customer C	Not only do they taste delicious, but they look beautiful too! Alchemy really is amazing!	年轻女顾客C	样子漂亮，吃起来也好吃！\n炼金术真厉害啊！	年輕女性客人C	不僅外觀漂亮，滋味也是一絕！\n鍊金術真厲害呢！
+SeasonalTalkEvent_004_017ID	12	Izana	イザナ	レスナちゃん。錬金術、ほめられてるね	Izana	Resna, did you hear how excited they are about alchemy?	伊札娜	蕾斯娜，有人在夸炼金术哦。	伊札娜	蕾斯娜，大家都在稱讚鍊金術耶。
+SeasonalTalkEvent_004_017ID	13	Resna	レスナ	うん。みんなに名前が広まってるし、嬉しいな	Resna	I sure did! I'm so happy to see the joy of alchemy spreading like this.	蕾斯娜	嗯，这下大家都知道炼金术了，好开心啊。	蕾斯娜	嗯，而且也打響了名聲，真令人開心。
+SeasonalTalkEvent_004_017ID	14	Escha	エスカ	かしこまりました。チョコ＆リンゴタルトですね！\n少々お待ちください	Escha	One chocolate apple tart, coming right up!	爱丝卡	好的，巧克力苹果挞是吧！\n请您稍等一下！	愛絲卡	明白了。您點的是巧克力＆蘋果塔吧！\n請稍等一下。
+SeasonalTalkEvent_004_017ID	15	Escha	エスカ	いらっしゃいませ……ロジーさん！	Escha	Welcome to—oh, Logy! It's you!	爱丝卡	欢迎光临……是罗吉先生啊！	愛絲卡	歡迎光……羅吉先生！
+SeasonalTalkEvent_004_017ID	16	Logy	ロジー	盛況じゃないか、エスカ	Logy	Business is really booming, huh, Escha?	罗吉	看来门庭若市嘛，爱丝卡。	羅吉	好一番盛況啊，愛絲卡。
+SeasonalTalkEvent_004_017ID	17	Escha	エスカ	はい！　おかげさまで大好評です！	Escha	Yeah! Thankfully everything is going great!	爱丝卡	是的！托大家的福，口碑非常不错！	愛絲卡	是的！托你的福，大受好評！
+SeasonalTalkEvent_004_018ID	0	Roman	ロマン	錬金術士のみんなのおかげで、リンデ祭での試みも\n無事に成功したよ。本当にありがとう	Roman	Due to the efforts of all of our fine alchemists, our plan for the Linde Festival was a smashing success. I'm incredibly grateful.	罗曼	多亏了各位炼金术士，林德节的尝试成功了。\n真的谢谢大家。	羅曼	多虧各位鍊金術士的協助，\n林德祭的計畫也順利成功了。真的很感謝大家。
+SeasonalTalkEvent_004_018ID	1	Escha	エスカ	わたしも楽しかったです！	Escha	I had so much fun helping out!	爱丝卡	这段时间我也过得很开心！	愛絲卡	我也覺得很開心！
+SeasonalTalkEvent_004_018ID	2	Resna	レスナ	お客さんにも錬金術の素晴らしさが伝わったようで\n私も嬉しいですよ	Resna	All of our customers were able to get a taste of how wonderful alchemy truly is. I couldn't be happier!	蕾斯娜	能把炼金术的美妙传达给顾客们，\n我也非常欣慰。	蕾斯娜	客人們似乎也體會到了鍊金術的美好之處，\n我很高興喔。
+SeasonalTalkEvent_004_018ID	3	Roman	ロマン	こういう地味な活動も、錬金術の地位を向上させて\n人々の生活を豊かにすることに繋がるはずだからね	Roman	Through exposure to alchemy in day-to-day life, the status of the craft will be elevated in the eyes of the people, leading us all to live richer, fuller lives.	罗曼	这种脚踏实地的活动，能使炼金术的地位提高，\n进而让人们的生活变得更加多彩。	羅曼	我相信這種平凡的活動也能提高鍊金術的地位，\n讓人們的生活變得更加多采多姿。
+SeasonalTalkEvent_004_018ID	4	Escha	エスカ	ですよね！\nチョコの楽しみ方の幅は間違いなく広がりましたよ！	Escha	You're absolutely right! Our chocolate helped open many people's eyes to the wonders of alchemy.	爱丝卡	没错！\n享受巧克力的方式也无疑变得更多元了呢！	愛絲卡	就是說呀！\n享受巧克力的方式確實變得更加多元了！
+SeasonalTalkEvent_004_018ID	5	Logy	ロジー	おいエスカ。結局食い意地か？	Logy	Hey, Escha. Admit it, you just wanted to stuff your face.	罗吉	爱丝卡，结果还是只想着吃啊？	羅吉	喂，愛絲卡。到頭來妳只想著吃的而已啊？
+SeasonalTalkEvent_004_018ID	6	Escha	エスカ	ひどいですよ、ロジーさん！　わたしはロマンさんの\nお手伝いができて嬉しいって言いたいんですー！	Escha	Logy, you meanie! That wasn't it at all! I was only trying to say how honored I felt to help to Roman and the kingdom!	爱丝卡	罗吉先生，怎么能这么说呢！\n我只是想说，能帮上罗曼先生非常开心！	愛絲卡	太過分了，羅吉先生！我的意思是，\n能夠幫上羅曼先生的忙，我覺得很高興啦！
+SeasonalTalkEvent_004_018ID	7	Resna	レスナ	錬金術は可能性に満ちてますね！	Resna	This just goes to show...with alchemy, anything is possible!	蕾斯娜	炼金术果然潜力无穷啊！	蕾斯娜	鍊金術有無限的可能性呢！
+SeasonalTalkEvent_004_018ID	8	Juna	ユナ	ふふ……	Juna	Hehe...	尤娜	呵呵……	尤娜	呵呵……
+SeasonalTalkEvent_004_018ID	9	Juna	ユナ	（殿下の試みは成功した、よかった）	Juna	(I'm so glad your plan went well, Your Highness.)	尤娜	（殿下的尝试成功了，真是太好了。）	尤娜	（殿下的計畫成功了，真是太好了。）
+SeasonalTalkEvent_004_018ID	10	Roman	ロマン	さて、皆も帰ったし……私たちもお暇しようか	Roman	Well, then. Everyone has gone home. Shall we head back, too?	罗曼	那么，大家都回去了……我们也告辞吧。	羅曼	好了，大家都回去了……我們也告辭吧。
+SeasonalTalkEvent_004_018ID	11	Juna	ユナ	はっ	Juna	Yes, Your Highness.	尤娜	是。	尤娜	遵命。
+SeasonalTalkEvent_004_018ID	12	Juna	ユナ	（二人になったのはいいが……いつ渡したものか）	Juna	(It's finally just the two of us... But when should I give him his present?)	尤娜	（只剩下我们两个了……但要什么时候交给他呢。）	尤娜	（只剩我們兩人了……要什麼時候交給他才好呢？）
+SeasonalTalkEvent_004_018ID	13	Roman	ロマン	これからまた、私は外に出る。\nユナには迷惑をかけるが護衛を頼むよ	Roman	I imagine I'll be venturing out like this more in the future, which means I'll need your protection all the more. Forgive me for burdening you.	罗曼	之后我又要外出了。\n尤娜，护卫的事又要麻烦你了。\n\n	羅曼	我待會還要外出。雖然會給尤娜妳添麻煩，\n但還是拜託妳護送了。
+SeasonalTalkEvent_004_018ID	14	Juna	ユナ	殿下！	Juna	Your Highness!	尤娜	殿下！	尤娜	殿下！
+SeasonalTalkEvent_004_018ID	15	Roman	ロマン	なっ、なんだい！	Roman	Wh-What is it, Juna?	罗曼	什、什么事！	羅曼	怎、怎麼了！
+SeasonalTalkEvent_004_018ID	16	Juna	ユナ	私は迷惑だとは思っておりません。殿下が\n国と民を思って行動していることを存じ上げています！	Juna	I've never once thought of you as a burden. I know more than anyone how hard you work for the sake of our kingdom and our people!	尤娜	我一点都没有觉得麻烦。\n我深知殿下的行动都是为国为民！	尤娜	我並不覺得麻煩。\n我心底清楚殿下的一言一行都是為了國家與人民！
+SeasonalTalkEvent_004_018ID	17	Juna	ユナ	だ、だから――	Juna	Th-That's why I...	尤娜	所、所以——	尤娜	因、因此──
+SeasonalTalkEvent_004_018ID	18	Juna	ユナ	こ、これは、その……殿下への日頃の感謝の気持ちを\n込めて、私が作った拙いものですが……	Juna	I, um... Well... I made these to show you my gratitude for all that you do, Your Highness.	尤娜	这、这个是……\n是包含了我对殿下感谢之情的拙作……	尤娜	這、這是，那個……我懷著平日對殿下的感謝之情\n所做出來的拙作……
+SeasonalTalkEvent_004_018ID	19	Roman	ロマン	き、君が私のために作ってくれたのか！？	Roman	You...made these just for me?!	罗曼	你、你专门为我做了这个？！	羅曼	這、這是妳為了我而做的！？
+SeasonalTalkEvent_004_018ID	20	Juna	ユナ	は、はい！　エスカに教えを受け、どうにか\n作り上げました！　味は悪くないはず……です	Juna	Y-Yes! Escha taught me how, so I managed to make them myself. I just hope that they're to your liking...	尤娜	是、是的！我在爱丝卡的指导下，\n勉强做出了成品！味道……应该不坏。	尤娜	是、是的！在愛絲卡的教導下，總算是成功做出來了！\n味道應該不會很糟……才對。
+SeasonalTalkEvent_004_018ID	21	Roman	ロマン	そうだったのか……！　	Roman	Is that so?　	罗曼	原来是这样……！　	羅曼	原來是這樣啊……！　
+SeasonalTalkEvent_004_018ID	22	Roman	ロマン	いや、嬉しいよ！　正直なところ、\n思ってもみなかったことだ	Roman	Wow... I'm touched! To be honest, I never dreamed I'd receive something like this.	罗曼	我真的很高兴！\n说实话，我完全没想到你会这么做。	羅曼	哎呀，我真開心！坦白說，\n我壓根沒想過妳會這麼做。
+SeasonalTalkEvent_004_018ID	23	Juna	ユナ	殿下の身体の疲れが、少しでも癒せればと	Juna	I made them in hopes that the chocolate would ease your tiredness, Your Highness. Even if only a little.	尤娜	若能为殿下消除些许疲劳，我就很满足了。	尤娜	我希望多少能紓解殿下身體的疲憊。
+SeasonalTalkEvent_004_018ID	24	Roman	ロマン	ありがとう。心の疲れまで癒されたよ。\nせっかくだから、今、少し食べていこうかな	Roman	Thank you, Juna. My heart feels lighter already. If you don't mind, I'd like to try some right away.	罗曼	谢谢你，感觉连心神的疲惫都得到了抚慰。\n我现在就尝尝你特地制作的巧克力吧。	羅曼	謝謝妳，連內心的疲憊都受到撫慰了喔。\n機會難得，我現在就吃一點吧。
+SeasonalTalkEvent_004_018ID	25	Juna	ユナ	光栄、です……！	Juna	It would be my honor...!	尤娜	真是万分荣幸……！	尤娜	這是我的榮幸……！
+SeasonalTalkEvent_004_018ID	26	Juna	ユナ	……ふうっ	Juna	Phew...	尤娜	呼……	尤娜	……呼！
+SeasonalTalkEvent_004_018ID	27	Juna	ユナ	（よかった……殿下は喜んでくださった。\n　差し出がましい真似かと緊張したが……）	Juna	(Oh, thank goodness. I'm so happy he enjoyed them. I was so worried I might be overstepping my bounds...)	尤娜	（太好了……殿下很高兴。\n　我本来还很紧张，担心自己是否太过逾越……）	尤娜	（太好了……殿下很高興。\n　我本來還很緊張，覺得這會不會是僭越之舉……）
+SeasonalTalkEvent_004_018ID	28	Juna	ユナ	（はぁぁ……頑張った、頑張ったぞ。エスカやレスナの\n　おかげもあるが……頑張ったぞ、私！）	Juna	(Haah... I did it. Thanks to Escha and Resna, I really did it. I put my everything into it, and it was all worth it!)	尤娜	（呼……我的努力得到了成果。当中也有爱丝卡和\n　蕾斯娜的功劳，不过我能付诸行动真是太好了！）	尤娜	（啊啊……我努力了，下了番苦功啊。雖然要感謝\n　愛絲卡和蕾斯娜的幫忙……但我也是費盡心力了！）
+SeasonalTalkEvent_004_018ID	29	Juna	ユナ	はぁぁ～～……よかった！！	Juna	Ahhh... I DID IT!	尤娜	啊～～太好了！！	尤娜	啊～～太好了！！
+SeasonalTalkEvent_004_018ID	30	Resna	レスナ	…………	Resna	...	蕾斯娜	……	蕾斯娜	…………
+SeasonalTalkEvent_004_018ID	31	Juna	ユナ	っ……！！	Juna	*Gasp*	尤娜	唔……！！	尤娜	唔……！！
+SeasonalTalkEvent_004_018ID	32	Juna	ユナ	どうした、レスナ。殿下はカフェの中におられるが\n何か用があるのか？	Juna	Is something the matter, Resna? If you have some business with His Highness, he's inside the cafe.	尤娜	蕾斯娜，怎么了？\n殿下在咖啡厅里，你找他有什么事吗？	尤娜	妳怎麼了，蕾斯娜？殿下在咖啡廳裡面，\n妳有什麼事嗎？
+SeasonalTalkEvent_004_018ID	33	Resna	レスナ	ふぁっ！？　いえ、大丈夫です！	Resna	Huh?! N-No, it's nothing!	蕾斯娜	哇？！我、我没什么事！	蕾斯娜	哇啊！？不，沒什麼事！
+SeasonalTalkEvent_004_018ID	34	Logy	ロジー	リンデ祭の企画も無事に成功したな	Logy	The Linde Festival plan went off without a hitch.	罗吉	林德节的企划顺利成功了啊。	羅吉	林德祭的企劃也順利成功了呢。
+SeasonalTalkEvent_004_018ID	35	Escha	エスカ	はい。ホッとしました	Escha	Yeah, what a relief...	爱丝卡	是啊，总算松了一口气。	愛絲卡	是呀，總算鬆了一口氣。
+SeasonalTalkEvent_004_018ID	36	Logy	ロジー	お前なら大丈夫だとは思ってたけど、お客さんからも\n大好評だったみたいだな。俺も誇らしいよ	Logy	I knew you'd do great. All of your customers were over the moon. I'm really proud of you.	罗吉	我倒是从一开始就相信你没问题，\n顾客们也都赞不绝口。真是为你自豪啊。	羅吉	我本來就覺得妳一定沒問題，\n不過客人們好像也讚不絕口呢。我真是與有榮焉。
+SeasonalTalkEvent_004_018ID	37	Escha	エスカ	えへへ。ロジーさんや皆さんが手伝ってくれた\nおかげです	Escha	Heheh! It's all because I had you and everyone else helping me out.	爱丝卡	嘿嘿，都是多亏了罗吉先生和大家来帮忙。	愛絲卡	嘿嘿，這都多虧了\n羅吉先生和大家的幫忙。
+SeasonalTalkEvent_004_018ID	38	Logy	ロジー	いや、元の世界とぜんぜん違う環境で、あそこまでの\nメニューを形にするんだ。エスカはすごいよ	Logy	Don't be so humble. Even in this unfamiliar world, you rose to the occasion and brought your delicious recipes to life. You're really something, Escha.	罗吉	不不，在和原来的世界完全不同的环境里，\n能研发出那么出色的餐品，爱丝卡真厉害。	羅吉	不，在這個跟原本世界截然不同的環境中，\n還能將菜單品項做得那麼成功。愛絲卡妳真的很厲害喔。
+SeasonalTalkEvent_004_018ID	39	Logy	ロジー	……実は俺もあれからエスカを見習ってチョコ作りに\n挑戦してみたんだ。イクセルに教わってな	Logy	Actually... I wanted to follow your example, so I tried my hand at making some chocolate myself. Iksel taught me how.	罗吉	其实……上次看你做巧克力之后，我也尝试了一下。\n伊克赛尔教了我做法。	羅吉	……其實我在那之後也向愛絲卡看齊，\n嘗試挑戰製作巧克力。是伊克賽爾教我的。
+SeasonalTalkEvent_004_018ID	40	Logy	ロジー	これ、俺からのチョコだ	Logy	So... Here. This is for you.	罗吉	给，这是我做的巧克力。	羅吉	這是我送給妳的巧克力。
+SeasonalTalkEvent_004_018ID	41	Escha	エスカ	え！？　いいんですか、もらってしまって！？	Escha	What?! Wow, can I really have this?!	爱丝卡	咦？！我可以收下吗？！	愛絲卡	咦！？我可以收下嗎！？
+SeasonalTalkEvent_004_018ID	42	Logy	ロジー	当たり前だろ。\nエスカは俺の……大切な同僚だからな	Logy	Of course you can. I made it for you because you're important to me...uh, as a colleague.	罗吉	当然啊。\n爱丝卡，你是我……重要的同事嘛。	羅吉	這還用問？\n妳對我來說……是很重要的同事啊。
+SeasonalTalkEvent_004_018ID	43	Escha	エスカ	えへへ、ありがとうございます！	Escha	Ehehe! Thank you so much!	爱丝卡	嘿嘿，谢谢你！	愛絲卡	嘿嘿，謝謝你！
+SeasonalTalkEvent_004_018ID	44	Escha	エスカ	……ぷっ、くふふっ！	Escha	Pfft...! Hahaha!	爱丝卡	噗……哈哈哈！	愛絲卡	……噗、呵呵！
+SeasonalTalkEvent_004_018ID	45	Logy	ロジー	っ、笑わないでくれよ。\n確かにお前のに比べたら出来は悪いかもしれないけど	Logy	H-Hey, don't laugh! I know I'm not the best cook, especially compared to you, but still...	罗吉	不要笑啊。\n我知道应该没你做的那么好。	羅吉	唔，別笑啦。\n跟妳的比起來，確實做得不太好就是了。
+SeasonalTalkEvent_004_018ID	46	Escha	エスカ	ご、ごめんなさい、違うんです！	Escha	No, I'm sorry! I'm not laughing at you!	爱丝卡	对、对不起，我不是这个意思！	愛絲卡	對、對不起，不是的！
+SeasonalTalkEvent_004_018ID	47	Escha	エスカ	実はロジーさんもわたしと同じことを考えてたなんて、\nなんだかおかしくて……！	Escha	It's just funny because I actually wanted to do the exact same thing for you. I couldn't help but laugh!	爱丝卡	就是一想到罗吉先生和我想法一致，\n就觉得很好笑……！	愛絲卡	其實我是沒想到羅吉先生跟我有一樣的想法，\n不禁覺得很有趣……！
+SeasonalTalkEvent_004_018ID	48	Escha	エスカ	わたしからも感謝の気持ちです。\n受け取ってもらえますか？	Escha	I wanted to show you my gratitude, too. So if you don't mind, I'd like you to have this.	爱丝卡	这是我的感谢之情。\n能收下它吗？	愛絲卡	我也要向你表達謝意。\n你願意收下嗎？
+SeasonalTalkEvent_004_018ID	49	Logy	ロジー	そうか……エスカもか。\n忙しい中、わざわざ作ってくれたんだな	Logy	Oh... So you were thinking the same thing. And even though you were so busy, you took the time to make something just for me.	罗吉	原来是这样……爱丝卡也做了。\n明明这么忙，还特意为我做了一份啊。	羅吉	原來如此……妳也一樣啊。\n妳在百忙之中還特地為我做了這個。
+SeasonalTalkEvent_004_018ID	50	Escha	エスカ	ロジーさんを想って、とびっきりの素材を採って\n作った特別製なんですよ。よく味わってくださいね	Escha	Since I knew I wanted to make you something special, I jumped through some crazy hoops to get the perfect ingredients for your tart. So don't eat it all in one bite now.	爱丝卡	这是我为罗吉先生采集了最优质的素材\n特制的哦，请仔细品尝一下吧。	愛絲卡	這是我為了羅吉先生，去採集頂級素材回來後\n特別製作而成的喔。你可要好好品嘗啊。
+SeasonalTalkEvent_004_018ID	51	Escha	エスカ	ロジーさんには元の世界でも今も、\nお世話になりっぱなしですから！	Escha	Whether it's in our world or this one, I always know that I can count on you, Logy. So I just wanted to show you my thanks!	爱丝卡	因为我想感谢罗吉先生不管在原来的世界\n还是在这里都一直非常照顾我！\n\n	愛絲卡	因為不管在原本的世界還是現在，\n都一直受到羅吉先生的照顧呀！
+SeasonalTalkEvent_004_018ID	52	Logy	ロジー	ありがとう、エスカ。お店のタルトも美味しかったし、\nこれも食べるのが楽しみだよ	Logy	Thank you, Escha. The tart I tried at the cafe was delicious, so I'm really excited to try this one.	罗吉	谢谢，爱丝卡。店里的挞很好吃，\n这个我就更期待了。	羅吉	謝謝妳，愛絲卡。店裡的塔很好吃，\n我也很期待這個的味道。
+SeasonalTalkEvent_004_018ID	53	Escha	エスカ	ロジーさん……今日はとっても嬉しいです！	Escha	Logy... Today was such a perfect day!	爱丝卡	罗吉先生……今天我太开心了！	愛絲卡	羅吉先生……我今天非常開心！
+SeasonalTalkEvent_004_018ID	54	Escha	エスカ	わたし、もっともっと頑張りますから、これからも\nずっと、ずーっと、よろしくお願いしますね！	Escha	I'm going to take on even more new challenges from now on, so promise me that you'll always be by my side...no matter what!	爱丝卡	之后我会更加努力的，\n希望今后还能一起长长久久地相处，请继续多多关照！	愛絲卡	我會再多加把勁好好努力，\n今後也要拜託你一直、一～直關照我喔！

@@ -1,0 +1,258 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+CharacterEvent_002_NPC10_001ID	0		オルペウス	ブラッド。錬金爵の地位に就いてくれて、\n感謝しているぞ						
+CharacterEvent_002_NPC10_001ID	1	Brad	ブラッド	かつて錬金爵は我が家系が代々務めていたもの。\nなれば私が就くのが適任ですから						
+CharacterEvent_002_NPC10_001ID	2		オルペウス	しかし、お前は宰相の補佐を続けていれば、\nいずれは最年少の宰相になる道ができていたはずだ						
+CharacterEvent_002_NPC10_001ID	3		オルペウス	それが立候補して、錬金爵を引き受けてくれた						
+CharacterEvent_002_NPC10_001ID	4		オルペウス	お前の目標だった宰相の地位には\n遠回りをさせてしまうな						
+CharacterEvent_002_NPC10_001ID	5	Brad	ブラッド	錬金術は再びこの国で大きな存在となっています。\n錬金爵の役目、他の者に任せてはおけません						
+CharacterEvent_002_NPC10_001ID	6		オルペウス	その言葉を聞けて嬉しいぞ。\nやはり錬金爵は君こそがふさわしい						
+CharacterEvent_002_NPC10_001ID	7	Brad	ブラッド	もったいないお言葉です						
+CharacterEvent_002_NPC10_001ID	8		オルペウス	今、錬金術の在り方は揺れている。\n１５０年前に下した判断を、もう一度検討する時が来た						
+CharacterEvent_002_NPC10_001ID	9		オルペウス	君が下してきた冷徹な政治的判断を揶揄して、\n“氷のブラッド”……などと呼ぶ者もいるようだが						
+CharacterEvent_002_NPC10_001ID	10		オルペウス	“王国の未来を握るもの”“氷のブラッド”とまで\n評された君だ						
+CharacterEvent_002_NPC10_001ID	11		オルペウス	その冷静な判断力ならば、見極めてくれるだろう。\nこの国の錬金術の行く末を						
+CharacterEvent_002_NPC10_001ID	12		オルペウス	では、引き続き頼んだぞ						
+CharacterEvent_002_NPC10_001ID	13	Brad	ブラッド	は						
+CharacterEvent_002_NPC10_001ID	14	Brad	ブラッド	……さて						
+CharacterEvent_002_NPC10_001ID	15	Brad	ブラッド	（やらなければならないことを整理しよう）						
+CharacterEvent_002_NPC10_001ID	16	Brad	ブラッド	（私が成すべきこと。それはこの国に錬金術が\n　利益をもたらすかどうかを見定めること）						
+CharacterEvent_002_NPC10_001ID	17	Brad	ブラッド	（利益が無いのであれば、国は錬金術の復興から\n　手を引くことになる）						
+CharacterEvent_002_NPC10_001ID	18	Brad	ブラッド	（それは、この１５０年間で見つけられなかった、\n　錬金術の代替産業を探し続けることを意味する）						
+CharacterEvent_002_NPC10_001ID	19	Brad	ブラッド	（そして利益をもたらすのであれば、\n　錬金爵としてそれを正しき方向へと導くこと）						
+CharacterEvent_002_NPC10_001ID	20	Brad	ブラッド	（これまでやってきたことと同じだ。\n　錬金術という専門性が増しただけ）						
+CharacterEvent_002_NPC10_001ID	21	Brad	ブラッド	（うろたえることはない。\n　知らないことはこれから知れば良い）						
+CharacterEvent_002_NPC10_001ID	22	Brad	ブラッド	（そのためには、まず調査が必要だ）						
+CharacterEvent_002_NPC10_001ID	23	Brad	ブラッド	……よし。道は見えた。動き出すとしよう						
+CharacterEvent_002_NPC10_001ID	24	Brad	ブラッド	まずは、なにより先にあいつの話を\n聞いておく必要があるな						
+CharacterEvent_002_NPC10_001ID	25	Brad	ブラッド	今、王宮内で錬金術の復興に一番関与しているであろう\nあの男の話を						
+CharacterEvent_002_NPC10_002ID	0	Roman	ロマン	やあ、ブラッド！　元気にしてたかい？						
+CharacterEvent_002_NPC10_002ID	1	Brad	ブラッド	再会を懐かしんでいる場合ではない。\n仕事の話をしに来たのだ						
+CharacterEvent_002_NPC10_002ID	2	Roman	ロマン	相変わらず融通が利かないなあ、君は						
+CharacterEvent_002_NPC10_002ID	3	Juna	ユナ	ブラッド殿。ご無沙汰しております						
+CharacterEvent_002_NPC10_002ID	4	Brad	ブラッド	ユナ。君がいればリヒャルトも無茶はしないだろう。\n引き続き監視を頼む						
+CharacterEvent_002_NPC10_002ID	5	Roman	ロマン	おいおい、そんなに信用できないかい？						
+CharacterEvent_002_NPC10_002ID	6	Brad	ブラッド	信用はしている。節度を持てと言っているのだ						
+CharacterEvent_002_NPC10_002ID	7	Brad	ブラッド	さて、今王国はふたたび錬金術の機運が高まっている。\nそれを主導しているのは君だそうだな						
+CharacterEvent_002_NPC10_002ID	8	Roman	ロマン	ああ。錬金術の使用者はいなくなったと思われていた。\nだけど、まだ使っている者がいたんだ						
+CharacterEvent_002_NPC10_002ID	9	Roman	ロマン	その名はレスナ。彼女は今、カフェの依頼を通して\n王国の様々な問題を錬金術で解決している						
+CharacterEvent_002_NPC10_002ID	10	Roman	ロマン	ウェルテックスの討伐と言い、目覚ましい成果を\n上げているよ。やはり錬金術は素晴らしい						
+CharacterEvent_002_NPC10_002ID	11	Roman	ロマン	この国の未来を考えるのであれば、\n錬金術の復興は、ぜひとも実現すべきだよ						
+CharacterEvent_002_NPC10_002ID	12	Brad	ブラッド	いくつか解決すべき問題があるな						
+CharacterEvent_002_NPC10_002ID	13	Brad	ブラッド	一つは錬金術の扱いだ。極夜の錬金党と言う集団が\n現れて以降、錬金術に対する不信感を持つ者も多い						
+CharacterEvent_002_NPC10_002ID	14	Roman	ロマン	錬金術を用いる者が真に信頼に足りうるか、と\nいうことだよね？						
+CharacterEvent_002_NPC10_002ID	15	Juna	ユナ	レスナたちに関しては我々からの保証では\n不十分なのですか？						
+CharacterEvent_002_NPC10_002ID	16	Brad	ブラッド	参考にはするが、もっと情報は集める必要がある\nいい加減な判断はしたくない						
+CharacterEvent_002_NPC10_002ID	17	Brad	ブラッド	そして、もう一つの問題……それは錬金術の将来性だ						
+CharacterEvent_002_NPC10_002ID	18	Brad	ブラッド	結局のところ、我々はマナの枯渇に対する打開策を\n持ち合わせていない						
+CharacterEvent_002_NPC10_002ID	19	Brad	ブラッド	その点、リヒャルトはどう考えているんだ？						
+CharacterEvent_002_NPC10_002ID	20	Roman	ロマン	決まっているさ。果ての大陸を見つけだす。\n私が出した書類にもそう書いてあったろう						
+CharacterEvent_002_NPC10_002ID	21	Brad	ブラッド	大量のマナが埋まっているという未知の新大陸……。\n進展はあったのか？　夢物語がすぎるぞ						
+CharacterEvent_002_NPC10_002ID	22	Roman	ロマン	果ての大陸自体の新情報は、正直なところ、今は無いね						
+CharacterEvent_002_NPC10_002ID	23	Roman	ロマン	それさえ見つければ、この国はもう一度\n錬金術を扱うことができる						
+CharacterEvent_002_NPC10_002ID	24	Brad	ブラッド	（……果ての大陸、か）						
+CharacterEvent_002_NPC10_002ID	25	Brad	ブラッド	（この世界の果てにあるとされる場所。\n　その存在を確かめたものはいない）						
+CharacterEvent_002_NPC10_002ID	26	Brad	ブラッド	（実在しているのかどうかも不明。\n　分の悪い賭けだ）						
+CharacterEvent_002_NPC10_002ID	27	Brad	ブラッド	（……似たようなことが前にもあったな。\n　あれはマナを採掘できないかと坑道を掘った時だ）						
+CharacterEvent_002_NPC10_002ID	28	Brad	ブラッド	（結果は失敗に終わった。リヒャルトは期待を\n　寄せていたようだったが……）						
+CharacterEvent_002_NPC10_002ID	29	Brad	ブラッド	（あの出来事を機にリヒャルトの発言権が\n　下がったのは明白だ）						
+CharacterEvent_002_NPC10_002ID	30	Brad	ブラッド	（私は……この計画を支持すべきなのか？）						
+CharacterEvent_002_NPC10_002ID	31		選択肢	支持する						
+CharacterEvent_002_NPC10_002ID	32	Brad	ブラッド	……分かった。見つけられるか分からないが、\n私も調査に全力を尽くそう						
+CharacterEvent_002_NPC10_002ID	33	Roman	ロマン	！　そうか、君には反対されるかもしれないと\n思っていたよ						
+CharacterEvent_002_NPC10_002ID	34	Brad	ブラッド	反対したかったがな。だが、それで止まる\nリヒャルトではないはずだ						
+CharacterEvent_002_NPC10_002ID	35	Brad	ブラッド	しかし、それでも見つからなかった時は……						
+CharacterEvent_002_NPC10_002ID	36	Brad	ブラッド	錬金術の復興は、今度こそ諦めろ						
+CharacterEvent_002_NPC10_002ID	37	Roman	ロマン	あぁ、覚悟しているよ						
+CharacterEvent_002_NPC10_002ID	38	Brad	ブラッド	遠慮する気などハナからない。\nまあ、その時は私もタダでは済まないだろうがな						
+CharacterEvent_002_NPC10_002ID	39	Roman	ロマン	では、改めて。錬金爵として、この国の錬金術の\n発展に寄与してくれ						
+CharacterEvent_002_NPC10_002ID	40	Brad	ブラッド	心得た						
+CharacterEvent_002_NPC10_002ID	41		選択肢	疑問を呈す						
+CharacterEvent_002_NPC10_002ID	42	Brad	ブラッド	悪いがリヒャルト。果ての大陸の噂は眉唾物だ。\n実在するかどうか定かではない						
+CharacterEvent_002_NPC10_002ID	43	Brad	ブラッド	そんなものに国の未来を委ねるのは\n現実的ではないと思うが？						
+CharacterEvent_002_NPC10_002ID	44	Roman	ロマン	果ての大陸について言及している書物が複数\n存在している。遺跡の壁画で語られていることもあった						
+CharacterEvent_002_NPC10_002ID	45	Roman	ロマン	可能性は十分にあるんだよ						
+CharacterEvent_002_NPC10_002ID	46	Brad	ブラッド	マナ採掘計画の時と同じ轍を踏む気か？						
+CharacterEvent_002_NPC10_002ID	47	Roman	ロマン	あれは……確かに私が無知だったさ。しかし……						
+CharacterEvent_002_NPC10_002ID	48	Brad	ブラッド	国の未来を担うからには、堅実な計画を描くべきだ						
+CharacterEvent_002_NPC10_002ID	49	Brad	ブラッド	いい加減、現実を見ろ。\n堅実に内政をしてくれれば、ありがたい						
+CharacterEvent_002_NPC10_002ID	50	Brad	ブラッド	リヒャルト・ランターナは\nそれでも大きなことを成せるはずだ						
+CharacterEvent_002_NPC10_002ID	51	Roman	ロマン	……助言、ありがとう。\nけどね。私は諦めるつもりはないよ						
+CharacterEvent_002_NPC10_002ID	52	Brad	ブラッド	……そうか。残念だ						
+CharacterEvent_002_NPC10_002ID	53	Brad	ブラッド	（では、まず錬金術を使う者たちの調査だな）						
+CharacterEvent_002_NPC10_002ID	54	Brad	ブラッド	（錬金術が有用なのは分かっている。問題は、\n　その力を持つにふさわしいか、どうか……だ）						
+CharacterEvent_002_NPC10_003ID	0	Ayesha	アーシャ	こちらがヴァレリアさんがよくいた場所です。\n道端で寝ているのを起こしたりもしていました						
+CharacterEvent_002_NPC10_003ID	1	Brad	ブラッド	助かった、礼を言う。すまないな、\n図書館で本を読んでいたところを連れ出して						
+CharacterEvent_002_NPC10_003ID	2	Ayesha	アーシャ	あの……						
+CharacterEvent_002_NPC10_003ID	3	Brad	ブラッド	なんだ？						
+CharacterEvent_002_NPC10_003ID	4	Ayesha	アーシャ	どうしてヴァレリアさんのことを調べているんですか？						
+CharacterEvent_002_NPC10_003ID	5	Brad	ブラッド	今回、錬金術を用いる者たちが信用足りうるかを\n調べているわけだが……						
+CharacterEvent_002_NPC10_003ID	6	Brad	ブラッド	どうも身元の怪しい者がいることが分かった。\nその筆頭が、ヴァレリアだ						
+CharacterEvent_002_NPC10_003ID	7	Brad	ブラッド	記憶を失っているとの情報があるが、\nいったい彼女は何者なんだ？						
+CharacterEvent_002_NPC10_003ID	8	Brad	ブラッド	そして今も失踪してしまっているようだ。\n果たして信頼できるのか……それを調査している						
+CharacterEvent_002_NPC10_003ID	9	Ayesha	アーシャ	そうなんですね……						
+CharacterEvent_002_NPC10_003ID	10	Brad	ブラッド	さて、君はここまでで大丈夫だ。\n案内ご苦労だった						
+CharacterEvent_002_NPC10_003ID	11	Ayesha	アーシャ	その……わたしは、ヴァレリアさんは\nいい人だと思います						
+CharacterEvent_002_NPC10_003ID	12	Brad	ブラッド	……判断材料の一つとして受け止めておこう						
+CharacterEvent_002_NPC10_003ID	13	Brad	ブラッド	さて、騎士たちよ。情報を集めるぞ						
+CharacterEvent_002_NPC10_003ID	14		騎士A	は、了解であります						
+CharacterEvent_002_NPC10_003ID	15		騎士B	……なんだかここは陰鬱な場所ですね						
+CharacterEvent_002_NPC10_003ID	16	Brad	ブラッド	来るのは初めてか？						
+CharacterEvent_002_NPC10_003ID	17		騎士A	ええ……すみません、我々は入隊したばかりで						
+CharacterEvent_002_NPC10_003ID	18	Brad	ブラッド	（今日来ているのが若い者ばかりとはいえ、ここの\n　事情を知らないとは……政治への無関心さの現れか）						
+CharacterEvent_002_NPC10_003ID	19	Brad	ブラッド	（ここの住民と事を荒立てたいわけではない。\n　彼らを連れ歩くのは得策ではないか……？）						
+CharacterEvent_002_NPC10_003ID	20		選択肢	騎士を待機させておく						
+CharacterEvent_002_NPC10_003ID	21	Brad	ブラッド	悪いが皆ここで待機していてくれ。\n聞き取りは私が行おう						
+CharacterEvent_002_NPC10_003ID	22		騎士A	何を仰るのです。それではブラッド殿が\n危険です！						
+CharacterEvent_002_NPC10_003ID	23	Brad	ブラッド	君たちを連れて歩くほうがいらん反感を買いそうだ。\nここの住人たちも、守るべき民だということを忘れるな						
+CharacterEvent_002_NPC10_003ID	24		騎士B	申し訳ありません！！						
+CharacterEvent_002_NPC10_003ID	25		選択肢	説教する						
+CharacterEvent_002_NPC10_003ID	26	Brad	ブラッド	……本来なら港として栄えているはずの湾岸地区が、\n何故このように廃れているか分かるか？						
+CharacterEvent_002_NPC10_003ID	27		騎士A	いえ……何故でしょう？						
+CharacterEvent_002_NPC10_003ID	28	Brad	ブラッド	沖に頂獣が現れたからだ。おかげで沖への漁も、\n他の州への海路も諦めざるを得なくなった						
+CharacterEvent_002_NPC10_003ID	29	Brad	ブラッド	ごく稀に陸まで頂獣が攻め込んできたことも\nあったようだ。その度に復興を繰り返してはいたが……						
+CharacterEvent_002_NPC10_003ID	30	Brad	ブラッド	そのうち損失が利益を上回り、湾岸地区は見捨てられ、\n金のあるものは皆内陸へと逃げた						
+CharacterEvent_002_NPC10_003ID	31	Brad	ブラッド	残されたのは、逃げたくても逃げられなかった\n者たちだ。貧しくて移動できなかった者。そして……						
+CharacterEvent_002_NPC10_003ID	32	Brad	ブラッド	最後まで他の州との交通を担い、\n新鮮な魚を届けてくれていた者たちだ						
+CharacterEvent_002_NPC10_003ID	33		騎士B	……						
+CharacterEvent_002_NPC10_003ID	34	Brad	ブラッド	ここに暮らしている者も王国が守るべき人々だ。\nそのことをゆめゆめ忘れるな						
+CharacterEvent_002_NPC10_003ID	35	Brad	ブラッド	理解したらそのような目でこの地区を見るのを\nやめることだ						
+CharacterEvent_002_NPC10_003ID	36		騎士たち	……はっ！！						
+CharacterEvent_002_NPC10_003ID	37		騎士B	空気が合わないといいますか。\n長居したい場所ではありませんね						
+CharacterEvent_002_NPC10_004ID	0	Brad	ブラッド	なにか有益な情報は得られたか？						
+CharacterEvent_002_NPC10_004ID	1		騎士A	はっ。以前、調査対象が住んでいたと思われる\n拠点を特定しました						
+CharacterEvent_002_NPC10_004ID	2	Brad	ブラッド	何か手掛かりが残っているかもしれない。\n案内してくれ						
+CharacterEvent_002_NPC10_004ID	3		騎士A	ここに調査対象が暮らしていたようです						
+CharacterEvent_002_NPC10_004ID	4	Brad	ブラッド	過去の詳細が不明な人物だ。\n部屋に何があるか分からん。注意しろ						
+CharacterEvent_002_NPC10_004ID	5		騎士B	分かりました。ブラッド殿は下がっていてください。\nそれでは扉を開け……						
+CharacterEvent_002_NPC10_004ID	6	???	？？？	なんだぁ、外でガヤガヤと						
+CharacterEvent_002_NPC10_004ID	7		騎士A	お前に尋ねたいことがある						
+CharacterEvent_002_NPC10_004ID	8		騎士B	待て、逃げるつもりか貴様！						
+CharacterEvent_002_NPC10_004ID	9		騎士たち	「グフッ！」「ぐあっ！」						
+CharacterEvent_002_NPC10_004ID	10	???	？？？	あ。やべ。いきなり掴んでくるもんだから、手が……						
+CharacterEvent_002_NPC10_004ID	11		騎士A	ッ……！						
+CharacterEvent_002_NPC10_004ID	12	Brad	ブラッド	（瞬時に二人を……相当な手練れだ）						
+CharacterEvent_002_NPC10_004ID	13	???	？？？	やれやれ。攻撃しちまった。\n……ま。いいや						
+CharacterEvent_002_NPC10_004ID	14	Brad	ブラッド	む……						
+CharacterEvent_002_NPC10_004ID	15	???	？？？	お前、こいつらと同じ目に合いたくなかったら\n俺の質問に答えな！						
+CharacterEvent_002_NPC10_004ID	16	???	？？？	逃げようなんて思うんじゃねーぞ？\nその時はケンカになっちまうぜ、俺と、お前でな！						
+CharacterEvent_002_NPC10_004ID	17	Brad	ブラッド	（倒れている騎士に武器を……。\n　この一瞬で私を脅すことまで考えていたのか）						
+CharacterEvent_002_NPC10_004ID	18	Brad	ブラッド	（戦闘の才能に加え頭も切れる。放っておくには\n　惜しい人材だが……コイツは何者だ？）						
+CharacterEvent_002_NPC10_004ID	19	Brad	ブラッド	（とにかく情報が欲しい。コイツは自分が\n　圧倒的に有利だと思っているようだが……）						
+CharacterEvent_002_NPC10_004ID	20	Brad	ブラッド	彼らは、気絶しているだけのようだな……						
+CharacterEvent_002_NPC10_004ID	21	Brad	ブラッド	私の名はブラッドリー・カーン。\nこの国の錬金爵を務めている						
+CharacterEvent_002_NPC10_004ID	22	Brad	ブラッド	瞬く間に二人の騎士を打ち倒したその手腕……\n見事だった						
+CharacterEvent_002_NPC10_004ID	23	???	？？？	なぁにぃ？　相当のお偉いさんかァ						
+CharacterEvent_002_NPC10_004ID	24	Brad	ブラッド	名乗ったのだ、お前も名乗れ						
+CharacterEvent_002_NPC10_004ID	25	???	？？？	今の自分の立場、分かってるのか？\n護衛の騎士たちは伸びてるんだぜ						
+CharacterEvent_002_NPC10_004ID	26	Brad	ブラッド	お前の名は						
+CharacterEvent_002_NPC10_004ID	27	???	？？？	……なんだこいつ						
+CharacterEvent_002_NPC10_004ID	28	Magda	マクダ	マクダだ。マクダ・キュプカー						
+CharacterEvent_002_NPC10_004ID	29	???	？？？	げ、騎士か？　なんだよ俺は何も知らねぇぞ\nむしろ、こっちが色々と知りてーんだよ						
+CharacterEvent_002_NPC10_005ID	0	Magda	マクダ	なあ堅物。お前って、仕事しているとき以外は\n何してんだ？						
+CharacterEvent_002_NPC10_005ID	1	Brad	ブラッド	なんだ急に。そんなことを聞いてどうするつもりだ？						
+CharacterEvent_002_NPC10_005ID	2	Magda	マクダ	だってマクダ様はお前の友人なんだろ？\nだったら一緒に遊びに出たって構わないわけだよな？						
+CharacterEvent_002_NPC10_005ID	3	Brad	ブラッド	まあそうなるが……そうだな。\n戦略性のある盤上遊戯をすることはある						
+CharacterEvent_002_NPC10_005ID	4	Magda	マクダ	それって、あれか？\nキングとかナイトとかの駒がある……						
+CharacterEvent_002_NPC10_005ID	5	Brad	ブラッド	ああ。それだ						
+CharacterEvent_002_NPC10_005ID	6	Magda	マクダ	はー、堅物らしい趣味だな。\nあれって何が楽しいんだ？						
+CharacterEvent_002_NPC10_005ID	7	Brad	ブラッド	こちらの戦略と相手の戦略の読み合いだな。\n相手がどのように攻めようとしているのかを見極め……						
+CharacterEvent_002_NPC10_005ID	8	Brad	ブラッド	それを上回る戦略を考え、ねじ伏せる。\n実に気持ちのいいものだ						
+CharacterEvent_002_NPC10_005ID	9	Magda	マクダ	前々から思ってたけど、お前って負けず嫌いだよな						
+CharacterEvent_002_NPC10_005ID	10	Brad	ブラッド	努力すれば勝てる戦いに負けるつもりはない						
+CharacterEvent_002_NPC10_005ID	11	Magda	マクダ	はいはい。で、ルールは？\n何を用意すりゃ遊べるんだよ						
+CharacterEvent_002_NPC10_005ID	12	Brad	ブラッド	まさかお前、私と対戦するつもりか？						
+CharacterEvent_002_NPC10_005ID	13	Magda	マクダ	そりゃそうだろ？　なんのために聞いたんだよ。\n勉強は好きじゃねぇが、これは楽しめるかもしれねぇ						
+CharacterEvent_002_NPC10_005ID	14	Brad	ブラッド	……ふ、そうか。いいだろう。手加減はしない						
+CharacterEvent_002_NPC10_005ID	15	Magda	マクダ	あー。それがお前だろ。さぁやろうぜ						
+CharacterEvent_002_NPC10_006ID	0	Brad	ブラッド	……						
+CharacterEvent_002_NPC10_006ID	1	Magda	マクダ	……						
+CharacterEvent_002_NPC10_006ID	2	Brad	ブラッド	錬金術、実に奥深いものだ						
+CharacterEvent_002_NPC10_006ID	3	Brad	ブラッド	私自身の錬金術の腕も、高めていかなくてはな						
+CharacterEvent_002_NPC10_006ID	4	Magda	マクダ	お前が錬金術できて、マクダ様ができねーとは\n才能ってのは残酷なもんだぜ						
+CharacterEvent_002_NPC10_006ID	5	Brad	ブラッド	お前は、ちょっと試しただけだろう。\n本気で錬金術を学びたいのか？　力になるぞ						
+CharacterEvent_002_NPC10_006ID	6	Magda	マクダ	いいや、マクダ様はケンカが本分。\n錬金術はいーや						
+CharacterEvent_002_NPC10_006ID	7	Brad	ブラッド	ヴァレリアは錬金術ができるぞ						
+CharacterEvent_002_NPC10_006ID	8	Magda	マクダ	ヴァレリアはヴァレリア、マクダ様はマクダ様						
+CharacterEvent_002_NPC10_006ID	9	Brad	ブラッド	そこまで確固たる考えがあるなら、\nなぜ愚痴を言った						
+CharacterEvent_002_NPC10_006ID	10	Magda	マクダ	堅物がずーっと錬金釜とにらめっこしてるから\nつい、な。ちょっかいかけたくなった						
+CharacterEvent_002_NPC10_006ID	11	Brad	ブラッド	暇なら、仕事をやろう。私の採取についてきて、\n魔物が襲ってきたらケンカをしてもらう						
+CharacterEvent_002_NPC10_006ID	12	Magda	マクダ	んあ？　錬金爵が採取もすンのか？						
+CharacterEvent_002_NPC10_006ID	13	Brad	ブラッド	採取をこなせなくては、錬金術は上達しないだろう						
+CharacterEvent_002_NPC10_006ID	14	Magda	マクダ	どこまでも真面目なこった。ま、仕事ならいーぜ						
+CharacterEvent_002_NPC10_006ID	15	Magda	マクダ	他の面子は？						
+CharacterEvent_002_NPC10_006ID	16	Brad	ブラッド	近場だ。お前がいればいい						
+CharacterEvent_002_NPC10_006ID	17	Magda	マクダ	はは、じゃあデートってやつか？\nお堅いお誘いだなぁ						
+CharacterEvent_002_NPC10_006ID	18	Brad	ブラッド	私は真面目に言っているんだが？\nお前、意外とそういう思考をするのだな						
+CharacterEvent_002_NPC10_006ID	19	Magda	マクダ	は！？　か、からかっただけなのに、\nその返し、マジでむっかつく！！						
+CharacterEvent_002_NPC10_006ID	20	Brad	ブラッド	おい、行くぞ						
+CharacterEvent_002_NPC10_006ID	21	Magda	マクダ	こいつ、いつかぎゃふんと言わせてやるぜ……！						
+CharacterEvent_002_NPC10_007ID	0	Brad	ブラッド	皆、揃ったな						
+CharacterEvent_002_NPC10_007ID	1	Mieke	ミーケ	ララ様を呼び出すなんて、\n偉くなったもんだねえ、ブラッドくん？						
+CharacterEvent_002_NPC10_007ID	2	Diona	ディオーナ	だめよミーケちゃん。\n本当に偉い方なんだから						
+CharacterEvent_002_NPC10_007ID	3	Magda	マクダ	そんなにかしこまることもねーけどな？\nただの堅物の坊ちゃんだぜ、コイツは						
+CharacterEvent_002_NPC10_007ID	4	Lara	ララ	しかしわたくしを呼び出すということは、\n恐らくこれはララ・キングダムのお話						
+CharacterEvent_002_NPC10_007ID	5	Lara	ララ	外交的な何らかの取引……ということですわね？						
+CharacterEvent_002_NPC10_007ID	6	Brad	ブラッド	いや、お前個人の問題だ。\n前にベルク州の高地を訪れただろう？						
+CharacterEvent_002_NPC10_007ID	7	Brad	ブラッド	レスナたちから、その際君が広範囲に霧状の何かを\n散布していたと報告を受けている						
+CharacterEvent_002_NPC10_007ID	8	Lara	ララ	ええ……確かにやりましたわね						
+CharacterEvent_002_NPC10_007ID	9	Brad	ブラッド	問題は、ベルク州には遺跡が多く残されている\nことにある						
+CharacterEvent_002_NPC10_007ID	10	Brad	ブラッド	遺跡は国の重要な文化財だ。それが錬金術で作られた\n未知の霧にさらされた						
+CharacterEvent_002_NPC10_007ID	11	Brad	ブラッド	錬金爵としては、遺跡に被害が無いかどうか\n確認しなければならない						
+CharacterEvent_002_NPC10_007ID	12	Diona	ディオーナ	え……もしかしてそれって						
+CharacterEvent_002_NPC10_007ID	13	Brad	ブラッド	そういうことだ。お前たちにも調査に同行してもらう						
+CharacterEvent_002_NPC10_007ID	14	Mieke	ミーケ	えー！　なんでだよ！　そっちで勝手にやってくれれば\nいいじゃん！						
+CharacterEvent_002_NPC10_007ID	15	Brad	ブラッド	お前たちの王は自分の後始末もできないのか？						
+CharacterEvent_002_NPC10_007ID	16	Mieke	ミーケ	ぐぬぬぬぬ！						
+CharacterEvent_002_NPC10_007ID	17	Lara	ララ	ミーケ、これは仕方ありませんわ。\nわたくしのした不始末ですもの						
+CharacterEvent_002_NPC10_007ID	18	Lara	ララ	いいでしょう、霧が触れた可能性がある場所を\n案内いたしますわ						
+CharacterEvent_002_NPC10_007ID	19	Magda	マクダ	はは、大変なこった。頑張ってこいよ						
+CharacterEvent_002_NPC10_007ID	20	Brad	ブラッド	マクダ、お前も来い						
+CharacterEvent_002_NPC10_007ID	21	Magda	マクダ	は！？　なんでマクダ様まで！						
+CharacterEvent_002_NPC10_007ID	22	Brad	ブラッド	どうせ暇だろ。雇用費は出す						
+CharacterEvent_002_NPC10_007ID	23	Magda	マクダ	そういうことなら早く言ってくれよ。\nひと暴れしてやんぜ！						
+CharacterEvent_002_NPC10_007ID	24	Brad	ブラッド	遺跡の側では大人しくしていろ						
+CharacterEvent_002_NPC10_007ID	25	Diona	ディオーナ	ララ様、私たちもお供いたします！\nこのディオーナをお好きなようにお使いください！						
+CharacterEvent_002_NPC10_007ID	26	Mieke	ミーケ	あ、ずるい！　ミーケも行くよ！						
+CharacterEvent_002_NPC10_007ID	27	Brad	ブラッド	頼むから皆、遺跡の側では大人しくしていることだ……						
+CharacterEvent_002_NPC10_IF_001ID	0	Brad	ブラッド	……以上が報告になります。\nやはり錬金術を使用し続けるのはお勧めできません						
+CharacterEvent_002_NPC10_IF_001ID	1	Brad	ブラッド	必ずマナは枯渇します。果ての大陸の捜索も\n非現実的です						
+CharacterEvent_002_NPC10_IF_001ID	2		オルペウス	……そうか。分かった						
+CharacterEvent_002_NPC10_IF_001ID	3		オルペウス	では、提案してくれた錬金術の代替計画について\n明日話を聞こう。資料をまとめておいてくれ						
+CharacterEvent_002_NPC10_IF_001ID	4	Brad	ブラッド	承知いたしました						
+CharacterEvent_002_NPC10_IF_001ID	5		オルペウス	君には礼を言うべきかな						
+CharacterEvent_002_NPC10_IF_001ID	6	Brad	ブラッド	……何がでしょう？						
+CharacterEvent_002_NPC10_IF_001ID	7		オルペウス	こんなに早く代替計画案を用意したのは、\nリヒャルトを諦めさせるためだろう？						
+CharacterEvent_002_NPC10_IF_001ID	8		オルペウス	おかげで、身内が失脚することはなくなった						
+CharacterEvent_002_NPC10_IF_001ID	9	Brad	ブラッド	考えすぎです						
+CharacterEvent_002_NPC10_IF_001ID	10		オルペウス	複雑な心境だな。堅実な道ではあるのだが						
+CharacterEvent_002_NPC10_IF_001ID	11		オルペウス	リヒャルトが切り拓いていく錬金術の未来……\nそんなものを想像していた私がいるのも確かなのだ						
+CharacterEvent_002_NPC10_IF_001ID	12	Brad	ブラッド	僭越ながら……夢を追うのと、夢物語を語るのは、\nまったく別のものだと考えます						
+CharacterEvent_002_NPC10_IF_001ID	13	Brad	ブラッド	我々のような民を導く人間に、\n後者は許されないのです						
+CharacterEvent_002_NPC10_IF_001ID	14		オルペウス	……もっともなことだ。\nでは、明日を楽しみにしている						
+CharacterEvent_002_NPC10_IF_001ID	15	Brad	ブラッド	錬金術の未来、か……						
+CharacterEvent_002_NPC10_IF_001ID	16	Brad	ブラッド	（私がもう少し理想を追い求めることができたなら。\n　もしかしたら何かが変わったのかもしれない）						
+CharacterEvent_002_NPC10_IF_001ID	17	Brad	ブラッド	（しかし、現実を直視して少しずつ改善を積み重ねる。\n　政に一番大切なのはそれなのだと、私は信じている）						
+CharacterEvent_002_NPC10_IF_001ID	18	Brad	ブラッド	（そのために不要なものは、切り捨てる。\n　たとえ恨まれようとも）						
+CharacterEvent_002_NPC10_IF_001ID	19	Brad	ブラッド	（そういう者も必要なのだ。私がやればいい）						
+CharacterEvent_002_NPC10_IF_002ID	0	Brad	ブラッド	集めた情報によると……ヴァレリアはここに\n住んでいたようだな						
+CharacterEvent_002_NPC10_IF_002ID	1	Brad	ブラッド	（現在は住居をフリーゲンに移しているらしいが、\n　ここに残されたものから分かることもあるはずだ）						
+CharacterEvent_002_NPC10_IF_002ID	2	Brad	ブラッド	（中を調べさせてもらうか）						
+CharacterEvent_002_NPC10_IF_002ID	3	???	？？？	あ？　なんだお前は						
+CharacterEvent_002_NPC10_IF_002ID	4	Brad	ブラッド	ブラッドリー・カーン。役目で、この家を調べに来た						
+CharacterEvent_002_NPC10_IF_002ID	5	???	？？？	お前、ヴァレリアたちがどこへ行ったか知ってるか？						
+CharacterEvent_002_NPC10_IF_002ID	6	Brad	ブラッド	私は名乗った。お前も名乗るのが礼儀だと思うが？						
+CharacterEvent_002_NPC10_IF_002ID	7	???	？？？	はぁん、こいつは品の良さそうな奴だぜ。\nこっちに従う道理はねえなぁ？						
+CharacterEvent_002_NPC10_IF_002ID	8	Brad	ブラッド	っ……愚かな						
+CharacterEvent_002_NPC10_IF_002ID	9		騎士	ブラッド殿！？　おい貴様！　何をしている！						
+CharacterEvent_002_NPC10_IF_002ID	10	???	？？？	うお！？　騎士かよ。本当にお上品な奴だった。\n指名手配はご免だぜ						
+CharacterEvent_002_NPC10_IF_002ID	11	Brad	ブラッド	おい……待て！						
+CharacterEvent_002_NPC10_IF_002ID	12		騎士	お怪我はありませんか、ブラッド殿！						
+CharacterEvent_002_NPC10_IF_002ID	13	Brad	ブラッド	問題ない。が、随分と攻撃的だったな……						
+CharacterEvent_002_NPC10_IF_002ID	14	Brad	ブラッド	危険人物として指名手配しろ。\nどうやら、ヴァレリアの仲間らしい						
+CharacterEvent_002_NPC10_IF_002ID	15		騎士	何ですって！						
+CharacterEvent_002_NPC10_IF_002ID	16	Brad	ブラッド	一度錬金術士レスナにも、ヴァレリアが\nどんな人物なのか聞く必要がありそうだな……						
+CharacterEvent_002_NPC10_IF_002ID	17	Brad	ブラッド	（その後、私はレスナを王宮に召喚し\n　事情聴取を行った）						
+CharacterEvent_002_NPC10_IF_002ID	18	Brad	ブラッド	（レスナ本人は、信用できる人物と感じたが、\n　どうにもヴァレリア側が怪しい）						
+CharacterEvent_002_NPC10_IF_002ID	19	Brad	ブラッド	（錬金術士への監視……厳しくせざるを得ないな）						
+CharacterEvent_002_NPC10_IF_002ID	20	Brad	ブラッド	（お前の目指す道は遠く、長いぞリヒャルト……）						
+CharacterEvent_002_NPC10_IF_002ID	21	Brad	ブラッド	（私はレスナ達の行動に制限をかけ……\n　錬金術はしばし停滞の時を迎えるのだった）						

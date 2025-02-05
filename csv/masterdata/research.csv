@@ -1,0 +1,341 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	アタッカー戦闘研究1	Attacker Combat Research 1	攻击者战斗研究1	攻擊者戰鬥研究1
+2	ブレイカー戦闘研究1	Breaker Combat Research 1	破坏者战斗研究1	破壞者戰鬥研究1
+3	ディフェンダー戦闘研究1	Defender Combat Research 1	防御者战斗研究1	防禦者戰鬥研究1
+4	サポーター戦闘研究1	Supporter Combat Research 1	支援者战斗研究1	支援者戰鬥研究1
+5	アタッカー戦闘研究2	Attacker Combat Research 2	攻击者战斗研究2	攻擊者戰鬥研究2
+6	ブレイカー戦闘研究2	Breaker Combat Research 2	破坏者战斗研究2	破壞者戰鬥研究2
+7	ディフェンダー戦闘研究2	Defender Combat Research 2	防御者战斗研究2	防禦者戰鬥研究2
+8	サポーター戦闘研究2	Supporter Combat Research 2	支援者战斗研究2	支援者戰鬥研究2
+9	アタッカー戦闘研究3	Attacker Combat Research 3	攻击者战斗研究3	攻擊者戰鬥研究3
+10	ブレイカー戦闘研究3	Breaker Combat Research 3	破坏者战斗研究3	破壞者戰鬥研究3
+11	ディフェンダー戦闘研究3	Defender Combat Research 3	防御者战斗研究3	防禦者戰鬥研究3
+12	サポーター戦闘研究3	Supporter Combat Research 3	支援者战斗研究3	支援者戰鬥研究3
+13	アタッカー戦闘研究4	Attacker Combat Research 4	攻击者战斗研究4	攻擊者戰鬥研究4
+14	ブレイカー戦闘研究4	Breaker Combat Research 4	破坏者战斗研究4	破壞者戰鬥研究4
+15	ディフェンダー戦闘研究4	Defender Combat Research 4	防御者战斗研究4	防禦者戰鬥研究4
+16	サポーター戦闘研究4	Supporter Combat Research 4	支援者战斗研究4	支援者戰鬥研究4
+17	アタッカー戦闘研究5	Attacker Combat Research 5	攻击者战斗研究5	攻擊者戰鬥研究5
+18	ブレイカー戦闘研究5	Breaker Combat Research 5	破坏者战斗研究5	破壞者戰鬥研究5
+19	ディフェンダー戦闘研究5	Defender Combat Research 5	防御者战斗研究5	防禦者戰鬥研究5
+20	サポーター戦闘研究5	Supporter Combat Research 5	支援者战斗研究5	支援者戰鬥研究5
+21	アタッカー戦闘研究6	Attacker Combat Research 6	攻击者战斗研究6	攻擊者戰鬥研究6
+22	ブレイカー戦闘研究6	Breaker Combat Research 6	破坏者战斗研究6	破壞者戰鬥研究6
+23	ディフェンダー戦闘研究6	Defender Combat Research 6	防御者战斗研究6	防禦者戰鬥研究6
+24	サポーター戦闘研究6	Supporter Combat Research 6	支援者战斗研究6	支援者戰鬥研究6
+25	アタッカー戦闘研究7	Attacker Combat Research 7	攻击者战斗研究7	攻擊者戰鬥研究7
+26	ブレイカー戦闘研究7	Breaker Combat Research 7	破坏者战斗研究7	破壞者戰鬥研究7
+27	ディフェンダー戦闘研究7	Defender Combat Research 7	防御者战斗研究7	防禦者戰鬥研究7
+28	サポーター戦闘研究7	Supporter Combat Research 7	支援者战斗研究7	支援者戰鬥研究7
+29	アタッカー戦闘研究8	Attacker Combat Research 8	攻击者战斗研究8	攻擊者戰鬥研究8
+30	ブレイカー戦闘研究8	Breaker Combat Research 8	破坏者战斗研究8	破壞者戰鬥研究8
+31	ディフェンダー戦闘研究8	Defender Combat Research 8	防御者战斗研究8	防禦者戰鬥研究8
+32	サポーター戦闘研究8	Supporter Combat Research 8	支援者战斗研究8	支援者戰鬥研究8
+33	アタッカー戦闘研究9	Attacker Combat Research 9	攻击者战斗研究9	攻擊者戰鬥研究9
+34	ブレイカー戦闘研究9	Breaker Combat Research 9	破坏者战斗研究9	破壞者戰鬥研究9
+35	ディフェンダー戦闘研究9	Defender Combat Research 9	防御者战斗研究9	防禦者戰鬥研究9
+36	サポーター戦闘研究9	Supporter Combat Research 9	支援者战斗研究9	支援者戰鬥研究9
+37	アタッカー戦闘研究10	Attacker Combat Research 10	攻击者战斗研究10	攻擊者戰鬥研究10
+38	ブレイカー戦闘研究10	Breaker Combat Research 10	破坏者战斗研究10	破壞者戰鬥研究10
+39	ディフェンダー戦闘研究10	Defender Combat Research 10	防御者战斗研究10	防禦者戰鬥研究10
+40	サポーター戦闘研究10	Supporter Combat Research 10	支援者战斗研究10	支援者戰鬥研究10
+41	アタッカー戦闘研究11	Attacker Combat Research 11	攻击者战斗研究11	攻擊者戰鬥研究11
+42	ブレイカー戦闘研究11	Breaker Combat Research 11	破坏者战斗研究11	破壞者戰鬥研究11
+43	ディフェンダー戦闘研究11	Defender Combat Research 11	防御者战斗研究11	防禦者戰鬥研究11
+44	サポーター戦闘研究11	Supporter Combat Research 11	支援者战斗研究11	支援者戰鬥研究11
+45	アタッカー戦闘研究12	Attacker Combat Research 12	攻击者战斗研究12	攻擊者戰鬥研究12
+46	ブレイカー戦闘研究12	Breaker Combat Research 12	破坏者战斗研究12	破壞者戰鬥研究12
+47	ディフェンダー戦闘研究12	Defender Combat Research 12	防御者战斗研究12	防禦者戰鬥研究12
+48	サポーター戦闘研究12	Supporter Combat Research 12	支援者战斗研究12	支援者戰鬥研究12
+49	アタッカー戦闘研究13	Attacker Combat Research 13	攻击者战斗研究13	攻擊者戰鬥研究13
+50	ブレイカー戦闘研究13	Breaker Combat Research 13	破坏者战斗研究13	破壞者戰鬥研究13
+51	ディフェンダー戦闘研究13	Defender Combat Research 13	防御者战斗研究13	防禦者戰鬥研究13
+52	サポーター戦闘研究13	Supporter Combat Research 13	支援者战斗研究13	支援者戰鬥研究13
+53	アタッカー戦闘研究14	Attacker Combat Research 14	攻击者战斗研究14	攻擊者戰鬥研究14
+54	ブレイカー戦闘研究14	Breaker Combat Research 14	破坏者战斗研究14	破壞者戰鬥研究14
+55	ディフェンダー戦闘研究14	Defender Combat Research 14	防御者战斗研究14	防禦者戰鬥研究14
+56	サポーター戦闘研究14	Supporter Combat Research 14	支援者战斗研究14	支援者戰鬥研究14
+57	アタッカー戦闘研究15	Attacker Combat Research 15	攻击者战斗研究15	攻擊者戰鬥研究15
+58	ブレイカー戦闘研究15	Breaker Combat Research 15	破坏者战斗研究15	破壞者戰鬥研究15
+59	ディフェンダー戦闘研究15	Defender Combat Research 15	防御者战斗研究15	防禦者戰鬥研究15
+60	サポーター戦闘研究15	Supporter Combat Research 15	支援者战斗研究15	支援者戰鬥研究15
+61	アタッカー戦闘研究16	Attacker Combat Research 16	攻击者战斗研究16	攻擊者戰鬥研究16
+62	ブレイカー戦闘研究16	Breaker Combat Research 16	破坏者战斗研究16	破壞者戰鬥研究16
+63	ディフェンダー戦闘研究16	Defender Combat Research 16	防御者战斗研究16	防禦者戰鬥研究16
+64	サポーター戦闘研究16	Supporter Combat Research 16	支援者战斗研究16	支援者戰鬥研究16
+65	アタッカー戦闘研究17	Attacker Combat Research 17	攻击者战斗研究17	攻擊者戰鬥研究17
+66	ブレイカー戦闘研究17	Breaker Combat Research 17	破坏者战斗研究17	破壞者戰鬥研究17
+67	ディフェンダー戦闘研究17	Defender Combat Research 17	防御者战斗研究17	防禦者戰鬥研究17
+68	サポーター戦闘研究17	Supporter Combat Research 17	支援者战斗研究17	支援者戰鬥研究17
+69	アタッカー戦闘研究18	Attacker Combat Research 18	攻击者战斗研究18	攻擊者戰鬥研究18
+70	ブレイカー戦闘研究18	Breaker Combat Research 18	破坏者战斗研究18	破壞者戰鬥研究18
+71	ディフェンダー戦闘研究18	Defender Combat Research 18	防御者战斗研究18	防禦者戰鬥研究18
+72	サポーター戦闘研究18	Supporter Combat Research 18	支援者战斗研究18	支援者戰鬥研究18
+73	アタッカー戦闘研究19	Attacker Combat Research 19	攻击者战斗研究19	攻擊者戰鬥研究19
+74	ブレイカー戦闘研究19	Breaker Combat Research 19	破坏者战斗研究19	破壞者戰鬥研究19
+75	ディフェンダー戦闘研究19	Defender Combat Research 19	防御者战斗研究19	防禦者戰鬥研究19
+76	サポーター戦闘研究19	Supporter Combat Research 19	支援者战斗研究19	支援者戰鬥研究19
+77	アタッカー戦闘研究20	Attacker Combat Research 20	攻击者战斗研究20	攻擊者戰鬥研究20
+78	ブレイカー戦闘研究20	Breaker Combat Research 20	破坏者战斗研究20	破壞者戰鬥研究20
+79	ディフェンダー戦闘研究20	Defender Combat Research 20	防御者战斗研究20	防禦者戰鬥研究20
+80	サポーター戦闘研究20	Supporter Combat Research 20	支援者战斗研究20	支援者戰鬥研究20
+81	アタッカー戦闘研究21	Attacker Combat Research 21	攻击者战斗研究21	攻擊者戰鬥研究21
+82	ブレイカー戦闘研究21	Breaker Combat Research 21	破坏者战斗研究21	破壞者戰鬥研究21
+83	ディフェンダー戦闘研究21	Defender Combat Research 21	防御者战斗研究21	防禦者戰鬥研究21
+84	サポーター戦闘研究21	Supporter Combat Research 21	支援者战斗研究21	支援者戰鬥研究21
+85	アタッカー戦闘研究22	Attacker Combat Research 22	攻击者战斗研究22	攻擊者戰鬥研究22
+86	ブレイカー戦闘研究22	Breaker Combat Research 22	破坏者战斗研究22	破壞者戰鬥研究22
+87	ディフェンダー戦闘研究22	Defender Combat Research 22	防御者战斗研究22	防禦者戰鬥研究22
+88	サポーター戦闘研究22	Supporter Combat Research 22	支援者战斗研究22	支援者戰鬥研究22
+89	アタッカー戦闘研究23	Attacker Combat Research 23	攻击者战斗研究23	攻擊者戰鬥研究23
+90	ブレイカー戦闘研究23	Breaker Combat Research 23	破坏者战斗研究23	破壞者戰鬥研究23
+91	ディフェンダー戦闘研究23	Defender Combat Research 23	防御者战斗研究23	防禦者戰鬥研究23
+92	サポーター戦闘研究23	Supporter Combat Research 23	支援者战斗研究23	支援者戰鬥研究23
+93	アタッカー戦闘研究24	Attacker Combat Research 24	攻击者战斗研究24	攻擊者戰鬥研究24
+94	ブレイカー戦闘研究24	Breaker Combat Research 24	破坏者战斗研究24	破壞者戰鬥研究24
+95	ディフェンダー戦闘研究24	Defender Combat Research 24	防御者战斗研究24	防禦者戰鬥研究24
+96	サポーター戦闘研究24	Supporter Combat Research 24	支援者战斗研究24	支援者戰鬥研究24
+97	アタッカー戦闘研究25	Attacker Combat Research 25	攻击者战斗研究25	攻擊者戰鬥研究25
+98	ブレイカー戦闘研究25	Breaker Combat Research 25	破坏者战斗研究25	破壞者戰鬥研究25
+99	ディフェンダー戦闘研究25	Defender Combat Research 25	防御者战斗研究25	防禦者戰鬥研究25
+100	サポーター戦闘研究25	Supporter Combat Research 25	支援者战斗研究25	支援者戰鬥研究25
+101	アタッカー戦闘研究26	Attacker Combat Research 26	攻击者战斗研究26	攻擊者戰鬥研究26
+102	ブレイカー戦闘研究26	Breaker Combat Research 26	破坏者战斗研究26	破壞者戰鬥研究26
+103	ディフェンダー戦闘研究26	Defender Combat Research 26	防御者战斗研究26	防禦者戰鬥研究26
+104	サポーター戦闘研究26	Supporter Combat Research 26	支援者战斗研究26	支援者戰鬥研究26
+105	アタッカー戦闘研究27	Attacker Combat Research 27	攻击者战斗研究27	攻擊者戰鬥研究27
+106	ブレイカー戦闘研究27	Breaker Combat Research 27	破坏者战斗研究27	破壞者戰鬥研究27
+107	ディフェンダー戦闘研究27	Defender Combat Research 27	防御者战斗研究27	防禦者戰鬥研究27
+108	サポーター戦闘研究27	Supporter Combat Research 27	支援者战斗研究27	支援者戰鬥研究27
+109	アタッカー戦闘研究28	Attacker Combat Research 28	攻击者战斗研究28	攻擊者戰鬥研究28
+110	ブレイカー戦闘研究28	Breaker Combat Research 28	破坏者战斗研究28	破壞者戰鬥研究28
+111	ディフェンダー戦闘研究28	Defender Combat Research 28	防御者战斗研究28	防禦者戰鬥研究28
+112	サポーター戦闘研究28	Supporter Combat Research 28	支援者战斗研究28	支援者戰鬥研究28
+113	アタッカー戦闘研究29	Attacker Combat Research 29	攻击者战斗研究29	攻擊者戰鬥研究29
+114	ブレイカー戦闘研究29	Breaker Combat Research 29	破坏者战斗研究29	破壞者戰鬥研究29
+115	ディフェンダー戦闘研究29	Defender Combat Research 29	防御者战斗研究29	防禦者戰鬥研究29
+116	サポーター戦闘研究29	Supporter Combat Research 29	支援者战斗研究29	支援者戰鬥研究29
+117	アタッカー戦闘研究30	Attacker Combat Research 30	攻击者战斗研究30	攻擊者戰鬥研究30
+118	ブレイカー戦闘研究30	Breaker Combat Research 30	破坏者战斗研究30	破壞者戰鬥研究30
+119	ディフェンダー戦闘研究30	Defender Combat Research 30	防御者战斗研究30	防禦者戰鬥研究30
+120	サポーター戦闘研究30	Supporter Combat Research 30	支援者战斗研究30	支援者戰鬥研究30
+121	アタッカー戦闘研究31	Attacker Combat Research 31	攻击者战斗研究31	攻擊者戰鬥研究31
+122	ブレイカー戦闘研究31	Breaker Combat Research 31	破坏者战斗研究31	破壞者戰鬥研究31
+123	ディフェンダー戦闘研究31	Defender Combat Research 31	防御者战斗研究31	防禦者戰鬥研究31
+124	サポーター戦闘研究31	Supporter Combat Research 31	支援者战斗研究31	支援者戰鬥研究31
+125	アタッカー戦闘研究32	Attacker Combat Research 32	攻击者战斗研究32	攻擊者戰鬥研究32
+126	ブレイカー戦闘研究32	Breaker Combat Research 32	破坏者战斗研究32	破壞者戰鬥研究32
+127	ディフェンダー戦闘研究32	Defender Combat Research 32	防御者战斗研究32	防禦者戰鬥研究32
+128	サポーター戦闘研究32	Supporter Combat Research 32	支援者战斗研究32	支援者戰鬥研究32
+129	アタッカー戦闘研究33	Attacker Combat Research 33	攻击者战斗研究33	攻擊者戰鬥研究33
+130	ブレイカー戦闘研究33	Breaker Combat Research 33	破坏者战斗研究33	破壞者戰鬥研究33
+131	ディフェンダー戦闘研究33	Defender Combat Research 33	防御者战斗研究33	防禦者戰鬥研究33
+132	サポーター戦闘研究33	Supporter Combat Research 33	支援者战斗研究33	支援者戰鬥研究33
+133	アタッカー戦闘研究34	Attacker Combat Research 34	攻击者战斗研究34	攻擊者戰鬥研究34
+134	ブレイカー戦闘研究34	Breaker Combat Research 34	破坏者战斗研究34	破壞者戰鬥研究34
+135	ディフェンダー戦闘研究34	Defender Combat Research 34	防御者战斗研究34	防禦者戰鬥研究34
+136	サポーター戦闘研究34	Supporter Combat Research 34	支援者战斗研究34	支援者戰鬥研究34
+137	アタッカー戦闘研究35	Attacker Combat Research 35	攻击者战斗研究35	攻擊者戰鬥研究35
+138	ブレイカー戦闘研究35	Breaker Combat Research 35	破坏者战斗研究35	破壞者戰鬥研究35
+139	ディフェンダー戦闘研究35	Defender Combat Research 35	防御者战斗研究35	防禦者戰鬥研究35
+140	サポーター戦闘研究35	Supporter Combat Research 35	支援者战斗研究35	支援者戰鬥研究35
+141	アタッカー戦闘研究36	Attacker Combat Research 36	攻击者战斗研究36	攻擊者戰鬥研究36
+142	ブレイカー戦闘研究36	Breaker Combat Research 36	破坏者战斗研究36	破壞者戰鬥研究36
+143	ディフェンダー戦闘研究36	Defender Combat Research 36	防御者战斗研究36	防禦者戰鬥研究36
+144	サポーター戦闘研究36	Supporter Combat Research 36	支援者战斗研究36	支援者戰鬥研究36
+145	アタッカー戦闘研究37	Attacker Combat Research 37	攻击者战斗研究37	攻擊者戰鬥研究37
+146	ブレイカー戦闘研究37	Breaker Combat Research 37	破坏者战斗研究37	破壞者戰鬥研究37
+147	ディフェンダー戦闘研究37	Defender Combat Research 37	防御者战斗研究37	防禦者戰鬥研究37
+148	サポーター戦闘研究37	Supporter Combat Research 37	支援者战斗研究37	支援者戰鬥研究37
+149	アタッカー戦闘研究38	Attacker Combat Research 38	攻击者战斗研究38	攻擊者戰鬥研究38
+150	ブレイカー戦闘研究38	Breaker Combat Research 38	破坏者战斗研究38	破壞者戰鬥研究38
+1001	戦闘アイテム研究1	Battle Item Research 1	战斗道具研究1	戰鬥道具研究1
+1002	装備アイテム研究1	Equipment Research 1	装备道具研究1	裝備道具研究1
+1003	戦闘アイテム研究2	Battle Item Research 2	战斗道具研究2	戰鬥道具研究2
+1004	装備アイテム研究2	Equipment Research 2	装备道具研究2	裝備道具研究2
+1005	戦闘アイテム研究3	Battle Item Research 3	战斗道具研究3	戰鬥道具研究3
+1006	装備アイテム研究3	Equipment Research 3	装备道具研究3	裝備道具研究3
+1007	戦闘アイテム研究4	Battle Item Research 4	战斗道具研究4	戰鬥道具研究4
+1008	戦闘アイテム研究5	Battle Item Research 5	战斗道具研究5	戰鬥道具研究5
+1009	装備アイテム研究4	Equipment Research 4	装备道具研究4	裝備道具研究4
+1010	戦闘アイテム研究6	Battle Item Research 6	战斗道具研究6	戰鬥道具研究6
+1011	装備アイテム研究5	Equipment Research 5	装备道具研究5	裝備道具研究5
+1012	戦闘アイテム研究7	Battle Item Research 7	战斗道具研究7	戰鬥道具研究7
+1013	装備アイテム研究6	Equipment Research 6	装备道具研究6	裝備道具研究6
+1014	戦闘アイテム研究8	Battle Item Research 8	战斗道具研究8	戰鬥道具研究8
+1015	戦闘アイテム研究9	Battle Item Research 9	战斗道具研究9	戰鬥道具研究9
+1016	装備アイテム研究7	Equipment Research 7	装备道具研究7	裝備道具研究7
+1017	戦闘アイテム研究10	Battle Item Research 10	战斗道具研究10	戰鬥道具研究10
+1018	装備アイテム研究8	Equipment Research 8	装备道具研究8	裝備道具研究8
+1019	戦闘アイテム研究11	Battle Item Research 11	战斗道具研究11	戰鬥道具研究11
+1020	装備アイテム研究9	Equipment Research 9	装备道具研究9	裝備道具研究9
+1021	戦闘アイテム研究12	Battle Item Research 12	战斗道具研究12	戰鬥道具研究12
+1022	戦闘アイテム研究13	Battle Item Research 13	战斗道具研究13	戰鬥道具研究13
+1023	装備アイテム研究10	Equipment Research 10	装备道具研究10	裝備道具研究10
+1024	戦闘アイテム研究14	Battle Item Research 14	战斗道具研究14	戰鬥道具研究14
+1025	装備アイテム研究11	Equipment Research 11	装备道具研究11	裝備道具研究11
+1026	戦闘アイテム研究15	Battle Item Research 15	战斗道具研究15	戰鬥道具研究15
+1027	装備アイテム研究12	Equipment Research 12	装备道具研究12	裝備道具研究12
+1028	戦闘アイテム研究16	Battle Item Research 16	战斗道具研究16	戰鬥道具研究16
+1029	戦闘アイテム研究17	Battle Item Research 17	战斗道具研究17	戰鬥道具研究17
+1030	装備アイテム研究13	Equipment Research 13	装备道具研究13	裝備道具研究13
+1031	戦闘アイテム研究18	Battle Item Research 18	战斗道具研究18	戰鬥道具研究18
+1032	装備アイテム研究14	Equipment Research 14	装备道具研究14	裝備道具研究14
+1033	戦闘アイテム研究19	Battle Item Research 19	战斗道具研究19	戰鬥道具研究19
+1034	装備アイテム研究15	Equipment Research 15	装备道具研究15	裝備道具研究15
+1035	戦闘アイテム研究20	Battle Item Research 20	战斗道具研究20	戰鬥道具研究20
+1036	戦闘アイテム研究21	Battle Item Research 21	战斗道具研究21	戰鬥道具研究21
+1037	装備アイテム研究16	Equipment Research 16	装备道具研究16	裝備道具研究16
+1038	戦闘アイテム研究22	Battle Item Research 22	战斗道具研究22	戰鬥道具研究22
+1039	装備アイテム研究17	Equipment Research 17	装备道具研究17	裝備道具研究17
+1040	戦闘アイテム研究23	Battle Item Research 23	战斗道具研究23	戰鬥道具研究23
+1041	装備アイテム研究18	Equipment Research 18	装备道具研究18	裝備道具研究18
+1042	戦闘アイテム研究24	Battle Item Research 24	战斗道具研究24	戰鬥道具研究24
+1043	戦闘アイテム研究25	Battle Item Research 25	战斗道具研究25	戰鬥道具研究25
+1044	装備アイテム研究19	Equipment Research 19	装备道具研究19	裝備道具研究19
+1045	戦闘アイテム研究26	Battle Item Research 26	战斗道具研究26	戰鬥道具研究26
+1046	装備アイテム研究20	Equipment Research 20	装备道具研究20	裝備道具研究20
+1047	戦闘アイテム研究27	Battle Item Research 27	战斗道具研究27	戰鬥道具研究27
+1048	装備アイテム研究21	Equipment Research 21	装备道具研究21	裝備道具研究21
+1049	戦闘アイテム研究28	Battle Item Research 28	战斗道具研究28	戰鬥道具研究28
+1050	戦闘アイテム研究29	Battle Item Research 29	战斗道具研究29	戰鬥道具研究29
+1051	装備アイテム研究22	Equipment Research 22	装备道具研究22	裝備道具研究22
+1052	戦闘アイテム研究30	Battle Item Research 30	战斗道具研究30	戰鬥道具研究30
+1053	装備アイテム研究23	Equipment Research 23	装备道具研究23	裝備道具研究23
+1054	戦闘アイテム研究31	Battle Item Research 31	战斗道具研究31	戰鬥道具研究31
+1055	装備アイテム研究24	Equipment Research 24	装备道具研究24	裝備道具研究24
+1056	戦闘アイテム研究32	Battle Item Research 32	战斗道具研究32	戰鬥道具研究32
+1057	戦闘アイテム研究33	Battle Item Research 33	战斗道具研究33	戰鬥道具研究33
+1058	装備アイテム研究25	Equipment Research 25	装备道具研究25	裝備道具研究25
+1059	戦闘アイテム研究34	Battle Item Research 34	战斗道具研究34	戰鬥道具研究34
+1060	装備アイテム研究26	Equipment Research 26	装备道具研究26	裝備道具研究26
+1061	戦闘アイテム研究35	Battle Item Research 35	战斗道具研究35	戰鬥道具研究35
+1062	装備アイテム研究27	Equipment Research 27	装备道具研究27	裝備道具研究27
+1063	戦闘アイテム研究36	Battle Item Research 36	战斗道具研究36	戰鬥道具研究36
+1064	戦闘アイテム研究37	Battle Item Research 37	战斗道具研究37	戰鬥道具研究37
+1065	装備アイテム研究28	Equipment Research 28	装备道具研究28	裝備道具研究28
+1066	戦闘アイテム研究38	Battle Item Research 38	战斗道具研究38	戰鬥道具研究38
+1067	装備アイテム研究29	Equipment Research 29	装备道具研究29	裝備道具研究29
+1068	戦闘アイテム研究39	Battle Item Research 39	战斗道具研究39	戰鬥道具研究39
+1069	装備アイテム研究30	Equipment Research 30	装备道具研究30	裝備道具研究30
+1070	戦闘アイテム研究40	Battle Item Research 40	战斗道具研究40	戰鬥道具研究40
+1071	戦闘アイテム研究41	Battle Item Research 41	战斗道具研究41	戰鬥道具研究41
+1072	装備アイテム研究31	Equipment Research 31	装备道具研究31	裝備道具研究31
+1073	戦闘アイテム研究42	Battle Item Research 42	战斗道具研究42	戰鬥道具研究42
+1074	装備アイテム研究32	Equipment Research 32	装备道具研究32	裝備道具研究32
+1075	戦闘アイテム研究43	Battle Item Research 43	战斗道具研究43	戰鬥道具研究43
+1076	装備アイテム研究33	Equipment Research 33	装备道具研究33	裝備道具研究33
+1077	戦闘アイテム研究44	Battle Item Research 44	战斗道具研究44	戰鬥道具研究44
+1078	戦闘アイテム研究45	Battle Item Research 45	战斗道具研究45	戰鬥道具研究45
+1079	装備アイテム研究34	Equipment Research 34	装备道具研究34	裝備道具研究34
+1080	戦闘アイテム研究46	Battle Item Research 46	战斗道具研究46	戰鬥道具研究46
+1081	装備アイテム研究35	Equipment Research 35	装备道具研究35	裝備道具研究35
+1082	戦闘アイテム研究47	Battle Item Research 47	战斗道具研究47	戰鬥道具研究47
+1083	装備アイテム研究36	Equipment Research 36	装备道具研究36	裝備道具研究36
+1084	戦闘アイテム研究48	Battle Item Research 48	战斗道具研究48	戰鬥道具研究48
+1085	戦闘アイテム研究49	Battle Item Research 49	战斗道具研究49	戰鬥道具研究49
+1086	装備アイテム研究37	Equipment Research 37	装备道具研究37	裝備道具研究37
+1087	戦闘アイテム研究50	Battle Item Research 50	战斗道具研究50	戰鬥道具研究50
+1088	装備アイテム研究38	Equipment Research 38	装备道具研究38	裝備道具研究38
+1089	戦闘アイテム研究51	Battle Item Research 51	战斗道具研究51	戰鬥道具研究51
+1090	装備アイテム研究39	Equipment Research 39	装备道具研究39	裝備道具研究39
+1091	戦闘アイテム研究52	Battle Item Research 52	战斗道具研究52	戰鬥道具研究52
+1092	戦闘アイテム研究53	Battle Item Research 53	战斗道具研究53	戰鬥道具研究53
+1093	装備アイテム研究40	Equipment Research 40	装备道具研究40	裝備道具研究40
+1094	戦闘アイテム研究54	Battle Item Research 54	战斗道具研究54	戰鬥道具研究54
+1095	装備アイテム研究41	Equipment Research 41	装备道具研究41	裝備道具研究41
+1096	戦闘アイテム研究55	Battle Item Research 55	战斗道具研究55	戰鬥道具研究55
+1097	装備アイテム研究42	Equipment Research 42	装备道具研究42	裝備道具研究42
+1098	戦闘アイテム研究56	Battle Item Research 56	战斗道具研究56	戰鬥道具研究56
+1099	戦闘アイテム研究57	Battle Item Research 57	战斗道具研究57	戰鬥道具研究57
+1100	装備アイテム研究43	Equipment Research 43	装备道具研究43	裝備道具研究43
+1101	戦闘アイテム研究58	Battle Item Research 58	战斗道具研究58	戰鬥道具研究58
+1102	装備アイテム研究44	Equipment Research 44	装备道具研究44	裝備道具研究44
+1103	戦闘アイテム研究59	Battle Item Research 59	战斗道具研究59	戰鬥道具研究59
+1104	装備アイテム研究45	Equipment Research 45	装备道具研究45	裝備道具研究45
+1105	戦闘アイテム研究60	Battle Item Research 60	战斗道具研究60	戰鬥道具研究60
+1106	戦闘アイテム研究61	Battle Item Research 61	战斗道具研究61	戰鬥道具研究61
+1107	装備アイテム研究46	Equipment Research 46	装备道具研究46	裝備道具研究46
+1108	戦闘アイテム研究62	Battle Item Research 62	战斗道具研究62	戰鬥道具研究62
+1109	装備アイテム研究47	Equipment Research 47	装备道具研究47	裝備道具研究47
+1110	戦闘アイテム研究63	Battle Item Research 63	战斗道具研究63	戰鬥道具研究63
+1111	装備アイテム研究48	Equipment Research 48	装备道具研究48	裝備道具研究48
+1112	戦闘アイテム研究64	Battle Item Research 64	战斗道具研究64	戰鬥道具研究64
+1113	戦闘アイテム研究65	Battle Item Research 65	战斗道具研究65	戰鬥道具研究65
+1114	装備アイテム研究49	Equipment Research 49	装备道具研究49	裝備道具研究49
+1115	戦闘アイテム研究66	Battle Item Research 66	战斗道具研究66	戰鬥道具研究66
+1116	装備アイテム研究50	Equipment Research 50	装备道具研究50	裝備道具研究50
+1117	戦闘アイテム研究67	Battle Item Research 67	战斗道具研究67	戰鬥道具研究67
+1118	装備アイテム研究51	Equipment Research 51	装备道具研究51	裝備道具研究51
+1119	戦闘アイテム研究68	Battle Item Research 68	战斗道具研究68	戰鬥道具研究68
+1120	戦闘アイテム研究69	Battle Item Research 69	战斗道具研究69	戰鬥道具研究69
+1121	装備アイテム研究52	Equipment Research 52	装备道具研究52	裝備道具研究52
+1122	戦闘アイテム研究70	Battle Item Research 70	战斗道具研究70	戰鬥道具研究70
+1123	装備アイテム研究53	Equipment Research 53	装备道具研究53	裝備道具研究53
+1124	戦闘アイテム研究71	Battle Item Research 71	战斗道具研究71	戰鬥道具研究71
+1125	装備アイテム研究54	Equipment Research 54	装备道具研究54	裝備道具研究54
+1126	戦闘アイテム研究72	Battle Item Research 72	战斗道具研究72	戰鬥道具研究72
+1127	戦闘アイテム研究73	Battle Item Research 73	战斗道具研究73	戰鬥道具研究73
+1128	装備アイテム研究55	Equipment Research 55	装备道具研究55	裝備道具研究55
+1129	戦闘アイテム研究74	Battle Item Research 74	战斗道具研究74	戰鬥道具研究74
+1130	装備アイテム研究56	Equipment Research 56	装备道具研究56	裝備道具研究56
+1131	戦闘アイテム研究75	Battle Item Research 75	战斗道具研究75	戰鬥道具研究75
+1132	装備アイテム研究57	Equipment Research 57	装备道具研究57	裝備道具研究57
+1133	戦闘アイテム研究76	Battle Item Research 76	战斗道具研究76	戰鬥道具研究76
+1134	戦闘アイテム研究77	Battle Item Research 77	战斗道具研究77	戰鬥道具研究77
+1135	装備アイテム研究58	Equipment Research 58	装备道具研究58	裝備道具研究58
+1136	戦闘アイテム研究78	Battle Item Research 78	战斗道具研究78	戰鬥道具研究78
+1137	装備アイテム研究59	Equipment Research 59	装备道具研究59	裝備道具研究59
+1138	戦闘アイテム研究79	Battle Item Research 79	战斗道具研究79	戰鬥道具研究79
+1139	装備アイテム研究60	Equipment Research 60	装备道具研究60	裝備道具研究60
+1140	戦闘アイテム研究80	Battle Item Research 80	战斗道具研究80	戰鬥道具研究80
+1141	戦闘アイテム研究81	Battle Item Research 81	战斗道具研究81	戰鬥道具研究81
+1142	装備アイテム研究61	Equipment Research 61	装备道具研究61	裝備道具研究61
+1143	戦闘アイテム研究82	Battle Item Research 82	战斗道具研究82	戰鬥道具研究82
+1144	装備アイテム研究62	Equipment Research 62	装备道具研究62	裝備道具研究62
+1145	戦闘アイテム研究83	Battle Item Research 83	战斗道具研究83	戰鬥道具研究83
+1146	装備アイテム研究63	Equipment Research 63	装备道具研究63	裝備道具研究63
+1147	戦闘アイテム研究84	Battle Item Research 84	战斗道具研究84	戰鬥道具研究84
+1148	戦闘アイテム研究85	Battle Item Research 85	战斗道具研究85	戰鬥道具研究85
+1149	装備アイテム研究64	Equipment Research 64	装备道具研究64	裝備道具研究64
+1150	戦闘アイテム研究86	Battle Item Research 86	战斗道具研究86	戰鬥道具研究86
+2001	育成研究1	Training Research 1	育成研究1	育成研究1
+2002	育成研究2	Training Research 2	育成研究2	育成研究2
+2003	育成研究3	Training Research 3	育成研究3	育成研究3
+2004	育成研究4	Training Research 4	育成研究4	育成研究4
+2005	育成研究5	Training Research 5	育成研究5	育成研究5
+2006	育成研究6	Training Research 6	育成研究6	育成研究6
+2007	育成研究7	Training Research 7	育成研究7	育成研究7
+2008	育成研究8	Training Research 8	育成研究8	育成研究8
+2009	育成研究9	Training Research 9	育成研究9	育成研究9
+2010	育成研究10	Training Research 10	育成研究10	育成研究10
+2011	育成研究11	Training Research 11	育成研究11	育成研究11
+2012	育成研究12	Training Research 12	育成研究12	育成研究12
+2013	育成研究13	Training Research 13	育成研究13	育成研究13
+2014	育成研究14	Training Research 14	育成研究14	育成研究14
+2015	育成研究15	Training Research 15	育成研究15	育成研究15
+2016	育成研究16	Training Research 16	育成研究16	育成研究16
+2017	育成研究17	Training Research 17	育成研究17	育成研究17
+2018	育成研究18	Training Research 18	育成研究18	育成研究18
+2019	育成研究19	Training Research 19	育成研究19	育成研究19
+2020	育成研究20	Training Research 20	育成研究20	育成研究20
+2021	育成研究21	Training Research 21	育成研究21	育成研究21
+2022	育成研究22	Training Research 22	育成研究22	育成研究22
+2023	育成研究23	Training Research 23	育成研究23	育成研究23
+2024	育成研究24	Training Research 24	育成研究24	育成研究24
+2025	育成研究25	Training Research 25	育成研究25	育成研究25
+2026	育成研究26	Training Research 26	育成研究26	育成研究26
+2027	育成研究27	Training Research 27	育成研究27	育成研究27
+2028	育成研究28	Training Research 28	育成研究28	育成研究28
+2029	育成研究29	Training Research 29	育成研究29	育成研究29
+2030	育成研究30	Training Research 30	育成研究30	育成研究30
+2031	育成研究31	Training Research 31	育成研究31	育成研究31
+2032	育成研究32	Training Research 32	育成研究32	育成研究32
+2033	育成研究33	Training Research 33	育成研究33	育成研究33
+2034	育成研究34	Training Research 34	育成研究34	育成研究34
+2035	育成研究35	Training Research 35	育成研究35	育成研究35
+2036	育成研究36	Training Research 36	育成研究36	育成研究36
+2037	育成研究37	Training Research 37	育成研究37	育成研究37
+2038	育成研究38	Training Research 38	育成研究38	育成研究38
+2039	育成研究39	Training Research 39	育成研究39	育成研究39
+2040	育成研究40	Training Research 40	育成研究40	育成研究40

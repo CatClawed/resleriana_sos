@@ -1,0 +1,464 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_01_001ID	0	???	？？？	くんくん……うーん、今日もいい匂いっ！\nねぇリディー、なんか美味しいもの食べていこうよ	???	*Sniff* *Sniff*... Mhm, everything here smells delicious today, too! Hey, Lydie! Let's get something to eat!	？？？	嗅嗅……唔……今天的味道也很好闻！\n莉迪，我们去吃点好吃的吧！	？？？	嗅嗅……嗯～今天也好香！\n我說莉迪，我們去吃點好吃的吧！
+LegendEvent_01_001ID	1	???	？？？	スーちゃん、ご飯の話はまた今度ね。\n今日はお仕事を探しに来たんだから	???	It's way too early to be thinking about food, Sue. We came here to look for work!	？？？	小苏，下次再吃吧。\n今天我们是来找工作的。	？？？	小蘇，吃飯的事下次再說吧。\n我們今天是來找工作的。
+LegendEvent_01_001ID	2	Ryza	ライザ	おー、来たねお二人さん、\n今日は新しい依頼が入ってるよ！	Ryza	Oh, it's good to see you two! We've got new requests in!	莱莎	哦，你们来啦。\n今天有新的委托！	萊莎	喔～妳們兩位來了啊。\n今天有收到新的委託喔！
+LegendEvent_01_001ID	3	Lydie	リディー	本当ですか！　どんなのか見せてください！	Lydie	Really?! Please, please, pleeease let us see them!	莉迪	是吗！是什么委托？请给我看看！	莉迪	真的嗎！請讓我們看看是什麼樣的內容！
+LegendEvent_01_001ID	4	Ryza	ライザ	あはは、そんながっつかなくても依頼は逃げないよ	Ryza	Haha! Don't worry, it's not like they're going to run away.	莱莎	哈哈，别着急，委托又不会长腿跑了。	萊莎	啊哈哈，妳就算不那麼猴急，委託也不會跑掉啦！
+LegendEvent_01_001ID	5	Suelle	スール	でもこないだは依頼が１つもなくて空振りだったし……	Suelle	But last time, there wasn't a single one available.	苏瑞	可最近什么委托也没有，总是白跑一趟……	蘇瑞	可是前陣子一件委託都沒有，老是撲空……
+LegendEvent_01_001ID	6	Ryza	ライザ	あははごめんね、まあそういうこともあるって。\n……これなんかどう？　錬金術で解決できそうだよ	Ryza	Yeah, sorry. These things happen sometimes. What about this one? It looks like a good pick for a pair of alchemists.	莱莎	哈哈，抱歉，偶尔是会这样的。\n……你看这个怎么样？应该能靠炼金术解决。	萊莎	啊哈哈抱歉，也是會有這種情況嘛。\n……這件委託如何？應該可以用鍊金術解決喔。
+LegendEvent_01_001ID	7	Lydie	リディー	「テーブルの修復・納品」、ですか……	Lydie	"""Table Restoration & Delivery""? Hm..."	莉迪	委托内容是“修复桌子并交货”……	莉迪	「桌子的修復與交付」是嗎……
+LegendEvent_01_001ID	8	Ryza	ライザ	なんかね、ずーっと家で使い続けてた\n愛着のあるテーブルらしいんだけどさ	Ryza	Apparently, the family who made the request has been using this one table for aaages, so they're completely attached to it.	莱莎	似乎是家中使用多年的桌子，\n物主都对它有感情了。	萊莎	據說是在家中使用了很久，\n已經很有感情的一張桌子呢。
+LegendEvent_01_001ID	9	Ryza	ライザ	もうだいぶ古いのと、家が火事になったこともあって、\n結構傷んでるみたいなんだ	Ryza	It was already pretty old, but then there was a fire, and now it's in really bad shape.	莱莎	桌子本身已经很有年头，\n而且家里发生过火灾，桌子损伤得不轻。	萊莎	但它十分老舊，屋內還發生過火災，\n所以好像損壞得挺嚴重的。
+LegendEvent_01_001ID	10	Ryza	ライザ	それを元の姿に修復したい、っていう依頼。\n新品を用意するんじゃなくて、あくまで修復だね	Ryza	So, they're looking to restore it to its former glory. They're adamant about that. They don't want a new one.	莱莎	所以想请人将它修复如初。\n需求并不是准备一张新桌子，只是修复。	萊莎	而這份委託，就是希望能把它修復回原樣，\n不是要我們準備一張新的，只是修復而已。
+LegendEvent_01_001ID	11	Ryza	ライザ	家族との思い出が詰まってるから、別のテーブルに\n替えるつもりもないみたい。どうする？	Ryza	Basically, they've made too many memories with it to let it go. So? Want to handle this one?	莱莎	这张桌子承载着物主与家人的回忆，\n所以物主并没有换桌子的打算。你们想接这个委托吗？	萊莎	因為它充滿了與家人的回憶，委託人似乎\n也不打算換別的桌子。妳們覺得呢？
+LegendEvent_01_001ID	12	Lydie	リディー	すごく、いいです！	Lydie	That sounds perfect!	莉迪	我很乐意！	莉迪	我覺得這委託很棒！
+LegendEvent_01_001ID	13	Suelle	スール	その依頼、絶対やってみたいです！	Suelle	You HAVE to let us take it!	苏瑞	我一定要接这个委托！	蘇瑞	我非常想試試這件委託！
+LegendEvent_01_001ID	14	Ryza	ライザ	お。いい解決策があるのかな？	Ryza	Ooh, do you have a plan already?	莱莎	哦，你们是已经想到要如何解决了吗？	萊莎	喔，那妳們有好方法能解決嗎？
+LegendEvent_01_001ID	15	Lydie	リディー	いえ、どうやって解決するかは\nまだぜんぜん分かんないですけど……	Lydie	Nope, nothing at all yet.	莉迪	不，我还完全没有头绪……	莉迪	不，該怎麼解決\n我們還完全沒有頭緒……
+LegendEvent_01_001ID	16	Suelle	スール	依頼内容が気に入ったので！	Suelle	We just like the story behind it!	苏瑞	但我很喜欢这个委托的内容！	蘇瑞	但委託內容我們很喜歡！
+LegendEvent_01_001ID	17	Ryza	ライザ	なんだ。でもそういうことなら、二人に任せるよ。\n元になるテーブルは、ちょっと待ってて	Ryza	What, that's it? I mean, that's fine—I'll leave this to you ladies. One moment, let me go get the actual table.	莱莎	我还以为有主意了呢。不过既然这样，就交给你们了。\n至于那张要修复的桌子……你们等等我。	萊莎	原來是這樣啊，但既然如此，就交給妳們兩位囉。\n我去拿要修復的桌子，妳們等一下。
+LegendEvent_01_001ID	18	Lydie	リディー	これが、そのテーブルなんですね……	Lydie	Gosh, so this is it.	莉迪	这就是那张桌子啊……	莉迪	這就是那張桌子啊……
+LegendEvent_01_001ID	19	Ryza	ライザ	うん。石でできてるからあまり傷んでるようには\n見えないけど、依頼人には分かるみたいだね	Ryza	Yep! It's made of stone, so it's honestly kind of hard to see the nicks and scratches, but the client can tell.	莱莎	嗯。这是一张石桌，所以看不太出来哪里有损伤，\n但委托人似乎是看得出来的。	萊莎	嗯，因為是用石材做的，看不太出來損傷，\n但委託人似乎分辨得出來呢。
+LegendEvent_01_001ID	20	Suelle	スール	よーし、じゃあさくっと修復しちゃおう、リディー！	Suelle	Okay! Let's get this fixed up immediately!	苏瑞	好，那我们就来好好修复它吧，莉迪！	蘇瑞	好──那麼莉迪，我們趕緊來修復它吧！
+LegendEvent_01_001ID	21	Lydie	リディー	うん、アトリエに戻るよ、スーちゃん！	Lydie	Yeah! Straight back to the atelier for us!	莉迪	嗯，回一趟炼金工房吧，小苏！	莉迪	嗯，小蘇，我們回鍊金工房吧！
+LegendEvent_01_001ID	22	Suelle Malen	スール・マーレン	双子の錬金術士の妹。通称「スー」。\n明るくおてんばな性格で、イタズラ好きな一面も	Suelle Malen	"The younger of the twin alchemist duo, who mostly goes by the nickname ""Sue."" Bubbly and a little brash, she likes to play pranks."	苏瑞・玛莲	双胞胎炼金术士中的妹妹，人称“小苏”。\n性格开朗活泼，也爱恶作剧。	蘇瑞‧瑪蓮	雙胞胎鍊金術士中的妹妹，通稱「蘇」。\n性格開朗且淘氣，也有喜歡惡作劇的一面。
+LegendEvent_01_001ID	23	Lydie Malen	リディー・マーレン	双子の錬金術士の姉。妹のスールとは対照的に\nおっとりとした性格で、少々天然なところがある	Lydie Malen	The older of the twin alchemist duo. While her calm and collected personality is the complete opposite of Suelle's, she has occasional bursts of spontaneity.	莉迪・玛莲	双胞胎炼金术士中的姐姐，与妹妹苏瑞的性格相反，\n是个慢性子，稍微有些少根筋。	莉迪‧瑪蓮	雙胞胎鍊金術士中的姊姊，與妹妹蘇瑞截然不同，\n性格文靜穩重，稍微有些少根筋。
+LegendEvent_01_002ID	0	Valeria	ヴァレリア	おかえりなさい、二人とも	Valeria	Welcome back, you two.	瓦莱莉娅	你们回来啦。	瓦萊莉婭	妳們兩位，歡迎回來。
+LegendEvent_01_002ID	1	Suelle	スール	あ、ヴァレリアさん	Suelle	Oh! Hi, Valeria!	苏瑞	啊，瓦莱莉娅小姐。	蘇瑞	啊，瓦萊莉婭小姐。
+LegendEvent_01_002ID	2	Lydie	リディー	ただいま戻りました！	Lydie	It's good to see you!	莉迪	我们回来了！	莉迪	我們回來了！
+LegendEvent_01_002ID	3	Valeria	ヴァレリア	カフェに行ってきたのよね？\n何か良さそうな依頼は見つけられた？	Valeria	You went to the cafe, right? Were there any decent requests?	瓦莱莉娅	你们去咖啡厅了吧？\n有接到不错的委托吗？	瓦萊莉婭	妳們去了咖啡廳對吧？\n有找到什麼好委託嗎？
+LegendEvent_01_002ID	4	Suelle	スール	美味しそうな匂いで溢れてました！	Suelle	It smelled sooo good there!	苏瑞	那边充满了食物的香味！	蘇瑞	那裡充滿了美味的香氣！
+LegendEvent_01_002ID	5	Valeria	ヴァレリア	そうよねそうよね！　湾岸地区の食事どころと大違い。\n……またお金貯めて食べに行こうかしら	Valeria	Doesn't it, though?! It's nothing like the food they serve along the coast. Maybe I should save up my money so I can eat my fill again sometime...	瓦莱莉娅	对吧对吧！这里跟海岸地区的饭店大不一样。\n等我们存够了钱再去吃吧。	瓦萊莉婭	對吧對吧！和海灣地區的餐飲店很不一樣。\n……我要不要存錢再去吃一次呢？
+LegendEvent_01_002ID	6	Lydie	リディー	あはは……依頼も無事に見つかりました。\nこの世界に来て初めての依頼だから、気合が入ります！	Lydie	Haha. We found a request we could do, too. It's going to be our very first one, so we're as excited as can be!	莉迪	哈哈……我们也顺利接到委托了。\n这是我们来到这个世界以来接到的第一份委托，我浑身都是干劲！	莉迪	哈哈……我們也順利找到委託了。因為是\n來到這個世界後的第一份委託，我們會鼓起幹勁的！
+LegendEvent_01_002ID	7	Lydie	リディー	（私の名前はリディー。こっちはスーちゃんこと、\n　双子の妹のスール）	Lydie	(My name is Lydie. This is Sue, my younger twin sister.)	莉迪	（我叫莉迪，她是小苏，\n　也就是我的双胞胎妹妹妹苏瑞。）	莉迪	（我的名字是莉迪。她叫小蘇，\n　是我的雙胞胎妹妹蘇瑞。）
+LegendEvent_01_002ID	8	Lydie	リディー	（ある日気が付いたら、スーちゃんと一緒に\n　この世界に来ていて……）	Lydie	(One day, completely out of the blue, we found ourselves in this world.)	莉迪	（某一天，我和小苏不知怎么\n　就一起来到了这个世界……）	莉迪	（有一天當我回過神來，就已經和小蘇一起\n　來到這個世界了……）
+LegendEvent_01_002ID	9	Lydie	リディー	（いつの間にか持っていた不思議な飴を舐めて、\n　このアトリエに飛んできたのが、数日前）	Lydie	(We ended up at this atelier after trying the candies that we found in our pockets. That was a few days ago.)	莉迪	（几天前，舔了舔不知何时带在身上的糖后，\n　就来到了这个炼金工房。）	莉迪	（幾天前，我舔了舔那顆不知何時帶在身上的\n　神奇糖果後，就瞬移到這間鍊金工房來了。）
+LegendEvent_01_002ID	10	Suelle	スール	（最初はわけ分かんなかったけど、ここで出会った\n　ヴァレリアさんに色々教えてもらった）	Suelle	(We didn't understand what was happening at first, but Valeria taught us so much.)	苏瑞	（我一开始对这里的一切都一无所知，\n　但在炼金工房遇到的瓦莱莉娅小姐教了我们许多。）	蘇瑞	（一開始雖然搞不清楚狀況，但在這裡遇見的\n　瓦萊莉婭小姐教了我們很多。）
+LegendEvent_01_002ID	11	Suelle	スール	（ここが、あたしたちがいた世界とは違う世界だって\n　こととか、調合のやり方もぜんぜん違うこととか）	Suelle	(Like how this is a completely different world than the one we know, or how synthesis works in ways that aren't what we're used to.)	苏瑞	（她告诉我们，这里跟我们原来所在的地方是不同的世界，\n　而且调合的方式也完全不同。）	蘇瑞	（像是這裡和我們之前所待的世界是不同世界，\n　還有調合的方式也完全不同之類的。）
+LegendEvent_01_002ID	12	Suelle	スール	（で、なんとか調合をこなせるようになって、\n　生活のためにも、いざ依頼！となったわけ）	Suelle	(We've kind of gotten a handle on it now, though, so we're going to try our hand at a request to earn our keep!)	苏瑞	（然后我们好不容易掌握了调合的方式，\n　为了生活也开始接委托了！）	蘇瑞	（於是，在我們總算有辦法完成調合後，\n　為了生活，我們決定要接受委託！）
+LegendEvent_01_002ID	13	Valeria	ヴァレリア	依頼の内容はテーブルの修復かあ。\n二人のいた世界ではよくある依頼なの？	Valeria	Patching up a table, huh? Is that the kind of work that you did back home?	瓦莱莉娅	委托内容是修理桌子啊。\n这种委托在你们的世界常见吗？	瓦萊莉婭	委託的內容是修復桌子啊～\n這在妳們的世界是常見的委託嗎？
+LegendEvent_01_002ID	14	Suelle	スール	あんまりない……気はするけど、\n似たようなのはときどきあった、かな？	Suelle	Not...exactly, but we've done stuff kind of like it? Sometimes?	苏瑞	应该……不怎么常见，\n不过偶尔会有类似的委托吧？	蘇瑞	感覺……挺少見的，\n但偶爾會有類似的委託吧？
+LegendEvent_01_002ID	15	Lydie	リディー	見たこともない依頼ばかりだったらどうしようって\n心配してましたけど、なんとかなりそうです	Lydie	I was worried because all of the requests were for things that I'd never seen before, but I felt like we could manage this one.	莉迪	我还担心万一全都是闻所未闻的委托该怎么办呢，\n不过这样的委托感觉还是有办法完成的。	莉迪	我原本還很擔心，如果全是些從沒見過的委託\n該怎麼辦，但看來應該有辦法做到。
+LegendEvent_01_002ID	16	Lydie	リディー	世界が違ってても同じ人間が生活してるわけだし、\n似るところはあるのかもしれません	Lydie	It's a different world, but the people here are pretty much the same. Like, they're living their lives in similar ways, you know?	莉迪	就算世界不同，\n既然是人类生活的地方，那应该就会有共同点。	莉迪	畢竟世界不同，卻也都是人類在生活，\n或許會有相似之處。
+LegendEvent_01_002ID	17	Valeria	ヴァレリア	なるほど……ね、それって錬金術で直すのよね。\n二人の錬金術、近くで見ててもいい？	Valeria	Makes sense. So, you're going to be fixing it with alchemy, right? Would you mind if I watched?	瓦莱莉娅	这样啊……你们要用炼金术来修复它吧，\n我可以靠近点看你们用炼金术吗？	瓦萊莉婭	原來如此……我說，妳們是要用鍊金術來修復它對吧？\n我可以在旁邊看妳們的鍊金術嗎？
+LegendEvent_01_002ID	18	Suelle	スール	はい、もちろん！\nくふふ、いいところ見せちゃおうっと！	Suelle	Nope, go ahead! Heh heh! We'll put on a good show!	苏瑞	嗯，当然可以！\n嘿嘿，让你看看我们有多厉害！	蘇瑞	嗯，當然可以！\n呵呵，就讓妳看看我們的本領吧！
+LegendEvent_01_003ID	0	Suelle	スール	よっし、それじゃ早速やりますか！\n……って、何からやればいいかなぁ	Suelle	Okay! Let's get right to this! Um, where should we even start?	苏瑞	好，那就赶快开始吧！\n……唔，要从哪里着手比较好呢？	蘇瑞	好，那我們馬上動手吧！\n……呃，該從什麼開始做起呢？
+LegendEvent_01_003ID	1	Lydie	リディー	うーん、ひとまず\nテーブルを直すための素材が必要だよね	Lydie	Hm... We'll need to gather the right materials, for one.	莉迪	嗯——要先收集修复桌子所需的素材吧。	莉迪	嗯～首先我們\n需要一些用來修理桌子的素材吧。
+LegendEvent_01_003ID	2	Suelle	スール	使われてる素材とー、その素材が採れる場所とー……\nうぎぎ、分かんないことだらけじゃん！	Suelle	What should we use? And where do we even find them? Ugh, this is getting more and more complicated!	苏瑞	要用到什么素材，在哪里能获取……\n呜，全都没有头绪嘛！	蘇瑞	桌子要用的素材，還有能採集到那些素材的地點……\n嗚咿咿，根本什麼都不曉得嘛！
+LegendEvent_01_003ID	3	Lydie	リディー	お、落ち着いて、スーちゃん！\n１つずつ調べていけばなんとかなるよ！	Lydie	Don't worry, Sue, we can take things nice and slow! One thing at a time!	莉迪	冷、冷静点，小苏！\n逐个调查的话肯定就会有办法的！	莉迪	小、小蘇，妳冷靜點！\n一個一個調查下去，總會有辦法的！
+LegendEvent_01_003ID	4	Suelle	スール	そ、そうだよね！　お母さんとの約束その５！\n「悩むよりも前に行動すべし！」	Suelle	"Y-You're right! That's the fifth thing we promised Mom! ""Get moving before you get stuck!"""	苏瑞	也、也对！与母亲的约定，第5条！\n“比起烦恼，更应行动！”	蘇瑞	妳、妳說得對！與媽媽的約定第5條！\n「與其煩惱不如行動！」
+LegendEvent_01_003ID	5	Valeria	ヴァレリア	ん？　それ、なに？　お母さんとの約束って	Valeria	Hm? Er, what was that about your mom?	瓦莱莉娅	嗯？与母亲的约定？那是什么？	瓦萊莉婭	嗯？那是什麼？與媽媽的約定是？
+LegendEvent_01_003ID	6	Lydie	リディー	ああ、これは小さい頃にお母さんと交わした\nものなんです	Lydie	Oh, it's something from when we were little.	莉迪	哦，那是我们小时候跟母亲做的约定。	莉迪	哦，那是我們小時候\n跟媽媽說好的事。
+LegendEvent_01_003ID	7	Lydie	リディー	今でも迷った時はお母さんの言葉に助けられる\nことが多いんですよ	Lydie	Even now, we find ourselves falling back on her words of wisdom quite often when we're having a hard time.	莉迪	我们现在迷惘时，\n也常会从母亲说的话中受益。	莉迪	即使到了現在，當我們感到迷惘時，\n媽媽的話也經常能幫上忙呢。
+LegendEvent_01_003ID	8	Valeria	ヴァレリア	へえ。なんかいいわね、そういうの	Valeria	You don't say? Huh, that sounds kind of nice.	瓦莱莉娅	哦——那这个约定很有用嘛。	瓦萊莉婭	喔～這種感覺好像很棒呢。
+LegendEvent_01_003ID	9	Valeria	ヴァレリア	その５って言っていたけど、\n他にもまだ約束があるの？	Valeria	So, if that's number five, then there are even more?	瓦莱莉娅	你刚才说了第5条，\n莫非还有其他的？	瓦萊莉婭	妳剛剛說第5條，\n所以還有其他約定嗎？
+LegendEvent_01_003ID	10	Suelle	スール	ありますよー。軽く１００は超えるかなー	Suelle	Of course! At least a hundred or so, I guess?	苏瑞	有啊，粗略一算有100多条吧。	蘇瑞	有喔～大概比100條多一點吧～
+LegendEvent_01_003ID	11	Valeria	ヴァレリア	そんなに！？　覚えるだけでも大変じゃない！	Valeria	That many?! How would you even remember them all?!	瓦莱莉娅	有这么多？！背下来一定很不容易吧！	瓦萊莉婭	那麼多！？光是要記住就很辛苦了吧！
+LegendEvent_01_003ID	12	Lydie	リディー	スーちゃん。いいところ見せるって言ったばかりで\nヴァレリアさんを騙すのはどうかと思うよ？	Lydie	Sue. Didn't you want Valeria to have fun watching us? If that's true, you shouldn't be teasing her like that.	莉迪	小苏，你刚说完要让人家看看我们有多棒，\n就开始捉弄瓦莱莉娅小姐，这可不好吧？	莉迪	小蘇，妳才剛說過要讓瓦萊莉婭小姐看看我們的本領，\n現在就這樣胡說八道，我覺得不太好喔？
+LegendEvent_01_003ID	13	Valeria	ヴァレリア	えっ、嘘だったの？	Valeria	Wait, you were just making that up?	瓦莱莉娅	咦，是骗我的吗？	瓦萊莉婭	咦，是胡說的嗎？
+LegendEvent_01_003ID	14	Suelle	スール	えへへ。ごめんなさーい。\nでもお母さんとたくさん約束したのは本当ですよ	Suelle	Ehehe. Sorry! But, it's true that we made a bunch of promises to our mom.	苏瑞	哈哈，对不起。\n但我们确实跟母亲做过很多约定哦。	蘇瑞	嘿嘿，對不起～\n不過我們和媽媽有很多約定是真的喔。
+LegendEvent_01_003ID	15	Suelle	スール	一番大きな約束は、\n「家族みんなで、国一番のアトリエになる」でした！	Suelle	"The most important one was, ""Make our atelier the best in the country, together as a family!"""	苏瑞	最重大的约定就是，\n“要跟家人一起建立全国最棒的炼金工房”！	蘇瑞	最重要的一個約定是，\n「家人要同心協力，打造國內最棒的鍊金工房」！
+LegendEvent_01_003ID	16	Valeria	ヴァレリア	へえ、おっきく出たわね！\n二人とも、それを目標にして頑張ってるのね	Valeria	Dang, now that's something to strive for! No wonder you're both working so hard.	瓦莱莉娅	哇，这可是个大目标呢！\n你们两个正在朝着这个方向努力吧。	瓦萊莉婭	喔～很了不起的約定呢！\n妳們倆，一直都以這個為目標努力著吧。
+LegendEvent_01_003ID	17	Suelle	スール	あ、いえ！　その約束はもう果たしました！	Suelle	Nope! We did that already!	苏瑞	啊，不是的！我们已经实现这个约定了！	蘇瑞	啊，不！這個約定已經實現了！
+LegendEvent_01_003ID	18	Lydie	リディー	国一番のアトリエになれたのは、\n周りの人たちがいっぱい助けてくれたおかげなんです	Lydie	We had a lot of help from the people around us, but now our atelier is number one.	莉迪	能建立全国最棒的炼金工房，\n也是因为得到了周围许多人的帮助。	莉迪	我們之所以能夠成為國內最棒的鍊金工房，\n都是多虧了身邊的人大力相助。
+LegendEvent_01_003ID	19	Suelle	スール	だから、今のあたしたちの目標は、\n「みんなのための錬金術士」になること！	Suelle	That's why our new goal is to become even better alchemists who help everyone!	苏瑞	所以我们现在的目标是要成为“为他人奉献的炼金术士”！	蘇瑞	所以我們現在的目標，\n是成為「幫助世人的鍊金術士」！
+LegendEvent_01_003ID	20	Lydie	リディー	助けてもらった分、他の誰かを助けて\n幸せにしようって決めてるんですよ！	Lydie	Exactly! We're going to make tons of people happy and return the favor a hundred of times over!	莉迪	我们决定回报大家的帮助，\n让他人得到幸福。	莉迪	因為受到了很多幫助，\n所以我們決定也要幫助別人獲得幸福！
+LegendEvent_01_003ID	21	Valeria	ヴァレリア	そっか……	Valeria	Hm...	瓦莱莉娅	这样啊……	瓦萊莉婭	這樣啊……
+LegendEvent_01_003ID	22	Valeria	ヴァレリア	人を幸せにするために錬金術を使う……。\n二人とも、レスナそっくりね	Valeria	Wanting to make people happy with alchemy? You guys sound just like Resna.	瓦莱莉娅	为了让人们获得幸福而使用炼金术……\n你们两个很像蕾斯娜呢。	瓦萊莉婭	為了帶給人們幸福而使用鍊金術……\n妳們倆和蕾斯娜很像呢。
+LegendEvent_01_003ID	23	Valeria	ヴァレリア	……よし、決めた！　見てるだけじゃなくて\n二人の採取、私も手伝うわ！	Valeria	Right! That's that, then. I'm not just going to watch—I'm going to lend a hand, too.	瓦莱莉娅	……好，我决定了！我不光要看你们修复，\n也会帮你们采集素材！	瓦萊莉婭	……很好，決定了！我不要只是在旁邊看，\n妳們的採集工作，我也來幫忙吧！
+LegendEvent_01_003ID	24	Lydie	リディー	えっ！　いいんですか？	Lydie	Oh! You wouldn't mind?	莉迪	咦？！可以麻烦你吗？	莉迪	咦！可以嗎？
+LegendEvent_01_003ID	25	Valeria	ヴァレリア	ええ。そろそろ身体を動かしたいなーって\n思ってたとこだしね	Valeria	Of course not. Besides, I was thinking that I could use some exercise.	瓦莱莉娅	当然了，\n我也正想着是时候活动活动筋骨了。	瓦萊莉婭	嗯，我正好也覺得\n自己差不多該活動一下身體了。
+LegendEvent_01_003ID	26	Suelle	スール	やったー！　ヴァレリアさんって、すっごく\n強いんですよね？　頼もしいです！	Suelle	Yaaay! Aren't you like, really strong, Valeria? That would be such a big help!	苏瑞	太好了！\n瓦莱莉娅小姐很厉害吧？真可靠啊！	蘇瑞	太棒了～！瓦萊莉婭小姐妳非常厲害對吧？\n太可靠了！
+LegendEvent_01_003ID	27	Valeria	ヴァレリア	うん。任せてちょうだい。\nそれに、石が採れる場所ならいくつか知ってるから	Valeria	Sure, just leave it to me. Plus, I know a place where you can gather rocks and stuff.	瓦莱莉娅	嗯，放心交给我吧。\n而且我也知道好几个能采集到石头的地方。	瓦萊莉婭	嗯，包在我身上。\n而且，我知道幾個可以採集石材的地方。
+LegendEvent_01_003ID	28	Suelle	スール	おおおっ！？　ホントですか！？	Suelle	Whoooa! You really mean it?!	苏瑞	哦？！真的吗？！	蘇瑞	喔喔喔！？真的嗎！？
+LegendEvent_01_003ID	29	Valeria	ヴァレリア	テーブルと同じ素材があるって保証はないけどね。\nでも、何かの役に立つかもしれないでしょ？	Valeria	I can't guarantee that you'll find the exact same materials that the table is made from, but something there should be useful.	瓦莱莉娅	我不能保证那张桌子用的素材就是那些石头。\n但说不定能派上用场吧？	瓦萊莉婭	不能保證有和那張桌子一樣的素材就是了。\n不過，或許能派上什麼用場對吧？
+LegendEvent_01_003ID	30	Suelle	スール	ありがとうございます！　それじゃあ早速\n素材集めにしゅっぱーつ！	Suelle	Thank you so much! Come on! Let's! Go! Gather! Materials!	苏瑞	谢谢你！\n那我们就赶快去收集素材吧！	蘇瑞	謝謝妳！\n那我們趕緊出發去蒐集素材吧！
+LegendEvent_01_004ID	0	Lydie	リディー	わぁ！　素敵な所だね、スーちゃん！	Lydie	Oh, wow! Sue, this place is so pretty!	莉迪	哇！小苏，这地方好棒啊！	莉迪	哇啊！小蘇，這個地方好棒喔！
+LegendEvent_01_004ID	1	Suelle	スール	うん！　珍しいものがいっぱい見つかりそう！	Suelle	Yeah! I bet we'll find tons of rare stuff here!	苏瑞	嗯！感觉能找到很多稀奇的东西！	蘇瑞	嗯！感覺能找到許多稀奇的東西！
+LegendEvent_01_004ID	2	Lydie	リディー	あっ！　この草！	Lydie	Oh! Look at this plant!	莉迪	啊！这株草是……！	莉迪	啊！這種草！
+LegendEvent_01_004ID	3	Lydie	リディー	わぁぁ！　これ面白い使い方ができそう！	Lydie	Ooooh! And this looks like it would lend itself to some unique uses!	莉迪	哇！它应该能用来做有趣的东西！	莉迪	哇啊啊！這個好像可以用來做有趣的事！
+LegendEvent_01_004ID	4	Valeria	ヴァレリア	どれどれ？　それも錬金術に使えるの？	Valeria	Hm? That one? You can do alchemy with that?	瓦莱莉娅	让我看看是什么？这个也能用在炼金术上？	瓦萊莉婭	哪個哪個？那個也能用在鍊金術上嗎？
+LegendEvent_01_004ID	5	Suelle	スール	もー、リディーってば。\nこうなると止まらないんだから	Suelle	Lydieee, come on! We don't have all day!	苏瑞	唉，莉迪真是的，\n进入这个状态可就停不下来了。	蘇瑞	哎喲，莉迪真是的。\n陷入這種狀態就停不下來了。
+LegendEvent_01_004ID	6	Lydie	リディー	へぇ……ここの土質、もっと調べてみたいなぁ	Lydie	But I'd really like to study this soil some more...	莉迪	哦……我想再多调查一下这里的土质。	莉迪	喔……好想再多調查一下這裡的土質喔。
+LegendEvent_01_004ID	7	Valeria	ヴァレリア	ふふ。錬金術のことになると、すごい好奇心。\nこんなところもレスナそっくりね	Valeria	Hehe. You sure get curious when it's got something to do with alchemy. Resna's just like that, too.	瓦莱莉娅	呵呵，一碰到炼金术的事你就兴趣十足呢。\n这点也很像蕾斯娜。	瓦萊莉婭	呵呵，一碰上鍊金術，好奇心就很旺盛。\n這點也和蕾斯娜一模一樣呢。
+LegendEvent_01_004ID	8	Lydie	リディー	あ、すみません！\n私、つい夢中になっちゃって	Lydie	Oh! Sorry, I got a little carried away.	莉迪	啊，抱歉！\n我一不小心就沉浸在自己的世界里了。	莉迪	啊，不好意思！\n我不知不覺就太入迷了。
+LegendEvent_01_004ID	9	Valeria	ヴァレリア	いいのよ。私がちゃんと見張ってるから、\nじゃんじゃん探しちゃって	Valeria	It's fine. I'll stand watch, so you gather as much as you want.	瓦莱莉娅	没关系，我会帮你们留意周围的情况，\n你们就专心去找吧。	瓦萊莉婭	沒關係的，有我在好好看著，\n妳們就儘管找吧。
+LegendEvent_01_004ID	10	Lydie	リディー	ありがとうございます！	Lydie	Thank you very much!	莉迪	谢谢你！	莉迪	謝謝妳！
+LegendEvent_01_004ID	11	Suelle	スール	いーっぱい集めちゃいますね！	Suelle	We're going to get sooo much stuff!	苏瑞	我们去收集一大堆东西吧！	蘇瑞	我要蒐集很多很多的素材！
+LegendEvent_01_004ID	12	Suelle	スール	あ。これ使えそう……ひっ！？	Suelle	Oh! This looks like a good candida—aaaaaah!	苏瑞	啊，这个应该用得上……噫？！	蘇瑞	啊，這個好像可以用……咿！？
+LegendEvent_01_004ID	13	Lydie	リディー	スーちゃん？	Lydie	Sue?	莉迪	小苏？	莉迪	小蘇？
+LegendEvent_01_004ID	14	Valeria	ヴァレリア	どうしたの！？	Valeria	What's wrong?!	瓦莱莉娅	怎么了？！	瓦萊莉婭	怎麼了！？
+LegendEvent_01_004ID	15	Suelle	スール	い、いやぁぁぁ！　虫、虫がいるぅぅぅ！	Suelle	Nooo! A b-buuuuuug!	苏瑞	讨、讨厌！有、有虫子！！	蘇瑞	討、討厭──！有、有蟲──！
+LegendEvent_01_004ID	16	Valeria	ヴァレリア	虫？　ああ、これなら毒とかないから……	Valeria	Huh? Oh. If you're worried that it's poisonous, it's not.	瓦莱莉娅	虫子？啊，这种虫子应该没毒……	瓦萊莉婭	蟲？喔，這種蟲沒有毒性的……
+LegendEvent_01_004ID	17	Lydie	リディー	ヴァレリアさん。スーちゃんは……	Lydie	Um, not exactly. Sue...	莉迪	瓦莱莉娅小姐，小苏她……	莉迪	瓦萊莉婭小姐，小蘇她……
+LegendEvent_01_004ID	18	Suelle	スール	ど、どっかやって！　嫌ぁぁぁぁ！！	Suelle	G-Get it away from meee!	苏瑞	快、快走开啊！别过来——！！	蘇瑞	拜、拜託幫幫忙吧！討厭啦──！！
+LegendEvent_01_004ID	19	Valeria	ヴァレリア	虫、そんなに苦手なのね	Valeria	...is just afraid of insects.	瓦莱莉娅	她很讨厌虫子啊。	瓦萊莉婭	妳這麼怕蟲子啊。
+LegendEvent_01_004ID	20	Valeria	ヴァレリア	ふふ。そんなとこもレスナにそっくり	Valeria	Hehe. Same as Resna!	瓦莱莉娅	呵呵，这点也很像蕾斯娜。	瓦萊莉婭	呵呵，這點也和蕾斯娜很像。
+LegendEvent_01_004ID	21	Suelle	スール	ひゃぁぁぁぁぁっ！！	Suelle	Yeeeeeek!	苏瑞	噫——！！	蘇瑞	咿啊啊啊啊啊！！
+LegendEvent_01_004ID	22	Valeria	ヴァレリア	どう？　必要そうなのは揃った？	Valeria	How's it going? Did you find everything you need?	瓦莱莉娅	怎么样？要找的东西都找齐了吗？	瓦萊莉婭	如何？感覺會用到的素材都集齊了嗎？
+LegendEvent_01_004ID	23	Suelle	スール	はい、十分集まりました！\nあとは頑張って直すだけです！	Suelle	Yep, we've got plenty to work with! Now we just have to put it all to good use!	苏瑞	嗯，收集得满当当了！\n接下来只要努力修复桌子就好！	蘇瑞	是，十分齊全！\n接下來只需要努力修好桌子了！
+LegendEvent_01_004ID	24	Valeria	ヴァレリア	いよいよ調合ね！\nじゃあ帰りましょ、早く早く！	Valeria	So, it's time to synthesize! Great! Let's hurry on back.	瓦莱莉娅	终于要调合了！\n那就快点回去吧！	瓦萊莉婭	終於要調合了！\n那我們回去吧，快點快點！
+LegendEvent_01_005ID	0	Suelle	スール	よーし！　やるぞー！	Suelle	Yeah! Let's do it!	苏瑞	好！要开始了！	蘇瑞	好──！要開始囉──！
+LegendEvent_01_005ID	1	Lydie	リディー	えーと……これと、これと……次に……	Lydie	Um, let's see... If we use this, and this... Then we...	莉迪	唔……要用这个，还有这个……然后……	莉迪	我想想……用這個和這個……然後……
+LegendEvent_01_005ID	2	Suelle	スール	ちょっと待って。こうしてみるとどうだろう？	Suelle	Wait, hold on. What if we did it this way?	苏瑞	等一下，试试这种搭配怎么样？	蘇瑞	等一下，像這樣試試看如何呢？
+LegendEvent_01_005ID	3	Lydie	リディー	あ、そっか。でも今度は……	Lydie	Oh, I see. But then again...	莉迪	啊，还能这样。可这次……	莉迪	啊，對耶。不過這次就……
+LegendEvent_01_005ID	4	Valeria	ヴァレリア	何か困ってるの？　素材が足りなかった？	Valeria	Is something wrong? Are you a few materials short?	瓦莱莉娅	遇到什么困难了吗？素材不够？	瓦萊莉婭	有什麼問題嗎？素材不夠？
+LegendEvent_01_005ID	5	Lydie	リディー	足りないというより、改めて元のテーブルを確認したら\n思っていたより相当古そうなんです	Lydie	No, but when we took another look at it, the table turned out to be much older than we'd initially thought.	莉迪	倒不是不够，不过我重新检查了一下那张桌子，\n发现它比我想的还要古旧。	莉迪	與其說是不夠，不如說重新確認了一下那張桌子，\n我們發現它好像比想像的還老舊許多。
+LegendEvent_01_005ID	6	Suelle	スール	石でできてて分かりにくいけど、このくすみ具合だと\nもしかしたら１００年とかそれくらい昔のものかも	Suelle	It's kind of hard to tell since it's made of stone, but going by how dull it's gotten, it might actually be a hundred years old.	苏瑞	因为材质是石头所以不太明显，但看颜色沉淀状况，\n搞不好是100年前的老物件了。	蘇瑞	因為是石材製成的很難分辨，但從這斑駁脫色的\n狀況來看，它可能是約100年前的東西。
+LegendEvent_01_005ID	7	Lydie	リディー	一度火事にあってるって話だから余計に汚れちゃって\n分かりにくくなってたかもね	Lydie	Then again, it did survive a fire, so that extra layer of dirt probably isn't helping either.	莉迪	桌子还遇上过一次火灾，更添了些污痕，\n所以不太容易推断。	莉迪	或許是因為曾經遭逢火災，汙損得更嚴重，\n才變得難以辨別的吧。
+LegendEvent_01_005ID	8	Valeria	ヴァレリア	へえ、結構新しそうなのにね。このいくつか\n埋め込まれてる青い石なんて、すっごく綺麗だもの	Valeria	Huh, I thought it looked fairly new. These blue stones embedded in it are really pretty.	瓦莱莉娅	是吗？明明看起来挺新的呢。\n镶嵌在上面的几颗蓝色石头也很好看啊。	瓦萊莉婭	哦～明明看起來還挺新的呢，畢竟上面\n鑲嵌的這幾個藍色石頭非常漂亮啊。
+LegendEvent_01_005ID	9	Lydie	リディー	はい……だから用意した素材が上手く使えるかどうか\nちょっと怪しいかもしれません	Lydie	Oh, they're gorgeous. Which is also why I'm worried that we might not be able to use the materials we gathered the way we should.	莉迪	是的……所以我有些怀疑\n准备好的素材到底能不能用。	莉迪	是的……所以準備的那些素材是否真的能用，\n我們有些疑慮。
+LegendEvent_01_005ID	10	Lydie	リディー	それに、この世界での調合の仕方は、\n元の世界とはだいぶ勝手が違うんですよね……	Lydie	There's also the fact that synthesis in this world is so different from what we're used to in ours...	莉迪	而且这个世界的调合方法\n跟我们世界的大不一样……	莉迪	況且，這個世界的調合方式\n和我們原本世界的做法又差很多……
+LegendEvent_01_005ID	11	Suelle	スール	そうなの！　素材の声も聞こえないしね	Suelle	Yeah! We can't hear the materials' voices at all!	苏瑞	是呀！也听不到素材的声音。	蘇瑞	對啊！也聽不見素材的聲音。
+LegendEvent_01_005ID	12	Valeria	ヴァレリア	「素材の声」って？	Valeria	What would they say?	瓦莱莉娅	“素材的声音”？	瓦萊莉婭	「素材的聲音」？
+LegendEvent_01_005ID	13	Lydie	リディー	素材から聞こえる、「何になりたい」っていう声\nなんです……元の世界では、ですけど	Lydie	We could ask them what they'd like to be turned into. Well, back home, at least.	莉迪	就是素材自己会说“自己想变成什么”……\n我们原本的世界是这样的。	莉迪	我們可以聽見素材說自己想變成什麼的聲音……\n但那是在原本的世界才聽得見就是了。
+LegendEvent_01_005ID	14	Valeria	ヴァレリア	へぇ。すごいわね！	Valeria	Huh, that's amazing!	瓦莱莉娅	这样啊，听起来真厉害！	瓦萊莉婭	什麼，好厲害喔！
+LegendEvent_01_005ID	15	Lydie	リディー	あーあ。調合にも役立ってたのになぁ……。\nなーんて、ぼやいてても仕方ないか	Lydie	*Sigh* Yeah, that made synthesis so much easier... Oh well. Grumbling about it isn't going to change anything.	莉迪	唉，要是能听见声音，对调合也有帮助……\n不过抱怨这种事也没用吧。	莉迪	唉～那對調合也很有幫助的說……\n不過～就算在這裡抱怨也沒用吧。
+LegendEvent_01_005ID	16	Suelle	スール	おうよ！　お母さんとの約束その２！\n「約束は絶対に守ること！」	Suelle	"That's right! Plus, there's the second promise we made our mom! ""Always keep your promises!"""	苏瑞	是呀！与母亲的约定，第2条！\n“一定要遵守约定！”	蘇瑞	沒錯！與媽媽的約定第2條！\n「絕對要遵守約定！」
+LegendEvent_01_005ID	17	Lydie	リディー	この世界に来て最初の依頼だもんね。\n……よし、頑張って絶対、成功させよう！	Lydie	This is the first request we've taken on in this world, too. We've got to work hard and make it a complete success!	莉迪	这是我们来到这个世界后接到的第一个委托……\n好，绝对要努力完成！	莉迪	因為這是我們來到這個世界後的第一份委託嘛。\n……好，加油，我們一定要成功！
+LegendEvent_01_005ID	18	Suelle	スール	おーっ！	Suelle	Yeah!	苏瑞	好——！	蘇瑞	好～！
+LegendEvent_01_005ID	19	Valeria	ヴァレリア	ええ、その意気よ！\n二人ならきっと上手くいくわ！	Valeria	That's the spirit! I'm sure you'll both do a great job!	瓦莱莉娅	没错，就是要有这个志气！\n你们一定能成功的！	瓦萊莉婭	嗯，就是這股氣勢！\n妳們兩人肯定能順利完成的！
+LegendEvent_01_005ID	20	Suelle	スール	あれ？　ここは……こうして！	Suelle	Huh? This should be...like this!	苏瑞	咦？这里要……这样！	蘇瑞	咦？這邊是……這樣做！
+LegendEvent_01_005ID	21	Lydie	リディー	えっと、この素材をもう少し足して……	Lydie	Um, we don't have enough of that material left.	莉迪	唔，再加一点这个素材……	莉迪	然後，再多加一點這個素材……
+LegendEvent_01_005ID	22	Suelle	スール	あれ？　リディー、最初からもう１回！	Suelle	Shoot. Okay, Lydie! Once again, from the top!	苏瑞	咦？莉迪，从头再来一次！	蘇瑞	奇怪？莉迪，我們再從頭做一遍！
+LegendEvent_01_005ID	23	Lydie	リディー	うーん。コツは掴めてきたんだけど……\nもう１回だけやってみようか、スーちゃん	Lydie	Hmm... I think I've gotten the hang of it now, but...should we try one more time, Sue?	莉迪	唔……我找到诀窍了……\n最后再来一次吧，小苏。	莉迪	嗯～雖然漸漸抓到訣竅了……\n不過我們就再試一次吧，小蘇。
+LegendEvent_01_005ID	24	Lydie	リディー	よし、今度こそ……	Lydie	Yep. This time, for sure!	莉迪	好，这次一定要成功……	莉迪	好，這次一定要成功……
+LegendEvent_01_005ID	25		リディー＆スール	できたぁ！	Lydie & Suelle	We did it!	莉迪&苏瑞	成功了！	莉迪＆蘇瑞	完成了～！
+LegendEvent_01_005ID	26	Valeria	ヴァレリア	いい出来じゃない！　やったわね！\nまるで新品みたいよ	Valeria	That turned out great! Seriously, it looks brand new!	瓦莱莉娅	做得不错嘛！太好了！\n看起来就跟全新的一样！	瓦萊莉婭	做得很好耶！太棒了！\n簡直就像全新的一樣呢。
+LegendEvent_01_005ID	27	Suelle	スール	苦労しましたからねー！　\nでも、この通りピッカピカです！	Suelle	That's because we put in the work! But yeah! It's so sparkly now!	苏瑞	毕竟费了好大一番工夫呢！\n不过好在做出了崭新锃亮的桌子！	蘇瑞	因為費了一番工夫啊～！\n不過，成品就像這樣亮晶晶的！
+LegendEvent_01_005ID	28	Lydie	リディー	これならきっと、依頼人も喜んでくれると思います！	Lydie	I'm sure the client is going to love it, too!	莉迪	看到这个，委托人一定也会开心的！	莉迪	這麼一來，委託人一定也會很開心的！
+LegendEvent_01_005ID	29	Valeria	ヴァレリア	納品に行くのね？	Valeria	Are you going to go deliver it right now?	瓦莱莉娅	你们要去交货了吧？	瓦萊莉婭	妳們要去交貨了吧？
+LegendEvent_01_005ID	30	Suelle	スール	えへへ！　善は急げです！	Suelle	Ehehe. We don't want to waste another second!	苏瑞	呵呵，事不宜迟！	蘇瑞	嘿嘿！事不宜遲啊！
+LegendEvent_01_005ID	31	Valeria	ヴァレリア	じゃあ私も一緒に行くわ	Valeria	I'll go with you then.	瓦莱莉娅	那我也跟你们一起去吧。	瓦萊莉婭	那我也一起去吧。
+LegendEvent_01_005ID	32	Lydie	リディー	ありがとうございます、ヴァレリアさん！	Lydie	Thank you so much, Valeria!	莉迪	谢谢你， 瓦莱莉娅小姐！	莉迪	瓦萊莉婭小姐，謝謝妳！
+LegendEvent_01_006ID	0	Suelle	スール	ライザさーん！　こんにちはー！	Suelle	Hellooo, Ryza!	苏瑞	莱莎小姐，早上好！	蘇瑞	萊莎小姐～！妳好～！
+LegendEvent_01_006ID	1	Lydie	リディー	依頼品のテーブル、修復してきました！	Lydie	We finished repairing that table!	莉迪	我们修复好了那张桌子！	莉迪	我們把委託的桌子修復好了！
+LegendEvent_01_006ID	2	Ryza	ライザ	えっ！？　もう修復しちゃったの！？\n早いね！	Ryza	Wait, really?! Already?! That was so fast!	莱莎	咦？！这就修复好了？！\n好快啊！	萊莎	咦！？已經修復好了嗎！？\n好快喔！
+LegendEvent_01_006ID	3	Suelle	スール	えへへ、ちょっと張り切っちゃいました！	Suelle	Ehehe! We were kind of fired up about it!	苏瑞	嘿嘿，我们稍微挑战了一下！	蘇瑞	嘿嘿，我們稍微卯足了勁！
+LegendEvent_01_006ID	4	Ryza	ライザ	ふうーん、随分しっかり修復したねえ。\nうん、これなら問題ないと思うよ！	Ryza	Hmm... This is a solid reconstruction job. Yep, no problems here!	莱莎	我看看……修复得很用心呢。\n嗯，应该没问题。	萊莎	哦～修復得相當到位呢。\n嗯，我想這樣應該就沒問題了！
+LegendEvent_01_006ID	5	Lydie	リディー	やったね、スーちゃん！	Lydie	We did it, Sue!	莉迪	太好了，小苏！	莉迪	太好了呢，小蘇！
+LegendEvent_01_006ID	6	Suelle	スール	くふふふ、あたしたちの手にかかれば\nざっとこんなもんよ！	Suelle	Heh heh! When you leave something in our hands, we always deliver!	苏瑞	呵呵，凭我们的本事，\n还不是小事一桩！	蘇瑞	呵呵呵，由我們經手，\n就是小事一樁啦！
+LegendEvent_01_006ID	7	Lydie	リディー	依頼人の方もこれで喜んでくれると\n私たちも嬉しいです	Lydie	And knowing that the client will be thrilled makes us happy, too.	莉迪	希望委托人看到这张桌子也会满意。	莉迪	如果委託人看了開心，\n我們也會很高興的。
+LegendEvent_01_006ID	8	Ryza	ライザ	ちょうどさっき依頼人がここに顔を出してね。\n今もいるから直接話をしてみればいいと思うよ	Ryza	Actually, you'll be able to see his reaction in person! Hang on, let me go get him.	莱莎	委托人刚好过来了，现在还没离开，\n你们可以直接向他报告哦。	萊莎	正好剛才委託人來了，現在也還在這裡，\n妳們可以當面跟他聊聊喔。
+LegendEvent_01_006ID	9	Ryza	ライザ	おじさん、依頼の品、できてるよ。\n例のテーブル！	Ryza	Sir, the repairs that you asked for are done! You know, for your table!	莱莎	叔叔，你委托的东西已经修好啦，\n就是那张桌子！	萊莎	叔叔，你委託的物品完成囉，\n就是那張桌子！
+LegendEvent_01_006ID	10		依頼人	おお、本当かね！\nものがものだからもっと時間がかかると思っていたよ	Client	Well, isn't that something! I was thinking it would take longer, given the circumstances.	委托人	哦，真的吗！\n毕竟是张有年头的桌子，我还以为会更耗时呢。	委託人	喔喔，真的嗎！\n因為是這種委託，我還以為會花上更多時間呢。
+LegendEvent_01_006ID	11	Ryza	ライザ	この二人がやってくれたんだよ	Ryza	These two ladies were the ones responsible.	莱莎	修复是她们两个负责的。	萊莎	是這兩位完成委託的喔。
+LegendEvent_01_006ID	12		依頼人	ほほう、君たちが……見ればまだかなり若そうなのに\nすごいね。ありがとう！	Client	Oh? Goodness, now that I've gotten a proper look, you're still rather young. Thank you for your hard work!	委托人	哦，是你们做的啊……\n年纪轻轻就能干这活，了不得啊，谢谢你们！	委託人	喔喔～是妳們啊……明明看上去年紀還很輕的樣子，\n卻這麼厲害啊，謝謝妳們！
+LegendEvent_01_006ID	13	Lydie	リディー	いえいえ、どういたしまして	Lydie	No, it was nothing.	莉迪	这没什么，不客气！	莉迪	不會不會，不用客氣。
+LegendEvent_01_006ID	14	Ryza	ライザ	早速だけど、これがそのテーブルだよ	Ryza	Without any further ado, here's the finished product!	莱莎	赶快来看看吧，这就是那张桌子。	萊莎	馬上來看看吧，這就是那張桌子喔。
+LegendEvent_01_006ID	15		依頼人	どれ……。\nおお、随分美しく生まれ変わったじゃないか！	Client	Let's see... Oh my! It's practically brand new!	委托人	我看看……\n哦，它变得很漂亮啊！	委託人	我看看……\n喔喔，真是煥然一新，變得好漂亮啊！
+LegendEvent_01_006ID	16		依頼人	そうだ……ちょっと明かりを貸してもらえないかね	Client	Oh, that reminds me. Could I borrow a lamp?	委托人	对了……能借你们的照明工具一用吗？	委託人	對了……能借我一盞燈嗎？
+LegendEvent_01_006ID	17	Ryza	ライザ	明かり？　えーっと、なんでもいいのかな？\nカフェで使ってるのでもいい？	Ryza	Um, will any kind do? Like the ones we use in the cafe?	莱莎	照明工具？什么都可以吗？\n咖啡厅的灯就行吗？	萊莎	燈？嗯……是怎樣的燈都行嗎？\n咖啡廳裡用的可以嗎？
+LegendEvent_01_006ID	18	Ryza	ライザ	はい、どうぞ。でもそれで何するの？	Ryza	Here you go, one lamp. What do you need it for?	莱莎	给，请用吧。不过你要用这个做什么？	萊莎	來，給你。但你要用來做什麼呢？
+LegendEvent_01_006ID	19	Lydie	リディー	明かりを、テーブルの上に……？	Lydie	He's putting it on top of the table?	莉迪	把灯放在了桌子上……？	莉迪	把燈放在桌子上……？
+LegendEvent_01_006ID	20	Suelle	スール	…………？	Suelle	...?	苏瑞	……？	蘇瑞	…………？
+LegendEvent_01_006ID	21		依頼人	……ふむ。まあ、そうだよな。\nああ、ありがとう。明かりはお返しするよ	Client	Hmm. Well, I suppose that's to be expected. Thank you, here's your lamp back.	委托人	……嗯。好吧，也对。\n谢谢，灯还给你们。	委託人	……唔，唉，也是啦。\n嗯，謝謝，燈還給妳。
+LegendEvent_01_006ID	22	Ryza	ライザ	いったい、何が……？	Ryza	Um, what was that all about?	莱莎	到底是怎么了……？	萊莎	究竟是怎麼了……？
+LegendEvent_01_006ID	23		依頼人	ではこのテーブルは受け取っていくよ。\n改めて礼を言わせてくれ。ありがとう	Client	Anyway, I'll be taking the table back. Thank you again for all your hard work.	委托人	桌子我就带走了。\n谢谢你们。	委託人	那麼我就收下這張桌子了。\n容我再次道謝，謝謝妳們。
+LegendEvent_01_006ID	24	Lydie	リディー	…………	Lydie	...	莉迪	……	莉迪	…………
+LegendEvent_01_006ID	25	Ryza	ライザ	なんだったのかな、今のは	Ryza	No, seriously. What WAS that all about?	莱莎	他刚才做那些有什么用意吗？	萊莎	剛剛他那是怎麼回事？
+LegendEvent_01_006ID	26	Valeria	ヴァレリア	なんか、ガッカリしているように見えたわね。\n思ってたのと違ったのかしら	Valeria	He seemed a little disappointed by something. Like, it wasn't exactly what he was expecting.	瓦莱莉娅	总感觉他看起来有些失落，\n是因为那张桌子不合心意吗？	瓦萊莉婭	總覺得他看起來好像很失望的樣子。\n是成果和他想像的不同嗎？
+LegendEvent_01_006ID	27	Valeria	ヴァレリア	さっきの明かりもそうだし……\nん～、もやもやして気になる～～！	Valeria	And it had something to do with that lamp... Hmm... That's really going to bother me!	瓦莱莉娅	刚才还特地用灯照了照……\n唔……我好在意啊～～！	瓦萊莉婭	剛才的燈也是……\n嗯～感覺心裡有點疙瘩，好在意～～！
+LegendEvent_01_006ID	28	Suelle	スール	うん……あたしも、もやもやする！\nこうなったら追いかけよう、リディー！	Suelle	Hngh... It's really bothering me, too! C'mon, let's go after him, Lydie!	苏瑞	嗯……我也很在意！\n我们不如直接追上去问问吧，莉迪！	蘇瑞	嗯……我心裡也有點疙瘩！\n既然如此，我們追上去吧，莉迪！
+LegendEvent_01_006ID	29	Lydie	リディー	う、うん、分かった！	Lydie	O-Okay! Of course!	莉迪	好、好的，我明白了！	莉迪	唔、嗯，好的！
+LegendEvent_01_007ID	0	Lydie	リディー	すみませーん！\nさっきの依頼で、お聞きしたいことが……！	Lydie	Excuse me! Sorry, we just have one quick question about your request!	莉迪	不好意思！\n关于刚才那个委托，我们有事想问清楚……！	莉迪	不好意思～！\n關於剛才的委託，我們有些事情想請教一下……！
+LegendEvent_01_007ID	1		依頼人	あれ、君たちか。どうしたんだい	Client	Oh, it's you ladies again. What seems to be the problem?	委托人	咦？是你们啊。想问什么？	委託人	咦？是妳們啊，怎麼了？
+LegendEvent_01_007ID	2	Lydie	リディー	さっき、テーブルを受け取った時に何かガッカリして\nませんでしたか。その理由を教えてください！	Lydie	Well, when you took back the table, you looked a little down. Would you please tell us why?	莉迪	刚才你收下桌子时是不是有些失望呢？\n我们想知道原因！	莉迪	剛才收下桌子時，你是不是有點失望呢？\n請告訴我們原因吧！
+LegendEvent_01_007ID	3		依頼人	ああ……そんなつもりはなかったんだけど、\n顔に出てしまっていたのかな	Client	Oh, that. I hadn't meant to, but I suppose I let my expression slip after all.	委托人	哦……我没打算表现得那么明显，\n结果还是写在脸上了啊。	委託人	啊……我沒那個意思，\n但是表現在臉上了嗎？
+LegendEvent_01_007ID	4	Suelle	スール	あたしたちの直し方だと納得がいかなかったって\nことですよね？　雑な所とかありましたか？	Suelle	Did we not do a good job fixing it? Were there any parts that were kind of sloppy or anything?	苏瑞	是不认可我们的修复方式吧？\n有做得比较粗糙的地方吗？	蘇瑞	也就是說，你對我們修復方式不滿意吧？\n是有什麼地方太粗糙嗎？
+LegendEvent_01_007ID	5		依頼人	いや、テーブルはとても美しく修復されていて\n申し分ない。これはウソではなく本当だよ	Client	Oh, no. It's just as gorgeous as ever. I have no complaints there.	委托人	不不，桌子修复得很美观，\n挑不出一点毛病，这是实话。	委託人	不，桌子修復得很漂亮，無可挑剔。\n這點沒有騙妳們，是真的。
+LegendEvent_01_007ID	6		依頼人	ただね……このテーブルの思い出まで蘇らせるのは\nさすがに無理だったか、と思ったものでね	Client	It's just that, well... It's a shame that the memories in the table itself can't be restored to their former glory.	委托人	只不过……看来想找回这张桌子上承载着的回忆\n还是做不到的啊。	委託人	我只是在想……果然還是沒辦法\n連同這張桌子的回憶都一起修復回來呢。
+LegendEvent_01_007ID	7	Lydie	リディー	テーブルの、思い出……？	Lydie	What do you mean by that?	莉迪	桌子上的回忆……？	莉迪	桌子的、回憶……？
+LegendEvent_01_007ID	8		依頼人	うん……。このテーブルは、以前は青く光ったんだよ。\n明かりを置いたりするとね	Client	You see, it used to give off a blue glow when you set a lamp on top of it.	委托人	嗯……以前啊，只要把灯放在这张桌子上，\n它就会发出蓝色的光来。	委託人	嗯……以前，只要把燈放在這張桌子上，\n它就會發出藍色的光芒喔。
+LegendEvent_01_007ID	9		依頼人	夜になると、妻や娘たちとこのテーブルに集まって\nみんなで夜遅くまで語り合ったりしたものさ	Client	In the evenings my wife and daughters would all gather around it and talk far into the night.	委托人	到了晚上，我会跟妻女们一起围在桌边聊到深夜。	委託人	一到夜晚，我就會和太太與女兒們聚在桌邊，\n大家一起聊天直到深夜。
+LegendEvent_01_007ID	10	Suelle	スール	そっか……さっき明かりを置いても\n光らなかったから、そこは直せてなかったんだ	Suelle	So that's why you asked for the lamp. When it didn't light up, you knew it hadn't been totally fixed.	苏瑞	这样啊……刚才把灯放上去了桌子也没发光，\n所以这个地方没有被修复。	蘇瑞	這樣啊……剛才你把燈放在桌上也沒有發光，\n所以是這部分沒有修好。
+LegendEvent_01_007ID	11		依頼人	テーブルが光る仕組みは私も詳しくは知らないんだ	Client	Rather unfortunately, I don't know the particulars of what made it glow like that.	委托人	我也不清楚桌子发光的原理是什么。	委託人	其實我也不太清楚桌子發光的原理。
+LegendEvent_01_007ID	12		依頼人	どうやらこの各所に埋め込まれている青い石が\n関係しているようなんだがね	Client	Though I do know there's some connection to the blue stones that are embedded within it.	委托人	不过看起来应该跟镶嵌在桌上的\n几块蓝色石头有关系。	委託人	不過似乎和這些\n鑲嵌在桌子各處的藍色石頭有些關聯。
+LegendEvent_01_007ID	13		依頼人	でもテーブルと同じくらい、この石も古いからね。\n光る力も失せているんだろう	Client	Then again, they're just as old as the table. Perhaps they've simply run out of steam.	委托人	但这些石头也跟这张石桌一样年代久远，\n或许已经失去了发光的力量吧。	委託人	但跟桌子差不多，這些石頭也很老舊，\n應該已經失去發光的力量了吧。
+LegendEvent_01_007ID	14	Lydie	リディー	スーちゃん	Lydie	Sue.	莉迪	小苏。	莉迪	小蘇。
+LegendEvent_01_007ID	15	Suelle	スール	うん、リディー	Suelle	Yep, Lydie.	苏瑞	嗯，莉迪。	蘇瑞	嗯，莉迪。
+LegendEvent_01_007ID	16	Lydie	リディー	おじさん！　私たちにもう一度任せてもらえませんか？\nその石を調べれば、今度こそ直せるかもしれません！	Lydie	Would you mind letting us take the table again, sir? If we do more research on those stones, then we can fix it even better!	莉迪	叔叔！可以再让我们试一次吗？\n要是调查清楚这个石头是什么，说不定就能修复如初了！	莉迪	叔叔！這件事可以再交給我們來辦嗎？\n如果去調查一下那種石頭，說不定這次就能修好了！
+LegendEvent_01_007ID	17	Suelle	スール	おじさんの思い出話を聞いたら、\nやっぱりなんとかしなきゃって思いました！	Suelle	We can't hear a story like yours so full of memories and then not do anything about it!	苏瑞	听了叔叔的回忆之后，\n我们还是想努力修好它！	蘇瑞	聽了叔叔你的回憶，\n我們覺得還是必須做點什麼才行！
+LegendEvent_01_007ID	18		依頼人	君たち……。ありがとう、優しい子たちだね。\nしかし、そこまで手を煩わせるわけには……	Client	My goodness. Thank you, that's too kind. Still, I wouldn't want to trouble you any more than I already have.	委托人	你们……谢谢，你们真的很贴心。\n可我也不好给你们添这么多麻烦……	委託人	妳們……謝謝啊，妳們真善解人意呢。\n可是，怎麼能再這樣麻煩妳們呢……
+LegendEvent_01_007ID	19	Lydie	リディー	あの、私たちにも大切な家族の思い出があるんです！\nだから、おじさんにも諦めてほしくなくて……！	Lydie	No way! This has your precious family memories attached to it! You can't give up yet, sir!	莉迪	其实我们也有跟家人的珍贵回忆！\n所以我们也不想让叔叔你放弃……！	莉迪	其實，我們和家人之間也有很珍貴的回憶！\n所以，希望叔叔你也不要放棄修復那張桌子……！
+LegendEvent_01_007ID	20	Suelle	スール	それに、あたしたち錬金術士なんです！\n思い出の品を、きっと元通りにしてみせますから！	Suelle	Plus, we're alchemists! Restoring keepsakes is what we do best!	苏瑞	而且我们是炼金术士！\n我们保证一定会复原承载着你珍贵回忆的物品！	蘇瑞	而且，我們是鍊金術士！\n我們一定會把這充滿回憶的物品恢復原樣給你看的！
+LegendEvent_01_007ID	21		依頼人	錬金術士？　ああ、そういえば街の噂で\nそういう人たちがいると聞いたことがあるような……	Client	Alchemists? Come to think of it, I did hear a rumor that there were a few in town...	委托人	炼金术士？哦，说起来城镇里也有传闻，\n说是有这样的人在……	委託人	鍊金術士？哦，這麼說來，\n我好像有在鎮上聽說過這種人的存在……
+LegendEvent_01_007ID	22	Lydie	リディー	はい！　錬金術を使えばきっとできます	Lydie	That's right! And when we use alchemy, we can fix anything!	莉迪	是的！只要使用炼金术就一定能成功。	莉迪	是的！只要使用鍊金術，就一定能做到。
+LegendEvent_01_007ID	23	Suelle	スール	みんなを笑顔にする！　そのための力なんですから！	Suelle	It has the power to make people smile, which is exactly what we use it for!	苏瑞	因为这份力量就是为了给大家带来笑容而存在的！	蘇瑞	因為那是為了帶給大家笑容而存在的力量！
+LegendEvent_01_007ID	24		依頼人	笑顔……	Client	Smile, you say?	委托人	笑容……	委託人	笑容……
+LegendEvent_01_007ID	25	Valeria	ヴァレリア	私も錬金術で作った薬に命を助けられたことがあるの	Valeria	Medicine made with alchemy has saved my life a few times, too.	瓦莱莉娅	我之前也喝了用炼金术制作的药治好了病。	瓦萊莉婭	我也曾被鍊金術製成的藥救過一命。
+LegendEvent_01_007ID	26	Valeria	ヴァレリア	絶望的で、もうダメだって状況もひっくり返せる。\n錬金術にはそんな力があるのよね	Valeria	Alchemists have the ability to take a really bleak situation and turn it on its head.	瓦莱莉娅	就算面临令人绝望的情况也能逆转局势，\n炼金术就是有这么强大的力量。	瓦萊莉婭	鍊金術可以翻轉絕望且走投無路的狀況。\n它確實有著那樣的力量。
+LegendEvent_01_007ID	27	Valeria	ヴァレリア	それに……二人は約束を絶対守るわ。\nどう？　錬金術と二人を信じてみない？	Valeria	I know these two. They're not the sort to make promises they can't keep. So, how about it? Will you trust in their alchemy?	瓦莱莉娅	而且……她们两个肯定会遵守约定。\n怎么样？你要不要再相信炼金术跟她们一次？	瓦萊莉婭	而且……她們絕對會遵守約定的。\n如何？你要不要試著相信鍊金術與這兩個人呢？
+LegendEvent_01_007ID	28		リディー＆スール	お願いします！	Lydie & Suelle	Please, sir!	莉迪&苏瑞	拜托你了！	莉迪＆蘇瑞	拜託你了！
+LegendEvent_01_007ID	29		依頼人	そんな……二人とも、顔を上げて。\nお願いだなんて。それはこっちのセリフだよ	Client	Wh—no, you don't have to bow like that. I'm the one who should be asking you for help, after all.	委托人	别这样……你们抬起头来吧。\n还说什么拜托我，是我要拜托你们才对。	委託人	別這樣……妳們兩人都抬起頭來吧。\n拜託什麼的，那是我該說的話才對。
+LegendEvent_01_007ID	30	Suelle	スール	えっ！　それじゃあ……！	Suelle	Oh! Then you mean...!	苏瑞	咦！那就是说……！	蘇瑞	咦！？所以……！
+LegendEvent_01_007ID	31		依頼人	テーブルの修復、よろしく頼むよ。\n久しぶりに妻と娘に見せてやれるといいんだが……	Client	Yes, as much as I'd like to hurry and show it to my family... I'll be leaving the table in your care once again.	委托人	就拜托你们帮我修复桌子了。\n时隔多年，要是能让妻女再看一眼那个场景就好了……	委託人	修復桌子的工作就拜託妳們了。\n要是能久違地讓我妻子和女兒看看這張桌子就好了……
+LegendEvent_01_007ID	32	Lydie	リディー	任せてください！\nきっと……いえ、必ず修復してみせますから！	Lydie	Don't say another word! We can handle this! We'll definitely... No, we will absolutely repair it!	莉迪	交给我们吧！\n我们想……不，我们一定会修好它的！	莉迪	包在我們身上！\n我們一定……不對，是絕對會把它修復好的！
+LegendEvent_01_007ID	33	Suelle	スール	よ～しっ！　そうと決まれば早速、準備開始だ！\nおじさん、もうちょっと待っててくださいね！	Suelle	Okay! Now that that's all settled, let's get straight to fixing it up! We won't keep you waiting long, sir!	苏瑞	好！既然决定了，那就赶快开始准备吧！\n叔叔，请再给我们些时间！	蘇瑞	很～好！既然決定了，就馬上開始準備吧！\n叔叔，請你再稍微等等我們！
+LegendEvent_01_008ID	0	Suelle	スール	よーし、やるぞー！\n絶対にテーブルの修復を成功させよー！	Suelle	Yeeeah, let's do this! We're going to make that table perfect!	苏瑞	好，要加油了！\n绝对要成功修复这张桌子！	蘇瑞	好──要開始囉──！\n我們絕對要成功修復好桌子──！
+LegendEvent_01_008ID	1	Lydie	リディー	とはいえ、見得を切ったのはいいけど、\nこの青い石のことはなんにも分からないんだよね……	Lydie	Um, confidence is all well and good, but...we really don't know anything about those blue stones.	莉迪	你是夸下海口了，\n可我们对这个蓝色石头还是一无所知啊……	莉迪	雖說誇下海口是無妨，\n但我們對這些藍色石頭根本就一無所知呢……
+LegendEvent_01_008ID	2	Suelle	スール	ぐぬぬ……。そうなんだよなー	Suelle	Hnngh... Yeah, you're right.	苏瑞	唔……确实是这样。	蘇瑞	呃唔唔……就是說啊～
+LegendEvent_01_008ID	3	Suelle	スール	あたしたち、ちっとは錬金術の腕も上がってきて\n色んな素材の知識も増えてきたとは思ってたんだけど	Suelle	I'd thought we'd done a great job of boosting our alchemy skills and learning about all sorts of materials, but...	苏瑞	我是觉得我们的炼金术本领有了点长进，\n对各种素材的知识也掌握了不少。	蘇瑞	原本還覺得我們鍊金術的技術進步了一點，\n許多素材的知識也增加了呢。
+LegendEvent_01_008ID	4	Lydie	リディー	さすがに違う世界のことまでは、ねえ……	Lydie	Well, this IS a completely different world.	莉迪	可毕竟世界不同，技术本领都没法通用吧……	莉迪	果然不同世界還是有差，唉……
+LegendEvent_01_008ID	5	Lydie	リディー	この石がどんな石なのか、どこで手に入るのかも\nさっぱり分からないね	Lydie	We have no clue what these stones really are or where they came from.	莉迪	这种石头究竟是什么石头，能在哪里找到，\n我们根本没有头绪。	莉迪	我們連這些石頭是什麼石頭、\n要在哪裡取得都完全搞不清楚呢。
+LegendEvent_01_008ID	6	Suelle	スール	そもそも、名前すら分かんない！	Suelle	We don't even know what they're called!	苏瑞	说到底连它叫什么都不清楚！	蘇瑞	說起來，我們甚至連它的名字都不曉得！
+LegendEvent_01_008ID	7	Suelle	スール	……でも、このおじさんのテーブルは絶対直したいな	Suelle	Doesn't matter. We're still going to fix that old man's table!	苏瑞	……不过，我真的很想修好这位叔叔的桌子。	蘇瑞	……不過，我真的很想把這個叔叔的桌子修好呢。
+LegendEvent_01_008ID	8	Lydie	リディー	うん、私もそう思う。\nなんとか情報を集めないとね	Lydie	I'm with you there, Sue. We'll just have to go and gather whatever information we can find.	莉迪	嗯，我也这么想。\n我们得想办法收集情报了。	莉迪	嗯，我也一樣。\n得想辦法蒐集情報才行。
+LegendEvent_01_008ID	9		リディー＆スール	さて、どうしたものか……	Lydie & Suelle	Hm, but how...?	莉迪&苏瑞	接下来该怎么做呢……	莉迪＆蘇瑞	那我們該怎麼做才好呢……
+LegendEvent_01_008ID	10	Valeria	ヴァレリア	あ、そういえば……	Valeria	Oh, that reminds me...	瓦莱莉娅	啊，说起来……	瓦萊莉婭	啊，對了……
+LegendEvent_01_008ID	11	Lydie	リディー	…………？　ヴァレリアさん、どうしました？	Lydie	Um, Valeria? Is something wrong?	莉迪	……？瓦莱莉娅小姐，怎么了？	莉迪	…………？瓦萊莉婭小姐，怎麼了呢？
+LegendEvent_01_008ID	12	Valeria	ヴァレリア	お腹が	Valeria	My stomach's...	瓦莱莉娅	我肚子……	瓦萊莉婭	我的肚子。
+LegendEvent_01_008ID	13	Suelle	スール	お腹が？	Suelle	It's what?	苏瑞	肚子怎么了？	蘇瑞	妳的肚子？
+LegendEvent_01_008ID	14	Valeria	ヴァレリア	てへ。鳴っちゃった	Valeria	Whoops. Guess you both heard that.	瓦莱莉娅	呵呵，肚子咕咕叫了。	瓦萊莉婭	嘿嘿，它叫了。
+LegendEvent_01_008ID	15	Suelle	スール	お腹が空いてただけかーいっ！　ふぅ。\n悩んでたのがどこかに飛んでいっちゃったよ	Suelle	Oh, so you're just hungry! Heh. You know, I'm not even sure what I was worrying about before.	苏瑞	原来只是肚子饿了啊！\n呼，烦心事突然就被抛到一边了。	蘇瑞	原來妳只是肚子餓了啊──！呼～\n剛剛的煩惱都不知跑哪去了。
+LegendEvent_01_008ID	16	Lydie	リディー	王都を出た時には、もう夜だったもんね。\nひとまず今日はここまでにしよっか	Lydie	Well, it was already night when we got back from the capital. We should probably stop here for today.	莉迪	离开王都时都已经是晚上了。\n今天就先到这里吧。	莉迪	畢竟我們離開王都時，都已經是晚上了嘛。\n今天就先到這裡吧。
+LegendEvent_01_008ID	17	Suelle	スール	だね。時間をおいたら何か思いつくかもしれないし	Suelle	Yeah. Besides, we might come up with something if we give it some time.	苏瑞	也对，过一段时间再想说不定会有新的思路。	蘇瑞	是啊，過一段時間說不定會想到些什麼。
+LegendEvent_01_008ID	18	Valeria	ヴァレリア	ねえ、ところで二人はこれからどうするの？\nずっとアトリエで寝泊まりするつもり？	Valeria	Hey, what are you going to do after this? Spend the whole night at the atelier?	瓦莱莉娅	说起来，你们今后有什么打算？\n是要一直借住在炼金工房吗？	瓦萊莉婭	話說，妳們倆接下來有什麼打算？\n要一直暫住在鍊金工房裡嗎？
+LegendEvent_01_008ID	19	Suelle	スール	それは……実はまだ何も考えてなかったり……	Suelle	Um... I can't say that we've really thought about it.	苏瑞	这个嘛……我们完全没想过这个问题……	蘇瑞	這個……其實我們什麼都還沒想好……
+LegendEvent_01_008ID	20	Lydie	リディー	思えば依頼をどうするかってことに\n集中しすぎちゃったなぁ……	Lydie	We got so caught up in that request that we haven't been thinking about anything else.	莉迪	这么说来之前好像一门心思在想委托的事……	莉迪	仔細想想，我們好像太專注在\n如何處理委託了……
+LegendEvent_01_008ID	21	Valeria	ヴァレリア	つまり宿無しと	Valeria	So, you're nomads with no place to go.	瓦莱莉娅	就是说你们现在无家可归。	瓦萊莉婭	也就是說妳們沒地方睡。
+LegendEvent_01_008ID	22	Valeria	ヴァレリア	じゃあ二人とも、よかったら私の家に来ない？	Valeria	In that case, why don't you come to my house?	瓦莱莉娅	不嫌弃的话，要不要来我家住？	瓦萊莉婭	那妳們倆，不嫌棄的話要不要來我家？
+LegendEvent_01_008ID	23	Suelle	スール	えっ？　ヴァレリアさんのおうちですか？	Suelle	Hm? You're inviting us over?	苏瑞	咦？瓦莱莉娅小姐家？	蘇瑞	咦？瓦萊莉婭小姐的家嗎？
+LegendEvent_01_008ID	24	Valeria	ヴァレリア	ええ。ちょっと騒がしいけど、\nきっとみんな歓迎してくれるわよ	Valeria	Yep. It's not the best place for peace and quiet, but you'd get a really warm welcome.	瓦莱莉娅	是啊。家里是有些吵，\n不过大家肯定会欢迎你们的。	瓦萊莉婭	對，雖然有些吵吵鬧鬧的，\n但大家一定都會很歡迎妳們的。
+LegendEvent_01_008ID	25	Lydie	リディー	それはとってもありがたいですけど、\nいきなりお邪魔しちゃって大丈夫ですか？	Lydie	I mean, that sounds great, but are you sure it's all right for us to drop in on such short notice?	莉迪	那真是太感激了，\n可我们突然上门打扰真的好吗？	莉迪	那真的感激不盡，\n但我們突然去叨擾沒關係嗎？
+LegendEvent_01_008ID	26	Valeria	ヴァレリア	大丈夫大丈夫！　そんな繊細な奴いないから。\nほら二人とも、ついてきて	Valeria	Of course it is! The folks I live with don't really mind that sort of thing. Come on, follow me!	瓦莱莉娅	没事的！我们家没有那么讲究的人。\n好啦，跟我来。	瓦萊莉婭	不要緊不要緊！我家裡可沒人會在意這種小事。\n好了，妳們兩個跟我來吧。
+LegendEvent_01_009ID	0	Valeria	ヴァレリア	いたいた。おーい、ハイディー	Valeria	There she is. Heeey, Heidi!	瓦莱莉娅	我看到人了。喂，海蒂！	瓦萊莉婭	他們都在。喂～海蒂～
+LegendEvent_01_009ID	1	Heidi	ハイディ	おー、相棒……と、そっちの子たちは？	Heidi	Hello, partner! Wait... Who's that with you?	海蒂	哦，搭档……咦，那两个女孩是谁啊？	海蒂	喔～搭檔……咦，那兩個女孩是？
+LegendEvent_01_009ID	2	Valeria	ヴァレリア	家に泊めたげようって思って。\nこっちはリディー、こっちはスール。錬金術士なの	Valeria	This is Lydie, and this is Suelle. They're both alchemists. I was hoping we could give them a place to stay for the night.	瓦莱莉娅	我想让她们住在家里。\n这是莉迪，这是苏瑞，她们都是炼金术士。	瓦萊莉婭	我想讓她們借住在我們家。\n她是莉迪，她是蘇瑞，兩人都是鍊金術士。
+LegendEvent_01_009ID	3		リディー＆スール	よろしくお願いします！	Lydie & Suelle	It's nice to meet you!	莉迪&苏瑞	请多多关照！	莉迪＆蘇瑞	請多多指教。
+LegendEvent_01_009ID	4	Valeria	ヴァレリア	こっちが私の相棒のハイディ、かわいい子がフロッケ。\nそこのおっさんはランツェよ	Valeria	On our side, we've got my partner-in-crime, Heidi. And this adorable little lady is Flocke. The old man over there's Lanze.	瓦莱莉娅	这是我的搭档海蒂，那边那个可爱的小姑娘叫芙洛可，\n那个大叔是兰泽。	瓦萊莉婭	這是我的搭檔海蒂，可愛的女孩是芙洛可。\n至於那邊的大叔是藍澤。
+LegendEvent_01_009ID	5	Lanze	ランツェ	おい。「おっさん」ってな……	Lanze	C'mon, kid. Who're you callin' old?	兰泽	喂，谁是“大叔”啊……	藍澤	喂，叫什麼「大叔」……
+LegendEvent_01_009ID	6	Lydie	リディー	あ、あの……お邪魔じゃないですか？	Lydie	U-Um, you're sure we won't be a bother?	莉迪	请、请问……我们不会打扰到你们吗？	莉迪	那、那個……我們不會打擾到你們嗎？
+LegendEvent_01_009ID	7	Flocke	フロッケ	ヴァレリアさんのお友達なら大歓迎ですよ！\n晩ご飯は、フロッケが腕を振るいますね	Flocke	Any friends of Valeria's are friends of ours! I'll whip up a small feast for dinner!	芙洛可	非常欢迎瓦莱莉娅小姐的朋友！\n今晚芙洛可要展示厨艺了哦！	芙洛可	我們很歡迎瓦萊莉婭小姐的朋友喔！\n晚餐就由芙洛可來露一手吧。
+LegendEvent_01_009ID	8	Heidi	ハイディ	フロッケのご飯は絶品なんだ。楽しみにしてて	Heidi	Flocke's cooking skills are no joke. You're going to love it!	海蒂	芙洛可做的饭特别可口，你们就好好期待吧。	海蒂	芙洛可做的飯可是人間美味喔，妳們就好好期待吧。
+LegendEvent_01_009ID	9	Suelle	スール	じゅるり！　期待が高まります！	Suelle	I'm drooling already! You're really getting my hopes up!	苏瑞	吸口水！好期待啊！	蘇瑞	流口水！我超期待的！
+LegendEvent_01_009ID	10	Valeria	ヴァレリア	私も！　お腹ペコペコだしね！	Valeria	Same here! I'm starving!	瓦莱莉娅	我也很期待！我肚子都饿扁了！	瓦萊莉婭	我也是！而且我們肚子也餓扁了！
+LegendEvent_01_009ID	11	Flocke	フロッケ	任せてください。ヴァレリアさんはリディーさん、\nスーさんのお相手をしていてくださいね	Flocke	Just leave it to me! Valeria, make sure to keep our guests entertained, okay?	芙洛可	交给我吧。就麻烦瓦莱莉娅小姐\n去招待莉迪小姐和苏小姐了。	芙洛可	包在芙洛可身上。瓦萊莉婭小姐\n請妳陪著莉迪小姐和蘇小姐吧。
+LegendEvent_01_009ID	12	Flocke	フロッケ	その間に、フロッケがささっとお料理を……	Flocke	I'll have dinner ready soon.	芙洛可	然后芙洛可就趁这时候赶紧做完菜……	芙洛可	芙洛可就趁這段期間趕緊做好料理……
+LegendEvent_01_009ID	13	Lydie	リディー	フロッケさん！　私もお手伝いします！	Lydie	Wait, Flocke! Let me help you!	莉迪	芙洛可小姐！我也来帮忙！	莉迪	芙洛可小姐！我也來幫忙！
+LegendEvent_01_009ID	14	Suelle	スール	あたしも！　働かざる者食うべからずって\n言うじゃないですか！	Suelle	Me too! Like they say, there's no such thing as a free meal!	苏瑞	我也来！俗话说不劳动者不得食嘛！	蘇瑞	我也要！\n不是有句話說不勞動者不得食嗎！
+LegendEvent_01_009ID	15	Lanze	ランツェ	おっ。小さいのに料理ができるのか！\n偉いじゃないか	Lanze	Ain't that somethin'. Little ones like you two know your way around a kitchen? Good on ya.	兰泽	哦，你们这么小就会做菜啦！\n真了不起！	藍澤	喔，妳們明明還這麼小，就會做料理了啊！\n真了不起呢。
+LegendEvent_01_009ID	16	Suelle	スール	もー。あたしたちを舐めないでくださいよー！	Suelle	Hey! We're small, not useless!	苏瑞	真是的，别小看我们嘛！	蘇瑞	真是的，請別小看我們了──！
+LegendEvent_01_009ID	17	Lydie	リディー	お父さんが世話の焼ける人なので、\n私たちもそれなりにできるんですよ	Lydie	Our dad's pretty useless, though, so we have to know how to fend for ourselves.	莉迪	我们的爸爸很不让人省心，\n所以我们都学会了一定的生活技能。	莉迪	我們爸爸是個很需要別人照顧的人，\n所以自然而然就學會了。
+LegendEvent_01_009ID	18	Heidi	ハイディ	立派だなぁ。うちの親父さんの耳も痛いんじゃない？	Heidi	You're so capable! Pops, are your ears burning yet?	海蒂	你们真厉害啊，我们家的爸爸听了不会觉得脸红吗？	海蒂	真了不起耶～我們家的老爸也覺得很刺耳吧？
+LegendEvent_01_009ID	19	Lanze	ランツェ	俺のことかよ！？	Lanze	Wait, hold on. You mean me?!	兰泽	怎么我就成爸爸了？！	藍澤	妳是在說我嗎！？
+LegendEvent_01_009ID	20	Flocke	フロッケ	ふふ。ランツェさんは頼りになるお父さんですよ	Flocke	Hehe! Lanze, you're a perfectly dependable papa.	芙洛可	呵呵。兰泽先生是可靠的爸爸哦。	芙洛可	呵呵，藍澤先生是很值得依靠的爸爸喔。
+LegendEvent_01_009ID	21	Lydie	リディー	ランツェさんは、皆さんのお父さん……なんですか？	Lydie	Um, is he...everyone here's dad?	莉迪	兰泽先生……是大家的爸爸吗？	莉迪	藍澤先生是各位的爸爸……嗎？
+LegendEvent_01_009ID	22	Valeria	ヴァレリア	んー。血の繋がりはないけど、\n本当の家族みたいなものなの	Valeria	Weeell, not by blood, but we're basically a family now.	瓦莱莉娅	唔……我们没有血缘关系，\n但相处起来就跟家人一样。	瓦萊莉婭	嗯……雖然我們沒有血緣關係，\n但彼此就像真正的家人一樣。
+LegendEvent_01_009ID	23	Suelle	スール	そういうの、いいですね！	Suelle	Ooh, that's great!	苏瑞	这种关系真好啊！	蘇瑞	這種感覺很棒呢！
+LegendEvent_01_009ID	24	Flocke	フロッケ	はい！　フロッケは幸せですよ。ね、ランツェさん！	Flocke	It is! It makes me so happy. Right, Lanze?	芙洛可	是的！芙洛可觉得很幸福。对吧，兰泽先生！	芙洛可	是的！芙洛可覺得很幸福喔。藍澤先生，你說對吧？
+LegendEvent_01_009ID	25	Lanze	ランツェ	お、おう、天使ちゃんを不幸にするわけには\nいかねえからな！	Lanze	C-C'mon, like I'd ever let our little angel frown!	兰泽	是、是啊，\n怎么可能让小天使觉得不幸福呢！	藍澤	喔、沒錯，\n我不能讓小天使不幸嘛！
+LegendEvent_01_009ID	26	Flocke	フロッケ	ふふっ。リディーさん、スーさん。今日はフロッケと\n一緒に美味しいご飯を作りましょうね！	Flocke	Hehe! Lydie, Sue, let's make a delicious meal together!	芙洛可	呵呵。莉迪小姐，苏小姐，\n今天就跟芙洛可一起做一顿美味佳肴吧！	芙洛可	呵呵，莉迪小姐，蘇小姐，\n今天請妳們和芙洛可一起做美味的飯菜吧！
+LegendEvent_01_009ID	27		リディー＆スール	はい！	Lydie & Suelle	Yeah!	莉迪&苏瑞	好的！	莉迪＆蘇瑞	好的！
+LegendEvent_01_010ID	0	Suelle	スール	はぁー、美味しかったー！	Suelle	Ahhh, that was so tasty!	苏瑞	呼，好好吃啊！	蘇瑞	呼～真好吃～！
+LegendEvent_01_010ID	1	Lydie	リディー	フロッケさんのお料理、ホントに美味しかったです！	Lydie	Everything you made was delicious, Flocke!	莉迪	芙洛可小姐做的料理真好吃啊！	莉迪	芙洛可小姐做的料理真的很美味！
+LegendEvent_01_010ID	2	Flocke	フロッケ	そんな。リディーさんとスーさんだって\n手伝ってくれたじゃないですか	Flocke	Aw, but you both helped, too!	芙洛可	哪里哪里，\n莉迪小姐和苏小姐也帮了不少忙呀。	芙洛可	沒有啦，莉迪小姐和蘇小姐\n不是也幫了忙嗎？
+LegendEvent_01_010ID	3	Suelle	スール	それはそれ！　あたしたちは手伝っただけですから！\nあー、これで明日も頑張れる～	Suelle	Barely! All we did was lend a hand here and there. But now I feel like I can do my best tomorrow, too!	苏瑞	一码归一码！我们只是帮了点小忙！\n哎呀，这下明天也有干劲了～	蘇瑞	那就是重點！我們只是在旁邊幫忙而已！\n啊──這樣明天也能繼續努力了～
+LegendEvent_01_010ID	4	Lydie	リディー	そうだね。明日は青い石のこと、\nしっかり調べなくっちゃ	Lydie	Mhm. We've got to focus now and do research on that blue stone.	莉迪	是啊，\n明天要好好调查蓝色石头是什么东西。	莉迪	對啊，藍色石頭的事情，\n明天要好好調查一番才行。
+LegendEvent_01_010ID	5	Heidi	ハイディ	ん、青い石？　なに、お宝の話？	Heidi	What's that? Some kind of treasure?	海蒂	嗯？蓝色石头？那是什么，宝藏吗？	海蒂	嗯，藍色石頭？是在說寶藏的事嗎？
+LegendEvent_01_010ID	6	Lydie	リディー	あ、いえ。お宝じゃないんです。\nちょっと依頼で必要なものでして	Lydie	Oh! No, it's a key part of a request that we're working on.	莉迪	啊，不是的。并不是什么宝藏。\n是做委托的时候要用到的东西。	莉迪	啊，不，不是寶藏。\n是有些委託需要的東西得查一下。
+LegendEvent_01_010ID	7	Valeria	ヴァレリア	みんなに聞きたいんだけど、明かりを\n近づけると光る青い石……なんて、誰か知ってる？	Valeria	And I wanted to ask, have any of you heard of a blue stone that glows when you shine a light near it?	瓦莱莉娅	我也想问问大家……\n知不知道一种靠近光源就能发光的蓝色石头呢？	瓦萊莉婭	想問問大家，你們有誰知道那種\n燈一靠近就會發光的藍色石頭嗎？
+LegendEvent_01_010ID	8	Lanze	ランツェ	うーん？　聞いたことあるような、ないような……	Lanze	Hmm... That sounds kind of familiar, but also not.	兰泽	唔……？好像听说过，又好像没听说过……	藍澤	唔……？好像有聽過，又好像沒聽過……
+LegendEvent_01_010ID	9	Flocke	フロッケ	明かりを近づけて光るかは分からないですけど、\nそれってハイネライトのことですか？	Flocke	I don't know if it matches your description exactly, but could it be hainelight?	芙洛可	那石头会不会是海涅之光？\n不过我不清楚它靠近光源会不会发光。	芙洛可	雖然不知道靠近光源會不會發光，\n不過，你指的是海涅之光嗎？
+LegendEvent_01_010ID	10	Suelle	スール	ハイネライト？	Suelle	Hainelight?	苏瑞	海涅之光？	蘇瑞	海涅之光？
+LegendEvent_01_010ID	11	Flocke	フロッケ	はい。魔力を帯びていて、こすったり熱を近づけたり\nすると光り出すんですよ。青い石です	Flocke	Yep! It's a blue stone imbued with magic. When you rub it or bring heat near it, it glows.	芙洛可	是的，它是一种带有魔力的蓝色石头，\n要是被摩擦或是靠近热源，它就会发光。	芙洛可	對，那是一種帶有魔力的藍色礦石。\n摩擦或靠近熱源就會發光。
+LegendEvent_01_010ID	12	Heidi	ハイディ	それって……	Heidi	That sounds...	海蒂	那听起来……	海蒂	那是……
+LegendEvent_01_010ID	13	Valeria	ヴァレリア	当たりっぽいわね	Valeria	...A lot like the right thing, huh?	瓦莱莉娅	很像我们要找的东西。	瓦萊莉婭	看來就是那個了呢。
+LegendEvent_01_010ID	14	Lydie	リディー	そのハイネライトはどこで手に入るか分かりますか？	Lydie	Do you know where could we find some?	莉迪	你知道要去哪里才能找到海涅之光吗？	莉迪	妳知道要去哪裡才能找到海涅之光嗎？
+LegendEvent_01_010ID	15	Flocke	フロッケ	ハイネ州の火山地帯で高品質のものが\n多く出ると聞いたことがあります	Flocke	I've heard that the best quality stones are in volcanic zones in the Haine province.	芙洛可	我听说在海涅州的火山地带\n会产出许多高品质的海涅之光。	芙洛可	相傳海涅州的火山地帶\n有很多高品質的海涅之光。
+LegendEvent_01_010ID	16	Valeria	ヴァレリア	ハイネ州か……	Valeria	Haine province...	瓦莱莉娅	海涅州啊……	瓦萊莉婭	海涅州啊……
+LegendEvent_01_010ID	17	Flocke	フロッケ	産出だけなら王国全土でされるそうですけど、専門家が\n探して運が良ければ見つかる、くらいらしいです	Flocke	They're technically produced throughout the kingdom, but even skilled specialists have to get lucky to find them.	芙洛可	如果不追求品质的话，倒是整个王国都有产出，\n但就算是专家去找也得是走了运才能找到。	芙洛可	單論產地的話，據說整個王國都是。\n但就算請專家出馬，也得憑運氣才能找到。
+LegendEvent_01_010ID	18	Flocke	フロッケ	だから実質、ハイネ州の特産品ということになりますね	Flocke	So they're as good as local to Haine.	芙洛可	所以它其实算是海涅州的特产了。	芙洛可	所以實質上是海涅州的特產。
+LegendEvent_01_010ID	19	Valeria	ヴァレリア	なるほどね。どうやら行き先は決まったんじゃない？	Valeria	Makes sense. Anyway, now we know where to go next!	瓦莱莉娅	原来是这样，那目的地已经有定论了吧？	瓦萊莉婭	原來如此，看來我們的目的地已經確定了？
+LegendEvent_01_010ID	20	Lydie	リディー	はい！　ありがとうございます！	Lydie	Yeah! Thank you very much, Flocke!	莉迪	是的！谢谢你们！	莉迪	是的！非常謝謝妳！
+LegendEvent_01_010ID	21	Suelle	スール	よーし、一歩前進！\n明日はハイネ州へ出発だね！	Suelle	Okay! Now that we've been pointed in the right direction, we'll head for Haine tomorrow!	苏瑞	好，有进展了！\n明天就出发去海涅州！	蘇瑞	很好～事情有進展了！\n明天就前往海涅州吧！
+LegendEvent_01_011ID	0	Lydie	リディー	あれ？　スーちゃん？	Lydie	Hm? Sue?	莉迪	咦？小苏？	莉迪	咦？小蘇？
+LegendEvent_01_011ID	1	Suelle	スール	あ、リディー。どうしたの、寝られなかったの？	Suelle	Oh, Lydie. What's wrong? Can't sleep?	苏瑞	啊，是莉迪。怎么了，你睡不着吗？	蘇瑞	啊，莉迪。怎麼了，睡不著嗎？
+LegendEvent_01_011ID	2	Lydie	リディー	うん。ウトウトはしたんだけど。気が付いたら\nスーちゃんいないし。スーちゃんも寝られないの？	Lydie	Not really. I was nodding off, but then I noticed you weren't there. You can't sleep either?	莉迪	嗯，我睡得不太安稳。\n醒过来的时候发现小苏不在。你也睡不着吗？	莉迪	嗯，迷迷糊糊地睡了一下，醒來時就發現妳不見了。\n小蘇妳也睡不著嗎？
+LegendEvent_01_011ID	3	Suelle	スール	そうなんだよね。それでちょこーっと\n外の空気でも吸おうかってね	Suelle	Nope. So, I figured I'd step out for a breath of fresh air.	苏瑞	是啊，所以我就出来呼吸一下外边的空气了。	蘇瑞	對啊，所以就想說\n來外面透透氣好了。
+LegendEvent_01_011ID	4	Suelle	スール	この世界ってさ、元の世界と似てるとこもあるけど、\n何かと違ってるとこあるよね	Suelle	This world is kind of like ours, but there are a bunch of differences.	苏瑞	这个世界和我们的世界有相似的地方，\n但也有一些不同。	蘇瑞	這個世界雖然和原本的世界有些共通點，\n但還是不太一樣呢。
+LegendEvent_01_011ID	5	Suelle	スール	素材の声が聞こえないとことかさ	Suelle	Like not being able to hear materials speaking to us.	苏瑞	比如听不到素材的声音。	蘇瑞	例如，聽不見素材的聲音。
+LegendEvent_01_011ID	6	Lydie	リディー	でも……同じところもいっぱいある。\n家族や、思い出を大事にしたい気持ちとか	Lydie	But there's a lot that's the same, too. People here treat their families and memories like precious treasures.	莉迪	但是……相似的地方有好多。\n比如珍视家人跟回忆这点。	莉迪	不過……也有許多相同的地方。\n像是想珍惜家人和回憶的心情。
+LegendEvent_01_011ID	7	Suelle	スール	なんかさ、思い出しちゃうよねー。\nお母さんとお父さんのこと	Suelle	Memories... Yeah, it brings me back and makes me think of our parents.	苏瑞	总感觉想起了……妈妈爸爸。	蘇瑞	會忍不住想起\n爸爸、媽嗎呢～
+LegendEvent_01_011ID	8	Lydie	リディー	うん。おじさんやヴァレリアさんたちを見てたら、ね\n	Lydie	Mhm. I keep seeing them in everyone we meet.	莉迪	嗯，看着叔叔跟瓦莱莉娅小姐他们之后是会这么想的吧。	莉迪	嗯，看到叔叔和瓦萊莉婭小姐等人就會想起來呢。
+LegendEvent_01_011ID	9	Lydie	リディー	お母さんとの約束を一生懸命、覚えたこととか、\nホットケーキを焼いてもらったこと……	Lydie	Little things remind me of how we did our best to remember all the promises we made with Mom, or when she made pancakes for us...	莉迪	拼命记住跟妈妈做的约定，\n妈妈给我们做的薄饼……	莉迪	像是拚命記住和媽媽的約定，\n還有她烤鬆餅給我吃的事情……
+LegendEvent_01_011ID	10	Suelle	スール	初めて錬金術を教えてもらった時も楽しかったし、\nそれから……バカ親父の無駄遣い！	Suelle	Or how fun it was when we first started learning alchemy, or how completely irresponsible our dumb dad is!	苏瑞	第一次学习炼金术时开心的感觉，\n还有……笨蛋老爸浪费东西的事！	蘇瑞	她第一次教我鍊金術時，真的很開心。\n然後……還有愛亂花錢的笨蛋老爸！
+LegendEvent_01_011ID	11	Lydie	リディー	あ、あはは……。お父さんにもいいところあるよ？\nたまにだけど、約束守ってくれるし……	Lydie	Ahaha... Um, he does have his good points too, though. He remembers to keep...some...of his promises.	莉迪	哈、哈哈……爸爸也有优点哦？\n他偶尔也会遵守约定……	莉迪	哈、哈哈哈……爸爸還是有優點的。\n他偶爾會遵守約定……
+LegendEvent_01_011ID	12	Suelle	スール	わ、分かってるって。国一番のアトリエには、\nお父さんも絶対、必要だったもんね	Suelle	Y-Yeah, I know. Our atelier wouldn't have been the best in the country without him.	苏瑞	我、我知道的啦。建立全国最棒的炼金工房\n也一定缺少不了爸爸的力量。	蘇瑞	我、我知道啦。\n爸爸對國內最棒的鍊金工房來說是不可或缺的人物。
+LegendEvent_01_011ID	13	Lydie	リディー	……スーちゃん。\n家族ってやっぱり、あったかいよね	Lydie	Hey, Sue? Family really is a nice, fuzzy feeling, huh?	莉迪	……小苏，\n家人果然很温暖呢。	莉迪	……小蘇。\n家人果然很溫暖呢。
+LegendEvent_01_011ID	14	Suelle	スール	うん。おじさんのこと、\nぜんぜん他人ごとじゃないよね。だから……	Suelle	Yep. That's exactly why we can't leave that gentleman's request to anyone else.	苏瑞	嗯，叔叔的委托绝对不是与我们无关的事。\n所以……	蘇瑞	嗯，叔叔的事情我們無法放任不管。\n所以……
+LegendEvent_01_011ID	15	Lydie	リディー	絶対にあのテーブルを直そうね、スーちゃん！	Lydie	We're definitely going to fix that table!	莉迪	小苏，我们一定要修好那张石桌！	莉迪	我們絕對要修好那張桌子喔，小蘇！
+LegendEvent_01_011ID	16	Suelle	スール	おうよ！　できなきゃ双子の名が廃るもんね！	Suelle	Yeah! If we don't, our good names will be ruined!	苏瑞	好！不然我们双胞胎就要名声扫地了！	蘇瑞	當然！不然就有損雙胞胎之名了！
+LegendEvent_01_011ID	17	Valeria	ヴァレリア	あら、二人とも起きてたの？	Valeria	Huh? You're both still awake?	瓦莱莉娅	哎呀，你们还没睡？	瓦萊莉婭	哎呀，妳們兩個都醒著嗎？
+LegendEvent_01_011ID	18		リディー＆スール	ヴァレリアさん！	Lydie & Suelle	Valeria!	莉迪&苏瑞	瓦莱莉娅小姐！	莉迪＆蘇瑞	瓦萊莉婭小姐！
+LegendEvent_01_011ID	19	Valeria	ヴァレリア	ごめんね。声がしたものだから。\nそれで、何かあったの？	Valeria	Sorry, I heard voices so I came to check it out. What's up?	瓦莱莉娅	抱歉，我听见有声音就过来了。\n发生什么了？	瓦萊莉婭	抱歉，因為我聽到說話聲。\n發生什麼事了？
+LegendEvent_01_011ID	20	Lydie	リディー	ええと、ちょっと家族のことを思い出してたんです	Lydie	Oh, um... We were just reminiscing about family.	莉迪	唔，我们在回忆跟家人的过去。	莉迪	其實，我們在回憶家人的事情。
+LegendEvent_01_011ID	21	Valeria	ヴァレリア	そっか……いいものよね、家族って	Valeria	Hm... That sounds nice.	瓦莱莉娅	这样啊……家人是很珍贵的吧。	瓦萊莉婭	這樣啊……有家人是件好事呢。
+LegendEvent_01_011ID	22	Valeria	ヴァレリア	私は昔の記憶がないから、\nハイディたちが家族ってところなんだけど	Valeria	I lost my memories, so Heidi and the others became my family.	瓦莱莉娅	我没有过去的记忆，\n所以海蒂他们就是我的家人。	瓦萊莉婭	我沒有以前的記憶，\n所以海蒂他們就是我的家人。
+LegendEvent_01_011ID	23	Lydie	リディー	ふふ、ヴァレリアさんたちも素敵な家族ですよね。\nここにお邪魔して、すっごく伝わってきました！	Lydie	Hehe, I think they're a great family to have! And we've had first-hand experience getting to know them!	莉迪	呵呵，瓦莱莉娅小姐你们也是很棒的一家啊。\n我们来做客之后很快就深刻体会到这点了！	莉迪	呵呵，瓦萊莉婭小姐也擁有很棒的家人呢。\n來到這裡叨擾後，我能深刻體會到這一點！
+LegendEvent_01_011ID	24	Valeria	ヴァレリア	ありがと。それでね、二人の頑張りたいって\n気持ちも分かるつもりだし、応援したいの	Valeria	Thanks. Anyway, I understand that you want to do your best, so I'd like to help support you guys.	瓦莱莉娅	谢谢你的夸奖。\n我也明白你们想努力做到最好，所以想帮助你们。	瓦萊莉婭	謝謝妳。所以，我明白妳們兩個想努力的心情，\n我打算協助妳們。
+LegendEvent_01_011ID	25	Valeria	ヴァレリア	明日、早速ハイネ州に向かうんでしょ？\n私も一緒に行くわ	Valeria	You're heading out for Haine first thing tomorrow, right? I'll go with you.	瓦莱莉娅	你们明天就要赶往海涅州吧？\n我也会一起去的。	瓦萊莉婭	妳們明天就要前往海涅州吧？\n我也會一起去。
+LegendEvent_01_011ID	26	Suelle	スール	ホントですか！？　やったぁ！	Suelle	You really mean it?! Yaaay!	苏瑞	真的吗？！太好啦！	蘇瑞	真的嗎！？太好了！
+LegendEvent_01_011ID	27	Valeria	ヴァレリア	それから、みんなにも手伝ってもらいましょ！\nハイネライトのことは、フロッケが一番詳しそうだし	Valeria	We can get everyone to help! Flocke knows more about hainelight than any of us, for starters.	瓦莱莉娅	然后让大家也来帮忙吧！\n芙洛可似乎很了解海涅之光。	瓦萊莉婭	也順便找大家來幫忙吧！\n畢竟芙洛可應該是最了解海涅之光的人。
+LegendEvent_01_011ID	28	Valeria	ヴァレリア	ハイディとランツェもやるときはやるし、\n頼りにしちゃっていいわよ。もちろん、私もね！	Valeria	And Heidi and Lanze are great if you get into any tough spots. I am, too!	瓦莱莉娅	海蒂跟兰泽在关键时刻也是很可靠的，\n你们大可以依靠他们。当然还有我！	瓦萊莉婭	海蒂和藍澤在關鍵時刻也會挺身而出，\n儘管依靠他們沒關係。當然，我也是喔！
+LegendEvent_01_011ID	29	Lydie	リディー	ありがとうございます、ヴァレリアさん！\nみんなで頑張りましょう！	Lydie	Thank you so much, Valeria! We'll all do our best together!	莉迪	谢谢你， 瓦莱莉娅小姐！\n我们一起加油吧！	莉迪	謝謝妳，瓦萊莉婭小姐！\n大家一起加油吧！
+LegendEvent_01_012ID	0	Suelle	スール	うわあ……これはまたすごい場所だね、リディー	Suelle	Whoa... Lydie, we've stumbled into another amazing area.	苏瑞	哇……这个地方也好厉害啊，莉迪。	蘇瑞	哇啊……這地方也很不得了耶，莉迪。
+LegendEvent_01_012ID	1	Lydie	リディー	うん。上ばっかり見てると危ないよ。\n足元に気を付けて、スーちゃん	Lydie	Yes, but it's dangerous to keep looking up like that all the time, Sue. Make sure to watch your step, okay?	莉迪	嗯。小苏，别光看上面，\n要注意脚下。	莉迪	嗯，只注意上面會很危險。\n要小心腳下喔，小蘇。
+LegendEvent_01_012ID	2	Valeria	ヴァレリア	ここにそのハイネライトってのがあるのね	Valeria	So, we should be able to find hainelight here?	瓦莱莉娅	这里就能找到那个海涅之光吧。	瓦萊莉婭	那個海涅之光就在這裡吧。
+LegendEvent_01_012ID	3	Flocke	フロッケ	はい。この地域は元々、埋蔵量が多くて、\n地熱の影響で光って目立つそうですよ	Flocke	Yep! This area has a lot of ore deposits to start with, and the geothermal heat should light them up, making them easy to spot.	芙洛可	是的，这一带本来就有不少储量，\n而且它们在地热的作用下会发光，很显眼。	芙洛可	對，據說這個地區本來蘊藏量就很多。\n而且受到地熱影響，閃閃發光的樣子十分顯眼。
+LegendEvent_01_012ID	4	Lanze	ランツェ	なるほどな。それなら無闇に探さなくても\nどうにかなるか	Lanze	Ah, I get you. We oughta stumble across some no matter where we walk.	兰泽	这样啊，那不用一通乱找也能找到了。	藍澤	原來如此，\n那就不需要瞎找了。
+LegendEvent_01_012ID	5	Suelle	スール	なーんだ。じゃあすぐ見つかりますね！	Suelle	Say whaaat! This is going to be a piece of cake!	苏瑞	我还以为会很难找呢，这样很快就能找到吧！	蘇瑞	什～麼嘛，那很快就能找到了嘛！
+LegendEvent_01_012ID	6	Flocke	フロッケ	あ、実はそれが……	Flocke	Um, actually...	芙洛可	啊，其实……	芙洛可	啊，其實……
+LegendEvent_01_012ID	7	Lydie	リディー	な、何か問題があるんですか……？	Lydie	I-Is there some kind of problem?	莉迪	有、有什么问题吗……？	莉迪	有、有什麼問題嗎……？
+LegendEvent_01_012ID	8	Flocke	フロッケ	簡単に見つかるのはもう採掘されているみたいで、\n人が立ち入っていない所を探す必要があるんです	Flocke	Apparently, all the easy-to-find ore has already been mined. The rest is in places that aren't exactly fun for folks to get to.	芙洛可	能轻松找到的都已经被挖光了，\n我们得去找那种没人去过的地方。	芙洛可	能輕易發現的好像都被採得差不多了，\n我們必須去無人到達之處探索才行。
+LegendEvent_01_012ID	9	Flocke	フロッケ	それに光っていても、よほど大きな石じゃないと\n昼のうちはさすがに分からないと思います	Flocke	And the stones do glow, but it's going to be tough to spot during the day unless it's a big one.	芙洛可	而且它们虽然会发光，但如果不是特别大的石头，\n在白天还是很难靠光来找出它们的。	芙洛可	還有，就算閃閃發光，如果不是特別大顆的礦石，\n在大白天裡依舊很難辨認。
+LegendEvent_01_012ID	10	Heidi	ハイディ	ってことは、このヤバそうなとこをさらに奥に行って\nしかも夜探せってこと？	Heidi	So, basically, we should trek deeper into this risky place and wait for night to come?	海蒂	也就是说要继续深入这个让人心里发毛的地方，\n而且还要在晚上探索？	海蒂	意思是，我們不但要繼續往可怕的深處前進，\n還得在入夜後尋找嗎？
+LegendEvent_01_012ID	11	Heidi	ハイディ	物騒な魔物だってうろうろしてんのに、\n採れる所に行くまでが相当、大変じゃん！	Heidi	With all these monsters prowling around, that's going to be easier said than done!	海蒂	这里有危险的魔物四处游荡，\n要到达能采集到石头的地方怕是很难吧！	海蒂	考量到四處徘徊的危險魔物，\n抵達採礦地點並不是一件輕鬆的事！
+LegendEvent_01_012ID	12	Flocke	フロッケ	そういうことになりますね。\nかなりの危険がつきまとうと思います……	Flocke	Yeah, that's pretty much it. I know it's going to be awfully dangerous, but...	芙洛可	确实是这样。\n要冒很大的风险……	芙洛可	說得沒錯。\n一路上應該會遇到不少危險……
+LegendEvent_01_012ID	13	Valeria	ヴァレリア	魔物は私がぶっ飛ばすからいいとして……\n結構険しい道よね。二人は平気？	Valeria	I don't mind sending a bunch of monsters flying. Still, this path is pretty steep. Are you two okay with that?	瓦莱莉娅	我会揍飞魔物，这点不用担心……\n但路途会很艰险，你们两个没问题吧？	瓦萊莉婭	解決魔物這件事就交給我……\n即使如此，這條路走起來依舊不容易，妳們沒問題吧？
+LegendEvent_01_012ID	14	Lydie	リディー	大丈夫です！	Lydie	Absolutely!	莉迪	没问题！	莉迪	沒問題！
+LegendEvent_01_012ID	15	Suelle	スール	あたしたちに任せて！	Suelle	Don't worry, we've got this!	苏瑞	交给我们吧！	蘇瑞	交給我們吧！
+LegendEvent_01_012ID	16	Lanze	ランツェ	任せて……って、ほんとかよ	Lanze	Huh. You're actually doin' just fine.	兰泽	交给你们……真的假的啊。	藍澤	交給妳們……妳們是認真的嗎？
+LegendEvent_01_012ID	17	Lydie	リディー	私たち、元いた世界ではもっと危なそうな所にも\nたくさん行ったので	Lydie	We've been to way more dangerous places than this back home.	莉迪	我们在原本的世界生活的时候，\n去过很多次比这里还危险的地方。	莉迪	還在原本的世界時，\n我們去過很多更危險的地方。
+LegendEvent_01_012ID	18	Suelle	スール	ささ、そうと決まれば早く石がありそうな\n所に行きましょう！	Suelle	Come on, let's hurry up and head to where those stones are!	苏瑞	好啦，既然都这么定了，\n那就快去能采集到石头的地方吧！	蘇瑞	好，既然決定了，\n那我們快點前往可能發現礦石的地方吧！
+LegendEvent_01_012ID	19	Heidi	ハイディ	なんだかすごいね、この二人……	Heidi	Wow, those two really are something.	海蒂	感觉她们两个好厉害啊……	海蒂	這兩個人真是厲害啊……
+LegendEvent_01_013ID	0	Flocke	フロッケ	この辺りは良さそうな気がします	Flocke	This place looks like it might be good!	芙洛可	这附近好像有希望。	芙洛可	這一帶似乎不錯。
+LegendEvent_01_013ID	1	Lanze	ランツェ	おいおい、周り敵だらけだぜ。\nさすがに危なくねえか、天使ちゃん？	Lanze	Whoa, hold up. There are enemies skulkin' about. Doesn't that look a bit worryin' to you, angel?	兰泽	喂，那周围都是敌人啊。\n小天使，这也太危险了吧？	藍澤	喂喂，周遭都是敵人啊。\n這裡不會太危險嗎，小天使？
+LegendEvent_01_013ID	2	Flocke	フロッケ	そうですね……。\nでも、だからこそ、なんです	Flocke	Yeah, but that's exactly why it's a great spot.	芙洛可	确实是这样……\n但正因为有很多敌人才要过去。	芙洛可	確實沒錯……\n但這正是我選擇這裡的理由。
+LegendEvent_01_013ID	3	Lydie	リディー	そっか、こんな場所だから、\nやって来る人が少ないってことですね！	Lydie	Oh, I get it! Because that means that hardly anyone comes here!	莉迪	对哦，肯定很少有人去那种地方！	莉迪	我懂了。因為危機四伏，\n所以人跡罕至！
+LegendEvent_01_013ID	4	Valeria	ヴァレリア	荒らされてない分、石を見つけやすいってことね	Valeria	And because it hasn't been picked over, that should make searching that much easier.	瓦莱莉娅	这里没什么开采痕迹，应该很快就能找到石头。	瓦萊莉婭	受到的人為破壞愈少，就愈容易發現礦石。
+LegendEvent_01_013ID	5	Suelle	スール	よーし、それじゃあ早速始めよう、リディー！	Suelle	All right! Let's get to it, Lydie!	苏瑞	好了，那就开始吧，莉迪！	蘇瑞	好～莉迪，那我們就趕快開始吧！
+LegendEvent_01_013ID	6	Lydie	リディー	うん！	Lydie	Yeah!	莉迪	嗯！	莉迪	嗯！
+LegendEvent_01_013ID	7	Valeria	ヴァレリア	よーし。私たちも頑張りましょ！	Valeria	Okay! We'll do our part, too!	瓦莱莉娅	好，我们也要加油！	瓦萊莉婭	好～我們也加油吧！
+LegendEvent_01_013ID	8	Lanze	ランツェ	天使ちゃんがケガしちまう前に、終わらせねえとな	Lanze	Let's get this done and over with, before our little angel gets hurt.	兰泽	要速战速决，别让小天使受伤了。	藍澤	得在小天使受傷前結束才行啊。
+LegendEvent_01_013ID	9	Suelle	スール	うーん……	Suelle	Hmm...	苏瑞	唔……	蘇瑞	唔……
+LegendEvent_01_013ID	10	Lydie	リディー	これは……	Lydie	Not this one.	莉迪	这是……	莉迪	這是……
+LegendEvent_01_013ID	11	Lydie	リディー	……ぜんぜん見つからないね。スーちゃんは？	Lydie	I'm not seeing anything. How about you, Sue?	莉迪	……完全找不到啊，小苏呢？	莉迪	……完全找不到耶。小蘇妳呢？
+LegendEvent_01_013ID	12	Suelle	スール	こっちもダメー。小さい欠片を１個だけ見つけたけど\nこんなんじゃ、ぜんぜん使えないよ	Suelle	Nope, I'm not having any luck. I found a tiny fragment of one, but nothing we could actually use.	苏瑞	我也没找到，小碎片倒是有一片，\n可这个完全没法用啊。	蘇瑞	我也毫無進展。雖然找到了一小塊碎片，\n但這個大小完全不能用啊。
+LegendEvent_01_013ID	13	Flocke	フロッケ	やっぱり暗くならないと難しそうですね	Flocke	It really is too hard to look for these during the day.	芙洛可	果然还是要在昏暗的环境下找啊。	芙洛可	果然很難在天色變暗前發現呢。
+LegendEvent_01_013ID	14	Heidi	ハイディ	じゃあここで夜になるのを待つしかないかー	Heidi	I guess there's nothing to do but sit here and wait for it to get dark, huh?	海蒂	那只能在这里等到天黑了。	海蒂	只好在這裡等到晚上了嗎～
+LegendEvent_01_013ID	15	Lanze	ランツェ	やれやれ、仕方ねえか……	Lanze	Yeesh, this is gonna take ages.	兰泽	唉，真没办法……	藍澤	哎呀，也只能這樣了……
+LegendEvent_01_013ID	16	Valeria	ヴァレリア	ねえ、みんな。あっちの魔物は大体倒したわよ。\nそこなら夜まで待ってても安全じゃない？	Valeria	Hey guys! I cleared out most of the monsters over that way, so why don't we take a break over there? It should be safe enough.	瓦莱莉娅	各位，那边的魔物我们已经收拾得差不多了。\n在那里等到天黑也会安全点吧？	瓦萊莉婭	大家聽我說，那邊的魔物大致上都被我打倒了。\n在那邊應該可以安全地待到晚上吧？
+LegendEvent_01_013ID	17	Heidi	ハイディ	元気だねえ、相棒……。\nそんなら、休憩させてもらいますか	Heidi	You sure are in high spirits, partner. Okay, let's take that break!	海蒂	搭档，你精神真好啊……\n那就让我们先休息一下吧。	海蒂	搭檔，你真是精力充沛……\n那我們去休息一下吧。
+LegendEvent_01_014ID	0	Lydie	リディー	ねえ、スーちゃん。今の間にハイネライトで\nどう調合するか考えとこうか	Lydie	Hey, Sue? Why don't we take a moment to talk about synthesizing the blue stone?	莉迪	小苏，我们趁现在想想\n该怎么用海涅之光进行调合吧。	莉迪	欸，小蘇，\n我們趁現在思考一下如何利用海涅之光來調合吧？
+LegendEvent_01_014ID	1	Suelle	スール	そうだね。さっき小さい欠片はあったし、\nなんとなーく参考になるかも……	Suelle	Good idea. I grabbed that little fragment, so maaaybe we can use it as a reference?	苏瑞	也对，既然找到了一小块碎片，\n总归是能拿来参考的吧……	蘇瑞	說得也是，剛才撿到了一小塊，\n或許能作為參考……
+LegendEvent_01_014ID	2	Heidi	ハイディ	休憩中なのに頑張るねえ、お二人さん	Heidi	Wow, you're not even stopping for a breather? Dang, ladies.	海蒂	你们在休息的时候也很努力呢。	海蒂	明明是休息時間，妳們兩個還這麼努力啊。
+LegendEvent_01_014ID	3	Lanze	ランツェ	テーブルを直したい、だったか？　特別な依頼って\nわけでもなさそうだが、随分思い入れがあるんだな	Lanze	Y'all said you were fixin' a table, right? That sounds like a normal enough request, so I'm guessing it's got a lot of sentimental value?	兰泽	我记得你们是要修桌子吧？\n听起来也不像是特殊委托，你们还挺上心的。	藍澤	我記得妳們想把桌子修好？雖然不是特殊的委託，\n卻十分用心呢。
+LegendEvent_01_014ID	4	Suelle	スール	ふっふっふ！　それは！　あのおじさんの\n家族の思い出を守ってあげたいから！	Suelle	Heh heh heh! That's right! And we're the ones who are going to help preserve those family memories!	苏瑞	呵呵！那是因为\n我们要守护那个叔叔跟家人的回忆！	蘇瑞	呵呵！這是因為！\n我們想守護那個叔叔的家族回憶！
+LegendEvent_01_014ID	5	Lydie	リディー	私たち、子どもの頃、お母さんにいっぱい遊んで\nもらって育ったんですけど	Lydie	When we were little, our mom raised us with plenty of fun and games.	莉迪	在我们小的时候，\n一直是妈妈照料我们，陪我们玩耍。	莉迪	小時候媽媽常陪我們玩，\n我們是在她的陪伴下長大的。
+LegendEvent_01_014ID	6	Lydie	リディー	お母さん、病気で死んじゃって……	Lydie	Until she got sick and passed away.	莉迪	但是后来妈妈因病去世了……	莉迪	但媽媽生病過世了……
+LegendEvent_01_014ID	7	Valeria	ヴァレリア	そうだったのね……	Valeria	I'm so sorry to hear that.	瓦莱莉娅	这样啊……	瓦萊莉婭	原來是這樣啊……
+LegendEvent_01_014ID	8	Suelle	スール	だけど、家族で過ごした思い出は無くなりません！\n今もずっと大事にしてます！	Suelle	But! Our memories of her are still here! And they're still really important to us!	苏瑞	不过，家人一起留下的回忆是不会消失的！\n我们现在也很珍惜那些回忆！	蘇瑞	不過，和家人共度的回憶不會消失！\n我們一直到現在都很珍惜！
+LegendEvent_01_014ID	9	Lydie	リディー	だから、あのおじさんの家族との思い出が詰まった\nテーブルも、なんとか元通りにしてあげたいんです	Lydie	That's why we want to do whatever we can to fix that gentleman's table and keep those family memories alive.	莉迪	所以，我们也想努力修好那张\n承载着叔叔与家人回忆的桌子！	莉迪	所以我們想要協助叔叔，\n盡可能修復那張充滿家族回憶的桌子。
+LegendEvent_01_014ID	10	Lydie	リディー	確かに、ハイネライトを見つけるのは\nすごく大変で危ないですけど……	Lydie	Sure, looking for hainelight is tough and dangerous work, but...	莉迪	海涅之光确实不好找，\n也很危险……	莉迪	要找到海涅之光\n確實非常辛苦，也伴隨著危險……
+LegendEvent_01_014ID	11	Suelle	スール	でも、そこで諦めるあたしたちじゃない！	Suelle	We can't let that stop us!	苏瑞	但我们是不会这么轻易放弃的！	蘇瑞	但我們不會就此放棄！
+LegendEvent_01_014ID	12	Suelle	スール	お母さんと約束その１！\n「やる前から無理って諦めない！」	Suelle	"Because the very first promise we made to our mom was, ""Never quit before you've even started!"""	苏瑞	与母亲的约定，第1条！\n“不要还没开始做就灰心放弃！”	蘇瑞	和媽媽的約定之一！\n「不可以在開始前就打退堂鼓！」
+LegendEvent_01_014ID	13	Lydie	リディー	お母さんとの約束が……家族との思い出があるから\n私たち、頑張れるんです！	Lydie	And the promises we made with Mom remind us of our family, which means that we'll work extra hard!	莉迪	与母亲的约定……还有与家人的回忆\n带给我们继续努力的力量！	莉迪	因為和媽媽約定好了……這些關於家人的回憶，\n是讓我們能夠持續努力的動力！
+LegendEvent_01_014ID	14	Heidi	ハイディ	へえ、立派なもんだね	Heidi	Huh, that's pretty incredible.	海蒂	哦，真了不起啊。	海蒂	哦，真是了不起。
+LegendEvent_01_014ID	15	Lanze	ランツェ	だな。聞いたか、ヴァレリア？\nお前も飯ばっか食ってねえで見習えよ	Lanze	Did ya hear that, Valeria? You oughta follow their example instead of stuffin' food down your gullet all the time.	兰泽	是啊，听见了吗，瓦莱莉娅？\n你也别光顾着吃，跟她们学学吧。	藍澤	是啊。聽到了嗎？瓦萊莉婭。\n別只顧著吃飯，好好向人家學習一下。
+LegendEvent_01_014ID	16	Valeria	ヴァレリア	た、食べてばっかりじゃないわよ。\nでもそうね……もう少しちゃんとしようかしら	Valeria	H-Hey! That's not the only thing I do! But, well... I guess I could try a little harder.	瓦莱莉娅	我、我才没有光顾着吃。\n不过……我也是该认真点了。	瓦萊莉婭	我、我又沒有只顧著吃飯。\n不過，說得也是……我該稍微振作一點了。
+LegendEvent_01_014ID	17	Lydie	リディー	ふふ。ランツェさんって、本当にヴァレリアさんの\nお父さんみたいですね	Lydie	Hehe. Lanze, you really do sound like you could be Valeria's dad.	莉迪	呵呵，\n兰泽先生真的像瓦莱莉娅小姐的爸爸一样。	莉迪	呵呵，\n藍澤先生真的好像瓦萊莉婭的爸爸喔。
+LegendEvent_01_014ID	18	Suelle	スール	うんうん。うちのバカ親父も、これくらい\nしっかりしててほしいよー	Suelle	Mhm. I wish our dad could pull himself together half as much.	苏瑞	嗯嗯，要是我们的笨蛋老爸能有这么可靠就好了。	蘇瑞	嗯嗯，\n真希望我家的笨蛋老爸也能這麼可靠～
+LegendEvent_01_014ID	19	Heidi	ハイディ	いやいや。それは買いかぶりすぎだって	Heidi	Whoa, no. You're giving him WAY too much credit.	海蒂	不不不，那你就太高看他了。	海蒂	不不不，妳太看得起他了。
+LegendEvent_01_014ID	20	Heidi	ハイディ	なにせおっさん、元々は酒浸りのダメ人間\nだったんだから	Heidi	For the longest time, this guy was just a good-for-nothing who drank all day.	海蒂	大叔之前可是个成天酗酒的废人。	海蒂	畢竟大叔他啊，\n原本可是個酗酒的廢柴呢。
+LegendEvent_01_014ID	21	Valeria	ヴァレリア	あ！　そうなのよ！　出会った頃はね……	Valeria	Yeah! Exactly! Well, at least for as long as I've known him.	瓦莱莉娅	啊！没错！我们刚遇见的时候……	瓦萊莉婭	啊！沒錯！剛遇到他的時候……
+LegendEvent_01_014ID	22	Lanze	ランツェ	お、おい！　余計なことは言うんじゃねぇよ！	Lanze	C-C'mon! You don't gotta go blabbin' about a guy's past like that!	兰泽	我、我说啊！别说多余的话！	藍澤	呃，喂！不要多嘴啦！
+LegendEvent_01_014ID	23	Flocke	フロッケ	ぷっ……あはは……	Flocke	Heh... Hehehe...	芙洛可	噗……啊哈哈……	芙洛可	噗……啊哈哈……
+LegendEvent_01_014ID	24	Heidi	ハイディ	くくく……あっははは！	Heidi	Kh-hah... Ahahaha!	海蒂	呵呵……哈哈哈哈！	海蒂	呵呵呵……啊哈哈哈！
+LegendEvent_01_014ID	25	Valeria	ヴァレリア	ふふ……あはははっ！	Valeria	Heh. Hahaha!	瓦莱莉娅	呵呵……哈哈哈！	瓦萊莉婭	噗哈……啊哈哈哈！
+LegendEvent_01_014ID	26	Lanze	ランツェ	わ、笑うんじゃねぇよ……	Lanze	I-It ain't THAT funny.	兰泽	别、别笑啊……	藍澤	這有什麼好笑的……
+LegendEvent_01_014ID	27	Lydie	リディー	やっぱり、ヴァレリアさんたちも\n素敵な家族だよね、スーちゃん	Lydie	I knew it. They really do make a great family, don't they?	莉迪	小苏，瓦莱莉娅小姐和家人们\n果然也是非常幸福的一家呀。	莉迪	瓦萊莉婭小姐他們果然是很棒的一家人呢，\n小蘇。
+LegendEvent_01_014ID	28	Suelle	スール	だね、リディー	Suelle	They really do!	苏瑞	是呀，莉迪。	蘇瑞	對呀，莉迪。
+LegendEvent_01_015ID	0	Lydie	リディー	スーちゃん！　見てあれ！	Lydie	Sue! Look over there!	莉迪	小苏！快看那个！	莉迪	小蘇！妳看那個！
+LegendEvent_01_015ID	1	Suelle	スール	うわー、すごい！\nこれがハイネライトの光ってやつ！？	Suelle	Whoa! Is that light coming from the hainlight?	苏瑞	哇，好厉害！\n这就是海涅之光吗？！	蘇瑞	哇～太驚人了！\n這就是海涅之光的光芒嗎！？
+LegendEvent_01_015ID	2	Flocke	フロッケ	わあ……どこを見ても光っていますね！	Flocke	Oh wow... There are glowing spots everywhere!	芙洛可	哇……四面八方都在发光呢！	芙洛可	哇……四周都閃閃發光呢！
+LegendEvent_01_015ID	3	Heidi	ハイディ	絶景ってやつだね！　こんな景色、\n私たち以外は誰も見たことないんじゃない？	Heidi	This is such a gorgeous scene! Do you think that maybe we're the only people who've ever seen it?	海蒂	这就是极致美景吧！\n除了我们之外应该没人看过这一幕吧？	海蒂	太壯觀了！\n除了我們之外，應該沒人見過這種光景吧？
+LegendEvent_01_015ID	4	Suelle	スール	……はっ！？　いけない、\nあまりに幻想的で、つい目的を忘れるところだった！	Suelle	Wh-Whoa! For a second, I was totally lost in this fabulous sight! That's no good, that's not what we came here for!	苏瑞	……啊？！不好，\n这场景太梦幻，看得差点忘了本来的目的！	蘇瑞	……啊！？糟糕，這景色太過夢幻，\n我差點就把目的給忘了！
+LegendEvent_01_015ID	5	Lydie	リディー	急いで石を集めよう、スーちゃん！	Lydie	Let's hurry and gather those stones, Sue!	莉迪	快去收集石头吧，小苏！	莉迪	快來蒐集礦石吧，小蘇！
+LegendEvent_01_015ID	6	Flocke	フロッケ	暗いからみんな気を付けてください！	Flocke	It's dark, so watch your step, everyone!	芙洛可	这里很暗，大家小心点！	芙洛可	周遭很暗，請大家小心！
+LegendEvent_01_015ID	7	Suelle	スール	リディーのほうはどんな感じ？\nあたしはすごいでっかいの見つけたよ。ほら！	Suelle	How are things on your end, Lydie? I found a super big one! Here, look!	苏瑞	莉迪那边怎么样？\n我找到了好大一块，看！	蘇瑞	莉迪妳那邊情況如何？\n我找到了很大顆的礦石喔，妳看！
+LegendEvent_01_015ID	8	Lydie	リディー	走ると危ないよ、スーちゃん！	Lydie	Don't run, Sue! You'll trip!	莉迪	别跑那么快，注意安全，小苏！	莉迪	小蘇不要跑，太危險了！
+LegendEvent_01_015ID	9	Suelle	スール	大丈夫だって！	Suelle	Don't worry, I'm fine!	苏瑞	没事的啦！	蘇瑞	放心啦！
+LegendEvent_01_015ID	10	Suelle	スール	わわっ	Suelle	Wh-Whoops!	苏瑞	哇啊！	蘇瑞	哇啊！
+LegendEvent_01_015ID	11	Lydie	リディー	スーちゃん！　言ったそばから……	Lydie	Sue! Honestly, what did I just say?	莉迪	小苏！我话刚说完你就这样……	莉迪	小蘇！我不是才提醒過你……
+LegendEvent_01_015ID	12	Suelle	スール	いやあ。あたしとしたことが、失敗……	Suelle	Goodness, I can't believe I slipped like that.	苏瑞	哎呀，我居然摔跤了……	蘇瑞	哎呀，是我大意了……
+LegendEvent_01_015ID	13	Lydie	リディー	ス、スーちゃん……！	Lydie	S-Sue!	莉迪	小、小苏……！	莉迪	小、小蘇……！
+LegendEvent_01_015ID	14	Valeria	ヴァレリア	スー！	Valeria	Watch out!	瓦莱莉娅	苏！	瓦萊莉婭	蘇！
+LegendEvent_01_015ID	15	Suelle	スール	へ？	Suelle	Huh?	苏瑞	啊？	蘇瑞	咦？
+LegendEvent_01_015ID	16	Lydie	リディー	やぁぁぁっ！	Lydie	Yaaaaaah!	莉迪	不要啊——！！	莉迪	呀啊啊啊！
+LegendEvent_01_015ID	17	Suelle	スール	お、おわぁぁぁぁっ！？	Suelle	Wh-Whoaaaaaa!	苏瑞	哇啊啊啊啊？！	蘇瑞	嗚、嗚哇啊啊啊啊！？
+LegendEvent_01_015ID	18	Valeria	ヴァレリア	二人とも、下がって！\n魔物は私がどうにかするから！	Valeria	Get back, you two! I'll handle this monster!	瓦莱莉娅	你们两个退后！\n我会处理魔物的！	瓦萊莉婭	妳們兩個退下！\n魔物交給我來解決！
+LegendEvent_01_015ID	19	Lydie	リディー	ヴァレリアさん、ありがとうございます。\nだけど……スーちゃん！	Lydie	Thank you Valeria, but... Sue!	莉迪	瓦莱莉娅小姐，谢谢你。\n但是……小苏！	莉迪	瓦萊莉婭小姐，謝謝妳。\n可是……小蘇！
+LegendEvent_01_015ID	20	Suelle	スール	うん！　魔物なんかに、邪魔されてたまるかっての！\nてやーーっ！	Suelle	Right! We're not going to let that beast get in our way! Taaake that!	苏瑞	嗯！我才不会让魔物来碍事呢！\n喝！	蘇瑞	嗯！怎麼可以被區區魔物阻撓！\n看我的──！
+LegendEvent_01_015ID	21	Lydie	リディー	こ、怖いことは怖いけど……やぁぁぁっ！	Lydie	I-I'm a little scared, but... Raaaaaah!	莉迪	虽、虽然很害怕……但是……呀——！	莉迪	雖、雖然很可怕……喝啊啊啊！
+LegendEvent_01_015ID	22	Suelle	スール	こちとら錬金術士ーーーーっ！	Suelle	We'll show you what alchemists can doooooo!	苏瑞	我好歹也是炼金术士——！	蘇瑞	我可是鍊金術士────！
+LegendEvent_01_015ID	23	Valeria	ヴァレリア	へえ、いい動き！\nなかなかやるじゃない！	Valeria	Hey, not bad! You guys have some skill!	瓦莱莉娅	哦，干得不错！\n你们还挺行的嘛！	瓦萊莉婭	哦，動作真俐落！\n身手挺不錯的嘛！
+LegendEvent_01_015ID	24	Valeria	ヴァレリア	それじゃ、私も――はぁぁぁっ！	Valeria	Now it's my turn! Yaaaaaah!	瓦莱莉娅	那我也来——哈！	瓦萊莉婭	那我也──喝啊啊啊！
+LegendEvent_01_015ID	25	Valeria	ヴァレリア	リディー！　スー！　行きましょ！	Valeria	Lydie! Sue! Let's go!	瓦莱莉娅	莉迪、苏！我们上！	瓦萊莉婭	莉迪！蘇！我們上！
+LegendEvent_01_015ID	26	Lydie	リディー	はいっ！	Lydie	Okay!	莉迪	好！	莉迪	好！
+LegendEvent_01_015ID	27	Suelle	スール	お任せっ！	Suelle	We've got this!	苏瑞	交给我吧！	蘇瑞	包在我身上！
+LegendEvent_01_016ID	0	Lydie	リディー	はぁ、はぁ……やったね、スーちゃん！	Lydie	*Huff* *Huff* Sue, we did it!	莉迪	呼、呼……太好了，小苏！	莉迪	呼、呼……成功了呢，小蘇！
+LegendEvent_01_016ID	1	Suelle	スール	よっしゃぁぁぁ！　	Suelle	Yeeeah!　	苏瑞	太好啦！　	蘇瑞	太棒啦！　
+LegendEvent_01_016ID	2	Suelle	スール	ありがとうございます、ヴァレリアさん！\nすっごくかっこよかったです！	Suelle	Thank you so much, Valeria! You looked so cool!	苏瑞	谢谢你， 瓦莱莉娅小姐！\n你战斗的样子特别帅气！	蘇瑞	謝謝妳，瓦萊莉婭小姐！\n妳真是太帥氣了！
+LegendEvent_01_016ID	3	Lydie	リディー	ヴァレリアさんのおかげで、無事に魔物を倒せました！	Lydie	Yeah! You made sure that we beat that monster without any trouble!	莉迪	多亏有瓦莱莉娅小姐在，我们顺利打倒了魔物！	莉迪	託瓦萊莉婭小姐的福，我們順利打倒魔物了！
+LegendEvent_01_016ID	4	Valeria	ヴァレリア	ありがと。二人もかっこよかったわよ！\nさあ、他の魔物が来る前にさっさと終わらせましょ	Valeria	Aw, it was nothing. Besides, you guys were just as good! But, let's get going before any more trouble comes our way.	瓦莱莉娅	多谢夸奖。你们也很帅气哦！\n好了，赶在别的魔物过来之前快收集石头吧。	瓦萊莉婭	謝謝，妳們兩個也很帥氣喔！\n我們得趕在其他魔物出現前完事才行。
+LegendEvent_01_016ID	5	Lydie	リディー	これで、必要な分は揃ったかな！	Lydie	There! That should be plenty of stones!	莉迪	这下应该够用了！	莉迪	如此一來，我們應該集滿所需數量了！
+LegendEvent_01_016ID	6	Valeria	ヴァレリア	素材、集め終わったのね！	Valeria	Great! We're all done gathering materials!	瓦莱莉娅	收集完素材了吧！	瓦萊莉婭	素材蒐集完畢了呢！
+LegendEvent_01_016ID	7	Suelle	スール	えへへ！　おかげさまで！　です！	Suelle	Ehehe! It was all thanks to you! For sure!	苏瑞	呵呵！这多亏了瓦莱莉娅小姐！	蘇瑞	嘿嘿！都是多虧了大家的協助！感謝！
+LegendEvent_01_016ID	8	Suelle	スール	……おっと。喜ぶのはもうちょっと後だった	Suelle	Wait, hang on. It's a little too early for celebrations.	苏瑞	……啊，现在高兴还早了一点。	蘇瑞	噢……現在開心還太早了。
+LegendEvent_01_016ID	9	Suelle	スール	これからが本番だよ。\nいよいよ調合だね、リディー	Suelle	This is where things really start! It's time to get to synthesizing, Lydie!	苏瑞	之后才是重头戏。\n莉迪，终于要调合了啊。	蘇瑞	接下來才是重頭戲。\n終於要開始調合了呢，莉迪。
+LegendEvent_01_016ID	10	Lydie	リディー	うん。気を引き締めて頑張らなきゃ	Lydie	Yep. We've got to focus now and get to work!	莉迪	嗯，这个一定得聚精会神去做才行。	莉迪	嗯，得集中精神好好努力才行。
+LegendEvent_01_017ID	0	Lydie	リディー	依頼人のおじさんから預かった\nテーブルを用意して……と	Lydie	Phew, okay. Here's the table from the request.	莉迪	先准备好委托人叔叔交给我们保管的桌子……	莉迪	將委託人叔叔交給我們的桌子\n準備好……
+LegendEvent_01_017ID	1	Valeria	ヴァレリア	調合、始めるのね。私も手伝うわ	Valeria	You're going to start synthesizing, right? Here, let me help.	瓦莱莉娅	然后就要开始调合了吧，我也来帮忙。	瓦萊莉婭	妳們要開始調合了呀？我也來幫忙吧。
+LegendEvent_01_017ID	2	Lydie	リディー	ありがとうございます！	Lydie	Thank you very much!	莉迪	谢谢你！	莉迪	謝謝妳！
+LegendEvent_01_017ID	3	Lydie	リディー	前回は上手くできなかったけど……。でも！	Lydie	The first time didn't go absolutely perfectly, but...	莉迪	虽然上一次不太顺利……	莉迪	雖然上次沒有成功……但是！
+LegendEvent_01_017ID	4	Suelle	スール	あたしたちが絶対に直してみせる！　だって……	Suelle	We're definitely going to fix this table! Because...	苏瑞	但是！我们绝对会修好的！因为……	蘇瑞	我們絕對會修好的！因為……
+LegendEvent_01_017ID	5		リディー＆スール	おじさんの願いを、叶えてあげたいから！	Lydie & Suelle	We want to make that gentleman's wish come true!	莉迪&苏瑞	我们要完成叔叔的委托！	莉迪＆蘇瑞	我們想要實現叔叔的心願！
+LegendEvent_01_017ID	6	Lydie	リディー	えっ？　あれっ？	Lydie	Hm? Huh?	莉迪	咦？奇怪？	莉迪	咦？奇怪了？
+LegendEvent_01_017ID	7	Suelle	スール	これって、まさか……。\nリディーも感じた！？	Suelle	Wait, is that...? Lydie, did you feel that?!	苏瑞	这难道是……\n莉迪，你也感受到了？！	蘇瑞	這該不會是……\n莉迪，妳也感覺到了嗎！？
+LegendEvent_01_017ID	8	Lydie	リディー	う、うん。ものすごくかすかに、\n一瞬だったから確証は持てないんだけど……	Lydie	Y-Yeah. It was faint and fleeting, so I couldn't say for sure, but...	莉迪	是、是的，虽然声音很小，\n但确实有听到一声，我也不太确定……	莉迪	呃，嗯。\n雖然非常微弱，而且是一瞬間的事，沒辦法很肯定……
+LegendEvent_01_017ID	9	Valeria	ヴァレリア	二人とも、どうしたの？	Valeria	What happened?	瓦莱莉娅	你们怎么了？	瓦萊莉婭	發生什麼事了？
+LegendEvent_01_017ID	10	Suelle	スール	今、素材の声が聞こえた気がしたんですよ！	Suelle	We just heard the materials speak!	苏瑞	我刚才好像听见了素材的声音！	蘇瑞	剛才，我們好像聽到素材的聲音了！
+LegendEvent_01_017ID	11	Lydie	リディー	てっきり、こっちでは聞こえないものだと\n思ってたけど	Lydie	We didn't think we'd be able to in this world. Like, not at all.	莉迪	本来还以为在这里肯定听不见呢。	莉迪	我還以為在這個世界\n絕對聽不到。
+LegendEvent_01_017ID	12	Suelle	スール	でも、そんなはずないよね	Suelle	Seems like we might be able to after all, huh?	苏瑞	不过，好像并不是这样呢。	蘇瑞	不過，事情不是那樣的。
+LegendEvent_01_017ID	13	Lydie	リディー	うん。だって、こんなに大事にされて、\n家族とずっと一緒に過ごしてきたテーブルだもん	Lydie	Yep. It IS a table that has spent ages being really well cared for by a loving family.	莉迪	嗯，毕竟这张桌子可是被如此爱惜，\n还跟叔叔一家一起度过了那么长的岁月。	莉迪	嗯，畢竟桌子的主人很珍惜它，\n又與家人共度了那麼長一段時間。
+LegendEvent_01_017ID	14	Lydie	リディー	この子にだって、願いがあるよね	Lydie	Of course it has a wish of its own.	莉迪	它肯定也有它的愿望。	莉迪	它也是有心願的。
+LegendEvent_01_017ID	15	Lydie	リディー	もしかしたら、私たちの想いを感じて、\n必死に声を上げてくれたのかな	Lydie	Maybe it could sense our determination and did its very best to make itself heard?	莉迪	它大概是感受到了我们的信念， \n所以才拼命发出了声音吧。	莉迪	說不定它拚了命也要發出聲音\n是因為感受到我們的心意了呢。
+LegendEvent_01_017ID	16	Suelle	スール	それなら、絶対この子の願い、\n叶えてあげないとね！	Suelle	In that case, we've got to make sure we make its dream come true!	苏瑞	那我们绝对要替它实现愿望呀！	蘇瑞	既然如此，\n我們絕對要實現它的願望！
+LegendEvent_01_017ID	17		リディー＆スール	「あの家族とずっと一緒にいたい！」	Lydie & Suelle	"""I want to stay with that family forever!"""	莉迪&苏瑞	“我想跟那家人永远在一起！”	莉迪＆蘇瑞	「想要一直陪伴那個家族！」
+LegendEvent_01_017ID	18	Lydie	リディー	もうちょっと待っててね	Lydie	Wait just a little bit longer, okay?	莉迪	你再稍微等一等哦。	莉迪	再稍等一下喔。
+LegendEvent_01_017ID	19	Suelle	スール	家族の所に、絶対帰してあげるから	Suelle	We'll definitely bring you back to your home!	苏瑞	我们绝对会让你回到家人身边的。	蘇瑞	絕對會讓你回到家人身邊的。
+LegendEvent_01_017ID	20	Valeria	ヴァレリア	……家族とずっと一緒にいたい、か	Valeria	It wants to stay with them forever, huh?	瓦莱莉娅	跟家人永远在一起……	瓦萊莉婭	想要一直待在家人身邊啊……
+LegendEvent_01_017ID	21	Valeria	ヴァレリア	私にもその気持ちは分かるわ。\nちょっと騒がしい、大切な場所。守りたい場所	Valeria	I get that. I've got a special place, too. It's a bit noisy, but I want to protect it.	瓦莱莉娅	我也明白那种心情。那个地方或许有些喧嚣，\n但是无比珍贵，是让人想要守护的地方。	瓦萊莉婭	我也明白這種心情。\n有點吵鬧但重要的地方，同時也是想守護的地方。
+LegendEvent_01_017ID	22	Valeria	ヴァレリア	私にも、その願いを叶える手伝い、させてね	Valeria	I'd like to help grant that wish, too.	瓦莱莉娅	也让我帮你们实现它的愿望吧。	瓦萊莉婭	我也來協助實現這個願望吧。
+LegendEvent_01_017ID	23	Lydie	リディー	家族との思い出は、あったかい光みたいなもの。\n絶対失わせたりしない	Lydie	Family memories are like a warm glow. We won't let them fade!	莉迪	与家人的回忆就像温暖的光芒，\n我绝对不会让它消失。	莉迪	與家人的回憶就像是溫暖的光芒，\n絕對不能失去。
+LegendEvent_01_017ID	24	Suelle	スール	もう一度、おじさんの家族が笑顔で過ごせるように。\nあたしたちの想いも、ありったけ込めて	Suelle	We'll make sure that gentleman keeps smiling with his family, just like they used to! And we'll put all our feelings into the table, too!	苏瑞	为了让叔叔的家人们能重新绽放笑容，\n将我们的念想悉数倾注其中。	蘇瑞	為了讓叔叔的家人能再次展露笑容，\n也把我們的心意灌注進去。
+LegendEvent_01_017ID	25	Lydie	リディー	スーちゃん……！	Lydie	Sue, we did it!	莉迪	小苏……！	莉迪	小蘇……！
+LegendEvent_01_017ID	26	Suelle	スール	うん！　大成功だね！	Suelle	Yeah! It was a huge success!	苏瑞	嗯，十分成功！	蘇瑞	嗯！成功了呢！
+LegendEvent_01_018ID	0	Lydie	リディー	それじゃあ、明かりを置きますね……	Lydie	Now we just have to set a lamp on top of it, and...	莉迪	那我就把光源放上去了……	莉迪	那我來把照明擺上去……
+LegendEvent_01_018ID	1	Suelle	スール	あっ……！	Suelle	Oh!	苏瑞	啊……！	蘇瑞	啊……！
+LegendEvent_01_018ID	2	Valeria	ヴァレリア	本当に、光ってる……	Valeria	It really is glowing.	瓦莱莉娅	它真的在发光……	瓦萊莉婭	真的在發光……
+LegendEvent_01_018ID	3	Ryza	ライザ	すごいね、あたしもこんなの初めて見たよ	Ryza	Wow, I've never seen anything like it.	莱莎	真厉害啊，我也是头一次见。	萊莎	好厲害，這景象我也是第一次看到呢。
+LegendEvent_01_018ID	4	Lydie	リディー	綺麗……。それに、すごく神秘的な光……	Lydie	It's beautiful. What an enchanting light...	莉迪	好美的光芒……而且还散发着强烈的神秘感……	莉迪	真漂亮……而且這光芒有種神秘的氛圍……
+LegendEvent_01_018ID	5		依頼人	…………	Client	...	委托人	……	委託人	…………
+LegendEvent_01_018ID	6	Suelle	スール	……それで、これはどうですか？　成功ですか？	Suelle	So? How is it? Did we get it right this time?	苏瑞	……那这个怎么样？算是成功吗？	蘇瑞	所以……成果如何？我們成功了嗎？
+LegendEvent_01_018ID	7		依頼人	あ、ああ。間違いない。この光だよ、私の思い出の\n中にあった、家族を包んでいた光は……！	Client	Yes, you did. It's unmistakable. This is the exact same glow that I remember seeing my family sitting in, night after night.	委托人	当、当然，不会有错，就是这道光。\n这正是我记忆中的、笼罩着家人的光……！	委託人	是、是的，錯不了。就是這個光芒，\n在我的回憶中，籠罩著家人的光芒……！
+LegendEvent_01_018ID	8	Lydie	リディー	…………！　スーちゃん！	Lydie	*Gasp* Sue!	莉迪	……！小苏！	莉迪	……小蘇！
+LegendEvent_01_018ID	9	Suelle	スール	リディー！	Suelle	Lydie!	苏瑞	莉迪！	蘇瑞	莉迪！
+LegendEvent_01_018ID	10		リディー＆スール	やったぁぁっ！	Lydie & Suelle	Yaaay! We did it!	莉迪&苏瑞	太好了！	莉迪＆蘇瑞	太好了～！
+LegendEvent_01_018ID	11		依頼人	錬金術で、こんなことができてしまうんだね。\nまたこのテーブルを使えるなんて、夢のようだ	Client	So, that's the power of alchemy? Being able to use this table again is a dream come true.	委托人	炼金术居然这么厉害。\n还能继续用这张桌子，真像做梦一样。	委託人	鍊金術居然可以做到這種事。\n沒想到能再次使用這張桌子，簡直像作夢一樣。
+LegendEvent_01_018ID	12	Suelle	スール	くふふ！　これからも、じゃんじゃん\n思い出を増やしてくださいね！	Suelle	Hehe! We hope you make plenty more memories with it!	苏瑞	呵呵！今后请继续创造新的回忆吧！	蘇瑞	呵呵！\n接下來也要創造更多回憶喔！
+LegendEvent_01_018ID	13		依頼人	本当に、なんとお礼を言えばいいのか。\n家族の思い出を守ってくれたこと、心から感謝するよ	Client	Really, I don't know how to thank you. From the bottom of my heart, I really appreciate all the effort that you went through to preserve my family's memories.	委托人	我真不知道该怎么谢你们才好。\n感谢你们守护了我与家人的回忆。	委託人	該如何答謝妳們才好呢？\n我由衷感謝妳們守護了我與家人的回憶。
+LegendEvent_01_018ID	14	Valeria	ヴァレリア	やったわね、リディー！　スー！	Valeria	Great job, you two!	瓦莱莉娅	莉迪、苏，太好了！	瓦萊莉婭	太好了，莉迪！蘇！
+LegendEvent_01_018ID	15	Lydie	リディー	ヴァレリアさんにはたくさん手伝ってもらいました！\n本当にありがとうございました	Lydie	We couldn't have done it without your help, Valeria! Thank you so much!	莉迪	瓦莱莉娅小姐也帮了我们很多！\n实在是太感谢你了！	莉迪	瓦萊莉婭小姐也幫了我們很多忙！\n真的非常謝謝妳。
+LegendEvent_01_018ID	16	Lydie	リディー	おかげで、無事に踏み出せました。この世界でも、\n「みんなのための錬金術士」の第一歩を！	Lydie	You got us started down the right path. We're going to get closer to being great alchemists who help everyone, even in this world!	莉迪	多亏了你，我们在这个世界里也朝着\n“为他人奉献的炼金术士”这个目标迈出了第一步！	莉迪	我們能順利前進都是多虧了妳。\n我們以成為「幫助世人的鍊金術士」為目標，在這個世界踏出第一步了！
+LegendEvent_01_018ID	17	Suelle	スール	おじさん、すっごく嬉しそうだったなぁ	Suelle	That gentleman really was overjoyed, huh?	苏瑞	叔叔看起来很开心啊。	蘇瑞	叔叔看起來非常開心呢。
+LegendEvent_01_018ID	18	Suelle	スール	……うん！　違う世界に飛ばされちゃっても、\nあたしたちが目指すものは変わらないんだ	Suelle	Okay, that settles it! We might've been sent to another world, but our goal is still the same.	苏瑞	……嗯！就算来到了其他世界，\n我们的目标也不会有丝毫改变。	蘇瑞	……嗯！即便穿越到不同的世界，\n我們的目標依舊不變。
+LegendEvent_01_018ID	19	Lydie	リディー	錬金術の力で……	Lydie	With the power of alchemy...	莉迪	要用炼金术的力量……	莉迪	用鍊金術的力量……
+LegendEvent_01_018ID	20		リディー＆スール	世界中のみんなを幸せにするっ！	Lydie & Suelle	...We're going to bring happiness to everyone around us!	莉迪&苏瑞	为全世界的人带来幸福！	莉迪＆蘇瑞	讓全世界的人們獲得幸福！
+LegendEvent_01_018ID	21	Suelle	スール	ということで、ヴァレリアさん。\nあたしたち、また新しい依頼を探してきますね	Suelle	So, Valeria! It's time for us to go find some new requests!	苏瑞	所以，瓦莱莉娅小姐，\n我们要去接受新的委托了。	蘇瑞	所以，瓦萊莉婭小姐，\n我們會繼續尋找新的委託。
+LegendEvent_01_018ID	22	Lydie	リディー	目標に向かって、\nまずは依頼をコツコツこなしていかなくちゃ！	Lydie	Mhm. We've got to do a whole bunch of them if we want to reach our goal!	莉迪	首先要朝着目标迈进，\n一步一个脚印地完成委托！	莉迪	為了達成目標，\n必須先一步一腳印踏實完成委託才行！
+LegendEvent_01_018ID	23	Valeria	ヴァレリア	二人とも気合入りまくりね。頑張ってね！	Valeria	You're both really fired up about this, huh? Good luck!	瓦莱莉娅	你们都充满了干劲呢，加油！	瓦萊莉婭	妳們兩個都卯足了勁呢，要加油喔！
+LegendEvent_01_018ID	24	Suelle	スール	えへへ。ありがとうございます！	Suelle	Ehehe. Thank you very much!	苏瑞	嘿嘿，谢谢你！	蘇瑞	嘿嘿，謝謝妳！
+LegendEvent_01_018ID	25	Lydie	リディー	それじゃあ……行こう、スーちゃん！	Lydie	On that note... Are you ready, Sue?	莉迪	那……我们走吧，小苏！	莉迪	那……我們走吧，小蘇！
+LegendEvent_01_018ID	26	Suelle	スール	うん、リディー！　いざ、しゅっぱーつ！	Suelle	You know it, Lydie! Let's gooo!	苏瑞	嗯，莉迪！出发吧！	蘇瑞	嗯，莉迪！現在就出發！

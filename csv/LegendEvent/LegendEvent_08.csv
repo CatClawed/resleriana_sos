@@ -1,0 +1,505 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_08_001ID	0	Roman	ロマン	君たち錬金術士のおかげで国のみんなが助かってる。\nいつも本当にありがとう						
+LegendEvent_08_001ID	1	Firis	フィリス	そんなそんな！\nわたしたちはちょっとお手伝いしてるだけですよ！						
+LegendEvent_08_001ID	2	Ryza	ライザ	そうです！　そんな恐れ多いですよ！						
+LegendEvent_08_001ID	3	Juna	ユナ	何も謙遜することはない。\n殿下の言葉は本心から来ているものだ						
+LegendEvent_08_001ID	4	Juna	ユナ	事実、これまでの窮地において\n錬金術の力で助かったことも多いからな						
+LegendEvent_08_001ID	5	Roman	ロマン	ユナのいう通り、本当に感謝しているんだよ。\n錬金術は普通ではできないことができるからね						
+LegendEvent_08_001ID	6	Ayesha	アーシャ	私はただ薬草を集めて、お薬を作ってるだけです。\nそんな特別なことではありませんよ						
+LegendEvent_08_001ID	7	Sophie	ソフィー	そうそう！\nある意味当たり前のことをしたまでですから！						
+LegendEvent_08_001ID	8	Roman	ロマン	君たちは謙虚だね。\nいや、だからこそみんながよくいうのだろうね						
+LegendEvent_08_001ID	9	Lanze	ランツェ	まっ、大したことはしてねぇがよ。\nもし何かお礼をしたいってなら、やぶさかでも……						
+LegendEvent_08_001ID	10	Heidi	ハイディ	なんでアンタがでしゃばるのよ						
+LegendEvent_08_001ID	11	Lanze	ランツェ	バカお前。こういう時、\nもらえるもんはしっかりもらっとくんだろ						
+LegendEvent_08_001ID	12	Ryza	ライザ	でも、本当にあたしは大したことしてないのよ。\nオスカーさんやフィリスちゃんは大活躍してるけど						
+LegendEvent_08_001ID	13	Sophie	ソフィー	そうだよね！　オスカーは植物の声が聞き分けられる\nし、フィリスちゃんは誰よりも鉱石に詳しいもん						
+LegendEvent_08_001ID	14	Sophie	ソフィー	二人のおかげで素材集めがすっごく捗ったよね！						
+LegendEvent_08_001ID	15	Firis	フィリス	いえいえ、そんなことは。\nもう照れちゃうなぁ～						
+LegendEvent_08_001ID	16	Roman	ロマン	君の持つその才能は誇るべきものだよ。\nまさに天才的。何物にも代えがたい素晴らしい能力だ						
+LegendEvent_08_001ID	17	Roman	ロマン	一部ではフィリスのことを\n「天才」と呼んでいるらしいからね						
+LegendEvent_08_001ID	18	Firis	フィリス	そんな天才だなんて！\n恥ずかしいですよ、えへへ……						
+LegendEvent_08_001ID	19	Plachta	プラフタ	天才、ですか……。\nそういえば、天才錬金術士を自称する方もいましたね						
+LegendEvent_08_001ID	20	Ilmeria	イルメリア	は……は……はっくしょい！						
+LegendEvent_08_001ID	21	Ilmeria	イルメリア	ずずっ……。\nどこかで誰かがアタシの噂話をしてるようね						
+LegendEvent_08_001ID	22	Ilmeria	イルメリア	ふふん。どうやらアタシの名前も\nこの世界にたいぶ広がってきたみたいね！						
+LegendEvent_08_001ID	23	Ilmeria	イルメリア	それもこれも、困ってる人を見かけては錬金術で\n助けてきたおかげ！　天才はどこにいても天才なのね！						
+LegendEvent_08_001ID	24	Ilmeria	イルメリア	……そうだわ。\nこの世界でどれだけの知名度か確かめてみようかしら						
+LegendEvent_08_001ID	25	Ilmeria	イルメリア	ねえ、そこのあなた。\n「イ」から始まる天才錬金術士といえば？						
+LegendEvent_08_001ID	26		通行人	は、はい？　「イ」から始まる錬金術士？\nさあ、聞いたこともないなぁ						
+LegendEvent_08_001ID	27		通行人	けどレスナとフィリスって錬金術士なら知ってるよ。\n特にフィリスってのは、天才らしいとも聞く						
+LegendEvent_08_001ID	28	Ilmeria	イルメリア	はっ？　な、なんですってぇ？　フィリスが、天才！？\nこのアタシを差し置いて……！？						
+LegendEvent_08_001ID	29	Ilmeria	イルメリア	……ふ、ふふっ。\nそれでこそアタシのライバルだわ！　さすがね！						
+LegendEvent_08_001ID	30	Ilmeria	イルメリア	……でもおかしいわね。フィリスが知られていて、\nアタシが知られてないなんて……？						
+LegendEvent_08_001ID	31	Ilmeria	イルメリア	フィリスがどんな活躍をしたのか、\n直接会って話を聞かないと！						
+LegendEvent_08_001ID	32		通行人	……一体誰だったんだ、あの子は						
+LegendEvent_08_001ID	33	Firis Mistlud	フィリス・ミストルート	錬金術士の少女。\n好奇心旺盛で、旅をこよなく愛している						
+LegendEvent_08_001ID	34	Sophie Neuenmuller	ソフィー・ノイエンミュラー	朗らかな性格の錬金術士。\nフィリスに錬金術を教えた先生でもある						
+LegendEvent_08_001ID	35	Plachta	プラフタ	人形の身体を持つ錬金術士。ソフィーの錬金術の師匠\nであり、家族のような存在でもある						
+LegendEvent_08_001ID	36	Ilmeria Von Leinweber	イルメリア・フォン・ラインウェバー	超一流の天才錬金術士を自称する少女。フィリスとは\n親友同士にして、切磋琢磨し合うライバル関係						
+LegendEvent_08_001ID	37	Plachta	プラフタ	はい。ソフィーの言う通りです。\n私たちは錬金術士ですから						
+LegendEvent_08_002ID	0	Sophie	ソフィー	あれ？　誰だろう？						
+LegendEvent_08_002ID	1	Liane	リアーネ	すみません。ここにフィリスちゃんはいませんか？						
+LegendEvent_08_002ID	2	Firis	フィリス	あ！　リア姉だ！						
+LegendEvent_08_002ID	3	Liane	リアーネ	あー！　フィリスちゃーん！　会いたかったわ！\n元気？　ちゃんとご飯食べてる？						
+LegendEvent_08_002ID	4	Firis	フィリス	あはは。そんな心配しなくても大丈夫だよ！						
+LegendEvent_08_002ID	5	Liane	リアーネ	本当？　それならいいのだけど。\n会えない間ずっとフィリスちゃんのことを考えてたのよ						
+LegendEvent_08_002ID	6	Sophie	ソフィー	あはは……相変わらずリアーネさんの\nフィリスちゃん愛はすごいですね……						
+LegendEvent_08_002ID	7	Plachta	プラフタ	これが段々と増していきますからね。\n留まることを知らないようで末恐ろしいですが						
+LegendEvent_08_002ID	8	Liane	リアーネ	フィリスちゃんは私のかわいいかわいい妹ですから						
+LegendEvent_08_002ID	9	Ryza	ライザ	えっと……リアーネさん？　は\nフィリスちゃんのお姉さんなの？						
+LegendEvent_08_002ID	10	Firis	フィリス	あ、そっか！\nライザさんとははじめましてだもんね！						
+LegendEvent_08_002ID	11	Firis	フィリス	こちら、わたしのお姉ちゃんです！						
+LegendEvent_08_002ID	12	Liane	リアーネ	はじめまして。フィリスの姉のリアーネです。\nいつも妹がお世話になってます						
+LegendEvent_08_002ID	13	Ryza	ライザ	お世話になってるのはあたしのほうですよ！\nフィリスちゃんは鉱石集めの達人ですから！						
+LegendEvent_08_002ID	14	Liane	リアーネ	うふふ。さすがはフィリスちゃん。\nお姉ちゃんも鼻が高いわ						
+LegendEvent_08_002ID	15	Firis	フィリス	もー恥ずかしいよリア姉						
+LegendEvent_08_002ID	16	Firis	フィリス	あ、それより。リア姉、その荷物は？						
+LegendEvent_08_002ID	17	Liane	リアーネ	そうだった！　フィリスちゃんにおみやげがあるのよ！\nちょっとこれを着てみてちょうだい						
+LegendEvent_08_002ID	18	Firis	フィリス	これって……服？\n分かった。ちょっと待っててね						
+LegendEvent_08_002ID	19	Firis	フィリス	じゃじゃーん！　どうかな似合ってる？						
+LegendEvent_08_002ID	20	Liane	リアーネ	かわいい！　かわいいわよフィリスちゃん！						
+LegendEvent_08_002ID	21	Liane	リアーネ	前からイルちゃんの服がかわいいと思っててね。\nきっとフィリスちゃんにも似合うと思ったのよ！						
+LegendEvent_08_002ID	22	Liane	リアーネ	思った通りだったわ！\n他の誰よりも似合ってるわよ！						
+LegendEvent_08_002ID	23	Sophie	ソフィー	他の誰よりって……誰と比べてるんだろう？						
+LegendEvent_08_002ID	24	Plachta	プラフタ	文脈から推測するに恐らく――						
+LegendEvent_08_002ID	25	Ilmeria	イルメリア	ちょっとあなた！　何よその格好！？						
+LegendEvent_08_002ID	26	Firis	フィリス	あーっ！　イルちゃん！\nイルちゃんも来てたんだねー！						
+LegendEvent_08_002ID	27	Firis	フィリス	紹介するね！　こちらわたしの友達で\n天才錬金術士のイルメリアちゃん！						
+LegendEvent_08_002ID	28	Ilmeria	イルメリア	アタシはイルメリア！\n超一流の天才錬金術士よ！　よろしくね！						
+LegendEvent_08_002ID	29	Ryza	ライザ	ライザです！　よろしくお願いします！						
+LegendEvent_08_002ID	30	Ilmeria	イルメリア	それよりフィリス！\nあなた「天才」だなんて呼ばれてるみたいじゃない！						
+LegendEvent_08_002ID	31	Ilmeria	イルメリア	一体何をしたのよ！　アタシに教えなさい！						
+LegendEvent_08_002ID	32	Firis	フィリス	えへへ、そうらしいね。\nなんだか照れちゃうなー						
+LegendEvent_08_002ID	33	Firis	フィリス	あれ？　でも今のわたし、イルちゃんみたいな格好だし\nわたしも自分で天才って言ってもいいのかも……！？						
+LegendEvent_08_002ID	34	Firis	フィリス	……わたしはフィリス・ミストルート。\n今をときめく、超一流の天才錬金術士だよ！						
+LegendEvent_08_002ID	35	Ryza	ライザ	……ふぃ、フィリスちゃん？						
+LegendEvent_08_002ID	36	Firis	フィリス	あ、あれ？　やっぱりダメだった……？						
+LegendEvent_08_002ID	37	Liane	リアーネ	フィリスちゃんかわいい～！\n今のイルちゃんの真似よね！　そっくり～！						
+LegendEvent_08_002ID	38	Ilmeria	イルメリア	どこがよ！　アタシはそんなんじゃないわよ！						
+LegendEvent_08_002ID	39	Sophie	ソフィー	いやいや、結構似てたよね？						
+LegendEvent_08_002ID	40	Plachta	プラフタ	ええ、イルメリアそっくりでした						
+LegendEvent_08_002ID	41	Ilmeria	イルメリア	えっ嘘……アタシってこんな感じなの？						
+LegendEvent_08_002ID	42	Ilmeria	イルメリア	（……ううん。それより今はフィリスがどうして天才と\n　呼ばれてるのか、その理由を探らさないと……）						
+LegendEvent_08_002ID	43	Ilmeria	イルメリア	（まさかアタシの真似をしてるから、\n　じゃないわよね……？）						
+LegendEvent_08_002ID	44	Ilmeria	イルメリア	（とにかく、アタシが直々にこの目で\n　確かめてやるわ！）						
+LegendEvent_08_002ID	45	Liane Mistlud	リアーネ・ミストルート	狩りを生業とするフィリスの姉。\n妹への愛が強く、語り出すと止まらない						
+LegendEvent_08_003ID	0	Ilmeria	イルメリア	ふふん、やっぱりアタシの偉大さは\n歩いてるだけでも隠しきれないようね！						
+LegendEvent_08_003ID	1	Firis	フィリス	急にどうしたのイルちゃん						
+LegendEvent_08_003ID	2	Ilmeria	イルメリア	あら？もしかして気付いてないの？						
+LegendEvent_08_003ID	3	Firis	フィリス	え～？　気付いてないって……						
+LegendEvent_08_003ID	4		通行人A	あの子たちかわいい～！						
+LegendEvent_08_003ID	5		通行人B	ね！　あの衣装かわいいわよね～！						
+LegendEvent_08_003ID	6	Liane	リアーネ	そうなんです～！\nかわいいでしょう～！　うちの妹なんです～！						
+LegendEvent_08_003ID	7	Firis	フィリス	え、えへへへ～……。\nどうもどうも～……						
+LegendEvent_08_003ID	8	Plachta	プラフタ	見ているこちらが少々恥ずかしくなってきますね……						
+LegendEvent_08_003ID	9	Sophie	ソフィー	でもイルちゃんの衣装を元に作ってるだけあって\n本当にかわいいよね。見かけたら呟いちゃうよ						
+LegendEvent_08_003ID	10	Ilmeria	イルメリア	まぁ、当然よね。\n身だしなみから天才は違うんですもの！						
+LegendEvent_08_003ID	11		通行人C	あれ、二人で揃いの衣装……。\nひょっとして芸人なのか？						
+LegendEvent_08_003ID	12		通行人D	違う違う、よく見ろ。\n片方は天才だっていう錬金術士のフィリスって子だろ？						
+LegendEvent_08_003ID	13	Ilmeria	イルメリア	ちょっと！　聞き捨てならないわね！\n天才はこのアタシのほう！						
+LegendEvent_08_003ID	14	Ilmeria	イルメリア	今をときめく超天才錬金術士！\nイルメリア・フォン・ラインウェバーよ！						
+LegendEvent_08_003ID	15	Firis	フィリス	あ、いいなぁ！　なんかかっこいい！\nわたしも～……						
+LegendEvent_08_003ID	16	Ilmeria	イルメリア	えっ？						
+LegendEvent_08_003ID	17	Firis	フィリス	わたしも！　今をときめく超天才錬金術士！\nフィリス・ミストルート！						
+LegendEvent_08_003ID	18		通行人A	あはは！　似てる～！						
+LegendEvent_08_003ID	19		通行人B	ウケる～！　かわいい～！						
+LegendEvent_08_003ID	20	Ilmeria	イルメリア	ちょっ、ちょっと～！						
+LegendEvent_08_003ID	21		通行人C	ほら、やっぱり芸人さんなんだって						
+LegendEvent_08_003ID	22	Ilmeria	イルメリア	アタシは芸人じゃないわよ！！\nこら！　イタズラはやめなさい！　フィリスぅ！						
+LegendEvent_08_003ID	23	Firis	フィリス	ねえイルちゃん……。\nこれ、なんだか気分がスカッとするね！						
+LegendEvent_08_003ID	24	Liane	リアーネ	尊大なフィリスちゃん……。\n今までとは違って新しい刺激になるわ……！						
+LegendEvent_08_003ID	25	Sophie	ソフィー	う～ん、確かに、これから天才錬金術士として\n売っていくっていうのはアリかも……？						
+LegendEvent_08_003ID	26	Plachta	プラフタ	ですが、やるからには誰にも負けないくらい全力で。\nそれくらいの意思はないとダメでしょう						
+LegendEvent_08_003ID	27	Firis	フィリス	はいっ！　これからは天才の自覚を持って\n色々考えたり行動したりしますっ！						
+LegendEvent_08_003ID	28	Sophie	ソフィー	うんうん、その意気だね！						
+LegendEvent_08_003ID	29	Ilmeria	イルメリア	あれっ……？　なんだかアタシの天才の座が\nすでにかなり危うい！？						
+LegendEvent_08_003ID	30	Ilmeria	イルメリア	というか、なんでみんなそんなに肯定的なの！？\nどうしてこうなっちゃったのよ～！						
+LegendEvent_08_004ID	0	Liane	リアーネ	あっ、天才のフィリスちゃん！						
+LegendEvent_08_004ID	1	Ilmeria	イルメリア	違うわ！　天才はアタシ！\nイルメリア・フォン・ラインウェバー！						
+LegendEvent_08_004ID	2	Ilmeria	イルメリア	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_004ID	3	Firis	フィリス	天才はこのわたしもっ！\nフィリス・ミストルート！						
+LegendEvent_08_004ID	4	Firis	フィリス	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_004ID	5	Ilmeria	イルメリア	だから真似しないでっていってるでしょ～！						
+LegendEvent_08_004ID	6	Heidi	ハイディ	あっはははははは！\nこりゃ面白い……！　傑作だね……！						
+LegendEvent_08_004ID	7	Heidi	ハイディ	噂には聞いてたけど、あんたたちが芸人として\n大人気になったのも頷けるわ……！　あはははっ！						
+LegendEvent_08_004ID	8	Ilmeria	イルメリア	笑いすぎよっ！						
+LegendEvent_08_004ID	9	Ilmeria	イルメリア	もうずっとこの調子……。\n気付いたらなぜか芸人として人気になっちゃって……！						
+LegendEvent_08_004ID	10	Juna	ユナ	……い、いや、何も悲観することはないぞ。\nかわっ……、様になっているのだからな！						
+LegendEvent_08_004ID	11	Liane	リアーネ	うふふ、段々イルちゃんに近付いてきた\nフィリスちゃんもまたかわいいのよね～！						
+LegendEvent_08_004ID	12	Mieke	ミーケ	……まさかミーケの思わぬところに\nこんなビーッグな芸人ライバルが現れるなんて						
+LegendEvent_08_004ID	13	Mieke	ミーケ	ニューウェーブ到来でミーケは嬉しいよ！\nやっぱり人を笑顔にさせるって最高のことだもんね！						
+LegendEvent_08_004ID	14	Diona	ディオーナ	二人の息の合った芸は美しいわ……。\nいつか私の舞台へ一緒に上がってみない？						
+LegendEvent_08_004ID	15	Ilmeria	イルメリア	そういうのじゃなくて……						
+LegendEvent_08_004ID	16	Firis	フィリス	はいっ！　喜んでお供させてもらいますっ！						
+LegendEvent_08_004ID	17	Juna	ユナ	……ファン第一号として聞かせてほしいのだが、\n二人はどういうきっかけでコンビになったんだ？						
+LegendEvent_08_004ID	18	Heidi	ハイディ	あ、それアタシも気になってたんだよね。\nやっぱ一番のファンとしてそこは知っておきたいからさ						
+LegendEvent_08_004ID	19	Firis	フィリス	そもそもコンビってわけじゃないんですけど……\nわかりました、説明しますね						
+LegendEvent_08_004ID	20	Firis	フィリス	元々わたしはラスティンという国の\n地下の街に住んでいました						
+LegendEvent_08_004ID	21	Firis	フィリス	地下の街と外の世界はある扉によって\n隔てられてたいたんですが……						
+LegendEvent_08_004ID	22	Firis	フィリス	それをソフィー先生とプラフタさんが\n解放してくれたんです！						
+LegendEvent_08_004ID	23	Ilmeria	イルメリア	そして、それをきっかけに外の世界で公認錬金術士に\nなる旅を始めたフィリスと出会ったのよね						
+LegendEvent_08_004ID	24	Heidi	ハイディ	へぇ～、そんな感じだったんだ……。\nん？　ちょっと待った、公認錬金術士って何さ？						
+LegendEvent_08_004ID	25	Sophie	ソフィー	ラスティンは公認試験に合格しないと\n一人前の錬金術士として認めてもらえないんだ						
+LegendEvent_08_004ID	26	Plachta	プラフタ	なのでソフィーも、フィリスも、イルメリアも、\n全員試験に合格し、公認錬金術士として認められてます						
+LegendEvent_08_004ID	27	Firis	フィリス	筆記試験も実技試験も大変だったなぁ……。\n合格発表までずっとドキドキしっぱなしだったよ……						
+LegendEvent_08_004ID	28	Ilmeria	イルメリア	懐かしいわね。もうずっと前のことなのに、\n今でもすぐにあの時の緊張を思い出せるもの						
+LegendEvent_08_004ID	29	Juna	ユナ	なるほど……国の認可を取らなければならない。\nという面なら私たち騎士と同じなのか						
+LegendEvent_08_004ID	30	Heidi	ハイディ	でもランターナにはそんな仕組みないよね？						
+LegendEvent_08_004ID	31	Mieke	ミーケ	ミーケはあったら面白いと思うけどなぁ。\nそれこそ誰もが驚くビッグな試験内容とかでさ！						
+LegendEvent_08_004ID	32	Liane	リアーネ	錬金術の腕前はもちろんだけど、\n他にも調合のセンスとか素材選びのセンスとかもね！						
+LegendEvent_08_004ID	33	Juna	ユナ	そのほうが錬金術士たちの練度も上がり、\n他の者と切磋琢磨できる機会が増えたりもするな						
+LegendEvent_08_004ID	34	Ilmeria	イルメリア	ふむ、確かに……。\nあったほうがいいのかもしれないわね						
+LegendEvent_08_004ID	35	Ilmeria	イルメリア	（話題逸らしのために話に乗っかっていたけれど、\n　よくよく考えてみれば試験は有用だと思うわ）						
+LegendEvent_08_004ID	36	Ilmeria	イルメリア	（……ん？　錬金術士……公認試験……。\n　天才……芸人の払拭……）						
+LegendEvent_08_004ID	37	Ilmeria	イルメリア	そうだわっ！						
+LegendEvent_08_005ID	0	Ilmeria	イルメリア	（アタシが抱えてる問題。それはフィリスとコンビを\n　組んでいる芸人という謎のイメージ）						
+LegendEvent_08_005ID	1	Ilmeria	イルメリア	（それはフィリスを天才と呼び、アタシが訂正すると\n　フィリスが面白がってアタシの真似をするもの……）						
+LegendEvent_08_005ID	2	Ilmeria	イルメリア	（この流れを断ち切るためにはアタシのほうが、\n　フィリスより天才だと正しく知れ渡ればいい……！）						
+LegendEvent_08_005ID	3	Ilmeria	イルメリア	（そうすればあの流れが巻き起こるなんてことはない！\n　そして、それを証明する方法。それは……！）						
+LegendEvent_08_005ID	4	Ilmeria	イルメリア	これより！\n錬金術士の公認試験を開催しますっ！						
+LegendEvent_08_005ID	5		通行人A	なっ、なんだなんだ？						
+LegendEvent_08_005ID	6		通行人B	あれっ、あの子って例の芸人の……						
+LegendEvent_08_005ID	7		通行人C	ていうか錬金術士って試験受けてなるもんなのか？						
+LegendEvent_08_005ID	8	Ilmeria	イルメリア	そうよ！　今後ランターナで錬金術士を名乗るには、\n試験に合格することを必要とする！						
+LegendEvent_08_005ID	9	Ilmeria	イルメリア	そして！　試験は今から１年後！\nみっちり鍛えて臨むように！						
+LegendEvent_08_005ID	10	Ilmeria	イルメリア	それと、ココが一番大事なんだけど、\n試験を受けるには公認推薦状が３枚必要だから──						
+LegendEvent_08_005ID	11	Sophie	ソフィー	い、イルちゃん派手なことやってるなぁ……。\nでも推薦状書ける人が三人もいるっけ？						
+LegendEvent_08_005ID	12	Plachta	プラフタ	ソフィー……。\nまさか忘れたわけではありませんよね？						
+LegendEvent_08_005ID	13	Sophie	ソフィー	えっ、何が？						
+LegendEvent_08_005ID	14	Plachta	プラフタ	ラスティンの制度でいえば、ライセンス所持者は\nあなた、フィリス、イルメリアしかいませんよ						
+LegendEvent_08_005ID	15	Plachta	プラフタ	まったく……。\nもう少し自覚を持ってもらわないと困ります						
+LegendEvent_08_005ID	16	Oskar	オスカー	だけど、ランターナには色んなすごい錬金術士が\n集まっているんだろ？						
+LegendEvent_08_005ID	17	Oskar	オスカー	なのにラスティンから来た錬金術士だけが公認って、\nちょっと偏ってるっていうか、変なんじゃないか？						
+LegendEvent_08_005ID	18	Ilmeria	イルメリア	みんな！　難しく考えないで！\nこれはただ錬金術士を名乗るための試験に過ぎないわ！						
+LegendEvent_08_005ID	19	Ilmeria	イルメリア	それに試験に合格したらこの……						
+LegendEvent_08_005ID	20	Ilmeria	イルメリア	アタシたちと同じかわいい衣装をプレゼントするわ！						
+LegendEvent_08_005ID	21		通行人A	聞いたかっ！？\nあの衣装プレゼントするんだってよ！						
+LegendEvent_08_005ID	22		通行人B	絶対欲しいわ……！\nあの子たちのファンの名にかけて何が何でも！						
+LegendEvent_08_005ID	23		通行人C	こりゃこうしてちゃいられねえ！\n錬金術の勉強しなくちゃよぉ！						
+LegendEvent_08_005ID	24	Ilmeria	イルメリア	ふふふ、やっぱりこれくらいは盛り上がるわよね。\nコルネリアさんに大量発注をお願いして正解だったわ						
+LegendEvent_08_005ID	25	Corneria	コルネリア	ふむふむ。これは久々の量販サービス到来です。\nいつもより気合入れて頑張るです						
+LegendEvent_08_005ID	26	Liane	リアーネ	かわいい天才錬金術士衣装を公認錬金術士が着て、\nその中でも一番かわいいフィリスちゃん……！						
+LegendEvent_08_005ID	27	Liane	リアーネ	できる……！　私には想像できるわ！\nみんなの中で一番の輝きを見せるフィリスちゃん！						
+LegendEvent_08_005ID	28	Liane	リアーネ	そんなの見るしかないじゃない！\nイルちゃん、私は全力で支持するわ！						
+LegendEvent_08_005ID	29	Oskar	オスカー	お、おいおい……。\n本当にいいのか？　こんなこと勝手にやっちまって						
+LegendEvent_08_005ID	30	Sophie	ソフィー	まぁそんなに真に受けて考えなくてもいいんじゃない？\n１つのお祭りみたいで楽しそうじゃん！						
+LegendEvent_08_005ID	31	Plachta	プラフタ	そうですね……。こうなってしまった以上、\n難しく考えずありのままを楽しむほうがよさそうです						
+LegendEvent_08_005ID	32	Oskar	オスカー	なんで二人ともそんなに冷静なんだ……						
+LegendEvent_08_005ID	33	Ilmeria	イルメリア	（ふっふっふっ……！\n　すべてはアタシの思惑通り！）						
+LegendEvent_08_005ID	34	Ilmeria	イルメリア	（推薦状をもらうための試験の中……。\n　フィリスよりもアタシが天才だということを……）						
+LegendEvent_08_005ID	35	Ilmeria	イルメリア	（みんなの前で盛大に見せつけてあげるわ！）						
+LegendEvent_08_005ID	36	Ilmeria	イルメリア	あーっはっはっはっはっはっ！						
+LegendEvent_08_005ID	37	Ilmeria	イルメリア	勝負よ、フィリス！						
+LegendEvent_08_005ID	38	Oskar Behlmer	オスカー・ベールマー	植物について調べながら旅をしている少年。\nソフィーとは同郷の親友同士						
+LegendEvent_08_005ID	39	Corneria	コルネリア	王都を拠点に活動する商人。\n錬金術士でもあり、その力を店の経営に活かしている						
+LegendEvent_08_006ID	0	Tess	テス	かわいい～！\n噂には聞いてたけど、本当に似合ってるねぇ！						
+LegendEvent_08_006ID	1	Monika	モニカ	それにソフィーの教え子なんでしょ？　こんなに\nかわいくて錬金術の腕も立つってすごいじゃない						
+LegendEvent_08_006ID	2	Tess	テス	えっ、そうなの！？\nじゃあ天才少女なんだねぇ！						
+LegendEvent_08_006ID	3	Liane	リアーネ	そうでしょうそうでしょう！　フィリスちゃんの\nかわいさは留まることを知らないわ！						
+LegendEvent_08_006ID	4	Ilmeria	イルメリア	と、ところで！\n二人は公認試験希望の方なのかしら！？						
+LegendEvent_08_006ID	5	Ilmeria	イルメリア	よかったらこのアタシが\n推薦状を書いてあげてもいいんだけど……						
+LegendEvent_08_006ID	6	Tess	テス	いやいやいや！\nあたしらはフィリスちゃんの衣装を見に来ただけだよ						
+LegendEvent_08_006ID	7	Monika	モニカ	そうなの、ごめんなさいね						
+LegendEvent_08_006ID	8	Tess	テス	それよりさ～、このかわいい衣装って\n譲ってもらえたりしない？						
+LegendEvent_08_006ID	9	Monika	モニカ	あっ、私もちょっと気になっていたのよね。\n自分で着る用じゃなくても衣装の出来がいいから……						
+LegendEvent_08_006ID	10	Ilmeria	イルメリア	だっ、ダメダメッ！\nこれを着られるのは公認錬金術士だけなんだから！						
+LegendEvent_08_006ID	11	Ilmeria	イルメリア	欲しかったらちゃんと試験に受かって、\n立派な錬金術士になってから受け取ってちょうだい！						
+LegendEvent_08_006ID	12	Sophie	ソフィー	でもイルちゃんのこの衣装、\nみんな欲しがってるよね						
+LegendEvent_08_006ID	13	Plachta	プラフタ	モニカたちと同じように、試験免除で衣装だけ\nもらえないかという声のほうが多い気もしますが						
+LegendEvent_08_006ID	14	Ilmeria	イルメリア	うっ……確かにその問い合わせは多いわ……。\nというか毎日……						
+LegendEvent_08_006ID	15	Ilmeria	イルメリア	みんな衣装だけ欲しがって、\n肝心の錬金術士になるって人はほとんどいないのよね						
+LegendEvent_08_006ID	16	Corneria	コルネリア	いっ、イルメリアさん……！！						
+LegendEvent_08_006ID	17	Sophie	ソフィー	わっ、コルちゃん！？\nどうしたのそんなに慌てて来て						
+LegendEvent_08_006ID	18	Ilmeria	イルメリア	ど、どうしたのよコルネリアさん。\nあ！　もしかして大量発注しておいて衣装がついに……						
+LegendEvent_08_006ID	19	Corneria	コルネリア	盗まれてしまいました……！						
+LegendEvent_08_006ID	20	Ilmeria	イルメリア	……えっ？						
+LegendEvent_08_006ID	21	Corneria	コルネリア	衣装がまるごと……。\n全部盗まれてしまったです……！！						
+LegendEvent_08_006ID	22	Ilmeria	イルメリア	えぇ～っ！？						
+LegendEvent_08_006ID	23	Heidi	ハイディ	……な～るほど。\n仕上げた衣装を移送中に狙われて荷車ごと……ね						
+LegendEvent_08_006ID	24	Juna	ユナ	そうか……。\n随分と恥知らず……、命知らずな奴らのようだな……						
+LegendEvent_08_006ID	25	Ilmeria	イルメリア	まったくだわ！\nアタシたちに盗みを働くなんて……！						
+LegendEvent_08_006ID	26	Ilmeria	イルメリア	絶対許さないんだから！						
+LegendEvent_08_006ID	27	Juna	ユナ	そうだな。一刻も早く犯人を捕まえて、\n自身の愚かさと罪の重さを味わわせてやらないと……						
+LegendEvent_08_006ID	28	Heidi	ハイディ	アタシたちの気が収まんないっていうか……！\nもう今すぐにでもボコボコにしてやりたい気分だよね！						
+LegendEvent_08_006ID	29	Firis	フィリス	じゃあ今からでも捜索を開始しましょう！\nせっかく頑張って作っていただいたものですし……！						
+LegendEvent_08_006ID	30	Ilmeria	イルメリア	そうね、まずは──────						
+LegendEvent_08_006ID	31	Ilmeria	イルメリア	（待って？　これってもしかしてチャンスじゃない？\n　盗まれた衣装を取り戻す功績を作れば……）						
+LegendEvent_08_006ID	32	Ilmeria	イルメリア	（みんなからやっぱりアタシは天才って\n　思ってもらえるってことじゃない？）						
+LegendEvent_08_006ID	33	Firis	フィリス	イルちゃん？　まずはどうするの？						
+LegendEvent_08_006ID	34	Ilmeria	イルメリア	えっ？　あっ、え～っと……。\nゆ、ユナさん。あなたに頼みがあるのだけど……						
+LegendEvent_08_006ID	35	Juna	ユナ	なんだ、なんでもいってみろ						
+LegendEvent_08_006ID	36	Roman	ロマン	いやぁ、いきなり大捜査網のお願いをされるなんて\nユナも相当この件に肩入れしてるんだね						
+LegendEvent_08_006ID	37	Juna	ユナ	もちろんです。窃盗は重罪ですから						
+LegendEvent_08_006ID	38	Roman	ロマン	（い、いつもより本気の顔になってる……）						
+LegendEvent_08_006ID	39	Liane	リアーネ	でも犯人はまだ見つかってないんですよね？						
+LegendEvent_08_006ID	40	Roman	ロマン	残念ながら、手掛かりも掴めていないんだ。\n盗品ならそれを売りさばくのが鉄則なんだけど						
+LegendEvent_08_006ID	41	Roman	ロマン	販売ルートを絞って偵察をしても見つからないんだ						
+LegendEvent_08_006ID	42	Firis	フィリス	う～ん……。一体何が目的なんだろう？\nお金じゃないのかな？						
+LegendEvent_08_006ID	43	Sophie	ソフィー	もしかして盗賊とかじゃなくて収集家、とか？						
+LegendEvent_08_006ID	44	Heidi	ハイディ	だとしてもこんなやり方しちゃダメだっての！\nとっちめたらただじゃおかないからね！						
+LegendEvent_08_006ID	45	Monika	モニカ	それにしても本当に変だわ……。\n売りもせず、誰かに譲ったりもしないなんて						
+LegendEvent_08_006ID	46	Ilmeria	イルメリア	……こうなったら１つ、芝居を打ってやろうじゃないの						
+LegendEvent_08_006ID	47	Firis	フィリス	芝居って？						
+LegendEvent_08_006ID	48	Ilmeria	イルメリア	ふふふ……それはねぇ……						
+LegendEvent_08_006ID	49	Tess Heitzmann	テス・ハイツマン	王都の喫茶店で働く異邦人の女性。\n広場にあるカフェ「星の繭」をライバル視している						
+LegendEvent_08_006ID	50	Monika Ellmenreich	モニカ・エルメンライヒ	ソフィーの幼馴染であり親友。\n自分のやりたいことをやろうと世界を旅している						
+LegendEvent_08_007ID	0		観客	よっ、天才錬金術士のフィリス！						
+LegendEvent_08_007ID	1	Ilmeria	イルメリア	だから違～う！　天才はアタシ！\nイルメリア・フォン・ラインウェバー！						
+LegendEvent_08_007ID	2	Ilmeria	イルメリア	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_007ID	3	Firis	フィリス	天才なのはこのわたしもっ！\nフィリス・ミストルート！						
+LegendEvent_08_007ID	4	Firis	フィリス	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_007ID	5	Ilmeria	イルメリア	だから真似しないでっていってるでしょ～！						
+LegendEvent_08_007ID	6	Firis	フィリス	ね、ねぇイルちゃん。\nわたしたち本当にこんなことしてて大丈夫なの？						
+LegendEvent_08_007ID	7	Ilmeria	イルメリア	大丈夫よ、警備にはユナさんもいるし、\nブラッドさんとマクダさんにも協力してもらってるわ						
+LegendEvent_08_007ID	8	Firis	フィリス	そうじゃなくて、本当にその……。\n犯人がここに来るのかどうかってことなんだけど……						
+LegendEvent_08_007ID	9	Ilmeria	イルメリア	心配いらないわ……。\nアタシの推理が正しければ、絶対にここへ来るもの						
+LegendEvent_08_007ID	10	Ilmeria	イルメリア	だって……						
+LegendEvent_08_007ID	11	Corneria	コルネリア	あっ！！　いたです！！\nあいつらが盗賊です！！						
+LegendEvent_08_007ID	12	Ilmeria	イルメリア	来たっ！　今よ！　みんな！						
+LegendEvent_08_007ID	13	Juna	ユナ	確保！\nこのまま大人しくしているんだ！						
+LegendEvent_08_007ID	14	Ilmeria	イルメリア	ふう……作戦は上手くいったようね						
+LegendEvent_08_007ID	15	Firis	フィリス	すごいイルちゃん！　なんで分かったの？						
+LegendEvent_08_007ID	16	Ilmeria	イルメリア	そのことならあとで教えてあげるわ。\n今はまずお客さんたちを安全に帰らせることが先よ						
+LegendEvent_08_007ID	17	Firis	フィリス	わ、分かった！\nみなさ～ん、落ち着いてくださ～い！						
+LegendEvent_08_007ID	18	Ilmeria	イルメリア	単刀直入に聞くわ。\nあなたたち、アタシたちのファン、でしょ？						
+LegendEvent_08_007ID	19		盗賊A	フンッ……						
+LegendEvent_08_007ID	20	Ilmeria	イルメリア	黙っていても無駄よ、考えたら簡単に分かるもの。\n捌く気がないあの衣装を、盗んでまで欲しかった						
+LegendEvent_08_007ID	21	Ilmeria	イルメリア	そんなの厄介ファン以外誰がやるっていうのよ！						
+LegendEvent_08_007ID	22	Firis	フィリス	だ、だからこの作戦を思いつけたんだね……						
+LegendEvent_08_007ID	23	Juna	ユナ	おい、いい加減口を割ったらどうだ？\n今回の件、私は本当に怒っている。どうなるか知らんぞ						
+LegendEvent_08_007ID	24		盗賊B	…………						
+LegendEvent_08_007ID	25	Magda	マクダ	チッ、んだよ。さっきからずっとこの調子じゃねえか。\nぶん殴って口を割らせるか？						
+LegendEvent_08_007ID	26	Brad	ブラッド	やめろ。マクダがやったら喋る口が無くなってしまう						
+LegendEvent_08_007ID	27	Magda	マクダ	そこまでやらねーって！\nちょっと小突く程度で１０発だから！						
+LegendEvent_08_007ID	28	Firis	フィリス	んー？　あの靴底に付いてる小石……。\nどこかで見たことあるような……						
+LegendEvent_08_007ID	29	Ilmeria	イルメリア	フィリス、その小石がどうかしたの？						
+LegendEvent_08_007ID	30	Firis	フィリス	うーん、どこかで見た気がするんだよね。\nこっちに来てからみんなで旅をしてる時に……						
+LegendEvent_08_007ID	31	Ilmeria	イルメリア	……もしかしてフィリスの力なら、\nその小石がどこにあったものか分かるんじゃない？						
+LegendEvent_08_007ID	32	Firis	フィリス	えー、でもそんなの知ったところで……						
+LegendEvent_08_007ID	33	Firis	フィリス	あっ！　そっか！\nこの盗賊さんがどこから来たのか分かるんだっ！						
+LegendEvent_08_007ID	34	Brad	ブラッド	……ほう、彼女にそんな能力が。\nさすがは天才と謳われるだけあるな						
+LegendEvent_08_007ID	35	Ilmeria	イルメリア	だから、天才はアタシだってば！						
+LegendEvent_08_007ID	36	Firis	フィリス	ちょっと待ってね～……。\nこの小石の特徴、絶対見たことあるんだ……						
+LegendEvent_08_007ID	37	Firis	フィリス	あれは～……確か……。\nあそこらへんを旅してる途中で……見た……ような……						
+LegendEvent_08_007ID	38	Firis	フィリス	ん～～～～～～～～～～～～～～～～～……						
+LegendEvent_08_007ID	39	Firis	フィリス	あっ！　思い出した！\nもしかしたらあそこかもしれない！						
+LegendEvent_08_008ID	0	Ilmeria	イルメリア	ここが奴らのアジト……。\n随分と分かりやすく盗賊団のすみかです～って場所ね						
+LegendEvent_08_008ID	1	Firis	フィリス	でもなんか雰囲気あるよね……。\nちょっと怖くなってきちゃった……						
+LegendEvent_08_008ID	2	Ilmeria	イルメリア	何言ってるの！　ちゃんと「保険」は\nかけてるんだから、ちゃきちゃき進むわよ！						
+LegendEvent_08_008ID	3	Firis	フィリス	うぅ～……やっぱりみんなにも\n付いて来てもらえばよかったかも～……						
+LegendEvent_08_008ID	4	Ilmeria	イルメリア	つべこべ言わない！\nとりあえずアタシたちの衣装を見つけるわよ！						
+LegendEvent_08_008ID	5	Firis	フィリス	……っていっても、どこをどう探せばいいのかな。\n宝箱とかにしまってあったりする？						
+LegendEvent_08_008ID	6	Ilmeria	イルメリア	いくら盗賊でもそんな分かりやすい隠し方……						
+LegendEvent_08_008ID	7	Ilmeria	イルメリア	あるっ！？						
+LegendEvent_08_008ID	8	Firis	フィリス	わ～い！　やった～！\nあれ絶対わたしたちの衣装入ってるよ！						
+LegendEvent_08_008ID	9	Firis	フィリス	ん～、ひらけやひらけや、たっからばこ～！						
+LegendEvent_08_008ID	10	Ilmeria	イルメリア	あっ！　これって、アタシたちの衣装！？\nほ、本当に入ってた！？						
+LegendEvent_08_008ID	11	Firis	フィリス	盗まれちゃったのは悲しいけど、\n宝箱にわざわざ入れてくれてるって思うと嬉しいね						
+LegendEvent_08_008ID	12	Ilmeria	イルメリア	そこ、喜ぶところじゃないでしょ！\n何を甘いこと言ってるのよ						
+LegendEvent_08_008ID	13	Ilmeria	イルメリア	……でもまあ、とりあえず、この箱に入ってるなら\n他の箱にも全部入ってるでしょ。持って帰るわよ……						
+LegendEvent_08_008ID	14		盗賊C	そこまでだ！						
+LegendEvent_08_008ID	15		盗賊D	お前たち……どうやってここに！						
+LegendEvent_08_008ID	16		盗賊E	ことによっちゃ生きて帰す訳には行かないぞ						
+LegendEvent_08_008ID	17	Firis	フィリス	どっ、どどどどどどーしようイルちゃん！						
+LegendEvent_08_008ID	18	Ilmeria	イルメリア	落ち着きなさいフィリス。作戦通りに行くわよ。\nあいつらもアタシたちのファンだと見越して……						
+LegendEvent_08_008ID	19	Ilmeria	イルメリア	アタシは天才！\nイルメリア・フォン・ラインウェバー！						
+LegendEvent_08_008ID	20	Ilmeria	イルメリア	今をときめく、超一流の錬金術士よ！						
+LegendEvent_08_008ID	21	Firis	フィリス	て、天才なのはこのわたしもっ！\nフィリス・ミストルート！						
+LegendEvent_08_008ID	22	Firis	フィリス	今をときめく、超一流の錬金術士よ！						
+LegendEvent_08_008ID	23	Ilmeria	イルメリア	だから真似しないでっていってるでしょ～！						
+LegendEvent_08_008ID	24		盗賊C	……ほっ、本人だっ！？						
+LegendEvent_08_008ID	25		盗賊D	わっ、わっ、俺、こんな間近で見れちゃったよ！						
+LegendEvent_08_008ID	26		盗賊E	おいマジか！\nあのっ、えっと、さ、サインとかいいっすか！？						
+LegendEvent_08_008ID	27	Firis	フィリス	な、なんか上手く行ったよイルちゃん！						
+LegendEvent_08_008ID	28	Ilmeria	イルメリア	そうね……そしたらあとは……！						
+LegendEvent_08_008ID	29		盗賊C	ぐわっ！？						
+LegendEvent_08_008ID	30		盗賊D	なんっ、ぐはっ！？						
+LegendEvent_08_008ID	31		盗賊E	誰だおま……うごっ！？						
+LegendEvent_08_008ID	32	Magda	マクダ	いっちょあがり～！						
+LegendEvent_08_008ID	33	Brad	ブラッド	ありがとう。君たちが気を引いてくれたおかげで\n隙だらけだった						
+LegendEvent_08_008ID	34	Ilmeria	イルメリア	ま、当然よね。このアタシが考えた作戦なんだから						
+LegendEvent_08_008ID	35	Brad	ブラッド	一連の事件の解決に対する貢献に賛辞を贈ろう。\nだが元をたどれば自身で蒔いた種ともいえる						
+LegendEvent_08_008ID	36	Brad	ブラッド	公認試験だか知らないが、あまり浮かれているようでは\nまた今回のような事件を引き起こすぞ						
+LegendEvent_08_008ID	37	Brad	ブラッド	これからは気を引き締めて活動するように						
+LegendEvent_08_008ID	38	Ilmeria	イルメリア	うっ……何も返す言葉がないわ……！						
+LegendEvent_08_008ID	39	Magda	マクダ	でも芸人はやめんなよ？\nあのネタ、息ぴったりでいつ見ても面白いんだわ						
+LegendEvent_08_008ID	40	Ilmeria	イルメリア	だからアタシらは芸人じゃないっていってるでしょ！						
+LegendEvent_08_008ID	41	Magda	マクダ	そうそう、そのツッコミ！\nやっぱいつ見てもキレッキレで最高だな！						
+LegendEvent_08_008ID	42	Brad	ブラッド	……お、お前たち、芸人じゃなかったのか？						
+LegendEvent_08_008ID	43	Ilmeria	イルメリア	芸人じゃなくて錬金術士よ！						
+LegendEvent_08_008ID	44	Firis	フィリス	あははは……ちょっと板につきすぎちゃったね？						
+LegendEvent_08_008ID	45	Ilmeria	イルメリア	も～！　アタシは本当に天才錬金術士なのに～！						
+LegendEvent_08_009ID	0	Heidi	ハイディ	聞いたぞ～？\n二人であの事件解決しちゃったんだって～？						
+LegendEvent_08_009ID	1	Firis	フィリス	えへへ……正確にはユナさんやマクダさんたちにも\n協力してもらって解決したんですけど……						
+LegendEvent_08_009ID	2	Liane	リアーネ	でもフィリイル界隈からはフィリスちゃんたちだけで\n解決したっていう風に聞いてるわ						
+LegendEvent_08_009ID	3	Ilmeria	イルメリア	ちょっと待って何その界隈！？\nアタシ初耳なんだけど！？						
+LegendEvent_08_009ID	4	Juna	ユナ	このことをきっかけに、あの二人は天才コンビであると\nフィリイル界隈からは賞賛の嵐が止まらん……						
+LegendEvent_08_009ID	5	Ilmeria	イルメリア	ユナさんまで謎界隈をサラッと……！？						
+LegendEvent_08_009ID	6	Ilmeria	イルメリア	で、でもこれでようやくアタシが天才だってこと、\nちゃんと周りの人たちに伝わったのならいいわ						
+LegendEvent_08_009ID	7	Ilmeria	イルメリア	本当はフィリスよりもすごいってことを\n認めてもらいたかったけどね……						
+LegendEvent_08_009ID	8	Firis	フィリス	でもやっぱり本当に天才なのはイルちゃんだよねぇ						
+LegendEvent_08_009ID	9	Ilmeria	イルメリア	えっ？						
+LegendEvent_08_009ID	10	Firis	フィリス	だってわたしだけだったらこんなに色んな人から\nほめてもらうことなんてできなかっただろうし						
+LegendEvent_08_009ID	11	Firis	フィリス	事件解決なんて、ほとんどイルちゃんの作戦でしょ？\nさすがとしかいいようがないよね！						
+LegendEvent_08_009ID	12	Ilmeria	イルメリア	……ふっ						
+LegendEvent_08_009ID	13	Ilmeria	イルメリア	ふふ～ん！　当然でしょ！\nだってアタシは正真正銘の天才なんだもの！						
+LegendEvent_08_009ID	14	Mieke	ミーケ	そうだよねぇ！　錬金術士としても芸人としても一流！\nな、二人はとってもビーッグ！						
+LegendEvent_08_009ID	15	Firis	フィリス	えへへ～。ビーッグ！						
+LegendEvent_08_009ID	16	Diona	ディオーナ	うふふ、二人の輝きはミーケちゃんのいう通り大きな\nものよ。約束した通り、私とも舞台で輝きましょうね						
+LegendEvent_08_009ID	17	Magda	マクダ	おぉっ？　なんだなんだ、ミーケも一緒になって\nこいつらとネタやったらウケるんじゃねーの？						
+LegendEvent_08_009ID	18	Heidi	ハイディ	新規路線開拓っ！\nいやぁ……。いいねぇ、新メンバーも熱いじゃん！						
+LegendEvent_08_009ID	19	Juna	ユナ	あの二人のかわいさに加えてハジけるような\n決めゼリフ……か。なかなか悪くないぞ……						
+LegendEvent_08_009ID	20	Ilmeria	イルメリア	（あぁ～……！\n　せっかく上手いこと軌道修正したのに～！）						
+LegendEvent_08_009ID	21	Mieke	ミーケ	さぁ！　イルメリアも一緒に……。\nビーッグ！						
+LegendEvent_08_009ID	22	Firis	フィリス	ほら、イルちゃん！　ビーッグ！　だよ！						
+LegendEvent_08_009ID	23	Ilmeria	イルメリア	……えぇ～い！　ビーッグ！						
+LegendEvent_08_009ID	24	Magda	マクダ	あっはっはっはっ！\n見てるだけで元気になりそうだぜ！						
+LegendEvent_08_009ID	25	Heidi	ハイディ	うん！　いいよ！　これからはこれで行こうよ！						
+LegendEvent_08_009ID	26	Juna	ユナ	んふっ…………！						
+LegendEvent_08_009ID	27	Brad	ブラッド	やはりお前たちは芸人……						
+LegendEvent_08_009ID	28	Ilmeria	イルメリア	だから芸人じゃないっていってるでしょ～！						
+LegendEvent_08_009ID	29	Brad	ブラッド	でもそれが決まり文句のネタ……						
+LegendEvent_08_009ID	30	Ilmeria	イルメリア	本当に違うのよ～！						
+LegendEvent_08_010ID	0	Ilmeria	イルメリア	だから違～う！　天才はアタシ！\nイルメリア・フォン・ラインウェバー！						
+LegendEvent_08_010ID	1	Ilmeria	イルメリア	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_010ID	2	Firis	フィリス	天才なのはこのわたしもっ！\nフィリス・ミストルート！						
+LegendEvent_08_010ID	3	Firis	フィリス	今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_010ID	4	Ilmeria	イルメリア	だから真似しないでって言ってるでしょ～！						
+LegendEvent_08_010ID	5	Liane	リアーネ	なになに？　何か楽しいこと思い出したりしてた？						
+LegendEvent_08_010ID	6	Firis	フィリス	えっ、あぁ……。うん！\nイルちゃんと前に舞台で披露した時のこととかね						
+LegendEvent_08_010ID	7	Liane	リアーネ	うふふ、あれは歴史に残ること間違いなしだったわ。\n最初は小さな広場から始まって、今では大舞台……						
+LegendEvent_08_010ID	8	Firis	フィリス	…………						
+LegendEvent_08_010ID	9	Firis	フィリス	（でも、イルちゃんは本当はどう思ってたんだろう。\n　わたしが最初はイタズラで真似っこして……）						
+LegendEvent_08_010ID	10	Firis	フィリス	（それで気付いたらファンができちゃって、\n　今じゃすっかり人気の芸人って言われちゃって……）						
+LegendEvent_08_010ID	11	Liane	リアーネ	……それでもうフィリスちゃんの\nかわいさが合わさったらもう……って、どうしたの？						
+LegendEvent_08_010ID	12	Firis	フィリス	……リア姉、イルちゃんはさ。\n本当は嫌だったんじゃないかって、思うの……						
+LegendEvent_08_010ID	13	Liane	リアーネ	嫌だったって……。\nフィリスちゃんと一緒に芸を披露するのが？						
+LegendEvent_08_010ID	14	Firis	フィリス	それもそうだし、わたしと並べられて\n芸人さんって周りから言われることも						
+LegendEvent_08_010ID	15	Liane	リアーネ	それは……						
+LegendEvent_08_010ID	16	Firis	フィリス	やっぱりちょっと嫌だったんじゃないかなって思う。\nだから、もうああいうことをするのはやめようかなって						
+LegendEvent_08_010ID	17	Firis	フィリス	それにイルちゃんの言ってた公認錬金術士制度も、\n抜けようと思うの						
+LegendEvent_08_010ID	18	Liane	リアーネ	でも試験があることはいいことじゃない？\nそれだけ錬金術士としての価値が高まるし						
+LegendEvent_08_010ID	19	Firis	フィリス	わたしもそう思うよ？　試験のためにすっごく\n頑張ったから今があると思うし……						
+LegendEvent_08_010ID	20	Firis	フィリス	だけどね、こっちの世界にはまだいらないと思う。\n本当に必要ならブラッドさんが考えるだろうし……						
+LegendEvent_08_010ID	21	Liane	リアーネ	そう……。それじゃあ今度イルちゃんと会う時に\nきっぱり伝えるのね？						
+LegendEvent_08_010ID	22	Firis	フィリス	うん。これ以上、迷惑はかけたくないから						
+LegendEvent_08_010ID	23	Liane	リアーネ	そっかぁ……						
+LegendEvent_08_010ID	24	Liane	リアーネ	……ねぇフィリスちゃん。\n私はモノマネをしてたかわいいフィリスちゃんが大好き						
+LegendEvent_08_010ID	25	Firis	フィリス	う、うん。ずっとかわいいかわいいって\nいってくれてたもんね						
+LegendEvent_08_010ID	26	Liane	リアーネ	もちろんありのままでいてくれる\nフィリスちゃんも大好きよ						
+LegendEvent_08_010ID	27	Liane	リアーネ	だけど、フィリスちゃんが辛くて、悩んで、\n悲しい思いをしてると、私も悲しい気持ちになるの……						
+LegendEvent_08_010ID	28	Firis	フィリス	リ、リア姉？　なんか目が怖いよ……？						
+LegendEvent_08_010ID	29	Liane	リアーネ	でも！　あのかわいい衣装はこれからも\n着てほしいの！！						
+LegendEvent_08_010ID	30	Firis	フィリス	……へっ？						
+LegendEvent_08_010ID	31	Liane	リアーネ	あの衣装は公認錬金術士しか着ちゃダメなんでしょ！？\nでもフィリスちゃんはそれをやめたがってる！						
+LegendEvent_08_010ID	32	Liane	リアーネ	ということは！\nもうあの衣装を着てくれないことになるじゃない！？						
+LegendEvent_08_010ID	33	Firis	フィリス	リア姉！？　お、落ち着いて！						
+LegendEvent_08_010ID	34	Liane	リアーネ	あんなに似合っててかわいい衣装、\nこれからも着てほしいのに～！						
+LegendEvent_08_010ID	35	Liane	リアーネ	私はどうすればいいの！？						
+LegendEvent_08_010ID	36	Firis	フィリス	あれっ！？　わたしが相談に乗る側に！？						
+LegendEvent_08_010ID	37	Liane	リアーネ	フィリスちゃん～～！　お願い～～！\nやめるなんて言わないで～～！						
+LegendEvent_08_010ID	38	Firis	フィリス	リア姉！　とにかく落ち着いて！\nリア姉ってば～！						
+LegendEvent_08_011ID	0	Juna	ユナ	なぁ、お前の掴んだ情報というのは確かなものなのか？\n待ち合わせとはいえ、空気が重苦しく感じる……						
+LegendEvent_08_011ID	1	Heidi	ハイディ	なに言ってんのさ、これからネタ合わせなんだよ？\n今じゃたった１回のネタ合わせも本気でやるんだよ！						
+LegendEvent_08_011ID	2	Juna	ユナ	そ、そういうものなのか……						
+LegendEvent_08_011ID	3	Heidi	ハイディ	……あっ、ほら来たよっ！　もっとそっち行って！						
+LegendEvent_08_011ID	4	Juna	ユナ	あっ、コラっ！　そんなに押すな……！						
+LegendEvent_08_011ID	5	Ilmeria	イルメリア	こんなところに呼び出してどうしたのよ、フィリス。\nそれにそんな顔しちゃって、らしくないわよ？						
+LegendEvent_08_011ID	6	Firis	フィリス	……あのね、イルちゃん。\n今日はイルちゃんにお願いがあってここに呼んだの						
+LegendEvent_08_011ID	7	Ilmeria	イルメリア	お願い？　あ、もしかして今のアタシとどっちが\n錬金術の腕が上か勝負しようって……						
+LegendEvent_08_011ID	8	Firis	フィリス	ううん違うよ。わたしね、\nもうイルちゃんのモノマネはやめることにしたの						
+LegendEvent_08_011ID	9	Firis	フィリス	それに公認錬金術士制度からも、抜けたいんだ。\nわたしの性に合ってないと思うし……						
+LegendEvent_08_011ID	10	Ilmeria	イルメリア	そう……						
+LegendEvent_08_011ID	11	Firis	フィリス	ご、ごめんね、いきなりこんなお願いして。\nびっくりしちゃったよね						
+LegendEvent_08_011ID	12	Ilmeria	イルメリア	いいわよ						
+LegendEvent_08_011ID	13	Firis	フィリス	やっぱりそう簡単に認めてもらえるわけ……。\nえっ？　イルちゃん、今なんて？						
+LegendEvent_08_011ID	14	Ilmeria	イルメリア	だから、いいわよ。抜けても。\nそれにコンビ解消なんて願ったり叶ったりだわ						
+LegendEvent_08_011ID	15	Firis	フィリス	え～！？　そ、そんなあっさり！？						
+LegendEvent_08_011ID	16	Ilmeria	イルメリア	だって元々芸人で通すつもりないし、\n公認錬金術士だって……						
+LegendEvent_08_011ID	17	Firis	フィリス	でもでもでもでも！　もうあんなに大勢の前で\n拍手とかもらえなくなるんだよ！？						
+LegendEvent_08_011ID	18	Firis	フィリス	公認錬金術士制度だって推薦状が……						
+LegendEvent_08_011ID	19	Ilmeria	イルメリア	もう！　フィリスは引き留めてもらいたいの！？						
+LegendEvent_08_011ID	20	Firis	フィリス	違うよ！？　そ、そうじゃなくて\nなんですんなり受け入れてるのか不思議で……						
+LegendEvent_08_011ID	21	Ilmeria	イルメリア	あぁ、そういうこと？\nもうアタシが満足しちゃったからよ						
+LegendEvent_08_011ID	22	Firis	フィリス	満足……？						
+LegendEvent_08_011ID	23	Ilmeria	イルメリア	元々ね、こっちの世界でフィリスの名声が高いのは\nすでに知ってたの。だから張り合おうと思ってた……						
+LegendEvent_08_011ID	24	Ilmeria	イルメリア	張り合って、フィリスよりアタシのほうがすごいんだ！\nってところを、みんなに証明してみせたかったの						
+LegendEvent_08_011ID	25	Ilmeria	イルメリア	だけどある程度アタシのすごさは見せつけられたし、\nそれにアタシ以外にも天才はいてもいいって思ったの						
+LegendEvent_08_011ID	26	Firis	フィリス	イルちゃん……						
+LegendEvent_08_011ID	27	Ilmeria	イルメリア	考えてみればこの世界は色々なところから\nすごい錬金術士たちがたくさん集まって来てるんだもの						
+LegendEvent_08_011ID	28	Ilmeria	イルメリア	その人たちを認めたくない！　なんて、\n真の天才錬金術士が思うことなんかじゃないわ						
+LegendEvent_08_011ID	29	Ilmeria	イルメリア	だからもう続ける意味もないかなって。\nそういうわけで、あっさり了承したのよ						
+LegendEvent_08_011ID	30	Firis	フィリス	そうだったんだ……						
+LegendEvent_08_011ID	31	Ilmeria	イルメリア	それに今回色んな人にアタシのことを見てもらったけど\n別に誰にどう見られたってどうでもいいって気付いたの						
+LegendEvent_08_011ID	32	Ilmeria	イルメリア	誰かさんにどう見られてるかに比べたら、\n案外どうでもいいんだって、ね？						
+LegendEvent_08_011ID	33	Ilmeria	イルメリア	だから……その……。\nこれからも、負けないわよ！　フィリス！						
+LegendEvent_08_011ID	34	Firis	フィリス	うっ、うん！\nなんかよく分からないけど、わたしも負けないよ！						
+LegendEvent_08_011ID	35	Ilmeria	イルメリア	なんでよく分からないのよ！\nあんなにハッキリ言ったのに！						
+LegendEvent_08_011ID	36	Firis	フィリス	えぇ！？　わたし、何か伝えられてたの！？						
+LegendEvent_08_011ID	37	Ilmeria	イルメリア	この子ったら……！　も～～～～！\nどうしてそんなに鈍感なのよ！						
+LegendEvent_08_011ID	38	Firis	フィリス	ご、ごめんなさい～！？						
+LegendEvent_08_011ID	39	Heidi	ハイディ	……ねぇ						
+LegendEvent_08_011ID	40	Juna	ユナ	……どうした						
+LegendEvent_08_011ID	41	Heidi	ハイディ	このことは、私たちだけの秘密にしておこうか						
+LegendEvent_08_011ID	42	Juna	ユナ	そうだな……						
+LegendEvent_08_012ID	0	Sophie	ソフィー	公認錬金術士制度、本当にやめちゃってもいいの？						
+LegendEvent_08_012ID	1	Firis	フィリス	はい、わたしは推薦状を書くなんて似合いませんし						
+LegendEvent_08_012ID	2	Ilmeria	イルメリア	それにアタシももう十分満足したわ！\n試験は取りやめにして、全部なかったことにしました						
+LegendEvent_08_012ID	3	Plachta	プラフタ	そうですね、そのほうがいいと思います。\n今の自由な姿が、錬金術士にはふさわしいでしょう						
+LegendEvent_08_012ID	4	Tess	テス	そっか～……残念だったなぁ						
+LegendEvent_08_012ID	5	Sophie	ソフィー	残念？　もしかしてテスさん、\n試験受けようと思ってたんですか？						
+LegendEvent_08_012ID	6	Tess	テス	うん、あたしだけじゃなくてモニカもだけどね						
+LegendEvent_08_012ID	7	Monika	モニカ	最初は受ける気はなかったんだけど、\nちょっと興味が湧いてね。これを機に勉強しようかと						
+LegendEvent_08_012ID	8	Sophie	ソフィー	そうだったんだ……イルちゃんのおかげで\n錬金術に触れてる人が、もっといたらいいね						
+LegendEvent_08_012ID	9	Heidi	ハイディ	いやぁ、確実にそれは増えてるでしょ。\n街中で最近は錬金術の話をちらほら聞くようになったし						
+LegendEvent_08_012ID	10	Lanze	ランツェ	なんだ、俺もいっちょ本気で\n試験受けようとしてたのによぉ。残念だぜ						
+LegendEvent_08_012ID	11	Heidi	ハイディ	そんなこといって、どーせあの衣装手に入れて\nフロッケに着せたかっただけでしょ						
+LegendEvent_08_012ID	12	Lanze	ランツェ	う、うるせえ！\n別にいいだろ、俺じゃ着れねえんだし！						
+LegendEvent_08_012ID	13	Ilmeria	イルメリア	くっ……ふふふっ！						
+LegendEvent_08_012ID	14	Lanze	ランツェ	あっ、今、俺がその衣装着たとこ想像しやがったな！？						
+LegendEvent_08_012ID	15	Ilmeria	イルメリア	ご、ごめんなさい。\n想像したらつい……。くくくっ！						
+LegendEvent_08_012ID	16	Liane	リアーネ	でもあれだけ大量に作っちゃった衣装はどうするの？						
+LegendEvent_08_012ID	17	Corneria	コルネリア	あれから綺麗なまま保管してるので、\n欲しい方がいたら販売しようと思っているです						
+LegendEvent_08_012ID	18	Ilmeria	イルメリア	そうね、衣装については\nコルネリアさんの自由にしてもらって構わないわ						
+LegendEvent_08_012ID	19	Ilmeria	イルメリア	投げやりになっちゃって申し訳ないけど……						
+LegendEvent_08_012ID	20	Corneria	コルネリア	いえいえ、お気になさらず。\nむしろこのまま販売するほうが嬉しかったりします						
+LegendEvent_08_012ID	21	Lanze	ランツェ	なんつー商売魂の持ち主だ。\nそんなら早速、俺が１着……！						
+LegendEvent_08_012ID	22	Lanze	ランツェ	……いいだろ別に！						
+LegendEvent_08_012ID	23	Oskar	オスカー	でもこれなら喜ぶ人は多いんじゃないか？\n天才を自称する人も増えそうだけど……						
+LegendEvent_08_012ID	24	Ilmeria	イルメリア	ふふん、その点は大丈夫よ！\n形だけアタシの真似したってそんなの一流じゃないわ！						
+LegendEvent_08_012ID	25	Ilmeria	イルメリア	なんせ超一流の天才錬金術士はアタシだけよ！\nねっ！　フィリス！						
+LegendEvent_08_012ID	26	Firis	フィリス	イルちゃん……！						
+LegendEvent_08_012ID	27	Sophie	ソフィー	あっ、その感じ久々だね！						
+LegendEvent_08_012ID	28	Heidi	ハイディ	はっ……！　ユナさん……！　ごめん……！\n解散後にこんな貴重な機会を私だけ……！						
+LegendEvent_08_012ID	29	Lanze	ランツェ	お前はユナとどういう関係なんだよ……？						
+LegendEvent_08_012ID	30	Liane	リアーネ	久々にフィリスちゃんのアレが見られる……！？						
+LegendEvent_08_012ID	31	Corneria	コルネリア	ワクワク……、ワクワク……						
+LegendEvent_08_012ID	32	Firis	フィリス	ふふっ……！						
+LegendEvent_08_012ID	33	Firis	フィリス	天才なのはこのわたしもっ！\nフィリス・ミストルート！						
+LegendEvent_08_012ID	34	Firis	フィリス	天才錬金術士イルメリアの……\n大親友だよ！						
+LegendEvent_08_BTL_001ID	0		女性	あっ！　あなた、もしかして噂の錬金術士の……						
+LegendEvent_08_BTL_001ID	1	Ilmeria	イルメリア	ん？						
+LegendEvent_08_BTL_001ID	2		男性	もしかして、イルメリアちゃんとフィリスちゃんか！？\n天才だって噂だよな						
+LegendEvent_08_BTL_001ID	3	Ilmeria	イルメリア	いかにも。アタシがイルメリア。\n今をときめく、超一流の天才錬金術士よ！						
+LegendEvent_08_BTL_001ID	4		女性	きゃー、実物見れちゃった！\n友達に自慢しよーっと						
+LegendEvent_08_BTL_001ID	5	Ilmeria	イルメリア	ふふ……アタシ達が天才だって噂は\n着々と広まっているようね						
+LegendEvent_08_BTL_001ID	6	Firis	フィリス	でも、すっかり芸人って評判はなくなっちゃったね。\nそれはそれでなんだか寂しいなあ						
+LegendEvent_08_BTL_001ID	7	Ilmeria	イルメリア	流行りものなんて、みんな熱しやすく冷めやすいのよ。\nきっと来年になったら誰も覚えていないわ						
+LegendEvent_08_BTL_001ID	8		冒険者	あ、あなたは……！						
+LegendEvent_08_BTL_001ID	9	Ilmeria	イルメリア	あら、またアタシ達を知っている人が……						
+LegendEvent_08_BTL_001ID	10		冒険者	もしかして、ウェルテックス討伐戦に参加したという、\nフィリスさんですか！？						
+LegendEvent_08_BTL_001ID	11	Ilmeria	イルメリア	……ん？						
+LegendEvent_08_BTL_001ID	12	Firis	フィリス	あ、はい。そうですけど……						
+LegendEvent_08_BTL_001ID	13		冒険者	あのウェルテックスに立ち向かうなんて、\nなんて勇気のあるお方だ！						
+LegendEvent_08_BTL_001ID	14		冒険者	いやあ、素晴らしい活躍をした戦闘の天才だと\n耳にしましたよ！　冒険者として憧れなんです！						
+LegendEvent_08_BTL_001ID	15		冒険者	握手いいですか！？						
+LegendEvent_08_BTL_001ID	16	Firis	フィリス	ええっ！？　戦闘の天才だなんて、そんな……						
+LegendEvent_08_BTL_001ID	17	Ilmeria	イルメリア	……どういうことよ						
+LegendEvent_08_BTL_001ID	18	Firis	フィリス	え……イルちゃん、どうしたの？						
+LegendEvent_08_BTL_001ID	19	Ilmeria	イルメリア	どういうことよ！　戦闘の天才って！						
+LegendEvent_08_BTL_001ID	20	Firis	フィリス	前に、頂獣っていう魔物と戦っただけだよ。\n別にわたしだけで倒したわけじゃなくて……						
+LegendEvent_08_BTL_001ID	21	Ilmeria	イルメリア	経緯はどうだっていいの！\nあなただけが戦闘の天才と呼ばれてるのが問題なの！						
+LegendEvent_08_BTL_001ID	22	Ilmeria	イルメリア	こうしちゃいられないわ。\nアタシも、名を馳せるんだから						
+LegendEvent_08_BTL_001ID	23	Ilmeria	イルメリア	戦闘の天才として！！						
+LegendEvent_08_BTL_001ID	24	Firis	フィリス	えええっ！？						
+LegendEvent_08_BTL_001ID	25	Ilmeria	イルメリア	さあ、魔物を倒しまくるわよ！！！						

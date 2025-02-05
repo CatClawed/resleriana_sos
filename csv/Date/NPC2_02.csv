@@ -1,0 +1,365 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_NPC2_02_01ID	0	Juna	ユナ	……というわけで、騎士団の訓練に\n参加するべく、私はしばらく王都から\n離れます	Juna	...In other words, I'll be leaving the capital for a while to join the knights for their training.	尤娜	……以上，为了参加骑士团的训练，\n我会暂时离开王都。	尤娜	……事情就是這樣，\n我必須暫時離開王都\n去參加騎士團的訓練。
+Date_NPC2_02_01ID	1	Roman	ロマン	あぁ、重要な訓練だ、頼んだよ	Roman	Right. The training is very important. I leave it in your capable hands.	罗曼	嗯，这次的训练很重要，拜托你了。	羅曼	嗯，是很重要的訓練，萬事拜託了。
+Date_NPC2_02_01ID	2	Juna	ユナ	はい、騎士たちを仕上げてみせます	Juna	I'll ensure the knights are in top form.	尤娜	是，我会让好好锻炼骑士们的。	尤娜	是，我會帶領騎士們訓練出成果的。
+Date_NPC2_02_01ID	3	Roman	ロマン	いやぁとても残念だよユナと離れるのは	Roman	But it is indeed such a shame that you have to leave, Juna...	罗曼	唉，要和尤娜分开可太让人遗憾了。	羅曼	哎呀～和尤娜分開可是讓我備感遺憾呢。
+Date_NPC2_02_01ID	4	Juna	ユナ	その間、代わりにステルク殿が\n殿下の警護につくことになりました	Juna	During that time, Sir Sterk will be taking over your protection.	尤娜	我不在的期间，会由史特尔克阁下\n负责殿下的警卫工作。	尤娜	這段期間，史特爾克先生會代替我保護殿下的安全。
+Date_NPC2_02_01ID	5	Roman	ロマン	えっ、ステルクが？	Roman	Wait, Sterk?	罗曼	什么，史特尔克？	羅曼	咦，史特爾克嗎？
+Date_NPC2_02_01ID	6	Juna	ユナ	彼は外部の人間ですが、剣の腕は確かで、\n元の世界で王族の警護をした経験もあります	Juna	Although he's not part of our kingdom, he's skilled with the sword and has experience guarding royalty in his own world.	尤娜	他虽然不是骑士团的人，但剑术高超，\n在原本的世界也担任过王族的警卫。	尤娜	雖然他是個外部人員，但是劍術十分了得。\n在原本的世界也曾經擔任過王族護衛。
+Date_NPC2_02_01ID	7	Juna	ユナ	直接彼と話して、彼の腕を見た私が\n国王陛下に進言させていただきました。\n特例中の特例です	Juna	I have spoken with him directly and seen his skills firsthand, which led me to recommend him to His Majesty. A very rare exception.	尤娜	我在和他当面对谈，\n并亲眼确认过他的实力之后\n向国王陛下举荐了他，属于特例中的特例。	尤娜	我直接當面領教過他的談吐與實力，\n最後決定特別破例，將他舉薦給國王陛下。
+Date_NPC2_02_01ID	8	Roman	ロマン	なるほど、それでここにいるのか。\nよろしくね、ステルク	Roman	I see, so that's why he's here. I look forward to working with you, Sterk.	罗曼	原来如此，怪不得史特尔克会在这儿。\n那就麻烦你了，史特尔克。	羅曼	原來如此，所以你才會在這裡啊。\n請多指教了，史特爾克。
+Date_NPC2_02_01ID	9	Sterk	ステルク	誠心誠意務めさせていただきます。\nよろしくお願いいたします	Sterk	It is a pleasure to serve you. I shall protect you with all my strength.	史特尔克	鄙人愿为殿下鞠躬尽瘁。	史特爾克	我將全心全意守護您的安全，還請您多多指教。
+Date_NPC2_02_01ID	10	Sterk	ステルク	たとえどんな災いが襲い掛かろうとも\nこの剣に賭けて、傷一つなく\nリヒャルト殿をお守りすることを誓います	Sterk	No matter what disaster may strike, I swear upon my sword that no harm will come to you, Prince Richard.	史特尔克	鄙人对剑起誓，无论发生任何灾情，\n必定保证理查德殿下周全。	史特爾克	以此劍為誓，無論發生何種災難，\n我都會保護理查德殿下，\n絕不讓您受一絲傷害。
+Date_NPC2_02_01ID	11	Roman	ロマン	まぁ、そうかしこまらないでくれ	Roman	Right, but no need to be so formal.	罗曼	不用这么拘谨。	羅曼	好了，不必這麼畢恭畢敬的。
+Date_NPC2_02_01ID	12	Roman	ロマン	せっかくの縁だ。\n騎士とか王族といった身分の前に、\n友人として親しくなりたいな	Roman	This is a great opportunity. Before we worry about knights and royalty, let's get to know each other as friends.	罗曼	缘分难得，我更想以友人的身份和你相处，\n而不是王子与骑士。	羅曼	難得有緣，\n我們就別拘泥於騎士與王族的身分，\n親近一點以朋友相稱吧。
+Date_NPC2_02_01ID	13		選択肢	畏れ多いとかしこまる	Selection	Claim that would be inappropriate	选项	岂敢	選項	這實在不勝惶恐。
+Date_NPC2_02_01ID	14	Sterk	ステルク	一介の騎士が王子と友人になるなど\n畏れ多いです	Sterk	It is unbefitting for a mere knight to befriend a prince.	史特尔克	鄙人区区一介骑士，\n岂敢自称是王子殿下的友人。	史特爾克	一介騎士豈敢與王子成為朋友，\n這實在是不勝惶恐。
+Date_NPC2_02_01ID	15	Roman	ロマン	私は、リヒャルトとしてだけでなく、\nロマンとしても君と仲良くなりたいんだ	Roman	I want to get to know you not just as Richard, but as Roman.	罗曼	我是想作为罗曼和你交好，\n而不是作为理查德。	羅曼	不僅是作為理查德，\n我也想以羅曼的身分與你交朋友。
+Date_NPC2_02_01ID	16	Roman	ロマン	ロマンである私は、一介の冒険者。\n君と変わらない身分だ。違うかい？	Roman	As Roman, I'm a mere adventurer, making me no different in status from you.	罗曼	身为罗曼时的我只是普通的冒险者，\n和你没什么两样，不是吗？	羅曼	我自稱羅曼時，只是一名冒險者。\n我們的身分沒有區別，你說對吧？
+Date_NPC2_02_01ID	17	Sterk	ステルク	かなり無理やりな理屈ですが……\n理解はいたしました	Sterk	That's quite a contrived argument, but...very well.	史特尔克	您这是强词夺理……\n但我明白了。	史特爾克	這說法還真是牽強……我明白了。
+Date_NPC2_02_01ID	18		選択肢	寛大な心に感激する	Selection	Express gratitude for his generosity	选项	感谢王子的宽容之心	選項	感謝他的寬容
+Date_NPC2_02_01ID	19	Sterk	ステルク	なんと、そのようなお言葉を\nいただけるとは……！	Sterk	I never expected such kind words from you.	史特尔克	真是没想到能得到您这样的抬爱……！	史特爾克	我何其有幸能從您口中聽見這樣的話……！
+Date_NPC2_02_01ID	20	Sterk	ステルク	異邦人の元騎士という分際で、\n第二王子たるリヒャルト殿下に\n友人と言っていただけるなど	Sterk	I am just a wanderer and former knight; to be called a friend by His Highness the secondborn prince—it's an honor.	史特尔克	鄙人不过是区区一介曾经担任过骑士的异邦人，\n第二王子理查德殿下竟愿称我为友人。	史特爾克	沒想到區區一個異邦人的前騎士，\n竟然能讓第二王子理查德殿下稱我為朋友。
+Date_NPC2_02_01ID	21	Sterk	ステルク	私にはとてももったいないお言葉です。\nありがたき幸せ……	Sterk	Truly words I don't deserve. I'm deeply grateful.	史特尔克	这对鄙人来说是无上的光荣……	史特爾克	真的是太不敢當了，在下不勝感激……
+Date_NPC2_02_01ID	22	Roman	ロマン	そこまで恐縮しなくても。\n喜んでもらえるのは嬉しいけどね	Roman	You don't have to be quite so humble. I'm happy to hear that, though.	罗曼	你说话也太客气了。\n不过你高兴就好。	羅曼	用不著如此誠惶誠恐的，\n我很高興你能樂意接受這個提議。
+Date_NPC2_02_01ID	23		選択肢	裏があるのではと怪しむ	Selection	Question his intentions	选项	怀疑是否有隐情	選項	懷疑事情並不單純
+Date_NPC2_02_01ID	24	Sterk	ステルク	そのように言っていただけるのは\n嬉しいのですが……	Sterk	I appreciate the kind words, but...	史特尔克	能得到王子抬爱，鄙人荣幸之至……	史特爾克	我很高興能聽見您這樣說，不過……
+Date_NPC2_02_01ID	25	Sterk	ステルク	もしかして、私と仲良くなることで\nユナ殿より監視が緩くなるのを\n期待されていませんか？	Sterk	Could it be that by getting close to me, you hope for less oversight than with Lady Juna?	史特尔克	但莫非殿下内心期待的是和我打好关系后，\n我的监视会比尤娜阁下更松懈？	史特爾克	您是想藉著與我打好關係，\n讓尤娜小姐放鬆對您的監視嗎？
+Date_NPC2_02_01ID	26	Roman	ロマン	そ、そんなことはないさ！\n断じて！	Roman	N-No! Absolutely not!	罗曼	才、才没有这种事呢！\n绝对没有！	羅曼	才、才沒有這回事！絕對沒有！
+Date_NPC2_02_01ID	27	Roman	ロマン	ところで、食事はもう済ませたかい？	Roman	By the way, have you eaten yet?	罗曼	话说回来，你吃饭了吗？	羅曼	話說，你吃過飯了嗎？
+Date_NPC2_02_01ID	28	Sterk	ステルク	いえ、まだですが	Sterk	No, not yet.	史特尔克	不，还没有。	史特爾克	不，還沒有。
+Date_NPC2_02_01ID	29	Roman	ロマン	だったら一緒にカフェへ行こう！\n親交を深める第一歩として、\n同じ釜の飯を食べようじゃないか	Roman	Then let's go to the cafe together! Sharing a meal will be the first step toward deepening our friendship.	罗曼	那就一起去咖啡厅吧！作为加深交情的第一步，先来同吃一锅饭吧。	羅曼	那我們一起去咖啡廳吧！讓感情升溫的第一步，就是吃同一鍋飯。
+Date_NPC2_02_01ID	30	Sterk	ステルク	えっ、同じ釜の飯……？\nお、お待ちくださいリヒャルト殿下！	Sterk	Hm? Sharing a meal? H-Hold on! Prince Richard!	史特尔克	咦，同一锅饭……？\n请、请等一下，理查德殿下！	史特爾克	咦、吃同一鍋飯……？\n請、請您等一下，理查德殿下！
+Date_NPC2_02_01ID	31	Roman	ロマン	さて、何を注文しようかな。\n……おっ、新作料理もあるね、心が躍る	Roman	Now, what should I order? Oh, they have a new dish on the menu! Exciting.	罗曼	点些什么好呢。哦……有新品菜式啊，真令人雀跃。	羅曼	那麼，要點些什麼好呢……哦，還有新菜色呢，真令人期待。
+Date_NPC2_02_01ID	32	Sterk	ステルク	一介の騎士が王子と食卓を共にするなど……	Sterk	A mere knight dining with a prince is so unbecoming...	史特尔克	区区一介骑士，居然和王子殿下同桌进餐……	史特爾克	區區一名騎士竟然與王子同桌共食……
+Date_NPC2_02_01ID	33	Roman	ロマン	はっはっは、まだ言ってるのかい。\n私のわがままに付き合ってるということに\nすれば、それでいいじゃないか	Roman	Haha, you're still on about that? Just think of it as humoring my whims.	罗曼	哈哈哈，你怎么还在说这种话。你就当成是在陪我胡闹吧。	羅曼	哈哈哈，你還在說這種話啊。只要當作是在配合我的任性不就好了嗎？
+Date_NPC2_02_01ID	34	Sterk	ステルク	でも……	Sterk	But...	史特尔克	可是……	史特爾克	但是……
+Date_NPC2_02_01ID	35	Roman	ロマン	好きなものはあるかい？　\n何でも頼んでいいからね	Roman	What kind of food do you like? You can order anything you want.	罗曼	有你喜欢的菜式吗？\n想点什么就点。	羅曼	你有喜歡吃的東西嗎？想點什麼都可以喔。
+Date_NPC2_02_01ID	36		選択肢	飲みものだけ頼む	Selection	Order only a drink	选项	只点饮品	選項	只點飲料
+Date_NPC2_02_01ID	37	Sterk	ステルク	では、紅茶を	Sterk	I'll have some tea, please.	史特尔克	那我要一杯红茶。	史特爾克	那請給我紅茶。
+Date_NPC2_02_01ID	38	Roman	ロマン	うんうん、それと？	Roman	Mhmm, and?	罗曼	嗯嗯，然后呢？	羅曼	好的好的，還有呢？
+Date_NPC2_02_01ID	39	Sterk	ステルク	以上で	Sterk	That will be all.	史特尔克	没有了。	史特爾克	就這樣。
+Date_NPC2_02_01ID	40	Roman	ロマン	それだけでいいのかい？	Roman	Is that really enough for you?	罗曼	就只要一杯红茶？	羅曼	紅茶就好了嗎？
+Date_NPC2_02_01ID	41	Sterk	ステルク	ええ	Sterk	Yes.	史特尔克	是的。	史特爾克	嗯。
+Date_NPC2_02_01ID	42	Roman	ロマン	遠慮しなくていいのに	Roman	No need to hold back.	罗曼	你不用跟我客气。	羅曼	你真的不用客氣啦。
+Date_NPC2_02_01ID	43	Sterk	ステルク	遠慮ではありません。\n満腹になると業務に差し障るので	Sterk	I'm not holding back. Eating too much may hinder my ability to perform my duties.	史特尔克	这并非客气。\n而是饱腹会影响到身为警卫的工作。	史特爾克	這不是客氣，吃太飽會妨礙工作的。
+Date_NPC2_02_01ID	44	Roman	ロマン	なるほど。騎士として最大限の働きを\nするために、己を律しているんだな。\nさすがユナが認める男だ	Roman	I see. You're disciplining yourself to be at your best as a knight. I can see why Juna put her trust in you.	罗曼	原来如此。\n你严于律己是为了贯彻骑士的职责啊。\n不愧是尤娜认可的男人。	羅曼	原來如此。騎士必須隨時約束自己，\n才能發揮最大的實力。\n不愧是尤娜認可的人選。
+Date_NPC2_02_01ID	45	Roman	ロマン	それなら君の意思を尊重して\n無理強いはしないでおこう	Roman	Very well. I'll respect your wishes and won't push it any further.	罗曼	那我也尊重你的意愿，不勉强你吃饭了。	羅曼	那我就尊重你的意思，不勉強你了。
+Date_NPC2_02_01ID	46	Roman	ロマン	今度は君の仕事が終わった後に\n食事に誘うとするよ	Roman	Next time, I'll have to invite you after your duties are done.	罗曼	下次我会在你工作结束后再邀请你吃饭的。	羅曼	下次我會等你下班之後，再來約你吃飯的。
+Date_NPC2_02_01ID	47		選択肢	ロマンの好物を頼む	Selection	Order Roman's favorite food	选项	点罗曼喜欢的菜品	選項	點羅曼喜歡的食物
+Date_NPC2_02_01ID	48	Sterk	ステルク	（確か、ユナ殿から聞いた情報では……）	Sterk	(If I recall from Lady Juna's advice...)	史特尔克	（我记得尤娜阁下提供的情报里说……）	史特爾克	（我記得尤娜小姐曾經說過……）
+Date_NPC2_02_01ID	49	Sterk	ステルク	卵のサンドイッチと……	Sterk	I'll have an egg sandwich...	史特尔克	我要鸡蛋三明治和……	史特爾克	請給我雞蛋三明治……
+Date_NPC2_02_01ID	50	Sterk	ステルク	あとは、この海鮮のサラダも	Sterk	And a seafood salad.	史特尔克	这个海鲜沙拉。	史特爾克	還有這個海鮮沙拉。
+Date_NPC2_02_01ID	51	Roman	ロマン	奇遇だね、私もそれが好きなんだ！\n君とは気が合いそうだ	Roman	What a coincidence, I love those! It seems we have similar tastes.	罗曼	好巧，我也喜欢这两道菜。\n看样子我和你很合得来呢。	羅曼	真巧，這些我也喜歡吃。\n看來我們很合得來。
+Date_NPC2_02_01ID	52	Roman	ロマン	じゃあ、私はロロナお手製のミートパイで	Roman	I guess I'll have Rorona's homemade meat pie then.	罗曼	那我要萝乐娜亲手制作的肉味咸派。	羅曼	那麼，我要蘿樂娜的自製肉味鹹派。
+Date_NPC2_02_01ID	53	Sterk	ステルク	えっ……	Sterk	Huh?	史特尔克	什么……	史特爾克	咦……
+Date_NPC2_02_01ID	54	Sterk	ステルク	（なぜ私の好物をご存知で……？）	Sterk	(How does he know my favorite food?)	史特尔克	（他怎么知道我喜欢的食物……？）	史特爾克	（他怎麼知道我喜歡什麼……？）
+Date_NPC2_02_01ID	55	Roman	ロマン	ふふ、驚いたかい？	Roman	Hehe, surprised?	罗曼	呵呵，很惊讶吗？	羅曼	呵呵，很驚訝嗎？
+Date_NPC2_02_01ID	56	Roman	ロマン	実は君がついてくれることが決まってから、\nロロナたちから色々情報収集していたんだ	Roman	After you were assigned to me, I gathered my own information from Rorona and the others.	罗曼	其实自从确定了由你担任我的护卫之后，\n我就从萝乐娜她们那里收集了很多情报。	羅曼	其實早在確定護衛是你時，\n我就向蘿樂娜她們打聽了不少你的情報。
+Date_NPC2_02_01ID	57	Roman	ロマン	私は気遣いにも定評がある男なのさ	Roman	Being mindful of others is something I'm known for.	罗曼	我在体贴他人上可是有口皆碑。	羅曼	大家都說我是善解人意的男人呢。
+Date_NPC2_02_01ID	58	Sterk	ステルク	ありがとうございます……	Sterk	Thank you, Your Highness.	史特尔克	非常感谢……	史特爾克	實在感激不盡……
+Date_NPC2_02_01ID	59	Sterk	ステルク	（さすがだな、リヒャルト殿下。\n　聞きしに勝る人たらし具合だ）	Sterk	(As expected of Prince Richard. His charm even exceeds the rumors.)	史特尔克	（不愧是理查德殿下。\n　比传闻中更会笼络人心。）	史特爾克	（真不愧是理查德殿下，\n　比傳聞中還要懂得討人歡心。）
+Date_NPC2_02_01ID	60		選択肢	食べたいものを正直に伝える	Selection	Honestly order your favorite	选项	坦言自己想吃的菜	選項	誠實說出想吃的料理
+Date_NPC2_02_01ID	61	Sterk	ステルク	では、この……ミートパイで	Sterk	I'll have the meat pie.	史特尔克	那……我要这个肉味咸派。	史特爾克	那就這個……肉味鹹派。
+Date_NPC2_02_01ID	62	Roman	ロマン	ああ、そのパイは私も好きだ。\nロロナは本当にパイ作りの達人だよね	Roman	Ah, I love that pie too. Rorona really is a master pie maker.	罗曼	啊，我也喜欢这个派。\n萝乐娜真是烤派的专家呢。	羅曼	哦，我也喜歡肉味鹹派。\n蘿樂娜真的是烤派達人，對吧。
+Date_NPC2_02_01ID	63	Roman	ロマン	飲みものはどうする？	Roman	What will you have to drink?	罗曼	饮料你要什么？	羅曼	要來些飲料嗎？
+Date_NPC2_02_01ID	64	Sterk	ステルク	紅茶にしようかと	Sterk	I'll have some tea.	史特尔克	我想要红茶。	史特爾克	我想選紅茶。
+Date_NPC2_02_01ID	65	Roman	ロマン	そういえば、ここの紅茶は飲んだこと\nなかったか。\nせっかくだし、私も一杯いただこうかな	Roman	Come to think of it, I don't think I've ever tried the tea here. I'll have a cup too.	罗曼	说起来，我还没喝过这里的红茶呢。\n机会难得，我也来一杯吧。	羅曼	說起來，我好像沒喝過這裡的紅茶。\n機會難得，我也來一杯吧。
+Date_NPC2_02_01ID	66	Sterk	ステルク	すみません、お言葉に甘えてしまって	Sterk	I apologize for indulging in your kindness.	史特尔克	抱歉，我一点也没客气。	史特爾克	不好意思，今天承蒙您的邀請。
+Date_NPC2_02_01ID	67	Roman	ロマン	いいんだ、食事の席くらい\n遠慮しないでくれ。\n私もその方が気が楽だからね	Roman	No need to apologize. Just relax and enjoy the meal. It's easier for both of us that way!	罗曼	没关系，在餐桌上不用在意繁文缛节。\n这样我也比较自在。	羅曼	不用謝，在飯桌上可以放鬆一點。\n這樣我也比較自在。
+Date_NPC2_02_01ID	68		客	……それで俺は思うんだよ、一部の\n威張ってる貴族どもを、もっと\n王国は取り締まるべきだってよ	Customer	An' that's why I think the kingdom ought to crack down on them arrogant nobles!	客人	……然后我就想，忘过应该多管管那些摆架子的贵族。	顧客	……所以我就在想，王國應該更加嚴格地管束部分囂張跋扈的貴族。
+Date_NPC2_02_01ID	69	Roman	ロマン	ふむふむ、なるほど	Roman	Hmm, hmm, I see.	罗曼	嗯嗯，原来如此。	羅曼	嗯嗯，這樣啊。
+Date_NPC2_02_01ID	70		客	身内に甘いのはよくないよ、絶対。\n俺が王様なら、重罰にするね重罰に	Customer	Playin' favorites with them just 'cause they're family ain't right. If I were king, I'd dish out some real punishment.	客人	对自己人太过宽容绝对不是好事。我要是国王，就狠狠罚他！	顧客	對自己人太過寬容絕對不是件好事。如果我是君王，一定會加以嚴懲。
+Date_NPC2_02_01ID	71	Sterk	ステルク	（酔って過激な事を言っている……）	Sterk	(He's drunk and spouting radical ideas...)	史特尔克	（那个人喝醉了，说的都是些过火的话……）	史特爾克	（喝醉酒就開始講些激進言論……）
+Date_NPC2_02_01ID	72	Sterk	ステルク	（リヒャルト殿下は、どうしてこんな\n　話を楽しそうに聞けるのか）	Sterk	(How can Prince Richard listen to such things with so much enthusiasm?)	史特尔克	（为什么理查德殿下能　乐呵呵地听他们说呢？）	史特爾克	（理查德殿下為什麼能津津有味地　聽他高談闊論呢？）
+Date_NPC2_02_01ID	73	Sterk	ステルク	（とはいえ、こんなどこの馬の骨かも\n　わからない人々と話し込むのは危険だ。\n　さすがに止めないと……）	Sterk	(Still, conversing with unknown commoners like this could be dangerous. I should intervene soon...)	史特尔克	（话又说回来，\n　和这种来路不明的人聊得太深入\n　会有危险。必须制止殿下……）	史特爾克	（話雖如此，\n　與這些來歷不明的人交談實在太危險了。\n　必須制止他們才行……）
+Date_NPC2_02_01ID	74		選択肢	身分を自覚するよう諭す	Selection	Remind Roman of his status	选项	提醒罗曼注意身份	選項	提醒他注意自己的身分
+Date_NPC2_02_01ID	75	Sterk	ステルク	リヒャルト殿下。\nご自分の身分を自覚してください	Sterk	Your Highness, please do remember your position while here.	史特尔克	理查德殿下。\n请您注意身份。	史特爾克	理查德殿下，請您注意自己的身分。
+Date_NPC2_02_01ID	76	Roman	ロマン	もちろん自覚しているよ	Roman	Oh, I'm perfectly aware.	罗曼	我有在注意哦。	羅曼	我當然隨時都在注意啊。
+Date_NPC2_02_01ID	77	Roman	ロマン	自覚しているからこそ、\nこうして市井の人々と交わって、\n彼らの声を父上や兄上に届けているのさ	Roman	It's because I know my position that I take the time to mingle with the people, to hear their voices and relay them to my father and brother.	罗曼	正因为我明白自己的身份，\n才要和民众深入交流，\n把他们的声音传达给父亲和哥哥。	羅曼	正因為隨時都在注意，\n我才會像這樣與市井百姓閒聊，\n將他們的心聲傳達給父王和兄長大人。
+Date_NPC2_02_01ID	78	Roman	ロマン	さぁ、もっと聞かせてくれ！\n君の話を！	Roman	Now, tell me more! I want to hear the rest of your thoughts!	罗曼	你再多说一些给我听吧！	羅曼	來吧，多說一點！把你的事情告訴我！
+Date_NPC2_02_01ID	79		客	そうだなぁ、\nこれは俺のカカアがいってたんだが	Customer	Let me think... Oh! This is actually something my wife always says, but...	客人	我想想啊，这是我老婆告诉我的……	顧客	這個嘛，接下來這件事是我老婆說的……
+Date_NPC2_02_01ID	80	Sterk	ステルク	（しまった、\n　更に調子に乗らせてしまった……）	Sterk	(Curses. Now he's even more invested than before...)	史特尔克	（糟了，这下他更来劲了……）	史特爾克	（糟糕，這傢伙更得意忘形了……）
+Date_NPC2_02_01ID	81		選択肢	身分をバラすふりをする	Selection	Pretend to reveal Roman's identity	选项	假装要暴露罗曼的身份	選項	假裝要拆穿他的身分
+Date_NPC2_02_01ID	82	Sterk	ステルク	そこの者！！\nこの方をどなたと心得ている！！	Sterk	You there! Do you even realize who you're speaking to?	史特尔克	我说你！！\n你知道这位大人是谁吗！！	史特爾克	無禮之徒！！你可知道這位大人是何方神聖！！
+Date_NPC2_02_01ID	83	Sterk	ステルク	恐れ多くもランターナ王国第二……んがっ！	Sterk	This man is none other than Lantarna's secondb—mngh!	史特尔克	他可是尊贵的兰塔纳王国第二……唔！	史特爾克	他可是堂堂蘭塔納王國的第二……唔唔！
+Date_NPC2_02_01ID	84	Roman	ロマン	ステルク！\nちょーっと一旦ここから離れようか！	Roman	Sterk! Let's just take a little walk for a moment, shall we?	罗曼	史特尔克！我们先离开这里吧！	羅曼	史特爾克！我們暫時先離開一下吧！
+Date_NPC2_02_01ID	85	Roman	ロマン	まったく、びっくりするじゃないか。\n私の正体を明かそうとするなんて	Roman	Goodness, you really surprised me there. I didn't think you'd just reveal me like that...	罗曼	哎，真是被你吓死了。\n居然想暴露我的身份。	羅曼	真是的，嚇我一跳啊。\n你居然打算當眾拆穿我的身分。
+Date_NPC2_02_01ID	86	Sterk	ステルク	本気で明かすつもりはありませんでしたよ	Sterk	I had no intention of actually revealing your identity.	史特尔克	我没有打算真的暴露。	史特爾克	其實我並沒有真的要拆穿您。
+Date_NPC2_02_01ID	87	Roman	ロマン	え？	Roman	Huh?	罗曼	什么？	羅曼	咦？
+Date_NPC2_02_01ID	88	Sterk	ステルク	こうでもしないと止めないでしょう？	Sterk	If I didn't take such drastic action, you never would have stopped, correct?	史特尔克	不这么做的话，没办法阻止殿下吧？	史特爾克	只是這樣做您才會停下來吧？
+Date_NPC2_02_01ID	89	Roman	ロマン	なんだ、一芝居打たれていたのか……	Roman	Ah-hah! So it was all a ruse?	罗曼	原来那都是演技啊……	羅曼	搞什麼，原來是在演戲啊……
+Date_NPC2_02_01ID	90	Roman	ロマン	私としたことが、まんまと引っ掛かって\nしまったよ。\n君、演技の才能あるんじゃないのかい？	Roman	Well, you managed to trick me into thinking you were really going for it. You know, you might have a talent for theater!	罗曼	没想到我居然完全上当了。\n你很有表演天赋吧？	羅曼	我完全被你耍得團團轉耶。\n你其實很有演戲的天分吧？
+Date_NPC2_02_01ID	91	Sterk	ステルク	それはどうでしょう	Sterk	I'm not so sure about that...	史特尔克	这可不好说。	史特爾克	這可不見得。
+Date_NPC2_02_01ID	92	Sterk	ステルク	（自由な方々に仕えることが\n　多かったせいで、似たような場面に\n　慣れているだけな気がするが）	Sterk	(Though, having served many carefree individuals, I have gotten used to situations like this...)	史特尔克	（大概只是因为以前一直侍奉自由散漫的人，\n　习惯了类似的场面罢了。）	史特爾克	（我感覺只是因為自己\n　過去侍奉過的人大多都很隨興，\n　所以已經習慣應付類似的場面了。）
+Date_NPC2_02_01ID	93		選択肢	ユナの名前を出して脅す	Selection	Bring up Juna's name	选项	搬出尤娜的名字警告罗曼	選項	利用尤娜來威脅
+Date_NPC2_02_01ID	94	Sterk	ステルク	リヒャルト殿下。\nいい加減にしないと、\nユナ殿に言いつけますよ	Sterk	Prince Richard, if you keep this up, I'll have to report this to Lady Juna.	史特尔克	理查德殿下。\n您再不收敛的话，\n我就要告诉尤娜阁下了。	史特爾克	理查德殿下，您要是不節制點，\n我就要跟尤娜小姐告狀了。
+Date_NPC2_02_01ID	95	Roman	ロマン	それは……	Roman	N-No, wait!	罗曼	这……	羅曼	這……
+Date_NPC2_02_01ID	96	Roman	ロマン	……わかった。\nそろそろ帰るとするよ……	Roman	Fine. I suppose it's time to head home...	罗曼	我知道了……\n我们走吧……	羅曼	……好吧，差不多該回去了……
+Date_NPC2_02_01ID	97	Sterk	ステルク	（思ったより効いてしまった。\n　ここまで落ち込まれると、\n　少し罪悪感が……）	Sterk	(That worked a little too well. Now I feel a bit guilty for stopping his fun...)	史特尔克	（比我想的还要有效。\n　看他这么失望，\n　不禁有点罪恶感……）	史特爾克	（沒想到效果出奇地好。\n　看到他這麼沮喪，總覺得有點愧疚……）
+Date_NPC2_02_01ID	98	Sterk	ステルク	安心してください。\nすぐには言いつけませんよ	Sterk	Rest assured, I won't be reporting anything without just cause.	史特尔克	请放心，我不会马上报告的。	史特爾克	請放心，我不會馬上去告狀的。
+Date_NPC2_02_01ID	99	Roman	ロマン	本当かい？	Roman	Really?	罗曼	真的吗？	羅曼	真的嗎？
+Date_NPC2_02_01ID	100	Sterk	ステルク	でも、ほどほどになさってくださいね	Sterk	But do try to keep things in moderation.	史特尔克	不过还请您注意分寸。	史特爾克	但是，希望您能適可而止。
+Date_NPC2_02_01ID	101	Roman	ロマン	はい……	Roman	Very well...	罗曼	嗯……	羅曼	好……
+Date_NPC2_02_01ID	102	Sterk	ステルク	（しかし、リヒャルト殿下を見ていると\n　なんだか、すごく……\n　あのお方のことを思い出す）	Sterk	(Still, watching over Prince Richard does remind me of someone else I used to serve.)	史特尔克	（不过看着理查德殿下，\n　我总是忍不住……想起那位大人。）	史特爾克	（不過，看著理查德殿下，\n　我總會……不自覺地想起那位大人。）
+Date_NPC2_02_01ID	103	Sterk	ステルク	（あのお方も、一国の王という立場で\n　ありながら、度々城を抜け出していた。\n　私は何度振り回されたことか……）	Sterk	(I remember he would sneak out of the castle all the time, despite being king. I lost count of how many times I had to chase after him...)	史特尔克	（那位大人身为一国之王，\n　总是动不动逃出城堡。\n　我都被耍了不知道多少次……）	史特爾克	（明明貴為一國之主，\n　那位大人卻總是偷溜出城。\n　我都不知道被他耍了多少次……）
+Date_NPC2_02_01ID	104	Sterk	ステルク	（はぁ……せっかく騎士らしい仕事を\n　いただけたと思ったのに。\n　無事任務を果たせるのだろうか……）	Sterk	(*Sigh* I thought this assignment would be a proper knight's assignment, but I'm starting to wonder if I'll be able to handle it without issue...)	史特尔克	（哎……好不容易获得了像个骑士的工作，\n　我能顺利完成任务吗……）	史特爾克	（唉……還以為自己\n　好不容易找到像個騎士的工作了，\n　這下我真的能順利完成任務嗎……）
+Date_NPC2_02_02ID	0	Sterk	ステルク	あの、リヒャルト殿下。\nこんなところで用事って何ですか？	Sterk	Prince Richard, may I ask what business you have in a place like this?	史特尔克	理查德殿下，您说来这里有事是指？	史特爾克	那個，理查德殿下。\n您到這種地方做什麼呢？
+Date_NPC2_02_02ID	1	Sterk	ステルク	確か、ここはあまり治安の良い場所では\nないはず。そんなところに、王族が足を\n踏み入れるなど……	Sterk	I believe this area isn't known for its safety. It may not be a good idea for royalty to set foot here...	史特尔克	我记得这一带治安不是很好。\n您身为王族，来这里是否有些……	史特爾克	我記得這裡的治安不太好，\n實在不是王族該來的地方……
+Date_NPC2_02_02ID	2	Roman	ロマン	まぁまぁ、細かいことはいいじゃないか。\nたとえ何かあったとしても、そばに君が\nいるんだし	Roman	Relax, relax. Don't worry about the details. Besides, that's why you're here with me.	罗曼	好啦，别在意细节。\n不管发生了什么事，\n不是还有你在我身边吗。	羅曼	哎呀，別這麼斤斤計較的嘛。\n反正真的發生危險了，\n還有你在身邊啊。
+Date_NPC2_02_02ID	3	Sterk	ステルク	それ、免罪符ではありませんからね	Sterk	That's no reason to knowingly put you in danger.	史特尔克	这可不是免罪金牌啊。	史特爾克	我這個護衛可不是萬能的喔。
+Date_NPC2_02_02ID	4	Sterk	ステルク	（ん……？　なんだこの人だかりは）	Sterk	(Hmm? Why is there such a huge crowd here?)	史特尔克	（嗯？那些人聚在一起干什么？）	史特爾克	（嗯……？這片人潮是怎麼回事？）
+Date_NPC2_02_02ID	5	Roman	ロマン	よし、大方集まったみたいだね	Roman	Looks like everyone's here.	罗曼	好，看来人来得差不多了。	羅曼	好，看來差不多都到齊了。
+Date_NPC2_02_02ID	6	Roman	ロマン	それでは早速、\nロマン主催　大腕相撲大会を始める！	Roman	All right then, let's get Roman's Arm Wrestling Contest started!	罗曼	那么我宣布，\n罗曼主办的掰手腕大赛现在开始！	羅曼	那麼事不宜遲，羅曼主辦的腕力大賽正式開始！
+Date_NPC2_02_02ID	7		荒くれ者たち	うぉおおおおっ！！	Ruffians	Yeaaah!	混混们	呜噢噢噢噢！！	暴徒們	唔喔喔喔喔！！
+Date_NPC2_02_02ID	8	Sterk	ステルク	は……？	Sterk	Huh?!	史特尔克	啊……？	史特爾克	什麼……？
+Date_NPC2_02_02ID	9	Roman	ロマン	それじゃ、まずは余興がてら\n私が参戦しよう！	Roman	I think I'll kick things off by entering myself!	罗曼	那么首先作为余兴表演，我来出战！	羅曼	首先，讓我來幫大家助助興，挑戰一場吧！
+Date_NPC2_02_02ID	10	Roman	ロマン	私と対戦したい力自慢はいるかい？	Roman	Is anyone brave enough to challenge me?	罗曼	有没有对自己有信心的人要和我比比？	羅曼	有沒有大力士想與我一戰啊？
+Date_NPC2_02_02ID	11	Sterk	ステルク	（腕相撲だと……？）	Sterk	(Arm wrestling?)	史特尔克	（掰手腕……？）	史特爾克	（腕力大賽……？）
+Date_NPC2_02_02ID	12		選択肢	（止めなくては！）	Selection	(I have to stop this!)	选项	（我必须阻止殿下！）	選項	（必須制止他才行！）
+Date_NPC2_02_02ID	13	Sterk	ステルク	王族のあなたが一体何を！	Sterk	You're royalty! What are you thinking?!	史特尔克	您身为王族，究竟在想些什么！	史特爾克	您身為王族竟做出此等不入流之事！
+Date_NPC2_02_02ID	14	Roman	ロマン	腕相撲は立派な競技だよ。\nその言いがかりは腕相撲に失礼だと\n思わないかい？	Roman	I'll have you know, arm wrestling is a noble sport. Don't you think you're being a bit rude to all the arm wrestlers?	罗曼	掰手腕可是正经的竞技。\n你这么说，不觉得对掰手腕本身很失礼吗？	羅曼	比腕力是一項專業的競技，\n你這樣說不覺得太失禮了嗎？
+Date_NPC2_02_02ID	15	Sterk	ステルク	そうではなく、こんなごろつきたちを\n相手にするなど……	Sterk	That's not the point! You're mingling with ruffians!	史特尔克	我不是说掰手腕本身，\n而是您居然要和这些混混比……	史特爾克	不是的，我是指您不該與這些地痞無賴廝混……
+Date_NPC2_02_02ID	16	Roman	ロマン	彼らも私の愛すべき国民さ	Roman	They're my beloved people!	罗曼	他们也是我深爱的国民啊。	羅曼	他們也是我親愛的國民啊。
+Date_NPC2_02_02ID	17	Sterk	ステルク	（真っ直ぐな目……\n　誰にでも隔てなく接するのは、\n　自由が欲しいための方便ではないようだ）	Sterk	(Hmm... There's sincerity in his eyes. He's not mingling with these people just to escape his royal duties.)	史特尔克	（这直率的眼神……\n　看来他亲切且平等地对待每一个人\n　并不只是方便自己争取自由的手段。）	史特爾克	（好真誠的眼神……\n　看來他對任何人都一視同仁，\n　並不是為了方便自己獲取自由。）
+Date_NPC2_02_02ID	18	Sterk	ステルク	（あんな荒くれ者たちにも、\n　そんなことをさらりと言ってのける。\n　その器の大きさには感服するな）	Sterk	(I'm amazed at how openly and kindly he speaks, even with these rowdy types. His capacity as a ruler is truly impressive.)	史特尔克	（面对那些粗俗的人\n　都能面不改色地说出这种话，\n　殿下的气量不可不谓大度。）	史特爾克	（就連對那些魯莽的粗人\n　也能爽快地說出這種話，\n　他的器量真是令人佩服。）
+Date_NPC2_02_02ID	19		選択肢	（少し惹かれるな……）	Selection	(I'm a bit intrigued...)	选项	（好像有点意思……）	選項	（有點對他刮目相看了……）
+Date_NPC2_02_02ID	20	Sterk	ステルク	（元の世界にいた頃、王国祭で\n　腕相撲をしたことを思い出すな……）	Sterk	(This reminds me of the arm wrestling contests we used to have at the royal fair in my world.)	史特尔克	（不禁让我想起，我在原本的世界的\n　王国庆典上也和人掰过手腕……）	史特爾克	（我還在原來的世界時，\n　也參加過王國祭的腕力大賽呢……）
+Date_NPC2_02_02ID	21	Roman	ロマン	ふふ、顔がほころんでるじゃないか。\n君も血湧き肉躍るかい？	Roman	Haha, look at that smile! I guess I've tickled your competitive spirit?	罗曼	呵呵，你的表情柔和了不少。\n是不是也跃跃欲试了？	羅曼	呵呵，你都笑了呢。你也熱血沸騰了嗎？
+Date_NPC2_02_02ID	22	Sterk	ステルク	い、いえ。\n少し昔のことを思い出しただけです	Sterk	N-No, I was just recalling something from my past.	史特尔克	不、不是的。\n只是想起来一些往事而已。	史特爾克	沒、沒有，只是稍微想起了一些往事。
+Date_NPC2_02_02ID	23		選択肢	（一旦見守るか）	Selection	(I'll just observe for now.)	选项	（先观察一阵子吧。）	選項	（暫時觀察情況）
+Date_NPC2_02_02ID	24	Sterk	ステルク	（無策に止めようとしても聞かないだろう。\n　とりあえず様子を見守るか）	Sterk	(He won't listen to me if I try to stop him. I'll just keep an eye on things for now.)	史特尔克	（就算我强行阻止，殿下也不会听我的。\n　不如先观察一会儿。）	史特爾克	（直接出言制止，他肯定是不會聽的，\n　暫時先觀察一下情況吧。）
+Date_NPC2_02_02ID	25	Sterk	ステルク	（その代わり、変な気を起こしたら\n　ただじゃおかないぞ……）	Sterk	(But if this gets out of hand, I won't hesitate to put a stop to this.)	史特尔克	（不过，一旦他有出格的举动，\n　就不能轻易了事了……）	史特爾克	（但是，如果對手敢打什麼歪主意，\n　我絕對饒不了……）
+Date_NPC2_02_02ID	26		荒くれ者１	おおっ、ロマンが勝ったぞ！	Ruffian 1	Whoa! Roman won!	混混1	哦，罗曼赢了！	暴徒1	哦──羅曼贏了！
+Date_NPC2_02_02ID	27		荒くれ者２	ただの優男かと思ったら、\n意外とやるじゃねえか！！	Ruffian 2	He looks pretty weak, but I guess he's stronger than he looks!	混混2	我还以为他只是个小白脸，\n没想到有两把刷子！	暴徒2	原以為你只是個文弱書生，沒想到這麼厲害啊！！
+Date_NPC2_02_02ID	28	Sterk	ステルク	おめでとうございます、リヒャルト殿下。\nご無事で何よりです	Sterk	Congratulations, Prince Richard. I'm relieved to see you're unharmed.	史特尔克	恭喜您，理查德殿下。\n您没事就好。	史特爾克	理查德殿下，恭喜您。\n您沒受傷真是太好了。
+Date_NPC2_02_02ID	29	Roman	ロマン	あ、ああ……	Roman	Ah, yes.	罗曼	啊、嗯……	羅曼	啊，嗯……
+Date_NPC2_02_02ID	30	Roman	ロマン	対戦してくれた彼、なぜかずっと\nびくびく震えてたけど……\nまぁ、とりあえず勝てたからいいか！	Roman	For some reason, my opponent was trembling the whole time. But a win's a win!	罗曼	不知道为什么，\n和我比的人一直在发抖……\n算了，总之赢了就好！	羅曼	剛剛跟我比賽的人不知為何一直在發抖……\n不管了，反正是我贏了！
+Date_NPC2_02_02ID	31	Sterk	ステルク	ところで、疑問なのですが。\nなぜこのような大会を開催されようと？	Sterk	If I may ask, what prompted you to host such a contest?	史特尔克	话说回来，我想问，\n您为什么要举办这种比赛？	史特爾克	話說，冒昧請問一下。\n為何您要舉辦這樣的比賽呢？
+Date_NPC2_02_02ID	32	Roman	ロマン	国民に娯楽を提供して適度に発散させるのも\n王族の役目だからね	Roman	It's our duty as royalty to provide entertainment for the people and help them blow off some steam.	罗曼	因为给国民提供娱乐项目，\n让大家适度发泄压力也是王族的职责啊。	羅曼	為國民提供娛樂，好讓他們能適度紓壓\n也是王族的職責啊。
+Date_NPC2_02_02ID	33	Sterk	ステルク	その考えはもっともですが……	Sterk	I suppose that's one way to think of it, but...	史特尔克	这一点的确不错，但……	史特爾克	您的想法非常正確……
+Date_NPC2_02_02ID	34		選択肢	王子自ら参加して、危険を冒すなど……	Selection	Participating yourself is too risky...	选项	王子殿下冒着危险亲自参赛……	選項	但王族怎能冒著危險，親自參加這種比賽……
+Date_NPC2_02_02ID	35	Sterk	ステルク	王子自ら参加して、危険を冒すなど……	Sterk	For a prince himself to participate is simply too risky.	史特尔克	王子殿下冒着危险亲自参赛……	史特爾克	但王族怎能冒著危險，親自參加這種比賽……
+Date_NPC2_02_02ID	36	Roman	ロマン	腕相撲のどこが危険なんだい？	Roman	What's risky about arm wrestling?	罗曼	掰手腕哪里危险了？	羅曼	比腕力哪裡危險了？
+Date_NPC2_02_02ID	37	Roman	ロマン	血気盛んな彼らを発散させるには、\n勝負事が一番	Roman	Contests like these are the best way for a group of hot-blooded fellows like these to blow off a little steam.	罗曼	要让他们这些血气方刚的人发泄压力，\n最好的办法就是比赛。	羅曼	想讓這些血氣方剛的人發洩精力，\n舉辦比賽是最好的方法。
+Date_NPC2_02_02ID	38	Roman	ロマン	腕相撲は怪我をしてもせいぜい腕を\n少し傷めるくらいだし、かなり平和な\n部類だと思うけどな	Roman	At worst, someone might strain their arm a little. It's one of the safest contests you could ask for.	罗曼	就算在掰手腕比赛中受伤，\n最多也只是伤到手，\n已经很平和了。	羅曼	比腕力就算受了傷，\n最多也只會稍微扭到手臂，\n我覺得已經很和平了。
+Date_NPC2_02_02ID	39	Sterk	ステルク	それは……確かにその通りですね	Sterk	I suppose I can't argue with that...	史特尔克	这……确实如您所说。	史特爾克	這麼說……確實沒錯。
+Date_NPC2_02_02ID	40		選択肢	ご自分が腕相撲をしたいだけでは？	Selection	Did you just want to arm wrestle?	选项	其实只是您自己想掰手腕吧？	選項	您只是自己想比腕力而已吧？
+Date_NPC2_02_02ID	41	Sterk	ステルク	ご自分が腕相撲をしたいだけでは？	Sterk	You just wanted to arm wrestle, didn't you?	史特尔克	其实只是您自己想掰手腕吧？	史特爾克	您只是自己想比腕力而已吧？
+Date_NPC2_02_02ID	42	Roman	ロマン	いやいや！\nあくまでみんなの需要を考慮したまでの\nことだよ！	Roman	N-No! I am only here in consideration of the needs of the people!	罗曼	才、才不是呢！\n我是考虑到大家的需求才举办的！	羅曼	才、才不是！\n我這只是考量了大家的需求罷了！
+Date_NPC2_02_02ID	43	Sterk	ステルク	本当ですか？	Sterk	Are you certain?	史特尔克	真的吗？	史特爾克	真的嗎？
+Date_NPC2_02_02ID	44	Roman	ロマン	……じゃあ、君が相手してくれるのかい？	Roman	Well then, would you like to be my opponent?	罗曼	不然……你愿意陪我掰手腕吗？	羅曼	……那你要當我的對手嗎？
+Date_NPC2_02_02ID	45	Sterk	ステルク	私の職務はあなたの護衛であり、\n遊び相手ではありません	Sterk	My duty is to guard you, not to entertain you.	史特尔克	我的职责是担任您的护卫，\n不是陪您玩耍。	史特爾克	我的職責是保護您的安全，不是陪您玩耍。
+Date_NPC2_02_02ID	46	Roman	ロマン	だったら、みんなに遊んでもらうしか\nないじゃないか	Roman	In that case, I'll just have to let the others entertain me.	罗曼	所以我也是没办法才让大家陪我玩的嘛。	羅曼	那我不就只能請大家陪我玩了嗎？
+Date_NPC2_02_02ID	47	Sterk	ステルク	国民も遊び相手じゃありません！	Sterk	The people aren't here for your entertainment, either!	史特尔克	国民也不是您的娱乐对象！	史特爾克	這些國民也不是您的玩伴！
+Date_NPC2_02_02ID	48		選択肢	他にも方法があるでしょう	Selection	There must be a safer way...	选项	还有别的办法吧	選項	應該還有其他方法吧
+Date_NPC2_02_02ID	49	Sterk	ステルク	他にも、もっと安全な方法があるでしょう	Sterk	Surely there are safer ways to entertain the people?	史特尔克	应该还有别的更安全的办法吧。	史特爾克	應該還有其他更安全的方法吧？
+Date_NPC2_02_02ID	50	Roman	ロマン	他の方法って？	Roman	Such as?	罗曼	别的方法是指？	羅曼	比方說什麼？
+Date_NPC2_02_02ID	51	Sterk	ステルク	たとえば……	Sterk	For example...	史特尔克	比如……	史特爾克	比方說……
+Date_NPC2_02_02ID	52	Sterk	ステルク	（しまった、何も思いつかない……）	Sterk	(Blast. I can't think of anything.)	史特尔克	（糟了，什么都想不出来……）	史特爾克	（糟糕，我完全想不到……）
+Date_NPC2_02_02ID	53	Sterk	ステルク	…………重ねた瓦に拳を突きつけて、\n何枚割れるか競う、とか	Sterk	H-How about a contest to see who can break the most stacked tiles with their fists?	史特尔克	比如……用拳头击打叠在一起的瓦片，\n比谁能击碎更多之类的。	史特爾克	……比賽赤手空拳打擊一疊瓦片，\n看能擊破多少片之類的？
+Date_NPC2_02_02ID	54	Roman	ロマン	そっちの方がよほど危険じゃないかい？	Roman	That sounds even more dangerous to me!	罗曼	你说的比掰手腕危险多了吧？	羅曼	那樣不是更危險嗎？
+Date_NPC2_02_02ID	55	Sterk	ステルク	そうですね……	Sterk	I suppose so...	史特尔克	是……	史特爾克	說的也是……
+Date_NPC2_02_02ID	56	Roman	ロマン	ほら、やっぱり腕相撲が一番だろう？	Roman	See? Arm wrestling is the best choice!	罗曼	所以说，还是掰手腕最好对吧？	羅曼	你看，果然比腕力是最適合的吧？
+Date_NPC2_02_02ID	57	Sterk	ステルク	（くっ……ずっと騎士や武人に囲まれて、\n　稽古に明け暮れていたのが\n　こういう形で仇となるとは……）	Sterk	(Being surrounded by knights and warriors all my life has really worked against me here...)	史特尔克	（唔……一直以来我总是\n　和骑士还有武人切磋武艺，\n　没想到会以这种方式吃到苦头……）	史特爾克	（唔……我過去都是陪騎士或軍人徹夜苦練，\n　沒想到這件事如今卻變成了缺點……）
+Date_NPC2_02_02ID	58	Roman	ロマン	そうだ、君も参戦してくれないかい？	Roman	Say, why don't you join the contest, Sterk?	罗曼	对了，你能不能也加入比赛？	羅曼	對了，你也一起參加吧？
+Date_NPC2_02_02ID	59	Sterk	ステルク	は！？　私がですか？	Sterk	Huh?! You want me to participate?	史特尔克	什么？！我吗？	史特爾克	什麼！？我嗎？
+Date_NPC2_02_02ID	60	Roman	ロマン	選りすぐりの剣士である君が\n参戦してくれれば、\nきっと更に盛り上がると思うんだ	Roman	A top swordsman like you joining in would really get the crowd excited!	罗曼	有你这么优秀的剑士参赛的话，\n一定能让比赛更火热的。	羅曼	有你這位萬中選一的精銳劍士親自下場，\n全場氣氛一定更加熱烈。
+Date_NPC2_02_02ID	61		選択肢	護衛の職域を超えています	Selection	That goes beyond my duty to protect you.	选项	这已经超出了护卫的职责	選項	已超出護衛的職責範圍
+Date_NPC2_02_02ID	62	Sterk	ステルク	それは騎士の職域を超えています	Sterk	That goes beyond my duties as your knight.	史特尔克	这已经超出了骑士的职责范围。	史特爾克	這已經超出騎士的職責範圍了。
+Date_NPC2_02_02ID	63	Roman	ロマン	なら、追加の手当を出そう	Roman	I'll throw in some extra money, then.	罗曼	那我给你多发点津贴吧。	羅曼	那就多補一些報酬給你。
+Date_NPC2_02_02ID	64	Sterk	ステルク	手当が欲しくて申し上げているわけでは\nありません！	Sterk	I wasn't asking for more payment!	史特尔克	我说这话不是为了多要一些津贴！	史特爾克	我不是想要錢才拒絕您的！
+Date_NPC2_02_02ID	65	Roman	ロマン	だったら引き受けてほしい。\n友人として、君の雄姿が見たいんだ	Roman	Then do it for me! As a friend, I'd love to see your strength!	罗曼	那我希望你能同意。\n我想作为你的朋友亲眼看到你出色的表现。	羅曼	希望你能答應。\n我想看看我朋友最英勇的樣子。
+Date_NPC2_02_02ID	66	Sterk	ステルク	……ずるいですよ。\nそんな真摯にお願いされたら、\n断りづらいじゃないですか	Sterk	...You leave me no choice. I cannot refuse such an earnest request.	史特尔克	真是的……\n您都说得这么真诚了，我很难拒绝啊。	史特爾克	……太狡猾了。\n您都這麼誠懇地拜託了，\n我怎麼好意思拒絕呢。
+Date_NPC2_02_02ID	67		選択肢	仕方ありませんね	Selection	Very well.	选项	好吧	選項	真拿您沒辦法
+Date_NPC2_02_02ID	68	Sterk	ステルク	仕方ありませんね。\nあなたの手をこれ以上あんなごろつき共に\n握らせるわけにはいきません	Sterk	Very well. I won't let any more of those ruffians hold your hand.	史特尔克	好吧。\n我不能再让那些混混继续碰您的手了。	史特爾克	真拿您沒辦法，\n我可不能再讓那些地痞流氓握住您的手了。
+Date_NPC2_02_02ID	69	Roman	ロマン	ははっ、照れるじゃないか	Roman	Haha, you're making me blush!	罗曼	哈哈，这多不好意思。	羅曼	哈哈，這樣我會害羞啦。
+Date_NPC2_02_02ID	70	Sterk	ステルク	何か勘違いなさっていませんか……？	Sterk	I think you misunderstood me...	史特尔克	您是不是误会了什么……？	史特爾克	您是不是誤會了什麼……？
+Date_NPC2_02_02ID	71		選択肢	その代わり……	Selection	Fine, but in exchange...	选项	作为交换……	選項	有個條件……
+Date_NPC2_02_02ID	72	Sterk	ステルク	その代わり、後ほどあなたと\n一戦設けさせてください	Sterk	Fine, but in exchange, I'd like to challenge you myself later.	史特尔克	作为交换，请之后让我与您比试一场。	史特爾克	我有個條件，\n比賽結束後請您與我比試一場。
+Date_NPC2_02_02ID	73	Roman	ロマン	ああ、もちろんさ！　\n……ん？	Roman	Of course! Wait, what?	罗曼	嗯，当然可以！\n什么……？	羅曼	嗯，當然可以！……嗯？
+Date_NPC2_02_02ID	74	Roman	ロマン	もしかして、腕相撲という名目の折檻かい？\n私の腕、かなり危険な状況かな……？	Roman	Are you planning to use arm wrestling as an excuse to rough me up? My arm might be in some serious danger...	罗曼	莫非这其实是披着掰手腕外皮的惩戒手段？\n我的手腕正在受到威胁……？	羅曼	難道你想以比腕力之名行懲罰之實？\n我的手臂其實快要不保了……？
+Date_NPC2_02_02ID	75	Sterk	ステルク	冗談ですよ	Sterk	It was a joke.	史特尔克	我开玩笑的。	史特爾克	我開玩笑的。
+Date_NPC2_02_02ID	76	Roman	ロマン	な、なんだ。\n君も冗談なんて言うんだね……	Roman	R-Right. I didn't know you had it in you to joke.	罗曼	什、什么嘛。\n你也会开玩笑啊……	羅曼	什、什麼嘛。\n原來你也會開玩笑啊……
+Date_NPC2_02_02ID	77	Roman	ロマン	ステルク、優勝おめでとう！！	Roman	Congratulations on winning, Sterk!	罗曼	史特尔克，恭喜你赢了！！	羅曼	史特爾克，恭喜你拿下冠軍！！
+Date_NPC2_02_02ID	78	Roman	ロマン	筋骨隆々の大男たちを次々なぎ倒す姿、\n実に圧巻だったよ！	Roman	Seeing you take down all those burly men one after another was most impressive!	罗曼	你把人高马大的壮汉们接连扳倒的样子\n实在是太精彩了！	羅曼	你接連擊敗那些彪形大漢的英姿，\n實在是太精采了！
+Date_NPC2_02_02ID	79	Sterk	ステルク	騎士という身分ではなくなったとはいえ、\n常に鍛錬は怠っておりませんので。\nその辺のごろつきには負けませんよ	Sterk	I may no longer be a knight, but I've kept up my training. I wouldn't lose to a mere group of ruffians.	史特尔克	虽然我失去了骑士身份，\n但平时依旧勤加锻炼。\n还不至于会输给路边的混混。	史特爾克	即便我已卸下騎士身分，也未曾懈怠鍛鍊。\n我可不會輸給那些混混的。
+Date_NPC2_02_02ID	80	Roman	ロマン	ふふ、頼もしいな	Roman	Haha, that's reassuring to hear.	罗曼	呵呵，真是太可靠了。	羅曼	呵呵，真可靠啊。
+Date_NPC2_02_02ID	81	Roman	ロマン	お蔭で大盛り上がりだ。\nさすがだよ、私一人ならこうはいかなかった	Roman	Thanks to you, the event was a huge success. I couldn't have done it alone.	罗曼	多亏有你，比赛气氛非常热烈。\n如果只有我一个人可做不到。	羅曼	多虧有你才能炒熱氣氛。\n你真厲害，光靠我一個人絕對辦不到。
+Date_NPC2_02_02ID	82	Sterk	ステルク	そんなことはないかと思いますが	Sterk	I doubt that's true...	史特尔克	您言重了。	史特爾克	我倒覺得沒有那回事。
+Date_NPC2_02_02ID	83	Roman	ロマン	さぁ、早速宴の準備を始めようじゃないか	Roman	Now then, let's get ready for the banquet!	罗曼	好，那我们马上开始准备宴会吧。	羅曼	好，趕快開始來準備宴會吧！
+Date_NPC2_02_02ID	84	Sterk	ステルク	宴？　腕相撲大会で勝った程度で\n大げさではないでしょうか	Sterk	The banquet?! Isn't that a bit much for just winning an arm wrestling contest?	史特尔克	宴会？只是在掰手腕大赛上赢了而已，\n办宴会是否有些夸张了呢。	史特爾克	宴會？不過是贏了腕力大賽，這太誇張了吧？
+Date_NPC2_02_02ID	85	Roman	ロマン	大げさだろうと、せっかく宴をする口実……\nいや、きっかけができたんだ。\n逃すわけにはいかないね	Roman	Maybe, but it's also the perfect excuse! If you have the opportunity to throw a party, why waste it?	罗曼	就算夸张了些，但难得有个办宴会的借口……\n不是，契机，可不能错过呀。	羅曼	就算誇張，也好不容易找到辦宴會的藉口……\n不，是機會。我可不能讓機會溜走了。
+Date_NPC2_02_02ID	86	Sterk	ステルク	（もしかして、宴がしたいだけで\n　腕相撲大会を開催したんじゃ……）	Sterk	(Could it be that he ran this contest just as an excuse for a banquet?)	史特尔克	（莫非，殿下是因为想办宴会\n　才举办掰手腕大赛的吗……）	史特爾克	（難道說，他舉辦腕力大賽，\n　就只是為了開宴會……？）
+Date_NPC2_02_02ID	87	Roman	ロマン	それに、こうしてみんなと触れ合ううちに\n答えが見つかるかもしれないしね	Roman	Besides, spending time with everyone like this might help me find an answer.	罗曼	而且通过和国民的近距离接触，\n说不定能找到答案。	羅曼	而且，像這樣與大家接觸的過程中，\n　說不定就能找到我想要的答案。
+Date_NPC2_02_02ID	88	Sterk	ステルク	答え？	Sterk	An answer to what?	史特尔克	答案？	史特爾克	答案？
+Date_NPC2_02_02ID	89	Roman	ロマン	ああいや……腕相撲に勝つ秘訣、とかね！	Roman	Oh, nothing, nothing. Perhaps it's the secret to winning at arm wrestling!	罗曼	呃，我是说……在掰手腕中获胜的秘诀之类的！	羅曼	啊，沒有……我是說扳倒對手的祕訣！
+Date_NPC2_02_02ID	90	Sterk	ステルク	（なんだか含みがあるな）	Sterk	(There's more to this, isn't there...)	史特尔克	（殿下的话好像别有深意。）	史特爾克	（總覺得那句話別有深意。）
+Date_NPC2_02_02ID	91	Sterk	ステルク	（先ほど、腕相撲大会を開催した理由は\n　国民に娯楽を提供して発散させるためと\n　言っていたが……）	Sterk	(He said this contest was to give the people entertainment and a place to let out steam...)	史特尔克	（刚才他说过，举办掰手腕大赛是为了\n　给国民提供娱乐发泄压力……）	史特爾克	（剛才他說，舉辦腕力大賽是為了提供娛樂，\n　讓國民紓緩壓力……）
+Date_NPC2_02_02ID	92	Sterk	ステルク	（もしかして、他にも理由があるのか？）	Sterk	(But I wonder if there's another reason behind it.)	史特尔克	（但或许，还有其他的理由？）	史特爾克	（除此之外，難道還有其他原因？）
+Date_NPC2_02_03ID	0	Sterk	ステルク	えっ、騎士団の訓練を\n視察したいですって！？	Sterk	Wait, you wish to inspect the knights' training?!	史特尔克	咦，您想去骑士团视察训练情况？！	史特爾克	咦，您想去視察騎士團的訓練情況！？
+Date_NPC2_02_03ID	1	Roman	ロマン	彼らの頑張りを見守るのも、王族の役目だよ	Roman	Observing their efforts is part of my duties as royalty.	罗曼	默默守护奋斗的骑士们也是王族的职责哦。	羅曼	見證他們的努力也是王族的職責啊。
+Date_NPC2_02_03ID	2	Sterk	ステルク	彼らが訓練しているのは王都の外ですよ？\nもし魔物にでも襲われたら……	Sterk	But they're training outside the capital! What if monsters attack?	史特尔克	他们的训练场地可是在王都外面啊。\n万一有魔物袭击……	史特爾克	他們可是在王都外接受訓練喔？\n要是您被魔物襲擊了……
+Date_NPC2_02_03ID	3	Roman	ロマン	魔物の扱いは、冒険者としてそれなりに\n慣れているよ	Roman	I've defeated my fair share of monsters as an adventurer.	罗曼	身为冒险者，我已经习惯如何应对魔物了。	羅曼	身為冒險者，我應付魔物還算是得心應手。
+Date_NPC2_02_03ID	4	Roman	ロマン	それに、騎士たちが集まっている場所なら\nむしろ安全だろう？	Roman	Besides, where could possibly be safer than an area filled with knights?	罗曼	而且有那么多骑士在，那里反而安全不是吗？	羅曼	而且那裡聚集了很多騎士，反而更安全吧？
+Date_NPC2_02_03ID	5	Sterk	ステルク	（くっ……何も言えない……）	Sterk	(Darn. He's got a point.)	史特尔克	（呃……无法反驳……）	史特爾克	（唔……完全無法反駁……）
+Date_NPC2_02_03ID	6	Roman	ロマン	やぁやぁ！\nみんな精が出るね！	Roman	Hi hi! Looks like everyone's really going at it!	罗曼	嗨！\n大家训练得很认真啊！	羅曼	嗨，各位！你們都很有精神呢！
+Date_NPC2_02_03ID	7	Juna	ユナ	殿下！？\nなぜこんなところへ？	Juna	Your Highness?! Why are you here?	尤娜	殿下？！\n您怎么来了？	尤娜	殿下！？您怎麼會來這裡？
+Date_NPC2_02_03ID	8	Roman	ロマン	みんながここで頑張ってると聞いてね。\n遊びに来たんだ	Roman	I heard everyone was training hard out here, so I came by to see for myself.	罗曼	我听说大家在这里努力训练，\n就过来玩了。	羅曼	聽說大家都在這裡刻苦訓練，所以我就來玩了。
+Date_NPC2_02_03ID	9	Roman	ロマン	もちろん、手ぶらじゃないよ。\nほら、差し入れだってある	Roman	Of course, I didn't come empty-handed! Look, I've brought some snacks.	罗曼	当然我不是空手来的。\n给，这是慰问品。	羅曼	當然不是空手而來。你們看，我還有帶慰勞品。
+Date_NPC2_02_03ID	10		騎士	もしかしてこれって、\n宮廷料理人お手製の……？	Knight	Are these handmade by the royal chef?	骑士	难道，这是御用厨师亲手做的……？	騎士	難道說這個是宮廷御廚的自製點心……？
+Date_NPC2_02_03ID	11	Roman	ロマン	訓練中はお腹が空くだろう？\nいっぱい食べてくれ	Roman	Training hard always leaves you with an empty stomach! Time to fill it up!	罗曼	训练之后肯定饿了吧？\n大家敞开肚皮吃吧。	羅曼	訓練時應該會肚子餓吧？多吃一點。
+Date_NPC2_02_03ID	12		騎士	ありがとうございます！！	Knight	Thank you, Your Highness!	骑士	多谢殿下！！	騎士	感激不盡！！
+Date_NPC2_02_03ID	13	Juna	ユナ	…………	Juna	...	尤娜	……	尤娜	…………
+Date_NPC2_02_03ID	14	Sterk	ステルク	すまない、止めたのだが……	Sterk	I apologize. I tried to stop him, but...	史特尔克	抱歉，我尝试过阻止过殿下……	史特爾克	抱歉，我阻止過了……
+Date_NPC2_02_03ID	15	Juna	ユナ	分かってる。\n上手く丸め込まれたんだろう？	Juna	I know. He talked his way past you, didn't he?	尤娜	我明白。\n你被他的诡辩绕进去了对吧？	尤娜	我明白，你被他的話術給騙了吧？
+Date_NPC2_02_03ID	16	Juna	ユナ	私もよく餌食にされている。\n貴殿を責めるつもりはない	Juna	I've been caught in his schemes far too many times. I won't hold it against you.	尤娜	我也经常被他拿来当借口。\n所以我不会责怪你。	尤娜	我也經常上當受騙，所以不會責備你的。
+Date_NPC2_02_03ID	17	Sterk	ステルク	（ユナ殿も苦労しているのだな……）	Sterk	(So even Lady Juna has her share of troubles...)	史特尔克	（尤娜阁下也不容易啊……）	史特爾克	（尤娜小姐也很辛苦呢……）
+Date_NPC2_02_03ID	18	Roman	ロマン	ユナ、ステルク！　君たちの分もあるよ！\nぜひ食べてみてくれ	Roman	Juna, Sterk! There's enough for you two as well. Please, help yourselves!	罗曼	尤娜，史特尔克！也有你们的份哦！\n你们一定要尝尝。	羅曼	尤娜、史特爾克！也有你們的份喔！\n一定要來嚐嚐看。
+Date_NPC2_02_03ID	19	Juna	ユナ	ありがとうございます。\n……んっ、美味しい！！	Juna	Thank you, Your Highness.\nMmm, this is delicious!	尤娜	多谢殿下。\n唔……好吃！！	尤娜	非常感謝……嗯，真好吃！！
+Date_NPC2_02_03ID	20		騎士	騎士団の食堂の料理も美味しいですけど、\nやっぱり違いますね！	Knight	The food at the knights' mess hall is good, but this is on another level!	骑士	虽说骑士团食堂的料理也很好吃，\n但果然比不上御用料理啊！	騎士	雖然騎士團的食堂料理也很美味，\n但果然還是不一樣！
+Date_NPC2_02_03ID	21	Roman	ロマン	そうかそうか、どの辺が違うかい？	Roman	Oh? What's different about it?	罗曼	是吗，有哪里不同呢？	羅曼	這樣啊，哪裡不一樣呢？
+Date_NPC2_02_03ID	22	Juna	ユナ	味付けが繊細というか……\n丁寧に作られている感じがします	Juna	The flavors are more refined. You can tell it was prepared with care.	尤娜	该说调味很细腻吗……\n给人感觉做得特别用心。	尤娜	該說是調味更細膩嗎……能感覺到廚師的用心。
+Date_NPC2_02_03ID	23		騎士	食事なんて栄養さえ摂れれば充分と思っていましたが、\nたまにはこういうものを食べると気分が上がりますね	Knight	I used to think food was just about getting nutrients, but sometimes indulging in something like this really lifts the spirit.	骑士	我一直觉得吃饭只要能保证摄入营养就足够了，\n不过偶尔像这样吃一顿好的能让人心情振奋呢。	騎士	我原本以為吃飯只要補充營養就夠了，\n但偶爾吃點這樣的東西，心情也會變好呢。
+Date_NPC2_02_03ID	24	Roman	ロマン	ほう……。食堂の人員や予算の見直しに\nついて、提言してみるか	Roman	Interesting... Perhaps I should recommend a review of the mess hall's staff and budget.	罗曼	哦……那我会提议改进食堂人员和预算的。	羅曼	哦……來提議看看關於重新調整\n食堂人手和預算的方案吧。
+Date_NPC2_02_03ID	25	Roman	ロマン	野営地の寝心地はどうかな？\n何か足りないものがあったりしないかい？	Roman	How is the comfort of the training camp? Is there anything else you need?	罗曼	野营地睡起来如何？\n缺不缺东西？	羅曼	營地睡起來舒服嗎？\n有沒有缺什麼東西呢？
+Date_NPC2_02_03ID	26	Sterk	ステルク	（なるほど。\n　ただ遊びに行きたかったわけではないようだな）	Sterk	(I see. So he didn't come just to play around after all.)	史特尔克	（我明白了。\n　看来殿下似乎不是单纯来玩的。）	史特爾克	（原來如此。\n　看來他並不只是單純來玩而已。）
+Date_NPC2_02_03ID	27	Sterk	ステルク	（もしかして……）	Sterk	(Could it be...)	史特尔克	（难道说……）	史特爾克	（莫非……）
+Date_NPC2_02_03ID	28	Roman	ロマン	それに、こうしてみんなと触れ合ううちに\n答えが見つかるかもしれないしね	Roman	Besides, spending time with everyone like this might help me find an answer.	罗曼	而且通过和国民的近距离接触，\n说不定能找到答案。	羅曼	而且，像這樣與大家接觸的過程中，\n　說不定就能找到我想要的答案。
+Date_NPC2_02_03ID	29	Sterk	ステルク	（……王族としてみんなに何ができるのか、\n　その答えを探しているのか？）	Sterk	(Is he trying to figure out how he can best serve his people as their prince?)	史特尔克	（殿下在找寻的答案……\n　是指身为王族能为国民做些什么？）	史特爾克	（……他是在尋找答案，\n　想知道身為王族能為國民做些什麼嗎？）
+Date_NPC2_02_03ID	30	Roman	ロマン	ステルクも、気になることがあれば\n何でも言ってもらっていいからね！	Roman	Sterk, if there's anything on your mind, don't hesitate to tell me!	罗曼	史特尔克，如果你有什么在意的地方，\n也要告诉我哦！	羅曼	史特爾克，你有任何想法也歡迎提出來喔！
+Date_NPC2_02_03ID	31	Sterk	ステルク	そうですね、強いて言えば……	Sterk	Well, if you insist...	史特尔克	唔。硬要说的话……	史特爾克	這個嘛，真要說的話……
+Date_NPC2_02_03ID	32	Sterk	ステルク	リヒャルト殿下の自由さに振り回されて、\n心労が絶えないくらいでしょうか	Sterk	I have to say that keeping up with your whims leaves me most exhausted.	史特尔克	就是理查德殿下过于自由散漫，\n折腾得我有些心力交瘁吧。	史特爾克	我總是被隨心所欲的理查德殿下耍得團團轉，\n每天都有操不完的心。
+Date_NPC2_02_03ID	33	Roman	ロマン	そ、それは……	Roman	O-Oh...	罗曼	这、这个嘛……	羅曼	那、那是……
+Date_NPC2_02_03ID	34	Sterk	ステルク	でも、安心しました。この視察も\nきちんと有意義なものになっているようで	Sterk	That said, I am also relieved. This inspection turned out to be a very meaningful endeavor.	史特尔克	但我现在放心了。\n看样子这次视察也有它的意义。	史特爾克	但是，現在我放心了。\n這次視察似乎也得到了很有意義的結果。
+Date_NPC2_02_03ID	35	Sterk	ステルク	振り回された甲斐があったというものです	Sterk	It seems keeping up with you today was well worth the effort.	史特尔克	就算被折腾一回也值了。	史特爾克	被您耍得團團轉，也算是值得了。
+Date_NPC2_02_03ID	36	Roman	ロマン	そうかい、ならよかった！！	Roman	Well! I'm glad to hear that!	罗曼	是吗，那真是太好了！！	羅曼	這樣啊，那就好！！
+Date_NPC2_02_03ID	37	Sterk	ステルク	（せっかくリヒャルト殿下に仕えることになったんだ。\n　どうにか、もっとお力になれないものか……）	Sterk	(I must try to find a way to be of more help to Prince Richard now that I've been given the honor of serving him...)	史特尔克	（好不容易能够侍奉理查德殿下，\n　我想为殿下帮上更多的忙……）	史特爾克	（好不容易才有了機會為理查德殿下效命，\n　有沒有辦法能多幫上一點忙呢？）
+Date_NPC2_02_04ID	0	Sterk	ステルク	（あれからしばらくリヒャルト殿下のご様子を\n　見守っていたが……）	Sterk	(I've been keeping a close eye on Prince Richard ever since, but...)	史特尔克	（自上次一事后，\n　我一直在默默守护着理查德殿下……）	史特爾克	（自那之後，我默默地觀察了\n　理查德殿下好一陣子……）
+Date_NPC2_02_04ID	1	Sterk	ステルク	（探してらっしゃる「答え」は\n　まだ見つかっていないらしい）	Sterk	"(It seems he hasn't found the ""answer"" he's been searching for just yet.)"	史特尔克	（但他似乎还没找到想要的“答案”。）	史特爾克	（他正在尋求的「答案」似乎還沒找到。）
+Date_NPC2_02_04ID	2	Sterk	ステルク	（そこで、私は……）	Sterk	(And so, I made up my mind...)	史特尔克	（于是我……）	史特爾克	（於是，我……）
+Date_NPC2_02_04ID	3	Roman	ロマン	君から食事に誘うなんて珍しいじゃないか。\nもちろん、大歓迎だけどね	Roman	I never thought you'd be the one to invite me to a meal, but I'm happy to oblige!	罗曼	没想到你居然会主动邀请我吃饭，真难得。\n当然，我很高兴哦。	羅曼	你竟然約我吃飯，真是難得啊。\n當然我是非常歡迎啦。
+Date_NPC2_02_04ID	4	Sterk	ステルク	（さて、どう聞き出したものか……）	Sterk	(Now, how should I bring it up...)	史特尔克	（接下来我该怎么问呢……）	史特爾克	（那麼，我該怎麼問才好呢……？）
+Date_NPC2_02_04ID	5		選択肢	最近、悩んでいることはありませんか？	Selection	Has anything been worrying you lately?	选项	您最近有烦恼吗？	選項	您最近有沒有什麼煩惱呢？
+Date_NPC2_02_04ID	6	Sterk	ステルク	最近、悩んでいることはありませんか？	Sterk	Has anything been worrying you lately?	史特尔克	您最近有烦恼吗？	史特爾克	您最近有沒有什麼煩惱呢？
+Date_NPC2_02_04ID	7	Roman	ロマン	悩み？\nうーん、悩みってほどのものはないな	Roman	Worrying me? Hmm, not really, no.	罗曼	烦恼？\n唔……也称不上是烦恼吧。	羅曼	煩惱？\n嗯～沒什麼稱得上是煩惱的事耶。
+Date_NPC2_02_04ID	8	Roman	ロマン	ふふっ、私のことを心配してくれたのかい？\n君を心配させるなんて罪な男だな、私は	Roman	Haha, are you that worried about me? I must be more trouble than I thought.	罗曼	呵呵，你是在担心我吗？\n那我可真是个罪恶的男人啊。	羅曼	呵呵，你在擔心我嗎？\n竟然讓你擔心了，我可真是個罪惡的男人啊。
+Date_NPC2_02_04ID	9	Sterk	ステルク	（このままはぐらかされそうだ。\n　仕方ない、単刀直入に訊くか……）	Sterk	(He's dodging the question. I'll have to be more direct.)	史特尔克	（再这样下去会被殿下搪塞过去的。\n　没办法，我就开门见山地问吧……）	史特爾克	（這樣下去好像會被他岔開話題。\n　沒辦法，我就直截了當地問吧……）
+Date_NPC2_02_04ID	10	Sterk	ステルク	たとえば王族としての在り方について、とか	Sterk	For example, something like what it means for you to be royalty?	史特尔克	比方说，为王之道，之类的。	史特爾克	比如說身為王族的理想姿態之類的。
+Date_NPC2_02_04ID	11	Roman	ロマン	……ははっ、気付かれていたか。\n本当に悩みってほどじゃないんだけどね	Roman	Haha, so you noticed, did you? Though, I wouldn't say it's worrying me.	罗曼	哈哈……被你发现了啊。\n不过也算不上很深刻的烦恼啦。	羅曼	……哈哈，被你發現啦？\n雖然真的沒到煩惱的程度就是了。
+Date_NPC2_02_04ID	12		選択肢	何か私に言っていないことがありますよね	Selection	You've been hiding something from me.	选项	您有事瞒着我吧	選項	您有什麼事情瞞著我吧？
+Date_NPC2_02_04ID	13	Sterk	ステルク	何か私に言っていないことがありますよね	Sterk	You've been hiding something from me.	史特尔克	您有事瞒着我吧。	史特爾克	您有什麼事情瞞著我吧？
+Date_NPC2_02_04ID	14	Roman	ロマン	えっ……	Roman	Huh?	罗曼	咦……	羅曼	咦……
+Date_NPC2_02_04ID	15	Roman	ロマン	ついにバレたのかい？　ロマンの大歌唱\n大会、二重唱の章を企画していることを	Roman	Ah, looks like you caught me! I've been secretly planning Roman's Grand Singing Contest: The Duet Chapter!	罗曼	还是被发现了吗？我正在策划罗曼歌唱大赛二重唱的部分。	羅曼	終於被發現了嗎？我正在策劃羅曼的熱唱大會，二重唱之章。
+Date_NPC2_02_04ID	16	Sterk	ステルク	そうなんですか？	Sterk	You have?	史特尔克	有这回事吗？	史特爾克	有這種事？
+Date_NPC2_02_04ID	17	Roman	ロマン	え？	Roman	Huh?	罗曼	什么？	羅曼	咦？
+Date_NPC2_02_04ID	18	Sterk	ステルク	それはまた別途詳しく伺いますが、\n私が聞こうとしていたのは別件です	Sterk	I'll get the details on that later, but that's not what I wanted to ask about.	史特尔克	那件事我会稍后再问，\n我现在想问的不是这个。	史特爾克	這件事我會再另外找時間詳細問您，\n我想知道的是另一件事。
+Date_NPC2_02_04ID	19	Roman	ロマン	君、策士としての才能もあるねステルク	Roman	You've got a gift for finding these things out, Sterk.	罗曼	你拥有成为策士的天赋啊，史特尔克。	羅曼	你也有擔任軍師的才能呢，史特爾克。
+Date_NPC2_02_04ID	20	Sterk	ステルク	勝手に嵌ったんでしょう	Sterk	No, no... You walked into that one all on your own.	史特尔克	是您自己主动透露的。	史特爾克	是您自己要上當的吧？
+Date_NPC2_02_04ID	21	Roman	ロマン	我ながら、心当たりがある\nやんちゃな隠し事が多くてね……	Roman	Well, I could only guess what you thought I was hiding. I've got lots of mischievous little secrets, you know.	罗曼	我能想到太多瞒着你的淘气秘密了……	羅曼	我自己也藏著很多不可告人的搗蛋事蹟……
+Date_NPC2_02_04ID	22	Sterk	ステルク	私が聞きたかったのは、\nリヒャルト殿下が考えてらっしゃる、\n王族としての在り方です	Sterk	I wanted to ask about your thoughts on what it means to be royalty.	史特尔克	我想问的是，\n关于理查德殿下最近在思考的为王之道。	史特爾克	我想知道的是，\n理查德殿下正在思考的那個\n「身為王族的理想姿態」。
+Date_NPC2_02_04ID	23	Roman	ロマン	なぜ、それを……	Roman	Why would you...	罗曼	你怎么知道……	羅曼	你怎麼會知道……
+Date_NPC2_02_04ID	24	Sterk	ステルク	最近、民衆たちと触れ合うたびに\n何かと考え事をされているご様子でしたので	Sterk	You always seem so deep in thought when interacting with your people, I figured it was on your mind.	史特尔克	最近殿下在和民众接触的时候，\n总是一副若有所思的样子。	史特爾克	因為您最近只要和民眾接觸時，\n都一副若有所思的樣子。
+Date_NPC2_02_04ID	25	Roman	ロマン	……バレてしまっていたなら、仕方ないか	Roman	It would seem you have me all figured out.	罗曼	既然暴露了……那我也就不隐瞒了。	羅曼	……既然已經露餡，那也沒辦法了。
+Date_NPC2_02_04ID	26		選択肢	最近、熱心に国民たちと触れ合っていますね	Selection	You're spending more time with your people lately.	选项	最近您总是积极和国民接触呢	選項	您最近很熱心地與國民們接觸呢
+Date_NPC2_02_04ID	27	Sterk	ステルク	最近、熱心に国民たちと触れ合っていますね	Sterk	You've been spending more time with your people lately.	史特尔克	最近您总是积极和国民接触呢。	史特爾克	您最近很熱心地與國民們接觸呢。
+Date_NPC2_02_04ID	28	Roman	ロマン	そう見えるかい？\nまぁ、今に始まったことではないけどね	Roman	You think so? That's not really something out of the ordinary for me.	罗曼	是吗？\n不过我也不是第一天做这种事。	羅曼	看起來是這樣嗎？\n不過，這也不是一天兩天的事了。
+Date_NPC2_02_04ID	29	Sterk	ステルク	この前はご自身の母校にも\n出向かれていましたよね	Sterk	You even visited your old school recently, didn't you?	史特尔克	不久前，您还去了一趟母校对吧。	史特爾克	上次您也回了自己的母校吧？
+Date_NPC2_02_04ID	30	Roman	ロマン	ああ、あれは良かった。学生時代の\n楽しかった思い出が一気に蘇ってね。\nそれに、とても有意義だったよ	Roman	Ah, yes, that was a good visit. It brought back so many fond memories and turned out to be very meaningful.	罗曼	嗯，那是次不错的经验。\n我想起了很多学生时代的愉快回忆，\n而且也有不少收获。	羅曼	嗯，那真的是很棒經驗呢，\n學生時代的美好回憶一口氣湧了上來，\n而且也相當有意義。
+Date_NPC2_02_04ID	31	Roman	ロマン	彼らはこれからの未来を担う者たちだ。\n彼らが国に何を期待しているかを知り、\n応えていくのが私の責務だと……	Roman	Those students are the people who will shape our future. Understanding their hopes and meeting their expectations is my duty.	罗曼	那些学生肩负着国家的未来。\n我认为了解他们对国家的期待并做出回应\n就是我的职责……	羅曼	他們今後都是未來的棟樑。\n我認為了解他們對國家有何期待，\n並給予回應，是我的責任與義務……
+Date_NPC2_02_04ID	32	Sterk	ステルク	国に何を期待しているか。\nそれがあなたの探している「答え」ですか？	Sterk	Understanding their hopes for the country is the answer you've been searching for?	史特尔克	国民对国家的期待。\n这就是您在找寻的“答案”吗？	史特爾克	對國家有何期待啊，\n那就是你正在尋找的「答案」嗎？
+Date_NPC2_02_04ID	33	Roman	ロマン	その通りさ	Roman	Exactly.	罗曼	没错。	羅曼	正是如此。
+Date_NPC2_02_04ID	34	Sterk	ステルク	あの熱心さには、そのような目的が\n隠されていたのですね	Sterk	So that's what has sparked your passion so much recently.	史特尔克	您之所以投入这么多，\n真正的目的就是这个对吗。	史特爾克	你的那份熱心，原來隱藏著這種目的啊。
+Date_NPC2_02_04ID	35	Roman	ロマン	さすが。王族の考えを読み取るのがうまいね	Roman	I'm impressed. You really are sharp when it comes to reading royalty.	罗曼	真厉害，你很会领悟王族的想法呢。	羅曼	果然有一套，你很會解讀王族的思維呢。
+Date_NPC2_02_04ID	36	Roman	ロマン	同志レスナたちの頑張りのお蔭で、\n錬金術で国を発展させるという私の夢は\n着実に達成へと近づいている	Roman	Thanks to Resna and the others, my dream of advancing the nation through alchemy is steadily becoming a reality.	罗曼	多亏了同志蕾斯娜等人的努力，\n我的梦想——用炼金术实现国家繁荣\n正在逐渐成为现实。	羅曼	多虧同伴蕾斯娜她們的努力，\n我那以鍊金術發展國家的夢想\n正一步步朝著實現邁進。
+Date_NPC2_02_04ID	37	Roman	ロマン	そんな良い兆しの反面……	Roman	But at the same time...	罗曼	但与此相对……	羅曼	而這種好兆頭的另一面……
+Date_NPC2_02_04ID	38	Roman	ロマン	人造頂獣の襲来を受け、錬金党だけでなく\n様々な脅威に備えて戦力を増強せねばという\n危機感も高まっている	Roman	With the appearance of the man-made Apexi, there's a growing need to strengthen our forces, not only to deal with the Polar Night Alchemists, but also various threats across the nation.	罗曼	随着人造顶兽来袭，\n我内心的危机感也在不断加剧。\n面对炼金党和其他各种威胁，必须增强战力。	羅曼	則是遇上人造頂獸來襲，不只是鍊金黨，\n還要應付各式各樣的威脅，\n不得不增強戰力的危機感也隨之高漲。
+Date_NPC2_02_04ID	39	Roman	ロマン	そんな中で、私がもっとみんなの役に\n立つにはどうすればよいか	Roman	I've been searching for ways I can contribute to that more, but...	罗曼	在这种情况下，\n我要如何才能更多帮上大家的忙？	羅曼	在這樣的情況下，\n我應該怎麼做才能對大家更有幫助呢？
+Date_NPC2_02_04ID	40	Roman	ロマン	王族として自分に何ができるか、\nどうあればよいか	Roman	What can I really achieve as royalty? How should I approach the people?	罗曼	自己身为王族能够做些什么，\n该如何去做？	羅曼	身為王族，我能做些什麼？\n又該如何自處呢？
+Date_NPC2_02_04ID	41	Roman	ロマン	その答えを探すために、国民たちと\n交流を重ねていたんだ	Roman	I've been searching for the answers to those questions by spending more time with the people.	罗曼	为了寻找这些问题的答案，\n我不断和国民们交流。	羅曼	為了找到這些答案，\n我才會不斷地與國民們交流。
+Date_NPC2_02_04ID	42	Roman	ロマン	といっても、その答えはまだ見つかって\nいないんだけどね	Roman	Though I've yet to find them.	罗曼	话虽如此，我现在也还没找到答案就是了。	羅曼	話雖如此，那個答案我還沒有找到。
+Date_NPC2_02_04ID	43		選択肢	異邦人たちにも意見を聞くのは？	Selection	You should ask for advice from other wanderers.	选项	询问异邦人的意见如何？	選項	也問問那些異邦人怎麼樣？
+Date_NPC2_02_04ID	44	Roman	ロマン	実はもう聞いたんだ	Roman	I've already asked them.	罗曼	其实我已经问过了。	羅曼	其實我已經問過了。
+Date_NPC2_02_04ID	45	Roman	ロマン	どの答えも興味深かったんだけど、\nみんなバラバラでね。\nますます考え込んでしまったよ	Roman	Their answers were interesting, but everyone had a different view. It just left me more conflicted...	罗曼	大家的回答都值得深思，但也各不相同。\n这让我陷入了更深的思考。	羅曼	每個答案都很有意思但也各不相同，\n反倒讓我更想不透了。
+Date_NPC2_02_04ID	46	Sterk	ステルク	（そうか……\n　みんな様々な世界から来ているから、\n　考え方もそれぞれなのか）	Sterk	(That makes sense. Since they come from different worlds, their perspectives are bound to vary.)	史特尔克	（是啊……\n　大家来自不同的世界，\n　想法自然也不尽相同。）	史特爾克	（對了……因為大家來自不同的世界，\n　所以彼此的想法也都南轅北轍吧。）
+Date_NPC2_02_04ID	47		選択肢	あなたが思う王族の理想像は？	Selection	How would you define the ideal royalty?	选项	您心目中理想的王族形象是？	選項	您心中理想的王族是什麼模樣？
+Date_NPC2_02_04ID	48	Sterk	ステルク	あなたが思う王族の理想像は？	Sterk	How would you define the ideal royalty?	史特尔克	您心目中理想的王族形象是？	史特爾克	您心中理想的王族是什麼模樣？
+Date_NPC2_02_04ID	49	Roman	ロマン	私の理想像を聞いてどうするんだい？	Roman	Why ask that?	罗曼	你为什么想问这个？	羅曼	你問這些要做什麼？
+Date_NPC2_02_04ID	50	Sterk	ステルク	手あたり次第に意見を聞く前に、\nまずあなたの中の指針を決めた方がよいかと	Sterk	Before gathering others' opinions, I think it's important for you to decide on your own principles.	史特尔克	我认为在漫无目的地寻求他人意见之前，\n首先要决定您内心的方向。	史特爾克	我覺得在漫無目的地聽取意見之前，\n先確立你內心的方針比較好。
+Date_NPC2_02_04ID	51	Roman	ロマン	なるほど……	Roman	I see...	罗曼	原来如此……	羅曼	原來如此……
+Date_NPC2_02_04ID	52	Roman	ロマン	私の理想像は、父上や兄上かな	Roman	My ideal would be my father and brother.	罗曼	我理想的王族形象，应该是我的父亲和哥哥吧。	羅曼	我心中理想的王族，應該是父親大人和兄長大人吧。
+Date_NPC2_02_04ID	53	Roman	ロマン	とてつもない重圧を背負って、\nなお冷静さを保ちつつ、\n常に国民本位で物事を考えている	Roman	They bear immense burdens, yet they remain calm and always prioritize the people.	罗曼	背负着巨大的压力，却依然能保持冷静，事事从以民为本的角度去考虑。	羅曼	在背負著龐大的壓力卻依然能夠冷靜自持，始終以國民為中心來思考一切。
+Date_NPC2_02_04ID	54	Roman	ロマン	私には出来ないことだ。なるべく自由に\n生きていたい性分だからね	Roman	But that is something I just can't do. I've always wanted to live my own life, too.	罗曼	这是我做不到的。因为我天性就想自由自在地生活。	羅曼	這是我做不到的事情。因為我天性就是想盡量活得自由一點。
+Date_NPC2_02_04ID	55	Sterk	ステルク	なるほど	Sterk	I see.	史特尔克	这样啊。	史特爾克	原來如此。
+Date_NPC2_02_04ID	56	Roman	ロマン	ただ、みんなもそれを理想像としているかは\n分からないけど	Roman	However, I don't think everyone would hold that as the ideal.	罗曼	但我不确定，\n是否大家都认为这才是理想的王族形象。	羅曼	不過，我並不曉得大家是否也認為\n他們是理想的王族。
+Date_NPC2_02_04ID	57		選択肢	レスナたちに直接聞くのは？	Selection	Why not ask Resna and the others directly?	选项	直接询问蕾斯娜她们如何？	選項	直接問蕾斯娜她們如何？
+Date_NPC2_02_04ID	58	Sterk	ステルク	いっそ、レスナたちに直接聞くのは\nいかがでしょうか？	Sterk	Why not ask Resna and the others directly?	史特尔克	不如直接问问蕾斯娜她们？	史特爾克	乾脆直接問問蕾斯娜她們\n您覺得如何呢？
+Date_NPC2_02_04ID	59	Roman	ロマン	彼女たちは人が良いから、要望があっても、\nきっと「今のままでいい」と言うだろう	Roman	They're too kind. Even if they had complaints, they'd probably say everything's fine as it is.	罗曼	她们都很善良。就算问她们有什么期望，肯定也会回答“现在这样就好”。	羅曼	她們人太好了，就算有什麼要求，\n一定也會說「維持現狀就很好」吧。
+Date_NPC2_02_04ID	60	Roman	ロマン	だから色んな意見を集めて、\n自分で決めなくてはいけないんだ	Roman	That's why I need to gather opinions from different people and decide for myself.	罗曼	所以我才要搜集各种各样的意见，\n自己做出决定。	羅曼	所以我一定要在蒐集各種意見之後，\n自己做出決斷才行。
+Date_NPC2_02_04ID	61	Roman	ロマン	そうだ、君に訊くのを忘れていたよ	Roman	By the way, I forgot to ask...	罗曼	对了，我还没问你呢。	羅曼	對了，我忘記問你了。
+Date_NPC2_02_04ID	62	Roman	ロマン	ここしばらく、私をそばで見てきた君なら\n分かるかもしれない	Roman	Since you've been by my side for a while now, you might have some thoughts.	罗曼	最近你一直在我身边近距离看着我，\n说不定你会知道。	羅曼	這件事在我身邊觀察了一陣子的你或許會知道。
+Date_NPC2_02_04ID	63	Roman	ロマン	それに、君は私の友人ではあるけど\nいつも忌憚のない意見をくれるからね	Roman	Although you're my friend, I know you'll always give me your honest opinion.	罗曼	而且你虽然是我的朋友，\n但总能毫无顾忌地直言自己的意见。	羅曼	而且，你雖然是我的朋友，\n但總會直言不諱地給我意見。
+Date_NPC2_02_04ID	64	Sterk	ステルク	（小言をだいぶ良い風に言い換えたな……）	Sterk	(That's a flattering way to describe my constant complaints...)	史特尔克	（他把我的抱怨说得好好听……）	史特爾克	（他把發牢騷換成一個好聽的說法了呢……）
+Date_NPC2_02_04ID	65	Roman	ロマン	ステルク、私に足りないものは何だと思う？	Roman	Sterk, what do you think I'm lacking?	罗曼	史特尔克，你认为我所欠缺的东西是什么？	羅曼	史特爾克，你覺得我欠缺了什麼呢？
+Date_NPC2_02_04ID	66		選択肢	強さ	Selection	Strength	选项	强大	選項	強大
+Date_NPC2_02_04ID	67	Sterk	ステルク	私が元の世界で仕えていた王は……\n私が最も尊敬している方は、護られるだけで\nなく、自ら国民を護れるくらい強い方でした	Sterk	The king I once served, whom I most respected, wasn't just protected by others. He was strong enough to protect his people himself.	史特尔克	我在原本的世界侍奉的王……\n也就是我最尊敬的人，虽然他受到他人保护，\n但他也强到足以保护国民。	史特爾克	我在原來的世界所侍奉的王……\n我最尊敬的那位大人，並不光是被保護的那一方，\n他自身也強大到有辦法保護人民。
+Date_NPC2_02_04ID	68	Sterk	ステルク	なので、より強さを磨くべきだと思います	Sterk	Like him, I believe you should further hone your strength.	史特尔克	因此，我认为殿下应该让自己变得更强大。	史特爾克	因此我認為您應該要再多加磨練一下實力。
+Date_NPC2_02_04ID	69	Roman	ロマン	うーん……私は強さにはある程度定評が\nあるけどね……冒険の役に立つぐらいは	Roman	Hmm, I am somewhat known for my strength, but just enough to get by as an adventurer.	罗曼	唔……我的强大在一定程度上也是有口皆碑的。至少在冒险中我能帮上忙。	羅曼	唔……我的實力是有受到一定程度的肯定……最起碼能在冒險中派上用場吧。
+Date_NPC2_02_04ID	70	Roman	ロマン	ただ武芸に関しては妹の方が秀でている\n自分が誇れるのはせいぜい器用さだけだよ。	Roman	Even my younger sister surpasses me when it comes to pure martial prowess. My best asset is my dexterity.	罗曼	不过在武艺方面，还是我妹妹更胜一筹，我最多也只能夸自己灵活罢了。	羅曼	只是在武藝方面，妹妹比我出色許多。我能引以為傲的頂多只有靈活性而已。
+Date_NPC2_02_04ID	71	Roman	ロマン	だから、強くあれと言われても、\n私は超一線級の強さにはなれない。\n話に聞くアーランド国王には遠いよ	Roman	As much as I would love to be stronger, I don't ever see myself becoming the best of the best. From what I've heard, I'm nowhere near the King of Arland.	罗曼	因此，就算让我变强，我也无法变成超一级的强者。比你说的亚兰德国王差远了。	羅曼	所以，就算你要我變強，我也無法練到超級頂尖的程度，和你口中的亞蘭德國王差得遠了。
+Date_NPC2_02_04ID	72	Roman	ロマン	それに、自分はその役割ではないと\n思っているところもあるしね	Roman	Besides, I don't really think that's my role to fill.	罗曼	而且，我觉得自己的定位也不是这个。	羅曼	而且，我認為那也並非是我的職責所在。
+Date_NPC2_02_04ID	73		選択肢	賢さ	Selection	Wisdom	选项	智慧	選項	智慧
+Date_NPC2_02_04ID	74	Sterk	ステルク	失礼を承知で申し上げますが……\n賢さではないかと	Sterk	If I may, I believe what you need is wisdom.	史特尔克	我知道这么说很失礼……\n但也许您还不够聪慧吧。	史特爾克	我知道這麼說很失禮……\n但我認為是智慧。
+Date_NPC2_02_04ID	75	Sterk	ステルク	リヒャルト殿下が機転や柔軟な発想に\n長けていることは存じ上げております	Sterk	From the time I've spent by your side, I know you are quick-witted and adaptable.	史特尔克	我知道理查德殿下擅长灵机应变和灵活的思考。	史特爾克	我明白理查德殿下的長處是機智與靈活思維。
+Date_NPC2_02_04ID	76	Sterk	ステルク	しかし、些かそちらに頼りすぎて\n熟考が疎かになっている気もいたします	Sterk	However, I feel you sometimes rely too much on that and neglect deeper thought.	史特尔克	但同时我也感觉，殿下过于依赖这一点，\n有些不够深思熟虑。	史特爾克	但是，我覺得您有點過度依賴這些特點，\n導致不夠深思熟慮。
+Date_NPC2_02_04ID	77	Roman	ロマン	そうか、要領の良さだけでは\n足りないのか……	Roman	I see. So quick thinking alone isn't enough...	罗曼	是吗。光是脑子转得快还不够啊。	羅曼	這樣啊，光靠精明是不夠的嗎……？
+Date_NPC2_02_04ID	78	Sterk	ステルク	（良かれと思って率直な意見を伝えたが、\n　落ち込ませてしまったか……）	Sterk	(I gave my honest opinion, but I think I only ended up discouraging him...)	史特尔克	（我是觉得直说对殿下比较好，　结果害他消沉了……）	史特爾克	（出於好意，坦率地說了意見，　卻讓他感到沮喪了嗎……？）
+Date_NPC2_02_04ID	79		選択肢	大胆さ	Selection	Audacity	选项	胆量	選項	大膽
+Date_NPC2_02_04ID	80	Sterk	ステルク	リヒャルト殿下の、\n身分にとらわれない大胆さは\n誰にも負けない強みです	Sterk	Your Highness, your ability to act with audacity, never bound by status, is one of your greatest strengths.	史特尔克	理查德殿下不拘泥于自己身份的胆量\n正是一种不输给任何人的强大。	史特爾克	理查德殿下那不受身分拘束的大膽，\n是不輸任何人的優勢。
+Date_NPC2_02_04ID	81	Sterk	ステルク	立場上、普段はつい口うるさく\n注意させていただいておりますが、\nその大胆さこそ、もっと伸ばすべきかと	Sterk	Due to my position, I often find myself having to caution you for it, but that audacity is something you should nurture even further.	史特尔克	身为护卫，平时我总是忍不住出口劝告，\n但说实话，我觉得您可以继续发挥这份胆量。	史特爾克	出於我個人的立場，\n平時總會忍不住對您多加提醒，\n但我認為您應該要繼續將那份大膽發揚光大。
+Date_NPC2_02_04ID	82	Roman	ロマン	それは、私にとって嬉しい答えだけど……	Roman	That's a wonderful answer, but...	罗曼	这个回答让我很高兴……	羅曼	這個答案讓我聽了很高興……
+Date_NPC2_02_04ID	83	Roman	ロマン	君がそんなことを言うなんてね。\nもしかして気を遣ってくれているのかい？	Roman	I didn't expect to hear it from you. Are you just trying to be kind?	罗曼	但我没想到你会这么说。\n难道你是在顾虑我？	羅曼	不過你居然會說這種話，\n該不會是在顧慮我的心情吧？
+Date_NPC2_02_04ID	84	Roman	ロマン	その気持ちは嬉しいけど、\nこういう時こそ率直に言ってもらって\nかまわないんだけどな……	Roman	I appreciate the thought, but this is exactly the kind of moment when I'd prefer complete honesty.	罗曼	谢谢你为我考虑，\n不过这种时候你可以直说无妨……	羅曼	我很感謝你的這份心意，\n不過這種時候我反而更希望你能直說，\n我不會介意的……
+Date_NPC2_02_04ID	85	Sterk	ステルク	先ほど私は強さが足りないと\n申し上げましたが、	Sterk	I mentioned that you lack strength, but...	史特尔克	刚才我说您不够强大……	史特爾克	雖然我剛才說您不夠強大……
+Date_NPC2_02_04ID	86	Sterk	ステルク	正確には、足りないのは自信だと思います	Sterk	Perhaps to be more precise, what you're lacking is confidence.	史特尔克	但准确来说，我认为您缺少的是自信。	史特爾克	但正確來說，我認為您是自信不足。
+Date_NPC2_02_04ID	87	Roman	ロマン	自信？	Roman	Confidence?	罗曼	自信？	羅曼	自信？
+Date_NPC2_02_04ID	88	Roman	ロマン	そんな卑屈に見えるかい？\nランターナ屈指のいい男だと\n自負しているのに	Roman	Do I really seem that insecure? I always thought I was one of the most charming guys in all of Lantarna!	罗曼	我看上去没什么自信吗？\n我还觉得自己是兰塔纳首屈一指的好男人呢。	羅曼	我看起來有那麼自卑嗎？\n我明明是以蘭塔納\n首屈一指的好男人自居呢。
+Date_NPC2_02_04ID	89	Sterk	ステルク	あなたは聡明ですが、自分の限界を\n決めつけている節があります	Sterk	You're a brilliant person, but I believe you're limiting yourself by thinking that you have limits.	史特尔克	您确实很聪明，\n但动不动就划定自己的极限。	史特爾克	您很聰明，卻有著畫地自限的傾向。
+Date_NPC2_02_04ID	90	Sterk	ステルク	その決めつけを止めれば、\nあなたはもっと強くなれる	Sterk	If you let go of those self-imposed limits, you'll become even stronger.	史特尔克	如果您能改掉这个习惯，\n就会变得更强大。	史特爾克	只要您不再為自己設限，將能變得更加強大。
+Date_NPC2_02_04ID	91	Roman	ロマン	……強さの分をわきまえることも、\n重要だと思っていたが……	Roman	I always thought knowing the limits of my strength was more important, but...	罗曼	我本来认为，认清自己有几斤几两也是很重要的……	羅曼	……認清自己有多少實力，也是很重要的一件事……
+Date_NPC2_02_04ID	92	Sterk	ステルク	ええ、私はあなたに期待しているので	Sterk	I believe you can do it.	史特尔克	是的。我很期待您的成长。	史特爾克	對的，因為我對您抱有期待。
+Date_NPC2_02_04ID	93	Roman	ロマン	…………	Roman	...	罗曼	……	羅曼	…………
+Date_NPC2_02_04ID	94	Roman	ロマン	そう言われたら、男として燃えないわけには\nいかないね	Roman	Hearing you say that has really got me fired up!	罗曼	既然你都这么说了，\n身为男人很难不燃起斗志啊。	羅曼	被你這麼一說，\n身為男人怎能不燃起鬥志呢？
+Date_NPC2_02_04ID	95	Roman	ロマン	ステルク、早速訓練をつけてくれ！	Roman	Sterk! Let's get started with some training, right away!	罗曼	史特尔克，事不宜迟，马上开始训练吧！	羅曼	史特爾克，立刻來訓練我吧！
+Date_NPC2_02_04ID	96	Sterk	ステルク	えっ、今からですか！？	Sterk	Huh? Right now?!	史特尔克	什么，现在吗？！	史特爾克	咦，現在就開始嗎？
+Date_NPC2_02_04ID	97	Roman	ロマン	ああ、鉄は熱いうちに打て、だよ！	Roman	Of course! Strike while the iron's hot, right?	罗曼	没错，俗话说的好，趁热打铁嘛！	羅曼	對，打鐵就要趁熱啊！
+Date_NPC2_02_04ID	98	Sterk	ステルク	（相変わらず自由な人だ……）	Sterk	(He really is as carefree as ever...)	史特尔克	（还真是个随心所欲的人啊……）	史特爾克	（這人還是一樣隨心所欲……）
+Date_NPC2_02_04ID	99	Sterk	ステルク	（でも、ずいぶん晴れやかな顔をしている。\n　力になれたようでよかった）	Sterk	(But it's good to see him looking so spirited. I'm glad I could help.)	史特尔克	（不过殿下的表情开朗多了。\n　我能帮上忙真是太好了。）	史特爾克	（不過，他的表情開朗多了，\n　幸好似乎有幫上忙。）
+Date_NPC2_02_04ID	100	Roman	ロマン	うーん、まだ自分の中の答えが\nまとまらないな\n	Roman	Hmm. I still haven't quite found the answer.	罗曼	唔……我还没梳理好心里的想法。	羅曼	嗯～我還沒能整理出心中的答案。
+Date_NPC2_02_04ID	101	Roman	ロマン	もう少し色々な人々の意見を聞くべきか……	Roman	Maybe I need to ask a few more people for their thoughts...	罗曼	是不是应该再多问一些人的意见呢……	羅曼	應該再多問一些人的意見嗎……？
+Date_NPC2_02_04ID	102	Sterk	ステルク	力になれず、申し訳ございません	Sterk	I apologize for not being of more help.	史特尔克	很抱歉，没能帮上殿下的忙。	史特爾克	沒能幫上您的忙，非常抱歉。
+Date_NPC2_02_04ID	103	Roman	ロマン	いや、そんなことはないよ！\n君の意見も、とても参考になった。\nありがとう！	Roman	No, not at all! Your input was very helpful. Thank you!	罗曼	不，没那回事！\n你的意见也很有参考价值。\n谢谢你！	羅曼	不，沒這回事！\n你的意見也很有參考價值，謝謝你！
+Date_NPC2_02_04ID	104	Sterk	ステルク	（気を遣わせてしまった。\n　慣れないことはするものじゃないな……）	Sterk	(That gratitude feels rather forced. I really am not cut out for this kind of thing...)	史特尔克	（还让殿下为我费心了。\n　早知道就不该做这种不习惯的事……）	史特爾克	（讓他顧慮我了。\n　早知道就別做些自己不習慣的事了……）
+Date_NPC2_02_04ID	105	Roman	ロマン	私がもっと強くなると、\n本当にそう思うかい？	Roman	You truly think I can become stronger?	罗曼	你真的认为我能变得更强吗？	羅曼	要是我變得更強，你真的會那麼想嗎？
+Date_NPC2_02_04ID	106	Sterk	ステルク	異邦人たちにも意見を聞いてみては\nいかがでしょうか	Sterk	Perhaps you should ask for advice from other wanderers?	史特尔克	您要不去问问异邦人的意见如何？	史特爾克	要不要聽聽看異邦人們的意見呢？
+Date_NPC2_02_05ID	0	Sterk	ステルク	（またリヒャルト殿下が城の外へ出たいと\n　言い出した）	Sterk	(Once again, Prince Richard says he wants to venture outside the castle...)	史特尔克	（理查德殿下又说想去城外了。）一下我们这些护卫……）	史特爾克	（理查德殿下又說他想出城了。）
+Date_NPC2_02_05ID	1	Sterk	ステルク	（意図があってのことだと分かっては\n　いるが、ついていくこちらの身にも\n　なってほしい……）	Sterk	(I know he does it for a reason, but he could at least consider what it's like for me having to follow along.)	史特尔克	（我知道他一定是有什么目的，\n　但也希望他能体谅一下我们这些护卫……）	史特爾克	（雖然明白這是有用意的，\n　但也希望他能體諒一下必須同行的我……）
+Date_NPC2_02_05ID	2	Roman	ロマン	やぁ、待たせたね	Roman	Sorry to keep you waiting.	罗曼	你好啊，让你久等了。	羅曼	嗨，讓你久等了。
+Date_NPC2_02_05ID	3	Sterk	ステルク	何事ですか、その格好は！？	Sterk	What in the world is that outfit?!	史特尔克	您这身打扮是怎么回事？！	史特爾克	您那身打扮是怎麼回事！？
+Date_NPC2_02_05ID	4	Roman	ロマン	更に男ぶりが上がっただろう？	Roman	I look manlier than ever, don't you think?	罗曼	是不是比平时更有男子气概了？	羅曼	又更有男子氣概了，對吧？
+Date_NPC2_02_05ID	5	Sterk	ステルク	そんなことはどうでもいいんですよ！	Sterk	Why does that matter in the slightest?!	史特尔克	这不是重点！	史特爾克	那種事怎樣都無所謂啦！
+Date_NPC2_02_05ID	6	Roman	ロマン	どうでもいいって言われた……	Roman	Aww, I thought it mattered...	罗曼	居然说这不是重点……	羅曼	居然說怎樣都無所謂……
+Date_NPC2_02_05ID	7	Sterk	ステルク	あなたのような方が、なぜそのような\n騎士然とした格好をなさっているのかと\n聞いているのです！	Sterk	What I'm asking is why a prince like yourself is dressed like a knight!	史特尔克	我是在问您这种身份的人，\n为什么要打扮成骑士的模样！	史特爾克	我是在問，像您如此身分的人物，\n為什麼會打扮得像個騎士一樣！
+Date_NPC2_02_05ID	8	Roman	ロマン	君の助言を受けて、自分の限界を\n決めつけるのを止めようと思ったんだ	Roman	I took your advice to heart—I decided it's time to stop limiting myself.	罗曼	因为我听了你的意见，\n决定不再给自己设限了。	羅曼	聽了你的建議之後，我決定不再為自己設限。
+Date_NPC2_02_05ID	9	Roman	ロマン	私は身分にとらわれず、自由に生きる男。\n国民を守るためなら、時には前線に立つ騎士となる	Roman	I'm a man who lives freely, unbound by status. If I need to become a \nknight on the front lines to protect my people every so often, so be it!	罗曼	我是不被身份所束缚、自由自在生活的男人。\n为了守护国民，偶尔会成为在前线战斗的骑士。	羅曼	我是個不受身分束縛，隨心所欲的男人。\n為了守護國民，我有時要成為站上前線的騎士。
+Date_NPC2_02_05ID	10	Roman	ロマン	この格好はその決意の表れさ	Roman	This outfit is a symbol of that resolve.	罗曼	这身打扮代表了我的决心。	羅曼	這身打扮是為了表達這份決心。
+Date_NPC2_02_05ID	11	Sterk	ステルク	…………	Sterk	...	史特尔克	……	史特爾克	…………
+Date_NPC2_02_05ID	12	Roman	ロマン	ん？　どうして頭を抱えているんだい？	Roman	Hmm? Why are you holding your head like that?	罗曼	嗯？你为什么看起来这么烦恼？	羅曼	嗯？你為什麼要抱著頭？
+Date_NPC2_02_05ID	13	Sterk	ステルク	確かに私は、護られるだけでなく、自ら国民を\n護れるくらい強い方になるべきとお伝えしましたが……	Sterk	I did say you should become strong enough to protect your people yourself...	史特尔克	的确我说过，“要成为强大的人，\n不仅仅受他人保护，也要能够守护国民”……	史特爾克	我確實是說過，「你不該只是被保護的那一方，\n而是自身要強大到有辦法保護國民」這句話……
+Date_NPC2_02_05ID	14	Sterk	ステルク	あなたが騎士になってしまったら、\nユナ殿や他の騎士たちの立つ瀬がありません	Sterk	But if you become a knight yourself, where does that leave Lady Juna and the rest of the knights?	史特尔克	但要是您成为了骑士，\n您让尤娜阁下和其他骑士们怎么想？	史特爾克	但你要是成了騎士，\n尤娜大人和其他騎士們就沒有立足之地了。
+Date_NPC2_02_05ID	15	Sterk	ステルク	強くなるのに前向きなのは良いことですが、\nもう少しご自分の立場を考えて……	Sterk	It's admirable that you're committed to getting stronger, but you must think more carefully about your position.	史特尔克	积极向前看，让自己变得更强大确实是件好事，\n但您也要多考虑一下自身的立场……	史特爾克	為了變強，態度積極是很好，\n但您也要稍微考慮一下自己的立場……
+Date_NPC2_02_05ID	16	Roman	ロマン	それなら、君たちがもっと強くなれば\nいいじゃないか	Roman	Then all of you just need to get even stronger too!	罗曼	既然如此，那你们也变得更强大不就好了。	羅曼	這樣的話，只要你們變得更強就好啦。
+Date_NPC2_02_05ID	17	Roman	ロマン	私はみんなの限界を決めつけるつもりもないからね。\n大いに期待しているよ	Roman	I'm not here to put limits on anyone. I expect great things from everyone!	罗曼	我也不会给大家设限，\n反而很期待大家的成长呢。	羅曼	因為我也不打算為大家設限，\n我非常期待大家的表現喔。
+Date_NPC2_02_05ID	18	Sterk	ステルク	……まったく、なんて勝手なお方だ	Sterk	Honestly. You really are impossible.	史特尔克	真是的……您也太随心所欲了。	史特爾克	……唉，這位大人可真夠任性的。
+Date_NPC2_02_05ID	19	Sterk	ステルク	（リヒャルト殿は自由すぎる方ではあるが、\n　あの方と同じく考えあってのこと）	Sterk	(Prince Richard may be carefree, but there's always thought behind his actions. He really does remind me of him.)	史特尔克	（理查德殿下的确过于随心所欲，\n　但也和那位大人一样，这都是思考过后的结果。）	史特爾克	（雖然理查德殿下的性格過於自由奔放，\n　但與那位大人擁有相同的思維。）
+Date_NPC2_02_05ID	20	Sterk	ステルク	（身分に縛られて、こうあるべきだという考えに\n　捉われない部分は、私も見習うべきか……）	Sterk	(Perhaps I could learn from his refusal to be bound by status and preconceived roles...)	史特尔克	（不被身份束缚，积极寻找其他可能性这一点，\n　或许我也该好好学学……）	史特爾克	（不受身分拘束、不侷限於既定思考的部分，\n　我也應該學習一下嗎……）

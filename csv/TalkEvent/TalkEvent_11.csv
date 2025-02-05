@@ -1,0 +1,499 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_11_001ID	0	Resna	レスナ	わぁ！　ここが「癒しの花園」……	Resna	Oh, wow! So this is the Garden of Healing...	蕾斯娜	哇！这里就是“治愈花园”……	蕾斯娜	哇！這裡就是「治癒花園」……
+TalkEvent_11_001ID	1	Suelle	スール	綺麗～！　そして何より……お宝の山っ！\nぱっと見ただけでも、使えそうな素材がい～っぱい！	Suelle	It's sooo pretty! With just one look I can tell this place is a whole treasure trove of materials!	苏瑞	好漂亮～！而且……真是金山银山啊！\n乍一眼看过去，就发现了好多可用的素材！	蘇瑞	好漂亮～！而且……這裡就像座寶藏山！\n放眼望去，到處都是可以利用的素材～！
+TalkEvent_11_001ID	2	Resna	レスナ	フロッケちゃん、ありがとう！\nここならいい素材が見つかりそうだよ！	Resna	Thank you, Flocke! I'm sure we'll find tons of great things to use here!	蕾斯娜	芙洛可，谢谢你。\n在这里一定能找到优质的素材！	蕾斯娜	芙洛可，謝謝妳！\n感覺這裡能找到很棒的素材！
+TalkEvent_11_001ID	3	Flocke	フロッケ	えへへ。力になれてよかったです	Flocke	Ehehe. I'm just happy to help!	芙洛可	嘿嘿，能帮上你就好。	芙洛可	嘿嘿，很高興能幫上忙。
+TalkEvent_11_001ID	4	Resna	レスナ	（私たちは今、クア州にある\n　「癒しの花園」という場所を訪れている）	Resna	(Right now, we're in a place in Kur Province called the Garden of Healing.)	蕾斯娜	（我们现在来到了位于库亚州的\n　一个名叫“治愈花园”的地方。）	蕾斯娜	（我們此刻來到了庫厄州一處\n　名為「治癒花園」的地方。）
+TalkEvent_11_001ID	5	Resna	レスナ	（頂獣ウェルテックスとの決戦に向けて、\n　必要となる素材を集めに来たところだ）	Resna	(We've got to get whatever we can, as fast as we can, so that we're ready to fight the Apexi.)	蕾斯娜	（是为了与顶兽威尔特克斯决一死战\n　而来收集必要素材的。）	蕾斯娜	（為了準備與頂獸威爾特庫斯決戰，\n　我們來到這裡蒐集必要的素材。）
+TalkEvent_11_001ID	6	Resna	レスナ	ウェルテックスがまた動き出す前に、\nできる限り準備をしておかないと！	Resna	Okay! We'd better prepare as much as possible before Weltex comes back for another round!	蕾斯娜	在威尔特克斯再次开始行动前，\n我们要尽可能地做好准备！	蕾斯娜	得趁威爾特庫斯再次行動前，\n盡全力做足準備才行！
+TalkEvent_11_001ID	7	Flocke	フロッケ	療養中のヴァレリアさんやハイディさんの分まで、\nフロッケが目いっぱい頑張ります！	Flocke	I'll do everything I can to help fill in for Valeria and Heidi!	芙洛可	为了正在疗养的瓦莱莉娅和海蒂，\n芙洛可会加倍努力的！	芙洛可	芙洛可會替療養中的瓦萊莉婭和海蒂，\n一起盡全力努力的！
+TalkEvent_11_001ID	8	Suelle	スール	おおっ、フロッケさん、気合入ってますね	Suelle	Ooh! That's the spirit, Flocke!	苏瑞	哇哦，芙洛可小姐很有干劲嘛。	蘇瑞	喔喔！芙洛可，妳幹勁十足耶。
+TalkEvent_11_001ID	9	Suelle	スール	じゃ、あたしも、砦で準備してるリディーたちの分も\nこっちで頑張るとしますか！	Suelle	Then I'll have to do Lydie's share! Plus everyone else who's back at the fortress!	苏瑞	那我也要替正在要塞备战的莉迪她们\n加倍努力啦！	蘇瑞	那麼，\n我也要替人在要塞做準備的莉迪一起努力！
+TalkEvent_11_001ID	10	Resna	レスナ	そうですね。今はとにかく、\n自分たちにできることをやらないと	Resna	Yeah. Right now, we've just got to do everything we can!	蕾斯娜	说得对。\n总之现在我们得做好自己力所能及的事。	蕾斯娜	是啊。總而言之，\n我們現在得盡力做好自己能做的事。
+TalkEvent_11_001ID	11	Resna	レスナ	すべては、ウェルテックスに勝つために！	Resna	So we can win against Weltex!	蕾斯娜	一切都是为了战胜威尔特克斯！	蕾斯娜	一切都是為了戰勝威爾特庫斯！
+TalkEvent_11_001ID	12	Suelle	スール	そうだね！　この間の借りを返すためにも！	Suelle	Yep! I definitely want to get back at it for what it did to us last time!	苏瑞	没错！也为了报上次的一箭之仇！	蘇瑞	沒錯！還得為了之前的事找牠算帳！
+TalkEvent_11_001ID	13	Suelle	スール	あ～今思い出してもむかついてきた！\nウェルテックスめ～！　次は絶対に倒すからなーっ！	Suelle	Ugh, just thinking about it makes me mad! Weltex, you big meanie! You're going down!	苏瑞	唉～现在想起来我都来气！\n该死的威尔特克斯！下次一定要打败它！	蘇瑞	啊～現在回想起來還是好氣人！\n可惡的威爾特庫斯～！我下次一定會打倒你！
+TalkEvent_11_001ID	14	Flocke	フロッケ	ス、スーさん、目が据わってますっ！？	Flocke	Um, Sue? Are you sure you're not a little too fired up?	芙洛可	苏、苏小姐，你的眼神好可怕！	芙洛可	蘇、蘇小姐，妳氣得兩眼發直了！？
+TalkEvent_11_002ID	0	Flocke	フロッケ	クア州には、癒しの街とも呼ばれる、\n病気の療養地として有名な街があるそうです	Flocke	Kur is known as a place of healing, and there's a town in the province that's famous for its health resorts where people go to recover.	芙洛可	库亚州也被称作治愈之城，\n据说是有名的疗养胜地。	芙洛可	聽說庫厄州有一座城鎮被稱為「治癒城鎮」，\n是很有名的療養聖地。
+TalkEvent_11_002ID	1	Flocke	フロッケ	そこで使われているお薬も、ここで採れた薬草から\n作られているそうですよ	Flocke	Apparently, the medicines they use there are made from the herbs you can find here.	芙洛可	那里使用的药品好像就是用\n这里采集的药草制成的哦。	芙洛可	據說那裡使用的藥材，\n也是用這裡採集到的藥草製作的。
+TalkEvent_11_002ID	2	Suelle	スール	確かにこれだけ色んな種類の薬草や花があれば\nどんな病気も治っちゃうかもですね！	Suelle	I can see why. There are a whole bunch of different useful plants and flowers here. With this much variety, I feel like you could cure just about anything!	苏瑞	有这么多种类的药草和花，\n的确感觉能包治百病！	蘇瑞	有這麼多種的藥草與花朵，\n感覺確實能治百病呢！
+TalkEvent_11_002ID	3	Flocke	フロッケ	はい。気つけに使えるものから、解熱、鎮痛、\n他にも色々あるそうです	Flocke	Yes, as long as you're careful with them, there are things here for fever, pain relief, and all sorts of other ailments.	芙洛可	是的。这些素材不仅能提神，\n还有解热镇痛等多种功效。	芙洛可	是啊。不管是讓人清醒過來的藥，\n還是退燒、止痛等各類藥材好像都有。
+TalkEvent_11_002ID	4	Resna	レスナ	フロッケちゃん、詳しいね！	Resna	Flocke, you know so much!	蕾斯娜	芙洛可知道得真多啊！	蕾斯娜	芙洛可知道得好詳細！
+TalkEvent_11_002ID	5	Flocke	フロッケ	実はここに来る前に、少しだけですが\n調べておいたんです	Flocke	Well, I did a little research before we left.	芙洛可	其实我在来这里之前，\n自己先查询了一些资料。	芙洛可	其實我來這裡之前，\n有稍微先做過調查。
+TalkEvent_11_002ID	6	Flocke	フロッケ	フロッケは、ヴァレリアさんとハイディさんが\n一番辛い時に、そばにいられませんでしたので……	Flocke	I couldn't be there for Valeria and Heidi when they were struggling the most, so...	芙洛可	因为我在瓦莱莉娅和海蒂最艰难的时候，\n没能陪在她们身边，感到很不甘心……	芙洛可	因為在瓦萊莉婭和海蒂最痛苦的時候，\n芙洛可沒辦法陪在她們的身邊……
+TalkEvent_11_002ID	7	Resna	レスナ	それは……私も同じ。\nだからその分を取り返さなきゃね！	Resna	Neither could I. That's why we'll make up for it and then some!	蕾斯娜	这样啊……我也是一样的心情。\n所以我们一定要替她们报仇！	蕾斯娜	這點……我也一樣。\n所以得設法彌補回來才行！
+TalkEvent_11_002ID	8	Suelle	スール	うん！\nあたしも離れてた分、活躍しないと！	Suelle	Yeah! I'll make sure to cover the time we were away, too!	苏瑞	嗯！\n我之前不在，这次也要大展身手才行！	蘇瑞	嗯！為了彌補我不在的那段時間，\n我也得好好表現了！
+TalkEvent_11_002ID	9	Suelle	スール	あ、そういえば。\nハイディさんも目を覚ましたんでしたっけ？	Suelle	That reminds me... Heidi's awake now, right?	苏瑞	啊，说起来，海蒂小姐也醒过来了吧？	蘇瑞	啊，話說回來，\n海蒂也醒來了嗎？
+TalkEvent_11_002ID	10	Flocke	フロッケ	はい。出発する前に様子を見に行ったら、\nちょうど起きたところみたいでした	Flocke	Yep. We went to check on her just before we left and managed to catch her right as she was coming to.	芙洛可	嗯。启程前我去看了看，\n她当时好像刚好醒了。	芙洛可	是的。我出發前有去探望過，\n她當時正好醒來了。
+TalkEvent_11_002ID	11	Heidi	ハイディ	ん……うぅ……	Heidi	Nh... Mnnh...	海蒂	嗯……唔……	海蒂	嗯……嗚……
+TalkEvent_11_002ID	12	Heidi	ハイディ	あれ……ここって……	Heidi	Huh...? Where...	海蒂	咦……这里是……	海蒂	咦……這裡是……
+TalkEvent_11_002ID	13	Flocke	フロッケ	あっ、ハイディさん！　目が覚めたんですね！	Flocke	Oh, Heidi! You're awake!	芙洛可	啊，海蒂！你醒啦！	芙洛可	啊，海蒂！妳醒來了嗎！
+TalkEvent_11_002ID	14	Heidi	ハイディ	え、フロッケ……？	Heidi	Wha—Flocke...?	海蒂	咦，芙洛可……？	海蒂	咦，芙洛可……？
+TalkEvent_11_002ID	15	Heidi	ハイディ	嘘……夢じゃないよね！？\n無事だったんだ！	Heidi	No way... This isn't a dream?! You're really okay?!	海蒂	不是吧……这不是梦吧？\n我居然没事！	海蒂	不會吧……我不是在做夢吧！？\n妳平安無事嗎！
+TalkEvent_11_002ID	16	Heidi	ハイディ	あいたっ！	Heidi	Ooh, ouch!	海蒂	好痛！	海蒂	好痛！
+TalkEvent_11_002ID	17	Flocke	フロッケ	わわっ、寝てないとダメですよ！	Flocke	Heidi! You've got to stay lying down!	芙洛可	哎呀，你赶紧躺好！	芙洛可	哇哇，妳還得躺著才行！
+TalkEvent_11_002ID	18	Heidi	ハイディ	――なるほどね。ともあれみんな無事でよかったよ。\n私も体張った甲斐があるってもんさ	Heidi	Oh, so that's what happened. Well, I'm just glad that everyone's safe. Sounds like sticking my neck out really paid off.	海蒂	——原来是这样。不过只要大家没事，\n我就没有白拼命。	海蒂	──原來如此。不管怎麼樣，幸好大家平安無事。\n這樣我拚上性命就值得了。
+TalkEvent_11_002ID	19	Flocke	フロッケ	ケガの具合はどうですか……？	Flocke	How are your injuries?	芙洛可	你的伤势怎么样了……？	芙洛可	妳的傷口還好嗎……？
+TalkEvent_11_002ID	20	Heidi	ハイディ	正直、かなりキツいね。なんとか起き上がれはするけど	Heidi	Honestly? Not great. It's taking everything I've got to stay sitting up.	海蒂	老实说挺严重的。不过总算是能坐起来了。	海蒂	老實說還滿難受的。不過勉強還能起身。
+TalkEvent_11_002ID	21	Resna	レスナ	あの……実はこれからハイディさんとヴァレリアの\n治療薬を作ろうと思っているんです	Resna	Um, I was actually going to start making some medicine for you and Valeria.	蕾斯娜	那个……接下来我打算给海蒂小姐和瓦莱莉娅\n制作治疗药。	蕾斯娜	那個……其實，\n我正想幫海蒂和瓦萊莉婭製作治療藥。
+TalkEvent_11_002ID	22	Valeria	ヴァレリア	私たちも誘導作戦に加わってほしいんだってさ	Valeria	Roman wants us to help with the next round of battle tactics.	瓦莱莉娅	她的意思是说希望我们也能参加诱导作战。	瓦萊莉婭	說是想請我們也加入誘導作戰。
+TalkEvent_11_002ID	23	Heidi	ハイディ	……ま、今の戦況を考えたらそうなるか	Heidi	Can't say I'm surprised, given how things have been going.	海蒂	毕竟考虑到如今的战况，确实急需更多人手嘛。	海蒂	……考量到現在的戰況，這是合理的安排。
+TalkEvent_11_002ID	24	Flocke	フロッケ	本音を言うと、お二人には休んでいてほしいです。\nこれ以上、無理をしてほしくないから	Flocke	Personally, I wish that you two would sit the rest of this fight out. I don't want you to push yourselves any further.	芙洛可	我个人其实真心想让你们两个继续好好休养，\n不希望你们再继续逞强了。	芙洛可	但說實話，我希望妳們能夠休息。\n我不希望妳們再繼續逞強下去了。
+TalkEvent_11_002ID	25	Resna	レスナ	治療薬もどのくらい効くか分かりません。\nもし辛いようなら――	Resna	I don't know how effective this medicine is going to be either. If things get to be too tough, then...	蕾斯娜	我不知道治疗药的效果会持续多久。\n如果你们感到撑不住的话——	蕾斯娜	而且不知道治療藥到底能發揮多少作用，\n要是傷勢還很勉強的話──
+TalkEvent_11_002ID	26	Heidi	ハイディ	分かった。やるよ	Heidi	Nah, it's fine. I'm in.	海蒂	知道了。我会加入战斗的。	海蒂	知道了，我要參加。
+TalkEvent_11_002ID	27	Flocke	フロッケ	……本当にやるんですか？	Flocke	Are you sure?	芙洛可	……你真的要去吗？	芙洛可	……妳真的要參加嗎？
+TalkEvent_11_002ID	28	Heidi	ハイディ	むしろ、あの化け物に仕返しする機会をもらえるなら\n願ったり叶ったりだよ	Heidi	Yep. I've been hoping to give that lousy monster exactly what it deserves anyway, so this works out nicely.	海蒂	如果有向那个怪物报仇的机会，\n我求之不得。	海蒂	如果能抓住機會向那個怪物復仇，\n那反而正如我所願。
+TalkEvent_11_002ID	29	Heidi	ハイディ	もう逃げないって決めたんだ。\n私も、みんなと一緒に最後まで戦うよ	Heidi	I'm not going to run anymore. I want to fight with everyone, right through to the end.	海蒂	我已经决定不再逃避了。\n我也会和你们一起战斗到最后的。	海蒂	我已經決定不會再逃跑了。\n我也想和大家一起戰鬥到最後。
+TalkEvent_11_002ID	30	Valeria	ヴァレリア	うんうん！　それでこそ私の相棒よ！	Valeria	Darn straight! That's my partner!	瓦莱莉娅	嗯嗯！这才是我的搭档！	瓦萊莉婭	嗯嗯！這才稱得上是我的搭檔！
+TalkEvent_11_002ID	31	Resna	レスナ	それじゃあ、少しでも早く復帰できるよう、\n私たちも頑張りますね！	Resna	We'll do our best to make sure that you're back in action that much sooner!	蕾斯娜	为了能让你尽快归队，\n我们也会加油的！	蕾斯娜	那麼，為了讓妳們能早日回歸戰線，\n我們也要好好加油才行！
+TalkEvent_11_002ID	32	Flocke	フロッケ	……分かりました。\nお二人とも、待っていてください！	Flocke	Yeah. We'll have it ready for you as soon as we can!	芙洛可	……我知道了。\n请你们两个等着我们！	芙洛可	……我明白了。\n請妳們稍等一下！
+TalkEvent_11_003ID	0	Resna	レスナ	あと必要な素材は……\nうーん、この薬草がまだ１つも見つかってないですね	Resna	Let's see, I was also looking for... Hm. I haven't found any of this one yet.	蕾斯娜	需要的素材还有……\n唔——这种药草还一棵都没找到呢。	蕾斯娜	還需要的素材是……\n唔──這種藥草連一株都還沒找到。
+TalkEvent_11_003ID	1	Flocke	フロッケ	これは市場にもなかなか出回らない貴重な薬草\nなんです。この花園で採れるのは確かなんですけど	Flocke	Oh, you barely ever see that herb for sale, even in the markets. This is where you're supposed to be able to gather it, but...	芙洛可	这是一种市面上都很难买到的贵重药草。\n不过在这个花园里的确有分布。	芙洛可	這是在市場上也很難買到的珍貴藥草。\n不過，應該能在這座花園裡採到才對。
+TalkEvent_11_003ID	2	Suelle	スール	ここを隅々まで調べるのはちょっと大変そうだなあ	Suelle	We don't exactly have the time to go looking in every nook and cranny.	苏瑞	要找遍这里的每个角落有点困难啊。	蘇瑞	要找遍這裡每個角落感覺會很費工夫呢。
+TalkEvent_11_003ID	3	Suelle	スール	何か探す手掛かりとかないんですか？\n生えてる場所とか、実は強烈な匂いを発してるとか	Suelle	Do we have any other information to go off of? Like, the sorts of places it grows in, or if it gives off a really strong scent?	苏瑞	有没有什么更具体的线索？\n比如适宜生长的环境、果实显著散发的气味等等。	蘇瑞	有什麼線索嗎？比方說生長的地點，\n或是會散發強烈氣味之類的。
+TalkEvent_11_003ID	4	Flocke	フロッケ	そこまではっきりした特徴はありませんね……\n地道に探すしかないと思います	Flocke	Sorry, it doesn't have any distinct traits. All we can do is look closely and hope for the best.	芙洛可	没有那么明显的特征……\n只能沉下心地毯式搜索了。	芙洛可	它沒有那麼明確的特徵……\n應該只能一個一個找了。
+TalkEvent_11_003ID	5	Suelle	スール	そっかあ……	Suelle	That's no good.	苏瑞	这样啊……	蘇瑞	這樣啊……
+TalkEvent_11_003ID	6	Resna	レスナ	もしかしたら、手近な場所に生えているものは\n誰かに採られた後なのかも……	Resna	It's also possible that someone happened to find some and pick it before we got here.	蕾斯娜	说不定长在近处的已经被别人摘走了……	蕾斯娜	說不定生長在這附近的，\n都已經被別人先採完了……
+TalkEvent_11_003ID	7	Flocke	フロッケ	た、確かに……	Flocke	Th-That's true too...	芙洛可	有、有可能……	芙洛可	的、的確……
+TalkEvent_11_003ID	8	Flocke	フロッケ	で、でも！　これだけ広い花園ですから、\nどこかにはきっとあるはずです！	Flocke	Oh, but! This is such a big garden. There's got to be some around here somewhere!	芙洛可	不、不过！这个花园这么大，\n别的地方一定还有！	芙洛可	但、但是！這座花園這麼大，\n某個地方一定還會有的！
+TalkEvent_11_003ID	9	Suelle	スール	うん、あたしもそう思います！　だから、\n生えてる可能性が高そうな場所を探しましょう！	Suelle	Yeah! I think you're right! That's why we should look in the most likely places!	苏瑞	嗯，我也是这么想的！\n去找找有可能生长的地方吧！	蘇瑞	嗯，我也這麼覺得！\n所以，我們來找找看比較有可能會長的地方吧！
+TalkEvent_11_003ID	10	Resna	レスナ	何か心当たりが！？	Resna	Do you actually know what those would be?!	蕾斯娜	你有什么头绪吗？！	蕾斯娜	妳有什麼頭緒嗎！？
+TalkEvent_11_003ID	11	Suelle	スール	採取するとき、できるだけ安全に済ませたい、\nと普通は思うじゃないですか	Suelle	When you're going gathering, you'd usually want to keep your safety in mind, right?	苏瑞	人们一般不都会在保证安全的前提下\n进行采集吗。	蘇瑞	採集藥草的時候，\n一般都會盡量以安全為優先吧？
+TalkEvent_11_003ID	12	Suelle	スール	だから逆に、危険な場所は\n人の手がついてない可能性が高い！	Suelle	So we should do the opposite! Look in the more dangerous places that normal people would avoid!	苏瑞	所以反过来想，\n危险的地方可能还没有人去采集过！	蘇瑞	所以反過來說，\n危險的地點說不定還沒被採過！
+TalkEvent_11_003ID	13	Flocke	フロッケ	な、なるほど。危険な場所というと――	Flocke	O-Okay. What places are those?	芙洛可	原、原来如此。危险的地方啊——	芙洛可	原、原來如此。危險的地點是指──
+TalkEvent_11_003ID	14	Suelle	スール	たとえば魔物の縄張り……とか！	Suelle	Hm, for example... Places where monsters hang out!	苏瑞	比如魔物的地盘……！	蘇瑞	比方說魔物的地盤……之類的！
+TalkEvent_11_003ID	15	Resna	レスナ	――行ってみよう！	Resna	Let's go take a look!	蕾斯娜	——那就去看看吧！	蕾斯娜	──我們去看看吧！
+TalkEvent_11_003ID	16	Flocke	フロッケ	はい！	Flocke	Okay!	芙洛可	好的！	芙洛可	好！
+TalkEvent_11_003ID	17	Suelle	スール	それじゃ行きますよ！	Suelle	Great! Come on, time to get a move on!	苏瑞	我要上了哦！	蘇瑞	那就走吧！
+TalkEvent_11_004ID	0	Suelle	スール	ふふーん、楽勝っ！\nあたしに戦いを挑むなんて無謀だったね！	Suelle	Heh heh! Easiest win ever! Anything that challenges us is just asking for trouble!	苏瑞	哼哼——小菜一碟！\n居然敢向我挑战，真是有勇无谋！	蘇瑞	呵呵，輕輕鬆鬆！\n竟敢來挑戰我，真是有勇無謀！
+TalkEvent_11_004ID	1	Flocke	フロッケ	すごいです、スーさん！\nとっても戦い慣れてますね	Flocke	Wow, Sue! You're so good at fighting!	芙洛可	苏小姐好厉害！\n你的战斗经验非常丰富啊。	芙洛可	蘇小姐好厲害！\n妳很熟悉戰鬥呢。
+TalkEvent_11_004ID	2	Resna	レスナ	敵を翻弄する素早い立ち回り！\n本当に素晴らしいご活躍でした！　	Resna	Yeah! That was amazing! You turned those monsters on their heads in no time at all!　	蕾斯娜	用走位把敌人耍得团团转！\n真是太精彩了！　	蕾斯娜	那玩弄敵人的敏捷身手！\n真是精彩的表現！　
+TalkEvent_11_004ID	3	Suelle	スール	くふふ、どういたしまして！	Suelle	Hehehe! It was nothing!	苏瑞	呵呵呵，不用客气！	蘇瑞	呵呵，謝謝稱讚！
+TalkEvent_11_004ID	4	Flocke	フロッケ	あっ、あった！　ありましたよ！　探してた薬草！	Flocke	Oh! There it is! The herb we were looking for!	芙洛可	找、找到了！我看到我们要找的药草了！	芙洛可	啊，找到了！這裡有我們在找的藥草！
+TalkEvent_11_004ID	5	Resna	レスナ	スー先輩の読み通りでしたね！	Resna	It's just like you said, Sue!	蕾斯娜	一切都如苏前辈所料！	蕾斯娜	蘇前輩算得好準！
+TalkEvent_11_004ID	6	Suelle	スール	ふっふっふ、もっとほめるがよい！	Suelle	Heh heh! Of course it was! Feel free to keep the praise coming, though!	苏瑞	呵呵呵，说得好，再多夸两句！	蘇瑞	呵呵呵，再多稱讚我幾句吧！
+TalkEvent_11_004ID	7	Resna	レスナ	他の素材も順調に集まっていますし、\nこれならいけるかも！	Resna	We've had good luck finding the other materials, too. I think we'll be able to make that medicine just fine!	蕾斯娜	其他素材也收集得很顺利，\n照这样下去应该能办得到！	蕾斯娜	其他素材也都順利找到了，\n這樣應該沒有問題！
+TalkEvent_11_004ID	8	Flocke	フロッケ	砦のほうの準備も順調に進んでいるでしょうか	Flocke	I wonder how the prep work at the fortress is going.	芙洛可	不知道要塞那边的准备是否顺利啊。	芙洛可	不知道要塞那邊準備得還順利嗎？
+TalkEvent_11_004ID	9	Suelle	スール	リディーやフィリスさん、他の錬金術士の人たちも\nいるし、きっと大丈夫ですよ！	Suelle	Lydie and Firis are there—plus a whole bunch of other alchemists—so, I'm sure it's all great!	苏瑞	那边有莉迪、菲利丝小姐和其他炼金术士，\n肯定没问题的！	蘇瑞	那邊有莉迪和菲莉絲，\n還有其他幾位鍊金術士在，一定沒問題的！
+TalkEvent_11_004ID	10	Lydie	リディー	入口付近の爆弾の設置、完了しました！	Lydie	We finished setting up the bombs around the entrances!	莉迪	入口附近的炸弹已经安装完成了！	莉迪	入口附近的炸彈設置好了！
+TalkEvent_11_004ID	11	Roman	ロマン	ああ、ありがとう	Roman	Thanks, it looks perfect.	罗曼	好，谢谢。	羅曼	嗯，謝謝。
+TalkEvent_11_004ID	12	Valeria	ヴァレリア	へえ。あんな風に爆弾を地面の下に埋めちゃうのね	Valeria	Hm, so you buried them in the ground?	瓦莱莉娅	哦，要像那样把炸弹埋在地下啊。	瓦萊莉婭	哦──原來你們是這樣把炸彈埋在地底下的啊。
+TalkEvent_11_004ID	13	Lydie	リディー	ヴァレリアさん！？　ちゃんと休んでいないと、\nまたアーシャさんに怒られちゃいますよ？	Lydie	V-Valeria?! You shouldn't be up! Ayesha's going to get mad again if she sees that you're not resting!	莉迪	瓦莱莉娅小姐？！你要是不好好休息，\n又会被爱夏小姐骂哦？	莉迪	瓦萊莉婭！？妳得好好休息，\n不然又要被愛夏罵了！
+TalkEvent_11_004ID	14	Valeria	ヴァレリア	ちょっとくらい動いてないと落ち着かないのよ	Valeria	I know, but I won't be able to stand another minute of rest if I don't move around a little.	瓦莱莉娅	我如果不干点活就放不下心来。	瓦萊莉婭	我不稍微活動一下靜不下來啦。
+TalkEvent_11_004ID	15	Valeria	ヴァレリア	ウェルテックスを砦まで誘い込んだら、\nあそこに埋めた爆弾を使うわけね	Valeria	The idea is that we lure Weltex over to the fortress, then use the buried bombs on it, right?	瓦莱莉娅	把威尔特克斯诱入要塞后，\n就引爆埋在那里的炸弹对吧。	瓦萊莉婭	你們是打算把威爾特庫斯引來要塞，\n再使用埋在那裡的炸彈對吧。
+TalkEvent_11_004ID	16	Roman	ロマン	ああ。ヤツの体表は硬い殻で覆われているが、\n腹部は比較的殻が薄くなっている	Roman	Exactly. It's covered in a pretty thick outer shell, but its abdomen isn't as well-protected.	罗曼	对。虽然那家伙的体表覆盖着坚硬的壳，\n但腹部的壳相对较薄。	羅曼	嗯。那傢伙的體表覆蓋著堅硬的外殼，\n但腹部的殼相對比較薄。
+TalkEvent_11_004ID	17	Valeria	ヴァレリア	そうね。実際戦った時も、\nお腹のほうは結構柔らかかった気がするわ	Valeria	You know, I was thinking the same thing the last time I fought it.	瓦莱莉娅	没错。实战的时候，\n我就觉得它腹部比其他地方柔软得多。	瓦萊莉婭	的確。實際戰鬥的時候，\n我也覺得牠的肚子滿軟的。
+TalkEvent_11_004ID	18	Roman	ロマン	だから、地中からの攻撃で守りの手薄な腹部を叩く。\nこれが狙いだ	Roman	So in theory, focusing our attacks on its underside should do the trick.	罗曼	所以要从地底向上攻击它防守薄弱的腹部。\n这就是我们的目的。	羅曼	所以我們的目標，\n就是要從地底攻擊牠防禦力低的腹部。
+TalkEvent_11_004ID	19	Lydie	リディー	上手くいくといいんですけど……	Lydie	It would be nice if everything went all according to plan, but...	莉迪	希望正式行动能顺利进行……	莉迪	希望能成功……
+TalkEvent_11_004ID	20	Roman	ロマン	人事を尽くして天命を待つしかないさ。\n今はやれることを最大限やろう	Roman	Yeah. We'll do what we can to prepare, but we'll also have to keep our fingers crossed and just hope for the best.	罗曼	尽人事听天命。\n现在我们就先尽力而为吧。	羅曼	只能盡人事聽天命了。\n盡全力做好我們現在能做的事吧。
+TalkEvent_11_004ID	21	Valeria	ヴァレリア	あ、そうそう。１つロマンに話しておきたいことが\nあったのよ。聞いてくれる？	Valeria	Oh, that reminds me. There was something I wanted to ask you, Roman. Um, if you wouldn't mind.	瓦莱莉娅	啊，对了对了。我有件事想和罗曼说，\n你方便听我说吗？	瓦萊莉婭	啊，對了。\n羅曼，我要跟你說一件事，你願意聽聽嗎？
+TalkEvent_11_004ID	22	Roman	ロマン	ん、どうしたんだい？　そんなに改まって	Roman	Of course not, why would I?	罗曼	嗯，什么事啊？这么郑重其事的。	羅曼	嗯，怎麼了？怎麼突然正經八百的？
+TalkEvent_11_004ID	23	Valeria	ヴァレリア	実はね。ウェルテックスと戦った時――	Valeria	So, when I was fighting Weltex...	瓦莱莉娅	其实，在和威尔特克斯战斗的时候——	瓦萊莉婭	其實，我在跟威爾特庫斯戰鬥的時候──
+TalkEvent_11_005ID	0	Suelle	スール	ただいまー！　あれ、リディーじゃん	Suelle	We're baaack! Hm? Hey, Lydie!	苏瑞	我回来了——！咦，莉迪你在呀。	蘇瑞	我回來了──！咦，這不是莉迪嗎？
+TalkEvent_11_005ID	1	Lydie	リディー	あ、スーちゃん。それにレスナさんとフロッケさんも。\n薬の素材のほうはどうでした？	Lydie	Oh, Sue. Resna and Flocke are with you too, I see. How was the herb gathering?	莉迪	啊，小苏。还有蕾斯娜小姐和芙洛可小姐。\n药品素材收集到了吗？	莉迪	啊，小蘇，還有蕾斯娜和芙洛可。\n藥的素材蒐集得怎麼樣了？
+TalkEvent_11_005ID	2	Resna	レスナ	バッチリです！\n早速、調合しちゃいましょうか	Resna	It went really well! We're going to start synthesizing right away!	蕾斯娜	全都收集到了！\n赶紧开始调合吧。	蕾斯娜	準備萬全了！\n我們趕快來調合吧。
+TalkEvent_11_005ID	3	Lydie	リディー	あの、私もお手伝いします！\nちょうど手が空いたところだったので	Lydie	Um, I'd like to help you! I've got a bit of free time right now anyway.	莉迪	那个，我也来帮忙！\n我手头刚好没事做了。	莉迪	那個，我也來幫忙！\n我現在剛好有空。
+TalkEvent_11_005ID	4	Resna	レスナ	ありがとうございます。じゃあ、よろしくお願いします	Resna	Thank you, that would be much appreciated!	蕾斯娜	谢谢，那就拜托你了。	蕾斯娜	謝謝妳。那就麻煩妳了。
+TalkEvent_11_005ID	5	Flocke	フロッケ	そういえば、ハイディさんとヴァレリアさんは\nどこへ？	Flocke	Where did Heidi and Valeria go?	芙洛可	说起来，海蒂和瓦莱莉娅去哪里了？	芙洛可	話說回來，\n海蒂和瓦萊莉婭去哪裡了？
+TalkEvent_11_005ID	6	Lydie	リディー	お二人とも、砦のほうに行っているみたいですよ。\n状況を把握しておきたいからって	Lydie	They should both be over at the fortress, since they wanted to see how everything was going.	莉迪	她们两个说想要掌握现状，\n好像是去要塞了。	莉迪	她們兩個好像去要塞那邊了。\n說想先去了解情況。
+TalkEvent_11_005ID	7	Flocke	フロッケ	そうですか……。無理をしていないといいんですけど	Flocke	Oh, okay... They really shouldn't be pushing themselves so hard, though.	芙洛可	这样啊……希望她们没在逞强。	芙洛可	這樣啊……希望她們別太逞強才好。
+TalkEvent_11_005ID	8	Resna	レスナ	早く薬を完成させて、持っていってあげよう！	Resna	Let's make this medicine really quickly so we can bring it to them!	蕾斯娜	赶快把药做好，给她们带过去吧！	蕾斯娜	我們盡快把藥做好，拿去給她們吧！
+TalkEvent_11_005ID	9	Flocke	フロッケ	はい！	Flocke	Yeah!	芙洛可	好的！	芙洛可	好！
+TalkEvent_11_006ID	0	Resna	レスナ	できた……！	Resna	We did it!	蕾斯娜	完成了……！	蕾斯娜	完成了……！
+TalkEvent_11_006ID	1	Suelle	スール	うん！　完璧っ！	Suelle	Yeah! It's perfect!	苏瑞	嗯！很完美！	蘇瑞	嗯！完美！
+TalkEvent_11_006ID	2	Flocke	フロッケ	早速、お二人に渡してきます！	Flocke	I'm going to go give it to them!	芙洛可	那我这就给她们带过去！	芙洛可	我立刻拿去給她們！
+TalkEvent_11_006ID	3	Resna	レスナ	あ、うん！　よろしくねー！	Resna	Oh, um, sure! Thanks, Flocke!	蕾斯娜	啊，好！拜托你了！	蕾斯娜	啊，嗯！麻煩妳了～！
+TalkEvent_11_006ID	4	Lydie	リディー	あんなに慌てて……。\n本当にあの二人が心配だったんですね	Lydie	She sure was in a hurry. She must really have been worried about them.	莉迪	看她心急如焚的样子……\n她真的非常担心那两位呢。	莉迪	這麼匆忙……\n她真的很擔心她們兩個呢。
+TalkEvent_11_006ID	5	Resna	レスナ	フロッケちゃんにとっては、\n家族、みたいなものなんだと思います	Resna	Well, they're both members of Flocke's family.	蕾斯娜	对芙洛可来说，\n她们两个就像她的家人一样。	蕾斯娜	我想對芙洛可來說，\n她們就像是她的家人吧。
+TalkEvent_11_006ID	6	Suelle	スール	さて、後片付けしたらあたしたちも砦に戻ります？	Suelle	I guess we should clean up here and head back to the fortress too, then?	苏瑞	那等收拾完了，我们也回要塞吧？	蘇瑞	那我們整理收拾好之後，也回去要塞嗎？
+TalkEvent_11_006ID	7	Resna	レスナ	はい。そうですね。ウェルテックスとの戦いに向けて、\nやれることは全部やっておかないと！	Resna	Mhm, that's right. We've got to do everything we can to get ready for our next battle!	蕾斯娜	嗯，好的。为了打败威尔特克斯，\n我们必须尽自己所能！	蕾斯娜	好，就這樣吧。為了準備與威爾特庫斯一戰，\n要把能做的事全都做完才行！
+TalkEvent_11_006ID	8	Lydie	リディー	あっ、そうだ！　ウェルテックスのことで、\nレスナさんにもお伝えしておきたいことが	Lydie	Oh, I almost forgot! Resna, there's something I wanted to tell you about Weltex.	莉迪	啊，对了！关于威尔特克斯，\n我有件事要告诉蕾斯娜小姐。	莉迪	啊，對了！蕾斯娜，\n我要告訴妳一件有關威爾特庫斯的事。
+TalkEvent_11_006ID	9	Resna	レスナ	え、なんでしょう？	Resna	What is it?	蕾斯娜	咦，什么事？	蕾斯娜	咦？是什麼事？
+TalkEvent_11_006ID	10	Lydie	リディー	実はヴァレリアさんが――	Lydie	Actually, Valeria said...	莉迪	是这样，瓦莱莉娅小姐说——	莉迪	其實瓦萊莉婭她──
+TalkEvent_11_006ID	11	Valeria	ヴァレリア	実はね。ウェルテックスと戦った時……\nもっと言えば、あの黒い球を出してきた時なんだけど	Valeria	So, when I was fighting Weltex... Specifically, when it brought out those black spheres...	瓦莱莉娅	其实，在和威尔特克斯战斗的时候……\n确切地说，是它发出黑球的时候。	瓦萊莉婭	其實，我和威爾特庫斯戰鬥的時候……\n準確來說，是牠放出那個黑球的時候。
+TalkEvent_11_006ID	12	Valeria	ヴァレリア	ウェルテックスの体内から、\nマナと同じような力の流れを感じたの	Valeria	The power flowing through its body felt exactly like mana.	瓦莱莉娅	我感受到威尔特克斯的体内\n流动着和玛那相似的力量。	瓦萊莉婭	我感受到威爾特庫斯的體內，\n流動著與瑪那相似的力量。
+TalkEvent_11_006ID	13	Lydie	リディー	マナって、錬金術に使うマナですか？	Lydie	You mean, the same mana that alchemy uses?	莉迪	玛那……是炼金术中会用到的玛那吗？	莉迪	妳說的瑪那，是鍊金術用的瑪那嗎？
+TalkEvent_11_006ID	14	Valeria	ヴァレリア	ええ。\nあいつはそれを使って攻撃を仕掛けたように見えた	Valeria	Yep. It was using that to power its attacks.	瓦莱莉娅	是的。\n看上去它是用那股能量发动的攻击。	瓦萊莉婭	對。\n我看牠像是用那個力量來發動攻擊的。
+TalkEvent_11_006ID	15	Roman	ロマン	バカな！\nいやしかし、あり得なくはない……のか？	Roman	Inconceivable! Oh, but...is it, though?	罗曼	怎么会！\n不对，也不是不可能……	羅曼	怎麼可能！\n不對，這也不是不可能的事……嗎？
+TalkEvent_11_006ID	16	Roman	ロマン	頂獣の生態はまだ謎が多い。あるいは、マナを\n栄養源として蓄えているということも……	Roman	There's so much that we don't know about the Apexi. I suppose it wouldn't be impossible for it to be storing or consuming mana.	罗曼	有关顶兽的生态，仍有诸多未破解的谜团。\n它体内储存着玛那作为营养源也并不是不可能……	羅曼	頂獸的生態仍充滿著許多謎團。\n說不定牠會把瑪那當作營養來源儲存於體內……
+TalkEvent_11_006ID	17	Valeria	ヴァレリア	まあ、仕組みはなんでもいいんだけど。\nあいつがまたあの攻撃をしようとしたとき……	Valeria	Setting how it works aside, I think that when it tries to attack...	瓦莱莉娅	不管是什么机制，\n当它想要发动那种攻击时……	瓦萊莉婭	不管原理是什麼都無所謂。\n一旦那傢伙再次使出那個攻擊……
+TalkEvent_11_006ID	18	Valeria	ヴァレリア	私やレスナ……いや、他の錬金術士たちも、\n攻撃の予兆を感じ取れるんじゃないかしら	Valeria	I think that Resna and I—actually, all of the alchemists—might be able to sense when that attack's coming.	瓦莱莉娅	我和蕾斯娜……不，所有炼金术士\n是不是都能感受到攻击的预兆呢？	瓦萊莉婭	我和蕾斯娜……不，還有其他鍊金術士們，\n應該都能感覺得到攻擊的前兆吧。
+TalkEvent_11_006ID	19	Roman	ロマン	そうだな。他の者たちにも伝えておこう	Roman	All right, I'll pass that information along.	罗曼	有道理，把这个情况也告诉其他人吧。	羅曼	的確。也把這件事告訴其他人吧。
+TalkEvent_11_006ID	20	Resna	レスナ	ウェルテックスがマナの力を！？	Resna	Weltex uses mana?!	蕾斯娜	威尔特克斯使用了玛那的力量？！	蕾斯娜	威爾特庫斯會用瑪那的力量！？
+TalkEvent_11_006ID	21	Suelle	スール	あの技にそんな秘密があったなんてねー	Suelle	So that's the secret behind that technique!	苏瑞	原来那个招式里还有这样的秘密。	蘇瑞	沒想到那招藏有這種秘密──
+TalkEvent_11_006ID	22	Lydie	リディー	島では不意を突かれてしまいましたけど、\nもっと早く気付ければ、被害を抑えられるはずです	Lydie	We were taken by surprise on the island, but if we'd only realized what that sensation was earlier, we could have avoided more trouble.	莉迪	虽然在岛上被打了个猝不及防，\n但要是能提早注意到攻击，或许可以减小受灾范围。	莉迪	當時在島上被牠突襲，\n如果能早點注意到這點，就能減少傷害了。
+TalkEvent_11_006ID	23	Suelle	スール	確かに、ヴァレリアさんたちは木とかに掴まって\n吸い込まれずに済んだんだもんね	Suelle	Right, like how Valeria and Heidi had the good sense to grab onto trees to not get sucked up.	苏瑞	是啊，那样瓦莱莉娅小姐她们说不定就能抓住树，\n不会被吸进去了。	蘇瑞	確實，\n這樣瓦萊莉婭她們就不會被那些樹木抓住吸進去了。
+TalkEvent_11_006ID	24	Resna	レスナ	分かりました！　私も注意しておきますね	Resna	I see! I'll make sure to pay close attention!	蕾斯娜	我知道了。我会去提醒大家的。	蕾斯娜	我知道了！我也會多多注意的。
+TalkEvent_11_006ID	25	Suelle	スール	あーあ、いっそ調合に失敗したときみたいに\nドカーンって自爆してくれたらいいのにな	Suelle	Urgh, this reminds me of those times our synthesis failed and the whole thing blew up in our faces.	苏瑞	唉——它要是能像调合失败时那样\n轰隆一声自爆就好了。	蘇瑞	唉──要是牠會像調合失敗的時候一樣，\n碰地一聲自爆就好了。
+TalkEvent_11_006ID	26	Lydie	リディー	そんな昔の私たちみたいな……	Lydie	That did happen a lot when we were first starting out.	莉迪	它不会像以前的我们一样笨啦……	莉迪	怎麼可能像以前的我們一樣……
+TalkEvent_11_006ID	27	Resna	レスナ	失敗……自爆……	Resna	Failed...synthesis?	蕾斯娜	失败……自爆……	蕾斯娜	失敗……自爆……
+TalkEvent_11_006ID	28	Resna	レスナ	それ、使えるかもしれません！	Resna	I think we can use that!	蕾斯娜	这或许是个有用的点子！	蕾斯娜	說不定那個能用得上！
+TalkEvent_11_006ID	29	Suelle	スール	えっ？	Suelle	Huh?	苏瑞	嗯？	蘇瑞	咦？
+TalkEvent_11_006ID	30	Resna	レスナ	マナを利用して何かを生み出すという意味では、\nウェルテックスの力は錬金術と似ています	Resna	Mana is what we use to create with, right? That means that Weltex's power is a lot like alchemy!	蕾斯娜	如果威尔特克斯真能使用玛那生成些什么，\n说明它的力量原理和炼金术相似。	蕾斯娜	從威爾特庫斯會利用瑪那生成出某種物質的這點來看，\n牠的力量跟鍊金術很相似。
+TalkEvent_11_006ID	31	Resna	レスナ	錬金術の理論を応用すれば、その力を意図的に捻じ曲げ\n阻害することも不可能ではないかもしれません！	Resna	If we look at it that way, then it might be possible to hinder the process!	蕾斯娜	那么只要应用炼金术的理论，有意扭曲那股力量，\n借此干扰它的攻击也不是不可能！	蕾斯娜	要是運用鍊金術的理論，\n說不定就能扭曲這股力量，藉此妨礙牠！
+TalkEvent_11_006ID	32	Lydie	リディー	無理やり失敗させちゃうってことですか！？	Lydie	You mean, we could try forcing it to fail?	莉迪	是要强行让它攻击失败吗？！	莉迪	也就是強行讓牠攻擊失敗嗎！？
+TalkEvent_11_006ID	33	Suelle	スール	おー！　それ、面白そう！	Suelle	Ooooh! Now there's an idea!	苏瑞	哦——！听着很有意思！	蘇瑞	喔！這方法聽起來很有趣！
+TalkEvent_11_006ID	34	Resna	レスナ	でも、そのためにはウェルテックスの体内にどうにか\n干渉する必要が……何かしらの装置があれば……	Resna	But that would probably mean doing something to the inside of its body, which we'd need...some sort of tool for...	蕾斯娜	但那就需要对威尔特克斯的体内进行干涉了……\n要是有什么能用的装置就好了……	蕾斯娜	但是，要做到這點得先設法干擾威爾特庫斯的體內……\n要是有某種裝置的話……
+TalkEvent_11_006ID	35	Resna	レスナ	とにかく、ロマンさんに相談しなきゃ！\n私、行ってきます！	Resna	Anyway, I'm going to go talk it over with Roman!	蕾斯娜	总之得和罗曼先生商量一下！\n我这就去！	蕾斯娜	總之得找羅曼討論才行！\n我先出發了！
+TalkEvent_11_006ID	36	Suelle	スール	リディー、あたしたちも行こ！	Suelle	Lydie, we'd better go with her!	苏瑞	莉迪，我们也跟上！	蘇瑞	莉迪，我們也一起去吧！
+TalkEvent_11_006ID	37	Lydie	リディー	うん！	Lydie	Yep!	莉迪	嗯！	莉迪	嗯！
+TalkEvent_11_007ID	0	Valeria	ヴァレリア	ふぅ……やっぱり強い	Valeria	Phew... Yeah, that thing's no joke.	瓦莱莉娅	呼……果然很强啊。	瓦萊莉婭	呼……果然很強。
+TalkEvent_11_007ID	1	Heidi	ハイディ	どうしたの？　……あいてて。\nまだあちこち身体が痛いや	Heidi	What're you up to, partner? Ooh, ouch. My body is not liking any of this.	海蒂	你在说什么？啊好疼……\n现在还是浑身上下都疼。	海蒂	怎麼了？……啊、好痛。\n身體還到處都在痛。
+TalkEvent_11_007ID	2	Valeria	ヴァレリア	想像の中でウェルテックスと戦ってみてるのよ。\nこれなら休養の指示に逆らってないでしょ？	Valeria	Just trying to fight Weltex in my imagination. That's technically still resting, right?	瓦莱莉娅	我正在想象中和威尔特克斯战斗。\n这样就不算违背休养的命令了吧？	瓦萊莉婭	我正在腦海裡模擬和威爾特庫斯的戰鬥。\n這樣就不算違背休息的指示了吧？
+TalkEvent_11_007ID	3	Heidi	ハイディ	くぁー元気だねぇ	Heidi	Yeesh, you're a bundle of energy.	海蒂	哇——很有精神嘛。	海蒂	唔哇，還真有精神。
+TalkEvent_11_007ID	4	Flocke	フロッケ	差し入れを持ってきましたよー	Flocke	I've got a delivery for you!	芙洛可	我们带慰问品过来了哦。	芙洛可	我帶慰勞品來囉～
+TalkEvent_11_007ID	5	Heidi	ハイディ	フロッケ、その手に持ってるのってもしかして……	Heidi	Hang on. Flocke, is that...?	海蒂	芙洛可，你手里的该不会是……	海蒂	芙洛可，妳手裡拿著的該不會是……
+TalkEvent_11_007ID	6	Flocke	フロッケ	はい。\nレスナさんたちと作っていた薬が完成したんです！	Flocke	Yep! The medicine that Resna and the others made!	芙洛可	是的。\n是蕾斯娜小姐她们做好的药！	芙洛可	是的。\n我和蕾斯娜她們一起製作的治療藥完成了！
+TalkEvent_11_007ID	7	Flocke	フロッケ	どうでしょうか……？	Flocke	Um, how do you feel?	芙洛可	怎么样……？	芙洛可	怎麼樣……？
+TalkEvent_11_007ID	8	Heidi	ハイディ	すごい……みるみるうちに痛みが引いてく！	Heidi	Whoa...! The pain went away instantly!	海蒂	好神奇……转眼间疼痛就减轻了！	海蒂	好厲害……疼痛正在明顯消失！
+TalkEvent_11_007ID	9	Valeria	ヴァレリア	うん。効き目抜群ね。\nありがとうフロッケ	Valeria	Yeah, that's some medicine. Thanks for that, Flocke.	瓦莱莉娅	嗯，真是效果卓绝啊。\n谢谢你，芙洛可。	瓦萊莉婭	嗯。效果卓越呢。\n謝謝妳，芙洛可。
+TalkEvent_11_007ID	10	Flocke	フロッケ	よかった……	Flocke	Thank goodness...	芙洛可	太好了……	芙洛可	太好了……
+TalkEvent_11_007ID	11	Flocke	フロッケ	効き目が完全に出るまでは少し時間がかかると思うので\nもう少し安静にしておいてくださいね	Flocke	I think it still needs a little time to finish working its magic, though, so you should take it easy for just a bit longer.	芙洛可	药需要一些时间才能完全起效，\n所以请你们再静养一阵子哦。	芙洛可	要完全發揮效果應該還需要一些時間，\n請妳們再靜養一陣子吧。
+TalkEvent_11_007ID	12		ふたり	はーい	Both	Yes, ma'am!	二人	是——	兩人	好～
+TalkEvent_11_007ID	13	Flocke	フロッケ	フロッケにできることはありませんか？\nなんでも言ってください！	Flocke	Is there anything I can do for you in the meantime? Anything at all!	芙洛可	芙洛可有什么能帮上忙的吗？\n请尽管说！	芙洛可	有什麼芙洛可能幫忙的事嗎？\n不管是什麼事都請儘管說！
+TalkEvent_11_007ID	14	Heidi	ハイディ	フロッケ？　あのね、そんなことは――	Heidi	Flocke, you really don't have to—	海蒂	芙洛可，你不用那么——	海蒂	芙洛可？那個，這種事──
+TalkEvent_11_007ID	15	Valeria	ヴァレリア	それじゃ、いいこいいこして！	Valeria	Tell us we did a good job!	瓦莱莉娅	那你夸夸我们做得好！	瓦萊莉婭	那就，摸摸我的頭吧！
+TalkEvent_11_007ID	16	Flocke	フロッケ	そ……そんなことでいいんですか？	Flocke	Oh, um... You're sure that's enough?	芙洛可	这……这样就行了吗？	芙洛可	這……這種事就可以了嗎？
+TalkEvent_11_007ID	17	Heidi	ハイディ	うん。それがいいな。頑張ったご褒美	Heidi	Yeah, it's enough. It's a reward for all our hard work.	海蒂	嗯，就想要这个。我们这么努力，值得嘉奖。	海蒂	嗯，這樣就好。這是努力後的獎勵。
+TalkEvent_11_007ID	18	Flocke	フロッケ	いいこ……いいこ……本当に頑張りましたね	Flocke	Good job, girls... You really did your best!	芙洛可	做得好……做得好……谢谢你们这么努力。	芙洛可	乖孩子……乖孩子……妳們真的很努力呢。
+TalkEvent_11_007ID	19	Heidi	ハイディ	ね、フロッケ。なんか歌ってよ	Heidi	Flocke, would you mind singing us something?	海蒂	哎，芙洛可。给我们唱首歌吧。	海蒂	欸，芙洛可，妳來唱唱歌吧。
+TalkEvent_11_007ID	20	Flocke	フロッケ	フロッケはそんなに歌は上手くないですよ？	Flocke	Even though I'm not all that good at it?	芙洛可	芙洛可不太会唱歌，你们真的要听吗？	芙洛可	但芙洛可不太擅長唱歌的說。
+TalkEvent_11_007ID	21	Valeria	ヴァレリア	んー、でもフロッケの歌声が聞きたい	Valeria	Maybe, but...we still want to hear you sing.	瓦莱莉娅	唔——我就是想听芙洛可的歌声嘛。	瓦萊莉婭	嗯～可是我想聽芙洛可的歌聲。
+TalkEvent_11_007ID	22	Flocke	フロッケ	それなら……心を込めて歌いますね	Flocke	All right, I'll put my whole heart into it!	芙洛可	那么……我就用心唱一首吧。	芙洛可	那……我會用心唱的。
+TalkEvent_11_007ID	23	Flocke	フロッケ	……いかがでしたか？	Flocke	Um, how was that?	芙洛可	……唱得怎么样？	芙洛可	……怎麼樣？
+TalkEvent_11_007ID	24	Valeria	ヴァレリア	んー。いい気持ち	Valeria	Mhm, that was really nice.	瓦莱莉娅	嗯，很动听。	瓦萊莉婭	嗯～心情真好。
+TalkEvent_11_007ID	25	Flocke	フロッケ	それならよかったです	Flocke	Good, I'm glad!	芙洛可	那就好。	芙洛可	那就太好了。
+TalkEvent_11_007ID	26	Heidi	ハイディ	元気出たねぇ	Heidi	Yeah, I'm feeling way more energized now.	海蒂	感觉打起精神了。	海蒂	有精神了～
+TalkEvent_11_007ID	27	Valeria	ヴァレリア	うん。すっごく元気が出たわ	Valeria	Like, fully refreshed! Yeah!	瓦莱莉娅	是啊，我现在干劲十足。	瓦萊莉婭	嗯，感覺精神好多了。
+TalkEvent_11_007ID	28	Valeria	ヴァレリア	ウェルテックスが来ても、万全の状態で戦えるわ	Valeria	If Weltex showed up right now, I could jump straight into battle, no problem.	瓦莱莉娅	就算威尔特克斯来了，我也能以完美的状态应战。	瓦萊莉婭	就算威爾特庫斯來，我也能以萬全的狀態迎戰了。
+TalkEvent_11_007ID	29	Heidi	ハイディ	ふふっ。私も同じく	Heidi	Haha! I was thinking the same thing.	海蒂	呵呵，我也一样。	海蒂	呵呵，我也一樣。
+TalkEvent_11_008ID	0	Resna	レスナ	――という作戦なんですけど	Resna	Anyway, that was the new strategy we were considering.	蕾斯娜	——就是这么一个战术。	蕾斯娜	──就是這樣的作戰。
+TalkEvent_11_008ID	1	Roman	ロマン	なるほど……賭けてみる価値はあるかもしれない	Roman	Hm, I see... It may well be a gamble worth taking.	罗曼	原来如此……也许值得一试。	羅曼	原來如此……這或許值得賭賭看。
+TalkEvent_11_008ID	2	Juna	ユナ	しかし、夜までに間に合うか？	Juna	But would you have enough time to prepare?	尤娜	不过，来得及在夜晚到来前准备好吗？	尤娜	不過，晚上之前來得及嗎？
+TalkEvent_11_008ID	3	Lydie	リディー	他の錬金術士の皆さんにも協力していただければ……	Lydie	If all the other alchemists lend a hand, then...	莉迪	只要其他炼金术士都来帮忙……	莉迪	如果請其他鍊金術士們一起幫忙的話……
+TalkEvent_11_008ID	4	Suelle	スール	間に合わせてみせますって！	Suelle	We'll make it happen!	苏瑞	我们会及时准备好的！	蘇瑞	我們會努力趕上的！
+TalkEvent_11_008ID	5	Roman	ロマン	分かった。皆に招集をかけよう	Roman	All right, I'll call everyone over.	罗曼	好吧。那就召集大家过来吧。	羅曼	我知道了，召集大家來吧。
+TalkEvent_11_008ID	6	Resna	レスナ	狙いは頂獣の体内にあるマナの流れを邪魔することです	Resna	So, what we want to do is disrupt the mana that's flowing through Weltex.	蕾斯娜	目的是搅乱顶兽体内玛那的流动。	蕾斯娜	目標是干擾頂獸體內瑪那的流動。
+TalkEvent_11_008ID	7	Firis	フィリス	単純に考えると、頂獣の身体の中に装置を\n直接撃ち込めたら手っ取り早そうだけど……	Firis	Thinking about it, the quickest way to do that would be to shoot some sort of device straight into its body.	菲利丝	以最简单的思路来想，\n直接把装置打入顶兽的体内是最有效率的……	菲莉絲	簡單來說，\n把裝置直接打進頂獸的體內應該是最快的……
+TalkEvent_11_008ID	8	Logy	ロジー	だがそうなると、かなりの強度が必要そうだな。\nどうやって撃ち込むかという問題もある	Logy	Whatever it is has to be pretty strong then. And then there's the question of how to get it inside of Weltex.	罗吉	可这样需要非常大的力度。\n怎么把装置打进去也是个问题。	羅吉	但如果要這麼做，應該需要挺高的強度，\n而且如何打進去也是個問題。
+TalkEvent_11_008ID	9	Escha	エスカ	大がかりな装置になると、\n人の手で動かすのは難しいですよね	Escha	It can't be anything that's too tricky to carry, either.	爱丝卡	如果用大型装置，\n靠人力去移动是很困难的吧。	愛絲卡	如果裝置太大，\n靠我們人的一雙手也很難操作吧。
+TalkEvent_11_008ID	10	Suelle	スール	んー、たとえば大砲みたいに飛ばすとかですかねえ……	Suelle	Hm, like a cannonball, maybe? We already have cannons set up, so...	苏瑞	唔——用大炮之类的武器打出去怎么样……	蘇瑞	嗯～如果像大砲那樣射出去怎麼樣呢……
+TalkEvent_11_008ID	11	Resna	レスナ	レシピはこんな感じで……どうでしょう？	Resna	Would a recipe like this work?	蕾斯娜	用这样的配方……可行吗？	蕾斯娜	配方像這種感覺……怎麼樣？
+TalkEvent_11_008ID	12	Lydie	リディー	ばっちりだと思います！	Lydie	I think that would be perfect!	莉迪	我觉得很完美！	莉迪	我覺得很完美！
+TalkEvent_11_008ID	13	Totori	トトリ	今ある素材でなんとか作れそうですしね	Totori	It looks like we have all the materials already, too.	托托莉	用现有素材应该能做出来。	托托莉	而且用現有的素材應該做得出來。
+TalkEvent_11_008ID	14	Ayesha	アーシャ	じゃあ、早速始めましょうか	Ayesha	Well then. Shall we get to work?	爱夏	那就赶快行动起来吧。	愛夏	那我們就快點開始吧。
+TalkEvent_11_008ID	15	Resna	レスナ	はい！　皆さん、ご協力お願いします！	Resna	Yeah! Thanks in advance for your help, everyone!	蕾斯娜	好！拜托大家协助了！	蕾斯娜	好的！就拜託大家幫忙了！
+TalkEvent_11_009ID	0	Flocke	フロッケ	クラウディアさん、皆さん。急なお願いにもかかわらず\n集まっていただいてありがとうございます	Flocke	Thank you, everyone, for coming all the way here on such short notice.	芙洛可	科洛蒂娅小姐、各位朋友。非常感谢大家\n接受这么突然的请求，聚集于此。	芙洛可	科洛蒂婭小姐，還有各位，\n謝謝你們願意接受這個突然的要求前來幫忙。
+TalkEvent_11_009ID	1	Klaudia	クラウディア	こちらこそ遅くなってしまって。むしろ間に合った\nようでホッとしました	Klaudia	If anything, we should apologize for being late. I'm just glad that we made it in time to help.	科洛蒂娅	动作这么慢真不好意思。\n能赶得上我总算松了一口气。	科洛蒂婭	我才是，不好意思來晚了，\n倒不如說還好有趕上，讓我鬆了口氣呢。
+TalkEvent_11_009ID	2	Roman	ロマン	武器も防具も良い品揃えだ。\nよくこれだけ集めてくれたね	Roman	What a splendid assortment of weapons and armor. I'm impressed that you managed to get such a nice selection.	罗曼	武器和防具都很齐全。\n你们居然能收集到这么多。	羅曼	武器和防具也都是些好貨，\n你們竟然能蒐集到這麼多。
+TalkEvent_11_009ID	3	Klaudia	クラウディア	いえ。国の存亡に関わる一大事ですから。\n私たち商人一同も誠心誠意、協力させていただきます	Klaudia	It's nothing in the face of such a dire situation. Merchants like us should do our part to help, after all.	科洛蒂娅	这没什么，毕竟是事关国家存亡的大事。\n我们商人也诚心诚意想要出一份力。	科洛蒂婭	沒什麼，畢竟是關乎國家存亡的大事，\n我們商人也會誠心誠意地幫忙。
+TalkEvent_11_009ID	4	Roman	ロマン	君たちには心から感謝する。\nこれ以上ヤツを暴れさせるわけにはいかないからね	Roman	I can't thank you enough for your assistance. We can't allow that menace to cause any more damage.	罗曼	衷心感谢你们。\n不能再让那家伙为所欲为了。	羅曼	我打從心底感謝你們。\n我們絕對不能讓那傢伙再繼續胡作非為。
+TalkEvent_11_009ID	5	Flocke	フロッケ	皆さん。フロッケからも、ありがとうございます！	Flocke	I'd like to offer my thanks to you all, too!	芙洛可	各位，芙洛可也非常感谢大家！	芙洛可	各位，芙洛可也要謝謝你們！
+TalkEvent_11_009ID	6	Klaudia	クラウディア	フロッケさんが各商会に声をかけて細かく\n連携してくれたので、足並みが揃ったんですよ	Klaudia	Well, you were the one who got in touch with each group individually and coordinated all the finer details.	科洛蒂娅	是芙洛可小姐向各个商会打了招呼，\n帮忙协调细节工作，才促成了大家合作。	科洛蒂婭	因為有芙洛可聯繫各商會並居中協調細節，\n我們才有辦法步調一致。
+TalkEvent_11_009ID	7	Klaudia	クラウディア	ここまで万全の準備ができたのは\nフロッケさんのおかげです	Klaudia	We wouldn't have managed this quite so flawlessly without you keeping us all on the same page.	科洛蒂娅	能做出这么万无一失的准备，\n应该是你的功劳。	科洛蒂婭	能夠做到如此萬全的準備，\n都是芙洛可小姐的功勞。
+TalkEvent_11_009ID	8	Valeria	ヴァレリア	フロッケ、すごいじゃない！	Valeria	You're amazing, Flocke!	瓦莱莉娅	芙洛可，干得漂亮！	瓦萊莉婭	芙洛可，妳可真有一套！
+TalkEvent_11_009ID	9	Heidi	ハイディ	ホント！　フロッケに頼んだ私も鼻が高い！	Heidi	That's for sure! I sure am smart. I knew asking you for help was a good idea!	海蒂	没错！把这个任务交给芙洛可的我脸上也有光啊！	海蒂	對啊！我這個拜託芙洛可的人也感到很驕傲！
+TalkEvent_11_009ID	10	Flocke	フロッケ	フロッケはこれくらいのことしかできませんが……\nお役に立ててよかったです	Flocke	I didn't do all that much, really... I'm just happy to have been of service.	芙洛可	芙洛可也只有这方面能尽些微薄之力了……\n能帮上忙我很开心。	芙洛可	雖然芙洛可只能做到這點事……\n但有幫上忙真是太好了。
+TalkEvent_11_009ID	11	Roman	ロマン	いや！　大した腕だとも！\n君に頼んで正解だった	Roman	Don't be so modest! That was quite the accomplishment. Leaving things in your hands was the right choice.	罗曼	这可是很了不得的本领！\n找你帮忙算是找对了。	羅曼	不！妳的手腕實在驚人！\n拜託妳果然是對的。
+TalkEvent_11_009ID	12	Roman	ロマン	本当に助かったよ。またじきに戦いが始まる。\n君たちは安全な場所まで避難してくれ	Roman	Really, this is a huge help. But the fighting will start again soon, so you should head to a safer location.	罗曼	真是帮大忙了。大战在即，\n你赶快去安全的地方避难吧。	羅曼	真的是幫了大忙。\n戰鬥馬上又要開始了，你們去安全的地方避難吧。
+TalkEvent_11_009ID	13	Klaudia	クラウディア	いえ、私たちも残ってお手伝いします。\n一緒に戦う覚悟はできていますから	Klaudia	No, we'll stay and help as well. We're prepared to go to battle.	科洛蒂娅	不，我们也留下帮忙。\n大家已经做好了一起战斗的心理准备。	科洛蒂婭	不，我們也要留下來幫忙，\n我們已經做好並肩作戰的覺悟了。
+TalkEvent_11_009ID	14	Roman	ロマン	そうか……ありがとう	Roman	I see... Thank you.	罗曼	是吗……谢谢你。	羅曼	這樣啊……謝謝你們。
+TalkEvent_11_009ID	15	Klaudia	クラウディア	それにしても……まさかあなたが王子だったなんて。\n冒険者は仮の姿だったということですか？	Klaudia	Still, I must say, I never would have expected to hear that you were a prince. Was the charismatic adventurer a temporary role, then?	科洛蒂娅	话说回来……没想到你居然是王子。\n冒险者只是你隐瞒身份的幌子吗？	科洛蒂婭	話說回來……沒想到你竟然是王子。\n冒險者只是你偽裝的身分嗎？
+TalkEvent_11_009ID	16	Roman	ロマン	いや、どちらも本当の私だよ。\nただ、ここでは王子として扱ってくれると助かるかな	Roman	No, just another side of the same coin. Things will go easier here if everyone goes along with the princely persona, though.	罗曼	不，不论哪个都是真正的我。\n不过在当前情势下，还是希望你们能把我当王子对待。	羅曼	不，兩者都是真正的我，\n不過，希望在這裡妳能把我視為王子。
+TalkEvent_11_009ID	17	Klaudia	クラウディア	……分かりました、リヒャルト殿下	Klaudia	As you wish, Your Highness.	科洛蒂娅	……我知道了，理查德殿下。	科洛蒂婭	……我知道了，理查德殿下。
+TalkEvent_11_009ID	18	Roman	ロマン	ともあれ、協力を感謝する。共に戦おう	Roman	Your cooperation is much appreciated. Let's keep up the fight.	罗曼	总之，非常感谢你的帮助。让我们携手迎战吧。	羅曼	無論如何，謝謝妳的協助，讓我們並肩作戰吧。
+TalkEvent_11_009ID	19	Juna	ユナ	殿下。例のもの、準備が整いました	Juna	Your Highness. The alchemists have completed their preparations.	尤娜	殿下，那个东西已经准备好了。	尤娜	殿下，那個東西已經準備好了。
+TalkEvent_11_009ID	20	Roman	ロマン	早いな。さすが凄腕の錬金術士たちだ。\nすぐに見に行く	Roman	That was fast. Not that I'd expect anything less from them. Let's go have a look.	罗曼	很迅速嘛，不愧是那群本领高强的炼金术士。\n我这就过去。	羅曼	真快，不愧是技術高超的鍊金術士們，\n我馬上去看。
+TalkEvent_11_009ID	21	Valeria	ヴァレリア	例のものって？	Valeria	What'd they make?	瓦莱莉娅	那个东西是什么？	瓦萊莉婭	那個東西是指？
+TalkEvent_11_009ID	22	Roman	ロマン	そうだな。君たちにも見せておいたほうがいいだろう。\nついてきてくれ	Roman	Right, you wouldn't have heard. It'd be faster to see it for yourselves, so you might as well join us.	罗曼	对了，也应该给你们看看。\n跟我来。	羅曼	這個嘛，讓妳們也看一眼比較好吧。\n跟我來。
+TalkEvent_11_009ID	23		ふたり	…………？	Both	...?	二人	……？	兩人	…………？
+TalkEvent_11_010ID	0	Heidi	ハイディ	なんじゃこりゃ……！	Heidi	What are these?!	海蒂	这是什么……！	海蒂	這是什麼東西啊……！
+TalkEvent_11_010ID	1	Valeria	ヴァレリア	例のものって、これ……？	Valeria	This is what you were talking about?	瓦莱莉娅	那个东西指的就是这个……？	瓦萊莉婭	你說的那個東西，是指這個……？
+TalkEvent_11_010ID	2	Roman	ロマン	ああ。頂獣討伐のための秘密兵器だ	Roman	Yep. They're our newest anti-Apexi weapon.	罗曼	嗯。这是讨伐顶兽的秘密武器。	羅曼	對，這是用來討伐頂獸的秘密武器。
+TalkEvent_11_010ID	3	Valeria	ヴァレリア	確かに、これが刺さったら\nめちゃくちゃ痛そうだけど	Valeria	Sure, getting stabbed by one of these would hurt a lot, but...	瓦莱莉娅	要是被这个刺中，应该会很疼吧。	瓦萊莉婭	確實，被這個刺中的話，應該會超級痛吧。
+TalkEvent_11_010ID	4	Resna	レスナ	ただ刺さるだけじゃないんだ	Resna	That's not all they're meant to do!	蕾斯娜	这个不只是用来刺痛敌人的。	蕾斯娜	這不只是用來刺的喔。
+TalkEvent_11_010ID	5	Valeria	ヴァレリア	あっ、レスナ。\n刺さるだけじゃないって、どういうこと？	Valeria	Oh, Resna. What are they for, then?	瓦莱莉娅	啊，是蕾斯娜啊。\n你说不只是用来刺痛敌人的，那还有什么作用？	瓦萊莉婭	啊，是蕾斯娜。\n妳說不只是用來刺，是什麼意思？
+TalkEvent_11_010ID	6	Resna	レスナ	ほら、ヴァレリアがみんなに教えてくれたでしょ？\nウェルテックスはマナを使って攻撃してるって	Resna	You remember what you told us about Weltex and mana, right?	蕾斯娜	瓦莱莉娅不是告诉大家了吗？\n威尔特克斯会使用玛那发动攻击。	蕾斯娜	瓦萊莉婭妳不是跟大家說過嗎？\n威爾特庫斯會使用瑪那來攻擊。
+TalkEvent_11_010ID	7	Resna	レスナ	だったら、マナの力を阻害することができれば、\n戦いを有利に進められるんじゃないかと思ったの	Resna	If we can keep it from using mana to power its attacks, it would give us a really big advantage.	蕾斯娜	所以我想，如果能阻碍玛那的力量，\n战局可能就会向我们倾斜。	蕾斯娜	既然如此，如果能妨礙瑪那的力量，\n我們應該就能在戰鬥中占上風。
+TalkEvent_11_010ID	8	Heidi	ハイディ	そんなことできんの！？	Heidi	You can do that?!	海蒂	还能这样吗？！	海蒂	有辦法做到這種事嗎！？
+TalkEvent_11_010ID	9	Resna	レスナ	実際に効くかは、試してみないと分かりません。\nでも、理論上は可能なはずです	Resna	In theory, but we won't know without actually trying.	蕾斯娜	有没有作用得试一试才知道。\n但理论上是可行的。	蕾斯娜	實際上能不能奏效，要試過才知道。\n但理論上，應該是可行的。
+TalkEvent_11_010ID	10	Roman	ロマン	このくさびをウェルテックスの身体に\n撃ち込めばいいんだね	Roman	So the idea is that we shoot these into Weltex's body, right?	罗曼	只要把这根楔子打进威尔特克斯体内就可以了吧？	羅曼	只要把這個楔子打進威爾特庫斯的體內就行了吧？
+TalkEvent_11_010ID	11	Roman	ロマン	数は全部で３つか	Roman	And we've got a total of three.	罗曼	一共有3根吗？	羅曼	總共是三個嗎？
+TalkEvent_11_010ID	12	Resna	レスナ	はい……これが限界でした	Resna	Yeah. Sorry, that was all we could manage.	蕾斯娜	是的……实在来不及做更多了。	蕾斯娜	是的……這已經是極限了。
+TalkEvent_11_010ID	13	Roman	ロマン	いや、十分だ。短い時間でよく準備してくれた	Roman	No, that's plenty. It's remarkable that you pulled this all together in such a short amount of time.	罗曼	已经足够了。在这么短的时间内居然准备了这么多。	羅曼	不，能在短時間能準備出這些，已經很足夠了。
+TalkEvent_11_010ID	14	Roman	ロマン	狙い目は、ウェルテックスが例の攻撃を繰り出す時だ。\n戦闘中、その兆候が見えたら知らせてほしい	Roman	Since the best opportunity we'll have to use these is just before it attacks, you'll have to give us the signal.	罗曼	目标就是威尔特克斯发动那一招的时候。\n战斗时大家如果发现了预兆，就告诉我。	羅曼	我們要瞄準威爾特庫斯使出那種攻擊的時機。\n戰鬥時如果看見那種徵兆，希望妳能讓我知道。
+TalkEvent_11_010ID	15	Resna	レスナ	はい、分かりました！	Resna	Of course!	蕾斯娜	好的，我知道了！	蕾斯娜	好的，我明白了！
+TalkEvent_11_010ID	16	Valeria	ヴァレリア	秘密兵器かあ……！\nなんかワクワクしてきたわ！	Valeria	There's something exciting about having a secret weapon!	瓦莱莉娅	秘密武器……！\n真是激动人心啊！	瓦萊莉婭	秘密武器啊……！\n總覺得開始興奮起來了呢！
+TalkEvent_11_010ID	17	Resna	レスナ	そういえば、身体の調子はどう？\nフロッケちゃんが薬を持っていってくれたと思うけど	Resna	How are you two feeling? I know that Flocke brought you the medicine, but...	蕾斯娜	对了，你们现在身体怎么样？\n芙洛可应该把药带给你们了吧。	蕾斯娜	對了，妳的身體狀況怎麼樣？\n芙洛可應該有送藥去給妳們了吧。
+TalkEvent_11_010ID	18	Valeria	ヴァレリア	おかげさまで、かなり良くなったわ。\nホントありがとね、レスナ	Valeria	We're doing a whole bunch better thanks to that. We owe you one, Resna.	瓦莱莉娅	托你的福，好了很多。\n真的很感谢你，蕾斯娜。	瓦萊莉婭	多虧了藥，我已經好多了。\n真的很謝謝妳，蕾斯娜。
+TalkEvent_11_010ID	19	Resna	レスナ	よかったあ……	Resna	Thank goodness...	蕾斯娜	那就好……	蕾斯娜	太好了……
+TalkEvent_11_010ID	20	Valeria	ヴァレリア	この調子なら、誘導作戦でもバッチリ動けそう。\nレスナは、砦で迎撃する部隊よね	Valeria	Yep, we'll be able to join the group herding Weltex no problem. Resna, you're going to be holding down the fort, right?	瓦莱莉娅	看这个准备状况，诱导作战应该能完美进行。\n蕾斯娜是要塞迎击部队的吗？	瓦萊莉婭	以這個恢復速度，誘導作戰時我應該就能行動自如了。\n蕾斯娜妳是屬於在要塞迎擊的部隊吧？
+TalkEvent_11_010ID	21	Resna	レスナ	そうだよ	Resna	Yeah.	蕾斯娜	是的。	蕾斯娜	對。
+TalkEvent_11_010ID	22	Valeria	ヴァレリア	ウェルテックスのヤツを、ちゃんとここまで\n連れてくるから。お互い頑張りましょ	Valeria	Don't worry, we'll definitely lead that monster your way. Let's do our best!	瓦莱莉娅	我一定会把威尔特克斯带到这里的。\n我们都要加油啊。	瓦萊莉婭	我會好好把威爾特庫斯那傢伙帶過來的，\n我們一起加油吧。
+TalkEvent_11_010ID	23	Resna	レスナ	うん。みんなを信じて待ってるよ	Resna	Yep, we'll be counting on you.	蕾斯娜	嗯，我就在这里等着，相信你们会成功的。	蕾斯娜	嗯，我會相信大家，好好等著的。
+TalkEvent_11_011ID	0		熱血漢な騎士	む……あれは！？	Enthusiastic Knight	Huh? Isn't that...?!	热血的骑士	唔……那是？！	熱血的騎士	唔……那是！？
+TalkEvent_11_011ID	1		生真面目な騎士	で、出たぞー！　報告だ！　急げ！	Earnest Knight	I-It's here! Quick, sound the alarm!	一本正经的骑士	出、出现了！快去报告！快！	一板一眼的騎士	出、出現了──！去回報！動作快！
+TalkEvent_11_011ID	2	Geron	ジェロン	――来たか	Geron	So, it's back.	杰隆	来了吗。	傑隆	──來了嗎？
+TalkEvent_11_011ID	3	Roman	ロマン	なに！？　出現位置が想定より遠い！？	Roman	What?! It showed up farther away than we predicted?	罗曼	什么？！出现的位置比预想的要远？！	羅曼	什麼！？出現位置比預計的還遠！？
+TalkEvent_11_011ID	4		生真面目な騎士	はい……迎撃のための布陣の外に出現してしまい、\n急ぎ陣形を整え直している最中です	Earnest Knight	Unfortunately, yes. We're currently scrambling to fix our formations, but it's outside of our original calculations.	一本正经的骑士	是的……它出现在迎击阵型之外，\n我们现在正在紧急调整阵型。	一板一眼的騎士	是的……牠出現在迎擊的布陣外，\n我們正在緊急重新調整陣形。
+TalkEvent_11_011ID	5		熱血漢な騎士	加えて、海中からまた石像群が出現！\n先の戦闘よりさらに数を増やしています！	Enthusiastic Knight	Moreover, those stone statues are coming back out of the sea—and in greater numbers than before!	热血的骑士	另外，海里又出现了石像群！\n数量比起上次战斗又有了增加！	熱血的騎士	此外，海中又出現了石像群！\n數量比先前戰鬥時又多了不少！
+TalkEvent_11_011ID	6	Roman	ロマン	くっ……増援を向かわせる！\nなんとしても誘導を成功させるぞ！	Roman	Gah... Send reinforcements! We must lure it to the fortress!	罗曼	唔……派出增援部队！\n不论如何都要让诱导成功！	羅曼	唔……派增援過去！\n無論如何一定要誘導成功！
+TalkEvent_11_011ID	7	Juna	ユナ	急げ！　ウェルテックスは間もなく上陸する！\nこれ以上の進攻は食い止めねばならん！	Juna	Hurry up! We don't have much time before Weltex makes it to shore! We must halt any further advancement!	尤娜	快！威尔特克斯即将上岸！\n必须阻止它继续行进！	尤娜	動作快！威爾特庫斯馬上就要登陸了！\n我們必須擋下牠們進一步的進攻！
+TalkEvent_11_011ID	8	Valeria	ヴァレリア	…………！	Valeria	...!	瓦莱莉娅	……！	瓦萊莉婭	…………！
+TalkEvent_11_011ID	9	Juna	ユナ	これが……姿を変えたウェルテックス……	Juna	So...that's the new and improved Weltex.	尤娜	这就是……改变形态的威尔特克斯……	尤娜	這就是……改變了形態的威爾特庫斯……
+TalkEvent_11_011ID	10		強面な騎士	島での戦いで姿を変えたままなのか！	Tough Knight	It looks the same as when we fought it on the island!	态度强硬的骑士	在岛上的战斗结束后，它还一直保持着这个形态吗！	強勢的騎士	牠還維持著當時在島上戰鬥的樣子嗎！
+TalkEvent_11_011ID	11	Juna	ユナ	真の姿か……！	Juna	That must be its true form!	尤娜	这是它真正的姿态吗……！	尤娜	這是牠真正的模樣嗎……！
+TalkEvent_11_011ID	12	Heidi	ハイディ	またあの石像が！　ってか、なんて数よ！？	Heidi	It's those stone statues again! But there's even more now?!	海蒂	那些石像又来了！天啊，怎么有那么多？！	海蒂	又是那種石像！話說，數量也太驚人了吧！？
+TalkEvent_11_011ID	13	Izana	イザナ	これじゃウェルテックスに近づけないよ！\nまずは石像たちをなんとかしないと！	Izana	They're keeping us from getting any closer! We'll have to take them out first!	伊札娜	这下就没法接近威尔特克斯了！\n首先得解决这些石像！	伊札娜	這樣無法接近威爾特庫斯！\n得先想辦法解決石像們才行！
+TalkEvent_11_011ID	14	Flocke	フロッケ	でも、放っておいたら\nウェルテックスがどんどん先に……！	Flocke	But if we spend all our time doing that, Weltex is just going to get farther away!	芙洛可	但如果放任不管，\n威尔特克斯会越来越深入内陆……！	芙洛可	但是，放著不管的話，\n威爾特庫斯會不斷前進……！
+TalkEvent_11_011ID	15	Juna	ユナ	く……騎士団は大砲の準備を！	Juna	Tch... Knights! Ready the cannons!	尤娜	唔……骑士团去准备开炮！	尤娜	唔……騎士團準備大砲！
+TalkEvent_11_011ID	16	Juna	ユナ	狙いはウェルテックス本体だ！\n少しでも気を引いて足止めしろ！	Juna	Aim for the body! We need to keep its attention on us!	尤娜	瞄准威尔特克斯的主体！\n尽可能拖住它！	尤娜	目標是威爾特庫斯的本體！\n盡量引起牠的注意，拖住牠！
+TalkEvent_11_011ID	17		豪快な騎士	了解！	Heroic Knight	Yes, ma'am!	豪气的骑士	收到！	豪邁的戰士	收到！
+TalkEvent_11_011ID	18	Juna	ユナ	我々は石像を叩く。時間はない、急ぐぞ！	Juna	The rest of us will handle the statues. Move out!	尤娜	我们去解决石像！时间紧迫，动作快！	尤娜	我們去攻擊石像。沒時間了，動作快！
+TalkEvent_11_012ID	0	Valeria	ヴァレリア	――はぁっ！	Valeria	Haaah!	瓦莱莉娅	——喝！	瓦萊莉婭	──喝啊！
+TalkEvent_11_012ID	1	Izana	イザナ	よし、ここは片付いたね！	Izana	There! That's one bunch down!	伊札娜	好，这边的都解决了！	伊札娜	很好，這邊收拾掉了！
+TalkEvent_11_012ID	2	Logy	ロジー	ユナさん！　増援に来ました！	Logy	Juna! Reinforcements have arrived!	罗吉	尤娜小姐！我们来支援你们了！	羅吉	尤娜小姐！我們來幫忙了！
+TalkEvent_11_012ID	3	Linca	リンカ	我々も誘導作戦に加わります	Linca	We'll be joining the diversion squad.	琳卡	我们也来加入诱导作战了。	琳卡	我們也來加入誘導作戰。
+TalkEvent_11_012ID	4	Juna	ユナ	よし、残りの石像を頼む！	Juna	Good. I'll leave the rest of the statues to you.	尤娜	好，剩下的石像就交给你们了！	尤娜	好，剩下的石像拜託你們了！
+TalkEvent_11_012ID	5	Juna	ユナ	ヴァレリアたちは\nウェルテックスのほうへ向かってくれ！	Juna	Valeria, Izana! We're going to go cut Weltex off!	尤娜	瓦莱莉娅，\n你们赶去威尔特克斯那边！	尤娜	瓦萊莉婭妳們去威爾特庫斯那邊！
+TalkEvent_11_012ID	6		ふたり	了解！	Both	Okay!	二人	收到！	兩人	收到！
+TalkEvent_11_012ID	7	Heidi	ハイディ	これならなんとか間に合うか……？	Heidi	We'll be able to make it, right?	海蒂	这样应该勉强能赶上吧……？	海蒂	這樣能勉強趕上嗎……？
+TalkEvent_11_012ID	8	Flocke	フロッケ	これ以上、頂獣の好きにさせるわけにはいきません！\n急ぎましょう！	Flocke	We can't let that Apexi just do whatever it wants! Come on, let's hurry!	芙洛可	不能再让顶兽肆意妄为了！\n快！	芙洛可	不能再讓頂獸繼續為所欲為了！\n我們快點行動吧！
+TalkEvent_11_012ID	9	Firis	フィリス	皆さん！　お待たせしました！	Firis	Sorry for the wait, guys!	菲利丝	大家久等了！	菲莉絲	各位！讓你們久等了！
+TalkEvent_11_012ID	10	Valeria	ヴァレリア	フィリス！　リディーとスーも！	Valeria	Firis! Lydie and Sue, too!	瓦莱莉娅	菲利丝！莉迪、苏！	瓦萊莉婭	菲莉絲！還有莉迪跟蘇！
+TalkEvent_11_012ID	11	Lydie	リディー	私たちも加勢します！	Lydie	We're here to help!	莉迪	我们也来加入战斗！	莉迪	我們也來幫忙了！
+TalkEvent_11_012ID	12	Suelle	スール	この間の恨み、晴らさせてもらうからね！	Suelle	Plus, we still need payback for last time!	苏瑞	我一定要一雪前耻！	蘇瑞	前陣子的仇，我會好好回敬牠的！
+TalkEvent_11_012ID	13	Valeria	ヴァレリア	よし――	Valeria	Ready, everyone?	瓦莱莉娅	好——	瓦萊莉婭	好──
+TalkEvent_11_012ID	14		みんな	行くわよ！	Everyone	Here we go!	所有人	要上了哦！	大家	要上了喔！
+TalkEvent_11_012ID	15	Heidi	ハイディ	行くよ！	Heidi	Here goes!	海蒂	我上了！	海蒂	要上囉！
+TalkEvent_11_012ID	16	Flocke	フロッケ	行きます！	Flocke	Ready!	芙洛可	我要上了！	芙洛可	我要上了！
+TalkEvent_11_012ID	17	Lydie	リディー	行きます！	Lydie	Let's go!	莉迪	我要上了！	莉迪	我要上了！
+TalkEvent_11_012ID	18	Suelle	スール	行くよ！	Suelle	Let's do this!	苏瑞	我上了！	蘇瑞	要上囉！
+TalkEvent_11_012ID	19	Firis	フィリス	行くよ！	Firis	Here goes nothing!	菲利丝	我上了！	菲莉絲	要上囉！
+TalkEvent_11_013ID	0	Heidi	ハイディ	くっ！　ぜんぜん止められない！	Heidi	Ngh! It's not showing any sign of stopping!	海蒂	呜！阻拦根本毫无效果！	海蒂	唔！完全阻止不了牠！
+TalkEvent_11_013ID	1	Lydie	リディー	このままじゃ街のほうに行っちゃいます！	Lydie	It's going to get closer to town if we don't do something!	莉迪	再这么下去它就要接近城镇了！	莉迪	再這樣下去，牠就要往城鎮那邊去了！
+TalkEvent_11_013ID	2		強面な騎士	こ、この雄叫びは！	Tough Knight	Th-That roar...!	态度强硬的骑士	这、这声嚎叫！	強勢的騎士	這、這個嚎叫聲是！
+TalkEvent_11_013ID	3	Firis	フィリス	何をする気！？	Firis	What's it planning?!	菲利丝	它想做什么？！	菲莉絲	牠想做什麼！？
+TalkEvent_11_013ID	4	Suelle	スール	なっ……！　あいつらも動くの！？	Suelle	Huh?! Now those statues are moving, too?!	苏瑞	什么……！它们也动了！？	蘇瑞	什……！牠們也行動了！？
+TalkEvent_11_013ID	5	Flocke	フロッケ	どんどん近づいてきます！	Flocke	They're getting closer!	芙洛可	越来越近了！	芙洛可	越來越接近了……！
+TalkEvent_11_013ID	6	Heidi	ハイディ	まずいよ！\nこのままじゃ誘導が間に合わなくなる！	Heidi	This is bad, guys! The Apexi's still going the wrong way!	海蒂	糟了！\n这样下去就来不及诱导了！	海蒂	糟糕了！\n這樣下去會來不及誘導的！
+TalkEvent_11_013ID	7	Saskia	ザスキア	――その心配はいらないわ	Saskia	It's nothing to be concerned about.	萨丝琪亚	不用担心——	薩絲琪亞	──不必擔心。
+TalkEvent_11_013ID	8	Izana	イザナ	ザスキアさん！？	Izana	Miss Saskia?!	伊札娜	萨丝琪亚小姐？！	伊札娜	薩絲琪亞小姐！？
+TalkEvent_11_013ID	9	Firis	フィリス	な、なんでそんなとこに！？　危ないですよ！	Firis	A-Are you sure you should be out here? It's dangerous!	菲利丝	你、你怎么在那里？！太危险了！	菲莉絲	妳、妳為什麼會在那種地方！？很危險的！
+TalkEvent_11_013ID	10	Saskia	ザスキア	心配いらないと言ったでしょう？\n今、この石像たちは私の制御下にある	Saskia	Didn't I tell you not to worry? Besides, these stone statues are currently under my control.	萨丝琪亚	不是说了不用担心吗？\n现在这些石像都在我的控制之下。	薩絲琪亞	我不是說過不必擔心了嗎？\n現在這群石像是我在控制的。
+TalkEvent_11_013ID	11	Valeria	ヴァレリア	制御……？\nまさかザスキアがこの石像たちを動かしてるの！？	Valeria	They...are? You're the one making them move, Saskia?!	瓦莱莉娅	控制……？\n难道是萨丝琪亚让这些石像动起来的？！	瓦萊莉婭	控制……？\n難道說是妳讓石像們動起來的！？
+TalkEvent_11_013ID	12	Izana	イザナ	これが「とっておきの作戦」だったんだ！	Izana	Oh! So that's the special strategy you were talking about!	伊札娜	原来这就是“王牌作战”！	伊札娜	原來這就是「秘藏的作戰計畫」啊！
+TalkEvent_11_013ID	13	Saskia	ザスキア	相手が頂獣だろうと、知恵と工夫と錬金術で\n切り抜けられるのよ	Saskia	Wit, wisdom, and alchemy will always see things through. Even if the opponent in question is an Apexi.	萨丝琪亚	就算对手是顶兽，我们也可以开动脑筋\n思考对策，加上运用炼金术，全力战胜它。	薩絲琪亞	就算對手是頂獸，\n也能以智慧、巧思與鍊金術來克服。
+TalkEvent_11_013ID	14	Saskia	ザスキア	これ以上、あの頂獣の好きにはさせない	Saskia	We shall not permit it any further freedoms.	萨丝琪亚	不能再让那只顶兽为所欲为了。	薩絲琪亞	我不會讓那隻頂獸繼續為所欲為。
+TalkEvent_11_013ID	15	Heidi	ハイディ	よし！　私たちは本体を叩こう！	Heidi	Okay! Let's show this thing who's boss!	海蒂	好嘞！我们去攻击主体吧！	海蒂	好！我們去攻擊本體吧！
+TalkEvent_11_013ID	16	Valeria	ヴァレリア	ええ！	Valeria	Yeah!	瓦莱莉娅	好！	瓦萊莉婭	好！
+TalkEvent_11_014ID	0	Valeria	ヴァレリア	くっ……！	Valeria	Urk!	瓦莱莉娅	唔……！	瓦萊莉婭	唔……！
+TalkEvent_11_014ID	1	Heidi	ハイディ	やっぱ硬いね！	Heidi	Man, that's one tough monster!	海蒂	果然很坚硬啊！	海蒂	果然很堅硬！
+TalkEvent_11_014ID	2	Flocke	フロッケ	それでも……見てください！	Flocke	But, look!	芙洛可	就算如此，我们也得……快看啊！	芙洛可	不過……各位看！
+TalkEvent_11_014ID	3	Flocke	フロッケ	上手く引き付けられてますよ！	Flocke	It's been following us this whole time!	芙洛可	成功拖住它了！	芙洛可	誘導進行得很順利！
+TalkEvent_11_014ID	4	Izana	イザナ	あの石像たちのおかげだね！	Izana	Thanks to those stone statues, yeah!	伊札娜	多亏了那些石像！	伊札娜	多虧了那些石像呢！
+TalkEvent_11_014ID	5	Juna	ユナ	砦まであと少しだ！　気を抜くなよ！	Juna	It's only a little farther to the fortress! Stay sharp, everyone!	尤娜	马上就到要塞了！不要松懈！	尤娜	再撐一下就到要塞了！別大意了！
+TalkEvent_11_014ID	6	Roman	ロマン	なんとかここまで来たか……！　総員、迎撃準備だ！	Roman	They did it! Troops, prepare to intercept!	罗曼	总算来到这里了……！全体人员，准备迎击！	羅曼	總算來到這裡了……！所有人，準備迎擊！
+TalkEvent_11_014ID	7		熱血漢な騎士	了解しました！	Enthusiastic Knight	Yes, sir!	热血的骑士	收到！	熱血的騎士	收到！
+TalkEvent_11_014ID	8	Resna	レスナ	あっ！　あの石像たちも一緒に来てる！？	Resna	Oh! Those stone statues followed them?!	蕾斯娜	啊！那些石像也一起过来了？！	蕾斯娜	啊！那群石像也一起來了！？
+TalkEvent_11_014ID	9	Roman	ロマン	いや、だが様子が変だ	Roman	Hm, something about them's not quite right.	罗曼	不对，跟之前有点不一样。	羅曼	不，它們看起來不太對勁。
+TalkEvent_11_014ID	10	Roman	ロマン	まるでウェルテックスを追い立てているような……	Roman	If anything, they look like they're herding Weltex.	罗曼	现在它们仿佛在驱赶威尔特克斯……	羅曼	它們就像在追趕威爾特庫斯一樣……
+TalkEvent_11_014ID	11	Resna	レスナ	師匠……？　そっか、あの石像たちは師匠が！	Resna	Is that...Miss Saskia? Oh! Those statues must be hers!	蕾斯娜	师父……？我明白了，是师父在控制那些石像！	蕾斯娜	師父……？原來如此，那些石像是師父在操控！
+TalkEvent_11_014ID	12	Roman	ロマン	今だ！　防壁展開！	Roman	Raise the barrier! Now!	罗曼	就是现在！展开防御墙！	羅曼	就是現在！展開防壁！
+TalkEvent_11_014ID	13	Resna	レスナ	やった！　閉じ込めた！	Resna	We did it! It's trapped!	蕾斯娜	成功了！把它关起来了！	蕾斯娜	成功了！把牠關進去了！
+TalkEvent_11_014ID	14	Roman	ロマン	誘導部隊はいったん退避！	Roman	Diversion squad, take cover!	罗曼	诱导部队先疏散开！	羅曼	誘導部隊暫時撤退！
+TalkEvent_11_014ID	15	Resna	レスナ	ヴァレリア！	Resna	Valeria!	蕾斯娜	瓦莱莉娅！	蕾斯娜	瓦萊莉婭！
+TalkEvent_11_014ID	16		生真面目な騎士	迎撃準備、完了！　いつでもいけます！	Earnest Knight	Preparations are complete! We're ready whenever you are!	一本正经的骑士	迎击准备已完成！随时可以开始！	一板一眼的騎士	迎擊準備，完成！隨時都能行動！
+TalkEvent_11_014ID	17	Roman	ロマン	よし、攻撃開始！	Roman	All right! Everyone, fire at will!	罗曼	好了，开始攻击！	羅曼	好，開始攻擊！
+TalkEvent_11_014ID	18		熱血漢な騎士	よし、効いてるぞ！	Enthusiastic Knight	Yes! It's working!	热血的骑士	很好，有效果！	熱血的騎士	很好，很有效！
+TalkEvent_11_014ID	19	Valeria	ヴァレリア	――！　これは！	Valeria	There it is!	瓦莱莉娅	这是——！	瓦萊莉婭	──！這是！
+TalkEvent_11_014ID	20	Resna	レスナ	この力の流れ――ロマンさん！　来ます！	Resna	That mana flow... Roman! This is it!	蕾斯娜	这股力场——罗曼先生！要来了！	蕾斯娜	這股力量的流動──羅曼先生！要來了！
+TalkEvent_11_014ID	21	Roman	ロマン	まさか例の攻撃か……！	Roman	So that's the attack everyone was talking about...	罗曼	是之前那种攻击吗……！	羅曼	難道說是那個攻擊……！
+TalkEvent_11_014ID	22	Roman	ロマン	総員警戒！　砦の内部へ避難しろ！	Roman	Look alive, troops! Head deeper into the fortress if you can!	罗曼	所有人警戒！快去要塞里避难！	羅曼	所有人提高警戒！到要塞內部避難！
+TalkEvent_11_014ID	23		生真面目な騎士	りょ、了解！	Earnest Knight	Y-Yes, sir!	一本正经的骑士	遵、遵命！	一板一眼的騎士	收、收到！
+TalkEvent_11_014ID	24	Resna	レスナ	でも、あの攻撃が来るってことは……	Resna	But this means...	蕾斯娜	不过，它要发动那一招的话，也就意味着……	蕾斯娜	但是，那個攻擊要來了就表示……
+TalkEvent_11_014ID	25	Roman	ロマン	ああ。秘密兵器の出番だ	Roman	Yes. It's time to roll out our secret weapon.	罗曼	嗯，轮到秘密武器上场了。	羅曼	對，秘密武器該出場了。
+TalkEvent_11_014ID	26	Resna	レスナ	ううぅっ……！	Resna	Nnngh...!	蕾斯娜	唔唔……！	蕾斯娜	唔唔唔……！
+TalkEvent_11_014ID	27	Roman	ロマン	くうぅっ……！	Roman	Khhh...!	罗曼	唔唔……！	羅曼	唔唔唔……！
+TalkEvent_11_014ID	28	Valeria	ヴァレリア	みんな、大丈夫！？	Valeria	Hey! Are you guys all right?!	瓦莱莉娅	大家没事吧？！	瓦萊莉婭	大家還好嗎！？
+TalkEvent_11_014ID	29	Lydie	リディー	な、なんとか！	Lydie	Y-Yeah, we're hanging in there!	莉迪	还、还算好！	莉迪	還、還過得去！
+TalkEvent_11_014ID	30	Suelle	スール	二度も同じ手は食わないもんね！	Suelle	We're not going to get sucked up a second time!	苏瑞	我可不会被同一招打败两次！	蘇瑞	我們才不會吃兩次同樣的虧呢！
+TalkEvent_11_014ID	31	Firis	フィリス	それに、そろそろあれが来るはず！	Firis	Besides, we don't have to hold out for too much longer!	菲利丝	而且，那个应该快要发动了！	菲莉絲	而且，那個應該也差不多要來了！
+TalkEvent_11_014ID	32	Roman	ロマン	撃て――！	Roman	Fire!	罗曼	发射——！	羅曼	發射──！
+TalkEvent_11_014ID	33		熱血漢な騎士	攻撃を阻止した！	Enthusiastic Knight	We stopped the attack!	热血的骑士	阻止它的攻击了！	熱血的騎士	阻止牠的攻擊了！
+TalkEvent_11_014ID	34	Resna	レスナ	やった！　効いてる！	Resna	Hurray! It worked!	蕾斯娜	太好了！有效果！	蕾斯娜	太好了！奏效了！
+TalkEvent_11_014ID	35	Roman	ロマン	よし、もう１本行くぞ！　撃て！	Roman	All right, hit it with one more!	罗曼	很好，再来一发！发射！	羅曼	很好，再來一擊！發射！
+TalkEvent_11_014ID	36	Roman	ロマン	これなら行けるぞ！　――ん！？	Roman	Great, we've got this! ...Huh?!	罗曼	看来应该有希望——什么？！	羅曼	這樣應該行得通！──嗯！？
+TalkEvent_11_014ID	37	Resna	レスナ	と、飛んでる！？	Resna	I-It flew up higher?!	蕾斯娜	飞、飞起来了？！	蕾斯娜	飛、飛起來了！？
+TalkEvent_11_014ID	38	Roman	ロマン	まずい、このままでは砦の外に！	Roman	Dammit! It's almost out of the fortress!	罗曼	不妙，这样它会飞出要塞的！	羅曼	不妙，這樣下去牠要離開要塞了！
+TalkEvent_11_014ID	39	Roman	ロマン	もう１本のくさびを撃ち込め！	Roman	Fire the other stake!	罗曼	再往它身上打一根楔子！	羅曼	再打一個楔子進去！
+TalkEvent_11_014ID	40	Roman	ロマン	くっ！　間に合わないか！	Roman	No! We're not going to make it!	罗曼	可恶！来不及了！	羅曼	唔！來不及嗎！
+TalkEvent_11_014ID	41	Roman	ロマン	止まった……？	Roman	It...stopped?	罗曼	停下了……？	羅曼	停下來了……？
+TalkEvent_11_014ID	42	Roman	ロマン	何をする気だ！？	Roman	What's it doing now?!	罗曼	它想做什么？！	羅曼	牠想做什麼！？
+TalkEvent_11_014ID	43	Resna	レスナ	（――！　とてつもない力の奔流……！）	Resna	(It's readying a terrifying torrent of power...!)	蕾斯娜	（啊——！无比汹涌的力场洪流……！）	蕾斯娜	（──！好驚人的力量奔流……！）
+TalkEvent_11_014ID	44	Resna	レスナ	（あれを放たれたら私たちは――）	Resna	(If it unleashes that, then we'll all...)	蕾斯娜	（如果它放出这招，我们会被——）	蕾斯娜	（要是牠釋放出那股力量，我們就──）
+TalkEvent_11_015_00ID	0	Resna	レスナ	（な、何かできることは……！）	Resna	(There's got to be something we can do!)	蕾斯娜	（快、快想想有什么能做的……！）	蕾斯娜	（有、有什麼是我能做的……！）
+TalkEvent_11_015_00ID	1	Resna	レスナ	（覆いになるもの、防壁になるもの）	Resna	(A shelter, or a wall, or...)	蕾斯娜	（能用什么从上方或四周遮蔽攻击……）	蕾斯娜	（能當作罩子的東西、能當作防壁的東西。）
+TalkEvent_11_015_00ID	2	Resna	レスナ	（ダメ、どれも間に合わない！）	Resna	(It's no good! There's no time!)	蕾斯娜	（不行，哪种都来不及了！）	蕾斯娜	（不行，全都趕不上！）
+TalkEvent_11_015_00ID	3	Geron	ジェロン	おおおおおおおっ！	Geron	Yaaah!	杰隆	哦哦哦哦哦哦哦！	傑隆	喔喔喔喔喔喔喔！
+TalkEvent_11_015_00ID	4	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_11_015_00ID	5	Geron	ジェロン	おおおおおおおっ！	Geron	Raaagh!	杰隆	哦哦哦哦哦哦哦！	傑隆	喔喔喔喔喔喔喔！
+TalkEvent_11_015_00ID	6	Resna	レスナ	ジェロン……さん？	Resna	Geron...?	蕾斯娜	杰隆……先生？	蕾斯娜	傑隆……先生？
+TalkEvent_11_015_00ID	7	Geron	ジェロン	　	Geron	　	杰隆	　	傑隆	　
+TalkEvent_11_015_00ID	8	Geron	ジェロン	お前の好きには――させん！	Geron	Not a chance!	杰隆	我不会让你——为所欲为！	傑隆	我不會讓你──為所欲為的！
+TalkEvent_11_015_00ID	9	Geron	ジェロン	はああああ！	Geron	Haaah!	杰隆	喝啊啊啊啊！	傑隆	喝啊啊啊啊！
+TalkEvent_11_015_00ID	10	Geron	ジェロン	　	Geron	　	杰隆	　	傑隆	　
+TalkEvent_11_015_00ID	11	Geron	ジェロン	うおおおっ！！	Geron	Raaagh!	杰隆	唔哦哦哦！！	傑隆	唔喔喔喔！！
+TalkEvent_11_015_00ID	12	Suelle	スール	　	Suelle	　	苏瑞	　	蘇瑞	　
+TalkEvent_11_015_00ID	13	Lydie	リディー	　	Lydie	　	莉迪	　	莉迪	　
+TalkEvent_11_015_00ID	14	Suelle	スール	お母さんとの約束その５！	Suelle	The fifth promise we made to our mom!	苏瑞	与母亲的约定第5条！	蘇瑞	和媽媽的約定第5條！
+TalkEvent_11_015_00ID	15	Suelle	スール	「悩むよりも前に行動すべし！」――	Suelle	"""Act first, worry later!"""	苏瑞	“与其犹豫不决，不如先行动起来！”	蘇瑞	「與其煩惱不如直接行動！」──
+TalkEvent_11_015_00ID	16	Suelle	スール	やぁぁぁぁっ！	Suelle	Yaaah!	苏瑞	呀啊——！	蘇瑞	喝啊啊啊啊！
+TalkEvent_11_015_00ID	17	Lydie	リディー	落ちてーっ！	Lydie	Get back down here!	莉迪	给我掉下来！	莉迪	掉下來吧──！
+TalkEvent_11_015_00ID	18	Saskia	ザスキア	あなたには地を這いずる姿がお似合いよ	Saskia	Hmph. It would be far more fitting for you to be rolling in the dirt.	萨丝琪亚	还是趴在地上的姿势更适合你！	薩絲琪亞	你就適合在地上爬的模樣。
+TalkEvent_11_015_00ID	19	Geron	ジェロン	……！	Geron	...!	杰隆	……！	傑隆	……！
+TalkEvent_11_015_00ID	20	Geron	ジェロン	ぐっ……	Geron	Ngh...!	杰隆	唔……	傑隆	唔……
+TalkEvent_11_015_01ID	0	Geron	ジェロン	ぐっ……	Geron	Ngh...!	杰隆	唔……	傑隆	唔……
+TalkEvent_11_015_01ID	1	Valeria	ヴァレリア	あんた……どうして！？	Valeria	You...! What are you doing here?!	瓦莱莉娅	你……为什么？！	瓦萊莉婭	你……為什麼！？
+TalkEvent_11_015_01ID	2	Geron	ジェロン	よそ見をするな……まだヤツは生きている！	Geron	Save it for later! That thing's still alive!	杰隆	不要东张西望……那家伙还活着！	傑隆	別分心……那傢伙還活著！
+TalkEvent_11_015_01ID	3	Valeria	ヴァレリア	そうね。今の敵はあんたじゃない	Valeria	Right, we've got bigger fish to fry.	瓦莱莉娅	说得对，现在的敌人不是你。	瓦萊莉婭	說得也是，現在的敵人不是你。
+TalkEvent_11_015_01ID	4	Resna	レスナ	ヴァレリア！　大丈夫だった！？	Resna	Valeria! Are you all right?!	蕾斯娜	瓦莱莉娅！你们没事吧？！	蕾斯娜	瓦萊莉婭！妳沒事吧！？
+TalkEvent_11_015_01ID	5	Valeria	ヴァレリア	レスナ！　ええ、みんな無事よ	Valeria	Resna! Yeah, we're okay.	瓦莱莉娅	蕾斯娜！嗯，大家都没事。	瓦萊莉婭	蕾斯娜！嗯，大家都沒事喔。
+TalkEvent_11_015_01ID	6	Resna	レスナ	（なに？　力が漏れてる……？）	Resna	(Huh? Its power is leaking out?)	蕾斯娜	（什么？力量在泄漏……？）	蕾斯娜	（怎麼回事？牠的力量往外漏了……？）
+TalkEvent_11_015_01ID	7	Resna	レスナ	（っ……そうか！\n　さっきジェロンさんが攻撃した場所！）	Resna	(Oh! That's where Geron hit it before!)	蕾斯娜	（……原来如此！\n　是刚才杰隆先生攻击过的地方！）	蕾斯娜	（……原來如此！\n　是傑隆先生剛才攻擊的地方！）
+TalkEvent_11_015_01ID	8	Resna	レスナ	（あそこを攻撃できれば……！）	Resna	(Then if we attack there...!)	蕾斯娜	（如果能击中那里的话……！）	蕾斯娜	（如果能攻擊到那邊的話……！）
+TalkEvent_11_015_01ID	9	Resna	レスナ	ねえ、ヴァレリア！\n１つ思いついたことがあるの	Resna	Valeria! I have an idea!	蕾斯娜	听我说，瓦莱莉娅！\n我想到一个主意。	蕾斯娜	瓦萊莉婭！\n我想到了一個主意。
+TalkEvent_11_015_02ID	0	Resna	レスナ	っ！	Resna	...!	蕾斯娜	唔！	蕾斯娜	唔！
+TalkEvent_11_015_02ID	1	Valeria	ヴァレリア	っ！	Valeria	...!	瓦莱莉娅	唔！	瓦萊莉婭	唔！
+TalkEvent_11_015_02ID	2	Resna	レスナ	っ、ヴァレリア！	Resna	Valeria!	蕾斯娜	瓦莱莉娅！	蕾斯娜	唔，瓦萊莉婭！
+TalkEvent_11_015_02ID	3	Valeria	ヴァレリア	っ！　今しかない――！		　	瓦莱莉娅	成败在此一举了——！	瓦萊莉婭	唔！就是現在──！
+TalkEvent_11_015_02ID	4	Valeria	ヴァレリア	ふっ！	Valeria	We've only got one shot!	瓦莱莉娅	呼！	瓦萊莉婭	哼！
+TalkEvent_11_015_02ID	5	Valeria	ヴァレリア	はっ！	Valeria	Ngh!	瓦莱莉娅	哈！	瓦萊莉婭	喝！
+TalkEvent_11_015_02ID	6	Valeria	ヴァレリア	　	Valeria	Yah!	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_11_015_02ID	7	Valeria	ヴァレリア	ふ……！	Valeria	　	瓦莱莉娅	呼……！	瓦萊莉婭	哼……！
+TalkEvent_11_015_02ID	8	Valeria	ヴァレリア	はあっ！	Valeria	Huff...!	瓦莱莉娅	喝啊！	瓦萊莉婭	喝啊！
+TalkEvent_11_015_02ID	9	Valeria	ヴァレリア	　	Valeria	Haaah!	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_11_015_02ID	10	Valeria	ヴァレリア	はぁぁぁぁぁぁぁっ！！！	Valeria	　	瓦莱莉娅	喝啊啊啊啊啊啊啊！！！	瓦萊莉婭	喝啊啊啊啊啊啊啊！！！
+TalkEvent_11_015_02ID	11	Valeria	ヴァレリア	ううう……！	Valeria	Yaaah!	瓦莱莉娅	呜呜呜……！	瓦萊莉婭	唔唔唔……！
+TalkEvent_11_015_02ID	12	Valeria	ヴァレリア	　	Valeria	Khh...!	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_11_015_02ID	13	Valeria	ヴァレリア	はっ、はあああああ！	Valeria	　	瓦莱莉娅	喝、喝啊啊啊啊！	瓦萊莉婭	喝、喝啊啊啊啊啊！
+TalkEvent_11_015_02ID	14	Valeria	ヴァレリア	ふっ	Valeria	Huff... Haaah!	瓦莱莉娅	呼。	瓦萊莉婭	哼。
+TalkEvent_11_015_02ID	15	Valeria	ヴァレリア	ふううう……、っ！	Valeria	Phew.	瓦莱莉娅	呼——！	瓦萊莉婭	呼唔唔唔……唔！
+TalkEvent_11_015_02ID	16	Lydie	リディー	相手も限界が近いはずです！	Valeria	Haaah...!	莉迪	对方也快要到极限了！	莉迪	對方應該也快到極限了！
+TalkEvent_11_015_02ID	17	Suelle	スール	一気に畳みかけちゃおう！	Lydie	We've almost worn it down!	苏瑞	一鼓作气发起追击吧！	蘇瑞	大家一起一鼓作氣上吧！
+TalkEvent_11_015_02ID	18	Resna	レスナ	　	Suelle	Let's pummel it all together now!	蕾斯娜	　	蕾斯娜	　
+TalkEvent_11_015_02ID	19	Resna	レスナ	私も援護します！　皆さん、行きましょう！	Resna	　	蕾斯娜	我也来支援！大家一起上！	蕾斯娜	我也來幫忙掩護！各位，我們上吧！
+TalkEvent_11_015_02ID	20	Valeria	ヴァレリア	さあさあ、これで最後にしましょ！	Resna	I'll be right behind you! Come on, everyone! Let's go!	瓦莱莉娅	各位，用这一击让它再无还手之力吧！	瓦萊莉婭	好了，來做個了結吧！
+	21	Valeria			Valeria	All right! Let's end this!				
+TalkEvent_11_016ID	0	Resna	レスナ	はあ、はあ、はあ……	Resna	*Huff* *Huff*...	蕾斯娜	呼、呼、呼……	蕾斯娜	呼、哈、呼……
+TalkEvent_11_016ID	1	Valeria	ヴァレリア	動きが、止まった……	Valeria	It's not moving anymore...	瓦莱莉娅	它不动了……	瓦萊莉婭	牠、不動了……
+TalkEvent_11_016ID	2	Saskia	ザスキア	……生命力を感じない。\n力を使い果たしたようね	Saskia	I don't sense any life force. It's used up all of its power.	萨丝琪亚	……从它身上感受不到生命力。\n看来它是力竭而亡了。	薩絲琪亞	……感覺不到生命力，\n看來是用盡力量了。
+TalkEvent_11_016ID	3	Resna	レスナ	倒せた……？	Resna	We...did it?	蕾斯娜	打倒它了……？	蕾斯娜	打倒牠了……？
+TalkEvent_11_016ID	4	Resna	レスナ	ウェルテックスを……頂獣を、私たちが……	Resna	We took down Weltex? An...Apexi?	蕾斯娜	我们打倒了顶兽……威尔特克斯……	蕾斯娜	我們把威爾特庫斯……把頂獸給……
+TalkEvent_11_016ID	5	Firis	フィリス	やっ……たぁーっ！！\nみんな、ついにやったんだよ、わたしたち！	Firis	Wh-Whoooa! We really, actually did it!	菲利丝	万……万岁！！各位，我们终于成功了！	菲莉絲	成……功了──！！\n各位，我們終於成功了！
+TalkEvent_11_016ID	6	Roman	ロマン	皆！　頂獣は倒れた！\n――我々の勝利だ！	Roman	Everyone, the Apexi has fallen! We won!	罗曼	各位！顶兽被打倒了！\n我们胜利了！	羅曼	各位！頂獸倒下了！\n──是我們勝利了！
+TalkEvent_11_016ID	7		みんな	おおおおおおおっ！	Everyone	Yeeeah!	所有人	哦哦哦哦哦哦哦！	大家	喔喔喔喔喔喔喔！
+TalkEvent_11_016ID	8	Lydie	リディー	よかった……！\nちゃんと勝てて、本当によかったぁ～！	Lydie	Oh, thank goodness! We did it! We really did it!	莉迪	太好了……！\n能打败它真的太好了～！	莉迪	太好了……！\n能成功戰勝牠真的是太好了～！
+TalkEvent_11_016ID	9	Suelle	スール	見たか！　あたしたちの力っ！　えっへん！	Suelle	Haha! Did you see that? That's just how strong we are!	苏瑞	见识到我们的力量了吗！哼！	蘇瑞	看見我們的力量了嗎！哼哼！
+TalkEvent_11_016ID	10		熱血漢な騎士	おおおおっ！　あの化け物を、俺たちが……！	Enthusiastic Knight	Whoooa! We really took that thing down!	热血的骑士	哦哦哦哦！我们打败了那个怪物……！	熱血的騎士	喔喔喔喔！我們打倒了那隻怪物……！
+TalkEvent_11_016ID	11	Izana	イザナ	やった……やったね、レスナちゃん……！	Izana	Wow... Just, wow! Resna!	伊札娜	太好了……成功了，蕾斯娜……！	伊札娜	太好了……太好了呢，蕾斯娜……！
+TalkEvent_11_016ID	12	Juna	ユナ	殿下……お見事です	Juna	Well done, Your Highness.	尤娜	殿下……您成功了。	尤娜	殿下……真是太精彩了。
+TalkEvent_11_016ID	13		強面な騎士	王国の悲願を……ついに……！	Tough Knight	The kingdom's been hoping for this...! Hoping for so long!	态度强硬的骑士	王国的夙愿……终于实现了……！	強勢的騎士	王國的夙願……終於……！
+TalkEvent_11_016ID	14	Klaudia	クラウディア	よかったぁ……	Klaudia	It's finished...	科洛蒂娅	太好了……	科洛蒂婭	太好了……
+TalkEvent_11_016ID	15	Saskia	ザスキア	ふふ。一仕事終わったわね	Saskia	*Chuckle* A task completed, quite expertly at that.	萨丝琪亚	呵呵，一项工作大功告成了。	薩絲琪亞	呵呵，完成了一件大事呢。
+TalkEvent_11_016ID	16	Resna	レスナ	（やっと……終わったんだ……）	Resna	(It's finally over...)	蕾斯娜	（终于……结束了……）	蕾斯娜	（終於……結束了……）
+TalkEvent_11_016ID	17	Resna	レスナ	ヴァレリア！	Resna	Valeria!	蕾斯娜	瓦莱莉娅！	蕾斯娜	瓦萊莉婭！
+TalkEvent_11_016ID	18	Valeria	ヴァレリア	レスナ、ついにやったわね！	Valeria	We finally did it, Resna!	瓦莱莉娅	蕾斯娜，终于成功了！	瓦萊莉婭	蕾斯娜，我們終於成功了呢！
+TalkEvent_11_016ID	19	Heidi	ハイディ	いやー、一時はどうなることかと思ったけどね。\n人間、為せば成るもんだ	Heidi	Man, things were looking kind of bleak for a moment there. It's almost scary what people can do when they put their minds to it.	海蒂	呼——我刚才差点以为要玩完了。\n真是功夫不负有心人啊。	海蒂	哎呀～我那時候還擔心事情會變成怎樣呢。\n看來人類只要願意做都是做得到的。
+TalkEvent_11_016ID	20	Flocke	フロッケ	これで平和な暮らしが戻ってくるんですね	Flocke	Now everyone can go back to living in peace!	芙洛可	这下我们又能过上和平的生活了。	芙洛可	這樣就能回歸平靜的生活了吧。
+TalkEvent_11_016ID	21	Juna	ユナ	皆で一丸となったからこその勝利だな	Juna	Thanks to everyone here fighting together as one.	尤娜	这是大家团结一致换来的胜利啊。	尤娜	正因為大家團結一心，才能勝利。
+TalkEvent_11_016ID	22	Resna	レスナ	勝利……私たちが……	Resna	We actually won...	蕾斯娜	我们……胜利了……	蕾斯娜	我們……勝利了……
+TalkEvent_11_016ID	23	Izana	イザナ	そうだよ、レスナちゃん！　レスナちゃんは、\n誓いをちゃんと果たしたんだよ	Izana	Of course we did, Resna! Because you swore you would!	伊札娜	没错，蕾斯娜！\n你践行了自己的誓言。	伊札娜	對啊，蕾斯娜！\n蕾斯娜妳成功實現了諾言呢！
+TalkEvent_11_016ID	24	Izana	イザナ	ウェルテックスを必ず倒すって。\nちゃーんとやり遂げたね！	Izana	You said you'd stop Weltex, and that's exactly what happened!	伊札娜	你说过一定要打败威尔特克斯。\n你做到了！	伊札娜	妳說妳絕對會打倒威爾特庫斯，\n真的成功做到了呢！
+TalkEvent_11_016ID	25	Resna	レスナ	イザナちゃん……	Resna	Izana...	蕾斯娜	伊札娜……	蕾斯娜	伊札娜……
+TalkEvent_11_016ID	26	Resna	レスナ	そっか……勝った。勝ったんだ、私たち	Resna	Right... We did it. We won.	蕾斯娜	真的……胜利了。我们胜利了。	蕾斯娜	這樣啊……我們贏了，贏了呢。
+TalkEvent_11_016ID	27	Resna	レスナ	（私……みんなで……みんなの幸せを守れたんだ……）	Resna	(We protected everyone's happiness, together...)	蕾斯娜	（我……和大家一起……守护住了所有人的幸福……）	蕾斯娜	（我……和大家一起……守護了大家的幸福……）
+TalkEvent_11_016ID	28	Resna	レスナ	（そういえば、あの人は……）	Resna	(Oh, right! Where did he go?)	蕾斯娜	（说起来，如果那个人……）	蕾斯娜	（對了，那個人……）
+TalkEvent_11_016ID	29	Resna	レスナ	（ジェロンさんが来なかったら、あの危険な攻撃に\n　やられていたかもしれない）	Resna	(If Geron hadn't shown up when he did, I don't think things would have ended so well for us.)	蕾斯娜	（如果杰隆先生没有出现的话，\n　我可能已经被那一招危险的攻击打倒了。）	蕾斯娜	（要是傑隆沒有來，\n　我們可能已經被那個危險的攻擊打敗了。）
+TalkEvent_11_016ID	30	Geron	ジェロン	う……	Geron	Ngh...	杰隆	唔……	傑隆	唔……
+TalkEvent_11_016ID	31	???	？？？	どうやら無事みたいね。\nでも、今は少し休みなさい、ジェロン	???	You seem to be doing well enough, all things considered. Still, you should take some time to rest, Geron.	？？？	看来你没事。\n不过现在还是休息一下吧，杰隆。	？？？	看來你沒事。\n不過，你現在還是先休息一下吧，傑隆。
+TalkEvent_11_016ID	32	???	？？？	頂獣を倒した者たち……か	???	So they're the ones who defeated the Apexi, hm?	？？？	他们打倒了顶兽……	？？？	打倒了頂獸的人們……是嗎？
+TalkEvent_11_017ID	0	Rorona	ロロナ	わあ！　いつもより街が賑やかだね！	Rorona	Wow! The city's so much livelier than usual!	萝乐娜	哇！城镇比平时还要热闹呢！	蘿樂娜	哇啊！城鎮裡比平時還熱鬧耶！
+TalkEvent_11_017ID	1	Klaudia	クラウディア	頂獣討伐を祝した催しですからね	Klaudia	Everyone's celebrating the fall of the Apexi, after all.	科洛蒂娅	因为在举行庆贺讨伐顶兽的活动啊。	科洛蒂婭	因為正在舉辦討伐頂獸的慶典啊。
+TalkEvent_11_017ID	2	Ayesha	アーシャ	うん。この国の歴史の中で、初めての出来事だもの	Ayesha	And that is quite the monumental event. The first of its kind in this country's history, in fact.	爱夏	嗯。毕竟是这个国家有史以来的一大创举嘛。	愛夏	嗯，畢竟在這個國家的歷史上，這可是頭一次成功。
+TalkEvent_11_017ID	3	Totori	トトリ	あ、ランツェさんも来てたんですね。\n戦いには参加してなかったのに	Totori	Oh! Even you made it out, Lanze? Not that you took to the battlefield.	托托莉	啊，兰泽先生也来了。\n你明明都没有参加战斗。	托托莉	啊，藍澤先生也來了啊，\n你明明沒參戰的說。
+TalkEvent_11_017ID	4	Lanze	ランツェ	……うるせえ。俺だって本当は戦いたかったさ	Lanze	Hey, can it. I would've fought if I could've.	兰泽	……要你多嘴。我当然也想去战斗啊。	藍澤	……囉嗦，我其實也很想參戰啊。
+TalkEvent_11_017ID	5	Lanze	ランツェ	ただまあ、今日は家族の晴れ舞台だからよ。\nちゃんと見守ってやろうと思ってな	Lanze	But this is a big moment for the rest of my family. Gotta be here to show my support and all.	兰泽	不过今天是我家人的大日子，\n我想好好见证这一切。	藍澤	不過，今天是我家人的光榮時刻，\n所以我想好好見證一下。
+TalkEvent_11_017ID	6	Totori	トトリ	ふふっ、そうですか。\nもうすっかりお父さん役が板についてきましたね	Totori	Hehe, is that why? You've settled right into your proud papa role, huh?	托托莉	呵呵，是这样啊。\n你已经非常适应父亲的角色了呢。	托托莉	呵呵，這樣啊。\n你已經完全是個好爸爸了呢。
+TalkEvent_11_017ID	7	Lanze	ランツェ	からかうんじゃねえよ。\nほら、準備があるんだろ？　さっさと行けって	Lanze	Tch, that ain't worth teasin' a guy about. Don't you have stuff to get ready? C'mon, get a move on.	兰泽	别开我玩笑了。\n你们不是还要做准备吗？快去吧。	藍澤	別捉弄我了。\n好了，妳不是還要準備嗎？快去吧。
+TalkEvent_11_017ID	8	Totori	トトリ	はーい	Totori	Fiiine.	托托莉	好——	托托莉	好～
+TalkEvent_11_017ID	9	Logy	ロジー	しかし、まだ数日しか経ってないってのに、\nよくこんな大がかりなことができたな	Logy	It's impressive that they managed to pull together an event this big in only a handful of days.	罗吉	不过危机过去短短几天后，\n居然就能组织起如此大规模的活动啊。	羅吉	不過，明明才過沒幾天，\n竟然能辦得如此盛大。
+TalkEvent_11_017ID	10	Marion	マリオン	そこは、例の王子様が相当張り切ったみたいよ？	Marion	I think that's just a reflection of the high spirits our fun-loving prince is in.	玛丽翁	好像是因为某位王子大人格外卖力操办哦。	瑪麗翁	好像是因為，那位王子殿下鼓足了幹勁的關係呢。
+TalkEvent_11_017ID	11	Suelle	スール	こんなに大勢の人があたしたちに注目してる！\nスーちゃん大出世の予感！？	Suelle	There are sooo many people here to see us! Does that mean that I've moved on up in the world?!	苏瑞	这么多的人都在注视着我们！\n难不成人家要出人头地了？！	蘇瑞	有這麼多人注視著我們！\n難不成是小蘇要飛黃騰達的預感！？
+TalkEvent_11_017ID	12	Lydie	リディー	浮かれすぎだよスーちゃん……って言いたいけど、\n私も人のこと言えないかも。えへへ……	Lydie	I'd like to tell you to calm down, Sue, but...I'm feeling the exact same way. Ehehe.	莉迪	你都得意忘形了，小苏……\n不过我也没资格说你啦，嘿嘿……	莉迪	小蘇妳興奮過頭了啦……\n說是這麼說，不過我好像也沒資格說別人，嘿嘿……
+TalkEvent_11_017ID	13	Firis	フィリス	うん！　今日くらいは思いっきりはっちゃけちゃおう！	Firis	Yeah! Let's enjoy today with everything we've got!	菲利丝	嗯！今天就尽情地玩乐吧！	菲莉絲	嗯！我們今天就盡情放縱一下吧！
+TalkEvent_11_017ID	14	Resna	レスナ	イザナちゃん、私の格好、どっか変じゃない？	Resna	Izana? I don't look weird or anything, do I?	蕾斯娜	伊札娜，我的打扮会不会不合适啊？	蕾斯娜	伊札娜，我的打扮有沒有哪裡奇怪？
+TalkEvent_11_017ID	15	Izana	イザナ	大丈夫だよ、レスナちゃん。ばっちり決まってる！	Izana	Of course not, Resna! You're fine as you are! Just like you should be!	伊札娜	不会哦，蕾斯娜。你这身打扮好看极了！	伊札娜	沒問題的，蕾斯娜，很完美喔！
+TalkEvent_11_017ID	16	Resna	レスナ	そ、そっか。凱旋の行進に参加するなんて\n初めてだから、ちょっと緊張しちゃって	Resna	O-Okay. This is my first-ever triumphant homecoming, so I'm feeling a little nervous.	蕾斯娜	是、是吗。我还是第一次参加凯旋游行，\n不免有点紧张。	蕾斯娜	這、這樣啊，\n我還是第一次參加凱旋遊行，所以有點緊張。
+TalkEvent_11_017ID	17	Valeria	ヴァレリア	みんなでのんびり歩いていけばいいんでしょ？\n数日前の戦いに比べれば、楽勝楽勝！	Valeria	All you have to do is relax and have a nice stroll with the rest of us. Compared to all that fighting we were doing a few days back, that should be a piece of cake!	瓦莱莉娅	只要跟着大部队的步伐慢慢走就可以了吧？\n和几天前的战斗比起来很简单啦！	瓦萊莉婭	只要大家一起悠閒的往前走就行了吧？\n跟前幾天的戰鬥相比，簡直太輕鬆了！
+TalkEvent_11_017ID	18	Roman	ロマン	みんな、そろそろ始まるよ	Roman	All right, is everyone ready? We're going to start soon.	罗曼	各位，准备开始吧。	羅曼	各位，差不多要開始了喔！
+TalkEvent_11_017ID	19	Roman	ロマン	ここに集った勇敢な者たちの健闘により、\n頂獣の脅威は去った！	Roman	Thanks to the collective efforts of the heroes you see gathered today, the Apexi threat is no more!	罗曼	多亏聚集于此的勇者们勇猛战斗，\n顶兽的威胁已不复存在！	羅曼	在聚集於此的勇者們努力奮鬥下，\n頂獸的威脅被消除了！
+TalkEvent_11_017ID	20	Roman	ロマン	今こそ皆で、勝利を祝おう！\n	Roman	Everyone, raise your voices with us in celebration!	罗曼	现在让我们一起来欢庆胜利吧！	羅曼	現在大家一起來慶祝勝利吧！
+TalkEvent_11_017ID	21	Juna	ユナ	我々に勝利をもたらした、星の導きに感謝を！	Juna	Our victory was ordained by the stars! Let us give thanks for their guidance!	尤娜	感谢星星的指引，为我们带来胜利！	尤娜	感謝星之引導，為我們帶來了勝利！
+TalkEvent_11_017ID	22		住民たち	わぁぁぁっ！！！！	Citizens	Woooo!	居民们	哇啊啊啊！！！！	居民們	哇啊啊啊！！！！
+TalkEvent_11_017ID	23	Resna	レスナ	わぁっ！　すごい歓声！	Resna	Wow! Listen to all those cheers!	蕾斯娜	哇！好热烈的欢呼声！	蕾斯娜	哇啊！好驚人的歡呼聲！
+TalkEvent_11_017ID	24	Roman	ロマン	うん。皆、楽しそうで何よりだ！\nさあ、行こうか！	Roman	Yeah. I'm just glad everyone's having fun! Come on, let's go greet the crowd!	罗曼	嗯，大家开心就是最好的！\n好了，我们走起来！	羅曼	嗯，大家開心就好！\n好了，走吧！
+TalkEvent_11_017ID	25	Resna	レスナ	は、はいっ！	Resna	R-Right!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+TalkEvent_11_017ID	26		住民Ａ	みんな、ありがとーっ！　おかえりなさーい！	Citizen A	Welcome back, everyone! Thank you for everything!	居民A	谢谢你们——！欢迎回来！	居民A	各位，謝謝你們～！歡迎回來～！
+TalkEvent_11_017ID	27		住民Ｂ	よくやってくれた！　ありがとうー！	Citizen B	You did an amazing job! We owe you all so much!	居民B	干得漂亮！感谢你们！	居民B	做得好！謝謝你們～！
+TalkEvent_11_017ID	28	Izana	イザナ	あははっ！　すっごいお祭り騒ぎだね！	Izana	Ahaha! This is such a festive party!	伊札娜	哈哈哈！气氛像过节一样热闹！	伊札娜	啊哈哈！好熱鬧的慶典氣氛！
+TalkEvent_11_017ID	29	Roman	ロマン	なんていったって頂獣を倒したんだからね！\nこれくらい賑やかな凱旋をして然るべきだよ！	Roman	Well, it's not every day an Apexi goes down! That calls for at least this much celebrating!	罗曼	毕竟达成了打败顶兽的壮举啊！\n凯旋的欢庆当然就该这么热闹！	羅曼	畢竟我們打倒了頂獸嘛！\n凱旋歸來就該這麼熱鬧啊！
+TalkEvent_11_017ID	30	Heidi	ハイディ	張り切って企画しました、って顔だね。\nでも、今日くらいは派手に盛り上がるのもありか！	Heidi	You sure look pleased with how this whole event turned out. But, well, who could blame you? Today should be big, bold, and boisterous!	海蒂	你的表情暴露了这是你努力策划的成果。\n不过，今天放肆地热闹热闹也不错！	海蒂	他臉上寫著我用盡全力策劃了呢。\n不過，今天的確適合盡情玩樂一番呢。
+TalkEvent_11_017ID	31	Valeria	ヴァレリア	あ！　あそこに美味しそうな売店が出てる！\nみんな、後で買いに行きましょ！	Valeria	Oh! There's a stall over there selling some tasty-looking stuff! We should go buy some later!	瓦莱莉娅	啊！那个小摊卖的东西看上去好好吃！\n一会儿我们去买吧！	瓦萊莉婭	啊！那邊有間看起來很美味的攤販！\n各位，我們晚點去買吧！
+TalkEvent_11_017ID	32	Flocke	フロッケ	ふふっ。分かりました。一緒に行きましょう	Flocke	Hehe. Okay, we'll all go together!	芙洛可	呵呵，好的。我们一起去吧。	芙洛可	呵呵，知道了，大家一起去吧。
+TalkEvent_11_017ID	33	Resna	レスナ	こんなにたくさんの人たちが集まって……。\nみんな、嬉しそうな笑顔で……	Resna	There are so many people here... And they're all smiling so happily.	蕾斯娜	这么多人欢聚一堂……\n大家脸上都带着幸福的笑容……	蕾斯娜	這麼多人聚集在一起……\n大家都露出了高興的笑容……
+TalkEvent_11_017ID	34	Resna	レスナ	よかった……ウェルテックスに勝てて、\n本当によかった！	Resna	I'm so glad... I'm so glad we defeated Weltex!	蕾斯娜	太好了了……\n能打败威尔特克斯真的太好了！	蕾斯娜	太好了……\n能戰勝威爾特庫斯真的是太好了！
+TalkEvent_11_017ID	35		住民Ｃ	あっ、あそこにいる子、ひょっとして錬金術士って\nやつじゃないかい？　ただの冒険者には見えないし	Citizen C	Oh! Isn't that lady one of those, er, alchemists? She certainly doesn't look like your average adventurer.	居民C	啊，那些人该不会是炼金术士吧？\n看上去不像普通的冒险者。	居民C	啊，那邊那個女孩，難道就是所謂的鍊金術士？\n看起來不像個普通的冒險者。
+TalkEvent_11_017ID	36		住民Ｄ	ああ、あれが！　騎士たちにも\n負けない活躍をしたって評判じゃないか！	Citizen D	Right, alchemists! I've heard that they're just as tenacious as the knights!	居民D	哦，她们啊！听说这次她们大展身手，\n贡献不输骑士呢！	居民D	啊，那個啊！\n聽說他們的表現大受好評，毫不遜色於騎士們呢！
+TalkEvent_11_017ID	37		住民Ｅ	いいぞー錬金術士ー！　よくやったーっ！	Citizen E	Way to go, alchemists! You're the best!	居民E	很厉害嘛，炼金术士！干得漂亮！	居民E	鍊金術士──做得好──！幹得漂亮──！
+TalkEvent_11_017ID	38	Resna	レスナ	え、ええっ！？　あ、あの……えっと、はい！\nありがとうございます！	Resna	H-Huh?! Um, I mean... Thank you! You're very welcome!	蕾斯娜	什、什么！那、那个……嗯！\n谢谢大家！	蕾斯娜	咦，咦咦！？那、那個……呃，是！\n謝謝大家！
+TalkEvent_11_017ID	39	Resna	レスナ	（錬金術で、みんなの笑顔を守る\n　手助けができたんだ……！）	Resna	(I helped keep everyone smiling...with the power of alchemy!)	蕾斯娜	（我用炼金术成功守护了大家的笑容……！）	蕾斯娜	（我用鍊金術，\n　成功幫忙守住大家的笑容了……！）
+TalkEvent_11_018ID	0	Resna	レスナ	ふぅっ。なんだかまだ頭がふわふわしてるよ	Resna	Phew. My head's still spinning.	蕾斯娜	呼，感觉脑袋里还是恍恍惚惚的。	蕾斯娜	呼～總覺得腦袋還輕飄飄的。
+TalkEvent_11_018ID	1	Valeria	ヴァレリア	お疲れさま、レスナ。一度アトリエに戻って休む？	Valeria	You did great out there, Resna. Why don't you head back over to the atelier for a break?	瓦莱莉娅	辛苦了，蕾斯娜。要不要先回炼金工房休息一下？	瓦萊莉婭	辛苦了，蕾斯娜，要不要先回鍊金工房休息一下？
+TalkEvent_11_018ID	2	Resna	レスナ	そうだね。あ、でも、気分転換に王都を散歩して\nいくのも……ん？	Resna	I could, but I was thinking that a walk around the capital might be a nice change of... Huh?	蕾斯娜	好呀。啊，不过为了转换心情，\n在王都散散步也不错……嗯？	蕾斯娜	說得也是。\n啊，不過，去王都散步轉換一下心情好像也……嗯？
+TalkEvent_11_018ID	3		アブラハム	失礼。錬金術士レスナ・シュテルネンリヒト\nというのは君のことかね？	Abraham	Pardon me, but might you be the alchemist Resna Sternenlicht?	亚伯拉罕	打扰了，请问你就是\n炼金术士蕾斯娜·修特涅利希特吧？	亞伯拉罕	打擾了，\n鍊金術士蕾斯娜‧修特涅利希特就是妳嗎？
+TalkEvent_11_018ID	4	Resna	レスナ	は、はい！　クア州長のトロッケル卿……ですよね？\nどうして私のことを？	Resna	Th-That's me! And you're...Lord Trockel, right? The minister of Kur Province? Is there something you need from me?	蕾斯娜	是、是的！您是库亚州的州长特洛克尔卿……？\n您为什么会认识我？	蕾斯娜	是、是的！您是庫厄州長特羅克爾……對吧？\n您怎麼會找我？
+TalkEvent_11_018ID	5		アブラハム	君たちのおかげで我々の州が救われたからね。\n心から感謝するよ	Abraham	I wanted to personally thank those who helped save the province.	亚伯拉罕	多亏了你们，我们库亚州才幸免遇难。\n我打心底里感谢你们。	亞伯拉罕	多虧有各位，我們的州才能得救，\n我打從心裡感激各位。
+TalkEvent_11_018ID	6		アブラハム	君たちが用いた錬金術が、勝利に大きく貢献したと\n聞いているが……	Abraham	I heard that our victory was due in large part to alchemists like you, and your specialized efforts.	亚伯拉罕	我听说你们所用的炼金术\n为胜利做出了巨大贡献……	亞伯拉罕	我聽說各位使用的鍊金術對勝利有巨大的貢獻……
+TalkEvent_11_018ID	7	Resna	レスナ	力になれたとは思いますが、無事に勝てたのは\n戦いに臨んだすべての人たちの力あってこそです！	Resna	Oh! Well, we certainly helped, but it really was a team effort!	蕾斯娜	我们的确做了力所能及的事，但最终的胜利\n是参加战斗的所有人齐心协力换来的结果。	蕾斯娜	我們是有幫上忙，\n但能平安取勝，都是因為有所有人合力挺身戰鬥！
+TalkEvent_11_018ID	8		アブラハム	ふむ、そうか。とにかく、君の名前は覚えておこう。\nでは、私はこれで	Abraham	Hm, I see. In any case, I'll remember your name. Well then, if you'll excuse me.	亚伯拉罕	哦，原来如此。总之我会记住你的名字。\n那我就先告辞了。	亞伯拉罕	嗯，這樣啊。總之，我會記住妳的名字的。\n那麼，我告辭了。
+TalkEvent_11_018ID	9	Resna	レスナ	……はぁーっ。身分の高い人に突然話しかけられて\nびっくりしちゃった	Resna	Phew... I can't believe such a high-ranking person came to talk to us! I really wasn't expecting that!	蕾斯娜	呼——突然被身份高贵的人搭话，\n吓了我一跳。	蕾斯娜	……呼～突然被身分高貴的人搭話，\n嚇了我一跳。
+TalkEvent_11_018ID	10	Valeria	ヴァレリア	え。ロマンは？　州長どころか王子じゃない	Valeria	Sure, but what about Roman? He's way higher up the ladder than a provincial minister.	瓦莱莉娅	咦，那罗曼算什么？王子不是比州长还高贵吗？	瓦萊莉婭	咦，那羅曼呢？他可是比州長地位還高的王子耶！
+TalkEvent_11_018ID	11	Resna	レスナ	た、確かに！　でも、ロマンさんはほら！\nロマンさんだから！	Resna	I-I guess so! But, you know, Roman's just...Roman!	蕾斯娜	对、对哦！但罗曼先生……就是罗曼先生嘛！	蕾斯娜	確、確實！\n不過，羅曼先生就是羅曼先生嘛！
+TalkEvent_11_018ID	12	Valeria	ヴァレリア	まあ、普段はそんな身分には見えないものね	Valeria	True, he doesn't usually make a big deal about his title.	瓦莱莉娅	也是，从平时的举止根本看不出他有那种身份地位。	瓦萊莉婭	嗯，畢竟他平時看起來也不像那種身分的人。
+TalkEvent_11_018ID	13	Valeria	ヴァレリア	街の広場ではまだお祭り騒ぎが続いてるみたい。\nだけど、ここは静かね	Valeria	It sounds like the party in the square is still going strong, but it's pretty quiet over here.	瓦莱莉娅	城镇的广场上狂欢似乎还在继续，\n不过这里好安静啊。	瓦萊莉婭	城鎮廣場那邊好像還是很熱鬧，\n但這裡卻很安靜呢。
+TalkEvent_11_018ID	14	Resna	レスナ	うん。ようやく少し落ち着いてきたかな	Resna	Yeah. It feels like we can finally take a moment to relax.	蕾斯娜	嗯。感觉心情总算平静下来了。	蕾斯娜	嗯，終於稍微靜下來了呢。
+TalkEvent_11_018ID	15	Resna	レスナ	……色々あったけど、みんな笑顔で今日を\n迎えられてよかった	Resna	A lot happened, but I'm glad that we could greet today with a smile.	蕾斯娜	……真高兴大家成功跨越了艰险，\n今天可以一起在这里开怀欢庆。	蕾斯娜	……雖然發生了很多事，\n但大家能以笑容迎來這一天，真是太好了。
+TalkEvent_11_018ID	16	Valeria	ヴァレリア	うん。私も同じ気持ち	Valeria	Mhm, I'm with you there.	瓦莱莉娅	嗯，我和你有着一样的感受。	瓦萊莉婭	嗯，我也這麼覺得。
+TalkEvent_11_018ID	17	Valeria	ヴァレリア	お父さんをひどい目にあわせたヤツを、やっと\nぶっ飛ばすことができたわね	Valeria	Plus, we finally got to give the monster that brought your dad so much trouble a taste of its own medicine.	瓦莱莉娅	我们终于狠狠教训了那只\n害你爸爸下落不明的顶兽。	瓦萊莉婭	我們終於成功揍飛了那個害妳爸吃足苦頭的傢伙了。
+TalkEvent_11_018ID	18	Valeria	ヴァレリア	あとは……お父さんが見つかるといいわね	Valeria	All that's left is to find him for you.	瓦莱莉娅	接下来……要是能找到你爸爸就好了。	瓦萊莉婭	還有……希望妳能找到妳爸爸。
+TalkEvent_11_018ID	19	Resna	レスナ	そのことなんだけど……	Resna	Um, about that...	蕾斯娜	关于这件事……	蕾斯娜	關於那個……
+TalkEvent_11_018ID	20	Valeria	ヴァレリア	ん？	Valeria	Hm?	瓦莱莉娅	嗯？	瓦萊莉婭	嗯？
+TalkEvent_11_018ID	21	Resna	レスナ	フィリス先輩たちが無事に戻ってきた時に思ったんだ	Resna	When you all made it back safely after being sucked up by Weltex...	蕾斯娜	看到菲利丝前辈她们平安回来，我有了一个思路。	蕾斯娜	菲莉絲前輩他們平安回來時，我想過了。
+TalkEvent_11_018ID	22	Resna	レスナ	私のお父さんも、どこか遠い所に\n飛ばされちゃったんじゃないかって	Resna	I started to think that maybe the same thing happened to my dad. That he got sent somewhere really far away.	蕾斯娜	我爸爸会不会也被传送到遥远的地方了呢。	蕾斯娜	我爸爸說不定也是被轉移到某個遙遠的地方去了。
+TalkEvent_11_018ID	23	Resna	レスナ	だから……\n旅を続けていれば、いつかきっと会えるって	Resna	So...if I keep traveling around, we might meet again someday.	蕾斯娜	所以……\n只要不断旅行，我相信总有一天会重逢的。	蕾斯娜	所以我想……\n只要我持續旅行，總有一天一定能見到他的。
+TalkEvent_11_018ID	24	Valeria	ヴァレリア	そっか！　うんうん、確かにそうだわ！	Valeria	Oh! Yeah, that could definitely happen!	瓦莱莉娅	这样啊！嗯嗯，好有道理！	瓦萊莉婭	這樣啊！嗯嗯，確實如此！
+TalkEvent_11_018ID	25	Valeria	ヴァレリア	現にフィリスたちは無事に戻ってきたもの。\nきっとお父さんに会えるわよ！	Valeria	Firis and the others came back without a scratch! So I'm sure you'll find him!	瓦莱莉娅	毕竟菲利丝她们也平安回来了。\n所以你也一定能找到你爸爸！	瓦萊莉婭	實際上菲莉絲他們就平安回來了嘛。\n妳一定能見到妳爸爸的！
+TalkEvent_11_018ID	26	Resna	レスナ	うん……	Resna	Yeah...	蕾斯娜	嗯……	蕾斯娜	嗯……
+TalkEvent_11_018ID	27	Resna	レスナ	案外、今も私たちと同じように\n星を見上げていたりするかもね	Resna	He might even be looking up at the same stars that we are right now.	蕾斯娜	说不定他现在正和我一样，仰望着星空呢。	蕾斯娜	說不定，他現在也正跟我們一樣仰望星空呢。
+TalkEvent_11_018ID	28	Valeria	ヴァレリア	そうね	Valeria	Yep, could be.	瓦莱莉娅	是啊。	瓦萊莉婭	是啊。
+TalkEvent_11_018ID	29	Resna	レスナ	（流れ星よ、私たちを導いてください）	Resna	(Dear stars, please watch over and guide us...)	蕾斯娜	（流星啊，请为我们指明方向。）	蕾斯娜	（流星啊，請指引我們……）
+TalkEvent_11_018ID	30	Antje	アンチュ	こんな所に、なんの用なの？	Antje	What are you doing in a place like this?	安洁	你在这里做什么？	安潔	妳在這種地方做什麼？
+TalkEvent_11_018ID	31	???	？？？	見たいものがあったのよ	???	Well, I was hoping to see something.	？？？	我想在这看点风景。	？？？	我有個想看的東西。
+TalkEvent_11_018ID	32	Antje	アンチュ	ま、まさかあいつらのパレードじゃないわよね	Antje	You don't seriously mean that parade of theirs, do you?	安洁	该、该不会是那些人的游行吧？	安潔	該、該不會是那群傢伙的遊行吧？
+TalkEvent_11_018ID	33	???	？？？	アンチュ	???	Antje.	？？？	安洁。	？？？	安潔。
+TalkEvent_11_018ID	34	Antje	アンチュ	なに？	Antje	What?	安洁	嗯？	安潔	什麼事？
+TalkEvent_11_018ID	35	???	？？？	次は、私自ら出向くことにするわ	???	It's time for me to get involved.	？？？	下次我会亲自出马。	？？？	下次，我會親自出馬。
+TalkEvent_11_018ID	36	Antje	アンチュ	ふふ、相手はご愁傷様だね	Antje	Heh. Those fools have my condolences.	安洁	呵呵，那我真替你的对手感到遗憾啊。	安潔	呵呵，對方可真可憐。
+TalkEvent_11_018ID	37	Antje	アンチュ	大人しく待ってるわ……\nあなたの邪魔はしたくないもの。ねえ――	Antje	I'll just sit back and watch from the sidelines. I'm sure you'd hate for me to get in your way, after all. Isn't that right...	安洁	我会乖乖等着的……\n因为我不想妨碍到你嘛。对吧——	安潔	我會乖乖等著的……\n我可不想妨礙到妳，妳說對吧──
+TalkEvent_11_018ID	38	Antje	アンチュ	――クリセルダ	Antje	...Criselda?	安洁	——克莉赛尔达。	安潔	──克莉賽爾達。

@@ -1,0 +1,817 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_07_001ID	0	Marion	マリオン	精が出るわね。\n長旅から戻っても、毎日調合に勉強にって	Marion	What a hard worker you are. You've just come back from a long trip, and yet you've been practicing synthesizing every day.	玛丽翁	你真有干劲呀。\n长途旅行归来之后，每天都在坚持调合与学习。	瑪麗翁	妳真有幹勁呢。\n即使剛從長途旅行回來，每天還是又要調合又要讀書的。
+TalkEvent_07_001ID	1	Resna	レスナ	はい！　ハイネ州の依頼もひとまず落ち着いたので、\n次の依頼に向けて、今は日々精進あるのみです！	Resna	Yeah! The Haine requests are pretty much done, so all I have left is to work hard on the next ones!	蕾斯娜	嗯！海涅州的委托也告一段落了，\n我现在只想加紧提升自己，好应对下一个委托！	蕾斯娜	是啊！海涅州的委託也告一個段落了，\n我現在要每天精進自己，為下一份委託做準備！
+TalkEvent_07_001ID	2	Marion	マリオン	ああ、そういえば、あの時の新聞は私も読んだわよ。\n長年の不作問題を解決するなんて、やるじゃない	Marion	Oh, that reminds me! I saw in the newspaper how you managed to end that years-long crop failure. I can't believe you pulled that off!	玛丽翁	啊，说起来，我也看了当时的报纸。\n你们解决了长年以来的歉收问题，真了不起。	瑪麗翁	喔，對了，我有看到那時候的報紙喔。\n聽說妳們解決了長年歉收的問題，真有本事啊。
+TalkEvent_07_001ID	3	Resna	レスナ	あ、ありがとうございます！　みんなや先輩たち、\nそれに色々と協力してくださった方々のおかげです	Resna	Thank you! I couldn't have done it without everyone's help, though!	蕾斯娜	谢、谢谢夸奖！都是多亏了同伴和前辈们，\n还有各方面的协助者，我才能完成这项委托。	蕾斯娜	謝、謝謝妳！這都是多虧了大家和前輩們，\n還有許多協助者的幫忙。
+TalkEvent_07_001ID	4	Resna	レスナ	（本当に、色々な人に助けられたなぁ……）	Resna	(So many people have been there to support me...)	蕾斯娜	（我真的得到了很多人的帮助啊……）	蕾斯娜	（我真的受到了好多人的幫助……）
+TalkEvent_07_001ID	5	Resna	レスナ	（「ハイネ州における穀物の不作の原因調査と\n　改善」という依頼を受けた私たちは）	Resna	"(When we took on the ""Research and Development in Haine: Failed Grain Harvest"" request...)"	蕾斯娜	（我们接下了\n　“调查海涅州谷物歉收的原因并加以改善”这个委托。）	蕾斯娜	（我們接下了「調查海涅州糧食歉收的原因\n　並進行改善」這份委託。）
+TalkEvent_07_001ID	6	Resna	レスナ	（不作を解消するための栄養剤を作るべく、\n　ハイネ州の大原野に「翡翠の煌水」を探しに行った）	Resna	(We found that we needed to make a tonic to restore the soil and went searching the Great Fields of Haine for Jade Water.)	蕾斯娜	（为了制作能解决歉收问题的营养剂，\n　我们前往海涅州的大原野寻找“翡翠煌水”。）	蕾斯娜	（為了製作改善歉收的營養劑，\n　我們前往了海涅州的大原野尋找「翡翠煌水」。）
+TalkEvent_07_001ID	7	Resna	レスナ	（その途中、イザナちゃんが自分を鍛え直したい、\n　と言って離れちゃった時は驚いたけれど……）	Resna	(During the request, Izana shocked us when she proclaimed she wanted to work on herself and left the group.)	蕾斯娜	（在途中，伊札娜说想重新锻炼自己，\n　要和我们分开行动，她离开时我大受打击……）	蕾斯娜	（半路上，伊札娜說想重新鍛鍊自己，\n　決定和我們分開的時候，真的讓我嚇了一跳……）
+TalkEvent_07_001ID	8	Resna	レスナ	（イザナちゃんはリラさんという師を得て\n　研鑽に励み――）	Resna	(Izana trained under Lila and devoted herself to training.)	蕾斯娜	（不过伊札娜在莉拉这位老师的教导下，\n　努力精进自己的武艺――）	蕾斯娜	（不過，伊札娜找到了莉拉小姐這位師父，\n　努力精進──）
+TalkEvent_07_001ID	9	Resna	レスナ	（みんなの危機に駆けつけてくれた。私の騎士として\n　隣で歩むために……）	Resna	(She always rushes to everyone's aid, and she always walks alongside me as my knight.)	蕾斯娜	（最后是她赶来帮我们解决了危机。\n　她这么做是为了能作为我的骑士，与我并肩前行……）	蕾斯娜	（在大家陷入危機時趕來了。她是為了要身為我的騎士，\n　與我一起前進才……）
+TalkEvent_07_001ID	10	Resna	レスナ	（離れていた時間は苦しかったけれど、\n　前以上にイザナちゃんと分かりあえた気がするんだ）	Resna	(It was hard with her gone, but I feel like I know Izana even better now.)	蕾斯娜	（跟伊札娜分开的那段时间是很难熬，\n　但我感觉在那之后，我们的心贴得更近了。）	蕾斯娜	（雖然分開的那段時間讓人很難受，\n　但我覺得我和伊札娜比以前更能理解彼此了。）
+TalkEvent_07_001ID	11	Resna	レスナ	（栄養剤を完成させ、依頼は無事に成功。\n　なんと新聞にも取り上げられたけど……）	Resna	(We made the tonic and successfully completed the request, but to think it made the papers is quite surprising.)	蕾斯娜	（做好营养剂，成功完成了委托。\n　甚至我们的事迹还登上了报纸……）	蕾斯娜	（最終我們完成了營養劑，順利達成了委託。\n　而且還被登上了報紙……）
+TalkEvent_07_001ID	12	Resna	レスナ	（これをきっかけに錬金術が一気に脚光を浴びるなんて\n　こともなく、前と変わらない生活が続いていた）	Resna	(However, this still didn't put alchemy into the spotlight, and life went on as it always had.)	蕾斯娜	（但炼金术并没有以此为契机受到世人瞩目，\n　我继续过着与以往无异的生活。）	蕾斯娜	（但鍊金術並沒有因為這個契機受到大眾矚目，\n　大家還是過著和以往相同的生活。）
+TalkEvent_07_001ID	13	Marion	マリオン	ところでレスナ。\n次の予定とかは、もう決まっているの？	Marion	By the way, Resna, have you decided on what you're going to do next?	玛丽翁	对了，蕾斯娜，\n你想好接下来要做什么了吗？	瑪麗翁	話說回來，蕾斯娜。\n妳決定好接下來要做什麼了嗎？
+TalkEvent_07_001ID	14	Resna	レスナ	いえ、まだです。できれば各地を回りたいと思って\nいるので、他の州からの依頼を探しているんですが	Resna	No, not yet. I'd like to travel the world if I can, so I'm looking for requests from different regions.	蕾斯娜	还没有。我想尽可能地去各地逛逛，\n所以正在物色其他州发布的委托。	蕾斯娜	沒有，還沒決定。我想要盡量走訪各地，\n所以正在找尋其他州的委託。
+TalkEvent_07_001ID	15	Marion	マリオン	今は目ぼしい依頼がないのね。\n他の子たちも、準備期間中ってところかしら？	Marion	There's nothing of note right now. Are the others busy preparing then?	玛丽翁	不过现在没有特别合适的委托啊，\n其他人也在做休整吗？	瑪麗翁	目前還沒有妳想接的委託是吧。\n其他人也都在做各自的準備嗎？
+TalkEvent_07_001ID	16	Resna	レスナ	ヴァレリアたちはフリーゲンに戻っていますし、\nイザナちゃんは張り切って毎日修行しています	Resna	Valeria and the others returned to Friegen. Izana spends her days training hard.	蕾斯娜	瓦莱莉娅她们回弗里根了，\n伊札娜每天都在努力修行。	蕾斯娜	瓦萊莉婭她們回去弗里岡了，\n伊札娜每天都在幹勁十足地修行。
+TalkEvent_07_001ID	17	Marion	マリオン	そういえば、ロマンはどうしてるの？\n最近姿を見てないけれど	Marion	And what is Roman up to? I haven't seen him around recently, now that I think about it.	玛丽翁	说起来，罗曼在做什么？\n最近都没怎么见着他。	瑪麗翁	對了，羅曼在做什麼？\n最近都沒看到他。
+TalkEvent_07_001ID	18	Resna	レスナ	言われてみれば、私もぜんぜん姿を見かけていません。\nハイネ州に向かう前、王都でお別れした時からずっと	Resna	Now that you mention it, I haven't seen him at all either. Not since we parted ways at the capital before we left for Haine.	蕾斯娜	确实，这么一说我也好久没见到他了。\n去海涅州之前我们在王都分开，之后就再也没见面。	蕾斯娜	這麼說來，我也好一陣子沒看到他了。\n自從去海涅州前和他在王都分開之後，就沒見過他了。
+TalkEvent_07_001ID	19	Marion	マリオン	あら、ロマンは今回の旅に同行していなかったの？\nあんなに錬金術に興味があるって言っていたのに	Marion	Oh? So he didn't join you on your trip? I thought he was interested in alchemy.	玛丽翁	咦，罗曼这次没有跟你一起去旅行？\n他明明一直大声宣扬自己对炼金术很感兴趣呀。	瑪麗翁	咦？羅曼沒有跟你們一起走那趟旅行嗎？\n他不是一直說他對鍊金術很有興趣？
+TalkEvent_07_001ID	20	Resna	レスナ	はい。何か野暮用があるとのことで	Resna	Yes, it seems he had some private business to attend to.	蕾斯娜	是的，他好像有些杂事要做。	蕾斯娜	是的。他好像有事情要處理。
+TalkEvent_07_001ID	21	Marion	マリオン	野暮用、ねぇ	Marion	"""Private business,"" huh?"	玛丽翁	杂事啊……	瑪麗翁	有事情要處理啊……
+TalkEvent_07_002ID	0	Roman	ロマン	やあレスナ！　今回は素晴らしい活躍だったね！	Roman	Hey, Resna! Wonderful work completing that request!	罗曼	蕾斯娜！你这次表现得很好嘛！	羅曼	嗨，蕾斯娜！妳這次的表現真出色啊！
+TalkEvent_07_002ID	1	Resna	レスナ	わっ！？　ロマンさん！？\nお、お久しぶりです！	Resna	What?! Roman?! It's been so long!	蕾斯娜	哇？！罗曼先生？！\n好、好久不见！	蕾斯娜	哇！？羅曼先生！？\n好、好久不見！
+TalkEvent_07_002ID	2	Roman	ロマン	このアトリエに来るのもいつぶりかな。\n相変わらず素敵な所だね	Roman	I see the atelier looks the same as ever. What a remarkable place.	罗曼	都不记得多久没来这个炼金工房了，\n不过这地方还是跟过去一样舒适啊。	羅曼	我好久沒來這間鍊金工房了。\n這裡還是一樣是個好地方。
+TalkEvent_07_002ID	3	Roman	ロマン	ハイネ州の例の記事、私も読んだよ。\n同志として、こんなに嬉しいことはない！	Roman	I came across that article about Haine in the newspaper. As a kindred spirit, nothing could make me happier!	罗曼	海涅州的那篇报道我也看过了，\n作为你的同志，我也是无比振奋！	羅曼	海涅州的那篇報導，我也看到了。\n身為妳的同伴，沒有比這更開心的事了！
+TalkEvent_07_002ID	4	Roman	ロマン	やはり錬金術は、世界を繁栄に導く素晴らしい技術だ！	Roman	Alchemy truly can lead the world to prosperity!	罗曼	炼金术果然是能引领这个世界走向繁荣的精妙技术！	羅曼	鍊金術果然是能引導世界邁向繁榮的美好技術啊！
+TalkEvent_07_002ID	5	Resna	レスナ	は、はい。その思いは私も同じですが……	Resna	Yes, I feel the same way. But...	蕾斯娜	是、是的，我也这么想……	蕾斯娜	是、是的。我也是這樣想的……
+TalkEvent_07_002ID	6	Roman	ロマン	うん？　ちょっぴり浮かない顔をしているね、レスナ？\nロマン相談室に相談してみてよ	Roman	Hmm? You look a little down, Resna. Your good friend Roman is always ready to lend an ear!	罗曼	嗯？你不太开心啊，蕾斯娜？\n来罗曼咨询室向我倾诉一下吧？	羅曼	嗯？蕾斯娜，妳怎麼有點愁眉苦臉？\n讓羅曼諮詢室陪妳聊聊吧。
+TalkEvent_07_002ID	7	Resna	レスナ	その……新聞に載ったと聞いたので、もう少し\n錬金術が見直されるかなと思っていたんです	Resna	Well, when I heard it got published, I hoped it would shine a new light on alchemy...	蕾斯娜	我听说……事情登报了，\n以为炼金术能比以往多得到一些关注。	蕾斯娜	那個……我本來想說鍊金術登上了報紙，\n應該能讓大家稍微改觀才對。
+TalkEvent_07_002ID	8	Resna	レスナ	でも、実際にはそういう手応えはあまり\n感じていなくて	Resna	But I didn't actually feel the response amounted to much.	蕾斯娜	但现实中我并没有感受到这种氛围。	蕾斯娜	但是，\n實際上卻沒有感受到這種反應。
+TalkEvent_07_002ID	9	Roman	ロマン	歯がゆい気持ちはよく分かるさ。本気で取り組んでる\nからこそ感じる気持ちだからね	Roman	I understand that frustration. It's evidence of your deep commitment to this.	罗曼	我很明白你焦急的心情。\n正是因为你有认真去做，所以才会这么想。	羅曼	我很能理解妳焦急的感受。正因為妳全力以赴了，\n所以更容易有這種感受。
+TalkEvent_07_002ID	10	Roman	ロマン	でも、悲観することはないさ！\n大きな一歩を踏み出したのだから	Roman	But this is nothing to cry over! It is, in fact, a great step forward!	罗曼	但是不用悲观！\n因为你已经迈出了一大步。	羅曼	但是，不需要太悲觀！\n我們已經向前跨出了一大步。
+TalkEvent_07_002ID	11	Roman	ロマン	確かに大きな反響はなかったかもしれないけど、\n錬金術は確実に認知されたはずだからね	Roman	True, the response might not have been overwhelming, but alchemy has definitely gained recognition.	罗曼	这件事或许是没有造成多么强烈的反响，\n但应该有让人们切实地认识到炼金术这种事物。	羅曼	或許沒有很大的迴響，\n不過大眾肯定認識到鍊金術了。
+TalkEvent_07_002ID	12	Resna	レスナ	そう、なんでしょうか	Resna	Do you really think so?	蕾斯娜	是吗……	蕾斯娜	是……這樣嗎？
+TalkEvent_07_002ID	13	Roman	ロマン	君も知っての通り、錬金術に対する世間の見方は\nあまり芳しいものではない	Roman	As you well know, the world does not look very favorably upon alchemy.	罗曼	正如你所知道的，\n世人对炼金术的态度称不上正面。	羅曼	如妳所知，\n社會上對鍊金術的觀感不怎麼好。
+TalkEvent_07_002ID	14	Roman	ロマン	知られていないだけならまだしも、もう枯れた技術だと\n蔑む者もいれば、得体の知れない術だと怪しむ者もいる	Roman	It's one thing for it to be unknown, but it's another when some dismiss it as a dead art, and more still when others view it with suspicion because they can't learn it themselves.	罗曼	要是完全一无所知也就算了，但还有人轻蔑地\n称它为枯竭的技术，也有人怀疑这是来路不明的法术。	羅曼	如果只是不為人知也就算了，但鍊金術不僅被人鄙視為\n凋零的技術，還有人認為這是一種可疑的法術。
+TalkEvent_07_002ID	15	Resna	レスナ	はい、残念ですけど	Resna	Yes, it's really unfortunate.	蕾斯娜	是的，很遗憾人们会这么想。	蕾斯娜	是啊，真遺憾。
+TalkEvent_07_002ID	16	Roman	ロマン	そういう印象は簡単には拭えないさ。\n今はまだ、みんな様子見をしているんだろうね	Roman	These assumptions won't be easy to dispel. People may be watching to see how things play out for now.	罗曼	这种印象没那么容易扭转。\n大家现在也还在观望吧。	羅曼	要消除這種印象並不容易。\n我想大家現在都還在觀察吧。
+TalkEvent_07_002ID	17	Roman	ロマン	だが少なくとも、実際に君の錬金術によって救われた\nハイネ州の人々は、良い印象を持ったはず	Roman	But at the very least, the people of Haine that you helped will have a good impression of alchemy now.	罗曼	但至少，你的炼金术帮助了海涅州的人们，\n他们对炼金术肯定是有好印象的。	羅曼	不過，至少實際被妳的鍊金術拯救的海涅州居民，\n肯定會抱持不錯的印象。
+TalkEvent_07_002ID	18	Roman	ロマン	それに私は信じているよ。水に投げた小石がやがて\n大きな波紋を描くように、錬金術は広まっていくってね	Roman	I am certain of it—just as a stone cast into water creates great ripples, so too shall alchemy spread.	罗曼	而且我也相信，炼金术风潮会就此扩大，\n就像往水中扔小石子会泛起远远的涟漪一样。	羅曼	而且我相信──就像投入水中的小石子能泛開\n大漣漪一樣，鍊金術肯定也會逐漸興盛起來的。
+TalkEvent_07_002ID	19	Roman	ロマン	我々の夢はこれから大きく広がっていくさ！\n大丈夫、絶対にね！	Roman	Our dreams will grow even bigger! It will all work out! I just know it!	罗曼	我们的梦想会拥有更广阔的前景！\n放心吧，这是肯定的！	羅曼	我們的夢想會在今後開枝散葉的！\n沒問題，一定會成功！
+TalkEvent_07_002ID	20	Resna	レスナ	ロマンさん……！\nそうですよね、まだまだこれからですよね！	Resna	Roman... You're right. This is only the beginning!	蕾斯娜	罗曼先生……！\n也对，一切才刚刚开始！	蕾斯娜	羅曼先生……！\n你說得沒錯，一切才正要開始！
+TalkEvent_07_002ID	21	Resna	レスナ	今の演説、心に染みました。ロマンさんの\n不思議な魅力ですね	Resna	Your speech just now really touched my heart. It must be your mysterious charm!	蕾斯娜	刚才的演说真是振奋人心啊。\n这就是罗曼先生神奇的号召力。	蕾斯娜	這番話讓我感觸很深。這是羅曼先生\n不可思議的魅力呢。
+TalkEvent_07_002ID	22	Resna	レスナ	そういえば、ロマンさんはどうしてアトリエに？\n以前言っていた野暮用は、もう済んだんですか？	Resna	By the way, what brings you here? Are you finished with that personal matter you mentioned before?	蕾斯娜	说起来，罗曼先生怎么会来炼金工房？\n你之前说的杂事已经忙完了吗？	蕾斯娜	對了，你為什麼會來鍊金工房呢？\n你之前說過有事情要處理，已經處理完了嗎？
+TalkEvent_07_002ID	23	Roman	ロマン	ああ、そうなんだ。今日訪れた用件はまさに\nそのことでね	Roman	Oh, yes. That. That's actually the reason I'm here.	罗曼	啊，其实是这样的，\n我来这里就是为了那件杂事。	羅曼	嗯，沒錯。我今天就是為了這件事\n才來拜訪的。
+TalkEvent_07_002ID	24	Roman	ロマン	さあ、これを受け取ってくれるかい！	Roman	Here, take one!	罗曼	你能收下这张邀请函吗！	羅曼	來，妳們願意收下這個嗎？
+TalkEvent_07_002ID	25	Resna	レスナ	「ロマン大発表会」？	Resna	"""Roman's Big Announcement""?"	蕾斯娜	“罗曼的大发布会”？	蕾斯娜	「羅曼的大發表會」？
+TalkEvent_07_002ID	26	Roman	ロマン	ああ。衝撃の事実を皆に伝えるつもりなのさ！	Roman	Yes. I'm going to tell the world the hard-hitting truth!	罗曼	嗯，我打算告诉大家一个冲击力十足的事实。	羅曼	嗯。我打算向大家發表一項震撼的事實！
+TalkEvent_07_002ID	27	Roman	ロマン	カフェ「星の繭」で行うから、ぜひ来てくれたまえ！	Roman	I'll be holding the event at the Star's Cocoon. Please come by!	罗曼	发布会将在咖啡厅“星之茧”举行，请务必来参加！	羅曼	發表會地點在「星之繭」咖啡廳，一定要來喔！
+TalkEvent_07_002ID	28	Resna	レスナ	衝撃の事実！？　き、気になります！\nこっそり教えてください	Resna	The hard-hitting truth?! I'm so curious! Can you give me a hint?	蕾斯娜	冲击力十足的事实？！好、好在意啊！\n请悄悄告诉我。	蕾斯娜	震撼的事實！？我、我好好奇！\n偷偷告訴我吧。
+TalkEvent_07_002ID	29	Roman	ロマン	それはだね……これだっ！	Roman	Why, it's...THIS!	罗曼	这个嘛……请看！	羅曼	那就是……這個！
+TalkEvent_07_002ID	30	Resna	レスナ	わ、わぁっ！？	Resna	Whoa!	蕾斯娜	哇、哇？！	蕾斯娜	哇、哇啊！？
+TalkEvent_07_002ID	31	Roman	ロマン	内容は当日のお楽しみ！　カフェでまた会おう！	Roman	I'll reveal what's inside at the event! See you at the cafe!	罗曼	敬请期待当天的内容！我们咖啡厅再见！	羅曼	詳情在當日就會揭曉！我們咖啡廳不見不散！
+TalkEvent_07_002ID	32	Resna	レスナ	うぅ。またごまかされちゃった。\nああ、床がこんなに散らかって……	Resna	Aww. Another trick. Oh, they're all over the floor, too.	蕾斯娜	呜……又被搪塞过去了。\n真是的，弄得满地都是……	蕾斯娜	嗚嗚。又被他糊弄過去了。\n啊～地板到處都是紙片……
+TalkEvent_07_002ID	33	Resna	レスナ	発表ってなんなんだろう……？	Resna	What could this announcement possibly be?	蕾斯娜	他到底要发布什么呢……？	蕾斯娜	他到底要發表什麼呢……？
+TalkEvent_07_003ID	0	Valeria	ヴァレリア	ねぇ、ここにあるやつ食べていい？	Valeria	Hey, can I eat this?	瓦莱莉娅	我说，我能吃掉这些东西吗？	瓦萊莉婭	嘿，我可以吃這個嗎？
+TalkEvent_07_003ID	1	Lanze	ランツェ	なんだお前、さっき飯食ったばっかだろ？	Lanze	What? Didn't ya just eat a full meal already?	兰泽	你不是才吃过饭？	藍澤	搞什麼，妳剛剛不是才吃過飯了？
+TalkEvent_07_003ID	2	Valeria	ヴァレリア	だってフロッケのご飯、美味しいんだもん。\nだもーん	Valeria	Yeah, but Flocke's food is just sooo good.	瓦莱莉娅	因为芙洛可做的饭很好吃嘛，\n就是很好吃嘛。	瓦萊莉婭	因為芙洛可做的飯太好吃了嘛。\n嗯～
+TalkEvent_07_003ID	3	Lanze	ランツェ	お前なぁ……最近だらしねぇぞ。\n食って寝て、寝て食って……牛になったら出荷するぞ	Lanze	You've been so shameless lately. Ya eat, ya sleep; ya sleep, ya eat... If you end up a cow, I'll ship ya off to market, mark my words.	兰泽	你最近太懒散了吧……\n吃完就睡，睡醒就吃……等你吃成牛我就卖了你。	藍澤	妳啊……最近很邋遢喔。\n只知道吃飯睡覺……如果妳是肉牛，早就被賣掉了。
+TalkEvent_07_003ID	4	Valeria	ヴァレリア	お父さんにそんなこと言われたら\n娘は反抗期になっちゃうわよ	Valeria	If my dad said that to me, I'd start rebelling straight away.	瓦莱莉娅	爸爸对女儿说这种话，\n女儿可是要进入叛逆期的。	瓦萊莉婭	被爸爸這樣說的話，\n女兒可是會變得叛逆喔。
+TalkEvent_07_003ID	5	Lanze	ランツェ	俺は人間のダメな時を見分けるのが上手いんだ。\n今、お前は相当にダメだぞ。間違いない！	Lanze	I'm good at spottin' when someone's losin' their edge. And you've gotten dull. No doubt about that!	兰泽	我很会判断一个人是否处于懒惰状态中哦，\n你现在可是相当懒惰，准没错！	藍澤	我很擅長分辨正在墮落的人。\n妳現在的情況非常危險。我敢保證！
+TalkEvent_07_003ID	6	Valeria	ヴァレリア	え、そんなに！？	Valeria	Seriously?!	瓦莱莉娅	咦，有那么严重吗？！	瓦萊莉婭	咦，這麼糟嗎！？
+TalkEvent_07_003ID	7	Valeria	ヴァレリア	……ごろごろするって、癖になるから怖いわ。\nしゃっきりしなきゃ	Valeria	...I don't want to get in the habit of being lazy. I need to get my act together.	瓦莱莉娅	……无所事事的确实很容易上瘾，真吓人。\n我得振作精神才行。	瓦萊莉婭	懶惰會變成習慣呢……真可怕。\n我得振作才行。
+TalkEvent_07_003ID	8	Lanze	ランツェ	そうしろ。毎日規則正しい生活をして\n生まれ変わった俺を見習え	Lanze	Yeah. Take a page from my book. I've turned a new leaf and now I'm livin' a normal life.	兰泽	就是啊。学学洗心革面后的我，\n我现在可是每天都过着作息规律的生活。	藍澤	沒錯。學學已經改頭換面的我，\n每天的作息多麼規律。
+TalkEvent_07_003ID	9	Heidi	ハイディ	ただいまー。あれ？　ヴァレリア、おっさんになんか\n叱られてんの？	Heidi	I'm home! Huh? Valeria, are you getting a lecture from the old man?	海蒂	我回来啦。\n咦？瓦莱莉娅，你被大叔骂了吗？	海蒂	我回來了～咦？瓦萊莉婭，\n妳被大叔罵了？
+TalkEvent_07_003ID	10	Valeria	ヴァレリア	ハイディ！　ちゃんと鍛えるから見捨てないで！\n少し休もうとしただけなのよ、そしたらズルズル……	Valeria	Heidi! I'm going right back to training, so please don't abandon me! I just wanted to take a quick break, but then it kind of kept going...	瓦莱莉娅	海蒂！我会好好锻炼的，别丢下我！\n我只想稍微休息一下，结果不小心休息了太久……	瓦萊莉婭	海蒂！我會好好鍛練的，別丟下我！\n我只是想休息一下，結果就……
+TalkEvent_07_003ID	11	Heidi	ハイディ	な、なに！？　どしたの！？	Heidi	What?! Are you ok?!	海蒂	什、什么？！怎么回事啊？！	海蒂	什、什麼！？怎麼回事！？
+TalkEvent_07_003ID	12	Lanze	ランツェ	ここんとこ、ヴァレリアの奴がぶったるんでるんで、\nちょっとばかし発破かけただけだ	Lanze	That's 'cause I was givin' Valeria a talkin' to since she's been slackin' off these days.	兰泽	最近瓦莱莉娅太松懈了，\n我说得重了点，激了她一下。	藍澤	因為瓦萊莉婭最近有點懶散，\n我只是在勸導她。
+TalkEvent_07_003ID	13	Heidi	ハイディ	それじゃ相棒、ちょいと身体を動かしに行く？	Heidi	All right, partner. Ready to get some exercise?	海蒂	那么搭档，我们去活动一下筋骨吧？	海蒂	那……搭檔，要不要去舒展一下筋骨？
+TalkEvent_07_003ID	14	Heidi	ハイディ	王都の近くの採掘場跡で、\nいい素材が見つかるって話を仕入れたんだけど	Heidi	I've heard there's an old mining site close to the capital where some good materials can be found.	海蒂	听说在王都附近的采掘场遗迹里能找到不错的素材。	海蒂	王都附近有個挖掘場遺跡，\n聽說那裡能找到不錯的素材。
+TalkEvent_07_003ID	15	Valeria	ヴァレリア	いい素材？	Valeria	Good materials?	瓦莱莉娅	不错的素材？	瓦萊莉婭	不錯的素材？
+TalkEvent_07_003ID	16	Heidi	ハイディ	そうそう。錬金術の腕を磨くって言ってたでしょ？	Heidi	Yeah. You said you wanted to polish your alchemy skills, right?	海蒂	没错，你不是说过要锻炼炼金术本领吗？	海蒂	沒錯。妳不是說過想精進鍊金術嗎？
+TalkEvent_07_003ID	17	Valeria	ヴァレリア	うん！　行く！\n錬金術士としても、少しでもレスナの力になれるように	Valeria	Yeah! Let's do it! As an alchemist, I want to do whatever I can to help Resna!	瓦莱莉娅	嗯！我要去！\n我也想以炼金术士身份尽力帮助蕾斯娜。	瓦萊莉婭	嗯！我要去！\n身為鍊金術士，我想幫上蕾斯娜的忙。
+TalkEvent_07_003ID	18	Valeria	ヴァレリア	ついでに、なまった身体を鍛え直さなきゃ！\nハイディ、行きましょ！	Valeria	Plus, It'll let me train my body too! Let's go, Heidi!	瓦莱莉娅	顺便也得锻炼一下懈怠的身体！\n海蒂，我们走吧！	瓦萊莉婭	順便動一動僵硬的身體！\n海蒂，走吧！
+TalkEvent_07_003ID	19	Lanze	ランツェ	ま、うちの食料を食い尽くす前に行ってこい	Lanze	Then off with ya, before you eat up all the food.	兰泽	在吃光我们的食物前赶紧出去吧。	藍澤	快趁家裡的食物被吃光前出發。
+TalkEvent_07_003ID	20	Heidi	ハイディ	あはは。\nフロッケが帰ってきたらよろしく言っといてね！	Heidi	Ahaha. Give Flocke my thanks when you see her!	海蒂	哈哈。\n等芙洛可回家了麻烦代我问好！	海蒂	啊哈哈。\n芙洛可回來後請替我向她問好！
+TalkEvent_07_003ID	21	Valeria	ヴァレリア	行ってきまーす！	Valeria	We're off!	瓦莱莉娅	我出门啦！	瓦萊莉婭	我們出發了～！
+TalkEvent_07_004ID	0	Valeria	ヴァレリア	採掘場、さっいくつじょう、ふっふっふーん	Valeria	"A ""mining site,"" huh? Hm, hm, hmm."	瓦莱莉娅	采掘场～采掘场～哼哼哼——	瓦萊莉婭	挖掘場、挖掘場～呵呵呵～
+TalkEvent_07_004ID	1	Heidi	ハイディ	あんまりはしゃぐと、採取する前にお腹空いちゃうよ？	Heidi	Don't get too excited, or else you'll get hungry before we even start collecting.	海蒂	太兴奋的话，还没等开始采集你就会饿了哦？	海蒂	要是興奮過頭，採集前就會先肚子餓喔？
+TalkEvent_07_004ID	2	Valeria	ヴァレリア	それは困るわね……ん？　魔物？	Valeria	That would be bad... Huh? A monster?	瓦莱莉娅	那就难办了……嗯？魔物？	瓦萊莉婭	那可就麻煩了……咦？魔物？
+TalkEvent_07_004ID	3	Esty	エスティ	てやぁぁぁっ！	Esty	Hiyaaah!	艾丝缇	喝啊——！	艾絲緹	喝啊啊啊！
+TalkEvent_07_004ID	4	Esty	エスティ	ふう……結構やるわね	Esty	Phew... It's strong.	艾丝缇	呼……有两下子嘛。	艾絲緹	呼……挺有一套的嘛。
+TalkEvent_07_004ID	5	Heidi	ハイディ	あ！　あそこで魔物と戦ってんの、エスティさんじゃない！	Heidi	Oh! Isn't that Esty over there fighting it?	海蒂	啊！在跟魔物战斗的人不是艾丝缇小姐吗！	海蒂	啊！和魔物戰鬥的不是艾絲緹小姐嗎？
+TalkEvent_07_004ID	6	Valeria	ヴァレリア	押されてる！　助けましょ！	Valeria	She's having trouble! We need to help her!	瓦莱莉娅	她被魔物压制住了！我们去帮帮她吧！	瓦萊莉婭	她正處在下風！我們去幫忙吧！
+TalkEvent_07_004ID	7	Valeria	ヴァレリア	はぁぁっ！	Valeria	Haaah!	瓦莱莉娅	哈——！	瓦萊莉婭	喝啊！
+TalkEvent_07_004ID	8	Heidi	ハイディ	大丈夫！？	Heidi	Are you okay?!	海蒂	你没事吧？！	海蒂	沒事吧！？
+TalkEvent_07_004ID	9	Esty	エスティ	あら、あなたたち。また会ったわね	Esty	Oh, it's you two. We meet again.	艾丝缇	哎呀，是你们啊，又见面了。	艾絲緹	哎呀，是妳們。又見面了呢。
+TalkEvent_07_004ID	10	Valeria	ヴァレリア	ずいぶん手こずってるみたいじゃない	Valeria	It looks pretty tough.	瓦莱莉娅	对手似乎挺难对付的嘛。	瓦萊莉婭	妳看起來遇到困難了。
+TalkEvent_07_004ID	11	Esty	エスティ	そうなのよ。何だか気が立ってるみたいで	Esty	Yeah, and it looks agitated too.	艾丝缇	是啊，它好像特别激动。	艾絲緹	是啊。牠似乎情緒有點激動。
+TalkEvent_07_004ID	12	Heidi	ハイディ	私らもこの先に用があるんだ。加勢するよ！	Heidi	We have business here too, so we'll help you out!	海蒂	我们也来帮你，反正我们也得继续前进。	海蒂	我們也正好有事要辦。一起合作吧！
+TalkEvent_07_004ID	13	Esty	エスティ	ええ、お願い！	Esty	Thanks, please do!	艾丝缇	嗯，拜托你们了！	艾絲緹	嗯，拜託了！
+TalkEvent_07_004ID	14	Valeria	ヴァレリア	よーし。ちゃっちゃと終わらせるわよ！	Valeria	Okay! Let's get this over with!	瓦莱莉娅	好，三下五除二解决魔物吧！	瓦萊莉婭	好～讓我們速戰速決！
+TalkEvent_07_005ID	0	Esty	エスティ	はぁぁぁっ！	Esty	Haaah!	艾丝缇	哈——！	艾絲緹	喝啊啊啊！
+TalkEvent_07_005ID	1	Valeria	ヴァレリア	ふぅ～。確かになかなか手ごわいヤツだったわね	Valeria	Phew... This one put up quite a fight.	瓦莱莉娅	呼～的确挺棘手的。	瓦萊莉婭	呼～確實是相當難纏的對手。
+TalkEvent_07_005ID	2	Esty	エスティ	普段はこんな凶暴な魔物じゃないはずなんだけどね	Esty	They're usually not this violent.	艾丝缇	这种魔物平时并不会这么凶暴。	艾絲緹	這魔物平常應該沒那麼凶暴才對。
+TalkEvent_07_005ID	3	Heidi	ハイディ	いつもより凶暴な魔物、ねぇ……なんなんだろ？	Heidi	Suddenly aggressive monsters, huh? I wonder what's going on.	海蒂	魔物变得比平时凶暴是吗……这是为什么呢？	海蒂	魔物比平常更加凶暴……到底為什麼？
+TalkEvent_07_005ID	4	Esty	エスティ	私は街に戻るつもりだけど、\nあなたたちはどこかへ行く途中なんだっけ？	Esty	I'm about to head back to town. You said you're about to go somewhere?	艾丝缇	我打算返回城镇，\n你们还要继续赶路吧？	艾絲緹	我正準備回鎮上，\n妳們打算去哪裡呢？
+TalkEvent_07_005ID	5	Valeria	ヴァレリア	採掘場跡まで素材を採りに行くのよ	Valeria	We're going to the old mining site to collect materials.	瓦莱莉娅	嗯，我们打算去采掘场遗迹采集素材。	瓦萊莉婭	我們要去挖掘場遺跡採集素材。
+TalkEvent_07_005ID	6	Esty	エスティ	そう。じゃあ気を付けてね。また会いましょ	Esty	I see. Well, take care then. I hope to see you around soon.	艾丝缇	这样啊，那路上小心，再见。	艾絲緹	這樣啊。要注意安全喔。期待再次見面。
+TalkEvent_07_005ID	7	Heidi	ハイディ	それじゃ、私たちも行こっか	Heidi	Okay, let's be off!	海蒂	那我们也走吧。	海蒂	那我們也出發吧。
+TalkEvent_07_005ID	8	Valeria	ヴァレリア	あれ、アーシャ？	Valeria	Huh? Ayesha?	瓦莱莉娅	咦，爱夏？	瓦萊莉婭	咦，愛夏？
+TalkEvent_07_005ID	9	Ayesha	アーシャ	あ、ヴァレリアさんとハイディさん！	Ayesha	Oh! Valeria and Heidi!	爱夏	啊，是瓦莱莉娅小姐和海蒂小姐！	愛夏	啊，是瓦萊莉婭小姐和海蒂小姐！
+TalkEvent_07_005ID	10	Heidi	ハイディ	アーシャ、その格好どうしたの！？	Heidi	Ayesha, what's with that outfit?!	海蒂	爱夏，你怎么穿成这样？！	海蒂	愛夏，妳怎麼打扮成這樣！？
+TalkEvent_07_005ID	11	Ayesha	アーシャ	あ、これは……えっと。薬士として王宮に勤めることに\nなってしまって、それで……	Ayesha	Oh, this? Um, I've started working as a royal apothecary.	爱夏	啊，这个……其实是这样，\n我要在王宫当药师了，所以……	愛夏	啊，這是……那個。我正式成為王宮的藥師了，\n所以……
+TalkEvent_07_005ID	12	Valeria	ヴァレリア	ええっ！？　ちょっと見ない間に大出世じゃない！？\nすごいわね！	Valeria	What?! You've made it to the royal palace already?! Amazing!	瓦莱莉娅	咦？！没多久不见你就出人头地了啊？！\n太厉害了吧！	瓦萊莉婭	咦！？才一陣子沒見，妳就飛黃騰達了！？\n真厲害！
+TalkEvent_07_005ID	13	Ayesha	アーシャ	そ、それほどでも……王宮の関係者の人から、\n薬の知識を買われたといいますか……	Ayesha	It's really nothing. Someone in the palace just wanted me for my medicinal expertise is all.	爱夏	也、也没那么厉害……\n只是王宫的相关人员看中了我的药物知识……	愛夏	還、還好啦……\n只是剛好被王宮的人看中我的藥理知識……
+TalkEvent_07_005ID	14	Heidi	ハイディ	そっかぁ。\nいやぁ、自分のことじゃないのになんだか誇らしいね	Heidi	I see. But even still, that's really remarkable.	海蒂	这样啊。哎呀，虽然不是自己受到赏识，\n但我还是觉得好骄傲。	海蒂	這樣啊。\n哎呀～明明不是自己的成就，卻感到很驕傲呢。
+TalkEvent_07_005ID	15	???	？？？	アーシャ、知り合いの方ですか？	???	Do you know these people, Ayesha?	？？？	爱夏，你认识她们吗？	？？？	愛夏，妳們認識嗎？
+TalkEvent_07_005ID	16	Ayesha	アーシャ	ヴァレリアさんにハイディさんです。ニオが南に\n調査に行く時にも護衛してもらったんですよ\n	Ayesha	This is Valeria and Heidi. They escorted Nio when she went south to survey.	爱夏	这两位是瓦莱莉娅小姐跟海蒂小姐，\n妮欧去南方调查的时候请她们当过护卫。	愛夏	這兩位是瓦萊莉婭小姐和海蒂小姐。妮歐去南方調查時，\n曾請她們擔任護衛。
+TalkEvent_07_005ID	17	???	？？？	そうですか。ニオがお世話になりました	???	Is that so? Thank you for taking care of her.	？？？	还有这回事。谢谢你们照顾妮欧。	？？？	這樣啊。感謝兩位照顧妮歐。
+TalkEvent_07_005ID	18	???	？？？	私はオディーリアと申します。\nアーシャの助手をしています	???	My name is Odelia. I am assisting Ayesha.	？？？	我是奥迪莉雅，现在在当爱夏的助手。	？？？	我叫奧迪莉雅。\n是愛夏的助手。
+TalkEvent_07_005ID	19	Heidi	ハイディ	あ、どうも。\nアーシャの助手ってことは、王宮の人？	Heidi	Nice to meet you. If you're her assistant, does that mean you're from the palace?	海蒂	啊，你好。\n既然是爱夏的助手，那你也是王宫的人？	海蒂	啊，妳好。\n既然是愛夏的助手，那妳也是王宮的人囉？
+TalkEvent_07_005ID	20	Odelia	オディーリア	いえ。私はこの世界の言葉で言う「異邦人」です。以前\nはマスターやアーシャたちと行動を共にしていました	Odelia	"Not quite. I'm what this world calls a ""wanderer."" I used to work alongside Master and Ayesha."	奥迪莉雅	不，用这个世界的话说，我算是“异邦人”。\n我以前跟主人和爱夏他们共同行动过。	奧迪莉雅	不，在這個世界，我也是所謂的「異邦人」。\n曾和主人及愛夏她們一同行動。
+TalkEvent_07_005ID	21	Valeria	ヴァレリア	「マスター」って、誰？	Valeria	"""Master""? Who is that?"	瓦莱莉娅	“主人”是谁？	瓦萊莉婭	「主人」是誰？
+TalkEvent_07_005ID	22	Ayesha	アーシャ	わたしのお師匠様みたいな人なんです	Ayesha	He is like a teacher to me.	爱夏	那个人可以说相当于我的师父。	愛夏	像我的師父一般的人。
+TalkEvent_07_005ID	23	Ayesha	アーシャ	元の世界では、オディーリアさんやニオと一緒に\n研究の旅をしてたんですよ	Ayesha	In our home world, we traveled together with Odelia and Nio on a research trip.	爱夏	我在原来的世界，曾经跟奥迪莉雅小姐还有妮欧\n一起为了研究出门旅行过。	愛夏	在原本的世界，我、奧迪莉雅小姐和妮歐\n是一起踏上研究之旅的夥伴。
+TalkEvent_07_005ID	24	Valeria	ヴァレリア	ってことは、ここにもその研究のために来たの？	Valeria	Does that mean you've come here for research too?	瓦莱莉娅	那你们来这里也是为了做研究？	瓦萊莉婭	也就是說，妳們來這裡也是為了研究嗎？
+TalkEvent_07_005ID	25	Ayesha	アーシャ	あ、それとは別なんです。王宮の薬士として、\nお薬の素材を研究しようと思いまして	Ayesha	Actually, not quite. Since I'm a royal apothecary, I thought I could research medicinal materials here.	爱夏	啊，那倒不是。\n这次是作为王宫药师，想研究药物素材。	愛夏	啊，這是兩回事。我這次是以王宮藥師的身分\n進行藥材研究。
+TalkEvent_07_005ID	26	Ayesha	アーシャ	お二人は、何か素材を探しに来たんですか？	Ayesha	Have you come to search for some materials as well?	爱夏	你们呢，来这里是想寻找素材吗？	愛夏	妳們是來尋找素材的嗎？
+TalkEvent_07_005ID	27	Valeria	ヴァレリア	うん。いい素材が採れるって話だから。私、錬金術を\n練習しようと思って	Valeria	Yeah, we heard there were some high-quality ones here. I'm training to be an alchemist.	瓦莱莉娅	嗯，听说在这里能收集到不错的素材。\n我也想练习一下炼金术。	瓦萊莉婭	嗯。因為聽說這裡能蒐集到不錯的素材。\n我想藉此練習鍊金術。
+TalkEvent_07_005ID	28	Ayesha	アーシャ	そうなんですね！　それなら一緒に探しませんか？	Ayesha	Really now! Shall we search together then?	爱夏	这样啊！那我们一起去找素材吧？	愛夏	原來如此！要不要和我們一起找呢？
+TalkEvent_07_005ID	29	Valeria	ヴァレリア	ホント？　アーシャが一緒だと助かるわ！	Valeria	Can we? It would be a relief to have you with us!	瓦莱莉娅	可以吗？能跟爱夏一起行动就轻松多了！	瓦萊莉婭	真的嗎？有愛夏在簡直就是幫了大忙！
+TalkEvent_07_005ID	30	Ayesha	アーシャ	わたしもです！　じゃあ早速、頑張りましょう！	Ayesha	Me as well! Let's begin at once!	爱夏	我也会轻松许多！那我们这就一起出发吧！	愛夏	我也是！那我們趕快開始吧！
+TalkEvent_07_005ID	31	Odelia	オディーリア	アーシャの助手を務めている女性。\n金属製の羽やネジ巻きのようなものを身に纏っている	Odelia	A woman working as Ayesha's assistant. Her body is adorned with what seems like metallic wings and a wind-up screw.	奥迪莉雅	担任爱夏助手的女性。\n身上装有金属翅膀与发条等物。	奧迪莉雅	愛夏的女性助手。\n身上有著類似金屬翅膀及發條般的物體。
+TalkEvent_07_006ID	0	Valeria	ヴァレリア	それにしても……採掘場跡って広いのねぇ。\nそういえば、ここって何を掘るための場所なの？	Valeria	This mine sure is big. What were they even trying to mine, anyway?	瓦莱莉娅	不过……采掘场遗迹好大啊，\n这个地方原本是用来开采什么的？	瓦萊莉婭	話說回來……挖掘場遺跡還真大呢。\n對了，這裡本來是開採什麼的地方啊？
+TalkEvent_07_006ID	1	Heidi	ハイディ	どうやら、マナを掘ってたみたいだよ。\n国を挙げての事業だったらしいね	Heidi	Looks like mana. I heard it was a nationwide project.	海蒂	好像是用来开采玛那的。\n似乎还是一项举全国之力推进的工程。	海蒂	聽說似乎是瑪那。\n而且還是國營事業。
+TalkEvent_07_006ID	2	Valeria	ヴァレリア	マナって……錬金術に使うマナ？	Valeria	Mana? You mean the same stuff alchemists use?	瓦莱莉娅	玛那……是炼金术中会用到的玛那？	瓦萊莉婭	瑪那……是用在鍊金術的瑪那？
+TalkEvent_07_006ID	3	Odelia	オディーリア	王宮の記録によると、この星自体からマナを抽出する、\nという目的で数年前に建設されたもののようです	Odelia	According to palace records, it was built several years ago to extract mana from this planet.	奥迪莉雅	根据王宫的记录，这个地方是数年前\n为了抽取这颗星球的玛那而建设的。	奧迪莉雅	王宮的紀錄顯示，這座挖掘場是數年前\n為了提取這顆星球的瑪那而建。
+TalkEvent_07_006ID	4	Valeria	ヴァレリア	この星から？	Valeria	From the planet?	瓦莱莉娅	这颗星球？	瓦萊莉婭	這顆星球？
+TalkEvent_07_006ID	5	Odelia	オディーリア	マナはほうき星からもたらされるもの。ならば、この星\nにも同様にマナが眠っているのではないか――	Odelia	Mana comes from comets. Which means there should be some lying dormant on this planet as well.	奥迪莉雅	玛那是彗星带来的。\n那么这颗星球内部可能也同样沉睡着玛那——	奧迪莉雅	瑪那來自於彗星。\n因此，或許這顆星球上也蘊藏著瑪那──
+TalkEvent_07_006ID	6	Odelia	オディーリア	事業の計画者はそう考えたようです	Odelia	Or at least the planners of this project seemed to think so.	奥迪莉雅	工程规划者似乎是这么认为的。	奧迪莉雅	這項事業的主導者當時這麼認為。
+TalkEvent_07_006ID	7	Valeria	ヴァレリア	ふうん、なるほど。でっかい話なのね	Valeria	Hmm, now that sounds like a big deal.	瓦莱莉娅	哦，原来是这样。够宏大的。	瓦萊莉婭	哦，原來如此。真是遠大的夢想。
+TalkEvent_07_006ID	8	Ayesha	アーシャ	でも、思ったようには採掘できなくて事業は中止に\nなってしまって、結局この採掘場は廃棄されたそうです	Ayesha	However, they weren't able to mine as much as they thought, and work was halted. It seems that this site was abandoned in the end.	爱夏	但开采并没有设想的那么顺利，后来工程中止，\n最后这个采掘场也被弃置了。	愛夏	但挖掘過程不如預期。\n最後計畫被迫中止，挖掘場也遭到廢棄。
+TalkEvent_07_006ID	9	Valeria	ヴァレリア	あれ、数年前？　錬金術が廃れたのって、\n随分と昔の話だったわよね	Valeria	Wait, you said several years ago? Didn't alchemy fall out of favor a long, long time ago?	瓦莱莉娅	咦，你说几年前？\n但炼金术荒废不是很久以前的事吗？	瓦萊莉婭	奇怪，妳說幾年前？\n鍊金術衰退已經是很久以前的事了吧？
+TalkEvent_07_006ID	10	Heidi	ハイディ	うーん。そのへんの事情はよく知らないんだけど	Heidi	Hmm, I'm afraid this is not my area of expertise.	海蒂	唔，这我就不清楚了。	海蒂	唔～這部分我也不太清楚。
+TalkEvent_07_006ID	11	Heidi	ハイディ	おおかた、王宮関係者に物好きでもいたんじゃない？\n錬金術を蘇らせてみたい、とかさ	Heidi	Maybe some palace officials still held a fondness for alchemy? They may have wished to revive it.	海蒂	估计是王宫里有幻想着复兴炼金术的好事者吧？	海蒂	大概是王宮裡有狂熱分子吧？\n想要復興鍊金術……之類的。
+TalkEvent_07_006ID	12	Valeria	ヴァレリア	錬金術を蘇らせたい……ふふ。レスナと気が合いそう	Valeria	Revive alchemy, huh? Hehe, sounds like they'd get along with Resna.	瓦莱莉娅	复兴炼金术……呵呵，跟蕾斯娜应该聊得来。	瓦萊莉婭	想要復興鍊金術……呵呵。跟蕾斯娜應該很合得來。
+TalkEvent_07_006ID	13	Valeria	ヴァレリア	その人、すごく素敵な夢を持ってる人なのね	Valeria	Resna's dream really is beautiful.	瓦莱莉娅	那个人一定是个心怀美好梦想的人。	瓦萊莉婭	那個人擁有相當美好的夢想呢。
+TalkEvent_07_006ID	14	Odelia	オディーリア	アーシャ、気を付けてください	Odelia	Ayesha, please be cautious.	奥迪莉雅	爱夏，请小心。	奧迪莉雅	愛夏，請小心周圍。
+TalkEvent_07_006ID	15	Ayesha	アーシャ	えっ？	Ayesha	Huh?	爱夏	咦？	愛夏	咦？
+TalkEvent_07_006ID	16	Odelia	オディーリア	魔物の気配がします。\nどうやら、かなり気が立っているようです	Odelia	I sense monsters. They seem to be on high alert.	奥迪莉雅	有魔物的气息。\n而且状态似乎格外兴奋。	奧迪莉雅	有魔物的氣息。\n似乎相當躁動不安。
+TalkEvent_07_006ID	17	Ayesha	アーシャ	そ、それじゃ気を付けてそうっと進んだほうが\nいいですね	Ayesha	In that case, we should take every possible precaution as we go.	爱夏	那、那我们还是悄悄前进吧，别被它注意到。	愛夏	那、那我們最好\n靜悄悄地前進。
+TalkEvent_07_007ID	0	Ayesha	アーシャ	あのう、ヴァレリアさん、ハイディさん。\nハイネ州で、ニオはどんな感じでしたか？	Ayesha	Umm, Valeria, Heidi. How was Nio in Haine?	爱夏	瓦莱莉娅小姐、海蒂小姐，我想问问你们，\n妮欧在海涅州表现得怎么样？	愛夏	那個，瓦萊莉婭小姐、海蒂小姐。\n妮歐在海涅州的情況還好嗎？
+TalkEvent_07_007ID	1	Valeria	ヴァレリア	どんな感じっていうと？	Valeria	How was she? What do you mean?	瓦莱莉娅	什么意思？	瓦萊莉婭	妳的意思是？
+TalkEvent_07_007ID	2	Ayesha	アーシャ	その……ご迷惑とか、危ないこととか……	Ayesha	Did she, uh, cause you trouble? Or put you in any danger?	爱夏	就是……有没有给你们添麻烦，或者引起危险……	愛夏	就是……有沒有添麻煩，或是遇上危險……
+TalkEvent_07_007ID	3	Heidi	ハイディ	いーや、心配しなくても大丈夫。\nニオはすごくしっかりしてたからさ	Heidi	No way. Don't you worry! She was on her best behavior.	海蒂	完全没有，你就放一百个心吧。\n妮欧她特别沉稳可靠。	海蒂	哎呀，不用擔心。\n妮歐那時候一直都很可靠。
+TalkEvent_07_007ID	4	Odelia	オディーリア	ニオはよくアーシャの世話も焼いていますから。\nとてもしっかりしています	Odelia	Nio was always a handful for Ayesha. She's quite the hard worker.	奥迪莉雅	妮欧也总是在照顾爱夏，\n是个很靠得住的人。	奧迪莉雅	妮歐也經常照顧愛夏。\n她其實很獨立喔。
+TalkEvent_07_007ID	5	Heidi	ハイディ	そうだよ。ハイネの炎石を採取する時だってさ。\nレスナを助けたりしてたし	Heidi	Yeah. She was a big help to Resna when we were looking for the Haine Fire Stone.	海蒂	是啊，在海涅州采集炎石的时候，\n她还救了蕾斯娜。	海蒂	沒錯。我們在採集海涅炎石的時候，\n她還救了蕾斯娜呢。
+TalkEvent_07_007ID	6	Ayesha	アーシャ	そうなんですね！　よかったぁ	Ayesha	Is that so? I'm glad to hear it!	爱夏	是嘛！那就好。	愛夏	原來是這樣啊！太好了～
+TalkEvent_07_007ID	7	Valeria	ヴァレリア	そうなのよ！　ハイネの炎石を見つけた時なんか、\nもう大活躍だったんだから！	Valeria	Oh yeah! And she did something amazing when we finally found it!	瓦莱莉娅	对啊！找到海涅炎石的时候，\n她的表现超级抢眼！	瓦萊莉婭	沒錯！尋找海涅炎石那次，\n她的表現真令人嘆為觀止！
+TalkEvent_07_007ID	8	Valeria	ヴァレリア	レジナが掘り出そうとしたら、炎石が崖から\n転がり落ちそうになっちゃって	Valeria	Just as Regina was digging it out, the Fire Stone nearly rolled off a cliff!	瓦莱莉娅	瑞吉娜挖出炎石的时候，\n炎石差点就要从山崖滚落……	瓦萊莉婭	當瑞吉娜打算把炎石挖出來時，\n炎石差點就掉下懸崖了。
+TalkEvent_07_007ID	9	Valeria	ヴァレリア	そしたらニオが炎石をどうにか拾おうと飛び出したの。\nちょうどその時、崖が崩れそうになってね	Valeria	Nio dashed off to grab it, and just then, the cliff began to collapse!	瓦莱莉娅	然后妮欧一跃而起扑出去接炎石，\n就在这时候，山崖开始崩塌。	瓦萊莉婭	妮歐便飛撲過去搶救那顆炎石。\n就在這時，懸崖突然崩塌了。
+TalkEvent_07_007ID	10	Ayesha	アーシャ	えっ、ニオが！？	Ayesha	Nio did that?!	爱夏	咦，妮欧她……？！	愛夏	咦，妮歐嗎！？
+TalkEvent_07_007ID	11	Valeria	ヴァレリア	そこで、私とウィルベルが一斉に動いたの！\nあの時の三人の連携は、そりゃすごかったんだから！	Valeria	Me and Wilbell moved at the same time! It was unbelievable how the three of us acted in total unison!	瓦莱莉娅	说时迟那时快，我和薇尔贝儿一起出手了！\n当时我们三人合作实在是天衣无缝！	瓦萊莉婭	說時遲那時快，我和薇爾貝兒同時出手了！\n當時我們三人的行動簡直配合得天衣無縫！
+TalkEvent_07_007ID	12	Ayesha	アーシャ	そ、それで……どうなったんですか？	Ayesha	And then what happened?	爱夏	然、然后呢……最后情况如何？	愛夏	所、所以……後來呢？
+TalkEvent_07_007ID	13	Valeria	ヴァレリア	炎石を抱えたニオを私が掴まえて、私たちを掴まえた\nウィルベルが崖の上まで引き上げてくれたの	Valeria	Nio grabbed the Fire Stone, I grabbed Nio, and Wilbell held onto us. Then, she pulled us up to the top.	瓦莱莉娅	我抓住了接住炎石的妮欧，\n然后薇尔贝儿抓住了我们，把我们送到了悬崖顶上。	瓦萊莉婭	妮歐抱住炎石、我抓住妮歐，\n薇爾貝兒把我們從懸崖邊拉上來。
+TalkEvent_07_007ID	14	Ayesha	アーシャ	えええっ！	Ayesha	Whaaat!	爱夏	什么——！	愛夏	咦咦咦！
+TalkEvent_07_007ID	15	Valeria	ヴァレリア	もう、一瞬の離れ業だったんだから！　アーシャにも\n見せてあげたか……あら、アーシャ？	Valeria	It was all over in the blink of an eye! I wish you could have seen it, Ayesha... Huh? Ayesha?	瓦莱莉娅	简直是千钧一发之际的绝招！\n真想让爱夏你也看看……咦，爱夏？	瓦萊莉婭	那瞬間還真是神乎其技！\n好想讓愛夏妳也看看……咦，愛夏？
+TalkEvent_07_007ID	16	Ayesha	アーシャ	うぅっ……ニオってば、そんな話はぜんぜん……\nそんな危ないことしてたなんて……	Ayesha	Ugh... Really, Nio? I can't believe you did something so risky...	爱夏	呜呜……妮欧都不跟我说这些……\n她居然做了这么危险的事……	愛夏	嗚嗚……妮歐這孩子，這麼危險的事……\n她竟然完全沒跟我提過……
+TalkEvent_07_007ID	17	Ayesha	アーシャ	もう。今後、危ない場所には行かせないんだから。\n妹の心配はお姉ちゃんの役目だもんね	Ayesha	Looks like I can't let her go to any more dangerous places. That's my duty as a big sister.	爱夏	真是的，今后我再也不会让她去危险的地方了。\n担心妹妹是姐姐的职责啊。	愛夏	真是的。以後再也不讓她去危險的地方了。\n畢竟保護妹妹是姊姊的職責。
+TalkEvent_07_007ID	18	Heidi	ハイディ	ふ……あはは！	Heidi	Ha... Hahaha!	海蒂	呵……哈哈哈！	海蒂	噗……啊哈哈！
+TalkEvent_07_007ID	19	Ayesha	アーシャ	ど、どうしたんですか、ハイディさん？\nわたし、何かおかしいこと言いましたか？	Ayesha	What is it, Heidi? Did I say something funny?	爱夏	怎、怎么了，海蒂小姐？\n我说了什么奇怪的话吗？	愛夏	怎、怎麼了，海蒂小姐？\n我說了什麼奇怪的話嗎？
+TalkEvent_07_007ID	20	Heidi	ハイディ	ごめん。格好が変わっちゃっても、アーシャは\nアーシャだなぁって、ほっとしちゃってさ	Heidi	Sorry. I'm just relieved that even if your appearance changes, you're still Ayesha.	海蒂	抱歉。我只是松了一口气，\n虽然你换了一身装扮，但人还是老样子嘛。	海蒂	抱歉，我只是感到放心了。\n儘管穿著改變了，愛夏依舊是愛夏。
+TalkEvent_07_007ID	21	Valeria	ヴァレリア	え？　アーシャはアーシャよ？	Valeria	Huh? Of course Ayesha is Ayesha.	瓦莱莉娅	咦？爱夏就是爱夏吧？	瓦萊莉婭	咦？愛夏當然是愛夏啊？
+TalkEvent_07_007ID	22	Odelia	オディーリア	そうですね。アーシャはアーシャです	Odelia	It's true. She is Ayesha.	奥迪莉雅	是的，爱夏就是爱夏。	奧迪莉雅	沒錯。愛夏就是愛夏。
+TalkEvent_07_007ID	23	Heidi	ハイディ	あは！　あははっ！　いや、ホントそれ……\nははは！	Heidi	Haha! Ahaha! You're sooo right! Hahaha!	海蒂	哈哈！哈哈哈！哎呀，好好笑……\n哈哈哈！	海蒂	啊哈！啊哈哈！嗯，就是說啊……\n哈哈哈！
+TalkEvent_07_007ID	24	Ayesha	アーシャ	な、なんだかひどいこと言われてませんか！？	Ayesha	Are you two making fun of me?!	爱夏	你、你们是不是在损我？！	愛夏	我、我怎麼覺得妳們在嘲笑我！？
+TalkEvent_07_008ID	0	Ayesha	アーシャ	それじゃ、このへんで少し休憩しましょうか	Ayesha	Let's take a break for now.	爱夏	那就在这里稍微休息一会儿吧。	愛夏	那我們在這附近休息一下吧。
+TalkEvent_07_008ID	1	Valeria	ヴァレリア	そうね。疲れてうっかり、穴に落ちたら大変だもん	Valeria	Yeah, if we're too tired, we might end up falling into a hole.	瓦莱莉娅	是啊，要是因为太累失手掉进洞穴里就糟了。	瓦萊莉婭	說得也是，要是累到不小心摔進坑洞就糟了。
+TalkEvent_07_008ID	2	Odelia	オディーリア	それでは私は失礼して、休憩を楽しみますので	Odelia	If you'll excuse me, I'm going to enjoy my break.	奥迪莉雅	那我就先失陪了，我想享受一下休憩时光。	奧迪莉雅	那我先去旁邊休息了。
+TalkEvent_07_008ID	3	Valeria	ヴァレリア	一口ちょーだいな	Valeria	Can I have a taste?	瓦莱莉娅	给我吃一口。	瓦萊莉婭	給我吃一口！
+TalkEvent_07_008ID	4	Heidi	ハイディ	こら！　ヴァレリア！　おもむろに手を伸ばさない	Heidi	Hey! Valeria! Don't just reach out your hand like that!	海蒂	哎呀，瓦莱莉娅！不要乱伸手要吃的！	海蒂	喂！瓦萊莉婭！不要和別人搶東西吃。
+TalkEvent_07_008ID	5	Valeria	ヴァレリア	だって、美味しそうなんだもん……	Valeria	But it looks so good!	瓦莱莉娅	谁让它看起来这么好吃……	瓦萊莉婭	因為看起來很美味嘛……
+TalkEvent_07_008ID	6	Heidi	ハイディ	う、うちの子が他人のおやつをかじろうとして、\n失礼しました！　もう、あんたって奴は……	Heidi	I'm so sorry she's trying to eat your snacks! Really now, Valeria, you're so...	海蒂	不、不好意思！我们家的孩子总想抢别人的点心。\n唉，你也真是的……	海蒂	唉……這傢伙居然打算吃別人的點心……\n真不好意思……
+TalkEvent_07_008ID	7	Valeria	ヴァレリア	でもぉ……	Valeria	But...	瓦莱莉娅	可是……	瓦萊莉婭	可是……
+TalkEvent_07_008ID	8	Odelia	オディーリア	美味しいですよ。これはアーシャが私のために\n用意してくれたお菓子ですから	Odelia	They are quite good. Ayesha prepared these sweets specially for me.	奥迪莉雅	这个很好吃哦，\n是爱夏特地为我准备的点心。	奧迪莉雅	很美味喔。\n這是愛夏特地為我準備的點心。
+TalkEvent_07_008ID	9	Ayesha	アーシャ	オディーリアさんは、甘いものが大好物なんです。\nあの、オディーリアさん……少し分けてあげたら？	Ayesha	She really loves sweets. Odelia, do you mind sharing a few?	爱夏	奥迪莉雅小姐很爱吃甜食呢。\n奥迪莉雅小姐……能分给她一些吗？	愛夏	奧迪莉雅小姐最喜歡吃甜食了。\n那……也分給她一些吧？
+TalkEvent_07_008ID	10	Odelia	オディーリア	な、なぜですか？　これは私の……	Odelia	Why? These are supposed to be for me...	奥迪莉雅	为、为什么？这是我的……	奧迪莉雅	為、為什麼？這些是我的份……
+TalkEvent_07_008ID	11	Odelia	オディーリア	ヴァレリア。もしかしてあなたも、甘いものを食べる\nことでやる気が出る性質なのでしょうか？	Odelia	Valeria. I don't suppose you're also the type that gains energy from eating sweets?	奥迪莉雅	瓦莱莉娅，\n莫非你也是吃了甜食就会有干劲的类型吗？	奧迪莉雅	瓦萊莉婭，難不成妳也是\n吃了甜食就會精神百倍的那種人嗎？
+TalkEvent_07_008ID	12	Valeria	ヴァレリア	バレちゃった！？　そうなの！　美味しいものを\n食べると、すごくやる気が出るわよね！	Valeria	Am I that easy to read?! Yeah! Delicious food always gets me all fired up!	瓦莱莉娅	被发现了？！没错！\n只要吃到好吃的，我就会特别有干劲！	瓦萊莉婭	被發現了！？沒錯！\n我只要吃到美食就會特別有精神！
+TalkEvent_07_008ID	13	Odelia	オディーリア	それなら止むを得ませんね……どうぞ。この探索を\nより良い成功に導くために、一緒に食べましょう	Odelia	Then there's nothing else to be said. Here. Let us feast in order to make this venture even more successful.	奥迪莉雅	那就没办法了……请用吧。\n为了让这场探索走向成功，我们一起吃吧。	奧迪莉雅	那就沒辦法了……請用。\n為了讓這次探索圓滿成功，我們一起分享吧。
+TalkEvent_07_008ID	14	Valeria	ヴァレリア	わぁ！　ありがとう！　……ん、美味しーい！	Valeria	Wow! Thanks! Mm, it's so good!	瓦莱莉娅	哇！谢谢你！嗯，好好吃啊——	瓦萊莉婭	哇！謝謝妳！嗯……真好吃～！
+TalkEvent_07_008ID	15	Odelia	オディーリア	はむ……はむ……	Odelia	*Munch* *Munch*	奥迪莉雅	嚼嚼……嚼嚼……	奧迪莉雅	嚼……嚼……
+TalkEvent_07_008ID	16	Heidi	ハイディ	ネ、ネジが回ったよ！？　これ、どうなってるの！？	Heidi	Your screw is turning?! What does that mean?!	海蒂	发、发条在转动？这是怎么了？！	海蒂	發、發條轉動了！？這是怎麼回事！？
+TalkEvent_07_008ID	17	Odelia	オディーリア	ん……甘いものの至福の味に酔いしれて、つい動かして\nしまったようです。無作法でしたでしょうか	Odelia	Ah, it tends to do that when I'm intoxicated by blissfully sweet tastes. Is it unseemly?	奥迪莉雅	嗯……因为我沉醉在了甜食的至高滋味中，\n一不留神就让它动起来了，这样很不合规矩吗？	奧迪莉雅	嗯……因為沉醉於甜食的幸福滋味中，\n不小心就動起來了。是不是對各位有些失禮？
+TalkEvent_07_008ID	18	Heidi	ハイディ	え？　どういう仕組みで！？	Heidi	What? How does that even work?!	海蒂	啊？这是什么原理？！	海蒂	咦？這是基於什麼原理呢！？
+TalkEvent_07_008ID	19	Odelia	オディーリア	ああ。私は「オートマタ」。精緻に造られた、\n世界最高峰の自動人形なのですよ	Odelia	Well, I am an automaton—an exquisitely crafted automatic doll, the finest the world has ever seen.	奥迪莉雅	是这样的，我是一个“自动人偶”。\n是以精妙技术制造出的世界顶尖自动人偶。	奧迪莉雅	啊，我是「自動人偶」。\n是製作精良的世界巔峰之作。
+TalkEvent_07_008ID	20	Heidi	ハイディ	自動人形！？\n人間じゃないってこと！？	Heidi	An automatic doll?! You mean you're not human?!	海蒂	自动人偶？！\n也就是说你不是人类？！	海蒂	自動人偶！？\n所以妳不是人類！？
+TalkEvent_07_008ID	21	Odelia	オディーリア	驚かせてしまったようですね。無理もありません。\n私は人類の叡智と技術の結晶ですから	Odelia	You seem to be alarmed where there is no need to be. I assure you I am the product of human technology and ingenuity.	奥迪莉雅	看来是吓到你了。也不怪你，\n我是人类智慧与技术的结晶。	奧迪莉雅	看樣子嚇到妳了。這也無可厚非，\n畢竟我是人類智慧與技術的結晶。
+TalkEvent_07_008ID	22	Valeria	ヴァレリア	へぇ。ネジを動かせるなんて面白いわね。\nお菓子ありがとう。美味しかったわ	Valeria	Wowie. That's so cool you can move your screw. Thanks for the sweets. They were amazing.	瓦莱莉娅	哇，居然能让发条转起来，有意思。\n谢谢你分给我的点心，很好吃。	瓦萊莉婭	哦～發條居然會動，真有趣。\n謝謝妳的點心，很好吃。
+TalkEvent_07_008ID	23	Odelia	オディーリア	おや。驚かないのですか？	Odelia	Oh my, you're not surprised?	奥迪莉雅	哦？你并不惊讶吗？	奧迪莉雅	哎呀，妳不驚訝嗎？
+TalkEvent_07_008ID	24	Valeria	ヴァレリア	うーん。私も角があるし、\n自分が誰なのか分からないもんね	Valeria	Nope. I've got horns myself, and I have no idea who I even am anyway.	瓦莱莉娅	唔——我头上也长着角呢，\n而且我都不清楚自己是谁。	瓦萊莉婭	唔～畢竟我頭上還有長角呢！\n也不記得自己是誰。
+TalkEvent_07_008ID	25	Valeria	ヴァレリア	オディーリアはお菓子を分けてくれたいい人だし、\nそれでいいかなーって。改めてよろしくね	Valeria	You're really nice for sharing your food. I'm glad we're doing this together.	瓦莱莉娅	奥迪莉雅是分我点心吃的好人，\n我知道这些就够啦，今后也请多指教。	瓦萊莉婭	奧迪莉雅是會分享點心的好人，\n我覺得這樣就夠了。再次請妳多多指教囉。
+TalkEvent_07_008ID	26	Odelia	オディーリア	そうですか……\nこちらこそよろしくお願いいたします	Odelia	I see. Yes, I'm happy as well.	奥迪莉雅	是吗……\n那我也请你多关照了。	奧迪莉雅	這樣啊……\n我才要請妳多多指教。
+TalkEvent_07_008ID	27	Heidi	ハイディ	いや、相棒！　もうちょっとびっくりしなよ！？	Heidi	Partner! Aren't you the least bit surprised?!	海蒂	不不，搭档！一般人都应该惊讶一下的吧？！	海蒂	我的搭檔啊！妳也表現得稍微驚訝一點吧！？
+TalkEvent_07_009ID	0	Odelia	オディーリア	これで予定していた素材は採取できたと思いますが、\nアーシャは他に何か必要なものはありますか？	Odelia	We've obtained all the materials we came for. Ayesha, is there anything else you need?	奥迪莉雅	我们想采集的素材这就到手了，\n爱夏你们还有什么要采集的东西吗？	奧迪莉雅	素材應該都蒐集完畢了。\n愛夏，妳還有需要的東西嗎？
+TalkEvent_07_009ID	1	Ayesha	アーシャ	これだけあれば大丈夫かな。調査のほうも捗ったし。\nわたしはもう帰れるよ	Ayesha	This should be enough for me. Plus, I've made progress with my research. I think I'm ready to head back.	爱夏	有这些应该就够了。调查也有了进展，\n我可以准备回去了。	愛夏	有這些大概就夠了，而且調查也進行得相當順利。\n我們可以回去了。
+TalkEvent_07_009ID	2	Heidi	ハイディ	こっちもたっぷり採取できたよ。ね、相棒	Heidi	Yeah, we got a bunch of materials as well, huh, partner?	海蒂	我们也大有收获，对吧，搭档。	海蒂	我們這邊也是滿載而歸。對吧，搭檔？
+TalkEvent_07_009ID	3	Valeria	ヴァレリア	うん。色んな素材を採取できたわ。これだけあれば、\nたっぷり練習ができそう	Valeria	Yep! We got a whole bunch of different stuff. We can practice a lot with these.	瓦莱莉娅	嗯，我们采集了很多素材，\n有了这些就能充分练习了。	瓦萊莉婭	嗯。採集到了各種素材。\n有了這些就可以盡情練習了。
+TalkEvent_07_009ID	4	Heidi	ハイディ	じゃあ、そろそろ引き上げよっか？	Heidi	All right. Guess it's time we head back then.	海蒂	那我们是时候离开了吧？	海蒂	那差不多該收工了吧？
+TalkEvent_07_009ID	5	Ayesha	アーシャ	そうですね	Ayesha	Yes.	爱夏	是呀。	愛夏	說得也是。
+TalkEvent_07_009ID	6		男Ａ	ここなら人目に付くこともねぇ	Man A	We won't be noticed here.	男性A	在这里就不会被人发现了。	男A	在這裡就不會被人發現了。
+TalkEvent_07_009ID	7		男Ａ	おうテメェらいいな。失敗したらどうなるか、\n分かってんだろうな	Man A	Nice work. You know what happens if we screw up, right?	男性A	喂，你们给我听好了，\n万一失败了会发生什么，你们都清楚的吧？	男A	喂，給我聽好了。\n你們應該明白失敗的下場吧？
+TalkEvent_07_009ID	8		男Ｂ	おうよ！　デカい仕事だ。腕が鳴るってもんだぜ	Man B	Yeah! A lot is hanging on this. I'm itchin' to get to work.	男性B	清楚着呢！这可是件大事，我都迫不及待了。	男B	當然了！這可是一門大生意，我等不及要大顯身手了。
+TalkEvent_07_009ID	9	Valeria	ヴァレリア	なんだか怪しい連中ね	Valeria	I don't like the look of those guys.	瓦莱莉娅	那群人好可疑啊。	瓦萊莉婭	那些人看起來有點可疑。
+TalkEvent_07_009ID	10	Heidi	ハイディ	ありゃどう見ても関わらないほうがいい相手だ。\nやり過ごそう	Heidi	We shouldn't get involved. Let's just go on our way.	海蒂	最好还是别跟那群家伙扯上关系，\n我们躲着点吧。	海蒂	看樣子絕對是少惹為妙。\n我們快點離開吧。
+TalkEvent_07_009ID	11	Valeria	ヴァレリア	うーん。一仕事終えた気分！	Valeria	Hmm, feels like a job well done!	瓦莱莉娅	唔——感觉像是完成了工作一样舒畅！	瓦萊莉婭	唔～有種完成一件大事的感覺！
+TalkEvent_07_009ID	12	Heidi	ハイディ	あんたはこれから調合の練習でしょ。アーシャは\n王都に戻るんだよね？	Heidi	You're about to do some synthesis practice, right? Ayesha, I take it you're headed back to the capital?	海蒂	你接下来还得练习调合呢，\n爱夏是要回王都吧？	海蒂	妳接下來還要練習調合吧。\n愛夏妳要回王都了嗎？
+TalkEvent_07_009ID	13	Ayesha	アーシャ	はい。王都に来たらカフェにも顔を出してくださいね	Ayesha	Yep. If you're ever in the area, please drop by the cafe.	爱夏	是的。你们什么时候来王都的话，欢迎到咖啡厅露个面。	愛夏	是的。妳們如果來王都，記得來咖啡廳露個臉喔。
+TalkEvent_07_009ID	14	Valeria	ヴァレリア	うん。採取、助かっちゃった。ありがとね、アーシャ	Valeria	Will do. Thanks for all your help today, Ayesha.	瓦莱莉娅	嗯，谢谢你帮我们采集，爱夏。	瓦萊莉婭	嗯。這次採集受到妳的幫助了。謝謝妳，愛夏。
+TalkEvent_07_009ID	15	Ayesha	アーシャ	こちらこそです。ヴァレリアさん。\n練習、頑張ってくださいね！	Ayesha	I should say the same of you. Good luck with your training, Valeria!	爱夏	我也要谢谢你们。瓦莱莉娅小姐。\n练习要加油哦！	愛夏	我才要謝謝妳們。瓦萊莉婭小姐，\n練習要加油喔！
+TalkEvent_07_009ID	16	Odelia	オディーリア	ではアーシャ、行きましょうか	Odelia	Let us be off, Ayesha.	奥迪莉雅	爱夏，我们走吧。	奧迪莉雅	愛夏，我們走吧。
+TalkEvent_07_009ID	17	Valeria	ヴァレリア	じゃあ、早速アトリエに行こうかな！	Valeria	Let's head straight to the atelier!	瓦莱莉娅	那我们快回炼金工房吧！	瓦萊莉婭	那我們也快點回去鍊金工房吧！
+TalkEvent_07_010ID	0	Valeria	ヴァレリア	えーっと、こう？	Valeria	So...like this?	瓦莱莉娅	唔，这样吗？	瓦萊莉婭	唔～是這樣嗎？
+TalkEvent_07_010ID	1	Resna	レスナ	うんそうだね。この素材の場合はそーっと入れると\nいいよ。それじゃ、最後の仕上げ	Resna	Yep, that's right. You need to add this material in gently. And now for the finishing touches!	蕾斯娜	嗯，没错，用这个素材时要轻轻地放进去。\n然后就是最后一步了。	蕾斯娜	嗯，沒錯。遇到這種素材就慢慢地倒進去。\n剩下最後一步。
+TalkEvent_07_010ID	2	Valeria	ヴァレリア	うん！	Valeria	Okay!	瓦莱莉娅	嗯！	瓦萊莉婭	嗯！
+TalkEvent_07_010ID	3	Resna	レスナ	よし、バッチリだね！	Resna	We did it!	蕾斯娜	好，完成得很不错！	蕾斯娜	很好，非常完美！
+TalkEvent_07_010ID	4	Valeria	ヴァレリア	うん！　調合にも慣れてきた気がするわ。\nレスナが教えてくれたおかげね！	Valeria	Yeah! I feel like I'm getting the hang of synthesizing! It's all thanks to you, Resna!	瓦莱莉娅	嗯！我调合好像也越来越熟练了。\n都要感谢蕾斯娜的教导！	瓦萊莉婭	嗯！我好像愈來愈熟練了。\n都是多虧了蕾斯娜的指導！
+TalkEvent_07_010ID	5	Resna	レスナ	もうすっかり錬金術士って感じ。\n私が教えることなくなってきたよ	Resna	You're practically an alchemist now. I don't have anything more to teach you.	蕾斯娜	你已经很有炼金术士的样子了，\n我都没什么能教给你的了。	蕾斯娜	妳現在是一名合格的鍊金術士，\n我已經沒有什麼東西能教妳了。
+TalkEvent_07_010ID	6	Valeria	ヴァレリア	そんなことないわよ。\nもっと色々レスナに教えてほしいわ	Valeria	No way. There's so much more I want to learn from you!	瓦莱莉娅	没那回事，\n我还有很多东西要向你学习呢。	瓦萊莉婭	才沒那回事呢。\n我還有很多事得向蕾斯娜學習。
+TalkEvent_07_010ID	7	Resna	レスナ	ふふ、そうだね。\nこれからたくさん、色んなものを作っていこうね！	Resna	Hehe, I'm glad. Let's make a lot more things together!	蕾斯娜	呵呵，那好。\n今后我们继续一起制作各种各样的东西吧！	蕾斯娜	呵呵，說得也是。\n今後我們也要一起製作各式各樣的物品！
+TalkEvent_07_010ID	8	Resna	レスナ	ヴァレリアが集めてきた素材なら、色々作れるし。\nたとえば……	Resna	We should be able to with all the materials you gathered for us. For instance...	蕾斯娜	瓦莱莉娅这次收集的素材有许多用途。\n比如……	蕾斯娜	瓦萊莉婭帶回來的素材還能做不少東西。\n比如說……
+TalkEvent_07_010ID	9	Valeria	ヴァレリア	ふんふん	Valeria	Mmhmm?	瓦莱莉娅	嗯嗯。	瓦萊莉婭	嗯嗯。
+TalkEvent_07_010ID	10	Resna	レスナ	あ！　これとこれを使えば、新しいものが作れるかも！\nヴァレリア、やってみよう！	Resna	Ah! If you use these, you can make something new! Try it, Valeria!	蕾斯娜	啊！使用这个跟这个说不定能做出新东西！\n瓦莱莉娅，我们试试看吧！	蕾斯娜	啊！也許使用這個跟這個能做出新的東西！\n瓦萊莉婭，我們試試看吧！
+TalkEvent_07_010ID	11	Resna	レスナ	やった！　上手くいったよ！	Resna	Well done! You've improved!	蕾斯娜	太好了！特别成功！	蕾斯娜	好耶！成功了！
+TalkEvent_07_010ID	12	Valeria	ヴァレリア	調合って、何度やってみても不思議ねぇ。\nこれ、レスナが今考えた作り方なの？	Valeria	No matter how many times I synthesize, it never fails to be awe-inspiring. Did you come up with this just now?	瓦莱莉娅	不管调合多少次，我都觉得它很神奇。\n这是蕾斯娜新想出来的配方吗？	瓦萊莉婭	調合這件事，不管試幾次都很神奇呢。\n這是妳臨時想到的做法嗎？
+TalkEvent_07_010ID	13	Resna	レスナ	そうだよ。素材の性質を考えて、組み合わせれば\nどんなものになるかを考えるんだ	Resna	Yes. I just consider the different natures of the materials and what they would be like if combined.	蕾斯娜	是啊，根据素材的性质，\n想象将它们组合在一起会变成什么样的东西。	蕾斯娜	沒錯。根據素材特性，\n想像它們組合起來會變成什麼樣子。
+TalkEvent_07_010ID	14	Resna	レスナ	ヴァレリアも慣れてくれば、きっと思いつくよ	Resna	Once you get the hang of it, I'm sure you'll start thinking the same way.	蕾斯娜	等到瓦莱莉娅更加熟练了，肯定也能想出来。	蕾斯娜	瓦萊莉婭習慣之後一定也辦得到。
+TalkEvent_07_010ID	15	Valeria	ヴァレリア	私、作り方なんて考えられるかしら？	Valeria	Can I really learn to think like that?	瓦莱莉娅	我能想出新的配方？	瓦萊莉婭	我真的可以自己發明配方嗎？
+TalkEvent_07_010ID	16	Resna	レスナ	調合ができたんだから、きっとできると思うな	Resna	You can synthesize, so I'm sure you can.	蕾斯娜	因为你已经会调合了，所以肯定能做到。	蕾斯娜	妳已經學會調合了，我相信一定可以。
+TalkEvent_07_010ID	17	Valeria	ヴァレリア	そっか。うん。楽しみね！　もっと錬金術の練習、\n頑張ろうっと……そうだ！	Valeria	I can't wait! I'm going to keep practicing alchemy and... Oh yeah!	瓦莱莉娅	这样啊，嗯，好期待！\n我要更努力地练习炼金术……对了！	瓦萊莉婭	原來如此。嗯。真期待！\n我得更努力練習鍊金術……對了！
+TalkEvent_07_010ID	18	Valeria	ヴァレリア	レスナ、錬金術を教えてくれたお礼に身体の動かし方を\n教えてあげる！	Valeria	Resna, as thanks for teaching me alchemy, I'll show you how to move your body!	瓦莱莉娅	蕾斯娜，你教了我炼金术，\n作为回报，我来教你活动筋骨的方法！	瓦萊莉婭	蕾斯娜，為了感謝妳教我鍊金術，\n我願意把戰鬥身法傳授給妳！
+TalkEvent_07_010ID	19	Resna	レスナ	身体の動かし方？	Resna	Move my body?	蕾斯娜	活动筋骨的方法？	蕾斯娜	戰鬥身法？
+TalkEvent_07_010ID	20	Valeria	ヴァレリア	そうそう！　私がレスナに教えられることって\nこれくらいだもの！　やりましょ！	Valeria	Yeah! This is probably the only thing I have to teach! Let's try it!	瓦莱莉娅	没错！我能教你的也只有这个了！\n来做做看吧！	瓦萊莉婭	沒錯！我能教妳的也只有這個了！\n一起試試看吧！
+TalkEvent_07_010ID	21	Resna	レスナ	ヴァレリアが教えてくれるなんて、嬉しいけど……\n私にもできるかな？	Resna	I'm happy you're willing to teach me, but I'm not sure if I'll be able to learn anything.	蕾斯娜	我很高兴瓦莱莉娅愿意教我……\n可我能学得会吗？	蕾斯娜	很高興妳願意教我……\n但我真的辦得到嗎？
+TalkEvent_07_010ID	22	Valeria	ヴァレリア	できるわよ！　じゃあ、行くわよ	Valeria	I know you can! Come on, let's go!	瓦莱莉娅	当然能啦！那就开始吧。	瓦萊莉婭	沒問題的！來，我們開始吧。
+TalkEvent_07_010ID	23	Resna	レスナ	こ、こんな感じ？	Resna	Like this?	蕾斯娜	是、是这样吗？	蕾斯娜	像、像這樣嗎？
+TalkEvent_07_010ID	24	Valeria	ヴァレリア	うん。そこでね、ぐるっと勢いよく！	Valeria	Yep, now swing with all you've got!	瓦莱莉娅	嗯，这时候转动的力度要猛！	瓦萊莉婭	嗯。然後，用力迅速轉身！
+TalkEvent_07_010ID	25	Resna	レスナ	え、ええと……勢いよく！	Resna	Um... HAAAH!	蕾斯娜	唔、唔……力度要猛！	蕾斯娜	呃、嗯……用力轉身！
+TalkEvent_07_010ID	26	Valeria	ヴァレリア	いい感じね。次は――	Valeria	Looking good! Now...	瓦莱莉娅	很不错，然后——	瓦萊莉婭	不錯。接下來──
+TalkEvent_07_010ID	27	Resna	レスナ	ま、待ってヴァレリア！　今のもう一度おさらい\nさせて！？	Resna	Wait, Valeria! Can we go over it one more time?	蕾斯娜	等、等等，瓦莱莉娅！\n让我再复习一下刚才的动作吧？！	蕾斯娜	等、等等，瓦萊莉婭！\n剛才的動作可以再來一次嗎！？
+TalkEvent_07_010ID	28	Valeria	ヴァレリア	あ、うん。じゃあね……	Valeria	Oh, sure. So...	瓦莱莉娅	啊，好。那就……	瓦萊莉婭	啊，好。那就……
+TalkEvent_07_010ID	29	Resna	レスナ	はぁ、はぁ……いっぱい運動したぁ！\n身体を動かすって気持ちいいんだね！	Resna	*Huff* *Huff* What a workout! It feels really good to move around like this!	蕾斯娜	呼、呼……锻炼了好久！\n活动筋骨感觉真舒畅啊！	蕾斯娜	呼……呼……做了好多運動！\n活動身體的感覺真舒爽！
+TalkEvent_07_010ID	30	Valeria	ヴァレリア	ホント？　レスナがよかったら毎日やる？	Valeria	Really? Then how about we do this every day?	瓦莱莉娅	真的吗？那你愿意的话每天都做一次吧？	瓦萊莉婭	真的嗎？那要不要每天一起鍛鍊？
+TalkEvent_07_010ID	31	Resna	レスナ	ま、毎日はちょっとキツいかも	Resna	That might be a little much...	蕾斯娜	每、每天都做的话恐怕有点累。	蕾斯娜	每、每天可能有點困難。
+TalkEvent_07_010ID	32	Resna	レスナ	あ、そういえば。\nヴァレリアはロマンさんから招待状もらった？	Resna	Oh, that reminds me. Valeria, did you get Roman's invitation?	蕾斯娜	啊，对了，\n瓦莱莉娅有收到罗曼先生的邀请函吗？	蕾斯娜	啊，對了。\n瓦萊莉婭，妳收到羅曼先生的邀請函了嗎？
+TalkEvent_07_010ID	33	Valeria	ヴァレリア	ああ、「ナントカ発表会」っていうヤツ？\nもらったわよ。私と、ハイディの分も	Valeria	"Oh, that ""Whoever's Big Announcement"" thing? Yep. One for me and one for Heidi."	瓦莱莉娅	哦，是那个“什么什么大发布会”吧？\n我和海蒂都收到了。	瓦萊莉婭	啊，是那個「某某發表會」嗎？\n我收到了。海蒂也有。
+TalkEvent_07_010ID	34	Resna	レスナ	ロマンさんが発表したいことってなんだろうね？	Resna	What do you think he's going to announce?	蕾斯娜	罗曼先生到底想发布什么事啊？	蕾斯娜	羅曼先生到底想發表什麼呢？
+TalkEvent_07_010ID	35	Valeria	ヴァレリア	気になるわよね。わざわざカフェに人を集めるくらい\nだもの、きっとすごいことに違いないわ	Valeria	Makes you wonder, right? It's sure to be something interesting if he's going to all the trouble of making people gather at the cafe.	瓦莱莉娅	好在意啊。煞有介事地把大家都叫到咖啡厅，\n看来肯定是件特别重要的事吧。	瓦萊莉婭	真好奇。既然特地邀請這麼多人到咖啡廳，\n肯定是不得了的大事。
+TalkEvent_07_010ID	36	Resna	レスナ	楽しみだなぁ……	Resna	I can't wait to hear it.	蕾斯娜	好期待啊……	蕾斯娜	好期待喔……
+TalkEvent_07_010ID	37	Valeria	ヴァレリア	そうね。私も楽しみ！	Valeria	Yeah, me neither!	瓦莱莉娅	是啊，我也很期待！	瓦萊莉婭	真的。我也很期待！
+TalkEvent_07_011ID	0	Resna	レスナ	今日はお招きにあずかりまして……あれ？\nロマンさんはまだ来てないんだ？	Resna	Thank you for inviting me... Huh? Roman's not here yet?	蕾斯娜	谢谢你特地邀请……\n咦？罗曼先生还没来吗？	蕾斯娜	今天承蒙您的邀請……咦？\n羅曼先生還沒來嗎？
+TalkEvent_07_011ID	1	Izana	イザナ	うん。大発表、早く聞きたいなー	Izana	Nope. I want to know what this big announcement is already.	伊札娜	嗯，真想赶快听听他要发布的内容啊——	伊札娜	嗯。希望能快點開始～
+TalkEvent_07_011ID	2	Marion	マリオン	そうね。衝撃の事実、なんて何を話すつもりかしらね	Marion	Same. What could this hard-hitting truth be about?	玛丽翁	是啊，听说是冲击力十足的事实……到底是什么事呢？	瑪麗翁	真的。不知道那個震撼的事實到底是什麼。
+TalkEvent_07_011ID	3	Resna	レスナ	どういった類いの発表かも教えてくれないんですよね。\nある日ふらっとアトリエに来て招待状だけ手渡されて	Resna	He didn't even tell me what kind of announcement it would be. He just dropped by the atelier to hand me an invitation.	蕾斯娜	他都没说是什么方面的事，\n只是突然出现在炼金工房，发了张邀请函给我。	蕾斯娜	他連是什麼類型的發表都不肯說。\n某天突然跑來鍊金工房，遞給我邀請函。
+TalkEvent_07_011ID	4	Marion	マリオン	まあ彼、ちょっと胡散くさいっていうか……\n謎が多い感じだから。いったい何が飛び出すやら	Marion	He is pretty suspicious... A real man of mystery. Who knows what it could be!	玛丽翁	不过他那个人本来就见首不见尾的吧……\n感觉有很多秘密。他到底会怎么吓人一跳呢？	瑪麗翁	不過，他本來就有點可疑……\n全身上下謎團重重。不知道會冒出什麼消息。
+TalkEvent_07_011ID	5	Ryza	ライザ	そろそろ料理も準備できるよ！	Ryza	I'm just about finished cooking!	莱莎	现在可以开始准备料理了！	萊莎	差不多可以準備料理了！
+TalkEvent_07_011ID	6	Valeria	ヴァレリア	やった！　ここの料理って美味しいのよね。\n腕立てしてお腹空かせて待ってよっと	Valeria	Great! This place always serves the best food! I'll be over here working up an appetite with some push-ups!	瓦莱莉娅	太好啦！这里的料理特别好吃。\n我做做俯卧撑空出肚子来等吃饭好了。	瓦萊莉婭	太棒了！這裡的料理超好吃。\n那我先做幾個伏地挺身，之後就能開飯了。
+TalkEvent_07_011ID	7	Resna	レスナ	ロマンさんももうすぐ来るんですね！	Resna	Roman should be here any moment now!	蕾斯娜	罗曼先生应该也快来了吧！	蕾斯娜	羅曼先生差不多快到了吧！
+TalkEvent_07_011ID	8	Ryza	ライザ	多分ね。適当に始めててほしいって言ってたけどさ、\n大発表会って、ひょっとしてレスナの活躍のことかな	Ryza	Hopefully. He said he wanted to start it just right. I wonder if this whole thing is about your recent deeds.	莱莎	大概吧，他说让我们别太当回事，自行开始就好，\n不过这个大发布会难不成是要说蕾斯娜的活跃表现？	萊莎	應該吧！他說隨意開始就好。\n所謂大發表會，該不會是要表揚蕾斯娜的活躍吧。
+TalkEvent_07_011ID	9	Resna	レスナ	それじゃ、発表でもなんでもないですよ！？	Resna	But there's no need to make a big announcement for that!	蕾斯娜	那不算什么值得发布的事吧？！	蕾斯娜	這樣根本算不上是發表啊！？
+TalkEvent_07_011ID	10	Heidi	ハイディ	ひょっとしてヴァレリアのアレのことだったりして	Heidi	It might just be about the Valeria thing.	海蒂	难道要说瓦莱莉娅的那件事……	海蒂	那難道是瓦萊莉婭的那件事……？
+TalkEvent_07_011ID	11	Valeria	ヴァレリア	ちょっとやめて、後ろ暗いことはないのに\nドキッとするじゃない	Valeria	Whoa, whoa, cut it out. You're making me nervous even though I didn't do anything wrong!	瓦莱莉娅	别这么说啊，我又没做什么亏心事，\n你这么一说吓我一大跳。	瓦萊莉婭	別亂說，我明明就沒做虧心事，\n妳這樣講讓人很緊張。
+TalkEvent_07_011ID	12	Rorona	ロロナ	お待たせしました！　ロロナ特製、王都州の\n特産物でいっぱいのパイでーす！	Rorona	Thanks for waiting! I present to you my special capital pies! They're filled with local delicacies!	萝乐娜	让各位久等了！\n这是萝乐娜特制的王都州特产满载派！	蘿樂娜	久等了！蘿樂娜特別烤了\n加入大量王都州特產的派～！
+TalkEvent_07_011ID	13	Valeria	ヴァレリア	わぁ、いただきまーす	Valeria	Wow! Don't mind if I do!	瓦莱莉娅	哇，我开动了——！	瓦萊莉婭	哇，我要開動了～
+TalkEvent_07_011ID	14	Rorona	ロロナ	レスナちゃん、聞いたよ！　ハイネ州の大原野を\n全部畑にしちゃったんだって！？	Rorona	Resna, I heard what you did! I can't believe you turned the great Haine wilderness into regular fields!	萝乐娜	蕾斯娜，我都听说了！\n你把海涅州的大原野全变成田地了？！	蘿樂娜	蕾斯娜，\n聽說妳把海涅州的大原野全變成農田了！？
+TalkEvent_07_011ID	15	Resna	レスナ	ええっ！？　私は不作を解消する栄養剤を\n作っただけですよ！？	Resna	What?! But all I did was make a tonic to make it harvestable again!	蕾斯娜	咦？！\n我只是做了解决歉收问题的营养剂而已啦？！	蕾斯娜	咦！？\n我只是做出解決歉收的營養劑而已啊！？
+TalkEvent_07_011ID	16	Rorona	ロロナ	えっ、そうなの！？　新聞でも話題になってたって\nエスティさんが……違ったんだ？	Rorona	Huh, really?! It was even in all the newspapers. Did Esty get it wrong?	萝乐娜	咦，是这样吗？！艾丝缇小姐说你的事迹\n成了报纸上的热点新闻……原来不是啊？	蘿樂娜	咦，是這樣嗎！？艾絲緹小姐說\n這件事還登上報紙……原來不是嗎？
+TalkEvent_07_011ID	17	Marion	マリオン	事の相違はともかく、記事になってたのは本当ね	Marion	Whatever the discrepancy, it's true what they said in the article.	玛丽翁	姑且不管跟事实有什么出入，你做的事确实登报了。	瑪麗翁	無論事實如何，這件事的確被寫成報導了。
+TalkEvent_07_011ID	18	Resna	レスナ	錬金術のすごさを広めるには、まだまだです。\n焦らず頑張ります	Resna	We still need to show how amazing alchemy is. Slowly but surely.	蕾斯娜	我做的事还远远未能让人们了解炼金术的厉害之处。\n我会不骄不躁继续努力。	蕾斯娜	將鍊金術發揚光大，我們還有很長的路要走。\n我會慢慢努力的。
+TalkEvent_07_011ID	19	Resna	レスナ	……それにしても、ロマンさん遅いなぁ	Resna	That being said, Roman sure is running late.	蕾斯娜	不过……罗曼先生怎么还没来啊。	蕾斯娜	……話說回來，羅曼先生好慢喔。
+TalkEvent_07_011ID	20	Valeria	ヴァレリア	あ、もう夜か	Valeria	Wow, it's already dark out.	瓦莱莉娅	啊，都已经到晚上了。	瓦萊莉婭	啊，已經晚上了。
+TalkEvent_07_011ID	21	Ryza	ライザ	いくらなんでも遅いよ。\n大発表会って、今日で合ってるんだよね？	Ryza	How late is he going to be? His big announcement was supposed to be today, right?	莱莎	再怎么说这也太晚了。\n大发布会的日期真的是今天吗？	萊莎	再怎麼說也太慢了。\n大發表會應該是今天沒錯吧？
+TalkEvent_07_011ID	22	Marion	マリオン	まぁ……今日のところはお開きにしましょうか。\nどうせまたふらっと現れるでしょ	Marion	Well, maybe we should call it here. I'm sure he'll show up again eventually.	玛丽翁	算了……今天还是就此解散吧。\n反正他改天会突然冒出来的。	瑪麗翁	嗯……今天先到這裡吧。\n反正他遲早會自己冒出來的。
+TalkEvent_07_011ID	23	Izana	イザナ	あっ、ロマン君来た！？	Izana	Oh, is that him?!	伊札娜	啊，罗曼来了？！	伊札娜	啊，羅曼來了！？
+TalkEvent_07_011ID	24	Ayesha	アーシャ	皆さん！　大変です！	Ayesha	Everyone! I have terrible news!	爱夏	各位！大事不好了！	愛夏	各位！不好了！
+TalkEvent_07_011ID	25	Resna	レスナ	アーシャ先輩！？　どうしたんですか！？	Resna	Miss Ayesha?! What's the matter?	蕾斯娜	爱夏前辈？！怎么了？！	蕾斯娜	愛夏前輩！？發生什麼事了！？
+TalkEvent_07_011ID	26	Ayesha	アーシャ	ロ、ロマンさんが……\nロマンさんが、盗賊団に誘拐されました！	Ayesha	Roman... Roman's been kidnapped by bandits!	爱夏	罗、罗曼先生……\n罗曼先生他被盗贼团伙绑架了！	愛夏	羅、羅曼先生他……\n他被盜賊集團綁架了！
+TalkEvent_07_012ID	0	Resna	レスナ	ロマンさんが誘拐されたって、どういうことですか！？	Resna	What?! Roman's been kidnapped by bandits?!	蕾斯娜	罗曼先生被绑架？！这是什么情况？！	蕾斯娜	羅曼先生被綁架了？這是怎麼回事！？
+TalkEvent_07_012ID	1	Ayesha	アーシャ	うん。返してほしくば身代金をよこせ、って\n王宮に脅迫状が届いて……	Ayesha	Yes. A ransom note was delivered to the palace saying that if we want him back, we have to pay.	爱夏	是这样，王宫都收到了勒索信，\n信上说要是希望他平安回来就交出赎金。	愛夏	嗯，是的。王宮收到一封\n要求支付贖金的勒索信……
+TalkEvent_07_012ID	2	Marion	マリオン	どうして王宮に脅迫状が？	Marion	Why did they send it to the palace?	玛丽翁	为什么勒索信会寄到王宫？	瑪麗翁	為什麼會寄到王宮？
+TalkEvent_07_012ID	3	Ayesha	アーシャ	実は……ロマンさんはこの国の王族なんです	Ayesha	The truth is... Roman is of royal blood.	爱夏	其实……罗曼先生是这个国家的王族。	愛夏	其實……羅曼先生是這個國家的王族。
+TalkEvent_07_012ID	4	Resna	レスナ	王族！？	Resna	Royal blood?!	蕾斯娜	王族？！	蕾斯娜	王族！？
+TalkEvent_07_012ID	5	Marion	マリオン	ただの冒険者じゃなかったってわけね	Marion	So he isn't just some ordinary adventurer.	玛丽翁	也就是说他不是普通的冒险者吧。	瑪麗翁	所以他並非一般的冒險者。
+TalkEvent_07_012ID	6	Ayesha	アーシャ	はい。本当の名前はリヒャルト・ランターナって\nいうんです	Ayesha	Yes. His real name is Richard Lantarna.	爱夏	是的。\n他的真名叫理查德·兰塔纳。	愛夏	對。\n他真正的名字是理查德‧蘭塔納。
+TalkEvent_07_012ID	7	Heidi	ハイディ	待って。その名前聞いたことあるよ。確か……\nい、いやちょっと待って	Heidi	Hold on. I've heard that name before. It was when... Wait a second.	海蒂	等等，这名字我听说过。\n我记得是……不不不，等一下。	海蒂	等等，我聽過這個名字。\n我記得是……不、不對，等一下。
+TalkEvent_07_012ID	8	Izana	イザナ	うん。その名前ってさ……ホント？	Izana	That's the name of... Can it be?	伊札娜	是啊，这个名字……是真的吗？	伊札娜	嗯，這個名字……是真的嗎？
+TalkEvent_07_012ID	9	Ayesha	アーシャ	はい。この国の第二王子です	Ayesha	Yes. This country's secondborn prince.	爱夏	是的，他是这个国家的第二王子。	愛夏	是真的。是這個國家的第二王子。
+TalkEvent_07_012ID	10		みんな	王子！？	Everyone	PRINCE?!	所有人	王子？！	大家	王子！？
+TalkEvent_07_012ID	11	Valeria	ヴァレリア	王子！？	Valeria	PRINCE?!	瓦莱莉娅	王子？！	瓦萊莉婭	王子！？
+TalkEvent_07_012ID	12	Izana	イザナ	王子！？	Izana	PRINCE?!	伊札娜	王子？！	伊札娜	王子！？
+TalkEvent_07_012ID	13	Heidi	ハイディ	王子！？	Heidi	PRINCE?!	海蒂	王子？！	海蒂	王子！？
+TalkEvent_07_012ID	14	Marion	マリオン	王子！？	Marion	PRINCE?!	玛丽翁	王子？！	瑪麗翁	王子！？
+TalkEvent_07_012ID	15	Ryza	ライザ	王子！？	Ryza	PRINCE?!	莱莎	王子？！	萊莎	王子！？
+TalkEvent_07_012ID	16	Rorona	ロロナ	王子！？	Rorona	PRINCE?!	萝乐娜	王子？！	蘿樂娜	王子！？
+TalkEvent_07_012ID	17	Ayesha	アーシャ	えっと、自分で話すから言わないでって頼まれたん\nですけど……そうも言ってられないと思いまして	Ayesha	Well, I was asked not to tell you all, but at this point, I feel I can't stand by and say nothing.	爱夏	唔，他说想自己亲口公布，让我保密，\n可我觉得现在不得不说了。	愛夏	他雖然交代過我不要先說出去，\n但……我認為現在情況緊急。
+TalkEvent_07_012ID	18	Ayesha	アーシャ	今日皆さんが集まるって聞いていたので、\nとにかく急いで皆さんにお知らせしないとって……	Ayesha	When I heard you were all gathered here, I realized I had to inform you at once.	爱夏	听说大家今天都聚在这里，\n我想尽快告诉大家……	愛夏	聽說今天大家會聚在一起，\n所以我就趕緊過來了……
+TalkEvent_07_012ID	19	Resna	レスナ	アーシャ先輩、知らせてくれてありがとうございます。\nそれで、どこに攫われたんでしょうか？	Resna	Miss Ayesha, thank you for telling us. Do you know where he's being held?	蕾斯娜	爱夏前辈，谢谢你告诉我们。\n那他被带到什么地方去了？	蕾斯娜	愛夏前輩，謝謝妳告訴我們。\n妳知道他被綁去哪裡了嗎？
+TalkEvent_07_012ID	20	Ayesha	アーシャ	そこまでは、まだ……。\n王宮の騎士団が調査に乗り出したばかりで	Ayesha	That is still under investigation. The royal knights have just launched a search party.	爱夏	还不清楚……\n王宫骑士团也刚开始调查……	愛夏	這部分還不清楚……\n王宮騎士團不久前才展開調查。
+TalkEvent_07_012ID	21	Marion	マリオン	ロマンは腕は立つわ。その彼が攫われたってことは、\n相手も腕利きの連中だと思うんだけど	Marion	Roman is a formidable fighter. His kidnappers must also be skilled if they managed to take him captive.	玛丽翁	罗曼本事不赖，既然能掳走他，\n说明对方肯定也是身手过人的一伙人。	瑪麗翁	羅曼並非等閒之輩。既然他會被綁架，\n那就代表對方也不是好惹的。
+TalkEvent_07_012ID	22	Heidi	ハイディ	身代金を要求してるとはいえ、そいつらが人質に\n手を出さないって保証もないよね	Heidi	There's no guarantee that they won't harm him even with the ransom.	海蒂	虽然他们提出索要赎金，\n但也不能保证他们不会对人质出手。	海蒂	雖然對方要求了贖金，\n但也無法保證他們不會對人質出手。
+TalkEvent_07_012ID	23	Valeria	ヴァレリア	急いで助けに行きましょ！	Valeria	We have to rescue him quickly!	瓦莱莉娅	我们赶快去救人吧！	瓦萊莉婭	我們快點去救他吧！
+TalkEvent_07_012ID	24	Resna	レスナ	うん！　ロマンさんは私たちの仲間であり同志……\nなんとかして助け出さないと！	Resna	Yes! Roman's our friend and a kindred spirit. We have to do something to save him!	蕾斯娜	嗯！罗曼先生是我们的伙伴，还是我的同志……\n我们一定要想办法救他！	蕾斯娜	嗯！羅曼先生是我們的朋友兼同伴……\n必須想辦法救他！
+TalkEvent_07_012ID	25	Izana	イザナ	盗賊団なんてアタシのハンマーでイチコロだよ！	Izana	I'll smash through the whole gang with my hammers!	伊札娜	区区盗贼团，我一锤就能干掉他们！	伊札娜	看我用錘子三兩下解決盜賊集團！
+TalkEvent_07_012ID	26	Heidi	ハイディ	ちょっと待った。こういうのは準備が大事だよ。\nせめて場所の見当が付けば……ん？	Heidi	Hold your horses. In times like these, preparation is key. We at least need to know where he's at.	海蒂	慢着，这种事轻率不得，要先做好充分准备。\n再怎么说也得知道地点……嗯？	海蒂	等一下。這種時候事前準備非常重要。\n至少要確認綁匪的位置……嗯？
+TalkEvent_07_012ID	27		男Ａ	ここなら人目に付くこともねぇ	Man A	We won't be noticed here.	男性A	在这里就不会被人发现了。	男A	在這裡就不會被人發現了。
+TalkEvent_07_012ID	28		男Ａ	おうテメェらいいな。失敗したらどうなるか、\n分かってんだろうな	Man A	Nice work. You know what happens if we screw up, right?	男性A	喂，你们给我听好了，\n万一失败了会发生什么，你们都清楚的吧？	男A	喂，給我聽好了。\n你們應該明白失敗的下場吧？
+TalkEvent_07_012ID	29		男Ｂ	おうよ！　デカい仕事だ。腕が鳴るってもんだぜ	Man B	Yeah! A lot is hanging on this. I'm itchin' to get to work.	男性B	清楚着呢！这可是件大事，我都迫不及待了。	男B	當然了！這可是一門大生意，我等不及要大顯身手了。
+TalkEvent_07_012ID	30	Heidi	ハイディ	ひょっとすると……当てはあるかもしれない	Heidi	I think...I know where he is.	海蒂	我可能……知道线索。	海蒂	我好像……有點頭緒了。
+TalkEvent_07_012ID	31	Valeria	ヴァレリア	ハイディ、何か分かったの？	Valeria	Heidi, did you think of something?	瓦莱莉娅	海蒂，你想到什么了？	瓦萊莉婭	海蒂，妳想到什麼了嗎？
+TalkEvent_07_012ID	32	Heidi	ハイディ	ここから程良い距離で、怪しい連中が出入りしてる、\n身を潜めるにも打ってつけな場所ならある……	Heidi	Some suspicious characters were lurking a good distance from here. It's a good place to hide out.	海蒂	有个很适合藏身的地方距离这里的位置刚刚好，\n之前还有可疑人士出入……	海蒂	距離此處不遠，又有可疑分子出沒。\n環境也很適合藏身……
+TalkEvent_07_012ID	33	Heidi	ハイディ	これは、ただの勘だし確証はないけど……\nそれでも行ってみる？	Heidi	I don't have any concrete proof, it's just a hunch, but...should we check it out?	海蒂	这只是我的直觉，并没有确凿证据……\n不过要不要去确认一下？	海蒂	雖然只是我毫無根據的猜測……\n要過去看看嗎？
+TalkEvent_07_012ID	34	Resna	レスナ	ハイディさん。それはどこなんですか！？	Resna	Where exactly did you say it was, Heidi?	蕾斯娜	海蒂小姐，那地方在哪里？！	蕾斯娜	海蒂小姐，那個地方在哪裡！？
+TalkEvent_07_012ID	35	Heidi	ハイディ	この近くにあるマナ採掘場跡だよ。ついこの間、\n採取に行ったら怪しい連中を見かけたんだ	Heidi	It's an old mining site for mana nearby. I saw some suspicious types there when we went out gathering the other day.	海蒂	就是这附近的玛那采掘场遗迹。\n我们之前去那里采集的时候遇到过可疑人士。	海蒂	就在附近的瑪那挖掘場遺跡。不久前，\n我們去那裡採集時看到了一群可疑分子。
+TalkEvent_07_012ID	36	Ayesha	アーシャ	待っていても、何もできません。それならわたし、\n一か八かでも行ってみたいです	Ayesha	Well, waiting around here won't get us anywhere. I think it's worth giving a shot!	爱夏	就算一直等着也无济于事。\n那我还是想赌一把，去那里看看。	愛夏	待在這裡什麼也做不了。\n就算是場豪賭，我也想過去看看！
+TalkEvent_07_012ID	37	Valeria	ヴァレリア	そうね。行きましょ！	Valeria	I agree! Let's go!	瓦莱莉娅	是啊，我们走吧！	瓦萊莉婭	沒錯。走吧！
+TalkEvent_07_012ID	38	Marion	マリオン	待ちなさい。ノコノコ行って気付かれたらおしまいよ。\n人質であるロマンに危害が及ぶかもしれないわ	Marion	Wait just a moment. Bursting in and getting caught may cost us everything. It may do more harm to Roman in the process.	玛丽翁	等等，就这么大摇大摆地过去会被发现的。\n恐怕会让作为人质的罗曼陷入危险。	瑪麗翁	且慢，不要輕舉妄動。\n要是被發現，羅曼可能會陷入危險。
+TalkEvent_07_012ID	39	Marion	マリオン	あまり大人数で動くのは得策じゃない。\n二手に分かれましょう	Marion	We shouldn't move in a big group. We'll need to split up.	玛丽翁	这里不是以数量取胜的时候。\n我们兵分两路吧。	瑪麗翁	這種情況不適合集體行動，\n我們兵分兩路吧。
+TalkEvent_07_012ID	40	Heidi	ハイディ	じゃあ、私とヴァレリア、アーシャが先行する。\nレスナたちは少し待って後から来てくれない？	Heidi	Okay, then Valeria, Ayesha, and I will take the lead. Everyone else, can you wait and then follow us?	海蒂	那我就跟瓦莱莉娅和爱夏一起先过去。\n蕾斯娜你们过一会儿再来，怎么样？	海蒂	那我、瓦萊莉婭和愛夏負責打頭陣。\n蕾斯娜和其他人隨後跟上，可以嗎？
+TalkEvent_07_012ID	41	Resna	レスナ	分かりました。ね、イザナちゃん	Resna	Sounds good. Right, Izana?	蕾斯娜	好的。就这么做吧，伊札娜。	蕾斯娜	我明白了。一起加油吧，伊札娜。
+TalkEvent_07_012ID	42	Izana	イザナ	うん。レスナちゃんのことはアタシが守るよ	Izana	Yep. I'll make sure no harm comes to you, Resna.	伊札娜	嗯。我会保护好蕾斯娜的。	伊札娜	嗯。蕾斯娜就由我來守護。
+TalkEvent_07_012ID	43	Marion	マリオン	私も助っ人の心当たりがあるわ。\n待っている間に、声をかけに行きましょう	Marion	I know someone who can help as well. Let's go find her while we wait.	玛丽翁	我也想到了帮手的人选。\n在等候出发的时候我会去找那人说一声的。	瑪麗翁	我知道可以請誰來幫忙。\n趁等待時去問問對方好了。
+TalkEvent_07_012ID	44	Resna	レスナ	はい！	Resna	Great!	蕾斯娜	好的！	蕾斯娜	好！
+TalkEvent_07_012ID	45	Ayesha	アーシャ	オディーリアさんも呼んできます。採掘場跡でしたら\n迷わず探索できると思います	Ayesha	I'll call for Odelia. She'll know how to navigate us through the mining site.	爱夏	我要把奥迪莉雅小姐也叫上。\n这样在采掘场遗迹就能顺利探索不会迷路了。	愛夏	我也去把奧迪莉雅小姐找來。她對挖掘場遺跡很熟悉，\n應該不會迷路。
+TalkEvent_07_012ID	46	Ryza	ライザ	じゃあ、あたしとロロナ、イクセルは\nここで待ってるよ。何か情報が入るかもしれないし	Ryza	Okay, then Rorona, Iksel, and I will wait here. I'm sure we can find some useful information.	莱莎	那我跟萝乐娜和伊克赛尔就留在这里待命。\n说不定会收到新的情报。	萊莎	那我、蘿樂娜和伊克賽爾\n在這裡等妳們。說不定會得到新的情報。
+TalkEvent_07_012ID	47	Marion	マリオン	みんな、慎重にね。行きましょう！	Marion	Let's tread carefully, everyone!	玛丽翁	各位，请小心行事。我们出发吧！	瑪麗翁	各位，務必小心為上。走吧！
+TalkEvent_07_013ID	0	Roman	ロマン	なんだかよく分からないが、話し合おうじゃないか！	Roman	Look, fellas, can't we just talk this out?!	罗曼	我不太清楚这是什么情况，但还是好好谈谈吧！	羅曼	雖然不清楚是怎麼回事，但我們來談一談吧！
+TalkEvent_07_013ID	1	Roman	ロマン	私なんかを攫ったところで面白いことなんて\n１つもないのだから	Roman	I don't think kidnapping someone like me will be the least bit fun!	罗曼	就算抓了我，对你们也没有任何好处啊。	羅曼	綁架我這種人\n應該一點意思也沒有才對。
+TalkEvent_07_013ID	2		盗賊Ａ	うるせえ、黙りな	Bandit A	Be quiet already.	盗贼A	吵死了，给我闭嘴。	盜賊A	吵死了，給我閉嘴。
+TalkEvent_07_013ID	3	Roman	ロマン	君たちもこんな所にずっといたくはないだろう？\n薄暗くて地面は固いし尻も痛いしで大変なんだよ	Roman	Do you all really want to stay cooped up down here forever? It's so dark, and the rough ground is hurting my butt.	罗曼	你们也不想一直待在这种地方吧？\n这地方这么昏暗，地面又硬，坐得屁股疼，太难受了吧。	羅曼	你們也不想一直待在這種地方吧？\n不但昏暗，地面又硬，屁股還很痛，很辛苦耶。
+TalkEvent_07_013ID	4		盗賊Ａ	黙れって言ってんだろ！\nもっと痛くしてやってもいいんだぜ	Bandit A	I said SHUT IT! Or else I'll give you something to really cry about!	盗贼A	都叫你闭嘴了！\n不然我还可以让你尝尝更痛的滋味。	盜賊A	就叫你閉嘴了！\n還是你希望過得更痛苦？
+TalkEvent_07_013ID	5	Roman	ロマン	君たちのことを思って言っているんだ！	Roman	I'm just thinking of you guys!	罗曼	我这么说可都是为你们好！	羅曼	我說這些是為你們著想啊！
+TalkEvent_07_013ID	6	Roman	ロマン	大体こんなしがない冒険者を攫ってどうするのさ？\n金かい？　あいにく持ち合わせは少ないんだ	Roman	What even is the point of capturing a poor adventurer like me? Money? Unfortunately, I don't have much on me.	罗曼	说到底你们抓我这个不值一提的冒险者有什么用？\n想要钱？很遗憾，我囊中羞涩得很。	羅曼	擄走微不足道的冒險者到底有什麼用？\n是為了錢嗎？很不巧，我身上現金不多。
+TalkEvent_07_013ID	7		盗賊Ｂ	……くっくっく	Bandit B	Hehehe...	盗贼B	……呵呵呵。	盜賊B	……呵呵呵。
+TalkEvent_07_013ID	8		盗賊Ａ	はははははは	Bandit A	Hahahaha!	盗贼A	哈哈哈哈哈！	盜賊A	哈哈哈哈哈。
+TalkEvent_07_013ID	9		盗賊Ｂ	がははははは	Bandit B	Ahahahaha!	盗贼B	哈哈哈哈哈！	盜賊B	哇哈哈哈哈。
+TalkEvent_07_013ID	10	Roman	ロマン	…………？	Roman	...?	罗曼	……？	羅曼	…………？
+TalkEvent_07_013ID	11		盗賊Ａ	まったくおかしいぜ。\nまだごまかせてると思ってんのか？　王子サマよぉ？	Bandit A	That's hilarious. You're still trying to play dumb? Your Highness?	盗贼A	太好笑了。\n你以为还能瞒得过我们吗？王子殿下？	盜賊A	太奇怪了。\n你以為我們不清楚嗎？王子殿下～？
+TalkEvent_07_013ID	12	Roman	ロマン	…………	Roman	...	罗曼	……	羅曼	…………
+TalkEvent_07_013ID	13		盗賊Ａ	冒険者のフリなんかして、フラフラ遊び回って、\n正体がバレねぇと思ってんのはお前だけだよ	Bandit A	Only you could think that you could frolic around playing hero and not get caught.	盗贼A	装作冒险者，到处闲逛，\n也只有你觉得自己不会暴露真实身份了。	盜賊A	假扮成冒險者四處遊玩，\n以為真實身分不會曝光的人就只有你而已。
+TalkEvent_07_013ID	14		盗賊Ｂ	金ならたんまりあるってわけだ。\nなんせ王族に払ってもらうんだからよ	Bandit B	There's no end to your riches, I'd wager. I'm sure the royal family would part with a prince's ransom for your return.	盗贼B	你当然有的是钱，\n反正我们要多少钱王族都会付的。	盜賊B	所以錢可多了。\n因為我們會叫王族支付的。
+TalkEvent_07_013ID	15		盗賊Ｂ	分かったら大人しくしてな。\nこっちも大事な人質を傷つけたくはねえからなあ？\n	Bandit B	Now that the truth's laid bare, play nice, would ya? I'm loath to harm our precious little hostage.	盗贼B	听懂了就给我老实点，\n我们也不想伤害重要的人质啊。	盜賊B	明白的話就給我老實點。\n畢竟我們也不想傷害重要的人質啊？
+TalkEvent_07_013ID	16	Roman	ロマン	……そうか。そうだったのか。\n君たちは父上に身代金を要求しているんだね	Roman	I see. So that's how it is. You intend to blackmail my father for ransom.	罗曼	……这样啊，\n原来你们在跟父王讨要赎金。	羅曼	……這樣啊。原來如此。\n你們向父親大人要求了贖金啊。
+TalkEvent_07_013ID	17	Roman	ロマン	面白い。ぜひ存分にむしり取ってやってくれたまえ	Roman	Interesting. Well, by all means, have at it.	罗曼	有意思，那你们一定要尽力从他那多捞点。	羅曼	有意思。你們就盡情地敲詐他吧。
+TalkEvent_07_013ID	18		盗賊Ｂ	……あ？	Bandit B	Huh?	盗贼B	……啊？	盜賊B	……嗯？
+TalkEvent_07_013ID	19	Roman	ロマン	私も王族には恨みがあってね。\nなんなら君たちに協力してもいい	Roman	I've got a bone to pick with my family myself. So I'll help you gentlemen out.	罗曼	我跟王族也有仇，\n不如我来帮你们一把好了。	羅曼	我也對王族心懷怨恨。\n需要的話，我也可以協助你們。
+TalkEvent_07_013ID	20		盗賊Ａ	ハッ。何を適当なことを言ってやがる	Bandit A	Hah. What in Lantarna are you talking about?	盗贼A	哈，说什么乱七八糟的。	盜賊A	啥？你在胡說什麼啊。
+TalkEvent_07_013ID	21	Roman	ロマン	嘘なんかじゃないさ。なぜ王子である私が城を出て、\n冒険者を名乗って街をぶらついていると思う？	Roman	I'm telling the truth. Why do you think I fled the castle and wandered around town calling myself an adventurer?	罗曼	我可没说谎，不然我这个王子为什么要离开城堡，\n自称冒险者在大街上晃悠？	羅曼	我不會欺騙各位。你知道為何身為王子的我會離開城堡，\n以冒險者的名義在鎮上遊蕩嗎？
+TalkEvent_07_013ID	22	Roman	ロマン	嘘まみれの王族を見限ったからさ。\nあの連中は、私腹を肥やし民を軽んじる強欲な者たちだ	Roman	I was tired of being part of a family wrapped in lies. They're nothing but greedy people, deceiving the common folk and lining their own pockets.	罗曼	就是因为我对谎话连篇的王族绝望了。\n那群贪得无厌的家伙只想中饱私囊，毫不关心民众。	羅曼	那是因為我捨棄了滿口謊言的王族。\n那些傢伙中飽私囊，輕視人民，是群貪婪的人。
+TalkEvent_07_013ID	23	Roman	ロマン	そんな王族が君たちのような不幸な者を生む。\n私はそれを、許せない	Roman	Such a monarchy only produces victims like you. That, I cannot permit.	罗曼	正因有那种王族才会催生出你们这些不幸的人。\n我不会原谅他们。	羅曼	就是因為這種王族，才會出現你們這種不幸的人。\n我無法允許這種事。
+TalkEvent_07_013ID	24	Roman	ロマン	だから、どうせなら思いっきりやってくれ。\n富があるべき所へ流れるなら本望だ	Roman	So do as you please. If the wealth goes back to where it belongs, so be it.	罗曼	所以你们要做就大胆去做吧。\n如果你们能劫富济贫，那正是我希望的。	羅曼	所以你們就儘管放手去做吧。\n若能實現劫富濟貧，正合我意。
+TalkEvent_07_013ID	25		盗賊Ｂ	なんだこいつ、妙な奴だな	Bandit B	Is this guy serious?	盗贼B	这家伙有毛病吧。	盜賊B	這傢伙是怎樣？真怪。
+TalkEvent_07_013ID	26		盗賊Ａ	おう、騙されんな！　お前、おべんちゃら使ってれば\nぬるくなるなんて思うなよ！	Bandit A	Yeah right! Don't think we'll be so easily fooled by your pretty lies!	盗贼A	喂，别上他的当！\n我说你啊，别以为耍点嘴皮子就能得到宽待！	盜賊A	對啊，不要被騙了！別以為說些花言巧語\n就能讓我們鬆懈！
+TalkEvent_07_013ID	27	Roman	ロマン	そんなものじゃないさ。私は本気だ。\nその証拠を君たちも知っているんじゃないかい？	Roman	I assure you I am quite serious. And you already know that too, don't you?	罗曼	我没那个意思，我是认真的。\n至于证据，你们应该也清楚吧？	羅曼	不。我是認真的。\n你們不也知道那個證據嗎？
+TalkEvent_07_013ID	28		盗賊Ａ	証拠だと？	Bandit A	We do?	盗贼A	证据？	盜賊A	證據？
+TalkEvent_07_013ID	29	Roman	ロマン	近頃、錬金術士の少女と行動を共にしているだろう？\nなぜだと思う？	Roman	Recently, I've been accompanying an alchemist on her journeys. Do you know why?	罗曼	我最近不是一直在跟炼金术士少女一起行动吗？\n你们觉得是因为什么？	羅曼	我最近不是和一名鍊金術士少女一起行動嗎？\n你覺得原因是什麼？
+TalkEvent_07_013ID	30		盗賊Ａ	なんでだよ	Bandit A	Why?	盗贼A	因为什么啊？	盜賊A	為什麼啊？
+TalkEvent_07_013ID	31	Roman	ロマン	極夜の錬金党を知っているかな？	Roman	Are you aware of the Polar Night Alchemists?	罗曼	你们听说过极夜的炼金党吗？	羅曼	你們知道極夜的鍊金黨嗎？
+TalkEvent_07_013ID	32		盗賊Ａ	そいつは、指名手配されている……。\nって、まさかお前、そいつらの仲間か！？	Bandit A	They're on the wanted list... Wait a sec, you tellin' me yer one of 'em?!	盗贼A	那是被通缉的……\n难道你跟那群人是一帮的？！	盜賊A	那是，遭到通緝的……\n呃，難道說，你是他們的同夥！？
+TalkEvent_07_013ID	33	Roman	ロマン	ふっ……さすがにそれ以上は明かせないね。\nでも、これで私の本気具合が伝わったんじゃないかい？	Roman	Heh. Well, that's as much as I can say. However, now you know how serious I am, don't you?	罗曼	呵……我也不好透露更多了。\n不过，你们这下应该就明白我不是闹着玩的了吧？	羅曼	呵……我不能再透漏更多了。\n不過，這樣你們應該了解我有多認真了吧？
+TalkEvent_07_013ID	34		盗賊Ａ	…………	Bandit A	...	盗贼A	……	盜賊A	…………
+TalkEvent_07_013ID	35		盗賊Ｂ	…………	Bandit B	...	盗贼B	……	盜賊B	…………
+TalkEvent_07_013ID	36	Roman	ロマン	どうする？　私の協力はいるかい？	Roman	Well? Do you want my help now?	罗曼	怎么样？你们需要我的帮助吗？	羅曼	如何？要我協助你們嗎？
+TalkEvent_07_013ID	37		盗賊Ａ	……どう協力できるか話すだけは話してみろ。\nそれから判断してやろうじゃねぇか	Bandit A	Tell us exactly how you can help us first. Then we'll decide.	盗贼A	……你先说说看能怎么帮，\n说完我们再决定要不要答应。	盜賊A	……倒是說說看，你能提供什麼協助。\n我們聽了之後再判斷。
+TalkEvent_07_013ID	38	Roman	ロマン	構わないさ	Roman	If you insist.	罗曼	没问题。	羅曼	無所謂。
+TalkEvent_07_013ID	39	Roman	ロマン	まず、交渉にあたって大事なことだが、\n王族は面子を大事にする。だから……	Roman	First of all, it's important to note that in negotiations, royalty values honorable conduct. Which is why...	罗曼	首先是交涉中的关键，\n王族很看重面子，所以……	羅曼	首先，王族很愛面子。\n這在交涉中非常重要。所以……
+TalkEvent_07_014ID	0	Crow	鴉	第二王子が盗賊に攫われたようです。\n騎士団の動きが慌ただしくなっています	Crow	It seems that the second prince has been kidnapped. The knights are in complete disarray.	鸦	第二王子被盗贼掳走了。\n骑士团的行动很慌乱。	烏鴉	第二王子似乎被盜賊綁架了。\n騎士團的行動慌亂了起來。
+TalkEvent_07_014ID	1		オリバー	鴉よ、王子の身柄を奪え	Oliver	Crow, take him into custody.	奥利弗	鸦，你去把王子抢过来。	奧利弗	烏鴉啊，去把王子搶過來。
+TalkEvent_07_014ID	2		オリバー	これは最重要任務だ。\n王子の身柄を手に入れることが叶えば――	Oliver	This is a mission of the gravest importance. If we are able to obtain the prince...	奥利弗	这是最重要的任务，\n只要王子人在我们手上——	奧利弗	這是最重要的任務。\n要是能成功把王子弄到手──
+TalkEvent_07_014ID	3		オリバー	身代金を取るも良し。身柄を引き渡し、王国に恩を\n売るも良し。使い道は多かろう	Oliver	We could ransom him off. We could offer him back as a bargaining chip. There are so many options.	奥利弗	我们可以选择拿赎金，也可以把他送回去，\n卖王国一个人情。想怎么利用都行。	奧利弗	無論是要求贖金，還是把他交給王國、\n賣個人情都挺好的。選擇應該不少。
+TalkEvent_07_014ID	4		オリバー	お前は戦いの天才……儂が育て上げた最高傑作だ。\nお前の力ならば奪うのは容易いだろう	Oliver	You are a fighting genius, a masterpiece of my own making. Stealing him will be child's play for you.	奥利弗	你是战斗上的天才……是我创造的至高杰作。\n凭你的力量应该可以轻松劫走他。	奧利弗	妳是戰鬥天才……是我培育出來的最佳傑作。\n如果是妳，要奪走他應該很容易吧。
+TalkEvent_07_014ID	5		オリバー	腐敗した愚かな王族どもや、数が頼みの盗賊なぞ\n天才の敵ではない。鴉の恐怖を刻み込んでやれ	Oliver	A corrupt, foolish prince and a bunch of bandits won't stand a chance against your skills. Strike the fear of the Crow deep into their souls.	奥利弗	愚蠢腐败的王族与乌合之众的盗贼，\n他们不是你这个天才的对手。让他们铭记鸦的恐怖吧。	奧利弗	腐敗的愚蠢王族們，以及只靠數量取勝的盜賊，\n都不是天才的對手。讓他們將烏鴉的可怕銘記在心吧。
+TalkEvent_07_014ID	6	Crow	鴉	――は。その任務、必ずや	Crow	It will be done, sir.	鸦	——是，保证完成任务。	烏鴉	──是。我絕對會完成這個任務。
+TalkEvent_07_014ID	7		盗賊Ｃ	な、なんだテメェら！？　放せ！	Bandit C	What in the world are you doin'?! Let me go!	盗贼C	你、你们是什么人？！放开我！	盜賊C	做、做啥！？放開我！
+TalkEvent_07_014ID	8	Crow	鴉	人質の居所まで案内してもらおう	Crow	Show me where you are keeping the hostage.	鸦	带我去关押人质的地方。	烏鴉	帶我們去找人質吧。
+TalkEvent_07_014ID	9		盗賊Ｃ	し、知らねぇよ！　なんのことだよ！？	Bandit C	I don't know what you're talking about!	盗贼C	什、什么人质！你在说什么？！	盜賊C	我、我不知道！妳在說什麼啊！？
+TalkEvent_07_014ID	10	Crow	鴉	隠しても無駄だ。\nお前たち一味の計画はすでに知れている	Crow	It's no use playing dumb. I know all about your plans.	鸦	不用装了，\n我早就知道你们的计划了。	烏鴉	隱瞞也沒用。\n你們的計畫我一清二楚。
+TalkEvent_07_014ID	11		盗賊Ｃ	誰が口を割るかよ！　他を当たんな！	Bandit C	No one's gonna fess up! Give it up!	盗贼C	我不会说的！找别人吧！	盜賊C	誰要說啊！去問別人！
+TalkEvent_07_014ID	12		盗賊Ｃ	がはっ！	Bandit C	GAH!	盗贼C	啊！	盜賊C	呃啊！
+TalkEvent_07_014ID	13	Crow	鴉	白状しなければ、お前の顔を切り刻む	Crow	If you're going to stay silent, then I'll just have to carve up your face.	鸦	既然不肯老实交代，我就在你脸上来几刀吧。	烏鴉	不老實點，就刮花你的臉。
+TalkEvent_07_014ID	14		盗賊Ｃ	ひぃっ、は、話す……	Bandit C	Eek! I-I'll talk.	盗贼C	噫……我说、我说……	盜賊C	噫，我、我說……
+TalkEvent_07_014ID	15	Crow	鴉	恐怖の前に人は屈するのみだ	Crow	Humans always succumb in the face of fear.	鸦	面对恐惧，任何人都会屈服。	烏鴉	面對恐懼，人只能屈服。
+TalkEvent_07_015ID	0	Resna	レスナ	エスティさん！	Resna	Esty!	蕾斯娜	艾丝缇小姐！	蕾斯娜	艾絲緹小姐！
+TalkEvent_07_015ID	1	Esty	エスティ	あら？　レスナちゃんにイザナちゃんじゃない。\nマリオン、今日はこの子たちも連れてきたの？	Esty	Hm? Well, if it isn't Resna and Izana. Are you journeying together today, Marion?	艾丝缇	咦？这不是蕾斯娜和伊札娜吗？\n玛丽翁，你今天怎么还带她们来了？	艾絲緹	哎呀？這不是蕾斯娜和伊札娜嗎？\n瑪麗翁，妳今天把她們也帶來啦？
+TalkEvent_07_015ID	2	Marion	マリオン	ええ。ちょっと込み入った状況になっちゃってね	Marion	Yes, though we've found ourselves in a bit of a pickle.	玛丽翁	嗯，情况稍微有点复杂。	瑪麗翁	嗯。因為情況變得有點複雜。
+TalkEvent_07_015ID	3	Resna	レスナ	心当たりってエスティさんのことだったんですね	Resna	Oh, so Esty is the one you were talking about asking to help us?	蕾斯娜	帮手原来是指艾丝缇小姐啊。	蕾斯娜	原來妳指的是艾絲緹小姐啊。
+TalkEvent_07_015ID	4	Izana	イザナ	エスティさんが一緒なら心強いね！	Izana	It'd be such a relief to have Esty with us!	伊札娜	有艾丝缇小姐同行就安心多了！	伊札娜	有艾絲緹小姐在，感覺很令人放心呢！
+TalkEvent_07_015ID	5	Esty	エスティ	何かお困りみたいね？	Esty	Is there something the matter?	艾丝缇	你们是遇上什么麻烦事了吗？	艾絲緹	妳們是不是正在煩惱什麼？
+TalkEvent_07_015ID	6	Marion	マリオン	実は――	Marion	The thing is...	玛丽翁	其实——	瑪麗翁	其實──
+TalkEvent_07_015ID	7	Esty	エスティ	なるほどね。\nそういうことなら、もちろん私も協力するわ	Esty	I see. Of course I'll come along.	艾丝缇	这样啊。\n那我肯定是要帮忙的。	艾絲緹	原來如此。\n這樣的話，我當然願意幫忙。
+TalkEvent_07_015ID	8	Izana	イザナ	やったぁ！	Izana	Yay!	伊札娜	太好了！	伊札娜	太好了！
+TalkEvent_07_015ID	9	Resna	レスナ	ありがとうございます、エスティさん！	Resna	Thank you so much, Esty!	蕾斯娜	谢谢你，艾丝缇小姐！	蕾斯娜	艾絲緹小姐，謝謝妳！
+TalkEvent_07_015ID	10	Esty	エスティ	そうと決まったら急ぎましょ。\n目指すのは採掘場跡だっけ？	Esty	We'd best hurry then. You said you were going to the mining site, right?	艾丝缇	那我们赶紧出发吧。\n要去采掘场遗迹对吧？	艾絲緹	既然決定了，就加快動作吧。\n目的地是挖掘場遺跡，是嗎？
+TalkEvent_07_015ID	11	Esty	エスティ	誘拐犯なんてあっという間に片付けちゃうわよ。\nお姉さんに、まっかせなさい！	Esty	We'll be rid of the kidnappers in no time. You can count on me!	艾丝缇	区区绑架犯，我三两下就能收拾掉。\n交给大姐姐我吧。	艾絲緹	綁架犯之類的我三兩下就能解決。\n交給姐姐我吧！
+TalkEvent_07_015ID	12	Resna	レスナ	頼もしいお言葉！　よろしくお願いします！	Resna	That's music to my ears! We really appreciate it!	蕾斯娜	好可靠啊！就拜托你了！	蕾斯娜	真是太可靠了！拜託妳了！
+TalkEvent_07_015ID	13	Resna	レスナ	ロマンさん、待っていてくださいね。\n必ず助けに行きますから！	Resna	Roman, just you wait. We're on our way to rescue you!	蕾斯娜	罗曼先生，请再等一等。\n我们一定会去救你的！	蕾斯娜	羅曼先生，請你等著。\n我們一定會去救你的！
+TalkEvent_07_016ID	0	Marion	マリオン	エスティの報告通りね。\n普段より魔物が凶暴化してるように見えるわ	Marion	It's just like you said, Esty—it seems like the monsters have been more violent as of late.	玛丽翁	跟艾丝缇报告的一样，\n魔物看起来比平时更凶暴了。	瑪麗翁	就跟艾絲緹的報告沒兩樣呢。\n魔物凶暴化的情形似乎比平時還要嚴重。
+TalkEvent_07_016ID	1	Esty	エスティ	そうでしょ？　この頃、\n色んな場所で似たようなことが起こってるのよね	Esty	Doesn't it? Actually, I've heard reports of other areas experiencing the same thing.	艾丝缇	对吧？最近很多地方都发生了同样的情况。	艾絲緹	對吧？最近，\n很多地方都有類似的事情發生。
+TalkEvent_07_016ID	2	Izana	イザナ	言われてみれば、いつもより騒がしい感じだよね。\n気を引き締めていかないとだね！	Izana	It has felt more chaotic lately, come to think of it. We'll have to be careful then!	伊札娜	这么一说，这里比平时还要不平静呢。\n得提高警惕！	伊札娜	這麼說來，的確有種比平常還要躁動的感覺。\n得繃緊神經才行！
+TalkEvent_07_016ID	3	Resna	レスナ	そうだね、イザナちゃん。私たちも魔物の様子に\n気を配っていこう。それにしても……	Resna	You're right, Izana. Let's be cautious about the monsters as we go. Though...	蕾斯娜	你说得对，伊札娜。\n我们也要留意魔物的状态。说起来……	蕾斯娜	伊札娜妳說得對，我們也會多加留意\n魔物的情況。話說回來……
+TalkEvent_07_016ID	4	Resna	レスナ	お二人の連携、本当にお見事でした！\n無駄なく美しく、まさに百戦錬磨！	Resna	The way you two worked together was absolutely amazing! So elegant and striking! You're like a two-person army!	蕾斯娜	你们的配合真是好有默契啊！\n没有多余的动作，英姿飒爽，可谓是身经百战！	蕾斯娜	妳們兩位聯手戰鬥，實在是太精采了！\n動作既俐落又漂亮，完美體現身經百戰的樣貌！
+TalkEvent_07_016ID	5	Izana	イザナ	分かる！　落ち着いてて、ぜんぜん隙がないよね！	Izana	Oh yeah, definitely! They were so calm and left no openings at all!	伊札娜	对对！战斗时沉着应对，完全没有破绽！	伊札娜	我懂！流暢到沒有絲毫破綻！
+TalkEvent_07_016ID	6	Esty	エスティ	そう？　ほめても何も出ないわよ？	Esty	Really? I'll tell you now, flattery won't get you anywhere with me.	艾丝缇	有那么厉害吗？就算夸我也没有好处哦？	艾絲緹	是嗎？就算誇獎我們，也沒有獎品喔？
+TalkEvent_07_016ID	7	Marion	マリオン	まあ、ある程度は戦えないと\n実地調査もできないしね	Marion	I wouldn't be able to investigate if I didn't have some fighting skills, after all.	玛丽翁	毕竟没有一定身手，\n是做不了实地调查的。	瑪麗翁	畢竟要是沒有一定的戰鬥能力，\n就無法做實地調查啊。
+TalkEvent_07_016ID	8	Resna	レスナ	強くて綺麗でなんでもできて……。\n私もお二人みたいになれるといいなぁ	Resna	So strong and beautiful and capable... I hope I can be like you two someday.	蕾斯娜	强大美丽，无所不能……\n我也好想变得像你们那样啊。	蕾斯娜	既美麗、強大又無所不能……\n我也好想變得跟妳們一樣厲害～
+TalkEvent_07_016ID	9	Esty	エスティ	あら、嬉しいこと言ってくれちゃって	Esty	Goodness. How sweet of you to say.	艾丝缇	哎呀，嘴真甜。	艾絲緹	哎呀，能被這麼說真令人開心。
+TalkEvent_07_016ID	10	Marion	マリオン	期待に沿えるかは分からないけど、\n何かあれば、遠慮なく聞いてちょうだい	Marion	I'm not sure if I can be of any help in that regard, but I'm always available to lend an ear.	玛丽翁	虽然不确定能否满足你的期待，\n不过有什么事就问我们吧，别客气。	瑪麗翁	雖然不曉得能不能符合期望，\n有問題的話就儘管問吧。
+TalkEvent_07_016ID	11	Marion	マリオン	相談相手くらいにはなれると思うわ	Marion	I think I can at least be someone to talk to.	玛丽翁	我相信还是能够帮你解答疑惑的。	瑪麗翁	我們可以成為妳的商量對象喔。
+TalkEvent_07_016ID	12	Resna	レスナ	ありがとうございます！　色々と落ち着いたら、\nお二人のお話、ぜひ聞かせてほしいです	Resna	Thank you! When things settle down, I would love to ask about all of your experiences!	蕾斯娜	那太好了！等事情结束了，\n我有好多事想向你们请教！	蕾斯娜	謝謝妳們！等各種事情告一段落後，\n請讓我聽聽妳們的建議。
+TalkEvent_07_016ID	13	Esty	エスティ	ええ。お仕事のことでも私生活のことでも、\n大人の女性として、ばっちり助言しちゃうわよ	Esty	I could give you all kinds of advice about work or life, or even being a woman.	艾丝缇	嗯，不论是工作上还是生活上，\n我们都会作为成年女性给你切实的建议。	艾絲緹	嗯。無論是工作、私生活還是\n身為成熟女性的想法，我都會不吝分享。
+TalkEvent_07_016ID	14	Izana	イザナ	私生活……あ！　じゃあ１つだけ質問！	Izana	Life? Oh! Yes, I do have a question!	伊札娜	生活上……啊！那我想问一个问题！	伊札娜	私生活……！啊！那我問一個問題就好！
+TalkEvent_07_016ID	15	Izana	イザナ	これだけすごい二人なんだし、\n恋愛なんかも達人だったりするの？	Izana	Since you two are so amazing, does that make you masters of romance as well?	伊札娜	两位这么强大，\n那在恋爱方面也是高手吗？	伊札娜	妳們兩位這麼厲害，\n那在戀愛方面也是專家嗎？
+TalkEvent_07_016ID	16	Resna	レスナ	イザナちゃんっ、いきなりそんな質問、\nお二人も困っちゃうよ	Resna	Izana, you can't just ask that of them out of the blue!	蕾斯娜	伊札娜，你突然问这种问题，\n多为难人啊。	蕾斯娜	伊札娜，妳突然問這種問題，\n她們兩位會很困擾的。
+TalkEvent_07_016ID	17	Izana	イザナ	えへへ。つい気になっちゃって。ほら、アタシたち\nだっていつかそういう時が来るかもしれないじゃん？	Izana	Hehe. I'm just curious is all. One day, we're going to have to deal with that too, you know?	伊札娜	嘿嘿，我真的很好奇嘛。\n你看，那是我们将来也可能经历的事吧？	伊札娜	嘿嘿。我突然很好奇嘛。妳想想，\n我們總有一天也會談戀愛不是嗎？
+TalkEvent_07_016ID	18	Resna	レスナ	そ、それはそうだけど	Resna	Sure, but...	蕾斯娜	是、是这样没错啦。	蕾斯娜	是、是沒錯啦。
+TalkEvent_07_016ID	19	Resna	レスナ	でも確かに……お二人の恋人だったら、\nきっととっても素敵な方なんだろうなぁ	Resna	Well, knowing them, their lovers must be amazing people too.	蕾斯娜	不过我确实也想过……两位如果有恋人，\n那一定是超级出色的人吧。	蕾斯娜	不過……妳們兩位的戀人，\n一定是非常棒的人吧～
+TalkEvent_07_016ID	20	Izana	イザナ	やっぱりレスナちゃんもちょっと気になる？	Izana	I knew it! You want to know too, don't you, Resna?	伊札娜	蕾斯娜也很好奇吧？	伊札娜	蕾斯娜妳果然也有點在意吧？
+TalkEvent_07_016ID	21	Esty	エスティ	……おっとぉ、こうしちゃいられない。\n囚われの王子様を一刻も早く助けに行かないと	Esty	Uh-oh. This won't do. We have a prince to save!	艾丝缇	……哎呀，不能再这么磨磨蹭蹭的了。\n我们得抓紧时间去拯救被囚禁的王子。	艾絲緹	……哎呀，不能再繼續閒聊了。\n得盡快救出遭到囚禁的王子殿下才行。
+TalkEvent_07_016ID	22	Marion	マリオン	兵は神速を貴ぶ、とも言うしね。\n急ぎましょう、レスナ、イザナ	Marion	"As they say, ""Speed is the essence of war."" Hop to it, Resna, Izana."	玛丽翁	俗话说兵贵神速。\n抓紧时间行动吧，蕾斯娜、伊札娜。	瑪麗翁	俗話說「兵貴神速」嘛。\n蕾斯娜、伊札娜，我們加緊腳步吧。
+TalkEvent_07_016ID	23	Resna	レスナ	えっ！？　わわっ、お二人とも待ってください！	Resna	What?! Hey! Wait up, you two!	蕾斯娜	咦？！哇，请等等我们！	蕾斯娜	咦！？哇啊、兩位請等一下！
+TalkEvent_07_016ID	24	Izana	イザナ	あれ？　さっきの質問は――	Izana	Huh? What about my questio―	伊札娜	咦？那刚才的问题——	伊札娜	咦？剛才的問題──
+TalkEvent_07_016ID	25	Esty	エスティ	ほーら、駆け足！	Esty	Come on! Let's go!	艾丝缇	好啦，动作快！	艾絲緹	好了──快跑！
+TalkEvent_07_017ID	0	Roman	ロマン	ちょっと手が痺れてきたなぁ。\n少しだけでも緩めてはもらえないだろうか？	Roman	My hands are going numb. Do you mind loosening the ropes a bit?	罗曼	我的手都开始发麻了啊。\n能稍微帮我松松绑吗？	羅曼	我的手好麻啊～\n能不能稍微幫我鬆開一點？
+TalkEvent_07_017ID	1		盗賊Ｄ	チッ……少しだけだぞ、これ以上はダメだ。\n逃げられちゃ困るからな	Bandit D	Tch. Fine, but I'm not doing them any looser than this. Can't have you running off.	盗贼D	啧……就给你稍微系松一点，别想得寸进尺。\n你要是逃了就难办了。	盜賊D	嘖……只能一點點而已，不能再更鬆了。\n要是被你給溜走，我會很困擾的。
+TalkEvent_07_017ID	2	Roman	ロマン	いや、随分楽になったよ。君にも立場があるのに、\n本当に助かったとも	Roman	No, this is perfect. You've been a big help, especially considering your own position.	罗曼	不不，这样就轻松多了。\n你也有自己的立场，我很感谢。	羅曼	哎呀，舒服多了。明明你有你的立場，\n卻還是幫了我。謝謝你。
+TalkEvent_07_017ID	3		盗賊Ｄ	お前の言った通りにしたら交渉も上手くいってやがる。\nこれくらいは許してやるよ	Bandit D	We did what you said, and negotiations are going well. It's the least we can do.	盗贼D	照你说的做了之后交涉进展也很顺利。\n就让你少吃点苦头好了。	盜賊D	你的建議讓交涉進行得十分順利。\n這點小事沒啥大不了。
+TalkEvent_07_017ID	4		盗賊Ｄ	嘘つき王族に一泡吹かせてやろうじゃねぇか	Bandit D	How 'bout we teach those lyin' royals a lesson, eh?	盗贼D	打那群谎话连篇的王族一个措手不及！	盜賊D	讓騙子王族們大吃一驚吧。
+TalkEvent_07_017ID	5	Roman	ロマン	（……残念だが、そうはならない。\n　嘘つきは私のほうだからね）	Roman	(Unfortunately, that I can't allow. I am the liar in the room, after all.)	罗曼	（……很遗憾，你们做不到这点。\n　因为说谎的人是我。）	羅曼	（……可惜事情不是那樣子，\n　因為我才是那個騙子啊。）
+TalkEvent_07_017ID	6		オルペウス	また父上にお小言をいただいたそうだな、リヒャルト	Orpheus	I heard Father has been giving you grief again, Richard.	奥菲斯	看来你又挨父王教训了啊，理查德。	奧菲斯	理查德，你又被父親大人責備了啊？
+TalkEvent_07_017ID	7	Roman	ロマン	兄上……。\nいけませんよ、第一王子が気軽に城の外を出歩いては	Roman	Orpheus. You shouldn't be here. The crown prince shouldn't be wandering outside the castle so nonchalantly.	罗曼	哥哥……\n第一王子随随便便来城外晃悠可不合适。	羅曼	兄長大人……\n這樣不行啦，第一王子怎麼能隨便在城外走動呢？
+TalkEvent_07_017ID	8		オルペウス	お前にだけは言われたくないな。\n……父上から何を言われた？	Orpheus	You're one to talk. What did Father say to you?	奥菲斯	只有你没这个资格说我。\n父亲跟你说了什么？	奧菲斯	就你沒資格說我。\n父親大人……對你說了什麼？
+TalkEvent_07_017ID	9	Roman	ロマン	旅に出てみたいと言ったら、王子の自覚がないと\n叱られました。兄上を見習えと	Roman	When I told him I wanted to travel, he scolded me for not knowing my place as a prince. Said I should learn from your example.	罗曼	我说我想去游历，他批评我欠缺身为王子的自觉，\n让我多多向哥哥你学习。	羅曼	我說我想出去旅行後，就被斥責了。\n說我缺乏王子的自覺。叫我多向兄長大人看齊。
+TalkEvent_07_017ID	10		オルペウス	お前が旅に出られるよう私から父上に話してみようか？	Orpheus	Shall I talk to Father on your behalf?	奥菲斯	要我去劝劝父王答应你外出游历吗？	奧菲斯	要我幫忙說服父親大人讓你出去旅行嗎？
+TalkEvent_07_017ID	11	Roman	ロマン	良いのですか！？	Roman	Would you really?!	罗曼	可以吗？！	羅曼	可以嗎！？
+TalkEvent_07_017ID	12		オルペウス	まぁ条件は付されると思うが、子を思う親の気持ちだ。\n分かってやってくれ	Orpheus	Well, there are bound to be some conditions, of course. But it's only because he's thinking about what's best for his children, you know.	奥菲斯	估计他会提条件吧，\n但为人父母总会放心不下孩子，你体谅体谅他。	奧菲斯	但應該會有附加條件。畢竟父母會擔心孩子啊。\n你先做好心理準備吧。
+TalkEvent_07_017ID	13	Roman	ロマン	はは……仕方ありませんね	Roman	Haha... Oh well.	罗曼	哈哈……真没办法。	羅曼	哈哈……這也是無可奈何的事。
+TalkEvent_07_017ID	14		オルペウス	リヒャルト。お前には私にはないもの……遊び心や\n冒険心といったものがある	Orpheus	Richard. You have something I don't: a love of fun and a lust for adventure.	奥菲斯	理查德，你拥有我所欠缺的……\n可以说是玩心和冒险精神吧。	奧菲斯	理查德，你的玩心和冒險精神\n是我缺乏的特質……
+TalkEvent_07_017ID	15		オルペウス	私こそお前を見習いたいと、常々思っているよ	Orpheus	I've always felt that it is I who should be learning from you.	奥菲斯	我倒一直想向你学习呢。	奧菲斯	我覺得自己才該向你學習呢。
+TalkEvent_07_017ID	16	Roman	ロマン	兄上？	Roman	What?	罗曼	哥哥？	羅曼	兄長大人？
+TalkEvent_07_017ID	17		オルペウス	父上を見ていれば分かると思うが、王とは孤独なもの。\n親子の情よりも王たる使命が優先される	Orpheus	One glance at Father will show you how lonely being a king is. His duty to rule must always come before his feelings as a parent.	奥菲斯	你看到父亲应该就能明白，王是孤独的。\n国王的使命永远优先于亲情。	奧菲斯	看著父親大人的你應該也明白，王是孤獨的。\n國王的使命將優先於親子之情。
+TalkEvent_07_017ID	18		オルペウス	それは第一王子の私も同じこと……だからこそ	Orpheus	As I am the crown prince, it will be the same for me. Which is precisely why...	奥菲斯	我身为第一王子也是一样……所以……	奧菲斯	而身為第一王子的我也一樣……所以……
+TalkEvent_07_017ID	19		オルペウス	私にはお前がいてくれてよかったと思う。私が\n自力では持てない、広い視野をもたらしてくれる	Orpheus	I am thankful I at least have you. You possess what I don't and broaden my horizons.	奥菲斯	我很高兴有你在身边。\n你能带给我广阔的视野，这是我自己做不到的。	奧菲斯	我覺得有你在真是太好了。你能為我帶來\n我自己無法擁有的廣闊視野。
+TalkEvent_07_017ID	20	Roman	ロマン	ほめすぎではないですか？	Roman	Aren't you going a bit far with the praise?	罗曼	你夸得太过了吧？	羅曼	你會不會誇得太過頭了？
+TalkEvent_07_017ID	21		オルペウス	いや。お前は私たちにも王国にも必要な存在だ。\nだから、ふらりとどこかへ消えたりはしてくれるなよ？	Orpheus	No. You are what the royal family and this country needs. So don't go wandering off and disappearing somewhere, all right?	奥菲斯	不，你对我们、对这个王国来说都是不可或缺的人物。\n所以你可别突然躲到哪里销声匿迹了啊？	奧菲斯	不會。對我們和王國來說，你很重要。\n所以，你可別隨便就消失不見喔？
+TalkEvent_07_017ID	22	Roman	ロマン	兄上を置いて消えるわけがないでしょう	Roman	You really think I'd just leave you alone like that?	罗曼	我不可能抛下哥哥躲起来的。	羅曼	我怎麼可能丟下兄長大人自己消失呢？
+TalkEvent_07_017ID	23		オルペウス	その言葉、信じているぞ？	Orpheus	Do I have your word?	奥菲斯	我把你这句话当真没问题吧？	奧菲斯	我可以相信你這句話嗎？
+TalkEvent_07_017ID	24	Roman	ロマン	ええ。約束しますよ	Roman	Yes. I promise.	罗曼	没问题，我向你保证。	羅曼	嗯。我們說好了。
+TalkEvent_07_017ID	25		オルペウス	リヒャルト。多くのものを見聞きしてきてほしい	Orpheus	Richard, I want you to experience a great many things.	奥菲斯	理查德，我希望你能见识更广阔的天地。	奧菲斯	理查德，我希望你能增廣見聞。
+TalkEvent_07_017ID	26		オルペウス	私の願いはランターナ王国のさらなる繁栄、\nそして民の幸福なのだから	Orpheus	My wish is for the further prosperity of the Kingdom of Lantarna and the happiness of my people.	奥菲斯	我的愿望就是兰塔纳王国日益繁荣，\n国民幸福生活。	奧菲斯	我的願望是使蘭塔納王國更加繁榮，\n並讓人民感到幸福。
+TalkEvent_07_017ID	27	Roman	ロマン	それが兄上のお役に立つのでしたら	Roman	If that's what will help you.	罗曼	如果我这么做能帮上哥哥的忙，我会的。	羅曼	如果能幫上兄長大人，我絕對會辦到。
+TalkEvent_07_017ID	28		オルペウス	ああ、役に立つとも	Orpheus	Yes, it is.	奥菲斯	嗯，你当然能。	奧菲斯	嗯，你當然辦得到。
+TalkEvent_07_017ID	29	Roman	ロマン	（王族が欲まみれなものか。兄上が、\n　誰よりも民を想っているのを私は知っている）	Roman	(Greedy royalty, huh? I know for a fact that my brother cares about his people more than anyone else.)	罗曼	（王族怎会都是贪得无厌之人，\n　至少我知道哥哥比谁都忧国忧民。）	羅曼	（王族哪裡貪得無厭呢？兄長大人\n　比誰都還為人民著想，我很清楚。）
+TalkEvent_07_017ID	30	Roman	ロマン	（そして王という、なんとも肩の凝る重責を、\n　正面から双肩に背負おうとしている）	Roman	(And now he is about to take on the heavy burden of being king.)	罗曼	（他已做好准备接受国王的重担，\n　直面这份沉重的职责。）	羅曼	（而他打算堂堂正正地接下名為國王、\n　令人喘不過氣的重責大任。）
+TalkEvent_07_017ID	31	Roman	ロマン	（それは私にはできないことだった。\n　しかし、そんな私の――）	Roman	(Something I could never do. And yet...)	罗曼	（那是我做不到的事。\n　并且，尽管我是个不称职的王族――）	羅曼	（這是我做不到的事。\n　不過，兄長大人他── ）
+TalkEvent_07_017ID	32	Roman	ロマン	（王族としては身勝手な気持ちを汲んで、\n　自由を与えてくださった）	Roman	(It was he who indulged my selfish desires as royalty and granted me my freedom.)	罗曼	（哥哥仍然愿意倾听我任性的主张，\n　并给予我自由。）	羅曼	（包容了身為王族卻很任性的我，\n　並給了我自由。）
+TalkEvent_07_017ID	33	Roman	ロマン	（私はそんな兄上の力になりたい）	Roman	(I want to repay him.)	罗曼	（我想辅佐哥哥。）	羅曼	（所以我想助他一臂之力。）
+TalkEvent_07_017ID	34	Roman	ロマン	（兄上が王位に就いた際、錬金術はきっと、\n　兄上の力になるはずだ）	Roman	(When he ascends to the throne, I am confident that alchemy will prove useful to him.)	罗曼	（当哥哥成为国王时，\n　炼金术一定能为他效力。）	羅曼	（兄長大人登上王位之際，\n　鍊金術一定會成為他的助力。）
+TalkEvent_07_018ID	0	Roman	ロマン	ふわぁ……さすがに疲れたなぁ。少し休ませてもらうよ	Roman	Phew... I sure am beat. Mind letting me get some shut-eye?	罗曼	呼……我已经累得不行了，稍微休息一下。	羅曼	呼……我有點累了～讓我稍微休息一下。
+TalkEvent_07_018ID	1		盗賊Ｂ	こいつ人質だってのに、よく寝られるな……	Bandit B	He sure sleeps well for a hostage.	盗贼B	身为人质亏他能睡得着……	盜賊B	這傢伙明明是人質，竟然還睡得著……
+TalkEvent_07_018ID	2		盗賊Ａ	意外と肝が据わってやがる。まぁ面倒がなくていいや\n……俺らも交代で休憩するか	Bandit A	Definitely got guts, I'll give him that. No skin off my back. Let's rotate takin' breaks, too.	盗贼A	他还挺有胆量的。不给我们添麻烦也好。\n我们也轮流休息吧。	盜賊A	膽子意外地大啊。不過倒是省下不少麻煩……\n我們也輪流休息吧。
+TalkEvent_07_018ID	3	Roman	ロマン	（よし、見張りを減らせた。そろそろ頃合いかな）	Roman	(Great, they're relaxing their security. Looks like I'm about to get my chance.)	罗曼	（好，看守的人数减少了，是时候了吧。）	羅曼	（太好了，看守者變少了。差不多是時候了吧。）
+TalkEvent_07_018ID	4	Roman	ロマン	（ここをこうして……よし、抜けた）	Roman	(I'll just do this, and... Yes, I'm free!)	罗曼	（然后要这样……好，挣脱了。）	羅曼	（這樣、然後那樣……好，掙脫了。）
+TalkEvent_07_018ID	5	Roman	ロマン	ていっ	Roman	Whoops.	罗曼	嘿。	羅曼	嘿。
+TalkEvent_07_018ID	6		盗賊Ｄ	ぐ……っ！？　てめぇ……	Bandit D	Nnh?! You little...!	盗贼D	唔……？！你这家伙……	盜賊D	呃……！？你這傢伙……
+TalkEvent_07_018ID	7	Roman	ロマン	縄抜けの練習をしておいてよかったよ。隠し芸として\n温めていたのがこんなところで役に立つとはね	Roman	I'm glad I practiced all that rope untying! Never thought my little hidden talent would come in handy like this.	罗曼	幸好我事先练习过绳索逃脱术。\n这是我还没表演过的余兴节目，没想到会用在这里。	羅曼	幸好我曾練習過如何掙脫繩索。沒想到為了餘興節目\n培養的技能竟然會在這種地方派上用場。
+TalkEvent_07_018ID	8		盗賊Ｄ	全部……嘘だったのか？\n極夜の錬金党っていうのも……	Bandit D	You mean...you were lying this whole time?! So all that about the Polar Night Alchemists...	盗贼D	你说的……全都是谎话？\n关于极夜的炼金党也是……	盜賊D	全部……都是謊言嗎？\n極夜的鍊金黨也……
+TalkEvent_07_018ID	9	Roman	ロマン	そうなんだよ。\n……おやすみ	Roman	Utter nonsense. Sleep tight!	罗曼	没错。\n……晚安。	羅曼	沒錯。\n晚安……
+TalkEvent_07_018ID	10	Roman	ロマン	よし、抜け出すか。上層は敵がいっぱいだ。\nここは、あえての下層だな	Roman	Time for me to make my escape. The upper level is swarming with those guys. I guess that means I'll have to go down.	罗曼	好，接下来该想办法逃出去了。\n上层全都是敌人，此时先留在下层才是上策。	羅曼	好，逃出去吧。上層有很多敵人，\n這時候要刻意往下層去。
+TalkEvent_07_018ID	11		盗賊Ｂ	おい、何があった！？　王子がいないぞ！？	Bandit B	Hey, what's goin' on?! Where's the prince?!	盗贼B	喂，出什么事了？！王子哪去了？！	盜賊B	喂，發生了什麼事！？王子不見了！？
+TalkEvent_07_018ID	12		盗賊Ｄ	野郎、逃げやがった……\n俺たち、まんまと騙されて……	Bandit D	That blasted fool escaped! He had us fooled the whole time!	盗贼D	居然让那家伙逃了……\n我们被他骗得团团转……	盜賊D	那小子逃走了……\n我們完全被他給騙了……
+TalkEvent_07_018ID	13		盗賊Ａ	ちくしょう！　舐めやがって！\n追うぞ、絶対ただじゃおかねぇ！	Bandit A	Curses! We've been had! After him! He's gonna pay for this!	盗贼A	混账东西！竟敢小瞧我们！\n给我追，绝对饶不了他！	盜賊A	可惡！竟敢小看我們！\n快追，我絕對饒不了他！
+TalkEvent_07_018ID	14	Roman	ロマン	（そろそろ気付かれてる頃かな）	Roman	(They've probably noticed by now.)	罗曼	（这会儿他们应该意识到实情了吧。）	羅曼	（他們應該快注意到了吧？）
+TalkEvent_07_018ID	15	Roman	ロマン	（ひとまず、どこかに身を隠して賊どもを\n　やり過ごさなければ）	Roman	(I better lay low for the time being and find a way around them.)	罗曼	（首先找个地方藏身，\n　躲过那些盗贼的追捕。）	羅曼	（我得先暫時找個地方躲起來，\n　等那群賊黨通過才行。）
+TalkEvent_07_019ID	0		盗賊Ａ	上の見張りの報告からすると、奴は外には逃げてねぇ！\n奥だ！　奥を探せ！	Bandit A	Our lookout says he hasn't made it outside yet! Search the back!	盗贼A	上面望风的人说没见他逃出去！\n去里面！给我往里面找！	盜賊A	據上面看守者的報告，他還沒逃出去！\n裡面！往裡面找！
+TalkEvent_07_019ID	1	Odelia	オディーリア	ロマンはこの奥に逃亡したようですね	Odelia	Seems like Roman has fled further into the mine.	奥迪莉雅	罗曼好像逃往深处了。	奧迪莉雅	羅曼好像逃到裡面去了呢。
+TalkEvent_07_019ID	2	Valeria	ヴァレリア	あいつらより先にロマンを見つけなきゃ！	Valeria	We need to find him before the bandits do!	瓦莱莉娅	我们要抢在他们前头找到罗曼！	瓦萊莉婭	得搶在那些傢伙之前找到羅曼才行！
+TalkEvent_07_019ID	3	Heidi	ハイディ	それにしてもさ、ロマンってあんな風じゃない？\nどうやって王子だってあいつらにバレたんだろ？	Heidi	How did those bandits find out he was a prince? I mean, you know how he looks, right?	海蒂	说起来，以罗曼平时的装扮和气质，\n盗贼是怎么知道他是王子的啊？	海蒂	話說回來，羅曼不是一直都打扮成那樣嗎？\n那些傢伙為何會發現他是王子？
+TalkEvent_07_019ID	4	Valeria	ヴァレリア	そうね。パッと見ても王宮の人には見えないわよね	Valeria	Yeah, he doesn't look anything like royalty.	瓦莱莉娅	是啊，乍一看一点也不像王宫的人吧。	瓦萊莉婭	對。乍看之下，根本不曉得是王宮的人。
+TalkEvent_07_019ID	5	Ayesha	アーシャ	わたしはたまたま王都でロマンさんが騎士の方と話して\nいるのを聞いて王子だって知っちゃったんですよね……	Ayesha	I only found out when I happened to overhear him talking to a knight while I was in the capital.	爱夏	我在王都偶然撞见过罗曼先生跟骑士对话，\n听了他们的话我才知道他是王子……	愛夏	我是偶然在王都聽見羅曼先生和騎士說話，\n才發現他是王子的……
+TalkEvent_07_019ID	6	Ayesha	アーシャ	物陰に隠れて話されてはいたんですけど、\n声はよく聞こえてきて……	Ayesha	They were talking in the shadows, but I could still hear them clearly.	爱夏	他们虽然是躲在遮蔽处说话的，\n但我能很清楚地听见声音……	愛夏	他們雖然躲在暗處，\n但我聽得很清楚……
+TalkEvent_07_019ID	7	Heidi	ハイディ	それって王都での話なんでしょ？\n……もうほとんど王子だってこと隠す気なくない？	Heidi	Wait—in the capital, you say? So you were hiding his identity too?!	海蒂	那可是在王都吧？\n他根本没打算隐瞒自己是王子的事实吧……？	海蒂	這是在王都發生的事嗎？\n他根本已經不打算隱瞞王子的身分了吧……
+TalkEvent_07_019ID	8	Ayesha	アーシャ	え……えっと、それはともかく、盗賊の人たちも\n似たような感じで気が付いたのかなって思うんです	Ayesha	Um, well, the point is, I wonder if the bandits found out in a similar way, perhaps.	爱夏	唔……唔，这个先不提，\n我想盗贼应该也是通过差不多的方式察觉到的吧。	愛夏	呃……嗯，姑且不論這個，\n我想盜賊們可能也是在類似的狀況下發現的。
+TalkEvent_07_019ID	9	Heidi	ハイディ	あはは……ロマンが今後も隠すつもりなら、そこは\n注意してやったほうがいいかもだね	Heidi	Ahaha. If Roman wants to keep his secret under wraps, he better be more careful in the future.	海蒂	哈哈……如果罗曼今后也想继续隐瞒，\n我们得提醒他注意这方面。	海蒂	啊哈哈……羅曼以後如果還想繼續隱藏身分，\n或許提醒他注意一下這點比較好。
+TalkEvent_07_019ID	10	Valeria	ヴァレリア	王都には危険な奴だっていることだしね。\n月影の会の奴らとか	Valeria	There are dangerous folks even in the capital. Take the Moonlight Society, for instance.	瓦莱莉娅	王都里也是有危险分子的。\n比如月影会那些人。	瓦萊莉婭	畢竟王都也有危險人物嘛。\n像是月影會的那些傢伙。
+TalkEvent_07_019ID	11	Ayesha	アーシャ	そうですね。今後は気を付けてもらわないと	Ayesha	True. We'll need to be on our guard as well.	爱夏	也对，今后要让他更小心些。	愛夏	是啊。之後得請他注意才行。
+TalkEvent_07_019ID	12	Heidi	ハイディ	けどさ。王宮はホントに身代金を払ってくれるのかな	Heidi	However, I wonder if his family will really pay the ransom.	海蒂	不过，王宫真的会为他支付赎金吗？	海蒂	不過啊，王宮真的會付贖金嗎？
+TalkEvent_07_019ID	13	Odelia	オディーリア	どういうことですか？	Odelia	What do you mean?	奥迪莉雅	什么意思？	奧迪莉雅	什麼意思？
+TalkEvent_07_019ID	14	Heidi	ハイディ	仮にも第二王子がしょっちゅう抜け出してるのに\n今まで野放しだったワケでしょ？	Heidi	Well, if he really did run away, that means they've been letting him go unchecked.	海蒂	他好歹也是个第二王子，却成天在外游荡，\n说明王宫的人之前都对他放任自流吧？	海蒂	明明經常溜出來，但都沒人在管他，對吧？\n他好歹也是第二王子耶。
+TalkEvent_07_019ID	15	Heidi	ハイディ	もしかして王宮から見放されてたり……	Heidi	It could be that they've disowned him.	海蒂	搞不好他们早已不管他的死活……	海蒂	該不會是被王宮拋棄了吧……
+TalkEvent_07_020ID	0	Ayesha	アーシャ	あの、ロマンさんが誘拐された件、\n王宮でもすごく心配されてると思うんです	Ayesha	Um, I'm sure the palace must be terribly worried about Roman being kidnapped.	爱夏	我认为王宫对罗曼先生被绑架一事还是非常上心的。	愛夏	那個，關於羅曼先生被綁架的事，\n我想王宮應該也非常擔心才對。
+TalkEvent_07_020ID	1	Odelia	オディーリア	私もそのように思います。ロマンは王宮の人々に\n好かれているようですから	Odelia	I think so too. Roman's a royal court darling.	奥迪莉雅	我也这么想，\n罗曼在王宫里好像很受欢迎。	奧迪莉雅	我也這麼認為。因為羅曼好像\n很受王宮裡的人愛戴。
+TalkEvent_07_020ID	2	Valeria	ヴァレリア	え、そうなの？	Valeria	Is that so?	瓦莱莉娅	咦，是吗？	瓦萊莉婭	咦，是這樣嗎？
+TalkEvent_07_020ID	3	Ayesha	アーシャ	はい。お兄さんの第一王子とも仲がいいですし、\nロマンさんがいると王宮の人たちも楽しそうなんですよ	Ayesha	Yes, he has a great relationship with his older brother, the crown prince, and the nobles really enjoy his presence.	爱夏	是的，他跟第一王子的关系也很好，\n而且他在王宫时，周围的人们看起来也很开心。	愛夏	沒錯。他和身為第一王子的哥哥感情很好。\n羅曼先生在王宮裡時，大家也都很開心的樣子。
+TalkEvent_07_020ID	4	Heidi	ハイディ	へぇ、そうなんだ。ロマンならあり得るよね	Heidi	Wow, really? I guess that makes sense, knowing him.	海蒂	哦，这样啊。以罗曼的性格，感觉毫不意外。	海蒂	哦～這樣啊，羅曼確實是這種人。
+TalkEvent_07_020ID	5	Ayesha	アーシャ	ふふ。ロマンさんがいると、皆さん肩の力を\n抜けるみたいですよ	Ayesha	Hehe. It seems like everyone can relax when he's around.	爱夏	呵呵，感觉罗曼先生在场的时候，\n大家的样子都很放松。	愛夏	呵呵。只要羅曼先生在場，\n大家好像都會放鬆下來喔。
+TalkEvent_07_020ID	6	Valeria	ヴァレリア	さすが王宮で仕事をしてるだけあって、詳しいのね	Valeria	You're picking up all sorts of court intel just by working there. Incredible.	瓦莱莉娅	不愧是在王宫工作的人，好清楚里面的情况啊。	瓦萊莉婭	不愧是在王宮工作的人，知道得真詳細。
+TalkEvent_07_020ID	7	Ayesha	アーシャ	実は、王宮に出入りすることができるようになったのも\nロマンさんのおかげなんです	Ayesha	Actually, it's thanks to Roman that I know about all the comings and goings.	爱夏	其实我能出入王宫也是多亏了罗曼先生的帮助。	愛夏	其實，我能進出王宮，\n也是多虧了羅曼先生。
+TalkEvent_07_020ID	8	Ayesha	アーシャ	元々は、ロマンさんの正体を黙っている代わりに\n王宮図書館を使わせてもらえるようになったんですけど	Ayesha	In exchange for keeping quiet about his true identity, Roman let me use the royal library a while back.	爱夏	最开始是罗曼先生以我帮他保密真实身份为条件，\n允许我使用王宫图书馆。	愛夏	一開始，就是羅曼先生請我別洩漏他的真實身分，\n才給了我使用王宮圖書館的權限。
+TalkEvent_07_020ID	9	Valeria	ヴァレリア	へぇ。レスナも使いたいって言いそうね	Valeria	Wow. Resna's been saying how much she'd like to use that library.	瓦莱莉娅	哦，蕾斯娜一定也很想去。	瓦萊莉婭	哦～感覺蕾斯娜也會說她想用圖書館呢。
+TalkEvent_07_020ID	10	Odelia	オディーリア	私もアーシャの助手として立ち入っていますが、\nなかなか興味深い蔵書ですね	Odelia	As Ayesha's assistant, I am allowed access as well. They have quite an interesting assortment of books.	奥迪莉雅	我也作为爱夏的助手进去过，\n里面的藏书相当博大精深。	奧迪莉雅	我也曾以愛夏助手的身分進出圖書館，\n那裡的藏書相當有意思呢。
+TalkEvent_07_020ID	11	Ayesha	アーシャ	ある日、そこで調べ物をしていた時に急病人が出て、\nそれがオルペウス殿下だったんです。第一王子の	Ayesha	One day, while I was doing research there, someone suddenly grew gravely ill. It was Orpheus, the crown prince.	爱夏	有一天，我在那里查阅资料时，突然出现了紧急病患，\n那就是第一王子奥菲斯殿下。	愛夏	某天，我正在那裡查資料時，突然有病人出現。\n那個人是奧菲斯殿下，也就是第一王子。
+TalkEvent_07_020ID	12	Heidi	ハイディ	え、それヤバかったんじゃない！？	Heidi	Oh my goodness! That sounds like a huge emergency!	海蒂	咦？这不是严重事态吗？！	海蒂	咦，那不是很不妙嗎！？
+TalkEvent_07_020ID	13	Ayesha	アーシャ	はい。ロマンさんはお兄さんの治療の方法を一生懸命\n探して、それでわたしも協力することになりました	Ayesha	Yes. Roman worked tirelessly in his quest to find a cure. That's why I decided to step in and help!	爱夏	是的。罗曼先生正在拼命寻找为哥哥治病的方法，\n所以我才会帮忙。	愛夏	沒錯。羅曼先生拚命尋找治療哥哥的方法，\n於是我也出手協助。
+TalkEvent_07_020ID	14	Ayesha	アーシャ	わたしは病気に効く薬の調合について、色々\nお手伝いして……薬が効いた時にはほっとしました	Ayesha	I assisted him with synthesizing different medicines. We were so relieved when we finally found something effective against his brother's illness.	爱夏	我做了许多尝试来调合对症药物……\n看到药物起作用，我也松了一口气。	愛夏	我幫忙調合了治療那項疾病的藥品……\n當藥效出現時，我真的鬆了一口氣。
+TalkEvent_07_020ID	15	Odelia	オディーリア	それがきっかけでアーシャは王宮の薬士になりました	Odelia	It was at that point that Ayesha was appointed a royal apothecary.	奥迪莉雅	爱夏就是以此为契机成为王宫药师的。	奧迪莉雅	這就是愛夏成為王宮藥師的契機。
+TalkEvent_07_020ID	16	Valeria	ヴァレリア	お兄さんの病気を治すのに必死になるなんて、\nロマンはホントにお兄さんと仲がいいみたいね	Valeria	He was that serious about helping his brother? They must be really close.	瓦莱莉娅	居然这么努力地想要治好哥哥的病，\n罗曼跟哥哥的关系真的很好啊。	瓦萊莉婭	竟然如此拚命想治好哥哥的病。\n看來羅曼和哥哥的感情真的很好呢。
+TalkEvent_07_020ID	17	Heidi	ハイディ	それにさ、いくらロマンの口利きだからって\n異邦人のアーシャの治療をいきなり受け入れるなんてさ	Heidi	Yeah, and Roman must really be a smooth talker to convince his brother to accept help from a wanderer like Ayesha.	海蒂	而且就算罗曼能说会道，他哥哥身为王子也没那么容易\n接受爱夏这个异邦人来治疗吧。	海蒂	儘管羅曼本來就很能言善道，\n願意立刻接受異邦人愛夏的治療也不簡單呢。
+TalkEvent_07_020ID	18	Heidi	ハイディ	ロマンって信頼されてるんだね……	Heidi	He must really trust Roman...	海蒂	而他居然会同意，也就是说他很信任罗曼吧……	海蒂	羅曼還真受大家信賴……
+TalkEvent_07_020ID	19	Ayesha	アーシャ	はい。とっても	Ayesha	Yes, quite so.	爱夏	是的，他非常信任罗曼。	愛夏	沒錯。確實如此。
+TalkEvent_07_020ID	20	Heidi	ハイディ	私のにらんだ通りってわけだ	Heidi	I suspected as much.	海蒂	一切都不出我所料。	海蒂	所以說事情如我所料啊。
+TalkEvent_07_020ID	21	Valeria	ヴァレリア	調子のいいこと言ってるわね。まぁでも、それじゃ\nなおさら、助けてあげないとみんなが悲しむわね	Valeria	You're good at this. Just goes to show there'll be a lot of broken hearts if we don't rescue him.	瓦莱莉娅	你还挺得意。不过，\n那就更得救他了，不然大家得多伤心啊。	瓦萊莉婭	妳說得可真好聽。不過這樣就更該救他了，\n如果不救他，大家會很傷心吧。
+TalkEvent_07_020ID	22	Heidi	ハイディ	おしゃべりはここまでか！　魔物が近寄ってきたよ！	Heidi	No more time to talk! I sense monsters approaching!	海蒂	话就说到这里吧！有魔物靠近我们了！	海蒂	先暫時不聊了！有魔物接近！
+TalkEvent_07_020ID	23	Valeria	ヴァレリア	いつもならじっくり楽しみたいとこだけど――\n今は急いで蹴散らさないとね！	Valeria	Usually, I enjoy taking my time and savoring the fight, but this time, we need to knock 'em out quickly!	瓦莱莉娅	要是平时我会好好享受战斗——\n不过今天得速战速决！	瓦萊莉婭	正常來說，我會想慢慢享受──\n但現在得快點解決才行！
+TalkEvent_07_021ID	0	Resna	レスナ	ロマンさん……ここのどこかにいるんでしょうか？	Resna	Do you think Roman's close by?	蕾斯娜	罗曼先生……到底在哪里呢？	蕾斯娜	羅曼先生……就在這裡的某處嗎？
+TalkEvent_07_021ID	1	Esty	エスティ	人の気配がするわ	Esty	I do sense someone.	艾丝缇	有人的气息。	艾絲緹	有人的氣息。
+TalkEvent_07_021ID	2	Resna	レスナ	ひ、人が倒れてます！　あの、大丈夫ですか！？	Resna	There's a man on the ground! Hello? Are you all right?!	蕾斯娜	有、有人倒在这里！喂，请问你还好吗？！	蕾斯娜	有、有人倒在地上！那個，你沒事吧！？
+TalkEvent_07_021ID	3		盗賊Ｃ	ん……あぁ……？　お、お前ら誰だ！？\n何しに来たんだよ！？	Bandit C	Nngh... Huh? Who are you?! Why're you here?!	盗贼C	唔……啊……？你、你们是什么人？！\n来这里干什么？！	盜賊C	嗯……啊……？妳、妳們是誰！？\n來這裡做什麼！？
+TalkEvent_07_021ID	4	Resna	レスナ	私たち、ある人を助けに来たんです。何か知っている\nことがあったら教えていただけませんか？	Resna	We've come to help our friend. Can you please tell us if you know anything?	蕾斯娜	我们是来救人的。你要是知道些什么，\n能告诉我们吗？	蕾斯娜	我們是來救某個人的，你如果知道些什麼，\n可以告訴我們嗎？
+TalkEvent_07_021ID	5		盗賊Ｃ	助けに！？　お、お前らも獲物を横取りに……	Bandit C	HELP him?! So you're here to snatch our prize away.	盗贼C	救人？！你、你们也是来抢我们猎物的……	盜賊C	救人！？妳、妳們也是來搶奪獵物的……
+TalkEvent_07_021ID	6	Esty	エスティ	「獲物を横取り」？　どういうこと！？	Esty	"""Snatch our prize""? What are you talking about?!"	艾丝缇	“抢猎物”？什么意思？！	艾絲緹	「搶奪獵物」？什麼意思！？
+TalkEvent_07_021ID	7		盗賊Ｃ	し、知らねぇよ	Bandit C	I've got nothin' to say to you.	盗贼C	我、我不知道！	盜賊C	不、不知道啦。
+TalkEvent_07_021ID	8	Esty	エスティ	素直に答えたほうが身のためよ？	Esty	It would be in your best interests to answer honestly, got it?	艾丝缇	建议你老实回答比较好哦？	艾絲緹	想保住小命的話，勸你還是老實點比較好喔？
+TalkEvent_07_021ID	9		盗賊Ｃ	ひっ！　え、獲物を横取りに来た奴らに\nやられたんだよ！	Bandit C	Eek! I was knocked out by someone who's after our hostage!	盗贼C	噫！\n就、就是来抢猎物的家伙把我打成这样的！	盜賊C	噫！我、我是被\n搶奪獵物的傢伙們打倒的！
+TalkEvent_07_021ID	10	Marion	マリオン	詳しく話しなさい	Marion	Elaborate.	玛丽翁	说清楚到底发生了什么。	瑪麗翁	願聞其詳。
+TalkEvent_07_021ID	11		盗賊Ｃ	畜生……月影の会の奴らが……	Bandit C	Blast it... It was the Moonlight Society.	盗贼C	可恶……月影会的混蛋……	盜賊C	可惡……是月影會的傢伙……
+TalkEvent_07_021ID	12	Resna	レスナ	月影の会っ！？	Resna	The Moonlight Society?!	蕾斯娜	月影会？！	蕾斯娜	月影會！？
+TalkEvent_07_021ID	13	Izana	イザナ	あいつらがここにいるの！？	Izana	They're here?!	伊札娜	他们在这里？！	伊札娜	他們在這裡嗎！？
+TalkEvent_07_021ID	14		盗賊Ｃ	くそ……あの仮面の奴……ぐっ！	Bandit C	That accursed masked figure was... Ngk!	盗贼C	该死……那个戴面具的……呜！	盜賊C	可惡……那個戴面具的傢伙……呃！
+TalkEvent_07_021ID	15	Izana	イザナ	仮面って！　レスナちゃんっ！	Izana	He said masked! Resna!	伊札娜	他说了面具！蕾斯娜！	伊札娜	他說面具！蕾斯娜！
+TalkEvent_07_021ID	16	Resna	レスナ	鴉が、ここに？　そんな……	Resna	Crow is here?! How can that be...	蕾斯娜	鸦在这里？怎么会这样……	蕾斯娜	烏鴉她在這裡？怎麼會……
+TalkEvent_07_021ID	17	Esty	エスティ	どうも、厄介なことになったみたいね	Esty	Looks like this has taken a terrible turn.	艾丝缇	看来事情更棘手了啊。	艾絲緹	看來情況變棘手了呢。
+TalkEvent_07_021ID	18	Marion	マリオン	ええ。ここからは慎重に行くべきだわ。この先には\nどこに何が潜んでるか分からないしね	Marion	Yes. We need to be on high alert from here on out. We don't know what's waiting for us up ahead.	玛丽翁	是啊，从现在开始要小心行事了。\n前方说不准会藏着什么危险。	瑪麗翁	嗯。接下來必須謹慎前進。畢竟我們不曉得\n她會潛伏在哪裡。
+TalkEvent_07_021ID	19	Resna	レスナ	構造を調べつつ慎重に降りていきましょう。\nロマンさんを絶対に助けないと	Resna	Let's descend carefully while taking note of the structure. We absolutely have to rescue Roman.	蕾斯娜	在往深处前进的途中也要摸清这个地方的地形，\n一定要救出罗曼先生。	蕾斯娜	我們就邊調查這裡的結構，邊謹慎地往下走吧。\n絕對要救出羅曼先生。
+TalkEvent_07_022ID	0	Esty	エスティ	ほら、レスナちゃん。足元気を付けて	Esty	Resna, watch where you step.	艾丝缇	小心，蕾斯娜，注意脚下。	艾絲緹	嘿，蕾斯娜，注意妳的腳邊。
+TalkEvent_07_022ID	1	Resna	レスナ	はい！　あっ……岩が飛び出ていたんですね！\nご指摘、感謝に堪えません！	Resna	Okay! Oh, some rocks are jutting out! Thanks for letting me know!	蕾斯娜	嗯！啊……有伸出来的岩石！\n感谢提醒！	蕾斯娜	是！啊……有岩石飛出來！\n非常感謝妳的指點！
+TalkEvent_07_022ID	2	Marion	マリオン	レスナ、あなただいぶ緊張してるみたいね	Marion	You seem really on edge, Resna.	玛丽翁	蕾斯娜，你好像很紧张。	瑪麗翁	蕾斯娜，妳好像很緊張耶。
+TalkEvent_07_022ID	3	Resna	レスナ	す、すみません。ロマンさんのことや、\n鴉のことがどうしても気になってしまって	Resna	Sorry. It's just that I'm so worried about Roman and Crow.	蕾斯娜	对、对不起。\n因为我满脑子都是罗曼先生和鸦。	蕾斯娜	不、不好意思，因為我實在很在意\n羅曼先生還有烏鴉的事情。
+TalkEvent_07_022ID	4	Esty	エスティ	んじゃ、少し話でもしましょうか。\n口を動かしてれば、緊張もそのうちほぐれるわよ	Esty	Why not talk to me about it? Letting it out will help you calm down.	艾丝缇	那我们稍微聊聊吧。\n说说话就不紧张了。	艾絲緹	那來稍微閒聊一下吧。\n如此一來就會比較放鬆了。
+TalkEvent_07_022ID	5	Resna	レスナ	う……すみません	Resna	Ahh... Okay. Sorry.	蕾斯娜	呜……让你担心了。	蕾斯娜	嗚……不好意思。
+TalkEvent_07_022ID	6	Esty	エスティ	レスナちゃんはそのロマンさんって人と\n旅をしてたんでしょ？　どういう人なの？	Esty	You've traveled with this Roman person before, correct? What kind of person is he?	艾丝缇	蕾斯娜和那个罗曼先生一起旅行过吧？\n他是个什么样的人？	艾絲緹	蕾斯娜，妳曾和那位羅曼先生一起旅行，\n對吧？他是什麼樣的人？
+TalkEvent_07_022ID	7	Resna	レスナ	そうですね。明るくて気さくな人で、私の同志……\n果ての大陸を目指してます	Resna	He's really outgoing and carefree. We're kindred spirits in our quest to reach the World's End.	蕾斯娜	唔，他是个开朗好相处的人，是我的同志……\n他也想寻找终极大陆。	蕾斯娜	是啊。既開朗又直爽，是志同道合的朋友……\n我們的目標是終極大陸。
+TalkEvent_07_022ID	8	Izana	イザナ	あと手品とかが得意で宴好き！　だからさ、\nロマン君が王子様だって聞いて本当びっくりしたよ	Izana	Ooh, and he's amazing at doing magic tricks at parties! That's why I was so surprised to find out he's actually a prince!	伊札娜	他擅长变魔术，也喜欢开宴会！\n所以听说他是王子的时候我特别震惊。	伊札娜	他還很擅長魔術，而且喜歡宴會！\n所以聽說羅曼他是王子殿下時，我真的嚇了一跳。
+TalkEvent_07_022ID	9	Esty	エスティ	えっと、王子ってことは、今の王様の息子よね？\n確か国王の名前は――	Esty	Hm, if he's a prince, then that means he's the king's son, right? The current ruler is...	艾丝缇	唔，王子就是现任国王的儿子吧？\n我记得现在的国王是——	艾絲緹	呃，王子是指現任國王的兒子對吧？\n我記得國王的名字叫做──
+TalkEvent_07_022ID	10	Izana	イザナ	第１０代テトリクス王だよ	Izana	King Tetricus the Tenth.	伊札娜	是第10代国王泰特里库斯王哦。	伊札娜	是第十代的特托里克斯王。
+TalkEvent_07_022ID	11	Marion	マリオン	あら、ちょっと意外ね。\nイザナが王室の家系に詳しいなんて	Marion	Wow. I didn't expect Izana to be so knowledgeable in royal affairs.	玛丽翁	哦？没想到伊札娜居然这么了解王室家谱。	瑪麗翁	哎呀，我有點意外耶。\n伊札娜居然這麼清楚王室的家系。
+TalkEvent_07_022ID	12	Izana	イザナ	騎士になるなら、ランターナの歴史も勉強して\nおかないとだからね！	Izana	I have to be familiar with Lantarna's history if I'm going to be a knight!	伊札娜	因为兰塔纳的历史是骑士考试的必修课！	伊札娜	因為要成為騎士，\n就得先學習蘭塔納的歷史啊！
+TalkEvent_07_022ID	13	Marion	マリオン	それじゃあ、ランターナ王国の成り立ちに\nついてはどうかしら？	Marion	Well, do you know anything about Lantarna's origins then?	玛丽翁	那兰塔纳王国是什么时候建立的？	瑪麗翁	那蘭塔納王國\n是如何成立的呢？
+TalkEvent_07_022ID	14	Izana	イザナ	ランターナ王国ができたのは……今から２６０年前	Izana	The Kingdom of Lantarna was established 260 years ago.	伊札娜	兰塔纳王国是……距今260年前建国的。	伊札娜	蘭塔納王國……在距今260年前建立。
+TalkEvent_07_022ID	15	Izana	イザナ	この大陸にあるたくさんの勢力が、手と手をとって、\n平和的に１つの国を作った、それがランターナ！	Izana	The many forces on this land joined hands to peacefully create one country—Lantarna!	伊札娜	这个大陆上的诸多势力携手，\n和平建立起了一个王国，就是这兰塔纳了！	伊札娜	這片大陸上的眾多勢力攜手合作，\n和平地建立了一個國家。這個國家就是蘭塔納！
+TalkEvent_07_022ID	16	Esty	エスティ	イザナちゃん詳しいのね	Esty	She really does know her stuff.	艾丝缇	伊札娜知道得很多嘛。	艾絲緹	伊札娜妳真清楚呢。
+TalkEvent_07_022ID	17	Marion	マリオン	それにしても、争いをせずに、平和的に国家が\n統一されるなんて素晴らしい偉業よね	Marion	For a nation to come together peacefully and without conflict is such a wonderful feat!	玛丽翁	不通过战争，和平统一一个国家，\n真是仁厚的伟业啊。	瑪麗翁	而且竟然能在不引發戰爭的情況下統一。\n真是太了不起了。
+TalkEvent_07_022ID	18	Izana	イザナ	普段はあんまり気にしてなかったけど、\nそう言われると確かにランターナってすごいかも？	Izana	I haven't really thought about it, but now that you mention it, Lantarna is pretty amazing, huh?	伊札娜	我没怎么想过这件事，\n不过听你这么一说，兰塔纳好像真的很厉害？	伊札娜	對耶！經過妳這麼一說，\n蘭塔納確實非常厲害！
+TalkEvent_07_022ID	19	Resna	レスナ	争いがなかったから、文献も多く残っているしね	Resna	So much literature has survived thanks to the peace.	蕾斯娜	就是因为没有发生战争，所以才会留下这么多文献。	蕾斯娜	由於沒有發生戰爭，所以留下了不少文獻。
+TalkEvent_07_022ID	20	Resna	レスナ	たとえば、王国暦３６年に即位したルキウス王は\n錬金術の研究を推し進めた王様として知られていて……	Resna	For instance, in the year 36 in kingdom reckoning, King Lucius ascended the throne and became known as the king who promoted the study of alchemy.	蕾斯娜	比如在王国历36年即位的鲁奇斯王，\n众所周知，他是积极推进炼金术研究的国王……	蕾斯娜	舉例來說，在王國曆36年即位的盧基烏斯王，\n以推動鍊金術的研究聞名……
+TalkEvent_07_022ID	21	Resna	レスナ	それからマナの枯渇が起こるまで、ランターナ王国は\n国策として錬金術に取り組み、人々の生活が豊かに――	Resna	Until mana was depleted, the Kingdom of Lantarna embraced alchemy as a national policy, enriching people's lives...	蕾斯娜	在玛那枯竭前，兰塔纳王国的国策是善加利用炼金术，\n带给人民富饶的生活——	蕾斯娜	自那時到瑪那枯竭為止，蘭塔納王國致力發展鍊金術，\n人們的生活也富裕了起來──
+TalkEvent_07_022ID	22	Esty	エスティ	ふふ。緊張がほぐれてきたみたいね	Esty	Hehe. Seems you've settled down.	艾丝缇	呵呵，现在你放松多了。	艾絲緹	呵呵。妳好像已經不緊張了呢。
+TalkEvent_07_022ID	23	Resna	レスナ	あっ……。す、すみません。先を急ぎましょう！	Resna	Oh! Sorry. Let's get going!	蕾斯娜	啊……抱、抱歉，我们快走吧！	蕾斯娜	啊……不、不好意思，我們加快行進速度吧！
+TalkEvent_07_023ID	0		盗賊Ａ	あの野郎、どこに行きやがった！	Bandit A	Where is that little liar?!	盗贼A	那家伙到底跑哪去了！	盜賊A	那小子，到底溜到哪兒去了！
+TalkEvent_07_023ID	1		盗賊Ｂ	見つけたらただじゃおかねえ！\n縛り上げて一発殴って……	Bandit B	It's over once we find him! We'll tie him up and give him a beating...	盗贼B	让我找到了可饶不了他！\n要把他绑起来狠狠揍……	盜賊B	要是被我找到，絕對饒不了他！\n我要把他綁起來痛毆一頓……
+TalkEvent_07_023ID	2		盗賊Ｄ	うげっ！	Bandit D	Gah!	盗贼D	呜啊！	盜賊D	嗚呃！
+TalkEvent_07_023ID	3		盗賊Ｂ	ぎゃっ！	Bandit B	Agh!	盗贼B	啊！	盜賊B	呃啊！
+TalkEvent_07_023ID	4		盗賊Ａ	野郎、う、後ろから……	Bandit A	He snuck up behind us!	盗贼A	混蛋，居然用偷袭……	盜賊A	這傢伙，竟、竟然從後面……
+TalkEvent_07_023ID	5	Roman	ロマン	私は策士ロマンとも言われていてね。\n君たちみたいのと正面から戦うなんて冗談じゃないよ	Roman	I'm called Roman the Strategist for a reason. It'd be absurd to go against all of you at once.	罗曼	我可是人称谋士的罗曼。\n要我正面跟你们这些人交锋？开什么玩笑。	羅曼	我也被稱為軍師羅曼，\n怎麼可能從正面跟你們硬碰硬呢？別開玩笑了。
+TalkEvent_07_023ID	6	Roman	ロマン	……助けに来てくれたってわけではなさそうだね？	Roman	I suppose you're not here to be my rescuer, are you?	罗曼	……你看起来不像是来帮我的啊？	羅曼	……妳看起來不像是來救我的呢！
+TalkEvent_07_023ID	7	Crow	鴉	戯言はよせ。舌を引き抜かれたいか	Crow	Don't be ridiculous. Would you like me to rip your tongue from your throat?	鸦	别开玩笑，舌头不想要了？	烏鴉	別說傻話了，你想被拔掉舌頭嗎？
+TalkEvent_07_023ID	8	Crow	鴉	まさかお前がランターナの第二王子とはな	Crow	How absurd it is to think that you, of all people, are a prince of Lantarna.	鸦	没想到你就是兰塔纳的第二王子。	烏鴉	沒想到你竟然是蘭塔納的第二王子。
+TalkEvent_07_023ID	9	Roman	ロマン	耳が早いね、さすが鴉	Roman	You're certainly in the know. Just what I'd expect from the Crow.	罗曼	不愧是鸦，消息真灵通。	羅曼	不愧是烏鴉，消息可真靈通。
+TalkEvent_07_023ID	10	Crow	鴉	当たり前だ	Crow	Of course.	鸦	那还用说。	烏鴉	那當然。
+TalkEvent_07_023ID	11	Roman	ロマン	ということで、よければ月影の会を抜けて、\nランターナ王宮に仕えてみないかい？	Roman	How about ditching the Moonlight Society and coming to work for the royal family?	罗曼	如果你愿意，要不要离开月影会，\n来为兰塔纳王宫效力？	羅曼	既然如此，妳願意的話，\n要不要脫離月影會，來蘭塔納王宮工作？
+TalkEvent_07_023ID	12	Crow	鴉	王宮に仕える……だと？	Crow	Work for the royal family, you say?	鸦	为王宫效力……？	烏鴉	去王宮……工作？
+TalkEvent_07_023ID	13	Roman	ロマン	君の戦闘能力の高さは、身をもって知っている。\nその力を、この国の未来に活かしてみてはどうだろう	Roman	I know firsthand how skilled at fighting you are. Why not put that power to good use for the future of this kingdom?	罗曼	你的战斗能力之强，我亲身领教过。\n用你的力量造福这个国家的未来怎么样？	羅曼	我很清楚妳的戰鬥能力有多強。\n要不要用那份力量協助這個國家？
+TalkEvent_07_023ID	14	Crow	鴉	どうやら本当に舌を抜かれたいらしい	Crow	You truly are begging me to rip it out.	鸦	看来你是真不想要你那条舌头了。	烏鴉	看來你真的想被拔掉舌頭。
+TalkEvent_07_023ID	15	Roman	ロマン	冗談じゃなく本当に勧誘しているよ、私は	Roman	This is no jest. It's a genuine offer.	罗曼	我是在诚心诚意拉你入伙啊，没开玩笑。	羅曼	我是真心誠意地發出邀請，沒在開玩笑。
+TalkEvent_07_023ID	16	Roman	ロマン	それだけの実力があれば、君はどこでだって\n好待遇でやっていける。なら王宮でもいいじゃないか	Roman	You could thrive anywhere with skills such as yours. So why not at the royal palace?	罗曼	你实力超群，在哪里都能得到重用，\n那待在王宫又有何不可呢？	羅曼	既然實力如此強大，無論去哪裡都能獲得良好待遇。\n那來王宮應該也是可行的吧？
+TalkEvent_07_023ID	17	Crow	鴉	王族など腐敗した腑抜けの集まりだろう	Crow	You royals are nothing but spineless, corrupt cowards.	鸦	王族全都是些烂到根子里的窝囊废吧。	烏鴉	王族只是一群腐敗的窩囊廢罷了。
+TalkEvent_07_023ID	18	Roman	ロマン	…………	Roman	...	罗曼	……	羅曼	…………
+TalkEvent_07_023ID	19	Crow	鴉	これ以上口を利く気なら力ずくで黙らせる。\n大人しく――	Crow	If you continue to speak, I'll shut you up by force. Now come quietly—	鸦	再不闭嘴我会采取强硬手段让你安静。\n给我老实——	烏鴉	要是你再繼續說下去，我會用武力讓你閉嘴。\n給我乖乖──
+TalkEvent_07_023ID	20	Roman	ロマン	！！	Roman	!	罗曼	！！	羅曼	！！
+TalkEvent_07_023ID	21	Crow	鴉	魔物どもか。面倒な	Crow	Monsters? What terrible timing.	鸦	是魔物啊，真麻烦。	烏鴉	魔物群啊。麻煩透頂。
+TalkEvent_07_023ID	22	Crow	鴉	逃げ足の速い奴め	Crow	Always quick to run away.	鸦	溜得倒挺快。	烏鴉	這傢伙逃得還真快。
+TalkEvent_07_023ID	23	Izana	イザナ	また人が倒れてる！	Izana	I found another collapsed person!	伊札娜	又有一个昏倒在地的人！	伊札娜	又有人倒在地上！
+TalkEvent_07_023ID	24	Marion	マリオン	この傷跡、入り口近くに倒れていた男と同じだわ。\nこれも鴉の仕業かしら？	Marion	This person has the same wounds as the one by the entrance. Could this be Crow's work too?	玛丽翁	他身上的伤跟倒在入口附近的男人一样，\n这也是鸦干的吗？	瑪麗翁	這個傷痕，跟倒在入口的男人一模一樣。\n這也是烏鴉下的手嗎？
+TalkEvent_07_023ID	25	Resna	レスナ	鴉……。皆さん、急ぎましょう！\n一刻も早くロマンさんを見つけなくては！	Resna	Crow... We must act quickly, everyone! We have to find Roman! There's not a moment to lose!	蕾斯娜	鸦……各位，动作快！\n我们得尽快找到罗曼先生！	蕾斯娜	烏鴉……各位，我們加快腳步吧！\n必須盡快找到羅曼先生才行！
+TalkEvent_07_024ID	0	Roman	ロマン	っ！？	Roman	?!	罗曼	唔？！	羅曼	唔！？
+TalkEvent_07_024ID	1	Resna	レスナ	……！　ロマンさん！	Resna	Roman!	蕾斯娜	……！罗曼先生！	蕾斯娜	呃……！羅曼先生！
+TalkEvent_07_024ID	2	Roman	ロマン	レスナたちだったのか	Roman	Oh, it's you all.	罗曼	蕾斯娜，是你们啊……	羅曼	是妳們幾個啊。
+TalkEvent_07_024ID	3	Marion	マリオン	やだ、ごめんなさい。\n暗がりでよく見えなかったから、つい	Marion	Whoops, sorry about that. I couldn't tell who you were in this darkness.	玛丽翁	哎呀，真不好意思。\n这里太暗，我没看清就攻击了。	瑪麗翁	哎呀，不好意思。\n這裡太昏暗了，不小心就……
+TalkEvent_07_024ID	4	Roman	ロマン	なんだか前にもこんなことがあったような、\nなかったような？	Roman	I feel like this has happened before, I think.	罗曼	之前好像也发生过类似的事？	羅曼	總覺得之前好像也發生過這種事？
+TalkEvent_07_024ID	5	Resna	レスナ	よかった！　ロマンさん、ご無事だったんですね！	Resna	Oh, I'm so glad you're all right, Roman!	蕾斯娜	太好了！罗曼先生你没事！	蕾斯娜	太好了！羅曼先生，你沒事！
+TalkEvent_07_024ID	6	Izana	イザナ	もーっ、すっごく心配したんだからね！	Izana	We were so worried about you!	伊札娜	真是的，让我们担心坏了！	伊札娜	真是的，我們快擔心死了！
+TalkEvent_07_024ID	7	Roman	ロマン	ありがとう、みんな。\n助けに来てくれたんだね、泣けるなぁ……	Roman	Thanks. You all came to rescue me? I could cry right now.	罗曼	感谢各位。\n你们是来救我的吧，真是感激涕零……	羅曼	謝謝大家。\n妳們是來救我的吧？我簡直感動到要哭了……
+TalkEvent_07_024ID	8	Esty	エスティ	話は後にしたほうがいいと思うわ	Esty	I think we'd better save the talking for later.	艾丝缇	我看还是晚点再聊吧。	艾絲緹	我想這些晚點再聊比較好。
+TalkEvent_07_024ID	9		盗賊Ａ	いたぞ！　逃がすな！	Bandit A	There he is! Don't let him get away!	盗贼A	他们在那！别让他们逃了！	盜賊A	在那裡！別讓他們跑了！
+TalkEvent_07_024ID	10		盗賊Ｂ	テメェ！　逃げられると思うなよ！	Bandit B	You thought you could run from us?!	盗贼B	你这混蛋，别以为逃得了！	盜賊B	你這傢伙！別以為這次逃得了！
+TalkEvent_07_024ID	11	Izana	イザナ	わわっ！　あんなにたくさん！	Izana	Yikes! There are so many of them!	伊札娜	哇！好多人！	伊札娜	哇啊！竟然有這麼多人！
+TalkEvent_07_024ID	12	Roman	ロマン	これは悠長に話している場合じゃないね！\nみんな、急いでこっちに	Roman	Now's not the time for a heart-to-heart! We have to get out of here, quick!	罗曼	现在不是慢悠悠聊天的时候！\n各位，快到这边来！	羅曼	看來現在無法慢慢聊了！\n各位，快來這裡。
+TalkEvent_07_024ID	13	Resna	レスナ	ちょっ、ロマンさん！？	Resna	Whoa! Roman?!	蕾斯娜	等等，罗曼先生？！	蕾斯娜	等等，羅曼先生！？
+TalkEvent_07_024ID	14	Roman	ロマン	さ、これに乗って。\nこれで一気にあいつらから距離を取ろう	Roman	Get in. We can leave them far behind in this thing.	罗曼	来，坐上它吧。\n这样就能一口气拉开距离。	羅曼	來，快坐上這個。\n這樣就能一口氣跟那些傢伙拉開距離。
+TalkEvent_07_024ID	15	Marion	マリオン	乗れって、まさかこのトロッコに！？	Marion	You really expect us to ride a mining cart?!	玛丽翁	你是说坐上这个矿车吗？！	瑪麗翁	你該不會要我們搭上這輛礦車吧！？
+TalkEvent_07_024ID	16	Roman	ロマン	そのまさかさ。出発するよ！	Roman	Absolutely. All aboard!	罗曼	没错，要出发了！	羅曼	就是妳想的那樣。我要出發了！
+TalkEvent_07_024ID	17	Izana	イザナ	あはは！　速ーい！\nこれちょっと楽しいね、レスナちゃん！	Izana	Ahaha! We're flying! This is kind of fun, huh, Resna?	伊札娜	哈哈！好快啊！\n这东西坐起来还挺好玩的，对吧蕾斯娜！	伊札娜	啊哈哈！好快喔～！\n蕾斯娜，這真有趣！
+TalkEvent_07_024ID	18	Resna	レスナ	わ、私は目が回りそうだよ！　わわわわわ	Resna	Ahhh! My head is spinning! Whoa, oh, ohhh!	蕾斯娜	我、我的头都开始晕了！哇哇哇！	蕾斯娜	我、我的頭好暈！哇啊啊啊──！
+TalkEvent_07_024ID	19	Roman	ロマン	採掘場跡の出口近くまでこれで一気に行ける。\nあともう少し頑張っ――	Roman	This will get us right to the mine's entrance. Just hold on a little lon―	罗曼	坐上它就能直达采掘场遗迹的出口。\n再撑一下——	羅曼	這台礦車能一口氣抵達挖掘場遺跡的出口附近。\n再堅持一下──
+TalkEvent_07_024ID	20		盗賊Ｂ	待ちやがれ！	Bandit B	Stop right there!	盗贼B	别想逃！	盜賊B	站住！
+TalkEvent_07_024ID	21	Esty	エスティ	追ってきたわよ！　引き離しましょう！	Esty	They're catching up! We have to lose them!	艾丝缇	他们追来了！甩开他们！	艾絲緹	追上來了！快甩開他們！
+TalkEvent_07_024ID	22	Resna	レスナ	ロマンさん！　追いつかれそうです！	Resna	Roman! We're being followed!	蕾斯娜	罗曼先生！追兵越来越近了！	蕾斯娜	羅曼先生！我們快被追上了！
+TalkEvent_07_024ID	23	Roman	ロマン	いや、心配ないよ！　この先に分岐点があってね……\nこの脇の棒を倒せば――それっ！	Roman	Not to worry! There's a junction up ahead. Knock down this lever here, and... There!	罗曼	别担心！前边有分岔口……\n只要扳动旁边的杆子……嘿！	羅曼	不，別擔心！前方軌道是岔路……\n只要壓下旁邊這根桿子──嘿！
+TalkEvent_07_024ID	24		盗賊Ａ	な、なんだと！？　違うほうに行きやがる！\n畜生おおおぉぉぉ……！	Bandit A	What in the world?! They're going a different way?! Curse youuu!	盗贼A	怎、怎么回事？！去另一条路了！\n该死——！	盜賊A	什、什麼！？竟然轉彎了！\n可惡啊啊啊……！
+TalkEvent_07_024ID	25	Resna	レスナ	ひ、引き離せた！　お達者で……	Resna	We've lost them! Great work!	蕾斯娜	甩、甩掉他们了！希望他们没事……	蕾斯娜	甩、甩開了！保重……
+TalkEvent_07_024ID	26	Roman	ロマン	よし。もう追ってこないみたいだね。\nここから先は降りていこう	Roman	All right, I think they're gone. Let's get off here.	罗曼	很好，他们没再追来。\n接下来只要下车就好。	羅曼	好。看來已經甩開追兵了。\n我們下車吧。
+TalkEvent_07_024ID	27	Izana	イザナ	無事に逃げ切れそうだね！	Izana	We escaped without a hitch!	伊札娜	平安逃脱了呢！	伊札娜	看來有機會平安逃脫呢！
+TalkEvent_07_024ID	28	Marion	マリオン	……だと、よかったんだけどね	Marion	I wish that were true...	玛丽翁	……如果是那样就好了。	瑪麗翁	……如果是這樣就好了。
+TalkEvent_07_024ID	29	Roman	ロマン	あれは……！	Roman	That's...	罗曼	那是……！	羅曼	那是……！
+TalkEvent_07_024ID	30	Resna	レスナ	鴉！！	Resna	Crow!	蕾斯娜	是鸦！！	蕾斯娜	烏鴉！！
+TalkEvent_07_025ID	0	Resna	レスナ	あなたは……何が目的なんですか！	Resna	What are you after?!	蕾斯娜	你……到底有什么目的！	蕾斯娜	妳的目的……到底是什麼！
+TalkEvent_07_025ID	1	Crow	鴉	その男以外に用はない。邪魔をするならばお前たちは\n命を散らすことになる	Crow	Only the man. Get in my way and your lives are forfeit.	鸦	我只想要那个男人，其他人少来掺和。\n你们要是来碍事也会送命。	烏鴉	我的目標只有那個男人。要是敢妨礙我，\n你們都會沒命。
+TalkEvent_07_025ID	2	Marion	マリオン	月影の会まで動いてるとはね	Marion	So even the Moonlight Society is getting involved?	玛丽翁	没想到连月影会都出手了。	瑪麗翁	沒想到連月影會都行動了。
+TalkEvent_07_025ID	3	Esty	エスティ	そう、こいつが。\nでも、はいそうですかってわけにはいかないわ	Esty	Yeah, seems like she's with them. Not that I'm going to simply bow to her whims.	艾丝缇	是啊，连这家伙都来了。\n不过，我们没理由乖乖俯首帖耳。	艾絲緹	原來如此，就是這傢伙啊。\n但我們可不會乖乖就範。
+TalkEvent_07_025ID	4	Izana	イザナ	レスナちゃん、ロマン君！　下がってて！\nここはアタシたちが！	Izana	Resna, Roman! Stand back! We'll handle this!	伊札娜	蕾斯娜、罗曼！你们退后，\n我们来解决！	伊札娜	蕾斯娜、羅曼！你們退後！\n這裡就交給我們！
+TalkEvent_07_025ID	5	Crow	鴉	邪魔する者は制裁だ	Crow	Interlopers will be punished.	鸦	我会制裁碍事者。	烏鴉	礙事者將受到制裁。
+TalkEvent_07_025ID	6	Izana	イザナ	く……っ！	Izana	Urgh!	伊札娜	唔……！	伊札娜	唔……！
+TalkEvent_07_025ID	7	Resna	レスナ	ロマンさん！？	Resna	Roman?!	蕾斯娜	罗曼先生？！	蕾斯娜	羅曼先生！？
+TalkEvent_07_025ID	8	Roman	ロマン	目的は私なのだろう？　相手になろうじゃないか	Roman	You're after me, correct? Guess that means we can't talk this over?	罗曼	你的目标不是我吗？那我就会会你。	羅曼	妳的目標是我吧？那就由我來當妳的對手吧。
+TalkEvent_07_025ID	9	Crow	鴉	退け。でなければお前を痛め付けるぞ	Crow	Move. Or else.	鸦	退下，不然就给你尝尝苦头。	烏鴉	滾。不然我會讓你嚐到苦頭。
+TalkEvent_07_025ID	10	Roman	ロマン	残念ながら、その脅しは効かないね	Roman	I'm afraid your threats won't work on me.	罗曼	很遗憾，你这种威胁对我不起作用。	羅曼	可惜，這種威脅對我沒用。
+TalkEvent_07_025ID	11	Crow	鴉	その言葉、どこまで続くことか。\n人は恐怖に必ず屈する	Crow	Let's see how long that bravado lasts. Humans always succumb in the face of fear.	鸦	我倒要看看你还能嘴硬到什么时候。\n人必定会向恐惧屈服。	烏鴉	我就看你能耍嘴皮子到什麼時候。\n人類必定會屈服於恐懼的。
+TalkEvent_07_025ID	12	Roman	ロマン	見くびるなよ、鴉。\n仲間のためなら、恐怖になんか屈しない！	Roman	Do you see now, Crow? As long as my friends are with me, I'll never succumb to fear!	罗曼	别小看我啊，鸦。\n为了伙伴，我是不会向恐惧低头的。	羅曼	烏鴉，妳可別小看我。\n為了夥伴，我絕對不會退縮！
+TalkEvent_07_025ID	13	Resna	レスナ	ロマンさん……！	Resna	Roman!	蕾斯娜	罗曼先生……！	蕾斯娜	羅曼先生……！
+TalkEvent_07_025ID	14	Roman	ロマン	私はリヒャルト・ランターナ。ランターナ王国\n第二王子の名にかけて、君たちを護り切ろう！	Roman	I am Richard Lantarna. As second-born prince of the Kingdom of Lantarna, I swear to protect you all!	罗曼	我是理查德·兰塔纳，\n我以兰塔纳王国第二王子之名发誓保证你们的安全！	羅曼	我以理查德‧蘭塔納──蘭塔納王國第二王子之名發誓，\n必定會守護各位到底！
+TalkEvent_07_025ID	15	Crow	鴉	腐敗した王族が、誇らしげに名乗りを上げるか	Crow	A corrupt prince dares to say his name with pride?	鸦	腐朽王族居然还有脸得意洋洋地自报家门。	烏鴉	居然一臉驕傲地賭上腐敗王族的名聲？
+TalkEvent_07_025ID	16	Roman	ロマン	君から仲間を護り切り、その言葉も取り消させよう！	Roman	I will protect my people from you and ensure you regret ever saying such words!	罗曼	我要保护伙伴不受你的伤害，也要让你撤回前言！	羅曼	我會保護好夥伴，讓妳收回那句話！
+TalkEvent_07_025ID	17	Izana	イザナ	ロマン君、アタシもまだ戦うよ！　レスナちゃんの\n騎士として！	Izana	I will fight by your side, Roman! For I am Resna's knight!	伊札娜	罗曼，我也还能打！我可是蕾斯娜的骑士！	伊札娜	羅曼，讓我加入吧！\n身為蕾斯娜的騎士，我也還能戰鬥！
+TalkEvent_07_025ID	18	Resna	レスナ	私だってロマンさんの同志ですから！	Resna	Me too! We're kindred spirits, after all!	蕾斯娜	我也是罗曼先生的同志啊！	蕾斯娜	我也是羅曼先生的同伴！
+TalkEvent_07_025ID	19	Marion	マリオン	ロマンにだけいい格好させられないもの	Marion	I can't let you steal all the glory!	玛丽翁	总不能只让罗曼一个人出风头。	瑪麗翁	怎麼能讓羅曼搶盡風頭呢。
+TalkEvent_07_025ID	20	Esty	エスティ	礼儀のなってない子にはお仕置きが必要だもんね	Esty	Spoiled children need to be disciplined!	艾丝缇	没教养的孩子就得好好教育教育。	艾絲緹	沒禮貌的小孩就需要好好處罰。
+TalkEvent_07_025ID	21	Crow	鴉	まとめて制裁する	Crow	I will exact punishment on you all.	鸦	我会将你们一并制裁。	烏鴉	我要一併制裁你們。
+TalkEvent_07_026_00ID	0	Crow	鴉	まずはお前だ！	Crow	I'll start with you first!	鸦	首先就从你开始！	烏鴉	首先就從妳開始！
+TalkEvent_07_026_00ID	1	Resna	レスナ	っ！！	Resna	*Gasp*	蕾斯娜	！！	蕾斯娜	呃！！
+TalkEvent_07_026_00ID	2	Izana	イザナ	させるかぁっ！	Izana	I won't let you!	伊札娜	休想得逞！	伊札娜	別想得逞！
+TalkEvent_07_026_00ID	3	Crow	鴉	目障りな……！	Crow	Out of my way!	鸦	碍眼……！	烏鴉	礙眼……！
+TalkEvent_07_026_00ID	4	Roman	ロマン	はあっ！！	Roman	Haaah!	罗曼	喝啊！	羅曼	喝啊！！
+TalkEvent_07_026_00ID	5	Resna	レスナ	なんとかしなくちゃ……。このままじゃ、\n私たちがじりじり削られていくだけだ	Resna	We have to do something. Otherwise, she'll just keep chipping away at us!	蕾斯娜	得想想办法……不然再这样下去\n只会慢慢耗尽我们的体力。	蕾斯娜	必須想點辦法……再這樣下去，\n我們的力氣只會被慢慢耗盡。
+TalkEvent_07_026_00ID	6	Izana	イザナ	レスナちゃん、ロマン君と逃げて！\n鴉はアタシたちで引き付けてみせる！	Izana	Resna, Roman, get out of here! Leave Crow to us!	伊札娜	蕾斯娜，你和罗曼一起逃吧！\n鸦就由我们来拖住！	伊札娜	蕾斯娜，妳和羅曼一起逃吧！\n我們會拖住烏鴉的！
+TalkEvent_07_026_00ID	7	Crow	鴉	させると思うか！	Crow	As if I'd just let them escape!	鸦	你以为有机会吗！	烏鴉	想得美！
+TalkEvent_07_026_00ID	8	Izana	イザナ	できる！　アタシとハンマーなら！	Izana	Don't worry! My hammers and I have got this!	伊札娜	有机会！有我和这把锤子在就能做到！	伊札娜	沒問題的！我和錘子肯定可以！
+TalkEvent_07_026_00ID	9	Izana	イザナ	やああああっ！	Izana	Raaahhh!	伊札娜	呀——！	伊札娜	喝啊啊啊啊！
+TalkEvent_07_026_00ID	10	Resna	レスナ	このままじゃまずいかも……でも、どうすれば……	Resna	This isn't going to work. But what can we do?	蕾斯娜	再这样下去就危险了……可是要怎么办……	蕾斯娜	再這樣下去可能不太妙……但，該如何是好……
+TalkEvent_07_026_00ID	11	Heidi	ハイディ	うわあああああああ！！	Heidi	Aaaah!	海蒂	哇啊啊啊啊啊啊啊！！	海蒂	哇啊啊啊啊啊啊啊！！
+TalkEvent_07_026_00ID	12	Resna	レスナ	えっ……？	Resna	Huh?	蕾斯娜	咦……？	蕾斯娜	咦……？
+TalkEvent_07_026_01ID	0	Heidi	ハイディ	うわあああああああ！！	Heidi	Aaaah!	海蒂	哇啊啊啊啊啊啊啊！！	海蒂	哇啊啊啊啊啊啊啊！！
+TalkEvent_07_026_01ID	1	Resna	レスナ	えっ……？	Resna	Huh?	蕾斯娜	咦……？	蕾斯娜	咦……？
+TalkEvent_07_026_01ID	2	Heidi	ハイディ	ちょいちょいちょいちょい速度上げすぎ！	Heidi	This is way, way, WAY too fast!	海蒂	慢点慢点，速度提升得太过了！	海蒂	等、等等，速度太快了！
+TalkEvent_07_026_01ID	3	Heidi	ハイディ	　	Heidi	　	海蒂	　	海蒂	　
+TalkEvent_07_026_01ID	4	Valeria	ヴァレリア	レスナたちの危機だもの！	Valeria	Resna and the others are in danger!	瓦莱莉娅	因为蕾斯娜他们陷入危机了啊！	瓦萊莉婭	蕾斯娜他們有危險啊！
+TalkEvent_07_026_01ID	5	Ayesha	アーシャ	オディーリアさん、こっちで合ってるんですよね！？	Ayesha	Odelia, this is the way they went, right?	爱夏	奥迪莉雅小姐，你确定是这条路吧？！	愛夏	奧迪莉雅小姐，這個方向沒錯吧！？
+TalkEvent_07_026_01ID	6	Odelia	オディーリア	はい。この先で戦闘が行われている模様です	Odelia	Yes. They seem to be battling just up ahead.	奥迪莉雅	是的，前方似乎正在发生战斗。	奧迪莉雅	是的。前方似乎正在戰鬥中。
+TalkEvent_07_026_01ID	7	Izana	イザナ	はい。この先で戦闘が行われている模様です	Izana	Yes. They seem to be battling just up ahead.	伊札娜	是的，前方似乎正在发生战斗。	伊札娜	是的。前方似乎正在戰鬥中。
+TalkEvent_07_026_01ID	8	Crow	鴉	はい。この先で戦闘が行われている模様です	Crow	Yes. They seem to be battling just up ahead.	鸦	是的，前方似乎正在发生战斗。	烏鴉	是的。前方似乎正在戰鬥中。
+TalkEvent_07_026_01ID	9	Valeria	ヴァレリア	――見つけたっ！	Valeria	There they are!	瓦莱莉娅	——找到了！	瓦萊莉婭	找到了──！
+TalkEvent_07_026_01ID	10	Heidi	ハイディ	　	Heidi	　	海蒂	　	海蒂	　
+TalkEvent_07_026_01ID	11	Ayesha	アーシャ	っ！	Ayesha	...!	爱夏	唔！	愛夏	唔！
+TalkEvent_07_026_01ID	12	Ayesha	アーシャ	せ、線路が途切れてますよ！？	Ayesha	The rails just end?!	爱夏	前、前面的轨道好像断了？！	愛夏	軌、軌道斷了耶！？
+TalkEvent_07_026_01ID	13	Odelia	オディーリア	このままでは脱線します。衝撃に備えてください	Odelia	We're about to derail. Please brace for impact.	奥迪莉雅	继续前进就要脱轨了。请做好迎接冲击的准备。	奧迪莉雅	再這樣下去會出軌的。請做好接受撞擊的準備。
+TalkEvent_07_026_01ID	14	Ayesha	アーシャ	ええっ！？	Ayesha	What?!	爱夏	咦？！	愛夏	什麼！？
+TalkEvent_07_026_01ID	15	Ayesha	アーシャ	きゃあああっ	Ayesha	Aaah!	爱夏	呀——	愛夏	呀啊啊啊！
+TalkEvent_07_026_01ID	16	Heidi	ハイディ	ちょっ！　何する気！？	Heidi	What do you think you're doing?!	海蒂	喂，你打算做什么？！	海蒂	等等！妳打算做什麼！？
+TalkEvent_07_026_01ID	17	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_07_026_01ID	18	Valeria	ヴァレリア	いっけーーーーっ！！	Valeria	Let's gooo!	瓦莱莉娅	去吧——！！	瓦萊莉婭	衝啊────！！
+TalkEvent_07_026_01ID	19	Crow	鴉	っ！！	Crow	...!	鸦	！！	烏鴉	呃！！
+TalkEvent_07_026_01ID	20	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_07_026_01ID	21	Roman	ロマン	　	Roman	　	罗曼	　	羅曼	　
+TalkEvent_07_026_01ID	22	Resna	レスナ	ええええええっ！？	Resna	Whaaat?!	蕾斯娜	什么——？！	蕾斯娜	咦咦咦咦咦咦！？
+TalkEvent_07_026_01ID	23	Crow	鴉	ぐああああっ！	Crow	Hiyaaah!	鸦	唔啊啊啊啊！	烏鴉	唔啊啊啊啊！
+TalkEvent_07_026_01ID	24	Valeria	ヴァレリア	　	Valeria	　	瓦莱莉娅	　	瓦萊莉婭	　
+TalkEvent_07_026_01ID	25	Valeria	ヴァレリア	よし、決まった――	Valeria	Nice, it landed!	瓦莱莉娅	好，命中了——	瓦萊莉婭	很好，完美──
+TalkEvent_07_026_01ID	26	Heidi	ハイディ	ぎゃあああああ！！	Heidi	Yaaah!	海蒂	呀啊啊啊啊啊！！	海蒂	呀啊啊啊啊啊！！
+TalkEvent_07_026_01ID	27	Ayesha	アーシャ	　	Ayesha	　	爱夏	　	愛夏	　
+TalkEvent_07_026_01ID	28	Valeria	ヴァレリア	っみんな！	Valeria	Everyone!	瓦莱莉娅	各位！	瓦萊莉婭	大家！
+TalkEvent_07_026_01ID	29	Heidi	ハイディ	あー、ひどい目にあった……	Heidi	Ugh, that was horrible.	海蒂	啊……好惨……	海蒂	啊～好慘……
+TalkEvent_07_026_01ID	30	Heidi	ハイディ	　	Heidi	　	海蒂	　	海蒂	　
+TalkEvent_07_026_01ID	31	Valeria	ヴァレリア	ごめんごめん。えーと、見た感じ大丈夫そうね？	Valeria	Sorry, sorry. But I think everything's fine now, right?	瓦莱莉娅	抱歉抱歉，唔，看样子都没什么大问题吧？	瓦萊莉婭	抱歉抱歉。嗯～應該沒什麼大礙吧？
+TalkEvent_07_026_01ID	32	Ayesha	アーシャ	オディーリアさんが衝撃を抑えてくれたのでなんとか……	Ayesha	Odelia softened our landing, so we're all right...	爱夏	奥迪莉雅小姐帮我们减轻了冲击力，好歹是平安化解了……	愛夏	因為奧迪莉雅小姐減輕了撞擊力道，所以還行……
+TalkEvent_07_026_01ID	33	Odelia	オディーリア	一流のオートマタにかかれば造作もないことです	Odelia	This is all quite standard for every top-of-the-line automaton.	奥迪莉雅	只要一流的自动人偶出马，事情就能轻松解决。	奧迪莉雅	對一流的自動人偶來說，這簡直小菜一碟。
+TalkEvent_07_026_01ID	34	Valeria	ヴァレリア	レスナ！　みんな、無事！？　全員生きてる？	Valeria	Resna! Are you all okay?! Is everyone still alive?	瓦莱莉娅	蕾斯娜！你们都没事吧？！大家都活着吗？！	瓦萊莉婭	蕾斯娜！各位沒事吧！？所有人都還活著嗎？
+TalkEvent_07_026_01ID	35	Resna	レスナ	そ、それはこっちのセリフだよ！	Resna	That's what I was about to ask!	蕾斯娜	这、这话该我问你才对！	蕾斯娜	這、這應該由我來問才對吧！
+TalkEvent_07_026_01ID	36	Roman	ロマン	いやぁ、驚いたな！　まさかこんな登場とは	Roman	Goodness! Now that's what I call a surprising entrance!	罗曼	哎呀，吓我一跳！你们居然会以这种方式出场。	羅曼	哎呀，真驚人！沒想到你們會以這種方式登場。
+TalkEvent_07_026_01ID	37	Valeria	ヴァレリア	まさか鴉がここに来てたなんて……！	Valeria	What are the odds of Crow coming here?!	瓦莱莉娅	没想到鸦会跑到这种地方来……！	瓦萊莉婭	而且烏鴉竟然也來了……！
+TalkEvent_07_026_02ID	0	Valeria	ヴァレリア	鴉も戻ってくる気配はなさそうね。\nどこまで落ちていったのかしら	Valeria	I don't believe she'll be back. I wonder how far down she fell...	瓦莱莉娅	看样子鸦一时半会不会回来了。\n也不知道她掉到哪里去了。	瓦萊莉婭	烏鴉似乎暫時沒有現身的跡象。\n不曉得她掉到哪裡去了？
+TalkEvent_07_026_02ID	1	Heidi	ハイディ	はー……とりあえず一安心か。\nったく、無茶するんだから	Heidi	We seem to be safe for now. But what a load of trouble that was.	海蒂	呼……总之现在暂时能安心了。\n真是的，都怪你乱来。	海蒂	呼……總之應該可以安心了吧。\n真是的，老愛亂來。
+TalkEvent_07_026_02ID	2	Resna	レスナ	もう……。\nでもありがとう。おかげで助かったよ	Resna	Truly. But thank you. You really saved us.	蕾斯娜	就是说呀……\n不过还是得谢谢你救了我们。	蕾斯娜	好啦……\n不過，謝謝妳們。是妳們救了我們。
+TalkEvent_07_026_02ID	3	Valeria	ヴァレリア	ふふ、どういたしまして	Valeria	Hehe, anytime!	瓦莱莉娅	呵呵，不客气。	瓦萊莉婭	呵呵，不客氣。
+TalkEvent_07_026_02ID	4	Ayesha	アーシャ	皆さんひどいケガ……！　急いで治療しないと！	Ayesha	You're all severely injured! You need medical assistance at once!	爱夏	大家都受了好重的伤……！得赶紧治疗！	愛夏	大家受了好重的傷……！得快點治療才行！
+TalkEvent_07_026_02ID	5	Odelia	オディーリア	こんなこともあろうかと、傷薬を持参しています	Odelia	I brought some ointments for exactly this scenario.	奥迪莉雅	我就猜到会有这种事情，所以提前准备了伤药。	奧迪莉雅	我早就料到會有這種事，所以帶了傷藥來。
+TalkEvent_07_026_02ID	6	Resna	レスナ	アーシャ先輩、ありがとうございます！　あと……\nあの、そちらの方は……？	Resna	Miss Ayesha, thank you so much! And...you are?	蕾斯娜	谢谢你，爱夏前辈！\n请问……那位是……？	蕾斯娜	愛夏前輩，謝謝妳！還有……\n呃，那邊那位是……？
+TalkEvent_07_026_02ID	7	Odelia	オディーリア	私はオディーリアといいます。\nアーシャの助手を務めています	Odelia	My name is Odelia. I am Ayesha's assistant.	奥迪莉雅	我是奥迪莉雅，\n现在在当爱夏的助手。	奧迪莉雅	我叫奧迪莉雅。\n是愛夏的助手。
+TalkEvent_07_026_02ID	8	Resna	レスナ	オディーリアさん……ありがとうございます	Resna	Odelia. Thank you.	蕾斯娜	奥迪莉雅小姐……谢谢你。	蕾斯娜	奧迪莉雅小姐……謝謝妳。
+TalkEvent_07_026_02ID	9	Heidi	ハイディ	よっし、それじゃあ今のうちに脱出しよう！	Heidi	Okay. Let's escape while we can!	海蒂	好，那就趁现在离开这里吧！	海蒂	好，那我們趁現在快逃吧！
+TalkEvent_07_026_02ID	10	Roman	ロマン	出口までは私が案内を――	Roman	I can show the way to the ex―	罗曼	我来带大家去出口——	羅曼	我來帶各位到出口──
+TalkEvent_07_026_02ID	11	Heidi	ハイディ	冗談じゃないよ、なんなのあの団体様は！？	Heidi	You've got to be joking! What's with the horde of monsters?!	海蒂	开什么玩笑，那群家伙是从哪冒出来的？！	海蒂	開什麼玩笑，那一大群是什麼啊！？
+TalkEvent_07_026_02ID	12	Esty	エスティ	おまけに親玉らしきデカブツもいるわね	Esty	To make matters worse, they've got a giant boss with them too!	艾丝缇	还有首领风范十足的大家伙在呢。	艾絲緹	而且還有個像是首領的大塊頭呢。
+TalkEvent_07_026_02ID	13	Roman	ロマン	ここは魔物を蹴散らして脱出するしかなさそうだね！	Roman	Looks like we have no choice but to plow right through them!	罗曼	看来只能干掉魔物再逃了！	羅曼	看來要逃出去的話只能先解決魔物了！
+TalkEvent_07_026_02ID	14	Izana	イザナ	もう一暴れしよっか、ヴァレリア！	Izana	Up for another round, Valeria?!	伊札娜	瓦莱莉娅，再来乱闹一通吧！	伊札娜	瓦萊莉婭，讓我們再大鬧一場吧！
+TalkEvent_07_026_02ID	15	Valeria	ヴァレリア	そうね！　ちょうど身体が温まったところよ！	Valeria	Absolutely! Might as well while I'm still warmed up!	瓦莱莉娅	也好！正好我已经热身过了！	瓦萊莉婭	沒問題！剛好我也熱身完了！
+TalkEvent_07_026_02ID	16	Heidi	ハイディ	んじゃ、雑魚は私らで担当するよ！	Heidi	All right, then we'll handle the small fries!	海蒂	那我就来收拾那些杂兵吧！	海蒂	那小嘍囉就交給我們吧！
+TalkEvent_07_026_02ID	17	Resna	レスナ	よーし。みんな揃ってここから出ましょう！	Resna	Let's team up and take them down!	蕾斯娜	好，大家齐心协力从这里闯出去吧！	蕾斯娜	好～大家一起逃離這裡吧！
+TalkEvent_07_027ID	0	Roman	ロマン	はぁ……これでやっと外に出られるね	Roman	Phew... We're finally out of there.	罗曼	呼……这下总算能出去了。	羅曼	呼……這樣終於能出去了。
+TalkEvent_07_027ID	1		盗賊Ａ	テメェら！　逃がすか！	Bandit A	You scoundrels! You think you can escape?!	盗贼A	你们给我站住！别想逃！	盜賊A	你們幾個！還想逃啊！
+TalkEvent_07_027ID	2	Esty	エスティ	しつこい奴らね。こっちもいい加減疲れてきたし、\nそろそろきっつーいお灸を据えてあげようかしら	Esty	Gosh, they just won't give up. We're at the end of our rope. What do you say we give them a beating to remember?	艾丝缇	真是难缠，我们也开始累了，\n是不是该动真格给你们点教训了？	艾絲緹	這群煩人的傢伙。我有點累了，\n是時候下重手了。
+TalkEvent_07_027ID	3	Roman	ロマン	ん？　この足音は……。\nどうやら私たちが相手する必要はなさそうだ	Roman	Hm? Those footsteps... Sounds like we won't have to deal with them after all.	罗曼	嗯？这脚步声是……\n看来不需要我们亲自应付了。	羅曼	嗯？這個腳步聲是……\n看來我們不必理會他們了。
+TalkEvent_07_027ID	4		騎士Ａ	殿下、ご無事ですか！	Knight A	Your Highness! Are you unhurt?!	骑士A	殿下，您没事吧！	騎士A	殿下，您是否平安無事？
+TalkEvent_07_027ID	5	Izana	イザナ	王国騎士団だー！	Izana	It's the royal knights!	伊札娜	是王国骑士团！	伊札娜	是王國騎士團～！
+TalkEvent_07_027ID	6		騎士Ａ	半数は殿下の元へ！　残りは私に続け！	Knight A	Half of you go to His Highness! The rest, with me!	骑士A	半数人马守在殿下身边，剩下的跟我来！	騎士A	一半的人到殿下那裡！其他人跟上我的腳步！
+TalkEvent_07_027ID	7		騎士Ｂ	殿下一行周辺の警護体制、完了！	Knight B	The perimeter around His Highness is complete!	骑士B	已在殿下一行的周围布阵警备！	騎士B	已排出殿下一行人周邊的警戒陣型了。
+TalkEvent_07_027ID	8		騎士Ｃ	こちらも布陣完了しました！	Knight C	Our battle formation is complete as well!	骑士C	本队同样布阵完毕！	騎士C	這邊也布陣完成了！
+TalkEvent_07_027ID	9	Heidi	ハイディ	さ、さすが騎士団だね。統率の取れた動き……！	Heidi	Amazing! They work so quickly and efficiently!	海蒂	不、不愧是骑士团，动作整齐划一……！	海蒂	不、不愧是騎士團。好井然有序的行動……！
+TalkEvent_07_027ID	10		騎士Ａ	盗賊団を捕縛せよ！　一人たりとも逃すな！	Knight A	Arrest the bandits! Let none escape!	骑士A	抓捕盗贼团！一个都别让他们逃了！	騎士A	緝捕盜賊團！不准讓任何一個人逃掉！
+TalkEvent_07_027ID	11		騎士Ｂ	内部にいた盗賊は全員確保しました。\n奴らの本拠地も聞き出し、現在、別動隊が捜索中です	Knight B	We have secured all the bandits inside the mine. We have also ascertained the whereabouts of their hideout and sent another unit to search for them.	骑士B	已抓捕采掘场内的所有盗贼，\n也问出了他们的据点所在，当前别动队正积极搜索。	騎士B	已逮捕全體盜賊，\n並問出他們的大本營。目前突擊隊正在搜索中。
+TalkEvent_07_027ID	12	Roman	ロマン	そうか。いやあ、いいところに来てくれて\n助かったよ。さすがランターナ騎士団だ	Roman	I see. You all got here just in time. My thanks to our kingdom's knights.	罗曼	这样啊。哎呀，你们来得正是时候，谢谢。\n不愧是兰塔纳骑士团。	羅曼	這樣啊。哎呀，你們出現的時機正好。\n真是幫大忙了。不愧是蘭塔納騎士團。
+TalkEvent_07_027ID	13		騎士Ｂ	もったいないお言葉です	Knight B	We do not deserve such praise.	骑士B	谬赞了。	騎士B	不敢當。
+TalkEvent_07_027ID	14		騎士Ｂ	到着が遅れまして、誠に申し訳ありません。\n本当に……ご無事で何よりです。リヒャルト殿下	Knight B	It is to our shame we arrived so late. Nonetheless, it is truly a blessing that you are safe, Prince Richard.	骑士B	十分抱歉，我们来晚了。\n您没事……真是太好了，理查德殿下。	騎士B	非常抱歉，屬下來晚了。\n您沒事……真是太好了，理查德殿下。
+TalkEvent_07_027ID	15		騎士Ｃ	殿下……！	Knight C	Your Highness!	骑士C	殿下……！	騎士C	殿下……！
+TalkEvent_07_027ID	16		騎士Ｄ	よくぞご無事で！	Knight D	Glad to see you are well!	骑士D	您没事就好！	騎士D	幸好您沒事！
+TalkEvent_07_027ID	17	Roman	ロマン	皆には心配をかけたね	Roman	Seems like I really made you all worry.	罗曼	让你们担心了。	羅曼	讓各位擔心了。
+TalkEvent_07_027ID	18	Izana	イザナ	ロマン君ってホントに王子様だったんだ。それに……\nみんなにすっごく慕われてるね	Izana	So Roman really is a prince, and a well-liked one at that.	伊札娜	罗曼真的是王子殿下啊。\n而且……大家都很敬爱他呢。	伊札娜	原來羅曼真的是王子殿下啊。而且……\n還很受眾人愛戴呢。
+TalkEvent_07_027ID	19	Roman	ロマン	えー、その……。今まで黙っていてすまない！\n実は私は、ランターナ王国の第二王子だったんだよ！	Roman	Uh, so... Sorry about not mentioning this before! I'm actually one of the princes of Lantarna!	罗曼	啊，对了……抱歉瞒了大家这么久！\n其实我的真实身份是兰塔纳王国的第二王子！	羅曼	呃～那個……抱歉，一直瞞著各位！\n其實我是蘭塔納王國的第二王子！
+TalkEvent_07_027ID	20	Valeria	ヴァレリア	ああ、もう知ってるわよ？	Valeria	Yeah, we already know.	瓦莱莉娅	哦，这我们已经知道了。	瓦萊莉婭	嗯，我們已經知道囉？
+TalkEvent_07_027ID	21	Roman	ロマン	へっ？	Roman	Huh?	罗曼	什么？	羅曼	咦？
+TalkEvent_07_027ID	22	Ayesha	アーシャ	す、すみません！　えっと、皆さんに話して\nしまいました……	Ayesha	Sorry! I'm the one who told them.	爱夏	对、对不起！\n其实……我已经告诉大家了……	愛夏	抱、抱歉！\n那個，是我告訴大家的……
+TalkEvent_07_027ID	23	Roman	ロマン	は……はは……「ロマン大発表会」でみんなをびっくり\nさせたかったんだけどなぁ……	Roman	"Ha...haha. And here I wanted to surprise you all with my ""Big Announcement."""	罗曼	哈……哈哈……我还想在“罗曼的大发布会”上\n吓大家一跳呢……	羅曼	哈……哈哈……我本來還想來個「羅曼的大發表會」，\n讓大家嚇一跳的……
+TalkEvent_07_027ID	24	Roman	ロマン	そうだ。言うのが遅れたけれど、助けに来てくれて\n本当にありがとう	Roman	Oh. I'm pretty late in saying this, but thanks for coming to my rescue.	罗曼	对了，还没跟你们道谢。\n谢谢各位来救我。	羅曼	對了。雖然有點晚了，\n但我還是要說，謝謝你們來救我。
+TalkEvent_07_027ID	25	Roman	ロマン	まさか、自分が誘拐されるなんてことが起こるとは\n驚きだったなぁ……！	Roman	I can't believe I actually got kidnapped!	罗曼	居然会有人绑架我，连我自己都觉得惊讶……！	羅曼	沒想到我竟然會被綁架，\n真是令我驚訝……！
+TalkEvent_07_027ID	26	Heidi	ハイディ	ロマンはもう少し慎重に\n振舞ったほうがいいんじゃない？	Heidi	Let this be a lesson that you should be a little more careful.	海蒂	罗曼，你行动的时候还是稍微慎重点吧？	海蒂	建議你行動時\n還是要謹慎一點比較好。
+TalkEvent_07_027ID	27	Resna	レスナ	そうですよ！　ロマンさんは王子様なんですから……\nあ！　リヒャルト様って呼ぶべきでした！	Resna	Yes! After all, you're a prince, Roman! Oh, but I should be calling you Your Highness!	蕾斯娜	对啊！罗曼先生可是王子殿下……\n啊！应该叫你理查德殿下！	蕾斯娜	對啊！畢竟羅曼先生是王子殿下……\n啊！得稱呼你理查德殿下才行！
+TalkEvent_07_027ID	28	Roman	ロマン	いや、今まで通りロマンと呼んでくれないか？\n距離ができたようで寂しいしね	Roman	Please, just keep calling me Roman. I'd be sad if you acted so formally with me.	罗曼	不不，还是像以前一样喊我罗曼吧？\n要是你们对我那么生分，我该多难过啊。	羅曼	不，跟以前一樣叫我羅曼就好。\n總覺得這樣很有距離感，有點怪寂寞的。
+TalkEvent_07_027ID	29	Marion	マリオン	それにしても、なんだかんだ言って腕の立つあなたが\n誘拐されるなんてね	Marion	I'm surprised they were able to nab you, since you're such a good fighter.	玛丽翁	说起来，你身手这么厉害，\n居然还会被人抓住啊。	瑪麗翁	話說回來，你的身手並不差，\n竟然還會遭到綁架。
+TalkEvent_07_027ID	30	Roman	ロマン	あー、いやぁ。それはなんと言うか……	Roman	Er, well, how can I put this...	罗曼	啊……这个有点难以启齿……	羅曼	嗯……不。該怎麼說呢……
+TalkEvent_07_027ID	31	Resna	レスナ	ロマンさん？	Resna	Roman?	蕾斯娜	罗曼先生？	蕾斯娜	羅曼先生？
+TalkEvent_07_027ID	32	Roman	ロマン	じ、実はこのところ「ロマン大発表会」の準備に\n夢中になっていてね……	Roman	The truth is, I got so wrapped up in preparing for my big announcement that I...	罗曼	其、其实我最近一直在专心地\n为“罗曼的大发布会”做准备……	羅曼	其、其實我最近忙著準備\n「羅曼的大發表會」……
+TalkEvent_07_027ID	33	Roman	ロマン	盛り上げ方を考えていたら、寝不足で\n油断してしまい……すまなかったね……	Roman	I got too excited to sleep, and in my exhaustion, I let my guard down. Sorry about that.	罗曼	为了寻找炒热气氛的创意，我有点睡眠不足，\n结果放松了警惕……实在是抱歉。	羅曼	一直想著如何炒熱氣氛，\n結果因為睡眠不足而大意了……抱歉……
+TalkEvent_07_027ID	34	Valeria	ヴァレリア	カフェで美味しいご飯をご馳走してくれたら許すわ！\nみんなもお腹ペコペコになったわよね？	Valeria	I'll forgive you if you pay for a round at the cafe! I bet everyone's starving by now, huh?	瓦莱莉娅	如果你在咖啡厅请我们吃东西就原谅你！\n大家都已经饿得眼冒金星了吧？	瓦萊莉婭	只要請我們去咖啡廳吃好料，就原諒你！\n大家肚子也餓了，對吧？
+TalkEvent_07_028ID	0		騎士Ａ	ここが盗賊団の根城で間違いないだろう。\nが、中はもぬけの殻だ。何も残っていない	Knight A	This must be the bandit stronghold, but it's completely deserted. There is nothing left.	骑士A	这里就是盗贼团的据点吧。\n但里面的人已经跑光了，也没有留下任何东西。	騎士A	這裡應該是盜賊團的據點，沒錯吧？\n不過裡面空空如也。什麼都不剩了。
+TalkEvent_07_028ID	1		騎士Ｂ	妙だな。盗品を貯め込んでいるとの話だったが……\n残党が盗品を移したのか？	Knight B	Strange. You mentioned they were stockpiling stolen goods. Do you think the stragglers took off with them?	骑士B	真奇怪，我听说里面装满了赃物……\n是残余分子转移了赃物吗？	騎士B	真奇怪。聽說藏了大量贓物……\n難道被餘黨搬走了嗎？
+TalkEvent_07_028ID	2		騎士Ａ	盗賊団は全員、採掘場跡で捕縛されたと報告があったが\nどういうことだ？	Knight A	How could that be? All the bandits were reportedly apprehended at the mining site.	骑士A	报告上说全体盗贼团成员都在采掘场遗迹被捕，\n怎么还会有残余？	騎士A	報告說，盜賊團全員在挖掘場遺跡被捕了。\n這究竟是怎麼回事？
+TalkEvent_07_028ID	3		オリバー	そうか。第二王子は奪い損なったか	Oliver	It seems you failed to capture the prince.	奥利弗	唔，没能把第二王子抢到手啊。	奧利弗	這樣啊。沒成功把第二王子搶過來啊。
+TalkEvent_07_028ID	4		オリバー	まぁいい。すでに素性も動向も掴んだ。\nいくらでも利用する機会はあるだろう	Oliver	No matter. We already know his identity and what he's up to. There will be plenty of opportunities to take advantage of that.	奥利弗	也罢。我们已经掌握了他的形貌和动向，\n今后随时都有机会利用他。	奧利弗	算了。我們已經摸清他的底細跟動向了。\n未來還有很多機會可以利用。
+TalkEvent_07_028ID	5		オリバー	他に大きな収穫を得ることができた。\n盗賊どもめ、予想以上に貯め込んでいたな	Oliver	And we have obtained something else. These bandits had a larger haul than expected.	奥利弗	此外还得到了巨大收获。\n盗贼收集的东西价值真是超乎想象啊。	奧利弗	而且還獲得了額外的豐富收穫。\n那群盜賊的收藏真是超乎預期。
+TalkEvent_07_028ID	6	Crow	鴉	確保した盗品を捌く準備は\nすでに整えております	Crow	Preparations for moving the stolen goods have been completed.	鸦	现在已经做好转卖赃物的准备了。	烏鴉	我已經完成\n處理贓物的準備了。
+TalkEvent_07_028ID	7		オリバー	臨機応変によく動いた、鴉よ。さすが天才だ	Oliver	You're a quick worker, Crow. I knew you were a genius.	奥利弗	鸦，你随机应变得很好，不愧是天才。	奧利弗	烏鴉，妳真會隨機應變。不愧是天才。
+TalkEvent_07_028ID	8	Crow	鴉	は	Crow	Sir.	鸦	是。	烏鴉	是。
+TalkEvent_07_028ID	9	Crow	鴉	ヴァレリア……	Crow	Valeria...	鸦	瓦莱莉娅……	烏鴉	瓦萊莉婭……
+TalkEvent_07_028ID	10	Crow	鴉	制裁を受けた身の癖に、よくも……	Crow	You suffered my punishment, yet you still dare...	鸦	你本该接受制裁，居然还敢……	烏鴉	明明是接受制裁的人，竟然……
+TalkEvent_07_029ID	0	Resna	レスナ	「王子としてお礼がしたい」ってロマンさんが\n言ってたけど……	Resna	Roman said this was just his princely way of saying thanks...	蕾斯娜	虽然罗曼先生说“想以王子的身份表达感谢”……	蕾斯娜	羅曼先生說他\n「想以王子的身分致謝」……
+TalkEvent_07_029ID	1	Resna	レスナ	まさか、お城に招待されることになるなんて！\nなんだか震えてきちゃった……	Resna	But I can't believe we're actually getting invited to the castle! My whole body is shaking!	蕾斯娜	但没想到他会邀请我们来到城堡！\n我激动得浑身都发抖了……	蕾斯娜	沒想到竟然邀請我們到城堡裡！\n總覺得有點不知所措……
+TalkEvent_07_029ID	2	Izana	イザナ	アタシも緊張しちゃうよ！\nあー、今度は正式な騎士としてここに来たいなぁ！	Izana	I'm nervous too! Oh, I hope next time I'm here it's as a proper knight!	伊札娜	我也很紧张！\n唉，下次真想作为正牌骑士来这里啊！	伊札娜	我也緊張起來了！\n啊～希望將來能以正式騎士的身分來這裡！
+TalkEvent_07_029ID	3	Roman	ロマン	今日は来てくれたことに感謝するよ。\n父も君たちの活躍には心から喜んでいたからね	Roman	Thank you for coming. My father was quite happy to hear of your deeds.	罗曼	感谢你们今天受邀前来。\n父亲也十分欣赏你们的活跃表现。	羅曼	感謝各位今日撥空蒞臨。\n父親也打從心底讚賞各位的活躍表現。
+TalkEvent_07_029ID	4	Resna	レスナ	あ、あの！　私たちは当然のことをしただけですし……	Resna	Oh, we were just doing the right thing.	蕾斯娜	请、请别这么说！我们只是做了该做的事……	蕾斯娜	哪、哪裡！那是我們應該做的……
+TalkEvent_07_029ID	5	Roman	ロマン	そう畏まらないでくれたまえよ	Roman	Don't be so humble!	罗曼	不用这么拘谨的。	羅曼	無須如此見外。
+TalkEvent_07_029ID	6	Roman	ロマン	皆も知っての通り、私は以前から錬金術に可能性を\n感じていた。そして今でも感じている	Roman	As you all are well aware, I've long since sensed the potential in alchemy. I still do.	罗曼	大家应该都知道，我长期以来都相信\n炼金术拥有无尽的潜力。现在也是一样。	羅曼	如各位所知，我從以前就深知鍊金術的無限可能性。\n這一點如今依然沒變。\n
+TalkEvent_07_029ID	7	Resna	レスナ	はい。私もです	Resna	Yes, I feel the same way.	蕾斯娜	嗯，我也这样相信。	蕾斯娜	嗯，我也是。
+TalkEvent_07_029ID	8	Roman	ロマン	錬金術を復興させれば、必ず王国の発展に活かせる	Roman	I believe the revival of alchemy will surely lead to this country's prosperity.	罗曼	只要复兴炼金术，定能促进王国的发展。	羅曼	若能成功復興鍊金術，對王國發展肯定有所助益。
+TalkEvent_07_029ID	9	Roman	ロマン	そこで私は大規模なマナの抽出計画を立てた。\nこの大地そのものからマナを得られればとね	Roman	With that in mind, I set up a massive mana extraction plan. I hoped to get mana from the earth itself.	罗曼	所以我制定了大规模的玛那抽取计划，\n期盼从这片大地上取得玛那。	羅曼	因此我擬定了瑪那的大規模開挖計畫。\n希望能從這片大地挖掘出瑪那。
+TalkEvent_07_029ID	10	Roman	ロマン	やがて国の事業として採掘作業が始まり、私は勇んで\n陣頭指揮を執っていたが……その採掘場は閉鎖された	Roman	Mining operations were eventually initiated as a kingdom-wide project, and I eagerly took the lead. However, the mine was ultimately shut down.	罗曼	开采终于以国家事业之名义得以开展，\n我自告奋勇担任现场指挥……但后来采掘场被封锁了。	羅曼	我還曾自告奮勇坐鎮指揮過一陣子……\n在挖掘場總算作為國營事業步上軌道時，卻遭到封閉。
+TalkEvent_07_029ID	11	Resna	レスナ	あ……もしかして、この間の採掘場跡は……	Resna	Oh. Do you mean that mining site we were at was...	蕾斯娜	啊……莫非之前那个采掘场遗迹就是……	蕾斯娜	啊……該不會，那個挖掘場遺跡是……
+TalkEvent_07_029ID	12	Roman	ロマン	そう。私は一度、錬金術復興計画に失敗している	Roman	Yes. A testament to my failure to revive alchemy.	罗曼	没错，我在复兴炼金术的计划上失败过。	羅曼	沒錯。我已經在鍊金術復興計畫上失敗過一次了。
+TalkEvent_07_029ID	13	Roman	ロマン	従って、国家事業として錬金術を推進する\nことは難しくなってしまった	Roman	And in turn, it has become even more difficult to promote alchemy within the kingdom.	罗曼	在那以后，想将炼金术作为国家事业推广\n更是难上加难。	羅曼	因此，\n讓鍊金術成為國營事業這件事變得更加艱難。
+TalkEvent_07_029ID	14	Roman	ロマン	私がどれだけ果ての大陸を目指そうとも、\n賛同を得ることは難しいだろう	Roman	It would still be difficult to get approval even if I were to travel to the World's End.	罗曼	无论我有多么想前往终极大陆，\n恐怕也很难获得许可。	羅曼	不論我再怎麼想前往終極大陸，\n大概都很難獲得贊同。
+TalkEvent_07_029ID	15	Resna	レスナ	そんな……	Resna	But that's...	蕾斯娜	太可惜了……	蕾斯娜	怎麼會……
+TalkEvent_07_029ID	16	Roman	ロマン	しかし、君たちなら状況を覆すことができると思う	Roman	However, I believe you and your friends can turn things around.	罗曼	但你们应该能颠覆现状。	羅曼	但我認為各位有辦法扭轉局勢。
+TalkEvent_07_029ID	17	Resna	レスナ	えっ？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_07_029ID	18	Roman	ロマン	先のハイネ州での活躍、実に見事だった。錬金術が\n民の生活や産業を救った大きな実績だ	Roman	I saw how amazing you were in Haine. You worked miracles saving people's lives and livelihoods using alchemy.	罗曼	你们先前在海涅州的表现实在是精彩。\n这是炼金术拯救民生与产业的巨大实绩。	羅曼	各位先前在海涅州的表現實在精彩無比。正是鍊金術拯救\n人民生活與產業的偉大案例。
+TalkEvent_07_029ID	19	Roman	ロマン	今後も善意をもって錬金術の力を示し続ければ、\n父……国王も必ず錬金術を評価せざるを得ないだろう	Roman	If you continue showing the good alchemy can do, then my father...then His Majesty will surely have no choice but to appreciate it.	罗曼	只要今后也带着善意展现炼金术的力量，\n我父亲……国王也就不得不认可炼金术了吧。	羅曼	若各位今後繼續活用鍊金術助人，\n我想父親……國王將不得不正視鍊金術的影響。
+TalkEvent_07_029ID	20	Roman	ロマン	そうすれば、いずれ君の夢を国として後押しする\nことも可能になる	Roman	And from there, eventually, you will gain the kingdom's support in realizing your dreams.	罗曼	总有一天就能以一国之力助你实现梦想。	羅曼	那有朝一日我將能\n動員國家之力支持妳的夢想。
+TalkEvent_07_029ID	21	Resna	レスナ	ロマンさん……	Resna	Roman...	蕾斯娜	罗曼先生……	蕾斯娜	羅曼先生……
+TalkEvent_07_029ID	22	Roman	ロマン	私の挫折を君の錬金術が乗り越えてくれる日は\nきっと来るだろう……そこで	Roman	One day, your alchemy will succeed where my efforts failed. That is why...	罗曼	你的炼金术会克服我遇到的挫折，\n这一天必将来临……所以……	羅曼	我想，總有一天\n妳的鍊金術能跨越這些困難……
+TalkEvent_07_029ID	23	Roman	ロマン	レスナ。改めて、王子として君に協力させてほしい。\n共に錬金術を広めていかないか？	Roman	Resna, as a prince, I once again seek your assistance. Would you aid me in spreading the teachings of alchemy?	罗曼	蕾斯娜，我在此以王子的身份再次向你提出合作。\n你愿意与我共同将炼金术发扬光大吗？	羅曼	因此，蕾斯娜。請務必讓我以王子的身分協助妳。\n妳願意和我一起推廣鍊金術嗎？
+TalkEvent_07_029ID	24	Resna	レスナ	ロマンさん……いえ、リヒャルト殿下。\nありがとうございます！　私、頑張ります！	Resna	Roman! I mean, Your Highness. Thank you very much! I'll do my best!	蕾斯娜	罗曼先生……不，理查德殿下。\n谢谢你！我会努力的！	蕾斯娜	羅曼先生……不對，理查德殿下。\n謝謝你，我會努力的！
+TalkEvent_07_029ID	25	Resna	レスナ	むしろ、私のほうこそよろしくお願いします！\n粉骨砕身、誠心誠意、頑張りますっ！	Resna	In fact, it would be my honor! I'll put my whole body and soul into it!	蕾斯娜	应该说我才要请你多关照！\n我会全力以赴，粉身碎骨，万死不辞！	蕾斯娜	應該說，我才要請你多多指教！\n我會全心全意投入這件事！
+TalkEvent_07_029ID	26	Izana	イザナ	レスナちゃん！　よかったね！	Izana	Resna! How wonderful!	伊札娜	蕾斯娜，太好了！	伊札娜	太好了，蕾斯娜！
+TalkEvent_07_029ID	27	Valeria	ヴァレリア	みんなで頑張りましょ！	Valeria	We'll all do our part!	瓦莱莉娅	大家一起加油吧！	瓦萊莉婭	大家一起加油吧！
+TalkEvent_07_029ID	28	Resna	レスナ	うん！　私、きっと果ての大陸を見つけます！\n一緒に、夢を実現させましょう！	Resna	Yes! I know we'll find the World's End someday and realize our dreams!	蕾斯娜	嗯！我一定会找到终极大陆！\n我们一起实现梦想吧！	蕾斯娜	嗯！我一定要找到終極大陸！\n一起實現夢想吧！
+TalkEvent_07_029ID	29	Roman	ロマン	ありがとう、レスナ	Roman	Thanks, Resna.	罗曼	谢谢你，蕾斯娜。	羅曼	謝謝妳，蕾斯娜。
+TalkEvent_07_030ID	0	Resna	レスナ	なんだか、まだ胸がドキドキしてるよ……	Resna	My heart still won't stop pounding...	蕾斯娜	总感觉心还在狂跳……	蕾斯娜	我總覺得，心臟還在怦怦跳……
+TalkEvent_07_030ID	1	Izana	イザナ	アタシも。仲間が王子様なんて、\n話がでっかくなったねぇ	Izana	Same here. I can't believe we're friends with a prince! This is some adventure.	伊札娜	我也是。伙伴居然是王子殿下，\n感觉事情一下子宏大起来了。	伊札娜	我也是。竟然讓王子成為夥伴，\n這規模真龐大。
+TalkEvent_07_030ID	2	Heidi	ハイディ	国ぐるみの支援かぁ。果ての大陸だって元々\nデカい話だったけど、さらにデカい話になったよね	Heidi	Guess we have the kingdom's official blessing. Going to the World's End is a big deal in and of itself, but this takes the cake!	海蒂	举国支援啊。去终极大陆本身就是个远大目标了，\n没想到还能进一步扩大到这个境界。	海蒂	動員國家的力量支援啊。雖然終極大陸本來\n就是不小的目標，但現在又變得更遠大了呢。
+TalkEvent_07_030ID	3	Valeria	ヴァレリア	レスナの夢がでっかく現実に近づいたってことよね？\nでっかいことはいいこと！	Valeria	We're so close to making Resna's dream come true! The bigger the better, right?!	瓦莱莉娅	也就是说，蕾斯娜的梦想离实现更进一步了对吧？\n规模扩大是好事嘛！	瓦萊莉婭	代表蕾斯娜又朝夢想更進一步了吧？\n擴大規模是好事！
+TalkEvent_07_030ID	4	Resna	レスナ	ま、まだそんなに近づいてないよ！\nそれに……なんだか	Resna	We still have a long way to go! Plus...	蕾斯娜	还、还没有那么快实现啦！\n而且……总觉得……	蕾斯娜	沒、沒有啦！\n而且，我總覺得……
+TalkEvent_07_030ID	5	Resna	レスナ	王宮で会ったロマンさん、普段とは別人みたい\nだったなぁ……	Resna	Roman seemed like a totally different person in the palace.	蕾斯娜	在王宫见到的罗曼先生，\n跟我们熟悉的罗曼先生判若两人……	蕾斯娜	王宮裡的羅曼先生，\n簡直跟平常判若兩人……
+TalkEvent_07_030ID	6	Resna	レスナ	多分、これまで通りには行かないんだよね	Resna	Things might not ever go back to the way they were before.	蕾斯娜	大概不能像之前那样跟他相处了吧。	蕾斯娜	或許，已經無法像過去一樣相處了。
+TalkEvent_07_030ID	7	Izana	イザナ	そうだね、「一緒に冒険行こーよ！」なんて、\nこっちからは気軽に誘ったりできないよね	Izana	Yeah, it's not like we can just ask him to go on an adventure with us, huh?	伊札娜	是啊，\n已经不好随便开口邀请他跟我们一起冒险了。	伊札娜	是啊，\n我們已經沒辦法隨興地邀他去冒險了。
+TalkEvent_07_030ID	8	Valeria	ヴァレリア	相手はお城に住んでる王子様だもんね。\n誘拐事件もあったし	Valeria	He's a prince in a castle, and he's been kidnapped once before.	瓦莱莉娅	人家可是住在城堡里的王子殿下啊，\n而且还刚遭到绑架。	瓦萊莉婭	畢竟對方是住在城堡裡的王子殿下嘛。\n而且還曾經被綁架。
+TalkEvent_07_030ID	9	Heidi	ハイディ	だよねぇ。協力ったって、今まで通り気楽に\nご一緒できるワケじゃないしさ	Heidi	Right. Just because he's helping us doesn't mean he can just up and join us like before.	海蒂	对啊。虽然他提出了合作，\n但总不可能像之前那样轻松聚在一起行动。	海蒂	確實。所謂的協助，\n不會是像以前那樣輕鬆地一起行動了。
+TalkEvent_07_030ID	10	Heidi	ハイディ	今さらだけど遠い世界の人だって\n実感せざるを得なかったよねぇ……	Heidi	It's a bit late to say this now, but he really is on a different level from us, isn't he?	海蒂	说到这里才真正感觉到\n他跟我们就像生活在不同的世界……	海蒂	現在這麼說有點晚了，但不得不承認，\n他的確和我們是不同世界的人。
+TalkEvent_07_030ID	11	Ayesha	アーシャ	あの、わたし王宮に行くことはありますから、\n何かあったらロマンさんに伝えますよ？	Ayesha	I go to the palace occasionally. I'll make sure to tell Roman if anything happens.	爱夏	我接下来还会去王宫，\n有什么事的话，我可以代为转告罗曼先生哦？	愛夏	那個，我有時候會進王宮，\n有事的話我可以協助轉告羅曼先生喔。
+TalkEvent_07_030ID	12	Resna	レスナ	ありがとうございます、アーシャ先輩	Resna	Thank you, Miss Ayesha.	蕾斯娜	谢谢你，爱夏前辈。	蕾斯娜	愛夏前輩，謝謝妳。
+TalkEvent_07_030ID	13	Resna	レスナ	う、うう……ロマンさんに応援されたことだし、\n次の旅に向けて、準備をしておかなくちゃ！	Resna	*Sniff* Roman's counting on us. We'd better get ready for our next trip!	蕾斯娜	唔、唔……罗曼先生都为我加油了，\n我得为下一次旅行做好准备！	蕾斯娜	唔、唔……既然獲得羅曼先生的支持了，\n得開始準備下一趟旅行才行！
+TalkEvent_07_030ID	14	Roman	ロマン	おおっ！　早速、気合十分だね！\n私たちの未来は明るいぞ、レスナ！	Roman	Yes! That's the spirit! The future's looking awfully bright, right, Resna?	罗曼	哦！你这么快就已经鼓足劲了啊！\n我们的未来充满光明，蕾斯娜！	羅曼	哦哦！馬上就充滿幹勁了呢！\n蕾斯娜，我們的未來充滿光明呢！
+TalkEvent_07_030ID	15	Resna	レスナ	ひゃあっ！？	Resna	Whaaat?!	蕾斯娜	呀？！	蕾斯娜	呀啊！？
+TalkEvent_07_030ID	16	Roman	ロマン	やぁ！　またしても遅れてしまってすまないね！\nそれで、次はいったいどこに行くんだい？	Roman	Hi! Sorry for being late again! So where are we off to next?	罗曼	你们好啊！真不好意思，我又迟到了！\n那下次要去哪里？	羅曼	嗨！抱歉我又遲到了！\n所以下一次要去哪裡呢？
+TalkEvent_07_030ID	17	Resna	レスナ	ロ、ロマンさん！？　どうしてここに！？	Resna	Roman?! Why are you here?!	蕾斯娜	罗、罗曼先生？！你怎么在这里？！	蕾斯娜	羅、羅曼先生！？你怎麼會在這裡！？
+TalkEvent_07_030ID	18	Roman	ロマン	どうしてって、当然じゃないか！\n私は君たちの仲間で、レスナの同志なんだから	Roman	What do you mean? Isn't it obvious? You're my dear friends and kindred spirits!	罗曼	为什么这么问？我当然会来这里啊！\n因为我是你们的伙伴，也是蕾斯娜的同志嘛。	羅曼	咦？這不是理所當然的嗎！？\n因為我是各位的夥伴，也是妳的同伴啊。
+TalkEvent_07_030ID	19	Roman	ロマン	王宮でも言ったろう？\n君たちの旅を私に支援させてほしいって	Roman	I said back at the palace that I would help you on your journey.	罗曼	我在王宫也说了吧？\n我想支持你们的旅行。	羅曼	我在王宮也說過了吧？\n請讓我支援你們的旅程。
+TalkEvent_07_030ID	20	Roman	ロマン	共に泣き、共に笑い！　いつの日か必ず\n果ての大陸にみんなで立とうじゃないか！	Roman	We'll laugh! We'll cry! I intend to be standing right there next to you all at the World's End!	罗曼	让我们同甘共苦吧！\n总有一天我们定将共同踏上终极大陆！	羅曼	我要和各位同甘共苦！\n我們總有一天一定會踏上終極大陸的！
+TalkEvent_07_030ID	21	Resna	レスナ	共に……？　ほ、本当ですか！？　私たち、\nまたロマンさんと一緒に旅ができるんですか？	Resna	Together? Wait, really?! We still get to travel with you?!	蕾斯娜	共同……？真、真的吗？！\n我们还能跟罗曼先生一起旅行吗？！	蕾斯娜	同甘共苦……？真、真的嗎！？\n我們還能跟你一起旅行嗎？
+TalkEvent_07_030ID	22	Roman	ロマン	もちろんさ！　条件付きだけど、\n無事に父上から外出許可ももらったしね！	Roman	Absolutely! There are some stipulations, but I got my father's permission to travel!	罗曼	当然了！我已经顺利从父王那获得了外出许可！\n虽然他也提了条件。	羅曼	那當然！\n雖然有附帶條件，但父親大人同意我外出了！
+TalkEvent_07_030ID	23	Heidi	ハイディ	あんなことがあった直後に、よくもらえたよね……	Heidi	That's awfully generous given the recent turn of events...	海蒂	刚出过那种事，真亏你能得到许可啊……	海蒂	他竟然同意了……不是才剛發生那種事嗎？
+TalkEvent_07_030ID	24	Roman	ロマン	ふっふっふ。\n私は粘り勝ちのロマンとも呼ばれていてね？	Roman	Hehehe. They don't call me Roman the Persistent for nothing!	罗曼	呵呵呵。\n你们大可以称我为“锲而不舍的罗曼”哦？	羅曼	哼、哼、哼。\n我可是以死纏爛打出名的羅曼喔。
+TalkEvent_07_030ID	25	Resna	レスナ	ロマンさん、私、とっても嬉しいです！\nこれからも同志として、頑張りましょう！	Resna	Oh, I'm so happy! Let's do our best, kindred spirit!	蕾斯娜	罗曼先生，我很开心！\n今后也作为同志共同努力吧！	蕾斯娜	羅曼先生，我真的非常開心！\n往後也作為同伴一起努力吧！
+TalkEvent_07_030ID	26	Heidi	ハイディ	ま、これで一件落着か。\nちょっと気になることは残ってるけど……	Heidi	Well, I guess that settles the matter. I'm still a little concerned about a few things, though.	海蒂	这样就算是解决了一桩事。\n虽然还是有些让人在意的事……	海蒂	嗯，這件事就這樣告一段落了吧。\n雖然有件事我還是很在意……
+TalkEvent_07_030ID	27	Valeria	ヴァレリア	気になることって？	Valeria	Like what?	瓦莱莉娅	让人在意的事？	瓦萊莉婭	什麼事？
+TalkEvent_07_030ID	28	Heidi	ハイディ	ほら、魔物の様子がおかしかったじゃない？\n採掘場の中でも、その道中でもさ	Heidi	Monsters have been acting really strange. Back in the mining site and on the road.	海蒂	记得吗，之前采掘场里和路上的魔物状态都很奇怪吧？	海蒂	無論是挖掘場裡的、還是途中遇到的魔物，\n好像都不太尋常，對吧？
+TalkEvent_07_030ID	29	Valeria	ヴァレリア	言われてみればそうかも？\nでも、強いヤツと戦えるなら望むところじゃない	Valeria	You may be right. But if we get to fight stronger enemies, it's a good thing!	瓦莱莉娅	好像真的是这样？\n不过，能跟厉害的家伙交手正合我意啊。	瓦萊莉婭	這麼一說，好像是呢。\n不過，能跟強敵交戰正合我意。
+TalkEvent_07_030ID	30	Heidi	ハイディ	あんたならそう言うと思ったけどさ……	Heidi	I knew you would say that...	海蒂	我就知道你肯定会这么说……	海蒂	我就知道妳會這麼說……
+TalkEvent_07_030ID	31	Resna	レスナ	（そういえば、エスティさんも言ってた。\n　この頃、魔物が凶暴化してるって）	Resna	(Esty said the same thing about monsters growing more violent.)	蕾斯娜	（说起来艾丝缇小姐也说过，\n　最近魔物普遍变得凶暴了。）	蕾斯娜	（確實，艾絲緹小姐也說過，\n　最近魔物變得很凶殘。）
+TalkEvent_07_030ID	32	Resna	レスナ	（何か……嫌な予感がするような）	Resna	(I have a bad feeling about this.)	蕾斯娜	（总觉得……有种不祥的预感。）	蕾斯娜	（我好像……有種不祥的預感。）
+TalkEvent_07_030ID	33	Resna	レスナ	（気のせいだったらいいんだけど……）	Resna	(Though I really hope I'm wrong...)	蕾斯娜	（希望只是我多虑了……）	蕾斯娜	（希望只是錯覺……）

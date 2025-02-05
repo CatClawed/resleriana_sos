@@ -1,0 +1,407 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_00_001_01ID	0		旅人	はあ、はあ、はあ……	Traveler	*Huff* *Huff*	旅人	呼、呼、呼……	旅人	呼、哈、呼……
+TalkEvent_00_001_01ID	1		旅人	はあ、はあ、はあ……！	Traveler	*Huff* *Huff*	旅人	呼、呼、呼……！	旅人	呼、哈、呼……！
+TalkEvent_00_001_01ID	2		旅人	だ、誰か！　助けてくれ！　魔物だ！	Traveler	Someone, help! Monsters are after me!	旅人	来、来人啊！救命！有魔物啊！	旅人	有、有人嗎！快來救救我！是魔物！
+TalkEvent_00_001_01ID	3	Resna	レスナ	大変！　イザナちゃん、助けに行かなきゃ！	Resna	Oh no! Izana, we have to help!	蕾斯娜	不好了！伊札娜，我们快去救人！	蕾斯娜	不好了！伊札娜，我們得去救他才行！
+TalkEvent_00_001_01ID	4	Izana	イザナ	ハンマーの出番だね、レスナちゃん！	Izana	It's hammer time, Resna!	伊札娜	我的锤子又可以大显身手了，对吧，蕾斯娜！	伊札娜	是錘子出場的時候了吧，蕾斯娜！
+TalkEvent_00_001_02ID	0	Resna	レスナ	大丈夫ですか？　お怪我はありませんか？	Resna	Are you all right? Are you hurt?	蕾斯娜	你不要紧吧，有没有受伤？	蕾斯娜	你還好嗎？有沒有受傷呢？
+TalkEvent_00_001_02ID	1		旅人	ああ……助かったよ。ありがとう。\n俺としたことが、魔物に追いかけられるなんて	Traveler	Phew, you saved me! Thank you. I never thought I'd see the day when I'd be chased by monsters.	旅人	我没事……谢谢你们。\n我真是不小心，竟然招来了魔物。	旅人	嗯……得救了，謝謝妳們。\n我也真是的，竟然會被魔物追殺。
+TalkEvent_00_001_02ID	2	Izana	イザナ	危ないよー。ちゃんと街道を通ろう！	Izana	It's dangerous out here! You should stick to the roads!	伊札娜	这里很危险啊，要老老实实走大路才行！	伊札娜	太危險了，你要好好地走大街啦！
+TalkEvent_00_001_02ID	3		旅人	そうしたいのはやまやまなんだが、\nこの先に用があってね	Traveler	I'd love to you know, but I have some business just past here.	旅人	我也很想走大路，\n但我有些事不得不去这前面。	旅人	我是很想這麼做，\n但得到這前面辦事情。
+TalkEvent_00_001_02ID	4		旅人	普段は隠れて魔物をやり過ごすんだが、\n小枝を踏んで音をたてたことで見つかってしまったんだ	Traveler	Normally I just hide and wait for the monsters to pass, but this time I stepped on a twig and they heard me.	旅人	我走在这种地方都会想办法躲着魔物，\n但刚才不小心踩到树枝发出了声音，被它们发现了。	旅人	平時我都會躲起來等魔物通過，\n但剛才不小心踩到樹枝發出聲響，就被牠們發現了。
+TalkEvent_00_001_02ID	5	Resna	レスナ	なるほど……得心しました	Resna	I see. So that's what started this.	蕾斯娜	原来如此……我明白了。	蕾斯娜	原來如此……我理解了。
+TalkEvent_00_001_02ID	6	Resna	レスナ	そうだ！　少し待っていていただけませんか？	Resna	Oh, I know! Would you mind waiting here for a while?	蕾斯娜	对了！你能稍微等我们一下吗？	蕾斯娜	對了！你能稍微等我一下嗎？
+TalkEvent_00_001_02ID	7	Resna	レスナ	いざというときに役立つ護身用の道具を\n用意してきますので！！	Resna	I'll quickly go and make you a tool that should help you defend yourself the next time you need it!	蕾斯娜	我们会帮你准备一些\n紧急时能帮上忙的护身道具！！	蕾斯娜	我來準備一些在緊急時刻\n能派上用場的護身用道具！！
+TalkEvent_00_001_02ID	8		旅人	用意する？　どうやって？	Traveler	You'll make it? How?	旅人	准备？怎么准备？	旅人	準備？妳要怎麼做？
+TalkEvent_00_001_02ID	9	Resna	レスナ	アトリエに戻って、錬金術で作るんです	Resna	We'll go back to the atelier and synthesize it with alchemy.	蕾斯娜	这个需要回炼金工房用炼金术制作。	蕾斯娜	回去鍊金工房，用鍊金術來做。
+TalkEvent_00_001_02ID	10	Resna	レスナ	では、失礼して……	Resna	We'll be back shortly!	蕾斯娜	所以我们先失陪一下……	蕾斯娜	那麼，先告退一下……
+TalkEvent_00_001_02ID	11		旅人	……飴？	Traveler	Candy?	旅人	……糖？	旅人	……糖果？
+TalkEvent_00_001_02ID	12		旅人	わあ！？　消えた……	Traveler	What the?! They're gone...	旅人	哇？！消失了……	旅人	哇！？消失了……
+TalkEvent_00_001_02ID	13	Resna	レスナ	それじゃあ、さっそく調合しよう！\nイザナちゃん、先輩方！　手伝ってください！	Resna	Let's start the synthesis right away! Izana, everyone, help me out!	蕾斯娜	那就赶快来调合吧！\n伊札娜、前辈们，麻烦你们协助我！	蕾斯娜	那就趕快來調合吧！\n伊札娜、各位前輩，請幫幫我！
+TalkEvent_00_001_03ID	0	Resna	レスナ	お待たせいたしました。\nぜひこれをお持ちください！	Resna	Sorry for the wait! Here, take this with you!	蕾斯娜	久等了。请收下这个吧！	蕾斯娜	讓你久等了，\n請務必把這個帶著身上！
+TalkEvent_00_001_03ID	1		旅人	えっと……これは？	Traveler	Uh... What is it?	旅人	唔……这是什么？	旅人	呃……這個是？
+TalkEvent_00_001_03ID	2	Resna	レスナ	投げつけるとトゲが飛び出る、\n錬金術で作った道具です	Resna	It's a tool made with alchemy that releases spikes when you throw it.	蕾斯娜	是用炼金术做的道具，\n把它扔出去就会有尖刺飞出来。	蕾斯娜	扔出去時會有尖刺射出，\n是用鍊金術製成的道具。
+TalkEvent_00_001_03ID	3	Resna	レスナ	これを使えば魔物を追い払うことができます！\nいざという時はこちらを使ってください	Resna	It should be able to scare off any monsters! Just throw it next time you're in trouble.	蕾斯娜	用这个就能赶跑魔物了！\n遇到危急情况的时候请用它防身吧。	蕾斯娜	只要扔了這個，就能驅趕魔物！\n遇到緊急時刻請使用它吧。
+TalkEvent_00_001_03ID	4		旅人	何から何まで本当にありがとう。恩に着るよ。\nすごいんだな、レンキンジュツというのは	Traveler	"I am in your debt! Thank you so much for everything. This ""alchemy"" really is quite astounding."	旅人	你们真是体贴备至啊。我不会忘记这份恩情的。\n那个叫炼金术的技术真是不得了啊。	旅人	這一切都太感激了，我不會忘記這份恩情的。\n這叫做鍊金術的東西可真厲害啊。
+TalkEvent_00_001_03ID	5	Resna	レスナ	どういたしまして。それでは、お気をつけて！	Resna	You're welcome. Take care out there!	蕾斯娜	不客气。那你接下来多保重哦！	蕾斯娜	不客氣，那麼你路上小心！
+TalkEvent_00_001_03ID	6		旅人	君たちはこれからどこへ行くんだい？	Traveler	Where are you all headed?	旅人	你们之后要去哪里？	旅人	妳們接下來要去哪裡呢？
+TalkEvent_00_001_03ID	7	Izana	イザナ	王都だよ！	Izana	We're off to the capital.	伊札娜	我们要去王都！	伊札娜	要去王都喔！
+TalkEvent_00_001_03ID	8		旅人	もうすぐそこだね。そちらも、お気をつけて	Traveler	Oh, that's just ahead. You all take care too!	旅人	哦，那不远了。你们路上也多加小心啊。	旅人	就快到那裡了呢，妳們也一樣路上小心。
+TalkEvent_00_001_03ID	9	Izana	イザナ	レスナちゃん、王都はもうすぐそこだって！\n色々あったけど、無事に着きそうだね	Izana	You hear that Resna? The capital is just ahead! It's been quite a journey, but it sounds like we've finally arrived.	伊札娜	蕾斯娜，他说就快到王都了！\n一路上发生了不少事，不过看来能安全到达了。	伊札娜	蕾斯娜，他說我們快到王都了呢！\n雖然一路上發生了不少事，但還好就要順利到達了。
+TalkEvent_00_001_03ID	10	Resna	レスナ	うん	Resna	Yeah.	蕾斯娜	嗯。	蕾斯娜	嗯。
+TalkEvent_00_001_03ID	11	Resna	レスナ	もうすぐ、あこがれの王都。そこから私の冒険が始まる	Resna	We were almost at the capital I'd always dreamed of. That's where my adventure would begin.	蕾斯娜	马上就要到达向往已久的王都了。我的冒险会从那里开幕。	蕾斯娜	馬上就要到憧憬的王都了，我的冒險將從那裡展開。
+TalkEvent_00_001_03ID	12	Resna	レスナ	そう考えると、なんだかそわそわして……	Resna	Just thinking about it made me anxious...	蕾斯娜	一想到这里，就总有些心神不安……	蕾斯娜	這麼一想，就莫名感到惶惶不安……
+TalkEvent_00_001_03ID	13	Resna	レスナ	気持ちを改めるべく、	Resna	I needed to calm myself down,	蕾斯娜	为了平复心情，	蕾斯娜	為了改變心情，
+TalkEvent_00_001_03ID	14	Resna	レスナ	私はここまでの道のりを思い返すのでした	Resna	so I reflected on the journey so far.	蕾斯娜	我开始回想至今为止发生的点点滴滴。	蕾斯娜	我回想起至今為止走過的歷程。
+TalkEvent_00_002ID	0	Resna	レスナ	お困りの方はいませんかー？	Resna	Do you have a problem you just can't seem to solve?	蕾斯娜	有人需要帮助吗？	蕾斯娜	有人遇到困難嗎～？
+TalkEvent_00_002ID	1	Resna	レスナ	ご入用のものはございませんかー？	Resna	Or something you just can't seem to get your hands on?	蕾斯娜	有没有什么需要的呀？	蕾斯娜	有需要的東西嗎～？
+TalkEvent_00_002ID	2	Resna	レスナ	皆さんのそのお悩みごと	Resna	Well, fret no longer!	蕾斯娜	大家的烦恼，	蕾斯娜	大家的煩惱
+TalkEvent_00_002ID	3	Resna	レスナ	錬金術士レスナにお任せあれ！	Resna	Leave it to me, Resna the alchemist!	蕾斯娜	全都交给炼金术士蕾斯娜吧！	蕾斯娜	就交給鍊金術士蕾斯娜吧！
+TalkEvent_00_002ID	4	Resna	レスナ	錬金術でなんでも解決します！	Resna	I'm here to solve anything that's troubling you!	蕾斯娜	炼金术什么都可以解决！	蕾斯娜	鍊金術無所不能！
+TalkEvent_00_002ID	5	Resna	レスナ	錬金術	Resna	Alchemy.	蕾斯娜	炼金术……	蕾斯娜	鍊金術。
+TalkEvent_00_002ID	6	Resna	レスナ	それは願いを叶える力！	Resna	It is the power to make wishes come true!	蕾斯娜	即为实现愿望的力量！	蕾斯娜	那是一種能夠實現心願的力量！
+TalkEvent_00_002ID	7	Resna	レスナ	たくさんの人がその力を追いかけて	Resna	This country, Lantarna, was made prosperous	蕾斯娜	曾有许多人追寻炼金术的力量，	蕾斯娜	曾有許多人追尋這份力量，
+TalkEvent_00_002ID	8	Resna	レスナ	この国、ランターナを豊かにしてきました	Resna	by all the people who came here in pursuit of that power.	蕾斯娜	让兰塔纳这个国家变得繁荣昌盛。	蕾斯娜	讓蘭塔納這個國家變得更加繁榮富足。
+TalkEvent_00_002ID	9		旅人A	お、何か売ってるのかい？	Traveler A	Oh, what are you selling?	旅人A	哎，你在卖东西呀？	旅人A	哦，在賣些什麼嗎？
+TalkEvent_00_002ID	10	Resna	レスナ	は、はい！　ぜひ見ていってください！\n何せ錬金術で作ったものですから！	Resna	Oh, yes! Please take a look! Everything you see here has been made with alchemy!	蕾斯娜	是、是的！请务必看一看！因为是用炼金术做的嘛！	蕾斯娜	好、好的！歡迎挑選！畢竟是用鍊金術製成的嘛！
+TalkEvent_00_002ID	11	Resna	レスナ	だけどそんな錬金術は	Resna	However, there's just one downside to alchemy.	蕾斯娜	然而炼金术……	蕾斯娜	不過，鍊金術──
+TalkEvent_00_002ID	12		旅人A	錬金術？　なんだそりゃ？	Traveler A	Alchemy? What's that?	旅人A	炼金术？那是什么啊？	旅人A	鍊金術？那是什麼玩意兒？
+TalkEvent_00_002ID	13		旅人B	あー……なんか聞いたことあるな。\n随分、昔に流行ったんじゃなかったか？	Traveler B	Oh, I think I've heard of it. Wasn't it really popular a long, long time ago?	旅人B	啊……好像有听说过。是不是很久以前流行过？	旅人B	哦……我好像有聽說過。滿久之前曾經流行過吧？
+TalkEvent_00_002ID	14	Resna	レスナ	はい！　錬金術は色々なものを組み合わせて\n新たなものを作り出す、夢の力なんです！	Resna	It was! Alchemy combines many things to create something completely new. It's simply magical!	蕾斯娜	是的！炼金术可以把各种东西组合起来创造新的东西，是梦幻般的力量！	蕾斯娜	是的！鍊金術能將各種物品組合起來，創造出新的東西，是一種夢幻的力量！
+TalkEvent_00_002ID	15		旅人A	なんだか怪しいなあ。やっぱりやめておこうぜ	Traveler A	That sounds real shifty. Never mind, I think I'll pass.	旅人A	听上去好不靠谱啊。还是算了吧。	旅人A	總覺得很可疑啊，還是別買好了。
+TalkEvent_00_002ID	16	Resna	レスナ	え、そんな！　ま、待ってくださ……！	Resna	No, please! Give me a chance!	蕾斯娜	诶，怎么这样！请、请等一等……！	蕾斯娜	咦？怎麼這樣！請、請等一下……！
+TalkEvent_00_002ID	17	Resna	レスナ	１５０年も前に失われてしまったのでした	Resna	Alchemy has been lost for a good 150 or so years.	蕾斯娜	这是一门早在150年前就失传了的技术。	蕾斯娜	這是一門早在150年前就已失傳了的技術。
+TalkEvent_00_002ID	18	Resna	レスナ	はあ……また失敗。じっくり話せば、きっと錬金術の\n素晴らしさを分かってもらえるはずなのに！	Resna	I failed again... I'm sure I could've convinced them of the wonders of alchemy if they had let me talk to them a bit more.	蕾斯娜	唉……又失败了。要是能细细说明的话，肯定能让他们理解炼金术的厉害之处的！	蕾斯娜	唉……又失敗了。如果有時間好好說明，他們一定會明白鍊金術有多了不起的！
+TalkEvent_00_002ID	19	Izana	イザナ	お嬢さん、錬金術士なんですか？	Izana	Excuse me, Miss. Are you an alchemist?	伊札娜	小姑娘，你是炼金术士吗？	伊札娜	小姐，妳是鍊金術士嗎？
+TalkEvent_00_002ID	20	Resna	レスナ	イザナちゃん！	Resna	Wait, Izana?!	蕾斯娜	伊札娜！	蕾斯娜	伊札娜！
+TalkEvent_00_002ID	21	Izana	イザナ	どう？　なんか売れた？	Izana	Well? Have you managed to sell anything yet?	伊札娜	怎么样？有没有卖掉什么？	伊札娜	如何？有賣掉什麼嗎？
+TalkEvent_00_002ID	22	Resna	レスナ	それがさっぱり……。\nたくさん声を掛けてはいるんだけど	Resna	Not at all...I'm trying to call out to people who pass by, but...	蕾斯娜	没有……倒是有不少人过来看商品……	蕾斯娜	那倒是完全沒有……雖然我一直向人搭話。
+TalkEvent_00_002ID	23	Resna	レスナ	そういうイザナちゃんはどうなの？	Resna	What about you, Izana?	蕾斯娜	伊札娜，你那边怎么样？	蕾斯娜	伊札娜妳那邊情況怎麼樣？
+TalkEvent_00_002ID	24	Izana	イザナ	退治した魔物の素材が売れました！	Izana	I sold some materials I gathered from some monsters I killed.	伊札娜	我卖掉打倒的魔物的素材了！	伊札娜	我賣掉之前消滅的魔物身上取得的素材了！
+TalkEvent_00_002ID	25	Resna	レスナ	うう、やっぱり今の時代、錬金術は……	Resna	Urk, I guess alchemy is way too old-fashioned these days.	蕾斯娜	呜呜，如今这个时代，炼金术果然已经……	蕾斯娜	嗚嗚，鍊金術在這個時代果然……
+TalkEvent_00_002ID	26	Izana	イザナ	レスナちゃん！　くじけちゃダメだよ	Izana	Resna! You have to believe in yourself. In alchemy!	伊札娜	蕾斯娜！不要灰心呀。	伊札娜	蕾斯娜！妳可不能灰心啊。
+TalkEvent_00_002ID	27	Izana	イザナ	なるんでしょ？　立派な錬金術士に	Izana	Didn't you swear that you would become a full-fledged alchemist?	伊札娜	你不是要成为厉害的炼金术士吗？	伊札娜	妳不是要成為出色的鍊金術士嗎？
+TalkEvent_00_002ID	28	Resna	レスナ	……うん	Resna	I did...	蕾斯娜	……嗯。	蕾斯娜	……嗯。
+TalkEvent_00_002ID	29	Izana	イザナ	さーて、王都へ行くまでに\nもうちょっと路銀を稼いでおきたいよね	Izana	Come on. We should keep trying to make some more money for travel expenses before we reach the capital.	伊札娜	那么，在向王都继续进发之前，我还想再赚点路费呢。	伊札娜	那麼，在前往王都之前，我們要再多籌措一些旅費對吧？
+TalkEvent_00_002ID	30	Izana	イザナ	アタシもう一狩りしてくるよ！	Izana	I'm going to go gather some more!	伊札娜	我再去打一趟猎哦！	伊札娜	我再去打個獵哦！
+TalkEvent_00_002ID	31	Resna	レスナ	うん、気を付けてね！　私も頑張る！	Resna	Okay. Be careful! I'm going to keep trying, too.	蕾斯娜	嗯，小心点哦！我也会加油的！	蕾斯娜	嗯，小心點喔！我也會加油的！
+TalkEvent_00_002ID	32	Resna	レスナ	私はレスナ・シュテルネンリヒト	Resna	I'm Resna Sternenlicht.	蕾斯娜	我叫蕾斯娜·修特涅利希特。	蕾斯娜	我是蕾斯娜‧修特涅利希特。
+TalkEvent_00_002ID	33	Resna	レスナ	立派な錬金術士を目指す、錬金術士の見習いです！	Resna	I'm an apprentice alchemist. And, one day, I'm going to become a full-fledged alchemist!	蕾斯娜	是一名见习炼金术士，目标是成为厉害的炼金术士！	蕾斯娜	是個見習鍊金術士，目標是成為一名出色的鍊金術士！
+TalkEvent_00_002ID	34	Resna	レスナ	見習い卒業のため、師匠に課題を出された私は	Resna	My teacher gave me an assignment that would allow me to graduate from the role of apprentice.	蕾斯娜	为了让我摆脱“见习”身份，师父给我布置了课题。	蕾斯娜	我為了從見習身分畢業，而接受了師父出的課題。
+TalkEvent_00_002ID	35	Resna	レスナ	騎士を目指す幼馴染のイザナちゃんと一緒に	Resna	I then departed for the royal capital with my childhood friend, Izana.	蕾斯娜	就这样，我和想要成为骑士的儿时玩伴伊札娜一起	蕾斯娜	我與以成為騎士為目標的兒時玩伴伊札娜，
+TalkEvent_00_002ID	36	Resna	レスナ	憧れの王都へと向かっています	Resna	She's working hard to become a knight.	蕾斯娜	向着憧憬已久的王都出发。	蕾斯娜	一起前往憧憬已久的王都。
+TalkEvent_00_002ID	37	Resna	レスナ	その途中で路銀が尽きてしまって	Resna	However, on the way to the capital, we ran out of funds.	蕾斯娜	半路上我们花光了旅费，	蕾斯娜	我們在半路上花光了旅費，
+TalkEvent_00_002ID	38	Resna	レスナ	さらに、錬金術に対する世間の風当たりの強さも実感し	Resna	To make things worse, I've been experiencing the strong and widespread dislike for alchemy firsthand.	蕾斯娜	再加上切身体会到大家对炼金术有多么排斥，	蕾斯娜	不僅如此，也深刻體會到世人對鍊金術的冷嘲熱諷。
+TalkEvent_00_002ID	39	Resna	レスナ	早速、暗雲が垂れ込めているのですが……	Resna	At times, it feels like it's too much to bear.	蕾斯娜	我感到前途一片黯淡……	蕾斯娜	我才剛踏上旅途就感到前途一片黯淡……
+TalkEvent_00_002ID	40	Resna	レスナ	そんなことではへこたれません！	Resna	But I won't let things like that get me down!	蕾斯娜	但是，我可不会因为这点事情就垂头丧气！	蕾斯娜	但我不會因此而一蹶不振！
+TalkEvent_00_002ID	41	Resna	レスナ	課題を達成して、一人前の錬金術士になって……	Resna	I'm going to clear all of the hurdles before me and become a full-fledged alchemist.	蕾斯娜	我要完成课题，成为独当一面的炼金术士……	蕾斯娜	我會完成課題，成為獨當一面的鍊金術士……
+TalkEvent_00_002ID	42	Resna	レスナ	私が失われた錬金術を、取り戻すんですから！	Resna	After all, I'm going to be the one to restore the lost art of alchemy to its former glory!	蕾斯娜	并亲自找回失传的炼金术！	蕾斯娜	並親自找回失傳的鍊金術！
+TalkEvent_00_002ID	43	Resna Sternenlicht	レスナ・シュテルネンリヒト	一人前を目指す駆け出しの錬金術士。\n錬金術を愛し、その素晴らしさを広めたいと思っている	Resna Sternenlicht	A novice trying to become a full-fledged alchemist. She loves the art dearly and wants to see it flourish.	蕾斯娜·修特涅利希特	想要独当一面的新手炼金术士。\n深爱着炼金术，想宣传普及炼金术的厉害之处。	蕾斯娜‧修特涅利希特	努力想獨當一面的新手鍊金術士。\n深愛著鍊金術，想推廣其美好之處。
+TalkEvent_00_002ID	44	Izana Kokoschka	イザナ・ココシュカ	レスナの幼馴染。騎士を目指す獣人の少女。\n鍛冶屋の娘で、大きなハンマーを武器に戦う	Izana Kokoschka	Resna's childhood friend. A young beastperson who is the daughter of a blacksmith and aims to become a knight. She wields a giant hammer as her weapon.	伊札娜·柯克西卡	蕾斯娜的儿时玩伴，想要成为骑士的兽人少女。\n出身于铁匠铺，使用巨大的锤子战斗。	伊札娜‧柯克西卡	蕾斯娜的兒時玩伴，以成為騎士為目標的獸人少女。身為鐵匠鋪的女兒，她戰鬥時使用的武器是一把大錘子。
+TalkEvent_00_003ID	0	Resna	レスナ	よし、イザナちゃんに頼りっきりじゃダメ！\n私も……せめて１つくらいは何か売らなきゃ！	Resna	All right. I can't let Izana do all the hard work! I have to sell at least one thing too!	蕾斯娜	好，我不能总依靠伊札娜！\n我也一定要卖出点什么……哪怕一件也好！	蕾斯娜	嗯，我不能總是依靠伊札娜！\n我至少……也得賣出一個東西才行！
+TalkEvent_00_003ID	1	Resna	レスナ	もしかしたら品揃えが悪かったのかも。\nうん、きっとそう！　そうに違いない！	Resna	Maybe I just chose the wrong things to keep in stock... Yeah! I have to change things up, that's all!	蕾斯娜	说不定是因为商品种类不够丰富。\n嗯，一定是这样的！绝对是这样的！	蕾斯娜	也許是我的商品不夠齊全吧。\n嗯，一定是這樣！不會錯的！
+TalkEvent_00_003ID	2	Resna	レスナ	そしたら、新しいものを作ってみよう！\n素材探しに、いざ、ゆかん！	Resna	I should try and make something new. Onwards! To find more materials!	蕾斯娜	既然这样，我就来做点新东西吧！\n这就出发，去寻找素材！	蕾斯娜	既然如此，我就來做點新東西吧！\n出發去尋找素材囉！
+TalkEvent_00_003ID	3	Resna	レスナ	これとこれと……この素材でいいはず……	Resna	I'll get some of this, and this... This material should work nicely, too...	蕾斯娜	这个、这个……还有这个素材，这样应该可以了……	蕾斯娜	這個和這個……還有這個素材應該就可以……
+TalkEvent_00_003ID	4	Resna	レスナ	……え。なに……？	Resna	Huh? What's that?	蕾斯娜	……咦，什么……？	蕾斯娜	……咦？是什麼……？
+TalkEvent_00_003ID	5	Resna	レスナ	わ……！　イザ……！	Resna	Whoa! Look, Iza—	蕾斯娜	哇……！伊札……！	蕾斯娜	哇……！伊札……！
+TalkEvent_00_003ID	6	Resna	レスナ	（って、師匠もイザナちゃんもいないんだった！）	Resna	(Wait, Izana and my teacher aren't with me!)	蕾斯娜	（不对，师父和伊札娜都不在！）	蕾斯娜	（不對，師父和伊札娜現在都不在！）
+TalkEvent_00_003ID	7	Resna	レスナ	（これくらいなら私でも……！）	Resna	(I should be able to get rid of it myself.)	蕾斯娜	（这点情况我应该能应付……！）	蕾斯娜	（這點程度的話我也可以……！）
+TalkEvent_00_003ID	8	Resna	レスナ	くあっ……数を頼むとは、邪知に長けている！	Resna	Oops! I spoke too soon!	蕾斯娜	唔……居然以多欺少，真是一肚子坏水！	蕾斯娜	哇……居然以量取勝，真是詭計多端！
+TalkEvent_00_003ID	9	Resna	レスナ	（どうしようどうしよう！\n　どうすればいいですか師匠！）	Resna	(Oh, no. What do I do?! Help me, Teacher!)	蕾斯娜	（怎么办怎么办！\n　我该怎么办啊师父！）	蕾斯娜	（怎麼辦、怎麼辦！\n　師父，我該如何是好！）
+TalkEvent_00_003ID	10	???	？？？	よく聞きなさいレスナ。\n錬金術があれば大抵の困難は乗り切れるの	???	Listen closely, Resna. Trust your alchemy, and there will be few problems you can't solve.	？？？	蕾斯娜，听好了。\n只要有炼金术，就可以克服大多数困难。	？？？	蕾斯娜，聽好了。\n只要擁有鍊金術，大多數的困難都能克服。
+TalkEvent_00_003ID	11	???	？？？	それだけ錬金術はすごいのよ。このザスキアを、\n錬金術を信じて、困難に立ち向かいなさい	???	That's how amazing alchemy is. Have faith in your teacher and in your alchemy. Face your troubles head-on.	？？？	炼金术就是这么厉害。带着对我、\n对炼金术的信心，勇敢面对困难吧。	？？？	鍊金術就是這麼厲害。\n相信我、相信鍊金術，勇於挑戰困難吧。
+TalkEvent_00_003ID	12	Resna	レスナ	ッ！？	Resna	Huh?!	蕾斯娜	？！	蕾斯娜	咦！？
+TalkEvent_00_003ID	13	Resna	レスナ	きゃっ！？	Resna	Eeek?!	蕾斯娜	呀？！	蕾斯娜	呀啊！？
+TalkEvent_00_003ID	14	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_003ID	15	???	？？？	大丈夫！？	???	Are you all right?!	？？？	没事吧？！	？？？	沒事吧！？
+TalkEvent_00_003ID	16	Resna	レスナ	今の爆発って……ひょっとして、フラム！？	Resna	That explosion was huge! Was it a bomb?!	蕾斯娜	刚才的爆炸……难道是炎烧？！	蕾斯娜	剛才的爆炸……該不會是炎燒！？
+TalkEvent_00_003ID	17	Resna	レスナ	どうして……！？	Resna	But, how...?	蕾斯娜	怎么会……？！	蕾斯娜	怎麼會……！？
+TalkEvent_00_003ID	18	???	？？？	モタモタしてると危ないよ！	???	Get moving! We're not out of the woods yet.	？？？	动作慢吞吞的很危险哦！	？？？	動作拖拖拉拉的會很危險喔！
+TalkEvent_00_003ID	19	???	？？？	魔物をなんとかしよう！	???	We can handle that monster!	？？？	先解决魔物吧！	？？？	先想辦法解決魔物吧！
+TalkEvent_00_003ID	20	Resna	レスナ	は、はい！！！	Resna	O-Okay!	蕾斯娜	好、好的！！	蕾斯娜	好、好的！！！
+TalkEvent_00_003ID	21	Resna	レスナ	く、来る……！	Resna	I-It's coming...!	蕾斯娜	过、过来了……！	蕾斯娜	過、過來了……！
+TalkEvent_00_004ID	0	???	？？？	ねえ、大丈夫？\nケガとかしてない？	???	Hey, are you doing okay? Are you hurt anywhere?	？？？	我说，你没事吧？\n有没有受伤？	？？？	妳還好嗎？\n有沒有受傷？
+TalkEvent_00_004ID	1	Resna	レスナ	だ、大丈夫です！\n助けていただき、ありがとうございました！	Resna	I-I'm fine. Thank you so much for saving me!	蕾斯娜	我、我没事！\n谢谢你救了我！	蕾斯娜	我、我沒事！\n真的很謝謝妳救了我！
+TalkEvent_00_004ID	2	Resna	レスナ	えっと、あなたは……	Resna	Um, and you are...?	蕾斯娜	那个，你是……	蕾斯娜	那個，妳是……
+TalkEvent_00_004ID	3	Ryza	ライザ	あたし？　あたしはライザリン・シュタウト。\nライザでいいよ	Ryza	Me? I'm Reisalin Stout, but you can call me Ryza.	莱莎	我？我叫莱莎琳·斯托特。\n叫我莱莎就好了。	萊莎	我嗎？我是萊莎琳‧斯托特，\n叫我萊莎就好了。
+TalkEvent_00_004ID	4	Resna	レスナ	ライザ……さん。\nあ、私はレスナ・シュテルネンリヒトです！	Resna	It's a pleasure to meet you, Ryza. I'm Resna Sternenlicht!	蕾斯娜	莱莎……小姐。\n啊，我是蕾斯娜·修特涅利希特！	蕾斯娜	萊莎……小姐。\n啊，我叫做蕾斯娜‧修特涅利希特！
+TalkEvent_00_004ID	5	Ryza	ライザ	危ないところだったね、レスナ。\n魔物と戦う時は先手必勝だよ	Ryza	That was really close, Resna. When it comes to battling monsters, the first to act wins.	莱莎	刚刚好危险呀，蕾斯娜。\n和魔物战斗的时候要抢占先机哦。	萊莎	剛才真是好險呢，蕾斯娜。\n和魔物戰鬥時要先下手為強哦。
+TalkEvent_00_004ID	6	Resna	レスナ	……あの。さっきの爆発……。それに、その杖……\nもしかして、ライザさん、錬金術士だったり……？	Resna	Um, that explosion you just created...and that staff you're holding... Are you...an alchemist?	蕾斯娜	……那个，看刚才的爆炸……还有那根手杖……\n莱莎小姐，难不成你是炼金术士吗……？	蕾斯娜	……那個，剛才的爆炸……還有那根手杖……\n萊莎小姐，妳該不會是鍊金術士……？
+TalkEvent_00_004ID	7	Resna	レスナ	もしかして、なんですけど……。\nライザさん、錬金術士だったり……？	Resna	Are you...an alchemist?	蕾斯娜	这只是我的猜测，难道说……\n莱莎小姐，你是炼金术士吗……？	蕾斯娜	這只是我的猜測啦……\n萊莎小姐，妳該不會是鍊金術士……？
+TalkEvent_00_004ID	8	Ryza	ライザ	え？　うん、そうだけど、どうして？	Ryza	Huh? Yeah, I am. Why do you ask?	莱莎	哎？嗯，是呀，怎么这么问？	萊莎	咦？嗯，對啊，為什麼這麼問？
+TalkEvent_00_004ID	9	Resna	レスナ	……す	Resna	Whoa...	蕾斯娜	好……	蕾斯娜	好……
+TalkEvent_00_004ID	10	Resna	レスナ	すごいすごーい！\n本物の錬金術士だ！！！	Resna	Whoooaaa! That's so cool! I can't believe I ran into a real alchemist!	蕾斯娜	好厉害好厉害！\n是活生生的炼金术士！！！	蕾斯娜	好厲害、好厲害！\n是真正的鍊金術士！！！
+TalkEvent_00_004ID	11	Resna	レスナ	どうやったら立派な錬金術士になれますか！？\nライザさんはどうして錬金術士になろうと！？	Resna	Why did you decide to pursue alchemy?! How do I become a strong alchemist like you?!	蕾斯娜	怎样才能成为厉害的炼金术士呢？！\n莱莎小姐为什么想成为炼金术士呢？！	蕾斯娜	要怎樣才能成為出色的鍊金術士呢！？\n萊莎小姐是為什麼想成為鍊金術士的呢！？
+TalkEvent_00_004ID	12	Resna	レスナ	普段、意識していることは！？\nご飯は何を！？　ご趣味は！？	Resna	Do you have any tips? What do you like to eat? What are your hobbies?	蕾斯娜	平常有没有什么注意的地方？！\n平时吃什么？！有什么爱好吗？！	蕾斯娜	妳平常注重什麼！？\n都吃些什麼東西！？興趣是！？
+TalkEvent_00_004ID	13	Ryza	ライザ	ちょ、ちょっと！　落ち着いてよ！	Ryza	Whoa, whoa! Slow down!	莱莎	慢、慢着慢着！你冷静一点！	萊莎	等、等一下！妳冷靜一點！
+TalkEvent_00_004ID	14	Ryza	ライザ	どうしたってのよ急に。びっくりするじゃない	Ryza	I was NOT expecting all of that.	莱莎	怎么了呀这么突然，吓我一跳。	萊莎	怎麼突然問這些？嚇我一跳。
+TalkEvent_00_004ID	15	Resna	レスナ	あっ……！　す、すみません！\n実は私、錬金術士の見習いなんです！	Resna	Oh! S-Sorry... To tell you the truth, I'm an apprentice alchemist!	蕾斯娜	啊……！对、对不起！\n其实我是个见习炼金术士！	蕾斯娜	啊……！對、對不起！\n其實我是個見習鍊金術士！
+TalkEvent_00_004ID	16	Resna	レスナ	でも、師匠以外の錬金術士に会ったことがなくて……。\nだからライザさんと会って、つい興奮しちゃって	Resna	You're the first alchemist I've met besides my teacher, so I'm just super excited!	蕾斯娜	但是我从没见过师父以外的炼金术士……\n所以见到莱莎小姐有点激动过度了。	蕾斯娜	但是，我從沒見過師父以外的鍊金術士……\n所以見到萊莎小姐，就不小心興奮過度了。
+TalkEvent_00_004ID	17	Ryza	ライザ	あはは、なんだ、そういうことね。\nていうかレスナも錬金術士だったんだ	Ryza	Ohh, okay, so that's why. Wait, Resna, you're an alchemist, too?	莱莎	啊哈哈，原来是这样呀。\n蕾斯娜，你也是炼金术士呀。	萊莎	啊哈哈，什麼嘛，原來是這樣。\n話說，蕾斯娜妳也是鍊金術士啊。
+TalkEvent_00_004ID	18	Resna	レスナ	はい！　なのでぜひライザさんにお聞きしたいんです！\nどうしたらライザさんのように立派になれますか！？	Resna	Yes! So please, can I ask you a few questions? How did you become such an amazing alchemist?!	蕾斯娜	是的！所以请务必教导我！\n请问怎样才能成为像你一样厉害的炼金术士呢？！	蕾斯娜	是的！所以我想請教萊莎小姐，\n要怎樣才能變得跟妳一樣出色呢！？
+TalkEvent_00_004ID	19	Ryza	ライザ	へっ？　立派……！？　あたしが？	Ryza	What? Me? Amazing?	莱莎	咦？厉害……？！我吗？	萊莎	咦？出色……！？妳說我嗎？
+TalkEvent_00_004ID	20	Resna	レスナ	だって師匠、言ってたんです！\n錬金術があれば大抵の困難は乗り切れるって	Resna	Yeah! My teacher told me that there are few problems that alchemy can't solve.	蕾斯娜	因为师父跟我说过！\n她说，只要有炼金术，就可以克服大多数困难。	蕾斯娜	因為師父跟我說過！\n她說，只要有鍊金術，大多數的困難都能克服。
+TalkEvent_00_004ID	21	Resna	レスナ	そして、ライザさんは錬金術で作った爆弾……\nフラムを使って見事に困難を乗り切っていました！	Resna	And that bomb you made solved our problem super well!	蕾斯娜	刚刚莱莎小姐正是使用炎烧……\n炼金术制成的炸弹，漂亮地克服了困难！	蕾斯娜	而萊莎小姐用鍊金術製成的炸彈……\n也就是炎燒，成功地克服了困難！
+TalkEvent_00_004ID	22	Resna	レスナ	これはライザさんが錬金術を使いこなす\n立派な錬金術士である証拠に他なりません！	Resna	That's proof that you've mastered alchemy and that you're a real, full-fledged alchemist!	蕾斯娜	这就证明莱莎小姐是一个能活用炼金术的\n厉害的炼金术士！	蕾斯娜	這就證明了萊莎小姐是一個\n精通鍊金術的出色鍊金術士！
+TalkEvent_00_004ID	23	Ryza	ライザ	なるほど……？　そっかー、立派かあ……。\nえへへ～	Ryza	I see. Me, amazing, huh? Hehe... I like the sound of that...	莱莎	这样呀……？原来我很厉害呀……\n嘿嘿～	萊莎	這樣啊……？原來如此──\n我很出色啊……嘿嘿嘿～
+TalkEvent_00_004ID	24	Resna	レスナ	なので何とぞ！　立派な錬金術士になるコツを\n教えていただきたく！	Resna	So, please! Tell me how I can be just like you!	蕾斯娜	所以拜托你了！\n请告诉我成为厉害炼金术士的诀窍吧！	蕾斯娜	所以求求妳！\n請告訴我成為優秀鍊金術士的訣竅！
+TalkEvent_00_004ID	25	Ryza	ライザ	立派なんてものじゃないけど、\nうーん、そうだなあ。んー……	Ryza	Not sure why you'd want to be like me.\nHmm, let me think...	莱莎	我没什么厉害的啦。\n唔，我想想。嗯……	萊莎	雖然我不是什麼優秀的鍊金術士，\n但是，嗯～這個嘛。嗯……
+TalkEvent_00_004ID	26	Ryza	ライザ	よく分かんないや	Ryza	I have no idea!	莱莎	我也不太明白。	萊莎	我也不太清楚。
+TalkEvent_00_004ID	27	Resna	レスナ	……あ、なるほど！　人に答えを求めるのではなく、\n自分で考えることが大事ということですね！	Resna	Oh, I get it! You want me to figure things out myself, right? Spoken like a true veteran!	蕾斯娜	……啊，原来如此！与其向他人寻求答案，\n不如自己动脑思考，是这个意思吧！	蕾斯娜	……啊，原來如此！妳的意思是，不要向他人索求答案，\n重要的是要自己動腦思考對吧！
+TalkEvent_00_004ID	28	Ryza	ライザ	あっ、ううん！　そんな大層な話じゃなくて！\n本当に分からないんだよ。自分でもさ	Ryza	No, no! I seriously don't know.	莱莎	啊，不是不是！没有这种高深的意思啦！\n我是真的自己都不太明白。	萊莎	啊，不是不是！沒有那麼深的含意啦！\n我是真的連自己都不太清楚。
+TalkEvent_00_004ID	29	Resna	レスナ	そうですか……	Resna	Oh...	蕾斯娜	这样哦……	蕾斯娜	這樣啊……
+TalkEvent_00_004ID	30	Ryza	ライザ	あたしだってちょっと前までただの農家の娘だったし	Ryza	It wasn't long ago that I was still an average farm girl.	莱莎	直到不久之前，我都还是个普通的农家女孩。	萊莎	我在不久前，也還只是個普通的農家女孩。
+TalkEvent_00_004ID	31	Ryza	ライザ	錬金術だって何も知らなくて。なんてことない村で、\nなんてことない毎日を過ごしてたんだよ	Ryza	I didn't know a thing about alchemy. I passed my unremarkable days in my unremarkable village.	莱莎	当时也完全不了解炼金术，在平平无奇的村子里\n过着平平无奇的日子。	萊莎	當時對鍊金術一無所知，\n在一個平淡無奇的村子裡過著平淡無奇的日子。
+TalkEvent_00_004ID	32	Ryza	ライザ	そんな日々を変えたくて、錬金術と出会って……\n色んなことがあって、今のあたしになってるんだ	Ryza	I wanted to break free from the monotony of everyday life, and that's when I happened upon alchemy. I went through a lot to become the person I am today.	莱莎	我想改变那样的生活，并与炼金术相遇……\n之后又发生了好多事情，才有了现在的我。	萊莎	我想改變那樣的生活，而在與鍊金術相遇……\n經歷了許多事情之後，才成就了現在的我。
+TalkEvent_00_004ID	33	Ryza	ライザ	だから、大丈夫だよ。レスナには、あたしにも\n負けないくらいの熱意があるようだしね	Ryza	I'm sure you'll do well for yourself. You've got passion like no other.	莱莎	所以蕾斯娜你不用担心，\n因为你有着不输给我的热情。	萊莎	所以蕾斯娜妳就放心吧，\n而且妳的熱情看起來並不會輸給我呢。
+TalkEvent_00_004ID	34	Resna	レスナ	……はい！	Resna	Thank you!	蕾斯娜	……好的！	蕾斯娜	……好的！
+TalkEvent_00_004ID	35	Ryza	ライザ	それにしてもさ、なんでこんなとこに？\n一人じゃ危ないよ。近くの街まで送ろうか？	Ryza	Anyway, what are you doing here? It's not a safe place to be by yourself. Do you want me to walk you to a nearby town?	莱莎	话说回来，你为什么在这里？\n一个人很危险哦。我送你去附近的城镇吧？	萊莎	話說回來，妳怎麼會在這種地方？\n一個人很危險喔。我送妳到附近的城鎮吧？
+TalkEvent_00_004ID	36	Resna	レスナ	あ、ちょっと今、錬金術の師匠から課題を出されて\nいまして……そこまでお世話になるわけには	Resna	Ah, actually, I'm currently in the middle of completing an assignment my teacher gave me. And I couldn't possibly trouble you that much.	蕾斯娜	啊，我正在完成炼金术师父给出的课题……\n就不麻烦你了。	蕾斯娜	啊，我現在正在做鍊金術師父給我的課題……\n我不能那麼麻煩妳。
+TalkEvent_00_004ID	37	Resna	レスナ	あと、実は幼馴染とここに来てるんです。\n今は別行動してますけど	Resna	Also, I'm not alone. I'm here with my childhood friend. She's just doing her own thing right now.	蕾斯娜	而且我其实是和儿时玩伴一起来这里的，\n不过我们现在在分头行动。	蕾斯娜	而且，我其實是和兒時玩伴一起來這裡的，\n但我們現在正分頭行動就是了。
+TalkEvent_00_004ID	38	Ryza	ライザ	そっか……気を付けてね。\nもし本当に危なくなったら、ちゃんと逃げるんだよ	Ryza	Oh, okay. Do be careful, though. And remember, there's no shame in running from danger.	莱莎	这样啊……那你小心哦。\n要是真的遇到危险，要及时逃跑哦。	萊莎	這樣啊……那路上小心。\n如果真的遇到危險，記得要及時逃跑哦。
+TalkEvent_00_004ID	39	Resna	レスナ	はい！　色々とありがとうございました！\nそれじゃあ、またどこかで！	Resna	Okay! Thank you for all your help, Ryza. I hope we'll meet again!	蕾斯娜	好的！谢谢你帮我这么多！\n那再见啦！	蕾斯娜	好的！謝謝妳幫我這麼多！\n那我們後會有期！
+TalkEvent_00_004ID	40	Ryza	ライザ	そうだね。またどこかで会えるといいね	Ryza	Yeah, I'd love that.	莱莎	好的，后会有期。	萊莎	好，希望我們有緣能再見。
+TalkEvent_00_004ID	41	Ryza	ライザ	あ。１つだけあった。\nあたしの師匠が言ってたこと	Ryza	Oh wait. I think you'd like this quote from my own alchemy teacher.	莱莎	啊。我可以告诉你一句话。\n这是我的师父说过的话。	萊莎	啊，有這麼一句話，\n是我的師父曾經說過的。
+TalkEvent_00_004ID	42	Ryza	ライザ	冒険せよ！　さすれば錬金術の道は開かれん！	Ryza	"""Be bold! That's the only way you can pave your own path in alchemy!"""	莱莎	去冒险吧！如此炼金术的道路便会敞开！	萊莎	去冒險吧！如此一來鍊金術之路將會開啟！
+TalkEvent_00_004ID	43	Resna	レスナ	……はい！	Resna	Thank you!	蕾斯娜	……好的！	蕾斯娜	……好的！
+TalkEvent_00_004ID	44	Resna	レスナ	……ライザさん、かあ。ううん、先輩だ。\nライザ先輩。そう呼ばせていただこう	Resna	Ryza's such an inspiration. I'm almost tempted to call her my teacher, too!	蕾斯娜	……莱莎小姐。不对，是前辈。\n莱莎前辈。我就这么称呼她吧。	蕾斯娜	……萊莎小姐嗎？不對，是前輩。\n萊莎前輩，我就這樣稱呼她吧。
+TalkEvent_00_004ID	45	Resna	レスナ	それにしてもこんな所で錬金術士に\n出会えるなんて。王都に近づいてきたからかな？	Resna	I can't believe I ran into an alchemist here. Does that mean we're close to the capital?	蕾斯娜	话说回来，居然能在这种地方遇到炼金术士。\n是因为这里离王都比较近吗？	蕾斯娜	話說回來，居然能在這種地方遇到鍊金術士。\n是因為已經快到王都了嗎？
+TalkEvent_00_004ID	46	Resna	レスナ	これはますます王都が楽しみになってきたー！\n早く路銀を稼がなくちゃ！	Resna	Ooh, I'm so excited! I can't wait to get there. I need to get more travel funds quickly!	蕾斯娜	这下子更加期待去王都了呢！\n得赶紧赚旅费了！	蕾斯娜	我愈來愈期待去王都了──！\n得快點賺足旅費才行！
+TalkEvent_00_004ID	47	Resna	レスナ	……あ、そういえば、素材を集めたところだったっけ。\nよーし、商品を作りにアトリエに行こう！	Resna	Wait. I was in the middle of gathering materials, wasn't I? I think I have enough now. To the atelier!	蕾斯娜	……啊，对了，我刚才搜集好素材了吧。\n好，去炼金工房制作商品吧！	蕾斯娜	……啊，對了，我不是正好蒐集完素材了嗎？\n好，這就去鍊金工房製作商品吧！
+TalkEvent_00_004ID	48	Reisalin Stout	ライザリン・シュタウト	旅慣れた様子の錬金術士の少女。\n明るく行動的で、いつも新しい冒険を探している	Reisalin Stout	A young alchemist who seems well-traveled. She's cheerful and always on the lookout for a new adventure.	莱莎琳·斯托特	旅行经验丰富的炼金术士少女。\n阳光开朗，行动力强，总是在寻找新的冒险。	萊莎琳‧斯托特	旅行經驗豐富的鍊金術士少女。\n開朗積極，總是尋求著新的冒險。
+TalkEvent_00_004ID	49	Ryza	ライザ	こんな返事でよかったのかな。\n他に聞きたいことはない？	Ryza	I hope that's the answer you were looking for. Is there anything else you want to know?	莱莎	不知道这样回答能不能帮到你。\n还有别的问题吗？	萊莎	我這樣回答應該還可以吧？\n還有其他想問的嗎？
+TalkEvent_00_004ID	50	Resna	レスナ	はいっ！　もう１つ教えていただきたいことが！	Resna	Yes, actually! There's one more thing I'd like to ask!	蕾斯娜	有！我还想请教一件事！	蕾斯娜	是的！我還有一件事想要請教！
+TalkEvent_00_004ID	51	Resna	レスナ	今、錬金術で作った商品を売っているのですが、\nなかなか思うように買ってもらえなくて	Resna	I'm selling the items I make through alchemy at the moment, but I'm not earning nearly as much as I'd like to be.	蕾斯娜	我在贩售炼金术制成的商品，\n但是销量实在不尽人意。	蕾斯娜	我正在兜售用鍊金術製成的商品，\n但願意買的人實在不如預期。
+TalkEvent_00_004ID	52	Resna	レスナ	どうしたら皆さんに買ってもらえるでしょうか？	Resna	How can I get more people to buy my stuff?	蕾斯娜	怎样才能让大家买我的东西呢？	蕾斯娜	要怎麼樣才能讓大家願意買呢？
+TalkEvent_00_004ID	53	Ryza	ライザ	それはやっぱり、いい商品を作ることじゃないかな？\nとにもかくにも練習して腕を上げなくちゃね	Ryza	Are you sure what you're making is up to snuff? It could be that you just need to practice and get even better.	莱莎	方法当然还是制作更优质的商品啦？\n总之先要埋头苦练提高技术才行。	萊莎	我想當然是製作出好的商品吧？\n總之就是要多加練習，提升能力才行。
+TalkEvent_00_004ID	54	Resna	レスナ	うう……ですよね。近道なしですね。\n頑張ります！	Resna	Yeah... I guess you're right. There aren't any shortcuts to success, huh? I'll just have to keep trying!	蕾斯娜	呜呜……果然没有什么捷径可走啊。\n我会加油的！	蕾斯娜	嗚嗚……說得也是。這種事情沒有捷徑吧。\n我會努力的！
+TalkEvent_00_005ID	0	???	？？？	あ。おかえり、レスナ	???	Welcome back, Resna.	？？？	啊，蕾斯娜，欢迎回来。	？？？	啊，蕾斯娜，歡迎回來。
+TalkEvent_00_005ID	1	Resna	レスナ	ただいまです、師匠！	Resna	Hi, Miss Saskia!	蕾斯娜	师父，我回来了！	蕾斯娜	師父，我回來了！
+TalkEvent_00_005ID	2	???	？？？	次ここに戻る時は王都についた時だ！\nって言ってたわよね。ということはもう王都に？	???	You mentioned that the next time you return, it would be after your arrival at the capital. Have you done so?	？？？	你说过“下次回来就是到王都之后了！”\n这么说来，你已经到王都了？	？？？	我記得妳說過「下次回來這裡時，就是抵達王都\n之後了！」。所以，妳已經到王都了？
+TalkEvent_00_005ID	3	Resna	レスナ	う……ちょーっとですね、お金が尽きちゃってですね。\nだからまた商品を作って、お金を稼ごうかなと……！	Resna	Um, no, not yet. I've run out of money, so I'm here to make more things to sell.	蕾斯娜	呜……其实是这样，我的钱花光了。\n所以我想再做点商品去卖钱……！	蕾斯娜	唔……有點傷腦筋，我身上的錢花光了。\n所以我打算再做一點商品去賣錢……！
+TalkEvent_00_005ID	4	Saskia	ザスキア	前に作ったの、ぜんぜん売れてないのね。\n相変わらず商売は下手ねぇ	Saskia	You haven't sold any of your past stock, have you? Your sales technique needs more work.	萨丝琪亚	之前做的一点都没卖出去呢。\n你还是这么不会做生意。	薩絲琪亞	之前做的一個都沒有賣出去呀，\n妳還是一樣這麼不會做生意呢。
+TalkEvent_00_005ID	5	Resna	レスナ	師匠、教えてくださいよ	Resna	Teach me, Miss Saskia!	蕾斯娜	师父，教教我吧。	蕾斯娜	師父，請教教我吧。
+TalkEvent_00_005ID	6	Saskia	ザスキア	コツとか分かんないんだもん。\n勝手に売れるっしょ	Saskia	I don't know anything about sales. My products just seem to fly off the shelves.	萨丝琪亚	我可不知道什么诀窍。\n放着不管也能卖出去啊。	薩絲琪亞	我可不知道有什麼訣竅。\n隨便賣都賣得掉吧。
+TalkEvent_00_005ID	7	Resna	レスナ	師匠がすごすぎるんですよ……。\n他に参考になる錬金術士がいればなあ……	Resna	You're in another league, Miss Saskia... If only I could ask another alchemist...	蕾斯娜	那是因为师父太厉害了……\n要是有其他可以参考的炼金术士就好了……	蕾斯娜	那是因為師父妳太厲害了……\n真希望有其他能讓我參考的鍊金術士……
+TalkEvent_00_005ID	8	Resna	レスナ	……って、そうだ！　会いました！　錬金術士！\nやっぱり王都にはまだ錬金術士がいるんですね！	Resna	Oh, right! I ran into one! A real alchemist! Seems like there are still plenty of them in the capital, huh?	蕾斯娜	……啊，对了！这次我见到了炼金术士！\n果然王都还有炼金术士呢！	蕾斯娜	……啊，對了！我見到了！鍊金術士！\n果然王都還有鍊金術士的存在呢！
+TalkEvent_00_005ID	9	Saskia	ザスキア	前からここにも何人かやって来ていたのよ。\nあなたがいない間にね	Saskia	A few came by while you were out, too.	萨丝琪亚	在你外出期间，\n这里也陆续来了几个炼金术士哦。	薩絲琪亞	之前也有幾個鍊金術士來過這裡喔，\n在妳外出的那段期間。
+TalkEvent_00_005ID	10	Resna	レスナ	え！　いつの間に！？	Resna	Whaaat? Really?!	蕾斯娜	咦！什么时候的事？！	蕾斯娜	咦！什麼時候！？
+TalkEvent_00_005ID	11	???	？？？	結局周りは全部崖だったわね。\nもしかしてこのアトリエ、浮いてる島に建ってるの？	???	No matter which direction I go, it always leads to a cliff. Is this atelier on a floating island?	？？？	结果周围全都是悬崖呢。\n难道说这个炼金工房是建在浮岛上的？	？？？	結果四周全是懸崖呢。\n這個鍊金工房，該不會是建在浮島上的吧？
+TalkEvent_00_005ID	12	???	？？？	咲いてる花も見たことないものばかり。\n後で調べてみませんか？	???	I've never seen any of the flowers that grow here before. We should look them up later.	？？？	这里的花也都是我没见过的品种。\n之后调查看看吧？	？？？	這裡的花也全都是我沒見過的品種。\n我們之後來調查看看吧？
+TalkEvent_00_005ID	13	Resna	レスナ	え……師匠、もしかして全員……？	Resna	Wait, they're all alchemists...?	蕾斯娜	咦……师父，难道说她们都是……？	蕾斯娜	咦……師父，難道說她們都是……？
+TalkEvent_00_005ID	14	Resna	レスナ	すごいすごーい！　４人も錬金術士がいるなんて！\nこれはもう奇跡です！　星の導きに感謝を	Resna	Whoaaa! Four entire alchemists?! I must be dreaming! Oh, the stars above have blessed me!	蕾斯娜	好棒好棒！居然有四位炼金术士！\n这简直是奇迹！感谢星星的指引。	蕾斯娜	好棒好棒！居然有四位鍊金術士！\n這簡直是奇蹟！感謝星之導引。
+TalkEvent_00_005ID	15	Resna	レスナ	普段はどんな調合をしてるんですか！？\n皆さんが錬金術を始めたきっかけは！？	Resna	What do you do when you synthesize?! Oh, and please tell me about how you all became alchemists!	蕾斯娜	你们平时都调合做些什么呢？！\n你们开始炼金术士的契机是什么？！	蕾斯娜	各位平常都在調合些什麼呢！？\n開始接觸鍊金術的契機又是什麼呢！？
+TalkEvent_00_005ID	16	Resna	レスナ	どんな本を読んでいますか！？\n好きな色は！？　香りは！？	Resna	What kind of books do you read? What's your favorite color?! Favorite scent?!	蕾斯娜	在读什么书？！\n喜欢什么颜色？！喜欢的香味呢？！	蕾斯娜	都讀些什麼書呢！？\n喜歡什麼顏色！？喜歡的香味呢！？
+TalkEvent_00_005ID	17	Saskia	ザスキア	レスナ、落ち着いて。まずは自己紹介	Saskia	Calm down, Resna. You should introduce yourself first.	萨丝琪亚	蕾斯娜，冷静一点，先做自我介绍。	薩絲琪亞	蕾斯娜，冷靜點。先做自我介紹。
+TalkEvent_00_005ID	18	Resna	レスナ	はっ！？　ご、ごめんなさい……	Resna	Oh! Um, sorry.	蕾斯娜	啊？！不、不好意思……	蕾斯娜	啊！？對、對不起……
+TalkEvent_00_005ID	19	Resna	レスナ	レスナ・シュテルネンリヒトと言います！\n師匠の下で、錬金術の修行をしてます！	Resna	I'm Resna Sternenlicht! I'm currently studying alchemy under Miss Saskia.	蕾斯娜	我叫蕾斯娜·修特涅利希特！\n正在师父的指导下进行炼金术的修行！	蕾斯娜	我叫做蕾斯娜‧修特涅利希特！\n正在師父的指導下進行鍊金術的修行！
+TalkEvent_00_005ID	20	Marie	マリー	ザスキアさんのお弟子さんなのね！\nあたしはマルローネ。よろしくね	Marie	Oh, yes, she told us about you. I'm Marlone. Nice to meet you.	玛莉	你就是萨丝琪亚的徒弟呀！\n我是玛洛娜。请多关照。	瑪莉	妳就是薩絲琪亞小姐的弟子啊！\n我是瑪洛娜，請多指教。
+TalkEvent_00_005ID	21	Judie	ユーディー	次はあたしだね。ユーディットだよ、よろしく！	Judie	Me next, I guess. Hi, I'm Judith!	优蒂	该我了，我是优蒂托，请多关照！	優蒂	接下來換我了。我叫優蒂，請多指教！
+TalkEvent_00_005ID	22	Rorona	ロロナ	わたしはロロナだよ！　はじめまして！	Rorona	And I'm Rorona! Great to meet you, Resna.	萝乐娜	我是萝乐娜！你好呀！	蘿樂娜	我是蘿樂娜喔！初次見面！
+TalkEvent_00_005ID	23	Shallistera	シャリステラ	シャリステラです。\nよろしくお願いしますね、レスナさん	Shallistera	My name is Shallistera. Pleased to make your acquaintance.	夏莉丝堤拉	我是夏莉丝堤拉。\n请多关照，蕾斯娜。	夏莉絲堤菈	我是夏莉絲堤菈。\n蕾斯娜，還請妳多多指教哦。
+TalkEvent_00_005ID	24	Resna	レスナ	よ、よろしくお願いします！	Resna	Oh! Um. Hello, everyone!	蕾斯娜	请、请多关照！	蕾斯娜	請、請多多指教！
+TalkEvent_00_005ID	25	Resna	レスナ	はぁ、はぁ、はぁ、ど、どうしましょう師匠！\n聞きたいことが色々ありすぎるんですが……	Resna	Oh my— Oh my gosh! What do I do, Miss Saskia?! I have so many things I want to ask them about!	蕾斯娜	呼、呼、呼，怎、怎么办啊师父！\n我有太多问题想问了……	蕾斯娜	呼、呼、呼，怎、怎麼辦啊師父！\n我有好多好多事情想要請教……
+TalkEvent_00_005ID	26	Resna	レスナ	皆さん、どうしてこのアトリエに？\n師匠がお連れになったんですか？	Resna	Why did you all come to this atelier? Did Miss Saskia bring you here?	蕾斯娜	她们怎么会来这个炼金工房？\n是师父带她们来的吗？	蕾斯娜	各位為什麼會來這個鍊金工房？\n是師父帶大家過來的嗎？
+TalkEvent_00_005ID	27	Saskia	ザスキア	ううん。向こうからやって来たのよ。こんにちはーって	Saskia	No, they showed up on their own. Popped right in.	萨丝琪亚	不是的。是她们自己过来敲了我的门。	薩絲琪亞	不是，是她們自己主動上門來打招呼的。
+TalkEvent_00_005ID	28	Resna	レスナ	……別の世界からやってきた？	Resna	You came from different worlds?	蕾斯娜	……从别的世界来的？	蕾斯娜	……妳來自另一個世界？
+TalkEvent_00_005ID	29	Marie	マリー	ええ。本当はこことは違う世界にいたはずなの	Marie	Yes. We should be in different worlds from this one.	玛莉	是的。我本来住在和这里不一样的世界。	瑪莉	沒錯，我本來應該是住在和這裡不同的世界。
+TalkEvent_00_005ID	30	Marie	マリー	ある日、目を覚ましたら\n見たこともない場所にいて……	Marie	But, one day, I just woke up and found myself in a completely unfamiliar place.	玛莉	有一天我一睁眼，\n就发现自己身处陌生的地方……	瑪莉	有一天我一醒來，\n就發現自己身處在一個陌生的地方……
+TalkEvent_00_005ID	31	Marie	マリー	なにも分からず途方に暮れていたら、\n見慣れない飴を持ってることに気付いたの	Marie	As I tried to figure out what had happened, I realized I was holding some strange candy.	玛莉	正在摸不着头脑手足无措的时候，\n发现身上带着一块没见过的糖。	瑪莉	正當我陷入茫然而不知所措的時候，\n注意到身上有個沒見過的糖果。
+TalkEvent_00_005ID	32	Marie	マリー	その飴を舐めてみたらここに飛んできたってわけ。\n他のみんなも似たような感じみたい	Marie	When I gave it a lick, I was blasted all the way here. It sounds like something similar happened to everyone else.	玛莉	舔了一口那个糖之后我就穿越到这里来了。\n其他几位也差不多都是这样。	瑪莉	我嘗了嘗那個糖果，就瞬移到這裡來了。\n其他幾位的情況好像也和我差不多。
+TalkEvent_00_005ID	33	Saskia	ザスキア	あなたたちのように別の世界からやって来る人は\nときどきいてね。「異邦人」なんて呼ばれてるわ	Saskia	"We get a few otherworldly visitors like yourselves here occasionally. We call them ""wanderers."""	萨丝琪亚	时不时会有像你们这样从其他世界来访的人。\n我们把这样的人称作“异邦人”。	薩絲琪亞	偶爾會有像妳們這樣從其他世界來到此地的人。\n我們將這些人稱作「異邦人」。
+TalkEvent_00_005ID	34	Resna	レスナ	どうして皆さんが私と同じ飴を持ってたんでしょう？\n私は師匠からもらいましたけど……	Resna	Wait, I have the same candy as all of you. I got it from Miss Saskia. So, how come...?	蕾斯娜	大家怎么会有和我一样的糖呢？\n我的是师父给的……	蕾斯娜	為什麼大家會有和我一樣的糖果呢？\n我是從師父那裡拿到的……
+TalkEvent_00_005ID	35	Saskia	ザスキア	さあ？　ともかく、これもきっと何かの縁。\nアトリエには自由に出入りしてくれて構わないわ	Saskia	Who knows? We seem to be bound by something unseen. You are all free to come to or leave this atelier at your leisure.	萨丝琪亚	谁知道呢？总之这也是某种缘分。\n你们可以自由进出炼金工房。	薩絲琪亞	天曉得呢？總之，這一定是某種緣分。\n反正鍊金工房是可以自由進出的。
+TalkEvent_00_005ID	36	Saskia	ザスキア	他のみんな……ここに来た異邦人たちにも、\nそう伝えてあるし	Saskia	I've told all of the other wanderers that have come here the same.	萨丝琪亚	我对其他来到这里的异邦人……\n也都是这么说的。	薩絲琪亞	我對其他人……其他來到這裡的異邦人，\n也都是這樣說的。
+TalkEvent_00_005ID	37	Resna	レスナ	マルローネさんたち以外にも異邦人が……？	Resna	Wait, there are others besides the ones here right now?	蕾斯娜	除了玛洛娜小姐她们，还有其他异邦人……？	蕾斯娜	除了瑪洛娜她們，還有其他異邦人進來過……？
+TalkEvent_00_005ID	38	Saskia	ザスキア	ええ。ここは将来たくさんの異邦人が集まる場になる。\nふふっ、これから賑やかになるわよー	Saskia	Yes, and I'm sure we will get more in the future, too. Things are about to get really lively here.	萨丝琪亚	没错。这里将来会成为众多异邦人聚集的地方。\n呵呵，要热闹起来了哦。	薩絲琪亞	是的。將來這裡會成為許多異邦人聚集的地方。\n呵呵，要開始熱鬧起來了哦──
+TalkEvent_00_005ID	39	Shallistera	シャリステラ	ありがとうございます。\n困った時は使わせてもらいます	Shallistera	Thank you, Saskia. I will be sure to visit when I find myself in need.	夏莉丝堤拉	谢谢。\n我会在有需要的时候借用的。	夏莉絲堤菈	謝謝妳，\n如果我遇到麻煩就會過來的。
+TalkEvent_00_005ID	40	Judie	ユーディー	お礼と言ってはなんだけど、\nもしやってほしいことがあったらなんでも言ってね！	Judie	This would barely suffice as thanks, but let me know if there's anything I can help with.	优蒂	虽算不上是谢礼，\n不过如果你们有什么需要帮忙的，可以尽管跟我说！	優蒂	雖然稱不上是什麼回禮，\n但如果妳們有事需要幫忙，請儘管跟我說！
+TalkEvent_00_005ID	41	Resna	レスナ	あ！　じゃ、じゃあ！\n錬金術を教えてほしいです！	Resna	Oh! Um, can you teach me alchemy?	蕾斯娜	啊！那、那么！\n我想请你们教我炼金术！	蕾斯娜	啊！那、那麼！\n請教我鍊金術！
+TalkEvent_00_005ID	42	Shallistera	シャリステラ	その……この世界の錬金術は、\nわたしたちの知っている錬金術と違うみたいなんです	Shallistera	My apologies, but it seems that the alchemy used in this world is different from the one we know.	夏莉丝堤拉	这个嘛……这个世界的炼金术，\n似乎和我们会的炼金术不太一样。	夏莉絲堤菈	嗯……這個世界的鍊金術，\n好像跟我們會的鍊金術不太一樣。
+TalkEvent_00_005ID	43	Rorona	ロロナ	それにね。知ってる錬金術ができないかなーって\n試してみたんだけど、なぜかみんな上手くいかないの	Rorona	In fact, we were wondering if we could use our alchemy styles here. But none of them seemed to work.	萝乐娜	而且我们尝试了能否使用已经掌握的炼金术，\n不知道为什么大家都没成功。	蘿樂娜	而且，我們試了一下看自己所學的鍊金術是否能使用，\n但不知為何大家都沒有成功。
+TalkEvent_00_005ID	44	Resna	レスナ	な、なるほど……	Resna	Oh...	蕾斯娜	这、这样啊……	蕾斯娜	原、原來如此……
+TalkEvent_00_005ID	45	Saskia	ザスキア	そうだ！\nせっかくだからレスナとみんなで調合してみたら？	Saskia	I have an idea. Why don't you all try synthesizing something with Resna?	萨丝琪亚	对了！\n机会难得，蕾斯娜要不要和大家一起调合？	薩絲琪亞	對了！\n機會難得，蕾斯娜要不要跟大家一起調合？
+TalkEvent_00_005ID	46	Saskia	ザスキア	マルローネさんたちも、この世界の錬金術を\n知りたいでしょう？	Saskia	I'm sure you're all curious about the alchemy in this world too.	萨丝琪亚	玛洛娜你们也想了解\n这个世界的炼金术吧？	薩絲琪亞	瑪洛娜妳們也想了解\n這個世界的鍊金術吧？
+TalkEvent_00_005ID	47	Marie	マリー	はい！　ぜひお願いします！	Marie	That sounds great. Let's do it!	玛莉	好的！拜托你们了！	瑪莉	是的！就麻煩妳們了！
+TalkEvent_00_005ID	48	Saskia	ザスキア	じゃあ、レスナが用意しようとしてた商品を教材に\nパパっとやっちゃいましょう！	Saskia	You were just about to make something, weren't you, Resna? Let's do that!	萨丝琪亚	那我们就拿蕾斯娜想做的商品当教材，\n赶快开始吧！	薩絲琪亞	那就拿蕾斯娜想要準備的商品當作教材，\n三兩下把它搞定吧！
+TalkEvent_00_005ID	49	Saskia	ザスキア	レスナ、まずはマナの用意をお願い	Saskia	Prepare the mana, would you?	萨丝琪亚	蕾斯娜，你先准备好玛那。	薩絲琪亞	蕾斯娜，妳先準備好瑪那。
+TalkEvent_00_005ID	50	Resna	レスナ	はい、師匠！	Resna	Yes, Miss Saskia!	蕾斯娜	好的，师父！	蕾斯娜	是，師父！
+TalkEvent_00_005ID	51	Saskia	ザスキア	レスナの錬金術の師匠。\nさっぱりとした性格だが、錬金術に関しては厳しい	Saskia	Resna's alchemy teacher. An open-hearted mentor who is strict when it comes to alchemy.	萨丝琪亚	蕾斯娜的炼金术师父。\n性格直爽，但在炼金术方面很严格。	薩絲琪亞	蕾斯娜的鍊金術師父。\n性格直爽，但對於鍊金術卻十分嚴格。
+TalkEvent_00_005ID	52	Marlone	マルローネ	偶然アトリエを訪れた錬金術士。\n親しい友人からは「マリー」と呼ばれる	Marlone	"An alchemist who stumbled across the atelier. Her friends all call her ""Marie."""	玛洛娜	偶然造访炼金工房的炼金术士。\n亲近的友人称呼她为“玛莉”。	瑪洛娜	偶然造訪鍊金工房的鍊金術士。\n親近的朋友都叫她「瑪莉」。
+TalkEvent_00_005ID	53	Judith Volltone	ユーディット・フォルトーネ	錬金術士の少女。「ユーディー」と呼ばれることも。\n活発だがおっちょこちょいな面がある	Judith Volltone	"An energetic alchemist who can be a bit of a scatterbrain. Some call her ""Judie."""	优蒂托·弗尔特	炼金术士少女。也有人叫她“优蒂”。\n性格活泼，但有些马虎。	優蒂‧佛爾特	鍊金術士少女，有些人會叫她「優蒂」。\n雖然很活潑，但也有冒失的一面。
+TalkEvent_00_005ID	54	Rorolina Frixell	ロロライナ・フリクセル	通称「ロロナ」。錬金術士の少女。\nちょっと天然なところもあるが、明るく元気な性格	Rorolina Frixell	"A young alchemist known as ""Rorona."" She can be a bit absent-minded at times, but she is always cheerful and full of life."	萝乐莱娜·菲立克塞尔	被大家叫做“萝乐娜”的炼金术士少女。\n有些少根筋，但性格开朗阳光。	蘿樂萊娜‧菲立克塞爾	大家都叫她「蘿樂娜」的鍊金術士少女。\n有些少根筋，但性格開朗有活力。
+TalkEvent_00_005ID	55	Shallistera	シャリステラ	錬金術士の少女。ある使命を背負って旅をしている。\n親しい相手からは「シャリー」と呼ばれる	Shallistera	"An alchemist on a journey to fulfill a mission. Those close to her call her ""Shallie."""	夏莉丝堤拉	炼金术士少女。背负着某个使命四处周游。\n亲近的人称呼她为“夏莉”。	夏莉絲堤菈	鍊金術士少女，背負著某個使命四處旅行。\n關係親近的人都叫她「夏莉」。
+TalkEvent_00_006ID	0	Rorona	ロロナ	次に入れるのは……多分、この薬だよね。\nわたしが知ってるのとはちょっと違う気もするけど	Rorona	It's different from what I know, but... I'm guessing this medicine goes in next?	萝乐娜	接下来……应该放这个药对吧。\n感觉和我认识的药有点不太一样。	蘿樂娜	接下來要放的……大概是這個藥吧。\n儘管和我知道的藥有點不太一樣。
+TalkEvent_00_006ID	1	Marie	マリー	見たことない素材ばかりね。\nねえレスナ、これってなあに？	Marie	I don't think I've ever seen any of these materials before. Hey, Resna, what is this?	玛莉	都是我没见过的素材呢。\n蕾斯娜，这个是什么呀？	瑪莉	都是些我沒見過的素材呢。\n蕾斯娜，這個是什麼呀？
+TalkEvent_00_006ID	2	Resna	レスナ	あ、それは素材同士を混ぜ合わせた時の反応を\n中和するためのものです！	Resna	Oh, that's used to neutralize the reaction produced by the materials mixed together.	蕾斯娜	啊，这个是用来中和\n混合素材时产生的反应的！	蕾斯娜	啊，那個是混合素材時，\n用來中和反應的東西！
+TalkEvent_00_006ID	3	Marie	マリー	ああ、なるほど！　あたしの世界でも\n同じようなものを使ったことがあるよ！	Marie	I see! I use something similar in my world too.	玛莉	哦哦，原来如此！\n我在原来的世界也用过差不多的东西！	瑪莉	哦，原來如此！我在原來的世界也用過類似的東西！
+TalkEvent_00_006ID	4	Rorona	ロロナ	わたしも！　ということはマルローネさん、\nこういう手順で進めれば……	Rorona	Same here! Which means that if we keep following these procedures...	萝乐娜	我也是！玛洛娜，那也就是说，\n只要按这个顺序来的话……	蘿樂娜	我也是！瑪洛娜，\n那就是說只要照這個步驟來的話……
+TalkEvent_00_006ID	5	Marie	マリー	うん。ようやく先輩らしいところを見せられそう	Marie	We'll finally be able to showcase our skills!	玛莉	嗯。终于能展现我们的前辈风范了呢。	瑪莉	嗯，看來總算能展現我身為前輩的風範了。
+TalkEvent_00_006ID	6	Judie	ユーディー	なんとなく分かってきたかも……！	Judie	I think I'm finally starting to get the hang of things.	优蒂	我好像有点明白了……！	優蒂	總覺得我好像有點懂了……！
+TalkEvent_00_006ID	7	Shallistera	シャリステラ	これならみんなで力を合わせれば\nなんとか調合できそうです！	Shallistera	We should be able to synthesize something if we work together!	夏莉丝堤拉	这样的话，只要大家齐心协力\n应该就能成功调合！	夏莉絲堤菈	這樣的話只要大家同心協力，\n應該就能調合成功！
+TalkEvent_00_006ID	8	Saskia	ザスキア	へえ。途中までしか教えてないのに\nもう理解したみたい	Saskia	Oh? I've only shown you a little of what you need to do, but you all seem to have it figured out.	萨丝琪亚	厉害啊，虽然才教了一部分，\n但她似乎已经理解了。	薩絲琪亞	哦，我才教了一半而已，\n但妳們看起來似乎都已經理解了。
+TalkEvent_00_006ID	9	Resna	レスナ	す、すごい……私なんかどれだけかかったか	Resna	Whoa... That took me ages to learn.	蕾斯娜	好、好厉害……不像我，花了不知道多少时间……	蕾斯娜	好、好厲害……哪像我都不知道花了多少時間。
+TalkEvent_00_006ID	10	Saskia	ザスキア	ほら、ボーっとしてない！\nレスナの商品を作ってるんだから！　集中！	Saskia	Stop getting distracted! We're all trying to make things for you to sell, you know. Concentrate!	萨丝琪亚	蕾斯娜，别发呆了！\n这可是在做你的商品！集中注意力！	薩絲琪亞	嘿，別發呆了！\n這可是在製作妳的商品！專心一點！
+TalkEvent_00_006ID	11	Resna	レスナ	は、はい！　集中集中！	Resna	Okay! Focus, focus!	蕾斯娜	好、好的！专心专心！	蕾斯娜	好、好的！專心專心！
+TalkEvent_00_006ID	12	Resna	レスナ	できた……！　できました！	Resna	It's done! We did it!	蕾斯娜	好了……！做好了！	蕾斯娜	好了……！完成了！
+TalkEvent_00_006ID	13	Resna	レスナ	こんなに完成度が高いものを作れたのは初めてです！\nこれがみんなでする調合なんですね	Resna	I've never created something this high quality before! I guess this is the power of synthesizing with friends.	蕾斯娜	我还是第一次制作出这么完善的商品！\n这就是大家一起调合的力量啊。	蕾斯娜	我第一次製作出完成度這麼高的東西！\n這就是和大家一起調合的成果吧。
+TalkEvent_00_006ID	14	Rorona	ロロナ	レスナちゃんありがと～！\nおかげで、なんとなくやり方が分かってきたよ！	Rorona	Thank you so much, Resna. You're such a good teacher!	萝乐娜	谢谢你蕾斯娜～！\n多亏了你，我大概知道调合的方法了！	蘿樂娜	蕾斯娜，謝謝妳～！\n多虧了妳，我好像搞清楚調合的方法了！
+TalkEvent_00_006ID	15	Resna	レスナ	いえ、そんな！　皆さん、すごく手際が良くて\nむしろ私が足を引っ張っていたような……	Resna	No way! All of you are so skilled. If anything, it feels like I was the one holding you back.	蕾斯娜	不不，不用谢！大家动作都好利落，\n我倒像是拖后腿的那个……	蕾斯娜	不，哪裡哪裡！大家的動作都好俐落，\n我反而像在扯後腿呢……
+TalkEvent_00_006ID	16	Saskia	ザスキア	そこは錬金術士としての経験の差かもしれないわね。\n多少やり方が違っても、通じるところがあるんでしょう	Saskia	I suppose you might say that's the difference experience with alchemy makes. The method may be different, but some things are surely the same.	萨丝琪亚	那或许是因为作为炼金术士的经验有差距吧。\n尽管做法有些差异，但还是有共通之处的。	薩絲琪亞	也許這就是身為鍊金術士的經驗差距吧。\n即使做法多少有些不同，也還是有著共通之處的。
+TalkEvent_00_006ID	17	Rorona	ロロナ	また一緒に調合しようね！\n今度はパイとか作ってみたいなあ	Rorona	We should do this again sometime! I'd love to make some pies with you all.	萝乐娜	下次再一起调合吧！\n下次我想试着烤点派。	蘿樂娜	之後我們再一起調合吧！\n下次我想試著做點派什麼的。
+TalkEvent_00_006ID	18	Resna	レスナ	は、はいっ！　ぜひっ！	Resna	M-Me too! That sounds fun!	蕾斯娜	好、好的！请务必让我加入！	蕾斯娜	好、好的！請務必再來！
+TalkEvent_00_006ID	19	Marie	マリー	でも、まさか錬金術がこんなに大変だなんて\n思ってもみなかったよ	Marie	Phew, I never thought I'd struggle with alchemy so much.	玛莉	不过，真没想到，\n使用炼金术居然这么困难。	瑪莉	不過，我根本沒想到原來使用鍊金術\n居然會這麼費勁。
+TalkEvent_00_006ID	20	Saskia	ザスキア	昔はこうじゃなかったそうよ。\n一人でも簡単に錬金術が使えたの	Saskia	It wasn't always like this. Long ago, any alchemist could have handled this alone.	萨丝琪亚	以前似乎不是这样的。\n听说那时就算只有一个人也可以轻松使用炼金术。	薩絲琪亞	聽說過去並不是這樣的，\n那時一個人好像也能輕鬆使用鍊金術。
+TalkEvent_00_006ID	21	Saskia	ザスキア	彗星から降り注ぐ星の恵み……\n大量のマナを使うことでね	Saskia	The comets rained the blessing of the stars upon us. It used incredible amounts of mana.	萨丝琪亚	那需要借助大量的玛那……\n也就是从彗星上降下的星之恩赐。	薩絲琪亞	因為當時擁有來自彗星的星之恩惠……\n大量的瑪那得以使用。
+TalkEvent_00_006ID	22	Saskia	ザスキア	でも、いつしか彗星の数が減って、マナが枯渇の危機に\n瀕してしまった。だから錬金術は衰退していったの	Saskia	But as the number of comets decreased, we were brought to the verge of a mana drought. Which is what led to the decline of alchemy.	萨丝琪亚	然而随着彗星的数量减少，玛那濒临枯竭的危机。\n炼金术因此逐渐衰退了。	薩絲琪亞	但不知何時彗星的數量減少，瑪那瀕臨枯竭的危機，\n因此鍊金術才會逐漸走向衰落。
+TalkEvent_00_006ID	23	Saskia	ザスキア	そうして長い時間が経って……今はもう\n錬金術自体、覚えている人はほとんどいない	Saskia	Much time has passed since then... Now, few remain who are even aware of the existence of alchemy.	萨丝琪亚	就这样，经过了漫长的岁月……\n如今连记得炼金术的人都寥寥无几。	薩絲琪亞	就這樣，經過了一段漫長的歲月……\n如今，幾乎已經沒人記得鍊金術了。
+TalkEvent_00_006ID	24	Judie	ユーディー	あのマナってそんなに貴重なものだったんだ……\nじゃあ、あまり無闇に調合はできないってこと？	Judie	Wow, mana is that precious, huh? Does that mean you can't just synthesize as much as you want?	优蒂	玛那原来是这么珍贵的东西……\n那就是说，不能随随便便调合吗？	優蒂	原來那個瑪那是如此珍貴的東西……\n那也就是說，我們不能隨便進行調合嗎？
+TalkEvent_00_006ID	25	Saskia	ザスキア	その点は心配いらないわ。\nこのアトリエはちょっと特別なの	Saskia	That's not a problem here. This atelier is special, you see.	萨丝琪亚	这一点你们不用担心。\n这个炼金工房比较特殊。	薩絲琪亞	這一點妳們用不著擔心，\n這個鍊金工房比較特別一些。
+TalkEvent_00_006ID	26	Saskia	ザスキア	ここでは、錬金術士たちが力を合わせることで\nマナを増幅することができるのよ	Saskia	When multiple alchemists bring their powers together in this place, it has the ability to amplify mana.	萨丝琪亚	在这里，只要炼金术士齐心协力，\n就可以增强玛那的效果。	薩絲琪亞	在這裡，只要鍊金術士同心協力，\n就能夠增強瑪那的力量喔。
+TalkEvent_00_006ID	27	Shallistera	シャリステラ	そんなものが作れるなら、\n錬金術は廃れずに済んだのでは……	Shallistera	In that case, could it not have been used to prevent alchemy from dying out?	夏莉丝堤拉	既然能创造出这种地方，\n炼金术应该不会荒废才是……	夏莉絲堤菈	既然都能建造出這種地方，\n那鍊金術應該不至於如此沒落吧……
+TalkEvent_00_006ID	28	Saskia	ザスキア	残念ながら、そう簡単に作れるものでもなくてね。\nほとんど偶然、奇跡の産物なの	Saskia	Unfortunately, creating a place like this is not as simple as it seems. This atelier is truly the result of fortuity and miracles.	萨丝琪亚	很遗憾，这里并不是想造就造的。\n可以说完全出自巧合，是奇迹的产物。	薩絲琪亞	可惜這裡也不是那麼容易就能建造出來的。\n它幾乎能說是偶然，是奇蹟下的產物。
+TalkEvent_00_006ID	29	Saskia	ザスキア	このアトリエができた頃には、\nすでに錬金術は過去のものだった	Saskia	When it was finally completed, alchemy had already become a thing of the past.	萨丝琪亚	在这个炼金工房建成的时候，\n炼金术已经是过时的技术。	薩絲琪亞	在這個鍊金工房建好的時候，\n鍊金術早已淪為過去式了。
+TalkEvent_00_006ID	30	Saskia	ザスキア	昔のように誰もが錬金術を学び、取り組む……\nというのは、やはり難しいでしょうね	Saskia	Getting people to learn and advance alchemy like they did in the olden days... Well, it would be quite difficult now.	萨丝琪亚	像过去一样人人学习、钻研炼金术……\n应该很难实现吧。	薩絲琪亞	像從前那般人人學習鍊金術、用心鑽研的情景……\n或許已經很難再見到了。
+TalkEvent_00_006ID	31	Resna	レスナ	……でも、そんなのもったいない！\n錬金術は、とっても素晴らしいものなのに	Resna	But that's such a shame! Alchemy is such a wonderful thing!	蕾斯娜	……可是这样也太可惜了！\n明明炼金术这么神奇。	蕾斯娜	……不過，這樣就太可惜了！\n明明鍊金術這麼美好。
+TalkEvent_00_006ID	32	Resna	レスナ	だから私、果ての大陸を見つけて、\n錬金術を復活させたいんです！	Resna	That's why I'm going to find the World's End. I want to restore alchemy to its former glory!	蕾斯娜	所以我想找到终极大陆，\n然后复活炼金术！	蕾斯娜	所以我才想找到終極大陸，\n讓鍊金術復活！
+TalkEvent_00_006ID	33	Shallistera	シャリステラ	果ての大陸……？	Shallistera	What's the World's End?	夏莉丝堤拉	终极大陆……？	夏莉絲堤菈	終極大陸……？
+TalkEvent_00_006ID	34	Resna	レスナ	たくさんのマナが眠ってるといわれている場所です。\n遥か海の向こうにあるといわれています	Resna	It's a place rumored to be a rich source of mana. They say it's all the way across the wide ocean.	蕾斯娜	说是一片蕴藏着大量玛那的陆地，\n位于遥远的大海对面。	蕾斯娜	據說那裡位於遙遠的大海彼端，\n是個蘊藏著許多瑪那的地方。
+TalkEvent_00_006ID	35	Saskia	ザスキア	伝説、おとぎ話の類だけどね。昔、国中の錬金術士が\n総出で探したけど結局見つからなかった	Saskia	It's much closer to fiction than fact. Long ago, alchemists throughout the country went in search of it, but it was never found.	萨丝琪亚	不过这只是传说和童话里的说法。过去，全国的炼金术士\n曾经发起总动员去寻找，结果也没有找到。	薩絲琪亞	不過，那只能算是個傳說或童話故事。過去，曾經出動\n全國上下的鍊金術士去尋找，但最後仍是無功而返。
+TalkEvent_00_006ID	36	Resna	レスナ	でも！　きっとあるはずです！	Resna	But...I just know it exists!	蕾斯娜	但是！那个地方一定存在！	蕾斯娜	可是！我相信一定有那個地方。
+TalkEvent_00_006ID	37	Resna	レスナ	果ての大陸を見つけて、マナの問題を解決して……。\nみんなが錬金術で幸せになれるようにしたい	Resna	I want to find the World's End and solve the mana shortage... And make everyone's lives better through alchemy!	蕾斯娜	我想找到终极大陆，解决玛那的问题……\n通过炼金术让大家获得幸福。	蕾斯娜	我想找到終極大陸，解決瑪那的問題……\n讓大家都能透過鍊金術獲得幸福。
+TalkEvent_00_006ID	38	Resna	レスナ	だから立派な錬金術士になって、\n果ての大陸を探しに行きたいと思ってます！	Resna	That's why I'm going to become a full-fledged alchemist. I'm going to go look for the World's End!	蕾斯娜	所以我才要成为厉害的炼金术士，\n去寻找终极大陆！	蕾斯娜	因此我才要成為出色的鍊金術士，\n去尋找終極大陸！
+TalkEvent_00_006ID	39	Shallistera	シャリステラ	……すごい。そんなこと考えてるんですね	Shallistera	Wow. It looks like you have put a lot of thought into this, Resna.	夏莉丝堤拉	……了不起。你原来在想这些事呀。	夏莉絲堤菈	……真了不起，原來妳是這麼想的啊。
+TalkEvent_00_006ID	40	Marie	マリー	いい夢じゃない。夢は大きいほうがいいわよ	Marie	I think that's a fantastic goal to have. The bigger the dream, the better!	玛莉	你的梦想好棒。梦想就是要远大才好。	瑪莉	很不錯的夢想，夢想就是要遠大一點才好。
+TalkEvent_00_006ID	41	Rorona	ロロナ	同じ錬金術士として応援するよ！	Rorona	You have my support as a fellow alchemist.	萝乐娜	同为炼金术士，我支持你！	蘿樂娜	同樣身為鍊金術士，我支持妳！
+TalkEvent_00_006ID	42	Judie	ユーディー	あたしたちにできることなら、なんでも言ってね	Judie	Let us know if there's anything we can do to help you out.	优蒂	要是有什么我们帮得上忙的，你尽管说。	優蒂	如果有什麼我們能幫上忙的，妳儘管開口。
+TalkEvent_00_006ID	43	Resna	レスナ	はい！　ありがとうございます！	Resna	I will! Thank you!	蕾斯娜	好！谢谢你们！	蕾斯娜	好的！謝謝妳！
+TalkEvent_00_006ID	44	Saskia	ザスキア	そのためには、まずは私が出した課題をこなして、\n見習いを卒業してもらわないとね	Saskia	That is why you must complete my assignment and graduate from the role of apprentice.	萨丝琪亚	为了实现梦想，你得先完成我出的课题，\n从见习炼金术士毕业才行哦。	薩絲琪亞	為了實現夢想，妳得先完成我出的課題，\n從見習鍊金術士的身分畢業才行哦。
+TalkEvent_00_006ID	45	Saskia	ザスキア	前にも言ったと思うけど、今のままじゃ\n果ての大陸を探す旅なんて許可できないわよ	Saskia	I've told you this before, but I cannot permit you to go on a journey to find the World's End as you are now.	萨丝琪亚	我以前也说过，以你现在的水平，\n我还不会允许你出发去寻找终极大陆。	薩絲琪亞	我之前應該也說過，以妳目前的程度，\n我還不會允許妳踏上尋找終極大陸的旅程。
+TalkEvent_00_006ID	46	Resna	レスナ	はい、分かってます！\n師匠に認めてもらえるよう頑張ります！	Resna	I know! I'm working really hard to do that. I promise I won't let you down!	蕾斯娜	嗯，我明白！\n为了让师父认可，我会努力的！	蕾斯娜	嗯，我明白！\n我會努力讓師父認可我的實力的！
+TalkEvent_00_006ID	47	Shallistera	シャリステラ	あの……果ての大陸を探すにあたって、\nどうするかってもう決めているんですか？	Shallistera	Um... Have you decided what it is you need to do in order to find the World's End?	夏莉丝堤拉	那个……你已经想好\n要如何寻找终极大陆了吗？	夏莉絲堤菈	請問……妳已經想好在尋找終極大陸時\n該做些什麼了嗎？
+TalkEvent_00_006ID	48	Resna	レスナ	まだ場所の見当もついていない状態なので……。\nまずは錬金術の素晴らしさを広めたいって思ってます	Resna	Well, I still don't know where to begin looking for it... So, I'm going to start with spreading the wonders of alchemy first.	蕾斯娜	毕竟现在还完全不知道在哪里……\n所以我想先去普及炼金术的厉害之处！	蕾斯娜	因為現在都還不知道那在哪裡……\n所以我想先去推廣鍊金術的美好之處。
+TalkEvent_00_006ID	49	Resna	レスナ	そうすれば、一緒に果ての大陸を探してくれる人が\n出てきてくれないかなー……なんて思ったり	Resna	If I do that, I might be able to meet someone willing to come look for it with me... Or, at least, that's what I hope.	蕾斯娜	这样说不定就会遇到愿意和我一起\n去寻找终极大陆的人……我是这么想的。	蕾斯娜	想說這麼一來，或許就會出現願意跟我一起\n去尋找終極大陸的人了……這樣。
+TalkEvent_00_006ID	50	Resna	レスナ	その前に、師匠の課題をこなして、一人前の\n錬金術士だって認めてもらわなきゃなんですけどね	Resna	But before all of that, I need to complete Miss Saskia's assignment and become a full-fledged alchemist.	蕾斯娜	不过在那之前，我得完成师父的课题，\n让师父认可我是可以独当一面的炼金术士。	蕾斯娜	不過在那之前，我得完成師父的課題，\n讓師父認可我是個獨當一面的鍊金術士才行。
+TalkEvent_00_006ID	51	Shallistera	シャリステラ	……レスナさん。\nわたしもついていってはいけませんか？	Shallistera	If you don't mind, Resna, I would love to accompany you.	夏莉丝堤拉	……蕾斯娜，\n我可以和你一起去吗？	夏莉絲堤菈	……蕾斯娜，\n我可以跟妳一起去嗎？
+TalkEvent_00_006ID	52	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_00_006ID	53	Shallistera	シャリステラ	マナが枯渇してしまうという話……。実は、わたしの\n故郷でも似たような問題に直面しているんです	Shallistera	My village is also facing a similar problem, so the story of the mana drought resonated with me.	夏莉丝堤拉	关于玛那的枯竭……\n其实我的故乡也面临着类似的问题。	夏莉絲堤菈	關於瑪那枯竭一事……\n其實，我的故鄉也面臨著類似的問題。
+TalkEvent_00_006ID	54	Shallistera	シャリステラ	わたしも錬金術士としてその解決方法を探していて。\nレスナさんのやりたいこととちょっと近いなって	Shallistera	As an alchemist, I also think it's my duty to look for a solution to that problem. We seem to have that in common.	夏莉丝堤拉	作为炼金术士，我也在寻找解决的办法。\n感觉和你想做的事情有点相通的地方。	夏莉絲堤菈	我身為鍊金術士，也在尋找解決的方法，\n感覺和蕾斯娜妳想做的事有點接近。
+TalkEvent_00_006ID	55	Resna	レスナ	そうだったんですね！	Resna	Oh, I see!	蕾斯娜	原来是这样！	蕾斯娜	原來是這樣啊！
+TalkEvent_00_006ID	56	Shallistera	シャリステラ	だから、レスナさんについていけば、\nわたしも何か得るものがあるかなって思うんです	Shallistera	If I go with you, I think it may bring me closer to the answer I need.	夏莉丝堤拉	所以我想，如果能和你一起去的话，\n我说不定也能获得些启发。	夏莉絲堤菈	所以我想，如果跟著妳一起去，\n或許我也能有所收穫。
+TalkEvent_00_006ID	57	Shallistera	シャリステラ	それに……頑張ってるレスナさんを、\nなんだか放っておけなくて	Shallistera	And besides, seeing you try so hard makes me feel like I can't just leave you.	夏莉丝堤拉	而且……看到你这么努力，\n我也不由得想要支持你。	夏莉絲堤菈	而且……看到妳如此努力，\n總覺得無法丟下妳不管。
+TalkEvent_00_006ID	58	Resna	レスナ	むしろいいんですか！？\nぜひよろしくお願いします！　シャリステラ先輩！！	Resna	Are you sure that's all right?! Oh my gosh, I'd love to have you come with me! Please, Miss Shallistera!	蕾斯娜	你真的愿意和我一起去吗？！\n那就拜托了！夏莉丝堤拉前辈！	蕾斯娜	這樣真的好嗎！？\n那就拜託妳了！夏莉絲堤菈前輩！！
+TalkEvent_00_006ID	59	Shallistera	シャリステラ	せ、先輩……なんだかむず痒いですね	Shallistera	M-Miss...? It feels strange hearing you call me that.	夏莉丝堤拉	前、前辈……感觉有点不好意思呢。	夏莉絲堤菈	前、前輩……感覺有點難為情呢。
+TalkEvent_00_006ID	60	Resna	レスナ	（錬金術士の先輩と一緒に旅ができるなんて……。\n　夢じゃないよね！？）	Resna	(I can't believe I get to travel with a veteran alchemist! Am I dreaming?!)	蕾斯娜	（居然能和炼金术士前辈一起旅行……\n　我不是在做梦吧？！）	蕾斯娜	（居然能和鍊金術士前輩一起旅行……\n　這不是在作夢吧！？）
+TalkEvent_00_007ID	0	Resna	レスナ	お困りの方はいませんかー？	Resna	Do you have a problem you just can't seem to solve?	蕾斯娜	有人需要帮助吗？	蕾斯娜	有人遇到困難嗎～？
+TalkEvent_00_007ID	1	Resna	レスナ	ご入用のものはございませんかー？	Resna	Or something you just can't seem to get your hands on?	蕾斯娜	有没有什么需要的呀？	蕾斯娜	有需要的東西嗎～？
+TalkEvent_00_007ID	2		通りすがりの客	お、何を売ってるんだい？	Passerby	Oh, what are you selling?	路过的客人	哦，你在卖什么呢？	路過的客人	哦，在賣什麼啊？
+TalkEvent_00_007ID	3	Resna	レスナ	……！　よくぞ聞いてくれました！\nこちらは錬金術で作ったとても優れた品物なんです！	Resna	Great question! I have the finest wares crafted with alchemy.	蕾斯娜	……！问得好！\n这是用炼金术制作的品质优异的商品哦！	蕾斯娜	……！問得好！\n這些是用鍊金術製作的優質商品！
+TalkEvent_00_007ID	4	Resna	レスナ	あ、錬金術っていうのはですね！\n決して怪しいものではなくてですね！	Resna	Oh, by the way, alchemy is by no means anything suspicious at all!	蕾斯娜	啊，这个炼金术呢，\n绝不是什么可疑的东西！	蕾斯娜	啊，所謂鍊金術啊！\n絕不是什麼可疑的東西喔！
+TalkEvent_00_007ID	5	Shallistera	シャリステラ	ちょ、ちょっとレスナさん！\nわたしたち、今何してるんでしたっけ？	Shallistera	E-Err, Resna? What exactly is it that we're doing right now?	夏莉丝堤拉	等、等等蕾斯娜！\n我们现在是在做什么来着？	夏莉絲堤菈	等、等等，蕾斯娜！\n我們現在是在做什麼呀？
+TalkEvent_00_007ID	6	Resna	レスナ	はいっ！\nもちろん、錬金術の素晴らしさを広めているんですよ！	Resna	Ah, right! I'm trying to spread the wonders of alchemy to everyone!	蕾斯娜	我知道！\n当然是在普及炼金术的厉害之处啦！	蕾斯娜	嗯！\n當然是在推廣鍊金術的美好之處啊！
+TalkEvent_00_007ID	7	Resna	レスナ	錬金術が素晴らしいって知ってもらえれば\n作ったものも売れると思いますし！	Resna	If the customer knows how wonderful alchemy is, then they'll be more inclined to buy what we made!	蕾斯娜	我想，只要让大家知道炼金术有多么厉害，\n我做的东西就一定能卖出去了！	蕾斯娜	只要讓大家理解鍊金術有多美好，\n我們做的東西也就會大賣了！
+TalkEvent_00_007ID	8	Shallistera	シャリステラ	順番が逆なんじゃ……？	Shallistera	Don't you have the order backward?	夏莉丝堤拉	顺序是不是反了……？	夏莉絲堤菈	順序是不是反了……？
+TalkEvent_00_007ID	9		通りすがりの客	や、やっぱりやめとくよ。\nなんだか怖いし	Passerby	Um, never mind. I don't have a very good feeling about this.	路过的客人	还、还是算了吧。\n感觉怪吓人的。	路過的客人	還、還是先不要好了，\n感覺怪可怕的。
+TalkEvent_00_007ID	10	Resna	レスナ	そんな！　待ってください！\n怖くないです！　錬金術は最高なんです！	Resna	Aww, nooo! Please, wait! I promise it's nothing suspicious. Alchemy is the greatest!	蕾斯娜	怎么这样！请等一等！\n一点都不吓人！炼金术最棒了！	蕾斯娜	怎麼這樣！請等一下！\n一點都不可怕！鍊金術最棒了！
+TalkEvent_00_007ID	11	Resna	レスナ	ごめんなさい、一緒に作っていただいた商品なのに。\n錬金術の魅力を伝えるのが下手な私が悪いんです……	Resna	I'm sorry. And after we worked so hard to make this... This is my fault for being bad at communicating how amazing alchemy is.	蕾斯娜	抱歉，明明是大家一起做的商品。\n都怪我不会传达炼金术的魅力……	蕾斯娜	對不起，明明是我們大家一起做的商品。\n都怪我不會傳達鍊金術的魅力……
+TalkEvent_00_007ID	12	Shallistera	シャリステラ	うーん、そういう問題じゃない気がするんですけど……	Shallistera	Mm, I don't think that's the problem...	夏莉丝堤拉	嗯……我觉得应该不是这个问题……	夏莉絲堤菈	嗯～我覺得問題不是出在那裡……
+TalkEvent_00_007ID	13	Resna	レスナ	イザナちゃんごめん、路銀稼げなくて……	Resna	I'm sorry, Izana... I couldn't make any money for our travel fund in the end...	蕾斯娜	对不起伊札娜，我赚不到旅费……	蕾斯娜	伊札娜，抱歉，我沒能賺到旅費……
+TalkEvent_00_007ID	14	Shallistera	シャリステラ	イザナ？	Shallistera	Who's Izana?	夏莉丝堤拉	伊札娜？	夏莉絲堤菈	伊札娜？
+TalkEvent_00_007ID	15	Resna	レスナ	そういえば言ってませんでしたっけ。\n王都には私の幼馴染と一緒に向かってるんですよ	Resna	Oh, I must've forgotten to mention. She's the childhood friend I'm going to the capital with.	蕾斯娜	我没有说过吗，\n我去王都是和儿时玩伴一起的。	蕾斯娜	這麼說來，我還沒跟妳提過呀。\n我是和兒時玩伴一起前往王都的。
+TalkEvent_00_007ID	16	Resna	レスナ	確かこの辺りで魔物を狩るって\n言ってたような……	Resna	I think she said she was hunting monsters around this area...	蕾斯娜	她好像说过要在这附近狩猎魔物……	蕾斯娜	我記得她好像是說\n要在這一帶狩獵魔物……
+TalkEvent_00_007ID	17	Shallistera	シャリステラ	！　魔物……！\nレスナさん、戦闘の準備を！	Shallistera	Monsters! Resna, prepare for battle!	夏莉丝堤拉	是魔物……！\n蕾斯娜，准备战斗！	夏莉絲堤菈	！　是魔物……！\n蕾斯娜，準備戰鬥！
+TalkEvent_00_007ID	18	Resna	レスナ	先輩と一緒に戦えるなんて光栄です！\n至らぬことがありましたらご指導ご鞭撻のほど……	Resna	I get to battle with a veteran? What an honor! I may have many shortcomings, but I would be delighted if you could offer guidance—	蕾斯娜	能和前辈一起战斗我倍感光荣！\n若有不周之处还请前辈训诲鞭策……	蕾斯娜	能和前輩一起戰鬥是我的榮幸！\n如有不足之處還請前輩多多指導與鞭策……
+TalkEvent_00_007ID	19	Shallistera	シャリステラ	て、敵に集中してー！	Shallistera	F-Focus on the enemy!	夏莉丝堤拉	专、专心迎敌啊——！	夏莉絲堤菈	專、專心對付敵人──！
+TalkEvent_00_008ID	0	Shallistera	シャリステラ	ふう、倒せたかな	Shallistera	Phew. We managed to take care of it.	夏莉丝堤拉	呼，打倒了。	夏莉絲堤菈	呼，應該打倒了吧。
+TalkEvent_00_008ID	1	Resna	レスナ	さすがです、シャリステラ先輩！\n先輩の錬金術士パワー、しっかり見せてもらいました！	Resna	You were amazing, Miss Shallistera! Your alchemy power was amazing to witness!	蕾斯娜	好厉害呀，夏莉丝堤拉前辈！\n我彻底见识到前辈的炼金术士之力了！	蕾斯娜	好厲害呀，夏莉絲堤菈前輩！\n我徹底見識到前輩的鍊金術士之力了！
+TalkEvent_00_008ID	2	Shallistera	シャリステラ	なんですか、錬金術士パワーって	Shallistera	"I don't really understand what ""alchemy power"" is supposed to mean, but thank you."	夏莉丝堤拉	炼金术士之力是什么啦。	夏莉絲堤菈	鍊金術士之力是什麼啦。
+TalkEvent_00_008ID	3	Shallistera	シャリステラ	それにしても、レスナさんは本当に\n錬金術が好きなんですね	Shallistera	You really love alchemy, don't you, Resna?	夏莉丝堤拉	话说回来，蕾斯娜你真的\n很喜欢炼金术呢。	夏莉絲堤菈	話說回來，\n蕾斯娜妳真的很喜歡鍊金術呢。
+TalkEvent_00_008ID	4	Resna	レスナ	はい、大好きです！\n錬金術って素晴らしいですから！	Resna	I do! I mean, it's just so wonderful!	蕾斯娜	是的，我很喜欢！\n因为炼金术很神奇嘛！	蕾斯娜	沒錯，我很喜歡！\n因為鍊金術非常美好啊！
+TalkEvent_00_008ID	5	Resna	レスナ	……シャリステラ先輩。\n先輩から見て、私ってどうですか？	Resna	Can I ask you something, Miss Shallistera? What do you think about me? Be honest.	蕾斯娜	……夏莉丝堤拉前辈。\n你觉得我怎么样呢？	蕾斯娜	……夏莉絲堤菈前輩。\n從妳的角度來看，覺得我怎麼樣呢？
+TalkEvent_00_008ID	6	Shallistera	シャリステラ	どう……と言うのは？	Shallistera	What do you mean?	夏莉丝堤拉	怎么样……是指什么？	夏莉絲堤菈	怎麼樣……是指什麼？
+TalkEvent_00_008ID	7	Resna	レスナ	私、調合の飲み込みも悪いし、\n作ったものも満足に売ることができなくて……	Resna	It took me forever to learn how to properly synthesize, and I can't sell anything that I make.	蕾斯娜	我学习调合学得也慢，\n做的东西也卖不出去……	蕾斯娜	我對調合的理解力很差，\n做出來的成品也賣得不好……
+TalkEvent_00_008ID	8	Resna	レスナ	才能が足りていないのでは、ないかと……	Resna	Sometimes I think to myself, what if I just don't have the talent for this?	蕾斯娜	我害怕自己是不是没有天赋……	蕾斯娜	我在想，是不是自己的天賦不夠……
+TalkEvent_00_008ID	9	Shallistera	シャリステラ	ねえ、レスナさん。\nどうしてレスナさんは錬金術を素晴らしいって思うの？	Shallistera	Tell me first, what is it about alchemy that you find so wonderful?	夏莉丝堤拉	蕾斯娜，我问你，\n你为什么觉得炼金术很神奇呢？	夏莉絲堤菈	蕾斯娜，我問妳哦，\n妳為什麼會覺得鍊金術很美好呢？
+TalkEvent_00_008ID	10	Resna	レスナ	え？　どうしてって……	Resna	Huh? Um, let me think.	蕾斯娜	嗯？要问为什么……	蕾斯娜	咦？妳問我為什麼……
+TalkEvent_00_008ID	11	Resna	レスナ	……このリボン、いなくなっちゃったお父さんが\n最後にプレゼントしてくれたものなんです	Resna	See this ribbon here? It was the last thing my dad gave to me before he disappeared.	蕾斯娜	……这个蝴蝶结，\n是失踪的爸爸送给我的最后一件礼物。	蕾斯娜	……這條緞帶，\n是我父親失蹤之前送我的最後一個禮物。
+TalkEvent_00_008ID	12	Resna	レスナ	ずっと大事に付けてました	Resna	I've been wearing it every day since.	蕾斯娜	我一直很宝贝地戴着。	蕾斯娜	我一直都很珍惜地戴著。
+TalkEvent_00_008ID	13	Resna	レスナ	そうしていれば、いつかお父さんが私を見つけて、\nレスナって呼んでくれる気がして	Resna	"I felt like, maybe then, one day he would find me again. And then he'd call out, ""Resna!"""	蕾斯娜	我感觉只要这么做，总有一天爸爸会找到我，\n呼唤我的名字。	蕾斯娜	我覺得只要這麼做，總有一天父親就會找到我，\n呼喚我的名字。
+TalkEvent_00_008ID	14	Resna	レスナ	……でも	Resna	But...	蕾斯娜	可是……	蕾斯娜	可是……
+TalkEvent_00_008ID	15	Resna	レスナ	ある時、リボンがボロボロになっちゃった\nことがあって……	Resna	One day, the ribbon got all tattered...	蕾斯娜	有一次，\n蝴蝶结弄得破破烂烂的……	蕾斯娜	有一次，\n緞帶變得破爛不堪……
+TalkEvent_00_008ID	16	Resna	レスナ	これじゃあ、もしお父さんが私を見かけても、\n私だって気付いてもらえないかもしれない	Resna	I was devastated. I thought that even if my dad spotted me, he wouldn't recognize me without it.	蕾斯娜	我担心这样就算爸爸见到我，\n也可能认不出我。	蕾斯娜	我擔心這樣的話，就算父親見到我，\n也可能認不出是我了。
+TalkEvent_00_008ID	17	Resna	レスナ	そう思って部屋でふさぎ込んでいたら、\n師匠が村にやって来て、そして……	Resna	I was so sad I could barely even leave my room. Then, one day, Miss Saskia came to my village, and...	蕾斯娜	所以我把自己关在房间里不肯出去。\n就在这时，师父来到了我的村子，然后……	蕾斯娜	於是我鬱悶地把自己關在房裡，\n就在這時，師父來到了我們的村子，然後……
+TalkEvent_00_008ID	18	Saskia	ザスキア	その悩み、錬金術でイチコロよ。\nお任せあれってね！	Saskia	Let me take care of that. I can fix it with alchemy, easy!	萨丝琪亚	你的烦恼用炼金术三两下就能解决。\n包在我身上！	薩絲琪亞	妳的煩惱用鍊金術一下子就能解決了。\n交給我吧！
+TalkEvent_00_008ID	19	Resna	レスナ	私は、錬金術と出会いました	Resna	That was the first time I ever saw alchemy.	蕾斯娜	我就这样和炼金术相遇了。	蕾斯娜	我就這樣與鍊金術相遇了。
+TalkEvent_00_008ID	20	Resna	レスナ	……錬金術のおかげで、私はこうして今も\nこのリボンを付けていられる	Resna	The only reason I'm able to wear this ribbon right now is because of alchemy.	蕾斯娜	……因为有炼金术，\n这个蝴蝶结我才能戴到现在。	蕾斯娜	……多虧了有鍊金術，\n我現在才能繼續戴著這條緞帶。
+TalkEvent_00_008ID	21	Resna	レスナ	錬金術は、願いを叶えてくれる奇跡の力だと\n私は思ったんです	Resna	To me, it's a miraculous power that can grant any wish.	蕾斯娜	在我眼里，\n炼金术就是可以实现愿望的奇迹之力。	蕾斯娜	我認為，\n鍊金術是能夠實現願望的奇蹟之力。
+TalkEvent_00_008ID	22	Resna	レスナ	これが理由です	Resna	And that's why I dedicate myself to it.	蕾斯娜	这就是我喜欢炼金术的原因。	蕾斯娜	這就是我覺得它很美好的原因。
+TalkEvent_00_008ID	23	Shallistera	シャリステラ	……そうだったんですね。その……いつかきっと、\nお父さんは見つかると思いますよ	Shallistera	I see. Thank you for sharing that with me. I know you'll be able to find your father one day.	夏莉丝堤拉	……原来如此。那个……我觉得总有一天，\n你一定可以找到爸爸。	夏莉絲堤菈	……原來如此。那個……\n我相信，總有一天妳能找到妳父親的。
+TalkEvent_00_008ID	24	Resna	レスナ	……はい、ありがとうございます	Resna	Me too. Thank you.	蕾斯娜	……嗯，谢谢。	蕾斯娜	……嗯，謝謝妳。
+TalkEvent_00_008ID	25	Shallistera	シャリステラ	…………	Shallistera	...	夏莉丝堤拉	…………	夏莉絲堤菈	…………
+TalkEvent_00_008ID	26	Shallistera	シャリステラ	……レスナさん。\nきっとレスナさんはもう、分かっているはずなんです	Shallistera	I think you already have the answer you need, Resna.	夏莉丝堤拉	……蕾斯娜。\n我想你心里应该已经明白了。	夏莉絲堤菈	……蕾斯娜，\n我想妳心裡應該已經很清楚了。
+TalkEvent_00_008ID	27	Resna	レスナ	え……？	Resna	Huh?	蕾斯娜	什么……？	蕾斯娜	什麼……？
+TalkEvent_00_008ID	28	Shallistera	シャリステラ	錬金術は願いを叶えてくれるものだって、\nレスナさんは言いました	Shallistera	You said that you believe alchemy has the power to grant any wish.	夏莉丝堤拉	你刚才说，\n炼金术就是可以实现愿望的奇迹之力。	夏莉絲堤菈	妳剛才說，\n鍊金術是能夠實現願望的力量。
+TalkEvent_00_008ID	29	Shallistera	シャリステラ	わたしもそう思います。\nだから……	Shallistera	I think so too.	夏莉丝堤拉	我也是这么认为的。\n所以……	夏莉絲堤菈	我也是這麼認為的，\n所以……
+TalkEvent_00_008ID	30	Shallistera	シャリステラ	みんなの願いに寄り添ってみてはいかがでしょうか？	Shallistera	So, why don't you try to comfort people by helping grant their wishes?	夏莉丝堤拉	你要不要试着倾听大家的愿望？	夏莉絲堤菈	妳要不要試著去傾聽大家的願望呢？
+TalkEvent_00_008ID	31	Resna	レスナ	願いに、寄り添う……	Resna	Comfort people by granting their wishes...?	蕾斯娜	倾听愿望……	蕾斯娜	傾聽、願望……
+TalkEvent_00_008ID	32	Resna	レスナ	何やつ！？	Resna	What is that?!	蕾斯娜	什么东西？！	蕾斯娜	什麼東西！？
+TalkEvent_00_008ID	33	Resna	レスナ	くっ、大きい！	Resna	Whoa, it's huge!	蕾斯娜	唔，好大！	蕾斯娜	唔，好大！
+TalkEvent_00_008ID	34	Shallistera	シャリステラ	……勝てる見込みはあります！\n逃げるのも手だと思いますが……	Shallistera	I think we have a chance of beating it. Well, we can also choose to run, but...	夏莉丝堤拉	……我们有胜算的！\n不过逃跑也不失为一种办法……	夏莉絲堤菈	……我們是有勝算的！\n不過逃跑也是一種方法……
+TalkEvent_00_008ID	35	Resna	レスナ	戦います！	Resna	No, I want to fight!	蕾斯娜	我要战斗！	蕾斯娜	我要戰鬥！
+TalkEvent_00_008ID	36	Resna	レスナ	倒したら高値で売れそうな素材が手に入りそうですし、\nそれに……	Resna	If we beat it, we might be able to get some materials that can sell for a high price.	蕾斯娜	打倒它获得的素材应该能卖个好价钱，\n而且……	蕾斯娜	打倒牠所獲得的素材應該能賣個好價錢，\n而且……
+TalkEvent_00_008ID	37	Resna	レスナ	こういうのにも立ち向かえるようにならないと、\nきっと立派な錬金術士になれないと思うから……！	Resna	Plus, I know I won't ever be able to become a full-fledged alchemist unless I can stand up to things like this!	蕾斯娜	如果我不能学会面对这类事情，\n一定成不了厉害的炼金术士……！	蕾斯娜	如果我不去學著應付這些，\n肯定是無法成為出色的鍊金術士的……！
+TalkEvent_00_009ID	0	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	1	Shallistera	シャリステラ	なんとか倒せた……	Shallistera	We did it...	夏莉丝堤拉	可算是打倒了……	夏莉絲堤菈	總算是打倒了……
+TalkEvent_00_009ID	2	Resna	レスナ	ありがとうございます！　先輩のおかげです！	Resna	Thank you! I couldn't have done it without you!	蕾斯娜	谢谢前辈！多亏有前辈在！	蕾斯娜	謝謝！多虧有前輩在！
+TalkEvent_00_009ID	3	Shallistera	シャリステラ	ふふ。レスナさんの錬金術士パワーのおかげですよ	Shallistera	No, it was all thanks to your alchemy power.	夏莉丝堤拉	呵呵。是多亏了蕾斯娜的炼金术士之力哦。	夏莉絲堤菈	呵呵，這可是多虧了妳的鍊金術士之力喔。
+TalkEvent_00_009ID	4	Resna	レスナ	シャリステラ先輩……	Resna	Miss Shallistera...	蕾斯娜	夏莉丝堤拉前辈……	蕾斯娜	夏莉絲堤菈前輩……
+TalkEvent_00_009ID	5	Resna	レスナ	え……？	Resna	Huh?	蕾斯娜	什么……？	蕾斯娜	什麼……？
+TalkEvent_00_009ID	6	Shallistera	シャリステラ	っ！　レスナさん……！	Shallistera	Resna!	夏莉丝堤拉	咦！蕾斯娜……！	夏莉絲堤菈	啊！蕾斯娜……！
+TalkEvent_00_009ID	7	Resna	レスナ	わぁぁぁぁぁ！？	Resna	Whoaaaaaa!!!	蕾斯娜	哇啊啊啊啊？！	蕾斯娜	哇啊啊啊啊啊！？
+TalkEvent_00_009ID	8	Izana	イザナ	おりゃあああ！！！	Izana	Raaaaaagh!	伊札娜	吃我一记啊啊啊！！！	伊札娜	喝啊啊啊！！！
+TalkEvent_00_009ID	9	Izana	イザナ	どっかーーーん！！！！！	Izana	Bam!	伊札娜	咚——！！！！！	伊札娜	咚────！！！！！
+TalkEvent_00_009ID	10	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	11	Resna	レスナ	イザナちゃん！	Resna	Wait, Izana?!	蕾斯娜	伊札娜！	蕾斯娜	伊札娜！
+TalkEvent_00_009ID	12	Izana	イザナ	大丈夫？　レスナちゃん！	Izana	Resna, are you okay?!	伊札娜	蕾斯娜！你没事吧？	伊札娜	蕾斯娜！妳沒事吧？
+TalkEvent_00_009ID	13	Resna	レスナ	ありがとー！！　イザナちゃん！	Resna	Thanks for saving me!	蕾斯娜	伊札娜！谢谢！！	蕾斯娜	伊札娜！謝謝妳！！
+TalkEvent_00_009ID	14	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	15	Izana	イザナ	安心して	Izana	Don't worry.	伊札娜	放心，	伊札娜	放心，
+TalkEvent_00_009ID	16	Izana	イザナ	レスナちゃんのことはアタシが絶対に守るから！	Izana	I promise I'll always protect you!	伊札娜	我一定会保护好蕾斯娜的！	伊札娜	我絕對會保護好蕾斯娜的！
+TalkEvent_00_009ID	17	Resna	レスナ	ううん、いつまでも守ってもらってる	Resna	No, I can't let you shield me forever.	蕾斯娜	不行，	蕾斯娜	不，可不能就這樣
+TalkEvent_00_009ID	18	Resna	レスナ	わけにはいかない！	Resna	I need to learn to protect myself!	蕾斯娜	我不能永远依赖你的保护！	蕾斯娜	一直讓妳保護我……！
+TalkEvent_00_009ID	19	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	20	Resna	レスナ	だって、一人前の錬金術士になるんだから！	Resna	A full-fledged alchemist must learn to stand on their own feet!	蕾斯娜	因为我要成为独当一面的炼金术士！	蕾斯娜	因為我可是要成為獨當一面的鍊金術士！
+TalkEvent_00_009ID	21	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	22	Izana	イザナ	そっか。じゃあ、二人で一緒に行こう！	Izana	Okay. We can fight together, then!	伊札娜	是吗。那我们两人一起上吧！	伊札娜	這樣啊，那我們兩人一起上吧！
+TalkEvent_00_009ID	23	Resna	レスナ	うん！	Resna	Okay!	蕾斯娜	嗯！	蕾斯娜	嗯！
+TalkEvent_00_009ID	24	Izana	イザナ	ということで、とどめだ！	Izana	So, come on! Let's finish it off!	伊札娜	来吧，致命一击！	伊札娜	既然如此，就使出致命一擊！
+TalkEvent_00_009ID	25	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	26	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	27	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	28	Izana	イザナ	これが最強の武器、ハンマー！！！	Izana	With the most powerful weapon—my hammer!!!	伊札娜	这就是最强武器，锤子！！！	伊札娜	這就是最強武器──錘子！！！
+TalkEvent_00_009ID	29	Resna	レスナ	そして錬金術の叡智を	Resna	And the wisdom of alchemy!	蕾斯娜	还有炼金术的睿智——	蕾斯娜	還有鍊金術之睿智。
+TalkEvent_00_009ID	30	Resna	レスナ	お見舞いだあああ！！！	Resna	You're going dooown!!!	蕾斯娜	看招——！！！	蕾斯娜	看招吧！！！
+TalkEvent_00_009ID	31	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	32	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	33	Shallistera	シャリステラ	す、すごい……	Shallistera	Wow...	夏莉丝堤拉	好、好强……	夏莉絲堤菈	好、好厲害……
+TalkEvent_00_009ID	34	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	35	Izana	イザナ	　	Izana	　	伊札娜	　	伊札娜	　
+TalkEvent_00_009ID	36	Shallistera	シャリステラ	あなたが、レスナさんの幼馴染の？	Shallistera	You must be the childhood friend Resna mentioned.	夏莉丝堤拉	你就是蕾斯娜的儿时玩伴吗？	夏莉絲堤菈	妳就是蕾斯娜的兒時玩伴？
+TalkEvent_00_009ID	37	Izana	イザナ	うん、アタシはイザナ・ココシュカ！	Izana	Yeah. I'm Izana Kokoschka.	伊札娜	嗯，我是伊札娜·柯克西卡！	伊札娜	嗯，我是伊札娜‧柯克西卡！
+TalkEvent_00_009ID	38	Resna	レスナ	　	Resna	　	蕾斯娜	　	蕾斯娜	　
+TalkEvent_00_009ID	39	Izana	イザナ	将来最強の騎士になる、鍛冶屋の娘だよ！	Izana	I'm the daughter of a blacksmith, and I'm going to be the strongest knight ever!	伊札娜	我是铁匠铺的女儿，将来会成为最强骑士哦！	伊札娜	是鐵匠鋪的女兒，將來會成為最強騎士哦！
+TalkEvent_00_010ID	0	Resna	レスナ	流れ星に誓います！\n私は将来、立派な錬金術士になります！	Resna	I swear on that shooting star that I'll be a full-fledged alchemist when I grow up!	蕾斯娜	向流星起誓！\n我将来要成为厉害的炼金术士！	蕾斯娜	向流星發誓！\n我將來要成為出色的鍊金術士！
+TalkEvent_00_010ID	1	Izana	イザナ	流れ星に誓います！\nアタシは将来、最強の騎士になります！	Izana	And I swear on that shooting star that I'll be the strongest knight ever when I grow up!	伊札娜	向流星起誓！\n我将来要成为最强的骑士！	伊札娜	向流星發誓！\n我將來要成為最強的騎士！
+TalkEvent_00_010ID	2	Resna	レスナ	えへへ……約束だよ、イザナちゃん	Resna	Hehe. Pinky promise, Izana.	蕾斯娜	嘿嘿……约好了，伊札娜。	蕾斯娜	嘿嘿……伊札娜，我們約定好了喔。
+TalkEvent_00_010ID	3	Izana	イザナ	約束だよ、レスナちゃん！	Izana	Pinky promise, Resna!	伊札娜	约好了，蕾斯娜！	伊札娜	約定好了，蕾斯娜！
+TalkEvent_00_010ID	4	Resna	レスナ	きっと私は、まだ始まってすらいなかったんだ	Resna	I'm sure this is only just the beginning of my journey.	蕾斯娜	我大概都还没有站到起跑线上。	蕾斯娜	我肯定連起跑點都還沒有站上去，
+TalkEvent_00_010ID	5	Resna	レスナ	それなのに、落ち込んで、悩んで……でも	Resna	There are going to be moments when I'm lost or feeling down. But...	蕾斯娜	却已经一次次消沉、烦恼。但是……	蕾斯娜	卻已經如此地消沉、煩惱。不過……
+TalkEvent_00_010ID	6	Resna	レスナ	お困りの方はいませんかー？	Resna	Do you have a problem you just can't seem to solve?	蕾斯娜	有人需要帮助吗？	蕾斯娜	有人遇到困難嗎～？
+TalkEvent_00_010ID	7	Resna	レスナ	ご入用のものはございませんかー？	Resna	Or something you just can't seem to get your hands on?	蕾斯娜	有没有什么需要的呀？	蕾斯娜	有需要的東西嗎～？
+TalkEvent_00_010ID	8		冒険者	どれどれ、どんなものがあるんだい？	Adventurer	Ooh, what have you got there?	冒险者	让我看看，都有卖什么的？	冒險者	我看看，都有賣些什麼呀？
+TalkEvent_00_010ID	9	Resna	レスナ	えっとですね……！	Resna	Oh, hang on!	蕾斯娜	我跟你说哦……！	蕾斯娜	這個嘛……！
+TalkEvent_00_010ID	10	Shallistera	シャリステラ	みんなの願いに寄り添ってみてはいかがでしょうか？	Shallistera	So, why don't you try to comfort people by helping grant their wishes?	夏莉丝堤拉	你要不要试着倾听大家的愿望？	夏莉絲堤菈	妳要不要試著去傾聽大家的願望呢？
+TalkEvent_00_010ID	11	Resna	レスナ	（願いに寄り添う。\n　まだ、上手くできるかは分からないけれど……）	Resna	(I'm not sure how well I can do that, but I'll try.)	蕾斯娜	（倾听愿望。\n　还不知道我能不能做好，不过……）	蕾斯娜	（傾聽大家的願望。\n　雖然還不知道我是否有這個能力，但是……）
+TalkEvent_00_010ID	12	Resna	レスナ	お客様は、どんな願いをお持ちですか！？	Resna	Tell me, what is your wish?	蕾斯娜	请问这位客人，你有什么愿望吗？	蕾斯娜	這位客人，請問你有什麼願望嗎！？
+TalkEvent_00_010ID	13		冒険者	願い？	Adventurer	My wish?	冒险者	愿望？	冒險者	願望？
+TalkEvent_00_010ID	14	Resna	レスナ	あの、えっと……こういうのが欲しいな、とか！\nこういうことしたいな、とか！	Resna	Ah, um... Like, something you want right now. Or something you'd like to do! That sort of thing.	蕾斯娜	那个，就是……想要的东西，\n想做的事情之类的！	蕾斯娜	那個，呃……比方說，想要什麼東西！\n或想做什麼事之類的！
+TalkEvent_00_010ID	15		冒険者	ああ、それなら……	Adventurer	Well, actually...	冒险者	哦哦，这样啊……	冒險者	啊，這樣的話……
+TalkEvent_00_010ID	16		冒険者	さっき山道で足をひねってね。\n痛みを止められると助かるんだけど	Adventurer	I twisted my ankle climbing a mountain. I'd like something to stop the pain.	冒险者	我刚刚在山路上扭了脚，\n要是能有办法止痛就好了。	冒險者	我剛才走山道時扭傷了腳，\n如果能幫我止痛就太好了。
+TalkEvent_00_010ID	17	Resna	レスナ	……！　それでしたら、この商品が……！	Resna	I've got just the thing for that!	蕾斯娜	……！那么这款商品就可以……！	蕾斯娜	……！　既然如此，那這個商品……！
+TalkEvent_00_010ID	18	Izana	イザナ	ふー、売れた売れた！\nやったよレスナちゃん、全部売れてる！	Izana	Phew, the people just couldn't get enough. You did it, Resna! You sold everything!	伊札娜	呼，卖了好多！\n太好了蕾斯娜，全都卖出去了！	伊札娜	呼──賣光了、賣光了！\n蕾斯娜太好了，全都賣光了！
+TalkEvent_00_010ID	19	Izana	イザナ	ありがとう、シャリステラ！\nレスナちゃんに色々教えてくれたみたいで	Izana	Thank you, Shallistera! Resna seems to have learned a thing or two from you.	伊札娜	谢谢你，夏莉丝堤拉!\n你好像教了蕾斯娜很多东西。	伊札娜	謝謝妳，夏莉絲堤菈！\n妳好像教了蕾斯娜很多事情呢。
+TalkEvent_00_010ID	20	Shallistera	シャリステラ	ううん、わたしは何もしてないですよ	Shallistera	Oh, no, I didn't do much.	夏莉丝堤拉	没有啦，我没有做什么。	夏莉絲堤菈	沒有喔，我什麼都沒有做。
+TalkEvent_00_010ID	21	Izana	イザナ	またまたー。しばらく一緒に動くんだから、\n遠慮とか謙遜とかやめましょ！	Izana	Aw, c'mon. We're going to be working together from now on, so no need to be so humble!	伊札娜	少来啦。我们还要一起行动一段时间呢，\n客气和谦虚就免啦！	伊札娜	少來了～我們還要一起行動一段時間，\n妳就別跟我客氣和謙虛啦！
+TalkEvent_00_010ID	22	Resna	レスナ	こら、イザナちゃん、なれなれしすぎるよ！\nすみません、シャリステラ先輩！	Resna	Izana, show some respect! I'm so sorry, Miss Shallistera.	蕾斯娜	伊札娜你太自来熟了！\n对不起哦，夏莉丝堤拉前辈！	蕾斯娜	喂，伊札娜，妳太沒大沒小了！\n抱歉，夏莉絲堤菈前輩！
+TalkEvent_00_010ID	23	Shallistera	シャリステラ	ふふ……そうですね、イザナさん。\nわたしが色々教えちゃいました！	Shallistera	Hehe. You were correct, Izana. I showed Resna many things indeed!	夏莉丝堤拉	呵呵……你说得对，伊札娜。\n我教了蕾斯娜很多东西！	夏莉絲堤菈	呵呵……妳說得沒錯，伊札娜。\n我教了蕾斯娜很多事情！
+TalkEvent_00_010ID	24	Resna	レスナ	ああ……そういう先輩も素敵です！	Resna	Oh! Very confident! I like it!	蕾斯娜	啊……前辈这样也好帅！	蕾斯娜	啊……這樣坦白的前輩也很不錯！
+TalkEvent_00_010ID	25	Izana	イザナ	それじゃあ改めて！\n王都へしゅっぱーつ！	Izana	All-righty! To the capital we go!	伊札娜	那就重振旗鼓！\n出发去王都吧！	伊札娜	那我們就重新出發！\n朝著王都啟程吧！
+TalkEvent_00_010ID	26	Resna	レスナ	これだけお金があれば、\n王都についてからもしばらく困らなそうだね	Resna	With this much money, we'll have plenty to last us even after we get to the capital.	蕾斯娜	有这么多钱的话，\n到王都之后也暂时不用愁钱了吧。	蕾斯娜	身上有這麼多錢的話，\n我們到王都之後也暫時不用擔心了吧。
+TalkEvent_00_010ID	27	Shallistera	シャリステラ	あんまり無駄遣いはお勧めしないですよ。\n王都のものはなんでも高いって聞きますから	Shallistera	I think you should still be careful with your spending. I hear that everything in the capital is quite expensive.	夏莉丝堤拉	还是不要乱花比较好哦。\n我听说王都什么东西都很贵。	夏莉絲堤菈	勸妳們別亂花錢比較好哦，\n我聽說王都的東西都很貴。
+TalkEvent_00_010ID	28	Resna	レスナ	え……もしかして足りないってことはないですよね？	Resna	Surely not so expensive that we'd need more money than this... Right?	蕾斯娜	咦……应该不至于不够用吧？	蕾斯娜	咦……應該不至於會不夠用吧？
+TalkEvent_00_010ID	29	Izana	イザナ	そのときはまたお金を稼げばいいよ	Izana	If we don't have enough, we'll just have to make more.	伊札娜	到那时候再赚就好了。	伊札娜	到那時候再賺就好了。
+TalkEvent_00_010ID	30	Resna	レスナ	うん、そうだね！	Resna	That's true.	蕾斯娜	嗯，你说得对！	蕾斯娜	嗯，說得也是！
+TalkEvent_00_010ID	31	Shallistera	シャリステラ	ふふ……頑張って、レスナさん	Shallistera	Hehe. Try your best, Resna.	夏莉丝堤拉	呵呵……加油呀，蕾斯娜。	夏莉絲堤菈	呵呵……蕾斯娜，加油呀。
+TalkEvent_00_010ID	32	Resna	レスナ	私は今、出発点に立っている	Resna	I'm standing at the starting line right now.	蕾斯娜	我现在正站在旅途的起点。	蕾斯娜	我現在正站在起跑點上。
+TalkEvent_00_010ID	33	Resna	レスナ	ここから私の、錬金術士としての冒険が始まるんだ	Resna	This is where my adventure as an alchemist begins.	蕾斯娜	我作为炼金术士的冒险，即将从这里开始。	蕾斯娜	我身為鍊金術士的冒險，即將從這裡開始。
+TalkEvent_00_010ID	34	Resna	レスナ	いざ、参らん！	Resna	Now, onwards!	蕾斯娜	出发吧！	蕾斯娜	好，出發吧！

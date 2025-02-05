@@ -1,0 +1,524 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_02_001ID	0	Empel	アンペル	（誰にでも忘れたい記憶がある）	Empel	(Everyone has things they would rather forget.)	安佩尔	（任谁都有想要忘却的回忆。）	安佩爾	（每個人都有想要忘掉的記憶。）
+LegendEvent_02_001ID	1	Empel	アンペル	（決して忘れてはならない記憶も）	Empel	(As well as memories they want to hold onto as long as possible.)	安佩尔	（也有绝对不能忘却的回忆。）	安佩爾	（也有絕對不能忘掉的記憶。）
+LegendEvent_02_001ID	2	Ryza	ライザ	うん。じゃ……門を閉じるね	Ryza	Yeah. Okay, I'm going to close the gate.	莱莎	嗯。那么……我要关上门了。	萊莎	嗯。那……我要關門了喔。
+LegendEvent_02_001ID	3	Lent	レント	なんだ！？	Lent	What the...?!	兰托	怎么回事？！	蘭托	這是怎麼回事！？
+LegendEvent_02_001ID	4	Tao	タオ	門の向こうから魔物が……！	Tao	There are more monsters coming this way!	塔奥	从门里面钻出了魔物……！	塔奧	魔物從門的另一邊……！
+LegendEvent_02_001ID	5	Lila	リラ	門を閉じさせないつもりか！	Lila	What, so they think they can stop us from closing it?	莉拉	是不想让我们关上门吗？！	莉拉	打算阻止我們關門嗎？！
+LegendEvent_02_001ID	6	Empel	アンペル	させるか！	Empel	Just try it!	安佩尔	休想得逞！	安佩爾	別想得逞！
+LegendEvent_02_001ID	7	Empel	アンペル	う、おおおおおおっ！	Empel	Ngh... Haaaaaah!	安佩尔	唔——哦哦哦哦哦哦！	安佩爾	喝、喝啊啊啊啊啊！
+LegendEvent_02_001ID	8	Ryza	ライザ	アンペルさん！　大丈夫！？	Ryza	Empel! Are you all right?!	莱莎	安佩尔先生！你没事吧？！	萊莎	安佩爾先生！沒事吧！？
+LegendEvent_02_001ID	9	Empel	アンペル	心配いらん！	Empel	Don't worry about me!	安佩尔	不用担心！	安佩爾	不用擔心我！
+LegendEvent_02_001ID	10	Empel	アンペル	（分かっているはずだ。私がどうすべきなのかは）	Empel	(I already know what I have to do. At least, I should.)	安佩尔	（我应该明白自己要做什么。）	安佩爾	（我應該很清楚自己該做什麼才對。）
+LegendEvent_02_001ID	11	Empel	アンペル	ぐ……！　まだまだ……！	Empel	Khh! This isn't over yet...!	安佩尔	呜……！我要撑住……！	安佩爾	唔……！還沒完呢……！
+LegendEvent_02_001ID	12	Empel	アンペル	（思い出せ。この世界での出来事を）	Empel	(Come on, remember! Remember what happened in this world...)	安佩尔	（快想想在这个世界的经历吧。）	安佩爾	（快想起來……快想起在這個世界的各種經歷。）
+LegendEvent_02_001ID	13	Empel	アンペル	（本当にかけがえのないものはなんなのかを）	Empel	(And what is truly irreplaceable.)	安佩尔	（想想真正无可替代的究竟是什么。）	安佩爾	（還有真正重要的事物是什麼。）
+LegendEvent_02_001ID	14	Empel	アンペル	ようやく人の痕跡を見つけられた。\nどこかしらの街に近づいてきたということか	Empel	Finally, traces of human life. There must be a town or a village nearby.	安佩尔	终于来到有人烟的地方了。\n看来是靠近哪座城镇了吧。	安佩爾	終於發現人類留下的痕跡了。\n也就是說……城鎮大概不遠了吧？
+LegendEvent_02_001ID	15	Empel	アンペル	どうやら生き延びることはできそうだ	Empel	At the very least, it looks like I should have no trouble staying alive.	安佩尔	看来是能活下去了。	安佩爾	看來我似乎能活下去了。
+LegendEvent_02_001ID	16	Empel	アンペル	（それにしても……私は旅をしていたはず。\n　しかし、このような景色には見覚えがない）	Empel	(That being said... I was supposedly traveling. And yet I don't recognize any of this scenery.)	安佩尔	（不过……我明明是在旅行途中，\n但怎么到了这么个陌生的地方。）	安佩爾	（話說回來……我原本應該在旅行才對。\n　然而，我卻對這種景色毫無印象。）
+LegendEvent_02_001ID	17	Empel	アンペル	（眠っている間に何者かに連れ去られたのか？\n　妙なことに巻き込まれたものだ）	Empel	(Did someone drag me away in my sleep? Either way, I seem to be caught up in something rather unusual.)	安佩尔	（我是在睡着的时候被人掳走了吗？\n　看来是碰上了麻烦事啊。）	安佩爾	（難道有人在我睡著時趁機擄走我？\n　所以才會被捲入怪事之中嗎？）
+LegendEvent_02_001ID	18	Empel	アンペル	やれやれ……\nひとまず、少し辺りを調べてみるか	Empel	Oh well. I suppose I'll start by taking a look at my surroundings.	安佩尔	唉……\n先调查一下附近吧。	安佩爾	算了……\n來調查一下周遭吧！
+LegendEvent_02_001ID	19	Empel Vollmer	アンペル・フォルマー	流浪の錬金術士。ある使命を背負って旅をしている。\n見た目は若いが、不思議な貫禄がある	Empel Vollmer	A wandering alchemist burdened with a particular mission. While he might look young, he has a strangely dignified aura.	安佩尔·沃尔默	浪迹天涯的炼金术士，肩负着某种使命踏上旅途。\n年轻的外表下有着不可思议的威严感。	安佩爾‧沃爾默	流浪的鍊金術士。背負著某個使命踏上旅途。\n擁有年輕的外貌，卻散發出一股不可思議的威嚴。
+LegendEvent_02_002ID	0	Empel	アンペル	近くに街があって助かったな。\nここで情報収集をしてみよう	Empel	Thank goodness there was a town nearby. I should be able to get some information here.	安佩尔	还好附近有城镇，\n就在这里收集情报吧。	安佩爾	幸好城鎮就在附近。\n先在這裡收集一些消息好了。
+LegendEvent_02_002ID	1	Empel	アンペル	（しかし、この街並みもまったく見覚えがない）	Empel	(The townscape doesn't look at all familiar, though.)	安佩尔	（可我对这座城镇也毫无印象。）	安佩爾	（不過，這景色對我來說相當陌生。）
+LegendEvent_02_002ID	2	Empel	アンペル	（規模はロテスヴァッサの王都にも劣らないようだが、\n　そこまで大きな都市が近くにあっただろうか……）	Empel	(It doesn't seem to be much smaller than Roteswasser, but...was there always a city this big around here?)	安佩尔	（城镇规模与罗特斯瓦塞的王都相比也毫不逊色，\n　原来附近有这么大规模的都市吗……）	安佩爾	（規模似乎不亞於羅德士瓦瑟的王都，\n　附近有那麼大的都市嗎……）
+LegendEvent_02_002ID	3	Rorona	ロロナ	あのー……	Rorona	Excuse me...	萝乐娜	你好……	蘿樂娜	請問……
+LegendEvent_02_002ID	4	Empel	アンペル	ん？　私に何か用か？	Empel	Hm? Can I help you with something?	安佩尔	嗯？找我有什么事吗？	安佩爾	嗯？妳有事情找我嗎？
+LegendEvent_02_002ID	5	Rorona	ロロナ	いえ、何か悩んでいるみたいだったので、\nどうしたのかなあって。道に迷っちゃったとか？	Rorona	No, you just looked distressed, so I was wondering why. Are you lost, maybe?	萝乐娜	没有，我只是看你好像面露难色，\n所以想问问你怎么了，是迷路了吗？	蘿樂娜	不，我看你似乎相當煩惱，\n所以有點好奇。莫非你迷路了？
+LegendEvent_02_002ID	6	Empel	アンペル	まあ……似たようなものだな。\n初めて来る場所に少し戸惑っていたんだ	Empel	Well... Something like that. It's my first time here, and I'm feeling slightly disoriented.	安佩尔	嗯……差不多可以这么说。\n我第一次来这里，有些摸不着头脑。	安佩爾	嗯……可以這麼說。\n我第一次來這裡，正感到有些困惑。
+LegendEvent_02_002ID	7	Rorona	ロロナ	大きな街ですもんね！\n行きたい場所があるなら案内しますよ？	Rorona	It sure is a big town, huh? Is there anywhere you'd like to go? I can lead the way!	萝乐娜	毕竟这个城镇很大嘛！\n如果你有想去的地方，我可以带你去。	蘿樂娜	畢竟這座城鎮很大嘛！\n你打算去哪裡？我可以帶你過去！
+LegendEvent_02_002ID	8	Empel	アンペル	ふむ、そうだな。人が多く集まるような場所……\nたとえば酒場のような場所があれば案内してほしい	Empel	Hm, in that case... Someplace where a lot of people gather would be helpful. Perhaps a bar?	安佩尔	嗯，我想想。能告诉我哪里有很多人聚集的地方吗……\n比如酒馆之类的。	安佩爾	嗯，這個嘛。請帶我去人們聚集的地方……\n例如像是酒館之類的場所。
+LegendEvent_02_002ID	9	Rorona	ロロナ	でしたら、うちのお店にご案内します！	Rorona	Then I'll take you straight to my cafe!	萝乐娜	那我就带你去我们店里吧！	蘿樂娜	這樣的話，我帶你去我們的店吧！
+LegendEvent_02_002ID	10	Empel	アンペル	店？	Empel	Your cafe?	安佩尔	店？	安佩爾	店？
+LegendEvent_02_002ID	11	Rorona	ロロナ	はい。すぐそこにあるカフェなんです。\n色んな冒険者の方が集まる場所なんですよ	Rorona	Yup, I work there! It's really close by, and all sorts of adventurers drop in regularly.	萝乐娜	是的，是一家咖啡厅，离这里很近。\n有许多冒险者都会聚集在这里。	蘿樂娜	對，就是附近的咖啡廳。\n很多冒險者會聚在那裡。
+LegendEvent_02_002ID	12	Rorona	ロロナ	ただいま戻りましたー	Rorona	Hellooo!	萝乐娜	我回来了——	蘿樂娜	我回來了～
+LegendEvent_02_002ID	13	Ryza	ライザ	ロロナおかえりー……って、ええっ！？	Ryza	Oh, Rorona, you're ba—whoa! What?!	莱莎	萝乐娜，你回来啦……咦？！	萊莎	蘿樂娜，歡迎回來……呃，咦！？
+LegendEvent_02_002ID	14	Ryza	ライザ	ア、アンペルさん！？	Ryza	Empel?!	莱莎	安、安佩尔先生？！	萊莎	安、安佩爾先生！？
+LegendEvent_02_002ID	15	Empel	アンペル	ん……？	Empel	Huh?	安佩尔	嗯……？	安佩爾	嗯……？
+LegendEvent_02_002ID	16	Klaudia	クラウディア	お久しぶりです、アンペルさん！	Klaudia	Hello, Empel! It certainly has been a while, hasn't it?	科洛蒂娅	好久不见，安佩尔先生！	科洛蒂婭	安佩爾先生，好久不見！
+LegendEvent_02_002ID	17	Lila	リラ	なんだ。お前もこちらに来ていたのか	Lila	What, you're here too?	莉拉	原来你也来到这里了啊。	莉拉	搞什麼，連你也來這裡了啊？
+LegendEvent_02_002ID	18	Tao	タオ	何はともあれ、会えてよかった！	Tao	It's so good to see you again!	塔奥	总之能见到你真是太好了！	塔奧	無論如何，能見到你真是太好了！
+LegendEvent_02_002ID	19	Lent	レント	これでまた全員集合、だな	Lent	Well, I guess the gang's all here.	兰托	这下大家都到齐了。	蘭托	這樣又全員到齊了呢。
+LegendEvent_02_002ID	20	Rorona	ロロナ	ライザさんたちのお知り合いだったんですね！\n再会できてよかったです！	Rorona	Oh, so you're one of Ryza's friends! It's so great that you all managed to meet back up here!	萝乐娜	原来你是莱莎小姐他们的熟人啊！\n能重聚太好了，真为你们高兴！	蘿樂娜	原來你認識萊莎小姐她們呀！\n能重逢真是太好了！
+LegendEvent_02_002ID	21	Empel	アンペル	……待ってくれ。お前さんたちは誰なんだ？	Empel	Wait just a moment. Who are all of you?	安佩尔	……等等，你们都是什么人？	安佩爾	……慢著，你們是誰？
+LegendEvent_02_002ID	22	Ryza	ライザ	え……？	Ryza	Huh?	莱莎	咦……？	萊莎	咦……？
+LegendEvent_02_002ID	23	Empel	アンペル	なぜ私の名前を知っている。\nどこかで会ったことがあったか？	Empel	You seem to know my name for some reason, but have we met before?	安佩尔	你们怎么知道我的名字。\n我在哪里见过你们吗？	安佩爾	為什麼知道我的名字？\n我們曾經見過嗎？
+LegendEvent_02_002ID	24	Ryza	ライザ	ちょ、ちょっとアンペルさん。冗談はやめてよ	Ryza	Come on, Empel. Quit pulling our legs, okay?	莱莎	不、不是吧安佩尔先生，别开玩笑啊。	萊莎	等、等一下，安佩爾先生，別開玩笑了。
+LegendEvent_02_002ID	25	Lent	レント	冗談にしても面白くないぜ。\n感動の再会だってのに	Lent	Yeah, that's not funny. This is supposed to be a touching reunion!	兰托	这个玩笑一点都不好笑。\n好不容易又见面了，应该是感动的时刻啊。	蘭托	這種玩笑可一點都不有趣。\n久別重逢明明是很感人的事情。
+LegendEvent_02_002ID	26	Lila	リラ	それとも、起きたばかりで寝ぼけているのか？	Lila	Unless you just woke up and you're still half-asleep?	莉拉	难道说你刚起来，还没睡醒？	莉拉	是不是因為你剛睡醒，腦袋還不太清楚？
+LegendEvent_02_002ID	27	Empel	アンペル	いや、そんなつもりはないんだが……	Empel	No, I don't believe that's the case.	安佩尔	不，并不是那样……	安佩爾	不，應該不是這樣……
+LegendEvent_02_002ID	28	Empel	アンペル	悪いが、お前さんたちのことはまったく知らないんだ。\nええと今、彼女が「ライザ」と呼んでいたが……	Empel	"I'm sorry, but I genuinely don't know any of you. Er... I believe that lady mentioned a ""Ryza,"" though?"	安佩尔	不好意思，我对你们全无印象。\n唔，刚才你叫她“莱莎”……	安佩爾	抱歉，我對你們一無所知。\n呃，她剛才提到「萊莎」……
+LegendEvent_02_002ID	29	Ryza	ライザ	あたしがライザ！　それにこっちが、クラウディア、\nレント、タオ、リラさん……	Ryza	That's me! I'm Ryza! And this is Klaudia, Lent, Tao, and Lila.	莱莎	我就是莱莎！他们是科洛蒂娅、\n兰托、塔奥、莉拉小姐……	萊莎	我就是萊莎！然後這位是科洛蒂婭、\n蘭托、塔奧、莉拉小姐……
+LegendEvent_02_002ID	30	Ryza	ライザ	本当に……分からないの？	Ryza	You really don't remember any of us?	莱莎	你真的……不认识我们？	萊莎	你真的……沒印象嗎？
+LegendEvent_02_002ID	31	Empel	アンペル	ああ……	Empel	No, I'm afraid not.	安佩尔	是的……	安佩爾	對……
+LegendEvent_02_002ID	32	Lila	リラ	アンペル……お前、まさか記憶がないのか？	Lila	Empel, did you lose your memories?	莉拉	安佩尔……你该不会是失忆了吧？	莉拉	安佩爾……你該不會失憶了吧？
+LegendEvent_02_002ID	33	Klaudia	クラウディア	そんな……！	Klaudia	Oh no!	科洛蒂娅	什么……！	科洛蒂婭	怎麼會……！
+LegendEvent_02_002ID	34	Empel	アンペル	すまない……少し頭を整理させてくれ	Empel	Sorry, I need a minute to get my thoughts in order.	安佩尔	抱歉……给我点时间梳理一下情况。	安佩爾	抱歉……讓我整理一下思緒。
+LegendEvent_02_002ID	35	Ryza	ライザ	アンペルさん……	Ryza	Empel...	莱莎	安佩尔先生……	萊莎	安佩爾先生……
+LegendEvent_02_002ID	36	Reisalin Stout	ライザリン・シュタウト	カフェで受付をしている錬金術士。\n明るく行動的で、いつも新しい冒険を探している	Reisalin Stout	An alchemist who works as a hostess at the cafe. She's cheerful and always on the lookout for new adventures.	莱莎琳·斯托特	在咖啡厅接待客人的炼金术士。\n阳光开朗，行动力强，总是在追寻全新的冒险。	萊莎琳‧斯托特	在咖啡廳當櫃檯小姐的鍊金術士。\n開朗積極，總是在尋求全新的冒險。
+LegendEvent_02_002ID	37	Klaudia Valentz	クラウディア・バレンツ	商家の一人娘。ライザとは親友同士。\n以前、ライザやアンペルたちと一緒にある冒険をした	Klaudia Valentz	The only daughter of a merchant, and Ryza's close friend. She has gone on adventures with Ryza and Empel in the past.	科洛蒂娅·巴兰茨	商人的独生女，莱莎的好朋友。\n以前曾与莱莎、安佩尔等一行人一起冒险过。	科洛蒂婭‧巴蘭茨	商人家庭的獨生女，和萊莎是好朋友。\n曾和萊莎及安佩爾等人一起冒險。
+LegendEvent_02_002ID	38	Lila Decyrus	リラ・ディザイアス	冷静沈着な流浪の戦士。かつてはアンペルと共に\n行動しており、ライザたちの故郷に訪れていた	Lila Decyrus	A cool and collected wandering warrior. She once traveled with Empel to visit Ryza's hometown.	莉拉·德西亚斯	沉着冷静的流浪战士。\n曾与安佩尔一起造访过莱莎等人的故乡。	莉拉‧德西亞斯	冷靜沉著的流浪戰士。曾和安佩爾一同行動，\n造訪了萊莎等人的故鄉。
+LegendEvent_02_002ID	39	Tao Mongarten	タオ・モンガルテン	ライザの幼馴染。知的好奇心が強く、本が大好き。\n時に常人離れした集中力を発揮することも	Tao Mongarten	Ryza's childhood friend. Highly inquisitive, he has a great love of books. Occasionally shows bouts of superhuman concentration.	塔奥·蒙伽特恩	莱莎的青梅竹马。求知若渴，热爱读书。\n偶尔会显现出远超常人的专注。	塔奧‧蒙伽特恩	萊莎的兒時玩伴。求知慾旺盛，是位愛書人。\n有時會展現出超乎常人的專注力。
+LegendEvent_02_002ID	40	Lent Marslink	レント・マルスリンク	ライザの幼馴染。戦士として名を上げるべく、\n修行と戦いの日々を過ごしている	Lent Marslink	Ryza's childhood friend. He spends most of his days training and fighting, and he hopes to make a name for himself someday.	兰托·马斯林克	莱莎的青梅竹马。为了成为赫赫有名的战士，\n日日坚持修行与战斗。	蘭托‧馬斯林克	萊莎的兒時玩伴。為了成為揚名天下的戰士，\n每天過著修行與戰鬥的生活。
+LegendEvent_02_003ID	0	Empel	アンペル	……なるほど、ここは私がいたのとは別の世界なのか。\nそして、お前さんたちとは元の世界で知り合いだった	Empel	I see, so I've stumbled into another world. And in the one I came from, we were all acquaintances.	安佩尔	……我明白了，原来这里不是我原来所在的世界。\n而我跟你们在原来的世界认识。	安佩爾	……原來如此，這裡不是我原本所待的世界啊。\n而你們跟我在原本的世界互相認識。
+LegendEvent_02_003ID	1	Empel	アンペル	今思い出せる情報と符合するところも多い。\nその話はきっと事実なんだろうな	Empel	That does seem to be consistent with most of what I can recall, so I'm certain it's all true.	安佩尔	你们说的也大多符合我现在回忆起来的事，\n看来你们所言非虚。	安佩爾	不少敘述都與我僅存的記憶重合，\n你們應該沒有騙我。
+LegendEvent_02_003ID	2	Lila	リラ	恐らく、この世界にやって来た時に記憶が\n飛んでしまったんだろう。原因は分からんが	Lila	It's entirely possible that your memories flew off somewhere when you arrived here. Though I don't know what could've caused that.	莉拉	不知道原因是什么，\n不过他可能是在来到这个世界的过程中失忆了吧。	莉拉	他恐怕是在來到這世界的時候，\n因為不明原因失憶了。
+LegendEvent_02_003ID	3	Tao	タオ	でも、何もかも忘れてしまったわけじゃないんだよね。\n国の名前も知っていたし……	Tao	Still, it doesn't seem like he's forgotten everything. He did remember the name of the country.	塔奥	但好像也没有完全失忆啊。\n他还记得原来世界的国名……	塔奧	不過，並非遺忘了一切。\n他甚至記得國家的名字……
+LegendEvent_02_003ID	4	Lent	レント	俺たちの故郷……\nクーケン島のことも、知ってるんだろ？	Lent	And you know about our hometown, right? Kurken Island?	兰托	包括我们的故乡库肯岛……\n你也还记得的对吧？	蘭托	你還記得我們的故鄉……\n庫肯島吧？
+LegendEvent_02_003ID	5	Empel	アンペル	ああ。その島を訪れたという記憶はある。\nしかし、そこで何をしていたのかがどうにも思い出せん	Empel	Yes, I do remember visiting Kurken Island. I can't recall anything past that, though.	安佩尔	嗯，我记得我去过那座岛。\n但我怎么也想不起来在那里做了什么。	安佩爾	嗯，我記得自己去過那座島。\n但實在想不起來在那裡做了什麼。
+LegendEvent_02_003ID	6	Lila	リラ	旅の目的も覚えていないのか？	Lila	Do you remember why you were traveling?	莉拉	你也不记得旅行的目的了吗？	莉拉	連為什麼去那裡旅行也不記得了嗎？
+LegendEvent_02_003ID	7	Empel	アンペル	……分からん。\nまるで頭の中にもやがかかったようだ	Empel	No, not in the least. It's as if a fog has settled inside my head.	安佩尔	……不记得。\n我的脑袋里像是笼罩着一层雾。	安佩爾	不記得了……\n簡直像是腦袋裡籠罩著一層迷霧一樣。
+LegendEvent_02_003ID	8	Ryza	ライザ	ねえ、錬金術のことは？　さすがに覚えてるよね？	Ryza	Hey, what about alchemy? You've still got that knowledge, right?	莱莎	那炼金术的事呢？这个总该记得吧？	萊莎	那鍊金術呢？應該還記得吧？
+LegendEvent_02_003ID	9	Empel	アンペル	錬金術……？	Empel	Alchemy...?	安佩尔	炼金术……？	安佩爾	鍊金術……？
+LegendEvent_02_003ID	10	Ryza	ライザ	嘘、それも忘れちゃったの！？	Ryza	No way! You forgot that, too?!	莱莎	怎么可能连这个都忘了？！	萊莎	竟然連這個也忘了嗎！？
+LegendEvent_02_003ID	11	Empel	アンペル	語感からして、なんらかの手法や技術を指す言葉\nなのだろうが……分からんな	Empel	I do have a vague sense of the word, at least. It's some sort of art or technique, but I can't elaborate any further than that.	安佩尔	从字面意义上推测，应该是某种手法或技术……\n但我不知道那是什么。	安佩爾	聽起來像是某種手藝或技術……\n但我不曉得那是什麼。
+LegendEvent_02_003ID	12	Ryza	ライザ	アンペルさんはあたしの錬金術の先生なんだよ！\n頼りになる、すごい錬金術士で……！	Ryza	You taught me alchemy, Empel! You were the best, most reliable alchemist I've ever met!	莱莎	安佩尔先生，你是我的炼金术老师！\n是很可靠的厉害炼金术士……！	萊莎	安佩爾先生是教我鍊金術的老師喔！\n是位既可靠又厲害的鍊金術士……！
+LegendEvent_02_003ID	13	Klaudia	クラウディア	なんだか、アンペルさんにとって大事な記憶だけ\nすっぽり抜けちゃったみたい……	Klaudia	It seems as though his most important memories were simply swept away.	科洛蒂娅	安佩尔先生遗忘的\n好像只有那些重要的记忆……	科洛蒂婭	總覺得安佩爾先生忘記的，\n好像都是相當重要的記憶……
+LegendEvent_02_003ID	14	Tao	タオ	……もしかしたら、なんだけど。アンペルさんは\n錬金術に関する記憶を無くしちゃったんじゃないかな？	Tao	This is only a guess, but...could it be that he lost all memories tied to alchemy?	塔奥	……这只是我的猜测，安佩尔先生该不会\n失去了跟炼金术有关的记忆吧？	塔奧	……我猜，安佩爾先生失去的記憶\n會不會都跟鍊金術有關？
+LegendEvent_02_003ID	15	Ryza	ライザ	錬金術の記憶……確かに、あたしたちとアンペルさんの\n出会いには、錬金術が絡んでるよね	Ryza	Memories related to alchemy, huh? Well, alchemy IS pretty much the reason we met.	莱莎	跟炼金术有关的记忆……我们和安佩尔先生相遇，\n确实跟炼金术有关系。	萊莎	鍊金術的相關記憶……的確，\n我們和安佩爾先生是因為鍊金術才相遇的。
+LegendEvent_02_003ID	16	Lent	レント	島に来たことは覚えてて、俺たちのことは\n覚えてないっていうのも、そう考えると筋が通るかもな	Lent	And that would explain why he can remember coming to Kurken Island, but not meeting us.	兰托	他记得自己来到了岛上，但不记得我们……\n照你的说法好像也说得通。	蘭托	如此一來，就能解釋為何\n他記得來過島上的事情，卻不記得我們了。
+LegendEvent_02_003ID	17	Lila	リラ	アンペルが王都を離れたのも、\n旅を続けている目的も、どちらも錬金術絡みだ	Lila	The reasons he left the capital and decided to keep traveling are both wrapped up in alchemy, too.	莉拉	安佩尔离开王都的原因，\n长期旅行的目的，全都跟炼金术有关。	莉拉	安佩爾之所以離開王都、持續旅行，\n也都跟鍊金術有關。
+LegendEvent_02_003ID	18	Klaudia	クラウディア	でも、そうだとして、\nどうやったら記憶を取り戻せるんだろう……	Klaudia	While that might be the case, how would he even go about getting those memories back?	科洛蒂娅	可如果真是这样，\n该怎么做才能找回记忆呢……	科洛蒂婭	不過，如果是這樣的話，\n該如何恢復記憶呢……
+LegendEvent_02_003ID	19	Empel	アンペル	……事情は大体分かった。\nしかし、現状ではどうにもならんようだ	Empel	Well, I believe I've gotten a general idea of the situation. However, that doesn't change my own predicament.	安佩尔	……我大致清楚情况了。\n但目前好像没什么办法。	安佩爾	……我大致了解情況了。\n但目前似乎束手無策。
+LegendEvent_02_003ID	20	Ryza	ライザ	ま、待ってよ！　これからどうするの？	Ryza	W-Wait! What are you going to do now?	莱莎	等、等等！那你之后打算怎么办？	萊莎	等、等一下！你今後打算怎麼辦？
+LegendEvent_02_003ID	21	Empel	アンペル	この世界で生きる道を探す。幸い、人として\n最低限の知識は頭に残っているようだからな	Empel	Figure out some way of getting by in this world. I'm grateful that, at the very least, I retained the bare minimum knowledge required to exist.	安佩尔	寻找在这个世界活下去的方法。\n幸好我脑袋里还有最基本的知识。	安佩爾	摸索在這個世界的生存之道。\n幸好我似乎還保有身為人最基本的知識。
+LegendEvent_02_003ID	22	Empel	アンペル	お前さんたちにこれ以上迷惑をかけるわけにもいくまい	Empel	I won't trouble you people any further.	安佩尔	我也不能继续给你们添麻烦。	安佩爾	我不能給你們添更多麻煩。
+LegendEvent_02_003ID	23	Ryza	ライザ	迷惑だなんて思ってないよ！	Ryza	You weren't bothering us to begin with!	莱莎	你没有给我们添麻烦啊！	萊莎	我一點也不覺得麻煩！
+LegendEvent_02_003ID	24	Klaudia	クラウディア	アンペルさんにはたくさんお世話になりました。\nこのまま放っておくわけにはいきません	Klaudia	You've done a lot for me, Empel. There's no way I could just let you wander off in this state!	科洛蒂娅	安佩尔先生帮了我们许多。\n我们不会弃你于不顾的。	科洛蒂婭	我受到安佩爾先生很多照顧，\n沒辦法坐視不管。
+LegendEvent_02_003ID	25	Ryza	ライザ	アンペルさんの記憶が戻るよう、\nあたしたちも協力するよ！	Ryza	We're going to do whatever we can to get your memories back!	莱莎	我们还会帮你找回记忆！	萊莎	我們也會協助\n安佩爾先生取回記憶！
+LegendEvent_02_003ID	26	Lent	レント	ここにいる全員、同じ気持ちだと思うぜ	Lent	Everyone here feels the same way, you know.	兰托	在这里的所有人应该都是这么想的。	蘭托	在場所有人應該都是這麼想的喔。
+LegendEvent_02_003ID	27	Empel	アンペル	お前さんたち……	Empel	I...	安佩尔	你们……	安佩爾	你們幾個……
+LegendEvent_02_003ID	28	Ryza	ライザ	ねえ、タオ！　アンペルさんの記憶を取り戻す方法、\n何かないかな？	Ryza	Hey, Tao! Do you have any ideas of how we could get Empel's memories back?	莱莎	塔奥，你知不知道\n有什么办法能帮安佩尔先生找回记忆？	萊莎	嘿，塔奧！\n你知道能讓安佩爾先生恢復記憶的方法嗎？
+LegendEvent_02_003ID	29	Tao	タオ	そうだね……。本で読んだことがあるのは、\n催眠をかけて思い出させるとか……	Tao	Let's see... I read in a book once that hypnosis can be effective.	塔奥	我想想……我在书上看到过，\n可以催眠对方使其回忆起过去的事……	塔奧	這個嘛……我曾在書上看過\n用催眠取回記憶的方法……
+LegendEvent_02_003ID	30	Ryza	ライザ	なんか危なそうだなあ……\nもっと平和な方法ない？	Ryza	That sounds a little dangerous, though. Do you have anything gentler?	莱莎	听起来有些危险……\n有没有稳妥点的办法？	萊莎	感覺很危險耶……\n沒有更溫和的方式嗎？
+LegendEvent_02_003ID	31	Tao	タオ	あとは、元々の知り合いとたくさん会話したり、\n昔一緒にやってたことをもう一度やってみたりとか	Tao	Well, talking with your old acquaintances and reliving past experiences is another option.	塔奥	再就是跟熟人多聊聊，\n还有去做曾经一起做过的事。	塔奧	還有，多和認識的人聊天\n或嘗試以前一起做過的事情……等。
+LegendEvent_02_003ID	32	Lila	リラ	それなら、ちょうどいい話があるじゃないか	Lila	Great, we have just the thing for that.	莉拉	那不是正好？	莉拉	既然如此，時機不是正好嗎？
+LegendEvent_02_003ID	33	Ryza	ライザ	ああ……確かに！　さっき受けた依頼！	Ryza	Oh, right! The request we just picked up!	莱莎	啊……对了！我们刚才接到的那份委托……！	萊莎	哦……沒錯！剛才我們接下了一個委託！
+LegendEvent_02_003ID	34	Empel	アンペル	…………？　なんだ、それは？	Empel	Hm? What's that?	安佩尔	……？那是什么？	安佩爾	嗯…………？什麼委託？
+LegendEvent_02_003ID	35	Ryza	ライザ	アンペルさん！\nあたしたちと一緒に「冒険」に行かない？	Ryza	Empel! Won't you come adventuring with us?	莱莎	安佩尔先生！\n你要不要跟我们一起去“冒险”？	萊莎	安佩爾先生！\n要不要和我們一起去「冒險」呀？
+LegendEvent_02_004ID	0	Klaudia	クラウディア	ここではお仕事の依頼を受けることができるんです。\nこれは、さっき私たちが受けてきたもので……	Klaudia	This is a place where people can take on work in the form of requests. We happened to accept one just before you arrived.	科洛蒂娅	在这家咖啡厅可以接受工作的委托。\n这是我们刚才接到的……	科洛蒂婭	在這裡可以承接各種委託。\n我們剛才接下的是……
+LegendEvent_02_004ID	1	Empel	アンペル	「『楽園』と呼ばれる遺跡の調査」……	Empel	"""Investigate the ruins known as Paradise""..."	安佩尔	“调查人称‘乐园’的遗迹”……	安佩爾	「調查被稱為『樂園』的遺跡」……
+LegendEvent_02_004ID	2	Tao	タオ	その調査の計画を話し合ってるところに\nアンペルさんがやって来たんだよ	Tao	In fact, you walked in while we were discussing the best way to go about that.	塔奥	你刚才来到咖啡厅的时候，\n我们正在讨论这份委托的调查计划。	塔奧	我們在討論調查計畫時，\n安佩爾先生就來了。
+LegendEvent_02_004ID	3	Lila	リラ	お前は旅をしながら、このような遺跡の調査を\nよく行っていた。それは覚えているか？	Lila	You used to go survey ruins like these all the time when you were out traveling. Do you remember that?	莉拉	你以前在旅途中也经常会去调查这类遗迹。\n还记得吗？	莉拉	還記得嗎？\n你以前經常在旅行時順道調查遺跡。
+LegendEvent_02_004ID	4	Empel	アンペル	……旅の途中、各地の遺跡に立ち寄ったのは\n覚えている。だが、それがなぜなのかが分からない	Empel	I do, somewhat. I know I've seen many ruins in many places, but I couldn't say why.	安佩尔	……我记得在旅途中去过各地的遗迹。\n但我不知道为什么会去。	安佩爾	……我記得自己曾在旅途中造訪各地的遺跡。\n但我忘了為何要這麼做。
+LegendEvent_02_004ID	5	Tao	タオ	クーケン島と同じだね。行った場所のことは\n分かるけど、その理由や出来事は覚えていない……	Tao	Just like Kurken Island, then. The locations have stuck with you, but not the reasons or the events themselves.	塔奥	这就跟库肯岛的情况一样，他记得自己去过什么地方，\n但不记得去那里的原因和过程……	塔奧	看來跟庫肯島一樣。雖然擁有造訪過的記憶，\n卻不記得原因和發生了什麼事……
+LegendEvent_02_004ID	6	Lila	リラ	旅の同行者が誰だったかも思い出せないか？	Lila	What about who you were traveling with? Do you remember that?	莉拉	你也不记得和你一起旅行的人吗？	莉拉	你也想不起當時的旅伴了嗎？
+LegendEvent_02_004ID	7	Empel	アンペル	ああ……少なくとも、思い出せる限り\n私はずっと一人で旅をしていた	Empel	Well...from what little I do remember, I seem to have been by myself the whole time.	安佩尔	嗯……至少在我现在的记忆里，\n我一直都是一个人旅行的。	安佩爾	嗯……在僅存的記憶中，\n我一直都是獨自旅行。
+LegendEvent_02_004ID	8	Lila	リラ	……そうか	Lila	I see.	莉拉	……这样啊。	莉拉	……這樣啊。
+LegendEvent_02_004ID	9	Lent	レント	まあ、実際に調査してたらなんか思い出すかも\nしれないからな。早速……と行きたいんだが	Lent	Anyway, going out and actually investigating might spark your memories. But as much as I'd like to hurry up and get a move on...	兰托	总之实际调查一番说不定能想起些什么，\n我是很想号召大家立刻出发啦，不过……	蘭托	開始調查後說不定就會想起來了。\n雖然很想立刻出發，不過……
+LegendEvent_02_004ID	10	Lent	レント	言い出しっぺのライザはどこ行ったんだ？	Lent	Where did Ryza run off to? Wasn't this all her idea?	兰托	提议人莱莎去哪儿了？	蘭托	率先提議的人不是萊莎嗎？她去哪裡了？
+LegendEvent_02_004ID	11	Klaudia	クラウディア	それが、何か準備するものがあるとかって……	Klaudia	Oh, she said she had something to prepare.	科洛蒂娅	她好像要做什么准备……	科洛蒂婭	她好像去準備什麼東西了……
+LegendEvent_02_004ID	12	Ryza	ライザ	みんなお待たせー！	Ryza	Sorry to keep you all waiting!	莱莎	让你们久等了！	萊莎	大家久等了～！
+LegendEvent_02_004ID	13	Klaudia	クラウディア	ライザ！　って、その格好は……？	Klaudia	Ryza! That outfit you're wearing, it looks...	科洛蒂娅	莱莎！咦，你这身是……？	科洛蒂婭	萊莎！妳這身裝扮是……？
+LegendEvent_02_004ID	14	Tao	タオ	なんだかアンペルさんの服と似てるような……	Tao	An awful lot like something Empel would wear.	塔奥	好像安佩尔先生的衣服……	塔奧	總覺得跟安佩爾先生的衣服好像……
+LegendEvent_02_004ID	15	Ryza	ライザ	その通り！　アンペルさんっぽい服を探してきたんだ	Ryza	Exactly! I went digging around for clothes that looked like they'd be his style.	莱莎	没错！我去找了安佩尔先生风格的衣服。	萊莎	說對了！剛才我去把很像安佩爾先生的衣服找出來。
+LegendEvent_02_004ID	16	Tao	タオ	なんでわざわざ？	Tao	Er, why?	塔奥	为什么要特地换衣服？	塔奧	為何要特地這麼做？
+LegendEvent_02_004ID	17	Ryza	ライザ	今まではアンペルさんに色々教わってきたわけ\nだけど……今回は立場が逆でしょ？	Ryza	You've spent all this time teaching me all kinds of things, but now our positions are reversed, right?	莱莎	因为过去一直是安佩尔先生教导我各种知识……\n但这次我们的身份互换了。	萊莎	即便安佩爾先生曾教過我許多事……\n但現在我們的立場對調了，沒錯吧？
+LegendEvent_02_004ID	18	Ryza	ライザ	記憶喪失のアンペルさんのために、\nあたしたちが色々教えてあげないといけないから！	Ryza	That makes it my duty to show you what's what, since you don't remember!	莱莎	这次轮到我们帮助失忆的安佩尔先生，\n要负起责任教会他各种知识！	萊莎	為了幫助失憶的安佩爾先生，\n我們必須教他很多事才行！
+LegendEvent_02_004ID	19	Lent	レント	はあ……つまり、せっかくだから\n先生気分に浸りたいってわけか	Lent	*Sigh* Basically, you just wanted to go the full professor route.	兰托	唉……也就是说，机会难得，\n你想体验一把当老师的感觉对吧。	蘭托	唉……其實，\n妳是想趁機體會當老師的感覺吧？
+LegendEvent_02_004ID	20	Ryza	ライザ	あー、バカにしてるでしょ！	Ryza	Hey! You're poking fun at me, aren't you?	莱莎	啊，你是在取笑我吧！	萊莎	啊～你是不是在嘲笑我！
+LegendEvent_02_004ID	21	Klaudia	クラウディア	まあまあ。ライザもアンペルさんのために\n色々考えてるんだよ	Klaudia	Now, now. I'm sure Ryza is simply thinking of Empel in her own way.	科洛蒂娅	好啦好啦。\n莱莎也为安佩尔先生考虑了很多。	科洛蒂婭	好了好了，\n萊莎也是為了安佩爾先生處處設想啊。
+LegendEvent_02_004ID	22	Empel	アンペル	ふっ……はははっ	Empel	Pfft... Hahaha!	安佩尔	呵……哈哈哈。	安佩爾	呵……哈哈哈！
+LegendEvent_02_004ID	23	Lila	リラ	どうした？　アンペル	Lila	Uh, Empel? You okay?	莉拉	安佩尔，你怎么了？	莉拉	安佩爾，怎麼了？
+LegendEvent_02_004ID	24	Empel	アンペル	いや、微笑ましいと思っただけだ。\n仲がいいんだな、お前さんたちは	Empel	Yes, I just thought that was rather charming. You all get along so well.	安佩尔	没什么，我只是觉得这场面很温馨。\n你们关系真好。	安佩爾	沒事，只是覺得這種關係很棒。\n你們的感情真好。
+LegendEvent_02_004ID	25	Ryza	ライザ	そうやって、はっきり言われると恥ずかしいなあ……	Ryza	Being told that point blank is a little embarrassing.	莱莎	你说得这么直接，我都不好意思了……	萊莎	被這麼一說，總覺得有點不好意思……
+LegendEvent_02_004ID	26	Empel	アンペル	それに、先ほどからそうだったが……\n私は存外お前さんたちに慕われていたようだ	Empel	Also, this dawned on me earlier, but...I seem to be more important to you than I had expected.	安佩尔	而且从刚才的一系列表现来看……\n你们似乎还挺敬仰我的。	安佩爾	而且，從剛才開始……\n我就覺得你們似乎很仰慕我，真令人意外。
+LegendEvent_02_004ID	27	Empel	アンペル	それを忘れてしまっていることが、\n申し訳なく感じる	Empel	That I've forgotten as much is rather regrettable.	安佩尔	可我却忘了你们，\n这让我感到很抱歉。	安佩爾	而我卻什麼也想不起來，\n非常抱歉。
+LegendEvent_02_004ID	28	Klaudia	クラウディア	アンペルさんが気に病むことではないと思います	Klaudia	That's nothing you need to worry about, Empel.	科洛蒂娅	安佩尔先生，你不必为这个耿耿于怀。	科洛蒂婭	安佩爾先生，你不需要放在心上。
+LegendEvent_02_004ID	29	Lent	レント	そうだぜ。\n忘れちまったもんは思い出せばいいだけだしな	Lent	Yeah. You just have to remember what you're missing, and it'll all work out.	兰托	是啊，忘了的话再回忆起来就好。	蘭托	沒錯。\n忘記的話，只要想起來就好啦。
+LegendEvent_02_004ID	30	Empel	アンペル	ああ、そうだな……	Empel	Mm, I suppose so.	安佩尔	嗯，也对……	安佩爾	嗯，說得也是……
+LegendEvent_02_004ID	31	Empel	アンペル	一応、改めて挨拶はしておこう。私はアンペル。\nよろしく、ライザ	Empel	Well then, allow me to introduce myself again. I'm Empel. I'll be in your care, Ryza.	安佩尔	那我重新自我介绍一下吧，我叫安佩尔。\n请多关照，莱莎。	安佩爾	那讓我重新自我介紹吧！我叫做安佩爾。\n萊莎，請多指教。
+LegendEvent_02_004ID	32	Ryza	ライザ	はい！	Ryza	Sure thing!	莱莎	好的！	萊莎	好的！
+LegendEvent_02_004ID	33	Ryza	ライザ	――それじゃ、出発しよう！\nアンペルさんの記憶を取り戻す冒険へ！	Ryza	Okay, let's head out! We've got a memory-recovering adventure to embark on!	莱莎	——那就出发啦！\n踏上冒险之旅，找回安佩尔先生的记忆！	萊莎	那──我們出發吧！\n展開讓安佩爾先生恢復記憶的冒險！
+LegendEvent_02_005ID	0	Klaudia	クラウディア	「楽園」って呼ばれる遺跡……\nどんな所なのかな	Klaudia	"I wonder what sort of ruins they must be to have earned the name ""Paradise."""	科洛蒂娅	人称“乐园”的遗迹……\n那到底是什么样的地方呢？	科洛蒂婭	被稱為「樂園」的遺跡……\n是什麼樣的地方呢？
+LegendEvent_02_005ID	1	Lila	リラ	自分の目で確かめればいい。\nこのまま進んでいけば、そのうち見えてくるぞ	Lila	You'll just have to see for yourself. And if we keep going at this pace, it won't be long before you do.	莉拉	亲眼去见证吧。\n继续前进的话总能看到。	莉拉	用自己的雙眼親自確認吧。\n繼續前進的話，很快就會看到了。
+LegendEvent_02_005ID	2	Ryza	ライザ	そうだね！　よーし！\nみんな、張り切っていこう！	Ryza	You're right! We'll be there in a hop, a skip, and a jump!	莱莎	没错！好！\n各位，铆足干劲上吧！	萊莎	就是說呀！\n好～！大家打起精神吧！
+LegendEvent_02_005ID	3	Lent	レント	はぁ……お前、とにかく先頭に立とうとするとこ\n相変わらずだよな……	Lent	*Sigh* There you go, leading the pack as usual...	兰托	唉……你还是老样子，\n做什么都要抢在前头……	蘭托	唉……在打頭陣這方面\n妳總是不落人後呢……
+LegendEvent_02_005ID	4	Ryza	ライザ	え？　何かまずかった！？	Ryza	Huh? What's so bad about that?!	莱莎	咦？有什么问题吗？！	萊莎	咦？這樣不好嗎！？
+LegendEvent_02_005ID	5	Klaudia	クラウディア	ふふっ。すごく張り切ってるんだね、ライザ	Klaudia	Hehe. You're so enthusiastic about this, Ryza.	科洛蒂娅	呵呵，莱莎，你很有干劲呢。	科洛蒂婭	呵呵，萊莎妳真是鬥志十足。
+LegendEvent_02_005ID	6	Ryza	ライザ	うん！　元の世界の遺跡と何か関係あるかもしれないし\n気になっちゃってね	Ryza	Who wouldn't be? I'd like to know if there's some sort of connection with the ruins back in our world.	莱莎	嗯！这可能跟我们世界的遗迹存在关联，\n所以我很在意嘛。	萊莎	嗯！畢竟那裡可能跟原本世界的遺跡有關，\n所以引起了我的興趣。
+LegendEvent_02_005ID	7	Tao	タオ	そういえば、アンペルさんと初めて会ったのも、\nみんなで島にある遺跡を調べに行った時だったっけ	Tao	That reminds me, we first met Empel when we were exploring the ones on our island.	塔奥	说起来，我们就是一起在岛上调查遗迹的时候，\n第一次遇到了安佩尔先生啊。	塔奧	說到這個，我們第一次見到安佩爾先生，\n就是在大家去調查島上遺跡的時候吧？
+LegendEvent_02_005ID	8	Ryza	ライザ	そうそう！\n魔物に襲われたところを助けてもらったんだよ	Ryza	That's right! He saved us from a monster attack.	莱莎	没错！\n当时魔物正要攻击我们，是安佩尔先生救了我们！	萊莎	沒錯！\n安佩爾先生救了遭到魔物襲擊的我們。
+LegendEvent_02_005ID	9	Empel	アンペル	ほう、そうだったのか。\nなるほど、私はお前さんたちの命の恩人だったわけだ	Empel	Oh, is that what happened? It seems that you really are rather indebted to me, then.	安佩尔	哦，还有这回事。\n我还是你们的救命恩人啊。	安佩爾	哦？有這麼一回事啊。\n原來如此，所以我是你們的救命恩人。
+LegendEvent_02_005ID	10	Lent	レント	ああ。リラさんともどもな	Lent	Yeah. And Lila, too.	兰托	嗯，莉拉小姐也是。	蘭托	嗯，都是多虧了你和莉拉姐。
+LegendEvent_02_005ID	11	Empel	アンペル	ん？　それはどういうことだ？	Empel	Hm? How so?	安佩尔	嗯？怎么回事？	安佩爾	嗯？什麼意思？
+LegendEvent_02_005ID	12	Lila	リラ	島に調査に来た時、私はお前と行動を共にしていた。\n同じ目的のためにな	Lila	I ended up exploring the island together with you. We had the same goal, after all.	莉拉	我们是为了实现共同的目的，\n一起去那座岛上调查的。	莉拉	去島上調查時，我和你是一起行動的。\n因為我們有相同的目的。
+LegendEvent_02_005ID	13	Empel	アンペル	そうだったのか。では、先ほどお前さんが言っていた\n旅の同行者というのは……	Empel	Ah, I see. Then, when you were asking about who I was traveling with...	安佩尔	这样啊。\n那你之前提到的一起旅行的人……	安佩爾	原來如此。\n那妳剛才提到的旅伴……
+LegendEvent_02_005ID	14	Lila	リラ	私のことだ	Lila	It was me.	莉拉	就是我。	莉拉	就是我。
+LegendEvent_02_005ID	15	Empel	アンペル	そうか……いや、本当にすまないな	Empel	Right. I... You have my apologies.	安佩尔	这样啊……真是抱歉。	安佩爾	這樣啊……真是抱歉。
+LegendEvent_02_005ID	16	Empel	アンペル	よかったら、旅の思い出でも話してくれないか？\n何か思い出すかもしれない	Empel	Would you mind telling me some stories about our travels? It might help me remember something.	安佩尔	如果你愿意，能跟我说说旅途中发生过的事吗？\n这样说不定能唤醒一些记忆。	安佩爾	方便的話，能不能跟我聊聊旅行的回憶？\n或許我會想起來。
+LegendEvent_02_005ID	17	Lila	リラ	気が向いたらな	Lila	Maybe. If I feel like it.	莉拉	等我有空吧。	莉拉	等我想說的時候再告訴你。
+LegendEvent_02_005ID	18	Klaudia	クラウディア	リラさん、どうしたんだろう……	Klaudia	Goodness, what was that about?	科洛蒂娅	莉拉小姐这是怎么了……	科洛蒂婭	莉拉小姐她怎麼了……
+LegendEvent_02_005ID	19	Empel	アンペル	気分を害してしまったのだろうか……。\n私が何も覚えていないものだから	Empel	I'd imagine that her feelings have been wounded, given that I can't recall, er, her.	安佩尔	是我惹她不开心了吧……\n毕竟我什么都不记得了。	安佩爾	可能被我惹惱了吧……\n因為我什麼都不記得了。
+LegendEvent_02_005ID	20	Lent	レント	そんなことで怒る人じゃないと思うけどな	Lent	I don't think she's the sort to let that upset her, though.	兰托	不过感觉她不是会为这种事生气的人。	蘭托	我覺得她不會因為這種事生氣啦。
+LegendEvent_02_005ID	21	Ryza	ライザ	え、えーと！　さっきの話の続きなんだけど！	Ryza	Um! Returning to an earlier topic.	莱莎	各、各位！我想继续刚才的话题！	萊莎	那、那個！剛才的事情還沒說完！
+LegendEvent_02_005ID	22	Ryza	ライザ	アンペルさんに助けてもらった時、\nあたしは初めて錬金術を見たんだ	Ryza	When you saved us, that was the first time I saw alchemy.	莱莎	就在安佩尔先生救我们的时候，\n我第一次见识到了炼金术。	萊莎	我第一次見識到鍊金術，\n是在安佩爾先生來救我們的時候。
+LegendEvent_02_005ID	23	Ryza	ライザ	こんなのできたらかっこいいなあ、って思って、\nそれからアンペルさんに弟子入りしたの	Ryza	I thought it was really cool, so I asked to be your apprentice.	莱莎	我当时想，要是自己也能做到就太帅气了，\n于是我向安佩尔先生拜了师。	萊莎	當時覺得鍊金術相當帥氣，\n於是就拜安佩爾先生為師了。
+LegendEvent_02_005ID	24	Empel	アンペル	なるほど。ここに来る途中にも少し話してもらったが、\nそんな不思議な術を自分が使っていたとは信じられん	Empel	I see. Although we talked about it a little on our way here, I'm still finding it hard to believe that I used such a mysterious technique.	安佩尔	原来是这样。来这里的路上就听你说过一些，\n可我还是不敢相信自己会用如此神奇的法术。	安佩爾	原來如此。雖然來到這裡的途中也聽說了一點，\n但我依舊不敢相信自己會使用那麼不可思議的技術。
+LegendEvent_02_005ID	25	Ryza	ライザ	遺跡調査が一段落したら、アトリエにも行ってみようよ	Ryza	Once we've taken a look around the ruins, we should stop by the atelier!	莱莎	等遗迹调查告一段落了，我们也去一趟炼金工房吧。	萊莎	等遺跡調查告一段落後，要不要來參觀鍊金工房？
+LegendEvent_02_005ID	26	Ryza	ライザ	このライザ先生が、\nアンペルさんに色々教えちゃうよ！	Ryza	Professor Ryza will show you everything there is to know!	莱莎	莱莎老师会教给安佩尔先生很多知识哦！	萊莎	讓我萊莎老師\n指導安佩爾先生各種知識吧！
+LegendEvent_02_005ID	27	Empel	アンペル	ふっ、楽しみにしておこう	Empel	Heh. I'm looking forward to it.	安佩尔	呵，我很期待。	安佩爾	呵，我很期待。
+LegendEvent_02_006ID	0	Lila	リラ	ここが「楽園」か	Lila	So, this is Paradise?	莉拉	这里就是“乐园”啊。	莉拉	這裡就是「樂園」啊。
+LegendEvent_02_006ID	1	Lent	レント	腕が鳴るな！	Lent	I can't wait to check it out!	兰托	我迫不及待想开始探索了！	蘭托	我簡直等不及了！
+LegendEvent_02_006ID	2	Empel	アンペル	「楽園」というには、いささか寂しい雰囲気だな。\nなぜそう呼ばれているんだ？	Empel	There's something rather lonesome about a name like that. I do wonder why it's called that.	安佩尔	说是“乐园”，但感觉气氛还挺寂寥的。\n为什么会这么叫它呢？	安佩爾	雖然被稱為「樂園」，氣氛卻有些寂寥呢。\n有人知道這地名的由來嗎？
+LegendEvent_02_006ID	3	Ryza	ライザ	それはですね！　えーと、うーんと……なんだっけ？	Ryza	Well! I'll have you know that...uh... Ummm...	莱莎	那是因为……！唔，是因为……什么来着？	萊莎	讓我來告訴你吧！呃，我想想……是為什麼呀？
+LegendEvent_02_006ID	4	Lent	レント	頼りにならねえ先生だな……	Lent	Yeesh, some professor we've got.	兰托	真是个靠不住的老师啊……	蘭托	這老師真靠不住……
+LegendEvent_02_006ID	5	Ryza	ライザ	あはは……タオは何か知ってる？	Ryza	Ahaha... Do you know, Tao?	莱莎	哈哈……塔奥你知道些什么吗？	萊莎	啊哈哈……塔奧知道嗎？
+LegendEvent_02_006ID	6	Tao	タオ	一応調べてみたけど、冒険者の間でそう\n呼ばれていた、ってことくらいしか分からなかったよ	Tao	I did some brief research before, but all I can tell you is that adventurers were the ones who gave it that name.	塔奥	我也调查了一下这件事，\n但只知道冒险者们都是这么叫它的，具体就不清楚了。	塔奧	我曾試圖調查過這件事，\n但最後只知道冒險者們都是這樣稱呼。
+LegendEvent_02_006ID	7	Tao	タオ	ただ、１つ気がかりなことがあって……	Tao	There is one thing that bothers me about the ruins, though.	塔奥	不过，有一个让我在意的地方……	塔奧	不過有件事讓我很在意……
+LegendEvent_02_006ID	8	Klaudia	クラウディア	気がかりなこと？	Klaudia	What's that?	科洛蒂娅	是什么？	科洛蒂婭	什麼事？
+LegendEvent_02_006ID	9	Tao	タオ	「楽園」に足を踏み入れた冒険者たちが、\n何人か行方不明になっているらしいんだ	Tao	Among those who have set foot in Paradise, quite a few were never seen again.	塔奥	据说有好几名冒险者进入“乐园”后失踪了。	塔奧	踏進「樂園」的冒險者們，\n似乎有幾個人失蹤了。
+LegendEvent_02_006ID	10	Lent	レント	なんだかきな臭い話だな……っていうか、\nもう俺たち中に入っちまったけど大丈夫か？	Lent	That does sound pretty suspicious. Wait, should we have even come here?	兰托	好可疑啊……\n可我们都已经进来了，没问题吗？	蘭托	聽起來很不對勁耶……話說，\n我們已經踏進來了，不會有事吧？
+LegendEvent_02_006ID	11	Tao	タオ	あ、あくまで噂だから……	Tao	Th-That's just a rumor, ultimately.	塔奥	这、这充其量只是传闻……	塔奧	畢、畢竟只是傳聞而已……
+LegendEvent_02_006ID	12	Ryza	ライザ	気を付けて進めば大丈夫だよ。さ、行こ！	Ryza	We just need to keep our guard up and we'll be fine! Come on, let's go!	莱莎	小心前进就没问题，出发吧！	萊莎	小心點就行了。好，我們走吧！
+LegendEvent_02_006ID	13	Ryza	ライザ	これは……「門」？\n向こうは光ってて、よく見えないや	Ryza	It's a...gate? There's something shining beyond it, but I can't see what.	莱莎	这是……“门”？\n门的里面在发光，看不太清楚。	萊莎	這是……「門」？\n另一側在發光，看不太清楚。
+LegendEvent_02_006ID	14	Lent	レント	いかにも怪しそうな雰囲気だな……	Lent	Either way, the atmosphere here is weird.	兰托	看起来也太可疑了……	蘭托	總覺得相當可疑……
+LegendEvent_02_006ID	15	Lila	リラ	よりによって「門」か……	Lila	A gate, of all things...	莉拉	偏偏是“门”啊……	莉拉	為何偏偏是「門」呢……
+LegendEvent_02_006ID	16	Empel	アンペル	それがどうかしたのか？	Empel	Is something wrong?	安佩尔	是门又怎么了？	安佩爾	怎麼了嗎？
+LegendEvent_02_006ID	17	Lila	リラ	……お前の旅の目的の１つは、\n異界に通じる「門」を探すことだった	Lila	Part of the reason you set off on your journey was to find gates that lead to Underworld.	莉拉	……你的旅行目的之一，\n就是寻找通往异界的“门”。	莉拉	……你踏上旅途的其中一個目的，\n就是尋找通往異界的「門」。
+LegendEvent_02_006ID	18	Lila	リラ	これが同じものかどうかは分からないがな	Lila	I don't know if this is the same as one of those, though.	莉拉	不知道是不是你要找的那种。	莉拉	但我不曉得是不是同一種東西就是了。
+LegendEvent_02_006ID	19	Klaudia	クラウディア	そっか。もしかしたら、アンペルさんの\n記憶を取り戻す手掛かりになるかも？	Klaudia	I see. Perhaps it might serve as some sort of lead to regaining Empel's lost memories.	科洛蒂娅	这样啊。\n那说不定这个能帮助安佩尔先生找回记忆？	科洛蒂婭	這樣啊。說不定這是\n協助安佩爾先生恢復記憶的線索喔？
+LegendEvent_02_006ID	20	Tao	タオ	この先に進むってことだよね……ちょっと怖いかも	Tao	It's a little scary, but I suppose we'll be going through it.	塔奥	也就是要进入这道门吗……我有点害怕。	塔奧	所以要繼續往前走是吧……我有點害怕。
+LegendEvent_02_006ID	21	Ryza	ライザ	でも、行ってみようよ！　ねえ、アンペルさん	Ryza	We sure are! Right, Empel?	莱莎	但还是进去看看吧！怎么样，安佩尔先生？	萊莎	不過還是得去看看，對吧？安佩爾先生。
+LegendEvent_02_006ID	22	Empel	アンペル	ああ、そうだな。記憶を取り戻すためには\n躊躇しているわけにもいかん	Empel	Oh, yes. If it means regaining my memories, it wouldn't do to hesitate.	安佩尔	嗯，好吧。\n为了找回记忆可不能犹豫。	安佩爾	嗯，說得沒錯。想恢復記憶的話，\n就不能在這裡躊躇不前。
+LegendEvent_02_006ID	23	Empel	アンペル	……それに、この先に何があるのか\n純粋に興味がある	Empel	And to be honest, I'm genuinely curious as to what lies beyond here.	安佩尔	……而且我对门的另一边有什么也非常感兴趣。	安佩爾	而且……我也對前方會出現什麼\n感到很好奇。
+LegendEvent_02_006ID	24	Ryza	ライザ	そうだね！　この先に「楽園」って名前に\n関係するものがあるのかな？	Ryza	Exactly! Maybe that's where we'll figure out why this place is called Paradise.	莱莎	是啊！不知门的另一边\n会不会有跟“乐园”这个名字相关的东西呢？	萊莎	對呀！\n會出現和「樂園」這個名字有關的東西嗎？
+LegendEvent_02_006ID	25	Empel	アンペル	それは行って確かめるのしかないだろう？	Empel	Well, there's only one way to know for sure.	安佩尔	那就只能亲自过去看看了吧？	安佩爾	只能親自過去確認了！
+LegendEvent_02_006ID	26	Ryza	ライザ	うん、行こう！	Ryza	Yeah! Let's go!	莱莎	嗯，我们走吧！	萊莎	嗯，走吧！
+LegendEvent_02_007ID	0	Ryza	ライザ	ここは……！	Ryza	Oh, wow!	莱莎	这里是……！	萊莎	這裡是……！
+LegendEvent_02_007ID	1	Empel	アンペル	門の外とは違う世界……なのか？	Empel	There's...another world beyond the gate?	安佩尔	是……与门外不同的世界？	安佩爾	和門外是兩個不同的世界嗎……？
+LegendEvent_02_007ID	2	Tao	タオ	僕たちが前にくぐった門と、仕組みは同じなのかな？	Tao	Then does this gate work the same way as the ones we've used before?	塔奥	跟我们过去穿过的门是同样的构造吗？	塔奧	這原理跟我們之前穿過的門是一樣的嗎？
+LegendEvent_02_007ID	3	Lila	リラ	だが、私たちの知る門の向こうの異界とは、\nまた違う場所のようだ	Lila	But those gates led to Underworld. This is someplace else.	莉拉	但这里跟我们所知的门对面的异界\n是截然不同的。	莉拉	不過，似乎和我們所知的\n門後的異界不太一樣。
+LegendEvent_02_007ID	4	Klaudia	クラウディア	すっごく綺麗な景色。\nだから……「楽園」なのかな？	Klaudia	It's absolutely gorgeous. Is that why they call it Paradise?	科洛蒂娅	好漂亮的风景啊。\n所以……才会被称为“乐园”？	科洛蒂婭	景色非常漂亮。\n所以……才會被稱為「樂園」嗎？
+LegendEvent_02_007ID	5	Ryza	ライザ	この景色なら納得だよ。でも……どこか変だ	Ryza	That definitely feels like the right name for a place with this kind of scenery. Still, there's something kind of...odd about it.	莱莎	的确配得上这个名字。可是……我觉得有点奇怪。	萊莎	看到這片景色忽然能理解了。不過……總覺得有點怪。
+LegendEvent_02_007ID	6	Lila	リラ	変……というのは？	Lila	In what way?	莉拉	奇怪……哪里奇怪？	莉拉	有點怪……哪裡？
+LegendEvent_02_007ID	7	Ryza	ライザ	なんていうか、キレイすぎる……かな？	Ryza	It's almost...too pretty? If that makes sense?	莱莎	就是感觉……太整洁了？	萊莎	該怎麼說呢？好像……太過漂亮了？
+LegendEvent_02_007ID	8	Klaudia	クラウディア	分かる気がする！\n「土地生みの樹」で作った景色を見てるみたい	Klaudia	I know what you mean! It looks like a scene crafted by the Tree of Creation.	科洛蒂娅	我懂！\n像是在看“地母之树”制造出来的景色一样。	科洛蒂婭	我懂！\n簡直就像是用「生成土地之樹」打造出來的景色。
+LegendEvent_02_007ID	9	Empel	アンペル	おっと、また知らない言葉が出てきたな	Empel	Well, now. There's another term I'm not familiar with.	安佩尔	哦，又是个陌生的词汇。	安佩爾	哦，又出現了我沒聽過的詞彙。
+LegendEvent_02_007ID	10	Ryza	ライザ	ええと、土地生みの樹っていうのは、\n人工的に小さな世界を生み出せる古代の遺物で……	Ryza	Um, the Tree of Creation is a relic from ancient times that makes miniature artificial worlds.	莱莎	唔，所谓的“地母之树”，\n就是一件人为制造小型世界的古代遗物……	萊莎	呃，所謂的生成土地之樹，\n是能創造出一小片人工天地的古代遺物……
+LegendEvent_02_007ID	11	Empel	アンペル	ここが人工的な風景だという話か？	Empel	Do you mean to say that this place is man-made?	安佩尔	也就是说这里的风景是人造的？	安佩爾	意思是，這是人造風景嗎？
+LegendEvent_02_007ID	12	Ryza	ライザ	うーん。はっきりそう思うわけじゃないけど、\nでも、どこか似てる気がするな	Ryza	Hmm... I couldn't say for sure, but it's got that feel to it.	莱莎	唔……我不能肯定，\n但总觉得很相像。	萊莎	唔……雖然我不是很確定，\n但總覺得有些類似。
+LegendEvent_02_007ID	13	Lent	レント	まあ確かに、ものすごく整ってるっていうか、\nキレイだもんな……	Lent	Yeah, it does. Not a single flower is out of place.	兰托	确实，这里的景色看起来井然有序，\n特别规整……	蘭托	確實如此。該說非常整齊而且美觀嗎？\n真的很漂亮……
+LegendEvent_02_007ID	14	Tao	タオ	とはいえ、ここがどんな空間かも分からないし、\n今の段階で決めつけるのは……あれ？	Tao	In short, we don't know what sort of space this is, so we should work on confirming... Huh?	塔奥	不过我们还不知道这是个什么样的地方，\n现在就断定未免也……咦？	塔奧	不過，我們不曉得這裡是什麼地方。\n現在就下定論的話……咦？
+LegendEvent_02_007ID	15	Tao	タオ	この植物は……	Tao	This plant, it's...	塔奥	这种植物……	塔奧	這個植物是……
+LegendEvent_02_007ID	16	Ryza	ライザ	えっ、どうしたの？	Ryza	Huh? What about it?	莱莎	嗯？怎么了？	萊莎	咦，怎麼了？
+LegendEvent_02_007ID	17	Tao	タオ	この世界――ランターナ大陸では、\nもうほとんど存在が確認されていないものなんだよ	Tao	It's almost impossible to find it anywhere in this world—in Lantarna, I mean.	塔奥	它在这个世界——兰塔纳大陆，\n几乎已经绝迹了。	塔奧	它的蹤跡已經幾乎從這個世界──\n也就是蘭塔納大陸消失了。
+LegendEvent_02_007ID	18	Tao	タオ	それが、こんなに辺り一面に生えてるなんて……	Tao	And yet this whole area is teeming with them.	塔奥	而在这附近居然长了这么一大片……	塔奧	但竟然在這一帶生長得如此茂盛……
+LegendEvent_02_007ID	19	Empel	アンペル	つまり、もし「楽園」が誰かによって\n創り出された世界だとすれば……	Empel	Ah, then it really is possible that someone created this world.	安佩尔	也就是说，\n如果“乐园”是由某人制造的世界……	安佩爾	也就是說，\n如果「樂園」是某個人創造出來的世界……
+LegendEvent_02_007ID	20	Tao	タオ	この植物が普通に存在してた頃の生態系を\nここは、そのまま保ってるのかも	Tao	That, or this ecosystem is a preserved piece of land from a time when the plant WAS common.	塔奥	那这里应该保有\n这种植物存在时的生态系统。	塔奧	那這裡可能還保有\n適合這種植物生長的生態系。
+LegendEvent_02_007ID	21	Ryza	ライザ	よし！　もっとこの場所を調べてみよう！	Ryza	Okay! Let's see what else we can find!	莱莎	好！我们再去调查调查别的地方吧！	萊莎	好！讓我們在這裡多調查一點吧！
+LegendEvent_02_008ID	0	Tao	タオ	外じゃ見かけない植物ばっかだよ。\n調べ甲斐がありそうだ	Tao	All the plants here are ones that you can't find anywhere else. This place is well worth investigating.	塔奥	这里的植物都是在外头见不到的种类，\n调查起来一定会大有收获。	塔奧	全是些外面沒有的植物耶！\n看來很值得調查。
+LegendEvent_02_008ID	1	Ryza	ライザ	錬金術の素材としても、面白いものばかりだね！	Ryza	As far as alchemical materials go, everything here is so interesting!	莱莎	从炼金术素材的角度看，也都是有价值的东西！	萊莎	以鍊金術的角度來看，作為素材使用應該很有意思！
+LegendEvent_02_008ID	2	Empel	アンペル	その面白さは残念ながら分からないが……しかし、\n昔の環境がそのまま残っているというのは興味深いな	Empel	Unfortunately, I don't understand the appeal there, but I do think it's fascinating that the environment here seems to be perfectly preserved despite its age.	安佩尔	很遗憾我不懂其中的乐趣……但是，\n过去的环境被原样保留，这点让我很感兴趣。	安佩爾	很遺憾，那種樂趣我不懂……不過，\n完整保留從前的環境這點非常吸引人。
+LegendEvent_02_008ID	3	Empel	アンペル	このように構築した世界を留めておけるのなら、\n遥か未来までものを届けることも可能になる	Empel	Being able to freeze a location in time like this could make it possible to pass things along to those in the far-distant future someday.	安佩尔	既然能将过去构筑的世界保存至今，\n那也可以将事物流传至遥远的未来。	安佩爾	如果能像這樣保存構築起來的世界，\n就可以將東西流傳到遙遠的未來了。
+LegendEvent_02_008ID	4	Klaudia	クラウディア	ふふっ、夢がありますね	Klaudia	Hehe. That's quite the dream.	科洛蒂娅	呵呵，想的真美好呢。	科洛蒂婭	呵呵，這很令人嚮往呢。
+LegendEvent_02_008ID	5	Lila	リラ	そんなうまい話が本当にあるかは疑問だがな	Lila	I think it sounds too good to be true.	莉拉	我倒有些怀疑真的会有这种好事吗。	莉拉	但我很懷疑，真的有這麼好的事嗎？
+LegendEvent_02_008ID	6	Empel	アンペル	どういうことだ？	Empel	In what way?	安佩尔	什么意思？	安佩爾	什麼意思？
+LegendEvent_02_008ID	7	Lila	リラ	これほどの世界を維持するためには、\n何かしらの代償が必要なのではないか？	Lila	What would it cost to maintain a space like this? It has to run on something.	莉拉	想要维持这么大规模的世界，\n一定是需要某种代价的吧？	莉拉	要維持這種程度的世界，\n難道不用付出代價嗎？
+LegendEvent_02_008ID	8	Empel	アンペル	……それも一理ある。\nしかし、夢を見るくらいはしてもいいだろう	Empel	Yes, that is a fair point. Still, it does make for a fine aspiration.	安佩尔	……这也有道理。\n不过，抱有一点幻想也没什么吧。	安佩爾	……有道理。\n不過，懷抱夢想不是什麼壞事吧？
+LegendEvent_02_008ID	9	Lila	リラ	…………	Lila	...	莉拉	……	莉拉	…………
+LegendEvent_02_008ID	10	Klaudia	クラウディア	あ！　見て、あそこ……！	Klaudia	Oh! Look, over there!	科洛蒂娅	啊！快看那里……！	科洛蒂婭	啊！你們看，那裡……！
+LegendEvent_02_008ID	11		冒険者	はぁっ……はぁ……！　だ、誰か……！	Adventurer	*Huff* *Huff* Someone, please...!	冒险者	呼、呼……！救、救命……！	冒險者	呼……呼……！誰、誰快來……！
+LegendEvent_02_008ID	12	Lent	レント	人がいるぞ！	Lent	There's someone here!	兰托	有人！	蘭托	那裡有人！
+LegendEvent_02_008ID	13	Tao	タオ	魔物に追われてる！	Tao	And they're being chased by a monster!	塔奥	魔物在追那个人！	塔奧	有魔物在追他！
+LegendEvent_02_008ID	14	Ryza	ライザ	みんな、助けよう！	Ryza	Let's go help them!	莱莎	我们去救他吧！	萊莎	我們去幫忙吧！
+LegendEvent_02_009ID	0	Lila	リラ	はぁっ！	Lila	Haaah!	莉拉	喝！	莉拉	喝啊！
+LegendEvent_02_009ID	1	Ryza	ライザ	これで、とどめーーっ！	Ryza	Let's finish this!	莱莎	最后一击——！	萊莎	用這一擊做個了結──！
+LegendEvent_02_009ID	2	Ryza	ライザ	はぁ、はぁ……やった！	Ryza	*Huff* *Huff* We did it!	莱莎	呼、呼……成功了！	萊莎	呼、呼……太好了！
+LegendEvent_02_009ID	3	Klaudia	クラウディア	あの、大丈夫ですか？	Klaudia	Are you all right?	科洛蒂娅	你好，你没事吧？	科洛蒂婭	那個，你沒事吧？
+LegendEvent_02_009ID	4		冒険者	あ、ありがとう。助かったよ……はぁ……	Adventurer	Y-Yeah. Thank you for saving me... *Huff*	冒险者	谢、谢谢你们。得救了……呼……	冒險者	謝、謝謝你們，得救了……呼……
+LegendEvent_02_009ID	5	Empel	アンペル	疲れているところを悪いが、\n何があったのか聞かせてもらえないだろうか？	Empel	I know you must be exhausted, but would you mind telling us what happened?	安佩尔	不好意思，我知道现在应该让你好好休息，\n但我还是想问问到底发生了什么？	安佩爾	抱歉，雖然你現在應該很累，\n可以告訴我們發生什麼事了嗎？
+LegendEvent_02_009ID	6		冒険者	ああ……。俺は「楽園」の噂を聞いて\nここに入ってきたんだ	Adventurer	Sure... I heard the rumors about Paradise, so I decided to check it out.	冒险者	嗯……我听说了“乐园”的传闻，\n所以进到了这里。	冒險者	嗯……我聽說了「樂園」的傳聞，\n所以跑進來這裡。
+LegendEvent_02_009ID	7		冒険者	特に何もない場所だったんで、そろそろ帰ろうと\nした時、さっきのやつに襲われたんだよ	Adventurer	But it turns out there's not all that much here. I was just about to head back when that thing attacked me.	冒险者	这地方也没有什么特别的，就在我准备回去的时候，\n突然被刚才那家伙攻击了。	冒險者	當我覺得這裡沒什麼特別的，打算離開時，\n就被剛才那傢伙襲擊了。
+LegendEvent_02_009ID	8		冒険者	それで逃げたり隠れたりしてやり過ごしてたんだが、\nどうやっても逃げきれなくてな……	Adventurer	I was doing well enough at running and hiding from it, but it wouldn't stop chasing me no matter what I did.	冒险者	然后我一路连逃带躲的，\n可怎么也甩不掉它……	冒險者	儘管我勉勉強強逃過一劫，\n但無論如何就是甩不掉牠……
+LegendEvent_02_009ID	9	Ryza	ライザ	そんなにしつこかったんだね	Ryza	Wow, that sounds really persistent.	莱莎	真的是穷追猛打呢。	萊莎	竟然這麼難纏啊。
+LegendEvent_02_009ID	10	Lent	レント	俺たちがたまたま間に合ってよかったよな	Lent	It's good that we got here just at the right time.	兰托	还好我们碰巧路过。	蘭托	幸好你及時遇見我們。
+LegendEvent_02_009ID	11		冒険者	ともかく、助かったよ。それじゃあな	Adventurer	Either way, I'm grateful. I'm going to get out of here now.	冒险者	总之谢谢你们，我先告辞了。	冒險者	無論如何，感謝各位伸出援手。我先告辭了。
+LegendEvent_02_009ID	12	Ryza	ライザ	気を付けてね	Ryza	Take care!	莱莎	路上小心。	萊莎	請務必小心。
+LegendEvent_02_009ID	13	Klaudia	クラウディア	ねえ、タオ君がさっき言ってた\n冒険者が行方不明になるって話……	Klaudia	Say, Tao? You mentioned earlier that adventurers often go missing here...	科洛蒂娅	塔奥刚才提到过，有冒险者失踪……	科洛蒂婭	話說，塔奧剛才提過\n冒險者失蹤的事情……
+LegendEvent_02_009ID	14	Lent	レント	ああ。あいつらに襲われたんだろうな……	Lent	Yeah. They were probably attacked.	兰托	嗯，估计就是被那些家伙攻击了……	蘭托	嗯，應該是被那些傢伙襲擊了吧……
+LegendEvent_02_009ID	15	Tao	タオ	この世界が人工的に創られたのだとしたら、\nあの魔物も同じ人の手で創られたってことかな	Tao	So, if we continue to assume that this world was manufactured, then that monster likely was as well.	塔奥	如果这个世界是人为制造的，\n那些魔物也是出自那个制造者之手吧。	塔奧	如果這世界是被人創造出來的，\n那……那種魔物也是出自同一人之手嗎？
+LegendEvent_02_009ID	16	Empel	アンペル	目的は恐らく、侵入者からこの場所を守るため……\nいわば「楽園の門番」といったところか	Empel	They were probably placed here to guard against intruders. A gatekeeper of Paradise, if you will.	安佩尔	那些家伙的职责应该是保护这个地方不被入侵……\n也就是“乐园的守卫”。	安佩爾	大概是為了阻止入侵者並守護這裡……\n可說是「樂園的守衛」吧。
+LegendEvent_02_009ID	17	Ryza	ライザ	ねえ。もしかしたら、他にもこの世界に取り残された\n人がいるかも。もう少し調べてみようよ！	Ryza	Then doesn't that mean there might be other people who got stuck here? We should keep looking around!	莱莎	我想可能还有别人被困在这个世界，\n我们再多调查一下吧！	萊莎	搞不好還有人留在這個世界，\n我們再稍微調查一下吧！
+LegendEvent_02_009ID	18	Empel	アンペル	ああ、そうだな	Empel	Yes, that's a good idea.	安佩尔	嗯，好的。	安佩爾	嗯，妳說得對。
+LegendEvent_02_009ID	19	Klaudia	クラウディア	あ。また門が……	Klaudia	Oh. It's another gate.	科洛蒂娅	啊，又是一道门……	科洛蒂婭	啊，門又……
+LegendEvent_02_009ID	20	Tao	タオ	出口……じゃないよね？	Tao	This couldn't be the exit, could it?	塔奥	这……应该不是出口吧？	塔奧	這應該……不是出口吧？
+LegendEvent_02_009ID	21	Empel	アンペル	出口じゃないとすれば、\nまた別の世界の入口ということか？	Empel	If not, then perhaps it leads to yet another world?	安佩尔	如果不是出口，\n那就是其他世界的入口？	安佩爾	既然不是出口的話，\n難道又是通往其他世界的入口？
+LegendEvent_02_009ID	22	Lent	レント	どうする？　って……聞くまでもねえか。\n行くんだろ？	Lent	So, what should we do? ...Not that I even need to ask. We're going through, aren't we?	兰托	怎么办？啊……不用说，肯定要进去吧？	蘭托	那要怎麼辦？嗯……應該不用問。\n我們會去吧？
+LegendEvent_02_009ID	23	Ryza	ライザ	もちろん！　それじゃ、突入！	Ryza	Obviously! Let's dive right in!	莱莎	那当然了！前进！	萊莎	當然！衝啊！
+LegendEvent_02_010ID	0	Lila	リラ	また別の場所に出たようだな	Lila	Looks like we're in a new place.	莉拉	好像又来到了别的地方。	莉拉	好像又來到別的地方了。
+LegendEvent_02_010ID	1	Ryza	ライザ	門をくぐるとまた別の門か……\nどういうことなんだろう？	Ryza	We passed through one gate, then found another... What's going on here?	莱莎	穿过一扇门后又出现了别的门……\n这到底是怎么回事？	萊莎	穿過門後又有另一扇門……\n到底是怎麼回事？
+LegendEvent_02_010ID	2	Empel	アンペル	普通に考えれば……多重構造になっていて、門をくぐる\nたびに奥に進んでいるということではないか？	Empel	Thinking about it reasonably, if there are multiple structures, then crossing each one would lead you deeper inside.	安佩尔	按常理猜测……这个世界大概是多层结构，\n每穿过一道门，就会来到更深的地方？	安佩爾	那……是不是隨著我們穿越一扇又一扇的門，\n就會進到更深處？
+LegendEvent_02_010ID	3	Empel	アンペル	だとすれば、その先には世界の「核」となる部分が\nあるのかもしれないな	Empel	In which case, the area beyond this one might serve as the world's core.	安佩尔	这么说，继续前进可能会到达这个世界的“核心”。	安佩爾	如果是這樣，\n說不定最終會發現這個世界的「核心」。
+LegendEvent_02_010ID	4	Ryza	ライザ	この世界……「楽園」の核か……\nあの魔物はそれを守ってるってことなのかも	Ryza	Paradise's core, huh? That could be what those monsters are protecting.	莱莎	这个世界……“乐园”的核心啊……\n那个魔物或许就是在守护它。	萊莎	這個世界……「樂園」的核心嗎……\n也許魔物是在保護那個核心。
+LegendEvent_02_010ID	5	Ryza	ライザ	この世界、本当はなんのために創られたのかな	Ryza	It really makes you wonder what this place was built for in the first place.	莱莎	制造这个世界究竟是为了什么呢。	萊莎	創造這世界的目的……到底是什麼？
+LegendEvent_02_010ID	6	Klaudia	クラウディア	ライザ。\nここはやっぱり「創られた」って思うんだね	Klaudia	So you think this world isn't natural, right?	科洛蒂娅	莱莎，\n你还是觉得这个地方是“人为制造”的啊。	科洛蒂婭	萊莎，\n妳果然覺得這裡是「被創造出來的」？
+LegendEvent_02_010ID	7	Ryza	ライザ	うん。錬金術士としての勘がそう言ってるんだ。\nきっと、この世界は錬金術で創られたものだって	Ryza	Yeah, I'm one hundred percent sure this was made with alchemy. Call it an alchemist's intuition, I guess.	莱莎	嗯，我炼金术士的直觉是这么告诉我的——\n这个世界肯定是由炼金术制造的。	萊莎	嗯，這是身為鍊金術士的直覺。\n我覺得這世界一定是用鍊金術創造出來的。
+LegendEvent_02_010ID	8	Ryza	ライザ	それが、良い目的のためなのか、\n悪い目的のためなのかは分からないけど……	Ryza	But I couldn't say whether the intentions behind it were noble or not.	莱莎	至于制造目的是好是坏，\n目前还不得而知……	萊莎	雖然不知道\n創造者的目的是好還是不好……
+LegendEvent_02_010ID	9	Empel	アンペル	悪い目的……つまり、錬金術を何かに悪用しようと\nしているということか？	Empel	Do you mean that alchemy can be used for ill will?	安佩尔	坏的目的啊……\n就是说会有人用炼金术做坏事？	安佩爾	不好的目的……\n意思是濫用鍊金術的力量做壞事嗎？
+LegendEvent_02_010ID	10	Ryza	ライザ	うん。そういう人もいるよ。\n錬金術は、とても大きな力だから	Ryza	Yep. Some people are just like that. It's a powerful art form, after all.	莱莎	嗯，是有这种人。\n因为炼金术中蕴含着强大的力量。	萊莎	嗯，也不乏這種人。\n因為鍊金術太強大了。
+LegendEvent_02_010ID	11	Ryza	ライザ	もちろん、あたしは違うよ！　アンペルさんから\n教えを受けて、「良き錬金術士」を目指してるから！	Ryza	Obviously, I don't use it like that, though! You taught me to be a good alchemist, and that's what I've always aimed for!	莱莎	我自然不是那种人！在安佩尔先生的教导下，\n我的目标是成为“善良的炼金术士”！	萊莎	當然，我可不是這種人喔！我謹記安佩爾先生的教誨，\n以成為「好的鍊金術士」為目標！
+LegendEvent_02_010ID	12	Empel	アンペル	私の教えか……	Empel	Did I?	安佩尔	我的教导……	安佩爾	我的教誨啊……
+LegendEvent_02_010ID	13	Lila	リラ	錬金術士が犯した間違いを正すこと。\nそれがお前の目的の１つだった	Lila	Righting alchemists' wrongs was one of your other goals.	莉拉	修正炼金术士犯下的错误。\n这也是你的目的之一。	莉拉	修正鍊金術士所犯下的過錯\n曾經是你的目標之一。
+LegendEvent_02_010ID	14	Empel	アンペル	思ったより壮大な話になってきたな。うーむ……\n実は思い出さないほうがいい記憶なんじゃないか？	Empel	All of this seems to be on a much grander scale than I was expecting. Perhaps I'm better off not regaining my memories.	安佩尔	没想到我在做这种大事。唔……\n这些记忆是不是想不起来比较好？	安佩爾	嗯，話題變得比想像中還壯闊呢……\n那是不是別想起來比較好？
+LegendEvent_02_010ID	15	Lila	リラ	……かもな	Lila	...I guess.	莉拉	……或许吧。	莉拉	……或許吧。
+LegendEvent_02_010ID	16	Empel	アンペル	なんて、冗談だ冗談。さあ、先を急ごう	Empel	Come on, I was kidding. Shall we?	安佩尔	我开玩笑的。快走吧。	安佩爾	呵呵，我開玩笑的。好，我們快點前進吧。
+LegendEvent_02_010ID	17	Lila	リラ	ライザ。後で少し話がしたい	Lila	Ryza. There's something I'd like to talk to you about later.	莉拉	莱莎，我待会儿想跟你聊聊。	莉拉	萊莎，待會兒我想和妳談談。
+LegendEvent_02_010ID	18	Ryza	ライザ	え？　……それって、もしかしてアンペルさんのこと？	Ryza	Hm? Oh, is it about Empel?	莱莎	咦？莫非是要聊安佩尔先生的事吗？	萊莎	咦……難道，妳想談安佩爾先生的事？
+LegendEvent_02_010ID	19	Lila	リラ	そうだ。ただ、本人には聞かれないようにしたい	Lila	Yeah. But I don't think he should hear it.	莉拉	没错。但是不要让他本人听见。	莉拉	沒錯，但我不希望被本人聽見。
+LegendEvent_02_010ID	20	Ryza	ライザ	…………？　よく分かんないけど、分かったよ	Ryza	Um... I don't get it, but sure.	莱莎	……？不太明白这么做的理由，不过我了解了。	萊莎	嗯…………？雖然不清楚發生了什麼事，但我明白了。
+LegendEvent_02_011ID	0	Tao	タオ	あ！　また景色が変わった！	Tao	Oh! Our location changed again!	塔奥	啊！景色又变了！	塔奧	啊！景色又變了！
+LegendEvent_02_011ID	1	Ryza	ライザ	祠みたいな建物があるね。行ってみよう	Ryza	That building looks like a little shrine. Let's go check it out.	莱莎	有个像祭坛一样的建筑，我们去看看吧。	萊莎	出現了像神祠的建築物！我們去看看吧。
+LegendEvent_02_011ID	2	Empel	アンペル	建造物を見つけるのはこれが初めてだな。\nこの世界が人工物だという証拠がまた１つ増えたか	Empel	We haven't seen any buildings up until now. It seems we have further proof that this world was engineered.	安佩尔	这还是头一次看到建筑物呢。\n又多了一条这个世界是人为制造的证据。	安佩爾	竟然還能找到建築物。\n說明這是人造世界的證據又多一項了。
+LegendEvent_02_011ID	3	Ryza	ライザ	いくつもあるね。調べてみよう。\nここの秘密が何か分かるかも！	Ryza	There are a bunch of them, too. We'd better investigate. They might be hiding some kind of secret!	莱莎	有好几个呢，我们去调查看看吧。\n说不定能查明一部分这里的秘密！	萊莎	有好幾座神祠呢！來調查一下吧。\n或許能發現這裡的秘密！
+LegendEvent_02_011ID	4	Ryza	ライザ	みんな、これ見て！	Ryza	Everyone, look at this!	莱莎	大家快来看这个！	萊莎	各位，看看這個！
+LegendEvent_02_011ID	5	Empel	アンペル	劣化が激しいな。随分昔の記録のようだ	Empel	Goodness, these are incredibly deteriorated. These records must be very, very old.	安佩尔	褪色这么严重，看来是很久以前的记录。	安佩爾	劣化得很嚴重，看來是很久以前的紀錄。
+LegendEvent_02_011ID	6	Tao	タオ	「この地は我々錬金術士が、来るべき災厄に備え\n　我々の退避場所として築いたものである」	Tao	"""We alchemists have constructed this land as a place of refuge from the coming disaster."""	塔奥	“为了躲避即将到来的灾祸，\n我等炼金术师们创造了此方世界。”	塔奧	「我等鍊金術士為防備必將到來之災厄，\n建造此地為我等之避難所。」
+LegendEvent_02_011ID	7	Ryza	ライザ	やっぱりここは錬金術士が創った世界だったんだ……	Ryza	I knew it. Alchemists did make this place!	莱莎	这里果然是炼金术士制造的世界啊……	萊莎	這裡果然是鍊金術士創造出來的世界……
+LegendEvent_02_011ID	8	Lent	レント	「来るべき災厄」ってなんだろうな	Lent	"What do you think they meant by ""coming disaster""?"	兰托	“即将到来的灾祸”指的是什么啊。	蘭托	「必將到來之災厄」究竟是什麼？
+LegendEvent_02_011ID	9	Empel	アンペル	これだけ大掛かりな空間だ。\n何か具体的な脅威が迫っていたと見るべきだろうな	Empel	This is such a large space. Whatever the threat was, it must have been seen as substantial.	安佩尔	他们制造了这么庞大的空间，\n据此推测应该是面临着某种实实在在的威胁吧。	安佩爾	這空間如此遼闊，\n想必是預見了什麼即將到來的具體威脅吧。
+LegendEvent_02_011ID	10	Klaudia	クラウディア	じゃあ、さっきの魔物もその脅威から\nこの場所を守るために……？	Klaudia	Then those monsters were keeping this place safe from that threat?	科洛蒂娅	那刚才的魔物也是为了守护这个地方\n不受那个威胁的伤害？	科洛蒂婭	那剛才的是\n守護這裡不受威脅的魔物嗎……？
+LegendEvent_02_011ID	11	Ryza	ライザ	ここに書かれてる「災厄」って実際に起こったのかな	Ryza	I wonder if the disaster actually ended up happening or not.	莱莎	写在这里的“灾祸”，大概是已经发生过的事吧。	萊莎	這裡所寫的「災厄」是否真的發生了？
+LegendEvent_02_011ID	12	Tao	タオ	どうだろう……ランターナ大陸自体の歴史も\n改めて調べてみたいところだね	Tao	Hm... Who knows? I'd like to take another look at Lantarna's history later, though.	塔奥	不清楚啊……\n好想重新研读一下兰塔纳大陆的历史。	塔奧	不曉得……這讓人想重新調查\n蘭塔納大陸本身的歷史呢。
+LegendEvent_02_011ID	13	Lila	リラ	いずれにせよ、遥か昔の話だ。結果がどうあれ、\nここにいた者たちはもう生きてはいまい	Lila	Either way, it would have been ages ago. Anyone who used to be here or knew what happened is long gone.	莉拉	不管怎么样，那都是很久很久以前的事了。\n无论结果如何，曾经活在这里的人们都早已不存在了。	莉拉	總之，這都是很久以前的事了。\n無論如何，這裡的人們都已經不在了。
+LegendEvent_02_011ID	14	Empel	アンペル	あの魔物たちは、主人がいなくなった後も、\nその役目を果たし続けている……ということか	Empel	I suppose that means that those monsters have continued to maintain the will of their creators, even after said creators passed.	安佩尔	那些魔物即使没有了主人，\n也在履行自己的职责……是这么回事吧。	安佩爾	那些魔物在主人死後，\n也持續履行著這項使命……是嗎？
+LegendEvent_02_011ID	15	Empel	アンペル	他の建物も調べてみないか？\n何か分かるかもしれない	Empel	Why don't we go inspect the other buildings? We might learn something else.	安佩尔	要不要去调查其他建筑物？\n或许还能查到什么。	安佩爾	要不要調查一下其他建築物？\n或許能發現新的線索。
+LegendEvent_02_011ID	16	Ryza	ライザ	そうだね。もう少し調査してみよう	Ryza	That sounds like a good idea. Let's spend a little more time looking around.	莱莎	是啊，继续调查一下吧。	萊莎	說得對，我們再調查一下吧。
+LegendEvent_02_011ID	17	Klaudia	クラウディア	ライザ、これ……何かの装置みたいだね	Klaudia	Ryza, this looks like some sort of device.	科洛蒂娅	莱莎，看这个……好像是什么装置。	科洛蒂婭	萊莎，這個……好像是一種裝置？
+LegendEvent_02_011ID	18	Ryza	ライザ	ホントだ。これ、まだ動いてる……？	Ryza	You're right. Does it still work?	莱莎	还真是。它还在动……？	萊莎	真的耶！似乎還在運作……？
+LegendEvent_02_011ID	19	Tao	タオ	ええと……あ！\nこれが石の魔物を生み出してるって書かれてる！	Tao	Let's see... Aha! This explains how those stone monsters came to be!	塔奥	唔……啊！\n这上面写着呢！它就是生成石头魔物的装置！	塔奧	我看看……啊！\n這裡寫著它會產出岩石魔物！
+LegendEvent_02_011ID	20	Lent	レント	この装置でか！？	Lent	It does?!	兰托	是这个装置生成的？！	蘭托	從這個裝置嗎！？
+LegendEvent_02_011ID	21	Tao	タオ	うん。生み出された魔物は、勝手に「楽園」の\nあちこちに警護に向かうって	Tao	Mhm. It says that they're meant to be dispatched throughout Paradise to serve as guardians.	塔奥	嗯，生成的魔物\n会自动前往“乐园”各处负责守卫。	塔奧	嗯，上面寫著產出的魔物\n會自行前往「樂園」各處巡邏。
+LegendEvent_02_011ID	22	Empel	アンペル	便利なものだな、錬金術というのは	Empel	Alchemy certainly is handy, isn't it?	安佩尔	炼金术还真是方便啊。	安佩爾	鍊金術還真是方便啊。
+LegendEvent_02_011ID	23		冒険者Ｂ	うわあああっ！	Adventurer B	Noooooo!	冒险者B	呜哇——！	冒險者B	嗚哇啊啊啊！
+LegendEvent_02_011ID	24	Ryza	ライザ	今の悲鳴！	Ryza	Was that a scream?!	莱莎	有人在惨叫！	萊莎	剛才的慘叫聲是！
+LegendEvent_02_011ID	25	Lila	リラ	先ほど通ってきた門のほうだ	Lila	It came from the gate we just passed through.	莉拉	是从刚才穿过的门那边传来的。	莉拉	從我們剛才通過的門那邊傳來的。
+LegendEvent_02_011ID	26	Ryza	ライザ	また誰か襲われてるのかも。行こう！	Ryza	Someone else must be getting attacked. Let's go!	莱莎	可能是又有人被袭击了，我们快去！	萊莎	可能又有人被襲擊了，走吧！
+LegendEvent_02_011ID	27	Lent	レント	あそこだ！	Lent	Over there!	兰托	看那边！	蘭托	在那邊！
+LegendEvent_02_011ID	28		冒険者Ｂ	も、もうちょっとで出口だ……！	Adventurer B	I-I'm almost at the exit...!	冒险者B	差、差一点就到出口了……！	冒險者B	再、再撐一下就到出口了……！
+LegendEvent_02_011ID	29	Tao	タオ	あの人、なんとか逃げられそうだね	Tao	Oh, it looks like they'll manage to make it out.	塔奥	那个人算是逃过了一劫。	塔奧	那個人看起來應該能逃掉。
+LegendEvent_02_011ID	30	Empel	アンペル	いや待て。\nあの魔物自体も門を通れるんじゃないか？	Empel	Wait, can't those monsters use the gates as well?	安佩尔	不对，等等，\n那个魔物也能穿过门的吧？	安佩爾	不，等一下，\n那種魔物會不會也可以穿越門？
+LegendEvent_02_011ID	31	Empel	アンペル	やつらはこれより前の階層にもいた。\nあの装置から生み出され、移動しているとしたら……	Empel	They were present in the previous layer, too. If they're being brought forth from that device, they would have to be able to move between areas.	安佩尔	前几层里也有那种魔物徘徊。\n如果它们是从那个装置里诞生后自行移动过去的……	安佩爾	那些傢伙在之前的階層也出現過，\n如果牠們是從那個裝置誕生，並四處移動的話……
+LegendEvent_02_011ID	32	Klaudia	クラウディア	あの人も危ない！	Klaudia	Then that person is in trouble!	科洛蒂娅	那个人还没有脱离危险！	科洛蒂婭	那個人也會有危險！
+LegendEvent_02_011ID	33	Ryza	ライザ	うん、あたしたちで倒そう！	Ryza	Yeah. Let's go take it down!	莱莎	嗯，我们去打倒魔物吧！	萊莎	嗯，我們去打倒牠吧！
+LegendEvent_02_012ID	0	Lent	レント	よし、倒したぞ！	Lent	There, that's that!	兰托	好，打倒它了！	蘭托	成功打倒牠了！
+LegendEvent_02_012ID	1	Klaudia	クラウディア	あの、ケガはありませんか？	Klaudia	Excuse me, but were you injured?	科洛蒂娅	你好，你有受伤吗？	科洛蒂婭	那個，你沒受傷吧？
+LegendEvent_02_012ID	2		冒険者Ｂ	あ、ああ。大丈夫だ	Adventurer B	N-No, I'm fine.	冒险者B	没、没有，我没事。	冒險者B	啊，嗯，我沒事。
+LegendEvent_02_012ID	3	Ryza	ライザ	よかったあ……	Ryza	That's a relief.	莱莎	那就好……	萊莎	太好了……
+LegendEvent_02_012ID	4		冒険者Ｂ	じゃ、じゃあ俺は急ぐから……	Adventurer B	Um, if you don't mind, I'm just going to go now.	冒险者B	我、我赶时间，先走一步……	冒險者B	我、我在趕時間，先走了……
+LegendEvent_02_012ID	5	Lent	レント	ええっ。今の奴、助けたのに\n礼も言わなかったぞ？	Lent	Aw, seriously? We saved their butt and we didn't even get a thanks?	兰托	不是吧？我们救了他，\n他居然连一句谢谢都不说？	蘭托	咦？明明剛才那傢伙被我們救了，\n卻一句謝謝也沒說耶？
+LegendEvent_02_012ID	6	Tao	タオ	散々な目にあって、\nそれどころじゃなかったんじゃないかな……	Tao	I can't imagine they were thinking straight after an ordeal like that.	塔奥	可能是好不容易劫后余生，根本顾不上道谢吧……	塔奧	他大概吃盡了苦頭，\n顧不上這麼多了……
+LegendEvent_02_012ID	7	Lila	リラ	やはり、「楽園」の噂を聞いて\nここを訪れる冒険者は多いようだ	Lila	Seems like those rumors really do bring a lot of adventurers here.	莉拉	被“乐园”的传闻吸引来此冒险的冒险者果然很多啊。	莉拉	看來循「樂園」傳聞前來的冒險者\n果然很多。
+LegendEvent_02_012ID	8	Klaudia	クラウディア	このままじゃ、また被害者が出そうだね……	Klaudia	Which means there will be more casualties...	科洛蒂娅	再这样下去，还会继续出现受害者……	科洛蒂婭	再這樣下去，受害者可能會繼續增加……
+LegendEvent_02_012ID	9	Ryza	ライザ	そうだね。元の世界の門と同じように、\nここも閉じたほうがいいのかな……	Ryza	Right. We should probably close the gate like we did with the ones in our own world.	莱莎	是啊，就跟原来世界的门一样，\n关上这扇门会更妥当吧……	萊莎	是啊。這裡的門或許跟原本的世界那扇一樣，\n封印起來比較好……？
+LegendEvent_02_012ID	10	Tao	タオ	ライザ！\n見て、また何かの記録を見つけたよ	Tao	Ryza, look! I found a book of old records!	塔奥	莱莎！\n快看，我又找到了类似记录的东西。	塔奧	萊莎！\n妳看，又發現新的紀錄了。
+LegendEvent_02_012ID	11	Ryza	ライザ	ホントだ！　これまたボロボロだね……\nなんて書いてあるの？	Ryza	Oh, wow! It's practically falling apart, though. What does it say?	莱莎	太好了！这本也破破烂烂的……\n上面写了什么？	萊莎	真的耶！一樣破破爛爛的……\n上面寫了什麼？
+LegendEvent_02_012ID	12	Tao	タオ	ええと……ええっ！？　これって……	Tao	Um, well... Huh?! That means...	塔奥	我看看……咦？！这是……	塔奧	我看看……咦！？這是……
+LegendEvent_02_012ID	13	Lent	レント	何が書いてあったんだよ？	Lent	So? What's in it?	兰托	到底写了什么啊？	蘭托	到底寫了什麼？
+LegendEvent_02_012ID	14	Tao	タオ	これ、日記みたいなんだ。\nこの「楽園」の中で働いていた人の……	Tao	It's the diary of someone who once worked in Paradise.	塔奥	这好像是一本日记。\n是在“乐园”工作的人写的……	塔奧	好像是日記。\n由在「樂園」裡工作的人寫下……
+LegendEvent_02_012ID	15	Ryza	ライザ	この場所を作った錬金術士ってこと？	Ryza	One of the alchemists who made it?	莱莎	也就是制造了这个地方的炼金术士？	萊莎	你是指創造這個地方的鍊金術士？
+LegendEvent_02_012ID	16	Tao	タオ	ううん、違う。この人は「楽園」での生活を維持する\nために、錬金術士たちに働かされていたって……	Tao	No, someone else. The alchemists were making the writer work to earn their keep.	塔奥	不，不是的。这个人是为了保障炼金术士们\n在“乐园”生活的质量，被迫在这里劳动的……	塔奧	不，不是。上面寫著，為了維持在「樂園」的生活，\n他被鍊金術士們強迫勞動。
+LegendEvent_02_012ID	17	Ryza	ライザ	ええっ！？　そんな……	Ryza	What?! That's so...	莱莎	什么？！怎么会……	萊莎	咦咦！？怎麼會……
+LegendEvent_02_012ID	18	Empel	アンペル	業務は衣食住の用意、研究のための素材集めなど……\nこれを読む限り、なかなか劣悪な労働環境だったようだ	Empel	They had to prepare food and other necessities and gather materials for the alchemists' research... Hm, going by this account, their working conditions sound less than ideal.	安佩尔	他的工作是照顾炼金术士的衣食住行，\n为炼金术士收集研究用的素材……好繁重啊。	安佩爾	為他們做食衣住的準備，還有蒐集研究用的素材等……\n從內容來看，工作環境似乎相當惡劣。
+LegendEvent_02_012ID	19	Empel	アンペル	他にも大勢、仲間がいたと書かれている。「楽園」の\n規模を考えれば、恐らく数人では収まるまい	Empel	Furthermore, they had many others working alongside them. Judging by the scale of Paradise, that must have been no small number.	安佩尔	上面说还有很多担任这些工作的人。\n考虑到“乐园”的规模，人数绝对不止一个两个。	安佩爾	上面還寫著他有很多同伴。\n考慮到「樂園」的規模，恐怕不只是寥寥數人的程度。
+LegendEvent_02_012ID	20	Lila	リラ	身勝手なものだな	Lila	How selfish.	莉拉	真是任性妄为啊。	莉拉	還真自私。
+LegendEvent_02_012ID	21	Lent	レント	待ってくれ。じゃあもしかして、あの石の魔物の役目は\n侵入者を撃退することじゃなく……	Lent	Hang on. Maybe those stone monsters aren't meant to be stopping intruders.	兰托	等等，照这么说，\n那些石头魔物的职责或许不是抵御入侵者……	蘭托	等一下。難不成……那些岩石魔物的使命\n並非擊退入侵者……
+LegendEvent_02_012ID	22	Empel	アンペル	中にいる者を逃がさないようにすること、か	Empel	Maybe they're here to keep those inside from leaving.	安佩尔	而是不让这个世界里的人逃走啊。	安佩爾	而是阻止裡面的人脫逃嗎……
+LegendEvent_02_012ID	23	Lila	リラ	守護者にしてはやけに追跡がしつこいと思ったが……\nそう考えれば納得はいくな	Lila	I thought it was odd that guardians would pursue people like that. Looking at it that way, it makes sense.	莉拉	我就觉得以守护者来说，它们过于偏重追踪……\n如果是这样就说得通了。	莉拉	我也覺得守護者不會如此死纏爛打……\n這樣想的話，就說得通了。
+LegendEvent_02_012ID	24	Klaudia	クラウディア	そうだとしたら、余計に危ないよ……\n知らずにこの場所に入ってしまったら……	Klaudia	Which only makes this place even more dangerous. If you stepped in here not knowing what awaited you...	科洛蒂娅	那这个地方对不明就里闯进来的人来说……\n就更加凶险了……	科洛蒂婭	即使如此，也太危險了……\n要是在不知情的情況下踏進這裡……
+LegendEvent_02_012ID	25	Ryza	ライザ	ねえ、みんな。あたしはやっぱり、\nこの「楽園」の門は閉じたほうがいいと思う	Ryza	Hey, guys? I really think that we should close the gate to Paradise.	莱莎	各位，\n我还是觉得关闭“乐园”的门比较好。	萊莎	各位，我覺得果然還是\n關上這個「樂園」的大門比較好。
+LegendEvent_02_012ID	26	Ryza	ライザ	アンペルさんは、どう思う？	Ryza	What do you think, Empel?	莱莎	安佩尔先生怎么想？	萊莎	安佩爾先生，你覺得呢？
+LegendEvent_02_012ID	27	Empel	アンペル	私か？　そうだな……	Empel	Me? Well...	安佩尔	你问我？唔……	安佩爾	我嗎？這個嘛……
+LegendEvent_02_012ID	28	Empel	アンペル	この場所が、大昔の環境をそのまま残した\n貴重な資源の宝庫であることは間違いなさそうだ	Empel	On one hand, this is a perfectly preserved ancient environment. The resources and treasures it contains are likely innumerable.	安佩尔	毫无疑问，这个地方保留着古代的自然风貌，\n是珍贵的资源宝库。	安佩爾	這個地方保存遠古時代的環境至今，\n看起來確實是貴重資源的寶庫。
+LegendEvent_02_012ID	29	Empel	アンペル	しかし、この場所が創られた経緯が\n決してほめられたものではないことも分かった	Empel	However, the particulars of how it was maintained are not the slightest bit praiseworthy.	安佩尔	但是这个世界曾经发生过的事\n让人实在无法接受。	安佩爾	而我們同時得知了此地被創造出來的原因。\n那並不是一件值得稱讚的事。
+LegendEvent_02_012ID	30	Empel	アンペル	――ならば、封じるべきだろう。\n危険を冒してまで守るべき場所だとは思わない	Empel	Thus, it would be best to seal it away. It isn't a place worth risking lives to preserve.	安佩尔	——因此我认为应该封锁这个地方。\n不值得为了留存这种地方而给人们带来危险。	安佩爾	──既然如此，它絕對該被封印起來。\n我不認為這裡是值得冒險守護的地方。
+LegendEvent_02_012ID	31	Ryza	ライザ	……やっぱり。アンペルさんならそう言うと思った	Ryza	I had a feeling you'd say that.	莱莎	……我就知道安佩尔先生肯定会这么说。	萊莎	……我就知道安佩爾先生一定會這麼說。
+LegendEvent_02_012ID	32	Ryza	ライザ	よし、決めた！　「楽園」の門を閉じよう！	Ryza	Okay, it's official! We're going to close the gate to Paradise!	莱莎	好，就这么办！关上“乐园”的门吧！	萊莎	好，決定了！我們把「樂園」的大門關上吧！
+LegendEvent_02_012ID	33	Klaudia	クラウディア	うん、そうだね	Klaudia	As we should.	科洛蒂娅	嗯，就这么办。	科洛蒂婭	嗯，就這麼辦。
+LegendEvent_02_012ID	34	Lent	レント	しかし、どうやって閉じればいいんだ？	Lent	But how are we supposed to do that?	兰托	不过要怎么关上门啊？	蘭托	不過，要如何把門關上呢？
+LegendEvent_02_012ID	35	Ryza	ライザ	さっきの祠に何か手掛かりがあるかも……\n探しに行ってみよう！	Ryza	Those little shrines might have some other clues. Let's go take a look!	莱莎	刚才的祭坛里可能有什么线索……\n我们去找找吧！	萊莎	剛才的神祠或許會有什麼線索………\n我們去找找看吧！
+LegendEvent_02_013ID	0	Ryza	ライザ	そっちの祠には、何か変わったものは……	Ryza	That shrine looks a little different from the others...	莱莎	那边的祭坛里有没有值得注意的东西……	萊莎	那個神祠有沒有什麼奇怪的東西呢……
+LegendEvent_02_013ID	1	Ryza	ライザ	ええっ！　何この音！？	Ryza	Whoa! What's that sound?	莱莎	咦！什么声音？！	萊莎	咦！這是什麼聲音！？
+LegendEvent_02_013ID	2	Lila	リラ	警報か？	Lila	An alarm?	莉拉	是警报声吗？	莉拉	是警報嗎？
+LegendEvent_02_013ID	3	Klaudia	クラウディア	な、何が起こってるの！？	Klaudia	What's going on?!	科洛蒂娅	发、发生什么了？！	科洛蒂婭	發、發生什麼事了！？
+LegendEvent_02_013ID	4	Tao	タオ	みんな、注意して！	Tao	Watch out, everyone!	塔奥	各位，当心！	塔奧	各位，小心點！
+LegendEvent_02_013ID	5	Lent	レント	お、おい！　石の魔物が！	Lent	Whoa! The stone monsters!	兰托	快、快看！是石头魔物！	蘭托	呃、喂！岩石魔物出現了！
+LegendEvent_02_013ID	6	Lila	リラ	これは……まさかこの世界にも？\nいや、気配が違う……姿が似たのは偶然か	Lila	They're here too...? No, their presence is different. They just happen to look similar.	莉拉	这是……难道在这个世界里也有？\n不对，气息不同……长相相同纯属偶然吗？	莉拉	難不成……這個世界也有？\n不，但氣息不太一樣……外表相似只是碰巧嗎？
+LegendEvent_02_013ID	7	Empel	アンペル	警備にしては厳重なことだ。\nさぞかし重大な秘密が隠されてるらしいな	Empel	What strict guardians they are. They must be concealing some sort of important secret.	安佩尔	这种警卫措施也太森严了。\n看来这里一定隐藏着极其重大的机密。	安佩爾	戒備未免也太過森嚴了。\n想必藏著什麼重大的秘密吧。
+LegendEvent_02_013ID	8	Lila	リラ	ライザ。戦う覚悟はできてるか？	Lila	Ryza. Are you ready to fight?	莉拉	莱莎，你做好战斗准备了吗？	莉拉	萊莎，妳做好戰鬥的心理準備了嗎？
+LegendEvent_02_013ID	9	Ryza	ライザ	もちろん！\nあたしは「楽園」の門を閉じるって決めたんだから！	Ryza	Of course! I have been ever since we decided to shut that gate!	莱莎	那当然！\n因为我已经下定决心关闭“乐园”的门了！	萊莎	那當然！\n因為我已經決定要關上「樂園」的大門了啊！
+LegendEvent_02_013ID	10	Empel	アンペル	私も全力を尽くそう	Empel	I will also fight to the bitter end.	安佩尔	我也会尽全力的。	安佩爾	我也會全力以赴。
+LegendEvent_02_013ID	11	Ryza	ライザ	ふふっ、ありがと！　――来るよ！	Ryza	Hehe, thanks! ...Okay, here they come!	莱莎	呵呵，谢谢你！当心——敌人要攻过来了！	萊莎	呵呵，謝謝你們！準備迎戰！
+LegendEvent_02_014ID	0	Ryza	ライザ	はぁ……はぁ……！　これで最後……っ！	Ryza	*Huff* *Huff* That's it!	莱莎	呼……呼……！吃我最后一击……！	萊莎	呼……呼……！到此為止……！
+LegendEvent_02_014ID	1	Lent	レント	はぁぁぁ。やっと魔物たちの動きが止まったぞ！	Lent	Haaah... They finally stopped moving!	兰托	呼——魔物们终于不动了！	蘭托	呼～～魔物們總算停止行動了！
+LegendEvent_02_014ID	2	Tao	タオ	ひとまず安心、かな	Tao	Does that mean we can take a moment to breathe?	塔奥	暂时能松一口气了吧。	塔奧	暫時可以放心了，對吧？
+LegendEvent_02_014ID	3	Lila	リラ	待て！　油断するな！	Lila	Wait! Don't let your guard down!	莉拉	等等！别大意！	莉拉	等等！別大意！
+LegendEvent_02_014ID	4	Empel	アンペル	そうだな。やつらの動きがおかしい	Empel	Indeed. Something is wrong.	安佩尔	是啊，它们的举动显然不正常。	安佩爾	確實，牠們的行動很可疑。
+LegendEvent_02_014ID	5	Ryza	ライザ	いったい何が――	Ryza	What do you m—	莱莎	到底发生了什么——	萊莎	到底發生了──
+LegendEvent_02_014ID	6	Ryza	ライザ	ひゃぁっ！	Ryza	Eeeeeek!	莱莎	呀——！	萊莎	呀啊！
+LegendEvent_02_014ID	7	Klaudia	クラウディア	きゃああああっ！	Klaudia	Aaaaaaah!	科洛蒂娅	啊——！	科洛蒂婭	呀啊啊啊啊！
+LegendEvent_02_014ID	8	Ryza	ライザ	クラウディア！	Ryza	Klaudia!	莱莎	科洛蒂娅！	萊莎	科洛蒂婭！
+LegendEvent_02_014ID	9	Ryza	ライザ	はぁ……ふぅ……びっくりしたあ。\nクラウディア、大丈夫？	Ryza	*Huff* Phew, that startled me. Klaudia, are you okay?	莱莎	呼……呼……吓死我了。\n科洛蒂娅，你没事吧？	萊莎	哈啊……呼……嚇我一跳！\n科洛蒂婭，妳沒事吧？
+LegendEvent_02_014ID	10	Klaudia	クラウディア	あ、ありがとう、ライザ……ふふ。\n全身びしょ濡れになっちゃったね	Klaudia	Th-Thank you, Ryza. Haha, goodness, I'm soaked from head to toe.	科洛蒂娅	谢、谢谢你，莱莎……呵呵。\n全身都湿透了。	科洛蒂婭	謝、謝謝妳，萊莎。呵呵……\n變得渾身溼答答了。
+LegendEvent_02_014ID	11	Ryza	ライザ	あはは、ホントだ！	Ryza	Ahaha! No kidding!	莱莎	哈哈，是啊！	萊莎	啊哈哈，對啊！
+LegendEvent_02_014ID	12	Empel	アンペル	大丈夫か！？	Empel	Are you all right?!	安佩尔	没事吧？！	安佩爾	妳們沒事吧！？
+LegendEvent_02_014ID	13	Ryza	ライザ	はーい！	Ryza	I'm fine!	莱莎	没事——！	萊莎	沒事～！
+LegendEvent_02_014ID	14	Empel	アンペル	ふっ……ははっ、ずぶ濡れじゃないか	Empel	Pfft... Hahaha! You're dripping wet!	安佩尔	呵……哈哈，你们都湿透了啊。	安佩爾	呼……哈哈，竟然全身都溼了。
+LegendEvent_02_014ID	15	Ryza	ライザ	えっへへ……。\nでも、これぞ冒険って感じ？	Ryza	Ehehehe... Well, that's adventuring for you.	莱莎	嘿嘿……\n这样才叫冒险吧？	萊莎	嘿嘿……\n不過，這樣很有冒險的感覺吧？
+LegendEvent_02_014ID	16	Klaudia	クラウディア	あはは。これもいい思い出になるね	Klaudia	Haha! True, this will make for a good memory.	科洛蒂娅	哈哈，这也算是美好的回忆呢。	科洛蒂婭	啊哈哈，會成為美好的回憶之一。
+LegendEvent_02_014ID	17	Ryza	ライザ	うん。あたしたちの冒険の思い出だね	Ryza	Yep, it's our brand of trouble.	莱莎	嗯，是我们的冒险回忆。	萊莎	嗯，是我們一起冒險的回憶。
+LegendEvent_02_014ID	18	Empel	アンペル	しかし、そのままだと風邪を引くぞ。\n乾くまで休憩にしよう	Empel	Still, we don't want you catching a cold. We should take a break until you dry off.	安佩尔	不过你们这样会感冒的，\n休息一下，弄干衣服吧。	安佩爾	但這樣可是會感冒的！\n等妳們弄乾身體後我們再出發吧。
+LegendEvent_02_014ID	19	Ryza	ライザ	あはは、そうだね。そうさせてもらおっかな	Ryza	Ahaha, good point. Let's do that.	莱莎	哈哈，也对。那我们就先休息一下啦。	萊莎	啊哈哈，你說得對。那我們先休息一下吧。
+LegendEvent_02_015ID	0	Lila	リラ	ライザ。少しいいか	Lila	Ryza, do you have a moment?	莉拉	莱莎，你有空吗？	莉拉	萊莎，可以過來一下嗎？
+LegendEvent_02_015ID	1	Ryza	ライザ	リラさん。もしかして、さっき言ってた話？	Ryza	Oh, Lila. Is this about that thing you wanted to talk about?	莱莎	莉拉小姐，你要找我聊之前说的事？	萊莎	莉拉小姐，難道是之前妳提過的那件事？
+LegendEvent_02_015ID	2	Lila	リラ	そうだ。率直に聞く。\nお前は、アンペルの記憶を取り戻したいと思うか？	Lila	Yes, it is. Look, I'll be blunt. Do you want Empel to get his memories back?	莉拉	嗯，我就直接问了。\n你想找回安佩尔的记忆吗？	莉拉	對，我就單刀直入地問了。\n妳希望安佩爾恢復記憶嗎？
+LegendEvent_02_015ID	3	Ryza	ライザ	え？　それはもちろん。\nそのためにアンペルさんを連れて冒険に来たんだから	Ryza	Huh? Yeah, of course. That's why we set out on this adventure in the first place.	莱莎	咦？当然想了。\n我就是为了这个才带着他一起冒险的呀。	萊莎	咦？當然囉。\n所以我才會邀請安佩爾先生一起來冒險。
+LegendEvent_02_015ID	4	Ryza	ライザ	リラさんだってそうでしょ？	Ryza	Isn't it the same for you, Lila?	莱莎	莉拉小姐也一样吧？	萊莎	莉拉小姐妳不也是這樣想的嗎？
+LegendEvent_02_015ID	5	Lila	リラ	私は……記憶が戻らなくても\nいいかもしれないと思っている	Lila	I...think it might be better if he didn't remember.	莉拉	我倒是觉得……\n就算他的记忆不恢复或许也不错。	莉拉	我……覺得他就算無法恢復記憶\n也無所謂。
+LegendEvent_02_015ID	6	Ryza	ライザ	え……？　ど、どうして！？	Ryza	You do? But why?!	莱莎	咦……？为、为什么啊？！	萊莎	咦……？為、為什麼！？
+LegendEvent_02_015ID	7	Lila	リラ	お前は、アンペルがなぜ\n放浪の旅に出たか知っているな？	Lila	Do you know why he was roaming around all this time?	莉拉	你应该知道的吧，\n安佩尔为什么会像流浪般四处旅行。	莉拉	妳知道安佩爾\n四處飄泊的原因吧？
+LegendEvent_02_015ID	8	Ryza	ライザ	ええと、確か……元々は王宮で働いていたけど、\nその方針に反対したせいで追放されたとか……	Ryza	Um, he used to work at the palace, but he didn't agree with their policies and got banished.	莱莎	唔，我记得……他之前在王宫工作，\n但因为反对王宫的人们制定的方针而被流放了……	萊莎	呃，我記得……他原本在王宮工作，\n似乎因為反對王宮的方針而遭到驅逐……
+LegendEvent_02_015ID	9	Lila	リラ	そうだ。友と信じていた錬金術士にも裏切られ……\nその上、門を悪用した太古の錬金術士たちの罪を知った	Lila	Right. The alchemists he thought were his friends betrayed him. Plus, he knew about the crimes of the ancient alchemists and how they were abusing the gates.	莉拉	没错，他深信的炼金术士朋友也欺骗了他……\n另外，他还知晓上古炼金术士利用门作恶的事。	莉拉	沒錯，他不但遭到鍊金術士友人背叛……\n還得知了太古鍊金術士們濫用大門的罪行。
+LegendEvent_02_015ID	10	Lila	リラ	あいつは錬金術士たちの犯した罪に抗い、\nそれを正すために旅を続けていた	Lila	He set off on his journey to right all those wrongs.	莉拉	他是为了修正炼金术士们犯下的罪孽，\n才踏上了旅途。	莉拉	為了反抗及修正鍊金術士們所犯下的罪過，\n那傢伙踏上了漫長的旅途。
+LegendEvent_02_015ID	11	Lila	リラ	その行動原理は決して前向きなものとは言えない。\n私と同じ……復讐者のようなものだ	Lila	Those principles aren't exactly the most positive. He's acting more as an avenger... Just like me.	莉拉	推动他前进的并不是积极乐观的情绪。\n他和我一样……心中怀有复仇的念头。	莉拉	這並非積極正向的理由。\n我也一樣……我們就像是復仇者。
+LegendEvent_02_015ID	12	Ryza	ライザ	だから……\nそんな過去は忘れたほうがいいってことですか？	Ryza	So you think it would be better if he didn't remember his past?	莱莎	所以……\n你觉得忘掉这段过去比较好？	萊莎	所以……\n妳覺得忘掉那樣的過去比較好嗎？
+LegendEvent_02_015ID	13	Lila	リラ	ああ。好奇心と探究心のままに、純粋に冒険を\n楽しむあいつの姿を見て、私はそう思った	Lila	Yeah. He's enjoying himself right now, and he can just let himself be curious about everything.	莉拉	是的，看着他现在在好奇心与求知欲的驱动下\n单纯享受着冒险，我就冒出了这样的想法。	莉拉	對。看到那傢伙充滿好奇心、真心享受冒險的模樣，\n讓我忍不住這麼想。
+LegendEvent_02_015ID	14	Lila	リラ	もちろん、いつか記憶が戻る時は来るのかもしれない。\nだが、それを手伝う必要はないんじゃないか？	Lila	I mean, his memories might still come back eventually. So do we really need to help speed the process along?	莉拉	当然，总有一天他可能会恢复记忆。\n但我们没必要加快这个进程吧？	莉拉	當然，或許他的記憶總有一天會恢復。\n所以，我們應該不需要刻意介入吧？
+LegendEvent_02_015ID	15	Ryza	ライザ	それは……でも……	Ryza	I guess not, but...	莱莎	这……可是……	萊莎	這個……可是……
+LegendEvent_02_015ID	16	Lila	リラ	別に、お前たちを止める気はない。\nただ、私の考えを話しておきたかった	Lila	I'm not going to do anything to stop you guys. I just wanted to let you know how I feel about it.	莉拉	我并不打算阻拦你们。\n我只是想告诉你我的想法。	莉拉	我並不打算阻止你們，\n只是想先把我的想法告訴妳。
+LegendEvent_02_015ID	17	Lila	リラ	また後でな	Lila	Later, then.	莉拉	待会儿见。	莉拉	晚點見。
+LegendEvent_02_015ID	18	Ryza	ライザ	…………。\n今のままのほうが、アンペルさんは幸せなのかな……	Ryza	I wonder if Empel really is happier as he is now.	莱莎	……\n安佩尔先生他保持现在这样会更幸福吗……	萊莎	唔…………\n現在的安佩爾先生真的比較幸福嗎……？
+LegendEvent_02_015ID	19	Empel	アンペル	私の過去……か	Empel	My past, huh...	安佩尔	我的过去啊……	安佩爾	我的過去啊……？
+LegendEvent_02_016ID	0	Ryza	ライザ	きっと、この祠に何か秘密があるはず。ええと……	Ryza	I'm sure this shrine is hiding some sort of secret. Let's see...	莱莎	这个祭坛里肯定有什么秘密。我找找……	萊莎	這座神祠一定有什麼秘密才對，我看看……
+LegendEvent_02_016ID	1	Tao	タオ	あ！　これ……！	Tao	Oh!	塔奥	啊！这是……！	塔奧	啊！這個是……！
+LegendEvent_02_016ID	2	Empel	アンペル	なるほど。門の構造について記載されたもののようだ	Empel	Aha. These appear to be records regarding the gates' construction.	安佩尔	哦，这上面似乎记载了门的构造。	安佩爾	原來如此，上面似乎記載了門的構造的相關資訊。
+LegendEvent_02_016ID	3	Tao	タオ	つまり、「楽園」の鍵……	Tao	"In other words, the ""key"" to Paradise."	塔奥	也就是“乐园”的钥匙……	塔奧	也就是，「樂園」的鑰匙……
+LegendEvent_02_016ID	4	Lila	リラ	先ほどの群れは、これを守っていたというわけか	Lila	So that's what that group of monsters was trying to protect.	莉拉	刚才那些魔物就是在守护它吧。	莉拉	所以說，剛才那些魔物守護的就是這個嗎？
+LegendEvent_02_016ID	5	Ryza	ライザ	それだったら……うん、こういうものを作れば……	Ryza	Okay, then... Mhm, if I make something like...	莱莎	那么……嗯，只要制造这种东西……	萊莎	如果是這樣……嗯，只要做出這種東西……
+LegendEvent_02_016ID	6	Empel	アンペル	錬金術を使えばあの門を閉じられるのか？	Empel	You can use alchemy to make something that would be able to close the gate?	安佩尔	只要使用炼金术就能关上那道门吗？	安佩爾	使用鍊金術就能關上那扇門嗎？
+LegendEvent_02_016ID	7	Ryza	ライザ	……多分、いけると思う	Ryza	I think so.	莱莎	……应该能行。	萊莎	應該行得通……我想。
+LegendEvent_02_016ID	8	Tao	タオ	それじゃあ、一度アトリエに戻ろうか	Tao	Then let's head back to the atelier.	塔奥	那就回一趟炼金工房吧。	塔奧	那我們先回鍊金工房一趟吧。
+LegendEvent_02_016ID	9	Lila	リラ	その前に、まずは無事にここを出なくてはならないがな	Lila	We're going to have to clear the way first, though.	莉拉	那得先平安离开这里才行。	莉拉	但在這之前，我們得先平安離開這裡。
+LegendEvent_02_016ID	10	Lent	レント	やっぱりこうなるよな……！	Lent	Figures it'd go like this.	兰托	真是阴魂不散啊……！	蘭托	果然會演變成這種情況……！
+LegendEvent_02_016ID	11	Empel	アンペル	お前さんたちは先に行って、門を閉じるための\n準備をしてくれ！　ここは私が食い止める	Empel	You go ahead and do what you need to get ready to close to gate! I'll stay here and hold them off.	安佩尔	你们先去做好关门的准备！\n我来抵挡敌人。	安佩爾	你們先走，做好把門關上的準備！！\n這裡由我來擋著。
+LegendEvent_02_016ID	12	Lila	リラ	私も残ろう	Lila	Me too.	莉拉	我也留下。	莉拉	我也留下吧。
+LegendEvent_02_016ID	13	Empel	アンペル	頼んだぞ、お前さんたち	Empel	Go on, we're counting on you.	安佩尔	拜托你们了。	安佩爾	拜託你們囉。
+LegendEvent_02_016ID	14	Ryza	ライザ	……分かった！　それじゃ行ってくるね	Ryza	Okay! We'll be right back!	莱莎	……好！那我们去去就回。	萊莎	……明白了！我們去去就回！
+LegendEvent_02_017ID	0	Lent	レント	急いで準備しようぜ	Lent	We'd better get right to it.	兰托	赶紧准备吧。	蘭托	我們趕緊來準備吧。
+LegendEvent_02_017ID	1	Klaudia	クラウディア	何か足りない素材はない？	Klaudia	Are you missing any materials?	科洛蒂娅	有没有缺的素材？	科洛蒂婭	素材都夠用嗎？
+LegendEvent_02_017ID	2	Ryza	ライザ	大丈夫。この内容なら手持ちのものだけで作れるから！	Ryza	Nope, I can make it with what I've already got on hand.	莱莎	没问题，用手头的东西就能做好！	萊莎	別擔心。用持有的材料就能製作了！
+LegendEvent_02_017ID	3	Ryza	ライザ	えっと、まずは……	Ryza	Um, first is...	莱莎	唔，首先是……	萊莎	呃，首先……
+LegendEvent_02_017ID	4	Lent	レント	そういや、どんなものを作るつもりなんだ？	Lent	Wait, what are you going to be making?	兰托	说起来你要做什么样的东西啊？	蘭托	妳打算做什麼東西？
+LegendEvent_02_017ID	5	Ryza	ライザ	あの門は特殊な薬品を燃料にして動いてる\nみたいだから、それを中和する薬を作る！	Ryza	The gates run on a special kind of chemical fuel, so I'm going to make a neutralizer!	莱莎	那道门似乎是以特殊药品为燃料运作的，\n所以我们要制作能中和它们的药！	萊莎	那扇門好像是以特殊的藥品作為驅動燃料，\n所以我打算做出能中和它的藥！
+LegendEvent_02_017ID	6	Ryza	ライザ	早速始めよう！	Ryza	Let's hurry and get synthesizing!	莱莎	那就开始吧！	萊莎	我們馬上開始吧！
+LegendEvent_02_017ID	7		みんな	おー！	Everyone	Yeah!	所有人	好！	大家	好～！
+LegendEvent_02_017ID	8	Ryza	ライザ	よし、できた！	Ryza	Okay, it's done!	莱莎	好，完成了！	萊莎	很好，完成了！
+LegendEvent_02_017ID	9	Tao	タオ	いつも以上に順調だったね	Tao	That went even better than usual.	塔奥	比平时还要顺利啊。	塔奧	比平時還要順利呢。
+LegendEvent_02_017ID	10	Ryza	ライザ	もしかしたらこの服が力をくれたのかも！\nなんてねー、あはは	Ryza	Maybe it's the power of this outfit... Nah! Couldn't be. Ahaha!	莱莎	可能是这身衣服给了我力量吧！\n开玩笑的啦，哈哈。	萊莎	或許都是多虧了這身服裝！\n開玩笑的～啊哈哈。
+LegendEvent_02_017ID	11	Klaudia	クラウディア	……ライザ？	Klaudia	Ryza?	科洛蒂娅	……莱莎？	科洛蒂婭	……萊莎？
+LegendEvent_02_017ID	12	Lent	レント	どうした？　早く行こうぜ	Lent	What's wrong? Come on, we've got to go.	兰托	怎么了？快走啊。	蘭托	怎麼了？我們快點走吧！
+LegendEvent_02_017ID	13	Ryza	ライザ	ねえ、みんなにちょっと相談があるんだけど	Ryza	Actually, there's something I could use everyone's advice on...	莱莎	我还有点事想和你们商量。	萊莎	那個，我有事想和大家商量一下。
+LegendEvent_02_017ID	14	Tao	タオ	記憶が戻らないほうが幸せ……か	Tao	"""He'd be happier without his memories""?"	塔奥	是不是失去记忆反而比较幸福……是吗……	塔奧	不要恢復記憶比較幸福……是嗎？
+LegendEvent_02_017ID	15	Lent	レント	確かに、そういう考え方もあるかもな	Lent	That is another valid way of looking at the situation.	兰托	这也不失为一种看待事情的方式吧。	蘭托	的確，這麼一說好像也有道理。
+LegendEvent_02_017ID	16	Klaudia	クラウディア	ライザはどう思ってるの？	Klaudia	Ryza, what do you think?	科洛蒂娅	莱莎，你自己怎么想？	科洛蒂婭	萊莎妳覺得呢？
+LegendEvent_02_017ID	17	Ryza	ライザ	あたしは……正直、アンペルさんが今幸せなのなら、\nそのままでもいいのかも、って思っちゃってる	Ryza	For me, well... Honestly, if Empel is happy as he is, then I don't see why he can't stay like that.	莱莎	说实话……如果安佩尔先生现在幸福的话，\n那我会觉得维持现状也不错。	萊莎	我……老實說，如果安佩爾先生覺得現在很幸福，\n那維持現狀也不錯。
+LegendEvent_02_017ID	18	Ryza	ライザ	先生と教え子っていう関係じゃなくなっちゃうけど……\nでも、また別の形で仲良くなることだってできるはず	Ryza	We'd lose our connection as teacher and student, but...it's not like we can't be friends in other ways.	莱莎	虽然这样一来我们就不是老师和学生了……\n但我们一定还能通过别的形式处好关系。	萊莎	雖然這樣就不再是師徒關係了……\n但我們應該還是能以別的形式當朋友。
+LegendEvent_02_017ID	19	Lent	レント	まあ実際、今回だって一緒に冒険したりしてるしな	Lent	Right, like how we're all adventuring together now.	兰托	这次不也一起冒险了嘛。	蘭托	嗯，實際上我們這次也一起冒險了嘛。
+LegendEvent_02_017ID	20	Tao	タオ	そうだね。そもそも、記憶を取り戻す方法だって\nまだ分かっていないわけだし	Tao	Exactly. Besides, it's not as though we have a sure way of returning those memories to him either.	塔奥	是啊，而且说实话，\n我们也不清楚该如何找回记忆。	塔奧	沒錯。而且，我們根本不曉得\n恢復記憶的方法。
+LegendEvent_02_017ID	21	Klaudia	クラウディア	……分かった。\nライザがそう言うなら、私も合わせるよ	Klaudia	Very well. If that's how you feel, then I'm in agreement.	科洛蒂娅	……我明白了。\n既然莱莎这么说，那我也持同样意见。	科洛蒂婭	……我知道了。\n既然萊莎都這麼說了，我會全力配合的。
+LegendEvent_02_017ID	22	Ryza	ライザ	……ありがとう	Ryza	Thanks, everyone.	莱莎	……谢谢你。	萊莎	……謝謝大家。
+LegendEvent_02_017ID	23	Ryza	ライザ	じゃあ、行こう！　「楽園」の門を閉じに！	Ryza	Okay, let's get a move on! It's time to close the gate to Paradise!	莱莎	那我们就出发吧！去关上“乐园”的门！	萊莎	那我們走吧！去關上「樂園」的大門！
+LegendEvent_02_018ID	0	Ryza	ライザ	あ、アンペルさんにリラさん！\nよかった、二人も外に出られたんだね	Ryza	Oh! Empel! Lila! Thank goodness, you two made it out!	莱莎	啊，安佩尔先生、莉拉小姐！\n太好了，你们也出来了啊。	萊莎	啊，是安佩爾先生和莉拉小姐！\n太好了，你們倆都順利出來了啊。
+LegendEvent_02_018ID	1	Klaudia	クラウディア	魔物は大丈夫でしたか？	Klaudia	Did the monsters give you much trouble?	科洛蒂娅	那些魔物还好对付吧？	科洛蒂婭	魔物呢？
+LegendEvent_02_018ID	2	Lila	リラ	ああ。１匹たりとも外には出していない	Lila	No. We didn't let a single one get by.	莉拉	嗯，我一只都没让它们逃出去。	莉拉	嗯，一隻都沒跑出來。
+LegendEvent_02_018ID	3	Lent	レント	さすがだな！	Lent	As if there was any doubt!	兰托	实在是厉害！	蘭托	太厲害了！
+LegendEvent_02_018ID	4	Ryza	ライザ	こっちも門を閉じるための道具を作ってきたよ！	Ryza	We made the gate-closing tool, too!	莱莎	我们也做好了关门的道具！	萊莎	我們也做好能關上門的道具了！
+LegendEvent_02_018ID	5	Empel	アンペル	じゃあ、早速始めるか？	Empel	Well then, shall we put it to work?	安佩尔	那就赶快开始吧？	安佩爾	那我們快點開始吧？
+LegendEvent_02_018ID	6	Ryza	ライザ	うん	Ryza	Yeah.	莱莎	嗯。	萊莎	嗯。
+LegendEvent_02_018ID	7	Empel	アンペル	この門を閉じれば、今回の冒険も終わりか。\n少し、寂しい気もするな	Empel	I suppose that will mark the end of our adventure, which is a little sad.	安佩尔	关上门的话，这次冒险也就告终了。\n这么一想，感觉心中有几分怅然。	安佩爾	關上這道門後，這次的冒險就結束了啊。\n感覺有點寂寞呢。
+LegendEvent_02_018ID	8	Ryza	ライザ	アンペルさん……	Ryza	Empel...	莱莎	安佩尔先生……	萊莎	安佩爾先生……
+LegendEvent_02_018ID	9	Empel	アンペル	色々と実りの多い……いや、格好つけるのはよそう	Empel	It was a rather fruitful endeavor, and... No, I should speak more plainly.	安佩尔	旅途中我受益良多……唉，我还是别装腔作势了。	安佩爾	這是一次取得了豐碩成果的……不，我還是別耍帥了。
+LegendEvent_02_018ID	10	Empel	アンペル	楽しい冒険だった。ありがとう、\nライザ、リラ、クラウディア、タオ、レント	Empel	I had fun. Ryza, Lila, Klaudia, Tao, Lent, thank you all.	安佩尔	这是一场愉快的冒险，谢谢你们，\n莱莎、莉拉、科洛蒂娅、塔奥、兰托。	安佩爾	這次的冒險很愉快，\n萊莎、莉拉、科洛蒂婭、塔奧、蘭托，謝謝你們。
+LegendEvent_02_018ID	11	Ryza	ライザ	あたしも楽しかったです。\nでも、冒険は帰るまでが冒険！　まだ終わってないよ！	Ryza	I had a great time too! But it's not over until we make it home!	莱莎	我也很开心。不过，在回到家之前\n都算是冒险的途中！我们的冒险还没有结束！	萊莎	我也覺得很開心。\n不過，直到回去前都算是冒險！還沒結束呢！
+LegendEvent_02_018ID	12	Empel	アンペル	ああ……そうだな	Empel	Ah, yes. That's true enough.	安佩尔	嗯……是啊。	安佩爾	嗯……妳說得對。
+LegendEvent_02_018ID	13	Lila	リラ	ほら。急がないとまた例の魔物が現れるかもしれんぞ	Lila	Focus, guys. If you don't hurry up, we're going to get another wave of monsters.	莉拉	快走吧，不然那些魔物又要冒出来了。	莉拉	我們不加快動作的話，魔物搞不好又會出現。
+LegendEvent_02_018ID	14	Ryza	ライザ	うん。じゃ……門を閉じるね	Ryza	Yeah. Okay, I'm going to close the gate.	莱莎	嗯。那么……我要关上门了。	萊莎	嗯。那……我要關門了喔。
+LegendEvent_02_018ID	15	Tao	タオ	門が……	Tao	The gate, it's...	塔奥	门……	塔奧	門……
+LegendEvent_02_018ID	16	Klaudia	クラウディア	閉じていってるんだ……	Klaudia	Oh, it IS closing.	科洛蒂娅	正在关闭……	科洛蒂婭	正在關上……
+LegendEvent_02_018ID	17	Ryza	ライザ	…………	Ryza	...	莱莎	……	萊莎	…………
+LegendEvent_02_018ID	18	Lent	レント	なんだ！？	Lent	What the...?!	兰托	怎么回事？！	蘭托	這是怎麼回事！？
+LegendEvent_02_018ID	19	Tao	タオ	門の向こうから魔物が……！	Tao	There are more monsters coming this way!	塔奥	从门里面钻出了魔物……！	塔奧	魔物從門的另一邊……！
+LegendEvent_02_018ID	20	Lila	リラ	門を閉じさせないつもりか！	Lila	What, so they think they can stop us from closing it?	莉拉	是不想让我们关上门吗？！	莉拉	打算阻止我們關門嗎？！
+LegendEvent_02_018ID	21	Empel	アンペル	させるか！	Empel	Just try it!	安佩尔	休想得逞！	安佩爾	別想得逞！
+LegendEvent_02_018ID	22	Empel	アンペル	う、おおおおおおっ！	Empel	Ngh... Haaaaaah!	安佩尔	唔——哦哦哦哦哦哦！	安佩爾	喝、喝啊啊啊啊啊！
+LegendEvent_02_018ID	23	Ryza	ライザ	アンペルさん！　大丈夫！？	Ryza	Empel! Are you all right?!	莱莎	安佩尔先生！你没事吧？！	萊莎	安佩爾先生！沒事吧！？
+LegendEvent_02_018ID	24	Empel	アンペル	心配いらん！	Empel	Don't worry about me!	安佩尔	不用担心！	安佩爾	不用擔心我！
+LegendEvent_02_018ID	25	Empel	アンペル	ぐ……！　まだまだ……！	Empel	Khh! This isn't over yet...!	安佩尔	呜……！我要撑住……！	安佩爾	唔……！還沒完呢……！
+LegendEvent_02_018ID	26	Empel	アンペル	――――！！	Empel	...!	安佩尔	……！！	安佩爾	────！！
+LegendEvent_02_018ID	27	Empel	アンペル	（これは……私の、記憶――）	Empel	(My memories...)	安佩尔	（这是……我的记忆——）	安佩爾	（這是……我的、記憶──）
+LegendEvent_02_018ID	28	Empel	アンペル	（――無様な姿は、見せられんな）	Empel	(Well, I had better not look any less than capable.)	安佩尔	（——让你们看到我狼狈的样子了啊。）	安佩爾	（如此不堪的模樣──不能被看見！）
+LegendEvent_02_018ID	29	Empel	アンペル	おおおおおおおおおっ！！	Empel	Raaaaaaagh!	安佩尔	哦哦哦哦哦哦哦哦哦！！	安佩爾	喔喔喔喔喔喔喔喔喔！！
+LegendEvent_02_018ID	30	Tao	タオ	門が、閉まった……	Tao	The gate... It's finally closed.	塔奥	门关上了……	塔奧	門，關上了……
+LegendEvent_02_018ID	31	Klaudia	クラウディア	アンペルさん！	Klaudia	Empel!	科洛蒂娅	安佩尔先生！	科洛蒂婭	安佩爾先生！
+LegendEvent_02_018ID	32	Ryza	ライザ	アンペルさん！　ねえ！　目を覚ましてよ！	Ryza	Empel! Please! You've got to wake up!	莱莎	安佩尔先生！快醒醒啊！	萊莎	安佩爾先生！喂！你醒醒啊！
+LegendEvent_02_018ID	33	Empel	アンペル	……そんな顔をするな	Empel	...Come now. Don't make that face.	安佩尔	……别哭丧着脸了。	安佩爾	……別露出這種表情。
+LegendEvent_02_018ID	34	Ryza	ライザ	っ！　よかった……無事だったんだね	Ryza	Thank goodness! You're all right!	莱莎	啊！太好了……你没事啊。	萊莎	唔！太好了……你沒事。
+LegendEvent_02_018ID	35	Ryza	ライザ	その腕、大丈夫だった……？	Ryza	Um, is your arm okay?	莱莎	你的手臂没事吧……？	萊莎	你的那隻手臂，不要緊吧……？
+LegendEvent_02_018ID	36	Empel	アンペル	ああ、心配いらない。……なにせ、\n自慢の教え子が作ってくれた特別な品だからな	Empel	Yes, it's fine. After all, it was specially crafted by my star pupil.	安佩尔	嗯，别担心……\n毕竟这可是我引以为豪的学生做的特制物品。	安佩爾	嗯，不用擔心……畢竟，\n這是我自豪的學生為我特製的啊。
+LegendEvent_02_018ID	37	Ryza	ライザ	え、そのこと話したっけ……	Ryza	Wait, if you remember that, then...	莱莎	咦，我说过这事吗……	萊莎	咦？我提過這件事嗎……
+LegendEvent_02_018ID	38	Lila	リラ	アンペル、まさか記憶が……！？	Lila	Did you get your memories back?!	莉拉	安佩尔，难道你的记忆……？！	莉拉	安佩爾，難道……你的記憶……！？
+LegendEvent_02_018ID	39	Empel	アンペル	そのようだ。先ほどの衝撃のおかげだろうな	Empel	It would seem so. That earlier collision did the trick, I think.	安佩尔	似乎是这样。或许是刚才的冲击帮我唤醒了记忆。	安佩爾	好像是。大概是多虧了剛才的衝擊。
+LegendEvent_02_018ID	40	Ryza	ライザ	そ……そっか！　よかった……	Ryza	O-Oh! That's a relief.	莱莎	这……这样啊！太好了……	萊莎	是……是嗎！太好了……
+LegendEvent_02_018ID	41	Empel	アンペル	なぜそんな顔をする？\nそこは喜ぶところじゃないのか？	Empel	Hm? Shouldn't you look happier about that?	安佩尔	为什么要露出这种表情？\n现在不该高兴吗？	安佩爾	為什麼要露出這種表情？\n不是應該要感到高興才對嗎？
+LegendEvent_02_018ID	42	Ryza	ライザ	うん……	Ryza	Yeah...	莱莎	嗯……	萊莎	嗯……
+LegendEvent_02_018ID	43	Empel	アンペル	いや、意地悪を言ったな。本当はそのままのほうが\n私にとって幸せかもしれないと思っていたんだろう？	Empel	Come now, I didn't mean anything unkind by that. You thought that I might be better off without any burdensome memories, didn't you?	安佩尔	不，我不该故意说这种话为难你。\n你是在想或许我不恢复记忆会更幸福吧？	安佩爾	抱歉，我好像說得有點過分。\n妳該不會覺得別恢復記憶對我比較好吧？
+LegendEvent_02_018ID	44	Ryza	ライザ	え！？　どうしてそれを……	Ryza	Huh?! How did you...	莱莎	咦？！你怎么知道……	萊莎	咦！？你怎麼知道……
+LegendEvent_02_018ID	45	Empel	アンペル	お前とリラの会話が少し聞こえてしまってな	Empel	I happened to hear part of your conversation with Lila.	安佩尔	我听到了一些你和莉拉的对话。	安佩爾	我之前不小心聽見了妳和莉拉的對話。
+LegendEvent_02_018ID	46	Ryza	ライザ	……ごめんなさい	Ryza	I'm sorry.	莱莎	……对不起。	萊莎	……對不起。
+LegendEvent_02_018ID	47	Ryza	ライザ	記憶を取り戻したら、アンペルさんがまた\n辛い思いをするんじゃないかって……だから……	Ryza	It's just that, if you got them back, then you'd have to deal with all those painful ones again, so...	莱莎	因为我担心你要是恢复了记忆，\n就又会想起那些沉重的事……所以……	萊莎	我擔心安佩爾先生要是恢復記憶，\n又會再次陷入難過的回憶中……所以……
+LegendEvent_02_018ID	48	Empel	アンペル	お前自身はどうなんだ？	Empel	What about yourself?	安佩尔	那你自己的想法呢？	安佩爾	那妳自己呢？
+LegendEvent_02_018ID	49	Ryza	ライザ	え……？	Ryza	Huh?	莱莎	咦……？	萊莎	咦……？
+LegendEvent_02_018ID	50	Empel	アンペル	もし私が記憶を失ったままだったら、お前は――	Empel	If I couldn't recall our time together, then you'd—	安佩尔	如果我一直恢复不了记忆，你会怎么想——	安佩爾	如果我一直維持失憶的狀態，妳會──
+LegendEvent_02_018ID	51	Ryza	ライザ	そんなのっ……！　辛いに決まってるよ……！	Ryza	I'd be so sad! Obviously!	莱莎	我……我当然会很难过啊……！	萊莎	我……我當然會覺得很難受……！
+LegendEvent_02_018ID	52	Ryza	ライザ	アンペルさんから色んなことを教わった……\n錬金術以外にも、たくさん……	Ryza	You've taught me so much! And not just about alchemy, all kinds of things!	莱莎	安佩尔先生教了我那么多……\n不仅是炼金术，还有炼金术以外的事……	萊莎	不只是鍊金術，\n安佩爾先生還教了我許多知識……
+LegendEvent_02_018ID	53	Ryza	ライザ	どれも、あたしにとって大切な思い出だから……！	Ryza	All of those memories are really precious to me!	莱莎	对我来说，全都是最宝贵的回忆……！	萊莎	每件事對我來說都是很重要的回憶……！
+LegendEvent_02_018ID	54	Klaudia	クラウディア	クーケン島での冒険、今でも鮮明に思い出せます。\n初めて体験することばかりで……	Klaudia	I still remember our adventure on Kurken Island so vividly. I experienced so many things for the very first time.	科洛蒂娅	直到现在，库肯岛的冒险都仿佛历历在目。\n一切的一切对我来说都是那么新奇……	科洛蒂婭	在庫肯島冒險的回憶，至今仍然歷歷在目。\n好多體驗對我來說都是第一次……
+LegendEvent_02_018ID	55	Tao	タオ	教わった古代文字を解読したりして……。\nアンペルさんにほめられた時はすごく嬉しかったなあ	Tao	Like learning and decoding the ancient writings. And it always made me really happy when you praised me.	塔奥	用安佩尔先生教我的知识解读古代文字……\n得到你夸奖的时候，我开心得都要跳起来了。	塔奧	例如解讀安佩爾先生教過我的古代文字……\n被你誇獎的時候，我真的非常開心。
+LegendEvent_02_018ID	56	Lent	レント	あの冒険があったからこそ、今の俺たちがあるんだ。\n感謝してるんだぜ。あ、もちろんリラさんにもな	Lent	That adventure turned me into who I am now, and I'm grateful for that. Oh, and to you too, of course, Lila.	兰托	正是因为有过那场冒险才有了现在的我们。\n我很感谢你，啊，当然也感谢莉拉小姐。	蘭托	那次的冒險造就了現在的我們。\n我很感謝你喔。啊，當然還有莉拉姐。
+LegendEvent_02_018ID	57	Lila	リラ	……まあ、たまには\nああいう賑やかなのも悪くなかった	Lila	Well, I guess that lively kind of trip isn't so bad. Sometimes.	莉拉	……偶尔那样热闹一下也不错。	莉拉	……嗯，偶爾\n像那樣聚在一起也不錯。
+LegendEvent_02_018ID	58	Empel	アンペル	そうだな。色々なことがあった……	Empel	Quite a lot happened, didn't it?	安佩尔	是啊，发生了不少事……	安佩爾	是啊，發生了很多事情……
+LegendEvent_02_018ID	59	Empel	アンペル	ああ……私も同じだ	Empel	Yes, I feel the same way.	安佩尔	嗯……我也一样。	安佩爾	嗯……我也一樣。
+LegendEvent_02_018ID	60	Empel	アンペル	過去のしがらみなど――\n思い出を失う辛さに比べたら、何倍もマシだ	Empel	Compared to being tethered to the past, the pain of losing memories like those would be many times worse.	安佩尔	比起失去那些回忆的痛苦——\n过去的桎梏要容易承受多了。	安佩爾	與失憶的痛苦相比，\n過去那些糾葛真的不算什麼。
+LegendEvent_02_018ID	61	Ryza	ライザ	アンペルさん……！　うっ、うう……	Ryza	Empel...! *Sniff* *Sniffle*	莱莎	安佩尔先生……！呜、呜呜……	萊莎	安佩爾先生……！嗚、嗚嗚……
+LegendEvent_02_018ID	62	Empel	アンペル	心配かけたな、ライザ。他のみんなも	Empel	I'm sorry for causing you concern, Ryza. And the rest of you as well.	安佩尔	让你担心了，莱莎，还有各位。	安佩爾	萊莎，抱歉讓妳擔心了。其他人也是。
+LegendEvent_02_018ID	63	Lila	リラ	まったくだ	Lila	Honestly...	莉拉	太让人担心了。	莉拉	真的是喔。
+LegendEvent_02_018ID	64	Klaudia	クラウディア	おかえりなさい、アンペルさん	Klaudia	It's good to have you back, Empel.	科洛蒂娅	安佩尔先生，真高兴你回来了。	科洛蒂婭	安佩爾先生，歡迎回來。
+LegendEvent_02_018ID	65	Tao	タオ	また、一緒に冒険できるんだね	Tao	Now we can go on another adventure.	塔奥	我们又能继续一起冒险了。	塔奧	又能再次一起冒險了呢。
+LegendEvent_02_018ID	66	Lent	レント	これで今度こそ全員集合、だな	Lent	And this time, we'll all be there for it.	兰托	现在大家才算真正到齐啊。	蘭托	這次總算全員到齊了，對吧？
+LegendEvent_02_018ID	67	Ryza	ライザ	信じてるよ、アンペルさん！\nみんな！　絶対に門を閉じるよ！	Ryza	I believe in you, Empel! Now, come on, everyone! We're going to close that gate!	莱莎	安佩尔先生，我相信你！\n各位，一定要关上门！	萊莎	安佩爾先生，我相信你！\n各位！我們絕對要把門給關上！
+LegendEvent_02_018ID	68	Ryza	ライザ	錬金術士がやったことを、\n同じ錬金術士として放っておくわけにはいかないから！	Ryza	Alchemists made that mess, and as another alchemist, I just can't let that slide!	莱莎	炼金术士留下的罪孽，\n就由同是炼金术士的我来终结。	萊莎	鍊金術士所犯下的錯，\n同為鍊金術士的我絕不能坐視不管！
+LegendEvent_02_019ID	0	Ryza	ライザ	みんな、お疲れさま！	Ryza	Thanks for all your hard work, everyone!	莱莎	各位辛苦了！	萊莎	各位，辛苦了！
+LegendEvent_02_019ID	1	Klaudia	クラウディア	今回の冒険で、また思い出が増えたね！	Klaudia	We made so many new memories on this adventure!	科洛蒂娅	经过这次冒险，又留下了许多新的回忆！	科洛蒂婭	這次的冒險結束後，我們的回憶又增加了呢！
+LegendEvent_02_019ID	2	Empel	アンペル	ああ。色々と収穫もあった	Empel	Indeed. It was rather beneficial.	安佩尔	是啊，也有了许多新收获。	安佩爾	嗯，也取得了各式各樣的收穫。
+LegendEvent_02_019ID	3	Tao	タオ	アンペルさんも元通りになったしね	Tao	Yep, Empel's gone right back to normal.	塔奥	安佩尔先生的记忆也恢复了。	塔奧	而且安佩爾先生也恢復記憶了。
+LegendEvent_02_019ID	4	Empel	アンペル	それもあるが……何より、教え子の成長を\n確認できたことが大きい	Empel	Which is all well and good, but more importantly... This allowed me to witness the significant growth of my student.	安佩尔	这也是收获之一……\n不过最大的收获莫过于见证了学生的成长。	安佩爾	沒錯……但最重要的是，\n我親眼見識了學生的成長。
+LegendEvent_02_019ID	5	Ryza	ライザ	え！？　あたし！？	Ryza	Huh? I've gotten that much better?!	莱莎	咦？！是说我吗？！	萊莎	咦！？我嗎！？
+LegendEvent_02_019ID	6	Empel	アンペル	私に頼らずとも、お前はあの場所のことを理解し、\n門を閉じてみせた。成長したな、ライザ	Empel	You worked out a solution and closed the gate without needing my assistance. I would consider that to be notable development.	安佩尔	你不依靠我也能理解那个地方的构造并关上门，\n莱莎，你成长了不少啊。	安佩爾	妳靠自己理解了那些東西的運作原理，\n並成功關上門。萊莎，妳成長了呢。
+LegendEvent_02_019ID	7	Ryza	ライザ	あ、ありがとうございます！	Ryza	Th-Thank you very much!	莱莎	谢、谢谢夸奖！	萊莎	謝、謝謝你！
+LegendEvent_02_019ID	8	Empel	アンペル	私自身も学ぶべきことが多かった。\nたまにはああやって、純粋に冒険を楽しむのも悪くない	Empel	Well, I could stand to keep learning myself. I suppose there's no harm in the occasional adventure for the joy of it.	安佩尔	我也仍有许多需要学习的事。\n偶尔像那样单纯享受冒险也不坏。	安佩爾	我也有很多需要學習的事。\n偶爾像這樣單純享受冒險的樂趣也不賴。
+LegendEvent_02_019ID	9	Empel	アンペル	たとえ遠回りに見えたとしても――\n案外、それが錬金術を極める近道なのかもしれんな	Empel	For example, taking the scenic route simply because you can. Perhaps that roundabout method is actually the shortcut to mastering alchemy.	安佩尔	也许看起来像是绕了远路——\n但其实那说不定是一条精进炼金术的近路。	安佩爾	就算繞點遠路也無妨。因為，\n說不定這將成為精通鍊金術的捷徑。
+LegendEvent_02_019ID	10	Ryza	ライザ	冒険が錬金術を極める近道……かあ	Ryza	Adventure's the real secret? Hm, I wonder...	莱莎	冒险是精进炼金术的近路啊……	萊莎	冒險是精通鍊金術的捷徑啊……
+LegendEvent_02_019ID	11	Lila	リラ	アンペル。この後はどうする？\nライザたちと一緒に行くのか？	Lila	What are you going to do now? Are you going to stick with Ryza and the others?	莉拉	安佩尔，你之后有什么打算？\n要跟莱莎他们一起走吗？	莉拉	安佩爾，你之後有什麼打算？\n要跟萊莎他們一起行動嗎？
+LegendEvent_02_019ID	12	Empel	アンペル	それなんだが……お前たちとは\n別行動しようと思っている	Empel	I could, but... I believe I'll go my own way.	安佩尔	这个嘛……\n我想跟你们分头行动。	安佩爾	這個嘛……\n我打算和你們分頭行動。
+LegendEvent_02_019ID	13	Tao	タオ	えっ！？	Tao	What?!	塔奥	咦？！	塔奧	咦！？
+LegendEvent_02_019ID	14	Lent	レント	なんだよ、記憶を取り戻して\nこれからって時じゃねえか！	Lent	C'mon, you only just got your memories back!	兰托	搞什么啊，你好不容易找回了记忆，\n冒险不是正要从此开始吗！	蘭托	為什麼？你才剛恢復記憶，\n就要和大家分開嗎！？
+LegendEvent_02_019ID	15	Empel	アンペル	やるべきことを思い出したんだ。\n目を背けるわけにはいかないさ	Empel	Which is why I've remembered what it is I have to do. I can't turn my back on that task.	安佩尔	我回忆起了该做的事，\n不能弃之不顾。	安佩爾	我想起了自己該做的事，\n無法坐視不管。
+LegendEvent_02_019ID	16	Empel	アンペル	あの「楽園」のような、悪しき錬金術の象徴が\nこの世界にはまだあるはずだ。私はそれを探しに行く	Empel	There are sure to be signs of malicious alchemy still at work in this world, much like Paradise. I'm going to find them.	安佩尔	那个“乐园”是曾有人使用炼金术作恶的证明，\n在这个世界应该还有其他这样的地方，我要去寻找它们。	安佩爾	就像那個「樂園」一樣，這個世界應該還有\n其他鍊金術遭到濫用的例子。我要去把它找出來。
+LegendEvent_02_019ID	17	Empel	アンペル	お前たちにもそれぞれ目的があるのだろう。\n私に付き合わせるわけにもいくまい	Empel	You all have your own goals too, don't you? There's no need to tag along just to humor me.	安佩尔	你们应该也都有自己要做的事情，\n我不能拉着你们陪我。	安佩爾	你們大概也擁有各自的目標。\n我不能要求你們陪我。
+LegendEvent_02_019ID	18	Klaudia	クラウディア	でも……二度と会えないわけじゃないですよね？	Klaudia	Okay... It isn't like we'll never see each other again, right?	科洛蒂娅	不过……这也不代表我们再也见不到面吧？	科洛蒂婭	不過……我們應該還有機會見面吧？
+LegendEvent_02_019ID	19	Empel	アンペル	ああ。いずれまた、共に行動することもあるだろう	Empel	Indeed. I imagine our paths are certain to cross elsewhere.	安佩尔	是啊，今后一定还会有共同行动的机会。	安佩爾	嗯。總有一天，我們也許會再次一起行動。
+LegendEvent_02_019ID	20	Empel	アンペル	そもそも、我々は異世界からの来訪者。ある意味では、\nこの世界にいること自体が冒険のようなものだ	Empel	Besides, all of us are visitors here. To an extent, simply being in this world is an adventure in and of itself.	安佩尔	而且我们本就是异世界的来客，\n就某种意义而言，活在这个世界就已经算是冒险了。	安佩爾	我們原本就是來自異世界的訪客。\n從另一個角度來看，處在這個世界本身就是一場冒險。
+LegendEvent_02_019ID	21	Ryza	ライザ	……そうだね。少しの間離れたとしても、\nあたしたちが仲間であることは変わらない	Ryza	That's true. Even if we're a little far apart, it won't change the fact that we're friends.	莱莎	……是啊，就算暂时分开，\n我们也一样是伙伴。	萊莎	說得對……即使暫時分開，\n也不會改變我們是夥伴的這件事。
+LegendEvent_02_019ID	22	Ryza	ライザ	またここから始めよう、あたしたちの冒険を！	Ryza	This is the start of another new adventure! Right here, right now!	莱莎	从这里开始我们的冒险吧！	萊莎	那就從這裡，再次展開我們的冒險吧！
+LegendEvent_02_019ID	23	Empel	アンペル	ああ――	Empel	It certainly is.	安佩尔	嗯——	安佩爾	沒錯──
+LegendEvent_02_019ID	24	Empel	アンペル	――あの夏の続きが、また始まるな	Empel	As well as yet another continuation of that summer.	安佩尔	——继续书写那个夏天的故事。	安佩爾	那個夏天的續篇，將再次展開──

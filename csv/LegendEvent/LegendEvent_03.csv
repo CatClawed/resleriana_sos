@@ -1,0 +1,411 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_03_001ID	0		ふたり	シャリー、久しぶり！	Both	Shallie! It's been so long!	二人	夏莉，好久不见！	兩人	夏莉，好久不見！
+LegendEvent_03_001ID	1	Shallistera	シャリステラ	ふふ。元気そうだね、ロッテ	Shallistera	Hehe. You're looking good, Lotte.	夏莉丝堤拉	呵呵。罗蒂，看来你过得不错。	夏莉絲堤菈	呵呵。羅蒂，妳看起來真有精神呢。
+LegendEvent_03_001ID	2	Shallotte	シャルロッテ	ステラこそ！\nやっぱこっちの世界に来てたんだね！	Shallotte	You too, Stera! So you were here in this world after all.	夏露罗蒂	丝堤拉你也是！\n你果然来到这个世界了啊！	夏露羅蒂	妳也是！\n妳果然也來到這個世界了呀！
+LegendEvent_03_001ID	3	Shallistera	シャリステラ	（わたしたちは二人とも、元の世界で「シャリー」と\n　呼ばれてたことがきっかけで知り合って……）	Shallistera	"(Back in our home world, we met because both of us go by the name ""Shallie."")"	夏莉丝堤拉	（我们两个在原来的世界有着相同的爱称——“夏莉”，\n　也正是因此而相识……）	夏莉絲堤菈	（我們是因為在原本的世界都被人叫做「夏莉」，\n　才會互相認識的……）
+LegendEvent_03_001ID	4	Shallistera	シャリステラ	（色んなことを乗り越えて、わたしたちだけの呼び名、\n　「ステラ」と「ロッテ」と呼び合う親友になれた）	Shallistera	"(We went through a lot together and became best friends, calling each other ""Stera"" and ""Lotte."")"	夏莉丝堤拉	（我们共同经历了重重冒险，渐渐成为挚友，\n　以两人之间专有的爱称“丝堤拉”和“罗蒂”相称。）	夏莉絲堤菈	（克服了重重難關之後，我們成了摯友，互相以\n　專屬的暱稱──「絲堤菈」和「羅蒂」稱呼對方。）
+LegendEvent_03_001ID	5	Shallistera	シャリステラ	（そして「黄昏」に立ち向かう、大切な戦友……）	Shallistera	(We're also now inseparable comrades taking on the Dusk.)	夏莉丝堤拉	（并且我们还是共同对抗“黄昏”的重要战友……）	夏莉絲堤菈	（並且也是一起對抗「黃昏」的重要戰友……）
+LegendEvent_03_001ID	6	Shallistera	シャリステラ	ロッテもこの世界に来てるって情報を掴んでから、\nわたし、一生懸命探したんだよ	Shallistera	I've been searching all over for you ever since I heard that you were here in this world.	夏莉丝堤拉	自从得知你也来到了这个世界，\n我就拼了命地在找你。	夏莉絲堤菈	自從我得知妳來到這個世界之後，\n我就拚了全力在找妳。
+LegendEvent_03_001ID	7	Shallotte	シャルロッテ	あたしだって！　\nもー最初はさ、何がなんだかって感じだったよ～！	Shallotte	Same here! You know, I was pretty clueless about everything at first!	夏露罗蒂	我也是呀！\n哎呀，刚来到这里的时候真是不知所措～！	夏露羅蒂	我也是啊！\n真是的，一開始完全搞不清楚是什麼狀況～！
+LegendEvent_03_001ID	8	Shallistera	シャリステラ	わたしも。他の異邦人と会えなかったら\nすごく心細かっただろうな……	Shallistera	Yeah, me too. I would've been so lost if I hadn't come across another wanderer.	夏莉丝堤拉	我也是。要是没遇到其他异邦人，\n我心里肯定会很没底的……	夏莉絲堤菈	我也是。要不是遇到了其他異邦人，\n我肯定會很不安……
+LegendEvent_03_001ID	9	Shallotte	シャルロッテ	で！　あれが海、なんだよね！？	Shallotte	So that's the ocean, right?	夏露罗蒂	对了！那是海吧？！	夏露羅蒂	然後！那個是大海對吧！？
+LegendEvent_03_001ID	10	Shallistera	シャリステラ	うん。本物の海。初めて見た時は、びっくりしたよ	Shallistera	Yep, a real ocean. I was amazed the first time I saw it.	夏莉丝堤拉	嗯，是真的大海。我第一次见的时候都惊呆了。	夏莉絲堤菈	對，真正的大海。我第一次看到的時候，也嚇了一跳。
+LegendEvent_03_001ID	11	Shallotte	シャルロッテ	すっごい！　黄昏の海ぜーんぶに水が戻ってきたら\nこんな感じなのかなぁ……	Shallotte	Wow, it's incredible! So this is what the Dusk Sea would look like if all the water came back.	夏露罗蒂	太壮观了！等黄昏之海里的水全都回来了，\n应该也会这么壮观吧……	夏露羅蒂	好厲害！黃昏之海的水完全恢復之後，\n也會是這種感覺嗎……
+LegendEvent_03_001ID	12	Shallistera	シャリステラ	ふふ。いつか絶対に叶えたいなあ……そういえば	Shallistera	Hehe. We'll make it happen someday, just you wait. That reminds me!	夏莉丝堤拉	呵呵。总有一天会让它成为现实的……	夏莉絲堤菈	呵呵。我總有一天一定要讓它恢復原狀……對了。
+LegendEvent_03_001ID	13	Shallistera	シャリステラ	この世界でもマナの枯渇が起こってるって話なんだけど\nそれって、わたしたちの世界の黄昏と似てるかも	Shallistera	You know how there's a mana drought here in this world? I think it might be like the Dusk in our world.	夏莉丝堤拉	对了，这个世界里似乎也有玛那枯竭问题，\n这一点或许有点像我们世界的黄昏。	夏莉絲堤菈	聽說這個世界也出現了瑪那枯渴的情況，\n這說不定和我們世界的黃昏很像。
+LegendEvent_03_001ID	14	Shallistera	シャリステラ	（わたしたちの世界での大地の力、水の緩やかな枯渇。\n　わたしたちはそれを「黄昏」と呼んでいる）	Shallistera	(The Dusk is what we call the drought that's slowly consuming the power from our world and robbing us of our water sources.)	夏莉丝堤拉	（在我们的世界里，大地之力与水都在缓慢枯竭。\n　我们将这种现象称为“黄昏”。）	夏莉絲堤菈	（我們世界的大地之力及水源正在慢慢枯竭。\n　我們把這個情況稱為「黃昏」。）
+LegendEvent_03_001ID	15	Shallistera	シャリステラ	だから……その原因を調べれば、黄昏の解決のための\n手掛かりが掴めるかもしれないって思うんだ	Shallistera	So if we look into what's causing the mana drought, we might find clues for getting rid of the Dusk.	夏莉丝堤拉	所以……只要调查它的原因，\n说不定能找到根除黄昏的线索。	夏莉絲堤菈	所以，我在想……調查問題的原因，\n也許就能夠找到解決黃昏的線索。
+LegendEvent_03_001ID	16	Shallotte	シャルロッテ	あはは。いきなり別の世界に来ちゃって大変なのに、\nステラはやっぱり真面目だなぁ	Shallotte	Ahaha. As if it weren't hard enough to be in a different world all of a sudden. You really are dedicated, Stera.	夏露罗蒂	哈哈。明明都到别的世界了，还想着黄昏的事。\n丝堤拉真的好正经哦。	夏露羅蒂	啊哈哈。突然來到別的世界明明就夠辛苦了，\n妳還真是認真呢。
+LegendEvent_03_001ID	17	Shallistera	シャリステラ	そ、そうかな？	Shallistera	R-Really?	夏莉丝堤拉	我、我有吗？	夏莉絲堤菈	會、會嗎？
+LegendEvent_03_001ID	18	Shallotte	シャルロッテ	だけど、あたしも同じ気持ち！\nここでも一緒に頑張ろうね、ステラ	Shallotte	But I'm right there with you. Let's give it our best in this world too.	夏露罗蒂	不过，我的想法也跟你一样！\n在这个世界也一起加油吧，丝堤拉。	夏露羅蒂	不過，我的心情也和妳一樣！\n絲堤菈，我們一起在這個世界加油吧。
+LegendEvent_03_001ID	19	Shallistera	シャリステラ	ロッテならそう言ってくれると思ってた！	Shallistera	I knew I could count on you, Lotte.	夏莉丝堤拉	我就知道罗蒂会这么说！	夏莉絲堤菈	我就知道妳肯定會這麼說！
+LegendEvent_03_001ID	20	Shallotte	シャルロッテ	でも、ちょーっとだけ肩の力抜いたほうがいいかも？	Shallotte	You might want to relax a little though.	夏露罗蒂	不过，我觉得你稍微放松点也没关系哦？	夏露羅蒂	但是，我想我們還是先放鬆一下比較好。
+LegendEvent_03_001ID	21	Shallistera	シャリステラ	え？　肩の力？	Shallistera	What? Relax?	夏莉丝堤拉	嗯？放松点？	夏莉絲堤菈	咦？把什麼東西放鬆？
+LegendEvent_03_001ID	22	Shallotte	シャルロッテ	もー、真面目なんだから！　たとえばほら、ここ王都！\nちょっとは息抜きもしたいとか思わない？	Shallotte	Yeah, you're just too serious. I mean, this is the capital! Don't you want to take a breather and enjoy yourself?	夏露罗蒂	哎呀，就说你太一本正经了嘛！\n你看，这里可是王都！就不想放松下吗？	夏露羅蒂	真是的，妳太正經了啦！比方說──\n妳想，這裡是王都！妳不想在這裡休息一下嗎？
+LegendEvent_03_001ID	23	Shallistera	シャリステラ	お、思わないわけじゃ……ないけど。\nでも……	Shallistera	W-Well, yeah. But...	夏莉丝堤拉	那、那我确实……也不是不想啦。\n只是……	夏莉絲堤菈	也不是……不想啦。\n可是……
+LegendEvent_03_001ID	24	Shallotte	シャルロッテ	あー。ステラらしいっちゃらしいんだけど、\nずーっと張りつめてると……	Shallotte	I see. Well, I'd expect nothing less of you. But you know, if you're constantly pushing yourself...	夏露罗蒂	唉，我知道你一心想解决问题啦，\n可你要是一直这么紧绷着……	夏露羅蒂	唉～雖然妳的個性就是這樣，\n但一直繃緊神經的話……
+LegendEvent_03_001ID	25	Nady	ナディ	うふふ。そういうことなら……	Nady	Hehe. Yes, if that's the case...	娜蒂	呵呵，那么……	娜蒂	呵呵。既然這樣……
+LegendEvent_03_001ID	26	Shallotte	シャルロッテ	か、母さん！？	Shallotte	M-Mom?!	夏露罗蒂	妈、妈妈？！	夏露羅蒂	媽、媽媽！？
+LegendEvent_03_001ID	27	Shallistera	シャリステラ	ナディさん！？	Shallistera	Ms. Nady?!	夏莉丝堤拉	娜蒂阿姨？！	夏莉絲堤菈	娜蒂小姐！？
+LegendEvent_03_001ID	28	Nady	ナディ	気持ちの切り替えって大事なのよ～。だ・か・ら！\n服装だけでも街に合わせてみましょ！	Nady	It's important to unwind every now and then. Sooo, I say we go to town and try on some clothes!	娜蒂	调整心态是很重要的哦～所以！\n至少要换一身跟这个城镇更相衬的衣服！	娜蒂	轉換心情是很重要的唷～所、以、說！\n至少先換上一套適合這座城鎮的服裝吧！
+LegendEvent_03_001ID	29	Shallotte	シャルロッテ	え、ええ……？	Shallotte	Wh-What?	夏露罗蒂	什、什么……？	夏露羅蒂	咦、咦咦？
+LegendEvent_03_001ID	30	Shallistera	シャリステラ	故郷を救う手掛かりを求めて旅する錬金術士の少女。\nシャルロッテとは元の世界での同志であり親友	Shallistera	A young alchemist traveling to find clues on ways to save her hometown. She is both a comrade and best friend to Shallotte.	夏莉丝堤拉	为了寻求拯救故乡的线索而踏上旅程的少女炼金术士。\n与夏露罗蒂在原来的世界是志同道合的挚友。	夏莉絲堤菈	為了尋找拯救故鄉的線索而踏上旅途的鍊金術士少女。\n她和夏露羅蒂在原本的世界是同伴亦是摯友。
+LegendEvent_03_001ID	31	Shallotte Elminus	シャルロッテ・エルミナス	明るく快活な錬金術士。何か大きなことを成し遂げる\n野望を持つ。愛称はシャリステラと同じ「シャリー」	Shallotte Elminus	"A bright and cheerful alchemist. Full of ambition to accomplish something big. Nicknamed ""Shallie,"" just like Shallistera."	夏露罗蒂·艾尔蜜娜思	活泼开朗的炼金术士，怀抱着野心，梦想成就伟业。\n与夏莉丝堤拉有着相同的爱称“夏莉”。	夏露羅蒂‧艾爾蜜娜思	樂觀又開朗的鍊金術士。心懷野心，\n想完成某件偉大的事跡。暱稱和夏莉絲堤菈一樣，都叫「夏莉」。
+LegendEvent_03_001ID	32	Nady Elminus	ナディ・エルミナス	シャルロッテの母親。のんびりとした性格。\n娘の可能性を強く信じており、応援している。	Nady Elminus	Shallotte's mother. While laid-back, she supports her daughter with firm belief in her potential.	娜蒂·艾尔蜜娜思	夏露罗蒂的母亲，做事不紧不慢。\n深信女儿的潜力，一直都在支持着她。	娜蒂‧艾爾蜜娜思	夏露羅蒂的母親。個性十分悠哉。\n她深信女兒的潛力，支持著女兒。
+LegendEvent_03_002ID	0	Nady	ナディ	シャリーちゃーん。着られたー？\nふふ。楽しみねぇ、シャリーちゃん	Nady	Hey Shallie, does it fit? Hehe. She'll look great, don't you think, Shallie?	娜蒂	夏莉，穿好了吗？\n呵呵，我好期待啊，夏莉。	娜蒂	夏莉～妳穿上去了嗎～？\n呵呵。夏莉，我好期待喔。
+LegendEvent_03_002ID	1	Shallotte	シャルロッテ	だーかーら。両方シャリーちゃん呼びじゃ、\nどっちのこと呼んでるのか分かんないからー	Shallotte	Ugh, like I said! We can't tell who you're talking about if you call us both Shallie.	夏露罗蒂	所以说，都叫我们夏莉的话，\n谁分得清到底在叫哪一个啊——	夏露羅蒂	就、說、了。妳都用夏莉稱呼我們，\n我們會不知道妳在叫誰啦──
+LegendEvent_03_002ID	2	Nady	ナディ	あら。だってシャリーちゃんにシャリーちゃん\n……うん。分かるわよ！	Nady	Huh? But you're Shallie and she's Shallie. See? I got it.	娜蒂	哎呀，可是你们就是夏莉和夏莉呀……\n嗯，分得清的！	娜蒂	哎呀。因為夏莉跟夏莉\n……嗯。分得出來呀！
+LegendEvent_03_002ID	3	Nady	ナディ	シャリーちゃんがシャリーちゃんと会えるの、\nお母さんだって楽しみにしてたんだから！	Nady	You know, your mother's been looking forward to seeing you together with Shallie again, Shallie.	娜蒂	妈妈也一直在期待夏莉和夏莉重逢呀！	娜蒂	媽媽也一直很期待\n夏莉能見到夏莉呢！
+LegendEvent_03_002ID	4	Shallotte	シャルロッテ	も～、母さんは～	Shallotte	*Sigh* Oh, Mom.	夏露罗蒂	妈妈你真是的～	夏露羅蒂	媽媽真是的～
+LegendEvent_03_002ID	5	Shallistera	シャリステラ	あ、あの……どうですか？	Shallistera	U-Um. How do I look?	夏莉丝堤拉	我、我穿好了……这样穿好看吗？	夏莉絲堤菈	那、那個……看起來怎麼樣？
+LegendEvent_03_002ID	6	Shallotte	シャルロッテ	わぁ！　すっごくかわいい！　ステラ、似合ってるよ！	Shallotte	Oh, how cute! Stera, that looks great on you!	夏露罗蒂	哇！好可爱！丝堤拉，这身衣服很适合你！	夏露羅蒂	哇！超級可愛！很適合妳耶！
+LegendEvent_03_002ID	7	Shallistera	シャリステラ	そ、そうかな……？	Shallistera	R-Really?	夏莉丝堤拉	真、真的吗……？	夏莉絲堤菈	是、是嗎……？
+LegendEvent_03_002ID	8	Nady	ナディ	ホント、ぴったり！　すっごくかわいい！　何を隠そう\nシャリーちゃんとお揃いっぽく作ってみたんだから！	Nady	Yeah, it's perfect! You look adorable. I won't lie, I wanted to try making something that matches Shallie's outfit.	娜蒂	很合身呢！真的好可爱！\n其实我本来就是照着夏莉的那件做的！	娜蒂	真的，非常適合！超可愛的！實不相瞞，\n我是故意把妳跟夏莉的衣服做成姊妹裝的！
+LegendEvent_03_002ID	9		ふたり	そ、そうなんだ……	Both	Oh, really...?	二人	这、这样啊……	兩人	是、是這樣啊……
+LegendEvent_03_002ID	10	Shallistera	シャリステラ	ナディさん、ありがとうございます！　嬉しいです！	Shallistera	Thank you, Ms. Nady. I really like it!	夏莉丝堤拉	娜蒂阿姨，谢谢你！我很开心！	夏莉絲堤菈	娜蒂小姐，非常謝謝妳！我很喜歡！
+LegendEvent_03_002ID	11	Nady	ナディ	うふふ。シャリーちゃんとこの世界に来ちゃってから、\nシャリーちゃんと再会するの、楽しみにしてたのよね	Nady	Ehehe. Shallie, ever since I came to this world with Shallie, I've been excited to see you again.	娜蒂	呵呵，我跟夏莉来到这个世界之后，\n就一直期待着跟夏莉你重聚！	娜蒂	呵呵。自從和夏莉一起來到這個世界之後，\n我就一直期待能再次遇見夏莉。
+LegendEvent_03_002ID	12	Nady	ナディ	シャリーちゃんは故郷の村のことで動き回ってて、\nぜんぜん会えないんだーってシャリーちゃん言ってたの	Nady	Shallie was upset she didn't get to see you anymore, Shallie. What, with you on the move to save your hometown.	娜蒂	夏莉总是说，夏莉为了故乡四处奔波，\n都没机会见面。	娜蒂	夏莉說，夏莉一直為了故鄉村落的事四處奔波，\n完全碰不到面。
+LegendEvent_03_002ID	13	Shallotte	シャルロッテ	だから母さん、それじゃどっちのシャリーだか\n分かんないって	Shallotte	Mom, I told you! We can't tell which of us you're talking about.	夏露罗蒂	妈妈，我说多少次了，\n你这样说都分不清是在讲哪个夏莉了。	夏露羅蒂	媽媽，我說過妳這樣叫，\n會讓人分不出妳是在說哪個夏莉啦。
+LegendEvent_03_002ID	14	Nady	ナディ	え、分かるわよ	Nady	What? I can tell.	娜蒂	咦？我分得清啊。	娜蒂	咦？分得出來啊。
+LegendEvent_03_002ID	15	Shallistera	シャリステラ	え、分かるよ？	Shallistera	Huh? I can tell!	夏莉丝堤拉	咦？我也能分清哦？	夏莉絲堤菈	分得出來啊。
+LegendEvent_03_002ID	16	Shallotte	シャルロッテ	分かるんだ！？　ま、まぁ……ならいいけど	Shallotte	What, you can?! W-Well, okay, if you say so.	夏露罗蒂	居然能分清？！好、好吧……分得清就好。	夏露羅蒂	妳分得出來！？算、算了……那就好。
+LegendEvent_03_002ID	17	Shallistera	シャリステラ	それにしても、こんなに素敵な服を……	Shallistera	Anyway, this outfit is just wonderful!	夏莉丝堤拉	不过这身衣服真漂亮啊……	夏莉絲堤菈	話說回來，沒想到能收到這麼漂亮的衣服……
+LegendEvent_03_002ID	18	Shallotte	シャルロッテ	あ、そうだ。母さん、あたしもびっくりだよ。\nよく作ったよね、こんな服	Shallotte	Yeah, I'm amazed too. You've really outdone yourself, Mom.	夏露罗蒂	啊，对哦，我也吓了一跳。\n妈妈居然做得出来这么好看的衣服啊。	夏露羅蒂	啊，對耶。我也很意外耶，媽媽。\n沒想到妳竟然做出了這樣的衣服。
+LegendEvent_03_002ID	19	Nady	ナディ	えー。やってみたかったんだもん。\nシャリーちゃんたちのお揃い	Nady	Well, I've been wanting to make matching outfits for both of you Shallies.	娜蒂	说什么呢，\n我早就想做你们俩成对的衣服了嘛。	娜蒂	咦～因為我很想做做看嘛。\n夏莉與夏莉的姊妹裝。
+LegendEvent_03_002ID	20	Shallotte	シャルロッテ	へ！？	Shallotte	What?!	夏露罗蒂	咦？！	夏露羅蒂	咦！？
+LegendEvent_03_002ID	21	Nady	ナディ	それはそうと、新しい服を着ると\nお出かけしたくなるじゃない？	Nady	At any rate, don't new outfits just make you want to go out somewhere?	娜蒂	不说这些了，\n穿上新衣服之后肯定很想出门逛逛吧？	娜蒂	話說回來，穿上新衣服之後，\n不就會很想出門嗎？
+LegendEvent_03_002ID	22	Nady	ナディ	というわけで！　二人にぴったりな依頼を\n受けておいたわよ～	Nady	And you're just in luck! I've accepted a request perfect for you two.	娜蒂	所以我接下了很适合你们的委托～	娜蒂	所以說！\n我先幫妳們接下了一份很適合的委託～
+LegendEvent_03_002ID	23	Shallotte	シャルロッテ	ええっ！？　な、な、なんでまたそんな\n勝手なことしてるの！？	Shallotte	Whaaat?! Why do you keep doing things like that without asking first?	夏露罗蒂	什么？！\n你、你、你怎么又自作主张啊？！	夏露羅蒂	咦咦！？\n妳、妳妳怎麼又擅自做這種事情啦！？
+LegendEvent_03_002ID	24	Shallistera	シャリステラ	ちょっと、ロッテ。\nナディさんはわたしたちのためを思って……	Shallistera	Lotte, come on. Ms. Nady's just trying to help us out.	夏莉丝堤拉	罗蒂，别这么说呀，\n娜蒂小姐肯定是为了我们好……	夏莉絲堤菈	等一下，羅蒂。\n娜蒂小姐是為了我們著想才……
+LegendEvent_03_002ID	25	Shallotte	シャルロッテ	違うのステラ！　母さんは前からこうやって\n騙されて変な依頼をバンバン受けちゃうんだよ！	Shallotte	No, Stera. Mom always gets tricked into accepting one crazy request after another, just like this!	夏露罗蒂	不是的，丝堤拉！妈妈她以前也总这样被骗，\n然后接一些乱七八糟的委托！	夏露羅蒂	不是，絲堤菈！媽媽她從以前就常常這樣，\n被人誆騙接下一堆奇怪的委託！
+LegendEvent_03_002ID	26	Shallistera	シャリステラ	え、ええっ	Shallistera	Wh-What?	夏莉丝堤拉	不、不会吧……	夏莉絲堤菈	什、什麼？
+LegendEvent_03_002ID	27	Nady	ナディ	もう。人聞きが悪い言い方しないで～。\nあ、依頼はこれよ	Nady	Hey, don't give her the wrong idea! Okay, so here's the request.	娜蒂	哎呀，别说得这么难听～\n啊，我接的是这份委托。	娜蒂	真是的。別說得這麼難聽嘛～\n啊，委託是這個。
+LegendEvent_03_002ID	28	Shallistera	シャリステラ	あ、ありがとうございます。……ええと、王都の\nお菓子屋さんが不足した素材を求めている……	Shallistera	Thank you. Um, a sweets store in the capital needs to replenish ingredients they're running low on.	夏莉丝堤拉	谢、谢谢……我看看，\n王都的点心店想请人筹措缺少的素材……	夏莉絲堤菈	謝、謝謝妳……我看看，\n王都的點心店正在找尋缺乏的素材……
+LegendEvent_03_002ID	29	Shallotte	シャルロッテ	あれっ？　意外とまとも……？　ううん、まだ油断は\nできない！　だって、母さんだから！	Shallotte	Huh? It's actually a normal request. No, wait, it's too early to relax, especially coming from Mom.	夏露罗蒂	咦？怎么还挺正常的……？不对，还不能放心！\n毕竟这是妈妈接下的委托！	夏露羅蒂	咦？出乎意料地很正常……？不對，還不能大意！\n畢竟這可是媽媽接下的委託！
+LegendEvent_03_002ID	30	Shallistera	シャリステラ	ねえ、せっかくナディさんがわたしたちのために\n受けてくれた依頼だから、やってみようよ、ロッテ	Shallistera	Lotte, we should give it a try. Ms. Nady went out of her way to get this request for us.	夏莉丝堤拉	娜蒂阿姨好心为我们接来了委托，\n我们就做做看吧，罗蒂。	夏莉絲堤菈	既然是娜蒂小姐為了我們特別接下的委託，\n我們就試試看吧，羅蒂。
+LegendEvent_03_002ID	31	Shallotte	シャルロッテ	うーん……。まあ、破棄するわけにはいかないしね。\nステラがそう言うなら……	Shallotte	Hmm. Well, I guess we can't just abandon the request, so if you say so, Stera.	夏露罗蒂	唔……毕竟也不能毁约了嘛……\n既然丝堤拉都这么说了，就试试吧……	夏露羅蒂	唔……算了，畢竟也不能毀約。\n既然絲堤菈都這麼說了……
+LegendEvent_03_002ID	32	Nady	ナディ	ふふ。いってらっしゃ～い	Nady	Hehe. Good luck out there!	娜蒂	呵呵，慢走～	娜蒂	呵呵。路上小心～
+LegendEvent_03_002ID	33	Shallotte	シャルロッテ	もう。母さんは大人しく待っててよね！	Shallotte	Ugh! Mom, just wait here until we get back.	夏露罗蒂	唉，妈妈你就好好在家等我吧！	夏露羅蒂	真是的。媽媽妳要乖乖等我們回來喔！
+LegendEvent_03_003ID	0	Shallotte	シャルロッテ	なんか勢いで飛び出してきちゃったけど……\nまずは依頼の中身をきっちり確認しなきゃね	Shallotte	We kind of rushed out, so we should probably start by checking over the details of the request.	夏露罗蒂	一冲动早早出门了……\n不过还是得先仔细确认委托内容才行。	夏露羅蒂	雖然幹勁十足地衝出來了……\n但我們得先仔細確認一下委託內容才行。
+LegendEvent_03_003ID	1	Shallistera	シャリステラ	ええと……甘味を出す素材を至急で求めてるみたい。\nそういうのがどこで採れるか調べないと……	Shallistera	Let's see... It looks like a rush request for sweeteners. We'll need to find out where we can get some.	夏莉丝堤拉	唔……店里好像急着要带有甜味的素材。\n要调查一下在哪里能收集到……	夏莉絲堤菈	我看看……委託人似乎急需增添甜味的素材。\n這種工作得要先調查該去哪裡採集才行……
+LegendEvent_03_003ID	2	Shallotte	シャルロッテ	はぁ……とりあえず依頼の中身も分量も\nまともそうでよかったぁ……	Shallotte	Phew! At least the request details and amounts seem normal.	夏露罗蒂	呼……委托内容跟需要的量都挺正常的，\n太好了……	夏露羅蒂	呼……總之委託的內容和分量感覺滿正常的，\n太好了……
+LegendEvent_03_003ID	3	Roman	ロマン	なるほど……そのような薬もあるんだね。\n是非、備蓄しておきたいところだよ	Roman	I see! I didn't even know there was medicine that could do that. I'd love to stock up on some.	罗曼	原来还有这样的药啊……\n我得备一点才行呢。	羅曼	原來如此……還有那種藥啊。\n我正想多準備一些以防萬一。
+LegendEvent_03_003ID	4	Ayesha	アーシャ	はい。あらかじめ用意しておけば\n慌てずに済みますから	Ayesha	Yeah, we can prepare them ahead of time so that we're ready for action.	爱夏	是的，只要事先准备好，\n到时候就不会手忙脚乱的了。	愛夏	是的。如果能事先做好準備，\n就不會手忙腳亂了。
+LegendEvent_03_003ID	5	Shallotte	シャルロッテ	んん？　ねえ、あれって、アーシャさんじゃない！？	Shallotte	Huh? Hey, isn't that Ayesha over there?	夏露罗蒂	嗯？快看，那不是爱夏小姐吗？！	夏露羅蒂	嗯？欸，那個人不是愛夏小姐嗎！？
+LegendEvent_03_003ID	6	Shallotte	シャルロッテ	アーシャさーん！	Shallotte	Ayesha!	夏露罗蒂	爱夏小姐！	夏露羅蒂	愛夏小姐！
+LegendEvent_03_003ID	7	Ayesha	アーシャ	わぁ、ロッテちゃん、ステラちゃん！\n二人ともこの世界に来てたんだね！	Ayesha	Oh, it's Lotte and Stera! I wasn't expecting to see you both here in this world.	爱夏	哇，罗蒂、丝堤拉！\n你们也来这个世界了啊！	愛夏	哇，羅蒂、絲堤菈！\n妳們也來到這個世界了啊！
+LegendEvent_03_003ID	8	Shallistera	シャリステラ	アーシャさんも！　お久しぶりです！	Shallistera	Same for you, Ayesha! It's been quite a while.	夏莉丝堤拉	爱夏小姐也来了啊！好久不见！	夏莉絲堤菈	愛夏小姐也是！好久不見！
+LegendEvent_03_003ID	9	Roman	ロマン	ん？　アーシャの知り合いってことは異邦人だね？	Roman	Huh? You must be wanderers if you're friends of Ayesha.	罗曼	嗯？既然是爱夏的熟人，那就是异邦人吧？	羅曼	嗯？既然是愛夏認識的人，那妳們就是異邦人了吧？
+LegendEvent_03_003ID	10	Shallotte	シャルロッテ	あたしはシャルロッテ・エルミナス！\n師匠がアーシャさんと親しいんです	Shallotte	I'm Shallotte Elminus! Ayesha is a close friend of my teacher's.	夏露罗蒂	我是夏露罗蒂·艾尔蜜娜思！\n我师父和爱夏小姐关系很好。	夏露羅蒂	我是夏露羅蒂‧艾爾蜜娜思！\n我的師父和愛夏小姐很熟。
+LegendEvent_03_003ID	11	Shallistera	シャリステラ	シャリステラです。わたしたち二人とも\nアーシャさんと同じ、錬金術士です。駆け出しですけど	Shallistera	I'm Shallistera. We're both alchemists, just like Ayesha, except that we're still beginners.	夏莉丝堤拉	我是夏莉丝堤拉。我们和爱夏小姐一样，\n都是炼金术士，不过还是初出茅庐的新手啦。	夏莉絲堤菈	我是夏莉絲堤菈。我們兩個人和愛夏小姐一樣，\n都是鍊金術士。不過還只是個菜鳥就是了。
+LegendEvent_03_003ID	12	Ayesha	アーシャ	もう。二人とも駆け出しなんかじゃないのに。\nあ、この人は色々お世話になってるロマンさんだよ	Ayesha	No, no. You two are anything but beginners. Oh yes, this here is Roman. He's always helping out.	爱夏	哎呀，你们才不是什么新手呢。\n啊，这位是罗曼先生，我受过他不少关照。	愛夏	真是的。妳們才不是菜鳥呢。\n啊，這位是幫了我很多忙的人，他叫做羅曼。
+LegendEvent_03_003ID	13	Roman	ロマン	冒険者のロマンだよ。よろしく。\n君がシャリステラか。レスナから話は聞いてるよ	Roman	Yep, I'm Roman the adventurer. Pleased to meet you. So you're Shallistera? I've heard about you from Resna.	罗曼	我是冒险者罗曼，请多指教。\n你就是夏莉丝堤拉啊，我听蕾斯娜提起过你。	羅曼	我是冒險者羅曼。請多指教。\n妳就是夏莉絲堤菈嗎？蕾斯娜有跟我提起過妳。
+LegendEvent_03_003ID	14	Shallistera	シャリステラ	レスナさん！　あれから色々、活躍してるって噂は\n耳にしてますよ	Shallistera	Oh, Resna! I've heard that she's been super busy since last time.	夏莉丝堤拉	蕾斯娜小姐！我都听说了哦！\n她在那之后又立下了许多功劳！	夏莉絲堤菈	蕾斯娜小姐！\n我後來有聽說不少她大展身手的傳聞。
+LegendEvent_03_003ID	15	Shallistera	シャリステラ	ロッテ。レスナさんはね、わたしがこの世界に来て\n出会った、この世界の錬金術士なんだよ	Shallistera	Lotte, Resna is an alchemist here in this world. I met her when I came here.	夏莉丝堤拉	罗蒂，蕾斯娜小姐是我在这个世界认识的人，\n她是这个世界的炼金术士哦。	夏莉絲堤菈	羅蒂。蕾斯娜小姐是我來到這個世界後認識的人，\n她是這個世界的鍊金術士哦。
+LegendEvent_03_003ID	16	Shallotte	シャルロッテ	この世界の錬金術士！　あたしも会ってみたいなぁ！	Shallotte	I see, an alchemist from this world. I'd like to meet her too!	夏露罗蒂	这个世界的炼金术士！我也好想见见她啊！	夏露羅蒂	這個世界的鍊金術士！我也好想見見她！
+LegendEvent_03_003ID	17	Roman	ロマン	レスナは錬金術をこの国に蘇らせる同志なんだ。\nとにかく二人とも、会えて光栄だよ！	Roman	Resna is a fellow enthusiast seeking to restore alchemy. In any case, I am mighty glad to meet both of you.	罗曼	蕾斯娜是要在这个国家振兴炼金术的同志。\n总之，能与二位相见是我的荣幸！\n	羅曼	蕾斯娜和我希望復興這個國家的鍊金術。\n總之能見到兩位，我深感光榮！
+LegendEvent_03_003ID	18	Shallotte	シャルロッテ	あたしたちこそ！　……ところでロマンさん、\nさっき冒険者って言ってたような	Shallotte	The honor is ours! By the way, did you say something about being an adventurer just now, Roman?	夏露罗蒂	我们也很荣幸！说起来，罗曼先生，\n你刚才说你是冒险者吧？	夏露羅蒂	我們才是！……話說回來，羅曼先生，\n你剛才是不是說你是冒險者？
+LegendEvent_03_003ID	19	Roman	ロマン	ん？　確かに言ったけど、それがどうかしたかい？	Roman	Hm? Why yes, I did. Why do you ask?	罗曼	嗯？我是有这么说过，怎么了吗？	羅曼	嗯？我確實是這麼說的，怎麼了嗎？
+LegendEvent_03_003ID	20	Shallistera	シャリステラ	実はわたしたち、甘味を出す素材を\n探してるところで……	Shallistera	Well, we are actually searching for some ingredients that can be used as sweeteners.	夏莉丝堤拉	其实我们正在寻找能产生甜味的素材……	夏莉絲堤菈	其實，\n我們現在正在尋找增添甜味的素材……
+LegendEvent_03_003ID	21	Roman	ロマン	なるほど。冒険者なら何か知っていることはないか、\nということだね	Roman	Aha! And you were wondering if this adventurer here might know something of interest.	罗曼	我明白了，\n你们是觉得冒险者会知道些什么吧。	羅曼	原來如此。妳們在猜，\n冒險者也許會知道些什麼對吧？
+LegendEvent_03_003ID	22	Shallistera	シャリステラ	は、はい	Shallistera	Exactly.	夏莉丝堤拉	是、是的。	夏莉絲堤菈	是、是的。
+LegendEvent_03_003ID	23	Roman	ロマン	そうだな……。それなら、この近くの湿地に咲く\n花の蜜が甘くて、すごく美味しいと評判だよ	Roman	Hmm... In that case, there's a certain flower that blooms in the marshes nearby. They say its nectar is sweet and incredibly delicious.	罗曼	我想想……这附近的湿地里生长着一种花，\n人人都夸它的花蜜香甜。	羅曼	這個嘛……要找的話，聽說這附近的濕地裡開的花，\n花蜜出了名的甘甜美味。
+LegendEvent_03_003ID	24	Shallotte	シャルロッテ	それだ！　ロマンさん、ありがと！\n早速、湿地へ……って、どこだろ！？	Shallotte	Perfect! Thanks, Roman! Let's go to the marshes! Wait, which way?	夏露罗蒂	就是这个！罗曼先生，谢谢你！\n我们赶快去湿地……等等，湿地在哪里啊？！	夏露羅蒂	就是那個！羅曼先生，謝謝你！\n我們快去濕地……呃，那是在哪！？
+LegendEvent_03_003ID	25	Shallistera	シャリステラ	ふふ。もう、ロッテってば	Shallistera	Haha. Oh, Lotte.	夏莉丝堤拉	呵呵，罗蒂真是冒失。	夏莉絲堤菈	呵呵。羅蒂真是的。
+LegendEvent_03_003ID	26	Ayesha	アーシャ	ねえ、そういうことなら、わたしたちもちょうど薬の\n素材を採りに行くところだから、一緒に行こうか？	Ayesha	You know, we were actually just now on our way to the marshes to collect materials for medicine ourselves. Why don't you two join us?	爱夏	对了，我们正好也要去采集药剂素材，\n你们也一起去怎么样？	愛夏	啊，既然這樣，我們剛好也要去那裡採集藥物的素材，\n要不要和我們一起去？
+LegendEvent_03_003ID	27	Shallotte	シャルロッテ	やった！　いいんですか？	Shallotte	Really? You wouldn't mind?	夏露罗蒂	太好啦！可以跟你们一起去吗？！	夏露羅蒂	太好了！可以嗎？
+LegendEvent_03_003ID	28	Shallistera	シャリステラ	でも、あの、薬の素材ってことは……お急ぎでは\nないんですか？　邪魔になったりは……	Shallistera	But, um, it isn't urgent, is it? Since you're collecting materials for medicine. We wouldn't want to get in the way.	夏莉丝堤拉	可是……你们要找药剂的素材……\n那不是很着急吗？我们会不会耽误你们……	夏莉絲堤菈	不過，那個，你們要找的藥物素材……不急嗎？\n要是會耽誤到你們……
+LegendEvent_03_003ID	29	Ayesha	アーシャ	え、ええと……その	Ayesha	Um, well, you know...	爱夏	唔，这个嘛……	愛夏	呃、嗯……這個嘛。
+LegendEvent_03_003ID	30	Roman	ロマン	あ、ああ。特に急ぎじゃないから大丈夫だとも！\n私が常備薬が欲しくてね！　ははは！	Roman	Ahaha. It's fine, don't worry about it! Nothing urgent, just some regular medicine I need to stock up on. Hahaha.	罗曼	别、别担心，没那么着急，不用在意！\n我只是想准备一些常用药！哈哈哈！	羅曼	啊、嗯。不是什麼急事，沒問題！\n我想做些常備藥而已！哈哈哈！
+LegendEvent_03_003ID	31	Shallotte	シャルロッテ	そっか！　冒険者なら薬は備えたいもんね	Shallotte	Oh, okay! Yeah, adventurers need to be prepared with medicine.	夏露罗蒂	这样啊！冒险者确实是会多备一些药物的。	夏露羅蒂	這樣啊！冒險者的確需要準備藥物。
+LegendEvent_03_003ID	32	Roman	ロマン	そういうことさ！　じゃあ早速、出発しようか！	Roman	Absolutely! Okay now, on to the marshes!	罗曼	就是这么回事！那我们赶快出发吧！	羅曼	說得沒錯！那我們盡快出發吧！
+LegendEvent_03_003ID	33	Ayesha Altugle	アーシャ・アルトゥール	薬の知識が豊富な、おっとりとした錬金術士。\nシャリステラたちと同じ世界からやって来た	Ayesha Altugle	A calm and gentle alchemist with a wealth of knowledge on medicine. Hails from the same world as Shallistera and Shallotte.	爱夏·阿图尔	药物知识渊博，端庄沉稳的炼金术士。\n与夏莉丝堤拉一行来自同一个世界。	愛夏‧阿圖爾	擁有豐富的藥的知識，是位沉穩的鍊金術士。\n同樣來自於夏莉絲堤菈等人的世界。
+LegendEvent_03_004ID	0	Shallotte	シャルロッテ	ここが湿地かぁ……！	Shallotte	Wow, it's the marshes!	夏露罗蒂	这里就是湿地啊……！	夏露羅蒂	這裡就是濕地嗎……！
+LegendEvent_03_004ID	1	Shallistera	シャリステラ	そっか。ここってレスナさんと新種の植物を\n探しに来た場所だ……	Shallistera	Oh, this was the place Resna and I came to looking for new plant varieties.	夏莉丝堤拉	原来这里就是蕾斯娜小姐\n为寻找新品种植物来过的地方……	夏莉絲堤菈	原來如此。這裡是我以前和蕾斯娜小姐\n一起尋找新品種植物的地方……
+LegendEvent_03_004ID	2	Ayesha	アーシャ	本当に綺麗な場所だよね。わたしたちの世界だと、\nこんなに水が豊かな景色なんてあまり見られないもん	Ayesha	It's so beautiful here. There aren't many places in our world where you can see such an abundance of water.	爱夏	好漂亮的地方啊。在我们的世界里，\n很少能见到这种水源丰沛的景象。	愛夏	真漂亮的地方啊。畢竟在我們的世界，\n很難見到水資源如此充足的景色。
+LegendEvent_03_004ID	3	Shallistera	シャリステラ	こんな景色がわたしたちの世界でも見られたら……	Shallistera	If only we had places like this in our world too...	夏莉丝堤拉	如果能在我们的世界看到这般景色……	夏莉絲堤菈	如果在我們的世界也能見到這種景色……
+LegendEvent_03_004ID	4	Shallotte	シャルロッテ	うん。そのためにも、もっと色んなことを\n知っていかないとね……	Shallotte	Yeah, that's why we need to learn a lot more.	夏露罗蒂	嗯，为此我们也得学习更多的知识……	夏露羅蒂	嗯。為了實現這個願望，\n我們必須了解更多事情才行……
+LegendEvent_03_004ID	5	Roman	ロマン	よかったら、君たちの世界のことを\n教えてもらえないだろうか？	Roman	If I may ask, could you tell me about what happened in your world?	罗曼	方便的话，能跟我说说你们世界的情况吗？	羅曼	方便的話，可以告訴我\n妳們那個世界的事情嗎？
+LegendEvent_03_004ID	6	Ayesha	アーシャ	あ、すみません！　実は……わたしたちの世界は\n「黄昏」という現象に蝕まれているんです	Ayesha	Oh, sorry. So, you see... Our world is being ravaged by a certain phenomenon that we call the Dusk.	爱夏	啊，抱歉！其实是这样的……\n我们的世界正在被“黄昏”这种现象侵蚀……	愛夏	啊，不好意思！其實……\n我們的世界正受到一個名為「黃昏」的現象侵蝕著。
+LegendEvent_03_004ID	7	Shallistera	シャリステラ	大地の力や、特に水源がゆっくりと涸れていっていて、\n今ではこんな水が豊かな場所は、ほとんどありません	Shallistera	It's slowly eating away at the power of our earth and drying up our water sources. You can't find any places abundant with water like this anymore.	夏莉丝堤拉	大地之力正在枯竭，水源干涸的问题尤为严重，\n现在几乎没有水资源丰沛的地方了。	夏莉絲堤菈	大地之力，特別是水源正在漸漸乾涸，\n現在幾乎沒有像這樣充滿水的地方了。
+LegendEvent_03_004ID	8	Roman	ロマン	……そうか。そこまで深刻だったとは	Roman	Hmm. I didn't realize it was such a serious matter.	罗曼	是这样啊……我没想到情况会这么严重。	羅曼	……這樣啊，沒想到這麼嚴峻。
+LegendEvent_03_004ID	9	Shallotte	シャルロッテ	あ！　だからって絶望したりはしてません！\nあたしたち、力を合わせて黄昏に立ち向かってますから	Shallotte	Oh, but worry not! We haven't given up hope! We're banding together to take on the Dusk.	夏露罗蒂	嗯！但我们还没有绝望！\n我们都在为抵抗黄昏贡献自己的力量。	夏露羅蒂	啊！就算這樣我們也沒有絕望！\n我們正在同心協力對抗黃昏。
+LegendEvent_03_004ID	10	Roman	ロマン	強いね。見習わなくちゃいけないな	Roman	Your strength is admirable. Something we should all aspire to.	罗曼	你们真是坚强。我也得有你们这样的精神才行。	羅曼	妳們真是堅強，我得向妳們看齊。
+LegendEvent_03_004ID	11	Roman	ロマン	こうして改めて見ると……自然豊かな美しい景色だな	Roman	Come to think of it, the lush nature here really is quite beautiful.	罗曼	这样一看……这片自然景色真是生机盎然啊。	羅曼	仔細一看……這真是充滿生機又美麗的景色。
+LegendEvent_03_004ID	12	Ayesha	アーシャ	そうですね。わたしも初めてこの世界に来た時\nすごく感動したんですよ	Ayesha	It really is. I was blown away when I first arrived in this world.	爱夏	是啊，\n我刚到这个世界时也深受感动呢。	愛夏	是啊。我剛來到這個世界的時候，\n也覺得非常感動。
+LegendEvent_03_004ID	13	Roman	ロマン	この自然にも限りがあって、君たちの世界のように\n失われる可能性があるのかもしれないのか	Roman	But wait—that means that this nature is also limited and could be lost, like what happened in your world.	罗曼	这片自然也有它的极限，和你们的世界一样，\n它也有消失的可能吧。	羅曼	所以這些大自然也是有限的，\n或許有一天也會像妳們的世界一樣消失是嗎？
+LegendEvent_03_004ID	14	Roman	ロマン	国家の繁栄ばかりに気をとられてはいけないね	Roman	There is a whole world out there. We shouldn't get too caught up in the prosperity of the kingdom alone.	罗曼	只专注推动国家繁荣发展而忽略其他事是不行的。	羅曼	看來不能光追求國家的繁榮呢。
+LegendEvent_03_004ID	15	Shallotte	シャルロッテ	ということで！\n採りすぎないようにして早速、採取を始めよう！	Shallotte	And on that note! Let's get started collecting materials and make sure we don't take too much!	夏露罗蒂	那我们赶快开始收集吧！\n要注意别采集过度！	夏露羅蒂	接下來！\n我們立刻開始採集吧，注意不要採過量！
+LegendEvent_03_004ID	16	Shallistera	シャリステラ	ふふ。そうだね！\n美味しい蜜が採れる花はどれだろ？	Shallistera	Hehe. Well said! I wonder which flowers have the delicious nectar.	夏莉丝堤拉	呵呵，是这样没错！\n所以有美味花蜜的是哪种花呢？	夏莉絲堤菈	呵呵。就這麼辦！\n哪種花能採集到美味的花蜜呢？
+LegendEvent_03_004ID	17	Ayesha	アーシャ	ロマンさん。わたしたちも薬の素材を採取しましょう！	Ayesha	Well, Roman, shall we start gathering materials for medicine, too?	爱夏	罗曼先生，我们也来采集药剂素材吧！	愛夏	羅曼。我們也來採集藥的素材吧！
+LegendEvent_03_004ID	18	Roman	ロマン	あ……ああ。そうだね	Roman	Oh, right. Sounds good.	罗曼	啊……嗯，好的。	羅曼	啊……好。也是。
+LegendEvent_03_004ID	19	Shallistera	シャリステラ	ねぇロッテ、この花はどうかな？	Shallistera	Hey, Lotte, what about this flower?	夏莉丝堤拉	罗蒂，这种花怎么样？	夏莉絲堤菈	羅蒂，妳覺得這種花怎麼樣？
+LegendEvent_03_004ID	20	Shallotte	シャルロッテ	どれどれ……	Shallotte	Which one?	夏露罗蒂	我看看……	夏露羅蒂	我看看……
+LegendEvent_03_004ID	21	Shallotte	シャルロッテ	んんっ！　あっまーい！　これだよ！	Shallotte	Ooh! It's so sweet! This is it!	夏露罗蒂	嗯！好甜啊！就是这个！	夏露羅蒂	嗯嗯！好甜喔～！就是這個！
+LegendEvent_03_004ID	22	Shallistera	シャリステラ	うん！　すごく甘いのに、くどくなくて美味しい！	Shallistera	Yeah! So sweet, yet so light and delicious.	夏莉丝堤拉	嗯！特别甜，但是不齁，好好吃啊！	夏莉絲堤菈	嗯！甜而不膩，很美味！
+LegendEvent_03_004ID	23	Ayesha	アーシャ	この花の蜜なら、依頼人の人にも喜んでもらえるね！	Ayesha	I'm sure your requester would love the nectar from this flower.	爱夏	委托人一定也会喜欢这种花蜜的！	愛夏	委託人一定也會很喜歡這種花蜜的！
+LegendEvent_03_004ID	24	Roman	ロマン	錬金術を蘇らせても、その時自然が衰えていては\nこうやって素材を採取することすらままならない……	Roman	What good would it be to restore alchemy if nature withers away and it becomes impossible for us to even gather materials like this?	罗曼	即便复兴了炼金术，如果那时的自然枯竭了，\n想像现在这样采集素材恐怕是不行了呢……	羅曼	即便復興了鍊金術，要是到時候大自然已經枯竭，\n那人們甚至會難以像這樣採集素材……
+LegendEvent_03_004ID	25	Roman	ロマン	そんな悲しい未来を、この国に招き寄せるわけには\nいかないな	Roman	We can't allow such a tragic fate to befall this country.	罗曼	不能让这个国家走向那样可悲的未来。	羅曼	我們不能為這個國家招來\n如此悲哀的未來。
+LegendEvent_03_005ID	0	Shallotte	シャルロッテ	たっだいまー！　なーんてね！	Shallotte	We're baaack! Hehe.	夏露罗蒂	我回来了——！开玩笑的啦！	夏露羅蒂	我回來了～！開玩笑的～！
+LegendEvent_03_005ID	1	Nady	ナディ	おかえりなさーい！	Nady	Welcome back, everyone!	娜蒂	你们回来啦！	娜蒂	歡迎回來～！
+LegendEvent_03_005ID	2	Shallotte	シャルロッテ	へっ！？　母さん、来てたの！？	Shallotte	Mom? What are you doing here?	夏露罗蒂	咦？！妈妈你怎么来了？！	夏露羅蒂	咦！？媽媽，妳來了啊！？
+LegendEvent_03_005ID	3	Nady	ナディ	うふふ。シャリーちゃんたちに食べてもらおうと思って\nお菓子焼いたのよ～！　はい、どうぞ～！	Nady	Ahaha. Well, I thought I'd bake up some sweets for my Shallies. Here, dig in!	娜蒂	呵呵，我烤好了点心，\n想让夏莉你们尝尝！来，请用吧！	娜蒂	呵呵。我烤了點心想給妳們吃～！\n來，請用～！
+LegendEvent_03_005ID	4	Shallistera	シャリステラ	もぐ……ナディさんの手作り、やっぱり美味しいな	Shallistera	*Munch* *Munch* Oh, Ms. Nady. Your homemade sweets are the best.	夏莉丝堤拉	嚼嚼……娜蒂小姐做的点心还是这么好吃。	夏莉絲堤菈	嚼嚼……娜蒂小姐的手工點心，果然好好吃。
+LegendEvent_03_005ID	5	Ayesha	アーシャ	ふふっ……ね！	Ayesha	Hehe. Right?	爱夏	呵呵……对吧！	愛夏	呵呵……對吧！
+LegendEvent_03_005ID	6	Nady	ナディ	いっぱいあるから、どんどん召し上がれ～！\nお腹ペコタンだと頑張れないものね	Nady	Help yourselves to more. There's plenty! You can't get anything done on an empty stomach.	娜蒂	我做了很多，你们尽管享用吧！\n饿着肚子可没法努力工作。	娜蒂	這裡還有很多，盡量多吃一點～！\n餓著肚子是沒辦法努力的。
+LegendEvent_03_005ID	7	Shallotte	シャルロッテ	もう……母さんったら。もぐ、むぐ……	Shallotte	Oh Mom! *Munch* *Munch*	夏露罗蒂	妈妈你也真是的……嚼嚼……	夏露羅蒂	媽媽真是的……嚼嚼、嚼嚼……
+LegendEvent_03_005ID	8	Roman	ロマン	お気遣いをいただきありがとうございます。\n私は冒険者のロマンという者で……	Roman	Thank you very much for the cookies. I'm Roman, an adventurer.	罗曼	感谢您辛苦制作食物热情款待。\n我是冒险者罗曼……	羅曼	讓您費心了，謝謝。\n我叫羅曼，是位冒險者……
+LegendEvent_03_005ID	9	Nady	ナディ	あら、ご丁寧に。シャルロッテの母のナディよ。\nよろしくね	Nady	Oh my, what a gentleman. I'm Nady, Shallotte's mother. Nice to meet you.	娜蒂	哎呀，你太客气了。\n我是夏露罗蒂的妈妈娜蒂，请多指教。	娜蒂	哎呀，真有禮貌。我是娜蒂，夏露羅蒂的媽媽。\n請多指教。
+LegendEvent_03_005ID	10	Nady	ナディ	それでシャリーちゃんたち、お仕事はどう？\n頑張ってる？	Nady	So how's the request going, my Shallies? Working hard?	娜蒂	对了，夏莉你们的工作进行得怎么样？\n有好好努力吗？	娜蒂	所以，夏莉，妳們的工作怎麼樣了？\n有在努力嗎？
+LegendEvent_03_005ID	11	Shallotte	シャルロッテ	それ！　あたしたち、素材の調合しに\n帰ってきたんだよ	Shallotte	Yeah! We came back to synthesize materials.	夏露罗蒂	问得好！\n我们回来就是为了调合素材。	夏露羅蒂	嗯！\n我們是回來調合素材的。
+LegendEvent_03_005ID	12	Nady	ナディ	ってことは、アーシャちゃんとロマン君も\n手伝ってくれてるのね！	Nady	I see. So Ayesha and Roman must be helping out.	娜蒂	这么说爱夏和罗曼也有帮忙吧！	娜蒂	也就是說，\n愛夏和羅曼也會來幫忙妳們囉！
+LegendEvent_03_005ID	13	Ayesha	アーシャ	あ、わたしたちは薬の調合で。\n採取場所が同じなのでご一緒したんですよ	Ayesha	Oh, we're synthesizing medicine. We went to gather materials together since the ones they need were in the same place.	爱夏	啊，因为我们的目的是调合药剂，\n采集地点是一样的，所以就跟她们一起去了。	愛夏	啊，我們要去調合藥物。\n因為採集地點一樣，才會一起行動。
+LegendEvent_03_005ID	14	Shallotte	シャルロッテ	ってことで大忙しなんだ！\n……そうだ、人手が足りないし、母さんも手伝ってよ！	Shallotte	Which means we're super busy! That being said, we could use an extra set of hands. Mom, could you help?	夏露罗蒂	所以我们现在很忙！\n对了，我们正缺人手，妈妈也来帮忙吧！	夏露羅蒂	就是這樣，我們整個忙翻了！\n……對了，既然人手不夠，媽媽也一起來幫忙吧！
+LegendEvent_03_005ID	15	Nady	ナディ	ええっ。でも、私で役に立つかしら？	Nady	What? But is there anything I can do?	娜蒂	好啊，不过我能帮上忙吗？	娜蒂	好呀。不過，我幫得上忙嗎？
+LegendEvent_03_005ID	16	Shallistera	シャリステラ	大丈夫ですよ！　ぜひお願いします！	Shallistera	Yes, of course! We'd love it if you could help.	夏莉丝堤拉	一定可以的！拜托了！	夏莉絲堤菈	沒問題的！請妳務必來幫忙！
+LegendEvent_03_005ID	17	Nady	ナディ	ええと、これをタカタカタカーっと刻んで……？	Nady	Um, so I should chop this up?	娜蒂	唔，要把这个咚咚咚切碎……？	娜蒂	我看看，把這個咚咚咚地切碎之後……？
+LegendEvent_03_005ID	18	Shallistera	シャリステラ	その後はわたしが混ぜますね	Shallistera	Yep, and then I'll mix it in.	夏莉丝堤拉	然后我会来搅拌它们。	夏莉絲堤菈	之後由我來攪拌。
+LegendEvent_03_005ID	19	Nady	ナディ	こっちはこの配合で混ぜとけばいいのよね？\nちゃっちゃっちゃっ……っと	Nady	All right, and then I take these and blend them together, right? And...there you have it!	娜蒂	我要做的就是按这个比例混合对吧？\n看我三下两下就……搞定。	娜蒂	這邊的用這個比例混合就行了對吧？\n就像這樣……
+LegendEvent_03_005ID	20	Roman	ロマン	ほう。手慣れたもんじゃないか	Roman	Whoa, you sure know your way around a cauldron.	罗曼	哦，你的动作很熟练啊。	羅曼	哦？動作還真是熟練呢。
+LegendEvent_03_005ID	21	Shallotte	シャルロッテ	母さんって普段ボケーっとしてるけど、\nやればなんでも手際いいんだよねぇ	Shallotte	Yeah, Mom is always kind of ditsy, but she's quick once she gets started on something.	夏露罗蒂	虽然妈妈平时那么散漫，\n但到了需要的时候她干活是很利落的。	夏露羅蒂	雖然媽媽平常有點漫不經心，\n但其實不管做什麼事都很俐落呢。
+LegendEvent_03_005ID	22	Nady	ナディ	ほーら、シャリーちゃん。手が止まってるわよぉ！	Nady	Focus, Shallie! You're holding us up!	娜蒂	好啦，夏莉，手上的活不能停哦！	娜蒂	真是的～夏莉。妳的手停下來了喔！
+LegendEvent_03_005ID	23	Shallotte	シャルロッテ	わわわっ！	Shallotte	Whoops!	夏露罗蒂	哎呀呀！	夏露羅蒂	哇哇哇！
+LegendEvent_03_005ID	24		ふたり	できた！	Both	It's done!	二人	完成了！	兩人	完成了！
+LegendEvent_03_005ID	25	Ayesha	アーシャ	お薬もばっちり！	Ayesha	The medicine is looking good too!	爱夏	药剂也做好了！	愛夏	藥也調合成功了！
+LegendEvent_03_005ID	26	Roman	ロマン	皆のおかげで、思ったより\n早く用意することができたよ、助かった	Roman	Thanks to all of you, we managed to finish much faster than I expected.	罗曼	多亏各位的帮助，准备工作完成得比我预想的还要快。\n多谢了。	羅曼	多虧有大家的幫忙，\n完成的速度比想像中快多了，得救了。
+LegendEvent_03_005ID	27	Roman	ロマン	この新薬が効きそうな人を思い出してね\n今から渡しにいこうと思うんだ	Roman	I just thought of someone who could really use this new medicine, so I think I'll deliver some to them right away.	罗曼	一想到这种新药可能帮到的人，\n我现在就想给他们送去呢。	羅曼	想起了這種新藥可能幫助到的人，\n我想現在就把藥拿過去。
+LegendEvent_03_005ID	28	Shallotte	シャルロッテ	手伝ってもらってありがとう	Shallotte	Thank you all again for your help.	夏露罗蒂	谢谢你们的协助。	夏露羅蒂	謝謝妳們的幫忙！
+LegendEvent_03_005ID	29	Ayesha	アーシャ	ううん。一緒に採取や調合ができて楽しかったよ	Ayesha	Don't worry about it. We had fun gathering and synthesizing with you!	爱夏	不不，跟你们一起采集调合很有意思。	愛夏	別在意。能和妳們一起採集跟調合很有趣哦。
+LegendEvent_03_005ID	30	Ayesha	アーシャ	そうだ。作ったやつはせっかくだから、\n依頼してくれた人に直接届けたらどうかな？	Ayesha	Which reminds me, since you worked so hard at it, why don't you deliver the stuff you made to the requester directly?	爱夏	对了，既然东西都做好了，\n不如直接给委托人送去吧？	愛夏	對了。既然做好東西了，\n不如直接送去給委託人如何？
+LegendEvent_03_005ID	31	Roman	ロマン	そうだね！　きっと喜んでもらえると思うよ	Roman	What a great idea! I'm sure the requester would love that.	罗曼	是啊，对方一定会开心的。	羅曼	好啊！對方一定會很高興的。
+LegendEvent_03_005ID	32	Shallistera	シャリステラ	はい。そうします！　\nあの……色々ありがとうございました！	Shallistera	Absolutely! We'll take it directly. Um, thank you so much for everything!	夏莉丝堤拉	嗯，我们一会儿就去！\n那个……真的很感谢二位！	夏莉絲堤菈	好的。就這麼做吧！\n那個……真的很謝謝你們！
+LegendEvent_03_005ID	33	Ayesha	アーシャ	うふふ。またね！	Ayesha	Hehe. We'll see you around!	爱夏	呵呵。再见啦！	愛夏	呵呵。再見囉！
+LegendEvent_03_005ID	34	Nady	ナディ	あっ、アーシャちゃん、ロマン君。\nお土産にお菓子持ってって！	Nady	Wait, Ayesha, Roman! Here are some souvenirs and sweets for you!	娜蒂	啊，爱夏，罗曼，\n你们带上点心当礼物吧！	娜蒂	啊、愛夏，羅曼。\n你們拿些點心當作伴手禮吧！
+LegendEvent_03_005ID	35	Shallotte	シャルロッテ	じゃあ、あたしたちも届けにいこっか！	Shallotte	Well, we should probably go make our delivery too!	夏露罗蒂	那我们也去送东西吧！	夏露羅蒂	那，我們也去送東西吧！
+LegendEvent_03_005ID	36	Shallistera	シャリステラ	うん！	Shallistera	Yeah!	夏莉丝堤拉	嗯！	夏莉絲堤菈	嗯！
+LegendEvent_03_006ID	0		菓子屋の主人	こんなに早く届けてくれてありがとう！\nいやあ、助かったよ	Sweets Shop Owner	Thanks for getting this here so quickly! What a relief!	点心店店主	谢谢你们这么快送来！\n真是帮大忙了！	點心店老闆	謝謝妳們這麼快就把東西送來！\n真是幫了一個大忙。
+LegendEvent_03_006ID	1	Shallistera	シャリステラ	お役に立てて何よりです	Shallistera	Don't mention it! Glad we could help.	夏莉丝堤拉	能帮上你的忙就好。	夏莉絲堤菈	能幫上你的忙真是太好了。
+LegendEvent_03_006ID	2		菓子屋の主人	しかも……こりゃすごく上質だ！\nお、そうだ。ちょっと待ってな！	Sweets Shop Owner	Oh, wow! This is top quality! Ah, that's right. Wait here just a second.	点心店店主	而且……这花蜜的品质还这么好！\n啊，对了，你们等我一下！	點心店老闆	而且……東西的品質非常好！\n喔，對了。稍等我一下！
+LegendEvent_03_006ID	3	Shallistera	シャリステラ	喜んでもらえたみたいだね	Shallistera	Looks like we made somebody's day.	夏莉丝堤拉	店主好像很满意呢。	夏莉絲堤菈	他好像很開心呢。
+LegendEvent_03_006ID	4	Shallotte	シャルロッテ	うん。母さんが勝手に受けちゃった時は\nどうなるかと思ったけどね～！	Shallotte	Yeah! I was a little worried about what might happen when my mom first mentioned how she just accepted the request.	夏露罗蒂	嗯，刚听说妈妈擅自接下委托的时候，\n我还以为要出大麻烦了～！	夏露羅蒂	嗯。媽媽擅自接下這份委託的時候，\n我本來還很擔心呢～！
+LegendEvent_03_006ID	5		菓子屋の主人	お待たせ！　こいつが報酬と……\n作りたてのうちの菓子だ！	Sweets Shop Owner	Sorry to keep you waiting. Here's your reward, and...here's some sweets from a fresh batch.	点心店店主	让你们久等了！这是报酬……\n还有我家刚出炉的点心！	點心店老闆	久等了！這是報酬……\n是我們店裡剛做好的點心！
+LegendEvent_03_006ID	6	Shallotte	シャルロッテ	わぁ！　やったぁ！　いいんですか？	Shallotte	Ooh! Yay! Are you sure?	夏露罗蒂	哇！太好啦！我们真的可以收下吗？	夏露羅蒂	哇！太好了！真的能收下嗎？
+LegendEvent_03_006ID	7		菓子屋の主人	気に入ったんなら、また買いに来てくれよ！\nついでにこのへんもあちこち見て回るといい	Sweets Shop Owner	Of course. Be sure to come by again to buy some more if you like them. And there's a lot to see around here too, while you're here.	点心店店主	如果你们喜欢就再来买吧！\n顺便推荐你们在这附近转转。	點心店老闆	妳們要是喜歡的話，歡迎再來買！\n順便逛逛這附近也不錯。
+LegendEvent_03_006ID	8	Shallistera	シャリステラ	楽しそう……でも、遊んでいるわけには……	Shallistera	It sure sounds like a lot of fun, but we really should be on our way.	夏莉丝堤拉	听起来好有趣……可我们不是来玩的……	夏莉絲堤菈	感覺很有趣……不過，我們不是來玩……
+LegendEvent_03_006ID	9		菓子屋の主人	このへんは食べ歩きの名所なんだ。\n回らなきゃ損だって！	Sweets Shop Owner	This area is really famous for street food. I'm telling you, you're missing out!	点心店店主	这附近是著名的小吃街，\n不逛逛可就太亏啦！	點心店老闆	這附近可是有名的小吃街區。\n不逛一下就太可惜了！
+LegendEvent_03_006ID	10	Shallotte	シャルロッテ	う～ん。じゃあ……ちょっとだけ？	Shallotte	Well, if that's the case, maybe we could go for a little stroll?	夏露罗蒂	唔——那就……稍微逛一下？	夏露羅蒂	唔～那就……稍微逛一下？
+LegendEvent_03_006ID	11	Shallotte	シャルロッテ	もらったお菓子、サイコーだったね！	Shallotte	Those sweets from the shop were sooo good!	夏露罗蒂	店主送的点心好好吃啊！	夏露羅蒂	我們收到的那份點心超好吃的！
+LegendEvent_03_006ID	12	Shallistera	シャリステラ	隣のお店の串焼き肉も、肉汁たっぷりで\n美味しかったなあ……	Shallistera	The meat skewers from the next shop over were also really juicy and scrumptious.	夏莉丝堤拉	隔壁店的烤串也很美味，\n肉汁很足……	夏莉絲堤菈	隔壁那間店的烤肉串也是充滿肉汁，\n真好吃啊……
+LegendEvent_03_006ID	13	Shallistera	シャリステラ	んんっ……お魚の塩焼きが……たまらないっ！	Shallistera	Mmm... This salt-grilled fish is simply out of this world!	夏莉丝堤拉	嗯嗯……盐烤鱼……吃得让人停不下来！	夏莉絲堤菈	嗯嗯……那份鹽烤魚……好吃到不行！
+LegendEvent_03_006ID	14	Shallotte	シャルロッテ	海が近いってすごいね！\n海鮮焼きってこんなに美味しいものだったんだぁ！	Shallotte	How incredible to be so close to the ocean! I never knew just how delicious grilled seafood could be.	夏露罗蒂	海边真好啊！\n海鲜烧烤原来这么好吃！	夏露羅蒂	海邊附近真的好棒！\n沒想到烤海鮮這麼好吃！
+LegendEvent_03_006ID	15	Shallotte	シャルロッテ	まだまだ色んなお店がある！　全部食べたい！\nでも太っちゃうかも！	Shallotte	There are still so many shops. I want to eat it all! But then I'd put on a lot of weight.	夏露罗蒂	还有很多别的店！我全都想尝一遍！\n不过这样会长胖的吧！	夏露羅蒂	還有很多沒吃到的店！我全部都想吃！\n可是感覺會變胖！
+LegendEvent_03_006ID	16	Shallistera	シャリステラ	ロッテったら。でも……迷っちゃうね。\nあ。あのお店も気になるかも……	Shallistera	Oh, Lotte. They sure do all look tasty though. Oh, what about that shop?	夏莉丝堤拉	真受不了你。不过……确实很难抉择呢。\n啊，那家店我也想去看看……	夏莉絲堤菈	妳真是的。不過……真讓人猶豫呢。\n啊。我有點好奇那間店……
+LegendEvent_03_006ID	17	Shallotte	シャルロッテ	行ってみよっか！　……なんだか楽しそうだね、ステラ	Shallotte	Let's check it out! You seem to really be enjoying this, Stera.	夏露罗蒂	我们去看看吧！感觉好开心啊，丝堤拉。	夏露羅蒂	我們去看看吧！……絲堤菈，妳看起來很開心呢。
+LegendEvent_03_006ID	18	Shallistera	シャリステラ	ルギオン村は辺境だったから、こんなにお店は\nなかったし、その後は働いてばかりだったから……	Shallistera	Well, you know, there weren't this many shops around Lugion Village. And I did nothing but work after that...	夏莉丝堤拉	路基昂村位于边境，所以没有这么多的店，\n而且我们自那之后就全副心思都在工作上……	夏莉絲堤菈	因為路基昂村位在邊境，村裡沒有這麼多店家。\n而且我自從那之後一直都在工作……
+LegendEvent_03_006ID	19	Shallotte	シャルロッテ	えへへ。あたしもビンボーだったからなぁ……。\nまさか異世界で食べ歩きができるなんてね！	Shallotte	Ahaha. I was poor too, so I never imagined I'd be leisurely strolling while eating in a whole other world!	夏露罗蒂	嘿嘿。那时我手头也没什么钱……\n没想到能在异世界边逛边吃！	夏露羅蒂	嘿嘿。我以前也很窮……\n真沒想到能在異世界逛小吃呢！
+LegendEvent_03_006ID	20	Shallistera	シャリステラ	ふふ、そうだね……あ、あのお店、お肉が！	Shallistera	Hehe. No kidding. Oh, look at the meat at that shop!	夏莉丝堤拉	呵呵，是啊……啊，那家店有肉卖！	夏莉絲堤菈	呵呵，是啊……啊、那間店有賣肉！
+LegendEvent_03_006ID	21	Shallotte	シャルロッテ	ええっ！？　また肉！？	Shallotte	Huuuh?! You want MORE meat?!	夏露罗蒂	什么？！又要吃肉？！	夏露羅蒂	咦咦！？又要吃肉嗎！？
+LegendEvent_03_007ID	0	Ryza	ライザ	はい。それじゃあこの依頼は無事完了っと。\n二人とも、お疲れさま！	Ryza	All right, so this request has been successfully completed. Good work, you two!	莱莎	好，这样就算是完成这份委托了。\n辛苦你们啦！	萊莎	來。這樣就順利完成這份委託了。\n兩位辛苦了！
+LegendEvent_03_007ID	1	Shallistera	シャリステラ	はい！　ありがとうございます、ライザさん	Shallistera	Thank you, Ryza!	夏莉丝堤拉	嗯！谢谢你，莱莎小姐。	夏莉絲堤菈	是！謝謝妳，萊莎小姐。
+LegendEvent_03_007ID	2	Shallotte	シャルロッテ	いや～、それにしても食べたねー！	Shallotte	Phew. We sure did eat a lot!	夏露罗蒂	哎呀，吃得好饱啊！	夏露羅蒂	哎呀～話說回來，我吃得好滿足喔～！
+LegendEvent_03_007ID	3	Shallistera	シャリステラ	あのへんのお店は結局、一通り制覇したんだよね！	Shallistera	We really ended up dominating that whole area of shops, didn't we?	夏莉丝堤拉	逛到最后每家店都去了一次呢！	夏莉絲堤菈	結果，我們把那附近的店全都吃過一遍了！
+LegendEvent_03_007ID	4	Ryza	ライザ	待って！？　それ食べすぎじゃない！？	Ryza	Wait, wait, what?! You guys ate that much?!	莱莎	什么？！那也吃得太多了吧？	萊莎	等等，妳們這樣不會吃太多嗎！？
+LegendEvent_03_007ID	5	Nady	ナディ	そんなシャリーちゃんたちの腹ごなしに……\nはい、次の依頼を受けておいたわよ～！	Nady	And I have just the thing for walking that feast off for you two! Here you go! I got you your next request.	娜蒂	那就让饱餐一顿的夏莉们消消食吧……\n来，我又为你们接了一份委托哦～	娜蒂	為了幫助妳們消化……\n來，我接了下一份委託囉～！
+LegendEvent_03_007ID	6	Shallotte	シャルロッテ	ええっ！　また！？	Shallotte	Huh? Not again!	夏露罗蒂	什么？！又接了委托？！	夏露羅蒂	什麼！妳又接了！？
+LegendEvent_03_007ID	7	Nady	ナディ	母さん、気が利いてるでしょ？	Nady	Your mother's sure on top of things, wouldn't you say?	娜蒂	怎么样，妈妈我很能干吧？	娜蒂	媽媽很貼心對吧？
+LegendEvent_03_007ID	8	Shallotte	シャルロッテ	こ、今度こそとんでもない依頼だ、きっと……。\n母さんはどうしてそうやってポンポンと……	Shallotte	Th-This one is definitely going to be something crazy, I just know it. Mom, why do you have to keep accepting these requests?	夏露罗蒂	感、感觉这次肯定是棘手的委托……\n妈妈为什么要这样一个劲接委托啊……	夏露羅蒂	這、這次肯定會是很不得了的委託……\n媽媽為什麼總是說接就接……
+LegendEvent_03_007ID	9	Shallistera	シャリステラ	まあ落ち着いて、ロッテ。\nナディさん、どんな依頼なんですか？	Shallistera	Well, hold on, Lotte. Ms. Nady, what kind of request is it?	夏莉丝堤拉	冷静点，罗蒂。\n娜蒂阿姨，这次是什么委托呢？	夏莉絲堤菈	羅蒂，妳先別緊張嘛。\n娜蒂小姐，這次是什麼樣的委託呢？
+LegendEvent_03_007ID	10	Nady	ナディ	これよ	Nady	Here, take a look!	娜蒂	是这个。	娜蒂	就是這個。
+LegendEvent_03_007ID	11	Shallotte	シャルロッテ	なに……。\n「喉の薬求ム！」……？	Shallotte	"What? A ""request for throat medicine""?"	夏露罗蒂	我看看……\n“寻找咽喉药”……？	夏露羅蒂	我看看……\n「徵求喉嚨藥」……？
+LegendEvent_03_007ID	12	Shallistera	シャリステラ	路上で歌を披露している歌唄いさんが依頼主か。\n喉を傷めちゃったみたいだね	Shallistera	Looks like a request from that singer who puts on street performances. Must be a strained throat.	夏莉丝堤拉	在街头唱歌的歌手是这次的委托人，\n他的喉咙似乎受伤了。	夏莉絲堤菈	委託人是在街上演唱的歌手啊。\n他好像不小心傷到喉嚨了。
+LegendEvent_03_007ID	13	Nady	ナディ	東の山を登った所にある川原の上流の水が\n喉にいいらしいわよ～	Nady	I hear that the water from the upper rapids at the top of the mountains to the east is great for the throat.	娜蒂	去东面的山上，河流的上游那儿，\n那里的水好像对喉咙很好呢。	娜蒂	聽說東方那座山上的上游河水\n對喉嚨很好喔～
+LegendEvent_03_007ID	14	Shallotte	シャルロッテ	えっ、母さん。なんでそんなこと知ってるの！？	Shallotte	What? Mom, why would you know that?!	夏露罗蒂	咦？妈妈，你怎么会知道啊？！	夏露羅蒂	咦，媽媽，妳怎麼會知道這種事？
+LegendEvent_03_007ID	15	Ryza	ライザ	ナディさんね、あなたたちのために\n先に必要な素材を調べてたんだよ	Ryza	Ms. Nady went ahead and looked into the necessary materials for the two of you.	莱莎	娜蒂阿姨提前帮你们调查了所需素材哦。	萊莎	娜蒂小姐已經事先幫妳們調查好\n需要的素材了。
+LegendEvent_03_007ID	16	Shallotte	シャルロッテ	そ、そっか。それなら……\nまぁ、ヤバい内容じゃなさそうだし	Shallotte	Oh, I see. Well, in that case, it doesn't seem like an outrageous request.	夏露罗蒂	这、这样啊，那……\n看起来也不是什么困难的任务。	夏露羅蒂	這、這樣啊。既然這樣……\n好吧，感覺委託內容也沒有很糟。
+LegendEvent_03_007ID	17	Shallistera	シャリステラ	うん。いこっか、ロッテ！	Shallistera	Not at all. Let's go for it, Lotte!	夏莉丝堤拉	嗯，那我们走吧，罗蒂！	夏莉絲堤菈	嗯，我們出發吧，羅蒂！
+LegendEvent_03_008ID	0	Shallistera	シャリステラ	わぁ……ここも豊かな水源……	Shallistera	Wow, another abundant water source.	夏莉丝堤拉	哇……这里的水源也好丰沛……	夏莉絲堤菈	哇……這裡也充滿了水……
+LegendEvent_03_008ID	1	Shallotte	シャルロッテ	いい場所だね。水が澄んでる。飲んでみよっか？	Shallotte	What a wonderful place, and the water's so clear. Let's try a sip!	夏露罗蒂	这里真不错，水很清澈。我们尝尝看吧？	夏露羅蒂	真是個好地方。水好清澈。妳要喝喝看嗎？
+LegendEvent_03_008ID	2	Shallistera	シャリステラ	ん……美味しい……すごくすっきりしてる	Shallistera	Mmm... How nice. Very refreshing.	夏莉丝堤拉	嗯……好好喝……好清爽啊。	夏莉絲堤菈	嗯……好好喝……味道非常清涼。
+LegendEvent_03_008ID	3	Shallotte	シャルロッテ	ホントだ。これは喉に良さそう……えいっ！	Shallotte	Oh wow, you're right. This seems perfect for throat troubles. Hah!	夏露罗蒂	还真是。这个肯定能保养喉咙……嘿！	夏露羅蒂	真的耶。感覺對喉嚨很好……嘿！
+LegendEvent_03_008ID	4	Shallistera	シャリステラ	きゃっ！　冷た～い！　ふふっ。わたしだって……！	Shallistera	Yeeek! It's freezing! Hehe. I'll show you!	夏莉丝堤拉	呀！好冰～！呵呵，看我的……！	夏莉絲堤菈	呀啊！好冰～！呵呵。我也來……！
+LegendEvent_03_008ID	5	Shallotte	シャルロッテ	うわぁ！　あたし、こんなたっぷりかけてないよ！？\nよーし、おっかえし～！	Shallotte	Hey! Come on, I didn't splash that much on you! All right, you asked for it!	夏露罗蒂	哇！我可没有泼你这么多啊？！\n好，看我还击～！	夏露羅蒂	嗚哇！我沒潑妳這麼多水吧！？\n好～看我回敬妳～！
+LegendEvent_03_008ID	6	Shallistera	シャリステラ	あはは……ロッテ、冷たいってば～！	Shallistera	Ahaha! Lotte, it's really cold!	夏莉丝堤拉	哈哈……罗蒂，太冰了啦～！	夏莉絲堤菈	哈哈……羅蒂，這樣很冰啦～！
+LegendEvent_03_008ID	7	Shallistera	シャリステラ	ふふ……はぁ。わたしたちの世界だと考えられない\nくらいもったいないことしてるよね	Shallistera	Hehe. *Sigh* We couldn't even begin to imagine doing this in our world. It'd be so wasteful.	夏莉丝堤拉	呵呵……唉。我们现在在做的事，\n在我们的世界里可是难以想象的奢侈啊。	夏莉絲堤菈	呵呵……呼。我們做的事\n在我們的世界來說是難以想像的浪費呢。
+LegendEvent_03_008ID	8	Shallotte	シャルロッテ	んー。でもせっかくだし！\nこっちの世界でならいいんじゃない？	Shallotte	Yeah... But now's our chance! It's fine if we do it here in this world.	夏露罗蒂	嗯——机会难得！\n都来到这个世界了，泼水玩玩也没什么吧？	夏露羅蒂	唔～可是機會難得嘛！\n而且在這個世界應該沒關係吧？
+LegendEvent_03_009ID	0	Shallotte	シャルロッテ	水以外の素材も揃ったし、\nいざ、喉の薬を……あれ！？	Shallotte	Well, we got all the materials we need to go with the water. Let's get started on that throat medici... Huh?!	夏露罗蒂	除了水之外的素材也都集齐了，\n快开始制作咽喉药……咦？！	夏露羅蒂	水之外的素材也都準備齊全了，\n開始做喉嚨藥……咦！？
+LegendEvent_03_009ID	1	Shallotte	シャルロッテ	へっ！？	Shallotte	What?!	夏露罗蒂	咦？！	夏露羅蒂	咦！？
+LegendEvent_03_009ID	2	Shallistera	シャリステラ	キ、キースさん！？	Shallistera	Mr. Keith?!	夏莉丝堤拉	奇、奇斯先生？！	夏莉絲堤菈	奇、奇斯先生！？
+LegendEvent_03_009ID	3	Odelia	オディーリア	んむ、んむ……これは美味しいですね。\n素朴ながら素材の味が活きています	Odelia	Mmm, mmm. This is wonderful. Simple, yet it brings out the flavor of the ingredients.	奥迪莉雅	唔唔……真好吃。\n虽然平淡，但发挥了食材的本味。	奧迪莉雅	嗯、嗯……這個真美味。\n味道簡單卻襯托出素材原本的風味。
+LegendEvent_03_009ID	4	Nady	ナディ	うふふ、ありがと。\nオディーリアちゃん、こっちのお菓子もどうぞ	Nady	Hehe. Thanks. Help yourself to these sweets too, Odelia.	娜蒂	呵呵，谢谢你的夸奖。\n奥迪莉雅，也请尝尝这种点心吧。	娜蒂	呵呵，謝謝妳。\n奧迪莉雅，這份點心也請妳吃。
+LegendEvent_03_009ID	5	Odelia	オディーリア	ほぅ……これは趣向が変わって、甘みとコクが\n絶妙な加減ですね……もぐもぐ……	Odelia	Ooh. This one's quite different. Strikes an exquisite balance between sweetness and richness. *Munch* *Munch*	奥迪莉雅	哦……这个也别有一番滋味啊，\n甜味跟香味把控得极好……嚼嚼……	奧迪莉雅	哦……這個的韻味又有所不同，\n恰到好處的甜味與濃醇香……嚼嚼……
+LegendEvent_03_009ID	6	Keithgriff	キースグリフ	オディーリア、そのへんにしておけ	Keithgriff	Okay, Odelia, I think you've had enough now.	奇斯葛里夫	奥迪莉雅，该适可而止了。	奇斯葛里夫	奧迪莉雅，適可而止吧。
+LegendEvent_03_009ID	7	Odelia	オディーリア	お言葉ですがマスター。ここはすべての甘味を\n満喫することこそ肝要だと考えます……むぐむぐ……	Odelia	With all due respect, Master, I believe it is essential we savor all the sweetness before us here. *Munch* *Munch*	奥迪莉雅	是的主人。只是我觉得\n享受完这里的所有甜食才是最要紧的事……嚼嚼……	奧迪莉雅	恕我冒昧，主人。我認為現在最重要的，\n就是要嚐盡所有的甜食……嚼嚼……
+LegendEvent_03_009ID	8	Odelia	オディーリア	ふむ……ナディの作るお菓子は非常に奥が深いですね	Odelia	Mmm. Your sweets are profoundly delicious, Nady.	奥迪莉雅	嗯……娜蒂制作的点心很有深度。	奧迪莉雅	唔嗯……娜蒂做的點心真是深奧啊。
+LegendEvent_03_009ID	9	Nady	ナディ	まだまだあるわよ～	Nady	There's plenty more!	娜蒂	还有很多哦～	娜蒂	這裡還有很多喔～
+LegendEvent_03_009ID	10	Shallistera	シャリステラ	オディーリアさんが……	Shallistera	Is Odelia...	夏莉丝堤拉	奥迪莉雅小姐她……	夏莉絲堤菈	奧迪莉雅小姐……
+LegendEvent_03_009ID	11	Shallotte	シャルロッテ	母さんに餌付けされてる！？	Shallotte	...being hand-fed by my mom?!	夏露罗蒂	被妈妈投喂了？！	夏露羅蒂	正在被媽媽餵食中！？
+LegendEvent_03_009ID	12	Shallistera	シャリステラ	し、しかも……\nキースさんが一緒にお茶を飲んでるね	Shallistera	Not only that! Mr. Keith is drinking tea with her!	夏莉丝堤拉	而、而且……\n奇斯先生居然也在喝茶。	夏莉絲堤菈	而、而且……\n奇斯先生也在和她一起喝茶耶。
+LegendEvent_03_009ID	13	Shallotte	シャルロッテ	ちょっと信じらんない光景だけど……あ！	Shallotte	I can hardly believe my own eyes... Wait!	夏露罗蒂	这场面让人有些难以置信……对了！	夏露羅蒂	真是叫人不敢置信的景象……啊！
+LegendEvent_03_009ID	14	Shallotte	シャルロッテ	今ならキースさんに喉の薬の調合も\n手伝ってもらえるんじゃ！？	Shallotte	This might be our chance to get Mr. Keith to help us synthesize the throat medicine!	夏露罗蒂	现在是不是可以麻烦奇斯先生\n帮我们一起调合咽喉药？！	夏露羅蒂	我們是不是能趁現在請奇斯先生\n幫忙調合喉嚨藥！？
+LegendEvent_03_009ID	15	Shallistera	シャリステラ	そ、そうかな……？	Shallistera	You think?	夏莉丝堤拉	可、可以吗……？	夏莉絲堤菈	是、是嗎……？
+LegendEvent_03_009ID	16	Keithgriff	キースグリフ	おい。聞こえてるぞ	Keithgriff	Hey! I can hear you two.	奇斯葛里夫	喂，我听得见。	奇斯葛里夫	喂。我都聽見了。
+LegendEvent_03_009ID	17		ふたり	ひゃっ！	Both	Eep!	二人	呀？！	兩人	呀啊！
+LegendEvent_03_009ID	18	Shallotte	シャルロッテ	い、いや～。やっぱ弟子として師匠と一緒に\n調合してみたいな～！　な～んて……	Shallotte	O-Oh, we were just talking about how great it would be to synthesize with our teacher, since we're apprentices and all. Ahaha.	夏露罗蒂	哎、哎呀～身为徒弟，\n还是想跟师父一起调合的嘛～！我就这么一说……	夏露羅蒂	討、討厭～身為弟子總會想跟師父一起調合看看嘛～！\n開玩笑的……
+LegendEvent_03_009ID	19	Keithgriff	キースグリフ	そんなことでオレを頼るような弟子を\n持った覚えはないが	Keithgriff	I don't recall having apprentices that relied on me for such matters.	奇斯葛里夫	我可不记得收过这点事也要求我帮忙的徒弟。	奇斯葛里夫	我可不記得自己有收了這些\n會為這種事來麻煩我的徒弟。
+LegendEvent_03_009ID	20	Nady	ナディ	こーら、キースさん。シャリーちゃんたちの様子を\n確認しなくていいんですか～？	Nady	Now, now, Mr. Keith. Don't you think it would be good to keep an eye on Shallie and Shallie?	娜蒂	别这样呀，奇斯先生，\n不去看看夏莉她们的情况真的好吗～？	娜蒂	好了啦～奇斯。你確定不去看看\n夏莉她們的情況嗎～？
+LegendEvent_03_009ID	21	Keithgriff	キースグリフ	確かに彼女たちが未熟なまま、とんでもないことを\nしでかしたら困るが	Keithgriff	Indeed, they are both still inexperienced. It'd be a shame if they made a mess of things.	奇斯葛里夫	也对，她们还不够成熟，\n要是闯下大祸就头疼了。	奇斯葛里夫	的確，要是因為她們不夠成熟而闖出大禍，\n我也會很困擾。
+LegendEvent_03_009ID	22	Nady	ナディ	ですよね～！　ほらほら、一緒に調合して\nきっちりばっちり確認しちゃいましょう！	Nady	What a shame indeed! Well then, join in and make sure their synthesis is done properly and precisely!	娜蒂	就是～！好啦，快去跟她们一起调合，\n仔仔细细从头到尾确认一番吧！	娜蒂	沒錯吧～！去吧去吧，\n你就去和她們一起調合，確認一切萬無一失吧！
+LegendEvent_03_009ID	23	Keithgriff	キースグリフ	仕方ない。さっさと始めるぞ。\nオディーリア、お前も手伝え	Keithgriff	Looks like there's no way around it. Come then, let's get started. Odelia, you're helping too.	奇斯葛里夫	没办法。那就快开始吧。\n奥迪莉雅，你也来帮忙。	奇斯葛里夫	真沒辦法。快點開始吧。\n奧迪莉雅，妳也過來幫忙。
+LegendEvent_03_009ID	24	Odelia	オディーリア	承知しました	Odelia	As you wish.	奥迪莉雅	遵命。	奧迪莉雅	了解。
+LegendEvent_03_009ID	25	Shallotte	シャルロッテ	母さんって、昔、気難しい商会長さんの\n秘書だったって話だけど……	Shallotte	Mom said she used to be a secretary for a fussy corporate boss a long time ago.	夏露罗蒂	我听说妈妈以前\n给脾气古怪的商会会长当过秘书……	夏露羅蒂	聽說媽媽以前曾當過\n一位難伺候的商會長的秘書……
+LegendEvent_03_009ID	26	Shallistera	シャリステラ	もしかして……あんな感じだったのかな？\nナディさんってすごい……	Shallistera	So maybe that's how it used to be for her. Ms. Nady is amazing...	夏莉丝堤拉	难不成娜蒂阿姨工作的时候……是那样的气质吗？\n感觉好厉害啊……	夏莉絲堤菈	該不會……就是這種感覺吧？\n娜蒂小姐真厲害……
+LegendEvent_03_009ID	27	Keithgriff	キースグリフ	二人とも、さっさとしろ	Keithgriff	Hey, you two. Quit dawdling.	奇斯葛里夫	你们两个动作快点。	奇斯葛里夫	妳們兩個，動作快點。
+LegendEvent_03_009ID	28		ふたり	はーい！	Both	Yes, sir!	二人	来了——！	兩人	是──！
+LegendEvent_03_009ID	29	Keithgriff Hazeldine	キースグリフ・ヘーゼルダイン	無愛想だが、実力ある錬金術士。\n元の世界ではシャリーたちと協力関係を築いた	Keithgriff Hazeldine	An unfriendly but accomplished alchemist. Worked together with Shallistera and Shallotte in their home world.	奇斯葛里夫·赫瑟达因	为人冷漠，但颇有实力的炼金术士。\n在原来的世界与夏莉一行建立过合作关系。	奇斯葛里夫‧赫瑟達因	性格冷漠，但有實力的鍊金術士。\n與夏莉等人在原本的世界建立了合作關係。
+LegendEvent_03_009ID	30	Odelia	オディーリア	元の世界ではキースグリフの助手を務めていた。\n優秀で冷静だが、甘いものには強く反応する	Odelia	Worked as an assistant to Keithgriff back in their home world. Incredibly gifted and calm, yet extremely animated when sweets are involved.	奥迪莉雅	在原来的世界是奇斯葛里夫的助手。\n优秀冷静，但极其喜爱甜食。	奧迪莉雅	在原本的世界擔任奇斯葛里夫的助手。\n優秀且冷靜，但對甜食反應強烈。
+LegendEvent_03_010ID	0	Shallistera	シャリステラ	喉の薬です。少しでも効果があるといいんですけど	Shallistera	Here's the throat medicine. I hope it helps.	夏莉丝堤拉	咽喉药做好了，希望能奏效。	夏莉絲堤菈	這是喉嚨藥。希望能多少有點效果。
+LegendEvent_03_010ID	1		歌唄いの男	ありがとう。喉は痛いし歌えないしで参ってたんだ。\nじゃあ早速……ごく、ごく……	Male Singer	Thanks. I was really at a loss with this sore throat. I couldn't sing at all! Let me take this right away. *Gulp* *Gulp*	男歌手	谢谢你们。我喉咙疼得都唱不了歌，愁死我了。\n那我这就试试……咕嘟咕嘟……	唱歌的男子	謝謝妳們。我喉嚨又痛又唱不了歌，正在傷腦筋呢。\n那我這就喝喝看……咕嚕咕嚕……
+LegendEvent_03_010ID	2	Shallotte	シャルロッテ	どうかな？	Shallotte	How is it?	夏露罗蒂	怎么样？	夏露羅蒂	怎麼樣？
+LegendEvent_03_010ID	3		歌唄いの男	ん、んんっ\n……あー、ああーー	Male Singer	Hmmm. La... Laaa...	男歌手	嗯、嗯……\n啊——啊——	唱歌的男子	嗯、嗯……\n啊～啊啊～
+LegendEvent_03_010ID	4		歌唄いの男	おおっ！　痛くなくなった！　これなら歌える！	Male Singer	Oh! It doesn't hurt anymore! I can sing!	男歌手	啊！不疼了！这下我就能唱歌了！	唱歌的男子	喔喔！不會痛了！這樣就能唱歌了！
+LegendEvent_03_010ID	5	Shallotte	シャルロッテ	やったね、ステラ！	Shallotte	Yay! We did it, Stera!	夏露罗蒂	太好了，丝堤拉！	夏露羅蒂	太好了，絲堤菈！
+LegendEvent_03_010ID	6	Shallistera	シャリステラ	うん、ロッテ！　それじゃ、わたしたちはこれで――	Shallistera	We sure did, Lotte! Great. I think we'll be on our way then.	夏莉丝堤拉	是啊，罗蒂！那我们就先——	夏莉絲堤菈	嗯，羅蒂！那我們就先告辭──
+LegendEvent_03_010ID	7		歌唄いの男	それじゃあ１曲！\n～～～～♪	Male Singer	And now for a song! La la la la!	男歌手	那就听我献唱一曲吧！\n啊～～～～	唱歌的男子	那我來獻上一曲！\n啦啦啦～～
+LegendEvent_03_010ID	8	Shallistera	シャリステラ	わぁ……すごい声！	Shallistera	Wow! What an amazing voice!	夏莉丝堤拉	哇……好动听的歌声！	夏莉絲堤菈	哇……好棒的歌聲！
+LegendEvent_03_010ID	9		若い女性	素敵な歌じゃない！	Young Woman	This song is just fantastic!	年轻女性	真好听啊！	年輕女性	唱得真好！
+LegendEvent_03_010ID	10		若い男性	聞いていこうか！	Young Man	Yeah, let's stay and listen!	年轻男性	我们过去听听！	年輕男性	我們去聽聽看吧！
+LegendEvent_03_010ID	11		年配の商人の男	おっ。あいつ、喉の調子が戻ったのか！	Male Senior Merchant	Ooh, sounds like that singer's got his voice back!	老年男商人	哦，那家伙的喉咙恢复了啊！	年長男商人	喔！他的喉嚨恢復了啊！
+LegendEvent_03_010ID	12		商人見習いの男	よかった！　あの人の歌声は王都の名物ですからね！	Male Apprentice Merchant	What great news! That man's singing voice is a symbol of the capital.	见习男商人	太好啦！那个人的歌声可是王都名产啊！	見習男商人	太好了！他的歌聲可是王都的特色呢！
+LegendEvent_03_010ID	13	Shallotte	シャルロッテ	わ、わわ！　人が集まってきた！	Shallotte	Whoa! Where did all these people come from?	夏露罗蒂	哇、哇！好多人围过来了！	夏露羅蒂	哇、哇啊！人越來越多了！
+LegendEvent_03_010ID	14		歌唄いの男	～～～～♪	Male Singer	La la la la!	男歌手	啊～～～～	唱歌的男子	啦啦啦～～
+LegendEvent_03_010ID	15		華やかな女性	素敵！	Gaudy Woman	How lovely!	打扮华丽的女性	好美的歌声！	華麗的女性	真美妙！
+LegendEvent_03_010ID	16		華やかな男性	サイコー！	Gaudy Man	Phenomenal!	打扮华丽的男性	太棒了！	華麗的男性	太棒了～！
+LegendEvent_03_010ID	17		歌唄いの男	みんな、ありがとーう！	Male Singer	Thank you all very much!	男歌手	感谢大家捧场！	唱歌的男子	謝謝大家～！
+LegendEvent_03_010ID	18		冒険者の男	次は竜殺しの騎士の歌を頼む！	Male Adventurer	Sing the song about the dragon-slaying knight next!	男性冒险者	下一首唱屠龙骑士的歌吧！	男冒險者	我想聽屠龍騎士之歌！
+LegendEvent_03_010ID	19		女の子	流れ星のお歌がいいー！	Girl	I want to hear the shooting star song!	女孩	我想听流星的歌！	女孩	唱有關流星的歌啦～！
+LegendEvent_03_010ID	20	Shallotte	シャルロッテ	すっごい熱気だ！	Shallotte	Wow, so much excitement!	夏露罗蒂	好火爆啊！	夏露羅蒂	真是踴躍！
+LegendEvent_03_010ID	21	Shallistera	シャリステラ	みんな、この人の歌が好きなんだね！	Shallistera	Everyone really loves his singing!	夏莉丝堤拉	大家都很爱听这个人唱歌呢！	夏莉絲堤菈	看來大家都很喜歡他的歌聲呢！
+LegendEvent_03_010ID	22		歌唄いの男	よーし！　片っ端から歌うぞ！\n～～～～～♪	Male Singer	Okay! How about I sing them all? La la la la la!	男歌手	都没问题！我一首一首唱！\n啊～～～～～～	唱歌的男子	好！那就一首接一首地唱吧！\n啦啦啦～～
+LegendEvent_03_010ID	23		冒険者の男	皆、手拍子だ！	Male Adventurer	Hey, let's clap along!	男性冒险者	各位，跟着节奏拍手吧！	男冒險者	大家一起拍手！
+LegendEvent_03_010ID	24	Shallistera	シャリステラ	ふふ。もう夜なのに、お祭りみたい	Shallistera	Hehe. It's already night and they're just getting started, just like a festival.	夏莉丝堤拉	呵呵，明明都入夜了，气氛还像在开庆典一样。	夏莉絲堤菈	呵呵。明明是夜晚，卻像祭典一樣熱鬧呢。
+LegendEvent_03_010ID	25	Shallotte	シャルロッテ	ホント、いい歌声だよねぇ	Shallotte	No kidding. He has such a wonderful singing voice.	夏露罗蒂	这歌声真好听啊。	夏露羅蒂	真是動人的歌聲。
+LegendEvent_03_010ID	26	Shallistera	シャリステラ	うん。歌が大好きって伝わってくる……！	Shallistera	Yeah, you can really feel his passion for singing.	夏莉丝堤拉	嗯，能听得出他真的很喜欢唱歌……！	夏莉絲堤菈	嗯。能感受到他對唱歌的熱愛……！
+LegendEvent_03_010ID	27		歌唄いの男	～～～～♪	Male Singer	La la la la!	男歌手	啊～～～～	唱歌的男子	啦啦啦～～
+LegendEvent_03_011ID	0	Shallistera	シャリステラ	はぁ……歌がまだ耳の中で響いてるみたい	Shallistera	*Sigh* I feel like I'll remember his voice for a long time.	夏莉丝堤拉	呼……耳边仿佛还有歌声的余韵呢。	夏莉絲堤菈	呼……感覺歌聲還迴盪在耳邊。
+LegendEvent_03_011ID	1	Shallotte	シャルロッテ	楽しかったねぇ……あれ？	Shallotte	What a great time that was... Huh?	夏露罗蒂	玩得好开心啊……咦？	夏露羅蒂	剛剛真開心……咦？
+LegendEvent_03_011ID	2	Shallotte	シャルロッテ	母さんとライザさん？　どうしたんだろ？	Shallotte	Is that my mom and Ryza? What's going on?	夏露罗蒂	是妈妈和莱莎小姐？她们在做什么？	夏露羅蒂	是媽媽和萊莎小姐？發生什麼事了？
+LegendEvent_03_011ID	3	Shallistera	シャリステラ	何か真面目な話をしてるみたい？　\n邪魔したら悪い、かな？	Shallistera	Looks like they're talking about something serious. Maybe we shouldn't bother them.	夏莉丝堤拉	好像在聊什么严肃的话题？\n我们还是别去打扰了吧？	夏莉絲堤菈	好像在聊很重要的事？\n是不是……別打斷比較好？
+LegendEvent_03_011ID	4	Nady	ナディ	うーん。どれがいいかしらね	Nady	Hmm. Which one should we go with?	娜蒂	唔……哪个比较好呢？	娜蒂	唔～選哪個好呢……
+LegendEvent_03_011ID	5	Ryza	ライザ	あの二人が楽しめる依頼でしょ？\nこのへんのヤツなら、どれもいけるんじゃないかなあ？	Ryza	Well, it should be something those two can enjoy, right? So any of these here should work.	莱莎	要的是能让她们都开心的委托吧？\n我觉得这些不都挺合适的吗？	萊莎	如果是希望她們開心，\n這附近隨便哪個委託都可以吧？
+LegendEvent_03_011ID	6	Nady	ナディ	そうねぇ。今の感じなら大丈夫かな	Nady	Yeah, you're right. In that case, that one should be fine.	娜蒂	也对，照现在的情况看应该没问题。	娜蒂	確實……像現在這樣應該就行了。
+LegendEvent_03_011ID	7	Shallotte	シャルロッテ	母さん！？　ひょっとして気を回してくれてたの！？	Shallotte	Mom?! Wait, has all this been your way of looking out for us?	夏露罗蒂	妈妈？！你该不会是特地为我们挑的委托吧？！	夏露羅蒂	媽媽！？難道妳一直都在為我們操心嗎！？
+LegendEvent_03_011ID	8	Shallistera	シャリステラ	わたしたちが楽しめるように……\nそんな風に気遣ってくれてたなんて	Shallistera	Something we can enjoy? I didn't realize you were doing all this for us.	夏莉丝堤拉	为了让我们开心……\n居然想得这么周到……	夏莉絲堤菈	希望我們能開心……\n沒想到妳居然如此關心我們。
+LegendEvent_03_011ID	9	Nady	ナディ	やだ、バレちゃった	Nady	Oops, you caught me!	娜蒂	讨厌，被你们发现了。	娜蒂	討厭，被發現了。
+LegendEvent_03_011ID	10	Ryza	ライザ	へへ、今回の依頼もなかなかいい感じだったでしょ？	Ryza	Haha! That last request was pretty good, wasn't it?	莱莎	呵呵，这次的委托也做得很开心吧？	萊莎	嘿嘿，這次的委託也很有趣吧？
+LegendEvent_03_011ID	11	Shallotte	シャルロッテ	母さん、どういうこと？	Shallotte	Mom, what's this all about?	夏露罗蒂	妈妈，你为什么要这么做？	夏露羅蒂	媽媽，這是怎麼一回事？
+LegendEvent_03_011ID	12	Nady	ナディ	んー。だって……	Nady	Well, you see...	娜蒂	唔，因为……	娜蒂	唔～因為……
+LegendEvent_03_011ID	13	Ryza	ライザ	あなたたち二人が、元の世界でいっつも必死だから\nそれで幸せなのか、ナディさんは心配だったんだって	Ryza	Ms. Nady has been worried about whether the two of you are really happy since you were both constantly struggling in your home world.	莱莎	因为你们两个在原来的世界一直那么拼命，\n娜蒂小姐担心你们这样下去是否还能幸福。	萊莎	因為妳們在原本的世界總是非常努力，\n娜蒂小姐擔心妳們過得不幸福。
+LegendEvent_03_011ID	14	Shallotte	シャルロッテ	ええっ、そうなの！？	Shallotte	What?! Really?!	夏露罗蒂	咦，你在担心这个？！	夏露羅蒂	咦，是這樣嗎！？
+LegendEvent_03_011ID	15	Nady	ナディ	だって、そんな顔したシャリーちゃんたちを見送るの、\nすごーく寂しいのよ？	Nady	Well, it's always just so heartbreaking to see you two off with that look on your faces.	娜蒂	因为送你们启程的时候看到你们那样的表情，\n我心里总是很难过呀。	娜蒂	因為……看到夏莉妳們露出那種表情離開，\n感覺真的很寂寞。
+LegendEvent_03_011ID	16	Nady	ナディ	だから……この世界に来ちゃったのは、\n神様がくれた休憩時間なのかもーって思ったの	Nady	So I figured that finding ourselves in this world was probably a sign that you two should take a break.	娜蒂	所以……我觉得你们来到这个世界，\n说不定是神明特地赐予你们的休息时间。	娜蒂	所以，我想……或許來到這個世界，\n是神賜予我們的休息時間。
+LegendEvent_03_011ID	17	Nady	ナディ	それで、のびのびできそうな依頼があれば、\n無理にでも気分転換してくれるかなーって……	Nady	And I thought that some slow-paced requests would force you to relax and enjoy yourselves.	娜蒂	我就想，要是有那种能悠闲完成的委托，\n不管怎么说都能调整一下心态吧……	娜蒂	既然如此，如果接一些輕鬆的委託，\n應該能稍微轉換心情……
+LegendEvent_03_011ID	18	Shallotte	シャルロッテ	そこまで……心配させちゃってたんだ……	Shallotte	I never realized how much we'd worried you.	夏露罗蒂	原来……你这么担心我们啊……	夏露羅蒂	原來……我們這麼讓妳操心……
+LegendEvent_03_011ID	19	Shallistera	シャリステラ	ナディさん……そんな風に……	Shallistera	Ms. Nady... I had no idea.	夏莉丝堤拉	娜蒂阿姨……你是这么想的啊……	夏莉絲堤菈	娜蒂小姐……是這樣想的啊……
+LegendEvent_03_011ID	20	Nady	ナディ	もう。恥ずかしいから、バレたくなかったのに～	Nady	*Sigh* How embarrassing. I didn't want you to find out.	娜蒂	哎呀，好难为情。本来不想让你们知道的～	娜蒂	真是的。太難為情了，明明不想被察覺的～
+LegendEvent_03_011ID	21	Shallistera	シャリステラ	ナディさん。前の依頼も、今回の依頼も\nすごく楽しかったです	Shallistera	Oh, Ms. Nady. The first request and this last one we just finished were both really fun.	夏莉丝堤拉	娜蒂阿姨，之前的委托和这次的委托，\n我们都做得很开心。	夏莉絲堤菈	娜蒂小姐。無論是上次還是這次的委託，\n都非常有趣。
+LegendEvent_03_011ID	22	Shallistera	シャリステラ	でも……黄昏に立ち向かうことは、わたしとロッテが\n決めた、大事な目標だから……辛くないんですよ	Shallistera	But...Lotte and I made the decision to take on the Dusk ourselves, and it's important to us, so we aren't unhappy.	夏莉丝堤拉	不过……对抗黄昏是我和罗蒂定下的重大目标……\n所以我们不觉得累。	夏莉絲堤菈	但是……對抗黃昏是我和羅蒂的重要目標……\n所以一點都不辛苦。
+LegendEvent_03_011ID	23	Shallotte	シャルロッテ	そうそう！　湿原に咲く花の美味しい蜜とか、\n豊かな水源で水遊びするとか……	Shallotte	Yeah, exactly! And just like we were able to find those flowers with the delicious nectar in the marshes and play in the water at the watershed...	夏露罗蒂	没错！这次我们品尝了湿地里的甜美花蜜，\n还在水源充沛的地方尽情玩水……	夏露羅蒂	沒錯！像是在濕原裡品嚐甜美的花蜜，\n或是在豐富的水源玩耍……
+LegendEvent_03_011ID	24	Shallotte	シャルロッテ	この世界で見つけた楽しいことを、あたしたち、\n元の世界の人たちにも知ってほしいんだ！	Shallotte	We want everyone in our world to be able to experience the fun things we discovered in this world too!	夏露罗蒂	我们也想让原来世界的人们可以体验\n这个世界的开心事！	夏露羅蒂	我們打算將在這個世界發現的樂趣，\n分享給原本的世界的人們！
+LegendEvent_03_011ID	25	Shallotte	シャルロッテ	だから……やりたいことをやってるだけだから。\nそんなに心配しないで大丈夫だから！	Shallotte	What I'm trying to say is, well, we are doing exactly what we want to do. So you don't need to worry about us so much!	夏露罗蒂	所以……我们只是在做自己想要做的事。\n你不用这么担心的！	夏露羅蒂	所以……我們不過是在做自己想做的事罷了。\n妳就放一百個心吧！
+LegendEvent_03_011ID	26	Nady	ナディ	ホ、ホントに……？	Nady	Are you sure?	娜蒂	真、真的吗……？	娜蒂	真、真的嗎……？
+LegendEvent_03_011ID	27	Shallistera	シャリステラ	ホントの本当です！\n心配してくれて、ありがとうございます	Shallistera	Yes, we're okay. But thank you for keeping an eye on us.	夏莉丝堤拉	真的真的！\n谢谢你为我们着想。	夏莉絲堤菈	絕對是真的！\n謝謝妳這麼掛念我們。
+LegendEvent_03_011ID	28	Shallotte	シャルロッテ	あーもー。母さんのこと心配してるつもりが、\nそんな心配かけてたなんてー！	Shallotte	Gaaah, I thought we were the ones worrying about you, Mom, not the other way around!	夏露罗蒂	唉，我们还担心妈妈你呢，\n没想到反过来让你担心了。	夏露羅蒂	啊～真是的～本來是我在擔心媽媽，\n結果卻變成我讓媽媽擔心了──！
+LegendEvent_03_011ID	29	Ryza	ライザ	お母さんってそういうものなんだよね。\nあたしの親も心配だから口煩いのかなあ……	Ryza	That's what moms are for! My parents are always nagging me too, but they're probably just worried.	莱莎	做母亲的人可能都是这样吧。\n我的父母那么啰嗦会不会也是因为担心我呢……	萊莎	媽媽就是這種生物。\n我媽媽也是因為放不下心，才如此嘮叨嗎……
+LegendEvent_03_011ID	30	Nady	ナディ	うふふ。きっとそうね	Nady	Hehe. I'm sure they are.	娜蒂	呵呵，肯定是的。	娜蒂	呵呵。肯定是的。
+LegendEvent_03_011ID	31	Nady	ナディ	それじゃ、お母さんは二人が安心して帰ってこられる\nよう、いつも美味しいご飯を作って待ってるわね	Nady	Well then, I suppose this mother of yours will make some delicious meals and wait for you two to come back so you don't have to worry.	娜蒂	那为了让你们能安心回家，\n妈妈每次都会准备好美味的饭菜等着你们的。	娜蒂	那為了讓妳們能安心回家，\n媽媽會隨時準備好美味的飯菜等妳們。
+LegendEvent_03_011ID	32	Nady	ナディ	でも、ちゃんとご飯食べに帰ってくるのよ？\nお腹がペコタンだと元気出ないんだから	Nady	You better come back to eat, though. You can't get anything done on an empty stomach!	娜蒂	不过，你们一定要回来吃饭哦？\n不然饿着肚子肯定做什么都没力气。	娜蒂	妳們要好好回家吃飯喔？\n餓肚子的話可是會沒有精神的。
+LegendEvent_03_011ID	33		ふたり	「うん！」「はい！」	Both	"""Understood!"" ""Okay!"""	二人	“嗯！”“好的！”	兩人	「嗯！」「好！」
+LegendEvent_03_012ID	0	Wilbell	ウィルベル	シャルロッテが教えてくれたここのお菓子、\n結構美味しいじゃない	Wilbell	Shallotte, these sweets you told me about are pretty tasty!	薇尔贝儿	夏露罗蒂推荐给我的这个点心\n真的好好吃啊。	薇爾貝兒	夏露羅蒂推薦的當地點心，\n還挺美味的嘛。
+LegendEvent_03_012ID	1	Regina	レジナ	こっちの串焼き肉もなかなかだよ！	Regina	These meat skewers aren't bad either!	瑞吉娜	这边的烤串也好吃！	瑞吉娜	這邊的烤肉串也很不錯！
+LegendEvent_03_012ID	2	Shallotte	シャルロッテ	でしょ～！	Shallotte	Right?!	夏露罗蒂	对吧！	夏露羅蒂	對吧～？
+LegendEvent_03_012ID	3	Wilbell	ウィルベル	で、相談って何よ？	Wilbell	So, what did you need advice on?	薇尔贝儿	说正事吧，你要找我商量什么？	薇爾貝兒	所以妳們想商量什麼？
+LegendEvent_03_012ID	4	Shallotte	シャルロッテ	実はステラと一緒に母さんにお礼がしたいんだけど、\n何がいいかなーって思って	Shallotte	Well, you see, Stera and I want to do something for my mom to say thanks. But I'm not sure what would be good.	夏露罗蒂	是这样的，我想跟丝堤拉一起做点什么感谢妈妈，\n但是不知道做什么好。	夏露羅蒂	我和絲堤菈在思考\n要如何向媽媽表達感謝。
+LegendEvent_03_012ID	5	Shallistera	シャリステラ	贈り物をしようって話になったんですけど、\n何を贈ればいいか、分からなくなっちゃいまして	Shallistera	We were talking about maybe giving her a gift, but then we couldn't decide on what to get her.	夏莉丝堤拉	我们在考虑送她礼物，\n就是不知道该送点什么。	夏莉絲堤菈	我們打算送她一份禮物，\n卻不知道該送什麼才好。
+LegendEvent_03_012ID	6	Nio	ニオ	贈り物をするなら、相手が喜んでくれるものが\n一番だと思うよ	Nio	If you want to give someone a gift, you should give them something that'll make them happy!	妮欧	要送礼物的话，\n送能让对方开心的东西是最好的。	妮歐	如果要送禮，\n我覺得送對方喜歡的東西最適合。
+LegendEvent_03_012ID	7	Wilbell	ウィルベル	そうよね。ナディは何か欲しいものってないの？	Wilbell	Yeah, that's right. Is there anything that Nady wants?	薇尔贝儿	是啊，娜蒂有什么想要的东西吗？	薇爾貝兒	說得對。娜蒂有什麼想要的東西嗎？
+LegendEvent_03_012ID	8	Shallotte	シャルロッテ	欲しいもの……欲しいものかぁ……。\n母さん、そういえば何が欲しいんだろ……？	Shallotte	Something that she wants? Hmmm. Now that you mention it, I can't think of anything my mom might want.	夏露罗蒂	想要的东西……想要的东西啊……\n这么一说，妈妈到底有什么想要的东西呢……？	夏露羅蒂	想要的東西啊……想要的東西……\n對耶，媽媽想要得到什麼呢……？
+LegendEvent_03_012ID	9	Shallistera	シャリステラ	う……わたしたち、ナディさんのこと\nぜんぜん知らなかったんだなあ……	Shallistera	*Sigh* Oh no, we don't know anything about Ms. Nady.	夏莉丝堤拉	呜……我们一点都不了解娜蒂阿姨……	夏莉絲堤菈	嗚……\n我們根本一點都不了解娜蒂小姐……
+LegendEvent_03_012ID	10	Nio	ニオ	そこで落ち込んでも仕方ないよ。\nナディさんはいつも二人に元気でいてほしいんでしょ？	Nio	There's no use in being so hard on yourself. All Ms. Nady wants is for you two to be happy, right?	妮欧	你失落也没用啊。\n娜蒂阿姨不变的心愿就是希望你们两个平安吧？	妮歐	在這裡沮喪也沒有用。\n娜蒂小姐不是希望妳們永遠保持活力嗎？
+LegendEvent_03_012ID	11	Shallotte	シャルロッテ	は、はい。あたしたちに美味しい料理を作って\n待っててくれるって……	Shallotte	Yes... She said she'd be waiting for us with some delicious meals.	夏露罗蒂	是、是的。\n她说会做美味的饭菜等我们回去……	夏露羅蒂	是、是的。媽媽說，\n她會準備美味的飯菜等我們回家……
+LegendEvent_03_012ID	12	Wilbell	ウィルベル	ナディの料理はいつも美味しいわよね！\n久しぶりに食べたくなっちゃったわ！	Wilbell	Nady's cooking is always superb. It's been so long, now I'm craving some!	薇尔贝儿	娜蒂做的饭菜总是那么好吃！\n好久没吃她做的东西了，我都想去尝尝了！	薇爾貝兒	娜蒂做的料理都很美味！\n我開始懷念起那個味道了！
+LegendEvent_03_012ID	13	Regina	レジナ	ナディさんってお料理好きなの？	Regina	Oh, so Ms. Nady likes cooking?	瑞吉娜	娜蒂阿姨喜欢做菜吗？	瑞吉娜	娜蒂小姐很喜歡做菜嗎？
+LegendEvent_03_012ID	14	Nio	ニオ	だったらお料理道具がいいんじゃないかな？\nたとえば……包丁とか！	Nio	How about getting her something for cooking then? Something like a kitchen knife!	妮欧	那送她厨具不就好了？\n比如……菜刀之类的！	妮歐	這樣的話，送廚具如何？\n例如……菜刀之類的！
+LegendEvent_03_012ID	15	Regina	レジナ	そうだね。有りだと思うよ	Regina	Oh yeah, that's a good idea!	瑞吉娜	对呀，我觉得这个想法不错。	瑞吉娜	好主意。我也這麼覺得。
+LegendEvent_03_012ID	16	Shallistera	シャリステラ	包丁か……ロッテ、それいいかも！	Shallistera	A kitchen knife? Lotte, that'd be perfect!	夏莉丝堤拉	菜刀啊……罗蒂，这或许是个好主意！	夏莉絲堤菈	菜刀啊……羅蒂，這好像不錯！
+LegendEvent_03_012ID	17	Shallotte	シャルロッテ	確かに、最近切れ味が悪くて大変だって\n言ってた気がする！	Shallotte	You know, I think I remember her complaining about how dull and difficult her kitchen knife has been lately.	夏露罗蒂	对哦，我记得她最近说过菜刀钝了，\n用起来很不顺手！	夏露羅蒂	確實……她最近好像提到菜刀變鈍了，\n不太方便！
+LegendEvent_03_012ID	18	Shallotte	シャルロッテ	うん！　ウィルベル師匠、ニオさん、レジナさん！\nありがとう！	Shallotte	All right! Master Wilbell, Nio, Regina, thanks!	夏露罗蒂	嗯！薇尔贝儿师父、妮欧小姐、瑞吉娜小姐！\n谢谢你们！	夏露羅蒂	就是這個！薇爾貝兒師父、妮歐小姐、瑞吉娜小姐！\n謝謝妳們！
+LegendEvent_03_012ID	19	Wilbell	ウィルベル	いいわよ、別に。かわいい弟子の頼みだし	Wilbell	Don't mention it. I'm glad I could help a budding apprentice.	薇尔贝儿	不用客气。可爱的徒弟向我求助，我怎么能不管呢。	薇爾貝兒	別客氣。畢竟是我可愛的徒弟嘛。
+LegendEvent_03_012ID	20	Shallotte	シャルロッテ	それにしても師匠もこっちに来てたなんて。\nっていうか、なんか師匠、小っちゃくなりました？	Shallotte	I have to say, I wasn't expecting to see you here, Master. And, um, did you get smaller or something?	夏露罗蒂	不过真没想到师父也来到这个世界了。\n等等，师父你是不是变小了？	夏露羅蒂	不過，沒想到師父也來到這個世界了。\n話說回來，師父是不是變小了？
+LegendEvent_03_012ID	21	Wilbell	ウィルベル	んー、なんかこうなってたのよね。\nま、いつか戻るんじゃない？	Wilbell	Yeah, for some reason this is what I look like now. But hey, I'm sure I'll get back to normal.	薇尔贝儿	唔……不知怎么就变成这样了。\n也罢，总有一天会变回去的吧？	薇爾貝兒	嗯～好像是這樣沒錯。\n反正遲早會恢復的吧？
+LegendEvent_03_012ID	22	Shallotte	シャルロッテ	そういうものなのかなあ？	Shallotte	Hmm, do you really think so?	夏露罗蒂	会吗？	夏露羅蒂	真的嗎……？
+LegendEvent_03_012ID	23	Wilbell	ウィルベル	異邦人の記憶や体の状態は、個々で事情が\n違うっぽいから、ややこしいのよ	Wilbell	The changes in memories and physical conditions of wanderers seem to vary from person to person. It can really complicate things.	薇尔贝儿	异邦人似乎因为各有来历，\n记忆和身体状态也都各不相同，真是件麻烦事。	薇爾貝兒	每個異邦人的記憶跟身體狀態\n情況都不太一樣，很複雜喔。
+LegendEvent_03_012ID	24	Izana	イザナ	はぁっ……やぁぁっ！	Izana	*Huff* Urgh!	伊札娜	喝……呀！	伊札娜	呼……喝啊──！
+LegendEvent_03_012ID	25	Regina	レジナ	おっ！　相変わらず、\nなかなかのハンマー構えだね	Regina	Ooh! Still looking sharp with those hammers!	瑞吉娜	哦！\n你使锤的本事还是这么厉害啊。	瑞吉娜	哦！\n她揮錘的動作還是一樣氣勢十足。
+LegendEvent_03_012ID	26	Shallistera	シャリステラ	レスナさんの親友のイザナさんだ！\nおうちが鍛冶屋さん……だったっけ	Shallistera	That's Resna's best friend, Izana. She comes from a blacksmith family, if I remember right.	夏莉丝堤拉	是蕾斯娜小姐的好朋友伊札娜小姐！\n我记得你家是……铁匠铺？	夏莉絲堤菈	是蕾斯娜小姐的朋友，伊札娜小姐！\n我記得……她家是開鐵匠鋪的。
+LegendEvent_03_012ID	27	Shallotte	シャルロッテ	えっ、鍛冶屋！？	Shallotte	Huh? A blacksmith?!	夏露罗蒂	咦，铁匠铺？！	夏露羅蒂	咦，鐵匠鋪！？
+LegendEvent_03_012ID	28	Shallotte	シャルロッテ	お取込み中のとこ、すいませーん！	Shallotte	Hey there, sorry to interrupt!	夏露罗蒂	不好意思，打扰啦！	夏露羅蒂	不好意思，百忙之中打擾了～！
+LegendEvent_03_012ID	29	Izana	イザナ	ん？\n……あっ、シャリステラ！　どうしたの？	Izana	Huh? Oh, Shallistera! What's going on?	伊札娜	嗯？\n啊，夏莉丝堤拉！有什么事吗？	伊札娜	嗯？\n啊……夏莉絲堤菈！找我有什麼事？
+LegendEvent_03_012ID	30	Shallistera	シャリステラ	お久しぶりです、イザナさん！	Shallistera	Izana, it's been a while.	夏莉丝堤拉	好久不见，伊札娜小姐！	夏莉絲堤菈	伊札娜小姐，好久不見！
+LegendEvent_03_012ID	31	Shallistera	シャリステラ	実は、包丁を作るのに良い素材を探してまして。\nイザナさんならご存じじゃないかと……	Shallistera	Well, I was actually looking for some materials that'd be good for making a kitchen knife, and I thought you might know a thing or two.	夏莉丝堤拉	其实我在找适合锻造菜刀的素材。\n所以想向伊札娜小姐请教一下……	夏莉絲堤菈	其實，我們正在尋找製作菜刀的素材……\n想問問伊札娜小姐的想法……
+LegendEvent_03_012ID	32	Izana	イザナ	包丁？　それなら……近くの遺跡にいる\nゴーレムから採れる素材がいいんじゃないかな	Izana	For a kitchen knife? Hmm, in that case, I think the materials you can get from a Golem in the ruins nearby would work.	伊札娜	菜刀？那你可以去附近的遗迹看看……\n遗迹里的魔巨人身上应该有合适的素材。	伊札娜	菜刀？這個嘛……附近的遺跡裡有魔巨人，\n也許它們身上會有素材。
+LegendEvent_03_012ID	33	Shallotte	シャルロッテ	ありがとうございます！\nさすが鍛冶屋さん！　物知りだね！	Shallotte	Thank you so much! You really do know your blacksmith stuff!	夏露罗蒂	谢谢！\n不愧是铁匠铺的人，懂得真多！	夏露羅蒂	謝謝妳！\n不愧是鐵匠鋪的女兒，知道得真多！
+LegendEvent_03_012ID	34	Izana	イザナ	どういたしまして！\nそれじゃあ、日課の特訓に戻るねー	Izana	Of course, anytime! All right, I'll get back to my daily training.	伊札娜	不客气！\n那我就继续日常训练了！	伊札娜	不客氣！\n那我就繼續我的日常訓練囉～
+LegendEvent_03_012ID	35	Shallistera	シャリステラ	精が出ますね！　お邪魔しました	Shallistera	What dedication! Sorry for intruding!	夏莉丝堤拉	这下有干劲了呢！失陪了。	夏莉絲堤菈	真是幹勁十足！那就不打擾妳了。
+LegendEvent_03_012ID	36	Izana	イザナ	せいっ！　やあっ！ ハンマーーーッッ！！	Izana	Hiyah! Take that! Hammer time!	伊札娜	嘿！呀啊！锤呀——！！	伊札娜	喝！嘿啊！錘子──！！
+LegendEvent_03_012ID	37	Wilbell	ウィルベル	……前会ったときよりもなんだか元気ね。\nいいことでもあったのかしら？	Wilbell	She looks even more energetic than she did last time. I wonder if something good happened to her.	薇尔贝儿	……她好像比上次见面时更有精神了啊。\n是遇上什么好事了吗？	薇爾貝兒	……感覺她比之前見面時更有活力了。\n是遇到什麼好事了嗎？
+LegendEvent_03_012ID	38	Wilbell Voll-Ersleid	ウィルベル・フォル＝エルスリート	魔法使いだが、シャルロッテの錬金術の師匠を務めた。\n現在はニオやレジナと共に行動している	Wilbell Voll-Ersleid	A witch who served as Shallotte's alchemy teacher. She now works together with Nio and Regina.	薇尔贝儿·沃·耶斯礼特	虽然身为魔法师，但同时也是夏露罗蒂的炼金术师父。\n现在与妮欧、瑞吉娜共同行动。	薇爾貝兒‧沃‧耶斯禮特	魔法師，曾是夏露羅蒂的鍊金術師父。\n現在與妮歐、瑞吉娜等人一起行動。
+LegendEvent_03_012ID	39	Nio Altugle	ニオ・アルトゥール	アーシャの妹。おっとりした姉を支えるしっかり者。\n薬についての知識が豊富で、よく姉の手伝いをしている	Nio Altugle	Ayesha's younger sister. A staunch supporter of her gentle older sibling. She has a wealth of knowledge about medicinal plants, and can often be found assisting her sister.	妮欧·阿图尔	爱夏的妹妹。认真可靠，会帮衬不着调的姐姐。\n拥有丰富的药剂知识，经常协助姐姐工作。	妮歐‧阿圖爾	愛夏的妹妹。支持著穩重的姊姊，相當可靠。\n擁有豐富的藥理知識，經常幫姊姊的忙。
+LegendEvent_03_012ID	40	Regina Kurtis	レジナ・カティス	腕利きの発掘屋。\n面倒見が良く、ニオたちの保護者代わりのような存在	Regina Kurtis	A skilled excavator. Kind and caring, she acts as a guardian to Nio and her sister, Ayesha.	瑞吉娜·柯堤丝	技术超群的采矿工。\n很会照顾人，对妮欧一行人来说相当于监护人。	瑞吉娜‧柯堤絲	技術高超的採礦工。\n很會照顧人，對妮歐她們來說就像監護人一般。
+LegendEvent_03_013ID	0	Shallotte	シャルロッテ	ゴーレム、ゴーレム……っと	Shallotte	Hmm. Golem, Golem...	夏露罗蒂	魔巨人、魔巨人……在哪里呢？	夏露羅蒂	魔巨人、魔巨人……
+LegendEvent_03_013ID	1	Wilbell	ウィルベル	シャルロッテ！　あれじゃない？	Wilbell	Shallotte, what about that?	薇尔贝儿	夏露罗蒂！是不是那个？	薇爾貝兒	夏露羅蒂！是那個吧？
+LegendEvent_03_013ID	2	Shallistera	シャリステラ	お、大きいね……！	Shallistera	I-It's giant!	夏莉丝堤拉	好、好大啊……！	夏莉絲堤菈	好、好巨大……！
+LegendEvent_03_013ID	3	Shallotte	シャルロッテ	でも、あたしたちの世界と同じような形をしてる。\nだとすれば……	Shallotte	Yeah, but it does look like what we have in our world. So that must mean...	夏露罗蒂	不过，它的样子跟我们世界的魔巨人差不多。\n那么……	夏露羅蒂	不過，外形和我們的世界的魔巨人沒兩樣。\n這表示……
+LegendEvent_03_013ID	4	Nio	ニオ	似たような構造をしているなら、あの胸の箱には\n貴重な鉱物が入ってる可能性が高いね	Nio	Seeing that it's built the same way, there's got to be some rare ore in that box on its chest.	妮欧	既然构造相仿，\n那它胸口的箱子里也很有可能放着珍贵矿物。	妮歐	既然長得如此相似，\n那胸前的箱子裡可能藏著稀有礦物。
+LegendEvent_03_013ID	5	Regina	レジナ	よーし、それなら！	Regina	All right, let's go for it!	瑞吉娜	好，既然如此！	瑞吉娜	好～這樣的話！
+LegendEvent_03_013ID	6	Shallotte	シャルロッテ	頑張っちゃおう！	Shallotte	Let's do it!	夏露罗蒂	就干掉它吧！	夏露羅蒂	那就努力擊敗魔巨人吧！
+LegendEvent_03_014ID	0	Shallotte	シャルロッテ	ステラ！　そこだぁっ！	Shallotte	Stera! Right there!	夏露罗蒂	丝堤拉，攻击那里！	夏露羅蒂	絲堤菈！攻擊那裡！
+LegendEvent_03_014ID	1	Shallistera	シャリステラ	うん！　いっけーーーーっ！	Shallistera	On it! Taaake this!	夏莉丝堤拉	嗯！去吧——！	夏莉絲堤菈	嗯！衝啊────！
+LegendEvent_03_014ID	2	Wilbell	ウィルベル	やったわね！	Wilbell	Nice work!	薇尔贝儿	成功了！	薇爾貝兒	成功了！
+LegendEvent_03_014ID	3	Nio	ニオ	シャリーちゃん、鉱物は？	Nio	Any ore, Shallie?	妮欧	夏莉，矿物呢？	妮歐	夏莉，礦物呢？
+LegendEvent_03_014ID	4	Shallotte	シャルロッテ	ばっちりです！　あとは包丁を作るだけだね！	Shallotte	There sure is! Now we just need to make the kitchen knife.	夏露罗蒂	我拿到了！接下来只差锻造菜刀啦！	夏露羅蒂	找到了！只要拿去製作菜刀就行了！
+LegendEvent_03_014ID	5	Shallistera	シャリステラ	ロッテ……ナディさん、アトリエにいる？	Shallistera	Hey, Lotte, is Ms. Nady here in the atelier?	夏莉丝堤拉	罗蒂……娜蒂阿姨在炼金工房吗？	夏莉絲堤菈	羅蒂……娜蒂小姐在鍊金工房嗎？
+LegendEvent_03_014ID	6	Shallotte	シャルロッテ	ううん。いないみたい	Shallotte	Nope, I think we're clear.	夏露罗蒂	好像不在。	夏露羅蒂	不。她好像不在。
+LegendEvent_03_014ID	7	Shallotte	シャルロッテ	はぁー！　これで無事、こっそり作れるよ！	Shallotte	Phew! Now's our chance to make this without her seeing!	夏露罗蒂	呼！这下就能放心制作，不会被她发现了！	夏露羅蒂	呼～！這樣就不會被發現了！
+LegendEvent_03_014ID	8	Shallistera	シャリステラ	ロッテ。いい包丁を作りたいね	Shallistera	Lotte, I want to make this a marvelous kitchen knife.	夏莉丝堤拉	罗蒂，真想做一把好菜刀啊。	夏莉絲堤菈	羅蒂。希望我們能做出一把好用的菜刀。
+LegendEvent_03_014ID	9	Shallotte	シャルロッテ	うん。ボケボケで、いっつも自分のことは後回しで\n変な依頼を受けちゃったりする母さんだけど……	Shallotte	Me too. Mom sure is ditzy, always puts her own needs aside, and sometimes accepts crazy requests...	夏露罗蒂	嗯，妈妈反应又慢，又总是先人后己，\n还净接一些奇怪的委托……	夏露羅蒂	嗯。媽媽總是優先為我們著想，\n有時還會糊里糊塗地接受奇怪的委託……
+LegendEvent_03_014ID	10	Shallotte	シャルロッテ	今こうして皆でいられて、あたしが今のあたしで\nいられるのは、母さんのおかげだから……	Shallotte	But it's thanks to her that we can all be together like this and that I am who I am today.	夏露罗蒂	不过我们现在能这样待在一起，\n我能成为现在的我，也是多亏了妈妈……	夏露羅蒂	但是，我能遇見大家，\n能成為現在的自己，都是媽媽的功勞……
+LegendEvent_03_014ID	11	Shallistera	シャリステラ	ナディさんは、わたしたちをいつも見守って\nくれてるよね。わたしは思い詰めやすいけど……	Shallistera	Ms. Nady is always looking out for us. Admittedly, I am easily distraught...	夏莉丝堤拉	娜蒂阿姨一直都在默默守护着我们。\n我这个人很容易钻牛角尖……	夏莉絲堤菈	娜蒂小姐一直以來都在照顧我們。\n雖然我很容易鑽牛角尖……
+LegendEvent_03_014ID	12	Shallistera	シャリステラ	こんな風にゆったりできる時間を作って\nくれて、目的を見つめなおすこともできた	Shallistera	But she gave us a chance to relax, which gave us time to take another look at our goals.	夏莉丝堤拉	但在她的帮助下，我有了放松的机会，\n能够重新审视目标。	夏莉絲堤菈	但是她會特意安排放鬆時間，\n讓我有機會重新審視自己的目標。
+LegendEvent_03_014ID	13	Shallistera	シャリステラ	それがわたしにとって、どれだけ大事なことで、\nどうして頑張りたいのかも……ね	Shallistera	It made me realize just how important this is to me, and just how hard I want to work for it.	夏莉丝堤拉	这对我来说是无比重要的事，\n也是我为之奋斗的理由……	夏莉絲堤菈	思考它對我來說有多麼重要，\n以及我為何願意為它奮鬥……
+LegendEvent_03_014ID	14		ふたり	だから――	Both	May this be...	二人	所以——	兩人	因此──
+LegendEvent_03_014ID	15		ふたり	とびきりの包丁になりますように	Both	...the most spectacular kitchen knife ever!	二人	希望能做出一把无与伦比的菜刀。	兩人	願這把菜刀鋒利無比。
+LegendEvent_03_014ID	16	Shallotte	シャルロッテ	できた！	Shallotte	It's done!	夏露罗蒂	完成了！	夏露羅蒂	完成了！
+LegendEvent_03_014ID	17	Shallistera	シャリステラ	ナディさん、これで少しでも\n楽になってくれるといいなあ	Shallistera	I hope this helps make cooking easier for Ms. Nady.	夏莉丝堤拉	希望娜蒂阿姨用上这个之后可以稍微轻松一些。	夏莉絲堤菈	希望這樣\n娜蒂小姐會輕鬆一些。
+LegendEvent_03_015ID	0	Nady	ナディ	お母さんに用事だなんて、シャリーちゃんたち\nお腹空いちゃったかしら？	Nady	So what's this thing you have for your mother to take care of? Are my Shallies getting hungry?	娜蒂	夏莉们居然有事来找我？\n是肚子饿了吗？	娜蒂	妳們有事找我嗎？\n難道是肚子餓了？
+LegendEvent_03_015ID	1	Shallotte	シャルロッテ	もう、違うって！　母さんってば！	Shallotte	Mom, no, for the millionth time.	夏露罗蒂	哎呀，才不是呢！妈妈你就爱打岔！	夏露羅蒂	媽，不是啦！真受不了妳！
+LegendEvent_03_015ID	2	Shallistera	シャリステラ	わたしたち、ナディさんにこれを……	Shallistera	We have something for you, Ms. Nady.	夏莉丝堤拉	我们想送给娜蒂阿姨这个……	夏莉絲堤菈	我們想送這個給娜蒂小姐……
+LegendEvent_03_015ID	3	Nady	ナディ	まぁまぁ。よく切れそうな包丁じゃない。\nいきなりどうしたの？	Nady	Oh my! What a sharp-looking kitchen knife! But what's the occasion?	娜蒂	哎呀，这把菜刀看起来好快呀。\n怎么突然想起来要送我这个？	娜蒂	哎呀。這把菜刀看起來真鋒利。\n怎麼這麼突然？
+LegendEvent_03_015ID	4	Shallotte	シャルロッテ	日頃の感謝、ってところかな	Shallotte	Let's just say it's our way of saying thanks for everything.	夏露罗蒂	算是感谢你平日里对我们的照顾吧。	夏露羅蒂	這是為了感謝媽媽對我們的照顧。
+LegendEvent_03_015ID	5	Shallotte	シャルロッテ	母さん、ボケボケっとしてるし、変なこともするけど、\nあたしには大事で、誇らしい母さんだから！	Shallotte	Mom, you're always so goofy, and sometimes you do weird things. But you're my precious mom, and I'm proud of that!	夏露罗蒂	虽然妈妈性子温吞，还经常做些离谱的事，\n但你是我引以为傲的、最爱的妈妈！	夏露羅蒂	雖然媽媽有點迷糊，有時候又很古怪，\n但在我心中，妳是令人驕傲的母親！
+LegendEvent_03_015ID	6	Shallistera	シャリステラ	ロッテの友達のわたしのことも見守ってくれて、\nいつも大切なことを気付かせてくれて……だから	Shallistera	And even though I'm just Lotte's friend, you always watch out for me too and help me realize what's important. So...	夏莉丝堤拉	只因我是罗蒂的朋友，你也一直照顾着非亲非故的我，\n提醒我意识到什么才是最重要的……所以……	夏莉絲堤菈	娜蒂小姐同樣也很照顧身為羅蒂好友的我，\n提醒了我許多重要的事，所以……
+LegendEvent_03_015ID	7		ふたり	「これからも元気でいてね！」\n「これからも元気でいてください！」	Both	"""You're the best, Mom!""\n""You're the best, Ms. Nady!"""	二人	“今后也要多保重身体啊！”\n“请你今后也要多保重身体！”	兩人	「希望媽媽永保青春活力！」\n「希望娜蒂小姐一直平安健康！」
+LegendEvent_03_015ID	8	Nady	ナディ	ふふ。当たり前じゃない。\nだってお母さんなんだから	Nady	Hehe. Well of course, that's what moms are for!	娜蒂	呵呵，那还用说嘛。\n我可是妈妈呀。	娜蒂	呵呵。這是當然的啊。\n因為我是媽媽嘛。
+LegendEvent_03_015ID	9	Shallotte	シャルロッテ	えへへ……	Shallotte	Heh heh.	夏露罗蒂	呵呵……	夏露羅蒂	嘿嘿……
+LegendEvent_03_015ID	10	Nady	ナディ	だって、そんな顔したシャリーちゃんたちを見送るの、\nすごーく寂しいのよ？	Nady	Well, it's always just so heartbreaking to see you two off with that look on your faces.	娜蒂	因为送你们启程的时候看到你们那样的表情，\n我心里总是很难过呀。	娜蒂	因為……看到夏莉妳們露出那種表情離開，\n感覺真的很寂寞。
+LegendEvent_03_015ID	11	Shallistera	シャリステラ	あの、ナディさん！\nよければ、わたしたちと一緒に旅をしませんか？	Shallistera	Um, Ms. Nady. Would you be interested in traveling with us?	夏莉丝堤拉	娜蒂阿姨！\n如果你愿意，可以跟我们一起旅行吗？	夏莉絲堤菈	那個……娜蒂小姐！\n如果可以，要不要和我們一起旅行？
+LegendEvent_03_015ID	12	Shallotte	シャルロッテ	ええっ！？	Shallotte	Huuuh?!	夏露罗蒂	咦？！	夏露羅蒂	什麼！？
+LegendEvent_03_015ID	13	Nady	ナディ	えっ。私が……シャリーちゃんたちと？	Nady	What? Me? Traveling with my Shallies?	娜蒂	你是说……要我跟你们一起去旅行吗？	娜蒂	咦？和夏莉妳們……一起旅行？
+LegendEvent_03_015ID	14	Shallistera	シャリステラ	心配しながら待っていてもらうより、\n一緒のほうが楽しいかなぁって……	Shallistera	I thought we might have more fun together rather than worrying you while you wait for us.	夏莉丝堤拉	比起提心吊胆地在家里等着，\n跟我们待在一起会更开心吧……	夏莉絲堤菈	與其在家裡一邊擔心一邊等待，\n不如一起去冒險，可能會更有趣……
+LegendEvent_03_015ID	15	Shallotte	シャルロッテ	それはそれで違う不安があるけど……\n……でも、うん！　確かに楽しいかも！	Shallotte	Well, that is a different concern... But, yeah! I think it'd be fun!	夏露罗蒂	真要一起去的话，又会产生新的不安吧……\n不过……嗯！旅途一定会很有趣的！	夏露羅蒂	雖然這樣一來要擔心其他問題……\n但……嗯！應該會很有趣！
+LegendEvent_03_015ID	16	Shallotte	シャルロッテ	母さん、もう身体のほうも良くなってきてるし、\nどうかな？	Shallotte	Now that you've gotten better, why don't you join us, Mom?	夏露罗蒂	妈妈，现在你的身体状况也好多了，\n要不要考虑一下？	夏露羅蒂	而且媽媽的身體也開始好轉了，\n這主意如何？
+LegendEvent_03_015ID	17	Nady	ナディ	そうねぇ……	Nady	Well...	娜蒂	我想想……	娜蒂	這個嘛……
+LegendEvent_03_015ID	18	Nady	ナディ	うふふ。母さん、母親っていうのは\n見守るのが仕事だって思い込んじゃってたかもね	Nady	Ehehe. I think this mother of yours was convinced that a mom's job was just to keep an eye on things.	娜蒂	呵呵，妈妈本来以为母亲的职责就是在一旁默默守护。	娜蒂	呵呵。媽媽我以為母親的工作就是默默守護孩子。\n也許……是我誤會了。
+LegendEvent_03_015ID	19	Nady	ナディ	でも……そうねぇ。他にもまだまだ\nできることはあるのかもしれないわ～	Nady	But, you know, I think there's still plenty more for me to accomplish.	娜蒂	不过……也对。\n我应该还有许多能做到的事～	娜蒂	嗯……確實。\n我能做的事情應該遠遠不止這些呢～
+LegendEvent_03_015ID	20	Shallotte	シャルロッテ	そうだよ！	Shallotte	Yeah!	夏露罗蒂	没错！	夏露羅蒂	就是說啊！
+LegendEvent_03_015ID	21	Shallistera	シャリステラ	それなら……！	Shallistera	Then that means...!	夏莉丝堤拉	那么……！	夏莉絲堤菈	既然如此……！
+LegendEvent_03_015ID	22	Nady	ナディ	もっとシャリーちゃんたちと一緒にいられるんだもの。\n母さんも一緒に行くわ！	Nady	That means I could spend more time with you two. All right, I'll join you!	娜蒂	我也希望能更长久地和你们在一起。\n我愿意跟你们一起去！	娜蒂	讓我陪在夏莉妳們身邊吧……\n媽媽會一起去的！
+LegendEvent_03_016ID	0		ぷに	ぷ、ぷにーー！？	Puni	P-Puniii?!	噗尼	噗、噗尼——？！	噗尼	噗、噗尼──！？
+LegendEvent_03_016ID	1	Nady	ナディ	それ～！　こっちもいくわよ～！	Nady	Take that! Now it's your turn!	娜蒂	看我的～！我也要上了～！	娜蒂	喝啊～！下一個～！
+LegendEvent_03_016ID	2		ぷに	ぷーにーー！	Puni	Puuuniii!	噗尼	噗尼——！	噗尼	噗──尼──！
+LegendEvent_03_016ID	3	Shallistera	シャリステラ	ナディさんの動きがすごい……	Shallistera	Ms. Nady sure has some amazing moves!	夏莉丝堤拉	娜蒂阿姨的动作好灵活啊……	夏莉絲堤菈	娜蒂小姐的動作真俐落……
+LegendEvent_03_016ID	4	Shallotte	シャルロッテ	昔は優秀な秘書だったとは聞いてたけど……\nあんなに戦えたんだ……	Shallotte	I knew she was a star secretary back in the day, but I had no idea she could put up a fight like that.	夏露罗蒂	我只听说她以前是一名优秀的秘书……\n没想到还这么能打……	夏露羅蒂	聽說她以前是非常優秀的祕書……\n沒想到如此擅長戰鬥……
+LegendEvent_03_016ID	5	Nady	ナディ	シャリーちゃんたち！　魔物は大方片付けたわよ～！	Nady	Shallie and Shallie! I took care of most of the monsters!	娜蒂	夏莉们！我把魔物解决得差不多了哦～！	娜蒂	妳們兩個！魔物解決得差不多囉～！
+LegendEvent_03_016ID	6	Shallotte	シャルロッテ	う、うん……	Shallotte	Y-Yeah.	夏露罗蒂	好、好的……	夏露羅蒂	唔、嗯……
+LegendEvent_03_016ID	7	Shallistera	シャリステラ	す、すごいです……	Shallistera	That was incredible...	夏莉丝堤拉	好、好强啊……	夏莉絲堤菈	好、好厲害……
+LegendEvent_03_016ID	8	Nady	ナディ	二人が切れ味のいい武器を作ってくれたおかげで\n母さん楽だわぁ～！	Nady	It's all thanks to this incredibly sharp weapon you two made for me. Mom's chopping away with ease!	娜蒂	多亏你们做了一把锋利的武器给我，\n妈妈我战斗起来好轻松～！	娜蒂	多虧妳們幫我打造如此鋒利的武器，\n三兩下就輕鬆解決了呢～！
+LegendEvent_03_016ID	9	Nady	ナディ	あ！　また出たわね！　それ～！	Nady	Oh, look! There's another one. I'll show you!	娜蒂	啊！又出现了！尝尝这个～！	娜蒂	啊！又出現了！看招～！
+LegendEvent_03_016ID	10		ぷに	ぷにーーーっ！！	Puni	Puniii!	噗尼	噗尼——！！	噗尼	噗、噗尼──！！
+LegendEvent_03_016ID	11	Nady	ナディ	あはははっ！　それ、それ～！	Nady	Ahahaha! Take that, and that!	娜蒂	哈哈哈！看招、看招～！	娜蒂	啊哈哈哈！看招、看招～！
+LegendEvent_03_016ID	12	Shallotte	シャルロッテ	あれ、料理用に作ったつもりだったんだけど……	Shallotte	*Sigh* You know, we made that knife for cooking.	夏露罗蒂	那把菜刀本来应该是给她做菜用的……	夏露羅蒂	那把菜刀的用途應該是做菜……
+LegendEvent_03_016ID	13	Shallotte	シャルロッテ	ま、楽しそうだからいっか！	Shallotte	Oh well! As long as she's having a good time!	夏露罗蒂	算了，她开心就好！	夏露羅蒂	算了，她開心就好！
+LegendEvent_03_016ID	14	Shallistera	シャリステラ	ふふ……そうだね！	Shallistera	Haha. Yeah!	夏莉丝堤拉	呵呵……也是呢！	夏莉絲堤菈	呵呵……說得也是！

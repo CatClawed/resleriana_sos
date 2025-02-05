@@ -1,0 +1,322 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_008_001ID	0	Valeria	ヴァレリア	海に、行きたーーいっ！！	Valeria	Ugh, I want to go to the beeeach!	瓦莱莉娅	我好想去海边玩啊——！！	瓦萊莉婭	我想去海邊──！！
+SeasonalTalkEvent_008_001ID	1	Resna	レスナ	ヴァレリア？\nい、いきなりどうしたの？	Resna	Whoa, Valeria! Where'd that come from?	蕾斯娜	瓦莱莉娅，怎么了？突然来这么一句？	蕾斯娜	瓦萊莉婭？\n妳、妳突然間怎麼了？
+SeasonalTalkEvent_008_001ID	2	Valeria	ヴァレリア	ロロナとトトリ、ハイネ州の素敵な海に\n行ってきたんだって	Valeria	Rorona and Totori said that they went to this amazing beach in Haine...	瓦莱莉娅	之前萝乐娜和托托莉去了风光优美的海涅州海边。	瓦萊莉婭	聽說蘿樂娜和托托莉去了海涅州一座漂亮的海灘。
+SeasonalTalkEvent_008_001ID	3	Resna	レスナ	「常夏の保養地」といえばお隣のガルネ州だけど、\nハイネ州の海も有名だからね	Resna	Right. Galne Province might be the more popular summer destination, but I've heard Haine has some beautiful beaches too.	蕾斯娜	虽然提起“永夏度假村”首先想到的是隔壁的加尔内州，\n不过海涅州沿海也是有名的景点。	蕾斯娜	鄰近的加爾內州號稱是「四季如夏的休閒盛地」，\n不過海涅州的海也很出名呢。
+SeasonalTalkEvent_008_001ID	4	Valeria	ヴァレリア	私たちはハイネ州、火山や原野しか行ってないぃ……	Valeria	Ugh... The only parts of Haine we've seen are the volcanoes and the wilderness.	瓦莱莉娅	但我们在海涅州也只去过火山和原野啊……	瓦萊莉婭	我們只去過海涅州的火山或原野這種地方……
+SeasonalTalkEvent_008_001ID	5	Resna	レスナ	ま、まぁそうだね	Resna	Er, I can't argue with you there...	蕾斯娜	唔，这么一说确实。	蕾斯娜	是、是沒錯啦。
+SeasonalTalkEvent_008_001ID	6	Valeria	ヴァレリア	羨ましいー！　羨ましいー！	Valeria	Ooh, I'm so jealous! I want to go to the beach too!	瓦莱莉娅	好羡慕啊！好羡慕啊——！	瓦萊莉婭	好羨慕──！太羨慕了──！
+SeasonalTalkEvent_008_001ID	7	Resna	レスナ	そういえば、もうそろそろ毎年恒例の花火大会も\n実施されるんだったっけ	Resna	Come to think of it, isn't it about time for their annual fireworks festival?	蕾斯娜	对了，很快就要到一年一度的烟花大会\n举办的时期了吧？	蕾斯娜	說到這個，每年慣例舉行的煙火大會\n是不是也快要開始了啊？
+SeasonalTalkEvent_008_001ID	8	Ryza	ライザ	ねえ、花火ってハイネ州の話？	Ryza	Hey, you two! Are you talking about Haine's fireworks?	莱莎	烟花大会，是说海涅州那个活动吗？	萊莎	妳們說的煙火，是在海涅州放嗎？
+SeasonalTalkEvent_008_001ID	9	Valeria	ヴァレリア	そうよ！　ライザも海に行きたくない？	Valeria	Sure are! Are you itching to go to the beach too, Ryza?	瓦莱莉娅	是啊！莱莎你不想去海边玩吗？	瓦萊莉婭	沒錯！萊莎，妳也想去海邊嗎？
+SeasonalTalkEvent_008_001ID	10	Ryza	ライザ	行きたいに決まってるじゃん！　ロロナもトトリも\nあーんなに満足げな顔しちゃってさ	Ryza	You bet I am! Especially after seeing how much fun Rorona and Totori had!	莱莎	那当然想去啊！\n看萝乐娜和托托莉那一脸满足的样子就想去。	萊莎	當然想去囉！畢竟蘿樂娜和托托莉回來後\n一臉滿足的模樣嘛。
+SeasonalTalkEvent_008_001ID	11	Klaudia	クラウディア	ちょうど、ライザとも話してたんだ。\n私たちも海に行きたいねって	Klaudia	What perfect timing. Ryza and I were actually just talking about going to the beach.	科洛蒂娅	我和莱莎刚刚还聊到呢，我们也想去海边。	科洛蒂婭	我和萊莎正好談到這件事呢，\n我們倆也想去海邊玩。
+SeasonalTalkEvent_008_001ID	12	Valeria	ヴァレリア	賛成！　みんなで行きましょう、ハイネ州の海！\n花火とご飯を楽しむわよ！	Valeria	Then it's settled: we're heading for the shores of Haine! Time to kick off our boots and enjoy some fireworks!	瓦莱莉娅	我同意！大家一起去海涅州的海边吧！\n要好好享受烟花和佳肴！	瓦萊莉婭	我贊成！那我們大家一起去海涅州的海邊吧！\n我要盡情享受煙火和美食！
+SeasonalTalkEvent_008_001ID	13	Valeria	ヴァレリア	……どういうこと？	Valeria	This...isn't how I imagined it.	瓦莱莉娅	……什么？	瓦萊莉婭	……這是怎麼一回事？
+SeasonalTalkEvent_008_001ID	14	Ryza	ライザ	海の家がない？　観光客の姿も見当たらないし……\nん？　待って、あそこに誰かいる	Ryza	There isn't even a beach house... And no tourists in sight.\nAh, wait. There's someone over there!	莱莎	没有海边小屋？也看不到游客……\n嗯？等等，那边好像有人。	萊莎	沒有海之家耶？而且也沒看見遊客……\n嗯？等等，那裡有人。
+SeasonalTalkEvent_008_001ID	15	Resna	レスナ	ロ、ロマンさん！？\nどうして、ハイネ州にいるんですか！？	Resna	Huh, Roman?! What are you doing all the way out here in Haine?	蕾斯娜	罗、罗曼先生？！\n你怎么会在海涅州？！	蕾斯娜	羅、羅曼先生！？\n你怎麼會在海涅州呢！？
+SeasonalTalkEvent_008_001ID	16	Roman	ロマン	この辺りに魔物が出現したという話を聞いてね。\nユナと共に調査のためにやって来たんだ	Roman	There have been reports of monster sightings, so I came here with Juna to scout out the area.	罗曼	我听说这附近有魔物出没，\n所以和尤娜一起前来调查。	羅曼	我聽說這附近有魔物出沒，\n所以和尤娜一起來調查。
+SeasonalTalkEvent_008_001ID	17	Ryza	ライザ	魔物！？　それじゃあ、花火大会は……	Ryza	Monsters?! Oh, no. Does that mean the fireworks are...?	莱莎	魔物？！那烟花大会怎么办……	萊莎	魔物！？這樣一來，煙火大會不就……
+SeasonalTalkEvent_008_001ID	18	Roman	ロマン	このままでは中止せざるを得ないかな。\n海の家の人々も、魔物を恐れて避難してしまったし……	Roman	Canceled? At this rate, yes. And with all of the monsters around, the beachgoers have already evacuated.	罗曼	这样下去就只能取消了吧。\n海边小屋的人们也因为害怕魔物去避难了……	羅曼	再這樣下去，煙火大會只能停辦了吧。\n畢竟海之家的店員們也因為害怕魔物跑去避難了……
+SeasonalTalkEvent_008_001ID	19	Valeria	ヴァレリア	ええっ。せっかく海を満喫しに来たのに……	Valeria	No... This was supposed to be the beach trip of our dreams.	瓦莱莉娅	怎么会这样，好不容易来海边享受一下……	瓦萊莉婭	怎麼這樣，我們難得來海邊度假耶……
+SeasonalTalkEvent_008_001ID	20	Roman	ロマン	まだ中止になると決まったわけではないよ。\n魔物を排除し、観光客を呼び戻せれば……ね？	Roman	Well, the fireworks haven't been officially canceled just yet. If we can get rid of the monsters and bring back the tourists, there's still a chance!	罗曼	还没确定要取消哦。\n只要能除掉魔物，重新招揽游客……明白我的意思吗？	羅曼	還沒有決定要停辦哦。只要能打倒魔物，\n讓遊客們回到海邊……懂嗎？
+SeasonalTalkEvent_008_001ID	21	Ryza	ライザ	レスナ、あたしたちでお客さんを呼び戻そうよ！\n魔物を倒して、海の家も盛り上げてさ！	Ryza	Resna, let's help bring back all of the beachgoers! We'll just have to chase off the monsters and fix up the beach house!	莱莎	蕾斯娜，我们来招揽游客吧！\n打倒魔物，让海边小屋重新热闹起来！	萊莎	蕾斯娜，我們來把遊客喚回來吧！\n一起打倒魔物，讓海之家的氣氛熱鬧起來！
+SeasonalTalkEvent_008_001ID	22	Resna	レスナ	そうですね！　お客さんを呼び戻して、\n花火大会、開催できるようにしましょう！	Resna	Great idea! And once the people are back, the fireworks festival can go on as planned!	蕾斯娜	是啊！我们要让流失的游客回归，\n还要让烟花大会顺利举办！	蕾斯娜	說得沒錯！大家一起喚回遊客，\n讓煙火大會順利舉行吧！
+SeasonalTalkEvent_008_001ID	23	Klaudia	クラウディア	なんだか、ロマンさんに乗せられた気がするけど\n……気のせいかな？	Klaudia	Is it just me, or does it feel like we just walked right into Roman's plan?	科洛蒂娅	怎么觉得上了罗曼先生的套……\n是我想多了吗？	科洛蒂婭	總覺得我們好像中了羅曼先生的計……\n是我的錯覺嗎？
+SeasonalTalkEvent_008_001ID	24	Ryza	ライザ	じゃーん！　海といったら、やっぱり水着でしょ！\nどう？　似合ってるかな	Ryza	Ta-daaah! You can't have a day at the beach without a swimsuit! So, what do you think? Do I look okay?	莱莎	快看！说到海边就不能少了泳装对吧！\n怎么样？好看吗？	萊莎	登登──！說到海邊，當然少不了泳裝！\n怎麼樣，好看嗎？
+SeasonalTalkEvent_008_001ID	25	Resna	レスナ	はい、まばゆいお姿……！\nとっっってもお似合いです、ライザ先輩！　	Resna	Oh, wow! You look way better than okay, Ryza! You're absolutely stunning!　	蕾斯娜	哇，太闪耀了……\n太太太太太太适合你了，莱莎前辈！　	蕾斯娜	好看，太耀眼動人了……！\n萊莎前輩，妳那身泳裝非～常適合妳！　
+SeasonalTalkEvent_008_001ID	26	Ryza	ライザ	そういうレスナのもかわいいじゃない！\nもちろん、クラウディアのも	Ryza	I could say the same for you, Resna! Your suit is adorable. And so is yours, Klaudia! Wow!	莱莎	蕾斯娜你也很可爱嘛！\n当然科洛蒂娅也是哦。	萊莎	蕾斯娜，妳的泳裝也很可愛啊！\n當然，科洛蒂婭也是。
+SeasonalTalkEvent_008_001ID	27	Klaudia	クラウディア	ふふ、ちょっと背伸びしちゃったかも	Klaudia	Hehe, maybe it's a little much...?	科洛蒂娅	呵呵，我是不是穿得太成熟了。	科洛蒂婭	呵呵，我挑的款式可能有點太成熟了。
+SeasonalTalkEvent_008_001ID	28	Resna	レスナ	私なんて、先輩方と比べたら……。\nあ、ヴァレリアも来た！	Resna	You're all so beautiful that I almost feel silly standing next to you...\nOh, look! It's Valeria!	蕾斯娜	我哪配跟前辈们相提并论……\n啊，瓦莱莉娅也来了！	蕾斯娜	我怎麼能和前輩們比……\n啊，瓦萊莉婭也來了！
+SeasonalTalkEvent_008_001ID	29	Resna	レスナ	わぁ、かっこいい……！	Resna	Whoa, you look incredible!	蕾斯娜	哇，好帅啊……！	蕾斯娜	哇，好帥氣哦……！
+SeasonalTalkEvent_008_001ID	30	Valeria	ヴァレリア	私は普段の服のままでもよかったんだけど	Valeria	I was fine wearing my usual clothes...	瓦莱莉娅	其实我觉得穿平时的衣服就好……	瓦萊莉婭	我本來覺得穿平時的衣服就好了。
+SeasonalTalkEvent_008_001ID	31	Valeria	ヴァレリア	マリオンから「海に行くならこれを着なさい」って\n言われちゃったのよね	Valeria	But Marion told me that I couldn't possibly show up to the beach without looking the part, so she gave me a suit to wear.	瓦莱莉娅	不过玛丽翁说，去海边就要穿这个。	瓦萊莉婭	但瑪麗翁說：「去海邊就穿上這件吧」。
+SeasonalTalkEvent_008_001ID	32	Resna	レスナ	マリオンさん、さすがの慧眼です……！	Resna	Great call, Marion!	蕾斯娜	玛丽翁小姐真是有远见……！	蕾斯娜	不愧是瑪麗翁小姐，真是慧眼獨具……！
+SeasonalTalkEvent_008_001ID	33	Ryza	ライザ	よーし、まずはここが海の家第１号！\n目印にこれを敷いてっと……	Ryza	All right, let's get started on our beach house! We'll begin the groundwork here, and...	莱莎	好，就在这个位置建第一栋海边小屋！\n把这个铺在这里当作记号……	萊莎	好～就先決定這裡是海之家第一號了！\n先鋪上這個做記號……
+SeasonalTalkEvent_008_001ID	34	Resna	レスナ	今は何もないけど、\nここから私たちの海の家が始まるんですね！	Resna	It might not look like much now, but this is just the beginning!	蕾斯娜	虽然现在还是一片空地，\n但很快我们的海边小屋就要从这里拔地而起了！	蕾斯娜	雖然現在什麼都沒有，但接下來要開始打造\n屬於我們自己的海之家！
+SeasonalTalkEvent_008_001ID	35	Ryza	ライザ	まずは、海の家として最低限、必要なものを\n揃えないとだよね	Ryza	Let's see... First, let's make a list of all of the basics we'll need for our beach house.	莱莎	首先，得备齐海边小屋最基本的物资。	萊莎	我們得先準備海之家必備的基本用品對吧。
+SeasonalTalkEvent_008_001ID	36	Resna	レスナ	最低限、必要なもの……	Resna	Now, what makes a beach house?	蕾斯娜	最基本的物资……	蕾斯娜	必備的基本用品啊……
+SeasonalTalkEvent_008_001ID	37	Resna	レスナ	大きな日傘はいかがでしょう？\nとりあえず日陰があれば、一休みできますし	Resna	How about a big beach umbrella? Once we have some shade, we'll have a place to rest.	蕾斯娜	肯定得有一把大大的遮阳伞吧？\n有一块阴凉的地方也方便休息。	蕾斯娜	做一把很大的陽傘如何？\n只要有陰影處，隨時都能休息一下。
+SeasonalTalkEvent_008_001ID	38	Ryza	ライザ	そうだね、まずはそれを作ろうか	Ryza	Good thinking. Let's make one of those first.	莱莎	说得好，那就先做遮阳伞吧。	萊莎	說得也是，那就先做洋傘吧。
+SeasonalTalkEvent_008_002ID	0	Resna	レスナ	よーし、日傘ができた！　早速設置してみて……\nうん、なんだかそれらしくなってきたかも	Resna	Great, we have our beach umbrella! Now that it's set up, things are starting to look the part.	蕾斯娜	好，遮阳伞做好了！赶紧放在这里……\n嘿嘿，感觉初具海边小屋的概念了。	蕾斯娜	好～陽傘完成了！我馬上架起來試試……\n嗯，總覺得看起來更有模有樣了！
+SeasonalTalkEvent_008_002ID	1	Klaudia	クラウディア	お疲れさまです、レスナさん。\n素材集め、大変でしたよね？	Klaudia	Well done, Resna! It must've been a lot of work getting all of the materials together.	科洛蒂娅	蕾斯娜小姐，你辛苦了。\n收集素材很不容易吧？	科洛蒂婭	蕾斯娜小姐，辛苦了。\n蒐集素材應該很累人吧？
+SeasonalTalkEvent_008_002ID	2	Resna	レスナ	大丈夫です、自然豊かな場所だけあって\n素材には困らなさそうです	Resna	It was no problem, really! This area is rich in natural resources, so there was plenty to work with.	蕾斯娜	不辛苦。这边树木繁茂，不用担心找不到素材。	蕾斯娜	我不要緊的。這裡的自然資源很豐富，\n素材應該相當充足。
+SeasonalTalkEvent_008_002ID	3	Resna	レスナ	そうだ、早速使ってみませんか？\nお客さんの目線に立つのも大事ですし……暑いですし	Resna	Want to try out our new umbrella? It's really hot out here. Think of it as an advertisement for potential beachgoers.	蕾斯娜	那赶快用用看吧？\n站在顾客角度思考也很重要……而且现在很热。	蕾斯娜	對了，要不要趕緊試試新的陽傘呢？\n畢竟從遊客的角度體驗很重要……而且好熱哦。
+SeasonalTalkEvent_008_002ID	4	Klaudia	クラウディア	ふふ、そうですね。\nまあ、そんなの関係ないって人もいるみたいですけど	Klaudia	Hehe, I'd like that! There aren't many people around to see our little advertisement, though...	科洛蒂娅	呵呵，是呀。\n不过某些人看起来一点都不在乎。	科洛蒂婭	呵呵，說得也是。\n不過，有些人好像不在意日曬就是了。
+SeasonalTalkEvent_008_002ID	5	Valeria	ヴァレリア	――ライザ、この星型のやつって食べられるのかしら？	Valeria	Hey, Ryza... Ever wondered if you can eat one of these sea star things?	瓦莱莉娅	——莱莎，这个星形的东西能吃吗？	瓦萊莉婭	──萊莎，這個星型的東西可以吃嗎？
+SeasonalTalkEvent_008_002ID	6	Ryza	ライザ	火を通せば大丈夫じゃない？\nでも、海の家で出すには見た目がちょっとなぁ	Ryza	If you cooked it well enough, it'd probably be fine. But it might not look very appetizing if we served it up at the beach house...	莱莎	弄熟了应该可以吧？\n不过要放在海边小屋卖的话，卖相实在有点糟糕。	萊莎	只要烤過應該就可以了吧？\n但這個外型好像不太適合在店裡賣耶。
+SeasonalTalkEvent_008_002ID	7	Valeria	ヴァレリア	やっぱり、魚を獲りに行くしかないわね。\nちょっとそこで待ってて、行ってくる！	Valeria	Right. Fishing it is, then! Just wait right there and I'll fish you up a feast!	瓦莱莉娅	看来只能去抓鱼了。\n你们在那边等我一下，我去去就来！	瓦萊莉婭	看來還是得去抓魚才行。\n妳在這裡等我一下，我馬上回來！
+SeasonalTalkEvent_008_002ID	8	Ryza	ライザ	おっ、また素手で獲るつもり！？	Ryza	Wait, don't tell me you're going to fish with your bare hands?	莱莎	哦？又打算空手去抓吗？！	萊莎	哦，妳又要徒手抓了嗎！？
+SeasonalTalkEvent_008_002ID	9	Valeria	ヴァレリア	当たり前でしょ！　えーいっ！	Valeria	Think I can't? Just watch me!	瓦莱莉娅	不然呢！嘿！	瓦萊莉婭	當然啦！看我的──！
+SeasonalTalkEvent_008_002ID	10	Klaudia	クラウディア	ふふ、二人とも元気だなぁ	Klaudia	Hehe, those two are always a bundle of energy.	科洛蒂娅	呵呵，她们可真有精神。	科洛蒂婭	呵呵，她們兩個真有精神。
+SeasonalTalkEvent_008_002ID	11	Resna	レスナ	あの二人は日傘の下よりも、\n太陽の下が似合いますね	Resna	Knowing them, they'd much rather be playing in the sun than sitting in the shade.	蕾斯娜	比起躲在遮阳伞底下，\n还是在阳光下玩耍更适合她们。	蕾斯娜	比起待在傘下，\n她們更適合在陽光下活動呢。
+SeasonalTalkEvent_008_002ID	12	Klaudia	クラウディア	そうですね。むしろ、\n大人しくしてるほうが似合わないかもしれません	Klaudia	You're right. I'd be more worried if they weren't frolicking like a bunch of children!	科洛蒂娅	是啊，要是她们老老实实待着，\n反倒感觉不太对劲。	科洛蒂婭	是啊。應該說，要她們安靜下來反而\n不符合那兩人的性子。
+SeasonalTalkEvent_008_002ID	13	Resna	レスナ	（そういうクラウディアさんは、\n　太陽の下が似合わないってわけじゃないけど……）	Resna	(Klaudia is sparkling under the sun just as much as the rest of the gang...)	蕾斯娜	（倒不是说科洛蒂娅小姐不适合阳光……）	蕾斯娜	（倒不是說科洛蒂婭小姐不適合待在陽光下……）
+SeasonalTalkEvent_008_002ID	14	Resna	レスナ	（日陰の下、風に髪をなびかせてゆっくりとする。\n　そんな姿のほうが、似合ってる気がするなあ）	Resna	(But I get the feeling she'd feel most at peace in the shade, letting the breeze catch her hair.)	蕾斯娜	（不过我觉得长发飘飘的她在遮阳伞下\n　悠然自得地休息，才更是一幅和谐的画面嘛。）	蕾斯娜	（但我覺得她在陽傘下，\n　長髮隨風飄逸的放鬆模樣會更適合她。）
+SeasonalTalkEvent_008_002ID	15	Valeria	ヴァレリア	ライザ、魚捕まえたわよ！	Valeria	Ryza, check it out! I caught a fish!	瓦莱莉娅	莱莎！我抓到鱼了！	瓦萊莉婭	萊莎，我抓到魚了！
+SeasonalTalkEvent_008_002ID	16	Ryza	ライザ	やっぱり、やるね！　……って、あはは！\nこの魚の顔、人間みたい！	Ryza	I never doubted you! Wait... Look! Ahaha! That fish's face looks almost human!	莱莎	真的抓到了，好厉害！咦……哈哈哈！\n这鱼怎么长了张人脸啊！	萊莎	真不愧是瓦萊莉婭！……等等，哈哈哈！\n這條魚的臉長得跟人好像哦！
+SeasonalTalkEvent_008_002ID	17	Klaudia	クラウディア	えっ！　人間みたいな魚？　私も、見たい！	Klaudia	Huh? A fish with a face like a human? Let me see!	科洛蒂娅	什么？人脸鱼？也给我看看！	科洛蒂婭	咦！？長得像人的魚？我也要看！
+SeasonalTalkEvent_008_002ID	18	Resna	レスナ	……そっか、クラウディアさんは\nあのライザ先輩と冒険していたんだもん	Resna	I get it. Klaudia and Ryza have been adventuring together since long before I came into the picture...	蕾斯娜	对哦……科洛蒂娅小姐过去曾经和莱莎前辈一起在外冒险。	蕾斯娜	……差點忘了，科洛蒂婭小姐可是曾與\n萊莎前輩一起冒險過的。
+SeasonalTalkEvent_008_002ID	19	Resna	レスナ	私の想像を勝手に押し付けちゃダメだよね！	Resna	Ugh, what am I thinking? I shouldn't jump to any conclusions!	蕾斯娜	我不该用自己片面的印象评判她！	蕾斯娜	我不能把自己的想像強加在她身上！
+SeasonalTalkEvent_008_002ID	20	Resna	レスナ	（さて、日傘の次は何を作ろうかな。\n　もっとくつろげるような場所にしたいけど……）	Resna	(Now that we have an umbrella, what's next? It'd be nice if we had a place to stretch out.)	蕾斯娜	（好了，做完遮阳伞之后还要做什么呢？\n　我想把这边布置成更能让人放松心情的地方……）	蕾斯娜	（好，除了陽傘外還要做些什麼呢？\n　我想打造一個能讓人感覺更舒適的地方……）
+SeasonalTalkEvent_008_002ID	21	Resna	レスナ	（そうだ、デッキチェアを作ろう！\n　浜辺に置いたら、一気に雰囲気が出そうだし！）	Resna	(I know! We need some beach chairs! They'll look perfect lined up along the shore.)	蕾斯娜	（对了，做把沙滩椅吧！\n　摆在沙滩上立刻就会营造出闲适的氛围！）	蕾斯娜	（對了，來做沙灘椅吧！放個幾張在海灘上，\n　感覺一下子就能營造出休閒的氣氛！）
+SeasonalTalkEvent_008_003ID	0	Valeria	ヴァレリア	あ、デッキチェアができたのね。\nふああ……見てたらなんだか眠くなってきたわ	Valeria	Oh, beach chairs! *Yawn* Just looking at them makes me want to take a nap.	瓦莱莉娅	哦，你做了沙滩椅呀。\n呵欠……一看就开始犯困了。	瓦萊莉婭	啊，沙灘椅做好啦。\n呼啊……總覺得看著看著就想睡了。
+SeasonalTalkEvent_008_003ID	1	Klaudia	クラウディア	せっかくだから、今のうちに休んでおきましょうか。\nお客さんが来たら、使いたくても使えないでしょうし	Klaudia	We might as well use them while we still can. Once the tourists come back, these chairs will be full in no time.	科洛蒂娅	那就趁现在躺上去休息一下吧。\n要是游客回来，我们想用都不能用了。	科洛蒂婭	機會難得，不如趁現在休息片刻吧。\n畢竟等遊客來了之後，我們大概想躺也躺不了。
+SeasonalTalkEvent_008_003ID	2	Resna	レスナ	……むむむ	Resna	Hngh...	蕾斯娜	唔嗯……	蕾斯娜	……唔唔唔。
+SeasonalTalkEvent_008_003ID	3	Ryza	ライザ	レスナ、どうしたの？	Ryza	Resna, is something wrong?	莱莎	蕾斯娜，怎么了？	萊莎	蕾斯娜，怎麼了？
+SeasonalTalkEvent_008_003ID	4	Resna	レスナ	いえ、大したことじゃないんですが、\nヴァレリアとクラウディアさんが……	Resna	Oh, not really. It's just Valeria and Klaudia...	蕾斯娜	啊，没什么大问题，\n我只是在想，瓦莱莉娅和科洛蒂娅小姐……	蕾斯娜	啊，沒什麼。\n我只是覺得瓦萊莉婭和科洛蒂婭小姐……
+SeasonalTalkEvent_008_003ID	5	Resna	レスナ	普段よりも大人の雰囲気が漂っていると言いますか……	Resna	"They just seem so much more...""mature"" than usual."	蕾斯娜	现在气质仿佛比平时显得更加成熟……	蕾斯娜	看起來好像比平常更成熟了……
+SeasonalTalkEvent_008_003ID	6	Ryza	ライザ	んー？　どれどれ……	Ryza	Huh? What do you mean?	莱莎	嗯？我看看……	萊莎	嗯……？我看看……
+SeasonalTalkEvent_008_003ID	7	Ryza	ライザ	…………	Ryza	...	莱莎	……	萊莎	…………
+SeasonalTalkEvent_008_003ID	8	Ryza	ライザ	確かに、なんだか絵になってるかも	Ryza	You're right, those two do make quite the pretty picture.	莱莎	你说得对，真是美如画啊。	萊莎	確實，總覺得看起來像一幅畫。
+SeasonalTalkEvent_008_003ID	9	Resna	レスナ	これが大人の魅力というものでしょうか。\n私も、お二人を見習わなければ！	Resna	You see it too, right? They have this grown-up charm about them! I need to learn their secrets!	蕾斯娜	这就是大人的成熟魅力吗。\n我也要好好和她们学学！	蕾斯娜	這就是所謂成熟大人的魅力吧。\n我也要向那兩人看齊！
+SeasonalTalkEvent_008_003ID	10	Ryza	ライザ	そうだね、あたしも……って、いやいや！\nあたし、クラウディアと歳変わらないけど！？	Ryza	Maybe we can ask—wait... Hey! Klaudia and I are basically the same age!	莱莎	是啊，我也……不、不对！\n我和科洛蒂娅是同龄人啊？！	萊莎	是啊，我也……呃，不對不對！\n我和科洛蒂婭的年紀一樣耶！？
+SeasonalTalkEvent_008_003ID	11	Ryza	ライザ	レスナ、あたしに大人の魅力は！？\nあたしにもドキドキするよね！？	Ryza	Well, what about me, Resna?! I'm an adult! Don't I have an exciting aura, too?! I can make your heart race, right?	莱莎	蕾斯娜，我也很有成熟魅力吧？！\n我是不是也美得让你心跳加速？！	萊莎	蕾斯娜，我應該也有大人的魅力吧！？\n妳看到我不會覺得心動嗎！？
+SeasonalTalkEvent_008_003ID	12	Resna	レスナ	もちろんです！　ライザ先輩とこうして\nお話させていただくだけで感無量です！！	Resna	Of course you can! My heart pounds out of my chest whenever you tell me stories about your adventures!	蕾斯娜	当然啦！光是能和莱莎前辈聊天，\n就让我心潮澎湃不已！！	蕾斯娜	當然心動了！能和萊莎前輩像現在這樣說話，\n我的內心激動不已！！
+SeasonalTalkEvent_008_003ID	13	Ryza	ライザ	そういうことじゃなーい！！	Ryza	That's not the kind of excitement I meant!	莱莎	我不是说这个啊——！！	萊莎	我指的不是這個啦──！！
+SeasonalTalkEvent_008_003ID	14	Valeria	ヴァレリア	……ねえ、クラウディア	Valeria	Hey, Klaudia...	瓦莱莉娅	我说，科洛蒂娅。	瓦萊莉婭	……我說啊，科洛蒂婭。
+SeasonalTalkEvent_008_003ID	15	Klaudia	クラウディア	なんでしょう、ヴァレリアさん	Klaudia	What is it, Valeria?	科洛蒂娅	瓦莱莉娅小姐，怎么了？	科洛蒂婭	什麼事，瓦萊莉婭小姐？
+SeasonalTalkEvent_008_003ID	16	Valeria	ヴァレリア	あの雲、骨付き肉に似てない？	Valeria	Check out that cloud. Doesn't it look like a big hunk of meat?	瓦莱莉娅	那朵云像不像带骨大肉啊？	瓦萊莉婭	那朵雲，很像一塊排骨吧？
+SeasonalTalkEvent_008_003ID	17	Klaudia	クラウディア	そう言われると、似てるかも？	Klaudia	Now that you mention it, it kind of does.	科洛蒂娅	这么一说好像是有点像？	科洛蒂婭	聽妳這麼一說，似乎有點像？
+SeasonalTalkEvent_008_003ID	18	Valeria	ヴァレリア	はあ、海に来てるのに\nお肉が食べたくなってきちゃったわ	Valeria	*Sigh* Listen to me, talking about meat while we should be enjoying the beach...	瓦莱莉娅	唉，明明来到了海边可以尽情吃鱼，\n却开始馋肉了。	瓦萊莉婭	唉～明明來了海邊，\n卻開始想吃肉了。
+SeasonalTalkEvent_008_003ID	19	Klaudia	クラウディア	ふふ……ヴァレリアさんって、\nお腹が空いてないときがないですね	Klaudia	Hehe. You're always hungry, aren't you?	科洛蒂娅	呵呵，瓦莱莉娅小姐真是没有不饿的时候。	科洛蒂婭	呵呵……瓦萊莉婭小姐，\n妳無時無刻都在肚子餓呢。
+SeasonalTalkEvent_008_003ID	20	Valeria	ヴァレリア	別にいつもお腹が空いてるってわけじゃ……	Valeria	H-Hey, I'm not ALWAYS hungry...	瓦莱莉娅	我也不是时时刻刻都在喊饿……	瓦萊莉婭	我也不是一直都在肚子餓啦……
+SeasonalTalkEvent_008_003ID	21	Valeria	ヴァレリア	……空いてるわね	Valeria	I just happen to be right now.	瓦莱莉娅	……我饿了。	瓦萊莉婭	……確實是餓了。
+SeasonalTalkEvent_008_003ID	22	Klaudia	クラウディア	実は、海の家で売るための食べ物を\nいくつかライザと考えていたんです	Klaudia	You know what? Ryza and I were thinking up some dishes to sell at the beach house.	科洛蒂娅	其实我和莱莎想了一些可以在海边小屋出售的食物。	科洛蒂婭	其實，我和萊莎想了幾樣要在海之家販賣的食物。
+SeasonalTalkEvent_008_003ID	23	Klaudia	クラウディア	くつろげる場所はできました。\nいよいよ、海の家として売るものを作らないと	Klaudia	We have a place for people to rest. Now we can finally start selling food here too!	科洛蒂娅	现在休息的地方布置好了，\n也该来制作海边小屋的商品了。	科洛蒂婭	供人休息的地方已經完成了。\n得再做些要在海之家賣的東西才行。
+SeasonalTalkEvent_008_003ID	24	Valeria	ヴァレリア	食べ物……ですって？	Valeria	Did you just say...food?	瓦莱莉娅	食物……？	瓦萊莉婭	妳說……食物嗎？
+SeasonalTalkEvent_008_003ID	25	Klaudia	クラウディア	試食をヴァレリアさんに\nお願いしてもよいでしょうか？	Klaudia	If you don't mind, maybe you could be our taste tester.	科洛蒂娅	可以请你帮忙试吃吗？	科洛蒂婭	能拜託瓦萊莉婭小姐妳幫忙試吃嗎？
+SeasonalTalkEvent_008_003ID	26	Valeria	ヴァレリア	もちろん！	Valeria	Leave it to me!	瓦莱莉娅	当然可以！	瓦萊莉婭	當然可以！
+SeasonalTalkEvent_008_004ID	0	Ryza	ライザ	んー！　冷たくて美味しい！\nやっぱり海と言えば、かき氷だよねー！	Ryza	Mmm, shaved ice is the best! It's the yummiest way to cool off at the beach!	莱莎	嗯——！又凉快又好吃！\n来到海边就得吃刨冰啊！	萊莎	嗯～！冰冰涼涼的好好吃！\n說到海邊，果然就是要吃刨冰～！
+SeasonalTalkEvent_008_004ID	1	Klaudia	クラウディア	ライザの作ってくれたシロップ、\nとっても美味しいよ	Klaudia	Ryza, the syrup you made is delicious!	科洛蒂娅	莱莎做的糖浆很美味哦。	科洛蒂婭	萊莎幫忙做的糖漿非常好吃呢。
+SeasonalTalkEvent_008_004ID	2	Resna	レスナ	これなら、海の家の名物になること間違いなしです！\nお客さんもいっぱい呼び込めますよ！	Resna	Our shaved ice is definitely going to be the beach house's biggest hit! It'll bring in lots of customers!	蕾斯娜	这一定会成为海边小屋的热门商品！\n保准能吸引到大量游客！	蕾斯娜	這絕對能成為海之家的名產！\n也能招來很多客人的喔！
+SeasonalTalkEvent_008_004ID	3	Ryza	ライザ	よかった～！\n作った甲斐があったよ！	Ryza	Oh, I'm so glad to hear that. It was all worth the effort!	莱莎	太好了！不枉我一番辛苦！	萊莎	太好了～！\n看來我沒白做呢！
+SeasonalTalkEvent_008_004ID	4	Resna	レスナ	本当に美味しくって手が止まらな……っ！？	Resna	It's so good, I just can't stop eating it!	蕾斯娜	好吃得停不下来……唔？！	蕾斯娜	真的是好吃到停不下來……！？
+SeasonalTalkEvent_008_004ID	5	Resna	レスナ	ううっ、頭にキーンときました……	Resna	Augh, my head hurts...	蕾斯娜	呜呜，脑袋一阵一阵的抽痛……	蕾斯娜	嗚嗚，被冰到頭痛了……
+SeasonalTalkEvent_008_004ID	6	Ryza	ライザ	大丈夫？　辛いなら横になったほうがいいよ。\nあたしの膝、貸してあげるからさ	Ryza	Are you okay? If you aren't feeling well, maybe you should lie down. You can rest your head in my lap if you want!	莱莎	没事吧？不舒服就躺一下。\n躺我腿上也行。	萊莎	還好嗎？難受的話，躺下來會比較好。\n我的腿可以借妳躺。
+SeasonalTalkEvent_008_004ID	7	Resna	レスナ	ら、ライザ先輩のお膝を！？　畏れ多いです！\nそこは神々の座……！	Resna	In your lap?! I couldn't possibly! I'm... I'm not worthy!	蕾斯娜	莱、莱莎前辈的腿？！万万不可！\n那可是神圣的位置……！	蕾斯娜	萊、萊莎前輩的腿！？真是不勝惶恐！\n那裡是很神聖的位置……！
+SeasonalTalkEvent_008_004ID	8	Ryza	ライザ	頭痛いんでしょ？\n遠慮しないでいいって	Ryza	But you have a headache! Don't be shy, I just want you to feel better.	莱莎	你不是头痛吗？不要客气啦。	萊莎	妳頭痛不是嗎？\n不用客氣啦。
+SeasonalTalkEvent_008_004ID	9	Resna	レスナ	いやっ、そんな！　……あっ\n	Resna	Oh, but if I do that, I'll... Whoa!	蕾斯娜	不，我怎么敢……啊。	蕾斯娜	不，這怎麼行！啊……
+SeasonalTalkEvent_008_004ID	10	Ryza	ライザ	ん？	Ryza	Huh?	莱莎	嗯？	萊莎	嗯？
+SeasonalTalkEvent_008_004ID	11	Resna	レスナ	ライザ先輩の膝枕を想像しただけで\n頭が痛いのが治りました！　これが先輩の力！？	Resna	Just the thought of resting my head in your lap cured my headache. You're even more powerful than I imagined!	蕾斯娜	我想象了一下自己枕着莱莎前辈的大腿，\n头就突然不痛了！这是前辈的力量吗？！	蕾斯娜	光是想像躺在萊莎前輩的腿上，\n我的頭就不痛了！這就是前輩的力量！？
+SeasonalTalkEvent_008_004ID	12	Ryza	ライザ	あはは、何それ	Ryza	Ahaha, now you're just being silly!	莱莎	啊哈哈，说什么呢。	萊莎	哈哈，什麼跟什麼啊。
+SeasonalTalkEvent_008_004ID	13	Klaudia	クラウディア	かき氷を食べるとキーンってなるのってね、\n脳が冷たさを痛みと勘違いするからなんだって	Klaudia	When you eat shaved ice, the roof of your mouth gets really cold. That's why your brain mistakes it for a headache.	科洛蒂娅	据说吃完刨冰脑袋会抽痛的原因是\n大脑把低温当成了疼痛哦。	科洛蒂婭	聽說吃刨冰之所以會頭痛，\n是因為大腦把冰跟疼痛的感覺弄混了。
+SeasonalTalkEvent_008_004ID	14	Ryza	ライザ	えー、そうなの！？\nじゃあ、本当に痛いわけじゃないんだ	Ryza	Oh, really? So it's not real pain, just a trick the cold is playing on your mind?	莱莎	是吗？！也就是说那并不是真正的痛觉啊。	萊莎	咦～是這樣嗎！？\n原來那不是真的頭痛啊。
+SeasonalTalkEvent_008_004ID	15	Klaudia	クラウディア	うん、だからゆっくり食べれば\n痛くならないはずなんだけど……	Klaudia	Yes, it's called a brain freeze. Eat too quickly and you're guaranteed to get one.	科洛蒂娅	嗯，所以慢慢吃应该就不会痛了……	科洛蒂婭	嗯，所以只要慢慢吃，\n應該就不會頭痛了才對……
+SeasonalTalkEvent_008_004ID	16	Valeria	ヴァレリア	あー、美味しかった！\n次は何味にしようかしら	Valeria	Mmm, that hit the spot! What flavor should we try next?	瓦莱莉娅	呼，好好吃啊！\n下一个吃什么味道的呢？	瓦萊莉婭	啊～真好吃！\n接下來要吃哪個口味呢？
+SeasonalTalkEvent_008_004ID	17	Ryza	ライザ	もう完食したの！？\nさっきお代わりしたばかりじゃない	Ryza	You're already finished?! But you just got seconds!	莱莎	这么快就吃完了？！刚刚那已经是第二个了吧！	萊莎	已經吃光了！？\n妳不是才剛續了一碗嗎？
+SeasonalTalkEvent_008_004ID	18	Resna	レスナ	ヴァレリア、すごい勢いで食べ続けてるよね。\nキーンってなったりしないの？	Resna	Valeria, you've been scarfing those down pretty quickly. Don't you have a brain freeze?	蕾斯娜	瓦莱莉娅吃得真快啊。\n你不会头疼吗？	蕾斯娜	瓦萊莉婭，妳吃得又快又猛呢，\n頭不會痛嗎？
+SeasonalTalkEvent_008_004ID	19	Valeria	ヴァレリア	ぜんぜん平気。\nいくらでも食べられちゃうわ	Valeria	Nope, I'm totally fine. I could eat these forever.	瓦莱莉娅	一点都不疼啊，来多少我都能吃完。	瓦萊莉婭	完全沒事，多少我都吃得下。
+SeasonalTalkEvent_008_004ID	20	Resna	レスナ	うーん、体質なのかなぁ	Resna	Wow... She's just built different than the rest of us, I guess.	蕾斯娜	唔，难道是体质的差异。	蕾斯娜	嗯～是體質的關係嗎？
+SeasonalTalkEvent_008_004ID	21	Ryza	ライザ	あっ！　シロップを辛くすれば口の中がちょうどいい\n温度になって、キーンとしないんじゃない？	Ryza	Hey! What if we made the syrup spicy? Then the ice and spice would balance out and prevent a brain freeze.	莱莎	有了！把糖浆做成辣的，嘴里温度就会中和，\n这样是不是就不会痛了？	萊莎	啊！如果把糖漿做得辣辣的，在嘴裡溫度會變得剛好，\n這樣就不會冰得頭痛了吧？
+SeasonalTalkEvent_008_004ID	22	Resna	レスナ	えっ、それは……どうなんでしょうか？	Resna	Umm... Does it really work like that?	蕾斯娜	呃，这……能行吗？	蕾斯娜	咦？這個嘛……不知道耶？
+SeasonalTalkEvent_008_004ID	23	Ryza	ライザ	試してみようよ！\n上手くいったら大発見だし！	Ryza	We won't know unless we try! And if it does, it'll be a major discovery!	莱莎	试试看吧！要是可以，那就是个大发现了！	萊莎	我們來試試看嘛！\n要是成功了，可是大發現呢！
+SeasonalTalkEvent_008_004ID	24	Ryza	ライザ	よーし、激辛シロップの完成！\nレスナ、一緒に食べてみよう	Ryza	All right! Extra spicy syrup, complete! Resna, let's try it out together.	莱莎	好！超辣糖浆做好了！\n蕾斯娜，来一起尝尝吧。	萊莎	好～超辣糖漿完成！\n蕾斯娜，我們一起吃吃看吧。
+SeasonalTalkEvent_008_004ID	25	Resna	レスナ	は、はい、お供します、ライザ先輩！	Resna	Ah, um... Okay! I'm with you, Ryza!	蕾斯娜	好、好的，莱莎前辈，我也来尝尝！	蕾斯娜	好、好的，萊莎前輩，我們一起吃！
+SeasonalTalkEvent_008_004ID	26	Ryza	ライザ	かっ、かっ、辛ーい！！\nそのうえ、頭もキーンとするー！	Ryza	Ah! Ahhh! It's sooo spicy! And on top of that, I STILL got a brain freeze!	莱莎	好、好、好辣啊——！！\n而且头也照样痛！	萊莎	好、好、好辣──！！\n不僅如此，還冰到頭痛──！
+SeasonalTalkEvent_008_004ID	27	Klaudia	クラウディア	ううーん……\nやっぱり相殺ってわけにはいかなかったね	Klaudia	Hmm. I guess that wasn't the breakthrough we were hoping for...	科洛蒂娅	唔……看来没法互相抵消。	科洛蒂婭	唔……果然沒辦法抵銷啊。
+SeasonalTalkEvent_008_004ID	28	Ryza	ライザ	でもこれ、お品書きに加えたら\nノリで頼んでくれる人もいるんじゃない？	Ryza	We might as well add it to the menu anyway! People might want to try it just as a challenge, you know?	莱莎	不过把这个加到菜单里，\n应该会有人好奇吧？	萊莎	不過，這寫到菜單上的話，\n應該也會有人想趁勢嘗鮮吧？
+SeasonalTalkEvent_008_004ID	29	Klaudia	クラウディア	確かに話題になるかも！\n観光地に名物って必要だしね	Klaudia	It will certainly get people talking! Who knows? It might end up being a beach legend!	科洛蒂娅	对哦，说不定会火！\n旅游景点也需要招牌商品嘛。	科洛蒂婭	確實可能會成為話題！\n而且觀光勝地也需要有名產嘛。
+SeasonalTalkEvent_008_004ID	30	Ryza	ライザ	それじゃあ、激辛シロップかき氷も追加だー！！	Ryza	Get ready, world! The Extra Spicy Icy is on the menu!	莱莎	那就加上超辣糖浆刨冰——！！	萊莎	那就把超辣糖漿刨冰也加上去吧──！！
+SeasonalTalkEvent_008_004ID	31	Valeria	ヴァレリア	あ、そうそう。\nついでに１つ提案なんだけど……	Valeria	Oh, but there's one more thing I wanted to bring up...	瓦莱莉娅	啊，对了，我想顺便提个建议……	瓦萊莉婭	啊，對了，順便想提個建議……
+SeasonalTalkEvent_008_004ID	32	Valeria	ヴァレリア	かき氷を出すなら、買ってすぐ食べられる場所も\n用意したほうがいいんじゃない？	Valeria	Since we'll be selling shaved ice, won't our customers need somewhere to stop and eat?	瓦莱莉娅	既然要卖刨冰，那是不是应该准备个地方，\n让顾客买完当场就能坐下吃？	瓦萊莉婭	既然要賣刨冰，那也準備一處\n買了就能立刻吃的地方比較好吧？
+SeasonalTalkEvent_008_004ID	33	Resna	レスナ	確かに、できるだけ溶けないうちに食べたいよね	Resna	Good point. They need a spot to eat before the ice melts.	蕾斯娜	有道理，买了刨冰当然想在化掉之前吃完嘛。	蕾斯娜	確實，大家會想盡量在還沒融化之前趕快吃掉吧。
+SeasonalTalkEvent_008_004ID	34	Ryza	ライザ	じゃあ、椅子とテーブルも作っちゃおうか！	Ryza	Sounds like we need to make some tables and chairs!	莱莎	那就来做桌椅吧！	萊莎	那也來做幾張椅子和桌子吧！
+SeasonalTalkEvent_008_005ID	0	Ryza	ライザ	いらっしゃいませー！\nこの海で、贅沢なひと時を過ごしませんかー！	Ryza	Step right up! Treat yourself to a relaxing moment on the beach!	莱莎	欢迎光临！\n要在海边享受一段奢华时光吗——！	萊莎	歡迎光臨～！要不要在這片海灘\n享受一下奢侈的時光呢～？
+SeasonalTalkEvent_008_005ID	1		客A	あれ？　ここって魔物が出て海の家も\n閉まっちゃったんじゃ？	Customer A	Wait a minute... Didn't they close the beach because of the monster attacks?	客人A	咦？这里不是有魔物出没，\n海边小屋也关门了吗？	顧客A	奇怪？這裡之前不是出現魔物，\n海之家也因此關門了嗎？
+SeasonalTalkEvent_008_005ID	2	Ryza	ライザ	魔物なんて平気、平気！\nこうして海の家も開いてるよ！	Ryza	As you can see, our beach house is open for business! We've got it covered, so don't you worry about any monsters!	莱莎	魔物的事无需担心！\n你们看，海边小屋不也开着吗！	萊莎	魔物什麼的，不用擔心！\n海之家也會像這樣繼續營業喔！
+SeasonalTalkEvent_008_005ID	3		客B	そうなのか！　それなら寄っていこうかな。\n特製錬金術かき氷３つお願いします！	Customer B	That's great! Why don't we get something? Three orders of Deluxe Alchemical Shaved Ice, please!	客人B	这样啊！那我们来坐坐吧。\n我要三份特制炼金术刨冰！	顧客B	是這樣啊！那我們等等也過去看看吧。\n麻煩給我們3份特製鍊金術刨冰！
+SeasonalTalkEvent_008_005ID	4	Ryza	ライザ	はーい！　ご注文承りました！	Ryza	Thank you! Coming right up!	莱莎	好的！收到您的点单了！	萊莎	好的～！訂單已收到！
+SeasonalTalkEvent_008_005ID	5	Klaudia	クラウディア	食べ物を用意して正解でしたね。\n観光客が戻ってきているみたい	Klaudia	Serving food was a great idea. People are starting to come back to the beach!	科洛蒂娅	看来准备食物的决定很明智啊。\n客流开始慢慢恢复了。	科洛蒂婭	準備食物果然是對的，\n遊客好像正在回流。
+SeasonalTalkEvent_008_005ID	6	Resna	レスナ	はい！　それにしても炎天下の中でも、\n機敏で力強い動き、さすがライザ先輩です！	Resna	I'm impressed. Not even the sweltering heat can stop Ryza from innovating and conquering!	蕾斯娜	嗯！不过真不愧是莱莎前辈，\n这么热的天也干劲十足，毫不拖泥带水。	蕾斯娜	是啊！話說回來，即使在大熱天下\n行動依然快狠準，真不愧是萊莎前輩！
+SeasonalTalkEvent_008_005ID	7	Resna	レスナ	これが接客……王都に来るまでものを\n売り歩いていた時の私とは大違いです……	Resna	When it comes to sales, she's in a league of her own. Especially compared to me before I made it to the capital...	蕾斯娜	这才是“接待”……\n和来王都之前沿路摆摊的我天差地别啊……	蕾斯娜	這就是待客之道……和我來王都之前\n四處叫賣東西的感覺完全不一樣……
+SeasonalTalkEvent_008_005ID	8	Klaudia	クラウディア	売り込むのも上手で、お客さんからも人気みたい	Klaudia	Not only is she a good salesperson, but the customers seem to love her too.	科洛蒂娅	莱莎推销也很有技巧，顾客反响极佳。	科洛蒂婭	妳既擅長推銷，又很受客人歡迎的樣子。
+SeasonalTalkEvent_008_005ID	9	Klaudia	クラウディア	やっぱりライザに任せてよかった。\n最高の看板娘だよ	Klaudia	We were right to put our faith in her. She's the best poster girl we could ask for!	科洛蒂娅	交给她真是太对了。\n她是最棒的招牌女店员。	科洛蒂婭	交給萊莎果然是對的。\n妳是最棒的招牌姑娘。
+SeasonalTalkEvent_008_005ID	10	Ryza	ライザ	さ、最高の看板娘って……\nそんなにほめられたら照れるよ	Ryza	Heh, I don't know about the best, but... Keep up the compliments and I'll be too red in the face to keep going!	莱莎	什么最棒的招牌女店员呀……\n你这么夸我我会不好意思的。	萊莎	最、最棒的招牌姑娘……\n妳這樣稱讚我，我會害羞的。
+SeasonalTalkEvent_008_005ID	11	Klaudia	クラウディア	とはいえ、そろそろ交代したほうがいいかな。\nそのかき氷、私が持っていくね	Klaudia	Speaking of which, I think you could use a break. I'll tag you out, so let me handle that shaved ice for you!	科洛蒂娅	不过也该换人让你休息了吧。\n这份刨冰我端过去。	科洛蒂婭	不過，也差不多該換班了吧。\n那碗刨冰我來送吧。
+SeasonalTalkEvent_008_005ID	12	Klaudia	クラウディア	お待たせいたしました。\n特製錬金術かき氷です	Klaudia	Thank you for waiting. Here you are, our special! The Deluxe Alchemical Shaved Ice.	科洛蒂娅	久等了。您的特制炼金术刨冰。	科洛蒂婭	讓您久等了。\n這是特製鍊金術刨冰。
+SeasonalTalkEvent_008_005ID	13		客A	わあ、美味しそう！\nこのシロップは自家製なの？	Customer A	Wow, it looks so good! Is the syrup homemade too?	客人A	哟，看上去很好吃啊！\n这糖浆是你们自己做的？	顧客A	哇，好像很好吃！\n這糖漿是自製的嗎？
+SeasonalTalkEvent_008_005ID	14	Klaudia	クラウディア	ええ、もちろんです。氷から器まで、\nすべて当店の錬金術士たちが作り出したものです	Klaudia	Of course! Everything is handcrafted by alchemists—from the shaved ice right down to the cup it's served in!	科洛蒂娅	嗯，当然。从冰块到盘子，\n都是本店的炼金术士们亲手制作的。	科洛蒂婭	是的，那當然。從刨冰到容器，\n全都是由本店的鍊金術士們製作出來的。
+SeasonalTalkEvent_008_005ID	15		客A	錬金術士が！？　かき氷まで作れるのね……\n不作を解決しただけでも、十分すごいのに	Customer A	Alchemists again?! First they saved the crops, now they're making shaved ice... What can't they do?	客人A	炼金术士？！竟然还会做刨冰啊……\n之前解决歉收已经很厉害了，没想到啊。	顧客A	鍊金術士做的！？他們連刨冰都會做啊……\n明明光是解決歉收的問題，就已經很厲害了。
+SeasonalTalkEvent_008_005ID	16	Klaudia	クラウディア	こちらの人面魚焼きも、おすすめですよ	Klaudia	Our other special is our Fishy Face Fry.	科洛蒂娅	这边还有烤人面鱼，也推荐各位品尝哦。	科洛蒂婭	我也很推薦這道烤人面魚喔。
+SeasonalTalkEvent_008_005ID	17	Klaudia	クラウディア	錬金術でしか調理できない特別な方法で\n骨まで柔らかく食べられるようにしてあります	Klaudia	Using a special alchemical technique, we prepare the dish so that the whole fish is super soft. You can eat it bones and all!	科洛蒂娅	我们用了只有炼金术才能做到的特殊烹饪方式，\n连骨头都酥得可以嚼烂。	科洛蒂婭	採用了唯獨鍊金術才能做到的特別調理方法，\n所以連骨頭都柔軟到能夠食用。
+SeasonalTalkEvent_008_005ID	18		客A	じゃあ、人面魚焼きももらおうかしら！	Customer A	That sounds great! I'll try one of those too!	客人A	好，那给我来一份烤人面鱼！	顧客A	那我也點一道烤人面魚吧！
+SeasonalTalkEvent_008_005ID	19	Klaudia	クラウディア	はい、ありがとうございます！	Klaudia	Of course, coming right up!	科洛蒂娅	好的，谢谢惠顾！	科洛蒂婭	好的，謝謝您！
+SeasonalTalkEvent_008_005ID	20	Resna	レスナ	わあ、クラウディアさんの接客もすごい。\nさすが商家の生まれ……	Resna	Wow, Klaudia's great with customers. You can tell that she comes from a long line of merchants.	蕾斯娜	哇，科洛蒂娅小姐也这么会接待顾客。\n真不愧是商人世家的后代……	蕾斯娜	哇啊，科洛蒂婭小姐也好會接待客人。\n真不愧是商人家庭出身……
+SeasonalTalkEvent_008_005ID	21	Valeria	ヴァレリア	なんだか普段の印象とぜんぜん違うわね。\nもしかして、これがギャップってやつ？	Valeria	Somehow, I didn't quite expect that. I'm seeing a whole new side of her.	瓦莱莉娅	和平时给人的印象大不一样啊。\n这难道就是反差萌吗？	瓦萊莉婭	感覺和平時給人的印象完全不同呢。\n這難道就是所謂的反差？
+SeasonalTalkEvent_008_005ID	22	Resna	レスナ	うん、クラウディアさんもライザ先輩も\nすごくかっこいいよね！	Resna	Yeah. Klaudia and Ryza are both adorable, but they're also really cool too!	蕾斯娜	嗯，科洛蒂娅小姐和莱莎前辈都好有型！	蕾斯娜	嗯，科洛蒂婭小姐和萊莎前輩都超帥氣的！
+SeasonalTalkEvent_008_005ID	23	Resna	レスナ	私もかき氷作り頑張ろう！\nついでに新しい味も作れないかな……	Resna	I'm going to make the best shaved ice I can! And maybe I'll think up a new flavor while I'm at it...	蕾斯娜	我也加油做刨冰吧！\n让我想想还能做什么新口味……	蕾斯娜	我也要努力做刨冰！\n能不能也順便做出新口味呢……
+SeasonalTalkEvent_008_005ID	24	Valeria	ヴァレリア	……むう、私もいいところ見せたい。でも、\nかき氷が美味しくて食べるのやめられないのよね	Valeria	I want to show off a little, too, but this shaved ice is so good that all I can do is eat!	瓦莱莉娅	唔……我也想表现一下。\n不过刨冰太好吃了，停不下来。	瓦萊莉婭	……唔，我也想好好表現一下。\n但刨冰太好吃了，我停不下來。
+SeasonalTalkEvent_008_005ID	25	Valeria	ヴァレリア	くうっ、手伝うべきか食べるべきか。\n難しい問題だわ……	Valeria	Ergh... I should help, but... To eat? Or not to eat? That is the question...	瓦莱莉娅	呜，是去帮忙还是接着吃，\n真是个艰难的抉择……	瓦萊莉婭	呃，該幫忙還是該吃呢？\n真是個難題……
+SeasonalTalkEvent_008_005ID	26	Ryza	ライザ	ヴァレリアはそのまま食べ続けていいよ！	Ryza	Don't worry about it, Valeria. Just keep eating!	莱莎	瓦莱莉娅，没关系，你就接着吃吧！	萊莎	瓦萊莉婭，妳可以繼續吃沒關係喔！
+SeasonalTalkEvent_008_005ID	27	Valeria	ヴァレリア	私にだって、接客できるわよ？	Valeria	B-But I can help out with the customers, too!	瓦莱莉娅	我也是会干活的啦。	瓦萊莉婭	接待客人，我也做得到喔？
+SeasonalTalkEvent_008_005ID	28	Ryza	ライザ	ううん。ヴァレリアが美味しそうに食べるから\nかき氷の注文が、どんどん入ってくるの	Ryza	You're a big help already. People are seeing how much you're enjoying the shaved ice, so orders are flooding in!	莱莎	不不，因为看到瓦莱莉娅吃得满足的模样，\n点刨冰的人越来越多了，所以这样就好。	萊莎	不，是因為妳吃得津津有味，\n刨冰的訂單才會源源不絕啊。
+SeasonalTalkEvent_008_005ID	29	Valeria	ヴァレリア	そういうことなら任せて。\n食べるのは得意だもの！	Valeria	In that case, eating is what I do best! I've got you covered!	瓦莱莉娅	那就交给我吧。论吃我可在行了！	瓦萊莉婭	既然如此就交給我吧。\n我最擅長吃東西了。
+SeasonalTalkEvent_008_005ID	30	Resna	レスナ	（この調子で売り物を増やしたら、\n　もっとお客さんを増やせるかな）	Resna	(If we expand our menu, that might bring in even more customers!)	蕾斯娜	（继续一鼓作气增加商品，\n　会不会吸引到更多游客呢。）	蕾斯娜	（照這樣繼續增加商品，\n　就會有更多顧客上門了吧？）
+SeasonalTalkEvent_008_005ID	31	Resna	レスナ	（かき氷以外で、海にぴったりな食べ物……\n　うーん……）	Resna	(We already have shaved ice. What's another food people can enjoy at the beach?)	蕾斯娜	（除了刨冰，还有什么适合海边吃的食物……\n　唔……）	蕾斯娜	（除了刨冰以外，很適合海邊的食物……\n　唔……）
+SeasonalTalkEvent_008_006ID	0	Resna	レスナ	皆さん見てください！\n大きなスイカですよー！	Resna	Hey, everyone! Take a look at this huge watermelon!	蕾斯娜	你们看！有大西瓜哦！	蕾斯娜	各位妳們看！是大西瓜喔～！
+SeasonalTalkEvent_008_006ID	1	Ryza	ライザ	そのスイカどうやって調達したの？\nこの辺りにスイカ畑なんてなかったよね	Ryza	How in the world did you get your hands on a watermelon? I thought they didn't grow around here.	莱莎	你从哪弄来的西瓜？\n这附近没有西瓜田吧。	萊莎	妳是怎麼弄到那顆西瓜的？\n這附近應該沒有西瓜田吧？
+SeasonalTalkEvent_008_006ID	2	Resna	レスナ	作りました！	Resna	I made it!	蕾斯娜	是我做的！	蕾斯娜	我做出來的！
+SeasonalTalkEvent_008_006ID	3	Ryza	ライザ	……はい？	Ryza	You...made a watermelon?	莱莎	啊……？	萊莎	……什麼？
+SeasonalTalkEvent_008_006ID	4	Resna	レスナ	錬金術で作りましたっ！	Resna	Yeah! With alchemy!	蕾斯娜	用炼金术做的！	蕾斯娜	我用鍊金術做出來的！
+SeasonalTalkEvent_008_006ID	5	Ryza	ライザ	えええっ！？	Ryza	No way!	莱莎	什么？！	萊莎	咦咦咦！？
+SeasonalTalkEvent_008_006ID	6	Resna	レスナ	海といえばスイカ割りかなと思って	Resna	I just thought, what's more fitting for the beach than a game of split the watermelon?	蕾斯娜	因为我想到，打西瓜是海边的经典游戏。	蕾斯娜	說到海邊，我想應該要玩打西瓜的遊戲。
+SeasonalTalkEvent_008_006ID	7	Resna	レスナ	遊べるし、食べられるし、\n海の家の売り物にぴったりかなと	Resna	We'll play first, crack it open, then eat it once we're done! Plus, we can sell the watermelon at the beach house, too!	蕾斯娜	西瓜又能玩又能吃，很适合当海边小屋的商品。	蕾斯娜	可以玩又可以吃，\n很適合在海之家販賣。
+SeasonalTalkEvent_008_006ID	8	Ryza	ライザ	そんな無邪気な笑顔で……。\nどうやって調合したの、それ	Ryza	With such an innocent little smile, I can't help but wonder—how'd you synthesize that watermelon, anyway?	莱莎	看你笑得一脸灿烂的……\n这是怎么调合出来的啊？	萊莎	居然笑得這麼天真無邪……\n那個妳是怎麼調合出來的？
+SeasonalTalkEvent_008_006ID	9	Resna	レスナ	水と海藻とえっと……\nあ、あとは森の中で見つけた鉄くずと……	Resna	I used water, seaweed, and uh, maybe some...bits of scrap iron...	蕾斯娜	用水和海藻……\n还、还有在森林里找到的废铁……	蕾斯娜	用水和海藻，我想想……\n啊，還有在森林中找到的鐵屑跟……
+SeasonalTalkEvent_008_006ID	10	Klaudia	クラウディア	そ、その食べられなそうな素材でスイカを！？	Klaudia	Wh-What?! That definitely doesn't sound edible!	科洛蒂娅	用、用这种根本不能吃的素材能做出西瓜？！	科洛蒂婭	妳、妳用那種好像不能吃的素材做出了西瓜！？
+SeasonalTalkEvent_008_006ID	11	Ryza	ライザ	でも、見た目は完璧なスイカなんだよね。\n叩いた音も……	Ryza	But it looks exactly like a normal watermelon. And when you hit it, it sounds like one, too.	莱莎	但看上去真是个漂亮的西瓜啊。\n我来听听声音……	萊莎	不過，外觀完全就是西瓜。\n敲起來的聲音也是……
+SeasonalTalkEvent_008_006ID	12	Ryza	ライザ	うん、いい音。\n中身もぎゅっと詰まってるみたい	Ryza	Ah, I love that sound. It must be ripe and juicy inside!	莱莎	嗯，声音不错。\n听起来是个熟透的实心西瓜。	萊莎	嗯，很不錯的聲音。\n裡面也很結實的樣子。
+SeasonalTalkEvent_008_006ID	13	Valeria	ヴァレリア	こんなの美味しいに決まってるでしょ！\n早速みんなで、スイカ割りしましょうよ	Valeria	No doubt about it, it's going to be delicious! Let's hurry up and smash it open already!	瓦莱莉娅	我看这西瓜肯定好吃！\n大家先来玩打西瓜，把它敲开吧。	瓦萊莉婭	這樣的西瓜肯定很好吃！\n大家趕快一起來打西瓜吧。
+SeasonalTalkEvent_008_006ID	14	Ryza	ライザ	――いいよ、クラウディア！\nそのまま、まっすぐまっすぐ！	Ryza	That's perfect, Klaudia! Just keep going, straight ahead of you!	莱莎	对对，科洛蒂娅！\n继续笔直往前走！	萊莎	──科洛蒂婭，很好！\n就這樣直直地往前走！
+SeasonalTalkEvent_008_006ID	15	Klaudia	クラウディア	うわわ、足元がふらふらするー！	Klaudia	Oooh, my legs feel so shaky!	科洛蒂娅	哎呀，站都站不稳——！	科洛蒂婭	嗚哇哇，腳下好晃──！
+SeasonalTalkEvent_008_006ID	16	Resna	レスナ	クラウディアさん、そこです！\n勢いよく、振り降ろしてください！	Resna	Klaudia, now! Hit with everything you've got!	蕾斯娜	科洛蒂娅小姐，就是这里！\n举高一点，用力敲下去！	蕾斯娜	科洛蒂婭小姐，就是那裡！\n請用力地揮下去吧！
+SeasonalTalkEvent_008_006ID	17	Klaudia	クラウディア	えーーいっ！	Klaudia	Here I gooo!	科洛蒂娅	嘿——！	科洛蒂婭	看我的──！
+SeasonalTalkEvent_008_006ID	18	Ryza	ライザ	な、何あれ……	Ryza	I... I can't believe it...	莱莎	这、这真是厉害了……	萊莎	怎、怎麼會這樣……
+SeasonalTalkEvent_008_006ID	19	Ryza	ライザ	信じられないほど美味しかったんだけど……！	Ryza	That watermelon was incredible!	莱莎	甜得让人难以置信……！	萊莎	好吃到令人不敢置信……！
+SeasonalTalkEvent_008_006ID	20	Klaudia	クラウディア	うん、あんなに甘くてみずみずしい\nスイカは初めて食べたかも	Klaudia	It really was! I've never tasted one so juicy and sweet before.	科洛蒂娅	是啊，第一次吃到这么多汁又甜美的西瓜。	科洛蒂婭	嗯，這可能是我第一次吃到\n這麼香甜又新鮮的西瓜。
+SeasonalTalkEvent_008_006ID	21	Resna	レスナ	えへへ、お二人に喜んでいただけて\nよかったです！	Resna	Ehehe! If you two are happy, then I'm happy!	蕾斯娜	嘿嘿，二位满意就是对我最高的褒奖！	蕾斯娜	嘿嘿，很高興妳們吃得開心！
+SeasonalTalkEvent_008_006ID	22	Valeria	ヴァレリア	だから言ったでしょ。\nレスナの作るものは、なんだって美味しいのよ	Valeria	I told you, didn't I? Everything Resna makes is delicious!	瓦莱莉娅	所以我都说了，\n蕾斯娜做出来的东西什么都好吃。	瓦萊莉婭	所以我就說嘛，\n蕾斯娜做的東西全都很好吃。
+SeasonalTalkEvent_008_006ID	23	Ryza	ライザ	むむむ……\n錬金術の奥深さを改めて感じたよ	Ryza	Alchemy's full of mysteries, as always. I have so much left to learn!	莱莎	唔……炼金术真的深不可测啊。	萊莎	唔唔唔……\n我又再次體會到鍊金術的深奧了。
+SeasonalTalkEvent_008_006ID	24	Ryza	ライザ	レスナ、あたしも作ってみたい！\n詳しい調合方法、教えてくれる？	Ryza	Resna, I want to try and make one, too! Could you teach me exactly how you did it?	莱莎	蕾斯娜，我也想做做看！\n能告诉我具体的调合方法吗？	萊莎	蕾斯娜，我也想做做看！\n妳能教教我詳細的調合方法嗎？
+SeasonalTalkEvent_008_006ID	25	Resna	レスナ	わ、私がライザ先輩にですか！？\nそんな畏れ多い……！	Resna	M-Me, teach a master like you?! Oh, I could never...	蕾斯娜	我、我教莱莎前辈？！岂敢岂敢……！	蕾斯娜	我、我來教萊莎前輩嗎！？\n這樣實在是不勝惶恐……！
+SeasonalTalkEvent_008_006ID	26	Ryza	ライザ	いーから、いーから！　たくさん作って\nお客さんにも喜んでもらおうよ！	Ryza	Enough being humble, just teach me already! We're going to need to make a ton to satisfy all of our customers!	莱莎	好啦，别推辞啦！\n我们要多做一些，让游客们也能玩得开心啊！	萊莎	別在意、別在意！我們多做一些，\n讓客人也開心開心吧！
+SeasonalTalkEvent_008_006ID	27	Resna	レスナ	は、はい！　レスナ・シュテルネンリヒト、\n僭越ながら、説明させていただきますっ！	Resna	Yes, ma'am! Resna Sternenlicht, at your service! It would be an honor for you to observe my humble techniques!	蕾斯娜	好、好的！我蕾斯娜·修特涅利希特\n这就冒昧向前辈说明一下！	蕾斯娜	好、好的！請容我蕾斯娜‧修特涅利希特\n為妳進行說明！
+SeasonalTalkEvent_008_006ID	28	Klaudia	クラウディア	今まで売り物を用意するのを優先してきたけど	Klaudia	We've been focusing on selling food up until now...	科洛蒂娅	对了，我们之前都一直在优先准备用于出售的商品……	科洛蒂婭	到目前為止，我們都是優先準備可以販賣的商品。
+SeasonalTalkEvent_008_006ID	29	Klaudia	クラウディア	食べ物に限らず、こういう感じで遊べるものを\n用意して貸し出すのもいいかも……	Klaudia	But preparing other fun experiences for people to enjoy might be a good idea too.	科洛蒂娅	不过除了食物之外，再准备一些这类游乐用具\n用于出租好像也不错……	科洛蒂婭	但不只是食物，像這樣準備一些娛樂用品\n供遊客租借或許也不錯……
+SeasonalTalkEvent_008_007ID	0	Resna	レスナ	よーし、浮き輪完成！	Resna	Woohoo! Swim tube complete!	蕾斯娜	好了，泳圈大功告成！	蕾斯娜	很好～泳圈完成了！
+SeasonalTalkEvent_008_007ID	1	Resna	レスナ	これさえあれば、泳ぐのが得意じゃないお客さんも\n海を楽しめるはず！	Resna	With one of these, even people who aren't good swimmers can play in the water!	蕾斯娜	只要有了这个，不擅长游泳的人也能放心下水！	蕾斯娜	只要有這個，不擅長游泳的客人\n也能享受到海水浴的樂趣了！
+SeasonalTalkEvent_008_007ID	2	Resna	レスナ	海の家で貸し出す前に、私も試しに使ってみようかな	Resna	But before we start renting them out, I'd love to give one a try myself.	蕾斯娜	在放到海边小屋出租之前，我先自己试验一下吧。	蕾斯娜	在拿去海之家出租之前，我也來試用看看吧。
+SeasonalTalkEvent_008_007ID	3	Resna	レスナ	でも、せっかくなら……	Resna	I mean, who knows when I'll get another chance?	蕾斯娜	不过难得有这样的机会，不如……	蕾斯娜	不過，機會難得……
+SeasonalTalkEvent_008_007ID	4		ナレーション	数時間後	Narrator	A few hours later...	旁白	几小时后	旁白	幾個小時後
+SeasonalTalkEvent_008_007ID	5	Resna	レスナ	ライザ先輩、かっこよかったです！	Resna	Oh, Ryza! You're my hero!	蕾斯娜	莱莎前辈，太帅了！	蕾斯娜	萊莎前輩，妳太帥氣了！
+SeasonalTalkEvent_008_007ID	6	Ryza	ライザ	ほめすぎだって、レスナ。\nそんな大したことはしてないし	Ryza	Oh, please, Resna. You're too kind! That was nothing.	莱莎	太夸张啦，蕾斯娜。\n这没什么大不了的。	萊莎	蕾斯娜，妳誇過頭了啦。\n我又沒做什麼了不起的事。
+SeasonalTalkEvent_008_007ID	7	Resna	レスナ	いいえ、ライザ先輩は私の命の恩人です。\n本当にありがとうございました！	Resna	No, I owe you my life. I can't thank you enough for saving me!	蕾斯娜	不，莱莎前辈是我的救命恩人。\n真是太感谢你了！	蕾斯娜	不，萊莎前輩是我的救命恩人。\n真的非常謝謝妳！
+SeasonalTalkEvent_008_007ID	8	Valeria	ヴァレリア	命の恩人って、穏やかじゃないわね。\n何かあったの？	Valeria	What's all this ruckus? Who saved whose life now?	瓦莱莉娅	救命恩人……说得这么严重，\n是出什么事了吗？	瓦萊莉婭	什麼救命恩人，聽起來很嚴重耶。\n發生什麼事了嗎？
+SeasonalTalkEvent_008_007ID	9	Resna	レスナ	実は、私が沖で漂ってるところを\nライザ先輩に助けてもらったの	Resna	Well, I started floating out to sea, and Ryza saved my life!	蕾斯娜	我刚才差点漂到近海，\n多亏了莱莎前辈救了我。	蕾斯娜	是這樣的，我剛才在海上漂流時，\n多虧了萊莎前輩才得救的。
+SeasonalTalkEvent_008_007ID	10	Valeria	ヴァレリア	えっ！　レスナ、泳ぐの得意じゃなかったわよね？\n海は好きだけど、体力がないからって……	Valeria	What were you doing in the water, Resna?! I know you love the sea, but you're not a strong enough swimmer!	瓦莱莉娅	嗯？蕾斯娜你不是不擅长游泳吗？\n我记得你说虽然喜欢大海，但体力不足不太敢去玩……	瓦萊莉婭	咦！蕾斯娜妳很不擅長游泳吧？\n妳說過自己雖然喜歡大海，但體力不好……
+SeasonalTalkEvent_008_007ID	11	Resna	レスナ	うん、だから浮き輪があれば\n遠くまで泳げるんじゃないかと思って	Resna	I thought I'd be all right to swim out a little farther as long as I had my swim tube...	蕾斯娜	是啊，所以我想如果套上泳圈，\n是不是就能游得远一点。	蕾斯娜	嗯，所以我想說只要有泳圈，\n或許就能游到很遠的地方。
+SeasonalTalkEvent_008_007ID	12	Resna	レスナ	浮き輪に動力を付けてみたんだけど、\n途中で動かなくなっちゃって……	Resna	I tried giving the swim tube some propulsion, but then it suddenly stopped working.	蕾斯娜	于是我给泳圈加了驱动装置，\n但半途它就不工作了……	蕾斯娜	我試著給泳圈裝上動力，\n但沒想到在途中就停住不動了……
+SeasonalTalkEvent_008_007ID	13	Resna	レスナ	そのまま波に流されかけていたところを\nライザ先輩に助けてもらったの	Resna	And just when I was about to be washed away, Ryza came to my rescue!	蕾斯娜	我就这么顺着海流越漂越远，\n这时莱莎前辈救了我。	蕾斯娜	我差點就這樣被海浪沖走，\n還好萊莎前輩及時救了我。
+SeasonalTalkEvent_008_007ID	14	Ryza	ライザ	素材を探してたら、\nレスナが流れてくるからびっくりしたよ	Ryza	I was out looking for materials, and all of a sudden, Resna floated on by! She scared me pretty bad!	莱莎	我在那边找素材，\n看到蕾斯娜漂过来还吓了一跳呢。	萊莎	找素材的時候看見蕾斯娜漂了過來，\n真是嚇我一跳。
+SeasonalTalkEvent_008_007ID	15	Resna	レスナ	その節は、\nご迷惑とご心配をおかけいたしました！	Resna	I'm so sorry to have worried you. I promise not to do it again.	蕾斯娜	给前辈添了麻烦，还让前辈担心，\n真是太对不起了！	蕾斯娜	很抱歉那時候給妳添麻煩了，\n還讓妳為我擔心！
+SeasonalTalkEvent_008_007ID	16	Ryza	ライザ	いいって、いいって！　浮き輪に動力を付ける発想\nあたしも面白いと思うし	Ryza	It's fine, you don't need to apologize! Besides, your idea to motorize your swim tube was pretty neat.	莱莎	好啦好啦没关系！\n给泳圈装上驱动装置，这思路我也觉得很有意思。	萊莎	沒關係、沒關係！\n我也覺得給泳圈裝上動力的點子很有趣喔。
+SeasonalTalkEvent_008_007ID	17	Valeria	ヴァレリア	浮き輪に動力か……\nでも、それ失敗したのよね？	Valeria	A motorized swim tube, huh? Too bad it didn't work out.	瓦莱莉娅	给泳圈装上驱动装置……\n不过蕾斯娜不是说失败了吗？	瓦萊莉婭	給泳圈裝上動力啊……\n不過，這個做法失敗了吧？
+SeasonalTalkEvent_008_007ID	18	Resna	レスナ	うん。これなら私でも、思う存分\n海を楽しめると思ったんだけど……	Resna	Yeah... I was hoping I could use it to explore the sea to my heart's content.	蕾斯娜	是的，我还想如果能成功，\n我也能尽情畅游大海……	蕾斯娜	嗯，本來以為這麼做，\n我也能盡情在海裡玩耍了……
+SeasonalTalkEvent_008_007ID	19	Valeria	ヴァレリア	だったら、私に任せて！\n私がレスナの動力になってあげる！	Valeria	If you want to explore, you should've just said so. I'll be your motor!	瓦莱莉娅	那交给我吧。\n我来给蕾斯娜提供动力！	瓦萊莉婭	既然如此，這就交給我吧！\n我來當蕾斯娜的動力！
+SeasonalTalkEvent_008_007ID	20	Resna	レスナ	はあー、楽しかったあ！	Resna	Phew, that was amazing!	蕾斯娜	哇——太开心了！	蕾斯娜	呼～玩得好開心喔！
+SeasonalTalkEvent_008_007ID	21	Ryza	ライザ	あ、おかえり！　どうだった？	Ryza	Oh, welcome back! How was the water?	莱莎	哦，你们回来啦！怎么样？	萊莎	啊，歡迎回來！情況如何？
+SeasonalTalkEvent_008_007ID	22	Resna	レスナ	ヴァレリアに浮き輪を引っ張ってもらって\nあそこの岩場まで行ってきました	Resna	Valeria pulled me around in my swim tube! Thanks to her, we made it all the way out to that rocky area over there!	蕾斯娜	瓦莱莉娅拉着我的泳圈，\n一直游到了那边的礁石。	蕾斯娜	瓦萊莉婭幫忙拉泳圈，\n帶著我一路游到那邊的岩石區了。
+SeasonalTalkEvent_008_007ID	23	Ryza	ライザ	あそこの岩場って……かなり沖のほうだよね。\nあんな遠くまで行ってきたの？	Ryza	You were way out in open waters! Those rocks are pretty far out.	莱莎	那边的礁石……都能称得上是近海了吧。\n竟然游了这么远？	萊莎	那邊的岩石區……離岸邊有一段距離呢。\n妳們去了那麼遠的地方嗎？
+SeasonalTalkEvent_008_007ID	24	Valeria	ヴァレリア	大した距離じゃなかったわよ。\n本気で泳いだわけでもないしね	Valeria	They're not that far. I wasn't swimming for my life or anything.	瓦莱莉娅	也没多远啦。我还没认真游呢。	瓦萊莉婭	沒有多遠啦，\n畢竟又不是拿出全力在游泳。
+SeasonalTalkEvent_008_007ID	25	Ryza	ライザ	分かってはいたけど……\nヴァレリアって、超人的な体力の持ち主よね	Ryza	I knew you were strong, Valeria, but wow. You're practically superhuman.	莱莎	瓦莱莉娅真是体力非凡啊……\n虽然这也不是什么新发现。	萊莎	這一點我是明白啦……\n但瓦萊莉婭的體力超乎常人吧。
+SeasonalTalkEvent_008_007ID	26	Klaudia	クラウディア	そうですね。どんな動力源も\nヴァレリアさんにはかなわないかもしれません……	Klaudia	Right? Even the strongest engines couldn't be a match for Valeria's power.	科洛蒂娅	是啊，什么驱动装置都比不上瓦莱莉娅小姐……	科洛蒂婭	沒錯，無論是哪種動力能源，\n可能都比不上瓦萊莉婭小姐……
+SeasonalTalkEvent_008_007ID	27	Resna	レスナ	浮き輪のほうは改善の余地があるけど、\nまたヴァレリアと泳ぎたいな	Resna	My swim tube design still has plenty of room for improvement, but I really just want to swim with Valeria again!	蕾斯娜	泳圈还有改良余地，\n不过有机会我还想再和瓦莱莉娅一起游泳！	蕾斯娜	雖然泳圈還有改善的空間，\n但希望有機會還能跟瓦萊莉婭一起游泳。
+SeasonalTalkEvent_008_007ID	28	Resna	レスナ	ランターナイルカにでもなったような気分で、\nすっごく楽しかったから！	Resna	Swimming together was so fun, I felt just like a Lantarna dolphin!	蕾斯娜	像是变成了兰塔纳海豚一样，\n真是太开心了！	蕾斯娜	因為超～級好玩的，\n感覺自己變成蘭塔納海豚了呢！
+SeasonalTalkEvent_008_007ID	29	Valeria	ヴァレリア	ふふ、いつでもいいわよ！\n泳ぎたくなったら、一緒に行きましょ	Valeria	Hehe, anytime! Just let me know when you want to go for a swim!	瓦莱莉娅	好啊，我随时都可以！\n想游泳的时候就一起去吧。	瓦萊莉婭	呵呵，隨時都可以喔！\n妳想游泳的時候，我就跟妳一起去吧。
+SeasonalTalkEvent_008_007ID	30	Resna	レスナ	うん！	Resna	Thanks, Valeria!	蕾斯娜	嗯！	蕾斯娜	嗯！
+SeasonalTalkEvent_008_007ID	31	Ryza	ライザ	これはこれで、よかったのかもね。\n浮き輪自体の調合は、ばっちり成功したみたいだし	Ryza	Looks like it all worked out for the best. And the design of the swim tube itself looks perfect!	莱莎	这样也好吧。\n至少泳圈本身的调合看来很成功。	萊莎	這樣或許也不錯呢。\n畢竟泳圈本身的調合成果似乎非常成功。
+SeasonalTalkEvent_008_007ID	32	Klaudia	クラウディア	ふふ、そうだね！	Klaudia	Hehe, agreed!	科洛蒂娅	呵呵，是啊！	科洛蒂婭	呵呵，就是說呀！
+SeasonalTalkEvent_008_007ID	33	Ryza	ライザ	よーし、あたしも貸し出せる遊び道具、\nどんどん作るぞー！	Ryza	Then it's time for me to get to work! I'll make a bunch of rentals for our customers!	莱莎	好，那我也来多做点出租用的游乐用具吧！	萊莎	好～我也要來做一大堆能夠租借的娛樂用品囉～！
+SeasonalTalkEvent_008_008ID	0	Resna	レスナ	この素材、かき氷のシロップに使えそう。\nあれを混ぜれば、さらに甘さが引き立てられて……	Resna	I could probably use this to make shaved ice syrup. Mixing it with other ingredients might bring out the sweetness even more!	蕾斯娜	这个素材应该能用来做刨冰的糖浆。\n和那个混合起来会让甜味更明显……	蕾斯娜	這個素材應該可以用來做刨冰的糖漿。\n只要把那個混進來，感覺更能襯托出甜味……
+SeasonalTalkEvent_008_008ID	1	Ryza	ライザ	レスナ、そっちはどう？\nいい素材見つかった？	Ryza	How's it going, Resna? Find anything useful?	莱莎	蕾斯娜，你那边怎么样？\n找到什么好素材了吗？	萊莎	蕾斯娜，妳那邊情況如何？\n有找到好素材嗎？
+SeasonalTalkEvent_008_008ID	2	Resna	レスナ	はい！\nこの素材で新しいシロップが作れそうです	Resna	I did, actually! I thought I could use this to make a new kind of syrup!	蕾斯娜	找到了！\n我觉得用这个能做出新的糖浆。	蕾斯娜	是的！這個素材應該可以拿來\n做新口味的糖漿。
+SeasonalTalkEvent_008_008ID	3	Ryza	ライザ	観光客も増えてきたし、\nメニューの数も、もっと増やしたいよね	Ryza	Right, now that we have more customers, we'll need to expand our menu too, huh?	莱莎	现在游客更多了，菜单也得再扩充一下。	萊莎	遊客越來越多了，\n菜單的品項也想再豐富一些呢。
+SeasonalTalkEvent_008_008ID	4	Ryza	ライザ	スイカが作れたんだから、\n他にも色々と作れそうだけど……	Ryza	Plus, we managed to make watermelons. I'm sure we can make other things too.	莱莎	能做出西瓜，那应该也能做出别的……	萊莎	西瓜都做得出來了，\n感覺還能做出各式各樣的東西……
+SeasonalTalkEvent_008_008ID	5	Valeria	ヴァレリア	みんな、あそこを見て！　魔物の群れよ！	Valeria	Everyone, look out! There's a swarm of monsters over there!	瓦莱莉娅	你们看那边！那边有大群的魔物！	瓦萊莉婭	大家快看那裡！成群的魔物出現了！
+SeasonalTalkEvent_008_008ID	6	Ryza	ライザ	あー、もう！\nあいつらは呼んでないっての！	Ryza	How rude! We didn't invite any of you!	莱莎	哎呀，真是的！\n我们可没邀请过魔物来玩啊！	萊莎	哎～真是的！\n那些傢伙可沒有受到招待耶！
+SeasonalTalkEvent_008_008ID	7	Ryza	ライザ	あっ！　ちょっと待って！	Ryza	Hey, wait a second!	莱莎	啊！等一下！	萊莎	啊！等一下！
+SeasonalTalkEvent_008_008ID	8	Valeria	ヴァレリア	どうしたの、ライザ	Valeria	What is it, Ryza?	瓦莱莉娅	怎么了，莱莎？	瓦萊莉婭	萊莎，怎麼了？
+SeasonalTalkEvent_008_008ID	9	Ryza	ライザ	ビーチボールを片っ端からぶつければ、\n撃退できるんじゃない？	Ryza	If you spiked a beach ball at the monsters as hard as you could, do you think that would drive them off?	莱莎	用沙滩球一个个砸过去不就能打退它们了吗？	萊莎	用沙灘球一個接一個砸過去，\n就能擊退牠們了吧？
+SeasonalTalkEvent_008_008ID	10	Valeria	ヴァレリア	えっ？　び、ビーチボール？	Valeria	Huh? You want to fight...with beach balls?	瓦莱莉娅	啊？沙、沙滩球？	瓦萊莉婭	咦？沙、沙灘球？
+SeasonalTalkEvent_008_008ID	11	Ryza	ライザ	こんなときのために、海の家で貸し出す用の\nビーチボールを作って持ってきておいたの	Ryza	I actually brought some rental beach balls over just for this kind of occasion.	莱莎	为了应对这种情况，\n我把做来给海边小屋出租的沙滩球带来了。	萊莎	為了這一刻，我特地做了些可在海之家\n出租的沙灘球並帶過來了。
+SeasonalTalkEvent_008_008ID	12	Klaudia	クラウディア	確かにヴァレリアさんとかが本気で打ち込めば、\nそれなりの威力はあるかもしれないけど……	Klaudia	If Valeria put all of her strength into it, I think it could be quite effective.	科洛蒂娅	瓦莱莉娅要是认真扣球，\n或许真有打退魔物的威力……	科洛蒂婭	的確，像瓦萊莉婭小姐只要全力丟出去，\n說不定就會有一定的威力……
+SeasonalTalkEvent_008_008ID	13	Valeria	ヴァレリア	いいわね、普通に戦うよりも楽しそう！\nもっとリゾート気分を満喫できそうだし	Valeria	Sounds a lot more fun than a regular battle, anyway! It'll feel like a resort getaway!	瓦莱莉娅	好啊，听起来比正常战斗有意思！\n这样也更有度假的感觉嘛。	瓦萊莉婭	好主意耶，感覺比一般的戰鬥還好玩！\n而且好像更能享受到度假的氣氛。
+SeasonalTalkEvent_008_008ID	14	Resna	レスナ	え、魔物とリゾート気分で戦うつもりなの？	Resna	Huh? Is your idea of a resort getaway really fighting with monsters?	蕾斯娜	啊？你是准备像度假一样和魔物战斗吗？	蕾斯娜	咦，妳打算帶著度假的心情跟魔物戰鬥嗎？
+SeasonalTalkEvent_008_008ID	15	Ryza	ライザ	まあまあ、いいじゃん！\nとにかくやってみようよ！	Ryza	To each their own, right? Let's just try it out already!	莱莎	不要在意那么多啦！\n总之来试试看吧！	萊莎	沒關係啦，這樣也不錯呀！\n總之就來試試看嘛！
+SeasonalTalkEvent_008_008ID	16	Ryza	ライザ	――よーし、いくよ！	Ryza	Ready? Here we go!	莱莎	好，那就来吧！	萊莎	──好～要上囉！
+SeasonalTalkEvent_008_008ID	17	Valeria	ヴァレリア	えーーーいっ！！	Valeria	Hiii-yah!	瓦莱莉娅	嘿——！！	瓦萊莉婭	看我的────！！
+SeasonalTalkEvent_008_008ID	18		魔物	ギャアアアア！	Monster	Gyaaah!	魔物	嘎啊啊啊啊啊！	魔物	嘎啊啊啊啊！
+SeasonalTalkEvent_008_008ID	19	Ryza	ライザ	す、すごい！　魔物を一撃で仕留めた！	Ryza	Whoa, it worked! You stopped that monster in its tracks!	莱莎	好厉害！一球就把魔物打倒了！	萊莎	好、好厲害！一球就解決掉魔物了！
+SeasonalTalkEvent_008_008ID	20	Valeria	ヴァレリア	まだまだ、こんなもんじゃないわよ！\nどりゃあああーー！！	Valeria	There's more where that came from! Hraaah!	瓦莱莉娅	这怎么能算完呢！\n看招——！！	瓦萊莉婭	還沒完呢，這根本不算什麼！\n嘿呀啊啊啊──！！
+SeasonalTalkEvent_008_008ID	21		魔物	ギャアアアア！	Monster	Gyaaah!	魔物	嘎啊啊啊啊啊！	魔物	嘎啊啊啊啊！
+SeasonalTalkEvent_008_008ID	22	Ryza	ライザ	レスナ、もっとボールを！	Ryza	Resna, we need more beach balls!	莱莎	蕾斯娜，继续传球给我！	萊莎	蕾斯娜，多拿點球過來！
+SeasonalTalkEvent_008_008ID	23	Resna	レスナ	は、はいっ！	Resna	O-Okay!	蕾斯娜	好、好的！	蕾斯娜	好、好的！
+SeasonalTalkEvent_008_008ID	24	Valeria	ヴァレリア	これで、とどめよ！\nはああああーーっ！	Valeria	This match is over! Haaah!	瓦莱莉娅	最后一击！\n喝啊——！	瓦萊莉婭	用這一球做個了結！\n喝啊啊啊啊──！
+SeasonalTalkEvent_008_008ID	25	Valeria	ヴァレリア	ふうっ、討伐完了っと！\nいい運動になったわねー	Valeria	Phew, that takes care of them! I should've thanked them for the workout.	瓦莱莉娅	好了，讨伐完毕！\n筋骨也都活动开了～	瓦萊莉婭	呼～討伐完畢！\n好好活動一番筋骨了呢～
+SeasonalTalkEvent_008_008ID	26	Klaudia	クラウディア	落ちてたボールを全部、回収してきたよ。\nすごい衝撃だったけど破れてないかな？	Klaudia	I collected all of the balls we used in the fight. But Valeria was really slamming those things... Are you sure none of them popped?	科洛蒂娅	丢出去的球也都找回来了。\n刚才冲击力那么强，球有没有破啊？	科洛蒂婭	掉在地上的球全都撿回來囉。\n撞擊的力道很大，不知道有沒有破掉？
+SeasonalTalkEvent_008_008ID	27	Resna	レスナ	ご心配には及びません。こういうこともあろうかと\n丈夫に作っておきましたから！	Resna	No need to worry about that! I thought this might happen, so I made sure all the beach balls were nice and durable!	蕾斯娜	这个不用担心，我早有预感，\n所以下了功夫把球做得特别结实！	蕾斯娜	不用擔心。我已經預想到這種情況，\n所以做得很結實耐用喔！
+SeasonalTalkEvent_008_008ID	28	Klaudia	クラウディア	すごい……どれも無傷だ……	Klaudia	Incredible... Not a single scratch on them.	科洛蒂娅	真厉害……竟然没有一点损伤……	科洛蒂婭	好厲害……每顆都完好無損……
+SeasonalTalkEvent_008_008ID	29	Resna	レスナ	はい！　魔物が来ても、またすぐに\nこのビーチボールで追い払えますねっ	Resna	Exactly! So if more monsters show up, we'll just chase them off with our trusty beach balls.	蕾斯娜	嗯！就算有魔物来袭，\n我们也能马上用这些沙滩球把它们打跑。	蕾斯娜	是的！再有魔物跑來，\n我們還是能立刻用這些沙灘球趕走牠們喔！
+SeasonalTalkEvent_008_008ID	30	Klaudia	クラウディア	浮き輪を２点、ビーチボールを１点ですね。\n少々お待ちください	Klaudia	All right, two swim tubes and one beach ball. I'll have those for you in just a moment.	科洛蒂娅	要两个泳圈，一个沙滩球对吧。\n请您稍等。	科洛蒂婭	您要租2個泳圈、1顆沙灘球對吧，\n請稍等一下。
+SeasonalTalkEvent_008_008ID	31	Valeria	ヴァレリア	お客さん、だいぶ増えたわね	Valeria	Business is really taking off, huh?	瓦莱莉娅	游客越来越多了啊。	瓦萊莉婭	遊客變得好多喔。
+SeasonalTalkEvent_008_008ID	32	Resna	レスナ	そうだね。食べ物の売り上げも、遊び道具の貸し出しも\nかなりの評判みたい	Resna	It really is. Between our food sales and gear rentals, we've been the talk of Haine!	蕾斯娜	是啊，食物都在热卖，\n出租的游乐用具也广受好评。	蕾斯娜	對啊，不只食物賣得很好，\n娛樂用品似乎也大受好評的樣子。
+SeasonalTalkEvent_008_008ID	33	Valeria	ヴァレリア	ただ、今の設備じゃ提供が追い付かなさそうね。\nそろそろ本格的な屋台を構えてもいいんじゃない？	Valeria	Soon we won't be able to keep up. Maybe it's about time we built a better place for business? A stall, at least?	瓦莱莉娅	不过靠现在这点设备，要赶不上销售的速度了。\n是时候搭建正式的摊位了吧？	瓦萊莉婭	但光憑目前的設備，可能會出現供不應求的問題。\n差不多也該正式搭個攤位了吧？
+SeasonalTalkEvent_008_008ID	34	Resna	レスナ	確かに、そうだね……。\nどうやって作るか、ライザ先輩と相談してみる	Resna	I think you're right. Ryza might be able to help us with that. Let's ask her!	蕾斯娜	也是……我去和莱莎前辈商量一下要怎么做。	蕾斯娜	的確是這樣……\n我去找萊莎前輩討論看看要怎麼做。
+SeasonalTalkEvent_008_009ID	0	Resna	レスナ	かき氷用の素材、補充してきました！	Resna	We're all restocked with everything we need for shaved ice!	蕾斯娜	刨冰的素材补充完了哦！	蕾斯娜	補充好刨冰用的素材了！
+SeasonalTalkEvent_008_009ID	1	Resna	レスナ	わぁ、すごい行列……！	Resna	Oh my goodness... Look at all of those customers!	蕾斯娜	哇，好多人排队……！	蕾斯娜	哇，大排長龍耶……！
+SeasonalTalkEvent_008_009ID	2	Klaudia	クラウディア	屋台のおかげで、ますますお客さんが増えたんです	Klaudia	Now that we have a stall, we're getting even more popular!	科洛蒂娅	建好小摊后，来买东西的顾客更多了。	科洛蒂婭	拜攤位所賜，上門的客人越來越多了呢。
+SeasonalTalkEvent_008_009ID	3	Ryza	ライザ	そろそろあたしたちの接客だけじゃ間に合わないかも	Ryza	Pretty soon we're going to need more servers! We won't be enough!	莱莎	光靠我们来接待，人手可能不太够。	萊莎	只靠我們幾個接待客人，好像快要應付不過來了。
+SeasonalTalkEvent_008_009ID	4	Ryza	ライザ	そうだ、レスナもここに立ってみる？	Ryza	Hey, Resna! Could you come here and help out?	莱莎	对了，蕾斯娜你也来试试？	萊莎	對了，蕾斯娜要不要也站在這裡看看？
+SeasonalTalkEvent_008_009ID	5	Resna	レスナ	ええっ、私がですか！？	Resna	What?! M-Me?!	蕾斯娜	什么，我吗？！	蕾斯娜	什麼，我嗎！？
+SeasonalTalkEvent_008_009ID	6	Resna	レスナ	（うう、自信ないけど、\n　皆さんの力にはなりたい……！）	Resna	(Oh no, I'm so nervous... But I have to come through for everyone!)	蕾斯娜	（呜，我对接待工作没什么信心，\n　但是我想帮大家分担压力……！）	蕾斯娜	（唔唔，雖然沒有自信，\n　但我想要幫上大家的忙……！）
+SeasonalTalkEvent_008_009ID	7	Resna	レスナ	いらっしゃいませ、海の家へようこそー！	Resna	Welcome to our beach house!	蕾斯娜	欢迎光临海边小屋～！	蕾斯娜	歡迎光臨海之家～！
+SeasonalTalkEvent_008_009ID	8		客A	かき氷を注文したいんだけど……	Customer A	Hey, shaved ice sounds pretty good.	客人A	我想要个刨冰……	顧客A	我想要點刨冰……
+SeasonalTalkEvent_008_009ID	9	Resna	レスナ	はい、ありがとうございます！\nシロップはいかがいたしますか？	Resna	Yes, great choice! What kind of syrup would you like?	蕾斯娜	好的，谢谢惠顾！\n您想要配哪种糖浆呢？	蕾斯娜	好的，感謝您！\n糖漿要選哪一種的呢？
+SeasonalTalkEvent_008_009ID	10		客A	うーん、色々あって迷うなあ。\nお姉さんのおすすめとかある？	Customer A	Hmm, that's tough. There are a bunch of flavors... Which one is your favorite?	客人A	唔，种类好多啊。\n小姐姐你有什么推荐吗？	顧客A	唔～種類好多，不知道要挑哪種耶。\n小姐有推薦的嗎？
+SeasonalTalkEvent_008_009ID	11	Resna	レスナ	そうですね、それでしたら……	Resna	Oh, my favorite? Well...	蕾斯娜	我的推荐啊……	蕾斯娜	這個嘛，要我推薦的話……
+SeasonalTalkEvent_008_009ID	12	Resna	レスナ	この特製錬金術シロップはいかがですか？\n５種の果物を絶妙な加減で組み合わせて	Resna	I recommend the Deluxe Alchemical Syrup! There are five fruity flavors blended to delicious perfection!	蕾斯娜	这个特制炼金术糖浆怎么样？\n完美搭配了五种水果！	蕾斯娜	這個特製鍊金術糖漿如何呢？\n這是將5種水果以黃金比例組合起來……
+SeasonalTalkEvent_008_009ID	13	Resna	レスナ	甘味、酸味、後味と、\n味覚にこだわり抜いた一品なんです！	Resna	It's the ideal balance of sweet and sour with a delightful aftertaste!	蕾斯娜	它对口味有着至高追求，\n经过精心调制，融合了甜和酸，回味无穷！	蕾斯娜	在甜味、酸味、後韻等味覺上\n極為講究的一種糖漿！
+SeasonalTalkEvent_008_009ID	14	Resna	レスナ	こちらのイチゴシロップは錬金術で粒々のないイチゴを\n調合したことにより舌触りが非常に良くっ……！	Resna	Or how about our strawberry syrup? We synthesized seedless strawberries with alchemy so that the syrup would be perfectly smooth.	蕾斯娜	还有这个草莓糖浆，用炼金术调合了无籽草莓，\n口感非常柔滑……！	蕾斯娜	而這個草莓糖漿是利用鍊金術調合出了無籽草莓，\n口感非常棒……！
+SeasonalTalkEvent_008_009ID	15		客A	え、あの、えっと――	Customer A	Oh, huh, that's, uh—	客人A	哦，这个，我想想——	顧客A	咦，那個，呃──
+SeasonalTalkEvent_008_009ID	16	Resna	レスナ	こちらのオレンジシロップは、私の尊敬する\nライザ先輩が考案したものなのですがっ……！	Resna	Of course, you could also go with our orange syrup! This recipe was designed by one of the most respected alchemists out there, Ryza Stout!	蕾斯娜	还有这个橘子糖浆，\n是我尊敬的莱莎前辈想出来的……！	蕾斯娜	這個橘子糖漿呢，\n是我很尊敬的萊莎前輩發明出來的……！
+SeasonalTalkEvent_008_009ID	17	Ryza	ライザ	ちょっと、レスナレスナ！	Ryza	Whoa, Resna! Slow down!	莱莎	喂喂喂，蕾斯娜！蕾斯娜！	萊莎	等一下，蕾斯娜、蕾斯娜！
+SeasonalTalkEvent_008_009ID	18	Resna	レスナ	……はっ！？　ライザ先輩？\nどうかしましたか？	Resna	Huh? Ryza! Is something the matter?	蕾斯娜	啊……？！莱莎前辈，怎么了？	蕾斯娜	……啊！？萊莎前輩？\n怎麼了嗎？
+SeasonalTalkEvent_008_009ID	19	Ryza	ライザ	どうかしましたか、じゃないよ。\nお客さんが困っちゃってる	Ryza	Uh, yeah! You're overwhelming our customer.	莱莎	什么怎么了，你看看，顾客都呆住了。	萊莎	還問我怎麼了。\n客人都感到不知所措了。
+SeasonalTalkEvent_008_009ID	20		客A	…………	Customer A	...	客人A	……	顧客A	…………
+SeasonalTalkEvent_008_009ID	21	Resna	レスナ	も、申し訳ありませんっ！\nかき氷の良さを伝えようと思ったら、つい……	Resna	Oh, I'm terribly sorry! I was so excited to talk about our special shaved ice, I got a bit carried away...	蕾斯娜	对、对不起！我想详细讲解各种刨冰的优点，\n忍不住又说个没完了……	蕾斯娜	非、非常抱歉！太想要讓客人了解我們的\n刨冰有多棒，不小心就……
+SeasonalTalkEvent_008_009ID	22	Ryza	ライザ	一生懸命なのがレスナのいいところだけど、\nもっと力を抜いて大丈夫だから	Ryza	You always give your all in everything you do. I love that about you, but you should relax sometimes.	莱莎	事事全力以赴是你的优点，\n但有时候放松一点也没关系的。	萊莎	雖然全力以赴是妳的優點，\n但再稍微放鬆一點也沒關係的。
+SeasonalTalkEvent_008_009ID	23	Resna	レスナ	は、はい。\nご指導ありがとうございます	Resna	O-Okay, I'll try. I really appreciate all of your help!	蕾斯娜	我、我知道了。谢谢前辈提点。	蕾斯娜	好、好的。\n謝謝前輩指點。
+SeasonalTalkEvent_008_009ID	24	Ryza	ライザ	お客様、お待たせしてすみません。\n当店一番人気は特製錬金術シロップですが	Ryza	Sorry to have kept you waiting. Our shop's most popular flavor is our Deluxe Alchemical Syrup.	莱莎	这位顾客，抱歉让您久等了。\n本店最热销的是特制炼金术糖浆……	萊莎	這位客人，不好意思讓您久等了。\n雖然本店賣最好的是特製鍊金術糖漿……
+SeasonalTalkEvent_008_009ID	25	Ryza	ライザ	あたしのおすすめは、新作のオレンジシロップです。\n爽やかな酸味が火照った身体に心地よく染み渡りますよ	Ryza	But my personal favorite is our new orange flavor. Its fresh, tart taste is perfect to help you cool off on a sunny day.	莱莎	不过我个人推荐新品橘子糖浆。\n晒完太阳，清爽的酸味沁人心扉，能让人感受到舒爽哦。	萊莎	但我推薦您試試新推出的橘子糖漿。\n清爽的酸味會滲透發燙的身體，很暢快喔。
+SeasonalTalkEvent_008_009ID	26		客A	それは、美味しそうだね。\nじゃあ、オレンジシロップでお願いするよ	Customer A	Mmm, that sounds great. I'll try one with orange syrup, then.	客人A	听上去很不错啊。\n那我就要橘子糖浆吧。	顧客A	聽起來很好吃呢。\n那麼，我就點橘子糖漿吧。
+SeasonalTalkEvent_008_009ID	27	Ryza	ライザ	はい、ありがとうございます！\nクラウディア、オレンジかき氷１つー！	Ryza	Thank you, coming right up! Klaudia, one orange shaved ice, please!	莱莎	好的，谢谢惠顾！\n科洛蒂娅，一份橘子刨冰！	萊莎	好的，非常感謝您！\n科洛蒂婭，橘子刨冰1份～！
+SeasonalTalkEvent_008_009ID	28	Resna	レスナ	（さすがライザ先輩。\n　私も、ライザ先輩を見習って頑張らなきゃ！）	Resna	(Wow, Ryza is a real pro. I need to learn as much as I can from her.)	蕾斯娜	（真不愧是莱莎前辈。\n　我也要好好学习莱莎前辈的接待技巧！）	蕾斯娜	（真不愧是萊莎前輩。\n　我也得好好努力，要向她看齊才行！）
+SeasonalTalkEvent_008_009ID	29		客B	お、おい！　あれって、魔物じゃないか！？	Customer B	Wh-Whoa! Look out, a monster!	客人B	喂，你们看！那是魔物吗？！	顧客B	喂、喂！那不是魔物嗎！？
+SeasonalTalkEvent_008_009ID	30		客C	きゃーー！　\nこっちに向かってきてるわ！	Customer C	Eeeek! It's coming this way!	客人C	哇呀——！\n魔物笔直地朝这边来了！	顧客C	呀啊──！\n朝這邊過來了！
+SeasonalTalkEvent_008_009ID	31	Valeria	ヴァレリア	あれは……島魚！\nこの海の家と観光客を狙って来たのね！？	Valeria	An island fish! It must be after the customers!	瓦莱莉娅	那是……岛鱼！\n是盯上了海边小屋和游客吗？！	瓦萊莉婭	那是……島魚！\n是衝著這個海之家和遊客來的吧！？
+SeasonalTalkEvent_008_009ID	32	Resna	レスナ	皆さんは下がってください！\nこの海の家は、私たちが守ります！	Resna	Everyone, please stand back! We'll protect this beach house and everyone in it!	蕾斯娜	大家先退后！\n我们会守护这个海边小屋！	蕾斯娜	請大家退後！\n這個海之家由我們來守護！
+SeasonalTalkEvent_008_010ID	0	Resna	レスナ	……あの、皆さん。\nなんだか島魚の様子がおかしくないですか？	Resna	Um, I was thinking... Wasn't that island fish acting a little strange?	蕾斯娜	我说……你们看，\n这些岛鱼给人的感觉是不是不太一样？	蕾斯娜	……那個，各位。\n島魚的樣子是不是有點怪怪的呢？
+SeasonalTalkEvent_008_010ID	1	Valeria	ヴァレリア	そうね、私たちに対する殺気をまったく感じないわ。\nむしろ楽しそうにすら見える……でも、どうして？	Valeria	Yeah, I didn't feel a hint of anger or bloodlust. It actually seemed kind of happy. But why?	瓦莱莉娅	是啊，一点都感觉不到杀气。\n看上去反而还开开心心的……为什么呢？	瓦萊莉婭	對啊，沒有感受到牠們對我們有半分殺意。\n倒不如說看起來還滿開心的……不過，這是為什麼？
+SeasonalTalkEvent_008_010ID	2	Ryza	ライザ	もしかして……\nあたしたちに構ってほしかっただけ、とか？	Ryza	It almost seemed like it just wanted to get our attention...	莱莎	难道是……想让我们陪它们玩？	萊莎	該不會……\n只是想跟我們一起玩之類的？
+SeasonalTalkEvent_008_010ID	3		島魚	キュイー！	Island Fish	Squee!	岛鱼	咕咿——！	島魚	啾！
+SeasonalTalkEvent_008_010ID	4	Klaudia	クラウディア	え？　これって、ビーチボール？\nこれで遊んでほしいの？	Klaudia	Huh, a beach ball? Do you want to play with us?	科洛蒂娅	咦？这是……沙滩球？\n你想玩这个吗？	科洛蒂婭	咦？這不是沙灘球嗎？\n想要我們和你一起玩球嗎？
+SeasonalTalkEvent_008_010ID	5		島魚	キュイキュイー！	Island Fish	Squee-eee!	岛鱼	咕咿咕咿——！	島魚	啾啾！
+SeasonalTalkEvent_008_010ID	6	Valeria	ヴァレリア	そういうことなら、話が早いわ！\nみんなで思いっきり遊んじゃいましょう！	Valeria	Sure, why didn't you say so? Let's all play our hearts out!	瓦莱莉娅	这样啊，那好说！\n大家一起玩个痛快吧！	瓦萊莉婭	早說嘛，那還不簡單！\n我們大家一起玩個過癮吧！
+SeasonalTalkEvent_008_010ID	7	Resna	レスナ	うわあ、速い速い！\n島魚さん、すごいです！	Resna	Whoaaa, so fast! You're something else, Mr. Island Fish!	蕾斯娜	哇，好快好快！岛鱼好厉害啊！	蕾斯娜	哇！好快哦！\n島魚好厲害！
+SeasonalTalkEvent_008_010ID	8		島魚	キュイー！	Island Fish	Squee!	岛鱼	咕咿——！	島魚	啾！
+SeasonalTalkEvent_008_010ID	9	Ryza	ライザ	クラウディア、\nこっちにビーチボール投げてー！	Ryza	Klaudia, over here! Pass me the ball!	莱莎	科洛蒂娅！把沙滩球扔过来！	萊莎	科洛蒂婭！\n把球丟給我──！
+SeasonalTalkEvent_008_010ID	10	Klaudia	クラウディア	うん！　そーれっ！	Klaudia	Here, it's all yours!	科洛蒂娅	好！接着！	科洛蒂婭	好！看我的──！
+SeasonalTalkEvent_008_010ID	11		島魚	キュイキュイー！	Island Fish	Squee-eee!	岛鱼	咕咿咕咿——！	島魚	啾啾！
+SeasonalTalkEvent_008_010ID	12	Ryza	ライザ	あっ、横取りされた！	Ryza	Hey! You little thief!	莱莎	啊，被抢走了！	萊莎	啊，被搶走了！
+SeasonalTalkEvent_008_010ID	13		島魚	キュキュキューッ！	Island Fish	Squee-eee-eee!	岛鱼	咕咕咕——！	島魚	啾啾啾！
+SeasonalTalkEvent_008_010ID	14	Klaudia	クラウディア	ふふ、楽しそう！\nやっぱり、私たちと遊びたかったんだね	Klaudia	Hehe, it looks so happy! The island fish just wanted to play with us after all.	科洛蒂娅	哈哈，它们好开心啊！\n看来的确只是来和我们玩的。	科洛蒂婭	呵呵，牠好像很高興呢！\n看來牠果然是想和我們一起玩耶。
+SeasonalTalkEvent_008_010ID	15	Valeria	ヴァレリア	よーし、向こうの沖まで私と競争よ。\nどっちが勝つか、真剣勝負っ！	Valeria	Ready for a real challenge? You and me are going to race to the open waters out there. First one there wins!	瓦莱莉娅	好，那和我比比看谁先游到前方近海吧。\n要尽全力哦！	瓦萊莉婭	好！那我們來比賽看誰先游到對面的海岸。\n誰輸誰贏和我一較高下吧！
+SeasonalTalkEvent_008_010ID	16		島魚	キュイー！！	Island Fish	Squee!	岛鱼	咕咿——！	島魚	啾！！
+SeasonalTalkEvent_008_010ID	17	???	？？？	――おーい、レスナ、ヴァレリアー！	???	Ahoooy there! Resna! Valeria!	？？？	喂——！蕾斯娜、瓦莱莉娅！	？？？	──喂～蕾斯娜、瓦萊莉婭～！
+SeasonalTalkEvent_008_010ID	18	Resna	レスナ	あれ？　この声って……	Resna	Huh? That voice...	蕾斯娜	咦？这声音好像是……	蕾斯娜	咦？這個聲音是……
+SeasonalTalkEvent_008_010ID	19	Resna	レスナ	ランツェさん！　それにイザナちゃんたちも！\n皆さんも遊びに来たんですね	Resna	It's Lanze! And Izana, too! You brought everyone to come and play with us!	蕾斯娜	是兰泽先生，还有伊札娜！\n你们也来玩了啊。	蕾斯娜	藍澤先生！還有伊札娜妳們也在！\n大家都來玩了啊。
+SeasonalTalkEvent_008_010ID	20	Izana	イザナ	レスナちゃーん！　会いたかった……って、えっ！？\nま、魔物！？　レスナちゃん、危ない！	Izana	Oh, Resna! I missed you sooo much! We came to—whoa! L-Look out! A monster!	伊札娜	蕾斯娜！我好想你……咦？！\n魔、魔物？！蕾斯娜，小心！	伊札娜	蕾斯娜～！我好想妳……咦！？\n有、有魔物！？蕾斯娜，危險！
+SeasonalTalkEvent_008_010ID	21	Resna	レスナ	あ、この子たちは島――	Resna	Oh, this little one is an isla—	蕾斯娜	哦，它们是岛——	蕾斯娜	啊，牠們是島──
+SeasonalTalkEvent_008_010ID	22	Izana	イザナ	このアタシが相手だ！\nレスナちゃんはアタシが守る！	Izana	Whatever it is, it's going to have to get through me first! I won't let it lay a fin on you, Resna!	伊札娜	我来当你们的对手！\n蕾斯娜就由我来保护！	伊札娜	我來當你們的對手！\n蕾斯娜就由我來守護！
+SeasonalTalkEvent_008_010ID	23		島魚	キュイー？	Island Fish	Squee?	岛鱼	咕咿？	島魚	啾～？
+SeasonalTalkEvent_008_010ID	24	Lanze	ランツェ	おいおい、落ち着けって。この海域に棲むこいつらは\n魔物とはいえ、人懐っこいから大丈夫だ	Lanze	Hey now, calm down! Island fish are technically monsters, but they don't mean us any harm. In fact, they're pretty friendly.	兰泽	你冷静点。栖息在这片海域的魔物\n实际上非常亲人，一点都不危险。	藍澤	喂喂，冷靜點。這些傢伙雖然是魔物，\n但棲息在這片海域的物種很親人，不必擔心。
+SeasonalTalkEvent_008_010ID	25	Lanze	ランツェ	頭の辺りをこんな感じで撫でてやれば、ほら	Lanze	Give 'em a little pat on the head and you'll have a new best friend! See?	兰泽	你可以这样摸摸它们的脑袋试试。	藍澤	看吧，只要像這樣摸摸牠們的頭就好。
+SeasonalTalkEvent_008_010ID	26		島魚	キュイ～♪	Island Fish	Squee!	岛鱼	咕咿～	島魚	啾～！
+SeasonalTalkEvent_008_010ID	27	Resna	レスナ	イザナちゃんも撫でてあげて。\n人間のことが大好きみたいなの	Resna	Go ahead and pet it, Izana! This little one loves humans.	蕾斯娜	伊札娜你也来摸一摸吧。\n它们很喜欢人类。	蕾斯娜	伊札娜，妳也摸摸看吧。\n牠們好像非常喜歡人類呢。
+SeasonalTalkEvent_008_010ID	28	Heidi	ハイディ	ほ、本当に……？	Heidi	R-Really?	海蒂	真、真的吗……？	海蒂	真、真的嗎……？
+SeasonalTalkEvent_008_010ID	29	Izana	イザナ	れ、レスナちゃんが、そう言うなら……\nちょっとだけ撫でてみようかな	Izana	O-Okay, if you really think it's all right to pet it, then I'll give it a try...	伊札娜	既然蕾斯娜都这么说了……\n我就稍微摸一下吧。	伊札娜	既、既然蕾斯娜都這麼說了……\n那我就稍微摸摸看好了。
+SeasonalTalkEvent_008_010ID	30		島魚	キュイキュイー！	Island Fish	Squee-eee!	岛鱼	咕咿咕咿——！	島魚	啾啾！
+SeasonalTalkEvent_008_010ID	31	Roman	ロマン	島魚と触れ合える海か……\nこれは新たな観光資源となりそうだね	Roman	Wow, a beach where you can make friends with island fish... This kind of spectacle will bring visitors from all over.	罗曼	能近距离接触岛鱼的海域……\n我认为这有成为新观光资源的潜力。	羅曼	可以跟島魚互動的海域啊……\n看來能成為新的觀光資源呢。
+SeasonalTalkEvent_008_010ID	32	Roman	ロマン	みんなのおかげでだいぶ観光客が戻ってきたようだけど\n本来の活気を取り戻すためにはまだ足りないな	Roman	Things have come a long way thanks to everyone's hard work, but there's still much to be done to revitalize this area.	罗曼	在大家努力下，游客数量已经恢复了不少，\n不过现在与曾经的盛况仍有差距。	羅曼	多虧大家的幫忙，有越來越多遊客回來了。\n但好像還不足以讓這裡恢復以往的活力。
+SeasonalTalkEvent_008_010ID	33	Roman	ロマン	うーん。他に何か手はないものか……	Roman	Hmm... What else could we do to bring people back?	罗曼	唔，还有什么别的办法吗……	羅曼	嗯……有沒有其他辦法呢……？

@@ -1,0 +1,267 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+CharacterEvent_001_NPC9_001ID	0	Diona	ディオーナ	……ご清聴ありがとうございました						
+CharacterEvent_001_NPC9_001ID	1		観客A	うおおお今日も良かったぞー！　歌姫ー！						
+CharacterEvent_001_NPC9_001ID	2		観客B	なんて魂を揺さぶる歌なんだ……\n涙が止まらねえぜ！						
+CharacterEvent_001_NPC9_001ID	3		観客C	ねえ知ってる？　ディオーナは歌う時の衣装も\n自分で作ってるんだって						
+CharacterEvent_001_NPC9_001ID	4		観客D	イケてるよね！　歌唱力だけじゃなくて、\n意匠設計の才能もあるなんて！						
+CharacterEvent_001_NPC9_001ID	5		観客E	次の公演も楽しみ！\nああ、早くディオーナにまた会いたいわ！						
+CharacterEvent_001_NPC9_001ID	6	Diona	ディオーナ	……						
+CharacterEvent_001_NPC9_001ID	7		劇場支配人	おお、ディオーナ。おつかれさま						
+CharacterEvent_001_NPC9_001ID	8	Diona	ディオーナ	支配人。おつかれさまです						
+CharacterEvent_001_NPC9_001ID	9		劇場支配人	いやー、今日も大盛況だね。歌姫さまさまだ。\nこの調子で今後ともよろしく頼むよ						
+CharacterEvent_001_NPC9_001ID	10	Diona	ディオーナ	ありがとうございます。\nもっと精進したいと思います						
+CharacterEvent_001_NPC9_001ID	11		劇場支配人	それにしても、時が経つのは早いものだな。\n君のお父さんには世話になっていたが、今は娘の時代か						
+CharacterEvent_001_NPC9_001ID	12		劇場支配人	歌手の父に、意匠設計の名人である母。\nそんなご両親のもとに生まれた歌姫						
+CharacterEvent_001_NPC9_001ID	13		劇場支配人	今や君は誰もがうらやむ一番星だ。\nどうだい、遥か高みから見える景色は。何が見える？						
+CharacterEvent_001_NPC9_001ID	14	Diona	ディオーナ	景色……						
+CharacterEvent_001_NPC9_001ID	15	Diona	ディオーナ	……今はまだ、何も見えません						
+CharacterEvent_001_NPC9_001ID	16		劇場支配人	そうか、その答えもなんだか「深い」ね、さすが歌姫						
+CharacterEvent_001_NPC9_001ID	17		劇場支配人	……飯でも食いに行くか？						
+CharacterEvent_001_NPC9_001ID	18	Diona	ディオーナ	いえ。父と母が家で待っていますので						
+CharacterEvent_001_NPC9_001ID	19		劇場支配人	おお、そうか。じゃあ、またな。\n今日はゆっくり休め						
+CharacterEvent_001_NPC9_001ID	20	Diona	ディオーナ	はい						
+CharacterEvent_001_NPC9_001ID	21	Diona	ディオーナ	（高名な父と母に教育を施され、歌手としての素質も、\n　意匠設計者としての素質も手に入れ……）						
+CharacterEvent_001_NPC9_001ID	22	Diona	ディオーナ	（今私は、ヴィアベル州を代表する歌姫として\n　名を馳せるようになった）						
+CharacterEvent_001_NPC9_001ID	23	Diona	ディオーナ	（誰もが言うだろう。私の人生は万事がうまく\n　行っていると）						
+CharacterEvent_001_NPC9_001ID	24	Diona	ディオーナ	（……私もそう思う）						
+CharacterEvent_001_NPC9_001ID	25	Diona	ディオーナ	（しかし……私が一番星だというのなら、\n　私は何を照らすために在るのだろう？）						
+CharacterEvent_001_NPC9_001ID	26	Diona	ディオーナ	（私が見下ろす世界には、何もない。何も見えない）						
+CharacterEvent_001_NPC9_001ID	27	Diona	ディオーナ	（……もっと、燃え上がる何かが欲しい）						
+CharacterEvent_001_NPC9_001ID	28	Diona	ディオーナ	（私の為の道を作ってもらい、それを順調に進み）						
+CharacterEvent_001_NPC9_002ID	0	Mieke	ミーケ	今日はもう店じまい……あ、ディオたん！						
+CharacterEvent_001_NPC9_002ID	1	Diona	ディオーナ	こんにちは。遊びに来たわ						
+CharacterEvent_001_NPC9_002ID	2	Mieke	ミーケ	ようこそようこそ！\nお茶淹れるよ！　ゆっくりしてて！						
+CharacterEvent_001_NPC9_002ID	3	Diona	ディオーナ	ミーケちゃん、最近忙しそう。\nミーケちゃんの作る装飾が素晴らしいからね						
+CharacterEvent_001_NPC9_002ID	4	Mieke	ミーケ	まあねぃー！　これもビッグな未来への第一歩だよ						
+CharacterEvent_001_NPC9_002ID	5	Diona	ディオーナ	……前ほどゆっくりお茶ができなくなって寂しいわ						
+CharacterEvent_001_NPC9_002ID	6	Mieke	ミーケ	それを言ったらディオたんだって、\n色んな所の劇場から引っ張りだこじゃん！						
+CharacterEvent_001_NPC9_002ID	7	Mieke	ミーケ	遠くの劇場に出かけることだって多くなったし						
+CharacterEvent_001_NPC9_002ID	8	Diona	ディオーナ	そうね。ありがたいことに、\n聞いてくれる人がたくさんいるみたい						
+CharacterEvent_001_NPC9_002ID	9	Mieke	ミーケ	勝手に行っちゃヤダー！　全部行く前に連絡して！						
+CharacterEvent_001_NPC9_002ID	10	Diona	ディオーナ	もう、わがまま言わないの						
+CharacterEvent_001_NPC9_002ID	11	Mieke	ミーケ	まあでも、そっかー。ディオたんのほうは順調なんだね						
+CharacterEvent_001_NPC9_002ID	12	Diona	ディオーナ	……どうなんだろう						
+CharacterEvent_001_NPC9_002ID	13	Mieke	ミーケ	え？　順調でしょ？　歌姫としてビッグになってるし、\n意匠設計の才能だって認められてるし						
+CharacterEvent_001_NPC9_002ID	14	Diona	ディオーナ	それはそうなんだけど……						
+CharacterEvent_001_NPC9_002ID	15	Diona	ディオーナ	時々ね。私、なんのために歌ってるんだろうなって\n思うの						
+CharacterEvent_001_NPC9_002ID	16	Diona	ディオーナ	歌も好きだし、綺麗な服を作るのも好きだけど。\nでも、それが何になるんだろうって						
+CharacterEvent_001_NPC9_002ID	17	Diona	ディオーナ	……ぜいたくな悩みだっていうのは\n分かってるんだけどね						
+CharacterEvent_001_NPC9_002ID	18	Mieke	ミーケ	ディオたんもそういう悩み、あったんだね。\nぜんぜん知らなかった						
+CharacterEvent_001_NPC9_002ID	19	Diona	ディオーナ	そういうミーケちゃんは順調じゃないの？						
+CharacterEvent_001_NPC9_002ID	20	Mieke	ミーケ	……うん。なんかね。お役人がめんどくさい\nお仕事を持ちかけてきてる						
+CharacterEvent_001_NPC9_002ID	21	Mieke	ミーケ	めんどくさいなーって						
+CharacterEvent_001_NPC9_002ID	22	Diona	ディオーナ	なんともならないの？　私ができることはある？\nなんだか、燃えてきたわ						
+CharacterEvent_001_NPC9_002ID	23	Mieke	ミーケ	わー！　大丈夫！　これはミーケの問題だから！\nなんとかするよ						
+CharacterEvent_001_NPC9_002ID	24	Diona	ディオーナ	……そう						
+CharacterEvent_001_NPC9_002ID	25	Mieke	ミーケ	それにしても、なんだかなあ。\n満たされてないって感じがする						
+CharacterEvent_001_NPC9_002ID	26	Diona	ディオーナ	……うん。私も						
+CharacterEvent_001_NPC9_002ID	27	Diona	ディオーナ	ビーッグ						
+CharacterEvent_001_NPC9_002ID	28	Mieke	ミーケ	あは！　いいねディオたん、キレが出てきたよ						
+CharacterEvent_001_NPC9_003ID	0		ディオーナの父	ディオーナ。この前話した町のことは覚えているね						
+CharacterEvent_001_NPC9_003ID	1	Diona	ディオーナ	もちろんよ、お父様						
+CharacterEvent_001_NPC9_003ID	2		ディオーナの父	ディオーナに是非歌ってほしいと依頼が来てね。\n明日の夜だが、その町の劇場の予定を押さえてあるんだ						
+CharacterEvent_001_NPC9_003ID	3		ディオーナの父	歌ってきてくれるかい。ディオーナ						
+CharacterEvent_001_NPC9_003ID	4	Diona	ディオーナ	分かった						
+CharacterEvent_001_NPC9_003ID	5		ディオーナの母	あなたは幸せ者ね、ディオーナ。\nこの人の言うとおりにすれば間違いないんだから						
+CharacterEvent_001_NPC9_003ID	6	Diona	ディオーナ	うん。いつも感謝してる						
+CharacterEvent_001_NPC9_003ID	7	Diona	ディオーナ	……それでは、行ってまいります						
+CharacterEvent_001_NPC9_003ID	8	Diona	ディオーナ	（今日もお父様に与えられた仕事をこなす。\n　その間、時間は驚くほど早く過ぎる）						
+CharacterEvent_001_NPC9_003ID	9	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）						
+CharacterEvent_001_NPC9_003ID	10	Diona	ディオーナ	（だからだろう。町へ向かう道中のことを、\n　私は特に記憶していない）						
+CharacterEvent_001_NPC9_003ID	11	Diona	ディオーナ	（帰り道もそうなるだろう）						
+CharacterEvent_001_NPC9_003ID	12	Diona	ディオーナ	（そうなるはずだった）						
+CharacterEvent_001_NPC9_003ID	13	Diona	ディオーナ	！						
+CharacterEvent_001_NPC9_003ID	14	Diona	ディオーナ	（薔薇のようだと、思った）						
+CharacterEvent_001_NPC9_003ID	15	Diona	ディオーナ	（その日、何も見えなかった景色の中に、\n　一輪の花が咲いた）						
+CharacterEvent_001_NPC9_003ID	16		ディオーナの父	ディオーナ。聞いているのかい？						
+CharacterEvent_001_NPC9_003ID	17	Diona	ディオーナ	ごめん、少し呆けてた						
+CharacterEvent_001_NPC9_003ID	18		ディオーナの父	いいさいいさ。大事な話だからね。\nもう一度言うよ、ディオーナ						
+CharacterEvent_001_NPC9_003ID	19		ディオーナの父	新しい仕事が入った。これは大きな仕事だ。\nしばらく忙しくなるよ						
+CharacterEvent_001_NPC9_003ID	20		ディオーナの母	元々入れていた優先度の低い仕事はすべて取りやめよ。\n今後の予定についてだけど……						
+CharacterEvent_001_NPC9_003ID	21	Diona	ディオーナ	（初めてだ。こんなにも両親の話が\n　頭に入らないのは）						
+CharacterEvent_001_NPC9_003ID	22	Diona	ディオーナ	（きっと、あの薔薇のせい。\n　心に浮かぶあの花が、頭から離れない）						
+CharacterEvent_001_NPC9_003ID	23	Diona	ディオーナ	（それにあの人……どこかで見たことがある気がする。\n　いったい、どこで……）						
+CharacterEvent_001_NPC9_003ID	24		ディオーナの父	ディオーナ。一体どうしたんだい？\n体調でも悪いのか？　医者を呼ぼうか						
+CharacterEvent_001_NPC9_003ID	25	Diona	ディオーナ	（こんなことではいけない。\n　お父様の話を聞かなくては）						
+CharacterEvent_001_NPC9_003ID	26	Diona	ディオーナ	（あの花を……枯らさなくては。\n　……でも）						
+CharacterEvent_001_NPC9_003ID	27	Diona	ディオーナ	（枯らしてしまったら、\n　もう二度と咲くことは無いかもしれない）						
+CharacterEvent_001_NPC9_003ID	28		選択肢	あの人のことを調べてみる						
+CharacterEvent_001_NPC9_003ID	29	Diona	ディオーナ	お父様、お母様。\nごめんなさい。調べたいことがあるの						
+CharacterEvent_001_NPC9_003ID	30	Diona	ディオーナ	仕事の話はまた今度にさせて						
+CharacterEvent_001_NPC9_003ID	31		ディオーナの母	急に何を言ってるの？\n自分の仕事以上に大切なことなんてないでしょ？						
+CharacterEvent_001_NPC9_003ID	32	Diona	ディオーナ	でも、気になるから						
+CharacterEvent_001_NPC9_003ID	33		ディオーナの父	ディオーナ…！？\nどうしたんだ、こ、こんな事、はじめてだ						
+CharacterEvent_001_NPC9_003ID	34	Diona	ディオーナ	（自分でも何故そうしたのかは分からない。\n　ただ一つ言えることは）						
+CharacterEvent_001_NPC9_003ID	35	Diona	ディオーナ	（私はあの花を愛おしく思ってしまったのだ）						
+CharacterEvent_001_NPC9_003ID	36		選択肢	親の話に集中する						
+CharacterEvent_001_NPC9_003ID	37	Diona	ディオーナ	ごめん、集中する。話の続きをさせて						
+CharacterEvent_001_NPC9_003ID	38		ディオーナの父	そうか、疲れていたらいつでも言うんだよ。\nいいか？　まず最初にやるべきことは……						
+CharacterEvent_001_NPC9_003ID	39	Diona	ディオーナ	（大丈夫。何度も繰り返してきたことだ）						
+CharacterEvent_001_NPC9_003ID	40	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）						
+CharacterEvent_001_NPC9_003ID	41	Diona	ディオーナ	（芽生えた気持ちはぎゅっと踏みつけて。\n　ホウキでささっと掃いてみせれば）						
+CharacterEvent_001_NPC9_003ID	42	Diona	ディオーナ	（そうすれば、ほら）						
+CharacterEvent_001_NPC9_003ID	43	Diona	ディオーナ	（また何も見えなくなった）						
+CharacterEvent_001_NPC9_003ID	44		ディオーナの母	いずれ貴方は、この国で最高の歌姫になるわ。\nいえ、私たちでしてみせる						
+CharacterEvent_001_NPC9_004ID	0	Diona	ディオーナ	（初めて両親に逆らった私は、\n　すれ違ったあの女性について調べ始めた）						
+CharacterEvent_001_NPC9_004ID	1	Diona	ディオーナ	（どこかで見たことがある。\n　その記憶を頼りに手掛かりを探し……）						
+CharacterEvent_001_NPC9_004ID	2	Diona	ディオーナ	（ついに彼女が、指名手配犯ララ・トロッケルであると\n　突き止めた）						
+CharacterEvent_001_NPC9_004ID	3	Diona	ディオーナ	（地方のほうだから何の噂も立たなかったけれど）						
+CharacterEvent_001_NPC9_004ID	4	Diona	ディオーナ	（王都のほうで姿を現していたらきっと大騒ぎに\n　なっていただろう）						
+CharacterEvent_001_NPC9_004ID	5	Diona	ディオーナ	（探していた人が、指名手配犯……。\n　なぜそんな人のことが、こんなにも気になるの？）						
+CharacterEvent_001_NPC9_004ID	6	Mieke	ミーケ	あ、ディオたんみーっけ！						
+CharacterEvent_001_NPC9_004ID	7	Diona	ディオーナ	ミーケちゃん！？　こんな夜中にどうして？						
+CharacterEvent_001_NPC9_004ID	8	Mieke	ミーケ	ちょっとディオたんに合わせたい人がいてさ。\nついてきてほしいんだ						
+CharacterEvent_001_NPC9_004ID	9	Diona	ディオーナ	今から伺うの？　非常識よ。\nまた明日にでも……						
+CharacterEvent_001_NPC9_004ID	10	Mieke	ミーケ	ううん、その人がディオたんのことを呼んでるの						
+CharacterEvent_001_NPC9_004ID	11	Diona	ディオーナ	え？						
+CharacterEvent_001_NPC9_004ID	12	Mieke	ミーケ	ほら、考えるのはあと！　絶対に後悔しないから！						
+CharacterEvent_001_NPC9_004ID	13	Diona	ディオーナ	あ、待って！						
+CharacterEvent_001_NPC9_004ID	14	Mieke	ミーケ	お待たせ、連れてきたよ						
+CharacterEvent_001_NPC9_004ID	15	Diona	ディオーナ	ここにいるの？　いったいどちら様……						
+CharacterEvent_001_NPC9_004ID	16	Lara	ララ	一目見た時から、あなたをお誘いすると\n決めていましたわ						
+CharacterEvent_001_NPC9_004ID	17	Diona	ディオーナ	っ！　あなたは……！						
+CharacterEvent_001_NPC9_004ID	18	Lara	ララ	わたくしはララ・トロッケル。\n誇り高きララ・キングダムの王						
+CharacterEvent_001_NPC9_004ID	19	Diona	ディオーナ	……ねえ、ミーケちゃん。どうしてこの人に？						
+CharacterEvent_001_NPC9_004ID	20	Mieke	ミーケ	前にさ、話してたじゃん？\n今の毎日が満たされてない気がするって						
+CharacterEvent_001_NPC9_004ID	21	Mieke	ミーケ	だから、それを変えたいって思ってさ。\nこの人に付いていくことにしたんだ						
+CharacterEvent_001_NPC9_004ID	22	Diona	ディオーナ	指名手配犯なのよ！						
+CharacterEvent_001_NPC9_004ID	23	Mieke	ミーケ	知ってるよ。\nディオたんが反対することだってわかってた						
+CharacterEvent_001_NPC9_004ID	24	Mieke	ミーケ	それでもなんだよ。話だけでも聞いてほしいんだ。\nディオたんのためにもなると思ってるから						
+CharacterEvent_001_NPC9_004ID	25	Diona	ディオーナ	ミーケちゃん……						
+CharacterEvent_001_NPC9_004ID	26	Lara	ララ	素晴らしい友情ですわ。\nやはりあなたがた二人ともが欲しくなりました						
+CharacterEvent_001_NPC9_004ID	27	Lara	ララ	ディオーナ。ここしばらくの間、\nあなたのことを見させていただきましたわ						
+CharacterEvent_001_NPC9_004ID	28	Lara	ララ	あなたのその歌の才能。\nそして、服飾の意匠設計力……賞賛に値します						
+CharacterEvent_001_NPC9_004ID	29	Lara	ララ	あなたにはキングダムの服飾係として、\nそして歌姫としてわたくしの王国に加わる資質がある						
+CharacterEvent_001_NPC9_004ID	30	Lara	ララ	わたくしの下へいらっしゃい。\n歓迎いたしますわよ						
+CharacterEvent_001_NPC9_004ID	31	Diona	ディオーナ	……聞いてもいいですか？						
+CharacterEvent_001_NPC9_004ID	32	Lara	ララ	なんなりと						
+CharacterEvent_001_NPC9_004ID	33	Diona	ディオーナ	私は今、成功しています。そんな私が、\n貴方の所に行って、何を得られるのですか？						
+CharacterEvent_001_NPC9_004ID	34	Lara	ララ	王としてあなたの渇きを満たすことを約束しますわ。\nそれは決して豊かな暮らしだけでは掴めないものです						
+CharacterEvent_001_NPC9_004ID	35	Lara	ララ	あなたが見ることができなかった景色……。\nそれを見せてあげましょう						
+CharacterEvent_001_NPC9_004ID	36	Diona	ディオーナ	……もう一つ。\nあなたは国王になって、何を成したいのですか？						
+CharacterEvent_001_NPC9_004ID	37	Lara	ララ	それは、実際に見せた方が早いですわね。\n二人とも、わたくしに近寄りなさいな						
+CharacterEvent_001_NPC9_004ID	38	Diona	ディオーナ	……？						
+CharacterEvent_001_NPC9_004ID	39	Lara	ララ	さあ、行きますわよ						
+CharacterEvent_001_NPC9_004ID	40	Diona	ディオーナ	わっ！？						
+CharacterEvent_001_NPC9_004ID	41	Diona	ディオーナ	！						
+CharacterEvent_001_NPC9_005ID	0	Diona	ディオーナ	ここは……						
+CharacterEvent_001_NPC9_005ID	1	Lara	ララ	この地こそがララ・キングダム。わたくしの王国						
+CharacterEvent_001_NPC9_005ID	2	Lara	ララ	まだ始まったばかりの国ですけれどね。\n土地だって荒れ果てていますわ						
+CharacterEvent_001_NPC9_005ID	3	Lara	ララ	ですが、わたくしはこの渇きすら潤し、\n民に安寧の地を作りますの						
+CharacterEvent_001_NPC9_005ID	4	Lara	ララ	……ディオーナ。わたくしが何を成したいのか\n聞きましたわね						
+CharacterEvent_001_NPC9_005ID	5	Lara	ララ	わたくしは理想の国家を作り、\n満たされぬ者たちの縁となりたいのです						
+CharacterEvent_001_NPC9_005ID	6	Lara	ララ	そう。あなたたちのような者の縁に						
+CharacterEvent_001_NPC9_005ID	7	Diona	ディオーナ	……！						
+CharacterEvent_001_NPC9_005ID	8	Lara	ララ	だから今、手を差し伸べているのです						
+CharacterEvent_001_NPC9_005ID	9	Diona	ディオーナ	……						
+CharacterEvent_001_NPC9_005ID	10	Diona	ディオーナ	……少し猶予をいただけませんか？						
+CharacterEvent_001_NPC9_005ID	11	Lara	ララ	ええ、もちろん。すぐには決められないことでしょう						
+CharacterEvent_001_NPC9_005ID	12	Lara	ララ	三日後。同じ場所で待っていますわ。\nいらっしゃらなかったら、その気はないと判断します						
+CharacterEvent_001_NPC9_005ID	13	Diona	ディオーナ	（それから三日間。私は考えに考えた）						
+CharacterEvent_001_NPC9_005ID	14	Diona	ディオーナ	（ずっとどこか満たされていないと感じていた。\n　この現状を変える絶好の機会なのかもしれない）						
+CharacterEvent_001_NPC9_005ID	15	Diona	ディオーナ	（何より、彼女が掲げる理想……それに私の心も\n　揺れ動いてしまった）						
+CharacterEvent_001_NPC9_005ID	16	Diona	ディオーナ	（だけど、彼女の下へ行くこと……\n　それは今までの自分をすべて捨てることになる）						
+CharacterEvent_001_NPC9_005ID	17	Diona	ディオーナ	（両親の言うことさえ聞いていれば、\n　私の人生は万事がうまくいくはずなのだ）						
+CharacterEvent_001_NPC9_005ID	18	Diona	ディオーナ	（そのどちらを取るのか、私は選ばなくてはならない）						
+CharacterEvent_001_NPC9_005ID	19	Diona	ディオーナ	（……あの日景色に咲いた一輪の花が、\n　今もまだ揺れている）						
+CharacterEvent_001_NPC9_005ID	20	Diona	ディオーナ	私は……						
+CharacterEvent_001_NPC9_005ID	21		選択肢	ミーケたちと行動を共にする						
+CharacterEvent_001_NPC9_005ID	22	Diona	ディオーナ	（私は決めた。ミーケちゃんたちと行動を共にすると）						
+CharacterEvent_001_NPC9_005ID	23	Diona	ディオーナ	お父様とお母様を説得しないと……いえ						
+CharacterEvent_001_NPC9_005ID	24	Diona	ディオーナ	説得になど応じてくれるわけないわね。\n手紙を、残していこう						
+CharacterEvent_001_NPC9_005ID	25	Diona	ディオーナ	……！　もうすぐ期限の時間。まだ旅の準備も\nできていない……悩みすぎてしまったわ						
+CharacterEvent_001_NPC9_005ID	26	Diona	ディオーナ	急がないと！						
+CharacterEvent_001_NPC9_005ID	27	Diona	ディオーナ	（あの日景色に咲いた一輪の花が、\n　激しく揺れている）						
+CharacterEvent_001_NPC9_005ID	28	Diona	ディオーナ	（ああ、そうか。これは花ではなかったのだ）						
+CharacterEvent_001_NPC9_005ID	29	Diona	ディオーナ	（私の景色に、真っ赤な炎が灯ったのだ）						
+CharacterEvent_001_NPC9_005ID	30		選択肢	ミーケたちと行動を共にしない						
+CharacterEvent_001_NPC9_005ID	31	Diona	ディオーナ	（私は決めた。\n　ミーケちゃんたちと行動は共にしないと）						
+CharacterEvent_001_NPC9_005ID	32	Diona	ディオーナ	（そして、私は両親に謝り、先日受けた仕事の話を\n　再開した）						
+CharacterEvent_001_NPC9_005ID	33	Diona	ディオーナ	（ララ・トロッケルを通報することはしなかった。\n　彼女の想い自体は崇高なものだと感じたし……）						
+CharacterEvent_001_NPC9_005ID	34	Diona	ディオーナ	（ミーケちゃんのこれからも応援したかったから）						
+CharacterEvent_001_NPC9_005ID	35	Diona	ディオーナ	（あの日景色に咲いた一輪の花。\n　それはまだ色鮮やかに揺れている）						
+CharacterEvent_001_NPC9_005ID	36	Diona	ディオーナ	（私はそれに、一生触れないと決めた）						
+CharacterEvent_001_NPC9_006ID	0		庭師	ふう……この庭も形になってきたな！						
+CharacterEvent_001_NPC9_006ID	1	Diona	ディオーナ	……うーん						
+CharacterEvent_001_NPC9_006ID	2	Mieke	ミーケ	おっと、ディオたんは気に入らないの？						
+CharacterEvent_001_NPC9_006ID	3	Diona	ディオーナ	ええ。もう一段美しくできるはず。\nララ様に捧げるものであればなおさらよ！						
+CharacterEvent_001_NPC9_006ID	4	Diona	ディオーナ	この辺りの花は中央の大きな花を引き立たせるために\nあえて密度を薄くするべきだし						
+CharacterEvent_001_NPC9_006ID	5	Diona	ディオーナ	こっちの花は青い花にした方が\n色の調和は取れているもの						
+CharacterEvent_001_NPC9_006ID	6	Diona	ディオーナ	こうしてはいられないわ。\nすぐ青い花を調達してくる						
+CharacterEvent_001_NPC9_006ID	7	Mieke	ミーケ	え、今から！？　もうすぐ夜になっちゃうよ！						
+CharacterEvent_001_NPC9_006ID	8	Diona	ディオーナ	大丈夫、近くで自生しているところを知ってるの						
+CharacterEvent_001_NPC9_006ID	9		庭師	いやあ、ディオーナちゃんはお淑やかだと\n思ってたけど、ミーケちゃんより行動派だね						
+CharacterEvent_001_NPC9_006ID	10	Mieke	ミーケ	まあ、美しさに関わるものになると\n暴走しがちかなー						
+CharacterEvent_001_NPC9_006ID	11	Mieke	ミーケ	でも、そのこだわりの強さが意匠設計の才能に\n繋がってるんだろうね						
+CharacterEvent_001_NPC9_006ID	12	Diona	ディオーナ	はぁ、はぁ、お待たせ！！						
+CharacterEvent_001_NPC9_006ID	13	Mieke	ミーケ	はや！！！						
+CharacterEvent_001_NPC9_006ID	14	Diona	ディオーナ	ララ様のためだもの。時間を無駄にしていられないわ！						
+CharacterEvent_001_NPC9_006ID	15	Mieke	ミーケ	こだわりだけじゃなくて、愛も規格外だなあ。\nディオたんは						
+CharacterEvent_001_NPC9_007ID	0	Diona	ディオーナ	じー……						
+CharacterEvent_001_NPC9_007ID	1	Lara	ララ	……何をしていますの？\n情熱的な視線を感じますが						
+CharacterEvent_001_NPC9_007ID	2	Diona	ディオーナ	ララ様の新曲を作ろうと思いまして。\n良いところを一つも逃さんとしているのです						
+CharacterEvent_001_NPC9_007ID	3	Lara	ララ	なるほど。では思う存分見なさいな。\n王の立ち振る舞いというものを！						
+CharacterEvent_001_NPC9_007ID	4	Mieke	ミーケ	こーら、ディオたん！　また突っ走ってるよ！\nさすがに迷惑だと思うねぇ						
+CharacterEvent_001_NPC9_007ID	5	Diona	ディオーナ	あ、ああ……ごめんなさい。\nどうも熱が入ると周りが見えず……						
+CharacterEvent_001_NPC9_007ID	6	Lara	ララ	わたくしは別に構いませんのに						
+CharacterEvent_001_NPC9_007ID	7	Diona	ディオーナ	猛省しないと。ララ・キングダムに身を置く以前……\n取材をした方をとても困らせてしまったことがあり……						
+CharacterEvent_001_NPC9_007ID	8	Lara	ララ	どんなことがありましたの？						
+CharacterEvent_001_NPC9_007ID	9	Diona	ディオーナ	私の歌の一つに、竜狩りで有名な白夜の騎士を\n称えるものがありますが、その時に取材をしまして……						
+CharacterEvent_001_NPC9_007ID	10	Diona	ディオーナ	（竜狩りのユナがヴィアベル州に来てるらしい。\n　この機会を逃す手はないわ！）						
+CharacterEvent_001_NPC9_007ID	11	Juna	ユナ	竜を目撃したというのはあなたか？						
+CharacterEvent_001_NPC9_007ID	12		船乗り	ええ！　先日船を出していたら、水平線を大陸側に\n飛んでいくのを見まして……						
+CharacterEvent_001_NPC9_007ID	13	Diona	ディオーナ	（あの方ね！　まずは所作を観察するところから。\n　じー……）						
+CharacterEvent_001_NPC9_007ID	14	Juna	ユナ	！　殺気か！？　何者だ！						
+CharacterEvent_001_NPC9_007ID	15	Diona	ディオーナ	ひゃっ！　すみません！　怪しい者ではありません！						
+CharacterEvent_001_NPC9_007ID	16	Juna	ユナ	あなたは……歌姫ディオーナか？\n何をしているんだ						
+CharacterEvent_001_NPC9_007ID	17	Diona	ディオーナ	あなたについての詩を書きたいと思いまして。\n失礼ながら観察させていただいていました						
+CharacterEvent_001_NPC9_007ID	18	Juna	ユナ	そ、そうか						
+CharacterEvent_001_NPC9_007ID	19	Diona	ディオーナ	貴方の歌を、歌える事を光栄に思います						
+CharacterEvent_001_NPC9_007ID	20	Juna	ユナ	高名な歌姫に、歌にしてもらえるなど、\nこちらこそ光栄だ						
+CharacterEvent_001_NPC9_007ID	21	Diona	ディオーナ	まず、白夜の騎士として普段どのような心構えで\nいるのかについてお尋ねしたいのが一つ						
+CharacterEvent_001_NPC9_007ID	22	Diona	ディオーナ	そして実際に今どのような想いを抱いているか、\n今後の目標についてもお尋ねしたく						
+CharacterEvent_001_NPC9_007ID	23	Diona	ディオーナ	あとは竜を狩るようになった理由、\n初めて狩ったときの想い、それから……						
+CharacterEvent_001_NPC9_007ID	24	Juna	ユナ	ま、待て！　私は口下手でな。\n質問は絞ってもらえると助かる……						
+CharacterEvent_001_NPC9_007ID	25	Diona	ディオーナ	それでしたら、お供しますので\n手が空いた時に回答してもらえますか？						
+CharacterEvent_001_NPC9_007ID	26	Juna	ユナ	私が竜を倒せたのは、師匠に鍛えられたおかげだ						
+CharacterEvent_001_NPC9_007ID	27	Diona	ディオーナ	ふむふむ。出会いの時から聞かせてもらえますか？						
+CharacterEvent_001_NPC9_007ID	28	Diona	ディオーナ	おお、魔物が現れました！\n戦闘中に意識していることは？						
+CharacterEvent_001_NPC9_007ID	29	Juna	ユナ	言っている場合か！　下がっていろ！						
+CharacterEvent_001_NPC9_007ID	30	Diona	ディオーナ	夜は警戒のため武装したまま就寝……と。\nこのまま夜明けまで見ていましょうか						
+CharacterEvent_001_NPC9_007ID	31	Juna	ユナ	ね、眠れん……						
+CharacterEvent_001_NPC9_007ID	32	Diona	ディオーナ	ありがとうございました！\nおかげで良い詩が書けそうです！						
+CharacterEvent_001_NPC9_007ID	33	Juna	ユナ	ああ……それは良かった。\nなぜだろう。今までになく疲労したな……						
+CharacterEvent_001_NPC9_007ID	34	Diona	ディオーナ	……ということが						
+CharacterEvent_001_NPC9_007ID	35	Mieke	ミーケ	猟奇的だよ、ディオたん……						
+CharacterEvent_001_NPC9_007ID	36	Diona	ディオーナ	真面目なものを作ろうと、頑張ったつもりなんですが						
+CharacterEvent_001_NPC9_007ID	37	Diona	ディオーナ	猛省！						
+CharacterEvent_001_NPC9_007ID	38	Lara	ララ	そんなディオーナも、素敵ですけどね						
+CharacterEvent_001_NPC9_007ID	39	Mieke	ミーケ	器がビーッグ						
+CharacterEvent_001_NPC9_007ID	40	Juna	ユナ	現場に来るというのか、さすが歌姫、すごい根性だ						
+CharacterEvent_001_NPC9_IF_001ID	0		ディオーナの父	ほら、ディオーナ。あれが王城だ。\n今から私たちはあそこに行くんだよ						
+CharacterEvent_001_NPC9_IF_001ID	1		ディオーナの母	ついに国王の御前で歌を披露するのよ。\nディオーナ、頑張ったわね						
+CharacterEvent_001_NPC9_IF_001ID	2	Diona	ディオーナ	ううん。お父様とお母様のおかげよ						
+CharacterEvent_001_NPC9_IF_001ID	3		ディオーナの父	来るところまで登りつめたな。\nどうだ、ディオーナ。ここからの景色は。何が見える？						
+CharacterEvent_001_NPC9_IF_001ID	4	Diona	ディオーナ	……何も						
+CharacterEvent_001_NPC9_IF_001ID	5		ディオーナの母	それはそれで深いけど、\nこういう時はね。こう言うの						
+CharacterEvent_001_NPC9_IF_001ID	6		ディオーナの母	明るい未来が見える、って。分かりやすいほうがいいわ						
+CharacterEvent_001_NPC9_IF_001ID	7	Diona	ディオーナ	うん、分かった						
+CharacterEvent_001_NPC9_IF_001ID	8		ディオーナの父	さあ。改めて。何が見える、私たちのディオーナ？						
+CharacterEvent_001_NPC9_IF_001ID	9	Diona	ディオーナ	明るい未来						
+CharacterEvent_001_NPC9_IF_002ID	0	Diona	ディオーナ	（あれから。私は両親と共に、歌姫としての活動を\n　継続していた）						
+CharacterEvent_001_NPC9_IF_002ID	1	Diona	ディオーナ	（一つ変わったことと言えば、それは私が両親に\n　意見するようになったことだろう）						
+CharacterEvent_001_NPC9_IF_002ID	2	Diona	ディオーナ	（最初のうちは邪険に扱われたが、\n　今は互いによく相談しあうようになった）						
+CharacterEvent_001_NPC9_IF_002ID	3	Diona	ディオーナ	（結局のところ。私たちの間には、対話が\n　足りていなかっただけなのかもしれない）						
+CharacterEvent_001_NPC9_IF_002ID	4		ディオーナの父	今日は王都で歌を披露する。お偉いさん方も\nたくさん訪れるだろうから、頑張っていこうね						
+CharacterEvent_001_NPC9_IF_002ID	5	Diona	ディオーナ	分かってるわ。そうそう、今王国では錬金術士\nというものが注目されているらしいわ						
+CharacterEvent_001_NPC9_IF_002ID	6	Diona	ディオーナ	私たちの仕事に関係するかは分からないけど、\nぜひお近づきになっておきたいわね						
+CharacterEvent_001_NPC9_IF_002ID	7		ディオーナの父	おぉ、そうだね。王都のことも知りたいし。\n後でカフェに寄るとしようか						
+CharacterEvent_001_NPC9_IF_002ID	8	Diona	ディオーナ	……あっ						
+CharacterEvent_001_NPC9_IF_002ID	9		ディオーナの父	どうした？						
+CharacterEvent_001_NPC9_IF_002ID	10	Diona	ディオーナ	……ううん、なんでもない						
+CharacterEvent_001_NPC9_IF_002ID	11	Diona	ディオーナ	それじゃあ、劇場へ向かいましょう、お父様						
+CharacterEvent_001_NPC9_IF_002ID	12	Diona	ディオーナ	（私の景色に咲いた花が、久しぶりに揺れた）						
+CharacterEvent_001_NPC9_IF_002ID	13	Diona	ディオーナ	（あの日と同じ綺麗なまま。けれどもう、\n　瑞々しさはない）						
+CharacterEvent_001_NPC9_IF_002ID	14	Diona	ディオーナ	（きっと今触れたら、ボロボロになって崩れ落ちて\n　しまうだろう）						
+CharacterEvent_001_NPC9_IF_002ID	15	Diona	ディオーナ	（しかし、そんな日が訪れることもないだろう）						
+CharacterEvent_001_NPC9_IF_002ID	16	Diona	ディオーナ	（私は、それに一生触れないと決めたのだから）						

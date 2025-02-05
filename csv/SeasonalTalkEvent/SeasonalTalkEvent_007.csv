@@ -1,0 +1,366 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_007_001ID	0	???	？？？	……月……日。\n日に日に身体が重く、息が苦しくなっていく	???	"""I grow wearier with each passing day. Simply catching my breath is becoming more and more difficult."""	？？？	……月……日。\n身体一天比一天沉重，呼吸也越来越困难。	？？？	……月……日。\n身體一天比一天沉重，呼吸越來越吃力。
+SeasonalTalkEvent_007_001ID	1	???	？？？	もう、私に残された時間は少ないようです	???	"""It would seem that I am not long for this world."""	？？？	我的时间不多了。	？？？	看來我剩下的時間已經不多了。
+SeasonalTalkEvent_007_001ID	2	???	？？？	あなたと一緒に過ごすことができて\n私は幸せでした	???	"""Our time together has meant so much to me."""	？？？	能和你一起生活，我很幸福。	？？？	能夠和你一起生活，\n我覺得很幸福。
+SeasonalTalkEvent_007_001ID	3	???	？？？	……ただ。\n唯一、心残りなのは――	???	"""Still, my one regret is that—"""	？？？	然而……\n我唯一的遗憾是——	？？？	……只是，\n我心中還有唯一的牽掛──
+SeasonalTalkEvent_007_001ID	4	Roman	ロマン	やあ、爽やかな風と共にお邪魔するよ同志	Roman	Sorry to barge in like this, kindred spirit, but this breath of fresh air and I need some help.	罗曼	沁人心脾的风带来了玉树临风的我。你好，同志。	羅曼	嗨，我和清爽的風一起來拜訪妳們了，同伴。
+SeasonalTalkEvent_007_001ID	5	Resna	レスナ	ロマンさん、アーシャ先輩！\nあの、何かあったんですか？	Resna	Roman! Miss Ayesha! Is something wrong?	蕾斯娜	罗曼先生，爱夏前辈！\n发生什么事了吗？	蕾斯娜	羅曼先生、愛夏前輩！\n請問……發生了什麼事嗎？
+SeasonalTalkEvent_007_001ID	6	Ayesha	アーシャ	うん。急いでケガの治療薬を作らないと\nいけなくなっちゃって	Ayesha	I'm afraid so. We need to make some medicine right away.	爱夏	嗯。得赶紧制作治伤的药才行。	愛夏	嗯，最近得盡快做出治療傷勢的\n藥物才行。
+SeasonalTalkEvent_007_001ID	7	Resna	レスナ	えっ、ケガって……	Resna	Medicine? Is someone hurt?	蕾斯娜	什么？有人受伤了吗……	蕾斯娜	咦？治療傷勢……？
+SeasonalTalkEvent_007_001ID	8	Roman	ロマン	実はジュゲル州の原野に竜が現れてね。\n近隣の村人たちが被害にあったんだ	Roman	Well, actually, a dragon appeared in Yuggel and injured some of the local townsfolk.	罗曼	尤格鲁州的原野上出现了龙，\n有些附近的村民受到了伤害。	羅曼	其實，朱格爾州的原野上有龍現蹤了。\n那附近的村民們都遭到了攻擊。
+SeasonalTalkEvent_007_001ID	9	Resna	レスナ	えぇ！？　ジュゲル州に竜ですか？\nあそこにも出現するんですね	Resna	What?! A dragon in Yuggel? I didn't think there were any in that region.	蕾斯娜	什么？！尤格鲁州出现了龙？\n那里也会出现龙啊。	蕾斯娜	咦！？朱格爾州有龍嗎？\n連那裡都出現了啊。
+SeasonalTalkEvent_007_001ID	10	Roman	ロマン	しかも普通の竜より手強いようだ。\n頂獣認定はされていないけどね	Roman	Yes, this one's apparently quite a handful. It might not be an Apexi, but it seems tough enough.	罗曼	而且它比一般的龙更难对付。\n虽然那条龙还没有被认定为顶兽。	羅曼	而且牠比普通的龍還要難對付，\n不過還沒有被認定為是頂獸啦。
+SeasonalTalkEvent_007_001ID	11	Roman	ロマン	それでアーシャには薬の用意をお願いしたというわけさ	Roman	That's why I asked Ayesha to get some medicine ready.	罗曼	所以我拜托爱夏准备一些药。	羅曼	所以我才會拜託愛夏幫忙做點治療藥。
+SeasonalTalkEvent_007_001ID	12	Resna	レスナ	でも、もしまた竜が現れたら……	Resna	But what if the dragon comes back?	蕾斯娜	可是，如果龙又出现的话……	蕾斯娜	可是，如果龍又再次出現的話……
+SeasonalTalkEvent_007_001ID	13	Roman	ロマン	それについては、とある手を考えている	Roman	Well, there might be one thing we can do...	罗曼	关于这一点，我想了一个办法。	羅曼	關於這一點，我有想到一個辦法。
+SeasonalTalkEvent_007_001ID	14	Roman	ロマン	調べたところ、ジュゲル州の原野に\n現れる竜については古い伝承があったんだ	Roman	I looked into it, and there's a legend from back before Lantarna was even founded about a dragon appearing in the Yuggel wilderness.	罗曼	经过调查，我发现了一个古老的传说，\n它和尤格鲁州原野上出现的龙有关。	羅曼	據我調查，出現在朱格爾州\n原野上的那條龍，有個古老的傳說。
+SeasonalTalkEvent_007_001ID	15	Roman	ロマン	ランターナ建国より昔。竜の怒りを鎮めるため、\n近隣の村人たちはある女性を花嫁として差し出した	Roman	In an attempt to subdue it, the local townsfolk offered a woman to be its bride.	罗曼	早在兰塔纳建国之前，尤格鲁州原野周边的村民\n为了平息龙的怒火，献上了一位女子做它的新娘。	羅曼	在蘭塔納建國以前，那附近的村民們為了平息龍的怒火，\n曾把一名女性作為新娘獻給了牠。
+SeasonalTalkEvent_007_001ID	16	Roman	ロマン	すると、竜は花嫁を大層気に入り……\n以来、原野に平和が訪れたと	Roman	The dragon was evidently quite taken with her, and the land knew nothing but peace from that day forward.	罗曼	龙非常喜欢这位新娘……\n从那之后，原野便迎来了和平。	羅曼	結果，龍非常喜歡那名新娘……\n在那之後，原野便恢復了平靜。
+SeasonalTalkEvent_007_001ID	17	Resna	レスナ	女性を竜の花嫁に！？　まるで寓話ですね…。\n知りませんでした	Resna	A dragon took a human bride?! It's like a fairy tale... I'd never heard that story before.	蕾斯娜	让女子成为龙的新娘？！好像寓言故事啊……\n我这是第一次听说。	蕾斯娜	把女性送給龍當新娘！？\n簡直就是寓言故事啊……我從不知道有這種事。
+SeasonalTalkEvent_007_001ID	18	Roman	ロマン	調べたところによると、花嫁を捧げてから\n竜は一切姿を見せていなかったそうだ	Roman	According to local records, after being presented with its bride, the dragon was never seen again.	罗曼	据调查，自从献上新娘之后，\n龙就再也没有出现过。	羅曼	據我調查所知，自從獻上新娘之後，\n龍就再也沒有出現過了。
+SeasonalTalkEvent_007_001ID	19	Roman	ロマン	だから、この儀式はずっと行われていないし、\nもはや話も風化していたんだが……	Roman	Which means that this particular ceremony was never performed again either, and the whole story faded from living memory.	罗曼	因此，这个仪式也不再举行，\n故事也逐渐被淡忘……	羅曼	所以，這個儀式已經很久沒有舉行，\n連傳說也逐漸被人淡忘了……
+SeasonalTalkEvent_007_001ID	20	Resna	レスナ	再びその竜が現れたんですね。\nでもランターナ王国には、あの御方がいますよ	Resna	But now the dragon has returned... Wait, doesn't the Kingdom of Lantarna have just the right person for this situation?	蕾斯娜	但现在那条龙又再次出现了。\n不过，兰塔纳王国不是有那个人在吗？	蕾斯娜	如今那條龍又出現了對吧。\n不過蘭塔納王國，還有那位高手在呢。
+SeasonalTalkEvent_007_001ID	21	Roman	ロマン	そう。竜狩りの達人であるユナの出番なんだが、\nユナが見張っていると竜は現れなかったんだ	Roman	That we do. But ever since the formidable dragon slayer Juna started looking, we've seen neither hide nor scale of the beast.	罗曼	没错。是该由屠龙高手尤娜出面解决，\n然而在尤娜监视的期间，龙并没有出现。	羅曼	沒錯，該輪到獵龍達人尤娜上場了。\n可是只要尤娜出面，那條龍就不會出現。
+SeasonalTalkEvent_007_001ID	22	Resna	レスナ	竜がユナさんの圧を感じ取っているのでしょうか？\n一般的な竜の印象とかけ離れている個体ですね	Resna	Can it sense the threat Juna poses to it? This doesn't seem like your typical garden-variety dragon.	蕾斯娜	龙是从尤娜小姐身上感受到了压力吗？\n它跟一般人们概念中的龙真不一样啊。	蕾斯娜	牠是已經感受到尤娜小姐的氣勢了嗎？\n這個體和普通的龍給人的印象相去甚遠呢。
+SeasonalTalkEvent_007_001ID	23	Roman	ロマン	うん。ユナの経験をもってしても、\n巣への追跡が難しいらしくてね。常識が通じない	Roman	Indeed. Even with her considerable experience, Juna seems to be having a hard time locating its nest.	罗曼	是的。所以即使以尤娜的经验，\n也很难追踪到它的巢穴。普通的应对方法行不通。	羅曼	嗯。就算尤娜經驗豐富，好像也很難追蹤到牠的巢穴。\n無法靠常理來判斷行跡。
+SeasonalTalkEvent_007_001ID	24	Roman	ロマン	そこでここはひとつ、伝承をなぞらえようと\n思うんだ。純真無垢な「花嫁」の出番というわけさ	Roman	I'm thinking it might be time to take a page from the history books and present our dragon with a new bride.	罗曼	所以我打算效仿那个传说，\n让纯真无邪的“新娘”出场。	羅曼	所以，我想仿照傳承故事來試試看，\n派個純潔無瑕的「新娘」上場。
+SeasonalTalkEvent_007_002ID	0		竜	――グオオオォッ！！	Dragon	GROAAAR!	龙	唔噢噢噢噢——！！	龍	──吼喔喔喔喔！！
+SeasonalTalkEvent_007_002ID	1	???	？？？	……竜よ。私たちがあなたの妻となります。\nどうか怒りをお収めください	???	Hear me, dragon. We have come to be your new brides. Please, quell your rage.	？？？	龙啊，我们将会成为你的妻子。\n请你息怒吧。	？？？	……龍啊，我們會成為你的新娘，\n請你把怒火平息下來吧。
+SeasonalTalkEvent_007_002ID	2		竜	グウゥ……	Dragon	Graaah...	龙	咕唔……	龍	吼喔……
+SeasonalTalkEvent_007_002ID	3		竜	グルルル……	Dragon	Grrr...	龙	咕噜噜……	龍	吼嚕嚕嚕……
+SeasonalTalkEvent_007_002ID	4	???	？？？	――今だ！　はぁぁっ！！	???	NOW! Yaaah!	？？？	有机会！喝啊——！	？？？	──趁現在！喝呀呀！！
+SeasonalTalkEvent_007_002ID	5		竜	ガァァッ！！	Dragon	Raaagh!	龙	呜嗷嗷——！！	龍	嘎啊啊！！
+SeasonalTalkEvent_007_002ID	6	Izana	イザナ	よーし！　かなり効いたみたい！	Izana	All right! I think that did the trick!	伊札娜	很好！看来效果不错！	伊札娜	很好！好像奏效了！
+SeasonalTalkEvent_007_002ID	7	Heidi	ハイディ	作戦成功！　いやあ、冷や冷やしたよ	Heidi	Mission successful! I have to admit, I was worried for a second there.	海蒂	作战成功！哎呀，真是捏了一把冷汗。	海蒂	作戰成功！哎呀，我本來還很擔心呢。
+SeasonalTalkEvent_007_002ID	8	Izana	イザナ	アタシは信じてたよ？\nロマン君の作戦は成功するって	Izana	I never had a doubt! Roman's plans always work out.	伊札娜	我可是一直坚信罗曼的计划会成功的。	伊札娜	我一直都相信羅曼的作戰計畫會成功喔。
+SeasonalTalkEvent_007_002ID	9		ナレーション	「数日前」	Narrator	A few days earlier...	旁白	[几天前]	旁白	「幾天前」
+SeasonalTalkEvent_007_002ID	10	Roman	ロマン	君たちには花嫁姿で竜の気を惹く役目をお願いしたい	Roman	I want you both to dress up in bridal gowns to catch the dragon's attention.	罗曼	我想请你们假扮成新娘的样子，吸引龙的注意。	羅曼	我想拜託妳們扮成新娘的模樣，藉以引誘龍現身。
+SeasonalTalkEvent_007_002ID	11	Roman	ロマン	そして相手が油断したところで、\n熱い一撃をお見舞いしてほしいんだ	Roman	And when it lets down its guard, you'll give it a thrashing to remember.	罗曼	在它放松警惕的时候，\n给予它猛烈的一击！	羅曼	然後趁牠疏忽大意時，\n痛快地給牠致命一擊。
+SeasonalTalkEvent_007_002ID	12	Heidi	ハイディ	私が！？　しかも、花嫁姿で？	Heidi	You want me to what?! Wearing what?!	海蒂	让我演新娘？！	海蒂	我嗎！？而且還要打扮成新娘的樣子？
+SeasonalTalkEvent_007_002ID	13	Roman	ロマン	竜に近づき確実に仕留めるためにね	Roman	We need a disguise to get close enough to the dragon to take it down.	罗曼	这是为了确保能接近龙并杀死它。	羅曼	這是為了接近龍，不出半分差錯地收拾掉牠。
+SeasonalTalkEvent_007_002ID	14	Roman	ロマン	竜と互角に戦える力を持っている君たちが適任なんだ	Roman	And with your fighting prowess, the two of you are perfect for the job.	罗曼	你们有与龙势均力敌的力量，是最适合的人选。	羅曼	妳們擁有能和龍對戰的實力，是最合適的人選。
+SeasonalTalkEvent_007_002ID	15	Izana	イザナ	私の力を頼ってくれるのは嬉しいよ。\nこれって国からの依頼なの？	Izana	I'm happy you think I'm strong enough to carry out a mission like this. Is this an official request from the kingdom?	伊札娜	很高兴你能相信我的力量。\n这是国家的委托吗？	伊札娜	很高興你願意借助我的力量。\n這算是來自國家的委託嗎？
+SeasonalTalkEvent_007_002ID	16	Roman	ロマン	ああ。だから私が直接来たんだ。\nだがこれは、命令ではない	Roman	Yes, and that's why I came personally.	罗曼	是的。所以我亲自来了。\n但这并不是命令。	羅曼	是的，所以我才會親自過來。\n不過，這並不是命令。
+SeasonalTalkEvent_007_002ID	17	Roman	ロマン	二人へのお願いだと思ってほしい。\nそれだけ危険な任務でもあるからね	Roman	This mission will be dangerous, though, so you aren't being ordered to participate—this is only a request.	罗曼	请看作是对你们二位的请求。\n毕竟这是个极为危险的任务。	羅曼	希望二位能把這當作是我對妳們的請求。\n畢竟這個任務就是如此危險。
+SeasonalTalkEvent_007_002ID	18	Roman	ロマン	もちろん、支援はするよ	Roman	Of course, I'll be there to back you up.	罗曼	当然，我方会给予支援的。	羅曼	當然，我也會支援妳們。
+SeasonalTalkEvent_007_002ID	19	Juna	ユナ	距離はとるが、私が控えている	Juna	And while I must remain at a distance, I'll also be ready and waiting.	尤娜	届时我会保持距离待命。	尤娜	我會保持一段距離，在後方援助。
+SeasonalTalkEvent_007_002ID	20	Izana	イザナ	分かった。アタシ花嫁さんになる！	Izana	In that case, I guess I'll be seeing what I look like in bridal attire!	伊札娜	好。我来做新娘！	伊札娜	了解，那我要成為新娘！
+SeasonalTalkEvent_007_002ID	21	Izana	イザナ	好き勝手にさせておけないし……\n最強の騎士になるには竜くらい退治しておかないと！	Izana	If I want to become the strongest knight in the land, I'll need to put down a rampaging dragon or two, anyway!	伊札娜	不能让龙为所欲为……\n而且要成为最强的骑士，就得有本事打倒龙才行！	伊札娜	不能再放任龍為所欲為了……\n而且想成為最強的騎士，至少要先消滅龍才行！
+SeasonalTalkEvent_007_002ID	22	Roman	ロマン	ありがとう、イザナ。\nハイディは、どうだろうか？	Roman	Thanks, Izana. How about you, Heidi? Are you willing to lend a hand?	罗曼	谢谢你，伊札娜。\n海蒂，你呢？	羅曼	謝謝妳，伊札娜。\n那海蒂妳的意願如何呢？
+SeasonalTalkEvent_007_002ID	23	Heidi	ハイディ	いや、無理無理！\nそもそも花嫁なんて、私に似合わないし！	Heidi	Against a dragon?! No way! And I'm not cut out for the whole blushing bride bit in the first place!	海蒂	不，不行不行！\n再说扮演新娘根本不适合我吧！	海蒂	等等，我做不到！\n再說新娘打扮根本就不適合我！
+SeasonalTalkEvent_007_002ID	24	Roman	ロマン	ザスキアさんの見立て通りで、\n頂獣ウェルテックスと戦えていたじゃないか	Roman	Weren't you the one who stood toe-to-toe with the Apexi Weltex, just like Saskia said you could?	罗曼	你不是都如萨丝琪亚预料的那样，\n跟顶兽威尔特克斯战斗过了吗？	羅曼	但妳之前不是如薩絲琪亞所料，\n與頂獸威爾特庫斯對戰了嗎？
+SeasonalTalkEvent_007_002ID	25	Heidi	ハイディ	あれも相当無茶振りだったよ！	Heidi	Yeah, well, I'm not exactly itching to relive that!	海蒂	那次我也完全是硬着头皮死撑的啊！	海蒂	那個也打得很勉強啦！
+SeasonalTalkEvent_007_002ID	26	Roman	ロマン	そもそもハイディに花嫁姿は絶対似合うよ。\n私の見立てには定評があってね	Roman	Moreover, I think you'd look wonderful in a bridal gown. And I've got a pretty good eye for these sorts of things.	罗曼	而且你肯定很适合新娘的装扮。\n我的眼光可是有口皆碑的。	羅曼	說起來海蒂一定很適合新娘打扮，\n我看人的眼光可是公認地精準喔。
+SeasonalTalkEvent_007_002ID	27	Heidi	ハイディ	そうかなぁ……って、のせられるか！	Heidi	Oh, well, you think so...? Hey, wait! Flattery won't get you anywhere!	海蒂	是这样吗……不对！休想骗我上当！	海蒂	是這樣嗎……不對，我才不會答應！
+SeasonalTalkEvent_007_002ID	28	Heidi	ハイディ	というか、その理屈なら、\n相棒のほうが向いてるんじゃない？	Heidi	Anyway, don't you think my partner would be better suited to this kind of job?	海蒂	而且照你这个说法，\n我搭档不是更适合吗？	海蒂	話說，按照這個理由來看，\n你的搭檔不是更適合嗎？
+SeasonalTalkEvent_007_002ID	29	Roman	ロマン	ユナ相手に現れなかったことを考えると、\n圧が強すぎると、竜が出てこないのかもしれない	Roman	Since the dragon never shows up when Juna's around, it probably won't come out if it senses a threatening presence.	罗曼	考虑到龙没有出现在尤娜面前，\n或许面对的敌人过于强大时，这条龙就不肯现身。	羅曼	想到那條龍不曾出現在尤娜的面前，\n可能就是因為她的氣勢太強，反倒讓牠不敢現身了。
+SeasonalTalkEvent_007_002ID	30	Roman	ロマン	それに……ヴァレリアはこちらの\n作戦を聞かず竜に突撃しそうだからね	Roman	And Valeria would probably ignore the plan and run right up to punch the dragon in the snout.	罗曼	而且……瓦莱莉娅很可能会不听我们的作战计划，\n自作主张向龙发起进攻。	羅曼	而且……我感覺瓦萊莉婭會不聽我的作戰計畫，\n直接去突襲龍。
+SeasonalTalkEvent_007_002ID	31	Heidi	ハイディ	ちょいちょい！　相棒はそこまで\n特攻野郎じゃない……とは言い切れない	Heidi	Whoa, she's not THAT wild! Well, maybe she is...	海蒂	喂喂喂！我搭档才不是那么横冲直撞的家伙……\n不，我不好说。	海蒂	慢著！我的搭檔才不是那種橫衝直撞的野蠻人!\n……但好像也差不多。
+SeasonalTalkEvent_007_002ID	32	Izana	イザナ	……えっ！\n竜の素材ってそんなに貴重なの！？	Izana	Wow! Are dragon materials really that valuable?!	伊札娜	什么？！\n龙的素材这么贵重吗？！	伊札娜	……咦！\n原來龍身上的素材這麼珍貴嗎！？
+SeasonalTalkEvent_007_002ID	33	Resna	レスナ	うん。鱗一枚でもすごい値段になるし、\n錬金術の素材としても伝説級の扱いなんだ	Resna	Yup. A single scale can be worth a fortune, and alchemists can do some pretty miraculous things with those materials.	蕾斯娜	嗯。一片鳞片就价值连城，\n作为炼金术的素材也是传说级的。	蕾斯娜	嗯。一片鱗片就價值連城，\n在鍊金術的素材裡也被視為是傳說級的珍寶。
+SeasonalTalkEvent_007_002ID	34	Resna	レスナ	しかも今回は、話を聞くに特殊な個体だから\n貴重の中の貴重だよ	Resna	In fact, since this dragon is apparently a rare specimen, its materials will fetch an even higher price.	蕾斯娜	而且看这次的情况，\n它还是特殊的个体，更是极其珍贵。	蕾斯娜	而且，這次聽起來還是個特殊品種，\n更是無與倫比的珍貴了。
+SeasonalTalkEvent_007_002ID	35	Heidi	ハイディ	鱗一枚で……すごい値段……	Heidi	A single scale is worth a fortune...?	海蒂	一片鳞片……价值连城……	海蒂	一片鱗片……就價值連城……
+SeasonalTalkEvent_007_002ID	36	Heidi	ハイディ	そこまで言われたら断れないな。\n分かった、私も引き受けるよ！	Heidi	Well, if you need me that badly, how could I refuse! I'm on the job!	海蒂	既然都说到这个份上了，我怎么好意思拒绝呢。\n好吧，我也接受！	海蒂	既然都說到這個份上，我也沒道理拒絕了。\n明白了，我也接受委託！
+SeasonalTalkEvent_007_002ID	37	Roman	ロマン	ありがとう！　二人には一級品の素材を\n使った衣を用意しよう！	Roman	Wonderful! You'll have gowns made of the most luxurious materials!	罗曼	谢谢！我会给两位准备超一流素材制作的服装！	羅曼	謝謝妳！我會為二位準備\n以最頂級的素材製成的新娘服！
+SeasonalTalkEvent_007_002ID	38	Roman	ロマン	昔、海外と行き来があった頃に、ケイウンと呼ばれる\n島国から輸入されてきたものさ	Roman	Back when I had dealings overseas, I imported the perfect fabric from a place known as the Kaymun Islands.	罗曼	是过去我国和海外还有往来的时候，\n从一个名叫“景云”的岛国进口的。	羅曼	這是我以前往返海外時，\n從一個叫做凱溫的島國進口的。
+SeasonalTalkEvent_007_002ID	39	Resna	レスナ	お、おぉ……おぉおお。\n二人とも、綺麗……。	Resna	Oh, wow... You both look so gorgeous!	蕾斯娜	哦、哦……哦哦哦哦。\n你们好漂亮……	蕾斯娜	喔喔……喔喔喔。\n兩位都好美麗……
+SeasonalTalkEvent_007_002ID	40	Izana	イザナ	レスナちゃん、これから永遠に、よろしくね	Izana	Resna, do you take me as your lawfully wedded wife, to have and to hold for as long as we both shall live?	伊札娜	蕾斯娜，永生永世请多关照了。	伊札娜	蕾斯娜，我們今後永遠關照著彼此吧。
+SeasonalTalkEvent_007_002ID	41	Resna	レスナ	は、はいっ！！	Resna	I-I do!	蕾斯娜	好、好的！！	蕾斯娜	好、好的！！
+SeasonalTalkEvent_007_002ID	42	Heidi	ハイディ	あっはっは。いいねぇイザナは似合ってるねぇ。\n花嫁感でてるよ	Heidi	Hahaha! That dress really suits you, Izana.	海蒂	啊哈哈。伊札娜，这身装束真适合你，\n很有新娘的感觉。	海蒂	啊哈哈，真不錯，很適合伊札娜耶。\n很有新娘的感覺喔。
+SeasonalTalkEvent_007_002ID	43	Roman	ロマン	ハイディだってばっちりさ。\n私の見立ては正しかった	Roman	And you look quite charming yourself, Heidi. The perfect pair of brides for the job, just as I thought!	罗曼	海蒂穿着也非常相衬啊。\n我果然没看走眼。	羅曼	海蒂也一樣很適合啊，\n我的眼光果然沒錯。
+SeasonalTalkEvent_007_002ID	44	Heidi	ハイディ	さあ、どこからでもかかってこいっ！\n鱗一枚残さず剥いであげるよ！	Heidi	Well? What are you waiting for?! Come over here and let me relieve you of some of those scales!	海蒂	来吧，尽管放马过来！\n我要剥光你所有的鳞片！	海蒂	好，隨時放馬過來吧！\n我要把你的鱗片拔得一片不剩！
+SeasonalTalkEvent_007_002ID	45		竜	グゥッ……！	Dragon	Graah...!	龙	唔……！	龍	吼……！
+SeasonalTalkEvent_007_002ID	46	Izana	イザナ	えっ、逃げた！？　それは駄目だよ！	Izana	It's retreating? We have to go after it!	伊札娜	什么？它跑了？！这怎么行！	伊札娜	咦、逃走了！？那可不行！
+SeasonalTalkEvent_007_002ID	47	Heidi	ハイディ	飛んだわけじゃないから、追える！\n背後のユナさんたちに合図してから、いこう！	Heidi	We still have a chance if we catch up before it takes flight! Let's signal Juna and the others and hurry after it!	海蒂	它又不是飞走的，能追上！\n给后方的尤娜小姐他们发个信号就走吧！	海蒂	牠不是用飛的，還追得上！\n先跟後方的尤娜他們打個暗號，再追上去吧！
+SeasonalTalkEvent_007_003ID	0	Heidi	ハイディ	鱗一枚ですごい値段……\n絶対に逃がさないでしょ！	Heidi	If you think I'm letting a walking mountain of gold slip from my grasp, you've got another thing coming, dragon!	海蒂	价值连城的鳞片……\n休想逃走！	海蒂	一片鱗片就價值連城……\n絕對不能讓牠跑掉！
+SeasonalTalkEvent_007_003ID	1	Izana	イザナ	もうすぐ追いつくよ！	Izana	We're getting close!	伊札娜	快追上了！	伊札娜	就快追到牠了！
+SeasonalTalkEvent_007_003ID	2		構成員Ａ	待ってくれー！\n竜は俺たちが倒さなきゃならねえんだ！	Member A	Stop right there! The dragon's head is ours!	成员A	给我站住！\n打倒这条龙是我们的使命！	成員A	給我等一下！\n龍必須由我們來打倒！
+SeasonalTalkEvent_007_003ID	3	Heidi	ハイディ	は！？　いきなり何なの！？\n……あ、あんたら！	Heidi	Excuse me?! And just what do you mean by—wait, you're...!	海蒂	啊？！突然怎么回事？！\n怎……怎么是你们！	海蒂	什麼！？你們……\n突然冒出來想做什麼！？
+SeasonalTalkEvent_007_003ID	4	Izana	イザナ	知り合いなの？	Izana	You know these people?	伊札娜	你认识他们？	伊札娜	妳認識他們嗎？
+SeasonalTalkEvent_007_003ID	5	Heidi	ハイディ	月影の会の奴らだ……\nしかも、幹部まで来てる	Heidi	These lot are from the Moonlight Society. They've even got one of their leaders with them this time.	海蒂	是月影会的人……\n而且连干部都来了。	海蒂	他們是月影會的人……\n而且連幹部都來了。
+SeasonalTalkEvent_007_003ID	6	Izana	イザナ	え！？	Izana	What?!	伊札娜	什么？！	伊札娜	咦！？
+SeasonalTalkEvent_007_003ID	7		構成員Ｂ	テメェは……ハイディじゃねぇか！\nそんな格好してるから分からなかったぜ	Member B	Well, if it ain't Heidi! Didn't recognize you all dolled up like that.	成员B	你是……海蒂！\n打扮成这样，我都没认出来。	成員B	妳這傢伙……不是海蒂嗎！\n打扮成那樣害我一時認不出來。
+SeasonalTalkEvent_007_003ID	8		構成員Ａ	会で騒ぎを起こしておいて、よく王都州の隣に\nいられるな、俺ならもっと辺境にいくぜ	Member A	You've got guts, staying this close to the capital region after the ruckus you caused in the Society. I'd be cowering in a cave somewhere if I were you.	成员A	在会内闹出那么大的动静，你还有脸待在王都州。\n要是我的话，早就躲到边境去了。	成員A	真虧妳在我們會裡胡鬧一番，還敢待在王都州附近啊。\n要是我就躲去更邊境的地方了。
+SeasonalTalkEvent_007_003ID	9	Heidi	ハイディ	言っとる場合か！　急いでるんだよ	Heidi	Ugh! We don't have time to trade insults with you!	海蒂	现在没空跟你说这些！我们在赶时间。	海蒂	沒時間跟你說這些！我在趕時間！
+SeasonalTalkEvent_007_003ID	10		幹部の男	どうせ狙いは鱗だろ？	Leader	You've got an eye on the beast's scales, yeah?	男性干部	反正你的目标是鳞片吧？	男幹部	反正妳的目標是龍鱗吧？
+SeasonalTalkEvent_007_003ID	11		幹部の男	別に、お前の邪魔をするつもりも\n鱗を全部横取りするつもりもない	Leader	No need to give us that look. We're not here to get in your way. We'll even let you have those scales you're after.	男性干部	我们不打算碍你的事，\n也不会夺走所有的鳞片。	男幹部	我沒打算妨礙妳，\n也不會搶走全部的鱗片。
+SeasonalTalkEvent_007_003ID	12		幹部の男	ただ竜を倒すのに\n一枚噛ませてもらえないか？	Leader	We just want a cut of the pie. Or the dragon, as it were.	男性干部	不过，屠龙的计划能不能算上我们？	男幹部	只是想插一腳打倒那條龍，\n可以嗎？
+SeasonalTalkEvent_007_003ID	13	Heidi	ハイディ	いきなり何を言うかと思えば	Heidi	You're saying you want to work together? Give me a break.	海蒂	还以为你要说什么呢。	海蒂	我還以為你要說什麼呢。
+SeasonalTalkEvent_007_003ID	14		幹部の男	裏はないぞ。\nただ功績が欲しいだけだ	Leader	No tricks here. I need the notch on my belt.	男性干部	我没有别的企图，只是想要功劳。	男幹部	我可沒算計什麼，\n只是想要功績而已。
+SeasonalTalkEvent_007_003ID	15		幹部の男	俺には地位が必要なんだ。\nオリバー様に意見できるだけのな	Leader	A better standing in the Society is all I'm after. One that'll mean even Lord Oliver'll have to lend me his ear.	男性干部	因为我需要地位。\n足以向奥利弗大人提出意见的地位。	男幹部	我需要地位，\n能向奧利弗大人提出意見的地位。
+SeasonalTalkEvent_007_003ID	16	Heidi	ハイディ	んー…………？　どういうこと？	Heidi	Huh? What do you mean?	海蒂	嗯……？什么意思？	海蒂	嗯…………？什麼意思？
+SeasonalTalkEvent_007_003ID	17	Izana	イザナ	急がないと逃げちゃうよ！	Izana	Heidi! The dragon is going to get away!	伊札娜	再不快点，龙就要逃走了！	伊札娜	再不快點牠就要跑掉了喔！
+SeasonalTalkEvent_007_003ID	18	Heidi	ハイディ	っと、そうだね、あいつを倒すのが何より先決だ！\n問答している場合じゃない	Heidi	Agh, I almost forgot. Grilling you lot will have to wait—taking that dragon down comes first!	海蒂	啊，说得也是。第一要务是打倒那家伙！\n现在不是在这里废话的时候。	海蒂	啊，也是，眼下打倒那傢伙比什麼都重要！\n現在不是你問我答的時候！
+SeasonalTalkEvent_007_003ID	19		幹部の男	じゃあ交渉成立だな。勝算はある。\n特製の毒矢は用意してきた	Leader	Looks like we've got ourselves a deal. Lucky for you, we've brought a special somethin' to deal with our dragon friend: poison arrows.	男性干部	那就是成交了。我有胜算。\n我准备了特制的毒箭。	男幹部	那就算談妥了，我們是有勝算的。\n這邊準備了特製的毒箭。
+SeasonalTalkEvent_007_003ID	20		構成員Ｂ	それを俺が狙撃する。数多くの魔物を仕留めた\n必勝法ってやつだ	Member B	Leave that part to me. Felled many a monster with these things—work like a charm, they do.	成员B	我来狙击。这是杀死无数魔物的必胜法宝。	成員B	由我負責狙擊，\n這方法已經成功除掉眾多魔物了。
+SeasonalTalkEvent_007_003ID	21	Izana	イザナ	いたいた	Izana	There it is.	伊札娜	看到龙了。	伊札娜	找到了。
+SeasonalTalkEvent_007_003ID	22		幹部の男	まずは毒矢を撃ち込む。その後は頼んだぜ。\n準備はいいか？	Leader	All right. We'll stick the dragon with some arrows first, and then you two can have at it as you like. Everyone ready?	男性干部	首先，他会射出毒箭。之后就拜托你们了。\n都准备好了吗？	男幹部	我們先射牠一發毒箭，之後就拜託妳們了。\n你準備好了嗎？
+SeasonalTalkEvent_007_003ID	23		構成員Ｂ	もちろんです。狙いは首元だな……	Member B	Of course, sir. A shaft or two in the neck should do it...	成员B	当然。要瞄准颈部……	成員B	當然。瞄準頸部對吧……
+SeasonalTalkEvent_007_003ID	24		竜	！？	Dragon	?!	龙	？！	龍	！？
+SeasonalTalkEvent_007_003ID	25		構成員Ａ	！　おい殺気に気付いたぞ	Member A	Crap, it noticed us!	成员A	喂！它好像察觉到了杀气。	成員A	！喂、牠察覺到殺氣了。
+SeasonalTalkEvent_007_003ID	26	Izana	イザナ	逃げられる、いかせるかー！！	Izana	We can't let it get away!	伊札娜	要被它逃走了！休想跑！！	伊札娜	牠要逃走了，才不會讓你得逞！！
+SeasonalTalkEvent_007_003ID	27		幹部の男	羽ばたいていくぞ、撃て！	Leader	It's taking wing! Shoot it down!	男性干部	展翅高飞吧，发射！	男幹部	牠要飛走了，快射擊!
+SeasonalTalkEvent_007_003ID	28	Izana	イザナ	うわっ！？　なんて風圧……！	Izana	Whoa! This wind is so strong!	伊札娜	哇？！好强的风压……！	伊札娜	嗚哇！？好強的風壓……！
+SeasonalTalkEvent_007_003ID	29		構成員Ｂ	まずい、風に巻かれた矢が獣人に	Member B	The wind threw my arrow off! It's gonna hit the beastgirl!	成员B	不好，箭被风干扰，飞向兽人那边了！	成員B	糟了，被風捲走的箭矢往獸人的方向──
+SeasonalTalkEvent_007_003ID	30	Heidi	ハイディ	イザナ、危ない！	Heidi	Izana, look out!	海蒂	伊札娜，小心！	海蒂	伊札娜、危險！
+SeasonalTalkEvent_007_003ID	31		竜	グォォ……！	Dragon	Grraah...!	龙	唔噢噢……！	龍	吼喔喔……！
+SeasonalTalkEvent_007_003ID	32		幹部の男	何！？	Leader	What?!	男性干部	什么？！	男幹部	什麼！？
+SeasonalTalkEvent_007_003ID	33	Heidi	ハイディ	竜が……イザナを庇って矢を受けた！？	Heidi	The dragon... It shielded Izana with its own body?!	海蒂	龙……保护了伊札娜，替她挨了一箭？！	海蒂	龍……為了保護伊札娜擋下了箭！？
+SeasonalTalkEvent_007_003ID	34	Izana	イザナ	ひゃぁぁぁっ！？	Izana	Eeek?!	伊札娜	呀——？！	伊札娜	呀啊啊啊！？
+SeasonalTalkEvent_007_003ID	35	Heidi	ハイディ	イザナっ！	Heidi	Izana!	海蒂	伊札娜！	海蒂	伊札娜！
+SeasonalTalkEvent_007_003ID	36		幹部の男	くそっ、逃げられたか！\nおい、俺たちは痕跡を探して辿るぞ！	Leader	Tch, it got away! Leave the trackin' to us! We'll have it pinned down in no time!	男性干部	可恶，被它跑了！\n喂，我们去沿路找找线索！	男幹部	可惡，被牠給逃了嗎！\n喂，我們沿著蹤跡追上去！
+SeasonalTalkEvent_007_003ID	37	Heidi	ハイディ	って言ってもどっちの方に逃げたのかも\n分からないじゃんよ……\n	Heidi	Big talk when we don't even know which way it went...	海蒂	可是根本不知道它往哪个方向跑了啊……	海蒂	就算你這麼說，\n也不知道牠是往哪個方向逃的啊……
+SeasonalTalkEvent_007_003ID	38	Heidi	ハイディ	落ち着け、まず私はユナさんに報告だ	Heidi	No, I have to stay calm. I've got to tell Juna what happened!	海蒂	我得冷静下来，先向尤娜小姐报告吧。	海蒂	冷靜點，我先去跟尤娜報告。
+SeasonalTalkEvent_007_004ID	0	Resna	レスナ	イザナちゃんが竜に！？\nどうしてそんなことに……	Resna	Izana was taken by the dragon?! How could this happen?	蕾斯娜	伊札娜被龙抓走了？！\n怎么会这样……	蕾斯娜	伊札娜被龍抓走了！？\n為什麼事情會變成這樣……
+SeasonalTalkEvent_007_004ID	1	Roman	ロマン	申し訳ない。\n今、ユナに捜索してもらっている	Roman	My deepest apologies. I have Juna on the dragon's trail right now.	罗曼	抱歉。\n现在尤娜正在搜索她的下落。	羅曼	非常抱歉，\n現在正讓尤娜前往搜索。
+SeasonalTalkEvent_007_004ID	2	Roman	ロマン	すべては私の責任だよ。\n討伐のためとはいえ、甘く考えすぎていた	Roman	I bear full responsibility for what happened. As urgent as it was to deal with the dragon, the situation warranted more caution than my plan involved.	罗曼	一切都是我的责任。\n虽说是为了讨伐，但我把事情想得太简单了。	羅曼	一切都是我的責任。\n即便是為了討伐，我的計畫也太天真了。
+SeasonalTalkEvent_007_004ID	3	Roman	ロマン	月影の会の乱入も予想外だったが、\nまさか竜があのような行動を取るとは……	Roman	The presence of the Moonlight Society was unexpected in itself, but I think the dragon's actions were perhaps the biggest surprise of all...	罗曼	月影会介入也是意料之外的事，\n但万万没想到龙会采取那种行动……	羅曼	雖說不請自來的月影會也是預料之外的狀況，\n但萬萬沒想到龍會採取那樣的行動……
+SeasonalTalkEvent_007_004ID	4	Roman	ロマン	ハイディ。君にも危険な役目を\n負わせてしまって、すまなかった	Roman	Heidi, I must also apologize to you for putting you in such a dangerous situation.	罗曼	抱歉，海蒂，\n我不该让你扮演这么危险的角色。	羅曼	海蒂，對不起，\n我也讓妳擔負了這麼危險的任務。
+SeasonalTalkEvent_007_004ID	5	Heidi	ハイディ	いや、ロマンが謝ることじゃないよ。\n自分で決めたことだし	Heidi	It's not your fault, Roman. I was there because I agreed to be, after all.	海蒂	不，罗曼，你不用道歉。\n这是我自己的决定。	海蒂	沒關係，羅曼不需要道歉。\n畢竟這是我自己的決定。
+SeasonalTalkEvent_007_004ID	6	Heidi	ハイディ	あの時、イザナの一番近くにいたのは私だった。\nでも結局、みすみす攫わせちゃったんだ……	Heidi	I was right there, but I let the dragon snatch Izana out from under my nose...	海蒂	而且当时离伊札娜最近的人是我，\n但最后，我还是只能眼睁睁看着她被抓走……	海蒂	那時候，距離伊札娜最近的人是我。\n可是我最後卻只能眼睜睜看著她被抓走……
+SeasonalTalkEvent_007_004ID	7	Heidi	ハイディ	あの竜の動向は、伝承と同じだった。ってことは\nイザナをさらったのも、ただの捕食目的じゃないはず	Heidi	That dragon was behaving exactly as the dragon in the legend did. I don't think it did all that just because of an empty stomach.	海蒂	那条龙的行为和传说中的一模一样。\n它带走伊札娜应该不只是为了捕食。	海蒂	那條龍的動向與傳說如出一轍。也就是說，\n牠抓走伊札娜的目的，應該不是單純為了捕食而已。
+SeasonalTalkEvent_007_004ID	8	Heidi	ハイディ	私、このまま終わるつもりなんてないから。\n絶対にこの手でイザナを取り戻す	Heidi	I can't just stand around while Izana's in danger. I'll get her back if it's the last thing I do!	海蒂	我不打算就此善罢甘休。\n我一定会亲手夺回伊札娜的。	海蒂	我不會讓事情就這樣結束的，\n我一定要親自把伊札娜搶回來。
+SeasonalTalkEvent_007_004ID	9	Roman	ロマン	……ハイディ。\n分かった、君に任せよう	Roman	Heidi... Understood. I'll leave the matter of Izana's rescue to you.	罗曼	海蒂……\n我明白了，那就交给你了。	羅曼	……海蒂。\n我知道了，就交給妳吧。
+SeasonalTalkEvent_007_004ID	10	Heidi	ハイディ	そう来ないとね！	Heidi	I won't let you down!	海蒂	这才对嘛！	海蒂	這樣就對了！
+SeasonalTalkEvent_007_004ID	11	Resna	レスナ	でも、イザナちゃんがどこに連れ去られたか\n分からないんですよね？	Resna	Do we even know where Izana was taken, though?	蕾斯娜	但是，现在还不知道伊札娜被带到哪里去了吧？	蕾斯娜	可是，妳不曉得伊札娜\n被帶到哪裡了，對吧？
+SeasonalTalkEvent_007_004ID	12	Roman	ロマン	ああ……恐らく、竜のすみかだとは思うが。\nその場所は特定できていない	Roman	"It's safe to assume that the dragon spirited its new ""bride"" back to its nest. The problem being, of course, where that nest is..."	罗曼	是啊……恐怕是被带到龙的巢穴去了。\n但不知道具体在哪。	羅曼	是啊……我想她是被帶回龍的巢穴了，\n但無法確定那裡的位置。
+SeasonalTalkEvent_007_004ID	13	Heidi	ハイディ	とにかく私、情報収集してくる！	Heidi	Well, first things first. Time to ask around and gather some information!	海蒂	总之，我先去收集信息！	海蒂	總之，我先去蒐集情報！
+SeasonalTalkEvent_007_004ID	14	Heidi	ハイディ	竜に襲われた人たちに話を聞けば\n何か分かるかもしれないし	Heidi	We may be able to figure out where it went if we ask the people who were attacked.	海蒂	问问那些被龙袭击过的人，\n说不定能查出些什么。	海蒂	問問那些被龍襲擊過的人，\n或許能知道一點什麼。
+SeasonalTalkEvent_007_004ID	15	Resna	レスナ	私にも手伝わせてください！	Resna	Please, let me help too!	蕾斯娜	请让我也来帮忙吧！	蕾斯娜	也請讓我幫忙！
+SeasonalTalkEvent_007_004ID	16	Roman	ロマン	君ならきっとそう言うと思ったんだが……	Roman	I thought you might say that, Resna.	罗曼	我就知道你肯定会这么说……	羅曼	就知道妳一定會這麼說……
+SeasonalTalkEvent_007_004ID	17	Roman	ロマン	竜に襲われたケガ人たちに使う包帯や軟膏が\n足りなくなったらしい	Roman	But the dragon injured many, and I hear supplies of bandages and ointments are running thin.	罗曼	可是，为遭到龙袭击的伤者包扎的绷带和药膏不够用了。	羅曼	但被龍襲擊的傷患需要用到的繃帶\n和軟膏似乎不夠了。
+SeasonalTalkEvent_007_004ID	18	Roman	ロマン	アーシャはケガ人の看護に追われているから……\nレスナ、調達を頼めないかい？	Roman	Ayesha has her hands full tending to their injuries, so I was hoping I could count on you to procure more.	罗曼	爱夏正忙着照顾伤者……\n蕾斯娜，能拜托你帮忙准备吗？	羅曼	愛夏她正忙著照顧傷患……\n所以蕾斯娜，能拜託妳安排一下嗎？
+SeasonalTalkEvent_007_004ID	19	Resna	レスナ	…………	Resna	...	蕾斯娜	…………	蕾斯娜	…………
+SeasonalTalkEvent_007_004ID	20	Heidi	ハイディ	大丈夫。\nあんたの相棒は、私が必ず連れて帰るから	Heidi	Don't worry, Resna. I'll make sure your partner gets back to you safe and sound.	海蒂	别担心，我一定会把你的搭档带回来的。	海蒂	別擔心，\n我一定會把妳的搭檔帶回來的。
+SeasonalTalkEvent_007_004ID	21	Resna	レスナ	……分かりました。\nよろしくお願いします、ハイディさん	Resna	...All right. Please bring Izana home, Heidi!	蕾斯娜	……好的。\n那就拜托你了，海蒂小姐。	蕾斯娜	……我知道了。\n拜託妳了，海蒂小姐。
+SeasonalTalkEvent_007_004ID	22		男性	そりゃあ驚いたのなんのって。\nまさか竜に出くわすとは思わなかったよ	Man	Biggest scare of my life, it was. Never thought I'd be set on by a dragon, of all things...	男人	没想到会遇到龙，我当时真是大吃了一惊。	男性	那還真是嚇了我一大跳，\n我壓根沒想到會遇見龍啊。
+SeasonalTalkEvent_007_004ID	23	Heidi	ハイディ	その時、気付いたことってない？\n竜に襲われるような心当たりとかさ	Heidi	Do you have any idea why the dragon might have attacked you?	海蒂	当时有注意到什么吗？\n比如被龙袭击的原因之类的。	海蒂	那時你有注意到什麼事嗎？\n像是為什麼會被龍襲擊之類的。
+SeasonalTalkEvent_007_004ID	24		男性	いや、特にはないな。あの日は\n染料になる花を採りに行っただけだし……	Man	Can't say that I do, miss. Only thing I was doing that day was heading out to pick flowers. Use them to make dye, y'see.	男人	没什么头绪啊。\n那天我只是去采集用作染料的花而已……	男性	沒有，沒什麼特別的。\n那天我只是去採了些可以做染料的花而已……
+SeasonalTalkEvent_007_004ID	25	Heidi	ハイディ	染料になる花か……	Heidi	Flowers? Hmm...	海蒂	用作染料的花……	海蒂	可以做染料的花啊……
+SeasonalTalkEvent_007_004ID	26	Heidi	ハイディ	――というわけで、\n何人かに話を聞いてみたけど	Heidi	So the people I talked to were all doing different things when the dragon appeared.	海蒂	我问了好几个人——	海蒂	──就這樣，\n我問了好幾個人，但……
+SeasonalTalkEvent_007_004ID	27	Heidi	ハイディ	みんな、目的も行動もばらばらで\n竜が襲う理由はなさそうだったんだ	Heidi	And none of them were doing anything that would have caught its interest, let alone provoked it into attacking them.	海蒂	大家遇袭时的目的和行动都各不相同，\n似乎构不成龙发起袭击的理由。	海蒂	大家的目的和行動都不一樣，\n似乎沒有讓龍襲擊他們的理由。
+SeasonalTalkEvent_007_004ID	28	Heidi	ハイディ	ただ、襲われた場所には\nある共通点があったんだよね	Heidi	But the places they were attacked all had something in common.	海蒂	不过大家遇袭的地点有一个共同点。	海蒂	不過，他們遭到襲擊的地方\n倒是都有個共通點。
+SeasonalTalkEvent_007_004ID	29	Roman	ロマン	共通点？	Roman	What's that?	罗曼	共同点？	羅曼	共通點？
+SeasonalTalkEvent_007_004ID	30	Heidi	ハイディ	花だよ、花！　竜が現れた場所には\n必ず、ある「花」が咲いてたの	Heidi	Flowers. All of them mentioned a particular flower growing near where they encountered the dragon.	海蒂	花，和花有关！\n龙出现的地方一定开着某种“花”。	海蒂	花，就是花！\n龍出現的地方一定會開著某種「花」。
+SeasonalTalkEvent_007_004ID	31	Heidi	ハイディ	調べてみたけど、ジュゲル州の特定の場所にしか\n咲かない花みたいだね	Heidi	From what I could gather, it's a flower that only grows in certain places in the Yuggel Province.	海蒂	我查了一下，\n发现这种花只会开在尤格鲁州的特定地点。	海蒂	我調查了一下，發現那種花好像只會開在\n朱格爾州的幾個特定地點呢。
+SeasonalTalkEvent_007_004ID	32	Roman	ロマン	……なるほど。\n竜の狙いが、その花である可能性は高いね	Roman	I see. Then I think we can say with some certainty that our dragon has its eyes on that flower.	罗曼	原来如此。\n龙的目标很有可能就是那种花。	羅曼	……原來如此。\n龍的目標很有可能就是那種花。
+SeasonalTalkEvent_007_004ID	33	Heidi	ハイディ	だから、その花を使えば\n竜をおびき出すことができるんじゃない？	Heidi	Yeah. I was thinking that we could use it to draw the dragon out of hiding.	海蒂	所以只要用那种花，\n就能把龙引出来了吧？	海蒂	所以用那種花，\n應該就能把龍給引出來了吧？
+SeasonalTalkEvent_007_004ID	34	Roman	ロマン	すみかに戻るところを追跡すれば、\nイザナの居場所も分かるかもしれないね、うん！	Roman	And if we follow it back to its lair, there's a good chance we'll find clues as to Izana's whereabouts too. Excellent!	罗曼	如果能追踪它回到巢穴，\n应该就能找到伊札娜的下落了，这办法不错！	羅曼	只要跟蹤牠回巢穴，\n或許也就能得知伊札娜人在哪裡了，嗯！
+SeasonalTalkEvent_007_004ID	35	Heidi	ハイディ	そうと決まれば、早速花を採って来るよ。\n絶対にすみかを探し出さなきゃね！	Heidi	I'll start gathering flowers, then! The sooner we can find its lair, the better.	海蒂	既然决定了，就赶紧去采花吧！\n我们一定要找到它的巢穴！	海蒂	既然這麼決定了，我立刻就去把花採回來。\n我們一定要找到牠的巢穴！
+SeasonalTalkEvent_007_005ID	0	Izana	イザナ	え、えっと……	Izana	Um...	伊札娜	那、那个……	伊札娜	那、那個……
+SeasonalTalkEvent_007_005ID	1		竜	グォ……	Dragon	Grr...	龙	唔噢……	龍	吼喔……
+SeasonalTalkEvent_007_005ID	2	Izana	イザナ	お、お魚？　あ、ありがと……	Izana	A fish? For me? H-How kind of you...	伊札娜	鱼？谢、谢谢你……	伊札娜	是、是魚？謝、謝謝你……
+SeasonalTalkEvent_007_005ID	3		竜	グォォ……	Dragon	Graahh...	龙	唔噢噢……	龍	吼喔喔……
+SeasonalTalkEvent_007_005ID	4	Izana	イザナ	果物？　これもくれるの？	Izana	And fruit, too? You're sure?	伊札娜	水果？这也是给我的吗？	伊札娜	水果？這個也要給我嗎？
+SeasonalTalkEvent_007_005ID	5		竜	グォォォ……	Dragon	Grrrhh...	龙	唔噢噢噢……	龍	吼喔喔喔……
+SeasonalTalkEvent_007_005ID	6	Izana	イザナ	あはは……あ、ありがとね	Izana	Ahaha... Th-Thank you.	伊札娜	哈哈……谢、谢谢。	伊札娜	啊哈哈……謝、謝謝你喔。
+SeasonalTalkEvent_007_005ID	7	Izana	イザナ	（ここって竜のすみか……かな？）	Izana	(This must be the dragon's lair.)	伊札娜	（这里是……龙的巢穴吧？）	伊札娜	（這裡是龍的巢穴……對吧？）
+SeasonalTalkEvent_007_005ID	8	Izana	イザナ	（アタシ、攫われてきたんだよね？\n　やたら手厚く歓迎されてる気が……）	Izana	(I have to say, I wasn't expecting such a warm welcome...)	伊札娜	（我不是被掳来的吗？\n　总感觉受到了热情的招待……）	伊札娜	（我是被抓來的吧？\n　但感覺牠很熱情地在款待我呢……）
+SeasonalTalkEvent_007_005ID	9		竜	グォ	Dragon	Grh.	龙	唔噢。	龍	吼喔。
+SeasonalTalkEvent_007_005ID	10	Izana	イザナ	（なんでこんなにアタシに優しいんだろう）	Izana	(But why is it being so gentle all of a sudden?)	伊札娜	（它为什么对我这么好？）	伊札娜	（牠為什麼對我這麼溫柔呢？）
+SeasonalTalkEvent_007_005ID	11		竜	グ……	Dragon	Ghhh...	龙	唔……	龍	吼……
+SeasonalTalkEvent_007_005ID	12	Izana	イザナ	？	Izana	?	伊札娜	？	伊札娜	？
+SeasonalTalkEvent_007_005ID	13		竜	グ……グァ……	Dragon	G... Grrroah...	龙	唔……唔啊……	龍	吼……吼啊……
+SeasonalTalkEvent_007_005ID	14	Izana	イザナ	い、いきなりどうしたの！？	Izana	Wh-What's wrong?!	伊札娜	突、突然怎么了？！	伊札娜	這、這麼突然是怎麼了！？
+SeasonalTalkEvent_007_005ID	15	Izana	イザナ	傷が……痛いの？	Izana	Does your wound hurt?	伊札娜	伤口……很疼吗？	伊札娜	傷口……很痛嗎？
+SeasonalTalkEvent_007_005ID	16	Izana	イザナ	（まさか……あの時の矢の毒……）	Izana	(Could it be the poison from the arrow?)	伊札娜	（难道……是那时候箭上的毒……）	伊札娜	（難道說……是那時箭上的毒……）
+SeasonalTalkEvent_007_005ID	17	Izana	イザナ	（そういえば、ところどころ苔むしてると\n　思ってたけど……よく見ると、鱗もひび割れてる）	Izana	(This dragon... I thought it looked a bit mossy, but its scales are also quite worn.)	伊札娜	（说起来，我还想它怎么浑身都长着青苔……\n　仔细一看，它的鳞片都裂开了。）	伊札娜	（這麼說來，我原以為牠身上到處都長了苔……\n　但仔細一看，鱗片也有裂痕了。）
+SeasonalTalkEvent_007_005ID	18	Izana	イザナ	（……かなりお爺ちゃんなんだ）	Izana	(It must be quite old even for a dragon.)	伊札娜	（看来它年纪不小了。）	伊札娜	（……牠年紀很大了吧。）
+SeasonalTalkEvent_007_005ID	19	Izana	イザナ	（しかも、だいぶ弱ってる……？）	Izana	(Even so, it seems very weak.)	伊札娜	（而且还很虚弱……？）	伊札娜	（而且，好像很虛弱……？）
+SeasonalTalkEvent_007_005ID	20		竜	グァァ……	Dragon	Grroahhh...	龙	唔啊……	龍	吼啊啊……
+SeasonalTalkEvent_007_005ID	21	Izana	イザナ	（すごく、苦しそう……）	Izana	(And it seems like it's in so much pain...)	伊札娜	（它看起来好痛苦……）	伊札娜	（牠感覺很痛苦……）
+SeasonalTalkEvent_007_005ID	22		竜	グ……？	Dragon	Grr...?	龙	唔……？	龍	吼……？
+SeasonalTalkEvent_007_005ID	23	Izana	イザナ	……？　キョロキョロしてどうしたの？	Izana	What is it? Do you hear something?	伊札娜	嗯……？东张西望地怎么了？	伊札娜	……？你怎麼東張西望的？
+SeasonalTalkEvent_007_005ID	24		竜	グァッ！！	Dragon	Grrgh!	龙	唔！！	龍	吼啊！！
+SeasonalTalkEvent_007_005ID	25		竜	ゴアアアアア！！！	Dragon	Graaahh!	龙	嗷啊啊啊啊啊！！	龍	吼啊啊啊啊啊！！！
+SeasonalTalkEvent_007_005ID	26	Izana	イザナ	（っ！　あんなに優しかったのに、また怖い！？）	Izana	(Eek! Why so scary again all of a sudden?!)	伊札娜	（哇！之前还那么温柔，现在又变得好可怕！）	伊札娜	（唔！剛剛明明那麼溫柔的，怎麼又變恐怖了！？）
+SeasonalTalkEvent_007_005ID	27	Izana	イザナ	えっ！？　そ、そんな身体でどこに行くの！？	Izana	Wait! Where are you going?! You're hurt!	伊札娜	什么？！你、你要拖着那副身体去哪里？！	伊札娜	咦！？你、你拖著那樣的身體要去哪裡！？
+SeasonalTalkEvent_007_005ID	28		オリバー	うちの会の何人かが、ジュゲル州原野に棲む\n竜を倒そうと向かったらしい	Oliver	It seems some of our members are currently in Yuggel for a spot of dragon hunting.	奥利弗	我们会的几个成员，\n似乎前去打倒栖息在尤格鲁州的龙了。	奧利弗	我們月影會好像有幾個人前往朱格爾州，\n想打倒棲息在原野上的龍。
+SeasonalTalkEvent_007_005ID	29		オリバー	中には幹部もいる、と	Oliver	And what's more, one of our esteemed leaders is among their ranks.	奥利弗	据说其中还包括了干部。	奧利弗	聽說其中也有幹部。
+SeasonalTalkEvent_007_005ID	30	Crow	鴉	希少な部位を手に入れて、\n組織への貢献を狙ったのでしょう	Crow	I imagine they seek to procure rare materials for the Society.	鸦	他们可能是打算得到稀有部位，\n为组织做贡献吧。	烏鴉	他們應該是想取得稀有部位，\n為組織做出貢獻吧。
+SeasonalTalkEvent_007_005ID	31		オリバー	身のほども知らずに自分たちだけで決行とは、愚かな。\n鴉を同行させたものを	Oliver	Fools. What do they hope to achieve, acting behind my back? I would have granted them your support if they had but asked.	奥利弗	不知道自己几斤几两还擅自行动，真是愚蠢。\n明明可以让鸦一同前往的。	奧利弗	居然不知天高地厚地擅自行動，真是愚蠢。\n明明可以讓烏鴉同行的。
+SeasonalTalkEvent_007_005ID	32	Crow	鴉	では援護に向かいます	Crow	I will go to render assistance immediately.	鸦	那么我这就前去支援他们。	烏鴉	那麼我去支援。
+SeasonalTalkEvent_007_005ID	33		オリバー	援護の必要は無い。お前の足を引っ張りかねん	Oliver	No need. They'll only slow you down.	奥利弗	没这个必要。他们会拖累你的。	奧利弗	沒必要支援，他們可能會扯妳後腿。
+SeasonalTalkEvent_007_005ID	34	Crow	鴉	！	Crow	!	鸦	！	烏鴉	！
+SeasonalTalkEvent_007_005ID	35		オリバー	お前はお前で動き、竜の鱗を手に入れろ	Oliver	Find the dragon and bring me its scales. Do not concern yourself with the others.	奥利弗	你按照你的方式去获取龙鳞吧。	奧利弗	妳就按自己的方式行動，把龍麟弄到手吧。
+SeasonalTalkEvent_007_005ID	36	Crow	鴉	――はっ。ジュゲル州へ向かいます	Crow	Yes, sir. I'll set off for Yuggel at once.	鸦	是。我这就出发前往尤格鲁州。	烏鴉	──是，那我就前往朱格爾州了。
+SeasonalTalkEvent_007_006ID	0	Heidi	ハイディ	ふうっ、即席花畑の完成っと！\nこれだけ植えれば十分でしょ	Heidi	Phew! Not bad for an impromptu flower field, if I do say so myself.	海蒂	呼～临时花田完成！\n种这么多应该够了吧？	海蒂	呼～臨時花田完成！\n種這麼多，應該夠了吧。
+SeasonalTalkEvent_007_006ID	1	Juna	ユナ	私が完全追跡できていれば良かったのだが……	Juna	Forgive me. This wouldn't have been necessary if I had managed to find its lair.	尤娜	要是我能追踪到底就好了……	尤娜	如果我能徹底追蹤到牠就好了……
+SeasonalTalkEvent_007_006ID	2	Heidi	ハイディ	ここまで追えただけでも十分だって！	Heidi	Not at all! I'm impressed you managed to track it this far.	海蒂	能追到这里已经很好了！	海蒂	能追到這裡就已經很厲害了啦！
+SeasonalTalkEvent_007_006ID	3	Roman	ロマン	さて、あとは竜がこの花に気付くかどうかだが……\n物陰に隠れて様子を見るとしよう	Roman	Now the only question is whether our floral efforts will be enough to catch the dragon's eye. Let's take to the shadows and wait, shall we?	罗曼	好了，接下来就看龙能不能发现这些花了……\n我们躲到暗处观察吧。	羅曼	好了，接下來就看龍會不會注意到這些花了……\n我們躲到暗處伺機而動吧。
+SeasonalTalkEvent_007_006ID	4	Juna	ユナ	私はまた少し距離をとっています	Juna	I will keep my distance until it makes its appearance.	尤娜	我再离远一点。	尤娜	我再稍微離你們遠一點。
+SeasonalTalkEvent_007_006ID	5	Heidi	ハイディ	（これで竜が来る確証はない）	Heidi	(There's no telling whether this will work...)	海蒂	（现在还不确定龙会不会来。）	海蒂	（這樣並不能保證龍一定會來。）
+SeasonalTalkEvent_007_006ID	6	Heidi	ハイディ	（でも、今のところ手掛かりは\n　あの花しかないからな……）	Heidi	(But these flowers are the only lead we have.)	海蒂	（但目前的线索只有那种花……）	海蒂	（可是，目前的線索\n　就只有那種花而已……）
+SeasonalTalkEvent_007_006ID	7	Heidi	ハイディ	それにしても、この前はびっくりしたな。\nあんな所であいつらと会うなんて	Heidi	Still, I didn't think I'd run into those guys while trying to lure out a dragon, of all things.	海蒂	不过先前真是吓我一跳。\n没想到会在那种地方遇到他们。	海蒂	話說回來，上次嚇了我一跳呢。\n沒想到會在那種地方遇上那群傢伙。
+SeasonalTalkEvent_007_006ID	8	Roman	ロマン	報告にあった月影の会のことかい	Roman	Ah, yes. You mentioned that you ran into some Moonlight Society members in your report.	罗曼	你是说报告中提到的月影会吗？	羅曼	妳是指報告中提過的月影會嗎？
+SeasonalTalkEvent_007_006ID	9	Heidi	ハイディ	あそこにいた幹部の奴っていうのはね……	Heidi	Yeah. One of the Society bigwigs was even there.	海蒂	当时的那个干部……	海蒂	當時在場的那名幹部……
+SeasonalTalkEvent_007_006ID	10	Heidi	ハイディ	あいつは、本来はこんなとこまで\n出張ってくるような立場じゃないんだよ	Heidi	He's not normally the sort you'd see out and about on field missions, either.	海蒂	以那人的立场，应该不用到这种地方出差的。	海蒂	原本以他的身分\n是不該來這種地方的。
+SeasonalTalkEvent_007_006ID	11	Roman	ロマン	そんなに地位が上なのかい？	Roman	Oh? He must be quite the Society elite.	罗曼	他的地位有那么高？	羅曼	他的地位那麼高嗎？
+SeasonalTalkEvent_007_006ID	12	Heidi	ハイディ	うん、会の中でもかなり古株だしね	Heidi	I suppose he's what you would call a veteran member, yeah.	海蒂	嗯。他在会里也是元老级别的。	海蒂	嗯，畢竟他在會裡資歷很深。
+SeasonalTalkEvent_007_006ID	13	Heidi	ハイディ	それに……子守りで忙しいから	Heidi	He's usually got his hands full with the children, too.	海蒂	而且……他还要忙着照顾孩子。	海蒂	而且……他又忙著照顧孩子。
+SeasonalTalkEvent_007_006ID	14	Roman	ロマン	子守り？	Roman	Children?	罗曼	照顾孩子？	羅曼	照顧孩子？
+SeasonalTalkEvent_007_006ID	15	Heidi	ハイディ	湾岸地区で拾った身寄りのない子どもたちに\nご飯をあげたり、勉強を教えたりしてんの	Heidi	There are a bunch of orphans he's taken in from around the bay area. He makes sure they have enough food, teaches them how to read—that sort of thing.	海蒂	他会给在海岸地区捡到的无依无靠的孩子们\n提供食物，还会教他们学习。	海蒂	他會在海灣地區撿一些無親無故的孩子們回家，\n給他們飯吃、教他們念書。
+SeasonalTalkEvent_007_006ID	16	Heidi	ハイディ	「俺たちは、王国に見放された奴らの\n　最後の受け皿にならなくちゃいけないんだ」って	Heidi	"""The kingdom ain't there for them, so someone's gotta be!"" That's what he's always saying."	海蒂	他说：“我们必须成为\n那些被王国遗弃之人最后的庇护所。”	海蒂	他曾說「對於那些被王國拋棄的傢伙，\n我們必須成為他們最後的歸屬」。
+SeasonalTalkEvent_007_006ID	17	Roman	ロマン	そんな幹部が、さらなる発言力を求めている	Roman	And this member seeks to have a greater say in things, does he...	罗曼	而现在，这个地位的干部在寻求更大的发言权。	羅曼	那個幹部正在追求更進一步的發言權。
+SeasonalTalkEvent_007_006ID	18	Roman	ロマン	月影の会は今、幹部ですら易々と止めることが\nできない、大きなうねりの中にあるということか	Roman	The Moonlight Society seems to be in a greater state of upheaval than I thought... One that even its upper echelons seem hard-pressed to control.	罗曼	难道月影会现在正处于\n连干部都无法轻易阻止的巨大动荡之中吗？	羅曼	也就是說，月影會現在正處於\n連幹部都無法輕易平息的動盪之中嗎？
+SeasonalTalkEvent_007_006ID	19	Heidi	ハイディ	なかなか来ないな……	Heidi	This dragon certainly likes to take its time...	海蒂	怎么还不来啊……	海蒂	牠一直不來耶……
+SeasonalTalkEvent_007_006ID	20	Roman	ロマン	……！\nハイディ、見て！	Roman	Oh! Heidi, over there!	罗曼	啊！\n海蒂，快看！	羅曼	……！\n海蒂，妳看！
+SeasonalTalkEvent_007_006ID	21	Heidi	ハイディ	来た、竜だ！	Heidi	There it is! The dragon!	海蒂	龙来了！	海蒂	來了，是龍！
+SeasonalTalkEvent_007_006ID	22		竜	グルル……	Dragon	Grrr...	龙	咕噜噜……	龍	吼嚕嚕……
+SeasonalTalkEvent_007_006ID	23	Heidi	ハイディ	……あいつ何してんの？\nもしかして、花を持ち帰ろうとしてる？	Heidi	What's it doing? Is it trying to take the flowers back with it?	海蒂	它在做什么？\n难道打算把花带回去？	海蒂	……牠在做什麼？\n難道說，牠是想把花帶回去？
+SeasonalTalkEvent_007_006ID	24	Roman	ロマン	なぜ竜が、そんなことを……	Roman	But why would a dragon do such a thing?	罗曼	龙为什么要做这种事……	羅曼	為什麼龍要做那種事……
+SeasonalTalkEvent_007_006ID	25	Roman	ロマン	竜がすみかに戻る、追おう！	Roman	It must be going back to its lair! Quick, let's follow it!	罗曼	龙出发回巢了，快追！	羅曼	龍要回巢了，我們追上去！
+SeasonalTalkEvent_007_006ID	26	Heidi	ハイディ	こっちのほうに来たはずなんだけど……	Heidi	Strange... I thought it had gone this way—	海蒂	它应该是往这边飞了啊……	海蒂	牠應該是往這個方向來的沒錯啊……
+SeasonalTalkEvent_007_006ID	27	Heidi	ハイディ	あ、あっちだ！	Heidi	Wait, over there!	海蒂	啊，在那边！	海蒂	啊，那邊！
+SeasonalTalkEvent_007_006ID	28	Roman	ロマン	本当だ。\n色がついた竜の足跡が続いている	Roman	Those do indeed seem to be dragon tracks. And surprisingly colorful ones, at that.	罗曼	的确。\n有一排沾了颜色的龙脚印。	羅曼	真的耶，\n龍沿路留下了牠染上顏色的足跡。
+SeasonalTalkEvent_007_006ID	29	Heidi	ハイディ	実はね、さっき植えた花の周りに、\n赤い果物の果汁を撒いておいたんだ	Heidi	That would be my doing. I spread bright red fruit juice on the ground when we were planting the flowers earlier.	海蒂	其实我还在刚刚种下的花周围\n洒了红色水果的果汁。	海蒂	其實，我在剛才種的花田周圍，\n撒了一些紅色水果的汁液。
+SeasonalTalkEvent_007_006ID	30	Roman	ロマン	さすが	Roman	That's our Heidi! Ever dependable.	罗曼	真聪明。	羅曼	真了不起！
+SeasonalTalkEvent_007_006ID	31	Heidi	ハイディ	ふっふっふ、斥候の知恵だよ	Heidi	Heh heh! All that scouting experience pays off, huh!	海蒂	嘿嘿嘿！这就是侦察兵的智慧。	海蒂	哼哼哼，這是斥候的智慧喔。
+SeasonalTalkEvent_007_006ID	32	Juna	ユナ	殿下！　もはや待ち伏せは必要ありません。\nここから先は私がいきます	Juna	Your Highness! I suggest we take the offensive from here on. By your leave, I will take the lead.	尤娜	殿下！已经不需要埋伏了。\n之后我会主动出击。	尤娜	殿下！已經沒必要再埋伏了。\n接下來就由我去吧。
+SeasonalTalkEvent_007_006ID	33	Roman	ロマン	あぁ、頼んだよユナ。私は支援にまわろう	Roman	Go ahead, Juna. I'll remain here to provide support.	罗曼	好。拜托你了，尤娜。我来支援。	羅曼	嗯，拜託妳了，尤娜。我去調度支援。
+SeasonalTalkEvent_007_007ID	0	Heidi	ハイディ	中は薄暗いね。どこに竜が潜んでいるか\n分からないし、警戒しながら進まないと……	Heidi	It looks so dark in there. And the dragon could be anywhere... We'll have to be careful.	海蒂	里面好暗啊。\n也不知道龙藏在哪里，小心前进吧……	海蒂	裡面很昏暗耶，不知道龍會潛伏在哪裡，\n得謹慎前進才行……
+SeasonalTalkEvent_007_007ID	1	Juna	ユナ	……っ！？　待て、ハイディ！	Juna	?! Heidi, wait!	尤娜	啊？！海蒂，等等！	尤娜	……！？等等，海蒂！
+SeasonalTalkEvent_007_007ID	2	Heidi	ハイディ	え？	Heidi	Huh?	海蒂	嗯？	海蒂	咦？
+SeasonalTalkEvent_007_007ID	3	Juna	ユナ	奥から何か来る！	Juna	Something's coming!	尤娜	里面有什么过来了！	尤娜	裡面有東西往我們方向來了！
+SeasonalTalkEvent_007_007ID	4	Heidi	ハイディ	もしかして……！	Heidi	Is it the dragon?!	海蒂	难道是……！	海蒂	難道……！
+SeasonalTalkEvent_007_007ID	5		竜	グオオォンッ！！	Dragon	Grraahh!	龙	唔噢噢噢！！	龍	吼──！！
+SeasonalTalkEvent_007_007ID	6	Heidi	ハイディ	竜だ！	Heidi	It is!	海蒂	是龙！	海蒂	是龍！
+SeasonalTalkEvent_007_007ID	7	Juna	ユナ	気付かれていたか！	Juna	It must have sensed our approach!	尤娜	我们被发现了！	尤娜	被牠發現了嗎！？
+SeasonalTalkEvent_007_007ID	8		竜	ガアァァッ！	Dragon	GROAAAR!	龙	唔嗷嗷嗷！	龍	嘎啊啊啊！
+SeasonalTalkEvent_007_007ID	9	Heidi	ハイディ	うわっ！　あぶなっ！	Heidi	Whoa! That was close!	海蒂	哇啊？！好险！	海蒂	嗚哇！好危險！
+SeasonalTalkEvent_007_007ID	10	Juna	ユナ	ハイディ、下がれ！　私が相手をする！	Juna	Heidi, fall back! Let me handle this!	尤娜	海蒂，后退！我来做它的对手！	尤娜	海蒂，妳退後！我來對付牠！
+SeasonalTalkEvent_007_007ID	11		竜	グオオオオオッ！！	Dragon	GROAAAR!	龙	唔噢噢噢噢！！	龍	吼────！！
+SeasonalTalkEvent_007_007ID	12	Juna	ユナ	なにっ！？　かわされた！？	Juna	It dodged my blow?!	尤娜	什么？！居然被它躲开了！	尤娜	什麼！？牠避開了我！？
+SeasonalTalkEvent_007_007ID	13	Heidi	ハイディ	ち、ちょっと！\nなんで私ばっかり狙うの！？	Heidi	W-Wait! Why is it coming this way?!	海蒂	喂，等等！\n为什么只盯着我啊！	海蒂	等、等等！\n為什麼只追著我！？
+SeasonalTalkEvent_007_007ID	14		竜	ギャオオオン！！	Dragon	GROOAARR!	龙	嘎噢噢噢！！	龍	嘎喔喔喔！！
+SeasonalTalkEvent_007_007ID	15	Heidi	ハイディ	ぐっ！　容赦ないなっ！\n花嫁さんには優しくするもんでしょ！	Heidi	Hmph! You'd think it would treat its would-be bride more kindly!	海蒂	唔！真是不留情面！\n你不应该对新娘温柔一点吗？！	海蒂	唔！真不客氣耶！\n對新娘應該要溫柔一點吧！
+SeasonalTalkEvent_007_007ID	16	Juna	ユナ	竜が狂暴化している？　……そうだ、ハイディ！\nあの花は、まだ持っているか！？	Juna	The dragon has worked itself into a frenzy. Heidi! Do you still have those flowers from earlier?	尤娜	龙正处在狂暴状态？\n对了，海蒂！你身上还有那种花吗？！	尤娜	龍越來越凶暴了？……對了，海蒂！\n妳身上還有那種花嗎！？
+SeasonalTalkEvent_007_007ID	17	Heidi	ハイディ	え？　ああ、うん。\n残りの花がまだあるけど……ほら	Heidi	What? Oh, yes! I still have some here—	海蒂	嗯？啊，有的。\n我还有些剩下的花……不过只有这么点。	海蒂	咦？啊，有。\n花是還有剩啦……妳看。
+SeasonalTalkEvent_007_007ID	18		竜	グギャアアアアア！！	Dragon	GRROAARGH!	龙	唔嘎啊啊啊啊啊！！	龍	吼嘎────！！
+SeasonalTalkEvent_007_007ID	19	Heidi	ハイディ	うわっ、すごい声！\nめちゃくちゃ怒ってるじゃん	Heidi	Ugh, my ears! This dragon certainly has its tail in a twist!	海蒂	哇！好大的声音！\n感觉它正在气头上。	海蒂	嗚哇，好驚人的聲音！\n牠超生氣的耶。
+SeasonalTalkEvent_007_007ID	20	Juna	ユナ	やはり……\n奴の狙いは、その花だ！	Juna	As I thought, it's after the flowers!	尤娜	果然……\n它的目标是那种花！	尤娜	果然……\n牠的目標，是那種花！
+SeasonalTalkEvent_007_007ID	21	Heidi	ハイディ	私がこの花を持ってるから怒ってんの？\nでも、どうしてそこまで……	Heidi	It's angry that I have these flowers? But why...?	海蒂	它生气是因为我拿着这些花？\n可它为什么会气到这种地步……	海蒂	因為我拿著這朵花，牠才生氣的？\n可是，牠為什麼要氣成這樣……
+SeasonalTalkEvent_007_007ID	22		竜	グルルルル……	Dragon	Grrrr...	龙	咕噜噜噜……	龍	吼嚕嚕嚕嚕……
+SeasonalTalkEvent_007_008ID	0	Heidi	ハイディ	（こいつがこの花に執着する理由って……）	Heidi	(But what reason could a dragon have to be so fixated on flowers?)	海蒂	（它执着于这花的理由是……）	海蒂	（牠執著於這種花的原因是……）
+SeasonalTalkEvent_007_008ID	1	Juna	ユナ	考えるのは後だ。\n今は目の前の脅威を排除せねば	Juna	We can speculate later. For now, our priority should be dealing with the threat it poses.	尤娜	之后再想吧。\n现在必须先排除眼前的威胁。	尤娜	這個之後再去思考吧，\n現在得先排除掉眼前的威脅。
+SeasonalTalkEvent_007_008ID	2	Heidi	ハイディ	……そうだね。\nこんな危険な竜を野放しにはできないし	Heidi	You're right. We can't let it rampage around unchecked anymore. And besides...	海蒂	也是。\n不能放任这么危险的龙不管。	海蒂	……說得對，\n這麼危險的龍不能放任不管。
+SeasonalTalkEvent_007_008ID	3	Heidi	ハイディ	イザナを取り戻さないと	Heidi	We have to save Izana.	海蒂	还要救回伊札娜才行。	海蒂	要把伊札娜搶回來才行。
+SeasonalTalkEvent_007_008ID	4		竜	ギャオオオオン！！	Dragon	GRROOAARRGH!	龙	嘎噢噢噢！！	龍	嘎喔喔喔喔！！
+SeasonalTalkEvent_007_008ID	5	Heidi	ハイディ	くっ……！	Heidi	Ugh...!	海蒂	唔……！	海蒂	唔……！
+SeasonalTalkEvent_007_008ID	6	Juna	ユナ	ハイディ、その花を私に渡……む？	Juna	Heidi, hand me those flowers—hmm?	尤娜	海蒂，把花给我……嗯？	尤娜	海蒂，妳把那朵花給我……唔？
+SeasonalTalkEvent_007_008ID	7		幹部の男	悪いな、遅くなった	Leader	Looks like we finally caught up to you.	男性干部	抱歉，我来晚了。	男幹部	抱歉，我們來遲了。
+SeasonalTalkEvent_007_008ID	8	Heidi	ハイディ	おおう、あんたたちも動いてたんだ	Heidi	Oh? So you didn't just turn tail and run.	海蒂	哦，原来你们也在行动啊。	海蒂	喔喔，你們也在行動啊。
+SeasonalTalkEvent_007_008ID	9		幹部の男	共闘するって約束は守る。\nまず俺たちが竜に攻撃する！	Leader	I said we had a deal, didn't we? We'll lead the attack on the dragon!	男性干部	我们会遵守约定，一同战斗的。\n首先由我们对龙发动攻击！	男幹部	我們會遵守並肩作戰的約定。\n首先由我們來攻擊龍！
+SeasonalTalkEvent_007_008ID	10		幹部の男	お前たちはさらわれた獣人娘を捜しに来たんだろ？\n目的を果たして合流してくれ	Leader	You're here for the beastgirl it nabbed, yeah? Go find her first.	男性干部	你们是来找被掳走的兽人女孩的吧？\n达成目的后，再和我们会合吧。	男幹部	你們是來找被抓走的那位獸人女孩吧？\n你們先完成目的再來跟我們會合。
+SeasonalTalkEvent_007_008ID	11	Juna	ユナ	（この男、手練れだな。ならば）	Juna	(Hmm, his skill seems genuine. In that case...)	尤娜	（这男人战斗的架势相当老道。那么……）	尤娜	（這個男人很有實力呢，既然如此……）
+SeasonalTalkEvent_007_008ID	12	Juna	ユナ	分かった。ハイディ、巣に急ぐぞ。\n竜がこの一体とは限らない、十分に用心しろ！	Juna	Understood. Heidi, let's search its lair. There's no guarantee there's only one dragon—be ready for anything!	尤娜	好的。海蒂，我们赶紧前往巢穴吧。\n龙可能不止这一条，千万保持警惕！	尤娜	知道了。海蒂，我們趕緊去巢穴吧。\n不一定只有這一條龍，要十分小心！
+SeasonalTalkEvent_007_008ID	13	Heidi	ハイディ	うん！	Heidi	All right!	海蒂	嗯！	海蒂	嗯！
+SeasonalTalkEvent_007_008ID	14		幹部の男	お前ら、竜を囲め！\n罠まで誘導しろ！	Leader	Spread out around it! If we can get it into the trap, it's as good as ours!	男性干部	都听我命令，包围这条龙！\n把它引导到陷阱那边！	男幹部	你們去包圍龍！\n把牠引誘到陷阱中！
+SeasonalTalkEvent_007_008ID	15		竜	グォォォッ！	Dragon	Grraaahh!	龙	唔噢噢噢！	龍	吼──！
+SeasonalTalkEvent_007_008ID	16		構成員A	うわぁぁぁっ！	Member A	Arghh!	成员A	哇啊啊啊！	成員A	嗚哇啊啊啊！
+SeasonalTalkEvent_007_008ID	17		幹部の男	い、一撃で吹き飛ばした……なんて威力だ……\nだがな	Leader	It sent them flyin' with just one blow?! Beast's as strong as they say... But that ain't enough to stop us!	男性干部	一、一击就把人打飞了……真是惊人的威力。\n不过……	男幹部	一、一擊就打飛他們了……多麼嚇人的威力……\n不過……
+SeasonalTalkEvent_007_008ID	18		幹部の男	怯むな！\n攻撃を続けろ！	Leader	Keep at it! Don't let up the attack!	男性干部	别退缩！继续攻击！	男幹部	別害怕！\n繼續攻擊！
+SeasonalTalkEvent_007_008ID	19		竜	グァァァァッ！	Dragon	Graaarggh!	龙	唔啊啊啊啊啊！	龍	吼嘎──！
+SeasonalTalkEvent_007_008ID	20		幹部の男	くっ……諦めるな……。\n鱗の一つでも持ち帰れば、変えられるはずなんだ……！	Leader	Ugh... Just one scale, that's all we need. We have to see this through. We have to!	男性干部	唔……别放弃……\n只要带回一片鳞片，事情就会有转机……！	男幹部	唔……別放棄……\n就算只帶一枚鱗片回去，應該也能有所改變……！
+SeasonalTalkEvent_007_008ID	21	Crow	鴉	退け	Crow	Fall back.	鸦	退下。	烏鴉	退下。
+SeasonalTalkEvent_007_008ID	22		幹部の男	なっ！？　鴉！	Leader	Wha—Crow?!	男性干部	什么？！鸦？！	男幹部	什麼！？烏鴉！
+SeasonalTalkEvent_007_008ID	23	Crow	鴉	死にたいなら好きにすればいい。\nだが――	Crow	Or don't, if you're so eager to throw your lives away. The choice is yours.	鸦	想死的话就随你便。\n不过——	烏鴉	想死的話就隨你們便吧。\n但是──
+SeasonalTalkEvent_007_008ID	24		構成員Ｂ	お、お言葉ですが！　俺たちは会のために！	Member B	I-If I may! We're doin' this for the Society—	成员B	恕、恕我直言，我们也是为了月影会！	成員B	恕、恕我冒昧！我們是為了月影會！
+SeasonalTalkEvent_007_008ID	25	Crow	鴉	お前たちにかなう相手ではない。\n無様をさらし、月影の会の名に泥を塗る気か？	Crow	You're no match for the dragon, and you know it. You bring only shame to the Society with your floundering.	鸦	这不是你们应付得了的对手。\n还是你们想自取其辱，玷污月影会的名声？	烏鴉	那不是你們能對付的對手。\n你們是想出醜，讓月影會丟臉嗎？
+SeasonalTalkEvent_007_008ID	26		幹部の男	俺たちはもう、なりふり構ってられないんだ！	Leader	We ain't got no choice anymore!	男性干部	我们已经顾不上那么多了！	男幹部	我們已經管不了那麼多了！
+SeasonalTalkEvent_007_008ID	27		幹部の男	お前だって、気付いているだろう。\n会がおかしくなってきてるのは	Leader	Don't tell me you haven't noticed it too. The Society's goin' off the rails!	男性干部	你应该也注意到了吧？\n最近月影会变得越来越反常。	男幹部	妳應該也注意到了吧？\n月影會變得越來越奇怪。
+SeasonalTalkEvent_007_008ID	28		幹部の男	元の会を取り戻さなければ……\nこの声を、オリバー様に届けなきゃならないんだ！	Leader	We gotta get it back on track. If I could just talk to Lord Oliver—	男性干部	如果要让月影会回到从前……\n就必须把我们的声音传达给奥利弗大人！	男幹部	我們得讓月影會恢復原樣才行……\n這個聲音必須傳達給奧利弗大人！
+SeasonalTalkEvent_007_008ID	29	Crow	鴉	言葉は慎重に選べ	Crow	Choose your words with care.	鸦	注意你的措辞。	烏鴉	你最好說話謹慎一些。
+SeasonalTalkEvent_007_008ID	30		幹部の男	頼む！　鱗の一枚だけでも……	Leader	I'm beggin' you! Just give us a chance... We just need one scale!	男性干部	拜托你了！就算是一片鳞片也好……	男幹部	拜託了！就算只是一片鱗片也好……
+SeasonalTalkEvent_007_008ID	31	Crow	鴉	そこまでして命を溝に捨てたいか？\n家族がどうとか、言っていたことがあったろう	Crow	"Is your life truly worth so little? What of the ""family"" you speak of so often?"	鸦	就这么想死吗？\n之前不是还口口声声挂念着家人吗？	烏鴉	你就這麼想白白浪費性命？\n你不是說過擔心家人怎麼樣嗎？
+SeasonalTalkEvent_007_008ID	32		幹部の男	！	Leader	!	男性干部	！	男幹部	！
+SeasonalTalkEvent_007_008ID	33	Crow	鴉	最後の警告だ。退け	Crow	This is your last warning. Fall back.	鸦	这是最后一次警告，退下。	烏鴉	這是最後的警告，退下。
+SeasonalTalkEvent_007_008ID	34		幹部の男	……。\nお前ら、退くぞ	Leader	...All right, you lot. We're pullin' out.	男性干部	……\n我们撤退吧。	男幹部	……\n我們撤退吧。
+SeasonalTalkEvent_007_008ID	35		構成員Ａ	いいんですか！？	Member A	B-But, sir!	成员A	真的要这样吗？！	成員A	真的要放棄嗎！？
+SeasonalTalkEvent_007_008ID	36		幹部の男	……お前たちまで、俺の道連れにするわけにはいかない	Leader	I ain't draggin' you all down with me on some fool's errand.	男性干部	我不能让你们陪葬。	男幹部	……不能讓你們也跟我一起賠掉性命。
+SeasonalTalkEvent_007_008ID	37		構成員Ａ	く……っ	Member A	Ugh...	成员A	唔……	成員A	唔……
+SeasonalTalkEvent_007_008ID	38	Crow	鴉	…………	Crow	...	鸦	…………	烏鴉	…………
+SeasonalTalkEvent_007_008ID	39	Heidi	ハイディ	イザナ！　助けに来たよ！	Heidi	Izana! We came to save you!	海蒂	伊札娜！我们来救你了！	海蒂	伊札娜！我來救妳了！
+SeasonalTalkEvent_007_008ID	40	Izana	イザナ	ハイディ！　どうしてここが……。\nううん、そんなことよりも、竜は！？	Izana	Heidi! How did you find this place? No, that can wait—where's the dragon?	伊札娜	海蒂！你们怎么找到这里的……\n不，先不说这个了，龙呢？！	伊札娜	海蒂！妳為什麼會知道這裡……\n不對，那不重要，龍呢！？
+SeasonalTalkEvent_007_008ID	41	Heidi	ハイディ	向こうで月影の会が戦ってるよ	Heidi	The Moonlight Society's keeping it occupied for now.	海蒂	在外边，月影会在跟它战斗。	海蒂	在那一頭和月影會戰鬥呢。
+SeasonalTalkEvent_007_008ID	42	Izana	イザナ	……行かなきゃ	Izana	...We have to hurry.	伊札娜	我得快点赶过去……	伊札娜	……我得過去一趟。
+SeasonalTalkEvent_007_008ID	43	Heidi	ハイディ	え？　う、うん。そうだね、早く倒さないと！	Heidi	Err? O-Oh, yeah. We've got to take it down!	海蒂	咦？嗯，确实，得快去打倒它才行！	海蒂	咦？嗯、嗯。也是，得快點打倒牠才行！
+SeasonalTalkEvent_007_008ID	44	Heidi	ハイディ	（げぇっ、なんで鴉がここに！？）	Heidi	(Ugh, Crow?! Of all the places to run into her!)	海蒂	（唔，鸦怎么来了？！）	海蒂	（呃、為什麼烏鴉會在這裡！？）
+SeasonalTalkEvent_007_008ID	45	Heidi	ハイディ	（攻撃の構え……\n　もしかして、竜を倒そうとしてる？）	Heidi	(She's getting ready to attack... Is she here to fight the dragon too?)	海蒂	（是攻击的姿态……\n　难道她打算和龙一决胜负？）	海蒂	（那攻擊的架勢……\n　她該不會想要打倒龍吧？）
+SeasonalTalkEvent_007_008ID	46	Heidi	ハイディ	…………	Heidi	...	海蒂	…………	海蒂	…………
+SeasonalTalkEvent_007_008ID	47	Heidi	ハイディ	（……いや、ビビってる場合じゃない！\n　とにかく竜は確実に倒さないと！）	Heidi	(This isn't the time to be losing my nerve! Our priority is the dragon!)	海蒂	（不，现在不是害怕的时候！\n　总之一定要把龙打倒才行！）	海蒂	（……不，現在不是害怕的時候！\n　總之得把龍給狠狠擊倒才行！）
+SeasonalTalkEvent_007_008ID	48	Heidi	ハイディ	ね、ねえ、共闘の話、仲間から聞いている？\n一緒に戦ってくれるって解釈でいい？	Heidi	C-Crow, what a surprise! I suppose you heard from your Society friends about our little deal, hm?	海蒂	喂，你的同伴应该告诉你联手战斗的事了吧？\n我可以理解为你会和我们并肩作战吗？	海蒂	我、我說，妳夥伴有跟妳提到並肩作戰的事了嗎？\n我能理解成妳會跟我們一起戰鬥嗎？
+SeasonalTalkEvent_007_008ID	49	Crow	鴉	共闘だと？　いきなり何を言っている	Crow	"""Deal""? What are you talking about?"	鸦	联手战斗？你在说什么胡话。	烏鴉	並肩作戰？妳沒頭沒腦地說些什麼？
+SeasonalTalkEvent_007_008ID	50	Crow	鴉	お前たちの手を借りたところで荷物にしかならない。\n私一人で十分だ	Crow	...Surely you're not suggesting we join forces? Your presence would only be a burden. I can handle this alone.	鸦	你们的帮助只会拖我后腿。\n我一个人就够了。	烏鴉	就算讓你們幫忙也只會成為我的累贅而已。\n我一個人就夠了。
+SeasonalTalkEvent_007_008ID	51	Heidi	ハイディ	そんなこと言わずにさ！　ほら、みんなで戦えば\n簡単に追い詰められるでしょ！	Heidi	Oh, don't be like that! Surely it'll go down quicker if we work together.	海蒂	别这么说嘛！你想想，我们齐心协力，\n就能轻松把对方逼入绝境！	海蒂	別這麼說嘛！\n妳想想，大家一起戰鬥就能輕鬆把牠制伏吧！
+SeasonalTalkEvent_007_008ID	52	Heidi	ハイディ	会の面子があるし、あいつを確実に\n倒したいんでしょ？　利用し合おうよ	Heidi	You want the Society to look good, don't you? Look at it as using each other, if that makes you feel better.	海蒂	为了月影会的颜面，你也想确保打倒它吧？\n就让我们互相利用吧。	海蒂	顧及到月影會的面子，妳也想穩穩地\n除掉牠對吧？就讓我們互相利用吧。
+SeasonalTalkEvent_007_008ID	53	Crow	鴉	……邪魔だけはするなよ	Crow	...Just don't get in my way.	鸦	……你们别妨碍我就好。	烏鴉	……妳可別妨礙到我啊。
+SeasonalTalkEvent_007_008ID	54	Heidi	ハイディ	話が早くて助かるよ、さすが	Heidi	Quick on the uptake as usual!	海蒂	太好了，你真是明事理。	海蒂	決定得夠爽快，不愧是烏鴉。
+SeasonalTalkEvent_007_008ID	55	Crow	鴉	ふん	Crow	Hmph.	鸦	哼。	烏鴉	哼。
+SeasonalTalkEvent_007_008ID	56	Izana	イザナ	私が、分かる？	Izana	It's me. Do you recognize me?	伊札娜	你还认得出我吗？	伊札娜	你認得我嗎？
+SeasonalTalkEvent_007_008ID	57		竜	ゴァアアアア！！	Dragon	GRROOARGH!	龙	呜嗷嗷嗷嗷！！	龍	吼啊啊啊啊！！
+SeasonalTalkEvent_007_008ID	58	Izana	イザナ	……そっか、誰だか、分からないんだね	Izana	...I see. You don't.	伊札娜	这样啊……你认不出我是谁了。	伊札娜	……是嗎？你認不出我是誰了啊。
+SeasonalTalkEvent_007_008ID	59	Izana	イザナ	お父さんが言っていたよ。魔物も、年をとると\n思考があいまいになる個体が出てくるって	Izana	My father once told me that even monsters feel the ravages of old age. That they become unsure of who they are and what they're doing.	伊札娜	爸爸说过，有些魔物上了年纪，\n思维也会变得模糊不清。	伊札娜	爸爸曾經告訴過我，有些魔物上了年紀後，\n思緒也會變得模糊不清。
+SeasonalTalkEvent_007_008ID	60	Juna	ユナ	イザナ、何をしている、構えろ！	Juna	Izana! What are you doing?! We have to fight!	尤娜	伊札娜，你在做什么。快准备应战！	尤娜	伊札娜，妳在做什麼，快拿起武器！
+SeasonalTalkEvent_007_008ID	61	Izana	イザナ	あの竜は、苦しんでる。毒に。老いに	Izana	This dragon is suffering. Old age and poison are eating away at its mind and body.	伊札娜	那条龙因为中毒和衰老，正在忍受煎熬。	伊札娜	那條龍正因為中毒和衰老而感到痛苦。
+SeasonalTalkEvent_007_008ID	62	Izana	イザナ	だから早く、楽にさせてあげないといけないんだ	Izana	The least we can do is relieve it of its pain.	伊札娜	所以得快点让它解脱。	伊札娜	所以，我得盡快讓牠解脫才行。
+SeasonalTalkEvent_007_009ID	0	Izana	イザナ	やぁっ！	Izana	Hyah!	伊札娜	呀！	伊札娜	嘿啊！
+SeasonalTalkEvent_007_009ID	1	Heidi	ハイディ	これで……！	Heidi	Take this!	海蒂	这样就……！	海蒂	這樣就……！
+SeasonalTalkEvent_007_009ID	2		竜	グォ……ォォォ……	Dragon	Grr... Grraargh...	龙	唔噢……噢噢……	龍	吼喔……喔喔喔……
+SeasonalTalkEvent_007_009ID	3	Heidi	ハイディ	ふぅ。どうにか倒せたね	Heidi	Phew. Looks like we did it.	海蒂	呼。总算是打倒了。	海蒂	呼，總算是打倒牠了。
+SeasonalTalkEvent_007_009ID	4	Juna	ユナ	待て！　まだ息がある！	Juna	On your guard! It's still breathing!	尤娜	等等！它还没断气！	尤娜	慢著！牠還一息尚存！
+SeasonalTalkEvent_007_009ID	5	Izana	イザナ	やめて！　大丈夫、この竜はもう……	Izana	Stop! This dragon can't harm us any longer.	伊札娜	不要！没事的，这条龙已经……	伊札娜	住手！沒關係的，那條龍已經……
+SeasonalTalkEvent_007_009ID	6		竜	グ……グォ……	Dragon	Grr...rrh...	龙	唔……唔噢……	龍	吼……吼喔……
+SeasonalTalkEvent_007_009ID	7	Izana	イザナ	え……花を……アタシにくれるの……？	Izana	These are...flowers? For me?	伊札娜	嗯？你要把这花……送给我吗……？	伊札娜	咦……你想送我……這朵花嗎……？
+SeasonalTalkEvent_007_009ID	8	Heidi	ハイディ	……こいつ、イザナに花を渡そうとしてた？	Heidi	The dragon was trying to give Izana flowers?	海蒂	它想把花送给伊札娜？	海蒂	……牠打算送花給伊札娜？
+SeasonalTalkEvent_007_009ID	9	Juna	ユナ	この花にはやたら執着していると思ったが……\n奇妙な動きだったな	Juna	It did seem awfully fixated on them... Strange behavior for a dragon.	尤娜	我还纳闷它为什么对这花如此执着……\n真是奇怪的举动。	尤娜	我也覺得牠對這些花格外執著……\n這行為真不可思議。
+SeasonalTalkEvent_007_009ID	10	Izana	イザナ	うん……	Izana	Yeah...	伊札娜	嗯……	伊札娜	嗯……
+SeasonalTalkEvent_007_009ID	11	Izana	イザナ	アタシ、すみかをもう少し調べてみる	Izana	I'm going to look around a bit more.	伊札娜	我要再去调查一下它的巢穴。	伊札娜	我再多調查一下牠的巢穴。
+SeasonalTalkEvent_007_009ID	12	Izana	イザナ	この竜がアタシを攫ったのも、花をくれたのも……\n何か理由があったんだと思うんだ	Izana	There must have been a reason for all of this. For the flowers. For it bringing me here.	伊札娜	这条龙把我掳来，还送了我花……\n我想这一定是有原因的。	伊札娜	我想這條龍之所以抓走我，還送花給我……\n應該是有什麼理由的。
+SeasonalTalkEvent_007_009ID	13	Heidi	ハイディ	理由……	Heidi	A reason, huh...	海蒂	原因……	海蒂	理由……
+SeasonalTalkEvent_007_009ID	14	Heidi	ハイディ	あれ？　そういや、鴉は……もういないや	Heidi	Hm? Where did Crow go? Always was quick on her feet, that one.	海蒂	咦？话说回来，鸦……已经不在了。	海蒂	咦？話說回來，烏鴉……已經走了啊。
+SeasonalTalkEvent_007_010ID	0	Izana	イザナ	これは……日記だ	Izana	This is...someone's journal?	伊札娜	这是……日记。	伊札娜	這是……日記！
+SeasonalTalkEvent_007_010ID	1	Heidi	ハイディ	ええと……「竜の花嫁に選ばれてしまった」	Heidi	"Let's see... ""Today, I was chosen as the dragon's bride."""	海蒂	我看看……“我不幸被选为了龙的新娘。”	海蒂	我看看……「我被選中成為龍的新娘」。
+SeasonalTalkEvent_007_010ID	2	Heidi	ハイディ	「一体どんな酷い目に遭わされるのか。\n　考えたくない。何で私だけがこんな思いを……」	Heidi	"""The thought fills me with dread, and fear consumes my every waking moment. What did I do to deserve this fate?"""	海蒂	“究竟会遭到怎样残酷的待遇呢？我根本不敢想象。\n 为什么偏偏是我……”	海蒂	「我不敢想像，自己將會落入多麼殘酷的下場。\n為什麼只有我碰上這種事……」
+SeasonalTalkEvent_007_010ID	3	Heidi	ハイディ	これ、竜の花嫁の日記！？	Heidi	The dragon's bride?!	海蒂	这是……龙的新娘的日记？！	海蒂	這個是龍之前那位新娘的日記！？
+SeasonalTalkEvent_007_010ID	4	Juna	ユナ	花嫁が竜に捧げられたという伝承は、\n真実だったのか……	Juna	So the bride from the legend really existed. And this was her journal...	尤娜	女子被献给龙当新娘的传说居然是真的吗……	尤娜	原來把新娘獻給龍的傳說\n是真的啊……
+SeasonalTalkEvent_007_010ID	5		花嫁	でも、彼は私を温かく迎えてくれました	Bride	"""I was wrong. The dragon has been nothing but kind ever since welcoming me into his home."""	新娘	但是他热情地欢迎了我。	新娘	可是，牠卻溫暖地迎接了我。
+SeasonalTalkEvent_007_010ID	6		花嫁	彼の瞳はとても優しかった。村の人の誰よりも。\n人を食べる怖ろしい竜なんて伝説は、嘘	Bride	"""He is not the ravening beast the legends warn of. The tenderness in his eyes puts my former neighbors to shame."""	新娘	他的目光非常温柔，比村里的任何人都温柔。\n可怕的食人龙的传说，都是骗人的。	新娘	牠的眼神比村裡任何人都還要溫柔許多。\n謠傳牠是可怕又會吃人的龍，根本是騙人的。
+SeasonalTalkEvent_007_010ID	7		花嫁	私たちは、人間の目に付かない原野の奥地で\n隠れるように暮らすことにしました	Bride	"""We have decided to make our home deep in the wilderness, away from the prying eyes of man."""	新娘	我们决定躲在人迹罕至的原野深处生活。	新娘	我們決定藏身在\n不會引人注目的原野深處生活。
+SeasonalTalkEvent_007_010ID	8		花嫁	彼は、私が好きでよく摘んでいた花を\n贈ってくれました	Bride	"""He often gifts me flowers—the very same ones I always used to pick."""	新娘	我有一种很喜欢的花，经常采摘，\n于是他准备了那种花送给我。	新娘	牠會送我花，\n那是我很喜歡所以常常摘回來的花。
+SeasonalTalkEvent_007_010ID	9		花嫁	埋もれてしまうくらい、たくさん	Bride	"""I've received a mountain of blossoms, enough to cover me from head to toe."""	新娘	花多到快要把我淹没。	新娘	牠送的花多得幾乎都要把我埋起來了。
+SeasonalTalkEvent_007_010ID	10	Izana	イザナ	花……埋もれてしまうくらい	Izana	A whole mountain of flowers...	伊札娜	多到把人淹没的花……	伊札娜	多得幾乎把人埋起來的……花。
+SeasonalTalkEvent_007_010ID	11	Juna	ユナ	では、すみかにある、この大量の花は……	Juna	So these flowers were all for the dragon's bride.	尤娜	这么说，巢穴里那一大堆花……	尤娜	那巢穴裡這麼多的花是……
+SeasonalTalkEvent_007_010ID	12	Heidi	ハイディ	ひょっとして、この花の咲いてるとこに\nいつも竜が出たのは、花を集めるため？	Heidi	Was that why it kept appearing where those flowers were growing?	海蒂	难道龙总是出现在开花的地方，\n是因为它想要收集花朵？	海蒂	那條龍之所以常出現在這種花盛開的地方，\n該不會就是為了收集花吧？
+SeasonalTalkEvent_007_010ID	13		花嫁	彼と生きることができて私は幸せでした	Bride	"""I cherished the time we spent together."""	新娘	能和他一起生活，我很幸福。	新娘	能和牠一起生活，我覺得很幸福。
+SeasonalTalkEvent_007_010ID	14		花嫁	けれど、彼と比べて、私の寿命はずっと短い。\n唯一の心残りは、彼を残して先に逝ってしまうこと――	Bride	"""But a human life is fleeting compared to the long life of a dragon. My one regret is that I will inevitably leave him behind..."""	新娘	但与他相比，我的寿命太短了。\n我唯一的遗憾就是要丢下他，先走一步——	新娘	但是，我的壽命跟牠相比實在太短了。\n我心中唯一的牽掛是，會留下牠早一步而去──
+SeasonalTalkEvent_007_010ID	15	Izana	イザナ	この竜、すごいお爺ちゃんみたいだったんだ	Izana	The dragon did seem really old... In human terms, it was probably an old man.	伊札娜	这条龙年纪好像已经非常大了。	伊札娜	這條龍似乎是年紀非常大的老爺爺了。
+SeasonalTalkEvent_007_010ID	16	Izana	イザナ	もしかして、死期を悟って……お嫁さんに\n最期に花を手向けたかったのかも……	Izana	Do you think it knew its time was coming? So it went out to get some flowers for its bride, one last time.	伊札娜	难道它明白自己时日无多……\n于是想最后一次给它的新娘献花……	伊札娜	牠或許是意識到自己的死期將至……\n想在臨終前送花向新娘道別吧……
+SeasonalTalkEvent_007_010ID	17	Heidi	ハイディ	そのお嫁さん、イザナにちょっと似てたのかな……	Heidi	Maybe it saw something of its bride in you, Izana.	海蒂	那位新娘会不会和伊札娜容貌相似呢……	海蒂	不知道那個新娘是不是長得跟伊札娜有點像……
+SeasonalTalkEvent_007_010ID	18	Izana	イザナ	どうなのかな。\n絵が残ってるわけじゃないから分からないけど	Izana	Who knows... Any pictures there might have been of her are long gone.	伊札娜	我也不清楚。\n毕竟没有看到什么肖像画。	伊札娜	天曉得呢。沒有留下畫像，\n也無從得知了。
+SeasonalTalkEvent_007_010ID	19	Izana	イザナ	でも、確かに竜は、すごく優しかったんだよ。\n本来は、優しいんだよ	Izana	She was right, though. The dragon was kind and gentle—that must have been its true nature.	伊札娜	不过那条龙确实非常温柔。\n它本来应该是条温柔的龙。	伊札娜	不過，那條龍確實待人非常溫柔喔。\n牠本來應該很溫柔的。
+SeasonalTalkEvent_007_010ID	20	Izana	イザナ	それが老いで、自分がよく分からなく\nなっちゃう時が多くなって……暴れたんだ	Izana	But in its old age, it started losing sight of who it was. And its confusion drove it to lash out at those around it.	伊札娜	但随着日渐衰老，\n它无法保持清醒的时候越来越多……才会到处作乱。	伊札娜	但是因為衰老，導致牠變得時常\n搞不清楚情況……才會胡亂發狂。
+SeasonalTalkEvent_007_010ID	21	Juna	ユナ	たとえ理由があったとしても、傍若無人に暴れたのは\n許されることではないが……	Juna	I cannot condone bringing harm to innocents, whatever the reason may be. But...	尤娜	即使它有它的苦衷，\n我们也不能放任魔兽旁若无人地作乱……	尤娜	即便牠是有原由的，\n但還是不能容許牠目中無人地四處撒野……
+SeasonalTalkEvent_007_010ID	22	Juna	ユナ	せめて……向こうで再会できるよう、星に祈ろう	Juna	At the very least, we can pray to the stars that they are reunited beyond the sky.	尤娜	但至少……我们可以向星星祈祷他们能在那边重逢。	尤娜	至少讓我……向星辰祈禱他們能在另一個世界重逢吧。
+SeasonalTalkEvent_007_010ID	23	Heidi	ハイディ	この残りの花は、あんたにあげるよ	Heidi	Here. The rest of these flowers are for you.	海蒂	剩下的这些花就献给你吧。	海蒂	這些剩下的花就送給你吧。
+SeasonalTalkEvent_007_010ID	24	Heidi	ハイディ	奥さんによろしく	Heidi	Give my regards to your wife for us.	海蒂	替我们向你妻子问声好。	海蒂	替我向你的妻子問好。
+SeasonalTalkEvent_007_010ID	25	Juna	ユナ	……鱗はいいのか？　鴉がいくらかは\n持ち帰ったようだが	Juna	What of the dragon's scales? It seems Crow took some with her when she left.	尤娜	不拿鳞片了吗？\n鸦好像带走了一些。	尤娜	……妳不要鱗片了嗎？\n烏鴉倒是有帶回去一些。
+SeasonalTalkEvent_007_010ID	26	Heidi	ハイディ	ああ。欲しがってたレスナには悪いけど、\n気分じゃないんだ。私の分はいいや	Heidi	Oh, yeah. I know Resna really wanted them, but I think I'll pass. I'm not in the mood for material hunting anymore.	海蒂	嗯。抱歉不能帮蕾斯娜拿到她想要的素材，\n但我心里过意不去。我的份就不拿了。	海蒂	嗯。雖然對很想要鱗片的蕾斯娜有點過意不去，\n但沒什麼心情拿了。我的份就算了。
+SeasonalTalkEvent_007_010ID	27	Juna	ユナ	……そうか	Juna	...Understood.	尤娜	这样啊……	尤娜	……是嗎？
+SeasonalTalkEvent_007_010ID	28	Crow	鴉	戻っていたか	Crow	You're back.	鸦	你回来了啊。	烏鴉	你已經回來了啊。
+SeasonalTalkEvent_007_010ID	29		幹部の男	ああ。誰かさんのおかげで命拾いしたからな	Leader	Yeah. Got to crawl away to fight another day, thanks to a certain someone.	男性干部	是啊。有人救了我一命。	男幹部	嗯，多虧了某人撿回一條命。
+SeasonalTalkEvent_007_010ID	30	Crow	鴉	オリバー様がお呼びだ	Crow	Lord Oliver would like a word.	鸦	奥利弗大人在等你。	烏鴉	奧利弗大人叫你過去。
+SeasonalTalkEvent_007_010ID	31		幹部の男	……！	Leader	!	男性干部	……！	男幹部	……！
+SeasonalTalkEvent_007_010ID	32		幹部の男	そう、か……	Leader	Is that so.	男性干部	是吗……	男幹部	是嗎……
+SeasonalTalkEvent_007_010ID	33		幹部の男	なぁ。俺はこの会が好きだったんだ	Leader	...Y'know, this place used to feel like home.	男性干部	我很喜欢月影会。	男幹部	唉，我曾經很喜歡月影會的。
+SeasonalTalkEvent_007_010ID	34		幹部の男	行き場もなく、稼ぐあてもない俺たちに\n生きるための場所をくれた	Leader	Wasn't just me, either. All of us who had nowhere else to go and no chance of livin' an honest life... It gave us somewhere to belong.	男性干部	这里给了无处可去、\n无路谋生的我们栖身之地。	男幹部	月影會給了無處可去，\n也沒有賺錢能力的我們活下去的地方。
+SeasonalTalkEvent_007_010ID	35		幹部の男	世間から見ればただのゴロツキかもしれないが、\n守るべきものは守る、そういう集団だった	Leader	Sure, we were nothin' more than a load of thugs to upstandin' members of society. But we looked out for our own and what was important to us.	男性干部	在世人看来，我们可能只是一群恶棍，\n但我们会守护该守护的事物。	男幹部	就世人的眼光看來，我們這個集團或許只是一群無賴，\n但我們還是會守護應當守護的事物。
+SeasonalTalkEvent_007_010ID	36		幹部の男	確かに、そういうところだったんだ。ここは	Leader	That's the Moonlight Society I used to know.	男性干部	这里本是这样一个地方。	男幹部	我記得這裡本來是這樣的地方。
+SeasonalTalkEvent_007_010ID	37	Crow	鴉	…………	Crow	...	鸦	…………	烏鴉	…………
+SeasonalTalkEvent_007_010ID	38		幹部の男	だが、今の会には俺は要らないらしい	Leader	But I guess there's no place here for the likes of me anymore.	男性干部	不过现在的月影会似乎不需要我了。	男幹部	但是，現在的月影會大概不需要我了。
+SeasonalTalkEvent_007_010ID	39	Crow	鴉	…………	Crow	...	鸦	…………	烏鴉	…………
+SeasonalTalkEvent_007_010ID	40		幹部の男	悪かったな。お前の厚意を無駄にして	Leader	Sorry. Looks like your mercy ended up being wasted on me in the end, huh.	男性干部	抱歉，白费了你的好意。	男幹部	抱歉啦，浪費了妳的好意。
+SeasonalTalkEvent_007_010ID	41		幹部の男	じゃあな	Leader	See ya, Crow.	男性干部	再见。	男幹部	再見。
+SeasonalTalkEvent_007_010ID	42	Crow	鴉	…………	Crow	...	鸦	…………	烏鴉	…………
+SeasonalTalkEvent_007_010ID	43	Crow	鴉	オリバー様の言っていることに間違いはないのだ	Crow	Lord Oliver's words are absolute. It is unthinkable he would make an error in judgment.	鸦	奥利弗大人说的话不会有错。	烏鴉	奧利弗大人的話不會有錯。
+SeasonalTalkEvent_007_010ID	44	Crow	鴉	すべてはオリバー様のために	Crow	Everything is for Lord Oliver.	鸦	一切都是为了奥利弗大人。	烏鴉	一切都是為了奧利弗大人。

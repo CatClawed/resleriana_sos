@@ -1,0 +1,985 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_19_001ID	0	Lanze	ランツェ	ヴァレリアと、戦った……？	Lanze	Y'all fought Valeria?	兰泽	你和瓦莱莉娅战斗过了……？	藍澤	你們和瓦萊莉婭打起來了……？
+TalkEvent_19_001ID	1	Resna	レスナ	はい……	Resna	Yes...	蕾斯娜	是的……	蕾斯娜	是的……
+TalkEvent_19_001ID	2	Resna	レスナ	（極夜の錬金党の拠点捜索が進められている傍ら、\n　ルクルク州での落石対策の依頼を受けた私たちは）	Resna	(The search for the last Polar Night Alchemist base is still underway, so a group of us went to Lukluk to handle a request about landslides.)	蕾斯娜	（在搜索极夜的炼金党据点的同时，\n　我们接受了在路克尔克州解决落石问题的委托。）	蕾斯娜	（我們在搜索極夜的鍊金黨據點的同時，\n　還接下了來自盧庫魯克州解決落石問題的委託……）
+TalkEvent_19_001ID	3	Resna	レスナ	（途中、極夜の錬金党のアンチュさんの襲撃を受けた）	Resna	(Right when we were in the middle of things, Antje launched an attack on us.)	蕾斯娜	（途中，极夜的炼金党的安洁袭击了我们。）	蕾斯娜	（途中，受到了極夜的鍊金黨成員安潔小姐的襲擊。）
+TalkEvent_19_001ID	4	Resna	レスナ	（戦いの末、アンチュさんを捕縛することに成功した。\n　そして依頼を終えた帰り道――）	Resna	(We fought, and we managed to capture her in the end. Then, when we finished the request and were on our way back...)	蕾斯娜	（战斗结束后，我们成功控制住了安洁。\n　在完成委托踏上归途后——）	蕾斯娜	（經過一番對戰，我們終於成功逮捕了安潔小姐。\n　然後就在完成委託、準備回程的路上──）
+TalkEvent_19_001ID	5	Resna	レスナ	（私たちの目の前に、ヴァレリアが現れた）	Resna	(Valeria appeared right before our eyes.)	蕾斯娜	（瓦莱莉娅出现在我们面前。）	蕾斯娜	（瓦萊莉婭在我們面前現身了。）
+TalkEvent_19_001ID	6	Resna	レスナ	（ヴァレリアは、どこか様子がおかしくて……\n　私たちに剣を向けてきた）	Resna	(She was acting so strangely... She even pointed her sword at us.)	蕾斯娜	（瓦莱莉娅状态有点不对……\n　对我们拔刀相向。）	蕾斯娜	（她的樣子不太對勁……\n　還對我們拔刀相向。）
+TalkEvent_19_001ID	7	Flocke	フロッケ	そ、そんな……ヴァレリアさんが……！\nそんなの、絶対おかしいです！	Flocke	V-Valeria would never...! Something has to be wrong!	芙洛可	怎、怎么可能……瓦莱莉娅小姐居然……！\n这怎么可能！	芙洛可	怎、怎麼會……瓦萊莉婭小姐她……！\n她會那樣絕對有問題！
+TalkEvent_19_001ID	8	Resna	レスナ	うん……私もそう思う。ヴァレリア、話しかけても\nまともに返事をしてくれなくて……	Resna	Yeah... I think so too. No matter how many times we tried talking to her, she barely said a word.	蕾斯娜	嗯……我也这么认为。我和瓦莱莉娅说话，\n她也没有好好回答我……	蕾斯娜	嗯……我也這麼覺得。我們跟她說話，\n她也完全沒有回應……
+TalkEvent_19_001ID	9	Heidi	ハイディ	クリセルダの奴が言ってたのは\nそういうことだったのか……	Heidi	I guess that's what Criselda meant.	海蒂	克莉赛尔达说的\n原来是这么回事吗……	海蒂	當時克莉賽爾達那傢伙說的，\n就是這麼一回事嗎……？
+TalkEvent_19_001ID	10	Heidi	ハイディ	この間、極夜の錬金党が管理してる施設を調べてた時に\n私らの前に現れてさ……	Heidi	She showed up while we were checking out that other Polar Night Alchemist facility and said...	海蒂	之前调查极夜的炼金党管理的设施时，\n她曾出现过……	海蒂	前陣子，在調查極夜的鍊金黨管理的設施時，\n她出現在我們面前……
+TalkEvent_19_001ID	11	Criselda	クリセルダ	最近は一人増えたのよ。あなたのお仲間	Criselda	Actually, we just got a new member. A dear friend of yours.	克莉赛尔达	最近我们新增了一员哦，而且是你的同伴。	克莉賽爾達	最近又多一個人囉，是妳的夥伴。
+TalkEvent_19_001ID	12	Heidi	ハイディ	あれはヴァレリアのことを言ってたんだ。\nただのハッタリだと思ってたけど……	Heidi	I thought she was just bluffing, but it sounds like she really did mean Valeria.	海蒂	原来她说的就是瓦莱莉娅。\n我还以为她是在虚张声势……	海蒂	原來她那時是在說瓦萊莉婭。\n我還以為只是虛張聲勢而已……
+TalkEvent_19_001ID	13	Flocke	フロッケ	でも、どうしてヴァレリアさんが極夜の錬金党に……	Flocke	But why would she join them?	芙洛可	可为什么瓦莱莉娅小会加入极夜的炼金党呢……	芙洛可	可是，瓦萊莉婭小姐為什麼會加入極夜的鍊金黨……
+TalkEvent_19_001ID	14	Heidi	ハイディ	私が思うに、ヴァレリアはクリセルダに\n操られてる。間違いないよ	Heidi	If you ask me, Criselda's doing something to control Valeria. Nothing else would make sense.	海蒂	我认为她是被克莉赛尔达操控了。\n一定是这样。	海蒂	在我看來，瓦萊莉婭是被克莉賽爾達給操縱了，\n肯定錯不了的。
+TalkEvent_19_001ID	15	Izana	イザナ	うん、操られてるなら全部、説明がつくね\n錬金党は魔物も操ってるわけだし	Izana	Yeah, that'd explain everything. We already know they're able to control monsters, too.	伊札娜	嗯。如果是被操控了的话，这一切就都可以解释了。\n毕竟炼金党还能操控魔物。	伊札娜	嗯，如果是受到操縱，一切就都說得通了。\n畢竟鍊金黨也會操控魔物。
+TalkEvent_19_001ID	16	Lanze	ランツェ	俺も同じ意見だ。いくら聞きたいことがあったからって\nあいつがクリセルダに与するとは思えねぇ	Lanze	I was thinkin' the same thing. No matter how many questions she might've had for Criselda, sidin' with her is one thing Valeria'd never do.	兰泽	我也持相同意见。我觉得她就算有事情想打听，\n也不会成为克莉赛尔达的同伙。	藍澤	我也持相同意見，就算那傢伙有事情想問\n克莉賽爾達，也不至於投奔到她的麾下。
+TalkEvent_19_001ID	17	Lanze	ランツェ	俺たちと戦うってことだぞ？　自分の意志で\nそんな道を選ぶわけがねぇんだ	Lanze	At least, not if she was in her right mind. I mean, Criselda's picked fights with us before.	兰泽	加入他们就得和我们战斗。\n她怎么可能做出这样的选择啊。	藍澤	因為這表示她得跟我們戰鬥喔？\n她不可能是自願選擇這條路的。
+TalkEvent_19_001ID	18	Lara	ララ	操られていると考えるのが普通ではあるのですが\nただ、少々引っかかりますわね	Lara	While mind control is an understandable conclusion, there are a few flaws in that reasoning.	拉拉	正常来讲确实可以认为她被操控，\n但我还是觉得有点不对劲。	拉拉	會認為她被操縱是很正常的，\n但我還是有點擔心。
+TalkEvent_19_001ID	19	Lara	ララ	クリセルダは人の個性やその性質を愛する方。\n他人の心を操るような手は嫌うと思うのです	Lara	One thing that Criselda loves is individuality. I highly doubt that she would stoop so low as to take control of someone.	拉拉	克莉赛尔达是个喜欢他人个性和性格的人。\n她应该不喜欢操控人心这种手段。	拉拉	克莉賽爾達熱愛每個人的性格與特質，\n她應該很厭惡那種操縱人心的手段。
+TalkEvent_19_001ID	20	Heidi	ハイディ	じゃ……じゃあ、ヴァレリアが自分から\nあいつに従ってるっていうわけ！？	Heidi	A-Are you implying that Valeria really was following her orders?!	海蒂	那……你难道要说，\n瓦莱莉娅是自愿听从那家伙的？！	海蒂	所……所以，妳的意思是瓦萊莉婭\n是自願跟隨那傢伙的！？
+TalkEvent_19_001ID	21	Lanze	ランツェ	おいハイディ。ケンカしてる場合じゃねぇだろ！	Lanze	Cool your heels, Heidi. This ain't the time to be gettin' into scuffles!	兰泽	别这样，海蒂。现在不是吵架的时候！	藍澤	喂，海蒂，現在不是吵架的時候吧！
+TalkEvent_19_001ID	22	Heidi	ハイディ	ご、ごめん。突っかかるつもりじゃ……	Heidi	S-Sorry, I kind of lost myself for a second there.	海蒂	对、对不起。我不想这么激动的……	海蒂	抱、抱歉，我沒打算冒犯妳的……
+TalkEvent_19_001ID	23	Lara	ララ	構いませんわ。それだけあの方のことを\n大切に思っているということですもの	Lara	That's quite all right. That sort of outburst shows how precious she is to you.	拉拉	没关系。这正说明了你非常关心她啊。	拉拉	無妨，這就表示妳很重視她嘛。
+TalkEvent_19_001ID	24	Resna	レスナ	ヴァレリア……何があったの……？	Resna	Oh, Valeria... Just what happened to you?	蕾斯娜	瓦莱莉娅……到底遇到什么事了……？	蕾斯娜	瓦萊莉婭她……發生什麼事了嗎……？
+TalkEvent_19_001ID	25	Lanze	ランツェ	ま、そいつはもう一度会って確かめるしかねえだろ	Lanze	Well, that's what we gotta figure out, ain't it?	兰泽	只能见到她后问个仔细了。	藍澤	不過，也只能再見那傢伙一次，向她確認了吧。
+TalkEvent_19_001ID	26	Heidi	ハイディ	相棒が極夜の錬金党の所にいるのが\n分かったんだ。取り返しに行こう	Heidi	At least we know where she is now. Let's steal her back from those Polar Night Alchemists!	海蒂	现在已经知道搭档在极夜的炼金党那里了，\n去把她带回来吧。	海蒂	反正都知道搭檔在極夜的鍊金黨那邊了，\n我們就去把她搶回來吧。
+TalkEvent_19_001ID	27	Lanze	ランツェ	奴らの拠点に殴り込みだな。\nヴァレリアを取り戻して、錬金党も壊滅だ！	Lanze	Yep, we'll storm their base, swipe Valeria, then blow the thing to pieces!	兰泽	我们直接打进他们的据点。\n带回瓦莱莉娅，一举捣毁炼金党！	藍澤	是要攻入他們的據點吧。\n我們來奪回瓦萊莉婭並摧毀鍊金黨！
+TalkEvent_19_001ID	28	Lara	ララ	浮かない顔をしていますわね。\nあまり乗り気ではないということかしら？	Lara	Goodness, that's a rather long face. What reservations might you have, my dear?	拉拉	你看上去很不开心啊。\n是不太想去吗？	拉拉	妳看起來悶悶不樂的呢。\n對這次行動提不起勁嗎？
+TalkEvent_19_001ID	29	Resna	レスナ	私、これまではどうにか和解の道を\n探りたいと思っていました……	Resna	This whole time, I've been trying to resolve things as peacefully as possible, but...	蕾斯娜	以前我总想找一条可以和解的道路……	蕾斯娜	我至今為止都一直努力想要尋求和解之道……
+TalkEvent_19_001ID	30	Izana	イザナ	レスナちゃん……	Izana	Resna...	伊札娜	蕾斯娜……	伊札娜	蕾斯娜……
+TalkEvent_19_001ID	31	Resna	レスナ	でも、あの人造頂獣の事件や、ヴァレリアのこと……\n私は、クリセルダさんがやったことを許せない	Resna	There was everything with the man-made Apexi, and now Valeria... I just can't let Criselda keep doing this.	蕾斯娜	可经历了人造顶兽事件，以及瓦莱莉娅的事后……\n我无法原谅克莉赛尔达的所作所为了。	蕾斯娜	但因為那起人造頂獸的事件，還有瓦萊莉婭的事……\n我無法原諒克莉賽爾達小姐的所作所為。
+TalkEvent_19_001ID	32	Resna	レスナ	極夜の錬金党……クリセルダさんとは、\nきっちり決着を付けます	Resna	We're going to settle things with her, once and for all!	蕾斯娜	我要和极夜的炼金党……\n和克莉赛尔达做个了断。	蕾斯娜	我們要和極夜的鍊金黨……\n和克莉賽爾達小姐好好做個了斷。
+TalkEvent_19_001ID	33	Resna	レスナ	そして、ヴァレリアを取り返しましょう！	Resna	And we'll get Valeria back!	蕾斯娜	并且把瓦莱莉娅带回来！	蕾斯娜	然後，把瓦萊莉婭搶回來！
+TalkEvent_19_002ID	0	Criselda	クリセルダ	ワルター。研究の進行状況はどう？	Criselda	Walther. How is your research progressing?	克莉赛尔达	瓦尔特，研究进行得如何了？	克莉賽爾達	瓦爾特，研究進行得如何了？
+TalkEvent_19_002ID	1	Walther	ワルター	順調ですよ。まぁ、このまま邪魔が入らなければ\nより素晴らしいのですがね	Walther	Favorably. Though, the fewer interruptions we have, the better.	瓦尔特	很顺利。\n不过，希望之后不要有人来打扰我。	瓦爾特	很順利。不過，要是就這樣\n一直沒有人來干擾就更棒了。
+TalkEvent_19_002ID	2	Criselda	クリセルダ	このところ、周囲が騒がしいものね。\nさてと、どうしたものかしらね。ヴァレリア？	Criselda	Things in this area certainly have been noisy of late. What shall we do about that, Valeria?	克莉赛尔达	毕竟最近周围很喧嚣呢。\n该怎么办才好啊，瓦莱莉娅？	克莉賽爾達	畢竟最近周圍挺吵鬧的嘛。\n那麼，該怎麼辦才好呢，瓦萊莉婭？
+TalkEvent_19_002ID	3	Valeria	ヴァレリア	ん……ぶっ飛ばせばいい？	Valeria	Hm... Should I send them packing?	瓦莱莉娅	唔……把他们都打飞？	瓦萊莉婭	嗯……全部揍飛就行了？
+TalkEvent_19_002ID	4	Antje	アンチュ	ね、ねぇ、クリセルダ	Antje	Hey, Criselda?	安洁	哎，克莉赛尔达。	安潔	那、那個，克莉賽爾達。
+TalkEvent_19_002ID	5	Antje	アンチュ	周囲が騒がしいって、あいつらのこと？\nまた、何かする気なのかしら……？	Antje	It's those people again, right? They the ones causing trouble? What do you think they'll do this time?	安洁	你说的喧嚣，是那些人干的好事吗？\n你是不是又想干点什么……？	安潔	周圍會吵鬧是因為那些傢伙有來？\n他們又想做什麼了嗎……？
+TalkEvent_19_002ID	6	Criselda	クリセルダ	大丈夫よ、アンチュ。\n今度は怖い目にはあわせないから	Criselda	Don't worry, Antje. They won't be frightening you again.	克莉赛尔达	没事的，安洁。\n下次不会让你再遇到可怕的经历了。	克莉賽爾達	沒事的，安潔。\n這次不會再讓妳遇到可怕的事了。
+TalkEvent_19_002ID	7	Antje	アンチュ	あいつらのこと……許せないの。\n私の居場所を無遠慮に荒らしてばかりなんだもの	Antje	I'll never forgive them. They keep ruining the places that matter to me.	安洁	他们毫不客气地把我的容身之所\n搅了个翻天覆地，简直不可原谅。	安潔	那些傢伙……不可原諒，\n他們總是肆無忌憚地破壞我的棲身之所。
+TalkEvent_19_002ID	8	Walther	ワルター	そうですね。連中は大森林を抜け、ここに\n攻め入ろうとしているようですが……	Walther	Indeed. While they clearly intend to pass through the great forest and invade our base...	瓦尔特	没错。他们似乎正打算穿过大森林，\n攻入这里……	瓦爾特	妳說的對。他們好像正打算穿越大森林，\n攻入這裡的樣子……
+TalkEvent_19_002ID	9	Walther	ワルター	いい加減、研究に邪魔が入るのはうんざりです。\nこのへんでしっかりと決着を付けたい	Walther	I am weary of these constant disturbances. Let us settle things, once and for all.	瓦尔特	我已经受够研究被人打扰了。\n希望这次能做个了断。	瓦爾特	我已經受夠做研究時老是被打擾了。\n我希望能就此好好做個了斷。
+TalkEvent_19_002ID	10	Antje	アンチュ	うん……この間の借りも返さなきゃ……	Antje	Yeah. There's a lot we need to get back at them for.	安洁	嗯……必须把之前的仇报了……	安潔	嗯……也得跟他們算上次的帳……
+TalkEvent_19_002ID	11	Walther	ワルター	連中を打ち倒した暁には、異世界の錬金術について\nよりじっくりと聞いてみたいですね	Walther	Once we've dealt with those hindrances, then I'll be free to pick the other alchemists' brains about their otherworldly techniques.	瓦尔特	等打倒他们后，\n我要仔细问问异世界的炼金术是怎么回事。	瓦爾特	打倒他們之後，我想更仔細地問問他們\n關於異世界鍊金術的事。
+TalkEvent_19_002ID	12	Antje	アンチュ	研究バカ……	Antje	Ugh, is that all you care about?	安洁	满脑子研究……	安潔	研究成癡……
+TalkEvent_19_002ID	13	Criselda	クリセルダ	決着を付けるためにも、私の研究を完成させるわ。\n「アレ」はもう、あと締めの調合だけだから	Criselda	I also have research to complete if we are to settle things once and for all. All that remains is to synthesize the final product.	克莉赛尔达	为了做个了断，我也要完成我的研究。\n“那个”只剩下收尾的调合就完成了。	克莉賽爾達	為了做個了斷，我要完成我的研究。\n「那個」就只剩下最後的調合了。
+TalkEvent_19_002ID	14	Criselda	クリセルダ	頼もしい仲間も増えたことだし\n仕上げといきましょう	Criselda	We've also gained another reliable ally. Let's finish this, shall we?	克莉赛尔达	现在还多了个可靠的伙伴，\n开始收尾吧。	克莉賽爾達	既然可靠的夥伴也增加了，\n就來收尾吧。
+TalkEvent_19_002ID	15	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_19_002ID	16	Criselda	クリセルダ	素材を調達してくるわね。\nアンチュ、大丈夫？	Criselda	I'll go procure the materials. Antje, will you be all right on your own?	克莉赛尔达	我去筹备素材。\n安洁，你不要紧吧？	克莉賽爾達	我去準備一些素材回來。\n安潔，妳沒問題吧？
+TalkEvent_19_002ID	17	Antje	アンチュ	うん……構わず行ってきて	Antje	Sure, I don't mind.	安洁	嗯……不用在意我，你去吧。	安潔	嗯……別擔心我，妳去吧。
+TalkEvent_19_002ID	18	Antje	アンチュ	あいつらを倒しても、次の追手が来るもの。\nクリセルダが用意してるものは、必ず必要になるわ……	Antje	Even if we take one group down, there's always going to be another out to get us. And what you're doing is important, so...	安洁	就算打败他们，也会有其他追兵过来。\n克莉赛尔达准备的东西是必需的……	安潔	就算打倒那些傢伙，也會有下一波追兵上門。\n妳正在準備的東西，一定會用上的……
+TalkEvent_19_002ID	19	Criselda	クリセルダ	アンチュの言う通りね。\nできるだけ急いで戻ってくるから、お留守番よろしく	Criselda	Precisely. I promise that I'll return as quickly as I can, so please mind the base in my absence.	克莉赛尔达	安洁说得对。\n我会尽可能快点回来的，麻烦你们看家了。	克莉賽爾達	安潔說的沒錯。\n我會儘快趕回來的，就拜託你們留守了。
+TalkEvent_19_002ID	20	Antje	アンチュ	……任せて。\nこっちからも仕掛けて、引っ掻き回してやるから	Antje	Leave it to me. I'll set them up for nothing but trouble.	安洁	就包我身上吧。\n我会做好准备，打他们个措手不及的。	安潔	……包在我們身上。\n我們也會主動出擊，把他們攪個天翻地覆。
+TalkEvent_19_002ID	21	Criselda	クリセルダ	ヴァレリア。あなたは残ってワルターたちの\n言うことを聞いてちょうだいね	Criselda	Valeria, you'll be staying behind as well. Mind whatever Antje and Walther tell you.	克莉赛尔达	瓦莱莉娅你留下来，\n听瓦尔特他们的指示。	克莉賽爾達	瓦萊莉婭，妳留下來，\n要聽瓦爾特他們的話喔。
+TalkEvent_19_002ID	22	Valeria	ヴァレリア	うん。分かったわ	Valeria	Okay. Got it.	瓦莱莉娅	好，我知道了。	瓦萊莉婭	嗯，我知道了。
+TalkEvent_19_002ID	23	Criselda	クリセルダ	あとは、そうね……	Criselda	Let's see, what else...	克莉赛尔达	接下来……	克莉賽爾達	還有，我想想……
+TalkEvent_19_002ID	24	Criselda	クリセルダ	今後に備えて――\n１つ、取り決めをしておきましょうか	Criselda	Why don't we set up a provision for the near future?	克莉赛尔达	为今后做准备——\n我们做一个约定吧。	克莉賽爾達	為以後做準備──\n我們來訂個規矩吧。
+TalkEvent_19_002ID	25	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_19_003ID	0	Ryza	ライザ	よーし！　必要な素材は大体集まったかな	Ryza	Okay! That should do it for the materials we need.	莱莎	好了！需要的素材都收集得差不多了。	萊莎	好～！需要的素材大致都蒐集到了吧。
+TalkEvent_19_003ID	1	Rorona	ロロナ	うん、これだけあれば戦いの準備も大丈夫そうですね！	Rorona	Yep, this is plenty for our battle prep!	萝乐娜	嗯，准备这些应该够战斗用了！	蘿樂娜	嗯，有了這些，戰鬥前的準備應該就沒問題了！
+TalkEvent_19_003ID	2	Ryza	ライザ	ソフィーとアーシャさんが戻ってくるまで\nちょっと休憩しよっか	Ryza	I guess we can take it easy until Sophie and Ayesha come back.	莱莎	我们休息一会儿，\n等苏菲和爱夏小姐回来吧。	萊莎	在蘇菲和愛夏小姐回來之前，\n我們稍微休息一下吧。
+TalkEvent_19_003ID	3	Ryza	ライザ	ふう……	Ryza	Phew...	莱莎	呼……	萊莎	呼……
+TalkEvent_19_003ID	4	Rorona	ロロナ	ライザさん、最近ちょっとお疲れ気味ですよね……？	Rorona	Ryza, have you been feeling a little tired lately?	萝乐娜	莱莎小姐，你最近好像很累啊……？	蘿樂娜	萊莎小姐，妳最近好像有點累……？
+TalkEvent_19_003ID	5	Ryza	ライザ	え？　あはは……分かっちゃう？	Ryza	Ahaha... You noticed, huh?	莱莎	咦？啊哈哈……你看出来啦？	萊莎	咦？啊哈哈……看得出來？
+TalkEvent_19_003ID	6	Ryza	ライザ	なんか、ここしばらく極夜の錬金党との戦いが続いてて\n気疲れしちゃってるのかも	Ryza	I mean, knowing that we're gearing up for another round against the Polar Night Alchemists kind of wears you down.	莱莎	感觉最近这段时间一直在和极夜的炼金党战斗，\n可能有点累了。	萊莎	總覺得這陣子一直在跟極夜的鍊金黨交手，\n可能精神上有點疲憊了吧。
+TalkEvent_19_003ID	7	Ryza	ライザ	冒険の最中に魔物と戦うとか、\nそういうのとはまた違う感じだからさ	Ryza	Sure, we fight against monsters while we're out adventuring, but it's not really the same thing.	莱莎	这种感觉，\n和冒险中与魔物战斗还有点不太一样。	萊莎	因為這跟在冒險途中，與魔物對戰之類的\n感覺又不太一樣。
+TalkEvent_19_003ID	8	Rorona	ロロナ	それ、ちょっと分かります。わたしも、こんな大きな\n戦いに巻き込まれるなんて、初めてなので……	Rorona	No, I get it. I've never gotten caught up in a fight this big before either.	萝乐娜	我有点理解你的感受。\n我也是第一次参与规模这么大的战斗……	蘿樂娜	這一點我好像稍微可以理解。\n我也是第一次被捲進如此大規模的對戰之中……
+TalkEvent_19_003ID	9	Ryza	ライザ	ロロナはどうして戦おうと思ったの？\n逃げたいって思わなかった？	Ryza	Why are you fighting, anyway? Don't you ever feel like running away?	莱莎	萝乐娜为什么决定要战斗？\n有没有想过逃跑？	萊莎	蘿樂娜妳為什麼打算應戰呢？\n沒想過要逃跑嗎？
+TalkEvent_19_003ID	10	Rorona	ロロナ	それは……ちょっとは思いましたけど	Rorona	Well, it's not like I haven't thought about it before, but...	萝乐娜	嗯……有过逃跑的念头。	蘿樂娜	這個嘛……雖然有稍微想過……
+TalkEvent_19_003ID	11	Rorona	ロロナ	でも、わたし……カフェのみんなも、\nお店自体も、大好きだから	Rorona	I really like the cafe and everyone in it!	萝乐娜	但是我……非常喜欢咖啡厅的朋友们，\n还有咖啡厅本身。	蘿樂娜	可是，我……太喜歡咖啡廳的每一個人，\n也太喜歡這間店了。
+TalkEvent_19_003ID	12	Rorona	ロロナ	あの場所が無くなっちゃったら嫌だなって。\nだから最後まで戦うって決めたんです	Rorona	I don't want to lose a special place like that. So I'm going to fight until the very end.	萝乐娜	我不希望那里消失。\n所以才决定要战斗到最后。	蘿樂娜	要是那個地方沒了可不行啊，\n所以我決定要戰鬥到最後。
+TalkEvent_19_003ID	13	Ryza	ライザ	……そっか。\nうん……あたしも同じ気持ち	Ryza	Yeah... I'm with you there.	莱莎	……这样啊。\n嗯……我和你有着相同的感受。	萊莎	……這樣啊。\n嗯……我也是這麼想的。
+TalkEvent_19_003ID	14	Ryza	ライザ	よしっ！　ため息ついてばっかりいられないね！	Ryza	All right! This is no time to be sitting around sighing!	莱莎	好了！不能总是叹气！	萊莎	好！不能老是唉聲嘆氣的！
+TalkEvent_19_003ID	15	Rorona	ロロナ	はい！　みんなで頑張りましょう！	Rorona	Nope! We've all got to do our part!	萝乐娜	嗯！大家一起加油吧！	蘿樂娜	對啊！大家一起加油吧！
+TalkEvent_19_003ID	16	Ryza	ライザ	――っ！	Ryza	...!	莱莎	——！	萊莎	──！
+TalkEvent_19_003ID	17	Rorona	ロロナ	あ、あんな魔物……この辺りに出ましたっけ？	Rorona	Um, w-were there always monsters like that around here?	萝乐娜	那、那种魔物……在这一带出没过吗？	蘿樂娜	那、那種魔物……有在這附近出現過嗎？
+TalkEvent_19_003ID	18	Ryza	ライザ	ううん。初めて見た。というかこれ……\nあの時カフェに現れたヤツらじゃない！？	Ryza	Nope, I've never seen them in this area before. Come to think of it... Aren't those the same kind that attacked the cafe?!	莱莎	没有，我第一次见到。说起来……\n那不是那时咖啡厅里出现的家伙吗？！	萊莎	沒有，我是第一次看到。話說回來，牠們……\n不是當時出現在咖啡廳的那些傢伙嗎！？
+TalkEvent_19_003ID	19	Rorona	ロロナ	それって、極夜の錬金党の！？	Rorona	Does that mean the Polar Night Alchemists are here?!	萝乐娜	就是说，那是极夜的炼金党的？！	蘿樂娜	所以，牠們是極夜的鍊金黨派來的！？
+TalkEvent_19_003ID	20	Ayesha	アーシャ	ロロナさん、ライザさん、大丈夫ですか！？\n今、そっちに魔物が……！	Ayesha	Rorona! Ryza! Are you all right?! Monsters just—	爱夏	萝乐娜、莱莎，你们没事吧？！\n刚才那边出现了魔物……！	愛夏	蘿樂娜小姐、萊莎小姐，妳們沒事吧！？\n剛才那邊出現了魔物……！
+TalkEvent_19_003ID	21	Ryza	ライザ	うん、まずはこいつらを倒そう！\n話はそれからだよ！	Ryza	Don't worry, we're good! We can talk after we bring these guys down!	莱莎	嗯，先把这些家伙打倒吧！\n有话之后再说！	萊莎	嗯，先打倒這些傢伙吧！\n其他事情待會再說！
+TalkEvent_19_003ID	22	Rorona	ロロナ	ふうー、ソフィーちゃんとアーシャさんが\n来てくれてよかったあ	Rorona	Whew! We're lucky you ladies got here when you did.	萝乐娜	呼，还好苏菲跟爱夏也来了。	蘿樂娜	呼～幸好蘇菲和愛夏小姐來了。
+TalkEvent_19_003ID	23	Sophie	ソフィー	今の魔物って、極夜の錬金党の仕業だよね……	Sophie	Those monsters must be from the Polar Night Alchemists.	苏菲	刚才的魔物是极夜的炼金党干的好事吧……	蘇菲	剛才那些魔物是極夜的鍊金黨派來的吧……
+TalkEvent_19_003ID	24	Ryza	ライザ	うん……。この間みたいに、\nまた襲撃が始まったってことかも	Ryza	Yeah. It's just like last time. I guess they're kicking off the attacks again.	莱莎	嗯……可能和之前一样，\n又开始袭击了。	萊莎	嗯……可能又像上次一樣開始發動襲擊了。
+TalkEvent_19_003ID	25	Ayesha	アーシャ	みんなは大丈夫かな……	Ayesha	I hope everyone else is staying safe...	爱夏	大家没事吧……	愛夏	大家不會有事吧……
+TalkEvent_19_003ID	26	Resna	レスナ	イザナちゃん、そっちに行ったよ！	Resna	Izana, they're over there!	蕾斯娜	伊札娜，跑到你那边去了！	蕾斯娜	伊札娜，往那邊去了！
+TalkEvent_19_003ID	27	Izana	イザナ	まっかせてー！	Izana	Got it!	伊札娜	包我身上！	伊札娜	交給我吧──！
+TalkEvent_19_003ID	28	Izana	イザナ	やああっ！	Izana	Yaaah!	伊札娜	喝啊——！	伊札娜	喝啊啊！
+TalkEvent_19_003ID	29	Resna	レスナ	ヨハナちゃん、後ろーーーー！	Resna	Johanna! Behind you!	蕾斯娜	约翰娜，你后边——！	蕾斯娜	約翰娜，後面────！
+TalkEvent_19_003ID	30	Johanna	ヨハナ	言われなくても分かってる！　天才なのよ！？	Johanna	Yeah, I know! Did you forget I'm a genius?!	约翰娜	不用你说！我可是天才！	約翰娜	不用妳說我也知道！我可是天才喔！？
+TalkEvent_19_003ID	31	Johanna	ヨハナ	次から次へと、邪魔だっての！！	Johanna	Ugh, these losers just keep coming!	约翰娜	没完没了的，真烦人！！	約翰娜	一隻又一隻地冒出來，有夠礙事啦！！
+TalkEvent_19_003ID	32	Resna	レスナ	（この魔物たち……\n　また、極夜の錬金党が動き出したんだ！）	Resna	(These monsters are definitely the Polar Night Alchemists' doing too!)	蕾斯娜	（这些魔物说明……\n　极夜的炼金党又开始行动了！）	蕾斯娜	（這些魔物……\n　看來極夜的鍊金黨又開始行動了！）
+TalkEvent_19_004ID	0	Johanna	ヨハナ	今ので最後みたいね、はい、終わり！	Johanna	Okay, that looks like it was the last of them! For real this time!	约翰娜	刚才的应该是最后一只了。好了，结束了！	約翰娜	剛才的好像是最後一隻了，好，結束！
+TalkEvent_19_004ID	1	Izana	イザナ	びっくりした～。突然わーって襲ってきたもんね。\n今のって、極夜の錬金党の仕業かな？	Izana	Ugh, they just came out of nooowheeere. Do you guys think the Polar Night Alchemists are to blame?	伊札娜	真是吓我一跳啊，突然就遭到了袭击。\n刚才那些是极夜的炼金党干的吗？	伊札娜	嚇了我一跳～突然一大群襲擊過來。\n剛才那是極夜的鍊金黨幹的好事嗎？
+TalkEvent_19_004ID	2	Resna	レスナ	多分、そうだと思う。でも……	Resna	They're the most likely culprits, but...	蕾斯娜	估计是。不过……	蕾斯娜	我想應該是的，不過……
+TalkEvent_19_004ID	3	Geron	ジェロン	そちらは何事もなかったか？	Geron	Everything all right over there?	杰隆	你们那边没事吧？	傑隆	妳們那邊沒發生什麼事嗎？
+TalkEvent_19_004ID	4	Resna	レスナ	あっ、お二人とも！\nそちらはって……何かあったんですか？	Resna	Oh! Lara! Geron! If you're asking... Did something happen to you two?	蕾斯娜	啊，你们来啦！\n听你这么说……是发生什么事了吗？	蕾斯娜	啊，兩位！你問我們這邊……\n所以你們發生了什麼事嗎？
+TalkEvent_19_004ID	5	Lara	ララ	先ほど、厄介な魔物たちに絡まれましてね	Lara	Indeed. We were beset upon by a crowd of bothersome monsters just now.	拉拉	刚才被麻烦的魔物们缠上了。	拉拉	我們剛剛被一些棘手的魔物給纏上了。
+TalkEvent_19_004ID	6	Resna	レスナ	私たちもです！\nこの辺りに住んでいる魔物とは違うみたいで……	Resna	So were we! And not by ones that usually live in this area, either.	蕾斯娜	我们也是！\n那些魔物似乎和住在这一带的魔物不一样……	蕾斯娜	我們也是！\n看起來不太像是棲息在這一帶的魔物……
+TalkEvent_19_004ID	7	Izana	イザナ	やっぱり、極夜の錬金党の……？	Izana	Then, this really was the Polar Night Alchemists?	伊札娜	果然是极夜的炼金党干的……？	伊札娜	果然是極夜的鍊金黨幹的……？
+TalkEvent_19_004ID	8	Geron	ジェロン	……アンチュが動いているのかもしれない。\nなんとなくな	Geron	It's possible that Antje is out and about. Somehow.	杰隆	……或许是安洁的动作。\n我有这种感觉。	傑隆	……可能是安潔在行動了。\n我有這種感覺。
+TalkEvent_19_004ID	9	Lara	ララ	すると、他にも被害が出ているかもしれませんわね	Lara	If so, then we can expect further incidents and injuries.	拉拉	如果是这样的话，可能还有其他人遭受了攻击。	拉拉	這樣的話，說不定還有其他災情發生。
+TalkEvent_19_004ID	10	Resna	レスナ	一度、アトリエに帰りましょう	Resna	Let's head back to the atelier for now.	蕾斯娜	我们回一趟炼金工房吧。	蕾斯娜	我們先回鍊金工房一趟吧。
+TalkEvent_19_004ID	11	Resna	レスナ	……えっ、ユーディット先輩も\n魔物の襲撃にあったんですか？	Resna	Huh? Judith, you got attacked by monsters, too?	蕾斯娜	什么……优蒂托前辈也遭到了魔物攻击吗？	蕾斯娜	……咦，優蒂前輩也被魔物給襲擊了嗎？
+TalkEvent_19_004ID	12	Judie	ユーディー	ええ。採取してたらなんの気配もなく\nいきなり現れたからびっくりしたわ	Judie	Yep. I was out gathering materials, minding my own business, and before I knew it, monsters had gotten the jump on me.	优蒂	嗯。当时我正在忙着采集，\n魔物就那么悄无声息地出现，吓了我一大跳。	優蒂	對，我正在採集的時候，牠們無聲無息地突然出現，\n嚇了我好大一跳。
+TalkEvent_19_004ID	13	Judie	ユーディー	しかも、あの辺りでは見かけない\n魔物だったような……？	Judie	And they didn't look like local ones, either.	优蒂	而且我好像没有在那一带见过那种魔物……	優蒂	而且感覺好像是那一帶從沒見過的魔物……？
+TalkEvent_19_004ID	14	Izana	イザナ	やっぱり！　他のみんなの所にも来てたんだ！	Izana	So they ARE appearing in other places!	伊札娜	果然是这样！魔物也袭击了其他人！	伊札娜	果然！牠們也去找其他人了！
+TalkEvent_19_004ID	15	Judie	ユーディー	え、なになに？　どういうこと？\nまたあいつらが何かしたの？	Judie	Wait, what? What do you mean? Is something going on again?	优蒂	嗯？什么？怎么回事？\n那些家伙又搞什么破坏了吗？	優蒂	咦，什麼什麼？怎麼回事？\n那些傢伙又做了什麼嗎？
+TalkEvent_19_004ID	16	Marion	マリオン	この間と同じよ。魔物を使って\n異邦人に襲撃を仕掛けているみたい	Marion	The same thing as before, in fact. Monsters are being set upon the wanderers.	玛丽翁	就和之前一样。\n他们似乎操纵魔物对异邦人发动了袭击。	瑪麗翁	跟上次一樣，他們好像又在派魔物襲擊異邦人了。
+TalkEvent_19_004ID	17	Judie	ユーディー	しぶとい奴らねー。\n魔物の飼育場を潰したばかりなのに	Judie	Wow, those guys can't take a hint. We just busted up that breeding facility, too!	优蒂	那帮人真是有够顽强的。\n我们可是才捣毁了他们的魔物养殖场啊。	優蒂	那些傢伙還真難纏耶～\n我們明明才剛摧毀了他們的魔物飼養場。
+TalkEvent_19_004ID	18	Marion	マリオン	ただ、前回ほどの規模ではなさそうね	Marion	Well, the attacks don't appear to be on the same scale as before.	玛丽翁	不过这次的袭击比不上之前的规模。	瑪麗翁	不過，行動規模似乎沒有上次龐大。
+TalkEvent_19_004ID	19	Lara	ララ	今は極夜の錬金党の拠点である大森林に\n騎士たちが踏み込んでいる時	Lara	Not to mention there's currently a contingency of knights marching through the great forest in search of the Polar Night Alchemists' base.	拉拉	现在骑士们正在深入\n大森林中极夜的炼金党的据点。	拉拉	現在正是騎士們踏入極夜的鍊金黨的據點──\n大森林的時刻。
+TalkEvent_19_004ID	20	Geron	ジェロン	今なら王都周辺が手薄だということに気付き、\n騒ぎを起こそうとしたのだろうな	Geron	Which means that the capital is shorthanded. It's the perfect time to cause trouble.	杰隆	他们应该是注意到如今王都周边防守薄弱，\n才想要引起骚乱。	傑隆	對方應該是發現了目前王都周邊的人手較少，\n所以打算鬧事吧。
+TalkEvent_19_004ID	21	Lara	ララ	まぁ、あの程度の魔物では\n騒ぎにもなりませんでしたわね	Lara	Though, perhaps that won't occur, given the reduced number of ruffians.	拉拉	不过那种程度的魔物还溅不起什么水花。	拉拉	不過，那點程度的魔物，\n還不至於造成什麼影響。
+TalkEvent_19_004ID	22	Johanna	ヨハナ	ふん！　当たり前でしょ！\nあんなの何匹来たって、私の敵じゃないわ！	Johanna	Hmph! Of course things will be fine! I'll take down every single monster that shows up!	约翰娜	哼！那是自然！\n那种魔物有多少我打多少，根本不是我的对手！	約翰娜	哼！那是當然的啊！\n那種玩意兒不管來幾隻，都不是我的對手！
+TalkEvent_19_004ID	23	Judie	ユーディー	洞窟の件といい、今回といい、\n錬金党って卑怯な手ばかり使うのね	Judie	Between that time I got stuck in the cave and this latest attack, those Polar Night Alchemists sure do like their underhanded plans.	优蒂	洞窟那次也好，这次也好，\n炼金党还真是爱用些卑劣的手段啊。	優蒂	不管是洞窟那次，還是這次，\n鍊金黨總是耍一些卑鄙的手段。
+TalkEvent_19_004ID	24	Marion	マリオン	一応、他の異邦人たちの状況も確認しているけれど、\n特に大きな被害は出ていないみたい	Marion	I'll check in with each of the other wanderers, but I don't anticipate any particularly serious issues.	玛丽翁	现在也正在确认其他异邦人的情况，\n似乎没有出现严重的损失。	瑪麗翁	我確認了一下其他異邦人的狀況，\n似乎沒有受到特別嚴重的損害。
+TalkEvent_19_004ID	25	Judie	ユーディー	そう何度も同じ手は食わないんだから！	Judie	Like we'd be fooled by the same thing a second time!	优蒂	我们可不会被相同手段打败那么多次！	優蒂	我們才不會老是吃同樣的虧呢！
+TalkEvent_19_005ID	0	Rorona	ロロナ	やっぱり、レスナちゃんたちのほうでも\n魔物の襲撃があったんだね	Rorona	Goodness. Even you and your group got attacked, Resna?	萝乐娜	果然蕾斯娜你们也遭到了魔物的袭击啊。	蘿樂娜	蕾斯娜妳們果然也被魔物襲擊了啊。
+TalkEvent_19_005ID	1	Resna	レスナ	はい。恐らく、私たちを狙って一斉に\n魔物を送り込んだんだと思います	Resna	Yeah. I get the feeling that wave of monsters was sent to find us specifically.	蕾斯娜	是的。恐怕他们是瞧准了我们的行动，\n把魔物一齐送过来的。	蕾斯娜	是的，他們恐怕是以我們為目標\n同時派出魔物。
+TalkEvent_19_005ID	2	Rorona	ロロナ	錬金党との戦いに必要な素材は\n用意できてるけど……これからどうするの？	Rorona	We got the materials that you wanted for the fight against the Polar Night Alchemists, but what are you going to do next?	萝乐娜	现在已经准备好了和炼金党战斗需要的素材……\n接下来要怎么打算呢？	蘿樂娜	與鍊金黨交手所需的素材已經準備好了……\n接下來要怎麼做呢？
+TalkEvent_19_005ID	3	Resna	レスナ	魔物を送り込んできた\n錬金党の動きは気になりますが	Resna	I'm worried about what they might be up to, but...	蕾斯娜	炼金党的行动很令人担心，\n毕竟把魔物都派过来了……	蕾斯娜	雖然很在意把魔物送過來的\n鍊金黨後續的動向……
+TalkEvent_19_005ID	4	Resna	レスナ	当初の予定通り、ユナさんたちに連絡を取って\n最後の拠点があるノルト州に向かおうと思います	Resna	We should stick to the plan. We'll wait for Juna's report before heading toward their last base in Nord.	蕾斯娜	不过我们还是按照计划，和尤娜小姐他们取得联系，\n前往他们最后据点所在的诺特州吧。	蕾斯娜	但我打算按照當初的計畫，聯絡尤娜小姐她們，\n前往最後的據點諾魯特州。
+TalkEvent_19_005ID	5	Johanna	ヨハナ	いよいよ乗り込むのね！	Johanna	Finally! We're going to see some serious action!	约翰娜	终于要挺进那里了！	約翰娜	總算要闖進去啦！
+TalkEvent_19_005ID	6	Resna	レスナ	うん。\n皆さんも、それでいいですか？	Resna	Yep. Is everyone else okay with that?	蕾斯娜	嗯。\n大家觉得这样可以吗？	蕾斯娜	嗯，大家也都同意嗎？
+TalkEvent_19_005ID	7	Lara	ララ	異論はありませんわ	Lara	I have no objections.	拉拉	我没有意见。	拉拉	沒有異議。
+TalkEvent_19_005ID	8	Izana	イザナ	アタシも賛成！\n黙ってやられてるわけにはいかないよ！	Izana	Me neither! We definitely can't sit back and do nothing!	伊札娜	我也同意！\n怎么能就这样一味挨打呢！	伊札娜	我也贊成！可不能坐以待斃嘛！
+TalkEvent_19_005ID	9	Rorona	ロロナ	また、あのおっきな魔物と戦うことになるのかな……	Rorona	Do you think we'll have to take down another one of those super-sized monsters?	萝乐娜	又要和那个巨大的魔物战斗吗……	蘿樂娜	又要和那隻巨大的魔物交手了嗎……？
+TalkEvent_19_005ID	10	Resna	レスナ	人造頂獣、まだ残っているんでしょうか	Resna	You mean an artificial Apexi? I guess there could be some left.	蕾斯娜	人造顶兽还在吗？	蕾斯娜	還有其他的人造頂獸嗎？
+TalkEvent_19_005ID	11	Rorona	ロロナ	ものを壊すためだけに、生み出されたんだよね。\n人造頂獣って……	Rorona	Imagine creating something whose sole purpose is to destroy...	萝乐娜	人造顶兽……完全是为了进行破坏\n而被创造出来的吧。	蘿樂娜	人造頂獸……純粹是為了破壞而生的吧。
+TalkEvent_19_005ID	12	Rorona	ロロナ	マルローネさんとも話してたんだけど、\n倒すしかないとはいえ、ちょっと可哀そうだね……	Rorona	I was talking about the Apexi with Marlone. We were saying that we understand we don't really have much of a choice, but getting rid of them feels kind of bad.	萝乐娜	之前我也和玛洛娜小姐聊过，\n虽然必须要打败它，但感觉它有点可怜呢……	蘿樂娜	我也跟瑪洛娜小姐提過，\n雖說只能打倒牠們，但也覺得有點可憐……
+TalkEvent_19_005ID	13	Resna	レスナ	そう、ですね。\n錬金術はみんなを幸せにするものなのに	Resna	I agree. Alchemy is for making people happy!	蕾斯娜	嗯，是啊。\n炼金术明明是为了给大家带来幸福而存在的。	蕾斯娜	是啊……\n鍊金術明明是能帶給大家幸福的力量。
+TalkEvent_19_005ID	14	Resna	レスナ	でも、放っておくわけにもいきませんし……	Resna	But we can't just let them run wild, either...	蕾斯娜	但也不能放任它不管……	蕾斯娜	但又不能放著牠們不管……
+TalkEvent_19_005ID	15	Heidi	ハイディ	レスナ！	Heidi	Resna!	海蒂	蕾斯娜！	海蒂	蕾斯娜！
+TalkEvent_19_005ID	16	Resna	レスナ	ハイディさん！\nどうしたんですか？	Resna	What's the matter, Heidi?	蕾斯娜	海蒂！怎么了？	蕾斯娜	海蒂小姐！發生什麼事了？
+TalkEvent_19_005ID	17	Heidi	ハイディ	ユナさんが一度、報告に戻ってくるって！	Heidi	Juna's back with an update!	海蒂	尤娜小姐说她要回来做个报告！	海蒂	尤娜小姐說她要先回來報告一下！
+TalkEvent_19_005ID	18	Resna	レスナ	ユナさんが？\nもしかして、ノルト州の拠点のことで……	Resna	Really? I wonder if it's about the Nord base...	蕾斯娜	尤娜小姐？\n该不会是诺特州据点的相关事宜……	蕾斯娜	尤娜小姐嗎？\n難不成，是關於諾魯特州據點的事……
+TalkEvent_19_005ID	19	Heidi	ハイディ	多分ね。レスナも一緒に来てよ！	Heidi	It's got to be! So you've got to come hear it too, Resna!	海蒂	估计是。蕾斯娜，你也一起来吧！	海蒂	應該是。蕾斯娜妳也一起來吧！
+TalkEvent_19_005ID	20	Resna	レスナ	もちろんです！	Resna	Of course!	蕾斯娜	那是当然！	蕾斯娜	沒問題！
+TalkEvent_19_006ID	0	Roman	ロマン	ついに奴らの拠点を見つけたんだな！	Roman	So, you found their base!	罗曼	终于找到他们的据点了啊！	羅曼	終於找到那群傢伙的據點啦！？
+TalkEvent_19_006ID	1	Juna	ユナ	はい。残念ながら負傷者も出てしまいましたが……	Juna	Yes, though we sustained quite a few casualties.	尤娜	嗯。但很遗憾，有人受伤了……	尤娜	是的，但遺憾的是也有人受傷了……
+TalkEvent_19_006ID	2	Resna	レスナ	もしかして、戦闘になったんですか？	Resna	Did you get into a fight?	蕾斯娜	难道进行战斗了吗？	蕾斯娜	難道說，是雙方打起來了嗎？
+TalkEvent_19_006ID	3	Juna	ユナ	直接、交戦したわけではない。\nただ、拠点の周囲に罠が多数仕掛けられていてな	Juna	Not directly, no. However, there is no shortage of traps around the area.	尤娜	并没有直接发生交战，\n但据点周围设置了诸多陷阱。	尤娜	並沒有直接交戰。\n只是，據點周圍設了許多陷阱。
+TalkEvent_19_006ID	4	Juna	ユナ	逐次、対処は進めているが……\n数も種類も多くて苦労している	Juna	While we have made steady progress in disarming them, the sheer number and variety are quite troublesome.	尤娜	我们逐一进行了拆除……\n但无奈数量和种类众多，也因此陷入苦战。	尤娜	雖然已經在逐個處理了……\n但數量和種類都很多，挺費勁的。
+TalkEvent_19_006ID	5	Lara	ララ	恐らく、ワルターが研究と称して作ったものですわね。\nわたくしも詳細は把握していませんが……	Lara	I would not be surprised to hear that Walther was the one who constructed them, in the name of research. Though, I could not offer any details.	拉拉	恐怕那些就是瓦尔特所谓研究的成果吧。\n具体情况我也不是很清楚……	拉拉	那恐怕是瓦爾特以研究之名做出來的東西，\n雖然詳情我也不是很清楚……
+TalkEvent_19_006ID	6	Heidi	ハイディ	ってことは、罠はまだ全部片付いてないんだね？	Heidi	So there are still a bunch lying around?	海蒂	那就是说，陷阱还没有全部清理干净是吗？	海蒂	也就是說，陷阱還沒有全部處理掉？
+TalkEvent_19_006ID	7	Juna	ユナ	ああ。フィリスをはじめ、錬金術士たちが\n騎士団と協力して調査を続けている状況だ	Juna	Precisely. Firis started a survey in cooperation with the knights and other alchemists, which is still ongoing.	尤娜	嗯。目前以菲利丝为首，\n炼金术士们正在和骑士团通力合作，继续调查。	尤娜	對，目前鍊金術士們以菲莉絲為首，\n正與騎士團合作持續調查中。
+TalkEvent_19_006ID	8	Resna	レスナ	フィリス先輩が！	Resna	Oh! So Firis is there too!	蕾斯娜	菲利丝前辈！	蕾斯娜	菲莉絲前輩！
+TalkEvent_19_006ID	9	Lara	ララ	妥当な策ですわね。錬金術士が作ったものですから、\n対処に当たるのは錬金術士が適任でしょう	Lara	A fine plan. Since an alchemist made those traps, alchemists would be the most qualified to handle them.	拉拉	这是很妥善的安排。毕竟是炼金术士创造的东西，\n处理的工作自然应当交给炼金术士。	拉拉	很穩妥的對策。畢竟是鍊金術士做出來的東西，\n找鍊金術士來處理再適合不過了。
+TalkEvent_19_006ID	10	Resna	レスナ	それならば……この先は私たちが引き継ぎたいと\n思います。どうでしょうか？	Resna	In that case... What would you say to us taking over that task?	蕾斯娜	既然如此……我们想接手接下来的工作。\n可以吗？	蕾斯娜	既然這樣……我想接下來就由我們來接手，\n你們覺得如何呢？
+TalkEvent_19_006ID	11	Juna	ユナ	いいのか？	Juna	You wouldn't mind?	尤娜	你愿意吗？	尤娜	可以嗎？
+TalkEvent_19_006ID	12	Resna	レスナ	むしろ、やらせてください！	Resna	If anything, I insist!	蕾斯娜	愿意，请交给我们吧！	蕾斯娜	當然可以，請交給我們處理！
+TalkEvent_19_006ID	13	Roman	ロマン	……拠点にはヴァレリアもいるだろうしね。\n分かった、頼んだよ	Roman	Because Valeria would be there too, I take it? Sure, go right ahead.	罗曼	……瓦莱莉娅估计也还在据点里。\n好吧，那就拜托你们了。	羅曼	……畢竟瓦萊莉婭應該也在據點裡。\n知道了，那就拜託了，
+TalkEvent_19_006ID	14	Lanze	ランツェ	おう。ヴァレリアの奴を迎えに行ってやらねぇとな！	Lanze	Yep, we gotta bring her back!	兰泽	嗯。我们得去把瓦莱莉娅接回来啊！	藍澤	好，我們得去把瓦萊莉婭那傢伙接回來才行！
+TalkEvent_19_006ID	15	Heidi	ハイディ	とはいえ、あんまり気合を入れすぎると\n緊張でガチガチになっちゃいそうだからさ	Heidi	But we can't go getting too worked up. That'll just make us all stiff and nervous.	海蒂	话是这么说，但如果过度卖力，\n可能会紧张得四肢僵硬。	海蒂	話是這麼說，但如果我們表現得太過拼命，\n到時可能會因緊張而顯得不自然。
+TalkEvent_19_006ID	16	Heidi	ハイディ	いつも通りやって、\n笑顔で相棒を迎えに行ってあげようよ	Heidi	We've got to play it cool so we can pick up Valeria with a smile!	海蒂	我们就像平常那样，\n带着笑容去迎接搭档吧。	海蒂	我們就像平常一樣，\n帶著笑容去接搭檔回來吧。
+TalkEvent_19_006ID	17	Resna	レスナ	はい……！	Resna	Right!	蕾斯娜	好的……！	蕾斯娜	是……！
+TalkEvent_19_006ID	18	Roman	ロマン	我々は拠点の周囲で、いつでも動けるように待機\nしておこう。ユナ、現地に戻り作戦を伝えてくれ	Roman	In the meantime, we'll station troops around the base so we can be ready to mobilize at a moment's notice. Juna, I'd like you to head back and get those tactics sorted.	罗曼	我们就在据点周围待命，做好随时行动的准备。\n尤娜，你回去传达一下计划吧。	羅曼	那我們就在據點周圍待命，以便隨時行動。\n尤娜，妳回現場傳達作戰計畫吧。
+TalkEvent_19_006ID	19	Juna	ユナ	はっ	Juna	Yes, Your Highness.	尤娜	是！	尤娜	遵命。
+TalkEvent_19_006ID	20	Resna	レスナ	それじゃあ、私たちも出発の準備をしましょうか	Resna	I guess we should go get ready to leave too.	蕾斯娜	那我们就去为出发做好准备吧。	蕾斯娜	那我們也來做出發前的準備吧。
+TalkEvent_19_006ID	21	Roman	ロマン	ああ、そうだ。\nその前にもう１ついいかな、同志？	Roman	Oh, right. Before you do, could I have a moment of your time, kindred spirit?	罗曼	啊，对了。\n在此之前我能再说一句吗，同志？	羅曼	喔，對了。\n在那之前能再說一件事嗎，同伴？
+TalkEvent_19_006ID	22	Resna	レスナ	なんでしょう、同志？	Resna	What is it, fellow comrade?	蕾斯娜	要说什么呢，同志？	蕾斯娜	什麼事呢，同伴？
+TalkEvent_19_006ID	23	Roman	ロマン	人造頂獣の一件以来、国民の錬金術に対する見方が\n厳しくなっている、ということは話したね	Roman	You remember how we talked about alchemy's reputation taking a dive after that man-made Apexi attack?	罗曼	之前我说过，自人造顶兽一事之后，\n国民对炼金术的态度比较消极吧？	羅曼	我之前說過，自從人造頂獸那件事之後，\n國民看待鍊金術的眼光變得越來越嚴苛了，對吧？
+TalkEvent_19_006ID	24	Resna	レスナ	はい……	Resna	Yes...	蕾斯娜	嗯……	蕾斯娜	是的……
+TalkEvent_19_006ID	25	Roman	ロマン	その一方でレスナたちがいい結果を残しているのも\n事実。錬金術の重要性を、王国は認めて――	Roman	Well, I have one bit of good news for you on that front.	罗曼	但蕾斯娜你们做出了出色的成果，这也是事实。\n王国承认了炼金术的重要性——	羅曼	然而另一方面，蕾斯娜妳們不斷取得好結果也是事實，\n王國承認了鍊金術的重要性──
+TalkEvent_19_006ID	26	Roman	ロマン	「錬金爵」の爵位を復活させることになった。\nこれはかつてランターナ王国に存在した爵位なんだ	Roman	"I managed to get the kingdom to recognize its importance and reinstate the position of ""Seneschal of Alchemy,"" which really was an officially appointed role, way back in the day."	罗曼	决议重新设立“炼金爵”这一爵位。\n这是兰塔纳王国曾经有过的爵位。	羅曼	已決定恢復「鍊金爵」這個爵位。\n這是過去蘭塔納王國曾存在過的爵位。
+TalkEvent_19_006ID	27	Resna	レスナ	錬金爵……あっ、歴史の本で見たことがあります	Resna	Senechal... Oh! I've seen that title in a history book!	蕾斯娜	炼金爵……啊，我在历史书里看到过。	蕾斯娜	鍊金爵……啊，我在歷史書上有看過。
+TalkEvent_19_006ID	28	Roman	ロマン	簡単に言えば、王国が錬金術に関する政策を行う際の\n責任者のようなものだね	Roman	Basically, the seneschal is in charge of forming and enforcing any royal policies related to alchemy.	罗曼	简单来说，就是王国施行\n与炼金术相关政策时的负责人。	羅曼	簡單來說，那就類似於王國在執行鍊金術\n相關政策時的負責人。
+TalkEvent_19_006ID	29	Roman	ロマン	これからは、その錬金爵がレスナたちの動向を監視する\n	Roman	They'll be monitoring your—and the other alchemists'—actions from here on out.	罗曼	今后炼金爵会监视蕾斯娜你们的动向。	羅曼	接下來，那位鍊金爵會監視蕾斯娜妳們的動向。
+TalkEvent_19_006ID	30	Heidi	ハイディ	うひゃー、息が詰まりそうだね	Heidi	Egh. So they'll be breathing down our necks.	海蒂	我的天，听着都要窒息了。	海蒂	嗚哇，感覺好讓人喘不過氣呢。
+TalkEvent_19_006ID	31	Roman	ロマン	ものは考えようさ。監視ってことは\n常に見てくれているわけだからね	Roman	Sure, constant supervision might sound stifling, but...	罗曼	这就看你怎么想了。\n监视就意味着对方会一直看着你们。	羅曼	事情的好壞取決於觀點。\n因為監視也就表示他會一直看著妳們。
+TalkEvent_19_006ID	32	Resna	レスナ	そっか、その錬金爵の方に\n錬金術の良さを見せることができれば……！	Resna	Oh, I get it. If we can show the seneschal just how wonderful alchemy is, then...!	蕾斯娜	对哦，如果能让炼金爵看到炼金术的优点……！	蕾斯娜	對喔，如果能讓那位鍊金爵\n見識到鍊金術的優點……！
+TalkEvent_19_006ID	33	Roman	ロマン	目標だった王国からの支援を\n勝ち取れるっていうことさ	Roman	Mhm, you'll have effectively won the support of the entire kingdom.	罗曼	那我们就能获得我们想要的王国的支援了。	羅曼	妳曾經希望能獲得王國支援的目標也十拿九穩了。
+TalkEvent_19_006ID	34	Heidi	ハイディ	はっはーん、なるほどね。\nロマンも上手いこと考えたな	Heidi	Ohoho, I see what's going on here. Roman, you sly dog.	海蒂	啊哈！原来是这样。\n罗曼想得很周到呢。	海蒂	哈哈～原來如此。\n羅曼你也可真是精明啊。
+TalkEvent_19_006ID	35	Roman	ロマン	私はあくまで民のことを第一に考えているだけだよ	Roman	Hey, I'm always thinking about what's best for our citizens.	罗曼	我只不过是把人民放在第一位去考虑罢了。	羅曼	我不過是把人民放在第一順位來考量罷了。
+TalkEvent_19_006ID	36	Resna	レスナ	錬金術の扱いについて、\n今、王国で天秤が揺れているのなら……	Resna	So if the kingdom is already inclined to shake up its stance on alchemy...	蕾斯娜	既然如今在炼金术的问题上，\n王国的天平已经开始摇摆……	蕾斯娜	既然目前王國對於如何處置\n鍊金術的天秤正在搖擺中……
+TalkEvent_19_006ID	37	Resna	レスナ	錬金爵様に認めていただけるよう、精進いたします！	Resna	Then we just have to devote ourselves to making the seneschal see how amazing it can be!	蕾斯娜	那我会好好努力获得炼金爵认可的！	蕾斯娜	那我會力求上進，以獲得鍊金爵大人的認可！
+TalkEvent_19_006ID	38	Roman	ロマン	ああ。ただ、授爵した人物が、\n優秀だけどなかなか難しい人間でね……	Roman	Exactly! Though I will say that the person they appointed, while brilliant, is not the easiest to deal with.	罗曼	嗯。只是，加封的那位虽然优秀，\n却是个很难相处的人物……	羅曼	嗯，不過，封爵的那位人物雖然優秀，\n但性格卻相當挑剔……
+TalkEvent_19_006ID	39	Resna	レスナ	えっ？	Resna	Huh?	蕾斯娜	咦？	蕾斯娜	咦？
+TalkEvent_19_006ID	40	Roman	ロマン	まぁ……おいおい紹介するよ	Roman	Well... We'll get you acquainted little by little.	罗曼	嗯……慢慢再介绍给你们认识吧。	羅曼	嗯……我會再慢慢跟妳介紹的。
+TalkEvent_19_006ID	41	Resna	レスナ	は、はい	Resna	O-Okay.	蕾斯娜	好、好的。	蕾斯娜	好、好的。
+TalkEvent_19_007ID	0	Roman	ロマン	……なるほど。\n拠点の内部はこのような構造になっているのか	Roman	I see. So this is what the base's layout looks like.	罗曼	……原来如此。\n据点内部是这样的构造啊。	羅曼	……原來如此。\n據點內部的構造是這樣的啊。
+TalkEvent_19_007ID	1	Lara	ララ	記憶を頼りに書き起こしたものなので、\n正確性は保証できませんけれど	Lara	Though, I did draft this entirely from memory, so I cannot guarantee its accuracy.	拉拉	这是我根据回忆写出来的，\n不敢保证正确性。	拉拉	因為是憑記憶畫出來的，\n無法保證百分之百正確。
+TalkEvent_19_007ID	2	Heidi	ハイディ	随分入り組んでるなあ……迷路みたいだ	Heidi	Yeesh, this place is complicated. It's practically a maze!	海蒂	还真是错综复杂啊……像迷宫一样。	海蒂	滿錯綜複雜的呢……像迷宮似的。
+TalkEvent_19_007ID	3	Resna	レスナ	部屋もたくさんありますね……\nクリセルダさんたちがいるとしたらどこでしょう？	Resna	Look at how many rooms there are... Which ones would Criselda and the others most likely be in?	蕾斯娜	房间也多得数不清……\n克莉赛尔达他们如果在的话，会在哪一间里呢？	蕾斯娜	房間也很多……\n克莉賽爾達小姐他們平時會待在哪裡呢？
+TalkEvent_19_007ID	4	Lara	ララ	拠点内でも特に重要な場所が２か所あります。\nそのどちらかにいる可能性は高そうですわね	Lara	Within the base, there are two key areas. The odds of someone being in either are quite high.	拉拉	据点里有两处特别重要的地方，\n他们很可能在这两处中的一处。	拉拉	據點內也有2個特別重要的地方，\n他們很可能會待在其中一處。
+TalkEvent_19_007ID	5	Roman	ロマン	重要、というと？	Roman	What makes them so important?	罗曼	重要？此话怎讲？	羅曼	重要的地方是指？
+TalkEvent_19_007ID	6	Lara	ララ	１つは素材の貯蔵庫ですわ。極夜の錬金党が集めた\n素材はそこに集められ、共有されていましたの	Lara	One is the warehouse. All of the materials that the Polar Night Alchemists gather are stored there for communal use.	拉拉	一处是素材仓库。那里存放着\n极夜的炼金党收集到的素材，供大家使用。	拉拉	一個是素材的儲藏庫。極夜的鍊金黨蒐集來的素材\n都會集中在那裡與成員共用。
+TalkEvent_19_007ID	7	Lara	ララ	そしてもう１つは、実際に調合を行うための工房。\nすなわち――極夜の錬金党のアトリエですわ	Lara	The other is the workshop that is used for synthesis. In short, their atelier.	拉拉	另一处则是实际进行调合的工房，\n也就是极夜的炼金党的炼金工房。	拉拉	而另一個則是實際用來進行調合的工房。\n也就是──極夜的鍊金黨的鍊金工房。
+TalkEvent_19_007ID	8	Resna	レスナ	――――！　アトリエが、この場所に……	Resna	Oh! So that's where it is...	蕾斯娜	啊——！炼金工房在这里……	蕾斯娜	────！鍊金工房就在這個地方……
+TalkEvent_19_007ID	9	Roman	ロマン	なるほど……では、二手に分かれて\n捜索するのはどうだろう？	Roman	Makes sense. Then should we split into two groups?	罗曼	这样啊……那我们兵分两路进行搜索如何？	羅曼	懂了……那我們就兵分兩路搜索怎麼樣？
+TalkEvent_19_007ID	10	Resna	レスナ	古城の時と同じですね。良いと思います	Resna	Like we did at the ancient castle, right? I think that's a good idea!	蕾斯娜	和在古城时一样的战术啊。我觉得可以。	蕾斯娜	和古城那時一樣對吧？我認為可以。
+TalkEvent_19_007ID	11	Heidi	ハイディ	んじゃ、あの時と同じように片方はレスナ班ってことで	Heidi	So that means that Resna's going to be heading up one of them.	海蒂	那就和那时一样，一半组成蕾斯娜小队。	海蒂	那就和那時一樣，一邊是蕾斯娜組。
+TalkEvent_19_007ID	12	Resna	レスナ	えっ！？　は、はい！　頑張ります！	Resna	Huh?! O-Okay, I'll do my best!	蕾斯娜	咦？！好、好的！我会加油的！	蕾斯娜	咦！？好、好的！我會加油的！
+TalkEvent_19_007ID	13	Roman	ロマン	それならもう片方はヴァレリア班……\nといきたいところだったけどね	Roman	In that case, the other group would have been Valeria's squad.	罗曼	那另一半就是瓦莱莉娅小队……\n可惜不能这么分了。	羅曼	那麼另一邊就是瓦萊莉婭組……\n差點就想這樣分組了呢……
+TalkEvent_19_007ID	14	Resna	レスナ	そうですね……じゃあ、もう片方の班長は、\nハイディさんにお願いできますか？	Resna	Oh, that's right... Heidi, could you lead that group in her place?	蕾斯娜	是啊……那另一小队的队长交给海蒂小姐可以吗？	蕾斯娜	是啊……那另一邊的組長，\n能麻煩海蒂小姐擔任嗎？
+TalkEvent_19_007ID	15	Heidi	ハイディ	わ、私！？　そんな重要な役、できるかな！？	Heidi	Who, me?! Are you really sure I should be in that kind of important role?!	海蒂	啊，交给我？！我能胜任这么重要的角色吗？！	海蒂	我、我嗎！？這麼重要的工作，我能勝任嗎！？
+TalkEvent_19_007ID	16	Resna	レスナ	もちろんです！　ハイディさんは、\nいつもヴァレリアを隣で支えていましたし！	Resna	Absolutely! You've always been right beside Valeria, through thick and thin!	蕾斯娜	当然可以了！\n毕竟海蒂小姐一直都在瓦莱莉娅身边支持着她！	蕾斯娜	那當然！海蒂小姐總是在瓦萊莉婭身邊支持著她呀！
+TalkEvent_19_007ID	17	Heidi	ハイディ	分かった。相棒がいない分、きっちり頑張るよ。\nおっさんとフロッケと一緒に迎えに行く！	Heidi	Okay, I'll do it. And I'll work extra hard to make up for her absence! Pops, Flocke, we've got a base to raid!	海蒂	好吧。我会替缺席的搭档好好加油的。\n我要和大叔还有芙洛可一起去迎接她！	海蒂	知道了，我會連同搭檔的份好好努力的。\n我要跟大叔和芙洛可一起去接她回來！
+TalkEvent_19_007ID	18	Lara	ララ	ふふ。では、案内役はわたくしが。\n錬金術士としてもお役に立つはずですわ	Lara	*Chuckle* Then I shall be your guide. I'm certain that you'll need an alchemist with you as well.	拉拉	呵呵。那我就负责带路吧。\n作为炼金术士，我应该能出一份力。	拉拉	呵呵，那我就負責帶路吧。\n身為鍊金術士應該也能幫上忙。
+TalkEvent_19_007ID	19	Heidi	ハイディ	あんたが付いてくれるなら心強いよ！	Heidi	That'd be great, thanks!	海蒂	有你跟着，我就更放心了！	海蒂	有妳一起同行，真令人安心！
+TalkEvent_19_007ID	20	Lara	ララ	レスナ。あなたの案内役はジェロンにやって\nもらうことにしますわ	Lara	Resna, we'll have Geron act as your group's escort.	拉拉	蕾斯娜，你们那边就由杰隆带路了。	拉拉	蕾斯娜，妳那邊就由傑隆負責帶路吧。
+TalkEvent_19_007ID	21	Resna	レスナ	ありがとうございます！\nジェロンさんも加われば、まさに盤石の態勢です！	Resna	That would be great! He's so dependable!	蕾斯娜	非常感谢！\n有杰隆先生的加入，我们就稳如泰山了！	蕾斯娜	謝謝妳！\n傑隆先生也加入的話，簡直是堅若磐石的陣容！
+TalkEvent_19_007ID	22	Resna	レスナ	では、私たちはアトリエのほうを目指します。\nハイディさんたちは貯蔵庫のほうをお願いします	Resna	We'll head for their atelier, then. Which leaves you with the warehouse, Heidi.	蕾斯娜	那我们就去炼金工房吧。\n仓库那边就拜托海蒂小姐你们了。	蕾斯娜	那我們就朝鍊金工房的方向前進。\n儲藏庫那邊就拜託海蒂小姐你們了。
+TalkEvent_19_007ID	23	Heidi	ハイディ	りょーかい。任せといて	Heidi	Roger that! We'll clear it out, no problem!	海蒂	明白，包我们身上。	海蒂	收到，包在我們身上。
+TalkEvent_19_007ID	24	Roman	ロマン	作戦は決まったね。みんな、よろしく頼んだよ	Roman	It sounds like we've got a plan. Good luck out there, everyone.	罗曼	这样计划就定好了。那么就拜托各位了。	羅曼	作戰計畫制定好了。各位，那就拜託你們了。
+TalkEvent_19_007ID	25	Roman	ロマン	それと……ライザ、ロロナ。ちょっといいかい？	Roman	Also... Rorona and Ryza, do you have a moment?	罗曼	还有……莱莎、萝乐娜，我能和你们说几句吗？	羅曼	還有……萊莎、蘿樂娜，能耽誤妳們一下嗎？
+TalkEvent_19_007ID	26	Roman	ロマン	向こうもどう動いてくるか分からない。\n前と同じように、この場所が狙われる可能性もある	Roman	Like last time, we don't really know what the Polar Night crew is going to pull. Would you mind sticking behind and guarding the atelier?	罗曼	我们不清楚对方会如何行动，\n他们有可能会像上次那样袭击这里。	羅曼	我們並不曉得對方會如何行動，\n這裡也有可能會像上次那樣被盯上。
+TalkEvent_19_007ID	27	Ryza	ライザ	分かってます。ここはあたしたちが守りますから	Ryza	Sure thing. We won't let anyone mess with it!	莱莎	我明白。我们会守护这里的。	萊莎	我明白，我們會負責守住這裡的。
+TalkEvent_19_007ID	28	Rorona	ロロナ	お留守番は任せてください！	Rorona	You can leave the atelier-sitting to us!	萝乐娜	看家就交给我们吧！	蘿樂娜	留守就交給我們吧！
+TalkEvent_19_007ID	29	Resna	レスナ	ライザ先輩、ロロナ先輩、よろしくお願いします！	Resna	Thank you very much, Ryza! Rorona!	蕾斯娜	莱莎前辈、萝乐娜前辈，就麻烦你们了！	蕾斯娜	萊莎前輩、蘿樂娜前輩，拜託妳們了！
+TalkEvent_19_007ID	30	Ryza	ライザ	うん。任されたよ！	Ryza	Don't worry, we've got this!	莱莎	好。交给我们！	萊莎	嗯，交給我們吧！
+TalkEvent_19_007ID	31	Roman	ロマン	繰り返すが、極夜の錬金党最後の拠点だ。\nみんな、力を尽くそうじゃないか！	Roman	Once again, we'll be working toward infiltrating that last Polar Night base. We'll need everyone to give this their all!	罗曼	我再重复一遍，剩下的是极夜的炼金党最后的据点。\n让我们拼尽全力吧！	羅曼	再說一次，這是極夜的鍊金黨的最後一個據點。\n大家就全力以赴吧！
+TalkEvent_19_007ID	32	Resna	レスナ	では、私たちは出発の準備にかかります	Resna	We'd better start getting ready to go.	蕾斯娜	那我们去为出发做准备了。	蕾斯娜	那我們就去做出發前的準備了。
+TalkEvent_19_008ID	0	Izana	イザナ	気を引き締めていこうね、レスナちゃん。\nあ、ジェロンには無茶しないように言わないとね！	Izana	I'll be ready for whatever they throw at us! Oh, and I'd better remind Geron to not do anything I wouldn't do. He can be so reckless!	伊札娜	我们要谨慎行事啊，蕾斯娜。\n啊，还得告诉杰隆让他不要乱来！	伊札娜	我們小心點前進吧，蕾斯娜。\n啊，得叫傑隆不要亂來才行！
+TalkEvent_19_008ID	1	Resna	レスナ	心強いよ、イザナちゃん！　……あれ？	Resna	You're so dependable, Izana! Hm? Is that...	蕾斯娜	有你在我心里就有底了，伊札娜！咦……？	蕾斯娜	伊札娜，真令人放心！……奇怪？
+TalkEvent_19_008ID	2	Resna	レスナ	先輩方！　なんだかお忙しそうですね	Resna	Hello, ladies! It's been a while, hasn't it?	蕾斯娜	前辈们！你们好像很忙呀。	蕾斯娜	各位前輩！妳們好像很忙的樣子呢。
+TalkEvent_19_008ID	3	Ayesha	アーシャ	あ、レスナさん	Ayesha	Oh, Resna.	爱夏	啊，是蕾斯娜呀。	愛夏	啊，蕾斯娜小姐。
+TalkEvent_19_008ID	4	Ayesha	アーシャ	騎士さんたちが何人もケガして戻ってきたから、\n大急ぎで治療のための薬作りをしてるの	Ayesha	Quite a few of the knights have gotten injured and were sent home to recover, so we've stopped by to quickly synthesize as many medicines as we can.	爱夏	有好几个骑士受伤回来了，\n我们正在为了治疗紧急制作药品呢。	愛夏	因為有幾位騎士受傷回來了，\n我們正趕著製作治療用藥。
+TalkEvent_19_008ID	5	Resna	レスナ	なるほど……\nできればお手伝いしたいところだったのですが……	Resna	Oh no. I really wish I could lend a hand, but...	蕾斯娜	原来是这样……\n我也很想帮忙，可……	蕾斯娜	原來如此……\n如果可以我是很想幫忙，但……
+TalkEvent_19_008ID	6	Ayesha	アーシャ	話は聞いてるよ。レスナさんたちは\nこれから錬金党の拠点を目指すんだよね？	Ayesha	It's all right, I heard. You'll be storming the Polar Night base, correct?	爱夏	我已经听说了。\n你们接下来要前往炼金党的据点吧？	愛夏	事情我聽說了，蕾斯娜小姐妳們接下來\n要前往鍊金黨的據點對吧？
+TalkEvent_19_008ID	7	Judie	ユーディー	こっちはあたしたちに任せておいて！\nみんな、ケガしないように頑張ってね！	Judie	Don't worry, we've got this totally under control! Just focus on not getting hurt yourselves, okay?	优蒂	这里交给我们就行！\n你们要加油哦，注意不要受伤！	優蒂	這邊就交給我們吧！\n大家要加油，不要受傷喔！
+TalkEvent_19_008ID	8	Izana	イザナ	まっかせて！\nレスナちゃんにはアタシも付いてるから！	Izana	We can manage that! After all, Resna will have me around!	伊札娜	放心吧！\n还有我跟着蕾斯娜呢！	伊札娜	包在我們身上！\n蕾斯娜還有我跟著呢！
+TalkEvent_19_008ID	9	Judie	ユーディー	あはは、そっか。アトリエのことも心配しないで。\nあたしたちがしっかり守るからね！	Judie	Ahaha, great! We'll watch the atelier while we're here too. No one's getting in here without our permission!	优蒂	哈哈哈，这样啊。你们也不用担心炼金工房，\n我们会稳稳守住的！	優蒂	啊哈哈，這樣啊。妳們也別擔心鍊金工房，\n我們會好好守護這裡的！
+TalkEvent_19_008ID	10	Judie	ユーディー	これ以上、あいつらに貸しは作らせないから！	Judie	So make sure you get payback on those jerks for us, too!	优蒂	不会再让他们占便宜了！	優蒂	不能再繼續欠他們人情了！
+TalkEvent_19_008ID	11	Resna	レスナ	ふふっ。とても心強いです！\n先輩方、私たち、頑張ってきますね！	Resna	Hehe! Knowing that you'll be here is really reassuring! Let's all do our best!	蕾斯娜	呵呵，真可靠呀！\n前辈们，我们会努力的！	蕾斯娜	呵呵，真令人安心！\n各位前輩，我們會努力的！
+TalkEvent_19_008ID	12	???	？？？	どうやら揃っているようだな	???	Hm, it would seem that they're all present.	？？？	看来已经到齐了啊。	？？？	看來設備很齊全呢。
+TalkEvent_19_008ID	13	Roman	ロマン	やぁ、みんな	Roman	Hey, folks.	罗曼	嗨，各位。	羅曼	嗨，大家。
+TalkEvent_19_008ID	14	Resna	レスナ	あれ、ロマンさん？　……と、そちらは？	Resna	Oh, Roman? And...you've brought a guest?	蕾斯娜	咦，罗曼先生？还有……这位是？	蕾斯娜	咦，羅曼先生？還有……那位是？
+TalkEvent_19_008ID	15	???	？？？	君がレスナ・シュテルネンリヒトだな	???	You must be Resna Sternenlicht.	？？？	你就是蕾斯娜·修特涅利希特吧？	？？？	妳就是蕾斯娜‧修特涅利希特吧。
+TalkEvent_19_008ID	16	Resna	レスナ	は、はい！　そうですが……あなたは？	Resna	I-I am! And you are...?	蕾斯娜	没、没错！是我……请问你是？	蕾斯娜	是、是的！我就是……您是？
+TalkEvent_19_008ID	17	Brad	ブラッド	私はブラッドリー・カーン。\nこのたび、錬金爵の爵位を授かった者だ	Brad	Bradley Khan. I've recently been appointed Seneschal of Alchemy.	布莱德	我是布莱德利·卡恩。\n被封为炼金爵的就是我。	布萊德	我是布萊德里‧卡恩。\n是這次被授予鍊金爵爵位的人。
+TalkEvent_19_008ID	18	Roman	ロマン	私とは、まぁ幼馴染のような感じだよ	Roman	We go way back, actually. You could call us childhood friends.	罗曼	他和我算是儿时的朋友了。	羅曼	他跟我算是兒時玩伴喔。
+TalkEvent_19_008ID	19	Resna	レスナ	れ、錬金爵様！？　は、はじめまして！	Resna	You're the new seneschal?! I-It's so nice to meet you!	蕾斯娜	炼、炼金爵大人？！你、你好！	蕾斯娜	鍊、鍊金爵大人！？初、初次見面！
+TalkEvent_19_008ID	20	Brad	ブラッド	錬金爵として君のことを調べ、またリヒャルトからも\n君のことをよく聞いている。よろしくお願いする	Brad	I've done my research on you, as befitting my position, but I've heard even more about you from Richard. I'm looking forward to getting to know you better.	布莱德	我作为炼金爵调查过你，也从理查德那里\n听说过你的事迹。请多关照。	布萊德	我以鍊金爵的身分調查過妳，\n也經常聽理查德說關於妳的事，請多指教了。
+TalkEvent_19_008ID	21	Roman	ロマン	ブラッド。今は急いでいるんだ。\nレスナへの用件、手短に頼むよ	Roman	Resna doesn't have a lot of time to spare right now, so keep it short, okay?	罗曼	布莱德，现在时间紧急，\n麻烦你简短说明找蕾斯娜有什么事。	羅曼	布萊德，現在分秒必爭。\n要跟蕾斯娜說的事，就麻煩你長話短說了。
+TalkEvent_19_008ID	22	Brad	ブラッド	あぁリヒャルト、言われなくともそうさせてもらう	Brad	Relax, Richard. You don't need to tell me twice.	布莱德	好的理查德，不用你说我也是这么打算的。	布萊德	嗯，理查德，你不說我也會這麼做的。
+TalkEvent_19_008ID	23	Brad	ブラッド	改めて。錬金術士レスナ	Brad	So, Alchemist Resna...	布莱德	那么，炼金术士蕾斯娜。	布萊德	那麼，鍊金術士蕾斯娜。
+TalkEvent_19_008ID	24	Resna	レスナ	は、はい……	Resna	Y-Yes?	蕾斯娜	我、我在……	蕾斯娜	是、是的……
+TalkEvent_19_008ID	25	Brad	ブラッド	頂獣ウェルテックス討伐への貢献に加え、\n過日の王都襲撃事件での活躍……	Brad	In addition to your contributions to Weltex's subjugation, you also played a large role in handling the recent attack on the capital.	布莱德	你曾在讨伐顶兽威尔特克斯中做出了贡献，\n在不久前的王都袭击事件中也大展身手……	布萊德	妳討伐頂獸威爾特庫斯有所貢獻，\n在先前的王都襲擊事件中也表現出色……
+TalkEvent_19_008ID	26	Brad	ブラッド	それ以外にも、大陸各地で錬金術を用い、\n問題解決に取り組んでいるようだ	Brad	Not to mention the alchemical services you've been performing across the continent. I hear that you've solved quite a few tricky problems.	布莱德	除此之外，还在大陆各地通过炼金术解决各种问题。	布萊德	此外，妳似乎還在大陸各地使用鍊金術，\n致力於解決問題。
+TalkEvent_19_008ID	27	Brad	ブラッド	私は君の功績を高く評価している	Brad	In my opinion, these are accomplishments worth praising.	布莱德	你可谓是立下了汗马功劳。	布萊德	我對妳的功績有著高度的評價。
+TalkEvent_19_008ID	28	Resna	レスナ	あ、ありがとうございます！\n恐悦至極に存じます、錬金爵様！	Resna	Thank you very much! I'm so honored to hear that you think so highly of me, Seneschal Khan!	蕾斯娜	感、感谢夸奖！\n我真的十分荣幸，炼金爵大人！	蕾斯娜	謝、謝謝您！\n真是榮幸之至，鍊金爵大人！
+TalkEvent_19_008ID	29	Brad	ブラッド	ブラッドでよい。しかし、昨今の情勢を踏まえると、\nこちらも厳しい目で見ざるを得ない	Brad	Just Brad is fine. That being said, recent events haven't been kind to your overall image.	布莱德	叫我布莱德就好。不过，根据最近的情况来看，\n我必须要严格要求你们。	布萊德	叫我布萊德就行了。不過，鑒於當前的情勢，\n我這邊也不得不以嚴格的眼光審視妳。
+TalkEvent_19_008ID	30	Resna	レスナ	……はい。それは承知しています	Resna	Yes, I'm all too aware of that.	蕾斯娜	……是，这我明白。	蕾斯娜	……是，這點我明白。
+TalkEvent_19_008ID	31	Brad	ブラッド	特に極夜の錬金党に所属していた危険人物の\n登用は、細心の注意を払うべきだ	Brad	I'm especially wary of those ex-Polar Night Alchemists. They deserve particular scrutiny.	布莱德	尤其是在启用曾经从属于极夜的炼金党的危险人物时，\n要小心再小心。	布萊德	尤其是起用了原本為極夜的鍊金黨旗下的危險人物，\n更應該要密切留意他們的一舉一動。
+TalkEvent_19_008ID	32	Resna	レスナ	それは……ララさんとジェロンさんのことですか？	Resna	Do you mean...Lara and Geron?	蕾斯娜	你是指……拉拉小姐和杰隆先生吗？	蕾斯娜	那是指……拉拉小姐和傑隆先生嗎？
+TalkEvent_19_008ID	33	Roman	ロマン	その件は、今蒸し返さなくてもいいだろう？\nレスナ、彼は頑固なところがあってね――	Roman	Come on, there's no need to go dragging that up again, Brad. Sorry, Resna. He can be as stubborn as—	罗曼	那件事没必要再提了吧？\n蕾斯娜，他有点顽固——	羅曼	關於這個，就不必一提再提了吧？\n蕾斯娜，他這個人就是有點頑固──
+TalkEvent_19_008ID	34	Brad	ブラッド	何を言っている。まさに彼らを伴って錬金党の拠点に\n赴こうとしているのだろう	Brad	Are you even hearing yourself? Next you'll be telling me that they'll be accompanying the group headed to their former base.	布莱德	怎么能这么说。\n他们不是打算和那些人一起前往炼金党的据点吗？	布萊德	你在說什麼傻話？她不是正要在他們的偕同之下\n前往鍊金黨的據點嗎？
+TalkEvent_19_008ID	35	Resna	レスナ	は、はい。案内役をお願いしていますが……	Resna	Th-They are. They'll be acting as our guides, so...	蕾斯娜	是、是的。我们拜托他们来引路……	蕾斯娜	是、是的，我們拜託他們幫忙帶路……
+TalkEvent_19_008ID	36	Brad	ブラッド	このリヒャルトとは違い、錬金爵として\n彼らをすぐに信用することはできない	Brad	Unlike Richard, I will not be so quick to trust them.	布莱德	我和理查德不一样，站在炼金爵的角度，\n我无法立刻信任他们。	布萊德	我跟這位理查德不一樣，身為鍊金爵，\n我無法立即相信他們。
+TalkEvent_19_008ID	37	Brad	ブラッド	そこで、私もこたびの作戦に同行する。\n彼らを監視するためにな	Brad	As such, I'll be joining you on your deployment. I don't intend to let those two out of my sight.	布莱德	因此，我也会参加此次计划。\n为的是监视他们。	布萊德	因此，這次作戰我也會同行，\n我得前去監視才行。
+TalkEvent_19_008ID	38	Resna	レスナ	錬金爵様自らですか！？\nでも……お二人は信頼できる仲間ですよ？	Resna	Y-You're actually joining us in the field? Um... They're trustworthy people, Brad. I trust them.	蕾斯娜	炼金爵大人要亲自出马？！\n可是……他们两个是值得信赖的伙伴啊。	蕾斯娜	鍊金爵大人親自來嗎！？\n可是……那兩個人是值得信賴的夥伴喔？
+TalkEvent_19_008ID	39	Brad	ブラッド	君の考えは尊重する。だが、渦中の組織の元構成員\nとあっては、こちらも慎重にならざるを得ない	Brad	While I respect your opinion, you have to admit that former members from the organization currently at the center of our troubles are guaranteed to raise suspicion.	布莱德	我尊重你的想法。但面对问题中心的组织的前成员，\n我必须要谨慎行事。	布萊德	我尊重妳的想法。但由於他們是涉事組織的原成員，\n我這邊也不得不慎重其事。
+TalkEvent_19_008ID	40	Brad	ブラッド	私のような立場の者も必要だと言うことだ。\nそう理解してくれ	Brad	Someone has to be the skeptic. I trust that you can understand that.	布莱德	我这种立场的人也是必不可少的。\n希望你能理解。	布萊德	這對於站在我這種立場的人來說是必要的，\n請妳諒解。
+TalkEvent_19_008ID	41	Resna	レスナ	わ、分かりました。\nよろしくお願いします、ブラッドさん	Resna	N-No, I get it. I'm looking forward to working with you, Brad.	蕾斯娜	我、我知道了。\n那就请多关照了，布莱德先生。	蕾斯娜	我、我明白了。\n還請你多多指教了，布萊德先生。
+TalkEvent_19_008ID	42	Bradley Khan	ブラッドリー・カーン	若くしてランターナ王国の錬金爵に任命された青年。\n通称「ブラッド」。ロマンとは昔からの付き合い	Bradley Khan	"A young man recently appointed as the Lantarna Kingdom's Seneschal of Alchemy. Most commonly goes by ""Brad."" He and Roman have known each other since they were young."	布莱德利·卡恩	年纪轻轻就被任命为兰塔纳王国炼金爵的青年。\n通称“布莱德”。与罗曼相识已久。	布萊德利‧卡恩	年紀輕輕就被任命為蘭塔納王國鍊金爵的青年。\n人稱「布萊德」，和羅曼是舊識。
+TalkEvent_19_009ID	0	Flocke	フロッケ	皆さん、こちらは準備ができました	Flocke	I'm all ready to go!	芙洛可	各位，我们已经准备好了。	芙洛可	各位，芙洛可這邊準備好了。
+TalkEvent_19_009ID	1	Lanze	ランツェ	おう。こっちも終わったぜ。いつでもいけるぞ	Lanze	Good, same here. We can kick off whenever.	兰泽	嗯。我们也准备好了，随时都能出发。	藍澤	喔，我這邊也好了，隨時都可以出發囉。
+TalkEvent_19_009ID	2	Lara	ララ	では、ここにララ・キングダム影部隊の創設を\n宣言いたします。目的はヴァレリアの救出――	Lara	Now then, members of the Kingdom of Lara's newly-formed shadow corps, your objectives are to locate Valeria and—	拉拉	那么在此，我宣布拉拉王国影子部队就此创立。\n目的是救出瓦莱莉娅——	拉拉	那麼我宣布拉拉王國的影子部隊在此成立，\n目標是救出瓦萊莉婭──
+TalkEvent_19_009ID	3	Heidi	ハイディ	ちょっと待った。指揮は一応私だよね！？	Heidi	Hang on, wasn't I supposed to be the one calling the shots?!	海蒂	等等，指挥可是我哦？！	海蒂	給我等一下，指揮應該是我吧！？
+TalkEvent_19_009ID	4	Lara	ララ	あら。ささいなことですわ	Lara	A trifling detail, to be sure.	拉拉	哎呀，这都是小事。	拉拉	哎呀，何必在意這種小事。
+TalkEvent_19_009ID	5	Lanze	ランツェ	いや……ぜんぜん、ささいじゃねえよ！\n勝手にお前の王国部隊に組み込むな！	Lanze	Ain't nothin' triflin' about it! Ya can't just go recruitin' folks into your personal armies without askin'!	兰泽	不是……这完全不是小事啊！\n别擅自把我拉进你的王国部队好不好！	藍澤	不對……這哪裡是小事！\n別擅自成立妳的王國部隊啦！
+TalkEvent_19_009ID	6	Brad	ブラッド	敵同士だった相手と、随分親しくなっているのだな	Brad	Despite starting as mutual enemies, you certainly seem to be on good terms.	布莱德	明明原本彼此是敌人，现在倒是变得很亲近嘛。	布萊德	你們和自己的前敵人變得可真親近啊。
+TalkEvent_19_009ID	7	Lanze	ランツェ	ああ？　なんだお前は	Lanze	Oh yeah? And who're you?	兰泽	啊？你是什么人？	藍澤	啊？你哪位啊？
+TalkEvent_19_009ID	8	Brad	ブラッド	錬金爵のブラッドリーだ。\n今回の作戦に同行させてもらうことになった	Brad	Bradley Khan, Seneschal of Alchemy. I'll be accompanying you on this mission.	布莱德	我是炼金爵布莱德利。\n我会和你们一同参加这次的行动。	布萊德	我是鍊金爵布萊德。\n這次作戰我將與你們同行。
+TalkEvent_19_009ID	9	Heidi	ハイディ	ええっ！？　国のお偉いさんがどうして！？	Heidi	Huh?! Doesn't that mean you're a government bigwig?!	海蒂	什么？！国家的大人物为什么会来啊？！	海蒂	咦咦！？國家的高官為什麼……！？
+TalkEvent_19_009ID	10	Brad	ブラッド	錬金爵として、極夜の錬金党は放置できんからな。\nもちろん、元錬金党の者も含めて	Brad	My position demands that I cannot turn a blind eye to any of the Polar Night Alchemists' actions. Past OR present.	布莱德	身为炼金爵，我不能放任极夜的炼金党不管。\n当然，也包含炼金党前成员。	布萊德	因為身為鍊金爵的我不能放任極夜的鍊金黨不管。\n當然，這也包含鍊金黨的前成員。
+TalkEvent_19_009ID	11	Brad	ブラッド	私は、リヒャルトのように甘くはない	Brad	Nor am I as easily won over as Richard.	布莱德	我可不像理查德那样天真。	布萊德	我可不像理查德那麼天真。
+TalkEvent_19_009ID	12	Lara	ララ	あら、ご挨拶ですこと	Lara	My, what a lovely introduction.	拉拉	哎呀，这么说可真过分。	拉拉	哎呀，你可真有禮貌。
+TalkEvent_19_009ID	13	Heidi	ハイディ	ちょい待ち！\nケンカはやめてくださいよ～お二人さん！	Heidi	Whoa, not so fast! We don't need any in-fighting before we've even left!	海蒂	等等！求你们不要吵！	海蒂	等一下！拜託你們兩位別吵架啦～！
+TalkEvent_19_009ID	14	Brad	ブラッド	こちらは争うつもりはない。\n余計な気を起こさぬよう忠告しているだけだ	Brad	I wasn't being combative; I was simply stating my position.	布莱德	我不打算争论。\n只是忠告你们别想搞些有的没的。	布萊德	我沒打算起爭執。\n只是為了不讓人起多餘的念頭，給個忠告罷了。
+TalkEvent_19_009ID	15	Lara	ララ	ご安心なさいな。大仰な監視などなくとも、\nそんなつもりは初めからありませんので	Lara	Well, you needn't be so concerned. Quite frankly, we haven't done anything deserving of such stringent scrutiny.	拉拉	请放一万个心吧。就算没有这小题大做的监视，\n我压根也没有那种打算。	拉拉	你放心吧，就算沒有小題大作的監視，\n我們也從一開始就沒那種打算。
+TalkEvent_19_009ID	16	Flocke	フロッケ	み、皆さん仲良くしましょう！　ね！	Flocke	Um! The most important thing is to just get along! Okay?	芙洛可	各、各位，让我们友好相处吧！好不好！	芙洛可	大、大家好好相處吧！好嗎？
+TalkEvent_19_009ID	17	Lanze	ランツェ	そうだぜ。\nったく、天使ちゃんに気遣わせてんじゃねえよ	Lanze	Yeah, that. Quit makin' our little angel all anxious!	兰泽	就是啊。\n真是的，别让小天使担心啊。	藍澤	就是啊。\n真是的，別讓小天使費心啦。
+TalkEvent_19_009ID	18	Heidi	ハイディ	はあ……先が思いやられる	Heidi	Ugh... This is going to be the longest trip ever.	海蒂	唉……看来这次的旅途会很辛苦了。	海蒂	唉……前途未卜啊。
+TalkEvent_19_009ID	19	???	？？？	ちょっっっっっと待ったーーー！！	???	Hooold it right there!	？？？	等一下——！！	？？？	給我等一下────！！
+TalkEvent_19_009ID	20	Heidi	ハイディ	今度は何！？	Heidi	What now?!	海蒂	又怎么了？！	海蒂	這次又怎麼了！？
+TalkEvent_19_009ID	21	Magda	マクダ	このマクダ様も一緒に行くぜ！	Magda	The Great Magda's going with ya!	玛格达	我也和你们一起去！	瑪格達	瑪格達大人我也要一起去！
+TalkEvent_19_009ID	22	Heidi	ハイディ	マクダ！？　あんた、どうして！？	Heidi	Seriously?! What are you doing here, Magda?!	海蒂	玛格达？！你怎么来了？！	海蒂	瑪格達！？妳為什麼……！？
+TalkEvent_19_009ID	23	Lara	ララ	この方はどなたですの？	Lara	Er, who might this person be?	拉拉	这位是？	拉拉	這是哪位呀？
+TalkEvent_19_009ID	24	Heidi	ハイディ	あぁ。私と相棒が月影の会にいた頃の同僚だよ。\n「喧嘩屋マクダ」って名の通った凄腕なんだ	Heidi	"Ah, she's an old coworker from my Moonlight Society days. She made a name for herself as ""Brawl Master Magda."""	海蒂	哦，是我和搭档还在月影会时的同事。\n人称“打架高手玛格达”，非常厉害哦。	海蒂	啊，她是我和搭檔在月影會時的同事，\n有著「打架專家瑪格達」的稱號，身手了得。
+TalkEvent_19_009ID	25	Flocke	フロッケ	フロッケたちと家もご近所さんでした	Flocke	Plus, she used to live right next door to us!	芙洛可	以前和我们也是邻居呢。	芙洛可	她也是芙洛可和大家的鄰居。
+TalkEvent_19_009ID	26	Magda	マクダ	マクダ・キュプカー。\nケンカの依頼は請け負うぜ。魔物相手でもな	Magda	I'm Magda Kupker. If you need to win a fight, I'm a sure bet! I don't mind tangling with monsters, either.	玛格达	我是玛格达·库普卡，\n承接打架的委托，对手是魔物也没问题。	瑪格達	瑪格達‧秋普卡。打架的委託我就接下了，\n對手是魔物也一樣。
+TalkEvent_19_009ID	27	Lara	ララ	あら、月影の会は先日、壊滅したはずでは？	Lara	Was the Moonlight Society not completely disbanded?	拉拉	咦，月影会先前不是已经瓦解了吗？	拉拉	哎呀，月影會之前應該已經被摧毀了，不是嗎？
+TalkEvent_19_009ID	28	Magda	マクダ	そうなんだよ、オリバーに仕事を頼まれてさ。\n長いこと北に行ってて王都を離れてたんだ	Magda	Sure was. But I was way up in the north on Oliver's orders for ages.	玛格达	是啊。我当时被奥利弗安排了工作，\n一直在北方，不在王都。	瑪格達	就是說啊，因為奧利弗派工作給我，\n所以我去了北方，離開王都好一段時間了。
+TalkEvent_19_009ID	29	Magda	マクダ	んで、戻ってきたら月影の会は壊の滅。\nオリバーも鴉も捕まったときたもんだ	Magda	Didn't get back until the dust had settled, and by then, the group was gone. Oliver and Crow'd been caught, too.	玛格达	等我回来以后月影会已经散伙，\n奥利弗和鸦也被抓起来了。	瑪格達	然後，等我回來時，月影會竟然已經被徹底摧毀。\n奧利弗和烏鴉也都被抓起來了。
+TalkEvent_19_009ID	30	Magda	マクダ	この先どうするって時に、\nブラッドからヴァレリアのことを聞いてな	Magda	Right when I was wondering what to do next, Brad here told me all about Valeria's whole deal.	玛格达	就在不知今后如何是好的时候，\n从布莱德那里听说了瓦莱莉娅的情况。	瑪格達	正當我煩惱接下來該怎麼辦時，\n就從布萊德那邊聽說了瓦萊莉婭的事。
+TalkEvent_19_009ID	31	Heidi	ハイディ	ええっ！？　あんた、錬金爵様と知り合いなの！？	Heidi	Huuuh?! You know this bigshot?!	海蒂	咦？！你和炼金爵大人认识吗？！	海蒂	咦咦！？妳認識鍊金爵大人！？
+TalkEvent_19_009ID	32	Brad	ブラッド	……一応な。少し縁があった	Brad	I suppose we could be considered acquaintances, in a sense.	布莱德	……算是有些关系吧。	布萊德	……算是吧，有點交情。
+TalkEvent_19_009ID	33	Magda	マクダ	こいつはマクダ様の出番だな、ってわけで、\n駆けつけてきたのさ	Magda	Anyway, this is clearly a gig for the Great Magda, so I came running on over!	玛格达	这不就轮到我玛格达出场了吗。\n所以我就赶过来了。	瑪格達	這傢伙對我說「該瑪格達大人出馬了」，\n所以我就趕來啦。
+TalkEvent_19_009ID	34	Brad	ブラッド	ついてこいと言った覚えはないのだがな	Brad	I don't recall ever asking you to tag along.	布莱德	我可不记得说过让你跟过来。	布萊德	我可不記得有要妳跟來。
+TalkEvent_19_009ID	35	Magda	マクダ	細けぇこと気にすんなよ堅物！	Magda	C'mon! Don't sweat the small stuff so much, you goody two-shoes.	玛格达	就别在意这些小事了，老古板！	瑪格達	這點小事別在意啦，死腦筋！
+TalkEvent_19_009ID	36	Flocke	フロッケ	マクダさん。ありがとうございます！	Flocke	Thank you for helping us, Magda!	芙洛可	玛格达小姐，谢谢你！	芙洛可	瑪格達小姐，謝謝妳！
+TalkEvent_19_009ID	37	Magda	マクダ	ははっ！　フロッケは相変わらずいい子だ！\nちゃんとメシ食ってんのか？	Magda	Haha! Good to see that you're just as adorable as ever, Flocke! Are you eating well?	玛格达	哈哈哈！芙洛可还是像以前一样善良呢！\n有好好吃饭吗？	瑪格達	哈哈！芙洛可依然是個好孩子呢！\n妳有好好吃飯嗎？
+TalkEvent_19_009ID	38	Flocke	フロッケ	はい。おかげさまで	Flocke	Yes! Three meals a day!	芙洛可	嗯，托你的福。	芙洛可	有，託妳的福。
+TalkEvent_19_009ID	39	Magda	マクダ	ランツェのおっさん。遠征先でいい酒を\n見つけてきたんだが……買うか？	Magda	Hey, old timer. Wanna grab a drink before we head out? I saw some choice booze on my way over.	玛格达	兰泽大叔，我在远征的地方\n发现了很不错的酒哦……买不买？	瑪格達	藍澤大叔，我在遠征的地方找到了些好酒……\n你要買嗎？
+TalkEvent_19_009ID	40	Lanze	ランツェ	あいにく禁酒中でな。そういうのなら他を当たってくれ	Lanze	Sorry, but you're barkin' up the wrong tree. I don't mess with that stuff no more.	兰泽	不巧我正在禁酒呢，你去问问别人吧。	藍澤	真不巧我正在禁酒，那種事妳就去找別人吧。
+TalkEvent_19_009ID	41	Magda	マクダ	なにぃっ！？　おいおい、本当にこいつランツェか？	Magda	Whaaat?! Okay, hold on. Who are you and what have you done with the real Lanze?!	玛格达	我没听错吧？！哎，这家伙真的是兰泽吗？	瑪格達	什麼！？喂喂，這傢伙真的是藍澤嗎？
+TalkEvent_19_009ID	42	Lara	ララ	……どうやら、悪い人ではなさそうですわね	Lara	Well, it would appear that she's not a bad person.	拉拉	……感觉不像坏人。	拉拉	……看起來她不像壞人呢。
+TalkEvent_19_009ID	43	Brad	ブラッド	その点は同意しておこう。言動は粗暴だがな	Brad	On that point, we can agree. Though, her manners would benefit from some polishing.	布莱德	这点我同意。就是言行举止粗暴了一点。	布萊德	這點我同意，雖然言行有點粗魯就是了。
+TalkEvent_19_009ID	44	Johanna	ヨハナ	ねぇ、レスナ。ノルト州ってどんな場所なの？	Johanna	Hey, Resna? What's Nord like?	约翰娜	对了，蕾斯娜。诺特州是什么样的地方呀？	約翰娜	我說蕾斯娜，諾魯特州是什麼樣的地方啊？
+TalkEvent_19_009ID	45	Resna	レスナ	ノルト州はね、鬱蒼とした森林や沼地が多い\n自然豊かな州だよ。巨大な湖もあってね	Resna	It's rich in nature, with plenty of dense forests and deep patches of wetlands. There's even a huge lake!	蕾斯娜	诺特州啊，那里有着郁郁葱葱的森林和沼泽，\n自然景观丰富。还有巨大的湖泊呢。	蕾斯娜	諾魯特州的自然資源相當豐富，\n有很多茂密森林和沼澤，還有巨大的湖泊喔。
+TalkEvent_19_009ID	46	Resna	レスナ	その分、人はあまり住んでいないんだけどね。\n世捨て人が住む集落があるって噂はあるけど……	Resna	But on the other hand, not many people live there. I've heard rumors of a hermit settlement, but...	蕾斯娜	也正因如此，那里没什么人居住。\n不过据说有隐士居住的村落……	蕾斯娜	也因此人煙稀少，\n是有傳聞說那裡有個隱士居住的聚落，但……
+TalkEvent_19_009ID	47	Johanna	ヨハナ	へぇ。隠れ家を作るにはもってこいってわけね	Johanna	Huh. Sounds like a great spot for a hideout.	约翰娜	是吗。也就是说很适合当作藏身处啊。	約翰娜	哦～也就是說，很適合作為藏身處啊。
+TalkEvent_19_009ID	48	Geron	ジェロン	そろそろノルト州に入るぞ	Geron	In any case, you'll soon see it for yourselves.	杰隆	准备进入诺特州吧。	傑隆	差不多要進入諾魯特州了。
+TalkEvent_19_009ID	49	Izana	イザナ	うん。気を引き締めていこう	Izana	Yep. Let's stay alert.	伊札娜	嗯，保持警惕前进吧。	伊札娜	嗯，大家謹慎地前進吧。
+TalkEvent_19_009ID	50	Magda Kupker	マクダ・キュプカー	王都では名の知れた「喧嘩屋」。元々は月影の会に\n所属しており、ヴァレリアたちとは顔見知り	Magda Kupker	"Known throughout the capital as the ""Brawl Master."" An ex-member of the Moonlight Society, she's an acquaintance of Valeria and her crew."	玛格达·库普卡	在王都颇有名气的“打架高手”。\n原是月影会成员，和瓦莱莉娅等人认识。	瑪格達‧庫普卡	在王都是有名的「打架專家」。原隸屬於月影會，\n與瓦萊莉婭等人相識。
+TalkEvent_19_010ID	0	Izana	イザナ	わぁ……ぁ。話には聞いてたけど、\n薄暗くて不気味な所だね	Izana	Whoa... I know you already mentioned it, but this place really is eerily gloomy.	伊札娜	哇……虽然已经有所耳闻，\n但这么昏暗，真是个让人毛骨悚然的地方啊。	伊札娜	哇啊……雖然已經聽說了，\n但還真是個昏暗又陰森的地方呢。
+TalkEvent_19_010ID	1	Johanna	ヨハナ	ただの森じゃない。この程度で怖がるなんて\nイザナも大したことないわね	Johanna	Eh, it's just a bunch of trees. You shouldn't let something like that freak you out, Izana.	约翰娜	不就是普通的森林嘛。居然这样就怕得要死，\n伊札娜也没什么了不起的。	約翰娜	就是個普通森林啊，竟然這點程度就怕了，\n伊札娜也沒什麼了不起的嘛。
+TalkEvent_19_010ID	2	Izana	イザナ	何をー！　ふしゃー！	Izana	Why you—! *Hiss*!	伊札娜	你说什么！嘿呀——！	伊札娜	妳說什麼──！嘶──！
+TalkEvent_19_010ID	3	Resna	レスナ	ま、まあまあ、二人とも！	Resna	H-Hey! Knock it off, you two!	蕾斯娜	好、好了好了，你们两个别闹了！	蕾斯娜	好、好了好了，妳們兩個！
+TalkEvent_19_010ID	4		騎士Ａ	錬金術士の皆さん、\nこの奥に極夜の錬金党の拠点があります	Knight A	Excuse me, but we're approaching the Polar Night Alchemists' base.	骑士A	炼金术士的各位，\n极夜的炼金党的据点就在这里边。	騎士A	各位鍊金術士，\n極夜的鍊金黨的據點就在這裡面。
+TalkEvent_19_010ID	5		騎士Ａ	入り口付近の安全は確保しておりますが、\n何が起こるか分かりません、お気を付けて	Knight A	While we have secured the entrance, something could still happen. Please be on your guard.	骑士A	我们虽然确保了入口附近的安全，\n但不知道里边会发生什么，还请当心。	騎士A	雖然已經確保了入口附近的安全，\n但不曉得會發生什麼事，還請各位小心。
+TalkEvent_19_010ID	6	Izana	イザナ	ここまでのご案内、ありがとうございました	Izana	Thank you very much for escorting us here!	伊札娜	谢谢你们带我们过来。	伊札娜	謝謝你帶我們到這裡。
+TalkEvent_19_010ID	7	Resna	レスナ	イザナちゃん、ヨハナちゃん、ジェロンさん。\n行ってみましょう！	Resna	Come on, guys! Let's go take a look!	蕾斯娜	伊札娜、约翰娜、杰隆先生。\n我们走吧！	蕾斯娜	伊札娜、約翰娜、傑隆先生，\n我們去看看吧！
+TalkEvent_19_010ID	8	Resna	レスナ	ここが錬金党の拠点……	Resna	So, this is the base...	蕾斯娜	这里就是炼金党的据点……	蕾斯娜	這裡就是鍊金黨的據點……
+TalkEvent_19_010ID	9	Firis	フィリス	レスナちゃん！　イザナちゃん！	Firis	Resna! Izana!	菲利丝	蕾斯娜！伊札娜！	菲莉絲	蕾斯娜！伊札娜！
+TalkEvent_19_010ID	10	Resna	レスナ	フィリス先輩！	Resna	Firis!	蕾斯娜	菲利丝前辈！	蕾斯娜	菲莉絲前輩！
+TalkEvent_19_010ID	11	Firis	フィリス	久しぶり！\n二人とも、元気にしてた？	Firis	Long time no see! How've you both been? Good?	菲利丝	好久不见！\n你们还好吗？	菲莉絲	好久不見了！\n妳們兩位，過得還好嗎？
+TalkEvent_19_010ID	12	Resna	レスナ	はい！　ウェルテックス討伐戦では\n大変お世話になりました！	Resna	Yeah! Thank you again for all your hard work against Weltex!	蕾斯娜	嗯！威尔特克斯讨伐战的时候真的非常感谢！	蕾斯娜	很好！在威爾特庫斯的討伐戰時，\n真的是受妳關照了！
+TalkEvent_19_010ID	13	Izana	イザナ	また一緒に頑張ろうね！	Izana	We'll nail this one too. Together!	伊札娜	让我们再一起加油吧！	伊札娜	這次再一起加油吧！
+TalkEvent_19_010ID	14	Firis	フィリス	うん！　手ごわい相手みたいだけど、\nわたしたちならきっと大丈夫！	Firis	You bet! They're not the easiest opponents ever, but we make a pretty great team!	菲利丝	嗯！这次的对手似乎很棘手，\n但我们一定没问题的！	菲莉絲	嗯！對方似乎很棘手，\n但我們這組人馬一定沒問題的！
+TalkEvent_19_010ID	15	Firis	フィリス	今回は頼もしい人たちも一緒だしね	Firis	We've got a bunch of reliable additions this time, too.	菲利丝	况且这次还有靠得住的人在。	菲莉絲	畢竟這次可靠的人也一起來了。
+TalkEvent_19_010ID	16	Resna	レスナ	え？　それって……	Resna	Hm? What do you mean?	蕾斯娜	咦？你说的是……	蕾斯娜	咦？那是……
+TalkEvent_19_010ID	17	Sophie	ソフィー	レスナちゃーん！	Sophie	Heeey! Resna!	苏菲	蕾斯娜——！	蘇菲	蕾斯娜～！
+TalkEvent_19_010ID	18	Resna	レスナ	ソフィー先輩！　プラフタ先輩も！	Resna	Sophie! Oh, and Plachta, too!	蕾斯娜	苏菲前辈！普拉芙妲前辈也在！	蕾斯娜	蘇菲前輩！還有普拉芙妲前輩！
+TalkEvent_19_010ID	19	Plachta	プラフタ	こんにちは、レスナ。\n今回は私たちも同行させてもらいます	Plachta	Good day, Resna. We shall be joining you on your mission.	普拉芙妲	你好，蕾斯娜。\n这次我们也会一起参加。	普拉芙妲	蕾斯娜，妳好。\n這次我們也會一起同行。
+TalkEvent_19_010ID	20	Resna	レスナ	おおおお……！　それは心強いです！\nどうぞ、よろしくお願いします！	Resna	Oooh! That's such a relief! We're happy to have you with us!	蕾斯娜	哇……！那可真是太让人放心了！\n请多多关照！	蕾斯娜	喔喔喔喔……！這真是太令人放心了！\n還請妳們多多指教了！
+TalkEvent_19_010ID	21	Izana	イザナ	ユナさんから聞いたんだけど、フィリスたちが\n大森林の調査をしてたんだよね？	Izana	Juna gave us a quick summary, but you've been surveying the great forest, right?	伊札娜	我听尤娜说了，\n菲利丝你们在大森林调查过了是吧？	伊札娜	聽尤娜小姐說，菲莉絲妳們是在調查大森林吧？
+TalkEvent_19_010ID	22	Firis	フィリス	うん。入り口に仕掛けられていた罠は全部\n解除できたと思う	Firis	Yep. I'm decently sure that we've gotten rid of all the traps around the entrance.	菲利丝	嗯。布置在入口的陷阱应该都解除了。	菲莉絲	嗯，原先設置在入口的陷阱\n應該已經全部解除了。
+TalkEvent_19_010ID	23	Resna	レスナ	さすがです、フィリス先輩。\nでは、いよいよ拠点に潜入ですね！	Resna	You're amazing, Firis! Okay, then it's finally time for us to see what's inside!	蕾斯娜	菲利丝前辈真厉害。\n那我们就准备潜入据点吧！	蕾斯娜	真不愧是菲莉絲前輩。\n那我們終於要潛入據點了吧！
+TalkEvent_19_010ID	24	Geron	ジェロン	ここからは俺が先行して道を案内する。\n危険があれば知らせるから、後をついてこい	Geron	I'll be taking the lead from here on out. I'll warn you of any danger, so stay behind me.	杰隆	我会走在前边给你们带路，\n如果有危险就通知你们。你们跟上我。	傑隆	從這裡開始，由我在前面帶路。\n有危險時會讓妳們知道的，跟在我後面吧。
+TalkEvent_19_010ID	25	Resna	レスナ	はい、よろしくお願いします！	Resna	Got it. Thank you, Geron!	蕾斯娜	好的，拜托了！	蕾斯娜	好，那就拜託你了！
+TalkEvent_19_010ID	26	Plachta	プラフタ	人形の身体を持つ錬金術士。ソフィーの錬金術の師匠\nであり、家族のような存在でもある	Plachta	An alchemist with a doll's body. While she was originally Sophie's mentor, they have since become more of a family.	普拉芙妲	拥有人偶身体的炼金术士。对苏菲来说\n既是教导自己炼金术的师父，同时也像家人一样。	普拉芙妲	具有人偶身體的鍊金術士。既是蘇菲的鍊金術師父，\n也是家人般的存在。
+TalkEvent_19_011ID	0	Sophie	ソフィー	レスナちゃん。そういえば、聞いたよ。\nヴァレリアさんのこと……	Sophie	Hey, Resna? I heard about Valeria, and...	苏菲	蕾斯娜，说起来，我听说瓦莱莉娅的事了……	蘇菲	蕾斯娜。話說回來，我聽說了，\n關於瓦萊莉婭的事……
+TalkEvent_19_011ID	1	Resna	レスナ	ああ、はい……	Resna	Yeah. It's true.	蕾斯娜	啊，是吗……	蕾斯娜	啊，對……
+TalkEvent_19_011ID	2	Sophie	ソフィー	辛いよね……大事な友達と戦うことになるなんて	Sophie	I'm sorry... Having to fight a friend sounds really difficult.	苏菲	居然要和重要的朋友刀剑相向，一定很痛苦吧……	蘇菲	心裡很難受吧……竟然要跟重要的朋友戰鬥。
+TalkEvent_19_011ID	3	Sophie	ソフィー	あたしも、もしプラフタがそうなっちゃったらって\n思うと、居ても立っても居られないよ	Sophie	Just thinking about the idea of that happening with Plachta makes my skin crawl.	苏菲	我想到假如普拉芙妲也变成那样的话，\n就坐立不安。	蘇菲	我懂妳的心情。想到要是普拉芙妲也變成那樣，\n就感到坐立不安。
+TalkEvent_19_011ID	4	Resna	レスナ	お気遣い、ありがとうございます。\nでも……迷ってはいられませんから	Resna	I appreciate the concern, but... I've already made up my mind.	蕾斯娜	谢谢你的关心。\n不过……我不能犹豫不决。	蕾斯娜	謝謝妳的關心。\n不過……我不能再猶豫下去了。
+TalkEvent_19_011ID	5	Resna	レスナ	必ず、極夜の錬金党からヴァレリアを連れ戻します。\nそのためにここに来たんです	Resna	We absolutely have to take Valeria away from the Polar Night Alchemists. That's what we're here for.	蕾斯娜	我一定要从极夜的炼金党那里把瓦莱莉娅带回来。\n我就是为此而来的。	蕾斯娜	我們一定會從極夜的鍊金黨手中帶回瓦萊莉婭，\n我們就是為此而來的。
+TalkEvent_19_011ID	6	Sophie	ソフィー	……よし、その意気だよ！	Sophie	Mhm, that's the spirit!	苏菲	……好，要的就是这股干劲！	蘇菲	……很好，就是該這樣才對！
+TalkEvent_19_011ID	7	Firis	フィリス	レスナちゃん、前に会った時より\nぐっと頼もしくなった気がするなあ	Firis	I feel like you've gotten even more dependable since the last time we met, Resna.	菲利丝	感觉相比上次见面，\n蕾斯娜一下子变得特别可靠啊。	菲莉絲	蕾斯娜，我覺得跟之前遇到時相比，\n妳變得可靠許多呢。
+TalkEvent_19_011ID	8	Resna	レスナ	えっ！？　そ、そうでしょうか……	Resna	Huh?! I-I'm not too sure about that...	蕾斯娜	咦？！是、是吗……	蕾斯娜	咦！？是、是這樣嗎……
+TalkEvent_19_011ID	9	Sophie	ソフィー	うん、あたしもそう思う！	Sophie	Yeah, I was thinking the same thing!	苏菲	嗯，我也这么认为！	蘇菲	嗯，我也這麼覺得！
+TalkEvent_19_011ID	10	Firis	フィリス	頂獣と戦った時も十分頼もしかったけどね。\nさらに一回り成長した感じ！	Firis	I mean, you already showed how capable you are in that Apexi showdown. But now you're on a whole other level!	菲利丝	和顶兽战斗时已经非常可靠了，\n现在感觉又成长了许多！	菲莉絲	雖然妳在與頂獸戰鬥時就已經十分可靠了，\n但現在感覺又成長了不少！
+TalkEvent_19_011ID	11	Resna	レスナ	そ、そうですね。あの後も大陸の各地を回って……	Resna	I-I guess. I did spend a lot of time traveling the continent after that.	蕾斯娜	是、是吗。那之后我在大陆四处旅行……	蕾斯娜	是、是啊，在那之後我又遊遍了大陸各地……
+TalkEvent_19_011ID	12	Resna	レスナ	色んなものを見て、知って、感じて……\n心身共に成長できたと思います	Resna	I saw so much, and learned even more... I think I really did grow, inside and out.	蕾斯娜	见识、了解、感受了许多事物……\n身心都得到了成长。	蕾斯娜	看到、知道、感受到了各式各樣的東西……\n我覺得自己的身心都一起成長了。
+TalkEvent_19_011ID	13	Resna	レスナ	今度はランターナ大陸の外も\n見てみたいなって思っているんです	Resna	I've even been thinking about venturing beyond Lantarna's borders next time.	蕾斯娜	所以下次很想去看看兰塔纳大陆之外的地方。	蕾斯娜	下次我還想去看看蘭塔納大陸以外的地方。
+TalkEvent_19_011ID	14	Firis	フィリス	うん、その気持ちわたしも分かるよ。わたしも\n世界を知れば知るほどに、旅が好きになったから	Firis	Yeah, I get that feeling. Like, the more I find out about the world, the more I fall in love with traveling.	菲利丝	嗯，我理解你的心情。\n我也是越了解世界，就越是热爱旅行。	菲莉絲	嗯，我懂妳那種心情。\n我也是越了解世界，就變得越喜歡旅行。
+TalkEvent_19_011ID	15	Firis	フィリス	ねえ、レスナちゃん。レスナちゃんさえよければ\n今度、一緒にどこかへ旅しようよ	Firis	Say, if you don't mind, why don't we take a trip out somewhere, Resna?	菲利丝	对了，蕾斯娜，\n如果你愿意，下次我们一起去旅行吧。	菲莉絲	我說蕾斯娜，如果妳願意的話，\n下次我們找個地方一起去旅行吧。
+TalkEvent_19_011ID	16	Resna	レスナ	わあ、いいんですか！？\nぜひ、ご一緒させてください！	Resna	Wow, you really mean it?! I'd love to!	蕾斯娜	哇，可以吗？请一定叫上我！	蕾斯娜	哇啊，可以嗎！？\n請務必讓我同行！
+TalkEvent_19_011ID	17	Firis	フィリス	その時は、イザナちゃんや……\nヴァレリアさんも一緒にね	Firis	When we do, we'll bring Izana...and Valeria along, too.	菲利丝	到时候也叫上伊札娜……\n还有瓦莱莉娅。	菲莉絲	到那時候，伊札娜……\n還有瓦萊莉婭也一起吧。
+TalkEvent_19_011ID	18	Resna	レスナ	……はい！	Resna	Yeah!	蕾斯娜	……好！	蕾斯娜	……是！
+TalkEvent_19_012ID	0	Resna	レスナ	そういえば、プラフタ先輩はソフィー先輩の\nお師匠様なんですよね	Resna	That reminds me. Plachta, you were Sophie's mentor, right?	蕾斯娜	说起来，普拉芙妲前辈是苏菲前辈的师父吧？	蕾斯娜	說起來，\n普拉芙妲前輩是蘇菲前輩的師父對吧？
+TalkEvent_19_012ID	1	Plachta	プラフタ	ええ、一応は。と言っても、今のソフィーは\n錬金術士としては私よりも優秀かもしれませんが	Plachta	Yes, for a time. I believe that she has surpassed me as an alchemist, though.	普拉芙妲	嗯，算是吧。话虽如此，作为炼金术士，\n现在的苏菲可能比我要更优秀。	普拉芙妲	對，姑且算是。只不過，\n蘇菲現在可能已經是比我還要優秀的鍊金術士了。
+TalkEvent_19_012ID	2	Sophie	ソフィー	そ、そんなことないよ。\nほめたって何も出ないんだからね	Sophie	O-Oh, stop. Buttering me up like that isn't going to get you anything.	苏菲	才、才没有呢。\n你夸我也没什么好处哦。	蘇菲	沒、沒有那回事啦。\n就算妳稱讚我也得不到任何好處喔。
+TalkEvent_19_012ID	3	Plachta	プラフタ	ふふっ。お世辞ではありませんよ	Plachta	*Chuckle* I mean every word of it.	普拉芙妲	呵呵，这可不是客套话。	普拉芙妲	呵呵，這可不是場面話喔。
+TalkEvent_19_012ID	4	Plachta	プラフタ	今は前ほど教えることも無くなりましたので。\n師弟関係という感じではなくなりましたね	Plachta	I have had nothing to teach you lately. As such, I hardly feel like your mentor. And I certainly couldn't call you my pupil.	普拉芙妲	如今已经不像以前那样有东西可教了，\n我们也不像是师徒关系了。	普拉芙妲	現在也不像以前有那麼多東西能教妳，\n比較沒有師徒之間的感覺了。
+TalkEvent_19_012ID	5	Izana	イザナ	じゃあ、今はどんな関係なの？	Izana	Then what's your relationship like now?	伊札娜	那现在是什么关系啊？	伊札娜	那妳們現在是什麼關係呢？
+TalkEvent_19_012ID	6	Plachta	プラフタ	そうですね。友達……あるいは、家族でしょうか	Plachta	Hmm... Much more like friends. Perhaps even family.	普拉芙妲	这个嘛，朋友……或者是亲人吧。	普拉芙妲	這個嘛，朋友……或者是家人吧。
+TalkEvent_19_012ID	7	Resna	レスナ	師弟で、友達で、家族……素敵なご関係ですね！	Resna	From student and teacher, to friends and family... That's so wonderful!	蕾斯娜	既是师徒又是朋友，还是家人……真是美好的关系啊！	蕾斯娜	既是師徒、朋友，也是家人……這樣的關係真美好呢！
+TalkEvent_19_012ID	8	Sophie	ソフィー	あはは、なんか照れるなあ……	Sophie	Ahaha... Please, you're making me blush.	苏菲	哈哈哈，有点不好意思了……	蘇菲	啊哈哈，有點害羞耶……
+TalkEvent_19_012ID	9	Izana	イザナ	でも、二人って同い歳くらいに見えるよね。師弟って\nいうより、姉妹って言われたほうがしっくりくるかも	Izana	You look about the same age, though. If I had to guess, I'd have called you sisters.	伊札娜	不过你们两个看起来年龄差不多呢。\n与其说是师徒，还是姐妹更合适。	伊札娜	不過，妳們兩個看起來年紀差不多呢。與其說是師徒，\n倒不如說是姊妹好像更恰當一點。
+TalkEvent_19_012ID	10	Plachta	プラフタ	ああ、それはそのはずです。\nこの身体は歳を取りませんので	Plachta	Well, that's to be expected. This body of mine does not age.	普拉芙妲	嗯，有道理。\n毕竟这副身体不会变老。	普拉芙妲	哦，那是當然的。\n因為這個身體不會變老。
+TalkEvent_19_012ID	11	Izana	イザナ	えっ！？　どういうこと！？	Izana	Huh?! What do you mean?!	伊札娜	咦？！怎么回事啊？！	伊札娜	咦！？什麼意思！？
+TalkEvent_19_012ID	12	Plachta	プラフタ	この身体は精巧に作られた人形……作り物なのです。\nそしてこの中に、人としての魂が宿っています	Plachta	It's an elaborately constructed doll. My soul simply resides within it.	普拉芙妲	这副身体是精心制造的人偶……是人造产物。\n我身为人的灵魂寄宿其中。	普拉芙妲	這具身體是作工精巧的人偶……也就是人造品。\n而且這裡面寄宿著人的靈魂。
+TalkEvent_19_012ID	13	Resna	レスナ	そ、そんなことが！？　オートマタ……\nオディーリアさんと、同じようなことなんでしょうか	Resna	Whoa! An automaton... Does that mean you're the same as Odelia?	蕾斯娜	居、居然是这样？！自动人偶……\n你和奥迪莉雅小姐是一样的吗？	蕾斯娜	有、有這種事！？所以跟自動人偶……\n跟奧迪莉雅小姐差不多嗎？
+TalkEvent_19_012ID	14	Plachta	プラフタ	いえ、彼女とは少し違います。\n私は元は生身の人間でした	Plachta	No, not exactly. I used to be a living, breathing human being.	普拉芙妲	不，我和她不太一样。\n我原本是有血肉之躯的人类。	普拉芙妲	不，跟她有點不一樣。\n我本來是活生生的人類。
+TalkEvent_19_012ID	15	Plachta	プラフタ	ですが、過去にあった出来事がきっかけで、魂だけが\n肉体を離れ、１冊の本に宿ってしまったのです	Plachta	However, some things happened in my past that resulted in my soul separating from my body. Initially, I had to take refuge inside a book.	普拉芙妲	但因为过去发生的一些事情，我的灵魂离开了肉体，\n寄宿在了一本书中。	普拉芙妲	但是，因為過去發生的事情，\n我的靈魂脫離了肉體，寄宿在一本書中。
+TalkEvent_19_012ID	16	Resna	レスナ	本の中に閉じ込められちゃったんですか！？	Resna	You got stuck inside a what?!	蕾斯娜	是被关在了书里吗？！	蕾斯娜	妳以前被關在書裡面嗎！？
+TalkEvent_19_012ID	17	Izana	イザナ	動けなくて大変そう……	Izana	Not being able to move must've been awful...	伊札娜	没办法活动感觉会很痛苦啊……	伊札娜	動彈不得，感覺很辛苦……
+TalkEvent_19_012ID	18	Plachta	プラフタ	いえ、案外動けるものですよ。こう、本を開いて\n鳥のようにバサバサと	Plachta	Actually, I was remarkably mobile. I could spread my covers and flap like a bird.	普拉芙妲	不，其实可以动哦。\n可以像鸟儿扑扇翅那样打开书本。	普拉芙妲	不，其實比想像中還要自由。\n就像這樣攤開書本，像鳥的翅膀一樣拍啊拍的。
+TalkEvent_19_012ID	19	Izana	イザナ	ふ、不思議！	Izana	I-I've never seen that before!	伊札娜	好、好神奇！	伊札娜	真、真不可思議！
+TalkEvent_19_012ID	20	Sophie	ソフィー	ホント、最初に見た時はびっくりしたんだから。\nすぐ見慣れちゃったけど	Sophie	Yep, it was a pretty strange sight! I got used to it really quickly, though.	苏菲	是啊。第一次看到的时候我吓了一大跳呢。\n不过很快就适应了。	蘇菲	我一開始看見的時候真的嚇了一跳，\n但很快就習慣了。
+TalkEvent_19_012ID	21	Plachta	プラフタ	その後、ソフィーや周囲の方々の協力もあり、\nこの身体に魂を移すことができました	Plachta	Not long after that, I was able to move to my current body thanks to Sophie and her companions.	普拉芙妲	那之后，在苏菲还有周围的朋友们的帮助下，\n我得以将灵魂转移到这副身体上。	普拉芙妲	後來在蘇菲和周遭人們的幫助下，\n才成功將靈魂轉移到這具身體裡。
+TalkEvent_19_012ID	22	Resna	レスナ	そうだったんですね……。人の魂を移し替えちゃう\nなんて、さすがソフィー先輩……	Resna	So that's what happened... Honestly, I'm not surprised to hear that someone as incredible as Sophie can move souls.	蕾斯娜	原来是这么回事……居然转移了人的灵魂，\n不愧是苏菲前辈……	蕾斯娜	原來是這樣啊……竟然有辦法轉移人的靈魂，\n真不愧是蘇菲前輩……
+TalkEvent_19_012ID	23	Sophie	ソフィー	次やれって言われても、多分できないと思うけどね	Sophie	In all fairness, I don't think I could do it a second time.	苏菲	就算有人让我再来一次，我大概也做不到了。	蘇菲	如果同樣的事叫我再做一次，可能也辦不到了。
+TalkEvent_19_012ID	24	Sophie	ソフィー	あの時は、プラフタのために、って\nただただ必死だったから	Sophie	I was just so desperate for it to work, for Plachta's sake.	苏菲	那时为了普拉芙妲，我真的是拼尽了全力。	蘇菲	當時為了普拉芙妲，\n我真的是拚盡了全力。
+TalkEvent_19_012ID	25	Plachta	プラフタ	ソフィー……	Plachta	Oh Sophie...	普拉芙妲	苏菲……	普拉芙妲	蘇菲……
+TalkEvent_19_012ID	26	Resna	レスナ	ふふっ。やっぱりお二人の関係、素敵です！	Resna	Hehe! Your connection really is spectacular!	蕾斯娜	呵呵，果然你们的关系非常美妙呢！	蕾斯娜	呵呵，兩位的關係果然很美好呢！
+TalkEvent_19_013ID	0	Sophie	ソフィー	プラフタ！　そっちに行ったよ！	Sophie	Plachta! They went that way!	苏菲	普拉芙妲！去你那里了！	蘇菲	普拉芙妲！過去妳那裡了！
+TalkEvent_19_013ID	1	Plachta	プラフタ	ふっ――	Plachta	Hup!	普拉芙妲	呼——	普拉芙妲	呼──
+TalkEvent_19_013ID	2	Sophie	ソフィー	さすがプラフタ！	Sophie	Nice one, Plachta!	苏菲	不愧是普拉芙妲！	蘇菲	真不愧是普拉芙妲！
+TalkEvent_19_013ID	3	Plachta	プラフタ	これでひとまず片付きましたか	Plachta	I believe we've swept this area clean.	普拉芙妲	这下总算解决掉了。	普拉芙妲	這樣就暫且解決了吧。
+TalkEvent_19_013ID	4	Johanna	ヨハナ	その大きな腕、いったいどういう仕組みで動いてるの？	Johanna	How do those big, floaty arms of yours work?	约翰娜	那只大手臂究竟是靠什么原理动起来的？	約翰娜	那麼大的手臂究竟是怎麼運作的呢？
+TalkEvent_19_013ID	5	Plachta	プラフタ	ふむ……一口に説明するのは難しいですね。\n錬金術の力、としか	Plachta	Hmm... It is difficult to explain succinctly, but it is largely due to alchemy.	普拉芙妲	唔……这很难两句话解释清楚，\n只能说是炼金术的力量。	普拉芙妲	嗯……解釋起來很複雜。\n只能說是鍊金術的力量吧。
+TalkEvent_19_013ID	6	Izana	イザナ	使いこなすの大変そうだよね	Izana	They look like they'd be hard to wield.	伊札娜	想要运用自如感觉很不容易呢。	伊札娜	操作起來感覺很費工夫呢。
+TalkEvent_19_013ID	7	Plachta	プラフタ	いえ、私の意思に応じて動くようになっていますので\n案外、直感的で扱いやすいですよ	Plachta	No, they move according to my wishes. In fact, they are surprisingly intuitive, so it's an almost effortless process.	普拉芙妲	并不会哦。它可以根据我的想法运作，\n所以很直观，十分易于操作。	普拉芙妲	不，這是依照我的意志在行動的，\n所以比想像中直覺，很容易操作。
+TalkEvent_19_013ID	8	Izana	イザナ	ふへえ～、錬金術ってすごいんだね	Izana	Dang, that's some alchemy!	伊札娜	哇塞，炼金术也太厉害了。	伊札娜	哦～鍊金術真厲害呢。
+TalkEvent_19_013ID	9	Izana	イザナ	アタシにもこんな武器があったら……\nハンマーをもう２本持てちゃうのに！	Izana	If I had something like that, then I could hold another set of hammers!	伊札娜	要是我能拥有这样的武器……\n就能再多拿两把锤子了！	伊札娜	要是我也有這種武器……\n就可以再多拿兩把錘子了！
+TalkEvent_19_013ID	10	Johanna	ヨハナ	そんなに持ってどうすんのよ	Johanna	What would you even do with that many?	约翰娜	拿那么多要干什么啊。	約翰娜	拿那麼多錘子要幹嘛啊？
+TalkEvent_19_013ID	11	Izana	イザナ	２本で最強のハンマーが、倍になったら\nもっと強いに決まってるよ！	Izana	Be unstoppably strong, obviously! Not just two, but FOUR of the world's strongest hammers? I'd always win!	伊札娜	那当然是因为锤子有两把已经是最强了，\n翻倍的话会让我变得更强啦！	伊札娜	威力最強的兩把錘子變成雙倍的話\n一定會更強嘛！
+TalkEvent_19_013ID	12	Johanna	ヨハナ	あんな大きな武器を抱えてたら\nかえって動きづらくて戦えないでしょ	Johanna	Wouldn't having a bunch of weapons that big make it tough to move around?	约翰娜	拿着那么大的武器反而会不方便活动，\n没办法战斗吧？	約翰娜	帶這麼大的武器行動起來反而很困難，\n根本沒辦法戰鬥吧。
+TalkEvent_19_013ID	13	Plachta	プラフタ	それぞれに適性というものがありますからね	Plachta	There is also the question of how suitable it would be for your talents.	普拉芙妲	毕竟每个人适合什么都不一样嘛。	普拉芙妲	畢竟每個人有各自不同的資質呀。
+TalkEvent_19_013ID	14	Izana	イザナ	そっかあ……そうだよね	Izana	Yeah, I guess so...	伊札娜	对哦……你说得没错。	伊札娜	這樣啊……說的也是。
+TalkEvent_19_013ID	15	Johanna	ヨハナ	あんたには今の戦い方が合ってると思うわよ。\nそのままでも十分強いんだから	Johanna	I think that your current fighting style suits you pretty well. It's plenty strong as-is.	约翰娜	你现在的战斗方式就很适合你。\n现在已经足够厉害了。	約翰娜	我覺得妳現在的戰鬥方式很適合妳。\n就算保持現狀也已經夠強了。
+TalkEvent_19_013ID	16	Izana	イザナ	わっ！　ヨハナがほめてくれるなんて珍しいね！	Izana	No way! Johanna, did you just compliment me?!	伊札娜	哇！太阳从西边出来了，约翰娜居然夸我了！	伊札娜	哇！約翰娜竟然稱讚我了，好難得喔！
+TalkEvent_19_013ID	17	Johanna	ヨハナ	別に、そんなつもりじゃ……！	Johanna	I didn't mean anything by it!	约翰娜	我才没有……！	約翰娜	我又沒有稱讚妳的意思……！
+TalkEvent_19_013ID	18	Johanna	ヨハナ	ふんっ、私みたいな天才にはまだ及ばないんだから	Johanna	Hmph! It's not like you could even come close to my skill level anyway.	约翰娜	哼，你还比不上像我这样的天才呢。	約翰娜	哼，妳還遠遠不及我這樣的天才呢。
+TalkEvent_19_014ID	0	Resna	レスナ	ジェロンさん！\n何かあったんですか？	Resna	Geron! Did something happen?	蕾斯娜	杰隆先生！\n出什么事了吗？	蕾斯娜	傑隆先生！發生什麼事了？
+TalkEvent_19_014ID	1	Geron	ジェロン	ああ。説明するより、自分の目で\n見たほうが早いだろう。あれを……	Geron	Yes, but it would be quicker to show you. Look, over there.	杰隆	嗯。与其给你解释，\n还是亲眼看来得快。你看那个……	傑隆	哦，與其等我說明，\n不如親眼一見應該更快吧。妳們看那個……
+TalkEvent_19_014ID	2	Resna	レスナ	え？	Resna	Huh?	蕾斯娜	什么？	蕾斯娜	咦？
+TalkEvent_19_014ID	3	Johanna	ヨハナ	げっ、何よあの魔物……	Johanna	Yeesh. What's with that thing?	约翰娜	天呐，那个魔物是怎么回事……	約翰娜	呃，那個魔物要做什麼……
+TalkEvent_19_014ID	4	Sophie	ソフィー	こっちに攻撃してくる様子はないね。\nただ、道を完全に塞いじゃってるけど……	Sophie	It doesn't seem interested in attacking us, but it's completely in the way.	苏菲	它似乎并不打算攻击我们。\n不过，路被完全堵死了……	蘇菲	看上去沒有要攻擊過來的意思。\n只是道路完全被堵住了……
+TalkEvent_19_014ID	5	Geron	ジェロン	あれは防御に特化した能力を持っている。\n並大抵の方法では倒せないだろうな	Geron	That monster's designed to excel in defensive abilities. I doubt it will go down easily.	杰隆	那家伙有着与众不同的防御能力，\n一般手段应该无法打败它。	傑隆	那隻魔物具有善於防禦的能力。\n用尋常方法是無法打倒牠的吧。
+TalkEvent_19_014ID	6	Resna	レスナ	ジェロンさん、\nあの魔物を見たことがあるんですか？	Resna	Geron, have you seen it before?	蕾斯娜	杰隆先生，你以前见过它吗？	蕾斯娜	傑隆先生，你有見過那種魔物嗎？
+TalkEvent_19_014ID	7	Geron	ジェロン	いや、クリセルダから話に聞いていただけだ	Geron	No, but I've heard Criselda talk about it.	杰隆	没见过，只听克莉赛尔达提起过。	傑隆	不，我只從克莉賽爾達那邊聽說過而已。
+TalkEvent_19_014ID	8	Geron	ジェロン	いずれ極上の餌でしつけた魔物を\n錬金党の門番として運用すると	Geron	It was raised specifically to act as a guardian for the Polar Night Alchemists. They were using top-quality feed to train it.	杰隆	她说要用极品饲料驯服魔物，\n早晚有一天让它来当炼金党的守卫。	傑隆	她說以頂級飼料馴養的那些魔物，\n有朝一日要用來當作鍊金黨的守衛。
+TalkEvent_19_014ID	9	Geron	ジェロン	すでに、配備されているとはな……	Geron	I didn't expect them to deploy it so soon...	杰隆	没想到居然已经准备好了……	傑隆	只是沒想到已經部署下去了……
+TalkEvent_19_014ID	10	Plachta	プラフタ	つまり、あなたにとっても\nあの魔物は想定外だったということですか	Plachta	In short, this monster comes as a surprise, even for you.	普拉芙妲	也就是说，你也没有料想到那个魔物的存在吗？	普拉芙妲	也就是說，\n那隻魔物也在你的意料之外嗎？
+TalkEvent_19_014ID	11	Geron	ジェロン	ああ	Geron	Correct.	杰隆	没错。	傑隆	嗯。
+TalkEvent_19_014ID	12	Johanna	ヨハナ	ふん！　門番だろうがなんだろうが、\nやっつければいいだけじゃない	Johanna	Hmph! I don't care if it's a glorified guard dog or whatever. We just need to take it down, right?	约翰娜	哼！管它是守卫还是什么，\n打趴下不就行了。	約翰娜	哼！管牠是守衛還是什麼，\n只要打倒不就行了嗎？
+TalkEvent_19_014ID	13	Resna	レスナ	あ、ちょっとヨハナちゃん！	Resna	Hey! Johanna, wait!	蕾斯娜	啊，等一下，约翰娜！	蕾斯娜	啊，等一下，約翰娜！
+TalkEvent_19_014ID	14	Johanna	ヨハナ	はああああああっ！！	Johanna	Haaah!	约翰娜	喝啊啊啊啊！！	約翰娜	喝啊啊啊啊啊啊！！
+TalkEvent_19_014ID	15	Johanna	ヨハナ	はあ……はあ……\n何よアイツ、ぜんぜん効いてないじゃない……	Johanna	*Huff* *Huff*... What's this thing made of? I didn't even leave a scratch...	约翰娜	呼……呼……\n那家伙是什么怪物啊，一点效果都没有……	約翰娜	呼……呼……\n那傢伙是怎麼回事？攻擊完全起不了作用啊……
+TalkEvent_19_014ID	16	Izana	イザナ	反撃してくる様子もないけど、\nかと言ってこのままじゃ通れないね……	Izana	It's great that it's not fighting back, but we're not getting any farther in, either.	伊札娜	不过也没有要反击的样子。\n可这样下去我们就过不去了……	伊札娜	雖然牠沒有要反擊的意思，\n但這樣下去就沒辦法通行了……
+TalkEvent_19_014ID	17	Firis	フィリス	うーん、もっと美味しい餌を食べさせたら、\nわたしたちの言うこと聞いてくれないかなぁ……	Firis	Hmm... If we gave it something even tastier, would it start listening to us instead?	菲利丝	唔……如果给它提供更美味的食物，\n它会不会听我们的话呢……	菲莉絲	唔～如果餵牠吃更美味的飼料，\n是不是就會聽我們的話了……
+TalkEvent_19_014ID	18	Resna	レスナ	……！　フィリス先輩\nそれって名案かもしれません！	Resna	Oh! Firis, that's a brilliant idea!	蕾斯娜	啊……！菲利丝前辈，这可能是个好主意！	蕾斯娜	……！菲莉絲前輩，這說不定是個好主意喔！
+TalkEvent_19_014ID	19	Firis	フィリス	えっ、そうかな？\n思い付きで言っただけなんだけど	Firis	Huh? You really think so? I just kind of said whatever popped into my head, though.	菲利丝	咦，是吗？\n我就是突然想到随口一说而已。	菲莉絲	咦，是嗎？我只是隨口說說而已。
+TalkEvent_19_014ID	20	Resna	レスナ	いいえ、素晴らしい着眼点です！	Resna	No, I'm pretty sure that could work!	蕾斯娜	不，这是个很棒的着眼点！	蕾斯娜	不，這觀點非常棒！
+TalkEvent_19_014ID	21	Firis	フィリス	えへへ、\nお役に立てそうならよかったよ	Firis	Ehehe! Happy to be of service!	菲利丝	嘿嘿，如果能派上用场那就好。	菲莉絲	嘿嘿，派得上用場的話，那就太好了。
+TalkEvent_19_014ID	22	Resna	レスナ	一度アトリエに戻って、相談しましょう	Resna	Let's head back to the atelier for now and figure out a plan.	蕾斯娜	我们先回一趟炼金工房，商量商量吧。	蕾斯娜	我們先回鍊金工房討論一下吧。
+TalkEvent_19_014ID	23	???	？？？	……たどり着いた	???	We finally made it.	？？？	……总算到了。	？？？	……終於到了。
+TalkEvent_19_014ID	24	???	？？？	ララ様、今しばらくのご辛抱です	???	Please be patient for just a little longer, Queen Lara.	？？？	拉拉大人，请再忍耐一阵子。	？？？	拉拉大人，請您再撐一下就好。
+TalkEvent_19_015ID	0	Resna	レスナ	ジェロンさん、あの魔物が\nどんな餌を食べているかは分かりますか？	Resna	Geron, do you know what that monster has been eating?	蕾斯娜	杰隆先生，你知道那个魔物的饲料是什么吗？	蕾斯娜	傑隆先生，你知道那隻魔物都吃什麼飼料嗎？
+TalkEvent_19_015ID	1	Geron	ジェロン	そこまでは分からんが、\nクリセルダは錬金術で餌を作っていたはずだ	Geron	I couldn't say for sure, but I can at least tell you that Criselda was the one synthesizing it.	杰隆	我知道得没那么详细，\n不过克莉赛尔达应该是用炼金术来制作饲料的。	傑隆	這部分我就不曉得了，\n但克莉賽爾達應該是用鍊金術來製作飼料。
+TalkEvent_19_015ID	2	Geron	ジェロン	途中経過はどうであれ、\nこちらも仕上げは錬金術で行ったほうがいいだろう	Geron	However we approach this, we should use alchemy for the finishing touches.	杰隆	不论中间过程如何，\n我们最好也用炼金术来完成。	傑隆	無論過程如何，\n我們最好也要用鍊金術來完成最後一步。
+TalkEvent_19_015ID	3	Resna	レスナ	なるほど。\nそうなると問題は餌の素材ですね	Resna	Okay, then we just have to figure out which materials to use.	蕾斯娜	原来如此。\n这样一来，问题就是制作饲料的素材了。	蕾斯娜	原來如此。\n這樣的話，關鍵就在於飼料的素材了。
+TalkEvent_19_015ID	4	Izana	イザナ	魔物って何を食べるんだろう。\nんー、お肉とか、お魚とか？	Izana	What do monsters eat, anyway? Hm... Meat? Fish?	伊札娜	魔物都吃些什么呢？\n唔……肉类？鱼类？	伊札娜	魔物都吃什麼呢？\n唔～肉或魚之類的？
+TalkEvent_19_015ID	5	Sophie	ソフィー	草食って可能性もあるんじゃない？\nだとすると、果物とか野菜とか……	Sophie	Aren't some of them herbivores? So that could mean fruits and vegetables, too.	苏菲	也有可能是食草的吧？\n那样的话就应该是水果和蔬菜之类的……	蘇菲	也有可能是草食性的吧？\n這樣一來，就是水果或蔬菜了……
+TalkEvent_19_015ID	6	Resna	レスナ	ハイディさん、ララさん、おかえりなさい！\nそちらはどうでしたか？	Resna	Welcome back, Heidi and Lara! How are things going on your end?	蕾斯娜	海蒂小姐，拉拉小姐，你们回来啦。\n那边情况如何？	蕾斯娜	海蒂小姐、拉拉小姐，歡迎回來！\n妳們那邊情況怎麼樣呢？
+TalkEvent_19_015ID	7	Heidi	ハイディ	結構奥まで潜入できたんだけど、\n見たことのない魔物が通路を塞いでてさ	Heidi	We made it pretty far in, but then we got blocked by this monster that we've never seen before.	海蒂	我们本已经潜入到比较深的地方了，\n但有只没见过的魔物堵住了道路。	海蒂	我們成功潛入到還滿深的地方，\n但有隻沒見過的魔物堵住通道了。
+TalkEvent_19_015ID	8	Heidi	ハイディ	ぜんぜん攻撃が効かなくて\n一度、撤退してきたところだよ	Heidi	Nothing we did put a dent in it, so we decided to fall back for now.	海蒂	攻击也完全不奏效，只好先撤退了。	海蒂	攻擊對牠完全沒用，所以就先撤退回來了。
+TalkEvent_19_015ID	9	Resna	レスナ	えっ、そちらにも！？	Resna	Wait, you too?!	蕾斯娜	咦，你们那边也是？！	蕾斯娜	咦，妳們那裡也一樣嗎！？
+TalkEvent_19_015ID	10	Heidi	ハイディ	ん？　どういうこと？	Heidi	Huh? What do you mean?	海蒂	嗯？怎么回事？	海蒂	嗯？什麼意思？
+TalkEvent_19_015ID	11	Heidi	ハイディ	なるほどねー。あれはクリセルダが\nしつけてる魔物だったのか	Heidi	Ah, okay. So that monster's one that Criselda's been raising.	海蒂	是这么回事啊。\n那原来是克莉赛尔达驯服的魔物。	海蒂	原來如此～那是克莉賽爾達馴養的魔物啊。
+TalkEvent_19_015ID	12	Lara	ララ	何かしら対策を打たねばなりませんわね	Lara	I wonder how we ought to approach this.	拉拉	我们得想出一个解决方法才行。	拉拉	必須想個應對措施才行了。
+TalkEvent_19_015ID	13	Resna	レスナ	私たちもそれをちょうど話していたんです	Resna	We were just talking about that, actually.	蕾斯娜	我们刚才正好聊到这个。	蕾斯娜	我們也正好在討論這個問題。
+TalkEvent_19_015ID	14	Resna	レスナ	そこで、クリセルダさんが与えていた餌よりも\n美味しい餌を作ればいいんじゃないかと……	Resna	Basically, our best idea is to make food that's tastier than whatever Criselda's been feeding it.	蕾斯娜	如果能做出比克莉赛尔达投喂的饲料更加美味的饲料，\n是不是就可以解决问题……	蕾斯娜	然後就想到，只要做出比克莉賽爾達小姐餵的飼料\n還要更美味的食物就行了吧……
+TalkEvent_19_015ID	15	Resna	レスナ	ただ、どんな餌を作ればいいのかまでは\n分からなくて……	Resna	We're just not exactly sure what that should be.	蕾斯娜	不过，还不知道该做什么样的……	蕾斯娜	只不過還沒想到要做哪種飼料就是了……
+TalkEvent_19_015ID	16	Lara	ララ	ふむ……あいにく、わたくしは料理については\n専門外ですわね	Lara	Hm... Though I possess many talents, cooking is unfortunately not one of them.	拉拉	嗯……很不巧，我对料理一窍不通。	拉拉	嗯……很不湊巧的，我對料理可是一竅不通呢。
+TalkEvent_19_015ID	17	Geron	ジェロン	ここには多くの錬金術士が訪れる。\n他の奴らにも当たってみよう	Geron	There are a lot of alchemists visiting the atelier right now. Why don't we take this to the rest of the group?	杰隆	这里会来很多炼金术士，\n我们去问问别人吧。	傑隆	這裡有不少鍊金術士會來，\n我們去向其他人打聽看看吧。
+TalkEvent_19_015ID	18	Resna	レスナ	はい、そうですね	Resna	That's a good idea.	蕾斯娜	嗯，说得有道理。	蕾斯娜	好，說的也是。
+TalkEvent_19_015ID	19	Heidi	ハイディ	それにしても、極上の餌かぁ……	Heidi	Extra-special monster food, huh...	海蒂	不过，极品饲料啊……	海蒂	話說回來，頂級飼料啊……
+TalkEvent_19_015ID	20	Heidi	ハイディ	まさか相棒も食べ物で釣られてるんじゃあるまいね？	Heidi	I wonder if we could use that to lure Valeria out too.	海蒂	该不会搭档也是被食物吸引了吧？	海蒂	該不會搭檔也是受到了食物的誘惑吧？
+TalkEvent_19_015ID	21	Resna	レスナ	ええっ！？	Resna	Huh?!	蕾斯娜	什么？！	蕾斯娜	咦咦！？
+TalkEvent_19_015ID	22	Heidi	ハイディ	あはは、冗談だって！	Heidi	Ahaha! I'm kidding, I'm kidding.	海蒂	啊哈哈，开玩笑啦！	海蒂	啊哈哈，我開玩笑的啦！
+TalkEvent_19_015ID	23	Izana	イザナ	それじゃあ、餌のレシピは\nレスナちゃんたちに任せるとして	Izana	Anyway, we'll leave the fiddly recipe stuff to you guys.	伊札娜	那饲料的配方就交给蕾斯娜你们。	伊札娜	那麼，飼料的配方就交給蕾斯娜妳們了。
+TalkEvent_19_015ID	24	Izana	イザナ	アタシたちは、\n使えそうな素材を集めてくるよ	Izana	And while you're working on that, we'll go get you a bunch of materials.	伊札娜	我们去收集能用得上的素材吧。	伊札娜	我們去蒐集一些用得上的素材回來。
+TalkEvent_19_016ID	0	Resna	レスナ	これとこれを入れてっと……\nこの組み合わせならどうだろう？	Resna	Let's see. Some of this, and a little of that, and... Maybe this combination would work?	蕾斯娜	加入这个和这个……\n这个组合怎么样？	蕾斯娜	加入這個和這個……這組合怎麼樣？
+TalkEvent_19_016ID	1	Ayesha	アーシャ	あれ？　なんだか変わった匂い。\n何を調合してるの？	Ayesha	Hm? Something smells odd. What are you synthesizing?	爱夏	嗯？怎么有种怪味啊。\n你在调合什么？	愛夏	奇怪？好像有股怪味。\n妳在調合什麼呢？
+TalkEvent_19_016ID	2	Resna	レスナ	あ、先輩方！\n実は魔物の餌を調合していて……	Resna	Oh! I've been working on some monster food because...	蕾斯娜	啊，是前辈们呀！\n其实我正在调和给魔物吃的饲料……	蕾斯娜	啊，幾位前輩！\n其實我正在調合魔物的飼料……
+TalkEvent_19_016ID	3	Resna	レスナ	……というわけでして。\nぜひ、先輩方のお知恵をお借りしたくっ！	Resna	That's the whole story. If you have any ideas, I'd love to hear them!	蕾斯娜	……就是这么回事。\n还请前辈们分享一下相关知识！	蕾斯娜	……事情就是這樣。\n請前輩們務必幫忙出出主意！
+TalkEvent_19_016ID	4	Rorona	ロロナ	うーん、パイはどうでしょう？\n動物も甘いものは好きですよね？	Rorona	Hmm... What about a pie? Monsters love sweets too!	萝乐娜	这个嘛，派怎么样？\n动物应该也喜欢甜食吧？	蘿樂娜	唔～派怎麼樣呢？\n動物也喜歡甜甜的東西吧？
+TalkEvent_19_016ID	5	Judie	ユーディー	匂いも大事じゃない？\nとにもかくにも興味を持たせないとでしょ	Judie	Smell's definitely a big part of it. You've got to draw them in somehow.	优蒂	气味不也很重要吗？\n总之得先引起它的兴趣才行。	優蒂	氣味也很重要吧？\n總之得先引起牠們的興趣才行啊。
+TalkEvent_19_016ID	6	Ayesha	アーシャ	それだけ大きな魔物なら\n食べごたえとかも必要じゃないかな	Ayesha	If it's a large monster, then you'll have to serve up something substantial.	爱夏	毕竟是巨大的魔物，还得顶饱吧。	愛夏	如果是那麼龐大的魔物，\n口感也是不可或缺的吧。
+TalkEvent_19_016ID	7	Resna	レスナ	ううっ、そうそうたる顔ぶれ！\n皆さんご協力ありがとうございますっ！	Resna	Ooh, those are all excellent points! Thank you so much for your help!	蕾斯娜	呜呜，大家都太优秀了！\n感谢大家的协助！	蕾斯娜	唔唔，這堅強的陣容！\n非常感謝大家的協助！
+TalkEvent_19_016ID	8	Judie	ユーディー	あれ？　レスナが調合してた錬金釜から\n甘い匂いがしない？	Judie	Huh? Resna, what's that sweet smell coming from your cauldron?	优蒂	咦？蕾斯娜进行调合的炼金釜里\n是不是传来一股甜味啊？	優蒂	奇怪？蕾斯娜調合的鍊金釜\n是不是傳出了一股甜味？
+TalkEvent_19_016ID	9	Sophie	ソフィー	……なんだろう、これ。\nレスナちゃん、変なもの入れてないよね？	Sophie	Seriously, what is that? You didn't put anything weird in there, did you?	苏菲	……这是什么啊？\n蕾斯娜，你没有放奇怪的东西进去吧？	蘇菲	……這是怎麼回事？\n蕾斯娜，妳沒有放奇怪的東西進去吧？
+TalkEvent_19_016ID	10	Resna	レスナ	そんなまさか！　もしかして食材の組み合わせとか、\nそういうのが、いけなかったんですかね？	Resna	Of course not! Maybe the combination of ingredients wasn't good?	蕾斯娜	当然没有！\n难道是食材的组合出了问题吗？	蕾斯娜	怎麼會！難道是食材組合出了問題嗎？
+TalkEvent_19_016ID	11	Resna	レスナ	あ、あれ……なんだか、ふわふわするような……\n頭がぼーっとします	Resna	H-Huh...? My head feels k-kind of fuzzy...and I feel funny.	蕾斯娜	奇、奇怪……怎么感觉恍恍惚惚的……\n头有点晕。	蕾斯娜	奇、奇怪……感覺整個人輕飄飄……\n腦袋還昏沉沉的。
+TalkEvent_19_016ID	12	Rorona	ロロナ	ええっ！？　レスナちゃん大丈夫？\n錬金釜から離れたほうがいいかも！	Rorona	What?! Resna, are you okay?! Maybe you should step away from the cauldron!	萝乐娜	怎么了？！蕾斯娜你没事吧？\n赶紧从炼金釜旁边离开吧！	蘿樂娜	咦咦！？蕾斯娜妳沒事吧？\n妳最好離鍊金釜遠一點！
+TalkEvent_19_016ID	13	Resna	レスナ	ロロナ先輩っ……こんな若輩者にも\n優しくしてくださり、ありがとうございます！	Resna	Aw, Rorona... You're always looking out for your juniors. Thanks for being so kind to me!	蕾斯娜	萝乐娜前辈……你对我这样的后辈也这么温柔，\n真的非常感谢！	蕾斯娜	蘿樂娜前輩……連對我這樣的後生小輩都很溫柔，\n我對妳充滿了感謝！
+TalkEvent_19_016ID	14	Rorona	ロロナ	はわわわ！？	Rorona	Wh-Whaaat?!	萝乐娜	哇啊啊啊？！	蘿樂娜	呀哇哇哇！？
+TalkEvent_19_016ID	15	Resna	レスナ	アーシャ先輩、ソフィー先輩！\nお二人にも、本当にお世話になってます！	Resna	Ayesha! Sophie! I owe you both a lot, too!	蕾斯娜	爱夏前辈、苏菲前辈！\n你们给了我很多关照！	蕾斯娜	愛夏前輩、蘇菲前輩！\n真的承蒙了兩位許多照顧！
+TalkEvent_19_016ID	16	Ayesha	アーシャ	え、ええっと……	Ayesha	U-Um, that's, er...	爱夏	呃，我……	愛夏	呃，那個……
+TalkEvent_19_016ID	17	Sophie	ソフィー	急にどうしたの！？	Sophie	What's gotten into you, Resna?!	苏菲	你突然这是怎么了？	蘇菲	妳怎麼突然說這些！？
+TalkEvent_19_016ID	18	Resna	レスナ	それから、ライザ先輩！　ルクルク州の依頼を\n無事に終えられたのも、先輩のおかげですっ！	Resna	And you, Ryza! I wouldn't have finished that request in Lukluk without your invaluable help!	蕾斯娜	还有，莱莎前辈！\n路克尔克州的委托能顺利完成，也是多亏了前辈！	蕾斯娜	然後是萊莎前輩！盧庫魯克州的委託能夠順利完成，\n也要多虧前輩的幫忙！
+TalkEvent_19_016ID	19	Ryza	ライザ	い、いやいや！　それはみんなが頑張ったからで……	Ryza	W-Well, shucks! That was a team effort, so, you know...	莱莎	没、没有啦！那是大家努力的结果……	萊莎	不、不不不！那是大家一起努力……
+TalkEvent_19_016ID	20	Resna	レスナ	マルローネ先輩、ユーディット先輩！	Resna	Marlone! Judith!	蕾斯娜	玛洛娜前辈、优蒂托前辈！	蕾斯娜	瑪洛娜前輩、優蒂前輩！
+TalkEvent_19_016ID	21	Marie	マリー	ええっ！？	Marie	Y-Yes?	玛莉	什么？！	瑪莉	咦咦！？
+TalkEvent_19_016ID	22	Resna	レスナ	お二人と初めて出会った時のこと、\n昨日のように思い出せます……	Resna	I remember our first meeting like it was yesterday...	蕾斯娜	与你们相遇时的场景，仿佛就在昨天……	蕾斯娜	初次見到兩位的情景仍歷歷在目，\n彷彿是昨天才剛發生一樣……
+TalkEvent_19_016ID	23	Resna	レスナ	私、一生忘れません！	Resna	That memory will always stick with me!	蕾斯娜	我一生都不会忘记的！	蕾斯娜	我一輩子都不會忘記的！
+TalkEvent_19_016ID	24	Judie	ユーディー	うんうん……って、そうじゃなくて！\n本当に大丈夫！？	Judie	I know, right? That was pretty... No, wait! Are you sure you're feeling okay?!	优蒂	嗯嗯……不对！\n你真的没事吗？！	優蒂	嗯嗯……呃，不對啦！\n妳真的沒事嗎！？
+TalkEvent_19_016ID	25	Resna	レスナ	どうか今後とも、レスナ・シュテルネンリヒトを\nよろしくお願いいたしますーっ！！	Resna	I, Resna Sternenlicht, hope that you'll stick with me from here on out, too!	蕾斯娜	今后也请多多关照我蕾斯娜·修特涅利希特——！！	蕾斯娜	我蕾斯娜‧修特涅利希特\n今後也拜託各位前輩多加指點了！！
+TalkEvent_19_016ID	26	Ayesha	アーシャ	……どうかな、レスナさん。\n少しは落ち着いた？	Ayesha	How are you feeling, Resna? A little calmer now?	爱夏	……怎么样，蕾斯娜小姐，\n稍微冷静一点了吗？	愛夏	……蕾斯娜，妳覺得如何？\n有稍微鎮定一點了嗎？
+TalkEvent_19_016ID	27	Resna	レスナ	はい……先輩方を妙な言動で惑わせてしまい\n申し訳ありませんでした	Resna	Yes... I'm so sorry for confusing you all with those sudden outbursts.	蕾斯娜	嗯……我莫名奇妙的行为让前辈们摸不着头脑，\n十分抱歉。	蕾斯娜	是的……非常抱歉我的奇怪言行\n給各位前輩添麻煩了。
+TalkEvent_19_016ID	28	Ryza	ライザ	いいよ、もう！　気にすることないって！\nあの変な匂いのせいだってみんな分かってるから	Ryza	Nah, it's fine! You don't need to worry about it! Besides, we already know that weird smell was to blame.	莱莎	哎呀没事啦！都说了不要在意！\n大家都知道是因为那股奇怪气味你才会那样的。	萊莎	真是的，沒關係啦！妳別放在心上！\n大家都知道是那個怪味搞的鬼。
+TalkEvent_19_016ID	29	Rorona	ロロナ	色んな素材を入れすぎて、\n効能が大変なことになっちゃったみたいだね	Rorona	I guess you crammed too many materials into the mix, so it came out kind of weird.	萝乐娜	看来各种素材放得太多了，\n效果也变得乱七八糟了。	蘿樂娜	看來是加入太多不同的素材，\n讓功效變得亂七八糟了呢。
+TalkEvent_19_016ID	30	Sophie	ソフィー	あんなにご機嫌なレスナちゃん、初めて見たかも。\nねえ、これってレシピの手掛かりになるんじゃない？	Sophie	That's the first time I've ever seen you that chipper, Resna. What do you think would happen if you tried using that recipe as a base?	苏菲	我好像是第一次看到那么欢快的蕾斯娜。\n对了，这不是刚好能当做配方的线索吗？	蘇菲	這可能是我第一次看到那麼開心的蕾斯娜呢。\n話說，這個應該能拿來構思配方吧？
+TalkEvent_19_016ID	31	Judie	ユーディー	うん。さっきのレシピ、いい塩梅に調整できれば\n魔物にも効くかもしれないね	Judie	Hey, yeah. If you tweaked the seasonings, it should also have an effect on monsters.	优蒂	嗯。只要在刚才配方的基础上做合适的调整，\n也许就会对魔物有效。	優蒂	嗯，只要剛才的配方調整得當，\n說不定對魔物也會有效喔。
+TalkEvent_19_016ID	32	Sophie	ソフィー	レスナちゃん、あたしたちも手伝うから\nもう一度みんなで頑張ろうよ！	Sophie	Let's try this again! We'll lend you a hand this time.	苏菲	蕾斯娜，我们也会帮忙的，\n大家再次一起努力吧！	蘇菲	蕾斯娜，我們也會幫忙的，\n大家一起再加把勁吧！
+TalkEvent_19_016ID	33	Resna	レスナ	先輩方……はいっ、よろしくお願いします！	Resna	Thank you, everyone! Let's get to it!	蕾斯娜	前辈们……我知道了，那就请多多关照了！	蕾斯娜	各位前輩……好的，請多多指教！
+TalkEvent_19_017ID	0	Resna	レスナ	仕上げにこれを入れれば……\n完成です！	Resna	I'll just add this to finish it off, and...there! It's done!	蕾斯娜	最后再加入这个……\n完成了！	蕾斯娜	最後再加入這個……\n大功告成了！
+TalkEvent_19_017ID	1	Flocke	フロッケ	ふわあ、とってもいい匂いですね！	Flocke	Oooh, that smells wonderful!	芙洛可	哇啊，好香啊！	芙洛可	呼啊～聞起來非常香呢！
+TalkEvent_19_017ID	2	Heidi	ハイディ	問題は味だけど……レスナ、どう？	Heidi	The real question is, how does it taste?	海蒂	问题是味道……蕾斯娜，怎么样？	海蒂	問題就在於味道了……蕾斯娜，怎麼樣？
+TalkEvent_19_017ID	3	Resna	レスナ	今、味見してみますね。\n――ぱくりっ！	Resna	I'll be able to answer that in a second! *Chomp*	蕾斯娜	我这就尝尝。\n啊呜！	蕾斯娜	我這就嚐嚐看。\n──我咬！
+TalkEvent_19_017ID	4	Resna	レスナ	こ、これは！？	Resna	Wh-Whoa!	蕾斯娜	这、这是？！	蕾斯娜	這、這是！？
+TalkEvent_19_017ID	5	Resna	レスナ	すごく美味しいです！\n魔物の餌とは思えない美味しさですよ！	Resna	It's ridiculously delicious! You'd never know it's supposed to be for monsters!	蕾斯娜	太好吃了！\n好吃到不像是给魔物的饲料！	蕾斯娜	非常好吃！\n好吃到一點也不像是魔物的飼料！
+TalkEvent_19_017ID	6	Sophie	ソフィー	やったね、レスナちゃん！	Sophie	Nicely done, Resna!	苏菲	太好了，蕾斯娜！	蘇菲	太好了，蕾斯娜！
+TalkEvent_19_017ID	7	Resna	レスナ	はい！　極上の餌のレシピ開発に\n付き合ってくれた皆さんのおかげです！	Resna	Well, I couldn't have done it without all your help!	蕾斯娜	是啊！多亏有大家来帮忙研制极品饲料！	蕾斯娜	嗯！這都要多虧大家\n陪我一起研發頂級飼料的配方！
+TalkEvent_19_017ID	8	Resna	レスナ	皆さんの料理の腕と知識がなければ、\n作り上げることはできませんでした	Resna	It took everyone's skills and knowledge to create the perfect recipe!	蕾斯娜	如果没有你们的料理手艺和知识，\n我根本不可能做出来。	蕾斯娜	要是沒有大家的廚藝和知識，\n我一定沒辦法做出來的。
+TalkEvent_19_017ID	9	Resna	レスナ	ご協力いただき、ありがとうございますっ！	Resna	I can't thank you enough for lending me your expertise!	蕾斯娜	非常感谢大家的协助！	蕾斯娜	非常謝謝各位的協助！
+TalkEvent_19_017ID	10	Flocke	フロッケ	はいっ、どういたしまして	Flocke	Aw, it was nothing!	芙洛可	好啦，不用客气。	芙洛可	好的，不用客氣。
+TalkEvent_19_017ID	11	Sophie	ソフィー	フロッケちゃんは特に頑張ってくれてたよね。\n素材集めも、人一倍張り切ってたし	Sophie	But, Flocke, you really went above and beyond. You were so meticulous about gathering materials!	苏菲	芙洛可特别努力呢。\n收集素材时比别人还要加倍努力。	蘇菲	芙洛可剛才特別努力呢。\n蒐集素材時也比大家加倍賣力。
+TalkEvent_19_017ID	12	Flocke	フロッケ	フロッケはフロッケにできることをしただけです。\nそれに……	Flocke	I just wanted to do everything I could to help.	芙洛可	芙洛可只是做了自己力所能及的事。\n而且……	芙洛可	芙洛可只是盡己所能而已。\n而且……
+TalkEvent_19_017ID	13	Flocke	フロッケ	大切なヴァレリアさんを取り戻すためですから\n頑張るのは当然ですよっ！	Flocke	Especially since this is part of getting Valeria back! I have to give two hundred percent!	芙洛可	毕竟是为了把重要的瓦莱莉娅带回来，\n当然要努力啦！	芙洛可	這是為了奪回重要的瓦萊莉婭小姐，\n當然要盡力幫忙！
+TalkEvent_19_017ID	14	Heidi	ハイディ	よく言ったフロッケ！　相棒のために\nやれることはなんだってやらないとね！	Heidi	Darn straight, Flocke! There's nothing we wouldn't do for our beloved partner!	海蒂	说得好，芙洛可！为了搭档，\n我们要全力以赴啊！	海蒂	芙洛可說得好！為了搭檔，\n任何能夠做到的事都不容錯過！
+TalkEvent_19_017ID	15	Resna	レスナ	それじゃあ、早速この餌を持っていきましょう！	Resna	Let's hurry and put this food to the test!	蕾斯娜	那就赶快把这饲料拿过去吧！	蕾斯娜	那麼，我們趕緊帶這個飼料過去吧！
+TalkEvent_19_017ID	16	Heidi	ハイディ	あ、そうだ。実はちょっとやりたいことがあってさ。\nレスナの班は先に向かっててよ	Heidi	Ah, actually, you can go ahead. There's something I want to do here first.	海蒂	啊，对了。其实我还有件事想做，\n蕾斯娜小队你们先去吧。	海蒂	啊，對了。其實我們還有一件事想做，\n所以蕾斯娜組先過去吧。
+TalkEvent_19_017ID	17	Resna	レスナ	やりたいことってなんですか？	Resna	What's that?	蕾斯娜	想做什么事啊？	蕾斯娜	妳們想做什麼呢？
+TalkEvent_19_017ID	18	Heidi	ハイディ	相棒のために餌……じゃないや、\nうまい料理でも用意していこうと思ってさ	Heidi	I was thinking of making some bai—er, a banquet for Valeria.	海蒂	我想为搭档准备饲料……不对，\n是准备好吃的料理。	海蒂	要為搭檔準備飼料……不是啦，\n就想說準備一些料理之類的。
+TalkEvent_19_017ID	19	Heidi	ハイディ	ほら、匂いに釣られて\nひょっこり戻ってくるかもしれないじゃん？	Heidi	I mean, she might actually follow the smell back home. You know?	海蒂	说不定她会被气味吸引，突然回来呢？	海蒂	妳想想，或許她會被香味吸引，\n忽然間就自己跑回來了，不是嗎？
+TalkEvent_19_017ID	20	Flocke	フロッケ	ヴァレリアさん、もしかしたら\nお腹を空かせているかもしれませんから	Flocke	True. What if they haven't been feeding her properly? She could be starving!	芙洛可	也许瓦莱莉娅肚子正饿呢。	芙洛可	我們想說瓦萊莉婭小姐可能肚子餓了也說不定。
+TalkEvent_19_017ID	21	Resna	レスナ	なるほど……ふふ、きっと喜ぶと思います	Resna	Oh, okay. Ehehe... I think she'd really like that you made her something.	蕾斯娜	原来如此……呵呵，她一定会高兴的。	蕾斯娜	原來如此……呵呵，她一定會很開心的。
+TalkEvent_19_017ID	22	Heidi	ハイディ	そういうわけだから、\n私らはそれを用意してから出発するよ	Heidi	Yeah, so we're going to make sure we've got that ready before we head out.	海蒂	总之就是这么回事，\n我们准备好料理就出发。	海蒂	事情就是這樣，\n我們準備好料理之後就會出發了。
+TalkEvent_19_017ID	23	Resna	レスナ	分かりました。頑張ってくださいね！	Resna	Good luck! I hope it goes well!	蕾斯娜	好的。要加油哦！	蕾斯娜	知道了，妳們加油喔！
+TalkEvent_19_018ID	0	Heidi	ハイディ	ありがとね、調理場貸してくれて。\nそれに下ごしらえも手伝ってもらっちゃって	Heidi	Thanks for letting us use your kitchen. And for helping us with the prep work, too.	海蒂	谢谢你把厨房借给我，而且还帮我备菜。	海蒂	謝謝妳把廚房借給我們用，\n而且還幫忙備好了材料。
+TalkEvent_19_018ID	1	Rorona	ロロナ	いえいえ！	Rorona	It's no trouble at all!	萝乐娜	不用客气！	蘿樂娜	不用客氣！
+TalkEvent_19_018ID	2	Flocke	フロッケ	本当に助かりました！\nあとはフロッケたちだけで大丈夫ですので！	Flocke	It was such a big help! But we can manage the rest!	芙洛可	真的帮大忙了！\n接下来靠我们就行了！	芙洛可	真的幫大忙了！\n剩下的交給芙洛可和大家來做就可以了！
+TalkEvent_19_018ID	3	Heidi	ハイディ	んじゃ、ぱぱっと調理しちゃいますか！	Heidi	Okay! Let's whip something up nice and fast!	海蒂	那我们就赶快开始烹饪吧！	海蒂	那我們趕緊來烹調一下吧！
+TalkEvent_19_018ID	4	Flocke	フロッケ	ヴァレリアさんに喜んでもらえるような、料理を……	Flocke	Hm, a meal Valeria would like...	芙洛可	要做出让瓦莱莉娅高兴的料理……	芙洛可	瓦萊莉婭小姐會喜歡的料理……
+TalkEvent_19_018ID	5	Flocke	フロッケ	（お父さんとお母さんがいなくなってから、\n　一人で王都で行商をしていたあの日……）	Flocke	(Back when my mom and dad vanished, and I was living in the capital on my own...)	芙洛可	（爸爸和妈妈失踪后，\n　我一个人在王都经商。那天……）	芙洛可	（爸爸和媽媽不見了之後，\n　我獨自一人在王都行商的那一天……）
+TalkEvent_19_018ID	6	Flocke	フロッケ	はぁ……はぁ……	Flocke	*Huff* *Huff*...	芙洛可	呼……呼……	芙洛可	呼……呼……
+TalkEvent_19_018ID	7	Flocke	フロッケ	（熱……\n　ちょっと無理しすぎちゃったかな……）	Flocke	(I'm burning up... I think I pushed myself too hard...)	芙洛可	（发烧……\n　我是不是有点太过逞强了……）	芙洛可	（好熱……\n　我是不是太勉強自己了……）
+TalkEvent_19_018ID	8		客の女性	あんた、大丈夫かい！？	Female Customer	Hey! Are you okay?!	女性客人	你没事吧？！	女性客人	妳沒事吧！？
+TalkEvent_19_018ID	9	Flocke	フロッケ	は、はい……少し休めば……大丈夫です……	Flocke	I-I'll be fine...after a bit of rest...	芙洛可	没、没事……只要稍微休息一下……就没事了……	芙洛可	是、是的……只要休息一下……就沒事……
+TalkEvent_19_018ID	10		客の女性	無理をしないで、今日は早く家に帰るんだよ	Female Customer	You ought to call it a day. Just pack up and head home.	女性客人	不要逞强，今天早点回家去吧。	女性客人	別勉強自己，今天就早點回家吧。
+TalkEvent_19_018ID	11	Flocke	フロッケ	はぁ……はぁ……う……	Flocke	*Pant* *Pant*... Ngh...	芙洛可	呼……呼……呜……	芙洛可	呼……呼……唔……
+TalkEvent_19_018ID	12	Valeria	ヴァレリア	ちょっと、大丈夫？　……やだ。熱あるじゃない！	Valeria	Hey, are you all right? Whoa! That's one nasty fever!	瓦莱莉娅	喂，你没事吧？哎呀……你发烧了！	瓦萊莉婭	等等，妳還好嗎……哎呀，妳發燒了耶！
+TalkEvent_19_018ID	13	Flocke	フロッケ	…………	Flocke	...	芙洛可	……	芙洛可	…………
+TalkEvent_19_018ID	14	Flocke	フロッケ	あ、あの……	Flocke	Um...	芙洛可	请、请问……	芙洛可	那、那個……
+TalkEvent_19_018ID	15	Valeria	ヴァレリア	おっ！　目が覚めたのね。\nでも、ちょっとまだ辛そう	Valeria	Oh, hey! You're up! Doesn't look like you're totally over that fever, though.	瓦莱莉娅	啊！你醒啦。\n不过好像还是不舒服呢。	瓦萊莉婭	哦！妳醒來啦。\n不過，好像還有點不舒服的樣子。
+TalkEvent_19_018ID	16	Flocke	フロッケ	あの、ありがとうございます……助けていただいて	Flocke	Th-Thank you very much for helping me.	芙洛可	谢、谢谢你帮助我……	芙洛可	那個，謝謝妳……救了芙洛可。
+TalkEvent_19_018ID	17	Valeria	ヴァレリア	いいのよ。どうせ暇だから	Valeria	Eh, it's no big deal. I didn't have anything better to do.	瓦莱莉娅	不用客气啦，反正我闲得慌。	瓦萊莉婭	不用客氣啦，反正我很閒。
+TalkEvent_19_018ID	18	Valeria	ヴァレリア	あんた、家はどこ？　親に迎えに来てもらう？	Valeria	Where do you live? Want me to go get your parents?	瓦莱莉娅	你家在哪里？我让你父母来接你吧？	瓦萊莉婭	妳家住哪？要請爸媽來接妳嗎？
+TalkEvent_19_018ID	19	Flocke	フロッケ	いえ……フロッケは一人暮らしです。\nこの近くにおうちを借りていて……	Flocke	No... I'm on my own. I'm renting a place around here.	芙洛可	不用了……芙洛可是一个人住的，\n在这附近租了间屋子……	芙洛可	不……芙洛可是一個人住。\n在這附近租了房子……
+TalkEvent_19_018ID	20	Flocke	フロッケ	お父さんとお母さんは、少し前にいなくなって\nしまいました。今、どこにいるかも分からなくて……	Flocke	My mom and my dad disappeared a little while ago. I don't know where they are...	芙洛可	爸爸和妈妈在不久前不见了，\n我也不知道他们现在在哪里……	芙洛可	爸爸和媽媽不久前失蹤了。\n也不曉得他們現在人在哪裡……
+TalkEvent_19_018ID	21	Valeria	ヴァレリア	ふうん……苦労してるのね	Valeria	Oof, that's rough.	瓦莱莉娅	这样啊……你很不容易呢。	瓦萊莉婭	這樣啊……妳很辛苦呢。
+TalkEvent_19_018ID	22	Valeria	ヴァレリア	よかったら、一緒にうちに住む？	Valeria	Why don't you stay here with me, then?	瓦莱莉娅	你要是愿意的话，要不要来我家一起住？	瓦萊莉婭	不介意的話，要不要住在我家？
+TalkEvent_19_018ID	23	Flocke	フロッケ	えっ……？	Flocke	Huh?	芙洛可	咦……？	芙洛可	咦……？
+TalkEvent_19_018ID	24	Valeria	ヴァレリア	ちょっと手狭だけど、慣れたら案外住み心地いいのよ。\nあ、私以外にもう一人、同居人がいるけど	Valeria	It's not the biggest place ever, but it's nice and cozy once you get used to it. Oh, I'm not the only person who lives here, though. I've got a roommate.	瓦莱莉娅	虽然有点挤，但习惯了的话可是一个很舒服的小窝哦。\n啊，不过除我以外，还有一个一起住的人。	瓦萊莉婭	雖然房子有點小，但習慣之後住起來比想像中舒適喔。\n啊，除了我以外，還有一個室友就是了。
+TalkEvent_19_018ID	25	Flocke	フロッケ	いえ、そんな！　悪いですよ！\n赤の他人が、居候なんて……	Flocke	I-I couldn't! I would just be a burden! Besides, I'm a total stranger, so...	芙洛可	这怎么行！太不合适了！\n居然让我这个陌生人住下……	芙洛可	不，這怎麼可以！太抱歉了！\n一個陌生人這樣白吃白住的……
+TalkEvent_19_018ID	26	Valeria	ヴァレリア	別に私は気にしないわよ	Valeria	Doesn't bother me.	瓦莱莉娅	我不介意哦。	瓦萊莉婭	我才不介意呢。
+TalkEvent_19_018ID	27	Valeria	ヴァレリア	さっきまでは他人だったかもしれないけど、\n一緒に住み始めたらもう家族みたいなものじゃない	Valeria	That roommate I mentioned? We didn't know each other either, but once we started living together, we basically became a family.	瓦莱莉娅	虽然之前我们还是陌生人，\n但住在一起后就会像家人一样了。	瓦萊莉婭	或許到剛才為止還是外人，\n但住在一起之後，我們就等同是家人了嘛。
+TalkEvent_19_018ID	28	Flocke	フロッケ	家族……	Flocke	Family...?	芙洛可	家人……	芙洛可	家人……
+TalkEvent_19_018ID	29	Valeria	ヴァレリア	って言っても、私「家族」ってどんなものか\nよく分かってないんだけどね	Valeria	"Well, whatever ""family"" is supposed to mean. I'm still not exactly sure I get it."	瓦莱莉娅	话是这么说，但其实我不太懂\n“家人”是什么样的感觉啦。	瓦萊莉婭	話是這麼說，\n但其實我不太懂什麼叫「家人」就是了。
+TalkEvent_19_018ID	30	Flocke	フロッケ	（フロッケはヴァレリアさんに救われた。だから）	Flocke	(She rescued me, so...)	芙洛可	（是瓦莱莉娅小姐救了芙洛可。所以……）	芙洛可	（瓦萊莉婭小姐救了芙洛可一命，所以……）
+TalkEvent_19_018ID	31	Flocke	フロッケ	今度はフロッケが、ヴァレリアさんを助ける番です	Flocke	This time, it's my turn to save Valeria!	芙洛可	这次轮到芙洛可去救瓦莱莉娅小姐了。	芙洛可	這次輪到芙洛可去幫助瓦萊莉婭小姐了。
+TalkEvent_19_018ID	32	Heidi	ハイディ	うん。ヴァレリアを連れ戻して……\nそんで、うまい料理を一緒に食べよう！	Heidi	Yep. We'll get her back, and then we'll treat her to the greatest meal we've ever made!	海蒂	嗯。把瓦莱莉娅带回来……\n然后一起吃美味的料理吧！	海蒂	嗯，把瓦萊莉婭帶回來……\n然後大家一起享用美味的料理吧！
+TalkEvent_19_018ID	33	Flocke	フロッケ	……はい！	Flocke	Yeah!	芙洛可	……嗯！	芙洛可	……是！
+TalkEvent_19_019ID	0	Resna	レスナ	さぁ、この餌を気に入ってね……	Resna	Come on, take the bait...	蕾斯娜	来吧，你要喜欢这个饲料哦……	蕾斯娜	來，要喜歡這個飼料喔……
+TalkEvent_19_019ID	1	Izana	イザナ	うんうん。もうちょっとそっちのほうに退いててねー。\nやった！　退いてくれたよ、レスナちゃん！	Izana	Mhm, keep shuffling off waaay over there!\nAll right! It's nice and far away now, Resna!	伊札娜	嗯嗯，再往那边退一点点。\n太好了！它退开了，蕾斯娜！	伊札娜	嗯嗯，再往那邊退後一點點～\n太好了！牠退後了耶，蕾斯娜！
+TalkEvent_19_019ID	2	Resna	レスナ	成功だね。この隙に先へ進もう！	Resna	Yeah, that worked perfectly. Come on, let's slip through while we still can!	蕾斯娜	成功了！我们趁机前进吧！	蕾斯娜	成功了呢，趁現在前進吧！
+TalkEvent_19_019ID	3	Heidi	ハイディ	ふう……レスナたちが作ってくれた餌、\nバッチリ効果あったね	Heidi	Phew! That stuff Resna made sure did the trick!	海蒂	呼……蕾斯娜他们做的饲料非常有效啊。	海蒂	呼……蕾斯娜她們做的飼料效果絕佳呢。
+TalkEvent_19_019ID	4	Brad	ブラッド	この様子なら、あちらも無事に進めたのだろうな	Brad	Judging by that reaction, things must be progressing smoothly on their end as well.	布莱德	看这个情况，他们那边应该也能顺利前进了。	布萊德	看這情況，他們幾個應該也順利往前走了吧。
+TalkEvent_19_019ID	5	Flocke	フロッケ	フロッケたちも先を急ぎましょう！	Flocke	We'd better hurry so we don't get left behind!	芙洛可	我们也快点赶路吧！	芙洛可	芙洛可和大家也加快腳步吧！
+TalkEvent_19_019ID	6	Magda	マクダ	それにしても、フロッケが持ってるそれから\nさっきからいい匂いがして気になってんだが……	Magda	Y'know, whatever you're carrying around smells pretty amazing too, Flocke.	玛格达	说起来，芙洛可手上拿着的那个\n从刚才就一直在散发香味……	瑪格達	話說回來，芙洛可妳帶著的那個東西\n從剛才就一直飄出香味，很令人在意耶……
+TalkEvent_19_019ID	7	Lanze	ランツェ	ヴァレリアのために天使ちゃんが丹精込めて\n作った料理だ。手出すんじゃねえぞ	Lanze	That's the meal our little angel poured her heart and soul into just for Valeria. Touch it and you're a goner.	兰泽	这是小天使为了瓦莱莉娅\n精心制作的料理，你可别打它的主意。	藍澤	那是小天使為了瓦萊莉婭精心製作的料理。\n妳可不能出手喔。
+TalkEvent_19_019ID	8	Heidi	ハイディ	ちょっと、私も手伝ったんですけどー	Heidi	Hey! I helped too!	海蒂	等一下，我也帮忙了好不好——	海蒂	等等，我也有幫忙耶～
+TalkEvent_19_019ID	9	Lara	ララ	この香り……何か香辛料を使っているのかしら？	Lara	Goodness, that scent... Did you include any spices in your dish?	拉拉	这个香味……是用了什么香辛料吗？	拉拉	這股香味……是用了什麼香辛料嗎？
+TalkEvent_19_019ID	10	Flocke	フロッケ	はい。行商のお仕事で取り扱ったりするので、\nおうちで料理する時にもよく使うんです	Flocke	Yes! I'm a merchant, so I buy and sell them, but we use them at lot at home, too!	芙洛可	嗯。旅行商人的工作中会经手这些，\n我平时在家做饭也常会用到。	芙洛可	是的，芙洛可在行商的工作中有經手香辛料，\n所以在家做料理時也會經常用到。
+TalkEvent_19_019ID	11	Lanze	ランツェ	ま、我が家の家庭の味ってとこだな	Lanze	Yeah, those sorts've things have gotten to be household staples for us.	兰泽	嗯，也就是我们家的家常味道。	藍澤	嗯，可以說是我們家的家常味吧。
+TalkEvent_19_019ID	12	Flocke	フロッケ	ふふっ。ヴァレリアさんが戻ってきたら、\n皆さんで一緒に食べましょうね	Flocke	Hehe. When Valeria comes back, we'll all have to have a meal together!	芙洛可	嘿嘿，等瓦莱莉娅小姐回来以后，\n大家一起吃吧。	芙洛可	呵呵，等瓦萊莉婭小姐回來後，大家一起吃飯吧。
+TalkEvent_19_019ID	13	Magda	マクダ	よーし！　待ってろよ、ヴァレリア！	Magda	Heck yeah! Don't worry, Valeria! We're comin' for ya!	玛格达	好！等着我们啊，瓦莱莉娅！	瑪格達	好～！等著我吧，瓦萊莉婭！
+TalkEvent_19_019ID	14	Lanze	ランツェ	そうだな。なんだかんだ、\nあいつ抜きじゃ家の中が寂しくていけねぇ	Lanze	Darn straight. Things just ain't the same when she's not at home. It's too quiet.	兰泽	是啊。没有了她总感觉家里很冷清。	藍澤	說的對。少了那傢伙，\n總覺得家裡冷清得不得了。
+TalkEvent_19_019ID	15	Flocke	フロッケ	はい。ヴァレリアさんは大切な家族ですから	Flocke	That's right. She's a precious member of our family.	芙洛可	没错。因为瓦莱莉娅小姐是很重要的家人。	芙洛可	對呀，因為瓦萊莉婭小姐是我們重要的家人。
+TalkEvent_19_019ID	16	Heidi	ハイディ	んじゃ、行くよみんな！	Heidi	Okay, folks! Let's get a move on!	海蒂	那我们快走吧！	海蒂	那麼，大家出發吧！
+TalkEvent_19_020ID	0	Diona	ディオーナ	ララララ～ララ～♪	Diona	La-la-la... La-di-dah...	蒂欧娜	啦啦啦～啦啦啦～	蒂歐娜	啦啦啦啦～啦啦～
+TalkEvent_19_020ID	1	Mieke	ミーケ	絶好調だねぇ、ディオたん。声が出てる	Mieke	Singing? You sure are in a good mood, Diona.	米珂	迪欧，你状态绝佳呢。都唱出声了。	米珂	蒂歐妳狀態真好呢，聲音很宏亮。
+TalkEvent_19_020ID	2	Diona	ディオーナ	歌うと、力がわいてくるから	Diona	Well, it makes me feel empowered.	蒂欧娜	一唱歌力量就会涌现出来。	蒂歐娜	我一唱起歌，身體就會湧現力量。
+TalkEvent_19_020ID	3	Diona	ディオーナ	ミーケちゃん、心の準備はできている？	Diona	Mieke, are you prepared for what's to come?	蒂欧娜	米珂，你做好心理准备了吗？	蒂歐娜	米珂，妳做好心理準備了嗎？
+TalkEvent_19_020ID	4	Mieke	ミーケ	もちろんだよ。我らが王をコキ使おうなんて\n輩には、お仕置きしないとねぇ	Mieke	Of course I am. The people who've been pushing our beloved queen around deserve their just deserts.	米珂	那当然了。那些任意驱使国王的家伙，\n我们必须给他们好看。	米珂	當然了。竟敢試圖使喚我們的君主，\n得教訓那幫傢伙一頓才行。
+TalkEvent_19_020ID	5	Mieke	ミーケ	ララ・キングダム国民として、ミーケは燃えているよ	Mieke	I'm all fired up on Queen Lara's behalf! Devoted subjects like us can't let this slide!	米珂	作为拉拉王国的国民，我已经怒火中烧了。	米珂	米珂我身為拉拉王國的子民，可是充滿了鬥志喔。
+TalkEvent_19_020ID	6	Diona	ディオーナ	私たちが別行動している間に、ララ様は\nランターナ王国に囚われてしまった	Diona	Doubly so, since she was apprehended by the Lantarna kingdom while we were away on other duties.	蒂欧娜	趁我们分头行动之时，\n拉拉大人被兰塔纳王国囚禁了起来。	蒂歐娜	在我們分頭行動的時候，\n拉拉大人被囚禁在蘭塔納王國了。
+TalkEvent_19_020ID	7	Diona	ディオーナ	今も無理矢理、働かされているに違いないわ	Diona	They're forcing her to toil away tirelessly for them, I'm certain of it.	蒂欧娜	现在他们一定在强迫她工作。	蒂歐娜	現在一定還被那些人強迫勞動。
+TalkEvent_19_020ID	8	Mieke	ミーケ	うぅっ、考えただけでも、お気の毒	Mieke	Oooh, just thinking about it makes me feel so sorry for her!	米珂	呜，只是想想都觉得于心不忍。	米珂	唔唔，光是用想的就覺得好心疼。
+TalkEvent_19_020ID	9	Diona	ディオーナ	ララ様、ディオーナとミーケが今、お助けします	Diona	Fear not, Queen Lara. Mieke and I are on our way.	蒂欧娜	拉拉大人，蒂欧娜和米珂这就去救您。	蒂歐娜	拉拉大人，蒂歐娜和米珂現在就去救妳。
+TalkEvent_19_020ID	10	Mieke	ミーケ	で、具体的にはどうララ様を助けよう、ディオたん	Mieke	So how are we going to save her?	米珂	不过蒂欧，具体要怎么救拉拉大人呢？	米珂	所以，具體要怎麼救出拉拉大人呢，蒂歐？
+TalkEvent_19_020ID	11	Diona	ディオーナ	私たちが突撃し、相手を攪乱すれば、その隙を\n見逃すララ様じゃないと思うわ	Diona	I was thinking that we would rush in, cause a commotion, then slip away with Queen Lara in all the ruckus.	蒂欧娜	只要我们发动突袭，扰乱对手，\n拉拉大人一定会抓住那个机会的。	蒂歐娜	只要我們展開突擊，擾亂對手的節奏，\n拉拉大人應該就會趁機逃走了。
+TalkEvent_19_020ID	12	Mieke	ミーケ	なーる。ディオたんは相変わらず賢いね。\nそしてやり方が分かりやすくていいねぇ	Mieke	Gotcha. You're so smart, Diona. I totally get what you're going for.	米珂	有道理。蒂欧还是一如既往地聪明呢。\n方法也简单易懂，真厉害。	米珂	原來～蒂歐還是一樣聰明呢。\n而且做法也簡單易懂，太棒了。
+TalkEvent_19_020ID	13	Diona	ディオーナ	ただ、手ごわい異邦人がついているみたいね。\nララ様が捕まったぐらいだから、要注意よ	Diona	That being said, some formidable wanderers are sure to be around. They were capable of capturing our illustrious ruler, so they clearly aren't to be trifled with.	蒂欧娜	不过，还有难缠的异邦人跟着。\n他们连拉拉大人都能抓住，千万要小心他们。	蒂歐娜	只不過，其中好像有很難纏的異邦人。\n畢竟連拉拉大人都被抓了，妳可要小心喔。
+TalkEvent_19_020ID	14	Mieke	ミーケ	いいじゃん。でっかい相手のほうが戦い甲斐があるよ。\nビーッグ！！	Mieke	Fine by me! Bigger deals make for better battles. And this'll be huge!	米珂	正合我意啊。对手越强大战斗才越值得一战。\nBIG！！	米珂	有什麼好怕的？對手強一點才有交手的價值。\n越強越好！！
+TalkEvent_19_020ID	15	Diona	ディオーナ	頼もしいわ、ミーケちゃん	Diona	I'll be counting on you, Mieke.	蒂欧娜	米珂真是太靠得住了。	蒂歐娜	太可靠了，米珂。
+TalkEvent_19_020ID	16	Mieke	ミーケ	えへへ	Mieke	Ehehe.	米珂	嘿嘿。	米珂	嘿嘿。
+TalkEvent_19_020ID	17	Mieke	ミーケ	よーし、いこう。ララ・キングダムの強さを\n見せてやろうよ	Mieke	Okay, let's go show those people just how powerful the Kingdom of Lara is!	米珂	好了，我们走。\n让他们见识一下拉拉王国的强大吧。	米珂	好～我們走吧。\n讓他們見識拉拉王國有多厲害。
+TalkEvent_19_020ID	18	Diona	ディオーナ	ええ。私たち二人で、ね	Diona	Indeed. Just the two of us.	蒂欧娜	嗯，就靠我们两个了。	蒂歐娜	嗯，我們兩個聯手出擊吧。
+TalkEvent_19_021ID	0	Magda	マクダ	なんだ魔物どもは、ここに来て大人しめだな。\nもっとガツンと来いよなぁ	Magda	Huh, the monsters have been awfully quiet since we made this far. I was hoping for more of a challenge, y'know?	玛格达	这些魔物怎么回事，怎么变老实了。\n都给我凶起来啊。	瑪格達	搞什麼啊，到這裡之後那些魔物都變乖了耶。\n再來幾個兇猛一點的嘛～
+TalkEvent_19_021ID	1	Brad	ブラッド	その粗暴さは目に余ると言っているだろう、マクダ。\nフロッケから落ち着きを学ぶことだ	Brad	Honestly, that rashness of yours ought to be inexcusable. You would do well to learn from Flocke's composure.	布莱德	我真是受够你的粗暴了，玛格达。\n你看芙洛可多文静，好好学学。	布萊德	我有提醒過妳這種火爆性子很讓人受不了吧，瑪格達。\n妳得跟芙洛可學學何謂沉著。
+TalkEvent_19_021ID	2	Magda	マクダ	けっ、お前こそ、もっと柔軟になれって\n言ってるけどな、ブラッドさんよ	Magda	Ugh, maybe if you loosen up a bit first, I'll start taking your advice.	玛格达	切，你才是该懂得些灵活变通才好，布莱德。	瑪格達	嘖，我才提醒過你要懂得變通吧，\n布萊德先生。
+TalkEvent_19_021ID	3	Heidi	ハイディ	ちょい聞かせてマクダ。あんたらホントどういう関係？\nなんか知ってる風だけど	Heidi	Hey, Magda? I've been meaning to ask, but what's your deal? You and Brad obviously know each other pretty well.	海蒂	我问一句哦，玛格达。你们到底是什么关系？\n你们好像认识？	海蒂	我問一下喔，瑪格達。你們到底是什麼關係啊？\n看起來好像很熟的樣子。
+TalkEvent_19_021ID	4	Magda	マクダ	優しい優しいマクダ様は、ブラッドの調査に\n色々と付き合ってやったんだよ	Magda	The Great Magda, in all her wonderfully generous awesomeness, sometimes lends a hand with this nerd's investigations and stuff.	玛格达	本人，温柔善良的玛格达大人，\n在布莱德调查时跟着他帮了他很多。	瑪格達	溫柔又好心的瑪格達大人\n陪著布萊德在調查中做了不少事情喔。
+TalkEvent_19_021ID	5	Magda	マクダ	ま、何があったかは後で詳しく話してやるさ	Magda	Well, I'll tell you more about it later.	玛格达	之后我再和你细说究竟发生了些什么。	瑪格達	嗯，我之後再告訴妳們詳細的事情經過。
+TalkEvent_19_021ID	6	Brad	ブラッド	そういえばハイディ。ヴァレリアの名付け親は\n君だという話だが、どういう由来なんだ？	Brad	That reminds me. Heidi, I heard that you were the one who gave Valeria her name. What inspired you to choose that one?	布莱德	说起来，海蒂，听说瓦莱莉娅的名字是你取的，\n这名字是怎么来的？	布萊德	對了，海蒂。聽說瓦萊莉婭的名字是妳取的，\n那名字有什麼由來嗎？
+TalkEvent_19_021ID	7	Brad	ブラッド	王国の歴史の中で、同じ名前の優れた州長がいるんだが\nそこから取ったのかな。私も、彼女は尊敬していてね	Brad	I presume it was the provincial minister Valeria, whose noble deeds during her tenure have stood the test of time. I rather admire her as well.	布莱德	在王国的历史上，有过和她同名的优秀州长。\n你是因此才给她取了这个名字吗？我也很尊敬那位女士。	布萊德	在王國的歷史中有位同名的優秀州長，\n名字是源自於她嗎？我也很尊敬她呢。
+TalkEvent_19_021ID	8	Heidi	ハイディ	いやいや、そんな大層な由来じゃないですよ	Heidi	Uh, no. It really wasn't anything as lofty as that.	海蒂	不是啦，没有那么夸张的缘由。	海蒂	不不不，並不是那麼了不起的由來啦。
+TalkEvent_19_021ID	9	Magda	マクダ	ひゃっひゃっひゃ。外れてやんの～～	Magda	Gyahaha! Man, you were way off the mark, huh?	玛格达	哈哈哈哈哈，你猜错了！	瑪格達	呀哈哈，你猜錯囉～～
+TalkEvent_19_021ID	10	Lanze	ランツェ	おいおい、錬金爵様をからかうんじゃないぞ	Lanze	C'mon, ya can't go ribbin' the Seneschal of Alchemy like that.	兰泽	行了行了，可别拿炼金爵大人开玩笑。	藍澤	喂，不准取笑鍊金爵大人。
+TalkEvent_19_021ID	11	Flocke	フロッケ	でも、おかげで緊張しすぎずに済みます	Flocke	It did help lighten the mood, though.	芙洛可	不过多亏这些闲聊，我没有那么紧张了。	芙洛可	但多虧了大家這樣，感覺沒那麼緊張了。
+TalkEvent_19_021ID	12	Lara	ララ	さぁ、もう一息ですわよ	Lara	Shall we? There's not much farther to go now.	拉拉	再加把劲吧。	拉拉	好，再加把勁吧。
+TalkEvent_19_021ID	13	Mieke	ミーケ	遠くにララ様発見。敵は５人ってところだねぇ	Mieke	I just spotted Queen Lara up ahead. She's flanked by five enemies.	米珂	远处发现拉拉大人。敌人有5个。	米珂	遠方發現拉拉大人。敵人大約有5名。
+TalkEvent_19_021ID	14	Diona	ディオーナ	ララ様……	Diona	My queen...	蒂欧娜	拉拉大人……	蒂歐娜	拉拉大人……
+TalkEvent_19_021ID	15	Diona	ディオーナ	（ただ漠然と生きていた私の人生に、\n　熱い芯を入れてくださった……王）	Diona	(You lit up my dull life, bringing passion and meaning to my existence.)	蒂欧娜	（我的国王……\n　给我浑浑噩噩的人生注入了热情。）	蒂歐娜	（為我本來毫無目標的人生\n　點燃了動力的……君主。）
+TalkEvent_19_021ID	16	Diona	ディオーナ	（あなたのためなら、私は、なんだって）	Diona	(I would do anything for you...my queen.)	蒂欧娜	（为了您，我什么都愿意做。）	蒂歐娜	（為了您，赴湯蹈火我也在所不辭。）
+TalkEvent_19_021ID	17	Mieke	ミーケ	ララ様……	Mieke	Queen Lara...	米珂	拉拉大人……	米珂	拉拉大人……
+TalkEvent_19_021ID	18	Mieke	ミーケ	（満たされないミーケを、導いてくれたね）	Mieke	(I wasn't happy with anything, but Lara gave me a way out.)	米珂	（是您给无法满足的米珂指引了方向。）	米珂	（是您指引了內心空虛的米珂。）
+TalkEvent_19_021ID	19	Mieke	ミーケ	（何より自ら王を名乗り、王国の外に自分の\n　国家を築いたビッグな生き様……誰にも汚させない）	Mieke	(I'm not going to let anyone sully the name of the incredible woman who crowned herself queen and established her own kingdom.)	米珂	（最重要的是，您自称为王，在王国之外建造自己国家。\n　这种伟大的活法我不允许任何人玷污。）	米珂	（最重要的是您自稱為王，在王國之外建立自己國家的\n　這般偉大的生存之道……我絕不容許任何人玷汙。）
+TalkEvent_19_022ID	0	Mieke	ミーケ	止まれ止まれ、止まーれーぃ！	Mieke	Stop, stop, stooop!	米珂	停下停下，都给我停下——！	米珂	停下停下，快～停～下！
+TalkEvent_19_022ID	1	Lara	ララ	ミーケ！　ディオーナ！	Lara	Mieke! Diona!	拉拉	米珂！蒂欧娜！	拉拉	米珂！蒂歐娜！
+TalkEvent_19_022ID	2	Heidi	ハイディ	えっ、ディオーナって歌姫ディオーナじゃん！	Heidi	Wait, is that THE Diona? The super famous diva?!	海蒂	咦，蒂欧娜不就是那个歌手蒂欧娜吗！	海蒂	咦，蒂歐娜不就是歌姬蒂歐娜嘛！
+TalkEvent_19_022ID	3	Magda	マクダ	あぁ、王都で歌ったことあったよな。\nハイディ、好きなんだっけ	Magda	Hey, yeah. I've seen her singing in the capital before. I didn't know you were a fan, Heidi.	玛格达	对哦，她在王都唱过歌。\n海蒂好像很喜欢来着？	瑪格達	哦，以前有在王都唱過歌吧。\n海蒂是不是很喜歡她？
+TalkEvent_19_022ID	4	Magda	マクダ	マクダ様にはちょっとお上品すぎる歌なんだよなあ	Magda	Honestly, her stuff's a bit too fancy for my tastes.	玛格达	对我来说那种歌过于高雅了。	瑪格達	對瑪格達大人我來說，她唱的歌太過優雅了。
+TalkEvent_19_022ID	5	Flocke	フロッケ	装飾屋のミーケさん！　フロッケのお店で\n装飾品を扱わせていただきましたが、一瞬で完売でした	Flocke	And you're Mieke, the accessory designer! Whenever I manage to stock any of your pieces, they're always snapped up in an instant!	芙洛可	还有装饰店的米珂小姐！芙洛可的商店里\n卖过她的装饰品，一眨眼就卖光了。	芙洛可	是飾品工匠米珂小姐！芙洛可的店\n有販售過她的飾品，一瞬間就賣光了。
+TalkEvent_19_022ID	6	Brad	ブラッド	私でも聞いたことがある。彼女の装飾品は\nヴィアベル州で若者に大人気のようだが……	Brad	Even I've heard of her. Apparently, Mieke's designs are wildly popular among the youths in Wirbel Province.	布莱德	我也听说过。她的装饰品似乎在\n薇亚贝尔州的年轻人间很受欢迎……	布萊德	我也有聽說過，她做的飾品在維亞貝爾州\n似乎非常受年輕族群喜愛……
+TalkEvent_19_022ID	7	Lara	ララ	彼女たちは、ララ・キングダムの愛すべき民と\nなったのですわ	Lara	They have both since become devoted subjects of my kingdom.	拉拉	她们是拉拉王国无比可爱的国民哦。	拉拉	她們都已經成為拉拉王國的可愛子民囉。
+TalkEvent_19_022ID	8	Heidi	ハイディ	ええっ、そうだったの！？	Heidi	What?! Really?!	海蒂	咦，是这样吗？！	海蒂	咦，原來是這樣嗎！？
+TalkEvent_19_022ID	9	Lanze	ランツェ	つうか、ミーケってあのミーケかよ、びっくりだぜ	Lanze	Huh, I really wasn't expectin' to run into an old pal.	兰泽	话说，原来是我认识的那个米珂啊，真让人吃了一惊。	藍澤	話說，米珂竟然是那個米珂啊，真是令人驚訝。
+TalkEvent_19_022ID	10	Mieke	ミーケ	君たち、ララ様を解放してもらうよ	Mieke	We're here to release Queen Lara from your evil clutches!	米珂	你们快把拉拉大人放了。	米珂	我要你們放了拉拉大人。
+TalkEvent_19_022ID	11	Diona	ディオーナ	ララ様、今、お助けします！	Diona	My queen, we shall soon save you!	蒂欧娜	拉拉大人，我们这就来救您！	蒂歐娜	拉拉大人，我們現在就去救您！
+TalkEvent_19_022ID	12	Magda	マクダ	おい、襲ってきそうじゃねぇか。どうなってるんだ	Magda	Yeesh, they're really gunning for a fight. What's their damage?	玛格达	喂，她们怎么攻过来了。什么情况啊？	瑪格達	喂，她們好像要襲擊過來了耶！這是怎麼回事？
+TalkEvent_19_022ID	13	Lara	ララ	わたくしがララ・キングダムに残しておいた伝言を\n二人が読んでいない可能性がありますわね	Lara	It would appear that neither one of them happened to read the message that I left in my kingdom.	拉拉	她们可能没有看我留在拉拉王国的口信。	拉拉	我在拉拉王國留下的留言，\n她們兩個可能都沒有看到吧。
+TalkEvent_19_022ID	14	Lara	ララ	ミーケ、ディオーナ！　わたくしは自らの意志で\nここにいるのですわ！	Lara	Mieke! Diona! Let me assure you, I am acting of my own volition!	拉拉	米珂、蒂欧娜！我是自愿留在这里的！	拉拉	米珂、蒂歐娜！我是自願待在這裡的！
+TalkEvent_19_022ID	15	Lara	ララ	助けなど不要です！　落ち着きなさい！	Lara	I am not in need of a rescue, so please calm yourselves!	拉拉	并不需要帮助！你们冷静一点！	拉拉	不用妳們相救！冷靜下來！
+TalkEvent_19_022ID	16	Mieke	ミーケ	ララ様！　も、もしかして操られて	Mieke	O-Oh no, they've brainwashed her!	米珂	拉拉大人！难、难道她已经被控制了？	米珂	拉拉大人！難、難道是被操縱了……
+TalkEvent_19_022ID	17	Diona	ディオーナ	おのれ、よくもララ様を！　覚悟！！	Diona	You fiends! How dare you treat our queen like this! Prepare to be annihilated!	蒂欧娜	混蛋，居然敢这么对拉拉大人！绝不原谅！！	蒂歐娜	可惡，竟敢如此對待拉拉大人！受死吧！！
+TalkEvent_19_022ID	18	Lanze	ランツェ	ここは俺に任せろ。おじさんに歴史あり、だ	Lanze	Hang on, lemme try somethin'. Mieke and I go way back.	兰泽	这里交给我吧。大叔我也是有点故事的。	藍澤	這裡交給我吧，薑還是老的辣。
+TalkEvent_19_022ID	19	Lanze	ランツェ	ったく、昔からおてんばちゃんだぜミーケはよぅ	Lanze	Tch, you've always been a firecracker, ever since you were young.	兰泽	真是的，米珂以前就是个淘气丫头。	藍澤	真是的，米珂妳從以前就是個野丫頭啊～
+TalkEvent_19_022ID	20	Mieke	ミーケ	ん！？　あれ、ランツェのおっさん！！	Mieke	Huh?! What's an old fogey like you doing here, Lanze?!	米珂	咦？是兰泽大叔！！	米珂	嗯！？奇怪，藍澤大叔！！
+TalkEvent_19_022ID	21	Lanze	ランツェ	そうだ、船乗り時代は世話になったな	Lanze	There we go. My sailin' days are comin' back to ya, huh?	兰泽	嗯，我当水手的时候受你照顾了。	藍澤	沒錯，當船員的那段時期承蒙照顧了。
+TalkEvent_19_022ID	22	Diona	ディオーナ	ミーケちゃん、どういう知り合い？	Diona	Mieke, how do you know this ruffian?	蒂欧娜	米珂，你怎么认识他的？	蒂歐娜	米珂，你們是怎麼認識的？
+TalkEvent_19_022ID	23	Mieke	ミーケ	ばーちゃんの定食屋で仕事を手伝ってた時、\n２階を貸し切って、よく宴会してたおっさんだ	Mieke	Back when I was helping out at my granny's restaurant, he'd come by and rent out the second floor for parties all the time.	米珂	我在奶奶的餐馆帮忙时，\n这个大叔经常包场二楼举办宴会来着。	米珂	我在奶奶的餐館幫忙時，\n這個大叔常常包下2樓舉辦宴會。
+TalkEvent_19_022ID	24	Mieke	ミーケ	生きてたのはよかったけど、見損なった！\nララ様に危害を加える一味に加担してるなんてさ	Mieke	Look, I'm glad you're still alive, but I totally had the wrong read on you! I can't believe that you'd join a group who would cause Queen Lara harm!	米珂	很开心你还活着，但是我看错你了！\n没想到你居然会加入伤害拉拉大人的这一伙人。	米珂	雖然很慶幸你還活著，但真是看錯你了！\n沒想到你竟然加入了危害拉拉大人的那幫傢伙。
+TalkEvent_19_022ID	25	Lanze	ランツェ	誤解だぜ、聞けやミーケ	Lanze	I'm tellin' ya, this is all a big misunderstandin'.	兰泽	都是误会，米珂你听我说。	藍澤	這是誤會，米珂妳聽我解釋。
+TalkEvent_19_022ID	26	Diona	ディオーナ	ミーケちゃん、気を付けて。\n私たちも心を操られるかもしれないわ	Diona	Watch yourself, Mieke. They might attempt to bring us under their thrall.	蒂欧娜	米珂小心。\n我们的意识也有可能被他们控制。	蒂歐娜	米珂，小心一點。\n我們說不定也會被操縱心靈。
+TalkEvent_19_022ID	27	Heidi	ハイディ	まずい、この感じ問答無用だ	Heidi	Gosh, there's really no reasoning with these two.	海蒂	糟糕，这下感觉说什么都白搭了。	海蒂	糟糕，看樣子沒有溝通的餘地了。
+TalkEvent_19_022ID	28	Brad	ブラッド	……これは、落ち着いてもらう必要がありそうだな。\nマクダ、喧嘩屋の出番だ	Brad	I suppose we'll simply have to knock some sense into them. Literally. You're up, Magda.	布莱德	……感觉得让她们冷静下来。\n玛格达，轮到你这个打架高手出场了。	布萊德	……似乎有必要讓她們冷靜下來了。\n瑪格達，打架專家該出場了。
+TalkEvent_19_022ID	29	Lara	ララ	二人には、やりすぎないようにお願いしますわ	Lara	Do take care not to pummel them too hard, hm?	拉拉	请不要对她们下手太重。	拉拉	麻煩二位下手別太重了。
+TalkEvent_19_022ID	30	Magda	マクダ	おうよ	Magda	You got it!	玛格达	知道了。	瑪格達	沒問題。
+TalkEvent_19_022ID	31	Magda	マクダ	そういった力加減の注文にお応えするのも\n喧嘩屋だぜ！	Magda	Being a brawl master means knowing when to dial it back sometimes!	玛格达	打架高手也会根据要求来调整力道的！	瑪格達	應付這些希望控制力道的要求\n也是打架專家的工作！
+TalkEvent_19_022ID	32	Mieke Cronmelin	ミーケ・クロンメリン	ララの重臣。若者たちに人気の装飾屋だったが、\nララの器の大きさに惚れ込み彼女に仕えることを選んだ	Mieke Cronmelin	One of Lara's most trusted vassals. Formerly a popular accessory designer, Lara's accepting nature won her undying loyalty.	米珂·克罗梅林	拉拉的重臣。曾经营过一家很受年轻人欢迎的装饰品店。\n被拉拉宽广的心胸折服后决定侍奉拉拉。	米珂‧克羅梅林	拉拉的重臣，曾為深受年輕族群歡迎的飾品工匠，\n但被拉拉的廣闊胸襟所吸引，最終選擇效忠於她。
+TalkEvent_19_022ID	33	Diona Grundberg	ディオーナ・グルンドベリ	ララの重臣。王国でも名の知れた歌姫だったが、\nララの気品ある姿に惚れ込み彼女に仕えることを選んだ	Diona Grundberg	Another of Lara's most trusted vassals. While she is an acclaimed singer, Lara charmed her so thoroughly that she chose to serve the kingdom instead.	蒂欧娜·格伦德贝里	拉拉的重臣。曾是王国的知名歌手。\n被拉拉优雅的身姿折服后决定侍奉拉拉。	蒂歐娜‧格倫德貝里	拉拉的重臣，曾為王國中享譽盛名的歌姬，\n但被拉拉的高貴大氣所吸引，最終選擇效忠於她。
+TalkEvent_19_023ID	0	Lara	ララ	……説明は以上ですが、何か質問はありますか？	Lara	Now that you have all the facts, are there any questions?	拉拉	……解释完了，你们有什么问题吗？	拉拉	……說明到此結束，還有什麼問題嗎？
+TalkEvent_19_023ID	1	Diona	ディオーナ	ありません！	Diona	None whatsoever!	蒂欧娜	没有！	蒂歐娜	沒有！
+TalkEvent_19_023ID	2	Diona	ディオーナ	ララ様！　ララ様の御心を見誤った罪、\nどうかお許しください！	Diona	Your Majesty! I hope that you will find it in your heart to pardon such a grievous offense!	蒂欧娜	拉拉大人！是我们误解了拉拉大人的想法，\n请原谅我们！	蒂歐娜	拉拉大人！我們誤判了您的心思，\n還請恕罪！
+TalkEvent_19_023ID	3	Mieke	ミーケ	うぅ……ミーケたち、早とちりしちゃって	Mieke	Yeah... We jumped to way too many conclusions.	米珂	呜……我们太武断了。	米珂	唔唔……我們太過武斷了。
+TalkEvent_19_023ID	4	Lara	ララ	よろしいですわ。それだけわたくしを\n思ってくださったということ	Lara	I see no reason why I shouldn't. After all, you were acting in what you believed to be my best interests.	拉拉	不要紧。这也说明你们很担心我。	拉拉	沒關係，這表示妳們就是如此為我著想。
+TalkEvent_19_023ID	5	Lara	ララ	しかし、この方々には、きちんと謝りなさいな	Lara	However, you owe the rest of the group a proper apology.	拉拉	不过，要和大家好好道歉哦。	拉拉	不過，妳們得向這幾位好好道歉才行。
+TalkEvent_19_023ID	6		ふたり	ごめんなさい！	Both	We're really sorry!	二人	对不起！	兩人	對不起！
+TalkEvent_19_023ID	7	Heidi	ハイディ	いやいや。誤解が解けたなら、それでいいからさ！	Heidi	Aw, it's all right. Everyone's back on the same track, and that's what matters!	海蒂	没事没事，只要解开了误会就行！	海蒂	沒事沒事，有解開誤會就好了！
+TalkEvent_19_023ID	8	Lara	ララ	さて、ひとまず一件落着ですわね。\nあなたたちは先に帰りなさい	Lara	There, that settles it. Now, I will have to ask you to return home.	拉拉	好了，也算是解决了一件事。\n你们先回去吧。	拉拉	好，暫且解決一樁事了。妳們先回去吧。
+TalkEvent_19_023ID	9	Diona	ディオーナ	い、いえ！　こうなった以上、私たちもお供を！	Diona	W-Wait! After all that, we ought to accompany you to the end!	蒂欧娜	不、不回去！事已至此，让我们也一起行动吧！	蒂歐娜	不、不可！既然事已至此，我們也要與您同行！
+TalkEvent_19_023ID	10	Lara	ララ	先の戦いでかなり消耗したでしょう。\n無理をさせるわけにはいきませんわ	Lara	That previous battle exhausted you both, did it not? There is no need to needlessly push yourselves beyond your limits.	拉拉	经过刚才的战斗你们已经筋疲力尽了吧。\n我不能让你们勉强自己。	拉拉	剛才那一戰消耗了不少體力吧？\n我可不能讓妳們勉強自己。
+TalkEvent_19_023ID	11	Diona	ディオーナ	ララ様……	Diona	Queen Lara...	蒂欧娜	拉拉大人……	蒂歐娜	拉拉大人……
+TalkEvent_19_023ID	12	Lara	ララ	心配はいりません。あなたたちは、\n安心して王の帰還をお待ちなさいな	Lara	You have nothing to worry about. Please, return to the kingdom in high spirits.	拉拉	不必担心。你们就放宽心，等国王回来吧。	拉拉	無須擔心。\n妳們就安心地靜待君主歸來吧。
+TalkEvent_19_023ID	13	Mieke	ミーケ	はい！\n先にララ・キングダムに戻ってますね！	Mieke	Okay. We'll see you when you get back!	米珂	明白了！\n我们就先回拉拉王国了！	米珂	是！那我們先返回拉拉王國了！
+TalkEvent_19_023ID	14	Diona	ディオーナ	皆さん、我らが王を、よろしくお願いします	Diona	We leave our queen in your care, everyone.	蒂欧娜	各位，我们的国王就拜托你们了。	蒂歐娜	我們的君主就麻煩各位了。
+TalkEvent_19_023ID	15	Magda	マクダ	慕われてんなぁ、王様	Magda	Wow. You sure are loved, Your Majesty.	玛格达	你深受爱戴呢，国王陛下。	瑪格達	妳這位君主很受愛戴呢。
+TalkEvent_19_023ID	16	Lara	ララ	ええ。わたくしのかわいい臣下たちですわ	Lara	Indeed. They are my most adorable retainers.	拉拉	嗯。她们都是我可爱的臣子。	拉拉	沒錯，她們是我可愛的臣子們。
+TalkEvent_19_023ID	17	Brad	ブラッド	二人ともヴィアベル州の有名人だ。それがどうして\nララ・キングダムに？　最近の話だろう？	Brad	They both hail from Wirbel. When did they relocate to the Kingdom of Lara? Is this a recent development?	布莱德	她们在薇亚贝尔州都很出名，\n为什么会加入拉拉王国？这是最近的事吧？	布萊德	她們兩個都是維亞貝爾州的名人，\n怎麼會加入拉拉王國？這是最近的事情沒錯吧？
+TalkEvent_19_023ID	18	Lara	ララ	そこそこ長くなりますので、別の機会で語りましょう	Lara	It has been some time, but that is a story for another day.	拉拉	说来话长，之后再找机会细说吧。	拉拉	這件事說來話長，下次有機會再告訴你們。
+TalkEvent_19_023ID	19	Heidi	ハイディ	よし。それじゃあ先に行くか！	Heidi	Right, let's keep moving!	海蒂	嗯。那我们继续前进吧！	海蒂	好，那就繼續前進吧！
+TalkEvent_19_024ID	0	Heidi	ハイディ	だいぶ奥まで来たけど……そろそろ目的地かな？	Heidi	We've gotten pretty far in. Shouldn't we be close to the warehouse?	海蒂	已经走到深处了……快到了吧？	海蒂	一路來到很深的地方了……快到目的地了吧？
+TalkEvent_19_024ID	1	Lara	ララ	ええ。この先が貯蔵庫ですわ	Lara	Indeed. It's just up ahead.	拉拉	嗯。前边就是仓库了。	拉拉	對，這前面就是儲藏庫了。
+TalkEvent_19_024ID	2	Lanze	ランツェ	今のところは、ヴァレリアも\n極夜の錬金党の奴らも姿が見えねえが……	Lanze	We ain't seen hide nor hair of Valeria—or any of those Polar Night folks, for that matter.	兰泽	目前为止都没看到瓦莱莉娅\n和极夜的炼金党那些家伙啊……	藍澤	目前還沒看到瓦萊莉婭和極夜的鍊金黨那些傢伙……
+TalkEvent_19_024ID	3	Magda	マクダ	――！　とうとうお出ましみてぇだぜ	Magda	Well, well. Speak of the devil!	玛格达	唔——！看来总算出场了。	瑪格達	──！看來終於肯現身了啊。
+TalkEvent_19_024ID	4	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_19_024ID	5	Heidi	ハイディ	相棒……！	Heidi	Partner...!	海蒂	搭档……！	海蒂	搭檔……！
+TalkEvent_19_024ID	6	Flocke	フロッケ	ヴァレリアさんっ！	Flocke	Valeria!	芙洛可	瓦莱莉娅！	芙洛可	瓦萊莉婭小姐！
+TalkEvent_19_024ID	7	Lanze	ランツェ	ったく……仰々しい格好しやがって	Lanze	Yeesh, that outfit's a choice.	兰泽	真是的……怎么穿得那么夸张。	藍澤	真是的……竟然穿得那麼誇張。
+TalkEvent_19_024ID	8	Valeria	ヴァレリア	あんたたち、ここに何をしに来たの？	Valeria	What did you come here for?	瓦莱莉娅	你们来这里想做什么？	瓦萊莉婭	你們幾個來這裡做什麼？
+TalkEvent_19_024ID	9	Lanze	ランツェ	何って……てめえを迎えに来たんだろうが！	Lanze	C'mon, like it ain't obvious. We're here to take ya home!	兰泽	还用问吗……当然是来接你的！	藍澤	做什麼……當然是來帶妳回去啊！
+TalkEvent_19_024ID	10	Valeria	ヴァレリア	侵入者は排除するわ	Valeria	Trespassers must be eliminated.	瓦莱莉娅	驱除入侵者。	瓦萊莉婭	入侵者必須除掉。
+TalkEvent_19_024ID	11	Heidi	ハイディ	相棒！	Heidi	Partner—!	海蒂	搭档！	海蒂	搭檔！
+TalkEvent_19_024ID	12	Valeria	ヴァレリア	戦うのみよ	Valeria	We must fight.	瓦莱莉娅	只能战斗。	瓦萊莉婭	唯有一戰。
+TalkEvent_19_024ID	13	Magda	マクダ	なるほど。どうやら、まだ正気には戻ってねえようだな	Magda	Ah, okay. She's still actin' funny.	玛格达	这样啊。看来她还没有恢复理智。	瑪格達	原來如此，看樣子她還沒有恢復正常呢。
+TalkEvent_19_024ID	14	Brad	ブラッド	極夜の錬金党の者たちはどこにいる？	Brad	Where are the Polar Night Alchemists?	布莱德	极夜的炼金党在哪里？	布萊德	極夜的鍊金黨那些人在哪裡？
+TalkEvent_19_024ID	15	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_19_024ID	16	Brad	ブラッド	話し合いは無駄、か。戦闘になるぞ	Brad	Not in the mood to talk, it seems. Then we have no other choice.	布莱德	看来说不通啊。要战斗了。	布萊德	多說無益嗎？大家準備應戰囉。
+TalkEvent_19_024ID	17	Lara	ララ	ハイディ。家族のあなたがたが戦うのはお辛いはず。\nここはわたくしがお相手しましょう	Lara	Heidi. I cannot imagine that fighting a family member would be pleasant. Allow me to take your place.	拉拉	海蒂，身为她的家人，你去战斗一定会很痛苦。\n这里就让我来做她的对手吧。	拉拉	海蒂，身為家人的妳要出戰應該心裡很不好受。\n這裡就交給我來應戰吧。
+TalkEvent_19_024ID	18	Heidi	ハイディ	ありがとね。でも大丈夫。\n戦うことは、覚悟してたからさ	Heidi	Thanks, but I'll manage. I knew it'd come to this.	海蒂	谢谢你，但是不要紧的。\n我已经做好要战斗的心理准备了。	海蒂	謝謝妳，但不用擔心我。\n我已經做好應戰的心理準備了。
+TalkEvent_19_024ID	19	Heidi	ハイディ	むしろ、説得は私らに任せてよ	Heidi	If anything, we're probably the best people to get her to give in!	海蒂	就让我说服她吧。	海蒂	反而要交給我們來說服她才對。
+TalkEvent_19_024ID	20	Heidi	ハイディ	相棒。\n殴ってでも、あんたの正気を取り戻させてやる！	Heidi	Partner, we might have to smack you around a bit, but we're going to make you return to your senses!	海蒂	搭档。\n就算得揍你一顿，我也要让你清醒过来！	海蒂	搭檔，就算用揍的，我也要讓妳恢復理智！
+TalkEvent_19_024ID	21	Flocke	フロッケ	ヴァレリアさん、必ず連れて帰ります！	Flocke	We're definitely going to bring you home, Valeria!	芙洛可	瓦莱莉娅，我们一定要把你带回去！	芙洛可	瓦萊莉婭小姐，我們一定要帶妳回去！
+TalkEvent_19_025ID	0	Lanze	ランツェ	おらあああああっ！！	Lanze	Raaagh!	兰泽	看招啊啊啊啊啊！！	藍澤	喝啊啊啊啊啊啊！！
+TalkEvent_19_025ID	1	Flocke	フロッケ	あの、ヴァレリアさん……	Flocke	Um, Valeria...	芙洛可	瓦莱莉娅，你听我说……	芙洛可	那個，瓦萊莉婭小姐……
+TalkEvent_19_025ID	2	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+TalkEvent_19_025ID	3	Flocke	フロッケ	フロッケたち、ヴァレリアさんのために、\n美味しい料理を準備してきたんです	Flocke	Heidi and I made an extra-special meal, just for you.	芙洛可	我们为了你，准备了非常好吃的料理。	芙洛可	芙洛可和大家特地為瓦萊莉婭小姐\n準備了很美味的料理。
+TalkEvent_19_025ID	4	Flocke	フロッケ	一緒に食べませんか？	Flocke	Won't you eat it with us?	芙洛可	要不要一起吃？	芙洛可	要不要一起吃呢？
+TalkEvent_19_025ID	5	Valeria	ヴァレリア	…………！	Valeria	...!	瓦莱莉娅	……！	瓦萊莉婭	…………！
+TalkEvent_19_025ID	6	Flocke	フロッケ	ヴァレリアさんは……フロッケの命の恩人で、\n大事な家族です	Flocke	You saved my life, Valeria. You're a precious member of my family.	芙洛可	瓦莱莉娅……你是芙洛可的救命恩人，\n是很重要的家人。	芙洛可	瓦萊莉婭小姐……妳是芙洛可的救命恩人，\n也是重要的家人。
+TalkEvent_19_025ID	7	Flocke	フロッケ	お願いですから……帰ってきてくれませんか？	Flocke	So, please... Won't you come home?	芙洛可	求求你……能不能回来呀？	芙洛可	拜託了……妳能不能回來呢？
+TalkEvent_19_025ID	8	Valeria	ヴァレリア	……やめて！！	Valeria	Stop!	瓦莱莉娅	……别说了！！	瓦萊莉婭	……住口！！
+TalkEvent_19_025ID	9	Flocke	フロッケ	あ――！	Flocke	Ah!	芙洛可	啊——！	芙洛可	啊──！
+TalkEvent_19_025ID	10	Lanze	ランツェ	おい！！　てめえ――	Lanze	Hey! Whaddya think you're doin?!	兰泽	你干什么！！混蛋——	藍澤	喂！！妳這傢伙──
+TalkEvent_19_025ID	11	Heidi	ハイディ	ヴァレリアぁぁぁぁぁっ！！	Heidi	Valeriaaa!	海蒂	瓦莱莉娅——！！	海蒂	瓦萊莉婭──────！！
+TalkEvent_19_025ID	12	Valeria	ヴァレリア	っ！！	Valeria	...!	瓦莱莉娅	唔！！	瓦萊莉婭	唔！！
+TalkEvent_19_025ID	13	Heidi	ハイディ	馬鹿！　ポンコツ！\nいい加減、目を覚ましなよ！	Heidi	Idiot! Blockhead! Moron! Just snap out of it already!	海蒂	笨蛋！蠢货！\n快给我清醒过来啊！	海蒂	笨蛋！真是沒用！\n快點給我清醒過來啦！
+TalkEvent_19_025ID	14	Valeria	ヴァレリア	はあっ……はあっ……	Valeria	*Huff*... *Huff*...	瓦莱莉娅	呼……呼……	瓦萊莉婭	哈啊……哈啊……
+TalkEvent_19_025ID	15	Magda	マクダ	あいつ……	Magda	Hang on, isn't she...?	玛格达	那家伙……	瑪格達	那傢伙……
+TalkEvent_19_025ID	16	Heidi	ハイディ	あっ、待て！　こら！	Heidi	Hey, wait up! Get back here!	海蒂	啊，等等！别跑！	海蒂	啊，站住！喂！
+TalkEvent_19_025ID	17	Heidi	ハイディ	フロッケ、大丈夫？	Heidi	Are you okay, Flocke?	海蒂	芙洛可，你没事吧？	海蒂	芙洛可，妳沒事吧？
+TalkEvent_19_025ID	18	Flocke	フロッケ	……はい	Flocke	Yeah.	芙洛可	我没事……	芙洛可	……嗯。
+TalkEvent_19_025ID	19	Lanze	ランツェ	くそっ。ヴァレリアの奴、天使ちゃんがせっかく\n作った天使料理を……	Lanze	Dammit! I can't believe Valeria'd do that to our little angel's own home cookin'.	兰泽	可恶。瓦莱莉娅把小天使\n辛辛苦苦做的天使料理给……	藍澤	該死，瓦萊莉婭那傢伙居然將小天使\n好不容易做好的天使料理給……
+TalkEvent_19_025ID	20	Magda	マクダ	あいつ、見るからに動揺してたみてぇだ。\nあんなヘボい攻撃を捌けないくらいだしな	Magda	Y'know, it looked like she was shaking back there. And not 'cause she couldn't handle that wimpy blow, either.	玛格达	那家伙看上去似乎有所动摇。\n毕竟连那种蹩脚的攻击都没躲开。	瑪格達	一看就知道那傢伙很心慌意亂，\n畢竟連那麼笨拙的攻擊都應付不了。
+TalkEvent_19_025ID	21	Heidi	ハイディ	悪かったね、ヘボで	Heidi	Look, I'm sorry for sucking, okay?	海蒂	对不起哦，我这么蹩脚。	海蒂	那麼笨拙還真是抱歉啊。
+TalkEvent_19_025ID	22	Brad	ブラッド	どうする？　追うのか？	Brad	So? Should we chase after her?	布莱德	现在怎么办？要去追吗？	布萊德	怎麼辦？要追嗎？
+TalkEvent_19_025ID	23	Lara	ララ	この奥は別の出口に通じていたはず……\n追うのなら急いだほうがよろしいかと	Lara	That path ought to lead to another exit. If you want to follow her, you'd best move quickly.	拉拉	这里边应该还有别的出口……\n要追的话得抓紧了。	拉拉	這裡面應該通往其他出口……\n要追的話，建議加緊腳步比較好。
+TalkEvent_19_025ID	24	Heidi	ハイディ	うん、行こう！	Heidi	Okay! Let's go!	海蒂	嗯，我们走！	海蒂	嗯，走吧！
+TalkEvent_19_026ID	0	Geron	ジェロン	そろそろ目的地のアトリエがある場所だ	Geron	We'll be arriving at the atelier shortly.	杰隆	快到我们的目的地炼金工房了。	傑隆	快要抵達鍊金工房所在的地方了。
+TalkEvent_19_026ID	1	Geron	ジェロン	この先は一層気を付けて進んだほうがいい	Geron	Be sure to pay particular attention to your surroundings.	杰隆	再向前走要更加小心。	傑隆	接下來最好要更加小心前進了。
+TalkEvent_19_026ID	2	Resna	レスナ	はい！	Resna	Of course!	蕾斯娜	知道了！	蕾斯娜	好！
+TalkEvent_19_026ID	3	Resna	レスナ	ここが、アトリエ……？	Resna	This is the atelier...?	蕾斯娜	这里就是……炼金工房？	蕾斯娜	這裡就是鍊金工房……？
+TalkEvent_19_026ID	4	Izana	イザナ	誰もいない……？	Izana	It doesn't look like anyone's here...	伊札娜	一个人都没有……？	伊札娜	沒有任何人在……？
+TalkEvent_19_026ID	5	Geron	ジェロン	む……？	Geron	Hm?	杰隆	唔……？	傑隆	唔……？？
+TalkEvent_19_026ID	6	Firis	フィリス	――っ！？　入り口が！	Firis	Whoa! The entrance!	菲利丝	啊？！入口……！	菲莉絲	──！？入口！
+TalkEvent_19_026ID	7	Sophie	ソフィー	な、なに？　何が始まるの！？	Sophie	Wh-What is it?! What's happening?!	苏菲	怎、怎么回事？要发生什么了吗？！	蘇菲	怎、怎麼了？有什麼事要發生了！？
+TalkEvent_19_026ID	8	Izana	イザナ	魔物が！	Izana	Monsters!	伊札娜	有魔物！	伊札娜	有魔物！
+TalkEvent_19_026ID	9	Plachta	プラフタ	なるほど、まんまと誘い込まれたということですか	Plachta	I see, so it was our turn to be lured.	普拉芙妲	原来如此，我们中了圈套，被引诱到这里来了。	普拉芙妲	原來如此，我們完全是掉入陷阱了啊。
+TalkEvent_19_026ID	10	Walther	ワルター	そういうわけです、あなたは、色々と興味深そうですね	Walther	Yes, precisely. Quite the curious subject, you are.	瓦尔特	没错。你从各种方面来讲，都很令人好奇呢。	瓦爾特	沒錯。妳從各方面來說都好像挺有意思呢。
+TalkEvent_19_026ID	11	Geron	ジェロン	ワルター、アンチュ……	Geron	Walther... Antje...	杰隆	瓦尔特，安洁……	傑隆	瓦爾特、安潔……
+TalkEvent_19_026ID	12	Antje	アンチュ	貴方たちはここで葬ってあげるわ……	Antje	We're going to bury you where you stand.	安洁	我会让你们葬身于此的……	安潔	我要讓你們幾個命喪於此……
+TalkEvent_19_026ID	13	Walther	ワルター	さぁ早いうちに白黒を付けましょう	Walther	Indeed. Let us quickly determine where these last pieces will fall.	瓦尔特	让我们趁早一决胜负吧。	瓦爾特	來吧，趁早做個了斷。
+TalkEvent_19_026ID	14	Izana	イザナ	えっ、味方に攻撃！？	Izana	Huh? Did he just stab his own allies?!	伊札娜	咦，居然攻击自己人？！	伊札娜	咦，攻擊夥伴！？
+TalkEvent_19_026ID	15	Geron	ジェロン	違う。あれを使って魔物を強化しているんだ！	Geron	No, that's how he enhances monsters!	杰隆	不，那是在强化魔物！	傑隆	不對，他是利用那個來強化魔物！
+TalkEvent_19_026ID	16	Resna	レスナ	速いっ！？	Resna	It's so fast!	蕾斯娜	好快！	蕾斯娜	好快！？
+TalkEvent_19_026ID	17	Izana	イザナ	レスナちゃんには近づかせないよ！	Izana	I won't let you get anywhere near Resna!	伊札娜	我不会让你接近蕾斯娜的！	伊札娜	我不會讓妳靠近蕾斯娜的！
+TalkEvent_19_026ID	18	Izana	イザナ	ふっ！	Izana	Hff!	伊札娜	呼！	伊札娜	哼！
+TalkEvent_19_026ID	19	Geron	ジェロン	はあっ！	Geron	Hah!	杰隆	喝啊！	傑隆	喝啊！
+TalkEvent_19_026ID	20	Izana	イザナ	くうううっ、すごい力……！	Izana	Ngh! Man, they're strong!	伊札娜	唔唔唔，好强的力量……！	伊札娜	唔唔唔唔，好強大的力量……！
+TalkEvent_19_026ID	21	Sophie	ソフィー	ねえ、フィリスちゃん！\nもしかして、「あれ」が使えるんじゃない？	Sophie	Hey, Firis! Wouldn't this be a good time to use the you-know-what?	苏菲	对了，菲利丝！\n是不是可以用“那个”啊？	蘇菲	我說，菲莉絲！\n現在是不是可以用「那個」？
+TalkEvent_19_026ID	22	Firis	フィリス	あっ！　確かに！　使ってみましょう！	Firis	Oh! Yeah, good call! It's worth a shot!	菲利丝	啊！的确可以！试试吧！	菲莉絲	啊！的確！嘗試看看吧！
+TalkEvent_19_026ID	23	Sophie	ソフィー	プラフタ！　魔物のほうをお願い！	Sophie	Plachta! Take care of those monsters for us!	苏菲	普拉芙妲！魔物就交给你了！	蘇菲	普拉芙妲！魔物就交給妳了！
+TalkEvent_19_026ID	24	Plachta	プラフタ	ええ、任せてください	Plachta	Of course. You may leave them to me.	普拉芙妲	嗯，包我身上。	普拉芙妲	好，包在我身上。
+TalkEvent_19_026ID	25	Plachta	プラフタ	ふっ――	Plachta	Hff...	普拉芙妲	呼——	普拉芙妲	呼──
+TalkEvent_19_026ID	26	Sophie	ソフィー	みんな！　あとちょっとだけ持ちこたえて！	Sophie	Hang on for just a little longer, everyone!	苏菲	大家再稍微坚持一下！	蘇菲	各位！再撐一下子就好！
+TalkEvent_19_026ID	27	Izana	イザナ	っ！　よーし！	Izana	Okay!	伊札娜	好！	伊札娜	唔！很好～！
+TalkEvent_19_026ID	28	Geron	ジェロン	っ……！	Geron	...!	杰隆	……！	傑隆	唔……！
+TalkEvent_19_026ID	29	Sophie	ソフィー	フィリスちゃん、いくよ！	Sophie	Ready, Firis?	苏菲	菲利丝，要上了哦！	蘇菲	菲莉絲，要上囉！
+TalkEvent_19_026ID	30	Firis	フィリス	はい！　ソフィー先生！	Firis	Yep! Let's do it, Sophie!	菲利丝	好的！苏菲老师！	菲莉絲	好的！蘇菲老師！
+TalkEvent_19_026ID	31		ふたり	やああああああああああっ！	Both	Haaaaaah!	二人	喝啊啊啊啊啊啊啊啊啊！	兩人	嘿啊啊啊啊啊啊啊啊啊啊！
+TalkEvent_19_026ID	32	Izana	イザナ	っとと！	Izana	Whoops!	伊札娜	呀啊啊！	伊札娜	哎呀！
+TalkEvent_19_026ID	33	Plachta	プラフタ	今です！	Plachta	Now!	普拉芙妲	就是现在！	普拉芙妲	趁現在！
+TalkEvent_19_026ID	34	Geron	ジェロン	はあああっ！	Geron	Raaagh!	杰隆	喝啊啊啊！	傑隆	喝啊啊啊！
+TalkEvent_19_026ID	35	Resna	ふたり	てやあああああっ！	Resna	Hyaaah!	蕾斯娜	嘿呀啊啊啊啊啊！	蕾斯娜	呀啊啊啊啊啊啊！
+TalkEvent_19_026ID	36	Izana	イザナ	てやあああああっ！	Izana	Hyaaah!	伊札娜	嘿呀啊啊啊啊啊！	伊札娜	呀啊啊啊啊啊啊！
+TalkEvent_19_026ID	37	Walther	ワルター	なんと！　いったい何をしたのです？	Walther	What in the...?! What did you do?	瓦尔特	怎么会！你们究竟做了什么？	瓦爾特	怎麼會！你們究竟做了什麼？
+TalkEvent_19_026ID	38	Sophie	ソフィー	その剣の力、調べさせてもらったんだ。\nマルローネさんたちが持って帰ってきてくれたからね	Sophie	We studied that dagger you left behind. Marlone and the others made sure to bring it back for research.	苏菲	我们调查了那把剑的力量。\n玛洛娜小姐他们把剑带回去了。	蘇菲	我們調查過那把劍的力量了。\n畢竟瑪洛娜小姐他們都特地幫我帶回來了。
+TalkEvent_19_026ID	39	Walther	ワルター	そうか……あの時に。なるほど、それであらかじめ\n対抗策を用意していたということですか	Walther	From that encounter in the undersea cave. I see... So you prepared countermeasures, then.	瓦尔特	哦……是那个时候。原来是这样，\n所以你们提前准备了对抗的方法啊。	瓦爾特	這樣啊……是那個時候。原來如此，\n所以你們提前擬定了對抗策略。
+TalkEvent_19_026ID	40	Plachta	プラフタ	その手は私たちには通用しませんよ	Plachta	You will not be able to use that trick against us a second time.	普拉芙妲	那一招对我们不起作用哦。	普拉芙妲	你那一招對我們不管用了。
+TalkEvent_19_026ID	41	Resna	レスナ	さすが先輩方！	Resna	Wow! You ladies are amazing!	蕾斯娜	前辈们太厉害了！	蕾斯娜	真不愧是前輩們！
+TalkEvent_19_026ID	42	Antje	アンチュ	勝負はこれからよ	Antje	This is where the real fight starts.	安洁	谁输谁赢，接下来才会见分晓。	安潔	接下來才要定勝負。
+TalkEvent_19_026ID	43	Antje	アンチュ	これ以上、クリセルダの邪魔はさせない……！	Antje	We're not going to let you get in Criselda's way!	安洁	我不会再让你们阻碍克莉赛尔达……！	安潔	不會再讓你們來阻撓克莉賽爾達了……！
+TalkEvent_19_026ID	44	Walther	ワルター	あなたたちとは戦いたくなってきました。\nときめく攻撃をしてくれそうですからね	Walther	I, for one, am itching for a fight. I suspect you'll perform some rather thrilling attacks.	瓦尔特	我现在想和你们战斗了。\n感觉你们会发动让我兴奋的攻击。	瓦爾特	我開始想和你們交手了。\n你們似乎都會發動一些讓我興致昂揚的攻擊呢。
+TalkEvent_19_026ID	45	Resna	レスナ	お相手します。\n極夜の錬金党……これ以上好きにはさせません！	Resna	We're ready to face you. Polar Night Alchemists, this is the last time you'll get to cause any trouble!	蕾斯娜	奉陪到底。\n我们不会让极夜的炼金党继续肆意妄为！	蕾斯娜	我來當你的對手。\n極夜的鍊金黨……別想再猖狂下去了！
+TalkEvent_19_027ID	0	Resna	レスナ	やぁぁぁぁっ！	Resna	Yaaah!	蕾斯娜	呀啊——！	蕾斯娜	喝啊啊啊啊！
+TalkEvent_19_027ID	1	Walther	ワルター	くっ……	Walther	Ngh...!	瓦尔特	唔……	瓦爾特	唔……
+TalkEvent_19_027ID	2	Antje	アンチュ	ワ、ワルター！	Antje	W-Walther!	安洁	瓦、瓦尔特！	安潔	瓦、瓦爾特！
+TalkEvent_19_027ID	3	Izana	イザナ	うなれハンマーっ！	Izana	Roaring hammeeers!	伊札娜	低吼之锤！	伊札娜	怒吼吧，錘子！
+TalkEvent_19_027ID	4	Antje	アンチュ	うっ……！	Antje	Ngh...!	安洁	唔……！	安潔	唔……！
+TalkEvent_19_027ID	5	Izana	イザナ	もう逃がさないよ	Izana	That's it, you're finished.	伊札娜	不会再让你们跑掉了。	伊札娜	不會再讓你們逃走了。
+TalkEvent_19_027ID	6	Antje	アンチュ	う……	Antje	Urgh...	安洁	唔……	安潔	唔……
+TalkEvent_19_027ID	7	Walther	ワルター	く……いいでしょう、ならば次の手を――	Walther	Kh... Very well, we'll have to—	瓦尔特	哼……行吧，那我就用下一招——	瓦爾特	唔……好吧，那就讓你們嘗嘗下一招──
+TalkEvent_19_027ID	8	Walther	ワルター	なっ！	Walther	What?!	瓦尔特	什么！	瓦爾特	什麼！？
+TalkEvent_19_027ID	9	Johanna	ヨハナ	好きにはさせないわよ	Johanna	Nice try! You're not getting away from me!	约翰娜	休想得逞。	約翰娜	我不會讓你為所欲為的。
+TalkEvent_19_027ID	10	Walther	ワルター	っ……どうやら、ここまでのようです	Walther	It would seem that this is indeed the end of the road.	瓦尔特	看来……已经无路可逃了。	瓦爾特	唔……看來是到此為止了。
+TalkEvent_19_027ID	11	Izana	イザナ	捕まえた！　さっすがヨハナ！	Izana	Whoa, you did it! Way to go, Johanna!	伊札娜	抓住了！不愧是约翰娜！	伊札娜	抓到了！真不愧是約翰娜！
+TalkEvent_19_027ID	12	Firis	フィリス	よーし。絶対逃げないように縛っちゃおうか！	Firis	Okay! Let's tie them up so they absolutely can't get away!	菲利丝	好了。把他们绑起来吧，绝对不能让他们逃走！	菲莉絲	好～綁起來吧，絕對不能讓他們逃走！
+TalkEvent_19_027ID	13	Resna	レスナ	ヨハナちゃん、ありがとう！	Resna	Thanks, Johanna!	蕾斯娜	约翰娜，谢谢你！	蕾斯娜	約翰娜，謝謝妳！
+TalkEvent_19_027ID	14	Johanna	ヨハナ	ふふん。もっとほめていいわよ！	Johanna	Heh heh. Go on, keep the praise coming!	约翰娜	呵呵，可以再多夸夸我！	約翰娜	哼哼，可以再多誇我一點喔！
+TalkEvent_19_027ID	15	Johanna	ヨハナ	闇に紛れるのはお手のものなんだから！	Johanna	Lurking in the shadows is my specialty!	约翰娜	我可是最擅长隐匿于黑暗了！	約翰娜	潛伏於黑暗中可是我的拿手絕活！
+TalkEvent_19_027ID	16	Resna	レスナ	お願い、力を貸して――	Resna	Please, lend us your strength!	蕾斯娜	拜托了，请帮帮我——	蕾斯娜	拜託，助我一臂之力吧──
+TalkEvent_19_028ID	0	Juna	ユナ	よし。拠点の内部も徹底的に調べろ！	Juna	All right, it's time to commence a thorough sweep of the base's interior!	尤娜	接下来，把据点内部彻底调查一遍吧！	尤娜	好，據點內部也徹底調查一遍吧！
+TalkEvent_19_028ID	1		騎士Ａ	はっ！	Knight A	Yes, ma'am!	骑士A	好！	騎士A	喝！
+TalkEvent_19_028ID	2	Resna	レスナ	ロマンさん！	Resna	Hey, Roman!	蕾斯娜	罗曼先生！	蕾斯娜	羅曼先生！
+TalkEvent_19_028ID	3	Geron	ジェロン	ワルターとアンチュは騎士たちに引き渡したぞ	Geron	We've handed Walther and Antje over to the knights.	杰隆	瓦尔特和安洁交给骑士们处置了。	傑隆	瓦爾特和安潔已經交給騎士們了。
+TalkEvent_19_028ID	4	Roman	ロマン	ああ。よくやってくれた	Roman	I saw that. Excellent work, everyone.	罗曼	好，干得漂亮。	羅曼	嗯，做得很好。
+TalkEvent_19_028ID	5	Heidi	ハイディ	レスナ！　よかった、こっちもみんな無事みたいだね	Heidi	Resna! Thank goodness, I'm so glad your group made it out safe.	海蒂	蕾斯娜！太好了，你们也都平安无事。	海蒂	蕾斯娜！太好了，看來你們這裡也都平安無事呢。
+TalkEvent_19_028ID	6	Resna	レスナ	ハイディさん！　そちらはどうでしたか？	Resna	Heidi! How did things go on your end?	蕾斯娜	海蒂小姐！你们那边情况怎么样？	蕾斯娜	海蒂小姐！你們那邊情況如何呢？
+TalkEvent_19_028ID	7	Heidi	ハイディ	ヴァレリアと会ったけど、逃げられた。\nかなりの重症だね。正気に戻せなかった……	Heidi	We found Valeria, but she ran off. Whatever's going on with her, it's bad. We couldn't get her to snap out of it at all.	海蒂	我们见到瓦莱莉娅了，可是她却逃走了。\n她实在是病得不轻，我们没能让她清醒过来……	海蒂	雖然有見到瓦萊莉婭，但被她逃了。\n她的情況相當嚴重，無法恢復理智……
+TalkEvent_19_028ID	8	Resna	レスナ	そう、ですか……	Resna	Oh...	蕾斯娜	这样啊……	蕾斯娜	這樣啊……
+TalkEvent_19_028ID	9	Heidi	ハイディ	でも、こっちの言葉はきっと届いてた。\nあと一押しだと思うんだ	Heidi	But I'm sure we'll get through to her eventually! We just need to make one more push.	海蒂	不过，我们已经把想说的都清楚告诉她了。\n之后就差临门一脚了。	海蒂	不過，我們說的話她一定有聽進耳裡。\n應該就差那麼一步了。
+TalkEvent_19_028ID	10	Resna	レスナ	……！\n希望が見えたのなら、よかった……	Resna	...! I'm so glad you still think there's hope.	蕾斯娜	……！\n太好了，看到希望了……	蕾斯娜	……！\n有看見希望就太好了……
+TalkEvent_19_028ID	11	Brad	ブラッド	拠点は制圧したが、首魁は姿をくらましたか	Brad	So, while we've gained control of the base, the ringleader remains at large.	布莱德	我们虽然镇压了据点，却没看到党首的身影啊。	布萊德	雖然攻克了據點，但首腦消失無蹤了嗎？
+TalkEvent_19_028ID	12	Roman	ロマン	ああ。だが、これで主要な拠点はすべて押さえた\nことになる。追い詰めるのも時間の問題だよ	Roman	Right. Still, we've managed to lock down all of their major strongholds. It's only a matter of time before we corner her too.	罗曼	嗯。不过我们已经控制了所有主要据点，\n这样一来，逼出主谋也只是时间的问题了。	羅曼	對，但這樣主要據點都攻克下來了。\n要將他們逼到絕境也只是時間早晚的問題。
+TalkEvent_19_028ID	13	Brad	ブラッド	そう簡単に行くとよいのだがな……	Brad	While it would be nice if things went that smoothly...	布莱德	希望如此吧……	布萊德	但願事情會那麼順利……
+TalkEvent_19_028ID	14	Geron	ジェロン	それについては１つ、\n言っておかなければならないことがある	Geron	I do have one thing to point out regarding that.	杰隆	关于这个我有一点必须要说。	傑隆	關於這一點，有一件事必須先告訴你們。
+TalkEvent_19_028ID	15	Roman	ロマン	ん、なんだい？	Roman	Hm? What is it?	罗曼	嗯？是什么？	羅曼	嗯？什麼事？
+TalkEvent_19_028ID	16	Geron	ジェロン	さっき、アトリエの中を一通り見直してみたが、\n「釜」が無くなっている	Geron	When we took another look at the atelier, I noticed that the cauldron had disappeared.	杰隆	刚才我在炼金工房里重新找了一圈，\n“釜”不见了。	傑隆	我剛才重新在鍊金工房裡看了一圈，\n發現「釜」不見了。
+TalkEvent_19_028ID	17	Resna	レスナ	え、それって錬金釜のことですか！？	Resna	Huh?! You mean the kind that's absolutely integral to performing alchemy?!	蕾斯娜	咦，你是说炼金釜吗？！	蕾斯娜	咦，是鍊金釜嗎！？
+TalkEvent_19_028ID	18	Geron	ジェロン	ああ。恐らく、クリセルダが持ち去ったんだろう	Geron	Exactly. If I had to guess, I would wager that Criselda took it somewhere else.	杰隆	嗯。恐怕是克莉赛尔达拿走了。	傑隆	對，恐怕是被克莉賽爾達帶走了吧。
+TalkEvent_19_028ID	19	Geron	ジェロン	あいつは初めからこの拠点は放棄するつもりで、\n撤退の準備を進めていたのかもしれない	Geron	She likely planned to abandon this base from the beginning, and it would seem that her evacuation is progressing as intended.	杰隆	也许她从一开始就打算放弃这个据点，\n一直在为撤退做准备。	傑隆	那傢伙可能打從一開始就打算放棄這個據點，\n已經在做撤退的準備了。
+TalkEvent_19_028ID	20	Roman	ロマン	なるほど……引き続き警戒は必要だね	Roman	Wonderful... We'll have to be even more cautious from here on out.	罗曼	有道理……之后依然要保持警惕。	羅曼	原來如此……必須繼續保持警戒了。
+TalkEvent_19_028ID	21	Brad	ブラッド	先ほど捕まえた二人が何か知っているかもしれん。\n後で問いただしてみることにしよう	Brad	That pair we captured might know more. Why don't we try interrogating them later?	布莱德	刚才抓住的那两个人也许知道些什么，\n之后盘问一下吧。	布萊德	剛才抓到的那兩人或許知道些什麼。\n之後來盤問看看吧。
+TalkEvent_19_029ID	0	Juna	ユナ	そうか――なに！？	Juna	I see... Wait, come again?!	尤娜	是吗——什么？！	尤娜	這樣啊──什麼！？
+TalkEvent_19_029ID	1	Roman	ロマン	何かあったのか？	Roman	What's wrong, Juna?	罗曼	怎么了？	羅曼	發生什麼事了嗎？
+TalkEvent_19_029ID	2	Juna	ユナ	拠点の地下で、数体の人造頂獣が発見されたそうです。\n今のところ動く気配はなさそうですが……	Juna	Apparently, they've found more man-made Apexi in an underground section of the base. Though, none of them have shown any signs of movement...	尤娜	报告说在据点地下发现了数头人造顶兽。\n不过目前似乎还没有动静……	尤娜	聽說在據點的地底發現了幾頭人造頂獸。\n雖然目前看似沒有任何動靜……
+TalkEvent_19_029ID	3	Roman	ロマン	そうか……。悪い予想は当たるものだね	Roman	Ah, yeah. That's a pretty troubling report either way.	罗曼	是吗……真是怕什么来什么。	羅曼	是嗎……預測壞事往往會成真呢。
+TalkEvent_19_029ID	4	Brad	ブラッド	もし動き始めたら大事になる。\n今のうちに破壊すべきだろう	Brad	If they were to become active, we'd have another major incident on our hands. It would be better to destroy them now and be done with it.	布莱德	一旦它们动起来事情就麻烦了。\n应该趁现在全部破坏掉。	布萊德	牠們一旦動起來會釀成災禍。\n應該趁現在破壞掉才對。
+TalkEvent_19_029ID	5	Resna	レスナ	ま、待ってください！	Resna	H-Hold on just a minute!	蕾斯娜	请、请等一下！	蕾斯娜	請、請等一下！
+TalkEvent_19_029ID	6	Brad	ブラッド	なんだ？	Brad	What is it?	布莱德	怎么了？	布萊德	什麼事？
+TalkEvent_19_029ID	7	Rorona	ロロナ	ものを壊すためだけに、生み出されたんだよね。\n人造頂獣って……	Rorona	Imagine creating something whose sole purpose is to destroy...	萝乐娜	人造顶兽……完全是为了进行破坏\n而被创造出来的吧。	蘿樂娜	人造頂獸……純粹是為了破壞而生的吧。
+TalkEvent_19_029ID	8	Rorona	ロロナ	マルローネさんとも話してたんだけど、\n倒すしかないとはいえ、ちょっと可哀そうだね……	Rorona	I was talking about the Apexi with Marlone. We were saying that we understand we don't really have much of a choice, but getting rid of them feels kind of bad.	萝乐娜	之前我也和玛洛娜聊过，\n虽然必须要打败它们，但感觉有点可怜呢……	蘿樂娜	我也跟瑪洛娜小姐提過，\n雖說只能打倒牠們，但也覺得有點可憐……
+TalkEvent_19_029ID	9	Resna	レスナ	確かに、人造頂獣は危険な存在です。\nでも、命を奪ってしまうのは……	Resna	It's true that the man-made Apexi are dangerous, but...it feels wrong to just kill them.	蕾斯娜	人造顶兽的确是非常危险的存在。\n但不至于夺走它们的性命……	蕾斯娜	的確，人造頂獸是危險的存在。\n但要奪走牠們的性命還是……
+TalkEvent_19_029ID	10	Resna	レスナ	錬金術は、使い方次第で人々を傷つける武器にも、\n人々を癒す薬にもなります	Resna	Alchemy can be a weapon used to harm people, or a medicine that can cure them instead.	蕾斯娜	炼金术根据使用方法不同，既能变成伤害人们的武器，\n也可以化为治愈人们的良药。	蕾斯娜	鍊金術可成為傷害人們的武器，\n也可成為治癒人們的藥品，就看我們如何去使用它。
+TalkEvent_19_029ID	11	Resna	レスナ	あの人造頂獣たちも、それは同じだと思うんです	Resna	The same can apply to those man-made Apexi.	蕾斯娜	我想，那些人造顶兽也是一样的。	蕾斯娜	我想那些人造頂獸也是相同的道理。
+TalkEvent_19_029ID	12	Brad	ブラッド	あれらを平和利用しようと？\n具体的な案はあるのか？	Brad	You intend to use them for peace? And how exactly would you go about that?	布莱德	你是想和平地利用它们？\n有具体的方案吗？	布萊德	妳打算把那些頂獸用在和平用途上？\n有具體的想法嗎？
+TalkEvent_19_029ID	13	Resna	レスナ	主には人の力では難しいこと……\n重い物を運んだりとか	Resna	For the most part, I think they'd be best at doing things that humans would have a hard time with, like carrying really heavy things.	蕾斯娜	主要用来做人力难以完成的事……\n比如搬运重物之类的。	蕾斯娜	主要是人的力量很難辦到的事情……\n例如搬運重物之類的。
+TalkEvent_19_029ID	14	Resna	レスナ	あるいは、資源を採取するために土地を切り開いたり\n大きさを活かして建設に使ったりできるかもしれません	Resna	Maybe they could clear new land for resource development, or use their size to help with construction.	蕾斯娜	或者，为了采集资源去开垦土地，\n发挥它们大体型的优势投入到建设中等等。	蕾斯娜	又或者用來開闢土地採集資源，說不定能讓牠們\n發揮體型的優勢興建設施等等。
+TalkEvent_19_029ID	15	Brad	ブラッド	そう容易く手懐けられるとも思えないが……\n仮に実現できたとして、どう民衆を納得させる？	Brad	While I doubt it would be that easy to tame them... Supposing that it even is possible, how would you convince the public to accept them?	布莱德	我不认为能轻易将它们驯服……\n就算这些都能实现，你要怎么让民众同意？	布萊德	我倒不認為牠們有那麼容易馴服……\n假如真的能辦到，又要如何說服民眾接受？
+TalkEvent_19_029ID	16	Brad	ブラッド	人造頂獣はもはや、国民にとっては破壊の象徴だ。\n受け入れられると思うか？	Brad	In their eyes, the man-made Apexi are already agents of destruction. Do you think that opinion could change?	布莱德	对国民来说，人造顶兽已成为破坏的象征了。\n你觉得大家能接受吗？	布萊德	對國民而言，人造頂獸已是破壞的象徵。\n妳覺得大家會接納牠們嗎？
+TalkEvent_19_029ID	17	Resna	レスナ	それは……	Resna	I...	蕾斯娜	这……	蕾斯娜	這個……
+TalkEvent_19_029ID	18	Brad	ブラッド	私の立場としては、実現は厳しいと判断せざるを得ない	Brad	As seneschal, I think that idea would be much too difficult to implement. I cannot in good faith give my approval.	布莱德	站在我的立场上，我不得不说这很难实现。	布萊德	站在我的立場，只能說這是難以實現的想法。
+TalkEvent_19_029ID	19	Resna	レスナ	実現にあたって障害があることは理解しています。\n人々に受け入れられるのが難しいということも……	Resna	No, I can understand that people wouldn't embrace it at first. And that it wouldn't be an easy plan to put into motion. It's just that...	蕾斯娜	我明白实施起来会有障碍，\n也知道它们很难为人所接受……	蕾斯娜	我明白要實現這個想法會遇到阻礙，\n也知道這很難被人們接受……
+TalkEvent_19_029ID	20	Resna	レスナ	でも、錬金術そのものだって……\n少し前まではそうだったんです	Resna	It wasn't all that long ago that alchemy was met with the same kind of apprehension.	蕾斯娜	可炼金术在不久前也是如此。	蕾斯娜	但是，鍊金術本身……\n在不久前也是如此。
+TalkEvent_19_029ID	21	Resna	レスナ	それが今は、次第に人々に受け入れられ、\n錬金爵という制度まで復活しました	Resna	But it's becoming more and more accepted. I mean, we're even at the point where we have a seneschal of alchemy again.	蕾斯娜	但现在人们也渐渐开始接受，\n还重设了炼金爵这一制度。	蕾斯娜	現在人們逐漸能接受鍊金術，\n連鍊金爵這種制度都恢復了。
+TalkEvent_19_029ID	22	Brad	ブラッド	…………	Brad	...	布莱德	……	布萊德	…………
+TalkEvent_19_029ID	23	Resna	レスナ	たとえば、初めは人が住んでいない未開拓地で\n試験的に運用するというのはどうでしょうか？	Resna	What if we started small? Like, running tests in an undeveloped area, far from anywhere populated.	蕾斯娜	先在没有人类居住的未开发土地上\n实验性地运用一下如何？	蕾斯娜	比方說，一開始在沒有人煙的未開發地區\n嘗試運用看看如何呢？
+TalkEvent_19_029ID	24	Resna	レスナ	そこで人々の役に立つことが証明できれば、\n破壊の象徴という印象は軽減できるかもしれません	Resna	That way, we could prove that the man-made Apexi really are useful, and those negative impressions that the public has would slowly go away.	蕾斯娜	如果能证明对人类有用，\n或许可以减轻它们只会搞破坏这一印象。	蕾斯娜	只要在那裡證明牠們可以幫上人們的忙，\n或許就能減輕牠們是破壞的象徵這種印象了。
+TalkEvent_19_029ID	25	Resna	レスナ	それでも、もし制御しきれず暴れてしまったら……\n私が、責任を持って倒します。然るべき罰も受けます	Resna	Of course, I would take full responsibility if we lost control and one of them did go on a rampage. I'd personally take it down.	蕾斯娜	如果这样它们依然非常凶残，无法控制的话……\n我会负起责任打倒它们，也会接受应得的惩罚。	蕾斯娜	即使如此，牠們仍然脫離掌控而作亂的話……\n我將負起責任消滅牠們，也會承受應得的責罰。
+TalkEvent_19_029ID	26	Resna	レスナ	私は、錬金術の可能性を否定したくないんです。\nブラッドさん。どうか力を貸していただけませんか？	Resna	I just don't want to see alchemy's potential get squandered. Isn't there some way you could lend a hand, Brad?	蕾斯娜	我不想否定炼金术的可能性。\n布莱德先生，能请你帮助我吗？	蕾斯娜	我不想否定鍊金術的可能性。\n布萊德先生，可以拜託你助我一臂之力嗎？
+TalkEvent_19_029ID	27	Brad	ブラッド	……君の考えと覚悟は理解した	Brad	I can see that you have actually thought this through.	布莱德	我理解你的想法和决心了。	布萊德	……我明白妳的考量和決心了。
+TalkEvent_19_029ID	28	Brad	ブラッド	一度、持ち帰って検討させてもらう。\nリヒャルト、調査のために人員が必要だ	Brad	But you'll have to allow me some time to consider it. Richard, I'll require some people to aid in an analysis.	布莱德	先把它们带回去探讨一下吧。\n理查德，我需要做调查的人手。	布萊德	這件事我回去會審慎考慮。\n理查德，我需要進行調查的人手。
+TalkEvent_19_029ID	29	Roman	ロマン	ああ、手配させてもらうよ	Roman	Sure, I'll make the arrangements.	罗曼	好，我会安排的。	羅曼	嗯，我會安排的。
+TalkEvent_19_029ID	30	Resna	レスナ	よろしくお願いします！	Resna	Thank you so much!	蕾斯娜	拜托各位了！	蕾斯娜	拜託你們了！
+TalkEvent_19_030ID	0	Lara	ララ	レスナ。ひとまずはよく頑張りましたわね	Lara	Congratulations on a job well done, Resna.	拉拉	蕾斯娜，你已经做得很好了。	拉拉	蕾斯娜，先跟妳說聲辛苦了。
+TalkEvent_19_030ID	1	Resna	レスナ	ララさんとジェロンさんも、ありがとうございます。\nあの、ワルターさんとアンチュさんは……	Resna	That's thanks to your and Geron's help, really. Um, does anyone know what's happening with Walther and Antje?	蕾斯娜	拉拉小姐、杰隆先生，谢谢你们。\n对了，瓦尔特先生和安洁小姐……	蕾斯娜	我也很謝謝拉拉小姐和傑隆先生。\n那個，瓦爾特先生和安潔小姐他們……
+TalkEvent_19_030ID	2	Sophie	ソフィー	あの二人の治療も一通り終わったけど、\n牢の中で大人しくしてるみたいだよ	Sophie	They've been treated for all of their wounds, and now they're cooling off in the cells.	苏菲	对那两个人的治疗已经结束了，\n现在他们好像老实在牢里待着呢。	蘇菲	那兩人的治療已經全都結束了，\n好像正乖乖地待在牢裡喔。
+TalkEvent_19_030ID	3	Resna	レスナ	ロマンさん！　ブラッドさん！	Resna	Roman! Brad!	蕾斯娜	罗曼先生！布莱德先生！	蕾斯娜	羅曼先生！布萊德先生！
+TalkEvent_19_030ID	4	Roman	ロマン	やあ、レスナ！\nノルト州の拠点に残されていた人造頂獣の件だが……	Roman	Hello, Resna! So, about those man-made Apexi that they found in the Nord base...	罗曼	你好啊，蕾斯娜！\n关于留在诺特州据点内的人造顶兽问题……	羅曼	嗨，蕾斯娜！\n關於留在諾魯特州據點的那些人造頂獸……
+TalkEvent_19_030ID	5	Resna	レスナ	ど、どうなりました！？	Resna	Wh-What's going to happen to them?	蕾斯娜	怎、怎么样了？！	蕾斯娜	結、結果如何呢！？
+TalkEvent_19_030ID	6	Brad	ブラッド	現状維持だ	Brad	They're being preserved for now.	布莱德	维持现状。	布萊德	我們決定維持現狀。
+TalkEvent_19_030ID	7	Brad	ブラッド	安定した運用の目処が立つまで、\n眠らせたまま保護することになった	Brad	There does seem to be a reasonably high possibility that they could be put to reliable use, so they've been assigned guards and left in stasis.	布莱德	在稳定运用的方法有眉目之前，\n我们决定让它们保持沉睡状态，暂时保管。	布萊德	先將牠們以沉眠的狀態保管起來，\n直到有望找到穩定的運用方式為止。
+TalkEvent_19_030ID	8	Resna	レスナ	そうですか……よかった	Resna	Oh, okay. Thank goodness...	蕾斯娜	这样啊……那我就放心了。	蕾斯娜	這樣啊……真是太好了。
+TalkEvent_19_030ID	9	Brad	ブラッド	だが、運用に向けては、あまりに課題が多すぎる。\n私は一刻も早く処分すべきだと思うがな	Brad	That being said, there is a wealth of potential issues that need to be addressed before they can be put to work. Personally, I'm still of the opinion that they should be put down before anything happens.	布莱德	但是要投入使用，需要解决的问题实在太多了。\n我认为应该尽快把它们处分掉。	布萊德	不過在運用方面，實在有太多課題要解決了。\n我是認為應該要儘早處理掉才對。
+TalkEvent_19_030ID	10	Resna	レスナ	検討してくださるだけでも、ありがたいです！	Resna	I'm just glad that you're giving it some serious consideration!	蕾斯娜	能探讨一下我已经很感激了！	蕾斯娜	光是願意研議，我就非常感激了！
+TalkEvent_19_030ID	11	Roman	ロマン	実現できるなら喜ばしいところだけど、\nこればかりは慎重にいかないとね	Roman	While I'd be delighted to see this become a reality, it's a situation that calls for a lot of caution and careful planning.	罗曼	如果能实现自然是件值得高兴的事，\n但此事必须慎重再慎重。	羅曼	如果能實現的話，確實很值得高興，\n但這件事必須慎重些才行。
+TalkEvent_19_030ID	12	Lara	ララ	民を第一に考えるその姿勢、\n一国の王として支持いたしますわ	Lara	As queen of my own country, I support any view that puts its citizens first.	拉拉	作为一国之主，\n我支持你事事以人为本的态度。	拉拉	身為一國君主，我很支持你將人民\n放在第一順位的態度。
+TalkEvent_19_030ID	13	Brad	ブラッド	ふん……	Brad	Hmm...	布莱德	哼……	布萊德	呼……
+TalkEvent_19_030ID	14	Roman	ロマン	理屈っぽいところはあるが、\n国のために、という心意気は本物だよブラッドは	Roman	He might fight you on a lot of things, but no one has better intentions for the kingdom than Bradley.	罗曼	虽然布莱德有点认死理，\n但他为国奉献的精神是实打实的。	羅曼	雖然布萊德有點愛講道理，\n但他是真的很積極地在為國家做打算。
+TalkEvent_19_030ID	15	Brad	ブラッド	リヒャルト。余計なことは言わなくていい	Brad	That's enough, Richard.	布莱德	理查德，不要说些多余的话。	布萊德	理查德，不用說那些多餘的話。
+TalkEvent_19_030ID	16	Resna	レスナ	あはは……	Resna	Ahaha...	蕾斯娜	啊哈哈……	蕾斯娜	啊哈哈……
+TalkEvent_19_030ID	17	Brad	ブラッド	私からは以上だ。続報があればまた知らせる	Brad	Well, that's everything from me. I'll let you know if there are any further developments.	布莱德	我要说的就是这些。如果有进展我会通知你们的。	布萊德	我要說的就這些，有後續消息會再通知你們。
+TalkEvent_19_030ID	18	Resna	レスナ	はい、よろしくお願いします	Resna	Okay, thank you.	蕾斯娜	好的，麻烦了！	蕾斯娜	好的，麻煩你了。
+TalkEvent_19_030ID	19	Roman	ロマン	さて、実はもう１つ用事があってね	Roman	There's one other thing that I wanted to discuss, actually.	罗曼	接下来，其实还有一件事。	羅曼	再來，其實還有一件要事。
+TalkEvent_19_030ID	20	Resna	レスナ	なんでしょう？	Resna	What is it?	蕾斯娜	什么事呀？	蕾斯娜	是什麼事？
+TalkEvent_19_030ID	21	Roman	ロマン	今からアンチュ、ワルターに面会に行くんだ。\nケガの手当ても終わったようだからね	Roman	I'm going to go check in on Antje and Walther next, since they've both recovered from their injuries.	罗曼	我现在要去见安洁和瓦尔特。\n他们的伤应该已经处理好了。	羅曼	我現在要去見安潔和瓦爾特，\n畢竟他們的傷勢似乎都已經治療完畢了。
+TalkEvent_19_030ID	22	Roman	ロマン	レスナも一緒に来てくれ。\nあと、ララとジェロンの二人も	Roman	I was hoping that you could come with me. As well as Lara and Geron.	罗曼	蕾斯娜也一起来吧。\n还有拉拉和杰隆也跟上。	羅曼	蕾斯娜妳也一起來吧。\n還有拉拉和傑隆你們兩個也是。
+TalkEvent_19_030ID	23	Resna	レスナ	はい！	Resna	Of course!	蕾斯娜	好的！	蕾斯娜	好！
+TalkEvent_19_030ID	24	Geron	ジェロン	ああ、分かった	Geron	All right, I understand.	杰隆	好，我明白了。	傑隆	好，我知道了。
+TalkEvent_19_030ID	25	Lara	ララ	大人しく話をしてくれればよいのですが。\nワルターはともかく、アンチュは……	Lara	I do hope that they will be forthcoming. While Walther does tend to be, Antje...	拉拉	希望他们能老实回答。\n先不论瓦尔特，安洁她就很难说……	拉拉	但願他們會老老實實地跟我們聊一聊。\n先別說瓦爾特，安潔她……
+TalkEvent_19_030ID	26	Roman	ロマン	せめて、クリセルダとヴァレリアの行方の\n手掛かりだけでも得られたらいいんだけどね	Roman	Well, if we can get even a small clue as to where Criselda and Valeria might have gone, that's a win in my book.	罗曼	至少希望能拿到克莉赛尔达和瓦莱莉娅行踪的线索。	羅曼	至少能打聽到一些克莉賽爾達\n和瓦萊莉婭去向的線索就好了。
+TalkEvent_19_030ID	27	Resna	レスナ	頑張ってみましょう！	Resna	We'll just have to try!	蕾斯娜	我们加油吧！	蕾斯娜	努力看看吧！
+TalkEvent_19_031ID	0	Walther	ワルター	ヴァレリアなら、クリセルダと合流している\nでしょうね	Walther	Given Valeria's skills, I would imagine that she reconvened with Criselda without issue.	瓦尔特	瓦莱莉娅应该去和克莉赛尔达会合了。	瓦爾特	瓦萊莉婭的話，\n應該是跟克莉賽爾達會合了吧。
+TalkEvent_19_031ID	1	Roman	ロマン	行き先は？　彼女はアトリエから錬金釜を\n持ち出したようだが、それをどこへ？	Roman	Do you know where they were headed? The cauldron went missing, too. Any ideas where that might be?	罗曼	目的地在哪里？她好像从炼金工房\n把炼金釜带走了，究竟带去哪里了？	羅曼	去處呢？她似乎從鍊金工房把鍊金釜帶走了，\n她會去哪裡？
+TalkEvent_19_031ID	2	Walther	ワルター	さぁ。そこまでは知りませんが……	Walther	I honestly couldn't say. However...	瓦尔特	不清楚。我知道的没有那么多……	瓦爾特	不曉得，這個我就不清楚了……
+TalkEvent_19_031ID	3	Walther	ワルター	クリセルダは頂獣の骸を素材として\nさらなる力を得ようとしています	Walther	Criselda intends to synthesize the remains of that Apexi, which would afford her even more power.	瓦尔特	克莉赛尔达试图将顶兽的遗骸作为素材，\n获得更强的力量。	瓦爾特	克莉賽爾達打算將頂獸屍骸當作素材，\n獲得更強大的力量。
+TalkEvent_19_031ID	4	Resna	レスナ	ウェルテックスの骸を！？	Resna	You mean Weltex's remains?!	蕾斯娜	把威尔特克斯的遗骸当作素材？！	蕾斯娜	用威爾特庫斯的屍骸！？
+TalkEvent_19_031ID	5	Roman	ロマン	人造頂獣とはまた別に、ということかい？	Roman	So the man-made Apexi are something else entirely?	罗曼	和人造顶兽不是一回事吗？	羅曼	意思是除了人造頂獸之外，她還有其他目的嗎？
+TalkEvent_19_031ID	6	Walther	ワルター	人造頂獣はあくまで、頂獣の力を応用するための\n実験に過ぎません	Walther	Those were simply exercises in harnessing a similar power.	瓦尔特	人造顶兽顶多算是为了应用顶兽力量而做的实验。	瓦爾特	人造頂獸充其量只是為了\n運用頂獸力量所做的實驗罷了。
+TalkEvent_19_031ID	7	Walther	ワルター	クリセルダは、その結果をもとに研究を進め、\n本物の頂獣を超える力を手にしようとしている	Walther	Using the information gained from those experiments, Criselda intends to furnish herself with abilities that exceed those of a true Apexi.	瓦尔特	克莉赛尔达在实验结果的基础上继续研究，\n想要获得比真正的顶兽还要强大的力量。	瓦爾特	克莉賽爾達根據實驗結果進行研究，\n想要獲得超越真正頂獸的力量。
+TalkEvent_19_031ID	8	Resna	レスナ	そんな。どうしてそこまで……！？	Resna	No! Why would she need to go that far?!	蕾斯娜	不会吧，为什么要做到这个地步……？！	蕾斯娜	怎麼會，為什麼她要做到這個地步……！？
+TalkEvent_19_031ID	9	Walther	ワルター	さあ。クリセルダの渇望、成したいことを\n詳しく聞いたわけではありませんから	Walther	Your guess would be as good as mine. She never discussed her desires in much detail.	瓦尔特	我也不知道。我没有详细问过\n克莉赛尔达的渴望和想要达成的目的。	瓦爾特	不知道，我並沒有詳細地問過克莉賽爾達\n她的渴望和願景。
+TalkEvent_19_031ID	10	Roman	ロマン	聞いてもいないのに、そんな恐ろしい計画に\n加担していたと？	Roman	Wait, you went along with her plans without even knowing what they were?	罗曼	你问都没问，就参加了这么恐怖的计划吗？	羅曼	連問都沒問過，\n就協助她進行那麼可怕的計畫？
+TalkEvent_19_031ID	11	Lara	ララ	極夜の錬金党は、そうした組織ですわ。\n追い求めるのは、あくまで己の渇望のみ	Lara	Why, that is simply who the Polar Night Alchemists are. Everyone's pursuit has always been entirely their own.	拉拉	极夜的炼金党就是这样的组织。\n追求的只不过是自己的渴望。	拉拉	極夜的鍊金黨就是這樣的組織。\n我們追求的終究只是自身的渴望。
+TalkEvent_19_031ID	12	Walther	ワルター	私の渇望とは、錬金術のすべてを知ることです。\n一般には禁忌とされていることも含めて	Walther	Mine is to unravel all the secrets of alchemy—including the aspects that are generally regarded as taboo.	瓦尔特	我所渴望的就是知晓关于炼金术的一切，\n包括那些被视作禁忌的内容。	瓦爾特	我的渴望是了解鍊金術的一切，\n包含一般被視為禁忌的內容。
+TalkEvent_19_031ID	13	Resna	レスナ	禁忌……	Resna	Oh...	蕾斯娜	禁忌的内容……	蕾斯娜	禁忌……
+TalkEvent_19_031ID	14	Walther	ワルター	極夜の錬金党という組織は、\nそういう意味で私にとっては理想の環境でした	Walther	As such, the freedom we had as Polar Night Alchemists made it the ideal organization for me to belong to.	瓦尔特	在这个意义上，极夜的炼金党这个组织\n对我来说是个理想的环境。	瓦爾特	就這層意義而言，極夜的鍊金黨這個組織\n對我來說是理想的環境。
+TalkEvent_19_031ID	15	Resna	レスナ	アメルハウザーの一族の過去が\n何か関係していたりはしませんか？	Resna	Does it have anything to do with the Amelhauser family's history?	蕾斯娜	和亚梅尔豪瑟一族的过去有什么关系吗？	蕾斯娜	會不會和阿默豪森一族的過去\n有什麼關聯呢？
+TalkEvent_19_031ID	16	Walther	ワルター	アメルハウザーが？\n……なるほど、面白い考えですね	Walther	The Amelhausers, you say? Hm, that is a fascinating question.	瓦尔特	亚梅尔豪瑟？\n这样啊……真是个有趣的想法。	瓦爾特	阿默豪森嗎？\n……原來如此，這個想法很有意思。
+TalkEvent_19_031ID	17	Walther	ワルター	確証はありませんが、もしかしたら\nあなたがたの考えは当たっているかもしれませんよ	Walther	While I could not offer any definitive proof, I dare say that you are correct.	瓦尔特	虽然没有确凿的证据，\n但说不定你的想法是对的。	瓦爾特	雖然沒有確鑿的證據，\n但說不定你們的猜測是正確的。
+TalkEvent_19_031ID	18	Walther	ワルター	前に古城で黒いローブの者たちを見たと思いますが、\nどうやら彼らはアメルハウザーの血縁者のようですから	Walther	When I first saw those figures in black robes at the ruined castle, I had the sneaking suspicion that they were members of the Amelhauser bloodline.	瓦尔特	之前我在古堡里看到过身披黑袍的人们，\n他们似乎和亚梅尔豪瑟有血缘关系。	瓦爾特	你們之前應該有在古城看到穿黑色長袍的人，\n他們身上似乎流著阿默豪森的血脈。
+TalkEvent_19_031ID	19	Resna	レスナ	……！　ということはやっぱり、アメルハウザー家が\n目的に大きく絡んでいるということでしょうか	Resna	So they really are connected.	蕾斯娜	这么说来，亚梅尔豪瑟家族\n果然和她的目的有着很大的关系？	蕾斯娜	……！這也就是說，\n她的目的果然跟阿默豪森家族大有關聯嗎？
+TalkEvent_19_031ID	20	Roman	ロマン	ワルター。君は錬金党では古株らしいね。\nクリセルダとの関わりを教えてくれないか？	Roman	Walther, you've been with the Polar Night Alchemists the longest, right? Would you mind telling us everything you know about Criselda?	罗曼	瓦尔特，你好像是炼金党里的老成员了。\n能说说你和克莉赛尔达的关系吗？	羅曼	瓦爾特，你在鍊金黨的資歷似乎很深。\n可以將你和克莉賽爾達的關係告訴我們嗎？
+TalkEvent_19_031ID	21	Walther	ワルター	ええ、まあ。それは構いませんが――	Walther	I suppose I can do that.	瓦尔特	嗯，没问题——	瓦爾特	嗯，可以啊，我倒是無所謂──
+TalkEvent_19_031ID	22	Walther	ワルター	オアゼス州に生まれた私は、砂漠にある遺跡群に\n興味を持ち、考古学の道に進みました	Walther	I was born in Oazes Province. I was intrigued by the ruins in the desert, so I pursued a career in archaeology.	瓦尔特	我出生于奥亚泽斯州，因为对沙漠中的\n遗迹群感兴趣，就选择了研究考古学。	瓦爾特	出生在奧亞塞斯州的我，對沙漠的遺跡群產生了興趣，\n便決定鑽研考古學。
+TalkEvent_19_031ID	23	Walther	ワルター	そして研究のために王都に渡り……\nそこでクリセルダと出会いました	Walther	I came to the capital to further my studies, which is where I first met Criselda.	瓦尔特	为了研究我来到了王都……\n在那里遇到了克莉赛尔达。	瓦爾特	後來為了從事研究，我來到王都……\n在那裡認識了克莉賽爾達。
+TalkEvent_19_031ID	24	Walther	ワルター	その知識量で互いに一目置く存在となりましたが、\n彼女の能力には驚かされましたね	Walther	While we both recognized each other's impressive depth of knowledge, her abilities were far more awe-inspiring.	瓦尔特	因为彼此巨大的知识量，我们十分尊敬对方，\n但我还是对她的能力感到惊讶。	瓦爾特	我們因為雙方的知識涵養而對彼此另眼相看，\n但她的能力也令我很吃驚。
+TalkEvent_19_031ID	25	Walther	ワルター	こんな天才が世の中にいたのか……と	Walther	"""To think that such a genius exists in this world..."" is what I recall one of my initial impressions being."	瓦尔特	世界上居然还有这样的天才……	瓦爾特	不敢相信……這世上居然有如此的天才。
+TalkEvent_19_031ID	26	Antje	アンチュ	……その通りよ。クリセルダはすごいんだから	Antje	Obviously. Criselda's nothing but amazing.	安洁	……没错。克莉赛尔达是很厉害的。	安潔	……沒錯，克莉賽爾達很了不起。
+TalkEvent_19_031ID	27	Roman	ロマン	学友のような存在だったわけか。\n彼女はその頃から錬金術の研究を？	Roman	So you knew each other from school. Was she practicing alchemy back then?	罗曼	原来你们是类似同窗一样的关系啊。\n她那时就在研究炼金术了吗？	羅曼	所以你們是類似學伴的關係啊。\n她從那時候就在研究鍊金術了？
+TalkEvent_19_031ID	28	Walther	ワルター	恐らくそうだったのだとは思いますが、\n当時は知りませんでした	Walther	While I don't doubt that she was, I wasn't aware of it at the time.	瓦尔特	恐怕是的，只不过当时我不知道。	瓦爾特	應該是如此，\n但我當時並不知情。
+TalkEvent_19_031ID	29	Walther	ワルター	私のほうはと言うと、古き学問たる錬金術に心惹かれ、\n寝食も忘れて研究に没頭しました	Walther	Personally, I fell into it through my studies of the ancient world. I became enthralled by alchemy, immersing myself in it so deeply that I would forget to eat or sleep.	瓦尔特	我则是对炼金术这门古老的学问着迷，\n废寝忘食地投入到了研究中。	瓦爾特	至於我的話，則是被鍊金術這門古老學問給深深吸引，\n甚至廢寢忘食地埋頭於研究。
+TalkEvent_19_031ID	30	Roman	ロマン	考古学から錬金術に移っていったんだね	Roman	Ah, so it took you a little while to change disciplines.	罗曼	从考古学移情别恋到炼金术上了啊。	羅曼	從考古學轉移到鍊金術了啊。
+TalkEvent_19_031ID	31	Walther	ワルター	しかし、なにぶん錬金術が廃れて久しい時代ですから、\n変わり者という風評は避けられません	Walther	However, this was during a period in which alchemy had long since fallen out of fashion. Anyone with an interest in it was branded as an eccentric.	瓦尔特	然而，毕竟炼金术已经被淘汰很久了，\n我被当作古怪之人也在所难免。	瓦爾特	但是，畢竟鍊金術早已沒落多年，\n難免會被當作怪胎來看待。
+TalkEvent_19_031ID	32	Walther	ワルター	私は周囲の目が煩わしくなり、故郷の\n人里離れた場所に居を移しました	Walther	I grew tired of the scrutiny and withdrew to a remote region of my home province.	瓦尔特	我厌烦了周围人的目光，\n搬到了故乡远离人烟的地方。	瓦爾特	我對周遭人的目光感到厭倦，\n便移居到故鄉遠離人煙的地方。
+TalkEvent_19_031ID	33	Lara	ララ	あなた……以前からあまり変わりませんのね	Lara	You...haven't changed at all since then, have you?	拉拉	你……一直都没怎么变呢。	拉拉	你……從以前就沒什麼改變呢。
+TalkEvent_19_031ID	34	Walther	ワルター	私は一度も変節をした覚えはありませんよ。\nただ知を求めているだけ……	Walther	No, I have never betrayed my one true desire: the acquisition of knowledge.	瓦尔特	我从未改变自己的信念，只是渴求知识罢了……	瓦爾特	我的信念可從來沒有改變過。\n只是一直在求知而已……
+TalkEvent_19_031ID	35	Walther	ワルター	そして私は少ないマナで調合が可能となる方法を\n求め、研究を続けたのです	Walther	That, and uncovering the most mana-efficient method of synthesis.	瓦尔特	我一直在寻求并研究着\n用少量玛那完成调合的方法。	瓦爾特	而我為了尋找能夠以少量瑪那進行調合的方法，\n持續從事著研究。
+TalkEvent_19_031ID	36	Resna	レスナ	それは！　錬金術士にとっては悲願です！	Resna	There isn't an alchemist alive who doesn't want that!	蕾斯娜	这可是炼金术士的夙愿！	蕾斯娜	這個！對鍊金術士來說是夙願啊！
+TalkEvent_19_031ID	37	Walther	ワルター	ええ。この世界で錬金術を極めたい者にとっては\n最上のものです	Walther	Indeed. Anyone who wishes to reach the pinnacle of alchemy in this world must first surpass that peak.	瓦尔特	没错。对与全世界想要在炼金术上登峰造极的人来说，\n这是最棒的事情了。	瓦爾特	沒錯，對於這世上想精通鍊金術的人而言，\n這是最終心願。
+TalkEvent_19_031ID	38	Roman	ロマン	この地に錬金術の復興を願う者たちにも、だね	Roman	The same goes for anyone looking to revitalize the practice here, too.	罗曼	对想要在这片土地上复兴炼金术的人也是一样。	羅曼	對那些想在這片土地復興鍊金術的人來說也是如此吧。
+TalkEvent_19_031ID	39	Walther	ワルター	そんなある日、どこから聞き付けたのか\nクリセルダが私を訪ねてきたのです	Walther	In any case, word of my studies somehow reached Criselda's ears, and she came to visit me.	瓦尔特	有一天，克莉赛尔达不知\n从哪打听到了我的消息，找上了我。	瓦爾特	就在某一天，克莉賽爾達不知從哪裡打聽到了消息，\n她直接找上門來了。
+TalkEvent_19_031ID	40	Walther	ワルター	そこで、彼女が錬金術について研究し続けていた\nことを知りました	Walther	That was when I first learned that she had been practicing alchemy.	瓦尔特	就是在那时，我得知了她一直在研究炼金术。	瓦爾特	因此，我才得知她一直都在研究鍊金術。
+TalkEvent_19_031ID	41	Walther	ワルター	より研究に邁進できる環境を得るべく、\n私は彼女と共に極夜の錬金党を結成したのです	Walther	We formed the Polar Night Alchemists with the intention of fostering an environment in which we could further our various fields of research.	瓦尔特	为了获得能够进一步进行研究的环境，\n我和她共同成立了极夜的炼金党。	瓦爾特	後來為了能有更好的研究環境，\n我和她聯手組成了極夜的鍊金黨。
+TalkEvent_19_031ID	42	Roman	ロマン	なるほど。組織の立ち上げから関わっていたのか	Roman	I see, so that's how the group came to be.	罗曼	原来如此，你们在组织成立的时候就有交情了。	羅曼	原來如此，你從成立當時就已經參與其中了啊。
+TalkEvent_19_031ID	43	Walther	ワルター	私の研究に、クリセルダの才覚が合わさり……\nついに我々のアトリエが完成した	Walther	Between my research and Criselda's talents, it wasn't long before we had a working atelier.	瓦尔特	我的研究加上克莉赛尔达的才智……\n我们的炼金工房终于建成了。	瓦爾特	我的研究再加上克莉賽爾達的才智……\n最終完成了我們的鍊金工房。
+TalkEvent_19_031ID	44	Walther	ワルター	そして、公には咎められるような研究にも\n自由に打ち込めるようになったのです	Walther	That gave us the freedom to devote ourselves to whatever subjects we wanted to explore, away from any potential censure.	瓦尔特	于是，我可以自由沉浸在那些\n一经公开就会被责难的研究之中了。	瓦爾特	於是，我們也能自由投身於那些\n公開後會遭受譴責的研究了。
+TalkEvent_19_031ID	45	Roman	ロマン	だが、人造頂獣は……クリセルダの目的のために\n創られたものなのだろう？	Roman	But those artificial Apexi... Weren't they made to fulfill Criselda's goals, not yours?	罗曼	可是，人造顶兽是为了实现\n克莉赛尔达的目的被创造出来的吧？	羅曼	不過，人造頂獸……是為了滿足克莉賽爾達的目的\n而創造出來的吧？
+TalkEvent_19_031ID	46	Walther	ワルター	その側面もあります。ですが、私の渇望を満たすにも\n格好の材料でした	Walther	I can see how that arrangement would appear imbalanced, yes. However, it was the perfect way to sate my appetite for knowledge.	瓦尔特	有这方面的原因。\n但它也是能满足我的渴望的绝佳材料。	瓦爾特	是可以這麼說，\n但那同時也是滿足我渴望的最佳材料。
+TalkEvent_19_031ID	47	Antje	アンチュ	ワルターはクリセルダの後輩だから、\n頭が上がらない……という側面もあるわ	Antje	There's also the fact that you'd never be Criselda's equal.	安洁	瓦尔特是克莉赛尔达的后辈，\n所以总是低她一头……也有这方面的原因。	安潔	瓦爾特是克莉賽爾達的後輩，\n所以在她面前抬不起頭……跟這點也有關。
+TalkEvent_19_031ID	48	Walther	ワルター	昔から、よく顎で使われていましたよ	Walther	Mm, she has always been the sort to push people around.	瓦尔特	以前她就总是对我颐指气使的。	瓦爾特	她從以前就老是對我頤指氣使的。
+TalkEvent_19_031ID	49	Walther	ワルター	クリセルダがその先にどんな絵を思い描いていたのか。\nそれは私の知らない世界です	Walther	I did wonder what kind of masterpiece she had in mind, though. That remains a realm that I know nothing about.	瓦尔特	克莉赛尔达究竟在脑中描绘了怎样的蓝图，\n我是不清楚的。	瓦爾特	克莉賽爾達對未來描繪了什麼樣願景呢？\n那是我所未知的世界。
+TalkEvent_19_031ID	50	Walther	ワルター	聞いても話す人ではありませんからね。\nいずれ、明らかになると思ってはいましたが	Walther	She isn't the sort to elaborate, even when asked directly. So, I presumed that all would become clear...eventually.	瓦尔特	就算我问她，她也不会说的。\n不过我想着总有一天会知道的。	瓦爾特	因為她不是那種別人問了就會講的人。\n但我想總有一天會真相大白的。
+TalkEvent_19_031ID	51	Geron	ジェロン	お前、意外と人間くさいところもあるな……	Geron	Huh, so you do have a surprisingly human side.	杰隆	你在某些方面还是挺像个普通人的……	傑隆	沒想到你也有很人性化的一面耶……
+TalkEvent_19_032ID	0	Roman	ロマン	さて、ワルターにアンチュ。本来なら、\n君たちには重い罰を科す必要がある	Roman	Thank you, Walther. Antje. By rights, you both deserve rather severe punishments for your actions.	罗曼	好了，瓦尔特、安洁。\n原本你们应该受到严厉的惩罚。	羅曼	那麼，瓦爾特和安潔，\n照理說，你們應該要受到重罰。
+TalkEvent_19_032ID	1	Roman	ロマン	特に、先の人造頂獣による襲撃事件。\nその主犯格として、追及は避けられないだろう	Roman	Particularly in regard to the previous man-made Apexi attacks. You were the main instigators, and that can't be overlooked.	罗曼	尤其在之前的人造顶兽袭击事件中，\n你们是主犯，必定会被追责。	羅曼	尤其是先前那起人造頂獸襲擊事件，\n你們作為主犯，受到追究是無可避免的。
+TalkEvent_19_032ID	2	Roman	ロマン	だが、同時に君たちは優れた錬金術士でもある。\nその才能を腐らせるのは惜しい	Roman	On the other hand, you've both proven to be incredibly capable alchemists, and it would be a shame to have talent like that rotting in a jail cell.	罗曼	但同时，你们也是优秀的炼金术士，\n你们的才华不应该被浪费。	羅曼	但你們同時也是優秀的鍊金術士，\n讓你們荒廢那一身才能實在太可惜了。
+TalkEvent_19_032ID	3	Roman	ロマン	どうだい？　ララやジェロンのように、我々の下へ\n降り、協力者となるつもりはないだろうか？	Roman	So, how about it? Would you consider bending the knee like Lara and Geron and working for the kingdom instead?	罗曼	如何，要不要像拉拉和杰隆一样，\n成为我们的一员，协助我们？	羅曼	如何？你們願不願意像拉拉和傑隆那樣，\n成為我們麾下的一員，來助我們一臂之力呢？
+TalkEvent_19_032ID	4	Roman	ロマン	人道を外れない限り、研究への支援も約束しよう	Roman	I can promise that you'll be allowed to continue with your research, provided that it doesn't stray too far from morality.	罗曼	只要恪守伦理道德，我愿意为你们的研究提供支持。	羅曼	只要不偏離人道，我承諾會支援你們的研究。
+TalkEvent_19_032ID	5	Walther	ワルター	私の開発した人造頂獣が処分されず、有益な運用を\n模索されていることに、まずは感謝します	Walther	First of all, I would like to thank you for considering that there may be a beneficial application of the artificial Apexi that I designed, instead of simply disposing of them.	瓦尔特	首先，你们没有销毁我研究的人造顶兽，\n而是试图用来造福大众，对此我十分感激。	瓦爾特	首先，我要感謝你們沒有處理掉我開發的人造頂獸，\n還試著尋找一些有益的運用方法。
+TalkEvent_19_032ID	6	Walther	ワルター	それに、あなたがたの側には多くの異邦人もいる。\n研究においても新たな刺激が得られることでしょう	Walther	Moreover, many of the wanderers have aligned themselves with your side. My research would benefit from those fresh opinions.	瓦尔特	再来，你们之中也有很多异邦人，\n应该能给我的研究带来不少新的启发。	瓦爾特	而且，你們這邊有很多異邦人，\n在研究方面也能獲得新的刺激吧。
+TalkEvent_19_032ID	7	Walther	ワルター	ぜひ申し出を受けさせていただきましょう	Walther	As such, I readily accept your offer.	瓦尔特	请务必让我接受你的提议。	瓦爾特	請務必讓我接受你的提議。
+TalkEvent_19_032ID	8	Resna	レスナ	アンチュさんは……どうですか？	Resna	Um, what about you, Antje?	蕾斯娜	安洁小姐呢？愿意加入我们吗？	蕾斯娜	安潔小姐……覺得如何呢？
+TalkEvent_19_032ID	9	Antje	アンチュ	私も……いいわよ	Antje	I...also accept.	安洁	我也……愿意。	安潔	我也……願意。
+TalkEvent_19_032ID	10	Geron	ジェロン	なっ！？	Geron	What?!	杰隆	什么？！	傑隆	什麼！？
+TalkEvent_19_032ID	11	Lara	ララ	あなたが、クリセルダを裏切るというのですか！？	Lara	You would willingly betray Criselda?!	拉拉	你要背叛克莉赛尔达吗？！	拉拉	意思是妳要背叛克莉賽爾達嗎！？
+TalkEvent_19_032ID	12	Antje	アンチュ	そうは言ってない。\nでも……こんな所に閉じ込められてるより、いいわ	Antje	I never said that. But it's better than being stuck in here forever.	安洁	我不是那个意思。\n但是……加入你们总比被关在这种地方好。	安潔	我可沒這麼說。\n不過……總比被關在這種地方好。
+TalkEvent_19_032ID	13	Antje	アンチュ	どうせすぐ……クリセルダが迎えに来てくれるもの	Antje	Besides, Criselda will come for me soon enough.	安洁	反正……克莉赛尔达很快就会来接我回去了。	安潔	反正……克莉賽爾達很快就會來迎接我了。
+TalkEvent_19_032ID	14	Criselda	クリセルダ	今後に備えて――\n１つ、取り決めをしておきましょうか	Criselda	Why don't we set up a provision for the near future?	克莉赛尔达	为今后做准备——\n我们做一个约定吧。	克莉賽爾達	為以後做準備──\n我們來訂個規矩吧。
+TalkEvent_19_032ID	15	Walther	ワルター	取り決め、ですか	Walther	You mean, a contingency plan?	瓦尔特	约定？	瓦爾特	規矩嗎？
+TalkEvent_19_032ID	16	Criselda	クリセルダ	あなたたちがレスナを倒した場合、\nリヒャルト王子は大軍を率いて乗り込んでくる	Criselda	Should you manage to best Resna, Prince Richard will immediately descend upon the base with a large army.	克莉赛尔达	如果你们打倒了蕾斯娜，\n理查德王子必会率大军来袭。	克莉賽爾達	你們要是打倒了蕾斯娜，\n理查德王子就會率領大軍攻進來。
+TalkEvent_19_032ID	17	Criselda	クリセルダ	その時、私が間に合っていなければ、\n急いでここを離れなさい	Criselda	If I have not returned by then, I want you all to distance yourselves with due haste.	克莉赛尔达	万一我没能赶上，你们就立即撤离此地。	克莉賽爾達	如果到那時我沒能趕上，\n你們就趕快離開這裡。
+TalkEvent_19_032ID	18	Antje	アンチュ	クリセルダ……	Antje	Criselda...	安洁	克莉赛尔达……	安潔	克莉賽爾達……
+TalkEvent_19_032ID	19	Walther	ワルター	まあ、やむを得ないでしょう。\n私の研究成果もどこかへ移しておかなければ	Walther	Well, I suppose that would be unavoidable. Though, I would have to move my research results elsewhere.	瓦尔特	唉，也只能如此了。\n还得事先转移一下我的研究成果。	瓦爾特	唉，這也沒辦法吧。\n我的研究成果也得先轉移到其他地方去。
+TalkEvent_19_032ID	20	Criselda	クリセルダ	ただ、もしレスナに負けて捕らえられた場合は……	Criselda	However, should you lose to Resna and get captured...	克莉赛尔达	不过，万一你们输给蕾斯娜，被抓住了……	克莉賽爾達	不過，要是你們輸給蕾斯娜後被抓了……
+TalkEvent_19_032ID	21	Criselda	クリセルダ	あなたたちも恐らく、ララやジェロンのように\n協力を要請される可能性がある	Criselda	I should think it likely that you would be offered a similar proposition to Lara and Geron.	克莉赛尔达	就像拉拉和杰隆一样，\n他们恐怕会主动向你们寻求合作。	克莉賽爾達	他們很可能會像對拉拉和傑隆那樣，\n邀請你們合作。
+TalkEvent_19_032ID	22	Criselda	クリセルダ	その時は、拒否して罰を受けるより、了承して\n身の安全を図ってほしいの	Criselda	In that case, I would far prefer that you accept their terms instead of refusing and suffering the consequences.	克莉赛尔达	待到那时，比起拒绝合作接受惩罚，\n我希望你们接受对方的提议，确保自身的安全。	克莉賽爾達	到那時候，與其拒絕而受罰，\n我希望你們能接受以確保自身安全。
+TalkEvent_19_032ID	23	Antje	アンチュ	そんなの……できないわ	Antje	I can't do that!	安洁	我……做不到。	安潔	那種事……我做不到。
+TalkEvent_19_032ID	24	Criselda	クリセルダ	いいえ。そうして助けに行くまで待っていて	Criselda	You can. All you need to do after is bide your time until I can come collect you.	克莉赛尔达	不是的。我是要你们假意接受，等我去救你们。	克莉賽爾達	不，妳必須這麼做，並等著我去救妳。
+TalkEvent_19_032ID	25	Antje	アンチュ	わ、分かった……	Antje	A-All right.	安洁	我、我知道了……	安潔	知、知道了……
+TalkEvent_19_032ID	26	Criselda	クリセルダ	錬金釜は持っていくから、調合は済ませてね	Criselda	I'll be taking the cauldron with me so I can finish my synthesis.	克莉赛尔达	我要带炼金釜走，调合趁早完成哦。	克莉賽爾達	我會帶走鍊金釜，所以你們先把調合完成。
+TalkEvent_19_032ID	27	Antje	アンチュ	私たちは敗者……今は大人しくしておくわ	Antje	We lost, so I'll behave...for now.	安洁	我们输了……暂时会安安分分的。	安潔	我們是敗者……現在就先安分一點吧。
+TalkEvent_19_032ID	28	Resna	レスナ	（アンチュさんは、あれほどクリセルダさんに\n　こだわっていた……）	Resna	(Going by how much Antje admires Criselda...)	蕾斯娜	（安洁之前那么执着于克莉赛尔达……）	蕾斯娜	（安潔小姐，之前明明對\n　克莉賽爾達小姐那麼執著……）
+TalkEvent_19_032ID	29	Resna	レスナ	ララさん。アンチュさんは……	Resna	Lara, you don't think that Antje...	蕾斯娜	拉拉小姐。安洁小姐她……	蕾斯娜	拉拉小姐，安潔小姐她……
+TalkEvent_19_032ID	30	Lara	ララ	あなたの懸念は分かりますわ。アンチュが、\nそう簡単にクリセルダを諦めるとは思えない	Lara	I know precisely how you feel. No, I don't believe that she would turn her back on Criselda that easily.	拉拉	我理解你的担忧。\n难以想象安洁会如此轻易地抛弃克莉赛尔达。	拉拉	我明白妳的擔憂。安潔不太可能會那麼輕易地\n就放棄克莉賽爾達。
+TalkEvent_19_032ID	31	Lara	ララ	同じように、クリセルダのほうも……	Lara	Nor would Criselda be so quick to abandon her.	拉拉	同样，克莉赛尔达肯定也……	拉拉	同樣的，克莉賽爾達她也是……
+TalkEvent_19_032ID	32	Resna	レスナ	ですよね……	Resna	I didn't think so.	蕾斯娜	说的是啊……	蕾斯娜	我想也是……
+TalkEvent_19_032ID	33	Resna	レスナ	やはり……クリセルダさんをなんとかしなければ\n極夜の錬金党との戦いは終わらないんですね……	Resna	Unless we do something about Criselda, this fight against the Polar Night Alchemists will never end.	蕾斯娜	果然必须想个办法对付克莉赛尔达，\n不然和极夜的炼金党之间的争端永远不会结束……	蕾斯娜	果然……要是不想辦法解決克莉賽爾達小姐，\n與極夜的鍊金黨之間的戰役就不會結束……
+TalkEvent_19_032ID	34	Roman	ロマン	そうだ。もう１つ聞きたいことがある。\nヴァレリアの現在の状態のことだ	Roman	Oh, right. There was one other thing I wanted to ask. Do either of you know what's going on with Valeria?	罗曼	对了，我还有一个问题。\n是关于瓦莱莉娅的现状的。	羅曼	對了，我還有一件事想問，\n是關於瓦萊莉婭現在的狀態。
+TalkEvent_19_032ID	35	Roman	ロマン	我々は君たちによって心を操られ、\n従わされているのだと考えている。どうかな？	Roman	We were all thinking that she'd fallen under the Polar Night Alchemists' control, but is that true?	罗曼	我们认为你们操控了她的精神，\n好让她服从你们。是吗？	羅曼	我們猜測是你們操縱了她的心靈，\n她才會服從你們，是這樣嗎？
+TalkEvent_19_032ID	36	Walther	ワルター	それはあり得ないでしょう	Walther	Absolutely not.	瓦尔特	怎么可能。	瓦爾特	那是不可能的啊。
+TalkEvent_19_032ID	37	Roman	ロマン	なっ！	Roman	Huh?!	罗曼	什么！	羅曼	什麼！？
+TalkEvent_19_032ID	38	Resna	レスナ	で、でも！　ヴァレリアは明らかに様子が\nおかしかった……正気じゃなかったんです！	Resna	B-But, she's obviously acting weird... She can't possibly be in her right mind!	蕾斯娜	可、可是！瓦莱莉娅明显不对劲……\n她不正常！	蕾斯娜	可、可是！瓦萊莉婭的樣子明顯不對勁……\n她看起來不正常！
+TalkEvent_19_032ID	39	Walther	ワルター	ええ。ですが、彼女は我々の下に来た時から\nああでした	Walther	Oh, I don't disagree with that. However, she was like that when she arrived.	瓦尔特	确实。但她来我们这里时，就已经那副样子了。	瓦爾特	對，但她來到我們身邊時，\n就已經是那個狀態了。
+TalkEvent_19_032ID	40	Walther	ワルター	そもそも……心を操るなどと簡単に言いますが、\n具体的にどのような手段を想定しているのですか？	Walther	More to the point... It's easy to chalk things up to a lack of control, but what would have caused that in the first place?	瓦尔特	说到底……操控精神什么的说得轻松，\n你难道知道什么具体的方法吗？	瓦爾特	況且……操縱心靈什麼的說得倒是簡單，\n來具體說一下你們認為我們會用什麼手段呢？
+TalkEvent_19_032ID	41	Walther	ワルター	人の心を操ると言うのは、そう簡単な話ではない。\n錬金術の力をもってしても、です	Walther	Manipulating peoples' hearts and minds is no simple task, even with the power of alchemy.	瓦尔特	操控人的精神绝不简单。\n即便用上炼金术也一样。	瓦爾特	要操縱人心，並不是那麼簡單的事。\n即使擁有鍊金術的力量也一樣。
+TalkEvent_19_032ID	42	Resna	レスナ	確かに、本でも見たことはありませんが……\nクリセルダさんなら何か方法を知っているのではと	Resna	That's true. I've never seen a book suggest that it was possible, but...it didn't seem too outlandish to think that Criselda would know how to do it.	蕾斯娜	的确，书上也没有相关记载……\n但我们怀疑克莉赛尔达是不是知道些什么。	蕾斯娜	的確，我也在從未在書上讀到過……\n原以為克莉賽爾達小姐會知道什麼方法。
+TalkEvent_19_032ID	43	Walther	ワルター	少なくとも私は、クリセルダとそういった方法に\nついて検討したことすらもありませんよ	Walther	Well, I can assure you that mind control was never a topic of our discussions.	瓦尔特	至少就我个人而言，\n我和克莉赛尔达谈都没谈过这类话题。	瓦爾特	至少我從未跟克莉賽爾達討論過妳所謂的那個方法。
+TalkEvent_19_032ID	44	Walther	ワルター	たとえ彼女が錬金術の天才だとしても、\n容易なことではないと思いますがね	Walther	She may be a brilliant alchemist, but I'm fairly confident that would have been beyond her scope.	瓦尔特	哪怕她是个天才炼金术士，\n要做到这种事也绝不容易吧。	瓦爾特	我想就算她是鍊金術的天才，\n那也並非易事。
+TalkEvent_19_032ID	45	Resna	レスナ	でも、じゃあヴァレリアはどうして……	Resna	But then why would Valeria be acting like this?	蕾斯娜	但是，那瓦莱莉娅为什么会……	蕾斯娜	可是，瓦萊莉婭她為什麼會……
+TalkEvent_19_032ID	46	Walther	ワルター	さあ？　私たちに聞かれても答えようがありませんね	Walther	Who could say? Certainly no one here.	瓦尔特	谁知道？我们也没法回答你这个问题。	瓦爾特	誰知道呢？我們問了，她也不願意回答啊。
+TalkEvent_19_033ID	0	Resna	レスナ	ふう……こんなところかな	Resna	Hm... Maybe over here?	蕾斯娜	呼……这样就差不多了吧。	蕾斯娜	呼……差不多就這樣吧？
+TalkEvent_19_033ID	1	Saskia	ザスキア	あら、今日はあなただけ？	Saskia	Goodness, is it just you today?	萨丝琪亚	哎呀，今天只有你在吗？	薩絲琪亞	哎呀，今天只有妳一個人？
+TalkEvent_19_033ID	2	Resna	レスナ	し、師匠！　お久しぶりじゃないですか！	Resna	M-Miss Saskia! It's been ages!	蕾斯娜	师、师父！好久不见！	蕾斯娜	師、師父！好久不見了！
+TalkEvent_19_033ID	3	Saskia	ザスキア	やっほー。元気にしてた？	Saskia	Howdy, Resna. How have you been?	萨丝琪亚	嗨，最近还好吗？	薩絲琪亞	嗨～妳過得好嗎？
+TalkEvent_19_033ID	4	Resna	レスナ	師匠のほうこそ！　このところ姿が見えないので\n心配してたんですよ！	Resna	How have YOU been? I haven't seen you for so long, I was starting to get worried!	蕾斯娜	我才要问你呢！\n这段时间一直没见到你，我很担心呢！	蕾斯娜	我才想問師父！這陣子都沒見到妳，\n我很擔心呢！
+TalkEvent_19_033ID	5	Resna	レスナ	キースグリフさんから聞いたんです。\n師匠の所にクリセルダさんが来たって……	Resna	I ran into Keithgriff, and he said that you'd both fought against Criselda.	蕾斯娜	我听奇斯葛里夫先生说，\n克莉赛尔达去找你了……	蕾斯娜	聽奇斯葛里夫先生說，\n克莉賽爾達小姐之前有去找師父妳……
+TalkEvent_19_033ID	6	Saskia	ザスキア	ああ、そんなこともあったわね	Saskia	Ah, yes. That did happen.	萨丝琪亚	嗯，是有这么一回事。	薩絲琪亞	哦，確實是有這件事。
+TalkEvent_19_033ID	7	Saskia	ザスキア	少しやりあったけど、結局何が目的だったのかは\nよく分からなかったわね	Saskia	Despite that minor scuffle, we didn't manage to shed any light on her plans.	萨丝琪亚	我们稍微打了一架，\n但还是没弄明白她的目的是什么。	薩絲琪亞	雖然和她起了一些衝突，\n但最終還是不清楚她來找我的目的為何。
+TalkEvent_19_033ID	8	Resna	レスナ	クリセルダさんの目的……実は、\n私も今それを考えていたところでして……	Resna	Actually, that's what I was just thinking about.	蕾斯娜	克莉赛尔达的目的……\n其实，我刚刚也在想这个问题……	蕾斯娜	克莉賽爾達小姐的目的……其實，\n我剛剛也正好在思考這件事……
+TalkEvent_19_033ID	9	Saskia	ザスキア	なるほど。熱心に机に向かっていると思ったら、\nそんなことをしていたのね	Saskia	Ah, I see. I was wondering what had you staring so intently at those papers.	萨丝琪亚	这样啊，我看你在埋头苦读，\n原来在考虑那种事啊。	薩絲琪亞	原來如此，才想說妳怎麼在桌前這麼用功，\n原來是在想這個啊。
+TalkEvent_19_033ID	10	Saskia	ザスキア	よかったら、聞かせてもらえる？　あなたの考えを	Saskia	In that case, why don't you try talking me through your current theory?	萨丝琪亚	可以的话，把你的想法跟我说说？	薩絲琪亞	不嫌棄的話，能讓我聽聽妳的想法嗎？
+TalkEvent_19_033ID	11	Resna	レスナ	あ、はい。では、お耳汚し失礼します……	Resna	Oh! Then, if you don't mind...	蕾斯娜	啊，好的。那我就斗胆发表一下自己的看法……	蕾斯娜	啊，好的，那我就不客氣地直說了……
+TalkEvent_19_033ID	12	Resna	レスナ	事の始まりは、恐らくウェルテックスの骸が盗まれた\n事件です。確か、師匠も現場にいたんですよね	Resna	I feel like everything really started when Weltex's remains were stolen. You were there for that, weren't you?	蕾斯娜	一切的开始，应该就是威尔特克斯的遗骸被盗一事。\n我记得，师父你也在现场。	蕾斯娜	事件的開端，很可能是那起威爾特庫斯屍骸遭竊事件。\n我記得師父當時也在現場吧。
+TalkEvent_19_033ID	13	Saskia	ザスキア	私が行った頃にはもう盗まれた後だったけれどね	Saskia	Though, she had already absconded with them by the time I had arrived.	萨丝琪亚	不过我赶过去时，遗骸已经被偷走了。	薩絲琪亞	我去的時候已經被偷了就是。
+TalkEvent_19_033ID	14	Resna	レスナ	その骸を利用して創られたのが、人造頂獣	Resna	I'd thought that they'd used the remains to make the artificial Apexi, but...	蕾斯娜	人造顶兽就是用那具遗骸造出来的。	蕾斯娜	而利用那具屍骸創造出來的，就是人造頂獸。
+TalkEvent_19_033ID	15	Resna	レスナ	ですが、先日ワルターさんから聞いた話では、\n人造頂獣はあくまで実験に過ぎなかったとか	Resna	Going by what Walther told us the other day, those were their own separate experiment.	蕾斯娜	但前些天我听瓦尔特先生说，\n人造顶兽充其量只是一次实验。	蕾斯娜	但前幾天聽瓦爾特先生說，\n人造頂獸不過是他們的實驗而已。
+TalkEvent_19_033ID	16	Resna	レスナ	クリセルダさんの真の狙いは、頂獣の骸を利用して、\n頂獣を超える力を手にすることだと	Resna	He said that what she really wanted it for was power that exceeded an Apexi's.	蕾斯娜	克莉赛尔达真正的目的，是利用顶兽的遗骸，\n获得超越顶兽的力量。	蕾斯娜	克莉賽爾達小姐真正的目標，是利用頂獸的屍骸\n來獲得超越頂獸的力量。
+TalkEvent_19_033ID	17	Saskia	ザスキア	ウェルテックスを調合の素材にするということね。\nまったく、大それたことを考えるものだわ	Saskia	Then she intends to break Weltex down into materials for synthesis. Honestly, what an outrageous scheme.	萨丝琪亚	也就是说把威尔特克斯用作调合的素材对吧。\n还真是个夸张的想法。	薩絲琪亞	也就是把威爾特庫斯當成了調合素材吧。\n真是的，竟然想出這麼荒謬的鬼點子。
+TalkEvent_19_033ID	18	Saskia	ザスキア	この間私が会った時には、王宮の書庫に盗みに入ろうと\nしていたようだけれど	Saskia	When I met her the other day, she had hopes of stealing into the palace archives.	萨丝琪亚	之前我撞见她时，\n她正要去王宫的书库里偷东西。	薩絲琪亞	我前陣子碰到她時，\n她好像正想入侵王宮的書庫偷東西的樣子。
+TalkEvent_19_033ID	19	Resna	レスナ	ああ……確かに、王宮の書庫を開放せよと、\n取引条件を出していました	Resna	She tried making a similar deal with us, actually.	蕾斯娜	嗯……她的确要求我们开放王宫的书库。	蕾斯娜	啊……我記得她確實曾經提出\n開放王宮書庫的交易條件。
+TalkEvent_19_033ID	20	Resna	レスナ	多分、研究のためだったんでしょうね。\n強くなるために、とにかく様々な知識が欲しかった	Resna	I'm guessing that's also related to her research. She wants all sorts of insight into becoming stronger.	蕾斯娜	她应该是为了研究吧。\n想变强的话，总之需要各种各样的知识。	蕾斯娜	那大概是為了研究吧。為了變強，\n無論如何都想獲得各式各樣的知識。
+TalkEvent_19_033ID	21	Saskia	ザスキア	……それで、大きな力を手に入れた上で、\n何をするつもりなのかしらね？	Saskia	I wonder what she intends to do with such power.	萨丝琪亚	那获得了强大的力量后，\n她到底打算做什么呢？	薩絲琪亞	……那麼，獲得強大的力量之後，\n她又想做什麼呢？
+TalkEvent_19_033ID	22	Resna	レスナ	そこがまだはっきりとは分からなくて……\nでも、いくつか手掛かりになりそうなものはあります	Resna	I couldn't say for sure, but...there have been hints here and there.	蕾斯娜	关于这点，我还不太清楚……\n不过，我有一些推测。	蕾斯娜	這部分我還不是很清楚……\n但有幾條消息或許能當作線索。
+TalkEvent_19_033ID	23	Resna	レスナ	クリセルダさんは、この世界には何者かの意志が\n働いているように思えると、そう言っていました	Resna	Criselda said that she thinks this world is operating according to someone's will.	蕾斯娜	克莉赛尔达说，这个世界是被某种意志所引导的。	蕾斯娜	克莉賽爾達小姐說過，\n她認為這個世界是照著某人的意志在運轉。
+TalkEvent_19_033ID	24	Saskia	ザスキア	何者かの意志……？	Saskia	Did she now?	萨丝琪亚	某种意志……？	薩絲琪亞	某人的意志……？
+TalkEvent_19_033ID	25	Resna	レスナ	最初聞いた時はよく分からなかったのですが……\n同じようなことをキースグリフさんも仰っていまして	Resna	I didn't really understand what she meant at first, but Keithgriff mentioned something similar.	蕾斯娜	我一开始也不明白……\n但奇斯葛里夫先生也说了同样的话。	蕾斯娜	我第一次聽到時還不太懂……\n但奇斯葛里夫先生也說過類似的話。
+TalkEvent_19_033ID	26	Resna	レスナ	異邦人の方から見ると、この世界には不可解な箇所が\nいくつかあるといいます	Resna	From the wanderers' perspectives, there are a lot of things in this world that just don't make any sense.	蕾斯娜	在异邦人看来，\n这个世界有很多无法解释的地方。	蕾斯娜	他說從異邦人的角度來看，\n這個世界存在著一些令人費解的現象。
+TalkEvent_19_033ID	27	Resna	レスナ	クリセルダさん自身は、古くからある家系の出身だそう\nですし、異邦人ではないでしょうけれど……	Resna	Criselda belongs to a long-established family, so she couldn't possibly be a wanderer, but...	蕾斯娜	克莉赛尔达出身于历史悠久的家族，\n应该并非异邦人……	蕾斯娜	據說克莉賽爾達小姐是出身於一個古老的家族，\n而且她應該不是異邦人……
+TalkEvent_19_033ID	28	Resna	レスナ	それと同じ疑念をクリセルダさんも、\n抱いているということなのかもと……	Resna	I think she harbors the same suspicions that they do.	蕾斯娜	但我认为，克莉赛尔达或许抱有\n和异邦人相同的疑问……	蕾斯娜	但對此她或許也抱有相同的疑問……
+TalkEvent_19_033ID	29	Saskia	ザスキア	その疑念を晴らすために、力が必要ということ？	Saskia	So she requires power to dispel these doubts?	萨丝琪亚	所以她寻求力量，是为了解答心中的疑问？	薩絲琪亞	所以她是為了解開這個疑問，才需要力量的？
+TalkEvent_19_033ID	30	Resna	レスナ	それは分かりません……。ただ、考えなしに\n力を求めるような人でもないと思うんです	Resna	I don't know, but I don't think she's the sort of person to seek power for power's sake.	蕾斯娜	这我就不知道了……不过，\n我不认为她是那种毫无理由就寻求力量的人。	蕾斯娜	這我不清楚……但我認為她並不是一個\n不經思考就盲目追求力量的人。
+TalkEvent_19_033ID	31	Resna	レスナ	あとは直接、本人に聞いてみます	Resna	I guess I'll just have to try asking her myself.	蕾斯娜	剩下的，我会当面问她。	蕾斯娜	之後我想直接問她本人。
+TalkEvent_19_033ID	32	Resna	レスナ	錬金術の正しさを証明するためにも……\n一度、しっかりと決着を付けてから	Resna	Then, we can finally settle this and prove how to use alchemy the right way.	蕾斯娜	我会先好好地和她做个了断……\n这也是为了证明炼金术的正道。	蕾斯娜	為了證明鍊金術的正確性……\n我想跟她徹底做一次了斷後再問。
+TalkEvent_19_033ID	33	Saskia	ザスキア	……そうね	Saskia	Indeed.	萨丝琪亚	是啊……	薩絲琪亞	……妳說得對。
+TalkEvent_19_033ID	34	Saskia	ザスキア	レスナ。あなたならきっと大丈夫。\n自分の信じる道を進みなさい	Saskia	If anyone can do it, it's you, Resna. Walk the path you believe in.	萨丝琪亚	蕾斯娜，你一定没问题的。\n坚持自己坚信的道路吧。	薩絲琪亞	蕾斯娜，妳一定沒問題的。\n就朝著自己堅信的道路前進吧。
+TalkEvent_19_033ID	35	Resna	レスナ	はい。ありがとうございます、師匠	Resna	I will! Thank you, Miss Saskia.	蕾斯娜	嗯！谢谢您，师父。	蕾斯娜	好的，師父謝謝妳。
+TalkEvent_19_033ID	36	Valeria	ヴァレリア	クリセルダ……	Valeria	Criselda...	瓦莱莉娅	克莉赛尔达……	瓦萊莉婭	克莉賽爾達……
+TalkEvent_19_033ID	37	Criselda	クリセルダ	ヴァレリア。無事に合流できてよかったわ	Criselda	Valeria. I'm so glad you made it here safely.	克莉赛尔达	瓦莱莉娅，还好我们顺利会合了。	克莉賽爾達	瓦萊莉婭，能順利跟妳會合真是太好了。
+TalkEvent_19_033ID	38	Criselda	クリセルダ	アンチュたちが気になるけど……\nあなただけでも逃げてこられたんだもの	Criselda	While I'm concerned about Antje, you're the only one who would have been able to successfully escape.	克莉赛尔达	虽然也很担心安洁他们……\n不过至少你逃出来了。	克莉賽爾達	雖然很擔心安潔他們……\n但至少妳順利逃出來了。
+TalkEvent_19_033ID	39	Valeria	ヴァレリア	そうね……	Valeria	Yeah.	瓦莱莉娅	是啊……	瓦萊莉婭	是啊……
+TalkEvent_19_033ID	40	Criselda	クリセルダ	さて、この後は……	Criselda	Now then, our next step is...	克莉赛尔达	那么，接下来……	克莉賽爾達	那麼，接下來……

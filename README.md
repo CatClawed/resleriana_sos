@@ -1,12 +1,8 @@
-This repo is intended for any translation efforts for the game. When I got more info I'll give more info.
+This repo is intended for any translation efforts for the game. If you want raw text without my processing, I recommend just using [resleriana-db](https://github.com/theBowja/resleriana-db), which is the foundation of this repo. If you want to run `get_dialogue.py` or `masterdata.py`, you are expected to have a local copy somewhere. I thought to have this all download from github, but had a hiccup doing that.
 
-The script I use is jank. I could have been smart and just piggybacked off an existing script, but reading the work of others is scary and I was having fun.
+Masterdata is not an exhaustive search for every string in those files, I know I missed some.
 
-There's something funny about AtelierTalk names, and yes a lot of CityTalkEvent files are broken, as well as a few TalkEvent. I just have txt files where things broke instead of CSV.
-
-Still need to test results more teehee.
-
-idk I'm tired I can work out more details later. work in progress.
+I attempted to sort and group the events into fewer files. I do not promise the order is perfect, but I left the source file in one of the columns so you'd never be lost.
 
 TalkEvent is JP only from 20 onward. This will likely change before global EOS.
 
@@ -21,7 +17,7 @@ TalkEvent is JP only from 20 onward. This will likely change before global EOS.
 | Onsen  | 006  |
 | Dragon Bride  | 007  |
 | Summer | 008  |
-| some jp event lol | 009 |
+| Christmas 2024 | 009 |
 
 
 | Event  | LegendEvent Range |

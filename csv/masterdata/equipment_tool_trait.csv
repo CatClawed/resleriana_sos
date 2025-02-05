@@ -1,0 +1,74 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	与ダメージ上昇	Dealt Damage Boost	造成伤害提升	給予傷害上升
+2	スキル威力上昇	Skill Power Up	技能威力提升	技能威力上升
+3	斬ダメージ上昇	Slash Damage Boost	斩击伤害提升	斬傷害上升
+4	打ダメージ上昇	Strike Damage Boost	打击伤害提升	打傷害上升
+5	突ダメージ上昇	Stab Damage Boost	突刺伤害提升	突傷害上升
+6	火ダメージ上昇	Fire Damage Boost	火伤害提升	火傷害上升
+7	氷ダメージ上昇	Ice Damage Boost	冰伤害提升	冰傷害上升
+8	風ダメージ上昇	Air Damage Boost	风伤害提升	風傷害上升
+9	雷ダメージ上昇	Bolt Damage Boost	雷伤害提升	雷傷害上升
+10	物理ダメージ上昇	Physical Damage Boost	物理伤害提升	物理傷害上升
+11	魔法ダメージ上昇	Magic Damage Boost	魔法伤害提升	魔法傷害上升
+12	ブレイク中ダメージ上昇	Stunned Damage Up	破防中伤害提升	破防中傷害上升
+13	ブレイクダメージ上昇	Stun Damage Boost	破防伤害提升	破防傷害上升
+14	物理ブレイクダメージ上昇	Physical Stun Damage Boost	物理破防伤害提升	物理破防傷害上升
+15	魔法ブレイクダメージ上昇	Magic Stun Damage Boost	魔法破防伤害提升	魔法破防傷害上升
+16	ブレイクダメージ上昇【背水】	Stun Damage Boost [Resolve]	破防伤害提升【残血】	破防傷害上升【殘血】
+17	ブレイクダメージ上昇【渾身】	Stun Damage Boost [Full]	破防伤害提升【满血】	破防傷害上升【滿血】
+18	斬耐性上昇	Slash Resistance Up	斩击耐性提升	斬耐性上升
+19	打耐性上昇	Strike Resistance Up	打击耐性提升	打耐性上升
+20	突耐性上昇	Stab Resistance Up	突刺耐性提升	突耐性上升
+21	火耐性上昇	Fire Resistance Up	火耐性提升	火耐性上升
+22	氷耐性上昇	Ice Resistance Up	冰耐性提升	冰耐性上升
+23	風耐性上昇	Air Resistance Up	风耐性提升	風耐性上升
+24	雷耐性上昇	Bolt Resistance Up	雷耐性提升	雷耐性上升
+25	物理耐性上昇	Physical Resistance Up	物理耐性提升	物理耐性上升
+26	魔法耐性上昇	Magic Resistance Up	魔法耐性提升	魔法耐性上升
+27	単体攻撃威力上昇	Single Attack Power Up	单体攻击威力提升	單體攻擊威力上升
+28	全体攻撃威力上昇	All-Target Attack Power Up	全体攻击威力提升	全體攻擊威力上升
+29	全体攻撃耐性上昇	All-Target Attack Resistance Up	全体攻击耐性提升	全體攻擊耐性上升
+30	物理ダメージ上昇【背水】	Physical Damage Boost [Resolve]	物理伤害提升【残血】	物理傷害上升【殘血】
+31	物理ダメージ上昇【渾身】	Physical Damage Boost [Full]	物理伤害提升【满血】	物理傷害上升【滿血】
+32	魔法ダメージ上昇【背水】	Magic Damage Boost [Resolve]	魔法伤害提升【残血】	魔法傷害上升【殘血】
+33	魔法ダメージ上昇【渾身】	Magic Damage Boost [Full]	魔法伤害提升【满血】	魔法傷害上升【滿血】
+34	全耐性上昇【背水】	All Resistances Up [Resolve]	全耐性提升【残血】	全耐性上升【殘血】
+35	魔法耐性上昇【渾身】	Magic Resistance Up [Full]	魔法耐性提升【满血】	魔法耐性上升【滿血】
+36	物理耐性上昇【渾身】	Physical Resistance Up [Full]	物理耐性提升【满血】	物理耐性上升【滿血】
+37	回復量上昇【渾身】	Recovery Boost [Full]	恢复量提升【满血】	回復量上升【滿血】
+38	回復量上昇【背水】	Recovery Boost [Resolve]	恢复量提升【残血】	回復量上升【殘血】
+39	回復量上昇	Recovery Boost	恢复量提升	回復量上升
+40	単体回復量上昇	Single Recovery Boost	单体恢复量提升	單體回復量上升
+41	全体回復量上昇	All Recovery Boost	全体恢复量提升	全體回復量上升
+42	魔法耐性上昇【D】	Magic Resistance Up [D]	魔法耐性提升【D】	魔法耐性上升【D】
+43	物理耐性上昇【D】	Physical Resistance Up [D]	物理耐性提升【D】	物理耐性上升【D】
+44	物理/魔法耐性アップ強化【D】	Enhanced P./M. Resistance Up [D]	物理/魔法耐性提升强化【D】	物理/魔法耐性上升強化【D】
+45	ダメージバフ強化【A】	Enhanced Damage Buff [A]	伤害增益强化【A】	傷害增益強化【A】
+46	ダメージバフ強化【B】	Enhanced Damage Buff [B]	伤害增益强化【B】	傷害增益強化【B】
+47	回復量上昇【D】	Recovery Boost [D]	恢复量提升【D】	回復量上升【D】
+48	物理/魔法耐性ダウン強化	Enhanced P./M. Resistance Down	物理/魔法耐性下降强化	物理/魔法耐性下降強化
+49	物理/魔法耐性アップ強化	Enhanced P./M. Resistance Up	物理/魔法耐性提升强化	物理/魔法耐性上升強化
+50	ぷにダメージ軽減	Reduced Puni Damage	噗尼伤害减轻	噗尼傷害減輕
+51	獣ダメージ軽減	Reduced Beast Damage	野兽伤害减轻	獸類傷害減輕
+52	精霊ダメージ軽減	Reduced Spirit Damage	精灵伤害减轻	精靈傷害減輕
+53	水棲ダメージ軽減	Reduced Aquatic Damage	水生伤害减轻	水棲傷害減輕
+54	鳥ダメージ軽減	Reduced Bird Damage	鸟类伤害减轻	鳥類傷害減輕
+55	ぷにダメージ上昇	Puni Damage Boost	噗尼伤害提升	噗尼傷害上升
+56	獣ダメージ上昇	Beast Damage Boost	野兽伤害提升	獸類傷害上升
+57	精霊ダメージ上昇	Spirit Damage Boost	精灵伤害提升	精靈傷害上升
+58	水棲ダメージ上昇	Aquatic Damage Boost	水生伤害提升	水棲傷害上升
+59	鳥ダメージ上昇	Bird Damage Boost	鸟类伤害提升	鳥類傷害上升
+60	クリティカルダメージ上昇	Critical Damage Up	暴击伤害提升	重擊傷害上升
+61	バーストスキル威力上昇	Burst Skill Power Up	爆发技能威力提升	爆發技能威力上升
+62	被回復量上昇	Received Recovery Up	所受恢复量提升	接受回復量上升
+63	スキル2威力上昇	Skill 2 Power Up	技能2威力提升	技能2威力上升
+64	鳥ブレイクダメージ上昇	Bird Stun Damage Boost	鸟类破防伤害提升	鳥類破防傷害上升
+65	属性耐性ダウン強化【雷】	Enhanced Resistance Down [Bolt]	属性耐性下降强化【雷】	屬性耐性下降強化【雷】
+66	属性耐性ダウン強化【氷】	Enhanced Resistance Down [Ice]	属性耐性下降强化【冰】	屬性耐性下降強化【冰】
+67	WEAK時ブレイクダメージ上昇	Stun Damage Up on Weakness	WEAK时破防伤害提升	WEAK時破防傷害上升
+68	スキル2ブレイクダメージ上昇	Skill 2 Stun Damage Up	技能2破防伤害提升	技能2破防傷害上升
+69	属性耐性ダウン強化【火】	Enhanced Resistance Down [Fire]	属性耐性下降强化【火】	屬性耐性下降強化【火】
+70	属性耐性ダウン強化【突】			
+71	雷スキル威力上昇			
+72	氷スキル威力上昇			
+73	風スキル威力上昇			

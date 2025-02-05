@@ -1,0 +1,495 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_00_001ID	0	???	？？？	……やっぱりここ、持ってる地図に載ってない場所だわ	???	I knew it. This place is not shown anywhere on our map.	？？？	……果然，我的地图上没有这个地方。	？？？	……這裡果然是我手中地圖上沒記載的地方。
+LegendEvent_00_001ID	1	???	？？？	こんなことってあるのかしら……。\nうーん、どうしようかな	???	What is this place...? Oh, what to do?	？？？	怎么会……\n唔，这下该怎么办。	？？？	居然還會有這種事嗎……\n嗯～該怎麼辦呢？
+LegendEvent_00_001ID	2	Lilie	リリー	（――あたしの名前はリリー。\nついこの間までザールブルグという街にいた、錬金術士）	Lilie	(—My name is Lilie.\nI am an alchemist who, up until recently, lived in the town of Salburg.)	莉莉	（——我叫莉莉。\n　是一名炼金术士，不久前还生活在萨尔布鲁克镇。	莉莉	（──我的名字是莉莉，是個鍊金術士。\n　不久前還待在一個名為薩爾布魯克的城鎮中。）
+LegendEvent_00_001ID	3	Lilie	リリー	（ザールブルグでは、錬金術を街に広め、\n錬金術の学校を作るという大きな目標を達成した）	Lilie	(In Salburg, I popularized alchemy enough to even start my own school, achieving one of my biggest goals.)	莉莉	（我在萨尔布鲁克不仅成功普及了炼金术，\n　还达成了创办炼金术学校这一伟大目标。）	莉莉	（而我在薩爾布魯克實現了一個遠大的目標，\n　就是在城鎮中推廣鍊金術，並創立一所鍊金術學校。）
+LegendEvent_00_001ID	4	Lilie	リリー	（そのまま街に留まることもできたけど……\nあたしは新しい目標のために、街を出ることにした）	Lilie	(I could have stayed longer... However, I decided to leave the town to pursue a new goal.)	莉莉	（我其实可以一直生活在那里……\n　但为了实现新目标，我还是离开了。）	莉莉	（雖然我也可以直接留在城鎮裡……\n　但為了新目標，我決定離開。）
+LegendEvent_00_001ID	5	Lilie	リリー	（新しい目標、それはいまだ錬金術の存在が知られて\nいない土地で、再び錬金術を教え広めること！）	Lilie	(That new goal? To spread alchemy to lands yet unknown!)	莉莉	（而我的新目标，就是去一个无人知晓炼金术的地方，\n　传授与普及炼金术的知识！）	莉莉	（我的新目標，就是在至今對鍊金術仍一無所知的\n　土地上，再次推廣並傳授人們鍊金術！）
+LegendEvent_00_001ID	6	Lilie	リリー	（そうして自由な旅に出たまではよかったんだけど……）	Lilie	(At least, that was what I had hoped...)	莉莉	（能像这样自由自在地旅行倒是不错，可是……）	莉莉	（然後一開始踏上自由旅途的感覺確實很好啦……）
+LegendEvent_00_001ID	7	Lilie	リリー	（どこなんだろう、ここ。目が覚めたら\n　突然知らない場所にいたなんて……）	Lilie	(Where is this? I woke up only to find myself in an unknown place.)	莉莉	（这是哪里啊。一觉醒来竟然发现\n　自己身在一个陌生的地方……）	莉莉	（不過這裡是哪裡啊？\n　一覺醒來，突然發現自己在一個陌生的地方……）
+LegendEvent_00_001ID	8	Lilie	リリー	（……まあ、いっか！\n　元々、なんのあてもない旅路だったんだし）	Lilie	(Well, no matter! I was not traveling anywhere in particular, anyway.)	莉莉	（不过也好……！\n　这本来就是一场没有目的地的旅行。）	莉莉	（……不過算了！\n　反正我原本就沒有決定旅途的目的地。）
+LegendEvent_00_001ID	9	Lilie	リリー	（これもきっと何かの機会よ。なんとかなるわ！）	Lilie	(This must be some chance of fate. I'll be fine!)	莉莉	（这可能也是个好机会，船到桥头自然直嘛！）	莉莉	（這肯定也是一個機會，船到橋頭自然直！）
+LegendEvent_00_001ID	10	Lilie	リリー	まずは人のいる場所を探さなくっちゃ！\nよーし、行くわよー！	Lilie	First, I must find somewhere with people!\nAll right, let's go!	莉莉	首先得去找找哪里有人！\n好——出发！	莉莉	首先得找到有人的地方才行！\n好～出發吧！
+LegendEvent_00_001ID	11	Lilie	リリー	旅の錬金術士。熱中しやすい性格で、\n錬金術を独学で覚えた経緯を持つ	Lilie	A traveling alchemist who tends to get carried away. Her alchemy is self-taught.	莉莉	正在旅行的炼金术士。容易热衷于某事而忘我，\n自学炼金术成才。	莉莉	旅行中的鍊金術士，性格容易熱衷於某些事物，\n因此過去是透過自學習得鍊金術的。
+LegendEvent_00_002ID	0	Lilie	リリー	あ、山道が……！　整備されてるみたいだし、\n近くに人里がありそうね	Lilie	Oh, a mountain pass! It seems well-maintained. Perhaps there are people living nearby.	莉莉	啊，有条山路……似乎被好好养护过，\n看来附近应该有人居住。	莉莉	啊，是山路……！這看上去好像有人在整頓，\n附近應該有村落。
+LegendEvent_00_002ID	1	Lilie	リリー	わぁ！	Lilie	Whoa!	莉莉	哇！	莉莉	哇！
+LegendEvent_00_002ID	2	Lilie	リリー	山の中にこんな村があるなんて。\n素敵そうな所……	Lilie	A village out in the middle of the mountains. And so very pretty...	莉莉	深山里居然还有这么个村子。\n这地方可真不错啊……	莉莉	山裡居然有這樣的村莊。\n好漂亮的地方……
+LegendEvent_00_002ID	3		老人	おや？　見かけない顔だね？	Senior Citizen	Oh? Not a familiar face, are we?	老人	嗯？没见过你呢。	老人	哦？妳好像是生面孔？
+LegendEvent_00_002ID	4	Lilie	リリー	こんにちは！　そうなんです、旅をしていて……。\n綺麗な村ですね	Lilie	Hello! Yes, I'm on a journey, actually... This is such a beautiful village.	莉莉	你好！是这样的，我正在四处旅行……\n这村子真漂亮啊。	莉莉	你好！是的，我是一個旅行者……\n這個村子真是漂亮呢。
+LegendEvent_00_002ID	5		老人	ほほ、それはどうも。ここはフリーゲンっていってね。\nご覧の通り、豊かな自然が自慢の村さ	Senior Citizen	Why, thank you. This is the village of Friegen. As you can tell, we pride ourselves on the nature around us.	老人	呵呵，多谢夸奖。这里叫作弗里根。\n如你所见，是个山明水秀的小村庄。	老人	哦，謝謝妳的誇獎，這裡叫做弗里岡。\n如妳所見，我們村莊最以豐富的自然環境為傲呢。
+LegendEvent_00_002ID	6		老人	美味しいものもいっぱいあるよ。\nもし旅で疲れているならゆっくりしていきな	Senior Citizen	We have plenty of delicious food as well. You must be tired from your journey. Go on, rest up.	老人	这里还有不少好吃的。\n要是旅途劳累，就好好在这里放松放松吧。	老人	我們還有很多美食喔。\n如果妳旅途累了，就在這裡好好休息一下吧。
+LegendEvent_00_002ID	7	Lilie	リリー	はい！　ありがとうございます！	Lilie	Thank you very much!	莉莉	好的！谢谢！	莉莉	好的！謝謝你！
+LegendEvent_00_002ID	8		少女	……うう。ぐすっ……	Girl	Urgh. *Sniffle*	少女	呜呜……嘤……	少女	……嗚嗚……
+LegendEvent_00_002ID	9		少女	ぐすっ……お母さん……	Girl	*Sniffle* Mommy...	少女	嘤……妈妈……	少女	嗚嗚……媽媽……
+LegendEvent_00_002ID	10	Lilie	リリー	ねえ、どうしたの？	Lilie	Hey, what's wrong?	莉莉	嗯？你怎么了？	莉莉	那個，妳怎麼了呢？
+LegendEvent_00_002ID	11		少女	ぐすっ……。お母さんが……。\nお母さんが、死んじゃう	Girl	*Sniffle* My mommy... She's gonna die.	少女	嘤……妈妈她……\n妈妈她要不行了。	少女	嗚嗚……我媽媽……\n我媽媽要死掉了。
+LegendEvent_00_002ID	12	Lilie	リリー	ええっ！？　ど、どうして！？	Lilie	What?! Wh-Why?!	莉莉	什么？！为、为什么？！	莉莉	咦！？為、為什麼！？
+LegendEvent_00_002ID	13		少女	病気になって、倒れちゃったの……！\nぐすっ……	Girl	She got sick and fell over! *Sniffle*	少女	妈妈得了病，一病不起了……！\n嘤……	少女	媽媽生病倒下了……！\n嗚嗚……
+LegendEvent_00_002ID	14	Lilie	リリー	そ、それは……。\nそれで、あなたは何を……？	Lilie	Wh-What? So, why are you here...?	莉莉	天、天啊……\n那你又在这里做什么……？	莉莉	有、有這種事……\n那妳在做什麼呢……？
+LegendEvent_00_002ID	15		少女	お母さんを診てくれた人が、もしかしたら効くかもって\n教えてくれたから、この草を……	Girl	The person looking after Mommy said these leaves might help her get better...	少女	给妈妈看病的人说，\n这种草或许对妈妈的病有效，所以我就……	少女	幫媽媽看病的人跟我說，\n這種草也許能治媽媽的病……
+LegendEvent_00_002ID	16	Lilie	リリー	（見たことない草だけど、\n　この辺りの薬草……ってことかしら）	Lilie	(I haven't seen these before. Maybe it's a local medicinal herb...?)	莉莉	（没见过的品种，\n　是这附近特有的药草吗……）	莉莉	（我沒看過這種草，\n　是生長在這一帶的藥草嗎……？）
+LegendEvent_00_002ID	17		少女	あんまり見つからなかったけど……\nおうちに戻らなきゃ……。ぐすっ	Girl	I didn't find a lot... But I need to go back home... *Sniffle*	少女	虽然没找到多少……\n但我得快点回家了……嘤……	少女	雖然沒找到多少……\n但我得回家了……嗚嗚。
+LegendEvent_00_002ID	18	Lilie	リリー	（なんだか放っておけないわ。\n　少し様子を見に行ってみよう）	Lilie	(That's just too much for her to do. I should check on her later.)	莉莉	（有点放心不下。\n　跟过去看看吧。）	莉莉	（總覺得不能放著不管，\n　去她家看看情況好了。）
+LegendEvent_00_002ID	19	Lilie	リリー	（あたしも、錬金術士として少しは\n　役に立てるかもしれないし）	Lilie	(As an alchemist, I might be able to help her in some way.)	莉莉	（我毕竟也是炼金术士，\n　或许能帮上一点忙。）	莉莉	（我身為鍊金術士，\n　說不定也能幫上一點忙。）
+LegendEvent_00_003ID	0	Lilie	リリー	確かこっちに行ったと思うんだけど……	Lilie	I think she must have gone this way.	莉莉	她好像往这边走了……	莉莉	我記得她是朝這個方向走的……
+LegendEvent_00_003ID	1		少女	薬草って、これじゃない？\n少ししか見つからなかったけど……	Girl	Is this the medicinal herb? I could only find a little bit...	少女	是这种药草对吧？\n但我只找到了这些……	少女	這是妳說的藥草嗎？\n我只找到一點點就是了……
+LegendEvent_00_003ID	2	Resna	レスナ	これで合ってるよ。でも本当に効くかどうかは……	Resna	That's just right. Though, I'm not sure if it will work...	蕾斯娜	没错。但我也不确定是不是真的有效……	蕾斯娜	就是這個喔，但是不是真的能治病就……
+LegendEvent_00_003ID	3	Lilie	リリー	こんにちは。ちょっとお話いいかしら？	Lilie	Hello. May I have a word?	莉莉	不好意思。可以稍微聊一下吗？	莉莉	妳好，可以跟妳說幾句話嗎？
+LegendEvent_00_003ID	4	Lilie	リリー	偶然この村に立ち寄ったんだけど、\n病人がいるって聞いたから気になって	Lilie	I happened to stumble across this village, and I couldn't help but hear that there were some sick people. Is that true?	莉莉	我偶然路过这个村子，\n听说有人得了病，有些在意就跟了过来。	莉莉	我偶然路過這個村子，\n聽到這裡有位病人，還滿擔心的。
+LegendEvent_00_003ID	5	Lilie	リリー	その子から少しだけ話は聞いたわ。\nお母さんの具合が良くないそうだけど……？	Lilie	I heard the story from that child. Apparently her mother is not doing well.	莉莉	那孩子告诉了我一些事，\n她母亲的身体状况似乎不太好……？	莉莉	那女孩有稍微跟我提到一些狀況，\n聽說她媽媽的病情不太樂觀……？
+LegendEvent_00_003ID	6	Resna	レスナ	はい、村のお医者様にも診てもらったのですが\nこの風土病には、これといった治療法はなく……	Resna	Yes, we've had the village doctors look at her, but there's no cure for this endemic...	蕾斯娜	是的。虽然请村医来看了一下，\n但这种地方病没有治疗方法……	蕾斯娜	是的，雖然村裡的醫生也為她看過病，\n但這地方流行病並沒有適當的治療方式……
+LegendEvent_00_003ID	7	Lilie	リリー	風土病？	Lilie	Endemic?	莉莉	地方病？	莉莉	地方流行病？
+LegendEvent_00_003ID	8	Resna	レスナ	はい、他の地方ではあまり聞かない病気なんです。\n人によって差は結構ありますが……	Resna	Yes, it's a relatively local illness, unfortunately. People can react differently to it.	蕾斯娜	是的。这种病在其他地区鲜有耳闻，\n而且症状也因人而异……	蕾斯娜	沒錯，在其他地區很少聽到有這樣的疾病。\n而且病情的嚴重程度因人而異……
+LegendEvent_00_003ID	9	Resna	レスナ	軽症であっても、高熱と全身の痛みがひどい……\nかなり辛い状態が続く病です	Resna	Even with minor symptoms, a high fever and body aches are normal. I hear it can be fairly painful.	蕾斯娜	患者即便症状轻微，也会高烧不退且全身剧痛……\n一旦得了就会非常难受。	蕾斯娜	即便是輕症，也會發高燒和全身疼痛得厲害……\n這個病會使人長期陷入痛苦的狀態。
+LegendEvent_00_003ID	10	Lilie	リリー	そこまで分かってる病気なのね……。\n特効薬みたいなものはないのかしら？	Lilie	So we know that much about it... Is there any sort of medicine that works well against it?	莉莉	明明对这种病都了解得这么透彻了……\n就没有什么特效药吗？	莉莉	原來妳們對這個病這麼了解啊……\n難道就沒有特效藥之類的嗎？
+LegendEvent_00_003ID	11	Resna	レスナ	残念ながらそういったものはまだ……。でも昔から、\n多少の効き目を示した薬草があるって話だけは残ってて	Resna	Not yet, unfortunately... But our ancestors spoke of an effective herbal medicine.	蕾斯娜	很遗憾，现阶段还没有……\n只是传说这种药草对这种病会有些效果。	蕾斯娜	很遺憾，這病目前還無藥可治……\n但從以前倒是流傳有種藥草多少會起些功效。
+LegendEvent_00_003ID	12	Lilie	リリー	なるほどね……。\nそれでその子が薬草を探していたのね	Lilie	I see... So that's why the girl was looking for herbs.	莉莉	原来是这样……\n所以她才在找那种药草啊。	莉莉	原來如此……\n所以她才會去找藥草啊。
+LegendEvent_00_003ID	13	Lilie	リリー	……あなたのその様子だと、\nお母さんの状態は……	Lilie	You make it sound as if the mother... As if she's...	莉莉	不过……看你这样子，\n她母亲目前的状况似乎……	莉莉	……從妳現在的神情來看，\n她媽媽的狀態……
+LegendEvent_00_003ID	14	Resna	レスナ	……予断を許さない状況なのは確かです	Resna	We have no room for error. That is all I can say.	蕾斯娜	她的病情……确实不容乐观。	蕾斯娜	……現在的狀態確實不容樂觀。
+LegendEvent_00_003ID	15		少女	え、ど、どういう意味……？	Girl	Huh? Wh-What do you mean...?	少女	咦，什、什么意思……？	少女	咦？那、那是什麼意思……？
+LegendEvent_00_003ID	16	Lilie	リリー	何でもないわ、安心して。\nきっと、良くなる方法があるはずだから	Lilie	Nothing to worry about. We will find a cure, I promise.	莉莉	没事的，你放心吧。\n一定会有办法治好你妈妈。	莉莉	沒什麼意思，妳放心。\n一定會有方法讓妳媽媽好起來的。
+LegendEvent_00_003ID	17	Resna	レスナ	あの……あなたはお医者様なんですか？	Resna	Are... Are you a doctor?	蕾斯娜	请问……你是医生吗？	蕾斯娜	請問……妳是醫生嗎？
+LegendEvent_00_003ID	18	Lilie	リリー	ううん、あたしは錬金術士よ。薬とかも作るから、\n何かできることがあるかもしれないと思って	Lilie	No, but I am an alchemist. I can make medicine as well, so there must be something I can do.	莉莉	不，我是个炼金术士，有过炼药的经历，\n所以我说不定能帮上一些忙。	莉莉	不是，我是鍊金術士。\n但也會製作一些藥物，我想或許能幫上什麼忙。
+LegendEvent_00_003ID	19	Resna	レスナ	れ、錬金術士っ！！	Resna	A-An alchemist?!	蕾斯娜	炼、炼金术士！！	蕾斯娜	妳、妳是鍊金術士！！
+LegendEvent_00_003ID	20	Lilie	リリー	ひゃっ！？	Lilie	Eeek!	莉莉	呀？！	莉莉	呀啊！？
+LegendEvent_00_003ID	21	Resna	レスナ	はっ！　す、すみません！\nそんな場合じゃないのに、いつもの癖でつい	Resna	Oh! I-I'm so sorry! This isn't the time for that, I know.	蕾斯娜	啊！不、不好意思！\n我知道现在不是说这个的时候，可还是习惯性地激动了。	蕾斯娜	啊！對、對不起！明明現在不是這樣做的時候，\n但平時的壞習慣讓我忍不住……
+LegendEvent_00_003ID	22	Resna	レスナ	それでは、お言葉に甘えて１つお手伝いを\nお願いしてもよろしいでしょうか？	Resna	In that case, may I ask you a favor?	蕾斯娜	既然如此，可以请你帮我一个忙吗？	蕾斯娜	既然妳都這麼說了，\n那可以請妳幫我們做一件事嗎？
+LegendEvent_00_003ID	23	Lilie	リリー	もちろん！　それで、何をすればいいの？	Lilie	Of course! What should I do?	莉莉	当然可以！我需要做些什么呢？	莉莉	當然沒問題！妳們要我做什麼呢？
+LegendEvent_00_003ID	24	Resna	レスナ	実は、この子が集めた薬草から何か効果のある薬を\n作れるかもしれないと思っていたんです	Resna	I believe we may be able to create an effective medicine from the herbs this child has collected.	蕾斯娜	其实用这孩子采来的药草，\n说不定能炼出些有效的药来。	蕾斯娜	其實我在想，\n她蒐集來的藥草說不定能製成什麼有效的藥。
+LegendEvent_00_003ID	25	Resna	レスナ	ただ、フリーゲンの中では薬にできるほどの\n量は生えていなそうで……	Resna	However, the herbs growing in Friegen won't amount to much...	蕾斯娜	弗里根村中的药草数量\n还不足以制成药物……	蕾斯娜	只不過在弗里岡裡，\n這種藥草的生長量好像還不足以製成藥物……
+LegendEvent_00_003ID	26	Resna	レスナ	でも郊外に比較的、群生してる場所が\nあった気がするんです	Resna	There may be more growing on the outskirts of town, though.	蕾斯娜	但郊外可能会有这种药草丛生的地方。	蕾斯娜	但我感覺它們在郊外\n有些地方的生長數量比較多。
+LegendEvent_00_003ID	27	Resna	レスナ	なので、一緒に来て薬草を探していただけると\n助かります	Resna	As such, I was hoping you could come with me to look for more herbs.	蕾斯娜	所以我想请你一起来帮忙寻找药草。	蕾斯娜	所以，\n如果妳能一起來找藥草就太好了。
+LegendEvent_00_003ID	28	Lilie	リリー	それならあたしの得意分野ね。\nあ、あたしはリリーよ。あなたの名前は？	Lilie	That would be my area of expertise. Oh, my name's Lilie, by the way. Yours?	莉莉	那我可太擅长啦。\n对了，我叫莉莉。你呢？	莉莉	那就是我擅長的領域了。\n啊，我是莉莉，妳叫什麼名字呢？
+LegendEvent_00_003ID	29	Resna	レスナ	申し遅れました。私はレスナといいます。\nリリー先輩と同じ、錬金術士です！	Resna	Apologies. My name is Resna. I am an alchemist just as you are, Miss Lilie!	蕾斯娜	忘了说了，我叫蕾斯娜。\n和莉莉前辈一样，也是炼金术士！	蕾斯娜	抱歉還沒有自我介紹，我叫做蕾斯娜。\n和莉莉前輩妳一樣是個鍊金術士！
+LegendEvent_00_004ID	0	Lilie	リリー	最後は、これでどうっ！？	Lilie	How about this?	莉莉	最后，尝尝这个吧！	莉莉	最後用這個怎麼樣！？
+LegendEvent_00_004ID	1	Resna	レスナ	鮮やかなお手並み、勉強になります！\nそれにさっきのクラフトは特別製でしたよね？	Resna	Splendid display! So much to learn. And that last craft, was that special-made?	蕾斯娜	太厉害了，实在是受益良多！\n刚才的诡雷，是前辈特制的对吧？	蕾斯娜	真是精湛的手法，我受教了！\n而且剛剛的卡夫是特製的吧？
+LegendEvent_00_004ID	2	Lilie	リリー	うん、素材の比率を変えて威力を上げてあったんだ	Lilie	Yes. I changed the ratio of the materials, boosting its power.	莉莉	嗯，我调整了素材占比，提升了些许威力。	莉莉	嗯，我更改素材的比例，提高了威力。
+LegendEvent_00_004ID	3	Resna	レスナ	熟練の技が光る一品だったんですね。\nあの完成度、できるなら間近で見てみたかったです	Resna	A wonderful technique. I wish I could have seen it more up close.	蕾斯娜	看样子是熟练制作者才能制作出的成品啊。\n如此完美的作品，真想在近距离好好观察一番。	蕾斯娜	這成品充分展現出妳熟練的技巧呢。\n可以的話，真想近距離見識一下那完成度。
+LegendEvent_00_004ID	4	Lilie	リリー	あはは。そこまで言われるほどじゃないし、\nできるならレスナに見せてあげたかったけどね	Lilie	Ahaha. It isn't so special, really. It would have been nice to show you, I admit.	莉莉	哈哈，也没有你说的那么厉害啦。\n有机会我倒是很乐意让你看一看。	莉莉	啊哈哈，沒有蕾斯娜說得那麼厲害啦。\n不過如果可以，我也想給妳看看呢。
+LegendEvent_00_004ID	5	Lilie	リリー	でも元の世界から持ってきたクラフトはあれで最後。\nまったく同じものを作るのは、もう難しいだろうなあ	Lilie	But that was the last of the crafts from my home world. I'm not sure if I can create an exact replica.	莉莉	不过刚才的诡雷是从我那个世界带过来的最后一颗。\n想再做个一模一样的恐怕很困难吧。	莉莉	只是剛才的那個卡夫是我從原本世界帶來的最後一個。\n要做出完全相同的東西恐怕已經非常困難了。
+LegendEvent_00_004ID	6	Lilie	リリー	……まさかここが、マナっていうものがないと\n調合ができない世界だったなんて考えもしなかったわ	Lilie	I never expected mana would be required to perform synthesis in this world.	莉莉	毕竟……真的没想到这里居然是个\n需要玛那才能调合的世界。	莉莉	……因為我壓根沒想過，\n這個世界居然沒有瑪那就無法調合。
+LegendEvent_00_004ID	7	Resna	レスナ	異邦人の方々からすれば、やっぱり困惑しますよね。\nこれまで難なく錬金術を使えていたのに……	Resna	An outsider might find it a bit troubling, I suppose. Alchemy must be so easy for you...	蕾斯娜	对异邦人来说确实很为难吧。\n明明之前能毫不费力地使用炼金术……	蕾斯娜	從各位異邦人而言，這一點果然很傷腦筋呢。\n畢竟以前可以輕易地使用鍊金術的……
+LegendEvent_00_004ID	8	Lilie	リリー	まあ、そうね……	Lilie	Yes, indeed...	莉莉	嗯，是啊……	莉莉	嗯，對啊……
+LegendEvent_00_004ID	9	Lilie	リリー	（今まで積み重ねてきた錬金術がまったく\n　使えないとは思わなかったから驚いたけど）	Lilie	(I never expected to be completely unable to use any of the alchemy I've learned.)	莉莉	（没想到自己积累至今的炼金术\n　完全派不上用场，真是吃了一惊。）	莉莉	（沒想到我學習運用至今的鍊金術\n　完全派不上用場，真是嚇了一跳。）
+LegendEvent_00_004ID	10	Lilie	リリー	（でもそれって初めてザールブルグに\n　やって来た時と同じだし）	Lilie	(But it also reminds me of when I came to Salburg the first time.)	莉莉	（不过这和我刚到萨尔布鲁克的时候\n　情况也差不了太多。）	莉莉	（不過這和我第一次\n　來到薩爾布魯克時的狀況相同。）
+LegendEvent_00_004ID	11	Lilie	リリー	（むしろ異国の怪しい術だと疎まれることもあったのを\n　考えれば、すでに錬金術があるだけマシよね）	Lilie	(In fact, compared to being persecuted for using strange magic, it's nice to have fellow alchemists around.)	莉莉	（考虑到炼金术曾被人认为是异国邪术而不受待见，\n　这里光是存在炼金术就已是万幸了。）	莉莉	（鍊金術曾被認為是異國妖術，自己也因此受到\n　旁人排擠。這樣想來，這裡有鍊金術已經很不錯了。）
+LegendEvent_00_004ID	12	Lilie	リリー	（大丈夫、どうってことない。望むところだわ）	Lilie	(No problem at all. I can handle this.)	莉莉	（没事，现在的情况不算什么，倒不如说正合我意。）	莉莉	（沒事的，這算不上什麼，正合我意。）
+LegendEvent_00_004ID	13	Resna	レスナ	あの、慣れない土地で何度も魔物と戦って、さすがの\n先輩もお疲れですよね！？　少し休憩しましょう	Resna	Fighting strange creatures in a strange land all day must make you so tired, Miss Lilie! Perhaps we should take a rest.	蕾斯娜	人生地不熟，还和魔物战斗了那么多次，\n前辈你也累了吧？！稍微休息一下吧。	蕾斯娜	就算像前輩這麼厲害的人，在不熟悉的土地上\n多次和魔物戰鬥應該也累了吧？我們稍微休息一下吧。
+LegendEvent_00_004ID	14	Lilie	リリー	あ、ありがとう。\nところで、その先輩っていう呼び方は……？	Lilie	"Th-Thank you. By the way, why do you call me ""Miss""...?"	莉莉	啊、谢谢关心。\n不过，你为什么要叫我前辈……？	莉莉	謝、謝謝妳。\n話說回來，妳稱呼我為前輩是……？
+LegendEvent_00_004ID	15	Resna	レスナ	私にとって錬金術はこの上なく素晴らしい技術！	Resna	To me, there is no skill more fantastic than alchemy!	蕾斯娜	对我来说，炼金术是最伟大的技术，没有之一！	蕾斯娜	因為對我來說鍊金術是最偉大的技術！
+LegendEvent_00_004ID	16	Resna	レスナ	そしてその錬金術を使いこなす方々は、\n尊敬をこめて、すべからく先輩と呼ぶべきかと！	Resna	Those who manage to master alchemy should be respectfully acknowledged as such!	蕾斯娜	而对于能够将炼金术运用自如的各位，\n理所应当满怀尊敬地以前辈相称！	蕾斯娜	所以我覺得像妳們這些精通鍊金術的人，\n我都應該滿懷尊敬地稱為前輩！
+LegendEvent_00_004ID	17	Lilie	リリー	うーん。先生って呼ばれたことはあるけど、先輩って\n呼ばれるのは初めてだから、なんだかくすぐったいわ	Lilie	"I mean, I have been called ""Professor"" before. But ""Miss""? Seems a little old-fashioned."	莉莉	唔——之前有人叫过我老师，\n但被叫作前辈还是第一次，总觉得有些不好意思。	莉莉	嗯～以前有人叫過我老師，\n但被稱呼為前輩還是第一次，總覺得有點難為情呢。
+LegendEvent_00_004ID	18	Resna	レスナ	先生！？　リリー先輩は、元の世界では\n教鞭を執っていらしたんですか！？	Resna	"""Professor""?! Have you mentored students before, Miss Lilie?!"	蕾斯娜	老师？！莉莉前辈在原来的世界\n居然还教书育人吗？！	蕾斯娜	老師！？莉莉前輩在原本的世界裡\n是擔任教師一職的嗎！？
+LegendEvent_00_004ID	19	Lilie	リリー	教鞭は……執ってないかも？\n学校を建ててすぐに旅に出ちゃったし	Lilie	Students...? Not quite. I left on my journey as soon as I started up the school.	莉莉	教书育人……好像也没有？\n我建立了学校，但建好后很快就踏上旅途了。	莉莉	或許……稱不上是教師吧？\n畢竟學校建起來後，我就馬上去旅行了。
+LegendEvent_00_004ID	20	Resna	レスナ	学校を、建てた……！？	Resna	Started up...a school?!	蕾斯娜	建立学校……？！	蕾斯娜	妳建了學校……！？
+LegendEvent_00_004ID	21	Lilie	リリー	そう。ザールブルグって街にね。\n「錬金術を広めよ」って使命を授かっていたから	Lilie	"Right. In a town called Salburg. I was told to ""spread the good of alchemy,"" if you can imagine."	莉莉	是啊。就在一处名为萨尔布鲁克的城镇上。\n因为我的使命就是“普及炼金术”。	莉莉	沒錯，在薩爾布魯克這個城鎮喔。\n因為我受命要「推廣鍊金術」。
+LegendEvent_00_004ID	22	Lilie	リリー	最初は苦労したなぁ。\n錬金術自体がまったく知られてない所だったからね	Lilie	What a difficult time that was. No one even knew alchemy existed.	莉莉	一开始可非常辛苦哦。\n那地方对炼金术没有任何概念。	莉莉	一開始可是吃盡苦頭啊。\n畢竟那個地方連鍊金術究竟是什麼都沒人知道。
+LegendEvent_00_004ID	23	Lilie	リリー	当然、錬金術士なんてどこにもいなかったし、\nまず知ってもらうところから始めて……	Lilie	Of course, that meant they did not know of alchemists, either. So I started by introducing myself...	莉莉	当然也不可能有炼金术士，\n所以起初只能先让大家从认识炼金术开始……	莉莉	當然不管哪裡都沒有鍊金術士，\n我得先從讓大家認識鍊金術開始做起……
+LegendEvent_00_004ID	24	Lilie	リリー	資金調達にも奔走したし、どっちかというと錬金術\n以外のことばかりしていたような気もするわ。あはは	Lilie	I even helped with gathering funds. Now that I think of it, I did a lot of jobs that weren't quite alchemy-related. Haha.	莉莉	之后还为筹备资金四处奔波，\n做的事好多都和炼金术一点关系都没有呢。啊哈哈。	莉莉	那時也為了籌措資金四處奔走的，真要說的話，\n我感覺自己好像淨做一些鍊金術以外的事，啊哈哈。
+LegendEvent_00_004ID	25	Resna	レスナ	錬金術が知られてない場所に、錬金術の学校を……。\nすごい……リリー先輩は目標を達成したんですね	Resna	To start an alchemy school, in a place where alchemy was unknown... Wow, Miss Lilie. You truly are a capable person.	蕾斯娜	在炼金术不为人知的地方，建立了炼金术学校……\n太厉害了……莉莉前辈最后得偿所愿了啊。	蕾斯娜	在一個鍊金術無人知曉的地方創建鍊金術的學校……\n太厲害了……莉莉前輩妳實現目標了呢。
+LegendEvent_00_004ID	26	Resna	レスナ	あの、実は私も錬金術をもっと世に広めたいと\n思っているんです	Resna	Um, actually. I've been hoping to spread alchemy across the world as well.	蕾斯娜	其实，我也想在这个世界传播炼金术。	蕾斯娜	其實，我也想要推廣鍊金術\n讓更多人認識它。
+LegendEvent_00_004ID	27	Resna	レスナ	まだ先は長いですが……きっといつか、みんなが\n錬金術の良さを分かってくれるはずだって……	Resna	I know I have a long road ahead of me... But I know someday, people will understand.	蕾斯娜	虽说前路漫漫……但我相信，\n总有一天大家都会认识到炼金术的优点……	蕾斯娜	雖然這條路還很漫長……\n但我想總有一天大家會明白鍊金術的好……
+LegendEvent_00_004ID	28	Lilie	リリー	あたし、なんだかレスナと仲良くなれそうな\n気がしてきたわ。これから色々とよろしくね	Lilie	I feel like you and I will get along just fine! Let's work together again sometime.	莉莉	总觉得我们能相处得很愉快。\n今后还请多多关照啦。	莉莉	我越來越覺得能和蕾斯娜成為好朋友了，\n今後還請妳多多指教囉。
+LegendEvent_00_004ID	29	Resna	レスナ	は、はい！　こちらこそ、よろしくお願いします！	Resna	Y-Yes, of course! I would love to!	蕾斯娜	当、当然！今后还请多多指教！	蕾斯娜	好、好的！我才該請妳多多指教！
+LegendEvent_00_004ID	30	Resna	レスナ	そうだ、素材が揃ったらアトリエに\nご案内しますね	Resna	All right. Once we have all the materials, I will show you to our atelier.	蕾斯娜	对了，既然素材都收集齐了，\n就带前辈去炼金工房吧。	蕾斯娜	對了，素材都齊了的話，\n這就帶妳去鍊金工房。
+LegendEvent_00_004ID	31	Lilie	リリー	助かるわ。確か、この飴を舐めれば一足飛びに\n異空間のアトリエに行けるんだったわよね	Lilie	Thank you. You mentioned this candy would bring me right to the Otherworldly Atelier, correct?	莉莉	帮大忙了。好像舔一口这颗糖\n就能瞬间移动到异空间的炼金工房了对吧。	莉莉	那就太好了。我記得只要舔一舔這個糖果，\n就能一下子瞬移到異次元的鍊金工房吧？
+LegendEvent_00_004ID	32	Lilie	リリー	（これもきっと錬金術で作ったのよね？\n　舐めるだけで空間を飛べるなんて楽しみだわ！）	Lilie	(This must be made with alchemy too, I bet. Eating this will give me the ability to teleport!)	莉莉	（这糖一定也是用炼金术做出来的吧？\n　舔一口就能飞往异空间，实在太令人期待了！）	莉莉	（這肯定也是用鍊金術製成的吧？\n　竟然只要舔一下就能穿越空間，真讓人期待！）
+LegendEvent_00_004ID	33	???	？？？	……錬金術？\n錬金術、士……？	???	Alchemy? Al...chemist...?	？？？	炼金……术？\n炼金术士……？	？？？	……鍊金術？\n鍊金術……士……？
+LegendEvent_00_005ID	0	Resna	レスナ	さあ、リリー先輩。こちらへどうぞ。\nここが私たちが調合を行っているアトリエです	Resna	Come, Miss Lilie. This is our atelier. It's where we do our work.	蕾斯娜	莉莉前辈，这边请。\n这里就是我们调合时使用的炼金工房。	蕾斯娜	來，莉莉前輩，這邊請。\n這裡就是我們進行調合的鍊金工房。
+LegendEvent_00_005ID	1	Lilie	リリー	すごい！　まさか、こんな場所に\n立派なアトリエがあるなんて！	Lilie	Incredible! I didn't expect there to be such a wonderful atelier hidden here!	莉莉	太厉害了！没想到在这种地方\n竟然会有如此完善的炼金工房！	莉莉	好棒喔！\n沒想到這裡居然有這麼漂亮的鍊金工房！
+LegendEvent_00_005ID	2	Lilie	リリー	それに器材も見たことのないものがたくさん。\n場所が変わると体系もぜんぜん違ってくるんだ……	Lilie	And all these lovely tools and equipment, so unfamiliar. I suppose our methods are different, too...	莉莉	而且尽是些没见过的器材啊。\n原来换了个地方，炼金体系也会大相径庭啊……	莉莉	而且還有好多我沒看過的器材。\n原來換個地方，鍊金術的體系也會完全不同……
+LegendEvent_00_005ID	3	Izana	イザナ	レスナちゃん、おかえり。\nねえ、そっちの人って、もしかして？	Izana	Welcome back, Resna. Oh, could that person next to you be...?	伊札娜	蕾斯娜，欢迎回来。\n那边的那位莫非就是？	伊札娜	蕾斯娜，歡迎回來。\n我問妳哦，那個人難道就是……？
+LegendEvent_00_005ID	4	Resna	レスナ	ただいま、イザナちゃん。\nそう。異邦人……錬金術士のリリー先輩だよ！	Resna	Hello, Izana. And yes... This wanderer is Miss Lilie, a fellow alchemist!	蕾斯娜	我回来啦，伊札娜。\n正如你所想，她是……从异邦而来的炼金术士莉莉前辈！	蕾斯娜	伊札娜，我回來了。\n沒錯，這位就是異邦人……鍊金術士莉莉前輩喔！
+LegendEvent_00_005ID	5	Lilie	リリー	はじめまして、リリーです。レスナが話していた\n親友のイザナって、きっとあなたのことよね？	Lilie	Nice to meet you. I'm Lilie. I assume you're Izana, the friend Resna mentioned?	莉莉	你好，我是莉莉。\n蕾斯娜提到的挚友伊札娜就是你吧？	莉莉	初次見面，我叫做莉莉。\n妳一定就是蕾斯娜口中的那位好朋友伊札娜吧？
+LegendEvent_00_005ID	6	Izana	イザナ	えへへ、そうだよ！　よろしくね、リリー！	Izana	Heheh! Sure am! Welcome, Lilie!	伊札娜	嘿嘿，没错！请多关照哦，莉莉！	伊札娜	嘿嘿，就是我！請多指教啊，莉莉！
+LegendEvent_00_005ID	7	Lilie	リリー	レスナから聞いた通り、本当に大きな耳があるのね。\nかわいい……	Lilie	Resna was right. You have such big ears. So adorable...	莉莉	和蕾斯娜说的一样，真的长着一对毛茸茸的大耳朵呢。\n真可爱……	莉莉	妳就跟蕾斯娜說的一樣，真的有一對大耳朵呢。\n好可愛喔……
+LegendEvent_00_005ID	8	Resna	レスナ	それから、あちらはマリオンさんです。アトリエの\n器材や書類の管理をしてくださっています	Resna	Oh, that is Marion. She takes care of the atelier's equipment and documents.	蕾斯娜	那边那位是玛丽翁小姐。\n她负责管理炼金工房的器材与书籍。	蕾斯娜	然後，在那邊的那位是瑪麗翁小姐。\n她負責管理鍊金工房的器材和文件。
+LegendEvent_00_005ID	9	Resna	レスナ	実は、マリオンさんも異邦人のお一人なんですよ	Resna	Marion is also a wanderer, just like you.	蕾斯娜	而且，玛丽翁小姐也是异邦人哦。	蕾斯娜	其實瑪麗翁也是一位異邦人喔。
+LegendEvent_00_005ID	10	Marion	マリオン	はじめまして。マリオンよ	Marion	Nice to meet you. I'm Marion.	玛丽翁	你好，我叫玛丽翁。	瑪麗翁	初次見面，我是瑪麗翁。
+LegendEvent_00_005ID	11	Marion	マリオン	私は錬金術士ではないんだけど、気が付いたら\n他の子たちと同じようにこの世界に来ていてね	Marion	I'm not an alchemist myself, but I ended up in this world just like the rest of them.	玛丽翁	我虽然不是炼金术士，但也和大家一样\n不知怎么突然莫名其妙地来到这个世界了。	瑪麗翁	我雖然不是鍊金術士，但當我意識到的時候，\n就已經和其他人一樣來到這個世界了。
+LegendEvent_00_005ID	12	Marion	マリオン	色々と調査したくて、他の世界から来た子たちに\nいつも話を聞かせてもらっているの	Marion	I wanted to investigate, so I've been interviewing the other girls that came from the outside.	玛丽翁	为了调查，我也经常会找其他\n来到这个世界的人聊聊天问问话。	瑪麗翁	我想要多方調查，\n所以經常向那些來自其他世界的人打聽情報。
+LegendEvent_00_005ID	13	Marion	マリオン	もし問題がなければ、あなたにも色々と\n聞きたいことがあるのだけど	Marion	If you don't mind, I would like to ask you some questions as well.	玛丽翁	如果可以，我有很多事\n想找你打听打听呢。	瑪麗翁	如果不會讓妳感到為難，\n那我也有許多問題想要請教妳。
+LegendEvent_00_005ID	14	Resna	レスナ	あ、すみませんマリオンさん。リリー先輩には\nこれからちょっと手伝ってもらいたいことがあって	Resna	Oh, sorry Marion. I was hoping to ask Miss Lilie for some help right after this.	蕾斯娜	不好意思，玛丽翁小姐。\n现在还有些事需要莉莉前辈帮忙。	蕾斯娜	啊，瑪麗翁小姐，不好意思。\n我接下來有事情想拜託莉莉前輩幫忙。
+LegendEvent_00_005ID	15	Marion	マリオン	レスナは確か、病気の女性の様子を見てきたのよね。\nそれ絡みかしら？	Marion	You came to see that sick lady, correct? Is it something to do with that?	玛丽翁	蕾斯娜你好像去探望了一位生病的女性对吧。\n你们要做的事和这有关吗？	瑪麗翁	我記得蕾斯娜妳去看了那位患病女性的狀況，\n是和那件事有關嗎？
+LegendEvent_00_005ID	16	Resna	レスナ	はい。フリーゲンの風土病だったので、\nこれから薬を作ろうと思って	Resna	Yes. An illness from Friegen, so we were looking to make some medicine.	蕾斯娜	没错。那位女性得了弗里根的地方病，\n所以接下来我们要一起炼药。	蕾斯娜	是的。那位女性得的是弗里岡的地方流行病，\n我們接下來打算製作一些藥物。
+LegendEvent_00_005ID	17	Izana	イザナ	えっ、フリーゲンの……って、あの病気？\nかかったら治らないって聞いたけど薬なんて作れるの？	Izana	From Friegen...? I hear there is no cure for that. Are you sure you can make medicine to treat it?	伊札娜	咦，弗里根的……是那种病吗？\n但我听说那是绝症，真的能做出药来吗？	伊札娜	咦？妳說她得的病，是弗里岡的……？\n我聽說一旦染上就治不好了，真的做得出藥物嗎？
+LegendEvent_00_005ID	18	Resna	レスナ	簡単じゃないけど、なんとかしてあげたいから。\nリリー先輩のおかげで素材もたくさん集まったし！	Resna	It won't be easy, but I need to do something. Plus, Miss Lilie helped gather the ingredients!	蕾斯娜	可能不太容易，但我还是想为他们做点什么。\n而且多亏了莉莉前辈，我们收集到了不少素材！	蕾斯娜	雖然很困難，但我希望能想辦法幫幫她。\n而且多虧莉莉前輩的協助，我也蒐集到了很多素材！
+LegendEvent_00_005ID	19	Marion	マリオン	そう。じゃあ今は邪魔するわけには\nいかないわね	Marion	All right. Well, I won't get in your way then.	玛丽翁	这样啊。\n那我就先不打扰啦。	瑪麗翁	這樣啊，\n那現在我可就不能打擾妳們了。
+LegendEvent_00_005ID	20	Lilie	リリー	どれくらい役に立てるかは分からないけど、\nできる限りのことはするわ	Lilie	I'm not sure how much I can help, but I'll do whatever I can.	莉莉	不太清楚我究竟能帮上多少，\n但我会全力以赴的。	莉莉	我不知道能幫上多少忙，\n但會盡自己所能去做的。
+LegendEvent_00_005ID	21	Lilie	リリー	この世界の錬金術はまだ不得手だけど\n同じ錬金術だし、頑張って使いこなしてみせるから	Lilie	I may not be well-versed in this world's form of alchemy, but it's alchemy all the same. I'll do my best.	莉莉	这个世界的炼金术我还不太顺手，\n不过既然都是炼金术，我会尽我所能尽快掌握。	莉莉	雖然還不太熟悉這個世界的鍊金術，\n不過畢竟是同樣的技術，我會努力掌握技巧給妳們看看。
+LegendEvent_00_005ID	22	Resna	レスナ	ありがとうございます！\nぜひよろしくお願いしますっ	Resna	Thank you! We're counting on you.	蕾斯娜	太感谢了！\n还请前辈多多关照了。	蕾斯娜	謝謝妳！\n那就務必拜託了！
+LegendEvent_00_006ID	0	Resna	レスナ	最後にこうやって……	Resna	And finally, here...	蕾斯娜	最后再这样……	蕾斯娜	最後再像這樣……
+LegendEvent_00_006ID	1	Lilie	リリー	こう、かな？　本当に今までとは感覚が違うわ……	Lilie	Like this? This is so different from what I'm used to...	莉莉	这样吗？真的和以往的调合都不太一样……	莉莉	像這樣嗎？真的和我以前做的感覺不一樣呢……
+LegendEvent_00_006ID	2	Resna	レスナ	よし、これで完成です	Resna	Great. That's everything finished.	蕾斯娜	好了，这样就完成了。	蕾斯娜	好，這樣就完成了。
+LegendEvent_00_006ID	3	Lilie	リリー	初めての調合だったけど、なんとか手伝えたわね。\nこれであの子のお母さんが良くなるといいんだけど	Lilie	It was my first synthesis here, but I'm glad I helped out. Now I just hope the child and mother will get better.	莉莉	这还是我在这里第一次调合，不过应该帮上忙了吧。\n希望那孩子的妈妈状况能有所好转。	莉莉	雖然是第一次調合，但勉強有幫上忙呢。\n希望那女孩的媽媽服藥後能夠好轉。
+LegendEvent_00_006ID	4	Resna	レスナ	集めた薬草の成分を高濃度で抽出しました。\n解熱鎮痛の効果が見込めるはずです	Resna	We've extracted a potent concentrate of the gathered herbs. This should prove effective as an anti-inflammatory and pain reliever.	蕾斯娜	已经从采集到的药草里提取了高浓度的有效成分。\n应该会有不错的退烧镇痛效果。	蕾斯娜	我們將採集來的藥草以高濃度成分萃取出來。\n應該可以期待它退燒止痛的效果。
+LegendEvent_00_006ID	5	Resna	レスナ	でも、今回の病そのものに効くかは\nまだなんとも言えません	Resna	But, it's still unclear whether it will work on this illness in particular.	蕾斯娜	只是对这种病是否有效就不好说了。	蕾斯娜	只不過，對這次的疾病本身\n是否有效還不好說。
+LegendEvent_00_006ID	6	Resna	レスナ	とにかく、私はこの薬を届けてきます。\n一刻も早いほうがいいので	Resna	For now, I should go deliver this medicine. It's better if they take it as soon as possible.	蕾斯娜	总之我先把药送过去吧。\n治病的事可容不得拖延。	蕾斯娜	總之我先去送藥，\n感覺盡早給她們比較好。
+LegendEvent_00_006ID	7	Lilie	リリー	分かったわ。大人数で押し掛けるわけには\nいかないからあたしは残るけど……お願いね	Lilie	Right. We shouldn't bother them with too many people, so I'll stay behind. Thank you, though.	莉莉	好。一窝蜂涌去病人家里也不太合适……\n我就留在这里等你的好消息啦。	莉莉	我知道了。一次跑去太多人也不太好，\n我就留在這裡……拜託妳了。
+LegendEvent_00_006ID	8	Resna	レスナ	はいっ。あ、リリー先輩がよければ、今夜はここで\n休んでください。それじゃあ、いってきます！	Resna	Not a problem! Oh, you can stay here for the night if you'd like, Miss Lilie. I'll be going now!	蕾斯娜	好。对了，莉莉前辈要是不介意，\n今晚就在这好好休息吧。那我就出发啦！	蕾斯娜	好的。啊，莉莉前輩不嫌棄的話，\n今晚就請妳在這裡休息吧。那我出發了！
+LegendEvent_00_006ID	9	Lilie	リリー	（あの薬が効くのかどうか、結果がはっきりするのは\n　多分、明日になるわよね）	Lilie	(We probably won't know whether or not that medicine works until tomorrow.)	莉莉	（这药是否能奏效，\n　可能要等到明天才能见分晓了。）	莉莉	（那個藥有沒有效，\n　大概要到明天才能知道結果了吧。）
+LegendEvent_00_006ID	10	Lilie	リリー	……マリオンさん、あっちの棚にある本って、\nあたしが読んでも構いませんか？	Lilie	Marion, is it all right if I read those books on the shelf?	莉莉	玛丽翁小姐，我可以看看那边书架上的书吗？	莉莉	……瑪麗翁小姐，\n請問我能看看那邊書架上的書嗎？
+LegendEvent_00_006ID	11	Marion	マリオン	ええ、大丈夫よ	Marion	Oh, go right ahead.	玛丽翁	嗯，当然可以。	瑪麗翁	嗯，沒問題哦。
+LegendEvent_00_006ID	12	Lilie	リリー	よかった。今のうちに、少しでもこの世界の\n錬金術について学んでおきたかったんです	Lilie	Wonderful. I was hoping to learn more about the alchemy of this world while I could.	莉莉	谢谢。我也想趁这个机会多了解一些\n这个世界的炼金术。	莉莉	太好了。我想趁現在多少學習一下\n這個世界的鍊金術。
+LegendEvent_00_006ID	13	Lilie	リリー	それに、もしさっきの薬が効かなかったときは、\nまた別の薬を調合しなくちゃいけないし	Lilie	Plus, if that medicine doesn't work, I will need to come up with a new formula.	莉莉	而且，万一刚才做的药没能起效，\n就得继续尝试调合其他的药。	莉莉	而且要是剛剛做好的藥沒效，\n還得盡快再調合其他藥物才行。
+LegendEvent_00_006ID	14	Izana	イザナ	レスナちゃんもすっごく真面目だけど、\nリリーも勉強熱心なんだね	Izana	Resna can be quite serious, but Lilie seems just as studious.	伊札娜	我知道蕾斯娜对学习很认真，\n不过莉莉也毫不逊色啊。	伊札娜	雖然蕾斯娜也超級認真，\n不過莉莉也非常用功呢。
+LegendEvent_00_006ID	15	Marion	マリオン	ええ。すごい集中力ね。\n……さて、私も仕事に戻らなくちゃ	Marion	You're right. Look at that focus... I should probably get back to work, too.	玛丽翁	是啊。她读得真是聚精会神。\n那……我也先回去工作了哦。	瑪麗翁	嗯，真是驚人的集中力呢。\n……好了，我也得回去工作了。
+LegendEvent_00_006ID	16	Lilie	リリー	イザナ、ちょっといいかな？　この歴史書の、\nここの部分が分からなくって……	Lilie	Izana, do you have a moment? I'm not quite sure about this section of the history book...	莉莉	伊札娜，你能帮我看看吗？\n这本历史书的这个部分我有些不太明白……	莉莉	伊札娜，可以打擾一下嗎？\n這本歷史書的這個部分我看不太懂……
+LegendEvent_00_006ID	17	Izana	イザナ	えっ？　アタシ？　うんっ、いいよ	Izana	Hm? Me? Well, all right then.	伊札娜	嗯？叫我吗？当然可以啊。	伊札娜	咦？妳問我嗎？嗯，當然可以。
+LegendEvent_00_006ID	18	Lilie	リリー	なるほど、これはそういう記述だったのね	Lilie	I see now. So that's what it meant.	莉莉	原来如此，这里是这个意思啊。	莉莉	原來如此，這是在描述那樣的內容啊。
+LegendEvent_00_006ID	19	Lilie	リリー	こういう土壌があったからこそ、この世界の\n錬金術はこの体系で進化してきた……	Lilie	And that's how this world's alchemy has become what it is today...	莉莉	因为有着这样的环境，\n这个世界的炼金体系才进化成了这样……	莉莉	正因為有這樣的土壤，\n這個世界的鍊金術才會以這個體系進化至今……
+LegendEvent_00_006ID	20	Lilie	リリー	なのに、フラムみたいにあたしたちの世界と\n酷似しているものがある。すごく不思議だわ	Lilie	Still, there are so many similarities to our own world. Things like bombs, for instance.	莉莉	不过也有像炎烧这种和我那个世界\n极为相似的东西。真是不可思议。	莉莉	儘管如此，仍有像炎燒那種和我們世界\n非常相似的技術存在，太不可思議了。
+LegendEvent_00_006ID	21	Izana	イザナ	また分からないことがあったら、いつでも聞いて！\nランターナの歴史は頑張って勉強したんだ！	Izana	If there's anything else you're unsure of, you can ask us! I've studied the history of Lanterna!	伊札娜	要是还有不明白的，随时都可以来问我！\n关于兰塔纳的历史我可是努力学过！	伊札娜	要是還有不清楚的地方，可以隨時問我喔！\n學習蘭塔納的歷史，我可是下過一番功夫的！
+LegendEvent_00_006ID	22	Lilie	リリー	うん、ありがとう。助かるわ	Lilie	Right, thank you.	莉莉	嗯，谢谢。真是帮大忙了。	莉莉	嗯，謝謝妳。真是幫了大忙。
+LegendEvent_00_006ID	23	Izana	イザナ	やー、あっという間だったなぁ	Izana	Well, that went quickly.	伊札娜	哎呀，真是一转眼就结束了呢。	伊札娜	哎呀～速度真是太快了。
+LegendEvent_00_006ID	24	Marion	マリオン	どうかしたの、イザナ？	Marion	What's the matter, Izana?	玛丽翁	怎么啦，伊札娜？	瑪麗翁	伊札娜，妳怎麼了嗎？
+LegendEvent_00_006ID	25	Izana	イザナ	さっきまでリリーに本の内容を教えてたんだけど、\nすぐになんでも覚えて、どんどん読み進めていってさ	Izana	I was teaching Lilie about the contents of that book, but she's already learned and read so much.	伊札娜	刚才我还在教莉莉书上的内容，\n她眨眼间就全都记住了，还越读越起劲。	伊札娜	沒多久前我才在教莉莉書裡的內容，\n結果她馬上什麼都學起來，還一本接一本地讀得飛快。
+LegendEvent_00_006ID	26	Izana	イザナ	今はもう、アタシじゃちんぷんかんぷんな専門書を\n読んでるよ。アタシの出番、一瞬で終わったみたい	Izana	Now she's reading books that even I can't comprehend. My time to shine is over, it seems.	伊札娜	现在她已经在读一些我完全看不懂的专业书籍了。\n我一下子就没了用武之地啊。	伊札娜	現在已經在讀我完全看不懂的專業書籍，\n我好像一下子就沒有用武之地了。
+LegendEvent_00_006ID	27	Izana	イザナ	今まで会ってきた錬金術士のみんなもそうだけど、\nやっぱりリリーもすっごい人なのかも	Izana	I've been surprised by all the alchemists that pass through, but Lilie is particularly incredible.	伊札娜	虽说之前遇到的炼金术士们也是这样，\n但莉莉的才能或许也完全不输给她们。	伊札娜	雖然到目前為止見過的所有鍊金術士都是如此，\n但或許莉莉真的也是厲害的人喔。
+LegendEvent_00_007ID	0	Lilie	リリー	あ、レスナ。戻ってきたのね。お疲れさま。\nどうだった？	Lilie	Oh, Resna. You're back. How was it?	莉莉	哎呀，蕾斯娜，欢迎回来。\n真是辛苦你了，情况如何？	莉莉	啊，蕾斯娜，妳回來了呀。\n辛苦了，情況怎麼樣？
+LegendEvent_00_007ID	1	Resna	レスナ	リリー先輩！　もう起きていらしたんですね	Resna	Miss Lilie! You're already awake.	蕾斯娜	莉莉前辈！你这么早就起来了呀。	蕾斯娜	莉莉前輩！妳已經起床了啊。
+LegendEvent_00_007ID	2	Izana	イザナ	違うよ、レスナちゃん。\nリリーは、寝てないんだよ！	Izana	No no, Resna. Lilie hasn't slept!	伊札娜	不是哦，蕾斯娜。\n莉莉她就没睡过呢。	伊札娜	不是喔，蕾斯娜。\n莉莉根本沒睡啊！
+LegendEvent_00_007ID	3	Lilie	リリー	あっ！　イザナ、それは内緒にしてって……！	Lilie	Oh, Izana! I told you to keep that between us!	莉莉	等等！伊札娜，不是说好要帮我保密……！	莉莉	啊！伊札娜，我不是要妳別說的嗎……！
+LegendEvent_00_007ID	4	Marion	マリオン	私もびっくりしたわよ。さっきアトリエに来たら、\n昨日と同じ場所で黙々と本を読んでるんだもの	Marion	I was shocked, too. I enter the atelier, only to see her reading in the same spot as yesterday!	玛丽翁	我也吓了一跳呢。刚到工房就看见她\n坐在和昨天一样的位置默默读着书。	瑪麗翁	我也嚇了一大跳。剛才我到鍊金工房時，\n發現她還坐在和昨天一樣的位置上默默看書呢。
+LegendEvent_00_007ID	5	Lilie	リリー	あはは。夢中になってたら、いつの間にか日付が\n変わってて。あ、でも一応仮眠はとったのよ？	Lilie	Hahaha. I was so focused, but now it looks like a whole day has passed. Although I did nap for a bit.	莉莉	啊哈哈。我读得太入神，都没发现已经是第二天了。\n不过我至少打了一会盹哦。	莉莉	啊哈哈。我看得太入迷，不知不覺就過了一個晚上。\n啊，但我有稍微小睡一下喔？
+LegendEvent_00_007ID	6	Lilie	リリー	それより、あの子のお母さんの具合はどう？\n良くなった？	Lilie	More importantly, how is the child's mother? Is she any better?	莉莉	说来，那孩子的妈妈现在身体情况怎么样？\n有好转吗？	莉莉	先別說這些了，那女孩的媽媽的病情如何？\n有好轉了嗎？
+LegendEvent_00_007ID	7	Resna	レスナ	いいえ。薬を飲んだ直後は少し良くなるんですが、\nしばらくすると元通りになってしまって	Resna	The mother was better for a while after taking the medicine, but no. She's right back to how she was before.	蕾斯娜	没有。刚吃完药后似乎稍有起色，\n可没过多久又恢复原样了。	蕾斯娜	沒有。服藥後有稍稍好一點，\n可是沒多久又回到原本的狀態了。
+LegendEvent_00_007ID	8	Lilie	リリー	そう……。なら次はこの本に載っている\n薬を試してみるのはどうかしら	Lilie	I see... Then perhaps we should try the medicine listed in this book.	莉莉	这样啊……那这次试一试这本书上\n记载的这种药如何？	莉莉	這樣啊……那接下來要不要試試看\n這本書上記載的藥呢？
+LegendEvent_00_007ID	9	Lilie	リリー	このままでは使えないけれど、\nこの素材を変えて、分量も修正して……	Lilie	We cannot use it as-is, but by changing the ingredients and the ratios slightly...	莉莉	直接按书上的做法可能不行，\n但换掉这个素材，再调整用量的话……	莉莉	雖然不能這樣直接使用，\n但只要換掉這個素材，也修改一下用量……
+LegendEvent_00_007ID	10	Resna	レスナ	えっ……ええっ！？　ちょっと見せてください	Resna	Wh-What?! Let me take a look.	蕾斯娜	什……什么？！让我看看。	蕾斯娜	什……什麼！？請借我看一下。
+LegendEvent_00_007ID	11	Lilie	リリー	あと、他にもこっちの本に載ってた古い物語から\n思いついた方法もあって……	Lilie	Oh, I also remember some method from an old story in this book here...	莉莉	除此之外，我还从这本书上\n记载的传说中得到了一些启发……	莉莉	另外，我還從這本書裡的某篇古代故事中\n想到了其他的辦法……
+LegendEvent_00_007ID	12	Lilie	リリー	あ、でもこれは効果が強すぎる気もするわ。\n使えるかどうかは状況によるかも	Lilie	But the effect might be a little too strong. Not quite sure when I would use this.	莉莉	不过这么做出来的药，效果可能比较猛。\n究竟能不能用还是得看情况。	莉莉	啊，不過感覺這辦法的效果太強了。\n能不能使用或許要視情況而定。
+LegendEvent_00_007ID	13	Resna	レスナ	……リリー先輩、すごい……この本も、その絵本も\n読んだことはありますが、まったく思いつかなかった	Resna	Miss Lilie, this is incredible... I've read all these books before, but I never realized...	蕾斯娜	莉莉前辈实在太厉害了……这本书和那本画册\n我都倒是都读过，但从来没想到过还能这么做。	蕾斯娜	……莉莉前輩真是太厲害了……這本書和那本繪本\n我都看過，但完全沒想到有什麼辦法。
+LegendEvent_00_007ID	14	Resna	レスナ	それに、たった一晩でこっちの錬金術の\n理論をそこまで理解するなんて	Resna	And to grasp the alchemical theory of our world within a single night!	蕾斯娜	而且莉莉前辈竟然只用一晚\n就对这个世界的炼金术理论了如指掌了。	蕾斯娜	而且，妳居然只用了一個晚上\n就把我們這裡的鍊金術理論理解得如此透徹。
+LegendEvent_00_007ID	15	Lilie	リリー	あたし、独学は得意なのよ。\nこれまでもわりと一人でやることが多かったし	Lilie	I'm rather good at studying, actually. I've had a lot of time to myself.	莉莉	我比较擅长自学啦。\n迄今为止有很多事情都是独自在做。	莉莉	我很擅長自學喔。\n以前倒也是滿常一個人研究的。
+LegendEvent_00_007ID	16	Lilie	リリー	それで、どうかな？　使えるものはありそう？	Lilie	So, how about it? Do you think any of these will work?	莉莉	怎么样？有没有觉得能用上的？	莉莉	那麼，怎麼樣？有哪個方法可以用上的嗎？
+LegendEvent_00_007ID	17	Resna	レスナ	そうですね。まずこの高熱の対処なんですが……	Resna	Let's see. This one will treat the high fever...	蕾斯娜	我想想。首先是如何缓解高烧……	蕾斯娜	我想想喔，首先是這個處理高燒的方法……
+LegendEvent_00_007ID	18	Resna	レスナ	やっぱり今出てる症状を抑えるだけじゃダメですね。\n対症療法でしかないです	Resna	I see now. We can't just treat the current symptoms. That is only a temporary solution.	蕾斯娜	我觉得只是减缓现有的症状还不够，\n得对症下药才行。	蕾斯娜	果然光是壓下現有的症狀是不行的。\n這樣只是治標不治本。
+LegendEvent_00_007ID	19	Lilie	リリー	そうね。そもそもの話だけど、あの病気は何が原因で\n起こるのかを突き止めたほうがいいと思うわ	Lilie	Right. There's something that is causing the disease, and we need to find out what it is.	莉莉	也是。还是应该先查明病因。	莉莉	沒錯。說到底，\n我覺得還是查明那個病是什麼原因引起的比較好。
+LegendEvent_00_007ID	20	Resna	レスナ	それが薬を作る一番の近道かもしれません。もう一度\n詳しい話を聞きに行きましょう。私がご案内します！	Resna	That might be our easiest path to a cure. Let's gather some more details. I will lead the way!	蕾斯娜	这样应该也最容易做出对症药。\n再去问一下她们的具体情况吧。我来带路！	蕾斯娜	那說不定是製作藥物的最快捷徑。\n我們再去打聽一下詳細情形吧，我來帶路！
+LegendEvent_00_007ID	21	Izana	イザナ	フリーゲンに行くなら、アタシもついていくよ。\n調査するなら、一人でも多いほうがいいでしょ	Izana	If you're going to Friegen, I'm coming as well. Better to investigate with more people.	伊札娜	要去弗里根的话，也带我一起吧。\n多点人手调查也更有效率不是吗？	伊札娜	如果要去弗里岡，那我也跟妳們一起。\n進行調查工作還是多一個人幫忙好吧。
+LegendEvent_00_007ID	22	Resna	レスナ	善は急げだね！\nマリオンさん、ちょっと行ってきます！	Resna	Right, we must hurry! We'll be leaving, Marion!	蕾斯娜	那就事不宜迟！\n玛丽翁小姐，我们去去就来！	蕾斯娜	打鐵就要趁熱！\n瑪麗翁小姐，我們去去就回！
+LegendEvent_00_008ID	0	Lilie	リリー	お母さんの具合が悪くなる前に、\n何か変わったことをしたりしてなかった？	Lilie	Were there any changes in your mother's behavior before she fell ill?	莉莉	你母亲在觉得不舒服之前，\n有发生过什么和平常不一样的事吗？	莉莉	媽媽在身體不舒服之前，\n有沒有出現過什麼不尋常的舉動呢？
+LegendEvent_00_008ID	1	Resna	レスナ	辛いだろうけど、お母さんの病気を治すためにも\n思い出してほしいんだ	Resna	I know it might be painful to remember, but we need to know so we can help your mother.	蕾斯娜	我知道你可能不愿意想起这些，但为了能治好你母亲，\n希望你能尽可能地回忆一下。	蕾斯娜	這可能會讓妳很難過，\n但為了治好媽媽的病，希望妳能回想一下。
+LegendEvent_00_008ID	2		少女	特に変なことはなかったと思うけど……\nいつも通りだったような	Girl	There wasn't anything strange about her, really... She was her usual self.	少女	我想应该是没有……\n在她倒下之前，一直都和往常一样。	少女	我想應該沒有特別不尋常的地方……\n感覺她和往常一樣。
+LegendEvent_00_008ID	3	Lilie	リリー	どこかに行ったりとかはしてない？	Lilie	She didn't go anywhere?	莉莉	那她有没有去过什么地方？	莉莉	她有沒有去什麼地方？
+LegendEvent_00_008ID	4		少女	うーん……	Girl	Hmm...	少女	唔……	少女	嗯……
+LegendEvent_00_008ID	5		少女	……あ。ちょっと前に、滝の洞窟に行ったと思う	Girl	Oh, I think she went to Waterfall Cave a little while ago.	少女	……对了。我记得她不久前去过瀑布洞窟。	少女	……啊，我記得不久前媽媽去了一趟瀑布的洞窟。
+LegendEvent_00_008ID	6	Lilie	リリー	滝の洞窟？	Lilie	Waterfall Cave?	莉莉	瀑布洞窟？	莉莉	瀑布的洞窟？
+LegendEvent_00_008ID	7	Resna	レスナ	川の上流にある滝の近くの洞窟です。\n野草とかが数多く自生している場所なんですよ	Resna	A cave near a waterfall in the upper rapids. There are plenty of herbs growing there.	蕾斯娜	河上游有个瀑布，在那附近有个洞窟。\n是个野草繁盛的地方。	蕾斯娜	洞窟在河川上游的瀑布附近，\n那裡生長了許多的野草。
+LegendEvent_00_008ID	8	Resna	レスナ	色んな自然の恵みが手に入るので村の人たちも\nそれらを採りに行くことがあるんです	Resna	Occasionally, the villagers will hike up there to collect nature's bounty.	蕾斯娜	那附近也有各种野生的作物，\n所以经常会有村民前去采集。	蕾斯娜	因為能取得許多自然資源，\n村民有時也會去採集那些植物。
+LegendEvent_00_008ID	9	Izana	イザナ	魔物もいるから、簡単に通えるような\n場所ではないんだけどね	Izana	But there are monsters around, and it isn't easily accessible.	伊札娜	那边应该也有不少魔物，\n不是什么轻易就能去的地方吧。	伊札娜	不過那裡還會有魔物出沒，\n並不是一個能輕易來去的地方。
+LegendEvent_00_008ID	10		少女	お母さん、私の誕生日だから\nごちそう作るって言って……	Girl	Since it was my birthday, my mom said she would cook us a feast...	少女	妈妈说，因为我的生日快到了，\n想给我做顿好吃的，所以……	少女	媽媽說因為是我的生日，\n所以要做大餐給我吃……
+LegendEvent_00_008ID	11	Resna	レスナ	…………	Resna	...	蕾斯娜	…………	蕾斯娜	…………
+LegendEvent_00_008ID	12	Lilie	リリー	何か、引っかかるわね	Lilie	Something is amiss.	莉莉	总觉得有些关联呢。	莉莉	總覺得哪裡不對勁呢。
+LegendEvent_00_008ID	13	Resna	レスナ	私たちも一度滝の洞窟に行ってみませんか？\n私も場所なら分かりますし	Resna	Should we go investigate Waterfall Cave as well? I know where to look.	蕾斯娜	我们也去一趟瀑布洞窟看看吧？\n我知道那地方在哪。	蕾斯娜	我們要不要也去一趟瀑布的洞窟看看呢？\n我也知道位置在哪裡。
+LegendEvent_00_008ID	14	Lilie	リリー	そうね、何か手掛かりが見つかるかもしれないわ	Lilie	Perhaps. We might find some sort of clue.	莉莉	好，说不定能在那边找到什么线索。	莉莉	也好，說不定能找到什麼線索。
+LegendEvent_00_009ID	0	Resna	レスナ	色々聞きたいことがあるんですけど、どうやったら\nそんなに錬金術の知識を得られるんでしょうか！？	Resna	I was wondering, how did you manage to learn so much about alchemy?	蕾斯娜	我有很多事想请教前辈，请问我到底该怎么做，\n才能像前辈那样拥有丰富的炼金术知识呢？！	蕾斯娜	我有很多事想請教莉莉前輩，\n請問要怎麼做才能學到這麼多鍊金術的知識呢！？
+LegendEvent_00_009ID	1	Resna	レスナ	あとそれから、リリー先輩が\n元いた世界の話も聞きたいです！	Resna	And if you don't mind, could you tell us about your past life, Miss Lilie?	蕾斯娜	还有，莉莉前辈原来所在的世界\n究竟是怎么样的呢！	蕾斯娜	另外，我還想聽聽\n莉莉前輩原本世界的事情！
+LegendEvent_00_009ID	2	Lilie	リリー	知識ね……。特別なことをしてるつもりはないけど、\n強いて言えば「とにかく挑戦する」ってことかしら	Lilie	Alchemy... Well, I don't believe I'm particularly special. If anything, I always try to challenge myself.	莉莉	知识啊……我觉得自己没有为此特意做过什么，\n不过硬要说的话，应该就是“总而言之先去挑战”吧。	莉莉	知識啊……我並沒有打算去做什麼特別的事，\n但真要說的話，應該就是「先挑戰看看」吧？
+LegendEvent_00_009ID	3	Resna	レスナ	挑戦……	Resna	Challenge yourself...	蕾斯娜	挑战吗……	蕾斯娜	挑戰……
+LegendEvent_00_009ID	4	Lilie	リリー	あたし、元々ぜんぜん錬金術の力も知識もなくて。\nなのに錬金術を広めるっていう目的だけがあってね	Lilie	I used to know nothing about alchemy. Nor could I use it. But I knew I needed to spread the practice.	莉莉	其实我本来不会炼金术，对炼金术的知识也是一窍不通。\n只是单纯有个普及炼金术的目标在。	莉莉	我以前根本沒有鍊金術的能力和知識，\n但唯一的目的就是推廣鍊金術。
+LegendEvent_00_009ID	5	Lilie	リリー	錬金術の先生にくっついて旅に出て、\n錬金術がまったくない土地で暮らしたりしていたのよ	Lilie	So I traveled with an alchemy teacher to places that had never even heard of alchemy.	莉莉	所以当时我只是跟着炼金术老师一起旅行，\n来到完全没有炼金术的土地上生活这样。	莉莉	我跟著鍊金術的老師去旅行，\n並且在一個完全沒有鍊金術的地方生活過一段時間。
+LegendEvent_00_009ID	6	Lilie	リリー	思い返すと結構、無茶苦茶なことを\nしていた気がするわ。あはは	Lilie	Looking back, I was quite reckless back then. Haha.	莉莉	现在想来，\n当时我做了不少荒唐的事呢。啊哈哈。	莉莉	這樣回想起來，\n就覺得自己好像做了不少魯莽的事情呢，啊哈哈。
+LegendEvent_00_009ID	7	Resna	レスナ	なんの知識もないのに、すごい行動力……。\nそれがとにかく挑戦するってことですか	Resna	"You had no knowledge, but you went anyway... I suppose that was what you meant by ""challenging yourself""?"	蕾斯娜	明明对炼金术一窍不通，这行动力真是令人佩服啊……\n不过这就是前辈所说的“总而言之先去挑战”的意思对吧。	蕾斯娜	明明沒有任何相關知識，卻有這麼強的行動力……\n這就是所謂的「先挑戰看看」嗎……？
+LegendEvent_00_009ID	8	Lilie	リリー	うん、そういうことになるのかしらね。まあ、そうでも\nしないとやっていけなかったっていうのはあるかも	Lilie	I suppose so. I don't think I would have been able to live with myself otherwise.	莉莉	嗯，或许是这样没错。\n不过这其中可能也有不这么做就做不成的情况。	莉莉	嗯，大概就是這樣吧。\n不過，可能也有一方面是情況讓我不得不這麼做。
+LegendEvent_00_009ID	9	Resna	レスナ	あ、でも先生がいたんですよね？	Resna	Oh, but you had a teacher with you back then, right?	蕾斯娜	可是前辈不是说有老师在吗？	蕾斯娜	啊，可是當時妳身邊有老師吧？
+LegendEvent_00_009ID	10	Lilie	リリー	……ほとんど錬金術らしいことは\n教えてもらった記憶はないんだけどね	Lilie	Yes, though I don't remember them teaching me any alchemy.	莉莉	……但是那个人并没有教过我炼金术相关的事。	莉莉	……但在我的記憶裡，\n老師幾乎沒有教過我什麼類似鍊金術的東西。
+LegendEvent_00_009ID	11	Lilie	リリー	それよりあたしは子どもたちの世話をしていた\n記憶のほうが多いわ	Lilie	I only really remember looking after the kids.	莉莉	更多的反而是让我去照顾孩子们这种。	莉莉	比起鍊金術，\n我的記憶大多都是在照顧孩子們。
+LegendEvent_00_009ID	12	Resna	レスナ	えっ、リリー先輩ってお子さんがいるんですか！？	Resna	Wait. Miss Lilie, do you have children?!	蕾斯娜	什么，莉莉前辈已经有孩子了吗？！	蕾斯娜	咦？莉莉前輩妳有小孩嗎！？
+LegendEvent_00_009ID	13	Lilie	リリー	ううん、あたしが世話をしていたのは孤児たちよ。\nイングリドとヘルミーナ……二人とも優秀だったわ	Lilie	No, they were orphan kids I was looking after. Ingrid and Hermina. They were so smart.	莉莉	不是不是，我照顾的孩子是孤儿们啦。\n英格莉特和赫尔米娜……她们俩都是很优秀的孩子。	莉莉	沒有，我照顧的是孤兒。\n她們叫做英格莉特和赫爾米娜……兩個孩子都很優秀。
+LegendEvent_00_009ID	14	Lilie	リリー	あっという間に錬金術を習得しちゃって。\n多分あたしよりも能力はあったわね	Lilie	They were so quick to learn alchemy. They had far more potential than I ever did.	莉莉	眨眼间她们就学会了炼金术，\n能力或许比我还更胜一筹呢。	莉莉	她們沒多久就學會了鍊金術，\n大概比我更有能力呢。
+LegendEvent_00_009ID	15	Resna	レスナ	そうなんですね。お二方は今どうされてるんですか	Resna	So that's what you meant. What are they doing now?	蕾斯娜	这样啊。她们两位现在在做什么呢？	蕾斯娜	原來是這樣啊，那她們現在在做些什麼呢？
+LegendEvent_00_009ID	16	Lilie	リリー	さあ、分からないわ。あたしが旅に出てしまったから。\nまだザールブルグにはいると思うけど	Lilie	I have no clue. I left on my own journey soon after. I assume they are still in Salburg.	莉莉	我也不太清楚。毕竟我出来旅行了嘛。\n我想现在估计还待在萨尔布鲁克镇上吧。	莉莉	我也不清楚，畢竟我外出旅行了。\n但我想他們應該還在薩爾布魯克。
+LegendEvent_00_009ID	17	Izana	イザナ	……あれ？　あそこ！	Izana	Huh? Look!	伊札娜	……咦？大家快看那边！	伊札娜	……咦？妳們看那裡！
+LegendEvent_00_009ID	18	???	？？？	ううっ……数が多い……っ	???	Urk... There are too many...	？？？	呜……实在太多了……	？？？	嗚嗚……數量太多了……
+LegendEvent_00_009ID	19	Lilie	リリー	大変！　あそこで魔物と戦っている人がいるわ！	Lilie	Oh no! There's someone fighting monsters over there!	莉莉	不好了！那边有人在和魔物战斗！	莉莉	不好了！那裡有人在和魔物戰鬥！
+LegendEvent_00_009ID	20	Izana	イザナ	しかも苦戦してる！　レスナちゃん！	Izana	And they're struggling! Resna!	伊札娜	而且那人还陷入了苦战！蕾斯娜！	伊札娜	而且還陷入了苦戰！蕾斯娜！
+LegendEvent_00_009ID	21	Resna	レスナ	うん！　みんなで加勢しよう！	Resna	Right, let's all go and help them!	蕾斯娜	嗯！我们也去帮忙吧！	蕾斯娜	嗯！大家一起去幫忙吧！
+LegendEvent_00_010ID	0	Resna	レスナ	これで終わりっ！	Resna	That should do it!	蕾斯娜	这下就结束了！	蕾斯娜	這樣就結束了！
+LegendEvent_00_010ID	1	Lilie	リリー	ねえ、あなた、大丈夫だった！？	Lilie	Hey, are you all right?	莉莉	你没事吧？！	莉莉	那個，妳沒事吧！？
+LegendEvent_00_010ID	2	???	？？？	はい、なんとか。危ないところを助けてくれて\nありがとうございました	???	Yes, somehow. Thank you for rescuing me.	？？？	嗯，没什么大事。\n谢谢你们在危急时刻救了我。	？？？	是的，我沒事。\n謝謝妳們在危急時出手相救。
+LegendEvent_00_010ID	3	???	？？？	……あっ。あなたは……	???	Oh, you're...	？？？	……啊，你是……	？？？	……啊，妳是……
+LegendEvent_00_010ID	4	Lilie	リリー	ん？　どうしたの？	Lilie	Hm? What's the matter?	莉莉	嗯？怎么了吗？	莉莉	嗯？怎麼了嗎？
+LegendEvent_00_010ID	5	???	？？？	ひょっとして、錬金術士……ですか？	???	Are you...an alchemist?	？？？	冒昧请问下，你是……炼金术士吗？	？？？	難道妳是……鍊金術士嗎？
+LegendEvent_00_010ID	6	Lilie	リリー	え、そうだけど……あたしのこと知ってるの？\nどこかで話したことあったかしら	Lilie	Why, yes. How do you know me? Have we met before?	莉莉	嗯，我确实是……你认识我吗？\n还是说我们在哪见过？	莉莉	嗯，是這樣沒錯……妳認識我嗎？\n我們有在哪裡說過話嗎？
+LegendEvent_00_010ID	7	???	？？？	いえ。先日、一度見かけただけですけど、\nその時にそれらしいことを言っていたような気がして	???	No, I've only seen you once before, but I remembered hearing something like that then.	？？？	没有没有，只是前几天碰巧见过而已，\n当时我听到了你说的话，听起来像是炼金术士的感觉。	？？？	沒有。我只是前幾天見過妳，\n記得當時妳好像說過關於鍊金術的事情。
+LegendEvent_00_010ID	8	???	？？？	あと、さっきの爆弾って……クラフトですよね？\n私の知っているものとは少しだけ違ったけど	???	Oh, and that explosion... That was a craft, wasn't it? Though it seemed a little different from the ones I know.	？？？	还有刚才你用的炸弹……是诡雷对吧？\n虽然和我熟悉的诡雷稍微有些不一样。	？？？	還有剛剛的炸彈……應該是卡夫吧？\n雖然和我知道的有點不一樣。
+LegendEvent_00_010ID	9	Resna	レスナ	えっ！！　クラフトを知っているってことは、\nもしやあなたも……！	Resna	Wait, if you know about crafts, does that mean you're...?	蕾斯娜	等等！！你也知道诡雷，\n这么说，难道说你也是……！	蕾斯娜	什麼！既然妳知道卡夫，\n那難不成妳也是……！
+LegendEvent_00_010ID	10	???	？？？	はい。私、錬金術士のエルフィールっていいます。\nあ、エリーと呼んでもらっても構いません	???	You are correct. I am the alchemist Elfir. But you can call me Elie.	？？？	是的。我是炼金术士艾菲尔。\n请叫我艾莉就好。	？？？	是的，我是鍊金術士艾菲爾。\n啊，妳們可以直接叫我艾莉。
+LegendEvent_00_010ID	11	Elie	エリー	家で寝たはずなのに、目が覚めたら\nなぜか原っぱみたいな場所にいて……	Elie	I was asleep at home, or so I thought, but I woke up in some grassy plain...	艾莉	我本来在家里睡得好好的，结果一觉醒来，\n发现不知为何身在一片田野上……	艾莉	我明明應該是在家裡睡覺的，\n可是一醒來卻不知為何地發現自己在一片原野上……
+LegendEvent_00_010ID	12	Elie	エリー	寝ぼけてたのかなって思って帰ろうとしたんですけど\nぜんぜん知らない場所だったので困ってたんです	Elie	I assumed I had been sleepwalking and tried to go back home, but I had no idea where I was.	艾莉	我还以为是自己睡迷糊了，正想往家走，\n却发现这地方我完全不认识，真是伤透了脑筋。	艾莉	本以為是自己睡迷糊了，想要找路回家，\n但這裡卻是個完全陌生的地方，讓我傷透腦筋了。
+LegendEvent_00_010ID	13	Lilie	リリー	何か、あたしと似たような話だわね……	Lilie	Sounds a lot like what happened to me...	莉莉	总感觉和我的经历差不多呢……	莉莉	妳的情況和我還真像……
+LegendEvent_00_010ID	14	Elie	エリー	錬金術士がいるなら、ザールブルグの近くなのかな？	Elie	If there are other alchemists here, then perhaps we are near Salburg?	艾莉	不过既然碰到了炼金术士，说明这里还是萨尔布鲁克附近吧？	艾莉	既然有鍊金術士，那我會是在薩爾布魯克的附近嗎？
+LegendEvent_00_010ID	15	Lilie	リリー	ザールブルグ……！？	Lilie	Salburg?!	莉莉	萨尔布鲁克……？！	莉莉	薩爾布魯克……！？
+LegendEvent_00_010ID	16	Elie	エリー	えっ？　そ、そうですけど……。知ってるんですか？	Elie	Y-Yes... Do you know of it?	艾莉	咦？是、是啊，怎么了……你知道这个地方吗？	艾莉	咦？是、是啊……妳知道那個地方嗎？
+LegendEvent_00_010ID	17	Lilie	リリー	え、ええ。知ってるわ	Lilie	Yes, yes I do.	莉莉	嗯。我知道。	莉莉	嗯、嗯，我知道。
+LegendEvent_00_010ID	18	Lilie	リリー	（でも、変だわ。ザールブルグに錬金術を広めたのは\n　あたしたちで、それまで錬金術はなかったはず）	Lilie	(This is odd. We were the ones who brought alchemy to Salburg. There were no other alchemists before that.)	莉莉	（不过不应该呀，在萨尔布鲁克普及炼金术的是我们，\n　照理说在此之前那里应该不了解炼金术才对。）	莉莉	（但這太奇怪了，是我們在薩爾布魯克推廣了鍊金術，\n　在那之前鍊金術應該是不存在的。）
+LegendEvent_00_010ID	19	Lilie	リリー	（それに、あの街では、あたしたちの他に\n　錬金術士は見かけなかった……）	Lilie	(And I hadn't seen any others aside from us there...)	莉莉	（而且在那座城镇也从来没见到过\n　除我们以外的炼金术士……）	莉莉	（而且在那座城鎮裡，\n　我從未見過我們之外的鍊金術士……）
+LegendEvent_00_010ID	20	Elie	エリー	よかった。ひょっとすると実は初対面じゃなくて、\nどこかで会っていたかもしれないですね	Elie	Oh thank goodness. Perhaps this isn't actually the first time we've met, then.	艾莉	那太好了。说不定我们以前也在哪里见过呢。	艾莉	太好了。說不定我們其實曾經在哪裡碰過彼此，\n不是第一次見面呢。
+LegendEvent_00_010ID	21	Lilie	リリー	…………	Lilie	...	莉莉	…………	莉莉	…………
+LegendEvent_00_010ID	22	Lilie	リリー	（ううん。多分、名前は一緒だけど別の街だわ。\n　話が食い違っているもの）	Lilie	(No, it must be a different place with the same name. Our stories don't add up.)	莉莉	（不，可能只是地方重名了而已。\n　毕竟她说的和我知道的都对不上。）	莉莉	（不對，可能名字是一樣的，但城鎮不同。\n　畢竟她所說的和我的認知有出入。）
+LegendEvent_00_010ID	23	Elie	エリー	それで、ここはどこなんでしょうか？	Elie	So, do you know where we are?	艾莉	话又说回来，这里到底是什么地方呢？	艾莉	所以，這裡是哪裡呢？
+LegendEvent_00_010ID	24	Elie	エリー	異邦人……マナがないと調合できない世界……	Elie	Wanderers... In a world where you need mana to synthesize...	艾莉	异邦人……没有玛那就无法调合的世界……	艾莉	異邦人……沒有瑪那就無法調合的世界……
+LegendEvent_00_010ID	25	Lilie	リリー	ええ。あたしとあなたは、多分どこか他の世界から\nここに飛ばされてきたんだわ	Lilie	Exactly. We must have been transported to this world from somewhere else.	莉莉	是的。我们两个大概都是从别的世界\n穿越到这个世界来的。	莉莉	沒錯，我和妳大概都是被從別的世界\n轉移到這裡來的。
+LegendEvent_00_010ID	26	Elie	エリー	何か変だなって思っていたけど、\nまさか別の世界に来ていたなんて	Elie	I knew something was off, but I never expected to end up in a different world.	艾莉	我确实感觉到有些奇怪，\n不过真没想到居然来到了其他的世界。	艾莉	我就一直覺得有點奇怪，\n但沒想到竟是來到了另一個世界。
+LegendEvent_00_010ID	27	Elie	エリー	でも同じ境遇の人がいて、\n少し安心しました	Elie	Still, I am relieved to see I'm not the only one.	艾莉	好在遇到了和我相同情况的人，\n稍微安心了点。	艾莉	不過聽到有人與我的處境相同，\n就稍微放心了。
+LegendEvent_00_010ID	28	Elie	エリー	そういえば、皆さんはここで何をしていたんですか？	Elie	What were you doing here, anyway?	艾莉	说起来，各位都在这做什么呢？	艾莉	對了，妳們剛才在這裡做什麼呢？
+LegendEvent_00_010ID	29	Izana	イザナ	アタシたちは、洞窟の調査に向かうとこだったんだ	Izana	We were about to head out to investigate a cave, actually.	伊札娜	我们正要去洞窟做些调查。	伊札娜	我們正準備去洞窟進行調查。
+LegendEvent_00_010ID	30	Resna	レスナ	実はこの近くの村……フリーゲンで重い病気にかかって\nしまった人がいて、原因を探っているところなんです	Resna	There's a village near here called Friegen. An awful illness has spread there, and we're trying to figure out why.	蕾斯娜	其实这附近的村子……弗里根那边有人重病缠身，\n我们正在寻找病因所在。	蕾斯娜	其實這附近的村子……弗里岡裡\n有人罹患重病，我們正在追查原因。
+LegendEvent_00_010ID	31	Elie	エリー	重い病気……	Elie	An awful illness...	艾莉	重病……	艾莉	重病……
+LegendEvent_00_010ID	32	Elie	エリー	あの、よかったら私にも手伝わせてもらえませんか？	Elie	If you don't mind, may I offer my help?	艾莉	既然如此，可以让我一起来帮忙吗？	艾莉	請問，不嫌棄的話可以讓我也一起幫忙嗎？
+LegendEvent_00_010ID	33	Elie	エリー	助けてもらったお礼もしたいですし、\n行く当てもありませんから	Elie	I would like to repay you for your help, and I have nowhere else to go.	艾莉	权当是你们救了我的谢礼，\n况且我也无处可去。	艾莉	我想回報妳們救我的恩情，\n而且我現在也無處可去。
+LegendEvent_00_010ID	34	Resna	レスナ	わあ、ありがとうございます！　錬金術士の方が\nまた一人増えるなんて、とっても心強いです！	Resna	We would really appreciate that! It would be such a help to have another alchemist around.	蕾斯娜	真的吗，实在太感谢了！\n又有一位炼金术士加入队伍实在太令人安心了！	蕾斯娜	哇，謝謝妳！\n又多了一個鍊金術士，真讓人覺得很安心呢！
+LegendEvent_00_010ID	35	Lilie	リリー	それじゃあ、行きましょう。みんな。\n手掛かりを絶対掴んでみせるわよ！	Lilie	All right, then. It's settled. Let's find some clues!	莉莉	那我们就出发吧。\n绝对找到点线索回来！	莉莉	那我們這就出發吧，\n絕對會找出線索的！
+LegendEvent_00_010ID	36	Elfir Traum	エルフィール・トラウム	錬金術士の少女で「エリー」と呼ばれている。\n真面目な性格だが、少しあわてんぼうなところがある	Elfir Traum	A young alchemist girl named Elie. Though serious and straight-laced, she can be a bit reckless sometimes.	艾菲尔·特劳姆	被大家称作”艾莉“的炼金术士少女。\n性格认真，但偶尔也会犯迷糊	艾菲爾‧特勞姆	是一名鍊金術士少女，被稱為「艾莉」。\n她個性認真，但又有點冒失。
+LegendEvent_00_011ID	0	Elie	エリー	高熱と、全身の強い痛みですか	Elie	So, a high fever and pains?	艾莉	高烧不退和全身剧痛是吗？	艾莉	會發高燒和全身劇烈疼痛啊。
+LegendEvent_00_011ID	1	Resna	レスナ	はい。その２つが主な特徴なんですが、\nとにかく症状が重くって	Resna	Yes. Those two symptoms are the main ones, but they can be very severe.	蕾斯娜	是的。这两个是主要特征，\n总之症状很严重。	蕾斯娜	是的，這兩個是主要的病徵，\n總之症狀非常嚴重。
+LegendEvent_00_011ID	2	Izana	イザナ	薬を飲んでも、ちょっと楽になるだけで、\nしばらくするとまた元に戻っちゃうんだって	Izana	Taking medicine only alleviates them and doesn't seem to cure the problem.	伊札娜	好像吃下药之后，症状会稍微缓和一些，\n但不久之后又会恢复原样。	伊札娜	聽說就算吃了藥，也只能稍微緩解症狀，\n過不了多久又會回到原來的狀態了。
+LegendEvent_00_011ID	3	Lilie	リリー	エリー？　どうしたの？	Lilie	Elie? What's wrong?	莉莉	艾莉？怎么了吗？	莉莉	艾莉？妳怎麼了？
+LegendEvent_00_011ID	4	Elie	エリー	その症状、私が昔かかった病気にすごく似ています	Elie	Those symptoms... It sounds like an illness I've experienced before.	艾莉	这个症状和我以前得的病很相似呢。	艾莉	那症狀和我以前得過的病非常相似。
+LegendEvent_00_011ID	5	Elie	エリー	酷い伝染病で、故郷のみんなも次々倒れて。\nあの時は本当に村の危機でした	Elie	An awful, highly contagious disease that took many people from my hometown. Our village was nearly destroyed.	艾莉	那是种严重的传染病，当时故乡的大家都相继病倒了。\n村里可以说是遭遇了很大的危机。	艾莉	那是嚴重的傳染病，我故鄉的人也都相繼病倒了，\n當時村子真的陷入了危機。
+LegendEvent_00_011ID	6	Izana	イザナ	でも、今エリーは元気だよね？\nそれって、どうやって治ったの？	Izana	But you're okay now, right, Elie? How did you manage to treat it?	伊札娜	但是艾莉现在已经痊愈了不是吗？\n还记得是怎么治好的吗？	伊札娜	不過，現在艾莉很健康吧？\n妳是怎麼治好的呢？
+LegendEvent_00_011ID	7	Elie	エリー	それが、私は意識を失っていたので\nどうやって治ったのかは分からないんです	Elie	I do not know. By that time, I was already unconscious.	艾莉	那时候我病得都失去意识了。\n到底是怎么治好的也不太清楚。	艾莉	當時我已經失去了意識，\n所以不清楚是怎麼治好的。
+LegendEvent_00_011ID	8	Elie	エリー	ただ、特効薬を飲んだことですぐに治った、らしいです	Elie	But I do know that I drank a potent tonic that cured me soon after.	艾莉	但我听说好像是吃了特效药之后就迅速恢复了。	艾莉	但我好像是服用特效藥，很快就康復了。
+LegendEvent_00_011ID	9	Resna	レスナ	特効薬……！\nそれって、どんな！？	Resna	A tonic! What kind was it?	蕾斯娜	特效药……！\n是什么样的特效药？！	蕾斯娜	特效藥……！\n那是什麼樣的藥呢！？
+LegendEvent_00_011ID	10	Elie	エリー	どんな薬かは分かりません。錬金術で作られたって話\nですがその時は錬金術って言葉すら知りませんでしたし	Elie	An alchemist brewed it for me. Though, I did not know what an alchemist even was at the time.	艾莉	我也不清楚是什么样的药，只听说是炼金术做出来的。\n不过当时的我连炼金术是什么都不知道呢。	艾莉	我不清楚那是什麼藥。聽說是用鍊金術製成的，\n但那時我連鍊金術這個詞都不知道。
+LegendEvent_00_011ID	11	Elie	エリー	こういうとき、きっとマルローネさんがいたら\nささっと薬を作ってしまうんだろうなあ	Elie	If only Marlone was here. She would whip up a cure in no time.	艾莉	要是这种时候玛洛娜小姐在就好了，\n相信她肯定很快就能把特效药做出来。	艾莉	這種時候要是瑪洛娜小姐在的話，\n她一定會馬上做出藥來的。
+LegendEvent_00_011ID	12	Elie	エリー	……あ、マルローネさんというのは\nその特効薬を作って、村を救ってくれた人です	Elie	Oh, actually, it was Marlone who brewed the medicine and saved the village.	艾莉	啊，忘记说了，玛洛娜小姐就是\n当时做出特效药救了全村子的人。	艾莉	……啊，瑪洛娜小姐就是製作特效藥，\n拯救了村子的人。
+LegendEvent_00_011ID	13		レスナ＆イザナ	ええっ！？	Resna & Izana	What?!	蕾斯娜＆伊札娜	什么？！	蕾斯娜＆伊札娜	什麼！？
+LegendEvent_00_011ID	14	Izana	イザナ	マルローネって、あのマルローネのこと！？	Izana	Marlone?! You mean THE Marlone?!	伊札娜	你说的玛洛娜，不会就是那个人吧？！	伊札娜	妳說的瑪洛娜，就是那個瑪洛娜嗎！？
+LegendEvent_00_011ID	15	Elie	エリー	二人とも、マルローネさんを知っているんですか？\n私はあの人に憧れて、錬金術の道を志したんです	Elie	You two know Marlone? She's the reason why I became an alchemist in the first place.	艾莉	二位认识玛洛娜小姐吗？\n我就是出于对她的憧憬，才走上了炼金术士这条路。	艾莉	妳們兩位都認識瑪洛娜小姐嗎？\n我就是因為崇拜她，才立志踏上鍊金術之路的。
+LegendEvent_00_011ID	16	Resna	レスナ	もしエルフィール先輩が話しているのが錬金術士の\nマルローネ先輩のことなら、よく知っています	Resna	If the Marlone you're talking about is the Miss Marlone I know, then yes, I know her very well.	蕾斯娜	如果艾菲尔前辈说的是炼金术士玛洛娜前辈的话，\n我确实认识她。	蕾斯娜	如果艾菲爾前輩說的是鍊金術士瑪洛娜前輩的話，\n那我就很清楚了。
+LegendEvent_00_011ID	17	Resna	レスナ	異邦人としてこちらの世界に来ていて、\n今までもたくさん助けていただきました！	Resna	She also came here as a wanderer and helped save many lives!	蕾斯娜	她也是来到这个世界的异邦人，\n我至今为止受到了她不少帮助！	蕾斯娜	她是來到這個世界的異邦人，\n至今為止我們也受了她不少幫助！
+LegendEvent_00_011ID	18	Resna	レスナ	確かにマルローネ先輩の力なら特効薬を\n作れると思います！	Resna	And you're right—with Miss Marlone's help, I'm sure we can brew a proper cure!	蕾斯娜	确实要是玛洛娜前辈能来帮忙的话，\n做出特效药想必也是不在话下！	蕾斯娜	要是仰仗瑪洛娜前輩的力量，\n我想一定能做出特效藥的！
+LegendEvent_00_011ID	19	Elie	エリー	そっか……マルローネさんが、この世界に……	Elie	I see... So Marlone is in this world...	艾莉	这样啊……玛洛娜小姐也来到这个世界了吗……	艾莉	這樣啊……瑪洛娜小姐在這個世界……
+LegendEvent_00_011ID	20	Resna	レスナ	私、一度アトリエに戻って、マリオンさんに伝言を\nお願いしてきますね！	Resna	I'll go back to the atelier and send word to Marion right away!	蕾斯娜	那我先回一趟炼金工房，\n去拜托玛丽翁小姐帮忙传个口信！	蕾斯娜	我先回鍊金工房一趟，\n拜託瑪麗翁小姐幫我們傳話！
+LegendEvent_00_011ID	21	Resna	レスナ	次にマルローネ先輩がいらしたら、聞きたいことが\nあるから待っていてほしいと、伝えてもらいます！	Resna	I shall ask her to tell Miss Marlone that there is something we'd like to ask the next time she sees her.	蕾斯娜	我就请玛丽翁小姐见到玛洛娜前辈的话\n让她在工房等我们一下，我们有事想问她！	蕾斯娜	請她下次看到瑪洛娜前輩時，\n轉告她說我們有事情想問問她，希望她能等我們回去！
+LegendEvent_00_011ID	22	Resna	レスナ	すぐに戻りますから、皆さんはここで休んでいて\nください！	Resna	I'll be back in just a moment. Please, rest in the meantime!	蕾斯娜	我马上就回来，大家先在这休息一下吧！	蕾斯娜	我馬上就回來，\n請大家在這裡休息一下！
+LegendEvent_00_011ID	23	Elie	エリー	そうだ。イザナさん、よかったらこちらの世界での\nマルローネさんのこと、聞かせてもらえませんか？	Elie	Right. Izana, could you ask Marlone for information about this world?	艾莉	对了，伊札娜小姐，方便向你请问下\n玛洛娜小姐在这个世界的事情吗？	艾莉	對了，伊札娜。妳可以跟我說一下\n瑪洛娜小姐在這個世界的事蹟嗎？
+LegendEvent_00_011ID	24	Izana	イザナ	もちろんいいよ！　んーっと、マルローネはね、\nどかーんと活躍してるんだ！	Izana	Of course! Marlone has been suuuper busy!	伊札娜	当然可以啊！让我想想哦，玛洛娜她啊，\n在这个世界可是活跃得轰轰烈烈的呢！	伊札娜	當然可以啊！我想想，\n瑪洛娜在這裡可是砰砰蹦蹦地活躍得很喔！
+LegendEvent_00_011ID	25	Lilie	リリー	どかーん？	Lilie	"""Suuuper"" busy?"	莉莉	轰轰烈烈？	莉莉	砰砰蹦蹦？
+LegendEvent_00_011ID	26	Izana	イザナ	邪魔な岩を爆弾で派手に吹き飛ばしたり……	Izana	She blows up huge boulders with bombs...	伊札娜	比如把挡路的岩石轰隆一下华丽地炸飞……	伊札娜	她會用炸彈把礙事的岩石炸得滿天飛……
+LegendEvent_00_011ID	27	Izana	イザナ	戦いで大ケガして、かなり危なかった仲間のために\n一緒に薬を作ってくれたり！	Izana	...and she brews potions to help teammates who are injured in battle!	伊札娜	还有，我们还一起为了战斗中受重伤\n生命垂危的伙伴做了药！	伊札娜	她還會為了我們一位在戰鬥中身受重傷，\n生命垂危的夥伴一起製作藥物！
+LegendEvent_00_011ID	28	Elie	エリー	そうなんですね。ふふっ。\nマルローネさん、変わらないなぁ	Elie	Is that so? Heheh. So Marlone hasn't changed after all.	艾莉	这样啊，呵呵。\n玛洛娜小姐真是一点没变呢。	艾莉	原來如此，呵呵。\n瑪洛娜小姐真是一點也沒變呢。
+LegendEvent_00_011ID	29	Lilie	リリー	えっと……常識に縛られない行動力の持ち主って\nことかな	Lilie	Hmm... Sounds like she doesn't let anything get in her way.	莉莉	听起来……她是个行动非常果敢，\n不受惯性思维束缚的人。	莉莉	所以……她是個不受常理所拘束，\n又非常有行動力的人吧？
+LegendEvent_00_011ID	30	Lilie	リリー	それに、すごい実力を兼ね備えた人なのね。伝染病から\n村を救ったり、重傷の人を助けたりするなんて	Lilie	And she has so much experience. Saving a village from disease, helping the severely injured...	莉莉	不仅如此，她还具备极为强大的实力，\n遇到被传染病侵袭的村子或是受了重伤的人都会出手相助。	莉莉	而且她有著高強的實力呢。將整個村子\n從傳染病的困境中解救出來，還幫助了重傷的人。
+LegendEvent_00_011ID	31	Lilie	リリー	あたしもその人に会えるといいんだけど……	Lilie	I hope I get to meet her someday.	莉莉	我也好想认识认识她呀……	莉莉	要是我也能見見她就好了……
+LegendEvent_00_011ID	32	Izana	イザナ	レスナちゃんが戻ってきたね	Izana	Resna's back.	伊札娜	蕾斯娜回来了。	伊札娜	蕾斯娜回來了呢。
+LegendEvent_00_011ID	33	Lilie	リリー	それじゃあ、また出発しましょうか	Lilie	All right. Let us depart.	莉莉	那我们出发吧。	莉莉	好，那我們再次出發吧。
+LegendEvent_00_012ID	0	Resna	レスナ	ここが、村で「滝の洞窟」と呼ばれている所です	Resna	This is what the villagers call Waterfall Cave.	蕾斯娜	这里就是被村民们称为“瀑布洞窟”的地方。	蕾斯娜	這裡就是村民稱為「瀑布的洞窟」的地方。
+LegendEvent_00_012ID	1	Lilie	リリー	うっ……ヘビとかトカゲとかが出ませんように	Lilie	Urk... I sure hope there aren't any snakes or lizards around.	莉莉	呜……千万要保佑我们不会遇到蛇或者蜥蜴。	莉莉	嗚……希望不要出現蛇或蜥蜴之類的小生物。
+LegendEvent_00_012ID	2	Resna	レスナ	できれば変な虫とかも……	Resna	And no bugs, either...	蕾斯娜	最好奇怪的虫子也能速速退散……	蕾斯娜	也希望不要有什麼怪怪的蟲……
+LegendEvent_00_012ID	3	Elie	エリー	そのときは私が追っ払いますから、\n心配しないでください	Elie	If there are, I'll drive them away. Do not worry.	艾莉	别担心，\n万一真出现了我会替你们赶走它们的。	艾莉	出現了我也會趕跑牠們的，\n請妳們不用擔心。
+LegendEvent_00_012ID	4	Resna	レスナ	な、なんと頼もしいお言葉！	Resna	Oh, you're so reliable!	蕾斯娜	听、听你这么说我们就安心了！	蕾斯娜	這、這句話聽了真叫人放心！
+LegendEvent_00_012ID	5	Lilie	リリー	エリーはそういうの平気なのね……。\nそれじゃあ、手分けして手掛かりを探しましょう	Lilie	I wasn't aware Elie could handle such things... Good. That means we can split up and find clues.	莉莉	艾莉居然不怕那些啊……\n好，我们分头找找线索吧。	莉莉	原來艾莉完全不怕那些東西呀……\n那我們就分頭尋找線索吧。
+LegendEvent_00_012ID	6	Lilie	リリー	聞いてはいたけど、本当に色んな\n植物が自生してるのね	Lilie	I had heard rumors, but there truly are so many different plants growing here.	莉莉	虽说此前也有所耳闻，\n在这里生长的植物真是种类众多呢。	莉莉	雖然事前就聽說了，\n但這裡真的生長了很多植物呢。
+LegendEvent_00_012ID	7	Elie	エリー	結構、立派に育ってますね	Elie	And they're certainly thriving, too.	艾莉	而且长势也十分喜人。	艾莉	而且長得還挺不錯的。
+LegendEvent_00_012ID	8	Lilie	リリー	天気の影響も受けなそうだし、これなら確かに\n村の人たちがわざわざやって来るのも理解できるわね	Lilie	Not too affected by weather, either. I can see why the villagers come all the way out here.	莉莉	看起来也不太容易受天气影响，\n难怪村民们会特地来这里。	莉莉	這裡好像也不會受到天氣的影響，\n確實可以理解為什麼村民要特地跑來了。
+LegendEvent_00_012ID	9	Elie	エリー	私も貧しい村の出身だから、こういう場所を\n大事にしたいって気持ちは分かるかも	Elie	I also come from a poorer village, so I can understand why they'd protect this place.	艾莉	我也是出身于贫苦村子，\n所以能理解这样的地方是多么可贵。	艾莉	我故鄉的村子也很貧窮，\n或許能懂村民想要好好珍惜這種地方的心情。
+LegendEvent_00_012ID	10	Elie	エリー	たとえ魔物が出るような場所でも……	Elie	Even if it's home to monsters...	艾莉	就算这里有魔物出没……	艾莉	就算這會有魔物出沒……
+LegendEvent_00_012ID	11	Resna	レスナ	……見た感じ、特に変わったところは\n何もなさそうですね	Resna	From what I can tell, there doesn't appear to be anything unusual.	蕾斯娜	……这里看上去好像没有什么\n特别奇怪的地方呢。	蕾斯娜	……這裡看起來\n好像沒什麼特別奇怪的地方。
+LegendEvent_00_012ID	12	Elie	エリー	でも、妙な匂いは感じます	Elie	But, I can smell something strange.	艾莉	但我总感觉闻到了一些味道。	艾莉	可是，我聞到了一股奇妙的味道。
+LegendEvent_00_012ID	13	Resna	レスナ	匂い？	Resna	Smell?	蕾斯娜	味道？	蕾斯娜	味道？
+LegendEvent_00_012ID	14	Elie	エリー	何か、ほんのり甘い感じの……	Elie	Something a bit sweet...	艾莉	嗯，虽然只有一点点，但是感觉是一种甜甜的香气……	艾莉	感覺有點甜甜的……
+LegendEvent_00_012ID	15	Lilie	リリー	言われてみれば、そんな気もするような、\nしないような……	Lilie	Now that you mention it, I smell it too...	莉莉	听你这么一说，\n好像确实是能闻到一点……	莉莉	經妳這麼一說，\n我覺得好像有聞到又好像沒有……
+LegendEvent_00_012ID	16	Resna	レスナ	すみません、私には分からないですね	Resna	Sorry. I don't smell anything.	蕾斯娜	抱歉，我好像没闻到。	蕾斯娜	抱歉，我聞不出來。
+LegendEvent_00_012ID	17	Izana	イザナ	もう少し奥に行ってみようよ。\n何か分かるかも知れないし！　匂いの元とか！	Izana	Let's go a bit farther. Maybe we'll find something, like the source of that smell!	伊札娜	我们稍微再往深处走走吧。\n说不定能查到些什么！例如这种香气的源头！	伊札娜	我們再往裡面走走看吧。\n也許能有什麼發現！像氣味的來源之類的！
+LegendEvent_00_012ID	18	Resna	レスナ	そうだね……	Resna	Right...	蕾斯娜	好吧……	蕾斯娜	說得也是……
+LegendEvent_00_013ID	0	Elie	エリー	そこだよ！　えーいっ！	Elie	Right there! Hi-yah!	艾莉	接招！嘿！	艾莉	就是那裡！嘿～！
+LegendEvent_00_013ID	1	Elie	エリー	……よし！　皆さん、ケガはないですか？	Elie	Good work, everyone. No injuries, I hope?	艾莉	……解决了！大家都没有受伤吧？	艾莉	……好！大家都沒受傷吧？
+LegendEvent_00_013ID	2	Lilie	リリー	大丈夫よ。でも、驚いた。エリーって、\n実はかなり戦い慣れてる？	Lilie	We're all right. I'm surprised. I didn't know you were so good at fighting, Elie.	莉莉	没什么事。\n不过没想到，艾莉原来这么擅长战斗啊？	莉莉	沒事的。但我嚇了一跳，\n原來艾莉還滿熟悉戰鬥的？
+LegendEvent_00_013ID	3	Izana	イザナ	アタシもそう思った！　相手や状況に合わせた\n戦い方、すっごく上手いよね！	Izana	I thought the same. The way you adapted to each enemy was very impressive!	伊札娜	我也这么觉得！艾莉这种能根据对手和环境\n随机应变的战斗方式实在太厉害啦！	伊札娜	我也這麼覺得！\n配合對手能力和狀況改變戰法，真是太厲害了！
+LegendEvent_00_013ID	4	Elie	エリー	そうですか？　外を出歩いているうちに、\nいつの間にか身についたのかなぁ？	Elie	Really? I suppose I must've picked it up while I was out adventuring.	艾莉	有吗？或许是因为我经常行走在野外，\n不知不觉就对这种战斗方式烂熟于心了吧？	艾莉	會嗎？這可能是我在外頭闖蕩的時候，\n不知不覺就學起來的吧？
+LegendEvent_00_013ID	5	Izana	イザナ	出会った時みたいに大群に囲まれたりしなければ\n大抵の敵には勝てちゃいそう	Izana	As long as we don't get surrounded like the first time we met, I think I can handle most enemies.	伊札娜	刚碰见你的时候也是，那时候要不是敌人实在太多，\n你早就把它们打得落花流水了吧。	伊札娜	只要不是像我們剛相遇時那樣被一大群包圍，\n妳應該能打贏大多數的敵人。
+LegendEvent_00_013ID	6	Resna	レスナ	エルフィール先輩の戦い方、\nとっても勉強になります！	Resna	Always a pleasure to watch you fight, Miss Elfir!	蕾斯娜	艾菲尔前辈的战斗方式\n着实让我受益匪浅！	蕾斯娜	艾菲爾前輩的作戰方式\n真是讓我獲益良多！
+LegendEvent_00_013ID	7	Lilie	リリー	（やっぱり、あたしのいたザールブルグと\n　エリーのいたザールブルグは別の街よね……）	Lilie	(She and I must be from different Salburgs, I just know it.)	莉莉	（看来我曾经所在的萨尔布鲁克\n　和艾莉口中的萨尔布鲁克肯定不是同一个地方……）	莉莉	（艾莉過去所在的薩爾布魯克，\n　果然和我待過的薩爾布魯克是兩個不同的城鎮……）
+LegendEvent_00_013ID	8	Lilie	リリー	（これだけの実力を持った錬金術士がいたら\n　噂の１つぐらい流れてくるはずだもの……）	Lilie	(If an alchemist as strong as her had been around, I would've at least heard a rumor...)	莉莉	（要是真有实力如此强劲的炼金术士存在，\n　总会有那么一两个传闻才对……）	莉莉	（若有如此實力高強的鍊金術士存在，\n　我應該多少都會聽到一些傳聞……）
+LegendEvent_00_013ID	9	Izana	イザナ	うわあ、匂いがキョーレツになってきた！	Izana	Whoa! That's a pretty strong smell!	伊札娜	哇，香气逐渐变得浓烈起来了！	伊札娜	哇，味道越來越濃烈了！
+LegendEvent_00_013ID	10	Resna	レスナ	うん、ここまで来たら確かに何か\n甘い匂いをはっきり感じるね	Resna	Yeah, now that we're here, I can definitely smell that sweet aroma.	蕾斯娜	嗯，走到这里之后\n确实能清晰闻到某种甜甜的味道。	蕾斯娜	嗯，到這裡之後確實可以\n清楚聞到某種甜味。
+LegendEvent_00_013ID	11	Elie	エリー	でもなんの匂いかまでは分からないなあ	Elie	But I still can't tell what it is.	艾莉	但还是不清楚这到底是什么味道呢。	艾莉	但還搞不清楚那究竟是什麼味道啊。
+LegendEvent_00_013ID	12	Lilie	リリー	思ったんだけど、村の人たちはこんな所まで\n足を運んでいるのかしら？	Lilie	Do the villagers really travel all the way out here?	莉莉	我在想，村民们平常会来到这么深的地方吗？	莉莉	我是在想，那些村民會千里迢迢\n跑來這種地方嗎？
+LegendEvent_00_013ID	13	Izana	イザナ	さすがにそれはないよー。危ないって！	Izana	Of course not! It's much too dangerous!	伊札娜	应该不会吧，毕竟这地方看上去也挺危险的！	伊札娜	那肯定是不可能的吧，太危險了！
+LegendEvent_00_013ID	14	Lilie	リリー	そうよね。うーん、あまり調査の意味はないのかしら	Lilie	As I thought. Perhaps an investigation wasn't the wisest choice.	莉莉	也是。唔——看来继续调查这里可能也没多大意义了。	莉莉	對吧。嗯～那會不會沒什麼調查價值呢？
+LegendEvent_00_013ID	15	Resna	レスナ	でもせっかくここまで来たんだし、\nもう少し奥まで調べてみませんか	Resna	But we've already come this far. We should go a little farther in to look around.	蕾斯娜	但我们都好不容易走到这里了，\n再稍微调查一下吧。	蕾斯娜	不過好不容易都來到這裡了，\n我們再往裡面調查看看吧？
+LegendEvent_00_013ID	16	Lilie	リリー	そうね。でも、魔物もいるし慎重に行きましょう	Lilie	I suppose. There are monsters though, so be careful.	莉莉	嗯。不过魔物也有不少，大家小心行事。	莉莉	也好。但裡面還有魔物，我們小心前進吧。
+LegendEvent_00_014ID	0	Lilie	リリー	ねえ、この甘い匂い、一層強くなってきた\n気がするんだけど……	Lilie	Is it me, or has the sweet smell gotten much stronger?	莉莉	总觉得这个香气\n好像又稍微变浓了一些……	莉莉	我說啊，那個甜甜的味道\n感覺好像越來越濃了……
+LegendEvent_00_014ID	1	Resna	レスナ	そうですね。確かに	Resna	It definitely has.	蕾斯娜	确实，我也这么觉得。	蕾斯娜	沒錯呢，確實是。
+LegendEvent_00_014ID	2	Elie	エリー	もしかして、何か果物がなっていたりするのかな。\nそれか、お菓子を作る素材になりそうなものとか	Elie	I wonder if it could be a fruit. Maybe something that can be put into sweets?	艾莉	难道会是什么水果之类的吗？\n还是说是可以做成点心的素材呢？	艾莉	那裡頭是不是長了什麼水果呢？\n或者是可以做點心的某種素材？
+LegendEvent_00_014ID	3	Lilie	リリー	お菓子かぁ……そういえば最近は\n甘いものぜんぜん食べてないなぁ	Lilie	Hmm, sweets... I haven't had any of those in a while.	莉莉	点心啊……\n说起来最近都没怎么摄入糖分呢。	莉莉	點心啊……這麼說來，\n最近完全沒有吃到甜食呢。
+LegendEvent_00_014ID	4	Elie	エリー	私もです。美味しいチーズケーキが食べたいなぁ	Elie	I haven't, either. I'd love a delicious cheesecake right now.	艾莉	我也是。好想吃点好吃的奶酪蛋糕啊——	艾莉	我也是，好想吃美味的乳酪蛋糕喔。
+LegendEvent_00_014ID	5	Lilie	リリー	焼き菓子もいいわよねぇ。口に入れたときに広がる\nあの風味と幸福感がたまらなくて……	Lilie	Pastries are lovely, too. Nothing beats that rich flavor the moment it hits your tastebuds...	莉莉	烘培点心也很不错的哦。\n那种入口即化的口感和幸福感是真让人欲罢不能啊……	莉莉	烤餅乾也很不錯呢。一口咬下後在嘴裡散開的\n那個味道和幸福感真讓人受不了……
+LegendEvent_00_014ID	6	Izana	イザナ	あはは。二人とも甘いものが大好きみたいだね、\nレスナちゃ……レスナちゃん？	Izana	Hahaha. You two just love your sweets, don't you, Resna... Resna?	伊札娜	啊哈哈。两位真是忠实的甜食爱好者呢。\n蕾斯娜……你怎么了？	伊札娜	哈哈哈，妳們好像都很喜歡甜食呢，\n蕾斯娜妳……蕾斯娜？
+LegendEvent_00_014ID	7	Resna	レスナ	リリー先輩！　エルフィール先輩！\nちょっと待ってください！	Resna	Miss Lilie, Miss Elfir! Wait a moment!	蕾斯娜	莉莉前辈！艾菲尔前辈！\n可以稍微等一下吗！	蕾斯娜	莉莉前輩！艾菲爾前輩！\n請妳們等一下！
+LegendEvent_00_014ID	8	Lilie	リリー	ん？	Lilie	Hm?	莉莉	嗯？	莉莉	嗯？
+LegendEvent_00_014ID	9	Elie	エリー	どうしたんですか？	Elie	What's the matter?	艾莉	怎么了？	艾莉	怎麼了呢？
+LegendEvent_00_014ID	10	Resna	レスナ	この甘い匂い、もしかしたら魔物の仕業かも\nしれません	Resna	This sweet scent could be the work of a monster.	蕾斯娜	这股甜香有可能是魔物在作祟。	蕾斯娜	這股甜味\n說不定是魔物搞的鬼。
+LegendEvent_00_014ID	11	Lilie	リリー	えっ！？	Lilie	What?!	莉莉	什么？！	莉莉	咦！？
+LegendEvent_00_014ID	12	Resna	レスナ	以前、本で読んだんです。洞窟には特殊な環境でも\n生きていけるよう、独自の生態を持ったものがいると	Resna	I read about it in a book once. A creature that possesses a unique ability suitable for living anywhere, including caves.	蕾斯娜	我以前在书上读到过，有些魔物为了能在洞窟这种\n特殊环境下生存，会产生独特的生存方式。	蕾斯娜	以前我曾在書上看過。據說洞窟中有一些生物\n具備獨特的生態，以便牠們在特殊的環境下也能生存。
+LegendEvent_00_014ID	13	Elie	エリー	へえー。たとえばどんなものが？	Elie	Huh. What ability would that be?	艾莉	还有这种事啊。有什么例子吗？	艾莉	哦？例如什麼樣的生態？
+LegendEvent_00_014ID	14	Resna	レスナ	……たとえば、獲物を自分の巣に誘うため\n特徴的な匂いを発したり、とかです	Resna	Like the ability to release a special aroma, used to entice prey into its nest.	蕾斯娜	……比如说，有些魔物会散发出某种特别的气味，\n来引诱猎物接近自己的巢穴。	蕾斯娜	……像是為了引誘獵物進入自己的巢穴，\n會散發出一種獨具特色的氣味等等。
+LegendEvent_00_014ID	15	Lilie	リリー	そ、それって、今まさにじゃない	Lilie	Th-That could be happening right now.	莉莉	那、那不就是我们现在遇到的情况吗？	莉莉	那、那不就是現在這樣嗎？
+LegendEvent_00_014ID	16	Elie	エリー	…………	Elie	...	艾莉	…………	艾莉	…………
+LegendEvent_00_014ID	17	Izana	イザナ	…………	Izana	...	伊札娜	…………	伊札娜	…………
+LegendEvent_00_014ID	18	Lilie	リリー	何か、イヤな予感がしてきたわ	Lilie	I don't like where this is going.	莉莉	我有种不好的预感。	莉莉	我開始有一種不妙的預感。
+LegendEvent_00_014ID	19	Elie	エリー	私も魔物の可能性は考えてなかったです。\n警戒したほうがよさそうですね	Elie	I didn't consider the possibility of a monster, either. Perhaps we should be more careful.	艾莉	我也没预料到居然会是魔物。\n我们还是小心谨慎些为好。	艾莉	我也沒想到有可能會是魔物。\n看來還是提高警戒比較好。
+LegendEvent_00_014ID	20	Lilie	リリー	そうね。でもこの先に手掛かりがあるかもしれないわ。\n油断せず進みましょう	Lilie	Right. Still, there may be a clue in here. We should stay alert and keep moving.	莉莉	是啊。不过这前面说不定会有我们要找的线索，\n不要放松警惕，继续前进吧。	莉莉	是呀。不過前方或許會有線索。\n別掉以輕心，我們繼續前進吧。
+LegendEvent_00_015ID	0	Resna	レスナ	そろそろ何かあってもよさそうなんですが……	Resna	Now would be a great time to find a clue...	蕾斯娜	总感觉是时候该发生些什么了……	蕾斯娜	感覺好像該出現個什麼東西了……
+LegendEvent_00_015ID	1	Lilie	リリー	みんな！　魔物がいるわ！	Lilie	Look, everyone! There's a monster!	莉莉	各位小心！有魔物！	莉莉	各位！有魔物！
+LegendEvent_00_015ID	2	Resna	レスナ	まだこちらには気付いてないみたいですね	Resna	Seems like it hasn't noticed us yet.	蕾斯娜	好像还没注意到我们。	蕾斯娜	牠似乎還沒察覺到我們的存在呢。
+LegendEvent_00_015ID	3	Izana	イザナ	あいつ、ぜんぜん動いてないよ？　何してるんだろう？	Izana	It isn't moving at all. What is it doing?	伊札娜	那家伙怎么一动不动的？是在做什么吗？	伊札娜	那傢伙一動也不動呢！牠在做什麼啊？
+LegendEvent_00_015ID	4	Lilie	リリー	ううん。よく見ると……何か粉のようなものを\n撒いているように見える	Lilie	I think I can see some sort of...powder floating around it.	莉莉	嗯，看起来……好像是在散播一些粉末状的东西。	莉莉	不對，仔細一看……\n牠好像在散布某種像粉一樣的東西。
+LegendEvent_00_015ID	5	Elie	エリー	ええっ！？　他の魔物が動かなくなった！？	Elie	What?! That other monster just stopped moving!	艾莉	等等？！其他魔物怎么都倒地不动了？！	艾莉	什麼！？其他的魔物都慢慢不動了！？
+LegendEvent_00_015ID	6	Resna	レスナ	……何か、分かったような気がします	Resna	I think I've figured it out.	蕾斯娜	……我好像明白了。	蕾斯娜	……我好像明白了什麼。
+LegendEvent_00_015ID	7	Resna	レスナ	あの粉……いえ、胞子でしょうか？\nあれを吸いすぎるとああいう症状が出るのでは	Resna	That powder—no, those spores. Perhaps that is the source of the symptoms.	蕾斯娜	是那个粉末……不，应该说是孢子吧？\n万一不小心吸入的话就会出现那种症状。	蕾斯娜	那些粉……不，那是胞子吧？\n我在猜吸入過量胞子是不是就會出現那樣的症狀？
+LegendEvent_00_015ID	8	Lilie	リリー	そんな気がするわ。\nはっ、この甘い匂いもひょっとして胞子！？	Lilie	I think so, too. Maybe the spores are causing the sweet smell!	莉莉	我也这么觉得。\n啊，难道说这股甜香也是孢子吗？！	莉莉	我也這麼覺得。\n啊，這股甜味難道也是胞子！？
+LegendEvent_00_015ID	9	Elie	エリー	じゃあ私たちも動けなく……	Elie	Then, what about us?	艾莉	那我们岂不是也会变得动弹不得……	艾莉	那我們身體也會漸漸麻痺……
+LegendEvent_00_015ID	10	Resna	レスナ	まだ大丈夫みたいです。一度に過剰に吸い込んだり\n長い期間吸い続けてたりしたら分かりませんが	Resna	We should still be all right. So long as we do not inhale too much at once, or for too long.	蕾斯娜	好像暂时还没什么问题。不知道是一次性过量吸入\n还是长时间吸入才会变成那样。	蕾斯娜	看樣子還不用擔心。但出現症狀是要一次大量吸入，\n還是要長時間持續吸入就不知道了。
+LegendEvent_00_015ID	11	Lilie	リリー	……そうだわ、村の人たちはこの洞窟の近くまで\n食べ物を集めに来るって話だったわね	Lilie	Right. Those villagers come here to collect food, after all.	莉莉	……我想起来了，\n村里的人不是会在这个洞窟附近采集食物吗。	莉莉	……對了，那些村民說他們\n會到這座洞窟的附近採集食材呢。
+LegendEvent_00_015ID	12	Lilie	リリー	もしこの胞子が長い時間をかけてその食べ物に\n付着し続けていたら……？	Lilie	If these spores managed to stick to the food for long enough...	莉莉	若是这种孢子能长时间\n附着在食物上的话……？	莉莉	如果這些胞子長期下來\n不斷附著在那些食材上的話……
+LegendEvent_00_015ID	13	Resna	レスナ	この胞子で汚染されたものを食べてしまった人が\n病気を発症してしまうことがある……？	Resna	...the people who ate it might've been infected with its disease.	蕾斯娜	人们误食了被孢子污染的食物，\n久而久之便可能患上那种疾病……？	蕾斯娜	人類吃下受到胞子汙染的食材之後\n可能就會發病……？
+LegendEvent_00_015ID	14	Izana	イザナ	ってことは、フリーゲンの風土病の原因は\nあの胞子！？	Izana	"Which means, the ""endemic"" in Friegen has actually been caused by those spores?!"	伊札娜	也就是说，弗里根地方病的病因\n原来就是这种孢子吗？！	伊札娜	也就是說，引發弗里岡地方流行病的原因\n就是那些胞子！？
+LegendEvent_00_015ID	15	Lilie	リリー	かもしれない。でもどちらにしてもこんな危険な魔物を\n放ってはおけないわ。あたしたちで倒しましょう！	Lilie	It could be. Either way, we need to get rid of this dangerous monster. Let's take it down it together!	莉莉	有可能。无论如何，不能就这样放任如此危险的魔物\n胡作非为。让我们齐心协力打倒它吧！	莉莉	有可能。但不管怎麼說都不能放著\n那麼危險的魔物不管。我們來打倒牠吧！
+LegendEvent_00_015ID	16	Elie	エリー	はい！　これ以上、被害を出すわけにはいきません！	Elie	Yes. We cannot leave it to victimize others!	艾莉	好！不能再放任它造成更多的伤亡了！	艾莉	好！不能再讓更多人受害了！
+LegendEvent_00_016ID	0	Elie	エリー	リリーさん、援護します！	Elie	I've got you, Lilie!	艾莉	莉莉小姐，我来掩护你！	艾莉	莉莉小姐，我來掩護妳！
+LegendEvent_00_016ID	1	Lilie	リリー	助かるわ！　よーし、すごいのをお見舞いするわよ！	Lilie	Thanks! Now to finish this with something incredible!	莉莉	谢谢！那么，就让我来给你点厉害瞧瞧吧！	莉莉	太好了！來吧，讓你嘗嘗我的厲害！
+LegendEvent_00_016ID	2	Izana	イザナ	わわわっ！！　なんにも見えないよっ！？	Izana	Aaah! I can't see anything!	伊札娜	哇哇哇！！什么都看不见了？！	伊札娜	哇哇哇！！什麼都看不見了啦！？
+LegendEvent_00_016ID	3	Resna	レスナ	皆さん、胞子を吸わないよう気を付けて！	Resna	Be careful not to inhale the spores!	蕾斯娜	各位，要小心不要过多地吸入孢子！	蕾斯娜	各位，小心不要吸入胞子了！
+LegendEvent_00_016ID	4	Lilie	リリー	げほごほっ！　今の爆発は……！？	Lilie	*Cough* What was that blast?!	莉莉	咳咳！刚才的爆炸是……？！	莉莉	咳咳咳！剛才的那個爆炸是……！？
+LegendEvent_00_016ID	5	Marie	マリー	みんな！　大丈夫！？	Marie	Are you all right?!	玛莉	各位！你们没事吧？！	瑪莉	大家！還好嗎！？
+LegendEvent_00_016ID	6	Resna	レスナ	あっ！　あなたは！	Resna	It's you!	蕾斯娜	啊！你来了！	蕾斯娜	啊！妳是！
+LegendEvent_00_016ID	7	Elie	エリー	えっ……！？\nまさか、マ、マルローネさん！？	Elie	What...? Wait, M-Marlone?!	艾莉	咦……？！\n难、难道是玛洛娜小姐？！	艾莉	什麼……！？\n難道是瑪、瑪洛娜小姐嗎！？
+LegendEvent_00_016ID	8	Marie	マリー	マリオンさんから話は聞いたよ！　待っててって\n言われたけど、じっとしてなくて正解だったわね！	Marie	Marion told me everything! She said I should just sit and wait, but I knew I was right to come help!	玛莉	我都听玛丽翁小姐说了！她让我在那边等你们回去，\n不过看来我赶过来还真是来对了！	瑪莉	我聽瑪麗翁小姐說了！雖然她叫我等著，\n但沒有傻傻待在那裡果然是對的！
+LegendEvent_00_016ID	9	Lilie	リリー	あなたが、マルローネさん……	Lilie	So, you're Marlone?	莉莉	你就是传闻中的玛洛娜小姐……	莉莉	妳就是瑪洛娜小姐……
+LegendEvent_00_016ID	10	Izana	イザナ	助かったよマルローネ！\nこの魔物の胞子、かなりヤバくって！	Izana	Thank you, Marlone! These monster spores were such a pain to handle!	伊札娜	帮大忙了玛洛娜！\n这魔物的孢子可是相当棘手啊！	伊札娜	妳幫了我們大忙，瑪洛娜！\n這個魔物的胞子還挺可怕的！
+LegendEvent_00_016ID	11	Marie	マリー	胞子、ね。じゃあ爆風でどんどん吹き飛ばしましょ。\nさあ、いくわよ～！！	Marie	Spores, was it? Then let's blow it away with wind. Ready? Now!	玛莉	嗯，孢子啊。那就用爆炸产生的气流全都吹走好了。\n接招吧～！！	瑪莉	胞子呀。那就用爆風把它們吹走吧。\n好，要開始囉～！！
+LegendEvent_00_016ID	12	Lilie	リリー	よかった……。なんとか倒せたみたいね	Lilie	Whew... We did it.	莉莉	太好了……总算是打倒了呢。	莉莉	太好了……看來總算是打倒牠了。
+LegendEvent_00_016ID	13	Lilie	リリー	危ないところを助けてくれてありがとう。\nマルローネさん	Lilie	Thanks for saving us there, Miss Marlone.	莉莉	多亏你在危急时刻赶了过来，\n玛洛娜小姐，谢谢你。	莉莉	謝謝妳在我們危急時出手相救，\n瑪洛娜小姐。
+LegendEvent_00_016ID	14	Lilie	リリー	レスナやエリーから聞いてるわ。\nあたしはリリーよ。よろしくね	Lilie	Resna and Elie have told me about you. My name is Lilie.	莉莉	我从蕾斯娜和艾莉那听说过你的大名。\n我是莉莉，请多指教。	莉莉	我聽蕾斯娜和艾莉提過妳。\n我是莉莉，請多關照。
+LegendEvent_00_016ID	15	Marie	マリー	こっちこそよろしく。あと、呼び捨てでいいよ。\nそのほうがあたしも気楽だし	Marie	"Nice to meet you. And you can drop the ""Miss""—we're all friends here."	玛莉	我也请你多指教。还有，你说话不用那么拘谨。\n那样我也比较轻松。	瑪莉	我才要請妳多關照。還有，叫我瑪洛娜就好。\n這樣我也比較輕鬆。
+LegendEvent_00_016ID	16	Elie	エリー	マルローネさん！　まさかこんな所で会えるなんて\n思ってませんでした！	Elie	Marlone! I never expected to see you here!	艾莉	玛洛娜小姐！\n真没想到能在这里遇见你！	艾莉	瑪洛娜小姐！真沒想到\n竟然能在這種地方遇見妳！
+LegendEvent_00_016ID	17	Marie	マリー	あれっ、エルフィール！\nエルフィールもこっちの世界にいたんだ！？	Marie	Oh? Elfir! You're in this world too?!	玛莉	咦，这不是艾菲尔吗！\n你也来到这个世界了吗？！	瑪莉	咦，艾菲爾！\n原來妳也在這個世界嗎！？
+LegendEvent_00_016ID	18	Resna	レスナ	道中でお会いして、そのままご一緒してもらったん\nです。……マルローネ先輩、お久しぶりですね！	Resna	We just happened across her on the road, and she came with us. It's been quite a while, Miss Marlone!	蕾斯娜	我们在路上遇到了她，随后就一起行动了。\n玛洛娜前辈，好久不见！	蕾斯娜	我們在途中遇見她，就請她與我們一起同行了。\n……瑪洛娜前輩，好久不見了呢！
+LegendEvent_00_016ID	19	Marie	マリー	うーん、風土病、かぁ	Marie	An endemic, I see.	玛莉	唔——地方病吗。	瑪莉	嗯～地方流行病啊……
+LegendEvent_00_016ID	20	Elie	エリー	全身に痛みと、あと高熱が出るそうなんです	Elie	It causes pains across the body and a very high fever.	艾莉	好像说是会全身剧痛，并且高烧不退。	艾莉	據說得病後會全身疼痛，還會發高燒。
+LegendEvent_00_016ID	21	Marie	マリー	それってなんだかエルフィールがかかった\n伝染病に似てるわね	Marie	That sounds similar to the one that Elfir caught before.	玛莉	那不就和艾菲尔之前得过的传染病类似吗？	瑪莉	這和艾菲爾當時\n得到的傳染病很像呢。
+LegendEvent_00_016ID	22	Elie	エリー	はい。なので、もしかしたらマルローネさんなら\n薬を作れるかもしれないと思って	Elie	Yes. That was why we were hoping you could brew us some kind of cure.	艾莉	是的。所以我想玛洛娜小姐\n应该能做出特效药来。	艾莉	對的，所以我就想說不定\n瑪洛娜小姐妳可以調配出藥物。
+LegendEvent_00_016ID	23	Marie	マリー	う～ん。多分作れるとは思うけど……	Marie	Hmm... I probably could brew one...	玛莉	嗯——我应该是能做出来……	瑪莉	嗯～我想應該是做得出來，不過……
+LegendEvent_00_016ID	24	Marie	マリー	そのためにはすでに身体の中に入っちゃってる\n胞子を無毒化させる素材が必要ね	Marie	But it would need materials that can neutralize the spores already in your bodies.	玛莉	但在那之前，首先要找到素材\n用以去除病人误食进体内的孢子的毒性才行。	瑪莉	為了發揮藥效，我需要一些素材來化解\n已吸入體內的胞子毒性才可以呢。
+LegendEvent_00_016ID	25	Lilie	リリー	効果があるか分からないけど、昨日読んだ本に\n似た話があった気が……。名前は確か……	Lilie	I'm not sure if it will work, but there was a similar passage in a book I read yesterday. What was it...?	莉莉	虽然不确定有没有效果，但昨天我好像在书上读到过\n类似的记载……我记得那种素材叫……	莉莉	不確定效果如何，但昨天我看的書上\n好像有提到類似的內容……我記得名字是……
+LegendEvent_00_016ID	26	Resna	レスナ	なるほど！　確かにその素材ならいけそうです！	Resna	You're right! That material seems like it would definitely work!	蕾斯娜	哦！那种素材的确是有这种效果！	蕾斯娜	原來如此！確實那個素材是可行的！
+LegendEvent_00_016ID	27	Izana	イザナ	使う素材は決まったみたいだね！　じゃあ早速\n出発かな？　みんな、休んでられないって顔してるし	Izana	Looks like we know the materials we need now. So, shall we leave? Everyone seems so restless.	伊札娜	看来已经知道需要什么素材了呢！\n那就快点出发吧？看大家的表情也不像想休息的样子。	伊札娜	看來已經決定好要用的素材了！那我們就\n趕緊出發吧？大家都一副迫不及待的表情了。
+LegendEvent_00_016ID	28	Lilie	リリー	そうね、ここまで来たら、あと一息だもの。\n絶対にあの子のお母さんを助けるわよ！	Lilie	You're right. We're already so close. We just need to save that child's mother!	莉莉	当然，毕竟离成功仅剩一步之遥了。\n我们绝对要救回那个孩子的母亲！	莉莉	是呀，我們都來到這裡，就差那麼一步了。\n我一定要救那女孩的媽媽！
+LegendEvent_00_017ID	0	Resna	レスナ	ただいま戻りました！　……あ、マリオンさん！\n伝言の件はありがとうございました！	Resna	I'm back! Oh, Miss Marion! Thank you for your message!	蕾斯娜	我们回来了！啊，玛丽翁小姐！\n谢谢你帮我们传口信！	蕾斯娜	我們回來了！……啊，瑪麗翁小姐！\n謝謝妳幫忙傳話！
+LegendEvent_00_017ID	1	Marion	マリオン	おかえりなさい。\nその様子だと、上手くことが運んだようね	Marion	Welcome back. You seem in good spirits. I assume it went well?	玛丽翁	欢迎回来。\n看样子事情进展得很顺利呢。	瑪麗翁	妳們回來啦。\n看妳的樣子，事情似乎進行得很順利呢。
+LegendEvent_00_017ID	2	Resna	レスナ	はい！　今から早速、調合をしようと思います！	Resna	Yes! I'm about to go synthesize right now, in fact!	蕾斯娜	是的！我们现在正准备去调合！	蕾斯娜	是的！我想要現在就開始調合！
+LegendEvent_00_017ID	3	Elie	エリー	ここが皆さんが言っていたアトリエなんですね。\nまさか飴を舐めただけで飛んでこられるなんて	Elie	So, this is the atelier you were all talking about? I never expected to be transported here by eating candy.	艾莉	这里就是大家所说的炼金工房啊。\n没想到只是舔了一口糖，竟然就瞬间移动到这里了。	艾莉	這裡就是大家所說的鍊金工房啊。\n沒想到只是舔了舔糖果就轉移過來了。
+LegendEvent_00_017ID	4	Marie	マリー	本当、不思議よね……っと、のんびりしてる場合じゃ\nなかった。まずは下準備からしましょ	Marie	So strange... Oops. No use lounging around, I suppose. Let us begin our preparations.	玛莉	确实很不可思议……不过现在还不是放松的时候。\n我们赶紧去做准备吧。	瑪莉	真的很不可思議呢……不對，現在不是\n悠悠哉哉的時候。我們先來備料吧。
+LegendEvent_00_017ID	5	Marie	マリー	今回の薬を作るには、まず採取した素材から２つの\n薬を作って、それをさらに掛け合わせていくの	Marie	To make this cure, you need to make two other medicines using the materials you've collected. Then, mix those together.	玛莉	这次我们需要先将采集到的素材分别做成两种不同的药，\n然后再进行调合，才能做出我们所需的特效药。	瑪莉	為製作這次的藥，首先要用採集到的素材\n製作出2種藥物，然後再將它們進一步相乘調合。
+LegendEvent_00_017ID	6	Elie	エリー	まずはこっちの素材から調合するんですよね？\nマルローネさん、お手伝いします	Elie	We're synthesizing with this material first, right? I will help you, Miss Marlone.	艾莉	首先是要调合这些素材对吧？\n玛洛娜小姐，我也来帮忙。	艾莉	要先從這邊的素材開始調合吧？\n瑪洛娜小姐，我來幫妳。
+LegendEvent_00_017ID	7	Lilie	リリー	すごい、二人とも無駄のない正確な調合だわ。\nおまけに作業がかなり速い	Lilie	Incredible. You've both performed perfectly accurate feats of synthesis. And fast, too.	莉莉	好厉害，两位的调合不仅操作精确，动作干净利落，\n工作效率也是高得出奇。	莉莉	好厲害，她們兩人的調合都很準確，沒有半點浪費。\n而且作業速度還相當快。
+LegendEvent_00_017ID	8	Lilie	リリー	（こんなに洗練された錬金術……二人とも元の世界で\n　相当な勉強と実践を繰り返してきたんだわ）	Lilie	(What impressive alchemy. These two must have honed themselves on countless experiments and years of study.)	莉莉	（如此炉火纯青的炼金术……想必两位在原来的世界\n　是在学习与实践中反复摸爬滚打才练就的吧。）	莉莉	（如此精練的鍊金術……可見她們在原本的世界裡\n　是反覆學習與實踐了許多次的。）
+LegendEvent_00_017ID	9	Lilie	リリー	（きっとそれぞれ自分の夢や目標を見つけて、\n　一心不乱に……尊敬しちゃうなぁ）	Lilie	(They're so focused on achieving their own goals and dreams... I can't help but feel respect.)	莉莉	（她们一定是找到了各自想要实现的目标与梦想，\n　才能如此专心致志……真是令人肃然起敬。）	莉莉	（她們一定是找到了各自的夢想與目標，\n　然後一心一意的……真令人敬佩呢。）
+LegendEvent_00_017ID	10	Marie	マリー	んー？　思ったより状態が安定しないなぁ	Marie	Hm? A bit more unstable than I hoped...	玛莉	嗯……？状态比预想的还要不稳定呢。	瑪莉	嗯～？狀態比想像的還不穩定呢。
+LegendEvent_00_017ID	11	Lilie	リリー	あ、待って。確か昨日読んだ本に参考になりそうな\nことが書かれてたから、別の方法でやってみるわ	Lilie	Oh, wait. I read something about this yesterday. Perhaps I'll try a different method.	莉莉	稍等一下。我记得我昨天读到的书里\n好像有能参考的地方，我们换一种方法试试看吧。	莉莉	啊，等等，我記得昨天看的書上寫了一些\n可供參考的內容，我們來換另一種方法試試。
+LegendEvent_00_017ID	12	Lilie	リリー	マナの影響で過剰な反応が出ないように、\n先にここで一手間かけてあげて……	Lilie	Put in a little bit of extra focus here so there won't be any major reaction to the mana...	莉莉	为了防止在玛那的影响下产生过度反应，\n我们应该先在这里多做些处理……	莉莉	為了不受瑪那影響而產生過度反應，\n先在這裡多花一道功夫……
+LegendEvent_00_017ID	13	Resna	レスナ	あ、あの！　僭越ながら、この過程にこの反応を\n加えると、さらに純度が上がると思います！	Resna	U-Uhm! With all due respect, if you add this into the mix, I believe the purity will be even higher!	蕾斯娜	还、还有！请允许我说一句，我觉得在操作过程中\n再加上这个反应的话，纯度还能再提升一些！	蕾斯娜	那、那個！請容我插個嘴，如果在這個過程中\n加入這個反應，我想會更加提升純度的！
+LegendEvent_00_017ID	14	Lilie	リリー	それじゃあ、こっちの素材はどう処理するのが\n一番いいか、みんなで一緒に考えてみない？	Lilie	All right. How about we all work together to come up with the best way to process this material?	莉莉	那我们一起来讨论一下\n这边这些素材该怎么处理如何？	莉莉	這樣的話，要不要大家一起來想想\n怎麼處理這個素材最好呢？
+LegendEvent_00_017ID	15	Lilie	リリー	レスナには、助言役をお願いしていいかな？\nあたしもまだこっちの世界の錬金術は慣れてないし	Lilie	Resna, can I ask you to help? I haven't gotten accustomed to the alchemy of this world quite yet.	莉莉	蕾斯娜可以来帮忙提供一些建议吗？\n毕竟我对这个世界的炼金术还不是那么熟悉。	莉莉	可以請蕾斯娜擔任指導嗎？\n畢竟我也還不熟悉這個世界的鍊金術。
+LegendEvent_00_017ID	16	Lilie	リリー	頼りにしているから、よろしくね！	Lilie	I'm relying on you!	莉莉	我相信你可以的，拜托啦！	莉莉	我全靠妳了喔，拜託了！
+LegendEvent_00_017ID	17	Resna	レスナ	は、はいっ！　ご期待に沿えるよう、不肖レスナ、\n誠心誠意努めさせていただきます！	Resna	Y-Yes! I, Resna, will do my best to tend to your needs!	蕾斯娜	当、当然！为了不负各位的期待，\n我蕾斯娜定当尽我所能！	蕾斯娜	好、好的！敝人蕾斯娜\n會誠心誠意地努力，不負所望的！
+LegendEvent_00_017ID	18	Elie	エリー	えっと。素材の配分と、マナの影響を計算して……	Elie	So, these materials at this ratio, calculate the effect of mana, and...	艾莉	那么，在考虑素材分配和玛那影响的基础上计算……	艾莉	我看看喔。計算一下素材的分配和瑪那的影響……
+LegendEvent_00_017ID	19	Marie	マリー	この計算が……こうなって……？	Marie	This should come out...as this amount?	玛莉	计算出来……是这样吗……？	瑪莉	這道算式……變成這樣……？
+LegendEvent_00_017ID	20	Lilie	リリー	（こうしていると、あの二人のことを思い出すなぁ。\n　あたしのことを「先生」って呼ぶあの二人……）	Lilie	"(This situation really reminds me of those two. Calling me ""Professor"" all the time...)"	莉莉	（看着她们，让我忍不住想起那两个孩子。\n　总是追在我身后，喊我“老师”的那两个孩子……）	莉莉	（這個場景，讓我想起了那兩個人。\n　稱呼我為「老師」的那兩個人……）
+LegendEvent_00_017ID	21	Lilie	リリー	（勝気で元気いっぱいなイングリドと、普段は大人しい\n　のにときどき驚くようなことをするヘルミーナ）	Lilie	(The energetic and optimistic Ingrid, and the calm but striking Hermina.)	莉莉	（争强好胜又精力十足的英格莉特，以及平时乖巧懂事\n　但偶尔也会吓人一跳的赫尔米娜。）	莉莉	（好勝又充滿活力的英格莉特，以及平常很文靜，\n　卻時不時會做出驚人之舉的赫爾米娜。）
+LegendEvent_00_017ID	22	Lilie	リリー	（ケンカの仲裁は大変だったけど、錬金術のことと\n　なると二人とも同じように目を輝かせてたっけ）	Lilie	(It was definitely a struggle to keep them from arguing. But they both loved alchemy just as well.)	莉莉	（虽说在她们俩吵架的时候劝架还挺头疼的，\n　但当碰到和炼金术有关的事情时，她们眼中都会闪烁着同样的光彩。）	莉莉	（雖然當她們吵架時的和事佬很辛苦，不過一提到鍊金術\n　兩人的眼神好像都會閃閃發光。）
+LegendEvent_00_017ID	23	Elie	エリー	できました！　こんな感じ、でしょうか？	Elie	I did it! How is this?	艾莉	我做完了！是这样没错吧？	艾莉	做好了！是這樣的感覺嗎？
+LegendEvent_00_017ID	24	Lilie	リリー	うん、いいと思う！　すごいわ、エリー。こっちの\n参考書を読んだわけでもないのに、感性が柔軟なのね	Lilie	That's good! Well done, Elie. We haven't even read the reference books yet. You have such a knack for things.	莉莉	嗯，没问题！艾莉你真是太厉害了。\n你甚至都没有看过我看的参考书，悟性实在是太高了。	莉莉	嗯，我覺得很不錯！艾莉妳真厲害。\n明明沒看過這裡的參考書，妳的感受力卻很機敏靈活呢。
+LegendEvent_00_017ID	25	Lilie	リリー	それじゃあ、薬を完成させましょう！	Lilie	Let's move on to completing the cure!	莉莉	那我们就接着制作特效药吧！	莉莉	那我們來完成藥物吧！
+LegendEvent_00_017ID	26	Lilie	リリー	ばっちりよ！　この薬があればきっと\nあの子のお母さんの病気も良くなるはずだわ！	Lilie	Perfect! With this cure, that child's mother will be better in no time!	莉莉	完美！有这个药的话，\n那孩子的母亲一定能很快痊愈的！	莉莉	太完美了！有了這個藥\n那女孩媽媽的病一定會好起來的！
+LegendEvent_00_017ID	27	Resna	レスナ	無事に完成してよかった……。\n私、早速この薬を届けてきますね！	Resna	I'm so relieved... I'll get this cure to them right away!	蕾斯娜	能顺利完成真是太好了……\n我这就把药送过去！	蕾斯娜	能順利做出來真是太好了……\n我馬上把這個藥送過去！
+LegendEvent_00_018ID	0	Marie	マリー	ふーっ。さすがにちょっと疲れたかな。\nみんなも休憩しましょ	Marie	Whew. I'm quite tired, too. We should all have a good rest.	玛莉	呼——忙完这一通真是有点累了。\n大家也都休息一下吧。	瑪莉	呼──真是有點累了呢。\n大家也休息一下吧。
+LegendEvent_00_018ID	1	Lilie	リリー	そうね。これで甘いものでもあったら最高なんだけど	Lilie	I agree. If only we had something sweet to eat right now...	莉莉	是啊。要是这时候还能来点甜食就再好不过了。	莉莉	是呀，如果現在有甜食就更棒了。
+LegendEvent_00_018ID	2	Marie	マリー	あ、エルフィールと同じでリリーも甘いもの好き？\nあたしは……お酒が飲みたい気分かな	Marie	Oh, you like sweets? Just like Elfir. Me, I'd like to have a drink or two.	玛莉	哎呀，莉莉和艾菲尔一样都喜欢甜食吗？\n至于我……倒是有点想小酌一杯。	瑪莉	啊，莉莉妳和艾菲爾一樣喜歡甜食嗎？\n我……倒是想喝點酒呢。
+LegendEvent_00_018ID	3	Lilie	リリー	でも、今回はエリーと出会えて\n本当によかったわ	Lilie	Still, I am very glad that I got to meet you, Elie.	莉莉	说起来，这次能认识艾莉真是太幸运了。	莉莉	不過，這次能遇到艾莉\n真的是太好了。
+LegendEvent_00_018ID	4	Elie	エリー	え？　私ですか？	Elie	Huh? Me?	艾莉	嗯？我？	艾莉	咦？ 我嗎？
+LegendEvent_00_018ID	5	Lilie	リリー	だってエリーと出会えてなかったら、病気に\n効く薬をこんなに早く特定できなかったと思うもの	Lilie	If I hadn't met you, I don't think we would've figured out such a potent cure.	莉莉	是啊，要是没有认识艾莉的话，\n可能没法这么快就做出特效药。	莉莉	因為如果沒有遇見妳，\n我想是沒辦法這麼快找到對疾病有效的藥。
+LegendEvent_00_018ID	6	Lilie	リリー	あの時、あたしたちの調査を手伝うって\n言ってくれて本当にありがとう	Lilie	Thank you again for offering to help with our investigation.	莉莉	谢谢你那时候愿意陪我们一起调查。	莉莉	真的很感謝妳那時候\n主動說要幫我們調查。
+LegendEvent_00_018ID	7	Elie	エリー	私は昔もらった薬のことを思い出しただけです。\n本当にお礼を言うべき相手は、マルローネさんですよ	Elie	I simply remembered the medicine I took before. If anything, you should be thanking Miss Marlone.	艾莉	我只是偶然想起了以前生病吃药的事情而已。\n我们最应该感谢的人是玛洛娜小姐才对。	艾莉	我只是想起以前收到藥的事情而已。\n真正該感謝的人，是瑪洛娜小姐哦。
+LegendEvent_00_018ID	8	Elie	エリー	錬金術を極めたマルローネさんがいなかったら、\nそもそも薬が存在していませんしね	Elie	That cure wouldn't even exist without Miss Marlone's skilled hand in alchemy.	艾莉	多亏了玛洛娜小姐在炼金术上登峰造极的本事，\n不然那种药说不定还没问世呢。	艾莉	如果沒有如此精通鍊金術的瑪洛娜小姐，\n就根本不會有這款藥的存在。
+LegendEvent_00_018ID	9	Elie	エリー	マルローネさんがあの日私たちの村を救ってくれた\nことが、今日この瞬間に繋がっているんです！	Elie	Miss Marlone saved our village as well. It's all connected to this moment!	艾莉	看来，是玛洛娜小姐过去拯救我们村子的事，\n在无形中导向了今天这个瞬间的成功！	艾莉	瑪洛娜小姐在那天拯救了我們的村子，\n而那次的機緣與今天這一瞬間連繫在一起！
+LegendEvent_00_018ID	10	Marie	マリー	あはは。そこまで言われるほどの\nことじゃないと思うけどねー	Marie	Haha. You're being so dramatic.	玛莉	啊哈哈，没有你说的那么夸张啦。	瑪莉	哈哈哈，我不覺得自己做了\n需要受到如此讚美的事啦。
+LegendEvent_00_018ID	11	Marie	マリー	それに、そんなこと言い出したら、あたしの先生は\nいったいどれだけの人を救ってるのって話になるよ	Marie	That line of thinking could go on forever. Just how many people would my mentor have saved then?	玛莉	况且，真要这么说的话，\n我的老师更是不知道救了多少人呢。	瑪莉	而且，妳這麼說的話，\n那我的老師就不知道到底拯救過多少人了。
+LegendEvent_00_018ID	12	Marie	マリー	先生は今までにたくさんの優秀な生徒を\n育ててるだろうし……	Marie	My mentor could've already taught dozens of talented students by now.	玛莉	也不知道老师迄今为止\n培育了多少学生成才……	瑪莉	我的老師至今已經培育了\n許多優秀的學生……
+LegendEvent_00_018ID	13	Marie	マリー	このあたしですら、見捨てずになんとか卒業できる\nよう力を尽くしてくれたんだもん。本当にすごいよ	Marie	Even I was only able to graduate thanks to her help. She really is the best.	玛莉	甚至面对我这样的学生她也不曾放弃，在我身上花费了\n不知多少心血才让我得以毕业。她真的是很伟大的人。	瑪莉	就連我這種學生她都沒有放棄，\n竭盡全力地想辦法讓我畢業。真的很了不起。
+LegendEvent_00_018ID	14	Lilie	リリー	マルローネは素晴らしい先生に巡り合えたのね	Lilie	You must have had a great teacher then, Marlone.	莉莉	玛洛娜小姐真是遇到了一位好老师呀。	莉莉	瑪洛娜妳遇到了很棒的老師呢。
+LegendEvent_00_018ID	15	Marie	マリー	うん。いつも怒ってばかりだけど、いい先生。\nイングリド先生っていうんだ	Marie	Yes. She was always mad at me, but she was good. Her name is Professor Ingrid.	玛莉	是啊。虽然英格莉特老师总是在发火，\n但她真的是一位认真又尽责的好老师。	瑪莉	嗯。雖然她老是在生氣，但是個好老師。\n她叫做英格莉特。
+LegendEvent_00_018ID	16	Lilie	リリー	えっ！？　イングリド「先生」！？	Lilie	"What? ""Professor"" Ingrid?!"	莉莉	你说什么？！英格莉特“老师”？！	莉莉	什麼！？英格莉特「老師」！？
+LegendEvent_00_018ID	17	Elie	エリー	私もイングリド先生に教わったんですよ。\n今もザールブルグで生徒に教えてるのかな	Elie	Professor Ingrid was my teacher as well! I wonder if she's still teaching in Salburg.	艾莉	我也是英格莉特老师的学生。\n不知道现在她还在不在萨尔布鲁克任教呢。	艾莉	我也是英格莉特老師的學生喔。\n她現在應該還在薩爾布魯克教課吧？
+LegendEvent_00_018ID	18	Lilie	リリー	ふ、二人とも、イングリドに教わった？\nでも、あの子はまだ……いったいどういう……	Lilie	Y-You both learned under Ingrid? But she should still be... What is going on?	莉莉	你、你们两位都是英格莉特的学生吗？\n但是，那孩子不是才……这是怎么回事……	莉莉	妳、妳們都是英格莉特的學生？\n可是，她那孩子還……究竟怎麼回事……
+LegendEvent_00_018ID	19	Lilie	リリー	…………	Lilie	...	莉莉	…………	莉莉	…………
+LegendEvent_00_018ID	20	Lilie	リリー	ねえ、そのイングリドって先生、何歳くらい？\nまだ子どもだったりする？	Lilie	So how old is this Professor Ingrid of yours? She could hardly be a child, right?	莉莉	请问，你们说的那位英格莉特老师芳龄几何？\n还是说只是个孩子呢？	莉莉	我說，那位叫英格莉特的老師大概幾歲？\n難道還是個孩子？
+LegendEvent_00_018ID	21	Marie	マリー	いやまさか！　あたしよりずっと年上だよ！	Marie	Of course not! She's much older than I am!	玛莉	怎么会呢！她比我大很多呢！	瑪莉	不，怎麼可能！年紀比我大多了！
+LegendEvent_00_018ID	22	Lilie	リリー	……じゃあ、左右の瞳の色が違う？	Lilie	Does she have different-colored eyes, perhaps?	莉莉	……那，她左右眼睛的颜色是不是不一样？	莉莉	……那左右眼的瞳孔顏色不一樣？
+LegendEvent_00_018ID	23	Elie	エリー	はい、確か違ったと思いますよ	Elie	Yes, I believe she did.	艾莉	是的，如你所说。	艾莉	對，印象中顏色不一樣。
+LegendEvent_00_018ID	24	Lilie	リリー	…………！	Lilie	...!	莉莉	…………！	莉莉	…………！
+LegendEvent_00_018ID	25	Lilie	リリー	分かった……気がする。そういうことだったのね……	Lilie	I think I understand now. So that's what was happening...	莉莉	我好像明白了……原来是这回事啊……	莉莉	我好像……明白了。原來是這麼一回事啊……
+LegendEvent_00_018ID	26	Lilie	リリー	（前にエリーと話した時に、お互い、\n　名前だけ同じの別の街からやって来たんだと思った）	Lilie	(Last time I spoke with Elie, we both assumed we came from different towns with the same name.)	莉莉	（之前和艾莉聊到这件事的时候，\n　我还以为我们来自两个地名相同的城镇。）	莉莉	（之前和艾莉聊天時，\n　我以為我們來自同名的不同城鎮。）
+LegendEvent_00_018ID	27	Lilie	リリー	（でも、違う。やっぱりあたしたちは、同じ\n　ザールブルグからこの世界に飛ばされてきたんだわ）	Lilie	(But that's not it. We really were transported here from the same Salburg.)	莉莉	（但是，是我想错了。\n　我们确实是从同一个“萨尔布鲁克”来到这个世界的。）	莉莉	（可是，我錯了。我們果然是從同一個\n　薩爾布魯克轉移到這個世界來的。）
+LegendEvent_00_018ID	28	Lilie	リリー	（違うのは、生きていた時代。マルローネたちは\n　あたしの時代よりも未来から飛ばされてきたんだ）	Lilie	(The only difference? Our timeline. Marlone came from an era in the future.)	莉莉	（不同的是我们的时代。玛洛娜她们所在的时代，\n　是我所在时代的未来。）	莉莉	（不同的是我們生活的時代。瑪洛娜她們\n　是來自比我的時代更遙遠的未來。）
+LegendEvent_00_018ID	29	Lilie	リリー	（あの子どもだったイングリドが、大人になって\n　錬金術の先生をやっている未来から……）	Lilie	(One where Ingrid has grown up to become a practicing alchemy professor...)	莉莉	（在那个未来，年幼的英格莉特已经长大成人，\n　成为了一位炼金术老师……）	莉莉	（來自那個原本還是孩子的英格莉特，\n　卻已經長大成一名鍊金術老師的未來……）
+LegendEvent_00_018ID	30	Elie	エリー	リリーさん？　ぼーっとして、どうしたんですか？	Elie	Lilie? Is something the matter?	艾莉	莉莉小姐？怎么发起呆来了，你没事吧？	艾莉	莉莉小姐？妳怎麼在發呆呢？
+LegendEvent_00_018ID	31	Lilie	リリー	ううん。なんでもないの	Lilie	Oh, no. It's nothing.	莉莉	嗯，我没事。	莉莉	沒有，沒什麼事。
+LegendEvent_00_018ID	32	Lilie	リリー	（……錬金術なんてまったく知られてなかった\n　ザールブルグに、あたしたちは学校を建てた）	Lilie	(We built a school in Salburg, back when alchemy was completely unknown there...)	莉莉	（……在曾经无人知晓炼金术的萨尔布鲁克，\n　我们从零开始建立了学校。）	莉莉	（……我們在對鍊金術一無所知的\n　薩爾布魯克創建了學校。）
+LegendEvent_00_018ID	33	Lilie	リリー	（あたしはすぐに旅立ってしまったけれど、その後\n　あの場所でたくさんの錬金術士が生まれたんだわ）	Lilie	(I left soon after, but many alchemists must have been molded at that school.)	莉莉	（虽然之后我很快就踏上了旅途，\n　但没想到那所学校后来培育了那么多的炼金术士啊。）	莉莉	（雖然我很快就外出旅行了，但那之後\n　在那個地方誕生了許多的鍊金術士。）
+LegendEvent_00_018ID	34	Lilie	リリー	（少しずつ拓いた道を、この子たちが歩いてる。\n　そして、追いかけて、追い越して……）	Lilie	(And on that well-worn path, these children walk. Chasing, ultimately surpassing...)	莉莉	（在那逐渐被拓宽的前路之上，这些孩子们在砥砺前行。\n　奋力追逐，随后超越前人……）	莉莉	（那些孩子正一步一步地在走在我們開拓出的道路上。\n　然後，追上我們，超越我們……）
+LegendEvent_00_018ID	35	Lilie	リリー	（今はこんなに素晴らしい錬金術士になっている！）	Lilie	(And now, they've become magnificent alchemists of their own!)	莉莉	（如今成长为如此令人骄傲的炼金术士！）	莉莉	（如今已經成為了這麼優秀的鍊金術士！）
+LegendEvent_00_018ID	36	Lilie	リリー	（……ああ、エリーの言う通りなんだわ。\n　すべてのことが、今この瞬間に繋がっている）	Lilie	(It was just like Elie said. Everything has led up to this moment.)	莉莉	（……啊，真的如艾莉所言呢。\n　是过去发生的一切导向了现在这个瞬间。）	莉莉	（……啊啊，艾莉說得沒錯呢。\n　所有的一切，都與此時此刻有所連繫。）
+LegendEvent_00_018ID	37	Lilie	リリー	（あたしからイングリドへ。そしてイングリドから\n　マルローネ、エリーへ）	Lilie	(From me, to Ingrid. And from Ingrid to Marlone, and to Elie.)	莉莉	（从我到英格莉特，\n　再从英格莉特到玛洛娜与艾莉。）	莉莉	（我傳授給英格莉特。\n　接著，英格莉特再傳授給瑪洛娜和艾莉。）
+LegendEvent_00_018ID	38	Lilie	リリー	（こんな日が……こんな光景を目にする日が\n　来るなんて思いもしなかった）	Lilie	(I...never expected to see such a wonderful sight.)	莉莉	（没想到竟然真的会有这么一天，\n　能让我亲眼见证这一切。）	莉莉	（我從沒想過有一天會親眼見到這樣的光景……\n　等到這樣的一天到來。）
+LegendEvent_00_018ID	39	Lilie	リリー	（あたしたち、本当にやり遂げたのね）	Lilie	(We truly made it.)	莉莉	（我们真的如愿以偿了。）	莉莉	（我們真的做到了呢。）
+LegendEvent_00_019ID	0		少女	レスナお姉ちゃ～ん！	Girl	Resnaaa!	少女	蕾斯娜姐姐～！	少女	蕾斯娜姐姐！
+LegendEvent_00_019ID	1	Resna	レスナ	あっ！\nどう、お母さんの具合は？	Resna	Oh! How is your mother doing?	蕾斯娜	哎呀，是你啊！\n你母亲的身体好些了吗？	蕾斯娜	啊！\n媽媽的狀況怎麼樣了？
+LegendEvent_00_019ID	2		少女	もうかなり良くなったよ！　熱も引いたし、\n楽しそうにお話もするようになったんだ！	Girl	She's doing great! Her fever is gone and we can talk again!	少女	嗯，她已经好很多了哦！\n烧也退了，说话也很有精神！	少女	她已經好多了！燒退了，\n也開始會有說有笑了！
+LegendEvent_00_019ID	3	Resna	レスナ	よかった！　本当によかったね！	Resna	That's so wonderful to hear!	蕾斯娜	太好了！真为你高兴！	蕾斯娜	太好了！真的是太好了！
+LegendEvent_00_019ID	4		少女	ねえ、もしかしてそっちのお姉さんたちが、\nお母さんの薬を作ってくれた錬金術士さん？	Girl	Uh, I was wondering. Are these the alchemist ladies that made the cure for my mother?	少女	请问，那边那几位大姐姐\n就是给妈妈做药的炼金术士们吗？	少女	我問妳哦，難道那邊的幾位大姊姊\n就是給媽媽製藥的鍊金術士嗎？
+LegendEvent_00_019ID	5	Lilie	リリー	ええ、そうよ。薬が効いたみたいでよかったわ	Lilie	Yes, we are. I'm glad to see the cure is working.	莉莉	嗯，是的。药能起效真是太好了。	莉莉	對，沒錯喔。藥好像挺有效的，太好了。
+LegendEvent_00_019ID	6		少女	うん！　お母さんを助けてくれて、\nどうもありがとうございました！	Girl	Thank you so much for saving my mother!	少女	嗯！\n真的非常感谢你们救了我妈妈！	少女	嗯！非常謝謝妳們\n救了媽媽！
+LegendEvent_00_019ID	7	Marie	マリー	いやあ、照れるわね、えへへ	Marie	Heh. My face is flushing a bit here.	玛莉	哎呀，说的我都不好意思了，嘿嘿。	瑪莉	哎呀，真害羞呢，嘿嘿嘿。
+LegendEvent_00_019ID	8	Elie	エリー	また同じ病気にかからないように、\n気を付けてって村の人たちにも言ってあげてね	Elie	Be sure to tell all the other villagers to be very careful not to catch the same illness.	艾莉	记得替我们转告村民们注意防范，\n不要再让这种病复发了哦。	艾莉	也記得提醒村民們要小心一點，\n別再得同樣的病了喔。
+LegendEvent_00_019ID	9		少女	うん！　……でも、もしまたお母さんが\n病気になっても、今度は私が治すんだ！	Girl	Yes! Oh...but if my mother gets sick again, I'll be the one to heal her next time!	少女	嗯！不过万一妈妈的病复发，\n我也会负责治好她的！	少女	嗯！……不過，如果媽媽又生病了，\n就換我來治療她！
+LegendEvent_00_019ID	10	Lilie	リリー	えっ？　どういうこと？	Lilie	Huh? What do you mean?	莉莉	嗯？你的意思是？	莉莉	咦？什麼意思？
+LegendEvent_00_019ID	11		少女	ふふふ。あのねえ、私ねえ、\n将来、錬金術士になるって決めたんだ！	Girl	Hehe. I decided I'm going to study and become an alchemist!	少女	嘿嘿，我决定了！\n我将来也想成为一名炼金术士！	少女	嘻嘻嘻，跟妳們說喔，我啊，\n已經決定將來要成為鍊金術士了！
+LegendEvent_00_019ID	12		少女	お姉さんたちみたいに、\nすっごい薬を作れるようになりたいの！	Girl	I want to be just like you and make really strong potions and cures!	少女	我要像姐姐们一样，\n做出厉害的药来帮助大家！	少女	我想要像姐姐們一樣，\n能做出很厲害的藥！
+LegendEvent_00_019ID	13	Lilie	リリー	錬金術士に……	Lilie	An alchemist...	莉莉	成为炼金术士……	莉莉	成為鍊金術士……
+LegendEvent_00_019ID	14	Resna	レスナ	そ、それ本当！？　まさか、新たな同志の誕生……？\n星の導きに感謝を！	Resna	A-Are you serious? Is this the birth of another kindred spirit? Thank the stars again!	蕾斯娜	真的吗？！就是说，又多了一位新的同志……？\n感谢星星的指引！	蕾斯娜	這、這是真的嗎！？難不成有新的同伴要誕生了……？\n感謝星之導引！
+LegendEvent_00_019ID	15	Izana	イザナ	あはは！　よかったね、レスナちゃん	Izana	Haha! Isn't that wonderful, Resna?	伊札娜	啊哈哈！真是太好了，蕾斯娜。	伊札娜	哈哈！蕾斯娜，太好了呢。
+LegendEvent_00_019ID	16	Elie	エリー	私も同じように、マルローネさんに憧れて\n錬金術士になったんだよ！	Elie	I became an alchemist because of Marlone, just like you!	艾莉	我也是出于对玛洛娜小姐的憧憬\n才成为炼金术士的！	艾莉	我也跟妳一樣，是因為崇拜瑪洛娜小姐\n才成為鍊金術士的喔！
+LegendEvent_00_019ID	17	Lilie	リリー	（こうやって、少しずつ誰かの中にあたしたちの\n　努力や思いが受け継がれていくのね）	Lilie	(Little by little, this is how our hopes and efforts get passed on.)	莉莉	（我们的努力与愿望，\n　就像现在这样，一点一点地在他人的心中得到传递。）	莉莉	（就像這樣，我們的努力與意念將會一點一點地\n　在某個人的心中傳承下去吧。）
+LegendEvent_00_019ID	18	Lilie	リリー	（……ああ、今、分かったわ）	Lilie	(...I understand now.)	莉莉	（……我现在终于明白了。）	莉莉	（……啊，我現在明白了。）
+LegendEvent_00_019ID	19	Lilie	リリー	（あたしのやりたいことは、\n　きっとこういうことなんだ）	Lilie	(This is what I want to keep doing.)	莉莉	（我想做的事，\n　一定就是这个吧。）	莉莉	（我想做的，\n　一定就是這樣的事。）
+LegendEvent_00_019ID	20		少女	私でもいつか錬金術士になれるかな？	Girl	Do you think I can become an alchemist?	少女	我将来也能成为炼金术士吗？	少女	我有一天也能成為鍊金術士嗎？
+LegendEvent_00_019ID	21	Lilie	リリー	もちろんよ！　一人で薬草を探せるくらい\n頑張り屋な子は錬金術士に向いてると思うもの！	Lilie	Of course! Girls who are smart enough to find herbs on their own can become great alchemists!	莉莉	当然了！像你这样能够一个人去采集药草，\n努力刻苦的孩子，可是最适合当炼金术士了哦！	莉莉	那當然！我覺得能夠獨自尋找藥草的勤奮孩子，\n很適合當鍊金術士喔！
+LegendEvent_00_019ID	22	Lilie	リリー	今の気持ちを忘れずにいれば、きっと……\nううん、必ずなれる！　あたしには分かるんだから	Lilie	So long as you remember this feeling, I'm sure...no, I know you'll definitely become an alchemist!	莉莉	只要你能将此刻的心情铭记于心，我相信你应该能……\n不，你肯定能实现你的愿望！	莉莉	只要不忘記現在的心情，一定……\n不，是絕對會成功的！我知道妳可以的。
+LegendEvent_00_019ID	23	Lilie	リリー	（ザールブルグに学校を建てるっていうのは、\n　他の人から授かった使命だった）	Lilie	(Building a school in Salburg was a duty given to me by someone else.)	莉莉	（在萨尔布鲁克建立学校\n　曾经是他人赋予我的使命。）	莉莉	（在薩爾布魯克創建學校，\n　是他人授予給我的使命。）
+LegendEvent_00_019ID	24	Lilie	リリー	（でも、あたしはやっぱり錬金術が好きで、\n　それを誰かに教えていくことが好き）	Lilie	(But I love alchemy, and I love teaching it to others.)	莉莉	（不过，我是真心喜爱炼金术，\n　也喜欢教导他人。）	莉莉	（不過，我還是喜歡鍊金術，\n　也喜歡把鍊金術傳授給別人。）
+LegendEvent_00_019ID	25	Lilie	リリー	（あたしのやりたかったことは、\n　最初からずっと変わっていなかったんだわ）	Lilie	(Perhaps what I wanted to do hadn't actually changed since the beginning.)	莉莉	（我想做的事，\n　从一开始就从未改变过。）	莉莉	（我想做的事情，\n　打從一開始就沒有改變過。）
+LegendEvent_00_020ID	0	Izana	イザナ	せっかく仲良くなったのに、\nもうお別れなんてちょっと寂しいね	Izana	It's sad that we have to leave each other after becoming so close.	伊札娜	我们好不容易成了朋友，\n这就要分别了吗？好舍不得啊。	伊札娜	大家好不容易成了朋友，\n現在卻又要分開，感覺有點寂寞呢。
+LegendEvent_00_020ID	1	Lilie	リリー	そうね。でもあたし、この世界の錬金術を\nじっくり見聞きしてみたいの	Lilie	I know. But I want to keep looking into the alchemy of this world.	莉莉	我也很舍不得。但我还是想去\n仔细见识下这个世界的炼金术。	莉莉	是啊。但我想要仔細地體驗看看\n這個世界的鍊金術。
+LegendEvent_00_020ID	2	Resna	レスナ	リリー先輩、今回は本当にお世話になりました。\n旅のご無事を祈っています	Resna	We can't thank you enough, Miss Lilie. I hope you have a safe journey.	蕾斯娜	莉莉前辈，这次真的是受你照顾了。\n愿你之后的旅途一路顺风。	蕾斯娜	莉莉前輩，這次真的受妳關照了。\n希望妳旅途平安。
+LegendEvent_00_020ID	3	Lilie	リリー	ありがとう。レスナたちはまたフリーゲンに\n戻るんだっけ？	Lilie	Thanks. Were you all heading back to Friegen?	莉莉	谢谢。蕾斯娜你们是还要回弗里根去的对吧？	莉莉	謝謝妳。\n蕾斯娜妳們還要再回弗里岡是嗎？
+LegendEvent_00_020ID	4	Resna	レスナ	はい。以前ケガをした友人がそこに住んでいて、\nちょっと様子を見に行こうと思ってるんです	Resna	Yes. An injured friend of mine is living there and I want to go visit them.	蕾斯娜	是的。我有个朋友以前受了伤，现在就住在那里。\n我打算去探望一下。	蕾斯娜	是的。以前受傷的朋友住在那邊，\n我們想去看一下她的情況。
+LegendEvent_00_020ID	5	Marie	マリー	あたしはまたマナの調査に戻るわ。\nまだ調べ足りないこともあるし	Marie	I'll be back to studying mana. There's plenty I haven't researched yet.	玛莉	我也要继续接着去调查玛那的情况了。\n还有些没调查完呢。	瑪莉	我要再回到瑪那的調查工作。\n還有一些地方調查得不夠充分。
+LegendEvent_00_020ID	6	Elie	エリー	私もひとまずマルローネさんについていきます。\nまたどこかでお会いできるといいですね	Elie	I shall stay with Miss Marlone for now. Perhaps we'll see each other again sometime.	艾莉	我也会跟着玛洛娜小姐一起调查。\n希望今后还有机会见面。	艾莉	我也會暫時先跟著瑪洛娜小姐。\n希望未來我們還有機會能再次相見。
+LegendEvent_00_020ID	7	Lilie	リリー	ふふっ。案外すぐ会うかもね。\nだってあたしたち、錬金術士だもの	Lilie	Hehe. Maybe sooner rather than later. We're alchemists, after all.	莉莉	呵呵，说不定很快就会重逢哦？\n毕竟我们是炼金术士嘛。	莉莉	呵呵，說不定很快就會見面了。\n因為我們都是鍊金術士啊。
+LegendEvent_00_020ID	8	Lilie	リリー	それじゃあ、またね	Lilie	Farewell, then.	莉莉	那么，后会有期啦。	莉莉	那麼，再會囉。
+LegendEvent_00_020ID	9	Elie	エリー	次に会う時まで、お元気で	Elie	And until next time.	艾莉	还请多保重身体哦，下次再见。	艾莉	在下次見面之前，都要保重啊。
+LegendEvent_00_020ID	10	Marie	マリー	じゃ、しゅっぱ～つ！	Marie	All right, let's head out!	玛莉	那么，我们出发吧～！	瑪莉	那我們出發～！
+LegendEvent_00_020ID	11	Lilie	リリー	こうして、あたしはまた一人旅を始めた	Lilie	And so began my solo adventure once again.	莉莉	就这样，我再次独自一人踏上了旅途。	莉莉	就這樣，我又開始了一個人的旅行。
+LegendEvent_00_020ID	12	Lilie	リリー	でも、以前までとは少しだけ違うところがある	Lilie	But there was something different about it now.	莉莉	只是，有一件事和以往不太一样了。	莉莉	不過，有個想法和以前稍微不同了。
+LegendEvent_00_020ID	13	Lilie	リリー	あたしのやりたいこと。元々あたしは、錬金術の\n知識を誰かに教えていきたいという思いがあった	Lilie	It was what I wanted to do. Before, I felt a need to teach my alchemy to others.	莉莉	那就是我知道了我究竟想做什么。\n过去我只是一味地想把炼金术的知识教授给他人。	莉莉	就是關於我想做的事情。\n我本來就想把鍊金術的知識傳授給其他人。
+LegendEvent_00_020ID	14	Lilie	リリー	でも、そこまでだった。\nその先のことまではあまり考えたことがなかった	Lilie	But that was it. I hadn't thought about what came afterward.	莉莉	但我所考虑的也终究有限。\n在那之后，我想做什么，又该如何去做，我都未曾考虑过。	莉莉	但也只是想想罷了。\n至於未來的事情，我沒怎麼去思考過。
+LegendEvent_00_020ID	15	Lilie	リリー	今回、その先を知ることができた。あたしの思いを\n引き継いで、さらにその先へと受け継がれていく思い	Lilie	Now I know. That feeling of passing on our hopes and aspirations to the next person.	莉莉	但现在，我已经完全考虑清楚了。我想将我的这份愿望\n传递下去。将这份愿望，传承至遥远的将来。	莉莉	這次，我能夠明白未來的方向了。就是繼承我的意念，\n並且將那份意念更進一步地傳承到未來。
+LegendEvent_00_020ID	16	Lilie	リリー	（あたしも、気付いてなかっただけで、\n　今まで色んなものを受け取ってきたんだ）	Lilie	(I've taken all sorts of things from others as well and just never noticed.)	莉莉	（我过去也从他人那继承了许多，\n　只是我从未意识到罢了。）	莉莉	（一直以來我也接收到了很多東西，\n　只是以往都沒有留意過而已。）
+LegendEvent_00_020ID	17	Lilie	リリー	（きっと名前も知らない誰かの思いも……今度は\n　そこにあたしの思いも乗せて、次へと託していく）	Lilie	(Even the hopes of people I might not even know... I keep them with me and make way for the next challenge.)	莉莉	（我相信其中一定也包含着许多素昧平生之人的愿望……\n　而这次，我会把我心中的愿望也寄托在其中，一起托付给未来的人。）	莉莉	（當中肯定也有不知其名的某個人的意念……而這次，\n　我會在那之上承載自己的意念，託付給下一個人。）
+LegendEvent_00_020ID	18	Lilie	リリー	よし、頑張るぞ！！	Lilie	Let's do this!	莉莉	好，要加油了哦！！	莉莉	好，我要加油！！

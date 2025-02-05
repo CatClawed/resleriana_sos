@@ -1,0 +1,83 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	旅人の街道（昼）	Traveler's Path (Day)	旅人街道（白天）	旅人街道（白天）
+2	旅人の街道（夜）	Traveler's Path (Night)	旅人街道（夜晚）	旅人街道（夜晚）
+3	アトリエ	Atelier	炼金工房	鍊金工房
+4	カフェ-星の繭	Cafe - Star's Cocoon	咖啡厅-星之茧	咖啡廳-星之繭
+5	王都-広場（昼）	The Capital - Town Square (Day)	王都-广场（白天）	王都-廣場（白天）
+6	王都-広場（夜）	The Capital - Town Square (Night)	王都-广场（夜晚）	王都-廣場（夜晚）
+7	ペタルス海岸（昼）	Cape Petal (Day)	花瓣海岸（白天）	佩塔魯斯海岸（白天）
+8	ペタルス海岸（夜）	Cape Petal (Night)	花瓣海岸（夜晚）	佩塔魯斯海岸（夜晚）
+9	海辺の砦（昼）	Seaside Fortress (Day)	海边要塞（白天）	海邊的要塞（白天）
+10	海辺の砦（夜）	Seaside Fortress (Night)	海边要塞（夜晚）	海邊的要塞（夜晚）
+11	浮流の塔（昼）	Tower of Drifting Currents (Day)	漂流之塔（白天）	漂流之塔（白天）
+12	浮流の塔（夜）	Tower of Drifting Currents (Night)	漂流之塔（夜晚）	漂流之塔（夜晚）
+13	癒しの花園（昼）	Garden of Healing (Day)	治愈花园（白天）	治癒花園（白天）
+14	癒しの花園（夜）	Garden of Healing (Night)	治愈花园（夜晚）	治癒花園（夜晚）
+15	錬金術部の部室	Alchemy Club Room	炼金术社团的活动室	鍊金術社的社團教室
+16	瑠璃結晶の洞窟（昼）	Lapis Crystal Cave (Day)	琉璃结晶洞窟（白天）	琉璃結晶洞窟（白天）
+17	瑠璃結晶の洞窟（夜）	Lapis Crystal Cave (Night)	琉璃结晶洞窟（夜晚）	琉璃結晶洞窟（夜晚）
+18	錬金術科教室（昼）	Alchemy Classroom (Day)	炼金术科教室（白天）	鍊金術科教室（白天）
+19	錬金術科教室（夜）	Alchemy Classroom (Night)	炼金术科教室（夜晚）	鍊金術科教室（夜晚）
+20	王都-中流地区（昼）	The Capital - Central Area (Day)	王都-中流地区（白天）	王都-中流地區（白天）
+21	王都-中流地区（夜）	The Capital - Central Area (Night)	王都-中流地区（夜晚）	王都-中流地區（夜晚）
+22	王都-富裕地区（昼）	The Capital - Wealthy District (Day)	王都-富人区（白天）	王都-富裕地區（白天）
+23	王都-富裕地区（夜）	The Capital - Wealthy District (Night)	王都-富人区（夜晚）	王都-富裕地區（夜晚）
+24	オアゼス砂漠（昼）	Oazes Desert (Day)	奥亚泽斯沙漠（白天）	奧亞塞斯沙漠（白天）
+25	オアゼス砂漠（夜）	Oazes Desert (Night)	奥亚泽斯沙漠（夜晚）	奧亞塞斯沙漠（夜晚）
+26	街外れの小路（昼）	Alley on the Edge of Town (Day)	城郊小路（白天）	郊區的小徑（白天）
+27	街外れの小路（夜）	Alley on the Edge of Town (Night)	城郊小路（夜晚）	郊區的小徑（夜晚）
+28	王都-湾岸地区（昼）	The Capital - Bay Area (Day)	王都-海岸地区（白天）	王都-海灣地區（白天）
+29	王都-湾岸地区（夜）	The Capital - Bay Area (Night)	王都-海岸地区（夜晚）	王都-海灣地區（夜晚）
+30	ジュゲル密林（昼）	Yuggel Jungle (Day)	尤格鲁密林（白天）	朱格爾密林（白天）
+31	ジュゲル密林（夜）	Yuggel Jungle(Night)	尤格鲁密林（夜晚）	朱格爾密林（夜晚）
+32	ささやき湿原（昼）	Whispering Wetlands (Day)	呢喃湿地（白天）	耳語濕原（白天）
+33	ささやき湿原（夜）	Whispering Wetlands (Night)	呢喃湿地（夜晚）	耳語濕原（夜晚）
+34	星の流れる河畔（昼）	Starry Riverside (Day)	摇曳星河的岸边（白天）	星星流經的河畔（白天）
+35	星の流れる河畔（夜）	Starry Riverside (Night)	摇曳星河的岸边（夜晚）	星星流經的河畔（夜晚）
+36	リーゼシュプール（昼）	Rieseschpur (Day)	利兹之痕（白天）	巨人足跡（白天）
+37	リーゼシュプール（夜）	Rieseschpur (Night)	利兹之痕（夜晚）	巨人足跡（夜晚）
+38	忘却の遺跡（昼）	Ruins of Oblivion (Day)	忘却遗迹（白天）	忘卻的遺跡（白天）
+39	忘却の遺跡（夜）	Ruins of Oblivion (Night)	忘却遗迹（夜晚）	忘卻的遺跡（夜晚）
+40	月影の会　本部事務所（昼）	Moonlight Society Headquarters (Day)	月影会 总部事务所（白天）	月影會 本部事務所（白天）
+41	月影の会　本部事務所（夜）	Moonlight Society Headquarters (Night)	月影会 总部事务所（夜晚）	月影會 本部事務所（夜晚）
+42	ベルク大山脈（昼）	Berg Mountains (Day)	贝尔克大山脉（白天）	貝魯克大山脈（白天）
+43	ベルク大山脈（夜）	Berg Mountains (Night)	贝尔克大山脉（夜晚）	貝魯克大山脈（夜晚）
+44	フリーゲン-外れ（昼）	Friegen - Outskirts(Day)	弗里根-郊外（白天）	弗里岡-郊區（白天）
+45	フリーゲン-外れ（夜）	Friegen - Outskirts (Night)	弗里根-郊外（夜晚）	弗里岡-郊區（夜晚）
+46	フリーゲン-広場（昼）	Friegen - Town Square(Day)	弗里根-广场（白天）	弗里岡-廣場（白天）
+47	フリーゲン-広場（夜）	Friegen - Town Square (Night)	弗里根-广场（夜晚）	弗里岡-廣場（夜晚）
+48	旧アメルハウザー城（昼）	Old Amelhauser Castle (Day)	旧亚梅尔豪瑟城堡（白天）	舊阿默豪森城（白天）
+49	旧アメルハウザー城（夜）	Old Amelhauser Castle (Night)	旧亚梅尔豪瑟城堡（夜晚）	舊阿默豪森城（夜晚）
+50	海底の洞窟（昼）	Undersea Cavern (Day)	海底洞窟（白天）	海底洞窟（白天）
+51	海底の洞窟（夜）	Undersea Cavern (Night)	海底洞窟（夜晚）	海底洞窟（夜晚）
+52	王都-地下水道（昼）	The Capital - Waterways (Day)	王都-地下水路（白天）	王都-地下水道（白天）
+53	王都-地下水道（夜）	The Capital - Waterways (Night)	王都-地下水路（夜晚）	王都-地下水道（夜晚）
+54	メリディエ火山（昼）	Meridie Volcano (Day)	梅里迪耶火山（白天）	梅莉狄耶火山（白天）
+55	メリディエ火山（夜）	Meridie Volcano (Night)	梅里迪耶火山（夜晚）	梅莉狄耶火山（夜晚）
+56	悠久の峡谷（昼）	Eternal Canyon (Day)	悠久峡谷（白天）	悠久峽谷（白天）
+57	悠久の峡谷（夜）	Eternal Canyon (Night)	悠久峡谷（夜晚）	悠久峽谷（夜晚）
+58	木漏れ日の山道（昼）			
+59	木漏れ日の山道（夜）			
+60	ルーエ湖畔（昼）			
+61	ルーエ湖畔（夜）			
+62	深淵の隠れ家（昼）			
+63	深淵の隠れ家（夜）			
+64	アトリエ（星誕祭）			
+65	王都-広場（雪景色/昼）			
+66	王都-広場（雪景色/夜）			
+67	王都-広場（雪景色/昼・雪）			
+68	王都-広場（雪景色/夜・雪）			
+69	ヴィアベル群島（昼）			
+70	ヴィアベル群島（夜）			
+71	探究者の遺跡（昼）			
+72	探究者の遺跡（夜）			
+73	黄金色の平原（昼）			
+74	黄金色の平原（夜）			
+75	密やかな林道（昼）			
+76	密やかな林道（夜）			
+77	閉ざさずの門			
+78	カフェ-星の繭（リンデ祭）			
+79	ノルト大森林（昼）			
+80	ノルト大森林（夜）			
+81	フリーゲン-高台（昼）			
+82	フリーゲン-高台（夜）			

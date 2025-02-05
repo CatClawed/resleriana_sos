@@ -1,0 +1,329 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_NPC4_01ID	0	Juna	ユナ	（今日は天気がいい。見回り日和だな）	Juna	(What nice weather we're having today. Perfect for patrolling.)	尤娜	（今天天气很好，适合巡逻。）	尤娜	（今天天氣真好，正適合巡邏呢。）
+Date_NPC4_01ID	1	Juna	ユナ	（人々も穏やかだ……\n　ん？　あそこにいるのはハイディか）	Juna	(Everyone seems to be in a fine mood, too. Hm? Isn't that Heidi over there?)	尤娜	（也没有人闹事……\n　嗯？那个人是海蒂吧。）	尤娜	（人們之間的氣氛也很和平……\n　嗯？在那邊的是海蒂吧。）
+Date_NPC4_01ID	2	Juna	ユナ	（なんだ、様子がおかしいな）	Juna	(Though, she doesn't appear to be acting like her usual self.)	尤娜	（看上去样子有点不太对劲。）	尤娜	（她看上去好像不太對勁。）
+Date_NPC4_01ID	3		選択肢	そこで何をしているんだ	Selection	What are you doing there?	选项	你在做什么？	選項	妳在那裡做什麼？
+Date_NPC4_01ID	4	Juna	ユナ	ハイディ！　そこで何をしているんだ	Juna	Heidi! What are you doing there?	尤娜	海蒂！你在做什么？	尤娜	海蒂！妳在那裡做什麼？
+Date_NPC4_01ID	5	Heidi	ハイディ	うわあ！　って、ユナさんか。\nびっくりしたー	Heidi	Whoa! Oh, it's just you, Juna. Yeesh, give a girl more warning, would you?	海蒂	哇！\n原来是尤娜小姐啊，吓我一跳。	海蒂	唔哇！呃，原來是尤娜小姐啊。\n嚇了我一跳～
+Date_NPC4_01ID	6	Juna	ユナ	……なんだ、\n何かやましいことでもあるのか	Juna	You aren't up to any...dubious behavior, are you?	尤娜	怎么……你做了什么亏心事吗？	尤娜	……怎麼，難道妳做了什麼虧心事嗎？
+Date_NPC4_01ID	7	Heidi	ハイディ	ないない、ないです！\nだからそんな怖い顔しないで！	Heidi	Nope, not in the least! So please stop giving me that scary look!	海蒂	没有没有，才没那回事呢！\n你不要露出那么恐怖的表情啦！	海蒂	不不不，並沒有！\n所以妳別擺出那麼可怕的表情啦！
+Date_NPC4_01ID	8	Juna	ユナ	……怖い顔をしているつもりはないんだが	Juna	My expression isn't any different from usual.	尤娜	我没有故意吓你吧……	尤娜	……我沒有想要擺出可怕的表情啊。
+Date_NPC4_01ID	9		選択肢	おい、どうした？	Selection	Hey, is something wrong?	选项	喂，怎么了？	選項	喂，妳怎麼了？
+Date_NPC4_01ID	10	Juna	ユナ	おいハイディ、どうした？	Juna	Hey, Heidi? Is something wrong?	尤娜	喂，海蒂，怎么了？	尤娜	喂，海蒂，妳怎麼了？
+Date_NPC4_01ID	11	Heidi	ハイディ	あっ、ユナさん！ちょっと聞いてよー！\nこのハイディちゃんが、\nしてやられちゃったよー！	Heidi	Oh, Juna! Perfect timing! This pure-hearted maiden has been hoodwinked something awful, I'm telling you!	海蒂	啊，尤娜小姐！你听我说！\n我居然被人摆了一道！	海蒂	啊，尤娜小姐！妳聽我說啦～！\n海蒂我被人擺了一道～！
+Date_NPC4_01ID	12	Juna	ユナ	なんだ。\nいつもと様子が違わないか	Juna	Never mind. You're clearly fine.	尤娜	但你看上去和平时没什么两样。	尤娜	怎麼回事？妳看起來有點反常。
+Date_NPC4_01ID	13	Heidi	ハイディ	これには、\n山よりも深く海よりも高い訳があってね……	Heidi	Hardly! Let me assure you, the reason for my disappointment runs deeper than the mountains and higher than the seas...	海蒂	这件事说来话长，三下五除二说不清……	海蒂	這背後的原因可說是比山深，比海高喔……
+Date_NPC4_01ID	14	Juna	ユナ	それを言うなら、\n山よりも高く海よりも深い、じゃないか？	Juna	...If you're going to be dramatic, at least get the expression right.	尤娜	应该是三言两语说不清吧？	尤娜	妳應該是要說比山高，比海深吧？
+Date_NPC4_01ID	15		選択肢	どうしたんだい、お嬢さん	Selection	What ails you, young lady?	选项	这位小姐，你怎么了？	選項	怎麼了呀，小姐？
+Date_NPC4_01ID	16	Juna	ユナ	どうしたんだい、お嬢さん	Juna	What ails you, young lady?	尤娜	这位小姐，你怎么了？	尤娜	怎麼了呀，小姐？
+Date_NPC4_01ID	17	Heidi	ハイディ	何？　お誘いならお断りだよ！	Heidi	Huh? Get lost, creep!	海蒂	干嘛？要搭讪的话麻烦去找别人！	海蒂	幹嘛？要邀約的話我拒絕喔！
+Date_NPC4_01ID	18	Heidi	ハイディ	……ってユナさん！？\n何やってるの！？	Heidi	Wait, Juna?! What are you doing here?!	海蒂	尤娜小姐……？！\n你在干嘛呢？！	海蒂	……咦、尤娜小姐！？\n妳在做什麼啦！？
+Date_NPC4_01ID	19	Juna	ユナ	お前が落ち込んでいるようだったから、\n殿下のように明るく声をかけてみようかと\n思ってだな……	Juna	Well, you looked rather down, so I thought I'd try lifting your spirits with a more regal style of speech.	尤娜	我看你情绪低落，就想试着\n和殿下一样爽朗地打声招呼。	尤娜	妳看上去有點沮喪，\n我就想說學殿下那樣開朗地\n跟妳打個招呼看看……
+Date_NPC4_01ID	20	Heidi	ハイディ	あはは！　今のロマンの真似？\nぜんっぜん似てない！\nでも今のはいい励ましだったよ、うん	Heidi	Ahaha! Were you imitating Roman? Sorry, but you don't sound like him at all! That did cheer me up, though.	海蒂	啊哈哈！刚才那是在模仿罗曼？\n一点也不像！不过我现在有精神了，嗯。	海蒂	啊哈哈！妳剛才那是在學羅曼？\n一點也不像！不過倒是讓我的心情\n好了不少喔，嗯。
+Date_NPC4_01ID	21	Heidi	ハイディ	いやー、実はさ	Heidi	Okay, so...	海蒂	哎呀，其实……	海蒂	哎呀～其實呢……
+Date_NPC4_01ID	22	Heidi	ハイディ	割りのいい依頼があったと思ったら、\n騙されちゃっててさ……	Heidi	I thought that I'd bagged a lucrative request, but I totally got cheated.	海蒂	我以为接到了一个很划算的委托，\n结果被骗了……	海蒂	原以為接到了很賺的委託，\n結果竟是一場騙局……
+Date_NPC4_01ID	23	Heidi	ハイディ	普段から十分気を付けてたんだけど、\n久しぶりにしてやられたよ……	Heidi	Usually, I'm way more wary about that kind of thing, but I guess I've gotten rusty.	海蒂	平时我已经很注意了，\n不过没想到还是久违地上了次当……	海蒂	我平常都十分小心的，很久沒中計了……
+Date_NPC4_01ID	24	Juna	ユナ	割りのいい依頼、か……	Juna	Lucrative in what way?	尤娜	划算的委托吗……	尤娜	很賺的委託啊……
+Date_NPC4_01ID	25	Heidi	ハイディ	そう！　命の危険なく、高報酬！\nいい依頼見つけたって思ったんだけどな	Heidi	Super high-paying, and not in the least bit life-threatening! That's like, the dream!	海蒂	没错！没有生命危险且高报酬！\n我还以为总算来了个好活呢。	海蒂	對！不會有性命危險，又是高報酬！\n本來以為找到了一個不錯的委託呢。
+Date_NPC4_01ID	26		選択肢	運が悪かったな	Selection	That's unfortunate.	选项	太不走运了	選項	運氣真不好。
+Date_NPC4_01ID	27	Juna	ユナ	それは運が悪かったな。\n割りのいい依頼というのは\nなかなかないだろう	Juna	That IS unfortunate. Such requests truly are few and far between.	尤娜	那真是太不走运了。\n划算的委托应该很少吧。	尤娜	那妳運氣真不好呢。\n很賺的委託沒那麼容易找到的吧。
+Date_NPC4_01ID	28	Heidi	ハイディ	だよねー。あーあ、残念	Heidi	I know, right? Ugh, I got my hopes up for nothing.	海蒂	就是说啊。哎，太遗憾了。	海蒂	就是說啊～唉，真遺憾。
+Date_NPC4_01ID	29	Heidi	ハイディ	私って、楽をしようとすると\nいっつもどこかツイてないんだよね	Heidi	It's always like that, though. Any time I think a request's going to be a piece of cake, something ends up being waaay tougher than it needs to be.	海蒂	每次我想赚点快钱就总是碰到倒霉事。	海蒂	當我想要輕鬆一點賺錢的時候，\n總是會不太走運呢。
+Date_NPC4_01ID	30	Juna	ユナ	まず運に任せて楽をしようとするのが\n間違いだろう	Juna	I'd say that your first mistake was leaving things up to fate.	尤娜	首先，想赚快钱这种想法就不对吧。	尤娜	首先想要靠運氣輕鬆賺錢\n就是個錯誤吧。
+Date_NPC4_01ID	31	Heidi	ハイディ	うへえ、おっしゃる通りで……	Heidi	Ugh, yeah. I can't really argue with you there.	海蒂	呃，您说的是……	海蒂	唔呃，妳說得很有道理……
+Date_NPC4_01ID	32		選択肢	どう考えても怪しいだろう	Selection	Surely that raised all sorts of red flags.	选项	不管怎么想都很可疑	選項	不管怎麼想都很可疑吧。
+Date_NPC4_01ID	33	Juna	ユナ	楽で高報酬？\nそんな依頼、どう考えても怪しいだろう。\n危険と報酬が釣り合っていない	Juna	A simple AND high-paying task? Surely that raised all sorts of red flags. A proper request pays proportionally to the amount of risk required to complete it.	尤娜	轻松又钱多？这种委托怎么想都很可疑吧。\n它的风险和报酬不成正比。	尤娜	輕鬆又高報酬？\n這種委託不管怎麼想都很可疑吧。\n風險和報酬根本就不對等。
+Date_NPC4_01ID	34	Heidi	ハイディ	もー、ユナさんは真面目だなー	Heidi	Ugh, you're so serious, Juna!	海蒂	哎，尤娜小姐太正经啦。	海蒂	真是的～尤娜小姐妳很一板一眼耶～
+Date_NPC4_01ID	35	Heidi	ハイディ	ハイディちゃん的には、\nこれが黄金バランスなんだけどな	Heidi	I don't know, it seemed like the perfect balance to me.	海蒂	对我来说，这就是工作的黄金比。	海蒂	在海蒂我看來，\n這種委託才是黃金比例喔。
+Date_NPC4_01ID	36	Juna	ユナ	お前的に、ではなく\n世間一般で見たバランスを言っているんだ	Juna	To you, maybe. But I'm talking about what most people would think.	尤娜	我说的是普罗大众的看法，\n而不是你那套歪理。	尤娜	妳怎麼看不重要，\n我說的是社會大眾眼中的比例。
+Date_NPC4_01ID	37	Heidi	ハイディ	はーい、ごめんなさーい	Heidi	Yeah yeah, sooorry.	海蒂	好啦，我知道错了。	海蒂	是～對不起～
+Date_NPC4_01ID	38		選択肢	慰めてやろう	Selection	Comfort her	选项	我来安慰你吧	選項	我來安慰妳吧。
+Date_NPC4_01ID	39	Juna	ユナ	それは残念だったな……\n私が慰めてやろう	Juna	That is a shame. Here, I'll cheer you up.	尤娜	那真是太遗憾了……\n我来安慰你吧。	尤娜	那還真是遺憾……我來安慰妳吧。
+Date_NPC4_01ID	40	Heidi	ハイディ	え、ええっ！　ユナさん！？	Heidi	Huh! Juna?!	海蒂	什、什么？！尤娜小姐？！	海蒂	咦、咦咦！尤娜小姐！？
+Date_NPC4_01ID	41	Juna	ユナ	人を騙すような不埒な輩は、\n王国が放っておかない	Juna	The kingdom won't let such deceiving scoundrels run wild.	尤娜	王国不会放任无良之辈到处骗人。	尤娜	那些欺騙他人的不肖之徒，\n王國是不會輕易放過的。
+Date_NPC4_01ID	42	Juna	ユナ	必ず罰せられる。\nそう考えると溜飲も下がるだろう	Juna	They will be punished, I promise. I hope that serves as some comfort to you.	尤娜	他们一定会受到惩罚。\n这样想心里有没有舒服一点？	尤娜	我必定會嚴懲他們。\n這樣一想，妳應該心情會暢快一點吧。
+Date_NPC4_01ID	43	Heidi	ハイディ	うわぁお……\nユナさんかっこいー！	Heidi	Wow... Juna, you're so cool!	海蒂	哇……\n尤娜小姐好帅啊！	海蒂	唔哇……尤娜小姐真是帥氣～！
+Date_NPC4_01ID	44	Juna	ユナ	だが、どう見ても怪しい依頼に飛びつく\nお前もどうかと思うぞ	Juna	That being said, you need to be careful of such obviously shady requests.	尤娜	不过，明知委托有鬼还凑上去的你也有问题。	尤娜	不過，貿然接下那種不管怎麼看都很可疑的委託，\n妳也有不對的地方。
+Date_NPC4_01ID	45	Juna	ユナ	楽して稼ごうとすると、\n失敗するぞ	Juna	Going after easy money never ends well.	尤娜	想挣快钱只会失败。	尤娜	打著輕鬆賺錢的主意，可是會跌跤的喔。
+Date_NPC4_01ID	46	Heidi	ハイディ	そうかもしれないけど、\n楽して稼げたら一番いいじゃん！	Heidi	Yeah, you're probably right. But you can't beat high pay for simple work!	海蒂	话是这么说，但要是真能赚到肯定是最好啊！	海蒂	或許是這樣沒錯啦，\n但如果能輕鬆賺錢當然是最好的嘛！
+Date_NPC4_01ID	47	Heidi	ハイディ	家族のためにも、手早く稼ぎたいんだよ	Heidi	And I want to make money fast for my family, too.	海蒂	就算是为了家人，我也想快点多赚点钱。	海蒂	為了家人，我想要快點賺到錢啊。
+Date_NPC4_01ID	48	Juna	ユナ	（志は悪くないが、\n　楽して稼ぐというのは、難しい話だろう）	Juna	(Her intentions aren't bad, but easy money isn't usually so easy.)	尤娜	（她的出发点不坏，\n　但钱不是轻轻松松就能赚来的。）	尤娜	（雖然志向是對的，\n　但要輕鬆賺錢根本是天方夜譚吧。）
+Date_NPC4_01ID	49		選択肢	大きな事件に巻き込まれてしまうかも	Selection	You might get into big trouble.	选项	可能会被卷入麻烦事	選項	可能會被捲入重大事件。
+Date_NPC4_01ID	50	Juna	ユナ	それで怪しい依頼に手を出してしまい、\n事件にでも巻き込まれたらどうする	Juna	What happens if you go for a shady request and get caught up in some mess?	尤娜	就因为这样去接奇怪的委托，\n万一被卷入了麻烦事怎么办。	尤娜	要是因此去做可疑的委託而導致自己\n被捲入事件裡，妳要怎麼辦？
+Date_NPC4_01ID	51	Juna	ユナ	家族に心配をかけることになるぞ	Juna	You'd end up troubling your family.	尤娜	家人会担心你啊。	尤娜	這樣可是會害家人擔心的喔。
+Date_NPC4_01ID	52	Heidi	ハイディ	それは……絶対嫌だけどぉ……	Heidi	That...would be horrible...	海蒂	这……我不想让她们担心……	海蒂	這……我絕對不要……
+Date_NPC4_01ID	53	Heidi	ハイディ	でも、\n家族に貧乏暮らしもさせたくないし……	Heidi	But I don't want them to live a poor life, either.	海蒂	但我也不想让家人过苦日子……	海蒂	可是，我也不想讓家人過著\n貧窮的生活啊……
+Date_NPC4_01ID	54		選択肢	地道に稼いだ方が確実だ	Selection	It's better to earn a steady pay than an easy one.	选项	脚踏实地挣钱才稳妥	選項	腳踏實地賺錢比較實際。
+Date_NPC4_01ID	55	Juna	ユナ	楽して稼げる仕事というのは、\nある意味、賭けだ。\n正式な依頼で地道に稼いだ方が確実だろう	Juna	Easy-money requests are a gamble of sorts. It's really a lot better to earn a steady pay through proper requests.	尤娜	某种意义上来说，能轻松来钱的工作是一种赌博。\n还是接正规委托脚踏实地赚钱才稳当。	尤娜	所謂能夠輕鬆賺錢的工作，\n某種意義上就是一種賭博。\n還是接取正式委託，腳踏實地賺錢比較實際。
+Date_NPC4_01ID	56	Heidi	ハイディ	それだと、今を過ごすだけで精一杯なんだよ	Heidi	But then I'd have to work really hard just to get by!	海蒂	这样的话光是应付眼前的开销就够呛了。	海蒂	這樣的話，光是過好現在就已經拚盡全力了。
+Date_NPC4_01ID	57	Heidi	ハイディ	正式な依頼で大儲けしようとすると、\n命の危険はあるし、責任は大きいし……	Heidi	"And all the good paying ""proper"" requests are really dangerous and come with huge responsibilities."	海蒂	那些能赚大钱的正规委托都有生命危险，\n或者责任重大……	海蒂	如果要靠正式委託來大賺一筆，\n不僅會有生命危險，責任也很重大……
+Date_NPC4_01ID	58	Juna	ユナ	大きく稼ぎたいのなら、\nそれは避けられないぞ	Juna	You can't get around that if you want to earn big.	尤娜	想多赚钱的话，这点风险是必须的。	尤娜	既然想要賺大錢，這些都是不可避免的。
+Date_NPC4_01ID	59		選択肢	手に職をつけたらどうだ	Selection	Perhaps you should learn a trade?	选项	找份工作怎么样	選項	學點專業手藝如何？
+Date_NPC4_01ID	60	Juna	ユナ	それなら、手に職をつけたらどうだ。\nお前は手先が器用だし、\n向いている仕事がありそうだ	Juna	Well, if that's the case, why not learn a trade? You're good with your hands, so I'm sure you'd be good at certain work.	尤娜	那找份工作怎么样。\n你心灵手巧，应该有适合的工作。	尤娜	既然如此，那學點專業手藝如何？\n妳的手很靈巧，\n應該找得到適合的工作。
+Date_NPC4_01ID	61	Heidi	ハイディ	うぅーん、世の中上手に生きたいんだよね	Heidi	Hmm... I'm not sure. I don't want to be tied down.	海蒂	唔……我还是想活得舒心一点。	海蒂	唔～我想要在這世上活得率性自由一點。
+Date_NPC4_01ID	62	Heidi	ハイディ	堅苦しい生活は肩が凝るといいますか、\n真面目に生きるは、くたびれる	Heidi	A rigid lifestyle like that is just too much for me. It's exhausting, living a diligent life.	海蒂	死板的工作会让人腰酸背痛。\n或者说，循规蹈矩过日子实在是太累了。	海蒂	太死板的生活會覺得負擔很重，\n應該說太認真生活會很累人的。
+Date_NPC4_01ID	63	Heidi	ハイディ	依頼を受けて、達成して、報酬をもらう。\n今くらいの生活がちょうどいいんだ	Heidi	I like how things are now. I get requests, I complete them, and then I get rewards. It's simple.	海蒂	接委托、完成、领报酬。\n现在这样对我来说刚好。	海蒂	接取並完成委託，然後收取報酬。\n像現在這樣的生活很剛好。
+Date_NPC4_01ID	64	Juna	ユナ	そうか、分かった。\nだが怪しい依頼を受けるのはいけない	Juna	I understand. Still, you shouldn't take on shady requests.	尤娜	是吗，我知道了。\n但不要再接可疑的委托了。	尤娜	這樣啊，我明白了。\n但妳可不能接可疑的委託喔。
+Date_NPC4_01ID	65	Juna	ユナ	いいか、依頼を受けるなら、\nカフェなどで受けられるものにしろ。\n正規の依頼なら、報酬は必ず受け取れる	Juna	Listen. If you're going to take requests, take them from a place like the cafe. That way, you can get proper requests that actually pay.	尤娜	听好了，委托一定要去咖啡厅这些地方接。\n正规的委托是一定可以拿到报酬的。	尤娜	聽好了，要接委託的話，\n就去咖啡廳之類的地方。\n只要是正規委託，就一定能收到報酬。
+Date_NPC4_01ID	66	Juna	ユナ	正規の手続きを踏んでいない依頼は\n報酬を受け取れない恐れがあるだけでなく、\n事件に巻き込まれる可能性もあり危険で……	Juna	When you take requests that don't go through official channels, you don't just risk getting swindled, but it's also dangerous for—	尤娜	没有正规手续的委托不仅可能领不到报酬，\n还有可能被卷入危险……	尤娜	沒有經過正規手續的委託\n不僅有拿不到報酬的風險，\n還有可能會被捲入事件之中，非常危險……
+Date_NPC4_01ID	67	Heidi	ハイディ	はい！　分かりました！\n肝に銘じます！	Heidi	Okay, got it! I'll be on guard!	海蒂	明白了！我会牢记的！	海蒂	是！我知道了！我會謹記在心的！
+Date_NPC4_01ID	68	Juna	ユナ	本当に分かったんだろうな。\n私はお前を心配して	Juna	I'm serious. You know, I'm worried about you—	尤娜	你真的明白了吗。\n我是担心你才……	尤娜	妳真的有聽進去嗎？\n我可是很擔心妳──
+Date_NPC4_01ID	69	Heidi	ハイディ	もちろん！\nではでは、私、次の依頼があるので、また！	Heidi	Of course! Anyway, I've got another request to do. See you later!	海蒂	当然！我还有别的委托，先走了！	海蒂	當然了！\n那我還有下一個委託，再見！
+Date_NPC4_01ID	70	Juna	ユナ	おい、ハイディ！\n話は最後まで聞け！	Juna	Wait, Heidi! I wasn't finished!	尤娜	喂，海蒂！听我把话说完！	尤娜	喂，海蒂！聽我把話說完！
+Date_NPC4_01ID	71	Juna	ユナ	（逃げ足が速いな。\n　追いかけるのはやめておこう）	Juna	(She's quick to run. I'll let her be this time.)	尤娜	（跑得真快……还是别追她了。）	尤娜	（溜得真快。還是別追她了。）
+Date_NPC4_01ID	72	Juna	ユナ	（楽をして稼ごうとするのは危険だから、\n　できることなら止めたいが……）	Juna	(I wish I could stop her from trying to get easy money, though.)	尤娜	（能轻松赚大钱的工作有风险，\n　最好是能够拦住她……）	尤娜	（想要輕鬆賺錢是很危險的，\n　如果可以我希望能阻止她……）
+Date_NPC4_02ID	0	Juna	ユナ	（久しぶりの休日だ。\n　過剰な鍛錬は殿下に止められているし、\n　カフェで少しゆっくりするか）	Juna	(It's my first day off in a while. If His Highness insists on me taking a break, I might as well relax at a cafe.)	尤娜	（今天是久违的休息日。\n　殿下也禁止我过度锻炼。\n　那去咖啡厅放松一下吧。）	尤娜	（好久沒放假了。\n　既然殿下叫我不要過度鍛鍊，\n　那就去咖啡廳稍微放鬆一下吧。）
+Date_NPC4_02ID	1	Juna	ユナ	（む、あそこにいるのは）	Juna	(Huh? Is that...?)	尤娜	（唔，那个人是……）	尤娜	（唔，在那邊的是……）
+Date_NPC4_02ID	2	Juna	ユナ	ハイディ	Juna	Heidi!	尤娜	海蒂。	尤娜	海蒂。
+Date_NPC4_02ID	3	Heidi	ハイディ	わ！　ユナさん！\nいつもと服装違うから一瞬分かんなかった！\n今日は騎士、お休み？	Heidi	Oh, it's Juna! I didn't recognize you with those clothes! Off knight duty today?	海蒂	啊！尤娜小姐！\n你和平时打扮不一样，一下子都没认出来！\n今天你不用去骑士团吗？	海蒂	哇！尤娜小姐！\n妳穿得跟平常不一樣，我一下子沒認出來！\n今天不用當騎士嗎？
+Date_NPC4_02ID	4	Juna	ユナ	ああ。今日は休日だからな。\nところでお前は何をしている	Juna	Yes, I am. What are you up to?	尤娜	嗯，今天我休息。\n话说回来，你在这里做什么？	尤娜	對，我今天放假。\n話說妳在做什麼？
+Date_NPC4_02ID	5	Heidi	ハイディ	いやー、私はちょっとね。\nどんな依頼があるのか見に来たんだ	Heidi	Oh, well... I came to see what kind of requests there might be.	海蒂	呃，我来看看有什么能接的委托。	海蒂	哎呀～也沒什麼啦。\n我就是來看看有哪些委託。
+Date_NPC4_02ID	6	Juna	ユナ	そうか。\n先日も言ったが、依頼を受けるなら、\nここにあるような正式なものを選ぶべきだ	Juna	I see. Like I said, if you're looking for requests, you should look for proper ones like what they have around here.	尤娜	是吗。之前我也说过，\n要接委托就来这里选正规的。	尤娜	這樣啊。\n前幾天也說過了，既然要接委託，\n就該選擇像這種地方會有的正式案件。
+Date_NPC4_02ID	7	Juna	ユナ	ここにも、探せば割りのいい依頼はある。\n例えば……	Juna	If you look hard enough, you should be able to find lucrative requests here, too. Let's see...	尤娜	用心找的话，这里也有划算的委托。\n比如……	尤娜	只要仔細找找，這裡也會有很賺的委託。\n比如說……
+Date_NPC4_02ID	8		選択肢	「池のヌシを釣り上げてください」	Selection	"""Can someone fish the master of the pond for me?"""	选项	“请钓一条池沼之主”	選項	「請幫忙釣起池中之主」。
+Date_NPC4_02ID	9	Juna	ユナ	「池のヌシを釣り上げてください」、\nこの依頼はどうだ。\n釣りだから、命の危険はなさそうだぞ	Juna	"How about this one? ""Fish the master of the pond."" No danger in fishing."	尤娜	“请钓一条池沼之主”。\n这个怎么样。\n钓鱼的话不会有生命危险吧。	尤娜	「請幫忙釣起池中之主」，\n這個委託如何？\n釣魚的話，應該不會有生命危險吧。
+Date_NPC4_02ID	10	Heidi	ハイディ	池のヌシってなかなか見れないやつじゃん。\nハイディちゃんの豪運を\nお見せするときが来たかな？	Heidi	Master of the pond? That's one of those super rare fish, right? This might be the time to show off my magnificent luck!	海蒂	池沼之主一般根本见不到啊。\n是时候让大家见识一下我的强运了！	海蒂	池中之主是很難見到的傢伙耶。\n海蒂我會有展現超強運氣的時候嗎？
+Date_NPC4_02ID	11	Juna	ユナ	……ハイディが、豪運……？	Juna	Your...magnificent luck?	尤娜	你，强运……？	尤娜	……海蒂展現超強運氣……？
+Date_NPC4_02ID	12	Heidi	ハイディ	うっ！\n私がツイてないことくらい\n私も分かってるよ！	Heidi	I'm joking, okay?! I know better than anyone how unlucky I am!	海蒂	呃！我当然知道我运气很烂啦！	海蒂	唔！我也非常清楚自己很不走運啦！
+Date_NPC4_02ID	13		選択肢	「思い出の家具を修理してください」	Selection	"""Furniture repairs needed. Important memorabilia."""	选项	“请修理承载着回忆的家具”	選項	「請幫忙修理充滿回憶的傢俱」。
+Date_NPC4_02ID	14	Juna	ユナ	「思い出の家具を修理してください」、\nこの依頼はどうだ。\nお前は手先が器用だったな	Juna	"How about this one? ""Furniture repairs needed. Important memorabilia."" You're good with your hands, aren't you?"	尤娜	“请修理承载着回忆的家具”。\n这个怎么样？\n你不是很心灵手巧吗。	尤娜	「請幫忙修理充滿回憶的傢俱」，\n這個委託如何？\n畢竟妳有一雙巧手啊。
+Date_NPC4_02ID	15	Heidi	ハイディ	うん。器用さには自信があるよ！\n修理くらいお手の物！	Heidi	Absolutely, I'm proud of my handiwork. I could handle a repair in no time.	海蒂	嗯，这个我很有自信！\n修理东西不在话下！	海蒂	嗯，我對手藝很有自信喔！\n修理這點小事輕輕鬆鬆啦！
+Date_NPC4_02ID	16	Heidi	ハイディ	だけどこれは、思い出の、ってあるから\n責任重大って感じで少し怖いなー……	Heidi	But it sounds like this piece of furniture is important to them, right? That's a lot of pressure.	海蒂	但这上面写了承载着回忆，\n给人一种责任重大的感觉，我有点担心……	海蒂	不過，這上面有提到是「充滿回憶」的東西，\n感覺責任很重大，有點怕怕的……
+Date_NPC4_02ID	17	Juna	ユナ	責任から逃げていたら、\nなかなか儲かれないぞ	Juna	You'll never earn a single Cole if you keep running away from responsibility like that.	尤娜	一直逃避责任可赚不到钱。	尤娜	要是一直逃避責任的話，\n那可賺不了什麼錢喔。
+Date_NPC4_02ID	18	Heidi	ハイディ	そうかもしれないけどー……\nま、こういう依頼は錬金術士さんに\nお任せしますかね	Heidi	I guess, but... I think I'll leave this kind of request to an alchemist.	海蒂	或许你说的没错，但……\n算了，这种委托还是交给炼金术士吧。	海蒂	或許是這樣沒錯啦……\n不過，這種委託還是交給鍊金術士吧。
+Date_NPC4_02ID	19		選択肢	「求ム！謝罪職人」	Selection	"""Apology specialist desperately needed!"""	选项	“急求专业道歉人！”	選項	「徵求！道歉專家」。
+Date_NPC4_02ID	20	Juna	ユナ	「求ム！謝罪職人」……？\nなんだ、この依頼は	Juna	"""Apology specialist""? What in the world is that?"	尤娜	“急求专业道歉人！”……？\n这是什么委托？	尤娜	「徵求！道歉專家」……？\n怎麼會有這種委託？
+Date_NPC4_02ID	21	Heidi	ハイディ	うーん、よく分かんないけど、\n謝るだけで報酬もらえるなんて最高じゃん！	Heidi	Hmm... I have no idea what it means, but making money just by apologizing? Sounds perfect!	海蒂	唔……虽然搞不明白，\n但只要道歉就能拿到报酬也太棒了吧！	海蒂	唔～雖然不是很清楚，\n但道歉就能收取報酬簡直棒呆了嘛！
+Date_NPC4_02ID	22	Heidi	ハイディ	あ、でもこれよく見たら報酬、料理じゃん！\nならいいや。\n料理は、うちのフロッケのが一番だからね！	Heidi	Oh, wait... They're paying with food? In that case, I'll pass. There's no one whose cooking could ever beat Flocke's!	海蒂	啊，但仔细一看，这报酬是料理啊！\n那算了。我们家芙洛可做的饭最好吃了。	海蒂	啊，不過仔細一看，報酬是料理耶！\n既然是這樣就算了。\n料理還是我們家芙洛可做的最好吃啦！
+Date_NPC4_02ID	23	Juna	ユナ	報酬が良ければ、お前は\n意味の分からない謝罪でもするのか？	Juna	You would consider making an apology to some random stranger just to get paid?	尤娜	只要报酬合适，\n让你不明不白地道歉也行吗？	尤娜	只要報酬不錯，\n妳就願意糊里糊塗地道歉嗎？
+Date_NPC4_02ID	24	Heidi	ハイディ	私にも譲れないものはあるけどさ、\n謝罪して上手くいくなら依頼でもなんでも、\n私は喜んで謝るよ！	Heidi	I have my non-negotiables too, you know. But if I can complete a job by apologizing, that sounds good enough for me!	海蒂	我当然有自己的底线，\n但如果只要道歉就能解决问题，\n管它是委托还是什么，我都愿意！	海蒂	我當然也有無法退讓的事。\n不過既然道歉就能解決一切，那不管是\n委託還是什麼，我都很樂意去做！
+Date_NPC4_02ID	25	Heidi	ハイディ	あっ、この魔物討伐の依頼、報酬いいかも！\nそこまで危険もなさそうだけれど、\nでもやっぱ私一人で行くのもなあ……	Heidi	Oh! This request to take down monsters might be worth it! It doesn't look all that dangerous, but still, maybe I shouldn't do it alone...	海蒂	啊，这个讨伐魔物的委托报酬不错！\n看上去没那么危险，但我一个人有点勉强……	海蒂	啊，這份討伐魔物的委託好像報酬不錯！\n看起來也不怎麼危險，\n不過只有我一個人去的話……
+Date_NPC4_02ID	26	Juna	ユナ	それならば私が同行しよう。\n今日は身体を動かし足りていないからな。\n鍛錬ついでだから、私は報酬もいらん	Juna	In that case, I'll accompany you. I haven't gotten enough exercise today, anyway. And I don't need the reward, either.	尤娜	那我陪你去吧，\n今天有点活动不足，我就当锻炼了。\n也不需要报酬。	尤娜	那我也一起同行吧，\n反正今天身體的活動量不太夠。\n我只是順便去鍛鍊而已，不需要報酬。
+Date_NPC4_02ID	27	Heidi	ハイディ	ええーっ！　いいの！？　やった！\nさっすがユナさん、頼れる騎士様！\nじゃ早速、依頼の受注を……	Heidi	What?! Really!? Woohoo! I knew I could count on you, brave Knight Juna! All right, let's take this request and...	海蒂	咦！真的吗？！太好了！\n真不愧是尤娜小姐，可靠的骑士大人！\n我马上去办手续……	海蒂	咦～！可以嗎！？太好了！\n不愧是尤娜小姐，最可靠的騎士大人！\n我這馬上就去登記……
+Date_NPC4_02ID	28		屈強な男	おい待てよ、\nその依頼は俺が先に目をつけてたんだ。\n横取りすんじゃねえ！	Burly Man	Hold it right there, missy. I saw that request first. You tryin' to steal it from me?!	强壮的男人	喂，等下。\n这个委托是我先看上的，不准抢！	健壯的男人	喂，站住。\n那份委託是我先看上的，別想搶走！
+Date_NPC4_02ID	29	Juna	ユナ	なんだ貴様。目をつけていた？　横取り？\nそんな道理はまかり通らない！\n正式に受注されていないのだからな	Juna	"""Saw it first""? ""Steal""? Nothing is decided until the request has been officially accepted. You're being ridiculous!"	尤娜	你在胡说什么。你先看上的？抢你的？\n又没有办手续，你少在这里胡搅蛮缠！	尤娜	你哪位啊？你先看上？搶走？\n天底下沒有這種道理！\n這委託都還沒被正式登記呢。
+Date_NPC4_02ID	30		屈強な男	調子乗ってんじゃねえぞ！\n痛い目見たいか！？	Burly Man	Who you callin' ridiculous?! You wanna start somethin'?!	强壮的男人	凶什么凶？！\n小心我给你好果子吃！	健壯的男人	少得意忘形了！妳是想吃點苦頭嗎！？
+Date_NPC4_02ID	31	Heidi	ハイディ	まあまあまあまあ落ち着きなって。ね？	Heidi	All right, all right. Let's all just calm down, okay?	海蒂	好了好了，两位都冷静一下怎么样？	海蒂	好啦好啦，你們都冷靜點。好嗎？
+Date_NPC4_02ID	32	Heidi	ハイディ	いやー、あんたが先に目をつけていたなんて\n知らなかったよ。ごめん！	Heidi	Seriously, I didn't realize you had been eyeing it before me. Sorry!	海蒂	哎呀，我不知道你先看上了这个，\n不好意思！	海蒂	哎呀～我都不知道你已經先看上\n這份委託了，真是抱歉！
+Date_NPC4_02ID	33		屈強な男	あ、ああ……	Burly Man	O-Oh... Sure.	强壮的男人	啊、哦……	健壯的男人	啊，嗯……
+Date_NPC4_02ID	34	Heidi	ハイディ	てかあんた、私と違って腕が立つだろ？\nそんなあんたにオススメの依頼があるんだ。\n私には無理だったんだけどさー、どう？	Heidi	You know, you seem like a pretty tough guy. There's actually a different request I think you'd be the perfect fit for. I could never pull it off, but maybe you can. Interested?	海蒂	不过你看起来比我有实力啊。\n这里有个委托我做不了，\n但应该很适合你，如何？	海蒂	話說，你一定比我厲害吧？\n我有份委託想推薦給你。\n這對我來說太困難了～你覺得怎麼樣？
+Date_NPC4_02ID	35		屈強な男	俺の腕があればどんな依頼だって余裕よ！\nその依頼、寄越せ！　受けてやるよ	Burly Man	Heh, I guess I am pretty tough! Sure, let's have it. I'll take that request offa ya.	强壮的男人	凭我的实力，不管什么委托都不在话下！\n把那个委托给我！我来做。	健壯的男人	我的實力絕對能輕鬆完成任何委託！\n快點拿來！我這就接下啦。
+Date_NPC4_02ID	36	Heidi	ハイディ	はい！　んじゃ、よろしくね！\n頼りにしてるよー！\n……よし	Heidi	Great! Well, here you go. I'm counting on you... Whew, he's gone.	海蒂	好的！那就麻烦你啦！\n靠你了哦！\n好了……	海蒂	好！那就拜託了！\n一切全靠你囉～！\n……搞定。
+Date_NPC4_02ID	37	Heidi	ハイディ	今日はユナさん私服とはいえ、\n白夜の騎士筆頭を知らないのは、\n王都の人間じゃないね、あれは	Heidi	I know you're not in uniform, but if he couldn't recognize a leading Knight of the Midnight Sun, he must not be from around here.	海蒂	虽说今天尤娜小姐穿的是私服，\n但他居然不认识白夜骑士的佼佼者，\n看来应该不是王都人。	海蒂	就算尤娜小姐今天穿便服，\n他也應該要知道妳是白夜騎士，\n可見他不是王都人呢。
+Date_NPC4_02ID	38	Juna	ユナ	（ハイディに乗せられた男は、\n　他の討伐依頼を受注して去って行ったな。\n　……ところで）	Juna	(Looks like that man fell for Heidi's trick and took a different request instead. Which reminds me...)	尤娜	（那男人听了海蒂的话，\n　接了别的讨伐委托走了。\n　话说回来……）	尤娜	（那個男人被海蒂的花言巧語給說服，\n　接下了其他討伐委託後就離開了……\n話說回來……）
+Date_NPC4_02ID	39		選択肢	オススメの依頼？	Selection	What was that request you recommended to him?	选项	适合他的委托？	選項	推薦的委託？
+Date_NPC4_02ID	40	Juna	ユナ	オススメの依頼とはなんだ？\n他に気になる依頼があったのか。\n腕が不安だというなら私が手を貸すが	Juna	"What was that ""request"" you recommended to him, anyway? If it was too much for you to handle, you should've just asked me to lend a hand."	尤娜	适合他的委托是指？\n你还看中了别的委托吗。\n如果担心实力不够，我会帮你的。	尤娜	妳推薦的委託是什麼？\n還有其他想接的工作嗎？\n如果怕自己處理不來，我可以幫忙喔。
+Date_NPC4_02ID	41	Heidi	ハイディ	え？　いやいや、あれはその場しのぎの嘘！\n依頼自体は本当だけどね。\nあっちよりこっちの依頼の方がいいもん	Heidi	Huh? Oh, that? Nah, I was just making things up on the fly! The request is real, but this one here is much better.	海蒂	嗯？啊不是，那只是为了搪塞他撒的谎而已！\n委托本身是真的，不过还是我这个委托更好。	海蒂	咦？不不不，那只是臨時胡謅出來的啦！\n雖然真的有那樣的委託，\n但是現在這個更好。
+Date_NPC4_02ID	42	Juna	ユナ	嘘のわりには随分自然だったな	Juna	That was certainly convincing for a lie.	尤娜	但我看你说得很自然。	尤娜	妳撒起謊來真是得心應手呢。
+Date_NPC4_02ID	43	Heidi	ハイディ	上手く生きていくには、\n口達者も大切なんだよ	Heidi	If you want to get ahead in life, you have to be a smooth talker!	海蒂	要想活得舒心一点，\n嘴皮子工夫也是很重要的。	海蒂	想要活得如魚得水，\n嘴上功夫也是很重要的。
+Date_NPC4_02ID	44		選択肢	なぜ謝ったんだ	Selection	Why did you apologize?	选项	你为什么道歉	選項	為什麼要道歉？
+Date_NPC4_02ID	45	Juna	ユナ	なぜ謝ったんだ。\nあの男はただ難癖をつけてきていただけだ	Juna	Why did you apologize? That man did nothing but lash out at you.	尤娜	你为什么道歉。\n那个男人根本就是找茬。	尤娜	剛才妳為什麼要道歉？\n那個男人只是在找碴而已。
+Date_NPC4_02ID	46	Heidi	ハイディ	うん。\nだけど、あそこはああするのが\n丸く収まっていいかなって	Heidi	No kidding. But I figured it'd be better to calm him down.	海蒂	嗯。\n不过刚才那种情况，道个歉就能和平解决了。	海蒂	嗯。但是，我覺得在當下的情況\n這樣做就能圓滿收場了。
+Date_NPC4_02ID	47	Heidi	ハイディ	それにああいった態度の大きい人は、\n相手が下手に出ると気分が良くなるから\n扱いやすいんだよねー	Heidi	And besides, arrogant people like that love it when others grovel, so dealing with them is easy.	海蒂	而且那种趾高气昂的人，\n只要对方给足了面子就会心情很好，\n还挺好应付的呢。	海蒂	而且像他那樣自大的人，\n只要受到吹捧就會沾沾自喜，\n很好應付的啦～
+Date_NPC4_02ID	48	Heidi	ハイディ	結果的に、\n狙っていた依頼は私たちがとれたんだから、\nいいじゃん！	Heidi	After all, we got the request we were after, didn't we?	海蒂	从结果上来说我们拿到了想要的委托，\n不是挺好的吗！	海蒂	以結果來說，\n我們也接到想要的委託了。\n這不是挺好的嘛！
+Date_NPC4_02ID	49	Heidi	ハイディ	何より謝るのは無料だよ、得々すぎるね	Heidi	More importantly, apologizing is completely free! Can't beat that!	海蒂	最重要的是道歉不要钱，简直太赚啦。	海蒂	反正道歉又不用花錢，簡直賺翻了。
+Date_NPC4_02ID	50		選択肢	荒事なら私に頼れ	Selection	Leave the ruffians to me.	选项	要动手的话就交给我	選項	要打架就交給我吧。
+Date_NPC4_02ID	51	Juna	ユナ	こういう時は私を頼ってくれていいんだぞ。\n何とかなったからよかったものの、\n相手が実力行使に走る可能性だってあった	Juna	You should really leave these kinds of things to me. It worked out this time, but he could've just as easily resorted to violence.	尤娜	这种情况可以交给我处理。\n好在刚才没出什么事，\n但对方说不定会动粗。	尤娜	這種時候儘管交給我處理吧。\n如果能和平收場當然很好，\n但是對方也有可能動用武力來解決。
+Date_NPC4_02ID	52	Heidi	ハイディ	ありがとう！　ユナさん頼りになるー！	Heidi	Aw, thanks! I'll let you handle it next time, then.	海蒂	谢谢！尤娜小姐真是太可靠了！	海蒂	謝謝妳！尤娜小姐真可靠～！
+Date_NPC4_02ID	53	Heidi	ハイディ	てかあいつ、ユナさんを知らなくても\nこの溢れ出る強者の波動にも\n気付かないなんて……命知らずめ……	Heidi	That guy sure was reckless though, wasn't he? He was completely unaware of your intense warrior's aura. He should count himself lucky.	海蒂	话说，那家伙不仅不知道尤娜小姐，\n连这股扑面而来的强者气息都没注意到……\n真是个不要命的家伙……	海蒂	話說回來，那傢伙不認識妳就算了，\n居然沒注意到妳渾身散發出來的強者氣息……\n簡直不要命……
+Date_NPC4_02ID	54	Heidi	ハイディ	まあ、丸く収められてよかった。\n殴り合いとか始まっちゃたら怖いしね	Heidi	Good thing it ended peacefully. Imagine if we got into a fistfight or something... Eugh.	海蒂	总之事情能圆满解决就好。\n要是真打起来的话也太吓人了。	海蒂	總之，能順利解決真是太好了。\n要是兩邊打起來就太可怕了。
+Date_NPC4_02ID	55	Heidi	ハイディ	よし、狙ってた依頼は受注できたし、\n早速行きますか！\nユナさん、同行よろしくお願いします！	Heidi	Okay. Now that we got the request we were after, let's get a move on! Thanks for coming with me, Juna.	海蒂	好，既然接到了想要的委托，那就赶快出发吧！\n尤娜小姐，麻烦你和我一起去一趟了！	海蒂	好，成功接到想要的委託，\n我們馬上出發吧！\n尤娜小姐，這一路上還請妳多多指教！
+Date_NPC4_02ID	56	Juna	ユナ	ああ、行くぞ！	Juna	Of course. Lead the way!	尤娜	嗯，走吧！	尤娜	嗯，我們走吧！
+Date_NPC4_02ID	57	Heidi	ハイディ	あー！　無事帰ってこれた！\nこれもユナさんのおかげだよ、ありがとう！	Heidi	Whew, we made it back! Thanks again, Juna!	海蒂	啊！顺利回来了！\n这都是尤娜小姐的功劳，谢谢你！	海蒂	啊～！終於平安回來了！\n這都是託尤娜小姐的福，謝謝妳！
+Date_NPC4_02ID	58	Juna	ユナ	気にするな。私もいい鍛錬になった。\nところで、その持っている箱はなんだ	Juna	Don't mention it. It was good training for me, too. By the way, what's that box you got there?	尤娜	不客气。我也好好锻炼了一番。\n话说，你手里的箱子是什么？	尤娜	不客氣，我也好好鍛鍊到身體了。\n話說，妳手上的箱子是什麼？
+Date_NPC4_02ID	59	Heidi	ハイディ	あ、これ？　依頼先で見つけたんだよね。\nすっごい古びてるけど、宝箱かなーって。\n鍵かかってたけど、こんなのちょちょいよ！	Heidi	Hm, oh this? I found it while we were working. It looks pretty old, but I thought it might be a treasure chest. The lock on it was a piece of cake for me, though!	海蒂	啊，这个？这是在委托地点发现的。\n虽然很旧，但说不定是宝箱。\n虽然上了锁，但要打开倒也不难！	海蒂	啊，這個嗎？是我在委託地點找到的。\n它看上去非常老舊，但也算是個寶箱吧。\n要打開這種鎖對我來說是小菜一碟！
+Date_NPC4_02ID	60	Juna	ユナ	中には何が入っていたんだ？	Juna	What was inside?	尤娜	里面有什么？	尤娜	寶箱裡有什麼？
+Date_NPC4_02ID	61	Heidi	ハイディ	それがさー、期待してたんだけど、\nいかにもな落書きの地図一枚だけ。\nきっと子どものイタズラだね……	Heidi	I was really excited, but you know what I found? Nothing more than a measly scribble of a map. Just one sheet. Probably just some kid's prank.	海蒂	这个嘛，我本来还很期待呢，\n结果只有一张潦草的地图。\n一定是小孩子的恶作剧……	海蒂	這個嘛～我本來很期待，\n結果裡頭只有一張塗鴉的地圖。\n肯定是小孩子的惡作劇吧……
+Date_NPC4_02ID	62	Juna	ユナ	ちょっと待て。\nこの地図、「竜のすみか」と書いてある。\nこれは放っておけん！	Juna	"Wait a minute. This map has ""Dragon's Den"" written on it. We can't ignore that!"	尤娜	等等。这张地图上写着“龙的巢穴”。\n这可不能不管！	尤娜	妳等等，這張地圖上寫著「龍的巢穴」。\n這我可不能當作沒看見！
+Date_NPC4_02ID	63	Heidi	ハイディ	え？	Heidi	Huh?	海蒂	咦？	海蒂	咦？
+Date_NPC4_02ID	64	Juna	ユナ	ハイディの言うように、\n九割九分、子どものイタズラだろう。\nだが万が一、本物の地図だったら大変だ	Juna	Like you said, there's a 99% chance that it's just a harmless prank. But if that turns out to be real, we're in trouble.	尤娜	海蒂说得没错，这极有可能是某个小孩的恶作剧。\n但万一这张地图是真的就糟了。	尤娜	或許如妳所說，\n這八成是小孩子的惡作劇。\n但萬一它是真的，那可就糟了。
+Date_NPC4_02ID	65	Juna	ユナ	早速だがハイディ、明日、私と行くぞ。\nまずは様子見として、\n私と、斥候のお前の二人で	Juna	Heidi, we're not wasting any time. You're going with me tomorrow! We'll start by investigating the site between the two of us, with you as the scout.	尤娜	海蒂，明天和我去一趟吧。\n看看到底什么情况，你负责侦察。	尤娜	事不宜遲，海蒂，明天跟我走一趟。\n由我和身為斥侯的妳先過去那邊看看情況。
+Date_NPC4_02ID	66	Heidi	ハイディ	ええー！？　万が一の話をするなら、\n私、竜なんかムリムリ！\nもっと強い人と行くべきだって！	Heidi	Huh?! No way am I going to take that 1% chance of running into a dragon! Nuh-uh! Find someone stronger to take along!	海蒂	咦？！万一这是真的，我可打不过龙啊！\n你应该找更强的人一起去！	海蒂	咦～！？萬一真的遇到龍，\n我絕對打不過！\n妳應該要找個更強的人一起去啦！
+Date_NPC4_02ID	67	Juna	ユナ	（だがこの地図を見つけたのはハイディだ。\n　ハイディをその気にさせるには……）	Juna	(But Heidi's the one who found this map. I know how I might convince her...)	尤娜	（但找到这张地图的人是海蒂。\n　要想让她松口……）	尤娜	（但這可是海蒂找到的地圖。\n　為了讓她有那個意願……）
+Date_NPC4_02ID	68		選択肢	報酬が出るぞ	Selection	There'll be a reward.	选项	可以拿到报酬	選項	提供報酬。
+Date_NPC4_02ID	69	Juna	ユナ	これは国の安全を守るための正式な依頼だ。\nよって、報酬が出る	Juna	This is a formal request to protect the safety of the kingdom. Thus, there shall be a reward.	尤娜	这是为了守护王国安全的正式委托。\n你可以拿到报酬。	尤娜	這是保衛國家的正式委託，\n所以我會提供報酬。
+Date_NPC4_02ID	70	Heidi	ハイディ	ええっ？！　報酬が！？\nユナさんも同行してくれるんだよね？\nえへへ、ちなみに、いかほどで……	Heidi	Really?! A reward?! And you'd be coming with me, right, Juna? By the way, eheh, how much is the reward?	海蒂	咦？！能拿到报酬？！\n尤娜小姐也会一起去对吧？\n嘿嘿，顺便问问，大概能拿到多少呢……	海蒂	什麼？！報酬！？\n而且尤娜小姐也會跟我一起吧？\n嘿嘿，是說，報酬大概有多少……
+Date_NPC4_02ID	71	Juna	ユナ	……これくらいだ	Juna	...About this much.	尤娜	……差不多这个数。	尤娜	……大約這麼多。
+Date_NPC4_02ID	72	Heidi	ハイディ	やりますやります！！\n斥候ハイディちゃんにお任せを！	Heidi	I'm in! Scout Heidi at your service!	海蒂	我去我去！\n侦察就交给我吧！	海蒂	我去、我要去！！\n就包在斥侯海蒂身上吧！
+Date_NPC4_02ID	73		選択肢	地図の先に宝があるかも	Selection	There may be a treasure at the map's location.	选项	地图上标的地方说不定有宝藏	選項	這可能是藏寶圖。
+Date_NPC4_02ID	74	Juna	ユナ	この地図を見つけたのはお前だ。\n竜がいた場合は討伐隊を組むことになるが、\n宝があった場合はお前に所有権がある	Juna	You're the one who found the map. We'll have to assemble a strike force if there is in fact a dragon, but any treasure would be rightfully yours.	尤娜	找到这张地图的人是你。\n如果真的有龙，会组织讨伐队前去讨伐。\n但如果有宝藏，那就都归你了。	尤娜	這張地圖是妳發現的。\n如果遇到龍了，我們會組成討伐隊。\n但如果找到寶藏，就全部歸妳所有。
+Date_NPC4_02ID	75	Heidi	ハイディ	え！　ほんと！\nそこにある宝、全部もらっても……？	Heidi	Huh?! Really?! If we find treasure there, it's all mine?!	海蒂	咦！真的吗！\n所有宝藏都归我……？	海蒂	咦！真的嗎？\n我可以拿走所有的寶藏……？
+Date_NPC4_02ID	76	Juna	ユナ	ああ。構わないだろう	Juna	Yep, have at it.	尤娜	嗯，没问题。	尤娜	嗯，當然可以。
+Date_NPC4_02ID	77	Heidi	ハイディ	やった！\n竜いませんように、いませんように！\n宝であれー、宝であれー！	Heidi	All right! Please, don't let there be a dragon, don't let there be a dragon! Only treasure! Just treasure!	海蒂	太好了！希望没有龙！\n希望是宝藏！	海蒂	太好了！\n希望不要遇到龍、不要遇到龍！\n給我寶藏～給我寶藏～！
+Date_NPC4_02ID	78		選択肢	冒険譚のネタになるかも	Selection	It might make a great hero's tale.	选项	可以当做冒险故事的素材	選項	說不定會被寫成冒險故事。
+Date_NPC4_02ID	79	Juna	ユナ	ハイディ、これはいい機会かもしれないぞ	Juna	Heidi, I think this might be a good opportunity for you.	尤娜	海蒂，这说不定是个好机会。	尤娜	海蒂，這也許是個好機會喔。
+Date_NPC4_02ID	80	Heidi	ハイディ	え、なんで？	Heidi	Huh? Why?	海蒂	咦，什么意思？	海蒂	咦，為什麼？
+Date_NPC4_02ID	81	Juna	ユナ	私は竜を討伐したことが冒険譚となり、\n今の位置にいる	Juna	I'd take down the dragon, and you being with me...	尤娜	过去我讨伐龙的故事被写成冒险小说，\n我才升到了现在的位置。	尤娜	我屠龍的事蹟被寫成冒險故事，\n才換來現在的地位。
+Date_NPC4_02ID	82	Juna	ユナ	お前もこの経験を冒険譚として\n書いてみたらいい。上手くいけば、\n怪しい依頼を受けるより儲かるだろう	Juna	...You could write the ordeal as a hero's tale. If things go well, you might earn even more than with those shady requests.	尤娜	你也可以把这次经历写成小说。\n顺利的话，说不定能比接来路不明的委托更赚。	尤娜	妳也可以把這次的經驗\n試著寫進冒險故事裡。順利的話，\n或許會比接那些可疑的委託更賺錢吧。
+Date_NPC4_02ID	83	Heidi	ハイディ	た、確かに！\n上手くいけばその売り上げだけで、\n楽して暮らしていけるかも！	Heidi	Y-Yeah, you're right! If it goes well, I might even be able to retire and live off of the royalties!	海蒂	是、是这个道理！\n卖得好的话，说不定光靠卖小说的钱\n就能过上轻松日子了！	海蒂	對、對耶！順利的話，\n搞不好光靠賣書的收入，\n就能讓我財富自由了！
+Date_NPC4_02ID	84	Juna	ユナ	よし、ではそうと決まれば、\n明日の昼、カフェの前に集合だ。\nしっかり準備してこい	Juna	Okay, now that that's settled, we'll meet up at the cafe at noon tomorrow. Be ready!	尤娜	好，那就这么决定了。\n明天白天在咖啡厅门口集合。\n做好准备。	尤娜	好，既然決定了，\n那我們明天中午在咖啡廳前面集合。\n務必做好充足的準備。
+Date_NPC4_02ID	85	Heidi	ハイディ	了解！　じゃっ、また明日ー！	Heidi	Yes, ma'am! See you tomorrow!	海蒂	了解！明天见！	海蒂	收到！那就明天見啦～！
+Date_NPC4_02ID	86	Juna	ユナ	（ハイディと男のやり取りを見て思ったが、\n　ハイディには、笑顔でその場を収め、\n　相手を言いくるめる力があるな）	Juna	(It dawned on me watching Heidi and that man—she's got a knack for using that disarming smile and smooth talking her way out of things.)	尤娜	（看海蒂和刚才那个男人对话的样子，\n　她很擅长用笑容缓和气氛，\n　引导对方改变想法。）	尤娜	（看海蒂跟那個男人的互動，\n　我覺得她具有一種能靠著燦爛的笑容\n　與強大的說服力來解決問題的能力。）
+Date_NPC4_02ID	87	Juna	ユナ	（武力一辺倒の私とは違うな）	Juna	(A far cry from me and my reliance on physical strength.)	尤娜	（和只会用武力解决的我不一样。）	尤娜	（跟仰賴武力的我完全不同。）
+Date_NPC4_03ID	0	Heidi	ハイディ	町の近くに、こんな洞窟があったなんて……\n入り口も小さいし、地図がなかったら気づかなかったな	Heidi	To think there was a cave like this so close to town! The entrance is so small, I wouldn't have noticed without the map.	海蒂	村子附近居然有这种洞窟……\n入口这么狭小，要不是有地图根本发现不了。	海蒂	城鎮附近居然有這樣的洞窟……\n入口還那麼小，要是沒有地圖根本不會發現吧。
+Date_NPC4_03ID	1	Heidi	ハイディ	今のところは魔物もいないし、平和っぽいね	Heidi	No sign of any monsters yet. Everything seems peaceful.	海蒂	目前还没有碰到魔物，看样子很和平呢。	海蒂	目前都還沒遇到魔物呢，看起來挺和平的。
+Date_NPC4_03ID	2	Juna	ユナ	ああ。だが油断するな。ここが既に竜の棲み処の中で、\nそれを恐れて他の魔物がいないだけかもしれない	Juna	Don't let your guard down. If this is dragon territory, it might be that monsters are too afraid to roam around here.	尤娜	嗯。但不能松懈。我们现在在龙的地盘上，\n说不定其他魔物是因为害怕龙才不敢靠近这里。	尤娜	嗯，但是千萬別大意。或許這裡已經是\n龍的棲息地，所以其他魔物不敢接近。
+Date_NPC4_03ID	3	Heidi	ハイディ	怖い事をいいますなぁ……\n竜という言葉に過敏なのでは	Heidi	Oof, that sounds terrifying... Are you sure you're not being paranoid?	海蒂	别吓我啊……\n你是不是太敏感了。	海蒂	別說這麼可怕的話嘛……\n我對龍這個字很敏感的。
+Date_NPC4_03ID	4	Juna	ユナ	用心するに越したことはない、ということだ	Juna	I'm just saying we'd better be careful.	尤娜	小心驶得万年船。	尤娜	我們還是小心謹慎一點比較好。
+Date_NPC4_03ID	5	Juna	ユナ	！　止まれ、分かれ道だ	Juna	Stop! There's a fork in the road.	尤娜	停！路分叉了。	尤娜	！停下，前面是岔路。
+Date_NPC4_03ID	6	Heidi	ハイディ	うーん、この先の地図はなさそうだよ。\nなんかよく分からない数字の並びはあるけど……	Heidi	Hmm, it doesn't look like there's anything beyond here on the map. But there are some strange numbers written down.	海蒂	唔，地图上好像没记录前面的部分，\n但写了很多奇怪的数字……	海蒂	唔～地圖好像只有畫到這裡。\n不過，旁邊有著一排奇怪的數字……
+Date_NPC4_03ID	7	Heidi	ハイディ	右の道は、５桁の数字。左の道には、４桁の数字。\n今のところ、法則性もなさそう……	Heidi	The right path has a five-digit number. The left path has a four-digit number. There doesn't seem to be any pattern.	海蒂	右边的路标了5个数字，左边标了4个。\n目前还搞不懂规则……	海蒂	岔路的右邊是五個數字，左邊是四個數字。\n目前還沒找到它們的規律性……
+Date_NPC4_03ID	8	Heidi	ハイディ	これが何か謎解きなら、どこかにヒントがあるはず……\nあっ、分かれ道の間の壁に、記号が彫ってある！	Heidi	There should be some hints if this is some kind of riddle... Oh! There are some symbols carved into the wall between the split paths!	海蒂	如果是解谜的话，应该会留下线索……\n啊，分叉口中间的墙壁上刻着记号！	海蒂	如果這是什麼解謎，提示應該就在某個地方……\n啊，岔路中間的牆壁上有刻著一些記號！
+Date_NPC4_03ID	9	Juna	ユナ	△、□、〇、☆……記号が４つ。これがヒントなので\nあれば、４桁の数字になりそうだが……	Juna	△, □, 〇, ☆... There are four symbols. Maybe this is a hint for the four-digit number.	尤娜	△、□、〇、☆……有4个记号。\n如果这是线索的话，应该对应的是4位数字……	尤娜	△、□、○、☆……一共有四個記號。\n假如這就是提示，那可能代表了四位數字……
+Date_NPC4_03ID	10	Heidi	ハイディ	暗号でしょ、分かったよ	Heidi	It's a code, right? I think I figured it out.	海蒂	这是暗号吧，我明白了。	海蒂	這是暗號吧，我看懂了。
+Date_NPC4_03ID	11	Juna	ユナ	やるな、教えてくれ	Juna	Excellent. What's the answer?	尤娜	这么快就明白了吗。是什么意思？	尤娜	真厲害，快告訴我。
+Date_NPC4_03ID	12	Heidi	ハイディ	えっとね、\nここに並んでいる図形の、角の数に注目してみてよ	Heidi	Okay, so, look at how many angles each symbol has.	海蒂	唔，你仔细观察一下这些图形的角的数量。	海蒂	妳看哦，試著數數看這些圖形有幾個角。
+Date_NPC4_03ID	13	Juna	ユナ	角だと？　△は３、□は４、〇は……０で\n☆は……１０……	Juna	Angles? Well, △ has three, □ has four, and 〇...well, that's zero. ☆ would be...ten.	尤娜	角的数量？△是3，□是4，〇是……0\n☆是……10……	尤娜	幾個角？△有三個、□有四個、○是……零個，\n☆是……十個……
+Date_NPC4_03ID	14	Juna	ユナ	なるほど。数字を全部繋げた３４０１０、\n地図上でこの数字が書いてあるほうの道が正解だな！	Juna	I see. Put the numbers together and you get 34010. So that means the path with this number on the map is the correct answer!	尤娜	原来如此，所有数字拼起来就是34010，\n地图上标了这个数字的路就是正确的路！	尤娜	原來如此，全部連起來是34010，\n地圖上寫著這個數字的那條路就是正確答案！
+Date_NPC4_03ID	15	Heidi	ハイディ	いえーい！　多分正解！	Heidi	Yay! That's probably right!	海蒂	嗯！应该就是这么回事！	海蒂	耶～！大概沒錯！
+Date_NPC4_03ID	16	Juna	ユナ	さすがだ、ハイディ。私一人では\nここを超えるのにもっと時間がかかっていただろう	Juna	Nicely done, Heidi. It would've taken me ages to figure it out alone.	尤娜	海蒂你真厉害。如果只有我一个人的话，\n要解开谜题恐怕还得花上不少时间。	尤娜	真不愧是海蒂。如果只有我一個人，\n應該會花上更多時間才能通過這裡吧。
+Date_NPC4_03ID	17	Heidi	ハイディ	あはは、ユナさんは真面目だからねー。こういうのは、\nどれだけとんちが利くかってのも大事だからね	Heidi	Ahaha, you can be a bit hard-headed sometimes. But the key to this kind of thing is how quick-witted you can be!	海蒂	啊哈哈，因为尤娜小姐很正经嘛。\n这种时候就得看脑筋转不转得过来了。	海蒂	啊哈哈，畢竟尤娜小姐太正經八百了～\n解謎這種東西也很需要臨機應變的能力喔。
+Date_NPC4_03ID	18	Heidi	ハイディ	んじゃ、早速進んでみますか	Heidi	So, should we go and see what's ahead?	海蒂	我们继续前进吧。	海蒂	那我們趕快繼續前進吧。
+Date_NPC4_03ID	19	Heidi	ハイディ	ユナさんを初めて見た時は威圧感あって怖かったけど、\n今となってはとっても真面目な人なんだなって分かるよ	Heidi	I'll admit, I was intimidated when I first met you. But now, I know you're actually a really diligent, hard-working person.	海蒂	第一次见到尤娜小姐那时，觉得你气魄十足有点害怕，\n现在我知道了，尤娜小姐其实是个非常正经的人。	海蒂	尤娜小姐剛開始會給我一種很可怕的壓迫感。\n但是相處過後，才發現原來妳是個非常認真的人。
+Date_NPC4_03ID	20	Juna	ユナ	真面目か、よく言われる。\n第一印象なら……私はお前に注目していた	Juna	You're not the first to say that. Since we're talking about first impressions... I felt that I had to keep my eye on you.	尤娜	我常被人说性格正经。\n说到第一印象……当时我很关注你。	尤娜	認真啊，經常有人這麼說。\n說起第一印象……我其實很早就注意到妳了。
+Date_NPC4_03ID	21	Heidi	ハイディ	えっ、なんで？\nまさか、私に才能を感じてたり……？	Heidi	What? Why's that? Oh! Did you sense some hidden talent in me?	海蒂	咦，为什么？\n难道是感受到了我身上的才能……？	海蒂	咦，為什麼？\n難道是注意到我的才能……？
+Date_NPC4_03ID	22	Juna	ユナ	月影の会に所属していたとなれば、殿下をお守りする\nためにも警戒する必要があったからな	Juna	My job is to protect His Highness. If you were a member of the Moonlight Society, I would need to be on guard.	尤娜	因为你曾经是月影会的一员。\n为了保护殿下，当然要对你保持警戒。	尤娜	身為殿下的護衛，\n我必須時刻關注月影會成員的動向。
+Date_NPC4_03ID	23	Heidi	ハイディ	あ、なるほど。そっちね	Heidi	Oh. Okay...	海蒂	啊，原来如此，是这个意思啊。	海蒂	啊，原來是這麼一回事。
+Date_NPC4_03ID	24	Juna	ユナ	今となっては、臆病ではあるが、\n仲間や家族想いな人間なんだと感じている	Juna	Now I see you're actually quite timid, but I can tell you cherish your friends and family.	尤娜	现在的话，我觉得你虽然胆小，\n但非常关心伙伴和家人。	尤娜	現在我覺得妳雖然膽小，\n但是很重視同伴與家人。
+Date_NPC4_03ID	25	Heidi	ハイディ	臆病か……\nやっぱユナさんもそう思う？	Heidi	Timid? You think so too?	海蒂	胆小……\n尤娜小姐也这么觉得吗？	海蒂	膽小啊……妳果然也這麼認為嗎？
+Date_NPC4_03ID	26	Juna	ユナ	臆病は決して悪い事ではない、\n騎士が臆病ではダメだと思うがな	Juna	There's nothing wrong with being timid. Wouldn't do for a knight, of course.	尤娜	胆小不是坏事，\n只是骑士不可以这样。	尤娜	騎士確實最忌諱這一點，不過膽小絕非壞事。
+Date_NPC4_03ID	27	Juna	ユナ	それに最近気づいたが、	Juna	Also, there's something else I noticed recently.	尤娜	另外最近我发现了一件事。	尤娜	而且我最近發現一件事。
+Date_NPC4_03ID	28	Juna	ユナ	お前は笑ってその場をやり過ごそうしたり\n嘘でその場を乗り切ろうとするのに慣れているようだな	Juna	You have a way of getting through tough situations by smiling and making things up.	尤娜	当遇到麻烦和困难的时候，\n你似乎习惯用了笑容和谎言去应对。	尤娜	妳好像已經很習慣用假笑或謊言\n來解決當下的問題呢。
+Date_NPC4_03ID	29	Heidi	ハイディ	まぁそれが日常でありまして……\n慣れてる、ねぇ	Heidi	Oh, yeah. Well, that's just how it is. You could say I'm used to it.	海蒂	因为这种事情三天两头就有嘛……\n确实是习惯了。	海蒂	嗯，這對我來說是家常便飯……習慣了。
+Date_NPC4_03ID	30	Juna	ユナ	（ハイディにとってこれが慣れであるのは、\n　きっと……）	Juna	(Heidi is used to it? That must mean...)	尤娜	（海蒂之所以会习惯，\n　一定是因为……）	尤娜	（海蒂之所以會習慣這麼做，一定是……）
+Date_NPC4_03ID	31	Juna	ユナ	この先、行き止まりの空間になっているようだ。\n竜がいることは、さすがにないようだが、用心はしよう	Juna	It looks like the area up ahead is a dead end. I don't think we'll see any dragons around here, but let's stay alert.	尤娜	前面似乎没路了。\n龙看上去不像在那里，但还是要小心。	尤娜	前面好像是死路。看樣子應該是不會有龍了，\n但還是要小心一點。
+Date_NPC4_03ID	32	Heidi	ハイディ	わ、分かった	Heidi	A-All right.	海蒂	好、好的。	海蒂	知、知道了。
+Date_NPC4_04ID	0	Heidi	ハイディ	私身軽だから、ちょっと中見てくるよ。\nヤバかったらすぐ逃げてくるから、\n援護してね	Heidi	I'm packed lighter, so I'll take a look inside. If things get dangerous, I'll get out of there right away. Back me up, okay?	海蒂	我身手灵活，先进去探查看看。\n如果有危险我会马上逃出来，\n到时候要掩护我哦。	海蒂	我衣裝比較輕便，先去探探路。\n如果有危險會馬上逃出來，\n到時就拜託妳掩護了。
+Date_NPC4_04ID	1	Juna	ユナ	ああ。気を付けろ	Juna	Understood. Be careful.	尤娜	好，千万小心。	尤娜	嗯，小心一點。
+Date_NPC4_04ID	2	Juna	ユナ	（分かれ道にあった記号、地図の暗号、\n　魔物一匹いない空間……ここは一体）	Juna	(The symbols at the fork of the road, the code on the map, this area without a single monster in sight... What is this place?)	尤娜	（分叉路上的记号、地图上的暗号、\n　不见魔物踪影的洞窟……这究竟是……）	尤娜	（岔路上的記號、地圖的暗號，\n　以及沒有半隻魔物的空間……這裡到底是……？）
+Date_NPC4_04ID	3	Heidi	ハイディ	ユナさん、すごいものあったよ！\nこっちこっち！	Heidi	Juna, this is incredible! Quick, come over here!	海蒂	尤娜小姐，我发现了不得了的东西！\n快来快来！	海蒂	尤娜小姐，我發現一個很酷的東西！\n這邊這邊！
+Date_NPC4_04ID	4	Juna	ユナ	何だここは。ぬいぐるみや、\nおもちゃがたくさん……\n壁には、竜の落書きか……？	Juna	What is this place? Stuffed animals, toys, and drawings of...dragons on the wall?	尤娜	这是什么情况。好多娃娃和玩具……\n墙壁上的是，龙的涂鸦……？	尤娜	這裡是怎麼回事？好多娃娃和玩具……\n牆壁上那是龍的塗鴉嗎……？
+Date_NPC4_04ID	5	Heidi	ハイディ	ここはきっと、いつかの子どもたちの\n秘密基地だったんじゃないかな。\n地図も、子供たちの秘密の暗号だったんだ	Heidi	I bet this was some kids' secret hideout from a long time ago. That was probably their secret code written on the map, too.	海蒂	我想这里以前应该是孩子们的秘密基地吧。\n地图也是用孩子们的秘密暗号做成的。	海蒂	這裡以前一定曾經是孩子們的秘密基地吧。\n地圖上的塗鴉也是他們的秘密暗號。
+Date_NPC4_04ID	6	Heidi	ハイディ	傷み具合を見た感じ、\n長い時間放置されていたようだけれど……	Heidi	Based on the wear of these toys, I'd say no one's been here for a pretty long time.	海蒂	看这些东西的样子，\n应该是很久没人来过了……	海蒂	看這磨損的程度，\n應該已經放置了很長一段時間……
+Date_NPC4_04ID	7	Heidi	ハイディ	魔物もいないし、\n入り口も小さくて分かりづらいから、\nこうして残ったんだろうね	Heidi	There aren't any monsters, and the entrance is so small and well-hidden, so I guess this place was left as-is.	海蒂	大概是因为没有魔物，\n加上入口窄小不容易被发现，\n才完整地保存了下来。	海蒂	因為沒有魔物，入口又小得難以察覺，\n才會像這樣保留下來吧。
+Date_NPC4_04ID	8	Heidi	ハイディ	竜のすみか、っていうのは\nこの壁に描いてある絵からつけたのかな？	Heidi	"The ""Dragon's Den"" must've been referring to these drawings on the wall."	海蒂	之所以会叫龙的巢穴，\n大概是因为墙壁上的画的缘故？	海蒂	龍的巢穴這個名字，\n是取自牆壁上的圖畫嗎？
+Date_NPC4_04ID	9	Juna	ユナ	（ここには竜も宝もないようだが、\n　ハイディは嬉しそうだな）	Juna	(No dragon and no treasure, but Heidi looks happy.)	尤娜	（虽然这里没有龙也没有宝藏，\n　但海蒂看上去很高兴。）	尤娜	（雖然這裡沒有龍也沒有寶藏，\n　但海蒂好像很高興。）
+Date_NPC4_04ID	10		選択肢	そのまま放置することはできない	Selection	We have to do something about this.	选项	不能就这么放着不管	選項	不能就這樣放著不管。
+Date_NPC4_04ID	11	Juna	ユナ	ここは状態良く残っているとはいえ、\n放置はできない	Juna	It's impressively well-preserved, but we can't just leave it be.	尤娜	虽然这里保存得很好，\n但不能就这样放着不管。	尤娜	就算這裡保存得很完整，\n我也不能放著不管。
+Date_NPC4_04ID	12	Juna	ユナ	他の者が地図を見つけていたら、\n事故になっていた可能性もある	Juna	If someone else had found the map, there could've been an accident.	尤娜	如果有别人发现了地图，\n说不定会出什么意外。	尤娜	如果是其他人發現地圖，\n就有可能會發生意外。
+Date_NPC4_04ID	13	Heidi	ハイディ	そうだね。ちょっと寂しいけれど、\nこのまま放置っていうわけにはいかないよね	Heidi	Yeah, you're right. It's a shame, but I guess we should do something about it.	海蒂	是啊。虽然要处理掉这里有点惆怅，\n但不能不管啊。	海蒂	也對。雖然有點捨不得，\n但也不能就這樣放著這個洞窟不管。
+Date_NPC4_04ID	14	Juna	ユナ	……ハイディ、寂しいのか？	Juna	Heidi? Are you...sad?	尤娜	海蒂你……觉得惆怅吗？	尤娜	……海蒂，妳覺得捨不得嗎？
+Date_NPC4_04ID	15	Heidi	ハイディ	うん。少しね	Heidi	Yeah, kind of.	海蒂	嗯，有一点。	海蒂	嗯，有一點。
+Date_NPC4_04ID	16		選択肢	お宝がなくて残念だったな	Selection	It's too bad there wasn't any treasure.	选项	没有宝藏真是太遗憾了	選項	沒有寶藏真是可惜。
+Date_NPC4_04ID	17	Juna	ユナ	お宝がなくて残念だったな	Juna	It really is too bad there wasn't any treasure.	尤娜	没有宝藏真是太遗憾了。	尤娜	沒有寶藏真是可惜。
+Date_NPC4_04ID	18	Heidi	ハイディ	えっ、お宝？	Heidi	Huh? Treasure?	海蒂	什么，宝藏？	海蒂	咦，寶藏？
+Date_NPC4_04ID	19	Juna	ユナ	もし宝があれば、\nお前が持って帰ることもできたんだが……	Juna	Yes, treasure. If there were treasure, you'd be able to claim it.	尤娜	如果有宝藏的话，你就可以带回去……	尤娜	如果有寶藏的話，妳也可以帶回家了……
+Date_NPC4_04ID	20	Heidi	ハイディ	ああ、確かにそれは残念だけれど、\nこれはこれで、見つけられてよかったかも	Heidi	Oh yeah. Well, of course it's too bad there wasn't any treasure. But I'm glad we found this, too.	海蒂	啊，确实很可惜呢。\n不过能找到这个也不错。	海蒂	哦，那確實是很可惜，\n但我覺得能發現這個也滿不錯的。
+Date_NPC4_04ID	21	Juna	ユナ	これとは、この秘密基地のことか？	Juna	You mean this kids' hideout?	尤娜	你是指秘密基地？	尤娜	妳是指這個秘密基地嗎？
+Date_NPC4_04ID	22		選択肢	秘密基地に思い出があるのか？	Selection	Does this hideout bring back memories?	选项	你有关于秘密基地的回忆吗？	選項	對秘密基地有什麼回憶嗎？
+Date_NPC4_04ID	23	Juna	ユナ	ハイディ、嬉しそうだな。\n何か秘密基地に思い出があるのか？	Juna	You look happy. Does this hideout bring back fond memories?	尤娜	你看起来很高兴。\n是有什么关于秘密基地的回忆吗？	尤娜	海蒂妳看起來真開心呢。\n難道是對秘密基地有什麼回憶嗎？
+Date_NPC4_04ID	24	Heidi	ハイディ	うん、そんな感じ	Heidi	Yeah, you could say that.	海蒂	嗯，是的。	海蒂	嗯，就是這樣。
+Date_NPC4_04ID	25	Heidi	ハイディ	私にもあったんだ、秘密基地。\nこんなに立派な感じじゃないけれど	Heidi	I used to have my own secret hideout. It wasn't as elaborate as this, though.	海蒂	我也曾经有过一个秘密基地，\n虽然没有这个这么夸张。	海蒂	我以前也有個秘密基地。\n雖然沒有這麼氣派就是了。
+Date_NPC4_04ID	26	Heidi	ハイディ	心の拠り所だった	Heidi	It was a source of comfort.	海蒂	那里是我曾经的心灵港湾。	海蒂	那裡是我的心靈寄託。
+Date_NPC4_04ID	27	Heidi	ハイディ	実は私、前はシスターとして働いていてさ。\nでもシスターの生活は堅苦しくって！	Heidi	I used to work as a nun, actually. But the sisters' way of life was just too strict for me!	海蒂	其实我以前当过修女。\n但是修女的生活太死板了！	海蒂	其實我以前是做修女的，\n但修女的生活太死板了！
+Date_NPC4_04ID	28	Heidi	ハイディ	そういう時は、横穴に逃げ込んでたんだ。\n私の秘密基地、秘密の逃げ場所	Heidi	Whenever it got to be too much, I would hide away in a cave. It was my secret hideout, my secret getaway.	海蒂	难受的时候，我就会逃进洞窟里。\n那里是我的秘密基地，	海蒂	這種時候我就會逃進洞穴裡躲起來。\n那是我的秘密基地，秘密的避難處。
+Date_NPC4_04ID	29	Heidi	ハイディ	だから好きなんだ、秘密基地っていう響き。\nここは子どもたち共有の秘密基地だから\n私のとは違うけど！	Heidi	So there's something I like about the idea of a secret hideout. It's a bit different from mine, though, since a bunch of kids were using this one.	海蒂	所以我很喜欢秘密基地这个词。\n虽然这里是很多孩子共享的秘密基地，\n和我的不一样！	海蒂	所以我很喜歡秘密基地這個詞。\n不過這裡是小孩子們共享的秘密基地，\n跟我的不一樣！
+Date_NPC4_04ID	30	Heidi	ハイディ	あはは、私、昔から逃げてばっかりだ	Heidi	Haha. Guess I've always been running away from things.	海蒂	啊哈哈，我从以前开始就一直在逃避。	海蒂	啊哈哈，我從以前就一直在逃避了。
+Date_NPC4_04ID	31		選択肢	逃げてばかりでいいのか	Selection	Are you going to keep running your whole life?	选项	一直逃避真的好吗	選項	一直逃避真的好嗎？
+Date_NPC4_04ID	32	Juna	ユナ	逃げてばかりの人生、それでいいのか	Juna	Are you going to keep running your whole life?	尤娜	一直逃避的人生真的好吗？	尤娜	一直在逃避的人生，妳覺得好嗎？
+Date_NPC4_04ID	33	Heidi	ハイディ	うーん。\n逃げずに我慢して嫌々過ごしていくよりは\nいいと思う	Heidi	Hmm... I think it's better than living a life of forcing myself to do things I don't want to.	海蒂	唔……比一直忍着不情不愿地过日子要好吧。	海蒂	唔～總比不逃避\n卻壓抑地過著不喜歡的生活\n還要好多了吧。
+Date_NPC4_04ID	34	Heidi	ハイディ	けど、ユナさんの言いたいことも分かる	Heidi	But I know what you mean, Juna.	海蒂	但我明白尤娜小姐想说什么。	海蒂	不過，我也明白尤娜小姐想表達的意思。
+Date_NPC4_04ID	35	Juna	ユナ	私もハイディの生き方を否定したい訳では\nない。ただ、逃げてばかりだと\nいつか損をするかもしれない	Juna	I don't mean to dismiss your way of life either, Heidi. It's just that if you only ever run away from things, you might eventually come to regret it.	尤娜	我不想否定你的生活方式，\n但如果一直逃避，也许将来会吃大亏。	尤娜	我也不是想否定海蒂妳的生存之道。\n但總是逃避的話，\n總有一天可能會吃虧的。
+Date_NPC4_04ID	36	Juna	ユナ	お前が心配になったんだ	Juna	I suppose I'm just worried about you.	尤娜	我很担心你。	尤娜	我開始擔心妳了。
+Date_NPC4_04ID	37		選択肢	別にいいんじゃないか	Selection	Nothing wrong with that.	选项	逃避也挺好的	選項	這樣也沒什麼不好啊。
+Date_NPC4_04ID	38	Juna	ユナ	別にいいんじゃないか	Juna	Nothing wrong with that.	尤娜	逃避也挺好的。	尤娜	這樣也沒什麼不好啊。
+Date_NPC4_04ID	39	Juna	ユナ	私は今まで、困難にぶつかった時は\n武力を高め正面から立ち向かっていったが、\n向き合うことだけが全てじゃないだろう	Juna	For me, whenever I've run into trouble, I've always worked to raise my physical strength and fight it head-on. But confrontation isn't everything.	尤娜	每当遇到困难，我总是选择用武力正面应对，\n但解决问题的方法不止这一个。	尤娜	我以往遭遇困難時都會精進武藝，\n堂堂正正地面對挑戰，但並不是所有問題\n都只有正面迎戰這個方法啊。
+Date_NPC4_04ID	40	Heidi	ハイディ	驚いた。\nユナさん真面目だから、\nてっきり怒られるかと……	Heidi	Oh? I thought you would be upset with me since you're so...by-the-book.	海蒂	吓我一跳。\n尤娜小姐那么正经，我还以为又会挨训呢……	海蒂	我好驚訝。\n因為尤娜小姐的個性很嚴謹，\n還以為鐵定會挨妳的罵呢……
+Date_NPC4_04ID	41	Heidi	ハイディ	ユナさんにそう言われると、\nなんか自信出てくるよ！\nありがとう	Heidi	Hearing that from you makes me feel a little better about it! Thanks!	海蒂	听到你这么说，我感觉自信多了！\n谢谢你。	海蒂	聽到妳這麼說，\n我就有自信了！謝謝妳。
+Date_NPC4_04ID	42		選択肢	お前に足りないのは力だ	Selection	You just need to become stronger.	选项	你欠缺的是力量	選項	妳欠缺的是力量。
+Date_NPC4_04ID	43	Juna	ユナ	私が思うに、\nお前には力が足りていない	Juna	If you ask me, I'd say you just need to become stronger.	尤娜	在我看来，你欠缺的是力量。	尤娜	在我看來，妳欠缺的是力量。
+Date_NPC4_04ID	44	Heidi	ハイディ	自分が臆病なことは自覚しているけど……\n力？	Heidi	I know I'm timid, but...stronger?	海蒂	我知道自己胆小……但为什么是力量？	海蒂	我知道自己很膽小啦，可是……力量？
+Date_NPC4_04ID	45	Juna	ユナ	ああ。\n逃げないためには、困難を乗り越えられると\n思えるほどの力があればいい	Juna	Exactly. Strong enough to know that you can get through hardship. Then, you won't be tempted to run away.	尤娜	要想不逃避，就要拥有能够战胜困难的力量。	尤娜	對。只要具備足以克服困難的力量，\n自然就不會逃避了。
+Date_NPC4_04ID	46	Heidi	ハイディ	力か……\n力と勇気は比例するものなのかな？\n私の臆病さは生まれつきだからなー	Heidi	Stronger, huh? Though, I feel like that has to do with courage, too. And I'm just not a very courageous person...	海蒂	力量啊……力量和勇气是成正比的吗？\n可是我天生胆小哎。	海蒂	力量啊……\n力量和勇氣是成正比的嗎？\n畢竟我天生就這麼膽小啊～
+Date_NPC4_04ID	47	Juna	ユナ	ハイディは、ヴァレリアたちと出会うまで\nシスターだったのか？	Juna	You were a nun before you met Valeria and the others?	尤娜	在遇到瓦莱莉娅她们之前，\n你一直是修女吗？	尤娜	海蒂妳在認識瓦萊莉婭他們之前，\n一直都在當修女嗎？
+Date_NPC4_04ID	48	Heidi	ハイディ	話すと長いんだけど、実は色々あってさ	Heidi	Well, a lot of things happened. It's a long story.	海蒂	说来话长，其实以前发生过很多事。	海蒂	這個說來話長，其實發生了很多事。
+Date_NPC4_04ID	49	Heidi	ハイディ	嫌なことがあって実家から逃げ出して、\nそのあと教会でお世話になったんだけど、\nシスター生活が嫌でまた逃げて	Heidi	I ran away from home after something bad happened. Then the church took me in, but I didn't like the sister lifestyle, so I ran away again.	海蒂	因为遇到了讨厌的事，我从家里逃出来，\n之后一直待在教会。\n后来厌倦了修女生活，又逃出了教会。	海蒂	因為有討厭的事情，我就從老家逃了出來，\n後來承蒙教會收留照顧，\n但我又厭煩了當修女的生活，結果又逃走了。
+Date_NPC4_04ID	50	Juna	ユナ	そうだったのか。聞く限り、\nその逃げ癖は、お前のこれまでの\n人生が強く影響していそうだな	Juna	Ah, I see. It sounds like your habit of running away is tied heavily to your past experiences.	尤娜	原来是这样。听起来你之所以习惯逃避，\n是因为过去的经历影响。	尤娜	原來是這樣啊。這麼聽起來，\n這種習慣性逃避在很大程度上\n應該是受到妳過去人生的影響吧。
+Date_NPC4_04ID	51	Heidi	ハイディ	うん。\n逃げるのは楽なんだって、\n知っちゃったからね	Heidi	Yeah. I guess I just realized how easy it was to just drop everything and run.	海蒂	嗯。因为逃过一次就知道，\n逃避很轻松啊。	海蒂	嗯，當時我發現逃避會很輕鬆。
+Date_NPC4_04ID	52	Heidi	ハイディ	それに、私は生まれつき臆病だからさ	Heidi	Not to mention the fact that I've been a coward since the day I was born.	海蒂	而且我天生胆小。	海蒂	而且我天生又很膽小。
+Date_NPC4_04ID	53	Heidi	ハイディ	現状が嫌だ、でも立ち向かう勇気もない、\n向き合うのが怖い。\n臆病すぎて、逃げるしかなかった	Heidi	I'd hate the situation I was in, but wouldn't have the courage to do anything about it. Running away was the only option I had.	海蒂	就算讨厌现在的生活，也没有直面问题的勇气。\n因为胆小，所以只能逃避。	海蒂	討厭現狀卻也沒有勇氣反抗，\n害怕面對挑戰。\n我太膽小了，只能選擇逃避。
+Date_NPC4_04ID	54	Juna	ユナ	笑ってその場をやり過ごしたり、\n嘘でその場を乗り切るのに慣れているのも\nそこから来ているのだろうか	Juna	Perhaps that's why you're so used to laughing things off or lying to get through difficult circumstances.	尤娜	你会用笑容和谎言去应对麻烦困难，\n应该也是出于这个缘故吧。	尤娜	習慣假笑敷衍當下的問題，\n或是用謊言來蒙混過關，\n看來這些毛病也是由此而來的吧。
+Date_NPC4_04ID	55	Heidi	ハイディ	それ、この部屋に入るときも言ってたね。\nうん、そうかも	Heidi	Right, you mentioned that earlier. Yeah, that's probably true.	海蒂	刚进来的时候你说过一样的话吧。\n嗯，我想就是这样。	海蒂	妳進來這個房間的時候也這麼說過呢。\n嗯，或許是這樣沒錯。
+Date_NPC4_04ID	56	Juna	ユナ	確かにそうすれば、その場を\nやり過ごすことはできるかもしれないが、\n同時に本心をないがしろにしていないか	Juna	That tactic may get you out of hardship, but it must be frustrating too. You'd have to ignore your true feelings, wouldn't you?	尤娜	这样做也许的确能解燃眉之急，\n但同时你也压抑了自己的本心。	尤娜	確實這麼做的話，\n或許可以暫時蒙混過去，\n但同時不也是在蒙蔽自己的良心嗎？
+Date_NPC4_04ID	57	Juna	ユナ	（臆病で、逃げ腰なハイディに、\n　私が伝えたいことは……）	Juna	(Heidi is timid and tends to run away... What should I say to her?)	尤娜	（面对胆小又爱逃避的海蒂，\n　我想告诉她的是……）	尤娜	（對於膽小又愛逃避的海蒂，\n　我想告訴她的是……）
+Date_NPC4_04ID	58		選択肢	だが私はそれを否定しない	Selection	But I don't think you're doing something wrong.	选项	但我不会否定你	選項	但我不會否定這一點。
+Date_NPC4_04ID	59	Juna	ユナ	だが、私はそれを否定しない。\nそれはお前が見つけた、\n人生を上手く生きるための術なんだろう	Juna	But I don't think you're doing something wrong. Those are the skills you learned in order to survive.	尤娜	但我不会否定你。\n这是你找到的让自己过得比较舒心的方式吧。	尤娜	但我不會否定妳這一點。\n畢竟這是妳為了將人生\n活得更率性自由而找到的方法。
+Date_NPC4_04ID	60	Juna	ユナ	困難にぶつかった時、ハイディは今まで\nそうして成果を手に入れてきたのだろう	Juna	When you came across a struggle, that's how you got through it. That's how you persevered.	尤娜	一直以来，你都是用这种方法\n面对困难并且顺利解决的不是吗。	尤娜	妳一直以來遇到困難的時候，\n都是透過這個方法來取得成果的吧。
+Date_NPC4_04ID	61	Heidi	ハイディ	うん！　こうやって生きてきたのさ！	Heidi	Yep! That's how I live my life!	海蒂	嗯！我就是这么过来的！	海蒂	嗯！我一路走到現在都是如此！
+Date_NPC4_04ID	62	Juna	ユナ	私にはできないことだが、\nだからといって否定はしない	Juna	I could never do it myself, but that doesn't mean I think it's bad.	尤娜	虽然我做不到，但我不会否定。	尤娜	雖然我沒辦法這麼做，\n但也不會否定妳。
+Date_NPC4_04ID	63	Juna	ユナ	それを上手くできる術を持っているのなら、\nそれでいいのではないだろうか	Juna	I don't see any problem if you've got the skills to make that work.	尤娜	既然你已经有了合适的办法，\n那就不需要强行做出改变。	尤娜	既然妳能夠善用這個方法，\n那就沒問題了吧。
+Date_NPC4_04ID	64		選択肢	違う方法を考える道はないのか	Selection	Maybe there's a better way?	选项	不考虑一下别的办法吗	選項	不考慮其他方法嗎？
+Date_NPC4_04ID	65	Juna	ユナ	何か、違う方法を\n考えるという道はないのか。\nそれではあまりにも苦しくないか？	Juna	You know, maybe there's a better way? Isn't it tough to keep living like this?	尤娜	不能考虑一下别的办法吗？\n这样活着不辛苦吗？	尤娜	難道妳不考慮其他方法嗎？\n這樣不是很難受嗎？
+Date_NPC4_04ID	66	Heidi	ハイディ	うん。でも今までこれでやって来たから、\n今さら他の生き方なんて無理っていうか、さ	Heidi	Yeah... But this is how I've always lived. I can't even fathom a different lifestyle at this point.	海蒂	辛苦啊。但我一直以来都这么过，\n事到如今已经改不了啦。	海蒂	嗯，但到今天為止我都是這樣走過來的，\n事到如今要我選擇其他生存之道太困難了。
+Date_NPC4_04ID	67		選択肢	私を頼ってくれ	Selection	You can always lean on me.	选项	来依靠我吧	選項	依靠我吧。
+Date_NPC4_04ID	68	Juna	ユナ	これからは\n私を存分に頼ってくれて構わない	Juna	From now on, know that you can always lean on me.	尤娜	以后有什么事你都可以来找我。	尤娜	妳今後可以盡情依靠我沒關係。
+Date_NPC4_04ID	69	Juna	ユナ	私にとってお前は、\n騎士として守るべき民であり、友人だからな	Juna	As a knight, you are a citizen that I'm duty-bound to protect. Not to mention, you are my friend.	尤娜	对我来说，你既是我身为骑士时该守护的国民，\n也是我的朋友。	尤娜	對我來說，妳是我身為騎士應該\n保護的人民，也是我的朋友。
+Date_NPC4_04ID	70	Heidi	ハイディ	そんなこと言ったら、頼りまくっちゃうよ？\n……でも	Heidi	You sure about that? I might actually take you up on that offer. Still...	海蒂	那我真的会动不动就依靠你哦？\n不过……	海蒂	妳要是這麼說，會讓我一直依賴妳喔？\n……不過，
+Date_NPC4_04ID	71	Heidi	ハイディ	いつもそばにユナさんがいるとは限らない。\nそんな甘えてらんないよ	Heidi	...You can't always be by my side, Juna. And I shouldn't depend on you like that.	海蒂	尤娜小姐并不是时时刻刻都在我身边。\n不可能事事都依靠你。	海蒂	尤娜小姐並不會隨時都在我身邊。\n我可不能這麼做。
+Date_NPC4_04ID	72	Heidi	ハイディ	ユナさん、ありがとう。\nまさか騎士であるユナさんに、\n私がそんな言葉をかけてもらえるなんて	Heidi	Thank you, Juna. I never thought that a knight like you would care so much about me.	海蒂	谢谢你，尤娜小姐。\n没想到身为骑士，尤娜小姐居然会对我这么说。	海蒂	尤娜小姐，謝謝妳。\n沒想到竟然能聽見身為騎士的\n尤娜小姐對我說出這番話。
+Date_NPC4_04ID	73	Heidi	ハイディ	……そういえばさ、気になってたんだけど、\nユナさんって、\nやっぱりかわいいものが好きなんだね	Heidi	Oh, by the way! I've been wondering... Juna, you like cute things, don't you?	海蒂	说起来……我也有一点很在意。\n你其实很喜欢可爱的东西对吧？	海蒂	……說起來，有件事我很好奇，\n尤娜小姐妳果然喜歡可愛的事物吧？
+Date_NPC4_04ID	74	Juna	ユナ	なっ！	Juna	What?!	尤娜	什……！	尤娜	什麼！
+Date_NPC4_04ID	75	Heidi	ハイディ	ここに来てから、あそこにある\nかわいいぬいぐるみをちらちら見てたから、\n気づいちゃった	Heidi	I noticed that you've been stealing glances at those cute stuffed animals since we got here.	海蒂	来这里之后你一直在偷看那些可爱的娃娃，\n我就注意到了。	海蒂	因為妳來到這裡之後，\n會不時地看向那邊可愛的布偶，\n我才發現的。
+Date_NPC4_04ID	76	Heidi	ハイディ	竜騎士のこの一面を本にしたら、\n儲かるかな？　……なーんて	Heidi	Maybe I should write a book about it? A stuffed toy-loving, dragon-hunting knight! Heheh...	海蒂	要是把这样的龙骑士写成书，\n不知道会不会大赚一笔呢？开玩笑的啦。	海蒂	把龍騎士的這一面寫進書裡的話，\n會不會大賺一筆呢……開玩笑的啦～
+Date_NPC4_04ID	77	Heidi	ハイディ	隠してるんだよね、きっと。\n任せて！　世間には秘密にするよ	Heidi	Just kidding! Don't worry, I won't tell anyone. Your secret is safe with me.	海蒂	你不想让别人知道吧。\n放心吧！我不会告诉任何人的。	海蒂	妳一定是刻意隱藏起來的吧。\n儘管放心！我會對世人保密的。
+Date_NPC4_04ID	78	Juna	ユナ	ああ、助かる	Juna	...Thank you.	尤娜	嗯，多谢。	尤娜	嗯，多謝。
+Date_NPC4_04ID	79	Heidi	ハイディ	人それぞれ、\n事情や生き様ってのがあるんだよね	Heidi	Everyone has their own circumstances, and their own way of dealing with life. You and I are no different.	海蒂	大家都各有各的苦衷和生活方式嘛。	海蒂	每個人都有各自的難處和生存之道嘛。
+Date_NPC4_04ID	80	Juna	ユナ	そのようだな	Juna	It would appear so.	尤娜	你说得没错。	尤娜	妳說的對。
+Date_NPC4_04ID	81	Juna	ユナ	（きっとみんな、上手く生きるための術を\n　それぞれ持っているのだろう）	Juna	(She's right. I suppose we all have our own way of getting through the day.)	尤娜	（大家一定都有各自的生存法则吧。）	尤娜	（想必大家一定都有各自\n　能活得率性自由的方法吧。）
+Date_NPC4_04ID	82	Heidi	ハイディ	心配してくれてありがとね。\nでもほんと、そんな心配してくれなくても\n大丈夫だから！	Heidi	Thanks for looking out for me, though. But I promise, I'm fine! You don't need to worry about me so much.	海蒂	谢谢你担心我。\n不过我真的没事！	海蒂	謝謝妳的關心，\n但真的不需要為我操那份心啦！
+Date_NPC4_04ID	83	Heidi	ハイディ	あんまり話してると帰り遅くなっちゃうし、\nそろそろ行こ！	Heidi	Anyway, if we keep talking here, we won't get back till late. Let's get going!	海蒂	再聊下去就太晚了。\n我们走吧！	海蒂	聊太久會耽誤到回去的時間，\n我們差不多該走了！
+Date_NPC4_04ID	84	Heidi	ハイディ	いやー、竜がいなくてよかったよ！\n任務達成、万々歳だね！	Heidi	I'm just glad there wasn't a dragon. Mission accomplished! Hip, hip, hurray!	海蒂	哎呀，还好没有龙！\n任务完成，万岁！	海蒂	哎呀～沒有遇到龍真是太好了！\n任務達成萬萬歲！
+Date_NPC4_04ID	85	Juna	ユナ	（誰に何と言われても、\n　ハイディは自分の生き方を変えることは\n　ないのだろうな……）	Juna	(Looks like Heidi's set on living the way she always has, no matter who says what.)	尤娜	（无论别人说什么，\n　海蒂都会不会改变自己的生活方式吧……）	尤娜	（不管別人怎麼說，\n　海蒂應該都不會改變\n　自己的生存之道吧……）
+Date_NPC4_05ID	0	Juna	ユナ	（家までやって来たが……\n　ハイディはいるだろうか）	Juna	(Well, I made it to the house. I wonder if Heidi's around.)	尤娜	（虽然到了她家门口……\n　但不知道海蒂在不在。）	尤娜	（來到海蒂她們家了……\n　不曉得她在不在呢？）
+Date_NPC4_05ID	1	Heidi	ハイディ	あれ、ユナさん！	Heidi	Oh, Juna!	海蒂	咦，尤娜小姐！	海蒂	奇怪？尤娜小姐！
+Date_NPC4_05ID	2	Heidi	ハイディ	何してるの？	Heidi	What are you doing here?	海蒂	你在做什么？	海蒂	妳在做什麼？
+Date_NPC4_05ID	3	Juna	ユナ	ハイディ、ちょうどよかった。\nお前に渡すものがある	Juna	Glad you were home, Heidi. I have something for you.	尤娜	来得正好，我有东西要给你。	尤娜	海蒂，妳來得正好。\n我有東西要給妳。
+Date_NPC4_05ID	4	Heidi	ハイディ	え？　なんだろう……	Heidi	Really? What is it?	海蒂	嗯？会是什么呀……	海蒂	嗯？是什麼呢……
+Date_NPC4_05ID	5	Heidi	ハイディ	えっ！？　何この量！	Heidi	What?! This much?!	海蒂	咦？！怎么这么多！	海蒂	咦！？怎麼這麼多！
+Date_NPC4_05ID	6	Juna	ユナ	これは先日、「竜のすみか」の地図の先を\n探索し、安全を確認したことに対する報酬だ	Juna	It's your reward. For scouting out the Dragon's Den and confirming that there were no threats to our citizens.	尤娜	前几天你陪我探索了“龙的巢穴”，确认了那边的安全。\n这是那次委托的报酬。	尤娜	這是前陣子去探索「龍的巢穴」地圖上的位置，\n確認那裡是否安全的報酬。
+Date_NPC4_05ID	7	Heidi	ハイディ	え、でも、何も危険なことなかったのに\nこんなにもらっていいの？	Heidi	But are you sure I should be getting this much? There was never any actual danger.	海蒂	但是那次又没有遇到危险，\n报酬是不是太多了？	海蒂	咦？可是沒有遇到任何危險，\n給這麼多報酬沒問題嗎？
+Date_NPC4_05ID	8	Juna	ユナ	あれは国を守るための重要な任務で、\n我々は任務を遂行し、安全を確保した	Juna	It was an important mission to protect the kingdom. We completed the task and ensured the people's safety.	尤娜	那是事关国土安全的重要任务。\n我们完成了任务，确保了安全。	尤娜	那是保衛國家的重要任務，\n而我們完成任務，確保了那一帶的安全。
+Date_NPC4_05ID	9	Juna	ユナ	よってこれは国からの正当な報酬だ。\n受け取れ！	Juna	A task as important as that should be properly compensated. It's all yours!	尤娜	因此这是国家支付的正当报酬。\n收下吧！	尤娜	因此，這是國家給予的合理報酬。\n妳就收下吧！
+Date_NPC4_05ID	10	Heidi	ハイディ	やったー！　ユナさんまじ騎士様！\n一生ついていきます！	Heidi	Woo-hoo! Thank you, Juna, you great big beautiful knight! From now on, it's you and me. I'll be your loyal squire!	海蒂	太好了！尤娜小姐太有骑士风范了！\n我要一生追随你！	海蒂	太棒了～！尤娜小姐真是我的騎士大人！\n我一輩子都會追隨妳的！
+Date_NPC4_05ID	11	Juna	ユナ	ふっ、現金なやつめ……	Juna	Hah. Ever the opportunist...	尤娜	呵，态度变得还真快……	尤娜	呵，妳這個現實的傢伙……
+Date_NPC4_05ID	12	Heidi	ハイディ	えへへー、どうしようかなー、\n今日はフロッケにお願いして、\n料理を豪華にしてもらおうかなー	Heidi	Oooh, what should I spend this on? Maybe I'll ask Flocke to make something fancy for dinner tonight! Heheh!	海蒂	嘿嘿，这笔钱怎么花好呢。\n不然今天拜托芙洛可，\n做一顿豪华大餐吧。	海蒂	嘿嘿～要怎麼用這筆錢呢～\n還是今天就拜託芙洛可\n煮一頓豪華大餐好了～
+Date_NPC4_05ID	13	Juna	ユナ	……かわいいな	Juna	...Cute.	尤娜	……你真可爱。	尤娜	……真可愛。
+Date_NPC4_05ID	14	Heidi	ハイディ	えっ、えっ！？　急に何！？\nってうわあ！	Heidi	Huh? Wh-What?! What did you just—woah!	海蒂	咦、咦？！干嘛突然说这种话？！哇！	海蒂	咦、咦！？妳突然怎麼了！？\n呃、哇啊！
+Date_NPC4_05ID	15	Juna	ユナ	ハイディ、大丈夫か？	Juna	Heidi, are you okay?	尤娜	海蒂，没事吧？	尤娜	海蒂，妳沒事吧？
+Date_NPC4_05ID	16	Heidi	ハイディ	わあ、ユ、ユナさん！\nご、ごめんなさい！	Heidi	J-Juna! I-I'm so sorry!	海蒂	哇，尤、尤娜小姐！\n对、对不起！	海蒂	哇啊，尤、尤娜小姐！\n對、對不起！
+Date_NPC4_05ID	17	Juna	ユナ	急に転ぶから、何かと思ったぞ	Juna	Are you hurt? You just...fell over.	尤娜	看你突然摔倒，我还以为出什么事了。	尤娜	妳突然跌倒，我還以為出了什麼事。
+Date_NPC4_05ID	18	Heidi	ハイディ	だって、ユナさんが急にかわいいとか言うから……	Heidi	I mean, yeah. 'Cause you said I was cute, out of nowhere...	海蒂	谁让尤娜小姐你突然说什么可爱……	海蒂	還不是因為尤娜小姐突然說我可愛……
+Date_NPC4_05ID	19	Juna	ユナ	ああ。私はかわいいものが好きだからな	Juna	Of course. You know I like cute things.	尤娜	啊，因为我喜欢可爱的东西。	尤娜	哦，畢竟我喜歡可愛的事物啊。
+Date_NPC4_05ID	20	Juna	ユナ	レスナが前に、かわいいものにはかわいいと\n言った方がいい、と言っていたから言葉にしたんだが	Juna	Resna told me that if I think something is cute, then I should say so. So, I said it.	尤娜	蕾斯娜之前说过，看到觉得可爱的东西\n直接夸可爱就好，所以我实践了一下。	尤娜	蕾斯娜之前告訴我，看見可愛的事物就該\n直接表達，所以我才會說出來的。
+Date_NPC4_05ID	21	Juna	ユナ	すまない、嫌だったか？	Juna	Sorry, did you not want me to?	尤娜	抱歉，你不喜欢吗？	尤娜	抱歉，妳不喜歡嗎？
+Date_NPC4_05ID	22	Heidi	ハイディ	も、もう！　ハイディちゃんをからかうのはよしてよ！	Heidi	J-Juna! Don't tease me like that!	海蒂	真、真是的！不要捉弄我啦！	海蒂	真、真是的！不要捉弄海蒂我啦！
+Date_NPC4_05ID	23	Juna	ユナ	からかってなどいない。これは私の本心だ。\n私は嘘をつくのは得意ではないからな	Juna	I'm not teasing, those are my true feelings. You know I'm incapable of lying.	尤娜	我没有捉弄你，这是我的真心话。\n我不擅长撒谎。	尤娜	我沒有在捉弄妳，這是我的真心話。\n我這個人可是很不會說謊的。
+Date_NPC4_05ID	24	Heidi	ハイディ	かわいいとか言われ慣れてないから、\n恥ずかしいんだって……！　ち、近いし……！	Heidi	It's just, I don't get told that very often! And...y-you're too close!	海蒂	我不习惯被人夸可爱，很不好意思啊……！\n太、太近了……！	海蒂	不習慣有人說我可愛，覺得很難為情啦……！\n而、而且妳靠太近了……！
+Date_NPC4_05ID	25	Juna	ユナ	それはハイディが転びそうだったからだろう	Juna	That's because you nearly fell over.	尤娜	谁让海蒂你像是要摔倒呢。	尤娜	這是因為妳剛才差點跌倒了。
+Date_NPC4_05ID	26	Juna	ユナ	それに私はこれでも、\nかわいいものを愛でる気持ちを抑えている方なんだ	Juna	If anything, I was holding back. I'm doing my best not to shower you with affection right now.	尤娜	而且眼前有这么可爱的东西，\n我已经表现得很克制了。	尤娜	更何況，我現在已經算是很克制想要\n疼愛可愛事物的那股衝動了。
+Date_NPC4_05ID	27	Juna	ユナ	報酬を手に嬉しそうなハイディはかわいいが、\n足元には気を付けなければダメだ	Juna	You were so cute getting excited for your reward. But you have to watch your step.	尤娜	拿到报酬兴高采烈的海蒂是很可爱，\n但也要注意脚下。	尤娜	雖然海蒂妳得到報酬後一臉開心的樣子很可愛，\n但還是要小心腳邊才行。
+Date_NPC4_05ID	28	Heidi	ハイディ	だからそれはユナさんが急にかわいいとか言うから……	Heidi	I told you, it's because you called me cute out of nowhere...	海蒂	我都说了是因为尤娜小姐你突然说什么可爱……	海蒂	就說那是因為尤娜小姐突然說我可愛……
+Date_NPC4_05ID	29	Heidi	ハイディ	（待てよ、かわいいといっても、女子としてのかわいい\n　と、マスコットとしてのかわいいがあるけど……）	Heidi	(Wait! She's saying cute, but there are different kinds of cute. Like a cute girl, or a cute plushie...)	海蒂	（等等，虽然她夸我可爱，\n　但可爱也分夸人和夸吉祥物的……）	海蒂	（等等，就算可愛，也有分成女生的可愛，\n　還有布偶的可愛……）
+Date_NPC4_05ID	30	Heidi	ハイディ	（これは、マスコット扱いなのでは？！）	Heidi	(Wait. Is she saying I'm cute like a plushie?!)	海蒂	（难不成我是被当成吉祥物了？！）	海蒂	（她這是把我當作布偶了吧？！）
+Date_NPC4_05ID	31	Juna	ユナ	うむ、やはりかわいい	Juna	Hm. You really are cute.	尤娜	嗯，果然很可爱。	尤娜	嗯，果然很可愛。
+Date_NPC4_05ID	32	Heidi	ハイディ	（ち、近いから思考がまとまらない～！）	Heidi	(Sh-She's so close, I can't think straight!)	海蒂	（靠、靠得太近了无法思考～！）	海蒂	（靠、靠太近了，沒辦法好好思考～！）
+Date_NPC4_05ID	33	Heidi	ハイディ	もう、ユナさん、心臓に悪いよ……\nかわいいもの好きを隠すのはやめたの？	Heidi	You almost gave me a heart attack, Juna. Since when did you stop hiding your love for cute things?	海蒂	尤娜小姐，这对心脏不太好……\n你已经不介意别人知道自己喜欢可爱的东西了吗？	海蒂	真是的，尤娜小姐，這樣對心臟很不好耶……\n妳不再隱瞞自己對可愛事物的喜好了嗎？
+Date_NPC4_05ID	34	Juna	ユナ	いや。\nただハイディにはもう知られているからな。\nここには他に人もいない	Juna	Well, you already know my secret. And there's no one else around.	尤娜	并不。\n但海蒂已经知道了不是吗，\n而且这里也没有别人。	尤娜	沒有。\n只是海蒂妳早就已經知道了，\n而且這裡又沒有其他人。
+Date_NPC4_05ID	35	Heidi	ハイディ	そっか。\nそれが、ユナさんの上手く生きていく術、\nなんだもんね	Heidi	I get it. This must be your way of getting through the day, just like me.	海蒂	是吗。这就是尤娜小姐的生存法则吧。	海蒂	這樣啊，畢竟這就是尤娜小姐的\n生存之道嘛。
+Date_NPC4_05ID	36	Heidi	ハイディ	私もね、私の上手く生きていくための術は\nこの先も変わらないよ	Heidi	You know, I don't think I'll ever change my ways.	海蒂	我想，今后我的生存法则也不会改变。	海蒂	我呢，今後也不會改變那個能讓自己\n活得率性自由的方法喔。
+Date_NPC4_05ID	37	Heidi	ハイディ	笑ったり嘘をついたりして\nその場をやり過ごそうとしたりさ	Heidi	I'll smile, and yeah, I'll lie sometimes to get out of tough situations.	海蒂	遇到麻烦的时候，就用笑容和谎言去应付。	海蒂	我會繼續假笑著敷衍過去，\n或是用謊言來蒙混過關。
+Date_NPC4_05ID	38	Heidi	ハイディ	だけど、\n臆病なところは変えたいと思ってるんだ	Heidi	But...I do want to be braver.	海蒂	但是，我想改正胆小这个毛病。	海蒂	但是，我想改變自己膽小的個性。
+Date_NPC4_05ID	39	Heidi	ハイディ	共に戦いたい仲間ができたから。\n大切な家族ができたから	Heidi	I have friends who I can fight alongside now. And a loving family.	海蒂	因为我有了想并肩作战的伙伴和重要的家人。	海蒂	因為有了想要一起並肩作戰的夥伴，\n有了重要的家人。
+Date_NPC4_05ID	40	Heidi	ハイディ	まだまだ逃げちゃうかもしれないけれど、\nこれからは困難に向き合えるようにだって\nなってみせるよ！	Heidi	I'm sure I'll keep running away, but just you wait! I'll prove that even I can grow stronger and face the fire!	海蒂	也许我还会逃跑，\n但我会努力直面困难的！	海蒂	或許今後還是會忍不住逃避，\n但我一定會學著自己面對困難的！
+Date_NPC4_05ID	41	Juna	ユナ	そうか。応援しよう	Juna	And I'll be rooting for you.	尤娜	是吗，我会为你加油。	尤娜	這樣啊，我支持妳。
+Date_NPC4_05ID	42	Juna	ユナ	ああ、それなら、私が鍛錬をつけてやろう。\nかつて私が己を鼓舞するために行った\n秘密の鍛錬を……	Juna	I could even help you train, if you'd like. I know a secret training technique that helped me really push myself—	尤娜	啊，既然如此，我来帮你锻炼吧。\n用我曾经为了鼓舞自己而秘密进行的锻炼方式……	尤娜	啊，既然如此，我就來陪妳鍛鍊吧。\n讓妳試試我從前為了鼓舞自己\n而進行的秘密鍛鍊……
+Date_NPC4_05ID	43	Heidi	ハイディ	いやっ、それはいいや！\nせっかくだけれど、白夜の騎士様のお手を\n煩わせるわけにはいかないからね！	Heidi	Uh, I-I'll pass on that for now! I appreciate it, but I couldn't possibly impose upon a Knight of the Midnight Sun!	海蒂	呃，那就不用了！\n虽然很感谢你的心意，\n但怎么好意思麻烦白夜骑士大人呢！	海蒂	不用，這就不必了！雖然機會難得，\n但我可不敢勞駕白夜騎士大人親自出馬！
+Date_NPC4_05ID	44	Juna	ユナ	気にするな。\nこれは私の鍛錬にもなる	Juna	No need to worry. This will serve as my training too.	尤娜	不用在意，反正我也能顺便锻炼。	尤娜	不用在意，這樣我也能順便一起鍛鍊。
+Date_NPC4_05ID	45	Heidi	ハイディ	あっ、そうだ！　ユナさんが来ていること、\nフロッケに伝えてこよっと！\nユナさん、ご飯食べていきません？	Heidi	O-Oh, right, I need to let Flocke know that you're visiting! You haven't eaten yet, right?	海蒂	啊对了！我去和芙洛可说一声尤娜小姐来了！\n尤娜小姐，要不要一起吃饭？	海蒂	啊，對了！\n我去跟芙洛可說妳來了！\n尤娜小姐，妳要不要留下來吃飯？
+Date_NPC4_05ID	46	Juna	ユナ	……せっかくだし、ご馳走になるか	Juna	I have not. Thank you. I'll gladly join you for a meal.	尤娜	……机会难得，那就多谢了。	尤娜	……機會難得，那就承蒙招待了。
+Date_NPC4_05ID	47	Juna	ユナ	（人には人の生き方がある\n　それが悪の道でない限り、\n　私は騎士として寄り添っていきたい）	Juna	(Each person has their own way of life. As long as they do not stray down a dark path, I shall be there beside them.)	尤娜	（大家都有各自的生存方式。\n　只要不误入歧途，\n　我就该作为骑士守护大家。）	尤娜	（每個人都有各自的生存之道。\n　只要不是踏上歧途，\n　我都願意以騎士的身分在身邊支持他們。）

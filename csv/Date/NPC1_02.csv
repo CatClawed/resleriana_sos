@@ -1,0 +1,335 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_NPC1_02_01ID	0	Johanna	ヨハナ	（あーあ、レスナがいなくて、暇）	Johanna	(*Sigh* It's so boring when Resna isn't around.)	约翰娜	（唉，蕾斯娜不在真是闲得发慌。）	約翰娜	（唉──蕾斯娜不在，好閒喔。）
+Date_NPC1_02_01ID	1	Johanna	ヨハナ	（もうすぐこの本も読み終わっちゃう）	Johanna	(I'm almost done with this book, too.)	约翰娜	（这本书也快要看完了。）	約翰娜	（這本書也很快就要看完了。）
+Date_NPC1_02_01ID	2	Izana	イザナ	おっじゃましまーす！ ハーンーマー！	Izana	Hellooo! Hammer time!	伊札娜	我来打扰了！锤～子～！	伊札娜	打擾了！錘──子──！
+Date_NPC1_02_01ID	3	Izana	イザナ	レスナちゃん、いるー？	Izana	Resna? Are you here?	伊札娜	蕾斯娜，你在吗？	伊札娜	蕾斯娜在嗎──？
+Date_NPC1_02_01ID	4	Johanna	ヨハナ	（……うるさいのが来たわね）	Johanna	(Here comes the noisy one...)	约翰娜	（……怎么来了个烦人的家伙。）　	約翰娜	（……吵死人的傢伙來了。）
+Date_NPC1_02_01ID	5		選択肢	素直に答える	Selection	Answer truthfully	选项	老实回答	選項	老實回答
+Date_NPC1_02_01ID	6	Johanna	ヨハナ	レスナならいないわよ	Johanna	Resna's not here.	约翰娜	蕾斯娜她不在哦。	約翰娜	蕾斯娜她不在喔。
+Date_NPC1_02_01ID	7	Izana	イザナ	あ、ヨハナ！　おはよう！\nレスナちゃんいないのかー、残念	Izana	Oh, Johanna! Good morning! No Resna, huh? Darn...	伊札娜	啊，是约翰娜呀！早上好！\n蕾斯娜不在呀，好可惜。	伊札娜	啊，約翰娜！早安！\n蕾斯娜不在喔～？真可惜。
+Date_NPC1_02_01ID	8	Izana	イザナ	ヨハナは何してるの？	Izana	What are you up to?	伊札娜	约翰娜你在做什么？	伊札娜	約翰娜妳在做什麼？
+Date_NPC1_02_01ID	9	Johanna	ヨハナ	本を読んでるのよ、ふふん、知的でしょ	Johanna	Reading a book. Heh, pretty intellectual, right?	约翰娜	我在看书哦，嘿嘿，是不是很聪明。	約翰娜	我在看書啊，哼哼，很知性吧？
+Date_NPC1_02_01ID	10	Johanna	ヨハナ	もうこの程度なら一人でも\n楽の勝なんだから！	Johanna	A simple book like this is a cakewalk for me now!	约翰娜	这种程度的书我一个人也能轻松看懂！	約翰娜	這種程度的書，\n我現在一個人也看得輕輕鬆鬆！
+Date_NPC1_02_01ID	11	Izana	イザナ	すごい！　成長したね、ヨハナ！\nレスナちゃんも喜ぶよ！	Izana	Wow! You're really making progress, Johanna! Resna must be so proud!	伊札娜	好厉害！约翰娜有进步了呢！\n蕾斯娜也会高兴的！	伊札娜	好厲害！約翰娜妳進步了呢！\n蕾斯娜也會很高興的！
+Date_NPC1_02_01ID	12		選択肢	隠れて驚かす	Selection	Hide and surprise Izana	选项	藏起来吓她一跳	選項	躲起來嚇她。
+Date_NPC1_02_01ID	13	Johanna	ヨハナ	（あいつ、まだ私に気づいてないみたい。\n　そうだ！　こっそり後ろから……）	Johanna	(She hasn't noticed me yet. Time to sneak up from behind!)	约翰娜	（她好像还没注意到我。\n　对了！悄悄绕到她身后……）	約翰娜	（那傢伙好像還沒注意到我。\n　對了！我偷偷從後面……）
+Date_NPC1_02_01ID	14	Izana	イザナ	あれ、誰もいないのかな？	Izana	Huh? No one's here?	伊札娜	咦，谁都不在吗？	伊札娜	奇怪，沒人在嗎？
+Date_NPC1_02_01ID	15	Johanna	ヨハナ	わあっ！！	Johanna	Boo!!	约翰娜	哇呀！！	約翰娜	哇啊！！
+Date_NPC1_02_01ID	16	Izana	イザナ	うわあああああ！！！！！	Izana	Waaah!	伊札娜	哇啊啊啊啊啊啊啊！！	伊札娜	哇啊啊啊啊啊啊！！！！！
+Date_NPC1_02_01ID	17	Johanna	ヨハナ	あはは！　いい驚きっぷり！	Johanna	Haha! What a great reaction!	约翰娜	啊哈哈！把你吓了一大跳呢！	約翰娜	啊哈哈！妳嚇到的反應真棒！
+Date_NPC1_02_01ID	18	Izana	イザナ	ヨハナ！　もう、びっくりした！\n驚かさないでよ！	Izana	Johanna! Don't scare me like that!	伊札娜	约翰娜！！吓死我了！\n不要吓人家啦！	伊札娜	約翰娜！真是的，嚇了我一跳！\n妳別嚇我啦！
+Date_NPC1_02_01ID	19		選択肢	天才ならいるけど？	Selection	Only a genius here!	选项	她不在，但是有个天才在	選項	天才的話倒是在喔？
+Date_NPC1_02_01ID	20	Johanna	ヨハナ	天才ならいるけど？	Johanna	There's only a genius here at the moment.	约翰娜	她不在，但是有个天才在。	約翰娜	天才的話倒是在喔？
+Date_NPC1_02_01ID	21	Izana	イザナ	……	Izana	...	伊札娜	……	伊札娜	……
+Date_NPC1_02_01ID	22	Izana	イザナ	おーい、レスナちゃーん\n……いないかあ	Izana	Hey, Resna? Oh, guess she's not here.	伊札娜	喂——！蕾斯娜！\n不在啊……	伊札娜	喂──蕾斯娜，\n……不在啊。
+Date_NPC1_02_01ID	23	Johanna	ヨハナ	天才を無視するんじゃないわよ！	Johanna	Stop ignoring the genius standing right in front of you!	约翰娜	不要无视天才啊！	約翰娜	不要無視天才！
+Date_NPC1_02_01ID	24	Johanna	ヨハナ	……で、あんた一体何しに来たのよ	Johanna	Why are you here, anyway?	约翰娜	……所以说，你过来有何贵干？	約翰娜	……所以，妳到底來幹嘛的？
+Date_NPC1_02_01ID	25	Izana	イザナ	特にこれといった用事はないんだけどね	Izana	Oh, no reason in particular.	伊札娜	没什么特别要紧的事。	伊札娜	倒也沒什麼特別的事啦。
+Date_NPC1_02_01ID	26	Izana	イザナ	新しく強い服を貰ったから、この服で何か\nレスナちゃんのお手伝いをしたいと思って！	Izana	Check out my new outfit! I feel stronger than ever wearing it, so I thought I'd put it to use helping Resna with something!	伊札娜	我新得到了一件很厉害的新衣服，\n想用这件衣服给蕾斯娜为蕾斯娜提供帮助！	伊札娜	因為我收到了一套強大的新衣服，\n想穿這套衣服來幫忙蕾斯娜！
+Date_NPC1_02_01ID	27	Johanna	ヨハナ	ふーん	Johanna	Hmm.	约翰娜	是吗。	約翰娜	哦～
+Date_NPC1_02_01ID	28	Izana	イザナ	だってアタシは\nレスナちゃんの騎士だからね！	Izana	I'm Resna's knight, and that's what a knight is for!	伊札娜	毕竟我是蕾斯娜的骑士嘛！	伊札娜	因為我可是蕾斯娜的騎士啊！
+Date_NPC1_02_01ID	29	Izana	イザナ	でもレスナちゃん、いないのかあ……	Izana	But she's not here...	伊札娜	可是蕾斯娜她不在啊……	伊札娜	不過蕾斯娜她不在嗎……
+Date_NPC1_02_01ID	30	Izana	イザナ	レスナちゃんが帰ってくる前に、\n何かやっといたら\n喜んでもらえるかな？	Izana	I wonder if there is something I could do to brighten her day before she comes back.	伊札娜	在蕾斯娜回来之前，\n做些什么会让她高兴呢？	伊札娜	在蕾斯娜回來之前，\n我先幫忙做點什麼，她會開心嗎？
+Date_NPC1_02_01ID	31	Johanna	ヨハナ	（今できる、レスナが喜ぶこと……）	Johanna	(Something that would brighten Resna's day?)	约翰娜	（现在能做到的，让蕾斯娜高兴的事……）	約翰娜	（現在能做，而且會讓蕾斯娜開心的事……）
+Date_NPC1_02_01ID	32		選択肢	食事の用意	Selection	Prepare some food	选项	准备餐食	選項	準備餐點。
+Date_NPC1_02_01ID	33	Johanna	ヨハナ	じゃあごはん作ってよ。\n私お腹空いたし	Johanna	How about making lunch? I'm hungry.	约翰娜	那你就做饭吧。\n我也饿了。	約翰娜	那妳就做飯吧，我的肚子也餓了。
+Date_NPC1_02_01ID	34	Izana	イザナ	もー、しょうがないなー。\nアタシの料理、大雑把だけどいい？	Izana	Ugh, fine. But my cooking's not the best, just so you know!	伊札娜	真拿你没办法。\n我做饭很随意的，你能接受吗？	伊札娜	真是的，拿妳沒辦法耶～\n我做的料理還滿粗糙的，沒關係嗎？
+Date_NPC1_02_01ID	35	Johanna	ヨハナ	見た目がどうだってお腹に入れば同じよ	Johanna	If it fills me up, I don't care what it looks like!	约翰娜	不管卖相如何，吃进肚子都是一样的。	約翰娜	外觀如何進到肚子裡都一樣啦。
+Date_NPC1_02_01ID	36	Izana	イザナ	じゃあ、折角だし\nレスナちゃんの好きなもの\n作ろうかなー？	Izana	In that case, I'll make one of Resna's favorite dishes!	伊札娜	那既然要做，\n就做些蕾斯娜爱吃的菜吧。	伊札娜	那反正機會難得，\n我就來做蕾斯娜喜歡的東西好了？
+Date_NPC1_02_01ID	37	Izana	イザナ	……っと思ったけど何も食材がないや。\nこれはレスナちゃんに報告だね	Izana	Oh wait. Looks like we're out of ingredients. Guess I'll have to report that to Resna...	伊札娜	说是这么说，但什么食材都没有啊。\n得和蕾斯娜说一声才行。	伊札娜	……雖然這麼想，但什麼食材都沒有嘛。\n這要跟蕾斯娜說一聲才行了。
+Date_NPC1_02_01ID	38		選択肢	アトリエの掃除	Selection	Clean the atelier	选项	打扫炼金工房	選項	打掃鍊金工房。
+Date_NPC1_02_01ID	39	Johanna	ヨハナ	じゃあ掃除でもしたら？	Johanna	How about cleaning up the place?	约翰娜	那要不打扫卫生吧？	約翰娜	那打掃一下怎麼樣？
+Date_NPC1_02_01ID	40	Izana	イザナ	そうだね！　というか、\n今日は本が散らかりすぎだよ！\nこれ、ヨハナが？	Izana	Good idea! Just look at all these books scattered around! Did you leave these here?	伊札娜	好主意！话说回来，\n今天书也太乱了吧！\n这是约翰娜你弄的？	伊札娜	對耶！\n話說回來，今天書丟得到處都是！\n這是約翰娜弄的嗎？
+Date_NPC1_02_01ID	41	Johanna	ヨハナ	あ、後で片づけようと思ってたのよ！\nこの本はまだ読んでる途中だし……	Johanna	I-I was going to put them away later! I'm still reading some of them...	约翰娜	啊，我想着晚点再收拾的！\n这本书我还在看呢……	約翰娜	我、我是想說等一下再收拾啊！\n因為這本書我才讀到一半而已……
+Date_NPC1_02_01ID	42	Izana	イザナ	もー。手伝ってあげるから、\n後で一緒に片づけようね	Izana	Oh, come on. Fine, I'll help, so let's get them cleaned up later, okay?	伊札娜	真是的，一会儿一起收拾吧，\n我会帮忙的。	伊札娜	真是的，我會幫妳啦，\n晚點我們一起收拾吧。
+Date_NPC1_02_01ID	43		選択肢	ヨハナに肩揉み	Selection	Give me a shoulder massage	选项	给约翰娜揉肩	選項	幫約翰娜按摩肩膀。
+Date_NPC1_02_01ID	44	Johanna	ヨハナ	それなら、この天才の肩を\n揉ませてやってもいいけど？	Johanna	How about giving me a shoulder massage?	约翰娜	那你给我这个天才揉揉肩吧？	約翰娜	這樣的話，妳可以幫我這個天才\n按摩肩膀喔？
+Date_NPC1_02_01ID	45	Izana	イザナ	それ、ただヨハナが\n揉んでもらいたいだけでしょ！\nもー、別にいいけどさ	Izana	That has nothing to do with Resna! You just want a massage! But fine, I'll do it.	伊札娜	你只是想让我帮你揉肩吧！\n真是的，不过揉一揉也无所谓。	伊札娜	那只是妳想要別人幫妳按摩而已吧！\n真傷腦筋，我是可以啦。
+Date_NPC1_02_01ID	46	Johanna	ヨハナ	ちょっ、いた、痛い！\n力強すぎでしょ、あんた！	Johanna	Ouch! That hurts! You're pushing way too hard!	约翰娜	哎呀，疼、好疼！\n你力气太大了！	約翰娜	等等，痛，好痛！\n妳也太用力了吧！
+Date_NPC1_02_01ID	47	Izana	イザナ	えへへ、鍛錬の成果かな？\nハンマー！！	Izana	Hehe, must be all my training! Hammer time!	伊札娜	嘿嘿嘿，是我锻炼有成效了吗？\n锤呀！！	伊札娜	嘿嘿，這是鍛鍊的成果吧？\n錘子！！
+Date_NPC1_02_01ID	48	Johanna	ヨハナ	そういえばイザナって、いっつもレスナの\n騎士だとかなんとか言ってるけど、\nなんなのよ、それ	Johanna	Izana, why are you always calling yourself Resna's knight? Where did that come from?	约翰娜	说起来，你总说自己是蕾斯娜的骑士什么的，\n到底是怎么回事啊？	約翰娜	對了，伊札娜妳老是說\n自己是蕾斯娜的騎士，\n那是什麼意思啊？
+Date_NPC1_02_01ID	49	Izana	イザナ	これはね、\n前に、レスナちゃんと流れ星に誓ったんだ	Izana	Resna and I once swore under a shooting star.	伊札娜	这个嘛，\n是因为我和蕾斯娜对着流星发过誓。	伊札娜	這個嘛，因為我之前和蕾斯娜\n一起向流星發了誓。
+Date_NPC1_02_01ID	50	Izana	イザナ	将来、アタシは最強の騎士に、\nレスナちゃんは立派な錬金術士になるって	Izana	I swore to become the strongest knight, and Resna swore to become a full-fledged alchemist.	伊札娜	我将来要成为最强的骑士，\n蕾斯娜要成为出色的炼金术士。	伊札娜	將來，我會成為最強的騎士，\n而蕾斯娜會成為出色的鍊金術士。
+Date_NPC1_02_01ID	51	Izana	イザナ	そんなレスナちゃんを、アタシは\n騎士としてあらゆるものから守るんだ！	Izana	Since I swore to be her knight, I'll protect her from anything and everything!	伊札娜	我身为骑士，\n要保护蕾思娜不受任何事物伤害！	伊札娜	我身為騎士會保護那樣的蕾斯娜，\n不讓她受到任何威脅！
+Date_NPC1_02_01ID	52	Johanna	ヨハナ	（あらゆるものから守るレスナの騎士、ね）	Johanna	(A knight protecting Resna from anything and everything?)	约翰娜	（保护蕾斯娜不受任何事物伤害的骑士啊。）	約翰娜	（保護蕾斯娜不受任何威脅的騎士啊。）
+Date_NPC1_02_01ID	53		選択肢	今は天才の私がいるから十分よ	Selection	She already has a genius by her side!	选项	如今有我这个天才在就足够了	選項	現在有我這個天才在就足夠了。
+Date_NPC1_02_01ID	54	Johanna	ヨハナ	まあ、今はレスナのそばに\n天才の私がいるから十分よ！	Johanna	Hmph, Resna already has a genius like me by her side. That's more than enough!	约翰娜	但如今蕾斯娜的身边有我这个天才在就足够了！	約翰娜	不過，現在蕾斯娜的身邊有我\n這個天才在就足夠囉！
+Date_NPC1_02_01ID	55	Izana	イザナ	ヨハナの強さは認めてるけど……\nうーん、不安だなあ	Izana	I know you're strong, Johanna, but I still can't help but worry.	伊札娜	虽然我认可约翰娜的强大……\n唔，但让人很不安呢。	伊札娜	我承認約翰娜很強，但……\n唔──感覺好不安喔。
+Date_NPC1_02_01ID	56	Johanna	ヨハナ	何が不安だっていうのよ！	Johanna	Worry? About what?!	约翰娜	有什么不安的！	約翰娜	有什麼好不安的啦！
+Date_NPC1_02_01ID	57	Izana	イザナ	……落ち着きがないとか？	Izana	I don't know... Maybe your lack of patience?	伊札娜	……比如你太容易激动了？	伊札娜	……有種心神不寧的感覺？
+Date_NPC1_02_01ID	58	Johanna	ヨハナ	大人ぶっててむかつく～！	Johanna	Ugh! Stop trying to act all mature!	约翰娜	摆出一副大人的样子真让火大！	約翰娜	裝什麼成熟，真讓人火大～！
+Date_NPC1_02_01ID	59		選択肢	騎士は常に傍にいるんじゃないの？	Selection	A knight should always be by her side, right?	选项	骑士不应该随时陪着她吗？	選項	騎士不是應該要隨侍在側嗎？
+Date_NPC1_02_01ID	60	Johanna	ヨハナ	騎士なら、常にレスナの傍に\nいるもんじゃないの？	Johanna	If you're her knight, shouldn't you always be by her side?	约翰娜	骑士不应该随时陪在蕾斯娜身边吗？	約翰娜	既然是騎士，\n就應該要隨時待在蕾斯娜身邊吧？
+Date_NPC1_02_01ID	61	Izana	イザナ	できることならアタシだってそうしたいよ～\n嬉しい時も悲しい時も、いかなる時も	Izana	If I could, I would! In good times and in bad, I'd be with her all the time!	伊札娜	如果可以我也想陪在她身边啊!\n她开心的时候、难过的时候，任何时候。	伊札娜	如果可以，我也想這麼做啊～\n不管是她開心的時候、悲傷的時候，任何時候都想。
+Date_NPC1_02_01ID	62	Izana	イザナ	今はヨハナの方が隣にいられる時間\n多いよね、羨ましいことハンマーの如しだよ	Izana	But these days, you spend more time with her than I do. The jealousy's hitting me like a hammer right now!	伊札娜	现在约翰娜陪在她身边的时间更多呢。\n我羡慕得就像一把锤子。	伊札娜	現在反而是約翰娜更常陪在她身邊吧，\n我羨慕得像根錘子一樣啊。
+Date_NPC1_02_01ID	63	Johanna	ヨハナ	ふふん！　まぁあんたが座学とかで\n不在の時は任せなさい	Johanna	Hah! Well, when you're busy with your lessons or whatever, I've got things covered.	约翰娜	哼哼！你参加讲座什么的\n不在的时候就交给我吧。	約翰娜	哼哼！妳去聽講座不在的時候，\n就交給我吧。
+Date_NPC1_02_01ID	64	Izana	イザナ	うんうん。\nヨハナが傍にいるときは、\nレスナちゃんのこと頼んだよ！	Izana	Right! I'm counting on you to watch over her when I'm not around.	伊札娜	嗯嗯。\n约翰娜在蕾斯娜身边时，\n她就拜托你了！	伊札娜	嗯嗯，\n約翰娜在蕾斯娜身邊時，\n她就交給妳了！
+Date_NPC1_02_01ID	65		選択肢	私の方がレスナのことよく知ってるわ	Selection	I know Resna better than you!	选项	我更了解蕾斯娜	選項	我比妳更了解蕾斯娜。
+Date_NPC1_02_01ID	66	Johanna	ヨハナ	レスナのことなら、騎士のあんたよりも\n私の方がよく知ってるわ！	Johanna	You're supposed to be her knight, but I know Resna better than you do!	约翰娜	比起身为骑士的你，\n还是我更了解蕾斯娜！	約翰娜	關於蕾斯娜的事情，\n我比身為騎士的妳還要了解喔！
+Date_NPC1_02_01ID	67	Izana	イザナ	えー、そう？　じゃあ例えば？	Izana	You think so? Give me an example.	伊札娜	咦，是吗？比如说呢？	伊札娜	哦，是嗎？比如說呢？
+Date_NPC1_02_01ID	68	Johanna	ヨハナ	昨日は机の脚に足をぶつけて涙目だったし、\n一昨日は新しい本を買って\nずっと鼻歌を歌ってたわ！	Johanna	Yesterday she stubbed her toe on the desk and almost cried. The day before that, she was humming all day after buying a new book!	约翰娜	她昨天脚撞在桌腿上疼得泪眼朦胧，\n前天买了本新书一直开心地哼歌来着！	約翰娜	昨天她踢到桌腳都痛到哭了，\n還有前天她買了一本新書後，\n一直在哼歌呢！
+Date_NPC1_02_01ID	69	Johanna	ヨハナ	あんたの知らないレスナのこと、\nたくさん知ってるんだから！	Johanna	I know way more about her than you do!	约翰娜	我可了解许多你不知道的蕾斯娜哦！	約翰娜	我知道很多妳不曉得的蕾斯娜的事！
+Date_NPC1_02_01ID	70	Izana	イザナ	……それは、知ってるっていうのとは、\n少し違う気がするなあ	Izana	I don't think knowing what she did is really knowing her, though.	伊札娜	这不太能说是了解吧……	伊札娜	……我覺得這個跟所謂的了解\n又好像有點不一樣耶。
+Date_NPC1_02_01ID	71	Johanna	ヨハナ	その内、あんたじゃなくて天才の私が\nレスナの騎士になっちゃうかも\nしれないわね！	Johanna	At this rate, my genius might just replace you as Resna's knight!	约翰娜	总有一天，说不定我这个天才\n就会成为蕾斯娜的骑士，\n而不是你！	約翰娜	搞不好在不久後，\n我這個天才就會成為蕾斯娜的騎士，\n而不是妳喔！
+Date_NPC1_02_01ID	72	Izana	イザナ	それはどうかな？	Izana	We'll see about that.	伊札娜	这可说不准哦。	伊札娜	那可難說喔？
+Date_NPC1_02_01ID	73	Izana	イザナ	ずーっとレスナちゃんと一緒にいた\nアタシを超えられる？	Izana	I've been by her side waaay longer than you—you really think you can top that?	伊札娜	我可是一直和蕾斯娜在一起的哦，\n你能超过我吗？	伊札娜	妳有辦法超越一直都跟蕾斯娜\n在一起的我嗎？
+Date_NPC1_02_01ID	74	Izana	イザナ	新しい服を手に入れたアタシは、\nまだまだ成長するんだから！	Izana	Plus, with this new outfit, I'm only going to get stronger!	伊札娜	我获得了新的衣服，\n还会继续进步的！	伊札娜	得到新衣服的我，還會繼續成長的！
+Date_NPC1_02_01ID	75	Johanna	ヨハナ	（レスナの騎士とかいって、\n　新しい服に浮かれているイザナ……）	Johanna	(You really think that new outfit makes you a better knight?)	约翰娜	（还说是蕾斯娜的骑士呢，\n　伊札娜因为新衣服就高兴成这样……）	約翰娜	（說自己是蕾斯娜的騎士，\n　正為新服裝而洋洋得意的伊札娜……）
+Date_NPC1_02_01ID	76	Johanna	ヨハナ	（あんたの実力、この私が見てやるわ！\n元・鴉の目は、ごまかせないのよ）	Johanna	(I might not be Crow anymore, but my crow's eye will tell if you're worthy of being Resna's knight!)	约翰娜	（就让我看看你的实力吧！\n　虽然已经隐退了，但鸦的眼睛可没那么好糊弄。）	約翰娜	（就讓本人看看妳的實力吧！\n　妳是瞞不過前‧烏鴉之眼的！）
+Date_NPC1_02_02ID	0	Johanna	ヨハナ	（えーっと、レスナに頼まれたのは\n　向こうの店で売ってる赤い薬草ね……）	Johanna	(Hmm, I think the red medicinal herb Resna wanted is at that shop over there...)	约翰娜	（唔，蕾斯娜是要我去那边的店里\n　买红色草药来着吧……）	約翰娜	（呃……蕾斯娜拜託我買的是對面那間店\n　賣的紅藥草吧……）
+Date_NPC1_02_02ID	1	Johanna	ヨハナ	（この依頼、天才である私が\n　一人でも完璧にやってみせるわ！）	Johanna	(As a genius, I know I can complete this request perfectly all on my own!)	约翰娜	（这个委托本天才一个人就能漂亮地完成！）	約翰娜	（這種委託，身為天才的我\n　就算一個人也能完美地達成！）
+Date_NPC1_02_02ID	2	Izana	イザナ	あれ？　おーい、ヨハナー！	Izana	Huh? Oh, Johanna!	伊札娜	咦？喂——约翰娜！	伊札娜	咦？喂～約翰娜──！
+Date_NPC1_02_02ID	3	Izana	イザナ	一人でどうしたの？	Izana	What are you doing out here all by yourself?	伊札娜	你一个人在做什么呀？	伊札娜	妳怎麼自己一個人呢？
+Date_NPC1_02_02ID	4	Johanna	ヨハナ	（イザナか。正直に答えたら、\n　付いてきそうね……）	Johanna	(Izana? If I tell her the truth, she'll probably want to tag along...)	约翰娜	（我要是老实回答了，感觉伊札娜会跟过来……）	約翰娜	（是伊札娜啊。老實回答的話，\n　她好像會跟過來……）
+Date_NPC1_02_02ID	5		選択肢	正直に答える	Selection	Tell her the truth	选项	老实回答	選項	老實回答
+Date_NPC1_02_02ID	6	Johanna	ヨハナ	レスナに買い物を頼まれたのよ。\n調合中で手を離せないからって	Johanna	Resna asked me to buy her something. She's too busy with her synthesis to leave the atelier.	约翰娜	蕾斯娜让我去买东西。\n她正忙着调合走不开。	約翰娜	蕾斯娜拜託我幫忙買東西，\n因為她正在調合，抽不開身。
+Date_NPC1_02_02ID	7	Izana	イザナ	そうなの？　それならアタシも行くよ！	Izana	Oh, really? Then I'll come with you!	伊札娜	是吗？那我也一起去吧！	伊札娜	是喔？那我也一起去！
+Date_NPC1_02_02ID	8	Johanna	ヨハナ	いらない！　私一人で十分よ！	Johanna	No! I can handle this by myself!	约翰娜	不需要！我一个人就可以！	約翰娜	不需要！我一個人去就夠了！
+Date_NPC1_02_02ID	9	Izana	イザナ	えー！\nでも、アタシはレスナちゃんの騎士だから！\nそれに、ヨハナ一人だと心配だし……	Izana	Aw, come on! I'm Resna's knight! Plus, I can't let you run around all alone!	伊札娜	什么？\n可我是蕾斯娜的骑士啊！\n而且，让约翰娜一个人去我有些担心。	伊札娜	咦──？不過，我可是蕾斯娜的騎士！\n而且約翰娜妳一個人，我會擔心……
+Date_NPC1_02_02ID	10	Izana	イザナ	何のお買い物を頼まれたの？\n調合素材なら、あのお店かな……	Izana	What did she ask you to get? If it's synthesis materials, they're probably at that shop over there...	伊札娜	她让你买什么呀？\n调合素材的话应该在那家店里……	伊札娜	她要妳幫忙買什麼？\n調合素材的話，是去那間店吧……
+Date_NPC1_02_02ID	11		選択肢	散歩だと嘘をつく	Selection	Lie and say you're out on a walk	选项	撒谎说在散步	選項	騙她在散步。
+Date_NPC1_02_02ID	12	Johanna	ヨハナ	散歩中よ！　そういう気分なの。\nあんたには分からない領域の話よ	Johanna	I'm just out for a walk, that's all. You probably wouldn't understand why.	约翰娜	我正在散步呢！就是突然想散步。\n和你说了你也不懂。	約翰娜	我在散步！我就是想散散步。\n這是妳不懂的領域啦。
+Date_NPC1_02_02ID	13	Izana	イザナ	本当に？　なんか怪しいな～\nアタシの耳にピクピクくるよ～	Izana	Really? That sounds awfully suspicious. My ears are tingling!	伊札娜	真的吗？感觉很可疑啊。\n我的耳朵痒痒的。	伊札娜	真的嗎？有點可疑耶～\n我的耳朵在跳喔～
+Date_NPC1_02_02ID	14	Izana	イザナ	あっ！　その手に持っている紙は、\nレスナちゃんが愛用する覚書用紙！	Izana	Ah! That paper you're holding—that's the same paper Resna uses for her notes!	伊札娜	啊！你手上拿着的是蕾斯娜常用的便签纸！	伊札娜	啊！妳手上拿的紙，\n是蕾斯娜慣用的筆記用紙！
+Date_NPC1_02_02ID	15	Johanna	ヨハナ	なんで分かるのよ！\n……そうよ、買い物を頼まれたの！	Johanna	How did you know that?! Fine, yes, I'm doing some shopping for her!	约翰娜	你怎么会知道！\n是啦，她让我去买东西！	約翰娜	妳怎麼會知道！\n……對啦，她拜託我幫忙買東西！
+Date_NPC1_02_02ID	16	Izana	イザナ	それならアタシも行くよ！\n調合素材なら、あのお店かな？	Izana	Then I'll come with you! If it's synthesis materials, I think that shop is best.	伊札娜	那我也去！\n调合素材的话应该在那家店吧。	伊札娜	那我也一起去！\n調合素材的話，是去那間店吧？
+Date_NPC1_02_02ID	17		選択肢	ハンマーで誤魔化す	Selection	Distract her with a hammer	选项	用锤子糊弄过去	選項	用錘子蒙混過去。
+Date_NPC1_02_02ID	18	Johanna	ヨハナ	あっ！　あそこに\n空飛ぶ虹色超合金ハンマーが！	Johanna	Oh wow, look over there! A flying, rainbow-colored, super-alloy hammer!	约翰娜	啊！那边有个彩色超合金锤子在天上飞！	約翰娜	啊！那邊有一支彩虹色的超合金錘子\n在天上飛！
+Date_NPC1_02_02ID	19	Izana	イザナ	えっ！　どこどこ！？　ハンマーどこ！？	Izana	What? Where?! Where's the hammer?!	伊札娜	什么！哪里哪里？！锤子在哪里？！	伊札娜	咦！哪裡哪裡！？錘子在哪裡！？
+Date_NPC1_02_02ID	20	Johanna	ヨハナ	（流石、私。知力は百ってところね。\n今の内に逃げる！　買い物は一人で十分！）	Johanna	(Hehe, got her. My genius brain strikes again. Now I can escape and finish the shopping alone!)	约翰娜	（不愧是我，智商满分。\n　赶紧趁现在逃走！买东西我一个人就够了！）	約翰娜	（真不愧是我，智力大概一百分吧。\n　趁現在快逃！買東西我一個人就夠了！）
+Date_NPC1_02_02ID	21	Johanna	ヨハナ	く……この私に追いつくなんて。\nやるじゃない	Johanna	Tch. You actually caught up to me? Not bad.	约翰娜	唔……居然能追上我。\n有两下子嘛。	約翰娜	唔……竟然追上我了，妳挺厲害的嘛。
+Date_NPC1_02_02ID	22	Izana	イザナ	新しい服のおかげかな！\n身体が軽いよ！	Izana	All thanks to my new outfit! It makes me so quick and agile!	伊札娜	应该是新衣服的功劳吧！\n身体很轻快哦！	伊札娜	應該是多虧了新服裝吧！身體很輕盈！
+Date_NPC1_02_02ID	23	Izana	イザナ	ていうかヨハナ、なんで逃げるの！	Izana	But why were you trying to run away?	伊札娜	话说回来，你为什么要逃跑啊，约翰娜！	伊札娜	是說約翰娜，妳幹嘛跑掉啊！
+Date_NPC1_02_02ID	24	Izana	イザナ	一人じゃ心配だから、そのおつかい、\nアタシも付いて行くよ！	Izana	I'm worried when you're all alone, so let me help you out with the shopping!	伊札娜	你一个人去我有点担心，\n我陪你一起去跑腿吧！	伊札娜	妳一個人我會擔心，\n所以跑腿我也要跟妳一起去！
+Date_NPC1_02_02ID	25	Izana	イザナ	さーて、お目当ての物は、っと……\nわあ、いっぱいあるね	Izana	Okay, now where's that herb we need... Here we go! Wow, look at all the options!	伊札娜	让我看看要买的东西在哪里……\n哇，有好多啊。	伊札娜	我看看～要買的東西在……\n哇，好多喔。
+Date_NPC1_02_02ID	26	Johanna	ヨハナ	大きさも色も少しづつ違う……\nこれじゃたくさんありすぎよ！	Johanna	They're all a little different in size and color. Ugh, there are way too many!	约翰娜	大小和颜色各有些不同……\n 这也有点多过头了吧！	約翰娜	大小和顏色都有點不同……\n這種類也太多了吧！
+Date_NPC1_02_02ID	27	Johanna	ヨハナ	（同じ商品なのにいっぱいありすぎて、\n　どれが一番いいのかわからない……）	Johanna	(How am I supposed to know which one is the best? They're all the same herb...)	约翰娜	（相同的商品太多了，\n　都不知道该选哪个好了……）	約翰娜	（明明是同個商品卻有這麼多種類，\n　都搞不清楚哪個是最好的了……）
+Date_NPC1_02_02ID	28		選択肢	なんとなくで選ぶ	Selection	Pick one randomly	选项	凭感觉选择	選項	憑感覺挑選。
+Date_NPC1_02_02ID	29	Johanna	ヨハナ	……これかな	Johanna	I'll go with this one.	约翰娜	这个吧……	約翰娜	……選這個吧。
+Date_NPC1_02_02ID	30	Izana	イザナ	ヨハナ、どうしてそれを選んだの？	Izana	Why'd you pick that one, Johanna?	伊札娜	约翰娜，你为什么选了这个？	伊札娜	約翰娜，妳為什麼會選那個呢？
+Date_NPC1_02_02ID	31	Johanna	ヨハナ	別に。研ぎ澄まされた勘よ	Johanna	Dunno. My genius intuition, I guess.	约翰娜	没什么特别的，靠我敏锐的直觉罢了。	約翰娜	沒什麼，靠我敏銳的直覺啊。
+Date_NPC1_02_02ID	32	Izana	イザナ	ふーん	Izana	Hmm.	伊札娜	是吗。	伊札娜	哦～
+Date_NPC1_02_02ID	33	Izana	イザナ	勘でレスナちゃん好みの素材を選べるなんて\nさすが天才さんだ	Izana	Being able to pick the perfect material for Resna with just your intuition—I guess you really are a genius.	伊札娜	居然凭直觉就能选到蕾斯娜喜欢的素材，\n不愧是天才。	伊札娜	能靠直覺選出蕾斯娜喜歡的素材，\n真不愧是天才。
+Date_NPC1_02_02ID	34	Johanna	ヨハナ	何よ、そのレスナ好みの素材って	Johanna	What do you mean by that?!	约翰娜	蕾斯娜喜欢的素材？	約翰娜	妳說蕾斯娜喜歡的素材是什麼意思？
+Date_NPC1_02_02ID	35	Izana	イザナ	例えばこの素材なら、表面に照りがあって、\nそれでいて大きすぎないやつ！	Izana	Well, I always thought that Resna liked materials with a nice sheen, but not too big. Like this one here!	伊札娜	你看这个素材，表面有光泽，\n但又不会特别大！	伊札娜	比如說像這種素材，\n她都喜歡表面有光澤卻不會太大的。
+Date_NPC1_02_02ID	36		選択肢	イザナに相談する	Selection	Ask for Izana's advice	选项	和伊札娜商量	選項	與伊札娜商量。
+Date_NPC1_02_02ID	37	Johanna	ヨハナ	ねえ、イザナ。\nあんたはどれがいいと思う？	Johanna	Hey, Izana. Which one do you think is best?	约翰娜	哎，伊札娜。\n你觉得哪个好？	約翰娜	問一下喔，伊札娜。\n妳覺得哪個比較好？
+Date_NPC1_02_02ID	38	Izana	イザナ	うーんとね、これがいいと思う！	Izana	Hmm. I think this one's best!	伊札娜	我看看哦，感觉这个不错！	伊札娜	唔～我覺得這個比較好！
+Date_NPC1_02_02ID	39	Izana	イザナ	大きさも申し分ないし、鮮度もばっちり！\nこの後すぐ使うなら、これくらいがいいよ！	Izana	It's a good size, and it's really fresh! If Resna wants to use it right away, it should be ideal!	伊札娜	大小没得说，也非常新鲜！\n如果立刻就要用的话，这种就不错！	伊札娜	大小無可挑剔，而且也非常新鮮！\n待會就要使用的話，這樣的狀態就很適合了！
+Date_NPC1_02_02ID	40	Izana	イザナ	これはレスナちゃんも大満足のはず！	Izana	I'm sure she'll say it's perfect!	伊札娜	蕾斯娜应该也会非常满意的！	伊札娜	蕾斯娜應該也會超級滿意的！
+Date_NPC1_02_02ID	41	Johanna	ヨハナ	なんでそんなこと分かるのよ	Johanna	How do you know all that?!	约翰娜	你为什么会知道这些啊。	約翰娜	妳怎麼會知道這種事啊？
+Date_NPC1_02_02ID	42		選択肢	絶対これ！！	Selection	This one for sure!!	选项	肯定是这个！！	選項	絕對是這個！！
+Date_NPC1_02_02ID	43	Johanna	ヨハナ	いや、絶対これね！！\n天才の勘がそうだと告げているわ！	Johanna	No doubt about it—this is the one! My genius intuition says so!	约翰娜	不对，肯定该选这个！！\n我天才的直觉是这么说的！	約翰娜	不，絕對是這個啦！！\n天才的直覺是如此告訴我的！
+Date_NPC1_02_02ID	44	Izana	イザナ	おお！　ちなみにどうして？	Izana	Ooh! What made you choose that one?	伊札娜	哦！不过为什么要选这个呢？	伊札娜	哦哦！可以順便問一下原因嗎？
+Date_NPC1_02_02ID	45	Johanna	ヨハナ	色が綺麗なのと、\nこれがこの中で一番大きいからよ！	Johanna	It has a pretty color, and it's the biggest of all of them!	约翰娜	它的颜色很漂亮，\n而且是这里边个头最大的！	約翰娜	色澤很漂亮，而且這是裡面最大的一個！
+Date_NPC1_02_02ID	46	Izana	イザナ	おおー、ふむふむ、いい観点だねえ。\nだけどちょーっと惜しいかな	Izana	Oh, right, right. Good observations! But...you're just a little off.	伊札娜	哦！原来如此，这个观点不错。\n不过有点可惜。	伊札娜	哦～嗯嗯，這是個很好的著眼點喔。\n只不過有一點點可惜了。
+Date_NPC1_02_02ID	47	Johanna	ヨハナ	何が惜しいのよ！	Johanna	What do you mean, off?!	约翰娜	有什么好可惜的！	約翰娜	哪裡可惜啊！
+Date_NPC1_02_02ID	48	Izana	イザナ	この素材は大きすぎると成熟しきっていて、\n素材として使うには少し時期が遅いかも	Izana	If the material is too big, it means it's overripe. It might not be at its best for alchemy anymore.	伊札娜	这个素材太大，有些熟过头了，\n现在拿来做素材可能有点晚了。	伊札娜	這個素材長得太大就會徹底熟透，\n要當作素材使用的話，時期可能稍嫌晚了一點。
+Date_NPC1_02_02ID	49	Izana	イザナ	って、前にレスナちゃんが言ってた！	Izana	That's what Resna told me, anyway!	伊札娜	之前蕾斯娜这么说过。	伊札娜	蕾斯娜之前是這麼說的！
+Date_NPC1_02_02ID	50	Izana	イザナ	レスナちゃんは、これっくらいのが好きだよ	Izana	Resna likes them about this size.	伊札娜	蕾斯娜喜欢这样的。	伊札娜	蕾斯娜喜歡的是這種狀態的喔。
+Date_NPC1_02_02ID	51	Johanna	ヨハナ	どうしてそんなことがわかるのよ	Johanna	Why do you know that?!	约翰娜	你怎么连这个都知道啊。	約翰娜	為什麼妳會知道這種事啊？
+Date_NPC1_02_02ID	52	Izana	イザナ	アタシはこれまでたくさん、\nレスナちゃんと一緒に\n素材採取してきたからね！	Izana	I've gathered so many materials with Resna that I just know what she likes now!	伊札娜	因为我之前和蕾斯娜一起去\n采集过很多次素材了！	伊札娜	因為我一直以來跟蕾斯娜一起採集過\n非常多素材呀！
+Date_NPC1_02_02ID	53	Izana	イザナ	レスナちゃんが求めるものが\nわかっちゃうんだ！	Izana	I've got a pretty good sense of what she's looking for!	伊札娜	我知道蕾斯娜她想要什么！	伊札娜	蕾斯娜想要什麼樣的東西我都一清二楚！
+Date_NPC1_02_02ID	54	Izana	イザナ	よし、じゃあこれにしよっか。\nお会計してもらおう！	Izana	Come on, let's go with this one. Time to check out!	伊札娜	好了，就选这个吧。\n去结账吧！	伊札娜	好，那就選這個吧。請店家結帳囉！
+Date_NPC1_02_02ID	55	Izana	イザナ	無事におつかい終了、だね！	Izana	Looks like our shopping trip was a success.	伊札娜	顺利完成跑腿了！	伊札娜	順利買到東西了呢！
+Date_NPC1_02_02ID	56	Izana	イザナ	いやー、\nヨハナがレスナちゃんの騎士を名乗るのは、\nまだ早い早い！	Izana	I guess you're still a ways away from being able to call yourself Resna's knight.	伊札娜	哎呀，要想当蕾斯娜的骑士，\n约翰娜还差得很远呢！	伊札娜	哎呀～約翰娜要自稱是蕾斯娜的騎士還太早啦！
+Date_NPC1_02_02ID	57	Johanna	ヨハナ	なっ……調子に乗らないことね！\n今回はたまたまよ！	Johanna	Wha—! Don't get cocky! That was just luck!	约翰娜	什么……你少得意忘形了！\n这次只是特殊情况！	約翰娜	什麼……妳可別得意忘形！這次算妳運氣好！
+Date_NPC1_02_02ID	58	Johanna	ヨハナ	（イザナって、\n　ほんとレスナのことばっかり）	Johanna	(Izana really is all about Resna...)	约翰娜	（伊札娜她满脑子都是蕾斯娜呢。）	約翰娜	（伊札娜真的滿腦子都是蕾斯娜的事情。）
+Date_NPC1_02_02ID	59	Johanna	ヨハナ	（レスナと一緒じゃない時でも\n　ずっとレスナのこと考えていたりして）	Johanna	(Even when they aren't together, she's still always thinking about her.)	约翰娜	（不和蕾斯娜在一起的时候，\n　想的也都是蕾斯娜。）	約翰娜	（即使不在蕾斯娜身邊，也老是在為她著想。）
+Date_NPC1_02_02ID	60		選択肢	普段何考えてる？	Selection	What do you usually think about?	选项	平时在想些什么？	選項	妳平常都在想些什麼？
+Date_NPC1_02_02ID	61	Johanna	ヨハナ	あんたって、普段何考えてるの？	Johanna	Hey, what are you usually thinking about?	约翰娜	你平时都在想些什么？	約翰娜	妳平常都在想些什麼呢？
+Date_NPC1_02_02ID	62	Izana	イザナ	何って、\nレスナちゃん何してるかなー、とか	Izana	What am I thinking about? Hmm... Mostly about whatever Resna's up to!	伊札娜	想些什么？\n想蕾斯娜在做什么。	伊札娜	這個嘛，比如說現在蕾斯娜在做什麼啊～
+Date_NPC1_02_02ID	63	Izana	イザナ	今日はハンマーの調子がいいなーとか、\n騎士試験に向けてのこととか！	Izana	Oh, and how my hammer feels today, or how I'm going to pass the knight exam!	伊札娜	想今天锤子的状态很不错，\n还有和骑士考试有关的事！	伊札娜	今天錘子的狀態很不錯啊～\n或是騎士考試要做什麼準備之類的！
+Date_NPC1_02_02ID	64	Johanna	ヨハナ	ふーん。まあ、予想通りね	Johanna	Hmm. Pretty much what I expected.	约翰娜	这样啊，和我猜的一样呢。	約翰娜	哦～嗯，真是如我所料。
+Date_NPC1_02_02ID	65	Izana	イザナ	あとは、\nレスナちゃん次はなんの依頼受けるかなー、\n虫に怯えて泣いてないかなー、とか	Izana	I also wonder what kind of requests Resna will take on next—or if she's in tears again, scared of bugs...	伊札娜	还有就是，\n蕾斯娜下次会接受什么委托，\n有没有害怕虫子哭鼻子之类的。	伊札娜	再來的話，\n就是蕾斯娜接下來會承接什麼委託啊～\n有沒有被蟲子嚇哭啊～之類的。
+Date_NPC1_02_02ID	66	Johanna	ヨハナ	……予想以上だわ	Johanna	Okay, that's more than I expected.	约翰娜	还是超过我的想象了……	約翰娜	……這超乎我的預期了。
+Date_NPC1_02_02ID	67		選択肢	一人の日は何してる？	Selection	What do you do when you're alone?	选项	一个人的时候做些什么？	選項	一個人的日子都在做些什麼？
+Date_NPC1_02_02ID	68	Johanna	ヨハナ	あんた、一人の日は何してるのよ	Johanna	Hey, what do you on days that you're alone?	约翰娜	你一个人的时候会做些什么啊？	約翰娜	妳一個人的日子都在做些什麼呢？
+Date_NPC1_02_02ID	69	Izana	イザナ	鍛錬とか、ハンマーの手入れとかしてるよ！	Izana	Mostly train, or take care of my hammer.	伊札娜	锻炼还有保养锤子！	伊札娜	鍛鍊啊，或是保養錘子之類的！
+Date_NPC1_02_02ID	70	Izana	イザナ	試験に合格するために、\nレスナちゃんを支えるために、\n強くありたいからね！	Izana	I need to stay strong to support Resna and pass the knight exam!	伊札娜	为了能通过考试，为了能协助蕾斯娜，\n我想变得强大！	伊札娜	為了通過考試、\n為了協助蕾斯娜，\n我要確保實力不退步！
+Date_NPC1_02_02ID	71	Johanna	ヨハナ	イザナっぽいわね	Johanna	That's very...you.	约翰娜	很像伊札娜会做的事呢。	約翰娜	真符合伊札娜的作風呢。
+Date_NPC1_02_02ID	72	Izana	イザナ	あとは、\nレスナちゃんの次の行先どこかなーとか、\nそのための装備どうしようかなー、とか	Izana	I also think about where Resna might be going next, and what kind of gear I'll need there. Things like that.	伊札娜	还有就是，\n考虑蕾斯娜下次的目的地是哪里，\n装备要怎么办之类的。	伊札娜	再來的話，\n就是思考蕾斯娜接下來要去哪裡啊～\n要為此先準備好什麼裝備啊～之類的。
+Date_NPC1_02_02ID	73	Johanna	ヨハナ	やっぱレスナのこと考えてるんだ……	Johanna	You really do think about Resna all the time...	约翰娜	果然还是在记挂着蕾斯娜……	約翰娜	果然還是在思考蕾斯娜的事情嘛……
+Date_NPC1_02_02ID	74		選択肢	レスナ以外の趣味ある？	Selection	Do you have any hobbies besides Resna?	选项	除了蕾斯娜还有别的兴趣吗？	選項	有沒有除了蕾斯娜以外的興趣？
+Date_NPC1_02_02ID	75	Johanna	ヨハナ	イザナって、レスナ以外の趣味はあるの？	Johanna	Do you have any hobbies that aren't about Resna?	约翰娜	伊札娜，你除了蕾斯娜还有别的兴趣吗？	約翰娜	妳有沒有除了蕾斯娜以外的興趣呢？
+Date_NPC1_02_02ID	76	Izana	イザナ	別にレスナちゃんは趣味じゃないけれど……	Izana	First of all, Resna is not a hobby!	伊札娜	蕾斯娜不是我的兴趣啦……	伊札娜	蕾斯娜又不是我的興趣……
+Date_NPC1_02_02ID	77	Izana	イザナ	綺麗な武器を見るのは大好き！\n特にハンマー！　太ければ太いほどいい！	Izana	But I do love looking at amazing weapons! Especially hammers—the bigger, the better!	伊札娜	我喜欢欣赏漂亮的武器！\n尤其是锤子！越粗越好！	伊札娜	我非常喜歡欣賞漂亮的武器喔！\n尤其是錘子！越大越好！
+Date_NPC1_02_02ID	78	Izana	イザナ	いいハンマーを持つと、これで\nレスナちゃんをもっと支えられるって\n気合が入るよ！	Izana	Having a good hammer by my side makes me confident that I can support Resna even better!	伊札娜	当我举起一把好锤子，\n想着能更好地协助蕾斯娜，\n全身就充满了干劲！	伊札娜	一拿到做工精細的錘子，\n我就會燃起一股鬥志，\n覺得自己能為蕾斯娜提供更多助力！
+Date_NPC1_02_02ID	79	Johanna	ヨハナ	やっぱりレスナのこと考えてるんだ……	Johanna	You really are always thinking about Resna...	约翰娜	果然想的还是蕾斯娜……	約翰娜	果然還是在思考蕾斯娜的事情嘛……
+Date_NPC1_02_02ID	80	Izana	イザナ	あっ、時間！　ほら、ヨハナ！\n素材がだめになる前に早く帰らなきゃ！\nレスナちゃんが待ってるんでしょ？	Izana	Oh no, look at the time! Johanna, we have to get back before the materials go bad! Resna's waiting, right?	伊札娜	啊，时间不早了！好了，约翰娜！\n趁着素材还能用得赶紧回去！\n蕾斯娜还在等你吧？	伊札娜	啊，太晚了！動作快，約翰娜！\n妳得趁素材壞掉前趕緊回去！\n蕾斯娜還在等妳吧？
+Date_NPC1_02_02ID	81	Johanna	ヨハナ	言われなくてももう帰るわよ。\nイザナ、あんたも来る？	Johanna	You don't need to tell me that. Are you coming too?	约翰娜	不用你说我也打算回去了。\n伊札娜，你一起来吗？	約翰娜	不用妳說我也要回去了。\n伊札娜，妳也要來嗎？
+Date_NPC1_02_02ID	82	Izana	イザナ	うーん、\n行きたいんだけど、実はアタシも今\nお父さんから頼まれたおつかい中でさ	Izana	Hmm... I want to, but I'm in the middle of running an errand for my dad.	伊札娜	唔……虽然很想去，\n但其实我现在正在帮我爸爸跑腿呢。	伊札娜	唔～\n雖然很想去，\n但我其實是出來幫爸爸跑腿的。
+Date_NPC1_02_02ID	83	Izana	イザナ	また今度行くって、\nレスナちゃんに伝えといて！	Izana	Tell Resna I'll drop by next time, okay?	伊札娜	你跟蕾斯娜说我下次再去！	伊札娜	我下次再去吧，幫我向蕾斯娜說一聲！
+Date_NPC1_02_02ID	84	Izana	イザナ	またね、ヨハナ！\n寄り道しないでまっすぐ帰るんだよー！	Izana	See you, Johanna! And make sure you head straight home!	伊札娜	再见啦，约翰娜！\n要赶紧回去哦，不要绕远路！	伊札娜	再見囉，約翰娜！\n別繞去其他地方，要直接回家喔～！
+Date_NPC1_02_02ID	85	Johanna	ヨハナ	言われなくても分かってるわよ！	Johanna	I know! Stop treating me like a child!	约翰娜	不用你说我也知道！	約翰娜	不用妳說我也知道啦！
+Date_NPC1_02_02ID	86	Johanna	ヨハナ	（イザナはレスナのことをよく知っている）	Johanna	(Izana really does know Resna well...)	约翰娜	（伊札娜非常了解蕾斯娜。）	約翰娜	（伊札娜非常了解蕾斯娜。）
+Date_NPC1_02_02ID	87	Johanna	ヨハナ	（それもこれも、\n　イザナがレスナの友達として\n　ずっと一緒にいるから？）	Johanna	(I guess it's because they've been friends for so long...)	约翰娜	（这也是因为作为蕾斯娜的朋友，\n　伊札娜一直和她在一起吗？）	約翰娜	（這一切都是因為\n　伊札娜一直以朋友的身分\n　待在蕾斯娜身邊的關係嗎？）
+Date_NPC1_02_03ID	0	Johanna	ヨハナ	新しい服だかハンマーだか知らないけれど、\nこの天才に敵うと思わないことね！	Johanna	I don't care if you have a new outfit or hammer—there's no way you can beat my genius!	约翰娜	我不管什么新衣服什么锤子的，\n别以为能赢过我这个天才！	約翰娜	雖然我不懂什麼新服裝什麼錘子的，\n但可別以為妳贏得過我這個天才喔！
+Date_NPC1_02_03ID	1	Johanna	ヨハナ	鍛錬だけど本気でいくわよ！	Johanna	It might be training, but don't expect me to go easy on you!	约翰娜	虽然只是锻炼，但我会拿出真本事的！	約翰娜	雖然是鍛鍊，但我會全力以赴的！
+Date_NPC1_02_03ID	2	Izana	イザナ	うん！　イザナ・ココシュカ！\nレスナちゃんの騎士の力、見せてあげる！	Izana	That's what I like to hear! I'll show you the strength of Resna's knight, Izana Kokoschka!	伊札娜	嗯！我伊札娜·柯克西卡！\n会让你见识见识蕾斯娜骑士的实力的！	伊札娜	嗯！伊札娜‧柯克西卡！\n會讓妳見識到蕾斯娜的騎士有多厲害！
+Date_NPC1_02_03ID	3	Izana	イザナ	もしここにレスナちゃんがいたら、どっちかじゃなく、\n絶対、二人とも頑張れー！って言うよね	Izana	If Resna were here, she wouldn't cheer for just one of us—I bet she'd be cheering for both of us!	伊札娜	如果蕾斯娜在这里的话，肯定不会只给一方加油，\n而是会说“你们两个都要加油呀！”	伊札娜	如果蕾斯娜在這裡，她肯定不會只幫一邊加油，\n而是會說「妳們兩個都要加油喔！」這樣吧。
+Date_NPC1_02_03ID	4	Johanna	ヨハナ	あはは、言いそー！	Johanna	Haha, you're right!	约翰娜	啊哈哈，感觉她会这么说！	約翰娜	啊哈哈，很像她會說的話～！
+Date_NPC1_02_03ID	5	Johanna	ヨハナ	それで、二人とも怪我しないように、って\n回復薬の準備とかしてくれてるんじゃない？	Johanna	And she'd probably have medicine ready, just in case one of us got hurt.	约翰娜	然后蕾斯娜应该会让我们两个注意别受伤，\n给我们准备恢复药吧？	約翰娜	而且為了避免我們兩個受傷，\n她應該還會準備好回復藥吧？
+Date_NPC1_02_03ID	6	Izana	イザナ	あはは、うん、そうかも！	Izana	Haha, yeah, that sounds about right!	伊札娜	哈哈哈，嗯，很有可能！	伊札娜	啊哈哈，對，有可能喔！
+Date_NPC1_02_03ID	7	Izana	イザナ	ほら、まだまだいくよ！	Izana	Come on! We're not done yet!	伊札娜	我要继续攻击了！	伊札娜	來，還早得很呢！
+Date_NPC1_02_03ID	8	Johanna	ヨハナ	受けて立つわ！	Johanna	Bring it on!	约翰娜	放马过来！	約翰娜	放馬過來吧！
+Date_NPC1_02_03ID	9	Izana	イザナ	はぁ、はぁ、\nやっぱヨハナは速いなー！　すごいよー！	Izana	*Huff* *Huff* You really are so fast, Johanna! It's incredible!	伊札娜	呼、呼。\n约翰娜速度真快呀！好厉害！	伊札娜	呼、呼、妳果然身手很矯健耶～！\n太厲害了～！
+Date_NPC1_02_03ID	10	Johanna	ヨハナ	あんたもまあまあやるじゃない。丸あげるわ	Johanna	You're not so bad yourself. I'd say you passed.	约翰娜	你也有两下子嘛。我认可你了。	約翰娜	妳也滿厲害的嘛。給妳一個嘉獎。
+Date_NPC1_02_03ID	11	Izana	イザナ	えへへ、ありがと！　丸もらった！	Izana	Hehe, thanks! I'll take that!	伊札娜	嘿嘿，谢谢！得到认可了！	伊札娜	嘿嘿，謝謝！得到嘉獎了！
+Date_NPC1_02_03ID	12	Izana	イザナ	ふぅ、少し疲れたし、\nこのままちょっと休憩しよっか	Izana	Phew, I'm a little beat now. How about we take a break?	伊札娜	呼，有点累了，\n就这样稍微休息一下吧。	伊札娜	呼～有點累了，就這樣休息一下吧。
+Date_NPC1_02_03ID	13	Johanna	ヨハナ	いいわよ	Johanna	Okay.	约翰娜	好啊。	約翰娜	可以啊。
+Date_NPC1_02_03ID	14	Johanna	ヨハナ	……イザナって、毎日毎日鍛錬しているわよね	Johanna	You train every single day, don't you?	约翰娜	伊札娜，你每天都在锻炼啊。	約翰娜	……伊札娜妳天天都在鍛鍊吧。
+Date_NPC1_02_03ID	15	Izana	イザナ	うん。レスナちゃんの騎士として強くなって、\nレスナちゃんの目標についていきたいからね！	Izana	Yeah. As Resna's knight, I want to get stronger so I can always keep up with her goals.	伊札娜	嗯。作为蕾斯娜的骑士我要变得更强，\n 去追随她的目标！	伊札娜	嗯，我身為蕾斯娜的騎士要變得更強，\n跟隨她一起追逐目標呀！
+Date_NPC1_02_03ID	16	Johanna	ヨハナ	やっぱりレスナのためなのね。イザナらしいわ	Johanna	Everything for Resna, huh? That pretty much defines you now.	约翰娜	果然还是为了蕾斯娜啊。真像伊札娜的作风。	約翰娜	果然是為了蕾斯娜啊，很符合妳的作風。
+Date_NPC1_02_03ID	17	Johanna	ヨハナ	あんたは５年後も１０年後も、\nレスナのために！　って鍛錬してそうね	Johanna	"I bet even five or ten years from now, you'll still be shouting, ""For Resna!"" while you train."	约翰娜	感觉不管是再过5年还是10年，\n你都会为了蕾斯娜去锻炼呢。	約翰娜	不管經過5年、10年，感覺妳還是會口中說著\n「為了蕾斯娜！」而繼續鍛鍊呢。
+Date_NPC1_02_03ID	18	Izana	イザナ	……	Izana	...	伊札娜	……	伊札娜	……
+Date_NPC1_02_03ID	19	Izana	イザナ	レスナちゃんと旅を始めたばかりの頃、\nアタシ、自分の力不足に悩んだことがあったんだ	Izana	When Resna and I first started traveling together, I used to worry about not being strong enough.	伊札娜	刚和蕾斯娜开始旅行的时候，\n我曾因为自己能力不够而烦恼过。	伊札娜	剛開始和蕾斯娜踏上旅程的時候，\n我曾經為自己能力不足而感到煩惱。
+Date_NPC1_02_03ID	20	Izana	イザナ	その時は、ザスキアさんの紹介で知り合ったリラさんに\n鍛錬をつけてもらったりして	Izana	That's when Miss Saskia introduced me to Miss Lila, who taught me how to train properly.	伊札娜	那时，通过萨丝琪亚小姐的介绍我认识了莉拉小姐，\n并让她对我进行锻炼指导。	伊札娜	當時在薩絲琪亞小姐的牽線下認識了莉拉小姐，\n就拜託她來擔任我鍛鍊的切磋對象。
+Date_NPC1_02_03ID	21	Izana	イザナ	アタシはあの時、戦い方のコツを学んで\nレスナちゃんの騎士として大きく成長できたんだ！	Izana	That was when I learned how to fight—and grew a lot as Resna's knight.	伊札娜	那时我学习了战斗技巧，\n作为蕾斯娜的骑士获得了很大的进步！	伊札娜	我在那時候學會戰鬥的訣竅，\n並且作為蕾斯娜的騎士得到了大幅成長！
+Date_NPC1_02_03ID	22	Johanna	ヨハナ	ふーん	Johanna	Oh?	约翰娜	是吗。	約翰娜	哦～
+Date_NPC1_02_03ID	23	Izana	イザナ	力の使い方は教えてもらった……\nこれからは地道に修行を積み重ねないと	Izana	She taught me how to use my strength, but now it's all about building it up little by little.	伊札娜	她教给我了使用力量的方法……\n接下来必须要脚踏实地多多修行。	伊札娜	她教會了我運用力量的方法……\n我今後必須踏踏實實地勤加修行才可以。
+Date_NPC1_02_03ID	24	Izana	イザナ	もっともっと強くなる。\nいや、ならなくちゃ	Izana	I want to keep getting stronger and stronger—no, I HAVE to get stronger!	伊札娜	我要变得更强！\n不对，是必须要变强。	伊札娜	努力變得更強。不對，是必須變強。
+Date_NPC1_02_03ID	25	Izana	イザナ	夢を叶えるためにどんどん進むレスナちゃんを\n傍で支えていくためにも……！	Izana	I need to be stronger so I can stay by Resna's side and support her as she chases her dreams!	伊札娜	为了实现梦想，蕾斯娜在不断前进着。\n为了在一旁协助她我也要努力……！	伊札娜	這也是為了協助蕾斯娜實現夢想，\n陪她一起不斷向前邁進……！
+Date_NPC1_02_03ID	26	Izana	イザナ	うわあ！　急に降ってきたね	Izana	Whoa! The rain came out of nowhere!	伊札娜	哇！突然就下起雨来了。	伊札娜	嗚哇！突然下起雨來了呢。
+Date_NPC1_02_03ID	27	Johanna	ヨハナ	あーもう最悪！　こら雨！\nやみなさいよ！　私の命令よ！	Johanna	Ugh, this is the worst! Hey, rain! Stop right now! I demand it!	约翰娜	唉，真倒霉！雨你听着！\n快给我停下！这是我的命令！	約翰娜	啊～真是糟透了！這雨好煩啊！\n快停下！這是我的命令！
+Date_NPC1_02_03ID	28	Izana	イザナ	今日はこれで解散にしよっか。\n気をつけて帰ってね！	Izana	I suppose we should call it a day. Get home safe, okay?	伊札娜	今天就到这里吧。\n回去的路上要小心哦！	伊札娜	今天就到此結束吧。回家路上要小心喔！
+Date_NPC1_02_03ID	29	Johanna	ヨハナ	（イザナ、そんなこと考えてるんだ。\nもっと強くならなくちゃ、か）	Johanna	(So that's what's on Izana's mind. She's determined to get stronger...)	约翰娜	（伊札娜原来在考虑这些啊。\n　必须变得更强吗……）	約翰娜	（原來伊札娜是這麼想的啊。\n　必須變得更強，是嗎？）
+Date_NPC1_02_03ID	30	Johanna	ヨハナ	（ふーん。天才である\n　私にはない不安だわ）	Johanna	(Hmph. I guess I've never worried about that kind of thing, being a genius and all.)	约翰娜	（哼，我这个天才可不会操心这些。）	約翰娜	（嗯……身為天才的我，\n　從未有過這種不安呢。）
+Date_NPC1_02_04ID	0	Johanna	ヨハナ	（うーん、どの本にしよう）	Johanna	(Hmm, which book should I choose?)	约翰娜	（唔，看哪本书好呢？）	約翰娜	（唔～要選哪本書呢？）
+Date_NPC1_02_04ID	1	Johanna	ヨハナ	（私が読む本を自分で選んだら、\n　レスナ、喜ぶかな）	Johanna	(I wonder if Resna will be happy if I pick a book on my own...)	约翰娜	（要是我自己挑选要看的书，\n　蕾斯娜会高兴吗？）	約翰娜	（我親自挑選要讀的書，蕾斯娜會高興嗎？）
+Date_NPC1_02_04ID	2	Johanna	ヨハナ	あ、イザナ	Johanna	Oh, Izana.	约翰娜	啊，伊札娜。	約翰娜	啊，伊札娜。
+Date_NPC1_02_04ID	3	Izana	イザナ	あ、ヨハナ！\nまた会ったね！	Izana	Hey, Johanna! Fancy meeting you here!	伊札娜	啊，是约翰娜呀！\n又见面了！	伊札娜	啊，約翰娜！又見面了呢！
+Date_NPC1_02_04ID	4	Izana	イザナ	今日はどうしたの？	Izana	What are you up to today?	伊札娜	今天有什么事吗？	伊札娜	妳今天怎麼來這裡呢？
+Date_NPC1_02_04ID	5	Johanna	ヨハナ	別に！　ちょっと歩いてただけよ。\nあんたは？	Johanna	N-Nothing, just out for a walk. What about you?	约翰娜	没有！就是出来走一走。\n你呢？	約翰娜	沒事呀！只是稍微散散步而已。妳呢？
+Date_NPC1_02_04ID	6	Izana	イザナ	アタシは本を見に来たんだ！\nレスナちゃんほどじゃないけど、\nアタシも本、ちょっとは読むんだよ	Izana	I came to browse some books! I'm not as big of a reader as Resna, but I do read a little.	伊札娜	我是来看书的！\n虽然不像蕾斯娜那么爱读书，\n但我也会稍微看一看的。	伊札娜	我是來看書的！\n雖然沒有蕾斯娜那麼愛閱讀，\n但我也會看一點喔。
+Date_NPC1_02_04ID	7	Izana	イザナ	でも今日は買うつもりないから、\n店頭に並んでいるのを見るだけ	Izana	I'm not planning on buying anything today, though—just checking out what's on display.	伊札娜	不过今天不打算买，\n就只看看摆在店头的这些。	伊札娜	不過我今天沒有買書的打算，\n只是來看看架上的書而已。
+Date_NPC1_02_04ID	8	Izana	イザナ	ヨハナも一緒に見てく？	Izana	Do you want to take a look with me?	伊札娜	约翰娜，你要不要一起看？	伊札娜	約翰娜也要一起看嗎？
+Date_NPC1_02_04ID	9	Johanna	ヨハナ	まあ、どうしてもっていうなら\n見てやってもいいけど……	Johanna	Well, if you insist, I suppose I could join you...	约翰娜	你要是非要看的话，\n陪你看一会儿也行……	約翰娜	這個嘛，如果妳堅持的話，\n我是可以陪妳看看啦……
+Date_NPC1_02_04ID	10	Izana	イザナ	あ！　この本、レスナちゃんが好きそう！\n今度教えてあげよっと	Izana	Oh! This book looks like something Resna would love! I'll have to tell her about it later.	伊札娜	啊！感觉这本书蕾斯娜会喜欢！\n下次和她说吧。	伊札娜	啊！這本書蕾斯娜應該會喜歡喔！\n下次告訴她好了。
+Date_NPC1_02_04ID	11	Johanna	ヨハナ	（たしかにこの本の作者名、\n　アトリエで何度か見たやつだわ）	Johanna	(Yeah, I've seen that author's name a few times in the atelier before...)	约翰娜	（我的确在炼金工房\n　看到过好多次这本书的作者名。）	約翰娜	（這本書的作者名字，\n　確實在鍊金工房看過幾次。）
+Date_NPC1_02_04ID	12	Johanna	ヨハナ	（……あ、あの本、イザナが好きそう）	Johanna	(Hmm, this book looks like one that Izana would like...)	约翰娜	（……啊，感觉伊札娜会喜欢那本书。）	約翰娜	（……啊，那本書感覺伊札娜會喜歡。）
+Date_NPC1_02_04ID	13		選択肢	『双剣少女の英雄譚』	Selection	"""The Heroine with Twin Swords"""	选项	《双剑少女英雄传》	選項	《雙劍少女英雄傳》
+Date_NPC1_02_04ID	14	Johanna	ヨハナ	これ、「英雄」って書いてある。\nイザナ、好きでしょ？	Johanna	"This one says ""heroine"" on it. You like stories about heroes, right?"	约翰娜	伊札娜应该喜欢这本写着“英雄”的书吧？	約翰娜	這本書上面寫著「英雄」。\n伊札娜妳應該會喜歡吧？
+Date_NPC1_02_04ID	15	Izana	イザナ	うん！　英雄譚好き！　わくわくする！\nこれ読んだことないやつだ！	Izana	Yeah! I love heroic stories; they always get me so excited. I've never read this one before!	伊札娜	嗯！我喜欢英雄传！看得人心潮澎湃！\n这本我还没看过呢！	伊札娜	嗯！我喜歡英雄傳記！會很興奮！\n這本書我沒看過耶！
+Date_NPC1_02_04ID	16	Izana	イザナ	主人公、双剣の女の子だって。\nヨハナみたいだね！\n今度買いに来ようかな～	Izana	The main character is a heroine who uses twin swords. Just like you, Johanna! Maybe I'll buy this one next time.	伊札娜	主角是用双剑的女生啊。\n好像约翰娜哦！\n下次要不买来看看吧！	伊札娜	上面寫說主角是拿著雙劍的女孩子。\n好像約翰娜喔！下次來買好了～
+Date_NPC1_02_04ID	17	Izana	イザナ	教えてくれてありがと！　ヨハナ！	Izana	Thanks for showing me, Johanna!	伊札娜	谢谢你告诉我，约翰娜！	伊札娜	約翰娜！謝謝妳告訴我！
+Date_NPC1_02_04ID	18	Johanna	ヨハナ	ふん！　私に感謝しなさい！	Johanna	Hmph! At least you're grateful!	约翰娜	嗯！好好感谢我吧！	約翰娜	哼！好好感謝我吧！
+Date_NPC1_02_04ID	19		選択肢	『恋情詩歌集』	Selection	"""Collection of Love Poems"""	选项	《恋情诗歌集》	選項	《戀情詩歌集》
+Date_NPC1_02_04ID	20	Johanna	ヨハナ	これ、\n表紙の色がイザナのいつもの服と同じ色。\nどう？	Johanna	Look at this one. The cover's the same color as your usual outfit. Maybe you'd like it?	约翰娜	这本书封面的颜色\n和伊札娜常穿的衣服颜色一样。\n你觉得怎么样？	約翰娜	這本書的封面顏色跟伊札娜平常穿的衣服一樣。\n妳覺得如何？
+Date_NPC1_02_04ID	21	Izana	イザナ	れ、恋情？！　ヨハナ、\nちなみにこの本の内容って……	Izana	L-Love poems? Do you know what those are, Johanna?	伊札娜	恋、恋情？！约翰娜，\n这本书的内容是……	伊札娜	戀、戀情？！約翰娜，\n順帶一問，這本書的內容是……
+Date_NPC1_02_04ID	22	Johanna	ヨハナ	アタシは全く知らないわよ、\n選ばれし者の勘で選んだだけ	Johanna	No idea. I just picked it with my genius intuition.	约翰娜	我不清楚啊。\n只不过是凭被选中之人的直接选出来的。	約翰娜	我完全不知道喔，\n只是憑天選之人的直覺來選的。
+Date_NPC1_02_04ID	23	Izana	イザナ	まあそうなんだけど……\nこれはまだアタシたちには早いかも！	Izana	Right... I think we might still be a bit young to really enjoy this one.	伊札娜	话是这么说……\n但这种对我们来说也许太早了！	伊札娜	原來是這樣……\n但這本書對我們來說可能太早了！
+Date_NPC1_02_04ID	24		選択肢	『生きている筋肉～顎～』	Selection	"""Living Muscles: The Jaw"""	选项	《有生命的肌肉——下颚》	選項	《活著的肌肉～下巴篇～》
+Date_NPC1_02_04ID	25	Johanna	ヨハナ	この本、「筋肉」って書いてある。\nイザナ、好きなんじゃない？	Johanna	"This one says ""muscle"" on it, it should be right up your alley."	约翰娜	这本书上写着“肌肉”。\n伊札娜应该会喜欢吧？	約翰娜	這本書上面寫著「肌肉」。\n伊札娜妳應該會喜歡吧？
+Date_NPC1_02_04ID	26	Izana	イザナ	ヨハナ文字すらすら読めてる！　すごい！	Izana	Wow, Johanna! You really can read even really tough words now!	伊札娜	约翰娜都看得懂这么多字了！好厉害！	伊札娜	約翰娜可以很流暢地讀著文字！好厲害！
+Date_NPC1_02_04ID	27	Izana	イザナ	たしかに\n筋力強化には力を入れているけれど……\nうーん、顎かあ	Izana	I do enjoy my muscle training, but the jaw? I'm not so sure about that one...	伊札娜	我的确有在强化肌肉上下功夫，但是……\n唔，下颚啊……	伊札娜	我的確有努力在強化肌力啦……\n不過，下巴啊。
+Date_NPC1_02_04ID	28	Izana	イザナ	機会があったら読んでみるね	Izana	Maybe I'll read it if I find the time.	伊札娜	有机会我会看看的。	伊札娜	有機會再讀讀看吧。
+Date_NPC1_02_04ID	29	Izana	イザナ	あ、あの本……\n『耳の形でみる未来〈獣耳編〉』だって。\n未来かあ……	Izana	"Oh! Look at that book—""Predicting the Future by Ear Shape: Beast Edition."" The future, huh?"	伊札娜	啊，那本书……\n《从耳朵形状看到未来（兽耳篇）》\n未来啊……	伊札娜	那、那本書……\n寫著《以耳朵形狀判斷未來（獸耳篇）》耶。\n未來啊……
+Date_NPC1_02_04ID	30	Johanna	ヨハナ	ふーん。\n耳で未来がわかるなんてばかばかしい	Johanna	Pfft. Predicting the future through ear shapes? That's ridiculous.	约翰娜	唔。\n通过耳朵就能看到未来，也太蠢了。	約翰娜	哦～用耳朵判斷未來也太愚蠢了吧。
+Date_NPC1_02_04ID	31	Johanna	ヨハナ	イザナ、もしかしてあんた、\nこういうの信じてるの？\n……イザナ？	Johanna	Wait. You don't actually believe this stuff, do you? Izana?	约翰娜	伊札娜，你该不会相信这个吧？\n伊札娜……？	約翰娜	伊札娜，妳該不會相信這種東西吧？\n……伊札娜？
+Date_NPC1_02_04ID	32	Johanna	ヨハナ	（もしかして、この間みたいに\n　また不安になってる？）	Johanna	(Is she feeling worried again, like before?)	约翰娜	（她该不会和之前一样，\n　又在担心吧？）	約翰娜	（難道跟之前一樣又感到不安了嗎？）
+Date_NPC1_02_04ID	33	Johanna	ヨハナ	……もう！\nイザナ、こっちに来て！	Johanna	Ugh! Izana, come here!	约翰娜	真是的！\n伊札娜，过来！	約翰娜	……真是的！伊札娜，妳過來這邊！
+Date_NPC1_02_04ID	34	Izana	イザナ	わ、ちょっ、ヨハナ？！	Izana	Wha—? Johanna?!	伊札娜	哇，等一下啊，约翰娜？！	伊札娜	哇，等……約翰娜？！
+Date_NPC1_02_04ID	35	Izana	イザナ	急にどうしたの、ヨハナ	Izana	What's gotten into you, Johanna?	伊札娜	你突然这是怎么了，约翰娜？	伊札娜	約翰娜，妳突然間怎麼了？
+Date_NPC1_02_04ID	36	Johanna	ヨハナ	それはこっちのセリフ！\nこの間から、あんた様子変よ！	Johanna	That's my line! You've been acting weird ever since the other day!	约翰娜	这话该我问你才对！\n从之前开始你就很奇怪！	約翰娜	這是我要說的才對！\n妳從之前開始就不太對勁耶！
+Date_NPC1_02_04ID	37	Johanna	ヨハナ	（今のイザナに必要なことは……）	Johanna	(I know what Izana needs right now...)	约翰娜	（现在伊札娜需要的是……）	約翰娜	（伊札娜現在所需要的是……）
+Date_NPC1_02_04ID	38		選択肢	鍛錬したいなら相手になるわよ！	Selection	If you want training, I'll take you on!	选项	你要是想锻炼的话，我来当你的对手！	選項	想鍛鍊的話我來當妳的對手吧！
+Date_NPC1_02_04ID	39	Johanna	ヨハナ	鍛錬したいなら相手になるわよ！	Johanna	If you want training, I'll take you on!	约翰娜	你要是想锻炼的话，我来当你的对手！	約翰娜	想鍛鍊的話我來當妳的對手吧！
+Date_NPC1_02_04ID	40	Izana	イザナ	え、急に？！\nどうしたの？	Izana	What? Why right now?!	伊札娜	咦，这么突然？！\n这是怎么了？	伊札娜	咦，這麼突然？！妳是怎麼了？
+Date_NPC1_02_04ID	41	Johanna	ヨハナ	どうしたのって、あんた、\n強くなりたいって言ってたじゃない	Johanna	Why? You said you wanted to get stronger, right?	约翰娜	什么怎么了。\n你不是说想变强大吗？	約翰娜	還問為什麼，妳不是說過想要變強的嗎？
+Date_NPC1_02_04ID	42	Izana	イザナ	うん	Izana	Yeah, but...	伊札娜	嗯。	伊札娜	嗯。
+Date_NPC1_02_04ID	43	Johanna	ヨハナ	だったらこの私と手合わせすれば\nいいじゃない！	Johanna	Then let's have a match! No better way to do it!	约翰娜	那和我比试不就行了！	約翰娜	既然如此，只要跟我切磋切磋不就好了！
+Date_NPC1_02_04ID	44	Izana	イザナ	……うん。ありがとう、ヨハナ	Izana	True. Thanks, Johanna, but...	伊札娜	嗯……谢谢你，约翰娜。	伊札娜	……嗯。謝謝妳，約翰娜。
+Date_NPC1_02_04ID	45	Izana	イザナ	でも今日はもう鍛錬してきたし、\nやりすぎもよくないから	Izana	I've already trained today. It's never good to overdo it.	伊札娜	但我今天已经锻炼过了，\n过度锻炼也不好。	伊札娜	但我今天已經鍛鍊過了，努力過頭也不太好。
+Date_NPC1_02_04ID	46	Izana	イザナ	代わりに、少し話聞いてくれる？	Izana	Instead, maybe we could just talk for a bit?	伊札娜	不过，你能听我说几句吗？	伊札娜	不過，妳可以陪我聊聊嗎？
+Date_NPC1_02_04ID	47		選択肢	この天才が話を聞いてやるわ！	Selection	My genius will hear you out!	选项	本天才就听你说说吧！	選項	我這個天才就陪妳聊聊吧！
+Date_NPC1_02_04ID	48	Johanna	ヨハナ	この天才が話を聞いてやるわ！\nだからなんか思うことがあるなら\n全部言いなさい！	Johanna	I think you need to talk about whatever's on your mind, so spill it! My genius mind will hear you out.	约翰娜	本天才就听你说说吧！\n你要是有什么想法就全都说出来吧！	約翰娜	我這個天才就陪妳聊聊吧！\n所以妳如果有什麼心事\n就儘管說出來！
+Date_NPC1_02_04ID	49	Izana	イザナ	あはは。ヨハナ、あまりにも\n上から過ぎて逆におかしいや	Izana	Haha. Only you would choose to word it like that, Johanna.	伊札娜	哈哈哈。\n你太过高高在上了反而有点好笑。	伊札娜	啊哈哈，約翰娜，\n妳姿態擺太高反而很好笑耶。
+Date_NPC1_02_04ID	50	Johanna	ヨハナ	何よ、なんか文句あるの？	Johanna	What? Got a problem with it?	约翰娜	怎么了，你有意见吗？	約翰娜	怎樣，有意見嗎？
+Date_NPC1_02_04ID	51	Izana	イザナ	ううん。\nん－、じゃあちょっと話聞いてもらおうかな	Izana	Nope! In fact, I think I will take you up on that offer to talk.	伊札娜	没有。\n唔，那我就和你说说吧。	伊札娜	沒有。唔～那妳就陪我聊聊吧。
+Date_NPC1_02_04ID	52		選択肢	レスナを呼んでやるわ！	Selection	I'm going to call Resna for you!	选项	我去叫蕾斯娜！	選項	我去叫蕾斯娜過來！
+Date_NPC1_02_04ID	53	Johanna	ヨハナ	レスナを呼んでやるわ！	Johanna	I'm going to call Resna for you!	约翰娜	我去叫蕾斯娜！	約翰娜	我去叫蕾斯娜過來！
+Date_NPC1_02_04ID	54	Izana	イザナ	ええっ？！　急にどうして？！	Izana	Wait, what?! Why?	伊札娜	咦？！为什么突然要去叫她？！	伊札娜	咦咦？！怎麼突然這麼說？！
+Date_NPC1_02_04ID	55	Johanna	ヨハナ	あんた、この間から様子変じゃない！\n何かあるなら、レスナに聞いてもらったら？	Johanna	You've been acting all weird! I think you need to talk to Resna if something's bothering you.	约翰娜	因为你前段时间开始就很奇怪啊！\n要是发生了什么，就去和蕾斯娜说说嘛？	約翰娜	妳從之前就一直不太對勁啊！\n要是有什麼煩惱，去問問蕾斯娜怎麼樣？
+Date_NPC1_02_04ID	56	Izana	イザナ	うーん……レスナちゃんに\n会いたくないわけじゃないんだけど	Izana	Hmm... It's not that I don't want to see her, but...	伊札娜	唔……我也不是不想见蕾斯娜，但是……	伊札娜	唔……我並不是不想見到蕾斯娜啦，
+Date_NPC1_02_04ID	57	Izana	イザナ	レスナちゃんに心配かけたくないし……	Izana	I just don't want to worry her...	伊札娜	我不想让她担心……	伊札娜	只是不想讓她擔心……
+Date_NPC1_02_04ID	58	Izana	イザナ	ヨハナ、よかったら少し話聞いてくれる？	Izana	Maybe I could talk to you instead, Johanna?	伊札娜	约翰娜，如果你愿意的话能听我说一说吗？	伊札娜	約翰娜，妳有空的話可以陪我聊聊嗎？
+Date_NPC1_02_04ID	59	Izana	イザナ	レスナちゃんには内緒にしてほしいんだけど\n……実はちょっと悩んでて	Izana	I don't want Resna to know, but I've been a bit worried recently.	伊札娜	但我希望你能对蕾斯娜保密。\n其实我有点烦恼……	伊札娜	希望妳不要告訴蕾斯娜……其實我有點煩惱。
+Date_NPC1_02_04ID	60	Johanna	ヨハナ	何に悩んでるのよ	Johanna	Worried about what?	约翰娜	什么烦恼？	約翰娜	妳在煩惱什麼啊？
+Date_NPC1_02_04ID	61	Izana	イザナ	旅が進んで、頼れる仲間もどんどん増えて、\nレスナちゃんは国にとっても、\nとても大事な人になってきてる	Izana	As our journey has progressed, we've gained more and more amazing allies, and Resna is becoming more important to the kingdom.	伊札娜	随着旅途的进行，可靠的伙伴越来越多，\n蕾斯娜也成了对国家来说很重要的人。	伊札娜	我們一路旅行下來，\n不僅可靠的夥伴越來越多，\n蕾斯娜在國內的地位也逐漸變得非常重要。
+Date_NPC1_02_04ID	62	Izana	イザナ	アタシはこれからも、ずっとずっと、\nそんなレスナちゃんの騎士として\nレスナちゃんを傍で支えていきたいんだけど	Izana	I want to stay by her side forever and ever, and support her in any way that I can as her knight, but...	伊札娜	我今后也想作为蕾斯娜的骑士，\n一直在她身边支持她。	伊札娜	我今後也想繼續擔任蕾斯娜的騎士，\n長長久久地陪伴在她身邊給予支持。
+Date_NPC1_02_04ID	63	Izana	イザナ	……ついていけなくなったら怖いなって	Izana	I'm worried I won't be able to keep up with her.	伊札娜	……可我很害怕会跟不上她。	伊札娜	……但是我很害怕跟不上她的腳步。
+Date_NPC1_02_04ID	64	Johanna	ヨハナ	……はあ？	Johanna	Huh?	约翰娜	啊……？	約翰娜	……什麼？
+Date_NPC1_02_04ID	65	Izana	イザナ	えっ？	Izana	Wh-What?	伊札娜	咦？	伊札娜	咦？
+Date_NPC1_02_04ID	66	Johanna	ヨハナ	そんなこと？	Johanna	That's it?	约翰娜	就这件事？	約翰娜	妳在煩惱這種事？
+Date_NPC1_02_04ID	67	Johanna	ヨハナ	あんたの不安は、\nレスナについていけなくなったら、とか\nレスナと離れ離れになったら、とか	Johanna	Your big worry is that you might not keep up with Resna or that you might be forced apart?	约翰娜	你担心的是怕跟不上蕾斯娜，\n害怕和她分开……	約翰娜	妳之所以感到不安，\n是怕自己跟不上蕾斯娜的腳步，\n還有怕跟她分開什麼的。
+Date_NPC1_02_04ID	68	Johanna	ヨハナ	ほーんとレスナのことばっかりね！	Johanna	You really think about nothing but her!	约翰娜	全部都是和蕾斯娜有关的事呢！	約翰娜	真的都跟蕾斯娜有關啊！
+Date_NPC1_02_04ID	69	Johanna	ヨハナ	騎士っていうには精神が弱いんじゃないの？	Johanna	You call yourself a knight, but just listen to the weak nonsense you're saying!	约翰娜	身为骑士，你的精神是不是太脆弱了？	約翰娜	以騎士而言，妳意志會不會太薄弱了？
+Date_NPC1_02_04ID	70	Izana	イザナ	うう……	Izana	Oof...	伊札娜	呜呜……	伊札娜	唔唔……
+Date_NPC1_02_04ID	71	Johanna	ヨハナ	よくわかんないけど、\nイザナは考えすぎよ！	Johanna	I really don't get why you're worried, but I know you're overthinking things.	约翰娜	虽然我不是很清楚，\n但是你想太多了！	約翰娜	雖然我不是很懂，但伊札娜妳想太多了啦！
+Date_NPC1_02_04ID	72	Johanna	ヨハナ	（この天才の私がびしっと言ってやるわ！）	Johanna	(Time for my genius to set Izana straight...)	约翰娜	（本天才就严厉地和她说说吧！）	約翰娜	（由我這個天才來好好點醒她！）
+Date_NPC1_02_04ID	73		選択肢	これからは天才の私が近くにいるわ	Selection	From now on, I'll be by your side.	选项	今后我这个天才会在你身边	選項	今後我這個天才會待在妳身邊
+Date_NPC1_02_04ID	74	Johanna	ヨハナ	これからは天才の私が近くにいるわ！	Johanna	From now on, you'll have my genius by your side!	约翰娜	今后我这个天才会在你身边！	約翰娜	今後我這個天才會待在妳身邊！
+Date_NPC1_02_04ID	75	Johanna	ヨハナ	あんたがついていけなくなったら\n鍛えてやるし、離れ離れになりそうなら\nいい知恵を貸してやるわよ！	Johanna	If you feel like you can't keep up, I'll train you. If you feel like you're being forced apart, I'll come up with a solution!	约翰娜	你跟不上的时候，\n我就来锻炼你，如果你们要分开了，\n我就把我的智慧借给你！	約翰娜	要是妳跟不上她，我就幫妳鍛鍊；\n要是妳們可能會分開，我就會幫妳出主意！
+Date_NPC1_02_04ID	76	Johanna	ヨハナ	どう？　心強いでしょ！	Johanna	What do you think? Feeling better?	约翰娜	怎么样？这下安心了吧！	約翰娜	如何？很可靠吧！
+Date_NPC1_02_04ID	77	Izana	イザナ	うん！　すっごく心強いよ！	Izana	Yeah! Thanks, Johanna!	伊札娜	嗯！非常安心！	伊札娜	嗯！非常可靠！
+Date_NPC1_02_04ID	78		選択肢	悩む暇があるならハンマーよ！	Selection	If you've got time to worry, it's hammer time!	选项	有时间烦恼不如舞锤！	選項	妳有空煩惱就去練習揮錘子吧！
+Date_NPC1_02_04ID	79	Johanna	ヨハナ	悩む暇があるならハンマーよ！	Johanna	If you've got time to worry, it's hammer time!	约翰娜	有时间烦恼不如舞锤！	約翰娜	妳有空煩惱就去練習揮錘子吧！
+Date_NPC1_02_04ID	80	Izana	イザナ	ハンマー？！	Izana	Hammer time?!	伊札娜	舞锤？！	伊札娜	錘子？！
+Date_NPC1_02_04ID	81	Johanna	ヨハナ	あんたはレスナとハンマーでしょ！	Johanna	You're all about Resna and hammers, right?	约翰娜	你脑子里不是只有蕾斯娜和锤子吗！	約翰娜	妳最重視的就是蕾斯娜和錘子吧！
+Date_NPC1_02_04ID	82	Johanna	ヨハナ	レスナの傍にずっといたいなら、\n強くなればいいのよ！\nほら、ハンマーを振りなさいよ！	Johanna	If you want to stay by Resna's side, you just need to get stronger by swinging that hammer around!	约翰娜	如果想永远待在蕾斯娜身边，\n只要变强就行了！\n来，挥舞锤子吧！	約翰娜	如果妳想一直待在蕾斯娜身邊，\n那只要變強就好了啊！\n好了，去揮錘子吧！
+Date_NPC1_02_04ID	83	Izana	イザナ	ハ、ハンマー！！	Izana	H-Hammer time!!	伊札娜	锤、锤呀！！	伊札娜	錘、錘子！！
+Date_NPC1_02_04ID	84		選択肢	レスナに直接話してみなさいよ	Selection	Talk to Resna yourself.	选项	你直接和蕾斯娜谈谈吧	選項	直接去找蕾斯娜談談吧
+Date_NPC1_02_04ID	85	Johanna	ヨハナ	レスナに直接話してみなさいよ	Johanna	You need to talk to Resna yourself.	约翰娜	你直接和蕾斯娜谈谈吧。	約翰娜	直接去找蕾斯娜談談吧。
+Date_NPC1_02_04ID	86	Johanna	ヨハナ	レスナはきっと、\n強さとか騎士とか関係なく\nあんたと一緒にいてくれるわよ	Johanna	I'm sure Resna will want you by her side, no matter how strong you are or whether you're a knight.	约翰娜	不管你是否强大，是不是骑士，\n蕾斯娜一定会陪在你身边的。	約翰娜	蕾斯娜一定很願意跟妳在一起，\n不管妳實力強不強\n或者是不是騎士啦。
+Date_NPC1_02_04ID	87	Izana	イザナ	でも……それっていいのかな？	Izana	But is that really enough?	伊札娜	可是……这样可以吗？	伊札娜	可是……這樣沒關係嗎？
+Date_NPC1_02_04ID	88	Johanna	ヨハナ	いいかどうかは、\nあんたとレスナが決めることでしょ	Johanna	That's for you and Resna to decide.	约翰娜	可不可以也是你和蕾斯娜来决定的。	約翰娜	有沒有關係，是由妳和蕾斯娜來決定的吧？
+Date_NPC1_02_04ID	89	Izana	イザナ	そっか……	Izana	I guess so...	伊札娜	这样啊……	伊札娜	這樣啊……
+Date_NPC1_02_04ID	90	Izana	イザナ	アタシ、考えすぎていたかもしれない	Izana	Maybe you're right. I've been overthinking things.	伊札娜	可能是我想太多了。	伊札娜	妳可能想太多了。
+Date_NPC1_02_04ID	91	Izana	イザナ	ふふ、「天才の私が近くにいる」……\nあはは	Izana	Haha, I'll have your genius by my side... Hahaha.	伊札娜	呵呵，“今后我这个天才会在你身边”……\n哈哈哈。	伊札娜	呵呵，「我這個天才會待在妳身邊」……\n啊哈哈。
+Date_NPC1_02_04ID	92	Johanna	ヨハナ	な、何よ！	Johanna	Wh-Why are you laughing?!	约翰娜	怎、怎么啦！	約翰娜	怎、怎樣啊！
+Date_NPC1_02_04ID	93	Izana	イザナ	ありがとう！\nヨハナのおかげで元気でたよ！	Izana	Thanks, Johanna! You really cheered me up!	伊札娜	谢谢你！\n多亏了约翰娜，我又有精神了！	伊札娜	謝謝妳！多虧了約翰娜，我打起精神來囉！
+Date_NPC1_02_04ID	94	Izana	イザナ	アタシ、これからも\nレスナちゃんの騎士として頑張る！	Izana	I'm going to keep doing whatever I can to be the best knight for Resna!	伊札娜	今后我也要作为蕾斯娜的骑士加油！	伊札娜	我今後也會作為蕾斯娜的騎士繼續加油的！
+Date_NPC1_02_04ID	95	Johanna	ヨハナ	（やっぱりイザナは元気でいないとね）	Johanna	(I much prefer Izana when she's happy like this.)	约翰娜	（伊札娜就是要这么活力满满才行。）	約翰娜	（伊札娜果然要保持活力十足的模樣才行。）
+Date_NPC1_02_04ID	96	Johanna	ヨハナ	（こいつがうじうじしていると、\n　なんだかむかむかするのよね。\n　……なんで？）	Johanna	(When she gets all gloomy, it really annoys me for some reason. I wonder why...)	约翰娜	（她这么犹犹豫豫的，总让我觉得火大。\n　为什么呢……？）	約翰娜	（看到這傢伙猶豫不決的樣子，\n　我就會莫名一肚子火。\n　……這是為什麼呢？）
+Date_NPC1_02_04ID	97	Izana	イザナ	うーん……わからなくなってきちゃった	Izana	Hmm, I'm not so sure...	伊札娜	唔……搞不懂啊。	伊札娜	唔……越來越搞不懂了。
+Date_NPC1_02_04ID	98	Izana	イザナ	とりあえずハンマー振り回そうかな……	Izana	I guess I'll just go swing my hammer around for a bit...	伊札娜	总之先去挥锤吧……	伊札娜	總之去練習揮錘子吧……
+Date_NPC1_02_04ID	99	Johanna	ヨハナ	（ああ、もう！\n　レスナのことになると、\n　イザナ、めんどくさいところあるわね）	Johanna	(Oh, come on! Why does she become so annoying when it comes to Resna?)	约翰娜	（哎呀真是的！只要一牵扯到蕾斯娜，\n　伊札娜就会很麻烦。）	約翰娜	（哎，真是的！\n　一遇到蕾斯娜的事情，\n　伊札娜就會變得很麻煩耶。）
+Date_NPC1_02_04ID	100	Johanna	ヨハナ	（こういう時、\n　なんて言えばよかったのよ）	Johanna	(What am I supposed to say in moments like this?)	约翰娜	（这种时候说点什么好呢？）	約翰娜	（這種時候，我該說些什麼才好啊？）
+Date_NPC1_02_04ID	101	Izana	イザナ	未来か。未来に向けて、強くならないと	Izana	The future, huh? I've got to get stronger for the future.	伊札娜	将来啊。为了将来，我必须要强大起来。	伊札娜	未來啊。為了未來，必須變得更強才行。
+Date_NPC1_02_05ID	0	Izana	イザナ	おっじゃましまーす！	Izana	Hellooo!	伊札娜	我来了！	伊札娜	打擾了～！
+Date_NPC1_02_05ID	1	Izana	イザナ	レスナちゃーん！\nヨハナ、借りてくねー！	Izana	Resna! I'm borrowing Johanna for a bit!	伊札娜	蕾斯娜——！\n我找约翰娜！	伊札娜	蕾斯娜～！我借一下約翰娜喔～！
+Date_NPC1_02_05ID	2	Johanna	ヨハナ	え、ちょっ！	Johanna	Wait, what?!	约翰娜	咦，等一下！	約翰娜	咦，等……！
+Date_NPC1_02_05ID	3	Johanna	ヨハナ	ちょっとイザナ！\nいきなり何よ！	Johanna	Hey, Izana! What are you doing?!	约翰娜	等等，伊札娜！\n突然这是干什么呀！	約翰娜	等一下，伊札娜！妳急匆匆的幹嘛啦！
+Date_NPC1_02_05ID	4	Izana	イザナ	急にごめんね！\n今日は、ヨハナにお礼が言いたくって	Izana	Sorry for being so sudden! I just wanted to say thanks, Johanna.	伊札娜	不好意思哦，这么突然！\n今天我想和你道谢。	伊札娜	抱歉突然拉妳出來！\n我今天是想向妳道謝。
+Date_NPC1_02_05ID	5	Johanna	ヨハナ	お礼？	Johanna	Thanks?	约翰娜	道谢？	約翰娜	道謝？
+Date_NPC1_02_05ID	6	Izana	イザナ	うん。\nこの間は話聞いてくれてありがとう！	Izana	Yeah. Thanks for listening to me the other day!	伊札娜	嗯。\n谢谢你之前听我谈心！	伊札娜	嗯，謝謝妳上次陪我說話！
+Date_NPC1_02_05ID	7	Izana	イザナ	ヨハナのおかげで悩んでいるのが\n馬鹿らしくなって、\n気持ちが軽くなったよ！	Izana	After talking to you, worrying about it started to feel silly, and I felt the burden get a lot lighter.	伊札娜	多亏了约翰娜，\n我意识到我的烦恼很傻，\n现在心情已经变好了！	伊札娜	多虧了妳，我才開始覺得煩惱是件很愚蠢的事，\n心情都輕鬆起來了呢！
+Date_NPC1_02_05ID	8	Izana	イザナ	心なしかハンマーも軽い気がするんだ！\nほら見て！　えい、えい！	Izana	It even feels like my hammer got lighter! Look! Hyah! Yah!	伊札娜	不知道是不是错觉，感觉锤子都变轻了！\n看呀！嘿！嘿！	伊札娜	不知道是不是心理作用，感覺連錘子都變輕了！\n來，妳看！嘿、嘿！
+Date_NPC1_02_05ID	9	Johanna	ヨハナ	よく振り回せるわね、そんな大きいもの……	Johanna	I still don't know how you manage to swing something so big...	约翰娜	真亏你能挥舞那样的大家伙啊……	約翰娜	真虧妳揮得動那麼大的東西……
+Date_NPC1_02_05ID	10	Johanna	ヨハナ	そのハンマーも、服と同じで新しいのよね？	Johanna	That hammer—like your outfit—it's new, right?	约翰娜	那把锤子和你的衣服一样，都是新的吧？	約翰娜	那把錘子也和衣服一樣是新的吧？
+Date_NPC1_02_05ID	11	Izana	イザナ	うん！\nこれは鍛冶屋のお父さんと一緒に、\n情熱込めて作ったんだ！	Izana	Yeah! My dad and I put everything we had into making it at his smithy.	伊札娜	嗯！\n这是我和我做铁匠的爸爸一起\n倾注热情做出来的！	伊札娜	嗯！這是我和經營鐵匠鋪的爸爸\n一起傾注熱情打造出來的！
+Date_NPC1_02_05ID	12	Izana	イザナ	今まで以上にレスナちゃんを\n支えられるように、って	Izana	We made it so I could support Resna even better than before!	伊札娜	这样就能比以往更好地协助蕾斯娜了！	伊札娜	可以讓我比以往更幫得上蕾斯娜的忙。
+Date_NPC1_02_05ID	13	Izana	イザナ	大切なハンマー、\nよかったらヨハナも持ってみてよ	Izana	It really is my most precious hammer. Do you want to try holding it?	伊札娜	这是我最宝贵的锤子，\n不嫌弃的话你也拿拿看吧。	伊札娜	這是很重要的錘子，\n不介意的話，約翰娜也拿拿看吧。
+Date_NPC1_02_05ID	14	Johanna	ヨハナ	いいけど……	Johanna	Sure, I guess...	约翰娜	好吧……	約翰娜	是可以啦……
+Date_NPC1_02_05ID	15	Johanna	ヨハナ	わっ、ちょ、お、重……！	Johanna	Whoa! Ugh, it's...so...heavy!	约翰娜	哇，咦，好、好重……！	約翰娜	哇，等……好、好重……！
+Date_NPC1_02_05ID	16	Johanna	ヨハナ	（すっごく重い……）	Johanna	(And I mean HEAVY!)	约翰娜	（这也太重了……）	約翰娜	（真是重得要命……）
+Date_NPC1_02_05ID	17	Johanna	ヨハナ	（これは、レスナの騎士であるという\n　イザナの覚悟の重さなのかもしれない）	Johanna	(I guess this is the weight of Izana's resolve as Resna's knight.)	约翰娜	（也许这就是伊札娜她\n　身为蕾斯娜骑士的决心的重量吧。）	約翰娜	（這或許也代表了伊札娜身為蕾斯娜的騎士，\n　那份決心具有多重的分量吧。）
+Date_NPC1_02_05ID	18	Johanna	ヨハナ	ふー……\nはい、返すわ	Johanna	Phew... Here, take it back.	约翰娜	呼……\n好了，还给你。	約翰娜	呼……來，還給妳。
+Date_NPC1_02_05ID	19	Izana	イザナ	重かった？	Izana	Was it heavy?	伊札娜	很重吗？	伊札娜	很重嗎？
+Date_NPC1_02_05ID	20	Johanna	ヨハナ	別に。これくらい余裕だけど	Johanna	Not really. Nothing I can't handle.	约翰娜	还行。这点程度小菜一碟。	約翰娜	不會啊，這點程度小意思啦。
+Date_NPC1_02_05ID	21	Johanna	ヨハナ	この先、\nこのハンマーが軽くなることがあったら	Johanna	But if you ever go back to using a lighter hammer...	约翰娜	之后如果这把锤子变轻了……	約翰娜	只不過，以後這把錘子變得輕一點的話，
+Date_NPC1_02_05ID	22	Johanna	ヨハナ	その時は私がレスナの騎士の座を\n奪っちゃうかもしれないわね！	Johanna	That might be when I swoop in and steal your title as Resna's knight!	约翰娜	到时候也许我会夺走蕾斯娜骑士的位置哦！	約翰娜	到時候我說不定就會奪走\n蕾斯娜騎士的寶座喔！
+Date_NPC1_02_05ID	23	Izana	イザナ	うん、望むところだよ！\nまあ、そんな日は来ないと思うけどね！	Izana	Bring it on! Not that I think that day will ever come!	伊札娜	嗯，正合我意！\n不过那一天应该不会到来了！	伊札娜	嗯，正合我意！\n不過，我覺得妳是等不到那一天的！
+Date_NPC1_02_05ID	24	Izana	イザナ	アタシはこれからもレスナちゃんの騎士で、\n大親友だから！　ヨハナも一緒に頑張ろうね！	Izana	I'll always be Resna's knight and her best friend! Let's both do whatever we can to help her!	伊札娜	今后我也是蕾斯娜的骑士，\n也是最好的朋友！约翰娜也一起加油吧！	伊札娜	我今後也會是蕾斯娜的騎士，當她的知心摯友！\n約翰娜也一起加油吧！
+Date_NPC1_02_05ID	25	Johanna	ヨハナ	私もレスナについていく！\n言われなくたって負けないんだから！	Johanna	I'll be at Resna's side too! And just know that I don't plan on losing to you!	约翰娜	我也会追随蕾斯娜的！\n不用你说我也不会输给你！	約翰娜	我也會跟上蕾斯娜的腳步！\n就算妳不說，我也不會輸給妳的！
+Date_NPC1_02_05ID	26	Izana	イザナ	じゃあアタシたち、\nレスナちゃんも含めて三人で友達、仲良しだ！	Izana	Then we'll just have to be a triangle of friends! Together to the end!	伊札娜	那我们加上蕾斯娜，\n三个人都是相亲相爱的好朋友！	伊札娜	那我們兩個再加上蕾斯娜，\n三個人就是好朋友囉！
+Date_NPC1_02_05ID	27	Johanna	ヨハナ	はあ？！　ちがっ！\n私たちは……そう、協力者よ協力者！！	Johanna	Huh?! No! We're allies! Nothing more!	约翰娜	哈？才不是！\n我们是……对了，是帮手，帮手啦！！	約翰娜	什麼？！才不是！我們是……\n沒錯，是合作關係啦，合作關係！！
+Date_NPC1_02_05ID	28	Izana	イザナ	あはは、照れちゃって～。\nヨハナの気持ちは分かってるよ！	Izana	Haha, I can see you blushing! I think I know how you really feel, Johanna!	伊札娜	哈哈哈，你害羞了。\n我知道你的心思啦！	伊札娜	啊哈哈，害羞什麼啦～\n我明白妳的心情喔！
+Date_NPC1_02_05ID	29	Izana	イザナ	これからは一緒に\nレスナちゃんを支えていこう！	Izana	From here on out, let's work together to do whatever we can to support Resna.	伊札娜	今后我们也一起协助蕾斯娜吧！	伊札娜	我們今後就一起協助蕾斯娜吧！
+Date_NPC1_02_05ID	30	Izana	イザナ	まずはかっこいい連携技考えようよ！	Izana	First, we need to come up with some powerful combo attacks!	伊札娜	要先想一个帅气的双人招式！	伊札娜	首先來想個帥氣的聯手招式！
+Date_NPC1_02_05ID	31	Johanna	ヨハナ	あんたが天才の私についてこられるならね！	Johanna	Heh. As long as you can keep up with my genius!	约翰娜	那也得你能跟得上我这个天才才行！	約翰娜	這就要看妳能不能跟上我這個天才囉！
+Date_NPC1_02_05ID	32	Izana	イザナ	あ、でももうすぐおやつの時間だから、\n一旦アトリエ戻ろっか！	Izana	Oh, but it's almost snack time. Let's head back to the atelier!	伊札娜	啊，不过马上就到点心时间了，\n先回一趟炼金工房吧！	伊札娜	啊，不過馬上就是吃點心的時間了，\n先回去鍊金工房吧！
+Date_NPC1_02_05ID	33	Izana	イザナ	お菓子買ってって、\n三人で食べよ～！	Izana	Let's grab some snacks and eat together—all three of us!	伊札娜	买些点心，三个人一起吃吧！	伊札娜	買些點心回去，三個人一起吃～！
+Date_NPC1_02_05ID	34	Johanna	ヨハナ	（わかった。この間感じていたむかむかは、\n　あの時レスナに感じたものと\n　一緒だったんだ……）	Johanna	(I think I understand now. That weird feeling I had before... It's the same feeling I had with Resna.)	约翰娜	（我明白了。之前那种火大的感觉，\n　和那时对蕾斯娜的感觉是一样的……）	約翰娜	（我懂了。前陣子那種一肚子火的感覺，\n　跟那時候對蕾斯娜產生的情緒是一樣的……）
+Date_NPC1_02_05ID	35	Johanna	ヨハナ	（レスナ、イザナ、私の三人で友達……\n　ふん！　私とイザナがいれば、\n　どんな敵だって怖くないわ！）	Johanna	(With Resna, Izana, and me together—no, even with just Izana and me together, no enemy stands a chance!)	约翰娜	（蕾斯娜，伊札娜还有我，我们三个是朋友……\n　哼！只要有我和伊札娜在，\n　那就什么敌人都不怕！） 	約翰娜	（蕾斯娜、伊札娜和我三個人是朋友……\n　哼！只要有我和伊札娜在，\n　任何敵人都沒什麼好怕的！）

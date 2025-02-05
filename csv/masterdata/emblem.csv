@@ -1,0 +1,67 @@
+id	name	name_en	name_zh-CN	name_zh-TW	effect_name	effect_name_en	effect_name_zh-CN	effect_name_zh-TW
+1	武器調合の匠	Weapon Synthesis Artisan	武器调合巧匠	武器調合巧匠	武器の物攻{}	All weapons' P. ATK {}	武器物攻{}	武器的物攻{}
+2	防具調合の匠	Armor Synthesis Artisan	防具调合巧匠	防具調合巧匠	防具の物防{}	All armor's P.DEF {}	防具物防{}	防具的物防{}
+3	装飾品調合の匠	Accessory Synthesis Artisan	装饰品调合巧匠	裝飾品調合巧匠	装飾品のHP{}	All accessories' HP {}	装饰品HP{}	裝飾品的HP{}
+4	武器調合マスター	Weapon Synthesis Master	武器调合大师	武器調合大師	武器の魔攻{}	All weapons' M. ATK {}	武器魔攻{}	武器的魔攻{}
+5	防具調合マスター	Armor Synthesis Master	防具调合大师	防具調合大師	防具の魔防{}	All armor's M.DEF {}	防具魔防{}	防具的魔防{}
+6	装飾品調合マスター	Accessory Synthesis Master	装饰品调合大师	裝飾品調合大師	装飾品の素早さ{}	All accessories' SPD {}	装饰品敏捷{}	裝飾品的敏捷{}
+7	戦闘アイテム調合の匠	Battle Item Synthesis Artisan	战斗道具调合巧匠	戰鬥道具調合巧匠	戦闘アイテムの与ダメージ{}	Battle item damage dealt {}	战斗道具造成伤害{}	戰鬥道具的給予傷害{}
+8	回復アイテム調合の匠	Healing Item Synthesis Artisan	恢复道具调合巧匠	回復道具調合巧匠	戦闘アイテムのHP回復量{}	Battle item HP recovery potency {}	战斗道具的HP恢复量{}	戰鬥道具的HP回復量{}
+9	弱体化アイテム調合の匠	Weakening Item Synthesis Artisan	削弱道具调合巧匠	弱體化道具調合巧匠	戦闘アイテムのマイナス効果{}	Battle item negative effects {}	战斗道具的负面效果{}	戰鬥道具的減弱效果{}
+10	強化アイテム調合の匠	Enhancement Item Synthesis Artisan	强化道具调合巧匠	強化道具調合巧匠	戦闘アイテムの強化効果{}	Battle item buff effects {}	战斗道具的强化效果{}	戰鬥道具的強化效果{}
+11	カフェの常連さん	Cafe Regular	咖啡厅熟客	咖啡廳的常客	アタッカーのHP{}	Attackers' HP {}	攻击者HP{}	攻擊者的HP{}
+12	ぷにスレイヤー	Puni Slayer	噗尼杀手	噗尼殺手	ぷに種族へ与えるダメージ{}	Damage dealt to Puni enemies {}	对噗尼种族造成的伤害{}	給予噗尼種族的傷害{}
+13	水棲種スレイヤー	Aquatic Slayer	水生种族杀手	水棲種族殺手	水棲種族へ与えるダメージ{}	Damage dealt to aquatic enemies {}	对水生种族造成的伤害{}	給予水棲種族的傷害{}
+14	鳥種スレイヤー	Bird Slayer	鸟种族杀手	鳥種族殺手	鳥種族へ与えるダメージ{}	Damage dealt to bird enemies {}	对鸟种族造成的伤害{}	給予鳥類種族的傷害{}
+15	戦闘研究プロフェッサー	Combat Research Professor	战斗研究教授	戰鬥研究教授	weak攻撃時、スキルダメージ{}	Skill damage when attacking weakness {}	发动WEAK攻击时，技能伤害{}	WEAK攻擊時，技能傷害{}
+16	錬金研究プロフェッサー	Alchemy Research Professor	炼金研究教授	鍊金研究教授	weak攻撃時、ブレイクダメージ{}	Stun damage when attacking weakness {}	发动WEAK攻击时，破防伤害{}	WEAK攻擊時，破防傷害{}
+18	スコアバトルマスター	Score Battle Master	积分战斗大师	積分戰大師	ディフェンダーのHP{}	Defenders' HP {}	防御者HP{}	防禦者的HP{}
+20	レシピ発想マスター	Recipe Master	构思配方大师	構思配方大師	ブレイカーのHP{}	Breakers' HP {}	破坏者HP{}	破壞者的HP{}
+21	キラキラコイン長者	Shiny Coin Tycoon	闪亮硬币富翁	閃亮硬幣富翁	状態異常の相手に攻撃する時、スキルダメージ{}	Skill damage when attacking enemies with status effects {}	攻击陷入异常状态的目标时，技能伤害{}	攻擊處於異常狀態的目標時，技能傷害{}
+22	スタミナ消費数マスター	Stamina Consumption Master	体力消耗大师	精力消耗數大師	状態異常の相手に攻撃する時、ブレイクダメージ{}	Stun damage when attacking enemies with status effects {}	攻击陷入异常状态的目标时，破防伤害{}	攻擊處於異常狀態的目標時，破防傷害{}
+25	四元の高みを目指す者	Elemental Climber	四元攀登者	邁向四元頂點之人	ブレイクダメージ{}	Stun damage {}	破防伤害{}	破防傷害{}
+26	成長を遂げる者	Achieved Growth	自我提升者	實現成長之人	単体攻撃のスキルダメージ{}	Single-target attack skill damage {}	单体攻击的技能伤害{}	單體攻擊的技能傷害{}
+27	さらなる成長を遂げる者	Achieved Further Growth	自我超越者	實現更高成長之人	全体攻撃のスキルダメージ{}	Skill damage for attacks that target all enemies {}	全体攻击的技能伤害{}	全體攻擊的技能傷害{}
+28	鍛錬に励む冒険者	Adventurer Devoted to Training	努力锻炼的冒险者	勤奮鍛鍊的冒險者	ブレイク強化パネルの効果{}	Stun boost panel effect {}	破防强化面板的效果{}	破防強化面板的效果{}
+29	採取に励む錬金術士	Alchemist Devoted to Gathering	努力采集的炼金术士	勤奮採集的鍊金術士	サポーターのHP{}	Supporters' HP {}	支援者HP{}	支援者的HP{}
+30	レスレリ学園第1弾EX制覇者	Resleriana Academy Part 1 EX Conqueror	蕾斯莱莉娅娜学园第1弹EX称霸者	蕾斯萊莉婭娜學園第1彈EX霸主	得意属性が風属性のキャラのスキルダメージ{}	Skill damage for characters with Air affinity {}	自身属性为风属性的角色技能伤害{}	自身屬性為風屬性的角色，技能傷害{}
+31	レスレリ学園第2弾EX制覇者	Resleriana Academy Part 2 EX Conqueror	蕾斯莱莉娅娜学园第2弹EX称霸者	蕾斯萊莉婭娜學園第2彈EX霸主	得意属性が風属性のキャラのブレイクダメージ{}	Stun damage for characters with Air affinity {}	自身属性为风属性的角色破防伤害{}	自身屬性為風屬性的角色，破防傷害{}
+32	戦士の大鎧EX制覇者	Heavy Warrior Armor EX Conqueror	战士的大铠EX称霸者	戰士的大鎧EX霸主	ディフェンダーの魔防{}	Defenders' M. DEF {}	防御者魔防{}	防禦者的魔防{}
+33	ザールブルグの錬金術士EX制覇者	The Alchemist of Salburg EX Conqueror	萨尔布鲁克的炼金术士EX称霸者	薩爾布魯克的鍊金術士EX霸主	得意属性が雷属性のキャラのブレイクダメージ{}	Stun damage for characters with Bolt affinity {}	自身属性为雷属性的角色的破防伤害{}	自身屬性為雷屬性的角色，破防傷害{}
+34	レスレリ学園第3弾EX制覇者	Resleriana Academy Part 3 EX Conqueror	蕾斯莱莉娅娜学园第3弹EX称霸者	蕾斯萊莉婭娜學園第3彈EX霸主	得意属性が風属性のキャラのクリティカルダメージ{}	Air Characters' Critical Damage {}	自身属性为风属性的角色的暴击伤害{}	自身屬性為風屬性的角色，重擊傷害{}
+35	温泉奪還作戦！EX制覇者	Operation: Take Back the Hot Springs! EX Conqueror	夺回温泉作战！EX称霸者	奪回溫泉作戰！EX霸主	サポーターの物防{}	Supporters' P. DEF {}	支援者物防{}	支援者的物防{}
+36	ロマン大武闘大会覇者【斬】	Roman's Grand Tournament Champion (Slash)	罗曼的大武斗大会豪杰【斩击】	羅曼大武鬥大會霸者【斬】	戦闘アイテムの斬属性ダメージ{}	Slash damage dealt by battle items {}	战斗道具造成斩击属性伤害{}	戰鬥道具的斬屬性傷害{}
+37	ロマン大武闘大会覇者【雷】	Roman's Grand Tournament Champion (Bolt)	罗曼的大武斗大会豪杰【雷】	羅曼大武鬥大會霸者【雷】	戦闘アイテムの雷属性ダメージ{}	Bolt damage dealt by battle items {}	战斗道具造成雷属性伤害{}	戰鬥道具的雷屬性傷害{}
+38	ロマン大武闘大会覇者【風】	Roman's Grand Tournament Champion (Air)	罗曼的大武斗大会豪杰【风】	羅曼大武鬥大會霸者【風】	戦闘アイテムの風属性ダメージ{}	Air damage dealt by battle items {}	战斗道具造成风属性伤害{}	戰鬥道具的風屬性傷害{}
+39	ロマン大武闘大会覇者【打】	Roman's Grand Tournament Champion (Strike)	罗曼的大武斗大会豪杰【打击】	羅曼大武鬥大會霸者【打】	戦闘アイテムの打属性ダメージ{}	Strike damage dealt by battle items {}	战斗道具造成打击属性伤害{}	戰鬥道具的打屬性傷害{}
+40	ロマン大武闘大会覇者【氷】	Roman's Grand Tournament Champion (Ice)	罗曼的大武斗大会豪杰【冰】	羅曼大武鬥大會霸者【冰】	戦闘アイテムの氷属性ダメージ{}	Ice damage dealt by battle items {}	战斗道具造成冰属性伤害{}	戰鬥道具的冰屬性傷害{}
+41	ロマン大武闘大会覇者【突】	Roman's Grand Tournament Champion (Stab)	罗曼的大武斗大会豪杰【突刺】	羅曼大武鬥大會霸者【突】	戦闘アイテムの突属性ダメージ{}	Stab damage dealt by battle items {}	战斗道具造成突刺属性伤害{}	戰鬥道具的突屬性傷害{}
+42	ロマン大武闘大会覇者【火】	Roman's Grand Tournament Champion (Fire)	罗曼的大武斗大会豪杰【火】	羅曼大武鬥大會霸者【火】	戦闘アイテムの火属性ダメージ{}	Fire damage dealt by battle items {}	战斗道具造成火属性伤害{}	戰鬥道具的火屬性傷害{}
+43	お買い物上手	Expert Shopper	购物达人	購物達人	クリティカルダメージ{}	Critical damage {}	暴击伤害{}	重擊傷害{}
+44	ランターナ建国記念杯EX制覇者	Lantarna Founding Anniversary Cup EX Conqueror	兰塔纳建国纪念杯EX称霸者	蘭塔納建國紀念盃EX霸主	得意属性が雷属性のキャラのスキルダメージ{}	Skill damage for characters with Bolt affinity {}	自身属性为雷属性的角色技能伤害{}	自身屬性為雷屬性的角色，技能傷害{}
+45	勇者レスナの大冒険EX制覇者	Resna the Hero's Great Adventure EX Conqueror	勇者蕾斯娜的大冒险EX称霸者	勇者蕾斯娜的大冒險EX霸主	得意属性が氷属性のキャラのスキルダメージ{}	Skill damage for characters with Ice affinity {}	自身属性为冰属性的角色技能伤害{}	自身屬性為冰屬性的角色，技能傷害{}
+46	決戦！ハロウィンぷにEX制覇者	Showdown! Halloween Puni EX Conqueror	决战！万圣节噗尼EX称霸者	決戰！萬聖節噗尼EX霸主	サポーターの魔防{}	Supporters' M. DEF {}	支援者魔防{}	支援者的魔防{}
+48	竜の涙は花と散るEX制覇者	The Dragon's Tears Fall Like Petals EX Conqueror	龙之泪随花凋零EX称霸者	龍之淚如花凋零EX霸主	得意属性が斬属性のキャラのブレイクダメージ{}	Stun damage for characters with Slash affinity {}	自身属性为斩击属性的角色破防伤害{}	自身屬性為斬屬性的角色，破防傷害{}
+51	飛び出せオフィス！EX制覇者	Dash Out of the Office! EX Conqueror	出动吧，公务员！EX称霸者	奔出辦公室！EX霸主	得意属性が火属性のキャラのスキルダメージ{}	Skill damage for characters with Fire affinity {}	自身属性为火属性的角色技能伤害{}	自身屬性為火屬性的角色，技能傷害{}
+52	リディー＆スールの日常EX制覇者	Lydie & Suelle's Everyday Lives EX Conqueror	莉迪＆苏瑞的日常EX称霸者	莉迪＆蘇瑞的日常EX霸主	得意属性が打属性のキャラのスキルダメージ{}	Skill damage for characters with Strike affinity {}	自身属性为打击属性的角色技能伤害{}	自身屬性為打屬性的角色，技能傷害{}
+53	水着DEリゾート！EX制覇者	Resort Swim Time! EX Conqueror	泳装假日！EX称霸者	身穿泳裝去度假！EX霸主	得意属性が雷属性のキャラのクリティカルダメージ{}	Critical Damage for characters with Bolt affinity {}	自身属性为雷属性的角色暴击伤害{}	自身屬性為雷屬性的角色，重擊傷害{}
+54	忘却の賢者と秘密の楽園EX制覇者	Sage of Oblivion & the Secret Paradise EX Conqueror	忘却的贤者与秘密的乐园EX称霸者	忘卻的賢者與秘密的樂園EX霸主	ブレイカーの物防{}	Breakers' P. DEF {}	破坏者物防{}	破壞者的物防{}
+55	星降る夜の贈りものEX制覇者	Gifts on a Starry Night EX Conqueror	繁星之夜的礼物EX称霸者	繁星灑落之夜的贈禮EX霸主	得意属性が氷属性のキャラのクリティカルダメージ{}	Critical Damage for characters with Ice affinity {}	自身属性为冰属性的角色暴击伤害{}	自身屬性為冰屬性的角色，重擊傷害{}
+56	ビーチフラッグEX制覇者	Beach Flag EX Conqueror	沙滩夺旗EX称霸者	海灘奪旗EX霸主	アタッカーの物防{}	Attackers' P. DEF {}	攻击者物防{}	攻擊者的物防{}
+57	夜空に笑顔が咲いた夏EX制覇者	Summer Smiles under the Night Sky EX Conqueror	夏夜中绽放的笑容EX称霸者	笑容在夜空中綻放的夏天EX霸主	ブレイカーの物防{}	Breakers' P. DEF {}	破坏者物防{}	破壞者的物防{}
+58	二人のシャリーと母の願いEX制覇者	Two Shallies and a Mother's Wish EX Conqueror	两个夏莉与母亲的心愿EX称霸者	兩個夏莉與母親的願望EX霸主	得意属性が打属性のキャラの受けるHP回復量{}	Received HP recovery for characters with Strike affinity {}	自身属性为打击属性的角色所受HP恢复量{}	自身屬性為打屬性的角色，所受HP回復量{}
+59	マリーの招福大作戦！EX制覇者	Marie's Fortune Frenzy! EX Conqueror	玛莉的招福大作战！EX称霸者	瑪莉的招福大作戰！EX霸主	得意属性が氷属性のキャラの単体攻撃ダメージ{}	Single-target attack damage for characters with Ice affinity {}	自身属性为冰属性的角色单体攻击伤害{}	自身屬性為冰屬性的角色，單體攻擊傷害{}
+60	ビーチで宝探し！EX制覇者	Treasure Hunt at the Beach! EX Conqueror	沙滩寻宝！EX称霸者	在海灘尋寶！EX霸主	得意属性が氷属性のキャラのブレイクダメージ{}	Stun damage for characters with Ice affinity {}	自身属性为冰属性的角色破防伤害{}	自身屬性為冰屬性的角色，破防傷害{}
+61	１周年前夜祭ボスチャレンジEX制覇者	1st Anniversary Prelude Boss Challenge EX Conqueror	一周年前夜祭头目挑战EX称霸者	1週年前夜祭頭目挑戰EX霸主	ディフェンダーの物防{}	Defenders' P. DEF {}	防御者物防{}	防禦者的物防{}
+62	爆裂！！ マリーからの試練EX制覇者	Explosion Time!! Marie's Trial EX Conqueror	炸裂！！玛莉的试炼EX称霸者	爆裂！！瑪莉給予的試煉EX霸主	アタッカーのブレイクダメージ{}	Attackers' Stun Damage {}	攻击者破防伤害{}	攻擊者的破防傷害{}
+63	旋風！！ユーディーからの試練EX制覇者	Whirlwind!! Judie's Trial EX Conqueror	旋风！！优蒂的试炼EX称霸者	旋風！！優蒂給予的試煉EX霸主	得意属性が打属性のキャラのブレイクダメージ{}	Stun damage for characters with Strike affinity {}	自身属性为打击属性的角色破防伤害{}	自身屬性為打屬性的角色，破防傷害{}
+64	乙女たちのチョコレートミックスEX制覇者	Valentine's Chocolate Mix EX Conqueror	少女们的混合巧克力EX称霸者	少女們的綜合巧克力EX霸主	得意属性が突属性のキャラのブレイクダメージ{}	Stun damage for characters with Stab affinity {}	自身属性为突刺属性的角色的破防伤害{}	自身屬性為突屬性的角色，破防傷害{}
+65	アーランドの錬金術士EX制覇者	The Alchemist of Arland EX Conqueror	亚兰德之炼金术士EX称霸者	亞蘭德之鍊金術士EX霸主	得意属性が風属性のキャラの受けるHP回復量{}	Received HP recovery for characters with Air affinity {}	自身属性为风属性的角色所受HP恢复量{}	自身屬性為風屬性的角色，所受HP回復量{}
+66	ボスチャレンジ コズミックシェルEX制覇者	Boss Challenge: Cosmic Shell EX Conqueror	头目挑战 宇宙壳EX称霸者	頭目挑戰 宇宙殼EX霸主	得意属性が風属性のキャラの単体攻撃ダメージ{}	Single-target attack damage for characters with Air affinity {}	自身属性为风属性的角色单体攻击伤害{}	自身屬性為風屬性的角色，單體攻擊傷害{}
+67	渇きの中で咲く花たちEX制覇者				得意属性が突属性のキャラのスキルダメージ{}			
+68	混沌と規律の邂逅EX制覇者				得意属性が突属性のキャラの受けるHP回復量{}			
+69	ブラッドの実地調査EX制覇者				得意属性が突属性のキャラのクリティカルダメージ{}			
+70	キラキラセキララ星誕祭！ボスチャレンジ制覇者				得意属性が雷属性のキャラの受けるHP回復量{}			
+71	縁結ぶ者　星照らす道ボスチャレンジ制覇者				得意属性が氷属性のキャラの単体攻撃ダメージ{}			
+72	親友と歩む未来ボスチャレンジ制覇者				アタッカーの魔防{}			
+73	ライバルと競う未来ボスチャレンジ制覇者				得意属性が風属性のキャラの与えるHP回復量{}			

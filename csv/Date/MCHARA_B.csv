@@ -1,0 +1,402 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_MCHARA_B_01ID	0	Valeria	ヴァレリア	はー、久しぶりの帰宅ね	Valeria	Phew... Finally, it feels good to be back home.	瓦莱莉娅	呼，好久没回家了。	瓦萊莉婭	呼～好久沒有回家了。
+Date_MCHARA_B_01ID	1	Heidi	ハイディ	ここのところ、討伐依頼とか色々\n立て続いてたもんね	Heidi	Yeah, we've been swamped with hunting requests lately.	海蒂	最近不是讨伐委托就是别的事情，\n忙得根本没空回家。	海蒂	畢竟最近各種委託多得讓人應接不暇呢。
+Date_MCHARA_B_01ID	2	Valeria	ヴァレリア	道端でもどこでも寝られるけど、\nやっぱり我が家は落ち着くわね	Valeria	I could fall asleep anywhere, but nothing beats sleeping in your own bed at home.	瓦莱莉娅	在路边倒是也能睡觉，\n可回了家才能放松休息啊。	瓦萊莉婭	雖然我不管在什麼地方都能睡著，\n但果然還是自己家最放鬆。
+Date_MCHARA_B_01ID	3	Valeria	ヴァレリア	ところで、フロッケとランツェは？	Valeria	Speaking of home, I wonder if Flocke and Lanze are around.	瓦莱莉娅	说起来，芙洛可跟兰泽呢？	瓦萊莉婭	是說，芙洛可和藍澤呢？
+Date_MCHARA_B_01ID	4	Heidi	ハイディ	出かけてるっぽい？\n中見て来るね	Heidi	It doesn't seem like it, but I'll check inside.	海蒂	他们好像不在家？\n我去屋里看看。	海蒂	似乎出門了？我進去看看。
+Date_MCHARA_B_01ID	5	Valeria	ヴァレリア	どうだった？	Valeria	Find anyone?	瓦莱莉娅	怎么样？	瓦萊莉婭	如何？
+Date_MCHARA_B_01ID	6	Heidi	ハイディ	こんな書置きがあったんだけど……	Heidi	All I found was this note.	海蒂	他们留下了这张字条……	海蒂	只有這樣一張紙條……
+Date_MCHARA_B_01ID	7	Valeria	ヴァレリア	……なるほど。\nランツェは航海、フロッケも行商で\nしばらく出払ってるのね	Valeria	Okay, so Lanze is out sailing, and Flocke is out selling her wares. It sounds like they won't be back for a while.	瓦莱莉娅	原来是这样，\n兰泽出海了，芙洛可出门经商，\n暂时都离家了。	瓦萊莉婭	……原來如此，藍澤是因為航海、\n芙洛可則是為了經商都暫時外出了。
+Date_MCHARA_B_01ID	8	Valeria	ヴァレリア	なんだか新鮮ね、二人きりって。\nずっと三人か、四人暮らしだったから	Valeria	We don't usually get the place all to ourselves. I'm used to having three or four of us at home.	瓦莱莉娅	家里只剩下我们两个，很难得呢。\n毕竟之前都是三四个人一起生活的嘛。	瓦萊莉婭	只有我們兩個感覺好新鮮喔，\n平常都是三、四個人待在這屋子裡。
+Date_MCHARA_B_01ID	9	Heidi	ハイディ	呑気なこと言ってる場合じゃないよ	Heidi	Too bad we won't have time to relax!	海蒂	现在可不是闲话家常的时候。	海蒂	現在可不是悠悠哉哉說這些話的時候吧。
+Date_MCHARA_B_01ID	10	Valeria	ヴァレリア	え？	Valeria	Huh?	瓦莱莉娅	啊？	瓦萊莉婭	咦？
+Date_MCHARA_B_01ID	11	Heidi	ハイディ	家事、どうすんのさ。フロッケもいない\nランツェもいない	Heidi	Think about it! How are we going to do all of the chores without Flocke and Lanze?	海蒂	家务活要怎么办？\n芙洛可跟兰泽都不在啊。	海蒂	家務要怎麼辦？現在藍澤跟芙洛可都不在。
+Date_MCHARA_B_01ID	12	Valeria	ヴァレリア	ハイディ様、ありがとうございます	Valeria	Benevolent Queen Heidi, thank you for your sacrifice...	瓦莱莉娅	海蒂小姐，谢谢你！	瓦萊莉婭	海蒂大人，小的感激不盡。
+Date_MCHARA_B_01ID	13	Heidi	ハイディ	ちょいちょいちょーーい！！\nこっちに全部押しつける気かい！	Heidi	Nope! Nuh-uh! Not happening! I'm not going to let you push all of the chores onto me!	海蒂	慢着慢着慢着——！！\n你是要把家务活全塞给我来干吗！	海蒂	給我等一下──！！\n難不成妳打算全部丟給我嗎！？
+Date_MCHARA_B_01ID	14	Valeria	ヴァレリア	むむむ、どうしよう……	Valeria	Curses... Then what are we going to do?	瓦莱莉娅	唔……怎么办啊……	瓦萊莉婭	唔唔唔，該怎麼辦呢……
+Date_MCHARA_B_01ID	15		選択肢	早く帰ってくるのを星に願う	Selection	Pray to the stars the others come back soon	选项	向星星许愿，希望他们早些回家	選項	向星星祈禱他們早日歸來
+Date_MCHARA_B_01ID	16	Heidi	ハイディ	早く帰ってくるのを星に願うとか……	Heidi	I guess all we can do is pray to the stars above that Flocke and Lanze come back soon.	海蒂	要不向星星许愿，希望他们早些回家吧……	海蒂	向星星祈禱他們早日歸來之類的……
+Date_MCHARA_B_01ID	17	Valeria	ヴァレリア	罰当たりなお願いじゃない？	Valeria	That sounds kind of blasphemous.	瓦莱莉娅	许下这种愿望你就不怕遭天谴吗？	瓦萊莉婭	許這種願望會被懲罰吧？
+Date_MCHARA_B_01ID	18	Heidi	ハイディ	大丈夫大丈夫。\n広い心で受け入れてくれるよ	Heidi	You worry too much. One of the stars up there will be sure to take pity on us.	海蒂	没事的，人家心胸宽广，会接纳的。	海蒂	沒事沒事，星星會心胸寬大地接受的。
+Date_MCHARA_B_01ID	19	Heidi	ハイディ	それに本場仕込みのとっておきのお祈りが\nあってね。\n抜群に効くのよ、これが	Heidi	See, I have a very special prayer that I save for times just like this. It works perfectly every time.	海蒂	而且我还知道个压箱底的正宗祈祷，\n效果超级好哦。	海蒂	而且我有正宗的獨門許願祕方，效果保證滿意。
+Date_MCHARA_B_01ID	20	Valeria	ヴァレリア	なんか薬みたいね	Valeria	Sounds kind of like medicine, in a way.	瓦莱莉娅	听起来好像药物啊。	瓦萊莉婭	聽起來好像什麼藥方。
+Date_MCHARA_B_01ID	21	Valeria	ヴァレリア	でもすぐに効くわけじゃないわよね。\nそれまでどうしようかしら	Valeria	But even prayers take time to see results. What are we going to do about the chores until then?	瓦莱莉娅	但它的作用不是立竿见影的，\n在那之前该怎么做呢？	瓦萊莉婭	但是許願也無法立刻實現，\n在那之前要怎麼辦呢？
+Date_MCHARA_B_01ID	22		選択肢	誰かに頼む	Selection	Get someone else to do them	选项	拜托别人来帮忙	選項	拜託其他人
+Date_MCHARA_B_01ID	23	Heidi	ハイディ	誰かに頼むとか？	Heidi	Maybe we could get someone else to do them for us?	海蒂	拜托别人来帮忙吧？	海蒂	拜託其他人幫忙呢？
+Date_MCHARA_B_01ID	24	Valeria	ヴァレリア	誰かって誰？	Valeria	Like whom?	瓦莱莉娅	“别人”是谁啊？	瓦萊莉婭	其他人是誰？
+Date_MCHARA_B_01ID	25	Heidi	ハイディ	……レスナ？	Heidi	How about Resna?	海蒂	……蕾斯娜？	海蒂	……蕾斯娜？
+Date_MCHARA_B_01ID	26	Valeria	ヴァレリア	確かに頼んだら快く引き受けてくれそう\nだけど……	Valeria	If we asked her, she'd definitely give it her all, but...	瓦莱莉娅	她应该会爽快答应，可是……	瓦萊莉婭	如果是她的話，確實感覺會很爽快地答應……
+Date_MCHARA_B_01ID	27	Valeria	ヴァレリア	さすがにタダでお願いするのもね。\nそれにそんなお金があったら、\n私が欲しいくらいよ	Valeria	We can't just ask her to do it for free, so... It seems like kind of a waste of money, don't you think?	瓦莱莉娅	总不能让人免费给我们当苦力吧。\n而且要是有那么一笔雇人的钱，\n我倒想据为己有呢。	瓦萊莉婭	但是總不能要她免費幫忙吧。\n而且有那個錢的話，還不如讓我來呢。
+Date_MCHARA_B_01ID	28	Heidi	ハイディ	そりゃそーだ	Heidi	I guess you're right.	海蒂	说得也是。	海蒂	說的也是。
+Date_MCHARA_B_01ID	29		選択肢	耐える	Selection	Just do our best	选项	忍耐	選項	忍耐
+Date_MCHARA_B_01ID	30	Heidi	ハイディ	仕方ない。最低限の事はしつつ耐えよう	Heidi	I guess we don't have much of a choice. We'll just have to get by doing what we can.	海蒂	没办法，做最低限度的家务忍到他们回家吧。	海蒂	沒辦法，我們隨便做做將就一下吧。
+Date_MCHARA_B_01ID	31	Valeria	ヴァレリア	私はいいけど……\n帰って来た時のランツェが怖いわ	Valeria	That's fine by me, but...I'm scared to see the look on Lanze's face when he gets back.	瓦莱莉娅	我倒是不介意……\n可我好怕兰泽回来之后的反应。	瓦萊莉婭	我是無所謂啦……\n但很害怕藍澤回來時的反應。
+Date_MCHARA_B_01ID	32	Valeria	ヴァレリア	先にフロッケが帰ってくれば、あるいは	Valeria	But if Flocke comes home first, then maybe we can have her—	瓦莱莉娅	只要先回来的是芙洛可，或者……	瓦萊莉婭	除非我們祈禱芙洛可會先回來。
+Date_MCHARA_B_01ID	33	Heidi	ハイディ	うーんダメダメな思考ですなぁ	Heidi	No, no, no. Forget it, that's a VERY bad idea.	海蒂	唔……这些想法都不靠谱啊。	海蒂	唔～感覺不太可行呢。
+Date_MCHARA_B_01ID	34	Valeria	ヴァレリア	……よし、決めた	Valeria	All right, then. Fine.	瓦莱莉娅	……好，我决定了。	瓦萊莉婭	……好，決定了。
+Date_MCHARA_B_01ID	35	Valeria	ヴァレリア	私、家事やるわ	Valeria	I guess I'll be doing the chores.	瓦莱莉娅	我来做家务。	瓦萊莉婭	我來做家務吧。
+Date_MCHARA_B_01ID	36	Heidi	ハイディ	なぁにぃーーーーーー！！！！	Heidi	Whaaat?! You?!	海蒂	你说什么——！！！	海蒂	什麼──────！！！！
+Date_MCHARA_B_01ID	37	Heidi	ハイディ	（どういう風の吹き回しだ！？）	Heidi	(What's gotten into her this time?!)	海蒂	（太阳打西边出来了？！）	海蒂	（她今天是吹了什麼風啊！？）
+Date_MCHARA_B_01ID	38		選択肢	逃げる準備をする	Selection	Pack your bags and run	选项	做好逃跑的准备	選項	準備逃跑
+Date_MCHARA_B_01ID	39	Valeria	ヴァレリア	ちょっと、どうしたの？\n荷物まとめて	Valeria	Wait, why are you packing up all of your things?	瓦莱莉娅	喂，你怎么突然开始打包行李了？	瓦萊莉婭	等等，妳怎麼了？為什麼要收拾行李？
+Date_MCHARA_B_01ID	40	Heidi	ハイディ	ヴァレリアが家事するとか、\n命いくつあっても足りないから	Heidi	I'm making a run for it. I'd need nine whole lives to survive you doing the chores around here...	海蒂	要是瓦莱莉娅做起家务来，\n我有多少条命都不够花的。	海蒂	讓瓦萊莉婭做家務的話，我有幾條命都不夠用。
+Date_MCHARA_B_01ID	41	Valeria	ヴァレリア	それは大げさよ！	Valeria	Come on, I'm not that bad!	瓦莱莉娅	你也太夸张了吧！	瓦萊莉婭	哪有這麼誇張！
+Date_MCHARA_B_01ID	42	Heidi	ハイディ	だってだいぶ前に料理にチャレンジした時、\nかまどを爆発させてたでしょ	Heidi	"The last time you tried to ""help out"" around here, you tried to cook and blew up the oven!"	海蒂	因为你之前尝试做菜的时候就炸了灶台吧。	海蒂	妳前陣子挑戰做料理的時候，\n把整個爐灶都給炸掉了吧。
+Date_MCHARA_B_01ID	43	Valeria	ヴァレリア	うぐ……	Valeria	Erm...	瓦莱莉娅	唔……	瓦萊莉婭	嗚……
+Date_MCHARA_B_01ID	44	Valeria	ヴァレリア	今度は外でやるから！	Valeria	I promise to do it outside this time!	瓦莱莉娅	这次我会在外边做的！	瓦萊莉婭	這次我會到屋外去做啦！
+Date_MCHARA_B_01ID	45	Heidi	ハイディ	爆発が打ち上げ花火になるだけじゃん！	Heidi	Do what, blow something else up?! No one asked for any fireworks!	海蒂	无非就是爆炸变成放烟花！	海蒂	那樣只是從爆炸變成煙火而已吧！
+Date_MCHARA_B_01ID	46	Valeria	ヴァレリア	綺麗でいいじゃない	Valeria	But who wouldn't want fireworks? They're pretty!	瓦莱莉娅	漂漂亮亮的不是挺好。	瓦萊莉婭	漂亮的煙火有什麼不好。
+Date_MCHARA_B_01ID	47	Heidi	ハイディ	前向きだなあ……	Heidi	At least you've got a positive attitude...	海蒂	你真乐观啊……	海蒂	還真樂觀耶……
+Date_MCHARA_B_01ID	48		選択肢	明日は空からぷにが降るね	Selection	What's next? Is it going to rain Puni?	选项	明天怕不是天上要下噗尼	選項	看樣子明天要下噗尼雨了
+Date_MCHARA_B_01ID	49	Heidi	ハイディ	明日は空からぷにが降るね	Heidi	If you're doing the chores, what's next? Is it going to rain Puni?!	海蒂	明天怕不是天上要下噗尼。	海蒂	看樣子明天要下噗尼雨了。
+Date_MCHARA_B_01ID	50	Valeria	ヴァレリア	そうなったら私が盾になって\n全部防いであげるから大丈夫！	Valeria	Don't worry. If it comes to that, I'll be your human shield! I won't let those Puni smoosh you!	瓦莱莉娅	没事的，到时候我会挡在你面前\n帮你抵御所有噗尼！	瓦萊莉婭	到時候我會成為妳的雨傘，\n把牠們通通擋下來！
+Date_MCHARA_B_01ID	51	Heidi	ハイディ	ははっ、頼もしい。\n相棒が言うと冗談に聞こえないよ	Heidi	Haha! Thanks, partner. It almost sounded like you were serious.	海蒂	哈哈，真可靠啊。\n听搭档你这么一说都不像是玩笑话了。	海蒂	哈哈，真可靠。\n從搭檔口中說出來一點都不像玩笑話呢。
+Date_MCHARA_B_01ID	52	Heidi	ハイディ	（ってか、相棒の目……\n　真剣そのものだ。冗談だと思ってたけど、\n　こりゃ本気っぽいぞ？）	Heidi	(Wait a second, she's got that look in her eyes. She WAS being serious. Maybe she was serious about doing the chores, too?)	海蒂	（说起来，搭档的眼神……\n　好认真啊。我还以为她在开玩笑，\n　看样子她是认真啊？）	海蒂	（話說，搭檔的眼神……是認真的。\n　我還以為是開玩笑，但看起來似乎不像？）
+Date_MCHARA_B_01ID	53		選択肢	耳を疑う	Selection	Make sure you heard her right	选项	怀疑听错了	選項	懷疑自己的耳朵
+Date_MCHARA_B_01ID	54	Heidi	ハイディ	ごめん、もっかい言ってもらえる？　	Heidi	Uh, sorry, could you repeat that?　	海蒂	不好意思，你能再说一遍吗？　	海蒂	抱歉，妳能再說一次嗎？　
+Date_MCHARA_B_01ID	55	Valeria	ヴァレリア	私が家事をやるって言ったのよ	Valeria	I said I'll be doing the chores.	瓦莱莉娅	我说我来做家务。	瓦萊莉婭	我說我來做家務啊。
+Date_MCHARA_B_01ID	56	Heidi	ハイディ	うーん、耳の調子がおかしいのかも。\n聞こえるはずのない言葉が聞こえたんだけど	Heidi	There must be something wrong with my ears... I keep hearing you say something you'd never, ever say.	海蒂	唔，我耳朵可能出问题了，\n都听见不可能听到的东西了。	海蒂	唔～我耳朵可能怪怪的，\n居然聽到了一些不可能會聽到的話。
+Date_MCHARA_B_01ID	57	Valeria	ヴァレリア	聞き間違いじゃないわよ！\nもう、あとでおちょくったこと\n後悔させてあげるわ	Valeria	Your ears aren't broken, okay?! Once this place is spotless, you'll be eating those words!	瓦莱莉娅	你没听错！真是的，\n待会儿就要让你后悔小看我！	瓦萊莉婭	妳沒有聽錯啦！\n哼，待會我就讓妳後悔說出這些話。
+Date_MCHARA_B_01ID	58	Heidi	ハイディ	（でも、あのヴァレリアが自分からやるって\n　言い出すなんて……）	Heidi	(I never thought I'd live to see the day that Valeria would volunteer to do chores...)	海蒂	（不过，懒散的瓦莱莉娅居然\n　要亲自动手做家务……）	海蒂	（沒想到那個瓦萊莉婭\n　竟會主動說要做家務……）
+Date_MCHARA_B_01ID	59	Heidi	ハイディ	（本当に任せちゃって大丈夫かな。\n　余計荒れたりしないよね……）	Heidi	(I wonder if she can pull this off. If I leave her to it, she might wreck the place...)	海蒂	（放心交给她去做真的好吗？\n　她应该不会把家里搞得一团糟吧……）	海蒂	（真的可以交給她嗎？\n　不會越弄越糟吧……）
+Date_MCHARA_B_01ID	60	Heidi	ハイディ	（まぁでも、珍しくやる気を出している\n　みたいだし……）	Heidi	(But I don't want to shoot her down if she's feeling motivated to pitch in for once...)	海蒂	（可是难得她有了干劲……）	海蒂	（算了，難得她看起來這麼有幹勁……）
+Date_MCHARA_B_01ID	61	Heidi	ハイディ	とりあえず、一緒にやってみようか	Heidi	You know what? Let's do them together!	海蒂	总之我们一起试试吧。	海蒂	總之，我們一起試試看吧。
+Date_MCHARA_B_01ID	62	Valeria	ヴァレリア	ハイディ、お皿洗ってみたんだけど\nどうかしら？	Valeria	Heidi, I washed the dishes! How'd I do?	瓦莱莉娅	海蒂，我试着洗了一下盘子，\n你看我洗得怎么样？	瓦萊莉婭	海蒂，我先試著洗了盤子，妳看看如何？
+Date_MCHARA_B_01ID	63	Heidi	ハイディ	お……？	Heidi	Oh?	海蒂	哦……？	海蒂	喔……？
+Date_MCHARA_B_01ID	64	Heidi	ハイディ	（まだ、汚れが残ってるのもある。\n　完璧には程遠い。けど……）	Heidi	(Yikes, this is what she calls clean? There's still food stuck on some of them. But still...)	海蒂	（上面还是有一些污渍，\n　离完美还远着呢。不过……）	海蒂	（有幾個盤子上面還殘留著污漬。\n　根本稱不上完美，不過……）
+Date_MCHARA_B_01ID	65	Heidi	ハイディ	（大体綺麗にはできてる……\n　きちんと種類別に重ねてあるし、\n　一枚も割れてない）	Heidi	(I guess they're mostly clean. She even stacked them. And nothing is broken!)	海蒂	（大致是洗干净了……\n　而且分门别类地摆放好了，\n　一张盘子都没有打碎。）	海蒂	（整體而言算是挺乾淨的……\n　而且好好地分門別類疊放整齊，一個都沒有摔破。）
+Date_MCHARA_B_01ID	66		選択肢	褒める	Selection	Tell her she did a good job	选项	表扬	選項	稱讚
+Date_MCHARA_B_01ID	67	Heidi	ハイディ	すごいじゃん、ヴァレリア！	Heidi	Whoa! Great job, Valeria!	海蒂	瓦莱莉娅，你好厉害啊！	海蒂	瓦萊莉婭，妳真厲害！
+Date_MCHARA_B_01ID	68	Valeria	ヴァレリア	ふふん、私だってやればできるのよ	Valeria	Heh, see? I told you I could do it if I tried!	瓦莱莉娅	哼哼，只要我用心还是能做好的。	瓦萊莉婭	哼哼，我想做還是做得到的。
+Date_MCHARA_B_01ID	69	Valeria	ヴァレリア	お皿を洗うのと、箒で掃くのと、\n野菜の皮剥きは任せなさい！	Valeria	I did the dishes, now just leave the sweeping and vegetable prep to me!	瓦莱莉娅	洗盘子、扫地、削皮，\n全都放心交给我吧！	瓦萊莉婭	洗碗盤、掃地和幫蔬果削皮就交給我吧！
+Date_MCHARA_B_01ID	70	Heidi	ハイディ	（だいぶ初歩的……\n　いや、でもヴァレリアにしては\n　すごい成長だ！）	Heidi	(It may not seem like much, but Valeria's done a lot of growing up to get to this point.)	海蒂	（都是好初级的家务啊……\n　不，这对瓦莱莉娅来说都是了不得的进步！）	海蒂	（都是些簡單的工作……\n　不對，這對瓦萊莉婭來說是很大的進步！）
+Date_MCHARA_B_01ID	71	Heidi	ハイディ	よしよし、今日は良いお肉で\nちょっとご馳走にしようかね	Heidi	All right! I think we deserve to splurge on some meat for dinner tonight! What do you say?	海蒂	好，今天就拿好吃的肉来稍微款待一下你吧。	海蒂	真棒真棒，今天就用高級的肉\n來做一頓好吃的吧。
+Date_MCHARA_B_01ID	72	Valeria	ヴァレリア	やったぁ！　楽しみ！！	Valeria	Woohoo! I can't wait!	瓦莱莉娅	太好了！好期待啊！	瓦萊莉婭	太好了！期待！！
+Date_MCHARA_B_01ID	73		選択肢	高みを目指し重箱の隅をつつく	Selection	Give her some constructive criticism	选项	吹毛求疵以求极致	選項	追求完美而吹毛求疵
+Date_MCHARA_B_01ID	74	Heidi	ハイディ	あら、ヴァレリアさん。\nこんなところに汚れが残ってますわよ	Heidi	Uh-oh. Look here, Valeria. This part is still a little dirty.	海蒂	哎呀，瓦莱莉娅小姐，\n这里还有污垢哦。	海蒂	哎呀，瓦萊莉婭小姐，\n這個地方還殘留著污漬喔。
+Date_MCHARA_B_01ID	75	Valeria	ヴァレリア	あ、ほんとだわ！\nすぐに取るわね	Valeria	Oops, you're right! Hold on, I'll take care of it!	瓦莱莉娅	啊，还真是，我这就洗干净。	瓦萊莉婭	啊，真的耶！我馬上洗掉。
+Date_MCHARA_B_01ID	76	Valeria	ヴァレリア	えっと、まずはぬるめのお湯に浸して、\nこれでよく泡立てて……	Valeria	Let's see. First, I have to soak it in hot water, then I need to soap it up...	瓦莱莉娅	唔，先浸泡在温水里，\n然后用这个打出泡沫……	瓦萊莉婭	我想想……先將海綿浸在溫水中，\n充分搓揉直至起泡……
+Date_MCHARA_B_01ID	77	Valeria	ヴァレリア	力を入れ過ぎないように、\nそうっとこすって……\nよし、取れた！	Valeria	Wipe it gently, but be careful not to put too much muscle into it, and...there! All clean!	瓦莱莉娅	动作轻柔，轻轻擦拭……\n好，洗干净了！	瓦萊莉婭	接著注意力道，輕輕地搓洗盤子……\n很好，乾淨了！
+Date_MCHARA_B_01ID	78	Heidi	ハイディ	（おぼつかない手つきだけど、\n　できるだけ丁寧にやろうとする気持ちは\n　伝わってくる……）	Heidi	(Her hands looked a bit shaky, but that just shows how hard she's trying. She really wants to do a good job.)	海蒂	（动作稍显笨拙手，但我能感觉到，\n　她在尽量轻柔清洗了……）	海蒂	（雖然手法生疏，\n　但是可以感受到她極盡所能地小心翼翼……）
+Date_MCHARA_B_01ID	79	Heidi	ハイディ	ヴァレリアさん、我が家の嫁として合格よ	Heidi	I'd let you marry my daughter, that's for sure.	海蒂	瓦莱莉娅小姐，你已经够格当我们家的媳妇了。	海蒂	瓦萊莉婭小姐，妳通過我家的新娘考核了。
+Date_MCHARA_B_01ID	80	Valeria	ヴァレリア	やったぁ！\n……ん？　嫁？　まぁいっか	Valeria	Woohoo! Er...wait. You have a daughter...?	瓦莱莉娅	太好了！\n……嗯？媳妇？算了，不管啦。	瓦萊莉婭	太好了！……嗯？新娘？哎呀，管它的。
+Date_MCHARA_B_01ID	81		選択肢	どこでやり方覚えてきたの？	Selection	Ask her where she learned to wash dishes	选项	你是在哪里学会的？	選項	是在哪裡學會做家務的？
+Date_MCHARA_B_01ID	82	Heidi	ハイディ	ヴァレリアがこんなにちゃんと\nできるなんて。\nどこでやり方覚えてきたの？	Heidi	Oh, wow. Um, who taught you how to wash dishes like this?	海蒂	瓦莱莉娅居然能做得这么好。\n你是在哪里学会的？	海蒂	瓦萊莉婭妳是在哪裡學會做家務的？\n居然能做得這麼好。
+Date_MCHARA_B_01ID	83	Valeria	ヴァレリア	私は今まで家事をみんなに\n任せっきりだったけど、その間ずっと\nやってるところを見てたから	Valeria	Well, I've never actually done dishes by myself. But even though everyone does them for me, I've been watching all this time.	瓦莱莉娅	我虽然把家务全权交给大家去做了，\n可在大家做家务的时候我都有好好观察的嘛。	瓦萊莉婭	別看我一直以來都把家務丟給你們，\n我其實都在旁邊觀察。
+Date_MCHARA_B_01ID	84	Valeria	ヴァレリア	洗い物はよくハイディがやってたわよね。\n料理中に使わない道具から洗い始めて\nできるだけ早く終わるようにしたりとか	Valeria	And you've probably washed the most dishes for us, Heidi. You start while everyone else is cooking so you can get it over and done with.	瓦莱莉娅	海蒂经常负责洗东西吧。\n你会从烹饪中不会用到的厨具开始洗，\n尽量早点结束。	瓦萊莉婭	海蒂通常負責清洗餐具。\n妳會從做菜時用不到的餐具開始洗，\n盡量提升效率。
+Date_MCHARA_B_01ID	85	Valeria	ヴァレリア	捲った袖がよくずり落ちてきて、\nその度に腕を上げてどうにか元に\n戻そうとしたり……	Valeria	At the beginning, you always roll up your sleeves, but every time they fall back down, you wiggle your arms in the air to get them back up.	瓦莱莉娅	卷好的袖子总会掉下来，\n所以每次都要举起手来把它调整到原处……	瓦萊莉婭	妳捲起的袖子經常滑落。\n每次妳都會舉起手臂，\n想讓它回歸原位……
+Date_MCHARA_B_01ID	86	Heidi	ハイディ	そ、そんなところまで見なくていいから！	Heidi	No one said you had to watch me that closely!	海蒂	那、那些细节就不用观察了吧！	海蒂	不、不用看得這麼仔細啦！
+Date_MCHARA_B_01ID	87	Heidi	ハイディ	（ヴァレリア、いつの間にか\n　色々できるようになってる）	Heidi	(Valeria's a quick learner. She's really gotten the hang of things.)	海蒂	（不知不觉间，\n　瓦莱莉娅已经会做很多事了。）	海蒂	（瓦萊莉婭在不知不覺間學會了好多事情。）
+Date_MCHARA_B_01ID	88	Heidi	ハイディ	（なんか、ちょっと置いてかれたような\n　気分。私も頑張らないとな）	Heidi	(I'd better start working on myself, too. If I don't, I feel like she's going to leave me in the dust.)	海蒂	（总感觉被她甩下了。\n　我也得努力才行。）	海蒂	（總有種被她拋下的感覺……\n　我也要加油才行。）
+Date_MCHARA_B_01ID	89	Heidi	ハイディ	（……でも、あんなに家事に苦手意識が\n　あったのに。どういう気持ちの変化が\n　あったんだろう？）	Heidi	(It's hard to believe now that she never used to do chores. What lit this fire under her, anyway?)	海蒂	 （但她之前觉得自己不擅长做家务啊，\n　怎么就想开了？）	海蒂	（……不過，她之前明明那麼抗拒做家務，\n　為什麼會突然改變心意呢？）
+Date_MCHARA_B_02ID	0	Heidi	ハイディ	（さてと、なんか良い仕事来てないかな）	Heidi	(Let's see. I wonder if any good requests have come in...)	海蒂	（好，看看有没有合适的工作吧。）	海蒂	（好了，有沒有什麼不錯的委託呢？）
+Date_MCHARA_B_02ID	1	Valeria	ヴァレリア	いらっしゃいませ！	Valeria	Welcome!	瓦莱莉娅	欢迎光临！	瓦萊莉婭	歡迎光臨！
+Date_MCHARA_B_02ID	2	Heidi	ハイディ	（ヴァ、ヴァレリア！？）	Heidi	(What?! Valeria?!)	海蒂	（瓦、瓦莱莉娅？！）	海蒂	（瓦、瓦萊莉婭！？）
+Date_MCHARA_B_02ID	3	Heidi	ハイディ	（「いらっしゃいませ」って、\n　え？　ここで働いてるの！？）	Heidi	"(Wait, she said ""Welcome!"" when I walked in. No way. Does that mean she's working here?!)"	海蒂	（她说“欢迎光临”，\n　咦？难道她在这里工作吗？！）	海蒂	（她喊「歡迎光臨」……\n　咦？她在這裡工作嗎！？）
+Date_MCHARA_B_02ID	4		選択肢	素直に驚く	Selection	Ask her why she's here	选项	表现出震惊	選項	直接表現驚訝
+Date_MCHARA_B_02ID	5	Heidi	ハイディ	なんでここに！？	Heidi	What are you doing here?!	海蒂	你怎么会在这里？！	海蒂	妳怎麼會在這裡！？
+Date_MCHARA_B_02ID	6	Valeria	ヴァレリア	ふっふっふ～、驚きました？	Valeria	Heh heh heh... Surprised, huh?	瓦莱莉娅	嘿嘿，吓你一跳吧？	瓦萊莉婭	哼哼哼～嚇了一跳吧？
+Date_MCHARA_B_02ID	7	Valeria	ヴァレリア	どうでしょう？　ウェイトレスの私は	Valeria	I make a pretty great waitress, don't you think?	瓦莱莉娅	您认为我的女服务员打扮怎么样呢？	瓦萊莉婭	我這個服務生看起來怎麼樣？
+Date_MCHARA_B_02ID	8	Heidi	ハイディ	あんまり見た目は変わらないけど、\n敬語の違和感がすごい	Heidi	You don't look much different than usual, but you sounded pretty official when you greeted me!	海蒂	外表上是没什么差别，\n可你毕恭毕敬的说话方式让人很不适应。	海蒂	雖然外表沒什麼太大的變化，\n但畢恭畢敬的說話方式好不習慣。
+Date_MCHARA_B_02ID	9	Valeria	ヴァレリア	ご注文が決まったらお声がけあそばせ	Valeria	When you're ready to order, please just, uh...give me a shout!	瓦莱莉娅	想好要点什么了就跟小的说吧。	瓦萊莉婭	決定餐點之後請告知我一聲。
+Date_MCHARA_B_02ID	10	Heidi	ハイディ	（敬語でもない気がするけど、\n　面白いからこのままでいっか）	Heidi	(This is great! She hasn't exactly perfected her customer service persona, but I have to see where this goes.)	海蒂	（好像也不是正经敬语，\n　不过也挺有趣的，就这样吧。）	海蒂	（好像也不算畢恭畢敬。\n　反正挺有趣的，就隨她吧。）
+Date_MCHARA_B_02ID	11		選択肢	腕っぷしの強そうな新入りさんだね	Selection	Looks like the cafe is hiring for toughness.	选项	这位新人看起来身手了得呢	選項	新來的店員看起來臂力很強呢
+Date_MCHARA_B_02ID	12	Heidi	ハイディ	う、腕っぷしの強そうな\n新入りさんですこと……	Heidi	Whoa. Looks like the cafe just hired a burly new staff member.	海蒂	这、这位新人看起来身手了得呢……	海蒂	這、這位新來的店員看起來臂力很強呢……
+Date_MCHARA_B_02ID	13	Valeria	ヴァレリア	ええ、看板娘兼用心棒よ！	Valeria	Yup! I'm the new poster girl—and I double as a security guard!	瓦莱莉娅	是的，我是招牌女店员兼保镖！	瓦萊莉婭	嗯，我是招牌姑娘兼保鑣！
+Date_MCHARA_B_02ID	14	Heidi	ハイディ	その二つを一人で担うことってあるんだ	Heidi	Can the same person really do both of those things...?	海蒂	还有人能身兼这两职啊。	海蒂	原來可以一人身兼二職啊。
+Date_MCHARA_B_02ID	15	Valeria	ヴァレリア	一石二鳥でお得でしょ？	Valeria	Kill two birds with one stone, right?	瓦莱莉娅	一石二鸟，很值当吧？	瓦萊莉婭	雇用我一石二鳥很划算吧？
+Date_MCHARA_B_02ID	16	Heidi	ハイディ	まぁ、確かに。\n愛嬌と度胸が両方あれば無敵かもね	Heidi	I guess you're right. There's nothing better than someone who's both beautiful and brave.	海蒂	嗯，确实。既惹人怜爱又胆识过人，\n那可能无人能敌了吧。	海蒂	嗯，確實。同時兼具可愛和膽量，\n或許就無人能敵了。
+Date_MCHARA_B_02ID	17	Valeria	ヴァレリア	うふふ～	Valeria	Hehe!	瓦莱莉娅	呵呵～	瓦萊莉婭	呵呵～
+Date_MCHARA_B_02ID	18		選択肢	あえて他人のふりをする	Selection	Pretend not to recognize her	选项	假装不认识她	選項	刻意假裝不認識
+Date_MCHARA_B_02ID	19	Heidi	ハイディ	えっと、仕事を探しに来たのですが	Heidi	Um, I'm here looking for some work.	海蒂	唔，我是来找工作的。	海蒂	妳好，我是來找工作的。
+Date_MCHARA_B_02ID	20	Heidi	ハイディ	討伐とか、警護とか、\n腕っぷしが活かせる依頼って\n何か来てます？	Heidi	Do you have any new requests in looking for someone tough? Like a hunt? Or maybe guard duty?	海蒂	你们这里有没有讨伐、护卫之类的\n能让人一展身手的委托？	海蒂	請問有沒有一些像是討伐或護衛這種\n需要戰力的委託呢？
+Date_MCHARA_B_02ID	21	Valeria	ヴァレリア	え？	Valeria	Huh?	瓦莱莉娅	啊？	瓦萊莉婭	咦？
+Date_MCHARA_B_02ID	22	Heidi	ハイディ	報酬はこのくらいだと嬉しいんですけど……	Heidi	I was hoping for a reward somewhere in this range...	海蒂	报酬的话，能给这个数就好了……	海蒂	我希望報酬至少要有這個數字……
+Date_MCHARA_B_02ID	23	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+Date_MCHARA_B_02ID	24	Heidi	ハイディ	（すごく反応してほしそうに\n　こっちを見てくるな……）	Heidi	(She's just begging for me to notice it's her. I can tell by the look on her face.)	海蒂	（她看起来很想让我给个反应……）	海蒂	（她一直盯著我看，\n　好像很期待我有什麼反應……）
+Date_MCHARA_B_02ID	25	Heidi	ハイディ	（このまま泳がせてもいいけど、\n　気になるのは気になるし\n　素直に訊くか）	Heidi	(I could leave her hanging, but I really am curious to know why she's here. I guess I should just ask.)	海蒂	（继续装不认识吊她胃口也行，\n　可我说实话也挺在意的，\n　还是乖乖问问她吧。）	海蒂	（雖然繼續裝傻也不錯，\n　但我還是很好奇，就直接問吧。）
+Date_MCHARA_B_02ID	26	Heidi	ハイディ	どうしてここで働いてるの？	Heidi	Seriously, though. What are you doing working at the cafe?	海蒂	你为什么会在这里工作啊？	海蒂	為什麼妳會在這裡工作？
+Date_MCHARA_B_02ID	27	Valeria	ヴァレリア	今、ちょうど繁忙期らしくて。\n期間限定で給仕の手伝いをしてるの	Valeria	This is the cafe's busiest season, so I'm helping out as a waitress until things slow down.	瓦莱莉娅	现在似乎正好是旺季，\n所以我就来这里当临时服务员啦。	瓦萊莉婭	現在似乎正好是餐飲旺季，\n所以我暫時來幫忙招待客人。
+Date_MCHARA_B_02ID	28	Heidi	ハイディ	ヴァレリアの手も借りたいほど\n人手が足りてないのか……	Heidi	They must be pretty desperate to ask you for help...	海蒂	人手都缺到需要找瓦莱莉娅来帮忙了啊……	海蒂	居然人手不足到都把瓦萊莉婭請來幫忙了嗎……
+Date_MCHARA_B_02ID	29	Valeria	ヴァレリア	ううん、私からお願いしたの	Valeria	Oh, they didn't ask me. I asked them!	瓦莱莉娅	不不，是我主动提出要来帮忙的。	瓦萊莉婭	不是，是我主動要求的。
+Date_MCHARA_B_02ID	30	Heidi	ハイディ	え、ヴァレリアから！？	Heidi	You did?!	海蒂	啊？你主动提出来的？！	海蒂	咦，是妳要求的！？
+Date_MCHARA_B_02ID	31	Heidi	ハイディ	（今まで色んな仕事が\n　続かなかったヴァレリアが、\n　自分から！？）	Heidi	(Valeria's never been able to hold down a job for long. But she's the one who wanted to work here?!)	海蒂	（瓦莱莉娅之前做什么事都是半途而废，\n　这次却主动请缨了？！）	海蒂	（一直以來做任何工作\n　都三分鐘熱度的瓦萊莉婭，\n　竟然會主動應徵打工！？）
+Date_MCHARA_B_02ID	32		客	すみませーん、注文いいですか？	Customer	Excuse me! I'd like to order!	客人	不好意思，能帮忙点单吗？	顧客	不好意思～可以點餐了嗎？
+Date_MCHARA_B_02ID	33	Valeria	ヴァレリア	はーい、ただいま！	Valeria	Yep, hold your horses!	瓦莱莉娅	好的，这就来！	瓦萊莉婭	好～我馬上來！
+Date_MCHARA_B_02ID	34	Heidi	ハイディ	（うーん、大丈夫なのだろうか）	Heidi	(I really hope she's going to be all right...)	海蒂	（唔……她没问题吧？）	海蒂	（唔～真的沒問題嗎？）
+Date_MCHARA_B_02ID	35		ナレーション	１時間後	Narrator	One hour later...	旁白	1小时后	旁白	1小時後
+Date_MCHARA_B_02ID	36	Valeria	ヴァレリア	はぁ……\nイクセルに怒られちゃった	Valeria	Aw, man... Iksel got really mad at me.	瓦莱莉娅	唉……\n挨了伊克赛尔的骂。	瓦萊莉婭	唉……被伊克賽爾罵了。
+Date_MCHARA_B_02ID	37	Heidi	ハイディ	まぁ、確かにさ	Heidi	I mean, he had a point.	海蒂	那肯定啊。	海蒂	嗯，這也是當然的嘛。
+Date_MCHARA_B_02ID	38	Heidi	ハイディ	いくら美味しそうだからって\n出された店の料理をつまみ食いはねぇ	Heidi	No matter how good his cooking is, he can't let his staff sneak bites off of people's plates.	海蒂	就算料理有多好吃，\n你也不能偷吃端给客人的料理吧。	海蒂	就算看起來再怎麼美味，\n也不能偷吃客人的餐點啊。
+Date_MCHARA_B_02ID	39	Valeria	ヴァレリア	体が勝手に動いちゃって	Valeria	The food was in my mouth before I realized what was happening!	瓦莱莉娅	身体下意识地这么做了嘛。	瓦萊莉婭	身體自己動起來的……
+Date_MCHARA_B_02ID	40	Heidi	ハイディ	おまけだーって言って勝手に\n大盛りにするのもいけないね	Heidi	"You're also probably not supposed to randomly pile extra food on customers' plates and tell them it's their ""lucky day."""	海蒂	嘴上说着“这是送你的”，\n擅自把饭盛得满当当也不行。	海蒂	還有擅自把客人的飯升級成大碗\n這一點也很糟糕。
+Date_MCHARA_B_02ID	41	Valeria	ヴァレリア	ご飯は多ければ多いほど良いと思って	Valeria	But I thought everyone would be happy to get extra food...	瓦莱莉娅	米饭还是吃得越多越好嘛。	瓦萊莉婭	因為我覺得飯越大碗越好啊。
+Date_MCHARA_B_02ID	42	Heidi	ハイディ	みんながみんな、相棒みたいに\n大食いなわけじゃないんだから	Heidi	Sorry, partner. Not everyone is a glutton like you.	海蒂	每个人都不一样啊，\n不是人人都像搭档你一样胃口这么大的。	海蒂	又不是每個人都像搭檔妳這麼能吃。
+Date_MCHARA_B_02ID	43	Heidi	ハイディ	そりゃそんなことされたら、\nイクセルも怒るよ	Heidi	After all of that, of course Iksel was angry!	海蒂	你这么做，伊克赛尔当然会生气。	海蒂	隨便加量又不收費，伊克賽爾當然會生氣啊。
+Date_MCHARA_B_02ID	44	Valeria	ヴァレリア	私のお給料から天引きしてもらおうと\n思ってたんだけど……	Valeria	I just thought he'd take it out of my pay...	瓦莱莉娅	亏损的钱可以从我的薪水里扣嘛……	瓦萊莉婭	我原本是想請他從我的薪水裡面扣的……
+Date_MCHARA_B_02ID	45	Heidi	ハイディ	そういう事思ってやってると、給料どころか\nマイナスになっちゃうんじゃないの？	Heidi	Keep doing that, and you'll be the one owing him money.	海蒂	你继续这么做下去，别说是领薪水，\n都要倒贴着给人干活了吧？	海蒂	抱著這種心態工作，別說薪水了，\n恐怕還得倒貼錢吧？
+Date_MCHARA_B_02ID	46	Valeria	ヴァレリア	そっか……そうよね……。\nはぁ……やっぱりこういう仕事は\n向いてないのかしら	Valeria	Oh...right. That makes sense. *Sigh* I guess I'm not cut out for this kind of work after all.	瓦莱莉娅	这样啊……我就知道……\n唉……我果然不适合做这类工作吧。	瓦萊莉婭	這樣啊……說的也是……\n唉……我果然不適合做這種工作吧。
+Date_MCHARA_B_02ID	47	Valeria	ヴァレリア	良かれと思ってやったんだけど……	Valeria	I really was trying my best, though...	瓦莱莉娅	可我是出于好意才这么做的……	瓦萊莉婭	本來想說可以幫上一些忙的……
+Date_MCHARA_B_02ID	48		選択肢	それは伝わってる	Selection	I could tell you were.	选项	别人感受到了你的好意	選項	已經感受到這份心意
+Date_MCHARA_B_02ID	49	Heidi	ハイディ	それは伝わってると思うよ	Heidi	I know, I could tell you were.	海蒂	别人确实感受到了你的好意。	海蒂	其他人已經感受到這份心意了喔。
+Date_MCHARA_B_02ID	50	Valeria	ヴァレリア	え……？	Valeria	Really...?	瓦莱莉娅	什么……？	瓦萊莉婭	咦……？
+Date_MCHARA_B_02ID	51	Heidi	ハイディ	さっきのお客さんが言ってたよ	Heidi	One of the customers was saying it before.	海蒂	刚才那位客人说了……	海蒂	剛才有位客人說……
+Date_MCHARA_B_02ID	52	Heidi	ハイディ	ちょっと空回っちゃってるけど\n一生懸命働いてる感じが健気で\n応援したくなるって	Heidi	They said that you seemed a little out of your element, but they were rooting for you since it was obvious that you were working so hard.	海蒂	虽然有些瞎忙活，\n但她努力工作的样子值得褒奖，\n让人想为她加油。	海蒂	雖然妳有點手忙腳亂，但是拚命工作的樣子\n會讓人忍不住想替妳加油。
+Date_MCHARA_B_02ID	53	Valeria	ヴァレリア	本当に……？	Valeria	Wow, really?	瓦莱莉娅	真的吗……？	瓦萊莉婭	真的嗎……？
+Date_MCHARA_B_02ID	54	Heidi	ハイディ	（こういうところだろうな。\n　「応援したくなる」の）	Heidi	(Her heart's in the right place—she's just the kind of underdog you always want to cheer for.)	海蒂	（就是这点让人“想为你加油”呀。）	海蒂	（也許這一點就是讓人「想替她加油」的原因吧。）
+Date_MCHARA_B_02ID	55		選択肢	王国一豪快なウェイトレスとして売りにする	Selection	We'll make you the kingdom's most heroic waitress.	选项	把全王国最豪爽的女服务员当作卖点	選項	以全王國最豪邁的女服務生為賣點
+Date_MCHARA_B_02ID	56	Heidi	ハイディ	そこを売りにしよう	Heidi	I have an idea. We need to play to your strengths.	海蒂	把这个当卖点吧。	海蒂	就展現妳的賣點吧。
+Date_MCHARA_B_02ID	57	Heidi	ハイディ	豪快な大型新人現るって宣伝すれば、\n一定の層には支持されるかも	Heidi	Once word gets out that the cafe has a heroic new waitress on board, I'm sure you'll get loads of new customers!	海蒂	打出“豪爽新人现身”的宣传，\n搞不好能得到某些群体的支持。	海蒂	以豪邁的實力派新人作為宣傳，\n也許能獲得特定客層的支持。
+Date_MCHARA_B_02ID	58	Valeria	ヴァレリア	豪快……悪い響きじゃないわね。\nわかったわ！	Valeria	Heroic... Yeah. That sounds pretty cool!	瓦莱莉娅	豪爽……听起来不赖啊，\n我明白了！	瓦萊莉婭	豪邁……聽起來不錯，我明白了！
+Date_MCHARA_B_02ID	59		客	きゃー！　\nあのウエイトレス、武器を振り回してるわ！	Customer	Eek, help! That waitress is swinging a weapon around!	客人	呀！\n那个女服务员在挥舞武器！	顧客	呀啊──！那個女服務生在店裡揮舞武器！
+Date_MCHARA_B_02ID	60	Valeria	ヴァレリア	ご、ごめん！\nちょっと暑いって言ってた人がいたから	Valeria	S-Sorry! I just, er, one of the customers said it was a little too hot in here, so...	瓦莱莉娅	抱、抱歉！\n有人说热，我就想扇扇！	瓦萊莉婭	抱、抱歉！因為客人說覺得有點熱……
+Date_MCHARA_B_02ID	61	Heidi	ハイディ	（なんか、拍車がかかってような……）	Heidi	(I wonder if there's any way to help her...)	海蒂	（总感觉有点太跳跃了……）	海蒂	（情況似乎更嚴重了……）
+Date_MCHARA_B_02ID	62		選択肢	誰かお手本を見つけたら？	Selection	Have you tried imitating someone else?	选项	学学别人是怎么接客的吧？	選項	找其他人當學習對象？
+Date_MCHARA_B_02ID	63	Heidi	ハイディ	誰か接客のお手本を見つけたら？\nたとえばライザとか	Heidi	Have you tried imitating someone else? Maybe you could learn a thing or two from watching Ryza in action.	海蒂	学学别人是怎么接客的吧？\n比如跟莱莎学学。	海蒂	學習其他人的待客方式呢？\n比如說萊莎之類的。
+Date_MCHARA_B_02ID	64	Heidi	ハイディ	人懐っこいけどお節介過ぎない、\nちょうど良い距離感の接客じゃない？	Heidi	She's friendly with the customers, but never nosy! I'd say she has the perfect balance for customer service.	海蒂	亲切但是不会过分热情，\n她这种就是距离感把控到位的接客。	海蒂	平易近人卻不會多管閒事，\n這樣的距離感挺恰到好處的吧？
+Date_MCHARA_B_02ID	65	Valeria	ヴァレリア	なるほど……。\nちょっと真似してみるわ	Valeria	Okay, got it. I'll try and copy her.	瓦莱莉娅	这样啊……\n我学着试试。	瓦萊莉婭	原來如此……我來試試看。
+Date_MCHARA_B_02ID	66		客	居心地良い店だね。また来るよ	Customer	This cafe was lovely. I'll definitely be coming back again!	客人	这家店待着很舒服，我还会再来的。	顧客	真是舒適的咖啡廳，我會再來的。
+Date_MCHARA_B_02ID	67	Valeria	ヴァレリア	ハイディ、ありがとう！\nうまくいったわ！！	Valeria	Heidi, it worked! Thanks for your help!	瓦莱莉娅	谢谢你，海蒂！\n成功了！！	瓦萊莉婭	海蒂，謝謝妳！我成功了！！
+Date_MCHARA_B_02ID	68	Heidi	ハイディ	（うん、良い助言ができたみたい）	Heidi	(Good, my advice seemed to do the trick!)	海蒂	（嗯，看来我提了个不错的建议。）	海蒂	（嗯，看來這個提議不錯。）
+Date_MCHARA_B_02ID	69	Heidi	ハイディ	ところで、最近……\n家事をしたり、働いたり、\nどういう風の吹き回し？	Heidi	By the way, what's up with you lately? First you were doing chores, now you're working a new job...	海蒂	说起来，你最近……\n又是做家务又是干活的，\n到底是发生什么了？	海蒂	話說，最近……妳一下幫忙家務、一下又應徵工作，\n究竟是怎麼回事？
+Date_MCHARA_B_02ID	70	Valeria	ヴァレリア	苦手なことにあえて挑戦したい気分なの	Valeria	I wanted to challenge myself. You know, try new things.	瓦莱莉娅	我就是想挑战自己不擅长做的事。	瓦萊莉婭	我想要挑戰自己不擅長的事情。
+Date_MCHARA_B_02ID	71	Valeria	ヴァレリア	フロッケも頑張ってるし、\nランツェだって変わったし、\n私だって成長してるのよ	Valeria	Flocke is out there giving it her all, and Lanze has been working on himself. I thought that I needed to do some growing too.	瓦莱莉娅	芙洛可也在努力，\n兰泽也有改变，\n我也是会成长的呀。	瓦萊莉婭	芙洛可很努力，\n藍澤也改變了很多，\n我當然也要跟著成長啊。
+Date_MCHARA_B_02ID	72	Heidi	ハイディ	（うーん、本当に？\n　何か隠しているようにも見えるけど）	Heidi	(Hmm... Is she telling the truth? I'm getting the feeling she's hiding something.)	海蒂	（唔……真的吗？\n　她像是有事瞒着我。）	海蒂	（唔～真的是這樣嗎？\n　看上去她還隱瞞了些什麼。）
+Date_MCHARA_B_02ID	73		選択肢	本当にそれだけ？	Selection	Is that really the only reason?	选项	真的就是因为这些？	選項	真的只有這樣嗎？
+Date_MCHARA_B_02ID	74	Valeria	ヴァレリア	ええ！	Valeria	Huh?!	瓦莱莉娅	真的！	瓦萊莉婭	是的！
+Date_MCHARA_B_02ID	75	Valeria	ヴァレリア	ほら、あれよ。えっと……\nレスナが前にどっかで言ってた……	Valeria	Er, well, it's just... I was talking to Resna before.	瓦莱莉娅	就是那个呀，你想想，\n蕾斯娜之前也在什么地方说过的……	瓦萊莉婭	妳想想，就是那個啊，呃……\n蕾斯娜之前在哪兒說過的……
+Date_MCHARA_B_02ID	76	Valeria	ヴァレリア	「女子、三日会わざれば\n　目をかっぴらいて見よ」よ！	Valeria	"She said, ""With girls, absence makes the heart grow fonder! A few days apart will do you some good!"""	瓦莱莉娅	“女士别三日，当瞪眼相看”！	瓦萊莉婭	「女別三日，當刮目相看」啦！
+Date_MCHARA_B_02ID	77	Heidi	ハイディ	なんか色々違う気がするけど、\nまぁ大体伝わったわ	Heidi	I feel like I'm missing something...but whatever.	海蒂	总觉得不太对，\n不过我懂你的意思了。	海蒂	總覺得意思完全不一樣……\n但我大概明白了。
+Date_MCHARA_B_02ID	78		選択肢	気になる相手でもできた？	Selection	Is it because there's a special someone on your mind?	选项	你是有在意的人了吗？	選項	妳有了在意的對象嗎？
+Date_MCHARA_B_02ID	79	Heidi	ハイディ	気になる相手でもできた？	Heidi	Is it because there's a special someone on your mind?	海蒂	你是有在意的人了吗？	海蒂	妳有了在意的對象嗎？
+Date_MCHARA_B_02ID	80	Valeria	ヴァレリア	え？　なんで？	Valeria	Huh? Why?	瓦莱莉娅	啊？为什么这么想？	瓦萊莉婭	咦？為什麼？
+Date_MCHARA_B_02ID	81	Heidi	ハイディ	お金を貯めて、何か渡したいのかなって	Heidi	Well, I thought you might be saving up some Cole to buy them something nice.	海蒂	我还以为你是要攒钱送人东西呢。	海蒂	我猜妳是想要存錢買禮物送人。
+Date_MCHARA_B_02ID	82	Heidi	ハイディ	それとも自分に投資して、\n振り向かせたい感じ？	Heidi	Or maybe you wanted to buy yourself some new clothes to get their attention.	海蒂	还是说你要为自己投资，\n好让那个人注意到你？	海蒂	還是妳想投資自己，引起對方的注意？
+Date_MCHARA_B_02ID	83	Valeria	ヴァレリア	んー、そうね。\n今はロロナが気になるかしら	Valeria	You know, I guess you're right. I can't stop thinking about Rorona.	瓦莱莉娅	唔……是的呢，\n现在我比较在意萝乐娜吧。	瓦萊莉婭	嗯～現在的話，可能是蘿樂娜吧。
+Date_MCHARA_B_02ID	84	Heidi	ハイディ	え！？	Heidi	Seriously?!	海蒂	咦？！	海蒂	咦！？
+Date_MCHARA_B_02ID	85	Valeria	ヴァレリア	今日のおすすめが魚料理だったから、\nきっと賄いはお魚のパイよね。ふふふ	Valeria	Today's special is fish. So I was thinking there might even be fish in the pie she gives us today. Heh heh...	瓦莱莉娅	今天的推荐料理是鱼料理，\n员工餐肯定是鱼肉派吧，呵呵。	瓦萊莉婭	今天的推薦餐點是魚肉料理，\n所以我猜員工餐一定是烤魚派。嘿嘿嘿。
+Date_MCHARA_B_02ID	86	Heidi	ハイディ	（そういうことか……）	Heidi	(So her mind was stuck on food again...)	海蒂	（在意的是这个啊……）	海蒂	（原來是說這個嗎……）
+Date_MCHARA_B_02ID	87		選択肢	カマをかけてみる	Selection	Call her out	选项	套她的话	選項	試著套話
+Date_MCHARA_B_02ID	88	Heidi	ハイディ	鼻ヒクヒクしてるよ。\nヴァレリアが嘘をついているときのクセだ	Heidi	Your nose is twitching... That's your tell. I know you're lying to me, Valeria.	海蒂	瓦莱莉娅，你的鼻子在动哦，\n你撒谎的时候就会这样。	海蒂	妳每次說謊都會下意識地抽動鼻子，就像現在。
+Date_MCHARA_B_02ID	89	Valeria	ヴァレリア	……？	Valeria	Huh...?	瓦莱莉娅	……？	瓦萊莉婭	……？
+Date_MCHARA_B_02ID	90	Valeria	ヴァレリア	……あ、カマかけようとしたわね！\nその手には乗らないわよ	Valeria	Ohhh, I get it. You're trying to trick me into talking. Sorry, but that's not gonna work on me.	瓦莱莉娅	……啊，你是想套我的话吧！\n我可不会上当。	瓦萊莉婭	……啊，妳想套我的話對吧！\n我可是不會上當的。
+Date_MCHARA_B_02ID	91	Heidi	ハイディ	ダメかぁ。\nこういう勘鋭いんだよなぁ	Heidi	Crap, you saw right through me...	海蒂	不起作用啊。\n你在这时候总会很敏锐呢。	海蒂	果然行不通啊。\n畢竟妳對這方面特別敏銳嘛。
+Date_MCHARA_B_02ID	92	Valeria	ヴァレリア	ふふん、伊達に看板娘兼用心棒じゃ\nないのよ！	Valeria	Heh! You won't fool this poster girl-bodyguard so easily!	瓦莱莉娅	呵呵，\n我招牌女店员兼保镖的名号可不是吹的！	瓦萊莉婭	哼哼，我這招牌姑娘兼保鑣可不是當假的！
+Date_MCHARA_B_02ID	93	Heidi	ハイディ	それは関係あるの……？	Heidi	What does any of that have to do with it...?	海蒂	跟这个有关系吗……？	海蒂	這兩者有關係嗎……？
+Date_MCHARA_B_02ID	94	Heidi	ハイディ	（やっぱり、他にも理由がありそうだな）	Heidi	(I'm sure of it now. There's definitely another reason Valeria is doing all of this.)	海蒂	（她肯定还有别的理由。）	海蒂	（看樣子她果然另有隱情。）
+Date_MCHARA_B_02ID	95	Heidi	ハイディ	（成長しようとする心持ちは良いことだと\n　思うけど……なんで理由を隠そうと\n　してるんだろう？）	Heidi	(I know that she really does want to grow as a person, but there's definitely more to it. Why isn't she telling me the whole truth?)	海蒂	（她想成长是好事……\n　可为什么要隐瞒理由呢？）	海蒂	（雖然有想要成長的上進心是件好事……\n　但她為何要隱瞞原因呢？）
+Date_MCHARA_B_02ID	96	Heidi	ハイディ	（何かこっそりお金を稼ごうとしてる\n　みたいだし。しかも、カフェで）	Heidi	(It seems like she was trying to earn money on the side without me knowing. And at the cafe, no less.)	海蒂	（而且她好像还在偷偷攒钱，\n　还是在咖啡厅打工。）	海蒂	（這樣好像在偷偷摸摸地賺錢一樣，\n　而且還是在咖啡廳。）
+Date_MCHARA_B_02ID	97	Heidi	ハイディ	（もしかして、私に黙って依頼を……？）	Heidi	(Wait a minute... Has she been taking on requests without me?)	海蒂	（该不会是瞒着我接了委托吧……？）	海蒂	（難不成，她瞞著我接了委託……？）
+Date_MCHARA_B_03ID	0	Heidi	ハイディ	（ある日、ふと目を醒ますと、ヴァレリアが\n　こっそり出かけようとしていた）	Heidi	(Early one morning, I woke to find Valeria trying to sneak out of the house.)	海蒂	（某天，在我醒来的时候，\n　瓦莱莉娅已经打算偷偷出门了。）	海蒂	（這天，我早上醒來時，\n　發現瓦萊莉婭正打算偷溜出門。）
+Date_MCHARA_B_03ID	1	Heidi	ハイディ	（あんなに寝るのが好きなヴァレリアが、\n　早起きしていったいどこへ行くんだろう）	Heidi	(Seeing her up so early was weird in and of itself, especially since she's always sleeping in.)	海蒂	（瓦莱莉娅这么爱睡觉，\n　她起大早是要去做什么么呢？）	海蒂	（平時最愛睡覺的瓦萊莉婭竟然起了個大早，\n　她究竟是要去哪裡呢？）
+Date_MCHARA_B_03ID	2	Heidi	ハイディ	（気になった私は後をついていくことにした）	Heidi	(It was all awfully fishy, so I decided to tail her.)	海蒂	（我很在意，所以就跟着她过去了。）	海蒂	（出於好奇，我決定偷偷跟上去。）
+Date_MCHARA_B_03ID	3	Valeria	ヴァレリア	むー……あの髪飾りとこの髪飾り、何が違うの？\n全部一緒に見える……	Valeria	Ngh... What's the difference between these two hair pins? They look exactly the same...	瓦莱莉娅	唔……那个发饰跟这个发饰有什么不同啊？\n看起来全都一样……	瓦萊莉婭	唔……那個髮飾和這個髮飾有什麼不同呢？\n看起來都一樣啊……
+Date_MCHARA_B_03ID	4	Valeria	ヴァレリア	うーん、若い子の流行りは分からない！\nまぁ、おじさんの流行りも分からないけど……	Valeria	Hmm... I just don't get girly fads like this! Then again, I don't really know what guys are into, either.	瓦莱莉娅	唔……我不清楚年轻人的时尚潮流啊！\n不过，大叔的时尚潮流我也不懂就是了……	瓦萊莉婭	嗯～我不懂年輕人的流行！\n不過，中年人的流行我也不太懂啦……
+Date_MCHARA_B_03ID	5	Valeria	ヴァレリア	装飾品がダメなら、仕事道具？\nでも尚更何が良いか分からないわ	Valeria	I guess I'll give up on accessories. Maybe something practical like a tool might be better, but...what?	瓦莱莉娅	如果装饰品不行的话，那就选工作道具？\n可是这我就更不懂了。	瓦萊莉婭	裝飾品不行的話，工作道具呢？\n可是這就更不知道哪個好了。
+Date_MCHARA_B_03ID	6	Valeria	ヴァレリア	いっそ武器でも渡す？\nでも好みもあるし……	Valeria	How about a weapon? Although, most people would want to pick those out for themselves...	瓦莱莉娅	干脆送武器吧？\n可每个人的喜好都不一样……	瓦萊莉婭	乾脆送武器呢？但也不一定用得順手……
+Date_MCHARA_B_03ID	7	Heidi	ハイディ	そこのお嬢さん、お困りかい？	Heidi	Hey there, missy! It looks like you're in a spot of trouble.	海蒂	这位小姐，你不知道该选什么吗？	海蒂	這位小姐遇到困難了嗎？
+Date_MCHARA_B_03ID	8	Valeria	ヴァレリア	そうなの。すごく困って……	Valeria	Way more than a spot! I can't decide on—	瓦莱莉娅	是呀，我很头疼……	瓦萊莉婭	是啊，我真的很煩惱……
+Date_MCHARA_B_03ID	9	Valeria	ヴァレリア	うそ、ついてきてたの！？\n全然気配感じなかったのに……	Valeria	Wait, Heidi?! You followed me?! I didn't notice at all...	瓦莱莉娅	不是吧，你跟着我过来了？！\n我完全没发现……	瓦萊莉婭	等等，妳怎麼跟來了！？\n我完全沒有發現……
+Date_MCHARA_B_03ID	10	Heidi	ハイディ	ふふふ、手練れの斥候を舐めてもらっちゃ\n困りますぜ	Heidi	Hehe, that'll teach you to underestimate a master scout like me.	海蒂	呵呵，别小瞧我这个侦察老手。	海蒂	哼哼哼，小看身手不凡的斥候可不行啊。
+Date_MCHARA_B_03ID	11	Valeria	ヴァレリア	そうだったわ、こういうの大得意よね。\nいつもお世話になってるわ	Valeria	Right, that's your number one specialty... You're always getting us out of tough spots with your skills.	瓦莱莉娅	也对，你很擅长做这些。\n一直以来都受你照顾了。	瓦萊莉婭	對哦，這是妳最擅長的事。\n平時還真受妳關照了。
+Date_MCHARA_B_03ID	12	Heidi	ハイディ	で、何探してたの？\n自分用ではなさそうだけど	Heidi	So? What were you looking for? It didn't look like you were picking something out for yourself.	海蒂	说正事吧，你在挑什么呢？\n看起来好像不是在给自己挑东西。	海蒂	話說，妳在找什麼？\n看起來不像是幫自己買的。
+Date_MCHARA_B_03ID	13	Valeria	ヴァレリア	……仕方ないわね。正直に言うわ	Valeria	Fine... I'll tell you the truth.	瓦莱莉娅	……真没办法，那我就老实交代了。	瓦萊莉婭	……真沒辦法，老實告訴妳吧。
+Date_MCHARA_B_03ID	14	Valeria	ヴァレリア	私、いつも面倒見てくれてる家族に\nお礼がしたいの	Valeria	I was just looking for a way to show everyone at home how much I appreciate them for always taking care of me.	瓦莱莉娅	我想送东西给一直照顾我的家人。	瓦萊莉婭	我想要買禮物送給平時照顧我的家人。
+Date_MCHARA_B_03ID	15	Heidi	ハイディ	なるほどぉ！　最近家事やら仕事やら\n頑張ってたのはそのためだったのか！	Heidi	So that's why you've been working and doing chores around the house. Now it's starting to make sense!	海蒂	哦！最近你做了家务还努力打工，\n原来也是为了这个啊！	海蒂	原來如此，所以妳最近才會這麼努力挑戰\n工作和做家務啊！
+Date_MCHARA_B_03ID	16	Valeria	ヴァレリア	うん、苦手なことは任せっぱなしで\nずっとおんぶに抱っこだったから	Valeria	I'm not great at that kind of thing, so I've always let everyone else pick up my slack.	瓦莱莉娅	嗯，我把不擅长的事都交给别人去做，\n一直都在麻烦别人帮我的忙嘛。	瓦萊莉婭	嗯，畢竟我老是把不擅長的事情都推給你們。
+Date_MCHARA_B_03ID	17	Valeria	ヴァレリア	こういう機会だからこそ、\n感謝の気持ちを伝えるのもいいかなって	Valeria	So I thought this would be a great chance to show everyone that I'm thankful for them.	瓦莱莉娅	趁着这个机会，\n我想表达我的感谢之情。	瓦萊莉婭	我想正好趁這個機會，\n向你們表達感謝之意也不錯吧。
+Date_MCHARA_B_03ID	18	Heidi	ハイディ	じゃあ、街の情報にも詳しいハイディちゃんが\n最新の流行を教えてあげるよ！	Heidi	Then I can definitely be of service! I know the latest talk around town, so I can teach you all about what's trendy!	海蒂	那就让对城里的消息了如指掌的海蒂\n告诉你时下潮流吧！	海蒂	既然如此，就讓城鎮情報通海蒂來告訴妳\n最新的流行趨勢吧！
+Date_MCHARA_B_03ID	19	Heidi	ハイディ	それにヴァレリアの知らない二人の情報も\n教えられるかもしれないし	Heidi	Plus, who knows? I might just have some info on the two of them that you don't!	海蒂	说不定我还能跟你说一些\n你不知道的有关他俩的消息呢。	海蒂	而且妳對那兩人如果有不了解的地方，\n也許我能提供一些資訊。
+Date_MCHARA_B_03ID	20	Valeria	ヴァレリア	本当に？　ありがとう！	Valeria	Wow, you'll help me? Thanks!	瓦莱莉娅	真的吗？！谢谢你！	瓦萊莉婭	真的嗎？謝謝妳！
+Date_MCHARA_B_03ID	21	Valeria	ヴァレリア	うーん、難しいわ……	Valeria	Ugh, this is so hard...	瓦莱莉娅	唔……好难抉择啊……	瓦萊莉婭	唔～真難選擇……
+Date_MCHARA_B_03ID	22	Valeria	ヴァレリア	フロッケが好きそうな髪飾りを見つけたけど\n流行の形だから同じのを持ってそうだし……	Valeria	We found a hair pin that Flocke would love, but since it's a popular style, she might already have one like it.	瓦莱莉娅	我找到了芙洛可应该会喜欢的发饰，\n可这款太流行了，她可能已经有同款了……	瓦萊莉婭	雖然有找到芙洛可會喜歡的髮飾，\n但是這些流行款她應該都有了……
+Date_MCHARA_B_03ID	23	Valeria	ヴァレリア	ランツェには防水で見た目も良い靴を\n見つけたけど、足の大きさ確認できてないし……	Valeria	And waterproof boots would be perfect for Lanze, but we don't know his shoe size...	瓦莱莉娅	我给兰泽找到了帅气的防水鞋，\n可没办法确认这双鞋合不合脚……	瓦萊莉婭	還發現了一雙很適合藍澤的時髦防水靴，\n可是不知道他的尺碼……
+Date_MCHARA_B_03ID	24	Valeria	ヴァレリア	ねえ、ハイディ。あなたならこういう時\nどうする？　何をあげる？	Valeria	Hey, Heidi. If you were me, what would you do? What kind of present would you choose?	瓦莱莉娅	海蒂，你在这种时候会怎么做？\n会送他们什么？	瓦萊莉婭	海蒂，這種時候妳會怎麼辦？妳會送什麼？
+Date_MCHARA_B_03ID	25	Heidi	ハイディ	うーん、もうめんどくさいから\nちょっと高いお店で奢るとか……	Heidi	Well, this kind of present shopping is a big pain, so I'd probably just take them out to eat somewhere nice.	海蒂	唔，想这些事太麻烦了，\n干脆请他们去高级餐厅吃一顿……	海蒂	唔～我會放棄思考，\n直接選個高檔一點的餐廳請客……
+Date_MCHARA_B_03ID	26	Heidi	ハイディ	私はそういうのでも結構嬉しいけどね。\nご飯食べながら駄弁るの好きだし、気楽だし	Heidi	That's the sort of thing I love, anyway. I always have a great time chatting with friends over food.	海蒂	我还挺喜欢那样的。\n边吃饭边闲聊，气氛比较轻松。	海蒂	如果是我也會非常開心耶。\n我喜歡邊吃飯邊閒聊，這樣也比較放鬆。
+Date_MCHARA_B_03ID	27	Valeria	ヴァレリア	本当？　じゃあ、そうしようかしら？	Valeria	Oh, really? Then why don't we just do that?	瓦莱莉娅	是吗？那就这么做吧？	瓦萊莉婭	真的嗎？那我們就這麼辦吧？
+Date_MCHARA_B_03ID	28	Heidi	ハイディ	でもランツェたち帰ってくるの来週末だよね？\nお祭り期間中だからどの店も混んでるかも	Heidi	But Lanze and Flocke won't be back until next weekend, and the restaurants will all be packed then for the festival.	海蒂	可兰泽他们是下周末回来的吧？\n到时候正好赶上庆典，每家店人都会很多。	海蒂	可是藍澤他們要下個週末才會回來吧？\n那時候每間店可能都會擠滿祭典的人潮。
+Date_MCHARA_B_03ID	29	Valeria	ヴァレリア	ああ、すっかり忘れてたわ……	Valeria	Ah... I totally forgot about that.	瓦莱莉娅	对哦，我完全给忘了……	瓦萊莉婭	啊，我完全忘了這件事……
+Date_MCHARA_B_03ID	30	Heidi	ハイディ	とりあえず、そこの屋台で適当に買ってきたから\n食べよう。何か食べれば良い案が湧いてくるかもよ	Heidi	How about we buy some food from over there first? Maybe a full stomach will help us think.	海蒂	总之先去那边的小摊上随便买点什么吧，\n吃了东西可能就会有好主意了。	海蒂	總之，我們先去對面的攤販買點東西吃吧。\n也許吃著吃著就想出好點子了。
+Date_MCHARA_B_03ID	31	Valeria	ヴァレリア	さすがハイディ、いいこと言うわね！	Valeria	I like the way you think, Heidi! You always know just what I need!	瓦莱莉娅	说得好，不愧是海蒂！	瓦萊莉婭	不愧是海蒂，這提議真棒！
+Date_MCHARA_B_03ID	32	Valeria	ヴァレリア	私、誰かに贈り物するのって初めてなの。\n少なくとも、記憶にはない	Valeria	This is actually the first time I've ever tried to give somebody a present—that I can remember, at least.	瓦莱莉娅	我还是头一次要送人东西。\n至少在我记忆里是没有过的。	瓦萊莉婭	這還是我第一次要送禮給別人，\n至少我沒有類似的記憶。
+Date_MCHARA_B_03ID	33	Valeria	ヴァレリア	毎年誕生日やらなにやらで贈り物する人たちはすごいわ。\nよく頭が破裂しないわね	Valeria	People who always give gifts for special occasions are something else. I feel like my head's about to burst...	瓦莱莉娅	每年都送生日礼物什么的人可真厉害啊，\n居然不会想破脑袋。	瓦萊莉婭	那些每逢生日節慶都會送禮的人真厲害，\n他們居然不會想破頭。
+Date_MCHARA_B_03ID	34	Heidi	ハイディ	いや、相棒はかなり真剣に考えてる方だよ。\nこんな何軒もお店梯子しないよ、なかなか	Heidi	That's because you're taking this so seriously, partner. Most people don't spend this much time and effort looking.	海蒂	不不，是你想得太认真了。\n一般是不会这样连着逛好几家店挑东西的。	海蒂	不，是搭檔妳考慮得太認真了。\n通常不會有人跑十幾間店挑禮物。
+Date_MCHARA_B_03ID	35	Heidi	ハイディ	こんなに考えて選ぶなら、きっと何渡されても\n二人とも喜ぶと思うけどなぁ	Heidi	And since you put your heart into it, I'm sure those two will be happy no matter what you decide to give them.	海蒂	你再三思考选出来的东西，\n不管最后送出的是什么，他们肯定都会高兴的。	海蒂	妳這麼費心挑選，\n他們不管收到什麼都一定會很開心的。
+Date_MCHARA_B_03ID	36	Heidi	ハイディ	それにヴァレリアだって稼いで家族に貢献してるし、\n別に無理にお礼しなくても	Heidi	But you know, I don't think either of them are expecting any gifts. After all, you help support us with the money you earn already.	海蒂	而且你也有赚钱为家人做贡献，\n不用非要给家人送谢礼的。	海蒂	而且瓦萊莉婭妳也有在賺錢養家，\n不需要勉強送禮。
+Date_MCHARA_B_03ID	37	Valeria	ヴァレリア	ううん、どうしてもしたいの！\nこのままじゃ気が収まらないわ！	Valeria	No, I want to do this no matter what! It will bother me unless I do!	瓦莱莉娅	不行，说什么都要给！\n就这么轻易放弃，我不能接受。	瓦萊莉婭	不行，無論如何我都要送！\n不然我會過意不去！
+Date_MCHARA_B_03ID	38	Valeria	ヴァレリア	ハイディ、悪いけどこれ食べたら\nもう少しだけ付き合ってもらえるかしら？	Valeria	I know it's a pain, but will you help me look some more after we finish our food?	瓦莱莉娅	海蒂，不好意思，\n等吃完这些了能再陪陪我吗？	瓦萊莉婭	抱歉，海蒂，吃完點心後妳能再陪我一下嗎？
+Date_MCHARA_B_03ID	39	Heidi	ハイディ	う、うん……	Heidi	Oh, uh... Sure.	海蒂	好、好的……	海蒂	唔、嗯……
+Date_MCHARA_B_03ID	40	Heidi	ハイディ	（すごいやる気。\n　これは手伝わないわけにはいかないや）	Heidi	(She's really fired up about this, so I need to help her any way I can.)	海蒂	（她好有干劲啊。\n　这下一定得帮她了。）	海蒂	（真有幹勁，看樣子只好奉陪到底了。）
+Date_MCHARA_B_03ID	41	Heidi	ハイディ	（でも、なんでそこまでして\n　お礼したがってるんだろう？）	Heidi	(But still, I wonder why she's so hung up on getting them presents...)	海蒂	（不过，她怎么就这么想要送礼呢？）	海蒂	（不過，她為什麼會這麼堅持要道謝呢？）
+Date_MCHARA_B_03ID	42	Heidi	ハイディ	……くうっ！　目頭が熱い！	Heidi	I... *Sniffle* ...I think I've got something in my eye!	海蒂	……唔！好感动啊！	海蒂	……嗚！感動得要哭了！
+Date_MCHARA_B_03ID	43	Valeria	ヴァレリア	え！？　ハイディ！？	Valeria	Huh?! Heidi?!	瓦莱莉娅	咦？！海蒂？！	瓦萊莉婭	咦！？海蒂！？
+Date_MCHARA_B_04ID	0		村人	ごめんなさいね、いつも魔物が出たら\n頼っちゃって	Villager	Sorry for the trouble, we always end up calling you when we have monster problems...	村民	真是麻烦你们了，\n每次一有魔物出现就来拜托你们。	村民	真不好意思，每次魔物出現就麻煩妳們。
+Date_MCHARA_B_04ID	1	Heidi	ハイディ	いえいえ、気兼ねなくお任せください！\nもうすぐヴァレリアも来ると思うんで……\nって、あれ？	Heidi	It's no trouble at all, just leave those monsters to us! Valeria should be here any minute now, so... Huh?	海蒂	不麻烦的，请放宽心交给我们！\n瓦莱莉娅很快就来……\n咦？	海蒂	不會不會，請放心交給我們吧！\n瓦萊莉婭應該也快來了……\n等等，咦？
+Date_MCHARA_B_04ID	2	Valeria	ヴァレリア	…………	Valeria	...	瓦莱莉娅	……	瓦萊莉婭	…………
+Date_MCHARA_B_04ID	3	Heidi	ハイディ	ヴァレリア……？	Heidi	Valeria...?	海蒂	瓦莱莉娅……？	海蒂	瓦萊莉婭……？
+Date_MCHARA_B_04ID	4	Valeria	ヴァレリア	ああ、ごめんなさい。\nさっさと倒しに行きましょ	Valeria	Oh, sorry. Let's go take care of those monsters.	瓦莱莉娅	啊，抱歉。\n我们赶紧去打倒它们吧！	瓦萊莉婭	啊，抱歉。我們快點出發去打魔物吧。
+Date_MCHARA_B_04ID	5	Heidi	ハイディ	全然大したことなかったね。\nこれで報酬貰えちゃうんだから\n美味しい仕事……	Heidi	That was a piece of cake! Don't you just love getting paid for easy jobs?	海蒂	不堪一击嘛，\n三两下就能拿到报酬，\n这工作可真轻松……	海蒂	沒什麼了不起的嘛。\n打倒牠就能領到報酬，\n這真是一門好生意……
+Date_MCHARA_B_04ID	6	Valeria	ヴァレリア	はぁ……	Valeria	*Sigh*...	瓦莱莉娅	唉……	瓦萊莉婭	唉……
+Date_MCHARA_B_04ID	7	Heidi	ハイディ	どうしたの？　なんかあった？	Heidi	What's wrong, Valeria? Something on your mind?	海蒂	怎么了？发生什么事了？	海蒂	怎麼了？有什麼事嗎？
+Date_MCHARA_B_04ID	8	Valeria	ヴァレリア	この前、贈り物探しを\n手伝ってもらったでしょ？	Valeria	You know how you were helping me look for presents before?	瓦莱莉娅	之前让你帮我挑礼物了吧？	瓦萊莉婭	我之前不是請妳幫我一起找禮物嗎？
+Date_MCHARA_B_04ID	9	Valeria	ヴァレリア	あれからも色々お店を巡って\nこれだ！　って思える贈り物を\nやっと見つけたの	Valeria	Well, after that, I kept looking and looking...and I finally found the perfect present.	瓦莱莉娅	之后我也去了好多家店，\n总算是找到了特别合适的礼物。	瓦萊莉婭	那天之後，我又四處走訪了很多店。\n最後終於找到理想中的禮物了。
+Date_MCHARA_B_04ID	10	Heidi	ハイディ	おおっ、よかったじゃん！	Heidi	Oh, that's great!	海蒂	哦，那不是好事嘛！	海蒂	哦哦，那很好啊！
+Date_MCHARA_B_04ID	11	Valeria	ヴァレリア	でも、お金が足りなくて。\n代わりになるものを探したんだけど、\nそれ以上のものが全然見つからなかったの	Valeria	Yeah, but I don't have enough money. I tried to find something cheaper, but I couldn't find anything else that felt right.	瓦莱莉娅	可我身上的钱不够。\n我去找了替代品，\n但是怎么也找不到比那个更好的礼物了。	瓦萊莉婭	但是，我的錢不夠。\n後來本來想找替代品，\n但完全找不到更適合的了。
+Date_MCHARA_B_04ID	12	Valeria	ヴァレリア	だから、とりあえずカフェの仕事を\nいっぱい入れて、他にも仕事を\n増やさなきゃって思って	Valeria	That's why I started taking lots of shifts at the cafe and doing a bunch of other odd jobs.	瓦莱莉娅	所以我就想着多去咖啡厅打工，\n还想增加其他的工作。	瓦萊莉婭	所以，我得先增加在咖啡廳打工的時數，\n然後尋找第二份兼職。
+Date_MCHARA_B_04ID	13	Heidi	ハイディ	（そんなに焦る必要はないと\n　思うんだけど……って、\n　ただ言っても聞いてもらえないか）	Heidi	(I don't get what's the big rush is... But even if I ask, I don't think she'll tell me.)	海蒂	（我觉得没必要这么着急……\n　说了她也不会听吧。）	海蒂	（我覺得不需要這麼著急……\n　但是說了她應該也聽不進去吧。）
+Date_MCHARA_B_04ID	14	Heidi	ハイディ	（そもそももう少しヴァレリアが\n　何を考えているのか探るべきかも\n　しれない）	Heidi	(It looks like we're on different pages. But if I'm going to help her, I need to figure out what she's thinking...)	海蒂	（或许还是得想办法弄清楚\n　瓦莱莉娅究竟在想些什么。）	海蒂	（也許我應該先試著多了解一下瓦萊莉婭的想法。）
+Date_MCHARA_B_04ID	15		選択肢	依頼じゃダメな理由がある？	Selection	Why can't you just take on some requests?	选项	为什么不能做委托？	選項	有不能接委託賺錢的原因嗎？
+Date_MCHARA_B_04ID	16	Valeria	ヴァレリア	それは……\n苦手なことを克服したいし……	Valeria	I'm trying to grow and try new things, so...	瓦莱莉娅	那是因为……\n我想克服不擅长的事……	瓦萊莉婭	因為……我想克服自己不擅長的事……
+Date_MCHARA_B_04ID	17	Heidi	ハイディ	本業に専念して、お金を稼いでくるだけでも\n充分お礼になると思うんだけど	Heidi	But you already work hard to support us with the requests you usually take on. Isn't that more than enough?	海蒂	光是专心做好本职工作，\n就能攒够买下礼物的钱了吧。	海蒂	我認為專注於本業，努力賺錢貼補家用，\n就是最好的感謝了。
+Date_MCHARA_B_04ID	18	Valeria	ヴァレリア	分かってるわよ。\nでも、それだと何も変わらないし……	Valeria	If I just keep on doing what I always do, nothing will change.	瓦莱莉娅	这我明白呀。\n可这样就不会有任何改变……	瓦萊莉婭	我非常明白。\n可是，這樣的話什麼都不會改變……
+Date_MCHARA_B_04ID	19	Heidi	ハイディ	じゃあ、もっと稼げる依頼探してこよっか？	Heidi	Then why don't we look for jobs that will earn you more Cole?	海蒂	那我去帮你找找更有赚头的工作？	海蒂	那我去找些更賺錢的委託回來吧？
+Date_MCHARA_B_04ID	20	Valeria	ヴァレリア	うーん、嬉しいんだけど\nそういうことじゃないのよ	Valeria	Er, it's nice of you to offer...but it's not that simple.	瓦莱莉娅	唔……谢谢你的好意，\n可我想做的并不是这个。	瓦萊莉婭	唔～聽妳這麼說我很高興，但重點不在這裡。
+Date_MCHARA_B_04ID	21		選択肢	誰かと協力するのは？	Selection	Why don't you ask for some help?	选项	要找人合作吗？	選項	跟其他人合作呢？
+Date_MCHARA_B_04ID	22	Heidi	ハイディ	誰かと協力するのは？　私とか	Heidi	Why don't you just ask for some help? You always have me!	海蒂	要找人合作吗？比如跟我合作。	海蒂	跟其他人合作呢？比如說我。
+Date_MCHARA_B_04ID	23	Valeria	ヴァレリア	それはダメ！\n一人でできなきゃ意味ないの！	Valeria	No, no! I can't do that! It won't mean anything unless I do this on my own!	瓦莱莉娅	那可不行！\n如果不是我自己做就没有意义了！	瓦萊莉婭	不行！不能靠自己完成，就沒有意義了！
+Date_MCHARA_B_04ID	24	Heidi	ハイディ	なんで？　私だって家族でしょ？	Heidi	Why can't I help? I'm part of this family just like you.	海蒂	为什么？我也是你的家人吧？	海蒂	為什麼？我也是這個家的一份子吧？
+Date_MCHARA_B_04ID	25	Heidi	ハイディ	私もフロッケやランツェにはお礼したいって\n思ってたんだけど	Heidi	It would make sense for me to do something to show my gratitude to Flocke and Lanze, too!	海蒂	我也想感谢芙洛可和兰泽啊。	海蒂	我原本就也想送點什麼\n給芙洛可和藍澤來表達謝意了。
+Date_MCHARA_B_04ID	26	Valeria	ヴァレリア	そ、そうよね。でも……\n苦手なことを克服したいし……	Valeria	Well, yeah, but... I'm still trying to work on myself.	瓦莱莉娅	也、也对。可是……\n我想克服不擅长的事……	瓦萊莉婭	說、說的也是。\n可是……我想克服自己不擅長的事……
+Date_MCHARA_B_04ID	27	Heidi	ハイディ	それはお礼をするのと\n別でもいいんじゃないの？	Heidi	Maybe you should think of showing your gratitude and improving yourself as two separate things.	海蒂	那倒也不用跟送礼同时进行吧？	海蒂	那另外找其它機會來克服不就好了嗎？
+Date_MCHARA_B_04ID	28	Valeria	ヴァレリア	うう、それはその通り……	Valeria	Er, I get what you're saying, but still...	瓦莱莉娅	唔，也对……	瓦萊莉婭	呃，這個確實……
+Date_MCHARA_B_04ID	29		選択肢	なんでそこまでお礼がしたいの？	Selection	Why do you want to thank them so badly?	选项	你怎么就这么想要送礼呢？	選項	妳為什麼要這麼堅持道謝呢？
+Date_MCHARA_B_04ID	30	Valeria	ヴァレリア	今まではただみんなと一緒に\nいられればいいって思ってたの。\n毎日楽しければそれでいいって	Valeria	Up until now, I've taken my life with everyone for granted. I thought things were fine as long as we had fun together.	瓦莱莉娅	我之前只想着，跟大家待在一起就好了，\n只要每天过得开心就足够了。	瓦萊莉婭	我以前覺得只要能跟大家在一起，\n每天開開心心的就好了。
+Date_MCHARA_B_04ID	31	Valeria	ヴァレリア	でも、みんなを見ていて、\nそれだけじゃダメだって\n思うようになったの	Valeria	But the more time I spent with everyone, the more I realized I wasn't doing enough.	瓦莱莉娅	但我看着大家的成长，\n觉得光这样是不够的。	瓦萊莉婭	但是，看著你們，我突然意識到這樣是不行的。
+Date_MCHARA_B_04ID	32	Valeria	ヴァレリア	みんなはそれぞれ夢ややりたいことが\nあって、その上で私とか周りを気に掛けて\nくれてるでしょ？	Valeria	Everyone around me has their own goals to accomplish and dreams to chase, but they still take the time to help me.	瓦莱莉娅	大家各自都有梦想和想做的事，\n而且还会照顾到我跟周围其他人的感受。	瓦萊莉婭	大家都有各自的夢想和想做的事，\n卻也同時照顧著我和周圍的人，不是嗎？
+Date_MCHARA_B_04ID	33	Valeria	ヴァレリア	私もそんな人になりたいって思ったの。\n心も視野も広い人に	Valeria	That's why I want to open my heart and expand my horizons. So that I can be like them.	瓦莱莉娅	我也想成为这种人，\n想成为心胸宽广眼界开阔的人。	瓦萊莉婭	我也想成為這種心胸與視野都很開闊的人。
+Date_MCHARA_B_04ID	34	Valeria	ヴァレリア	みんなの夢を邪魔したくないし、\n応援したいしね	Valeria	I don't want to be a burden anymore. I just want to help everyone.	瓦莱莉娅	我不想妨碍大家追梦，\n想帮助大家。	瓦萊莉婭	我不想阻礙大家的夢想，而且我想支持大家。
+Date_MCHARA_B_04ID	35	Valeria	ヴァレリア	だから、何でもかんでもできないからって\n甘えてばかりじゃなくて、\n自分でできることを増やしたい	Valeria	That means that if there's something I can't do, I can't just let everyone do it for me. I want to learn to do it myself.	瓦莱莉娅	所以我不能因为不会做就全依赖大家，\n我要增加自己会做的事。	瓦萊莉婭	所以，我要多學會一些自己能處理的事情，\n不想再當個什麼都不會的任性小孩了。
+Date_MCHARA_B_04ID	36	Valeria	ヴァレリア	苦手なことを克服した上で、それを使って\nみんなの力になりたいの	Valeria	Overcoming my weaknesses is my way of helping everyone.	瓦莱莉娅	我想克服不擅长的事，然后用这份能力帮助大家。	瓦萊莉婭	我要努力克服自己的弱點，把它變成幫助大家的力量。
+Date_MCHARA_B_04ID	37	Heidi	ハイディ	なるほど、だから	Heidi	So that's why. I get it now.	海蒂	这样啊。	海蒂	原來如此，我明白了。
+Date_MCHARA_B_04ID	38	Heidi	ハイディ	ちなみに渡そうとしてたのって、\nいくらくらいだったの？	Heidi	By the way, how much money are we talking for that present?	海蒂	那我顺便问一句，\n你要送给大家的东西要花多少钱？	海蒂	所以，妳剛才說的禮物大概需要多少錢？
+Date_MCHARA_B_04ID	39	Valeria	ヴァレリア	えっと、確か書き留めてたんだけど……\nあ、あった！	Valeria	Ah, just a second. I wrote it down somewhere... Oh, here it is!	瓦莱莉娅	唔，我有写下来……\n啊，找到了！	瓦萊莉婭	等等喔，我記得我有寫下來……啊，找到了！
+Date_MCHARA_B_04ID	40	Heidi	ハイディ	たっか！？\nえ、こんな高級品渡そうとしてたの？	Heidi	That's a LOT of Cole! You're seriously trying to give something that expensive as a thank-you gift?!	海蒂	好贵啊？！\n你要送这么高级的东西吗？	海蒂	好貴！？\n呃，妳打算送這麼貴重的東西給他們嗎？
+Date_MCHARA_B_04ID	41	Valeria	ヴァレリア	結局何渡せば喜んでもらえるか\n分からなかったから……	Valeria	I wasn't sure what kind of gift they'd like, so...	瓦莱莉娅	因为我到最后都不清楚\n该送什么大家才会开心……	瓦萊莉婭	因為我還是不知道他們收到什麼才會開心嘛……
+Date_MCHARA_B_04ID	42	Valeria	ヴァレリア	とりあえず高いものなら\n喜んでもらえるかなと思って	Valeria	I guess I just thought an expensive gift would be a surefire way to make them happy.	瓦莱莉娅	所以我就想，只要送贵的东西，\n那大家应该是会开心的吧。	瓦萊莉婭	想說如果是昂貴的禮物，\n應該任何人收到都會開心吧。
+Date_MCHARA_B_04ID	43	Heidi	ハイディ	高けりゃいいってもんじゃないよ！\nてか、こんな高いの、普通に働いて買おうと\n思ったらめちゃくちゃ時間かかるよ	Heidi	Just because it's expensive doesn't mean it's good! And besides, you'd have to save up for ages to buy something like that!	海蒂	贵的不一定就是好的！\n而且你要买这么贵的东西，\n光靠普通的工作是要花不少时间的。	海蒂	禮物又不是越貴越好！\n再說這麼貴的東西，如果靠一般的賺錢方式來買，\n會花上非常多時間喔。
+Date_MCHARA_B_04ID	44	Valeria	ヴァレリア	でも、他に渡せるものもないし……	Valeria	But I don't have any other ideas...	瓦莱莉娅	可我也没有其他能送的……	瓦萊莉婭	可是，我也沒有其他能送的東西啊……
+Date_MCHARA_B_04ID	45	Heidi	ハイディ	（うーん、贈り物を早く渡すことや渡し方に\n　固執しちゃって視野が狭くなってるのかも\n　しれないな）	Heidi	(All she's thinking about is getting that present and giving it to them as soon as possible. It's like she has blinders on.)	海蒂	（唔……她太想早些送礼物，也过分执着于形式，\n　所以视野才会变得狭窄了吧。）	海蒂	（唔～她可能一心只想儘快送出禮物，\n　又太拘泥於內容物而無法跳脫框架去思考。）
+Date_MCHARA_B_04ID	46		選択肢	苦手なことだけじゃなくて……	Selection	What if you focused on more than just your weaknesses?	选项	别只做不擅长的事……	選項	不要只挑戰不擅長的事情……
+Date_MCHARA_B_04ID	47	Heidi	ハイディ	あのさ、闇雲に苦手なことに\n挑戦するだけじゃなくて……	Heidi	You know, instead of focusing all of your attention on the areas you need to improve...	海蒂	我说啊，\n别只顾着挑战你不擅长的事……	海蒂	我說啊，妳不要只是盲目地\n挑戰自己不擅長的事情……
+Date_MCHARA_B_04ID	48	Heidi	ハイディ	せっかく得意なこともあるんだから\nそっちも一緒に活かしたら、良い贈り物が\nできるんじゃないかな？	Heidi	Maybe you could combine them with the things that you are good at! You might be able to come up with a better present that way.	海蒂	你不是也有擅长的事吗？\n把擅长的跟不擅长的事结合起来，\n应该就能送出不错的礼物了吧？	海蒂	難得妳都有自己擅長的事了，\n連同那部分一起活用的話，\n應該能創造出一份很棒的禮物吧？
+Date_MCHARA_B_04ID	49	Valeria	ヴァレリア	苦手なことと得意なことを一緒に？	Valeria	You're saying I should use my strengths and work on my weaknesses at the same time?	瓦莱莉娅	把擅长的跟不擅长的事结合起来？	瓦萊莉婭	不擅長的事情和擅長的事情一起活用？
+Date_MCHARA_B_04ID	50	Valeria	ヴァレリア	苦手なことは、家事？\n得意なことは、身体を動かすこと、\n食べること……	Valeria	That means since I'm not good at chores, I should combine them with things I'm good at. Like exercise. And eating!	瓦莱莉娅	我不擅长的是……家务？\n擅长的是活动身体，吃东西……	瓦萊莉婭	不擅長的事情是做家務？\n擅長的事情是運動、吃東西……
+Date_MCHARA_B_04ID	51	Valeria	ヴァレリア	あとは、調合すること……	Valeria	I'm pretty good at synthesis, too.	瓦莱莉娅	然后就是调合……	瓦萊莉婭	還有調合……
+Date_MCHARA_B_04ID	52	Valeria	ヴァレリア	……はっ！　そうだ！　調合よ！	Valeria	Oh, wait! That's it!	瓦莱莉娅	……啊！对了，调合！	瓦萊莉婭	……啊！對了！就是調合！
+Date_MCHARA_B_04ID	53	Valeria	ヴァレリア	料理を調合すればいいんだわ！！	Valeria	I can combine cooking and alchemy to make something!	瓦莱莉娅	调合料理不就好了！！	瓦萊莉婭	只要調合料理就可以了！！
+Date_MCHARA_B_04ID	54	Heidi	ハイディ	おっ、めっちゃいいじゃん！\nヴァレリアならではって感じも出せるし！	Heidi	Whoa, that sounds great! And then you can give them something totally unique!	海蒂	哦，很不错嘛！\n而且很符合瓦莱莉娅本人的特质！	海蒂	哦，這個主意超棒的嘛！\n也能呈現出瓦萊莉婭的特色！
+Date_MCHARA_B_04ID	55	Valeria	ヴァレリア	でも、料理って言っても色々あるわよね。\n迷うわ……	Valeria	But there are so many different kinds of food out there. I don't know what to make.	瓦莱莉娅	不过，料理有很多种吧，\n真不知道该选什么啊……	瓦萊莉婭	不過，料理也有很多不同的種類。好猶豫……
+Date_MCHARA_B_04ID	56		選択肢	本当に急がないといけない？	Selection	Do you really need the present that soon?	选项	真的要这么急着给吗？	選項	真的要那麼急嗎？
+Date_MCHARA_B_04ID	57	Heidi	ハイディ	本当に急がないといけないの？	Heidi	Do you really need to buy the present that soon?	海蒂	真的要这么急着给吗？	海蒂	真的要那麼急嗎？
+Date_MCHARA_B_04ID	58	Heidi	ハイディ	二人が帰って来る時に合わせて渡したいのは\n分かるけど、もう少し色々上達してからでも\nいいんじゃない？	Heidi	I get that you want to give it to Flocke and Lanze as soon as they come home, but would it really be so bad to wait a bit?	海蒂	我知道你想在他们回来的时候给出礼物，\n可你完全可以等到各种能力熟练之后再给吧？	海蒂	我明白妳想在他們回來的時候表達心意，\n但等妳各方面都進步了\n再給謝禮也可以吧？
+Date_MCHARA_B_04ID	59	Heidi	ハイディ	その方がより良いものを贈れるだろうし	Heidi	If you want to give them a nice present, it might be better not to rush things.	海蒂	这样一来能送的东西就更好了呀。	海蒂	這樣才能送出更好的禮物。
+Date_MCHARA_B_04ID	60	Valeria	ヴァレリア	分かってるわよ。\nでも、できるだけ早くお礼がしたいの。\nそうじゃなきゃ、気持ちが落ち着かない	Valeria	I know that. But I feel like if I don't show them how I feel soon, I'm going to explode. I need to hurry!	瓦莱莉娅	我知道，可我想尽快送出去嘛。\n不然我就冷静不下来。	瓦萊莉婭	我很明白啊，\n但就是想要儘快向他們道謝。\n不然心都靜不下來。
+Date_MCHARA_B_04ID	61	Heidi	ハイディ	相棒はこうと決めたら一直線なところが\nあるからなー	Heidi	You really do have a one-track mind, partner.	海蒂	搭档你啊，一旦决定要做什么，\n就一门心思只想着目标呢。	海蒂	畢竟搭檔妳一旦下定決心，\n就會一鼓作氣衝到底嘛～
+Date_MCHARA_B_04ID	62	Valeria	ヴァレリア	ほんとそうなの。\n自分でも困っちゃうわ	Valeria	Tell me about it. It even annoys me sometimes.	瓦莱莉娅	就是说啊，我自己都头疼。	瓦萊莉婭	真的是這樣。連我自己都覺得很困擾呢。
+Date_MCHARA_B_04ID	63	Valeria	ヴァレリア	でも、とりあえずお金をかけずに\n贈り物を渡す方法も考えるべきよね。\nうーん……	Valeria	Anyway, maybe I should try to find a way to give them a present without spending all that money. Hmm...	瓦莱莉娅	不过，还是想想不花钱就能送礼的办法吧。\n唔……	瓦萊莉婭	不過，也該想個不用花錢的送禮方式才行。\n唔……
+Date_MCHARA_B_04ID	64	Valeria	ヴァレリア	こうなったら最終手段ね。\n手作り料理を振る舞うわ！	Valeria	It sounds like it's time for my last resort: cooking them a homemade meal!	瓦莱莉娅	既然如此就只能使出最终手段了！\n我要亲自下厨做菜！	瓦萊莉婭	既然如此就要拿出最後手段了。\n我來親手做料理款待他們！
+Date_MCHARA_B_04ID	65	Heidi	ハイディ	ええっ、ヴァレリアが！？	Heidi	YOU'RE going to cook?!	海蒂	咦？！瓦莱莉娅来做菜？！	海蒂	什麼，瓦萊莉婭妳嗎！？
+Date_MCHARA_B_04ID	66	Valeria	ヴァレリア	最近は、切るとか焼くとか、\n簡単なことならできるようになったもの！	Valeria	Yeah! I've learned how to do simple stuff by myself, like cutting and frying things!	瓦莱莉娅	我最近会一些简单的了，\n比如切菜和煎烤之类的！	瓦萊莉婭	反正我最近已經學會切菜和煎烤東西\n這些簡單的烹調方法了嘛！
+Date_MCHARA_B_04ID	67	Heidi	ハイディ	それはそうだけど……	Heidi	That's progress, I guess...	海蒂	话是这么说没错……	海蒂	話是這麼說沒錯啦……
+Date_MCHARA_B_04ID	68		選択肢	二人は物が欲しいわけじゃないよね	Selection	Maybe they don't want presents.	选项	他们可能不想要物质上的礼物吧	選項	他們兩人並沒有想要的東西吧？
+Date_MCHARA_B_04ID	69	Heidi	ハイディ	二人は物を欲しがってるわけじゃないよね？	Heidi	Maybe they don't necessarily want a present.	海蒂	他们可能不想要物质上的礼物吧？	海蒂	他們兩人並沒有很想要什麼東西吧？
+Date_MCHARA_B_04ID	70	Valeria	ヴァレリア	ええ……	Valeria	Are you sure...?	瓦莱莉娅	啊……	瓦萊莉婭	對……
+Date_MCHARA_B_04ID	71	Heidi	ハイディ	だったら、贈り物をするって形に\n囚われなくてもいいんじゃないかな	Heidi	I mean, I don't think you need to get so hung up on the idea of giving a physical gift.	海蒂	所以就别局限于“送礼物”。	海蒂	既然如此，就別拘泥在送禮物這個形式了。
+Date_MCHARA_B_04ID	72	Heidi	ハイディ	お礼をしたいっていう\nその気持ちだけでも伝われば、\n充分嬉しいと思うけど	Heidi	If you just tell them how much you appreciate them, I'm sure that would be more than enough.	海蒂	只要你能表达自己的感谢之情，\n那他们肯定就很开心了。	海蒂	只要妳能表達出那份感謝的心意，\n就很令人開心了。
+Date_MCHARA_B_04ID	73	Valeria	ヴァレリア	でもそれじゃちょっと物足りないのよね	Valeria	But I still feel like I need to do something for them, you know?	瓦莱莉娅	可这样好像不太够。	瓦萊莉婭	但這樣好像感覺少了些什麼耶。
+Date_MCHARA_B_04ID	74	Heidi	ハイディ	おまけに苦手なことを克服しようと\nしてるって知ったら、\nすっごく褒めてくれるんじゃないかな	Heidi	Well, they'll be thrilled to know how hard you've been working to improve yourself. I'm sure they're going to be really proud of you!	海蒂	他们要是知道你还想克服不擅长做的事，\n说不定还要夸你呢。	海蒂	而且他們要是知道\n妳很努力在克服自己不擅長的事情，\n應該會大力稱讚妳吧。
+Date_MCHARA_B_04ID	75	Valeria	ヴァレリア	褒めてもらいたくてやってるんじゃないの。\nそういうことじゃなくて……	Valeria	I'm not doing it to get a pat on the back, though.	瓦莱莉娅	我不是为了得到夸奖才做的。\n问题不是这个……	瓦萊莉婭	我又不是想獲得稱讚才這麼做的。\n那不是我的目的……
+Date_MCHARA_B_04ID	76	Valeria	ヴァレリア	うーん、贈り物を渡したい理由が\n自分でもわからなくなってきたわ……	Valeria	But now I'm not sure why I wanted to give them a present so badly in the first place...	瓦莱莉娅	唔……我自己都搞不懂\n为什么想要送礼物了。	瓦萊莉婭	唔～連我自己都開始搞不懂為什麼想送禮了……
+Date_MCHARA_B_04ID	77	Valeria	ヴァレリア	でも、とりあえずお金をかけずに\n贈り物を渡す方法も考えるべきよね。\nうーん……	Valeria	Anyway, maybe I should try to find a way to give them a present without spending all that money. Hmm...	瓦莱莉娅	不过，还是想想不花钱就能送礼的办法吧。\n唔……	瓦萊莉婭	不過，也該想個不用花錢的送禮方式才行。\n唔……
+Date_MCHARA_B_04ID	78	Valeria	ヴァレリア	こうなったら最終手段ね。\n手作り料理を振る舞うわ！	Valeria	It sounds like it's time for my last resort: cooking them a homemade meal!	瓦莱莉娅	既然如此就只能使出最终手段了！\n我要亲自下厨做菜！	瓦萊莉婭	既然如此就要拿出最後手段了。\n我來親手做料理款待他們！
+Date_MCHARA_B_04ID	79	Heidi	ハイディ	ええっ、ヴァレリアが！？	Heidi	YOU'RE going to cook?!	海蒂	咦？！瓦莱莉娅来做菜？！	海蒂	什麼，瓦萊莉婭妳嗎！？
+Date_MCHARA_B_04ID	80	Valeria	ヴァレリア	最近は、切るとか焼くとか、\n簡単なことならできるようになったもの！	Valeria	Yeah! I've learned how to do simple stuff by myself, like cutting and frying things!	瓦莱莉娅	我最近会一些简单的了，\n比如切菜和煎烤之类的！	瓦萊莉婭	反正我最近已經學會切菜和煎烤東西\n這些簡單的烹調方法了嘛！
+Date_MCHARA_B_04ID	81	Heidi	ハイディ	それはそうだけど……	Heidi	That's progress, I guess...	海蒂	话是这么说没错……	海蒂	話是這麼說沒錯啦……
+Date_MCHARA_B_04ID	82	Valeria	ヴァレリア	ねぇ、ハイディだったら\nどういうのが嬉しい？	Valeria	Hey, Heidi, if it were you, what would you want to eat?	瓦莱莉娅	哎，海蒂，我问你哦，\n你收到什么会开心呢？	瓦萊莉婭	那麼，如果是海蒂，\n會喜歡什麼樣的料理呢？
+Date_MCHARA_B_04ID	83	Heidi	ハイディ	（私だったら……か）	Heidi	(If it were me, huh?)	海蒂	（如果是我的话……）	海蒂	（如果是我嗎……？）
+Date_MCHARA_B_04ID	84	Heidi	ハイディ	（きっとヴァレリアは一般的な\n　「喜ばれるもの」じゃなくて、\n　本当に私が欲しい料理が聞きたいんだ）	Heidi	(I bet this isn't just a hypothetical. She actually wants to know what to cook to make me happy.)	海蒂	（瓦莱莉娅想问的应该不是\n　“一般来说大家会喜欢的东西”，\n　而是想问我想吃什么料理吧。）	海蒂	（瓦萊莉婭想知道的\n　一定不是那種大眾「喜歡的東西」，\n　而是我真的想吃的料理。）
+Date_MCHARA_B_04ID	85	Heidi	ハイディ	（私が欲しい料理……なんだろう？\n　やっぱり美味しい料理？　いや……）	Heidi	(But...what do I want, anyway? Something delicious? No, that's not it...)	海蒂	（我喜欢的料理……是什么呢？\n　就是好吃的料理吧？不对……）	海蒂	（我想吃的料理……是什麼呢？\n　果然還是美味的料理吧？不對……）
+Date_MCHARA_B_04ID	86	Heidi	ハイディ	（実家にいたころ、出ていた料理は\n　美味しい物ばかりだっただろう。\n　でも、ちっとも嬉しくなんかなかった）	Heidi	(As a child, I grew up eating the finest meals. But even though everything tasted great, I wasn't the least bit happy about it.)	海蒂	（我在老家的时候，\n　端上桌的全都是好吃的料理。\n　可我一点也不开心。）	海蒂	（在老家的時候，\n　端上桌的料理全部都很美味吧。\n　可是，我一點也不覺得高興。）
+Date_MCHARA_B_04ID	87	Heidi	ハイディ	（それが今の家族と暮らし始めてからの\n　料理はいつも、楽しみになってる。\n　きっとそこに私の求めているものはある）	Heidi	(But now that I have my new family here, I'm always looking forward to our meals together. That's the key to what I really want.)	海蒂	（而跟现在的家人一起生活之后，\n　我就很期待每天的料理。\n　我想要的东西一定就存在于这里。）	海蒂	（自從跟現在的家人一起生活之後，\n　料理總是讓我很期待。\n　那一定就是我所追求的東西。）
+Date_MCHARA_B_04ID	88	Heidi	ハイディ	私が欲しいのは……	Heidi	What I want is...	海蒂	我想要的是……	海蒂	我想吃的是……
+Date_MCHARA_B_04ID	89		選択肢	素朴な家庭料理	Selection	Simple home cooking	选项	朴素的家常菜	選項	簡單的家庭料理
+Date_MCHARA_B_04ID	90	Heidi	ハイディ	いわゆる家庭料理とか？\nシチュ―とか、そういうやつ	Heidi	How about keeping it simple? Like a homemade stew or something.	海蒂	就是家常菜吧？\n炖菜之类的。	海蒂	所謂的家庭料理之類的？比如燉湯那種菜色。
+Date_MCHARA_B_04ID	91	Heidi	ハイディ	やたらと豪華で高そうな食事よりも、\n安心して食べられるし	Heidi	That kind of food helps me feel more relaxed than some big, fancy feast.	海蒂	比豪华奢侈的大餐来说，\n更能放下心来品尝。	海蒂	比起格外豪華又昂貴的餐點，可以吃得更安心。
+Date_MCHARA_B_04ID	92	Valeria	ヴァレリア	ハイディはそういうのが好きなの？	Valeria	So you like things simple, huh?	瓦莱莉娅	你喜欢这样的吗？	瓦萊莉婭	海蒂喜歡那種料理嗎？
+Date_MCHARA_B_04ID	93	Heidi	ハイディ	そうだね……。\n好き……だと思う	Heidi	Well... Yeah. I think.	海蒂	我想想……\n我觉得……是喜欢的。	海蒂	對啊……應該是……喜歡。
+Date_MCHARA_B_04ID	94	Valeria	ヴァレリア	はっきりしないわね	Valeria	You sure are being wishy-washy!	瓦莱莉娅	好像不是很肯定呢。	瓦萊莉婭	說得很含糊耶。
+Date_MCHARA_B_04ID	95	Heidi	ハイディ	いや、間違っては無いと思うんだけど、\n改めて家庭料理であることが大事なのか\nと言われると違う気もしてきて……ごめん！	Heidi	No, I really do like simple things. I just started to wonder if homemade food was really that important to me. Sorry, that's another story!	海蒂	不不，我觉得没错，\n可被你这么一问，\n又觉得重点好像不在于是不是家常菜……抱歉！	海蒂	不，雖然這答案應該沒有錯，\n但妳再問我一次是不是喜歡家庭料理，\n又覺得好像不太對……抱歉！
+Date_MCHARA_B_04ID	96		選択肢	分け合えるお菓子	Selection	Sweets we can share	选项	可以分享的点心	選項	能夠分享的點心
+Date_MCHARA_B_04ID	97	Heidi	ハイディ	分け合えるお菓子とかかな	Heidi	Some sweets we could share would be great.	海蒂	应该是可以分享的点心吧。	海蒂	應該是能夠分享的點心吧。
+Date_MCHARA_B_04ID	98	Heidi	ハイディ	たとえばクッキーとかさ。\n気軽に一緒に食べられるものが\nいいんじゃない？	Heidi	You know, like cookies or something. Those are easy to divvy up, right?	海蒂	比如曲奇之类的，\n能一起轻松品尝的东西就很好吧？	海蒂	比如說餅乾之類的。\n隨時隨地都能一起吃的東西\n不是很棒嗎？
+Date_MCHARA_B_04ID	99	Valeria	ヴァレリア	分け合うって……。自分以外にも\n食べさせてあげたい人がいるってこと？	Valeria	Oh... You want to share them with someone else? Who?	瓦莱莉娅	你说分享……\n指的是除了自己还想给别人吃？	瓦萊莉婭	分享……意思是妳除了自己之外，\n還有想要分享的對象嗎？
+Date_MCHARA_B_04ID	100	Heidi	ハイディ	ん？　なにいってるの。\nヴァレリアと分け合うんだよ	Heidi	Come on! Who else would it be? You, silly!	海蒂	嗯？你说什么呀，\n我要跟瓦莱莉娅你分享啊。	海蒂	嗯？妳在說什麼？我要跟妳分享啊。
+Date_MCHARA_B_04ID	101	Valeria	ヴァレリア	ええ！？　お礼がしたいのに\n私も食べちゃっていいの？	Valeria	Me?! But if I'm making some sweets to thank you, I can't just turn around and eat them myself!	瓦莱莉娅	什么？！\n我明明是想送礼，我也可以吃吗？	瓦萊莉婭	什麼！？明明是我想送妳的，\n我卻一起吃沒關係嗎？
+Date_MCHARA_B_04ID	102	Heidi	ハイディ	それがいいんだよ。\n一人で食べたって味気ないんだから。\n私は一緒に食べたい	Heidi	That would be fine by me. After all, everything tastes bland when I'm eating alone. I'd much rather share it with you.	海蒂	就是要这样才好啊。\n一个人吃又没意思，\n我想跟你一起吃嘛。	海蒂	就是這樣才好啊。\n一個人吃也沒什麼滋味嘛，\n我想要跟妳一起吃。
+Date_MCHARA_B_04ID	103	Valeria	ヴァレリア	ハイディ……	Valeria	Heidi...	瓦莱莉娅	海蒂……	瓦萊莉婭	海蒂……
+Date_MCHARA_B_04ID	104		選択肢	個性あふれる創作料理	Selection	An original recipe	选项	个性十足的创意菜	選項	充滿個性的創作料理
+Date_MCHARA_B_04ID	105	Heidi	ハイディ	創作料理は？	Heidi	How about a recipe you came up with yourself?	海蒂	那创意菜呢？	海蒂	創作料理呢？
+Date_MCHARA_B_04ID	106	Valeria	ヴァレリア	え、いきなり？\nあまり難しいものは作れないんだけど……	Valeria	Uh, I only know the basics, so that sounds a little hard. I'm not sure my skills are up to par.	瓦莱莉娅	啊，这么突然？\n我做不了太难的菜色……	瓦萊莉婭	咦，這麼突然？\n太複雜的料理我做不出來啦……
+Date_MCHARA_B_04ID	107	Heidi	ハイディ	別に難しいものじゃなくても、\nいっぱい考えて作った料理の方が\n貰って嬉しいんじゃない？	Heidi	You don't have to make anything fancy! I just think it would be really special to have a meal that you put a lot of thought into.	海蒂	倒也不用做太难的，\n只要收到花心思做出来的料理，\n那肯定是会开心的吧？	海蒂	就算不是特別複雜，\n但花了許多心思做出來的料理，\n吃到也會很開心吧？
+Date_MCHARA_B_04ID	108	Valeria	ヴァレリア	なるほど、じゃあ……\nまずは机くらいのお皿を用意して……	Valeria	Okay, then... First, I'll need a gigantic platter. The size of a table.	瓦莱莉娅	这样啊，那么……\n要先准备桌子那么大的盘子……	瓦萊莉婭	原來如此，那麼……\n要先準備一個跟桌子差不多大的盤子……
+Date_MCHARA_B_04ID	109	Heidi	ハイディ	え？　何作ろうとしてるの？	Heidi	Whoa, that big? What are you trying to make?	海蒂	啊？你要做什么？	海蒂	咦？妳打算做什麼？
+Date_MCHARA_B_04ID	110	Valeria	ヴァレリア	動物を丸ごと一頭分使った大皿料理だけど	Valeria	A whole roast beast!	瓦莱莉娅	使用了整只动物的大盘料理。	瓦萊莉婭	用一整隻動物做出來的大盤子料理。
+Date_MCHARA_B_04ID	111	Heidi	ハイディ	大皿って限度があるでしょ。\nてか、そんなの作ったら\n最初の贈り物より高くつくよ！	Heidi	How are you going to find a platter that big?! This is starting to sound even more expensive than your first idea!	海蒂	盘子再大也有限度吧，\n而且你要做这种东西，\n价格比一开始的礼物还要高了吧！	海蒂	盤子再怎麼大還是有限吧？\n再說，要做那種料理的話，\n會比一開始找的那個禮物花更多錢喔！
+Date_MCHARA_B_04ID	112	Valeria	ヴァレリア	そうよね……	Valeria	I guess you're right...	瓦莱莉娅	也对哦……	瓦萊莉婭	說的也是……
+Date_MCHARA_B_04ID	113	Valeria	ヴァレリア	ありがとう、ヒントが見つかったわ！\nやっぱり持つべきものは頼れる相棒ね！	Valeria	Thanks, Heidi. That was just the hint I needed to figure things out! I sure am lucky to have a partner like you who's always helping me out.	瓦莱莉娅	谢谢你，我有灵感了！\n遇上难题果然还得找搭档啊！	瓦萊莉婭	謝謝妳，我找到靈感了！\n可靠的搭檔果然是不可或缺的存在呢！
+Date_MCHARA_B_04ID	114	Valeria	ヴァレリア	仕事も、役割も、名前も……	Valeria	With work, with missions, even my name...	瓦莱莉娅	工作也是，职责也是，名字也是……	瓦萊莉婭	不管是我的工作、職責，還是名字……
+Date_MCHARA_B_04ID	115	Valeria	ヴァレリア	ハイディが斥候として\n道を切り開いてくれるから、\n私は迷わずに進むことができた	Valeria	And since you're such a great scout, I can count on you to show me where to go. As long as I have you, I'll never lose my way.	瓦莱莉娅	海蒂作为侦察兵开拓了道路，\n我才能毫不迷惘地前进。	瓦萊莉婭	妳總是會以斥侯的身分為我開路，\n我才能不帶一絲迷惘地前進。
+Date_MCHARA_B_04ID	116	Heidi	ハイディ	そんな、大げさな	Heidi	Aw, I'm not THAT great.	海蒂	哪有那么夸张呀。	海蒂	說的太誇張了啦。
+Date_MCHARA_B_04ID	117	Valeria	ヴァレリア	本当よ。大げさなんかじゃないわ	Valeria	No, it's true. You are that great!	瓦莱莉娅	这是真的，我没有夸张。	瓦萊莉婭	我說的是實話，一點也不誇張。
+Date_MCHARA_B_04ID	118	Valeria	ヴァレリア	でも、これからはハイディに頼ってばかり\nじゃなくて、自分の頭で考えて\n新しい道を選びたいと思ってる	Valeria	But that's why I can't just keep relying on you to get me through it all. I need to learn to think for myself and choose my own path forward.	瓦莱莉娅	不过，今后我不能总之依赖海蒂，\n该靠自己选择全新的道路才行。	瓦萊莉婭	但是，我覺得今後不能老是依賴妳，\n想用自己的腦袋好好思考，\n選擇一條新的道路。
+Date_MCHARA_B_04ID	119	Heidi	ハイディ	あら、ちょっと寂しいな～	Heidi	Aw, that almost makes me a little sad...	海蒂	哎呀，稍微有些舍不得呢～	海蒂	哎呀，我會有點寂寞呢～
+Date_MCHARA_B_04ID	120	Valeria	ヴァレリア	それが、「苦手なこと」の\n一つでもあるから	Valeria	That's just another one of the things I have to do to grow.	瓦莱莉娅	那也是我“不擅长应付的事之一”嘛。	瓦萊莉婭	因為這也是我「不擅長的事情」之一。
+Date_MCHARA_B_04ID	121	Heidi	ハイディ	ふふ、そっか。\nじゃあ、仕方ない	Heidi	Hehe, all right. I can tell your mind's made up.	海蒂	呵呵，这样啊。\n那就没办法了。	海蒂	呵呵，這樣啊。那就沒辦法了。
+Date_MCHARA_B_04ID	122	Valeria	ヴァレリア	きっと、また今回みたいに\n間違ったり行き詰ったりするかも\nしれないけど……	Valeria	From here on out, I'm bound to get stuck or lose my way. Just like I did this time. But...	瓦莱莉娅	肯定也会像这次一样出现不少差错，\n还会遇上瓶颈……	瓦萊莉婭	我也許還會像這次一樣犯錯，或是遇到瓶頸……
+Date_MCHARA_B_04ID	123	Valeria	ヴァレリア	ハイディが隣にいてくれるなら\n安心して踏み出せる	Valeria	With you by my side, I know I'll have the strength and confidence to keep going.	瓦莱莉娅	只要海蒂在我身边，\n我就能放心踏出这一步。	瓦萊莉婭	但既然海蒂妳會陪在我身邊，\n我就能安心地踏出那一步。
+Date_MCHARA_B_04ID	124	Valeria	ヴァレリア	これからもよろしく	Valeria	I'll always need you, partner.	瓦莱莉娅	今后请多关照。	瓦萊莉婭	今後也多多指教了。
+Date_MCHARA_B_04ID	125	Heidi	ハイディ	（よかった、力になれて。\n　相棒冥利につきるよ）	Heidi	(I'm so glad I could help her. I have the best partner anyone could ask for.)	海蒂	（能帮上她的忙真是太好了。\n　能当她的搭档是我的荣幸。）	海蒂	（太好了，有幫上她的忙。\n　身為搭檔沒有比這更開心的事了。）
+Date_MCHARA_B_04ID	126	Valeria	ヴァレリア	どうしよう、全然良い方法が\n思いつかないわ……	Valeria	Aw, man... I can't think of anything good.	瓦莱莉娅	怎么办啊，\n我完全想不到比较好的办法……	瓦萊莉婭	怎麼辦，完全想不到好方法……
+Date_MCHARA_B_04ID	127	Valeria	ヴァレリア	やっぱり仕事を増やそう。\n前にお世話になった大工の親方に\n頭下げてくるわ	Valeria	I guess the only thing to do is take on more work. If I beg, maybe I can get a job from that carpenter we met before...	瓦莱莉娅	还是增加一点工作吧。\n我去求求之前关照过我的木工师傅好了。	瓦萊莉婭	果然還是多打些工吧。\n我去拜託之前關照過我的木工工頭吧。
+Date_MCHARA_B_04ID	128	Heidi	ハイディ	え！？　ちょ、ちょっと待ってよ！！	Heidi	What?! No, wait a second!	海蒂	什么？！等、等等啊！！	海蒂	咦！？等、等一下啦！！
+Date_MCHARA_B_04ID	129	Heidi	ハイディ	（うう、力になれなかったか……）	Heidi	(Ergh, I couldn't help her at all...)	海蒂	（呜……没能帮上她的忙啊……）	海蒂	（嗚嗚，沒有幫上忙嗎……）
+Date_MCHARA_B_05ID	0	Heidi	ハイディ	（はー、疲れた。思ったより依頼の後処理が\n　長引いちゃったな）	Heidi	(Man, I'm beat. That last mission was a lot harder to wrap up than I thought.)	海蒂	（呼……好累啊。\n　委托的后续处理比我想的要更花时间。）	海蒂	（呼～好累。委託的善後處理\n　比預期的還要耗時間啊。）
+Date_MCHARA_B_05ID	1	Valeria	ヴァレリア	お帰りなさい。\n晩ご飯できてるわよ	Valeria	Welcome home, Heidi! Dinner's ready!	瓦莱莉娅	你回来啦。\n晚饭做好了哦。	瓦萊莉婭	歡迎回來，晚餐做好囉。
+Date_MCHARA_B_05ID	2	Heidi	ハイディ	今日の晩ご飯は？	Heidi	What are we having?	海蒂	今天的晚饭是什么？	海蒂	今天晚餐吃什麼？
+Date_MCHARA_B_05ID	3	Valeria	ヴァレリア	その辺の草とキノコとお肉のごった煮よ！	Valeria	Stew! It's a mix of meat, mushrooms, and a bunch of herbs I found around here!	瓦莱莉娅	杂草蘑菇炖肉！	瓦萊莉婭	路邊的草、菌菇和肉的大雜燴！
+Date_MCHARA_B_05ID	4	Heidi	ハイディ	１週間連続でそれな気がするけど……	Heidi	Isn't that the same thing we had for dinner every night this week...?	海蒂	好像已经连续吃了一周……	海蒂	好像已經連續吃一個星期了吧……
+Date_MCHARA_B_05ID	5	Valeria	ヴァレリア	ハイディが唯一「食べられる」じゃなくて\n「不味くない」って言ってくれたから	Valeria	"That's because you called everything else I made ""barely edible."" But you actually said this ""wasn't awful."""	瓦莱莉娅	因为这是唯一一道你没有说“吃不死”，\n而是“不难吃”的菜嘛。	瓦萊莉婭	因為這是妳唯一說過「不難吃」，\n而不是「吃得下去」的料理啊。
+Date_MCHARA_B_05ID	6	Valeria	ヴァレリア	私の得意料理よ！　ふふん♪	Valeria	Which makes this stew my specialty! Heh heh!	瓦莱莉娅	这是我的拿手菜哦！嘿嘿～	瓦萊莉婭	是我的拿手料理喔！啦啦啦～
+Date_MCHARA_B_05ID	7	Heidi	ハイディ	まぁ、いっか。\n確かに美味しいし	Heidi	Oh, well. It is pretty tasty, really...	海蒂	行，就这样吧。\n毕竟确实挺好吃的。	海蒂	好吧，算了。的確是很好吃。
+Date_MCHARA_B_05ID	8	Heidi	ハイディ	……ん？\nこんなところに小包が……	Heidi	Huh? What's this little package doing here?	海蒂	……嗯？\n这里居然放着一个小包裹。	海蒂	……嗯？這裡怎麼有個小包裹……
+Date_MCHARA_B_05ID	9	Heidi	ハイディ	「ハイディへ」……って、え？	Heidi	"""To Heidi""... Wait, this is for me?"	海蒂	“给海蒂”……咦？	海蒂	「給海蒂」……呃，咦？
+Date_MCHARA_B_05ID	10	Heidi	ハイディ	……開けていい？	Heidi	Can I open it?	海蒂	……我能打开吗？	海蒂	……我可以打開嗎？
+Date_MCHARA_B_05ID	11	Heidi	ハイディ	これって……クッキーじゃん！\nえ、あの時の質問って……	Heidi	Oh, it's...cookies! So you really were asking me what I wanted.	海蒂	这是……曲奇！\n所以你当时问我的问题……	海蒂	這是……餅乾耶！咦，妳那時候問我的……
+Date_MCHARA_B_05ID	12	Valeria	ヴァレリア	フロッケやランツェにも\nお礼をしたい気持ちがあるのは本当	Valeria	You know, I really do want to find a way thank Flocke and Lanze, too.	瓦莱莉娅	我确实也想感谢芙洛可和兰泽。	瓦萊莉婭	我確實是想要送禮物給芙洛可和藍澤表示感謝。
+Date_MCHARA_B_05ID	13	Valeria	ヴァレリア	でも、一番真っ先にお礼したかったのは\n……あなたよ、ハイディ	Valeria	But the one I wanted to thank most of all was you, Heidi.	瓦莱莉娅	但我最先要感谢的……\n是你哦，海蒂。	瓦萊莉婭	但我最想要感謝的人……\n其實是妳喔，海蒂。
+Date_MCHARA_B_05ID	14	Heidi	ハイディ	えええ！？	Heidi	Huh?!	海蒂	什么？！	海蒂	咦咦咦！？
+Date_MCHARA_B_05ID	15	Valeria	ヴァレリア	ウェルテックスとの戦いの時、\n本当に助けられたから、まさに相棒	Valeria	Remember when we fought that Apexi, Weltex? Without my partner, I would've been a goner.	瓦莱莉娅	跟威尔特克斯战斗的时候，\n你真的帮了我不少，太有搭档风范了。	瓦萊莉婭	與威爾特庫斯交戰時，\n真的受到妳很多幫助，不愧是我的搭檔。
+Date_MCHARA_B_05ID	16	Heidi	ハイディ	ヴァレリア……	Heidi	Valeria...	海蒂	瓦莱莉娅……	海蒂	瓦萊莉婭……
+Date_MCHARA_B_05ID	17	Valeria	ヴァレリア	ハイディが隣にいてくれたから。\n隣で踏ん張ってるから	Valeria	You're always by my side, giving it your all no matter what.	瓦莱莉娅	因为海蒂愿意陪伴在我身边，\n因为你在我身边努力坚持……	瓦萊莉婭	因為有妳陪伴，我才能在妳身邊堅持下去。
+Date_MCHARA_B_05ID	18	Valeria	ヴァレリア	私も苦手なことから逃げちゃダメだって\n覚悟を決めることができたの	Valeria	And you never run when things get tough, so I won't either.	瓦莱莉娅	我才能下定决心，\n直面自己不擅长的事。	瓦萊莉婭	我也下定了決心，\n不會再逃避面對自己不擅長的事情。
+Date_MCHARA_B_05ID	19	Valeria	ヴァレリア	家事、接客の仕事、誰かに決めてもらうんじゃなくて\n自分の頭で考えること……	Valeria	Whether it's chores or work, I'm not going to leave it all up to everyone else anymore. I need to learn to think for myself.	瓦莱莉娅	做家务、打工接客、\n不靠别人帮我决定，而是独立思考……	瓦萊莉婭	家務、接待客人的工作、用自己的腦袋思考\n而不是仰賴他人決定……
+Date_MCHARA_B_05ID	20	Valeria	ヴァレリア	苦手だって思い込んでたものに\n向き合う勇気を持つことができたの	Valeria	I can't avoid things just because I'm bad at them. I need to be brave and face them head-on.	瓦莱莉娅	我能鼓起勇气面对这些自认为不擅长做的事，\n都是多亏了你。	瓦萊莉婭	這些我本來認定自己很不擅長的事情，\n現在也能鼓起勇氣面對了。
+Date_MCHARA_B_05ID	21	Valeria	ヴァレリア	そのお礼と、普段色々お世話になってることへの感謝を\n伝えたかったの。ずっと	Valeria	I wanted some way to thank you for teaching me that. And for taking care of me all this time.	瓦莱莉娅	所以我要感谢你，\n而且我也一直想感谢你平时对我的关照。	瓦萊莉婭	我一直都想要準備回禮，\n還有對妳平時的種種照顧表示感謝之情。
+Date_MCHARA_B_05ID	22	Valeria	ヴァレリア	いつもありがとう……ハイディ	Valeria	So...thank you, Heidi. For everything.	瓦莱莉娅	谢谢你……海蒂。	瓦萊莉婭	謝謝妳一直以來的照顧……海蒂。
+Date_MCHARA_B_05ID	23	Heidi	ハイディ	……とりあえず、一口貰っていい？	Heidi	...Is it okay if I try a bite, then?	海蒂	……那我能先尝一口吗？	海蒂	……我可以先吃一口嗎？
+Date_MCHARA_B_05ID	24	Valeria	ヴァレリア	どうかしら？	Valeria	So, what do you think?	瓦莱莉娅	合你的口味吗？	瓦萊莉婭	覺得如何呢？
+Date_MCHARA_B_05ID	25	Heidi	ハイディ	……美味しい	Heidi	They're...really, really good.	海蒂	……真好吃。	海蒂	……很美味。
+Date_MCHARA_B_05ID	26	Valeria	ヴァレリア	えっ！？\n忖度はダメよ！　正直に言って！	Valeria	What?! You don't have to lie to make me feel better, you know! Just tell me the truth!	瓦莱莉娅	咦？！\n你不可以顾虑我哦！要说实话！	瓦萊莉婭	咦！？不可以看我臉色喔！給我老實說！
+Date_MCHARA_B_05ID	27	Heidi	ハイディ	本当だって。\nあんたと私の間で嘘ついたってしょうがないじゃん	Heidi	Honestly, they're great! Besides, you know I'd never lie to you.	海蒂	真的很好吃啊，\n我们之间也没必要说谎话吧。	海蒂	是真的啦。\n以妳和我的交情還需要撒什麼謊嘛。
+Date_MCHARA_B_05ID	28	Valeria	ヴァレリア	お代わりしたかったらいくらでも言って！\n錬金釜みっちみちに作ったから！　三日は持つわ！	Valeria	Well, if you want seconds, just say the word! I synthesized loads and loads—enough to feed us for three days straight!	瓦莱莉娅	想要吃的话随时都可以跟我说！\n我会做满一整个炼金釜的曲奇！可以吃上三天！	瓦萊莉婭	想再吃的話儘管說！我做了一整個鍊金釜的量！\n至少能吃三天三夜！
+Date_MCHARA_B_05ID	29	Heidi	ハイディ	みっちみち！？\nいやいや、三日じゃ無理でしょ	Heidi	You WHAT?! Come on, three days of cookies sounds like overkill...	海蒂	做满？！\n算了吧，肯定没法连着吃三天啊。	海蒂	一整個鍊金釜！？\n不不不，吃不了三天三夜吧。
+Date_MCHARA_B_05ID	30	Valeria	ヴァレリア	シチュ―もいーっぱいあるから\n沢山食べてちょうだい！	Valeria	I made a ton of stew, too! So eat up!	瓦莱莉娅	还有好多炖菜呢，\n敞开肚皮大吃特吃吧！	瓦萊莉婭	燉湯也做了非～常多喔，妳盡量多吃一點吧！
+Date_MCHARA_B_05ID	31	Heidi	ハイディ	こりゃ今日寝れないわ……	Heidi	I'll be up all night trying to finish this...	海蒂	这下今晚可睡不着了……	海蒂	這下今天是沒辦法睡了……
+Date_MCHARA_B_05ID	32	Valeria	ヴァレリア	ま、大丈夫よ	Valeria	You don't have to worry about that.	瓦莱莉娅	放心，没事的。	瓦萊莉婭	嗯，妳別擔心。
+Date_MCHARA_B_05ID	33	Heidi	ハイディ	どうしてよ	Heidi	And why not?	海蒂	为什么啊？	海蒂	為什麼啊？
+Date_MCHARA_B_05ID	34	Valeria	ヴァレリア	私も一緒に、食べるから	Valeria	Because I'm here to help you eat it all!	瓦莱莉娅	我也会跟你一起吃的嘛。	瓦萊莉婭	因為我也會跟妳一起吃的。
+Date_MCHARA_B_05ID	35	Heidi	ハイディ	……そっか。確かに相棒も食べるなら、\nこれじゃ足りないくらいか！	Heidi	That's right! In that case, we might not have nearly enough to fill your belly, partner!	海蒂	……对哦，要是搭档也一起吃的话，\n这点量估计还不够吃的呢。	海蒂	……也對，搭檔一起吃的話，\n這個分量的確還稍嫌不夠吧！
+Date_MCHARA_B_05ID	36	Heidi	ハイディ	（置いてかれてると思ってたけど、こんな形で\nヴァレリアの背中を押すことができてたんだ）	Heidi	(I was starting to worry that Valeria would leave me behind. But this made me realize that I can still help her.)	海蒂	（我还以为瓦莱莉娅要丢下我了，\n　结果却以这种方式帮了她一把。）	海蒂	（原以為被她拋下了，\n　但沒想到反而成功用這種方式推了她一把。）
+Date_MCHARA_B_05ID	37	Heidi	ハイディ	（引っ張って、引っ張られて一緒に前に進む。\n　それが私たちってことで）	Heidi	(When one of us falls behind, we'll pick each other up and keep on moving forward.)	海蒂	（我们就这样相互扶持着共同前进，\n　这就是我们的相处方式。）	海蒂	（互相拉著彼此一同前進。\n　這就是我們的關係。）
+Date_MCHARA_B_05ID	38	Heidi	ハイディ	（……これからも頼むぜ、最高の相棒！）	Heidi	(After all, that's what partners are for. And mine is the best!)	海蒂	（……今后也要麻烦你啦，我最棒的搭档！）	海蒂	（……今後也萬事拜託囉，我最棒的搭檔！）

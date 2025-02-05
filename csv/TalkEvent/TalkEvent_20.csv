@@ -1,0 +1,877 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_20_001ID	0	Valeria	ヴァレリア	っ……						
+TalkEvent_20_001ID	1	Criselda	クリセルダ	ヴァレリア						
+TalkEvent_20_001ID	2	Criselda	クリセルダ	頼みたいことがあるのだけど						
+TalkEvent_20_001ID	3	Valeria	ヴァレリア	何かしら？						
+TalkEvent_20_001ID	4	Criselda	クリセルダ	ちょっと足りない素材があるのよ。\n採ってきてもらえる？						
+TalkEvent_20_001ID	5	Valeria	ヴァレリア	ええ。お安いご用よ						
+TalkEvent_20_001ID	6	Criselda	クリセルダ	その先でまたレスナが現れるかもしれないわ。\n気を付けて						
+TalkEvent_20_001ID	7	Valeria	ヴァレリア	……レス、ナ……うっ						
+TalkEvent_20_001ID	8	Criselda	クリセルダ	……大丈夫？						
+TalkEvent_20_001ID	9	Valeria	ヴァレリア	……問題、ないわ。それで、具体的には何をするの？						
+TalkEvent_20_001ID	10	Criselda	クリセルダ	……やはり、油断ならないわね						
+TalkEvent_20_001ID	11	Criselda	クリセルダ	さて、どうなるかしら						
+TalkEvent_20_001ID	12	Resna	レスナ	やっ！　たぁっ！　よいさー！！						
+TalkEvent_20_001ID	13	Izana	イザナ	レスナちゃん！　急がなくていいから、\nもっと呼吸に気を付けて！						
+TalkEvent_20_001ID	14	Resna	レスナ	こうかな……やぁっ！　やぁっ！						
+TalkEvent_20_001ID	15	Izana	イザナ	うん、その調子！　ハンマーに身を委ねよう！						
+TalkEvent_20_001ID	16	Resna	レスナ	（ヴァレリアを取り戻しに行くため……）						
+TalkEvent_20_001ID	17	Resna	レスナ	（そして、極夜の錬金党と決着を付けるために、\n　私たちはノルト州にある拠点に攻め入った）						
+TalkEvent_20_001ID	18	Resna	レスナ	（ワルターさん、アンチュさんに勝利して\n　捕らえることができたものの）						
+TalkEvent_20_001ID	19	Resna	レスナ	（クリセルダさんの行方は知れず、ヴァレリアも\n　取り戻すことができなかった）						
+TalkEvent_20_001ID	20	Resna	レスナ	（クリセルダさんは、頂獣の骸を利用して\n　さらなる力を得ようとしているという）						
+TalkEvent_20_001ID	21	Resna	レスナ	（あの人を止めない限り、この戦いは終わらない。\n　油断ならない状況が続いていた）						
+TalkEvent_20_001ID	22	Resna	レスナ	（ヴァレリア……きっと帰ってくるよね）						
+TalkEvent_20_001ID	23	Resna	レスナ	ふぅ……んああ、腕がブルブルしてきたぁ						
+TalkEvent_20_001ID	24	Izana	イザナ	あはは。お疲れ、レスナちゃん。そろそろ\n止めようかなって思ってたんだよね						
+TalkEvent_20_001ID	25	Resna	レスナ	イザナちゃんはすごいね。\nこんな大変な訓練を毎日やってるんだもの						
+TalkEvent_20_001ID	26	Resna	レスナ	私なんて、ほんの少し真似しただけでクタクタなのに						
+TalkEvent_20_001ID	27	Izana	イザナ	アタシはレスナちゃんの騎士だからね！　それに、\nレスナちゃんだって毎日錬金術の修行、してるでしょ						
+TalkEvent_20_001ID	28	Izana	イザナ	得意なところは人それぞれってこと！						
+TalkEvent_20_001ID	29	Resna	レスナ	ふふっ。誘ってくれてありがと、イザナちゃん。\nおかげで頭がすっきりしたよ						
+TalkEvent_20_001ID	30	Izana	イザナ	よかったー。悩んでるときは、身体を動かすのが一番！						
+TalkEvent_20_001ID	31	Resna	レスナ	そうだね。どうしても悪い想像ばかりしちゃうけど、\n今は大事なことに集中しないとね						
+TalkEvent_20_001ID	32	Resna	レスナ	ヴァレリアを取り戻して、そしてクリセルダさんを\n止める。今やるべきことはそれだけ						
+TalkEvent_20_001ID	33	Izana	イザナ	うん。頑張ろうね、レスナちゃん！						
+TalkEvent_20_002ID	0	Walther	ワルター	ここが異邦人たちの集うアトリエ！\n空間の狭間にこのような場所を作り上げてしまうとは！						
+TalkEvent_20_002ID	1	Resna	レスナ	はい！　ここでは数々の錬金術士によって研究や調合が\n日々、行われているんです！						
+TalkEvent_20_002ID	2	Walther	ワルター	そしてこれがマナを増幅する力を持った錬金釜ですか。\n見た目は我々のものと似ていますが……						
+TalkEvent_20_002ID	3	Resna	レスナ	この錬金釜は、それはもうすごいものでしてですね！						
+TalkEvent_20_002ID	4	Walther	ワルター	一目見れば分かります。\nこれは極めて高度な錬金術による産物だ						
+TalkEvent_20_002ID	5	Walther	ワルター	一度解体して仕組みを明らかにしたいですね。\nそんな気持ちが抑えきれなくて……いいですか？						
+TalkEvent_20_002ID	6	Resna	レスナ	ええっ！？　そ、それは困ります……						
+TalkEvent_20_002ID	7	Juna	ユナ	その辺りにしてもらおうか。\n今はこちらの用件が先だ						
+TalkEvent_20_002ID	8	Walther	ワルター	失礼。こういう性分なものでしてね。\nまた後でじっくり見させてもらうことにしましょう						
+TalkEvent_20_002ID	9	Walther	ワルター	さて、用件とはなんでしょうか？						
+TalkEvent_20_002ID	10	Roman	ロマン	２つある。１つは、クリセルダの行方についてだ						
+TalkEvent_20_002ID	11	Antje	アンチュ	……私たちだって、知りたいくらいよ。\n連絡を待つ手筈だったんだから						
+TalkEvent_20_002ID	12	Roman	ロマン	あれから捜索を続けているが成果がない。\n少しでも手掛かりが欲しい状況でね						
+TalkEvent_20_002ID	13	Roman	ロマン	何か心当たりがあれば話してほしい						
+TalkEvent_20_002ID	14	Brad	ブラッド	クリセルダはあの拠点から錬金釜を持ち出していた。\nそれは恐らく、彼女の研究を完成させるためだ						
+TalkEvent_20_002ID	15	Brad	ブラッド	だから、彼女は人目につかず、研究に集中できる\nような環境に身を隠しているはず……と私は考えている						
+TalkEvent_20_002ID	16	Walther	ワルター	それは正しいでしょう。場所までは、分かりませんが						
+TalkEvent_20_002ID	17	Walther	ワルター	彼女の研究は大詰めでしたから、\n完成まで、自分から表に出てくることはないでしょうね						
+TalkEvent_20_002ID	18	Brad	ブラッド	ヴァレリアが同行しているのであれば、\n素材の調達に彼女を使う可能性もあるな						
+TalkEvent_20_002ID	19	Walther	ワルター	用心深いクリセルダを追うより\nそちらのほうが手掛かりを掴みやすいかもしれませんね						
+TalkEvent_20_002ID	20	Resna	レスナ	…………！						
+TalkEvent_20_002ID	21	Roman	ロマン	ヴァレリアから追いかけてみると。なるほど						
+TalkEvent_20_002ID	22	Roman	ロマン	よし。大陸中に範囲を広げて、目撃情報を集めてみよう						
+TalkEvent_20_002ID	23	Brad	ブラッド	もう１つの用件だ。この後、ノルト州の拠点の\n再調査に向かうことになった						
+TalkEvent_20_002ID	24	Brad	ブラッド	残された人造頂獣たちの平和的運用を検証するためだ。\nお前たち二人にも同行してもらう						
+TalkEvent_20_002ID	25	Brad	ブラッド	まずはその危険性を取り除けるかどうかが焦点になる。\n生み出した本人に聞くのが手っ取り早いのでな						
+TalkEvent_20_002ID	26	Walther	ワルター	新たな方向性への模索。ぜひ同行させてください						
+TalkEvent_20_002ID	27	Antje	アンチュ	なんで私まで……ワルターだけでいいじゃない						
+TalkEvent_20_002ID	28	Brad	ブラッド	お前たちの監視が私の役目だからな。\n一緒のほうが監視しやすい、それだけのことだ						
+TalkEvent_20_002ID	29	Antje	アンチュ	どうせ拒否権なんてないし						
+TalkEvent_20_002ID	30	Resna	レスナ	人造頂獣の件でしたら、私も同行します！						
+TalkEvent_20_002ID	31	Resna	レスナ	あの、錬金術士同士、よかったら\n話に花を咲かせましょう						
+TalkEvent_20_002ID	32	Antje	アンチュ	…………						
+TalkEvent_20_002ID	33	Resna	レスナ	……あっ、え、ええと						
+TalkEvent_20_002ID	34	Roman	ロマン	まぁ！　話はまとまったんだ、とにかく出発しよう！						
+TalkEvent_20_003ID	0	Brad	ブラッド	人造頂獣は、ここにいるもので最後だろうな？						
+TalkEvent_20_003ID	1	Walther	ワルター	ええ。製造途中のものも含め、これで全部です						
+TalkEvent_20_003ID	2	Brad	ブラッド	出発前に伝えた通り、まずは危険性の排除が必要だ。\n今すぐ取りかかれることはあるか？						
+TalkEvent_20_003ID	3	Walther	ワルター	現在は制圧用の装備を装着させていますので、\nまずはそれを取り外していきましょう						
+TalkEvent_20_003ID	4	Brad	ブラッド	ふむ……素体に様々な装備を取り付けることで、\n行動を多様化している、という仕組みか						
+TalkEvent_20_003ID	5	Walther	ワルター	ええ。色々と試す上ではこれが最適なのです。\n現状は戦うことに特化していますが……						
+TalkEvent_20_003ID	6	Walther	ワルター	平和利用を考えるのであれば、\nその目的に応じた装備を開発するのが最善でしょう						
+TalkEvent_20_003ID	7	Walther	ワルター	今後の運用でまず考えられるのは……						
+TalkEvent_20_003ID	8	Resna	レスナ	開墾や治水とか、掘削と運搬とか						
+TalkEvent_20_003ID	9	Walther	ワルター	なるほど……						
+TalkEvent_20_003ID	10	Walther	ワルター	人造頂獣の平和利用\nいざ考え始めてみると、なかなか面白いものですね						
+TalkEvent_20_003ID	11	Brad	ブラッド	考えるのは後にしてくれ。\nまずは言われたことを進めればいい						
+TalkEvent_20_003ID	12	Walther	ワルター	おっと、失礼						
+TalkEvent_20_003ID	13	Roman	ロマン	協力的というか……思ったよりも前のめりだね						
+TalkEvent_20_003ID	14	Brad	ブラッド	奴の望みは錬金術のすべてを知ること……\nそう言っていたそうだな？						
+TalkEvent_20_003ID	15	Resna	レスナ	はい。……そのためには、禁忌とされていることも\n厭わないと、そういう風に言っていました						
+TalkEvent_20_003ID	16	Brad	ブラッド	知の追求に関して、善悪への頓着がないのだろう。\n良く言えば純粋、悪く言えば無法……						
+TalkEvent_20_003ID	17	Brad	ブラッド	いずれにせよ、要注意人物であることに変わりはない。\n引き続き、監視は必要だ						
+TalkEvent_20_003ID	18	Resna	レスナ	あのっ！　アンチュさん！						
+TalkEvent_20_003ID	19	Antje	アンチュ	……なに						
+TalkEvent_20_003ID	20	Resna	レスナ	極夜の錬金党の皆さんは、この拠点でいつも調合を\nしていたんですよね？　よければその時の話など……！						
+TalkEvent_20_003ID	21	Antje	アンチュ	協力はするけど、必要以上に\n貴方に話すことはない……						
+TalkEvent_20_003ID	22	Resna	レスナ	あっ……はい、すみません……						
+TalkEvent_20_003ID	23	Resna	レスナ	…………						
+TalkEvent_20_003ID	24	Antje	アンチュ	……まだ、何か用？						
+TalkEvent_20_003ID	25	Resna	レスナ	ええと……						
+TalkEvent_20_003ID	26	Resna	レスナ	私、アンチュさんと友達になりたい。\nその気持ちは今でも変わりません						
+TalkEvent_20_003ID	27	Antje	アンチュ	…………						
+TalkEvent_20_003ID	28	Resna	レスナ	ま、また、気が向いたらお話しましょうね！						
+TalkEvent_20_003ID	29	Antje	アンチュ	気が向いたらね……						
+TalkEvent_20_003ID	30	Resna	レスナ	（ヨハナちゃんとも仲良くなれたんだもん。\n　いつかはきっと……うん。頑張ろう！）						
+TalkEvent_20_004ID	0	Ryza	ライザ	あ、レスナ！　手紙読んでくれたんだね！						
+TalkEvent_20_004ID	1	Resna	レスナ	それはもう先輩の手紙なら５回は読みます						
+TalkEvent_20_004ID	2	Resna	レスナ	「読んだらすぐカフェに顔を出してほしい」って……\n何かあったんですか！？						
+TalkEvent_20_004ID	3	Ryza	ライザ	ヴァレリアの目撃情報が入ったのよ！\nレントがね、ヴァレリアらしき人を見たって！						
+TalkEvent_20_004ID	4	Resna	レスナ	おぉっ！　そ、それで……場所は？						
+TalkEvent_20_004ID	5	Ryza	ライザ	ヴィアベル州だって。レントは武者修行のために\n行ってたみたいなんだけど						
+TalkEvent_20_004ID	6	Resna	レスナ	ヴィアベル州！\nまだ行ったことない場所です						
+TalkEvent_20_004ID	7	Ryza	ライザ	一応追いかけてみたけど、見失っちゃったってさ。\nでも、どうやら素材の採取をしてたっぽいんだよね						
+TalkEvent_20_004ID	8	Resna	レスナ	じゃあ、もしかしたらまだ州の中に？						
+TalkEvent_20_004ID	9	Ryza	ライザ	用事が終わってなければね。\nなるべく急いだほうがいいと思う						
+TalkEvent_20_004ID	10	Resna	レスナ	ありがとうございます！　レントさんにも\nどうか感謝の気持ちをお伝えください						
+TalkEvent_20_004ID	11	Ryza	ライザ	あと、ハイディさんたちは、ヴァレリア探して\n出かけちゃってるみたいで、伝えられてないんだよね						
+TalkEvent_20_004ID	12	Resna	レスナ	そうでしたか……それでは、まずは私が先行して\nヴィアベル州で情報を集めてきます！						
+TalkEvent_20_004ID	13	Resna	レスナ	……というわけで、ヴィアベル州に行こうと思うんです						
+TalkEvent_20_004ID	14	Roman	ロマン	ああ、頼んだよ。こちらでも、他に情報がないか\n引き続き調べることにしよう						
+TalkEvent_20_004ID	15	Brad	ブラッド	そこからクリセルダの足取りも掴めればよいのだがな						
+TalkEvent_20_004ID	16	Roman	ロマン	ハイディたちにはまだ連絡がついていないそうだが、\n他に誰を連れていくつもりだい？						
+TalkEvent_20_004ID	17	Resna	レスナ	イザナちゃんとヨハナちゃんにはお願いしてます。\nあとは……						
+TalkEvent_20_004ID	18	Resna	レスナ	ワルターさんとアンチュさんにも\n同行をお願いしようと考えてます						
+TalkEvent_20_004ID	19	Roman	ロマン	ふむ……確かに、ヴァレリアと一戦交える可能性も\nあるからね。戦力が多いに越したことはない						
+TalkEvent_20_004ID	20	Brad	ブラッド	私は、それについては反対だ						
+TalkEvent_20_004ID	21	Brad	ブラッド	あの二人はまだ、クリセルダと繋がりが\nある可能性が否めない。目立つ動きをさせるのは危険だ						
+TalkEvent_20_004ID	22	Resna	レスナ	だからこそです						
+TalkEvent_20_004ID	23	Resna	レスナ	もし今回、お二人が私たちに最後まで協力してくれた\nなら……その疑いを晴らす一助になります						
+TalkEvent_20_004ID	24	Resna	レスナ	それに、万が一あの二人が何か良からぬことを\n考えていたとしても……						
+TalkEvent_20_004ID	25	Resna	レスナ	その場合は、クリセルダさんに接触するきっかけに\nなるはずです。どう転んでも大きな一歩じゃないですか						
+TalkEvent_20_004ID	26	Brad	ブラッド	一理あるが……希望的観測に過ぎんな。\n危険であることに変わりはない						
+TalkEvent_20_004ID	27	Johanna	ヨハナ	そのために私たちがいるんじゃない！						
+TalkEvent_20_004ID	28	Izana	イザナ	そうだよ！　ねー、ヨハナ！						
+TalkEvent_20_004ID	29	Resna	レスナ	ふふっ。ありがと、イザナちゃん、ヨハナちゃん						
+TalkEvent_20_004ID	30	Brad	ブラッド	戦闘能力は疑わないが……相手は錬金党だ。\n頭脳戦で来られたらどうするつもりだ？						
+TalkEvent_20_004ID	31	Izana	イザナ	う……！　ず、ずのう。それは……						
+TalkEvent_20_004ID	32	Johanna	ヨハナ	ふん。圧倒的な才能の前には、頭脳戦なんて無意味よ。\n何をされても、天才の私には通用しないわ						
+TalkEvent_20_004ID	33	Brad	ブラッド	不安が過ぎるんだが						
+TalkEvent_20_004ID	34	Roman	ロマン	ブラッド、私はいけると思うよ						
+TalkEvent_20_004ID	35	Brad	ブラッド	リヒャルトお前……						
+TalkEvent_20_004ID	36	Brad	ブラッド	私も監視役として同行しよう						
+TalkEvent_20_004ID	37	Johanna	ヨハナ	はぁ。あんたって心配性よね。\nま、よろしくしてあげるわ						
+TalkEvent_20_004ID	38	Brad	ブラッド	ええい！\nマクダといいお前といい、もっと品良くしろ！						
+TalkEvent_20_004ID	39	Roman	ロマン	あははは						
+TalkEvent_20_004ID	40	Brad	ブラッド	リヒャルト。貴様、なぜ笑う						
+TalkEvent_20_005ID	0	Izana	イザナ	レスナちゃん。ヴィアベル州って\nたくさんの島でできてる州だよね						
+TalkEvent_20_005ID	1	Resna	レスナ	うん、地図だとこのへんだね……						
+TalkEvent_20_005ID	2	Resna	レスナ	ヴィアベル州に行ったら、全部の州を踏破した\nことになるんだなぁ……						
+TalkEvent_20_005ID	3	Roman	ロマン	おお。もうそんなに。それは感慨深いね						
+TalkEvent_20_005ID	4	Izana	イザナ	えへへ。王都から初めて別の州に踏み出した時が\n懐かしいね						
+TalkEvent_20_005ID	5	Resna	レスナ	あの頃は緊張と憧れでいっぱいだったなぁ						
+TalkEvent_20_005ID	6	Izana	イザナ	色んなことがあったね						
+TalkEvent_20_005ID	7	Resna	レスナ	うん……						
+TalkEvent_20_005ID	8	Resna	レスナ	（ヴァレリアとの出会いも……私にとっては大きな\n　出来事だった）						
+TalkEvent_20_005ID	9	Resna	レスナ	（まだ会ってそこまで経ってはいないけど、\n　ヴァレリアとの思い出は数えきれないくらいある）						
+TalkEvent_20_005ID	10	Resna	レスナ	（もっと……この先も、一緒に旅をしたり、\n　調合したり、笑い合ったりしたい）						
+TalkEvent_20_005ID	11	Resna	レスナ	（今度こそ、ヴァレリアを取り戻すんだ）						
+TalkEvent_20_005ID	12	Resna	レスナ	今度の旅も力戦奮闘、頑張ろうね						
+TalkEvent_20_005ID	13	Johanna	ヨハナ	私が一緒なんだから、大船に乗った気持ちで\nいいわよ！　天才船！						
+TalkEvent_20_005ID	14	Izana	イザナ	まーた言ってる。けど、レスナちゃんのことは\nアタシたちが守るから！						
+TalkEvent_20_005ID	15	Brad	ブラッド	以前も話した通り、君の旅先での活躍は\n私も把握している						
+TalkEvent_20_005ID	16	Resna	レスナ	ブラッドさん……						
+TalkEvent_20_005ID	17	Brad	ブラッド	同行者に不安要素はあるが、君の手腕については\n疑っていない。この旅でもなすべきことに邁進してくれ						
+TalkEvent_20_005ID	18	Resna	レスナ	あ、ありがとうございます！　評価いただけて\n恐悦至極です！						
+TalkEvent_20_005ID	19	Roman	ロマン	私も同行したいが、クリセルダの動きも気になる\nからね。王都を離れることはできないんだ						
+TalkEvent_20_005ID	20	Roman	ロマン	その分、ブラッドが付いていれば安心だよ						
+TalkEvent_20_005ID	21	Brad	ブラッド	ああ。問題なく、私の役目をこなすとも						
+TalkEvent_20_005ID	22	Resna	レスナ	皆さん、よろしくお願いします！						
+TalkEvent_20_006ID	0	Walther	ワルター	ふむ、ヴァレリアの目撃情報を掴みましたか						
+TalkEvent_20_006ID	1	Resna	レスナ	はい。ワルターさんとアンチュさんに同行をお願い\nしたいと思いまして						
+TalkEvent_20_006ID	2	Johanna	ヨハナ	早速の仕事よ！　気合入れなさいよね！						
+TalkEvent_20_006ID	3	Walther	ワルター	このアトリエの素晴らしい蔵書を\n無心に読んで読んで読み尽くしたいところですが						
+TalkEvent_20_006ID	4	Resna	レスナ	そのお気持ちは分かります						
+TalkEvent_20_006ID	5	Walther	ワルター	仕事なら仕方ありません。アンチュもいいですね						
+TalkEvent_20_006ID	6	Antje	アンチュ	行きたくない……でも、仕方ないのかな……						
+TalkEvent_20_006ID	7	Resna	レスナ	あの、アンチュさん？						
+TalkEvent_20_006ID	8	Antje	アンチュ	なんでこんな奴らと……でも、もしかしたら\nクリセルダが迎えに来てくれるかも……？						
+TalkEvent_20_006ID	9	Resna	レスナ	えっと……アンチュ・モルトケさん？						
+TalkEvent_20_006ID	10	Geron	ジェロン	協力すると決めた以上、役目は果たせアンチュ						
+TalkEvent_20_006ID	11	Lara	ララ	ジェロンの言う通りです。\n半端な態度は良くありませんわ						
+TalkEvent_20_006ID	12	Antje	アンチュ	い、行くわよ……						
+TalkEvent_20_006ID	13	Resna	レスナ	お二人とも、よろしくお願いします！						
+TalkEvent_20_006ID	14	Antje	アンチュ	準備……するから						
+TalkEvent_20_006ID	15	Resna	レスナ	仲良くできるといいなあ……						
+TalkEvent_20_006ID	16	Johanna	ヨハナ	あんた、まだあいつと友達になろうとか考えてる？						
+TalkEvent_20_006ID	17	Resna	レスナ	もちろん。その気持ちは変わってないよ。\n……ヨハナちゃんとだって、仲良くなれたんだから						
+TalkEvent_20_006ID	18	Johanna	ヨハナ	あっそ……						
+TalkEvent_20_006ID	19	Johanna	ヨハナ	そう思うなら、話し方から変えてみたら？\n私にするのと同じみたいにしなさいよ						
+TalkEvent_20_006ID	20	Resna	レスナ	そ、そうだね。よーし！						
+TalkEvent_20_006ID	21	Resna	レスナ	アンチュちゃん！　頑張ろうね！						
+TalkEvent_20_006ID	22	Antje	アンチュ	…………						
+TalkEvent_20_006ID	23	Resna	レスナ	（こ、これからだよ！）						
+TalkEvent_20_007ID	0	Walther	ワルター	それで、行き先はヴィアベル州でしたか						
+TalkEvent_20_007ID	1	Antje	アンチュ	大陸東の島しょ部……実際に行ったことはないけど						
+TalkEvent_20_007ID	2	Johanna	ヨハナ	島ってことは、船で移動するのよね？						
+TalkEvent_20_007ID	3	Resna	レスナ	うん。あの辺りは潮の流れが速くて結構\n大変みたいだよ						
+TalkEvent_20_007ID	4	Antje	アンチュ	うー						
+TalkEvent_20_007ID	5	Resna	レスナ	それと、歌や芸術も盛んな地域で、そうした催し物も\n盛んなんだって。ふふっ、この目で見るのが楽しみ						
+TalkEvent_20_007ID	6	Izana	イザナ	なんだか明るくて楽しそうな場所だね！						
+TalkEvent_20_007ID	7	Antje	アンチュ	明るくて楽しい場所苦手……						
+TalkEvent_20_007ID	8	Antje	アンチュ	船酔いしそう						
+TalkEvent_20_007ID	9	AONA	アオナ	大丈夫だよ、アンチュちゃん						
+TalkEvent_20_007ID	10	Antje	アンチュ	そうかな……？						
+TalkEvent_20_007ID	11	AONA	アオナ	アンチュちゃんは、魔物だって使役できるから、\n船だって乗りこなせるよ						
+TalkEvent_20_007ID	12	Antje	アンチュ	うん。頑張るしかないから、頑張ってみよう……						
+TalkEvent_20_007ID	13	Walther	ワルター	アンチュは、時折ああして会話してるんですよ						
+TalkEvent_20_007ID	14	Resna	レスナ	アンチュちゃんが身に付けてるぬいぐるみと、\nですか？						
+TalkEvent_20_007ID	15	Walther	ワルター	ええ。\nそれぞれに名前と性格が設定されているようです						
+TalkEvent_20_007ID	16	Walther	ワルター	私は嫌われているのか、あまり口を開いては\nくれませんが……						
+TalkEvent_20_007ID	17	Walther	ワルター	クリセルダとは、「彼ら」もよく会話していましたよ						
+TalkEvent_20_007ID	18	Resna	レスナ	アンチュちゃんにとって、\nとても大事な子たちなんですね						
+TalkEvent_20_008ID	0	Izana	イザナ	ひゃぁ！　風が強いね！						
+TalkEvent_20_008ID	1	Resna	レスナ	この地域特有の気候だね。\n荷物が飛ばされないよう気を付けなきゃ						
+TalkEvent_20_008ID	2	Brad	ブラッド	レスナ。ヴァレリアが目撃されたというのは\nこの島で合っているのか？						
+TalkEvent_20_008ID	3	Resna	レスナ	はい。場所は……						
+TalkEvent_20_008ID	4	Resna	レスナ	ヴァレリアはこの奥に入っていったと、\nライザ先輩からはうかがいました						
+TalkEvent_20_008ID	5	Johanna	ヨハナ	何か痕跡が残ってるかもしれないし、よく調べましょ						
+TalkEvent_20_008ID	6	Izana	イザナ	そうだね！						
+TalkEvent_20_008ID	7	Walther	ワルター	この場所でしかお目にかかれない素材も多い……\nじっくり採取しながら進みたいところですね						
+TalkEvent_20_008ID	8	Johanna	ヨハナ	ちょっと、遊んでる暇はないんだけど？						
+TalkEvent_20_008ID	9	Walther	ワルター	そんなつもりはありませんよ。重要なのは、\nヴァレリアもここの素材を目当てに来ていたということ						
+TalkEvent_20_008ID	10	Walther	ワルター	ならば、私たちもそれらを調べることで、\nクリセルダの狙いに近づける……可能性もあるでしょう						
+TalkEvent_20_008ID	11	Izana	イザナ	た、確かに……！？						
+TalkEvent_20_008ID	12	Walther	ワルター	そういうわけですから、私が道を逸れて採取に\n勤しんでいたとしても、気にしないでいただきたい						
+TalkEvent_20_008ID	13	Walther	ワルター	それでは						
+TalkEvent_20_008ID	14	Resna	レスナ	あ、ちょっと！						
+TalkEvent_20_008ID	15	Johanna	ヨハナ	……やっぱり、ただ自分が採取したいだけじゃないの？						
+TalkEvent_20_008ID	16	Brad	ブラッド	奴は私が見張っておく。先を急ごう						
+TalkEvent_20_008ID	17	Resna	レスナ	そ、そうですね。アンチュちゃんも――						
+TalkEvent_20_008ID	18	Antje	アンチュ	またワルターのあの調子が始まっちゃった						
+TalkEvent_20_008ID	19	MURASAKI	ムラサキ	仕方ないさ。あの人は錬金術が生き甲斐なんだから						
+TalkEvent_20_008ID	20	Antje	アンチュ	でも、同じ変人だと思われそうだよ、ムラサキ						
+TalkEvent_20_008ID	21	MURASAKI	ムラサキ	それは……僕も心配してたことなんだよ、アンチュ君						
+TalkEvent_20_008ID	22	Resna	レスナ	あの、アンチュちゃん。よかったら私にも\nお友達を紹介してもらえないかな？						
+TalkEvent_20_008ID	23	Resna	レスナ	あ……						
+TalkEvent_20_008ID	24	Resna	レスナ	……ううん、まだまだ！　百折不撓！						
+TalkEvent_20_009ID	0	Walther	ワルター	いかがです？　この島の植生はなかなか独特でしょう？						
+TalkEvent_20_009ID	1	Resna	レスナ	はい。初めて見るものもたくさんあります						
+TalkEvent_20_009ID	2	Resna	レスナ	それってやっぱり、ここが島だからなんでしょうか？\n大陸とは海を隔てているので						
+TalkEvent_20_009ID	3	Walther	ワルター	ええ、恐らくは。そういった地理的な断絶は、\n特異な植生を生み出す要因となります						
+TalkEvent_20_009ID	4	Resna	レスナ	ベルク州の高地でも同じでした。\n結構、考え始めると奥が深いですよね						
+TalkEvent_20_009ID	5	Brad	ブラッド	地理的な断絶、か。その最たるものは、\nやはり大陸北西の海域にある「無数島群域」だろうな						
+TalkEvent_20_009ID	6	Resna	レスナ	確かに！　数え切れないぐらいの島があるという地域。\nあそこはどんな環境なんでしょうか……						
+TalkEvent_20_009ID	7	Walther	ワルター	私は実際に行ったことがありますが、\n確かに大陸と異なる部分は多かったですよ						
+TalkEvent_20_009ID	8	Resna	レスナ	へえ、実際に行ったことが……						
+TalkEvent_20_009ID	9	Resna	レスナ	ええっ！？　行ったことあるんですか！？						
+TalkEvent_20_009ID	10	Walther	ワルター	はい。冒険者の船に同乗しましてね。無数島群域にある\n島国の１つ、「ノーヴァ神聖国」を訪れました						
+TalkEvent_20_009ID	11	Izana	イザナ	で、でも！　あの辺りの海には頂獣が棲んでて、\n安全に通るのは難しいって聞くよ！？						
+TalkEvent_20_009ID	12	Walther	ワルター	幸いというべきか、頂獣には遭遇しませんでしたよ						
+TalkEvent_20_009ID	13	Johanna	ヨハナ	信じられない……命知らずにもほどがあるわよ						
+TalkEvent_20_009ID	14	Johanna	ヨハナ	まさか、嘘ついてないわよね						
+TalkEvent_20_009ID	15	Walther	ワルター	そんな無駄なことはしません						
+TalkEvent_20_009ID	16	Brad	ブラッド	……かつては、北の海域と交易を行っていた記録も\nいくつか残っている。あり得ない話ではない						
+TalkEvent_20_009ID	17	Brad	ブラッド	もっとも、北の海域への航海が危険であることには\n変わりないとは思うが						
+TalkEvent_20_009ID	18	Walther	ワルター	危険だからと命を惜しむようでは、\n何も知ることはできませんよ						
+TalkEvent_20_009ID	19	Resna	レスナ	その研究への姿勢……すごいです						
+TalkEvent_20_009ID	20	Resna	レスナ	ワルターさん。大陸の向こう、海の先のお話……\nぜひ聞かせてもらえませんか？						
+TalkEvent_20_009ID	21	Walther	ワルター	もちろん構いませんが、長くなりますよ。\nこの一件が終わったらでいかがでしょう？						
+TalkEvent_20_009ID	22	Resna	レスナ	はい！　よろしくお願いします！						
+TalkEvent_20_010ID	0	Resna	レスナ	うーん……アンチュちゃんにどうやって話しかけよう						
+TalkEvent_20_010ID	1	Johanna	ヨハナ	まったく……こういうときは私に任せなさいって！						
+TalkEvent_20_010ID	2	Resna	レスナ	え？						
+TalkEvent_20_010ID	3	Johanna	ヨハナ	あんた！　本当は私たちと友達になりたいんでしょ！\n隠さなくてもいいわよ！						
+TalkEvent_20_010ID	4	Resna	レスナ	ヨ、ヨハナちゃん！？						
+TalkEvent_20_010ID	5	Izana	イザナ	あちゃー、すごい距離感						
+TalkEvent_20_010ID	6	Antje	アンチュ	な、何よ、いきなり！？						
+TalkEvent_20_010ID	7	RUAKKA	ルアッカ	おめぇ、なれなれしいぞ！　バーカ！						
+TalkEvent_20_010ID	8	Johanna	ヨハナ	て、天才の私に向かってバカですって！？\nこの陰険女！						
+TalkEvent_20_010ID	9	Antje	アンチュ	っ……						
+TalkEvent_20_010ID	10	Johanna	ヨハナ	やるっていうの！？						
+TalkEvent_20_010ID	11	Antje	アンチュ	そ、そっちこそ！　ねぇ、ルアッカ！						
+TalkEvent_20_010ID	12	RUAKKA	ルアッカ	そうだぜアンチュ！　やっちまえ！						
+TalkEvent_20_010ID	13	Izana	イザナ	ヨハナ！　何やってんの！　ここは抑えて！						
+TalkEvent_20_010ID	14	Brad	ブラッド	仲間割れしている場合か！						
+TalkEvent_20_010ID	15	Antje	アンチュ	こいつ、何なの？　天才を自称してるの、怖いんだけど						
+TalkEvent_20_010ID	16	Johanna	ヨハナ	こいつ何なのはこっちのセリフだっての！						
+TalkEvent_20_010ID	17	Resna	レスナ	あ、あはは……						
+TalkEvent_20_011ID	0	YELLO	イェーロ	マッタク……ルアッカ、好戦的スギルワ						
+TalkEvent_20_011ID	1	Antje	アンチュ	今の私が本気で反撃するのはまずいし……\n代わりに怒ってくれたんだよ、イェーロ						
+TalkEvent_20_011ID	2	Resna	レスナ	その子、イェーロちゃんっていうんだね						
+TalkEvent_20_011ID	3	Antje	アンチュ	なっ。なんで……						
+TalkEvent_20_011ID	4	Resna	レスナ	私、アンチュちゃんのお友達の名前、全員\n覚えたんだよ。アオナちゃんにルアッカ君……						
+TalkEvent_20_011ID	5	Brad	ブラッド	（ぬいぐるみを友達に持つ内気な少女、か）						
+TalkEvent_20_011ID	6	Brad	ブラッド	二人とも、どうやら内通や裏切りを企んでいるわけでは\nないようだ……今のところは、だが						
+TalkEvent_20_011ID	7	Johanna	ヨハナ	あんた、じろじろ見すぎよ。\nそんなんじゃ、監視対象を余計に警戒させるだけ						
+TalkEvent_20_011ID	8	Brad	ブラッド	それが月影の会の監視者――\n「鴉」の極意というわけか？						
+TalkEvent_20_011ID	9	Johanna	ヨハナ	そんな大層なものじゃないわよ						
+TalkEvent_20_011ID	10	Johanna	ヨハナ	……あんた、もしかして私のことも\n裏切るんじゃないかって疑ってたりするの？						
+TalkEvent_20_011ID	11	Brad	ブラッド	いや、それはない						
+TalkEvent_20_011ID	12	Brad	ブラッド	君の瞳の中にはすでに光を感じている。\nレスナを裏切るような真似はしないだろう						
+TalkEvent_20_011ID	13	Johanna	ヨハナ	なっ、何よ「光」って！　あんたってわりと\n気障な奴ね！　言われるでしょ！						
+TalkEvent_20_011ID	14	Brad	ブラッド	正確に見定めるよう、心がけているだけだ。\n私の判断１つで、色々と変わってしまうからな						
+TalkEvent_20_011ID	15	Johanna	ヨハナ	ま、疑ってないならいいわよ						
+TalkEvent_20_011ID	16	Resna	レスナ	ヨハナちゃん！　何話してたの？\nブラッドさん、何か重要な発見でもあったんですか？						
+TalkEvent_20_011ID	17	Johanna	ヨハナ	な、なんでもないわよ、ただの雑談						
+TalkEvent_20_011ID	18	Brad	ブラッド	ヨハナの中にある、まばゆい光についてだな						
+TalkEvent_20_011ID	19	Johanna	ヨハナ	わーーー！！！						
+TalkEvent_20_011ID	20	Johanna	ヨハナ	それより、そっちこそ何について話してたのよ						
+TalkEvent_20_011ID	21	Resna	レスナ	あのね……						
+TalkEvent_20_011ID	22	Brad	ブラッド	（あれが「鴉」として裏の世界で\n　恐れられていた人物か）						
+TalkEvent_20_011ID	23	Johanna	ヨハナ	ねぇ、聞いてよイザナ！						
+TalkEvent_20_011ID	24	Resna	レスナ	ま、待ってよヨハナちゃん！						
+TalkEvent_20_011ID	25	Brad	ブラッド	（リヒャルト……彼女をレスナに託した\n　判断は的確だったぞ）						
+TalkEvent_20_012ID	0	Brad	ブラッド	さて、この島はあらかた探索したことになるな						
+TalkEvent_20_012ID	1	Resna	レスナ	ヴァレリアの足跡……なかなか見つかりませんね。\n目を皿のようにして探したのですが						
+TalkEvent_20_012ID	2	Brad	ブラッド	すでにこの島を去った後かもしれんな						
+TalkEvent_20_012ID	3	Izana	イザナ	そんなあ……						
+TalkEvent_20_012ID	4	Resna	レスナ	もしヴァレリアが島を出たのだとしたら、\n船に乗るところを誰かが見ていたりしないでしょうか						
+TalkEvent_20_012ID	5	Brad	ブラッド	船を使って移動していたのなら、な						
+TalkEvent_20_012ID	6	Izana	イザナ	そっか、道具を使って移動してるかも……\nさすがに泳ぎはないと思うけど、多分……						
+TalkEvent_20_012ID	7	Brad	ブラッド	だが、目撃者がいる可能性もある。\n港に戻って聞き込みをしてみるのも悪くないだろう						
+TalkEvent_20_012ID	8	Resna	レスナ	では、そうしましょう！\n善は急げです！　いざ！						
+TalkEvent_20_012ID	9	Izana	イザナ	頑張ろうね、レスナちゃん！						
+TalkEvent_20_012ID	10	Johanna	ヨハナ	よし、この私の天才的な話術が輝く時が来たわね。\n片っ端から問い詰めてやるわ！						
+TalkEvent_20_012ID	11	Resna	レスナ	ちょ、ちょっと！\n強引なのはダメだよ、ヨハナちゃん						
+TalkEvent_20_012ID	12	Resna	レスナ	お二人も、ご協力お願いします！						
+TalkEvent_20_012ID	13	Walther	ワルター	ふとした会話から、思いもかけない知識を\n得ることもある。そう考えて、やってみましょう						
+TalkEvent_20_012ID	14	Antje	アンチュ	私は……人と話すの嫌いだし、得意でもないから……						
+TalkEvent_20_012ID	15	Resna	レスナ	あはは、実は私もそうなんだ。\nでも、やってみたら案外、大丈夫かもしれないよ						
+TalkEvent_20_012ID	16	Antje	アンチュ	そ、そんなわけ……						
+TalkEvent_20_012ID	17	Resna	レスナ	でも、無理強いはできないよね……\n気が向いたらでいいから！						
+TalkEvent_20_012ID	18	Resna	レスナ	あ、あの！　つかぬことをうかがいますが……						
+TalkEvent_20_012ID	19		若い男	うーん。覚えてないなあ……\n何か他に特徴とかないのかい？						
+TalkEvent_20_012ID	20	Resna	レスナ	え、ええっと……髪がさらさらで、瞳の輝きが綺麗で、\n戦うときは目を奪われるような身のこなしで……！						
+TalkEvent_20_012ID	21		若い男	いや、身のこなしとかは分からないけど……						
+TalkEvent_20_012ID	22	Resna	レスナ	はっ、すみません！　関係のないことを……\nえっと、特徴……特徴……						
+TalkEvent_20_012ID	23		若い男	悪いけど、ちょっと急いでるんだ。\n他を当たってくれるかい？						
+TalkEvent_20_012ID	24	Resna	レスナ	ああ、はい！　お時間を取らせてしまい\n申し訳ありません！						
+TalkEvent_20_012ID	25		おばあさん	うーん、ちょっと思い当たらないわねえ						
+TalkEvent_20_012ID	26	Resna	レスナ	そ、そうですか……						
+TalkEvent_20_012ID	27	Resna	レスナ	はあ……またダメだった……						
+TalkEvent_20_012ID	28	Resna	レスナ	すー、はー……すー、はー……よし！　やー！！						
+TalkEvent_20_012ID	29	Resna	レスナ	あの、実は人を探しているんですが……						
+TalkEvent_20_012ID	30	AONA	アオナ	ねぇアンチュちゃん。あの子、本当に\n知らない人と話すのが苦手なんじゃない？						
+TalkEvent_20_012ID	31	MURASAKI	ムラサキ	最初は話を合わせてるのかと思ったけどね						
+TalkEvent_20_012ID	32	Antje	アンチュ	そう、なのかも……						
+TalkEvent_20_013ID	0	Izana	イザナ	レスナちゃん！　あったよ！！　目撃情報が！！！						
+TalkEvent_20_013ID	1	Resna	レスナ	僥倖！						
+TalkEvent_20_013ID	2	Izana	イザナ	ほら、こっち！						
+TalkEvent_20_013ID	3	Resna	レスナ	ブラッドさん！\nヴァレリアの目撃情報があったって……						
+TalkEvent_20_013ID	4	Brad	ブラッド	こちらの男性が、隣の島でそれらしき人物を\n見たと言っている						
+TalkEvent_20_013ID	5	Resna	レスナ	ほ、本当ですか！？　ぜひ、お話をば……！						
+TalkEvent_20_013ID	6		男性	船から降りていくのを見たんだ。俺たちがこっちの島に\n向けて出発するのとちょうど入れ替わりだった						
+TalkEvent_20_013ID	7		男性	島に降り立つや否や、その辺りに生えていた草や果物を\n採って食べ始めてな。それで印象に残ってるよ						
+TalkEvent_20_013ID	8	Izana	イザナ	あはは……ヴァレリアで間違いなさそうだね。\n移動と食料調達を一緒にしているんだよ						
+TalkEvent_20_013ID	9	Resna	レスナ	急いで隣の島に向かいましょう！						
+TalkEvent_20_013ID	10	Brad	ブラッド	それが１つ問題があってな……あちらの島へ向かう\n定期船だが、次に出るのは５日後だそうだ						
+TalkEvent_20_013ID	11	Izana	イザナ	にゃっ！　い、５日後！？						
+TalkEvent_20_013ID	12	Johanna	ヨハナ	私は冴えてるから分かるんだけど\nそんなゆっくりしてたらまた逃げられるわよ！						
+TalkEvent_20_013ID	13	Johanna	ヨハナ	錬金術の道具でなんとかならないの？\n空飛んでいくとか！　しゅぽーんって！						
+TalkEvent_20_013ID	14	Resna	レスナ	ええ！？　そう言われても、すぐには……						
+TalkEvent_20_013ID	15	Brad	ブラッド	どこかで船を見つけるしかないが、あちらの島まで\n行くとなると、速い潮の流れを越える必要があるな						
+TalkEvent_20_013ID	16		男性	あんたたち、どうやら急いでるみたいだな？						
+TalkEvent_20_013ID	17	Resna	レスナ	そ、そうなんです。\nその人にどうしても会わなくちゃいけなくて……						
+TalkEvent_20_013ID	18		男性	うーん……そんなに切迫してるなら、\nうちの船で送ってやろうか？						
+TalkEvent_20_013ID	19	Resna	レスナ	え？　どういうことでしょう？						
+TalkEvent_20_013ID	20		劇団の座長	俺は旅の劇団の座長をしてるんだ。\n劇団の船に座員たちを乗せて島々を巡ってる						
+TalkEvent_20_013ID	21		劇団の座長	船の造りはしっかりしてるし、操船技術も確かだから、\nあちらの島まで行けるよ						
+TalkEvent_20_013ID	22	Resna	レスナ	自前の船をお持ちなんですね！\nとても助かります						
+TalkEvent_20_013ID	23		劇団の座長	あぁ、いちから探しても、あっちの島まで\n行ける船はそうそう見つからんだろうからね						
+TalkEvent_20_013ID	24	Johanna	ヨハナ	よーし！　話が早いわ、船を出しなさい。\nそうすれば天才メダルをあげるわ						
+TalkEvent_20_013ID	25	Resna	レスナ	ヨハナちゃん！　ちゃんと話は最後まで聞こう！						
+TalkEvent_20_013ID	26		劇団の座長	この島にはしばらく滞在する予定だし、\nちょっと船を出すくらいなら構わないさ						
+TalkEvent_20_013ID	27		劇団の座長	だが、タダってわけにはいかないな						
+TalkEvent_20_013ID	28	Brad	ブラッド	もちろん、謝礼は支払わせてもらう						
+TalkEvent_20_013ID	29		劇団の座長	それなら１つ、こちらの頼みを聞いてくれないか？\n少し困ったことになっててな……						
+TalkEvent_20_013ID	30	Resna	レスナ	何があったんですか？						
+TalkEvent_20_013ID	31		劇団の座長	ここに渡る最中、嵐にあったんだ。そのせいで、\n座員が何人か船酔いで倒れてしまった						
+TalkEvent_20_013ID	32	Antje	アンチュ	ご愁傷様……						
+TalkEvent_20_013ID	33		劇団の座長	このままじゃ今日の公演を中止せざるを得ない。\nあんたたち、代役を探してきてくれないか？						
+TalkEvent_20_013ID	34	Resna	レスナ	劇の代役ですか……						
+TalkEvent_20_013ID	35	Brad	ブラッド	何人、必要なんだ？						
+TalkEvent_20_013ID	36		劇団の座長	男女一人ずつだ。脇役だが、ある程度セリフも\n覚えてもらう必要がある						
+TalkEvent_20_013ID	37	Johanna	ヨハナ	それなら、探すまでもないわよ。\n私が代役を引き受けてあげる！						
+TalkEvent_20_013ID	38	Izana	イザナ	ええっ！？　ヨハナ、演技なんてできるの！？						
+TalkEvent_20_013ID	39	Johanna	ヨハナ	私を誰だと思ってるの？　月影の会にいた頃は\n「鴉」を完璧に演じてきたんだから、劇なんて余裕よ！						
+TalkEvent_20_013ID	40	Izana	イザナ	だ、大丈夫かなあ……						
+TalkEvent_20_013ID	41	Brad	ブラッド	それなら、男性役のほうは私が引き受けよう						
+TalkEvent_20_013ID	42	Resna	レスナ	ブラッドさんまで！？						
+TalkEvent_20_013ID	43	Brad	ブラッド	学生時代、少しかじっていたことがある。\n心配はいらん						
+TalkEvent_20_013ID	44		劇団の座長	なら、決まりだな。\n開演まであまり時間もない。よろしく頼む！						
+TalkEvent_20_014ID	0	Johanna	ヨハナ	――冒険者よ、力が必要ならば私と取引をしよう。\nいや、元よりお前に拒否する権利はないがな						
+TalkEvent_20_014ID	1		劇団の座長	待った！						
+TalkEvent_20_014ID	2	Johanna	ヨハナ	また！？　この宝石のような才能に待ったをかけるの？						
+TalkEvent_20_014ID	3		劇団の座長	さっきも言ったけど、それじゃあ悪者みたいだ。\n君の役は主人公の味方なんだから、もっと親しみを……						
+TalkEvent_20_014ID	4	Johanna	ヨハナ	ぬぬぬ……						
+TalkEvent_20_014ID	5	Resna	レスナ	苦戦してるなあ、ヨハナちゃん……						
+TalkEvent_20_014ID	6	Izana	イザナ	本番までに間に合うのかなあ……						
+TalkEvent_20_014ID	7	Resna	レスナ	（演劇の内容は、ここヴィアベル州に伝わる\n　おとぎ話の１つを題材としている）						
+TalkEvent_20_014ID	8	Resna	レスナ	（昔、船乗りの間で伝わる伝説があった。遥か海の先に\n　数多の財宝が眠る黄金の理想郷がある、と）						
+TalkEvent_20_014ID	9	Resna	レスナ	（しかし、凶悪な魔物や吹き荒れる嵐が行く手を阻み、\n　未だそこに到達した者はいないという――）						
+TalkEvent_20_014ID	10	Resna	レスナ	（海の向こうの理想郷。もしかすると、無数島群域や、\n　果ての大陸が元になっているのかも……）						
+TalkEvent_20_014ID	11		劇団の座長	セリフもところどころ間違えているし、\nきちんと覚えてもらわないと……						
+TalkEvent_20_014ID	12	Johanna	ヨハナ	そんなの、意味が大体合ってればいいじゃない。\nおじいちゃんはそれでいいって言ってくれたわよ？						
+TalkEvent_20_014ID	13	Resna	レスナ	ヨハナちゃん！　ここは抑えて！						
+TalkEvent_20_014ID	14	Resna	レスナ	すみません、この子も悪気があるわけじゃなくて……						
+TalkEvent_20_014ID	15		劇団の座長	い、いや。演技自体は悪くないと思うんだが、\n今回の役にはちょっと合わないなあ……						
+TalkEvent_20_014ID	16		劇団の座長	うーん、今からでも別の代役を探したほうが……						
+TalkEvent_20_014ID	17	Johanna	ヨハナ	…………						
+TalkEvent_20_014ID	18	Resna	レスナ	あ、あの！　それでしたら、私がやってみても\nいいでしょうか！？						
+TalkEvent_20_014ID	19		劇団の座長	え、君が？　演技の経験はあるのかい？						
+TalkEvent_20_014ID	20	Resna	レスナ	な、ないですけど……本を読むのは好きなので、\nセリフを覚えるのは得意、だと……思います						
+TalkEvent_20_014ID	21		劇団の座長	分かった。じゃあ、少し時間をあげるから、\n練習してみてくれ						
+TalkEvent_20_014ID	22	Resna	レスナ	はい！						
+TalkEvent_20_014ID	23	Johanna	ヨハナ	……ごめん。レスナの力になりたかったのに						
+TalkEvent_20_014ID	24	Resna	レスナ	ううん。気にしないで。\n友達で、仲間なんだから。助け合わなきゃ						
+TalkEvent_20_014ID	25	Resna	レスナ	私、ちょっと静かな場所で練習してくるね！						
+TalkEvent_20_014ID	26	Antje	アンチュ	…………						
+TalkEvent_20_015ID	0	Resna	レスナ	――冒険者よ、力が必要ならば私と取引をしよう						
+TalkEvent_20_015ID	1	Resna	レスナ	うう、自分でも分かる……\nこんなんじゃ、ぜんぜんダメだ……						
+TalkEvent_20_015ID	2	Resna	レスナ	（私が演じるのは、理想郷を目指す主人公の前に現れ、\n　嵐を鎮める力を授ける魔女の役だ）						
+TalkEvent_20_015ID	3	Resna	レスナ	（言動は仰々しいけれど、主人公の夢を否定せず、\n　最大限の協力をしてくれる）						
+TalkEvent_20_015ID	4	Resna	レスナ	（座長さんが言っていたように、\n　どこか人懐っこく、親しみやすい人物だ）						
+TalkEvent_20_015ID	5	Resna	レスナ	――いや、元よりお前に選択肢はないはずだ。\n理想郷へ到達しようと願うのなら						
+TalkEvent_20_015ID	6	RUAKKA	ルアッカ	おめぇ、ひっでぇ演技だなあ！						
+TalkEvent_20_015ID	7	Resna	レスナ	わあっ！？　あ、アンチュちゃん！？						
+TalkEvent_20_015ID	8	Resna	レスナ	えっと……今しゃべったのはルアッカ君？						
+TalkEvent_20_015ID	9	RUAKKA	ルアッカ	あんな棒読み、聞いてられねぇぞ！						
+TalkEvent_20_015ID	10	Resna	レスナ	うう、やっぱりそうだよね……						
+TalkEvent_20_015ID	11	Resna	レスナ	でも、少しでも良くなるように頑張らなきゃ。\nヴァレリアに会うためにも						
+TalkEvent_20_015ID	12	Antje	アンチュ	別に……貴方の演技が酷かったとしても……\n船は貸してもらえるんじゃない？						
+TalkEvent_20_015ID	13	Resna	レスナ	そうかもしれないけど……でも、頼まれた以上は\n真摯に向き合いたいんだ。困ったときはお互い様だから						
+TalkEvent_20_015ID	14	Antje	アンチュ	……そう						
+TalkEvent_20_015ID	15	Resna	レスナ	そうだ！　よかったら練習、見ててもらえない？\n感想を言ってくれるだけでもいいから――						
+TalkEvent_20_015ID	16	Antje	アンチュ	――っ！						
+TalkEvent_20_015ID	17	Resna	レスナ	ま、魔物！？						
+TalkEvent_20_015ID	18	YELLO	イェーロ	練習ドコロジャ　ナイワネ						
+TalkEvent_20_015ID	19	RUAKKA	ルアッカ	邪魔しやがって、ぶっ飛ばすぞ！						
+TalkEvent_20_015ID	20	Resna	レスナ	う、うん！						
+TalkEvent_20_016ID	0	Resna	レスナ	ふう……なんとか追い払えた。\n気を取り直して練習を――						
+TalkEvent_20_016ID	1	AONA	アオナ	油断しちゃダメだよっ！						
+TalkEvent_20_016ID	2	Resna	レスナ	っ！　まだいたの！？						
+TalkEvent_20_016ID	3	Antje	アンチュ	くっ……						
+TalkEvent_20_016ID	4	Antje	アンチュ	しつこい……！						
+TalkEvent_20_016ID	5	Resna	レスナ	あ、ありがとう。助かったよ……						
+TalkEvent_20_016ID	6	Antje	アンチュ	……別に						
+TalkEvent_20_016ID	7	Antje	アンチュ	あ、あれ。ルアッカ……？						
+TalkEvent_20_016ID	8	Antje	アンチュ	うっ……！						
+TalkEvent_20_016ID	9	Antje	アンチュ	っ！　ルアッカ！？						
+TalkEvent_20_016ID	10	Resna	レスナ	た、助けに行かなきゃ！						
+TalkEvent_20_016ID	11	Antje	アンチュ	あ……						
+TalkEvent_20_016ID	12	Resna	レスナ	はい、アンチュちゃん						
+TalkEvent_20_016ID	13	Antje	アンチュ	ルアッカ……ルアッカ、よかった……！						
+TalkEvent_20_016ID	14	AONA	アオナ	ルアッカ君！　どうなっちゃうかと思ったよ！						
+TalkEvent_20_016ID	15	RUAKKA	ルアッカ	おめぇら、心配かけちまってすまねぇな！						
+TalkEvent_20_016ID	16	MURASAKI	ムラサキ	まったく人騒がせだよ君という人は						
+TalkEvent_20_016ID	17	YELLO	イェーロ	無事デ　ヨカッタ						
+TalkEvent_20_016ID	18	Resna	レスナ	ふふっ。大事な友達だもんね						
+TalkEvent_20_016ID	19	Antje	アンチュ	ルアッカぁ……っ！						
+TalkEvent_20_016ID	20	Izana	イザナ	レスナちゃーん！　練習はどう……\nって、どうしたの！？　びしょ濡れだよ！？						
+TalkEvent_20_016ID	21	Resna	レスナ	あ、あはは。ちょっと人助けっていうか……\n心配しなくても大丈夫……くしゅん！						
+TalkEvent_20_016ID	22	Johanna	ヨハナ	あんた、レスナに何かしたの？						
+TalkEvent_20_016ID	23	Antje	アンチュ	…………						
+TalkEvent_20_016ID	24	Resna	レスナ	違うよ！アンチュちゃんはむしろ\n私を助けようとしてくれたの						
+TalkEvent_20_016ID	25	Johanna	ヨハナ	ならいいわ。よくやったわね						
+TalkEvent_20_016ID	26	Johanna	ヨハナ	というか、そんなんじゃ演劇どころじゃないでしょ						
+TalkEvent_20_016ID	27	Izana	イザナ	そうだよ！　ちゃんと温かくして休まないと！						
+TalkEvent_20_016ID	28	Resna	レスナ	ううん、私がやらなきゃ……						
+TalkEvent_20_016ID	29	Antje	アンチュ	……やらせて						
+TalkEvent_20_016ID	30	Resna	レスナ	えっ？						
+TalkEvent_20_016ID	31	Antje	アンチュ	私に、やらせて。その役						
+TalkEvent_20_016ID	32	Resna	レスナ	で、でも。この役は……						
+TalkEvent_20_016ID	33	Resna	レスナ	（作り話とはいえ、「魔女」の役なんて……）						
+TalkEvent_20_016ID	34	AONA	アオナ	「魔女」のこと、気にしてくれてるの？						
+TalkEvent_20_016ID	35	RUAKKA	ルアッカ	まぁ、故郷の奴らのことは、今でも恨んでるけどな						
+TalkEvent_20_016ID	36	MURASAKI	ムラサキ	所詮、ただの劇さ。アンチュ君は気にしないよ						
+TalkEvent_20_016ID	37	YELLO	イェーロ	友達ヲ　助ケテクレタ　オ礼ヨ						
+TalkEvent_20_016ID	38	Resna	レスナ	皆さん……						
+TalkEvent_20_016ID	39	Resna	レスナ	ありがとう！\nじゃあ、よろしくお願いします！						
+TalkEvent_20_017ID	0	Brad	ブラッド	理想郷を目指す、だあ？\nやめとけやめとけ！　お前にゃ無理だ						
+TalkEvent_20_017ID	1	Brad	ブラッド	俺も昔はお前みてぇに夢を語って海に出たもんだが、\nあそこはロクな所じゃねぇ						
+TalkEvent_20_017ID	2	Brad	ブラッド	未熟者のお前じゃ、どうせ怪物の餌になるだけだぜ						
+TalkEvent_20_017ID	3	Resna	レスナ	ブラッドさん、上手だなあ						
+TalkEvent_20_017ID	4	Izana	イザナ	セリフも１回読んだだけで覚えちゃって、\n劇団の人からもほめられてたよ						
+TalkEvent_20_017ID	5	Walther	ワルター	そろそろアンチュの出番ですか。\n彼女に、人前で演技をする度胸があるんですかね？						
+TalkEvent_20_017ID	6	Resna	レスナ	なんだかこちらまで緊張します……						
+TalkEvent_20_017ID	7	Antje	アンチュ	冒険者よ、力が必要ならば私と取引をしよう						
+TalkEvent_20_017ID	8	Antje	アンチュ	いや、元よりお前に選択肢はないはずだ。\n理想郷へ到達しようと願うのなら						
+TalkEvent_20_017ID	9	Izana	イザナ	おお……！						
+TalkEvent_20_017ID	10	Resna	レスナ	アンチュちゃん、すごい……！\n役に入り込んでる！						
+TalkEvent_20_017ID	11	Johanna	ヨハナ	ふん、なかなかやるわね						
+TalkEvent_20_017ID	12	Antje	アンチュ	私が力を貸したからには、必ず理想郷へと至り、\n財宝を持ち帰ってこい						
+TalkEvent_20_017ID	13	Antje	アンチュ	ふふっ、良い土産話を期待しているぞ。勇気ある者よ						
+TalkEvent_20_017ID	14		劇団の座長	いやあ、君たちのおかげで無事に舞台を終えられたよ						
+TalkEvent_20_017ID	15	Resna	レスナ	お役に立ててよかったです！　ね、アンチュちゃん						
+TalkEvent_20_017ID	16	Izana	イザナ	うん！　輝いてたよ！						
+TalkEvent_20_017ID	17	Antje	アンチュ	……うぅぅ						
+TalkEvent_20_017ID	18		劇団の座長	約束通り船を出そう。すぐに準備するから待っててくれ						
+TalkEvent_20_017ID	19	Resna	レスナ	ありがとうございます！						
+TalkEvent_20_017ID	20	Resna	レスナ	アンチュちゃん、本当に助かったよ。\n演技もすごく上手で、堂々としてて						
+TalkEvent_20_017ID	21	Resna	レスナ	人と話すの得意じゃないって言ってたけど、\nぜんぜんそうは思わなかったくらい						
+TalkEvent_20_017ID	22	Antje	アンチュ	お芝居なら……台本通りやるだけだから						
+TalkEvent_20_017ID	23	Antje	アンチュ	……改めて、この子がルアッカ						
+TalkEvent_20_017ID	24	Resna	レスナ	……う、うん！　よろしく、ルアッカ君						
+TalkEvent_20_017ID	25	RUAKKA	ルアッカ	おう。さっきは助けられちまったな！						
+TalkEvent_20_017ID	26	YELLO	イェーロ	私ハ　イェーロ。身体ノラインニハ　自信アルノヨ						
+TalkEvent_20_017ID	27	Resna	レスナ	イェーロちゃん、こちらこそよろしく						
+TalkEvent_20_017ID	28	AONA	アオナ	アオナっていうの。アンチュちゃんをよろしくね						
+TalkEvent_20_017ID	29	Resna	レスナ	もちろんだよ、アオナちゃん！						
+TalkEvent_20_017ID	30	MURASAKI	ムラサキ	僕はムラサキ。君、なかなか見所あるじゃないか。\n仲良くしようよ						
+TalkEvent_20_017ID	31	Resna	レスナ	うん！　ムラサキ君！						
+TalkEvent_20_017ID	32	Antje	アンチュ	……それじゃ。出発の準備、しなきゃ						
+TalkEvent_20_017ID	33	Resna	レスナ	うん。よろしくね、アンチュちゃん						
+TalkEvent_20_018ID	0		劇団員	それじゃ、私たちはこれで						
+TalkEvent_20_018ID	1	Resna	レスナ	船を出してくださってありがとうございました！\nとても助かりました						
+TalkEvent_20_018ID	2		劇団員	それはこちらのセリフよ。無事に公演を終えられて\nホッとしているわ						
+TalkEvent_20_018ID	3		劇団員	探してる人、見つかるといいわね。\nあなたたちに流れ星の導きがありますように						
+TalkEvent_20_018ID	4	Resna	レスナ	それじゃ、早速ヴァレリアを探しに行こう！						
+TalkEvent_20_018ID	5	Izana	イザナ	うん、張り切って行ってみよー！						
+TalkEvent_20_018ID	6	Resna	レスナ	ヴァレリアだ……！						
+TalkEvent_20_018ID	7	Resna	レスナ	やっと見つけた……						
+TalkEvent_20_018ID	8	Resna	レスナ	ヴァレリア！　みんな心配したんだよ！\n一緒にフリーゲンの家に帰ろう？						
+TalkEvent_20_018ID	9	Valeria	ヴァレリア	いいえ。頼まれたことを済ませないと。\nクリセルダが待っているもの						
+TalkEvent_20_018ID	10	Resna	レスナ	そ、そんな……どうしてクリセルダさんの所に……						
+TalkEvent_20_018ID	11	Valeria	ヴァレリア	私はクリセルダに従ったほうがいいと思っている。\nただそれだけよ						
+TalkEvent_20_018ID	12	Resna	レスナ	でも、ハイディさんもフロッケちゃんも\nランツェさんも待ってるよ。だから……						
+TalkEvent_20_018ID	13	Valeria	ヴァレリア	っ……！　そんなの、知らないわ。私には関係ない						
+TalkEvent_20_018ID	14	Resna	レスナ	ま、待ってよ、ヴァレリア！						
+TalkEvent_20_018ID	15	Valeria	ヴァレリア	邪魔をするっていうなら、排除するだけ						
+TalkEvent_20_018ID	16	Resna	レスナ	ヴァレリア！　私、争いたくなんか……						
+TalkEvent_20_018ID	17	Valeria	ヴァレリア	っ……！						
+TalkEvent_20_018ID	18	Izana	イザナ	レスナちゃん！						
+TalkEvent_20_018ID	19	Johanna	ヨハナ	レスナ、今は落ち着かせて\n正気に戻すしかないでしょ						
+TalkEvent_20_018ID	20	Brad	ブラッド	覚悟はしていたのだろう？　これは救うための戦いだ						
+TalkEvent_20_018ID	21	Resna	レスナ	……はい！						
+TalkEvent_20_018ID	22	Resna	レスナ	ヴァレリア、お願い……目を覚まして						
+TalkEvent_20_019ID	0	Valeria	ヴァレリア	はぁ……はぁ……						
+TalkEvent_20_019ID	1	Resna	レスナ	ヴァレリア、お願い！　目を覚ましてよ！						
+TalkEvent_20_019ID	2	Valeria	ヴァレリア	しつこい！						
+TalkEvent_20_019ID	3	Resna	レスナ	っ！　待って！						
+TalkEvent_20_019ID	4	Resna	レスナ	あっ……						
+TalkEvent_20_019ID	5	Resna	レスナ	私の言葉じゃ……取り戻せなかった……						
+TalkEvent_20_019ID	6	Brad	ブラッド	あまり気を落とすな。彼女の動きを把握できた\nだけでも、ここで会えた意味はあった						
+TalkEvent_20_019ID	7	Izana	イザナ	そうだよ！　今回は逃げられちゃったけど、\nまた探せばいいよ！						
+TalkEvent_20_019ID	8	Johanna	ヨハナ	あんなに戦いが好きな奴がすぐ逃げるとか……						
+TalkEvent_20_019ID	9	Johanna	ヨハナ	でも、もう逃走の方法も記憶したわ。\n次で確実に捕まえる						
+TalkEvent_20_019ID	10	Brad	ブラッド	彼女はクリセルダに頼まれてここに来たと言っていた。\nならば、再びここにやって来る可能性は高い						
+TalkEvent_20_019ID	11	Resna	レスナ	はい。ありがとうございます						
+TalkEvent_20_019ID	12	Resna	レスナ	（そうだ。今は落ち込んでる場合じゃない。辛い状況\n　でこそ、錬金術の力で道を切り開くんだ……！）						
+TalkEvent_20_019ID	13	Walther	ワルター	次で確実に救えるように、何か錬金術的な\n手段を講じてはどうでしょうか？						
+TalkEvent_20_019ID	14	Resna	レスナ	ヴァレリア、前に会った時と比べて、少し余裕が\n無くなっているように見えました						
+TalkEvent_20_019ID	15	Resna	レスナ	もしかすると、先日のハイディさんたちとの戦いを\n経て、正気を取り戻しかけているんじゃないかと						
+TalkEvent_20_019ID	16	Resna	レスナ	あともう１つ、何かきっかけがあれば……						
+TalkEvent_20_019ID	17	Johanna	ヨハナ	やっぱり、攻撃して刺激を与えるしかないんじゃない？\nおりゃーって						
+TalkEvent_20_019ID	18	Izana	イザナ	戦ってる最中に\n攻撃自体は当ててるつもりなんだけどなあ						
+TalkEvent_20_019ID	19	Brad	ブラッド	外的な刺激ではなく、内側から刺激を与える、という\n方法も考えられないか						
+TalkEvent_20_019ID	20	Resna	レスナ	内側からの刺激……						
+TalkEvent_20_019ID	21	Antje	アンチュ	何かの薬品とか……？						
+TalkEvent_20_019ID	22	Resna	レスナ	なるほど！　それ、アリかもしれません！						
+TalkEvent_20_019ID	23	Brad	ブラッド	よし。では一度戻って準備をしよう。\n彼女も、警戒してまだしばらくは戻ってこないはずだ						
+TalkEvent_20_019ID	24	Resna	レスナ	はい！　あ、その前に。\nハイディさんたちにも何があったか報告しないと……						
+TalkEvent_20_019ID	25	Heidi	ハイディ	ほ、本当にヴァレリアが見つかったんだね！						
+TalkEvent_20_019ID	26	Resna	レスナ	はい。ただ、やっぱり私では連れ戻せなくて……\nこれからアトリエで対策を考えます						
+TalkEvent_20_019ID	27	Lanze	ランツェ	おう。次また探しに行く時は、俺たちも付き合うぜ。\nあまり一人で思い詰めんじゃねえぞ						
+TalkEvent_20_019ID	28	Flocke	フロッケ	ランツェさん、ハイディさん！						
+TalkEvent_20_019ID	29	Heidi	ハイディ	うん。ヴァレリアを助けに行こう。\nマクダにも声をかけてさ						
+TalkEvent_20_019ID	30	Flocke	フロッケ	他にも助っ人を頼めないか、\n知り合いに声をかけてみますね！						
+TalkEvent_20_019ID	31	Lanze	ランツェ	ああ。今度こそ連れて帰ってこようぜ						
+TalkEvent_20_020ID	0	Resna	レスナ	やっった……やった、やったよー！　できたー！						
+TalkEvent_20_020ID	1	Izana	イザナ	っ、なんか変なニオイ……！　何これ！？						
+TalkEvent_20_020ID	2	Resna	レスナ	あはは、ごめんね。気付け薬みたいなものなんだ、これ						
+TalkEvent_20_020ID	3	Resna	レスナ	刺激を与える、と言ったら、\nやっぱり匂いを使うのがいいかなって						
+TalkEvent_20_020ID	4	Izana	イザナ	確かに、こんなの嗅いだら\nびっくりして目を覚ましちゃいそうだね。わーって						
+TalkEvent_20_020ID	5	Walther	ワルター	効き目は私が保証しますよ。似たようなものを\n研究のお供によく使っていたものでね						
+TalkEvent_20_020ID	6	Izana	イザナ	なんか不健全だあ……						
+TalkEvent_20_020ID	7	Antje	アンチュ	まあ、ワルターは変人だけど、腕は確かだから……						
+TalkEvent_20_020ID	8	Resna	レスナ	ふふっ。アンチュちゃんも一緒に考えてくれたよね。\nお二人とも、本当にありがとうございます！						
+TalkEvent_20_020ID	9	Resna	レスナ	それじゃ、ハイディさんたちにも渡してきます！\nイザナちゃんは他のみんなを呼んできて！						
+TalkEvent_20_020ID	10	Izana	イザナ	ハンマー！						
+TalkEvent_20_020ID	11	Antje	アンチュ	レスナに乗せられて、つい真剣にやっちゃったけど						
+TalkEvent_20_020ID	12	Antje	アンチュ	よくよく考えたら、クリセルダを妨害することに\nなってないかしら……あああ……						
+TalkEvent_20_020ID	13	Walther	ワルター	私は、新たな道具を生み出すという知的好奇心を\n満足させているだけなので						
+TalkEvent_20_020ID	14	Walther	ワルター	そんな罪悪感とは無縁ですがね						
+TalkEvent_20_020ID	15	Antje	アンチュ	まあ……ワルターはそう言うと思った						
+TalkEvent_20_020ID	16	Walther	ワルター	ここはもっと窮屈な場所だと思っていましたが、\nなかなかどうして私の個性も尊重してくれる						
+TalkEvent_20_020ID	17	Walther	ワルター	蔵書も豊富で、何より大勢の異邦人とも交流できる。\nしばらく退屈せずに済みそうですよ						
+TalkEvent_20_020ID	18	RUAKKA	ルアッカ	なんかよぉ、ワルターの奴、\nすっかり懐柔されちまってねぇか？						
+TalkEvent_20_020ID	19	Antje	アンチュ	本当にね……私はそんなことないけど						
+TalkEvent_20_020ID	20	AONA	アオナ	でも、クリセルダが勝った後は、レスナを極夜の\n錬金党に誘ってあげてもいいって思ってるんでしょ？						
+TalkEvent_20_020ID	21	MURASAKI	ムラサキ	あの子は、僕たちとも仲良くしてくれるからね……\nアンチュ君の近くにいても安心できるよ						
+TalkEvent_20_020ID	22	Antje	アンチュ	そうかな……？						
+TalkEvent_20_020ID	23	Walther	ワルター	アンチュのほうこそ、随分絆されているようですがね						
+TalkEvent_20_021ID	0	Valeria	ヴァレリア	クリセルダ						
+TalkEvent_20_021ID	1	Criselda	クリセルダ	おかえりなさい、ヴァレリア						
+TalkEvent_20_021ID	2	Valeria	ヴァレリア	これ、頼まれていた素材よ						
+TalkEvent_20_021ID	3	Criselda	クリセルダ	お疲れさま。何か変わったことはあった？						
+TalkEvent_20_021ID	4	Valeria	ヴァレリア	レスナたちと会った。邪魔をされたわ						
+TalkEvent_20_021ID	5	Criselda	クリセルダ	そう……						
+TalkEvent_20_021ID	6	Criselda	クリセルダ	そんな中、悪いけど素材のお代わりを\n採ってきてもらえないかしら？						
+TalkEvent_20_021ID	7	Valeria	ヴァレリア	いいわよ、準備したら、また行ってくるわ						
+TalkEvent_20_021ID	8	Criselda	クリセルダ	そうね。よろしく頼むわ						
+TalkEvent_20_021ID	9	Criselda	クリセルダ	また、彼女たちに出会うことがあったら……\n素材の採取より、彼女たちを倒すことを重視していいわ						
+TalkEvent_20_021ID	10	Valeria	ヴァレリア	分かったわ						
+TalkEvent_20_021ID	11	Criselda	クリセルダ	また、会いましょう。\n今度は敵同士かもしれないけれど						
+TalkEvent_20_021ID	12	Flocke	フロッケ	この島にヴァレリアさんが……						
+TalkEvent_20_021ID	13	Heidi	ハイディ	レスナたちも先に島に入って探してるみたい。手分け\nすれば、さすがの相棒も逃げられないはずだよ！						
+TalkEvent_20_021ID	14	Lanze	ランツェ	ああ。今度こそ首に縄をかけてでも連れて帰るぞ						
+TalkEvent_20_021ID	15	Magda	マクダ	あいつは操られてるより、\nお前らと肉食ってるほうが似合ってるよ！						
+TalkEvent_20_021ID	16	Heidi	ハイディ	頼りにしてるよ、マクダ！						
+TalkEvent_20_021ID	17	Magda	マクダ	おう！　この間は逃げられちまったが、\n次こそはこのマクダ様が正気に戻してやるぜ！						
+TalkEvent_20_021ID	18	Magda	マクダ	これもいわゆるケンカだ。\n喧嘩屋として、依頼は果たす						
+TalkEvent_20_021ID	19	Flocke	フロッケ	頼りになる助っ人もいらっしゃいますしね！						
+TalkEvent_20_021ID	20	Keithgrif	キースグリフ	ふん……						
+TalkEvent_20_021ID	21	Plachta	プラフタ	不肖の弟子が以前お世話になりましたから\n力になれる機会を嬉しく思いますよ						
+TalkEvent_20_021ID	22	Heidi	ハイディ	プラフタはまだ分かるけど……\nまさかキースグリフさんまで来てくれるとは						
+TalkEvent_20_021ID	23	Keithgrif	キースグリフ	人の心を操る術とやらに興味が湧いたのでな						
+TalkEvent_20_021ID	24	Keithgrif	キースグリフ	それに、アーシャが世話になっていると\nいうこともある						
+TalkEvent_20_021ID	25	Heidi	ハイディ	弟子を想う気持ちはみんな一緒なんだねぇ……						
+TalkEvent_20_021ID	26	Keithgrif	キースグリフ	無駄話をしている暇はないはずだ。先を急ぐぞ						
+TalkEvent_20_021ID	27	Flocke	フロッケ	皆さん、頑張りましょう！						
+TalkEvent_20_022ID	0	Lanze	ランツェ	しかし、懐かしい景色だな。\n波の音も、潮の香りも、何も変わってねえ						
+TalkEvent_20_022ID	1	Plachta	プラフタ	以前もこの場所に来たことが？						
+TalkEvent_20_022ID	2	Lanze	ランツェ	俺はこの辺りの島の生まれなんだ						
+TalkEvent_20_022ID	3	Heidi	ハイディ	あー、そういやそうだっけ。島育ちの海の男						
+TalkEvent_20_022ID	4	Lanze	ランツェ	こう見えて、ここらでは名の通った\n船乗りだったんだぜ？						
+TalkEvent_20_022ID	5	Lanze	ランツェ	未知の島に乗り込んでは宝を手に入れて稼ぐ、\nそんな冒険の日々だった……						
+TalkEvent_20_022ID	6	Heidi	ハイディ	これ、はじめは酔っ払いの妄言だと思ってたんだよ。\nそしたら、ある程度は本当だった						
+TalkEvent_20_022ID	7	Lanze	ランツェ	ある程度ってなんだ。全部、本当だよ！						
+TalkEvent_20_022ID	8	Lanze	ランツェ	このへんは、魚介類がうまいんだよ。強い潮の流れで\n海底の栄養が浮かび上がって、それを魚が食ってる						
+TalkEvent_20_022ID	9	Lanze	ランツェ	ヴァレリアを連れ戻したら、\n今度うまい飯屋にでも連れてってやるかな						
+TalkEvent_20_022ID	10	Magda	マクダ	いいねぇ！　ごちごちごっちーご馳走さーん！						
+TalkEvent_20_022ID	11	Lanze	ランツェ	ここぞとばかりに乗ってきやがって。\n……ま、いいけどな						
+TalkEvent_20_022ID	12	Flocke	フロッケ	ふふっ。ヴァレリアさんもきっと喜んでくれますね！						
+TalkEvent_20_022ID	13	Magda	マクダ	しかし、飯の話してたら、腹減ってきちまったぜ						
+TalkEvent_20_022ID	14	Flocke	フロッケ	一応、お弁当は用意してきたんですけど……						
+TalkEvent_20_022ID	15	Heidi	ハイディ	フロッケ、それは……						
+TalkEvent_20_022ID	16	Magda	マクダ	ん、どうした？						
+TalkEvent_20_022ID	17	Flocke	フロッケ	ヴァレリアさんが無事に戻ってきたら\n一緒に食べようと思って、用意してきたものなんです						
+TalkEvent_20_022ID	18	Flocke	フロッケ	この間は、上手くいきませんでしたから……						
+TalkEvent_20_022ID	19	Magda	マクダ	なら、今食っちまうわけにはいかねぇな						
+TalkEvent_20_022ID	20	Flocke	フロッケ	すみません。あ、でも間食のお菓子ならいくつか\n持ってきてますよ						
+TalkEvent_20_022ID	21	Heidi	ハイディ	んじゃ、ちょっと休んでいこうか						
+TalkEvent_20_023ID	0	Flocke	フロッケ	ヴァレリアさん、あれからしばらく経ちますけど、\n体調は大丈夫なんでしょうか……心配です						
+TalkEvent_20_023ID	1	Heidi	ハイディ	まあ、ばっちり大丈夫、ってことはないだろうねえ……						
+TalkEvent_20_023ID	2	Magda	マクダ	大丈夫さ。あいつはしぶといんだ						
+TalkEvent_20_023ID	3	Magda	マクダ	前に、古くなった建物を解体するっつう仕事を\n二人で受けたことがあるんだけどよ						
+TalkEvent_20_023ID	4	Magda	マクダ	お互いなんも考えずにぶっ壊してたら、\nあいつが瓦礫の下敷きになっちまってさ						
+TalkEvent_20_023ID	5	Plachta	プラフタ	だ、大丈夫だったのですか？						
+TalkEvent_20_023ID	6	Magda	マクダ	さすがのマクダ様もヒヤっとしたんだがな……\nヴァレリアの奴、ピンピンしてたぜ						
+TalkEvent_20_023ID	7	Heidi	ハイディ	確かに、しょっちゅうケガはしてるけど、すぐに復活\nしちゃうからね。ウェルテックスと戦った時とか						
+TalkEvent_20_023ID	8	Heidi	ハイディ	だから相棒は大丈夫だって、フロッケ						
+TalkEvent_20_023ID	9	Flocke	フロッケ	そうですね……ヴァレリアさんならきっと						
+TalkEvent_20_023ID	10	Plachta	プラフタ	話を聞いていると、彼女は随分、人間離れしている\nのですね……私が言えたことではないかもしれませんが						
+TalkEvent_20_023ID	11	Keithgrif	キースグリフ	アーシャやオディーリアからも\n彼女の話は聞いている						
+TalkEvent_20_023ID	12	Keithgrif	キースグリフ	頑丈なのは結構だが、あまり彼女らの手を\n煩わせないでほしいものだ						
+TalkEvent_20_023ID	13	Heidi	ハイディ	いやホント……特にアーシャにはいつも\n迷惑かけてばかりというか……						
+TalkEvent_20_023ID	14	Heidi	ハイディ	付き合うこっちの身にもなってほしいよね。\n坑道でトロッコ乗った時なんかさあ……						
+TalkEvent_20_023ID	15	Magda	マクダ	なーんか、しばらく見ないうちに\n色々あったんだな。こいつら						
+TalkEvent_20_023ID	16	Lanze	ランツェ	本当にな。人生、何があるか分からねぇもんだ						
+TalkEvent_20_023ID	17	Magda	マクダ	でもまあ、ヴァレリアの奴も含めて、\n根っこの部分は変わってねぇみてぇで安心したぜ						
+TalkEvent_20_023ID	18	Magda	マクダ	……やっぱり、あいつはここにいるのがお似合いだ						
+TalkEvent_20_023ID	19	Lanze	ランツェ	ああ……そうだな						
+TalkEvent_20_024ID	0	Plachta	プラフタ	随分、島の奥まで来ましたね						
+TalkEvent_20_024ID	1	Lanze	ランツェ	ああ。いい加減、あいつを見つけられてもよさそうな\nモンなんだが……						
+TalkEvent_20_024ID	2	Heidi	ハイディ	こらーっ！　ヴァレリア、出てこーい！						
+TalkEvent_20_024ID	3	Heidi	ハイディ	ひぇっ！						
+TalkEvent_20_024ID	4	Flocke	フロッケ	ヴァレリアさん！						
+TalkEvent_20_024ID	5	Keithgrif	キースグリフ	ほう。ついにお出ましか						
+TalkEvent_20_024ID	6	Magda	マクダ	おっとぉ！						
+TalkEvent_20_024ID	7	Valeria	ヴァレリア	っ……！						
+TalkEvent_20_024ID	8	Magda	マクダ	なんだかキレのねぇ動きだなあ！\nダメだぜ、こんなのはヴァレリアじゃねぇ						
+TalkEvent_20_024ID	9	Magda	マクダ	ヴァレリアの攻撃ってのは、もっと\n速く鋭くなきゃあよ。この程度じゃ面白くもねぇ						
+TalkEvent_20_024ID	10	Valeria	ヴァレリア	ふっ！						
+TalkEvent_20_024ID	11	Magda	マクダ	っと……なんだ、まだまだ戦えんじゃねえか！						
+TalkEvent_20_024ID	12	Heidi	ハイディ	煽ってる場合じゃないでしょうが！						
+TalkEvent_20_024ID	13	Magda	マクダ	分かってるよ。おらあっ！						
+TalkEvent_20_024ID	14	Heidi	ハイディ	ぐっ……！						
+TalkEvent_20_024ID	15	Flocke	フロッケ	ハイディさんっ！						
+TalkEvent_20_024ID	16	Heidi	ハイディ	――っ！						
+TalkEvent_20_024ID	17	Heidi	ハイディ	っ、キースさん！						
+TalkEvent_20_024ID	18	Keithgrif	キースグリフ	心配はいらん						
+TalkEvent_20_024ID	19	Keithgrif	キースグリフ	まさか、これは……						
+TalkEvent_20_024ID	20	Flocke	フロッケ	ヴァレリアさん！　正気に戻ってください！						
+TalkEvent_20_024ID	21	Magda	マクダ	無理だよ、フロッケ。あいつは攻撃をやめないぜ						
+TalkEvent_20_024ID	22	Lanze	ランツェ	ああ。だから――目を覚まさせてやろうぜ！\n愛を込めた拳でよ！						
+TalkEvent_20_025ID	0	Heidi	ハイディ	お願いだよ、相棒。正気に戻って……！						
+TalkEvent_20_025ID	1	Valeria	ヴァレリア	っ！						
+TalkEvent_20_025ID	2	Heidi	ハイディ	ヴァ、ヴァレリア！？						
+TalkEvent_20_025ID	3	Lanze	ランツェ	おい！　しっかりしろ！						
+TalkEvent_20_025ID	4	Flocke	フロッケ	だ、大丈夫でしょうか……						
+TalkEvent_20_025ID	5	Plachta	プラフタ	呼吸は落ち着いています。すぐに目を覚ますでしょう						
+TalkEvent_20_025ID	6	Valeria	ヴァレリア	ん……						
+TalkEvent_20_025ID	7	Flocke	フロッケ	ヴァレリアさん！						
+TalkEvent_20_025ID	8	Valeria	ヴァレリア	ハイディ……フロッケ……？						
+TalkEvent_20_025ID	9	Lanze	ランツェ	お、おい。まだぼーっとしてねぇか？						
+TalkEvent_20_025ID	10	Heidi	ハイディ	相棒。あんたのヴァレリアっていうのは、\n私が昔いた教会で飼ってた犬の名前なんだ						
+TalkEvent_20_025ID	11	Heidi	ハイディ	強くてかっこよかったけど、食いしん坊でさ、\n愛嬌もたっぷりだった						
+TalkEvent_20_025ID	12	Heidi	ハイディ	決して何もしていない人を襲ったり、噛みついたりは\nしなかった。あんたもそうだったはずだろ						
+TalkEvent_20_025ID	13	Valeria	ヴァレリア	……う						
+TalkEvent_20_025ID	14	Heidi	ハイディ	あれだ！　いけ、フロッケ！						
+TalkEvent_20_025ID	15	Flocke	フロッケ	はいっ！						
+TalkEvent_20_025ID	16	Heidi	ハイディ	ほら、食え！　相棒！						
+TalkEvent_20_025ID	17	Magda	マクダ	こういうときはなあ……こうすんだよ！						
+TalkEvent_20_025ID	18	Valeria	ヴァレリア	ぶっ……！						
+TalkEvent_20_025ID	19	Lanze	ランツェ	おい、そりゃさすがに乱暴だろ！						
+TalkEvent_20_025ID	20	Flocke	フロッケ	ヴァレリアさん……？						
+TalkEvent_20_025ID	21	Valeria	ヴァレリア	んぐっ……もぐもぐ……美味し……い……						
+TalkEvent_20_025ID	22	Plachta	プラフタ	すごい食べっぷりですね……						
+TalkEvent_20_025ID	23	Valeria	ヴァレリア	はあ……美味しかった！　ごちそうさま、フロッケ！						
+TalkEvent_20_025ID	24	Flocke	フロッケ	…………！						
+TalkEvent_20_025ID	25	Valeria	ヴァレリア	あれ、みんな揃ってどうしたの？						
+TalkEvent_20_025ID	26		ふたり	「ヴァレリア！」「ヴァレリアさん！」						
+TalkEvent_20_025ID	27	Valeria	ヴァレリア	えっ？						
+TalkEvent_20_025ID	28	Heidi	ハイディ	もうっ！　よかったよぉ～！						
+TalkEvent_20_025ID	29	Flocke	フロッケ	心配したんですからぁ！						
+TalkEvent_20_025ID	30	Valeria	ヴァレリア	えっ？　ええっ？　ど、どうしたのよみんな						
+TalkEvent_20_025ID	31	Lanze	ランツェ	まったく、天使ちゃんを泣かせやがって……						
+TalkEvent_20_026ID	0	Resna	レスナ	ヴァレリア！　本物のヴァレリアだー！						
+TalkEvent_20_026ID	1	Valeria	ヴァレリア	レスナ、なんだか心配かけちゃったみたい。\n本当にごめんね						
+TalkEvent_20_026ID	2	Resna	レスナ	ううん！　ヴァレリアが戻ってきてよかったよ！						
+TalkEvent_20_026ID	3	Valeria	ヴァレリア	みんな、ごめんなさい！						
+TalkEvent_20_026ID	4	Izana	イザナ	ヴァレリアが元気で戻ってきたんだから、めでたし\nめでたしだよ！						
+TalkEvent_20_026ID	5	Valeria	ヴァレリア	操られてみんなを襲ってたなんてショックだわ……。\n誰の仕業か知らないけど、許せない						
+TalkEvent_20_026ID	6	Valeria	ヴァレリア	二度と、好きなようにはさせないんだから						
+TalkEvent_20_026ID	7	Resna	レスナ	それで……何があったのか聞いてもいい？						
+TalkEvent_20_026ID	8	Valeria	ヴァレリア	それがね。人造頂獣と戦った後、フリーゲンで\nぼーっと星空を見てたんだけど……						
+TalkEvent_20_026ID	9	Valeria	ヴァレリア	誰かが近づいてくる気配がして、振り返ろうとしたの						
+TalkEvent_20_026ID	10	Valeria	ヴァレリア	そこから後は、さっぱり覚えてないのよ						
+TalkEvent_20_026ID	11	Izana	イザナ	じゃあ、アタシたちと戦ったことも？						
+TalkEvent_20_026ID	12	Valeria	ヴァレリア	うん。気が付いたらハイディとフロッケに\n抱きつかれてたのよね						
+TalkEvent_20_026ID	13	Heidi	ハイディ	おっさんと一緒に色々聞いてみたんだけど、\nどうやらヴァレリアのボケじゃないみたいなんだ						
+TalkEvent_20_026ID	14	Flocke	フロッケ	本当に、誰かに操られていたんですね						
+TalkEvent_20_026ID	15	Resna	レスナ	やっぱり……クリセルダさんに、なのかな？						
+TalkEvent_20_026ID	16	Valeria	ヴァレリア	さぁ……あ、でも。実は私、ホムンクルスだった\nみたいなのよ。これが関係あるのかも						
+TalkEvent_20_026ID	17	Resna	レスナ	なるほど、ホムンクルス……						
+TalkEvent_20_026ID	18	Resna	レスナ	って、え？　ええ！？　ど、どういうこと！？						
+TalkEvent_20_026ID	19	Johanna	ヨハナ	何よそれ？						
+TalkEvent_20_026ID	20	Resna	レスナ	ホムンクルスっていうのは、錬金術で創られた\n生命体……人造人間のことだよ						
+TalkEvent_20_026ID	21	Izana	イザナ	ヴァレリアが人造人間！？						
+TalkEvent_20_026ID	22	Heidi	ハイディ	私も信じられるようなことじゃないんだけど……						
+TalkEvent_20_026ID	23	Keithgrif	キースグリフ	彼女の言うことは、恐らく正しい。\nオレも先ほど交戦した時に初めて気付いたが……						
+TalkEvent_20_026ID	24	Keithgrif	キースグリフ	彼女の体内から、明らかに普通の人間とは異なる\n力の流れを感じた						
+TalkEvent_20_026ID	25	Resna	レスナ	異なる力……？						
+TalkEvent_20_026ID	26	Keithgrif	キースグリフ	オレはそれに近いものをよく知っている。\n……オートマタだ						
+TalkEvent_20_026ID	27	Resna	レスナ	オディーリアさんと同じ……ということですか？						
+TalkEvent_20_026ID	28	Keithgrif	キースグリフ	まったく同じ、というわけではない。\nだが、それに近しいものであることは確かだ						
+TalkEvent_20_026ID	29	Keithgrif	キースグリフ	普通の人間とは明らかに違う。\n極めて高度な錬金術の産物であることは間違いない						
+TalkEvent_20_026ID	30	Resna	レスナ	ぜんぜん気付かなかった……						
+TalkEvent_20_026ID	31	Plachta	プラフタ	簡単には見破られないように、\nその証拠が巧妙に隠されていたということでしょう						
+TalkEvent_20_026ID	32	Plachta	プラフタ	しかし、今回の騒動があったことで、\n外から気付けるほどそれが露出してしまったのでは						
+TalkEvent_20_026ID	33	Johanna	ヨハナ	んー。でも、そういうことかぁ						
+TalkEvent_20_026ID	34	Resna	レスナ	ヨハナちゃん、何か分かったの？						
+TalkEvent_20_026ID	35	Johanna	ヨハナ	前に海辺でレスナやヴァレリアたちと戦ったことが\nあるじゃない。鴉として						
+TalkEvent_20_026ID	36	Heidi	ハイディ	あの時のヨハナは怖かったよ……\nさすがの相棒もやられた、と思っちゃったね						
+TalkEvent_20_026ID	37	Johanna	ヨハナ	私もやった、と思ったわよ。\n普通の人間だったら確実に仕留めてた						
+TalkEvent_20_026ID	38	Johanna	ヨハナ	でも、あんたは助かった。生きてるって知った時は\n奇跡でも起こったのかと思ってたのよ						
+TalkEvent_20_026ID	39	Johanna	ヨハナ	普通の人間じゃなかったっていうなら、\n無事だったのも納得できるわ						
+TalkEvent_20_026ID	40	Valeria	ヴァレリア	ええ。丈夫な身体に感謝しないとね！						
+TalkEvent_20_026ID	41	Izana	イザナ	なんか、あまり気にしてないというか、\n急な話なのにぜんぜん慌ててないよね、ヴァレリア						
+TalkEvent_20_026ID	42	Valeria	ヴァレリア	実は、ちょっと前から知ってたの。\n私がホムンクルスだってこと						
+TalkEvent_20_026ID	43	Resna	レスナ	そうだったの！？　ど、どうやって？						
+TalkEvent_20_026ID	44	Valeria	ヴァレリア	クリセルダにそう言われたの。\n人造頂獣の事件があった、少し前くらいかしら						
+TalkEvent_20_026ID	45	Resna	レスナ	っ！？　クリセルダさんは知ってたんだ、このこと……						
+TalkEvent_20_026ID	46	Valeria	ヴァレリア	昔の記憶がないことも、そのせいだろうって。\n私にはそもそも、小さい頃の思い出なんてないのよ						
+TalkEvent_20_026ID	47	Valeria	ヴァレリア	まあ、自分が普通の人間じゃないって、最初に言われた\n時は驚いたけど、今は別に気にしてないから						
+TalkEvent_20_026ID	48	Resna	レスナ	そっか……						
+TalkEvent_20_026ID	49	Resna	レスナ	（大変な話だけど……ヴァレリア自身が気にして\n　いないなら……）						
+TalkEvent_20_026ID	50	Resna	レスナ	（私たちが動揺していても、ヴァレリアのために\n　ならない）						
+TalkEvent_20_026ID	51	Resna	レスナ	それじゃ私……ホムンクルスについて調べてみる！\nヴァレリアの役に立つかもしれないから						
+TalkEvent_20_027ID	0	Valeria	ヴァレリア	あんた、ホントに仲間になってたのね						
+TalkEvent_20_027ID	1	Walther	ワルター	本当に記憶が飛んでいるんですね。\n一時期は極夜の錬金党の仲間だったはずなのですが						
+TalkEvent_20_027ID	2	Valeria	ヴァレリア	ごめんね、それって私の意志では、ぜんぜんないのよ						
+TalkEvent_20_027ID	3	Walther	ワルター	構いません。心中お察しします						
+TalkEvent_20_027ID	4	Walther	ワルター	もし記憶が残っているのなら、心を操られる感覚とは\nどのようなものなのか、詳しく聞きたいところでしたが						
+TalkEvent_20_027ID	5	Valeria	ヴァレリア	あんた……結構変な奴よね						
+TalkEvent_20_027ID	6	Roman	ロマン	ごほん。まあ、挨拶はそれくらいにして……						
+TalkEvent_20_027ID	7	Roman	ロマン	君たちに改めて聞きたいんだが、\nヴァレリアはクリセルダに操られていたんだろうか？						
+TalkEvent_20_027ID	8	Lara	ララ	やはり……わたくしは違うと思いますわ						
+TalkEvent_20_027ID	9	Walther	ワルター	同じく。以前言った通り、彼女が心を操るための道具を\n作ろうとしていた様子はありませんでしたからね						
+TalkEvent_20_027ID	10	Heidi	ハイディ	それに、クリセルダは相棒がホムンクルスだって前から\n気付いてて、隠れて接触までしてたわけでしょ？						
+TalkEvent_20_027ID	11	Heidi	ハイディ	本気で心を操る気があったなら、\nその時にやってそうなもんだよ						
+TalkEvent_20_027ID	12	Izana	イザナ	それもそうだよね……じゃあ、誰がやったんだろう						
+TalkEvent_20_027ID	13	Lara	ララ	恐らく今回の件は、彼女がホムンクルスであるという\n特徴を利用したものだと考えられますわね						
+TalkEvent_20_027ID	14	Resna	レスナ	そうですね。ワルターさんも仰っていましたが、\n人の心を操る方法というのは分かっていません						
+TalkEvent_20_027ID	15	Resna	レスナ	でも、普通の人間とは違うヴァレリアなら……						
+TalkEvent_20_027ID	16	Lara	ララ	ならば、犯人として最も怪しいのは、\n彼女の特徴をよく知る人物――						
+TalkEvent_20_027ID	17	Lara	ララ	ヴァレリアを創った錬金術士、ではないかしら？						
+TalkEvent_20_027ID	18	Resna	レスナ	っ！　確かに、言われてみれば……						
+TalkEvent_20_027ID	19	Roman	ロマン	高度なホムンクルスを創れるほどの錬金術士……か。\nしかし、今のところは手掛かりがまったくないな						
+TalkEvent_20_027ID	20	Valeria	ヴァレリア	ねぇ、どうせ考えてても何も分からないんだし、\n私、ちょっと出かけてきてもいい？						
+TalkEvent_20_027ID	21	Valeria	ヴァレリア	腕がなまってないか、動いてみたいんだけど、\nでも、また勝手に何かしちゃったらと思って……						
+TalkEvent_20_027ID	22	Heidi	ハイディ	そ、そうなったら、また私たちが止めるからさ！						
+TalkEvent_20_027ID	23	Valeria	ヴァレリア	うん。だから、レスナやハイディたちに\n一緒に行ってほしいなって						
+TalkEvent_20_027ID	24	Resna	レスナ	うん！　もちろん一緒に行くよ！						
+TalkEvent_20_027ID	25	Roman	ロマン	それなら、ちょうどいい依頼が来ていたな						
+TalkEvent_20_027ID	26	Roman	ロマン	王都近くの湿原になかなか手ごわい魔物が出た\nそうなんだ。引き受けてもらえるかい？						
+TalkEvent_20_027ID	27	Valeria	ヴァレリア	来た来た！　よーし、やるわよ！						
+TalkEvent_20_027ID	28	Izana	イザナ	おおー。ロマン君が言ってた通り、手ごわそうだねえ						
+TalkEvent_20_027ID	29	Valeria	ヴァレリア	相棒、作戦は？						
+TalkEvent_20_027ID	30	Heidi	ハイディ	特になし！　みんな、適当に暴れちゃって！						
+TalkEvent_20_027ID	31	Valeria	ヴァレリア	了解っ！！						
+TalkEvent_20_027ID	32	Resna	レスナ	行こう、ヴァレリア！						
+TalkEvent_20_028ID	0	Valeria	ヴァレリア	ふぅ、そんなに腕はなまってなかったみたいね						
+TalkEvent_20_028ID	1	Izana	イザナ	相変わらず楽しそうに戦うよね						
+TalkEvent_20_028ID	2	Valeria	ヴァレリア	うん。久しぶりに思いっきり身体を\n動かしたような気分よ！　						
+TalkEvent_20_028ID	3	Flocke	フロッケ	ヴァレリアさん、お腹は空きませんか？\nお弁当を用意したんですよ						
+TalkEvent_20_028ID	4	Valeria	ヴァレリア	フロッケのお弁当！　やったあ！						
+TalkEvent_20_028ID	5	Heidi	ハイディ	ねぇヴァレリア、身体におかしなとこはない？						
+TalkEvent_20_028ID	6	Valeria	ヴァレリア	うん。なんともなかったわ						
+TalkEvent_20_028ID	7	Lanze	ランツェ	何かあったらすぐ言えよ						
+TalkEvent_20_028ID	8	Valeria	ヴァレリア	ありがと、みんな						
+TalkEvent_20_028ID	9	Resna	レスナ	えへへ。フロッケちゃんのお弁当、美味しかったね						
+TalkEvent_20_028ID	10	Valeria	ヴァレリア	ふふっ、そうね						
+TalkEvent_20_028ID	11	Resna	レスナ	ねぇヴァレリア、また一緒に調合もしよう？\nそれから、それから……						
+TalkEvent_20_028ID	12	Valeria	ヴァレリア	ねぇ、レスナ						
+TalkEvent_20_028ID	13	Resna	レスナ	ヴァレリア、手がすごく冷たいよ！？　もしかして、\n具合が悪いんじゃ……						
+TalkEvent_20_028ID	14	Valeria	ヴァレリア	私、今回は元に戻れたけど、また操られて\nみんなをケガさせちゃうかもしれない……						
+TalkEvent_20_028ID	15	Valeria	ヴァレリア	そんなことになったら、今度こそ私、\n自分のことを許せそうにないわ						
+TalkEvent_20_028ID	16	Resna	レスナ	大丈夫だよ、ヴァレリア						
+TalkEvent_20_028ID	17	Resna	レスナ	もしそんなことがあっても、私たちが何度だって\nヴァレリアを助けるから						
+TalkEvent_20_028ID	18	Valeria	ヴァレリア	レスナ……						
+TalkEvent_20_028ID	19	Resna	レスナ	約束だよ。\n絶対、助けるから……私たちを信じて？						
+TalkEvent_20_028ID	20	Valeria	ヴァレリア	うん……レスナにそう言ってもらえると、\nものすごく安心するわ						
+TalkEvent_20_028ID	21	Resna	レスナ	私も、こうしてヴァレリアと一緒にいると\nすごく安心するよ						
+TalkEvent_20_028ID	22	Resna	レスナ	おかえり、ヴァレリア						
+TalkEvent_20_028ID	23	Valeria	ヴァレリア	ただいま、レスナ						
+TalkEvent_20_029ID	0	Flocke	フロッケ	ふふっ、久しぶりに４人でご飯ですね						
+TalkEvent_20_029ID	1	Valeria	ヴァレリア	やったー！　久々にお腹いっぱい食べるわよ～						
+TalkEvent_20_029ID	2	Heidi	ハイディ	また食費に怯える生活が帰ってきたんだね……						
+TalkEvent_20_029ID	3	Lanze	ランツェ	ちっとは加減してくれよ……ん？						
+TalkEvent_20_029ID	4	Valeria	ヴァレリア	プラフタ！　アーシャも！　いらっしゃい						
+TalkEvent_20_029ID	5	Ayesha	アーシャ	ヴァレリアさん！　お元気そうでよかったです						
+TalkEvent_20_029ID	6	Plachta	プラフタ	少々気に掛かっていたのですが、\n杞憂だったようで何よりです						
+TalkEvent_20_029ID	7	Valeria	ヴァレリア	ん？						
+TalkEvent_20_029ID	8	Heidi	ハイディ	つまり……ヴァレリアを心配して様子を見に来て\nくれた、と？						
+TalkEvent_20_029ID	9	Ayesha	アーシャ	はい……本当に色々なことがあったみたいなので						
+TalkEvent_20_029ID	10	Plachta	プラフタ	自身がホムンクルスだという事実を、\n受け止められていないかもしれない、と……						
+TalkEvent_20_029ID	11	Valeria	ヴァレリア	ありがと。でもホムンクルスだったってことには\nびっくりしたけど、そんなに気にしてないのよね						
+TalkEvent_20_029ID	12	Valeria	ヴァレリア	おかげで丈夫だったわけだし、\nそう悲しむことでもないかなって						
+TalkEvent_20_029ID	13	Heidi	ハイディ	これだよー。気を遣って損したでしょ？						
+TalkEvent_20_029ID	14	Plachta	プラフタ	いえ、ホッとしました。\n強がっているわけでもなさそうですしね						
+TalkEvent_20_029ID	15	Lanze	ランツェ	まぁ、こいつの正体がなんだからって、俺たちのほうは\n今さら何も変わらねぇしな						
+TalkEvent_20_029ID	16	Plachta	プラフタ	ふふ。頼もしい家族ですね						
+TalkEvent_20_029ID	17	Valeria	ヴァレリア	えっへん						
+TalkEvent_20_029ID	18	Ayesha	アーシャ	でも、身体が丈夫だからって油断したらダメですからね						
+TalkEvent_20_029ID	19	Ayesha	アーシャ	オートマタのオディーリアさんだって、\n甘いものを食べすぎて虫歯になったりもするんですから						
+TalkEvent_20_029ID	20	Heidi	ハイディ	えっ、あの身体でも虫歯になるんだね……						
+TalkEvent_20_029ID	21	Ayesha	アーシャ	ヴァレリアさんも、ちゃんと歯は磨いてくださいね						
+TalkEvent_20_029ID	22	Valeria	ヴァレリア	あはは、気を付けるわ						
+TalkEvent_20_029ID	23	Plachta	プラフタ	私も今の身体は人形ですが、\nかつては本の姿をしていたこともありました						
+TalkEvent_20_029ID	24	Plachta	プラフタ	もし何か不便を感じることがあれば、相談に乗りますよ						
+TalkEvent_20_029ID	25	Valeria	ヴァレリア	うん。ありがと						
+TalkEvent_20_030ID	0	Resna	レスナ	ヴァレリアが生まれた時のこと？						
+TalkEvent_20_030ID	1	Valeria	ヴァレリア	うん。私がホムンクルスだったとしても、目を\n覚ましてハイディと出会った時じゃないと思うのよ						
+TalkEvent_20_030ID	2	Walther	ワルター	それ以前に起動していたという意味ですか？						
+TalkEvent_20_030ID	3	Valeria	ヴァレリア	一度起きてからまた眠ったんじゃないかなって						
+TalkEvent_20_030ID	4	Valeria	ヴァレリア	実はね、私のことをナナって呼ぶ女の人がいたのを\nうっすら覚えてるのよね						
+TalkEvent_20_030ID	5	Resna	レスナ	ナナ……						
+TalkEvent_20_030ID	6	Walther	ワルター	ふむ……。あなたのような人間とほぼ変わらぬ\n姿のホムンクルスを創り出すのは、現代では難しい						
+TalkEvent_20_030ID	7	Walther	ワルター	ですが、今より錬金術が栄えていた頃――\nネブラと呼ばれる文明があった時代ならば、あるいは						
+TalkEvent_20_030ID	8	Resna	レスナ	えっ？　確かに、ネブラ文明は今より高度な錬金術が\n使われていたともいわれていますけど……						
+TalkEvent_20_030ID	9	Valeria	ヴァレリア	そういえば、オディーリアも遥か昔の時代に\n造られたって言ってたわね						
+TalkEvent_20_030ID	10	Resna	レスナ	ヴァレリアがそんな昔に生まれたなんて……						
+TalkEvent_20_030ID	11	Valeria	ヴァレリア	大体どのくらい前なの、それ？						
+TalkEvent_20_030ID	12	Resna	レスナ	記録もはっきり残っていないくらい前だよ。\n何百年とか、何千年とか、色んな説があって						
+TalkEvent_20_030ID	13	Valeria	ヴァレリア	想像もつかないわね……						
+TalkEvent_20_030ID	14	Walther	ワルター	まあ、あくまで可能性の話です						
+TalkEvent_20_030ID	15	Antje	アンチュ	クリセルダに聞いてみたら……？\nクリセルダなら、きっと何か知ってるわよ						
+TalkEvent_20_030ID	16	Valeria	ヴァレリア	私がホムンクルスだって教えてくれたのも\nクリセルダだもんね						
+TalkEvent_20_030ID	17	Resna	レスナ	でもクリセルダさんの足取りは、まだぜんぜん\n掴めていないし、どうしたら会えるのかな……						
+TalkEvent_20_030ID	18	Walther	ワルター	何、もうじき向こうから会いに来ますよ						
+TalkEvent_20_030ID	19	Resna	レスナ	会いに来るって、どういうことですか？						
+TalkEvent_20_030ID	20	Antje	アンチュ	そうね……そろそろ、「あれ」の準備ができる頃						
+TalkEvent_20_030ID	21	Valeria	ヴァレリア	ねえねえ、「あれ」って何？						
+TalkEvent_20_030ID	22	Resna	レスナ	クリセルダさんは、ウェルテックスの骸を素材に使って\n大きな力を手に入れようとしてるんだって						
+TalkEvent_20_030ID	23	Valeria	ヴァレリア	力……？　何よそれ						
+TalkEvent_20_030ID	24	Walther	ワルター	あれがどのような完成を見たか、この目でぜひとも\n確かめたいものです						
+TalkEvent_20_031ID	0	Criselda	クリセルダ	……そう。ヴァレリアは元通りになったのね						
+TalkEvent_20_031ID	1	Criselda	クリセルダ	ふふ、期待した通りだわ						
+TalkEvent_20_031ID	2	Criselda	クリセルダ	治す錬金術はレスナたちのほうが優れている						
+TalkEvent_20_031ID	3	Criselda	クリセルダ	でも……						
+TalkEvent_20_031ID	4	Criselda	クリセルダ	ん……						
+TalkEvent_20_031ID	5	Criselda	クリセルダ	くっ……う……ふふふふふふふふ						
+TalkEvent_20_031ID	6	Criselda	クリセルダ	来たわ、この力！！						
+TalkEvent_20_031ID	7	Criselda	クリセルダ	あらゆる生命の頂点に君臨する獣……						
+TalkEvent_20_031ID	8	Criselda	クリセルダ	それを越える力が、私の手に						
+TalkEvent_20_031ID	9	Criselda	クリセルダ	強者に恐れ慄くのは野生の本能――						
+TalkEvent_20_031ID	10	Criselda	クリセルダ	けれど、私はそれすらも掌握する						
+TalkEvent_20_031ID	11	Criselda	クリセルダ	レスナたちの優しい錬金術では、この力は止められない						
+TalkEvent_20_031ID	12	Criselda	クリセルダ	準備はできたわ。「解放」を始めましょう――						

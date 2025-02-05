@@ -1,0 +1,851 @@
+id	name	name_en	name_zh-CN	name_zh-TW
+1	見習い錬金術士 レスナ	Apprentice Alchemist Resna	见习炼金术士 蕾斯娜	見習鍊金術士　蕾斯娜
+2	いきなりピンチ！？	A Sudden Predicament!	突如其来的危机？！	突如其來的危機！？
+3	頼もしい背中	Reliable Figure	可靠的伙伴	可靠的背影
+4	先輩錬金術士	An Established Alchemist	前辈炼金术士	鍊金術士前輩
+5	アトリエに集う者たち	Gathering at the Atelier	聚集于炼金工房的众人	集結於鍊金工房的人們
+6	みんなで調合	Synthesizing Together	大家一起调合	大家一起調合
+7	前途多難な再出発	A Grim Restart	前途坎坷的重新出发	前途坎坷的重新出發
+8	錬金術士を目指す理由	Why I Want to be an Alchemist	想成为炼金术士的理由	想成為鍊金術士的理由
+9	ハンマー使い イザナ	Hammer-User Izana	舞锤者 伊札娜	舞錘者　伊札娜
+10	いざ、参らん！	Now, Onwards!	出发吧！	好，那就出發吧！
+11	初めての王都	First Time in the Capital	初到王都	第一次到王都
+12	師匠の課題	Miss Saskia's Assignment	师父的课题	師父的課題
+13	親切な人	A Kind Person	热心的人	親切的人
+14	「星の繭」	The Star's Cocoon	“星之茧”	「星之繭」
+15	初めての依頼	The First Request	第一次的委托	第一次的委託
+16	改めてようこそ！	A Renewed Warm Welcome!	再次欢迎！	再次歡迎！
+17	今度は自分で	On My Own This Time	下次你自己来	下次妳自己來
+18	順調順調！	Smooth Sailing!	无比顺利！	非常順利！
+19	街を回ろう	Around Town	在城里逛逛吧！	在城裡逛逛吧！
+20	レスナの騎士	Resna's Knight	蕾斯娜的骑士	蕾斯娜的騎士
+21	オスカーとの出会い	A Run-In With Oskar	邂逅奥斯卡	與奧斯卡的相遇
+22	フロッケのお店	Flocke's Shop	芙洛可的商店	芙洛可的店
+23	受けたい依頼	A Welcome Request	想接受的委托	想承接的委託
+24	道中も宝の山	Treasure-Filled Journey	路途中也遍地是宝	路途中也遍地是寶
+25	ちょっと休憩	A Quick Break	小憩	休息一下
+26	パイで元気に！	Pies for a Pick-Me-Up!	吃点派打起精神来！	用派來打起精神！
+27	湿地到着	Reaching the Wetlands	抵达湿地	抵達濕地
+28	先輩直伝の冒険の秘訣	Secret Adventuring Tips from Seasoned Pros	前辈亲传的冒险秘诀	前輩親自傳授的冒險秘訣
+29	頑張りすぎには注意	Don't Work Too Hard	切勿过分努力	小心別努力過頭
+30	植物の声	Voices of the Plants	植物的声音	植物之聲
+31	素材集め完了！	Materials Obtained!	素材收集完毕！	素材收集完畢！
+32	いざ、調合！	Time to Synthesize!	开始调合！	開始調合！
+33	初めての納品報告	First Delivery Report	第一次交付报告	第一次交付回報
+34	やりたいこと	What I Want to Do	想做的事	想做的事
+35	アラルさんを探そう	Looking for Allar	寻找阿拉尔吧	尋找亞拉爾先生
+36	恥ずかしいよ！	That's So Embarrassing!	好丢人！	好丟臉喔！
+37	図書館を調べよう	Library Research	调查图书馆吧	調查圖書館
+38	視点を変える	A New Perspective	转换视角	改變觀點
+39	手分けして探そう	Split Up and Search	分头寻找吧	分頭尋找
+40	オススメの研磨剤	A Recommended Polishing Powder	推荐的研磨剂	推薦的研磨劑
+41	本名は違う？	A Different Name?	另有真名？	本名不同嗎？
+42	知らない作家	The Unknown Author	无人知晓的作家	不認識的作家
+43	いつか会えると	When We Meet Someday	终会相见	終將相會
+44	いらっしゃいませパーティー！	Welcome to the Party!	欢迎派对！	歡迎派對！
+45	目覚めるヴァレリア	Valeria Wakes Up	苏醒的瓦莱莉娅	覺醒的瓦萊莉婭
+46	親切な誰か	A Considerate Someone	热心的某人	親切的某人
+47	最強のコンビ？	The Ultimate Team?	最强组合？	最強的搭檔？
+48	その程度？	Is That It?	就这点能耐？	就這點能耐？
+49	最強コンビ！	The Ultimate Team!	最强组合！	最強搭檔！
+50	ささやかな幸せ	A Little Happiness	小小的幸福	微小的幸福
+51	二人が見る夜空	Under the Same Night Sky	两人眼中的夜空	兩人所見的夜空
+52	騎士への憧れ	Admiration for Knighthood	对骑士的憧憬	對騎士的憧憬
+53	尊い空間だ！	A Precious Atmosphere!	幸福无比的空间！	至福空間！
+54	依頼 新種の植物の調達	Request: New Varieties of Plants	委托 准备新品种植物	委託　取得新品種植物
+55	植物からの情報	Reports from Plants	植物告知的信息	來自植物的信息
+56	奇妙な静けさ	A Strange Silence	奇妙的安静	奇妙的寂靜
+57	イザナの悩み？	Izana's Worries?	伊札娜的烦恼？	伊札娜的煩惱？
+58	もうちょっとだけ……！	Just a Little More...!	还差一点……！	還差一點點……！
+59	揺れる湿地	Quaking Wetlands	摇晃的湿地	搖晃的濕地
+60	誰だって失敗しているんです	Everyone Makes Mistakes	任谁都会失败	人非聖賢
+61	七転び八起き	If at First You Don't Succeed...	百折不挠	百折不撓
+62	自分の信じる道	The Path You Believe In	自己坚信的道路	自己堅信的道路
+63	私に足りないもの	What I Lack	我所欠缺的东西	我所欠缺之物
+64	異邦人の来客	A New Wanderer	异邦来客	異邦來客
+65	仕事好き？ のマリオンさん	Marion's Love of Work?	热爱工作？的玛丽翁小姐	喜歡工作？ 的瑪麗翁小姐
+66	これからよろしく	Doing Our Best, Together	今后请多关照	今後請多指教
+67	これもいい経験……？	It's Good Experience...?	这也是有益的经验……？	這也是一次不錯的經驗……？
+68	マリオンさんの目的	Marion's Objective	玛丽翁的目的	瑪麗翁小姐的目的
+69	新しい依頼	A New Request	新的委托	新的委託
+70	いざ、洞窟へ	To the Cave!	前往洞窟	出發前往洞窟
+71	謎めいた不審者 ロマン	Roman, the Most Mysterious	神秘的可疑人物 罗曼	神秘的可疑份子　羅曼
+72	険しい山道	Steep Mountain Passes	险峻的山路	險峻的山道
+73	水晶が煌めく洞窟	A Cave With Glittering Crystals	水晶闪耀的洞窟	水晶閃耀的洞窟
+74	腕の立つ不審者 ロマン	Roman, the Suspiciously Skilled	技术高超的可疑人物 罗曼	有實力的可疑分子　羅曼
+75	同志認定！	Kindred Spirits!	认定为同志！	認可為同伴！
+76	白夜の騎士	Knight of the Midnight Sun	白夜骑士	白夜騎士
+77	役に立つ冒険者 ロマン	Roman, the Reliable Adventurer	有用的冒险者 罗曼	有用的冒險者　羅曼
+78	お土産を探して	Shopping for Souvenirs	寻找伴手礼	尋找伴手禮
+79	湾岸地区の日常	Day-to-Day by the Bay	海岸地区的日常	海灣地區的日常
+80	故郷へ出発！	Heading to My Hometown!	前往故乡！	往故鄉出發！
+81	２つの月	The Two Moons	两轮月亮	兩個月亮
+82	師匠へ報告！	Report Back to Teacher!	向师父报告！	向師父報告！
+83	道のりは遠く	The Road is Long	道阻且长	前路漫漫
+84	さまよう心	A Wavering Heart	彷徨的心	徬徨的心
+85	宝箱の外へ	Beyond the Treasure Chest	宝箱之外	寶箱之外
+86	力を貸してください！	Lend Me Your Strength!	请助我一臂之力！	請助我一臂之力！
+87	酔っぱらいの元船乗り？	A Drunken Ex-Sailor?	醉酒的前船员？	醉鬼前船員？
+88	オイシイ案件	A Sweet Deal	划算的买卖	划算的交易
+89	鴉の目	Crow's Eye	鸦的眼睛	烏鴉之眼
+90	相棒との出会い	Let's Stick Together	邂逅搭档	與搭檔的相逢
+91	天使の寝顔	The Angel's Sleeping Face	天使的睡脸	天使的睡臉
+92	月影の依頼	A Moonlit Request	月影的委托	月影的委託
+93	最後の課題に向けて	Working Towards the Last Task	准备最后的课题	面對最後的課題
+94	気難しい錬金術士	A Picky Alchemist	坏脾气的炼金术士	難以伺候的鍊金術士
+95	頼りになる協力者	A Reliable Ally	可靠的帮手	可靠的合作者
+96	道案内のロマン	Roman Leads the Way	向导罗曼	嚮導羅曼
+97	重なる星	Star-Crossed	星中之星	重疊的星星
+98	一緒に行きませんか！	Why Don't You Join Us?	不如一起去吧！	要不要一起去！
+99	ちゃんと知りたい	I Want to Know	想要了解	想好好了解
+100	住めば都？	Home Is Where the Heart Is?	久居为安？	住久就習慣了？
+101	ヴァレリアたちの目的	Valeria and Her Friends' Goals	瓦莱莉娅一行的目的	瓦萊莉婭等人的目的
+102	ランタナの花	Lanterna Blossoms	兰塔花	蘭塔花
+103	極夜に揺れる花	Flowers Swaying in the Polar Night	于极夜摇曳之花	搖曳於極夜的花朵
+104	幕引き	Curtain Call	落幕	落幕
+105	垣間見たもの	Glimpses of the Unseen	窥见之事	窺見一二
+106	奪われた花	Stolen Blossoms	被夺走的花	被奪走的花朵
+107	視線の先に	Within Sight	视线所望之处	在視線的前方
+108	帰りは恐い	The Terrifying Journey Back	可怕的归途	害怕回去
+109	しっかり掴まっててね！	Hold on Tight!	抓紧了！	要抓好喔！
+110	注意事項が！	Important Notice!	注意事项！	注意事項！
+111	初めて見る調合	First Synthesis	第一次见识调合	第一次見到的調合
+112	通じ合う心	A Meeting of Minds	心有灵犀	心有靈犀
+113	また一緒に	Together Again	下次一起	之後再一起
+114	次なる目標	The Next Goal	下一个目标	下一個目標
+115	次なる依頼	The Next Request	下一个委托	下一個委託
+116	二人の選択	Their Decision	二人的选择	兩人的選擇
+117	期待したのに……	I Was Looking Forward to That...	期待落空……	本來很期待的……
+118	お仕事中です	While at Work	正在工作	正在工作中
+119	錬金術士の事情	Incident with an Alchemist	调查炼金术士	關於鍊金術士
+120	怪しい組織	A Suspicious Organization	可疑的组织	可疑的組織
+121	初めての海	First Time Seeing the Sea	第一次去海边	第一次到海邊
+122	思わぬ再会	An Unexpected Reunion	意想不到的重逢	意外的重逢
+123	海といえば……	Speaking of the Sea...	提到大海……	說到海……
+124	ロジーさんに聞いてみよう	Let's Ask Logy	问问罗吉吧	問問看羅吉先生吧
+125	海に眠るモノ	What Sleeps Beneath the Waves	沉睡于大海之物	沉眠於大海之物
+126	見つけた！	Found You!	找到了！	找到了！
+127	逃亡	Escape	逃亡	逃亡
+128	覚悟を決めろ	Prepare Yourselves!	做好准备	做好準備
+129	ランタナの貝の探し方	How to Search for Lanterna Shells	寻找兰塔贝的方法	如何尋找蘭塔貝
+130	海辺の夜景	Night View from the Seaside	海边的夜景	海邊的夜景
+131	思わぬ援軍	Unexpected Reinforcements	意料之外的援军	意想不到的援軍
+132	地下通路へ	To the Underground Passage	前往地下通道	前往地下通路
+133	唯一の脱出法	Only One Way Out	唯一的逃脱方法	唯一的逃脫方法
+134	状況報告	Status Report	报告情况	狀況報告
+135	ランタナの貝の秘密	The Secret of Lanterna Shells	兰塔贝的秘密	蘭塔貝的秘密
+136	マルローネ先輩のとっておき	Marlone's Specialty	玛洛娜前辈的秘制美味	瑪洛娜前輩的壓箱寶
+137	ランツェの過去	Lanze's Past	兰泽的过去	藍澤的過去
+138	決死の航海	Sail or Die	拼死航行	賭命出海
+139	地道に探そう	Search with Patience	沉下心来寻找吧	土法煉鋼地找吧
+140	マルローネの思い出	Marlone's Memories	玛洛娜的回忆	瑪洛娜的回憶
+141	切り開く力	The Power to Carve Through	开创之力	開闢的力量
+142	ロジー先生！	Logy's Lesson	罗吉老师！	羅吉老師！
+143	彼らの影	Their Shadows	他们的影子	他們的影子
+144	最悪な再会	The Worst Reunion Ever	糟透了的重逢	最糟糕的重逢
+145	取引	A Proposal	交易	交易
+146	決着	Resolution	了断	了結
+147	制裁	Punishment	制裁	制裁
+148	助けなきゃ！	I Have to Help!	必须救她！	得幫忙才行！
+149	みんなで	Together	大家一起	齊心協力
+150	レスレリアーナのアトリエ	Atelier Resleriana	蕾斯莱莉娅娜的炼金工房	蕾斯萊莉婭娜的鍊金工房
+151	有力情報？	Useful Information?	可靠的情报？	可信資訊？
+152	再出発	A Fresh Start	重新出发	再出發
+153	新しい仲間たち	New Friends	新的伙伴	新夥伴們
+154	一人前になれた？	I'm a Real Alchemist Now?	能独当一面了吗？	能獨當一面了嗎？
+155	ヴァレリアの視線	Valeria's Gaze	瓦莱莉娅的视线	瓦萊莉婭的視線
+156	退治を終えて	Monsters Managed	结束讨伐之后	退敵之後
+157	ヴァレリアの挑戦	Valeria's Attempt	瓦莱莉娅的挑战	瓦萊莉婭的挑戰
+158	秘めたる才能？	A Hidden Talent?	隐藏的才能？	潛藏的才能？
+159	それぞれの道	Everyone's Paths	各自的道路	各自的道路
+160	戦士の休日	Warriors at Rest	战士的休息日	戰士假日
+161	聞き込み開始	Gathering Information	调查开始	開始打聽
+162	イザナの調査結果	Izana's Investigation Results	伊札娜的调查结果	伊札娜的調查結果
+163	悩める少女	The Worried Girl	苦恼的少女	苦惱的少女
+164	潮の香りに引かれて	Drawn by the Scent of the Sea	海潮气息的指引	受潮水之香吸引
+165	ロマンの調査結果	Roman's Investigation Results	罗曼的调查结果	羅曼的調查結果
+166	調査終了	Investigation Over	调查结束	調查結束
+167	結果報告	Reporting Back	结果报告	結果報告
+168	ランツェの決意	Lanze's Resolve	兰泽的决心	藍澤的決心
+169	私たちの新居	Our New Home	我们的新家	我們的新家
+170	フロッケの想い	Flocke's Feelings	芙洛可的思念	芙洛可的思念
+171	新生活	A New Life	新生活	新生活
+172	来客	A Visitor	来客	訪客
+173	あなたの夢	Your Dream	你的梦想	妳的夢想
+174	改めまして	A Second Time	再次致意	再來一次
+175	クラウディアの依頼	Klaudia's Request	科洛蒂娅的委托	科洛蒂婭的委託
+176	心強い助っ人	Reliable Backup	可靠的帮手	可靠的幫手
+177	クラウディアの特技	Klaudia's Special Skill	科洛蒂娅的特技	科洛蒂婭的特技
+178	運命の場所	A Fated Meeting Place	命运之地	命運之地
+179	記憶を辿って	Retracing Memories	回溯记忆	回溯記憶
+180	二人の絆	Their Bond	两个人的友情	兩人的羈絆
+181	調子はどう？	How Are You Feeling?	状态如何？	狀況如何？
+182	遭遇	The Encounter	不期而遇	遭遇
+183	作戦会議	Strategy Meeting	作战会议	作戰會議
+184	痺れる道具を調合しよう	Synthesize the Paralyzing Tool	调合麻痹道具	調合麻痺道具吧
+185	いざ試運転	Trial Run	试运行	來試用看看
+186	商人たち	The Merchants	商人们	商人們
+187	お悩み相談	Consultation Session	倾听烦恼	煩惱諮詢
+188	見つからないね	Can't Be Found	找不到啊	找不到耶
+189	音のした方へ	Towards the Sound	循声而去	朝著聲音的來源前進
+190	待ち受けていたモノ	An Expected Appearance	等待已久的东西	等候已久的事物
+191	あなたのために	For Your Sake	为了你	為了妳
+192	約束	A Promise	约定	約定
+193	新たな一歩	A New Step Forward	崭新的一步	嶄新的一步
+194	夢への道筋	Path to Dreams	寻梦之路	通往夢想的道路
+195	船乗りの夢	Sailor's Dream	船员的梦	船員之夢
+196	失ったもの	What Was Lost	失去之物	失去的東西
+197	一歩ずつ	One Step at a Time	一步一个脚印	一步一步
+198	とんがり帽子の少女	The Girl with the Pointy Hat	尖帽子少女	戴著尖帽子的少女
+199	早速の再会	A Quick Reunion	迅速来临的重逢	短時間內的再會
+200	仲良し姉妹	Close Sisters	相亲相爱的姐妹	親密姊妹
+201	「外」の依頼	A Distant Request	“外面”的委托	「外面」的委託
+202	よかったら！	If You'd Like!	如果方便的话！	可以的話！
+203	結束の宴	Feast of Unity	团结之宴	團結之宴
+204	もっと強く	Stronger Still	变得更强	還要更強
+205	長い旅の始まり	Beginning of a Long Journey	漫长旅行的开始	漫長旅程的開始
+206	過保護かも……	A Little Overprotective...	也许有点过度保护……	也許是保護過度……
+207	魔法使いウィルベル	Wilbell the Witch	魔法师薇尔贝儿	魔法師薇爾貝兒
+208	初めての土地へ	To Unfamiliar Lands	前往没去过的地方	前往陌生的土地
+209	野営をしましょう！	Let's Camp!	去野营吧！	來露營吧！
+210	レジナの特技	Regina's Special Skill	瑞吉娜的特技	瑞吉娜的特技
+211	流れ星の降る湖畔	Shooting Stars by the Lake	观看流星雨的湖畔	流星落下的湖畔
+212	レスナの試練	Resna's Trial	蕾斯娜的试炼	蕾斯娜的試煉
+213	灼熱の世界	Blazing World	灼热的世界	熾熱的世界
+214	無理はしないで	Don't Overdo It	不要强撑	別逞強
+215	ヴァレリアの提案	Valeria's Plan	瓦莱莉娅的提议	瓦萊莉婭的提議
+216	火山の伝承	The Volcano's Lore	火山的传说	火山的傳承
+217	協力者求む	Seeking Allies	寻求帮手	尋求合作者
+218	二人の相棒	Their Partners	两个搭档	兩人的搭檔
+219	原因調査	Surveying the Land	调查原因	調查原因
+220	必要なものとは	What Is Needed	需要之物	什麼是必要的東西
+221	次なる課題	The Next Challenge	下一个课题	下一個課題
+222	溶岩をどかすには	How to Move Lava	如何移开熔岩	移除熔岩的方法
+223	採取完了！	Gathering Complete!	采集完毕！	完成採集！
+224	冷気の爆弾	Chilling Bomb	冷气炸弹	寒氣炸彈
+225	道を切り開く	Blazing a Trail	开辟道路	開闢道路
+226	発掘屋	The Excavation Expert	采矿工	採礦工
+227	悩めるヴァレリア	Valeria's Worries	烦恼的瓦莱莉娅	苦惱的瓦萊莉婭
+228	山に眠る痕跡	Traces in the Mountains	沉睡于山中的痕迹	沉眠山中的痕跡
+229	火山の頂にて	The Summit of the Volcano	于火山之巅	在火山頂峰
+230	息を合わせて！	Get in Sync!	让步调一致！	數到三！
+231	次の目的地へ	To the Next Destination	前往下一个目的地	前往下一個目的地
+232	イザナの想い	Izana's Feelings	伊札娜的思绪	伊札娜的心聲
+233	忍び寄る闇	Creeping Darkness	潜伏的暗影	悄悄靠近的黑暗
+234	彼らの目的	Their Goal	他们的目的	他們的目的
+235	翡翠の煌水の在処	Where to Find Jade Water	翡翠煌水的所在地	翡翠煌水的所在之處
+236	王たる者として	As a Queen	身为国王	身為王者
+237	ハイネ大原野	Haine Wilderness	海涅大原野	海涅大原野
+238	信頼感	Sense of Trust	信赖感	信賴感
+239	デキるお姉さん	The Capable Older Sister	能干的姐姐	能幹的姐姐
+240	気合を入れて	Gearing Up	鼓足干劲	卯足勁
+241	危うきこと	Perilous Matters	危险的事	危險時刻
+242	助っ人	Backup	帮手	幫手
+243	リラの実力	Lila's True Strength	莉拉的实力	莉拉的實力
+244	手合わせ	A Bout	切磋	合力
+245	隣に立つために	To Stand Beside You	为了能够并肩	為了站在妳身邊
+246	立ち止まっていられない	Can't Stand Still	不能停滞不前	我不能在原地踏步
+247	レスナの作戦	Resna's Strategy	蕾斯娜的作战计划	蕾斯娜的作戰
+248	張り切る二人	Two Eager Beavers	两个人的拼搏	幹勁十足的兩人
+249	あなたらしく	Be Yourself	保持你的风格	做妳自己
+250	冒険の予感	Premonition of Adventure	冒险的预感	冒險的預感
+251	調査は順調？	Investigation Going Well?	调查顺利？	調查順利嗎？
+252	修行	Training	修行	修行
+253	魚の縁	Fishy Bonds	鱼之缘	因為魚建立的緣分
+254	１日でも早く	Even One Day Faster	越快越好	越快越好
+255	落ち着かない気持ち	Restless Feelings	心里很乱	無法平靜的心
+256	ついに見つけた？	Finally Found It?	终于找到了？	終於找到了？
+257	罪と罰	Crime and Punishment	罪与罚	罪與罰
+258	帰還	Homecoming	归来	回歸
+259	あなたなんかに	Can't Lose to You	不会输给你这种人	像妳這種人
+260	良き錬金術士	The Good Alchemist	善良的炼金术士	好的鍊金術士
+261	あなたのとなり	At Your Side	你的身旁	妳的身旁
+262	長い旅の終わり	End of a Long Journey	漫长旅行的结束	漫長旅途的終點
+263	騎士の誓い	A Knight's Vow	骑士的誓约	騎士的誓約
+264	情報提供	Information Delivery	提供情报	提供情報
+265	動き始めた世界	The World Begins to Move	世界开始运转	開始運轉的世界
+266	遠征を終えて	Expedition's End	结束远征	遠征之後
+267	招待状	Invitation	邀请函	邀請函
+268	怠惰な戦士	The Lazy Warrior	懒惰的战士	懶惰的戰士
+269	意外な再会	An Unexpected Reunion	意料之外的重逢	意外的重逢
+270	王宮薬士	Royal Apothecary	王宫药师	王宮藥師
+271	なんの採掘場？	What Kind of Mine?	这是什么采掘场？	挖掘什麼的地方？
+272	心配アーシャ	Worried Ayesha	爱担心的爱夏	擔心的愛夏
+273	甘党な人形	Sweet-Toothed Doll	爱吃甜食的人偶	嗜甜的人偶
+274	不穏な気配	Ominous Presence	危险的气息	危險的氣息
+275	練習しよう！	Time for Training!	来练习吧！	來練習吧！
+276	ロマン大発表会？	Roman's Big Announcement?	罗曼的大发布会？	羅曼的大發表會？
+277	事件発生	A Situation Arises	发生事件	發生事件
+278	王子の交渉術	Prince's Negotiation Tactics	王子的交涉本领	王子的談判術
+279	動き出す影	Shadows Stir	蠢蠢欲动的黑影	展開行動的身影
+280	助っ人お姉さん	Help on the Way	帮手姐姐	幫手姊姊
+281	急ぎましょう	Let's Hurry	事不宜迟	加快速度吧
+282	王子の想い	The Prince's Feelings	王子的心绪	王子的心聲
+283	脱兎のごとく	Like a Scared Rabbit	动如脱兔	動如脫兔
+284	ざわめく採掘場跡	Stirring Old Mine	吵闹的采掘遗迹	喧鬧的挖掘場遺跡
+285	王子の人徳	The Prince's Virtue	王子的人望	王子的品德
+286	鴉の気配	Crow's Presence	鸦的气息	烏鴉的氣息
+287	王国の歴史	The Kingdom's History	王国的历史	王國的歷史
+288	追跡	In Pursuit	追踪	追蹤
+289	逃げろ！	Run!	快逃！	快逃！
+290	リヒャルト・ランターナ	Richard Lantarna	理查德·兰塔纳	理查德‧蘭塔納
+291	膠着状態	Stalemate	胶着状态	膠著狀態
+292	暴走トロッコ	Runaway Mine Cart	失控的矿车	暴走的礦車
+293	みんな無事？	Is Everyone Okay?	大家都没事吧？	大家沒事吧？
+294	リヒャルト殿下	Prince Richard	理查德殿下	理查德殿下
+295	事後処理	The Aftermath	善后工作	善後處理
+296	王子として	As a Prince	身为王子	身為王子
+297	変わったこと、変わらないこと	What Changed, What Remained	变化之处、不变之处	改變的事及不變的事
+298	タウンストーリー	Town Stories	城镇故事	城鎮故事
+299	タウンストーリー	Town Stories	城镇故事	城鎮故事
+300	タウンストーリー	Town Stories	城镇故事	城鎮故事
+301	白夜の騎士ユナ	Juna, Knight of the Midnight Sun	白夜骑士尤娜	白夜騎士尤娜
+302	王子と騎士	The Prince and the Knight	王子与骑士	王子與騎士
+303	竜狩りの伝説	Legend of the Dragon Slayer	屠龙传说	獵龍傳說
+304	ロジーの任務	Logy's Mission	罗吉的任务	羅吉的任務
+305	兆候	Warning Signs	征兆	前兆
+306	ロマンの受難	Roman's Cross	罗曼吃瘪	羅曼的苦難
+307	雪国からの依頼	Request from the Snow Country	来自雪国的委托	來自雪國的委託
+308	銀世界	Silver World	银装素裹的世界	銀色世界
+309	民のため	For the People	为了民众	為了人民
+310	その物語の前日譚	Prelude to That Tale	那个故事之前的故事	故事的前傳
+311	雪深き土地	Land of Deep Snow	厚雪覆盖的土地	深雪之地
+312	異常気象	Strange Weather	异常气候	異常氣候
+313	北の民たち	People of the North	北方居民	北方人民
+314	力を示せ	Show Your Strength	展示力量	展現力量
+315	雪の中の襲撃	Ambush in the Snow	雪中袭击	雪中的襲擊
+316	英雄の誉れ	Hero's Glory	英雄的威名	英雄的名譽
+317	雪山を越えるために	Crossing the Snowy Mountain	为了跨越雪山	為了穿越雪山
+318	緊急事態	Emergency Situation	紧急事态	緊急狀況
+319	豪快な戦士	The Powerful Warrior	豪气的战士	豪邁的戰士
+320	助っ人を探して	Searching for Backup	寻找帮手	尋找幫手
+321	エスカとリンカ	Escha and Linca	爱丝卡与琳卡	愛絲卡與琳卡
+322	頼れる同僚たち	Reliable Colleagues	可靠的同事们	值得信賴的同僚們
+323	北の名物	Northern Wonders	北方名胜	北方名產
+324	雪山の奥へ	To the Snowy Mountains' Depths	前往雪山深处	前往雪山深處
+325	足りるかな？	Is It Enough?	够了吗？	足夠嗎？
+326	リンカの腕やいかに	Linca's Skill	琳卡的真本事	琳卡的本領
+327	リンカの任務	Linca's Mission	琳卡的任务	琳卡的任務
+328	闇そのもの	Darkness Itself	黑暗本身	黑暗的代名詞
+329	可哀そうに	A Shame	真可怜	讓人同情
+330	最前線	The Frontline	最前线	最前線
+331	騎士道とは	What is Chivalry	何谓骑士精神	何謂騎士道
+332	頂獣……？	Apexi?	顶兽……？	頂獸……？
+333	二人の英雄	Two Heroes	两名英雄	兩位英雄
+334	守れたもの	What Was Protected	守护的成果	守住的事物
+335	新たな懸念	New Concerns	新的忧虑	新的擔憂
+336	騎士の休息	A Knight's Rest	骑士的休憩	騎士的休息
+337	頂獣	Apexi	顶兽	頂獸
+338	最後の記憶	Last Memory	最后的记忆	最後的記憶
+339	９年前	Nine Years Ago	9年前	9年前
+340	決起	Leaping into Action	奋起	奮起
+341	絶好の機会	Best Chance	绝佳的机会	絕佳機會
+342	得体の知れない力	A Mysterious Power	来路不明的力量	來歷不明的力量
+343	クア州の海辺	The Kur Coast	库亚州的海边	庫厄州的海邊
+344	通りすがりの錬金術士	A Passing Alchemist	路过的炼金术士	路過的鍊金術士
+345	遠距離作戦	Long-Range Tactics	远距离作战	遠距離作戰
+346	天を目指して	Shooting for the Sky	遥指天际	聳入雲霄
+347	試験対策	Exam Prep	攻克课题	考試對策
+348	力の使い道	The Path to Power	力量的用途	力量的用途
+349	束の間の再会	A Brief Reunion	短暂的重逢	短暫的重逢
+350	砦お披露目	Unveiling the Fortress	要塞亮相	要塞亮相
+351	素材の声	The Materials' Voice	素材的声音	素材的聲音
+352	いつかの練習	Practice Makes Perfect	尝试练习	為未來做練習
+353	迎撃準備	Preparing to Intercept	迎击准备	迎擊準備
+354	腹が減っては	An Empty Stomach	饿着肚子可不行	餓著肚子
+355	名残	Traces	过去的习惯	遺痕
+356	対抗手段	Countermeasures	对抗手段	對抗手段
+357	ひと工夫	Fiddling	想方设法	小巧思
+358	狙い撃ち	A Targeted Shot	精准爆破	鎖定目標
+359	不思議な人	A Mysterious Person	神秘的人	不可思議的人
+360	とっておきのご褒美	An Extra-Special Reward	特别的奖励	秘藏獎賞
+361	黒い薔薇	Black Roses	黑蔷薇	黑色薔薇
+362	ツテ	Connections	门路	門路
+363	フロッケの決意	Flocke's Resolve	芙洛可的决心	芙洛可的決心
+364	本気の忠告	A Serious Warning	发自内心的忠告	懇切的忠告
+365	決戦前	Before the Decisive Battle	决战之前	決戰前
+366	後押し	Support	支援	後援
+367	脅威	The Threat	威胁	威脅
+368	２つの知らせ	Two Updates	两个消息	兩個通知
+369	打開の翼	Wings of Change	破局之翼	突破之翼
+370	できることを	To the Best of Our Abilities	力所能及之事	盡己所能
+371	もう１つの決意	Doubling Down	另一份决心	另一個決心
+372	反撃開始	Launching the Counterattack	开始反击	反擊開始
+373	一気呵成	One Burst	一气呵成	一氣呵成
+374	守りたいもの	Things Worth Protecting	想要守护的事物	想守護的對象
+375	残された者たち	Those Who Remain	被留下来的人们	被留下的人們
+376	激昂	Fury	狂怒	激憤
+377	相棒の役目	A Partner's Duty	搭档的职责	搭檔的任務
+378	持ちつ持たれつ	Mutual Support	互相帮衬	互助互惠
+379	安住の地	A Safe Place	安居之地	安心的居所
+380	選んだ使命	A Chosen Duty	选择的使命	選擇的使命
+381	一番頑張った日	The Toughest Day Ever	最努力的一天	最努力的一天
+382	限界	Limits	极限	極限
+383	その分も	Enough	加倍努力	連他們的份一起
+384	拠りどころ	Foundations	仅有的信念	依靠
+385	溢れる後悔	A Flood of Regrets	无尽的悔恨	滿溢的後悔
+386	戦う術	A Way to Fight Back	战斗的能力	應戰的手段
+387	最善の方法	The Best Method	最好的方法	最好的方法
+388	恥じるよりも	Overcoming Shame	比起羞愧	與其慚愧
+389	守り人たちの反逆	Rebelling Against the Guardians	守护者们的反叛	守護者們的反叛
+390	黒色の傀儡	Shadowy Puppets	黑色傀儡	黑色傀儡
+391	お返し	Returning the Favor	回敬	回敬
+392	ひと筋の光明	A Ray of Light	一丝希望	一絲光明
+393	次の作戦	The Next Strategy	下一次作战	下一個作戰
+394	渇望の矛先	A Focused Desire	渴望之事	渴望的事
+395	悔しさを糧に	Fueled by Regret	化不甘为食粮	將悔恨化為食糧
+396	揺るぎない気持ち	Unwavering Feelings	坚定的想法	毫不動搖的心意
+397	心当たり	Clues Emerging	头绪	頭緒
+398	人事を尽くして	Every Effort Made	尽人事	盡人事
+399	いち早く	As Fast as Possible	尽快	儘早
+400	ウェルテックスの秘密	Weltex's Secret	威尔特克斯的秘密	威爾特庫斯的秘密
+401	安静にしながら	Resting Yet Ready	静养的同时	靜養的同時
+402	力を合わせて	United in Strength	齐心协力	同心協力
+403	さらなる協力部隊	Additional Reinforcements	更多支援部队	更進一步的協力部隊
+404	秘密兵器	Secret Weapon	秘密武器	秘密武器
+405	真の姿	True Form	真正的姿态	真正的模樣
+406	黒薔薇の反攻	The Black Rose Counterattack	黑蔷薇的反击	黑薔薇的反攻
+407	とっておきの作戦	A Special Strategy	王牌作战	秘藏的作戰計畫
+408	待っていた好機	The Opportune Moment	久等的良机	等待已久的良機
+409	予想外の窮地	An Unexpected Predicament	预料之外的危机	意料之外的困境
+410	今だけは	Just This Once	珍惜现在	只有現在
+411	最後の楔	The Final Wedge	最后的楔子	最後的楔子
+412	王国の悲願	The Kingdom's Plea	王国的夙愿	王國的夙願
+413	晴れ舞台	Spotlight Time	隆重亮相	重要時刻
+414	新たな希望	A New Hope	新的希望	新希望
+415	桁違い	A Different League	天差地别	天差地遠
+416	夜の始まり	Nightfall	夜晚的开始	夜晚的開始
+417	悪い知らせ	Bad Tidings	坏消息	壞消息
+418	ランツェの帰還	Lanze's Return	兰泽回归	藍澤回歸
+419	時代を拓くおじさん	Old Man Who Pioneered an Era	开拓时代的大叔	開拓時代的大叔
+420	ささやかな刺激	A Subtle Thrill	些许的刺激	微小的刺激
+421	夢を運ぶ船	Ship of Dreams	载梦之船	承載夢想的船
+422	どん底の天使	Angel at Rock Bottom	逆境天使	谷底的天使
+423	念願の初航海	Long-Awaited First Voyage	期盼已久的初次航海	期待已久的初次航行
+424	期待の右腕	Promising Right-Hand	备受期待的得力助手	備受矚目的左右手
+425	明確な違い	Clear Distinction	明显差别	明確的不同
+426	行商人の情熱	The Peddler's Passion	旅行商人的热情	旅行商人的熱情
+427	船乗りの勘	Seafarer's Intuition	船员的直觉	船員的直覺
+428	感動の再会……？	Heartfelt Reunion?	令人感动的重聚……？	令人感動的再會……？
+429	家庭の事情	Family Matters	家人的苦衷	家家有本難念的經
+430	三拍子の楽園	Triple Paradise	应有尽有的乐园	滿足三個重要條件的樂園
+431	着実な成果	Consistent Results	丰硕的成果	紮實的成果
+432	分かってはいても	Despite Knowing	虽然明白	儘管如此
+433	モフモフの意地	Fluffy Resolve	毛茸茸的骨气	毛茸茸的堅持
+434	本気の倍返し	Serious Payback	认真的反击	認真的加倍奉還
+435	ならではの発想	Signature Idea	独特的想法	獨一無二的想法
+436	より良い物を	Striving for Better	择优入选	更好的東西
+437	一子相伝の内緒事	Inherited Secrets	一脉单传的秘密	一子單傳的祕密
+438	嘘つきの経緯	Reasons for Lying	谎言的前因后果	謊言的理由
+439	優しさを織り込んで	Woven with Kindness	织入柔情	交織的溫柔
+440	船長のお墨付き	Captain's Endorsement	船长的保证	船長打包票
+441	大船に乗って	In Good Hands	脚踩大船	乘著大船
+442	幻か現か	Illusion or Reality?	似真似幻	幻覺抑或現實
+443	後のことも考えて	Planning Ahead	为之后做打算	請深思熟慮
+444	無償の思いやり	Selfless Compassion	无偿的关怀	不求回報的關懷
+445	対決当日	Day of the Showdown	对决当天	對決當天
+446	ぶつかるよりも	Rather than Butting Heads	比冲突更重要的事	比起衝突
+447	女王の誓い	The Queen's Vow	女王的誓言	女王的誓言
+448	癒えぬ渇き	Insatiable Thirst	无法满足的渴求	無法緩解的渴望
+449	砂混じりの後味	Sandy Aftertaste	混着沙子的回味	混和了沙子的餘味
+450	家族の資格	Worthy of Family	家人的资格	家人的資格
+451	目の前の答え	The Answer at Hand	眼前的答案	面前的答案
+452	父親の覚悟	A Father's Resolve	父亲的决心	父親的決心
+453	娘のおねだり	A Daughter's Plea	女儿的撒娇	女兒的請求
+454	帰れる場所	A Place to Call Home	归处	能回去的地方
+455	次なる展望	Looking Ahead	下一个展望	下一個展望
+456	「偶然」の出会い	Chance Meeting	“偶遇”	「偶然」的相遇
+457	誘いの裏側	Hidden Motives	邀约的隐情	邀約的背後
+458	そっちから先に	After You	以家人为先	從那邊先開始
+459	いよいよの本腰	Time to Get Serious	准备正式开战	終於拿出幹勁
+460	向き合う機会	Chance to Face Fear	直面弱点的机会	正面相對的機會
+461	自主的荒療治	Self-Imposed Drastic Measures	主动进行暴露疗法	主動下猛藥
+462	両手に花	Two Beauties	两位丽人	左擁右抱
+463	青空と太陽	Sky and Sun	蓝天与太阳	藍天與太陽
+464	綻びの兆し	Signs of Failure	破绽的预兆	綻開的徵兆
+465	力の配分	Managing Energy	分配力量	分配精力
+466	思わぬお宝	An Unexpected Treasure	意想不到的宝物	意想不到的寶物
+467	文武両道	Master of Both Pen and Sword	文武双全	文武雙全
+468	幸せな苦しみ	Joyful Agony	幸福的痛苦	幸福的苦惱
+469	蜘蛛の巣	Spider's Web	蜘蛛网	蜘蛛網
+470	白を纏う者	Knight in White	身着白铠者	身穿白色鎧甲之人
+471	鴉の秘薬	Crow's Potion	鸦的秘药	烏鴉的祕藥
+472	いくら慣れても	Even with Training	还是受不了	即使已經習慣
+473	苦手克服の会	Face Your Fears Club	克服弱点大会	克服弱點的集會
+474	矜持との狭間で	Between Pride and Duty	困于自尊心	與尊嚴的狹縫間
+475	任務再び	Back to the Mission	继续执行任务	任務再臨
+476	強さの秘訣	The Secret to Strength	强大的秘诀	強大的祕訣
+477	騎士なりの愛で方	Knightly Affection	骑士独有的爱抚方式	屬於騎士的疼愛方式
+478	甘い囁き	Sweet Murmurs	甜蜜低语	甜美的細語
+479	仲間の前なら	With Companions	在伙伴面前的话	只要在夥伴面前
+480	今後の課題	Next Objectives	今后的课题	今後的課題
+481	鴉の行方	Tracking Crow	鸦的去向	烏鴉的下落
+482	白衣の研究者	Lab Coat Researcher	身穿白衣的研究者	白衣研究者
+483	新たな来賓	New Arrival	新的客人	新的來賓
+484	確実な一歩	Steady Progress	坚实的一步	確實的一步
+485	揺るがぬ目的	Unwavering Goals	不变的目的	堅定的目的
+486	ロマンの忠告	Roman's Warning	罗曼的忠告	羅曼的忠告
+487	脈打つ記憶	Stinging Memories	跳动的记忆	脈動的記憶
+488	老いの勲章	Badge of Old Age	老旧的勋章	年老的勳章
+489	存在価値	The Worth of Existence	存在的价值	存在價值
+490	大穴調査	Big Hole Investigation	调查深坑	調查大洞
+491	謎の語り部	Mysterious Storyteller	神秘的讲述者	神秘講述者
+492	二人の妹	Two Sisters	两位妹妹	兩個妹妹
+493	ユリエ先生	Mentor Jurie	尤莉耶老师	尤莉耶老師
+494	その先の思い	Thoughts Beyond	今后的想法	未來的意念
+495	騎士のやきもち	A Knight's Jealousy	骑士的妒忌	騎士吃醋
+496	一抹の寂しさと	A Touch of Loneliness	一丝孤单	與一絲寂寞
+497	もう１人の英雄	Another Hero	又一位英雄	另一位英雄
+498	美味しいデート	Delicious Date	美味的约会	美味的約會
+499	ギタギタのボコボコ	To Smithereens	满地找牙	落花流水滿地找牙
+500	ロマンの秘策	Roman's Secret Plan	罗曼的秘策	羅曼的計謀
+501	悪人練習	Villain Training	坏人练习	壞人練習
+502	闇に紛れて	Shrouded in Darkness	遁入黑暗	潛入黑暗
+503	潜入開始	Operation: Infiltration	潜入行动开始	開始潛入
+504	宝箱の中身は	What's in the Treasure Chest?	宝箱里的东西	寶箱的裡面是
+505	ヴァレリアの人生相談	Valeria's Life Advice	探讨人生的瓦莱莉娅	瓦萊莉婭的人生諮詢
+506	足跡を辿って	Following Footsteps	追寻足迹	循著足跡
+507	オリバーの番犬	Oliver's Guard Dog	奥利弗的看门狗	奧利弗的看門犬
+508	王子の取引	The Prince's Bargain	王子的交易	王子的交易
+509	鴉の獲物	Crow's Prey	鸦的猎物	烏鴉的獵物
+510	深淵へ	Into the Abyss	坠入深渊	墜入深淵
+511	黒い羽根に包まれて	Wrapped in Black Feathers	在黑色羽毛包裹之下	被黑色羽毛所包覆
+512	仮面で封じたもの	Sealed with a Mask	被面具封印的东西	面具所封印的事物
+513	完全決着の時	The Final Showdown	正面对决之时	徹底了結的時刻
+514	消える余裕、生まれる余裕	Losing Freedom, Gaining Freedom	消失的从容，诞生的从容	消失的從容，誕生的從容
+515	薬の行方	Finding the Medicine	药的下落	藥的下落
+516	焦る気持ちの前に	Before the Desperation	先别急躁	在著急的心情面前
+517	かすみゆく影	Fading Shadow	分崩离析之影	逐漸消逝之影
+518	気配、再び	Another Presence	再次登场	氣息再起
+519	魔法使いと研究者	The Witch and the Researcher	魔法师与研究者	魔法師與研究者
+520	雑食の目覚め	First-Time Omnivore	杂食的觉醒	雜食的覺醒
+521	奥の手	Last Resort	杀手锏	殺手鐧
+522	受け入れがたい決定打	Unbearable Truth	难以接受的致命一击	難以接受的決勝一擊
+523	人生の主	Master of Life	人生的主人	人生的主人
+524	奈落の底	Bottom of the Abyss	地狱之底	地獄之底
+525	牢の中のあの子	The Girl in the Cell	牢房里的女孩	牢裡的那女孩
+526	鍛錬	Training	锻炼	鍛鍊
+527	高地の難しさ	High-Altitude Struggles	高地的难点	高地之難
+528	本当にやりたいこと	What I Really Want to Do	真正想做的事	真正想做的事
+529	野営飯のいろは	Camp Cooking 101	野炊入门	野炊料理入門
+530	霧の中	In the Mist	雾中	迷霧之中
+531	鍛錬の成果	The Fruits of Training	锻炼的成果	鍛鍊的成果
+532	あの子の罪	The Girl's Sin	她的罪孽	那女孩的罪行
+533	友達みたいに	Just like Friends	像朋友一样	像朋友一樣
+534	師匠の依頼	The Mentor's Request	师父的委托	師父的委託
+535	行為の責任	Responsibility for One's Actions	为行动负责	行為責任
+536	戦闘の天才	Combat Genius	战斗天才	戰鬥天才
+537	星と信仰	Stars and Faith	星星和信仰	星星與信仰
+538	信じるべきは	What to Believe In	应该相信什么	應該相信的是
+539	本への興味	An Interest in Books	对书本的兴趣	對書的興趣
+540	感謝の気持ち	Feelings of Gratitude	感谢之情	感謝的心
+541	先客の存在	Someone Was Here First	捷足先登之人	先到的訪客
+542	霧を晴らすには	How to Clear the Mist	为了驱散雾气	讓濃霧散去的方法
+543	趣味の共有	Sharing Hobbies	分享爱好	共同愛好
+544	霧の中のティータイム	Tea Time in the Mist	雾中的茶点时间	霧中的下午茶時光
+545	生物の本質	The Essence of Life	生物的本质	生物本質
+546	単独行動	Acting Alone	独断专行	單獨行動
+547	心配	Worry	担忧	擔心
+548	人質の価値	The Value of a Hostage	人质的价值	人質的價值
+549	決闘申し込み	Challenged to a Duel	决斗的战书	要求決鬥
+550	友達だから	Because We're Friends	因为是朋友	因為是朋友
+551	因縁	Tied Together	因缘	因緣
+552	獣化の脅威	The Threat of Beast Transformation	兽化的威胁	獸化的威脅
+553	愛読書の真実	The Truth behind the Book	心爱之书的真相	愛書的真相
+554	当然の気持ち	Natural Emotions	理所当然的感情	理所當然的心情
+555	思いを受け入れて	Embracing Emotions	接受这份心意	接納想法
+556	二人の正体	Their True Identities	两人的真面目	兩人的真面目
+557	備えあれば	Prepared for Anything	有备而来	未雨綢繆
+558	一緒に働きませんか？	Shall We Work Together?	一起工作吧？	要不要一起工作？
+559	癒しの装い	Healing Attire	治愈人心的装扮	治癒裝束
+560	草陰かくれんぼ	Hide-and-Seek in the Grass	草丛捉迷藏	草叢捉迷藏
+561	不在の師匠	The Missing Mentor	师父不在	缺席的師父
+562	似た者同士？	Birds of a Feather?	性情相似？	同類？
+563	厄介な番犬	Troublesome Guard Dog	棘手的守卫	棘手的看門狗
+564	新たな助っ人	New Backup	新的帮手	新的幫手
+565	瘴気の先	Past the Miasma	瘴气前方	瘴氣的前方
+566	不幸中の幸い	Silver Lining	不幸中的万幸	不幸中的大幸
+567	粘液分析	Mucus Analysis	分析黏液	黏液分析
+568	交渉	Negotiation	交涉	交涉
+569	苦しんでいる人	Those in Pain	正在受苦的人	受苦的人
+570	師弟の絆	Student-Mentor Bond	师徒之情	師徒情誼
+571	期待以上の成果	Exceeding Expectations	超出预期的成果	超乎預期的成果
+572	知らない記憶	Unknown Memories	不曾有的记忆	未知的記憶
+573	罠だとしても	Even If It's a Trap	即使是个圈套	即使是陷阱
+574	借りは返すもの	Debts Must Be Repaid	有借有还	有借必有還
+575	本当の私	The Real Me	真正的自己	真正的我
+576	集う同行者たち	Gathering Companions	同行人集结	聚集的旅伴們
+577	彼の大切な人	Important Family	他的重要之人	他最重視的人
+578	古城攻略作戦	Conquer the Ancient Castle	古堡攻略计划	古城攻略作戰
+579	錬金術の源	The Source of Alchemy	炼金术的本源	鍊金術的源頭
+580	ハイディの出自	Heidi's Roots	海蒂的出身	海蒂的出身
+581	ヴァレリアと謎の石	Valeria and the Mysterious Stone	瓦莱莉娅和神秘的石头	瓦萊莉婭與神秘的石頭
+582	コンビネーションアイデア	Combined Ideas	组合灵感	組合妙計
+583	二人の騎士	The Two Knights	两名骑士	兩位騎士
+584	レスナと謎の石	Resna and the Mysterious Stone	蕾斯娜和神秘的石头	蕾斯娜與神秘的石頭
+585	合流	Reunion	汇合	會合
+586	晩餐会へご招待	Invitation to the Banquet	晚餐会的邀请	晚宴的邀請
+587	それぞれの錬金術	Types of Alchemy	各自的炼金术	各自的鍊金術
+588	世界への疑問	Questioning the World	对世界的疑问	對世界抱持疑問
+589	因縁、完全なる決着へ	Fated Battle; Final Resolution	因缘、最终的决战	徹底了斷孽緣
+590	悪あがき	Pointless Struggle	挣扎	無謂的掙扎
+591	溢れる力	Overflowing Power	满溢的力量	滿溢的力量
+592	時間稼ぎ	Buying Time	争取时间	爭取時間
+593	未知の実力	Unknown Strength	未知的实力	未知的實力
+594	骸の使い道	The Use of the Remains	尸骸的用途	屍骸的用途
+595	無事の帰還	Safe Return	平安归来	平安歸來
+596	二人の夢	Two Dreams	两人的梦想	兩人的夢想
+597	ララ・キングダム	The Kingdom of Lara	拉拉王国	拉拉王國
+598	償いは	Atonement	赎罪	補償
+599	ジェロンの渇望	Geron's Desire	杰隆的愿望	傑隆的渴望
+600	獣化の呪い	The Curse of Beast Transformation	兽化的诅咒	獸化的詛咒
+601	治癒の天稟	Natural Gift for Healing	治愈天赋	治療天賦
+602	恩人	Savior	恩人	恩人
+603	二人だけの共通点は？	Something in Common?	两人的共同点是？	專屬兩人的共同點？
+604	人造頂獣の脅威	The Man-Made Apexi Threat	人造顶兽的威胁	人造頂獸的威脅
+605	「何者かの意思」	"""The Will of Some Unseen Force"""	“某种意志”	「某人的意志」
+606	ホムンクルス	Homunculus	荷蒙克鲁斯	荷蒙克魯斯
+607	クリセルダという人物	She Is Known as Criselda	克莉赛尔达其人	名為克莉賽爾達的人物
+608	錬金党の拠点	Polar Night Alchemists' Base	炼金党的据点	鍊金黨的據點
+609	迫り来る影	Looming Shadows	逼近的暗影	迫近的黑影
+610	お見舞い	A Caring Visit	探病	探望
+611	奇襲	Ambushed!	奇袭	偷襲
+612	襲われる異邦人たち	Wanderers under Attack	被袭击的异邦人们	遭到襲擊的異邦人們
+613	世界の真実を求める者たち	Seekers of the World's Truth	寻求世界的真实的人们	尋求世界真相的人們
+614	家族の安否	A Family's Fate	家人的安危	家人的安危
+615	師匠の圧	Mentor's Pressure	师父的气场	師父的壓力
+616	海の要塞	Fortress on the Sea	海洋要塞	海邊要塞
+617	兄と姉のシンパシー	Sympathy between Siblings	哥哥和姐姐的共鸣	兄姊的支持
+618	王直々の勧誘	Royal Invitation	王的邀请	君主親口邀請
+619	噂をすれば	Speak of the Devil	说到就到	說人人到
+620	最悪の想定	Worst-Case Scenario	最糟糕的预想	設想最糟情況
+621	犯行予告	Warning before the Crime	犯罪预告	犯罪預告
+622	徹底抗戦	Fight to the Finish	抵抗到底	徹底抗戰
+623	特殊な才能	A Unique Talent	特殊才能	特殊才能
+624	捜索開始！	The Search Begins!	开始搜索！	搜索開始！
+625	騎士の在り方	A Knight's Code	骑士之道	騎士的理想姿態
+626	ハイディの嗅覚	Heidi's Keen Sense of Smell	海蒂的嗅觉	海蒂的嗅覺
+627	ヴァレリアの直感	Valeria's Intuition	瓦莱莉娅的直觉	瓦萊莉婭的直覺
+628	捜索結果	Search Results	搜索结果	搜索結果
+629	迫るタイムリミット	Time Is Running Out	最后一刻临近	迫近的時限
+630	鴉の一声	Crow's Call	鸦的命令	烏鴉啼鳴
+631	約束の刻限	Promised Deadline	约定时刻	約定時刻
+632	まさに災害	True Calamity	与灾害无异	名副其實的災害
+633	奥義とお守り	Secret Techniques and Charms	奥义和护身符	奧義與護身符
+634	王と騎士	Queen and Knight	王与骑士	君主與騎士
+635	王都を守れ！	Defend the Capital!	守护王都！	保護王都！
+636	王都集結	Rally at the Capital	王都集结	王都集結
+637	激戦の裏で	Behind the Fierce Battle	激战背后	激戰背後
+638	戻った平穏、帰らなかった彼女	Peace Returned, but She Did Not	归于平静的生活和不归的她	回歸的和平，未歸的她
+639	新たな発見	A New Discovery	新发现	新發現
+640	爆弾娘たち	Bomberwomen	炸弹女孩们	炸彈女孩們
+641	爆弾仕事は任せて！	Leave the Bombs to Me!	炸弹的工作交给我们！	爆破工作就交給我們吧！
+642	壁の向こう	Beyond the Wall	墙的另一边	牆的另一端
+643	いざ、爆弾調合！	Bomb Synthesis: Commence!	调合炸弹！	來吧，調合炸彈！
+644	人造頂獣の力	Power of the Man-Made Apexi	人造顶兽的力量	人造頂獸的力量
+645	ロロナ特製パイ爆弾！	Rorona's Special Pie Bomb!	萝乐娜秘制派炸弹！	蘿樂娜的特製派炸彈！
+646	狩猟本能	Hunter's Instinct	狩猎本能	狩獵本能
+647	人造頂獣を止めるには	Stopping the Man-Made Apexi	为了阻止人造顶兽	阻止人造頂獸的武器
+648	服の性能	Capabilities of New Outfits	衣服的性能	服裝性能
+649	爆破大作戦！	Explosive Plans!	爆炸大作战！	爆破大作戰！
+650	匂いで誘う	Lured by a Scent	香气诱惑	氣味誘惑
+651	退路を断つ	Cut off the Escape Route	堵住退路	斷絕退路
+652	戦利品	Spoils of Battle	战利品	戰利品
+653	染み付いた匂い	The Lingering Scent	沾上味道了	染上的氣味
+654	平穏な時間	A Moment of Peace	平静时光	和平時光
+655	錬金術への評価	Alchemy's Reputation	对炼金术的评价	對鍊金術的評價
+656	ヴァレリアの行方	Searching for Valeria	瓦莱莉娅的下落	瓦萊莉婭的去向
+657	緊急依頼のご指名	Specially Requested	点名要求的紧急委托	指名的緊急委託
+658	事件の影響	Aftermath of the Incident	事件的影响	事件的影響
+659	新たな武器	A New Weapon	新的武器	新武器
+660	装備の力	Strength of Equipment	装备的力量	裝備的力量
+661	錬金術によって救われた者	Those Saved by Alchemy	被炼金术拯救之人	被鍊金術拯救的人
+662	気持ちを切り替えて	Shifting Mindsets	转换情绪	轉換心情
+663	森の要塞	Fortress in the Forest	森林要塞	森林要塞
+664	足元注意！	Watch Your Step!	当心脚下！	注意腳下！
+665	ライザ先輩による冒険指南	Ryza's Expert Adventure Coaching	莱莎前辈的冒险指南	萊莎前輩的冒險指南
+666	お団子	Sweet Dumplings	团子	糯米糰子
+667	イザナの覚悟	Izana's Resolve	伊札娜的决心	伊札娜的決心
+668	王国南西の端	Southwest Edge of the Kingdom	王国的西南角	王國西南的邊緣
+669	落石の原因は？	What Caused the Rockslide?	落石的原因是？	落石的原因？
+670	違和感	Something's Wrong	违和感	異樣
+671	裏切り者	The Traitor	叛徒	叛徒
+672	分かたれた道	Diverging Paths	分道扬镳	分道揚鑣
+673	粛清	Purge	肃清	肅清
+674	手負いの帰還	The Wounded Return	负伤而归	負傷而歸
+675	彼女の事情	Her Circumstances	她的苦衷	她的苦衷
+676	負の連鎖を断ちに	Ending the Chain of Misery	斩断负面连锁	斬斷惡性循環
+677	再びの仕切り直し	Another Fresh Start	再一次重来	再次捲土重來
+678	久しぶりの再会	Finally Reunited	久别重逢	久別重逢
+679	近況報告	Status Report	近况报告	近況報告
+680	峡谷の噂	Rumors of the Canyon	峡谷的流言	峽谷的傳聞
+681	素直な気持ち	Genuine Feelings	真实的心情	真實的心意
+682	お話しませんか？	Can We Talk?	能聊聊吗？	能不能跟我聊聊？
+683	もう１つの伝承	Another Legend	另一个传说	另一個傳承
+684	一歩ずつ	One Step at a Time	一步一个脚印	一步一步
+685	尋ね人	Missing Person	苦寻之人	尋人
+686	極夜に消ゆ	Vanishing into the Polar Night	消失于极夜	消失於極夜中
+687	一方その頃	Meanwhile, Somewhere Else...	与此同时	與此同時
+688	ドタバタトラベル	Chaotic Travels	手忙脚乱的旅行	手忙腳亂的旅行
+689	手掛かりさえあれば	If Only We Had a Lead	有线索就好了	只要掌握到線索
+690	お手柄ユーディー	Great Work, Judie!	优蒂立大功	功臣優蒂
+691	まずは調査から	Start by Investigating	先从调查开始	先從調查著手
+692	願いを込めて	Filled with Heart	带着心愿	懷著心願
+693	経験の賜物	Wisdom through Experience	经验的成果	經驗的成果
+694	お試し	Trial Run	尝试	嘗試
+695	斥候の実力	A Scout's Skill	侦察兵的实力	斥候的實力
+696	一度見た風景	Familiar Scenery	曾见过的风景	曾看過的風景
+697	推測通り	Just as Predicted	推测正确	正如推測
+698	「壺」	"""Vessels"""	“壶”	「壺」
+699	引っかかる言葉	Lingering Words	在意的话语	不對勁的話語
+700	いい知らせと悪い知らせ	The Good News and the Bad News	好消息和坏消息	好消息與壞消息
+701	あの時見たもの	What Was Seen Back Then	那时看见的景象	那時所見之物
+702	研究	Research	研究	研究
+703	戦う理由	Why We Fight	战斗的理由	戰鬥的理由
+704	再度の襲撃	Another Assault	再次袭来	再次的襲擊
+705	最後の拠点	The Last Base	最后的据点	最後的據點
+706	「錬金爵」	"""Seneschal of Alchemy"""	“炼金爵”	「鍊金爵」
+707	極夜の錬金党のアトリエ	Polar Night Alchemist's Atelier	极夜的炼金党的工房	極夜的鍊金黨的鍊金工房
+708	新たな同行者	A New Companion	新的同行者	新的旅伴
+709	「喧嘩屋」	"""Brawl Master"""	“打架高手”	「打架專家」
+710	不気味な森	The Eerie Forest	诡异的森林	詭異的森林
+711	旅	Journey	旅途	旅行
+712	師弟で友達で家族	Mentor, Friend, and Family	师徒、朋友和家人	既是師徒、朋友，也是家人
+713	それぞれの戦い方	Different Styles of Fighting	各自的战斗方式	各自的戰鬥方式
+714	沈黙の門番	The Silent Guardian	沉默寡言的守卫	沉默的守衛
+715	餌付け作戦	Feeding Plan	投喂作战	餵食作戰
+716	感激レスナ	Grateful Resna	感动的蕾斯娜	感激的蕾斯娜
+717	極上の餌、完成！	Extra-Special Monster Food: Complete!	顶级饲料完成！	頂級飼料，完成！
+718	フロッケの思い出	Flocke's Memories	芙洛可的回忆	芙洛可的回憶
+719	家庭の味			
+720	ララ・キングダムの民	The Kingdom of Lara's Citizens	拉拉王国的子民	拉拉王國的人民
+721	マクダとブラッド			
+722	問答無用！			
+723	かわいい臣下たち			
+724	避けられぬ戦い			
+725	動揺			
+726	罠と待ち伏せ			
+727	好きにはさせない			
+728	錬金釜の行方			
+729	破壊の象徴			
+730	国のために、民のために			
+731	ワルターという男			
+732	新たな協力者と懸念			
+733	これまでとこれから			
+734	今やるべきこと			
+735	錬金術士たち			
+736	純粋と無法は紙一重			
+737	目撃情報			
+738	全州踏破まであと一歩			
+739	同行依頼			
+740	ぬいぐるみの「彼ら」			
+741	百折不撓			
+742	大陸の向こう、海の先			
+743	友達切り込み隊長			
+744	ヨハナの中の光			
+745	聞き込み調査			
+746	救いの手			
+747	演技練習			
+748	困ったときは			
+749	大事な友達			
+750	演劇本番			
+751	救うために			
+752	次こそは			
+753	お互い様			
+754	弟子を想う気持ち			
+755	食事はみんなで			
+756	お似合いの居場所			
+757	愛を込めて			
+758	ごちそうさま			
+759	告白			
+760	ヴァレリアを創った錬金術士			
+761	仲間とともに			
+762	おかえりとただいま			
+763	人外の絆			
+764	ヴァレリアの記憶			
+765	解放の足音			
+766	破壊された遺跡			
+767	来訪者			
+768	迎え			
+769	再びの要求			
+770	住民たちの不安			
+771	厄介な力			
+772	怯える魔物たち			
+773	諦めない			
+774	束の間の休息			
+775	一家団らん			
+776	運命なんて分からない			
+777	挑戦状			
+778	クリセルダの覚悟			
+779	偵察報告			
+780	ふさわしい罰			
+781	恩返しの約束			
+782	王たるもの			
+783	同じ空の下			
+784	「閉ざさずの門」周辺			
+785	敵情視察			
+786	念入りに			
+787	本格始動			
+788	突入準備			
+789	ブレない魅力			
+790	心強い援軍			
+791	大ゲンカ			
+792	切り開かれた道へ			
+793	決戦			
+794	頂獣を超える力			
+795	クリセルダの思惑			
+796	それぞれの渇望			
+797	戦いの結末			
+798	依頼の報酬は			
+799	第三者の影			
+800	正体			
+801	揺れる心			
+802	世界の守護者たち			
+803	力の差			
+804	運命			
+805	忘れない			
+806	ヴァレリアの核			
+807	焦り			
+808	クリセルダは語る			
+809	ランターナ大陸の歴史			
+810	ザスキアの思惑			
+811	頼もしい先輩方			
+812	ヴァレリアの望み			
+813	王と臣下			
+814	隠していた本音			
+815	王の度量			
+816	仕立ての時間			
+817	王にふさわしい装い			
+818	涙の跡			
+819	気を抜かずに進もう			
+820	甘い味覚と苦い過去			
+821	落ち着いている二人			
+822	ララ・キングダム移住のすすめ			
+823	環境を変えてみよう			
+824	ヴァレリアという人			
+825	消えた迷い			
+826	レシピ完成！			
+827	力を貸してもらえませんか？			
+828	協力の意志			
+829	小休止			
+830	王国一の錬金術士			
+831	「未知の素材」			
+832	未開の遺跡			
+833	絶対に大丈夫			
+834	再会のための調合			
+835	あなたの名前は			
+836	大きすぎる喪失感			
+837	難しい距離感			
+838	「急がば回れ」			
+839	謁見を終えて			
+840	協力していただきたいんです			
+841	ぎこちない二人			
+842	「パルメ族」			
+843	歩んできた道			
+844	歩んでいく道			
+845	巣立ち			
+846	あなたの夢を聞かせて			
+10000	ほうき星の導き	Guidance of the Comet	彗星的指引	彗星的導引
+10001	始まりは唐突に	A Sudden Beginning	开端总是如此突然	不期而至的開端
+10002	錬金術で役立つものを	Making Alchemical Aids	用炼金术制作有用的东西	用鍊金術創造有用之物
+10003	すべてはあの日から	It All Started That Day	一切始于那一天	一切始於那日

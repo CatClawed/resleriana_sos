@@ -1,0 +1,292 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_MCHARA_B_04_01ID	0	Valeria	ヴァレリア	レスナー！　ってあら。\n今日は出かけてるのかしら						
+Date_MCHARA_B_04_01ID	1	Antje	アンチュ	（……うるさいのが来た。\n　クリセルダの気を引く、不届き者）						
+Date_MCHARA_B_04_01ID	2	Valeria	ヴァレリア	あ、そこにいるのはアンチュじゃない。\nねえ、レスナどこに行ったか知らない？						
+Date_MCHARA_B_04_01ID	3		選択肢	正直に知らないと答える						
+Date_MCHARA_B_04_01ID	4	Antje	アンチュ	知らないわ……。\n私があの子のことを知るわけないじゃない						
+Date_MCHARA_B_04_01ID	5	Valeria	ヴァレリア	でも、最近レスナと仲いいわよね？\nだから何か聞いてたりしないかと思って						
+Date_MCHARA_B_04_01ID	6	Valeria	ヴァレリア	今日アトリエにいるのだって、\nレスナに会いに来たんじゃないの？						
+Date_MCHARA_B_04_01ID	7	Antje	アンチュ	違う……本を読みに来ただけ						
+Date_MCHARA_B_04_01ID	8		選択肢	教えないと言って意地悪する						
+Date_MCHARA_B_04_01ID	9	Antje	アンチュ	知ってたとしても、教える義理はないわ						
+Date_MCHARA_B_04_01ID	10	Valeria	ヴァレリア	確かにそうかもしれないけれど……。\n意地悪しないでよ						
+Date_MCHARA_B_04_01ID	11	Antje	アンチュ	ふん……貴方に優しくする\n理由なんか、ない。ふ、ふふふ						
+Date_MCHARA_B_04_01ID	12	Valeria	ヴァレリア	そんなこと言わずに。\nねえ、アンチュ～						
+Date_MCHARA_B_04_01ID	13	Antje	アンチュ	……う。すり寄らないで						
+Date_MCHARA_B_04_01ID	14		選択肢	貴方から逃げた						
+Date_MCHARA_B_04_01ID	15	Antje	アンチュ	きっと貴方から逃げたのよ。\n近くにいると、持っている食べ物\n全部取られてしまうから……						
+Date_MCHARA_B_04_01ID	16	Valeria	ヴァレリア	う……レスナ、怒ってたのかしら						
+Date_MCHARA_B_04_01ID	17	Antje	アンチュ	（思ったよりしゅんとしているわ……）						
+Date_MCHARA_B_04_01ID	18	Antje	アンチュ	……とにかく、今日はレスナは見てないわ。\n残念だったわね						
+Date_MCHARA_B_04_01ID	19	Valeria	ヴァレリア	そっか。最初からそう言ってくれれば\nいいのに。アンチュ、私のこと嫌いなの？						
+Date_MCHARA_B_04_01ID	20	Antje	アンチュ	……好きになれないのは確かよ						
+Date_MCHARA_B_04_01ID	21	Valeria	ヴァレリア	どうして？\n何か恨まれるようなことしたかしら						
+Date_MCHARA_B_04_01ID	22	Antje	アンチュ	（どうして……か。\n　そんなの、私にも分からないけど……）						
+Date_MCHARA_B_04_01ID	23	Antje	アンチュ	とにかく気に食わないのよ。\n特に……						
+Date_MCHARA_B_04_01ID	24		選択肢	クリセルダを惑わせるところ						
+Date_MCHARA_B_04_01ID	25	Antje	アンチュ	クリセルダの気を引いて……\n惑わせてるところとかね						
+Date_MCHARA_B_04_01ID	26	Valeria	ヴァレリア	別にそんなことしてないわよ。\n向こうがやたら突っかかってくるというか						
+Date_MCHARA_B_04_01ID	27	Antje	アンチュ	クリセルダは懐っこいところもあるから。\nただ、貴方には特になのよ						
+Date_MCHARA_B_04_01ID	28	Valeria	ヴァレリア	うーんそう言われてもねぇ						
+Date_MCHARA_B_04_01ID	29		選択肢	レスナを独占しているところ						
+Date_MCHARA_B_04_01ID	30	Antje	アンチュ	レスナを独占しているところとか						
+Date_MCHARA_B_04_01ID	31	Valeria	ヴァレリア	独占しているつもりはなかったけど……。\nイザナのほうがレスナとずっと一緒に\nいるじゃない						
+Date_MCHARA_B_04_01ID	32	Antje	アンチュ	イザナは、もはやそういう空気というか。\n一緒にいても、気にならないわ						
+Date_MCHARA_B_04_01ID	33	Valeria	ヴァレリア	まー、そういう域にいるわね						
+Date_MCHARA_B_04_01ID	34		選択肢	悩みがなさそうなところ						
+Date_MCHARA_B_04_01ID	35	Antje	アンチュ	悩みごとなんてなさそうなところが\n気に食わない						
+Date_MCHARA_B_04_01ID	36	Valeria	ヴァレリア	そう？　これでも色々悩んでるわ。\n今だって悩んでることがあるもの						
+Date_MCHARA_B_04_01ID	37	Antje	アンチュ	ふうん。何も考えてなさそうな\nボーっとした表情してるけど						
+Date_MCHARA_B_04_01ID	38	Valeria	ヴァレリア	……それは元々の顔の問題な気がするわ						
+Date_MCHARA_B_04_01ID	39	Valeria	ヴァレリア	……やっぱり、操られてみんなに\n迷惑かけたのが良くなかった？						
+Date_MCHARA_B_04_01ID	40	Antje	アンチュ	別に……。\nまあ、そうならないようにしたほうが\n面倒はなくていいけど						
+Date_MCHARA_B_04_01ID	41	Valeria	ヴァレリア	ねえ、操られないようにするためには\nどうしたらいいと思う？						
+Date_MCHARA_B_04_01ID	42	Antje	アンチュ	私は、そういうの詳しくないわ						
+Date_MCHARA_B_04_01ID	43	Valeria	ヴァレリア	いいじゃない。色んな人の話を\n参考にしたいのよ						
+Date_MCHARA_B_04_01ID	44	Antje	アンチュ	……そう。\n有効かは分からないけど……						
+Date_MCHARA_B_04_01ID	45		選択肢	意思を強く持つ						
+Date_MCHARA_B_04_01ID	46	Antje	アンチュ	何より意思を強く持つことじゃない？\n何かの術をかけられたとしても……\n心を奪われない強さがあればいいのよ						
+Date_MCHARA_B_04_01ID	47	Valeria	ヴァレリア	やっぱりそうよね……そしたら\n修行しないと						
+Date_MCHARA_B_04_01ID	48	Valeria	ヴァレリア	美味しそうなご飯があっても、\n平静を保って飛びつかないようにする\n修行でいいかしら……						
+Date_MCHARA_B_04_01ID	49	Antje	アンチュ	（……いいわけがない）						
+Date_MCHARA_B_04_01ID	50		選択肢	武力を身につける						
+Date_MCHARA_B_04_01ID	51	Antje	アンチュ	そもそも相手に操る隙を与えるのが\n良くないと思うわ						
+Date_MCHARA_B_04_01ID	52	Antje	アンチュ	戦う力をもっと磨いて、操られる前に倒す。\n貴方にはそれが一番\n分かりやすいんじゃないの						
+Date_MCHARA_B_04_01ID	53	Valeria	ヴァレリア	確かにそうね！\nもっと素早く動けるように特訓しないと						
+Date_MCHARA_B_04_01ID	54		選択肢	一人にならない						
+Date_MCHARA_B_04_01ID	55	Antje	アンチュ	一人にならないことね。\n貴方を操ろうとするなら\n一人きりのときを狙ってくるはず						
+Date_MCHARA_B_04_01ID	56	Antje	アンチュ	常に誰かと一緒にいればいいのよ						
+Date_MCHARA_B_04_01ID	57	Valeria	ヴァレリア	いい考えね！　じゃあ\n一人で出かけることになりそうなときは\nアンチュを誘うことにするわ						
+Date_MCHARA_B_04_01ID	58	Antje	アンチュ	（……言わなければよかった）						
+Date_MCHARA_B_04_01ID	59	Valeria	ヴァレリア	ありがとアンチュ！\nおかけで色んなことに気付けたわ！						
+Date_MCHARA_B_04_01ID	60	Antje	アンチュ	好きじゃないって言ってる相手にも、\n礼を言うのね						
+Date_MCHARA_B_04_01ID	61	Valeria	ヴァレリア	まあ、人には好き嫌いあるから。\nそれじゃ！						
+Date_MCHARA_B_04_01ID	62	Antje	アンチュ	（なんでヴァレリアは、こんなに\n　前向きなの……？）						
+Date_MCHARA_B_04_02ID	0	Valeria	ヴァレリア	うーん、お腹空いた！\nフロッケのお弁当食べましょ！						
+Date_MCHARA_B_04_02ID	1	Antje	アンチュ	そうね。頼まれてた採取も\n一区切りついたことだし						
+Date_MCHARA_B_04_02ID	2	Antje	アンチュ	それにしてもなんで貴方と\n二人で採取なんかに……						
+Date_MCHARA_B_04_02ID	3	Valeria	ヴァレリア	レスナが二人はもっと仲良くなった\nほうがいいって言うんだもの。\nだから誘ってみたのよ						
+Date_MCHARA_B_04_02ID	4	Antje	アンチュ	（気まずいとかないのかしら）						
+Date_MCHARA_B_04_02ID	5	Valeria	ヴァレリア	じゃあ、いただきまーす！\nうーん、やっぱりフロッケの作る料理は\n最高ね！						
+Date_MCHARA_B_04_02ID	6			クリセルダの料理のほうが美味しい						
+Date_MCHARA_B_04_02ID	7	Antje	アンチュ	クリセルダの料理のほうが美味しいに\n決まってる						
+Date_MCHARA_B_04_02ID	8	Valeria	ヴァレリア	確かにデートの時に食べたお弁当は\n美味しかったわ						
+Date_MCHARA_B_04_02ID	9	Antje	アンチュ	ふ、ふふふ。また食べたいでしょ？						
+Date_MCHARA_B_04_02ID	10	Valeria	ヴァレリア	うん。食べたい。もしかして、\n今食べられるの！？						
+Date_MCHARA_B_04_02ID	11	Antje	アンチュ	え。いや、食べられないわ。\n……というより、ダメ。\nもったいないから私が食べる						
+Date_MCHARA_B_04_02ID	12	Valeria	ヴァレリア	じゃあどうして「また食べたいでしょ」\nなんて言ったのよ！						
+Date_MCHARA_B_04_02ID	13	Antje	アンチュ	（クリセルダの料理を褒められるのは\n　嬉しいけど、食べさせてなんて\n　やるもんか！）						
+Date_MCHARA_B_04_02ID	14			食べられればなんでもいいんでしょ						
+Date_MCHARA_B_04_02ID	15	Antje	アンチュ	食べられればなんでもいいんでしょ。\n味なんて分かってるの？						
+Date_MCHARA_B_04_02ID	16	Valeria	ヴァレリア	私だって味くらい分かるわ						
+Date_MCHARA_B_04_02ID	17	Antje	アンチュ	じゃあ、目を閉じて。\n今から口に入れるものは、誰が作った物か\n当ててみて						
+Date_MCHARA_B_04_02ID	18	Valeria	ヴァレリア	何かな、何かな						
+Date_MCHARA_B_04_02ID	19	Antje	アンチュ	（昨日私が作ったクッキーを入れちゃえ。\n　誰が作ったか絶対分からないはず）						
+Date_MCHARA_B_04_02ID	20	Valeria	ヴァレリア	もぐもぐ……ん！						
+Date_MCHARA_B_04_02ID	21	Valeria	ヴァレリア	なにこれ！　すごく美味しいわね！						
+Date_MCHARA_B_04_02ID	22	Antje	アンチュ	（……な、なんだか美味しいって\n　言われると……どうしてだろう。\n　胸がざわざわする）						
+Date_MCHARA_B_04_02ID	23	Valeria	ヴァレリア	分かった！\nイザナがときどき食べてるおやつ？						
+Date_MCHARA_B_04_02ID	24	Valeria	ヴァレリア	いたっ！						
+Date_MCHARA_B_04_02ID	25	Antje	アンチュ	不正解……っ						
+Date_MCHARA_B_04_02ID	26	Valeria	ヴァレリア	えっ？　そんな叩くほど？						
+Date_MCHARA_B_04_02ID	27			食べること以外興味ないの？						
+Date_MCHARA_B_04_02ID	28	Antje	アンチュ	貴方、食べるときだけやたらと元気よね。\n他に興味のあることはないの？						
+Date_MCHARA_B_04_02ID	29	Valeria	ヴァレリア	そうね……戦うのは好きよ。\n特に強い奴と戦うのが好き						
+Date_MCHARA_B_04_02ID	30	Valeria	ヴァレリア	思いっきり体を動かせる戦いが最高ね！						
+Date_MCHARA_B_04_02ID	31	Antje	アンチュ	（なるほど……\n　たくさん動いているからたくさん\n　食べるのか、はたまたその逆か）						
+Date_MCHARA_B_04_02ID	32	Antje	アンチュ	（食べるのにはちゃんと理由があると）						
+Date_MCHARA_B_04_02ID	33	Valeria	ヴァレリア	さーて、帰ったら一眠りしようかしら						
+Date_MCHARA_B_04_02ID	34	Antje	アンチュ	（……寝てるのもよく見かけるから、\n　この説は間違っているのかもしれない）						
+Date_MCHARA_B_04_02ID	35	Antje	アンチュ	……というか、フロッケの料理が\n最高っておかしいじゃない						
+Date_MCHARA_B_04_02ID	36	Antje	アンチュ	貴方、錬金党にいた時はクリセルダの\n料理が一番美味しいって言ってたくせに						
+Date_MCHARA_B_04_02ID	37	Valeria	ヴァレリア	そうなの？　そんなこと言ってたんだ……。\n私、錬金党にいた時の記憶がないのよね						
+Date_MCHARA_B_04_02ID	38	Antje	アンチュ	ふうん……						
+Date_MCHARA_B_04_02ID	39	Valeria	ヴァレリア	私、どんなことを言ってたの？						
+Date_MCHARA_B_04_02ID	40	Antje	アンチュ	（さて、どうしてくれようかしら）						
+Date_MCHARA_B_04_02ID	41			本当のことを言う						
+Date_MCHARA_B_04_02ID	42	Antje	アンチュ	普段の貴方と、あまり変わらなかったわ。\nさっき言った食事のときみたいに、\n少しクリセルダをおだててたくらい						
+Date_MCHARA_B_04_02ID	43	Valeria	ヴァレリア	うーん……それはおだてるように\n仕向けられてたのかしら						
+Date_MCHARA_B_04_02ID	44	Valeria	ヴァレリア	それとも、本当にクリセルダのご飯が\nとても美味しかったのかしら						
+Date_MCHARA_B_04_02ID	45	Antje	アンチュ	（思い出せないことについて、\n　今までで一番悔しそうな顔をしてる……）						
+Date_MCHARA_B_04_02ID	46			嘘をつく						
+Date_MCHARA_B_04_02ID	47	Antje	アンチュ	私が間違っていた、正しいのは錬金党\nだったって、絶対の忠誠を誓っていたわ						
+Date_MCHARA_B_04_02ID	48	Antje	アンチュ	私の肩だって揉んでくれてたのに……。\nもう揉んでくれないなんて、残念ね						
+Date_MCHARA_B_04_02ID	49	Valeria	ヴァレリア	え！？　そんなに打ち解けてたの！？\nやるわね、私……						
+Date_MCHARA_B_04_02ID	50	Antje	アンチュ	（期待した反応と違う！？）						
+Date_MCHARA_B_04_02ID	51	Valeria	ヴァレリア	というか、言ってくれれば揉みまくりよ？\nほらほら、どこがいいの？						
+Date_MCHARA_B_04_02ID	52	Antje	アンチュ	い、嫌……来ないで						
+Date_MCHARA_B_04_02ID	53			大嘘をつく						
+Date_MCHARA_B_04_02ID	54	Antje	アンチュ	そう……全ては貴方が、倒した竜を担いで\n私たちの前に現れたところから始まったの。\nこれが手土産だ、と言って						
+Date_MCHARA_B_04_02ID	55	Valeria	ヴァレリア	う、うん						
+Date_MCHARA_B_04_02ID	56	Antje	アンチュ	私の武力と錬金党の叡智。\nそれが合わされば不可能はない。\n共に真なる世界を興そう						
+Date_MCHARA_B_04_02ID	57	Antje	アンチュ	そう言った貴方に、クリセルダは\n実力を見せてみなさいと戦いを挑んだ						
+Date_MCHARA_B_04_02ID	58	Valeria	ヴァレリア	それでそれで……！？						
+Date_MCHARA_B_04_02ID	59	Antje	アンチュ	……そうして、錬金党と貴方で\n割れた大地の奥底にうごめく頂獣を倒し、\n新たな力を得るための素材を手に入れたのよ						
+Date_MCHARA_B_04_02ID	60	Valeria	ヴァレリア	すごいじゃない……続きは！？\n続きはどうなったの！？						
+Date_MCHARA_B_04_02ID	61	Antje	アンチュ	（想像以上の大作を語ってしまった……。\n　けど、なぜこいつはこれが嘘だと\n　気付かないの！？）						
+Date_MCHARA_B_04_02ID	62	Valeria	ヴァレリア	続きは？　はやく、はーやーくー！						
+Date_MCHARA_B_04_02ID	63	Antje	アンチュ	ま、また今度話してあげるわ……						
+Date_MCHARA_B_04_02ID	64	Valeria	ヴァレリア	……ありがとう。色々話を聞いてみたけど、\nやっぱり思い出せないみたい						
+Date_MCHARA_B_04_02ID	65	Valeria	ヴァレリア	不便ではあるけど……。\nでも、クリセルダといた時のことは\n大体アンチュも見てるのよね						
+Date_MCHARA_B_04_02ID	66	Antje	アンチュ	まあ……見てたから。\nクリセルダに変なことしないように						
+Date_MCHARA_B_04_02ID	67	Valeria	ヴァレリア	じゃあ、安心ね						
+Date_MCHARA_B_04_02ID	68	Antje	アンチュ	……どういうこと？						
+Date_MCHARA_B_04_02ID	69	Valeria	ヴァレリア	だって何かあったら、アンチュに\n聞けばいいから						
+Date_MCHARA_B_04_02ID	70	Antje	アンチュ	……						
+Date_MCHARA_B_04_02ID	71			しょうがないから助けてあげる						
+Date_MCHARA_B_04_02ID	72	Antje	アンチュ	まあ、いいわ。しょうがないから\n助けてあげる						
+Date_MCHARA_B_04_02ID	73	Antje	アンチュ	……変に断ったり意地悪したほうが\n面倒なことになりそうだし						
+Date_MCHARA_B_04_02ID	74	Valeria	ヴァレリア	え？　どういうこと？						
+Date_MCHARA_B_04_02ID	75	Antje	アンチュ	（自覚してないのがムカツク……！）						
+Date_MCHARA_B_04_02ID	76			私を信用するの？						
+Date_MCHARA_B_04_02ID	77	Antje	アンチュ	私を信用するの？　この前まで敵だったのよ						
+Date_MCHARA_B_04_02ID	78	Valeria	ヴァレリア	でも、今は仲間よね？\nレスナが信じるなら私も信じる						
+Date_MCHARA_B_04_02ID	79	Antje	アンチュ	（そんなのでいいのか、って言おうとした\n　けど、私もクリセルダが信じると\n　言ったらそれに従ってしまうかも）						
+Date_MCHARA_B_04_02ID	80	Antje	アンチュ	（私とこいつは似ている部分が\n　あるのかもしれない）						
+Date_MCHARA_B_04_02ID	81			あることないこと言うかも						
+Date_MCHARA_B_04_02ID	82	Antje	アンチュ	いいのね？　あることないこと\n言うかもしれないわよ						
+Date_MCHARA_B_04_02ID	83	Valeria	ヴァレリア	ないことって、たとえばどういうの？						
+Date_MCHARA_B_04_02ID	84	Antje	アンチュ	貴方が嫌がることや、恥ずかしくなる\nこととか						
+Date_MCHARA_B_04_02ID	85	Valeria	ヴァレリア	なるほど……私の嫌がることとか\n恥ずかしくなることってなんだろう……\n楽しみね！						
+Date_MCHARA_B_04_02ID	86	Antje	アンチュ	……						
+Date_MCHARA_B_04_02ID	87	Valeria	ヴァレリア	……？　どうしたの？						
+Date_MCHARA_B_04_02ID	88	Antje	アンチュ	……なんでもないわ						
+Date_MCHARA_B_04_02ID	89	Valeria	ヴァレリア	いけない、話してたら食べるのが\n遅くなっちゃったわ。\n早く戻らないとレスナが心配するかも						
+Date_MCHARA_B_04_02ID	90	Valeria	ヴァレリア	急ぐわよ！						
+Date_MCHARA_B_04_02ID	91	Antje	アンチュ	う、うん……						
+Date_MCHARA_B_04_02ID	92	Antje	アンチュ	（どうして……こいつといると\n　こうも調子が狂うのかしら）						
+Date_MCHARA_B_04_03ID	0	Valeria	ヴァレリア	さて、レスナに言われた本は\nどこに売ってるのかしらね						
+Date_MCHARA_B_04_03ID	1	Antje	アンチュ	……本屋の位置も分からずにレスナのお願いを\n引き受けたの？						
+Date_MCHARA_B_04_03ID	2	Valeria	ヴァレリア	アンチュも来るって言うからなんとかなるかなって						
+Date_MCHARA_B_04_03ID	3	Antje	アンチュ	貴方となんて行くつもりなかったのに、\nレスナが着いて行けって言うから……						
+Date_MCHARA_B_04_03ID	4	Valeria	ヴァレリア	頼りにしてるわよ						
+Date_MCHARA_B_04_03ID	5	Antje	アンチュ	はあ……面倒くさい						
+Date_MCHARA_B_04_03ID	6	Antje	アンチュ	まあいいわ。探してるのは専門的なものだから、\n普通の本屋にはない可能性がある						
+Date_MCHARA_B_04_03ID	7	Antje	アンチュ	心当たりがいくつかあるから、\n回ってみるわよ						
+Date_MCHARA_B_04_03ID	8	Valeria	ヴァレリア	ふう、なんとか見つけられたわね。ありがとアンチュ！\nあんたがいなかったら見つからなかったわ！						
+Date_MCHARA_B_04_03ID	9	Valeria	ヴァレリア	さ、お礼におごるわよ。好きなだけ食べてちょうだい！						
+Date_MCHARA_B_04_03ID	10	Valeria	ヴァレリア	……って、一度言ってみたかったのよね、この言葉。\nどう？　かっちょいい？						
+Date_MCHARA_B_04_03ID	11	Antje	アンチュ	……別に。それに礼を言われるほどのこともしてない。\nただ私の本好きが役立っただけ						
+Date_MCHARA_B_04_03ID	12	Valeria	ヴァレリア	本が好きで羨ましい。私は文章を読むのが\nちょっと苦手で、あんまり読まないから						
+Date_MCHARA_B_04_03ID	13	Valeria	ヴァレリア	ねえねえ、どうやったら\n本が好きになれるの？						
+Date_MCHARA_B_04_03ID	14	Antje	アンチュ	別に、嫌いなものは嫌いでいいじゃない。\n無理に好きになる必要なんて、ない						
+Date_MCHARA_B_04_03ID	15	Valeria	ヴァレリア	そう？　好きなものは増やしたいじゃない？\nきっとたくさんあったほうがいいわ						
+Date_MCHARA_B_04_03ID	16	Antje	アンチュ	レスナの博愛主義みたいなことを言うのね。\nそんな調子だといつか痛い目を見るわよ						
+Date_MCHARA_B_04_03ID	17	Valeria	ヴァレリア	でも、あんたもそういうレスナのことが好きでしょ？						
+Date_MCHARA_B_04_03ID	18	Antje	アンチュ	まぁ、気に入りは、したけど						
+Date_MCHARA_B_04_03ID	19	Valeria	ヴァレリア	好きなことは多いに越したことないわ。\nだってそのほうが楽しいじゃない						
+Date_MCHARA_B_04_03ID	20	Antje	アンチュ	……						
+Date_MCHARA_B_04_03ID	21	Antje	アンチュ	（……そっか。どうしてヴァレリアが\n　苦手なのか分かったかもしれない）						
+Date_MCHARA_B_04_03ID	22	Antje	アンチュ	（自分にないものをたくさん持っているからだ）						
+Date_MCHARA_B_04_03ID	23	Antje	アンチュ	（明るくて、人懐っこくて、サバサバしている。\n　私とは正反対の人間）						
+Date_MCHARA_B_04_03ID	24	Valeria	ヴァレリア	……どうかしたの？						
+Date_MCHARA_B_04_03ID	25	Antje	アンチュ	ううん、なんでもないわ						
+Date_MCHARA_B_04_03ID	26	Valeria	ヴァレリア	さあほら、冷めないうちに食べちゃうわよ！						
+Date_MCHARA_B_04_03ID	27	Antje	アンチュ	（私はそれが……羨ましいのかもしれない）						
+Date_MCHARA_B_04_04ID	0	Antje	アンチュ	（ふう、この本も面白かった……。\n　物語は、私を裏切らない）						
+Date_MCHARA_B_04_04ID	1	Valeria	ヴァレリア	なに読んでるの？						
+Date_MCHARA_B_04_04ID	2	Antje	アンチュ	……近い。のぞき込んで来ないで						
+Date_MCHARA_B_04_04ID	3	Valeria	ヴァレリア	いいじゃない。教えてくれても						
+Date_MCHARA_B_04_04ID	4	Antje	アンチュ	本のことを好きになりたいから？						
+Date_MCHARA_B_04_04ID	5	Valeria	ヴァレリア	もちろん。だから色々教えてもらえると\n助かるわ						
+Date_MCHARA_B_04_04ID	6	Antje	アンチュ	（私は貴方のことが好きになれないって\n　言ってるのに、本のためだけにこんなに\n　話しかけてくるなんて……）						
+Date_MCHARA_B_04_04ID	7	Antje	アンチュ	（それとも、それだけの理由じゃない？\n　そうなると……）						
+Date_MCHARA_B_04_04ID	8	Antje	アンチュ	ねえ、貴方もしかして……						
+Date_MCHARA_B_04_04ID	9		選択肢	私に意地悪してるの？						
+Date_MCHARA_B_04_04ID	10	Antje	アンチュ	私に意地悪してるの？						
+Date_MCHARA_B_04_04ID	11	Valeria	ヴァレリア	そんなことしてない。\nどうしてそう思うの？						
+Date_MCHARA_B_04_04ID	12	Antje	アンチュ	私の意地悪のやり返しかと思ったの。\n貴方が好きになれないって言ってるのに、\nやたらと話しかけてくるから						
+Date_MCHARA_B_04_04ID	13	Valeria	ヴァレリア	嫌？						
+Date_MCHARA_B_04_04ID	14	Antje	アンチュ	別に。でも、理由が分からなくて\nモヤモヤするわ						
+Date_MCHARA_B_04_04ID	15		選択肢	私のことが好きなの？						
+Date_MCHARA_B_04_04ID	16	Antje	アンチュ	私のことが好きなの？						
+Date_MCHARA_B_04_04ID	17	Valeria	ヴァレリア	え！？　どうしてそう思うの？						
+Date_MCHARA_B_04_04ID	18	Antje	アンチュ	貴方が好きになれないって言ってるのに、\nやたらと話しかけてくるから						
+Date_MCHARA_B_04_04ID	19	Antje	アンチュ	私のことが好きということじゃないと、\n説明がつかない						
+Date_MCHARA_B_04_04ID	20	Valeria	ヴァレリア	そういうつもりじゃなかったけど……\nでも将来的にはそういうことに\nなるのかもしれない						
+Date_MCHARA_B_04_04ID	21		選択肢	私のことも好きになろうとしてるの？						
+Date_MCHARA_B_04_04ID	22	Antje	アンチュ	もしかして、私のことも好きに\nなろうとしてるの？						
+Date_MCHARA_B_04_04ID	23	Valeria	ヴァレリア	そうね。あんたは私のことを好きに\nなれないって言ってたけど、\n私はあんたのことも好きになりたいから						
+Date_MCHARA_B_04_04ID	24	Antje	アンチュ	どうして……？\nそこまでして貴方になんの得があるの						
+Date_MCHARA_B_04_04ID	25	Antje	アンチュ	貴方が私を好きになっても、\n私は貴方を好きになるとも限らないのに						
+Date_MCHARA_B_04_04ID	26	Valeria	ヴァレリア	それは……分からないけど。\nでも、そのほうがいいと思ったの						
+Date_MCHARA_B_04_04ID	27	Antje	アンチュ	もしかして貴方、\n何かを恐れてるんじゃない？						
+Date_MCHARA_B_04_04ID	28	Valeria	ヴァレリア	恐れてる？						
+Date_MCHARA_B_04_04ID	29	Antje	アンチュ	だからわけ分からないこと言ってるのよ。\n恐怖を打ち消したくて、\n何かをしたくなる						
+Date_MCHARA_B_04_04ID	30	Antje	アンチュ	（もし、何かを恐れてるんだとしたら\n　それはきっと……）						
+Date_MCHARA_B_04_04ID	31		選択肢	また操られてしまうこと						
+Date_MCHARA_B_04_04ID	32	Antje	アンチュ	きっと貴方は、また操られてしまうことを\n恐れているのね						
+Date_MCHARA_B_04_04ID	33	Valeria	ヴァレリア	…………！\nそうかもしれないわ						
+Date_MCHARA_B_04_04ID	34	Valeria	ヴァレリア	もしまた操られたとしても、\nそれは本当の私じゃないんだって……						
+Date_MCHARA_B_04_04ID	35	Valeria	ヴァレリア	本当の私はこうなんだって、\n覚えておいてほしいのかも						
+Date_MCHARA_B_04_04ID	36	Antje	アンチュ	私のことを好きになろうとしているのは、\nきっとその裏返しね						
+Date_MCHARA_B_04_04ID	37	Antje	アンチュ	好きになることで、好きになって\nもらおうと思ったんでしょ						
+Date_MCHARA_B_04_04ID	38	Valeria	ヴァレリア	……ありがとう。自分が何をしたいのかが\n分かった気がするわ						
+Date_MCHARA_B_04_04ID	39		選択肢	自分がホムンクルスであること						
+Date_MCHARA_B_04_04ID	40	Antje	アンチュ	きっと貴方は、自分がホムンクルスである\nことが心配なのね						
+Date_MCHARA_B_04_04ID	41	Valeria	ヴァレリア	うーん……確かにショックはあったけれど、\n心配は特にしてないわ。\n普通の人と変わらずにいられるし						
+Date_MCHARA_B_04_04ID	42	Valeria	ヴァレリア	むしろ頑丈に創ってくれて感謝してるし						
+Date_MCHARA_B_04_04ID	43	Antje	アンチュ	……そう。変なの						
+Date_MCHARA_B_04_04ID	44		選択肢	人から嫌われること						
+Date_MCHARA_B_04_04ID	45	Antje	アンチュ	きっと貴方は、人から嫌われることを\n恐れているのね						
+Date_MCHARA_B_04_04ID	46	Antje	アンチュ	だから好かれようと頑張ってる						
+Date_MCHARA_B_04_04ID	47	Valeria	ヴァレリア	……うーん。そうなのかしら。\nその面もあるかもしれないけれど						
+Date_MCHARA_B_04_04ID	48	Valeria	ヴァレリア	アンチュに好きになれないと言われても、\n辛くはならないし						
+Date_MCHARA_B_04_04ID	49	Antje	アンチュ	（……見当違いだったみたい）						
+Date_MCHARA_B_04_04ID	50	Antje	アンチュ	……なんとなく貴方のことが\n分かったわ						
+Date_MCHARA_B_04_04ID	51	Antje	アンチュ	（こいつに悩みなんてないんじゃないかって\n　ずっと思ってた）						
+Date_MCHARA_B_04_04ID	52	Antje	アンチュ	（お気楽に生きて、私の周りを乱す\n　気に食わない奴だと思ってた）						
+Date_MCHARA_B_04_04ID	53	Antje	アンチュ	（けど一丁前に悩みがある。\n　私と同じ一人の人間だ）						
+Date_MCHARA_B_04_04ID	54	Antje	アンチュ	（だからこいつのこと、少しは好きに\n　なれるかもしれない）						
+Date_MCHARA_B_04_04ID	55	Antje	アンチュ	（でも………）						
+Date_MCHARA_B_04_04ID	56	Antje	アンチュ	ヴァレリア。色々貴方には言ってしまった\nけど、改めて伝えるわ						
+Date_MCHARA_B_04_04ID	57		選択肢	無理しなくていい						
+Date_MCHARA_B_04_04ID	58	Antje	アンチュ	無理に私を好きになる必要はないわ。\n私は貴方が嫌い。\nそれでもいいんじゃない？						
+Date_MCHARA_B_04_04ID	59	Valeria	ヴァレリア	どういうこと？						
+Date_MCHARA_B_04_04ID	60	Antje	アンチュ	だって、それも貴方を強く想う\n一つの形だと思うから						
+Date_MCHARA_B_04_04ID	61	Valeria	ヴァレリア	無理に好きになってもらうよりも、\nそのほうが健全ってことかしら……						
+Date_MCHARA_B_04_04ID	62		選択肢	貴方はこれまで通りでいい						
+Date_MCHARA_B_04_04ID	63	Antje	アンチュ	私と接するときはこれまで通りでいいわ						
+Date_MCHARA_B_04_04ID	64	Valeria	ヴァレリア	本当？　嫌じゃない？						
+Date_MCHARA_B_04_04ID	65	Antje	アンチュ	ちょっとウザいけど、別にいい						
+Date_MCHARA_B_04_04ID	66	Antje	アンチュ	だってそれが、貴方の弱さの証でもあるって\n思えたから						
+Date_MCHARA_B_04_04ID	67	Valeria	ヴァレリア	へ？　それって見たいものなの？						
+Date_MCHARA_B_04_04ID	68	Antje	アンチュ	いいの。それを見せてくれるくらい、\n信じてくれてるってことなんでしょ						
+Date_MCHARA_B_04_04ID	69		選択肢	もっと特訓が必要						
+Date_MCHARA_B_04_04ID	70	Antje	アンチュ	結局のところ、貴方自身が\n乗り越えなくてはいけない恐れよ						
+Date_MCHARA_B_04_04ID	71	Antje	アンチュ	心と身体を特訓すれば、\nその恐れもなくなるんじゃない？						
+Date_MCHARA_B_04_04ID	72	Valeria	ヴァレリア	そうね。それができると良さそうでは\nあるけど……						
+Date_MCHARA_B_04_04ID	73	Antje	アンチュ	結局信じられるのは自分だけ。\n他の人に期待するのは筋違いよ						
+Date_MCHARA_B_04_04ID	74	Valeria	ヴァレリア	……アンチュらしい答えね						
+Date_MCHARA_B_04_04ID	75	Valeria	ヴァレリア	ありがとうアンチュ。\nおかげで大切なことに気付けたわ						
+Date_MCHARA_B_04_04ID	76	Valeria	ヴァレリア	でも、どうして受け入れてくれたの？						
+Date_MCHARA_B_04_04ID	77	Antje	アンチュ	気付いたの。偏見で私を見る人間を\n忌み嫌っておきながら……						
+Date_MCHARA_B_04_04ID	78	Antje	アンチュ	私もあいつらと同じことを\nしていたんだっていうことに						
+Date_MCHARA_B_04_04ID	79	Antje	アンチュ	貴方はそんなこと少しもしなかったのにね						
+Date_MCHARA_B_04_04ID	80	Antje	アンチュ	だから……これからも、今まで通り\nよろしく……ということで						
+Date_MCHARA_B_04_04ID	81	Valeria	ヴァレリア	うん、分かった						
+Date_MCHARA_B_04_04ID	82	Valeria	ヴァレリア	それじゃあ、嫌われるかもしれないけど、\n今後もあんたに絡み続けるわ！						
+Date_MCHARA_B_04_04ID	83	Antje	アンチュ	……節度を持ちなさいよね						
+Date_MCHARA_B_04_04ID	84	Valeria	ヴァレリア	でも、うーん、やっぱりモヤモヤするわ。\nどうすればこの心配は消えるのかしら						
+Date_MCHARA_B_04_04ID	85	Valeria	ヴァレリア	ごめんアンチュ。\n色々話を聞いてもらったけど、\n自分の中で答えは出せなさそうだわ						
+Date_MCHARA_B_04_04ID	86	Antje	アンチュ	……そう						
+Date_MCHARA_B_04_04ID	87	Antje	アンチュ	（どうやら力になれなかったみたい）						
+Date_MCHARA_B_04_04ID	88	Antje	アンチュ	（……もう少しで、ヴァレリアのことが\n　分かる気がしたのに）						
+Date_MCHARA_B_04_05ID	0	Valeria	ヴァレリア	あ。いたいた。アーンチュ！						
+Date_MCHARA_B_04_05ID	1	Antje	アンチュ	げ						
+Date_MCHARA_B_04_05ID	2	Valeria	ヴァレリア	げ、ってなによ。げ、って						
+Date_MCHARA_B_04_05ID	3	Antje	アンチュ	うるさいのが来た……						
+Date_MCHARA_B_04_05ID	4	Valeria	ヴァレリア	なーに読んでるの？						
+Date_MCHARA_B_04_05ID	5	Antje	アンチュ	なんでもいいでしょ……どうせ貴方は読まないんだから						
+Date_MCHARA_B_04_05ID	6	Valeria	ヴァレリア	読む！　読むから教えて！\nアンチュが熱く語ってくれることで興味を持つかも！						
+Date_MCHARA_B_04_05ID	7	Antje	アンチュ	……そう言って、前薦めたものは読んでくれなかった。\n私、忘れないから						
+Date_MCHARA_B_04_05ID	8	Valeria	ヴァレリア	う……あれはちょっと難しくて。\nもっと簡単なものならいけるわ						
+Date_MCHARA_B_04_05ID	9	Antje	アンチュ	本当かしら						
+Date_MCHARA_B_04_05ID	10	Valeria	ヴァレリア	教えてくれるまでここから離れないから！						
+Date_MCHARA_B_04_05ID	11	Antje	アンチュ	ルアッカ、助けて						
+Date_MCHARA_B_04_05ID	12	RUAKKA	ルアッカ	だ、ダメだ……ガッチリ頭を膝で押さえつけてやがる。\nオラ、動けねぇぞ……						
+Date_MCHARA_B_04_05ID	13	Antje	アンチュ	ぐ……し、しょうがないわね						
+Date_MCHARA_B_04_05ID	14	Antje	アンチュ	これは、ある金持ちの屋敷に入った盗賊が\n不思議な体験をするお話で……						
+Date_MCHARA_B_04_05ID	15	Izana	イザナ	ヴァレリアとアンチュ、\nなんだかすごく仲良くなったね						
+Date_MCHARA_B_04_05ID	16	Resna	レスナ	仲良くなった？　のかなあ、あれは。\n言い争ってるようにも見えるけど……						
+Date_MCHARA_B_04_05ID	17	Izana	イザナ	あれは仲良くなったんだよ。\nケンカするほど仲がいいっていうしね！						

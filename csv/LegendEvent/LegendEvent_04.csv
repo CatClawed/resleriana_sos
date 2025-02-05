@@ -1,0 +1,378 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+LegendEvent_04_001ID	0	Totori	トトリ	ふぅ……温まるー。なんだかホッとするなぁ。\nこういう日は、温かい飲み物に限りますね！	Totori	Ahhh... This is perfect. Just what I needed to feel cozy. Warm drinks really are the best on chilly days!	托托莉	呼……好暖和。感觉心情也放松了。\n这种日子就是要喝热乎乎的饮料嘛！	托托莉	呼……好暖和喔～總覺得很安心呢。\n在這種日子，果然就該喝暖呼呼的飲料！
+LegendEvent_04_001ID	1	Rorona	ロロナ	うん。最近急に冷え込んで、\n寒く感じる日が増えてきたもんねー	Rorona	You've got that right. The temperature dropped so fast, it's feeling colder and colder these days!	萝乐娜	是啊，因为最近突然降温，经常觉得好冷啊。	蘿樂娜	嗯，最近天氣突然變冷，\n感覺有些寒意的日子越來越多了呢～
+LegendEvent_04_001ID	2	Totori	トトリ	ランターナは、時期によってはこれくらい\n冷え込む日もあるということでしょうか	Totori	I wonder if Lantarna gets as cold as this throughout the year, too.	托托莉	看来在兰塔纳，有时也会有这样的严寒天气啊。	托托莉	蘭塔納也會在某些時期\n出現這麼冷的日子嗎？
+LegendEvent_04_001ID	3	Rorona	ロロナ	どうだろ……。街の人はあんまり\nそういうこと話してなかったけど	Rorona	I'm not sure... I haven't really heard the townspeople talk about this kind of weather before.	萝乐娜	不清楚……在城镇里没听居民们提到过这个。	蘿樂娜	不知道耶……城鎮的居民\n都不太會提到這類的話題。
+LegendEvent_04_001ID	4	Totori	トトリ	そういえばロロナ先生。\n王都では雪が降ったそうですよ	Totori	Actually, Teacher, I heard that it snowed in the capital!	托托莉	对了，萝乐娜老师，王都好像下雪了。	托托莉	說到這個，蘿樂娜老師。\n聽說王都那邊下雪了喔。
+LegendEvent_04_001ID	5	Rorona	ロロナ	へぇ……雪かぁ。どれくらい降ったんだろう？	Rorona	Really? How much snow did they get?	萝乐娜	哇……下雪了？下得大吗？	蘿樂娜	哦……下雪啊。大概下多少了呢？
+LegendEvent_04_001ID	6	Totori	トトリ	それはもう、一面の銀世界になったって話です	Totori	Enough to blanket everything in sight!	托托莉	说是已经一片银装素裹了。	托托莉	這個嘛，聽說都成了一片銀白世界。
+LegendEvent_04_001ID	7	Rorona	ロロナ	ええっ。そんなに積もったの！？\nそれじゃあ寒いわけだね……	Rorona	Wow! That much, huh? No wonder it's cold!	萝乐娜	咦！居然能积成那样？！\n看来天是真的很冷……	蘿樂娜	咦咦？積了這麼多雪啊！？\n難怪會很冷……
+LegendEvent_04_001ID	8	Totori	トトリ	はい。このアトリエは大体、室温が\n安定していますけど……	Totori	Well, the atelier's temperature is always pretty stable on the inside.	托托莉	是啊。这个炼金工房的室温通常都很稳定……	托托莉	是的，雖然這間鍊金工房\n大致上都會維持在一定的室溫……
+LegendEvent_04_001ID	9	Totori	トトリ	王都がそんな様子なら、少し寒く感じても\n仕方ないですねぇ……	Totori	But since the capital is covered in snow, that must make it feel at least a little bit chillier around here.	托托莉	但王都都那样了，\n这里感觉有点冷可能也很正常吧……	托托莉	但王都是那種天氣的話，會感到有點冷\n也是沒辦法的事情……
+LegendEvent_04_001ID	10	Rorona	ロロナ	ごくごく……そうだねぇ……。\nでも、一面に雪が積もった王都、綺麗だろうなぁ！	Rorona	*Gulp* Yeah... But just think of how pretty the capital must look covered in snow!	萝乐娜	咕咚咕咚……是啊……\n不过披上银装的王都一定非常漂亮！	蘿樂娜	（咕嚕咕嚕……）就是說啊……\n不過，一片積雪的王都應該很漂亮吧！
+LegendEvent_04_001ID	11	Totori	トトリ	そうですね。王都に雪が降るって珍しいらしくて、\nみんな外に出て、それははしゃいでいるそうですよ	Totori	It must be beautiful. Since snow is pretty rare there, I've heard that everyone is out and about playing outside.	托托莉	是啊。王都似乎很少下雪，\n所以现在许多人都走出了家门，街上热闹非凡呢。	托托莉	對呀，王都似乎很難得下雪，\n聽說大家都興奮地跑到外頭玩鬧了呢。
+LegendEvent_04_001ID	12	Rorona	ロロナ	わぁ、楽しそう！　ねぇ、トトリちゃん。\nわたしたちも見に行こうよ！	Rorona	Oh, how fun! Totori, why don't we go and see for ourselves?	萝乐娜	哇，听上去好开心！\n托托莉，我们也去看看吧！	蘿樂娜	哇，感覺真好玩！我說啊，托托莉。\n我們也去看看嘛！
+LegendEvent_04_001ID	13	Totori	トトリ	いいですね……そうだ。\nせっかくなので、オシャレをして行きましょう！	Totori	Good thinking. And since it's not every day that we get a chance like this, why don't we dress up, too?	托托莉	好像不错……对了，\n难得去一次，我们穿得漂漂亮亮地去吧！	托托莉	好主意……對了。\n機會難得，我們打扮一番再去吧！
+LegendEvent_04_001ID	14	Rorona	ロロナ	さんせーい！	Rorona	Ooh, yeah!	萝乐娜	我同意！	蘿樂娜	我贊成～！
+LegendEvent_04_001ID	15	Totooria Helmold	トトゥーリア・ヘルモルト	通称「トトリ」。ロロナの弟子にあたる錬金術士。\n落ち着いた性格だが、無自覚に毒を吐いてしまうことも	Totooria Helmold	"An apprentice alchemist studying under Rorona. Also known as ""Totori."" Though calm and collected, her tongue is unintentionally sharp at times."	托托莉亚·赫尔默德	通称“托托莉”。是一名炼金术士，萝乐娜的徒弟。\n性格沉稳，但有时会不自觉地毒舌。	托托莉亞‧赫爾默德	通稱「托托莉」，拜蘿樂娜為師的鍊金術士。\n性格沉穩，但有時會不自覺講出尖銳的話。
+LegendEvent_04_001ID	16	Rorolina Frixell	ロロライナ・フリクセル	通称「ロロナ」。アーランド王国出身の錬金術士。\nちょっと天然なところもあるが、明るく元気な性格	Rorolina Frixell	"An alchemist who goes by ""Rorona"" and hails from the Kingdom of Arland. Though she can be a bit of an airhead at times, she's cheerful and lively."	萝乐莱娜·菲立克塞尔	通称“萝乐娜”，出身于亚兰德王国的炼金术士。\n有些少根筋，但性格开朗阳光。	蘿樂萊娜‧菲立克塞爾	通稱「蘿樂娜」，亞蘭德王國出身的鍊金術士。\n有時少根筋，但個性開朗有活力。
+LegendEvent_04_002ID	0	Totori	トトリ	ロロナ先生、寒くないですか？	Totori	Teacher, aren't you cold?	托托莉	萝乐娜老师，你不冷吗？	托托莉	蘿樂娜老師，妳不冷嗎？
+LegendEvent_04_002ID	1	Rorona	ロロナ	あったかい格好だから大丈夫！\nトトリちゃんは平気？	Rorona	I'm dressed for the weather, so I feel fine! Are you all right?	萝乐娜	不用担心，我穿得很暖！\n托托莉你呢？	蘿樂娜	我這一身很暖和，不用擔心！\n倒是托托莉妳沒問題嗎？
+LegendEvent_04_002ID	2	Totori	トトリ	わたしも暖かいので大丈夫ですよ。\nえへへ、オシャレしてきて正解ですね	Totori	I'm okay, I feel nice and warm. Hehe, we were right to dress for the occasion!	托托莉	我也很暖和。\n嘿嘿，出来前精心穿搭过真是太对了。	托托莉	我也很暖和，不用擔心喔。\n嘿嘿，打扮後再過來是正確的決定呢。
+LegendEvent_04_002ID	3	Rorona	ロロナ	うん、そうだね。\nトトリちゃん、すっごく似合ってるもん！	Rorona	Yeah, I'm so glad we did. Plus, those clothes look great on you, Totori!	萝乐娜	是啊是啊。\n托托莉穿这身真好看！	蘿樂娜	嗯，對呀。\n這身打扮超適合托托莉的！
+LegendEvent_04_002ID	4	Totori	トトリ	ありがとうございます。\nロロナ先生だって、とても似合っててかわいいですよ！	Totori	Oh, thank you! You look downright adorable yourself!	托托莉	谢谢夸奖！\n萝乐娜老师也是，这身衣服超级可爱，非常合适你！	托托莉	謝謝讚美。\n蘿樂娜老師也穿起來非常適合，很可愛喔！
+LegendEvent_04_002ID	5	Rorona	ロロナ	やったぁ。今日は目いっぱい楽しもうね！	Rorona	Woohoo! Let's make the most of this snow day!	萝乐娜	那就太好了。今天要好好开心一下哦！	蘿樂娜	太好了～今天要好好玩個痛快喔！
+LegendEvent_04_002ID	6	Totori	トトリ	はい！　……それにしても	Totori	Yay! But still...	托托莉	好！不过……	托托莉	好！話說回來……
+LegendEvent_04_002ID	7	Totori	トトリ	話に聞いていた通り、見事な雪景色ですね……	Totori	It's just as gorgeous as I'd heard.	托托莉	真是和听说的一样，这雪景太漂亮了……	托托莉	這雪景跟傳聞中一樣，好漂亮喔……
+LegendEvent_04_002ID	8	Rorona	ロロナ	うん、ほんと素敵だね。あ、トトリちゃん、見て！	Rorona	It really is beautiful... Oh, Totori! Look!	萝乐娜	嗯，真棒啊。哎呀，托托莉你看！	蘿樂娜	嗯，真的很美呢。啊，托托莉，妳看！
+LegendEvent_04_002ID	9		男の子Ａ	それー！	Boy A	Take that!	男孩A	嘿！	男孩A	看招～！
+LegendEvent_04_002ID	10		女の子Ａ	きゃぁっ！	Girl A	Eeek!	女孩A	呀！	女孩A	呀啊！
+LegendEvent_04_002ID	11		男の子Ｂ	へへっ、当たらないぞー！　えーいっ！	Boy B	Heheh, you won't get me! Yaaah!	男孩B	嘻嘻，你打不到我！接招！	男孩B	嘿嘿，你打不中的～！喝啊～！
+LegendEvent_04_002ID	12		おじさん	うわっ、こら！　こっちに飛んできたぞ！	Old Man	Whoa, watch it! You almost hit me!	叔叔	哇，当心点！差点打到我了！	叔叔	哇啊，小鬼們！丟到我這邊來囉！
+LegendEvent_04_002ID	13		男の子Ａ	わぁ！　ごめんなさーいっ！	Boy A	Uh-oh! Sorryyy!	男孩A	哇啊！对不起！	男孩A	哇！對不起～！
+LegendEvent_04_002ID	14	Totori	トトリ	ふふ、子どもたちが雪合戦してる	Totori	Hehe, those kids are having a snowball fight.	托托莉	呵呵，孩子们在打雪仗呢。	托托莉	嘻嘻，孩子們在打雪仗呢。
+LegendEvent_04_002ID	15		おじさん	はぁ……それにしても積もったなぁ……\nお前ら、転ばないように気を付けろよ～	Old Man	My, my. The snow really piled up. Careful, now! Don't slip and fall!	叔叔	真是的……不过这雪积得还真厚……\n你们小心别滑倒了啊。	叔叔	唉……不過這積雪還真是厚啊……\n你們幾個要小心點，可別摔跤了啊～
+LegendEvent_04_002ID	16		男の子Ｂ	はーい！　みんな、あっちで投げよーぜ！	Boy B	C'mon, everyone! Ready, aim, fire!	男孩B	知道啦！我们去那边打吧！	男孩B	知道了～！我們去那邊丟吧～！
+LegendEvent_04_002ID	17		男の子Ａ	よーし！	Boy A	Let's gooo!	男孩A	好！	男孩A	好～！
+LegendEvent_04_002ID	18	Rorona	ロロナ	なんだか楽しそうだなぁ。\nそれじゃあ、わたしも……	Rorona	That looks like a lot of fun. I can't help myself...	萝乐娜	他们玩得好开心啊。\n好，我也来……	蘿樂娜	他們看起來好開心喔。\n那我也要……
+LegendEvent_04_002ID	19	Rorona	ロロナ	トトリちゃん、覚悟ーっ！	Rorona	I've got you now, Totori!	萝乐娜	托托莉，接招！	蘿樂娜	托托莉，準備接招吧～！
+LegendEvent_04_002ID	20	Totori	トトリ	わっ……やりましたねー！	Totori	Oh... Now you're really in for it!	托托莉	哇……你扔我～！	托托莉	哇……妳竟然丟我～！
+LegendEvent_04_002ID	21	Rorona	ロロナ	ひゃぁっ！　やったなー！？	Rorona	Ahhh! Now you've done it!	萝乐娜	呀！你也来？！	蘿樂娜	呀啊！妳很會嘛～！？
+LegendEvent_04_002ID	22	Rorona	ロロナ	あはははっ！　楽しーい！	Rorona	Ahaha, this is so much fun!	萝乐娜	哈哈哈！好有意思！	蘿樂娜	啊哈哈哈！真好玩～！
+LegendEvent_04_002ID	23	Totori	トトリ	あはは！　もっと行きますよー！	Totori	Haha! It's not over yet!	托托莉	哈哈哈！再来再来！	托托莉	啊哈哈！我要繼續丟囉～！
+LegendEvent_04_002ID	24	Totori	トトリ	えへへ、こんなにはしゃいだの、久しぶりです	Totori	Heheh. It's been a long time since I've let loose like this.	托托莉	嘿嘿，好久都没有这样疯闹了。	托托莉	嘿嘿，好久沒這樣大肆玩鬧了。
+LegendEvent_04_002ID	25	Rorona	ロロナ	よーし！　他の場所も見て回ろうよ！	Rorona	There's more fun to be had! Let's check out some other places too!	萝乐娜	好了！我们再去别的地方转转吧！	蘿樂娜	好～！我們也去其他地方逛逛吧！
+LegendEvent_04_002ID	26	Totori	トトリ	はい！　きっと綺麗ですよ！	Totori	Okay! Everything's bound to be beautiful.	托托莉	好的！哪里应该都很漂亮！	托托莉	好的！一定會很漂亮！
+LegendEvent_04_003ID	0	Totori	トトリ	あれ？　やっぱり王都では雪が降ってますね？	Totori	Hm? Is it only snowing in the capital?	托托莉	嗯？王都明明下着雪吧？	托托莉	奇怪？果然只有王都那邊下著雪？
+LegendEvent_04_003ID	1	Rorona	ロロナ	えー。でも王都の外はぜんぜん積もってなかったよね？\nなんでだろ……？	Rorona	Weird, you're right. Once you leave the capital, there's no snow on the ground at all. I wonder why.	萝乐娜	怎么王都外面一点都没积起来？\n好奇怪啊……？	蘿樂娜	咦～但王都外圍完全沒有積雪耶？\n怎麼會這樣呢……？
+LegendEvent_04_003ID	2	Totori	トトリ	王都だけ雪が降ってるなんて、不思議ですね	Totori	It is strange that the snow is only piling up here.	托托莉	居然只有王都在下雪，这太不可思议了。	托托莉	只有王都下雪真不可思議呢。
+LegendEvent_04_003ID	3	Rorona	ロロナ	あれ？　あそこにいるの、メルルちゃんだ！	Rorona	Huh? Look over there! It's Meruru!	萝乐娜	咦？看那边，是梅露露！	蘿樂娜	咦？在那邊的人……是梅露露！
+LegendEvent_04_003ID	4	Meruru	メルル	じゃあ、どっちに行ったか分からないんだね	Meruru	So you don't know which way she went?	梅露露	就是说你不知道妈妈去了哪里对吧。	梅露露	所以妳不知道去了哪裡呀。
+LegendEvent_04_003ID	5		少女	…………	Girl	...	少女	……	少女	…………
+LegendEvent_04_003ID	6	Rorona	ロロナ	おーい！　メルルちゃーん！	Rorona	Heeey! Meruru!	萝乐娜	喂——！梅露露！	蘿樂娜	喂～！梅露露～！
+LegendEvent_04_003ID	7	Meruru	メルル	あ！　ロロナさんにトトリ先生じゃないですか！	Meruru	Oh! Miss Rorona! And Miss Totori!	梅露露	啊！这不是萝乐娜小姐和托托莉老师吗？	梅露露	啊！這不是蘿樂娜小姐和托托莉老師嗎！
+LegendEvent_04_003ID	8	Totori	トトリ	……この子は？　何かあったの？	Totori	Oh, who's this little one? Did something happen?	托托莉	这孩子是谁啊？出什么事了吗？	托托莉	……這孩子是？發生什麼事了嗎？
+LegendEvent_04_003ID	9	Meruru	メルル	えっと、お母さんとはぐれて道に迷ったみたいで	Meruru	It seems she and her mother got separated.	梅露露	嗯，她好像和妈妈走散了，然后又迷了路。	梅露露	是這樣的，她好像跟媽媽走散，現在迷路了。
+LegendEvent_04_003ID	10	Rorona	ロロナ	ええっ、それは大変だよ！　\nねぇ、どこでどんな風にはぐれちゃったの？	Rorona	Oh no! Hey there. Can you tell us where you lost track of your mother?	萝乐娜	哎呀，那可不得了！\n你还记得是在哪里怎么和你妈妈走散的吗？	蘿樂娜	什麼，那可真是糟糕！我問妳喔，\n妳是在哪裡走散，又是怎麼跟媽媽走散的呢？
+LegendEvent_04_003ID	11		少女	…………\nあっち……	Girl	...Over there.	少女	……\n那边……	少女	…………\n那裡……
+LegendEvent_04_003ID	12	Totori	トトリ	あっち？	Totori	That way?	托托莉	那边？	托托莉	那裡？
+LegendEvent_04_003ID	13	Totori	トトリ	はぐれた時、近くに何があったか覚えてる？	Totori	When you first got separated, do you remember anything about where you were?	托托莉	走散的时候，记不记得附近有什么？	托托莉	妳記得走散的時候附近有什麼嗎？
+LegendEvent_04_003ID	14		少女	う……	Girl	Um...	少女	呜……	少女	唔……
+LegendEvent_04_003ID	15	Meruru	メルル	この子、王都は初めて来たそうなんです	Meruru	She told me that it's her first time visiting the capital.	梅露露	这孩子好像是第一次来王都。	梅露露	這孩子說她是第一次來到王都。
+LegendEvent_04_003ID	16	Totori	トトリ	それじゃ余計、心細いよね	Totori	Then she must be terrified to be alone like this.	托托莉	这样啊，那她现在肯定特别害怕。	托托莉	那更會感到不安呢。
+LegendEvent_04_003ID	17	Rorona	ロロナ	じゃあさ、わたしたちでお母さんを探してあげようよ！	Rorona	You know what, little one? Why don't we help you look for your mother?	萝乐娜	不如我们来帮她找妈妈吧！	蘿樂娜	這樣好了，我們來幫妳找媽媽吧！
+LegendEvent_04_003ID	18		少女	え……	Girl	Huh...?	少女	咦……	少女	咦……
+LegendEvent_04_003ID	19	Meruru	メルル	そうですね！　ロロナさんとトトリ先生がよければ\nそれが一番ですよ！	Meruru	Yeah! With Miss Rorona and Miss Totori on our side, everything will be all right!	梅露露	好主意！如果萝乐娜小姐和托托莉老师愿意帮忙，\n这应该是最好的办法！	梅露露	說得沒錯！蘿樂娜小姐和托托莉老師方便的話，\n這是最好的辦法呢！
+LegendEvent_04_003ID	20	Totori	トトリ	わたしたちもそんなに王都に詳しいわけじゃないけど、\nある程度なら分かるから、一緒にお母さんを探そう？	Totori	We're not too familiar with the capital either. But we do know a little bit, so we can all search for your mother together!	托托莉	我们虽然对王都也没有那么熟，\n但多少了解一点，我们陪你找妈妈好不好？	托托莉	雖然我們對王都也不是很熟悉，\n但還是有一定的了解，跟我們一起去找媽媽吧？
+LegendEvent_04_003ID	21		少女	え、ええと……うん。ありがと……	Girl	Umm... Okay. Thank you.	少女	这、这……嗯，谢谢……	少女	這、這個……嗯，謝謝……
+LegendEvent_04_003ID	22	Rorona	ロロナ	決まりだね！	Rorona	Then it's settled!	萝乐娜	那就这么决定了！	蘿樂娜	就這麼決定囉！
+LegendEvent_04_003ID	23	Merurulince Rede Arls	メルルリンス・レーデ・アールズ	通称「メルル」。トトリの弟子にあたる錬金術士。\n元お姫様だが、明るく積極的な性格をしている	Merurulince Rede Arls	"A budding alchemist called ""Meruru"" who is studying under Totori's tutelage. Though she was once a princess, she is warm and friendly toward everyone she meets."	梅露露琳丝·蕾蒂·亚尔兹	通称“梅露露”。是一名炼金术士，托托莉的徒弟。\n原本贵为公主，但性格开朗又乐观。	梅露露琳絲‧蕾蒂‧亞爾茲	通稱「梅露露」，拜托托莉為師的鍊金術士。\n原本是位公主，有著開朗積極的性格。
+LegendEvent_04_004ID	0	Rorona	ロロナ	あのう！　この子のお母さんを見ませんでしたか？	Rorona	Umm, hello! Have you seen this little girl's mother around here?	萝乐娜	你好！请问你见过这孩子的妈妈吗？	蘿樂娜	請問一下！您有看到這個孩子的媽媽嗎？
+LegendEvent_04_004ID	1		女性Ａ	あら、迷子？　可哀そうだけど分からないわねぇ	Woman A	Oh, is she lost? I'm sorry, I haven't seen anyone.	女性A	哎呀，迷路了吗？我很想帮忙，但可惜我没见过。	女性A	哎呀，迷路了？好可憐啊，可是我沒看到她媽媽呢。
+LegendEvent_04_004ID	2	Totori	トトリ	すみません。この子と一緒にいた女の人を\n知りませんか？	Totori	Excuse me. Do you happen to know where this child's mother might be?	托托莉	不好意思，请问有没有见过\n之前和这孩子在一起的女性呢？	托托莉	不好意思，請問妳有看過\n跟這個孩子走在一起的女性嗎？
+LegendEvent_04_004ID	3		おじいさん	いやぁ、見なかったねぇ	Old Man	No, can't say that I do...	老爷爷	没有，我没见过。	老爺爺	不曉得，沒看過呢。
+LegendEvent_04_004ID	4		少女	…………	Girl	...	少女	……	少女	…………
+LegendEvent_04_004ID	5	Meruru	メルル	うーん。なかなか手掛かりが掴めませんね	Meruru	Hmm... We don't have much to go on, do we?	梅露露	唔……找不到什么线索啊。	梅露露	唔～怎麼找都找不到線索耶。
+LegendEvent_04_004ID	6	Totori	トトリ	王都はただでさえ人が多いもんね……	Totori	It's even harder since there are so many people in the capital...	托托莉	王都本来人就很多……	托托莉	畢竟王都本來就人口眾多……
+LegendEvent_04_004ID	7	Rorona	ロロナ	はぁ……こんな時ステルクさんがいてくれたらなぁ……	Rorona	*Sigh* If only Sterk were here...	萝乐娜	唉……这时候要是有史特尔克先生在……	蘿樂娜	唉……要是這時候史特爾克先生在的話就好了……
+LegendEvent_04_004ID	8	Sterk	ステルク	おや、君たち。皆で雪の王都観光といったところか？	Sterk	Oh, hey. You're all here. Are you in town to see the snow?	史特尔克	哎呀，各位是来王都赏雪景的吗？	史特爾克	喔，妳們幾個是一起來下雪的王都觀光嗎？
+LegendEvent_04_004ID	9	Rorona	ロロナ	ス、ステルクさん！？	Rorona	S-Sterk?!	萝乐娜	史、史特尔克先生？！	蘿樂娜	史、史特爾克先生！？
+LegendEvent_04_004ID	10	Sterk	ステルク	まさか君たちと、ここで出会えるとはな	Sterk	It's quite a surprise to run into all of you here.	史特尔克	没想到会在这里见到你们。	史特爾克	沒想到會在這裡遇見妳們呢。
+LegendEvent_04_004ID	11	Rorona	ロロナ	えへへ……はいっ！\nステルクさんもこの世界に来てたんですね！	Rorona	Hehe, likewise! You came to this world too?	萝乐娜	呵呵……是啊！\n原来史特尔克先生也来到了这个世界！	蘿樂娜	嘿嘿……是的！\n史特爾克先生也來到這個世界了呀！
+LegendEvent_04_004ID	12	Sterk	ステルク	ああ。少し前にな。魔物を倒したりしている\nうちに、ここ王都にたどり着いたわけだが……	Sterk	Yeah, a little while ago. I was out hunting monsters when suddenly, I ended up here.	史特尔克	是啊，不久前，我在讨伐魔物时，\n不知不觉就走到了这座王都……	史特爾克	對，不久前來的。我一路消滅魔物，\n就這樣來到了王都這裡……
+LegendEvent_04_004ID	13	Sterk	ステルク	その少女は？	Sterk	And who is this young lady?	史特尔克	那个女孩是？	史特爾克	這位少女是？
+LegendEvent_04_004ID	14	Meruru	メルル	迷子なんです。初めて王都に来て、\nお母さんとはぐれちゃったらしくて	Meruru	She's lost. It's her first trip to the capital, but she got separated from her mother.	梅露露	这孩子迷路了。她好像是第一次来王都，\n在路上和妈妈走散了。	梅露露	她迷路了。好像是第一次來王都，\n結果跟媽媽走散了。
+LegendEvent_04_004ID	15		少女	…………	Girl	...	少女	……	少女	…………
+LegendEvent_04_004ID	16	Rorona	ロロナ	この人はね、ステルクさんっていって、\nとっても頼もしい騎士様なんだよ	Rorona	This man here is named Sterk. He's a big, strong knight!	萝乐娜	这位是史特尔克先生，\n他是一位很可靠的骑士。	蘿樂娜	這個人叫做史特爾克先生，\n是個非常靠得住的騎士喔。
+LegendEvent_04_004ID	17	Sterk	ステルク	ステルケンブルク・クラナッハだ。\nそういうことなら、私も協力しよう	Sterk	My name is Sterkenburg Cranach. I'm here to help in any way I can.	史特尔克	我是史特尔肯布鲁克·库拉哈。\n情况了解了，我也来一起找吧。	史特爾克	我是史特爾肯布魯克‧庫拉哈。\n既然如此，那我也來幫忙吧。
+LegendEvent_04_004ID	18	Rorona	ロロナ	わぁ！　ステルクさんが一緒なら、きっとすぐに\nお母さんも見つかると思います！	Rorona	Great! Now that Sterk is here, I bet we'll find your mother in no time!	萝乐娜	太好了！有史特尔克先生在，\n一定很快就能找到她的妈妈！	蘿樂娜	哇！有史特爾克先生在的話，\n一定很快就能找到媽媽的！
+LegendEvent_04_004ID	19		男性	いや、迷子を探してるって話はまったく聞かないねぇ	Man	Sorry, I haven't heard anything about someone looking for a lost girl.	男人	很遗憾，我完全没听说有人在找走散的孩子。	男性	可是，我完全沒聽說有人在找迷路的小孩耶。
+LegendEvent_04_004ID	20		おばあさん	おや、迷子かい？　可哀そうに。\nだけど、あたしも何も知らなくてねぇ……	Old Woman	A lost little girl? Poor thing. But I'm afraid I don't have any information that could help...	老奶奶	哎呀，是迷路了吗？真可怜。\n不过我什么都不清楚……	老婆婆	哎呀，孩子迷路了嗎？真是可憐。\n不過，我也沒有任何頭緒……
+LegendEvent_04_004ID	21		女性Ｂ	皆に聞いてみたけど、この子と一緒にいた女の人は\n誰も見ていないらしいのよ	Woman B	I asked around, but it sounds like no one saw the woman who was with this little girl.	女性B	我向大家也打听过了，\n但谁都没见过和这孩子在一起的女性。	女性B	我去問過所有人了，好像誰都沒見過\n跟這個孩子在一起的女性。
+LegendEvent_04_004ID	22	Sterk	ステルク	すまない。手間を取らせたな	Sterk	Thank you. I'm sorry for the trouble.	史特尔克	抱歉，给你添麻烦了。	史特爾克	抱歉，讓妳費了不少工夫。
+LegendEvent_04_004ID	23	Meruru	メルル	はぁ……見つかりませんね……	Meruru	*Sigh* We just can't find her...	梅露露	唉……找不到啊……	梅露露	唉……完全找不到呢……
+LegendEvent_04_004ID	24	Sterk	ステルク	手掛かりすら掴めないとは……不甲斐なくてすまない	Sterk	After all this, we don't have a single clue... I'm sorry that I haven't been of any help.	史特尔克	竟然连线索都找不到……抱歉，是我太没用了。	史特爾克	沒想到連一點線索都沒有……抱歉，沒能幫上什麼忙。
+LegendEvent_04_004ID	25	Rorona	ロロナ	し、仕方ないですよ！	Rorona	No, it's not your fault!	萝乐娜	不、不是你的错啦！	蘿樂娜	這、這也沒辦法呀！
+LegendEvent_04_004ID	26	Rorona	ロロナ	ねぇ。迷子になった時のこと、もう１回思い出して\nみてくれる？　何か忘れてることがあるかも	Rorona	Hey, little one. Can you try and think back to when you first got separated from your mother? Maybe you'll remember something.	萝乐娜	小妹妹，能再想一想走散时的情况吗？\n说不定能想起新的线索呢。	蘿樂娜	不好意思，妳可以再回想一次\n迷路當時的事情嗎？或許妳忘了什麼也說不定。
+LegendEvent_04_004ID	27		少女	…………	Girl	...	少女	……	少女	…………
+LegendEvent_04_004ID	28	Sterk	ステルク	随分しゃべらないが、\n彼女は具合でも悪いのだろうか？	Sterk	She's awfully quiet. Maybe she's feeling sick.	史特尔克	她都不说话，是不是身体不舒服？	史特爾克	她一直不說話，\n是不是身體哪裡不舒服？
+LegendEvent_04_004ID	29	Rorona	ロロナ	えっと、お母さんとはぐれて、心細いんだと思います	Rorona	Well, I think she's just scared without her mom.	萝乐娜	大概是和妈妈走散了很害怕吧。	蘿樂娜	應該是跟媽媽走散了，感到很不安吧。
+LegendEvent_04_004ID	30	Sterk	ステルク	無理もないか。しかし、弱ったな	Sterk	That's understandable. But we're in a real bind.	史特尔克	也有这种可能。可这就不好办了。	史特爾克	那也難怪。不過，這下難辦了呢。
+LegendEvent_04_004ID	31	Totori	トトリ	そうだ。こんな時はカフェに行きませんか？\nきっと情報が集まると思うんです	Totori	I've got an idea! How about we stop by the cafe? They're bound to have some helpful information.	托托莉	对了，要不要去咖啡厅问问看？\n因为各种消息应该都会汇集到那里。	托托莉	對了，這種時候要不要去一趟咖啡廳？\n那裡一定有很多消息。
+LegendEvent_04_004ID	32	Meruru	メルル	そうですね！　何か手掛かりが掴めるかも	Meruru	It's worth a try! We might be able to find a hint there.	梅露露	有道理！去那里说不定能找到些线索。	梅露露	說得也是！或許能掌握到什麼線索。
+LegendEvent_04_004ID	33	Sterkenburg Cranach	ステルケンブルク・クラナッハ	通称「ステルク」。騎士として誇り高い人物。\nロロナ・トトリ・メルルの全員と交流がある	Sterkenburg Cranach	"A proud knight with the nickname ""Sterk."" He has crossed paths with Rorona, Totori, and Meruru throughout their adventures."	史特尔肯布鲁克·库拉哈	通称“史特尔克”。是位品格高尚的骑士。\n和萝乐娜、托托莉和梅露露都熟识。	史特爾肯布魯克‧庫拉哈	通稱「史特爾克」，具有強烈榮譽感的騎士。\n與蘿樂娜、托托莉及梅露露都有來往。
+LegendEvent_04_005ID	0	Ryza	ライザ	はい！　雪かきの依頼ですね！　これで承りました！	Ryza	Right! Someone to help you clear away some snow? Thank you, I'll record your request right away.	莱莎	知道了！是要委托扫雪对吧！我们就承接了！	萊莎	好的！要委託剷雪是吧！已受理您的委託！
+LegendEvent_04_005ID	1	Rorona	ロロナ	ライザさーん！	Rorona	Ryzaaa!	萝乐娜	莱莎小姐！	蘿樂娜	萊莎小姐～！
+LegendEvent_04_005ID	2	Ryza	ライザ	あ、ロロナ！　ちょっと待ってて！\nはい、次の方どうぞ！	Ryza	Oh, Rorona! Sorry, give me a moment! I can help the next customer now!	莱莎	啊，萝乐娜！稍等一下哦！\n下一位客人，请！	萊莎	啊，蘿樂娜！妳等一下喔！\n好，下一位請過來！
+LegendEvent_04_005ID	3	Meruru	メルル	うわぁ、忙しそう……	Meruru	Wow, things sure look busy...	梅露露	哇，咖啡厅好像很忙……	梅露露	哇啊，感覺好忙……
+LegendEvent_04_005ID	4	Totori	トトリ	急に雪が降ったから、依頼がどっと来てるみたいだね	Totori	Looks like there's a flood of requests coming in with the sudden snow!	托托莉	看来是因为突然下大雪，委托一下子就多起来了吧。	托托莉	好像是因為突然下雪的緣故，有不少委託上門呢。
+LegendEvent_04_005ID	5	Ryza	ライザ	傷薬の依頼と、こっちは温かい飲み物の依頼……っと。\nふぅ……ロロナ、お待たせ！　で、何があったの？	Ryza	Let's see, there's a request for ointment and another for a nice, warm drink. Phew... Rorona, sorry to keep you waiting! What's the matter?	莱莎	伤药的委托，还有温热饮料的委托……都记下了。\n呼……萝乐娜，久等了！你们有什么事吗？	萊莎	這裡是傷藥的委託，這邊是溫暖飲品的委託……這樣。\n呼……蘿樂娜，讓妳久等了！有什麼事呢？
+LegendEvent_04_005ID	6	Rorona	ロロナ	ライザさん、実はですね――	Rorona	Actually, Ryza, we have a problem...	萝乐娜	莱莎小姐，事情是这样——	蘿樂娜	萊莎小姐，其實──
+LegendEvent_04_005ID	7	Ryza	ライザ	迷子かぁ……どうにかしてあげたいけど、\nそれらしい話はここに来てないんだよね	Ryza	Can't find her mom...? I really wish I could help, but I'm sorry to say I haven't heard anything like that here.	莱莎	迷路的孩子啊……我很想帮上忙，\n但目前完全没收到相关委托。	萊莎	迷路的孩子啊……雖然我很想幫上忙，\n但這裡沒有收到相關的消息呢。
+LegendEvent_04_005ID	8	Sterk	ステルク	迷子になった娘を見つけたいという依頼や情報は\n何も来ていないということか……さて、どうしたものか	Sterk	So you haven't received any requests to find a lost child...and we still have no information. Where do we go from here?	史特尔克	完全没有寻找走散女儿的委托和传闻吗……\n这可怎么办才好。	史特爾克	所以沒有人來委託尋找迷路的女兒，\n也沒有任何消息嗎……這下該怎麼辦呢？
+LegendEvent_04_005ID	9	Meruru	メルル	来てないものはしょうがない！\n改めて、地道に情報を集めるしか――	Meruru	Well, then we have no other choice. We'll just have to go back out and search for more clues—	梅露露	没有收到消息也是无可奈何的事！\n我们只能再靠自己去找找有什么——	梅露露	既然沒有消息，那也沒辦法！\n只能一步一步重新打聽線索──
+LegendEvent_04_005ID	10		少女	ご、ごめんなさいっ！	Girl	I-I'm so sorry!	少女	对、对不起！	少女	對、對不起！
+LegendEvent_04_005ID	11	Rorona	ロロナ	ええっ！？　ど、どうしたの！？	Rorona	Huh?! What's wrong?!	萝乐娜	嗯？！你怎么了？！	蘿樂娜	什麼！？怎、怎麼了！？
+LegendEvent_04_005ID	12	Totori	トトリ	なかなかお母さんが見つからないことなら、\n気にしなくてもいいんだよ？	Totori	Are you worried because we haven't found your mother yet? You don't have to apologize for that.	托托莉	如果你觉得让我们找太久不好意思，\n那没关系，真的不用在意哦。	托托莉	如果妳是因為一直找不到媽媽而對我們感到抱歉，\n那妳不用放在心上喔？
+LegendEvent_04_005ID	13		少女	ち、違うの。実は私……迷子じゃないの。\nお母さんを探しても……いなくて	Girl	I... I lied. I'm not really lost. We won't...find my mom.	少女	不、不是的。其实……我没有迷路。\n也不是在找妈妈……	少女	不、不是的。其實我……並沒有迷路。\n找媽媽的事情……也不是真的。
+LegendEvent_04_005ID	14	Sterk	ステルク	どういうことだ？　説明してもらえるだろうか	Sterk	What do you mean? Can you tell us what's going on?	史特尔克	什么意思？能解释一下吗？	史特爾克	什麼意思？可以請妳說明一下情況嗎？
+LegendEvent_04_005ID	15		少女	私……ある薬を探しに来たの	Girl	I... I'm looking for a special cure.	少女	我……是来找一种药的。	少女	我……是來找某種藥的。
+LegendEvent_04_005ID	16	Sterk	ステルク	ある薬とは？	Sterk	What kind of cure?	史特尔克	一种药？	史特爾克	某種藥？
+LegendEvent_04_005ID	17		少女	薬を探さないと、なんだけど……それより何より、\n人に関わったらダメって約束があって	Girl	It's just something I have to find...but I promised not to talk to anyone no matter what happened.	少女	我一定要找到那种药……但更重要的是，\n我必须遵守规定，不可以和人接触。	少女	我一定要找到藥……但最重要的是，\n我們約好不能跟人有來往。
+LegendEvent_04_005ID	18		少女	もし誰かと話したりすることがあったら、\nすぐに帰らなきゃいけなくて……	Girl	And if I ever did talk to anyone, I was supposed to go right home.	少女	要是和人说话或者有任何接触，\n我就必须立刻回去……	少女	要是跟任何人說了話，\n我就必須馬上回去……
+LegendEvent_04_005ID	19	Rorona	ロロナ	話しちゃダメなの？	Rorona	You aren't supposed to talk to anyone?	萝乐娜	不可以和别人说话？	蘿樂娜	不能跟人說話嗎？
+LegendEvent_04_005ID	20		少女	でも、こうしてあなたたちとしゃべっちゃった。\nだから……帰る	Girl	Yeah, but I broke my promise. I talked to all of you. That's why I have to go home now.	少女	可是我现在已经打破规定和你们说话了。\n所以……我必须回去了。	少女	可是，我已經像這樣跟妳們說過話了。\n所以……我要回去了。
+LegendEvent_04_005ID	21	Totori	トトリ	帰るって……おうちはどこなの？	Totori	You're going home...? Where do you live?	托托莉	回去……你家在哪里啊？	托托莉	回去……妳家在哪裡呢？
+LegendEvent_04_005ID	22		少女	山……	Girl	The mountains.	少女	山里……	少女	山裡……
+LegendEvent_04_005ID	23	Meruru	メルル	ま、待って！　山に帰るって言ったって、\n一人じゃ危ないってば！	Meruru	W-Wait! It's way too dangerous for you to travel back to the mountains all alone!	梅露露	等、等等！你要一个人回山里吗，\n那也太危险了！	梅露露	等、等一下！妳說要回山裡，\n一個人可是很危險的耶！
+LegendEvent_04_005ID	24	Rorona	ロロナ	そ、そうだよ！　話しちゃダメっていっても、もう\nこうして話しちゃってるんだもん	Rorona	She's right! I know you're not supposed to talk to us, but we're already talking.	萝乐娜	就、就是啊！我明白你要遵守规定不能和人说话，\n但是反正都说过了对吧。	蘿樂娜	對、對呀！就算不能跟人交談，\n但我們也都已經說過話了。
+LegendEvent_04_005ID	25	Rorona	ロロナ	わたしたちも一緒についていってあげるよ！	Rorona	So we should stay together!	萝乐娜	让我们陪你一起回去吧！	蘿樂娜	我們也陪妳一起回去吧！
+LegendEvent_04_005ID	26		少女	え……	Girl	Huh...?	少女	咦……	少女	咦……
+LegendEvent_04_005ID	27	Totori	トトリ	そうだね。一人で行かせるのは心配だよ	Totori	I agree. We can't just send you back on your own.	托托莉	就是，让你一个人走我们可不放心。	托托莉	沒錯，我們不放心讓妳一個人回去喔。
+LegendEvent_04_005ID	28	Sterk	ステルク	私たちが君を家まで送っていこう。どうだろうか？	Sterk	We'll go with you and make sure you get back home safely. How does that sound?	史特尔克	我们送你回去吧，怎么样？	史特爾克	我們送妳回家吧。怎麼樣？
+LegendEvent_04_005ID	29		少女	分かった。よろしく……	Girl	Okay. Thank you...	少女	我知道了，那就拜托了……	少女	我知道了，麻煩你們了……
+LegendEvent_04_006ID	0	Meruru	メルル	わわわっ！	Meruru	Whoaaa!	梅露露	哎呀呀！	梅露露	哇哇哇！
+LegendEvent_04_006ID	1	Sterk	ステルク	大丈夫ですか、メルル姫	Sterk	Are you all right, Princess Meruru?	史特尔克	你没事吧，梅露露公主？	史特爾克	梅露露公主，妳沒事吧？
+LegendEvent_04_006ID	2	Meruru	メルル	あ、ありがとうございます	Meruru	I-I'm fine, thank you.	梅露露	谢、谢谢你。	梅露露	謝、謝謝你。
+LegendEvent_04_006ID	3	Sterk	ステルク	かなり雪も深い。\n足を取られぬよう、注意して進みましょう	Sterk	The snow here is quite deep. Tread carefully so that you don't lose your footing.	史特尔克	雪积得很厚。\n走路要当心脚下，不要绊倒了。	史特爾克	積雪也很深。\n小心前進，別失足摔倒了。
+LegendEvent_04_006ID	4	Rorona	ロロナ	そ、そうですね……あっ！　\nそんなに急いだら危ないよ～！　わっ！？	Rorona	Right, let's be careful... Ah! Don't go so fast, little one! You might get hurt! Wh-Whoa!	萝乐娜	是、是啊……啊！\n走这么快很危险的～！哇啊？！	蘿樂娜	就、就是說呀……啊！\n走得那麼急很危險的～！哇！？
+LegendEvent_04_006ID	5	Totori	トトリ	ロロナ先生、危ないっ！	Totori	Teacher, I've got you!	托托莉	萝乐娜老师，小心！	托托莉	蘿樂娜老師，危險！
+LegendEvent_04_006ID	6	Rorona	ロロナ	あ、ありがと。ふぅ……王都でも雪が降ってたけど、\n最初からこんなに雪が積もってる山はキツいね～	Rorona	Oh, thank you! Phew... Snow in the capital is one thing, but hiking through the mountain snow is way tougher.	萝乐娜	谢、谢谢。呼……虽然王都也在下雪，但路况还好。\n而山里之前就已经积了厚厚的雪，走起来真费劲啊～	蘿樂娜	謝、謝謝。呼……雖然王都也在下雪，\n但從一開始就布滿厚厚積雪的山路是真的很難走啊～
+LegendEvent_04_006ID	7	Meruru	メルル	寒さも半端じゃないですしね……	Meruru	Not to mention it's freezing up here...	梅露露	而且这里不是一般的冷……	梅露露	而且還冷得要命……
+LegendEvent_04_006ID	8	Sterk	ステルク	彼女は本当にこんな場所から一人で\n王都に来たのだろうか？	Sterk	Could this little girl really have made it all the way down this mountain to the capital by herself?	史特尔克	她真的是一个人从这种地方去到王都的吗？	史特爾克	她真的是獨自一人\n從這種地方來到王都的嗎？
+LegendEvent_04_006ID	9	Totori	トトリ	そうですね。まだあんなに小さいのに……	Totori	It's hard to believe. She's still so small...	托托莉	是啊，那么小的孩子居然……	托托莉	對啊，明明還是那麼小的孩子……
+LegendEvent_04_006ID	10	Rorona	ロロナ	ね、ねぇ！　\nこんなに寒いけど、あなたは大丈夫なの？	Rorona	H-Hey! Are you all right, little one? Aren't you cold?	萝乐娜	小妹妹！这么冷的天，你没事吗？	蘿樂娜	那、那個！\n天氣這麼冷，妳還好嗎？
+LegendEvent_04_006ID	11		少女	平気……	Girl	I'm fine...	少女	没事……	少女	沒事的……
+LegendEvent_04_006ID	12	Rorona	ロロナ	ま、待ってよ……！	Rorona	Hey, wait up!	萝乐娜	啊，等等……！	蘿樂娜	等、等一下啦……
+LegendEvent_04_006ID	13	Sterk	ステルク	まずいな。ちゃんとついていかなければ\n置いていかれてしまうぞ	Sterk	This is bad. We'll get left behind if we don't stick close to her.	史特尔克	这可不妙，不好好跟紧她的话，\n搞不好会跟丢的。	史特爾克	糟糕，不緊緊跟上的話，\n我們可是會被拋下的。
+LegendEvent_04_006ID	14	Totori	トトリ	話してる暇はないですね	Totori	We don't have time to talk!	托托莉	现在没余力聊天了呢。	托托莉	看來現在沒空閒聊了。
+LegendEvent_04_006ID	15	Meruru	メルル	と、とにかく進むしかない！	Meruru	Then we have no choice but to keep going!	梅露露	总、总之只能往前走了！	梅露露	總、總之只能往前走了！
+LegendEvent_04_007ID	0	Rorona	ロロナ	ほ、本当にこっちで合ってるの？	Rorona	Um, are you sure we're going the right way?	萝乐娜	真、真的是这个方向吗？	蘿樂娜	真、真的是這個方向嗎？
+LegendEvent_04_007ID	1		少女	…………\nうん……	Girl	...Yeah.	少女	……\n是的……	少女	…………\n嗯……
+LegendEvent_04_007ID	2	Sterk	ステルク	止まれ！	Sterk	Everyone, freeze!	史特尔克	都停下！	史特爾克	停下！
+LegendEvent_04_007ID	3	Rorona	ロロナ	えっ	Rorona	Huh?!	萝乐娜	咦？	蘿樂娜	咦？
+LegendEvent_04_007ID	4	Rorona	ロロナ	ひゃぁぁぁっ！	Rorona	Eeek!	萝乐娜	呀——！！	蘿樂娜	呀啊啊啊！
+LegendEvent_04_007ID	5	Sterk	ステルク	皆、私の後ろに！　――君もだ！	Sterk	Get behind me! You too, little one!	史特尔克	各位到我身后来！还有你也是！	史特爾克	大家快到我後面！妳也是！
+LegendEvent_04_007ID	6		少女	っ！	Girl	*Gasp*	少女	唔！	少女	唔！
+LegendEvent_04_007ID	7	Totori	トトリ	こ、こんな時に魔物が出るなんて	Totori	These monsters have terrible timing...	托托莉	怎么偏偏在这种时候碰上魔物……	托托莉	這、這種時候竟然有魔物出現。
+LegendEvent_04_007ID	8	Sterk	ステルク	いや。この程度なら問題ないが……	Sterk	They shouldn't be a problem for us, but...	史特尔克	不，对付这点魔物倒是不难……	史特爾克	不對，這種程度的魔物倒不成問題……
+LegendEvent_04_007ID	9	Sterk	ステルク	彼女を守らねばならぬ今は少々、勝手が違う。\n君たちも十分気を付けてくれ！	Sterk	Since we have the girl to protect, we can't afford to be careless. Everyone, keep your guard up!	史特尔克	但现在还要保护这孩子，情况就不一样了。\n你们也千万要小心！	史特爾克	但現在得保護她才行，情況跟以往略有不同。\n妳們也要嚴加戒備！
+LegendEvent_04_007ID	10	Rorona	ロロナ	は、はいっ！	Rorona	R-Right!	萝乐娜	好、好的！	蘿樂娜	好、好的！
+LegendEvent_04_007ID	11	Meruru	メルル	任せてくださいっ！	Meruru	We won't let you down!	梅露露	交给我吧！	梅露露	包在我身上吧！
+LegendEvent_04_007ID	12	Totori	トトリ	来ます！	Totori	Here they come!	托托莉	要来了！	托托莉	要來了！
+LegendEvent_04_008ID	0	Sterk	ステルク	ふぅ……皆、無事か？	Sterk	Phew... Is everyone all right?	史特尔克	呼……都没事吧？	史特爾克	呼……大家都沒事吧？
+LegendEvent_04_008ID	1	Totori	トトリ	もちろんです！	Totori	We're fine!	托托莉	当然！	托托莉	當然了！
+LegendEvent_04_008ID	2	Rorona	ロロナ	な、なんとか！	Rorona	S-Somehow!	萝乐娜	还、还算好！	蘿樂娜	還、還過得去！
+LegendEvent_04_008ID	3	Meruru	メルル	余裕ですって！	Meruru	That was nothing!	梅露露	很轻松嘛！	梅露露	輕輕鬆鬆啦！
+LegendEvent_04_008ID	4	Sterk	ステルク	はは……聞くまでもなかったか。\n君たちならそうだろう	Sterk	Haha, I suppose I didn't even need to ask. All of you can handle yourselves.	史特尔克	哈哈……看来没必要问啊。\n你们肯定都没问题。	史特爾克	哈哈……看來不需要多問。\n妳們當然不會有事。
+LegendEvent_04_008ID	5	Sterk	ステルク	君は大丈夫か？　怖かっただろう？	Sterk	How about you, little one? That was pretty scary, wasn't it?	史特尔克	你没事吧？害怕吗？	史特爾克	妳還好嗎？應該嚇著了吧？
+LegendEvent_04_008ID	6		少女	ん……平気	Girl	Mm... I'm fine.	少女	嗯……没事。	少女	唔……沒事。
+LegendEvent_04_008ID	7	Rorona	ロロナ	ほっ。よかったぁ	Rorona	Is that so? Thank goodness.	萝乐娜	呼，太好了。	蘿樂娜	呼，太好了～
+LegendEvent_04_008ID	8	Meruru	メルル	うんうん。小さいのにしっかりしてる～！	Meruru	Yeah! She may be small, but she's a tough one!	梅露露	嗯嗯，小小年纪居然这么处变不惊～！	梅露露	嗯嗯，年紀小小卻很懂事呢～！
+LegendEvent_04_008ID	9	Totori	トトリ	油断は禁物だよ。今のうちに先へ進みましょう	Totori	But we can't get careless now. We need to press on ahead.	托托莉	不能大意，趁着击退了魔物抓紧前进吧。	托托莉	大家可別放鬆戒備了喔。趁現在繼續前進吧。
+LegendEvent_04_008ID	10		少女	ん……	Girl	Mm...	少女	嗯……	少女	嗯……
+LegendEvent_04_008ID	11	Sterk	ステルク	……こんな小さな少女が、魔物が現れても\nまるで怯えず落ち着き払っている	Sterk	For a child this small to be so calm in the face of monsters...	史特尔克	这么小的小姑娘，看到魔物出现却完全不怕，\n甚至可以说丝毫不为所动。	史特爾克	……年紀這麼小的少女，見到魔物卻絲毫不畏懼，\n態度十分鎮定從容。
+LegendEvent_04_008ID	12	Sterk	ステルク	……妙だな	Sterk	Something's off.	史特尔克	有问题……	史特爾克	……真古怪。
+LegendEvent_04_009ID	0	Meruru	メルル	ふうー……結構歩いてきたけど\nおうちはまだ遠いの？	Meruru	Phew... We've been walking for ages. Is your house much farther?	梅露露	呼……我们都走这么久了，还没到你家吗？	梅露露	呼……我們已經走了不少路，\n離妳家還很遠嗎？
+LegendEvent_04_009ID	1		少女	…………	Girl	...	少女	……	少女	…………
+LegendEvent_04_009ID	2	Rorona	ロロナ	この辺りは見晴らしもいいし、\n何かあればすぐに見つかるんじゃないかな	Rorona	We have a good view from here. Maybe we can spot a landmark or something.	萝乐娜	这附近的视野不错，\n要是有什么聚落应该一眼就能看到吧。	蘿樂娜	這一帶視野遼闊，\n要是有什麼東西，應該馬上就能發現吧。
+LegendEvent_04_009ID	3	Totori	トトリ	み、皆さん！　あれを見てください！	Totori	E-Everyone! Look over there!	托托莉	你、你们看！看那个！	托托莉	大、大家！請看那個！
+LegendEvent_04_009ID	4	Meruru	メルル	さっすがトトリ先生！\nもう何か見つけたんですか……って、え！？	Meruru	Nice one, Miss Totori! You already found—huh?! What's that?!	梅露露	不愧是托托莉老师！\n这么快就找到了……啊？！	梅露露	真不愧是托托莉老師！\n已經發現什麼了嗎……咦！？
+LegendEvent_04_009ID	5	Sterk	ステルク	敵か！？\nいや、だが……気配が何か違う？	Sterk	An enemy?! No... Something about it feels different.	史特尔克	是敌人吗？！\n不对……气场似乎不太一样？	史特爾克	是敵人嗎！？\n不對，可是……氣息好像不太一樣？
+LegendEvent_04_009ID	6	Rorona	ロロナ	わわっ！　な、なに、この光！？	Rorona	Whoa! What's this light?!	萝乐娜	哇！这、这道光是怎么回事？！	蘿樂娜	哇哇！這、這光芒是怎麼回事！？
+LegendEvent_04_009ID	7	Meruru	メルル	ええっ！？\nその姿……まさか、人間じゃなかったの！？	Meruru	Wait, what?! That little girl...isn't human?!	梅露露	咦？！\n你的样子……原来你不是人类吗？！	梅露露	什麼！？\n那個模樣……難道不是人類嗎！？
+LegendEvent_04_009ID	8		精霊の子	驚かせてしまってごめんなさい。\n私、本当は……雪の精霊なの	Spirit Child	I'm sorry I scared you. Actually, I'm a snow spirit.	精灵女孩	非常抱歉吓到你们。\n其实……我是雪精灵。	精靈孩子	很抱歉讓各位受到驚嚇。\n其實我……是雪精靈。
+LegendEvent_04_009ID	9	Totori	トトリ	雪の精霊？　じゃあ、あそこにいるのは……\nもしかして、あなたのお母さん？	Totori	A snow spirit? So that must be your mother over there, right?	托托莉	雪精灵？那，那边那个……难道是你妈妈？	托托莉	雪精靈？那麼，在那裡的……\n該不會是妳的媽媽吧？
+LegendEvent_04_009ID	10	Sterk	ステルク	なるほど、精霊だったのか。\nそれで、この雪にも寒さにも平然としていたわけだ	Sterk	It all makes sense now. Of course a snow spirit like her wouldn't be bothered by the cold.	史特尔克	原来是精灵啊。\n难怪在这样的冰天雪地里都无动于衷。	史特爾克	原來如此，妳是精靈啊。\n難怪能夠面不改色地待在冰天雪地之中。
+LegendEvent_04_009ID	11		精霊の子	……うん。\nでも、お母さんは病気になっちゃった	Spirit Child	Right... But my mother is sick.	精灵女孩	是的。\n不过妈妈得了病……	精靈孩子	……嗯。\n可是，我媽媽生病了。
+LegendEvent_04_009ID	12		精霊の子	寒い寒いって……\nずっと震えが止まらないの	Spirit Child	She says she's really cold...and she won't stop shivering.	精灵女孩	一直在说好冷好冷……\n不停地打寒颤。	精靈孩子	她一直說很冷很冷……\n身體一直抖個不停。
+LegendEvent_04_009ID	13	Rorona	ロロナ	雪の精霊でも寒いとかあるんだね	Rorona	So even snow spirits feel cold sometimes, huh?	萝乐娜	雪精灵也会觉得冷吗？	蘿樂娜	雪精靈也會覺得冷呀。
+LegendEvent_04_009ID	14	Totori	トトリ	ううん……\n風邪みたいなものかな？	Totori	I don't think that's it... Maybe she caught a cold?	托托莉	应该不会……\n可能是类似感冒的病吧？	托托莉	不……\n可能是類似感冒的症狀吧？
+LegendEvent_04_009ID	15		精霊の子	病気を治すお薬があるって聞いたんだけど\nどんなに探しても見つからなかった……	Spirit Child	I heard there was a medicine that could help cure her, but I couldn't find it no matter how hard I looked.	精灵女孩	听说有药能够治那种病，\n但怎么找都找不到……	精靈孩子	我聽說有治療這個疾病的藥，\n但不管怎麼找就是找不到……
+LegendEvent_04_009ID	16		精霊の母	人間の方々、この子がご迷惑をおかけしました。\nですが、この子が無茶をした原因に心当たりがあります	Spirit Mother	Humans, I apologize for the trouble my child has put you through. Though I do understand why she was worried enough to behave so recklessly.	精灵母亲	各位人类，我的孩子给你们添麻烦了。\n不过我知道她为什么会这么冲动行事。	精靈母親	各位人類，這孩子給你們添麻煩了。\n但是，我知道這孩子為什麼會冒這樣的險。
+LegendEvent_04_009ID	17		精霊の母	実は、過去にも同じように\n病気になったことがありまして……	Spirit Mother	In truth, I have been sick like this once before.	精灵母亲	其实，过去我也得过这种病……	精靈母親	其實，\n我過去也得過同樣的病……
+LegendEvent_04_009ID	18		精霊の母	その時は、旅の人間が作った薬で治すことが\nできたのです……錬金術士と名乗っていました	Spirit Mother	At that time, a human adventurer provided me with a medicine that brought me back to health. An alchemist, they called themself.	精灵母亲	那时候，有位旅行到此的人类为我做药治好了病……\n那人自称炼金术士。	精靈母親	當時是服下旅人所做的藥\n才治好的……對方自稱是鍊金術士。
+LegendEvent_04_009ID	19	Rorona	ロロナ	錬金術士……！？	Rorona	An alchemist?!	萝乐娜	炼金术士……？！	蘿樂娜	鍊金術士……！？
+LegendEvent_04_009ID	20		精霊の母	その話をこの子にしていたため、\n薬を手に入れようとしたのでしょう	Spirit Mother	Upon hearing that story, my child set out to find that medicine for me.	精灵母亲	这孩子听我讲过这个故事，\n所以她才会想到要去找那种药。	精靈母親	我曾經將這件事告訴過這孩子，\n所以她才會想去找藥吧。
+LegendEvent_04_009ID	21		精霊の母	うかつに人の住む場所に行ってはいけないと\n言い聞かせていたのに……	Spirit Mother	In spite of my stern warnings not to carelessly wander into places where humans dwell, that is...	精灵母亲	我明明和她说过，\n不能随便去人类居住的地方……	精靈母親	我明明囑咐過她\n不可以隨便踏進人類居住的地方……
+LegendEvent_04_009ID	22	Totori	トトリ	そういうことだったんですね。\n……あの、ロロナ先生	Totori	It all makes sense now. Teacher, are you thinking what I'm thinking?	托托莉	原来是这样啊。\n那……萝乐娜老师。	托托莉	原來是這樣呀。\n……那個，蘿樂娜老師。
+LegendEvent_04_009ID	23	Rorona	ロロナ	うん、薬で治るのなら\nわたしたちで力になれるかも！	Rorona	Yeah. If this sickness can be cured with alchemy, then we may be able to help!	萝乐娜	嗯，既然是有药可医的病，\n那我们应该能帮上忙！	蘿樂娜	嗯，既然用藥就可以治好，\n那我們或許幫得上忙！
+LegendEvent_04_009ID	24	Sterk	ステルク	いや、しかし……相手は精霊だぞ	Sterk	But how could we possibly cure a spirit?	史特尔克	可是……对方是精灵啊。	史特爾克	等等……對方可是精靈啊。
+LegendEvent_04_009ID	25	Meruru	メルル	目の前で困ってる人……いや精霊がいるのに\n放っておけませんよ！	Meruru	We can't just let a person—er, spirit—in need suffer! There's no way!	梅露露	眼前有遇到困难的人……不对，精灵！\n我们当然不能视而不见啊！	梅露露	眼前有人……不，是有精靈需要幫助，\n我們怎麼能放著不管呢！
+LegendEvent_04_009ID	26	Sterk	ステルク	う、うむぅ……	Sterk	Hmm...	史特尔克	唔，这个……	史特爾克	好、好吧……
+LegendEvent_04_009ID	27	Meruru	メルル	でも、なんの薬を作ればいいんでしょうか。\n人間と同じ薬でいいのかなあ	Meruru	But we don't know what kind of medicine we need to make. Does human medicine work on spirits?	梅露露	不过，要做什么样的药才行呢。\n和人类吃的药一样就可以吗？	梅露露	不過，該做什麼藥才對呢？\n跟人類用一樣的藥可以嗎？
+LegendEvent_04_009ID	28	Rorona	ロロナ	うーん。\n熱いお茶でも飲めば治ったりしないかな？	Rorona	Huh... I wonder if a cup of hot tea would help!	萝乐娜	唔，会不会喝口热茶就好了？	蘿樂娜	唔～\n喝點熱茶會不會治得好呀？
+LegendEvent_04_009ID	29		精霊の子	私たちは人間と同じものを食べたりしない。\n私たちに必要なのは、マナだけ	Spirit Child	Spirits like us don't eat the same things as humans. The only thing we need is mana.	精灵女孩	我们不需要人类的食物。\n唯一需要的就是玛那。	精靈孩子	我們不吃人類吃的食物。\n我們需要的只有瑪那。
+LegendEvent_04_009ID	30	Totori	トトリ	じゃあマナと熱の関係を調べれば、\n何か温まるものを作れるかもしれないね	Totori	Then perhaps if we look into the relationship between mana and heat, we might be able to find some way to warm her up!	托托莉	这么说只要找到玛那和热量的关系，\n也许就能做出什么让她暖和起来。	托托莉	那只要查查看瑪那和熱能的關聯，\n或許就能做出讓身體發暖的東西了。
+LegendEvent_04_009ID	31	Meruru	メルル	そういうことなら、一度アトリエに戻りましょう。\n書庫を探せば役に立つ本があるかもしれません！	Meruru	We'd better head back to the atelier then. There might be a book that can lead us in the right direction!	梅露露	那我们先回一趟炼金工房吧。\n书库里说不定会有什么值得参考的资料！	梅露露	既然如此，我們先回一趟鍊金工房吧。\n在書庫裡找找，說不定會找到能派上用場的書呢！
+LegendEvent_04_010ID	0	Rorona	ロロナ	よーし！\n早速マナに関係する本を探してみよう！	Rorona	All right! Let's hurry and find a book on mana that can help us!	萝乐娜	好！那就快去查查和玛那有关的书吧！	蘿樂娜	好～！\n我們立刻去找跟瑪那有關的書吧！
+LegendEvent_04_010ID	1	Sterk	ステルク	錬金術に関して、私は役に立たないからな。\nそちらは君たちに任せるとしよう	Sterk	I'm afraid I don't know a thing about alchemy. I'd just hold you back, so I'll leave the research to you.	史特尔克	提到炼金术我就帮不上忙了。\n这方面就交给你们吧。	史特爾克	在鍊金術方面我幫不上忙。\n這部分就交給妳們吧。
+LegendEvent_04_010ID	2	Totori	トトリ	はい、何か分かったらまた連絡しますね	Totori	Okay, we'll let you know as soon as we find something.	托托莉	好，如果查到有用的东西我们再联系你。	托托莉	好，有什麼發現會再聯絡你的。
+LegendEvent_04_010ID	3	Meruru	メルル	うーん……ぜんぜん見つからないや。\nトトリせんせーい、そっちはどうですか？	Meruru	Hmm... I'm not finding anything. How about you, Miss Totori?	梅露露	唔……什么都没找到。\n托托莉老师，你那边怎么样？	梅露露	唔……完全找不到啊。\n托托莉老師，妳那邊情況怎麼樣？
+LegendEvent_04_010ID	4	Totori	トトリ	こっちも見つからないよ。\nロロナ先生は、何かありました？	Totori	No luck here, either. Teacher, did you find anything useful?	托托莉	我也没有找到。\n萝乐娜老师，有找到什么吗？	托托莉	我這邊也一無所獲。\n蘿樂娜老師，妳有發現什麼嗎？
+LegendEvent_04_010ID	5	Rorona	ロロナ	ううん、こっちもダメ。\n手掛かりになりそうなものもないよ	Rorona	Nope, nothing. Not even a single hint.	萝乐娜	我这里也没找到。\n完全没有看上去有关联的资料。	蘿樂娜	沒有，我這邊也沒找著。\n連可以當作線索的東西都沒有。
+LegendEvent_04_010ID	6	Rorona	ロロナ	根を詰めすぎても良くないし、\n気分転換もかねて、ちょっと外に出ない？	Rorona	But it's no good for us to stay cooped up like this. Why don't we step out for some fresh air?	萝乐娜	太钻牛角尖也不好，\n不如出去走走转换一下心情吧？	蘿樂娜	一直埋頭瞎找也不好，\n我們要不要去外面走走，順便轉換一下心情？
+LegendEvent_04_010ID	7	Meruru	メルル	うう、寒い！\n夜は、やっぱり冷えるなー	Meruru	Ugh, it's so cold! It's even worse now that it's dark out...	梅露露	呜，好冷！\n晚上果然很冷啊。	梅露露	唔唔，好冷！\n晚上果然冷到骨子裡了～
+LegendEvent_04_010ID	8	Totori	トトリ	でも、王都の夜景に降る雪も綺麗ですね。\n空からゆっくりと、羽根が舞っているみたいで……	Totori	But the snow-covered capital at night sure is a sight to see. It's like the snowflakes are dancing down from the heavens.	托托莉	不过王都夜晚的雪景真是漂亮，\n雪花就像是从天上翩翩飘落的羽毛……	托托莉	不過，王都夜晚的雪景也很漂亮呢。\n雪花從天空緩緩落下，像羽毛在飛舞一樣……
+LegendEvent_04_010ID	9	Rorona	ロロナ	うん、そうだね。光の羽根みたい	Rorona	Yeah, they glint in the light. Drifting like feathers.	萝乐娜	是啊，像是发光的羽毛一样。	蘿樂娜	嗯，對呀。好像發光的羽毛呢。
+LegendEvent_04_010ID	10	Meruru	メルル	……あの精霊さんたち。\nなんとかして助けてあげたいですね	Meruru	Those spirits... I really hope there's some way we can help them.	梅露露	我们一定要找到办法帮助那对精灵母女啊。	梅露露	……那兩位精靈。\n真希望能找到方法幫上她們的忙呢。
+LegendEvent_04_010ID	11	Totori	トトリ	うん、そうだね。お母さんのためにって\nあんなに頑張ってたんだもん	Totori	Me too. That little spirit went off all on her own for her mother. We can't let her down.	托托莉	是啊，看到那孩子为了救妈妈那么拼命，\n真想为她们做点什么。	托托莉	嗯，就是說啊。畢竟她為了治好媽媽，\n付出了那麼多的努力。
+LegendEvent_04_010ID	12	Rorona	ロロナ	それにしても、精霊も人間と同じように親子の関係が\nあるんだね。ちょっと……びっくりしちゃった	Rorona	I never realized that spirits have families just like we do. I have to admit, I was a little surprised.	萝乐娜	不过话说回来，我之前都没想过……\n精灵和人类一样，也有母女这样的血缘关系啊。	蘿樂娜	話說回來，原來精靈也跟人類一樣有親子關係啊。\n這讓我……有點驚訝。
+LegendEvent_04_010ID	13	Totori	トトリ	まぁ、魔物でも精霊でも\n生き物なら、みんな両親がいるんじゃないでしょうか	Totori	When it comes right down to it, monsters and spirits are living things too. It makes sense that they have parents just like us.	托托莉	不管魔物还是精灵都是生物，\n所以应该都会有父母吧。	托托莉	仔細想想，無論魔物還是精靈，\n只要同為生物，大家都是有父母的吧。
+LegendEvent_04_010ID	14	Rorona	ロロナ	両親かあ……\nお父さんとお母さん、元気にしてるかなぁ	Rorona	Yeah... I wonder how my mom and dad are doing.	萝乐娜	父母啊……\n不知道我爸爸妈妈现在过得好不好。	蘿樂娜	父母啊……\n不知道爸爸和媽媽過得好不好。
+LegendEvent_04_010ID	15	Rorona	ロロナ	わたしが師匠の元に預けられてから、\nあんまり会ってないんだよね	Rorona	I haven't seen them much since I became an apprentice.	萝乐娜	我被寄养在师父身边后，就没怎么见过父母了。	蘿樂娜	自從我被託付給師父之後，\n就很少見到他們了。
+LegendEvent_04_010ID	16	Totori	トトリ	わたしも……\n両親といた記憶はあまりないですね	Totori	Same here. I actually don't remember much about my parents at all.	托托莉	我也是……没什么关于父母的记忆。	托托莉	我也一樣……\n沒什麼關於父母的記憶。
+LegendEvent_04_010ID	17	Totori	トトリ	お母さんは長い間行方が分からなかったですし	Totori	For a long time, I didn't even know where my mother was.	托托莉	我妈妈很久以来都下落不明……	托托莉	畢竟媽媽有好長一段時間都下落不明。
+LegendEvent_04_010ID	18	Totori	トトリ	家にずっといるはずのお父さんは、影がやたら薄くて\nいるんだかいないんだかで……	Totori	And even though my father was always at home, he was like a shadow. It almost felt like I was all alone.	托托莉	爸爸虽然一直在家，但因为实在缺乏交流，\n我都不知道他到底是在还是不在……	托托莉	明明爸爸一直都在家裡，但他太沒有存在感，\n讓人搞不清楚他到底在還是不在……
+LegendEvent_04_010ID	19	Meruru	メルル	そっかぁ。ロロナさんも、トトリ先生も\nフクザツなんですね……	Meruru	Oh... You and Rorona both had such complicated pasts.	梅露露	原来萝乐娜小姐和托托莉老师\n家里情况都这么复杂啊……	梅露露	這樣啊。蘿樂娜小姐和托托莉老師\n都有著複雜的過去呢……
+LegendEvent_04_010ID	20	Totori	トトリ	メルルちゃんには、国王様……\nいいお父さんがいるよね	Totori	Come to think of it, your father's a king. He must have been a great dad.	托托莉	梅露露的爸爸是国王陛下呢……\n他一定是个好爸爸吧。	托托莉	梅露露妳有國王陛下……\n他是個好爸爸吧。
+LegendEvent_04_010ID	21	Meruru	メルル	そーでもないです。実の娘と言えど、\n一国の主に気軽に会えるわけじゃないんですよー	Meruru	Well, I'm not sure if I'd say that. Sure, he's my father, but he's still a king, so I couldn't see him much growing up.	梅露露	倒也没有啦。就算是亲生女儿，\n也没那么容易见到一国之主。	梅露露	倒也不是妳們想的那樣～雖說我是親生女兒，\n但也沒辦法輕易見到一國之君啊～
+LegendEvent_04_010ID	22	Meruru	メルル	むしろ普段から一緒にいるケイナとルーフェスのほうが\n家族っぽいですね	Meruru	Keina and Rufus were the ones who were always by my side, so they feel more like family than he does.	梅露露	可能平时一直陪在我身边的凯娜和路菲斯\n倒更像是我的家人呢。	梅露露	反倒是平常就在身邊的凱娜和路菲斯\n還比較像我的家人呢。
+LegendEvent_04_010ID	23	Rorona	ロロナ	なんだか、わたしたちって……	Rorona	It's kind of funny, all of us...	萝乐娜	我们三个，怎么说呢……	蘿樂娜	總覺得我們幾個……
+LegendEvent_04_010ID	24	Totori	トトリ	ふふっ、似てますね	Totori	Hehe, we're so much alike.	托托莉	呵呵，真是同病相怜呢。	托托莉	呵呵，境遇很相似呢。
+LegendEvent_04_010ID	25	Meruru	メルル	ですねー！	Meruru	We really are!	梅露露	是啊！	梅露露	就是說呀～！
+LegendEvent_04_010ID	26	Rorona	ロロナ	でもさ。家族とか身近な人って、\n普段は忘れがちだけど……やっぱり大切だよね	Rorona	But you know, sometimes I forget just how important friends and family really are.	萝乐娜	不过，虽然大家容易忽视家人和身边亲近的人……\n但他们还是非常重要的啊。	蘿樂娜	不過，平常很容易把家人和親近的人拋在腦後……\n但這些人還是很重要的。
+LegendEvent_04_010ID	27	Meruru	メルル	そんな当たり前のことに、\n離れてしまってから気付くこともありますけど	Meruru	Once you're apart from the ones you love, you realize just how much you took for granted.	梅露露	然而有时候人们却直到分别后，\n才会意识到这件理所当然的事……	梅露露	像這種很理所當然的事情，\n有時候要等到分開之後才會察覺到。
+LegendEvent_04_010ID	28	Totori	トトリ	はい。だからこそ、わたしたちで\nあの精霊の親子を助けてあげましょう	Totori	But now we know. And that's why we have to save those spirits.	托托莉	嗯，所以我们一定要帮帮那对精灵母女。	托托莉	沒錯。正因如此，\n我們更要幫助那對精靈母女。
+LegendEvent_04_010ID	29	Meruru	メルル	じゃあ、資料探し再開といきますかー！	Meruru	Right. Let's get back to it and find some information that will help!	梅露露	好，那就重振旗鼓继续查资料吧！	梅露露	那麼，我們繼續去找資料吧～！
+LegendEvent_04_011ID	0	Resna	レスナ	先輩方、何か調べものですか？	Resna	Hey, everyone! Are you researching something?	蕾斯娜	前辈们，你们在查什么呢？	蕾斯娜	前輩妳們需要查什麼資料嗎？
+LegendEvent_04_011ID	1	Rorona	ロロナ	あ、レスナちゃん。\nえっと、実は……	Rorona	Oh, Resna. Well, actually...	萝乐娜	哦，是蕾斯娜啊。\n其实……	蘿樂娜	啊，蕾斯娜。\n呃，其實是……
+LegendEvent_04_011ID	2	Totori	トトリ	ロロナ先生、精霊さんたちのことは\nあまり言わないほうが……	Totori	Teacher, maybe it would be best not to mention the spirits...	托托莉	萝乐娜老师，\n是不是最好不要提精灵的事……	托托莉	蘿樂娜老師，那些精靈的事\n還是別講出來比較好……
+LegendEvent_04_011ID	3	Rorona	ロロナ	うん、そうだね。あの子が人と関わることを、\nお母さんが心配してたみたいだし……	Rorona	You're probably right. If that little one gets mixed up with even more humans, it'd only worry her mother.	萝乐娜	是啊，那孩子的妈妈\n好像很不放心她的孩子和人类接触。	蘿樂娜	嗯，說得也是。畢竟精靈媽媽好像很擔心\n那孩子會跟人類扯上關係……
+LegendEvent_04_011ID	4	Rorona	ロロナ	マナから熱を生成する方法を探してるんだけど\nレスナちゃん、何か知らないかな？	Rorona	We're searching for a way to use mana to generate heat. Do you know anything that might help, Resna?	萝乐娜	我们在找使用玛那生热的方法，\n蕾斯娜你知道些什么吗？	蘿樂娜	我們正在尋找利用瑪那產生熱能的方法，\n蕾斯娜，妳知道些什麼嗎？
+LegendEvent_04_011ID	5	Resna	レスナ	マナから熱を生成する方法ですか？\nうーん、見たことがあるような、ないような……	Resna	Using mana to generate heat, huh? Hmm, I feel like I might've read something like that somewhere...	蕾斯娜	用玛那生热的方法？\n唔，好像在哪看过，但我也不太肯定……	蕾斯娜	利用瑪那產生熱能的方法嗎？\n唔～我好像有讀過，又好像沒有……
+LegendEvent_04_011ID	6	Rorona	ロロナ	そっかあ。\nやっぱり、１冊ずつ探すしかないかな	Rorona	Really? Then I guess we'll just have to keep combing through all of the books until we find it.	萝乐娜	这样啊。\n看来只能一本本慢慢翻了。	蘿樂娜	這樣啊……\n果然只能一本一本慢慢找了吧。
+LegendEvent_04_011ID	7	Resna	レスナ	私も微力ながら、お手伝いいたします！	Resna	It might not be much, but I'd be happy to help you look!	蕾斯娜	我也来帮前辈们一起查吧！	蕾斯娜	雖然只是微薄的力量，但我也來幫忙吧！
+LegendEvent_04_011ID	8	Rorona	ロロナ	ありがとう、助かるよ！	Rorona	Thank you, we really appreciate it!	萝乐娜	谢谢！太好了！	蘿樂娜	謝謝妳，真是幫大忙了！
+LegendEvent_04_011ID	9	Rorona	ロロナ	うーん……マナに関する本はあるけど、\n熱にする方法は書いてないね	Rorona	Huh... There are a bunch of books on mana, but they don't say anything about generating heat.	萝乐娜	唔……虽然有关于玛那的书，\n但上面没写如何用它来生热啊。	蘿樂娜	唔……雖然有瑪那相關的書籍，\n但沒有提到產生熱能的方法呢。
+LegendEvent_04_011ID	10	Meruru	メルル	そうですね、このアトリエにはないのかも。\n王都でも探してみますか？	Meruru	Then the answers we're looking for might not be here. How about searching for information in the capital?	梅露露	是啊，也许这个炼金工房里没有这样的书。\n要去王都找找吗？	梅露露	對呀，這間鍊金工房可能沒有那種書吧。\n我們要不要去王都找找看？
+LegendEvent_04_011ID	11	Rorona	ロロナ	それがいいかもね。\nじゃあ、早速……	Rorona	Good thinking. Let's hurry and—	萝乐娜	是个办法。那就抓紧时间……	蘿樂娜	這主意可能行得通。\n那我們馬上……
+LegendEvent_04_011ID	12	Resna	レスナ	――先輩方！　あった！　ありましたよ！	Resna	Everyone, I found it! The book I was thinking of!	蕾斯娜	前辈们！有了！我找到了！	蕾斯娜	──前輩們！有了！我找到了！
+LegendEvent_04_011ID	13	Rorona	ロロナ	えっ、レスナちゃん本当に！？	Rorona	Oh! Really?!	萝乐娜	什么？蕾斯娜，真的吗？！	蘿樂娜	咦，蕾斯娜，妳說的是真的嗎！？
+LegendEvent_04_011ID	14	Resna	レスナ	これを見てください。マナから熱を生成する結晶の\n作成例が書いてあります	Resna	Look here. There's a section about making a crystal that can generate heat from mana.	蕾斯娜	你们来看这本书，\n上面写着从玛那中提取能生热的结晶的方法。	蕾斯娜	請看這個。這裡提到的製作範例\n就是利用瑪那產生熱能的結晶。
+LegendEvent_04_011ID	15	Rorona	ロロナ	マナから熱を生成する結晶……	Rorona	A crystal that can generate heat from mana...	萝乐娜	从玛那中提取能生热的结晶……	蘿樂娜	利用瑪那產生熱能的結晶……
+LegendEvent_04_011ID	16	Meruru	メルル	ロロナさん、トトリ先生！\nこれならいけるんじゃないですか？	Meruru	Miss Rorona, Miss Totori! That sounds like exactly what we're looking for, doesn't it?	梅露露	萝乐娜小姐，托托莉老师！\n这个办法应该行得通吧？	梅露露	蘿樂娜小姐、托托莉老師！\n這個我們應該做得出來吧？
+LegendEvent_04_011ID	17	Rorona	ロロナ	この素材ならアトリエに揃ってるし、\nすぐに調合できそうだね	Rorona	Since all of the materials we need are already here at the atelier, we should be able to synthesize the crystal right away!	萝乐娜	这些素材在炼金工房里都有，\n马上就能调合出来。	蘿樂娜	鍊金工房都有這些素材，\n感覺很快就能調合出來了。
+LegendEvent_04_011ID	18	Resna	レスナ	私もお手伝いしましょうか？	Resna	I could help with that too, if you'd like!	蕾斯娜	需要我帮忙吗？	蕾斯娜	我也來幫忙吧？
+LegendEvent_04_011ID	19	Rorona	ロロナ	ううん、大丈夫！\n本見つけてくれてありがとね、レスナちゃん！	Rorona	Oh, don't worry! We'll be fine. Thank you so much for finding us the book we needed, Resna.	萝乐娜	不，不用了！\n蕾斯娜，谢谢你帮忙找到了这本书！	蘿樂娜	不用了，沒關係！\n蕾斯娜，謝謝妳幫我們找到書！
+LegendEvent_04_011ID	20	Resna	レスナ	いえ、とんでもないです！\n先輩がた、調合頑張ってくださいね！	Resna	Not at all, it's my pleasure. I'll be keeping my fingers crossed that everything goes to plan!	蕾斯娜	这不算什么！\n前辈们调合要加油哦！	蕾斯娜	不會，這沒什麼！\n前輩們調合要加油喔！
+LegendEvent_04_011ID	21	Meruru	メルル	それじゃあ、やっちゃいましょうー！	Meruru	All right, let's do this!	梅露露	那就赶快行动起来吧！	梅露露	那麼，我們立刻來動手吧～！
+LegendEvent_04_012ID	0	Meruru	メルル	ロロナさん、素材はこれで全部です！	Meruru	Miss Rorona, we have all of the materials we need!	梅露露	萝乐娜小姐，所需的素材都在这里了！	梅露露	蘿樂娜小姐，這些就是全部的素材了！
+LegendEvent_04_012ID	1	Rorona	ロロナ	それじゃ早速、調合をしてみよう！\nえーと、まずはこの素材を入れて……	Rorona	Then let's start synthesizing! The first thing we need is...	萝乐娜	那就快来调合吧！\n嗯，先放入这种素材……	蘿樂娜	那就趕緊試著調合看看吧！\n我看看，首先放進這個素材……
+LegendEvent_04_012ID	2	Totori	トトリ	混ぜるのは任せてください。\nぐーるぐるぐる……	Totori	I'll handle the stirring. Just mix it all up...	托托莉	搅拌就交给我吧。\n我搅搅搅……	托托莉	交給我攪拌吧。\n我攪～我攪我攪攪攪……
+LegendEvent_04_012ID	3	Rorona	ロロナ	次は、これとこれを釜にポイポイッと入れて……	Rorona	Next, we throw in these two materials...	萝乐娜	然后把这个和这个扔进锅里……	蘿樂娜	接著，把這個和這個丟進釜裡面……
+LegendEvent_04_012ID	4	Meruru	メルル	おおっ、色が変わりましたね！\nこの本に書いてある通りですよ	Meruru	Wow, it changed color! Just like the book said.	梅露露	哦，变色了！和书上写的一样。	梅露露	哦哦，顏色變了呢！\n跟這本書上寫的一樣喔。
+LegendEvent_04_012ID	5	Rorona	ロロナ	そしたら、次に――	Rorona	After that, we need to...	萝乐娜	接下来——	蘿樂娜	然後，再來是──
+LegendEvent_04_012ID	6	Rorona	ロロナ	やったあ！\n「熱生成の結晶」ができたよ！	Rorona	We did it! Now we have our very own thermal crystal.	萝乐娜	做好了！\n“生热结晶”完成了！	蘿樂娜	太好了！\n「生熱結晶」完成了！
+LegendEvent_04_012ID	7	Totori	トトリ	わあ、手を近づけるだけであったかい……	Totori	Wow, I can feel the heat just by putting my hand near it.	托托莉	哇，手一靠近就感受到了温暖……	托托莉	哇啊，光是手靠近它就好暖和喔……
+LegendEvent_04_012ID	8	Meruru	メルル	これで、雪の精霊のお母さんの\n具合が良くなるといいですね	Meruru	I really hope that this will help that little spirit's mother feel better.	梅露露	如果这个能帮助那位精灵妈妈\n恢复健康就好了。	梅露露	希望雪精靈媽媽的病情\n能夠因此好轉。
+LegendEvent_04_012ID	9	Rorona	ロロナ	うん、きっと喜んでくれるよ。\n二人の所に持っていこう	Rorona	I'm sure they'll be thrilled. Let's head back to the mountain!	萝乐娜	嗯，相信这个会是她需要的东西。\n我们快带过去交那对母女吧。	蘿樂娜	嗯，她們一定會很高興的。\n把這個拿去給她們吧。
+LegendEvent_04_013ID	0	Sterk	ステルク	これが「熱生成の結晶」か	Sterk	So this is a thermal crystal?	史特尔克	这就是“生热结晶”啊。	史特爾克	這就是「生熱結晶」啊。
+LegendEvent_04_013ID	1	Rorona	ロロナ	はい、これがあれば\nお母さんの具合も良くなるはずです	Rorona	That's right. This might be the key to helping the spirit's mother feel better.	萝乐娜	是的，只要有这个，\n那位精灵妈妈应该就能恢复健康。	蘿樂娜	是的，只要有了這個，\n雪精靈媽媽的病情應該就會好轉了。
+LegendEvent_04_013ID	2	Sterk	ステルク	しかし……精霊とはいえ、あれは魔物の一種だ。\n魔物に手を貸すのはどうかと思うが……	Sterk	But you know, spirits are a kind of monster. I'm not exactly sure we should be helping them.	史特尔克	不过……说是精灵，但那也是一种魔物。\n帮助魔物我可不是很敢苟同……	史特爾克	不過……雖說是精靈，但那也是魔物的一種。\n對魔物伸出援手實在不太好……
+LegendEvent_04_013ID	3	Totori	トトリ	ステルクさんの言うことも分かりますが……\n魔物かどうかだけで判断するのは良くないと思います	Totori	I understand what you're saying, but I don't think it's right to lump all monsters together in one group and judge them like that.	托托莉	我懂史特尔克先生的意思……\n但我觉得不应只凭是不是魔物来下判断。	托托莉	我明白史特爾克先生的意思……\n但只憑對方是否為魔物來做判斷是不對的。
+LegendEvent_04_013ID	4	Totori	トトリ	お母さんを助けたいという想いは、\n魔物もわたしたちも同じではないでしょうか？	Totori	That little spirit just wants to save her mother. Doesn't that quality make humans and monsters the same?	托托莉	魔物想拯救自己妈妈的心情，\n和我们不也一样吗？	托托莉	想幫助媽媽的這份心意，\n魔物跟我們並無差別吧？
+LegendEvent_04_013ID	5	Sterk	ステルク	…………	Sterk	...	史特尔克	……	史特爾克	…………
+LegendEvent_04_013ID	6	Meruru	メルル	とにかく行きましょう……うわっ、とと！！	Meruru	Anyway, we'd better get going... Whoa, whoops!	梅露露	总之我们走吧……哇，哎哟！！	梅露露	總之我們快出發吧……哇、哎喲！！
+LegendEvent_04_013ID	7	Rorona	ロロナ	メルルちゃん、大丈夫？	Rorona	Meruru, are you hurt?	萝乐娜	梅露露，你没事吧？	蘿樂娜	梅露露，妳沒事吧？
+LegendEvent_04_013ID	8	Meruru	メルル	は、はい、大丈夫です。\nなんだかこの前より、歩きにくくて……	Meruru	N-No. I'm all right. But it feels a bit harder to walk than it was before.	梅露露	嗯，我没事。\n这里的路是不是比之前更难走了……	梅露露	沒、沒事，我很好。\n總覺得比之前更難走了……
+LegendEvent_04_013ID	9	Sterk	ステルク	確かに以前よりも積雪量が増えてる気がするな。\nそれに……	Sterk	Now that you mention it, the snow looks much deeper than it was earlier. And that's not all...	史特尔克	积雪的确比之前更深了。而且……	史特爾克	感覺積雪深度確實比之前更厚了。\n而且……
+LegendEvent_04_013ID	10	Sterk	ステルク	気温も下がってきている。\nこのままだと本格的に吹雪きそうだな	Sterk	The temperature is dropping, too. It's like we're walking into a huge snowstorm.	史特尔克	气温也变得更低了。\n再这么下去可能会刮起暴风雪。	史特爾克	氣溫也在逐漸下降。\n再這樣下去，好像真的會發生暴風雪。
+LegendEvent_04_013ID	11	Meruru	メルル	これって、精霊のお母さんの\n具合が悪くなったことと関係あるんでしょうか？	Meruru	I wonder if the weather and the spirit's sickness are connected somehow.	梅露露	这和那位精灵妈妈的健康情况有什么关系吗？	梅露露	這個情況和精靈媽媽的病情惡化\n有關嗎？
+LegendEvent_04_013ID	12	Rorona	ロロナ	どうだろう。詳しいことは分からないけど\n急いだほうがよさそうだね	Rorona	We can't know for sure, but I do know one thing—we'd better hurry.	萝乐娜	不知道，现在还不清楚具体情况，\n不过我觉得我们最好加快脚步。	蘿樂娜	不曉得。雖然不清楚詳細狀況，\n但我們趕緊過去似乎比較好。
+LegendEvent_04_014ID	0	Meruru	メルル	ううっ、かなり寒くなってきましたね	Meruru	Oooh, it's freezing...	梅露露	呜呜，真的变得好冷啊。	梅露露	唔唔，變得越來越冷了呢。
+LegendEvent_04_014ID	1	Totori	トトリ	急がないと、精霊のお母さんの病気が\n悪化しちゃいそう	Totori	The spirit's condition is going to get even worse if we don't hurry.	托托莉	再不快点，精灵妈妈的病情又要继续恶化了。	托托莉	再不快點的話，\n精靈媽媽的病情可能會惡化。
+LegendEvent_04_014ID	2	Rorona	ロロナ	もう少しだよ、みんな頑張ろう	Rorona	Hang on, everyone. Just a little farther!	萝乐娜	很快就要到了，大家再加把劲。	蘿樂娜	就快到了，大家再加把勁。
+LegendEvent_04_014ID	3	Sterk	ステルク	……っ！　全員、動くな！	Sterk	*Gasp* Nobody move!	史特尔克	等等！所有人都别动！	史特爾克	……唔！所有人都別動！
+LegendEvent_04_014ID	4	Rorona	ロロナ	えっ、な、なに！？	Rorona	Huh?! What is it?!	萝乐娜	咦？怎、怎么了？！	蘿樂娜	咦，怎、怎麼了！？
+LegendEvent_04_014ID	5	Totori	トトリ	ロロナ先生、あそこ！！	Totori	Teacher, over there!	托托莉	萝乐娜老师，看那里！！	托托莉	蘿樂娜老師，那邊！！
+LegendEvent_04_014ID	6	Rorona	ロロナ	あんな魔物、\nこの前来た時にはいなかったよね？	Rorona	That monster definitely wasn't here last time, right?	萝乐娜	我们上次来的时候，没见过这种魔物吧？	蘿樂娜	那種魔物，\n上次來的時候沒看到吧？
+LegendEvent_04_014ID	7	Meruru	メルル	しかも、すっごくおっきいです！\n雪山なんて食べるもの、なさそうなのに！	Meruru	It's humongous! But food in this cold must be scarce... How did it get so big?!	梅露露	而且好大啊！\n雪山上应该没什么食物啊！	梅露露	而且體形非常龐大！\n明明雪山這種地方沒什麼能吃的東西呀！
+LegendEvent_04_014ID	8	Totori	トトリ	魔物の大きさと食べ物は関係ないような……	Totori	It's almost as if its size has nothing to do with its diet.	托托莉	魔物大不大和有没有食物好像没什么关系吧……	托托莉	魔物的體形似乎跟食物沒有關聯……
+LegendEvent_04_014ID	9	Meruru	メルル	うわぁ、襲ってきたあ！	Meruru	Ahhh, here it comes!	梅露露	哇，它来了！	梅露露	嗚哇，朝我們衝過來了！
+LegendEvent_04_014ID	10	Sterk	ステルク	メルル姫、お下がりください！\nここは私がっ！　――はああっ	Sterk	Princess Meruru, please stand back! Let me handle this! Haaah!	史特尔克	梅露露公主，请退后！\n这里由我来对付！喝啊——！	史特爾克	梅露露公主，請退後！\n這裡交給我──喝啊啊！
+LegendEvent_04_014ID	11	Rorona	ロロナ	トトリちゃん、メルルちゃん、わたしたちもいくよ！	Rorona	Totori, Meruru! It's our turn to fight!	萝乐娜	托托莉，梅露露，我们也上！	蘿樂娜	托托莉、梅露露，我們也準備上吧！
+LegendEvent_04_014ID	12		トトリ/メルル	はいっ！	Totori/Meruru	Right!	托托莉/梅露露	好的！	托托莉/梅露露	是！
+LegendEvent_04_015ID	0	Rorona	ロロナ	はあ、びっくりした……\nまさか、あんな魔物がいるなんて	Rorona	Phew, that was scary... I never thought we'd run into a monster like that.	萝乐娜	哎呀，吓了一跳……\n没想到会遇到那种魔物。	蘿樂娜	呼，真是嚇了一跳……\n沒想到竟然會有那種魔物。
+LegendEvent_04_015ID	1	Sterk	ステルク	以前訪れた時は、\n偶然、遭遇しなかっただけなのだろうか？	Sterk	It's a wonder that we didn't encounter that thing the last time we came through here.	史特尔克	是以前来的时候碰巧没遇上吗？	史特爾克	以前來這裡的時候，\n只是碰巧沒有遇到而已嗎？
+LegendEvent_04_015ID	2	Meruru	メルル	それならいいんですけど、\nこの気候と関係してたりしません？	Meruru	We must have missed it. Or perhaps that creature is somehow related to the snowstorm.	梅露露	要是那样倒还好，\n不过魔物出现和天气变化会不会有什么关联？	梅露露	但願如此，\n只擔心會不會是跟這個氣候有關？
+LegendEvent_04_015ID	3	Totori	トトリ	この寒さに引き寄せられたってこと？\n……うーん、どうだろう	Totori	You mean you think that thing was drawn to this cold? Hmm... I don't know about that.	托托莉	你是说它被这股寒潮引到了这里？\n唔……不好说啊。	托托莉	妳的意思是，魔物是被這種嚴寒氣候吸引過來的嗎？\n……唔～很難說耶。
+LegendEvent_04_015ID	4	Sterk	ステルク	その可能性は否定できないな。\nだが、そうだという根拠もない……	Sterk	We can't rule out the possibility. But we don't have evidence to support that theory, either...	史特尔克	不能否定这种可能性。\n但是也没有证据可以证实……	史特爾克	無法否認有這個可能性。\n但沒有事實能證明就是如此……
+LegendEvent_04_015ID	5	Rorona	ロロナ	もし本当だとすれば、\nあまり、ゆっくりしていられないね	Rorona	If you're right, then we don't have time to be standing around here.	萝乐娜	如果真的有所关联，\n那我们无论如何都要加速了。	蘿樂娜	如果真是這樣，\n我們就得加快動作才行了。
+LegendEvent_04_015ID	6	Rorona	ロロナ	また別の魔物に遭遇するかもしれないし、\n先を急いだほうがいいんじゃないかな	Rorona	What's more, other monsters could be lurking nearby. I really think we should hurry on ahead.	萝乐娜	而且可能还会遇到别的魔物，\n我们尽快赶路吧。	蘿樂娜	說不定又會遇到其他魔物，\n我們最好還是快點趕路吧。
+LegendEvent_04_015ID	7	Totori	トトリ	そうですね。\n精霊さんたちの所に急ぎましょう！	Totori	I agree. Let's go find the spirits!	托托莉	是啊。加紧前往精灵们的家吧。	托托莉	說得沒錯。\n我們趕緊去找精靈她們吧！
+LegendEvent_04_015ID	8	Sterk	ステルク	ぐ……なんだ、この雪と冷え込みは。\nいよいよ尋常ではなくなってきたな	Sterk	Ngh... This cold is becoming unbearable. None of this can be normal.	史特尔克	唔……这大雪低温已经非比寻常了。	史特爾克	唔……這風雪和驟降的氣溫是怎麼回事？\n情況變得越來越不尋常了。
+LegendEvent_04_015ID	9	Meruru	メルル	み、見てください！　あれ！	Meruru	Everyone, look! There!	梅露露	你、你们看！看那个！	梅露露	大、大家快看！那個！
+LegendEvent_04_015ID	10		精霊の母	う……うう……があああああ！！！	Spirit Mother	Urgh... Nnhhh... Grahhh!	精灵母亲	唔……呜……嘎啊啊啊啊啊！！	精靈母親	唔……唔唔……呃啊啊啊啊啊！！！
+LegendEvent_04_015ID	11	Rorona	ロロナ	わあ！　精霊さんからすごい冷気が！\nもしかして、この異常な寒さは精霊さんが……？	Rorona	Whoa, that icy blast coming from the spirit! Is she causing all of this?	萝乐娜	哇！精灵正在释放猛烈的寒气！\n难道这异常的寒冷是因为精灵……？	蘿樂娜	哇啊！精靈散發出非常驚人的寒氣！\n難道說，這異常寒冷的天氣是精靈造成的……？
+LegendEvent_04_015ID	12		精霊の子	みんな、来ちゃダメ！　近づいたら凍っちゃう！	Spirit Child	Don't come any closer! You'll get frozen solid!	精灵女孩	你们不要过来！离太近会被冻住的！	精靈孩子	大家不要過來！靠近會結凍的！
+LegendEvent_04_015ID	13	Meruru	メルル	いったい何があったの！？	Meruru	What in Lantarna's going on?!	梅露露	到底发生了什么？！	梅露露	到底發生了什麼事！？
+LegendEvent_04_015ID	14		精霊の子	分からない……！　お母さん、急に倒れたかと思ったら\nこんな感じになっちゃって……！	Spirit Child	I don't know! My mother... She collapsed. And then, she ended up like this all of a sudden!	精灵女孩	我不知道……！\n妈妈突然倒下，然后就变成了这样……！	精靈孩子	不知道……！媽媽突然昏倒，\n接著就變成這樣了……！
+LegendEvent_04_015ID	15	Totori	トトリ	病気の悪化で、暴走しているのかもしれません！\nわたしたちの手で、いったん落ち着かせましょう！	Totori	Her sickness is getting worse. That must be what's driving her to madness. We have to calm her down and put a stop to this!	托托莉	也许是因为病情恶化而失控了！\n我们帮她恢复理智吧！	托托莉	可能是病情惡化導致她失控了！\n我們先讓她冷靜下來吧！
+LegendEvent_04_015ID	16	Meruru	メルル	は、はい！	Meruru	R-Right!	梅露露	好、好的！	梅露露	好、好的！
+LegendEvent_04_016ID	0		精霊の母	う……わ、私は……何を	Spirit Mother	Oh, dear... What was I...doing?	精灵母亲	呜……我……我都做了什么……	精靈母親	唔……我、我是……怎麼……
+LegendEvent_04_016ID	1	Totori	トトリ	精霊さん！　よかった！　\n気が付いたんですね！	Totori	Thank goodness, she's back to her senses!	托托莉	精灵女士！太好了，你终于清醒了！	托托莉	精靈小姐！太好了！\n看來妳清醒過來了呢！
+LegendEvent_04_016ID	2	Rorona	ロロナ	はい、「熱生成の結晶」。\nこれで、お母さんの具合は良くなるよ	Rorona	Here! This is a thermal crystal. It should help you feel better!	萝乐娜	给，这是“生热结晶”。\n用了这个，你妈妈的身体应该就会好起来的。	蘿樂娜	來，這是「生熱結晶」。\n有了這個，妳媽媽的病情就會好轉喔。
+LegendEvent_04_016ID	3		精霊の子	これが、お母さんのお薬？\nキラキラしてて綺麗……	Spirit Child	Will this cure my mother? It's so sparkly...	精灵女孩	这是给妈妈的药吗？\n亮晶晶的，好漂亮……	精靈孩子	這就是媽媽的藥？\n閃閃發亮的，好漂亮……
+LegendEvent_04_016ID	4		精霊の母	熱生成の結晶……そういえば、あの時の\n錬金術士もその名前を口にしていたような……	Spirit Mother	A thermal crystal... Now that you mention it, I think that's what the alchemist from before called it too.	精灵母亲	生热结晶……我想起来了，从前那位炼金术士\n好像也提到过这个名字……	精靈母親	生熱結晶……這麼說來，當時那位\n鍊金術士似乎也提過這個名字……
+LegendEvent_04_016ID	5	Totori	トトリ	この結晶はマナでできているので\n以前の薬のように使ってみてください	Totori	This crystal is made of mana. Try using it the same way you did last time.	托托莉	这个结晶是用玛那做成的，\n用法和以前一样，请试用一下吧。	托托莉	這個結晶是用瑪那做成的，\n請妳像之前的藥一樣使用吧。
+LegendEvent_04_016ID	6	Totori	トトリ	それで寒さは無くなると思います	Totori	It should take care of the chills you were experiencing.	托托莉	那样应该就不会再觉得冷了。	托托莉	這樣應該就不會感到寒冷了。
+LegendEvent_04_016ID	7		精霊の母	分かりました、やってみます。\n…………	Spirit Mother	I see. I'll give it a try...	精灵母亲	我知道了，我来试一下。\n……	精靈母親	好的，我試試看。\n…………
+LegendEvent_04_016ID	8		精霊の母	……ふう	Spirit Mother	Ahhh...	精灵母亲	呼……	精靈母親	呼……
+LegendEvent_04_016ID	9	Meruru	メルル	ど、どうかな……？	Meruru	How are you feeling?	梅露露	有、有效果吗……？	梅露露	怎、怎麼樣……？
+LegendEvent_04_016ID	10		精霊の母	はい。\nゆっくりと身体が温まっていくのを感じます	Spirit Mother	Better. I feel my body growing warmer, bit by bit.	精灵母亲	有效果。我感觉到身体慢慢暖起来了。	精靈母親	是。\n我感覺到身體慢慢地暖和起來了。
+LegendEvent_04_016ID	11	Rorona	ロロナ	やったあ！　大成功！	Rorona	Yay! It really worked!	萝乐娜	太好了！成功了！	蘿樂娜	太好了！大成功！
+LegendEvent_04_016ID	12	Rorona	ロロナ	うわわっ、「熱生成の結晶」が！\nま、まさか失敗……！？	Rorona	Oh, no, no! The thermal crystal! Did we mess something up?!	萝乐娜	哇，生热结晶怎么……！\n难、难道说失败了……？！	蘿樂娜	哇啊啊，「生熱結晶」它……！\n難、難道是失敗了……！？
+LegendEvent_04_016ID	13	Totori	トトリ	精霊さん、大丈夫ですか！？\n身体の具合は……	Totori	Are you all right?! Do you still feel sick?	托托莉	精灵女士，你还好吗？！\n现在感觉怎么样……	托托莉	精靈小姐，妳沒事吧！？\n身體狀況如何……
+LegendEvent_04_016ID	14		精霊の母	強いマナを吸収しましたから、\nこれで十分です	Spirit Mother	Since I was able to absorb powerful mana, I'm fine. This should be more than enough.	精灵母亲	我吸收了强大的玛那，已经足够了。	精靈母親	我吸收了很強大的瑪那，\n這樣就足夠了。
+LegendEvent_04_016ID	15	Meruru	メルル	はあ、よかったー	Meruru	Oh, thank goodness!	梅露露	呼，那就好——	梅露露	呼，太好了～
+LegendEvent_04_016ID	16		精霊の子	お母さん……？	Spirit Child	Mother...?	精灵女孩	妈妈……？	精靈孩子	媽媽……？
+LegendEvent_04_016ID	17		精霊の母	心配させてごめんね。皆さんのおかげで\nもうすっかり元気になったわ	Spirit Mother	I'm so sorry for worrying you. Thanks to you and these humans, I'm feeling all better now.	精灵母亲	抱歉让你担心了。\n多亏了各位的帮助，我已经恢复了。	精靈母親	抱歉讓妳擔心了。多虧各位的幫忙，\n我已經完全康復了。
+LegendEvent_04_016ID	18		精霊の子	お母さん！　よかったー！	Spirit Child	Oh, Mother! I'm so happy!	精灵女孩	妈妈！太好了！	精靈孩子	媽媽！太好了～！
+LegendEvent_04_016ID	19		精霊の母	まあ、この子ったら……ふふ	Spirit Mother	As am I, dear one... Hehe.	精灵母亲	这孩子真是的……呵呵。	精靈母親	哎呀，妳這孩子真是的……呵呵。
+LegendEvent_04_016ID	20		精霊の子	お姉ちゃんたち……お母さんの病気を\n治してくれてありがとう	Spirit Child	Thank you so much. You all saved my mother.	精灵女孩	大姐姐们……谢谢你们治好了妈妈的病。	精靈孩子	真的很謝謝大姐姐妳們……\n幫忙治好媽媽的病。
+LegendEvent_04_016ID	21	Rorona	ロロナ	どういたしまして！\nお母さん、元気になってよかったね	Rorona	You're very welcome! We're just glad that she's feeling better.	萝乐娜	不客气！\n只要你妈妈恢复健康，我们就放心了。	蘿樂娜	不客氣！\n妳媽媽恢復健康真是太好了呢。
+LegendEvent_04_016ID	22		精霊の子	うん！！	Spirit Child	Me too!	精灵女孩	嗯！！	精靈孩子	嗯！！
+LegendEvent_04_017ID	0		精霊の母	助けていただいて、ありがとうございました。\n皆さんのおかげです	Spirit Mother	Thank you for all that you've done. I owe you my life.	精灵母亲	非常感谢你们出手相助。\n我能恢复全都多亏了你们。	精靈母親	感謝各位相助。\n真的多虧了有妳們。
+LegendEvent_04_017ID	1		精霊の母	そしてごめんなさい。私のために、\n危険を冒してくださったようで……	Spirit Mother	And please accept my apology. You all put yourselves in great danger to help me.	精灵母亲	还有，我也要向你们道歉，\n都怪我害你们身陷险境……	精靈母親	然後也很抱歉。妳們似乎為了我，\n不惜冒險犯難……
+LegendEvent_04_017ID	2	Totori	トトリ	いえ、そんな。\nでも、お役に立てたのならよかったです	Totori	Please don't worry about that. We're just happy that we were able to help.	托托莉	哪里，别这么说。\n能帮上你的忙就好。	托托莉	不，這沒什麼。\n只要有幫上忙，我們就很高興了。
+LegendEvent_04_017ID	3		精霊の母	今、この雪山だけでなくあちこちで気温や雪の量が\nおかしくなっていますが……	Spirit Mother	At present, it's not only this mountain that is experiencing strange weather. Other areas nearby have also been affected by heavy snow and extreme cold.	精灵母亲	现在不仅是这座雪山，\n各地区的气温和降雪量都变得不太正常……	精靈母親	現在不只是雪山，\n各地的氣溫和降雪量都發生了異常……
+LegendEvent_04_017ID	4		精霊の母	それは私の雪の力が暴走してしまっていたのが\n原因でしょう	Spirit Mother	But I believe those fluctuations occurred since my powers were out of control.	精灵母亲	那些异状应该全都是我的雪之力失控导致的。	精靈母親	想必是因為\n我的雪之力失控了吧。
+LegendEvent_04_017ID	5	Meruru	メルル	ってことは。\nもしかして、あの大きな魔物も？	Meruru	Does that mean your powers also created the huge monster we saw?	梅露露	这么说，那只巨大的魔物也是？	梅露露	這樣的話，\n該不會那隻巨大魔物的出現也是這個原因？
+LegendEvent_04_017ID	6		精霊の母	ええ、恐らくは。私の暴走の気にあてられて\n彼らも様子がおかしくなってしまったのだと思います	Spirit Mother	That's certainly possible. When I lost myself, my rampage may have caused the monsters' behavior or form to become altered.	精灵母亲	嗯，它们应该也是接触到我失控释放出的能量\n而变得无法自控的。	精靈母親	對，恐怕如此。牠們應該也是受到\n我力量失控的影響，而出現不對勁的狀態。
+LegendEvent_04_017ID	7	Sterk	ステルク	……なるほど。この異常気象の原因は\n精霊の病だったというわけか	Sterk	I see. So all of this strange weather was linked to the snow spirit's sickness after all.	史特尔克	原来是这样……\n这异常气象的原因是精灵的病症啊。	史特爾克	……原來如此。天候之所以異常，\n是精靈生病所導致的啊。
+LegendEvent_04_017ID	8		精霊の母	ですが、こうして体調が良くなってきたので\n気候もやがて元に戻るでしょう	Spirit Mother	Yes. However, now that I'm feeling better, I imagine that the weather patterns will return to normal as well.	精灵母亲	不过现在我已经恢复了健康，\n气候应该也会恢复原样吧。	精靈母親	不過，我的身體也託各位的福已經康復了，\n不久之後氣候也會恢復如初的。
+LegendEvent_04_017ID	9	Rorona	ロロナ	それって……王都の雪も全部溶けて\n元通りになっちゃうのかな	Rorona	Aww... So all of the snow in the capital is going to melt?	萝乐娜	那就是说……王都的天气会恢复正常，\n积雪也会消融吧。	蘿樂娜	這表示……王都的雪也會全部融化，\n恢復成原本的狀態嗎？
+LegendEvent_04_017ID	10	Meruru	メルル	なんだか、もったいないですねー	Meruru	It's a bit of a shame, really.	梅露露	总觉得有点可惜啊～	梅露露	總覺得好可惜喔～
+LegendEvent_04_017ID	11	Sterk	ステルク	何にせよこれで役目は終わったな。\n夜になる前に下山したほうがいい	Sterk	In any case, our mission here is complete. It would be best if we headed back down the mountain before nightfall.	史特尔克	总之我们的任务完成了。\n在天黑之前还是快下山吧。	史特爾克	不管怎麼說，妳們任務已經完成了。\n我們最好在天黑前下山。
+LegendEvent_04_017ID	12	Totori	トトリ	そうですね	Totori	Good point.	托托莉	是啊。	托托莉	說得也是。
+LegendEvent_04_017ID	13	Meruru	メルル	精霊ちゃん、\nまた今度、人間の姿になって遊びにおいでよ	Meruru	Little spirit, please do come back and visit us again.	梅露露	精灵小妹妹，\n下次再变成人类的样子来和我们玩吧。	梅露露	小精靈，下次妳再化成人類的模樣\n來找我們玩吧。
+LegendEvent_04_017ID	14	Meruru	メルル	みんなでランターナの街を\n案内してあげるから！	Meruru	We'd all love to show you around Lantarna.	梅露露	我们会带你去逛逛兰塔纳的城镇！	梅露露	大家會一起帶妳\n逛逛蘭塔納的城鎮的！
+LegendEvent_04_017ID	15		精霊の子	……ううん。\nもう、遊びに行けない	Spirit Child	No... I can't play with you anymore.	精灵女孩	不用了……我没办法再去玩了。	精靈孩子	……沒關係。\n我已經不能去玩了。
+LegendEvent_04_017ID	16	Meruru	メルル	ど、どうして？\n人間と関わっちゃいけないって言われてるから？	Meruru	Why not? Because you aren't supposed to be around humans?	梅露露	为、为什么？\n是因为妈妈说不能和人类接触吗？	梅露露	為、為什麼？\n因為媽媽說妳不能跟人類來往嗎？
+LegendEvent_04_017ID	17		精霊の子	私、お姉ちゃんたちのことは大好き。\nみんなとっても優しくて、いい人だから	Spirit Child	I really like you all. You're good people, and you're so nice to me.	精灵女孩	我非常非常喜欢大姐姐们。\n你们都是很好很善良的人类。	精靈孩子	我很喜歡大姐姐妳們，\n大家都是非常溫柔的好人。
+LegendEvent_04_017ID	18	Meruru	メルル	だったら……	Meruru	Then why...?	梅露露	那为什么……	梅露露	既然如此……
+LegendEvent_04_017ID	19		精霊の母	……私たち雪の精霊は、\n雪の降る場所にしか行けないのです	Spirit Mother	Snow spirits like us can only go where it snows.	精灵母亲	因为我们雪精灵，只能去到会下雪的地方。	精靈母親	……我們雪精靈\n只能去下雪的地方。
+LegendEvent_04_017ID	20	Meruru	メルル	えっ……	Meruru	Oh...	梅露露	咦……	梅露露	咦……
+LegendEvent_04_017ID	21		精霊の母	気候が元に戻って\n街から雪が消えたらもう行くことはできません	Spirit Mother	Once the weather returns to normal, the snow will disappear. My daughter and I will no longer be able to reach the capital.	精灵母亲	等天气恢复常态，\n城镇里的雪融化后，她就再也去不了了。	精靈母親	一旦氣候恢復正常，\n城鎮的雪消失，我們就再也不能去了。
+LegendEvent_04_017ID	22		精霊の母	だから、皆さんとは……これでお別れです	Spirit Mother	That's why I'm afraid this is goodbye.	精灵母亲	所以……就在这里和各位道别吧。	精靈母親	所以，我們要在這裡……跟各位道別了。
+LegendEvent_04_017ID	23		みんな	…………	Everyone	...	所有人	……	大家	…………
+LegendEvent_04_017ID	24	Totori	トトリ	そっか……寂しいけど、仕方ないね	Totori	As sad as it is...we don't have any choice.	托托莉	是这样啊……有点舍不得，但也没办法啊。	托托莉	這樣啊……雖然很捨不得，但也沒辦法。
+LegendEvent_04_017ID	25		精霊の子	私ね、お姉ちゃんたちのこと忘れない。\n優しくしてくれて、嬉しかった！	Spirit Child	But I'll never forget any of you. I promise. You were so kind to me... It made me really happy.	精灵女孩	我不会忘记你们的。\n你们对我很好，我很开心！	精靈孩子	我不會忘記大姐姐妳們的。\n妳們都對我很好，我很高興！
+LegendEvent_04_017ID	26	Rorona	ロロナ	精霊ちゃん……	Rorona	Oh, little spirit...	萝乐娜	精灵小妹妹……	蘿樂娜	小精靈……
+LegendEvent_04_017ID	27		精霊の子	あのね。もう会えないかもしれないけど……\nこれからも、お友達だと思っていていい？	Spirit Child	Um... Even if I can't see you anymore, can we still be friends from now on?	精灵女孩	以后可能不会再见了……\n不过我还能把你们当成朋友吗？	精靈孩子	我問一下喔，雖然可能再也見不到面了……\n但今後還能繼續把妳們當作朋友嗎？
+LegendEvent_04_017ID	28	Rorona	ロロナ	もちろんだよ！\nずーっとお友達でいよう！	Rorona	Of course we can! We'll always be friends.	萝乐娜	那当然啦！\n我们今后也永远都是好朋友！	蘿樂娜	當然囉！\n我們當永遠的朋友吧！
+LegendEvent_04_017ID	29		精霊の子	うん、約束だよ！	Spirit Child	Yeah. Forever and ever!	精灵女孩	嗯，那就说好了哦！	精靈孩子	嗯，約好了！
+LegendEvent_04_018ID	0	Rorona	ロロナ	王都の雪……まだ降ってるね	Rorona	It's still snowing here...	萝乐娜	王都的雪……还在下啊。	蘿樂娜	王都……還在下雪呢。
+LegendEvent_04_018ID	1	Sterk	ステルク	ああ。\nじきに止むだろうがな	Sterk	Yeah. But it will pass before long.	史特尔克	嗯。不过马上就会停吧。	史特爾克	是啊。\n應該很快就會停了吧。
+LegendEvent_04_018ID	2	Meruru	メルル	ランターナに雪が降って……\nみんなで、はしゃいでただけだったのに	Meruru	When it started to snow in Lantarna, I only thought it would be a chance for us to have some fun.	梅露露	兰塔纳突然下起了雪……\n我们本来只是在欢闹着享受这难得的时光……	梅露露	蘭塔納下了雪……\n本來只是跟大家一起玩鬧而已。
+LegendEvent_04_018ID	3	Meruru	メルル	あんな出会いと別れがあるなんて、\n思ってもみませんでした	Meruru	But I never imagined we'd meet—and then lose—someone so special.	梅露露	完全没想到还会发生这样的相遇和离别。	梅露露	實在沒想到\n竟會有那樣的相遇和離別。
+LegendEvent_04_018ID	4	Rorona	ロロナ	色んなことがあったけど……\nこうして雪が残っているのは今のうちだけだね	Rorona	Yeah, we went through so much... But we should enjoy the snow while it lasts.	萝乐娜	随着一连串的事件过去……\n这里的积雪也马上就会消失了。	蘿樂娜	雖然發生了很多事……\n但還能看到殘留下來的雪景就只有現在了吧。
+LegendEvent_04_018ID	5	Totori	トトリ	はい。\nこの雪景色も見納めです	Totori	You're right. I just want to take it all in while I still can.	托托莉	是啊。今后大概再也看不到这样的雪景了。	托托莉	是的。\n這也是最後一次欣賞這片雪景了。
+LegendEvent_04_018ID	6	Meruru	メルル	……でも、わたし。\nこの雪景色、忘れません	Meruru	But you know... I'll never forget this view.	梅露露	不过，我不会忘记眼前这片雪景。	梅露露	……但是，我……\n不會忘記這片雪景的。
+LegendEvent_04_018ID	7	Meruru	メルル	あの、精霊ちゃんたちのことだって。\nずっと友達だって約束しましたから！	Meruru	After all, we promised that little spirit we'd be friends forever.	梅露露	也不会忘记精灵小妹妹和她的妈妈。\n我们说好了永远都是好朋友嘛！	梅露露	那兩位精靈的事情也是。\n因為我們約好要當永遠的朋友了！
+LegendEvent_04_018ID	8	Totori	トトリ	わたしも！\n会えなくても、遠く離れていても……	Totori	We will. Even if we can't see each other, and no matter how far apart we may be...	托托莉	我也是！\n即使不可能见面，即使分隔两地……	托托莉	我也是！\n即使見不到面，即使相隔遙遠……
+LegendEvent_04_018ID	9	Totori	トトリ	一緒に過ごした時間や\n胸にある想いが消えるわけじゃないもの	Totori	The time we spent together is something we'll always carry in our hearts.	托托莉	一起度过的时间和胸中的感情也不会消失啊。	托托莉	一起度過的時光\n和心中的思念也不會就此消失。
+LegendEvent_04_018ID	10	Sterk	ステルク	……そうだな。\nこの雪が溶けたとしても、残るものはある	Sterk	That's right. Not everything will disappear with the snow when it melts.	史特尔克	是啊……\n虽然冰雪会消融，但有一些东西会留存下去。	史特爾克	……沒錯。就算這場雪融化了，\n有些東西依然會留存下來。
+LegendEvent_04_018ID	11	Rorona	ロロナ	うん、わたしもそう思うよ	Rorona	Yeah, you guys are right.	萝乐娜	嗯。我也这么觉得。	蘿樂娜	嗯，我也這麼認為。
+LegendEvent_04_018ID	12	Rorona	ロロナ	この雪が、わたしたちにくれた大切なもの。\nずっとずっと、大事にしよう	Rorona	This snow brought us something really precious. So let's treasure these memories forever and ever.	萝乐娜	这场雪对我们来说非常有意义。\n要永远铭记在心哦。	蘿樂娜	這場雪帶給了我們的珍貴寶物，\n我們要永永遠遠地珍藏起來才行。
