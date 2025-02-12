@@ -1,298 +1,298 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-CharacterEvent_001_NPC8_001ID	0		客A	ねえ、見てみて！　この革細工かわいくない？\nおしゃれな装飾品はミーケちゃんの店に限るわね！						
-CharacterEvent_001_NPC8_001ID	1		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ						
-CharacterEvent_001_NPC8_001ID	2		客C	あ、その服、あたしが先に目を付けてたのよ！\n譲りなさい！						
-CharacterEvent_001_NPC8_001ID	3	Mieke	ミーケ	はいはーい、押さないで！　ケンカもだーめ！\nミーケがちゃんとみんなの分作るから！						
-CharacterEvent_001_NPC8_001ID	4		客A	あ、ミーケちゃんだ！　かわいい！\nねえ、私だけの装飾品を作ってほしいんだけど……						
-CharacterEvent_001_NPC8_001ID	5		客B	私の依頼が先よ！						
-CharacterEvent_001_NPC8_001ID	6		客C	いいえあたしが先……！						
-CharacterEvent_001_NPC8_001ID	7	Mieke	ミーケ	ほらほら、順番に並んで！　装飾を作ってほしい人は、\n今から言うミーケの言葉を繰り返してね						
-CharacterEvent_001_NPC8_001ID	8		客C	ミーケちゃんの言葉……？						
-CharacterEvent_001_NPC8_001ID	9	Mieke	ミーケ	それでは皆さんご一緒に……						
-CharacterEvent_001_NPC8_001ID	10	Mieke	ミーケ	ビーッグ！！！						
-CharacterEvent_001_NPC8_001ID	11		客たち	ビ、ビッグ？						
-CharacterEvent_001_NPC8_001ID	12	Mieke	ミーケ	これはねぇ、ガルネ州で今、流行する兆しを見せている\n芸人「ザ・ビッグマン」の鉄板芸なんだよ						
-CharacterEvent_001_NPC8_001ID	13	Diona	ディオーナ	ミーケちゃん、雑談がすぎるとお客様を\nたくさん待たせてしまうわよ？						
-CharacterEvent_001_NPC8_001ID	14	Mieke	ミーケ	あー、ディオたん！						
-CharacterEvent_001_NPC8_001ID	15		客B	キャー、歌姫ディオーナ様よ！\nどうしてミーケちゃんの店に？						
-CharacterEvent_001_NPC8_001ID	16		客A	きっと職人同士の秘密の会話をするんだわ！\nなにせ……						
-CharacterEvent_001_NPC8_001ID	17		客A	今やこのお二人は、すべての若者の\nおしゃれの象徴なんですから！						
-CharacterEvent_001_NPC8_001ID	18	Mieke	ミーケ	言われてるよ、ディオたん。ディオたんも\n一緒にやってよ、ビッグを						
-CharacterEvent_001_NPC8_001ID	19	Diona	ディオーナ	今日は借りてきたものを返しにきたのよ、\n今から少し遠出して、歌いにいくから						
-CharacterEvent_001_NPC8_001ID	20		客C	あっ！　待ちなさいよ！　その商品はあたしの……！						
-CharacterEvent_001_NPC8_001ID	21	Mieke	ミーケ	あーあー！　大丈夫！　同じのもう一つあるから！						
-CharacterEvent_001_NPC8_001ID	22	Mieke	ミーケ	あいー。頑張ってね						
-CharacterEvent_001_NPC8_001ID	23	Diona	ディオーナ	ええ、ごめんなさい。それじゃ、失礼するわね						
-CharacterEvent_001_NPC8_001ID	24	Mieke	ミーケ	（……ここは、元はミーケのばーちゃんが営む\n　定食屋だった）						
-CharacterEvent_001_NPC8_001ID	25	Mieke	ミーケ	（好きに生きなって言うのがばーちゃんの口癖。\n　とーちゃんも好きに生きてて、今ここにはいない）						
-CharacterEvent_001_NPC8_001ID	26	Mieke	ミーケ	（そしてばーちゃんが死んじゃってからは、\n　ミーケもばーちゃんの言葉通り……）						
-CharacterEvent_001_NPC8_001ID	27	Mieke	ミーケ	（ばーちゃんの店を、好きなようにしてみた。\n　それが今のこの装飾屋）						
-CharacterEvent_001_NPC8_001ID	28	Mieke	ミーケ	（結果、今このヴィアベル州の若者の間では、\n　１，２を争う人気店となっている）						
-CharacterEvent_001_NPC8_001ID	29	Mieke	ミーケ	（ばーちゃん、とーちゃん。ミーケ、頑張ってるよ。\n　いつかきっと、もっとビーッグになるんだ……！）						
-CharacterEvent_001_NPC8_001ID	30	Mieke	ミーケ	今から使ってればすっごいおしゃれさんと言えるねぇ。\nさぁみんなでやってみよう。指の角度が重要で……						
-CharacterEvent_001_NPC8_002ID	0	???	？？？	失礼するよ						
-CharacterEvent_001_NPC8_002ID	1	Mieke	ミーケ	ごめんねー、今日はもう店じまい……						
-CharacterEvent_001_NPC8_002ID	2		役人	あの話は考えてくれたかな？						
-CharacterEvent_001_NPC8_002ID	3	Mieke	ミーケ	……お役人さん、また来たの？\n何度来たって答えは変わらないよ						
-CharacterEvent_001_NPC8_002ID	4		役人	まあそう答えを急ぐな。\n分かってないようだから、もう一度説明するぞ？						
-CharacterEvent_001_NPC8_002ID	5		役人	君の装飾の腕は見事なものだ。時代の先を行くセンスが\n話題を呼び、今やこの州で名を知らぬ者はいない						
-CharacterEvent_001_NPC8_002ID	6		役人	そんな君の仕事を、州が支えると言っているんだ。\n州と一緒になって王国全体へ君の装飾品を売り出そう						
-CharacterEvent_001_NPC8_002ID	7		役人	君の名が王国全土に広がる。金だって稼げる。\n今とは比べ物にならないぐらいにな						
-CharacterEvent_001_NPC8_002ID	8		役人	その際、州の産物として紹介させてもらうことには\nなるが……君にとっても悪い話ではないだろう？						
-CharacterEvent_001_NPC8_002ID	9	Mieke	ミーケ	計画だと、材料費は抑えなきゃいけないんでしょ？\nその割には販売価格は高いし						
-CharacterEvent_001_NPC8_002ID	10	Mieke	ミーケ	それじゃあミーケの思うサイコーの品には\nならないんだよね						
-CharacterEvent_001_NPC8_002ID	11		役人	最高の品など作る必要はないのだよ						
-CharacterEvent_001_NPC8_002ID	12	Mieke	ミーケ	……は？						
-CharacterEvent_001_NPC8_002ID	13		役人	素人には繊細なモノの良し悪しなど分からぬのさ。\nむろんある程度の出来映えは必要だがな						
-CharacterEvent_001_NPC8_002ID	14	Mieke	ミーケ	そんなわけないだろ！　みんなミーケの作ったもの、\nかわいいって言ってくれるんだ！						
-CharacterEvent_001_NPC8_002ID	15		役人	お前に客の何が分かるんだ？						
-CharacterEvent_001_NPC8_002ID	16	Mieke	ミーケ	っ……！？						
-CharacterEvent_001_NPC8_002ID	17		役人	最初はそうだったかもしれない。\nお前の装飾の質を見て皆商品を買っていったのだろう						
-CharacterEvent_001_NPC8_002ID	18		役人	だが今は違う。皆、“話題の装飾屋ミーケ”の\n商品だから買っているのだ						
-CharacterEvent_001_NPC8_002ID	19		役人	皆が買っている。ミーケの商品であれば間違いない。\n自分もミーケの商品を買えば、おしゃれになれるのだ						
-CharacterEvent_001_NPC8_002ID	20		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ						
-CharacterEvent_001_NPC8_002ID	21	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_002ID	22		役人	利口になれ。君が頷くだけで、州が潤う。\n多くの人が救われる。君も稼げる						
-CharacterEvent_001_NPC8_002ID	23		役人	また明日来る。考える時間をやろう。\n良い答えを期待しているぞ						
-CharacterEvent_001_NPC8_002ID	24	Mieke	ミーケ	……都合のいいこと言ってるけど。\nお役人さんが儲けたいだけじゃないの？						
-CharacterEvent_001_NPC8_002ID	25	Mieke	ミーケ	（なにか大きなことを成し遂げたいと思ってた。\n　ビーッグな何かになりたいって）						
-CharacterEvent_001_NPC8_002ID	26	Mieke	ミーケ	（そう思って、頑張って。いいところに\n　行けそうだと思ってたのに）						
-CharacterEvent_001_NPC8_002ID	27	Mieke	ミーケ	（なんだか不自由だ。\n　ミーケ、好きに生きれてるのかな）						
-CharacterEvent_001_NPC8_002ID	28	Mieke	ミーケ	あ。そういえば、とーちゃんから手紙が来てたっけ						
-CharacterEvent_001_NPC8_002ID	29	Mieke	ミーケ	とーちゃん、今何してるんだろ。なになに……						
-CharacterEvent_001_NPC8_002ID	30		ミーケの父	よお、ミーケ！　元気にしてるか？\nとーちゃんは絶好調だぞ！						
-CharacterEvent_001_NPC8_002ID	31		ミーケの父	お笑いの賞レースには落ちちまったが、\n営業がうまく行って仕事は増えてきてるんだ！						
-CharacterEvent_001_NPC8_002ID	32		ミーケの父	こうして好きなことができているのは、\nお前が快くとーちゃんを送り出してくれたおかげだ						
-CharacterEvent_001_NPC8_002ID	33		ミーケの父	だからミーケも自分の好きなように生きてくれ						
-CharacterEvent_001_NPC8_002ID	34		ミーケの父	次の街に着いたらまた手紙を送る。いつか大陸中に\n名を轟かしてやるから待ってろよ！　ビーッグ！！！						
-CharacterEvent_001_NPC8_002ID	35	Mieke	ミーケ	……好きに生きてくれ、か						
-CharacterEvent_001_NPC8_002ID	36		役人	失礼するよ						
-CharacterEvent_001_NPC8_002ID	37	Mieke	ミーケ	早い時間にどうも。まだ開店前だよ						
-CharacterEvent_001_NPC8_002ID	38		役人	いい加減、けりを付けたいものでな。\n今回で最後にしよう						
-CharacterEvent_001_NPC8_002ID	39		役人	さあ。君の答えを聞かせてもらおうか						
-CharacterEvent_001_NPC8_002ID	40	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_002ID	41	Mieke	ミーケ	（この人の話に乗ったら、ミーケはもう\n　好きに生きることはできなくなる気がする）						
-CharacterEvent_001_NPC8_002ID	42	Mieke	ミーケ	（でも……ビッグになるまたとない機会であることは\n　確かだ）						
-CharacterEvent_001_NPC8_002ID	43	Mieke	ミーケ	ミーケは……						
-CharacterEvent_001_NPC8_002ID	44		選択肢	役人の言うことを聞く						
-CharacterEvent_001_NPC8_002ID	45	Mieke	ミーケ	……受けるよ、その話。\nミーケも、もっともっと名を売り出していきたいんだ！						
-CharacterEvent_001_NPC8_002ID	46		役人	……！　わかってくれたか！						
-CharacterEvent_001_NPC8_002ID	47	Mieke	ミーケ	（これでいい……はずだよね？\n　だって、ミーケはビーッグになるんだから！）						
-CharacterEvent_001_NPC8_002ID	48		役人	よーし、そうと決まればやることはたくさんある！\nさあさあ！　役所へ来てくれ！						
-CharacterEvent_001_NPC8_002ID	49		役人	私たちの、未来の話をしよう！						
-CharacterEvent_001_NPC8_002ID	50		選択肢	役人の言うことを聞かない						
-CharacterEvent_001_NPC8_002ID	51	Mieke	ミーケ	……ごめん。やっぱりミーケは、サイコーの品を\nみんなに届けたいんだ						
-CharacterEvent_001_NPC8_002ID	52	Mieke	ミーケ	だから、計画には乗れないよ						
-CharacterEvent_001_NPC8_002ID	53		役人	……そうか。わかった						
-CharacterEvent_001_NPC8_002ID	54		役人	残念だよ						
-CharacterEvent_001_NPC8_002ID	55	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_002ID	56	Mieke	ミーケ	（これでいい。正解のはずだ、ミーケ！）						
-CharacterEvent_001_NPC8_002ID	57	Mieke	ミーケ	（ミーケは、好きに生きると決めたんだ……！）						
-CharacterEvent_001_NPC8_003ID	0		ゴロツキ	おい！　どうしてくれんだよ！\nお前の作った商品のせいで彼女が体調を崩してんだ！						
-CharacterEvent_001_NPC8_003ID	1		ゴロツキ	みんな聞いてくれよ！　この店は毒性のある金属を\n商品に使ってんだ！						
-CharacterEvent_001_NPC8_003ID	2	Mieke	ミーケ	落ち着いてって！　だからその商品見せてよ！\n本当にうちのものなの！？						
-CharacterEvent_001_NPC8_003ID	3		ゴロツキ	んな危険なモン、もう捨てちまったよ！						
-CharacterEvent_001_NPC8_003ID	4	Mieke	ミーケ	話にならない！　言いがかりはよしてよ！						
-CharacterEvent_001_NPC8_003ID	5		近所の人	おいアンタ！　何してるんだ！\n店から出ていけ！						
-CharacterEvent_001_NPC8_003ID	6		ゴロツキ	クソが！　皆さーん！\nこの店はやべえぞー……						
-CharacterEvent_001_NPC8_003ID	7		近所の人	……ふう、追い出せたか						
-CharacterEvent_001_NPC8_003ID	8		近所の人	大丈夫か、ミーケちゃん						
-CharacterEvent_001_NPC8_003ID	9	Mieke	ミーケ	うん……ありがとう						
-CharacterEvent_001_NPC8_003ID	10		近所の人	しかし、これで何度目だ？\n最近こんなことばかり起きてるよな						
-CharacterEvent_001_NPC8_003ID	11	Mieke	ミーケ	はは……なんでだろうね。\nきっと虫の居所が悪かったんだよ						
-CharacterEvent_001_NPC8_003ID	12		近所の人	なあ、何か心当たりがあるんじゃないか？\nいくらなんでもおかしい……						
-CharacterEvent_001_NPC8_003ID	13	Mieke	ミーケ	なんでもないよ！　大丈夫！						
-CharacterEvent_001_NPC8_003ID	14		近所の人	……それならいいんだが。何かあったらまた呼んでくれ						
-CharacterEvent_001_NPC8_003ID	15	Mieke	ミーケ	……言えないよ。巻き込めない。\nだって相手にしてるのは……						
-CharacterEvent_001_NPC8_003ID	16		役人	はっはっは。大変なことになっているようじゃないか						
-CharacterEvent_001_NPC8_003ID	17		役人	今からでも私と手を組まないか？\nそうすれば、州が君を守ってやれるぞ						
-CharacterEvent_001_NPC8_003ID	18	Mieke	ミーケ	……お断りだい！						
-CharacterEvent_001_NPC8_003ID	19		役人	ふん、そうか。私は一向に構わんのだが						
-CharacterEvent_001_NPC8_003ID	20		役人	……ああそうだ。明日は今日よりももっと激しい雨に\nなりそうだぞ						
-CharacterEvent_001_NPC8_003ID	21	Mieke	ミーケ	……？　雨なんか降って……						
-CharacterEvent_001_NPC8_003ID	22		役人	雨はどんどん激しくなる。いつか濁流になって、\n君を呑み込み……命も危なくなるかもしれない						
-CharacterEvent_001_NPC8_003ID	23		役人	そうなる前に、避難しないとな？						
-CharacterEvent_001_NPC8_003ID	24		役人	では、失礼する						
-CharacterEvent_001_NPC8_003ID	25	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_003ID	26	Mieke	ミーケ	（どこまでが敵なのか、分からない。\n　もしかしたら、州全体が敵なのかもしれない）						
-CharacterEvent_001_NPC8_003ID	27	Mieke	ミーケ	（そうなったらもう、ミーケは逃げられない。\n　誰も、巻き込めない）						
-CharacterEvent_001_NPC8_003ID	28	Mieke	ミーケ	（好きに生きたい。そう思っただけなのに。\n　それがすごく、難しい）						
-CharacterEvent_001_NPC8_003ID	29	Mieke	ミーケ	（ミーケは……あいつの言いなりになるしかないの？）						
-CharacterEvent_001_NPC8_003ID	30		街の住人A	おい！　見たか、あれ！						
-CharacterEvent_001_NPC8_003ID	31		街の住人B	あれ、お役人様だよな？						
-CharacterEvent_001_NPC8_003ID	32	Mieke	ミーケ	……ん？　なんの騒ぎだろ？						
-CharacterEvent_001_NPC8_003ID	33		役人	うう……						
-CharacterEvent_001_NPC8_003ID	34		ゴロツキ	た、たすけて……						
-CharacterEvent_001_NPC8_003ID	35	Mieke	ミーケ	……！？						
-CharacterEvent_001_NPC8_003ID	36	Mieke	ミーケ	（お役人さんと……店に来たゴロツキたちが\n　木に縛り付けられてる！？）						
-CharacterEvent_001_NPC8_003ID	37		街の住人C	なんでお役人様が縛られてるんだ？						
-CharacterEvent_001_NPC8_003ID	38		街の住人B	札が立ててあるぞ？　何か書いてある……						
-CharacterEvent_001_NPC8_003ID	39		街の住人B	「無垢なる民への脅迫、暴行、及び州の税収の\n　横領につき、裁きを下す」						
-CharacterEvent_001_NPC8_003ID	40		街の住人A	おいおい、証拠の書類まであるぜ。\n…この役人、とんでもねぇな						
-CharacterEvent_001_NPC8_003ID	41		街の住人C	ミーケの店に来てたやつらもいるじゃねえか！\nまさか、この役人がこいつらを？						
-CharacterEvent_001_NPC8_003ID	42		街の住人B	何てやつだ……許せねえ！						
-CharacterEvent_001_NPC8_003ID	43	Mieke	ミーケ	（誰かが……誰かがミーケのために\n　やってくれたんだ）						
-CharacterEvent_001_NPC8_003ID	44	Mieke	ミーケ	（いったい誰が、どうして？）						
-CharacterEvent_001_NPC8_003ID	45	Mieke	ミーケ	（お礼を言う相手も分からないまま、\n　その日は終わりを迎えた）						
-CharacterEvent_001_NPC8_003ID	46	Mieke	ミーケ	（そして翌日。ミーケの前にある人物が現れ……\n　人生最大の選択を迫られることになる）						
-CharacterEvent_001_NPC8_004ID	0	Mieke	ミーケ	ふう……今日も何事もなく終わった。\nもう、怯えなくても良いってことなのかな？						
-CharacterEvent_001_NPC8_004ID	1	Lara	ララ	ごめんくださいませ						
-CharacterEvent_001_NPC8_004ID	2	Mieke	ミーケ	あ、ごめんなさい！　今日はもう終わって……						
-CharacterEvent_001_NPC8_004ID	3	Lara	ララ	商品を見に来たのではありませんのよ。\nあなたとお話がしたかっただけですわ						
-CharacterEvent_001_NPC8_004ID	4	Mieke	ミーケ	……ミーケと？						
-CharacterEvent_001_NPC8_004ID	5	Lara	ララ	ええ。あなたのお噂はかねがね。そしてこの数日、\nあなたのことを見させていただきました						
-CharacterEvent_001_NPC8_004ID	6	Lara	ララ	あなたの職に対する誇り。\nそして客に対しての誠実な心						
-CharacterEvent_001_NPC8_004ID	7	Lara	ララ	何より何者にも負けぬ強き志……！\nわたくしの心を震わせましてよ						
-CharacterEvent_001_NPC8_004ID	8	Mieke	ミーケ	……あなたは、誰？						
-CharacterEvent_001_NPC8_004ID	9	Lara	ララ	わたくしは、ララ・トロッケル。\n誇り高きララ・キングダムの王						
-CharacterEvent_001_NPC8_004ID	10	Mieke	ミーケ	ララ……トロッケル……						
-CharacterEvent_001_NPC8_004ID	11	Mieke	ミーケ	（この名前、どこかで聞いたような……）						
-CharacterEvent_001_NPC8_004ID	12	Mieke	ミーケ	（……！　そうだ！　指名手配犯だ！\n　確か、極夜の錬金党とかいう）						
-CharacterEvent_001_NPC8_004ID	13	Mieke	ミーケ	（もしかして、襲われる？\n　とにかく、通報しなくちゃ！）						
-CharacterEvent_001_NPC8_004ID	14	Mieke	ミーケ	悪いけど、あなたと話すことは……						
-CharacterEvent_001_NPC8_004ID	15	Lara	ララ	あなたは今、渇きを抱いている。\n決して満たされぬ渇きを						
-CharacterEvent_001_NPC8_004ID	16	Lara	ララ	その魂の声を聞きつけ、\n統治者として語り掛けているのですわ						
-CharacterEvent_001_NPC8_004ID	17	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_004ID	18	Lara	ララ	わたくしはララ・キングダムの王として\n優れた人材を発掘していますの						
-CharacterEvent_001_NPC8_004ID	19	Lara	ララ	今は優れた装飾士を探しているのですわ。\nそんな折、あなたを見つけました						
-CharacterEvent_001_NPC8_004ID	20	Lara	ララ	あなたの作る品には、見る者を引き付ける力がある。\nあなた、わたくしの王国に加わる資質がありますわ						
-CharacterEvent_001_NPC8_004ID	21	Mieke	ミーケ	あなたの……王国に……？						
-CharacterEvent_001_NPC8_004ID	22	Lara	ララ	あなたはもっと自由で、偉大になれる。\nあんな小物に潰される才能であってはいけないのです						
-CharacterEvent_001_NPC8_004ID	23	Mieke	ミーケ	まさか……お役人さんを縛ったのは……！						
-CharacterEvent_001_NPC8_004ID	24	Lara	ララ	ええ。身の程をわきまえぬ者に裁きを与え、\n民を守るのも王の務め。気にすることはありませんわ						
-CharacterEvent_001_NPC8_004ID	25	Lara	ララ	さあ、ミーケ。わたくしの下へいらっしゃいな。\nわたくしたちと来れば、あなたの渇きは満たされますわ						
-CharacterEvent_001_NPC8_004ID	26	Mieke	ミーケ	……ミーケも指名手配犯になっちゃうんじゃないの？						
-CharacterEvent_001_NPC8_004ID	27	Lara	ララ	あなたにはただ、王国で装飾士をやって\nいただきたいだけ。罪には問われませんわ						
-CharacterEvent_001_NPC8_004ID	28	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_004ID	29	Mieke	ミーケ	（ビッグになりたい。好きに生きたい。\n　ミーケの渇き、この人は全部分かってるのかも）						
-CharacterEvent_001_NPC8_004ID	30	Mieke	ミーケ	（……ララ・キングダム。\n　一国の王。何てビッグなんだ）						
-CharacterEvent_001_NPC8_004ID	31	Mieke	ミーケ	（この人についていけば何かが変わるのかもしれない。\n　……そうじゃないかもしれない）						
-CharacterEvent_001_NPC8_004ID	32	Mieke	ミーケ	（選ぶんだ）						
-CharacterEvent_001_NPC8_004ID	33	Mieke	ミーケ	……ミーケは						
-CharacterEvent_001_NPC8_004ID	34		選択肢	ララの誘いに乗る						
-CharacterEvent_001_NPC8_004ID	35	Mieke	ミーケ	……うん。行くよ。\n乗ってやろうじゃん。このビッグな話に！						
-CharacterEvent_001_NPC8_004ID	36	Lara	ララ	素晴らしい。あなたは期待通りの方でしたわ						
-CharacterEvent_001_NPC8_004ID	37	Lara	ララ	さあ、行きましょう。\n新たなる世界が、あなたを待っていますわ！						
-CharacterEvent_001_NPC8_004ID	38		選択肢	ララの誘いに乗らない						
-CharacterEvent_001_NPC8_004ID	39	Mieke	ミーケ	……指名手配犯についていくわけには行かないよ。\nとーちゃんに顔向けできなくなる						
-CharacterEvent_001_NPC8_004ID	40	Lara	ララ	……そう。残念ですわ						
-CharacterEvent_001_NPC8_004ID	41	Mieke	ミーケ	あのお役人さんみたいに脅したって無駄だよ。\n絶対に折れないから						
-CharacterEvent_001_NPC8_004ID	42	Lara	ララ	あんな小物と一緒にしないでくださる？\nわたくしは誇り高きララ・キングダムの王						
-CharacterEvent_001_NPC8_004ID	43	Lara	ララ	安心しなさいな。\nそんなことは致しませんわ						
-CharacterEvent_001_NPC8_004ID	44	Lara	ララ	それでは、ごきげんよう。\n末永いご活躍を						
-CharacterEvent_001_NPC8_004ID	45	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_004ID	46	Mieke	ミーケ	（これでいい。これでいいんだ。とーちゃんみたいに\n　地道に、ビッグになっていくんだ！）						
-CharacterEvent_001_NPC8_004ID	47		選択肢	硬貨で決める						
-CharacterEvent_001_NPC8_004ID	48	Mieke	ミーケ	……あーもう、考えたって分からないや！\nこういう時は……						
-CharacterEvent_001_NPC8_004ID	49	Lara	ララ	……？　硬貨を取り出して、どうしますの？						
-CharacterEvent_001_NPC8_004ID	50	Mieke	ミーケ	決まってるじゃん？\n表か裏。どちらが出るかで、決めるんだよ！						
-CharacterEvent_001_NPC8_004ID	51	Lara	ララ	そんな、運任せな……						
-CharacterEvent_001_NPC8_004ID	52	Mieke	ミーケ	とーちゃんもいつも言ってる。\n勝負は時の運だって						
-CharacterEvent_001_NPC8_004ID	53	Mieke	ミーケ	大事な局面ほど、運が大事になってくるんだ！						
-CharacterEvent_001_NPC8_004ID	54	Lara	ララ	なるほど。面白い。見せてくださいな。\nあなたの運を！						
-CharacterEvent_001_NPC8_004ID	55	Mieke	ミーケ	表が出たらあなたの話は断る。\n裏が出たら、あなたの話に応じる						
-CharacterEvent_001_NPC8_004ID	56	Mieke	ミーケ	これでいいね？　どちらになっても恨みっこなしだよ！						
-CharacterEvent_001_NPC8_004ID	57	Lara	ララ	ええ！						
-CharacterEvent_001_NPC8_004ID	58	Mieke	ミーケ	じゃあ……投げるよ！						
-CharacterEvent_001_NPC8_004ID	59	Lara	ララ	……！\nこれは……						
-CharacterEvent_001_NPC8_004ID	60	Mieke	ミーケ	裏……！						
-CharacterEvent_001_NPC8_004ID	61	Lara	ララ	……ふふ。あっはっは！						
-CharacterEvent_001_NPC8_004ID	62	Lara	ララ	才能がある上に、運もある。\n素晴らしい……素晴らしいですわ！						
-CharacterEvent_001_NPC8_004ID	63	Lara	ララ	どうやら、あなたはわたくしの期待以上の\n方だったようです						
-CharacterEvent_001_NPC8_004ID	64	Lara	ララ	さあ、行きましょう。\n新たなる世界が、あなたを待っていますわ！						
-CharacterEvent_001_NPC8_004ID	65	Mieke	ミーケ	表……！						
-CharacterEvent_001_NPC8_004ID	66	Lara	ララ	……そうですか。残念ですわ						
-CharacterEvent_001_NPC8_004ID	67	Lara	ララ	わたくしが運に見放されたのか。\nそれとも、あなたが見放されたのか						
-CharacterEvent_001_NPC8_004ID	68	Lara	ララ	大人しく退散することにしましょう。\nそれでは、ごきげんよう。末永いご活躍を						
-CharacterEvent_001_NPC8_004ID	69	Mieke	ミーケ	……						
-CharacterEvent_001_NPC8_004ID	70	Mieke	ミーケ	（これでいい。これでいいんだ。とーちゃんみたいに\n　地道に、ビッグになっていくんだ！）						
-CharacterEvent_001_NPC8_005ID	0	Mieke	ミーケ	あ、ララ様こんちはー！　ビーッグ！！！						
-CharacterEvent_001_NPC8_005ID	1	Lara	ララ	ビーッグ！！！						
-CharacterEvent_001_NPC8_005ID	2	Mieke	ミーケ	わー最近ビッグやってくれる！　ララ様さいこう！						
-CharacterEvent_001_NPC8_005ID	3	Lara	ララ	さすがにずっと見ていると、つい						
-CharacterEvent_001_NPC8_005ID	4	Mieke	ミーケ	こうなったら、ララ様ミーケとコンビ組む？\nあえて、ララ様がボケ側で						
-CharacterEvent_001_NPC8_005ID	5	Lara	ララ	流石にこれ以上掛け持ちはできませんわ。\n……それにしても						
-CharacterEvent_001_NPC8_005ID	6	Lara	ララ	芸とは面白いものですね。もはやミーケと話している\nときビッグを聞かないと、物足りなくなります						
-CharacterEvent_001_NPC8_005ID	7	Mieke	ミーケ	そりゃもう、とーちゃんが編み出した芸だからねぇ！\n挨拶の後とかにも使えるよ						
-CharacterEvent_001_NPC8_005ID	8	Lara	ララ	「ザ・ビッグマン」はガルネ州で\n芸人活動中ですのよね？　最近はどうなのです？						
-CharacterEvent_001_NPC8_005ID	9	Mieke	ミーケ	いやー賞レースは負けちゃうみたい。\nだから営業で頑張ってるって						
-CharacterEvent_001_NPC8_005ID	10	Mieke	ミーケ	かーちゃんが働いたりして支えてるみたい。\n昔と同じだねぇ						
-CharacterEvent_001_NPC8_005ID	11	Lara	ララ	……						
-CharacterEvent_001_NPC8_005ID	12	Lara	ララ	ずっとご両親がいなくて、寂しくはありませんの？						
-CharacterEvent_001_NPC8_005ID	13	Mieke	ミーケ	まあ……正直寂しくなる時はあるよ						
-CharacterEvent_001_NPC8_005ID	14	Lara	ララ	それでも、お父様のことが好きなのですね						
-CharacterEvent_001_NPC8_005ID	15	Mieke	ミーケ	うん！　だって、夢に全力なのってかっこいいじゃん！						
-CharacterEvent_001_NPC8_005ID	16	Mieke	ミーケ	ばーちゃんもね。本当はとーちゃんに\n料理屋を継いでほしかったみたいなんだけどさ						
-CharacterEvent_001_NPC8_005ID	17	Mieke	ミーケ	とーちゃんは芸人で世界一になりたいって言って。\nかーちゃんもそれを支えたいって言って						
-CharacterEvent_001_NPC8_005ID	18	Mieke	ミーケ	ミーケもばーちゃんもそれを応援することに\n決めたんだ！　好きに生きられるのが一番だもん！						
-CharacterEvent_001_NPC8_005ID	19	Lara	ララ	本当に、良い家に生まれましたのね						
-CharacterEvent_001_NPC8_005ID	20	Mieke	ミーケ	まあね！　誰がなんと言おうと、ミーケの家族は\n世界一だねぇ！						
-CharacterEvent_001_NPC8_005ID	21	Lara	ララ	ふふ……ララ・キングダムの民も、\n皆がそう言えるようにしていきたいものですわ						
-CharacterEvent_001_NPC8_005ID	22	Lara	ララ	だから実家に残り、料理屋を手伝っていたのですね						
-CharacterEvent_001_NPC8_006ID	0	Mieke	ミーケ	ララ様ー！　ご飯の用意ができたよー！						
-CharacterEvent_001_NPC8_006ID	1	Lara	ララ	あら、もうそんな時間ですの？\n最近時が経つのが早いですわ						
-CharacterEvent_001_NPC8_006ID	2	Mieke	ミーケ	あはは、ばーちゃんみたいなこと言ってる						
-CharacterEvent_001_NPC8_006ID	3	Lara	ララ	それだけ充実しているということですわ						
-CharacterEvent_001_NPC8_006ID	4	Mieke	ミーケ	レスナたちの旅にも付き合ってるわけだしねぇ						
-CharacterEvent_001_NPC8_006ID	5	Mieke	ミーケ	このままだと体がもたないよ！\nほら、ご飯の時間ぐらいはゆっくりして！						
-CharacterEvent_001_NPC8_006ID	6	Lara	ララ	もちろんですわ。ミーケの料理は美味しいですもの。\nさすが、料理屋を手伝っていただけのことはありますわ						
-CharacterEvent_001_NPC8_006ID	7	Mieke	ミーケ	ばーちゃんの手伝いをしてただけさ						
-CharacterEvent_001_NPC8_006ID	8	Lara	ララ	その頃はどんな暮らしをしていましたの？						
-CharacterEvent_001_NPC8_006ID	9	Mieke	ミーケ	うーんとね。安くてがっつり食べられる店だったから、\n船乗りの人たちがよく使ってくれてたんだ						
-CharacterEvent_001_NPC8_006ID	10	Mieke	ミーケ	港に戻ってきたら大人数で押し寄せてくるから、\n忙しい時はホント大変だったよ						
-CharacterEvent_001_NPC8_006ID	11	Lara	ララ	そうは言いながらも、その顔。\n楽しかったのでしょう？						
-CharacterEvent_001_NPC8_006ID	12	Mieke	ミーケ	うん！　酔っぱらうとさ。海での冒険の話を\nみんな大声でし始めるんだ						
-CharacterEvent_001_NPC8_006ID	13	Mieke	ミーケ	宝の地図を見つけた！　未知の島を探索した！\nやばい海の魔物に追いかけられた！						
-CharacterEvent_001_NPC8_006ID	14	Mieke	ミーケ	嘘か本当なのか分からない話。\nでも、それを聞いてるのが好きだったな						
-CharacterEvent_001_NPC8_006ID	15	Lara	ララ	ランツェと顔見知りのようでしたが、\nその時に知り合ったのですね						
-CharacterEvent_001_NPC8_006ID	16	Mieke	ミーケ	そうそう。酔っ払うとめちゃくちゃ絡んでくるんだよ。\nよく話し相手になってたなあ						
-CharacterEvent_001_NPC8_006ID	17	Lara	ララ	それがどうして、装飾屋を開いたんですの？						
-CharacterEvent_001_NPC8_006ID	18	Mieke	ミーケ	ある日、船乗りの一人が相談してきたんだ。\n「金をやるから壊れた装飾を直せないか」って						
-CharacterEvent_001_NPC8_006ID	19	Mieke	ミーケ	家計の足しになりそうだし、やってみるって言って\n船乗りの服や装飾を直し始めたのがきっかけなんだ						
-CharacterEvent_001_NPC8_006ID	20	Mieke	ミーケ	みんないつもボロボロになって帰ってくるからさ。\nいい稼ぎになったよ						
-CharacterEvent_001_NPC8_006ID	21	Mieke	ミーケ	やってるうちに楽しくなっていって、\nいつしかなんでも直せるし作れるようになってた						
-CharacterEvent_001_NPC8_006ID	22	Mieke	ミーケ	それが転じて、っていう感じかな！						
-CharacterEvent_001_NPC8_006ID	23	Lara	ララ	ふふ、なるほど。誰だか分かりませんが、\n相談してくれた船乗りには感謝ですわね						
-CharacterEvent_001_NPC8_006ID	24	Mieke	ミーケ	あはは、そうだね。誰だったかなあ						
-CharacterEvent_001_NPC8_006ID	25	???	？？？	頼むよ！　バーバラから貰ったヤツなんだ！\n壊したってバレたら怒られちまう！						
-CharacterEvent_001_NPC8_006ID	26	???	？？？	お前、指先器用だったろ？　小遣い弾むからよお！\nな？　人を助けると思って！						
-CharacterEvent_001_NPC8_006ID	27	Mieke	ミーケ	んー？？？　言われたことはなんとなく\n覚えてるけど、顔は出てこないや						
-CharacterEvent_001_NPC8_006ID	28	Mieke	ミーケ	ま、いっか！　ありがと、誰かさん！						
-CharacterEvent_001_NPC8_IF_001ID	0	Mieke	ミーケ	（それから……“ミーケ”の事業は、州の協力を受け\n　急速に拡大した）						
-CharacterEvent_001_NPC8_IF_001ID	1	Mieke	ミーケ	（今では王国の全土で“ミーケ”の商品を\n　見ることができる）						
-CharacterEvent_001_NPC8_IF_001ID	2	Mieke	ミーケ	（もちろん、ここ、王都でも）						
-CharacterEvent_001_NPC8_IF_001ID	3	Mieke	ミーケ	わあ……本当に“ミーケ”の店の支店が王都にある						
-CharacterEvent_001_NPC8_IF_001ID	4		王都市民A	ふう、たくさん買っちゃった！						
-CharacterEvent_001_NPC8_IF_001ID	5		王都市民B	高いのによくそんなに買ったね						
-CharacterEvent_001_NPC8_IF_001ID	6		王都市民A	だって、みんな持ってるし。\nそれに、“ミーケ”の商品なら間違いないじゃない？						
-CharacterEvent_001_NPC8_IF_001ID	7		王都市民B	ふふ、そうね						
-CharacterEvent_001_NPC8_IF_001ID	8	Mieke	ミーケ	ねえねえ。ちょっと聞いてもいい？						
-CharacterEvent_001_NPC8_IF_001ID	9		王都市民A	あら。どうしたの？						
-CharacterEvent_001_NPC8_IF_001ID	10	Mieke	ミーケ	この店、よく利用するの？\nよく名前を聞くけど、値段を見るとしり込みしちゃって						
-CharacterEvent_001_NPC8_IF_001ID	11	Mieke	ミーケ	実際に買ってる人の話を聞きたいなって						
-CharacterEvent_001_NPC8_IF_001ID	12		王都市民A	高いだけあって質もいいしおしゃれだよ！\nさすが“ミーケ”作って感じ。あなたも買いなよー						
-CharacterEvent_001_NPC8_IF_001ID	13	Mieke	ミーケ	やっぱりそうなんだ！　ありがと！\n買ってみるよ！						
-CharacterEvent_001_NPC8_IF_001ID	14	Mieke	ミーケ	……それ、ミーケは仕上げだけで、\n後は助手たちが作ったやつなんだけどね						
-CharacterEvent_001_NPC8_IF_001ID	15	Mieke	ミーケ	それにしても、最後まで気付かれなかったなあ。\nみんな、ミーケが誰かなんて……どうでもいいんだ						
-CharacterEvent_001_NPC8_IF_001ID	16	Mieke	ミーケ	（“ミーケ”の名前は今も広がり続けている。\n　“ミーケ”は確かに、ビーッグになった）						
-CharacterEvent_001_NPC8_IF_001ID	17	Mieke	ミーケ	（これがミーケがなりたかったものなのかな？\n　もう……よく分からないや）						
-CharacterEvent_001_NPC8_IF_002ID	0		客A	ねえ、見て見て！　このブローチかわいくない？\nやっぱり装飾品はミーケちゃんの店に限るわね！						
-CharacterEvent_001_NPC8_IF_002ID	1		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ						
-CharacterEvent_001_NPC8_IF_002ID	2		客C	でも、なんかミーケちゃんに元気がないのよね。\nビーッグの芸、覚えてきたのに						
-CharacterEvent_001_NPC8_IF_002ID	3	Mieke	ミーケ	こーらー！　いつも言ってるでしょ！\nどうして仲良くできないの！						
-CharacterEvent_001_NPC8_IF_002ID	4		客A	なんか、ぼーっと窓の外を見ていることが\n増えたのよね、ミーケちゃん						
-CharacterEvent_001_NPC8_IF_002ID	5	Mieke	ミーケ	そうなの！？						
-CharacterEvent_001_NPC8_IF_002ID	6		客B	だって、いつもみんなで買い物した後、\n一緒にカフェでお茶もしてるし……						
-CharacterEvent_001_NPC8_IF_002ID	7		客C	ええ。三人で遊びに行ったりもするし						
-CharacterEvent_001_NPC8_IF_002ID	8	Mieke	ミーケ	（この人たち、友達だったんだ……）						
-CharacterEvent_001_NPC8_IF_002ID	9		客A	みんなミーケちゃんのファンだもんねー						
-CharacterEvent_001_NPC8_IF_002ID	10		客B	ねー						
-CharacterEvent_001_NPC8_IF_002ID	11		客C	だからこそ熱くなって言い合いになっちゃんだけど						
-CharacterEvent_001_NPC8_IF_002ID	12	Mieke	ミーケ	ほどほどにしてね？\n他のお客さん、怖がるから						
-CharacterEvent_001_NPC8_IF_002ID	13	Mieke	ミーケ	（ミーケには、いつもの日常が戻ってきた）						
-CharacterEvent_001_NPC8_IF_002ID	14	Mieke	ミーケ	（ミーケのお店はそれなりに繁盛していて、\n　とーちゃんもちょっとずつ名が知られていって）						
-CharacterEvent_001_NPC8_IF_002ID	15	Mieke	ミーケ	（ビーッグ！　じゃないかもだけど、\n　それなりに充実した日々）						
-CharacterEvent_001_NPC8_IF_002ID	16	Mieke	ミーケ	（こういうのも、いいよね。\n　いいと思うんだ……けど）						
-CharacterEvent_001_NPC8_IF_002ID	17	Mieke	ミーケ	（もし、あの時あの人について行ったら、\n　どんな人生だったんだろう？）						
-CharacterEvent_001_NPC8_IF_002ID	18	Mieke	ミーケ	……はあ						
-CharacterEvent_001_NPC8_IF_002ID	19	Mieke	ミーケ	（ずっと、そんな想いが頭から離れないんだ）						
+CharacterEvent_001_NPC8_001ID	0		客A	ねえ、見てみて！　この革細工かわいくない？\nおしゃれな装飾品はミーケちゃんの店に限るわね！	Customer A	Look! Isn't this leatherwork just exquisite? Mieke sure knows how to make adorable accessories!	客人A	你看！这个皮革小饰品是不是很可爱？\n要论时尚装饰品，还是得来米珂的店！	顧客A	妳看妳看！這個皮件是不是很可愛？\n果然要找時髦的飾品就該來米珂的店呢！
+CharacterEvent_001_NPC8_001ID	1		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ	Customer B	Of course they're adorable—Mieke made them! I wouldn't expect anything less.	客人B	当然了。这些都是米珂做的，买了准没错。	顧客B	當然囉，畢竟是米珂的作品嘛。\n買了絕對不會出錯。
+CharacterEvent_001_NPC8_001ID	2		客C	あ、その服、あたしが先に目を付けてたのよ！\n譲りなさい！	Customer C	Hey, hands off those clothes! I saw them first!	客人C	啊，那件衣服是我先看上的！不许抢！	顧客C	啊，那件衣服是我先看到的！快讓給我！
+CharacterEvent_001_NPC8_001ID	3	Mieke	ミーケ	はいはーい、押さないで！　ケンカもだーめ！\nミーケがちゃんとみんなの分作るから！	Mieke	Hey now, no pushing! I'll make sure there's enough to go around!	米珂	好了好了，大家别挤！也不要吵架！\n所有人都有份！	米珂	好了好了～不要推擠！也不准吵架～！\n米珂會讓你們每個人都有份的！
+CharacterEvent_001_NPC8_001ID	4		客A	あ、ミーケちゃんだ！　かわいい！\nねえ、私だけの装飾品を作ってほしいんだけど……	Customer A	Oh, Mieke! You're so adorable! You'll custom-make me the necklace of my dreams, won't you? Please?	客人A	啊，是米珂！真可爱！\n那个，我想请你制作我专属的装饰品……	顧客A	啊，是米珂！真可愛！問一下喔，\n我想請妳打造一個專屬於我的飾品……
+CharacterEvent_001_NPC8_001ID	5		客B	私の依頼が先よ！	Customer B	Back off! I'm next!	客人B	米珂要先做我的委托！	顧客B	是我要先委託！
+CharacterEvent_001_NPC8_001ID	6		客C	いいえあたしが先……！	Customer C	Hey, I was here first!	客人C	不，先做我的……！	顧客C	不，是我先……！
+CharacterEvent_001_NPC8_001ID	7	Mieke	ミーケ	ほらほら、順番に並んで！　装飾を作ってほしい人は、\n今から言うミーケの言葉を繰り返してね	Mieke	Settle down, settle down! Everyone will get their turn, but you have to say the magic words!	米珂	好了好了，大家排好队！想要订做装饰品的人，\n跟着米珂重复接下来的话哦。	米珂	別吵別吵，都去排隊！想要米珂做飾品的人，\n要重複米珂接下來所說的話喔。
+CharacterEvent_001_NPC8_001ID	8		客C	ミーケちゃんの言葉……？	Customer C	What magic words...?	客人C	重复米珂的话……？	顧客C	米珂所說的話……？
+CharacterEvent_001_NPC8_001ID	9	Mieke	ミーケ	それでは皆さんご一緒に……	Mieke	Ready? Repeat after me!	米珂	大家一起来……	米珂	那麼，大家一起喊……
+CharacterEvent_001_NPC8_001ID	10	Mieke	ミーケ	ビーッグ！！！	Mieke	I want to be MAJORLY BIG!	米珂	Big——！！！	米珂	偉～大！！！
+CharacterEvent_001_NPC8_001ID	11		客たち	ビ、ビッグ？	Customers	Majorly...big?	客人们	B、Big？	客人們	偉、偉大？
+CharacterEvent_001_NPC8_001ID	12	Mieke	ミーケ	これはねぇ、ガルネ州で今、流行する兆しを見せている\n芸人「ザ・ビッグマン」の鉄板芸なんだよ	Mieke	My favorite comedian from Galne, Major Big, is always saying that. Isn't it cool?	米珂	这是现在加尔内州小有名气的搞笑艺人\n“The Bigman”的招牌段子。	米珂	這個是最近在加爾內州開始走紅的諧星\n「THE‧偉大超人」的經典段子喔。
+CharacterEvent_001_NPC8_001ID	13	Diona	ディオーナ	ミーケちゃん、雑談がすぎるとお客様を\nたくさん待たせてしまうわよ？	Diona	Mieke, if you keep chattering on like that, this line is going to get even longer...	蒂欧娜	米珂，别说太多有的没的，\n客人们还在等着哦？	蒂歐娜	米珂，妳再聊下去會讓許多客人久等喔。
+CharacterEvent_001_NPC8_001ID	14	Mieke	ミーケ	あー、ディオたん！	Mieke	Hey, Diona!	米珂	啊，蒂欧！	米珂	哦～是蒂歐！
+CharacterEvent_001_NPC8_001ID	15		客B	キャー、歌姫ディオーナ様よ！\nどうしてミーケちゃんの店に？	Customer B	No way! Diona, the diva herself, is right here in Mieke's shop?!	客人B	呀，是著名歌手蒂欧娜小姐！\n她为什么会来米珂的店？	顧客B	哇啊～是歌姬蒂歐娜！\n妳怎麼會來米珂的店呢？
+CharacterEvent_001_NPC8_001ID	16		客A	きっと職人同士の秘密の会話をするんだわ！\nなにせ……	Customer A	I bet the two of them swap design secrets!	客人A	一定是来和同为工匠的米珂进行秘密谈话的！\n毕竟……	顧客A	一定是要談專家之間的秘密話題啊！畢竟……
+CharacterEvent_001_NPC8_001ID	17		客A	今やこのお二人は、すべての若者の\nおしゃれの象徴なんですから！	Customer A	After all, these two are the biggest fashion icons out there!	客人A	她们两个就是当今所有年轻人的时尚代表啊！	顧客A	這兩位現在是所有年輕人的時尚指標嘛！
+CharacterEvent_001_NPC8_001ID	18	Mieke	ミーケ	言われてるよ、ディオたん。ディオたんも\n一緒にやってよ、ビッグを	Mieke	You heard them, Diona! Let's team up and do it BIG!	米珂	听到了吗，蒂欧。\n蒂欧也来和我一起表演“Big”吧。	米珂	她們都這麼說耶，蒂歐。\n妳也一起喊喊「偉大」嘛。
+CharacterEvent_001_NPC8_001ID	19	Diona	ディオーナ	今日は借りてきたものを返しにきたのよ、\n今から少し遠出して、歌いにいくから	Diona	I'm actually just here to return some things I borrowed. I have to go for another concert out of town.	蒂欧娜	我今天只是来还上次借的东西的。\n我马上要去外地演出了。	蒂歐娜	我今天是來還妳之前借用的東西，\n接下來要稍微出趟遠門，去外地唱歌。
+CharacterEvent_001_NPC8_001ID	20		客C	あっ！　待ちなさいよ！　その商品はあたしの……！	Customer C	Hey! Hold it right there! That's mine!	客人C	啊！等等！那是我看中的……！	顧客C	啊！等一下！那件商品是我的……！
+CharacterEvent_001_NPC8_001ID	21	Mieke	ミーケ	あーあー！　大丈夫！　同じのもう一つあるから！	Mieke	Play nice! It's fine! There's another one right here!	米珂	哎呀呀！没关系！还有一个一模一样的！	米珂	別搶～別搶～！沒關係！一樣的東西還有一件！
+CharacterEvent_001_NPC8_001ID	22	Mieke	ミーケ	あいー。頑張ってね	Mieke	Thanks! Good luck out there!	米珂	知道了，那你加油哦。	米珂	好喔～那妳加油喔。
+CharacterEvent_001_NPC8_001ID	23	Diona	ディオーナ	ええ、ごめんなさい。それじゃ、失礼するわね	Diona	Thank you. And sorry for interrupting you during a rush. I'll see you again soon.	蒂欧娜	嗯，不好意思。那我先走了。	蒂歐娜	嗯，抱歉打擾妳了，我就先告辭了。
+CharacterEvent_001_NPC8_001ID	24	Mieke	ミーケ	（……ここは、元はミーケのばーちゃんが営む\n　定食屋だった）	Mieke	(My granny used to run a restaurant out of this shop.)	米珂	（……这里本来是米珂的奶奶经营的餐馆。）	米珂	（……這裡以前是米珂的奶奶經營的餐館。）
+CharacterEvent_001_NPC8_001ID	25	Mieke	ミーケ	（好きに生きなって言うのがばーちゃんの口癖。\n　とーちゃんも好きに生きてて、今ここにはいない）	Mieke	(She always told me to live the life I wanted for myself. Papa followed her advice too, and now he's off chasing his own dream.)	米珂	（“过你想过的生活吧”，奶奶总是这么说。\n　于是爸爸也随心所欲地生活，现在不在这里。）	米珂	（奶奶總是要我們隨心所欲而活。\n　而爸爸也是隨心所欲而活，離家出外闖蕩。）
+CharacterEvent_001_NPC8_001ID	26	Mieke	ミーケ	（そしてばーちゃんが死んじゃってからは、\n　ミーケもばーちゃんの言葉通り……）	Mieke	(Even after she died, I never forgot what she taught me. I made sure to live my life the way I wanted to.)	米珂	（奶奶去世之后，米珂也按照奶奶说的……）	米珂	（在奶奶過世後，米珂也依照奶奶所說的……）
+CharacterEvent_001_NPC8_001ID	27	Mieke	ミーケ	（ばーちゃんの店を、好きなようにしてみた。\n　それが今のこの装飾屋）	Mieke	(That's why I started up my very own accessory business and made her restaurant into the shop of my dreams.)	米珂	（把奶奶的店铺改造成了自己喜欢的样子，\n　那就是这家装饰品店。）	米珂	（將奶奶的店改造成自己喜歡的模樣，\n　開了這間飾品店。）
+CharacterEvent_001_NPC8_001ID	28	Mieke	ミーケ	（結果、今このヴィアベル州の若者の間では、\n　１，２を争う人気店となっている）	Mieke	(And now, my shop has become one of the most popular brands in all of Wirbel.)	米珂	（现在我的店铺已经是薇亚贝尔州的年轻人之间\n　数一数二的人气店铺了。）	米珂	（現在，這間店已經成為了維亞貝爾州\n　數一數二受到年輕人喜愛的名店。）
+CharacterEvent_001_NPC8_001ID	29	Mieke	ミーケ	（ばーちゃん、とーちゃん。ミーケ、頑張ってるよ。\n　いつかきっと、もっとビーッグになるんだ……！）	Mieke	(Granny, Papa... I hope you're proud. One day, I promise I'm going to be major! Super big!)	米珂	（奶奶，爸爸，米珂很努力了哦。\n　总有一天，米珂会干成大事的……！）	米珂	（奶奶、爸爸，米珂很努力喔。\n　將來我一定會變得更加、更加偉大……！）
+CharacterEvent_001_NPC8_001ID	30	Mieke	ミーケ	今から使ってればすっごいおしゃれさんと言えるねぇ。\nさぁみんなでやってみよう。指の角度が重要で……	Mieke	Try it, everyone in the know is saying it. But make sure you get the pose right! Hands up, fingers out!	米珂	现在开始做这个动作的话可以说是超级时髦了。\n大家一起来试试看吧。手指的角度很重要……	米珂	只要用了這個，就能瞬間變成時尚高手喔。\n來～大家一起試試看吧。要注意手指的角度……
+CharacterEvent_001_NPC8_002ID	0	???	？？？	失礼するよ	???	Excuse me.	？？？	打扰了。	？？？	打擾了。
+CharacterEvent_001_NPC8_002ID	1	Mieke	ミーケ	ごめんねー、今日はもう店じまい……	Mieke	Sorry, we're closed, so... Oh.	米珂	不好意思，今天已经结束营业……	米珂	抱歉～今天已經打烊……
+CharacterEvent_001_NPC8_002ID	2		役人	あの話は考えてくれたかな？	Government Official	Have you given my proposal some thought?	公务员	那件事你考虑好了吗？	官員	那件事妳考慮過了嗎？
+CharacterEvent_001_NPC8_002ID	3	Mieke	ミーケ	……お役人さん、また来たの？\n何度来たって答えは変わらないよ	Mieke	You're back again, huh? Sorry, but my answer hasn't changed. And it's not going to.	米珂	公务员先生……你又来了？\n不管你来多少次，米珂的答案都只有一个。	米珂	……官員先生你又來了啊？\n不管你來幾次，我的回答都不會改變。
+CharacterEvent_001_NPC8_002ID	4		役人	まあそう答えを急ぐな。\n分かってないようだから、もう一度説明するぞ？	Government Official	Don't be so hasty, now! It sounds like you don't quite understand your position, so allow me to explain once more.	公务员	不用急着下决定。我看你还不是很明白，\n再给你说明一遍吧。	官員	不需要那麼急著給出答覆。\n既然妳似乎沒有聽懂，那我就再說明一次吧。
+CharacterEvent_001_NPC8_002ID	5		役人	君の装飾の腕は見事なものだ。時代の先を行くセンスが\n話題を呼び、今やこの州で名を知らぬ者はいない	Government Official	It's clear that you have quite a knack for design and your fashion sense is ahead of the curve. You've become a household name here in Wirbel.	公务员	你在装饰方面技术精湛，你那走在时代前沿的审美\n引起了热烈反响，如今你的名声已经响彻州内。	官員	妳製作飾品的技巧十分精湛，領先時代的品味帶動風潮，\n如今妳的名字在這個州已是無人不知、無人不曉。
+CharacterEvent_001_NPC8_002ID	6		役人	そんな君の仕事を、州が支えると言っているんだ。\n州と一緒になって王国全体へ君の装飾品を売り出そう	Government Official	That's why the government wants to support you in a more official capacity. Together, we can distribute your products across the entire kingdom.	公务员	现在州政府愿意为你的工作提供助力。\n和我们一起把你的装饰品卖往全国各地吧。	官員	現在州政府想要支持妳的工作，\n和我們合作將妳的飾品銷到王國各地吧。
+CharacterEvent_001_NPC8_002ID	7		役人	君の名が王国全土に広がる。金だって稼げる。\n今とは比べ物にならないぐらいにな	Government Official	If you think you're making good money now, just you wait—your name will be known far and wide, and you'll be rich beyond your wildest dreams!	公务员	全体国民都会知道你的名字，\n还能赚到比现在多得多的钱。	官員	妳的名字將會傳遍整個王國，當然也賺得到錢，\n而且還是遠超於現在的鉅款。
+CharacterEvent_001_NPC8_002ID	8		役人	その際、州の産物として紹介させてもらうことには\nなるが……君にとっても悪い話ではないだろう？	Government Official	Of course, we'll be introducing your designs as an official product of our province...but surely you understand the potential for our mutual benefit.	公务员	虽然我们会以薇亚贝尔州特产的名义介绍你的商品……\n但对你来说这个条件并不差吧？	官員	雖然產品到時會以這個州的名義推出……\n但這對妳來說不是件壞事吧？
+CharacterEvent_001_NPC8_002ID	9	Mieke	ミーケ	計画だと、材料費は抑えなきゃいけないんでしょ？\nその割には販売価格は高いし	Mieke	You're leaving out the part where you said you wanted me to use cheaper materials and raise my prices.	米珂	按你们的计划，必须控制材料费对吧？\n但是定的售价却挺高的。	米珂	依照你們的計畫，會必須壓低材料成本吧？\n但是販賣價格卻相當高昂。
+CharacterEvent_001_NPC8_002ID	10	Mieke	ミーケ	それじゃあミーケの思うサイコーの品には\nならないんだよね	Mieke	How am I supposed to make the best products I can if I skimp on the materials?	米珂	那样的话，就做不出米珂想要的顶级作品了。	米珂	這樣無法成為米珂心目中完美的商品。
+CharacterEvent_001_NPC8_002ID	11		役人	最高の品など作る必要はないのだよ	Government Official	Oh, don't be silly. No one is expecting the best.	公务员	没有做出顶级作品的必要。	官員	用不著做出完美的商品喔。
+CharacterEvent_001_NPC8_002ID	12	Mieke	ミーケ	……は？	Mieke	Wait, what?	米珂	什么……？	米珂	……什麼？
+CharacterEvent_001_NPC8_002ID	13		役人	素人には繊細なモノの良し悪しなど分からぬのさ。\nむろんある程度の出来映えは必要だがな	Government Official	As long as the products look fine, it doesn't matter. The average customer has no sense of what real quality is.	公务员	外行人根本看不出细节的好赖。\n当然好看的外观还是不可少的。	官員	外行人根本分不出精品的好壞。\n不過，當然還是得有一定程度的水準。
+CharacterEvent_001_NPC8_002ID	14	Mieke	ミーケ	そんなわけないだろ！　みんなミーケの作ったもの、\nかわいいって言ってくれるんだ！	Mieke	That's not true at all! My customers come to me because they know I work hard to make my designs adorable!	米珂	你胡说什么呢！\n家都夸米珂的作品很可爱！	米珂	才沒這種事！\n大家都說米珂做的東西很可愛！
+CharacterEvent_001_NPC8_002ID	15		役人	お前に客の何が分かるんだ？	Government Official	You don't know the first thing about what your customers want.	公务员	你又了解那些客人多少？	官員	妳以為妳真的了解客人嗎？
+CharacterEvent_001_NPC8_002ID	16	Mieke	ミーケ	っ……！？	Mieke	Excuse me?!	米珂	唔……？！	米珂	唔……！？
+CharacterEvent_001_NPC8_002ID	17		役人	最初はそうだったかもしれない。\nお前の装飾の質を見て皆商品を買っていったのだろう	Government Official	Maybe the people bought your wares for the quality at first.	公务员	也许一开始的确如此，\n大家购买你的商品是因为质量上乘。	官員	一開始或許是那樣沒錯，\n大家應該是看中了飾品的品質而購買妳的商品吧。
+CharacterEvent_001_NPC8_002ID	18		役人	だが今は違う。皆、“話題の装飾屋ミーケ”の\n商品だから買っているのだ	Government Official	But now that you're in, none of that matters. All they care about is the name value. They just want a genuine Mieke design.	公务员	但现在不一样了。大家是冲着\n“热门装饰品工匠米珂”这个名号才来买的。	官員	但現在不一樣，他們會買妳的商品，\n只是因為那是出自「當紅飾品匠米珂」之手。
+CharacterEvent_001_NPC8_002ID	19		役人	皆が買っている。ミーケの商品であれば間違いない。\n自分もミーケの商品を買えば、おしゃれになれるのだ	Government Official	So, yes. They are buying your products, but only because they want the fashionable lifestyle that they represent.	公务员	“大家都在买，所以买米珂的商品准没错。”\n“只要买了米珂的商品，自己也能变得时尚。”	官員	因為大家都在買、只要買米珂的商品就不會錯、\n只要買了米珂的商品就能跟上潮流。
+CharacterEvent_001_NPC8_002ID	20		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ	Customer B	Of course they're adorable—Mieke made them! I wouldn't expect anything less.	客人B	当然了。这些都是米珂做的，买了准没错。	顧客B	當然囉，畢竟是米珂的作品嘛。\n買了絕對不會出錯。
+CharacterEvent_001_NPC8_002ID	21	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_002ID	22		役人	利口になれ。君が頷くだけで、州が潤う。\n多くの人が救われる。君も稼げる	Government Official	Be smart about this. Say the word, and the province can make you rich. And you'll reach far more people than you ever would have otherwise.	公务员	机灵点吧。只要你点点头，我们州就能增加收入，\n大量居民能得到帮助，你也能挣到钱。	官員	當個聰明人吧。只要妳點頭，這座州就能富有，\n不但能拯救許多人，妳也能賺到錢。
+CharacterEvent_001_NPC8_002ID	23		役人	また明日来る。考える時間をやろう。\n良い答えを期待しているぞ	Government Official	I'll give you some time to think, so I'll be back again tomorrow. I trust you'll make the wise decision.	公务员	我明天再来。你再好好想想。\n期待你给出一个令人满意的答复。	官員	明天我還會再來，就給妳一些時間思考吧。\n我期待能得到令人滿意的答案。
+CharacterEvent_001_NPC8_002ID	24	Mieke	ミーケ	……都合のいいこと言ってるけど。\nお役人さんが儲けたいだけじゃないの？	Mieke	You know how to make this sound like a good deal. But admit it—all you're really after is your own profit.	米珂	说得好听……\n其实不就是那些官老爷想捞一笔钱吗？	米珂	……嘴上說得冠冕堂皇，\n其實只是你們這些官員想賺錢罷了吧。
+CharacterEvent_001_NPC8_002ID	25	Mieke	ミーケ	（なにか大きなことを成し遂げたいと思ってた。\n　ビーッグな何かになりたいって）	Mieke	(I've always wanted to make something of myself. To make it majorly big...)	米珂	（米珂一直想要干成一件大事，\n　成为一个了不起的人。）	米珂	（米珂想做大事，想成為偉～大的人物。）
+CharacterEvent_001_NPC8_002ID	26	Mieke	ミーケ	（そう思って、頑張って。いいところに\n　行けそうだと思ってたのに）	Mieke	(So I gave it my all. That's how I got this far.)	米珂	（米珂抱着这种想法努力至今，\n　本来觉得自己似乎能成功。）	米珂	（米珂抱著這個想法努力，\n　以為自己好像可以有點成就。）
+CharacterEvent_001_NPC8_002ID	27	Mieke	ミーケ	（なんだか不自由だ。\n　ミーケ、好きに生きれてるのかな）	Mieke	(But even after all of this, I feel like I'm trapped. Is this really the way I want to live?)	米珂	（但总感觉束手束脚的。\n　米珂真的过着自己想过的生活吗？）	米珂	（感覺好不自在，\n　現在的米珂真的活得隨心所欲嗎？）
+CharacterEvent_001_NPC8_002ID	28	Mieke	ミーケ	あ。そういえば、とーちゃんから手紙が来てたっけ	Mieke	Ah, I almost forgot. A letter came from Papa.	米珂	啊，说起来，之前收到了爸爸的信来着。	米珂	啊，對了，爸爸好像有寄信過來。
+CharacterEvent_001_NPC8_002ID	29	Mieke	ミーケ	とーちゃん、今何してるんだろ。なになに……	Mieke	Let's see what he's been up to...	米珂	不知道爸爸现在怎么样了。我来看看……	米珂	爸爸現在在做什麼呢？我看看……
+CharacterEvent_001_NPC8_002ID	30		ミーケの父	よお、ミーケ！　元気にしてるか？\nとーちゃんは絶好調だぞ！	Mieke's Father	Hey, Mieke! How have you been? Your old man has never been better!	米珂的父亲	哟，米珂！过得好吗？\n爸爸现在状态非常好哦！	米珂的父親	嗨，米珂！妳過得好嗎？爸爸這邊很順利喔！
+CharacterEvent_001_NPC8_002ID	31		ミーケの父	お笑いの賞レースには落ちちまったが、\n営業がうまく行って仕事は増えてきてるんだ！	Mieke's Father	I didn't make it to the finals of the last comedy showdown, but business is booming. I've been getting a ton more work!	米珂的父亲	虽然在搞笑艺人比赛里输了，\n但因为宣传到位，工作开始变多了！	米珂的父親	雖然我在笑話大賽沒得名，\n但靠著主動自我推銷，工作也越來越多了！
+CharacterEvent_001_NPC8_002ID	32		ミーケの父	こうして好きなことができているのは、\nお前が快くとーちゃんを送り出してくれたおかげだ	Mieke's Father	But you know what? This is all thanks to you. You believed in me, and that's why I'm chasing my dreams.	米珂的父亲	爸爸现在能做自己喜欢的工作，多亏了你当时\n爽快地送爸爸出门追求梦想。	米珂的父親	因為妳那時欣然送爸爸離家，\n我才能像這樣做自己喜歡的事。
+CharacterEvent_001_NPC8_002ID	33		ミーケの父	だからミーケも自分の好きなように生きてくれ	Mieke's Father	So remember: live the life you want for yourself. If your old man can do it, you can too.	米珂的父亲	所以米珂也要选择自己喜欢的生活方式哦。	米珂的父親	所以米珂，妳也要隨心所欲而活。
+CharacterEvent_001_NPC8_002ID	34		ミーケの父	次の街に着いたらまた手紙を送る。いつか大陸中に\n名を轟かしてやるから待ってろよ！　ビーッグ！！！	Mieke's Father	Anyway, I'll send you another letter after I finish my next show. Before long, the whole world will know my name. Just you wait, I'm going to make it MAJORLY BIG!	米珂的父亲	等到了下一个城镇我会再寄信给你。爸爸总有一天\n会成为全大陆知名的搞笑艺人的，等着吧！Big——！！！	米珂的父親	我抵達下個城鎮會再寫信給妳。\n總有一天我會揚名整片大陸，妳等著吧！偉～大！！！
+CharacterEvent_001_NPC8_002ID	35	Mieke	ミーケ	……好きに生きてくれ、か	Mieke	The life I want for myself...	米珂	选择自己喜欢的生活方式……	米珂	……隨心所欲而活啊。
+CharacterEvent_001_NPC8_002ID	36		役人	失礼するよ	Government Official	I'm back.	公务员	打扰了。	官員	打擾了。
+CharacterEvent_001_NPC8_002ID	37	Mieke	ミーケ	早い時間にどうも。まだ開店前だよ	Mieke	Thanks for actually showing up during business hours this time.	米珂	辛苦你这么一大早来。还没开始营业呢。	米珂	店都還沒開，你來得可真早啊。
+CharacterEvent_001_NPC8_002ID	38		役人	いい加減、けりを付けたいものでな。\n今回で最後にしよう	Government Official	I do hope this will be my last visit. Let's put this matter to rest, hm?	公务员	我想差不多该有结果了。\n这是我最后一次来拜访。	官員	因為差不多也該做個了結了。\n讓今天成為最後的談判吧。
+CharacterEvent_001_NPC8_002ID	39		役人	さあ。君の答えを聞かせてもらおうか	Government Official	I'd like to hear your decision.	公务员	让我听听你的回答吧。	官員	來，讓我聽聽妳的答案。
+CharacterEvent_001_NPC8_002ID	40	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_002ID	41	Mieke	ミーケ	（この人の話に乗ったら、ミーケはもう\n　好きに生きることはできなくなる気がする）	Mieke	(If I go along with his plan, something tells me I won't be able to live life how I want to anymore...)	米珂	（如果接受了他的提案，米珂恐怕就不能过上\n　自己想要的生活了。）	米珂	（如果贊成他的提議，\n　米珂或許就不能再隨心所欲地活下去了。）
+CharacterEvent_001_NPC8_002ID	42	Mieke	ミーケ	（でも……ビッグになるまたとない機会であることは\n　確かだ）	Mieke	(On the other hand, this partnership would be a huge chance for me to grow my business. I could finally be majorly big!)	米珂	（但这的确是一个难得的做成大事的机会……）	米珂	（不過……這確實是讓米珂成為偉大人物\n　千載難逢的機會。）
+CharacterEvent_001_NPC8_002ID	43	Mieke	ミーケ	ミーケは……	Mieke	I...	米珂	米珂……	米珂	米珂……
+CharacterEvent_001_NPC8_002ID	44		選択肢	役人の言うことを聞く	Selection	Accept his offer	选项	接受对方的提案	選項	接受官員的提議
+CharacterEvent_001_NPC8_002ID	45	Mieke	ミーケ	……受けるよ、その話。\nミーケも、もっともっと名を売り出していきたいんだ！	Mieke	I'll take you up on your offer. I want to reach as many customers as I can.	米珂	……接受你的提案。\n米珂想让自己的名气变得更大！	米珂	……米珂就接受你們的提議吧。\n畢竟米珂也想變得更加、更加有名！
+CharacterEvent_001_NPC8_002ID	46		役人	……！　わかってくれたか！	Government Official	Excellent! I'm glad you could see reason.	公务员	啊……！你总算理解了！	官員	……！妳終於明白了嗎！
+CharacterEvent_001_NPC8_002ID	47	Mieke	ミーケ	（これでいい……はずだよね？\n　だって、ミーケはビーッグになるんだから！）	Mieke	(I'm doing the right thing... I think. I mean, this is going to help me make it majorly big!)	米珂	（这样做……应该就可以了吧？\n　因为米珂想干大事啊！）	米珂	（這樣……就好了吧？因為米珂想變偉～大啊！）
+CharacterEvent_001_NPC8_002ID	48		役人	よーし、そうと決まればやることはたくさんある！\nさあさあ！　役所へ来てくれ！	Government Official	Now that we have a deal, there's much to be done! Let's go to my office.	公务员	好，这样一来有很多事要做！\n麻烦你来一趟政府吧。	官員	好，既然決定了，接下來可就有得忙了！\n來吧！快跟我到官署來！
+CharacterEvent_001_NPC8_002ID	49		役人	私たちの、未来の話をしよう！	Government Official	It's time to talk business and the future of the Mieke brand!	公务员	来谈谈我们的未来！	官員	來聊聊我們的未來吧！
+CharacterEvent_001_NPC8_002ID	50		選択肢	役人の言うことを聞かない	Selection	Refuse his offer	选项	不接受对方的提案	選項	不接受官員的提議
+CharacterEvent_001_NPC8_002ID	51	Mieke	ミーケ	……ごめん。やっぱりミーケは、サイコーの品を\nみんなに届けたいんだ	Mieke	I'm sorry, but I only want to give my customers the best of the best.	米珂	……抱歉。\n米珂还是想为大家做出最顶尖的作品。	米珂	……抱歉，米珂還是想提供完美的商品給大家。
+CharacterEvent_001_NPC8_002ID	52	Mieke	ミーケ	だから、計画には乗れないよ	Mieke	That's why I can't take you up on your offer.	米珂	所以，米珂不接受你的计划。	米珂	所以米珂不會參與你們的計畫。
+CharacterEvent_001_NPC8_002ID	53		役人	……そうか。わかった	Government Official	Hm... All right. Have it your way.	公务员	是吗……我明白了。	官員	……是嗎？我明白了。
+CharacterEvent_001_NPC8_002ID	54		役人	残念だよ	Government Official	But it really is a shame.	公务员	真的很遗憾。	官員	真是遺憾啊。
+CharacterEvent_001_NPC8_002ID	55	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_002ID	56	Mieke	ミーケ	（これでいい。正解のはずだ、ミーケ！）	Mieke	(I did the right thing. I know it!)	米珂	（这么做应该是对的，米珂！）	米珂	（這樣就好。米珂，妳的選擇一定是對的！）
+CharacterEvent_001_NPC8_002ID	57	Mieke	ミーケ	（ミーケは、好きに生きると決めたんだ……！）	Mieke	(I promised I'd live my life the way I want to!)	米珂	（米珂已经决定了，要过上自己想要的生活……！）	米珂	（米珂已經決定要隨心所欲而活了……！）
+CharacterEvent_001_NPC8_003ID	0		ゴロツキ	おい！　どうしてくれんだよ！\nお前の作った商品のせいで彼女が体調を崩してんだ！	Thug	Hey, you owe me big time! One of your stupid accessories made my girlfriend sick!	流氓	喂！你家的商品害我女朋友生病了！\n你必须给我个说法！	流氓	喂！妳要怎麼賠償啊！\n妳做的商品害我女朋友病倒了！
+CharacterEvent_001_NPC8_003ID	1		ゴロツキ	みんな聞いてくれよ！　この店は毒性のある金属を\n商品に使ってんだ！	Thug	Listen up, all of you chumps! This shop is selling goods made with toxic metals!	流氓	大家听我说！\n这家店的商品使用了有毒的金属！	流氓	大家聽我說！這間店的商品使用了有毒金屬！
+CharacterEvent_001_NPC8_003ID	2	Mieke	ミーケ	落ち着いてって！　だからその商品見せてよ！\n本当にうちのものなの！？	Mieke	Please, don't shout! If you could just show me the product, then I can verify whether it's one of my pieces or not—	米珂	你冷静一点！米珂不是说了把东西给我看一下吗！\n那真的是从米珂这里买的吗？	米珂	你冷靜點！讓我看一下你說的商品！\n那真的是米珂店裡的東西嗎？
+CharacterEvent_001_NPC8_003ID	3		ゴロツキ	んな危険なモン、もう捨てちまったよ！	Thug	You idiot, I threw it away! Who'd keep something so dangerous around?!	流氓	那么危险的东西，我早就扔了！	流氓	那種危險的東西我早就丟了！
+CharacterEvent_001_NPC8_003ID	4	Mieke	ミーケ	話にならない！　言いがかりはよしてよ！	Mieke	Then this is nothing but slander! You have no proof!	米珂	你这样没法正常沟通！少在这里胡搅蛮缠了！	米珂	什麼跟什麼！想找麻煩也要有根據吧！
+CharacterEvent_001_NPC8_003ID	5		近所の人	おいアンタ！　何してるんだ！\n店から出ていけ！	Neighbor	Hey, you! Get out! You're not welcome here!	附近邻居	喂！你在干什么！马上从店里出来！	附近居民	喂，你這傢伙在做什麼！給我滾出店裡！
+CharacterEvent_001_NPC8_003ID	6		ゴロツキ	クソが！　皆さーん！\nこの店はやべえぞー……	Thug	Shut up, you're not the boss of me! Everyone, listen! This shop is full of crooks—!	流氓	可恶！大家听我说！这家店很黑心……	流氓	可惡！各位～！這家店有問題喔……
+CharacterEvent_001_NPC8_003ID	7		近所の人	……ふう、追い出せたか	Neighbor	Phew... Looks like he's finally gone.	附近邻居	呼……可算把他赶走了。	附近居民	……呼，終於趕出去了。
+CharacterEvent_001_NPC8_003ID	8		近所の人	大丈夫か、ミーケちゃん	Neighbor	Are you all right, Mieke?	附近邻居	米珂，你没事吧？	附近居民	米珂，妳沒事吧？
+CharacterEvent_001_NPC8_003ID	9	Mieke	ミーケ	うん……ありがとう	Mieke	Yeah... Thank you.	米珂	嗯……谢谢你。	米珂	嗯……謝謝。
+CharacterEvent_001_NPC8_003ID	10		近所の人	しかし、これで何度目だ？\n最近こんなことばかり起きてるよな	Neighbor	This sure has been happening a lot... How many times is that, now?	附近邻居	话说这都第几次了？最近这种事很多吧？	附近居民	但這都第幾次了？最近老是發生這種事呢。
+CharacterEvent_001_NPC8_003ID	11	Mieke	ミーケ	はは……なんでだろうね。\nきっと虫の居所が悪かったんだよ	Mieke	Haha, who knows...? Guess guys like him are out to get me.	米珂	哈哈……也不知道为什么。\n可能是他心情不好吧。	米珂	哈哈……是為什麼呢？大概是他們心情不好吧。
+CharacterEvent_001_NPC8_003ID	12		近所の人	なあ、何か心当たりがあるんじゃないか？\nいくらなんでもおかしい……	Neighbor	There has to be some reason for it. It's too strange otherwise...	附近邻居	你是不是知道些什么？\n再怎么说也太奇怪了……	附近居民	米珂，妳有什麼頭緒嗎？\n這再怎麼說也太奇怪了……
+CharacterEvent_001_NPC8_003ID	13	Mieke	ミーケ	なんでもないよ！　大丈夫！	Mieke	Don't worry, it's not a big deal!	米珂	没什么！没关系的！	米珂	沒什麼啦！你不用擔心！
+CharacterEvent_001_NPC8_003ID	14		近所の人	……それならいいんだが。何かあったらまた呼んでくれ	Neighbor	I certainly hope you're right... Anyway, just call me if you need any help.	附近邻居	那就好……要是出什么事了就再叫我吧。	附近居民	……那就好，但要是有什麼事再來找我吧。
+CharacterEvent_001_NPC8_003ID	15	Mieke	ミーケ	……言えないよ。巻き込めない。\nだって相手にしてるのは……	Mieke	I can't. If I asked for help, you'd just get caught up in this mess, too. The real culprit is...	米珂	米珂说不出口……不能把别人也卷进来。\n毕竟对面可是……	米珂	……米珂說不出口啊，不能波及他。因為對手是……
+CharacterEvent_001_NPC8_003ID	16		役人	はっはっは。大変なことになっているようじゃないか	Government Official	Hahaha! I heard you've been having quite a bit of business trouble, Mieke.	公务员	哈哈哈，看样子你遇到大麻烦了啊。	官員	哈哈哈，看來情況好像變得很糟嘛。
+CharacterEvent_001_NPC8_003ID	17		役人	今からでも私と手を組まないか？\nそうすれば、州が君を守ってやれるぞ	Government Official	You know, it's not too late to change your mind. Team up with us and the province can help protect your good name from those thugs.	公务员	亡羊补牢，为时不晚。要不要和我合作？\n如此一来，州政府会为你提供保护的。	官員	現在還來得及，妳要不要和我聯手？\n這樣一來，這個州就會保護妳了喔。
+CharacterEvent_001_NPC8_003ID	18	Mieke	ミーケ	……お断りだい！	Mieke	No means no!	米珂	……我拒绝！	米珂	……米珂拒絕！
+CharacterEvent_001_NPC8_003ID	19		役人	ふん、そうか。私は一向に構わんのだが	Government Official	Hmph, fine. Your poor business decisions are your own.	公务员	哼，是吗。我是无所谓。	官員	哼，這樣啊。不過我一點也不介意。
+CharacterEvent_001_NPC8_003ID	20		役人	……ああそうだ。明日は今日よりももっと激しい雨に\nなりそうだぞ	Government Official	But I must warn you: there's going to be a long spell of rain from here on out. It will make today's storm look like a sun-shower.	公务员	啊对了……明天的雨说不定会比今天更大哦。	官員	……啊，對了。明天的雨好像會下得比今天還要大喔。
+CharacterEvent_001_NPC8_003ID	21	Mieke	ミーケ	……？　雨なんか降って……	Mieke	Rain? But today wasn't...	米珂	嗯……？哪有下雨……？	米珂	……？哪有下什麼雨……
+CharacterEvent_001_NPC8_003ID	22		役人	雨はどんどん激しくなる。いつか濁流になって、\n君を呑み込み……命も危なくなるかもしれない	Government Official	One must be careful in weather like this. It'll get worse and worse, and before you know it, the rain will become a flood that could carry you and all you've built away.	公务员	雨只会越变越大。最终变成一股浊流，将你吞噬……\n说不定还会有生命危险。	官員	雨會越下越大的。總有一天會變成濁流將妳吞噬……\n可能還會有生命危險。
+CharacterEvent_001_NPC8_003ID	23		役人	そうなる前に、避難しないとな？	Government Official	I suggest you find shelter before that happens.	公务员	你最好在变成那样之前避难哦。	官員	在那之前，妳得去避難才行喔。
+CharacterEvent_001_NPC8_003ID	24		役人	では、失礼する	Government Official	Do be careful.	公务员	再见。	官員	那我先告退了。
+CharacterEvent_001_NPC8_003ID	25	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_003ID	26	Mieke	ミーケ	（どこまでが敵なのか、分からない。\n　もしかしたら、州全体が敵なのかもしれない）	Mieke	(I don't know who to trust... Is he acting alone, or is the whole government out to get me?)	米珂	（现在还不清楚敌人的规模有多大。\n　说不定整个州都已经是米珂的敌人了。）	米珂	（不知道敵人究竟有多少，\n　說不定整個州都是米珂的敵人。）
+CharacterEvent_001_NPC8_003ID	27	Mieke	ミーケ	（そうなったらもう、ミーケは逃げられない。\n　誰も、巻き込めない）	Mieke	(If I made an enemy of the entire province, I have nowhere to run. But I can't drag anyone else into this.)	米珂	（如果真是那样，米珂就无路可逃了。\n　不能把别人卷入这件事。）	米珂	（如果變成這樣，那米珂就逃不掉了。\n　可不能波及任何人。）
+CharacterEvent_001_NPC8_003ID	28	Mieke	ミーケ	（好きに生きたい。そう思っただけなのに。\n　それがすごく、難しい）	Mieke	(Following my dreams and choosing the life I want for myself... All of that is way easier said than done.)	米珂	（米珂只是想过上自己想要的生活。\n　为什么会这么艰难呢。）	米珂	（明明只想隨心所欲地活下去，\n　那卻是件很困難的事。）
+CharacterEvent_001_NPC8_003ID	29	Mieke	ミーケ	（ミーケは……あいつの言いなりになるしかないの？）	Mieke	(Maybe the only way out of this mess is to do what the government says...)	米珂	（米珂……只能按那家伙说的去做了吗？）	米珂	（米珂……只能對那傢伙言聽計從了嗎？）
+CharacterEvent_001_NPC8_003ID	30		街の住人A	おい！　見たか、あれ！	Townsperson A	Whoa! Look at that!	城镇居民A	喂，你们看到那个了吗！	城鎮居民A	喂！看見那個了嗎！？
+CharacterEvent_001_NPC8_003ID	31		街の住人B	あれ、お役人様だよな？	Townsperson B	Isn't that guy a government official...?	城镇居民B	那是公务员先生吧？	城鎮居民B	奇怪，那是官員大人吧？
+CharacterEvent_001_NPC8_003ID	32	Mieke	ミーケ	……ん？　なんの騒ぎだろ？	Mieke	Huh? What's all the commotion?	米珂	嗯……？大家在吵什么呢？	米珂	……嗯？發生什麼事了嗎？
+CharacterEvent_001_NPC8_003ID	33		役人	うう……	Government Official	Ungh...	公务员	呜呜……	官員	唔唔……
+CharacterEvent_001_NPC8_003ID	34		ゴロツキ	た、たすけて……	Thug	P-Please... Help me...	流氓	救、救命……	流氓	救、救救我……
+CharacterEvent_001_NPC8_003ID	35	Mieke	ミーケ	……！？	Mieke	*Gasp*	米珂	……？！	米珂	……！？
+CharacterEvent_001_NPC8_003ID	36	Mieke	ミーケ	（お役人さんと……店に来たゴロツキたちが\n　木に縛り付けられてる！？）	Mieke	(It's that shady government official and the thug who was harassing me at the shop!)	米珂	（公务员先生……还有来店里闹事的流氓们\n　被绑在了树上？！）	米珂	（官員……和來店裡的那些流氓被綁在樹上！？）
+CharacterEvent_001_NPC8_003ID	37		街の住人C	なんでお役人様が縛られてるんだ？	Townsperson C	Why are they tied to that tree?!	城镇居民C	为什么公务员先生被绑在了树上？	城鎮居民C	為什麼官員大人會被綁起來呢？
+CharacterEvent_001_NPC8_003ID	38		街の住人B	札が立ててあるぞ？　何か書いてある……	Townsperson B	It looks like there's a message here...	城镇居民B	这里有块牌子。上面好像写了什么……	城鎮居民B	旁邊有塊板子呢！上面好像寫了些什麼……
+CharacterEvent_001_NPC8_003ID	39		街の住人B	「無垢なる民への脅迫、暴行、及び州の税収の\n　横領につき、裁きを下す」	Townsperson B	"""Justice was served for their crimes against innocent citizens, including blackmail, intimidation, and tax embezzlement."""	城镇居民B	“基于威胁并对无辜市民施暴、贪污州政府税金\n　两项罪名，对两人施以惩戒。”	城鎮居民B	「針對恐嚇無辜人民、施以暴行\n　以及盜用本州稅收之行為施行審判。」
+CharacterEvent_001_NPC8_003ID	40		街の住人A	おいおい、証拠の書類まであるぜ。\n…この役人、とんでもねぇな	Townsperson A	Hold on, look at these documents. All of the proof is right here... No doubt about it, this official is a lying cheat.	城镇居民A	你们看，连证据资料都有。\n……这个公务员不得了啊。	城鎮居民A	天啊，連作為證據的文件都有。\n……這個官員太不像話了。
+CharacterEvent_001_NPC8_003ID	41		街の住人C	ミーケの店に来てたやつらもいるじゃねえか！\nまさか、この役人がこいつらを？	Townsperson C	The thug who was making a stink at Mieke's shop got captured too! Was he working for this official the whole time?	城镇居民C	去米珂的店里闹事的家伙们也在！\n难道就是这个公务员指使的？	城鎮居民C	到米珂店裡鬧事的那些傢伙也在裡面！\n該不會是這個官員指使他們的吧？
+CharacterEvent_001_NPC8_003ID	42		街の住人B	何てやつだ……許せねえ！	Townsperson B	Those rotten scumbags... How low can you get?	城镇居民B	真是太过分了……不可原谅！	城鎮居民B	這傢伙也太過分了……不可原諒！
+CharacterEvent_001_NPC8_003ID	43	Mieke	ミーケ	（誰かが……誰かがミーケのために\n　やってくれたんだ）	Mieke	(Wait... Did someone do this for me?)	米珂	（有人……帮了米珂一把。）	米珂	（是誰……竟然有人替米珂解決了他們。）
+CharacterEvent_001_NPC8_003ID	44	Mieke	ミーケ	（いったい誰が、どうして？）	Mieke	(Who would help me like this? And why?)	米珂	（究竟是谁？为什么要帮米珂？）	米珂	（到底是誰？為什麼呢？）
+CharacterEvent_001_NPC8_003ID	45	Mieke	ミーケ	（お礼を言う相手も分からないまま、\n　その日は終わりを迎えた）	Mieke	(At the end of the day, I didn't even know who to thank for saving me.)	米珂	（结果直到那天结束，\n　米珂依旧不清楚该去感谢谁。）	米珂	（連要向誰道謝都不知道，那天就這樣結束了。）
+CharacterEvent_001_NPC8_003ID	46	Mieke	ミーケ	（そして翌日。ミーケの前にある人物が現れ……\n　人生最大の選択を迫られることになる）	Mieke	(But I didn't have to wonder for long. A mysterious figure appeared the next day with the biggest choice of my life.)	米珂	（紧接着第二天，某个人出现在米珂面前……\n　米珂面临了至今为止人生中最大的抉择。）	米珂	（隔天，米珂面前出現了一個人……\n　因而迎來了人生最大的抉擇。）
+CharacterEvent_001_NPC8_004ID	0	Mieke	ミーケ	ふう……今日も何事もなく終わった。\nもう、怯えなくても良いってことなのかな？	Mieke	Thank goodness! No thugs or government officials came knocking today... Maybe I'm finally in the clear.	米珂	呼……今天也平安结束了。\n已经不用再担心了吧？	米珂	呼……今天也平安無事地結束了。\n可以不用再擔心受怕了吧？
+CharacterEvent_001_NPC8_004ID	1	Lara	ララ	ごめんくださいませ	Lara	Pardon me.	拉拉	打扰一下。	拉拉	請問有人在嗎？
+CharacterEvent_001_NPC8_004ID	2	Mieke	ミーケ	あ、ごめんなさい！　今日はもう終わって……	Mieke	Oh! Sorry, ma'am. We're closed for today.	米珂	啊，不好意思！今天已经结束营业……	米珂	啊，抱歉！今天的營業時間已經結束……
+CharacterEvent_001_NPC8_004ID	3	Lara	ララ	商品を見に来たのではありませんのよ。\nあなたとお話がしたかっただけですわ	Lara	Oh, I'm afraid I'm not here to see your wares. I've come with a proposal.	拉拉	我不是来买东西的，\n只是有些话想对你说。	拉拉	我不是來看商品的喔，只是想找妳談談而已。
+CharacterEvent_001_NPC8_004ID	4	Mieke	ミーケ	……ミーケと？	Mieke	What, for me?	米珂	找米珂吗……？	米珂	……和米珂嗎？
+CharacterEvent_001_NPC8_004ID	5	Lara	ララ	ええ。あなたのお噂はかねがね。そしてこの数日、\nあなたのことを見させていただきました	Lara	Indeed. I've heard so much about you that I simply had to see for myself. I've been watching you for a few days now.	拉拉	没错。我早就听闻过你的大名。并且这几天，\n我一直在暗地里观察着你。	拉拉	嗯，我老早就聽說過妳了。這幾天我一直在觀察妳。
+CharacterEvent_001_NPC8_004ID	6	Lara	ララ	あなたの職に対する誇り。\nそして客に対しての誠実な心	Lara	Day in and day out, you show such pride in your work, such loyalty to your customers.	拉拉	你对自己的工作抱有自豪感，\n诚实面对每一位顾客。	拉拉	妳對自己的職業感到自豪，還有一顆真誠待客的心。
+CharacterEvent_001_NPC8_004ID	7	Lara	ララ	何より何者にも負けぬ強き志……！\nわたくしの心を震わせましてよ	Lara	And above all else, you show your strength of character. You moved me deeply, my dear.	拉拉	尤其是不屈服于任何人的坚韧心志……！\n让我感动不已。	拉拉	最重要的是那份不輸給任何人的堅強意志……！\n讓我的心受到了震撼。
+CharacterEvent_001_NPC8_004ID	8	Mieke	ミーケ	……あなたは、誰？	Mieke	Who are you?	米珂	你……是谁？	米珂	……妳是誰？
+CharacterEvent_001_NPC8_004ID	9	Lara	ララ	わたくしは、ララ・トロッケル。\n誇り高きララ・キングダムの王	Lara	I am Lara Trockel, queen of the glorious Kingdom of Lara.	拉拉	我名为拉拉·特罗克尔。\n是高贵的拉拉王国之王。	拉拉	我是拉拉‧特羅克爾。是高貴的拉拉王國君主。
+CharacterEvent_001_NPC8_004ID	10	Mieke	ミーケ	ララ……トロッケル……	Mieke	Lara...Trockel?	米珂	拉拉……特罗克尔……	米珂	拉拉……特羅克爾……
+CharacterEvent_001_NPC8_004ID	11	Mieke	ミーケ	（この名前、どこかで聞いたような……）	Mieke	(Where have I heard that name before?)	米珂	（我好像听过这个名字……）	米珂	（感覺在哪裡聽過這個名字……）
+CharacterEvent_001_NPC8_004ID	12	Mieke	ミーケ	（……！　そうだ！　指名手配犯だ！\n　確か、極夜の錬金党とかいう）	Mieke	(Wait, I remember now! There's a bounty on her head! I think she's with the Polar Night Alchemists.)	米珂	（对了……！是通缉犯！\n　好像叫极夜的炼金党什么的。）	米珂	（……！對了！是通緝犯！好像是叫極夜的鍊金黨。）
+CharacterEvent_001_NPC8_004ID	13	Mieke	ミーケ	（もしかして、襲われる？\n　とにかく、通報しなくちゃ！）	Mieke	(Is she here to hurt me? I need to call for help, now!)	米珂	（难道是来袭击米珂的？\n　总之得先报警！）	米珂	（米珂會不會被襲擊？得先去報官才行！）
+CharacterEvent_001_NPC8_004ID	14	Mieke	ミーケ	悪いけど、あなたと話すことは……	Mieke	Look, I don't have anything to discuss with the likes of you...	米珂	抱歉，米珂和你无话可说……	米珂	抱歉，米珂沒有話要和妳……
+CharacterEvent_001_NPC8_004ID	15	Lara	ララ	あなたは今、渇きを抱いている。\n決して満たされぬ渇きを	Lara	I know there is a hunger in your heart...a longing that will never be fulfilled here.	拉拉	现在的你内心充满渴望。\n一种绝对无法满足的渴望。	拉拉	妳現在心中有個渴望，\n是絕對無法得到滿足的渴望。
+CharacterEvent_001_NPC8_004ID	16	Lara	ララ	その魂の声を聞きつけ、\n統治者として語り掛けているのですわ	Lara	I can feel the way you yearn for change, and I, Queen Lara, am here to answer your prayers.	拉拉	我听到了你灵魂的呼喊，\n所以想以统治者的身份找你谈谈。	拉拉	我聽見了妳的靈魂之聲，\n於是以統治者的身分來找妳攀談。
+CharacterEvent_001_NPC8_004ID	17	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_004ID	18	Lara	ララ	わたくしはララ・キングダムの王として\n優れた人材を発掘していますの	Lara	You see, I'm recruiting talented individuals to join me in the Kingdom of Lara.	拉拉	作为拉拉王国的国王，\n我正在挖掘优秀的人才。	拉拉	我身為拉拉王國的君主，\n正在發掘優秀的人才。
+CharacterEvent_001_NPC8_004ID	19	Lara	ララ	今は優れた装飾士を探しているのですわ。\nそんな折、あなたを見つけました	Lara	I happen to be searching for an exceptional designer to serve at my side. That's how I found you.	拉拉	我想寻找一位优秀的装饰师。\n就在这时，我发现了你。	拉拉	目前我正在尋找優秀的飾品匠師。\n就在此時，我發現了妳。
+CharacterEvent_001_NPC8_004ID	20	Lara	ララ	あなたの作る品には、見る者を引き付ける力がある。\nあなた、わたくしの王国に加わる資質がありますわ	Lara	Your products have the power to touch people's hearts. And your uncompromising commitment to quality is exactly what my kingdom needs.	拉拉	你的作品拥有极大的吸引力。\n所以你有加入我王国的资质。	拉拉	妳的作品擁有吸引眾人的力量。\n妳具有加入我王國的資質。
+CharacterEvent_001_NPC8_004ID	21	Mieke	ミーケ	あなたの……王国に……？	Mieke	Your kingdom...?	米珂	加入……你的王国……？	米珂	妳的……王國……？
+CharacterEvent_001_NPC8_004ID	22	Lara	ララ	あなたはもっと自由で、偉大になれる。\nあんな小物に潰される才能であってはいけないのです	Lara	With me, you will have all of the freedom and success you've ever dreamed of. Frankly, your talents would have been wasted on that government thug.	拉拉	你能够变得更自由、更伟大。\n你的才华不该因那些小事而湮没。	拉拉	妳可以活得更自由、更偉大。\n那份才華不該被那種小人物給擊潰。
+CharacterEvent_001_NPC8_004ID	23	Mieke	ミーケ	まさか……お役人さんを縛ったのは……！	Mieke	Wait, were you the one who tied up that shady official?	米珂	难道说……把公务员先生绑起来的人就是……！	米珂	難道……綁住官員的人是……！
+CharacterEvent_001_NPC8_004ID	24	Lara	ララ	ええ。身の程をわきまえぬ者に裁きを与え、\n民を守るのも王の務め。気にすることはありませんわ	Lara	Yes, I was. Think nothing of it. As a queen, I simply can't abide crooks like that who take advantage of their people.	拉拉	没错。制裁不知天高地厚之人、\n保护国民是王的义务。你不用放在心上。	拉拉	嗯，制裁不知分寸之人，並守護人民\n也是君主的職責。妳不必放在心上。
+CharacterEvent_001_NPC8_004ID	25	Lara	ララ	さあ、ミーケ。わたくしの下へいらっしゃいな。\nわたくしたちと来れば、あなたの渇きは満たされますわ	Lara	That's why I want you to come with me, dear Mieke. In my kingdom, you can live out your wildest dreams.	拉拉	来吧，米珂，来到我身边。\n只要加入我们，你的渴望就能得到满足。	拉拉	好了，米珂。成為我麾下的一員吧。\n只要加入我們，妳心中的渴望就能獲得滿足了。
+CharacterEvent_001_NPC8_004ID	26	Mieke	ミーケ	……ミーケも指名手配犯になっちゃうんじゃないの？	Mieke	But if I join you...wouldn't that make me a criminal, too?	米珂	米珂也会成为通缉犯吧……？	米珂	……這樣米珂也會變成通緝犯吧？
+CharacterEvent_001_NPC8_004ID	27	Lara	ララ	あなたにはただ、王国で装飾士をやって\nいただきたいだけ。罪には問われませんわ	Lara	No, no. Perish the thought. You would be my royal designer. There's no crime in that.	拉拉	我只是希望你担任拉拉王国的装饰师，\n不至于被问罪。	拉拉	我只是想讓妳在王國擔任飾品匠師而已，\n不會被問罪的。
+CharacterEvent_001_NPC8_004ID	28	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_004ID	29	Mieke	ミーケ	（ビッグになりたい。好きに生きたい。\n　ミーケの渇き、この人は全部分かってるのかも）	Mieke	(This is it. My chance to chase my dreams... To live the life I want for myself! It's like she knew exactly what I needed.)	米珂	（米珂想要做成大事，想过上自己喜欢的生活。\n　她也许能理解米珂的全部渴望。）	米珂	（米珂想變偉大，想隨心所欲地生活。\n　這個人或許知曉米珂的所有渴望。）
+CharacterEvent_001_NPC8_004ID	30	Mieke	ミーケ	（……ララ・キングダム。\n　一国の王。何てビッグなんだ）	Mieke	(Queen Lara. The Kingdom of Lara... All of this sounds big. Majorly big!)	米珂	（拉拉王国……\n　一国之主，是多么伟大啊。）	米珂	（……拉拉王國。一國君主，多麼偉大啊。）
+CharacterEvent_001_NPC8_004ID	31	Mieke	ミーケ	（この人についていけば何かが変わるのかもしれない。\n　……そうじゃないかもしれない）	Mieke	(Following her just might change my life. Or...it might not. Who knows?)	米珂	（如果加入她，也许能发生一些改变。\n　也可能……什么都不变。）	米珂	（跟著這個人走，也許會改變一些什麼……\n　但也可能不會。）
+CharacterEvent_001_NPC8_004ID	32	Mieke	ミーケ	（選ぶんだ）	Mieke	(Either way, I have to choose.)	米珂	（米珂要做出选择。）	米珂	（要做選擇了。）
+CharacterEvent_001_NPC8_004ID	33	Mieke	ミーケ	……ミーケは	Mieke	I...	米珂	米珂……	米珂	米珂……
+CharacterEvent_001_NPC8_004ID	34		選択肢	ララの誘いに乗る	Selection	Join Queen Lara's kingdom	选项	接受拉拉的邀请	選項	答應拉拉的邀約
+CharacterEvent_001_NPC8_004ID	35	Mieke	ミーケ	……うん。行くよ。\n乗ってやろうじゃん。このビッグな話に！	Mieke	I'll join you. You've got majorly big plans, so let's make them happen!	米珂	嗯……我跟你走。\n我就接受你这宏大的提议吧！	米珂	……嗯，米珂要去。米珂就答應妳這偉大的提議吧！
+CharacterEvent_001_NPC8_004ID	36	Lara	ララ	素晴らしい。あなたは期待通りの方でしたわ	Lara	Oh, wonderful. My faith in you was well placed.	拉拉	太棒了，你果然没有辜负我的期待。	拉拉	太好了，看來妳是正如我所想的人選呢。
+CharacterEvent_001_NPC8_004ID	37	Lara	ララ	さあ、行きましょう。\n新たなる世界が、あなたを待っていますわ！	Lara	Let us be off, then. A whole new world is waiting for you.	拉拉	那我们走吧。\n崭新的世界正在等着你！	拉拉	來，走吧。全新的世界在等待著妳喔！
+CharacterEvent_001_NPC8_004ID	38		選択肢	ララの誘いに乗らない	Selection	Stay here	选项	拒绝拉拉的邀请	選項	拒絕拉拉的邀約
+CharacterEvent_001_NPC8_004ID	39	Mieke	ミーケ	……指名手配犯についていくわけには行かないよ。\nとーちゃんに顔向けできなくなる	Mieke	I can't just go along with a wanted criminal. There's no way I'd disappoint Papa like that.	米珂	不能跟着通缉犯走……\n不然就没脸见爸爸了。	米珂	……米珂不能跟著通緝犯走，不然就沒臉面對爸爸了。
+CharacterEvent_001_NPC8_004ID	40	Lara	ララ	……そう。残念ですわ	Lara	Hm. How unfortunate.	拉拉	是吗……真遗憾。	拉拉	……是嗎？真可惜。
+CharacterEvent_001_NPC8_004ID	41	Mieke	ミーケ	あのお役人さんみたいに脅したって無駄だよ。\n絶対に折れないから	Mieke	Don't even think about trying to blackmail me like that government official did. I won't budge.	米珂	就算你跟那个公务员一样威胁米珂也没用。\n米珂绝不会屈服的。	米珂	就算妳像那個官員一樣威脅米珂也沒用喔。\n米珂是絕不會屈服的。
+CharacterEvent_001_NPC8_004ID	42	Lara	ララ	あんな小物と一緒にしないでくださる？\nわたくしは誇り高きララ・キングダムの王	Lara	How dare you compare me with that filth! I'm not some sniveling politician, I am a queen.	拉拉	可以不要把我和那种小人物相提并论吗？\n我可是高贵的拉拉王国之王。	拉拉	別拿我和那種小人物相提並論好嗎？\n我是高貴的拉拉王國君主。
+CharacterEvent_001_NPC8_004ID	43	Lara	ララ	安心しなさいな。\nそんなことは致しませんわ	Lara	Besides, I wouldn't dream of doing something so barbaric.	拉拉	放心吧，我不会做那种事的。	拉拉	請妳放心，我不會做那種事的。
+CharacterEvent_001_NPC8_004ID	44	Lara	ララ	それでは、ごきげんよう。\n末永いご活躍を	Lara	But if that is your answer, I don't intend to force you. Adieu, dear Mieke. And best of luck with your business.	拉拉	那我先失陪了。\n祝你今后一帆风顺。	拉拉	那就再見了，祝妳今後順利。
+CharacterEvent_001_NPC8_004ID	45	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_004ID	46	Mieke	ミーケ	（これでいい。これでいいんだ。とーちゃんみたいに\n　地道に、ビッグになっていくんだ！）	Mieke	(This is the way to go. Step by step. Papa hasn't taken any shortcuts to make it big, and neither will I!)	米珂	（这样就好，没问题的。米珂要和爸爸一样，\n　脚踏实地地做成大事！）	米珂	（沒錯，這樣就好了，米珂要像爸爸那樣，\n　踏踏實實地成為大人物！）
+CharacterEvent_001_NPC8_004ID	47		選択肢	硬貨で決める	Selection	Flip a coin to decide	选项	抛硬币决定	選項	用硬幣決定
+CharacterEvent_001_NPC8_004ID	48	Mieke	ミーケ	……あーもう、考えたって分からないや！\nこういう時は……	Mieke	Ugh, this is way too hard! That means there's only one thing left to do...	米珂	唔……米珂想不明白！\n这种时候就该……	米珂	……啊～真是的，想破頭都理不出頭緒！\n這種時候……
+CharacterEvent_001_NPC8_004ID	49	Lara	ララ	……？　硬貨を取り出して、どうしますの？	Lara	A coin? What are you planning?	拉拉	嗯？你拿硬币出来做什么？	拉拉	……？拿硬幣出來要做什麼？
+CharacterEvent_001_NPC8_004ID	50	Mieke	ミーケ	決まってるじゃん？\n表か裏。どちらが出るかで、決めるんだよ！	Mieke	Isn't it obvious? I'm going to flip for it to decide.	米珂	这还用问吗？\n当然是用硬币正反面来决定了。	米珂	這還用問？\n看硬幣是正面還是反面來決定啊！
+CharacterEvent_001_NPC8_004ID	51	Lara	ララ	そんな、運任せな……	Lara	So you mean to leave this all up to chance...?	拉拉	居然用运气做决定……	拉拉	居然要靠運氣……
+CharacterEvent_001_NPC8_004ID	52	Mieke	ミーケ	とーちゃんもいつも言ってる。\n勝負は時の運だって	Mieke	Papa told me that sometimes victory is just a matter of luck!	米珂	爸爸也经常说，时运决定成败。	米珂	爸爸也總是這麼說，勝敗取決於當下的運氣。
+CharacterEvent_001_NPC8_004ID	53	Mieke	ミーケ	大事な局面ほど、運が大事になってくるんだ！	Mieke	And the higher the stakes are, the more important luck becomes!	米珂	越是关键时刻，运气越重要！	米珂	越是重要的局面，就越是要看重運氣！
+CharacterEvent_001_NPC8_004ID	54	Lara	ララ	なるほど。面白い。見せてくださいな。\nあなたの運を！	Lara	How droll... Go ahead then, dear Mieke. Show me just how lucky you are.	拉拉	原来如此。真有趣。\n那就让我见识一下你的运气吧！	拉拉	原來如此，真有趣。\n就讓我見識一下妳的運氣吧！
+CharacterEvent_001_NPC8_004ID	55	Mieke	ミーケ	表が出たらあなたの話は断る。\n裏が出たら、あなたの話に応じる	Mieke	All right... Heads, I turn you down. Tails, I'll go with you.	米珂	正面是拒绝，反面是答应。	米珂	如果丟出正面的話就是拒絕，\n是背面的話就答應妳的邀約。
+CharacterEvent_001_NPC8_004ID	56	Mieke	ミーケ	これでいいね？　どちらになっても恨みっこなしだよ！	Mieke	Fair's fair, so don't go crying if you don't get your way.	米珂	你能接受吗？无论结果如何都不能有怨言哦！	米珂	這樣可以吧？無論結果如何都不能抱怨喔！
+CharacterEvent_001_NPC8_004ID	57	Lara	ララ	ええ！	Lara	Very well.	拉拉	好！	拉拉	好！
+CharacterEvent_001_NPC8_004ID	58	Mieke	ミーケ	じゃあ……投げるよ！	Mieke	Okay then. Here goes nothing!	米珂	那……米珂要扔了！	米珂	那……米珂要丟了！
+CharacterEvent_001_NPC8_004ID	59	Lara	ララ	……！\nこれは……	Lara	*Gasp* It's...	拉拉	这是……！	拉拉	……！這是……
+CharacterEvent_001_NPC8_004ID	60	Mieke	ミーケ	裏……！	Mieke	Tails!	米珂	反面……！	米珂	背面……！
+CharacterEvent_001_NPC8_004ID	61	Lara	ララ	……ふふ。あっはっは！	Lara	Hehe... Ha... Ahahaha!	拉拉	呵呵……哈哈哈！	拉拉	……呵呵，啊哈哈！
+CharacterEvent_001_NPC8_004ID	62	Lara	ララ	才能がある上に、運もある。\n素晴らしい……素晴らしいですわ！	Lara	Marvelous! Just marvelous! It really is true what they say... Luck requires skill.	拉拉	不仅才华横溢，运气也很好。\n很棒……太棒了！	拉拉	妳不僅有才華，還擁有運氣。\n太棒了……真是太棒了！
+CharacterEvent_001_NPC8_004ID	63	Lara	ララ	どうやら、あなたはわたくしの期待以上の\n方だったようです	Lara	You are even more extraordinary than I imagined, my dear.	拉拉	你的表现远超我的预期呢。	拉拉	看來妳是個超乎我預期的人選呢。
+CharacterEvent_001_NPC8_004ID	64	Lara	ララ	さあ、行きましょう。\n新たなる世界が、あなたを待っていますわ！	Lara	Let us be off, then. A whole new world is waiting for you.	拉拉	那我们走吧。\n崭新的世界正在等着你！	拉拉	來，走吧。全新的世界在等待著妳喔！
+CharacterEvent_001_NPC8_004ID	65	Mieke	ミーケ	表……！	Mieke	Heads!	米珂	正面……！	米珂	正面……！
+CharacterEvent_001_NPC8_004ID	66	Lara	ララ	……そうですか。残念ですわ	Lara	Too bad... But one mustn't argue with fate.	拉拉	是吗……真遗憾。	拉拉	……這樣啊，真可惜。
+CharacterEvent_001_NPC8_004ID	67	Lara	ララ	わたくしが運に見放されたのか。\nそれとも、あなたが見放されたのか	Lara	Luck did not smile upon me today... But did it you?	拉拉	究竟是我被命运放弃了呢，\n还是你被放弃了呢。	拉拉	是好運離我遠去了嗎？\n還是妳被命運給拋棄了呢？
+CharacterEvent_001_NPC8_004ID	68	Lara	ララ	大人しく退散することにしましょう。\nそれでは、ごきげんよう。末永いご活躍を	Lara	I won't press the matter any further. Adieu, dear Mieke. And best of luck with your business.	拉拉	那我就老老实实离开吧。\n失陪了。祝你今后一帆风顺。	拉拉	我還是乖乖撤退吧。\n那就再見了，祝妳今後順利。
+CharacterEvent_001_NPC8_004ID	69	Mieke	ミーケ	……	Mieke	...	米珂	……	米珂	……
+CharacterEvent_001_NPC8_004ID	70	Mieke	ミーケ	（これでいい。これでいいんだ。とーちゃんみたいに\n　地道に、ビッグになっていくんだ！）	Mieke	(This is the way to go. Step by step. Papa hasn't taken any shortcuts to make it big, and neither will I!)	米珂	（这样就好，没问题的。米珂要和爸爸一样，\n　脚踏实地地做成大事！）	米珂	（沒錯，這樣就好了，米珂要像爸爸那樣，\n　踏踏實實地成為大人物！）
+CharacterEvent_001_NPC8_005ID	0	Mieke	ミーケ	あ、ララ様こんちはー！　ビーッグ！！！	Mieke	Hi there, Queen Lara! It's majorly great to see you!	米珂	啊，拉拉大人好！Big——！！！	米珂	啊，拉拉大人妳好──！偉～大！！！
+CharacterEvent_001_NPC8_005ID	1	Lara	ララ	ビーッグ！！！	Lara	Oh, yes. Majorly!	拉拉	Big——！！！	拉拉	偉～大！！！
+CharacterEvent_001_NPC8_005ID	2	Mieke	ミーケ	わー最近ビッグやってくれる！　ララ様さいこう！	Mieke	Haha, you're the best! I can't believe someone as big as you is using my family's catchphrase!	米珂	哇，最近拉拉大人会做这个动作了，太棒了！	米珂	哇～最近拉拉大人會回米珂偉大呢！大人最棒了！
+CharacterEvent_001_NPC8_005ID	3	Lara	ララ	さすがにずっと見ていると、つい	Lara	I hear you say it all the time. I simply couldn't resist.	拉拉	一直看着你做，我也忍不住想试试看了。	拉拉	畢竟老是看著妳說，就不知不覺學起來了。
+CharacterEvent_001_NPC8_005ID	4	Mieke	ミーケ	こうなったら、ララ様ミーケとコンビ組む？\nあえて、ララ様がボケ側で	Mieke	I've got an idea, Your Majesty. What do you say we start a comedy duo?	米珂	那拉拉大人要不要和米珂结成组合？\n并且反其道而行之，让拉拉大人做逗哏。	米珂	既然如此，拉拉大人要不要和米珂一起搭檔呢？\n然後拉拉大人負責裝傻。
+CharacterEvent_001_NPC8_005ID	5	Lara	ララ	流石にこれ以上掛け持ちはできませんわ。\n……それにしても	Lara	Oh, that does sound tempting... However, I'm afraid I have more than enough on my plate as it is.	拉拉	我不能再身兼更多职了。\n不过话说回来……	拉拉	我實在無法再兼任其他職位了。\n不過話說回來……
+CharacterEvent_001_NPC8_005ID	6	Lara	ララ	芸とは面白いものですね。もはやミーケと話している\nときビッグを聞かないと、物足りなくなります	Lara	"But I do love a good laugh. It always tickles me to hear you call something ""big"" or ""major,"" my dear."	拉拉	段子真的很有趣呢。和米珂聊天的时候\n要是没听到Big，总觉得少了点什么。	拉拉	這種段子還真有趣呢。如果和米珂說話時\n沒聽見妳說偉大，就會感覺少了些什麼。
+CharacterEvent_001_NPC8_005ID	7	Mieke	ミーケ	そりゃもう、とーちゃんが編み出した芸だからねぇ！\n挨拶の後とかにも使えるよ	Mieke	"Yay! ""Majorly big"" is my papa's catchphrase! You can use it just about any time, so it's majorly convenient!"	米珂	因为这是米珂的爸爸编出来的段子啊！\n可以用在打完招呼之后呢。	米珂	那當然，這可是爸爸編出來的段子呢！\n也能放在打招呼之後喔！
+CharacterEvent_001_NPC8_005ID	8	Lara	ララ	「ザ・ビッグマン」はガルネ州で\n芸人活動中ですのよね？　最近はどうなのです？	Lara	"Ah, yes. Your father is Galne's ""Major Big,"" correct? How is he faring?"	拉拉	“The Bigman”现在是在加尔内州活动吧？\n最近情况如何？	拉拉	「THE‧偉大超人」正以搞笑藝人的身分\n在加爾內州表演吧？最近怎麼樣了呢？
+CharacterEvent_001_NPC8_005ID	9	Mieke	ミーケ	いやー賞レースは負けちゃうみたい。\nだから営業で頑張ってるって	Mieke	Well, he wasn't able to take home the gold in his last comedy showdown, so he's been focusing on getting new gigs.	米珂	这个嘛，他好像输了比赛，\n所以现在在努力推销自己。	米珂	唉呀……他好像在大賽中落敗了。\n所以聽說他正努力四處宣傳。
+CharacterEvent_001_NPC8_005ID	10	Mieke	ミーケ	かーちゃんが働いたりして支えてるみたい。\n昔と同じだねぇ	Mieke	And Mama's been working to support him through it all, just like she always has.	米珂	妈妈则是在打工支持爸爸，和以前一样。	米珂	媽媽似乎也一邊工作一邊支持著他。\n就和以前一樣。
+CharacterEvent_001_NPC8_005ID	11	Lara	ララ	……	Lara	...	拉拉	……	拉拉	……
+CharacterEvent_001_NPC8_005ID	12	Lara	ララ	ずっとご両親がいなくて、寂しくはありませんの？	Lara	Do you ever feel lonely being apart from your parents?	拉拉	父母一直不在身边，你会不会觉得寂寞？	拉拉	父母一直都不在身邊，妳不會寂寞嗎？
+CharacterEvent_001_NPC8_005ID	13	Mieke	ミーケ	まあ……正直寂しくなる時はあるよ	Mieke	To be honest, yeah. Sometimes.	米珂	唔……说实话有时候是会觉得寂寞。	米珂	嗯……老實說，的確會有寂寞的時候。
+CharacterEvent_001_NPC8_005ID	14	Lara	ララ	それでも、お父様のことが好きなのですね	Lara	But in spite of it all, it's clear how much you adore your father.	拉拉	即便如此，你还是很喜欢父亲对吧。	拉拉	儘管如此，妳還是很喜歡爸爸對吧。
+CharacterEvent_001_NPC8_005ID	15	Mieke	ミーケ	うん！　だって、夢に全力なのってかっこいいじゃん！	Mieke	Of course! He's the coolest dad there is. My papa taught me how to chase my dreams.	米珂	嗯！因为拼尽全力追梦的样子很帅气嘛！	米珂	嗯！為自己的夢想全力以赴很酷啊！
+CharacterEvent_001_NPC8_005ID	16	Mieke	ミーケ	ばーちゃんもね。本当はとーちゃんに\n料理屋を継いでほしかったみたいなんだけどさ	Mieke	And Granny, too. Even though deep down, I think she wanted Papa to take over her restaurant.	米珂	奶奶也一样。\n她好像原本希望爸爸继承家里的餐馆。	米珂	米珂的奶奶也是喔。\n其實她本來好像想讓爸爸繼承餐館的。
+CharacterEvent_001_NPC8_005ID	17	Mieke	ミーケ	とーちゃんは芸人で世界一になりたいって言って。\nかーちゃんもそれを支えたいって言って	Mieke	Once Papa told her his dream of becoming the world's biggest comedian, she and Mama supported him with all their hearts.	米珂	但爸爸说想成为世界第一的搞笑艺人，\n妈妈也说了要支持爸爸。	米珂	但爸爸說他想成為世界第一的搞笑藝人，\n而媽媽也說想支持他的夢想。
+CharacterEvent_001_NPC8_005ID	18	Mieke	ミーケ	ミーケもばーちゃんもそれを応援することに\n決めたんだ！　好きに生きられるのが一番だもん！	Mieke	And I do, too! Everyone should chase their dreams and live the life they want!	米珂	所以米珂和奶奶也决定要支持爸爸！\n没有什么比过上自己想要的生活更重要的！	米珂	所以米珂和奶奶也決定要為他加油了！\n畢竟可以活得隨心所欲才是最重要的！
+CharacterEvent_001_NPC8_005ID	19	Lara	ララ	本当に、良い家に生まれましたのね	Lara	How blessed you are... Your entire family sounds lovely.	拉拉	你出生在一个很棒的家庭呢。	拉拉	妳真的出生在一個很棒的家庭呢。
+CharacterEvent_001_NPC8_005ID	20	Mieke	ミーケ	まあね！　誰がなんと言おうと、ミーケの家族は\n世界一だねぇ！	Mieke	Yeah, majorly. If you ask me, they're the biggest, bestest family in the world!	米珂	嗯！不管别人怎么说，\n米珂的家人都是世界上最好的家人！	米珂	算是吧！無論別人怎麼說，\n米珂的家人都是世界第一喔！
+CharacterEvent_001_NPC8_005ID	21	Lara	ララ	ふふ……ララ・キングダムの民も、\n皆がそう言えるようにしていきたいものですわ	Lara	Hehe... I dream that one day, all of my subjects will think the same of the Kingdom of Lara.	拉拉	呵呵……希望将来拉拉王国的国民\n也都能这么说。	拉拉	呵呵……希望我也能讓拉拉王國的\n所有人民都這麼說。
+CharacterEvent_001_NPC8_005ID	22	Lara	ララ	だから実家に残り、料理屋を手伝っていたのですね	Lara	So that's why you spent your childhood helping out at the family restaurant...	拉拉	所以你才留在老家帮忙打理餐馆啊。	拉拉	所以妳之前才會留在老家的餐館幫忙啊。
+CharacterEvent_001_NPC8_006ID	0	Mieke	ミーケ	ララ様ー！　ご飯の用意ができたよー！	Mieke	Queen Lara, lunch is ready!	米珂	拉拉大人！饭菜准备好了！	米珂	拉拉大人──！飯煮好了喔──！
+CharacterEvent_001_NPC8_006ID	1	Lara	ララ	あら、もうそんな時間ですの？\n最近時が経つのが早いですわ	Lara	Oh, my. Already? Where does the time go?	拉拉	哎呀，已经这个点了吗？\n最近时间过得真快呢。	拉拉	哎呀，已經要吃飯了嗎？最近時間過得好快呀。
+CharacterEvent_001_NPC8_006ID	2	Mieke	ミーケ	あはは、ばーちゃんみたいなこと言ってる	Mieke	Haha, my granny always said the same thing!	米珂	啊哈哈，像是奶奶会说的话呢。	米珂	啊哈哈，妳說這話像個老奶奶一樣。
+CharacterEvent_001_NPC8_006ID	3	Lara	ララ	それだけ充実しているということですわ	Lara	Time flies when you're feeling fulfilled.	拉拉	这恰恰说明了我每一天都过得很充实。	拉拉	這也代表我過得有多充實吧。
+CharacterEvent_001_NPC8_006ID	4	Mieke	ミーケ	レスナたちの旅にも付き合ってるわけだしねぇ	Mieke	You must be majorly busy since you've been helping Resna and the others, too.	米珂	是啊，而且还在和蕾斯娜她们一起旅行。	米珂	畢竟妳還會和蕾斯娜他們一起出門旅行啊。
+CharacterEvent_001_NPC8_006ID	5	Mieke	ミーケ	このままだと体がもたないよ！\nほら、ご飯の時間ぐらいはゆっくりして！	Mieke	Be careful not to wear yourself out, okay? At least make sure you take it easy while you eat!	米珂	这样下去拉拉大人的身体会撑不住的！\n吃饭的时候就好好放松吧！	米珂	這樣下去身體會撐不住的！\n好了，吃飯時間就慢慢來吧！
+CharacterEvent_001_NPC8_006ID	6	Lara	ララ	もちろんですわ。ミーケの料理は美味しいですもの。\nさすが、料理屋を手伝っていただけのことはありますわ	Lara	Of course, my dear. I will. Besides, your cooking is too delectable to eat in haste.	拉拉	当然了，谁让米珂做的饭菜那么美味呢。\n不愧是曾经在餐馆工作过的人。	拉拉	那是當然，米珂的料理很好吃呢。\n真不愧是有在餐館幫忙過的人。
+CharacterEvent_001_NPC8_006ID	7	Mieke	ミーケ	ばーちゃんの手伝いをしてただけさ	Mieke	That's because I always used to help Granny in the kitchen.	米珂	米珂只是帮奶奶打下手啦。	米珂	那只是當奶奶的助手而已啦。
+CharacterEvent_001_NPC8_006ID	8	Lara	ララ	その頃はどんな暮らしをしていましたの？	Lara	I'd love to hear more about your time together.	拉拉	能和我说说当时的生活吗？	拉拉	妳那時候過著什麼樣的生活呢？
+CharacterEvent_001_NPC8_006ID	9	Mieke	ミーケ	うーんとね。安くてがっつり食べられる店だったから、\n船乗りの人たちがよく使ってくれてたんだ	Mieke	Well, back then, Granny's shop was really popular with sailors. The food was good, and the portions were huge.	米珂	唔，因为米珂家的餐馆便宜大碗，\n所以会有很多船员来光顾。	米珂	我想想喔……因為那間店的餐點便宜又能大吃一頓，\n所以不少船員經常會上門光顧。
+CharacterEvent_001_NPC8_006ID	10	Mieke	ミーケ	港に戻ってきたら大人数で押し寄せてくるから、\n忙しい時はホント大変だったよ	Mieke	As soon as a ship made port in town, everyone would jump off and head straight to her restaurant. Those rushes were a doozy.	米珂	船只回港后会一次性来很多客人，\n忙起来的时候真的忙得要死。	米珂	他們回到港口後，就會一大群人蜂擁而來，\n所以忙起來的時候真的很辛苦。
+CharacterEvent_001_NPC8_006ID	11	Lara	ララ	そうは言いながらも、その顔。\n楽しかったのでしょう？	Lara	You say that, but you look so happy recounting those memories.	拉拉	嘴上这么说，不过看你的表情，\n你也乐在其中吧？	拉拉	嘴上是這麼說但看妳的表情，\n其實忙得很開心吧？
+CharacterEvent_001_NPC8_006ID	12	Mieke	ミーケ	うん！　酔っぱらうとさ。海での冒険の話を\nみんな大声でし始めるんだ	Mieke	It was a blast. Once they started drinking, they'd all start shouting over each other about their adventures at sea...	米珂	嗯！大家喝醉之后，\n就会大声聊海上的冒险故事。	米珂	嗯！那些船員喝醉了，\n就會開始大聲講述起海上的冒險故事。
+CharacterEvent_001_NPC8_006ID	13	Mieke	ミーケ	宝の地図を見つけた！　未知の島を探索した！\nやばい海の魔物に追いかけられた！	Mieke	"""I found buried treasure!"" ""That's nothin'! I found an uncharted island!"" ""Well, I escaped from a gigantic sea monster to get here!"""	米珂	发现了藏宝图！探索了未知岛屿！\n被危险的海洋魔物追杀！	米珂	像是找到了藏寶地圖！探索未知的島嶼！\n或者被可怕的海中魔物追殺！
+CharacterEvent_001_NPC8_006ID	14	Mieke	ミーケ	嘘か本当なのか分からない話。\nでも、それを聞いてるのが好きだったな	Mieke	I could never tell if their stories were true or completely made up. Either way, though, I loved hearing them.	米珂	也不知道他们说的是真是假，\n但米珂很喜欢听。	米珂	都是一些分不清真假的故事。\n不過，米珂很喜歡聽他們說這些喔。
+CharacterEvent_001_NPC8_006ID	15	Lara	ララ	ランツェと顔見知りのようでしたが、\nその時に知り合ったのですね	Lara	I take it that must be how you came to know Lanze.	拉拉	我看你好像和兰泽认识，\n所以是那时候认识的是吗？	拉拉	看起來妳好像和藍澤相識，\n就是那時候認識的吧。
+CharacterEvent_001_NPC8_006ID	16	Mieke	ミーケ	そうそう。酔っ払うとめちゃくちゃ絡んでくるんだよ。\nよく話し相手になってたなあ	Mieke	Yeah, he got himself into plenty of trouble when he drank. I listened to more than a few of his escapades. Good times...	米珂	没错。他一喝醉就会很缠人，\n总是来找米珂说话。	米珂	沒錯，他一喝醉就會非常纏人。\n所以經常跟米珂聊天喔。
+CharacterEvent_001_NPC8_006ID	17	Lara	ララ	それがどうして、装飾屋を開いたんですの？	Lara	If you loved it so much, why did you decide to become a designer instead?	拉拉	那之后你怎么会想到要开装饰品店呢？	拉拉	那妳為什麼會開飾品店呢？
+CharacterEvent_001_NPC8_006ID	18	Mieke	ミーケ	ある日、船乗りの一人が相談してきたんだ。\n「金をやるから壊れた装飾を直せないか」って	Mieke	It all started one day at the restaurant. One of the sailors came in begging me to fix one of their accessories—they even offered to pay me.	米珂	某天有个船员来找米珂商量，说愿意付钱，\n能不能帮他修理坏掉的装饰品。	米珂	某天有名船員來找米珂商量。\n他說：「我會給妳錢，可以幫我修好壞掉的飾品嗎？」
+CharacterEvent_001_NPC8_006ID	19	Mieke	ミーケ	家計の足しになりそうだし、やってみるって言って\n船乗りの服や装飾を直し始めたのがきっかけなんだ	Mieke	I thought it'd be a good way to earn some money for my family, so I gave it a try. Before I knew it, I'd started a business mending clothes and repairing accessories.	米珂	米珂想着能补贴家用，就说试试看吧。\n以此为契机开始修补船员的衣服和装饰品。	米珂	想說這樣好像能貼補家用，就答應下來了。\n於是便修理起船員的衣服或飾品，那就是開店的契機。
+CharacterEvent_001_NPC8_006ID	20	Mieke	ミーケ	みんないつもボロボロになって帰ってくるからさ。\nいい稼ぎになったよ	Mieke	After every journey out to sea, all the sailors would come home with their clothes a real mess. It was easy money.	米珂	大家从海上回来之后衣服总是变得破破烂烂的，\n所以能挣不少钱。	米珂	畢竟大家跑船回來時，總是渾身破破爛爛的，\n所以米珂賺了不少錢呢。
+CharacterEvent_001_NPC8_006ID	21	Mieke	ミーケ	やってるうちに楽しくなっていって、\nいつしかなんでも直せるし作れるようになってた	Mieke	Once I got started, I realized how much fun it was. It wasn't long before I could fix up just about anything.	米珂	做着做着米珂开始觉得这份工作很有趣，\n而且手艺也长进了不少。	米珂	然後做著做著覺得有趣了起來，\n不知不覺變得能修復和製作任何東西了。
+CharacterEvent_001_NPC8_006ID	22	Mieke	ミーケ	それが転じて、っていう感じかな！	Mieke	So I guess that's how I ended up where I am now!	米珂	最后就变成开装饰品店了，大概就是这样！	米珂	這大概就是人生的轉機吧！
+CharacterEvent_001_NPC8_006ID	23	Lara	ララ	ふふ、なるほど。誰だか分かりませんが、\n相談してくれた船乗りには感謝ですわね	Lara	Hehe, then it sounds like I have that sailor to thank for inspiring such a wonderful designer.	拉拉	呵呵，原来如此。虽然不知道那位来找你修理的\n船员是谁，但我该感谢他才是。	拉拉	呵呵，原來如此。雖然不知道是誰，\n但我要感謝一下那位和妳商量的船員呢。
+CharacterEvent_001_NPC8_006ID	24	Mieke	ミーケ	あはは、そうだね。誰だったかなあ	Mieke	Haha! I'd like to thank them, too. But I can't remember who it was...	米珂	哈哈哈……是啊。到底是谁来着呢。	米珂	啊哈哈，是啊。是誰來著呢？
+CharacterEvent_001_NPC8_006ID	25	???	？？？	頼むよ！　バーバラから貰ったヤツなんだ！\n壊したってバレたら怒られちまう！	???	You've got to help me! Barbara's gonna kill me if she finds out I broke the jewelry she gave me!	？？？	拜托了！这是芭芭拉送我的东西！\n要是被她发现我弄坏了，她肯定会很生气！	？？？	拜託了！這是芭芭拉給我的！\n要是她發現我弄壞了，肯定會把我臭罵一頓的！
+CharacterEvent_001_NPC8_006ID	26	???	？？？	お前、指先器用だったろ？　小遣い弾むからよお！\nな？　人を助けると思って！	???	You're good with your hands, right? C'mon, you'd be doing me a real favor if you fixed this thing! I'll even pay you for it!	？？？	你不是手很巧吗？我会多付点钱的！\n拜托，你就当救人一命！	？？？	妳的手很巧對吧？我會多給一些零用錢的！\n好嗎？妳就當是在幫助人吧！
+CharacterEvent_001_NPC8_006ID	27	Mieke	ミーケ	んー？？？　言われたことはなんとなく\n覚えてるけど、顔は出てこないや	Mieke	Hmm... I can remember what they said, but not their face.	米珂	嗯？？？虽然还记得一点当时他说的话，\n但想不起来脸了。	米珂	嗯～？？？大概記得他當時說了什麼，\n但想不起來是誰。
+CharacterEvent_001_NPC8_006ID	28	Mieke	ミーケ	ま、いっか！　ありがと、誰かさん！	Mieke	Oh well! Whoever it was, I'm thankful!	米珂	算了！谢谢你，无名氏先生！	米珂	算了，不想了！謝謝啦，某人！
+CharacterEvent_001_NPC8_IF_001ID	0	Mieke	ミーケ	（それから……“ミーケ”の事業は、州の協力を受け\n　急速に拡大した）	Mieke	(With the help of the provincial government, my brand blew up.)	米珂	（自那之后……在州政府的协助下，\n　“米珂”的事业急速扩张。）	米珂	（後來……「米珂」的事業得到州政府的協助，\n　急速擴大了規模。）
+CharacterEvent_001_NPC8_IF_001ID	1	Mieke	ミーケ	（今では王国の全土で“ミーケ”の商品を\n　見ることができる）	Mieke	"(Not long after, ""Mieke"" accessories began to crop up in every corner of the kingdom.)"	米珂	（如今在全国各地都能看到“米珂”的商品。）	米珂	（現在整座王國都能看見「米珂」的商品。）
+CharacterEvent_001_NPC8_IF_001ID	2	Mieke	ミーケ	（もちろん、ここ、王都でも）	Mieke	(And the capital was no exception.)	米珂	（当然， 在这里——王都，也不例外。）	米珂	（當然，連王都這裡也是。）
+CharacterEvent_001_NPC8_IF_001ID	3	Mieke	ミーケ	わあ……本当に“ミーケ”の店の支店が王都にある	Mieke	I can't believe it... I have my very own shop in the capital now!	米珂	哇……“米珂”的分店真的开到王都来了。	米珂	哇……王都真的有「米珂」的分店。
+CharacterEvent_001_NPC8_IF_001ID	4		王都市民A	ふう、たくさん買っちゃった！	Capital Dweller A	Phew, I practically bought out the whole store!	王都市民A	我买了好多东西！	王都市民A	呼，買了好多喔！
+CharacterEvent_001_NPC8_IF_001ID	5		王都市民B	高いのによくそんなに買ったね	Capital Dweller B	You sure splurged. And that brand isn't cheap...	王都市民B	不是挺贵的吗，亏你能买那么多。	王都市民B	價格這麼貴，真虧妳能買這麼多。
+CharacterEvent_001_NPC8_IF_001ID	6		王都市民A	だって、みんな持ってるし。\nそれに、“ミーケ”の商品なら間違いないじゃない？	Capital Dweller A	Who cares? This is Mieke we're talking about! Everyone's wearing her!	王都市民A	因为大家都买了啊。\n而且“米珂”的商品买了准没错，不是吗？	王都市民A	因為大家都有啊。\n而且「米珂」的商品肯定不會出錯吧？
+CharacterEvent_001_NPC8_IF_001ID	7		王都市民B	ふふ、そうね	Capital Dweller B	Hehe, that's true.	王都市民B	呵呵，是呀。	王都市民B	呵呵，說得也是。
+CharacterEvent_001_NPC8_IF_001ID	8	Mieke	ミーケ	ねえねえ。ちょっと聞いてもいい？	Mieke	Hey there! Mind if I ask you something?	米珂	不好意思，可以打扰一下吗？	米珂	可以問妳們一件事嗎？
+CharacterEvent_001_NPC8_IF_001ID	9		王都市民A	あら。どうしたの？	Capital Dweller A	Oh... What is it?	王都市民A	哎呀，怎么了？	王都市民A	哎呀，怎麼了嗎？
+CharacterEvent_001_NPC8_IF_001ID	10	Mieke	ミーケ	この店、よく利用するの？\nよく名前を聞くけど、値段を見るとしり込みしちゃって	Mieke	Do you shop here a lot? I've heard the brand name, but the prices always scare me off.	米珂	你们常来这家店吗？虽然经常听到这家店的名字，\n但价格实在是太贵了，我有点下不去手……	米珂	妳們很常光顧這家店嗎？雖然名字很有名，\n但看到價錢實在有點下不了手。
+CharacterEvent_001_NPC8_IF_001ID	11	Mieke	ミーケ	実際に買ってる人の話を聞きたいなって	Mieke	I just wanted to hear what someone who actually knows the products thinks of them.	米珂	所以我想问问买了的人的感想。	米珂	所以想聽聽看實際買過的人的意見。
+CharacterEvent_001_NPC8_IF_001ID	12		王都市民A	高いだけあって質もいいしおしゃれだよ！\nさすが“ミーケ”作って感じ。あなたも買いなよー	Capital Dweller A	Mieke may be pricey, but it's worth it. It's chic, and her quality can't be beat! Why don't you buy something and see for yourself?	王都市民A	虽然是有点贵，但这里的东西质量好又时尚！\n不愧是“米珂”做的。你也买来试试吧。	王都市民A	雖然貴了點，但品質很好又時髦！\n真的不愧是出自「米珂」之手，妳可以儘管買喔～
+CharacterEvent_001_NPC8_IF_001ID	13	Mieke	ミーケ	やっぱりそうなんだ！　ありがと！\n買ってみるよ！	Mieke	Thanks, I will!	米珂	果然是这样吗！谢谢你！\n我会买来试试看的！	米珂	果然是這樣啊！謝謝！那我就買買看吧！
+CharacterEvent_001_NPC8_IF_001ID	14	Mieke	ミーケ	……それ、ミーケは仕上げだけで、\n後は助手たちが作ったやつなんだけどね	Mieke	"I didn't want to burst their bubble, but that wasn't ""Mieke"" quality. My assistants made most of it..."	米珂	……那个商品米珂只做了收尾工作，\n其余都是助手完成的。	米珂	……米珂只負責那些商品最後的工程，\n剩下全是助手做的。
+CharacterEvent_001_NPC8_IF_001ID	15	Mieke	ミーケ	それにしても、最後まで気付かれなかったなあ。\nみんな、ミーケが誰かなんて……どうでもいいんだ	Mieke	But people never seem to know the difference. And they couldn't care less. Nobody even recognizes me anymore.	米珂	但她却始终都没有发现。\n大家……根本就不在乎米珂到底是谁。	米珂	而且他們到最後都沒注意到呢。\n大家根本不在意……米珂究竟是誰。
+CharacterEvent_001_NPC8_IF_001ID	16	Mieke	ミーケ	（“ミーケ”の名前は今も広がり続けている。\n　“ミーケ”は確かに、ビーッグになった）	Mieke	(The Mieke brand just keeps getting bigger and bigger. At least my name is majorly big now...)	米珂	（“米珂”的名气还在不断变大。\n　“米珂”确实成了了不起的存在。）	米珂	（「米珂」的名字仍繼續廣為流傳。\n　「米珂」確實變偉～大了。）
+CharacterEvent_001_NPC8_IF_001ID	17	Mieke	ミーケ	（これがミーケがなりたかったものなのかな？\n　もう……よく分からないや）	Mieke	(I thought this was what I wanted, but somehow...I'm not so sure anymore.)	米珂	（但这就是米珂想要的吗？\n　米珂已经不明白了……）	米珂	（但這是米珂想成為的樣子嗎？\n　米珂……已經搞不清楚了。）
+CharacterEvent_001_NPC8_IF_002ID	0		客A	ねえ、見て見て！　このブローチかわいくない？\nやっぱり装飾品はミーケちゃんの店に限るわね！	Customer A	Look! Isn't this brooch the cutest? Mieke sure knows how to make adorable accessories!	客人A	你看！这个胸针是不是很可爱？\n要论装饰品，还是得来米珂的店！	顧客A	快看、快看！這個胸針很可愛吧？\n飾品果然要在米珂的店買呢！
+CharacterEvent_001_NPC8_IF_002ID	1		客B	当然でしょ。ミーケちゃんが作ったものなんだから\n間違いないわよ	Customer B	Of course they're adorable—Mieke made them! I wouldn't expect anything less.	客人B	当然了。这些都是米珂做的，买了准没错。	顧客B	當然囉，畢竟是米珂的作品嘛。\n買了絕對不會出錯。
+CharacterEvent_001_NPC8_IF_002ID	2		客C	でも、なんかミーケちゃんに元気がないのよね。\nビーッグの芸、覚えてきたのに	Customer C	But Mieke doesn't seem herself lately. She didn't even seem happy that I nailed her favorite pose!	客人C	不过，总觉得米珂好像没什么精神。\n亏我还特地记住了那个Big的段子呢。	顧客C	不過，總覺得米珂沒什麼精神呢。\n明明都學會偉～大的段子了。
+CharacterEvent_001_NPC8_IF_002ID	3	Mieke	ミーケ	こーらー！　いつも言ってるでしょ！\nどうして仲良くできないの！	Mieke	Hey, you three, I said no fighting! Can't you all just get along?!	米珂	你们几个！说了多少遍了！\n为什么不能好好相处呢！	米珂	妳們幾個！米珂不是經常說了嗎！？\n為什麼還是不能好好相處呢！
+CharacterEvent_001_NPC8_IF_002ID	4		客A	なんか、ぼーっと窓の外を見ていることが\n増えたのよね、ミーケちゃん	Customer A	What? Mieke, are you all right? You've been staring out that window a lot lately.	客人A	感觉你盯着窗外发呆的时间变长了呢，米珂。	顧客A	怎麼感覺米珂妳好像越來越常盯著窗外發呆了。
+CharacterEvent_001_NPC8_IF_002ID	5	Mieke	ミーケ	そうなの！？	Mieke	Huh? I have?!	米珂	有吗？！	米珂	米珂有嗎！？
+CharacterEvent_001_NPC8_IF_002ID	6		客B	だって、いつもみんなで買い物した後、\n一緒にカフェでお茶もしてるし……	Customer B	Whenever we finish shopping, we stop by the cafe for tea.	客人B	因为平时大家买完东西后，\n都会一起去咖啡厅喝茶……	顧客B	因為大家總是會在買完東西後\n一起去咖啡廳喝茶……
+CharacterEvent_001_NPC8_IF_002ID	7		客C	ええ。三人で遊びに行ったりもするし	Customer C	Yeah, the three of us are always hanging out together.	客人C	嗯，还会三个人一起去旅游。	顧客C	嗯，我們三人還會一起出去玩。
+CharacterEvent_001_NPC8_IF_002ID	8	Mieke	ミーケ	（この人たち、友達だったんだ……）	Mieke	(Wait, they're all actually friends...?)	米珂	（原来她们是朋友啊……）	米珂	（這些人原來是朋友啊……）
+CharacterEvent_001_NPC8_IF_002ID	9		客A	みんなミーケちゃんのファンだもんねー	Customer A	Yeah, our love for your brand brought us together!	客人A	因为大家都是米珂的粉丝啊。	顧客A	大家都是米珂的粉絲呀──
+CharacterEvent_001_NPC8_IF_002ID	10		客B	ねー	Customer B	It sure did!	客人B	对呀。	顧客B	對吧～
+CharacterEvent_001_NPC8_IF_002ID	11		客C	だからこそ熱くなって言い合いになっちゃんだけど	Customer C	I'll admit we tend to get a little too heated when it comes to shopping, though...	客人C	不过也是因为这样，才会激动到吵起来啦。	顧客C	所以才會越聊越激動，結果吵了起來。
+CharacterEvent_001_NPC8_IF_002ID	12	Mieke	ミーケ	ほどほどにしてね？\n他のお客さん、怖がるから	Mieke	Try to take it easy, 'kay? I don't want you to scare the other customers.	米珂	你们要适可而止哦，\n会吓到别的客人的。	米珂	妳們要適可而止喔？不然會嚇到其他客人的。
+CharacterEvent_001_NPC8_IF_002ID	13	Mieke	ミーケ	（ミーケには、いつもの日常が戻ってきた）	Mieke	(Before long, things were back to normal again.)	米珂	（米珂的生活终于恢复了平静。）	米珂	（米珂恢復了一如既往的日常生活。）
+CharacterEvent_001_NPC8_IF_002ID	14	Mieke	ミーケ	（ミーケのお店はそれなりに繁盛していて、\n　とーちゃんもちょっとずつ名が知られていって）	Mieke	(Little by little, my shop began to flourish. Just like Papa's comedy career.)	米珂	（米珂的店生意兴隆，\n　爸爸也一点一点积攒了名气。）	米珂	（米珂的店還算是生意興隆，\n　爸爸也漸漸有了名氣。）
+CharacterEvent_001_NPC8_IF_002ID	15	Mieke	ミーケ	（ビーッグ！　じゃないかもだけど、\n　それなりに充実した日々）	Mieke	(I might not be as majorly big as I hoped I'd be, but my work is keeping me busy.)	米珂	（虽然也许算不上干成了大事，\n　但每天都过得很充实。）	米珂	（也許米珂不是什麼厲害的人物，\n　但日子過得還挺充實的。）
+CharacterEvent_001_NPC8_IF_002ID	16	Mieke	ミーケ	（こういうのも、いいよね。\n　いいと思うんだ……けど）	Mieke	(And maybe that's enough. But still, I hear that voice whispering in the back of my mind...)	米珂	（这样的生活也不错。\n　米珂是这么想的。但是……）	米珂	（這樣也不錯吧。雖然……米珂是覺得不錯。）
+CharacterEvent_001_NPC8_IF_002ID	17	Mieke	ミーケ	（もし、あの時あの人について行ったら、\n　どんな人生だったんだろう？）	Mieke	(Maybe I should've taken a chance and joined Queen Lara. If I did, what would my life be like now?)	米珂	（如果那时候米珂跟那个人走了的话，\n　又会过上怎样的人生呢？）	米珂	（但如果那時跟著那個人走，\n　米珂會有怎樣的人生呢？）
+CharacterEvent_001_NPC8_IF_002ID	18	Mieke	ミーケ	……はあ	Mieke	*Sigh*...	米珂	唉……	米珂	……唉。
+CharacterEvent_001_NPC8_IF_002ID	19	Mieke	ミーケ	（ずっと、そんな想いが頭から離れないんだ）	Mieke	(I just can't get those thoughts out of my head.)	米珂	（这个想法一直在米珂的脑海里挥之不去。）	米珂	（這個想法一直在腦海中揮之不去。）

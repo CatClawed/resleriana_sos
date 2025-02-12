@@ -63,7 +63,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 130513	乙女たちのチョコレートミックスEX１	Valentine's Chocolate Mix EX1	少女们的混合巧克力EX1	少女們的綜合巧克力EX1				
 130514	乙女たちのチョコレートミックスEX２	Valentine's Chocolate Mix EX2	少女们的混合巧克力EX2	少女們的綜合巧克力EX2				
 130515	乙女たちのチョコレートミックスEX３	Valentine's Chocolate Mix EX3	少女们的混合巧克力EX3	少女們的綜合巧克力EX3				
-130516	乙女たちのチョコレートミックスEX４	Valentine's Chocolate Mix - EX4	少女们的混合巧克力EX4	少女們的綜合巧克力EX4				
+130516	乙女たちのチョコレートミックスEX４	Valentine's Chocolate Mix EX4	少女们的混合巧克力EX4	少女們的綜合巧克力EX4				
 140301	アーランドの錬金術士EX１	The Alchemist of Arland EX1	亚兰德之炼金术士EX1	亞蘭德之鍊金術士EX1				
 140302	アーランドの錬金術士EX２	The Alchemist of Arland EX2	亚兰德之炼金术士EX2	亞蘭德之鍊金術士EX2				
 140303	アーランドの錬金術士EX３	The Alchemist of Arland EX3	亚兰德之炼金术士EX3	亞蘭德之鍊金術士EX3				
@@ -840,36 +840,36 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 6704002	ボスチャレンジ コズミックシェル２	Boss Challenge: Cosmic Shell - 2	头目挑战 宇宙壳2	頭目挑戰 宇宙殼2				
 6704003	ボスチャレンジ コズミックシェル３	Boss Challenge: Cosmic Shell - 3	头目挑战 宇宙壳3	頭目挑戰 宇宙殼3				
 6705004	ボスチャレンジ コズミックシェルEX１	Boss Challenge: Cosmic Shell - EX1	头目挑战 宇宙壳EX1	頭目挑戰 宇宙殼EX1				
-6804001	渇きの中で咲く花たち１							
-6804002	渇きの中で咲く花たち２							
-6804003	渇きの中で咲く花たち３							
-6804004	渇きの中で咲く花たち４							
-6804005	渇きの中で咲く花たち５							
-6805006	渇きの中で咲く花たちEX１							
-6805007	渇きの中で咲く花たちEX２							
-6805008	渇きの中で咲く花たちEX３							
-6904001	混沌と規律の邂逅１							
-6904002	混沌と規律の邂逅２							
-6904003	混沌と規律の邂逅３							
-6904004	混沌と規律の邂逅４							
-6904005	混沌と規律の邂逅５							
-6905006	混沌と規律の邂逅EX１							
-6905007	混沌と規律の邂逅EX２							
-6905008	混沌と規律の邂逅EX３							
-6905009	混沌と規律の邂逅CHARISMA１							
-7002001	調査地：ベルク州高地[危険度：Ⅰ]							
-7002002	調査地：ベルク州高地[危険度：Ⅱ]							
-7002003	調査地：ベルク州高地[危険度：Ⅲ]							
-7002004	調査地：ベルク州高地[危険度：Ⅳ]							
-7005001	ブラッドの実地調査EX１							
-7005002	ブラッドの実地調査EX２							
-7005003	ブラッドの実地調査EX３							
-7005004	ブラッドの実地調査CHARISMA１							
-7104001	ラムローストくんバトル１							
-7104002	ラムローストくんバトル２							
-7104003	ラムローストくんバトル３							
-7104004	ラムローストくんバトル４							
-7104005	ラムローストくんバトル５							
+6804001	渇きの中で咲く花たち１	Flowers That Bloom in a Drought - 1	渴望中绽放之花1	在渴望中綻放的群花1				
+6804002	渇きの中で咲く花たち２	Flowers That Bloom in a Drought - 2	渴望中绽放之花2	在渴望中綻放的群花2				
+6804003	渇きの中で咲く花たち３	Flowers That Bloom in a Drought - 3	渴望中绽放之花3	在渴望中綻放的群花3				
+6804004	渇きの中で咲く花たち４	Flowers That Bloom in a Drought - 4	渴望中绽放之花4	在渴望中綻放的群花4				
+6804005	渇きの中で咲く花たち５	Flowers That Bloom in a Drought - 5	渴望中绽放之花5	在渴望中綻放的群花5				
+6805006	渇きの中で咲く花たちEX１	Flowers That Bloom in a Drought - EX1	渴望中绽放之花EX1	在渴望中綻放的群花EX1				
+6805007	渇きの中で咲く花たちEX２	Flowers That Bloom in a Drought - EX2	渴望中绽放之花EX2	在渴望中綻放的群花EX2				
+6805008	渇きの中で咲く花たちEX３	Flowers That Bloom in a Drought - EX3	渴望中绽放之花EX3	在渴望中綻放的群花EX3				
+6904001	混沌と規律の邂逅１	Convergence of Chaos and Order - 1	混沌和规则的邂逅1	混沌與規律的邂逅1				
+6904002	混沌と規律の邂逅２	Convergence of Chaos and Order - 2	混沌和规则的邂逅2	混沌與規律的邂逅2				
+6904003	混沌と規律の邂逅３	Convergence of Chaos and Order - 3	混沌和规则的邂逅3	混沌與規律的邂逅3				
+6904004	混沌と規律の邂逅４	Convergence of Chaos and Order - 4	混沌和规则的邂逅4	混沌與規律的邂逅4				
+6904005	混沌と規律の邂逅５	Convergence of Chaos and Order - 5	混沌和规则的邂逅5	混沌與規律的邂逅5				
+6905006	混沌と規律の邂逅EX１	Convergence of Chaos and Order - EX1	混沌和规则的邂逅EX1	混沌與規律的邂逅EX1				
+6905007	混沌と規律の邂逅EX２	Convergence of Chaos and Order - EX2	混沌和规则的邂逅EX2	混沌與規律的邂逅EX2				
+6905008	混沌と規律の邂逅EX３	Convergence of Chaos and Order - EX3	混沌和规则的邂逅EX3	混沌與規律的邂逅EX3				
+6905009	混沌と規律の邂逅CHARISMA１	Convergence of Chaos and Order - CHARISMA1	混沌和规则的邂逅CHARISMA1	混沌與規律的邂逅CHARISMA1				
+7002001	調査地：ベルク州高地[危険度：Ⅰ]	Investigation Site: Berg Plateau [Risk 1]	调查地点：贝尔克州高地[危险度：I]	調查地點：貝魯克州高地[危險度：I]				
+7002002	調査地：ベルク州高地[危険度：Ⅱ]	Investigation Site: Berg Plateau [Risk 2]	调查地点：贝尔克州高地[危险度：II]	調查地點：貝魯克州高地[危險度：II]				
+7002003	調査地：ベルク州高地[危険度：Ⅲ]	Investigation Site: Berg Plateau [Risk 3]	调查地点：贝尔克州高地[危险度：III]	調查地點：貝魯克州高地[危險度：III]				
+7002004	調査地：ベルク州高地[危険度：Ⅳ]	Investigation Site: Berg Plateau [Risk 4]	调查地点：贝尔克州高地[危险度：IV]	調查地點：貝魯克州高地[危險度：IV]				
+7005001	ブラッドの実地調査EX１	Brad's Field Investigation - EX1	布莱德的实地调查EX1	布萊德的實地調查EX1				
+7005002	ブラッドの実地調査EX２	Brad's Field Investigation - EX2	布莱德的实地调查EX2	布萊德的實地調查EX2				
+7005003	ブラッドの実地調査EX３	Brad's Field Investigation - EX3	布莱德的实地调查EX3	布萊德的實地調查EX3				
+7005004	ブラッドの実地調査CHARISMA１	Brad's Field Investigation - CHARISMA1	布莱德的实地调查CHARISMA1	布萊德的實地調查CHARISMA 1				
+7104001	ラムローストくんバトル１	Ram Roast Battle - 1	烤羊肉之战1	烤羊肉戰鬥1				
+7104002	ラムローストくんバトル２	Ram Roast Battle - 2	烤羊肉之战2	烤羊肉戰鬥2				
+7104003	ラムローストくんバトル３	Ram Roast Battle - 3	烤羊肉之战3	烤羊肉戰鬥3				
+7104004	ラムローストくんバトル４	Ram Roast Battle - 4	烤羊肉之战4	烤羊肉戰鬥4				
+7104005	ラムローストくんバトル５	Ram Roast Battle - 5	烤羊肉之战5	烤羊肉戰鬥5				
 7201001	ディオーナの催し							
 7201002	夜明けの鍛錬							
 7201003	子猫の罪							
@@ -1820,9 +1820,9 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 101018010	古城へ向かって・２	To the Ancient Castle - 2	前往古堡·2	前往古城‧2				
 101018011	古城へ向かって・３	To the Ancient Castle - 3	前往古堡·3	前往古城‧3				
 101018012	古城攻略作戦	Conquer the Ancient Castle	古堡攻略计划	古城攻略作戰				
-101018013	旧アメルハウザー城	Old Amelhauser Castle	旧亚梅尔豪瑟城堡	舊阿默豪森城				
+101018013	旧アメルハウザー城	Old Amelhauser Castle	旧阿默豪森城堡	舊阿默豪森城				
 101018014	コンビネーションアイデア	Combined Ideas	组合灵感	組合妙計				
-101018015	旧アメルハウザー城	Old Amelhauser Castle	旧亚梅尔豪瑟城堡	舊阿默豪森城				
+101018015	旧アメルハウザー城	Old Amelhauser Castle	旧阿默豪森城堡	舊阿默豪森城				
 101018016	合流地点目前	Near the Meeting Point	汇合地点前	臨近會合地點				
 101018017	合流	Reunion	汇合	會合				
 101018018	晩餐会へご招待	Invitation to the Banquet	晚餐会的邀请	晚宴的邀請				
@@ -2011,93 +2011,93 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 101021025	フロッケの思い出	Flocke's Memories	芙洛可的回忆	芙洛可的回憶				
 101021026	家族を連れ戻すために	To Bring Family Home	为了找回家人	為了帶回家人				
 101021027	ララ・キングダムの民	The Kingdom of Lara's Citizens	拉拉王国的子民	拉拉王國的人民				
-101021028	家庭の味							
-101021029	家族を迎えに・１							
-101021030	問答無用！							
-101021031	激闘！　VSミーケ＆ディオーナ							
-101021032	かわいい臣下たち							
-101021033	家族を迎えに・４							
-101021034	避けられぬ戦い							
-101021035	黒に染まりし戦士							
-101021036	動揺							
-101021037	罠と待ち伏せ							
-101021038	激闘！VSアンチュ＆ワルター							
-101021039	好きにはさせない							
-101021040	錬金釜の行方							
-101021041	破壊の象徴							
-101021042	国のために、民のために							
-101021043	ワルターという男							
-101021044	新たな協力者と懸念							
-101021045	これまでとこれから							
-101022001	今やるべきこと							
-101022002	錬金術士たち							
-101022003	平和的運用に向けて・１							
-101022004	平和的運用に向けて・２							
-101022005	純粋と無法は紙一重							
-101022006	目撃情報							
-101022007	全州踏破まであと一歩							
-101022008	ヴィアベル州へ向かおう							
-101022009	同行依頼							
-101022010	ぬいぐるみの「彼ら」							
-101022011	ヴィアベル州への道のり・１							
-101022012	ヴィアベル州への道のり・２							
-101022013	ヴィアベル州への道のり・３							
-101022014	百折不撓							
-101022015	群島の魔物たち・１							
-101022016	群島のヌシ							
-101022017	聞き込み調査							
-101022018	救いの手							
-101022019	演技練習							
-101022020	困ったときは							
-101022021	練習のジャマ！							
-101022022	大事な友達							
-101022023	演劇本番							
-101022024	ヴァレリアを追って・１							
-101022025	ヴァレリアを追って・２							
-101022026	救うために							
-101022027	目を覚まして！							
-101022028	次こそは							
-101022029	薬品の素材集め							
-101022030	お互い様							
-101022031	弟子を想う気持ち							
-101022032	食事はみんなで							
-101022033	ヴァレリアを探そう・１							
-101022034	愛を込めて							
-101022035	家族ゲンカ							
-101022036	ごちそうさま							
-101022037	告白							
-101022038	ヴァレリアを創った錬金術士							
-101022039	仲間とともに							
-101022040	復帰戦							
-101022041	おかえりとただいま							
-101022042	人外の絆							
-101022043	ヴァレリアの記憶							
-101022044	解放の足音							
-101023001	破壊された遺跡							
-101023002	来訪者							
-101023003	迎え							
-101023004	王都襲撃							
-101023005	再びの要求							
-101023006	住民たちの不安							
-101023007	厄介な力							
-101023008	荒ぶる魔物たち・１							
-101023009	荒ぶる魔物たち・２							
-101023010	荒ぶる魔物たち・３							
-101023011	怯える魔物たち							
-101023012	諦めない							
-101023013	束の間の休息							
-101023014	一家団らん							
-101023015	気分転換							
-101023016	運命なんて分からない							
-101023017	挑戦状							
-101023018	クリセルダの覚悟							
-101023019	決戦の準備・１							
-101023020	決戦の準備・２							
-101023021	偵察報告							
-101023022	ふさわしい罰							
-101023023	雪深き山道・１							
-101023024	雪山の最奥							
-101023025	同じ空の下							
+101021028	家庭の味	A Taste of Home	家的味道	家常味				
+101021029	家族を迎えに・１	Reuniting the Family - 1	迎接家人·1	迎接家人‧1				
+101021030	問答無用！	No Point Arguing!	废话少说！	不必多說！				
+101021031	激闘！　VSミーケ＆ディオーナ	Showdown vs. Mieke & Diona!	激斗！VS米珂&蒂欧娜	激戰！VS米珂＆蒂歐娜				
+101021032	かわいい臣下たち	Adorable Vassals	可爱的臣子们	可愛的臣子們				
+101021033	家族を迎えに・４	Reuniting the Family - 4	迎接家人·4	迎接家人‧4				
+101021034	避けられぬ戦い	Inevitable Battle	无法避免的战斗	無可避免的戰鬥				
+101021035	黒に染まりし戦士	The Warrior Tainted by Darkness	身染黑色的战士	染黑的戰士				
+101021036	動揺	Unrest	动摇	心神不寧				
+101021037	罠と待ち伏せ	Traps and Ambushes	陷阱和埋伏	陷阱與埋伏				
+101021038	激闘！VSアンチュ＆ワルター	Showdown vs. Antje & Walther!	激斗！VS安洁＆瓦尔特	激戰！VS安潔＆瓦爾特				
+101021039	好きにはさせない	Not on My Watch	休想得逞	別想得逞				
+101021040	錬金釜の行方	Finding the Alchemy Cauldron	炼金釜的下落	鍊金釜的去向				
+101021041	破壊の象徴	Symbol of Destruction	破坏的象征	破壞的象徵				
+101021042	国のために、民のために	For the Kingdom, for the People	为国为民	為了國家，為了人民				
+101021043	ワルターという男	A Man Called Walther	瓦尔特这个男人	名為瓦爾特的男人				
+101021044	新たな協力者と懸念	New Allies and Concerns	新的帮手和担忧	新的合作者與擔憂				
+101021045	これまでとこれから	The Past and the Future	过去与未来	過往與今後				
+101022001	今やるべきこと	What Needs to Be Done	现在该做的事	現在該做的事				
+101022002	錬金術士たち	The Alchemists	炼金术士们	鍊金術士們				
+101022003	平和的運用に向けて・１	Aiming for Peaceful Use - 1	寻找和平运用的方法·1	為和平運用做準備‧1				
+101022004	平和的運用に向けて・２	Aiming for Peaceful Use - 2	寻找和平运用的方法·2	為和平運用做準備‧2				
+101022005	純粋と無法は紙一重	Innocence on the Edge of Lawlessness	纯粹和非法只有一纸之隔	單純與目無法紀僅一線之隔				
+101022006	目撃情報	Witness Reports	目击情报	目擊情報				
+101022007	全州踏破まであと一歩	Almost Across All Provinces	距离走遍所有州只差一步	離踏遍全州只差一步				
+101022008	ヴィアベル州へ向かおう	To Wirbel Province	出发前往薇亚贝尔州	前往維亞貝爾州吧				
+101022009	同行依頼	A Call to Travel Together	同行委托	同行委託				
+101022010	ぬいぐるみの「彼ら」	The Stuffed Animals	娃娃朋友	「那群」娃娃				
+101022011	ヴィアベル州への道のり・１	The Road to Wirbel - 1	前往薇亚贝尔州的旅途·1	前往維亞貝爾州的路途‧1				
+101022012	ヴィアベル州への道のり・２	The Road to Wirbel - 2	前往薇亚贝尔州的旅途·2	前往維亞貝爾州的路途‧2				
+101022013	ヴィアベル州への道のり・３	The Road to Wirbel - 3	前往薇亚贝尔州的旅途·3	前往維亞貝爾州的路途‧3				
+101022014	百折不撓	Unyielding Spirit	百折不挠	百折不撓				
+101022015	群島の魔物たち・１	Archipelago Monsters - 1	群岛的魔物们·1	群島的魔物群‧1				
+101022016	群島のヌシ	The Master of the Archipelago	群岛之主	群島的掌權者				
+101022017	聞き込み調査	Asking Around	走访调查	打聽調查				
+101022018	救いの手	A Helping Hand	救赎之手	援手				
+101022019	演技練習	Practice Makes Perfect	表演练习	演戲練習				
+101022020	困ったときは	In Times of Need	遇到困难时	遇到困難時				
+101022021	練習のジャマ！	Rehearsal Nuisance!	妨碍练习！	練習的阻礙！				
+101022022	大事な友達	Cherished Friends	重要的朋友	重要的朋友				
+101022023	演劇本番	Showtime	正式开演	正式演出				
+101022024	ヴァレリアを追って・１	Chasing Valeria - 1	追寻瓦莱莉娅·1	追尋瓦萊莉婭‧1				
+101022025	ヴァレリアを追って・２	Chasing Valeria - 2	追寻瓦莱莉娅·2	追尋瓦萊莉婭‧2				
+101022026	救うために	To Save	为了拯救	為了拯救				
+101022027	目を覚まして！	Wake Up!	醒过来吧！	清醒過來！				
+101022028	次こそは	Next Time, for Sure	下次一定	下次一定要				
+101022029	薬品の素材集め	Collecting Potion Ingredients	收集药品素材	收集藥品的素材				
+101022030	お互い様	Helping Each Other	彼此彼此	彼此彼此				
+101022031	弟子を想う気持ち	Caring for an Apprentice	关心徒弟的心情	為徒弟著想的心意				
+101022032	食事はみんなで	A Meal with Everyone	大家一起吃饭	吃飯就要大家一起				
+101022033	ヴァレリアを探そう・１	The Search for Valeria - 1	寻找瓦莱莉娅吧·1	尋找瓦萊莉婭‧1				
+101022034	愛を込めて	With Love	满怀爱意	飽含心意				
+101022035	家族ゲンカ	Family Feud	家人之间的争吵	家人吵架				
+101022036	ごちそうさま	Full Appreciation	多谢款待	謝謝款待				
+101022037	告白	Confession	告白	告白				
+101022038	ヴァレリアを創った錬金術士	The Alchemist Who Created Valeria	创造瓦莱莉娅的炼金术士	創造出瓦萊莉婭的鍊金術士				
+101022039	仲間とともに	Together with Friends	和同伴们一起	與夥伴一起				
+101022040	復帰戦	Comeback Match	回归战	回歸戰				
+101022041	おかえりとただいま	Welcome Home	迎接归来	歡迎回來與我回來了				
+101022042	人外の絆	Bonds Beyond Humanity	非人的牵绊	人類以外的情誼				
+101022043	ヴァレリアの記憶	Valeria's Memories	瓦莱莉娅的记忆	瓦萊莉婭的記憶				
+101022044	解放の足音	Footsteps of Liberation	解放的脚步声	解放的腳步聲				
+101023001	破壊された遺跡	Crumbling Ruins	被破坏的遗迹	被破壞的遺跡				
+101023002	来訪者	The Visitor	来访者	訪客				
+101023003	迎え	Interception	迎接	迎接				
+101023004	王都襲撃	Assault on the Capital	袭击王都	襲擊王都				
+101023005	再びの要求	Renewed Demands	第二次要求	再次要求				
+101023006	住民たちの不安	Concerned Citizens	居民们的不安	居民們的不安				
+101023007	厄介な力	A Troubling Power	棘手的力量	棘手的力量				
+101023008	荒ぶる魔物たち・１	Raging Monsters - 1	暴动的魔物们·1	暴動的魔物群‧1				
+101023009	荒ぶる魔物たち・２	Raging Monsters - 2	暴动的魔物们·2	暴動的魔物群‧2				
+101023010	荒ぶる魔物たち・３	Raging Monsters - 3	暴动的魔物们·3	暴動的魔物群‧3				
+101023011	怯える魔物たち	Terrified Monsters	恐慌的魔物们	膽怯的魔物群				
+101023012	諦めない	Never Give Up	永不放弃	不放棄				
+101023013	束の間の休息	A Moment to Relax	短暂的休憩	短暫的休息				
+101023014	一家団らん	Family Field Trip	阖家团圆	一家團聚				
+101023015	気分転換	A Change of Pace	转换心情	轉換心情				
+101023016	運命なんて分からない	Unpredictable Fates	捉摸不透的命运	我才不懂什麼命運				
+101023017	挑戦状	Invitation to Battle	挑战书	挑戰書				
+101023018	クリセルダの覚悟	Criselda's Resolve	克莉赛尔达的决心	克莉賽爾達的決心				
+101023019	決戦の準備・１	Final Battle Preparations - 1	决战的准备·1	決戰準備‧1				
+101023020	決戦の準備・２	Final Battle Preparations - 2	决战的准备·2	決戰準備‧2				
+101023021	偵察報告	Scout Report	侦察报告	偵察報告				
+101023022	ふさわしい罰	A Fitting Punishment	合适的惩罚	相應的懲罰				
+101023023	雪深き山道・１	Snowy Mountain Path - 1	厚雪覆盖的山路·1	深雪山道‧1				
+101023024	雪山の最奥	Deep Within the Snowy Mountain	雪山的最深处	雪山最深處				
+101023025	同じ空の下	Under the Same Sky	同一片天空下	同一片天空下				
 101023026	「閉ざさずの門」周辺							
 101023027	遺跡に群がる魔物たち・１							
 101023028	遺跡に群がる魔物たち・２							
@@ -2565,22 +2565,22 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 204118008	呆れと憤り【黄/緑】	Anger and Frustration [Yellow/Green]	哑然与愤怒【黄/绿】	愕然與憤慨【黃/綠】				
 204119001	極夜の魔物たち・３【黄】	Polar Night Monsters 3 [Yellow]	极夜的魔物们·3【黄】	極夜的魔物群‧3【黃】				
 204119002	極上の餌を作ろう！・２【青/紫】	Making Extra-Special Monster Food! 2 [Blue/Purple]	制作顶级饲料吧！·2【蓝/紫】	做出頂級飼料吧！‧2【藍/紫】				
-204119003	激闘！VSアンチュ＆ワルター【赤/緑】							
+204119003	激闘！VSアンチュ＆ワルター【赤/緑】	Showdown vs. Antje & Walther! [Red/Green]	激斗！VS安洁＆瓦尔特【红/绿】	激戰！VS安潔＆瓦爾特【紅/綠】				
 204119004	極夜の魔物たち・３【黄】	Polar Night Monsters - 3 [Yellow]	极夜的魔物们·3【黄】	極夜的魔物群‧3【黃】				
 204119005	極上の餌を作ろう！・２【青/紫】	Making Extra-Special Monster Food! - 2 [Blue/Purple]	制作顶级饲料吧！·2【蓝/紫】	做出頂級飼料吧！‧2【藍/紫】				
-204119006	激闘！VSアンチュ＆ワルター【赤/緑】							
-204120001	ヴィアベル州への道のり・３【緑】							
-204120002	群島のヌシ【赤】							
-204120003	家族ゲンカ【紫】							
-204120004	復帰戦【青/黄】							
-204120005	ヴィアベル州への道のり・３【緑】							
-204120006	群島のヌシ【赤】							
-204120007	家族ゲンカ【紫】							
-204120008	復帰戦【青/黄】							
-204121001	荒ぶる魔物たち・３【青】							
-204121002	雪山の最奥【紫】							
-204121003	荒ぶる魔物たち・３【青】							
-204121004	雪山の最奥【紫】							
+204119006	激闘！VSアンチュ＆ワルター【赤/緑】	Showdown vs. Antje & Walther! [Red/Green]	激斗！VS安洁＆瓦尔特【红/绿】	激戰！VS安潔＆瓦爾特【紅/綠】				
+204120001	ヴィアベル州への道のり・３【緑】	The Road to Wirbel - 3 [Green]	前往薇亚贝尔州的旅途·3【绿】	前往維亞貝爾州的路途‧3【綠】				
+204120002	群島のヌシ【赤】	The Master of the Archipelago [Red]	群岛之主【红】	群島的掌權者【紅】				
+204120003	家族ゲンカ【紫】	Family Feud [Purple]	家人之间的争吵【紫】	家人吵架【紫】				
+204120004	復帰戦【青/黄】	Comeback Match [Blue/Yellow]	回归战【蓝/黄】	回歸戰【藍/黃】				
+204120005	ヴィアベル州への道のり・３【緑】	The Road to Wirbel - 3 [Green]	前往薇亚贝尔州的旅途·3【绿】	前往維亞貝爾州的路途‧3【綠】				
+204120006	群島のヌシ【赤】	The Master of the Archipelago [Red]	群岛之主【红】	群島的掌權者【紅】				
+204120007	家族ゲンカ【紫】	Family Feud [Purple]	家人之间的争吵【紫】	家人吵架【紫】				
+204120008	復帰戦【青/黄】	Comeback Match [Blue/Yellow]	回归战【蓝/黄】	回歸戰【藍/黃】				
+204121001	荒ぶる魔物たち・３【青】	Raging Monsters - 3 [Blue]	暴动的魔物们·3【蓝】	暴動的魔物群‧3【藍】				
+204121002	雪山の最奥【紫】	Deep Within the Snowy Mountain [Purple]	雪山的最深处【紫】	雪山最深處【紫】				
+204121003	荒ぶる魔物たち・３【青】	Raging Monsters - 3 [Blue]	暴动的魔物们·3【蓝】	暴動的魔物群‧3【藍】				
+204121004	雪山の最奥【紫】	Deep Within the Snowy Mountain [Purple]	雪山的最深处【紫】	雪山最深處【紫】				
 204121005	極夜の解放者【黄/緑】							
 204121006	極夜の解放者【黄/緑】							
 204122001	治療のための素材集め【赤】							
@@ -2901,11 +2901,11 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 301001038	38階	38F	38F	38F				
 301001039	39階	39F	39F	39F				
 301001040	40階	40F	40F	40F				
-301001041	41階							
-301001042	42階							
-301001043	43階							
-301001044	44階							
-301001045	45階							
+301001041	41階	41F	41F	41F				
+301001042	42階	42F	42F	42F				
+301001043	43階	43F	43F	43F				
+301001044	44階	44F	44F	44F				
+301001045	45階	45F	45F	45F				
 302001001	1階	1F	1F	1F				
 302001002	2階	2F	2F	2F				
 302001003	3階	3F	3F	3F				

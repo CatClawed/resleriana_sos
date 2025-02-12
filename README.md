@@ -4,7 +4,7 @@ Masterdata is not an exhaustive search for every string in those files, I know I
 
 I attempted to sort and group the events into fewer files. I do not promise the order is perfect, but I left the source file in one of the columns so you'd never be lost.
 
-TalkEvent is JP only from 20 onward. This will likely change before global EOS.
+TalkEvent is JP only from 22 onward.
 
 | Event  | SeasonalTalkEvent Range |
 | ------------- | ------------- |

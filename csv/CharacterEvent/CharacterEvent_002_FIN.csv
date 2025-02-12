@@ -1,206 +1,206 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-CharacterEvent_002_FIN_001ID	0	Magda	マクダ	……で？　その錬金爵サマがここになんの用だ？						
-CharacterEvent_002_FIN_001ID	1	Brad	ブラッド	武器を収めろ。失礼だと思わないのか						
-CharacterEvent_002_FIN_001ID	2	Magda	マクダ	いちいち説教しやがって。調子がくるうな。\n話がすすまねーだろ						
-CharacterEvent_002_FIN_001ID	3	Brad	ブラッド	話し合いを長引かせたくはないだろう？\nじきに騒ぎを聞きつけて他の騎士もやってくるはずだ						
-CharacterEvent_002_FIN_001ID	4	Magda	マクダ	ハッ。騎士でどうにかなるとでも？　喧嘩屋を\n倒したけりゃ、白夜の騎士でも連れてくるんだな						
-CharacterEvent_002_FIN_001ID	5	Brad	ブラッド	喧嘩屋……マクダ……。\n月影の会の資料にあった、マクダか						
-CharacterEvent_002_FIN_001ID	6	Magda	マクダ	知ってるなら、話が早いぜ。こっちは\nヴァレリアやハイディって奴を探してるんだが						
-CharacterEvent_002_FIN_001ID	7	Brad	ブラッド	ほう						
-CharacterEvent_002_FIN_001ID	8	Magda	マクダ	フロッケやランツェのおっさんまで消えてやがるし						
-CharacterEvent_002_FIN_001ID	9	Brad	ブラッド	だいぶ疲れているようだな、マクダ。何があった						
-CharacterEvent_002_FIN_001ID	10	Magda	マクダ	おう、なら聞けや。マクダ様がここにいる理由をな						
-CharacterEvent_002_FIN_001ID	11	Brad	ブラッド	（彼女はここに来るまでの経緯を語った。\n　オリバーの依頼を受けてシュネール州へ行ったこと）						
-CharacterEvent_002_FIN_001ID	12	Brad	ブラッド	（帰ってきたら月影の会が無くなっていて、\n　ヴァレリアたちもいなくなっていたこと）						
-CharacterEvent_002_FIN_001ID	13	Brad	ブラッド	（ヴァレリアたちが帰ってくることを願い、\n　この船の掃除をしていたこと）						
-CharacterEvent_002_FIN_001ID	14	Brad	ブラッド	（彼女は嘘をついていないだろう。\n　であれば、我々の目的は一致している）						
-CharacterEvent_002_FIN_001ID	15	Brad	ブラッド	（着地点は見えた。\n　そろそろ終わらせることにしよう）						
-CharacterEvent_002_FIN_001ID	16	Brad	ブラッド	事情は分かった。私としても今、ヴァレリアの身辺を\n調査しているのだ						
-CharacterEvent_002_FIN_001ID	17	Brad	ブラッド	そこで提案だ。お前、私の護衛を行い調査に協力しろ。\nいってみれば、騎士のかわりだ						
-CharacterEvent_002_FIN_001ID	18	Magda	マクダ	なっ！？　なんでお前の護衛なんかを……！						
-CharacterEvent_002_FIN_001ID	19	Brad	ブラッド	それで騎士を攻撃した件は、手打ちにする。\nいいか、お前は知らないようだが……						
-CharacterEvent_002_FIN_001ID	20	Brad	ブラッド	我がカーン家はこの王国で代々内政を支えている重鎮。\nお前は騎士に暴行した上、カーン家にたてついたのだ						
-CharacterEvent_002_FIN_001ID	21	Brad	ブラッド	国に逆らうと面倒だぞ。\nお前は、そういうことが分かるだろう？						
-CharacterEvent_002_FIN_001ID	22	Magda	マクダ	……ちいっ、脅しかよ						
-CharacterEvent_002_FIN_001ID	23	Brad	ブラッド	こうでも言わないと\nお前は私の言うことを聞かないだろう						
-CharacterEvent_002_FIN_001ID	24	Magda	マクダ	いい気になるなよ！？　マクダ様はなぁ……						
-CharacterEvent_002_FIN_001ID	25	Brad	ブラッド	マクダ、私は騎士を瞬時に気絶させた、お前の腕に\n敬意を表している						
-CharacterEvent_002_FIN_001ID	26	Magda	マクダ	は、はあ？						
-CharacterEvent_002_FIN_001ID	27	Brad	ブラッド	それほどの人間が、暇を持て余しているのは\nもったいない。腹立たしささえ、覚える						
-CharacterEvent_002_FIN_001ID	28	Magda	マクダ	お、おう						
-CharacterEvent_002_FIN_001ID	29	Brad	ブラッド	それもあって、私の護衛に誘っている						
-CharacterEvent_002_FIN_001ID	30	Magda	マクダ	おだてて釣ろうっていうのか？						
-CharacterEvent_002_FIN_001ID	31	Brad	ブラッド	無駄なことはしない主義だ。\nすべて本心だが						
-CharacterEvent_002_FIN_001ID	32	Magda	マクダ	……そうかよ。分かった分かった。\n護衛、引き受けてやる						
-CharacterEvent_002_FIN_001ID	33	Magda	マクダ	ったくなんなんだこいつ、クソッ、妙なことになったな						
-CharacterEvent_002_FIN_001ID	34	Brad	ブラッド	その言葉選びは、やめた方がいい						
-CharacterEvent_002_FIN_001ID	35	Magda	マクダ	うるせー！						
-CharacterEvent_002_FIN_002ID	0	Magda	マクダ	（翌日。俺たちはフリーゲンに向かうことになった。\n　ヴァレリアが住居を移した町だという）						
-CharacterEvent_002_FIN_002ID	1	Magda	マクダ	（出発の時間まで、俺はブラッドについて調べた。\n　……俺はとんでもない奴にケンカを売ってたらしい）						
-CharacterEvent_002_FIN_002ID	2	Magda	マクダ	お前、本当に偉いんだな。「王国の未来を握るもの」\nなんて言われてるんだって？						
-CharacterEvent_002_FIN_002ID	3	Magda	マクダ	学生の頃の試験も常に一位だったとか。\n家柄だけじゃなくて頭もいいじゃねーか						
-CharacterEvent_002_FIN_002ID	4	Magda	マクダ	それがなんだって、\n自分の足で身元調査なんかしてんだ？						
-CharacterEvent_002_FIN_002ID	5	Brad	ブラッド	物事を正しく判断するにはすべて自分の目で見ておく\n必要がある。それだけのことだ						
-CharacterEvent_002_FIN_002ID	6	Brad	ブラッド	こと錬金術においては特にな。\nそれだけ、この国で大きな存在になっている						
-CharacterEvent_002_FIN_002ID	7	Magda	マクダ	ほーん、なんだか綺麗事すぎるなぁ						
-CharacterEvent_002_FIN_002ID	8		女性	きゃーっ！！！　誰かー！！						
-CharacterEvent_002_FIN_002ID	9	Brad	ブラッド	……！　悲鳴か！						
-CharacterEvent_002_FIN_002ID	10	Magda	マクダ	この先の湿地からだ！　喧嘩屋マクダ様の出番だな！						
-CharacterEvent_002_FIN_002ID	11	Magda	マクダ	はああああっ！！！						
-CharacterEvent_002_FIN_002ID	12	Magda	マクダ	ハッ！　どんなもんだ！　これが喧嘩屋の実力だ！						
-CharacterEvent_002_FIN_002ID	13		女性	あ……ありがとうございます……！						
-CharacterEvent_002_FIN_002ID	14	Magda	マクダ	おう、気を付けて帰りな						
-CharacterEvent_002_FIN_002ID	15	Brad	ブラッド	……前から思っていたのだが						
-CharacterEvent_002_FIN_002ID	16	Brad	ブラッド	気が強いのは個性として尊重するが、\nその粗雑な物言いはどうにかならないのか？						
-CharacterEvent_002_FIN_002ID	17	Brad	ブラッド	あの女性も少し怯えていたようだ。\n言葉遣いは直したほうがいいぞ						
-CharacterEvent_002_FIN_002ID	18	Magda	マクダ	あの湾岸地区で拳一本で生きてきたマクダ様が、\nそんな丁寧な言葉遣いできるかよ						
-CharacterEvent_002_FIN_002ID	19	Brad	ブラッド	そのせいで上客を逃す恐れもあるだろう。\nいいか、お前は磨けば光る人材だ						
-CharacterEvent_002_FIN_002ID	20	Brad	ブラッド	強く、綺麗好きで、身だしなみにも気を使っている。\nそれで品性を高めれば、より輝けるぞ						
-CharacterEvent_002_FIN_002ID	21	Magda	マクダ	きゅ、急にお前、なに言ってんだ！？						
-CharacterEvent_002_FIN_002ID	22	Brad	ブラッド	本心だが？						
-CharacterEvent_002_FIN_002ID	23	Magda	マクダ	お前の言葉は裏がありそうなんだよ、クソが！						
-CharacterEvent_002_FIN_002ID	24	Brad	ブラッド	その言葉選びが良くないと言っている						
-CharacterEvent_002_FIN_002ID	25	Magda	マクダ	ヴァレリアたち、ここに引っ越してたのかよ						
-CharacterEvent_002_FIN_002ID	26	Brad	ブラッド	この辺りの住民から、彼女について、またレスナに\nついても、徹底的に聞き取り調査を行う						
-CharacterEvent_002_FIN_002ID	27	Magda	マクダ	あのさ。マクダ様の言葉も考慮に入れてくれねーのか？\n俺も付き合い長いぜ。アイツと						
-CharacterEvent_002_FIN_002ID	28	Brad	ブラッド	……確かにそうだな。では、お前にとって\nヴァレリアとはどんな人物だった？						
-CharacterEvent_002_FIN_002ID	29	Magda	マクダ	間抜けな時もあるけど、絶対に悪人なんかじゃない						
-CharacterEvent_002_FIN_002ID	30	Magda	マクダ	マクダ様は学はないが、野生の勘は鋭いんだ。\n聞いておいて損はないぜ						
-CharacterEvent_002_FIN_002ID	31	Brad	ブラッド	一つの意見として聞いておこう						
-CharacterEvent_002_FIN_002ID	32	Magda	マクダ	ったく。堅物だな、お前は。\n色んな奴から文句を言われてそうだ						
-CharacterEvent_002_FIN_002ID	33	Magda	マクダ	“氷のブラッド”とかよぉ						
-CharacterEvent_002_FIN_002ID	34	Brad	ブラッド	そのような役割の人間も必要だろう						
-CharacterEvent_002_FIN_002ID	35	Magda	マクダ	覚悟の上ってわけか？　なるほどな						
-CharacterEvent_002_FIN_002ID	36	Magda	マクダ	それくらい弾けてるなら、むしろ尖ってて\nマクダ様は好きだ						
-CharacterEvent_002_FIN_002ID	37	Brad	ブラッド	……フッ。珍しい感性だな						
-CharacterEvent_002_FIN_002ID	38	Magda	マクダ	意外と気が合うかもなぁ。ちなみに音楽の好みは？						
-CharacterEvent_002_FIN_002ID	39	Brad	ブラッド	心穏やかになるものがいい						
-CharacterEvent_002_FIN_002ID	40	Magda	マクダ	堅物の印象そのまんまだな						
-CharacterEvent_002_FIN_002ID	41	Brad	ブラッド	雑談がすぎたな。時間が惜しい。\n調査を始めるぞ						
-CharacterEvent_002_FIN_002ID	42	Magda	マクダ	ほいよ了解！						
-CharacterEvent_002_FIN_002ID	43	Brad	ブラッド	民の救出、感謝する						
-CharacterEvent_002_FIN_002ID	44	Magda	マクダ	へへっ、大げさに言うなよ						
-CharacterEvent_002_FIN_003ID	0	Brad	ブラッド	（そうして……我々は方々で聞き取り調査を行った）						
-CharacterEvent_002_FIN_003ID	1	Brad	ブラッド	（結論から言うと、ヴァレリア、レスナ両名について\n　問題は特にみられなかった）						
-CharacterEvent_002_FIN_003ID	2	Brad	ブラッド	（ヴァレリアの過去はやはり明らかにならなかったが、\n　信頼できる人物と言うのが総意だ）						
-CharacterEvent_002_FIN_003ID	3	Brad	ブラッド	（であれば、私は皆の言葉を信じるべきだろう。\n　私は、オルペウス殿下に調査結果を報告した）						
-CharacterEvent_002_FIN_003ID	4	Brad	ブラッド	（……レスナたち一行の活動を支援し、\n　錬金術復興へ向けて本格的に動き出すべきだと）						
-CharacterEvent_002_FIN_003ID	5	Magda	マクダ	ふう、食った食った！						
-CharacterEvent_002_FIN_003ID	6	Brad	ブラッド	ご馳走様、と言え						
-CharacterEvent_002_FIN_003ID	7	Brad	ブラッド	しかし、急いでここに行くべきだと言うから\n何かと思えば、ハンバーガーをおごらされるとは						
-CharacterEvent_002_FIN_003ID	8	Magda	マクダ	でも、うまかっただろ？						
-CharacterEvent_002_FIN_003ID	9	Brad	ブラッド	ああ。驚いた。こういう所の食事も\n悪くないものだな						
-CharacterEvent_002_FIN_003ID	10	Magda	マクダ	一仕事終えたんだ。ご褒美も必要だろ？						
-CharacterEvent_002_FIN_003ID	11	Roman	ロマン	そのとおり！　特に、素晴らしい仕事をした後はね						
-CharacterEvent_002_FIN_003ID	12	Juna	ユナ	お疲れ様です、ブラッド殿						
-CharacterEvent_002_FIN_003ID	13	Brad	ブラッド	こんな所にも君が来るとは……いいのか？						
-CharacterEvent_002_FIN_003ID	14	Roman	ロマン	今は冒険者のロマンさ。\nここのハンバーガー、うまかっただろう？						
-CharacterEvent_002_FIN_003ID	15	Brad	ブラッド	……そうだな						
-CharacterEvent_002_FIN_003ID	16	Roman	ロマン	いろんな所で実際に見たり聞いたり、\n食べたりしないとこういうものは見つけられない						
-CharacterEvent_002_FIN_003ID	17	Roman	ロマン	私がやっているのは、君がやっていることと同じさ！						
-CharacterEvent_002_FIN_003ID	18	Brad	ブラッド	そういうことにしておいてやる						
-CharacterEvent_002_FIN_003ID	19	Roman	ロマン	では、私たちは失礼するよ。二人はごゆっくり						
-CharacterEvent_002_FIN_003ID	20	Magda	マクダ	……あいつ、王族だろ？						
-CharacterEvent_002_FIN_003ID	21	Brad	ブラッド	なぜそう思う？						
-CharacterEvent_002_FIN_003ID	22	Magda	マクダ	一緒に居た女、隙がまるでなかった。\nとんでもない強さだ						
-CharacterEvent_002_FIN_003ID	23	Magda	マクダ	白夜の騎士の中でも上位に入るだろ。\nそんな奴が守るとしたら、王族くらいだ						
-CharacterEvent_002_FIN_003ID	24	Magda	マクダ	俺の勘だと……リヒャルト・ランターナだな						
-CharacterEvent_002_FIN_003ID	25	Brad	ブラッド	見事な勘だ……と言いたいところだが						
-CharacterEvent_002_FIN_003ID	26	Brad	ブラッド	私について調べた時に、リヒャルトと私が学生時代\n同期だったということを知っていてカマをかけたな						
-CharacterEvent_002_FIN_003ID	27	Magda	マクダ	おっと。バレたか。\nなんか噂では仲悪いんだって？						
-CharacterEvent_002_FIN_003ID	28	Brad	ブラッド	……そういうわけではない						
-CharacterEvent_002_FIN_003ID	29	Brad	ブラッド	私とあいつは同年代で、貴族たちが通う学園では\n二年間学友として過ごした						
-CharacterEvent_002_FIN_003ID	30	Brad	ブラッド	あいつは何をするにも器用だった。\n勉学も、武術も……						
-CharacterEvent_002_FIN_003ID	31	Brad	ブラッド	学園で一年目の試験。あいつが一位で私が二位だった。\n私以上の人間に出会ったのは、それが初めてだった						
-CharacterEvent_002_FIN_003ID	32	Brad	ブラッド	初めてのライバルだった。必死に勉強をして、\n二年目からは私がまた一位に返り咲いた						
-CharacterEvent_002_FIN_003ID	33	Brad	ブラッド	そんな二人だ。私はいずれ自分とリヒャルト二人で、\n王国を導いていく存在になると思っていたんだ						
-CharacterEvent_002_FIN_003ID	34	Brad	ブラッド	しかしある日、リヒャルトは言った。\n自分は自由を愛している。王宮に縛り付けられたくない						
-CharacterEvent_002_FIN_003ID	35	Brad	ブラッド	王子としてあり得ない心得だと思った。\n私は彼を問い詰め……仲違いした						
-CharacterEvent_002_FIN_003ID	36	Brad	ブラッド	それ以来ソリが合わなくなったのだ						
-CharacterEvent_002_FIN_003ID	37	Brad	ブラッド	……だが、今でも同じ未来を見ていると\n私は思っている						
-CharacterEvent_002_FIN_003ID	38	Brad	ブラッド	少なくとも、オルペウス殿下を尊敬し、\n支えていこうとしている点については一緒のはずだ						
-CharacterEvent_002_FIN_003ID	39	Magda	マクダ	……なるほどな						
-CharacterEvent_002_FIN_003ID	40	Magda	マクダ	お前、よっぽどリヒャルトがお気に入りってわけだ						
-CharacterEvent_002_FIN_003ID	41	Brad	ブラッド	何？　お気に入りなどでは……						
-CharacterEvent_002_FIN_003ID	42	Magda	マクダ	照れるなよ。アイツについて語るお前、\n熱が入りすぎだぜ。すげぇ一気に喋ってたぞ						
-CharacterEvent_002_FIN_003ID	43	Brad	ブラッド	……						
-CharacterEvent_002_FIN_003ID	44	Brad	ブラッド	（そうではない。私はきっと、気に入らなかったのだ）						
-CharacterEvent_002_FIN_003ID	45	Brad	ブラッド	（私がアイツをライバル視しているのに、あいつに\n　とってはただの学友の一人にすぎなかったのが）						
-CharacterEvent_002_FIN_003ID	46	Brad	ブラッド	（あいつはもっと私を意識し、頼るべきなのだ……）						
-CharacterEvent_002_FIN_003ID	47	Magda	マクダ	……ハッ。何が“氷のブラッド”だ						
-CharacterEvent_002_FIN_003ID	48	Magda	マクダ	無味乾燥ないい子ちゃんかと思ってたけど、\nなかなかどうして。結構人間臭いところありそうじゃん						
-CharacterEvent_002_FIN_003ID	49	Brad	ブラッド	言っていろ						
-CharacterEvent_002_FIN_003ID	50	Magda	マクダ	堅物としては立場もあるだろうから、\n色々大変なんだろうけどよ						
-CharacterEvent_002_FIN_003ID	51	Magda	マクダ	あんまそういうの、ため込みすぎるなよ。\n話ならメシおごってくれるなら聞いてやるぜ						
-CharacterEvent_002_FIN_003ID	52	Brad	ブラッド	……						
-CharacterEvent_002_FIN_003ID	53	Brad	ブラッド	（まるで友人みたいな物言いだな。\n　同じ仕事を共にしたに過ぎない関係だろうに）						
-CharacterEvent_002_FIN_003ID	54	Brad	ブラッド	（……いや、どうなんだ。ここまで自分のことを\n　人に話したのは初めてかもしれない）						
-CharacterEvent_002_FIN_003ID	55	Brad	ブラッド	（彼女は粗雑で、暴力的で、品のない人物だが……\n　その強引さが私の本心を引き出したのか）						
-CharacterEvent_002_FIN_003ID	56	Brad	ブラッド	（私が“氷”なら、彼女は“炎”なのだろう）						
-CharacterEvent_002_FIN_003ID	57	Brad	ブラッド	（ヴァレリアのことを調べるという仕事は終わった。\n　であれば、私と彼女の契約は終了）						
-CharacterEvent_002_FIN_003ID	58	Brad	ブラッド	（行動を共にするのもこれまでだ。\n　ただの仕事仲間なのだから）						
-CharacterEvent_002_FIN_003ID	59	Brad	ブラッド	（……そうだろう？）						
-CharacterEvent_002_FIN_003ID	60		選択肢	彼女は仕事仲間だ						
-CharacterEvent_002_FIN_003ID	61	Brad	ブラッド	（……そう、利害関係が一致した仕事仲間にすぎない。\n　私が強引に彼女を従わせた）						
-CharacterEvent_002_FIN_003ID	62	Brad	ブラッド	（であれば、一刻も早く解放してやるべきだろう）						
-CharacterEvent_002_FIN_003ID	63	Brad	ブラッド	……それには及ばない。迷惑をかけたな						
-CharacterEvent_002_FIN_003ID	64	Magda	マクダ	迷惑？						
-CharacterEvent_002_FIN_003ID	65	Brad	ブラッド	そもそもと言えば、なかば脅す形で君を強引に\n従わせたところから我々の関係は始まったのだったな						
-CharacterEvent_002_FIN_003ID	66	Brad	ブラッド	申し訳なかった						
-CharacterEvent_002_FIN_003ID	67	Magda	マクダ	なんで謝んだよ						
-CharacterEvent_002_FIN_003ID	68	Brad	ブラッド	護衛の依頼料は後程送る。世話になった。\n君はもう自由だ						
-CharacterEvent_002_FIN_003ID	69	Brad	ブラッド	ヴァレリアについて何か分かったら必ず連絡する						
-CharacterEvent_002_FIN_003ID	70	Magda	マクダ	……そうかよ。分かった						
-CharacterEvent_002_FIN_003ID	71	Magda	マクダ	こちらも世話になった。ヴァレリアについて\n色々教えてくれてありがとな						
-CharacterEvent_002_FIN_003ID	72	Magda	マクダ	それじゃ……						
-CharacterEvent_002_FIN_003ID	73	Magda	マクダ	あばよ、堅物						
-CharacterEvent_002_FIN_003ID	74		選択肢	彼女は友人だ						
-CharacterEvent_002_FIN_003ID	75	Brad	ブラッド	（……嘘は良くないな、ブラッド。\n　単なる仕事仲間などではないだろう？）						
-CharacterEvent_002_FIN_003ID	76	Brad	ブラッド	（もしそう思っているのなら、\n　今日私はハンバーガーなどおごらなかったはずだ）						
-CharacterEvent_002_FIN_003ID	77	Brad	ブラッド	（ここで意地を張るとどうなるか。\n　リヒャルトでお前は学んだはずだろう）						
-CharacterEvent_002_FIN_003ID	78	Brad	ブラッド	（ブラッドリー・カーンよ。\n　お前は、二度は間違えない男だ）						
-CharacterEvent_002_FIN_003ID	79	Brad	ブラッド	……そうだな。そこまで言うのなら\nいずれ話を聞いてもらおう						
-CharacterEvent_002_FIN_003ID	80	Brad	ブラッド	護衛の依頼料は食事で払うということでいいな？						
-CharacterEvent_002_FIN_003ID	81	Magda	マクダ	は！？　それは話が別だろ！						
-CharacterEvent_002_FIN_003ID	82	Brad	ブラッド	今のは冗談だ。私も冗談ぐらいは言う						
-CharacterEvent_002_FIN_003ID	83	Magda	マクダ	あああああ、クソが！！！						
-CharacterEvent_002_FIN_003ID	84	Brad	ブラッド	その言葉選びは、やめておけ						
-CharacterEvent_002_FIN_003ID	85	Brad	ブラッド	まったく風のような奴だ、昔から変わらない						
-CharacterEvent_002_FIN_003ID	86	Magda	マクダ	おい、なんかすげぇ真面目に悩んでるな、どうした						
-CharacterEvent_002_FIN_004ID	0	Magda	マクダ	おい……なんだよここ！　絶対高いよな！？\n俺が入っていいような場所じゃねーだろ！						
-CharacterEvent_002_FIN_004ID	1	Brad	ブラッド	私の友人なのだから、何も問題はない						
-CharacterEvent_002_FIN_004ID	2	Magda	マクダ	はあ……今度は私が美味い所に連れてってやる、\nなんて言葉に釣られて、ほいほい来るんじゃなかったぜ						
-CharacterEvent_002_FIN_004ID	3	Magda	マクダ	……いや、せっかくなら思いっきり味わわないとな！\nソースの最後の一滴まで舐め取ってやる！						
-CharacterEvent_002_FIN_004ID	4	Brad	ブラッド	やめろ、はしたない						
-CharacterEvent_002_FIN_004ID	5	Brad	ブラッド	それに、これは今後護衛として連れまわす報酬の\n先払いでもある。遠慮すると損するのは自分だぞ						
-CharacterEvent_002_FIN_004ID	6	Magda	マクダ	はーん。まったく。そういう言い訳が無いと、\n食事にも誘えないのか、この堅物は						
-CharacterEvent_002_FIN_004ID	7	Brad	ブラッド	そうか、いらないなら皿を下げてもらおう						
-CharacterEvent_002_FIN_004ID	8	Magda	マクダ	あー！　食う食う！						
-CharacterEvent_002_FIN_004ID	9	Brad	ブラッド	食う、じゃなくて、食べる、だ						
-CharacterEvent_002_FIN_004ID	10	Magda	マクダ	食べます食べます！　容赦ないなお前は						
-CharacterEvent_002_FIN_004ID	11	Magda	マクダ	まあでも……あんがとよ、ブラッド						
-CharacterEvent_002_FIN_004ID	12	Brad	ブラッド	……少しはましな言葉遣いになったな。\nやはりそっちのほうが似合うぞ						
-CharacterEvent_002_FIN_004ID	13	Magda	マクダ	はは、ぼちぼち気を付けていくよ						
-CharacterEvent_002_FIN_004ID	14	Magda	マクダ	……！　おい堅物！\nこのシチュー、うめぇな！　なんだこれ！						
-CharacterEvent_002_FIN_004ID	15	Brad	ブラッド	うめぇ、じゃなくて、美味しい、だ。\nまったく、ほめたらすぐこれか						
-CharacterEvent_002_FIN_004ID	16	Brad	ブラッド	……まあ、根気よく指摘していけばいいか。\nこの先の長い付き合いの中で						
-CharacterEvent_002_FIN_004ID	17	Magda	マクダ	友人って言われるのは、悪い気しねぇな、へへ						
-CharacterEvent_002_FIN_IF_001ID	0	Brad	ブラッド	敵同士だった相手と、随分親しくなっているのだな						
-CharacterEvent_002_FIN_IF_001ID	1	Lanze	ランツェ	ああ？　なんだお前は						
-CharacterEvent_002_FIN_IF_001ID	2	Brad	ブラッド	錬金爵のブラッドリーだ。\n今回の作戦に同行させてもらうことになった						
-CharacterEvent_002_FIN_IF_001ID	3	Heidi	ハイディ	ええっ！？　国のお偉いさんがどうして！？						
-CharacterEvent_002_FIN_IF_001ID	4	Brad	ブラッド	錬金爵として、極夜の錬金党は放置できんからな。\nもちろん、元錬金党の者も含めて						
-CharacterEvent_002_FIN_IF_001ID	5	Brad	ブラッド	私は、リヒャルトのように甘くはない						
-CharacterEvent_002_FIN_IF_001ID	6	Lara	ララ	あら、ご挨拶ですこと						
-CharacterEvent_002_FIN_IF_001ID	7	Heidi	ハイディ	ちょい待ち！\nケンカはやめてくださいよ～お二人さん！						
-CharacterEvent_002_FIN_IF_001ID	8	Brad	ブラッド	（あれから……私はレスナたちと行動を共にすることに\n　なった）						
-CharacterEvent_002_FIN_IF_001ID	9	Brad	ブラッド	（錬金術が正しい方向に使われるよう、\n　監視し、時にはサポートする）						
-CharacterEvent_002_FIN_IF_001ID	10	Brad	ブラッド	（私はその役目を果たさなくてはならない）						
-CharacterEvent_002_FIN_IF_001ID	11	Flocke	フロッケ	み、皆さん仲良くしましょう！　ね！						
-CharacterEvent_002_FIN_IF_001ID	12	Lanze	ランツェ	そうだぜ。\nったく、天使ちゃんに気遣わせてんじゃねえよ						
-CharacterEvent_002_FIN_IF_001ID	13	Heidi	ハイディ	はあ……先が思いやられる						
-CharacterEvent_002_FIN_IF_001ID	14	Brad	ブラッド	……						
-CharacterEvent_002_FIN_IF_001ID	15	Brad	ブラッド	（もしかしたら、彼女も共にこの旅に同行する。\n　そんな未来もあったのだろうか？）						
-CharacterEvent_002_FIN_IF_001ID	16	Brad	ブラッド	（もしそうであれば、この場の空気は\n　もっと砕けたものになったかもしれない）						
-CharacterEvent_002_FIN_IF_001ID	17	Brad	ブラッド	（……気にするな。仕事だ。\n　私は私の役割を果たせばいい）						
-CharacterEvent_002_FIN_IF_001ID	18	Brad	ブラッド	（他に重要なことなど、無いはずなのだから）						
+CharacterEvent_002_FIN_001ID	0	Magda	マクダ	……で？　その錬金爵サマがここになんの用だ？	Magda	Huh? What's the seneschal of alchemy doin' here?	玛格达	所以……炼金爵大人到这里来有何贵干？	瑪格達	……所以呢？鍊金爵大人來這裡有何貴幹？
+CharacterEvent_002_FIN_001ID	1	Brad	ブラッド	武器を収めろ。失礼だと思わないのか	Brad	Come on, put your weapon away. It's rude, don't you think?	布莱德	收起你的武器，这样不觉得失礼吗。	布萊德	放下武器。妳不知道這樣很失禮嗎？
+CharacterEvent_002_FIN_001ID	2	Magda	マクダ	いちいち説教しやがって。調子がくるうな。\n話がすすまねーだろ	Magda	Stop with the constant lecturing! It kills my mood every time. Just get to the point.	玛格达	真会教训人。\n这样下去到底要什么时候才能进入正题。	瑪格達	連這點小事也要說教，害我都提不起勁來了。\n你到底要不要進入正題？
+CharacterEvent_002_FIN_001ID	3	Brad	ブラッド	話し合いを長引かせたくはないだろう？\nじきに騒ぎを聞きつけて他の騎士もやってくるはずだ	Brad	I'm sure you don't want to make this discussion any longer than it needs to be. The other knights probably heard the commotion. They'll be here any moment.	布莱德	你也不想拖太久吧？\n听到动静的其他骑士马上就要赶过来了。	布萊德	妳應該不想浪費時間吧？\n其他騎士應該已經察覺到騷動，正在趕過來這裡。
+CharacterEvent_002_FIN_001ID	4	Magda	マクダ	ハッ。騎士でどうにかなるとでも？　喧嘩屋を\n倒したけりゃ、白夜の騎士でも連れてくるんだな	Magda	Hah! You think some piddly little knights can do anything? Only a Knight of the Midnight Sun could take this brawl master down!	玛格达	哈。骑士来了又能怎样？要想打倒我这个打手，\n起码得把白夜骑士带过来。	瑪格達	哈，以為騎士就能打發我？想制伏打架專家的話，\n好歹也該出動白夜騎士吧。
+CharacterEvent_002_FIN_001ID	5	Brad	ブラッド	喧嘩屋……マクダ……。\n月影の会の資料にあった、マクダか	Brad	Brawl Master... Magda...? You must be the Magda that was in the Moonlight Society documents.	布莱德	打手……玛格达……\n你就是月影会相关资料里的那个玛格达吗。	布萊德	打架專家……瑪格達……\n妳就是記載在月影會資料中的那個瑪格達啊。
+CharacterEvent_002_FIN_001ID	6	Magda	マクダ	知ってるなら、話が早いぜ。こっちは\nヴァレリアやハイディって奴を探してるんだが	Magda	Well, if you already know that much, this should be quick. I'm looking for a couple of girls named Valeria and Heidi.	玛格达	你认识我的话就好说了。\n我正在找瓦莱莉娅和海蒂。	瑪格達	既然你知道我是誰，那就省事多了。\n我在找兩個人，名字叫瓦萊莉婭和海蒂。
+CharacterEvent_002_FIN_001ID	7	Brad	ブラッド	ほう	Brad	I see.	布莱德	是吗。	布萊德	哦……
+CharacterEvent_002_FIN_001ID	8	Magda	マクダ	フロッケやランツェのおっさんまで消えてやがるし	Magda	Even Flocke and that old fogey Lanze have up and disappeared.	玛格达	连芙洛可和兰泽大叔都不见了。	瑪格達	竟然連芙洛可和藍澤大叔都消失了……
+CharacterEvent_002_FIN_001ID	9	Brad	ブラッド	だいぶ疲れているようだな、マクダ。何があった	Brad	Magda, you look exhausted. What happened?	布莱德	你看起来很疲惫，玛格达。发生什么事了？	布萊德	瑪格達，妳看起來似乎相當疲倦。發生了什麼事？
+CharacterEvent_002_FIN_001ID	10	Magda	マクダ	おう、なら聞けや。マクダ様がここにいる理由をな	Magda	Ah, well, listen up. I'll tell you why I'm here in the first place.	玛格达	哦，那你好好听着，为什么玛格达大人会在这里。	瑪格達	既然你問了，我就告訴你瑪格達大人在這裡的原因吧。
+CharacterEvent_002_FIN_001ID	11	Brad	ブラッド	（彼女はここに来るまでの経緯を語った。\n　オリバーの依頼を受けてシュネール州へ行ったこと）	Brad	(She proceeded to tell me about what led her here—how she accepted a request from Oliver and traveled to Schnell Province.)	布莱德	（她讲述了自己来到这里之前的经历。\n　首先是接受奥利弗的委托前往施内尔州……）	布萊德	（我從她口中得知了她來到此處的緣由。\n　她在奧利弗的委託下前往雪內爾州……）
+CharacterEvent_002_FIN_001ID	12	Brad	ブラッド	（帰ってきたら月影の会が無くなっていて、\n　ヴァレリアたちもいなくなっていたこと）	Brad	(She returned to find that the Moonlight Society had disappeared, along with Valeria and the others.)	布莱德	（回来之后月影会解散，\n　瓦莱莉娅等人也下落不明。）	布萊德	（回來後發現月影會消失，\n　瓦萊莉婭等人也失去蹤影。）
+CharacterEvent_002_FIN_001ID	13	Brad	ブラッド	（ヴァレリアたちが帰ってくることを願い、\n　この船の掃除をしていたこと）	Brad	(In hopes that Valeria and the others might return, she set out to clean the ship.)	布莱德	（她期盼着瓦莱莉娅等人的回归，\n　于是打扫了这条船。）	布萊德	（於是便在這艘船等待瓦萊莉婭等人歸來，\n　順便打掃了一番。）
+CharacterEvent_002_FIN_001ID	14	Brad	ブラッド	（彼女は嘘をついていないだろう。\n　であれば、我々の目的は一致している）	Brad	(I believe that she's telling the truth, which means we're after the same thing.)	布莱德	（她应该没有撒谎。\n　那我们的目的就是一致的。）	布萊德	（她應該沒有說謊。若是如此，我們的目標一致。）
+CharacterEvent_002_FIN_001ID	15	Brad	ブラッド	（着地点は見えた。\n　そろそろ終わらせることにしよう）	Brad	(At last, a path forward. Time to finally get to the bottom of things.)	布莱德	（有结论了。差不多就到这里结束吧。）	布萊德	（既然找到了雙方的共識，\n　那差不多該結束這話題了。）
+CharacterEvent_002_FIN_001ID	16	Brad	ブラッド	事情は分かった。私としても今、ヴァレリアの身辺を\n調査しているのだ	Brad	I understand the situation now. For my part, I too am looking into Valeria.	布莱德	情况我了解了。\n我现在也在调查瓦莱莉娅的身世背景。	布萊德	我明白了。其實，我也正在調查與瓦萊莉婭相關的情報。
+CharacterEvent_002_FIN_001ID	17	Brad	ブラッド	そこで提案だ。お前、私の護衛を行い調査に協力しろ。\nいってみれば、騎士のかわりだ	Brad	How about this? Why don't you help me investigate by being my guard? You can be a knight of sorts.	布莱德	在此我提议，由你担任我的护卫协助调查。\n换句话说，和骑士差不多。	布萊德	因此我有個提案。我要妳擔任我的護衛，協助調查。\n簡單來說，就是妳要代替我身邊的騎士。
+CharacterEvent_002_FIN_001ID	18	Magda	マクダ	なっ！？　なんでお前の護衛なんかを……！	Magda	What?! Why would I ever be a guard for you?!	玛格达	什么？！凭什么我要做你的护卫……！	瑪格達	什麼！？我為什麼要當你的護衛……！
+CharacterEvent_002_FIN_001ID	19	Brad	ブラッド	それで騎士を攻撃した件は、手打ちにする。\nいいか、お前は知らないようだが……	Brad	You do realize you've just assaulted a couple of knights? Join me and I'll let it slide. You're clearly oblivious, but...	布莱德	答应的话，你攻击骑士的事就一笔勾销。\n听好了，你也许不清楚……	布萊德	只要妳接受，我就不追究妳攻擊騎士的責任。\n聽好了，妳大概不明白……
+CharacterEvent_002_FIN_001ID	20	Brad	ブラッド	我がカーン家はこの王国で代々内政を支えている重鎮。\nお前は騎士に暴行した上、カーン家にたてついたのだ	Brad	The Khan family has been supporting the crown for generations, and your assault on my knights constitutes an act of defiance against my family.	布莱德	我们卡恩家族是世世代代支撑王国内政的重臣。\n你不仅对骑士动粗，还冲撞了卡恩家。	布萊德	我們卡恩家是代代輔佐國王處理內政的政要，\n對騎士施暴就等於忤逆卡恩家族。
+CharacterEvent_002_FIN_001ID	21	Brad	ブラッド	国に逆らうと面倒だぞ。\nお前は、そういうことが分かるだろう？	Brad	I'll give you fair warning: you do not want to make an enemy of the kingdom. I trust you can understand that.	布莱德	反抗王国的下场是很麻烦的。\n你应该明白这一点吧？	布萊德	與整個國家作對會惹上什麼樣的麻煩，\n妳應該也很清楚吧？
+CharacterEvent_002_FIN_001ID	22	Magda	マクダ	……ちいっ、脅しかよ	Magda	Ugh, so you're threatening me now?	玛格达	啧……居然威胁我。	瑪格達	……哼，竟然搞威脅這套啊。
+CharacterEvent_002_FIN_001ID	23	Brad	ブラッド	こうでも言わないと\nお前は私の言うことを聞かないだろう	Brad	You left me no choice. You wouldn't listen otherwise, would you?	布莱德	不说到这个份上，你也不会听我的话吧。	布萊德	畢竟不說到這個地步，妳不會肯聽我的話吧。
+CharacterEvent_002_FIN_001ID	24	Magda	マクダ	いい気になるなよ！？　マクダ様はなぁ……	Magda	Don't be so full of yourself! You know, I could—	玛格达	别蹬鼻子上脸了！玛格达大人我……	瑪格達	你少得意了！瑪格達大人我啊……
+CharacterEvent_002_FIN_001ID	25	Brad	ブラッド	マクダ、私は騎士を瞬時に気絶させた、お前の腕に\n敬意を表している	Brad	Magda, listen. I am in awe of your incredible ability to incapacitate a knight in the blink of an eye.	布莱德	玛格达，我是在对你\n能瞬间打晕骑士的实力表示敬佩。	布萊德	瑪格達，我對妳能瞬間擊暈騎士的身手深感佩服。
+CharacterEvent_002_FIN_001ID	26	Magda	マクダ	は、はあ？	Magda	O-Oh yeah?	玛格达	什、什么？	瑪格達	什、什麼？
+CharacterEvent_002_FIN_001ID	27	Brad	ブラッド	それほどの人間が、暇を持て余しているのは\nもったいない。腹立たしささえ、覚える	Brad	It would be a shame to let such talent sit idle. The idea of it is even somewhat maddening.	布莱德	有如此实力却无所事事，真是明珠蒙尘。\n我甚至为此感到气愤。	布萊德	像妳這樣實力高強的人卻只能遊手好閒，\n這簡直是浪費人才，我甚至對此感到憤慨。
+CharacterEvent_002_FIN_001ID	28	Magda	マクダ	お、おう	Magda	I-I see.	玛格达	是、是吗……	瑪格達	嗯、呃……
+CharacterEvent_002_FIN_001ID	29	Brad	ブラッド	それもあって、私の護衛に誘っている	Brad	That's also why I'm offering you the option of being my guard.	布莱德	我之所以会邀请你担任护卫，也包括了这一点。	布萊德	所以，我才會邀請妳成為我的護衛。
+CharacterEvent_002_FIN_001ID	30	Magda	マクダ	おだてて釣ろうっていうのか？	Magda	So now you think you can get me with flattery?	玛格达	你这是在给我戴高帽？	瑪格達	你是想用花言巧語騙我上鉤嗎？
+CharacterEvent_002_FIN_001ID	31	Brad	ブラッド	無駄なことはしない主義だ。\nすべて本心だが	Brad	Not at all. I mean every word. I am not one to waste time.	布莱德	我从来不做无用之事。这些都是我的真心话。	布萊德	我向來不做無謂的功夫，我剛才說的全是真心話。
+CharacterEvent_002_FIN_001ID	32	Magda	マクダ	……そうかよ。分かった分かった。\n護衛、引き受けてやる	Magda	Really...? Okay then. I guess I'll be your guard.	玛格达	是吗……好吧我明白了，那我就接受吧。	瑪格達	……是喔。好啦、好啦。我就當你的護衛吧。
+CharacterEvent_002_FIN_001ID	33	Magda	マクダ	ったくなんなんだこいつ、クソッ、妙なことになったな	Magda	Ugh, what's with this guy? Now we got this weird thing goin'.	玛格达	真是的，搞不懂这家伙想干嘛。都是些什么事儿啊。	瑪格達	這傢伙到底是怎樣啊。混帳，事情的發展越來越奇怪了。
+CharacterEvent_002_FIN_001ID	34	Brad	ブラッド	その言葉選びは、やめた方がいい	Brad	You really should reconsider your manner of speaking.	布莱德	你最好改一改你的说话方式。	布萊德	我建議妳最好注意自己的用字遣詞。
+CharacterEvent_002_FIN_001ID	35	Magda	マクダ	うるせー！	Magda	Shut up!	玛格达	要你管！	瑪格達	吵死了──！
+CharacterEvent_002_FIN_002ID	0	Magda	マクダ	（翌日。俺たちはフリーゲンに向かうことになった。\n　ヴァレリアが住居を移した町だという）	Magda	(The next day, we decided to head to Friegen, the town where Valeria's apparently living now.)	玛格达	（第二天，我们出发前往弗里根。\n　据说瓦莱莉娅搬到了那里。）	瑪格達	（隔天，我們便出發前往弗里岡。\n　聽說瓦萊莉婭搬去了那裡。）
+CharacterEvent_002_FIN_002ID	1	Magda	マクダ	（出発の時間まで、俺はブラッドについて調べた。\n　……俺はとんでもない奴にケンカを売ってたらしい）	Magda	(I looked into this Brad guy before we left, though, and it turns out I really didn't know who I was pickin' a fight with.)	玛格达	（出发之前，我一直在调查布莱德。\n　看样子我似乎招惹了一个不得了的家伙……）	瑪格達	（在出發前，我先調查了布萊德。\n　才發現……我似乎招惹到了一個不得了的人。）
+CharacterEvent_002_FIN_002ID	2	Magda	マクダ	お前、本当に偉いんだな。「王国の未来を握るもの」\nなんて言われてるんだって？	Magda	"You really are a big deal! ""The future of the kingdom,"" huh?"	玛格达	你还真是个大人物啊。听说你有个别名\n叫“掌控王国未来之人”？	瑪格達	原來你真的是個大人物啊。\n聽說還有人說你「掌握著王國的未來」？
+CharacterEvent_002_FIN_002ID	3	Magda	マクダ	学生の頃の試験も常に一位だったとか。\n家柄だけじゃなくて頭もいいじゃねーか	Magda	I hear you were at the top of your class in school, too! Look at you—you've got a fancy family AND a fancy brain!	玛格达	念书的时候也次次拿第一名，\n不止出身好，脑子也灵光。	瑪格達	學生時代的成績也總是穩坐第一。\n不但家世顯赫，頭腦也很靈光。
+CharacterEvent_002_FIN_002ID	4	Magda	マクダ	それがなんだって、\n自分の足で身元調査なんかしてんだ？	Magda	Well, anyway. You investigating people all on your own? Don't you have people to do that for you?	玛格达	像你这种人，有必要亲自调查别人的身世吗？	瑪格達	既然你身份這麼不凡，為什麼還得親自調查這些東西？
+CharacterEvent_002_FIN_002ID	5	Brad	ブラッド	物事を正しく判断するにはすべて自分の目で見ておく\n必要がある。それだけのことだ	Brad	One must see everything with one's own eyes in order to make the correct decisions. That's all there is to it.	布莱德	要正确判断一件事物，\n必须用自己的双眼见证一切。仅此而已。	布萊德	我只是相信必須眼見為憑，才能做出正確的判斷，\n僅是如此而已。
+CharacterEvent_002_FIN_002ID	6	Brad	ブラッド	こと錬金術においては特にな。\nそれだけ、この国で大きな存在になっている	Brad	Particularly when it comes to matters of alchemy. That's how important this is to the kingdom.	布莱德	尤其是与炼金术相关的事。\n它对国家来说至关重要。	布萊德	特別是鍊金術。\n畢竟鍊金術已經成為這個國家非常重要的技術。
+CharacterEvent_002_FIN_002ID	7	Magda	マクダ	ほーん、なんだか綺麗事すぎるなぁ	Magda	Hmm, it all sounds kinda idealistic.	玛格达	嚯，还真是会说漂亮话。	瑪格達	哦……總覺得聽起來像是場面話呢。
+CharacterEvent_002_FIN_002ID	8		女性	きゃーっ！！！　誰かー！！	Woman	Ahh! Somebody! Heeelp!	女人	呀——！！！救命！！	女性	呀啊！！！誰來救救我！！
+CharacterEvent_002_FIN_002ID	9	Brad	ブラッド	……！　悲鳴か！	Brad	Someone's screaming!	布莱德	唔……！有惨叫声！	布萊德	……！有人在求救！
+CharacterEvent_002_FIN_002ID	10	Magda	マクダ	この先の湿地からだ！　喧嘩屋マクダ様の出番だな！	Magda	It's coming from the marsh over there! Looks like it's time for me to get to work!	玛格达	是从前面湿地传来的！轮到打手玛格达大人出场了！	瑪格達	聲音來自前方的濕地！輪到打架專家瑪格達大人登場啦！
+CharacterEvent_002_FIN_002ID	11	Magda	マクダ	はああああっ！！！	Magda	Raaagh!	玛格达	喝啊啊啊啊！！！	瑪格達	喝啊啊啊啊！！！
+CharacterEvent_002_FIN_002ID	12	Magda	マクダ	ハッ！　どんなもんだ！　これが喧嘩屋の実力だ！	Magda	Ha, take that! Feast your eyes on the true strength of the Brawl Master!	玛格达	哈！怎么样！这就是打手玛格达大人的实力！	瑪格達	哈！看到了吧！這就是打架專家的實力！
+CharacterEvent_002_FIN_002ID	13		女性	あ……ありがとうございます……！	Woman	Th-Thank you so much!	女人	谢……谢谢你……！	女性	謝……謝謝妳……！
+CharacterEvent_002_FIN_002ID	14	Magda	マクダ	おう、気を付けて帰りな	Magda	Yep! Be careful on the way back.	玛格达	嗯，回去路上小心点。	瑪格達	不客氣，回去時小心點。
+CharacterEvent_002_FIN_002ID	15	Brad	ブラッド	……前から思っていたのだが	Brad	There's something that's been on my mind for a while.	布莱德	有件事我在意很久了……	布萊德	我之前就很想問妳……
+CharacterEvent_002_FIN_002ID	16	Brad	ブラッド	気が強いのは個性として尊重するが、\nその粗雑な物言いはどうにかならないのか？	Brad	I respect your strong-willed personality, but can you tone down your rough way of speaking?	布莱德	我尊重你强硬的性格，\n但你那粗鲁的语气就不能改一改吗？	布萊德	我尊重妳強勢的個性，\n但妳能不能改掉那粗魯的口氣？
+CharacterEvent_002_FIN_002ID	17	Brad	ブラッド	あの女性も少し怯えていたようだ。\n言葉遣いは直したほうがいいぞ	Brad	That lady looked a bit frightened of you. You really should be more careful of what you say.	布莱德	刚才那位女性似乎也有些害怕。\n你最好注意一下你的语气。	布萊德	剛才那位小姐似乎也被嚇到了，\n建議妳最好還是改一下用字遣詞。
+CharacterEvent_002_FIN_002ID	18	Magda	マクダ	あの湾岸地区で拳一本で生きてきたマクダ様が、\nそんな丁寧な言葉遣いできるかよ	Magda	Me? The Great Magda who survived the bay area with nothing but her fists? You think I can be all polite and dainty like that?	玛格达	玛格达大人可是在那个海岸地区靠拳头活下来的，\n文绉绉的话我说不来。	瑪格達	瑪格達大人我可是在海灣地區靠拳頭為生的，\n說話怎麼可能文雅到哪裡去。
+CharacterEvent_002_FIN_002ID	19	Brad	ブラッド	そのせいで上客を逃す恐れもあるだろう。\nいいか、お前は磨けば光る人材だ	Brad	You know, you might lose out on some good customers with that mouth. Listen, you would really shine with a little polishing.	布莱德	你这样子会吓跑优质顾客吧。\n听好了，你是块打磨就会发光的璞玉。	布萊德	但這樣可能會嚇跑重要的客戶吧？\n聽好了，妳是個可造之材。
+CharacterEvent_002_FIN_002ID	20	Brad	ブラッド	強く、綺麗好きで、身だしなみにも気を使っている。\nそれで品性を高めれば、より輝けるぞ	Brad	You're strong, tidy, and you take great care of your appearance. You could really flourish if you'd only improve your manners.	布莱德	你武艺好、爱干净、注重仪表。\n只要提高品性，就能发出更美的光彩。	布萊德	不但實力堅強、愛好整潔，也很注重外表。\n只要好好修身養性，必能大有所為。
+CharacterEvent_002_FIN_002ID	21	Magda	マクダ	きゅ、急にお前、なに言ってんだ！？	Magda	Wh-What's with you all of a sudden?!	玛格达	你、你说什么呢？！	瑪格達	你、你突然說這什麼話啊！？
+CharacterEvent_002_FIN_002ID	22	Brad	ブラッド	本心だが？	Brad	I mean it.	布莱德	我实话实说而已。	布萊德	我是認真的啊。
+CharacterEvent_002_FIN_002ID	23	Magda	マクダ	お前の言葉は裏がありそうなんだよ、クソが！	Magda	You've gotta have some kind of ulterior motive, you little snake!	玛格达	你一开口就让人觉得别有用心啊，混蛋！	瑪格達	混帳！你說話總是讓人覺得好像別有含意。
+CharacterEvent_002_FIN_002ID	24	Brad	ブラッド	その言葉選びが良くないと言っている	Brad	Case in point! That sort of language is not acceptable!	布莱德	我就说了，注意你的措辞。	布萊德	就叫妳說話別這麼粗魯了。
+CharacterEvent_002_FIN_002ID	25	Magda	マクダ	ヴァレリアたち、ここに引っ越してたのかよ	Magda	This is where Valeria and the gang moved?	玛格达	瓦莱莉娅她们搬到这里来了吗。	瑪格達	瓦萊莉婭她們原來是搬到了這裡來啊。
+CharacterEvent_002_FIN_002ID	26	Brad	ブラッド	この辺りの住民から、彼女について、またレスナに\nついても、徹底的に聞き取り調査を行う	Brad	Let's ask as many residents here as we can about Valeria and Resna.	布莱德	我会对附近居民进行详细的询问调查，\n了解瓦莱莉娅和蕾斯娜的情况。	布萊德	向這附近的居民好好打聽她或蕾斯娜的事吧。
+CharacterEvent_002_FIN_002ID	27	Magda	マクダ	あのさ。マクダ様の言葉も考慮に入れてくれねーのか？\n俺も付き合い長いぜ。アイツと	Magda	Hey, how about askin' me, too? I've been around her a long time, y'know!	玛格达	我说，你要不要听听玛格达大人对她的评价？\n我跟她也认识很久了。	瑪格達	我說啊，你能不能也聽聽瑪格達大人我的看法？\n畢竟我認識那傢伙也很久了。
+CharacterEvent_002_FIN_002ID	28	Brad	ブラッド	……確かにそうだな。では、お前にとって\nヴァレリアとはどんな人物だった？	Brad	Right, you have. Okay, so how would you describe Valeria?	布莱德	确实……那么在你看来，瓦莱莉娅是个怎样的人？	布萊德	……確實如此。在妳眼中，\n瓦萊莉婭是個怎麼樣的人？
+CharacterEvent_002_FIN_002ID	29	Magda	マクダ	間抜けな時もあるけど、絶対に悪人なんかじゃない	Magda	She can be a real blockhead sometimes, but she wasn't a bad person or anything.	玛格达	虽然有时候缺根筋，但绝对不是坏人。	瑪格達	儘管有粗心大意的一面，但她絕對不是壞人。
+CharacterEvent_002_FIN_002ID	30	Magda	マクダ	マクダ様は学はないが、野生の勘は鋭いんだ。\n聞いておいて損はないぜ	Magda	I might not be so smart, but my instincts are sharp. No harm in hearin' me out.	玛格达	玛格达大人虽然没读过多少书，但直觉很准。\n你听我的准不会吃亏。	瑪格達	雖然瑪格達大人我沒什麼學識，\n但直覺可是很敏銳的。你信我準沒錯。
+CharacterEvent_002_FIN_002ID	31	Brad	ブラッド	一つの意見として聞いておこう	Brad	I'll be sure to include that in my report.	布莱德	我会参考你的意见的。	布萊德	我就姑且納為參考的材料之一吧。
+CharacterEvent_002_FIN_002ID	32	Magda	マクダ	ったく。堅物だな、お前は。\n色んな奴から文句を言われてそうだ	Magda	Oh yeah? Okay, wise guy. I swear, there's gotta be people linin' up around the block to file complaints about you.	玛格达	嘁，真够死脑筋的。很多人都对你有意见吧。	瑪格達	你真的很死腦筋耶。應該很多人都對你有怨言吧。
+CharacterEvent_002_FIN_002ID	33	Magda	マクダ	“氷のブラッド”とかよぉ	Magda	"You know, ""Icy Brad""?"	玛格达	还给你起“冰之布莱德”这种外号。	瑪格達	像是說你是「冰之布萊德」之類的。
+CharacterEvent_002_FIN_002ID	34	Brad	ブラッド	そのような役割の人間も必要だろう	Brad	That may be, but the world needs people like me.	布莱德	这种角色的人也是必不可少的。	布萊德	總是得有人當黑臉。
+CharacterEvent_002_FIN_002ID	35	Magda	マクダ	覚悟の上ってわけか？　なるほどな	Magda	Oh, so you're aware of it, huh? Interesting.	玛格达	你的意思是你已经有心理准备了？原来如此。	瑪格達	原來如此，你是自願扮演這種角色的啊。
+CharacterEvent_002_FIN_002ID	36	Magda	マクダ	それくらい弾けてるなら、むしろ尖ってて\nマクダ様は好きだ	Magda	You're a little edgy, not carin' about stuff like that. I'm impressed!	玛格达	既然这样，那还是有锋芒一点好，\n玛格达大人欣赏你。	瑪格達	做到這個地步，倒是反而顯得瀟灑。\n瑪格達大人我還挺喜歡的呢。
+CharacterEvent_002_FIN_002ID	37	Brad	ブラッド	……フッ。珍しい感性だな	Brad	Heh. That's a unique perspective.	布莱德	哼……难得有人会这么想。	布萊德	……呵，妳的看法真是異於常人呢。
+CharacterEvent_002_FIN_002ID	38	Magda	マクダ	意外と気が合うかもなぁ。ちなみに音楽の好みは？	Magda	You know, maybe we can get along after all. You like music?	玛格达	说不定我和你还挺合得来。你喜欢什么类型的音乐？	瑪格達	說不定我們意外地合。順便問問，你喜歡什麼樣的音樂？
+CharacterEvent_002_FIN_002ID	39	Brad	ブラッド	心穏やかになるものがいい	Brad	As long as it's something soothing.	布莱德	平稳舒缓的。	布萊德	能讓心靈平靜下來那種。
+CharacterEvent_002_FIN_002ID	40	Magda	マクダ	堅物の印象そのまんまだな	Magda	Surprise, surprise.	玛格达	和你给人的印象一模一样啊。	瑪格達	確實很符合死腦筋給人的印象。
+CharacterEvent_002_FIN_002ID	41	Brad	ブラッド	雑談がすぎたな。時間が惜しい。\n調査を始めるぞ	Brad	Enough chitchat. We're wasting precious time. Let's get started on the investigation.	布莱德	别再闲聊浪费时间了。开始调查吧。	布萊德	不小心聊過頭了。時間寶貴，開始調查吧。
+CharacterEvent_002_FIN_002ID	42	Magda	マクダ	ほいよ了解！	Magda	Yes, siree!	玛格达	好，知道了！	瑪格達	收到！
+CharacterEvent_002_FIN_002ID	43	Brad	ブラッド	民の救出、感謝する	Brad	And thank you for saving a citizen in need.	布莱德	谢谢你救助了民众。	布萊德	感謝妳拯救民眾。
+CharacterEvent_002_FIN_002ID	44	Magda	マクダ	へへっ、大げさに言うなよ	Magda	Heh heh! No need to go making such a big fuss about it.	玛格达	嘿嘿，你太夸张了啦。	瑪格達	嘿嘿，這不過是小事一樁。
+CharacterEvent_002_FIN_003ID	0	Brad	ブラッド	（そうして……我々は方々で聞き取り調査を行った）	Brad	(And with that, we conducted our investigation, speaking with a great many people.)	布莱德	（就这样……我们开始到处询问调查。）	布萊德	（後來……我們向許多人打聽消息。）
+CharacterEvent_002_FIN_003ID	1	Brad	ブラッド	（結論から言うと、ヴァレリア、レスナ両名について\n　問題は特にみられなかった）	Brad	(However, in the end, there were no issues that came up regarding either Valeria or Resna.)	布莱德	（从结论上来说，\n　瓦莱莉娅和蕾斯娜并没有什么问题。）	布萊德	（就結論而言，瓦萊莉婭和蕾斯娜\n　似乎沒有什麼可疑之處。）
+CharacterEvent_002_FIN_003ID	2	Brad	ブラッド	（ヴァレリアの過去はやはり明らかにならなかったが、\n　信頼できる人物と言うのが総意だ）	Brad	(We weren't able to uncover anything about Valeria's past, but there was a consensus on her being trustworthy.)	布莱德	（虽然还是没搞清楚瓦莱莉娅的身世，\n　但大家都认为她是个值得信赖的人。）	布萊德	（雖然瓦萊莉婭的過去依舊是個謎，\n　但大家都說她值得信賴。）
+CharacterEvent_002_FIN_003ID	3	Brad	ブラッド	（であれば、私は皆の言葉を信じるべきだろう。\n　私は、オルペウス殿下に調査結果を報告した）	Brad	(It's only right that I believe what everyone says. And so I reported the results of the investigation to Prince Orpheus.)	布莱德	（既然如此，我也该相信大家的评价。\n　于是我向奥菲斯殿下报告了调查结果。）	布萊德	（既然如此，我或許應該相信群眾的意見。\n　我於是向奧菲斯殿下報告了調查結果。）
+CharacterEvent_002_FIN_003ID	4	Brad	ブラッド	（……レスナたち一行の活動を支援し、\n　錬金術復興へ向けて本格的に動き出すべきだと）	Brad	(I stated that we should support the work of Resna and her fellow alchemists and move in full toward reviving alchemy.)	布莱德	（并且进言……国家应该支援蕾斯娜一行人的活动，\n　正式开始复兴炼金术。）	布萊德	（……國家應當支援蕾斯娜一行人的活動，\n　正式邁向復興鍊金術之路。）
+CharacterEvent_002_FIN_003ID	5	Magda	マクダ	ふう、食った食った！	Magda	Phew-y, I'm stuffed!	玛格达	哈，吃爽了！	瑪格達	呼，吃得真飽！
+CharacterEvent_002_FIN_003ID	6	Brad	ブラッド	ご馳走様、と言え	Brad	"How about ""thanks for the meal""?"	布莱德	你应该说，多谢款待。	布萊德	要說「感謝招待」。
+CharacterEvent_002_FIN_003ID	7	Brad	ブラッド	しかし、急いでここに行くべきだと言うから\n何かと思えば、ハンバーガーをおごらされるとは	Brad	I must say, you had me on edge saying we needed to get here quick, and what was it? Forcing me to treat you to a hamburger.	布莱德	你说要抓紧时间来这里，我还以为出了什么事，\n想不到竟然是让我请你吃汉堡。	布萊德	妳突然提議要到這裡來，我還以為是有什麼事。\n沒想到結果竟然是要我請客吃漢堡。
+CharacterEvent_002_FIN_003ID	8	Magda	マクダ	でも、うまかっただろ？	Magda	But it was good, wasn't it?	玛格达	反正很好吃不是吗？	瑪格達	不過，很好吃吧？
+CharacterEvent_002_FIN_003ID	9	Brad	ブラッド	ああ。驚いた。こういう所の食事も\n悪くないものだな	Brad	It was. Surprisingly so. Places like this aren't half bad.	布莱德	嗯，我确实有些吃惊。\n这种地方的伙食居然也不错。	布萊德	嗯，確實是讓我吃了一驚。\n這種地方的食物其實也挺不錯的。
+CharacterEvent_002_FIN_003ID	10	Magda	マクダ	一仕事終えたんだ。ご褒美も必要だろ？	Magda	A job well done deserves a reward, don't you think?	玛格达	既然工作干完了，当然要奖励一下自己。	瑪格達	做完工作，總是該獎勵自己一下吧？
+CharacterEvent_002_FIN_003ID	11	Roman	ロマン	そのとおり！　特に、素晴らしい仕事をした後はね	Roman	Indeed it does! Especially when it's as spectacularly done as this one was.	罗曼	没错！尤其是在完成一件大工作之后。	羅曼	沒錯！特別是在完成出色的工作之後。
+CharacterEvent_002_FIN_003ID	12	Juna	ユナ	お疲れ様です、ブラッド殿	Juna	Good work, Seneschal.	尤娜	您辛苦了，布莱德阁下。	尤娜	布萊德大人，你辛苦了。
+CharacterEvent_002_FIN_003ID	13	Brad	ブラッド	こんな所にも君が来るとは……いいのか？	Brad	I didn't expect to find you two in a place like this. Should you be here?	布莱德	你居然也会来这种地方……不会有问题吗？	布萊德	你來這種地方……沒問題嗎？
+CharacterEvent_002_FIN_003ID	14	Roman	ロマン	今は冒険者のロマンさ。\nここのハンバーガー、うまかっただろう？	Roman	Right now I'm just Roman the adventurer, you see. The burgers here are great, aren't they?	罗曼	现在的我是冒险者罗曼。\n这里的汉堡包很好吃吧？	羅曼	我現在可是冒險者羅曼。這裡的漢堡很美味吧？
+CharacterEvent_002_FIN_003ID	15	Brad	ブラッド	……そうだな	Brad	They are.	布莱德	……是。	布萊德	……沒錯。
+CharacterEvent_002_FIN_003ID	16	Roman	ロマン	いろんな所で実際に見たり聞いたり、\n食べたりしないとこういうものは見つけられない	Roman	There's no way you can discover things like this without actually going out into the world and seeing, hearing, and eating them for yourself.	罗曼	如果不是去各地实际接触过、品尝过各种料理，\n是找不到这种地方的。	羅曼	俗話說百聞不如一見，\n如果不親身體驗與品嚐，是無法有這種發現的。
+CharacterEvent_002_FIN_003ID	17	Roman	ロマン	私がやっているのは、君がやっていることと同じさ！	Roman	You and I are doing the same thing.	罗曼	我所做的事和你做的没什么区别。	羅曼	我在做的事情跟你也一樣。
+CharacterEvent_002_FIN_003ID	18	Brad	ブラッド	そういうことにしておいてやる	Brad	Sure, if you say so.	布莱德	我就当是这么回事吧。	布萊德	就姑且當作是這樣吧。
+CharacterEvent_002_FIN_003ID	19	Roman	ロマン	では、私たちは失礼するよ。二人はごゆっくり	Roman	All right, we'll be on our way! I hope you both enjoy yourselves.	罗曼	那我们就先告辞了。二位慢用。	羅曼	那我們倆就先告辭了，請兩位慢慢享用。
+CharacterEvent_002_FIN_003ID	20	Magda	マクダ	……あいつ、王族だろ？	Magda	That guy's royalty, right?	玛格达	那个人……是王族吧？	瑪格達	……那傢伙是王族吧？
+CharacterEvent_002_FIN_003ID	21	Brad	ブラッド	なぜそう思う？	Brad	What makes you say that?	布莱德	为什么这么想？	布萊德	妳為何會這麼想？
+CharacterEvent_002_FIN_003ID	22	Magda	マクダ	一緒に居た女、隙がまるでなかった。\nとんでもない強さだ	Magda	The lady with him was lock-tight on guard. She's crazy strong.	玛格达	跟他在一起的那个女人一点破绽都没有，\n实力非常强大。	瑪格達	與他同行的女人絲毫沒有破綻，身手絕不尋常。
+CharacterEvent_002_FIN_003ID	23	Magda	マクダ	白夜の騎士の中でも上位に入るだろ。\nそんな奴が守るとしたら、王族くらいだ	Magda	She's gotta be top-rank even among the Knights of the Midnight Sun, and if you've got someone like that protecting you, you've gotta be royalty.	玛格达	就算在白夜骑士里也排得上号。\n能让她担当护卫的，恐怕只有王族。	瑪格達	在白夜騎士中肯定也是數一數二，\n而會需要她親自護衛的人，大概也只有王族了。
+CharacterEvent_002_FIN_003ID	24	Magda	マクダ	俺の勘だと……リヒャルト・ランターナだな	Magda	My intuition says...that was Richard Lantarna.	玛格达	我的直觉告诉我……那个男人是理查德·兰塔纳。	瑪格達	直覺告訴我……是理查德‧蘭塔納。
+CharacterEvent_002_FIN_003ID	25	Brad	ブラッド	見事な勘だ……と言いたいところだが	Brad	"""What incredible intuition!"" ...is what I wish I could say, but..."	布莱德	你的直觉很准。虽然我想这么说……	布萊德	雖然我很想稱讚妳的直覺……
+CharacterEvent_002_FIN_003ID	26	Brad	ブラッド	私について調べた時に、リヒャルトと私が学生時代\n同期だったということを知っていてカマをかけたな	Brad	You found out that Richard and I were classmates growing up when you looked into me, and you were simply trying to trick me into confirming it.	布莱德	但你应该是在调查时得知理查德和我在读书时同级，\n故意套我话吧。	布萊德	但妳在調查我的時候，應該早就知道\n理查德和我是同學，所以才這麼說的吧？
+CharacterEvent_002_FIN_003ID	27	Magda	マクダ	おっと。バレたか。\nなんか噂では仲悪いんだって？	Magda	All right, you got me! Well, did I also hear right that you two don't get along?	玛格达	啊，被你发现了。听说你跟他关系不好？	瑪格達	哎呀，露餡了。聽說你們倆感情不太好？
+CharacterEvent_002_FIN_003ID	28	Brad	ブラッド	……そういうわけではない	Brad	No, that's not exactly right.	布莱德	并非如此……	布萊德	……倒也不是。
+CharacterEvent_002_FIN_003ID	29	Brad	ブラッド	私とあいつは同年代で、貴族たちが通う学園では\n二年間学友として過ごした	Brad	He and I went to an academy attended by aristocrats. We were the same age and spent two years there as school friends.	布莱德	我与他同龄，在贵族学校做过两年同学。	布萊德	我和那傢伙同年，\n在貴族學園當了兩年的同學。
+CharacterEvent_002_FIN_003ID	30	Brad	ブラッド	あいつは何をするにも器用だった。\n勉学も、武術も……	Brad	He was good at anything and everything, be it academics or martial arts.	布莱德	文理、武术……他不管学什么都很有天分。	布萊德	那傢伙簡直無所不能，\n無論是學習還是武術都難不倒他……
+CharacterEvent_002_FIN_003ID	31	Brad	ブラッド	学園で一年目の試験。あいつが一位で私が二位だった。\n私以上の人間に出会ったのは、それが初めてだった	Brad	He scored the highest, while I scored the second highest in the academy's first-year exams. That was the first time I'd ever met someone who could outscore me.	布莱德	在学校第一年的考试中，他第一，我第二。\n那是我第一次遇到比我更优秀的人。	布萊德	在學園第一年的考試，那傢伙拿了第一，我則是第二。\n這是我第一次遇到比我厲害的人。
+CharacterEvent_002_FIN_003ID	32	Brad	ブラッド	初めてのライバルだった。必死に勉強をして、\n二年目からは私がまた一位に返り咲いた	Brad	It was the first time I'd ever had a rival, and I studied desperately to reclaim my place at the top during our second year.	布莱德	他也是我的第一位对手。我拼命学习，\n终于从第二年开始又取回了第一名的位置。	布萊德	於是他成了我的第一個對手。\n在那之後我埋頭苦讀，第二年終於拿回了第一名。
+CharacterEvent_002_FIN_003ID	33	Brad	ブラッド	そんな二人だ。私はいずれ自分とリヒャルト二人で、\n王国を導いていく存在になると思っていたんだ	Brad	That sums it up. I was certain that the two of us would someday grow up to lead the kingdom.	布莱德	那时我以为，将来我会和理查德携手并肩，\n带领王国向前发展。	布萊德	我一直深信，總有一天我和理查德兩人\n會接下帶領國家前進的重任。
+CharacterEvent_002_FIN_003ID	34	Brad	ブラッド	しかしある日、リヒャルトは言った。\n自分は自由を愛している。王宮に縛り付けられたくない	Brad	Then one day, Richard came out and said it: it was freedom he loved. He couldn't stand to be tied down by the palace.	布莱德	但某天理查德突然说，他热爱自由，\n不愿被王宫所束缚。	布萊德	但在某天，理查德突然主張自己熱愛自由，\n不想受縛於王宮。
+CharacterEvent_002_FIN_003ID	35	Brad	ブラッド	王子としてあり得ない心得だと思った。\n私は彼を問い詰め……仲違いした	Brad	I felt this was unfathomable coming from a prince, and so I confronted him about it...and that was the end of our friendship.	布莱德	身为王子，他的想法过于荒谬。\n我质问他究竟是怎么回事……并从此分道扬镳。	布萊德	我認為這不是王子應該有的想法。\n所以前去質問他……並起了衝突。
+CharacterEvent_002_FIN_003ID	36	Brad	ブラッド	それ以来ソリが合わなくなったのだ	Brad	We haven't been able to see eye to eye since.	布莱德	自那之后，我们之间就一直合不来。	布萊德	從此以後，我們就漸行漸遠了。
+CharacterEvent_002_FIN_003ID	37	Brad	ブラッド	……だが、今でも同じ未来を見ていると\n私は思っている	Brad	But I am certain that we still share a common vision for the future.	布莱德	但我认为……\n如今的我们依旧期望着同一个未来。	布萊德	……不過，我現在還是認為我們未來的目標是一致的。
+CharacterEvent_002_FIN_003ID	38	Brad	ブラッド	少なくとも、オルペウス殿下を尊敬し、\n支えていこうとしている点については一緒のはずだ	Brad	At the very least, we share a respect for Orpheus, the crown prince, and wish to continue supporting him.	布莱德	至少在尊敬并支持奥菲斯殿下这一点上，\n我和他想法一致。	布萊德	至少，我們都很尊敬奧菲斯殿下，也都想努力輔佐他。
+CharacterEvent_002_FIN_003ID	39	Magda	マクダ	……なるほどな	Magda	Mmhmm, I see.	玛格达	这样啊……	瑪格達	……原來如此。
+CharacterEvent_002_FIN_003ID	40	Magda	マクダ	お前、よっぽどリヒャルトがお気に入りってわけだ	Magda	So you're pretty fond of this Richard fella, huh?	玛格达	看来你很中意理查德啊。	瑪格達	你很欣賞理查德啊。
+CharacterEvent_002_FIN_003ID	41	Brad	ブラッド	何？　お気に入りなどでは……	Brad	What? I don't know if I'd say that...	布莱德	什么？才没有这回事……	布萊德	什麼？我並不是欣賞他……
+CharacterEvent_002_FIN_003ID	42	Magda	マクダ	照れるなよ。アイツについて語るお前、\n熱が入りすぎだぜ。すげぇ一気に喋ってたぞ	Magda	Come on, don't get all bashful! You talk about that guy with sooo much passion. You just spilled your guts out!	玛格达	别害羞嘛。你一聊到他的话题就充满热情，\n一口气说个没完。	瑪格達	少害羞了。你一談到他就情緒激動得不得了，\n嘴巴根本停不下來。
+CharacterEvent_002_FIN_003ID	43	Brad	ブラッド	……	Brad	...	布莱德	……	布萊德	……
+CharacterEvent_002_FIN_003ID	44	Brad	ブラッド	（そうではない。私はきっと、気に入らなかったのだ）	Brad	(No, it can't be. I definitely did not take a liking to him.)	布莱德	（不是这样。我就是看不惯他。）	布萊德	（不，我想我一定是看不慣那傢伙。）
+CharacterEvent_002_FIN_003ID	45	Brad	ブラッド	（私がアイツをライバル視しているのに、あいつに\n　とってはただの学友の一人にすぎなかったのが）	Brad	(I saw him as a rival, but I was nothing more than one of many school friends to him.)	布莱德	（我把他当做我的对手，但在他眼里，\n　我却只是同级生中的一员。）	布萊德	（因為明明我將他視為對手，\n　但他卻只把我當成普通的同學。）
+CharacterEvent_002_FIN_003ID	46	Brad	ブラッド	（あいつはもっと私を意識し、頼るべきなのだ……）	Brad	(He ought to realize that I'm someone he needs to rely on more.)	布莱德	（他应该更加在意我、依赖我才对……）	布萊德	（那傢伙應該要更重視、依賴我才對……）
+CharacterEvent_002_FIN_003ID	47	Magda	マクダ	……ハッ。何が“氷のブラッド”だ	Magda	"Pfft, and they call you ""Icy Brad."""	玛格达	哈……什么“冰之布莱德”啊。	瑪格達	……哈，你哪裡像是「冰之布萊德」了。
+CharacterEvent_002_FIN_003ID	48	Magda	マクダ	無味乾燥ないい子ちゃんかと思ってたけど、\nなかなかどうして。結構人間臭いところありそうじゃん	Magda	I was thinking you were this dull, dry golden boy, but wow, was I wrong! Look at you! You're just as human as the rest of us, aren'tcha?	玛格达	我还以为你只是个没意思的乖小孩，\n没想到也是个有血有肉的人。	瑪格達	我本來以為你是個無色無味的乖乖牌，\n結果其實也是個有血有肉的人的嘛！
+CharacterEvent_002_FIN_003ID	49	Brad	ブラッド	言っていろ	Brad	Whatever you say.	布莱德	随便你怎么说。	布萊德	隨便妳怎麼說。
+CharacterEvent_002_FIN_003ID	50	Magda	マクダ	堅物としては立場もあるだろうから、\n色々大変なんだろうけどよ	Magda	I'm sure things are tough for you, being THE wise guy and all.	玛格达	想来你会变成死脑筋也是出于自己的立场，\n也挺不容易的。	瑪格達	我知道死腦筋你也有必須堅守的立場，\n想必你背後也有很多辛酸吧。
+CharacterEvent_002_FIN_003ID	51	Magda	マクダ	あんまそういうの、ため込みすぎるなよ。\n話ならメシおごってくれるなら聞いてやるぜ	Magda	But don't go holdin' everything in. I'm here to listen anytime. As long as you treat me to some good grub, that is. Hehe.	玛格达	不过也别老是憋着。只要请我吃饭，\n我也可以听你发发牢骚。	瑪格達	別把煩惱都憋在心理。\n只要請我吃飯，我隨時都能聽你說。
+CharacterEvent_002_FIN_003ID	52	Brad	ブラッド	……	Brad	...	布莱德	……	布萊德	……
+CharacterEvent_002_FIN_003ID	53	Brad	ブラッド	（まるで友人みたいな物言いだな。\n　同じ仕事を共にしたに過ぎない関係だろうに）	Brad	(She's talking to me almost like we're friends. We've only worked together, though, nothing more...)	布莱德	（这语气就好像我们是朋友似的。\n　明明只是一起工作过的关系罢了。）	布萊德	（口氣像在跟朋友聊天一樣，\n　明明我們只是一起工作過而已。）
+CharacterEvent_002_FIN_003ID	54	Brad	ブラッド	（……いや、どうなんだ。ここまで自分のことを\n　人に話したのは初めてかもしれない）	Brad	(But now that I think about it...this might be the first time I've ever shared this much about myself with anyone.)	布莱德	（不……该怎么说呢。\n　也许我还是第一次如此对人敞开心扉。）	布萊德	（……不，或許並非那麼單純。\n　這可能是我第一次對他人訴說這麼多心事。）
+CharacterEvent_002_FIN_003ID	55	Brad	ブラッド	（彼女は粗雑で、暴力的で、品のない人物だが……\n　その強引さが私の本心を引き出したのか）	Brad	(She's crude, violent, and just plain unruly. But it's almost as if her forcefulness brought out my true feelings.)	布莱德	（虽然她大大咧咧、暴力、粗野……\n　但说不定就是她强硬的态度让我说出了真心话。）	布萊德	（雖然她粗暴又魯莽，毫無氣質可言……\n　但也許正是她那蠻橫的態度撬開了我的心防。）
+CharacterEvent_002_FIN_003ID	56	Brad	ブラッド	（私が“氷”なら、彼女は“炎”なのだろう）	Brad	(If I'm ice, then she's definitely fire.)	布莱德	（如果我是“冰”，那她就是“火”。）	布萊德	（如果說我是「冰」，那她肯定是「火」吧。）
+CharacterEvent_002_FIN_003ID	57	Brad	ブラッド	（ヴァレリアのことを調べるという仕事は終わった。\n　であれば、私と彼女の契約は終了）	Brad	(Since our work investigating Valeria is done, that means the agreement between the two of us is also finished.)	布莱德	（调查瓦莱莉娅的工作已经完成。\n　这样一来，我和她的契约也结束了。）	布萊德	（調查瓦萊莉婭的工作已經結束，\n　我和她的契約也將到此為止。）
+CharacterEvent_002_FIN_003ID	58	Brad	ブラッド	（行動を共にするのもこれまでだ。\n　ただの仕事仲間なのだから）	Brad	(There's no need for us to stick together anymore, seeing that we're only work colleagues.)	布莱德	（之后我无需再和她一起行动。\n　我们只是普通的工作伙伴罢了。）	布萊德	（從此以後將分道揚鑣。\n　畢竟我們只是工作夥伴罷了。）
+CharacterEvent_002_FIN_003ID	59	Brad	ブラッド	（……そうだろう？）	Brad	(Right?)	布莱德	（没错吧……？）	布萊德	（……是嗎？）
+CharacterEvent_002_FIN_003ID	60		選択肢	彼女は仕事仲間だ	Selection	She's just a work colleague	选项	她只是工作伙伴	選項	她是工作夥伴
+CharacterEvent_002_FIN_003ID	61	Brad	ブラッド	（……そう、利害関係が一致した仕事仲間にすぎない。\n　私が強引に彼女を従わせた）	Brad	(Exactly. We are nothing more than work colleagues whose interests happened to align. In fact, I'm the one who forced her to cooperate.)	布莱德	（没错……我们只是利害关系一致的工作伙伴。\n　是我强行让她协助我的。）	布萊德	（……沒錯，不過只是利害關係一致的工作夥伴。\n　是我強迫她與我合作的。）
+CharacterEvent_002_FIN_003ID	62	Brad	ブラッド	（であれば、一刻も早く解放してやるべきだろう）	Brad	(So I need to let her get back to her own life without a moment to spare.)	布莱德	（那么，我也应该尽快让她获得解放。）	布萊德	（既然如此，還是早點放她走吧。）
+CharacterEvent_002_FIN_003ID	63	Brad	ブラッド	……それには及ばない。迷惑をかけたな	Brad	That won't be necessary. I've already caused you enough trouble.	布莱德	没那个必要。给你添麻烦了。	布萊德	……沒那個必要。抱歉，帶給妳這麼多困擾。
+CharacterEvent_002_FIN_003ID	64	Magda	マクダ	迷惑？	Magda	Trouble?	玛格达	麻烦？	瑪格達	困擾？
+CharacterEvent_002_FIN_003ID	65	Brad	ブラッド	そもそもと言えば、なかば脅す形で君を強引に\n従わせたところから我々の関係は始まったのだったな	Brad	Yes. We only started working together because I basically coerced you into helping me.	布莱德	说到底，是我用半威胁的手段强行要求你协助工作，\n才变成了现在这样。	布萊德	回想起來，我們之間的關係是從我以幾近威脅的方式，\n　要求妳協助我而開始的。
+CharacterEvent_002_FIN_003ID	66	Brad	ブラッド	申し訳なかった	Brad	I apologize for my behavior.	布莱德	抱歉。	布萊德	真的非常抱歉。
+CharacterEvent_002_FIN_003ID	67	Magda	マクダ	なんで謝んだよ	Magda	What're you apologizing for?	玛格达	你道什么歉啊。	瑪格達	你為什麼要道歉？
+CharacterEvent_002_FIN_003ID	68	Brad	ブラッド	護衛の依頼料は後程送る。世話になった。\n君はもう自由だ	Brad	I'll send you payment for your guard services later. I thank you sincerely. Now, go—you're free to do as you please.	布莱德	担任护卫的委托费会之后送去给你。\n这段时间辛苦你了，你自由了。	布萊德	護衛的費用我之後會再付給妳，感謝妳的協助。\n妳現在已經自由了。
+CharacterEvent_002_FIN_003ID	69	Brad	ブラッド	ヴァレリアについて何か分かったら必ず連絡する	Brad	You'll hear from me if I find out anything new about Valeria.	布莱德	要是有瓦莱莉娅的消息，我一定会联系你的。	布萊德	一旦得到瓦萊莉婭的新情報，我會聯絡妳的。
+CharacterEvent_002_FIN_003ID	70	Magda	マクダ	……そうかよ。分かった	Magda	Uh-huh, okay. Fine.	玛格达	是吗……我明白了。	瑪格達	……是嗎，我明白了。
+CharacterEvent_002_FIN_003ID	71	Magda	マクダ	こちらも世話になった。ヴァレリアについて\n色々教えてくれてありがとな	Magda	Well, thanks for tellin' me all that stuff about Valeria and everything.	玛格达	这段时间也多谢你照顾了。\n谢谢你告诉我这么多关于瓦莱莉娅的事。	瑪格達	我也很感謝你的照顧，\n謝謝你告訴我有關瓦萊莉婭的一切。
+CharacterEvent_002_FIN_003ID	72	Magda	マクダ	それじゃ……	Magda	See you around then.	玛格达	那……	瑪格達	那就……
+CharacterEvent_002_FIN_003ID	73	Magda	マクダ	あばよ、堅物	Magda	Later, wise guy.	玛格达	再见了，死脑筋。	瑪格達	再會了，死腦筋。
+CharacterEvent_002_FIN_003ID	74		選択肢	彼女は友人だ	Selection	She's a friend	选项	她是朋友	選項	她是我的朋友
+CharacterEvent_002_FIN_003ID	75	Brad	ブラッド	（……嘘は良くないな、ブラッド。\n　単なる仕事仲間などではないだろう？）	Brad	(No, no, don't kid yourself, Brad. You know very well she's not just some work colleague.)	布莱德	（……不要欺骗自己，布莱德。\n　你很清楚你们并不仅仅是工作伙伴吧？）	布萊德	（……你不應該欺騙自己，布萊德。\n　她應該不只是工作夥伴吧？）
+CharacterEvent_002_FIN_003ID	76	Brad	ブラッド	（もしそう思っているのなら、\n　今日私はハンバーガーなどおごらなかったはずだ）	Brad	(If you really thought of her that way, you wouldn't have treated her to that hamburger today, would you?)	布莱德	（若真是如此，今天我也不会请她吃汉堡了。）	布萊德	（如果你真的這麼想，今天就不會請她吃漢堡了。）
+CharacterEvent_002_FIN_003ID	77	Brad	ブラッド	（ここで意地を張るとどうなるか。\n　リヒャルトでお前は学んだはずだろう）	Brad	(Are you really going to be stubborn just for the sake of it? Didn't you learn your lesson with Richard?)	布莱德	（这种时候还死要面子的下场会如何，\n　经过理查德那次你已经明白了吧。）	布萊德	（在這種時候逞面子會有什麼結果，\n　你已經從理查德身上學到了吧。）
+CharacterEvent_002_FIN_003ID	78	Brad	ブラッド	（ブラッドリー・カーンよ。\n　お前は、二度は間違えない男だ）	Brad	(Last I checked, you were a man who doesn't make the same mistake twice.)	布莱德	（布莱德利·卡恩，你一向不会重蹈覆辙的。）	布萊德	（布萊德利‧卡恩，你不是會重蹈覆轍的男人。）
+CharacterEvent_002_FIN_003ID	79	Brad	ブラッド	……そうだな。そこまで言うのなら\nいずれ話を聞いてもらおう	Brad	All right, if you insist. In that case...	布莱德	嗯……那我就恭敬不如从命了。	布萊德	……確實。既然妳都這麼說了，改天再請妳聽我說說。
+CharacterEvent_002_FIN_003ID	80	Brad	ブラッド	護衛の依頼料は食事で払うということでいいな？	Brad	Treating you to a nice meal is payment enough for your guard services, right?	布莱德	另外护卫的委托费，就用请客来结吧？	布萊德	護衛的費用就用餐費來抵吧。
+CharacterEvent_002_FIN_003ID	81	Magda	マクダ	は！？　それは話が別だろ！	Magda	What?! Come on, that's different!	玛格达	啊？！这是两码事吧！	瑪格達	啥！？那是兩回事吧？
+CharacterEvent_002_FIN_003ID	82	Brad	ブラッド	今のは冗談だ。私も冗談ぐらいは言う	Brad	I'm just kidding. You know I'm capable of a joke, don't you?	布莱德	开个玩笑。我也是会开玩笑的。	布萊德	開玩笑的，不要以為我沒有幽默感。
+CharacterEvent_002_FIN_003ID	83	Magda	マクダ	あああああ、クソが！！！	Magda	Hah! Shut up!	玛格达	啊啊啊啊啊，你个混蛋！！！	瑪格達	啊啊啊啊，混帳！！！
+CharacterEvent_002_FIN_003ID	84	Brad	ブラッド	その言葉選びは、やめておけ	Brad	Hey now, watch your mouth.	布莱德	你改一改你的说话方式吧。	布萊德	說話別那麼粗魯。
+CharacterEvent_002_FIN_003ID	85	Brad	ブラッド	まったく風のような奴だ、昔から変わらない	Brad	Carefree as ever, I swear. Same as always.	布莱德	他还是跟以前一样，是个像风一样的家伙啊。	布萊德	那傢伙還是老樣子，像風一樣。
+CharacterEvent_002_FIN_003ID	86	Magda	マクダ	おい、なんかすげぇ真面目に悩んでるな、どうした	Magda	And what are you so serious for, huh?	玛格达	喂，你好像很烦恼啊，怎么了？	瑪格達	喂，你看起來好像很煩惱，怎麼了嗎？
+CharacterEvent_002_FIN_004ID	0	Magda	マクダ	おい……なんだよここ！　絶対高いよな！？\n俺が入っていいような場所じゃねーだろ！	Magda	Whoa! Take a look at this place! It's gotta be crazy expensive. Definitely not the kind of place that'd welcome me.	玛格达	喂……这是什么地方！肯定很贵吧？！\n不是我这种人该来的地方吧！	瑪格達	喂……你沒搞錯吧！這裡一定很貴吧！？\n怎麼看都不是我這種人該來的地方！
+CharacterEvent_002_FIN_004ID	1	Brad	ブラッド	私の友人なのだから、何も問題はない	Brad	Don't worry, it's my friend's place.	布莱德	你是我的朋友，来这里当然没有问题。	布萊德	沒問題的，因為妳是我的朋友。
+CharacterEvent_002_FIN_004ID	2	Magda	マクダ	はあ……今度は私が美味い所に連れてってやる、\nなんて言葉に釣られて、ほいほい来るんじゃなかったぜ	Magda	*Sigh* I shouldn't have been so easily won over by you and your promise of some good grub.	玛格达	唉……你说要请我吃好吃的东西，\n我就屁颠屁颠跟过来了，早知道不该来的。	瑪格達	唉……真不該被「下次我帶妳去吃好吃的」這句話給騙來。
+CharacterEvent_002_FIN_004ID	3	Magda	マクダ	……いや、せっかくなら思いっきり味わわないとな！\nソースの最後の一滴まで舐め取ってやる！	Magda	Whatever! Since we're here, I'm gonna savor every single bite! I'm gonna lick the sauce down to the very last drop!	玛格达	不对……来都来了，那就吃个尽兴！\n我要连酱汁都全部舔干净！	瑪格達	……不，既然都來了，就該好好品嘗！\n連醬汁都要舔得一滴不剩！
+CharacterEvent_002_FIN_004ID	4	Brad	ブラッド	やめろ、はしたない	Brad	Don't you dare be so vulgar.	布莱德	不要这样，太没教养了。	布萊德	拜託妳別這麼做，很難看。
+CharacterEvent_002_FIN_004ID	5	Brad	ブラッド	それに、これは今後護衛として連れまわす報酬の\n先払いでもある。遠慮すると損するのは自分だぞ	Brad	Plus, this is an advance on your payment for accompanying me as a guard. It's your loss if you pass it up.	布莱德	这也算是今后请你担任护卫的定金，\n你要是客气的话到头来吃亏的还是你自己。	布萊德	而且我今後還會雇用妳當護衛，這頓飯就當作是訂金。\n太客氣的話，吃虧的可是妳自己。
+CharacterEvent_002_FIN_004ID	6	Magda	マクダ	はーん。まったく。そういう言い訳が無いと、\n食事にも誘えないのか、この堅物は	Magda	Ah, I see... Wise guy here needs an excuse just to bring me along for a meal, huh?	玛格达	哼。你这死脑筋，\n不找个借口就不敢邀请我吃饭吗。	瑪格達	哦～真拿你沒辦法。你這死腦筋，\n就連邀人吃飯都非得找理由不可嗎？
+CharacterEvent_002_FIN_004ID	7	Brad	ブラッド	そうか、いらないなら皿を下げてもらおう	Brad	Uh-huh. Okay, I'll have them take your plate then, since you don't need it.	布莱德	哦，既然你不想吃，那我就让人把盘子撤走吧。	布萊德	這樣啊。既然妳不想吃，那我就請服務生把餐點收下去。
+CharacterEvent_002_FIN_004ID	8	Magda	マクダ	あー！　食う食う！	Magda	Wait, stop! I'm here to chow down!	玛格达	这哪行，我高低得整两口！	瑪格達	啊～！別這樣，我還沒嗑夠！
+CharacterEvent_002_FIN_004ID	9	Brad	ブラッド	食う、じゃなくて、食べる、だ	Brad	"You're not going to ""chow down,"" you're going to ""eat."""	布莱德	不要说“整两口”，要说“我要吃”。	布萊德	別用那麼粗俗的說法。
+CharacterEvent_002_FIN_004ID	10	Magda	マクダ	食べます食べます！　容赦ないなお前は	Magda	I shall dine on this fine delicacy. Happy?	玛格达	我要吃我要吃！你也太严格了。	瑪格達	拜託請讓我「品嘗」！你真的很嚴格耶。
+CharacterEvent_002_FIN_004ID	11	Magda	マクダ	まあでも……あんがとよ、ブラッド	Magda	But, uh... Thanks, Brad.	玛格达	不过……多谢啦，布莱德。	瑪格達	不過……布萊德，我還是很感謝你。
+CharacterEvent_002_FIN_004ID	12	Brad	ブラッド	……少しはましな言葉遣いになったな。\nやはりそっちのほうが似合うぞ	Brad	Your rough talk has smoothed out a bit lately. I think it's more becoming of you.	布莱德	说话方式这样好点了……果然还是这样更适合你。	布萊德	……妳的語氣稍微沒那麼粗魯了。\n果然這樣子比較適合妳。
+CharacterEvent_002_FIN_004ID	13	Magda	マクダ	はは、ぼちぼち気を付けていくよ	Magda	Ahaha. I'm workin' on it, little by little.	玛格达	哈哈，我会尽量注意的。	瑪格達	哈哈，我以後會盡量小心的。
+CharacterEvent_002_FIN_004ID	14	Magda	マクダ	……！　おい堅物！\nこのシチュー、うめぇな！　なんだこれ！	Magda	Oh, wow! Wise guy! This stew is absolutely to die for! You gotta be kiddin' me!	玛格达	唔……！我说死脑筋，\n这个炖菜真是香死人了！这是啥做的啊！	瑪格達	……！喂，死腦筋！\n這燉湯到底是什麼鬼東西！好吃死了！
+CharacterEvent_002_FIN_004ID	15	Brad	ブラッド	うめぇ、じゃなくて、美味しい、だ。\nまったく、ほめたらすぐこれか	Brad	"It's ""delicious,"" not ""to die for."" And just as soon as I complimented you, too. Unbelievable."	布莱德	不要说“香死人了”，要说“美味”。\n真是的，刚夸完你就原形毕露。	布萊德	別說「好吃死了」，說「好吃」就行。\n真是的，才誇妳沒多久就打回原形。
+CharacterEvent_002_FIN_004ID	16	Brad	ブラッド	……まあ、根気よく指摘していけばいいか。\nこの先の長い付き合いの中で	Brad	Oh well, I suppose I'll just have to be patient and keep pointing it out as we go. We've got a long road ahead of us.	布莱德	不过来日方长，\n只要坚持纠正你应该会慢慢改掉吧……	布萊德	……算了，我就耐心點，慢慢提醒妳吧。\n畢竟以後還有很多相處的機會。
+CharacterEvent_002_FIN_004ID	17	Magda	マクダ	友人って言われるのは、悪い気しねぇな、へへ	Magda	Is that your way of calling us friends? I don't mind being called a friend. Hehe.	玛格达	被你当做朋友的感觉还不赖，嘿嘿。	瑪格達	被當成朋友的感覺真不錯，嘿嘿。
+CharacterEvent_002_FIN_IF_001ID	0	Brad	ブラッド	敵同士だった相手と、随分親しくなっているのだな	Brad	Despite starting as mutual enemies, you certainly seem to be on good terms.	布莱德	明明原本彼此是敌人，现在倒是变得很亲近嘛。	布萊德	你們和自己的前敵人變得可真親近啊。
+CharacterEvent_002_FIN_IF_001ID	1	Lanze	ランツェ	ああ？　なんだお前は	Lanze	Oh yeah? And who're you?	兰泽	啊？你是什么人？	藍澤	啊？你哪位啊？
+CharacterEvent_002_FIN_IF_001ID	2	Brad	ブラッド	錬金爵のブラッドリーだ。\n今回の作戦に同行させてもらうことになった	Brad	Bradley Khan, Seneschal of Alchemy. I'll be accompanying you on this mission.	布莱德	我是炼金爵布莱德利。\n我会和你们一同参加这次的行动。	布萊德	我是鍊金爵布萊德利。\n這次作戰我將與你們同行。
+CharacterEvent_002_FIN_IF_001ID	3	Heidi	ハイディ	ええっ！？　国のお偉いさんがどうして！？	Heidi	Huh?! Doesn't that mean you're a government bigwig?!	海蒂	什么？！国家的大人物为什么会来啊？！	海蒂	咦咦！？國家的高官為什麼……！？
+CharacterEvent_002_FIN_IF_001ID	4	Brad	ブラッド	錬金爵として、極夜の錬金党は放置できんからな。\nもちろん、元錬金党の者も含めて	Brad	My position demands that I cannot turn a blind eye to any of the Polar Night Alchemists' actions. Past OR present.	布莱德	身为炼金爵，我不能放任极夜的炼金党不管。\n当然，也包含炼金党前成员。	布萊德	因為身為鍊金爵的我不能放任極夜的鍊金黨不管。\n當然，這也包含鍊金黨的前成員。
+CharacterEvent_002_FIN_IF_001ID	5	Brad	ブラッド	私は、リヒャルトのように甘くはない	Brad	Nor am I as easily won over as Richard.	布莱德	我可不像理查德那样天真。	布萊德	我可不像理查德那麼天真。
+CharacterEvent_002_FIN_IF_001ID	6	Lara	ララ	あら、ご挨拶ですこと	Lara	My, what a lovely introduction.	拉拉	哎呀，这么说可真过分。	拉拉	哎呀，你可真有禮貌。
+CharacterEvent_002_FIN_IF_001ID	7	Heidi	ハイディ	ちょい待ち！\nケンカはやめてくださいよ～お二人さん！	Heidi	Whoa, not so fast! We don't need any in-fighting before we've even left!	海蒂	等等！你们不要吵啦～！	海蒂	等一下！拜託你們兩位別吵架啦～！
+CharacterEvent_002_FIN_IF_001ID	8	Brad	ブラッド	（あれから……私はレスナたちと行動を共にすることに\n　なった）	Brad	(I've since begun working alongside Resna and her companions.)	布莱德	（自那之后……我开始和蕾斯娜她们一起行动。）	布萊德	（在那之後……我開始和蕾斯娜一行人一起行動。）
+CharacterEvent_002_FIN_IF_001ID	9	Brad	ブラッド	（錬金術が正しい方向に使われるよう、\n　監視し、時にはサポートする）	Brad	(I ensure that alchemy is used appropriately, and offer my support when needed.)	布莱德	（我负责监督炼金术是否用于正途，\n　偶尔提供支援。）	布萊德	（目的是監視鍊金術是否有被濫用，\n並適時給予協助。）
+CharacterEvent_002_FIN_IF_001ID	10	Brad	ブラッド	（私はその役目を果たさなくてはならない）	Brad	(This is a duty I must carry out.)	布莱德	（我必须履行自己的职责。）	布萊德	（這是我應盡的義務。）
+CharacterEvent_002_FIN_IF_001ID	11	Flocke	フロッケ	み、皆さん仲良くしましょう！　ね！	Flocke	Um! The most important thing is to just get along! Okay?	芙洛可	各、各位，让我们友好相处吧！好不好！	芙洛可	大、大家好好相處吧！好嗎？
+CharacterEvent_002_FIN_IF_001ID	12	Lanze	ランツェ	そうだぜ。\nったく、天使ちゃんに気遣わせてんじゃねえよ	Lanze	Yeah, that. Quit makin' our little angel all anxious!	兰泽	就是啊。\n真是的，别让小天使担心啊。	藍澤	就是啊。\n真是的，別讓小天使費心啦。
+CharacterEvent_002_FIN_IF_001ID	13	Heidi	ハイディ	はあ……先が思いやられる	Heidi	Ugh... This is going to be the longest trip ever.	海蒂	唉……看来前途堪忧啊。	海蒂	唉……前途未卜啊。
+CharacterEvent_002_FIN_IF_001ID	14	Brad	ブラッド	……	Brad	...	布莱德	……	布萊德	……
+CharacterEvent_002_FIN_IF_001ID	15	Brad	ブラッド	（もしかしたら、彼女も共にこの旅に同行する。\n　そんな未来もあったのだろうか？）	Brad	(Could it be? Is she joining us for the journey? I didn't foresee this being a possibility.)	布莱德	（会不会在某个未来中，\n　她也加入了这场旅行？）	布萊德	（倘若在不同的未來裡，\n　她是否也會是這趟旅行的一員？）
+CharacterEvent_002_FIN_IF_001ID	16	Brad	ブラッド	（もしそうであれば、この場の空気は\n　もっと砕けたものになったかもしれない）	Brad	(If that's the case, things might get less focused.)	布莱德	（如果她也加入了，\n　气氛也许会更缓和一些吧。）	布萊德	（如果她在這裡的話，氣氛或許會更加融洽。）
+CharacterEvent_002_FIN_IF_001ID	17	Brad	ブラッド	（……気にするな。仕事だ。\n　私は私の役割を果たせばいい）	Brad	(But never mind that—it's time to get to work. All I need to worry about is doing my job.)	布莱德	（……别太在意。这是工作。\n　我只要履行自己的职责就好。）	布萊德	（……別想了，這是工作。我只需要完成我的使命。）
+CharacterEvent_002_FIN_IF_001ID	18	Brad	ブラッド	（他に重要なことなど、無いはずなのだから）	Brad	(Nothing else should matter.)	布莱德	（其他的事都不重要。）	布萊德	（不可能會有任何事，比這更重要。）

@@ -5,8 +5,8 @@ A25_DB = '/shared/Projects/resleriana-db/resources'
 dialog = "TextAsset/Dialogue"
 
 events = {}
-folders = ["SeasonalTalkEvent", "LegendEvent", "Date", "TalkEvent"]
-folders_jp = ["CharacterEvent", "SeasonalEvent"]
+folders = ["SeasonalTalkEvent", "LegendEvent", "Date", "TalkEvent", "CharacterEvent"]
+folders_jp = [ "SeasonalEvent"]
 folders_gbl = ["Atelier_Talk", "CityTalkEvent"]
 
 for folder in folders + folders_jp:

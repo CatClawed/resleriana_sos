@@ -29,7 +29,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 80031	金剛ゴーレム	Diamond Golem	金刚魔巨人	金剛魔巨人
 80034	森林クラゲ	Forest Jellyfish	森林水母	森林水母
 80035	兇翼 ブリード	Bleed, Wings of Calamity	凶翼　喋血	凶翼 喋血
-80038	巨像の兵士			
+80038	巨像の兵士	Colossus Soldier	巨像士兵	巨像士兵
 80039	スプリントバード	Sprinting Bird	快跑鸟	快跑鳥
 80040	ワイルドクレスト	Wild Crest	野生大冠鸡	野生大冠雞
 80042	マルシュホルン	Marshorn	腐毒角虫	腐毒角蟲
@@ -173,21 +173,21 @@ id	name	name_en	name_zh-CN	name_zh-TW
 80190	バーニングローズ	Burning Rose	烈焰玫瑰	烈焰玫瑰
 80191	ダスクレイブン	Dusk Raven	薄暮乌鸦	薄暮烏鴉
 80192	巨木兵	Big Tree Soldier	巨木兵	巨木兵
-80193	悠久の守り手			
+80193	悠久の守り手	Eternal Guardian	悠久守护者	悠久守護者
 80194	[爆弾娘]マリー	[Bomberwoman] Marie	[炸弹女孩]玛莉	[炸彈女孩]瑪莉
-80195	ミーケ			
-80196	ディオーナ			
+80195	ミーケ	Mieke	米珂	米珂
+80196	ディオーナ	Diona	蒂欧娜	蒂歐娜
 80197	[嵐の風雲児]ユーディー	[Storm Prodigy] Judie	[暴风雨般的风云人物]优蒂	[暴風般的風雲人物]優蒂
-80200	奈落の暴君			
+80200	奈落の暴君	Abyssal Tyrant	地狱暴君	地獄暴君
 80201	コズミックシェル	Cosmic Shell	宇宙壳	宇宙殼
-80202	ブラックリーパー			
-80203	テンタクルス			
-80204	島魚			
-80205	大白島			
+80202	ブラックリーパー	Black Reaper	黑色收割者	闇黑死神
+80203	テンタクルス	Tentacles	触手章鱼	觸手章魚
+80204	島魚	Island Fish	岛鱼	島魚
+80205	大白島	Great White Whale	大白岛	大白島
 80206	[解放者]クリセルダ			
 80207	クリスマスヒツジ			
 80208	[解放者]クリセルダ			
-80209	ラムローストくん1型			
+80209	ラムローストくん1型	Ram Roast Mk. 1	烤羊肉1型	烤羊肉第1型
 80210	鏡もちぷに			
 80211	鏡もちでかぷに			
 80212	ザスキア			

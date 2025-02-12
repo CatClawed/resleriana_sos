@@ -1,256 +1,256 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-Date_NPC11_01ID	0	Totori	トトリ	（ここに来るの、\n　少し久しぶりな気がするな）						
-Date_NPC11_01ID	1	Totori	トトリ	（あれ？　向こうのほう、\n　なんか崩れてる……？）						
-Date_NPC11_01ID	2	Totori	トトリ	あれ？　どうしたんですか、この壁！\nぼろぼろに崩れちゃってますけど						
-Date_NPC11_01ID	3		家主の男	お、トトリちゃんじゃねえか。\nいやぁ、実はそこにいる喧嘩屋が\nやらかしやがってよぉ……						
-Date_NPC11_01ID	4	Totori	トトリ	（喧嘩屋……！\n　噂には聞いていた、あの……！）						
-Date_NPC11_01ID	5		選択肢	あなたが喧嘩屋さんですか？						
-Date_NPC11_01ID	6	Totori	トトリ	あなたが喧嘩屋さんですか？						
-Date_NPC11_01ID	7	???	？？？	おー？\nこのマクダ様から強者の雰囲気を\n感じたか？						
-Date_NPC11_01ID	8	???	？？？	見る目があるじゃねえか						
-Date_NPC11_01ID	9		選択肢	わ、わたし、ケンカ弱いですから！						
-Date_NPC11_01ID	10	Totori	トトリ	わ、わたし、ケンカ弱いですから！						
-Date_NPC11_01ID	11	???	？？？	ん－？\nマクダ様は喧嘩屋だが、\n誰彼構わず殴ったりはしないぜ						
-Date_NPC11_01ID	12	???	？？？	だからそんなに硬くなるなよ						
-Date_NPC11_01ID	13		選択肢	で、その喧嘩屋さんは、どこに……？						
-Date_NPC11_01ID	14	Totori	トトリ	で、その喧嘩屋さんは、どこに……？						
-Date_NPC11_01ID	15	???	？？？	ここだここ！　目の前にいるだろ！						
-Date_NPC11_01ID	16	???	？？？	喧嘩屋とは、このマクダ様のことだ						
-Date_NPC11_01ID	17	Magda	マクダ	俺は、マクダってんだ。\nケンカの依頼は請け負うぜ。\nよろしくな						
-Date_NPC11_01ID	18	Totori	トトリ	わたしはトトリです。\nよろしくお願いします						
-Date_NPC11_01ID	19	Totori	トトリ	（ということは、この破壊されている壁は\n　マクダさんが……？）						
-Date_NPC11_01ID	20	Totori	トトリ	この壁……						
-Date_NPC11_01ID	21		選択肢	マクダさんが壊したんですか？						
-Date_NPC11_01ID	22	Totori	トトリ	マクダさんが壊したんですか？						
-Date_NPC11_01ID	23	Magda	マクダ	あー、まあな						
-Date_NPC11_01ID	24	Magda	マクダ	わざとじゃねえんだが……\nマクダ様がやっちまったことに\n変わりはねえ						
-Date_NPC11_01ID	25		選択肢	とてつもない力で破壊されていますね						
-Date_NPC11_01ID	26	Totori	トトリ	とてつもない力で破壊されていますね						
-Date_NPC11_01ID	27	Magda	マクダ	マクダ様にかかれば、\nどんなもんでも木っ端みじんだぜ！						
-Date_NPC11_01ID	28	Magda	マクダ	……いや、わりぃ。\nこの壁を破壊する気はなかったんだ						
-Date_NPC11_01ID	29		選択肢	むしゃくしゃしちゃったんですか？						
-Date_NPC11_01ID	30	Totori	トトリ	むしゃくしゃしちゃったんですか？						
-Date_NPC11_01ID	31	Magda	マクダ	ちげぇよ！　マクダ様はプロだ。\n見境なく暴れたりはしねぇよ						
-Date_NPC11_01ID	32	Magda	マクダ	マクダ様は喧嘩屋だがな、\nむしゃくしゃして知り合いの家の壁を\n破壊したりはしねぇよ						
-Date_NPC11_01ID	33	Magda	マクダ	実は、喧嘩屋の仕事で、\n相手をここまで追い込んだんだが……						
-Date_NPC11_01ID	34	Magda	マクダ	その相手がなかなかやる奴でよ。\nマクダ様の攻撃がひらひら避けられちまって						
-Date_NPC11_01ID	35	Magda	マクダ	それで壁を壊しちまったんだ……\nほんとわりぃ！						
-Date_NPC11_01ID	36		家主の男	もういいさ。\nわざとじゃねえのは分かってるしな						
-Date_NPC11_01ID	37	Magda	マクダ	それなら、\n壁の修理はマクダ様にやらせてくれ！						
-Date_NPC11_01ID	38	Magda	マクダ	壊しちまった詫びだ。\n前より頑丈な壁にしてやるぜ！						
-Date_NPC11_01ID	39		選択肢	わたしもお手伝いします！						
-Date_NPC11_01ID	40	Totori	トトリ	わたしも壁の修理、お手伝いします！						
-Date_NPC11_01ID	41	Magda	マクダ	おう、ありがとなトトリ！\nいい奴だな、お前						
-Date_NPC11_01ID	42	Magda	マクダ	だがこれはマクダ様のやらかしだからよ。\n気持ちだけもらっとくぜ						
-Date_NPC11_01ID	43		選択肢	前より頑丈に？						
-Date_NPC11_01ID	44	Totori	トトリ	前より頑丈に？						
-Date_NPC11_01ID	45	Magda	マクダ	ああ。どうせなら、それぐらいやるさ						
-Date_NPC11_01ID	46	Magda	マクダ	商売でやってるからな。\n誠意はみせねーと						
-Date_NPC11_01ID	47		選択肢	どうせならかわいくもしませんか？						
-Date_NPC11_01ID	48	Totori	トトリ	どうせならかわいくもしませんか？						
-Date_NPC11_01ID	49	Magda	マクダ	お、いいな！\nここはどこも陰気くせえからな						
-Date_NPC11_01ID	50	Magda	マクダ	マクダ様のオシャレ感覚で\n飾り付けてやるかな						
-Date_NPC11_01ID	51	Magda	マクダ	そういえばトトリお前、一人なのか？						
-Date_NPC11_01ID	52	Totori	トトリ	はい、今は一人ですけど……						
-Date_NPC11_01ID	53	Magda	マクダ	一人で平気か？\nここはそんなに安全じゃないぜ						
-Date_NPC11_01ID	54	Magda	マクダ	マクダ様はこの辺りに住んでるからよ。\n困ったことがあったら頼ってくれていいぜ						
-Date_NPC11_01ID	55	Magda	マクダ	ま、高くつくけどな						
-Date_NPC11_01ID	56	Totori	トトリ	お金取るんですか……						
-Date_NPC11_01ID	57	Magda	マクダ	じゃ、マクダ様は修理に必要なもん\n取ってくるからよ						
-Date_NPC11_01ID	58	Magda	マクダ	気を付けて帰れよートトリ！						
-Date_NPC11_01ID	59		家主の男	マクダはあんなんだがよ、\n悪い奴じゃあねぇんだ。\nよかったら仲良くしてやってくれよ						
-Date_NPC11_01ID	60	Totori	トトリ	はい						
-Date_NPC11_01ID	61	Totori	トトリ	（喧嘩屋さんって聞いて、\n　怖い人かと思ったけど……）						
-Date_NPC11_01ID	62	Totori	トトリ	（ご近所さんに信頼されている\n　いい人みたい）						
-Date_NPC11_02ID	0	Totori	トトリ	（王都でお目当ての物も買えたし、\n　天気もいいから少しお散歩しようかな）						
-Date_NPC11_02ID	1	Totori	トトリ	（あ、あそこで洗濯しているのは……）						
-Date_NPC11_02ID	2		選択肢	マクダさーん！						
-Date_NPC11_02ID	3	Totori	トトリ	マクダさーん！						
-Date_NPC11_02ID	4	Magda	マクダ	おう、トトリ！　また会えたな						
-Date_NPC11_02ID	5	Magda	マクダ	今日は絶好の洗濯日和だぜ。\n陽の光が気持ちいいな						
-Date_NPC11_02ID	6		選択肢	喧嘩屋さーん！						
-Date_NPC11_02ID	7	Totori	トトリ	喧嘩屋さーん！						
-Date_NPC11_02ID	8	Magda	マクダ	なんだ？　仕事か？\nって、トトリじゃねえか！						
-Date_NPC11_02ID	9	Magda	マクダ	困ったことがあるなら、力になるぜ。\nただし、お勉強とかはカンベンな！						
-Date_NPC11_02ID	10		選択肢	壁を壊したマクダさーん！						
-Date_NPC11_02ID	11	Totori	トトリ	壁を壊したマクダさーん！						
-Date_NPC11_02ID	12	Magda	マクダ	トトリ！　声が大きい！						
-Date_NPC11_02ID	13	Magda	マクダ	もしどっかからそのことが\nあの堅物の耳に入ったら、\nまたぐちぐち言われちまうぜ……						
-Date_NPC11_02ID	14	Totori	トトリ	マクダさんって自分のことを様付けして\n喧嘩屋さんをやっているわりには、						
-Date_NPC11_02ID	15	Totori	トトリ	晴れた日に洗濯をするような\n一般的な考えも持ち合わせてるんですね						
-Date_NPC11_02ID	16	Magda	マクダ	まだ知り合ったばかりのわりには\n言うじゃねえか、トトリ。\n正直な奴は好きだぜ						
-Date_NPC11_02ID	17	Magda	マクダ	いいか、マクダ様はとっくに自立してんだ。\n炊事掃除洗濯、どれもお手のもんよ！						
-Date_NPC11_02ID	18	Totori	トトリ	マクダさんって……						
-Date_NPC11_02ID	19		選択肢	一人で暮らしているんですか？						
-Date_NPC11_02ID	20	Totori	トトリ	一人で暮らしているんですか？						
-Date_NPC11_02ID	21	Magda	マクダ	おう、そうだぜ。\nここに住んでるが、\n長く留守にすることもあるからな						
-Date_NPC11_02ID	22	Magda	マクダ	できる時にまとめて洗濯、掃除、\nやっておかねえとな！						
-Date_NPC11_02ID	23		選択肢	お料理できるんですか？						
-Date_NPC11_02ID	24	Totori	トトリ	お料理できるんですか？						
-Date_NPC11_02ID	25	Magda	マクダ	ひゃっひゃっひゃ。\nできなそうに見えるか？						
-Date_NPC11_02ID	26	Magda	マクダ	まあ、人並みにはできるぜ。\n人に振舞えるほどかと言われると、\n微妙かもしれねえが……						
-Date_NPC11_02ID	27		選択肢	喧嘩屋以外にお仕事はされてるんですか？						
-Date_NPC11_02ID	28	Totori	トトリ	喧嘩屋以外にお仕事はされてるんですか？						
-Date_NPC11_02ID	29	Magda	マクダ	いーや、\nマクダ様は喧嘩屋一本でやってるぜ						
-Date_NPC11_02ID	30	Magda	マクダ	まあ、魔物退治とか王宮関連のものとか、\n色んな依頼が来るからよ、\n一本と言っても様々だけどな						
-Date_NPC11_02ID	31		依頼主の男	おい、喧嘩屋マクダはお前だな？\n懲らしめてほしい奴がいる。報酬は出す						
-Date_NPC11_02ID	32	Magda	マクダ	仕事か？\n……初めて見る顔だな。\nここらへんの奴じゃねえな						
-Date_NPC11_02ID	33	Magda	マクダ	まずは話を聞こうじゃねえか。\n受けるかはそれからだ						
-Date_NPC11_02ID	34	Totori	トトリ	あの、マクダさん！\nその依頼、もし受けるなら\nわたしもついていっていいですか？						
-Date_NPC11_02ID	35	Magda	マクダ	ケンカだぞ？　トトリみたいのが\n見てもあまり面白いものじゃないと思うぜ						
-Date_NPC11_02ID	36		選択肢	喧嘩屋さんのお仕事、気になります！						
-Date_NPC11_02ID	37	Totori	トトリ	喧嘩屋さんのお仕事がどんなものか、\n気になります！						
-Date_NPC11_02ID	38	Magda	マクダ	喧嘩屋は遊びじゃねえぞ。\n本気のケンカだ						
-Date_NPC11_02ID	39	Magda	マクダ	いい子のトトリは\n見てられねえんじゃねえか？						
-Date_NPC11_02ID	40		選択肢	マクダさんがケガしたら、手当てします！						
-Date_NPC11_02ID	41	Totori	トトリ	マクダさんがケガした時、\nすぐに手当てできます！						
-Date_NPC11_02ID	42	Magda	マクダ	トトリは優しいな。ありがとよ。\nでもマクダ様は強いから大丈夫だ						
-Date_NPC11_02ID	43	Magda	マクダ	それに、トトリには少し危ねえからよ						
-Date_NPC11_02ID	44		選択肢	見せられないような実力なんですか？						
-Date_NPC11_02ID	45	Totori	トトリ	もしかして……わたしに\n見せられないような実力なんですか？						
-Date_NPC11_02ID	46	Magda	マクダ	マクダ様は星も羨む最強の喧嘩屋だぜ？\nむしろ強すぎて\n注目を浴びまくっちまうほどよ						
-Date_NPC11_02ID	47	Magda	マクダ	だが、トトリも守って戦うのは難しいからな						
-Date_NPC11_02ID	48	Totori	トトリ	うーん、確かに、\nケンカが怖くないわけじゃないですけど……						
-Date_NPC11_02ID	49	Totori	トトリ	わたしはマクダさんが思っているほど\n弱くありませんよ。\n自分の身は自分で守りますから！						
-Date_NPC11_02ID	50	Magda	マクダ	そこまで言うなら、許可してやるよ						
-Date_NPC11_02ID	51	Magda	マクダ	依頼の詳細はマクダ様が聞いておく。\nもうすぐ夜になっちまうから、\nトトリは帰んな						
-Date_NPC11_02ID	52	Magda	マクダ	また明日か明後日に来いよ。\nじゃあなトトリ！						
-Date_NPC11_02ID	53	Totori	トトリ	（マクダさんは喧嘩屋さんだけど、\n　優しい人だな）						
-Date_NPC11_03ID	0	Totori	トトリ	マクダさんこんにちは。\n先日の依頼、どうなりましたか？						
-Date_NPC11_03ID	1	Magda	マクダ	あー、それなんだがよ、今ちょっと調整中だ。\n悪いがあの依頼はまた後日な						
-Date_NPC11_03ID	2	Totori	トトリ	調整中……？						
-Date_NPC11_03ID	3	Magda	マクダ	代・わ・り・に。魔物討伐の依頼を受けたぜ！\n魔物相手のケンカだが、ついてくるか？						
-Date_NPC11_03ID	4	Totori	トトリ	はい、せっかくなのでついていきます						
-Date_NPC11_03ID	5	Magda	マクダ	っしゃ！　いっちょあがりぃ！						
-Date_NPC11_03ID	6	Magda	マクダ	見たかトトリ！　これが喧嘩屋マクダ様の実力だぜ！						
-Date_NPC11_03ID	7	Totori	トトリ	マクダさんって、すごく豪快に戦うんですね。\n全身ぼろぼろじゃないですか						
-Date_NPC11_03ID	8	Totori	トトリ	わたしが無傷なのが奇跡みたいですよ						
-Date_NPC11_03ID	9	Magda	マクダ	そりゃ、トトリに魔物が向かわないように戦ったしな						
-Date_NPC11_03ID	10	Magda	マクダ	それに、マクダ様は有能な喧嘩屋だからよ。\nもうこの間みてぇに、辺りに被害は出さないぜ						
-Date_NPC11_03ID	11	Totori	トトリ	（わたしに魔物が向かって来なかったのは\n　マクダさんのおかげだったんだ……）						
-Date_NPC11_03ID	12	Totori	トトリ	あっ、マクダさん、ケガしていませんか？\n治療しましょう。座ってください！						
-Date_NPC11_03ID	13	Magda	マクダ	治療？　いらねえって。\nこれくらい大したことねえよ						
-Date_NPC11_03ID	14	Totori	トトリ	ダメです！　治療しますよ！						
-Date_NPC11_03ID	15	Magda	マクダ	ひゃっひゃっひゃ。トトリはマクダ様の姉かー？						
-Date_NPC11_03ID	16	Totori	トトリ	でも、あれだけ強引な戦い方だったのに、\nこれだけのケガで済んでいるのには驚きました……						
-Date_NPC11_03ID	17	Magda	マクダ	だろー？　トトリにも分かっちまったか。\nマクダ様の有能さがな						
-Date_NPC11_03ID	18	Totori	トトリ	あまり無茶しないでくださいよ。\nはい、傷薬塗りますねー						
-Date_NPC11_03ID	19	Magda	マクダ	っつあー！　沁みるぅー！						
-Date_NPC11_03ID	20	Magda	マクダ	あー、ケンカしたら腹減ったな。\nなんか持ってくればよかったぜ						
-Date_NPC11_03ID	21	Magda	マクダ	ん？　食い物のこと考えてたら、\nなんかいい匂いがしてきた気が……						
-Date_NPC11_03ID	22	Totori	トトリ	あ、そういえばさっき錬金術で焼いたおさかなパイなら\nありますよ。食べますか？						
-Date_NPC11_03ID	23	Magda	マクダ	錬金術で焼いた……？\nよく分かんねえが、いただくぜ						
-Date_NPC11_03ID	24	Magda	マクダ	あ、そういえばマクダ様もこれなら持ってるぜ。\nやるよトトリ。手ぇ出しな						
-Date_NPC11_03ID	25	Totori	トトリ	これは……？						
-Date_NPC11_03ID	26	Magda	マクダ	口に入れて、飲み込まずに噛みまくる。んで、\n柔らかくなったら薄くして、空気を入れるように……						
-Date_NPC11_03ID	27	Totori	トトリ	！\nほうれふは！？						
-Date_NPC11_03ID	28	Magda	マクダ	やるじゃねえか。ま、マクダ様のほうが\nデケーの作れっけどな。今度見せてやるよ						
-Date_NPC11_03ID	29	Magda	マクダ	んぐんぐ……ん！　うまいな！						
-Date_NPC11_03ID	30	Totori	トトリ	よかったです。おさかなパイ、わたしの家に代々伝わる\nレシピで、わたしのおねえちゃんの得意料理なんです						
-Date_NPC11_03ID	31	Totori	トトリ	わたし、おねえちゃんの作る料理が好きで						
-Date_NPC11_03ID	32	Magda	マクダ	へえ。誰かが誰かのために作る料理ってのはいいよな。\n自炊じゃ出せねえ優しさがある						
-Date_NPC11_03ID	33	Magda	マクダ	そういや、トトリの家族は今どうしてんだ？						
-Date_NPC11_03ID	34	Totori	トトリ	えっと、今は遠くにいて会えないんですけど……\nマクダさんの家族は、今どうしているんですか？						
-Date_NPC11_03ID	35	Magda	マクダ	どっちもとっくに死んじまってるよ						
-Date_NPC11_03ID	36	Totori	トトリ	あ……えっと……						
-Date_NPC11_03ID	37	Magda	マクダ	もうずっと昔のことだ。気にすんな						
-Date_NPC11_03ID	38	Magda	マクダ	トトリ、またねえちゃんのうまい料理を\n食える日が楽しみだな！						
-Date_NPC11_03ID	39	Magda	マクダ	トトリのおかげで腹も膨れたし、\n夜になっちまう前に帰んぞ						
-Date_NPC11_03ID	40	Magda	マクダ	行くぞ、トトリ。\nあ、さっきあげたやつは飲み込んだらダメだからな！？						
-Date_NPC11_03ID	41	Totori	トトリ	（マクダさん、家族が亡くなっていて、一人なんだ）						
-Date_NPC11_03ID	42	Totori	トトリ	（マクダさんが喧嘩屋を始めた理由って\n　そこにあるのかな）						
-Date_NPC11_04ID	0	Totori	トトリ	（今日は例の依頼に向かうために、\n　この辺りでマクダさんと待ち合わせ\n　してるけど……）						
-Date_NPC11_04ID	1	Magda	マクダ	お、トトリはっけーん！						
-Date_NPC11_04ID	2	Magda	マクダ	トトリ、覚悟はできてんだろーな？\n今日のケンカは、魔物相手とはちげぇぞ						
-Date_NPC11_04ID	3	Totori	トトリ	はい、大丈夫です						
-Date_NPC11_04ID	4	Magda	マクダ	おう。なら早速と言いたいところだが、\nまだちと時間には早いからな……						
-Date_NPC11_04ID	5	Magda	マクダ	この喧嘩屋マクダ様に聞きたいことが\nあったら、なんでも答えてやるよ。\n今だけの特別だぜ？						
-Date_NPC11_04ID	6	Totori	トトリ	それなら、\nマクダさんがどうして喧嘩屋を始めたのか、\n聞いてみたいです						
-Date_NPC11_04ID	7	Magda	マクダ	あー、それか。\n一言でいえば、マクダ様が強いからだな						
-Date_NPC11_04ID	8	Magda	マクダ	こんなところで暮らしてたら、\n毎日ケンカしまくりで腕っぷしも\n強くなるってもんだぜ						
-Date_NPC11_04ID	9	Magda	マクダ	両親が死んだとき、この腕をオリバーに\n買われて月影の会に雇われたんだがよ						
-Date_NPC11_04ID	10	Magda	マクダ	その会も気付いたらなくなっちまった\nもんだから、この腕を活かせる生き方として\n喧嘩屋やってんだ						
-Date_NPC11_04ID	11	Totori	トトリ	腕を活かせる生き方なら、\n喧嘩屋じゃなくても……						
-Date_NPC11_04ID	12	Magda	マクダ	マクダ様は勝って手に入れんのが\n好きなんだ。ただ戦いたいわけじゃねえ。\nだから騎士とかはちょっとちげえんだよな						
-Date_NPC11_04ID	13		選択肢	騎士のマクダさん、見てみたいです						
-Date_NPC11_04ID	14	Totori	トトリ	騎士のマクダさん、見てみたいです						
-Date_NPC11_04ID	15	Magda	マクダ	おもてぇ鎧着て、\nかたっ苦しい言葉を使うのなんざ、\nマクダ様はごめんこうむるぜ						
-Date_NPC11_04ID	16	Magda	マクダ	まあ、マクダ様が騎士並みに強いのは\n確かだけどな						
-Date_NPC11_04ID	17		選択肢	自分の気持ちを大切にしているんですね						
-Date_NPC11_04ID	18	Totori	トトリ	マクダさんは、\n自分の気持ちを大切にしているんですね						
-Date_NPC11_04ID	19	Magda	マクダ	おうよ。これはマクダ様の人生だからな						
-Date_NPC11_04ID	20	Magda	マクダ	周りになんと言われても、\nマクダ様の好きなように生きてくぜ						
-Date_NPC11_04ID	21		選択肢	喧嘩屋は危険です。心配になります						
-Date_NPC11_04ID	22	Totori	トトリ	でも、喧嘩屋は危険です。\n心配になります						
-Date_NPC11_04ID	23	Magda	マクダ	マクダ様の実力をまだ信じられねえか？						
-Date_NPC11_04ID	24	Magda	マクダ	心配してくれるのは嬉しいけどよ、\nマクダ様が強いのはトトリも分かってるだろ						
-Date_NPC11_04ID	25	Magda	マクダ	そろそろ時間だな。向かうか						
-Date_NPC11_04ID	26	Magda	マクダ	おー、いたいた						
-Date_NPC11_04ID	27		依頼主の男	喧嘩屋！　待ってたぞ。\n今から奴を痛めつけに行くんだな？						
-Date_NPC11_04ID	28	Totori	トトリ	あれ？　依頼主さんも同行するんですか？						
-Date_NPC11_04ID	29	Magda	マクダ	今日のマクダ様の仕事は、\nこの腐った豚を懲らしめることだぜ						
-Date_NPC11_04ID	30		選択肢	相手、間違っていますよ？						
-Date_NPC11_04ID	31	Totori	トトリ	マクダさん、\n相手を間違えていますよ？						
-Date_NPC11_04ID	32	Magda	マクダ	マクダ様は間違えてないぜ						
-Date_NPC11_04ID	33	Magda	マクダ	まあ、いったんマクダ様の話を聞けや						
-Date_NPC11_04ID	34		選択肢	どういうことか教えてください						
-Date_NPC11_04ID	35	Totori	トトリ	マクダさん、\nどういうことか教えてください						
-Date_NPC11_04ID	36	Magda	マクダ	冷静に状況を確認するその姿勢、\nケンカにおいて大事だぜ						
-Date_NPC11_04ID	37	Magda	マクダ	マクダ様も、ケンカする前にはまず\n冷静に物事を確認するようにしてんだ						
-Date_NPC11_04ID	38		選択肢	依頼主さんに失礼ですよ						
-Date_NPC11_04ID	39	Totori	トトリ	マクダさん、\n依頼主さんに失礼ですよ						
-Date_NPC11_04ID	40	Magda	マクダ	いいかトトリ。マクダ様にとって、\n依頼主は絶対じゃねえんだ						
-Date_NPC11_04ID	41	Magda	マクダ	依頼を持ってきたからと言って、\n無条件に信用したり、\nこびへつらったりはしねえ						
-Date_NPC11_04ID	42	Magda	マクダ	マクダ様調べによるとだな、\nどうやらこいつは立場の弱い人間を\nやっすい賃金でこき使う最低野郎だ						
-Date_NPC11_04ID	43	Magda	マクダ	少し前、従業員に告発されて入牢したが、\n出てくるなりマクダ様にお願いして\nその従業員に復讐しようとしやがった						
-Date_NPC11_04ID	44	Magda	マクダ	これは、王宮で働いている堅物にも\n確認済みだからな、間違いないぜ						
-Date_NPC11_04ID	45	Totori	トトリ	なるほど。\n前回、調整中って言っていたのは、\nこれを調べていたんですね……						
-Date_NPC11_04ID	46		依頼主の男	おい！　貴様、聞いていればベラベラと……\n金はやると言ってるだろ！　早く仕事しろ！						
-Date_NPC11_04ID	47	Magda	マクダ	マクダ様はな、喧嘩屋だが、\nなんでも依頼を受けるわけじゃねぇ						
-Date_NPC11_04ID	48	Magda	マクダ	特に、罪のない一般人を痛めつけろ、\nみたいなやつは絶対にお断りだ。\nだが、						
-Date_NPC11_04ID	49	Magda	マクダ	調子に乗ってる悪党を懲らしめるのは\n嫌いじゃねえ！						
-Date_NPC11_04ID	50	Totori	トトリ	マクダさん、依頼主さんの身柄は\n引き渡せましたか？						
-Date_NPC11_04ID	51	Magda	マクダ	おうよ。\nトトリ、喧嘩屋見学は満足いったか？\n今回のは例外も例外になっちまったが						
-Date_NPC11_04ID	52	Totori	トトリ	……マクダさんって						
-Date_NPC11_04ID	53		選択肢	物事を進める勢いがありますね						
-Date_NPC11_04ID	54	Totori	トトリ	物事を進める勢いがありますね						
-Date_NPC11_04ID	55	Magda	マクダ	マクダ様は後先考えず、\n突き進んでそうってか？						
-Date_NPC11_04ID	56	Magda	マクダ	ま、なるようにはなると思ってるぜ。\nもし復讐に来られても、\nマクダ様の強さなら返り討ちにできるしな						
-Date_NPC11_04ID	57		選択肢	めちゃくちゃだけど、信念があるんですね						
-Date_NPC11_04ID	58	Totori	トトリ	めちゃくちゃだけど、信念があるんですね						
-Date_NPC11_04ID	59	Magda	マクダ	おう。これは\nマクダ様の生き甲斐みたいなものでもあるな						
-Date_NPC11_04ID	60		選択肢	その正義感と強さ、騎士に向いてますよ						
-Date_NPC11_04ID	61	Totori	トトリ	正義感が強くて、実際に腕も立つから\n騎士に向いてますよ						
-Date_NPC11_04ID	62	Magda	マクダ	トトリがマクダ様の腕を買ってくれてるのは\n嬉しいけどよ						
-Date_NPC11_04ID	63	Magda	マクダ	何も持たない人間が、\n自分の腕一つで稼いでいく……かっけえだろ						
-Date_NPC11_04ID	64	Magda	マクダ	生まれの運がいいだけで勘違いして\n調子に乗ってる奴は許さねえ。\nマクダ様がぶっ飛ばす！						
-Date_NPC11_04ID	65	Magda	マクダ	めちゃくちゃかもしれねえが、\nこれがマクダ様の生き甲斐で、信念だ						
-Date_NPC11_04ID	66	Totori	トトリ	はい。\n喧嘩屋見学、とても勉強になりました						
-Date_NPC11_04ID	67	Totori	トトリ	マクダさん、なんだかわたしのお母さんと\n似てるかも。めちゃくちゃな人だけど、\n信念を持っててみんなに好かれてるんです						
-Date_NPC11_04ID	68	Totori	トトリ	マクダさんがいろんな人に好かれてて、\n頼られる理由がわかりました						
-Date_NPC11_04ID	69	Totori	トトリ	（一見自由で適当そうなマクダさんだけど、\n　強い信念を持ってるかっこいい人なんだ）						
-Date_NPC11_04ID	70	Magda	マクダ	マクダ様は管理されたくねーのよ。\n自由でいてえんだ						
-Date_NPC11_04ID	71	Magda	マクダ	んじゃ、喧嘩屋見学はこれで終いだ！\nほら、いい子は帰る時間だぜ						
-Date_NPC11_04ID	72	Totori	トトリ	（喧嘩屋が自由でめちゃくちゃなのか……\n　ううん、マクダさんがただ自由すぎて\n　めちゃくちゃなだけかな？）						
-Date_NPC11_05ID	0	Totori	トトリ	（マクダさんいるかな？\n　いたら、少しお話したいな……）						
-Date_NPC11_05ID	1	Magda	マクダ	おっ、トトリ！						
-Date_NPC11_05ID	2	Magda	マクダ	いいところに来たな！						
-Date_NPC11_05ID	3	Totori	トトリ	こんにちはマクダさん。\nどうしたんですか？\nなんだかとても機嫌が良さそうですけど						
-Date_NPC11_05ID	4	Magda	マクダ	トトリ、この後時間平気か？\nなら少しついてこいよ						
-Date_NPC11_05ID	5	Totori	トトリ	カフェに連れてこられたと思ったら……\nこのたくさんのごちそうはいったい？						
-Date_NPC11_05ID	6	Totori	トトリ	こんなにたくさん、お金はあるんですか？\nこの間の依頼では、特に報酬も\nもらえなかったはずじゃ……						
-Date_NPC11_05ID	7	Magda	マクダ	実はな、そのことで臨時収入があってよ						
-Date_NPC11_05ID	8	Magda	マクダ	逆恨みの標的にされてた元従業員の奴が、\nマクダ様の噂を聞いて礼を言いに来てよお						
-Date_NPC11_05ID	9	Magda	マクダ	感謝料みてえなやつもらったから、\n今日は奮発してごちそうだぜ！						
-Date_NPC11_05ID	10	Magda	マクダ	ほら、トトリも食えよ！						
-Date_NPC11_05ID	11	Magda	マクダ	いーただっきまーっす！						
-Date_NPC11_05ID	12	Magda	マクダ	んーっ！　まーじでうんめえ！						
-Date_NPC11_05ID	13	Magda	マクダ	おら、トトリもたくさん食えよ！						
-Date_NPC11_05ID	14	Magda	マクダ	食わねえと大きくなれねえぞー						
-Date_NPC11_05ID	15	Totori	トトリ	む。わたしはまだまだ成長期ですから。\nすぐマクダさんに追いつきますよ！						
-Date_NPC11_05ID	16	Magda	マクダ	ひゃっひゃっひゃ。そいつぁ楽しみだ！						
-Date_NPC11_05ID	17	Magda	マクダ	これからもし、力が必要になったら、\nこの喧嘩屋マクダ様に頼みな！						
-Date_NPC11_05ID	18	Totori	トトリ	でも、お高いんですよね？						
-Date_NPC11_05ID	19	Magda	マクダ	友達価格で受けてやるよ						
-Date_NPC11_05ID	20	Totori	トトリ	（強くて優しくて、\n　ちょっとお母さんに似ているマクダさん）						
-Date_NPC11_05ID	21	Totori	トトリ	（信念があって、自由で、素敵な人だな）						
+Date_NPC11_01ID	0	Totori	トトリ	（ここに来るの、\n　少し久しぶりな気がするな）	Totori	(It's been a long time since I was last here...)	托托莉	（好久没来这里了。）	托托莉	（似乎有一陣子沒來這裡了。）
+Date_NPC11_01ID	1	Totori	トトリ	（あれ？　向こうのほう、\n　なんか崩れてる……？）	Totori	(Huh? What's that over there?)	托托莉	（咦？对面好像有什么东西崩塌了……？）	托托莉	（奇怪？對面那邊怎麼有東西崩塌了……？）
+Date_NPC11_01ID	2	Totori	トトリ	あれ？　どうしたんですか、この壁！\nぼろぼろに崩れちゃってますけど	Totori	Oh, no! What happened to this wall? It's falling apart...	托托莉	咦！这面墙是怎么回事？\n变得破破烂烂的了。	托托莉	奇怪？這道牆是怎麼回事？\n竟然變得這麼殘破不堪。
+Date_NPC11_01ID	3		家主の男	お、トトリちゃんじゃねえか。\nいやぁ、実はそこにいる喧嘩屋が\nやらかしやがってよぉ……	Homeowner	Hey, Totori! Isn't it awful? The Brawl Master over there did a number on the wall.	房子男主人	哦，这不是托托莉嘛。\n哎，这其实是那边那个打手干的好事……	男性家主	哦，托托莉妳來了啊。\n哎呀～這都得怪那邊那個打架專家闖了禍……
+Date_NPC11_01ID	4	Totori	トトリ	（喧嘩屋……！\n　噂には聞いていた、あの……！）	Totori	"(""Brawl Master""? I think I've heard of someone like that...)"	托托莉	（打手……！我听过她的传闻……！）	托托莉	（打架專家……！就是那個傳聞中的……！）
+Date_NPC11_01ID	5		選択肢	あなたが喧嘩屋さんですか？	Selection	Are you the Brawl Master?	选项	你就是打手吗？	選項	請問妳就是打架專家嗎？
+Date_NPC11_01ID	6	Totori	トトリ	あなたが喧嘩屋さんですか？	Totori	Are you the Brawl Master?	托托莉	你就是打手吗？	托托莉	請問妳就是打架專家嗎？
+Date_NPC11_01ID	7	???	？？？	おー？\nこのマクダ様から強者の雰囲気を\n感じたか？	???	Oho... Felt my overpowering aura, huh?	？？？	哦？你从本玛格达大人身上\n感受到了强者的气息吗？	？？？	哦～？難道是從瑪格達大人我身上\n感受到強者氣場了嗎？
+Date_NPC11_01ID	8	???	？？？	見る目があるじゃねえか	???	That means you've got a good eye.	？？？	眼光不错啊。	？？？	妳很有眼光嘛。
+Date_NPC11_01ID	9		選択肢	わ、わたし、ケンカ弱いですから！	Selection	Eek, please don't hurt me!	选项	我、我打架很弱的！	選項	我、我很不會打架喔！
+Date_NPC11_01ID	10	Totori	トトリ	わ、わたし、ケンカ弱いですから！	Totori	Eek, please don't hurt me!	托托莉	我、我打架很弱的！	托托莉	我、我很不會打架喔！
+Date_NPC11_01ID	11	???	？？？	ん－？\nマクダ様は喧嘩屋だが、\n誰彼構わず殴ったりはしないぜ	???	Hurt you? I may be Brawl Master Magda, but I'd never hurt an innocent.	？？？	嗯？玛格达大人虽然是打手，\n但不是不分青红皂白谁都打的。	？？？	嗯～？瑪格達大人我雖然是打架專家，\n但可不會亂打人。
+Date_NPC11_01ID	12	???	？？？	だからそんなに硬くなるなよ	???	C'mon, don't look so scared!	？？？	你不用那么紧张。	？？？	所以妳別那麼緊張啦。
+Date_NPC11_01ID	13		選択肢	で、その喧嘩屋さんは、どこに……？	Selection	Where can I find the Brawl Master?	选项	那位打手在哪儿……？	選項	所以，那位打架專家在哪裡……？
+Date_NPC11_01ID	14	Totori	トトリ	で、その喧嘩屋さんは、どこに……？	Totori	Do you know where I can find the Brawl Master?	托托莉	那位打手在哪儿……？	托托莉	所以，那位打架專家在哪裡……？
+Date_NPC11_01ID	15	???	？？？	ここだここ！　目の前にいるだろ！	???	You're lookin' at her! In the flesh!	？？？	就在这儿！就在你跟前啊！	？？？	這裡啦這裡！就在妳眼前啊！
+Date_NPC11_01ID	16	???	？？？	喧嘩屋とは、このマクダ様のことだ	???	Feast your eyes on Brawl Master Magda!	？？？	本玛格达大人就是传说中的打手。	？？？	瑪格達大人我就是大名鼎鼎的打架專家。
+Date_NPC11_01ID	17	Magda	マクダ	俺は、マクダってんだ。\nケンカの依頼は請け負うぜ。\nよろしくな	Magda	The name's Magda Kupker. If ya need some muscle for hire, just say the word. There ain't a fight I can't win.	玛格达	我是玛格达，承接打架的委托，\n请多指教咯。	瑪格達	我叫做瑪格達，有打架的委託儘管可以找我。\n以後多關照啦。
+Date_NPC11_01ID	18	Totori	トトリ	わたしはトトリです。\nよろしくお願いします	Totori	It's nice to meet you. I'm Totori.	托托莉	我是托托莉。请多关照。	托托莉	我是托托莉，請多多指教。
+Date_NPC11_01ID	19	Totori	トトリ	（ということは、この破壊されている壁は\n　マクダさんが……？）	Totori	(So that means...Magda was the one who made this mess?)	托托莉	（也就是说，\n　打坏那面墙的人是玛格达小姐……？）	托托莉	（這麼說來，這道牆是瑪格達小姐弄壞的……？）
+Date_NPC11_01ID	20	Totori	トトリ	この壁……	Totori	Um, about this wall...	托托莉	这面墙……	托托莉	這道牆……
+Date_NPC11_01ID	21		選択肢	マクダさんが壊したんですか？	Selection	Did you break it?	选项	是玛格达小姐打坏的吗？	選項	是妳弄壞的嗎？
+Date_NPC11_01ID	22	Totori	トトリ	マクダさんが壊したんですか？	Totori	Are you the one who broke it?	托托莉	是玛格达小姐打坏的吗？	托托莉	是妳弄壞的嗎？
+Date_NPC11_01ID	23	Magda	マクダ	あー、まあな	Magda	Meh. You know how walls are.	玛格达	啊，对。	瑪格達	喔～對啊。
+Date_NPC11_01ID	24	Magda	マクダ	わざとじゃねえんだが……\nマクダ様がやっちまったことに\n変わりはねえ	Magda	I couldn't help it! It was just so flimsy... But yeah, I guess I'm the culprit.	玛格达	虽然不是故意的……\n但玛格达大人敢作敢当。	瑪格達	雖然不是故意的……\n但依舊是瑪格達大人我闖下的禍。
+Date_NPC11_01ID	25		選択肢	とてつもない力で破壊されていますね	Selection	Someone really strong must've done this.	选项	被一股很强的力量破坏了呢	選項	看起來是被非常驚人的威力所破壞的呢
+Date_NPC11_01ID	26	Totori	トトリ	とてつもない力で破壊されていますね	Totori	Someone really strong must've done this.	托托莉	被一股很强的力量破坏了呢。	托托莉	看起來是被非常驚人的威力所破壞的呢。
+Date_NPC11_01ID	27	Magda	マクダ	マクダ様にかかれば、\nどんなもんでも木っ端みじんだぜ！	Magda	Hah! That was nothin'. A piddly little wall can't stand up to me!	玛格达	不管什么东西，\n玛格达大人都能打得粉碎！	瑪格達	只要瑪格達大人我出馬，任何東西都會化為烏有！
+Date_NPC11_01ID	28	Magda	マクダ	……いや、わりぃ。\nこの壁を破壊する気はなかったんだ	Magda	But to tell you the truth, I didn't break it on purpose.	玛格达	……不对，抱歉。\n我不是故意要打坏墙的。	瑪格達	……不，抱歉。我不是故意要弄壞這道牆的。
+Date_NPC11_01ID	29		選択肢	むしゃくしゃしちゃったんですか？	Selection	Did you lose your temper?	选项	是为了泄愤才打坏的吗？	選項	妳把氣出在牆上嗎？
+Date_NPC11_01ID	30	Totori	トトリ	むしゃくしゃしちゃったんですか？	Totori	Did you lose your temper and attack it?	托托莉	是为了泄愤才打坏的吗？	托托莉	妳把氣出在牆上嗎？
+Date_NPC11_01ID	31	Magda	マクダ	ちげぇよ！　マクダ様はプロだ。\n見境なく暴れたりはしねぇよ	Magda	No, no! Nothin' like that! C'mon, I'm not that hotheaded!	玛格达	才不是！玛格达大人可是专业的，\n才不会下手不分轻重。	瑪格達	才不是咧！瑪格達大人我可是專業的，\n才不會不分青紅皂白動粗。
+Date_NPC11_01ID	32	Magda	マクダ	マクダ様は喧嘩屋だがな、\nむしゃくしゃして知り合いの家の壁を\n破壊したりはしねぇよ	Magda	I may be a brawler, but I'd never lose my cool and start smashin' stuff all willy-nilly. 'Specially not someone's private property.	玛格达	玛格达大人我虽然是打手，\n但也不会为了泄愤就打坏熟人家的墙壁。	瑪格達	瑪格達大人我雖然是打架專家，\n但可不會為了出氣打爛熟人家的牆。
+Date_NPC11_01ID	33	Magda	マクダ	実は、喧嘩屋の仕事で、\n相手をここまで追い込んだんだが……	Magda	Here's the thing: I was in the middle of a job, and the wall got busted up while we were sparring.	玛格达	其实是因为工作上的事，\n我追的人跑到了这里……	瑪格達	其實是我在執行打架專家的委託時，\n把目標追趕到這裡來……
+Date_NPC11_01ID	34	Magda	マクダ	その相手がなかなかやる奴でよ。\nマクダ様の攻撃がひらひら避けられちまって	Magda	My opponent was fast, I'll give 'em that. They were dodging my blows left and right...	玛格达	但对方身手很好，\n把玛格达大人的攻击全都躲开了。	瑪格達	對方還挺有兩把刷子的，\n輕輕鬆鬆就閃掉瑪格達大人我的攻擊。
+Date_NPC11_01ID	35	Magda	マクダ	それで壁を壊しちまったんだ……\nほんとわりぃ！	Magda	Before I knew it, I'd turned this wall into a pile of rubble. But I didn't mean to, I swear!	玛格达	所以我才不小心打坏了墙……\n真的抱歉！	瑪格達	結果就不小心打壞了這道牆……真的很抱歉！
+Date_NPC11_01ID	36		家主の男	もういいさ。\nわざとじゃねえのは分かってるしな	Homeowner	Ah, things happen. I know it was an accident.	房子男主人	好了好了。\n我知道你不是故意的了。	男性家主	沒關係啦，我已經知道妳不是故意的了。
+Date_NPC11_01ID	37	Magda	マクダ	それなら、\n壁の修理はマクダ様にやらせてくれ！	Magda	I, the Great Magda, promise to rebuild this wall!	玛格达	这样的话，\n就让玛格达大人负责修理吧！	瑪格達	既然如此，就讓瑪格達大人我來把修牆好吧！
+Date_NPC11_01ID	38	Magda	マクダ	壊しちまった詫びだ。\n前より頑丈な壁にしてやるぜ！	Magda	Y'know, as a way to say sorry. You'll see, it's gonna be even better than it was before!	玛格达	就当弄坏墙壁的赔礼道歉了。\n我会修得比之前更结实的！	瑪格達	為了表示弄壞牆的歉意，\n我會把牆修得比原本更堅固！
+Date_NPC11_01ID	39		選択肢	わたしもお手伝いします！	Selection	I'll help too!	选项	我也来帮忙！	選項	我也來幫忙！
+Date_NPC11_01ID	40	Totori	トトリ	わたしも壁の修理、お手伝いします！	Totori	I'll help you fix the wall too!	托托莉	我也来帮忙修理墙壁！	托托莉	我也來幫忙修理牆！
+Date_NPC11_01ID	41	Magda	マクダ	おう、ありがとなトトリ！\nいい奴だな、お前	Magda	Oh! Thanks, Totori! You're a real pal.	玛格达	哦，谢了托托莉！你人真不错。	瑪格達	哦，謝謝啦，托托莉！妳真是個好人。
+Date_NPC11_01ID	42	Magda	マクダ	だがこれはマクダ様のやらかしだからよ。\n気持ちだけもらっとくぜ	Magda	But, while I appreciate the offer and all, I can't let you clean up a mess that I made.	玛格达	不过这是玛格达大人闯的祸，\n你有这份心我就很高兴了。	瑪格達	但這是瑪格達大人我闖下的禍，\n妳的好意我就心領了。
+Date_NPC11_01ID	43		選択肢	前より頑丈に？	Selection	Even better? Really?	选项	比之前更结实？	選項	比原本更堅固？
+Date_NPC11_01ID	44	Totori	トトリ	前より頑丈に？	Totori	Even better? Really?	托托莉	比之前更结实？	托托莉	比原本更堅固？
+Date_NPC11_01ID	45	Magda	マクダ	ああ。どうせなら、それぐらいやるさ	Magda	That's right! You have my word!	玛格达	嗯。反正都要修了，干脆修结实点。	瑪格達	對，既然都要修了，當然要修得更堅固。
+Date_NPC11_01ID	46	Magda	マクダ	商売でやってるからな。\n誠意はみせねーと	Magda	It's only fair. 'Sides, my good name as a businesswoman is on the line.	玛格达	毕竟我是出来做生意的，\n得拿出诚意来以后才好办事啊。	瑪格達	畢竟我也是做生意的，可得展現出誠意才行。
+Date_NPC11_01ID	47		選択肢	どうせならかわいくもしませんか？	Selection	Let's make the new wall super cute!	选项	不如干脆修得可爱一点？	選項	要不要乾脆弄得可愛點？
+Date_NPC11_01ID	48	Totori	トトリ	どうせならかわいくもしませんか？	Totori	Let's make the new wall super cute!	托托莉	不如干脆修得可爱一点？	托托莉	要不要乾脆弄得可愛點？
+Date_NPC11_01ID	49	Magda	マクダ	お、いいな！\nここはどこも陰気くせえからな	Magda	Good thinking, Totori! That'd brighten the place up a little.	玛格达	哦，不错！\n这边到处都阴气沉沉的。	瑪格達	哦，好主意！畢竟這裡到處都死氣沉沉的嘛。
+Date_NPC11_01ID	50	Magda	マクダ	マクダ様のオシャレ感覚で\n飾り付けてやるかな	Magda	I'll show 'em! I'm not just strong, I've got style to boot!	玛格达	就发挥玛格达大人的时尚审美\n给它装饰一下吧。	瑪格達	那就讓瑪格達大人我發揮美感\n把這裡好好裝飾一番吧。
+Date_NPC11_01ID	51	Magda	マクダ	そういえばトトリお前、一人なのか？	Magda	Say, Totori... Are you here all by yourself?	玛格达	说起来，托托莉你是一个人？	瑪格達	對了，托托莉妳只有一個人嗎？
+Date_NPC11_01ID	52	Totori	トトリ	はい、今は一人ですけど……	Totori	Yes, it's just me.	托托莉	是的，现在是一个人……	托托莉	對，現在是一個人……
+Date_NPC11_01ID	53	Magda	マクダ	一人で平気か？\nここはそんなに安全じゃないぜ	Magda	Don't you ever get lonely? Or scared? This place isn't exactly safe.	玛格达	你一个人不要紧吧？\n这一带不是很安全。	瑪格達	一個人沒問題嗎？這裡可不太安全喔。
+Date_NPC11_01ID	54	Magda	マクダ	マクダ様はこの辺りに住んでるからよ。\n困ったことがあったら頼ってくれていいぜ	Magda	I should know; I live around here. If anyone ever gives you trouble, just come straight to me, 'kay?	玛格达	玛格达大人就住在附近，\n要是遇到麻烦事了就来找我吧。	瑪格達	瑪格達大人我就住在這附近。\n要是遇到什麼困難，可以來找我幫忙喔。
+Date_NPC11_01ID	55	Magda	マクダ	ま、高くつくけどな	Magda	I'll take care of 'em. For a price.	玛格达	虽然我的价格不便宜。	瑪格達	不過，價格不便宜就是了。
+Date_NPC11_01ID	56	Totori	トトリ	お金取るんですか……	Totori	So I'm just another customer to you...?	托托莉	原来要收钱啊……	托托莉	要收錢啊……
+Date_NPC11_01ID	57	Magda	マクダ	じゃ、マクダ様は修理に必要なもん\n取ってくるからよ	Magda	Anyway, I'd better get goin'. I've gotta pick up the stuff I need to fix this wall!	玛格达	好了，那玛格达大人要去拿修理用的东西了。	瑪格達	那麼，瑪格達大人我要去找修牆需要的東西了。
+Date_NPC11_01ID	58	Magda	マクダ	気を付けて帰れよートトリ！	Magda	Don't get yourself into any trouble while I'm gone!	玛格达	你回去的时候小心点啊，托托莉！	瑪格達	托托莉，妳回家路上要小心喔！
+Date_NPC11_01ID	59		家主の男	マクダはあんなんだがよ、\n悪い奴じゃあねぇんだ。\nよかったら仲良くしてやってくれよ	Homeowner	Magda can be a little much, but she means well. If you don't mind, she could really use someone like you as a friend.	房子男主人	玛格达虽然那副样子，但本性不坏。\n可以的话，请你和她好好相处吧。	男性家主	雖然瑪格達是那副德性，但她可不是壞人。\n可以的話，希望妳能跟她好好相處。
+Date_NPC11_01ID	60	Totori	トトリ	はい	Totori	I don't mind at all.	托托莉	好的。	托托莉	好的。
+Date_NPC11_01ID	61	Totori	トトリ	（喧嘩屋さんって聞いて、\n　怖い人かと思ったけど……）	Totori	"(Magda isn't at all what I expected a ""Brawl Master"" to be...)"	托托莉	（听说她是打手，\n　我还以为会是个很恐怖的人……）	托托莉	（本來聽到是打架專家，還以為會是個可怕的人……）
+Date_NPC11_01ID	62	Totori	トトリ	（ご近所さんに信頼されている\n　いい人みたい）	Totori	(I was a little intimidated at first, but the people around here trust her. She seems like a good person.)	托托莉	（但看样子，邻居们相当信赖她，\n　是个好人呢。）	托托莉	（但她看起來深受左鄰右舍信賴，\n　似乎是個好人呢。）
+Date_NPC11_02ID	0	Totori	トトリ	（王都でお目当ての物も買えたし、\n　天気もいいから少しお散歩しようかな）	Totori	(I've finished my errands for the day... But since I'm here in the capital, I might as well enjoy a little stroll.)	托托莉	（在王都买到了想买的东西，天气也不错，\n　稍微散会儿步吧。）	托托莉	（已經在王都買到想要的東西了，\n　天氣也很好，稍微散步一下吧。）
+Date_NPC11_02ID	1	Totori	トトリ	（あ、あそこで洗濯しているのは……）	Totori	(Oh! That's Magda over there doing her laundry!)	托托莉	（啊，那个在洗衣服的人是……）	托托莉	（啊，在那邊洗衣服的是……）
+Date_NPC11_02ID	2		選択肢	マクダさーん！	Selection	Hi, Magda!	选项	玛格达小姐！	選項	瑪格達小姐～！
+Date_NPC11_02ID	3	Totori	トトリ	マクダさーん！	Totori	Hi, Magda!	托托莉	玛格达小姐！	托托莉	瑪格達小姐～！
+Date_NPC11_02ID	4	Magda	マクダ	おう、トトリ！　また会えたな	Magda	Heya, Totori! Good to see you again.	玛格达	哦，托托莉！又碰到你了。	瑪格達	哦，托托莉！又見面了呢。
+Date_NPC11_02ID	5	Magda	マクダ	今日は絶好の洗濯日和だぜ。\n陽の光が気持ちいいな	Magda	Nice day, huh? I'm doing some laundry and soakin' up the sun!	玛格达	今天的天气太适合洗衣服了。\n阳光晒着真舒服。	瑪格達	今天的天氣超適合洗衣服的。陽光好舒服啊。
+Date_NPC11_02ID	6		選択肢	喧嘩屋さーん！	Selection	Brawl Master Magda!	选项	打手小姐！	選項	打架專家～！
+Date_NPC11_02ID	7	Totori	トトリ	喧嘩屋さーん！	Totori	Brawl Master Magda!	托托莉	打手小姐！	托托莉	打架專家～！
+Date_NPC11_02ID	8	Magda	マクダ	なんだ？　仕事か？\nって、トトリじゃねえか！	Magda	Huh, someone got a job for me? Oh, Totori! It's you.	玛格达	怎么了，有工作？\n哦，这不是托托莉嘛！	瑪格達	怎麼？工作上門了？咦，這不是托托莉嗎！
+Date_NPC11_02ID	9	Magda	マクダ	困ったことがあるなら、力になるぜ。\nただし、お勉強とかはカンベンな！	Magda	If you're in a pinch, I can help you out. But just so y'know, I don't do discounts.	玛格达	要是遇到麻烦事儿了我会帮你的。\n不过念书之类的不行！	瑪格達	如果遇到什麼困難，我都可以幫忙喔。\n不過，念書之類的拜託別來找我！
+Date_NPC11_02ID	10		選択肢	壁を壊したマクダさーん！	Selection	It's Master Wall-Breaker Magda!	选项	打坏了墙的玛格达小姐！	選項	打爛牆壁的瑪格達小姐～！
+Date_NPC11_02ID	11	Totori	トトリ	壁を壊したマクダさーん！	Totori	It's Master Wall-Breaker Magda!	托托莉	打坏了墙的玛格达小姐！	托托莉	打爛牆壁的瑪格達小姐～！
+Date_NPC11_02ID	12	Magda	マクダ	トトリ！　声が大きい！	Magda	Totori, shh! Keep it down, will ya?!	玛格达	托托莉！你小点声！	瑪格達	托托莉！妳太大聲了啦！
+Date_NPC11_02ID	13	Magda	マクダ	もしどっかからそのことが\nあの堅物の耳に入ったら、\nまたぐちぐち言われちまうぜ……	Magda	If word got out that I busted up that wall, I might start to get a bad reputation around here.	玛格达	要是传到死脑筋耳朵里，\n我又要被念叨了……	瑪格達	這件事萬一傳到那個死腦筋耳中，\n我又要被唸一頓了……
+Date_NPC11_02ID	14	Totori	トトリ	マクダさんって自分のことを様付けして\n喧嘩屋さんをやっているわりには、	Totori	It's kind of funny. At first glance, you're a brawler with a big ego.	托托莉	虽然玛格达小姐自称玛格达大人，\n还做打手的工作……	托托莉	瑪格達小姐明明用「大人」來自稱，\n做的又是打架專家這種工作。
+Date_NPC11_02ID	15	Totori	トトリ	晴れた日に洗濯をするような\n一般的な考えも持ち合わせてるんですね	Totori	But deep down, you're really just like everyone else. Even brawlers have to do their own laundry!	托托莉	但思考方式和普通人没什么两样呢，\n比如会在晴天洗衣服之类的。	托托莉	卻也跟尋常人有一樣的想法，會在晴天洗衣服呢。
+Date_NPC11_02ID	16	Magda	マクダ	まだ知り合ったばかりのわりには\n言うじゃねえか、トトリ。\n正直な奴は好きだぜ	Magda	Heh, we just met, but you tell it like it is. I like straight shooters like you.	玛格达	在刚认识的人面前还挺敢说的嘛，托托莉。\n我很欣赏心直口快的家伙。	瑪格達	我們明明才認識沒多久，妳倒是很敢說嘛，托托莉。\n我很欣賞誠實的傢伙喔。
+Date_NPC11_02ID	17	Magda	マクダ	いいか、マクダ様はとっくに自立してんだ。\n炊事掃除洗濯、どれもお手のもんよ！	Magda	But don't sound so surprised! I've been on my own a long time. Of course I cook and clean for myself!	玛格达	我告诉你，玛格达大人早就独立了。\n煮饭打扫洗衣服，什么都不在话下！	瑪格達	聽好，瑪格達大人我已經是個獨立自主的人了。\n下廚打掃洗衣，樣樣都難不倒我！
+Date_NPC11_02ID	18	Totori	トトリ	マクダさんって……	Totori	Then, Magda...	托托莉	玛格达小姐你……	托托莉	瑪格達小姐妳……
+Date_NPC11_02ID	19		選択肢	一人で暮らしているんですか？	Selection	Do you live by yourself?	选项	一个人住吗？	選項	現在是一個人生活嗎？
+Date_NPC11_02ID	20	Totori	トトリ	一人で暮らしているんですか？	Totori	Do you live by yourself?	托托莉	一个人住吗？	托托莉	現在是一個人生活嗎？
+Date_NPC11_02ID	21	Magda	マクダ	おう、そうだぜ。\nここに住んでるが、\n長く留守にすることもあるからな	Magda	Sure do. I live here, but I'm away on business a lot.	玛格达	没错。虽然我家在这儿，\n但有时候会长期外出。	瑪格達	對，沒錯。雖然現在住在這裡，\n但有時候也會長時間外出不在家。
+Date_NPC11_02ID	22	Magda	マクダ	できる時にまとめて洗濯、掃除、\nやっておかねえとな！	Magda	Never know when the next job'll pop up, so I gotta do all my cleaning while I can.	玛格达	所以要趁有时间赶紧\n把衣服洗了大扫除做了！	瑪格達	必須趁有空的時候，\n把洗衣打掃這些事情一次做完才行！
+Date_NPC11_02ID	23		選択肢	お料理できるんですか？	Selection	Are you a good cook?	选项	会做饭吗？	選項	妳會下廚嗎？
+Date_NPC11_02ID	24	Totori	トトリ	お料理できるんですか？	Totori	Are you a good cook?	托托莉	会做饭吗？	托托莉	妳會下廚嗎？
+Date_NPC11_02ID	25	Magda	マクダ	ひゃっひゃっひゃ。\nできなそうに見えるか？	Magda	Heh heh heh... So I look like a chef to you, huh?	玛格达	哈哈哈，\n我看起来像不会做饭的样子吗？	瑪格達	呀哈哈，我看起來不像會下廚嗎？
+Date_NPC11_02ID	26	Magda	マクダ	まあ、人並みにはできるぜ。\n人に振舞えるほどかと言われると、\n微妙かもしれねえが……	Magda	Well, I suppose I'm not half bad. But it's not like I'm good enough to go hosting any parties.	玛格达	我做饭还是能达到平均水平的。\n但要说招待客人的话，\n恐怕有点……	瑪格達	算是有達到一般人的水準啦。\n要說能不能做給別人吃的話，\n還是有待商榷就是了……
+Date_NPC11_02ID	27		選択肢	喧嘩屋以外にお仕事はされてるんですか？	Selection	Do you do any other work?	选项	除打手外，你还有别的工作吗？	選項	除了當打架專家之外，妳還有其他工作嗎？
+Date_NPC11_02ID	28	Totori	トトリ	喧嘩屋以外にお仕事はされてるんですか？	Totori	Do you do any other work besides brawling?	托托莉	除打手外，你还有别的工作吗？	托托莉	除了當打架專家之外，妳還有其他工作嗎？
+Date_NPC11_02ID	29	Magda	マクダ	いーや、\nマクダ様は喧嘩屋一本でやってるぜ	Magda	Nope. The Great Magda's a brawler through and through.	玛格达	没，玛格达大人只做打手。	瑪格達	沒有喔，瑪格達大人我可是全職的打架專家。
+Date_NPC11_02ID	30	Magda	マクダ	まあ、魔物退治とか王宮関連のものとか、\n色んな依頼が来るからよ、\n一本と言っても様々だけどな	Magda	I take on the occasional monster hunting job and guard duty here and there, but at the end of the day, brawling is brawling.	玛格达	不过说是只做打手，\n但击退魔物呀王宫相关的委托之类的，\n什么乱七八糟的都有。	瑪格達	不過，我也常接到消滅魔物或是跟王宮有關的委託。\n雖說是全職，但工作內容也是包羅萬象。
+Date_NPC11_02ID	31		依頼主の男	おい、喧嘩屋マクダはお前だな？\n懲らしめてほしい奴がいる。報酬は出す	Client	Hey, you there! You're Brawl Master Magda, right? There's someone I need you to beat some sense into. And don't worry, I've got the Cole.	男委托人	喂，你就是打手玛格达吗？\n我想让你帮我教训个人，我会付钱的。	男性委託人	喂，妳就是打架專家瑪格達吧？\n我想要妳幫忙教訓一個人，報酬我會出。
+Date_NPC11_02ID	32	Magda	マクダ	仕事か？\n……初めて見る顔だな。\nここらへんの奴じゃねえな	Magda	A job, huh? Hold on a sec, pal. I've never seen you around here.	玛格达	委托吗？我以前没见过你……\n你不是住在附近的人吧。	瑪格達	工作上門了嗎？……沒見過的生面孔，\n看來不是住在這附近的居民啊。
+Date_NPC11_02ID	33	Magda	マクダ	まずは話を聞こうじゃねえか。\n受けるかはそれからだ	Magda	Lemme hear the details first. Then I'll decide whether or not we can do business.	玛格达	我要先听听委托的内容，\n再决定接不接。	瑪格達	先把事情的來龍去脈告訴我吧。\n我聽完再考慮要不要接。
+Date_NPC11_02ID	34	Totori	トトリ	あの、マクダさん！\nその依頼、もし受けるなら\nわたしもついていっていいですか？	Totori	Um, Magda? If you do decide to take on this job, would it be all right if I tagged along with you?	托托莉	那个，玛格达小姐！\n如果你接了这个委托的话，\n能不能让我一起去？	托托莉	那個，瑪格達小姐！\n如果妳要接這份委託的話，\n我可以跟妳一起去嗎？
+Date_NPC11_02ID	35	Magda	マクダ	ケンカだぞ？　トトリみたいのが\n見てもあまり面白いものじゃないと思うぜ	Magda	I beat people up for a living, Totori. Jobs like this aren't exactly a walk in the park.	玛格达	我是去打架哦？\n你看了也不会觉得有意思的。	瑪格達	我可是要去打架耶？像托托莉妳這樣的人，\n就算看了也不會覺得有趣吧。
+Date_NPC11_02ID	36		選択肢	喧嘩屋さんのお仕事、気になります！	Selection	But I'm interested in your work!	选项	我想了解打手的工作！	選項	我很好奇打架專家的工作！
+Date_NPC11_02ID	37	Totori	トトリ	喧嘩屋さんのお仕事がどんなものか、\n気になります！	Totori	But your work sounds exciting! I'm actually really curious about it.	托托莉	我想了解打手到底会做什么样的工作！	托托莉	我很好奇打架專家的工作都在做什麼！
+Date_NPC11_02ID	38	Magda	マクダ	喧嘩屋は遊びじゃねえぞ。\n本気のケンカだ	Magda	Brawling isn't a game. Take things too lightly and you could get yourself hurt.	玛格达	打手可不是去玩儿的，\n要真刀真枪地上。	瑪格達	打架專家的工作可不是兒戲，而是真正的械鬥。
+Date_NPC11_02ID	39	Magda	マクダ	いい子のトトリは\n見てられねえんじゃねえか？	Magda	'Sides, someone as sweet as you wouldn't wanna see all that violence, right?	玛格达	你这样的乖小孩不会看不下去吗？	瑪格達	像托托莉這種乖小孩應該沒辦法看下去吧？
+Date_NPC11_02ID	40		選択肢	マクダさんがケガしたら、手当てします！	Selection	I'll help patch up your wounds!	选项	如果玛格达小姐受伤了，我会治疗的！	選項	要是瑪格達小姐受傷，我可以幫妳治療！
+Date_NPC11_02ID	41	Totori	トトリ	マクダさんがケガした時、\nすぐに手当てできます！	Totori	If you get hurt, I'll be right there to patch you up!	托托莉	如果玛格达小姐受伤了，\n我可以马上治疗！	托托莉	如果瑪格達小姐受傷，我可以立刻幫妳治療！
+Date_NPC11_02ID	42	Magda	マクダ	トトリは優しいな。ありがとよ。\nでもマクダ様は強いから大丈夫だ	Magda	Aw, Totori... That's sweet, but don't worry about me. I can handle myself.	玛格达	你很温柔呢。谢啦。\n不过玛格达大人很强，没问题的。	瑪格達	托托莉妳人真好，謝啦。\n但是瑪格達大人我很厲害的，不用擔心。
+Date_NPC11_02ID	43	Magda	マクダ	それに、トトリには少し危ねえからよ	Magda	'Sides, if you came along, I'd be the one worried about patching YOU up.	玛格达	而且对你来说会有点危险。	瑪格達	再說，這對妳來說有點危險。
+Date_NPC11_02ID	44		選択肢	見せられないような実力なんですか？	Selection	Was all that tough talk just a bluff?	选项	玛格达小姐的实力见不得人吗？	選項	妳不敢展現自己的實力嗎？
+Date_NPC11_02ID	45	Totori	トトリ	もしかして……わたしに\n見せられないような実力なんですか？	Totori	Are you afraid that I'll find out you're not as tough as you say you are?	托托莉	难道说……\n玛格达小姐的实力是见不得人的水平吗？	托托莉	難道說……妳不敢在我面前展現自己的實力嗎？
+Date_NPC11_02ID	46	Magda	マクダ	マクダ様は星も羨む最強の喧嘩屋だぜ？\nむしろ強すぎて\n注目を浴びまくっちまうほどよ	Magda	Don't make me laugh! One whack from me could send the stars falling out of the sky! I'm more worried my strength'd overwhelm you!	玛格达	玛格达大人可是\n连星星都羡慕的最强打手哦？\n到哪儿都是人群中的焦点。	瑪格達	瑪格達大人我可是連星星都羨慕的最強打架專家耶。\n不如說還因為太強了而惹來很多關注呢。
+Date_NPC11_02ID	47	Magda	マクダ	だが、トトリも守って戦うのは難しいからな	Magda	But once a fight breaks out, it'd be too hard to keep you safe.	玛格达	但是要一边保护你一边战斗很难。	瑪格達	但是，要在顧及妳的安危下應戰可不容易。
+Date_NPC11_02ID	48	Totori	トトリ	うーん、確かに、\nケンカが怖くないわけじゃないですけど……	Totori	I'd be lying if I said I wasn't scared of fights at all, but...	托托莉	唔，的确。\n虽然打架确实很可怕……	托托莉	唔～有道理，雖然我並不是不怕打架……
+Date_NPC11_02ID	49	Totori	トトリ	わたしはマクダさんが思っているほど\n弱くありませんよ。\n自分の身は自分で守りますから！	Totori	I'm not as delicate as you think. I can protect myself.	托托莉	但我没有玛格达小姐想的那么弱。\n我能保护好自己！	托托莉	但我可沒有瑪格達小姐想的那麼弱喔。\n我會顧好自身安危的！
+Date_NPC11_02ID	50	Magda	マクダ	そこまで言うなら、許可してやるよ	Magda	If you're that set on it, all right. You can come with.	玛格达	你都说到这个份上了，那我就同意吧。	瑪格達	既然妳都這麼說了，我就答應妳吧。
+Date_NPC11_02ID	51	Magda	マクダ	依頼の詳細はマクダ様が聞いておく。\nもうすぐ夜になっちまうから、\nトトリは帰んな	Magda	I'll get the details on the job. But it'll be dark soon, so you'd better head home for now.	玛格达	玛格达大人会问清委托详情的。\n天马上就要黑了，你先回去吧。	瑪格達	瑪格達大人我會先了解委託的詳情。\n天色馬上就要變暗了，托托莉妳快回去吧。
+Date_NPC11_02ID	52	Magda	マクダ	また明日か明後日に来いよ。\nじゃあなトトリ！	Magda	Come and see me in a day or two. And be ready for some brawlin'!	玛格达	明天或者后天再过来。再见啦托托莉！	瑪格達	妳等明天或後天再來吧。再見啦，托托莉！
+Date_NPC11_02ID	53	Totori	トトリ	（マクダさんは喧嘩屋さんだけど、\n　優しい人だな）	Totori	(Magda may be a brawler, but she sure is nice.)	托托莉	（玛格达小姐虽然是打手，\n　却很温柔呢。）	托托莉	（瑪格達小姐雖然是打架專家，\n　但為人非常善良呢。）
+Date_NPC11_03ID	0	Totori	トトリ	マクダさんこんにちは。\n先日の依頼、どうなりましたか？	Totori	Magda, I'm back! Did you find out more about that job?	托托莉	你好，玛格达小姐。\n前几天的委托怎么样了？	托托莉	瑪格達小姐妳好。上次的委託怎麼樣了呢？
+Date_NPC11_03ID	1	Magda	マクダ	あー、それなんだがよ、今ちょっと調整中だ。\n悪いがあの依頼はまた後日な	Magda	Oh, right. That... Sorry, but that job won't start until tomorrow. We're still negotiating a bit, so we can't leave just yet.	玛格达	啊，那个啊，现在还在调整。\n抱歉，还要再等几天。	瑪格達	哦～關於那個啊，目前正在稍作調整。\n不好意思，那個委託要改天再處理了。
+Date_NPC11_03ID	2	Totori	トトリ	調整中……？	Totori	Negotiating...? Negotiating what?	托托莉	还在调整……？	托托莉	正在調整……？
+Date_NPC11_03ID	3	Magda	マクダ	代・わ・り・に。魔物討伐の依頼を受けたぜ！\n魔物相手のケンカだが、ついてくるか？	Magda	The C-O-L-E, of course. What else? But in the meantime, I've got a monster hunting job. Wanna come with?	玛格达	不过呢，我接了讨伐魔物的委托！\n虽然是和魔物打架，你要来吗？	瑪格達	不、過、呢，我接了討伐魔物的委託喔！\n這次是跟魔物打架，妳要跟我去嗎？
+Date_NPC11_03ID	4	Totori	トトリ	はい、せっかくなのでついていきます	Totori	Oh, yes! I want to see you in action.	托托莉	嗯。机会难得，我也要去。	托托莉	嗯，難得有這種機會，請讓我也一起去吧。
+Date_NPC11_03ID	5	Magda	マクダ	っしゃ！　いっちょあがりぃ！	Magda	Hah! One down!	玛格达	好！完工！	瑪格達	好！搞定了！
+Date_NPC11_03ID	6	Magda	マクダ	見たかトトリ！　これが喧嘩屋マクダ様の実力だぜ！	Magda	Didja see that, Totori? That's how a pro does it!	玛格达	看见了吗！这就是打手玛格达大人的实力！	瑪格達	托托莉看到沒！這就是打架專家瑪格達大人我的實力！
+Date_NPC11_03ID	7	Totori	トトリ	マクダさんって、すごく豪快に戦うんですね。\n全身ぼろぼろじゃないですか	Totori	You really don't hold back... But are you all right? Your entire body is covered in wounds!	托托莉	玛格达小姐打起来好豪放啊，\n全身衣服都变得破破烂烂的了。	托托莉	妳的戰鬥方式真是豪邁呢。全身上下沒一處是完好的。
+Date_NPC11_03ID	8	Totori	トトリ	わたしが無傷なのが奇跡みたいですよ	Totori	It's a miracle that I made it out without a scratch.	托托莉	我没有受伤简直就是奇迹。	托托莉	我能夠毫髮無傷簡直是奇蹟。
+Date_NPC11_03ID	9	Magda	マクダ	そりゃ、トトリに魔物が向かわないように戦ったしな	Magda	That wasn't a miracle, that was pure skill. I made sure those things couldn't touch you.	玛格达	那是因为我故意不让魔物往你那边去啊。	瑪格達	那當然囉，因為我在應戰時盡量讓魔物不要盯上妳。
+Date_NPC11_03ID	10	Magda	マクダ	それに、マクダ様は有能な喧嘩屋だからよ。\nもうこの間みてぇに、辺りに被害は出さないぜ	Magda	Like I said, this is how I make a living. I'm not gonna let any innocent bystanders get hurt. And no more innocent walls, either.	玛格达	而且玛格达大人是能干的打手，\n已经不会和之前一样殃及四周了。	瑪格達	更何況瑪格達大人我可是厲害的打架專家。\n不會再像上次那樣牽連無辜了。
+Date_NPC11_03ID	11	Totori	トトリ	（わたしに魔物が向かって来なかったのは\n　マクダさんのおかげだったんだ……）	Totori	(So Magda was drawing the monsters away from me... She was protecting me the whole time.)	托托莉	（原来我没有被魔物攻击\n　都是玛格达小姐的功劳啊……）	托托莉	（原來魔物沒有朝我衝過來，\n　都是因為瑪格達小姐呀……）
+Date_NPC11_03ID	12	Totori	トトリ	あっ、マクダさん、ケガしていませんか？\n治療しましょう。座ってください！	Totori	Magda, are you hurt? Sit down so I can patch you up!	托托莉	啊，玛格达小姐你没受伤吧？\n我来给你治疗，请坐好！	托托莉	啊，瑪格達小姐，妳有沒有受傷？\n我來幫妳治療吧，請坐下！
+Date_NPC11_03ID	13	Magda	マクダ	治療？　いらねえって。\nこれくらい大したことねえよ	Magda	Nah, I don't need any patching up. This is nothin'.	玛格达	治疗？这点小伤不用啦。	瑪格達	治療？不需要啦。這點小傷算不了什麼。
+Date_NPC11_03ID	14	Totori	トトリ	ダメです！　治療しますよ！	Totori	That's nonsense and you know it! Let me help you!	托托莉	不行！我要开始治疗了哦。	托托莉	不可以！我要幫妳治療！
+Date_NPC11_03ID	15	Magda	マクダ	ひゃっひゃっひゃ。トトリはマクダ様の姉かー？	Magda	Heh heh heh... Don't tell me you were worried about little old me.	玛格达	哈哈哈，你是我的姐姐吗？	瑪格達	呀哈哈，托托莉妳是瑪格達大人我的姊姊嗎～？
+Date_NPC11_03ID	16	Totori	トトリ	でも、あれだけ強引な戦い方だったのに、\nこれだけのケガで済んでいるのには驚きました……	Totori	Even though you put yourself in harm's way for me, I'm impressed that your wounds aren't even worse...	托托莉	不过，想不到你明明打得很狂放，\n却只受了这么一点小伤。	托托莉	不過，妳戰鬥方式明明那麼橫衝直撞，\n卻只受了這麼一點傷，真令人驚訝……
+Date_NPC11_03ID	17	Magda	マクダ	だろー？　トトリにも分かっちまったか。\nマクダ様の有能さがな	Magda	See? Told you I was strong. You're finally startin' to catch on.	玛格达	是吧？\n这下你知道玛格达大人有多厉害了吧。	瑪格達	對吧～？這下妳也總算明白瑪格達大人我有多厲害了吧。
+Date_NPC11_03ID	18	Totori	トトリ	あまり無茶しないでくださいよ。\nはい、傷薬塗りますねー	Totori	Don't let it get to your head! You can't afford to be reckless. Now hold still while I apply this ointment...	托托莉	请不要太乱来哦。\n好了，我要涂伤药了。	托托莉	請妳也別太亂來。好，那我要塗傷藥囉～
+Date_NPC11_03ID	19	Magda	マクダ	っつあー！　沁みるぅー！	Magda	Ow! That REALLY stings!	玛格达	啊！痛～！	瑪格達	嗚啊～！好刺痛～！
+Date_NPC11_03ID	20	Magda	マクダ	あー、ケンカしたら腹減ったな。\nなんか持ってくればよかったぜ	Magda	All of this fighting made me hungry. I should've brought along some grub...	玛格达	啊……打完一架肚子好饿。\n早知道带点吃的来了。	瑪格達	哎～打完架肚子就餓了。早知道就帶點吃的過來了。
+Date_NPC11_03ID	21	Magda	マクダ	ん？　食い物のこと考えてたら、\nなんかいい匂いがしてきた気が……	Magda	*Sniff* Speaking of grub... What smells so good?	玛格达	嗯？一想到吃的，\n就好像闻到了一股香味……	瑪格達	嗯？一想著食物，感覺就聞到了好香的味道……
+Date_NPC11_03ID	22	Totori	トトリ	あ、そういえばさっき錬金術で焼いたおさかなパイなら\nありますよ。食べますか？	Totori	Oh, I almost forgot! I have some fish pie that I made earlier. Would you like some?	托托莉	啊，说起来刚才我用炼金术烤了鱼派。要吃吗？	托托莉	啊，這麼說來，我這裡有剛用鍊金術烤好的魚派，妳要吃嗎？
+Date_NPC11_03ID	23	Magda	マクダ	錬金術で焼いた……？\nよく分かんねえが、いただくぜ	Magda	Wait, you made it with alchemy? Not exactly conventional, but I don't mind! I'm starvin'!	玛格达	用炼金术烤的派……？\n虽然不是很懂，不过我要吃。	瑪格達	用鍊金術烤的……？\n雖然不是很懂，但我就不客氣了。
+Date_NPC11_03ID	24	Magda	マクダ	あ、そういえばマクダ様もこれなら持ってるぜ。\nやるよトトリ。手ぇ出しな	Magda	Ah, come to think of it, I've got something for you too. Here.	玛格达	啊，说起来玛格达大人我带了这个。\n托托莉，伸手。	瑪格達	啊，對了，瑪格達大人我身上還有這玩意兒。\n來，托托莉，把手伸出來。
+Date_NPC11_03ID	25	Totori	トトリ	これは……？	Totori	What's this?	托托莉	这是……？	托托莉	這是……？
+Date_NPC11_03ID	26	Magda	マクダ	口に入れて、飲み込まずに噛みまくる。んで、\n柔らかくなったら薄くして、空気を入れるように……	Magda	Pop it in your mouth and chew it, but don't swallow! Once it gets all gooey, try and blow a little air into it!	玛格达	放进嘴里不停地嚼，别吞。\n等它变软之后拉薄，往里面吹气……	瑪格達	放進口中不斷咀嚼，不要吞下去。\n等到變軟後，弄成薄薄的，把空氣吹進去……
+Date_NPC11_03ID	27	Totori	トトリ	！\nほうれふは！？	Totori	Mff... Like thiff?	托托莉	荷样鼓吗？！	托托莉	！這是什摸！？
+Date_NPC11_03ID	28	Magda	マクダ	やるじゃねえか。ま、マクダ様のほうが\nデケーの作れっけどな。今度見せてやるよ	Magda	Not bad for your first try! But I can blow one even bigger. I'll show you next time.	玛格达	你挺会的嘛。不过还是玛格达大人吹得更大。\n下次吹给你看。	瑪格達	很行嘛。不過，瑪格達大人我能吹出更大的就是了。\n下次再表演給妳看。
+Date_NPC11_03ID	29	Magda	マクダ	んぐんぐ……ん！　うまいな！	Magda	*Munch* Mmgh... Man, this is great!	玛格达	嚼嚼……嗯！好吃！	瑪格達	唔嗯唔嗯……嗯！真好吃！
+Date_NPC11_03ID	30	Totori	トトリ	よかったです。おさかなパイ、わたしの家に代々伝わる\nレシピで、わたしのおねえちゃんの得意料理なんです	Totori	I'm glad you like it! My family's recipe for fish pie has been passed down for generations. My big sister taught it to me.	托托莉	太好了。这个鱼派是我们家代代相传的秘方，\n也是我姐姐的拿手菜。	托托莉	太好了。魚派是我們家代代相傳的食譜，\n也是我姊姊的拿手料理。
+Date_NPC11_03ID	31	Totori	トトリ	わたし、おねえちゃんの作る料理が好きで	Totori	Everything she makes is amazing. I miss her cooking.	托托莉	我很喜欢姐姐做的料理。	托托莉	我很喜歡姊姊做的料理。
+Date_NPC11_03ID	32	Magda	マクダ	へえ。誰かが誰かのために作る料理ってのはいいよな。\n自炊じゃ出せねえ優しさがある	Magda	Huh. Guess food's just tastier when you're cooking for someone else... This is way better than the stuff I make at home.	玛格达	这样啊，为别人特意做的料理很不错呢。\n有一种给自己做饭做不出的温柔味道。	瑪格達	嗯，那種用心做給別人吃的料理真的很棒對吧。\n有種自己下廚做不出的溫柔滋味。
+Date_NPC11_03ID	33	Magda	マクダ	そういや、トトリの家族は今どうしてんだ？	Magda	Speaking of home, where is your family, anyway?	玛格达	说起来，你的家人现在怎么样？	瑪格達	對了，妳的家人現在過得怎麼樣啊？
+Date_NPC11_03ID	34	Totori	トトリ	えっと、今は遠くにいて会えないんですけど……\nマクダさんの家族は、今どうしているんですか？	Totori	Far, far away. Way too far for me to visit... How about you, Magda? Do you have family around here?	托托莉	唔，她们在很远的地方，现在暂时见不到……\n玛格达小姐的家人呢？	托托莉	這個嘛，我們現在相隔遠地，見不到面……\n瑪格達小姐妳的家人呢？
+Date_NPC11_03ID	35	Magda	マクダ	どっちもとっくに死んじまってるよ	Magda	Nah. All of 'em are dead.	玛格达	早就都死啦。	瑪格達	兩邊都已經過世了。
+Date_NPC11_03ID	36	Totori	トトリ	あ……えっと……	Totori	Oh, I... I'm sorry.	托托莉	呃……那个……	托托莉	啊……呃……
+Date_NPC11_03ID	37	Magda	マクダ	もうずっと昔のことだ。気にすんな	Magda	Don't worry about it. They've been gone a long time.	玛格达	已经是很久以前的事了，别放在心上。	瑪格達	都是很久以前的事情了，妳別在意。
+Date_NPC11_03ID	38	Magda	マクダ	トトリ、またねえちゃんのうまい料理を\n食える日が楽しみだな！	Magda	But I hope you'll be able to have a taste of your sister's home cooking again sometime soon. Bet you can't wait, huh?	玛格达	你很期待能再次吃到\n姐姐做的美味料理吧！	瑪格達	托托莉，真期待還能再吃到姊姊拿手料理的那一天啊！
+Date_NPC11_03ID	39	Magda	マクダ	トトリのおかげで腹も膨れたし、\n夜になっちまう前に帰んぞ	Magda	That pie really hit the spot... But we'd better get home before the sun goes down.	玛格达	多亏了你，我吃饱了。\n趁天还没黑赶紧回去吧。	瑪格達	託妳的福肚子也填飽了，\n趁天色變黑前回去吧。
+Date_NPC11_03ID	40	Magda	マクダ	行くぞ、トトリ。\nあ、さっきあげたやつは飲み込んだらダメだからな！？	Magda	Let's go, Totori. And remember, don't swallow that chewy stuff I gave you!	玛格达	走了，托托莉。\n啊，刚才给你的那个不能吞下去哦！	瑪格達	走囉，托托莉。\n啊，剛才給妳的那個可不能吞下去喔！
+Date_NPC11_03ID	41	Totori	トトリ	（マクダさん、家族が亡くなっていて、一人なんだ）	Totori	(Poor Magda. It must be hard living without a family...)	托托莉	（玛格达小姐失去了家人，只剩她自己了啊。）	托托莉	（瑪格達小姐在家人過世後就獨自一人生活著啊。）
+Date_NPC11_03ID	42	Totori	トトリ	（マクダさんが喧嘩屋を始めた理由って\n　そこにあるのかな）	Totori	(Since she's been on her own all this time, maybe she had no choice but to become a brawler...)	托托莉	（她会开始做打手，\n　是不是也是因为这个呢？）	托托莉	（她是因為這樣才開始當打架專家的嗎？）
+Date_NPC11_04ID	0	Totori	トトリ	（今日は例の依頼に向かうために、\n　この辺りでマクダさんと待ち合わせ\n　してるけど……）	Totori	(Today's the big day. Magda told me to meet her here before our mission...)	托托莉	（今天我和玛格达小姐约好了在这儿会合，\n　去做上次那个委托……）	托托莉	（為了處理之前的那個委託，\n　要我和瑪格達小姐約好今天在這附近見面……）
+Date_NPC11_04ID	1	Magda	マクダ	お、トトリはっけーん！	Magda	Heh! Found ya!	玛格达	哦，发现托托莉了！	瑪格達	哦，找到托托莉了～！
+Date_NPC11_04ID	2	Magda	マクダ	トトリ、覚悟はできてんだろーな？\n今日のケンカは、魔物相手とはちげぇぞ	Magda	Hope you came prepared. Today's fight is gonna be a lot harder than those pesky old monsters.	玛格达	托托莉，做好心理准备了吧？\n今天的目标可不是魔物哦。	瑪格達	妳做好心理準備了吧？\n今天打架的對手可不是魔物喔。
+Date_NPC11_04ID	3	Totori	トトリ	はい、大丈夫です	Totori	Don't worry, I'm ready!	托托莉	嗯，没问题。	托托莉	是的，沒問題。
+Date_NPC11_04ID	4	Magda	マクダ	おう。なら早速と言いたいところだが、\nまだちと時間には早いからな……	Magda	That's the spirit. I can tell you're raring to go, but we're still a little ahead of schedule.	玛格达	好。虽然想马上出发，\n不过现在时间还有点早……	瑪格達	好。雖然我想趕緊過去，但時間還有一點早……
+Date_NPC11_04ID	5	Magda	マクダ	この喧嘩屋マクダ様に聞きたいことが\nあったら、なんでも答えてやるよ。\n今だけの特別だぜ？	Magda	Y'know what? Since we've got time, it's your lucky day. I'll answer any question you throw at me.	玛格达	你要是有问题想问，\n打手玛格达大人全都会回答的。\n仅限现在哦。	瑪格達	要是有什麼想問打架專家瑪格達大人我的話就問吧。\n現在我有問必答。這可是千載難逢的機會喔？
+Date_NPC11_04ID	6	Totori	トトリ	それなら、\nマクダさんがどうして喧嘩屋を始めたのか、\n聞いてみたいです	Totori	In that case, I was wondering why you became a brawler in the first place.	托托莉	那我想问，\n玛格达小姐为什么会开始做打手呢？	托托莉	這樣的話，我想知道\n瑪格達小姐為什麼會開始當打架專家。
+Date_NPC11_04ID	7	Magda	マクダ	あー、それか。\n一言でいえば、マクダ様が強いからだな	Magda	Were you now? Well... I guess it's 'cause I have a knack for it.	玛格达	啊，这个啊。\n简单来说，因为玛格达大人很强。	瑪格達	啊～這個嗎？簡單來說，\n就是因為瑪格達大人我很強啊。
+Date_NPC11_04ID	8	Magda	マクダ	こんなところで暮らしてたら、\n毎日ケンカしまくりで腕っぷしも\n強くなるってもんだぜ	Magda	Living in a place like this, I had to be strong. I was getting in fights all day, every day.	玛格达	住在这种地方每天打架，\n实力自然就上去了。	瑪格達	畢竟是在這種地方生活，\n天天都在打架，實力自然也越來越強了。
+Date_NPC11_04ID	9	Magda	マクダ	両親が死んだとき、この腕をオリバーに\n買われて月影の会に雇われたんだがよ	Magda	And after my parents died, Oliver recruited me to the Moonlight Society. He needed someone who could hold their own in a fight.	玛格达	父母死了之后，奥利弗看中我的实力，\n让我加入了月影会。	瑪格達	父母過世時，奧利弗看中我的實力，\n僱用我為月影會工作。
+Date_NPC11_04ID	10	Magda	マクダ	その会も気付いたらなくなっちまった\nもんだから、この腕を活かせる生き方として\n喧嘩屋やってんだ	Magda	But before I knew it, the Moonlight Society went up in smoke too. And with my set of skills, it just made sense to keep on working as a muscle for hire.	玛格达	但等我回过神来，月影会都没了。\n为了不浪费我的实力，\n我就开始做打手了。	瑪格達	但月影會也在不知不覺間消失了，\n我因為想憑這身實力過活，\n所以就成了打架專家。
+Date_NPC11_04ID	11	Totori	トトリ	腕を活かせる生き方なら、\n喧嘩屋じゃなくても……	Totori	With your talents, you could've done more than just fight your way through life...	托托莉	不想浪费实力的话，\n就算不做打手也……	托托莉	如果只是想憑實力過活，\n也未必非得當打架專家啊……
+Date_NPC11_04ID	12	Magda	マクダ	マクダ様は勝って手に入れんのが\n好きなんだ。ただ戦いたいわけじゃねえ。\nだから騎士とかはちょっとちげえんだよな	Magda	It's not the fighting that I like—it's the winning and taking what's mine. Life as a knight'd be way too stuffy for someone like me.	玛格达	玛格达大人不是单纯想战斗，\n而是喜欢靠自己的双手去挣东西，\n所以去当骑士也感觉不太对	瑪格達	瑪格達大人我喜歡靠勝利來贏得東西，\n並不是單純想要戰鬥。\n所以騎士之類的不太符合我的期望。
+Date_NPC11_04ID	13		選択肢	騎士のマクダさん、見てみたいです	Selection	But Lady Magda has a nice ring to it.	选项	我想看到成为骑士的玛格达小姐	選項	好想看看瑪格達小姐成為騎士的模樣
+Date_NPC11_04ID	14	Totori	トトリ	騎士のマクダさん、見てみたいです	Totori	But Lady Magda has a nice ring to it.	托托莉	我想看到成为骑士的玛格达小姐。	托托莉	好想看看瑪格達小姐成為騎士的模樣。
+Date_NPC11_04ID	15	Magda	マクダ	おもてぇ鎧着て、\nかたっ苦しい言葉を使うのなんざ、\nマクダ様はごめんこうむるぜ	Magda	Nah, not happening. Who'd wanna throw on that heavy armor and stand around kissing up to royalty all day?	玛格达	玛格达大人可不想穿着沉重的铠甲，\n一板一眼地讲话。	瑪格達	不但得穿上沉重的鎧甲，說話還要畢恭畢敬，\n這種事瑪格達大人我可不幹。
+Date_NPC11_04ID	16	Magda	マクダ	まあ、マクダ様が騎士並みに強いのは\n確かだけどな	Magda	Not this girl... But I gotta admit, I'd probably be good at it.	玛格达	不过，玛格达大人的实力确实不比骑士差。	瑪格達	不過，瑪格達大人我確實和騎士一樣強就是了。
+Date_NPC11_04ID	17		選択肢	自分の気持ちを大切にしているんですね	Selection	You always follow your heart.	选项	你很重视自己的真实想法呢	選項	妳很重視自己的想法呢
+Date_NPC11_04ID	18	Totori	トトリ	マクダさんは、\n自分の気持ちを大切にしているんですね	Totori	You always follow your heart. I admire that about you.	托托莉	玛格达小姐很重视自己的真实想法呢。	托托莉	瑪格達小姐妳很重視自己的想法呢。
+Date_NPC11_04ID	19	Magda	マクダ	おうよ。これはマクダ様の人生だからな	Magda	You're damn right. My life is my own to decide.	玛格达	是啊。因为这是玛格达大人我自己的人生啊。	瑪格達	沒錯，因為這是瑪格達大人我自己的人生啊。
+Date_NPC11_04ID	20	Magda	マクダ	周りになんと言われても、\nマクダ様の好きなように生きてくぜ	Magda	No matter what anyone else says, Magda is always gonna be Magda! And no one's gonna tell me otherwise!	玛格达	不管别人怎么说，\n玛格达大人我都要按自己的想法去活。	瑪格達	不管周遭的人怎麼說，瑪格達大人我都要隨心而活。
+Date_NPC11_04ID	21		選択肢	喧嘩屋は危険です。心配になります	Selection	I'm worried that your life is too dangerous.	选项	打手这个工作很危险，我会担心	選項	打架專家的工作很危險，很令人擔心
+Date_NPC11_04ID	22	Totori	トトリ	でも、喧嘩屋は危険です。\n心配になります	Totori	To be honest, I'm worried about you. You live a very dangerous life.	托托莉	但是打手这个工作很危险，\n我会担心玛格达小姐。	托托莉	可是，打架專家的工作很危險，很令人擔心。
+Date_NPC11_04ID	23	Magda	マクダ	マクダ様の実力をまだ信じられねえか？	Magda	Oh, stop. You're still doubting me after all this?	玛格达	你还不相信玛格达大人的实力吗？	瑪格達	妳還不相信瑪格達大人我的實力嗎？
+Date_NPC11_04ID	24	Magda	マクダ	心配してくれるのは嬉しいけどよ、\nマクダ様が強いのはトトリも分かってるだろ	Magda	Don't get me wrong, I'm glad that you care. But you of all people should know how tough I am!	玛格达	你担心我我是很高兴啦，\n但你应该明白玛格达大人有多强了吧。	瑪格達	我很高興妳這麼為我著想，\n但妳應該也很清楚瑪格達大人我有多強吧？
+Date_NPC11_04ID	25	Magda	マクダ	そろそろ時間だな。向かうか	Magda	Ah, look at the time. Let's get a move on.	玛格达	时间差不多了，走吧。	瑪格達	時間差不多了，我們出發吧。
+Date_NPC11_04ID	26	Magda	マクダ	おー、いたいた	Magda	Heh. Good, he actually showed up.	玛格达	哦，我看到他了。	瑪格達	哦～找到了。
+Date_NPC11_04ID	27		依頼主の男	喧嘩屋！　待ってたぞ。\n今から奴を痛めつけに行くんだな？	Client	Brawl Master Magda! I've been waiting. You ready to go give someone a bruisin'?	男委托人	打手！等你好久了。\n你要现在去把他痛扁一顿对吧？	男性委託人	打架專家！我等妳很久了。\n我們現在就要出發去痛扁那傢伙了吧？
+Date_NPC11_04ID	28	Totori	トトリ	あれ？　依頼主さんも同行するんですか？	Totori	Huh? Is the client coming with us?	托托莉	咦？委托人先生也一起去吗？	托托莉	奇怪？委託人也要一起去嗎？
+Date_NPC11_04ID	29	Magda	マクダ	今日のマクダ様の仕事は、\nこの腐った豚を懲らしめることだぜ	Magda	Heh, kinda... My job today is to beat this little piggy 'til he squeals!	玛格达	今天玛格达大人的工作，\n就是把这只臭猪痛扁一顿。	瑪格達	瑪格達大人我今天的工作，\n就是教訓這個無可救藥的豬頭。
+Date_NPC11_04ID	30		選択肢	相手、間違っていますよ？	Selection	Wait, I think you have the wrong guy!	选项	搞错对象了吧？	選項	妳搞錯對象了喔？
+Date_NPC11_04ID	31	Totori	トトリ	マクダさん、\n相手を間違えていますよ？	Totori	Magda, wait! I think there's been some kind of mistake...	托托莉	玛格达小姐，你搞错对象了吧？	托托莉	瑪格達小姐，妳搞錯對象了喔？
+Date_NPC11_04ID	32	Magda	マクダ	マクダ様は間違えてないぜ	Magda	The Great Magda doesn't make mistakes!	玛格达	玛格达大人可没有搞错。	瑪格達	瑪格達大人我才沒有搞錯。
+Date_NPC11_04ID	33	Magda	マクダ	まあ、いったんマクダ様の話を聞けや	Magda	Just go with it. I'll explain later.	玛格达	你先听玛格达大人把话说完。	瑪格達	總之，妳先聽聽瑪格達大人我的解釋吧。
+Date_NPC11_04ID	34		選択肢	どういうことか教えてください	Selection	Please tell me what's going on!	选项	请说明到底是怎么回事	選項	請告訴我這是怎麼一回事
+Date_NPC11_04ID	35	Totori	トトリ	マクダさん、\nどういうことか教えてください	Totori	Magda, I don't understand... What's going on?	托托莉	玛格达小姐，\n请告诉我这到底是怎么回事。	托托莉	瑪格達小姐，請告訴我這是怎麼一回事。
+Date_NPC11_04ID	36	Magda	マクダ	冷静に状況を確認するその姿勢、\nケンカにおいて大事だぜ	Magda	Good, Totori. The first step to coming out on top in a fight is to assess the situation.	玛格达	打架时冷静地确认情况很重要。	瑪格達	打架就是要像妳這樣，\n懂得保持冷靜，確認眼前的情況。
+Date_NPC11_04ID	37	Magda	マクダ	マクダ様も、ケンカする前にはまず\n冷静に物事を確認するようにしてんだ	Magda	See, I never pick a fight till I know exactly who I'm up against.	玛格达	玛格达大人也一样，\n在打架前会先冷静地确认事实。	瑪格達	瑪格達大人我在打架之前，\n也會冷靜地確認周遭環境。
+Date_NPC11_04ID	38		選択肢	依頼主さんに失礼ですよ	Selection	That's no way to treat a customer!	选项	这样对委托人很没礼貌	選項	妳這樣對委託人很失禮
+Date_NPC11_04ID	39	Totori	トトリ	マクダさん、\n依頼主さんに失礼ですよ	Totori	Magda, stop! That's no way to treat a customer!	托托莉	玛格达小姐，\n你这样对委托人很没礼貌哦。	托托莉	瑪格達小姐，妳這樣對委託人很失禮。
+Date_NPC11_04ID	40	Magda	マクダ	いいかトトリ。マクダ様にとって、\n依頼主は絶対じゃねえんだ	Magda	Relax, Totori. Customers might pay me, but they don't own me. You follow?	玛格达	听好了托托莉，对玛格达大人来说，\n委托人的话并不是绝对的。	瑪格達	聽好了，托托莉。對於瑪格達大人我來說，\n委託人並不是絕對的。
+Date_NPC11_04ID	41	Magda	マクダ	依頼を持ってきたからと言って、\n無条件に信用したり、\nこびへつらったりはしねえ	Magda	Just because someone brings me a job doesn't mean I'm just gonna blindly follow their orders.	玛格达	虽说对方提供了工作机会，\n我也不会无条件相信对方或是向对方献媚。	瑪格達	就算對方委託我做事，\n我也不會無條件地相信對方，\n或是對他阿諛奉承。
+Date_NPC11_04ID	42	Magda	マクダ	マクダ様調べによるとだな、\nどうやらこいつは立場の弱い人間を\nやっすい賃金でこき使う最低野郎だ	Magda	After I looked into this ugly mug a bit more, I found out he's been scamming people out of fair wages. They don't get scummier than him.	玛格达	根据玛格达大人的调查，\n这家伙其实是个人渣，\n用低廉的薪水雇佣压榨弱势群体。	瑪格達	根據瑪格達大人我的調查，\n這傢伙似乎是個用廉價工資壓榨弱勢者的混蛋。
+Date_NPC11_04ID	43	Magda	マクダ	少し前、従業員に告発されて入牢したが、\n出てくるなりマクダ様にお願いして\nその従業員に復讐しようとしやがった	Magda	Eventually, he got locked up for it. But as soon as he got out of jail, what do y'know? He came to me trying to get revenge on the one who turned him in.	玛格达	不久前他因为员工的告发而入狱，\n一出狱就来找玛格达大人，\n希望我报复那个员工。	瑪格達	他不久前遭到員工檢舉而入獄，\n結果他一出獄就跑來委託瑪格達大人我，\n想要報復那名員工。
+Date_NPC11_04ID	44	Magda	マクダ	これは、王宮で働いている堅物にも\n確認済みだからな、間違いないぜ	Magda	And don't worry, I had my contact in the palace make sure I got the right guy. There's no doubt about it.	玛格达	这点我和在王宫工作的那个死脑筋也确认过，\n不会错的。	瑪格達	在王宮做事的那個死腦筋也證實了這件事，絕對錯不了。
+Date_NPC11_04ID	45	Totori	トトリ	なるほど。\n前回、調整中って言っていたのは、\nこれを調べていたんですね……	Totori	Ah, so you weren't negotiating after all. You were gathering information...	托托莉	原来如此。上次你说还在调整中，\n原来是在调查这个啊……	托托莉	原來如此。妳上次說還在調整，\n原來是為了調查這件事啊……
+Date_NPC11_04ID	46		依頼主の男	おい！　貴様、聞いていればベラベラと……\n金はやると言ってるだろ！　早く仕事しろ！	Client	Hey, you lazy bum! I'm not payin' you to stand around whisperin'! I'm payin' you to WORK! Now hop to it!	男委托人	喂！我不说话把我当哑巴呢？\n我不是说了会给钱吗！快给我干活！	男性委託人	喂！我不出聲妳就當我是啞巴啊……\n我都說過會給妳錢了！快點給我做事！
+Date_NPC11_04ID	47	Magda	マクダ	マクダ様はな、喧嘩屋だが、\nなんでも依頼を受けるわけじゃねぇ	Magda	Lemme give this to you straight. I may be a brawler for hire, but that doesn't mean I'll take on just any job.	玛格达	玛格达大人虽然是打手，\n但也不是什么委托都接。	瑪格達	瑪格達大人我呢，雖然是打架專家，\n但我也是會挑工作的。
+Date_NPC11_04ID	48	Magda	マクダ	特に、罪のない一般人を痛めつけろ、\nみたいなやつは絶対にお断りだ。\nだが、	Magda	Especially not one that requires me to hurt innocent people.	玛格达	尤其是要求对无辜的一般人出手的委托，\n我绝不会答应。	瑪格達	尤其是叫我去揍無辜老百姓的這種委託，\n我是絕對不接。不過──
+Date_NPC11_04ID	49	Magda	マクダ	調子に乗ってる悪党を懲らしめるのは\n嫌いじゃねえ！	Magda	But I'll tell you what DO I love: whoopin' the snot out of two-bit con artists like you!	玛格达	不过，\n我不讨厌教训那些自以为是的坏蛋！	瑪格達	我倒是不討厭教訓那些得意忘形的惡棍！
+Date_NPC11_04ID	50	Totori	トトリ	マクダさん、依頼主さんの身柄は\n引き渡せましたか？	Totori	So, were you able to turn him over to the guards?	托托莉	玛格达小姐，\n委托人已经移交了吗？	托托莉	瑪格達小姐，妳把委託人交出去了嗎？
+Date_NPC11_04ID	51	Magda	マクダ	おうよ。\nトトリ、喧嘩屋見学は満足いったか？\n今回のは例外も例外になっちまったが	Magda	Yup! That's the last we'll see of him for a while. Today's job was tricky, but at least you got to see a brawler in action... How was it?	玛格达	嗯。这次的参观让你满意了吗？\n不过这次算是个例外中的例外。	瑪格達	交出去了。托托莉，妳觀摩完打架專家的工作還滿意嗎？\n雖然這次完全是特例就是了。
+Date_NPC11_04ID	52	Totori	トトリ	……マクダさんって	Totori	Well, I learned a lot about you...	托托莉	玛格达小姐你……	托托莉	……瑪格達小姐妳……
+Date_NPC11_04ID	53		選択肢	物事を進める勢いがありますね	Selection	You're a woman of action.	选项	行事很雷厉风行呢	選項	做事很迅速果斷呢
+Date_NPC11_04ID	54	Totori	トトリ	物事を進める勢いがありますね	Totori	You're a woman of action, that's for sure.	托托莉	行事很雷厉风行呢。	托托莉	做事很迅速果斷呢。
+Date_NPC11_04ID	55	Magda	マクダ	マクダ様は後先考えず、\n突き進んでそうってか？	Magda	That's right. The Great Magda gets things done.	玛格达	你是想说玛格达大人我做事欠缺考虑，\n太激进是吗？	瑪格達	妳想說瑪格達大人我看起來是往前直衝，\n不考慮後果的人嗎？
+Date_NPC11_04ID	56	Magda	マクダ	ま、なるようにはなると思ってるぜ。\nもし復讐に来られても、\nマクダ様の強さなら返り討ちにできるしな	Magda	No use worrying about what'll happen until it happens, y'know? If that guy comes after me for revenge, I'll just lay the smackdown on him again.	玛格达	我是觉得船到桥头自然直啦。\n就算事后有人来报复，\n玛格达大人也能把他们打回去。	瑪格達	我覺得船到橋頭自然直啊。就算對方來報仇，\n瑪格達大人我這麼強，一定也能還擊。
+Date_NPC11_04ID	57		選択肢	めちゃくちゃだけど、信念があるんですね	Selection	You're like a tornado. A righteous tornado.	选项	虽然有点乱来，却有自己的信念呢	選項	雖然很亂來，但也是有自己的信念呢
+Date_NPC11_04ID	58	Totori	トトリ	めちゃくちゃだけど、信念があるんですね	Totori	You have a good heart, but you're like a tornado. A righteous tornado.	托托莉	虽然有点乱来，却有自己的信念呢。	托托莉	雖然很亂來，但也是有自己的信念呢。
+Date_NPC11_04ID	59	Magda	マクダ	おう。これは\nマクダ様の生き甲斐みたいなものでもあるな	Magda	Sure am. Matter of fact, that's pretty much my motto.	玛格达	嗯，因为这也算是\n玛格达大人的生存意义吧。	瑪格達	沒錯，畢竟這可以說是瑪格達大人我的生存意義嘛。
+Date_NPC11_04ID	60		選択肢	その正義感と強さ、騎士に向いてますよ	Selection	You're honorable, just like a knight!	选项	你的正义感和强大的实力很适合成为骑士	選項	妳這份正義感和實力，很適合當騎士喔
+Date_NPC11_04ID	61	Totori	トトリ	正義感が強くて、実際に腕も立つから\n騎士に向いてますよ	Totori	You're a brawler, but you do your job with honor. You really would make a good knight.	托托莉	玛格达小姐有很强的正义感而且实力强大，\n很适合做骑士呢。	托托莉	妳的正義感這麼強，實力也無話可說，\n很適合當騎士喔。
+Date_NPC11_04ID	62	Magda	マクダ	トトリがマクダ様の腕を買ってくれてるのは\n嬉しいけどよ	Magda	I'll take that as a compliment... But I'm not swearing my loyalty to anyone any time soon.	玛格达	能获得托托莉的认可，\n玛格达大人是很高兴啦。	瑪格達	妳這麼欣賞瑪格達大人我的實力，\n我是覺得很開心啦。
+Date_NPC11_04ID	63	Magda	マクダ	何も持たない人間が、\n自分の腕一つで稼いでいく……かっけえだろ	Magda	That's what's so great about brawling. I make a living with nothing but me, myself, and my muscles.	玛格达	但是白手起家，靠自己的实力\n获得想要的东西……很帅吧。	瑪格達	但像我這樣一無所有的人，\n只憑一雙拳頭賺錢維生……這不是很酷嗎？
+Date_NPC11_04ID	64	Magda	マクダ	生まれの運がいいだけで勘違いして\n調子に乗ってる奴は許さねえ。\nマクダ様がぶっ飛ばす！	Magda	And I love showing jerks they can't get whatever they want just 'cause they were born luckier than the rest of us. I've got a fistful of humble pie for anyone who says otherwise!	玛格达	我无法原谅那些因为出身好\n就觉得自己高人一等，得意忘形的家伙。\n玛格达大人要把他们统统打飞！	瑪格達	我饒不了那些只是投對胎就得意忘形，\n不知自己有幾兩重的傢伙。\n看瑪格達大人我揍飛他們！
+Date_NPC11_04ID	65	Magda	マクダ	めちゃくちゃかもしれねえが、\nこれがマクダ様の生き甲斐で、信念だ	Magda	It may seem reckless, but it's the code I live by.	玛格达	在别人眼中也许我很乱来，但这就是\n玛格达大人的生存意义和信念。	瑪格達	或許這樣很亂來，\n但這就是瑪格達大人我活著的意義，也是信念。
+Date_NPC11_04ID	66	Totori	トトリ	はい。\n喧嘩屋見学、とても勉強になりました	Totori	Thank you, Magda. Today was really eye-opening.	托托莉	嗯。这次参观让我学到了很多。	托托莉	我明白了。這次參觀打架專家的工作讓我學到了很多。
+Date_NPC11_04ID	67	Totori	トトリ	マクダさん、なんだかわたしのお母さんと\n似てるかも。めちゃくちゃな人だけど、\n信念を持っててみんなに好かれてるんです	Totori	You remind me a lot of my mother. She can be wild, but she always does the right thing. That's why she always wins everyone over.	托托莉	我感觉玛格达小姐也许有点像我的母亲。\n虽然乱来，但坚守自己的信念，\n周围的人都很喜欢她。	托托莉	瑪格達小姐妳有點像我的媽媽呢。\n她雖然是個很亂來的人，\n但有自己的一套信念，大家都很喜歡她。
+Date_NPC11_04ID	68	Totori	トトリ	マクダさんがいろんな人に好かれてて、\n頼られる理由がわかりました	Totori	And that's how you do, too. Once I got to know you, it was easy to see why everyone has so much faith in you.	托托莉	我现在知道为什么\n大家喜欢并且信赖玛格达小姐了。	托托莉	我現在明白這麼多人喜歡妳、信賴妳的原因了。
+Date_NPC11_04ID	69	Totori	トトリ	（一見自由で適当そうなマクダさんだけど、\n　強い信念を持ってるかっこいい人なんだ）	Totori	(Magda may seem like a loose cannon, but she's trustworthy and fair. She uses her strength for good...and I truly admire that.)	托托莉	（玛格达小姐乍一看自由且随意，\n　但其实拥有坚定的信念，非常帅气。）	托托莉	（瑪格達小姐乍看之下隨心所欲、大大咧咧的，但其實是個信念堅定又帥氣的人呢。）
+Date_NPC11_04ID	70	Magda	マクダ	マクダ様は管理されたくねーのよ。\n自由でいてえんだ	Magda	All right, all right. Enough psychoanalyzing. This brawler needs her space.	玛格达	玛格达大人想自由地活着，\n不想被人管束。	瑪格達	瑪格達大人我就是不想被管束啊。\n我想要活得自由自在。
+Date_NPC11_04ID	71	Magda	マクダ	んじゃ、喧嘩屋見学はこれで終いだ！\nほら、いい子は帰る時間だぜ	Magda	The Great Magda works alone, so our little joint mission ends here! It's time for good girls like you to head on home.	玛格达	那打手的工作参观就到此结束！\n到好孩子回家的时间啦。	瑪格達	那麼，打架專家的觀摩之旅就到此結束！\n快走吧，好孩子該回家了。
+Date_NPC11_04ID	72	Totori	トトリ	（喧嘩屋が自由でめちゃくちゃなのか……\n　ううん、マクダさんがただ自由すぎて\n　めちゃくちゃなだけかな？）	Totori	(Are all brawlers this wild...? Probably not. Maybe Magda is just too much of a free spirit.)	托托莉	（打手都是些自由而且乱来的人吗……\n　不对，只是玛格达小姐太自由奔放爱乱来吧？）	托托莉	（打架專家都是這樣隨心所欲又亂來嗎……\n　不，瑪格達小姐只是太灑脫不羈，總愛亂來而已吧？）
+Date_NPC11_05ID	0	Totori	トトリ	（マクダさんいるかな？\n　いたら、少しお話したいな……）	Totori	(I wonder if Magda is around. I was hoping I could talk with her...)	托托莉	（不知道玛格达小姐在不在。\n　要是在的话，我想和她聊聊……）	托托莉	（瑪格達小姐在嗎？如果在的話，想跟她聊聊天……）
+Date_NPC11_05ID	1	Magda	マクダ	おっ、トトリ！	Magda	Heya, Totori!	玛格达	哦，托托莉！	瑪格達	哦，托托莉！
+Date_NPC11_05ID	2	Magda	マクダ	いいところに来たな！	Magda	Perfect timing!	玛格达	你来得正好！	瑪格達	妳來得正好！
+Date_NPC11_05ID	3	Totori	トトリ	こんにちはマクダさん。\nどうしたんですか？\nなんだかとても機嫌が良さそうですけど	Totori	Hi there, Magda! You sure look happy about something. What's going on?	托托莉	你好，玛格达小姐。\n怎么回事，你看起来好像心情很好。	托托莉	妳好，瑪格達小姐。妳怎麼了？看起來心情真好。
+Date_NPC11_05ID	4	Magda	マクダ	トトリ、この後時間平気か？\nなら少しついてこいよ	Magda	Got some time? C'mon, then. I need to borrow you for a bit.	玛格达	托托莉，你等会儿有空吗？\n有的话跟我来一下。	瑪格達	托托莉，妳接下來有空嗎？陪我去個地方吧。
+Date_NPC11_05ID	5	Totori	トトリ	カフェに連れてこられたと思ったら……\nこのたくさんのごちそうはいったい？	Totori	Goodness! I wasn't expecting to see a feast like this when I walked in!	托托莉	我还以为你带我来咖啡厅是要干嘛呢……\n为什么点这么多菜？	托托莉	還在想說妳為什麼帶我來咖啡廳……\n這一桌餐點究竟是怎麼回事？
+Date_NPC11_05ID	6	Totori	トトリ	こんなにたくさん、お金はあるんですか？\nこの間の依頼では、特に報酬も\nもらえなかったはずじゃ……	Totori	This must've cost a fortune! Are you sure this is all right? I mean, we didn't get paid for that last job...	托托莉	你有这么多钱吗？上次那个委托\n应该没有拿到任何报酬吧……	托托莉	點了這麼多，妳有錢付嗎？\n前陣子的委託應該沒有拿到什麼報酬吧……
+Date_NPC11_05ID	7	Magda	マクダ	実はな、そのことで臨時収入があってよ	Magda	Actually, we did. In a roundabout way!	玛格达	其实正因为那件事，我有了笔意外收入。	瑪格達	其實呢，我因為那件事意外拿到一筆錢。
+Date_NPC11_05ID	8	Magda	マクダ	逆恨みの標的にされてた元従業員の奴が、\nマクダ様の噂を聞いて礼を言いに来てよお	Magda	Once that scumbag's former employee found out that I laid his ex-boss out, he gave me a reward!	玛格达	那个被委托人怀恨在心的前员工\n听说了玛格达大人的传闻，专门跑来道谢了。	瑪格達	反遭記恨的那個前員工，\n聽說了瑪格達大人我的傳聞後，就來道謝了。
+Date_NPC11_05ID	9	Magda	マクダ	感謝料みてえなやつもらったから、\n今日は奮発してごちそうだぜ！	Magda	And since that money was to thank us for a job well done, I thought we deserved to go all out!	玛格达	我收到了一笔感谢费，\n所以今天请你吃大餐！	瑪格達	他給了我點錢當作謝禮，\n所以今天我們就來大吃一頓吧！
+Date_NPC11_05ID	10	Magda	マクダ	ほら、トトリも食えよ！	Magda	So go ahead, Totori! Eat up! We earned it.	玛格达	托托莉你也快吃啊！	瑪格達	好啦，托托莉妳也快吃！
+Date_NPC11_05ID	11	Magda	マクダ	いーただっきまーっす！	Magda	All right! Watch me make this grub disappear!	玛格达	我开动了！	瑪格達	那～我開動囉～！
+Date_NPC11_05ID	12	Magda	マクダ	んーっ！　まーじでうんめえ！	Magda	Mmm-mm! This is good stuff!	玛格达	嗯！太好吃了！	瑪格達	嗯～！真的超好吃的～！
+Date_NPC11_05ID	13	Magda	マクダ	おら、トトリもたくさん食えよ！	Magda	Hey now, you're not getting full already, are you? Keep eating!	玛格达	来，托托莉你也多吃点！	瑪格達	好啦，托托莉妳也多吃點吧！
+Date_NPC11_05ID	14	Magda	マクダ	食わねえと大きくなれねえぞー	Magda	You gotta eat if you wanna be big and strong like me!	玛格达	不吃可长不大哦。	瑪格達	不多吃點可會長不大喔～
+Date_NPC11_05ID	15	Totori	トトリ	む。わたしはまだまだ成長期ですから。\nすぐマクダさんに追いつきますよ！	Totori	Hey, I'm still growing! Just you wait, I'll catch up to you soon enough.	托托莉	唔，我还在成长期呢，\n很快就会追上玛格达小姐的！	托托莉	唔，我現在還在發育，\n很快就會追上瑪格達小姐的！
+Date_NPC11_05ID	16	Magda	マクダ	ひゃっひゃっひゃ。そいつぁ楽しみだ！	Magda	Gyahaha! That'll be the day!	玛格达	哈哈哈，我很期待哦！	瑪格達	呀哈哈，那還真令人期待啊！
+Date_NPC11_05ID	17	Magda	マクダ	これからもし、力が必要になったら、\nこの喧嘩屋マクダ様に頼みな！	Magda	From now on, if you ever find yourself in trouble, just say the word and the Great Magda will swoop in to save you!	玛格达	以后如果你需要帮助，\n就来找打手玛格达大人吧！	瑪格達	以後如果有什麼需要幫忙的，\n儘管來找打架專家瑪格達大人我吧！
+Date_NPC11_05ID	18	Totori	トトリ	でも、お高いんですよね？	Totori	Thanks, but I don't know if I can afford it...	托托莉	但玛格达小姐不是很贵吗？	托托莉	但收費不便宜吧？
+Date_NPC11_05ID	19	Magda	マクダ	友達価格で受けてやるよ	Magda	Don't worry, friends get a steep discount.	玛格达	我给你开友情价。	瑪格達	算妳友情價就好。
+Date_NPC11_05ID	20	Totori	トトリ	（強くて優しくて、\n　ちょっとお母さんに似ているマクダさん）	Totori	(Not only is she strong, she's kind, too. Just like my mom...)	托托莉	（玛格达小姐强大又温柔，\n　和母亲有点相似。）	托托莉	（瑪格達小姐身手高強又善良，跟媽媽很像。）
+Date_NPC11_05ID	21	Totori	トトリ	（信念があって、自由で、素敵な人だな）	Totori	(A trustworthy, reliable woman who marches to the beat of her own drum.)	托托莉	（是个坚守信念、自由奔放、非常好的人呢。）	托托莉	（她是個懷抱信念，既灑脫不羈又了不起的人呢。）

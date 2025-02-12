@@ -233,14 +233,14 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 232	号令のホイッスル	Whistle of Command	号令哨子	號令之哨	物攻が最も高い味方に、「クリティカル確率+{0}%」と「クリティカルダメージ+{1}%」を2回行動終了するまで付与	Boosts critical rate by {0}% and critical damage by {1}% for the ally with the highest P. ATK for 2 turns.	赋予物攻最高的我方“暴击率+{0}%”和“暴击伤害+{1}%”，2次行动结束后失效。	賦予我方物攻最高的人「重擊率+{0}%」與「重擊傷害+{1}%」，直到行動結束2次為止。
 233	ブランクシチュー	Blank Stew	白色炖汤	白色燉湯	HPが最も減っている味方1人のHPを40%回復後、「受けるダメージ-{0}%」を1回攻撃を受けるまで付与	Restores HP of the ally with the lowest HP by 40%, then reduces damage received by {0}% for 1 attack.	赋予HP最低1名我方40%的HP，赋予“所受伤害-{0}%”，受到1次攻击后失效。	回復我方HP最低的1人HP40%後，賦予「所受傷害-{0}%」，直到受1次攻擊為止。
 234	ブランクシチュー	Blank Stew	白色炖汤	白色燉湯	HPが最も減っている味方1人のHPを40%回復後、「受けるダメージ-{0}%」を1回攻撃を受けるまで付与	Restores HP of the ally with the lowest HP by 40%, then reduces damage received by {0}% for 1 attack.	赋予HP最低1名我方40%的HP，赋予“所受伤害-{0}%”，受到1次攻击后失效。	回復我方HP最低的1人HP40%後，賦予「所受傷害-{0}%」，直到受1次攻擊為止。
-235	プレーンワッフル				HPが最も減っている味方のHPを25%回復後、対象のマイナス効果を解除する			
-236	プレーンワッフル				HPが最も減っている味方のHPを15%回復後、対象のマイナス効果を解除する			
-237	禁断の袋				最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与			
-238	禁断の袋				最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与			
-239	嘆きの毒煙瓶				最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与			
-240	嘆きの毒煙瓶				最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与			
-241	スペシャルミート				魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-242	スペシャルミート				魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
+235	プレーンワッフル	Plain Waffle	原味华夫饼	原味鬆餅	HPが最も減っている味方のHPを25%回復後、対象のマイナス効果を解除する	Restores 25% HP to the ally with the lowest HP. After recovery, removes target's negative effects.	恢复HP减少最多的1名我方25%的HP。恢复后解除目标的负面效果。	回復我方HP最低者HP25%後，解除目標的減弱效果。
+236	プレーンワッフル	Plain Waffle	原味华夫饼	原味鬆餅	HPが最も減っている味方のHPを15%回復後、対象のマイナス効果を解除する	Restores 15% HP to the ally with the lowest HP. After recovery, removes target's negative effects.	恢复HP减少最多的1名我方15%的HP。恢复后解除目标的负面效果。	回復我方HP最低者HP15%後，解除目標的減弱效果。
+237	禁断の袋	Forbidden Pouch	禁忌锦囊	禁忌的袋子	最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与	Inflicts status effect resistance -{0}% and received P. ATK damage +{1}% to enemy with the highest max HP for 2 turns.	赋予HP上限最高的1名敌人2次“异常状态耐性-{0}%”和“所受物理攻击伤害+{1}%”。	賦予敵方HP最大值最高的1名「異常狀態耐性-{0}%」與「所受物理攻擊傷害+{1}%」2次。
+238	禁断の袋	Forbidden Pouch	禁忌锦囊	禁忌的袋子	最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与	Inflicts status effect resistance -{0}% and received P. ATK damage +{1}% to enemy with the highest max HP for 2 turns.	赋予HP上限最高的1名敌人2次“异常状态耐性-{0}%”和“所受物理攻击伤害+{1}%”。	賦予敵方HP最大值最高的1名「異常狀態耐性-{0}%」與「所受物理攻擊傷害+{1}%」2次。
+239	嘆きの毒煙瓶	Bottle of Poison	叹息毒烟瓶	嘆息毒煙瓶	最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与	Boosts magic attack damage received by the enemy with the highest max HP by {0}% for 2 attacks, and has a very high chance to inflict Poison on them for 1 turn.	赋予HP上限最高的1名敌人“所受魔法攻击伤害+{0}%”，受到2次攻击后失效，以超高概率赋予“中毒”，回合开始1次后失效。	賦予目前HP最高的1名敵人「所受魔法攻擊傷害+{0}%」，直到受2次攻擊為止，並以超高機率賦予「中毒」，直到行動開始1次為止。
+240	嘆きの毒煙瓶	Bottle of Poison	叹息毒烟瓶	嘆息毒煙瓶	最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与	Boosts magic attack damage received by the enemy with the highest max HP by {0}% for 2 attacks, and has a very high chance to inflict Poison on them for 1 turn.	赋予HP上限最高的1名敌人“所受魔法攻击伤害+{0}%”，受到2次攻击后失效，以超高概率赋予“中毒”，回合开始1次后失效。	賦予目前HP最高的1名敵人「所受魔法攻擊傷害+{0}%」，直到受2次攻擊為止，並以超高機率賦予「中毒」，直到行動開始1次為止。
+241	スペシャルミート	Special Meat	特等肉	特等肉	魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	Boosts magic attack skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	赋予魔攻最高的1名我方“魔法攻击技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	賦予我方魔攻最高的1人「魔法攻擊技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+242	スペシャルミート	Special Meat	特等肉	特等肉	魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	Boosts magic attack skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	赋予魔攻最高的1名我方“魔法攻击技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	賦予我方魔攻最高的1人「魔法攻擊技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
 243	フェアニヒターメテオール				敵全体に雷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与			
 244	フェアニヒターメテオール				敵全体に雷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与			
 245	大巨人の鉄槌				敵全体に氷属性ダメージを与え、「素早さ-{0}%」を2回行動終了するまで付与			

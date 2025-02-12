@@ -231,7 +231,7 @@ TalkEvent_19_008ID	13	Roman	ロマン	やぁ、みんな	Roman	Hey, folks.	罗�
 TalkEvent_19_008ID	14	Resna	レスナ	あれ、ロマンさん？　……と、そちらは？	Resna	Oh, Roman? And...you've brought a guest?	蕾斯娜	咦，罗曼先生？还有……这位是？	蕾斯娜	咦，羅曼先生？還有……那位是？
 TalkEvent_19_008ID	15	???	？？？	君がレスナ・シュテルネンリヒトだな	???	You must be Resna Sternenlicht.	？？？	你就是蕾斯娜·修特涅利希特吧？	？？？	妳就是蕾斯娜‧修特涅利希特吧。
 TalkEvent_19_008ID	16	Resna	レスナ	は、はい！　そうですが……あなたは？	Resna	I-I am! And you are...?	蕾斯娜	没、没错！是我……请问你是？	蕾斯娜	是、是的！我就是……您是？
-TalkEvent_19_008ID	17	Brad	ブラッド	私はブラッドリー・カーン。\nこのたび、錬金爵の爵位を授かった者だ	Brad	Bradley Khan. I've recently been appointed Seneschal of Alchemy.	布莱德	我是布莱德利·卡恩。\n被封为炼金爵的就是我。	布萊德	我是布萊德里‧卡恩。\n是這次被授予鍊金爵爵位的人。
+TalkEvent_19_008ID	17	Brad	ブラッド	私はブラッドリー・カーン。\nこのたび、錬金爵の爵位を授かった者だ	Brad	Bradley Khan. I've recently been appointed Seneschal of Alchemy.	布莱德	我是布莱德利·卡恩。\n被封为炼金爵的就是我。	布萊德	我是布萊德利‧卡恩。\n是這次被授予鍊金爵爵位的人。
 TalkEvent_19_008ID	18	Roman	ロマン	私とは、まぁ幼馴染のような感じだよ	Roman	We go way back, actually. You could call us childhood friends.	罗曼	他和我算是儿时的朋友了。	羅曼	他跟我算是兒時玩伴喔。
 TalkEvent_19_008ID	19	Resna	レスナ	れ、錬金爵様！？　は、はじめまして！	Resna	You're the new seneschal?! I-It's so nice to meet you!	蕾斯娜	炼、炼金爵大人？！你、你好！	蕾斯娜	鍊、鍊金爵大人！？初、初次見面！
 TalkEvent_19_008ID	20	Brad	ブラッド	錬金爵として君のことを調べ、またリヒャルトからも\n君のことをよく聞いている。よろしくお願いする	Brad	I've done my research on you, as befitting my position, but I've heard even more about you from Richard. I'm looking forward to getting to know you better.	布莱德	我作为炼金爵调查过你，也从理查德那里\n听说过你的事迹。请多关照。	布萊德	我以鍊金爵的身分調查過妳，\n也經常聽理查德說關於妳的事，請多指教了。
@@ -265,7 +265,7 @@ TalkEvent_19_009ID	4	Lara	ララ	あら。ささいなことですわ	Lara	A tri
 TalkEvent_19_009ID	5	Lanze	ランツェ	いや……ぜんぜん、ささいじゃねえよ！\n勝手にお前の王国部隊に組み込むな！	Lanze	Ain't nothin' triflin' about it! Ya can't just go recruitin' folks into your personal armies without askin'!	兰泽	不是……这完全不是小事啊！\n别擅自把我拉进你的王国部队好不好！	藍澤	不對……這哪裡是小事！\n別擅自成立妳的王國部隊啦！
 TalkEvent_19_009ID	6	Brad	ブラッド	敵同士だった相手と、随分親しくなっているのだな	Brad	Despite starting as mutual enemies, you certainly seem to be on good terms.	布莱德	明明原本彼此是敌人，现在倒是变得很亲近嘛。	布萊德	你們和自己的前敵人變得可真親近啊。
 TalkEvent_19_009ID	7	Lanze	ランツェ	ああ？　なんだお前は	Lanze	Oh yeah? And who're you?	兰泽	啊？你是什么人？	藍澤	啊？你哪位啊？
-TalkEvent_19_009ID	8	Brad	ブラッド	錬金爵のブラッドリーだ。\n今回の作戦に同行させてもらうことになった	Brad	Bradley Khan, Seneschal of Alchemy. I'll be accompanying you on this mission.	布莱德	我是炼金爵布莱德利。\n我会和你们一同参加这次的行动。	布萊德	我是鍊金爵布萊德。\n這次作戰我將與你們同行。
+TalkEvent_19_009ID	8	Brad	ブラッド	錬金爵のブラッドリーだ。\n今回の作戦に同行させてもらうことになった	Brad	Bradley Khan, Seneschal of Alchemy. I'll be accompanying you on this mission.	布莱德	我是炼金爵布莱德利。\n我会和你们一同参加这次的行动。	布萊德	我是鍊金爵布萊德利。\n這次作戰我將與你們同行。
 TalkEvent_19_009ID	9	Heidi	ハイディ	ええっ！？　国のお偉いさんがどうして！？	Heidi	Huh?! Doesn't that mean you're a government bigwig?!	海蒂	什么？！国家的大人物为什么会来啊？！	海蒂	咦咦！？國家的高官為什麼……！？
 TalkEvent_19_009ID	10	Brad	ブラッド	錬金爵として、極夜の錬金党は放置できんからな。\nもちろん、元錬金党の者も含めて	Brad	My position demands that I cannot turn a blind eye to any of the Polar Night Alchemists' actions. Past OR present.	布莱德	身为炼金爵，我不能放任极夜的炼金党不管。\n当然，也包含炼金党前成员。	布萊德	因為身為鍊金爵的我不能放任極夜的鍊金黨不管。\n當然，這也包含鍊金黨的前成員。
 TalkEvent_19_009ID	11	Brad	ブラッド	私は、リヒャルトのように甘くはない	Brad	Nor am I as easily won over as Richard.	布莱德	我可不像理查德那样天真。	布萊德	我可不像理查德那麼天真。
@@ -283,7 +283,7 @@ TalkEvent_19_009ID	22	Heidi	ハイディ	マクダ！？　あんた、どうし
 TalkEvent_19_009ID	23	Lara	ララ	この方はどなたですの？	Lara	Er, who might this person be?	拉拉	这位是？	拉拉	這是哪位呀？
 TalkEvent_19_009ID	24	Heidi	ハイディ	あぁ。私と相棒が月影の会にいた頃の同僚だよ。\n「喧嘩屋マクダ」って名の通った凄腕なんだ	Heidi	"Ah, she's an old coworker from my Moonlight Society days. She made a name for herself as ""Brawl Master Magda."""	海蒂	哦，是我和搭档还在月影会时的同事。\n人称“打架高手玛格达”，非常厉害哦。	海蒂	啊，她是我和搭檔在月影會時的同事，\n有著「打架專家瑪格達」的稱號，身手了得。
 TalkEvent_19_009ID	25	Flocke	フロッケ	フロッケたちと家もご近所さんでした	Flocke	Plus, she used to live right next door to us!	芙洛可	以前和我们也是邻居呢。	芙洛可	她也是芙洛可和大家的鄰居。
-TalkEvent_19_009ID	26	Magda	マクダ	マクダ・キュプカー。\nケンカの依頼は請け負うぜ。魔物相手でもな	Magda	I'm Magda Kupker. If you need to win a fight, I'm a sure bet! I don't mind tangling with monsters, either.	玛格达	我是玛格达·库普卡，\n承接打架的委托，对手是魔物也没问题。	瑪格達	瑪格達‧秋普卡。打架的委託我就接下了，\n對手是魔物也一樣。
+TalkEvent_19_009ID	26	Magda	マクダ	マクダ・キュプカー。\nケンカの依頼は請け負うぜ。魔物相手でもな	Magda	I'm Magda Kupker. If you need to win a fight, I'm a sure bet! I don't mind tangling with monsters, either.	玛格达	我是玛格达·库普卡，\n承接打架的委托，对手是魔物也没问题。	瑪格達	瑪格達‧庫普卡。打架的委託我就接下了，\n對手是魔物也一樣。
 TalkEvent_19_009ID	27	Lara	ララ	あら、月影の会は先日、壊滅したはずでは？	Lara	Was the Moonlight Society not completely disbanded?	拉拉	咦，月影会先前不是已经瓦解了吗？	拉拉	哎呀，月影會之前應該已經被摧毀了，不是嗎？
 TalkEvent_19_009ID	28	Magda	マクダ	そうなんだよ、オリバーに仕事を頼まれてさ。\n長いこと北に行ってて王都を離れてたんだ	Magda	Sure was. But I was way up in the north on Oliver's orders for ages.	玛格达	是啊。我当时被奥利弗安排了工作，\n一直在北方，不在王都。	瑪格達	就是說啊，因為奧利弗派工作給我，\n所以我去了北方，離開王都好一段時間了。
 TalkEvent_19_009ID	29	Magda	マクダ	んで、戻ってきたら月影の会は壊の滅。\nオリバーも鴉も捕まったときたもんだ	Magda	Didn't get back until the dust had settled, and by then, the group was gone. Oliver and Crow'd been caught, too.	玛格达	等我回来以后月影会已经散伙，\n奥利弗和鸦也被抓起来了。	瑪格達	然後，等我回來時，月影會竟然已經被徹底摧毀。\n奧利弗和烏鴉也都被抓起來了。
@@ -858,11 +858,11 @@ TalkEvent_19_031ID	11	Lara	ララ	極夜の錬金党は、そうした組織で�
 TalkEvent_19_031ID	12	Walther	ワルター	私の渇望とは、錬金術のすべてを知ることです。\n一般には禁忌とされていることも含めて	Walther	Mine is to unravel all the secrets of alchemy—including the aspects that are generally regarded as taboo.	瓦尔特	我所渴望的就是知晓关于炼金术的一切，\n包括那些被视作禁忌的内容。	瓦爾特	我的渴望是了解鍊金術的一切，\n包含一般被視為禁忌的內容。
 TalkEvent_19_031ID	13	Resna	レスナ	禁忌……	Resna	Oh...	蕾斯娜	禁忌的内容……	蕾斯娜	禁忌……
 TalkEvent_19_031ID	14	Walther	ワルター	極夜の錬金党という組織は、\nそういう意味で私にとっては理想の環境でした	Walther	As such, the freedom we had as Polar Night Alchemists made it the ideal organization for me to belong to.	瓦尔特	在这个意义上，极夜的炼金党这个组织\n对我来说是个理想的环境。	瓦爾特	就這層意義而言，極夜的鍊金黨這個組織\n對我來說是理想的環境。
-TalkEvent_19_031ID	15	Resna	レスナ	アメルハウザーの一族の過去が\n何か関係していたりはしませんか？	Resna	Does it have anything to do with the Amelhauser family's history?	蕾斯娜	和亚梅尔豪瑟一族的过去有什么关系吗？	蕾斯娜	會不會和阿默豪森一族的過去\n有什麼關聯呢？
-TalkEvent_19_031ID	16	Walther	ワルター	アメルハウザーが？\n……なるほど、面白い考えですね	Walther	The Amelhausers, you say? Hm, that is a fascinating question.	瓦尔特	亚梅尔豪瑟？\n这样啊……真是个有趣的想法。	瓦爾特	阿默豪森嗎？\n……原來如此，這個想法很有意思。
+TalkEvent_19_031ID	15	Resna	レスナ	アメルハウザーの一族の過去が\n何か関係していたりはしませんか？	Resna	Does it have anything to do with the Amelhauser family's history?	蕾斯娜	和阿默豪森一族的过去有什么关系吗？	蕾斯娜	會不會和阿默豪森一族的過去\n有什麼關聯呢？
+TalkEvent_19_031ID	16	Walther	ワルター	アメルハウザーが？\n……なるほど、面白い考えですね	Walther	The Amelhausers, you say? Hm, that is a fascinating question.	瓦尔特	阿默豪森？\n这样啊……真是个有趣的想法。	瓦爾特	阿默豪森嗎？\n……原來如此，這個想法很有意思。
 TalkEvent_19_031ID	17	Walther	ワルター	確証はありませんが、もしかしたら\nあなたがたの考えは当たっているかもしれませんよ	Walther	While I could not offer any definitive proof, I dare say that you are correct.	瓦尔特	虽然没有确凿的证据，\n但说不定你的想法是对的。	瓦爾特	雖然沒有確鑿的證據，\n但說不定你們的猜測是正確的。
-TalkEvent_19_031ID	18	Walther	ワルター	前に古城で黒いローブの者たちを見たと思いますが、\nどうやら彼らはアメルハウザーの血縁者のようですから	Walther	When I first saw those figures in black robes at the ruined castle, I had the sneaking suspicion that they were members of the Amelhauser bloodline.	瓦尔特	之前我在古堡里看到过身披黑袍的人们，\n他们似乎和亚梅尔豪瑟有血缘关系。	瓦爾特	你們之前應該有在古城看到穿黑色長袍的人，\n他們身上似乎流著阿默豪森的血脈。
-TalkEvent_19_031ID	19	Resna	レスナ	……！　ということはやっぱり、アメルハウザー家が\n目的に大きく絡んでいるということでしょうか	Resna	So they really are connected.	蕾斯娜	这么说来，亚梅尔豪瑟家族\n果然和她的目的有着很大的关系？	蕾斯娜	……！這也就是說，\n她的目的果然跟阿默豪森家族大有關聯嗎？
+TalkEvent_19_031ID	18	Walther	ワルター	前に古城で黒いローブの者たちを見たと思いますが、\nどうやら彼らはアメルハウザーの血縁者のようですから	Walther	When I first saw those figures in black robes at the ruined castle, I had the sneaking suspicion that they were members of the Amelhauser bloodline.	瓦尔特	之前我在古堡里看到过身披黑袍的人们，\n他们似乎和阿默豪森有血缘关系。	瓦爾特	你們之前應該有在古城看到穿黑色長袍的人，\n他們身上似乎流著阿默豪森的血脈。
+TalkEvent_19_031ID	19	Resna	レスナ	……！　ということはやっぱり、アメルハウザー家が\n目的に大きく絡んでいるということでしょうか	Resna	So they really are connected.	蕾斯娜	这么说来，阿默豪森家族\n果然和她的目的有着很大的关系？	蕾斯娜	……！這也就是說，\n她的目的果然跟阿默豪森家族大有關聯嗎？
 TalkEvent_19_031ID	20	Roman	ロマン	ワルター。君は錬金党では古株らしいね。\nクリセルダとの関わりを教えてくれないか？	Roman	Walther, you've been with the Polar Night Alchemists the longest, right? Would you mind telling us everything you know about Criselda?	罗曼	瓦尔特，你好像是炼金党里的老成员了。\n能说说你和克莉赛尔达的关系吗？	羅曼	瓦爾特，你在鍊金黨的資歷似乎很深。\n可以將你和克莉賽爾達的關係告訴我們嗎？
 TalkEvent_19_031ID	21	Walther	ワルター	ええ、まあ。それは構いませんが――	Walther	I suppose I can do that.	瓦尔特	嗯，没问题——	瓦爾特	嗯，可以啊，我倒是無所謂──
 TalkEvent_19_031ID	22	Walther	ワルター	オアゼス州に生まれた私は、砂漠にある遺跡群に\n興味を持ち、考古学の道に進みました	Walther	I was born in Oazes Province. I was intrigued by the ruins in the desert, so I pursued a career in archaeology.	瓦尔特	我出生于奥亚泽斯州，因为对沙漠中的\n遗迹群感兴趣，就选择了研究考古学。	瓦爾特	出生在奧亞塞斯州的我，對沙漠的遺跡群產生了興趣，\n便決定鑽研考古學。

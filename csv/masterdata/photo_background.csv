@@ -46,8 +46,8 @@ id	name	name_en	name_zh-CN	name_zh-TW
 45	フリーゲン-外れ（夜）	Friegen - Outskirts (Night)	弗里根-郊外（夜晚）	弗里岡-郊區（夜晚）
 46	フリーゲン-広場（昼）	Friegen - Town Square(Day)	弗里根-广场（白天）	弗里岡-廣場（白天）
 47	フリーゲン-広場（夜）	Friegen - Town Square (Night)	弗里根-广场（夜晚）	弗里岡-廣場（夜晚）
-48	旧アメルハウザー城（昼）	Old Amelhauser Castle (Day)	旧亚梅尔豪瑟城堡（白天）	舊阿默豪森城（白天）
-49	旧アメルハウザー城（夜）	Old Amelhauser Castle (Night)	旧亚梅尔豪瑟城堡（夜晚）	舊阿默豪森城（夜晚）
+48	旧アメルハウザー城（昼）	Old Amelhauser Castle (Day)	旧阿默豪森城堡（白天）	舊阿默豪森城（白天）
+49	旧アメルハウザー城（夜）	Old Amelhauser Castle (Night)	旧阿默豪森城堡（夜晚）	舊阿默豪森城（夜晚）
 50	海底の洞窟（昼）	Undersea Cavern (Day)	海底洞窟（白天）	海底洞窟（白天）
 51	海底の洞窟（夜）	Undersea Cavern (Night)	海底洞窟（夜晚）	海底洞窟（夜晚）
 52	王都-地下水道（昼）	The Capital - Waterways (Day)	王都-地下水路（白天）	王都-地下水道（白天）
@@ -56,21 +56,21 @@ id	name	name_en	name_zh-CN	name_zh-TW
 55	メリディエ火山（夜）	Meridie Volcano (Night)	梅里迪耶火山（夜晚）	梅莉狄耶火山（夜晚）
 56	悠久の峡谷（昼）	Eternal Canyon (Day)	悠久峡谷（白天）	悠久峽谷（白天）
 57	悠久の峡谷（夜）	Eternal Canyon (Night)	悠久峡谷（夜晚）	悠久峽谷（夜晚）
-58	木漏れ日の山道（昼）			
-59	木漏れ日の山道（夜）			
-60	ルーエ湖畔（昼）			
-61	ルーエ湖畔（夜）			
-62	深淵の隠れ家（昼）			
-63	深淵の隠れ家（夜）			
-64	アトリエ（星誕祭）			
-65	王都-広場（雪景色/昼）			
-66	王都-広場（雪景色/夜）			
-67	王都-広場（雪景色/昼・雪）			
-68	王都-広場（雪景色/夜・雪）			
-69	ヴィアベル群島（昼）			
-70	ヴィアベル群島（夜）			
-71	探究者の遺跡（昼）			
-72	探究者の遺跡（夜）			
+58	木漏れ日の山道（昼）	Sunlit Mountain Pass (Day)	树影婆娑的山路（白天）	灑落陽光的山道（白天）
+59	木漏れ日の山道（夜）	Sunlit Mountain Pass (Night)	树影婆娑的山路（夜晚）	灑落陽光的山道（夜晚）
+60	ルーエ湖畔（昼）	Rue Lakeside (Day)	鲁艾湖畔（白天）	魯耶湖畔（白天）
+61	ルーエ湖畔（夜）	Rue Lakeside (Night)	鲁艾湖畔（夜晚）	魯耶湖畔（夜晚）
+62	深淵の隠れ家（昼）	Abyssal Hideout (Day)	深渊藏身处（白天）	深淵藏身處（白天）
+63	深淵の隠れ家（夜）	Abyssal Hideout (Night)	深渊藏身处（夜晚）	深淵藏身處（夜晚）
+64	アトリエ（星誕祭）	Atelier (Starbirth Festival)	炼金工房（星诞祭）	鍊金工房（星誕祭）
+65	王都-広場（雪景色/昼）	The Capital - Town Square (Snowscape/Day)	王都-广场（雪景/白天）	王都-廣場（雪景/白天）
+66	王都-広場（雪景色/夜）	The Capital - Town Square (Snowscape/Night)	王都-广场（雪景色/夜晚）	王都-廣場（雪景色/夜晚）
+67	王都-広場（雪景色/昼・雪）	The Capital - Town Square (Snowscape/Day, Snowing)	王都-广场（雪景/白天·雪）	王都-廣場（雪景/白天、雪）
+68	王都-広場（雪景色/夜・雪）	The Capital - Town Square (Snowscape/Night, Snowing)	王都-广场（雪景色/夜晚·雪）	王都-廣場（雪景色/夜晚、雪）
+69	ヴィアベル群島（昼）	Wirbel Archipelago (Day)	薇亚贝尔群岛（白天）	維亞貝爾群島（白天）
+70	ヴィアベル群島（夜）	Wirbel Archipelago (Night)	薇亚贝尔群岛（夜晚）	維亞貝爾群島（夜晚）
+71	探究者の遺跡（昼）	Seeker's Ruins (Day)	探究者遗迹（白天）	探究者的遺跡（白天）
+72	探究者の遺跡（夜）	Seeker's Ruins (Night)	探究者遗迹（夜晚）	探究者的遺跡（夜晚）
 73	黄金色の平原（昼）			
 74	黄金色の平原（夜）			
 75	密やかな林道（昼）			

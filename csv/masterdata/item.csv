@@ -720,7 +720,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 746	ナラインハ	Nareinja	澄净之橙	橙淨冰石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
 747	決戦コイン[旋風！！ユーディーからの試練 ]	Challenge Coin [Whirlwind!! Judie's Trial]	决战硬币[旋风！！优蒂的试炼]	決戰硬幣[旋風！！優蒂給予的試煉]	イベント「旋風！！ユーディーからの試練」交換所で使用できるアイテム。	"Exchange for items at the ""Whirlwind!! Judie's Trial"" Exchange."	可以在“旋风！！优蒂的试炼”兑换所使用的道具。	可於「旋風！！優蒂給予的試煉」兌換所使用的道具。
 748	挑戦券[旋風！！ユーディーからの試練]	Challenge Ticket [Whirlwind!! Judie's Trial]	挑战券[旋风！！优蒂的试炼]	挑戰券[旋風！！優蒂給予的試煉]	イベント「旋風！！ユーディーからの試練」に挑戦するために必要な券。	"Ticket required to participate in the ""Whirlwind!! Judie's Trial"" Event."	挑战“旋风！！优蒂的试炼”活动所需的券。	挑戰活動「旋風！！優蒂給予的試煉」所需的票券。
-749	希望の粒				食べると力が湧く希少な果実の粒。色合いが似ている\nことから、星の力が蓄えられているとされている。\nキャラのレベル上限解放に使用できる。			
+749	希望の粒	Shards of Hope	希望果粒	希望粒子	食べると力が湧く希少な果実の粒。色合いが似ている\nことから、星の力が蓄えられているとされている。\nキャラのレベル上限解放に使用できる。	Pieces of a rare fruit that fills one with strength when eaten. Its colors resemble those of the stars, leading many to believe it stores their power. Can be used to raise a character's maximum level.	使用后会涌上力量的稀少果实。\n因为颜色和星星相似，被认为其中积蓄着星之力。\n可用于解锁角色等级上限。	食用後會湧出力量的稀有果實粒子。\n因顏色相似，人們認為它積蓄著星之力。\n可用於解鎖角色等級上限。
 750	虹魚	Rainbow Fish	虹鱼	虹魚	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
 751	ハーブフレグランス	Herb Fragrance	香草香水	香草香水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
 752	純粋なパウダー	Pure Powder	无垢粉	純粹粉末	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
@@ -734,55 +734,55 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 760	イベントポイント[HALLOWEEN2024]	Event Point [HALLOWEEN 2025]	活动积分[HALLOWEEN2025]	活動點數[HALLOWEEN2025]	イベント「HALLOWEEN2024ミッション」で報酬を獲得するために必要なポイント。	"Points needed to earn rewards during the ""Halloween 2025 Missions"" Event."	在活动“HALLOWEEN2025任务”中获得报酬所需的积分。	活動[HALLOWEEN2025任務]中獲得報酬所需的點數。
 761	挑戦券[ボスチャレンジ コズミックシェル]	Challenge Ticket [Boss Challenge: Cosmic Shell]	挑战券[头目挑战 宇宙壳]	挑戰券[頭目挑戰 宇宙殼]	イベント「ボスチャレンジ コズミックシェル」に挑戦するために必要な券。	"Ticket required to participate in the ""Boss Challenge: Cosmic Shell"" Event."	挑战“头目挑战 宇宙壳”活动所需的券。	挑戰活動「頭目挑戰 宇宙殼」所需的票券。
 762	決戦コイン[ボスチャレンジ コズミックシェル]	Challenge Coin [Boss Challenge: Cosmic Shell]	决战硬币[头目挑战 宇宙壳]	決戰硬幣[頭目挑戰 宇宙殼]	イベント「ボスチャレンジ コズミックシェル」交換所で使用できるアイテム。	"Exchange for items at the ""Boss Challenge: Cosmic Shell"" Exchange."	可以在“头目挑战 宇宙壳”兑换所使用的道具。	可於「頭目挑戰 宇宙殼」兌換所使用的道具。
-765	ねむり花				調合をするために必要な素材。			
-766	カラナシマイマイ				調合をするために必要な素材。			
-767	アルラウネの根				調合をするために必要な素材。			
-768	ヤミヨタケ				調合をするために必要な素材。			
-769	オドリダケ				調合をするために必要な素材。			
-770	エルトナイト				調合をするために必要な素材。			
-771	渇きの中で咲く花たちガチャチケット				渇きの中で咲く花たち LEGEND FESを1回引くことができるチケット。			
-772	イベントポイント[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」のストーリーを読むために必要なポイント。			
-773	イベントポイント[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」のストーリーを読むために必要なポイント。			
+765	ねむり花	Slumber Bloom	眠花	睡眠花	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+766	カラナシマイマイ	Shellterless Snail	无壳蜗牛	無殼蝸牛	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+767	アルラウネの根	Alraune Root	花妖的根	花妖的根	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+768	ヤミヨタケ	Darkshroom	暗夜菇	闇夜菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+769	オドリダケ	Jigshroom	跳舞菇	舞舞菇	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+770	エルトナイト	Ertonite	艾尔托纳石	艾爾托納石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+771	渇きの中で咲く花たちガチャチケット	Flowers That Bloom in a Drought Wish Ticket	渴望中绽放之花星愿券	在渴望中綻放的群花星願券	渇きの中で咲く花たち LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Flowers That Bloom in a Drought - LEGEND FES.	使用该券可以在“渴望中绽放之花 LEGEND FES”许下1次星愿。	可許下1次在渴望中綻放的群花 LEGEND FES星願的票券。
+772	イベントポイント[渇きの中で咲く花たち]	Event Point [Flowers That Bloom in a Drought]	活动积分[渴望中绽放之花]	活動點數[在渴望中綻放的群花]	イベント「渇きの中で咲く花たち」のストーリーを読むために必要なポイント。	"Points needed to read the story during the ""Flowers That Bloom in a Drought"" Event."	阅读“渴望中绽放之花”活动故事所需的积分。	閱讀活動「在渴望中綻放的群花」的故事所需的點數。
+773	イベントポイント[混沌と規律の邂逅]	Event Point [Convergence of Chaos and Order]	活动积分[混沌和规则的邂逅]	活動點數[混沌與規律的邂逅]	イベント「混沌と規律の邂逅」のストーリーを読むために必要なポイント。	"Points needed to read the story during the ""Convergence of Chaos and Order"" Event."	阅读“混沌和规则的邂逅”活动故事所需的积分。	閱讀活動「混沌與規律的邂逅」的故事所需的點數。
 774	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
-775	火炎祭ガチャチケットNo.1				火炎祭ガチャ LEGEND FESを1回引くことができるチケット。			
-776	挑戦券[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」に挑戦するために必要な券。			
-777	踊る混沌 マクダガチャチケット				踊る混沌 マクダ LEGEND FESを1回引くことができるチケット。			
-778	フレッシュミント				調合をするために必要な素材。			
-779	漆黒樹の原木				調合をするために必要な素材。			
-780	ムカシヤシの実				調合をするために必要な素材。			
-781	苦悩せし規律 ブラッドガチャチケット				苦悩せし規律 ブラッド LEGEND FESを1回引くことができるチケット。			
-782	斬裂祭ガチャチケットNo.1				斬裂祭ガチャ LEGEND FESを1回引くことができるチケット。			
-783	チャレンジコイン[渇きの中で咲く花たち]				イベント「渇きの中で咲く花たち」交換所で使用できるアイテム。			
-784	挑戦券[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」に挑戦するために必要な券。			
-785	チャレンジコイン[混沌と規律の邂逅]				イベント「混沌と規律の邂逅」交換所で使用できるアイテム。			
-786	挑戦券[ブラッドの実地調査]				イベント「ブラッドの実地調査」に挑戦するために必要な券。			
-787	ダンジョンコイン				イベント「ブラッドの実地調査」交換所で使用できるアイテム。			
-788	ラーメル麦				調合をするために必要な素材。			
-789	蒸留石				調合をするために必要な素材。			
-790	リュウグウオウムガイ				調合をするために必要な素材。			
-791	極夜激闘 解放者たちの決意ガチャチケット				極夜激闘 解放者たちの決意 LEGEND FESを1回引くことができるチケット。			
-792	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			
-793	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
-794	大きな原石				調合をするために必要な素材。			
-795	オオカブト				調合をするために必要な素材。			
-796	ニトロ水				調合をするために必要な素材。			
-797	臭い石				調合をするために必要な素材。			
-798	古代樹の欠片				調合をするために必要な素材。			
-799	イラストリアスウッド				調合をするために必要な素材。			
-801	水結晶				調合をするために必要な素材。			
-802	フローズンジンビオーズ				調合をするために必要な素材。			
-803	氷塊トカゲ				調合をするために必要な素材。			
-804	ウィスプストーン				調合をするために必要な素材。			
-805	極夜激闘 黒の奪還ガチャチケット				極夜激闘 黒の奪還 LEGEND FESを1回引くことができるチケット。			
-806	嵐風祭ガチャチケットNo.1				嵐風祭ガチャ LEGEND FESを1回引くことができるチケット。			
-807	ケモノ肉				調合をするために必要な素材。			
-808	新鮮な肉				調合をするために必要な素材。			
-809	霜降りの肉				調合をするために必要な素材。			
-810	挑戦券[目指せハイスコア！ラムローストくんバトル]				イベント「目指せハイスコア！ラムローストくんバトル」に挑戦するために必要な券。			
-811	チャレンジコイン[目指せハイスコア！ラムローストくんバトル]				イベント「目指せハイスコア！ラムローストくんバトル」交換所で使用できるアイテム。			
+775	火炎祭ガチャチケットNo.1	Fire Division Wish Ticket No.1	火焰会场星愿券No.1	火焰祭星願券No.1	火炎祭ガチャ LEGEND FESを1回引くことができるチケット。	火炎祭ガチャ LEGEND FESを1回引くことができるチケット。	火炎祭ガチャ LEGEND FESを1回引くことができるチケット。	火炎祭ガチャ LEGEND FESを1回引くことができるチケット。
+776	挑戦券[渇きの中で咲く花たち]	Challenge Ticket [Flowers That Bloom in a Drought]	挑战券[渴望中绽放之花]	挑戰券[在渴望中綻放的群花]	イベント「渇きの中で咲く花たち」に挑戦するために必要な券。	"Ticket required to participate in the ""Flowers That Bloom in a Drought"" Event."	挑战“渴望中绽放之花”活动所需的券。	挑戰活動「在渴望中綻放的群花」所需的票券。
+777	踊る混沌 マクダガチャチケット	Dancing Chaos: Magda Wish Ticket	舞动的混沌 玛格达星愿券	躍動混沌 瑪格達星願券	踊る混沌 マクダ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Dancing Chaos: Magda - LEGEND FES.	使用该券可以在“舞动的混沌 玛格达 LEGEND FES”许下1次星愿。	可許下1次躍動混沌 瑪格達 LEGEND FES星願的票券。
+778	フレッシュミント	Fresh Mint	清新薄荷	清新薄荷	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+779	漆黒樹の原木	Blacktree Lumber	漆黑树的原木	漆黑樹的原木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+780	ムカシヤシの実	Coco Fruit	古早椰子	古早椰子	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+781	苦悩せし規律 ブラッドガチャチケット	Tormented Order: Brad Wish Ticket	苦恼的监督者 布莱德星愿券	苦惱的紀律 布萊德星願券	苦悩せし規律 ブラッド LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Tormented Order: Brad - LEGEND FES.	使用该券可以在“苦恼的监督者 布莱德 LEGEND FES”许下1次星愿。	可許下1次苦惱的紀律 布萊德 LEGEND FES星願的票券。
+782	斬裂祭ガチャチケットNo.1	Slash Division Wish Ticket No.1	斩裂会场星愿券No.1	斬裂祭星願券No.1	斬裂祭ガチャ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Slash Division - LEGEND FES.	使用该券可以在“斩裂会场 LEGEND FES”许下1次星愿。	可許下1次斬裂祭 LEGEND FES星願的票券。
+783	チャレンジコイン[渇きの中で咲く花たち]	Challenge Coin [Flowers That Bloom in a Drought]	挑战币[渴望中绽放之花]	挑戰硬幣[在渴望中綻放的群花]	イベント「渇きの中で咲く花たち」交換所で使用できるアイテム。	"Exchange for items at the ""Flowers That Bloom in a Drought"" Exchange."	可以在“渴望中绽放之花”兑换所使用的道具。	可於「在渴望中綻放的群花」兌換所使用的道具。
+784	挑戦券[混沌と規律の邂逅]	Challenge Ticket [Convergence of Chaos and Order]	挑战券[混沌和规则的邂逅]	挑戰券[混沌與規律的邂逅]	イベント「混沌と規律の邂逅」に挑戦するために必要な券。	"Ticket required to participate in the ""Convergence of Chaos and Order"" Event."	挑战“混沌和规则的邂逅”活动所需的券。	挑戰活動「混沌與規律的邂逅」所需的票券。
+785	チャレンジコイン[混沌と規律の邂逅]	Challenge Coin [Convergence of Chaos and Order]	挑战币[混沌和规则的邂逅]	挑戰硬幣[混沌與規律的邂逅]	イベント「混沌と規律の邂逅」交換所で使用できるアイテム。	"Exchange for items at the ""Convergence of Chaos and Order"" Exchange."	可以在“混沌和规则的邂逅”兑换所使用的道具。	可於「混沌與規律的邂逅」兌換所使用的道具。
+786	挑戦券[ブラッドの実地調査]	Challenge Ticket [Brad's Field Investigation]	挑战券[布莱德的实地调查]	挑戰券[布萊德的實地調查]	イベント「ブラッドの実地調査」に挑戦するために必要な券。	"Ticket required to participate in the ""Brad's Field Investigation"" Event."	挑战“布莱德的实地调查”活动所需的券。	挑戰活動「布萊德的實地調查」所需的票券。
+787	ダンジョンコイン	Dungeon Coin	迷宫硬币	迷宮硬幣	イベント「ブラッドの実地調査」交換所で使用できるアイテム。	"Exchange for items at the ""Brad's Field Investigation"" Exchange."	可以在“布莱德的实地调查”兑换所使用的道具。	可於「布萊德的實地調查」兌換所使用的道具。
+788	ラーメル麦	Ramel Wheat	罗梅麦	羅梅麥	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+789	蒸留石	Distill Stone	蒸馏石	蒸餾石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+790	リュウグウオウムガイ	Dragonpalace Nautilus	龙宫鹦鹉螺	龍宮鸚鵡螺	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+791	極夜激闘 解放者たちの決意ガチャチケット	Polar Night Clash: Resolve of the Liberators Wish Ticket	极夜激战 解放者们的决心星愿券	極夜激戰 解放者們的決心星願券	極夜激闘 解放者たちの決意 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Polar Night Clash: Resolve of the Liberators - LEGEND FES.	使用该券可以在“极夜激战 解放者们的决心 LEGEND FES”许下1次星愿。	可許下1次極夜激戰 解放者們的決心 LEGEND FES星願的票券。
+792	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+793	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
+794	大きな原石	Big Gemstone	大颗原石	大顆原石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+795	オオカブト	Giant Beetle	甲虫	甲蟲	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+796	ニトロ水	Nitro Water	硝基水	硝基水	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+797	臭い石	Stench Stone	臭气石	臭氣石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+798	古代樹の欠片	Ancient Tree Splinter	古代树的碎片	古代樹的碎片	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+799	イラストリアスウッド	Illustrious Wood	绚烂树	輝煌之木	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+801	水結晶	Water Crystal	水结晶	水結晶	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+802	フローズンジンビオーズ	Frozen Symbiose	极地共生树	凍結金比奧茲樹	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+803	氷塊トカゲ	Glacier Lizard	冰块蜥蜴	冰塊蜥蜴	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+804	ウィスプストーン	Wispstone	幽明石	幽明石	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+805	極夜激闘 黒の奪還ガチャチケット	Polar Night Clash: Recovering the Dark Wish Ticket	极夜激战 黑之夺还星愿券	極夜激戰 黑色收復星願券	極夜激闘 黒の奪還 LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Polar Night Clash: Recovering the Dark - LEGEND FES.	使用该券可以在“极夜激战 黑之夺还 LEGEND FES”许下1次星愿。	可許下1次極夜激戰 黑色收復 LEGEND FES星願的票券。
+806	嵐風祭ガチャチケットNo.1	Air Division Wish Ticket No.1	狂风会场星愿券No.1	嵐風祭星願券No.1	嵐風祭ガチャ LEGEND FESを1回引くことができるチケット。	A ticket that allows you to make a wish in the Air Division - LEGEND FES.	使用该券可以在“狂风会场 LEGEND FES”许下1次星愿。	可許下1次嵐風祭 LEGEND FES星願的票券。
+807	ケモノ肉	Beast Meat	兽肉	獸肉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+808	新鮮な肉	Fresh Meat	新鲜的肉	新鮮的肉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+809	霜降りの肉	Marbled Meat	霜降肉	霜降肉	調合をするために必要な素材。	Material needed for synthesis.	执行调合所需的素材。	執行調合時不可或缺的素材。
+810	挑戦券[目指せハイスコア！ラムローストくんバトル]	Challenge Ticket [Aim for a High Score! Ram Roast Battle]	挑战券[目标是获得高分！烤羊肉之战]	挑戰券[目標獲得高分！烤羊肉戰鬥]	イベント「目指せハイスコア！ラムローストくんバトル」に挑戦するために必要な券。	"Ticket required to participate in the ""Aim for a High Score! Ram Roast Battle"" Event."	挑战“目标是获得高分！烤羊肉之战”活动所需的券。	挑戰活動「目標獲得高分！烤羊肉戰鬥」所需的票券。
+811	チャレンジコイン[目指せハイスコア！ラムローストくんバトル]	Challenge Coin [Aim for a High Score! Ram Roast Battle]	挑战币[目标是获得高分！烤羊肉之战]	挑戰硬幣［目標獲得高分！烤羊肉戰鬥］	イベント「目指せハイスコア！ラムローストくんバトル」交換所で使用できるアイテム。	"Exchange for items at the ""Aim for a High Score! Ram Roast Battle"" Exchange."	可以在“目标是获得高分！烤羊肉之战”兑换所使用的道具。	可於「目標獲得高分！烤羊肉戰鬥」兌換所使用的道具。
 812	Atelier Christmas 2024ガチャチケット				Atelier Christmas 2024 LEGEND FESを1回引くことができるチケット。			
-813	マナの欠片				かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう			
-814	チョコクッキー				チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。			
+813	マナの欠片	Mana Fragment	玛那碎片	瑪那碎片	かつてほうき星から降り注いだマナが砕けたもの。\nマナの回復に使用できる。\n※輝きが弱く今にも力を失いそうなため、早めに使用しよう	Fragments of mana that once rained down from a comet. Can be used to restore mana.\nNote: The fragment's glow is fading, and it seems like it might lose its power soon. Better use it quickly!	很久以前从彗星上坠落的玛那粉碎后的产物。\n可用于恢复玛那。\n※光芒微弱，仿佛很快就要失去力量，建议尽快使用。	過去從彗星掉落下來的瑪那碎片。\n可用來回復瑪那。\n※由於光澤越來越黯淡，好像快失去力量，請儘早使用。
+814	チョコクッキー	Chocolate Cookie	巧克力曲奇	巧克力餅乾	チョコを練りこみ美味しくなったクッキー。\nスタミナの回復に使用できる。\n※保存が利かないため、召し上がりはお早めに。	A delicious cookie embedded with chocolate bits. Can be used to recover stamina. Make sure to eat it before it goes stale!	加入了巧克力，口味更佳的饼干。\n可用于恢复体力。\n※保质期短，请尽快食用。	加入巧克力後變得很好吃的餅乾。\n可以用來回復精力。\n※保存期短，請盡快食用。
 815	挑戦券[キラキラセキララ星誕祭！]				イベント「キラキラセキララ星誕祭！」に挑戦するために必要な券。			
 816	星夜のレイム				調合をするために必要な素材。			
 817	星夜のガーネル				調合をするために必要な素材。			

@@ -903,48 +903,48 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 902	プエラヴィヴァクス	Puella Vivax	跃动少女	活力少女服	自分がディフェンダーの時、スキル発動後、自身に「受けるダメージ-{0}%」を2回攻撃を受けるまで付与	While equipped to a Defender, after using a skill, reduces own damage received by {0}% for 2 attacks.	自身为防御者时，发动技能后，赋予自身“所受伤害-{0}%”，受到2次攻击后失效。	自身為防禦者時，發動技能後，賦予自身「所受傷害-{0}%」，直到受2次攻擊為止。
 903	ヴィヴァクスの願い	Vivax's Wish	少女的祈愿	朝氣心願髮帶	得意属性が突属性の時、受けるHP回復量+{0}%	While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.	自身属性为突刺属性时，所受HP恢复量+{0}%。	自身屬性為突屬性時，所受的HP回復量+{0}%。
 904	ヴィヴァクスの願い	Vivax's Wish	少女的祈愿	朝氣心願髮帶	得意属性が突属性の時、受けるHP回復量+{0}%	While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.	自身属性为突刺属性时，所受HP恢复量+{0}%。	自身屬性為突屬性時，所受的HP回復量+{0}%。
-905	クラーレン				得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与			
-906	クラーレン				得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与			
-907	ナチュナリシュツ				自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%			
-908	ナチュナリシュツ				自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%			
-909	獣の護符				得意属性が突属性の時、受ける強化効果量+{0}%			
-910	獣の護符				得意属性が突属性の時、受ける強化効果量+{0}%			
-911	叫びのハサミ				得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-912	叫びのハサミ				得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-913	サイレンススタイル				自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%			
-914	サイレンススタイル				自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%			
-915	紫宝石の首飾り				自身が斬属性の時、与えるHP回復量+{0}%			
-916	紫宝石の首飾り				自身が斬属性の時、与えるHP回復量+{0}%			
-917	石割りアックス				得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与			
-918	石割りアックス				得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与			
-919	鱗のプレート				得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限12%)			
-920	鱗のプレート				得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限9%)			
-921	メルクリウスの瞳				得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%			
-922	メルクリウスの瞳				得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%			
-923	ノブレスランス				得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与			
-924	ノブレスランス				得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与			
-925	エミナンスコート				得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%			
-926	エミナンスコート				得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%			
-927	フィエールガント				自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与			
-928	フィエールガント				自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与			
-929	冥闇の杖				得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-930	冥闇の杖				得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-931	寧静の服				得意属性が雷属性の時、与えるマイナス効果量+{0}%			
-932	寧静の服				得意属性が雷属性の時、与えるマイナス効果量+{0}%			
-933	花占いの札				自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与			
-934	花占いの札				自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与			
-935	インクイジターソード				得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%			
-936	インクイジターソード				得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%			
-937	イージスジャケット				得意属性が雷属性の時、受けるHP回復量+{0}%			
-938	イージスジャケット				得意属性が雷属性の時、受けるHP回復量+{0}%			
-939	オミノスバングル				自身がアタッカーの時、受ける強化効果量+{0}%			
-940	オミノスバングル				自身がアタッカーの時、受ける強化効果量+{0}%			
-941	シュメルツシュヴェールト				得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-942	シュメルツシュヴェールト				得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-943	旅のプレート				得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-944	旅のプレート				得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-945	献身のロケット				得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%			
-946	献身のロケット				得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%			
+905	クラーレン	Klauen	金叶爪杖	金葉爪杖	得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与	While equipped to an Attacker with Stab affinity, after using a skill, boosts own P. ATK by {0}% for 1 turn.	自身属性为突刺属性且身为攻击者时，技能发动后，赋予自身“物攻+{0}%”，1次行动结束后失效。	自身屬性為突屬性且為攻擊者時，發動技能後，賦予自身「物攻+{0}%」，直到行動結束1次為止。
+906	クラーレン	Klauen	金叶爪杖	金葉爪杖	得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与	While equipped to an Attacker with Stab affinity, after using a skill, boosts own P. ATK by {0}% for 1 turn.	自身属性为突刺属性且身为攻击者时，技能发动后，赋予自身“物攻+{0}%”，1次行动结束后失效。	自身屬性為突屬性且為攻擊者時，發動技能後，賦予自身「物攻+{0}%」，直到行動結束1次為止。
+907	ナチュナリシュツ	Natüranisch	自然守护者	防護斗篷	自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%	While equipped to an Attacker, boosts skill damage by {0}% when target has status effects.	自身为攻击者时，目标陷入异常状态时，技能伤害+{0}%。	自身為攻擊者時，目標為異常狀態時，技能傷害+{0}%。
+908	ナチュナリシュツ	Natüranisch	自然守护者	防護斗篷	自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%	While equipped to an Attacker, boosts skill damage by {0}% when target has status effects.	自身为攻击者时，目标陷入异常状态时，技能伤害+{0}%。	自身為攻擊者時，目標為異常狀態時，技能傷害+{0}%。
+909	獣の護符	Talisman of Ancient Beasts	野兽护符	獸之護符	得意属性が突属性の時、受ける強化効果量+{0}%	While equipped to a character with Stab affinity, boosts potency of buff effects received by {0}%.	自身属性为突刺属性时，所受强化效果量+{0}%。	自身屬性為突屬性時，所受強化效果量+{0}%。
+910	獣の護符	Talisman of Ancient Beasts	野兽护符	獸之護符	得意属性が突属性の時、受ける強化効果量+{0}%	While equipped to a character with Stab affinity, boosts potency of buff effects received by {0}%.	自身属性为突刺属性时，所受强化效果量+{0}%。	自身屬性為突屬性時，所受強化效果量+{0}%。
+911	叫びのハサミ	Screaming Scissors	尖叫剪刀	悲鳴剪刀	得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Slash affinity, after using a skill, boosts the burst skill damage of the ally with the highest P. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为斩击属性且身为支援者时，技能发动后，赋予物攻最高的1名我方“爆发技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為斬屬性並為支援者時，發動技能後，賦予我方物攻最高的1人「爆發技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+912	叫びのハサミ	Screaming Scissors	尖叫剪刀	悲鳴剪刀	得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Slash affinity, after using a skill, boosts the burst skill damage of the ally with the highest P. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为斩击属性且身为支援者时，技能发动后，赋予物攻最高的1名我方“爆发技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為斬屬性並為支援者時，發動技能後，賦予我方物攻最高的1人「爆發技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+913	サイレンススタイル	Silence Style	静谧风情	沉默風情	自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%	While equipped to a Supporter, boosts all allies' physical attack skill damage by {0}%.	自身为支援者时，我方全体的物理攻击技能伤害+{0}%。	自身為支援者時，我方全體的物理攻擊技能傷害+{0}%。
+914	サイレンススタイル	Silence Style	静谧风情	沉默風情	自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%	While equipped to a Supporter, boosts all allies' physical attack skill damage by {0}%.	自身为支援者时，我方全体的物理攻击技能伤害+{0}%。	自身為支援者時，我方全體的物理攻擊技能傷害+{0}%。
+915	紫宝石の首飾り	Lilac Jewel Necklace	紫宝石项链	紫寶石項鍊	自身が斬属性の時、与えるHP回復量+{0}%	While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.	自身属性为斩击属性时，给予的HP恢复量+{0}%。	自身屬性為斬屬性時，賦予的HP回復量+{0}%。
+916	紫宝石の首飾り	Lilac Jewel Necklace	紫宝石项链	紫寶石項鍊	自身が斬属性の時、与えるHP回復量+{0}%	While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.	自身属性为斩击属性时，给予的HP恢复量+{0}%。	自身屬性為斬屬性時，賦予的HP回復量+{0}%。
+917	石割りアックス	Rock Splitter	劈石之斧	劈石之斧	得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, reduces target's Stab resistance by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“突刺属性耐性-{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「突屬性耐性-{0}%」，直到受2次攻擊為止。
+918	石割りアックス	Rock Splitter	劈石之斧	劈石之斧	得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, reduces target's Stab resistance by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“突刺属性耐性-{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「突屬性耐性-{0}%」，直到受2次攻擊為止。
+919	鱗のプレート	Scale Plate	龙鳞胸铠	龍鱗胸鎧	得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限12%)	While equipped to a character with Stab affinity, when attack target is stunned, reduces target's damage by {0}%. (MAX 12%)	自身属性为突刺属性时，攻击目标破防时，赋予目标“伤害-{0}%”（上限12%）。	自身屬性為突屬性時，攻擊目標破防時，賦予目標「傷害-{0}%」（上限12%）。
+920	鱗のプレート	Scale Plate	龙鳞胸铠	龍鱗胸鎧	得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限9%)	While equipped to a character with Stab affinity, when attack target is stunned, reduces target's damage by {0}%. (MAX 9%)	自身属性为突刺属性时，攻击目标破防时，赋予目标“伤害-{0}%”（上限9%）。	自身屬性為突屬性時，攻擊目標破防時，賦予目標「傷害-{0}%」（上限9%）。
+921	メルクリウスの瞳	Mercurius Eye	守护神之瞳	守護神之瞳	得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%	While equipped to a Breaker with Stab affinity, boosts stun damage by {0}% when attacking a weakness.	自身属性为突刺属性且身为破坏者时，发动WEAK攻击时，破防伤害+{0}%。	自身屬性為突屬性並為破壞者時，WEAK攻擊時，破防傷害+{0}%。
+922	メルクリウスの瞳	Mercurius Eye	守护神之瞳	守護神之瞳	得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%	While equipped to a Breaker with Stab affinity, boosts stun damage by {0}% when attacking a weakness.	自身属性为突刺属性且身为破坏者时，发动WEAK攻击时，破防伤害+{0}%。	自身屬性為突屬性並為破壞者時，WEAK攻擊時，破防傷害+{0}%。
+923	ノブレスランス	Noblesse Lance	王者十字枪	貴族長槍	得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, boosts target's physical attack damage received by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“所受物理攻击伤害+{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「所受物理攻擊傷害+{0}%」，直到受2次攻擊為止。
+924	ノブレスランス	Noblesse Lance	王者十字枪	貴族長槍	得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, boosts target's physical attack damage received by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“所受物理攻击伤害+{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「所受物理攻擊傷害+{0}%」，直到受2次攻擊為止。
+925	エミナンスコート	Eminence Coat	高贵大衣	顯赫外套	得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter with Stab affinity, boosts potency of inflicted negative effects by {0}%.	自身属性为突刺属性且身为支援者时，给予的负面效果量+{0}%。	自身屬性為突屬性並為支援者時，賦予減弱效果量+{0}%。
+926	エミナンスコート	Eminence Coat	高贵大衣	顯赫外套	得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter with Stab affinity, boosts potency of inflicted negative effects by {0}%.	自身属性为突刺属性且身为支援者时，给予的负面效果量+{0}%。	自身屬性為突屬性並為支援者時，賦予減弱效果量+{0}%。
+927	フィエールガント	Fière Gauntlets	至尊手套	自豪手套	自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.	自身为支援者时，技能发动后，赋予我方全体“物理攻击技能伤害+{0}%”，1次行动结束后失效。	自身為支援者時，發動技能後，賦予我方全體「物理攻擊技能傷害+{0}%」，直到行動結束1次為止。
+928	フィエールガント	Fière Gauntlets	至尊手套	自豪手套	自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.	自身为支援者时，技能发动后，赋予我方全体“物理攻击技能伤害+{0}%”，1次行动结束后失效。	自身為支援者時，發動技能後，賦予我方全體「物理攻擊技能傷害+{0}%」，直到行動結束1次為止。
+929	冥闇の杖	Darkveil Rod	幽冥之杖	冥闇之杖	得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Bolt affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest M. ATK for 1 turn. (Cannot be stacked)	自身属性为雷属性且身为支援者时，技能发动后，赋予魔攻最高的1名友方“WEAK攻击伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為雷屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「WEAK攻擊傷害+{0}%」，直到行動結束1次為止（不可重複）。
+930	冥闇の杖	Darkveil Rod	幽冥之杖	冥闇之杖	得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Bolt affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest M. ATK for 1 turn. (Cannot be stacked)	自身属性为雷属性且身为支援者时，技能发动后，赋予魔攻最高的1名友方“WEAK攻击伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為雷屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「WEAK攻擊傷害+{0}%」，直到行動結束1次為止（不可重複）。
+931	寧静の服	Tranquil Tunic	宁静之服	寧靜服裝	得意属性が雷属性の時、与えるマイナス効果量+{0}%	While equipped to a character with Bolt affinity, boosts potency of negative effects inflicted by {0}%.	自身属性为雷属性时，给予的负面效果量+{0}%。	自身屬性為雷屬性時，賦予的減弱效果量+{0}%。
+932	寧静の服	Tranquil Tunic	宁静之服	寧靜服裝	得意属性が雷属性の時、与えるマイナス効果量+{0}%	While equipped to a character with Bolt affinity, boosts potency of negative effects inflicted by {0}%.	自身属性为雷属性时，给予的负面效果量+{0}%。	自身屬性為雷屬性時，賦予的減弱效果量+{0}%。
+933	花占いの札	Fortune Talisman	花朵占卜符	花朵占卜符	自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts target's damage received by {0}% and magic attack damage received by {1}% for 2 turns.	自身为支援者时，技能发动后，赋予目标“所受伤害+{0}%”和“所受魔法攻击伤害+{1}%”，2次行动结束后失效。	自身為支援者時，發動技能後，賦予目標「所受傷害+{0}%」與「所受魔法攻擊傷害+{1}%」，直到行動結束2次為止。
+934	花占いの札	Fortune Talisman	花朵占卜符	花朵占卜符	自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts target's damage received by {0}% and magic attack damage received by {1}% for 2 turns.	自身为支援者时，技能发动后，赋予目标“所受伤害+{0}%”和“所受魔法攻击伤害+{1}%”，2次行动结束后失效。	自身為支援者時，發動技能後，賦予目標「所受傷害+{0}%」與「所受魔法攻擊傷害+{1}%」，直到行動結束2次為止。
+935	インクイジターソード	Inquisitor's Blade	探究者之剑	審問官之劍	得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%	While equipped to a character with Bolt affinity, boosts skill damage by {0}% when attacking a weakness.	自身属性为雷属性且发动WEAK攻击时，技能伤害+{0}%。	自身屬性為雷屬性並WEAK攻擊時，技能傷害+{0}%。
+936	インクイジターソード	Inquisitor's Blade	探究者之剑	審問官之劍	得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%	While equipped to a character with Bolt affinity, boosts skill damage by {0}% when attacking a weakness.	自身属性为雷属性且发动WEAK攻击时，技能伤害+{0}%。	自身屬性為雷屬性並WEAK攻擊時，技能傷害+{0}%。
+937	イージスジャケット	Aegis Jacket	防卫夹克	防衛夾克	得意属性が雷属性の時、受けるHP回復量+{0}%	While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.	自身属性为雷属性时，所受HP恢复量+{0}%。	自身屬性為雷屬性時，所受的HP回復量+{0}%。
+938	イージスジャケット	Aegis Jacket	防卫夹克	防衛夾克	得意属性が雷属性の時、受けるHP回復量+{0}%	While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.	自身属性为雷属性时，所受HP恢复量+{0}%。	自身屬性為雷屬性時，所受的HP回復量+{0}%。
+939	オミノスバングル	Ominous Bangle	噩兆手镯	不祥手環	自身がアタッカーの時、受ける強化効果量+{0}%	While equipped to an Attacker, boosts potency of received buff effects by {0}%.	自身为攻击者时，所受强化效果量+{0}%。	自身為攻擊者時，所受強化效果量+{0}%。
+940	オミノスバングル	Ominous Bangle	噩兆手镯	不祥手環	自身がアタッカーの時、受ける強化効果量+{0}%	While equipped to an Attacker, boosts potency of received buff effects by {0}%.	自身为攻击者时，所受强化效果量+{0}%。	自身為攻擊者時，所受強化效果量+{0}%。
+941	シュメルツシュヴェールト	Schmertzschwert	苦痛棘刃	苦痛之劍	得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts all allies' critical damage by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予我方全体“暴击伤害+{0}%”，1次行动结束后失效。（不可叠加）	自身屬性為風屬性並為支援者時，發動技能後，賦予我方全體「重擊傷害+{0}%」，直到行動結束1次為止。（不可重複）
+942	シュメルツシュヴェールト	Schmertzschwert	苦痛棘刃	苦痛之劍	得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts all allies' critical damage by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予我方全体“暴击伤害+{0}%”，1次行动结束后失效。（不可叠加）	自身屬性為風屬性並為支援者時，發動技能後，賦予我方全體「重擊傷害+{0}%」，直到行動結束1次為止。（不可重複）
+943	旅のプレート	Journey Plate	旅行胸铠	旅行胸鎧	得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予魔攻最高的1名我方“技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為風屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+944	旅のプレート	Journey Plate	旅行胸铠	旅行胸鎧	得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予魔攻最高的1名我方“技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為風屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+945	献身のロケット	Locket of Devotion	奉献相框坠	奉獻相框墜	得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%	While equipped to a Supporter with Air affinity, boosts all allies' M. ATK by {0}%.	自身属性为风属性且身为支援者时，我方全体魔攻+{0}%。	自身屬性為風屬性並為支援者時，我方全體魔攻+{0}%。
+946	献身のロケット	Locket of Devotion	奉献相框坠	奉獻相框墜	得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%	While equipped to a Supporter with Air affinity, boosts all allies' M. ATK by {0}%.	自身属性为风属性且身为支援者时，我方全体魔攻+{0}%。	自身屬性為風屬性並為支援者時，我方全體魔攻+{0}%。
 947	スターリーナイトランス				自身がディフェンダーの時、バトル開始時、味方全員に「攻撃を受けた時、自身のHPを{0}%回復」を1回攻撃を受けるまで付与<br>「ランターナ」の味方全員の魔防+{1}%			
 948	寒凪のハルバード				得意属性が雷属性の時、攻撃後、対象に「ダメージ-{0}%」を1回行動終了するまで付与			
 949	寒凪のハルバード				得意属性が雷属性の時、攻撃後、対象に「ダメージ-{0}%」を1回行動終了するまで付与			

@@ -1,309 +1,309 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-Date_NPC9_01ID	0	Lara	ララ	（……作物の収穫が間近になって\n　来ましたわね）						
-Date_NPC9_01ID	1	Lara	ララ	（民の働きのおかげで荒れ果てた土地も\n　耕され、ようやく豊かな実りを\n　享受できるようになりましたわ）						
-Date_NPC9_01ID	2	Lara	ララ	（その献身には報いねばなりませんわ。\n　ひとつ祭りでも……あら）						
-Date_NPC9_01ID	3	Diona	ディオーナ	～♪　～～♪						
-Date_NPC9_01ID	4	Lara	ララ	（美しい歌声。ララ・キングダムに\n　なくてはならない宝物。ディオーナ、\n　また一段と歌が上手くなりましたわね）						
-Date_NPC9_01ID	5	Diona	ディオーナ	～♪　……え						
-Date_NPC9_01ID	6	Diona	ディオーナ	ら、ララ様！？　申し訳ございません、\nこんなに近くにいらっしゃったのに\n気付かないなんてご無礼を……						
-Date_NPC9_01ID	7	Lara	ララ	気にしなくて良くてよ。\nあなたの美しい歌を止めることのほうが\n無礼というもの						
-Date_NPC9_01ID	8	Diona	ディオーナ	もったいないお言葉……！\nそのお褒めの言葉だけで一週間は\n全力で、らんらんと働けます						
-Date_NPC9_01ID	9	Lara	ララ	む、無理は感心しませんわよ？						
-Date_NPC9_01ID	10	Diona	ディオーナ	はい、肝に銘じます……。\nところで、ララ様はどのような用件で\nこちらへ？						
-Date_NPC9_01ID	11	Lara	ララ	作物の様子を見ていましたの。\n見なさいな、この豊穣を。これを祝し、\n祭りでも開こうかと思っていますわ						
-Date_NPC9_01ID	12	Diona	ディオーナ	おぉぉ……\n素晴らしいお考えです、ララ様！\n皆喜ぶと思います						
-Date_NPC9_01ID	13	Lara	ララ	思いますではなく、絶対に喜ばせますわ。\nわたくしが開催するからには\n妥協は許しませんことよ						
-Date_NPC9_01ID	14	Diona	ディオーナ	さすがはララ様。でしたら、余興の\nステージはぜひ私に歌わせてください！\n私も全力でお手伝いしたいのです！						
-Date_NPC9_01ID	15	Lara	ララ	（ディオーナの働きにも報いたいと\n　思っていたのですが、このやる気。\n　無下にするわけにはいきませんわね）						
-Date_NPC9_01ID	16		選択肢	願ってもない言葉ですわ						
-Date_NPC9_01ID	17	Lara	ララ	願ってもない言葉ですわ。\nあなたの歌であれば、民も皆満足すること\n間違いないでしょう						
-Date_NPC9_01ID	18	Diona	ディオーナ	そう言っていただけるなんて、\n臣下の至りです！　ララ様のために歌う\nことが今の私の幸せですから！						
-Date_NPC9_01ID	19		選択肢	あなたを余興担当大臣に任命しますわ！						
-Date_NPC9_01ID	20	Lara	ララ	良いでしょう。\nあなたを余興担当大臣に任命しますわ！						
-Date_NPC9_01ID	21	Diona	ディオーナ	はっ！　謹んでお受けいたします。\nなんでもお命じください、ララ様						
-Date_NPC9_01ID	22	Lara	ララ	引き受けたからには中途半端な仕事は\n許しませんことよ？\n覚悟なさい						
-Date_NPC9_01ID	23	Diona	ディオーナ	もちろんです。この身は\nすべてララ様に捧げていますゆえ！						
-Date_NPC9_01ID	24		選択肢	では２０曲ほど用意しましょう						
-Date_NPC9_01ID	25	Lara	ララ	では２０曲ほど用意しましょう。\n歌姫ディオーナの新曲で\n祭りを盛大に盛り上げるのですわ！						
-Date_NPC9_01ID	26	Diona	ディオーナ	２０曲……！　血がたぎります。\nこの熱さこそ、私の求めていたもの、\nさっそく今から準備しなくては						
-Date_NPC9_01ID	27	Lara	ララ	冗談ですわ。これでは祭りではなく\nあなたの独唱コンサートになってしまうでは\nありませんか						
-Date_NPC9_01ID	28	Lara	ララ	とにかく、あなたのやる気は\n伝わりましたわ。改めて祭りであなたの歌を\n披露してもらえるかしら						
-Date_NPC9_01ID	29	Diona	ディオーナ	承知いたしました！\nさっそく内容を考えねばなりませんね						
-Date_NPC9_01ID	30	Diona	ディオーナ	ただ歌うだけではいささか祭りの特別感に\n欠ける気もしますし、何か歌を使った\n催しをしてみたいのですが……						
-Date_NPC9_01ID	31	Lara	ララ	ほう。見事な着眼点です。\n表現者としてのその追求の姿勢、\n感服いたしますわ！						
-Date_NPC9_01ID	32	Diona	ディオーナ	ララ様は何か見たいものはございますか？						
-Date_NPC9_01ID	33	Lara	ララ	そうですわね……						
-Date_NPC9_01ID	34		選択肢	歌いながら舞う						
-Date_NPC9_01ID	35	Lara	ララ	歌いながら舞うというのはいかが？\n衣装も自分で映えるものが作れるのでは\nなくて？						
-Date_NPC9_01ID	36	Diona	ディオーナ	激しい舞だと歌えそうにありませんが、\nバレエのような踊りなら衣装も合わせて\n優雅なステージを披露できそうです						
-Date_NPC9_01ID	37	Lara	ララ	ええ。あなたにぴったりだと思いますわ						
-Date_NPC9_01ID	38	Diona	ディオーナ	とはいえ、もう一押し欲しいところですね。\n祭りに披露するものとしてはいささか\n固い内容かもしれません						
-Date_NPC9_01ID	39		選択肢	即興で歌う						
-Date_NPC9_01ID	40	Lara	ララ	あなたほどの実力であれば、曲をもらって\n即興で歌ってみるのはいかがかしら？						
-Date_NPC9_01ID	41	Diona	ディオーナ	即興ですか……少し怖くはありますね。\nいつも歌詞の作成には時間がかかって\nしまいますから						
-Date_NPC9_01ID	42	Lara	ララ	……そうですわね。あなたは歌に込める\n想いを大切にしている。\nそれをないがしろにはできませんわよね						
-Date_NPC9_01ID	43	Diona	ディオーナ	すみません！　私がもっと柔軟であれば\nできたかもしれないのに……\nいかなるお詫びもいたします						
-Date_NPC9_01ID	44		選択肢	ミーケと相談してみる						
-Date_NPC9_01ID	45	Lara	ララ	ステージごとであればミーケにも相談して\nみてはいかが？						
-Date_NPC9_01ID	46	Diona	ディオーナ	たしかに、ミーケちゃんなら色々\n知っていそうです！						
-Date_NPC9_01ID	47	Diona	ディオーナ	……お笑いは、私があがってしまうので、\n遠慮したいところですが						
-Date_NPC9_01ID	48	Lara	ララ	あら。あなたが愉快なことをおっしゃる\nところも見てみたかったですわ						
-Date_NPC9_01ID	49	Diona	ディオーナ	うう……どうかご勘弁を						
-Date_NPC9_01ID	50	Diona	ディオーナ	……そうだ！　音楽劇はいかがでしょう？\n演劇に歌を盛り込み、華やかに彩られた\n物語を届けるものです						
-Date_NPC9_01ID	51	Lara	ララ	あなたの故郷、ヴィアベル州で盛んな\nオペラのようなものでしたわね。\n一度見たことがありますが、良いものでしたわ						
-Date_NPC9_01ID	52	Diona	ディオーナ	さすが、ララ様。\nすでにご覧になられていましたか！						
-Date_NPC9_01ID	53	Diona	ディオーナ	それで、いかがでしょう？\n故郷で何度も見てきたものです。\n良いものをお見せする自信はあります						
-Date_NPC9_01ID	54	Lara	ララ	ふむ……						
-Date_NPC9_01ID	55		選択肢	楽しみにしていますわ						
-Date_NPC9_01ID	56	Lara	ララ	そこまでおっしゃるのであれば、\n見ないわけにはいきませんね。\n楽しみにしていますわ						
-Date_NPC9_01ID	57	Diona	ディオーナ	ありがとうございます！\nララ様のためにも素晴らしい\nステージにしてみせます！						
-Date_NPC9_01ID	58		選択肢	無理はなさらないでね						
-Date_NPC9_01ID	59	Lara	ララ	分かりましたわ。\nただ、無理はなさらぬよう。\n少し力が入りすぎですわ						
-Date_NPC9_01ID	60	Diona	ディオーナ	はっ……！　すみません、気負い過ぎていた\nようです。これでは心配をおかけして\nしまいますよね……						
-Date_NPC9_01ID	61	Diona	ディオーナ	いつでも優雅に。歌姫としての矜持、\n今一度胸に刻みます						
-Date_NPC9_01ID	62		選択肢	特等席の準備が必要ですわね						
-Date_NPC9_01ID	63	Lara	ララ	特等席の準備が必要ですわね。\n最前列で見させていただくことに\nしましょう						
-Date_NPC9_01ID	64	Diona	ディオーナ	ララ様が、大いに期待して\nくださっている……！\n気合を入れて準備いたします！						
-Date_NPC9_01ID	65	Diona	ディオーナ	特等席の装飾もぜひ私にお任せを！\n極上の座り心地にしてみせましょう！						
-Date_NPC9_01ID	66	Diona	ディオーナ	そうと決まれば、さっそく準備しなくては。\nララ様、失礼いたします						
-Date_NPC9_01ID	67	Lara	ララ	（あらあら、歌姫だというのに\n　あんな風に駆けて行っては\n　優雅さの欠片もありませんわね）						
-Date_NPC9_01ID	68	Lara	ララ	（ですが、死んだような顔で生きるよりも\n　こちらのほうが何倍もいい）						
-Date_NPC9_01ID	69	Lara	ララ	（ディオーナ……本当に元気に\n　なりましたわね）						
-Date_NPC9_01ID	70	Lara	ララ	（それ自体は嬉しいことなのですが……\n　張り切りすぎて突っ張ってしまわないかは\n　心配ですわ）						
-Date_NPC9_01ID	71	Lara	ララ	そこまでしなくても大丈夫ですわよ						
-Date_NPC9_02ID	0	Lara	ララ	ふう、着きましたわね。\n祭りで演じる音楽劇の\n台本を探しますわよ						
-Date_NPC9_02ID	1	Diona	ディオーナ	わざわざありがとうございます。\n私の台本探しに付き合ってくださって						
-Date_NPC9_02ID	2	Lara	ララ	臣下を見守るのも王の務め。\n問題ありませんわ						
-Date_NPC9_02ID	3	Lara	ララ	それにしても……						
-Date_NPC9_02ID	4		選択肢	何度訪れてもいい島ですわね						
-Date_NPC9_02ID	5	Lara	ララ	何度訪れてもいい島ですわね。\n海も近いですし、創造性が刺激されますわ						
-Date_NPC9_02ID	6	Diona	ディオーナ	ああ、私、この島に生まれてよかったです！\nこうしてララ様にお褒めいただける\nなんて……！						
-Date_NPC9_02ID	7	Diona	ディオーナ	しかし、ララ・キングダムの素晴らしさには\n及びません。豊かさも規模もいつか\n追い抜きましょう、ララ様						
-Date_NPC9_02ID	8	Lara	ララ	もちろん。まだまだ課題があるとはいえ、\nララ・キングダムは世界一になる国ですもの						
-Date_NPC9_02ID	9		選択肢	ディオーナの服を着ている人がいますわ						
-Date_NPC9_02ID	10	Lara	ララ	ディオーナの作った服を着ている人が\nいますわね。あなたの名が広まっていると\n思うと嬉しい限りですわ						
-Date_NPC9_02ID	11	Diona	ディオーナ	ここでは私とミーケちゃんの服が\n若い女の子を中心に\n人気になっているようでして……						
-Date_NPC9_02ID	12	Diona	ディオーナ	ああやって着てもらっているのを\n実際に見ると、嬉しいものですね						
-Date_NPC9_02ID	13		選択肢	あなたの出身地なのでしたわね						
-Date_NPC9_02ID	14	Lara	ララ	あなたの出身地なのでしたわね						
-Date_NPC9_02ID	15	Diona	ディオーナ	はい。この島は芸術が盛んで……\nだからこそ私は歌や服を\n学べたのだと思います						
-Date_NPC9_02ID	16	Diona	ディオーナ	この島に生まれていなかったらきっと……。\n今とは違う人生でしたでしょう						
-Date_NPC9_02ID	17	Diona	ディオーナ	……さて、時間を無駄にしては\n居られません。さっそく台本を\n探しに行きましょう！						
-Date_NPC9_02ID	18	Lara	ララ	ええ。手分けして探すとしましょうか。\nまた後程、ここに集まりますわよ						
-Date_NPC9_02ID	19	Diona	ディオーナ	ララ様、戻りました。\n待たせてしまいましたでしょうか……？						
-Date_NPC9_02ID	20	Lara	ララ	わたくしも今戻ったところですわ。\nでは、わたくしが見つけたものを\n共有しましょうか						
-Date_NPC9_02ID	21	Lara	ララ	中でも気になったのは……						
-Date_NPC9_02ID	22		選択肢	歌が好きなカエルの話						
-Date_NPC9_02ID	23	Lara	ララ	歌が好きなカエルが、音を探して旅に出る\nおとぎ話ですわ						
-Date_NPC9_02ID	24	Diona	ディオーナ	子供に人気の演目ですね。\n見逃しがちな日常の些細な音を\nカエルの視点で愉快に描いたものです						
-Date_NPC9_02ID	25	Diona	ディオーナ	小さな幸せを見つめるその内容は、\nララ・キングダムの子たちにも\n見せたいものではありますが……						
-Date_NPC9_02ID	26	Diona	ディオーナ	問題は衣装ですね。\n私にカエルの衣装を着こなすことが\nできるか……						
-Date_NPC9_02ID	27		選択肢	愛を歌う女性の話						
-Date_NPC9_02ID	28	Lara	ララ	愛する夫の帰りを待ち望み、\n日々歌う女性の話ですわ						
-Date_NPC9_02ID	29	Diona	ディオーナ	実話を基にしたという演目ですね。\n愛を歌う……素敵です						
-Date_NPC9_02ID	30	Diona	ディオーナ	愛……。改めて歌詞を咀嚼すると\n恥ずかしい箇所も多いですね。\n前は平気で歌っていたのですが						
-Date_NPC9_02ID	31	Lara	ララ	あら。いい傾向ではありませんか。\n人として深みが増したのでは						
-Date_NPC9_02ID	32		選択肢	美しいお姫様の冒険譚						
-Date_NPC9_02ID	33	Lara	ララ	美しいお姫様が、十人の従者と共に\n旅をする話ですわ						
-Date_NPC9_02ID	34	Diona	ディオーナ	……私が大好きな演目です。\n小さい頃は、このお姫様に憧れて\n歌や所作を真似ていました						
-Date_NPC9_02ID	35	Lara	ララ	あら、ではその夢は叶ったのではなくて？\n今では歌姫となったじゃありませんか						
-Date_NPC9_02ID	36	Diona	ディオーナ	呼ばれているだけで、\n姫などでは決して……！						
-Date_NPC9_02ID	37	Diona	ディオーナ	と、とにかく、これを演じようと思ったら\n役者がたくさん必要そうです。\n今回の祭りでは扱いきれないかと						
-Date_NPC9_02ID	38	Diona	ディオーナ	私もいくつか見繕って来たんです。\nこちらについても相談させて\nもらえませんか？						
-Date_NPC9_02ID	39	Lara	ララ	ええ。今日中に全部見ますわよ！						
-Date_NPC9_02ID	40	Lara	ララ	ふむ……なかなかにしっくりくるものが\nないですわね						
-Date_NPC9_02ID	41	Diona	ディオーナ	……こうなったら、私が一から\n作ろうかと思います						
-Date_NPC9_02ID	42	Lara	ララ	思い切りましたわね。\n作ったことがありまして？						
-Date_NPC9_02ID	43	Diona	ディオーナ	いえ、ありません……ですが、\n作詞も作曲も問題ありません。\n衣装だって作れます						
-Date_NPC9_02ID	44	Diona	ディオーナ	私が伝えたいことを伝えるには、\nこれが一番だと思うんです						
-Date_NPC9_02ID	45	Lara	ララ	ディオーナ……						
-Date_NPC9_02ID	46		選択肢	その覚悟……たしかに受け取りましたわ！						
-Date_NPC9_02ID	47	Lara	ララ	その覚悟……たしかに受け取りましたわ！\nあなたが作る音楽劇、楽しみに\nしていますわよ						
-Date_NPC9_02ID	48	Diona	ディオーナ	お任せください、ララ様！\nこのディオーナ、歌と劇で我が王と\nララ・キングダムを称え広めてみせます！						
-Date_NPC9_02ID	49	Lara	ララ	その意気ですわ、ディオーナ。\nララ・キングダムに栄光あれ！						
-Date_NPC9_02ID	50	Diona	ディオーナ	栄光あれ！						
-Date_NPC9_02ID	51		選択肢	どんな作品にするんですの？						
-Date_NPC9_02ID	52	Lara	ララ	どんな作品にするんですの？						
-Date_NPC9_02ID	53	Diona	ディオーナ	ララ様への想いを音楽劇にしようかと。\n音楽で表現することは私の本領ですから						
-Date_NPC9_02ID	54	Lara	ララ	あら、前もわたくしの歌を歌ってました\nわよね？　わたくしにこだわらなくとも\nよいですのに						
-Date_NPC9_02ID	55	Diona	ディオーナ	いいえ！　まだまだララ様への想いは\n形にしつくせていませんので！						
-Date_NPC9_02ID	56		選択肢	わたくしの出番はあるかしら？						
-Date_NPC9_02ID	57	Lara	ララ	わたくしの出番はあるのかしら？\n国王自ら、出演す……						
-Date_NPC9_02ID	58	Diona	ディオーナ	ララ様の出番ですか！？						
-Date_NPC9_02ID	59	Diona	ディオーナ	すみません、申し出はありがたいのですが、\n今回は私一人で……！						
-Date_NPC9_02ID	60	Diona	ディオーナ	ララ様には観客の一人として\n私のステージを見ていただきたいのです						
-Date_NPC9_02ID	61	Lara	ララ	なるほど。よく分かりましたわ。\nわたくしに協力できることがあれば\nなんでも言いなさいな						
-Date_NPC9_02ID	62	Diona	ディオーナ	ありがとうございます！\nこうしてはいられません、さっそく戻って\n執筆を開始します！						
-Date_NPC9_02ID	63	Lara	ララ	ふふ、楽しみですわね。\nどんなものを書いてくるのか						
-Date_NPC9_03ID	0	Diona	ディオーナ	突然のお願いであったにもかかわらず、\n快諾していただきありがとうございます！						
-Date_NPC9_03ID	1	Lara	ララ	あなたはわたくしの臣下なのですから、そばに控える\nのにわざわざ伺いを立てる必要なんかありませんのに						
-Date_NPC9_03ID	2	Lara	ララ	で、なぜわたくしに一日密着したいのか、\nそろそろわけを聞かせてくださる？						
-Date_NPC9_03ID	3	Diona	ディオーナ	音楽劇のためです。題材として、ララ様への\n想いを描こうと決めたのですが……						
-Date_NPC9_03ID	4	Diona	ディオーナ	ララ様の魅力を余すことなく表現するためには、\nララ様のことをより深く知る必要があります						
-Date_NPC9_03ID	5	Diona	ディオーナ	だから一日密着したいのです！						
-Date_NPC9_03ID	6	Lara	ララ	あなた、すました顔をしてときどき\n突拍子もないことをしますわよね……						
-Date_NPC9_03ID	7	Lara	ララ	（そこが魅力でもあるのですが）						
-Date_NPC9_03ID	8	Lara	ララ	まあ、いいでしょう。\n今日は調合の素材を採取しに行きますわよ						
-Date_NPC9_03ID	9	Lara	ララ	しかとわたくしの一挙手一投足を\n見ておくことですわ！						
-Date_NPC9_03ID	10	Diona	ディオーナ	はい！　目を見開いて！						
-Date_NPC9_03ID	11	Lara	ララ	……そんな遠くで見ていて密着取材になりますの？\nもっと近くに来なさいな						
-Date_NPC9_03ID	12	Diona	ディオーナ	は、はい。では、お言葉に甘えて……						
-Date_NPC9_03ID	13	Diona	ディオーナ	じー						
-Date_NPC9_03ID	14	Lara	ララ	（近くにとは言ったもののここまで……！\n　これは近すぎるというもの……！）						
-Date_NPC9_03ID	15	Lara	ララ	（しかし、王に二言はありませんもの。\n　臣下のために我慢ですわ）						
-Date_NPC9_03ID	16	Diona	ディオーナ	……						
-Date_NPC9_03ID	17	Lara	ララ	（それにしても……やはり歌姫。\n　あまりに整った顔立ちですわね）						
-Date_NPC9_03ID	18	Lara	ララ	（一般の人間が、この距離に迫られたら\n　頭が真っ白になりそうな）						
-Date_NPC9_03ID	19	Diona	ディオーナ	……っ！　魔物！						
-Date_NPC9_03ID	20	Diona	ディオーナ	はあああああっ！！！						
-Date_NPC9_03ID	21	Diona	ディオーナ	我らが王に歯向かおうだなんて、\n許せません！						
-Date_NPC9_03ID	22	Diona	ディオーナ	ララ様、もう心配ありません						
-Date_NPC9_03ID	23	Lara	ララ	……ええ、ありがとう。\nわたくしとしたことが油断していましたわ						
-Date_NPC9_03ID	24	Lara	ララ	ん……						
-Date_NPC9_03ID	25	Diona	ディオーナ	……美しい						
-Date_NPC9_03ID	26	Lara	ララ	？　何がですの？						
-Date_NPC9_03ID	27	Diona	ディオーナ	ララ様が紅茶を飲むお姿が、です						
-Date_NPC9_03ID	28	Lara	ララ	ふふ。ディオーナも美しいですわ。\n紅茶を飲む姿だけではなく、戦う姿も						
-Date_NPC9_03ID	29	Diona	ディオーナ	ララ様だって						
-Date_NPC9_03ID	30	Diona	ディオーナ	泥にまみれながら採取をするお姿も、\n汗を流しながら仕事をされるお姿も……！						
-Date_NPC9_03ID	31	Diona	ディオーナ	きっと民のためというひたむきな心が\n表に現れているのでしょう！						
-Date_NPC9_03ID	32	Lara	ララ	気恥ずかしいことを言うのはやめなさいな。\nそういうのは歌の内容だけで充分ですわ						
-Date_NPC9_03ID	33	Lara	ララ	……まあ、だからこそ良い詩が書けているのなら\nそれも才能なのかもしれませんが						
-Date_NPC9_03ID	34	Diona	ディオーナ	なるほど……たしかにそうなのかもしれません						
-Date_NPC9_03ID	35	Diona	ディオーナ	今日はありがとうございました。\nおかげで色々と案が浮かんできました						
-Date_NPC9_03ID	36	Diona	ディオーナ	さっそくララ・キングダムに戻って\n音楽劇の制作を……						
-Date_NPC9_03ID	37	Lara	ララ	ディオーナ						
-Date_NPC9_03ID	38	Diona	ディオーナ	はい？						
-Date_NPC9_03ID	39	Lara	ララ	お茶の時間ぐらいゆっくりしなさい。\nこれは王の命令ですわ						
-Date_NPC9_03ID	40	Diona	ディオーナ	……は、はい						
-Date_NPC9_03ID	41	Lara	ララ	（ディオーナは本当に創作に対して真剣ですわね）						
-Date_NPC9_03ID	42	Lara	ララ	（いつか彼女にも一日密着して、\n　歌に対する想いを聞いてみたいですわ）						
-Date_NPC9_04ID	0	Lara	ララ	（祭りの時期も近づいてきて、\n　そろそろ音楽劇の台本も\n　仕上がらないといけないころ）						
-Date_NPC9_04ID	1	Lara	ララ	（きっとディオーナも大詰めを\n　迎えていることでしょう。\n　こういう時、彼女は……）						
-Date_NPC9_04ID	2	Diona	ディオーナ	皆で歌おう　我らの～♪						
-Date_NPC9_04ID	3	Lara	ララ	（やはり、ここにいた）						
-Date_NPC9_04ID	4	Diona	ディオーナ	あ、ララ様！　いらしていたのですか						
-Date_NPC9_04ID	5	Lara	ララ	素敵な曲でしたわ。祭りで披露する\n音楽劇のものですわよね？						
-Date_NPC9_04ID	6	Diona	ディオーナ	はい、そうです。ララ様のことを想い、\nララ様を称えるために用意した曲になります						
-Date_NPC9_04ID	7	Lara	ララ	ということは、完成したのですね？						
-Date_NPC9_04ID	8	Diona	ディオーナ	はい……ただ、まだ少し悩んでいるところも\nあって……						
-Date_NPC9_04ID	9	Lara	ララ	なるほど。よろしければ、どんな歌なのか\n教えてもらえるかしら						
-Date_NPC9_04ID	10	Diona	ディオーナ	もちろんです！　細かいところは当日まで\n隠しますが、全十楽章からなっていて……						
-Date_NPC9_04ID	11	Diona	ディオーナ	第一楽章は私とララ様との出会い、\n第二楽章はララ様の内に秘められた渇望、\n第三楽章は……						
-Date_NPC9_04ID	12	Lara	ララ	（そ、そんなにありますの！？）						
-Date_NPC9_04ID	13		選択肢	長すぎませんこと？						
-Date_NPC9_04ID	14	Lara	ララ	少し長すぎませんこと？\n退屈な構成になっていなければ\n良いのですが						
-Date_NPC9_04ID	15	Diona	ディオーナ	そ……そうかもしれません。\nララ様への想いを詰め込んだら\n長くなってしまいました						
-Date_NPC9_04ID	16	Diona	ディオーナ	ですが、私のララ様への想いはこれだけでは\nありません！\n本当はまだまだたくさん……						
-Date_NPC9_04ID	17	Lara	ララ	わ、分かりましたわ。\nとても強く思ってくださったことは						
-Date_NPC9_04ID	18		選択肢	熱い想いが伝わってきますわ						
-Date_NPC9_04ID	19	Lara	ララ	これだけの熱い想いがあなたには\nあるのですね。\nそれが十分伝わってきましたわ						
-Date_NPC9_04ID	20	Diona	ディオーナ	嬉しいです！　ララ様に届けたくて\nこの歌を書いてましたので						
-Date_NPC9_04ID	21	Diona	ディオーナ	長いだけでなく、一つ一つの言葉にも\nララ様への想いを込めていて……。\nこの間の一日密着の成果が出ました						
-Date_NPC9_04ID	22	Lara	ララ	やはり想いを詩にする才能は\n飛びぬけていますわね。\n驚きましたわ						
-Date_NPC9_04ID	23		選択肢	ランターナ史に残る超大作ですわね						
-Date_NPC9_04ID	24	Lara	ララ	これは……ランターナ史に残る\n超大作ですわね						
-Date_NPC9_04ID	25	Diona	ディオーナ	そうでしょう！\nここまで長ければ皆の印象に残ること\n間違いなしです						
-Date_NPC9_04ID	26	Diona	ディオーナ	これで、ララ様の偉業を皆の記憶に\n刻み付けられますね！						
-Date_NPC9_04ID	27	Lara	ララ	長すぎて内容は覚えられないのではなくて？						
-Date_NPC9_04ID	28	Diona	ディオーナ	……確かに……。\n申し訳ございません、盲点でした……						
-Date_NPC9_04ID	29	Lara	ララ	一度整理したほうがよいかも\nしれないですわね						
-Date_NPC9_04ID	30	Lara	ララ	前から聞きたかったのですが、あなたは\n歌うときや作曲する時、どのような想いを\n胸に取り組んでいるのかしら						
-Date_NPC9_04ID	31	Diona	ディオーナ	そうですね……はじめは歌手である\n父の勧めで歌い始めました。\nこれはララ様も知っての通りです						
-Date_NPC9_04ID	32	Diona	ディオーナ	ララ様と出会った今は、自らの意志のもと、\n大きな“芯”を持って取り組んでいます						
-Date_NPC9_04ID	33	Diona	ディオーナ	ララ様が、熱い“芯”を与えて\nくださったんです						
-Date_NPC9_04ID	34	Diona	ディオーナ	だからこそ、その感謝を込めてララ様の\nことを想い、ララ様を称える曲を作って、\nララ様の素晴らしさを広めたい……						
-Date_NPC9_04ID	35	Diona	ディオーナ	今は、そう思って取り組んでいます						
-Date_NPC9_04ID	36	Diona	ディオーナ	私から歌とララ様を想う気持ちを\n取り上げたら何も残りません						
-Date_NPC9_04ID	37	Lara	ララ	（……なるほど）						
-Date_NPC9_04ID	38	Lara	ララ	（そんなにも思われているなんて、\n　嬉しい……）						
-Date_NPC9_04ID	39	Lara	ララ	（……なんて、これはそう素直に\n　思えませんわね、ディオーナ）						
-Date_NPC9_04ID	40	Lara	ララ	いいかしら、ディオーナ。\nあなたは何も残らないと言いますが……						
-Date_NPC9_04ID	41		選択肢	周りをよく見なさい						
-Date_NPC9_04ID	42	Lara	ララ	周りをよく見なさいな。\nあなたはどこへやってきたのです？						
-Date_NPC9_04ID	43	Lara	ララ	あなたは今ララ・キングダムに居るのです。\nそして、あなたを慕う多くの民がいる						
-Date_NPC9_04ID	44	Lara	ララ	彼らは決して歌やわたくしへの忠誠心で\nあなたを評価しているわけではありませんわ						
-Date_NPC9_04ID	45	Diona	ディオーナ	……！						
-Date_NPC9_04ID	46	Lara	ララ	彼らがいるではありませんか。\nそれとも、彼らが信じられないとでも？						
-Date_NPC9_04ID	47	Diona	ディオーナ	いえ……そんなことありません！\n皆、大切な私の宝物です						
-Date_NPC9_04ID	48		選択肢	服飾の才能もある						
-Date_NPC9_04ID	49	Lara	ララ	服飾の才能もあるでしょう。\n何も残らないなんてことはありませんわ						
-Date_NPC9_04ID	50	Diona	ディオーナ	服は……ミーケちゃんだって作れます。\n私にしかできないことではありません						
-Date_NPC9_04ID	51	Lara	ララ	ミーケが作っている服とは趣向が\n異なりますでしょう？\nあなたの服は唯一無二ですわ						
-Date_NPC9_04ID	52	Diona	ディオーナ	そうなのでしょうか……						
-Date_NPC9_04ID	53		選択肢	私は素晴らしくなどない						
-Date_NPC9_04ID	54	Lara	ララ	そもそもわたくしは素晴らしくなど\nないのです。わたくしはほんの少しの\nきっかけを作ったにすぎませんわ						
-Date_NPC9_04ID	55	Lara	ララ	いつも言っているように、\n臣下の、そして民の頑張りがわたくしの国を\n作り上げています						
-Date_NPC9_04ID	56	Lara	ララ	素晴らしいのはあなた。\nそうじゃなくて？						
-Date_NPC9_04ID	57	Diona	ディオーナ	……ですが、ララ様が居なければ\n何もできなかったでしょう。\n私は素晴らしくなんかないです						
-Date_NPC9_04ID	58	Lara	ララ	どうやら、またひとつディオーナのことが\n知れたみたいですわね						
-Date_NPC9_04ID	59	Diona	ディオーナ	幻滅しましたか？						
-Date_NPC9_04ID	60	Lara	ララ	いいえ。嬉しくてよ？\nあなたのことを知れるのは						
-Date_NPC9_04ID	61	Lara	ララ	ねえ、ディオーナ。私は思うのです。\nあなたの歌は、わたくしのためだけに\n作られたもののようですが……						
-Date_NPC9_04ID	62	Lara	ララ	このたびの祭りにおいては、\nそれは誤っているのではないかと						
-Date_NPC9_04ID	63	Diona	ディオーナ	私のララ様に対する想いが\n重かったでしょうか……？						
-Date_NPC9_04ID	64	Lara	ララ	違いますわ。\nわたくしは……						
-Date_NPC9_04ID	65		選択肢	あなたがもっと羽ばたく姿を見たいのです						
-Date_NPC9_04ID	66	Lara	ララ	あなたがもっと羽ばたく姿を見たいのです						
-Date_NPC9_04ID	67	Diona	ディオーナ	私が、羽ばたく……						
-Date_NPC9_04ID	68	Lara	ララ	わたくしのためだけの歌を歌うのではなく、\n皆に愛される歌姫として、\nより広い世界と人々を見て……						
-Date_NPC9_04ID	69	Lara	ララ	たくさんの人のために歌うあなたを、\nわたくしは見たい						
-Date_NPC9_04ID	70	Lara	ララ	もったいないですわよ？\nわたくしのことばかり見ていては。\nそれに……						
-Date_NPC9_04ID	71	Lara	ララ	あなたの歌を待っている\nたくさんの人が居るのです						
-Date_NPC9_04ID	72	Diona	ディオーナ	……！						
-Date_NPC9_04ID	73		選択肢	あなたにひとり立ちしてほしいのです						
-Date_NPC9_04ID	74	Lara	ララ	あなたにひとり立ちしてほしいのです						
-Date_NPC9_04ID	75	Diona	ディオーナ	……そうですね。\n私は、ララ様に頼りっきりだったかも\nしれません						
-Date_NPC9_04ID	76	Lara	ララ	そういうことではありませんわ。\nただ、わたくしのことばかり\n気にしなくともよいのです						
-Date_NPC9_04ID	77	Diona	ディオーナ	……						
-Date_NPC9_04ID	78		選択肢	あなたを縛り付けていないかと思うのです						
-Date_NPC9_04ID	79	Lara	ララ	あなたを縛り付けていないかと思うのです。\nわたくしがあなたの王であるがゆえに						
-Date_NPC9_04ID	80	Diona	ディオーナ	そんなことはありません！\n私がララ様の歌を歌いたくて\n歌っているのです						
-Date_NPC9_04ID	81	Diona	ディオーナ	……ですが、ララ様を心配させてしまって\nいたのですね。\n						
-Date_NPC9_04ID	82	Lara	ララ	そこは気にしてはいないのですが……						
-Date_NPC9_04ID	83	Diona	ディオーナ	いえ、今まで気が付かず申し訳ありません。\n改めることにいたします……						
-Date_NPC9_04ID	84	Diona	ディオーナ	ありがとうございます、ララ様。\n私は大切なことに\nぜんぜん気付けていませんでした						
-Date_NPC9_04ID	85	Diona	ディオーナ	それなのに、私の成長を期待して\nここまで声をかけていただいた……。\nとても嬉しいです						
-Date_NPC9_04ID	86	Diona	ディオーナ	初めての音楽劇だと気負いすぎて、\n少しから回っていたのかもしれません						
-Date_NPC9_04ID	87	Diona	ディオーナ	ララ様、私の悩みの種が見えた気がします。\nもう少しだけお待ちを！						
-Date_NPC9_04ID	88	Diona	ディオーナ	ララ様の言うように、皆のことを見つめ、\n皆のための歌を作り上げてきます。\nそして必ず、祭りを成功させましょう！						
-Date_NPC9_04ID	89	Lara	ララ	ええ、その意気ですわ！\n期待していますわよ、ディオーナ						
-Date_NPC9_04ID	90	Diona	ディオーナ	はい！　それでは失礼します！						
-Date_NPC9_04ID	91	Lara	ララ	（……きっと彼女は、大空へと\n　羽ばたいていくでしょう。\n　それでよいのですわ）						
-Date_NPC9_04ID	92	Lara	ララ	（わたくしだけの歌姫でなくなるのは\n　少し寂しくはありますが……）						
-Date_NPC9_04ID	93	Lara	ララ	（わたくしはララ・キングダムの王。\n　民の幸せのため、宝物を独占する\n　わけにはいきませんもの）						
-Date_NPC9_04ID	94	Diona	ディオーナ	私、歌手としてもララ様の臣下としても\nまだまだですね……						
-Date_NPC9_04ID	95	Diona	ディオーナ	もう一度鍛錬を積み直してきます。\nしばらく一人にしてください						
-Date_NPC9_04ID	96	Lara	ララ	……						
-Date_NPC9_04ID	97	Lara	ララ	（王として彼女を導けませんでしたわ……\n　なんて、ふがいない……）						
-Date_NPC9_04ID	98	Diona	ディオーナ	～～～～～～！！！						
-Date_NPC9_05ID	0	Lara	ララ	（本日はいよいよ祭りの日。\n　音楽劇の準備が整い、ディオーナが\n　舞台に上がる）						
-Date_NPC9_05ID	1	Lara	ララ	（あの時、彼女は皆のための歌を作ると\n　言いました。その約束を守るべく、\n　ずっと調整を続けていたのです）						
-Date_NPC9_05ID	2	Lara	ララ	（そして彼女が初めて作った音楽劇が\n　始まり、今――）						
-Date_NPC9_05ID	3	Lara	ララ	（この舞台は……いえ。\n　わたくしたちの世界は彼女の支配下にありました）						
-Date_NPC9_05ID	4	Diona	ディオーナ	くすんだ景色を耕して　いつしか緑が溢れ出る\nそうして実るは黄金色　歌おう我らを繋ぐ音						
-Date_NPC9_05ID	5	Diona	ディオーナ	さあ、友よ！　あなたたちの声が聞こえる\n今より我が奏でるは　皆からもらい受けた音						
-Date_NPC9_05ID	6	Lara	ララ	（この歌は、きっとディオーナ自身のことを歌った歌。\n　彼女から皆へ送る歌ですわね）						
-Date_NPC9_05ID	7	Lara	ララ	（伝わってきますわ。あなたの、皆への想いが）						
-Date_NPC9_05ID	8	Diona	ディオーナ	皆で歌おう　我らの星を～♪						
-Date_NPC9_05ID	9	Lara	ララ	（！　これは、先日聞いたフレーズですわね。\n　サビの繰り返し……皆で歌おう、ですか）						
-Date_NPC9_05ID	10	Lara	ララ	……						
-Date_NPC9_05ID	11	Lara	ララ	皆で歌おう　我らの星を～♪						
-Date_NPC9_05ID	12	Diona	ディオーナ	っ！						
-Date_NPC9_05ID	13	Diona	ディオーナ	皆で歌おう　我らの星を～♪						
-Date_NPC9_05ID	14		観客A	……おい、ララ様が歌っているぞ！						
-Date_NPC9_05ID	15		観客B	同じフレーズを繰り返してるわ。\n私たちも続きましょう！						
-Date_NPC9_05ID	16		みんな	皆で歌おう　我らの星を～♪						
-Date_NPC9_05ID	17	Lara	ララ	お疲れさまですわ、ディオーナ						
-Date_NPC9_05ID	18	Diona	ディオーナ	ララ様！　先程はありがとうございました！\nまさかララ様が私の曲を歌ってくださる\nなんて……						
-Date_NPC9_05ID	19	Lara	ララ	わたくしだけではありませんわ。\n皆が歌っておりましたもの						
-Date_NPC9_05ID	20	Lara	ララ	この歌は聞きに来ていた多くの民の心に\n響いたのです。そして、わたくしたちの心が\n一つになった						
-Date_NPC9_05ID	21	Lara	ララ	これは他でもない、あなたの功績ですわ						
-Date_NPC9_05ID	22	Diona	ディオーナ	……はい！						
-Date_NPC9_05ID	23	Diona	ディオーナ	私は今日、また歌手として成長できました。\nこれは私の力で成し遂げたことであると\n共に、やはりララ様のおかげでもあるんです						
-Date_NPC9_05ID	24	Diona	ディオーナ	色々なものを見るようになったとしても、\n一番輝いているものはやはり\n変わりませんでした						
-Date_NPC9_05ID	25	Diona	ディオーナ	私はこれからもララ様についていきます。\nララ様や民のために、歌わせてください！						
-Date_NPC9_05ID	26	Lara	ララ	もちろんですわ。\nそれではディオーナ、行きますわよ！						
-Date_NPC9_05ID	27	Diona	ディオーナ	はい、ララ様！						
-Date_NPC9_05ID	28	Lara	ララ	（ディオーナ……わたくしの大切な\n　民であり、臣下であり、\n　かけがえのない存在）						
-Date_NPC9_05ID	29	Lara	ララ	（彼女の力になれたのなら、\n　王としてこんなに嬉しいことは\n　ありませんわね）						
+Date_NPC9_01ID	0	Lara	ララ	（……作物の収穫が間近になって\n　来ましたわね）	Lara	(Harvest season is drawing near.)	拉拉	（快要到收割庄稼的时候了呢。）	拉拉	（……眼看就要到採收農作物的時期了。）
+Date_NPC9_01ID	1	Lara	ララ	（民の働きのおかげで荒れ果てた土地も\n　耕され、ようやく豊かな実りを\n　享受できるようになりましたわ）	Lara	(Thanks to my people, what was once barren land has been tilled and sown. The fruits of our labor are near ready for reaping.)	拉拉	（多亏了人民的劳动，\n　荒芜的土地得到开垦，\n　终于可以享受丰收的果实了。）	拉拉	（多虧了人民的辛勞，荒蕪的土地也得以開墾，我們終於能夠享受豐碩的果實了。）
+Date_NPC9_01ID	2	Lara	ララ	（その献身には報いねばなりませんわ。\n　ひとつ祭りでも……あら）	Lara	(I should reward them for their hard work. Perhaps a festival is in order... Hm?)	拉拉	（我必须报答大家的奉献。\n　要不举办一个庆典……咦？）	拉拉	（我得好好回報一下這份奉獻精神。\n　至少辦個祭典活動……哎呀。）
+Date_NPC9_01ID	3	Diona	ディオーナ	～♪　～～♪	Diona	Hm-hm-hmmm... La-da-daaah...	蒂欧娜	哼哼～～	蒂歐娜	啦～啦～～
+Date_NPC9_01ID	4	Lara	ララ	（美しい歌声。ララ・キングダムに\n　なくてはならない宝物。ディオーナ、\n　また一段と歌が上手くなりましたわね）	Lara	(That beautiful sound... Diona's singing has improved even more. A treasure of the Kingdom of Lara to be sure.)	拉拉	（好美的歌声。\n　真是拉拉王国不可或缺的宝物。\n　蒂欧娜的歌唱水平又上了一层楼呢。）	拉拉	（真優美的歌聲，\n　這是我們拉拉王國不可或缺的寶物。\n　蒂歐娜的歌唱技巧又提升了呢。）
+Date_NPC9_01ID	5	Diona	ディオーナ	～♪　……え	Diona	Hmm-hm-hm... Oh?	蒂欧娜	哼哼……咦？	蒂歐娜	啦啦～咦……
+Date_NPC9_01ID	6	Diona	ディオーナ	ら、ララ様！？　申し訳ございません、\nこんなに近くにいらっしゃったのに\n気付かないなんてご無礼を……	Diona	Q-Queen Lara?! Forgive me, Your Majesty. How rude of me to fail to notice your presence...	蒂欧娜	拉、拉拉大人？！非常抱歉，\n您都来到这么近的地方了我却没发现，\n真是太失礼了……	蒂歐娜	拉、拉拉大人！？非常抱歉，明明妳近在咫尺，我卻完全沒注意到，真是太失禮了……
+Date_NPC9_01ID	7	Lara	ララ	気にしなくて良くてよ。\nあなたの美しい歌を止めることのほうが\n無礼というもの	Lara	Nothing to worry about, Diona. It would have been far ruder of me to interrupt your beautiful singing.	拉拉	不用在意的。\n我打断了你优美的歌声，\n才更是失礼呢。	拉拉	妳不用在意喔。\n打斷妳那美妙的歌聲才更失禮。
+Date_NPC9_01ID	8	Diona	ディオーナ	もったいないお言葉……！\nそのお褒めの言葉だけで一週間は\n全力で、らんらんと働けます	Diona	You honor me, Your Majesty! That compliment will keep me in high spirits for the next week, at least!	蒂欧娜	千万别这么说……！\n听了您的褒奖，\n我就能拼尽全力工作一周。	蒂歐娜	實在不敢當……！光是這句讚美，\n就能讓我全力以赴工作一星期。
+Date_NPC9_01ID	9	Lara	ララ	む、無理は感心しませんわよ？	Lara	Well, don't push yourself too hard now.	拉拉	逞强可就不值得表扬了哦？	拉拉	唔，勉強自己可不值得稱讚喔。
+Date_NPC9_01ID	10	Diona	ディオーナ	はい、肝に銘じます……。\nところで、ララ様はどのような用件で\nこちらへ？	Diona	Of course, I understand... But what brings you here, my queen?	蒂欧娜	好的，我记住了……\n对了，拉拉大人过来是有什么事呀？	蒂歐娜	是，我會銘記在心的……\n話說回來，拉拉大人來這裡有什麼事呢？
+Date_NPC9_01ID	11	Lara	ララ	作物の様子を見ていましたの。\n見なさいな、この豊穣を。これを祝し、\n祭りでも開こうかと思っていますわ	Lara	I came to see the crops. And I must say, we have a wonderful harvest ahead of us. I'm considering holding a harvest festival in celebration.	拉拉	我来看看庄稼长得怎么样了。\n你看这丰收的景象呀，\n我想举办一个庆典来庆祝丰收。	拉拉	我來看看農作物的生長情形。\n妳看，多麼豐收啊。\n我在考慮是否要為此舉辦慶祝活動。
+Date_NPC9_01ID	12	Diona	ディオーナ	おぉぉ……\n素晴らしいお考えです、ララ様！\n皆喜ぶと思います	Diona	A splendid idea, Your Majesty! Everyone will be elated, I'm sure.	蒂欧娜	哇哦……\n真是个好想法，拉拉大人！\n我觉得大家也会高兴的。	蒂歐娜	哦……拉拉大人，這個想法真是太棒了！\n大家應該都會很高興的。
+Date_NPC9_01ID	13	Lara	ララ	思いますではなく、絶対に喜ばせますわ。\nわたくしが開催するからには\n妥協は許しませんことよ	Lara	I will make sure of it. If I'm going to hold a festival, I will see to it that it is done well.	拉拉	不是你觉得，是一定要让大家高兴。\n既然是我来举办，就绝不允许妥协。	拉拉	不是應該，而是一定要讓大家都很高興。\n既然是我舉辦的，那就絕不會接受任何妥協。
+Date_NPC9_01ID	14	Diona	ディオーナ	さすがはララ様。でしたら、余興の\nステージはぜひ私に歌わせてください！\n私も全力でお手伝いしたいのです！	Diona	I would expect nothing less from you, Your Majesty! If you need anyone to take to the stage, I would be happy to offer my voice.	蒂欧娜	真不愧是拉拉大人。\n那表演节目时请一定让我唱上一首！\n我也会尽全力帮忙的！	蒂歐娜	真不愧是拉拉大人。那麼，請讓我在助興的舞台上獻唱幾曲吧！我也想要盡一份心力！
+Date_NPC9_01ID	15	Lara	ララ	（ディオーナの働きにも報いたいと\n　思っていたのですが、このやる気。\n　無下にするわけにはいきませんわね）	Lara	(I was hoping to reward Diona for her hard work...but her enthusiasm should not go unnoticed.)	拉拉	（我很想报答蒂欧娜的辛勤劳动，\n　但看到她这么干劲满满，\n　我又不能辜负她的心意。）	拉拉	（雖然也想回報蒂歐娜一直以來的努力，\n　但我又不能辜負她的那份幹勁啊。）
+Date_NPC9_01ID	16		選択肢	願ってもない言葉ですわ	Selection	I wouldn't have it any other way.	选项	那是最好了	選項	真是求之不得
+Date_NPC9_01ID	17	Lara	ララ	願ってもない言葉ですわ。\nあなたの歌であれば、民も皆満足すること\n間違いないでしょう	Lara	I wouldn't have it any other way. The people will be delighted to hear your singing, no doubt.	拉拉	那是最好了。\n能听到你的歌声，\n民众们一定会非常满足的。	拉拉	真是求之不得呢。只要是妳的歌聲，\n所有百姓一定都會覺得很滿意的。
+Date_NPC9_01ID	18	Diona	ディオーナ	そう言っていただけるなんて、\n臣下の至りです！　ララ様のために歌う\nことが今の私の幸せですから！	Diona	Nothing makes me happier than to hear you say that, Your Majesty! Singing for you is what I live for!	蒂欧娜	能听到拉拉大人这么说\n臣不胜荣幸！能为拉拉大人唱歌，\n就是我现在的幸福！	蒂歐娜	竟然能聽到拉拉大人這麼說，\n真是臣子莫大的榮幸！\n畢竟現在為拉拉大人歌唱就是我的幸福！
+Date_NPC9_01ID	19		選択肢	あなたを余興担当大臣に任命しますわ！	Selection	"I shall proclaim you ""Minister of Festivities""!"	选项	我任命你做负责节目的大臣！	選項	我就任命妳為助興大臣吧！
+Date_NPC9_01ID	20	Lara	ララ	良いでしょう。\nあなたを余興担当大臣に任命しますわ！	Lara	"Very well, then. I shall proclaim you ""Minister of Festivities""!"	拉拉	既然如此，\n那我就任命你做负责节目的大臣！	拉拉	很好，我就任命妳為助興大臣吧！
+Date_NPC9_01ID	21	Diona	ディオーナ	はっ！　謹んでお受けいたします。\nなんでもお命じください、ララ様	Diona	I humbly accept the title! Your wish is my command, Your Majesty.	蒂欧娜	是！很荣幸能接受任命。\n请您尽管吩咐，拉拉大人。	蒂歐娜	是的！我欣然接受。儘管命令我吧，拉拉大人。
+Date_NPC9_01ID	22	Lara	ララ	引き受けたからには中途半端な仕事は\n許しませんことよ？\n覚悟なさい	Lara	I won't accept half measures now, Minister. I assume you will do your utmost?	拉拉	既然接受了，那在工作上就不能马虎哦。\n给我做好心理准备吧。	拉拉	既然接下了，可就不允許妳半途而廢了喔？\n做好心理準備吧。
+Date_NPC9_01ID	23	Diona	ディオーナ	もちろんです。この身は\nすべてララ様に捧げていますゆえ！	Diona	Of course! The queen herself will be there. It will be nothing less than perfect!	蒂欧娜	那是当然啦。\n我会把一切都奉献给拉拉大人!	蒂歐娜	那當然，我會全心全意地為拉拉大人奉獻所有！
+Date_NPC9_01ID	24		選択肢	では２０曲ほど用意しましょう	Selection	I expect you to sing at least twenty songs.	选项	那你就准备20首歌吧	選項	那就準備大約20首歌吧
+Date_NPC9_01ID	25	Lara	ララ	では２０曲ほど用意しましょう。\n歌姫ディオーナの新曲で\n祭りを盛大に盛り上げるのですわ！	Lara	I expect you to sing at least twenty songs. The people will sing praises for Diona the songstress!	拉拉	那你就准备20首歌吧。\n用歌手蒂欧娜的新歌\n炒热庆典的气氛吧！	拉拉	那就準備大約20首歌吧。\n用歌姬蒂歐娜的新曲炒熱祭典的氣氛吧！
+Date_NPC9_01ID	26	Diona	ディオーナ	２０曲……！　血がたぎります。\nこの熱さこそ、私の求めていたもの、\nさっそく今から準備しなくては	Diona	T-Twenty?! I... No, I cannot back down from such a challenge. I will begin preparations right awa—	蒂欧娜	20首……！真让人热血沸腾呀。\n这份热血正是我所追求的。\n现在开始就得赶紧准备了。	蒂歐娜	20首……！真是熱血沸騰。\n這股熱情正是我長久以來所追求的，\n要立刻開始準備才行。
+Date_NPC9_01ID	27	Lara	ララ	冗談ですわ。これでは祭りではなく\nあなたの独唱コンサートになってしまうでは\nありませんか	Lara	I'm only joking, Diona. We are planning a harvest festival, not a music concert.	拉拉	我是开玩笑的。\n真唱那么多就不是庆典，\n而是你的个人演唱会了。	拉拉	我開玩笑的。這樣就不是祭典，\n而是會變成妳的獨唱音樂會了吧？
+Date_NPC9_01ID	28	Lara	ララ	とにかく、あなたのやる気は\n伝わりましたわ。改めて祭りであなたの歌を\n披露してもらえるかしら	Lara	In any case, your enthusiasm has been noted. Can I count on you to put on a performance?	拉拉	总之，我已经感受到你的干劲了。\n你就在庆典上一展歌喉吧。	拉拉	總之我已經感受到妳的幹勁了。\n能否再次請妳在祭典上獻唱一曲呢？
+Date_NPC9_01ID	29	Diona	ディオーナ	承知いたしました！\nさっそく内容を考えねばなりませんね	Diona	I would be more than happy, Your Majesty! I will start thinking about which songs to sing.	蒂欧娜	明白了！\n我得赶快想想具体内容了。	蒂歐娜	我明白了！得趕緊考慮表演內容了呢。
+Date_NPC9_01ID	30	Diona	ディオーナ	ただ歌うだけではいささか祭りの特別感に\n欠ける気もしますし、何か歌を使った\n催しをしてみたいのですが……	Diona	Though, that alone wouldn't make for a terribly interesting festival. Perhaps there's a way we can use music to tie everything together...	蒂欧娜	如果只唱歌的话，\n感觉少了些庆典上特别的感觉，\n如果能举行些需要唱歌的活动就好了……	蒂歐娜	如果只是唱歌，感覺好像少了點祭典的特別氣氛，想試試用歌曲來籌劃一些活動……
+Date_NPC9_01ID	31	Lara	ララ	ほう。見事な着眼点です。\n表現者としてのその追求の姿勢、\n感服いたしますわ！	Lara	Why, what a splendid outlook. I cannot help but admire your relentless pursuit of personal expression!	拉拉	嗯，这个着眼点很不错。\n身为表演者有自己的追求，\n真令人钦佩！	拉拉	哦，這觀點真不錯。我對妳身為表演者的那種\n自我追求的態度深感佩服！
+Date_NPC9_01ID	32	Diona	ディオーナ	ララ様は何か見たいものはございますか？	Diona	Is there anything in particular that you would like to see, my queen?	蒂欧娜	拉拉大人有没有什么想看的？	蒂歐娜	拉拉大人有什麼想看的嗎？
+Date_NPC9_01ID	33	Lara	ララ	そうですわね……	Lara	Hm, if I had to say...	拉拉	这个嘛……	拉拉	我想想……
+Date_NPC9_01ID	34		選択肢	歌いながら舞う	Selection	Music ought to be accompanied by dancing.	选项	边唱边跳	選項	邊唱歌邊跳舞
+Date_NPC9_01ID	35	Lara	ララ	歌いながら舞うというのはいかが？\n衣装も自分で映えるものが作れるのでは\nなくて？	Lara	Music ought to be accompanied by dancing, in my opinion. Perhaps with some expertly crafted costumes that highlight your radiance.	拉拉	边唱边跳怎么样？\n你不也能做出好看的服装吗？	拉拉	邊唱歌邊跳舞怎麼樣？\n也可以自己製作漂亮的服裝。
+Date_NPC9_01ID	36	Diona	ディオーナ	激しい舞だと歌えそうにありませんが、\nバレエのような踊りなら衣装も合わせて\n優雅なステージを披露できそうです	Diona	While I can't do anything particularly intense while singing, some ballet-like moves coupled with appropriate attire would certainly make for an elegant display.	蒂欧娜	如果跳太激烈的舞我就没法唱歌了，\n不过如果是芭蕾那样的舞，再配上合适的服装，\n应该能呈现出一个优雅的舞台表演。	蒂歐娜	激烈的舞蹈可能無法唱歌，\n但像芭蕾那樣的舞蹈或許就可以結合服裝，\n展現出優雅的舞台。
+Date_NPC9_01ID	37	Lara	ララ	ええ。あなたにぴったりだと思いますわ	Lara	Wonderful. I do believe that would suit you perfectly.	拉拉	嗯，我觉得非常适合你！	拉拉	嗯，我覺得很適合妳喔。
+Date_NPC9_01ID	38	Diona	ディオーナ	とはいえ、もう一押し欲しいところですね。\n祭りに披露するものとしてはいささか\n固い内容かもしれません	Diona	Still, I feel as though that would be missing the mark. That sort of formal performance is slightly ill-fitting for a festival.	蒂欧娜	不过，我还想要再多加点什么。\n作为庆典上的节目，\n只唱歌可能有点死板。	蒂歐娜	話雖如此，但感覺還差一點呢。\n以在祭典上表演的內容來說，\n可能有點了無新意。
+Date_NPC9_01ID	39		選択肢	即興で歌う	Selection	Perhaps some impromptu pieces?	选项	即兴演唱	選項	即興演唱
+Date_NPC9_01ID	40	Lara	ララ	あなたほどの実力であれば、曲をもらって\n即興で歌ってみるのはいかがかしら？	Lara	Perhaps some impromptu pieces would be nice, considering how talented you are.	拉拉	你有这么强大的实力，\n要不要尝试拿到曲子后即兴演唱呢？	拉拉	像妳這麼有實力，要不要試試看\n聽到什麼曲子就即興唱成歌呢？
+Date_NPC9_01ID	41	Diona	ディオーナ	即興ですか……少し怖くはありますね。\nいつも歌詞の作成には時間がかかって\nしまいますから	Diona	Hm... I must admit, I do find that idea to be rather daunting. It takes time to properly compose lyrics, after all.	蒂欧娜	即兴演唱吗……我有点害怕。\n平时写歌词是需要花一些时间的。	蒂歐娜	即興嗎……我有點不敢呢。\n因為我在寫歌詞時，總是需要很多時間。
+Date_NPC9_01ID	42	Lara	ララ	……そうですわね。あなたは歌に込める\n想いを大切にしている。\nそれをないがしろにはできませんわよね	Lara	That is fair. The feelings that you put into your songs are very important. Those mustn't be neglected, hm?	拉拉	也是……你非常重视歌曲中包含的感情。\n我们不能忽视这一点。	拉拉	……說的也是。\n妳很重視在歌曲中所寄託的感情。\n不能忽視這一點，對吧。
+Date_NPC9_01ID	43	Diona	ディオーナ	すみません！　私がもっと柔軟であれば\nできたかもしれないのに……\nいかなるお詫びもいたします	Diona	I'm terribly sorry for being so inflexible! If only I were more spontaneous, then perhaps...	蒂欧娜	不好意思！如果我能更灵活一点，\n也许就能这么表演了……\n真的非常抱歉。	蒂歐娜	不好意思！如果我更懂得變通，\n說不定就能辦到了……\n無論如何真的很抱歉。
+Date_NPC9_01ID	44		選択肢	ミーケと相談してみる	Selection	You could try consulting Mieke.	选项	和米珂商量一下	選項	和米珂商量看看
+Date_NPC9_01ID	45	Lara	ララ	ステージごとであればミーケにも相談して\nみてはいかが？	Lara	When it comes to the performance aspects, you could try consulting Mieke.	拉拉	舞台方面的事情的话，\n和米珂商量一下如何？	拉拉	如果是關於舞台的事，\n要不要也和米珂商量看看？
+Date_NPC9_01ID	46	Diona	ディオーナ	たしかに、ミーケちゃんなら色々\n知っていそうです！	Diona	True, she is rather knowledgeable when it comes to these things!	蒂欧娜	有道理，感觉米珂知道很多呢！	蒂歐娜	說得對，感覺米珂好像知道很多事情！
+Date_NPC9_01ID	47	Diona	ディオーナ	……お笑いは、私があがってしまうので、\n遠慮したいところですが	Diona	Though, I may have to ask her to hold back on any comedic elements.	蒂欧娜	……不过要表演搞笑节目的话我会很紧张，\n这一类的就算了。	蒂歐娜	……但表演笑話的話我會怯場，\n這部分就想婉拒了。
+Date_NPC9_01ID	48	Lara	ララ	あら。あなたが愉快なことをおっしゃる\nところも見てみたかったですわ	Lara	Alas, I was hoping to see you recite something humorous.	拉拉	哎呀，我还挺想看看讲你笑话的。	拉拉	哎呀，真想看看妳說笑話的樣子呢。
+Date_NPC9_01ID	49	Diona	ディオーナ	うう……どうかご勘弁を	Diona	Ahh... My sincerest apologies.	蒂欧娜	呜呜……求您放过我吧。	蒂歐娜	嗚嗚……請饒了我吧。
+Date_NPC9_01ID	50	Diona	ディオーナ	……そうだ！　音楽劇はいかがでしょう？\n演劇に歌を盛り込み、華やかに彩られた\n物語を届けるものです	Diona	Oh, I know! What about an opera? That combines the best of both drama and song, all bundled in an opulent narrative!	蒂欧娜	……对了！表演音乐剧怎么样？\n用歌曲来丰富表演，\n为大家带去一个精彩又有趣的故事。	蒂歐娜	……對了！音樂劇如何呢？\n將歌曲融入戲劇，\n帶給觀眾多采多姿的故事體驗。
+Date_NPC9_01ID	51	Lara	ララ	あなたの故郷、ヴィアベル州で盛んな\nオペラのようなものでしたわね。\n一度見たことがありますが、良いものでしたわ	Lara	Your home province of Wirbel is known for its operas, isn't it? I've only had the opportunity to watch one, but I very much enjoyed it.	拉拉	就像在你的故乡薇亚贝尔州\n盛行的歌剧那样是吧。\n我曾经看过一次，感觉非常有趣呢。	拉拉	這就像妳的故鄉──\n維亞貝爾州盛行的歌劇吧。\n我有看過一次，真的很棒。
+Date_NPC9_01ID	52	Diona	ディオーナ	さすが、ララ様。\nすでにご覧になられていましたか！	Diona	You've seen one?! I should have known, my queen!	蒂欧娜	真不愧是拉拉大人，\n原来已经看过了呀！	蒂歐娜	不愧是拉拉大人，居然已經看過了！
+Date_NPC9_01ID	53	Diona	ディオーナ	それで、いかがでしょう？\n故郷で何度も見てきたものです。\n良いものをお見せする自信はあります	Diona	Then I believe that settles it! I've seen many of them in my hometown, so I'm confident that I could put on something equally fabulous.	蒂欧娜	您觉得如何呢？\n我在故乡看过很多次，\n有自信给大家带去精彩的表演。	蒂歐娜	那妳覺得這個構想如何？\n我在故鄉看過很多次，有自信能拿出好的表演。
+Date_NPC9_01ID	54	Lara	ララ	ふむ……	Lara	Hmm...	拉拉	嗯……	拉拉	唔……
+Date_NPC9_01ID	55		選択肢	楽しみにしていますわ	Selection	I'm already looking forward to the show.	选项	我很期待哦	選項	我很期待
+Date_NPC9_01ID	56	Lara	ララ	そこまでおっしゃるのであれば、\n見ないわけにはいきませんね。\n楽しみにしていますわ	Lara	If everything is as you say it will be, then I absolutely must watch it. I'm already looking forward to the show.	拉拉	既然你都这么说了，\n那必须得看一看才行。\n我很期待哦。	拉拉	既然妳都說到這個份上了，\n怎麼可能不看呢。我很期待喔。
+Date_NPC9_01ID	57	Diona	ディオーナ	ありがとうございます！\nララ様のためにも素晴らしい\nステージにしてみせます！	Diona	Thank you very much! I'll ensure that it's the most wonderful show you've ever seen!	蒂欧娜	谢谢！\n为了拉拉大人，\n我一定会奉上精彩的表演的！	蒂歐娜	非常感謝！為了拉拉大人，\n我一定會打造出精彩的舞台！
+Date_NPC9_01ID	58		選択肢	無理はなさらないでね	Selection	Just be sure not to overwork yourself.	选项	不要逞强哦	選項	不要太勉強自己
+Date_NPC9_01ID	59	Lara	ララ	分かりましたわ。\nただ、無理はなさらぬよう。\n少し力が入りすぎですわ	Lara	Very well, as you wish. And while I understand that you are rather enthusiastic about the idea, please do take care not to overwork yourself.	拉拉	我知道了。\n不过千万不要逞强哦，\n你有些太紧张了。	拉拉	我知道了。不過，妳有點努力過頭了，\n別太勉強自己。
+Date_NPC9_01ID	60	Diona	ディオーナ	はっ……！　すみません、気負い過ぎていた\nようです。これでは心配をおかけして\nしまいますよね……	Diona	Oh...! My apologies, I let my excitement get slightly out of hand. I didn't mean to cause you any worry.	蒂欧娜	啊……！不好意思，\n我好像有些用力过猛了。\n这样会让人担心的……	蒂歐娜	啊……！不好意思，我好像太逞強了。\n這樣會讓妳擔心，對吧……
+Date_NPC9_01ID	61	Diona	ディオーナ	いつでも優雅に。歌姫としての矜持、\n今一度胸に刻みます	Diona	As a performing artist, I must always be composed. I shall take that reminder to heart.	蒂欧娜	要随时保持优雅。\n要把身为歌手的骄傲再次铭记在心。	蒂歐娜	我會隨時保持優雅，\n將身為歌姬的尊嚴再次銘記於心。
+Date_NPC9_01ID	62		選択肢	特等席の準備が必要ですわね	Selection	I shall have to arrange for a special seat.	选项	需要准备特等席呢	選項	看來需要準備貴賓席
+Date_NPC9_01ID	63	Lara	ララ	特等席の準備が必要ですわね。\n最前列で見させていただくことに\nしましょう	Lara	I shall have to arrange for a special seat. I do believe that sitting front and center would be the most appropriate.	拉拉	需要准备特等席呢。\n我会在最前边欣赏你的表演的。	拉拉	看來需要準備貴賓席了。就讓我在最前排欣賞吧。
+Date_NPC9_01ID	64	Diona	ディオーナ	ララ様が、大いに期待して\nくださっている……！\n気合を入れて準備いたします！	Diona	I'm so happy to hear that you have such high expectations for me, my queen! I shall throw myself into the preparations with gusto!	蒂欧娜	拉拉大人非常期待我的表演……！\n我会打起精神认真准备的！	蒂歐娜	拉拉大人對我有相當高的期待……！\n我會卯足幹勁好好準備的！
+Date_NPC9_01ID	65	Diona	ディオーナ	特等席の装飾もぜひ私にお任せを！\n極上の座り心地にしてみせましょう！	Diona	Please leave the seating arrangements to me as well! I will ensure that everything is fit for a queen!	蒂欧娜	装饰特等席的任务也包我身上！\n我会把座位收拾得无比舒适！	蒂歐娜	貴賓席也一定要交給我來裝飾！\n我會安排最舒適的座位！
+Date_NPC9_01ID	66	Diona	ディオーナ	そうと決まれば、さっそく準備しなくては。\nララ様、失礼いたします	Diona	With that settled, I have to get straight to work. If you'll excuse me.	蒂欧娜	既然决定了，那就得赶快开始准备才行。\n拉拉大人，我先告辞了。	蒂歐娜	既然決定了，就要趕緊準備才行。\n拉拉大人，我先失陪了。
+Date_NPC9_01ID	67	Lara	ララ	（あらあら、歌姫だというのに\n　あんな風に駆けて行っては\n　優雅さの欠片もありませんわね）	Lara	(My goodness, that is a rather brisk stride. Far from what one might expect of a diva such as herself.)	拉拉	（哎呀，明明是歌手\n　却像风一般飞快地跑开了，\n　没有一点优雅可言呢。）	拉拉	（哎呀，明明是歌姬，卻那樣跑走了。\n　真是一點也不優雅呢。）
+Date_NPC9_01ID	68	Lara	ララ	（ですが、死んだような顔で生きるよりも\n　こちらのほうが何倍もいい）	Lara	(Still, that determined expression suits her far better than the lifeless stare she was sporting before.)	拉拉	（但是，比起带着面如死灰的表情活下去，\n　还是这样子更好。）	拉拉	（但比起一臉死氣沉沉地活著，這樣好多了。）
+Date_NPC9_01ID	69	Lara	ララ	（ディオーナ……本当に元気に\n　なりましたわね）	Lara	(Diona truly has become much more spirited.)	拉拉	（蒂欧娜……她真的有精神多了。）	拉拉	（蒂歐娜……她真的變得比以前有活力多了。）
+Date_NPC9_01ID	70	Lara	ララ	（それ自体は嬉しいことなのですが……\n　張り切りすぎて突っ張ってしまわないかは\n　心配ですわ）	Lara	(Though, I am concerned about whether that joy is genuine or she is merely forcing herself to act that way.)	拉拉	（这本身是件令人高兴的事……\n　但好担心她会用力过头呀。）	拉拉	（雖然這是件值得欣喜的好事……\n　但我也擔心她會不會過於投入而忽略了其他事。）
+Date_NPC9_01ID	71	Lara	ララ	そこまでしなくても大丈夫ですわよ	Lara	Honestly. You needn't push yourself so hard, Diona.	拉拉	可以放轻松一点的哦。	拉拉	其實妳不用做到那種地步啊。
+Date_NPC9_02ID	0	Lara	ララ	ふう、着きましたわね。\n祭りで演じる音楽劇の\n台本を探しますわよ	Lara	Phew, we've arrived. Now then, let us begin our search for a suitable opera to perform at the festival.	拉拉	呼，到了。\n来找找在庆典上表演的音乐剧剧本吧。	拉拉	呼，到了呢。那就開始尋找要在祭典上表演的音樂劇劇本吧。
+Date_NPC9_02ID	1	Diona	ディオーナ	わざわざありがとうございます。\n私の台本探しに付き合ってくださって	Diona	Thank you for accompanying me this far, Your Majesty.	蒂欧娜	谢谢您特意来陪我找剧本。	蒂歐娜	謝謝您特地陪我尋找劇本。
+Date_NPC9_02ID	2	Lara	ララ	臣下を見守るのも王の務め。\n問題ありませんわ	Lara	Well, it is a queen's duty to watch over her subjects. It's no trouble at all.	拉拉	守护大臣也是国王的义务，\n没关系的。	拉拉	守護臣子也是君主的職責，妳不用介意。
+Date_NPC9_02ID	3	Lara	ララ	それにしても……	Lara	Regardless...	拉拉	话说回来……	拉拉	話說回來……
+Date_NPC9_02ID	4		選択肢	何度訪れてもいい島ですわね	Selection	I will never tire of visiting these islands.	选项	不管来几次都觉得这座岛真不错啊	選項	這座島真是不管來幾次都讓人不厭倦呢
+Date_NPC9_02ID	5	Lara	ララ	何度訪れてもいい島ですわね。\n海も近いですし、創造性が刺激されますわ	Lara	I will never tire of visiting these islands. The creativity shown here is always inspiring, and it is lovely to be near the ocean.	拉拉	不管来几次都觉得这座岛真不错啊。\n离海很近，能激发创造力。	拉拉	這座島真是不管來幾次都讓人不厭倦呢。\n城鎮跟海的距離也近，有助於激發創造力。
+Date_NPC9_02ID	6	Diona	ディオーナ	ああ、私、この島に生まれてよかったです！\nこうしてララ様にお褒めいただける\nなんて……！	Diona	Ah, to hear you praise the place where I grew up... I've never been so glad I was born here!	蒂欧娜	嗯，我很庆幸能出生在这座岛上！\n没想到能得到拉拉大人的表扬……！	蒂歐娜	啊啊，能得到拉拉大人如此讚賞，\n我能出生在這座島真是太好了……！
+Date_NPC9_02ID	7	Diona	ディオーナ	しかし、ララ・キングダムの素晴らしさには\n及びません。豊かさも規模もいつか\n追い抜きましょう、ララ様	Diona	However, it pales in comparison to the splendor of the Kingdom of Lara. It simply lacks the scale and richness of your lands.	蒂欧娜	不过，这里远不及拉拉王国厉害。\n终有一天，拉拉王国的富饶程度和规模\n都会超过这里的，拉拉大人。	蒂歐娜	不過它還遠不及拉拉王國的美好。\n拉拉大人，我們總有一天要讓王國\n變得比這裡更加豐饒與壯大。
+Date_NPC9_02ID	8	Lara	ララ	もちろん。まだまだ課題があるとはいえ、\nララ・キングダムは世界一になる国ですもの	Lara	Why, naturally. While there are still some issues that need to be resolved, my kingdom is poised to become the best in the world.	拉拉	那是当然。虽然还有很多需要解决的问题，\n但拉拉王国终将成为世界第一的国家。	拉拉	當然，雖然還有許多問題需要解決，\n但拉拉王國將來會成為世界第一的王國。
+Date_NPC9_02ID	9		選択肢	ディオーナの服を着ている人がいますわ	Selection	There are quite a few people who dress like you.	选项	有人穿着蒂欧娜的衣服呢	選項	有人穿著妳製作的衣服呢
+Date_NPC9_02ID	10	Lara	ララ	ディオーナの作った服を着ている人が\nいますわね。あなたの名が広まっていると\n思うと嬉しい限りですわ	Lara	There are quite a few people who have styled their outfits after yours, Diona. It pleases me to see that your fame has spread far and wide.	拉拉	有人穿着蒂欧娜制作的衣服呢。\n想到你声名远扬，\n我就好欣慰。	拉拉	有人穿著妳製作的衣服呢。\n一想到妳聲名如此遠播，\n我就覺得很開心。
+Date_NPC9_02ID	11	Diona	ディオーナ	ここでは私とミーケちゃんの服が\n若い女の子を中心に\n人気になっているようでして……	Diona	While I had heard that mine and Mieke's designs had become quite popular among young women here...	蒂欧娜	我和米珂的衣服在这里的\n年轻女孩之间似乎很受欢迎……	蒂歐娜	我和米珂的衣服似乎很受到這裡年輕女孩的歡迎……
+Date_NPC9_02ID	12	Diona	ディオーナ	ああやって着てもらっているのを\n実際に見ると、嬉しいものですね	Diona	Being able to see people wearing them in person does make me happy.	蒂欧娜	亲眼看到有人那么穿,\n真是太高兴了。	蒂歐娜	像這樣親眼看見人們穿著我們的衣服，\n實在很令人高興呢。
+Date_NPC9_02ID	13		選択肢	あなたの出身地なのでしたわね	Selection	This is your hometown, hm?	选项	这里是你的老家对吧	選項	這裡是妳出生的地方吧？
+Date_NPC9_02ID	14	Lara	ララ	あなたの出身地なのでしたわね	Lara	This is your hometown, hm?	拉拉	这里是你的老家对吧？	拉拉	這裡是妳出生的地方吧？
+Date_NPC9_02ID	15	Diona	ディオーナ	はい。この島は芸術が盛んで……\nだからこそ私は歌や服を\n学べたのだと思います	Diona	Oh, yes. It's an island overflowing with culture. As a result, I was able to study music and fashion extensively.	蒂欧娜	没错。这座岛上盛行艺术……\n所以我才学会了唱歌和做衣服。	蒂歐娜	是的，這座島的藝術相當興盛……\n所以我才能學到歌唱與製作服裝的技術。
+Date_NPC9_02ID	16	Diona	ディオーナ	この島に生まれていなかったらきっと……。\n今とは違う人生でしたでしょう	Diona	If I hadn't been born here, I imagine my life would have turned out very differently.	蒂欧娜	如果没有出生在这里……\n我的人生一定会不一样吧。	蒂歐娜	如果我不是在這裡出生……\n肯定會過著與現在截然不同的人生吧。
+Date_NPC9_02ID	17	Diona	ディオーナ	……さて、時間を無駄にしては\n居られません。さっそく台本を\n探しに行きましょう！	Diona	Well, let's not waste any time. Let's get right to looking for the perfect script!	蒂欧娜	……好了，不能再浪费时间了。\n赶紧去找剧本吧！	蒂歐娜	……好了，不能浪費時間。趕緊去找劇本吧！
+Date_NPC9_02ID	18	Lara	ララ	ええ。手分けして探すとしましょうか。\nまた後程、ここに集まりますわよ	Lara	Agreed. Perhaps we ought to split up to cover more ground. I shall meet you back here later.	拉拉	嗯，我们分头去找吧。\n晚点在这里结合。	拉拉	嗯，我們分頭去尋找吧。之後在這裡會合。
+Date_NPC9_02ID	19	Diona	ディオーナ	ララ様、戻りました。\n待たせてしまいましたでしょうか……？	Diona	Queen Lara, I've returned. I hope I didn't keep you waiting long...	蒂欧娜	拉拉大人，我回来了。\n让您等了很久吗……？	蒂歐娜	拉拉大人，我回來了。您等很久了嗎……？
+Date_NPC9_02ID	20	Lara	ララ	わたくしも今戻ったところですわ。\nでは、わたくしが見つけたものを\n共有しましょうか	Lara	No, I only just come back myself. Shall we compare our findings, then?	拉拉	我也刚回来。\n给你看看我找到的剧本吧。	拉拉	我也是剛剛才回到這裡。\n那麼，就先讓妳看看我找到的劇本吧。
+Date_NPC9_02ID	21	Lara	ララ	中でも気になったのは……	Lara	Among these, I was most taken by...	拉拉	其中我喜欢的是……	拉拉	其中我特別喜歡的是……
+Date_NPC9_02ID	22		選択肢	歌が好きなカエルの話	Selection	This tale of a frog who loves music.	选项	喜欢唱歌的青蛙的故事	選項	愛唱歌的青蛙的故事
+Date_NPC9_02ID	23	Lara	ララ	歌が好きなカエルが、音を探して旅に出る\nおとぎ話ですわ	Lara	This tale of a frog who loves music so much that they go on a journey in search of new sounds.	拉拉	喜欢唱歌的青蛙为寻找声音，\n而踏上旅途的童话。	拉拉	愛唱歌的青蛙踏上尋找音樂之旅的童話故事。
+Date_NPC9_02ID	24	Diona	ディオーナ	子供に人気の演目ですね。\n見逃しがちな日常の些細な音を\nカエルの視点で愉快に描いたものです	Diona	Ah, this is a popular show among children. It's a charming depiction of everyday noises that might go unnoticed, told from the frog's perspective.	蒂欧娜	是很受小朋友欢迎的剧目啊。\n用青蛙的视角，愉快地描绘了\n日常生活中容易被人忽略的声音。	蒂歐娜	這齣戲以青蛙的視角詼諧地描寫\n日常容易被忽略的瑣碎聲音，\n非常受到孩子們喜愛。
+Date_NPC9_02ID	25	Diona	ディオーナ	小さな幸せを見つめるその内容は、\nララ・キングダムの子たちにも\n見せたいものではありますが……	Diona	While I would very much like to show the children of the Kingdom of Lara the beauty of small blessings...	蒂欧娜	我也很想让拉拉王国的孩子们欣赏\n寻找细微幸福的故事内容……	蒂歐娜	戲中蘊含探究渺小幸福的寓意，\n確實是值得讓拉拉王國的孩子們鑑賞……
+Date_NPC9_02ID	26	Diona	ディオーナ	問題は衣装ですね。\n私にカエルの衣装を着こなすことが\nできるか……	Diona	Costumes would be an issue. I am unsure how I feel about dressing up as a frog...	蒂欧娜	但服装是个问题。\n我适合穿青蛙的衣服吗……	蒂歐娜	但問題是服裝吧。我能夠駕馭青蛙的扮相嗎……
+Date_NPC9_02ID	27		選択肢	愛を歌う女性の話	Selection	This story about a woman who sings of love.	选项	歌唱爱情的女性的故事	選項	歌頌愛的女性的故事
+Date_NPC9_02ID	28	Lara	ララ	愛する夫の帰りを待ち望み、\n日々歌う女性の話ですわ	Lara	This story about a woman who sings love songs every day as she waits for her beloved husband to return.	拉拉	期盼心爱的丈夫归来，\n每日歌唱的女性的故事。	拉拉	等待心愛的丈夫回家，每天唱歌的女性的故事。
+Date_NPC9_02ID	29	Diona	ディオーナ	実話を基にしたという演目ですね。\n愛を歌う……素敵です	Diona	I've heard that one is based on a true story. Singing love songs would be quite nice.	蒂欧娜	这是基于真实故事的剧目。\n歌唱爱情……真美好啊。	蒂歐娜	這齣戲是改編自真人真事，歌頌愛……真美好啊。
+Date_NPC9_02ID	30	Diona	ディオーナ	愛……。改めて歌詞を咀嚼すると\n恥ずかしい箇所も多いですね。\n前は平気で歌っていたのですが	Diona	Although... Thinking about it now, they have often some rather embarrassing lyrics. I was able to sing them in the past, but...	蒂欧娜	爱情……重新体会了一下歌词，\n感觉有好多让人难为情的地方啊。\n以前明明可以冷静地演唱的。	蒂歐娜	愛……重新細讀歌詞才發現有許多令人難為情的地方。\n之前明明可以心平氣和地歌唱的。
+Date_NPC9_02ID	31	Lara	ララ	あら。いい傾向ではありませんか。\n人として深みが増したのでは	Lara	My, isn't that a good thing? It means that you've grown as a person.	拉拉	哎呀，这不是好事吗，\n说明你更有人情味了呀。	拉拉	哎呀，那不是挺好的嗎？\n這代表妳已經成為了一個更豐富的人了。
+Date_NPC9_02ID	32		選択肢	美しいお姫様の冒険譚	Selection	This epic about a beautiful princess who goes on an adventure.	选项	美丽公主的冒险传说	選項	美麗公主的冒險故事
+Date_NPC9_02ID	33	Lara	ララ	美しいお姫様が、十人の従者と共に\n旅をする話ですわ	Lara	This epic about a beautiful princess who goes on an adventure along with her ten attendants.	拉拉	美丽的公主和十名侍从\n一起旅行的故事。	拉拉	美麗的公主與十名隨從一起旅行的故事。
+Date_NPC9_02ID	34	Diona	ディオーナ	……私が大好きな演目です。\n小さい頃は、このお姫様に憧れて\n歌や所作を真似ていました	Diona	I love that one. Ever since I was little, I wanted to be just like the princess. Many of my songs and performances were inspired by her.	蒂欧娜	……这是我最喜欢的剧目了。\n小时候我非常想成为公主，\n唱过里边的歌曲，也模仿过公主的举止呢。	蒂歐娜	……這是我最喜歡一齣戲，\n我從小就很憧憬故事中的公主，\n還自己模仿劇中的歌曲和動作。
+Date_NPC9_02ID	35	Lara	ララ	あら、ではその夢は叶ったのではなくて？\n今では歌姫となったじゃありませんか	Lara	Goodness, isn't that just a dream come true! You've become a princess of song, as it were.	拉拉	哎呀，那你的梦想不是已经实现了吗？\n现在的你可是歌唱公主呢。	拉拉	哎呀，那妳現在成為歌姬，不就是夢想成真了嗎？
+Date_NPC9_02ID	36	Diona	ディオーナ	呼ばれているだけで、\n姫などでは決して……！	Diona	I could never accept such a lofty title!	蒂欧娜	这只是个称呼而已，\n我可算不上什么公主……！	蒂歐娜	那只是對我的稱呼而已，我哪算得上是公主……！
+Date_NPC9_02ID	37	Diona	ディオーナ	と、とにかく、これを演じようと思ったら\n役者がたくさん必要そうです。\n今回の祭りでは扱いきれないかと	Diona	I-In any case, if we were to perform this one, we would need a lot of cast members. It might be better to save it for another occasion.	蒂欧娜	总、总之，如果要表演这个剧目的话，\n需要许多演员。\n这次的庆典上应该应付不过来。	蒂歐娜	總、總之，演這齣戲應該會需要很多演員。\n要在這次的祭典演出恐怕有難度。
+Date_NPC9_02ID	38	Diona	ディオーナ	私もいくつか見繕って来たんです。\nこちらについても相談させて\nもらえませんか？	Diona	I also selected a number of pieces. Might I be able to share them with you?	蒂欧娜	我也挑选了一些。\n您能和我一起看看吗？	蒂歐娜	我也挑選了幾個劇本，可以跟您討論看看嗎？
+Date_NPC9_02ID	39	Lara	ララ	ええ。今日中に全部見ますわよ！	Lara	By all means. We'll have everything reviewed before the day is through!	拉拉	好呀，今天全都看一遍吧！	拉拉	嗯，我們今天就把所有劇本都看過吧！
+Date_NPC9_02ID	40	Lara	ララ	ふむ……なかなかにしっくりくるものが\nないですわね	Lara	Hm... There doesn't seem to be anything that feels suitable.	拉拉	唔……没有能让人心动的呢。	拉拉	嗯……找不到適合的戲碼呢。
+Date_NPC9_02ID	41	Diona	ディオーナ	……こうなったら、私が一から\n作ろうかと思います	Diona	At this point, it may be easier for me to write one myself.	蒂欧娜	……既然如此，那我就直接创作一出吧。	蒂歐娜	……既然如此，只能由我從頭開始創作了。
+Date_NPC9_02ID	42	Lara	ララ	思い切りましたわね。\n作ったことがありまして？	Lara	That would certainly be one solution. Have you ever written an opera before?	拉拉	真大胆呢。\n你以前写过吗？	拉拉	竟然這麼大手筆啊。妳創作過音樂劇嗎？
+Date_NPC9_02ID	43	Diona	ディオーナ	いえ、ありません……ですが、\n作詞も作曲も問題ありません。\n衣装だって作れます	Diona	No, I have not. However, I can write lyrics and music, and I can sew my own costumes.	蒂欧娜	不，没有写过……但是，\n作词作曲我都没问题，\n也能做衣服。	蒂歐娜	不，沒有……但作詞作曲都不是問題，\n而且我也能製作服裝。
+Date_NPC9_02ID	44	Diona	ディオーナ	私が伝えたいことを伝えるには、\nこれが一番だと思うんです	Diona	Being able to tell the story that I want, in my own way, would be the best.	蒂欧娜	要向大家展示我想表达的内容，\n自己做才是最好的。	蒂歐娜	為了傳達我想傳達的想法，這應該是最好的辦法。
+Date_NPC9_02ID	45	Lara	ララ	ディオーナ……	Lara	Diona...	拉拉	蒂欧娜……	拉拉	蒂歐娜……
+Date_NPC9_02ID	46		選択肢	その覚悟……たしかに受け取りましたわ！	Selection	How could I put a damper on such determination?	选项	我感受到你的决心了！	選項	我確實感受到妳的決心了……！
+Date_NPC9_02ID	47	Lara	ララ	その覚悟……たしかに受け取りましたわ！\nあなたが作る音楽劇、楽しみに\nしていますわよ	Lara	How could I put a damper on such determination? I would love to watch an opera that you wrote.	拉拉	我感受到你的决心了！\n我很期待你创作的音乐剧哦。	拉拉	我確實感受到妳的決心了……！\n我很期待妳創作的音樂劇喔。
+Date_NPC9_02ID	48	Diona	ディオーナ	お任せください、ララ様！\nこのディオーナ、歌と劇で我が王と\nララ・キングダムを称え広めてみせます！	Diona	Then you shall, Your Majesty! Your humble servant will create a piece that extols the virtues of the Kingdom of Lara in both song and script!	蒂欧娜	交给我吧，拉拉大人！\n我会用歌曲和剧目传颂我的国王，\n还有拉拉王国的！	蒂歐娜	請交給我吧，拉拉大人！\n我──蒂歐娜一定會透過歌曲及戲劇\n宣揚我的君王與拉拉王國的美好！
+Date_NPC9_02ID	49	Lara	ララ	その意気ですわ、ディオーナ。\nララ・キングダムに栄光あれ！	Lara	That's the spirit, Diona. For the glory of the kingdom!	拉拉	就是要这股干劲，蒂欧娜，\n为了拉拉王国的荣耀！	拉拉	妳有這股志氣就對了，蒂歐娜。\n願拉拉王國榮耀長存！
+Date_NPC9_02ID	50	Diona	ディオーナ	栄光あれ！	Diona	Hear, hear!	蒂欧娜	荣耀！	蒂歐娜	願榮耀長存！
+Date_NPC9_02ID	51		選択肢	どんな作品にするんですの？	Selection	What manner of piece would you put forward?	选项	你要创作什么样的作品呢？	選項	妳打算創作什麼樣的作品？
+Date_NPC9_02ID	52	Lara	ララ	どんな作品にするんですの？	Lara	What manner of piece would you put forward?	拉拉	你要创作什么样的作品呢？	拉拉	妳打算創作什麼樣的作品？
+Date_NPC9_02ID	53	Diona	ディオーナ	ララ様への想いを音楽劇にしようかと。\n音楽で表現することは私の本領ですから	Diona	Why, one that puts my feelings for you on full display. After all, expressing myself through song is what I do best.	蒂欧娜	我想把对拉拉大人的感情做成音乐剧。\n用音乐来表达可是我的特长。	蒂歐娜	我想將我對拉拉大人的心意創作成音樂劇，\n因為用音樂表達是我的專長。
+Date_NPC9_02ID	54	Lara	ララ	あら、前もわたくしの歌を歌ってました\nわよね？　わたくしにこだわらなくとも\nよいですのに	Lara	Goodness, have you not already serenaded me enough already? Please, feel free to branch out to other subjects.	拉拉	咦，之前你也唱过关于我的歌吧？\n不用那么执着于我的。	拉拉	哎呀，妳之前也唱了關於我的歌吧？\n不用拘泥於我也無妨啊。
+Date_NPC9_02ID	55	Diona	ディオーナ	いいえ！　まだまだララ様への想いは\n形にしつくせていませんので！	Diona	Hardly, Your Majesty! There is still so much I have left to say!	蒂欧娜	不！我对拉拉大人的感情\n还没有全都具象化呢！	蒂歐娜	不！我目前創作的作品，\n還完全不足以表達我對拉拉大人的情感！
+Date_NPC9_02ID	56		選択肢	わたくしの出番はあるかしら？	Selection	Will I be making an appearance in your production?	选项	需要我出场吗？	選項	需要我上台嗎？
+Date_NPC9_02ID	57	Lara	ララ	わたくしの出番はあるのかしら？\n国王自ら、出演す……	Lara	Will I be making an appearance in your production? Perhaps as the kingdom's ruler, or...	拉拉	需要我出场吗？\n国王亲自出演……	拉拉	需要我上台嗎？國王親自演出……
+Date_NPC9_02ID	58	Diona	ディオーナ	ララ様の出番ですか！？	Diona	You would take to the stage, my queen?!	蒂欧娜	拉拉大人出场？！	蒂歐娜	讓拉拉大人上台！？
+Date_NPC9_02ID	59	Diona	ディオーナ	すみません、申し出はありがたいのですが、\n今回は私一人で……！	Diona	As much as I appreciate your offer, I was thinking this would be a one-woman performance, so...	蒂欧娜	抱歉，我很感谢您的提议，\n但这次我想一个人表演……！	蒂歐娜	抱歉，雖然很感謝您的提議，\n但這次請讓我一個人來……！
+Date_NPC9_02ID	60	Diona	ディオーナ	ララ様には観客の一人として\n私のステージを見ていただきたいのです	Diona	I would very much like you to relax and enjoy the show this time.	蒂欧娜	让拉拉大人作为观众，\n欣赏我的舞台。	蒂歐娜	希望拉拉大人您能以觀眾的身分觀賞我的舞台。
+Date_NPC9_02ID	61	Lara	ララ	なるほど。よく分かりましたわ。\nわたくしに協力できることがあれば\nなんでも言いなさいな	Lara	I see. Very well. If there is anything I can do to assist you, though, be sure to let me know.	拉拉	这样呀，我知道了。\n如果有需要我帮忙的地方，\n你尽管说哦。	拉拉	原來如此，我知道了。\n如果有什麼我能幫上忙的地方就儘管說吧。
+Date_NPC9_02ID	62	Diona	ディオーナ	ありがとうございます！\nこうしてはいられません、さっそく戻って\n執筆を開始します！	Diona	Thank you very much! Since there's nothing left to do here, I'll return and start writing at once!	蒂欧娜	谢谢您！\n不能再待在这里了，我要赶紧回去\n开始写剧本才行！	蒂歐娜	謝謝！既然如此我可不能浪費時間，\n得趕緊回去寫劇本！
+Date_NPC9_02ID	63	Lara	ララ	ふふ、楽しみですわね。\nどんなものを書いてくるのか	Lara	*Chuckle* I can't wait to see what she creates.	拉拉	呵呵呵，真令人期待呀。\n她会写出什么样的剧本呢？	拉拉	呵呵，真令人期待。\n妳究竟會寫出什麼樣的故事呢？
+Date_NPC9_03ID	0	Diona	ディオーナ	突然のお願いであったにもかかわらず、\n快諾していただきありがとうございます！	Diona	Thank you so much for agreeing to my selfish request on such short notice!	蒂欧娜	谢谢您接受我唐突的请求！	蒂歐娜	謝謝您答應我這麼突然的請求！
+Date_NPC9_03ID	1	Lara	ララ	あなたはわたくしの臣下なのですから、そばに控える\nのにわざわざ伺いを立てる必要なんかありませんのに	Lara	As one of my faithful attendants, you do not need to go out of your way to solicit my company.	拉拉	你可是我的大臣，\n想待在我身边不需要特意请示的。	拉拉	妳本來就是我的臣子，\n其實根本不需要特地詢問能否隨侍在我身邊。
+Date_NPC9_03ID	2	Lara	ララ	で、なぜわたくしに一日密着したいのか、\nそろそろわけを聞かせてくださる？	Lara	That said, might you be able to tell me why you need to be in my presence for an entire day?	拉拉	那么，你能告诉我为什么\n想一整天都紧紧跟着我了吗？	拉拉	話說回來，妳差不多可以告訴我，\n為什麼想跟著我一整天了嗎？
+Date_NPC9_03ID	3	Diona	ディオーナ	音楽劇のためです。題材として、ララ様への\n想いを描こうと決めたのですが……	Diona	It's for the opera, you see. I have already decided that it will depict my feelings for you, Queen Lara. However...	蒂欧娜	是为了音乐剧。虽然已经决定围绕\n我对拉拉大人的感情来创作了……	蒂歐娜	一切都是為了完成音樂劇。\n雖然我已經決定以我對拉拉大人的心意為主題……
+Date_NPC9_03ID	4	Diona	ディオーナ	ララ様の魅力を余すことなく表現するためには、\nララ様のことをより深く知る必要があります	Diona	I would like to learn more about you, so as to better convey your charms.	蒂欧娜	但为了把拉拉大人的魅力完全展现出来，\n有必要更加深入地了解拉拉大人。	蒂歐娜	但想要一絲不漏地展現出您的魅力，\n就必須更加了解您。
+Date_NPC9_03ID	5	Diona	ディオーナ	だから一日密着したいのです！	Diona	So I wish to observe you for the day!	蒂欧娜	所以我才想一整天都紧跟着您！	蒂歐娜	所以才想貼身觀察您一天！
+Date_NPC9_03ID	6	Lara	ララ	あなた、すました顔をしてときどき\n突拍子もないことをしますわよね……	Lara	My word. You can say some impressively shameless things with a completely straight face.	拉拉	你会时不时一脸正经地说出些\n异想天开的话呢……	拉拉	妳有時會一臉正經地做出無厘頭的事呢……
+Date_NPC9_03ID	7	Lara	ララ	（そこが魅力でもあるのですが）	Lara	(That is one of her charms, though.)	拉拉	（不过这也是她的魅力。）	拉拉	（雖然這也是她的魅力。）
+Date_NPC9_03ID	8	Lara	ララ	まあ、いいでしょう。\n今日は調合の素材を採取しに行きますわよ	Lara	Very well, you may do as you please. I was planning on heading out to gather materials for today's synthesis.	拉拉	嗯，好吧。\n今天我要去采集调合用的素材。	拉拉	算了，無妨。我今天要去採集調合的素材。
+Date_NPC9_03ID	9	Lara	ララ	しかとわたくしの一挙手一投足を\n見ておくことですわ！	Lara	You must be sure to watch my every move!	拉拉	你要仔细观察我的一举一动哦！	拉拉	妳可要仔細看好我的一舉一動！
+Date_NPC9_03ID	10	Diona	ディオーナ	はい！　目を見開いて！	Diona	Of course, Your Majesty! I won't miss a single thing!	蒂欧娜	好！我会睁大眼睛好好看的！	蒂歐娜	是！我會睜大雙眼看的！
+Date_NPC9_03ID	11	Lara	ララ	……そんな遠くで見ていて密着取材になりますの？\nもっと近くに来なさいな	Lara	Are you certain that you can see well enough from all the way over there? You're welcome to come closer.	拉拉	……你离那么远也能算紧跟着吗？\n靠近一点呀。	拉拉	……妳站在那麼遠還能算是什麼貼身觀察嗎？\n再靠過來一點吧。
+Date_NPC9_03ID	12	Diona	ディオーナ	は、はい。では、お言葉に甘えて……	Diona	E-Er, if you insist...	蒂欧娜	好、好的。那我就不客气了……	蒂歐娜	好、好的，那我就恭敬不如從命……
+Date_NPC9_03ID	13	Diona	ディオーナ	じー	Diona	Hmm...	蒂欧娜	盯——	蒂歐娜	（緊盯……）
+Date_NPC9_03ID	14	Lara	ララ	（近くにとは言ったもののここまで……！\n　これは近すぎるというもの……！）	Lara	(I did say that she could come closer, but I was not expecting her to come quite this close...!)	拉拉	（虽然说了要靠近，但没想到会这么近……！\n　这也太近了点吧……！）	拉拉	（雖然我叫她靠近，但沒想到會這麼近……！\n　這樣實在太近了！）
+Date_NPC9_03ID	15	Lara	ララ	（しかし、王に二言はありませんもの。\n　臣下のために我慢ですわ）	Lara	(However, a queen mustn't go back on her word. I shall simply have to endure.)	拉拉	（可是，国王不能食言。\n　为了臣子我就忍一忍吧。）	拉拉	（但君王說話要算話，得為了臣子忍耐才行。）
+Date_NPC9_03ID	16	Diona	ディオーナ	……	Diona	...	蒂欧娜	……	蒂歐娜	……
+Date_NPC9_03ID	17	Lara	ララ	（それにしても……やはり歌姫。\n　あまりに整った顔立ちですわね）	Lara	(Diona truly does have all the hallmarks of a songstress. She's so composed.)	拉拉	（话说回来……真不愧是歌手啊，\n　长得也太漂亮了。）	拉拉	（話說回來……不愧是歌姬，五官真端正啊。）
+Date_NPC9_03ID	18	Lara	ララ	（一般の人間が、この距離に迫られたら\n　頭が真っ白になりそうな）	Lara	(At this distance, most people would start to panic.)	拉拉	（普通人如果离她这么近的话，\n　大脑已经一片空白了。）	拉拉	（普通人如果跟她這麼貼近，\n　腦袋可能會變得一片空白吧。）
+Date_NPC9_03ID	19	Diona	ディオーナ	……っ！　魔物！	Diona	Oh no! Monsters!	蒂欧娜	……啊！有魔物！	蒂歐娜	……唔！是魔物！
+Date_NPC9_03ID	20	Diona	ディオーナ	はあああああっ！！！	Diona	Hyaaah!	蒂欧娜	喝啊啊啊啊！！！	蒂歐娜	喝啊啊啊啊啊！！！
+Date_NPC9_03ID	21	Diona	ディオーナ	我らが王に歯向かおうだなんて、\n許せません！	Diona	Those who threaten our queen must be struck down!	蒂欧娜	居然敢对我的国王呲牙，\n不可原谅！	蒂歐娜	竟敢攻擊我們的君王，不可原諒！
+Date_NPC9_03ID	22	Diona	ディオーナ	ララ様、もう心配ありません	Diona	Queen Lara, the nuisances have been dealt with.	蒂欧娜	拉拉大人，不用担心了。	蒂歐娜	拉拉大人，已經沒事了。
+Date_NPC9_03ID	23	Lara	ララ	……ええ、ありがとう。\nわたくしとしたことが油断していましたわ	Lara	Indeed. Thank you. Though, I should have been paying better attention to my surroundings.	拉拉	……嗯，谢谢你。\n是我大意了。	拉拉	……嗯，謝謝妳。我也真是的，居然大意了。
+Date_NPC9_03ID	24	Lara	ララ	ん……	Lara	Mm...	拉拉	嗯……	拉拉	嗯……
+Date_NPC9_03ID	25	Diona	ディオーナ	……美しい	Diona	How sublime.	蒂欧娜	……太美了。	蒂歐娜	……好美。
+Date_NPC9_03ID	26	Lara	ララ	？　何がですの？	Lara	Hm? What is?	拉拉	什么美？	拉拉	嗯？妳指什麼？
+Date_NPC9_03ID	27	Diona	ディオーナ	ララ様が紅茶を飲むお姿が、です	Diona	Why, the way you drink tea, my queen.	蒂欧娜	拉拉大人喝红茶的样子。	蒂歐娜	拉拉大人喝紅茶的身姿。
+Date_NPC9_03ID	28	Lara	ララ	ふふ。ディオーナも美しいですわ。\n紅茶を飲む姿だけではなく、戦う姿も	Lara	*Chuckle* You are no less elegant, Diona, whether you are dining or defeating monsters.	拉拉	呵呵，你也很美哦。\n不只是喝红茶的样子，战斗的样子也是。	拉拉	呵呵，蒂歐娜妳也很美喔。\n不只是喝紅茶時，戰鬥的身姿也是。
+Date_NPC9_03ID	29	Diona	ディオーナ	ララ様だって	Diona	But, Queen Lara...	蒂欧娜	拉拉大人也是啊。	蒂歐娜	拉拉大人您才是……
+Date_NPC9_03ID	30	Diona	ディオーナ	泥にまみれながら採取をするお姿も、\n汗を流しながら仕事をされるお姿も……！	Diona	You could be covered in mud from gathering materials or sweating from all your hard work and you would still be absolutely radiant!	蒂欧娜	身上沾满泥土采集的样子也是，\n流汗工作的样子也是……！	蒂歐娜	無論是採集時渾身沾染泥巴的模樣，\n還是工作時汗流浹背的模樣……！
+Date_NPC9_03ID	31	Diona	ディオーナ	きっと民のためというひたむきな心が\n表に現れているのでしょう！	Diona	I'm certain that is your earnest devotion to your subjects shining through!	蒂欧娜	一定是因为牵挂人民的心意展露了出来！	蒂歐娜	這些都是妳一心一意替人民著想的表現吧！
+Date_NPC9_03ID	32	Lara	ララ	気恥ずかしいことを言うのはやめなさいな。\nそういうのは歌の内容だけで充分ですわ	Lara	Please, any more and you'll embarrass me. Save that sort of flowery praise for your songs.	拉拉	别再说让人难为情的话了，\n歌里有就已经足够了。	拉拉	別說這些肉麻的話，這種話寫在歌裡就夠了。
+Date_NPC9_03ID	33	Lara	ララ	……まあ、だからこそ良い詩が書けているのなら\nそれも才能なのかもしれませんが	Lara	Though, I suppose that sort of effortless composition is further proof of your creative skill.	拉拉	……不过，如果这是你能写出好歌的原因，\n这或许算是一种天赋吧。	拉拉	……但正因如此，妳才能寫出優美的詞，\n這或許也是種才能吧。
+Date_NPC9_03ID	34	Diona	ディオーナ	なるほど……たしかにそうなのかもしれません	Diona	I see... You might have a point.	蒂欧娜	原来如此……好像确实是这样呢。	蒂歐娜	原來如此……或許確實是這樣也說不定。
+Date_NPC9_03ID	35	Diona	ディオーナ	今日はありがとうございました。\nおかげで色々と案が浮かんできました	Diona	Thank you very much for today. I have all sorts of ideas to work from now.	蒂欧娜	今天真是太感谢了。\n多亏了您，我有了很多构思。	蒂歐娜	今天非常感謝您。\n多虧您的協助，讓我想到了許多點子。
+Date_NPC9_03ID	36	Diona	ディオーナ	さっそくララ・キングダムに戻って\n音楽劇の制作を……	Diona	I should hurry back to the kingdom and get straight to work on the scr—	蒂欧娜	赶快回拉拉王国\n开始制作音乐剧吧……	蒂歐娜	我得趕緊回去拉拉王國創作音樂劇……
+Date_NPC9_03ID	37	Lara	ララ	ディオーナ	Lara	Diona.	拉拉	蒂欧娜。	拉拉	蒂歐娜。
+Date_NPC9_03ID	38	Diona	ディオーナ	はい？	Diona	Yes?	蒂欧娜	什么事？	蒂歐娜	嗯？
+Date_NPC9_03ID	39	Lara	ララ	お茶の時間ぐらいゆっくりしなさい。\nこれは王の命令ですわ	Lara	As your queen, I order you to sit and enjoy your teatime.	拉拉	喝茶时就悠闲一点吧，\n这是国王的命令。	拉拉	至少喝茶的時間好好休息吧。這是君主的命令。
+Date_NPC9_03ID	40	Diona	ディオーナ	……は、はい	Diona	A-As you wish.	蒂欧娜	……遵、遵命。	蒂歐娜	……好、好的。
+Date_NPC9_03ID	41	Lara	ララ	（ディオーナは本当に創作に対して真剣ですわね）	Lara	(Diona is taking this opera very seriously indeed.)	拉拉	（蒂欧娜对待创作真是非常认真呢。）	拉拉	（蒂歐娜真的很認真看待創作。）
+Date_NPC9_03ID	42	Lara	ララ	（いつか彼女にも一日密着して、\n　歌に対する想いを聞いてみたいですわ）	Lara	(Perhaps one day, we can spend a similar amount of time discussing her thoughts about music.)	拉拉	（我也想找一天紧跟着她，\n　问问她对歌曲的想法啊。）	拉拉	（我也想要找個日子跟著她一整天，\n　聽聽她對歌曲的想法。）
+Date_NPC9_04ID	0	Lara	ララ	（祭りの時期も近づいてきて、\n　そろそろ音楽劇の台本も\n　仕上がらないといけないころ）	Lara	(Given how close we are to the date of the festival now, surely Diona has finished the script and music for her opera.)	拉拉	（离庆典越来越近了，\n　这会儿音乐剧的剧本\n　也差不多该完成了。）	拉拉	（祭典就快到了，音樂劇的劇本\n　也差不多該完成了。）
+Date_NPC9_04ID	1	Lara	ララ	（きっとディオーナも大詰めを\n　迎えていることでしょう。\n　こういう時、彼女は……）	Lara	(Everything must be in its final stages. At a time like this, she would most likely be...)	拉拉	（蒂欧娜一定创作到结局部分了。\n　这个时候她……）	拉拉	（蒂歐娜肯定也到最後階段了吧。\n在這種時候，她總會……）
+Date_NPC9_04ID	2	Diona	ディオーナ	皆で歌おう　我らの～♪	Diona	O, sing, in honor of our...	蒂欧娜	大家一起歌唱吧，我们的～	蒂歐娜	大家一起唱吧！為我們的～
+Date_NPC9_04ID	3	Lara	ララ	（やはり、ここにいた）	Lara	(Aha, I knew this is where I would find her.)	拉拉	（果然在这里。）	拉拉	（果然在這裡。）
+Date_NPC9_04ID	4	Diona	ディオーナ	あ、ララ様！　いらしていたのですか	Diona	Oh! Queen Lara! I didn't realize you had stopped by.	蒂欧娜	啊，拉拉大人！您来了呀。	蒂歐娜	啊，拉拉大人！您來了呀。
+Date_NPC9_04ID	5	Lara	ララ	素敵な曲でしたわ。祭りで披露する\n音楽劇のものですわよね？	Lara	That was a lovely song. Would it happen to be part of the festival's opera?	拉拉	这首歌真好听，\n是在庆典的音乐剧里表演的歌曲吧？	拉拉	真是美妙的歌曲。\n這是要在祭典上表演的音樂劇的內容吧？
+Date_NPC9_04ID	6	Diona	ディオーナ	はい、そうです。ララ様のことを想い、\nララ様を称えるために用意した曲になります	Diona	Yes, it is! I wrote it while I was thinking of you, so it became a rather celebratory piece.	蒂欧娜	嗯，是的。这首是想着拉拉大人，\n为了称赞拉拉大人准备的曲子。	蒂歐娜	嗯，沒錯。這是我想著拉拉大人，\n為了讚頌您而準備的歌曲。
+Date_NPC9_04ID	7	Lara	ララ	ということは、完成したのですね？	Lara	Does that mean everything is finished?	拉拉	那也就是说，已经完成了吗？	拉拉	所以妳已經把音樂劇完成囉？
+Date_NPC9_04ID	8	Diona	ディオーナ	はい……ただ、まだ少し悩んでいるところも\nあって……	Diona	Yes, although...there are some parts that I'm concerned about.	蒂欧娜	是的…… 不过，还有些地方我不确定……	蒂歐娜	嗯……不過我還有一些地方在煩惱該怎麼處理才好……
+Date_NPC9_04ID	9	Lara	ララ	なるほど。よろしければ、どんな歌なのか\n教えてもらえるかしら	Lara	I see. Would you mind telling me a little more about the songs and such?	拉拉	原来如此。如果你愿意的话，\n能告诉我那是什么样的歌吗？	拉拉	這樣啊。如果妳不介意的話，\n可以告訴我是什麼樣的歌嗎？
+Date_NPC9_04ID	10	Diona	ディオーナ	もちろんです！　細かいところは当日まで\n隠しますが、全十楽章からなっていて……	Diona	Not at all! While I plan on keeping the specifics a secret until the performance, I can say that there will be ten acts.	蒂欧娜	当然了！细节的部分要等到当天才能展示，\n一共有十乐章……	蒂歐娜	當然可以！雖然細節會等到當天再公開，\n但歌曲總共有十個樂章……
+Date_NPC9_04ID	11	Diona	ディオーナ	第一楽章は私とララ様との出会い、\n第二楽章はララ様の内に秘められた渇望、\n第三楽章は……	Diona	The first covers how we met, the second is your hidden desires, the third...	蒂欧娜	第一章是我与拉拉大人的邂逅，\n第二章是拉拉大人藏在心中的渴望，\n第三章是……	蒂歐娜	第一樂章是我和拉拉大人的相遇，第二樂章是\n拉拉大人內心的渴望，第三樂章是……
+Date_NPC9_04ID	12	Lara	ララ	（そ、そんなにありますの！？）	Lara	(Sh-She has that much material?!)	拉拉	（有、有那么多章吗？！）	拉拉	（這、這麼長嗎！？）
+Date_NPC9_04ID	13		選択肢	長すぎませんこと？	Selection	Is that not rather long?	选项	会不会太长了点？	選項	不會太長了嗎？
+Date_NPC9_04ID	14	Lara	ララ	少し長すぎませんこと？\n退屈な構成になっていなければ\n良いのですが	Lara	Is that not slightly too long? Of course, that is no matter if the material is engaging, but...	拉拉	会不会太长了点呀？\n希望结构不会无聊。	拉拉	這樣不會有點太長了嗎？\n希望劇情的編排不會讓觀眾感到無聊。
+Date_NPC9_04ID	15	Diona	ディオーナ	そ……そうかもしれません。\nララ様への想いを詰め込んだら\n長くなってしまいました	Diona	Y-You may have a point. Trying to fit all my feelings for you into the production just made it grow and grow...	蒂欧娜	好……好像是有点。\n我把对拉拉大人的感情都写了进去，\n变得有些太长了。	蒂歐娜	或……或許的確是如此。\n我把對您的心意全都寫進歌裡，\n結果就變得這麼長了。
+Date_NPC9_04ID	16	Diona	ディオーナ	ですが、私のララ様への想いはこれだけでは\nありません！\n本当はまだまだたくさん……	Diona	And I haven't even managed to cover them all! Quite frankly, I still have a lot more to cover.	蒂欧娜	但是，我对拉拉大人的感情还远不止这些！\n还有好多好多好多……	蒂歐娜	但我對您的情感可不只這樣！\n其實我還有更多更多……
+Date_NPC9_04ID	17	Lara	ララ	わ、分かりましたわ。\nとても強く思ってくださったことは	Lara	I-I see. Thank you for thinking so highly of me.	拉拉	我、我知道你的感情有多深了。	拉拉	我、我明白妳對我的情感有多麼強烈了。
+Date_NPC9_04ID	18		選択肢	熱い想いが伝わってきますわ	Selection	You have certainly gotten your passion across.	选项	能感受到你的热情	選項	我感受到妳的熱情了
+Date_NPC9_04ID	19	Lara	ララ	これだけの熱い想いがあなたには\nあるのですね。\nそれが十分伝わってきましたわ	Lara	You have certainly gotten your passionate feelings across. And very successfully.	拉拉	看来你的心中充满了热情。\n我已经深深地感受到了。	拉拉	這首歌就是妳熱情的展現，\n我十足感受到妳的心意了。
+Date_NPC9_04ID	20	Diona	ディオーナ	嬉しいです！　ララ様に届けたくて\nこの歌を書いてましたので	Diona	Thank you so much! I wrote these songs to convey them to you, my queen.	蒂欧娜	我太开心了！这首歌就是为了\n向拉拉大人表达我的心声而写的。	蒂歐娜	您這麼說太令我高興了！\n畢竟我就是為了將心意傳達給您才會寫下這首歌。
+Date_NPC9_04ID	21	Diona	ディオーナ	長いだけでなく、一つ一つの言葉にも\nララ様への想いを込めていて……。\nこの間の一日密着の成果が出ました	Diona	It isn't just the length. Each and every word contains my deep affection for you. That day we spent together was truly inspirational.	蒂欧娜	它不单是长，里边的一词一句都包含着\n我对拉拉大人的感情……\n是之前紧跟拉拉一天得出的成果。	蒂歐娜	而且這首歌並非空有長度，\n而是一句一語都蘊含了我對您的心意……\n不枉費我上次貼身跟著您觀察了一整天。
+Date_NPC9_04ID	22	Lara	ララ	やはり想いを詩にする才能は\n飛びぬけていますわね。\n驚きましたわ	Lara	You truly do have a way with words. I'm shocked that you're able to articulate your feelings so effectively.	拉拉	你将想法写成歌的天赋\n果然是出类拔萃的。\n太让人吃惊了。	拉拉	妳將情感化為詩歌的才能果然出類拔萃，真是驚人。
+Date_NPC9_04ID	23		選択肢	ランターナ史に残る超大作ですわね	Selection	This is a masterpiece!	选项	这将是在兰塔纳史上留名的超级大作	選項	這是能在蘭塔納歷史名的超級大作呢
+Date_NPC9_04ID	24	Lara	ララ	これは……ランターナ史に残る\n超大作ですわね	Lara	This is truly a masterpiece that will remain in the annals of history.	拉拉	这将是……在兰塔纳史上留名的超级大作呢。	拉拉	這真是……能在蘭塔納歷史上留名的超級大作呢。
+Date_NPC9_04ID	25	Diona	ディオーナ	そうでしょう！\nここまで長ければ皆の印象に残ること\n間違いなしです	Diona	Isn't it?! I thought that surely, such a lengthy piece would make a lasting impression on anyone who watched it.	蒂欧娜	是吧！\n写这么长一定可以给大家留下深刻的印象。	蒂歐娜	對吧！內容這麼長，肯定能讓大家印象深刻。
+Date_NPC9_04ID	26	Diona	ディオーナ	これで、ララ様の偉業を皆の記憶に\n刻み付けられますね！	Diona	This will carve your grand achievements into everyone's memories!	蒂欧娜	这样一来，拉拉大人的丰功伟绩\n也会铭刻在大家的记忆中了！	蒂歐娜	這麼一來就能將拉拉大人的豐功偉業\n烙印在大家的記憶裡了！
+Date_NPC9_04ID	27	Lara	ララ	長すぎて内容は覚えられないのではなくて？	Lara	Though, would the length not make the content more difficult to remember?	拉拉	这也太长了，大家不会记不住内容吗？	拉拉	不會反而因為內容太長而記不住嗎？
+Date_NPC9_04ID	28	Diona	ディオーナ	……確かに……。\n申し訳ございません、盲点でした……	Diona	That is...entirely possible, yes. I apologize. I hadn't considered that aspect.	蒂欧娜	……有道理……\n实在抱歉，我没能注意到这一点……	蒂歐娜	……說的也是……抱歉，我沒想到這點……
+Date_NPC9_04ID	29	Lara	ララ	一度整理したほうがよいかも\nしれないですわね	Lara	Perhaps it would be prudent to make a few edits.	拉拉	也许再理一遍会比较好。	拉拉	還是再重新編整一次會比較好吧。
+Date_NPC9_04ID	30	Lara	ララ	前から聞きたかったのですが、あなたは\n歌うときや作曲する時、どのような想いを\n胸に取り組んでいるのかしら	Lara	But I had been meaning to ask you—what sort of emotions do you usually feel when you are singing or composing?	拉拉	我以前就想问了，\n你唱歌和作曲时，\n心里都在想些什么？	拉拉	我從之前就很想問了，妳在唱歌或作曲時，\n內心都是懷抱著什麼樣的想法呢？
+Date_NPC9_04ID	31	Diona	ディオーナ	そうですね……はじめは歌手である\n父の勧めで歌い始めました。\nこれはララ様も知っての通りです	Diona	Well... As you know, I started by singing songs that my father suggested.	蒂欧娜	这个嘛……最初我是在\n身为歌手的父亲提议下才开始唱歌的。\n这件事拉拉大人也知道。	蒂歐娜	這個嘛……正如拉拉大人您所知，\n我的父親是一名歌手，\n而我是在他提議下開始唱歌的。
+Date_NPC9_04ID	32	Diona	ディオーナ	ララ様と出会った今は、自らの意志のもと、\n大きな“芯”を持って取り組んでいます	Diona	But since meeting you, I have truly begun to bloom, and learned to exert more of my own will.	蒂欧娜	与拉拉大人相遇后，如今我做任何事\n都以自己的意志为主，拥有了坚定的信念。	蒂歐娜	和您相遇後，我開始以自己的意志，\n懷著堅定的「信念」進行歌唱活動。
+Date_NPC9_04ID	33	Diona	ディオーナ	ララ様が、熱い“芯”を与えて\nくださったんです	Diona	And I have you to thank for that, Queen Lara.	蒂欧娜	是拉拉大人给了我火热的“信念”。	蒂歐娜	是您給予了我這份炙熱的「信念」。
+Date_NPC9_04ID	34	Diona	ディオーナ	だからこそ、その感謝を込めてララ様の\nことを想い、ララ様を称える曲を作って、\nララ様の素晴らしさを広めたい……	Diona	So I think of how grateful I am, how wonderful you are, and how best to sing your praises to the masses...	蒂欧娜	因此，我才想要感谢拉拉大人，\n创作赞扬拉拉大人的曲子，\n宣扬拉拉大人的伟大……	蒂歐娜	所以我才會懷抱感謝\n以及對您的心意創作讚頌您的歌曲，\n向世人宣揚您是多麼出色……
+Date_NPC9_04ID	35	Diona	ディオーナ	今は、そう思って取り組んでいます	Diona	And all of that works its way into my music now.	蒂欧娜	我现在就是想着这些进行创作的。	蒂歐娜	這就是我現在創作與歌唱時的想法。
+Date_NPC9_04ID	36	Diona	ディオーナ	私から歌とララ様を想う気持ちを\n取り上げたら何も残りません	Diona	If you took those feelings away from me, I would have nothing left.	蒂欧娜	如果失去歌曲和我对拉拉大人的感情，\n我就什么都没有了。	蒂歐娜	如果從我的歌中奪走對拉拉大人的感情，\n那就什麼也不剩了。
+Date_NPC9_04ID	37	Lara	ララ	（……なるほど）	Lara	(My goodness.)	拉拉	（……原来是这样。）	拉拉	（……原來如此。）
+Date_NPC9_04ID	38	Lara	ララ	（そんなにも思われているなんて、\n　嬉しい……）	Lara	"(""I'm thrilled to have someone who thinks so fondly of me..."")"	拉拉	（没想到她这么重视我，\n　好开心……）	拉拉	（雖然我很想說，\n　我很高興妳對我的感情是如此之深……）
+Date_NPC9_04ID	39	Lara	ララ	（……なんて、これはそう素直に\n　思えませんわね、ディオーナ）	Lara	(Is not the reply she needs.)	拉拉	（……但是蒂欧娜，\n　我无法纯粹地为此感到欣慰。）	拉拉	（……但我可不能把事情看得這麼單純呢，蒂歐娜。）
+Date_NPC9_04ID	40	Lara	ララ	いいかしら、ディオーナ。\nあなたは何も残らないと言いますが……	Lara	Now listen, Diona. Although you have said you would have nothing left...	拉拉	蒂欧娜，你听好。\n你说你什么都没有了……	拉拉	蒂歐娜，妳聽好了。雖然妳說自己什麼也不剩……
+Date_NPC9_04ID	41		選択肢	周りをよく見なさい	Selection	Take a good look around you.	选项	好好看看周围吧	選項	妳好好看看周圍吧
+Date_NPC9_04ID	42	Lara	ララ	周りをよく見なさいな。\nあなたはどこへやってきたのです？	Lara	Take a good look around you. Where are you currently standing?	拉拉	好好看看周围吧。\n你现在在哪里？	拉拉	但妳好好看看周圍吧。妳現在所在何處？
+Date_NPC9_04ID	43	Lara	ララ	あなたは今ララ・キングダムに居るのです。\nそして、あなたを慕う多くの民がいる	Lara	Why, the Kingdom of Lara. Along with many fellow citizens who adore you.	拉拉	你现在身在拉拉王国。\n这里有许多仰慕你的国民。	拉拉	妳現在所在的地方是拉拉王國，\n而且有許多人民仰慕著妳。
+Date_NPC9_04ID	44	Lara	ララ	彼らは決して歌やわたくしへの忠誠心で\nあなたを評価しているわけではありませんわ	Lara	They would never judge you based on your singing, or your devotion to me.	拉拉	他们绝不会用歌曲和\n你对我的忠心去评价你。	拉拉	他們對妳的看法，\n絕對不只是因為妳的歌或是對我的忠誠。
+Date_NPC9_04ID	45	Diona	ディオーナ	……！	Diona	...!	蒂欧娜	……！	蒂歐娜	……！
+Date_NPC9_04ID	46	Lara	ララ	彼らがいるではありませんか。\nそれとも、彼らが信じられないとでも？	Lara	They are here for you as well. Or do you not trust in them?	拉拉	不是还有他们吗。\n还是说你信不过他们？	拉拉	不是還有他們在嗎？\n還是妳認為他們不值得信任？
+Date_NPC9_04ID	47	Diona	ディオーナ	いえ……そんなことありません！\n皆、大切な私の宝物です	Diona	No, of course I do! I treasure everyone here!	蒂欧娜	不……怎么会呢！\n大家都是我的最重要的珍宝。	蒂歐娜	不……沒有這回事！大家都是我重要的寶物。
+Date_NPC9_04ID	48		選択肢	服飾の才能もある	Selection	You have your sewing skills as well.	选项	你有服装的天赋	選項	妳還有製作服飾的才能
+Date_NPC9_04ID	49	Lara	ララ	服飾の才能もあるでしょう。\n何も残らないなんてことはありませんわ	Lara	You have your sewing skills as well. You will never be bereft of talent, my dear.	拉拉	你不是有服装的天赋吗。\n并不是什么都没有了。	拉拉	妳還有製作服飾的才能啊。才不是什麼也不剩。
+Date_NPC9_04ID	50	Diona	ディオーナ	服は……ミーケちゃんだって作れます。\n私にしかできないことではありません	Diona	But...that's Mieke's domain. It isn't something that is unique to me.	蒂欧娜	服装……米珂也会做，\n没有什么是只有我能做的。	蒂歐娜	衣服……米珂也做得出來，並非只有我能做到。
+Date_NPC9_04ID	51	Lara	ララ	ミーケが作っている服とは趣向が\n異なりますでしょう？\nあなたの服は唯一無二ですわ	Lara	Isn't it, though? Or do you think your designs and hers are alike in every way?	拉拉	你和米珂做的衣服\n风格不是不一样吗？\n你的衣服是独一无二的哦。	拉拉	但米珂做的衣服風格和妳不同吧？\n妳的衣服是獨一無二的。
+Date_NPC9_04ID	52	Diona	ディオーナ	そうなのでしょうか……	Diona	I suppose not...	蒂欧娜	是吗……	蒂歐娜	是這樣嗎……
+Date_NPC9_04ID	53		選択肢	私は素晴らしくなどない	Selection	I am not that magnificent.	选项	我没有那么伟大	選項	我其實一點也不出色
+Date_NPC9_04ID	54	Lara	ララ	そもそもわたくしは素晴らしくなど\nないのです。わたくしはほんの少しの\nきっかけを作ったにすぎませんわ	Lara	Quite frankly, I am not that magnificent. I simply offered you a chance.	拉拉	我才没有那么伟大。\n我只是创造了一个小小的契机而已。	拉拉	其實我根本一點也不出色，\n我只不過是製造了一點契機罷了。
+Date_NPC9_04ID	55	Lara	ララ	いつも言っているように、\n臣下の、そして民の頑張りがわたくしの国を\n作り上げています	Lara	As I have always said, the efforts of my retainers and subjects are what have built this country.	拉拉	就和我平时说的一样，\n多亏了大臣和国民们的努力，\n我们的国家才得以建成。	拉拉	正如我經常說的，\n是臣子和人民的努力造就了我的國家。
+Date_NPC9_04ID	56	Lara	ララ	素晴らしいのはあなた。\nそうじゃなくて？	Lara	That makes you infinitely more wonderful. Wouldn't you agree?	拉拉	厉害的是你。\n不是吗？	拉拉	出色的人是妳才對，不是嗎？
+Date_NPC9_04ID	57	Diona	ディオーナ	……ですが、ララ様が居なければ\n何もできなかったでしょう。\n私は素晴らしくなんかないです	Diona	But without you, we would never have accomplished all this. I couldn't claim such greatness for myself.	蒂欧娜	……可是，如果没有拉拉大人，\n不就什么都做不到吗。\n我才不厉害呢。	蒂歐娜	……但要是沒有拉拉大人，我什麼也做不到吧。\n我一點也不出色。
+Date_NPC9_04ID	58	Lara	ララ	どうやら、またひとつディオーナのことが\n知れたみたいですわね	Lara	It would seem I have learned something new about you, Diona.	拉拉	我好像对蒂欧娜又了解了一点呢。	拉拉	看來我好像又多了解妳一點了呢。
+Date_NPC9_04ID	59	Diona	ディオーナ	幻滅しましたか？	Diona	Has that ruined your image of me?	蒂欧娜	对我幻灭了吗？	蒂歐娜	您對我失望了嗎？
+Date_NPC9_04ID	60	Lara	ララ	いいえ。嬉しくてよ？\nあなたのことを知れるのは	Lara	Of course not. It makes me happy. I want to know more about you.	拉拉	不会啊，能了解你，\n我很高兴哦。	拉拉	怎麼會呢？我很高興能了解妳。
+Date_NPC9_04ID	61	Lara	ララ	ねえ、ディオーナ。私は思うのです。\nあなたの歌は、わたくしのためだけに\n作られたもののようですが……	Lara	Now, Diona... I am under the impression that your songs have all been crafted expressly for me.	拉拉	听我说，蒂欧娜。\n虽然你的歌是为我而写的，但我想……	拉拉	蒂歐娜，我是這麼想的。\n妳創作的歌曲幾乎可以說是\n完全以我為出發點……
+Date_NPC9_04ID	62	Lara	ララ	このたびの祭りにおいては、\nそれは誤っているのではないかと	Lara	However, in light of this festival, I feel that you are mistaken in choosing to focus on me exclusively.	拉拉	在这次庆典上，\n这样是不对的。	拉拉	但就這次的祭典而言，\n這樣的創作方式是否其實是錯的呢？
+Date_NPC9_04ID	63	Diona	ディオーナ	私のララ様に対する想いが\n重かったでしょうか……？	Diona	Are my feelings for you too ponderous, my queen?	蒂欧娜	是我对拉拉大人的感情\n太沉重了吗……？	蒂歐娜	我對您的心意太沉重了嗎……？
+Date_NPC9_04ID	64	Lara	ララ	違いますわ。\nわたくしは……	Lara	Hardly. If anything, I...	拉拉	不是的。\n我……	拉拉	不是這個意思，我……
+Date_NPC9_04ID	65		選択肢	あなたがもっと羽ばたく姿を見たいのです	Selection	Would like to see you spread your wings even further.	选项	想看到你展翅翱翔的样子	選項	想看到妳更加展翅高飛的樣子
+Date_NPC9_04ID	66	Lara	ララ	あなたがもっと羽ばたく姿を見たいのです	Lara	Would like to see you spread your wings even further.	拉拉	想看到你展翅翱翔的样子。	拉拉	想看到妳更加展翅高飛的樣子。
+Date_NPC9_04ID	67	Diona	ディオーナ	私が、羽ばたく……	Diona	You would...?	蒂欧娜	我展翅翱翔……	蒂歐娜	我展翅高飛……
+Date_NPC9_04ID	68	Lara	ララ	わたくしのためだけの歌を歌うのではなく、\n皆に愛される歌姫として、\nより広い世界と人々を見て……	Lara	Rather than singing simply for my sake, you ought to see more of the world and the people who love you and your music.	拉拉	你不该只是唱为我而作的歌曲。\n身为大家喜爱的歌手，\n你应该看看更广阔的世界、更多的人……	拉拉	不是只為了我而唱歌，\n而是以眾所愛戴的歌姬之姿，\n去看看更廣闊的世界和人們……
+Date_NPC9_04ID	69	Lara	ララ	たくさんの人のために歌うあなたを、\nわたくしは見たい	Lara	I want to see you perform for multitudes.	拉拉	我想看到你为众人唱歌的样子。	拉拉	並且為人們歌唱，這就是我想看到的。
+Date_NPC9_04ID	70	Lara	ララ	もったいないですわよ？\nわたくしのことばかり見ていては。\nそれに……	Lara	After all, wouldn't it be a waste to sing for just one person? Besides...	拉拉	只看着我一个人的话，\n实在太浪费了。\n而且……	拉拉	光只是注視著我，可是很可惜的喔？而且……
+Date_NPC9_04ID	71	Lara	ララ	あなたの歌を待っている\nたくさんの人が居るのです	Lara	So many others are waiting to hear you.	拉拉	有很多人都在等着你的歌声。	拉拉	有很多人在等著妳的歌曲。
+Date_NPC9_04ID	72	Diona	ディオーナ	……！	Diona	...!	蒂欧娜	……！	蒂歐娜	……！
+Date_NPC9_04ID	73		選択肢	あなたにひとり立ちしてほしいのです	Selection	Want to see you stand on your own two feet.	选项	我希望你能独立	選項	我希望妳能獨立
+Date_NPC9_04ID	74	Lara	ララ	あなたにひとり立ちしてほしいのです	Lara	Want to see you stand on your own two feet.	拉拉	我希望你能独立。	拉拉	我希望妳能獨立。
+Date_NPC9_04ID	75	Diona	ディオーナ	……そうですね。\n私は、ララ様に頼りっきりだったかも\nしれません	Diona	I see. I have been relying on you too much, my queen.	蒂欧娜	……说得也是。\n我可能有些太过依赖拉拉大人了。	蒂歐娜	……說得也是。我或許太依賴拉拉大人了。
+Date_NPC9_04ID	76	Lara	ララ	そういうことではありませんわ。\nただ、わたくしのことばかり\n気にしなくともよいのです	Lara	That is not at all what I meant. I simply would like you to worry less about me.	拉拉	不是这样的。\n只是，你不用光顾着我。	拉拉	我不是這個意思，\n我只是覺得妳不用把所有精神都投注在我身上。
+Date_NPC9_04ID	77	Diona	ディオーナ	……	Diona	...	蒂欧娜	……	蒂歐娜	……
+Date_NPC9_04ID	78		選択肢	あなたを縛り付けていないかと思うのです	Selection	Do not wish to be what holds you back.	选项	我会想是不是我束缚住了你	選項	我擔心自己是不是束縛了妳
+Date_NPC9_04ID	79	Lara	ララ	あなたを縛り付けていないかと思うのです。\nわたくしがあなたの王であるがゆえに	Lara	I do not wish to be what holds you back. After all, I am your queen.	拉拉	我会想是不是我束缚住了你，\n就因为我是你的国王。	拉拉	正因為我是妳的君王，\n所以我才會擔心自己是不是束縛了妳。
+Date_NPC9_04ID	80	Diona	ディオーナ	そんなことはありません！\n私がララ様の歌を歌いたくて\n歌っているのです	Diona	You could never! I'm the one who wanted to sing about you!	蒂欧娜	不是那样的！\n是我想唱拉拉大人的歌，\n所以才在唱。	蒂歐娜	沒這回事！我是出於自己的意志為您歌唱的！
+Date_NPC9_04ID	81	Diona	ディオーナ	……ですが、ララ様を心配させてしまって\nいたのですね。\n	Diona	Though, I see that I have worried you, Queen Lara.	蒂欧娜	……但是，却害拉拉大人担心了。	蒂歐娜	……但我讓您擔心了吧。
+Date_NPC9_04ID	82	Lara	ララ	そこは気にしてはいないのですが……	Lara	That is nothing you need to concern yourself with.	拉拉	我倒是不在意这个……	拉拉	我在意的並不是這點……
+Date_NPC9_04ID	83	Diona	ディオーナ	いえ、今まで気が付かず申し訳ありません。\n改めることにいたします……	Diona	No, I am sorry for not noticing sooner. I will do everything I can to change.	蒂欧娜	不，很抱歉我一直没注意到这一点。\n我会改正的……	蒂歐娜	不，實在抱歉，我至今都沒能察覺，我會改進的……
+Date_NPC9_04ID	84	Diona	ディオーナ	ありがとうございます、ララ様。\n私は大切なことに\nぜんぜん気付けていませんでした	Diona	Thank you, Your Majesty. It would seem that I'd lost sight of something important.	蒂欧娜	谢谢您，拉拉大人。\n我根本没注意到重要的事物。	蒂歐娜	拉拉大人，謝謝您。我竟然忽略了如此重要的事……
+Date_NPC9_04ID	85	Diona	ディオーナ	それなのに、私の成長を期待して\nここまで声をかけていただいた……。\nとても嬉しいです	Diona	And you even went out of your way to speak with me about it, to help further my growth. I couldn't be happier.	蒂欧娜	但您却还是期待着我的成长，\n并来告诉了我……\n我好开心。	蒂歐娜	但妳卻仍然期待我有所成長，\n並如此耐心地開導我……我真的非常開心。
+Date_NPC9_04ID	86	Diona	ディオーナ	初めての音楽劇だと気負いすぎて、\n少しから回っていたのかもしれません	Diona	Since this is my first opera, I got so worked up that perhaps I could no longer see the forest for the trees.	蒂欧娜	这是我的第一部音乐剧，\n不由得用力过猛，有些手忙脚乱了。	蒂歐娜	我可能是因為第一次創作音樂劇，\n過度追求成功而有些迷失了方向。
+Date_NPC9_04ID	87	Diona	ディオーナ	ララ様、私の悩みの種が見えた気がします。\nもう少しだけお待ちを！	Diona	I believe I see what the problem is now. Please be patient for just a little longer, Your Majesty!	蒂欧娜	拉拉大人，我好像知道我烦恼的源头是什么了。\n请再稍等等！	蒂歐娜	拉拉大人，我好像明白自己煩惱的原因了。\n請您再給我一段時間！
+Date_NPC9_04ID	88	Diona	ディオーナ	ララ様の言うように、皆のことを見つめ、\n皆のための歌を作り上げてきます。\nそして必ず、祭りを成功させましょう！	Diona	As you said, I should be creating songs for all those around us. That will surely make the festival a success!	蒂欧娜	我会像拉拉大人说的那样，多关注大家，\n为大家创作歌曲，\n并且，一定会让庆典成功的！	蒂歐娜	我會照您所說，將目光放向人民，為所有人民作曲。\n並且一定會讓這場祭典成功！
+Date_NPC9_04ID	89	Lara	ララ	ええ、その意気ですわ！\n期待していますわよ、ディオーナ	Lara	That's the spirit, Diona. I will be looking forward to your performance.	拉拉	嗯，就得要这股劲！\n我很看好你哦，蒂欧娜。	拉拉	嗯，這樣就對了！我很期待喔，蒂歐娜。
+Date_NPC9_04ID	90	Diona	ディオーナ	はい！　それでは失礼します！	Diona	Yes, Your Majesty! Please excuse me!	蒂欧娜	嗯！那我就先告辞了！	蒂歐娜	是！那我先離開了！
+Date_NPC9_04ID	91	Lara	ララ	（……きっと彼女は、大空へと\n　羽ばたいていくでしょう。\n　それでよいのですわ）	Lara	(I'm certain that Diona wants to reach out toward the heavens—as well she should.)	拉拉	（……她一定能飞向更广阔的天空。\n　这样就好。）	拉拉	（……她一定會朝向天空展翅翱翔吧。\n　這樣就好了。）
+Date_NPC9_04ID	92	Lara	ララ	（わたくしだけの歌姫でなくなるのは\n　少し寂しくはありますが……）	Lara	(While it pains me slightly to lose my own personal diva...)	拉拉	（她不再是我一个人的歌手了，\n　倒是觉得有些寂寞……）	拉拉	（雖然她不再是我專屬的歌姬，\n　有點令人寂寞……）
+Date_NPC9_04ID	93	Lara	ララ	（わたくしはララ・キングダムの王。\n　民の幸せのため、宝物を独占する\n　わけにはいきませんもの）	Lara	(I am the kingdom's queen. I mustn't monopolize any treasures that would bring my citizens joy.)	拉拉	（我是拉拉王国的国王，\n　为了国民的幸福，\n　我不能独占宝物。）	拉拉	（但我是拉拉王國的君王。\n　為了人民的幸福，我不能獨占寶物。）
+Date_NPC9_04ID	94	Diona	ディオーナ	私、歌手としてもララ様の臣下としても\nまだまだですね……	Diona	I still have much to learn, both as a performer and as your vassal...	蒂欧娜	不管是作为歌手还是拉拉大人的大臣，\n看来我都还差得很远呢……	蒂歐娜	無論是身為歌手還是拉拉大人的臣子，\n我都還不夠成熟啊……
+Date_NPC9_04ID	95	Diona	ディオーナ	もう一度鍛錬を積み直してきます。\nしばらく一人にしてください	Diona	I must redouble my training efforts. Please pardon my absence for the next while.	蒂欧娜	我会重新锻炼自己的。\n请让我自己待一会儿。	蒂歐娜	我會再重新好好修練的，請暫時讓我一個人獨處。
+Date_NPC9_04ID	96	Lara	ララ	……	Lara	...	拉拉	……	拉拉	……
+Date_NPC9_04ID	97	Lara	ララ	（王として彼女を導けませんでしたわ……\n　なんて、ふがいない……）	Lara	(Alas, I was not able to guide her as her queen. How shameful...)	拉拉	（身为国王却不能引导她……\n　我真没用……）	拉拉	（身為君王，我沒能成功開導她……\n　真是太沒用了……）
+Date_NPC9_04ID	98	Diona	ディオーナ	～～～～～～！！！	Diona	...!!	蒂欧娜	～～～～～～！！	蒂歐娜	～～～～～～！！！！
+Date_NPC9_05ID	0	Lara	ララ	（本日はいよいよ祭りの日。\n　音楽劇の準備が整い、ディオーナが\n　舞台に上がる）	Lara	(The date of the festival has finally arrived. With her preparations for the opera finished, Diona will soon take to the stage.)	拉拉	（今天终于到了举办庆典的日子。\n　音乐剧的准备已就绪，\n　蒂欧娜要登上舞台了。）	拉拉	（今天終於就是祭典了。\n　音樂劇已經準備完成，蒂歐娜將會登上舞台。）
+Date_NPC9_05ID	1	Lara	ララ	（あの時、彼女は皆のための歌を作ると\n　言いました。その約束を守るべく、\n　ずっと調整を続けていたのです）	Lara	(She promised to make her songs more suitable for a wider audience, which she must have been working hard to fulfill.)	拉拉	（那时她说要为大家创作歌曲。\n　为了信守诺言，\n　她一直在进行调整。）	拉拉	（那時她說要創作獻給大家的歌，\n　為了遵守約定，她一直不斷調整內容。）
+Date_NPC9_05ID	2	Lara	ララ	（そして彼女が初めて作った音楽劇が\n　始まり、今――）	Lara	(And so, the curtain rises on her first-ever opera...)	拉拉	（现在，她第一次创作的音乐剧就要开始了——）	拉拉	（而她首次創作的音樂劇終於拉開序幕，此刻──）
+Date_NPC9_05ID	3	Lara	ララ	（この舞台は……いえ。\n　わたくしたちの世界は彼女の支配下にありました）	Lara	(She has the theater... No, she has our entire world under her thrall.)	拉拉	（这个舞台……\n　不，我们的世界都由她支配。）	拉拉	（這座舞台……不，我們的世界都在她的掌控中。）
+Date_NPC9_05ID	4	Diona	ディオーナ	くすんだ景色を耕して　いつしか緑が溢れ出る\nそうして実るは黄金色　歌おう我らを繋ぐ音	Diona	The barren earth was tilled and tamed, soon giving way to green sprouts that matured into rich, golden hues.	蒂欧娜	耕耘于黯淡的风景，不知不觉绿色满溢，\n随后变为金色的收获，唱响连接你我的歌声。	蒂歐娜	耕耘黯淡的景色，直到綠意萌生，\n結成金黃色的果實。唱出連繫我們的歌聲吧。
+Date_NPC9_05ID	5	Diona	ディオーナ	さあ、友よ！　あなたたちの声が聞こえる\n今より我が奏でるは　皆からもらい受けた音	Diona	Come, my friends! Let us sing in harmony! I have heard your voices, and will henceforth echo them in my music.	蒂欧娜	啊，朋友啊！我能听到你们的歌声，\n如今奏响的，是来自你们的歌声。	蒂歐娜	來吧，朋友們！我聽得見你們的聲音。\n此刻我所演奏的是大家給予我的聲音。
+Date_NPC9_05ID	6	Lara	ララ	（この歌は、きっとディオーナ自身のことを歌った歌。\n　彼女から皆へ送る歌ですわね）	Lara	(I'm certain that this song is about Diona, giving herself to everyone through music.)	拉拉	（这首歌一定是在唱蒂欧娜自己。\n　是她送给大家的歌。）	拉拉	（這首歌唱的想必是蒂歐娜自己，\n　這是她送給大家的歌。）
+Date_NPC9_05ID	7	Lara	ララ	（伝わってきますわ。あなたの、皆への想いが）	Lara	(I can hear her feelings for them quite clearly.)	拉拉	（你对大家的感情，全都传递出来了。）	拉拉	（我感受到妳對大家的心意了。）
+Date_NPC9_05ID	8	Diona	ディオーナ	皆で歌おう　我らの星を～♪	Diona	O, sing, in honor of our star...	蒂欧娜	大家一起歌唱吧，我们的星星～	蒂歐娜	大家一起唱吧！為我們的星星歌唱～
+Date_NPC9_05ID	9	Lara	ララ	（！　これは、先日聞いたフレーズですわね。\n　サビの繰り返し……皆で歌おう、ですか）	Lara	(Oh! This is the line she was singing the other day. I see. She turned it into the chorus to allow the audience to sing along.)	拉拉	（啊！这是前几天听到的句子。\n　副歌重复的部分，“大家一起歌唱”……）	拉拉	（啊！這是上次聽到的段落。\n　原來這段是循環的副歌……「大家一起唱」嗎……）
+Date_NPC9_05ID	10	Lara	ララ	……	Lara	...	拉拉	……	拉拉	……
+Date_NPC9_05ID	11	Lara	ララ	皆で歌おう　我らの星を～♪	Lara	O, sing, in honor of our star...	拉拉	大家一起歌唱吧，我们的星星～	拉拉	大家一起唱吧！為我們的星星歌唱～
+Date_NPC9_05ID	12	Diona	ディオーナ	っ！	Diona	Oh!	蒂欧娜	唔！	蒂歐娜	唔！
+Date_NPC9_05ID	13	Diona	ディオーナ	皆で歌おう　我らの星を～♪	Diona	O, sing, in honor of our star...	蒂欧娜	大家一起歌唱吧，我们的星星～	蒂歐娜	大家一起唱吧！為我們的星星歌唱～
+Date_NPC9_05ID	14		観客A	……おい、ララ様が歌っているぞ！	Fan A	Hey! Queen Lara's singing!	观众A	……快看，拉拉大人在唱歌呢！	觀眾A	……喂，拉拉大人在唱歌耶！
+Date_NPC9_05ID	15		観客B	同じフレーズを繰り返してるわ。\n私たちも続きましょう！	Fan B	I get it, it's one of those call and response things. We'd better join in too!	观众B	在重复同样的段落。\n我们也一起唱吧！	觀眾B	她不斷唱著同樣的歌詞，\n我們也跟著唱吧！
+Date_NPC9_05ID	16		みんな	皆で歌おう　我らの星を～♪	Everyone	O, sing, in honor of our star...	所有人	大家一起歌唱吧，我们的星星～	大家	大家一起唱吧！為我們的星星歌唱～
+Date_NPC9_05ID	17	Lara	ララ	お疲れさまですわ、ディオーナ	Lara	That was a fabulous performance, Diona.	拉拉	辛苦了，蒂欧娜。	拉拉	蒂歐娜，辛苦了。
+Date_NPC9_05ID	18	Diona	ディオーナ	ララ様！　先程はありがとうございました！\nまさかララ様が私の曲を歌ってくださる\nなんて……	Diona	Queen Lara! Thank you for your earlier support! I never would have imagined that you would be singing one of my own songs...	蒂欧娜	拉拉大人，刚才真是太感谢了！\n没想到您居然会唱我的歌……	蒂歐娜	拉拉大人！剛才真是太謝謝您了！\n沒想到拉拉大人竟然會唱我的歌……
+Date_NPC9_05ID	19	Lara	ララ	わたくしだけではありませんわ。\n皆が歌っておりましたもの	Lara	Why, it was not only me. The entire audience accompanied you.	拉拉	不只是我在唱，\n大家都唱了哦。	拉拉	不只是我，大家也都唱了。
+Date_NPC9_05ID	20	Lara	ララ	この歌は聞きに来ていた多くの民の心に\n響いたのです。そして、わたくしたちの心が\n一つになった	Lara	Your music resonated with everyone in attendance, uniting their hearts as one.	拉拉	这首歌打动了许多来听歌的观众们，\n我们的心都连在了一起呢。	拉拉	這首歌感動了許多前來聆聽的人民，\n並且將我們的心連繫在一起。
+Date_NPC9_05ID	21	Lara	ララ	これは他でもない、あなたの功績ですわ	Lara	That achievement can be claimed by none other than yourself.	拉拉	这全都是你的功劳哦。	拉拉	這全是妳一人的功勞。
+Date_NPC9_05ID	22	Diona	ディオーナ	……はい！	Diona	Thank you, Your Majesty!	蒂欧娜	……嗯！	蒂歐娜	……是！
+Date_NPC9_05ID	23	Diona	ディオーナ	私は今日、また歌手として成長できました。\nこれは私の力で成し遂げたことであると\n共に、やはりララ様のおかげでもあるんです	Diona	I grew today as a performer. While that was certainly through my own abilities, it was also thanks to you.	蒂欧娜	作为歌手，我今天又获得了进步。\n这既是靠我自己的力量，\n也还是多亏了拉拉大人的帮助。	蒂歐娜	身為歌手，我今天又成長了不少。\n今天的成就除了靠自身努力，\n也有一部分是託了拉拉大人的福。
+Date_NPC9_05ID	24	Diona	ディオーナ	色々なものを見るようになったとしても、\n一番輝いているものはやはり\n変わりませんでした	Diona	Though I may have broadened my perspective, the most dazzling thing in my view remains the same.	蒂欧娜	我现在学会关注各种事物了，\n但最耀眼的人依旧没有改变。	蒂歐娜	即便見過各式各樣的人，\n拉拉大人依舊是我心中最閃耀的那顆星星。
+Date_NPC9_05ID	25	Diona	ディオーナ	私はこれからもララ様についていきます。\nララ様や民のために、歌わせてください！	Diona	I will follow you forever, Your Majesty. Please let me continue singing for you and the kingdom's citizens!	蒂欧娜	今后我也会追随拉拉大人。\n请允许我为了拉拉大人和国民们唱歌！	蒂歐娜	我接下來也會繼續追隨拉拉大人。\n請讓我為拉拉大人和王國的人民獻聲！
+Date_NPC9_05ID	26	Lara	ララ	もちろんですわ。\nそれではディオーナ、行きますわよ！	Lara	Why, that goes without saying. This is only the beginning, Diona!	拉拉	那是当然了。\n好了蒂欧娜，我们走吧！	拉拉	當然沒問題。那麼蒂歐娜，走吧！
+Date_NPC9_05ID	27	Diona	ディオーナ	はい、ララ様！	Diona	Yes, my queen!	蒂欧娜	好的，拉拉大人！	蒂歐娜	好的，拉拉大人！
+Date_NPC9_05ID	28	Lara	ララ	（ディオーナ……わたくしの大切な\n　民であり、臣下であり、\n　かけがえのない存在）	Lara	(Diona is one of my precious citizens and beloved retainers. There is no one else quite like her.)	拉拉	（蒂欧娜……她是我最重要的国民、大臣，\n　是不可替代的存在。）	拉拉	（蒂歐娜……不僅是我珍視的子民，\n　也是重要的臣子。\n　她已然成為不可或缺的存在。）
+Date_NPC9_05ID	29	Lara	ララ	（彼女の力になれたのなら、\n　王としてこんなに嬉しいことは\n　ありませんわね）	Lara	(It pleases me to no end that I am able to support her in my position as ruler.)	拉拉	（身为国王，没有什么比能帮上她\n　更令人高兴的了。）	拉拉	（對身為君主的我來說，\n　沒有比成為她的力量更令人開心的事了。）

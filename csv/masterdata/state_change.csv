@@ -38,7 +38,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 510060	白夜の護衛所持時与ダメージUP	Midnight Sun's Guard Dealt Damage Up	拥有白夜护卫时造成伤害提升	持有白夜護衛時給予傷害上升	「白夜の護衛」を所持している時、スキルダメージ+{value}%	When Midnight Sun's Guard is active, boosts skill damage by {value}%.	拥有“白夜护卫”时，技能伤害+{value}%。	持有「白夜護衛」時，技能傷害+{value}%。
 510061	野生の本能	Primal Instincts	野生的本能	野生的本能	物攻+{value}%(上限25%)	Boosts P. ATK by {value}%. (MAX 25%)	物攻+{value}%（上限25%）。	物攻+{value}%（上限25%）。
 510062	カウンター無効	Nullify Counter	还击无效	還擊無效	カウンター攻撃から受けるダメージを無効	Nullifies damage received from counterattacks.	受到的还击伤害无效。	所受還擊攻擊傷害無效。
-510063	盛り上がり上昇中！				物攻+{value}%(上限100%)			
+510063	盛り上がり上昇中！	Rising Excitement!	心情持续高涨中！	氣氛高漲中！	物攻+{value}%(上限100%)	Boosts P. ATK by {value}%. (MAX 100%)	物攻+{value}%（上限100%）。	物攻+{value}%（上限100%）。
 510064	イッツ・ショータイム	It's Showtime	秀场时间	表演時刻	クリティカルダメージ+{value}%(上限30%)	Boosts critical damage by {value}%. (MAX 30%)	暴击伤害+{value}%（上限30%）。	重擊傷害+{value}%（上限30%）。
 510065	ブレイクダメージUP	Stun Damage Up	破防伤害提升	破防傷害上升	ブレイクダメージ+{value}%(上限30%)	Boosts stun damage by {value}%. (MAX 30%)	破防伤害+{value}%（上限30%）。	破防傷害+{value}%（上限30%）。
 510067	ここは師匠に任せなさい	Leave This to Your Mentor	这里就交给师父吧	這裡就交給師父吧	パーティの誰かが戦闘アイテム使用後、味方全員に「マイナス効果無効」を1回行動終了するまで付与(発動上限3回)<br>※アイテムを複数同時に使用しても発動は1回	After a party member uses a battle item, grants Negative Effects Immunity to all allies for 1 turn. (MAX 3 times)<br>Note: Even when using multiple items at the same time, this effect will only activate once.	队伍成员使用战斗道具后，赋予我方全体“负面效果无效”，1次行动结束后失效（最多发动3次）。<br>※即使同时使用多个道具，此效果也只发动1次。	隊伍任意成員使用戰鬥道具後，賦予我方全體「減弱效果無效」，直到行動結束1次為止（發動上限3次）。<br>※即使同時使用多個道具也只會發動1次。
@@ -53,12 +53,12 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 510076	目覚める闘魂	Awakening Fighting Spirit	觉醒的斗魂	覺醒的鬥魂	カウンター攻撃から受けるダメージを無効	Nullifies damage received from counterattacks.	受到的还击伤害无效。	所受還擊攻擊傷害無效。
 510077	新しいアタシ！	A Brand New Me!	新的自我！	嶄新的我！	スキルで撃破時、バーストスキルダメージ+{value}%(上限100%)	Boosts burst skill damage by {value}% when defeating an enemy with a skill. (MAX 100%)	使用技能击败目标时，爆发技能伤害+{value}%（上限100%）。	以技能擊破時，爆發技能傷害+{value}%（上限100%）。
 510078	魔攻UP	M. ATK Up	魔攻提升	魔攻上升	魔攻+{value}%(上限50%)	Boosts M. ATK by {value}%. (MAX 50%)	魔攻+{value}%（上限50%）。	魔攻+{value}%（上限50%）。
-510080	来たぜ、好機！				スキル2の貫通力+{value}(上限100)			
-510082	盛り上がり上昇中！				突属性ダメージ+{value}%(上限5個)			
-510083	喧嘩屋マクダ様につづけぇ！				攻撃対象を「強制ブレイク」			
-510084	来たぜ、好機！				スキルダメージ+{value}%			
-510085	邪魔するヤツは許さない				攻撃後、対象に受けるダメージ+{value}%を1回攻撃を受けるまで付与(上限4個)			
-510086	与ダメージUP				スキルダメージ+{value}%(上限150%)			
+510080	来たぜ、好機！	This Is It! My Chance!	好机会到来！	好機會來啦！	スキル2の貫通力+{value}(上限100)	Boosts Skill 2 penetration by {value}. (MAX 100)	技能2穿透力+{value}（上限100）。	技能2的貫穿力+{value}（上限100）。
+510082	盛り上がり上昇中！	Rising Excitement!	心情持续高涨中！	氣氛高漲中！	突属性ダメージ+{value}%(上限5個)	Boosts Stab damage by {value}%. (MAX 5 turns)	突刺属性伤害+{value}%（上限5层）。	突屬性傷害+{value}%（上限5個）。
+510083	喧嘩屋マクダ様につづけぇ！	Follow the Brawl Master!	跟着我上！	跟隨打架專家瑪格達吧！	攻撃対象を「強制ブレイク」	Force stuns attack target.	使攻击目标“强制破防”。	使攻擊目標「強制破防」。
+510084	来たぜ、好機！	This Is It! My Chance!	好机会到来！	好機會來啦！	スキルダメージ+{value}%	Boosts skill damage by {value}%.	技能伤害+{value}%。	技能傷害+{value}%。
+510085	邪魔するヤツは許さない	None Shall Stand in My Way	妨碍之人不可原谅	礙事者不可饒恕	攻撃後、対象に受けるダメージ+{value}%を1回攻撃を受けるまで付与(上限4個)	After attacking, boosts target's damage received by {value}% for 1 attack. (MAX 4)	攻击后，赋予目标“所受伤害+{value}%”，受到1次攻击后失效（上限4层）。	攻擊後，賦予目標所受傷害+{value}%，直到受1次攻擊為止（上限4個）。
+510086	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(上限150%)	Boosts skill damage by {value}%. (MAX 150%)	技能伤害+{value}%（上限150%）。	技能傷害+{value}%（上限150%）。
 510087	「解放」を始めましょう				パーティの誰かがアイテム使用後、自身に「強制ブレイク」を1回行動終了するまで付与(発動上限3回)<br>※アイテムを複数同時に使用しても発動は1回			
 510088	「解放」を始めましょう				攻撃対象を「強制ブレイク」			
 510089	福招く一撃				スキルで撃破時、魔攻+{value}%(上限100%)			
@@ -96,8 +96,8 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 560073	対象が火傷の時与ダメージUP	Damage Up on Burning Target	目标火伤时，造成伤害提升	目標燒傷時給予傷害上升	火傷状態の敵へのダメージ+{value}%	Boosts damage dealt to enemies inflicted with Burn by {value}%.	对火伤状态敌人的伤害+{value}%。	對燒傷狀態的敵人的傷害+{value}%。
 560074	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%	Reduces damage received by {value}%.	所受伤害-{value}%。	所受傷害-{value}%。
 560075	バーストブレイクダメージUP	Burst Stun Damage Up	爆发破防伤害提升	爆發破防傷害上升	バーストブレイクダメージ+{value}%	Boosts burst skill stun damage by {value}%.	爆发破防伤害+{value}%。	爆發破防傷害上升+{value}%。
-560076	麻痺耐性UP				麻痺耐性+{value}%			
-560077	攻撃後突属性被ダメージUP付与				攻撃後、対象に「受ける突属性ダメージ+{value}%」を付与			
+560076	麻痺耐性UP	Paralysis Resistance Up	麻痹耐性提升	麻痺耐性上升	麻痺耐性+{value}%	Boosts Paralysis resistance by {value}%.	麻痹耐性+{value}%。	麻痺耐性+{value}%。
+560077	攻撃後突属性被ダメージUP付与	Stab Damage Up after Attack	赋予攻击后所受突刺属性伤害提升	攻擊後賦予所受突屬性傷害上升	攻撃後、対象に「受ける突属性ダメージ+{value}%」を付与	After attacking, boosts target's Stab damage received by {value}%.	攻击后，赋予目标“所受突刺属性伤害+{value}%”。	攻擊後，賦予目標「所受突屬性傷害+{value}%」。
 560078	対象がスタンの時与ダメージUP				スタン状態の敵へのダメージ+{value}%			
 610001	HP上限UP	HP Limit Up	HP上限提升	HP上限提升	最大HP+{value}%(上限25%)	Boosts max HP by {value}%. (MAX 25%)	HP上限+{value}%（上限25%）。	HP最大值+{value}%（上限25%）。
 610002	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(上限4%)	Boosts skill damage by {value}%. (MAX 4%)	技能伤害+{value}%（上限4%）。	技能傷害+{value}%（上限4%）。
@@ -209,31 +209,31 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 610135	物理被ダメージUP	Received P. Damage Up	所受物理伤害提升	所受物理傷害上升	受ける物理攻撃スキルダメージ+{value}%(上限30%)	Boosts received physical damage by {value}%. (MAX 30%)	所受物理伤害提升+{value}%（上限30%）。	所受物理傷害提升+{value}%（上限30%）。
 610136	クリティカル率UP	Critical Rate Up	暴击率提升	重擊率上升	クリティカル確率+{value}%(上限100%)	Boosts critical rate by {value}%. (MAX 100%)	暴击率+{value}%（上限100%）。	重擊率+{value}%（上限100%）。
 610137	クリティカルダメージUP	Critical Damage Up	暴击伤害提升	重擊傷害上升	クリティカルダメージ+{value}%(上限50%)	Boosts critical damage by {value}%. (MAX 50%)	暴击伤害+{value}%（上限50%）。	重擊傷害+{value}%（上限50%）。
-610138	物攻UP				物攻+{value}%(上限30%)			
-610139	物理被ダメージUP				受ける物理攻撃ダメージ+{value}%(上限100%)			
-610140	状態異常耐性ダウンを付与				攻撃前、対象に状態異常耐性-{value}%(上限50%)を1回行動終了するまで付与			
-610141	麻痺を超高確率で付与				攻撃後、対象に麻痺を1回行動開始するまで超高確率で付与			
-610143	物攻UP				物攻+{value}%(上限15%)			
-610144	被ダメージ：突UP				突属性攻撃から受けるダメージ+{value}%(上限4個)			
-610145	強化系パネルから受ける強化効果量UP				強化系パネルから受ける強化効果量+{value}%(重複不可)			
-610146	状態異常耐性DOWN				悪性状態異常耐性-{value}%(上限50%)			
-610147	喧嘩屋の一撃				ターン開始時、行動不能になる			
-610148	スキル威力UP				スキル威力+{value}%(上限60%)			
-610149	スキル威力UP				スキル威力+{value}%(上限100%)			
-610150	物攻UP				物攻+{value}%(上限30%)			
+610138	物攻UP	P. ATK Up	物攻提升	物攻上升	物攻+{value}%(上限30%)	Boosts P. ATK by {value}%. (MAX 30%)	物攻+{value}%（上限30%）。	物攻+{value}%（上限30%）。
+610139	物理被ダメージUP	Received P. Damage Up	所受物理伤害提升	所受物理傷害上升	受ける物理攻撃ダメージ+{value}%(上限100%)	Boosts physical attack damage received by {value}%. (MAX 100%)	所受物理攻击伤害+{value}%（上限100%）。	所受物理攻擊傷害+{value}%（上限100%）。
+610140	状態異常耐性ダウンを付与	Inflict SE Resistance Down	赋予异常状态耐性下降	賦予異常狀態耐性下降	攻撃前、対象に状態異常耐性-{value}%(上限50%)を1回行動終了するまで付与	Before attacking, reduces target's status effect resistance by {value}% for 1 turn. (MAX 50%)	攻击前，赋予目标异常状态耐性-{value}%（上限50%），回合开始1次后失效。	攻擊前，賦予目標異常狀態耐性-{value}%（上限50%），直到行動開始1次為止。
+610141	麻痺を超高確率で付与	Inflict Paralysis (Very High Chance)	超高概率赋予麻痹	超高機率賦予麻痺	攻撃後、対象に麻痺を1回行動開始するまで超高確率で付与	After attacking, there is a very high chance to inflict the target with Paralysis for 1 turn.	攻击后，超高概率赋予目标“麻痹”，回合开始1次后失效。	攻擊後，超高機率賦予目標「麻痺」，直到行動開始1次為止。
+610143	物攻UP	P. ATK Up	物攻提升	物攻上升	物攻+{value}%(上限15%)	Boosts P. ATK by {value}%. (MAX 15%)	物攻+{value}%（上限15%）。	物攻+{value}%（上限15%）。
+610144	被ダメージ：突UP	Received Damage: Stab Up	所受伤害：突刺提升	所受傷害：突上升	突属性攻撃から受けるダメージ+{value}%(上限4個)	Boosts damage received from Stab attacks by {value}%. (MAX 4)	所受突刺属性攻击伤害+{value}%（上限4层）。	來自突屬性攻擊的傷害+{value}%（上限4個）。
+610145	強化系パネルから受ける強化効果量UP	Received Buff Effects Up (Boost-Type Panel)	所受强化类面板效果量提升	所受強化系面板的強化效果量上升	強化系パネルから受ける強化効果量+{value}%(重複不可)	Boosts the potency of buff effects received from boost-type panels by {value}%. (Cannot be stacked)	所受强化类面板效果量+{value}%（不可重复）。	所受強化系面板的強化效果量+{value}%（不可重複）。
+610146	状態異常耐性DOWN	Status Effect Resist Down	异常状态耐性下降	異常狀態耐性下降	悪性状態異常耐性-{value}%(上限50%)	Reduces resistance to bad status effects by {value}%. (MAX 50%)	负面异常状态耐性-{value}%（上限50%）。	惡性異常狀態耐性-{value}%（上限50%）。
+610147	喧嘩屋の一撃	Brawl Master's Blow	打手的一击	打架專家的一擊	ターン開始時、行動不能になる	Becomes immobilized at the start of the turn.	回合开始时，无法行动。	回合開始時，無法行動。
+610148	スキル威力UP	Skill Power Up	技能威力提升	技能威力上升	スキル威力+{value}%(上限60%)	Boosts skill power by {value}%. (MAX 60%)	技能威力+{value}%（上限60%）。	技能威力+{value}%（上限60%）。
+610149	スキル威力UP	Skill Power Up	技能威力提升	技能威力上升	スキル威力+{value}%(上限100%)	Boosts skill power by {value}%. (MAX 100%)	技能威力+{value}%（上限100%）。	技能威力+{value}%（上限100%）。
+610150	物攻UP	P. ATK Up	物攻提升	物攻上升	物攻+{value}%(上限30%)	Boosts P. ATK by {value}%. (MAX 30%)	物攻+{value}%（上限30%）。	物攻+{value}%（上限30%）。
 610151	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(上限30%)	Boosts skill damage by {value}%. (MAX 30%)	技能伤害+{value}%（上限30%）。	技能傷害+{value}%（上限30%）。
 610152	突ダメージUP	Stab Damage Up	突刺伤害提升	突傷害上升	突属性スキルダメージ+{value}%(上限30%)	Boosts Stab skill damage by {value}%. (MAX 30%)	突刺属性技能伤害+{value}%（上限30%）。	突屬性技能傷害+{value}%（上限30%）。
-610153	物攻UP				物攻+{value}%(上限20%)			
-610155	WEAK時与ダメージアップ				WEAK攻撃時、スキルダメージ+{value}%(上限100%)			
-610157	被ダメージ：雷UP				雷属性攻撃から受けるダメージ+{value}%(上限60%)			
-610159	魔法被ダメージUP				受ける魔法攻撃スキルダメージ+{value}%(上限100%)			
-610160	被クリティカルダメージUP				受けるクリティカルダメージ+{value}%(上限150%)			
-610162	魔攻UP				魔攻+{value}%(上限30%)			
-610163	風ダメージUP				風属性スキルダメージ+{value}%(上限100%)			
-610164	余剰クリティカル率変換				自身のクリティカル確率が100%を超えている場合、攻撃時、100%を超えたクリティカル確率の上昇量をクリティカルダメージアップに変換(変換上限200%)			
-610165	雷耐性DOWN				雷属性攻撃から受けるダメージ+{value}%(上限4個)			
-610166	被ダメージUP				受けるダメージ+{value}%(上限4個)			
-610167	魔攻UP				魔攻+{value}%(上限50%)			
+610153	物攻UP	P. ATK Up	物攻提升	物攻上升	物攻+{value}%(上限20%)	Boosts P. ATK by {value}%. (MAX 20%)	物攻+{value}%（上限20%）。	物攻+{value}%（上限20%）。
+610155	WEAK時与ダメージアップ	Damage Up Vs. Weakness	WEAK时造成伤害提升	WEAK時給予傷害上升	WEAK攻撃時、スキルダメージ+{value}%(上限100%)	Boosts skill damage by {value}% when attacking a weakness. (MAX 100%)	发动WEAK攻击时，技能伤害+{value}%（上限100%）。	WEAK攻擊時，技能傷害+{value}%（上限100%）。
+610157	被ダメージ：雷UP	Received Damage: Bolt Up	所受伤害：雷提升	所受傷害：雷上升	雷属性攻撃から受けるダメージ+{value}%(上限60%)	Boosts damage received from Bolt attacks by {value}%. (MAX 60%)	来自雷属性攻击的伤害+{value}%（上限60%）。	來自雷屬性攻擊的傷害+{value}%（上限60%）。
+610159	魔法被ダメージUP	Received M. Damage Up	所受魔法伤害提升	所受魔法傷害上升	受ける魔法攻撃スキルダメージ+{value}%(上限100%)	Boosts magic skill damage received by {value}%. (MAX 100%)	所受魔法攻击技能伤害+{value}%（上限100%）。	所受魔法攻擊技能傷害+{value}%（上限100%）。
+610160	被クリティカルダメージUP	Received Critical Damage Up	所受暴击伤害提升	所受重擊傷害上升	受けるクリティカルダメージ+{value}%(上限150%)	Boosts critical damage received by {value}%. (MAX 150%)	所受暴击伤害+{value}%（上限150%）。	所受重擊傷害+{value}%（上限150%）。
+610162	魔攻UP	M. ATK Up	魔攻提升	魔攻上升	魔攻+{value}%(上限30%)	Boosts M. ATK by {value}%. (MAX 30%)	魔攻+{value}%（上限30%）。	魔攻+{value}%（上限30%）。
+610163	風ダメージUP	Air Damage Up	风伤害提升	風傷害上升	風属性スキルダメージ+{value}%(上限100%)	Boosts Air skill damage by {value}%. (MAX 100%)	风属性技能伤害+{value}%（上限100%）。	風屬性技能傷害+{value}%（上限100%）。
+610164	余剰クリティカル率変換	Surplus Critical Rate Conversion	溢出暴击率转换	多餘重擊率轉換	自身のクリティカル確率が100%を超えている場合、攻撃時、100%を超えたクリティカル確率の上昇量をクリティカルダメージアップに変換(変換上限200%)	When attacking, if own critical rate exceeds 100%, boosts critical damage by the critical rate amount exceeding 100%. (MAX 200% converted)	自身暴击率超过100%的状态下，攻击时，将超过100%部分的暴击率提升量转换为暴击伤害提升（转换上限200%）。	若自身重擊率超過100%，攻擊時，將超過100%的重擊率上升量轉換為重擊傷害上升（轉換上限200%）。
+610165	雷耐性DOWN	Bolt Resistance Down	雷耐性下降	雷耐性下降	雷属性攻撃から受けるダメージ+{value}%(上限4個)	Boosts damage received from Bolt attacks by {value}%. (MAX 4)	所受雷属性攻击伤害+{value}%（上限4层）。	來自雷屬性攻擊的傷害+{value}（上限4個）%。
+610166	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%(上限4個)	Boosts damage received by {value}%. (MAX 4)	所受伤害+{value}%（上限4层）。	所受傷害+{value}%（上限4個）。
+610167	魔攻UP	M. ATK Up	魔攻提升	魔攻上升	魔攻+{value}%(上限50%)	Boosts M. ATK by {value}%. (MAX 50%)	魔攻+{value}%（上限50%）。	魔攻+{value}%（上限50%）。
 610168	ブレイクダメージUP				ブレイクダメージ+{value}%(上限40%)			
 610169	被ダメージ雷：UP				雷属性攻撃から受けるダメージ+{value}%(上限150%)			
 610170	強化系パネルから受ける強化効果量UP				強化系パネルから受ける強化効果量+{value}%(重複不可)			
@@ -365,16 +365,16 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 800094	魔法ダメージUP	Magic Damage Up	魔法伤害提升	魔法傷害上升	魔法攻撃ダメージ+{value}%(上限15%)	Boosts magic attack damage by {value}%. (MAX 15%)	魔法攻击伤害+{value}%（上限15%）。	魔法攻擊傷害+{value}%（上限15%）。
 800095	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(重複不可)	Boosts skill damage by {value}%. (Cannot be stacked)	技能伤害+{value}%（不可重复）。	技能傷害+{value}%（不可重複）。
 800096	物防UP	P. DEF Up	物防提升	物防上升	物防+{value}%(重複不可)	Boosts P. DEF by {value}%. (Cannot be stacked)	物防+{value}%（不可重复）。	物防+{value}%（不可重複）。
-800097	バーストダメージUP				バーストスキルダメージ+{value}%(重複不可)			
-800098	与ダメージDOWN				ダメージ-{value}%(上限12%)			
-800099	与ダメージDOWN				ダメージ-{value}%(上限9%)			
-800100	WEAK攻撃時与ダメージUP				WEAK攻撃時、スキルダメージ+{value}%(重複不可)			
-800101	魔法攻撃ダメージUP				魔法攻撃ダメージ+{value}%(重複不可)			
-800102	魔法攻撃ダメージUP				魔法攻撃ダメージ+{value}%(重複不可)			
-800103	クリティカルダメージUP				クリティカルダメージ+{value}%(重複不可)			
-800104	与ダメージUP				スキルダメージ+{value}%(重複不可)			
-800105	クリティカルダメージUP				クリティカルダメージ+{value}%(重複不可)			
-800106	与ダメージUP				スキルダメージ+{value}%(重複不可)			
+800097	バーストダメージUP	Burst Damage Up	爆发伤害提升	爆發傷害上升	バーストスキルダメージ+{value}%(重複不可)	Boosts burst skill damage by {value}%. (Cannot be stacked)	爆发技能伤害+{value}%（不可重复）。	爆發技能傷害+{value}%（不可重複）。
+800098	与ダメージDOWN	Dealt Damage Down	造成伤害下降	給予傷害下降	ダメージ-{value}%(上限12%)	Reduces damage by {value}%. (MAX 12%)	伤害-{value}%（上限12%）。	傷害-{value}%（上限12%）。
+800099	与ダメージDOWN	Dealt Damage Down	造成伤害下降	給予傷害下降	ダメージ-{value}%(上限9%)	Reduces damage by {value}%. (MAX 9%)	伤害-{value}%（上限9%）。	傷害-{value}%（上限9%）。
+800100	WEAK攻撃時与ダメージUP	Weakness Attack Damage Up	发动WEAK攻击时，造成伤害提升	WEAK攻擊時，給予傷害上升	WEAK攻撃時、スキルダメージ+{value}%(重複不可)	Boosts skill damage by {value}% when attacking a weakness. (Cannot be stacked)	发动WEAK攻击时，技能伤害+{value}%（不可叠加）。	WEAK攻擊時，技能傷害+{value}%（不可重複）。
+800101	魔法攻撃ダメージUP	Magic Attack Damage Up	魔法攻击伤害提升	魔法攻擊傷害上升	魔法攻撃ダメージ+{value}%(重複不可)	Boosts magic attack damage by {value}%. (Cannot be stacked)	魔法攻击伤害+{value}%（不可重复）。	魔法攻擊傷害+{value}%（不可重複）。
+800102	魔法攻撃ダメージUP	Magic Attack Damage Up	魔法攻击伤害提升	魔法攻擊傷害上升	魔法攻撃ダメージ+{value}%(重複不可)	Boosts magic attack damage by {value}%. (Cannot be stacked)	魔法攻击伤害+{value}%（不可重复）。	魔法攻擊傷害+{value}%（不可重複）。
+800103	クリティカルダメージUP	Critical Damage Up	暴击伤害提升	重擊傷害上升	クリティカルダメージ+{value}%(重複不可)	Boosts critical damage by {value}%. (Cannot be stacked)	暴击伤害+{value}%（不可重复）。	重擊傷害+{value}%（不可重複）。
+800104	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(重複不可)	Boosts skill damage by {value}%. (Cannot be stacked)	技能伤害+{value}%（不可重复）。	技能傷害+{value}%（不可重複）。
+800105	クリティカルダメージUP	Critical Damage Up	暴击伤害提升	重擊傷害上升	クリティカルダメージ+{value}%(重複不可)	Boosts critical damage by {value}%. (Cannot be stacked)	暴击伤害+{value}%（不可重复）。	重擊傷害+{value}%（不可重複）。
+800106	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(重複不可)	Boosts skill damage by {value}%. (Cannot be stacked)	技能伤害+{value}%（不可重复）。	技能傷害+{value}%（不可重複）。
 800107	スキル発動後自身HP回復				スキル発動後、自身のHPを{value}%回復(上限3個)			
 800108	スキル発動後自身HP回復				スキル発動後、自身のHPを{value}%回復(上限3個)			
 800109	被ダメージUP				受けるダメージ+{value}%			
@@ -412,7 +412,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 810037	条件付きダメージUP	Damage Up (Cond.)	附带条件伤害提升	在特定條件下傷害上升	自身のHPが50%以上の時、与ダメージ+{value}%	Boosts damage dealt by {value}% when own HP is 50% or higher.	自身HP不低于50%时，造成伤害+{value}%。	自身的HP在50%以上時，給予傷害+{value}%。
 810038	条件付きダメージ無効	Damage Immunity (Cond.)	附带条件伤害无效	在特定條件下傷害無效	自身の最大HPの20%以下のダメージを無効	Immune to all damage equal to 20% or less of own max HP.	不高于自身HP上限20%的伤害无效。	自身HP最大值20%以下的傷害無效。
 810042	条件付きダメージ無効	Damage Immunity (Cond.)	附带条件伤害无效	在特定條件下傷害無效	自身の最大HPの15%以下のダメージを無効	Immune to all damage equal to 15% or less of own max HP.	不高于自身HP上限15%的伤害无效。	自身HP最大值15%以下的傷害無效。
-810043	回避				回避確率{value}%			
+810043	回避	Evasion	回避	迴避	回避確率{value}%	Evasion rate {value}%.	回避概率{value}%。	迴避機率{value}%。
 810044	非クリティカルカウンター状態	Counter Vs. Non-critical	非暴击还击状态	非重擊還擊狀態	非クリティカル攻撃を受けた時、カウンター攻撃する	Counterattacks when hit by a non-critical attack.	受到非暴击攻击时，进行还击。	受到非重擊的攻擊時還擊。
 810046	条件付き被ダメージDOWN	Received Damage Down (Cond.)	附带条件所受伤害下降	在特定條件下所受傷害下降	非ブレイク状態の時、受けるダメージ-{value}%	When not stunned, reduces damage received by {value}%.	处于非破防状态时，所受伤害-{value}%。	非破防狀態時，所受傷害-{value}%。
 810047	条件付きクリティカル被ダメージDOWN	Received Critical Damage Down (Cond.)	附带条件所受暴击伤害下降	在特定條件下所受重擊傷害下降	非ブレイク状態の時、受けるクリティカルダメージ-{value}%	When not stunned, reduces critical damage received by {value}%.	处于非破防状态时，所受暴击伤害-{value}%。	非破防狀態時，所受重擊傷害-{value}%。
@@ -441,13 +441,13 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 810329	素早さUP	Speed Up	敏捷提升	敏捷上升	素早さ+{value}%	Boosts speed by {value}%.	敏捷+{value}%。	敏捷+{value}%。
 810330	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%	Reduces damage received by {value}%.	所受伤害-{value}%。	所受傷害-{value}%。
 810332	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%	Reduces damage received by {value}%.	所受伤害-{value}%。	所受傷害-{value}%。
-810333	火耐性UP(上限50％)				火属性耐性+{value}%(上限50％)			
-810334	氷耐性UP(上限50％)				氷属性耐性+{value}%(上限50％)			
-810335	雷耐性UP(上限50％)				雷属性耐性+{value}%(上限50％)			
-810336	風耐性UP(上限50％)				風属性耐性+{value}%(上限50％)			
-810337	突耐性UP(上限50％)				突属性耐性+{value}%(上限50％)			
-810338	斬耐性UP(上限50％)				斬属性耐性+{value}%(上限50％)			
-810339	打耐性UP(上限50％)				打属性耐性+{value}%(上限50％)			
+810333	火耐性UP(上限50％)	Fire Resistance Up (MAX 50%)	火耐性提升（上限50%）	火耐性上升（上限50%）	火属性耐性+{value}%(上限50％)	Boosts Fire resistance by {value}%. (MAX 50%)	火属性耐性+{value}%（上限50%）。	火屬性耐性+{value}%（上限50%）。
+810334	氷耐性UP(上限50％)	Ice Resistance Up (MAX 50%)	冰耐性提升（上限50%）	冰耐性上升（上限50%）	氷属性耐性+{value}%(上限50％)	Boosts Ice resistance by {value}%. (MAX 50%)	冰属性耐性+{value}%（上限50%）。	冰屬性耐性+{value}%（上限50%）。
+810335	雷耐性UP(上限50％)	Bolt Resistance Up (MAX 50%)	雷耐性提升（上限50%）	雷耐性上升（上限50%）	雷属性耐性+{value}%(上限50％)	Boosts Bolt resistance by {value}%. (MAX 50%)	雷属性耐性+{value}%（上限50%）。	雷屬性耐性+{value}%（上限50%）。
+810336	風耐性UP(上限50％)	Air Resistance Up (MAX 50%)	风耐性提升（上限50%）	風耐性上升（上限50%）	風属性耐性+{value}%(上限50％)	Boosts Air resistance by {value}%. (MAX 50%)	风属性耐性+{value}%（上限50%）。	風屬性耐性+{value}%（上限50%）。
+810337	突耐性UP(上限50％)	Stab Resistance Up (MAX 50%)	突刺耐性提升（上限50%）	突耐性上升（上限50%）	突属性耐性+{value}%(上限50％)	Boosts Stab resistance by {value}%. (MAX 50%)	突刺属性耐性+{value}%（上限50%）。	突屬性耐性+{value}%（上限50%）。
+810338	斬耐性UP(上限50％)	Slash Resistance Up (MAX 50%)	斩击耐性提升（上限50%）	斬耐性上升（上限50%）	斬属性耐性+{value}%(上限50％)	Boosts Slash resistance by {value}%. (MAX 50%)	斩击属性耐性+{value}%（上限50%）。	斬屬性耐性+{value}%（上限50%）。
+810339	打耐性UP(上限50％)	Strike Resistance Up (MAX 50%)	打击耐性提升（上限50%）	打耐性上升（上限50%）	打属性耐性+{value}%(上限50％)	Boosts Strike resistance by {value}%. (MAX 50%)	打击属性耐性+{value}%（上限50%）。	打屬性耐性+{value}%（上限50%）。
 820001	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%	Boosts damage received by {value}%.	所受伤害+{value}%。	所受傷害+{value}%。
 820002	与ダメージDOWN	Dealt Damage Down	造成伤害下降	給予傷害下降	スキルダメージ-{value}%	Reduces skill damage by {value}%.	技能伤害-{value}%。	技能傷害-{value}%。
 820003	魔法被ダメージUP	Received M. Damage Up	所受魔法伤害提升	所受魔法傷害上升	受ける魔法攻撃スキルダメージ+{value}%(上限300%)	Boosts magic skill damage received by {value}%. (MAX 300%)	所受魔法攻击技能伤害+{value}%（上限300%）。	所受魔法攻擊技能傷害+{value}%（上限300%）。
@@ -545,7 +545,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 820098	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%(上限250%)	Boosts damage received by {value}%. (MAX 250%)	所受伤害+{value}%（上限250%）。	所受傷害+{value}%（上限250%）。
 820099	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%(上限150%)	Boosts damage received by {value}%. (MAX 150%)	所受伤害+{value}%（上限150%）。	所受傷害+{value}%（上限150%）。
 820100	被クリティカルダメージUP	Received Critical Damage Up	所受暴击伤害提升	所受重擊傷害上升	受けるクリティカルダメージ+{value}%	Boosts critical damage received by {value}%.	所受暴击伤害+{value}%。	所受重擊傷害+{value}%。
-820102	確定クリティカル無効				確定クリティカル無効			
+820102	確定クリティカル無効	Guaranteed Critical Immunity	必定暴击无效	必定重擊無效	確定クリティカル無効	Guaranteed Critical Immunity.	必定暴击无效。	必定重擊無效。
 820103	全属性耐性DOWN	All Attribute Resistance Down	全属性耐性下降	全屬性耐性下降	全属性攻撃から受けるダメージ+{value}%	Boosts damage received from all attribute attacks by {value}%.	来自全属性攻击的伤害+{value}%。	來自全屬性攻擊的傷害+{value}%。
 820108	被ブレイクダメージUP	Received Stun Damage Up	所受破防伤害提升	所受破防傷害上升	受けるブレイクダメージ+{value}%(上限100%)	Boosts stun damage taken by {value}%. (MAX 100%)	所受破防伤害+{value}%（上限100%）。	所受破防傷害+{value}%（上限100%）。
 820324	与ダメージダウン(上限100%)	Dealt Damage Down (MAX 100%)	造成伤害下降（上限100%）	給予傷害下降（上限100%）	与えるダメージ-{value}%(上限100%)	Reduces damage dealt by {value}%. (MAX 100%)	造成伤害-{value}%（上限100%）。	給予傷害-{value}%（上限100%）。
@@ -668,9 +668,9 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 910125	自身のHP50%以下時クリティカルダメージUP	Critical Damage Up When Own HP <= 50%	自身HP不高于50%时，暴击伤害提升	自身的HP在50%以下時重擊傷害上升	自身のHPが50%以下の時、クリティカルダメージ+{value}%	Boosts critical damage by {value}% when own HP is 50% or lower.	自身HP不高于50%时，暴击伤害+{value}%。	自身的HP在50%以下時，重擊傷害+{value}%。
 910126	受ける強化効果量UP	Received Buff Effects Up	所受强化效果量提升	所受強化效果量上升	受ける強化効果量+{value}%	Boosts potency of buff effects received by {value}%.	所受强化效果的效果量+{value}%。	所受強化效果的效果量+{value}%。
 910127	自身のHP50%以上時クリティカルダメージUP	Critical Damage Up if Own HP>=50%	自身HP50%以上时暴击伤害提升	自身HP在50%以上時重擊傷害上升	自身のHPが50%以上の時、クリティカルダメージ+{value}%	Boosts critical damage by {value}% when own HP is 50% or higher.	自身HP不低于50%时，暴击伤害+{value}%。	自身的HP在50%以上時，重擊傷害+{value}%。
-910128	受ける攻撃のクリティカル率UP				受ける攻撃のクリティカル率+{value}%			
-910129	スキル威力UP				スキル威力UP			
-910130	マイナス効果が5個以上付与された敵を攻撃時与ダメージUP				攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{value}%			
+910128	受ける攻撃のクリティカル率UP	Received Attack Critical Rate Up	所受攻击的暴击率提升	所受攻擊的重擊率上升	受ける攻撃のクリティカル率+{value}%	Boosts critical rate of attacks received by {value}%.	所受攻击的暴击率+{value}%。	所受攻擊的重擊率+{value}%。
+910129	スキル威力UP	Skill Power Up	技能威力提升	技能威力上升	スキル威力UP	Boosts skill power.	技能威力提升。	技能威力上升。
+910130	マイナス効果が5個以上付与された敵を攻撃時与ダメージUP	Damage Up Vs. Enemy with 5+ Neg Effects	对带有不低于5个负面效果的敌方造成伤害提升	攻擊被賦予5個以上減弱效果的敵人時給予傷害上升	攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{value}%	Boosts skill damage by {value}% if the attack target has 5 or more negative effects.	若攻击目标被赋予5个及以上负面效果，技能伤害+{value}%。	攻擊目標被賦予5個以上減弱效果時，技能傷害+{value}%。
 910132	回避				回避確率{value}%(強化効果量変化の効果を受けない)			
 910134	被ダメージUP				受けるダメージ+{value}%(上限4個)			
 910135	魔攻UP				魔攻+{value}%(上限50%)			
@@ -991,19 +991,19 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1210308	行動時アイテムゲージ回復速度UP	Item Gauge Recovery Speed Up per Turn	行动时道具槽恢复速度提升	行動時道具量表回復速度上升	行動後のアイテムゲージ回復速度+200%	After turn, boosts item gauge recovery speed by 200%.	行动后，道具槽恢复速度+200%。	行動後道具量表回復速度+200%。
 1210309	行動時アイテムゲージ回復速度UP	Item Gauge Recovery Speed Up per Turn	行动时道具槽恢复速度提升	行動時道具量表回復速度上升	行動後のアイテムゲージ回復速度+100%	After turn, boosts item gauge recovery speed by 100%.	行动后，道具槽恢复速度+100%。	行動後道具量表回復速度+100%。
 1210310	条件付き与ダメージUP	Dealt Damage Up (Cond.)	附带条件造成伤害提升	在特定條件下給予傷害上升	自身がアタッカーの時、与えるダメージ+{value}%	Boosts damage dealt by {value}% for Attackers.	自身为攻击者时，造成伤害+{value}%。	自身為攻擊者時，給予傷害+{value}%。
-1210311	与ダメージUP(フィールド効果用)				与ダメージ+{value}%			
+1210311	与ダメージUP(フィールド効果用)	Dealt Damage Up (Field Effect)	造成伤害提升（用于原野效果）	給予傷害上升（原野效果用）	与ダメージ+{value}%	Boosts damage dealt by {value}%.	造成伤害+{value}%。	給予傷害+{value}%。
 1210312	行動時アイテムゲージ回復速度UP	Item Gauge Recovery Speed Up per Turn	行动时道具槽恢复速度提升	行動時道具量表回復速度上升	行動後のアイテムゲージ回復量増加+150%	Boosts item gauge recovery after turns by 150%.	行动后道具槽恢复量增加+150%。	行動後道具量表回復量+150%。
-1210315	行動後被ダメージDOWNを仲間全体に付与				行動後、受けるダメージ-{value}%(上限100%)を仲間全体に付与			
-1210316	行動後被ダメージUPを敵全体に付与				行動後、受けるダメージ+{value}%(上限100%)を敵全体に付与			
-1210317	ディフェンダーの行動時被ダメージDOWN				自身がディフェンダーの時、行動後味方全員に被ダメージDOWN-{value}%を付与			
-1210318	サポーターの行動時マイナス効果解除				自身がサポーターの時、行動後味方対象のマイナス効果を解除			
-1210319	サポーターの行動時状態異常解除				自身がサポーターの時、行動後味方対象の状態異常を解除			
-1210320	ブレイクダメージUP				与えるブレイクダメージUP+{value}%(上限100%)			
-1210321	ブレイカーの行動時ブレイクダメージUP				自身がブレイカーの時、行動後自身にブレイクダメージUPを付与			
-1210322	受ける強化効果量UP				受ける強化効果量UP+{value}%			
-1210323	被ダメージDOWN				受けるダメージ-{value}%(上限90%)			
-1210324	被ダメージDOWN				受けるダメージ-{value}%			
-1210325	WEAK攻撃時ブレイクダメージUP				WEAK攻撃時、ブレイクダメージ+{value}%			
+1210315	行動後被ダメージDOWNを仲間全体に付与	Received Damage Down on All Allies After Turn	行动后赋予我方全体所受伤害下降	行動後賦予所有夥伴所受傷害下降	行動後、受けるダメージ-{value}%(上限100%)を仲間全体に付与	After turn, reduces all allies' damage received by {value}%. (MAX 100%)	行动后，赋予我方全体所受伤害-{value}%（上限100%）。	行動後，賦予所有夥伴所受傷害-{value}%（上限100%）。
+1210316	行動後被ダメージUPを敵全体に付与	Received Damage Up on All Enemies After Turn	行动后赋予敌方全体所受伤害提升	行動後賦予敵方全體所受傷害上升	行動後、受けるダメージ+{value}%(上限100%)を敵全体に付与	After turn, boosts all enemies' damage received by {value}%. (MAX 100%)	行动后，赋予敌方全体所受伤害+{value}%（上限100%）。	行動後，賦予敵方全體所受傷害+{value}%（上限100%）。
+1210317	ディフェンダーの行動時被ダメージDOWN	Defender Received Damage Down After Turn	防御者行动时所受伤害下降	防禦者行動時所受傷害下降	自身がディフェンダーの時、行動後味方全員に被ダメージDOWN-{value}%を付与	If a Defender, after turn, reduces all allies' damage received by {value}%.	自身为防御者时，行动后赋予我方全体所受伤害下降{value}%。	自身為防禦者時，行動後賦予我方全體所受傷害下降-{value}%。
+1210318	サポーターの行動時マイナス効果解除	Supporter Remove Negative Effects After Turn	支援者行动时解除负面效果	解除支援者行動時的減弱效果	自身がサポーターの時、行動後味方対象のマイナス効果を解除	If a Supporter, after turn, removes negative effects from allies.	自身为支援者时，行动后解除我方目标的负面效果。	自身為支援者時，行動後解除我方目標的減弱效果。
+1210319	サポーターの行動時状態異常解除	Supporter Remove Status Effects After Turn	支援者行动时解除异常状态	解除支援者行動時的異常狀態	自身がサポーターの時、行動後味方対象の状態異常を解除	If a Supporter, after turn, removes a status effect from allies.	自身为支援者时，行动后解除我方目标的异常状态。	自身為支援者時，行動後解除我方目標的異常狀態。
+1210320	ブレイクダメージUP	Stun Damage Up	破防伤害提升	破防傷害上升	与えるブレイクダメージUP+{value}%(上限100%)	Boosts stun damage dealt by {value}%. (MAX 100%)	破防伤害提升{value}%（上限100%）。	給予破防傷害上升+{value}%（上限100%）。
+1210321	ブレイカーの行動時ブレイクダメージUP	Breaker Stun Damage Up After Turn	破坏者行动时破防伤害提升	破壞者行動時破防傷害上升	自身がブレイカーの時、行動後自身にブレイクダメージUPを付与	If a Breaker, after turn, boosts own stun damage.	自身为破坏者时，行动后赋予自身破防伤害提升。	自身為破壞者時，行動後賦予自身破防傷害上升。
+1210322	受ける強化効果量UP	Received Buff Effects Up	所受强化效果量提升	所受強化效果量上升	受ける強化効果量UP+{value}%	Boosts potency of buff effects received by {value}%.	所受强化效果量提升+{value}%。	所受強化效果量上升+{value}%。
+1210323	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%(上限90%)	Reduces damage received by {value}%. (MAX 90%)	所受伤害-{value}%（上限90%）。	所受傷害-{value}%（上限90%）。
+1210324	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%	Reduces damage received by {value}%.	所受伤害-{value}%。	所受傷害-{value}%。
+1210325	WEAK攻撃時ブレイクダメージUP	Weakness Stun Damage Up	发动WEAK攻击时，破防伤害提升	WEAK攻擊時破防傷害上升	WEAK攻撃時、ブレイクダメージ+{value}%	Boosts stun damage by {value}% when attacking a weakness.	发动WEAK攻击时，破防伤害+{value}%。	WEAK攻擊時，破防傷害+{value}%。
 1210331	行動時アイテムゲージ回復速度UP	Item Gauge Recovery Speed Up per Turn	行动时道具槽恢复速度提升	行動時道具量表回復速度上升	行動後のアイテムゲージ回復量増加+250%	Boosts item gauge recovery after turns by 250%.	行动后道具槽恢复量增加+250%。	行動後道具量表回復量+250%。
 1210340	行動後アイテムゲージ回復	Item Gauge Recovery After Turn	行动后恢复道具槽	行動後回復道具量表	行動後、アイテムゲージをさらに{value}%回復	Boosts item gauge recovery after turns by an additional {value}%.	行动后道具槽进一步恢复{value}%	行動後，進一步回復道具量表{value}%。
 1220005	単体攻撃ダメージDOWN	Single Damage Down	单体攻击伤害下降	單體攻擊傷害下降	単体攻撃スキルダメージ-{value}%	Reduces single-target attack skill damage by {value}%.	单体攻击技能伤害-{value}%。	單體攻擊技能傷害-{value}%。
@@ -1026,9 +1026,9 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1220026	条件付き与ダメージDOWN	Dealt Damage Down (Cond.)	附带条件造成伤害下降	在特定條件下給予傷害下降	自身がアタッカーの時、与えるダメージ-{value}%	Reduces damage dealt by {value}% for Attackers.	自身为攻击者时，造成伤害-{value}%。	自身為攻擊者時，給予傷害-{value}%。
 1220028	条件付き与ダメージDOWN	Dealt Damage Down (Cond.)	附带条件造成伤害下降	在特定條件下給予傷害下降	戦闘アイテム以外の、与えるダメージ-{value}%	Reduces all damage dealt except for battle items by {value}%.	战斗道具以外造成伤害-{value}%。	除了戰鬥道具以外，給予傷害-{value}%。
 1220033	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%	Boosts damage received by {value}%.	所受伤害+{value}%。	所受傷害+{value}%。
-1220037	行動後被ダメージUPを仲間全体に付与				行動後、受けるダメージ+{value}%(上限100%)を仲間全体に付与			
-1220038	行動後被ダメージDOWNを敵全体に付与				行動後、受けるダメージ-{value}%(上限100%)を敵全体に付与			
-1220039	被ダメージUP				受けるダメージ+{value}%(上限50%)			
+1220037	行動後被ダメージUPを仲間全体に付与	Received Damage Up on All Allies After Turn	行动后赋予我方全体所受伤害提升	行動後賦予所有夥伴所受傷害上升	行動後、受けるダメージ+{value}%(上限100%)を仲間全体に付与	After turn, boosts all allies' damage received by {value}%. (MAX 100%)	行动后，赋予我方全体所受伤害+{value}%（上限100%）。	行動後，賦予所有夥伴所受傷害+{value}%（上限100%）。
+1220038	行動後被ダメージDOWNを敵全体に付与	Received Damage Down on All Enemies After Turn	行动后赋予敌方全体所受伤害下降	行動後賦予敵方全體所受傷害下降	行動後、受けるダメージ-{value}%(上限100%)を敵全体に付与	After turn, reduces all enemies' damage received by {value}%. (MAX 100%)	行动后，赋予敌方全体所受伤害-{value}%（上限100%）。	行動後，賦予敵方全體所受傷害-{value}%（上限100%）。
+1220039	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%(上限50%)	Boosts damage received by {value}%. (MAX 50%)	所受伤害+{value}%（上限50%）。	所受傷害+{value}%（上限50%）。
 1220040	与ダメージDOWN				与えるダメージ-{value}%			
 1220041	与ブレイクダメージDOWN				与えるブレイクダメージ-{value}%			
 1220042	被ダメージUP				受けるダメージ+{value}%			

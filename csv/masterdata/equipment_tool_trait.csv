@@ -68,7 +68,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 67	WEAK時ブレイクダメージ上昇	Stun Damage Up on Weakness	WEAK时破防伤害提升	WEAK時破防傷害上升
 68	スキル2ブレイクダメージ上昇	Skill 2 Stun Damage Up	技能2破防伤害提升	技能2破防傷害上升
 69	属性耐性ダウン強化【火】	Enhanced Resistance Down [Fire]	属性耐性下降强化【火】	屬性耐性下降強化【火】
-70	属性耐性ダウン強化【突】			
+70	属性耐性ダウン強化【突】	Enhanced Resistance Down [Stab]	属性耐性下降强化【突刺】	屬性耐性下降強化【突】
 71	雷スキル威力上昇			
 72	氷スキル威力上昇			
 73	風スキル威力上昇			

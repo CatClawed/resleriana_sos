@@ -1,267 +1,267 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-CharacterEvent_001_NPC9_001ID	0	Diona	ディオーナ	……ご清聴ありがとうございました						
-CharacterEvent_001_NPC9_001ID	1		観客A	うおおお今日も良かったぞー！　歌姫ー！						
-CharacterEvent_001_NPC9_001ID	2		観客B	なんて魂を揺さぶる歌なんだ……\n涙が止まらねえぜ！						
-CharacterEvent_001_NPC9_001ID	3		観客C	ねえ知ってる？　ディオーナは歌う時の衣装も\n自分で作ってるんだって						
-CharacterEvent_001_NPC9_001ID	4		観客D	イケてるよね！　歌唱力だけじゃなくて、\n意匠設計の才能もあるなんて！						
-CharacterEvent_001_NPC9_001ID	5		観客E	次の公演も楽しみ！\nああ、早くディオーナにまた会いたいわ！						
-CharacterEvent_001_NPC9_001ID	6	Diona	ディオーナ	……						
-CharacterEvent_001_NPC9_001ID	7		劇場支配人	おお、ディオーナ。おつかれさま						
-CharacterEvent_001_NPC9_001ID	8	Diona	ディオーナ	支配人。おつかれさまです						
-CharacterEvent_001_NPC9_001ID	9		劇場支配人	いやー、今日も大盛況だね。歌姫さまさまだ。\nこの調子で今後ともよろしく頼むよ						
-CharacterEvent_001_NPC9_001ID	10	Diona	ディオーナ	ありがとうございます。\nもっと精進したいと思います						
-CharacterEvent_001_NPC9_001ID	11		劇場支配人	それにしても、時が経つのは早いものだな。\n君のお父さんには世話になっていたが、今は娘の時代か						
-CharacterEvent_001_NPC9_001ID	12		劇場支配人	歌手の父に、意匠設計の名人である母。\nそんなご両親のもとに生まれた歌姫						
-CharacterEvent_001_NPC9_001ID	13		劇場支配人	今や君は誰もがうらやむ一番星だ。\nどうだい、遥か高みから見える景色は。何が見える？						
-CharacterEvent_001_NPC9_001ID	14	Diona	ディオーナ	景色……						
-CharacterEvent_001_NPC9_001ID	15	Diona	ディオーナ	……今はまだ、何も見えません						
-CharacterEvent_001_NPC9_001ID	16		劇場支配人	そうか、その答えもなんだか「深い」ね、さすが歌姫						
-CharacterEvent_001_NPC9_001ID	17		劇場支配人	……飯でも食いに行くか？						
-CharacterEvent_001_NPC9_001ID	18	Diona	ディオーナ	いえ。父と母が家で待っていますので						
-CharacterEvent_001_NPC9_001ID	19		劇場支配人	おお、そうか。じゃあ、またな。\n今日はゆっくり休め						
-CharacterEvent_001_NPC9_001ID	20	Diona	ディオーナ	はい						
-CharacterEvent_001_NPC9_001ID	21	Diona	ディオーナ	（高名な父と母に教育を施され、歌手としての素質も、\n　意匠設計者としての素質も手に入れ……）						
-CharacterEvent_001_NPC9_001ID	22	Diona	ディオーナ	（今私は、ヴィアベル州を代表する歌姫として\n　名を馳せるようになった）						
-CharacterEvent_001_NPC9_001ID	23	Diona	ディオーナ	（誰もが言うだろう。私の人生は万事がうまく\n　行っていると）						
-CharacterEvent_001_NPC9_001ID	24	Diona	ディオーナ	（……私もそう思う）						
-CharacterEvent_001_NPC9_001ID	25	Diona	ディオーナ	（しかし……私が一番星だというのなら、\n　私は何を照らすために在るのだろう？）						
-CharacterEvent_001_NPC9_001ID	26	Diona	ディオーナ	（私が見下ろす世界には、何もない。何も見えない）						
-CharacterEvent_001_NPC9_001ID	27	Diona	ディオーナ	（……もっと、燃え上がる何かが欲しい）						
-CharacterEvent_001_NPC9_001ID	28	Diona	ディオーナ	（私の為の道を作ってもらい、それを順調に進み）						
-CharacterEvent_001_NPC9_002ID	0	Mieke	ミーケ	今日はもう店じまい……あ、ディオたん！						
-CharacterEvent_001_NPC9_002ID	1	Diona	ディオーナ	こんにちは。遊びに来たわ						
-CharacterEvent_001_NPC9_002ID	2	Mieke	ミーケ	ようこそようこそ！\nお茶淹れるよ！　ゆっくりしてて！						
-CharacterEvent_001_NPC9_002ID	3	Diona	ディオーナ	ミーケちゃん、最近忙しそう。\nミーケちゃんの作る装飾が素晴らしいからね						
-CharacterEvent_001_NPC9_002ID	4	Mieke	ミーケ	まあねぃー！　これもビッグな未来への第一歩だよ						
-CharacterEvent_001_NPC9_002ID	5	Diona	ディオーナ	……前ほどゆっくりお茶ができなくなって寂しいわ						
-CharacterEvent_001_NPC9_002ID	6	Mieke	ミーケ	それを言ったらディオたんだって、\n色んな所の劇場から引っ張りだこじゃん！						
-CharacterEvent_001_NPC9_002ID	7	Mieke	ミーケ	遠くの劇場に出かけることだって多くなったし						
-CharacterEvent_001_NPC9_002ID	8	Diona	ディオーナ	そうね。ありがたいことに、\n聞いてくれる人がたくさんいるみたい						
-CharacterEvent_001_NPC9_002ID	9	Mieke	ミーケ	勝手に行っちゃヤダー！　全部行く前に連絡して！						
-CharacterEvent_001_NPC9_002ID	10	Diona	ディオーナ	もう、わがまま言わないの						
-CharacterEvent_001_NPC9_002ID	11	Mieke	ミーケ	まあでも、そっかー。ディオたんのほうは順調なんだね						
-CharacterEvent_001_NPC9_002ID	12	Diona	ディオーナ	……どうなんだろう						
-CharacterEvent_001_NPC9_002ID	13	Mieke	ミーケ	え？　順調でしょ？　歌姫としてビッグになってるし、\n意匠設計の才能だって認められてるし						
-CharacterEvent_001_NPC9_002ID	14	Diona	ディオーナ	それはそうなんだけど……						
-CharacterEvent_001_NPC9_002ID	15	Diona	ディオーナ	時々ね。私、なんのために歌ってるんだろうなって\n思うの						
-CharacterEvent_001_NPC9_002ID	16	Diona	ディオーナ	歌も好きだし、綺麗な服を作るのも好きだけど。\nでも、それが何になるんだろうって						
-CharacterEvent_001_NPC9_002ID	17	Diona	ディオーナ	……ぜいたくな悩みだっていうのは\n分かってるんだけどね						
-CharacterEvent_001_NPC9_002ID	18	Mieke	ミーケ	ディオたんもそういう悩み、あったんだね。\nぜんぜん知らなかった						
-CharacterEvent_001_NPC9_002ID	19	Diona	ディオーナ	そういうミーケちゃんは順調じゃないの？						
-CharacterEvent_001_NPC9_002ID	20	Mieke	ミーケ	……うん。なんかね。お役人がめんどくさい\nお仕事を持ちかけてきてる						
-CharacterEvent_001_NPC9_002ID	21	Mieke	ミーケ	めんどくさいなーって						
-CharacterEvent_001_NPC9_002ID	22	Diona	ディオーナ	なんともならないの？　私ができることはある？\nなんだか、燃えてきたわ						
-CharacterEvent_001_NPC9_002ID	23	Mieke	ミーケ	わー！　大丈夫！　これはミーケの問題だから！\nなんとかするよ						
-CharacterEvent_001_NPC9_002ID	24	Diona	ディオーナ	……そう						
-CharacterEvent_001_NPC9_002ID	25	Mieke	ミーケ	それにしても、なんだかなあ。\n満たされてないって感じがする						
-CharacterEvent_001_NPC9_002ID	26	Diona	ディオーナ	……うん。私も						
-CharacterEvent_001_NPC9_002ID	27	Diona	ディオーナ	ビーッグ						
-CharacterEvent_001_NPC9_002ID	28	Mieke	ミーケ	あは！　いいねディオたん、キレが出てきたよ						
-CharacterEvent_001_NPC9_003ID	0		ディオーナの父	ディオーナ。この前話した町のことは覚えているね						
-CharacterEvent_001_NPC9_003ID	1	Diona	ディオーナ	もちろんよ、お父様						
-CharacterEvent_001_NPC9_003ID	2		ディオーナの父	ディオーナに是非歌ってほしいと依頼が来てね。\n明日の夜だが、その町の劇場の予定を押さえてあるんだ						
-CharacterEvent_001_NPC9_003ID	3		ディオーナの父	歌ってきてくれるかい。ディオーナ						
-CharacterEvent_001_NPC9_003ID	4	Diona	ディオーナ	分かった						
-CharacterEvent_001_NPC9_003ID	5		ディオーナの母	あなたは幸せ者ね、ディオーナ。\nこの人の言うとおりにすれば間違いないんだから						
-CharacterEvent_001_NPC9_003ID	6	Diona	ディオーナ	うん。いつも感謝してる						
-CharacterEvent_001_NPC9_003ID	7	Diona	ディオーナ	……それでは、行ってまいります						
-CharacterEvent_001_NPC9_003ID	8	Diona	ディオーナ	（今日もお父様に与えられた仕事をこなす。\n　その間、時間は驚くほど早く過ぎる）						
-CharacterEvent_001_NPC9_003ID	9	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）						
-CharacterEvent_001_NPC9_003ID	10	Diona	ディオーナ	（だからだろう。町へ向かう道中のことを、\n　私は特に記憶していない）						
-CharacterEvent_001_NPC9_003ID	11	Diona	ディオーナ	（帰り道もそうなるだろう）						
-CharacterEvent_001_NPC9_003ID	12	Diona	ディオーナ	（そうなるはずだった）						
-CharacterEvent_001_NPC9_003ID	13	Diona	ディオーナ	！						
-CharacterEvent_001_NPC9_003ID	14	Diona	ディオーナ	（薔薇のようだと、思った）						
-CharacterEvent_001_NPC9_003ID	15	Diona	ディオーナ	（その日、何も見えなかった景色の中に、\n　一輪の花が咲いた）						
-CharacterEvent_001_NPC9_003ID	16		ディオーナの父	ディオーナ。聞いているのかい？						
-CharacterEvent_001_NPC9_003ID	17	Diona	ディオーナ	ごめん、少し呆けてた						
-CharacterEvent_001_NPC9_003ID	18		ディオーナの父	いいさいいさ。大事な話だからね。\nもう一度言うよ、ディオーナ						
-CharacterEvent_001_NPC9_003ID	19		ディオーナの父	新しい仕事が入った。これは大きな仕事だ。\nしばらく忙しくなるよ						
-CharacterEvent_001_NPC9_003ID	20		ディオーナの母	元々入れていた優先度の低い仕事はすべて取りやめよ。\n今後の予定についてだけど……						
-CharacterEvent_001_NPC9_003ID	21	Diona	ディオーナ	（初めてだ。こんなにも両親の話が\n　頭に入らないのは）						
-CharacterEvent_001_NPC9_003ID	22	Diona	ディオーナ	（きっと、あの薔薇のせい。\n　心に浮かぶあの花が、頭から離れない）						
-CharacterEvent_001_NPC9_003ID	23	Diona	ディオーナ	（それにあの人……どこかで見たことがある気がする。\n　いったい、どこで……）						
-CharacterEvent_001_NPC9_003ID	24		ディオーナの父	ディオーナ。一体どうしたんだい？\n体調でも悪いのか？　医者を呼ぼうか						
-CharacterEvent_001_NPC9_003ID	25	Diona	ディオーナ	（こんなことではいけない。\n　お父様の話を聞かなくては）						
-CharacterEvent_001_NPC9_003ID	26	Diona	ディオーナ	（あの花を……枯らさなくては。\n　……でも）						
-CharacterEvent_001_NPC9_003ID	27	Diona	ディオーナ	（枯らしてしまったら、\n　もう二度と咲くことは無いかもしれない）						
-CharacterEvent_001_NPC9_003ID	28		選択肢	あの人のことを調べてみる						
-CharacterEvent_001_NPC9_003ID	29	Diona	ディオーナ	お父様、お母様。\nごめんなさい。調べたいことがあるの						
-CharacterEvent_001_NPC9_003ID	30	Diona	ディオーナ	仕事の話はまた今度にさせて						
-CharacterEvent_001_NPC9_003ID	31		ディオーナの母	急に何を言ってるの？\n自分の仕事以上に大切なことなんてないでしょ？						
-CharacterEvent_001_NPC9_003ID	32	Diona	ディオーナ	でも、気になるから						
-CharacterEvent_001_NPC9_003ID	33		ディオーナの父	ディオーナ…！？\nどうしたんだ、こ、こんな事、はじめてだ						
-CharacterEvent_001_NPC9_003ID	34	Diona	ディオーナ	（自分でも何故そうしたのかは分からない。\n　ただ一つ言えることは）						
-CharacterEvent_001_NPC9_003ID	35	Diona	ディオーナ	（私はあの花を愛おしく思ってしまったのだ）						
-CharacterEvent_001_NPC9_003ID	36		選択肢	親の話に集中する						
-CharacterEvent_001_NPC9_003ID	37	Diona	ディオーナ	ごめん、集中する。話の続きをさせて						
-CharacterEvent_001_NPC9_003ID	38		ディオーナの父	そうか、疲れていたらいつでも言うんだよ。\nいいか？　まず最初にやるべきことは……						
-CharacterEvent_001_NPC9_003ID	39	Diona	ディオーナ	（大丈夫。何度も繰り返してきたことだ）						
-CharacterEvent_001_NPC9_003ID	40	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）						
-CharacterEvent_001_NPC9_003ID	41	Diona	ディオーナ	（芽生えた気持ちはぎゅっと踏みつけて。\n　ホウキでささっと掃いてみせれば）						
-CharacterEvent_001_NPC9_003ID	42	Diona	ディオーナ	（そうすれば、ほら）						
-CharacterEvent_001_NPC9_003ID	43	Diona	ディオーナ	（また何も見えなくなった）						
-CharacterEvent_001_NPC9_003ID	44		ディオーナの母	いずれ貴方は、この国で最高の歌姫になるわ。\nいえ、私たちでしてみせる						
-CharacterEvent_001_NPC9_004ID	0	Diona	ディオーナ	（初めて両親に逆らった私は、\n　すれ違ったあの女性について調べ始めた）						
-CharacterEvent_001_NPC9_004ID	1	Diona	ディオーナ	（どこかで見たことがある。\n　その記憶を頼りに手掛かりを探し……）						
-CharacterEvent_001_NPC9_004ID	2	Diona	ディオーナ	（ついに彼女が、指名手配犯ララ・トロッケルであると\n　突き止めた）						
-CharacterEvent_001_NPC9_004ID	3	Diona	ディオーナ	（地方のほうだから何の噂も立たなかったけれど）						
-CharacterEvent_001_NPC9_004ID	4	Diona	ディオーナ	（王都のほうで姿を現していたらきっと大騒ぎに\n　なっていただろう）						
-CharacterEvent_001_NPC9_004ID	5	Diona	ディオーナ	（探していた人が、指名手配犯……。\n　なぜそんな人のことが、こんなにも気になるの？）						
-CharacterEvent_001_NPC9_004ID	6	Mieke	ミーケ	あ、ディオたんみーっけ！						
-CharacterEvent_001_NPC9_004ID	7	Diona	ディオーナ	ミーケちゃん！？　こんな夜中にどうして？						
-CharacterEvent_001_NPC9_004ID	8	Mieke	ミーケ	ちょっとディオたんに合わせたい人がいてさ。\nついてきてほしいんだ						
-CharacterEvent_001_NPC9_004ID	9	Diona	ディオーナ	今から伺うの？　非常識よ。\nまた明日にでも……						
-CharacterEvent_001_NPC9_004ID	10	Mieke	ミーケ	ううん、その人がディオたんのことを呼んでるの						
-CharacterEvent_001_NPC9_004ID	11	Diona	ディオーナ	え？						
-CharacterEvent_001_NPC9_004ID	12	Mieke	ミーケ	ほら、考えるのはあと！　絶対に後悔しないから！						
-CharacterEvent_001_NPC9_004ID	13	Diona	ディオーナ	あ、待って！						
-CharacterEvent_001_NPC9_004ID	14	Mieke	ミーケ	お待たせ、連れてきたよ						
-CharacterEvent_001_NPC9_004ID	15	Diona	ディオーナ	ここにいるの？　いったいどちら様……						
-CharacterEvent_001_NPC9_004ID	16	Lara	ララ	一目見た時から、あなたをお誘いすると\n決めていましたわ						
-CharacterEvent_001_NPC9_004ID	17	Diona	ディオーナ	っ！　あなたは……！						
-CharacterEvent_001_NPC9_004ID	18	Lara	ララ	わたくしはララ・トロッケル。\n誇り高きララ・キングダムの王						
-CharacterEvent_001_NPC9_004ID	19	Diona	ディオーナ	……ねえ、ミーケちゃん。どうしてこの人に？						
-CharacterEvent_001_NPC9_004ID	20	Mieke	ミーケ	前にさ、話してたじゃん？\n今の毎日が満たされてない気がするって						
-CharacterEvent_001_NPC9_004ID	21	Mieke	ミーケ	だから、それを変えたいって思ってさ。\nこの人に付いていくことにしたんだ						
-CharacterEvent_001_NPC9_004ID	22	Diona	ディオーナ	指名手配犯なのよ！						
-CharacterEvent_001_NPC9_004ID	23	Mieke	ミーケ	知ってるよ。\nディオたんが反対することだってわかってた						
-CharacterEvent_001_NPC9_004ID	24	Mieke	ミーケ	それでもなんだよ。話だけでも聞いてほしいんだ。\nディオたんのためにもなると思ってるから						
-CharacterEvent_001_NPC9_004ID	25	Diona	ディオーナ	ミーケちゃん……						
-CharacterEvent_001_NPC9_004ID	26	Lara	ララ	素晴らしい友情ですわ。\nやはりあなたがた二人ともが欲しくなりました						
-CharacterEvent_001_NPC9_004ID	27	Lara	ララ	ディオーナ。ここしばらくの間、\nあなたのことを見させていただきましたわ						
-CharacterEvent_001_NPC9_004ID	28	Lara	ララ	あなたのその歌の才能。\nそして、服飾の意匠設計力……賞賛に値します						
-CharacterEvent_001_NPC9_004ID	29	Lara	ララ	あなたにはキングダムの服飾係として、\nそして歌姫としてわたくしの王国に加わる資質がある						
-CharacterEvent_001_NPC9_004ID	30	Lara	ララ	わたくしの下へいらっしゃい。\n歓迎いたしますわよ						
-CharacterEvent_001_NPC9_004ID	31	Diona	ディオーナ	……聞いてもいいですか？						
-CharacterEvent_001_NPC9_004ID	32	Lara	ララ	なんなりと						
-CharacterEvent_001_NPC9_004ID	33	Diona	ディオーナ	私は今、成功しています。そんな私が、\n貴方の所に行って、何を得られるのですか？						
-CharacterEvent_001_NPC9_004ID	34	Lara	ララ	王としてあなたの渇きを満たすことを約束しますわ。\nそれは決して豊かな暮らしだけでは掴めないものです						
-CharacterEvent_001_NPC9_004ID	35	Lara	ララ	あなたが見ることができなかった景色……。\nそれを見せてあげましょう						
-CharacterEvent_001_NPC9_004ID	36	Diona	ディオーナ	……もう一つ。\nあなたは国王になって、何を成したいのですか？						
-CharacterEvent_001_NPC9_004ID	37	Lara	ララ	それは、実際に見せた方が早いですわね。\n二人とも、わたくしに近寄りなさいな						
-CharacterEvent_001_NPC9_004ID	38	Diona	ディオーナ	……？						
-CharacterEvent_001_NPC9_004ID	39	Lara	ララ	さあ、行きますわよ						
-CharacterEvent_001_NPC9_004ID	40	Diona	ディオーナ	わっ！？						
-CharacterEvent_001_NPC9_004ID	41	Diona	ディオーナ	！						
-CharacterEvent_001_NPC9_005ID	0	Diona	ディオーナ	ここは……						
-CharacterEvent_001_NPC9_005ID	1	Lara	ララ	この地こそがララ・キングダム。わたくしの王国						
-CharacterEvent_001_NPC9_005ID	2	Lara	ララ	まだ始まったばかりの国ですけれどね。\n土地だって荒れ果てていますわ						
-CharacterEvent_001_NPC9_005ID	3	Lara	ララ	ですが、わたくしはこの渇きすら潤し、\n民に安寧の地を作りますの						
-CharacterEvent_001_NPC9_005ID	4	Lara	ララ	……ディオーナ。わたくしが何を成したいのか\n聞きましたわね						
-CharacterEvent_001_NPC9_005ID	5	Lara	ララ	わたくしは理想の国家を作り、\n満たされぬ者たちの縁となりたいのです						
-CharacterEvent_001_NPC9_005ID	6	Lara	ララ	そう。あなたたちのような者の縁に						
-CharacterEvent_001_NPC9_005ID	7	Diona	ディオーナ	……！						
-CharacterEvent_001_NPC9_005ID	8	Lara	ララ	だから今、手を差し伸べているのです						
-CharacterEvent_001_NPC9_005ID	9	Diona	ディオーナ	……						
-CharacterEvent_001_NPC9_005ID	10	Diona	ディオーナ	……少し猶予をいただけませんか？						
-CharacterEvent_001_NPC9_005ID	11	Lara	ララ	ええ、もちろん。すぐには決められないことでしょう						
-CharacterEvent_001_NPC9_005ID	12	Lara	ララ	三日後。同じ場所で待っていますわ。\nいらっしゃらなかったら、その気はないと判断します						
-CharacterEvent_001_NPC9_005ID	13	Diona	ディオーナ	（それから三日間。私は考えに考えた）						
-CharacterEvent_001_NPC9_005ID	14	Diona	ディオーナ	（ずっとどこか満たされていないと感じていた。\n　この現状を変える絶好の機会なのかもしれない）						
-CharacterEvent_001_NPC9_005ID	15	Diona	ディオーナ	（何より、彼女が掲げる理想……それに私の心も\n　揺れ動いてしまった）						
-CharacterEvent_001_NPC9_005ID	16	Diona	ディオーナ	（だけど、彼女の下へ行くこと……\n　それは今までの自分をすべて捨てることになる）						
-CharacterEvent_001_NPC9_005ID	17	Diona	ディオーナ	（両親の言うことさえ聞いていれば、\n　私の人生は万事がうまくいくはずなのだ）						
-CharacterEvent_001_NPC9_005ID	18	Diona	ディオーナ	（そのどちらを取るのか、私は選ばなくてはならない）						
-CharacterEvent_001_NPC9_005ID	19	Diona	ディオーナ	（……あの日景色に咲いた一輪の花が、\n　今もまだ揺れている）						
-CharacterEvent_001_NPC9_005ID	20	Diona	ディオーナ	私は……						
-CharacterEvent_001_NPC9_005ID	21		選択肢	ミーケたちと行動を共にする						
-CharacterEvent_001_NPC9_005ID	22	Diona	ディオーナ	（私は決めた。ミーケちゃんたちと行動を共にすると）						
-CharacterEvent_001_NPC9_005ID	23	Diona	ディオーナ	お父様とお母様を説得しないと……いえ						
-CharacterEvent_001_NPC9_005ID	24	Diona	ディオーナ	説得になど応じてくれるわけないわね。\n手紙を、残していこう						
-CharacterEvent_001_NPC9_005ID	25	Diona	ディオーナ	……！　もうすぐ期限の時間。まだ旅の準備も\nできていない……悩みすぎてしまったわ						
-CharacterEvent_001_NPC9_005ID	26	Diona	ディオーナ	急がないと！						
-CharacterEvent_001_NPC9_005ID	27	Diona	ディオーナ	（あの日景色に咲いた一輪の花が、\n　激しく揺れている）						
-CharacterEvent_001_NPC9_005ID	28	Diona	ディオーナ	（ああ、そうか。これは花ではなかったのだ）						
-CharacterEvent_001_NPC9_005ID	29	Diona	ディオーナ	（私の景色に、真っ赤な炎が灯ったのだ）						
-CharacterEvent_001_NPC9_005ID	30		選択肢	ミーケたちと行動を共にしない						
-CharacterEvent_001_NPC9_005ID	31	Diona	ディオーナ	（私は決めた。\n　ミーケちゃんたちと行動は共にしないと）						
-CharacterEvent_001_NPC9_005ID	32	Diona	ディオーナ	（そして、私は両親に謝り、先日受けた仕事の話を\n　再開した）						
-CharacterEvent_001_NPC9_005ID	33	Diona	ディオーナ	（ララ・トロッケルを通報することはしなかった。\n　彼女の想い自体は崇高なものだと感じたし……）						
-CharacterEvent_001_NPC9_005ID	34	Diona	ディオーナ	（ミーケちゃんのこれからも応援したかったから）						
-CharacterEvent_001_NPC9_005ID	35	Diona	ディオーナ	（あの日景色に咲いた一輪の花。\n　それはまだ色鮮やかに揺れている）						
-CharacterEvent_001_NPC9_005ID	36	Diona	ディオーナ	（私はそれに、一生触れないと決めた）						
-CharacterEvent_001_NPC9_006ID	0		庭師	ふう……この庭も形になってきたな！						
-CharacterEvent_001_NPC9_006ID	1	Diona	ディオーナ	……うーん						
-CharacterEvent_001_NPC9_006ID	2	Mieke	ミーケ	おっと、ディオたんは気に入らないの？						
-CharacterEvent_001_NPC9_006ID	3	Diona	ディオーナ	ええ。もう一段美しくできるはず。\nララ様に捧げるものであればなおさらよ！						
-CharacterEvent_001_NPC9_006ID	4	Diona	ディオーナ	この辺りの花は中央の大きな花を引き立たせるために\nあえて密度を薄くするべきだし						
-CharacterEvent_001_NPC9_006ID	5	Diona	ディオーナ	こっちの花は青い花にした方が\n色の調和は取れているもの						
-CharacterEvent_001_NPC9_006ID	6	Diona	ディオーナ	こうしてはいられないわ。\nすぐ青い花を調達してくる						
-CharacterEvent_001_NPC9_006ID	7	Mieke	ミーケ	え、今から！？　もうすぐ夜になっちゃうよ！						
-CharacterEvent_001_NPC9_006ID	8	Diona	ディオーナ	大丈夫、近くで自生しているところを知ってるの						
-CharacterEvent_001_NPC9_006ID	9		庭師	いやあ、ディオーナちゃんはお淑やかだと\n思ってたけど、ミーケちゃんより行動派だね						
-CharacterEvent_001_NPC9_006ID	10	Mieke	ミーケ	まあ、美しさに関わるものになると\n暴走しがちかなー						
-CharacterEvent_001_NPC9_006ID	11	Mieke	ミーケ	でも、そのこだわりの強さが意匠設計の才能に\n繋がってるんだろうね						
-CharacterEvent_001_NPC9_006ID	12	Diona	ディオーナ	はぁ、はぁ、お待たせ！！						
-CharacterEvent_001_NPC9_006ID	13	Mieke	ミーケ	はや！！！						
-CharacterEvent_001_NPC9_006ID	14	Diona	ディオーナ	ララ様のためだもの。時間を無駄にしていられないわ！						
-CharacterEvent_001_NPC9_006ID	15	Mieke	ミーケ	こだわりだけじゃなくて、愛も規格外だなあ。\nディオたんは						
-CharacterEvent_001_NPC9_007ID	0	Diona	ディオーナ	じー……						
-CharacterEvent_001_NPC9_007ID	1	Lara	ララ	……何をしていますの？\n情熱的な視線を感じますが						
-CharacterEvent_001_NPC9_007ID	2	Diona	ディオーナ	ララ様の新曲を作ろうと思いまして。\n良いところを一つも逃さんとしているのです						
-CharacterEvent_001_NPC9_007ID	3	Lara	ララ	なるほど。では思う存分見なさいな。\n王の立ち振る舞いというものを！						
-CharacterEvent_001_NPC9_007ID	4	Mieke	ミーケ	こーら、ディオたん！　また突っ走ってるよ！\nさすがに迷惑だと思うねぇ						
-CharacterEvent_001_NPC9_007ID	5	Diona	ディオーナ	あ、ああ……ごめんなさい。\nどうも熱が入ると周りが見えず……						
-CharacterEvent_001_NPC9_007ID	6	Lara	ララ	わたくしは別に構いませんのに						
-CharacterEvent_001_NPC9_007ID	7	Diona	ディオーナ	猛省しないと。ララ・キングダムに身を置く以前……\n取材をした方をとても困らせてしまったことがあり……						
-CharacterEvent_001_NPC9_007ID	8	Lara	ララ	どんなことがありましたの？						
-CharacterEvent_001_NPC9_007ID	9	Diona	ディオーナ	私の歌の一つに、竜狩りで有名な白夜の騎士を\n称えるものがありますが、その時に取材をしまして……						
-CharacterEvent_001_NPC9_007ID	10	Diona	ディオーナ	（竜狩りのユナがヴィアベル州に来てるらしい。\n　この機会を逃す手はないわ！）						
-CharacterEvent_001_NPC9_007ID	11	Juna	ユナ	竜を目撃したというのはあなたか？						
-CharacterEvent_001_NPC9_007ID	12		船乗り	ええ！　先日船を出していたら、水平線を大陸側に\n飛んでいくのを見まして……						
-CharacterEvent_001_NPC9_007ID	13	Diona	ディオーナ	（あの方ね！　まずは所作を観察するところから。\n　じー……）						
-CharacterEvent_001_NPC9_007ID	14	Juna	ユナ	！　殺気か！？　何者だ！						
-CharacterEvent_001_NPC9_007ID	15	Diona	ディオーナ	ひゃっ！　すみません！　怪しい者ではありません！						
-CharacterEvent_001_NPC9_007ID	16	Juna	ユナ	あなたは……歌姫ディオーナか？\n何をしているんだ						
-CharacterEvent_001_NPC9_007ID	17	Diona	ディオーナ	あなたについての詩を書きたいと思いまして。\n失礼ながら観察させていただいていました						
-CharacterEvent_001_NPC9_007ID	18	Juna	ユナ	そ、そうか						
-CharacterEvent_001_NPC9_007ID	19	Diona	ディオーナ	貴方の歌を、歌える事を光栄に思います						
-CharacterEvent_001_NPC9_007ID	20	Juna	ユナ	高名な歌姫に、歌にしてもらえるなど、\nこちらこそ光栄だ						
-CharacterEvent_001_NPC9_007ID	21	Diona	ディオーナ	まず、白夜の騎士として普段どのような心構えで\nいるのかについてお尋ねしたいのが一つ						
-CharacterEvent_001_NPC9_007ID	22	Diona	ディオーナ	そして実際に今どのような想いを抱いているか、\n今後の目標についてもお尋ねしたく						
-CharacterEvent_001_NPC9_007ID	23	Diona	ディオーナ	あとは竜を狩るようになった理由、\n初めて狩ったときの想い、それから……						
-CharacterEvent_001_NPC9_007ID	24	Juna	ユナ	ま、待て！　私は口下手でな。\n質問は絞ってもらえると助かる……						
-CharacterEvent_001_NPC9_007ID	25	Diona	ディオーナ	それでしたら、お供しますので\n手が空いた時に回答してもらえますか？						
-CharacterEvent_001_NPC9_007ID	26	Juna	ユナ	私が竜を倒せたのは、師匠に鍛えられたおかげだ						
-CharacterEvent_001_NPC9_007ID	27	Diona	ディオーナ	ふむふむ。出会いの時から聞かせてもらえますか？						
-CharacterEvent_001_NPC9_007ID	28	Diona	ディオーナ	おお、魔物が現れました！\n戦闘中に意識していることは？						
-CharacterEvent_001_NPC9_007ID	29	Juna	ユナ	言っている場合か！　下がっていろ！						
-CharacterEvent_001_NPC9_007ID	30	Diona	ディオーナ	夜は警戒のため武装したまま就寝……と。\nこのまま夜明けまで見ていましょうか						
-CharacterEvent_001_NPC9_007ID	31	Juna	ユナ	ね、眠れん……						
-CharacterEvent_001_NPC9_007ID	32	Diona	ディオーナ	ありがとうございました！\nおかげで良い詩が書けそうです！						
-CharacterEvent_001_NPC9_007ID	33	Juna	ユナ	ああ……それは良かった。\nなぜだろう。今までになく疲労したな……						
-CharacterEvent_001_NPC9_007ID	34	Diona	ディオーナ	……ということが						
-CharacterEvent_001_NPC9_007ID	35	Mieke	ミーケ	猟奇的だよ、ディオたん……						
-CharacterEvent_001_NPC9_007ID	36	Diona	ディオーナ	真面目なものを作ろうと、頑張ったつもりなんですが						
-CharacterEvent_001_NPC9_007ID	37	Diona	ディオーナ	猛省！						
-CharacterEvent_001_NPC9_007ID	38	Lara	ララ	そんなディオーナも、素敵ですけどね						
-CharacterEvent_001_NPC9_007ID	39	Mieke	ミーケ	器がビーッグ						
-CharacterEvent_001_NPC9_007ID	40	Juna	ユナ	現場に来るというのか、さすが歌姫、すごい根性だ						
-CharacterEvent_001_NPC9_IF_001ID	0		ディオーナの父	ほら、ディオーナ。あれが王城だ。\n今から私たちはあそこに行くんだよ						
-CharacterEvent_001_NPC9_IF_001ID	1		ディオーナの母	ついに国王の御前で歌を披露するのよ。\nディオーナ、頑張ったわね						
-CharacterEvent_001_NPC9_IF_001ID	2	Diona	ディオーナ	ううん。お父様とお母様のおかげよ						
-CharacterEvent_001_NPC9_IF_001ID	3		ディオーナの父	来るところまで登りつめたな。\nどうだ、ディオーナ。ここからの景色は。何が見える？						
-CharacterEvent_001_NPC9_IF_001ID	4	Diona	ディオーナ	……何も						
-CharacterEvent_001_NPC9_IF_001ID	5		ディオーナの母	それはそれで深いけど、\nこういう時はね。こう言うの						
-CharacterEvent_001_NPC9_IF_001ID	6		ディオーナの母	明るい未来が見える、って。分かりやすいほうがいいわ						
-CharacterEvent_001_NPC9_IF_001ID	7	Diona	ディオーナ	うん、分かった						
-CharacterEvent_001_NPC9_IF_001ID	8		ディオーナの父	さあ。改めて。何が見える、私たちのディオーナ？						
-CharacterEvent_001_NPC9_IF_001ID	9	Diona	ディオーナ	明るい未来						
-CharacterEvent_001_NPC9_IF_002ID	0	Diona	ディオーナ	（あれから。私は両親と共に、歌姫としての活動を\n　継続していた）						
-CharacterEvent_001_NPC9_IF_002ID	1	Diona	ディオーナ	（一つ変わったことと言えば、それは私が両親に\n　意見するようになったことだろう）						
-CharacterEvent_001_NPC9_IF_002ID	2	Diona	ディオーナ	（最初のうちは邪険に扱われたが、\n　今は互いによく相談しあうようになった）						
-CharacterEvent_001_NPC9_IF_002ID	3	Diona	ディオーナ	（結局のところ。私たちの間には、対話が\n　足りていなかっただけなのかもしれない）						
-CharacterEvent_001_NPC9_IF_002ID	4		ディオーナの父	今日は王都で歌を披露する。お偉いさん方も\nたくさん訪れるだろうから、頑張っていこうね						
-CharacterEvent_001_NPC9_IF_002ID	5	Diona	ディオーナ	分かってるわ。そうそう、今王国では錬金術士\nというものが注目されているらしいわ						
-CharacterEvent_001_NPC9_IF_002ID	6	Diona	ディオーナ	私たちの仕事に関係するかは分からないけど、\nぜひお近づきになっておきたいわね						
-CharacterEvent_001_NPC9_IF_002ID	7		ディオーナの父	おぉ、そうだね。王都のことも知りたいし。\n後でカフェに寄るとしようか						
-CharacterEvent_001_NPC9_IF_002ID	8	Diona	ディオーナ	……あっ						
-CharacterEvent_001_NPC9_IF_002ID	9		ディオーナの父	どうした？						
-CharacterEvent_001_NPC9_IF_002ID	10	Diona	ディオーナ	……ううん、なんでもない						
-CharacterEvent_001_NPC9_IF_002ID	11	Diona	ディオーナ	それじゃあ、劇場へ向かいましょう、お父様						
-CharacterEvent_001_NPC9_IF_002ID	12	Diona	ディオーナ	（私の景色に咲いた花が、久しぶりに揺れた）						
-CharacterEvent_001_NPC9_IF_002ID	13	Diona	ディオーナ	（あの日と同じ綺麗なまま。けれどもう、\n　瑞々しさはない）						
-CharacterEvent_001_NPC9_IF_002ID	14	Diona	ディオーナ	（きっと今触れたら、ボロボロになって崩れ落ちて\n　しまうだろう）						
-CharacterEvent_001_NPC9_IF_002ID	15	Diona	ディオーナ	（しかし、そんな日が訪れることもないだろう）						
-CharacterEvent_001_NPC9_IF_002ID	16	Diona	ディオーナ	（私は、それに一生触れないと決めたのだから）						
+CharacterEvent_001_NPC9_001ID	0	Diona	ディオーナ	……ご清聴ありがとうございました	Diona	...Thank you, everyone.	蒂欧娜	……感谢各位观看演出。	蒂歐娜	……感謝各位的聆聽。
+CharacterEvent_001_NPC9_001ID	1		観客A	うおおお今日も良かったぞー！　歌姫ー！	Fan A	What a diva! What a show! You're a star!	观众A	哦哦哦，今天也很棒！歌手小姐！	觀眾A	哇喔喔喔今天也很棒喔～！歌姬～！
+CharacterEvent_001_NPC9_001ID	2		観客B	なんて魂を揺さぶる歌なんだ……\n涙が止まらねえぜ！	Fan B	I can't stop crying... It's like her voice reached into my heart and touched my soul!	观众B	多么直击灵魂的歌声啊……\n让人不禁热泪盈眶！	觀眾B	這是多麼動人心弦的歌聲啊……淚水都止不住了！
+CharacterEvent_001_NPC9_001ID	3		観客C	ねえ知ってる？　ディオーナは歌う時の衣装も\n自分で作ってるんだって	Fan C	Get this! Did you know that Diona makes all of the costumes she performs in herself?	观众C	你知道吗？听说蒂欧娜演出时的服装\n都是自己做的。	觀眾C	你知道嗎？\n聽說蒂歐娜唱歌時的服裝也是自己做的喔。
+CharacterEvent_001_NPC9_001ID	4		観客D	イケてるよね！　歌唱力だけじゃなくて、\n意匠設計の才能もあるなんて！	Fan D	Doesn't she look stunning? Not only is she an incredible singer, she's an amazing designer, too!	观众D	太厉害了！想不到她不仅唱歌唱得好，\n还有设计天赋！	觀眾D	很厲害對吧！不只是歌唱實力，居然還具備設計才能！
+CharacterEvent_001_NPC9_001ID	5		観客E	次の公演も楽しみ！\nああ、早くディオーナにまた会いたいわ！	Fan E	Oh, I can't wait for her next performance! I'll be counting down the minutes until I can see her again...	观众E	下一次公演也让人十分期待！\n啊，好想快点再看到蒂欧娜啊！	觀眾E	下一場公演也好令人期待！\n啊啊，真想快點再見到蒂歐娜！
+CharacterEvent_001_NPC9_001ID	6	Diona	ディオーナ	……	Diona	...	蒂欧娜	……	蒂歐娜	……
+CharacterEvent_001_NPC9_001ID	7		劇場支配人	おお、ディオーナ。おつかれさま	Stage Manager	Great show out there, Diona.	剧场老板	哦，蒂欧娜。辛苦你了。	劇院經理	哦哦，蒂歐娜，表演辛苦了。
+CharacterEvent_001_NPC9_001ID	8	Diona	ディオーナ	支配人。おつかれさまです	Diona	I couldn't have done it without your support.	蒂欧娜	老板，您辛苦了。	蒂歐娜	經理，您辛苦了。
+CharacterEvent_001_NPC9_001ID	9		劇場支配人	いやー、今日も大盛況だね。歌姫さまさまだ。\nこの調子で今後ともよろしく頼むよ	Stage Manager	You had the crowd in the palm of your hand...but I expect nothing less from a singer of your caliber. Keep this up and there's no telling the heights you'll reach.	剧场老板	哎呀，多亏了你，今天也是座无虚席啊。\n以后也要麻烦你保持今天这个状态哦。	劇院經理	哎呀～今天也是高朋滿座呢，真是多虧了歌姬。\n麻煩妳今後也照這個狀態演出囉。
+CharacterEvent_001_NPC9_001ID	10	Diona	ディオーナ	ありがとうございます。\nもっと精進したいと思います	Diona	Thank you for your kind words. I will continue to devote myself to my art and my fans.	蒂欧娜	多谢夸奖。\n我还想进一步提高自己的水平。	蒂歐娜	謝謝您，我會繼續精進自己的。
+CharacterEvent_001_NPC9_001ID	11		劇場支配人	それにしても、時が経つのは早いものだな。\n君のお父さんには世話になっていたが、今は娘の時代か	Stage Manager	Time really flies... It feels like just yesterday I was working with your father. But now his daughter is the one taking center stage.	剧场老板	不过话说回来，时间过得可真快啊。\n以前还是你父亲上台演出，一转眼登台的就是女儿了。	劇院經理	話說回來，時間過得還真快呢。\n當年承蒙妳父親照顧，現在卻已經是女兒的時代了啊。
+CharacterEvent_001_NPC9_001ID	12		劇場支配人	歌手の父に、意匠設計の名人である母。\nそんなご両親のもとに生まれた歌姫	Stage Manager	With a famous singer for a father and a top designer for a mother, I knew you'd be a star.	剧场老板	父亲是歌手，母亲是有名的设计师，\n这两人的女儿又成了歌手。	劇院經理	父親是歌手，母親是知名設計師。\n而妳則是由這樣的父母所生下的歌姬。
+CharacterEvent_001_NPC9_001ID	13		劇場支配人	今や君は誰もがうらやむ一番星だ。\nどうだい、遥か高みから見える景色は。何が見える？	Stage Manager	And your star has risen higher than any other... How does it feel to shine so brightly? What do you see from all the way up there?	剧场老板	现在你可是人人都羡慕的大明星。\n怎么样，高处的景色如何？你看到什么了？	劇院經理	妳如今已是天上最耀眼的星星，任誰都會羨慕妳。\n從遙遠高處望見的景色如何？看得見什麼呢？
+CharacterEvent_001_NPC9_001ID	14	Diona	ディオーナ	景色……	Diona	I...	蒂欧娜	景色……	蒂歐娜	景色……
+CharacterEvent_001_NPC9_001ID	15	Diona	ディオーナ	……今はまだ、何も見えません	Diona	Right now, all I see is darkness.	蒂欧娜	现在……还什么都看不见。	蒂歐娜	……我現在還什麼都看不見。
+CharacterEvent_001_NPC9_001ID	16		劇場支配人	そうか、その答えもなんだか「深い」ね、さすが歌姫	Stage Manager	Heh, that's a pretty profound answer when you think about it.	剧场老板	是吗。这回答听起来颇有“深意”，不愧是当红歌手。	劇院經理	是嗎？這回答也挺「耐人尋味」的呢，不愧是歌姬。
+CharacterEvent_001_NPC9_001ID	17		劇場支配人	……飯でも食いに行くか？	Stage Manager	What do you say we go get something to eat?	剧场老板	……要不要一起吃个饭？	劇院經理	……要不要去吃個飯？
+CharacterEvent_001_NPC9_001ID	18	Diona	ディオーナ	いえ。父と母が家で待っていますので	Diona	I'm sorry, I can't. My parents are waiting for me.	蒂欧娜	不了。我父母还在家里等我。	蒂歐娜	不了，父母都在家裡等我。
+CharacterEvent_001_NPC9_001ID	19		劇場支配人	おお、そうか。じゃあ、またな。\n今日はゆっくり休め	Stage Manager	A little family time, eh? Great! Get some rest, you earned it.	剧场老板	哦，这样。那回头见。\n今天好好休息吧。	劇院經理	哦，這樣啊，那麼下次見。今天就好好休息吧。
+CharacterEvent_001_NPC9_001ID	20	Diona	ディオーナ	はい	Diona	Thank you, I will.	蒂欧娜	好的。	蒂歐娜	好的。
+CharacterEvent_001_NPC9_001ID	21	Diona	ディオーナ	（高名な父と母に教育を施され、歌手としての素質も、\n　意匠設計者としての素質も手に入れ……）	Diona	(My parents raised me to succeed them in both singing and design. I managed to rise to their expectations...)	蒂欧娜	（在名人父母的教育下，无论是作为歌手还是设计师\n　我都做出了成绩……）	蒂歐娜	（在名聲顯赫的父母教育之下，我無論是歌手的素養，\n　還是設計師的素養都齊備於一身……）
+CharacterEvent_001_NPC9_001ID	22	Diona	ディオーナ	（今私は、ヴィアベル州を代表する歌姫として\n　名を馳せるようになった）	Diona	(And now I've become the top star of Wirbel Province.)	蒂欧娜	（如今我已经是薇亚贝尔州最有名的歌手。）	蒂歐娜	（我如今是代表維亞貝爾州的歌姬，並且聞名遐爾。）
+CharacterEvent_001_NPC9_001ID	23	Diona	ディオーナ	（誰もが言うだろう。私の人生は万事がうまく\n　行っていると）	Diona	(From the outside, it must seem like I'm incredibly blessed.)	蒂欧娜	（任谁都会说，我的人生过得顺风顺水吧。）	蒂歐娜	（任何人應該都會說，我的人生過得一帆風順。）
+CharacterEvent_001_NPC9_001ID	24	Diona	ディオーナ	（……私もそう思う）	Diona	(I too realize how lucky I am.)	蒂欧娜	（……我自己也这么认为。）	蒂歐娜	（……我自己也如此認為。）
+CharacterEvent_001_NPC9_001ID	25	Diona	ディオーナ	（しかし……私が一番星だというのなら、\n　私は何を照らすために在るのだろう？）	Diona	(But if my star is all alone up there, way up high...then who am I shining for?)	蒂欧娜	（但如果我真的是明星……\n　我究竟是为了照亮什么而存在的呢？）	蒂歐娜	（然而……既然我是最耀眼的星星，\n　那我是為了照亮什麼而存在的呢？）
+CharacterEvent_001_NPC9_001ID	26	Diona	ディオーナ	（私が見下ろす世界には、何もない。何も見えない）	Diona	(I'm alone in the darkness. I can't see or feel anything...)	蒂欧娜	（我俯瞰到的世界空无一物。）	蒂歐娜	（我所俯瞰的世界是一片虛無，什麼都看不到。）
+CharacterEvent_001_NPC9_001ID	27	Diona	ディオーナ	（……もっと、燃え上がる何かが欲しい）	Diona	(I just wish I had something to burn for.)	蒂欧娜	（我想要……能够点燃我激情的东西。）	蒂歐娜	（……我需要能夠點燃我鬥志的東西。）
+CharacterEvent_001_NPC9_001ID	28	Diona	ディオーナ	（私の為の道を作ってもらい、それを順調に進み）	Diona	(They paved the way to get me where I am today.)	蒂欧娜	（我想要一条独属于我的路，在那条路上顺利前进。）	蒂歐娜	（我只是暢然無阻地走在別人為我打造的道路上。）
+CharacterEvent_001_NPC9_002ID	0	Mieke	ミーケ	今日はもう店じまい……あ、ディオたん！	Mieke	Sorry, I'm closing up for the day... Oh, Diona! It's you!	米珂	今天已经结束营业……啊，蒂欧！	米珂	今天已經打烊……啊，蒂歐！
+CharacterEvent_001_NPC9_002ID	1	Diona	ディオーナ	こんにちは。遊びに来たわ	Diona	Good evening. I hope you don't mind that I dropped by to see you.	蒂欧娜	你好，我来玩了。	蒂歐娜	妳好，我來找妳玩了。
+CharacterEvent_001_NPC9_002ID	2	Mieke	ミーケ	ようこそようこそ！\nお茶淹れるよ！　ゆっくりしてて！	Mieke	You're always welcome! I'll whip us up some tea, so relax and stay a while!	米珂	欢迎欢迎！我给你泡杯茶！你随意！	米珂	歡迎歡迎！米珂去泡杯茶給妳！妳先坐一下！
+CharacterEvent_001_NPC9_002ID	3	Diona	ディオーナ	ミーケちゃん、最近忙しそう。\nミーケちゃんの作る装飾が素晴らしいからね	Diona	It seems your business has been booming. But that's to be expected when your designs are so lovely.	蒂欧娜	你最近好像很忙。\n谁让你做的装饰品都太棒了呢。	蒂歐娜	米珂妳最近好像很忙。\n畢竟妳做的飾品實在太漂亮了嘛。
+CharacterEvent_001_NPC9_002ID	4	Mieke	ミーケ	まあねぃー！　これもビッグな未来への第一歩だよ	Mieke	Well, I'm not THAT popular yet. But it's a majorly huge step in the right direction!	米珂	还行吧！这也是为了远大未来的第一步嘛。	米珂	還行啦～！這也是邁向偉大未來的第一步。
+CharacterEvent_001_NPC9_002ID	5	Diona	ディオーナ	……前ほどゆっくりお茶ができなくなって寂しいわ	Diona	It makes me a little sad that we can't spend hours together chatting over tea like we used to...	蒂欧娜	……不能和之前一样和你悠闲地品茶，让我有些寂寞。	蒂歐娜	……不能像之前那樣慢慢喝茶，感覺好寂寞呢。
+CharacterEvent_001_NPC9_002ID	6	Mieke	ミーケ	それを言ったらディオたんだって、\n色んな所の劇場から引っ張りだこじゃん！	Mieke	That's because you're always on stage! It's hard to find time now that you're a star.	米珂	要这么说的话，蒂欧你不也是，\n各地的剧场都争相邀请你演出呢！	米珂	要這麼說的話，妳不也是整天忙著在各地的劇院表演！
+CharacterEvent_001_NPC9_002ID	7	Mieke	ミーケ	遠くの劇場に出かけることだって多くなったし	Mieke	Especially with how much you're traveling for shows.	米珂	你现在不是经常跑去很远的剧场吗。	米珂	最近也經常跑去遠地的劇院。
+CharacterEvent_001_NPC9_002ID	8	Diona	ディオーナ	そうね。ありがたいことに、\n聞いてくれる人がたくさんいるみたい	Diona	It's true, I have been on the road a lot lately. But I'm just grateful that there are people out there who want to hear me sing.	蒂欧娜	是啊。\n似乎有很多人愿意听我唱歌，真好。	蒂歐娜	是啊，似乎有很多人願意聽我唱歌，實在令人感激。
+CharacterEvent_001_NPC9_002ID	9	Mieke	ミーケ	勝手に行っちゃヤダー！　全部行く前に連絡して！	Mieke	Don't you dare go anywhere too far without me! At least let me know first!	米珂	不要一声不吭就走啦！走之前都要跟我说一声！	米珂	不准擅自離開啦～！妳每次出遠門前都要先說一聲！
+CharacterEvent_001_NPC9_002ID	10	Diona	ディオーナ	もう、わがまま言わないの	Diona	Oh, don't be silly. It's my job.	蒂欧娜	米珂，不可以耍小性子哦。	蒂歐娜	真是的，別耍任性了。
+CharacterEvent_001_NPC9_002ID	11	Mieke	ミーケ	まあでも、そっかー。ディオたんのほうは順調なんだね	Mieke	Yeah, I get it... You're making it big. Even bigger than me.	米珂	不过看样子，蒂欧那边也过得很顺利呢。	米珂	不過，也是啦～畢竟蒂歐妳過得一帆風順嘛。
+CharacterEvent_001_NPC9_002ID	12	Diona	ディオーナ	……どうなんだろう	Diona	I'm not so sure about that...	蒂欧娜	不好说呢……	蒂歐娜	……是嗎？
+CharacterEvent_001_NPC9_002ID	13	Mieke	ミーケ	え？　順調でしょ？　歌姫としてビッグになってるし、\n意匠設計の才能だって認められてるし	Mieke	Oh, come on! You're a major diva now. Plus, everyone knows what a talented designer you are, too.	米珂	咦？不是很顺利吗？你现在是出名的歌手，\n身为设计师的才能也获得了大家的认可。	米珂	咦？很順利吧？妳現在不但是鼎鼎有名的歌姬，\n設計方面的才能也受到肯定。
+CharacterEvent_001_NPC9_002ID	14	Diona	ディオーナ	それはそうなんだけど……	Diona	It's hard to explain, but...	蒂欧娜	话是这么说没错……	蒂歐娜	話是這麼說沒錯……
+CharacterEvent_001_NPC9_002ID	15	Diona	ディオーナ	時々ね。私、なんのために歌ってるんだろうなって\n思うの	Diona	Sometimes I feel like I've lost sight of why I'm doing any of this in the first place.	蒂欧娜	但有时候我不禁会想，\n我到底是为什么而唱歌的呢。	蒂歐娜	但有時我會想，我究竟是為了什麼而唱歌的呢？
+CharacterEvent_001_NPC9_002ID	16	Diona	ディオーナ	歌も好きだし、綺麗な服を作るのも好きだけど。\nでも、それが何になるんだろうって	Diona	Don't get me wrong, I love singing. And I'm blessed that I get to design such pretty clothes. But I'm missing a reason for it all.	蒂欧娜	虽然我喜欢唱歌，也喜欢制作漂亮衣服，\n但这又有什么意义呢？	蒂歐娜	我確實喜歡唱歌，也喜歡做漂亮的衣服。\n但是，做這些又能得到什麼？
+CharacterEvent_001_NPC9_002ID	17	Diona	ディオーナ	……ぜいたくな悩みだっていうのは\n分かってるんだけどね	Diona	I know I shouldn't be complaining, but that's just how I feel.	蒂欧娜	……我知道这是很奢侈的烦恼。	蒂歐娜	……雖然我很清楚，我這是身在福中不知福。
+CharacterEvent_001_NPC9_002ID	18	Mieke	ミーケ	ディオたんもそういう悩み、あったんだね。\nぜんぜん知らなかった	Mieke	You mean you worry about that kind of stuff too? I had no idea.	米珂	原来蒂欧也会有这种烦恼啊。我完全没发现。	米珂	原來妳也會有這種煩惱啊。米珂完全沒有察覺到。
+CharacterEvent_001_NPC9_002ID	19	Diona	ディオーナ	そういうミーケちゃんは順調じゃないの？	Diona	Oh... Does that mean you're worried too?	蒂欧娜	米珂呢，都还顺利吗？	蒂歐娜	米珂妳會這麼說，難道是遇到什麼不順心的事嗎？
+CharacterEvent_001_NPC9_002ID	20	Mieke	ミーケ	……うん。なんかね。お役人がめんどくさい\nお仕事を持ちかけてきてる	Mieke	Yeah. There's this annoying government official that's been hounding me lately...	米珂	嗯……怎么说呢，\n公务员给我找了个特别麻烦的活儿。	米珂	……嗯。跟妳說喔，\n官員想要委託米珂一份很棘手的工作。
+CharacterEvent_001_NPC9_002ID	21	Mieke	ミーケ	めんどくさいなーって	Mieke	Guess I'm just getting a little fed up.	米珂	真的头大死了。	米珂	米珂覺得好麻煩喔～
+CharacterEvent_001_NPC9_002ID	22	Diona	ディオーナ	なんともならないの？　私ができることはある？\nなんだか、燃えてきたわ	Diona	Is there anything I can do to help? Anything at all? Please, there must be something.	蒂欧娜	你能解决吗？有没有我能帮忙的地方？\n我的斗志似乎也被点燃了呢。	蒂歐娜	沒有辦法能解決嗎？有沒有我幫得上忙的？\n我突然湧起鬥志了呢。
+CharacterEvent_001_NPC9_002ID	23	Mieke	ミーケ	わー！　大丈夫！　これはミーケの問題だから！\nなんとかするよ	Mieke	Whoa, whoa! It's all right, really! I'll figure it out somehow.	米珂	哇！没事！这是米珂的问题！\n米珂会想办法解决的。	米珂	哇～！沒關係！這是米珂自己的問題！\n米珂會想辦法解決的。
+CharacterEvent_001_NPC9_002ID	24	Diona	ディオーナ	……そう	Diona	Oh... All right, then.	蒂欧娜	……这样啊。	蒂歐娜	……這樣啊。
+CharacterEvent_001_NPC9_002ID	25	Mieke	ミーケ	それにしても、なんだかなあ。\n満たされてないって感じがする	Mieke	The thing is, I'm just not feeling fulfilled.	米珂	但是怎么说呢，总觉得没有满足感。	米珂	話說回來，我一直有股好空虛的感覺。
+CharacterEvent_001_NPC9_002ID	26	Diona	ディオーナ	……うん。私も	Diona	I know precisely what you mean.	蒂欧娜	嗯……我也是。	蒂歐娜	……嗯，我也是。
+CharacterEvent_001_NPC9_002ID	27	Diona	ディオーナ	ビーッグ	Diona	Like, majorly!	蒂欧娜	Big——	蒂歐娜	偉～大！
+CharacterEvent_001_NPC9_002ID	28	Mieke	ミーケ	あは！　いいねディオたん、キレが出てきたよ	Mieke	Haha, nice one! You're starting to sound just like me.	米珂	啊哈！不错哦蒂欧，很有气势。	米珂	啊哈！不錯喔，蒂歐，這樣才有勁嘛。
+CharacterEvent_001_NPC9_003ID	0		ディオーナの父	ディオーナ。この前話した町のことは覚えているね	Diona's Father	Diona, do you remember the town I was telling you about before?	蒂欧娜的父亲	蒂欧娜，你还记得之前我和你提过的那个城镇吗。	蒂歐娜的父親	蒂歐娜，妳還記得我上次提過的那座城鎮吧。
+CharacterEvent_001_NPC9_003ID	1	Diona	ディオーナ	もちろんよ、お父様	Diona	Of course.	蒂欧娜	当然了，父亲。	蒂歐娜	我當然記得，父親。
+CharacterEvent_001_NPC9_003ID	2		ディオーナの父	ディオーナに是非歌ってほしいと依頼が来てね。\n明日の夜だが、その町の劇場の予定を押さえてあるんだ	Diona's Father	You've been invited to sing there tomorrow night. They made stage arrangements just for you.	蒂欧娜的父亲	他们表示非常希望你能过去演出，\n预留了当地明晚的剧场。	蒂歐娜的父親	對方非常熱情邀請妳過去唱歌。\n時間是明天晚上，已經事先預約好那裡的劇院了。
+CharacterEvent_001_NPC9_003ID	3		ディオーナの父	歌ってきてくれるかい。ディオーナ	Diona's Father	You'll sing for them, won't you, dear?	蒂欧娜的父亲	你愿意过去演出吗，蒂欧娜？	蒂歐娜的父親	妳願意去嗎？蒂歐娜。
+CharacterEvent_001_NPC9_003ID	4	Diona	ディオーナ	分かった	Diona	Yes, Father. As you wish.	蒂欧娜	我知道了。	蒂歐娜	好的。
+CharacterEvent_001_NPC9_003ID	5		ディオーナの母	あなたは幸せ者ね、ディオーナ。\nこの人の言うとおりにすれば間違いないんだから	Diona's Mother	My dear Diona... Do you have any idea how lucky you are? Your father always finds you such amazing opportunities.	蒂欧娜的母亲	你真幸福呢，蒂欧娜。\n只要按你父亲说的去做，一定不会出错的。	蒂歐娜的母親	蒂歐娜，妳真是幸福呢。\n只要按照他說的去做，就一定不會有問題。
+CharacterEvent_001_NPC9_003ID	6	Diona	ディオーナ	うん。いつも感謝してる	Diona	Yes. I'm grateful for all that the two of you do for me.	蒂欧娜	嗯。我一直很感谢父亲。	蒂歐娜	嗯，我一直很感激。
+CharacterEvent_001_NPC9_003ID	7	Diona	ディオーナ	……それでは、行ってまいります	Diona	I'll be going, then. Wish me luck.	蒂欧娜	……那我出发了。	蒂歐娜	……那麼，我出發了。
+CharacterEvent_001_NPC9_003ID	8	Diona	ディオーナ	（今日もお父様に与えられた仕事をこなす。\n　その間、時間は驚くほど早く過ぎる）	Diona	(As always, I just need to stick to the schedule that my father prepared for me. But when I'm on the road, time always seems to go by in a flash...)	蒂欧娜	（今天也要去做父亲安排的工作。\n　每到这种时候，时间总是过得飞快。）	蒂歐娜	（今天也乖乖完成父親安排的工作。\n　工作的時候，時間流逝的速度快得驚人。）
+CharacterEvent_001_NPC9_003ID	9	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）	Diona	(I shouldn't overthink things. So long as I do what I'm told, things will be fine.)	蒂欧娜	（不思考多余的事、不看多余的东西，\n　一切按部就班就好。）	蒂歐娜	（不思考無關的事情、不看無關的東西，\n　只管做好父親囑咐的事情。）
+CharacterEvent_001_NPC9_003ID	10	Diona	ディオーナ	（だからだろう。町へ向かう道中のことを、\n　私は特に記憶していない）	Diona	(I always disconnect from my thoughts on the way to a show. That's probably why I never remember much about the journey.)	蒂欧娜	（也许正是因为如此，我向来不太记得\n　前往目的地途中发生的事。）	蒂歐娜	（也許是因為這樣，前往城鎮路上所發生的事，\n　我都不太記得。）
+CharacterEvent_001_NPC9_003ID	11	Diona	ディオーナ	（帰り道もそうなるだろう）	Diona	(I thought the road home would be just as uneventful...)	蒂欧娜	（回程也是如此。）	蒂歐娜	（回程也會是如此吧。）
+CharacterEvent_001_NPC9_003ID	12	Diona	ディオーナ	（そうなるはずだった）	Diona	(But I was wrong.)	蒂欧娜	（本该如此。）	蒂歐娜	（原本應該是如此的。）
+CharacterEvent_001_NPC9_003ID	13	Diona	ディオーナ	！	Diona	*Gasp*	蒂欧娜	！	蒂歐娜	！
+CharacterEvent_001_NPC9_003ID	14	Diona	ディオーナ	（薔薇のようだと、思った）	Diona	(She was beautiful. Just like a rose.)	蒂欧娜	（那一刻我心想，真是如蔷薇一般的人啊。）	蒂歐娜	（我心想，那看起來好像一朵玫瑰。）
+CharacterEvent_001_NPC9_003ID	15	Diona	ディオーナ	（その日、何も見えなかった景色の中に、\n　一輪の花が咲いた）	Diona	(In that moment, everything changed. Somewhere in the lonely darkness, that rose took root in my heart and started to bloom.)	蒂欧娜	（那一天，在空无一物的景色中，\n　一朵蔷薇悄然绽放。）	蒂歐娜	（那天，本來一片虛無的景色中，綻放了一朵花。）
+CharacterEvent_001_NPC9_003ID	16		ディオーナの父	ディオーナ。聞いているのかい？	Diona's Father	Diona. Are you listening, dear?	蒂欧娜的父亲	蒂欧娜，你在听吗？	蒂歐娜的父親	蒂歐娜，妳有在聽嗎？
+CharacterEvent_001_NPC9_003ID	17	Diona	ディオーナ	ごめん、少し呆けてた	Diona	Ah, I'm sorry. I was just thinking about something.	蒂欧娜	对不起，我发了一会儿呆。	蒂歐娜	抱歉，我發呆了一下。
+CharacterEvent_001_NPC9_003ID	18		ディオーナの父	いいさいいさ。大事な話だからね。\nもう一度言うよ、ディオーナ	Diona's Father	That's all right. But I need you to listen carefully. This is a matter of great importance.	蒂欧娜的父亲	没关系。这件事很重要，\n我再说一遍，听好了蒂欧娜。	蒂歐娜的父親	不要緊的。這件事很重要，我再說一次喔，蒂歐娜。
+CharacterEvent_001_NPC9_003ID	19		ディオーナの父	新しい仕事が入った。これは大きな仕事だ。\nしばらく忙しくなるよ	Diona's Father	You see, you have a new job coming up. This is a very important job, so you're going to be even busier for a while.	蒂欧娜的父亲	现在有一份很重要的新工作，\n接下来会忙起来。	蒂歐娜的父親	有新工作了，這次規模很大。接下來得忙上一段時間。
+CharacterEvent_001_NPC9_003ID	20		ディオーナの母	元々入れていた優先度の低い仕事はすべて取りやめよ。\n今後の予定についてだけど……	Diona's Mother	That's why I need you to make this your top priority. Now, regarding your schedule...	蒂欧娜的母亲	之前接到的优先度较低的工作全部取消。\n至于今后的行程安排……	蒂歐娜的母親	本來接到的優先度較低的工作全都取消。\n關於今後的行程……
+CharacterEvent_001_NPC9_003ID	21	Diona	ディオーナ	（初めてだ。こんなにも両親の話が\n　頭に入らないのは）	Diona	(That was the first time I'd ever lost focus in the middle of a conversation with my parents.)	蒂欧娜	（我还是第一次这么听不进父母说的话。）	蒂歐娜	（我還是第一次如此聽不進父母所說的話。）
+CharacterEvent_001_NPC9_003ID	22	Diona	ディオーナ	（きっと、あの薔薇のせい。\n　心に浮かぶあの花が、頭から離れない）	Diona	(That mysterious rose had grown larger and larger until it was all I could think about.)	蒂欧娜	（一定是因为那朵蔷薇的缘故。\n　那朵花深深烙印在了我的脑海中。）	蒂歐娜	（一定是那朵玫瑰的錯。\n　在心頭浮現的那朵花，始終揮之不去。）
+CharacterEvent_001_NPC9_003ID	23	Diona	ディオーナ	（それにあの人……どこかで見たことがある気がする。\n　いったい、どこで……）	Diona	(Who was that woman...? I feel as though I've seen her somewhere before. But where?)	蒂欧娜	（而且……我总觉得似乎在哪里见过那个人。\n　究竟在哪儿呢……）	蒂歐娜	（而且那個人……感覺似曾相識。究竟是在哪裡……）
+CharacterEvent_001_NPC9_003ID	24		ディオーナの父	ディオーナ。一体どうしたんだい？\n体調でも悪いのか？　医者を呼ぼうか	Diona's Father	Diona! What's wrong? Are you feeling ill? Perhaps I should call a doctor...	蒂欧娜的父亲	蒂欧娜，你到底怎么了？是不是身体不舒服？\n我叫医生来吧。	蒂歐娜的父親	蒂歐娜，妳到底是怎麼了？\n身體不舒服嗎？要不要叫醫生來？
+CharacterEvent_001_NPC9_003ID	25	Diona	ディオーナ	（こんなことではいけない。\n　お父様の話を聞かなくては）	Diona	(This is no time to be daydreaming like this! Father is trying to tell me something important.)	蒂欧娜	（不能再这样了。\n　我得认真听父亲的话。）	蒂歐娜	（不可以再這樣下去了。必須認真聽父親說話才行。）
+CharacterEvent_001_NPC9_003ID	26	Diona	ディオーナ	（あの花を……枯らさなくては。\n　……でも）	Diona	(If I were in my right mind, I would focus...and let that rose in my heart wither.)	蒂欧娜	（我必须……让那朵花枯萎。\n　但是……）	蒂歐娜	（我得……讓那朵花凋零……可是……）
+CharacterEvent_001_NPC9_003ID	27	Diona	ディオーナ	（枯らしてしまったら、\n　もう二度と咲くことは無いかもしれない）	Diona	(But if I let it die away now, I have a feeling that nothing will ever bloom inside me again.)	蒂欧娜	（一旦枯萎，它可能永远无法再绽放了。）	蒂歐娜	（一旦凋零，或許就不會再綻放了。）
+CharacterEvent_001_NPC9_003ID	28		選択肢	あの人のことを調べてみる	Selection	Look into that mysterious woman	选项	尝试调查那个人	選項	調查看看那個人的事
+CharacterEvent_001_NPC9_003ID	29	Diona	ディオーナ	お父様、お母様。\nごめんなさい。調べたいことがあるの	Diona	Father, Mother... Forgive me. There's something I need to look into at once.	蒂欧娜	父亲，母亲，对不起。我有件事想调查。	蒂歐娜	父親、母親。對不起，我想要調查一件事。
+CharacterEvent_001_NPC9_003ID	30	Diona	ディオーナ	仕事の話はまた今度にさせて	Diona	Let's continue this conversation again after I'm finished.	蒂欧娜	工作的事下次再说吧。	蒂歐娜	工作的事下次再談吧。
+CharacterEvent_001_NPC9_003ID	31		ディオーナの母	急に何を言ってるの？\n自分の仕事以上に大切なことなんてないでしょ？	Diona's Mother	Darling, what are you saying? What could be more important than your career?	蒂欧娜的母亲	你在说什么呢？\n哪有比自己的工作更重要的事？	蒂歐娜的母親	妳突然說這些是什麼意思？\n沒有事比自己的工作還重要吧？
+CharacterEvent_001_NPC9_003ID	32	Diona	ディオーナ	でも、気になるから	Diona	I'm sorry, but I have to go.	蒂欧娜	但是，我心里放不下。	蒂歐娜	但是，我很在意。
+CharacterEvent_001_NPC9_003ID	33		ディオーナの父	ディオーナ…！？\nどうしたんだ、こ、こんな事、はじめてだ	Diona's Father	Diona?! This isn't the daughter I know... What's gotten into you?!	蒂欧娜的父亲	蒂欧娜……？！\n怎么回事，她、她从没这样过。	蒂歐娜的父親	蒂歐娜……！？她是怎麼了？\n這、這種情況還是第一次發生。
+CharacterEvent_001_NPC9_003ID	34	Diona	ディオーナ	（自分でも何故そうしたのかは分からない。\n　ただ一つ言えることは）	Diona	(To be honest, I didn't know, either... But there was one thing I knew for sure.)	蒂欧娜	（我也不明白为什么自己会做出这种事。\n　但有一点我能确信。）	蒂歐娜	（我也不知道自己為什麼要這麼做。\n　唯一能確定的是……）
+CharacterEvent_001_NPC9_003ID	35	Diona	ディオーナ	（私はあの花を愛おしく思ってしまったのだ）	Diona	(At that moment, that mysterious rose had become dearer to me than anything else.)	蒂欧娜	（我觉得那朵花十分惹人怜爱。）	蒂歐娜	（我覺得那朵花很惹人憐愛。）
+CharacterEvent_001_NPC9_003ID	36		選択肢	親の話に集中する	Selection	Try to focus on your parents	选项	集中注意力听父母的话	選項	專心聽父母說話
+CharacterEvent_001_NPC9_003ID	37	Diona	ディオーナ	ごめん、集中する。話の続きをさせて	Diona	I'm sorry, I'm listening now. Please go on.	蒂欧娜	对不起，我会集中精神的。请继续说。	蒂歐娜	抱歉，我會專心的。繼續說下去吧。
+CharacterEvent_001_NPC9_003ID	38		ディオーナの父	そうか、疲れていたらいつでも言うんだよ。\nいいか？　まず最初にやるべきことは……	Diona's Father	Are you sure? If you're tired, you can always tell us. Anyway, the first thing you'll need to focus on is...	蒂欧娜的父亲	是吗，累的话就告诉我。\n听好了，首先我们要做的是……	蒂歐娜的父親	這樣啊，要是累了，隨時都可以說喔。\n那麼妳聽好囉，首先該做的是……
+CharacterEvent_001_NPC9_003ID	39	Diona	ディオーナ	（大丈夫。何度も繰り返してきたことだ）	Diona	(I can do this. Just as I always have.)	蒂欧娜	（没事的，这种事至今为止有过很多次了。）	蒂歐娜	（沒關係，這種事早就經歷過好幾次了。）
+CharacterEvent_001_NPC9_003ID	40	Diona	ディオーナ	（余計なことは考えず、余計なものは何も見ず、\n　言われたことを、言われたとおりに）	Diona	(Don't overthink things. Don't go looking for purpose. Just do as you're told.)	蒂欧娜	（不思考多余的事、不看多余的东西，\n　一切按部就班就好。）	蒂歐娜	（不思考無關的事情、不看無關的東西，\n　只管做好父親囑咐的事情。）
+CharacterEvent_001_NPC9_003ID	41	Diona	ディオーナ	（芽生えた気持ちはぎゅっと踏みつけて。\n　ホウキでささっと掃いてみせれば）	Diona	(I need to crush that rose with all of my might.)	蒂欧娜	（如果有多余的情感萌芽，\n　就立刻打碎了清理干净。）	蒂歐娜	（狠狠踩碎在內心萌芽的情感，\n　再用掃把掃一掃就好。）
+CharacterEvent_001_NPC9_003ID	42	Diona	ディオーナ	（そうすれば、ほら）	Diona	(As long as I sweep my feelings under the rug, I can go back to the way things were.)	蒂欧娜	（如此一来……）	蒂歐娜	（這麼一來，看吧。）
+CharacterEvent_001_NPC9_003ID	43	Diona	ディオーナ	（また何も見えなくなった）	Diona	(Alone again in the dark.)	蒂欧娜	（就能恢复到什么都看不见的状态。）	蒂歐娜	（又什麼都看不到了。）
+CharacterEvent_001_NPC9_003ID	44		ディオーナの母	いずれ貴方は、この国で最高の歌姫になるわ。\nいえ、私たちでしてみせる	Diona's Mother	One day, you will be the brightest star in the entire kingdom. Your father and I will make sure of it.	蒂欧娜的母亲	总有一天，你会成为全国最顶尖的歌手。\n不，我们一定会让这成为现实。	蒂歐娜的母親	妳總有一天會成為這個國家最厲害的歌姬。\n不，我們會將妳送上那個寶座。
+CharacterEvent_001_NPC9_004ID	0	Diona	ディオーナ	（初めて両親に逆らった私は、\n　すれ違ったあの女性について調べ始めた）	Diona	(That was the first time I had ever disobeyed my parents. All to find a woman I didn't even know.)	蒂欧娜	（第一次违逆父母的我开始调查那位\n　与我擦肩而过的女性。）	蒂歐娜	（第一次違抗父母的我，\n　開始著手調查那位擦身而過的女性。）
+CharacterEvent_001_NPC9_004ID	1	Diona	ディオーナ	（どこかで見たことがある。\n　その記憶を頼りに手掛かりを探し……）	Diona	(But I recognized her from somewhere. I just had to search my memories to find out where.)	蒂欧娜	（我凭着模糊的记忆寻找线索……）	蒂歐娜	（感覺似曾相識。我根據這個印象尋找線索……）
+CharacterEvent_001_NPC9_004ID	2	Diona	ディオーナ	（ついに彼女が、指名手配犯ララ・トロッケルであると\n　突き止めた）	Diona	(And at last, I found my answer. The woman I saw was none other than Lara Trockel, a wanted criminal.)	蒂欧娜	（最后查明了她就是通缉犯拉拉·特罗克尔。）	蒂歐娜	（終於查到她就是通緝犯拉拉‧特羅克爾。）
+CharacterEvent_001_NPC9_004ID	3	Diona	ディオーナ	（地方のほうだから何の噂も立たなかったけれど）	Diona	(Her infamy hadn't reached the remote part of the kingdom I called home...)	蒂欧娜	（可能因为在乡下地方，所以没引起任何风波。）	蒂歐娜	（因為這裡地處偏鄉，所以沒有引起任何傳聞。）
+CharacterEvent_001_NPC9_004ID	4	Diona	ディオーナ	（王都のほうで姿を現していたらきっと大騒ぎに\n　なっていただろう）	Diona	(But she caused quite a stir whenever she showed herself in the capital.)	蒂欧娜	（如果是在王都被人目睹了行踪，\n　一定会引起轰动吧。）	蒂歐娜	（要是她出現在王都那邊，\n　想必早已鬧得人仰馬翻了吧。）
+CharacterEvent_001_NPC9_004ID	5	Diona	ディオーナ	（探していた人が、指名手配犯……。\n　なぜそんな人のことが、こんなにも気になるの？）	Diona	(I must be going mad. How could I have been so obsessed over someone I've never even met? A criminal, at that!)	蒂欧娜	（我要找的人是通缉犯……\n　为什么我会如此在意那种人？）	蒂歐娜	（我在尋找的人其實是通緝犯……\n　為什麼我會如此在意那種人呢？）
+CharacterEvent_001_NPC9_004ID	6	Mieke	ミーケ	あ、ディオたんみーっけ！	Mieke	Oh, good! There you are!	米珂	啊，找到蒂欧了！	米珂	啊，找到蒂歐了～！
+CharacterEvent_001_NPC9_004ID	7	Diona	ディオーナ	ミーケちゃん！？　こんな夜中にどうして？	Diona	Mieke?! It's the middle of the night! What are you doing here?	蒂欧娜	米珂？！怎么大半夜的来找我？	蒂歐娜	米珂！？妳這麼晚來做什麼？
+CharacterEvent_001_NPC9_004ID	8	Mieke	ミーケ	ちょっとディオたんに合わせたい人がいてさ。\nついてきてほしいんだ	Mieke	I was looking for you. See, there's someone who wants to meet you.	米珂	米珂想给蒂欧介绍个人，希望你能跟我来。	米珂	我想帶蒂歐妳去見個人。希望妳能跟我走一趟。
+CharacterEvent_001_NPC9_004ID	9	Diona	ディオーナ	今から伺うの？　非常識よ。\nまた明日にでも……	Diona	At this hour? That's ridiculous. Can't they wait until morning?	蒂欧娜	现在去？这太夸张了。\n明天也可以……	蒂歐娜	現在過去？太荒謬了。還是明天再……
+CharacterEvent_001_NPC9_004ID	10	Mieke	ミーケ	ううん、その人がディオたんのことを呼んでるの	Mieke	Nope. It's official. You've been summoned.	米珂	不，那个人说了要让蒂欧过去。	米珂	不行，那個人在呼喚蒂歐。
+CharacterEvent_001_NPC9_004ID	11	Diona	ディオーナ	え？	Diona	Summoned...?	蒂欧娜	什么？	蒂歐娜	咦？
+CharacterEvent_001_NPC9_004ID	12	Mieke	ミーケ	ほら、考えるのはあと！　絶対に後悔しないから！	Mieke	Oh, just quit worrying and come with me. You won't regret it!	米珂	好了，晚点再思考吧！反正你绝对不会后悔的！	米珂	好啦，先走再說！妳絕對不會後悔的！
+CharacterEvent_001_NPC9_004ID	13	Diona	ディオーナ	あ、待って！	Diona	Wait for me!	蒂欧娜	啊，等等！	蒂歐娜	啊，等一下！
+CharacterEvent_001_NPC9_004ID	14	Mieke	ミーケ	お待たせ、連れてきたよ	Mieke	Sorry for the wait! I brought Diona just like you asked.	米珂	久等了，米珂把她带来了。	米珂	久等了，米珂把人帶來了。
+CharacterEvent_001_NPC9_004ID	15	Diona	ディオーナ	ここにいるの？　いったいどちら様……	Diona	Where are we...? And who in the world are we meeting?	蒂欧娜	就在这里吗？到底是何方神圣……	蒂歐娜	在這裡嗎？到底是何方神聖……
+CharacterEvent_001_NPC9_004ID	16	Lara	ララ	一目見た時から、あなたをお誘いすると\n決めていましたわ	Lara	Allow me to explain. I had resolved to summon you here since I first laid eyes on you.	拉拉	第一次见你时，\n我就决定要邀请你了。	拉拉	第一眼見到妳時，我就決定要邀請妳了。
+CharacterEvent_001_NPC9_004ID	17	Diona	ディオーナ	っ！　あなたは……！	Diona	*Gasp* You're...	蒂欧娜	啊！你是……！	蒂歐娜	唔！妳是……！
+CharacterEvent_001_NPC9_004ID	18	Lara	ララ	わたくしはララ・トロッケル。\n誇り高きララ・キングダムの王	Lara	Lara Trockel, Queen of the Kingdom of Lara.	拉拉	我名为拉拉·特罗克尔。\n是高贵的拉拉王国之王。	拉拉	我是拉拉‧特羅克爾，高貴的拉拉王國君主。
+CharacterEvent_001_NPC9_004ID	19	Diona	ディオーナ	……ねえ、ミーケちゃん。どうしてこの人に？	Diona	Mieke... What are you doing with this woman?	蒂欧娜	……米珂，为什么要让我见她？	蒂歐娜	……我說，米珂。妳為什麼帶我來見這個人？
+CharacterEvent_001_NPC9_004ID	20	Mieke	ミーケ	前にさ、話してたじゃん？\n今の毎日が満たされてない気がするって	Mieke	Well... Y'know how I was telling you before that I wasn't feeling fulfilled?	米珂	米珂之前不是说过吗？\n现在每天都没有满足感。	米珂	我們之前不是說過嗎？\n感覺現在每天都過得很空虛。
+CharacterEvent_001_NPC9_004ID	21	Mieke	ミーケ	だから、それを変えたいって思ってさ。\nこの人に付いていくことにしたんだ	Mieke	I realized I needed to do something about it, so I decided to become one of her followers.	米珂	为了改变这一点，米珂决定跟随她了。	米珂	為了改變這個現狀，我決定追隨這個人。
+CharacterEvent_001_NPC9_004ID	22	Diona	ディオーナ	指名手配犯なのよ！	Diona	That woman is a wanted criminal!	蒂欧娜	她可是通缉犯啊！	蒂歐娜	她可是通緝犯啊！
+CharacterEvent_001_NPC9_004ID	23	Mieke	ミーケ	知ってるよ。\nディオたんが反対することだってわかってた	Mieke	I know that! And I knew you'd react this way, too.	米珂	米珂知道。\n米珂也知道蒂欧会反对。	米珂	我知道，也早就猜到妳會反對了。
+CharacterEvent_001_NPC9_004ID	24	Mieke	ミーケ	それでもなんだよ。話だけでも聞いてほしいんだ。\nディオたんのためにもなると思ってるから	Mieke	I know how it sounds, but just hear her out. Trust me, this is for your own good.	米珂	但就算这样，米珂还是希望蒂欧能听听\n她是怎么说的。我想这对蒂欧来说一定也有好处。	米珂	就算這樣我還是決心如此。妳就聽聽她怎麼說吧。\n這也是為了妳好。
+CharacterEvent_001_NPC9_004ID	25	Diona	ディオーナ	ミーケちゃん……	Diona	Mieke...	蒂欧娜	米珂……	蒂歐娜	米珂……
+CharacterEvent_001_NPC9_004ID	26	Lara	ララ	素晴らしい友情ですわ。\nやはりあなたがた二人ともが欲しくなりました	Lara	You're fortunate to have such a wonderful friendship. My kingdom needs fine people like you two.	拉拉	真是令人动容的友情。\n果然你们两个我都想要。	拉拉	真是令人感動的友情呢。\n我果然還是想把妳們倆都一起收入麾下。
+CharacterEvent_001_NPC9_004ID	27	Lara	ララ	ディオーナ。ここしばらくの間、\nあなたのことを見させていただきましたわ	Lara	Let me cut to the chase, Diona. I've been watching you for quite some time now.	拉拉	蒂欧娜，最近这段时间我一直在观察你。	拉拉	蒂歐娜，這陣子我一直關注著妳。
+CharacterEvent_001_NPC9_004ID	28	Lara	ララ	あなたのその歌の才能。\nそして、服飾の意匠設計力……賞賛に値します	Lara	Not only do you have the gift of song, you're also an accomplished seamstress. Such talents should be rewarded.	拉拉	你的唱歌才华和服装设计能力……值得赞赏。	拉拉	妳的歌唱才華，以及設計服飾的能力……\n都很值得讚賞。
+CharacterEvent_001_NPC9_004ID	29	Lara	ララ	あなたにはキングダムの服飾係として、\nそして歌姫としてわたくしの王国に加わる資質がある	Lara	Thus, I believe you to be worthy of a place in my kingdom. As both a royal songstress and seamstress.	拉拉	你有资格作为司服大臣和歌手加入拉拉王国。	拉拉	妳有資質加入我的王國，\n成為王國的服裝設計師以及歌姬。
+CharacterEvent_001_NPC9_004ID	30	Lara	ララ	わたくしの下へいらっしゃい。\n歓迎いたしますわよ	Lara	Join me, and my kingdom will welcome you with open arms.	拉拉	成为我的臣民吧，我非常欢迎你。	拉拉	加入我的麾下吧。我很歡迎妳喔。
+CharacterEvent_001_NPC9_004ID	31	Diona	ディオーナ	……聞いてもいいですか？	Diona	Could I ask you something?	蒂欧娜	……我可以问一个问题吗？	蒂歐娜	……我可以問個問題嗎？
+CharacterEvent_001_NPC9_004ID	32	Lara	ララ	なんなりと	Lara	But of course.	拉拉	请问。	拉拉	儘管問吧。
+CharacterEvent_001_NPC9_004ID	33	Diona	ディオーナ	私は今、成功しています。そんな私が、\n貴方の所に行って、何を得られるのですか？	Diona	My career here is taking off. If I decide to go with you to your kingdom, what will I gain?	蒂欧娜	我现在已经收获了成功。\n成为你的臣民之后又能获得什么呢？	蒂歐娜	我現在已經非常成功。\n這樣的我，加入妳又能獲得什麼呢？
+CharacterEvent_001_NPC9_004ID	34	Lara	ララ	王としてあなたの渇きを満たすことを約束しますわ。\nそれは決して豊かな暮らしだけでは掴めないものです	Lara	As queen, I promise to fill the hole inside your heart. I can fulfill you in ways fortune and fame never could.	拉拉	作为国王，我保证会让你得到你所渴求之物。\n那是光靠富裕的生活无法得到的的东西。	拉拉	我以君主的身分答應妳，一定會滿足妳的渴望。\n而那絕非僅憑富裕的生活就能獲得的。
+CharacterEvent_001_NPC9_004ID	35	Lara	ララ	あなたが見ることができなかった景色……。\nそれを見せてあげましょう	Lara	I can give you a light in the midst of all that darkness.	拉拉	我会让你看见……你未能看见的景色。	拉拉	我會讓妳看看……妳過去無法看見的景色。
+CharacterEvent_001_NPC9_004ID	36	Diona	ディオーナ	……もう一つ。\nあなたは国王になって、何を成したいのですか？	Diona	...Then I have one more question. What do you and your kingdom hope to accomplish?	蒂欧娜	……我还有一个问题。\n你成为国王想要做什么？	蒂歐娜	……再問個問題。妳成為國王的目的何在？
+CharacterEvent_001_NPC9_004ID	37	Lara	ララ	それは、実際に見せた方が早いですわね。\n二人とも、わたくしに近寄りなさいな	Lara	It would be much faster just to show you. Both of you, come here.	拉拉	这个嘛，让你们亲眼看到会比较快。\n你们到我身边来。	拉拉	關於這一點，讓妳們親眼目睹應該更快。\n妳們倆都靠過來吧。
+CharacterEvent_001_NPC9_004ID	38	Diona	ディオーナ	……？	Diona	...?	蒂欧娜	……？	蒂歐娜	……？
+CharacterEvent_001_NPC9_004ID	39	Lara	ララ	さあ、行きますわよ	Lara	Let us be off!	拉拉	好，要出发了。	拉拉	來，走吧。
+CharacterEvent_001_NPC9_004ID	40	Diona	ディオーナ	わっ！？	Diona	Whoa!	蒂欧娜	哇？！	蒂歐娜	哇！？
+CharacterEvent_001_NPC9_004ID	41	Diona	ディオーナ	！	Diona	*Gasp*	蒂欧娜	！	蒂歐娜	！
+CharacterEvent_001_NPC9_005ID	0	Diona	ディオーナ	ここは……	Diona	What is this place...?	蒂欧娜	这里是……	蒂歐娜	這裡是……
+CharacterEvent_001_NPC9_005ID	1	Lara	ララ	この地こそがララ・キングダム。わたくしの王国	Lara	Why, the Kingdom of Lara, of course!	拉拉	这里就是我的拉拉王国。	拉拉	這片土地正是拉拉王國──我的王國。
+CharacterEvent_001_NPC9_005ID	2	Lara	ララ	まだ始まったばかりの国ですけれどね。\n土地だって荒れ果てていますわ	Lara	My kingdom is still in its infancy, so the land has yet to be fully developed.	拉拉	虽然才刚刚起步，就连土地都还一片荒芜。	拉拉	雖然還只是剛起步的國家，土地也荒蕪得不得了。
+CharacterEvent_001_NPC9_005ID	3	Lara	ララ	ですが、わたくしはこの渇きすら潤し、\n民に安寧の地を作りますの	Lara	But I vow to make my kingdom a peaceful land for all. A place where not a single subject's desires go unfulfilled.	拉拉	但我会滋润这片干涸的土地，\n打造一片能让国民获得安宁的净土。	拉拉	但是，我會讓這份乾渴也獲得滋潤，\n打造出人民安居樂業之地。
+CharacterEvent_001_NPC9_005ID	4	Lara	ララ	……ディオーナ。わたくしが何を成したいのか\n聞きましたわね	Lara	So, Diona... You asked me what I hoped to accomplish.	拉拉	蒂欧娜……你刚才问我想做什么对吧。	拉拉	……蒂歐娜，妳剛才問我目的何在對吧？
+CharacterEvent_001_NPC9_005ID	5	Lara	ララ	わたくしは理想の国家を作り、\n満たされぬ者たちの縁となりたいのです	Lara	It's simple. I wish to create the perfect kingdom. One where everyone can feel whole.	拉拉	我想打造一个理想的国家，\n成为未满足者的纽带。	拉拉	我想要打造出理想的國家，\n成為有所渴求之人的避風港。
+CharacterEvent_001_NPC9_005ID	6	Lara	ララ	そう。あなたたちのような者の縁に	Lara	Including people like you.	拉拉	没错，就是你们这种人的机缘。	拉拉	沒錯，就是成為妳們這些人的避風港。
+CharacterEvent_001_NPC9_005ID	7	Diona	ディオーナ	……！	Diona	Me...?	蒂欧娜	……！	蒂歐娜	……！
+CharacterEvent_001_NPC9_005ID	8	Lara	ララ	だから今、手を差し伸べているのです	Lara	That's why I am inviting you to join me.	拉拉	所以我才向你抛出了橄榄枝。	拉拉	所以，我才會向妳伸出手。
+CharacterEvent_001_NPC9_005ID	9	Diona	ディオーナ	……	Diona	...	蒂欧娜	……	蒂歐娜	……
+CharacterEvent_001_NPC9_005ID	10	Diona	ディオーナ	……少し猶予をいただけませんか？	Diona	May I have some time to think this over?	蒂欧娜	……能再给我点时间吗？	蒂歐娜	……可以給我一點時間考慮嗎？
+CharacterEvent_001_NPC9_005ID	11	Lara	ララ	ええ、もちろん。すぐには決められないことでしょう	Lara	Of course, my dear. I understand that this is not a decision to be made lightly.	拉拉	当然可以。这种事很难马上做出决断吧。	拉拉	好，當然可以。這畢竟不是一時半刻就能決定的事。
+CharacterEvent_001_NPC9_005ID	12	Lara	ララ	三日後。同じ場所で待っていますわ。\nいらっしゃらなかったら、その気はないと判断します	Lara	You have three days. I will be waiting for you in the place we met. If you do not show up, then I will know that you have declined my generous offer.	拉拉	三天后，我会在同一地方等你。\n若你不来，我就认为你是拒绝了。	拉拉	三天後，我在同樣的地點等妳。\n沒出現的話，我就當妳拒絕了。
+CharacterEvent_001_NPC9_005ID	13	Diona	ディオーナ	（それから三日間。私は考えに考えた）	Diona	(For three days, I thought long and hard about what to do...)	蒂欧娜	（那之后的三天，我一直在思考这件事。）	蒂歐娜	（接下來的三天，我反覆思來想去。）
+CharacterEvent_001_NPC9_005ID	14	Diona	ディオーナ	（ずっとどこか満たされていないと感じていた。\n　この現状を変える絶好の機会なのかもしれない）	Diona	(I've always felt something was missing from my life. This could be the perfect opportunity to make a change.)	蒂欧娜	（我一直感觉自己没有得到满足。\n　也许这是个改变现状的好机会。）	蒂歐娜	（我一直覺得內心有股空虛的感覺。\n　這或許是改變現狀絕佳的機會。）
+CharacterEvent_001_NPC9_005ID	15	Diona	ディオーナ	（何より、彼女が掲げる理想……それに私の心も\n　揺れ動いてしまった）	Diona	(Queen Lara's lofty ideals moved me to my core.)	蒂欧娜	（最重要的是，她所宣扬的理想……\n　打动了我。）	蒂歐娜	（最重要的是，她所追求的理想……\n　也打動了我的心。）
+CharacterEvent_001_NPC9_005ID	16	Diona	ディオーナ	（だけど、彼女の下へ行くこと……\n　それは今までの自分をすべて捨てることになる）	Diona	(But joining her would mean throwing away everything I've built up to this point.)	蒂欧娜	（但成为她的臣民……就意味着\n　要舍弃我积累至今的一切。）	蒂歐娜	（但是，現在加入她的麾下……\n　就表示我要捨棄過去至今的自己。）
+CharacterEvent_001_NPC9_005ID	17	Diona	ディオーナ	（両親の言うことさえ聞いていれば、\n　私の人生は万事がうまくいくはずなのだ）	Diona	(If I just keep playing the role of the dutiful daughter and doing exactly as my parents say, I'll be set for life.)	蒂欧娜	（只要听从父母的命令，\n　我就能过上一帆风顺的日子。）	蒂歐娜	（只要乖乖聽父母的話，\n　我的人生理應會過得萬事如意。）
+CharacterEvent_001_NPC9_005ID	18	Diona	ディオーナ	（そのどちらを取るのか、私は選ばなくてはならない）	Diona	(But I can only choose one path forward.)	蒂欧娜	（我必须要在这两者之间做出抉择。）	蒂歐娜	（要選擇哪一邊，我必須做出取捨。）
+CharacterEvent_001_NPC9_005ID	19	Diona	ディオーナ	（……あの日景色に咲いた一輪の花が、\n　今もまだ揺れている）	Diona	(The beautiful flower that bloomed in my heart is swaying within me, again and again...)	蒂欧娜	（那天我在一片虚无中看到的蔷薇，\n　至今依旧随风摇摆着。）	蒂歐娜	（……那天綻放在景色裡的那朵花，\n　至今依然搖曳著。）
+CharacterEvent_001_NPC9_005ID	20	Diona	ディオーナ	私は……	Diona	I'm going to...	蒂欧娜	我……	蒂歐娜	我……
+CharacterEvent_001_NPC9_005ID	21		選択肢	ミーケたちと行動を共にする	Selection	Go with Mieke and join Lara	选项	加入米珂她们	選項	跟米珂她們一起行動
+CharacterEvent_001_NPC9_005ID	22	Diona	ディオーナ	（私は決めた。ミーケちゃんたちと行動を共にすると）	Diona	(I've decided once and for all. I'm going with Mieke to join the Kingdom of Lara.)	蒂欧娜	（我决定了，我要加入米珂她们。）	蒂歐娜	（我決定了。我要跟米珂她們一起行動。）
+CharacterEvent_001_NPC9_005ID	23	Diona	ディオーナ	お父様とお母様を説得しないと……いえ	Diona	Before I go, I suppose I ought to talk with my parents...	蒂欧娜	必须说服父亲和母亲……不对。	蒂歐娜	必須說服父親和母親才行……不對。
+CharacterEvent_001_NPC9_005ID	24	Diona	ディオーナ	説得になど応じてくれるわけないわね。\n手紙を、残していこう	Diona	But no matter what I say, they would never allow it. Perhaps it would be better to leave a letter.	蒂欧娜	他们不可能会同意的。\n还是给他们留一封书信吧。	蒂歐娜	他們不可能會接受的。寫封信留給他們吧。
+CharacterEvent_001_NPC9_005ID	25	Diona	ディオーナ	……！　もうすぐ期限の時間。まだ旅の準備も\nできていない……悩みすぎてしまったわ	Diona	Oh, no! I got so carried away worrying that I'm almost out of time! I'm not even packed.	蒂欧娜	啊……！马上就到约好的时间了，\n但我纠结太久……还没做好旅行的准备。	蒂歐娜	……！馬上就快到期限了。\n還沒有做好旅行的準備……我煩惱太久了。
+CharacterEvent_001_NPC9_005ID	26	Diona	ディオーナ	急がないと！	Diona	I have to hurry!	蒂欧娜	得快点行动了！	蒂歐娜	得快點才行！
+CharacterEvent_001_NPC9_005ID	27	Diona	ディオーナ	（あの日景色に咲いた一輪の花が、\n　激しく揺れている）	Diona	(As I felt the storm in my heart whipping that lone flower back and forth, I realized...)	蒂欧娜	（那天我在一片虚无中看到的蔷薇，\n　至今依旧随风剧烈摇摆着。）	蒂歐娜	（那天綻放在景色裡的那朵花，\n　現在劇烈搖曳著。）
+CharacterEvent_001_NPC9_005ID	28	Diona	ディオーナ	（ああ、そうか。これは花ではなかったのだ）	Diona	(It wasn't a flower at all.)	蒂欧娜	（啊，我明白了。那不是花。）	蒂歐娜	（啊啊，原來如此，這並不是花。）
+CharacterEvent_001_NPC9_005ID	29	Diona	ディオーナ	（私の景色に、真っ赤な炎が灯ったのだ）	Diona	(That single bloom had grown into a blazing flame within.)	蒂欧娜	（那是我眼前的景色中燃起的一团鲜红火焰。）	蒂歐娜	（我的景色裡，燃起了通紅的火焰。）
+CharacterEvent_001_NPC9_005ID	30		選択肢	ミーケたちと行動を共にしない	Selection	Stay and let Mieke join Lara by herself	选项	不加入米珂她们	選項	不跟米珂她們一起行動
+CharacterEvent_001_NPC9_005ID	31	Diona	ディオーナ	（私は決めた。\n　ミーケちゃんたちと行動は共にしないと）	Diona	(I've made up my mind. Mieke will have to go to the Kingdom of Lara alone.)	蒂欧娜	（我决定了，不加入米珂她们。）	蒂歐娜	（我決定了。我不跟米珂她們一起行動。）
+CharacterEvent_001_NPC9_005ID	32	Diona	ディオーナ	（そして、私は両親に謝り、先日受けた仕事の話を\n　再開した）	Diona	(What I really need to do is go home, apologize to my parents, and focus on my next big opportunity.)	蒂欧娜	（并且我向父母亲道歉，\n　开始着手上次接到的工作。）	蒂歐娜	（於是我向父母道歉，\n與他們重新研議前陣子接到的工作。）
+CharacterEvent_001_NPC9_005ID	33	Diona	ディオーナ	（ララ・トロッケルを通報することはしなかった。\n　彼女の想い自体は崇高なものだと感じたし……）	Diona	(And so, I didn't meet Lara Trockel. As impressive as her dreams sound, my silence will have to be its own answer.)	蒂欧娜	（我没有告发拉拉·特罗克尔。\n　她的理想本身是崇高的……）	蒂歐娜	（我沒有報警抓拉拉‧特羅克爾。\n　畢竟她的理想本身是很崇高的……）
+CharacterEvent_001_NPC9_005ID	34	Diona	ディオーナ	（ミーケちゃんのこれからも応援したかったから）	Diona	(I just hope that Mieke will thrive in her kingdom.)	蒂欧娜	（而且今后我也想继续支持米珂。）	蒂歐娜	（而且我也希望米珂未來能夠順利。）
+CharacterEvent_001_NPC9_005ID	35	Diona	ディオーナ	（あの日景色に咲いた一輪の花。\n　それはまだ色鮮やかに揺れている）	Diona	(And as for the flower that took root in my heart on that fateful day...)	蒂欧娜	（那天我在一片虚无中看到的蔷薇，\n　那抹鲜艳的颜色依旧在随风摇荡。）	蒂歐娜	（那天綻放在景色裡的那朵花，\n　現在依然嬌豔欲滴地搖曳著。）
+CharacterEvent_001_NPC9_005ID	36	Diona	ディオーナ	（私はそれに、一生触れないと決めた）	Diona	(I vowed never to let it bewitch me again for as long as I lived.)	蒂欧娜	（我下定决心，此生不会触碰它。）	蒂歐娜	（我下定決心一輩子不去觸碰它。）
+CharacterEvent_001_NPC9_006ID	0		庭師	ふう……この庭も形になってきたな！	Gardener	Phew... This is certainly shaping up to be a fine garden.	园艺师	呼……这个庭园总算有点像样了！	園藝師	呼……這座庭院也開始有點樣子了呢！
+CharacterEvent_001_NPC9_006ID	1	Diona	ディオーナ	……うーん	Diona	Hmm...	蒂欧娜	嗯……	蒂歐娜	……唔……
+CharacterEvent_001_NPC9_006ID	2	Mieke	ミーケ	おっと、ディオたんは気に入らないの？	Mieke	What's the matter, Diona? Don't you like it?	米珂	啊，难道蒂欧不喜欢吗？	米珂	哎呀，蒂歐不喜歡嗎？
+CharacterEvent_001_NPC9_006ID	3	Diona	ディオーナ	ええ。もう一段美しくできるはず。\nララ様に捧げるものであればなおさらよ！	Diona	It certainly is beautiful, but it needs to be perfect! After all, it must be worthy of our queen.	蒂欧娜	是的。它可以更美。\n这是要献给拉拉大人的东西，更应精益求精！	蒂歐娜	嗯，應該能弄得更美才對。\n更別說這是要獻給拉拉大人的東西！
+CharacterEvent_001_NPC9_006ID	4	Diona	ディオーナ	この辺りの花は中央の大きな花を引き立たせるために\nあえて密度を薄くするべきだし	Diona	We need the surrounding flowers to accentuate the beauty of those in the center. Let's cut them back a bit.	蒂欧娜	为了衬托中央的大朵鲜花，\n应该减少四周的花的密度才对。	蒂歐娜	為了襯托出中央那朵最大的花，\n這一帶的花朵不應太過密集。
+CharacterEvent_001_NPC9_006ID	5	Diona	ディオーナ	こっちの花は青い花にした方が\n色の調和は取れているもの	Diona	If we plant some blue flowers here instead, I think the overall balance would be much better.	蒂欧娜	而且这边的花换成蓝色会更和谐。	蒂歐娜	這邊要換成藍色的花，顏色看起來才會協調。
+CharacterEvent_001_NPC9_006ID	6	Diona	ディオーナ	こうしてはいられないわ。\nすぐ青い花を調達してくる	Diona	Oh, this simply can't wait. We need to replant this area at once.	蒂欧娜	这样不行，我马上去准备蓝色的花。	蒂歐娜	真是看不下去了。我立刻去找藍色的花過來。
+CharacterEvent_001_NPC9_006ID	7	Mieke	ミーケ	え、今から！？　もうすぐ夜になっちゃうよ！	Mieke	Wait, you mean right now?! The sun is about to set!	米珂	咦，现在吗？！马上就要天黑了哦！	米珂	咦，現在嗎！？天馬上就要黑了耶！
+CharacterEvent_001_NPC9_006ID	8	Diona	ディオーナ	大丈夫、近くで自生しているところを知ってるの	Diona	Don't worry, I know a place where wild ones grow nearby.	蒂欧娜	没关系，我知道附近有一片长着蓝花的地方。	蒂歐娜	放心，我知道這附近有地方生長著藍花。
+CharacterEvent_001_NPC9_006ID	9		庭師	いやあ、ディオーナちゃんはお淑やかだと\n思ってたけど、ミーケちゃんより行動派だね	Gardener	When I first met Diona, I thought she was a bit shyer than you, Mieke. But I must say, she really knows how to put a plan into action!	园艺师	哎呀，我还以为蒂欧娜挺文静的，\n没想到行动力比米珂还强呢。	園藝師	哎呀～我本來以為蒂歐娜是很端莊文靜的，\n沒想到比米珂還要有行動力呢。
+CharacterEvent_001_NPC9_006ID	10	Mieke	ミーケ	まあ、美しさに関わるものになると\n暴走しがちかなー	Mieke	Yeah, when it comes to aesthetics, Diona never has to think twice.	米珂	啊，在关于美的事情上她很容易暴走呢。	米珂	當然啦，只要事關美醜，她就很容易失控～
+CharacterEvent_001_NPC9_006ID	11	Mieke	ミーケ	でも、そのこだわりの強さが意匠設計の才能に\n繋がってるんだろうね	Mieke	But that passion is also what makes her so great at what she does.	米珂	不过，应该正是这份坚持\n磨练出了她的设计师才能吧。	米珂	不過，也許是這種對於美感的堅持，\n造就了她在設計方面的才華吧。
+CharacterEvent_001_NPC9_006ID	12	Diona	ディオーナ	はぁ、はぁ、お待たせ！！	Diona	*Huff* *Huff* There, I got them!	蒂欧娜	呼、呼，久等了！！	蒂歐娜	呼～呼～讓你們久等了！！
+CharacterEvent_001_NPC9_006ID	13	Mieke	ミーケ	はや！！！	Mieke	Whoa! That was fast!	米珂	好快！！！	米珂	好快！！！
+CharacterEvent_001_NPC9_006ID	14	Diona	ディオーナ	ララ様のためだもの。時間を無駄にしていられないわ！	Diona	Of course, there's not a moment to waste! After all, this is for Queen Lara.	蒂欧娜	为了拉拉大人，当然不能浪费时间了！	蒂歐娜	畢竟是為了拉拉大人呀。可不能浪費時間！
+CharacterEvent_001_NPC9_006ID	15	Mieke	ミーケ	こだわりだけじゃなくて、愛も規格外だなあ。\nディオたんは	Mieke	This is more than passion, it's love. You really put your whole heart into your work.	米珂	蒂欧娜不仅对美有独到的坚持，\n这份爱也超乎寻常啊。	米珂	不光是堅持，蒂歐娜的愛也是非比尋常呢。
+CharacterEvent_001_NPC9_007ID	0	Diona	ディオーナ	じー……	Diona	Hmm...	蒂欧娜	盯……	蒂歐娜	（緊盯）……
+CharacterEvent_001_NPC9_007ID	1	Lara	ララ	……何をしていますの？\n情熱的な視線を感じますが	Lara	Your eyes are practically burning holes into me, my dear. Is there something on your mind?	拉拉	……你在看什么？\n我感受到一道热情的视线在盯着我。	拉拉	……妳在做什麼？\n我感覺到了一股熾熱的視線。
+CharacterEvent_001_NPC9_007ID	2	Diona	ディオーナ	ララ様の新曲を作ろうと思いまして。\n良いところを一つも逃さんとしているのです	Diona	I'm writing a song about you, Your Majesty, so I wanted to make sure that I captured every last one of your virtues.	蒂欧娜	我在打算为拉拉大人作一首新曲。\n所以不能错过拉拉大人的每一个优点。	蒂歐娜	我打算為拉拉大人寫一首新歌，\n所以想要仔細看清楚您的每個優點。
+CharacterEvent_001_NPC9_007ID	3	Lara	ララ	なるほど。では思う存分見なさいな。\n王の立ち振る舞いというものを！	Lara	I see. In that case, stare all you want. Drink in my regal grace!	拉拉	原来如此，那你就把本王的一举一动\n看到尽兴为止吧！	拉拉	原來如此，那妳就儘管看吧。\n好好欣賞我舉手投足間的王者風範！
+CharacterEvent_001_NPC9_007ID	4	Mieke	ミーケ	こーら、ディオたん！　また突っ走ってるよ！\nさすがに迷惑だと思うねぇ	Mieke	Lay off a little, Diona! You're distracting the queen...	米珂	蒂欧！你又这么鲁莽！\n你这样会给拉拉大人添麻烦的。	米珂	喂～蒂歐！妳又自己開始一頭熱了！\n妳這樣人家會很困擾的。
+CharacterEvent_001_NPC9_007ID	5	Diona	ディオーナ	あ、ああ……ごめんなさい。\nどうも熱が入ると周りが見えず……	Diona	Oh, right... Please forgive me, I got a bit too carried away.	蒂欧娜	啊，啊……对不起。\n我一激动起来，就顾不了那么多了……	蒂歐娜	啊，是……抱歉。\n我只要太過熱衷一件事，好像就會忽略周遭……
+CharacterEvent_001_NPC9_007ID	6	Lara	ララ	わたくしは別に構いませんのに	Lara	Not at all, my dear. Carry on.	拉拉	我不介意哦。	拉拉	我倒不在意就是了。
+CharacterEvent_001_NPC9_007ID	7	Diona	ディオーナ	猛省しないと。ララ・キングダムに身を置く以前……\n取材をした方をとても困らせてしまったことがあり……	Diona	I need to do some serious reflection on my writing process. You see, I've had trouble with certain subjects in the past.	蒂欧娜	我必须深刻反省。在加入拉拉王国之前……\n我就曾经给采访对象添过很大的麻烦……	蒂歐娜	我會好好反省的。在加入拉拉王國之前……\n我也曾經在取材時造成對方很大的困擾……
+CharacterEvent_001_NPC9_007ID	8	Lara	ララ	どんなことがありましたの？	Lara	What kind of trouble?	拉拉	当时发生什么事了？	拉拉	發生了什麼事？
+CharacterEvent_001_NPC9_007ID	9	Diona	ディオーナ	私の歌の一つに、竜狩りで有名な白夜の騎士を\n称えるものがありますが、その時に取材をしまして……	Diona	Once, I wrote a song about a famous dragon slayer. A Knight of the Midnight Sun. But while I was researching her...	蒂欧娜	我有一首赞美因屠龙而名声大噪的白夜骑士的歌，\n当时采访的时候……	蒂歐娜	我有首歌是在讚頌因為獵龍而聲名大噪的白夜騎士，\n當時曾向她取材……
+CharacterEvent_001_NPC9_007ID	10	Diona	ディオーナ	（竜狩りのユナがヴィアベル州に来てるらしい。\n　この機会を逃す手はないわ！）	Diona	(Rumor has it that the Dragon Slayer, Juna, is here in Wirbel. I can't let an opportunity like this pass me by!)	蒂欧娜	（屠龙者尤娜似乎来薇亚贝尔州了。\n　我可不能放过这个机会！）	蒂歐娜	（聽說獵龍者尤娜來到了維亞貝爾州。\n　可不能錯過這個機會！）
+CharacterEvent_001_NPC9_007ID	11	Juna	ユナ	竜を目撃したというのはあなたか？	Juna	Excuse me. Are you the one who sighted a dragon in the area?	尤娜	目击到龙的人就是你吗？	尤娜	目擊到龍的就是你嗎？
+CharacterEvent_001_NPC9_007ID	12		船乗り	ええ！　先日船を出していたら、水平線を大陸側に\n飛んでいくのを見まして……	Sailor	Yeah, that was me! When I was out on the water the other day, I looked back toward the shore and saw a dragon flying around!	船员	没错！前几天出海的时候，\n我看到有条龙从水平线方向飞往大陆……	船員	對！我前陣子出海時，\n看到龍從水平線飛向大陸那邊……
+CharacterEvent_001_NPC9_007ID	13	Diona	ディオーナ	（あの方ね！　まずは所作を観察するところから。\n　じー……）	Diona	(That must be Juna! For now, I'll just observe from a distance...)	蒂欧娜	（就是她吧！先观察她的行动。\n　我盯……）	蒂歐娜	（就是那位吧！先從觀察舉手投足開始。\n　（緊盯）……）
+CharacterEvent_001_NPC9_007ID	14	Juna	ユナ	！　殺気か！？　何者だ！	Juna	Who's there?! Show yourself!	尤娜	有杀气？！什么人！	尤娜	！有殺氣！？是誰！
+CharacterEvent_001_NPC9_007ID	15	Diona	ディオーナ	ひゃっ！　すみません！　怪しい者ではありません！	Diona	Eek, I'm terribly sorry! I don't mean you any harm, I promise!	蒂欧娜	呀！对不起！我不是什么可疑的人！	蒂歐娜	呀啊！對不起！我不是可疑人物！
+CharacterEvent_001_NPC9_007ID	16	Juna	ユナ	あなたは……歌姫ディオーナか？\n何をしているんだ	Juna	Wait... Aren't you the famous diva, Diona? What are you doing here?	尤娜	你是……歌手蒂欧娜？你在这里做什么？	尤娜	妳是……歌姬蒂歐娜嗎？妳在做什麼？
+CharacterEvent_001_NPC9_007ID	17	Diona	ディオーナ	あなたについての詩を書きたいと思いまして。\n失礼ながら観察させていただいていました	Diona	You see, I'd like to write a song about you. So if you don't mind, I'd like to study you for inspiration.	蒂欧娜	我想写一首关于你的歌，所以一直在观察你。\n真是不好意思。	蒂歐娜	我想寫一首以妳為主題的歌詞，\n所以就冒昧地觀察起妳了。
+CharacterEvent_001_NPC9_007ID	18	Juna	ユナ	そ、そうか	Juna	A song? About me?	尤娜	这、这样啊。	尤娜	這、這樣啊。
+CharacterEvent_001_NPC9_007ID	19	Diona	ディオーナ	貴方の歌を、歌える事を光栄に思います	Diona	It would be an honor to sing your praises.	蒂欧娜	我很荣幸能演唱赞颂你的歌曲。	蒂歐娜	能演唱關於妳的歌，我感到非常光榮。
+CharacterEvent_001_NPC9_007ID	20	Juna	ユナ	高名な歌姫に、歌にしてもらえるなど、\nこちらこそ光栄だ	Juna	No, the honor is all mine. It's hard to believe that a songstress of your caliber would sing about someone like me.	尤娜	能成为知名歌手的演唱素材，\n该感到荣幸的人是我才对。	尤娜	能夠讓名聲赫赫的歌姬為我寫歌，\n才是我的光榮。
+CharacterEvent_001_NPC9_007ID	21	Diona	ディオーナ	まず、白夜の騎士として普段どのような心構えで\nいるのかについてお尋ねしたいのが一つ	Diona	First off, I'd like to understand what being a Knight of the Midnight Sun means to you.	蒂欧娜	首先我想问，您作为白夜骑士，\n平时都抱着一种怎样的心态呢？	蒂歐娜	首先，我想請教妳平常都是抱著什麼樣的心態，\n在面對白夜騎士這個身份的。
+CharacterEvent_001_NPC9_007ID	22	Diona	ディオーナ	そして実際に今どのような想いを抱いているか、\n今後の目標についてもお尋ねしたく	Diona	Then, I want to hear about any current struggles you might have, as well as your thoughts and hopes for the future.	蒂欧娜	以及，实际上您现在在想什么，\n今后有什么目标？	蒂歐娜	再來是現在實際上的心境，以及今後的目標。
+CharacterEvent_001_NPC9_007ID	23	Diona	ディオーナ	あとは竜を狩るようになった理由、\n初めて狩ったときの想い、それから……	Diona	Plus, I'm dying to know how you became a dragon slayer. And how it felt to slay your first dragon! Oh, and...	蒂欧娜	还有您为什么会开始屠龙、\n第一次屠龙后的感想，以及……	蒂歐娜	還有妳開始獵龍的原因、\n第一次獵龍成功的感想，然後是……
+CharacterEvent_001_NPC9_007ID	24	Juna	ユナ	ま、待て！　私は口下手でな。\n質問は絞ってもらえると助かる……	Juna	Erm, could you please slow down a bit? I'm not always great with words, so it would help to take these questions one at a time...	尤娜	等、等等！\n我嘴巴笨，最好是能少问几个问题……	尤娜	等、等等！我很不擅言辭。\n希望妳可以精簡問題……
+CharacterEvent_001_NPC9_007ID	25	Diona	ディオーナ	それでしたら、お供しますので\n手が空いた時に回答してもらえますか？	Diona	In that case, would you allow me to shadow you? Then I could ask questions whenever time permits!	蒂欧娜	要不这样，我跟您一起去，能请您在有空的时候回答我的问题吗？	蒂歐娜	這樣的話，我會跟在妳身邊，可以請妳在有空的時候回答我嗎？
+CharacterEvent_001_NPC9_007ID	26	Juna	ユナ	私が竜を倒せたのは、師匠に鍛えられたおかげだ	Juna	It was all thanks to my master's training that I was able to fell that dragon.	尤娜	我之所以能打倒龙，多亏了师父的悉心指导。	尤娜	我之所以能夠打倒龍，都要多虧師父的栽培。
+CharacterEvent_001_NPC9_007ID	27	Diona	ディオーナ	ふむふむ。出会いの時から聞かせてもらえますか？	Diona	I see... Could you tell me more about how the two of you first met?	蒂欧娜	嗯嗯。能从头说说您和您师父之间的事吗？	蒂歐娜	嗯嗯，可以從兩位相識的經過說起嗎？
+CharacterEvent_001_NPC9_007ID	28	Diona	ディオーナ	おお、魔物が現れました！\n戦闘中に意識していることは？	Diona	Oh, my! Monsters! In heated battles like this, what kind of thoughts run through your head?	蒂欧娜	啊，魔物出现了！\n您在战斗中特别注意的点是？	蒂歐娜	哦哦，魔物現身了！\n妳在戰鬥中會留意哪些事？
+CharacterEvent_001_NPC9_007ID	29	Juna	ユナ	言っている場合か！　下がっていろ！	Juna	There's no time to explain now! Stand back!	尤娜	你还有心思说这个！退下！	尤娜	現在不是說這個的時候！快退下！
+CharacterEvent_001_NPC9_007ID	30	Diona	ディオーナ	夜は警戒のため武装したまま就寝……と。\nこのまま夜明けまで見ていましょうか	Diona	Juna, ever vigilant, even keeps her armor on while she sleeps... I'll watch her all through the night so I don't miss a thing!	蒂欧娜	晚上为了警戒会全副武装就寝……\n那我就观察到天亮为止吧。	蒂歐娜	晚上為了保持警戒而全副武裝睡覺……好。\n就這樣觀察到天亮為止吧。
+CharacterEvent_001_NPC9_007ID	31	Juna	ユナ	ね、眠れん……	Juna	Ngh, I can't possibly sleep like this...	尤娜	睡、睡不着……	尤娜	睡、睡不著……
+CharacterEvent_001_NPC9_007ID	32	Diona	ディオーナ	ありがとうございました！\nおかげで良い詩が書けそうです！	Diona	Thank you, Juna! With all this material, I'm sure that the song will turn out perfectly!	蒂欧娜	感谢您的配合！\n这下能写出很棒的歌了！	蒂歐娜	非常謝謝妳！多虧妳的協助，\n我應該能寫出很棒的歌詞！
+CharacterEvent_001_NPC9_007ID	33	Juna	ユナ	ああ……それは良かった。\nなぜだろう。今までになく疲労したな……	Juna	Oh, uh... That's great. But somehow that was far more exhausting than anticipated...	尤娜	啊……那就好。\n不知道为什么，我还是第一次这么疲惫……	尤娜	嗯……那真是太好了。\n不知為何，我感受到了前所未有的疲勞……
+CharacterEvent_001_NPC9_007ID	34	Diona	ディオーナ	……ということが	Diona	I guess I went a bit too far.	蒂欧娜	……当时发生了这种事。	蒂歐娜	……事情就是這樣。
+CharacterEvent_001_NPC9_007ID	35	Mieke	ミーケ	猟奇的だよ、ディオたん……	Mieke	Sometimes you're too curious for your own good...	米珂	你好奇葩哦，蒂欧……	米珂	蒂歐妳這種執著好可怕啊……
+CharacterEvent_001_NPC9_007ID	36	Diona	ディオーナ	真面目なものを作ろうと、頑張ったつもりなんですが	Diona	I was only trying to show my subject how dedicated I was.	蒂欧娜	我是抱着认真做出好作品的心态去做的……	蒂歐娜	我只是努力想要寫出好作品而已。
+CharacterEvent_001_NPC9_007ID	37	Diona	ディオーナ	猛省！	Diona	But I promise to learn from my mistakes!	蒂欧娜	但还是要深刻反省！	蒂歐娜	但我會好好反省的！
+CharacterEvent_001_NPC9_007ID	38	Lara	ララ	そんなディオーナも、素敵ですけどね	Lara	You know, Diona, that's one of the qualities I admire most about you.	拉拉	不过我觉得这样的蒂欧娜也很棒哦。	拉拉	我倒覺得蒂歐娜這樣也很棒喔。
+CharacterEvent_001_NPC9_007ID	39	Mieke	ミーケ	器がビーッグ	Mieke	Yeah, she's got major potential!	米珂	器量真大呢。	米珂	好偉～大的器量！
+CharacterEvent_001_NPC9_007ID	40	Juna	ユナ	現場に来るというのか、さすが歌姫、すごい根性だ	Juna	I suppose I should have known that a great singer like you wouldn't hesitate to go straight to the source for her material.	尤娜	居然来现场观摩，不愧是著名歌手，很有毅力。	尤娜	竟然親自來到現場啊，不愧是歌姬，真是毅力驚人。
+CharacterEvent_001_NPC9_IF_001ID	0		ディオーナの父	ほら、ディオーナ。あれが王城だ。\n今から私たちはあそこに行くんだよ	Diona's Father	Look, Diona. It's the royal palace! Can you believe that we're heading there now?	蒂欧娜的父亲	蒂欧娜，看，那就是王城。\n是我们现在要去的地方。	蒂歐娜的父親	蒂歐娜妳看，那就是王城。我們現在就是要去那裡。
+CharacterEvent_001_NPC9_IF_001ID	1		ディオーナの母	ついに国王の御前で歌を披露するのよ。\nディオーナ、頑張ったわね	Diona's Mother	Your hard work brought you all this way... And now you're about to sing before the royal family!	蒂欧娜的母亲	你终于能在国王面前演唱了。\n做得真棒，蒂欧娜。	蒂歐娜的母親	終於要在國王尊前演唱了。蒂歐娜，多虧了妳的努力。
+CharacterEvent_001_NPC9_IF_001ID	2	Diona	ディオーナ	ううん。お父様とお母様のおかげよ	Diona	It wasn't my hard work. This is all thanks to the two of you.	蒂欧娜	不，这一切都是父亲和母亲的功劳。	蒂歐娜	不，這都要感謝父親和母親。
+CharacterEvent_001_NPC9_IF_001ID	3		ディオーナの父	来るところまで登りつめたな。\nどうだ、ディオーナ。ここからの景色は。何が見える？	Diona's Father	You've reached the heights of stardom now. How does it feel to be at the top? What kind of future do you envision for yourself?	蒂欧娜的父亲	你终于登上顶点了。\n如何，蒂欧娜，现在你能看到怎样的景色？	蒂歐娜的父親	終於登上最高的頂點了。\n蒂歐娜，從這裡望見的景色如何？看得見什麼呢？
+CharacterEvent_001_NPC9_IF_001ID	4	Diona	ディオーナ	……何も	Diona	All I see...is blackness.	蒂欧娜	……空无一物。	蒂歐娜	……什麼都看不見。
+CharacterEvent_001_NPC9_IF_001ID	5		ディオーナの母	それはそれで深いけど、\nこういう時はね。こう言うの	Diona's Mother	Oh, darling. This is no time for existentialism. The next time someone asks you, you should try to sound a little more positive.	蒂欧娜的母亲	虽然这样很有深意，\n但这种时候应该这么说。	蒂歐娜的母親	雖然這回答挺耐人尋味的，\n但這種時候，妳該這麼說才對──
+CharacterEvent_001_NPC9_IF_001ID	6		ディオーナの母	明るい未来が見える、って。分かりやすいほうがいいわ	Diona's Mother	Tell them about the bright future you see outstretched before you.	蒂欧娜的母亲	“我看见了光明的未来”。这样简明易懂的表述更好。	蒂歐娜的母親	「我看見了光明的未來」，這種清楚明瞭答案比較好。
+CharacterEvent_001_NPC9_IF_001ID	7	Diona	ディオーナ	うん、分かった	Diona	Yes, Mother.	蒂欧娜	好，我知道了。	蒂歐娜	嗯，我明白了。
+CharacterEvent_001_NPC9_IF_001ID	8		ディオーナの父	さあ。改めて。何が見える、私たちのディオーナ？	Diona's Father	Now let's try this again. Dearest Diona, what kind of future do you envision for yourself?	蒂欧娜的父亲	来，我再问一次，我们的蒂欧娜看到了什么？	蒂歐娜的父親	好，那麼再問一次。我們的蒂歐娜，妳看得見什麼呢？
+CharacterEvent_001_NPC9_IF_001ID	9	Diona	ディオーナ	明るい未来	Diona	A bright one.	蒂欧娜	光明的未来。	蒂歐娜	光明的未來。
+CharacterEvent_001_NPC9_IF_002ID	0	Diona	ディオーナ	（あれから。私は両親と共に、歌姫としての活動を\n　継続していた）	Diona	(After that, I continued to sing for my fans with the help of my parents.)	蒂欧娜	（自那之后，\n　我继续按父母的指示作为歌手活动。）	蒂歐娜	（在那之後，我和父母一起持續進行歌姬的活動。）
+CharacterEvent_001_NPC9_IF_002ID	1	Diona	ディオーナ	（一つ変わったことと言えば、それは私が両親に\n　意見するようになったことだろう）	Diona	(But one thing did change: I began to speak my mind and tell my parents how I really felt.)	蒂欧娜	（要说有什么变化的话，\n　那就是我开始会向父母提出意见了。）	蒂歐娜	（要說有什麼改變的話，\n　那就是我開始會向父母表達自己的意見了。）
+CharacterEvent_001_NPC9_IF_002ID	2	Diona	ディオーナ	（最初のうちは邪険に扱われたが、\n　今は互いによく相談しあうようになった）	Diona	(At first, my thoughts were like a nuisance to them. But over time, our communication improved drastically.)	蒂欧娜	（虽然一开始他们非常不高兴，\n　但现在我们经常一起商量。）	蒂歐娜	（雖然他們一開始完全不聽我說，\n　但現在彼此經常會互相交換想法。）
+CharacterEvent_001_NPC9_IF_002ID	3	Diona	ディオーナ	（結局のところ。私たちの間には、対話が\n　足りていなかっただけなのかもしれない）	Diona	(In the end, maybe that's what I had been missing all along: the ability to speak my mind.)	蒂欧娜	（说到底，也许只是我们之间缺少沟通罢了。）	蒂歐娜	（到頭來，或許我們之間只是缺乏溝通而已。）
+CharacterEvent_001_NPC9_IF_002ID	4		ディオーナの父	今日は王都で歌を披露する。お偉いさん方も\nたくさん訪れるだろうから、頑張っていこうね	Diona's Father	Some of the most eminent figures in the kingdom will be attending your performance in the capital today, so be sure to give them a good show.	蒂欧娜的父亲	今天你在王都演唱，\n会有很多贵族来。要加油啊。	蒂歐娜的父親	今天要在王都演唱，想必也會有許多達官顯要到場，\n妳要好好加油喔。
+CharacterEvent_001_NPC9_IF_002ID	5	Diona	ディオーナ	分かってるわ。そうそう、今王国では錬金術士\nというものが注目されているらしいわ	Diona	Of course, Father. But there's one thing I wanted to share. Apparently, alchemy has become quite popular in the kingdom.	蒂欧娜	我明白。\n对了，听说现在国内的焦点都在炼金术士身上。	蒂歐娜	我知道。對了，聽說鍊金術士是王國現在\n最受矚目的風雲人物。
+CharacterEvent_001_NPC9_IF_002ID	6	Diona	ディオーナ	私たちの仕事に関係するかは分からないけど、\nぜひお近づきになっておきたいわね	Diona	It may not concern our work directly, but it certainly wouldn't hurt to learn more about it.	蒂欧娜	虽然不一定会和我们的工作有关联，\n但我想多了解一些。	蒂歐娜	雖然不知道跟我們的工作會不會有交集，\n但希望能有機會跟他們打好關係。
+CharacterEvent_001_NPC9_IF_002ID	7		ディオーナの父	おぉ、そうだね。王都のことも知りたいし。\n後でカフェに寄るとしようか	Diona's Father	Right you are. Besides, this is an opportunity to get to know the capital better as a whole. Why don't we visit a local cafe?	蒂欧娜的父亲	哦，你说得对。我也想多了解一点王都的事。\n那就之后去一趟咖啡厅吧。	蒂歐娜的父親	哦哦，說得也是。我也想多了解王都一點。\n晚點去咖啡廳看看吧。
+CharacterEvent_001_NPC9_IF_002ID	8	Diona	ディオーナ	……あっ	Diona	Ah...	蒂欧娜	啊……	蒂歐娜	……啊。
+CharacterEvent_001_NPC9_IF_002ID	9		ディオーナの父	どうした？	Diona's Father	What's the matter, dear?	蒂欧娜的父亲	怎么了？	蒂歐娜的父親	怎麼了？
+CharacterEvent_001_NPC9_IF_002ID	10	Diona	ディオーナ	……ううん、なんでもない	Diona	It's nothing... I'm fine.	蒂欧娜	……不，没事。	蒂歐娜	……不，沒什麼。
+CharacterEvent_001_NPC9_IF_002ID	11	Diona	ディオーナ	それじゃあ、劇場へ向かいましょう、お父様	Diona	We'd better get going. We don't want to be late.	蒂欧娜	我们该出发去剧场了，父亲。	蒂歐娜	那麼，我們前往劇院吧，父親。
+CharacterEvent_001_NPC9_IF_002ID	12	Diona	ディオーナ	（私の景色に咲いた花が、久しぶりに揺れた）	Diona	(For the first time in ages, I felt that flower stir deep within my heart.)	蒂欧娜	（在我的景色中绽放的鲜花久违地晃动了。）	蒂歐娜	（在我的景色裡綻放的那朵花，久違地搖曳了起來。）
+CharacterEvent_001_NPC9_IF_002ID	13	Diona	ディオーナ	（あの日と同じ綺麗なまま。けれどもう、\n　瑞々しさはない）	Diona	(It was just as beautiful as the day it first bloomed, but somehow, it had lost its vibrancy.)	蒂欧娜	（它依旧美丽，但失去了往昔的饱满。）	蒂歐娜	（依舊跟那天一樣美麗。然而，失去了鮮嫩光澤。）
+CharacterEvent_001_NPC9_IF_002ID	14	Diona	ディオーナ	（きっと今触れたら、ボロボロになって崩れ落ちて\n　しまうだろう）	Diona	(If I reached out to touch its petals, even if only for a moment, surely my whole world would come crashing down around me.)	蒂欧娜	（如果现在触碰它，一定会凋零吧。）	蒂歐娜	（現在要是觸碰的話，一定會化為碎片吧。）
+CharacterEvent_001_NPC9_IF_002ID	15	Diona	ディオーナ	（しかし、そんな日が訪れることもないだろう）	Diona	(But deep down, I knew. That would never come to pass.)	蒂欧娜	（但那一天应该不会到来。）	蒂歐娜	（但是，想必那一天不會到來。）
+CharacterEvent_001_NPC9_IF_002ID	16	Diona	ディオーナ	（私は、それに一生触れないと決めたのだから）	Diona	(After all, I promised myself: I would never let that flower consume me again.)	蒂欧娜	（因为我已经下定决心，此生不会触碰它。）	蒂歐娜	（因為我已經下定決心一輩子不去觸碰了。）

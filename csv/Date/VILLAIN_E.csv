@@ -1,276 +1,276 @@
 file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
-Date_VILLAIN_E_01ID	0	Rorona	ロロナ	（今日もいい天気。\n　お客さん、たくさん来るかも！）						
-Date_VILLAIN_E_01ID	1	Rorona	ロロナ	よーし、今日も美味しいパイを焼くぞー！						
-Date_VILLAIN_E_01ID	2	Rorona	ロロナ	あ、いらっしゃいませー！						
-Date_VILLAIN_E_01ID	3	Rorona	ロロナ	（あれ？　アンチュさんだ）						
-Date_VILLAIN_E_01ID	4		選択肢	いらっしゃいませ						
-Date_VILLAIN_E_01ID	5	Rorona	ロロナ	いらっしゃいませー						
-Date_VILLAIN_E_01ID	6	Rorona	ロロナ	空いているお好きな席、どうぞー						
-Date_VILLAIN_E_01ID	7	Antje	アンチュ	……食事をしに来たんじゃないわ						
-Date_VILLAIN_E_01ID	8		選択肢	どうしましたか？						
-Date_VILLAIN_E_01ID	9	Rorona	ロロナ	どうしましたか？\n何か、お困りですか？						
-Date_VILLAIN_E_01ID	10	Antje	アンチュ	……						
-Date_VILLAIN_E_01ID	11	Rorona	ロロナ	アンチュさん？						
-Date_VILLAIN_E_01ID	12	Antje	アンチュ	！　わ、私……？\nど、どうもしないわ						
-Date_VILLAIN_E_01ID	13		選択肢	誰か探してるんですか？						
-Date_VILLAIN_E_01ID	14	Rorona	ロロナ	アンチュさん、誰か探してるんですか？						
-Date_VILLAIN_E_01ID	15	Antje	アンチュ	べ、別に……\n貴方には関係ないでしょ						
-Date_VILLAIN_E_01ID	16	Rorona	ロロナ	あの、もしかしたら力になれるかなって						
-Date_VILLAIN_E_01ID	17	Antje	アンチュ	……						
-Date_VILLAIN_E_01ID	18	Rorona	ロロナ	ア、アンチュさん……？\nあれれ……						
-Date_VILLAIN_E_01ID	19	Rorona	ロロナ	（アンチュさん、\n　お話したくないのかな……\n　無理に話しかけるのは、ダメだよね）						
-Date_VILLAIN_E_01ID	20	AONA	アオナ	せっかく来たけれど、レスナ、いないね						
-Date_VILLAIN_E_01ID	21	MURASAKI	ムラサキ	そんな都合よく会えるなんてこと\nあるわけないよ						
-Date_VILLAIN_E_01ID	22	RUAKKA	ルアッカ	アンチュが探してるってのによぉ……\nレスナのやつ、どーこいっちまったんだぁ？						
-Date_VILLAIN_E_01ID	23	YELLO	イェーロ	キット、レスナハ　忙シイノヨ。\n仕方ナイワ						
-Date_VILLAIN_E_01ID	24	Rorona	ロロナ	（わ、わぁ……！）						
-Date_VILLAIN_E_01ID	25	Antje	アンチュ	……何？						
-Date_VILLAIN_E_01ID	26		選択肢	かわいい！						
-Date_VILLAIN_E_01ID	27	Rorona	ロロナ	かわいい！						
-Date_VILLAIN_E_01ID	28	RUAKKA	ルアッカ	なんだぁ！？\nそれってオラたちのことか！？						
-Date_VILLAIN_E_01ID	29	Rorona	ロロナ	うん！　おしゃべりするみんな、\nすっごーくかわいい！						
-Date_VILLAIN_E_01ID	30		選択肢	すごい！						
-Date_VILLAIN_E_01ID	31	Rorona	ロロナ	すごい、すごーい！						
-Date_VILLAIN_E_01ID	32	Antje	アンチュ	な、何よ、急に						
-Date_VILLAIN_E_01ID	33	Rorona	ロロナ	みんな仲良くおしゃべりしてる！\nすごーい！						
-Date_VILLAIN_E_01ID	34	MURASAKI	ムラサキ	何当たり前のこと言ってるんだろう。\n別にすごくないのにね						
-Date_VILLAIN_E_01ID	35		選択肢	お人形さんたちも、いらっしゃいませ！						
-Date_VILLAIN_E_01ID	36	Rorona	ロロナ	お人形さんたちも、いらっしゃいませ！						
-Date_VILLAIN_E_01ID	37	AONA	アオナ	ア、アオナたちにも挨拶してくれるの？						
-Date_VILLAIN_E_01ID	38	YELLO	イェーロ	ナンダカ　嬉シイワネ						
-Date_VILLAIN_E_01ID	39	Rorona	ロロナ	アンチュさんのお人形も、\nおしゃべりするんだね						
-Date_VILLAIN_E_01ID	40	Antje	アンチュ	……も？						
-Date_VILLAIN_E_01ID	41	Rorona	ロロナ	うん。わたしの友達の、りおちゃんにも、\nホロくんとラニャちゃんっていう\nお人形のお友達がいるんです						
-Date_VILLAIN_E_01ID	42	Antje	アンチュ	……へぇ						
-Date_VILLAIN_E_01ID	43	Rorona	ロロナ	みんなの名前はなんていうんですか？						
-Date_VILLAIN_E_01ID	44	YELLO	イェーロ	黄色ノ私ガ　イェーロ。\n紫ノ兎ガ　ムラサキ。青イ猫ガ　アオナ。\n赤クテ好戦的ナノガ、ルアッカ　ヨ						
-Date_VILLAIN_E_01ID	45	Rorona	ロロナ	わたしはロロナです！　えーっと、\nイエちゃん、サキくん、アオちゃん、\nルアくん！　よろしくね！						
-Date_VILLAIN_E_01ID	46	AONA	アオナ	よろしく、ロロナ						
-Date_VILLAIN_E_01ID	47	Yksel	イクセル	ロロナ―！　パイの注文入ったぜ！						
-Date_VILLAIN_E_01ID	48	Rorona	ロロナ	は、はーい！						
-Date_VILLAIN_E_01ID	49	Antje	アンチュ	……お邪魔したわ						
-Date_VILLAIN_E_01ID	50	Rorona	ロロナ	あ、アンチュさん！						
-Date_VILLAIN_E_01ID	51		選択肢	またお話ししたいです！						
-Date_VILLAIN_E_01ID	52	Rorona	ロロナ	またお話ししたいです！						
-Date_VILLAIN_E_01ID	53	Antje	アンチュ	気が向いたらね……						
-Date_VILLAIN_E_01ID	54	AONA	アオナ	またね、ロロナ						
-Date_VILLAIN_E_01ID	55		選択肢	パイ、食べていきませんか？						
-Date_VILLAIN_E_01ID	56	Rorona	ロロナ	パイ、食べていきませんか？						
-Date_VILLAIN_E_01ID	57	Antje	アンチュ	たった今、他の客から注文入ったじゃない。\nそっちに集中しなさいよ						
-Date_VILLAIN_E_01ID	58	MURASAKI	ムラサキ	パイは嫌いじゃないんだけどね。\nまた誘ってくれるようなら、食べるよ						
-Date_VILLAIN_E_01ID	59		選択肢	またのお越しをお待ちしてます						
-Date_VILLAIN_E_01ID	60	Rorona	ロロナ	またのお越しをお待ちしてまーす						
-Date_VILLAIN_E_01ID	61	Antje	アンチュ	別に私は客じゃないのだけど……						
-Date_VILLAIN_E_01ID	62	RUAKKA	ルアッカ	まぁうまそうなのは確かだ。\n腹ぁ減ったら、来るかもな！						
-Date_VILLAIN_E_01ID	63	Rorona	ロロナ	（アンチュさんとも、イエちゃんたちとも\n　仲良くなりたいな）						
-Date_VILLAIN_E_02ID	0	Rorona	ロロナ	（イクセくんにおつかいで頼まれたものは、\n　これと、あと、えーっと……）						
-Date_VILLAIN_E_02ID	1	Rorona	ロロナ	（あれ？　アンチュさん……泣いてる？\n　どうしたんだろう）						
-Date_VILLAIN_E_02ID	2	Rorona	ロロナ	（お、追いかけよう！）						
-Date_VILLAIN_E_02ID	3		選択肢	どうしたんですか？						
-Date_VILLAIN_E_02ID	4	Rorona	ロロナ	どうしたんですか？　大丈夫？						
-Date_VILLAIN_E_02ID	5	Antje	アンチュ	！　ど、どうして、ここに……\n私の監視？						
-Date_VILLAIN_E_02ID	6	Rorona	ロロナ	ち、違います！　えっと、えっと……						
-Date_VILLAIN_E_02ID	7		選択肢	ハンカチどうぞ						
-Date_VILLAIN_E_02ID	8	Rorona	ロロナ	あの、よかったら、ハンカチどうぞ						
-Date_VILLAIN_E_02ID	9	Antje	アンチュ	！　べ、別にいらないわ。\n泣いてなんかないもの						
-Date_VILLAIN_E_02ID	10	Rorona	ロロナ	で、でも……						
-Date_VILLAIN_E_02ID	11		選択肢	食べたら笑顔になるパイです！						
-Date_VILLAIN_E_02ID	12	Rorona	ロロナ	食べたら笑顔になるパイです！						
-Date_VILLAIN_E_02ID	13	Antje	アンチュ	！　……何それ。\n怪しいったらないわ						
-Date_VILLAIN_E_02ID	14	Rorona	ロロナ	あ、あう……						
-Date_VILLAIN_E_02ID	15	Rorona	ロロナ	わたし、落ち込んだ顔で歩くアンチュさんを\n見かけて、それで心配で……\n何かあったんですか？						
-Date_VILLAIN_E_02ID	16	Antje	アンチュ	……						
-Date_VILLAIN_E_02ID	17	YELLO	イェーロ	実ハ、アンチュガ　楽シミニシテイタ本ノ\n新刊発売日ガ　延期サレチャッテネ。\n発売日未定ニ　ナッチャッタノヨ						
-Date_VILLAIN_E_02ID	18	MURASAKI	ムラサキ	それだけじゃないのさ。突風で枝に髪の毛が\n引っかかったり、落ち葉たまりかと思ったら\n水たまりだったりね……						
-Date_VILLAIN_E_02ID	19	Antje	アンチュ	と、とっても楽しみにしていたのに……\nどうしていつもいつも……						
-Date_VILLAIN_E_02ID	20		選択肢	延期の分、もっといい本になってるかも！						
-Date_VILLAIN_E_02ID	21	Rorona	ロロナ	確かに、延期は辛いですけど……\nその分、もっといい作品になっているかも\nしれません！						
-Date_VILLAIN_E_02ID	22	Antje	アンチュ	貴方、随分お気楽なのね……\n難産の可能性だってあるじゃない……						
-Date_VILLAIN_E_02ID	23	AONA	アオナ	ロロナの考えは、アンチュちゃんには\n少し辛いかも。ずっと前から今日を\nとても楽しみにしていたから						
-Date_VILLAIN_E_02ID	24		選択肢	嫌なことがあった分、いいこともあるかも！						
-Date_VILLAIN_E_02ID	25	Rorona	ロロナ	嫌なことがあっても、きっとその分\nいいこともあると思います！						
-Date_VILLAIN_E_02ID	26	Antje	アンチュ	そうかしら……						
-Date_VILLAIN_E_02ID	27	RUAKKA	ルアッカ	それならこの先アンチュに嫌なことは\n起きないはずだよなぁ！\n適当言ってっと、オラ怒っちまうぞ！						
-Date_VILLAIN_E_02ID	28	Rorona	ロロナ	ひええ……						
-Date_VILLAIN_E_02ID	29		選択肢	パイ食べて、元気出してください！						
-Date_VILLAIN_E_02ID	30	Rorona	ロロナ	美味しいパイです！\nこれ食べて、元気出してください！						
-Date_VILLAIN_E_02ID	31	Antje	アンチュ	今はそういう気分じゃないわ……						
-Date_VILLAIN_E_02ID	32	MURASAKI	ムラサキ	んー、でもとってもいい匂い。\n元気があるときに食べたいね						
-Date_VILLAIN_E_02ID	33	Antje	アンチュ	貴方、私に構っていていいの？\nその荷物、買い物中だったんじゃないの						
-Date_VILLAIN_E_02ID	34	Rorona	ロロナ	あ、うん！\n今、カフェのおつかい中なんです						
-Date_VILLAIN_E_02ID	35	Antje	アンチュ	……帰りが遅れたこと、\n私のせいにしてもいいわ……\nそういうのは慣れてるもの……						
-Date_VILLAIN_E_02ID	36	Rorona	ロロナ	ええっ！？　し、しないですよ！						
-Date_VILLAIN_E_02ID	37		選択肢	わたしが勝手に心配でやったことだから						
-Date_VILLAIN_E_02ID	38	Rorona	ロロナ	わたしが、アンチュさんが心配で\n勝手にやったことですから						
-Date_VILLAIN_E_02ID	39	Antje	アンチュ	！　そ、そう……						
-Date_VILLAIN_E_02ID	40	YELLO	イェーロ	ロロナッテ　オ人好シ　ナノネ						
-Date_VILLAIN_E_02ID	41		選択肢	わたしの心配してくれてありがとう						
-Date_VILLAIN_E_02ID	42	Rorona	ロロナ	わたしのおつかいの心配してくれて\nありがとうございます						
-Date_VILLAIN_E_02ID	43	Antje	アンチュ	あ、貴方の心配なんてしてないわ						
-Date_VILLAIN_E_02ID	44	RUAKKA	ルアッカ	勘違いすんじゃねぇぞ！						
-Date_VILLAIN_E_02ID	45		選択肢	じゃあ、わたしのせいにしてください！						
-Date_VILLAIN_E_02ID	46	Rorona	ロロナ	じゃあ、アンチュさんが困ったときは、\nわたしのせいにしてください！						
-Date_VILLAIN_E_02ID	47	Antje	アンチュ	な、なんでそうなるのよ……						
-Date_VILLAIN_E_02ID	48	AONA	アオナ	アンチュちゃんを励ましてくれてるの？\nロロナ、優しいんだね						
-Date_VILLAIN_E_02ID	49	Antje	アンチュ	わ、私、帰るわ……						
-Date_VILLAIN_E_02ID	50	Rorona	ロロナ	アンチュさん、またねー						
-Date_VILLAIN_E_02ID	51	Rorona	ロロナ	（アンチュさん、私のおつかいの心配を\n　してくれたんだよね。いい人だなぁ）						
-Date_VILLAIN_E_03ID	0	Roman	ロマン	ロロナ、一人で魔物討伐に行くのかい？\n……同行予定のライザが、行けなくなってしまったのか						
-Date_VILLAIN_E_03ID	1	Roman	ロマン	それなら、アンチュに同行をお願いしてみようか。\nロロナとアンチュは相性が悪くないと思うんだ						
-Date_VILLAIN_E_03ID	2	Rorona	ロロナ	アンチュさん、来てくれてありがとうございます						
-Date_VILLAIN_E_03ID	3	Antje	アンチュ	あ、あの男に言われたから……\nそれに、この前ロロナとは街で話したし……						
-Date_VILLAIN_E_03ID	4	Rorona	ロロナ	突然だったよね、ごめんなさい。\nでも、一人は心細かったから、来てくれて嬉しいです						
-Date_VILLAIN_E_03ID	5	Antje	アンチュ	……						
-Date_VILLAIN_E_03ID	6	Rorona	ロロナ	じゃあ、目的地に向けて出発しましょう！\nえい、えい、おー！						
-Date_VILLAIN_E_03ID	7	Antje	アンチュ	……おー						
-Date_VILLAIN_E_03ID	8	Rorona	ロロナ	えっと、今日はカフェのお手伝いで、\n王都近くに出没する魔物を倒しに行きます！						
-Date_VILLAIN_E_03ID	9	Antje	アンチュ	……知ってるわ						
-Date_VILLAIN_E_03ID	10	Rorona	ロロナ	は、はい！　えっと、えと、\nよ、よろしくお願いします！						
-Date_VILLAIN_E_03ID	11	Antje	アンチュ	……						
-Date_VILLAIN_E_03ID	12	Rorona	ロロナ	（ど、どうしよー！　突然のことだったから、\n　アンチュさん、怒ってるのかな！？）						
-Date_VILLAIN_E_03ID	13	Rorona	ロロナ	あ、確かこの先に魔物が出現するって言ってました！\nこの先に進む前に……						
-Date_VILLAIN_E_03ID	14	Rorona	ロロナ	食べたら元気が出るパイです！　焼いてきました。\nアンチュさんも、どうぞ！						
-Date_VILLAIN_E_03ID	15	Antje	アンチュ	そ、それを受け取ったら、しっかり働かなくちゃ\nいけないんでしょ……だったらいらないわ						
-Date_VILLAIN_E_03ID	16	Rorona	ロロナ	うう、アンチュさん、ごめんなさい。\n戦いたくないのに連れてきちゃって……						
-Date_VILLAIN_E_03ID	17	Rorona	ロロナ	わ、わたし、一人で戦えますから、\nアンチュさんはここで待っていてください！						
-Date_VILLAIN_E_03ID	18	Rorona	ロロナ	あ、パイはあげます！　どうぞ！						
-Date_VILLAIN_E_03ID	19	Antje	アンチュ	……						
-Date_VILLAIN_E_03ID	20	Antje	アンチュ	……						
-Date_VILLAIN_E_03ID	21	AONA	アオナ	ロロナ……優しいね。\nアンチュちゃんのこと気遣ってくれてる						
-Date_VILLAIN_E_03ID	22	MURASAKI	ムラサキ	そうかな。\n王子の指名だから、優しく接しているだけだよ						
-Date_VILLAIN_E_03ID	23	YELLO	イェーロ	デモ彼女、カフェデ会ッタトキモ、街デ会ッタトキモ\n優シカッタワ						
-Date_VILLAIN_E_03ID	24	Antje	アンチュ	うん……						
-Date_VILLAIN_E_03ID	25	RUAKKA	ルアッカ	おいおい、こいつぁ強そうだぜ。\nロロナ、ヤバいんじゃねぇか？						
-Date_VILLAIN_E_03ID	26	Antje	アンチュ	……っ！						
-Date_VILLAIN_E_03ID	27	Rorona	ロロナ	アンチュさーん！　助けてくれてありがとう						
-Date_VILLAIN_E_03ID	28	Antje	アンチュ	……パイ、かなり美味しかった						
-Date_VILLAIN_E_03ID	29	Rorona	ロロナ	えへへ。よかったー						
-Date_VILLAIN_E_03ID	30	Rorona	ロロナ	でも、パイの焼きたてはもっと美味しいです！\n今度カフェに食べに来てください						
-Date_VILLAIN_E_03ID	31	Rorona	ロロナ	今日のお礼として、とびっきりのパイを焼きます！\nルアくんたちの分も						
-Date_VILLAIN_E_03ID	32	Antje	アンチュ	お、お礼とか、いらないわよ……\nもうパイももらっているし……						
-Date_VILLAIN_E_03ID	33	Antje	アンチュ	……今度、お邪魔するわ						
-Date_VILLAIN_E_03ID	34	Rorona	ロロナ	はい！　お待ちしてまーす						
-Date_VILLAIN_E_03ID	35	Rorona	ロロナ	（アンチュさん、どんなパイが好きかな？）						
-Date_VILLAIN_E_03ID	36	Rorona	ロロナ	（一緒に焼きたてパイを食べたら、\n　もっと仲良くなれるかも）						
-Date_VILLAIN_E_04ID	0	Rorona	ロロナ	いらっしゃいませー。\nあ、アンチュさん！						
-Date_VILLAIN_E_04ID	1	Rorona	ロロナ	今ならちょうどお客さんも少ないから、\nすぐ用意できますよー						
-Date_VILLAIN_E_04ID	2	Antje	アンチュ	……パイ、お願いするわ						
-Date_VILLAIN_E_04ID	3	Rorona	ロロナ	ご注文ありがとうございまーす！						
-Date_VILLAIN_E_04ID	4	Rorona	ロロナ	どんなパイがいいですか？\nあまーいパイからお肉の入ったものまで、\nなんでも任せてください！						
-Date_VILLAIN_E_04ID	5	Antje	アンチュ	あ、甘いのがいいわ						
-Date_VILLAIN_E_04ID	6	YELLO	イェーロ	トビッキリ甘ク　シチャッテ						
-Date_VILLAIN_E_04ID	7	Rorona	ロロナ	はーい。パイが焼けるまで、\nお好きなお席についてお待ちくださーい！						
-Date_VILLAIN_E_04ID	8	Rorona	ロロナ	とびっきり甘く、だよね……\nよーし、甘いのいっぱい入れちゃえ！						
-Date_VILLAIN_E_04ID	9	Rorona	ロロナ	お待たせしましたー。\nこちら、ご注文のパイです！						
-Date_VILLAIN_E_04ID	10	Rorona	ロロナ	とってもあまーくなるように焼きました！\nみんなの分もと思って、\nまるまる焼いたんだけど……						
-Date_VILLAIN_E_04ID	11	AONA	アオナ	ちょ、ちょっと多すぎるかも……						
-Date_VILLAIN_E_04ID	12	RUAKKA	ルアッカ	ロロナはアンチュを太らせてぇのか！？						
-Date_VILLAIN_E_04ID	13	MURASAKI	ムラサキ	責任取って、ロロナも食べるの手伝いなよ						
-Date_VILLAIN_E_04ID	14	Rorona	ロロナ	じゃあ、ちょうど休憩時間になるから、\nここで一緒に食べてもいいですか？						
-Date_VILLAIN_E_04ID	15	Antje	アンチュ	い、いいわよ						
-Date_VILLAIN_E_04ID	16	Antje	アンチュ	やっぱり、美味しいわ……\n生地がサクサクで、とっても美味しい						
-Date_VILLAIN_E_04ID	17	Rorona	ロロナ	えへへ、嬉しいな。\nそこが焼きたてパイのいいところなんです！\nそれじゃわたしも……ぱくっ						
-Date_VILLAIN_E_04ID	18	Rorona	ロロナ	（！　何これ！　すっごーく甘い！\n　でもイエちゃん、とびっきり甘くして\n　って言ってたよね……）						
-Date_VILLAIN_E_04ID	19		選択肢	とっても甘くて美味しい！						
-Date_VILLAIN_E_04ID	20	Rorona	ロロナ	とっても甘くて、美味しい！						
-Date_VILLAIN_E_04ID	21	Antje	アンチュ	うん。いい甘さ						
-Date_VILLAIN_E_04ID	22	RUAKKA	ルアッカ	甘くてサイコーだな！\nロロナ、いい腕してるじゃねぇか						
-Date_VILLAIN_E_04ID	23		選択肢	甘くしすぎちゃったかも？						
-Date_VILLAIN_E_04ID	24	Rorona	ロロナ	うーん、ちょっと甘くしすぎちゃったかも？						
-Date_VILLAIN_E_04ID	25	YELLO	イェーロ	コレクライノ　甘サガ　イイノヨ						
-Date_VILLAIN_E_04ID	26	Antje	アンチュ	……こんなに甘いの、変、かな						
-Date_VILLAIN_E_04ID	27		選択肢	もーっと甘くすればよかったかな						
-Date_VILLAIN_E_04ID	28	Rorona	ロロナ	もーっと甘くすればよかったかな						
-Date_VILLAIN_E_04ID	29	MURASAKI	ムラサキ	ロロナ、君って\nカフェで働いてるのに味覚音痴なの？						
-Date_VILLAIN_E_04ID	30	Antje	アンチュ	こ、これ以上は甘すぎると思うわ……						
-Date_VILLAIN_E_04ID	31	AONA	アオナ	アンチュちゃんは甘いものが大好きなの						
-Date_VILLAIN_E_04ID	32	MURASAKI	ムラサキ	毎日、おやつも欠かさないよね						
-Date_VILLAIN_E_04ID	33	Rorona	ロロナ	そうなんだー。\nアンチュさんは甘いものが好きなんだね！						
-Date_VILLAIN_E_04ID	34	Antje	アンチュ	……なんでそんなに嬉しそうなのよ						
-Date_VILLAIN_E_04ID	35	Rorona	ロロナ	えっと、それは……						
-Date_VILLAIN_E_04ID	36		選択肢	わたしも甘いものが好きだから						
-Date_VILLAIN_E_04ID	37	Rorona	ロロナ	わたしも甘いものが好きだから、です！						
-Date_VILLAIN_E_04ID	38	Antje	アンチュ	ふーん。別に、興味ないわ……						
-Date_VILLAIN_E_04ID	39	Rorona	ロロナ	そ、そっかー……						
-Date_VILLAIN_E_04ID	40		選択肢	アンチュさんと仲良くなりたいから						
-Date_VILLAIN_E_04ID	41	Rorona	ロロナ	アンチュさんと仲良くなりたいから、です！						
-Date_VILLAIN_E_04ID	42	Antje	アンチュ	……						
-Date_VILLAIN_E_04ID	43	Rorona	ロロナ	だから、アンチュさんの好みが知れて、\n嬉しいなーって						
-Date_VILLAIN_E_04ID	44	Antje	アンチュ	……そう						
-Date_VILLAIN_E_04ID	45		選択肢	新商品開発に使えるから						
-Date_VILLAIN_E_04ID	46	Rorona	ロロナ	新商品開発に使えるから、です！						
-Date_VILLAIN_E_04ID	47	Antje	アンチュ	私の意見なんて、役に立つのかしら						
-Date_VILLAIN_E_04ID	48	Rorona	ロロナ	次の新商品は、\n「アンチュの甘々おやつパイ」にします！						
-Date_VILLAIN_E_04ID	49	Antje	アンチュ	絶対にやめてちょうだい						
-Date_VILLAIN_E_04ID	50	Rorona	ロロナ	ご、ごめんなさい……						
-Date_VILLAIN_E_04ID	51	Antje	アンチュ	最近、貴方、やけに話しかけてくるけど……						
-Date_VILLAIN_E_04ID	52	Rorona	ロロナ	確かに、最近会う機会が多いような……						
-Date_VILLAIN_E_04ID	53	Antje	アンチュ	……私なんかを相手にしたって、\n貴方に得は何もないけど？						
-Date_VILLAIN_E_04ID	54	Rorona	ロロナ	……え？						
-Date_VILLAIN_E_04ID	55	Antje	アンチュ	私の友達はクリセルダだけ……\n錬金党は対等な同志だし……\n私は人と話すのが嫌いで、得意でもない……						
-Date_VILLAIN_E_04ID	56	Antje	アンチュ	そんな私に、何を求めているの……						
-Date_VILLAIN_E_04ID	57		選択肢	何も求めてないよ						
-Date_VILLAIN_E_04ID	58	Rorona	ロロナ	何も求めてないです						
-Date_VILLAIN_E_04ID	59	Antje	アンチュ	……え？						
-Date_VILLAIN_E_04ID	60	Rorona	ロロナ	わたしは、アンチュさんと\nただ仲良くなりたいなーって						
-Date_VILLAIN_E_04ID	61		選択肢	パイの宣伝をしてほしいな						
-Date_VILLAIN_E_04ID	62	Rorona	ロロナ	えっと、じゃあ、\nパイの宣伝をしてほしいです！						
-Date_VILLAIN_E_04ID	63	Antje	アンチュ	ロロナのパイはとても美味しいけれど……\nそういうのを私に求められても困るわ……						
-Date_VILLAIN_E_04ID	64	YELLO	イェーロ	落チ込マナイデ、アンチュ。\n私タチガ　ツイテルワ						
-Date_VILLAIN_E_04ID	65		選択肢	世界平和！						
-Date_VILLAIN_E_04ID	66	Rorona	ロロナ	世界平和！　……とか？						
-Date_VILLAIN_E_04ID	67	Antje	アンチュ	……意味が分からないわ						
-Date_VILLAIN_E_04ID	68	RUAKKA	ルアッカ	元極夜の錬金党のアンチュを\n飼いならそうってか！？\nアンチュよぉ、舐められてっぞ！						
-Date_VILLAIN_E_04ID	69	Rorona	ロロナ	ええ！？　そんなつもりじゃないよー						
-Date_VILLAIN_E_04ID	70	Rorona	ロロナ	人間関係に対する考え方は人それぞれだと\n思うけど、わたしは、誰かと仲良くなるのに\n得とか損とか、関係ないと思います						
-Date_VILLAIN_E_04ID	71	Rorona	ロロナ	アンチュさんとは一緒にお出かけしたし、\n一緒にパイも食べたし、ルアくんたちとも、\nみーんなでお出かけするの楽しいです！						
-Date_VILLAIN_E_04ID	72	Rorona	ロロナ	一緒にいて楽しい、もっと仲良くなりたい、\nっていう理由じゃダメかな……？						
-Date_VILLAIN_E_04ID	73	Antje	アンチュ	あ、貴方がそう思うなら、\n別にそれでもいいけれど……						
-Date_VILLAIN_E_04ID	74	Rorona	ロロナ	えへへ。アンチュさん、\nまたこうして一緒にパイを食べましょうね！						
-Date_VILLAIN_E_04ID	75	Antje	アンチュ	……また今度、ね						
-Date_VILLAIN_E_04ID	76	Rorona	ロロナ	（アンチュさんともっと仲良くなれたかも！\n　嬉しいな）						
-Date_VILLAIN_E_04ID	77	Antje	アンチュ	ロロライナ・フリクセル……\n理解できないわ						
-Date_VILLAIN_E_04ID	78	Antje	アンチュ	私にはクリセルダさえいればいい。\nクリセルダだけが私のことを\n理解してくれる……						
-Date_VILLAIN_E_04ID	79	Rorona	ロロナ	（アンチュさん、\n　クリセルダさんのことが大好きなんだね）						
-Date_VILLAIN_E_04ID	80	Rorona	ロロナ	（私もアンチュさんと\n　仲良くなりたいけど……）						
-Date_VILLAIN_E_05ID	0	Rorona	ロロナ	こうして、ああして……\nできたー！　名付けてパイ弁当！						
-Date_VILLAIN_E_05ID	1	Rorona	ロロナ	アンチュさん、喜んでくれるかなー						
-Date_VILLAIN_E_05ID	2	Antje	アンチュ	ま、待たせたわね						
-Date_VILLAIN_E_05ID	3	Rorona	ロロナ	ううん、わたしも少し遅れちゃったから、\nぜんぜん待ってないです！						
-Date_VILLAIN_E_05ID	4	Antje	アンチュ	今日は、どこに行くの？						
-Date_VILLAIN_E_05ID	5	Rorona	ロロナ	調合に使う素材採取がてら、\n少し遠足に行きたいなーって思ったんです						
-Date_VILLAIN_E_05ID	6	Rorona	ロロナ	それで、レスナちゃんが勧めてくれた\n湖はどうかなーって。\nいい眺めみたいですよ！						
-Date_VILLAIN_E_05ID	7	Antje	アンチュ	……もしかして、この山道を登るの？\nめ、面倒くさいわ……						
-Date_VILLAIN_E_05ID	8	Rorona	ロロナ	そ、そんなこと言わないでくださいよー！\n一緒に登りましょうよー！						
-Date_VILLAIN_E_05ID	9	Antje	アンチュ	分かったわよ……もう……						
-Date_VILLAIN_E_05ID	10	Antje	アンチュ	つ、疲れたわ……\nまだ着かないの？						
-Date_VILLAIN_E_05ID	11	Rorona	ロロナ	あと、少しです！\n辛いときは、嬉しいことや楽しいことを\n考えるといいですよ						
-Date_VILLAIN_E_05ID	12	Antje	アンチュ	嬉しいこと……そういえば、\n延期になってた本の発売日、決定したの……						
-Date_VILLAIN_E_05ID	13	Rorona	ロロナ	やったー！　よかったね、アンチュさん！\nよーし、あと少し、頑張りましょー！						
-Date_VILLAIN_E_05ID	14	Antje	アンチュ	うん						
-Date_VILLAIN_E_05ID	15	Rorona	ロロナ	わー、広いねー						
-Date_VILLAIN_E_05ID	16	Antje	アンチュ	心なしか、空気も澄んでいる気がするわ……						
-Date_VILLAIN_E_05ID	17	Rorona	ロロナ	実はわたし、今日ここで食べようと思って\nお弁当作ってきたんです！　じゃじゃーん						
-Date_VILLAIN_E_05ID	18	Rorona	ロロナ	パイ弁当です！　もうすぐおやつの時間\nですし、せっかくの遠足ですから。\nアンチュさんもどーぞ！						
-Date_VILLAIN_E_05ID	19	Antje	アンチュ	あ、ありがとう……\nいただくわ						
-Date_VILLAIN_E_05ID	20	Antje	アンチュ	あ、甘くて、すっごく美味しい……！\nこの間のもとっても美味しかったのに、もっと……！						
-Date_VILLAIN_E_05ID	21	Rorona	ロロナ	アンチュさんの好きなパイを研究しました！\nえっへん！						
-Date_VILLAIN_E_05ID	22	Antje	アンチュ	あ、ありがとう……嬉しい……\nララが貴方をお抱えにしようとする気持ち、分かるわ						
-Date_VILLAIN_E_05ID	23	Antje	アンチュ	そ、そうだわ。ここは広いから、ルアッカも\n呼んでいいかしら……						
-Date_VILLAIN_E_05ID	24	Rorona	ロロナ	わあ、ルアくん！　大きくなったねー						
-Date_VILLAIN_E_05ID	25	RUAKKA	ルアッカ	よぉロロナ。アンチュとロロナを襲う奴がいたら、\nオラがぶっ飛ばしてやる！						
-Date_VILLAIN_E_05ID	26	Rorona	ロロナ	ルアくんありがとう！　頼もしいなー						
-Date_VILLAIN_E_05ID	27	AONA	アオナ	ロロナ、よかったらアンチュちゃんにも、アオナたちに\nしてくれたみたいにあだ名を付けてほしいの						
-Date_VILLAIN_E_05ID	28	MURASAKI	ムラサキ	まさか、ヘンテコなあだ名を付けたりなんて\nしないよね？						
-Date_VILLAIN_E_05ID	29	Rorona	ロロナ	い、いいの？						
-Date_VILLAIN_E_05ID	30	RUAKKA	ルアッカ	ダメなんて言ってねぇだろ！\n早く付けやがれ！						
-Date_VILLAIN_E_05ID	31	Rorona	ロロナ	じゃあ……アンチュ、アン、あんちゃん！\nあんちゃんはどうですか？						
-Date_VILLAIN_E_05ID	32	Antje	アンチュ	あ、あんちゃん……\nふふ、そんな呼ばれ方、初めて……						
-Date_VILLAIN_E_05ID	33	YELLO	イェーロ	アリガトウ、ロロナ						
-Date_VILLAIN_E_05ID	34	Rorona	ロロナ	えへへ、どういたしまして！						
-Date_VILLAIN_E_05ID	35	Rorona	ロロナ	またあまーいパイが食べたくなったら、\nロロナにお任せをー！						
-Date_VILLAIN_E_05ID	36	Antje	アンチュ	あ、ありがと……						
-Date_VILLAIN_E_05ID	37	Antje	アンチュ	今度、クリセルダやワルターたちも一緒に、\nみんなで食べたいわ。\nだってすごく美味しいから……ロロナのパイ						
-Date_VILLAIN_E_05ID	38	Rorona	ロロナ	（今、わたしの名前呼んでくれた！）						
-Date_VILLAIN_E_05ID	39	Rorona	ロロナ	うん！　ご来店、お待ちしてます！						
-Date_VILLAIN_E_05ID	40	Rorona	ロロナ	（あんちゃんと仲良くなれた！\n　ルアくんたちも喜んでる。嬉しいな）						
+Date_VILLAIN_E_01ID	0	Rorona	ロロナ	（今日もいい天気。\n　お客さん、たくさん来るかも！）	Rorona	(The weather is amazing. That means we might get a bunch of customers!)	萝乐娜	（今天天气也很好。说不定客人会很多！）	蘿樂娜	（今天天氣也很好。應該會有很多客人上門！）
+Date_VILLAIN_E_01ID	1	Rorona	ロロナ	よーし、今日も美味しいパイを焼くぞー！	Rorona	Okay! I'm going to bake a ton of tasty pies today!	萝乐娜	好，今天也要做出美味的派！	蘿樂娜	好～今天也要烤出美味的派～！
+Date_VILLAIN_E_01ID	2	Rorona	ロロナ	あ、いらっしゃいませー！	Rorona	Oh! Welcome!	萝乐娜	啊，欢迎光临！	蘿樂娜	啊，歡迎光臨～
+Date_VILLAIN_E_01ID	3	Rorona	ロロナ	（あれ？　アンチュさんだ）	Rorona	(Hm? Isn't that Antje?)	萝乐娜	（咦？是安洁小姐。）	蘿樂娜	（奇怪？是安潔小姐。）
+Date_VILLAIN_E_01ID	4		選択肢	いらっしゃいませ	Selection	Hi! Come on in!	选项	欢迎光临	選項	歡迎光臨
+Date_VILLAIN_E_01ID	5	Rorona	ロロナ	いらっしゃいませー	Rorona	Hi! Come on in!	萝乐娜	欢迎光临——	蘿樂娜	歡迎光臨～
+Date_VILLAIN_E_01ID	6	Rorona	ロロナ	空いているお好きな席、どうぞー	Rorona	Feel free to have a seat anywhere that's open!	萝乐娜	请随意挑选喜欢的位置坐。	蘿樂娜	請任意挑選空位入座～
+Date_VILLAIN_E_01ID	7	Antje	アンチュ	……食事をしに来たんじゃないわ	Antje	I'm not here for food.	安洁	……我不是来吃饭的。	安潔	……我不是來用餐的。
+Date_VILLAIN_E_01ID	8		選択肢	どうしましたか？	Selection	Is something wrong?	选项	有什么事吗？	選項	怎麼了嗎？
+Date_VILLAIN_E_01ID	9	Rorona	ロロナ	どうしましたか？\n何か、お困りですか？	Rorona	Is something wrong? Like, is anything bothering you?	萝乐娜	有什么事吗？难道是遇到麻烦了？	蘿樂娜	怎麼了嗎？有什麼需要幫助的地方？
+Date_VILLAIN_E_01ID	10	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_01ID	11	Rorona	ロロナ	アンチュさん？	Rorona	Um, Antje?	萝乐娜	安洁小姐？	蘿樂娜	安潔小姐？
+Date_VILLAIN_E_01ID	12	Antje	アンチュ	！　わ、私……？\nど、どうもしないわ	Antje	Wh-Who, me? I-I'm perfectly fine!	安洁	叫、叫我吗……？！我、我没事。	安潔	！我、我……？沒、沒事啦。
+Date_VILLAIN_E_01ID	13		選択肢	誰か探してるんですか？	Selection	Are you looking for someone?	选项	你是在找人吗？	選項	妳在找人嗎？
+Date_VILLAIN_E_01ID	14	Rorona	ロロナ	アンチュさん、誰か探してるんですか？	Rorona	Are you looking for someone, Antje?	萝乐娜	安洁小姐，你是在找人吗？	蘿樂娜	安潔小姐，妳在找人嗎？
+Date_VILLAIN_E_01ID	15	Antje	アンチュ	べ、別に……\n貴方には関係ないでしょ	Antje	N-Not really... And even if I was, it wouldn't have anything to do with you.	安洁	没、没啊……跟你没关系吧。	安潔	沒、沒有啊……這不關妳的事吧。
+Date_VILLAIN_E_01ID	16	Rorona	ロロナ	あの、もしかしたら力になれるかなって	Rorona	Maybe I could help you, though?	萝乐娜	那个，也许我能帮上忙也说不定。	蘿樂娜	我只是在想，或許我可以幫忙。
+Date_VILLAIN_E_01ID	17	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_01ID	18	Rorona	ロロナ	ア、アンチュさん……？\nあれれ……	Rorona	A-Antje...? Um...	萝乐娜	安、安洁小姐……？欸……	蘿樂娜	安、安潔小姐……？怎麼回事……
+Date_VILLAIN_E_01ID	19	Rorona	ロロナ	（アンチュさん、\n　お話したくないのかな……\n　無理に話しかけるのは、ダメだよね）	Rorona	(I guess she doesn't really want to talk... I'd better not push her, then.)	萝乐娜	（安洁小姐是不是不想说话啊……\n　强行和她搭话也不好。）	蘿樂娜	（安潔小姐她是不是不想說話呢……\n　硬是跟人家搭話不太好吧。）
+Date_VILLAIN_E_01ID	20	Azure	アオナ	せっかく来たけれど、レスナ、いないね	Azure	We came all this way, but Resna's not even here.	布璐	难得来一趟，可惜，蕾斯娜不在。	青那	難得來一趟，結果蕾斯娜不在啊。
+Date_VILLAIN_E_01ID	21	Violet	ムラサキ	そんな都合よく会えるなんてこと\nあるわけないよ	Violet	Well, it isn't as though our paths were guaranteed to cross.	波普	怎么可能这么巧碰到呢。	阿紫	不可能想遇到就能遇到呀。
+Date_VILLAIN_E_01ID	22	Scarlet	ルアッカ	アンチュが探してるってのによぉ……\nレスナのやつ、どーこいっちまったんだぁ？	Scarlet	Yeah, but Antje went outta her way to look for her! So where else would she be?	瑞德	亏安洁还来找她……\n蕾斯娜那家伙跑哪儿去了？	路紅	安潔可是在找她耶……\n蕾斯娜那傢伙究竟跑去哪裡啦？
+Date_VILLAIN_E_01ID	23	Hielo	イェーロ	キット、レスナハ　忙シイノヨ。\n仕方ナイワ	Hielo	I Am Certain That She Is Simply Busy. These Things Happen.	耶罗	一定是因为，蕾斯娜太忙了，没办法。	黃黃	蕾斯娜一定很忙。這也是沒辦法的事。
+Date_VILLAIN_E_01ID	24	Rorona	ロロナ	（わ、わぁ……！）	Rorona	(Oh, wow...!)	萝乐娜	（哇……！）	蘿樂娜	（哇、哇啊……！）
+Date_VILLAIN_E_01ID	25	Antje	アンチュ	……何？	Antje	What?	安洁	……干嘛？	安潔	……什麼事？
+Date_VILLAIN_E_01ID	26		選択肢	かわいい！	Selection	They're so cute!	选项	好可爱！	選項	好可愛！
+Date_VILLAIN_E_01ID	27	Rorona	ロロナ	かわいい！	Rorona	They're so cute!	萝乐娜	好可爱！	蘿樂娜	好可愛！
+Date_VILLAIN_E_01ID	28	Scarlet	ルアッカ	なんだぁ！？\nそれってオラたちのことか！？	Scarlet	Huh?! Is she talkin' about us?!	瑞德	什么？！她是在说我们吗？！	路紅	什麼！？妳是在說我們嗎！？
+Date_VILLAIN_E_01ID	29	Rorona	ロロナ	うん！　おしゃべりするみんな、\nすっごーくかわいい！	Rorona	Yep! And you're even cuter when you talk!	萝乐娜	嗯！大家说话时候的样子好可爱！	蘿樂娜	嗯！大家說話的模樣超～級可愛的！
+Date_VILLAIN_E_01ID	30		選択肢	すごい！	Selection	That's amazing!	选项	好厉害！	選項	好厲害！
+Date_VILLAIN_E_01ID	31	Rorona	ロロナ	すごい、すごーい！	Rorona	Wow! That's so amazing!	萝乐娜	好厉害，太厉害了！	蘿樂娜	好厲害、好厲害唷～！
+Date_VILLAIN_E_01ID	32	Antje	アンチュ	な、何よ、急に	Antje	H-Huh? What's your problem?	安洁	干、干嘛突然那么兴奋。	安潔	怎、怎麼突然這樣？
+Date_VILLAIN_E_01ID	33	Rorona	ロロナ	みんな仲良くおしゃべりしてる！\nすごーい！	Rorona	I love that you're all such great friends!	萝乐娜	大家其乐融融地在说话呢！好厉害！	蘿樂娜	大家和樂融融地聊著天！好厲害唷～！
+Date_VILLAIN_E_01ID	34	Violet	ムラサキ	何当たり前のこと言ってるんだろう。\n別にすごくないのにね	Violet	Well, isn't that only natural? I don't see what would be so amazing about that.	波普	这不是当然的吗。不要大惊小怪。	阿紫	這不是很理所當然嗎？又沒什麼好厲害的。
+Date_VILLAIN_E_01ID	35		選択肢	お人形さんたちも、いらっしゃいませ！	Selection	Welcome to you smaller folks, too!	选项	也欢迎人偶们光临！	選項	各位人偶也歡迎光臨！
+Date_VILLAIN_E_01ID	36	Rorona	ロロナ	お人形さんたちも、いらっしゃいませ！	Rorona	Welcome to you smaller folks, too!	萝乐娜	也欢迎人偶们光临！	蘿樂娜	各位人偶也歡迎光臨！
+Date_VILLAIN_E_01ID	37	Azure	アオナ	ア、アオナたちにも挨拶してくれるの？	Azure	I-Is she talking to us?	布璐	你、你在和我们打招呼吗？	青那	妳、妳連我們都打招呼嗎？
+Date_VILLAIN_E_01ID	38	Hielo	イェーロ	ナンダカ　嬉シイワネ	Hielo	That Does Make Me Rather Happy.	耶罗	我有点开心。	黃黃	總覺得好開心。
+Date_VILLAIN_E_01ID	39	Rorona	ロロナ	アンチュさんのお人形も、\nおしゃべりするんだね	Rorona	I didn't realize that your fluffy friends could talk too, Antje!	萝乐娜	安洁小姐的人偶也会说话啊。	蘿樂娜	原來安潔小姐的人偶也會講話呀。
+Date_VILLAIN_E_01ID	40	Antje	アンチュ	……も？	Antje	"""Too""?"	安洁	也……？	安潔	……也？
+Date_VILLAIN_E_01ID	41	Rorona	ロロナ	うん。わたしの友達の、りおちゃんにも、\nホロくんとラニャちゃんっていう\nお人形のお友達がいるんです	Rorona	Yep! My friend Liona has dolls called Aranya and Horoholo, just like you!	萝乐娜	嗯，我有个朋友叫里欧，她也有人偶朋友。\n一个叫赫鲁，一个叫妮亚。	蘿樂娜	嗯，我的朋友里歐也有人偶朋友，叫做赫魯和藍妮。
+Date_VILLAIN_E_01ID	42	Antje	アンチュ	……へぇ	Antje	Huh.	安洁	这样啊……	安潔	……是喔。
+Date_VILLAIN_E_01ID	43	Rorona	ロロナ	みんなの名前はなんていうんですか？	Rorona	What are all of your names?	萝乐娜	大家都叫什么名字呀？	蘿樂娜	你們叫什麼名字呢？
+Date_VILLAIN_E_01ID	44	Hielo	イェーロ	黄色ノ私ガ　イェーロ。\n紫ノ兎ガ　ムラサキ。青イ猫ガ　アオナ。\n赤クテ好戦的ナノガ、ルアッカ　ヨ	Hielo	I Am Hielo. The Purple Rabbit Is Violet, The Blue Cat Is Called Azure, While The Red, Belligerent One Is Scarlet.	耶罗	黄色的我叫耶罗，紫色兔子叫波普，\n蓝色的猫叫布璐，红色又好战的叫瑞德。	黃黃	黃色的我叫黃黃，紫色的兔子叫阿紫，\n藍色的貓咪叫青那，紅色且好戰的那個叫路紅喔。
+Date_VILLAIN_E_01ID	45	Rorona	ロロナ	わたしはロロナです！　えーっと、\nイエちゃん、サキくん、アオちゃん、\nルアくん！　よろしくね！	Rorona	I'm Rorona! Um, so that was Hielo, Violet, Azure, and Scarlet, right? It's nice to meet you!	萝乐娜	我叫萝乐娜！唔，小耶、小波、\n小布、小瑞！请多指教！	蘿樂娜	我叫做蘿樂娜！呃……\n小黃、小紫、小青、小路！請多指教唷！
+Date_VILLAIN_E_01ID	46	Azure	アオナ	よろしく、ロロナ	Azure	The pleasure is ours, Rorona.	布璐	请多指教，萝乐娜。	青那	請多指教，蘿樂娜。
+Date_VILLAIN_E_01ID	47	Iksel	イクセル	ロロナ―！　パイの注文入ったぜ！	Iksel	Rorona! I've got an order for you!	伊克赛尔	萝乐娜！有客人点了派！	伊克賽爾	蘿樂娜──！有客人點了派喔！
+Date_VILLAIN_E_01ID	48	Rorona	ロロナ	は、はーい！	Rorona	R-Right!	萝乐娜	来、来了！	蘿樂娜	來、來了～！
+Date_VILLAIN_E_01ID	49	Antje	アンチュ	……お邪魔したわ	Antje	Sorry for bothering you.	安洁	……我先告辞了。	安潔	……那就不打擾了。
+Date_VILLAIN_E_01ID	50	Rorona	ロロナ	あ、アンチュさん！	Rorona	Wait! Antje!	萝乐娜	啊，安洁小姐！	蘿樂娜	啊，安潔小姐！
+Date_VILLAIN_E_01ID	51		選択肢	またお話ししたいです！	Selection	Let's chat again later, okay?	选项	下次我还想和你聊天！	選項	希望有機會能再聊聊！
+Date_VILLAIN_E_01ID	52	Rorona	ロロナ	またお話ししたいです！	Rorona	Let's chat again later, okay?	萝乐娜	下次我还想和你聊天！	蘿樂娜	希望有機會能再聊聊！
+Date_VILLAIN_E_01ID	53	Antje	アンチュ	気が向いたらね……	Antje	Maybe. If I feel like it.	安洁	如果我有那个心情的话……	安潔	等我有興致的時候……
+Date_VILLAIN_E_01ID	54	Azure	アオナ	またね、ロロナ	Azure	See you later, Rorona.	布璐	再见，萝乐娜。	青那	再見囉，蘿樂娜。
+Date_VILLAIN_E_01ID	55		選択肢	パイ、食べていきませんか？	Selection	Won't you have some pie?	选项	要不要尝尝派再走？	選項	要不要吃完派再走？
+Date_VILLAIN_E_01ID	56	Rorona	ロロナ	パイ、食べていきませんか？	Rorona	Won't you have some pie?	萝乐娜	要不要尝尝派再走？	蘿樂娜	要不要吃完派再走？
+Date_VILLAIN_E_01ID	57	Antje	アンチュ	たった今、他の客から注文入ったじゃない。\nそっちに集中しなさいよ	Antje	Don't you already have another order to fill? You should focus on that first.	安洁	刚才不是有别的客人点单了吗。\n你专心做客人的吧。	安潔	剛才不是有其他客人點單嗎？\n妳專心準備客人的派啦。
+Date_VILLAIN_E_01ID	58	Violet	ムラサキ	パイは嫌いじゃないんだけどね。\nまた誘ってくれるようなら、食べるよ	Violet	That being said, we do enjoy a good pie. If the offer still stands, we'll come back another time.	波普	不过我们不讨厌派。\n下次你再邀请我们的话，我们会吃的。	阿紫	她並不是討厭派喔。下次再邀請的話，她會吃的。
+Date_VILLAIN_E_01ID	59		選択肢	またのお越しをお待ちしてます	Selection	We hope to see you again sometime!	选项	期待您下次光临	選項	歡迎再度光臨
+Date_VILLAIN_E_01ID	60	Rorona	ロロナ	またのお越しをお待ちしてまーす	Rorona	We hope to see you again sometime!	萝乐娜	期待您下次光临！	蘿樂娜	歡迎再度光臨～
+Date_VILLAIN_E_01ID	61	Antje	アンチュ	別に私は客じゃないのだけど……	Antje	I wasn't even here as a customer in the first place.	安洁	我又不是客人……	安潔	我又不是客人……
+Date_VILLAIN_E_01ID	62	Scarlet	ルアッカ	まぁうまそうなのは確かだ。\n腹ぁ減ったら、来るかもな！	Scarlet	Oh, right. I guess not. Well, if you get hungry, you know where to find us!	瑞德	不过这里的料理看起来确实很好吃。\n下次肚子饿了的话，说不定会来！	路紅	不過看起來很好吃倒是真的。\n要是肚子餓了，我們可能會再來喔！
+Date_VILLAIN_E_01ID	63	Rorona	ロロナ	（アンチュさんとも、イエちゃんたちとも\n　仲良くなりたいな）	Rorona	(I'd like to be friends with Antje and her friends.)	萝乐娜	（我想和安洁小姐还有小耶它们打好关系。）	蘿樂娜	（真希望能跟安潔小姐還有小黃他們成為好朋友。）
+Date_VILLAIN_E_02ID	0	Rorona	ロロナ	（イクセくんにおつかいで頼まれたものは、\n　これと、あと、えーっと……）	Rorona	(I think I've almost gotten everything Iksel asked for. There was this, and, ummm...)	萝乐娜	（伊克赛拜托我买的东西是这个，\n　还有什么来着……）	蘿樂娜	（伊克賽拜託我買的東西是……這個，還有就是……）
+Date_VILLAIN_E_02ID	1	Rorona	ロロナ	（あれ？　アンチュさん……泣いてる？\n　どうしたんだろう）	Rorona	(Huh? Isn't that Antje? And she's...crying? Oh no, I wonder what happened!)	萝乐娜	（咦？是安洁小姐……她在哭吗？\n　发生什么事了？）	蘿樂娜	（奇怪？安潔小姐她……在哭？發生什麼事了呢？）
+Date_VILLAIN_E_02ID	2	Rorona	ロロナ	（お、追いかけよう！）	Rorona	(I-I'd better go after her!)	萝乐娜	（追、追上去吧！）	蘿樂娜	（追、追上去吧！）
+Date_VILLAIN_E_02ID	3		選択肢	どうしたんですか？	Selection	What's wrong?	选项	你怎么了？	選項	發生什麼事了？
+Date_VILLAIN_E_02ID	4	Rorona	ロロナ	どうしたんですか？　大丈夫？	Rorona	What's wrong? Is everything okay?	萝乐娜	你怎么了？没事吧？	蘿樂娜	發生什麼事了？妳還好嗎？
+Date_VILLAIN_E_02ID	5	Antje	アンチュ	！　ど、どうして、ここに……\n私の監視？	Antje	Wh-Wh-What are you doing here? Were you sent here to monitor me?	安洁	唔！为、为什么你在这里……\n难道是在监视我？	安潔	！為、為什麼妳在這裡……妳在監視我？
+Date_VILLAIN_E_02ID	6	Rorona	ロロナ	ち、違います！　えっと、えっと……	Rorona	O-Of course not! Uhhh, I, ummm...	萝乐娜	不、不是的！那个……	蘿樂娜	不、不是的！呃，就是……
+Date_VILLAIN_E_02ID	7		選択肢	ハンカチどうぞ	Selection	Here, take this handkerchief.	选项	请用这块手帕	選項	手帕給妳用
+Date_VILLAIN_E_02ID	8	Rorona	ロロナ	あの、よかったら、ハンカチどうぞ	Rorona	Um, if you'd like... Here, take this handkerchief.	萝乐娜	那个，你不介意的话，请用这块手帕吧。	蘿樂娜	那個，不介意的話，手帕給妳用。
+Date_VILLAIN_E_02ID	9	Antje	アンチュ	！　べ、別にいらないわ。\n泣いてなんかないもの	Antje	I-I don't need one. I'm not crying.	安洁	唔！不、不需要。我又没在哭。	安潔	！不、不需要啦。我又沒在哭。
+Date_VILLAIN_E_02ID	10	Rorona	ロロナ	で、でも……	Rorona	But...	萝乐娜	可、可是……	蘿樂娜	可、可是……
+Date_VILLAIN_E_02ID	11		選択肢	食べたら笑顔になるパイです！	Selection	Have some of this pie! It'll make you smile!	选项	吃了这块派就能喜笑颜开哦！	選項	這是吃了會露出笑容的派！
+Date_VILLAIN_E_02ID	12	Rorona	ロロナ	食べたら笑顔になるパイです！	Rorona	Have some of this pie! It'll make you smile!	萝乐娜	吃了这块派就能喜笑颜开哦！	蘿樂娜	這是吃了會露出笑容的派！
+Date_VILLAIN_E_02ID	13	Antje	アンチュ	！　……何それ。\n怪しいったらないわ	Antje	Uh, seriously? That's super sketchy.	安洁	唔！什么东西……太可疑了。	安潔	！……那是什麼？未免太可疑了。
+Date_VILLAIN_E_02ID	14	Rorona	ロロナ	あ、あう……	Rorona	Ah. Oh...	萝乐娜	啊，唔……	蘿樂娜	啊、啊唔……
+Date_VILLAIN_E_02ID	15	Rorona	ロロナ	わたし、落ち込んだ顔で歩くアンチュさんを\n見かけて、それで心配で……\n何かあったんですか？	Rorona	I just happened to spot you looking kind of down, so I was worried. Did something happen?	萝乐娜	我看到安洁小姐一脸失望地走在路上，\n有些担心……发生什么事了吗？	蘿樂娜	我看到安潔小姐一臉沮喪地走在路上，\n覺得很擔心……發生什麼事了嗎？
+Date_VILLAIN_E_02ID	16	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_02ID	17	Hielo	イェーロ	実ハ、アンチュガ　楽シミニシテイタ本ノ\n新刊発売日ガ　延期サレチャッテネ。\n発売日未定ニ　ナッチャッタノヨ	Hielo	You See, The Book Release That Antje Was Eagerly Awaiting Has Been Delayed To An Undetermined Later Date.	耶罗	其实是安洁一直很想看的书的发售日延期了，\n现在还不知道什么时候发售。	黃黃	其實是安潔很期待的新書發售日延期了。\n發售日現在變成了未定。
+Date_VILLAIN_E_02ID	18	Violet	ムラサキ	それだけじゃないのさ。突風で枝に髪の毛が\n引っかかったり、落ち葉たまりかと思ったら\n水たまりだったりね……	Violet	That isn't all of it, either. A gust of wind made her hair get tangled up in some branches, and what she thought was a pile of leaves was, in fact, a puddle.	波普	不止呢。安洁还被风刮得头发挂在了树枝上，\n以为是落叶堆结果一脚踩下去才发现是水坑……	阿紫	不只是這樣喔，她還因為突然颳起的一陣風，\n導致頭髮卡到樹枝，接著又把水窪誤當成落葉堆……
+Date_VILLAIN_E_02ID	19	Antje	アンチュ	と、とっても楽しみにしていたのに……\nどうしていつもいつも……	Antje	I-I was really looking forward to it, too... I swear, stuff like this always happens...	安洁	我、我明明很期待今天的……\n为什么总是遇到这种事……	安潔	我、我可是期待得不得了……\n為什麼每次都變成這樣……
+Date_VILLAIN_E_02ID	20		選択肢	延期の分、もっといい本になってるかも！	Selection	Now it'll be even better when it finally comes out!	选项	说不定延期之后，能打造出更好的作品呢！	選項	或許會因為延期而變成更棒的書！
+Date_VILLAIN_E_02ID	21	Rorona	ロロナ	確かに、延期は辛いですけど……\nその分、もっといい作品になっているかも\nしれません！	Rorona	The extra wait is tough, but...that just means it'll be even better when it finally hits the shelves!	萝乐娜	延期确实让人很难过……不过说不定\n这样能打造出更好的作品呢！	蘿樂娜	延期雖然很令人難過……\n但或許會因為這樣，而變成更棒的作品也說不定！
+Date_VILLAIN_E_02ID	22	Antje	アンチュ	貴方、随分お気楽なのね……\n難産の可能性だってあるじゃない……	Antje	You're awfully positive about this. For all we know, they could be struggling to get words onto the page...	安洁	你还真想得开……\n也有可能是写不出来啊……	安潔	妳真是個樂天派耶……也有可能是難產啊……
+Date_VILLAIN_E_02ID	23	Azure	アオナ	ロロナの考えは、アンチュちゃんには\n少し辛いかも。ずっと前から今日を\nとても楽しみにしていたから	Azure	Yeah, that's not the silver lining Antje wants to hear. She's been waiting for this for a while.	布璐	安洁也许不太能接受萝乐娜的想法。\n毕竟她从很久之前就开始期待今天了。	青那	蘿樂娜的想法對安潔來說，可能有點難以接受。\n畢竟她從很久以前就一直在期盼今天到來。
+Date_VILLAIN_E_02ID	24		選択肢	嫌なことがあった分、いいこともあるかも！	Selection	Bad things always get balanced out!	选项	俗话说福祸相依！	選項	遇到壞事之後，可能就會遇到好事！
+Date_VILLAIN_E_02ID	25	Rorona	ロロナ	嫌なことがあっても、きっとその分\nいいこともあると思います！	Rorona	Bad things always get balanced out with something good! That's what I think!	萝乐娜	俗话说福祸相依！\n说不定接下来会发生好事呢！	蘿樂娜	即使遇到壞事，之後一定也會遇到好事的！
+Date_VILLAIN_E_02ID	26	Antje	アンチュ	そうかしら……	Antje	I guess...	安洁	会吗……	安潔	是這樣嗎……
+Date_VILLAIN_E_02ID	27	Scarlet	ルアッカ	それならこの先アンチュに嫌なことは\n起きないはずだよなぁ！\n適当言ってっと、オラ怒っちまうぞ！	Scarlet	Say that to my face, I dare you! Nothing bad should've happened to Antje in the first place!	瑞德	那之后安洁应该不会遇到讨厌的事了吧！\n你要是胡说的话，我会生气的！	路紅	既然如此，安潔接下來應該不會遇到壞事了吧！\n要是妳隨便亂講的話，我可是會生氣的喔！
+Date_VILLAIN_E_02ID	28	Rorona	ロロナ	ひええ……	Rorona	Eep!	萝乐娜	欸……	蘿樂娜	咿……
+Date_VILLAIN_E_02ID	29		選択肢	パイ食べて、元気出してください！	Selection	Have some pie and you'll feel right as rain!	选项	吃了这个派，打起精神来吧！	選項	吃個派，打起精神來吧！
+Date_VILLAIN_E_02ID	30	Rorona	ロロナ	美味しいパイです！\nこれ食べて、元気出してください！	Rorona	I've got a tasty pie here! Have some, and you'll feel right as rain!	萝乐娜	这个派很好吃哦！吃了这个派，打起精神来吧！	蘿樂娜	這是美味的派！吃完這個後，打起精神來吧！
+Date_VILLAIN_E_02ID	31	Antje	アンチュ	今はそういう気分じゃないわ……	Antje	I'm not in the mood right now, though.	安洁	我现在不想吃……	安潔	我現在沒有心情吃……
+Date_VILLAIN_E_02ID	32	Violet	ムラサキ	んー、でもとってもいい匂い。\n元気があるときに食べたいね	Violet	Mm, but...it does smell delicious. You should have some when you're feeling better.	波普	唔，但是好香哦。\n想在有精神的时候吃这个派。	阿紫	唔～可是聞起來超級香的。有精神的時候再吃吧。
+Date_VILLAIN_E_02ID	33	Antje	アンチュ	貴方、私に構っていていいの？\nその荷物、買い物中だったんじゃないの	Antje	You know, you don't have to bother with me. I mean, judging by those shopping bags, you're obviously in the middle of doing errands.	安洁	你有空和我聊天吗？\n看你大包小包的，是出来买东西的吧？	安潔	妳一直跟我說話沒關係嗎？\n看妳手上的東西，應該正在採買中吧？
+Date_VILLAIN_E_02ID	34	Rorona	ロロナ	あ、うん！\n今、カフェのおつかい中なんです	Rorona	Yep, sure am! This is all stuff for the cafe.	萝乐娜	啊，嗯！我正在采购咖啡厅需要的东西。	蘿樂娜	啊，嗯！我正在幫咖啡廳跑腿。
+Date_VILLAIN_E_02ID	35	Antje	アンチュ	……帰りが遅れたこと、\n私のせいにしてもいいわ……\nそういうのは慣れてるもの……	Antje	You can blame me if you get in trouble for being late. It's okay, I'm used to it...	安洁	如果他们怪你回去太迟，\n就把错推到我头上好了……\n反正我已经习惯了……	安潔	……妳可以把太晚回去的錯怪在我身上……\n反正我已經習慣了……
+Date_VILLAIN_E_02ID	36	Rorona	ロロナ	ええっ！？　し、しないですよ！	Rorona	Huh?! I-I would never do that!	萝乐娜	咦？！我、我不会做这种事啦！	蘿樂娜	咦咦！？我、我不會怪妳啦！
+Date_VILLAIN_E_02ID	37		選択肢	わたしが勝手に心配でやったことだから	Selection	I'm the one who decided to come check up on you!	选项	是我自作主张担心你的	選項	是我自己因為擔心妳才會這麼做
+Date_VILLAIN_E_02ID	38	Rorona	ロロナ	わたしが、アンチュさんが心配で\n勝手にやったことですから	Rorona	After all, I'm the one who decided to come check up on you!	萝乐娜	是我担心安洁小姐，自作主张搞到太晚的。	蘿樂娜	是我自己因為擔心妳才會這麼做的呀。
+Date_VILLAIN_E_02ID	39	Antje	アンチュ	！　そ、そう……	Antje	I-If you say so...	安洁	唔！是、是吗……	安潔	！是、是嗎……
+Date_VILLAIN_E_02ID	40	Hielo	イェーロ	ロロナッテ　オ人好シ　ナノネ	Hielo	Rorona Is Quite Kind Indeed.	耶罗	萝乐娜是个老好人哎。	黃黃	蘿樂娜人真是太好了呢。
+Date_VILLAIN_E_02ID	41		選択肢	わたしの心配してくれてありがとう	Selection	Thanks for worrying about me.	选项	谢谢你担心我	選項	謝謝妳為我擔心
+Date_VILLAIN_E_02ID	42	Rorona	ロロナ	わたしのおつかいの心配してくれて\nありがとうございます	Rorona	Thanks for worrying about me. I really appreciate it!	萝乐娜	谢谢你担心我会不会回去太迟。	蘿樂娜	謝謝妳為我跑腿的事情擔心。
+Date_VILLAIN_E_02ID	43	Antje	アンチュ	あ、貴方の心配なんてしてないわ	Antje	Wh-Who said I was worried about you?	安洁	我、我才没有担心你。	安潔	我、我才沒有擔心妳。
+Date_VILLAIN_E_02ID	44	Scarlet	ルアッカ	勘違いすんじゃねぇぞ！	Scarlet	You got it all wrong!	瑞德	你不要自作多情！	路紅	不要自作多情！
+Date_VILLAIN_E_02ID	45		選択肢	じゃあ、わたしのせいにしてください！	Selection	Only if you blame me for something, too!	选项	那下次就把错算在我头上吧！	選項	那妳以後可以把錯怪在我身上！
+Date_VILLAIN_E_02ID	46	Rorona	ロロナ	じゃあ、アンチュさんが困ったときは、\nわたしのせいにしてください！	Rorona	Fine, but only if you blame me for something, too!	萝乐娜	那下次安洁小姐烦闷的时候，\n就把错算在我头上吧！	蘿樂娜	那妳以後遇到困難時，可以把錯怪在我身上！
+Date_VILLAIN_E_02ID	47	Antje	アンチュ	な、なんでそうなるのよ……	Antje	Wh-When would I ever...	安洁	为、为什么啊……	安潔	為、為什麼會變成這樣啊……
+Date_VILLAIN_E_02ID	48	Azure	アオナ	アンチュちゃんを励ましてくれてるの？\nロロナ、優しいんだね	Azure	Isn't she just trying to cheer you up? How kind of her.	布璐	你是在鼓励安洁吗？萝乐娜好温柔哦。	青那	妳在為安潔打氣嗎？蘿樂娜好溫柔呀。
+Date_VILLAIN_E_02ID	49	Antje	アンチュ	わ、私、帰るわ……	Antje	I-I'm going home.	安洁	我、我要回去了……	安潔	我、我要回去了……
+Date_VILLAIN_E_02ID	50	Rorona	ロロナ	アンチュさん、またねー	Rorona	See you later, Antje!	萝乐娜	下次见，安洁小姐。	蘿樂娜	安潔小姐再見～
+Date_VILLAIN_E_02ID	51	Rorona	ロロナ	（アンチュさん、私のおつかいの心配を\n　してくれたんだよね。いい人だなぁ）	Rorona	(Aw, she was genuinely worried about my errands. She's really a nice person, huh?)	萝乐娜	（安洁小姐担心我工作受到影响，\n　真是个好人呢。）	蘿樂娜	（安潔小姐為我跑腿的事情擔心，真是個好人呢。）
+Date_VILLAIN_E_03ID	0	Roman	ロマン	ロロナ、一人で魔物討伐に行くのかい？\n……同行予定のライザが、行けなくなってしまったのか	Roman	Rorona, you're not going to take on those monsters alone, are you? Hm? Ah, Ryza was supposed to go with you, but she can't now?	罗曼	萝乐娜，你一个人去讨伐魔物吗？\n本来计划和你一起去的莱莎有事不能去了啊……	羅曼	蘿樂娜，妳要獨自去討伐魔物嗎？\n……本來要與妳同行的萊莎不能去了啊？
+Date_VILLAIN_E_03ID	1	Roman	ロマン	それなら、アンチュに同行をお願いしてみようか。\nロロナとアンチュは相性が悪くないと思うんだ	Roman	In that case, I'll get Antje to fill in. I think you two would make a decent team.	罗曼	既然如此，要不要拜托安洁和你一起去呢。\n我觉得你们应该合得来。	羅曼	既然如此，我拜託安潔陪妳去如何。\n蘿樂娜妳和安潔應該很合得來。
+Date_VILLAIN_E_03ID	2	Rorona	ロロナ	アンチュさん、来てくれてありがとうございます	Rorona	Thanks for coming, Antje!	萝乐娜	安洁小姐，谢谢你愿意陪我来。	蘿樂娜	安潔小姐，謝謝妳願意陪我一起來。
+Date_VILLAIN_E_03ID	3	Antje	アンチュ	あ、あの男に言われたから……\nそれに、この前ロロナとは街で話したし……	Antje	W-Well, that guy told me to. Besides, we've talked before, so...	安洁	是、是那个男人叫我来的……\n而且，之前和你在外面聊过天……	安潔	還、還不是因為那個男人叫我來……\n而且之前在城裡跟妳說過話……
+Date_VILLAIN_E_03ID	4	Rorona	ロロナ	突然だったよね、ごめんなさい。\nでも、一人は心細かったから、来てくれて嬉しいです	Rorona	I'm sorry it's such a last-minute request. But going by myself would have been pretty disheartening, so I'm glad to have company!	萝乐娜	真是不好意思哦，事出突然。不过我一个人的话\n有点心里没底，所以我很高兴你愿意来。	蘿樂娜	很突然吧，真是抱歉。\n不過，一個人會很不安，我很高興妳願意來。
+Date_VILLAIN_E_03ID	5	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_03ID	6	Rorona	ロロナ	じゃあ、目的地に向けて出発しましょう！\nえい、えい、おー！	Rorona	All right! Let's head toward our destination with a hop, skip, and a jump!	萝乐娜	那我们朝着目的地出发吧！	蘿樂娜	那我們出發前往目的地吧！\n加油、加油、加加油～！
+Date_VILLAIN_E_03ID	7	Antje	アンチュ	……おー	Antje	Oh...	安洁	哦……	安潔	……加油～
+Date_VILLAIN_E_03ID	8	Rorona	ロロナ	えっと、今日はカフェのお手伝いで、\n王都近くに出没する魔物を倒しに行きます！	Rorona	Sooo, today we're going to take down some monsters that keep popping up around the capital!	萝乐娜	今天是帮咖啡厅的忙，\n去打倒在王都附近出没的魔物！	蘿樂娜	那個，今天是要幫忙咖啡廳\n去打倒在王都附近出沒的魔物！
+Date_VILLAIN_E_03ID	9	Antje	アンチュ	……知ってるわ	Antje	Yeah, I know.	安洁	……我知道。	安潔	……我知道啦。
+Date_VILLAIN_E_03ID	10	Rorona	ロロナ	は、はい！　えっと、えと、\nよ、よろしくお願いします！	Rorona	R-Right! Of course! Um, thanks again for helping out!	萝乐娜	好、好的！那就，那个，请、请多指教！	蘿樂娜	好、好的！那個，呃，請、請妳多多指教！
+Date_VILLAIN_E_03ID	11	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_03ID	12	Rorona	ロロナ	（ど、どうしよー！　突然のことだったから、\n　アンチュさん、怒ってるのかな！？）	Rorona	(What's wrong? I-Is she mad about the sudden request after all?!)	萝乐娜	（怎、怎么办！是不是突然\n　把安洁小姐叫过来，害她生气了？！）	蘿樂娜	（怎、怎麼辦！畢竟是突然拜託人家來，\n　安潔小姐是不是生氣了呀！？）
+Date_VILLAIN_E_03ID	13	Rorona	ロロナ	あ、確かこの先に魔物が出現するって言ってました！\nこの先に進む前に……	Rorona	Oh! Those must be the monsters I was told about! But before we go take care of that...	萝乐娜	啊，好像说前面会有魔物出现！\n趁着还没过去……	蘿樂娜	啊，我記得他們說前方會出現魔物！在往前走之前……
+Date_VILLAIN_E_03ID	14	Rorona	ロロナ	食べたら元気が出るパイです！　焼いてきました。\nアンチュさんも、どうぞ！	Rorona	Ta-da! A freshly baked pie is the best way to get energized! Here you go, Antje!	萝乐娜	这是吃了就会有精神的派！我做了带过来的。\n安洁小姐也尝尝吧！	蘿樂娜	這是吃了會打起精神的派！我事先烤好的。\n安潔小姐也請用吧！
+Date_VILLAIN_E_03ID	15	Antje	アンチュ	そ、それを受け取ったら、しっかり働かなくちゃ\nいけないんでしょ……だったらいらないわ	Antje	Um, i-if I ate all of that, I wouldn't be able to move at all. I don't need any.	安洁	吃、吃了那个的话，就必须认真工作了吧……\n那我不要了。	安潔	收、收下那個的話，\n就必須好好工作才行吧……那我不要吃。
+Date_VILLAIN_E_03ID	16	Rorona	ロロナ	うう、アンチュさん、ごめんなさい。\n戦いたくないのに連れてきちゃって……	Rorona	Ooh, I'm sorry, Antje. I dragged you all the way out here against your will...	萝乐娜	呜呜，对不起，安洁小姐。\n你明明不想战斗，还要你陪我来……	蘿樂娜	嗚嗚，安潔小姐，對不起。\n妳明明不想戰鬥，我卻把妳帶來了這裡……
+Date_VILLAIN_E_03ID	17	Rorona	ロロナ	わ、わたし、一人で戦えますから、\nアンチュさんはここで待っていてください！	Rorona	I-I'll go take care of those guys on my own, so you just wait here!	萝乐娜	我、我一个人也可以战斗的，\n安洁小姐在这里等着就好！	蘿樂娜	我、我一個人就能應付，安潔小姐請在這裡等我回來！
+Date_VILLAIN_E_03ID	18	Rorona	ロロナ	あ、パイはあげます！　どうぞ！	Rorona	Oh! But definitely have as much of that pie as you'd like!	萝乐娜	啊，这个派给你！请吃吧！	蘿樂娜	啊，派還是給妳吧！請用！
+Date_VILLAIN_E_03ID	19	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_03ID	20	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_03ID	21	Azure	アオナ	ロロナ……優しいね。\nアンチュちゃんのこと気遣ってくれてる	Azure	Rorona...is awfully nice, isn't she? She's clearly concerned about you, Antje.	布璐	萝乐娜……好温柔哦。她很体贴安洁呢。	青那	蘿樂娜……真是溫柔呢。她很為安潔著想。
+Date_VILLAIN_E_03ID	22	Violet	ムラサキ	そうかな。\n王子の指名だから、優しく接しているだけだよ	Violet	I guess so. She might just be acting like that because that prince volunteered me, though.	波普	是吗。只是因为是王子指名，\n她才会态度这么好吧。	阿紫	不見得吧。她只是因為安潔是王子指定的人選，\n態度才會那麼客氣。
+Date_VILLAIN_E_03ID	23	Hielo	イェーロ	デモ彼女、カフェデ会ッタトキモ、街デ会ッタトキモ\n優シカッタワ	Hielo	If That Were True, She Would Not Have Been So Friendly When You Met At The Cafe, Or In Town.	耶罗	但是在咖啡厅还有在街上碰到她的时候，\n每次她都很温柔啊。	黃黃	但無論在咖啡廳還是城裡相遇的時候，\n她對安潔都很溫柔。
+Date_VILLAIN_E_03ID	24	Antje	アンチュ	うん……	Antje	Yeah...	安洁	唔……	安潔	嗯……
+Date_VILLAIN_E_03ID	25	Scarlet	ルアッカ	おいおい、こいつぁ強そうだぜ。\nロロナ、ヤバいんじゃねぇか？	Scarlet	Yikes, those guys're strong. It's kinda lookin' like Rorona's in trouble.	瑞德	喂，那家伙看着很强啊。\n萝乐娜不会有危险吧？	路紅	喂喂喂，這傢伙看起來很強耶。\n蘿樂娜是不是有點危險？
+Date_VILLAIN_E_03ID	26	Antje	アンチュ	……っ！	Antje	...!	安洁	唔……！	安潔	……唔！
+Date_VILLAIN_E_03ID	27	Rorona	ロロナ	アンチュさーん！　助けてくれてありがとう	Rorona	Antje! Thanks for helping me out there!	萝乐娜	安洁小姐！谢谢你出手帮我。	蘿樂娜	安潔小姐～！謝謝妳救了我。
+Date_VILLAIN_E_03ID	28	Antje	アンチュ	……パイ、かなり美味しかった	Antje	...That pie was pretty good.	安洁	派，很好吃……	安潔	……派還滿好吃的。
+Date_VILLAIN_E_03ID	29	Rorona	ロロナ	えへへ。よかったー	Rorona	Ehehe! That's great!	萝乐娜	嘿嘿，好吃就好。	蘿樂娜	嘿嘿，太好了～
+Date_VILLAIN_E_03ID	30	Rorona	ロロナ	でも、パイの焼きたてはもっと美味しいです！\n今度カフェに食べに来てください	Rorona	But one straight from the oven is even better! You'll have to swing by the cafe for a fresh one, okay?	萝乐娜	不过刚出炉的派味道更好！\n下次请来咖啡厅吃吧。	蘿樂娜	不過，剛出爐的派更好吃喔！下次請來咖啡廳嚐嚐吧。
+Date_VILLAIN_E_03ID	31	Rorona	ロロナ	今日のお礼として、とびっきりのパイを焼きます！\nルアくんたちの分も	Rorona	I'll make you an extra-special one as thanks for today! Plus some for Scarlet and the others, too!	萝乐娜	作为今天的谢礼，我会准备特别好吃的派的！\n包括小瑞它们的份。	蘿樂娜	我會烤個超美味的派當作今天的謝禮！\n當然也有小路他們的份。
+Date_VILLAIN_E_03ID	32	Antje	アンチュ	お、お礼とか、いらないわよ……\nもうパイももらっているし……	Antje	I-I don't need that. You already gave me some pie, so...	安洁	用、用不着什么谢礼……\n你都给过我派了……	安潔	不、不需要謝禮啦……都已經收下妳做的派了……
+Date_VILLAIN_E_03ID	33	Antje	アンチュ	……今度、お邪魔するわ	Antje	...Okay. I'll drop by sometime.	安洁	……我会再去咖啡厅的。	安潔	……我下次會上門造訪的。
+Date_VILLAIN_E_03ID	34	Rorona	ロロナ	はい！　お待ちしてまーす	Rorona	Great! I'll be waiting for you!	萝乐娜	好的！我在咖啡厅等你哦。	蘿樂娜	好！我會等妳來的～
+Date_VILLAIN_E_03ID	35	Rorona	ロロナ	（アンチュさん、どんなパイが好きかな？）	Rorona	(I wonder what kind of pie Antje likes!)	萝乐娜	（不知道安洁小姐喜欢哪种派呢？）	蘿樂娜	（安潔小姐會喜歡哪種派呢？）
+Date_VILLAIN_E_03ID	36	Rorona	ロロナ	（一緒に焼きたてパイを食べたら、\n　もっと仲良くなれるかも）	Rorona	(I'm sure that if we ate a fresh pie together, we'd get closer!)	萝乐娜	（如果能和她一起享用刚出炉的派，\n　说不定关系会变得更好。）	蘿樂娜	（只要我們一起享用剛出爐的派，\n　或許關係就能變得更好吧。）
+Date_VILLAIN_E_04ID	0	Rorona	ロロナ	いらっしゃいませー。\nあ、アンチュさん！	Rorona	Hi! Come on in! Oh, Antje!	萝乐娜	欢迎光临。啊，安洁小姐！	蘿樂娜	歡迎光臨～啊，安潔小姐！
+Date_VILLAIN_E_04ID	1	Rorona	ロロナ	今ならちょうどお客さんも少ないから、\nすぐ用意できますよー	Rorona	You picked a good day! There aren't too many customers today!	萝乐娜	现在刚好客人不多，马上就能做好哦。	蘿樂娜	現在正好沒什麼客人，可以立刻為妳準備餐點唷～
+Date_VILLAIN_E_04ID	2	Antje	アンチュ	……パイ、お願いするわ	Antje	I'd...like some pie, please.	安洁	……麻烦要一份派。	安潔	……那就麻煩妳烤派了。
+Date_VILLAIN_E_04ID	3	Rorona	ロロナ	ご注文ありがとうございまーす！	Rorona	Coming right up!	萝乐娜	感谢下单！	蘿樂娜	感謝點餐～！
+Date_VILLAIN_E_04ID	4	Rorona	ロロナ	どんなパイがいいですか？\nあまーいパイからお肉の入ったものまで、\nなんでも任せてください！	Rorona	What kind would you like? We've got everything from sweet to savory!	萝乐娜	你喜欢什么样的派？\n不管是甜口的还是加了肉的，\n我什么都会做！	蘿樂娜	妳喜歡哪種派呢？從甜甜的派到肉餡派都有，\n儘管包在我身上！
+Date_VILLAIN_E_04ID	5	Antje	アンチュ	あ、甘いのがいいわ	Antje	Oh, um... Sweet is fine.	安洁	那、那要甜的。	安潔	我、我要甜的。
+Date_VILLAIN_E_04ID	6	Hielo	イェーロ	トビッキリ甘ク　シチャッテ	Hielo	As Sweet As Possible, Please And Thank You.	耶罗	要很甜，很甜的那种。	黃黃	要做得超級無敵甜。
+Date_VILLAIN_E_04ID	7	Rorona	ロロナ	はーい。パイが焼けるまで、\nお好きなお席についてお待ちくださーい！	Rorona	Sure thing! You go have a seat, okay? I'll bring it out when it's ready!	萝乐娜	好的。在派做好之前，随便挑喜欢的位置坐吧！	蘿樂娜	好的～請找個喜歡的位子入座，耐心等候派出爐吧～！
+Date_VILLAIN_E_04ID	8	Rorona	ロロナ	とびっきり甘く、だよね……\nよーし、甘いのいっぱい入れちゃえ！	Rorona	As sweet as possible, huh? Okay! I'll push it to the limit!	萝乐娜	要很甜很甜的对吧……\n好，那就加很多甜的配料吧！	蘿樂娜	要超級無敵甜啊……\n好～那就加入一大堆甜甜的東西吧！
+Date_VILLAIN_E_04ID	9	Rorona	ロロナ	お待たせしましたー。\nこちら、ご注文のパイです！	Rorona	Thanks for waiting. Here's your pie, made fresh to order!	萝乐娜	久等了！这是您点的派！	蘿樂娜	久等了～這是各位點的派！
+Date_VILLAIN_E_04ID	10	Rorona	ロロナ	とってもあまーくなるように焼きました！\nみんなの分もと思って、\nまるまる焼いたんだけど……	Rorona	I made it suuuper sweet, just for you! Then I started thinking of everyone else, too, so it ended up getting pretty plump...	萝乐娜	我做得非常甜哦！\n因为吃的人多，所以做了一整个……	蘿樂娜	我盡力做成了甜滋滋的味道！\n不過考慮到還有大家的份，就烤了一整個派……
+Date_VILLAIN_E_04ID	11	Azure	アオナ	ちょ、ちょっと多すぎるかも……	Azure	U-Um, this is way too much pie.	布璐	可、可能有点太多了……	青那	好、好像有點太多了……
+Date_VILLAIN_E_04ID	12	Scarlet	ルアッカ	ロロナはアンチュを太らせてぇのか！？	Scarlet	Is she tryin' to fatten you up?!	瑞德	萝乐娜是想让安洁发胖吗？！	路紅	難道蘿樂娜妳想讓安潔變胖嗎！？
+Date_VILLAIN_E_04ID	13	Violet	ムラサキ	責任取って、ロロナも食べるの手伝いなよ	Violet	There's no helping it, then. Rorona, you will also have to partake.	波普	萝乐娜也要负起责任一起吃哦。	阿紫	蘿樂娜妳要負起責任幫忙吃喔。
+Date_VILLAIN_E_04ID	14	Rorona	ロロナ	じゃあ、ちょうど休憩時間になるから、\nここで一緒に食べてもいいですか？	Rorona	Well, it's almost my break, so would you mind if I joined you here in a bit?	萝乐娜	刚好我也到休息时间了，\n我可以在这里一起吃吗？	蘿樂娜	那麼，我正好要準備休息了，\n可以在這裡跟你們一起吃嗎？
+Date_VILLAIN_E_04ID	15	Antje	アンチュ	い、いいわよ	Antje	S-Sure, I guess not.	安洁	可、可以。	安潔	可、可以啊。
+Date_VILLAIN_E_04ID	16	Antje	アンチュ	やっぱり、美味しいわ……\n生地がサクサクで、とっても美味しい	Antje	This really is good. The crust is nice and flaky, and the whole thing is super tasty.	安洁	果然好吃……\n饼皮脆脆的，太好吃了。	安潔	味道果然很棒……派皮酥酥脆脆的，非常好吃。
+Date_VILLAIN_E_04ID	17	Rorona	ロロナ	えへへ、嬉しいな。\nそこが焼きたてパイのいいところなんです！\nそれじゃわたしも……ぱくっ	Rorona	Ehehe, that's great! Plus, you get the added bonus of it being piping hot! Okay, I'm going to give it a try! *Munch*	萝乐娜	嘿嘿，我好高兴。\n这就是为什么说新鲜出炉的派最好吃！\n那我也开动了……啊呜。	蘿樂娜	嘿嘿，真開心。這就是剛出爐的派最美味的地方！\n那我也來嚐嚐……（吃掉）
+Date_VILLAIN_E_04ID	18	Rorona	ロロナ	（！　何これ！　すっごーく甘い！\n　でもイエちゃん、とびっきり甘くして\n　って言ってたよね……）	Rorona	(Whoa, okay! This really is sweet! I know Hielo asked me to go all out, but...)	萝乐娜	（唔！这个超级甜！\n　但是小耶说了要很甜很甜的……）	蘿樂娜	（！這是什麼！簡直甜得不得了！\n　但小黃說過要超級無敵甜的派……）
+Date_VILLAIN_E_04ID	19		選択肢	とっても甘くて美味しい！	Selection	It's so sweet and delicious!	选项	好甜好好吃！	選項	甜滋滋的，真好吃！
+Date_VILLAIN_E_04ID	20	Rorona	ロロナ	とっても甘くて、美味しい！	Rorona	It's so sweet and delicious!	萝乐娜	好甜好好吃哦！	蘿樂娜	甜滋滋的，真好吃！
+Date_VILLAIN_E_04ID	21	Antje	アンチュ	うん。いい甘さ	Antje	Yep. It's kind of perfect.	安洁	嗯，非常香甜。	安潔	嗯，很棒的甜味。
+Date_VILLAIN_E_04ID	22	Scarlet	ルアッカ	甘くてサイコーだな！\nロロナ、いい腕してるじゃねぇか	Scarlet	Sweet's where it's at! Rorona, you're pretty good at this pie makin' thing, huh?	瑞德	甜甜的最棒了！萝乐娜的手艺不错嘛。	路紅	甜甜的，真是太棒了！蘿樂娜，妳的手藝很好嘛。
+Date_VILLAIN_E_04ID	23		選択肢	甘くしすぎちゃったかも？	Selection	You're sure this isn't too sweet?	选项	会不会太甜了？	選項	好像太甜了？
+Date_VILLAIN_E_04ID	24	Rorona	ロロナ	うーん、ちょっと甘くしすぎちゃったかも？	Rorona	Hmm... You're sure this isn't too sweet?	萝乐娜	唔，会不会有点太甜了？	蘿樂娜	唔～好像太甜了一點？
+Date_VILLAIN_E_04ID	25	Hielo	イェーロ	コレクライノ　甘サガ　イイノヨ	Hielo	No, This Is Just Right.	耶罗	这个甜度刚刚好。	黃黃	就是要這麼甜才棒啊。
+Date_VILLAIN_E_04ID	26	Antje	アンチュ	……こんなに甘いの、変、かな	Antje	Is having it this sweet weird?	安洁	……这么甜，你会觉得奇怪吗。	安潔	……吃這麼甜，是不是很奇怪？
+Date_VILLAIN_E_04ID	27		選択肢	もーっと甘くすればよかったかな	Selection	I should've made it even sweeter!	选项	是不是做得再甜一点比较好呢	選項	如果再做得甜一點就好了
+Date_VILLAIN_E_04ID	28	Rorona	ロロナ	もーっと甘くすればよかったかな	Rorona	I should've made it even sweeter!	萝乐娜	是不是做得再甜一点比较好呢。	蘿樂娜	如果再做得甜一點就好了。
+Date_VILLAIN_E_04ID	29	Violet	ムラサキ	ロロナ、君って\nカフェで働いてるのに味覚音痴なの？	Violet	Honestly, Rorona. They let people without a sense of taste work at cafes?	波普	萝乐娜，你舌头有问题还在咖啡厅打工吗？	阿紫	蘿樂娜，妳明明在咖啡廳工作，卻是個味覺白癡嗎？
+Date_VILLAIN_E_04ID	30	Antje	アンチュ	こ、これ以上は甘すぎると思うわ……	Antje	U-Uh, I think any sweeter than this might actually be too much.	安洁	再、再甜就不好吃了……	安潔	再、再甜就會甜過頭了……
+Date_VILLAIN_E_04ID	31	Azure	アオナ	アンチュちゃんは甘いものが大好きなの	Azure	So you really like sweet things, Antje?	布璐	安洁最喜欢甜食了。	青那	安潔最愛吃甜食了。
+Date_VILLAIN_E_04ID	32	Violet	ムラサキ	毎日、おやつも欠かさないよね	Violet	She never misses her daily treat.	波普	每天都要吃点心呢。	阿紫	而且每天都一定要吃點心呢。
+Date_VILLAIN_E_04ID	33	Rorona	ロロナ	そうなんだー。\nアンチュさんは甘いものが好きなんだね！	Rorona	Hmm, you don't say. I learned something new about you, Antje!	萝乐娜	这样啊，原来安洁小姐喜欢甜食啊！	蘿樂娜	這樣呀～原來安潔小姐愛吃甜食！
+Date_VILLAIN_E_04ID	34	Antje	アンチュ	……なんでそんなに嬉しそうなのよ	Antje	You don't need to look so happy about that.	安洁	……有什么好高兴的。	安潔	……為什麼妳看起來這麼高興啊？
+Date_VILLAIN_E_04ID	35	Rorona	ロロナ	えっと、それは……	Rorona	Um, you know...	萝乐娜	呃，因为……	蘿樂娜	呃，這是因為……
+Date_VILLAIN_E_04ID	36		選択肢	わたしも甘いものが好きだから	Selection	I really like sweet things too!	选项	因为我也喜欢吃甜食	選項	我也喜歡甜食
+Date_VILLAIN_E_04ID	37	Rorona	ロロナ	わたしも甘いものが好きだから、です！	Rorona	I really like sweet things too! A whole bunch!	萝乐娜	因为我也喜欢吃甜食，嗯！	蘿樂娜	我也喜歡甜食呀！
+Date_VILLAIN_E_04ID	38	Antje	アンチュ	ふーん。別に、興味ないわ……	Antje	Uh...huh. I'm not really interested.	安洁	哦。我没兴趣……	安潔	是喔……我又沒興趣……
+Date_VILLAIN_E_04ID	39	Rorona	ロロナ	そ、そっかー……	Rorona	R-Right...	萝乐娜	这、这样啊……	蘿樂娜	這、這樣啊……
+Date_VILLAIN_E_04ID	40		選択肢	アンチュさんと仲良くなりたいから	Selection	I want to get to know you better, Antje!	选项	因为我想和安洁小姐变得更要好	選項	我想跟安潔小姐變成好朋友
+Date_VILLAIN_E_04ID	41	Rorona	ロロナ	アンチュさんと仲良くなりたいから、です！	Rorona	I want to get to know you better, Antje! Like, a lot!	萝乐娜	因为我想和安洁小姐变得更要好，嗯！	蘿樂娜	我想跟安潔小姐變成好朋友呀！
+Date_VILLAIN_E_04ID	42	Antje	アンチュ	……	Antje	...	安洁	……	安潔	……
+Date_VILLAIN_E_04ID	43	Rorona	ロロナ	だから、アンチュさんの好みが知れて、\n嬉しいなーって	Rorona	So I'm happy to hear about your likes and dislikes!	萝乐娜	所以我很高兴能知道安洁小姐的喜好。	蘿樂娜	所以能夠知道安潔小姐的喜好，讓我感到很高興。
+Date_VILLAIN_E_04ID	44	Antje	アンチュ	……そう	Antje	Sure.	安洁	……是吗。	安潔	……這樣啊。
+Date_VILLAIN_E_04ID	45		選択肢	新商品開発に使えるから	Selection	This could be a new addition to the menu!	选项	因为可以帮助开发新商品	選項	有助於研發新商品
+Date_VILLAIN_E_04ID	46	Rorona	ロロナ	新商品開発に使えるから、です！	Rorona	This could be a great new addition to the menu!	萝乐娜	因为可以帮助开发新商品，嗯！	蘿樂娜	有助於研發新商品呀！
+Date_VILLAIN_E_04ID	47	Antje	アンチュ	私の意見なんて、役に立つのかしら	Antje	Huh. I wasn't expecting my opinion to be that useful.	安洁	我的意见能拿来参考吗。	安潔	我的意見值得參考嗎？
+Date_VILLAIN_E_04ID	48	Rorona	ロロナ	次の新商品は、\n「アンチュの甘々おやつパイ」にします！	Rorona	"We'll call it ""Antje's Sweet-Tooth Snack""!"	萝乐娜	决定了，下一个新商品就叫做\n“安洁的甜甜点心派”！	蘿樂娜	下一款新商品就決定是「安潔的甜蜜點心派」！
+Date_VILLAIN_E_04ID	49	Antje	アンチュ	絶対にやめてちょうだい	Antje	Please don't.	安洁	拜托你绝对不要用这个。	安潔	拜託千萬不要。
+Date_VILLAIN_E_04ID	50	Rorona	ロロナ	ご、ごめんなさい……	Rorona	S-Sorry, I didn't mean to...	萝乐娜	对、对不起……	蘿樂娜	對、對不起……
+Date_VILLAIN_E_04ID	51	Antje	アンチュ	最近、貴方、やけに話しかけてくるけど……	Antje	It feels like...you've been talking to me a lot recently.	安洁	你最近老是来找我搭话……	安潔	妳最近怎麼老是來找我說話……
+Date_VILLAIN_E_04ID	52	Rorona	ロロナ	確かに、最近会う機会が多いような……	Rorona	Yeah, I guess we've been running into each other a lot lately.	萝乐娜	的确，我们最近经常见面呢……	蘿樂娜	最近確實有很多見面的機會……
+Date_VILLAIN_E_04ID	53	Antje	アンチュ	……私なんかを相手にしたって、\n貴方に得は何もないけど？	Antje	You know there's nothing to be gained from being nice to me, right?	安洁	就算找我聊天……对你也没好处哦？	安潔	……搭理我這種人，妳是得不到任何好處的喔？
+Date_VILLAIN_E_04ID	54	Rorona	ロロナ	……え？	Rorona	Huh?	萝乐娜	……咦？	蘿樂娜	……咦？
+Date_VILLAIN_E_04ID	55	Antje	アンチュ	私の友達はクリセルダだけ……\n錬金党は対等な同志だし……\n私は人と話すのが嫌いで、得意でもない……	Antje	Criselda's my only friend. Plus, I'm a member of the Polar Night Alchemists. I hate talking to people, and I'm not very good at it either.	安洁	我的朋友只有克莉赛尔达……\n炼金党是和我们地位对等的同志……\n我不喜欢和人说话，也不擅长……	安潔	我的朋友只有克莉賽爾達……\n畢竟鍊金黨是地位平等的同伴……\n我討厭與人打交道，也不擅長做那種事……
+Date_VILLAIN_E_04ID	56	Antje	アンチュ	そんな私に、何を求めているの……	Antje	So why would you bother with me?	安洁	你想从我这里拿到什么好处……	安潔	妳到底想從我這裡得到什麼……
+Date_VILLAIN_E_04ID	57		選択肢	何も求めてないよ	Selection	I'm not trying to gain anything.	选项	没有想拿好处	選項	沒有想得到任何東西
+Date_VILLAIN_E_04ID	58	Rorona	ロロナ	何も求めてないです	Rorona	I'm not trying to gain anything, though.	萝乐娜	我没有想拿好处。	蘿樂娜	我沒有想得到任何東西。
+Date_VILLAIN_E_04ID	59	Antje	アンチュ	……え？	Antje	Huh?	安洁	……咦？	安潔	……咦？
+Date_VILLAIN_E_04ID	60	Rorona	ロロナ	わたしは、アンチュさんと\nただ仲良くなりたいなーって	Rorona	I just want to be friends, Antje!	萝乐娜	我只是想和安洁小姐关系变好而已。	蘿樂娜	我只是想跟安潔小姐成為好朋友而已。
+Date_VILLAIN_E_04ID	61		選択肢	パイの宣伝をしてほしいな	Selection	I'm just looking for free pie publicity.	选项	希望你能宣传派	選項	希望妳可以幫忙宣傳派
+Date_VILLAIN_E_04ID	62	Rorona	ロロナ	えっと、じゃあ、\nパイの宣伝をしてほしいです！	Rorona	Um, what if I said... I was just looking for free pie publicity?	萝乐娜	唔，那我希望你能宣传派！	蘿樂娜	呃，那麼，希望妳可以幫忙宣傳派！
+Date_VILLAIN_E_04ID	63	Antje	アンチュ	ロロナのパイはとても美味しいけれど……\nそういうのを私に求められても困るわ……	Antje	Sure, they're delicious, but...that's kind of asking a lot...	安洁	虽然你做的派很好吃……\n但要我宣传就有点强人所难了……	安潔	蘿樂娜的派確實非常美味……\n但要求我做這種事很令我為難……
+Date_VILLAIN_E_04ID	64	Hielo	イェーロ	落チ込マナイデ、アンチュ。\n私タチガ　ツイテルワ	Hielo	Do Not Feel Down, Antje. We Are All With You.	耶罗	别难过，安洁。还有我们在呢。	黃黃	別沮喪，安潔。我們會陪伴著妳的。
+Date_VILLAIN_E_04ID	65		選択肢	世界平和！	Selection	World peace!	选项	世界和平！	選項	世界和平！
+Date_VILLAIN_E_04ID	66	Rorona	ロロナ	世界平和！　……とか？	Rorona	World peace! Or...something like that?	萝乐娜	世界和平！之类的……？	蘿樂娜	世界和平！……之類的？
+Date_VILLAIN_E_04ID	67	Antje	アンチュ	……意味が分からないわ	Antje	I don't get it.	安洁	我不懂你什么意思……	安潔	……聽不懂妳的意思。
+Date_VILLAIN_E_04ID	68	Scarlet	ルアッカ	元極夜の錬金党のアンチュを\n飼いならそうってか！？\nアンチュよぉ、舐められてっぞ！	Scarlet	What, are ya tryin' to tame our Antje?! Just 'cause she was a Polar Night Alchemist?! Well, we ain't gonna stand for that!	瑞德	你是想驯服前极夜的炼金党的安洁吗？！\n安洁，你被她小看了！	路紅	是打算馴服前極夜的鍊金黨黨員安潔嗎！？\n安潔啊，妳被看扁了喔！
+Date_VILLAIN_E_04ID	69	Rorona	ロロナ	ええ！？　そんなつもりじゃないよー	Rorona	Huh?! That's not what I meant at all!	萝乐娜	咦？！我没有这个意思啦。	蘿樂娜	咦咦！？我不是那個意思啦～
+Date_VILLAIN_E_04ID	70	Rorona	ロロナ	人間関係に対する考え方は人それぞれだと\n思うけど、わたしは、誰かと仲良くなるのに\n得とか損とか、関係ないと思います	Rorona	I know that everyone's got their own approach to relationships, but I don't really think about what there is to win or lose by befriending someone.	萝乐娜	大家对人际关系都有各自的见解，\n不过我和人交朋友不是为了计较利益得失。	蘿樂娜	對於人際關係，每個人都有自己的一套見解，\n但我認為交朋友跟利益得失無關。
+Date_VILLAIN_E_04ID	71	Rorona	ロロナ	アンチュさんとは一緒にお出かけしたし、\n一緒にパイも食べたし、ルアくんたちとも、\nみーんなでお出かけするの楽しいです！	Rorona	We've gone out together, we've had pie together, and all of it was really fun!	萝乐娜	我和安洁小姐一起出过门，一起吃过派，\n和小瑞它们一起出门也很开心！	蘿樂娜	我和安潔小姐一起出過門，也一起享用過派，\n還有小路他們也是，跟大家一起出門很開心！
+Date_VILLAIN_E_04ID	72	Rorona	ロロナ	一緒にいて楽しい、もっと仲良くなりたい、\nっていう理由じゃダメかな……？	Rorona	Since I've been having a great time, I'd like to get to know you even better. Isn't that a good enough reason?	萝乐娜	和大家一起很开心，想要关系变得更好，\n这个理由不行吗……？	蘿樂娜	因為在一起很開心，想要關係變得更好，\n這樣的理由不行嗎……？
+Date_VILLAIN_E_04ID	73	Antje	アンチュ	あ、貴方がそう思うなら、\n別にそれでもいいけれど……	Antje	I mean, I guess that's fine, if that's how you really feel...	安洁	你、你要是这么想的话，那就随便你……	安潔	如、如果妳是這麼想的，要這樣也是可以啦……
+Date_VILLAIN_E_04ID	74	Rorona	ロロナ	えへへ。アンチュさん、\nまたこうして一緒にパイを食べましょうね！	Rorona	Ehehe! Antje, let's have pie together again sometime!	萝乐娜	嘿嘿。安洁小姐，下次还要一起吃派哦！	蘿樂娜	嘿嘿，安潔小姐，我們下次還要像這樣一起享用派喔！
+Date_VILLAIN_E_04ID	75	Antje	アンチュ	……また今度、ね	Antje	Sure, sometime.	安洁	……嗯，下次。	安潔	……好，下次再一起享用派。
+Date_VILLAIN_E_04ID	76	Rorona	ロロナ	（アンチュさんともっと仲良くなれたかも！\n　嬉しいな）	Rorona	(Yay! I think we're making progress!)	萝乐娜	（我和安洁小姐的距离好像拉近了！\n　好开心。）	蘿樂娜	（我跟安潔小姐的關係好像變得更好了！真開心。）
+Date_VILLAIN_E_04ID	77	Antje	アンチュ	ロロライナ・フリクセル……\n理解できないわ	Antje	I don't get you, Rorolina Frixell. Like, at all.	安洁	萝乐莱娜·菲立克塞尔……我不理解。	安潔	蘿樂萊娜‧菲立克塞爾……實在令人搞不懂。
+Date_VILLAIN_E_04ID	78	Antje	アンチュ	私にはクリセルダさえいればいい。\nクリセルダだけが私のことを\n理解してくれる……	Antje	The only person I need is Criselda. She's the only one who really understands me.	安洁	我只要有克莉赛尔达就够了。\n只有克莉赛尔达理解我……	安潔	我只要有克莉賽爾達就足夠了。\n能夠理解我的人只有克莉賽爾達而已……
+Date_VILLAIN_E_04ID	79	Rorona	ロロナ	（アンチュさん、\n　クリセルダさんのことが大好きなんだね）	Rorona	(Wow, she sure loves Criselda.)	萝乐娜	（安洁小姐很喜欢克莉赛尔达小姐呢。）	蘿樂娜	（安潔小姐……真的非常喜歡克莉賽爾達小姐呢。）
+Date_VILLAIN_E_04ID	80	Rorona	ロロナ	（私もアンチュさんと\n　仲良くなりたいけど……）	Rorona	(I want to get along with Antje, but...)	萝乐娜	（但我也想和安洁小姐变得更要好……）	蘿樂娜	（我也好想跟安潔小姐成為好朋友……）
+Date_VILLAIN_E_05ID	0	Rorona	ロロナ	こうして、ああして……\nできたー！　名付けてパイ弁当！	Rorona	"A little of this, a pinch of that, and... Done! I'm calling it ""Ready Pie-To-Go""!"	萝乐娜	先这样，再那样……\n完成了！就叫派便当吧！	蘿樂娜	這樣弄，再那樣弄……完成了～！名稱就叫派便當！
+Date_VILLAIN_E_05ID	1	Rorona	ロロナ	アンチュさん、喜んでくれるかなー	Rorona	I wonder if Antje will like it.	萝乐娜	安洁小姐收到了会开心吗？	蘿樂娜	不知道安潔小姐會不會喜歡～
+Date_VILLAIN_E_05ID	2	Antje	アンチュ	ま、待たせたわね	Antje	S-Sorry to keep you waiting.	安洁	久、久等了。	安潔	讓、讓妳久等了。
+Date_VILLAIN_E_05ID	3	Rorona	ロロナ	ううん、わたしも少し遅れちゃったから、\nぜんぜん待ってないです！	Rorona	Don't worry, I was running a little behind too! I only just got here!	萝乐娜	没有啦，我也晚到了点，没等多久哦！	蘿樂娜	沒關係，我也遲到了一下下，完全沒有久等！
+Date_VILLAIN_E_05ID	4	Antje	アンチュ	今日は、どこに行くの？	Antje	Where are we going today?	安洁	今天要去哪？	安潔	我們今天要去哪裡？
+Date_VILLAIN_E_05ID	5	Rorona	ロロナ	調合に使う素材採取がてら、\n少し遠足に行きたいなーって思ったんです	Rorona	I had to go gather materials for synthesis, so I figured why not turn it into a bit of a field trip?	萝乐娜	我想去采集调合用的素材的同时顺便郊游。	蘿樂娜	我打算去採集調合要使用的素材，\n順便稍微郊遊一下。
+Date_VILLAIN_E_05ID	6	Rorona	ロロナ	それで、レスナちゃんが勧めてくれた\n湖はどうかなーって。\nいい眺めみたいですよ！	Rorona	Resna recommended this pond, which could be good. I mean, who doesn't like nice scenery?	萝乐娜	蕾斯娜推荐了一个湖，去那里怎么样？\n听说风景很好！	蘿樂娜	然後就想到可以去蕾斯娜之前推薦的湖邊走走，那裡的景色似乎很漂亮喔！
+Date_VILLAIN_E_05ID	7	Antje	アンチュ	……もしかして、この山道を登るの？\nめ、面倒くさいわ……	Antje	Ugh, we're going to be marching up this mountain trail? What a pain...	安洁	难不成……要爬这座山？好、好麻烦……	安潔	……該不會要爬這條山路吧？很、很麻煩耶……
+Date_VILLAIN_E_05ID	8	Rorona	ロロナ	そ、そんなこと言わないでくださいよー！\n一緒に登りましょうよー！	Rorona	Aw, don't say that! Besides, we'll be doing it together!	萝乐娜	别、别这么说嘛！我们一起爬吧！	蘿樂娜	別、別這麼說嘛～！我們一起爬上去吧～！
+Date_VILLAIN_E_05ID	9	Antje	アンチュ	分かったわよ……もう……	Antje	All right, fine, I get it...	安洁	好啦……我知道了……	安潔	知道了啦……真是的……
+Date_VILLAIN_E_05ID	10	Antje	アンチュ	つ、疲れたわ……\nまだ着かないの？	Antje	I'm beat... Are we there yet?	安洁	好、好累……还没到吗？	安潔	好、好累……還沒到嗎？
+Date_VILLAIN_E_05ID	11	Rorona	ロロナ	あと、少しです！\n辛いときは、嬉しいことや楽しいことを\n考えるといいですよ	Rorona	It's just a bit farther! Um, just think happy thoughts!	萝乐娜	还差一点！\n觉得累的时候，就回想一下开心的事吧。	蘿樂娜	就剩一小段路了！\n難受的時候，只要想想高興的事情\n或快樂的事情就好囉～
+Date_VILLAIN_E_05ID	12	Antje	アンチュ	嬉しいこと……そういえば、\n延期になってた本の発売日、決定したの……	Antje	Happy thoughts, huh... Oh, that reminds me—they set a release date for that book that got delayed.	安洁	开心的事……说起来，那本延期的书\n发售日已经定下来了……	安潔	高興的事情……這麼說起來，\n本來延後發售的新書已經確定發售日了……
+Date_VILLAIN_E_05ID	13	Rorona	ロロナ	やったー！　よかったね、アンチュさん！\nよーし、あと少し、頑張りましょー！	Rorona	Yay! That's great news, Antje! Okay! Let's knock the rest of this trail out!	萝乐娜	哇！那真是太好了，安洁小姐！\n好，再加把劲吧！	蘿樂娜	太好了～！真是好消息呢，安潔小姐！\n好～再稍微加把勁吧～！
+Date_VILLAIN_E_05ID	14	Antje	アンチュ	うん	Antje	Yeah.	安洁	嗯。	安潔	嗯。
+Date_VILLAIN_E_05ID	15	Rorona	ロロナ	わー、広いねー	Rorona	Wow! It goes on forever!	萝乐娜	哇，好开阔哦。	蘿樂娜	哇～好廣闊喔～
+Date_VILLAIN_E_05ID	16	Antje	アンチュ	心なしか、空気も澄んでいる気がするわ……	Antje	The air here somehow feels clearer, too.	安洁	不知道是不是心理作用，感觉空气也很清新……	安潔	是錯覺嗎？總覺得空氣也很清新……
+Date_VILLAIN_E_05ID	17	Rorona	ロロナ	実はわたし、今日ここで食べようと思って\nお弁当作ってきたんです！　じゃじゃーん	Rorona	I thought this might be a good place to have a little picnic, so... Ta-daaa!	萝乐娜	其实今天我准备了在这里吃的便当！看！	蘿樂娜	其實我今天打算在這裡用餐，\n就做便當帶過來了！鏘鏘～
+Date_VILLAIN_E_05ID	18	Rorona	ロロナ	パイ弁当です！　もうすぐおやつの時間\nですし、せっかくの遠足ですから。\nアンチュさんもどーぞ！	Rorona	Ready Pies-To-Go! It's almost snack time, which is an important part of any excursion! Here's yours, Antje!	萝乐娜	是派便当！难得来郊游，\n而且马上就到点心时间了。\n安洁小姐也请吃吧！	蘿樂娜	這是派便當！差不多快到吃點心的時間了，\n而且又難得出來郊遊嘛。安潔小姐也請用吧！
+Date_VILLAIN_E_05ID	19	Antje	アンチュ	あ、ありがとう……\nいただくわ	Antje	U-Uh, thanks. Don't mind if I do.	安洁	谢、谢谢你……我开动了。	安潔	謝、謝謝……那我開動了。
+Date_VILLAIN_E_05ID	20	Antje	アンチュ	あ、甘くて、すっごく美味しい……！\nこの間のもとっても美味しかったのに、もっと……！	Antje	Whoa! It's really sweet, and super delicious! It's even better than the last one you made...!	安洁	甜、甜甜的，非常好吃……！\n上次吃的已经够好吃了，这次的更好吃……！	安潔	好、好甜，真是太美味了……！\n之前吃的派也非常美味，這個滋味卻又更棒了……！
+Date_VILLAIN_E_05ID	21	Rorona	ロロナ	アンチュさんの好きなパイを研究しました！\nえっへん！	Rorona	Well, I did my research! Heh heh!	萝乐娜	我特地研究了安洁小姐会喜欢的口味！嘿嘿！	蘿樂娜	我研究了安潔小姐喜歡的派喔！嘿～嘿！
+Date_VILLAIN_E_05ID	22	Antje	アンチュ	あ、ありがとう……嬉しい……\nララが貴方をお抱えにしようとする気持ち、分かるわ	Antje	Um, thanks. That...makes me really happy. I think I can see why Lara wants to hire you.	安洁	谢、谢谢……我很高兴……\n我能明白为什么拉拉想要招募你了。	安潔	謝、謝謝妳……我很開心……\n我能理解拉拉想要招攬妳的心情了。
+Date_VILLAIN_E_05ID	23	Antje	アンチュ	そ、そうだわ。ここは広いから、ルアッカも\n呼んでいいかしら……	Antje	A-Anyway... Since there's so much space here, maybe it's okay to call Scarlet and...	安洁	对、对了，这里这么开阔，\n我能把瑞德它们也叫来吗……	安潔	對、對了，這裡很廣闊，\n應該可以把路紅叫出來吧……
+Date_VILLAIN_E_05ID	24	Rorona	ロロナ	わあ、ルアくん！　大きくなったねー	Rorona	Whoa! Scarlet, you're so big!	萝乐娜	哇，小瑞！你变大了呢。	蘿樂娜	哇～小路！你變大了呢～
+Date_VILLAIN_E_05ID	25	Scarlet	ルアッカ	よぉロロナ。アンチュとロロナを襲う奴がいたら、\nオラがぶっ飛ばしてやる！	Scarlet	Rorona! If anyone tries attackin' you two, I'll knock 'em into next year!	瑞德	哟，萝乐娜。要是有人敢袭击你们，\n我会把他打飞的！	路紅	嗨～蘿樂娜。要是有傢伙敢襲擊安潔和蘿樂娜，\n我會把對方轟飛出去！
+Date_VILLAIN_E_05ID	26	Rorona	ロロナ	ルアくんありがとう！　頼もしいなー	Rorona	Thanks, Scarlet! You're the best!	萝乐娜	谢谢你，小瑞！你好可靠哦。	蘿樂娜	謝謝小路！你真是可靠呢～
+Date_VILLAIN_E_05ID	27	Azure	アオナ	ロロナ、よかったらアンチュちゃんにも、アオナたちに\nしてくれたみたいにあだ名を付けてほしいの	Azure	Rorona? This is just a suggestion, mind you, but... Why don't you give Antje a nickname? In honor of your newfound friendliness, and all.	布璐	萝乐娜，你不介意的话，希望你也能\n给安洁起个外号，就像安洁给我们起名字一样。	青那	蘿樂娜，若不介意的話，妳也給安潔取一個暱稱吧，\n就像妳稱呼我們那樣。
+Date_VILLAIN_E_05ID	28	Violet	ムラサキ	まさか、ヘンテコなあだ名を付けたりなんて\nしないよね？	Violet	Just make it something she can live with, all right?	波普	你不会起什么奇怪的名字吧？	阿紫	應該不會取什麼怪裡怪氣的暱稱吧？
+Date_VILLAIN_E_05ID	29	Rorona	ロロナ	い、いいの？	Rorona	Y-You'd really be okay with that?	萝乐娜	可、可以吗？	蘿樂娜	可、可以嗎？
+Date_VILLAIN_E_05ID	30	Scarlet	ルアッカ	ダメなんて言ってねぇだろ！\n早く付けやがれ！	Scarlet	She didn't say she wasn't! Go on, slap one on 'er!	瑞德	谁说不可以了！快想一个！	路紅	她又沒說不可以！快點取一個啦！
+Date_VILLAIN_E_05ID	31	Rorona	ロロナ	じゃあ……アンチュ、アン、あんちゃん！\nあんちゃんはどうですか？	Rorona	Um, then what about... Annie?	萝乐娜	那……安洁……安……小安！叫小安怎么样？	蘿樂娜	那……安潔，安、小安！就叫小安怎麼樣？
+Date_VILLAIN_E_05ID	32	Antje	アンチュ	あ、あんちゃん……\nふふ、そんな呼ばれ方、初めて……	Antje	Annie...? Ehehe... No one's ever called me that before...	安洁	小、小安……\n呵呵，第一次，有人这么叫我……	安潔	小、小安……呵呵，這還是第一次有人這麼叫我……
+Date_VILLAIN_E_05ID	33	Hielo	イェーロ	アリガトウ、ロロナ	Hielo	A Fine Choice, Rorona.	耶罗	谢谢你，萝乐娜。	黃黃	謝謝妳，蘿樂娜。
+Date_VILLAIN_E_05ID	34	Rorona	ロロナ	えへへ、どういたしまして！	Rorona	Hehe, thanks!	萝乐娜	嘿嘿，不客气。	蘿樂娜	嘿嘿，不客氣！
+Date_VILLAIN_E_05ID	35	Rorona	ロロナ	またあまーいパイが食べたくなったら、\nロロナにお任せをー！	Rorona	Whenever you're in the mood for another suuuper sweet pie, just let me know!	萝乐娜	如果你又想吃甜派了，就交给我吧！	蘿樂娜	以後要是又想吃甜滋滋的派，就交給蘿樂娜我吧～！
+Date_VILLAIN_E_05ID	36	Antje	アンチュ	あ、ありがと……	Antje	Th-Thanks.	安洁	谢、谢谢……	安潔	謝、謝謝……
+Date_VILLAIN_E_05ID	37	Antje	アンチュ	今度、クリセルダやワルターたちも一緒に、\nみんなで食べたいわ。\nだってすごく美味しいから……ロロナのパイ	Antje	Maybe next time, I'll bring Criselda and Walther with me too. After all, your pies are just that good...Rorona.	安洁	下次想和克莉赛尔达还有瓦尔特他们一起吃。\n萝乐娜的派……很好吃。	安潔	我下次想找克莉賽爾達和瓦爾特他們過來，\n大家一起享用派。\n因為蘿樂娜做的派……真的非常好吃。
+Date_VILLAIN_E_05ID	38	Rorona	ロロナ	（今、わたしの名前呼んでくれた！）	Rorona	(Sh-She used my name!)	萝乐娜	（她喊我的名字了！）	蘿樂娜	（她剛才叫了我的名字！）
+Date_VILLAIN_E_05ID	39	Rorona	ロロナ	うん！　ご来店、お待ちしてます！	Rorona	Okay! I'll be waiting for you at the cafe!	萝乐娜	嗯！我很期待你们来咖啡厅哦！	蘿樂娜	嗯！歡迎你們來店用餐！
+Date_VILLAIN_E_05ID	40	Rorona	ロロナ	（あんちゃんと仲良くなれた！\n　ルアくんたちも喜んでる。嬉しいな）	Rorona	(Yay! Annie and I are so much closer now! Scarlet and the others look really happy about that, too. All's well that ends well!)	萝乐娜	（和小安关系变好了！\n　小瑞它们也很高兴。真开心啊。）	蘿樂娜	（我和小安變成好朋友了！\n　小路他們也都很高興，真令人開心。）

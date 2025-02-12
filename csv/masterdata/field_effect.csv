@@ -7,9 +7,9 @@ id	description	description_en	description_zh-CN	description_zh-TW	popup_text	pop
 16	味方：物防＆魔防＆雷耐性10％DOWN	Allies: Reduces P. DEF, M. DEF, and Bolt resistance by 10%.	我方：物防&魔防&雷耐性减少10%	我方：物防&魔防&雷耐性下降10%。	ステータスダウン	Stats Down	状态下降	狀態下降
 17	味方：強化効果量30％DOWN	Allies: Reduces potency of buff effects by 30%.	我方：强化效果量减少30%	我方：強化效果量下降30%。	受ける強化効果量ダウン	Received Buff Effects Down	所受强化效果量下降	所受強化效果量下降
 18	味方：強化効果量90％DOWN	Allies: Reduces potency of buff effects by 90%.	我方：强化效果量减少90%	我方：強化效果量下降90%。	受ける強化効果量ダウン	Received Buff Effects Down	所受强化效果量下降	所受強化效果量下降
-20	敵：与ダメージ50%UP				与ダメージUP			
-21	全体：敵に被ダメージ3%DOWN付与				被ダメージDOWNを付与			
-22	全体：敵に被ダメージ2%UP付与				被ダメージUPを付与			
+20	敵：与ダメージ50%UP	Enemies: Boosts damage dealt by 50%.	敌方：造成伤害提升50%	敵方：給予傷害上升50%。	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升
+21	全体：敵に被ダメージ3%DOWN付与	All: Reduces enemies' damage received by 3%.	全体：赋予敌方所受伤害下降3%	全體：賦予敵方所受傷害下降3%。	被ダメージDOWNを付与	Reduces Damage Received	赋予所受伤害下降	賦予所受傷害下降
+22	全体：敵に被ダメージ2%UP付与	All: Boosts enemies' damage received by 2%.	全体：赋予敌方所受伤害提升2%	全體：賦予敵方所受傷害上升2%。	被ダメージUPを付与	Boosts Damage Received	赋予所受伤害提升	賦予所受傷害上升
 26	味方：与ダメージ80％DOWN				与ダメージDOWN			
 27	味方：与ダメージ90％DOWN				与ダメージDOWN			
 28	味方：与ダメージ90％DOWN、与ブレイクダメージ30％DOWN				与ダメージ/与ブレイクダメージDOWN			

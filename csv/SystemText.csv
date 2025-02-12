@@ -456,7 +456,7 @@ id	text	text_en	text_zh-CN	text_zh-TW
 1958778207	交流	Bonds	交流	交流
 301106520	時期：アプリストアでの購入・お支払いになります。\n方法：お客様が選択した支払方法に関する、アプリストア、クレジットカード会社等の規約に基づきます。	Timing: Purchases and payments will be processed through the relevant app store.\nMethod: The payment method you choose is subject to the terms and conditions of the relevant app store, credit card company, and other applicable service providers.	时期：在应用商店购物、付款时。\n方法：以您选择的付款方式所关联的应用商店或信用卡公司的规定为准。	時間：在應用程式商店購買及支付。\n方法：依據您選擇的付款方式，如應用程式商店、信用卡公司等相關規章之規範。
 1846390415	全色	All	全色	全色
-1967257450	ボーナス			
+1967257450	ボーナス	Bonus	奖励	獎勵
 749104879	ピックアップ			
 342337611	現在の{0}位			
 118319450	【特性付与】	Add Trait	【赋予特性】	【賦予特性】
@@ -575,8 +575,8 @@ id	text	text_en	text_zh-CN	text_zh-TW
 2013276790	<color=#ff0000>この強化は育成リセットしても取り消されず、アイテムも返還されません。</color>\n本当に使用しますか？	<color=#ff0000>This enhancement cannot be undone even if you reset the character's training, and the items will not be returned.</color>\nAre you sure you want to use the items?	<color=#ff0000>此强化无法用育成初始化取消，也无法返还道具。</color>\n是否继续？	<color=#ff0000>此強化即使進行育成重置也無法取消，道具亦不會歸還。</color>\n真的要使用嗎？
 46000928	Lv.上限解放！	Level Limit Unlocked!	解锁Lv.上限！	解鎖Lv.上限！
 1840401424	上限解放は完了しています	Level Limit has already been unlocked.	已解锁上限。	已完成解鎖上限。
-2012421639	上限解放に必要なアイテムが不足しているため、実行できません			
-1885097204	上限解放（{0}回目）			
+2012421639	上限解放に必要なアイテムが不足しているため、実行できません	You cannot proceed because you do not have enough items necessary to unlock the limit.	解锁上限所需的道具不足，无法执行。	解鎖上限所需的道具不足，無法執行。
+1885097204	上限解放（{0}回目）	Unlock Limit ({0})	解锁上限（第{0}次）	解鎖上限（第{0}次）
 1591486979	バトル	Battle	战斗	戰鬥
 1125294510	一括受取	Take All	一键领取	全部領取
 1713998432	既読削除	Delete Read	删除已读	刪除已讀
@@ -643,7 +643,7 @@ id	text	text_en	text_zh-CN	text_zh-TW
 1034961220	設定変更が完了しました	Your settings have been changed.	设置已更改。	設定變更完畢
 1113418174	解放条件	Unlock Requirements	解锁条件	解鎖條件
 1824474099	以下の条件を達成することにより、\nストーリーを解放できます	Fulfilling the following tasks will unlock more of the story.	达成下列条件\n可以解锁故事。	達成以下條件，\n即可解鎖故事。
-1941488092	ストーリーの最新章を終了しました。新章の追加はアップデートをお待ちください。	You have completed the latest chapter of the story. New chapters will be added in later updates.	已完成故事最新章节。请等待更新追加新的章节。	故事最新章已結束。新增章節請靜待日後更新。
+1941488092	ストーリーの最新章を終了しました。新章の追加はアップデートをお待ちください。	You have completed the latest chapter of the story.	已完成故事最新章节。	故事最新章已結束。
 446108662	MOVIE	MOVIE	MOVIE	MOVIE
 1796096343	{0}階	{0}F	{0}F	{0}F
 1976250233	タップで確認	Tap to confirm.	点击确认	點擊以確認
@@ -758,7 +758,7 @@ id	text	text_en	text_zh-CN	text_zh-TW
 2031287866	エンブレムがありません	No Emblems found.	没有徽章。	沒有徽章
 1309376528	エンブレム獲得	Emblem Earned	获得徽章	獲得徽章
 223459773	現在獲得できません	Cannot currently be earned.	现在无法获得。	目前無法獲得。
-2042942880	ホーム背景選択	Home Background Selection	主界面背景选择	選擇主頁背景。
+2042942880	ホーム背景選択	Home Background Selection	主界面背景选择	選擇主頁背景
 550745322	ストーリーシーン	Story Scenes	故事场景	故事場景
 1728140904	メモリアルシーン	Memorial Scenes	回忆场景	回憶場景
 693134501	ストーリー進行に\n合わせたホーム背景	Change based on\nstory progression	配合故事进展的\n主界面背景	配合故事進度的\n主頁背景。
@@ -998,7 +998,7 @@ id	text	text_en	text_zh-CN	text_zh-TW
 295840462	{0}を獲得しました	Obtained {0}	已获得{0}。	獲得了{0}
 1946874639	メモリア「{0}」	Memoria: {0}	回忆“{0}”	回憶「{0}」
 1552716377	シーン選択に戻りますか？	Return to Scene Selection?	是否返回选择场景？	確定要返回選擇場景嗎？
-1351749391	メインストーリー最新章を終了しました。\n新章の追加はアップデートをお待ちください。	You have completed the latest chapter of the main story. New chapters will be added in later updates.	已完成主线故事最新章节。\n请等待更新追加新的章节。	主線故事最新章已結束。\n新增章節請靜待日後更新。
+1351749391	メインストーリー最新章を終了しました。\n新章の追加はアップデートをお待ちください。	You have completed the latest chapter of the main story.	已完成主线故事最新章节。	主線故事最新章已結束。
 1198951190	王都-広場	The Capital - Town Square	王都-广场	王都-廣場
 336984432	王都-中流地区	The Capital - Central Area	王都-中流地区	王都-中流地區
 1850707735	王都-湾岸地区	The Capital - Bay Area	王都-海岸地区	王都-海灣地區
@@ -1229,13 +1229,13 @@ id	text	text_en	text_zh-CN	text_zh-TW
 2139603886	Rankプレミアム	Rank Premium	Rank高级	Rank進階
 1822612723	調合プレミアム	Synthesis Premium	调合高级	調合進階
 287680457	交換後、目標ポイント達成で獲得可能なアイテム	Items that can be obtained by reaching the target points after exchange.	兑换后达到目标积分可获得的道具	兌換後達到目標點數可獲得的道具。
-1892358378	PT購入			
-1151906743	星導石を消費して、{0}のミッションPTを購入することができます			
-888769827	購入後のミッションPT：			
-523164307	PTの購入が完了しました			
-1111274239	星導石が<color=#ff0000>{0}個</color>不足しているため、ミッションPTを購入することができません。			
-269631729	これ以上購入できません			
-1267419833	プレミアムを解放	Purchase {0}	购买{0}	購買{0}
+1892358378	PT購入	Purchase PT	购买PT	購買PT
+1151906743	星導石を消費して、{0}のミッションPTを購入することができます	You can use Lodestar Gems to purchase {0} Mission PT.	可以消耗星导石购买{0}的任务PT。	可消耗星導石購買{0}的任務PT。
+888769827	購入後のミッションPT：	Mission PT after purchase:	购买后的任务PT：	購買後的任務PT：
+523164307	PTの購入が完了しました	PT purchase complete.	购买PT成功。	已完成PT購買。
+1111274239	星導石が<color=#ff0000>{0}個</color>不足しているため、ミッションPTを購入することができません。	You need <color=#ff0000>{0}</color> more Lodestar Gems to purchase Mission PT.	缺少<color=#ff0000>{0}个</color>星导石，无法购买任务PT。	星導石尚不足<color=#ff0000>{0}個</color>，無法購買任務PT。
+269631729	これ以上購入できません	You can't purchase any more.	无法继续购买。	無法再繼續購買。
+1267419833	プレミアムを解放	Unlock Premium	解锁高级报酬	解鎖進階
 1634790247	交換後、ミッション達成で獲得可能なアイテム			
 638638549	商品情報が正常に取得できませんでした message:{0}	Failed to retrieve valid product details. message:{0}	未能正常获取商品信息。message:{0}	無法正常取得商品資訊。message:{0}
 591204505	交換する			
@@ -1290,7 +1290,7 @@ id	text	text_en	text_zh-CN	text_zh-TW
 1080373465	準備中 {0}/{1}	Preparing {0}/{1}	正在准备 {0}/{1}	準備中 {0}/{1}
 1511266315	{0}に\nもう１つ追加	Next one\nat 17:00	17:00时\n会追加1个	17:00時\n再增加一個
 2047955473	恩恵獲得	Obtain Blessings	获得恩惠	獲得恩惠
-897319331	フロアの最上階に到達しました。\n新たなフロアは、アップデートをお待ちください。	You have reached the top floor. More floors will be added in a future update.	已到达最上层。\n请等待更新开放新的层级。	已抵達最高樓層。\n若要前往新樓層，請等待更新。
+897319331	フロアの最上階に到達しました。\n新たなフロアは、アップデートをお待ちください。	You have reached the top floor.	已到达最上层。	已抵達最高樓層。
 692277509	最上階到達	Reached Top Floor	到达最上层	抵達最高樓層
 1320624637	{0}をクリアすることで、挑戦できるようになります	Unlocks upon clearing {0}.	通关{0}后可以挑战。	通關{0}後即可挑戰
 42054309	{0}までに受け取らなかったパイは\nロロナが美味しくいただきます	Any pies that go unclaimed by {0} will be happily eaten by Rorona.	{0}为止没有领取的派\n会由萝乐娜香甜地吃掉。	{0}之前未領取的派，\n會由蘿樂娜津津有味地享用。
@@ -1467,9 +1467,9 @@ id	text	text_en	text_zh-CN	text_zh-TW
 1061200991	条件に一致するキャラを所持していません	You do not own any characters that meet the criteria.	未持有符合条件的角色。	未持有符合條件的角色。
 59480821	おすすめレシピ検索	Recommended Recipes	搜索推荐配方	搜尋推薦配方
 1629291966	おすすめレシピ表示中	Displaying Rec. Recipes	已显示推荐配方	推薦配方顯示中
-1831978091	キャラレンタル回数			
-1173947776	本日のレンタル回数上限に達しました			
-1199112484	本日のキャラレンタル回数			
+1831978091	キャラレンタル回数	Character Rental Times	角色借用次数	角色租借次數
+1173947776	本日のレンタル回数上限に達しました	You have reached the daily rental limit.	今日借用次数已达到上限。	已達今日租借次數上限。
+1199112484	本日のキャラレンタル回数	Today's Character Rental Times	今日角色借用次数	今日角色租借次數
 1118166533	回数設定	Number of Times	次数设置	設定次數
 897584854	回数を設定してください	Please set the number of times.	请设置次数。	請設定次數。
 1888825056	※調合素材未配置のため、「ありふれた特性」が必ず1つ付与されます	Note: As no synthesis materials have been selected, one trait of common rarity will always be applied.	※由于未配置调合素材，赋予调合道具的特性之中，必定会有1条是“平庸特性”。	※由於未配置調合素材，故必定會被賦予1項「平淡無奇特性」。
@@ -1884,13 +1884,13 @@ id	text	text_en	text_zh-CN	text_zh-TW
 2103713235	レンタル完了！	Rental Done!	出租结束！	租借完成！
 2086160450	前回のランキング	Previous Ranking	上次排行榜	前次排行榜
 1032822513	前回のランキング情報	Previous Ranking Information	上次排行榜信息	前次排行榜資訊
-45014389	{0}で特定の選択肢を選ぶ			
-1467302457	以下の条件を達成すると解放されます\n※本ストーリーに初回報酬はありません			
-665931692	以下の条件を達成すると解放されます			
-880146163	報酬はありません			
-1648643992	{0}をクリア			
+45014389	{0}で特定の選択肢を選ぶ	Choose a specific option in {0}.	在{0}选择特定选项	在{0}選擇特定的選項。
+1467302457	以下の条件を達成すると解放されます\n※本ストーリーに初回報酬はありません	Unlocks upon meeting the following conditions.\nNote: This story does not provide a first-time reward.	达成下列条件可以解锁。\n※本故事没有初次报酬。	達成以下條件後解鎖。\n※本故事沒有首次報酬。
+665931692	以下の条件を達成すると解放されます	Unlocks upon meeting the following conditions.	达成下列条件可以解锁。	達成以下條件後解鎖。
+880146163	報酬はありません	No rewards.	没有报酬	沒有報酬。
+1648643992	{0}をクリア	Clear {0}	完成{0}	通關{0}
 1283993899	レンタルパーティ			
-992781914	累計			
+992781914	累計	Total	累计	累計
 1344050007	Border			
 1361655556	OFF	OFF	OFF	OFF
 643818344	レベル	Level	等级	等級

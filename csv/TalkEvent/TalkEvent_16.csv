@@ -172,7 +172,7 @@ TalkEvent_16_006ID	15	Lara	ララ	見所のある娘です。\nララ・キン�
 TalkEvent_16_006ID	16	Lara	ララ	いざとなれば力ずくで	Lara	Welcome her with force, if need be.	拉拉	如果有个万一，那就动武。	拉拉	到時就靠武力決勝負了。
 TalkEvent_16_006ID	17	Criselda	クリセルダ	……力ずくで、あなたが負けたら？	Criselda	And if you lose with said force?	克莉赛尔达	动武……万一你输了呢？	克莉賽爾達	……靠武力決勝負啊。如果妳輸了呢？
 TalkEvent_16_006ID	18	Lara	ララ	敗者は勝者に従うのみ。場合によっては\nこの場所を去ることになるでしょうね	Lara	The loser obeys the victor, as is the rule. Should that happen, we will have no choice but to leave this place.	拉拉	输家当然听赢家的。\n说不定我就要离开这里了。	拉拉	成者為王，敗者為寇。\n要是輸了，大概就是我離開這裡吧。
-TalkEvent_16_006ID	19	Criselda	クリセルダ	それがララ・トロッケルの覚悟ね	Criselda	That's quite the resolve you have, Lara Trockel.	克莉赛尔达	这就是你拉拉·特洛克尔的决心对吧。	克莉賽爾達	這就是拉拉‧特羅克爾的決心啊。
+TalkEvent_16_006ID	19	Criselda	クリセルダ	それがララ・トロッケルの覚悟ね	Criselda	That's quite the resolve you have, Lara Trockel.	克莉赛尔达	这就是你拉拉·特罗克尔的决心对吧。	克莉賽爾達	這就是拉拉‧特羅克爾的決心啊。
 TalkEvent_16_006ID	20	Criselda	クリセルダ	どうせなら……私たち極夜の錬金党も、\n全員でもてなしてあげましょう	Criselda	But if they are coming to visit, let us ensure they get a proper Polar Night Alchemists welcome.	克莉赛尔达	那不如……我们极夜的炼金党\n就全体出动来迎接吧。	克莉賽爾達	反正……我們極夜的鍊金黨\n就好好招待他們吧。
 TalkEvent_16_006ID	21	Criselda	クリセルダ	彼らには私も色々と聞きたいことがあるから	Criselda	There are many things I want to ask them as well.	克莉赛尔达	我也有很多事情想问问他们呢。	克莉賽爾達	因為我也有很多事想問問他們。
 TalkEvent_16_006ID	22	Lara	ララ	あら……ふふふ。それは素敵な趣向ですわ	Lara	Oh my... Hahaha. That sounds like a delightful plan.	拉拉	哦？呵呵……你还真是有情调。	拉拉	哎呀……呵呵呵，這主意可真棒。
@@ -254,7 +254,7 @@ TalkEvent_16_008ID	20	Marie	マリー	うん。幼馴染で、親友なんだ	Ma
 TalkEvent_16_008ID	21	Marie	マリー	あたしがアカデミーにいた頃もよく世話を焼いたり\n焼かれたりして。懐かしいなー	Marie	When I was at the academy, we used to help each other out all the time. Those were the days...	玛莉	我们在学院的时候经常互相添麻烦，\n真是让人怀念。	瑪莉	我們在學院時期也都會互相照顧，好懷念喔～
 TalkEvent_16_009ID	0	Marie	マリー	このお城って結構大きいけど、\n元々は誰が使ってたものなんだろ？	Marie	This castle is pretty big. I wonder who used it before the Polar Night Alchemists.	玛莉	这城堡这么大，原本到底是谁在住啊？	瑪莉	這座城堡還滿大的，\n不知道原本是誰在使用的呢？
 TalkEvent_16_009ID	1	Valeria	ヴァレリア	うーん……誰か知ってる？	Valeria	Not sure... Does anyone know?	瓦莱莉娅	唔……有人知道吗？	瓦萊莉婭	唔……有人知道嗎？
-TalkEvent_16_009ID	2	Heidi	ハイディ	ここは、ランターナが統一される前に大勢力を\n誇ってた一族、アメルハウザー家のお城なんだ	Heidi	This castle belonged to the Amelhauser family, who were a powerful family before Lantarna's unification.	海蒂	在兰塔纳统一之前，\n这里是势力强大的亚梅尔豪瑟家族的城堡。	海蒂	在蘭塔納被統一之前，這座城堡屬於阿默豪森家，\n一個勢力強大的家族。
+TalkEvent_16_009ID	2	Heidi	ハイディ	ここは、ランターナが統一される前に大勢力を\n誇ってた一族、アメルハウザー家のお城なんだ	Heidi	This castle belonged to the Amelhauser family, who were a powerful family before Lantarna's unification.	海蒂	在兰塔纳统一之前，\n这里是势力强大的阿默豪森家族的城堡。	海蒂	在蘭塔納被統一之前，這座城堡屬於阿默豪森家，\n一個勢力強大的家族。
 TalkEvent_16_009ID	3	Heidi	ハイディ	今じゃ誰も使わない、荒れ果てた古城だけどね。\n昔は錬金術が使われてたって伝承もあって	Heidi	It's just an abandoned, run-down castle now, but it's said that it was once used for alchemy in the past.	海蒂	现在只是个没人住的废弃古堡罢了。\n传说以前这里还有人使用过炼金术。	海蒂	雖然現在無人使用，已經是座荒廢的古城了，\n但傳說他們以前也會使用鍊金術。
 TalkEvent_16_009ID	4	Heidi	ハイディ	そんなわけで、極夜の錬金党の根城として、\nここはおあつらえ向きだったのかもねぇ	Heidi	I imagine that's why the Polar Night Alchemists decided to make it their base.	海蒂	作为极夜的炼金党的老巢，\n这里说不定还真是挺合适的。	海蒂	因此，這裡作為極夜的鍊金黨的據點，\n或許可說是相當合適吧。
 TalkEvent_16_009ID	5	Marie	マリー	驚いた。ハイディ、すっごく詳しいんだ？	Marie	Wow, Heidi, how do you know all that?	玛莉	看不出来啊，海蒂，你对这里很熟吗？	瑪莉	真是驚人，海蒂，妳怎麼這麼清楚？
@@ -308,7 +308,7 @@ TalkEvent_16_010ID	29	Heidi	ハイディ	この扉の先がいよいよ城の中
 TalkEvent_16_010ID	30	Marie	マリー	案外あっさり来られちゃったわね。よかったぁ	Marie	We got through a lot easier than I expected. That's a relief.	玛莉	比想象得更轻松啊，太好了。	瑪莉	想不到輕輕鬆鬆地就來到這裡，太好了～
 TalkEvent_16_010ID	31	Valeria	ヴァレリア	（……レスナたちのほうは、大丈夫かしら）	Valeria	(I hope Resna and the others are all right...)	瓦莱莉娅	（蕾斯娜她们那边不知道还好吗。）	瓦萊莉婭	（……蕾斯娜他們那邊不要緊吧？）
 TalkEvent_16_011ID	0	Johanna	ヨハナ	お城だなんて言ってもほんっとボロボロね。\n中は全部こんな感じなのかしら	Johanna	Not sure you can really even call this place a castle. It's falling apart. Is the whole place like this?	约翰娜	说是城堡，可真够破烂的。\n里面难道全都是这样吗？	約翰娜	雖說是城堡，但真的很破爛耶。\n裡面全都是這種感覺嗎？
-TalkEvent_16_011ID	1	Resna	レスナ	そうですね。足元に気を付けて進まないと――きゃっ！	Resna	It seems that way. We'll have to watch out step as we—Ahhh!	蕾斯娜	嗯……要小心脚下——呀！	蕾斯娜	是啊，前進時得注意腳下才行──呀啊！
+TalkEvent_16_011ID	1	Resna	レスナ	そうですね。足元に気を付けて進まないと――きゃっ！	Resna	It seems that way. We'll have to watch our step as we—Ahhh!	蕾斯娜	嗯……要小心脚下——呀！	蕾斯娜	是啊，前進時得注意腳下才行──呀啊！
 TalkEvent_16_011ID	2	Izana	イザナ	レスナちゃん大丈夫！？	Izana	Resna, are you okay?!	伊札娜	蕾斯娜你没事吧？！	伊札娜	蕾斯娜妳沒事吧！？
 TalkEvent_16_011ID	3	Resna	レスナ	う、うん……ありがとうイザナちゃん	Resna	Y-Yes. Thanks, Izana.	蕾斯娜	嗯……谢谢你，伊札娜。	蕾斯娜	唔、嗯……謝謝妳，伊札娜。
 TalkEvent_16_011ID	4	Sterk	ステルク	動きが固いように見えたが……\n少し力が入りすぎているのではないか？	Sterk	Your movements seem rather stiff. Are you perhaps feeling a bit tense?	史特尔克	一举一动很僵硬啊……\n是不是太紧张了？	史特爾克	妳的動作看起來很僵硬……\n身體是不是有點用力過度了？

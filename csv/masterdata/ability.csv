@@ -891,48 +891,48 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 300989	プエラヴィヴァクス	Puella Vivax	跃动少女	活力少女服	自分がディフェンダーの時、スキル発動後、自身に「受けるダメージ-{0}%」を2回攻撃を受けるまで付与	While equipped to a Defender, after using a skill, reduces own damage received by {0}% for 2 attacks.	自身为防御者时，发动技能后，赋予自身“所受伤害-{0}%”，受到2次攻击后失效。	自身為防禦者時，發動技能後，賦予自身「所受傷害-{0}%」，直到受2次攻擊為止。
 300990	ヴィヴァクスの願い	Vivax's Wish	少女的祈愿	朝氣心願髮帶	得意属性が突属性の時、受けるHP回復量+{0}%	While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.	自身属性为突刺属性时，所受HP恢复量+{0}%。	自身屬性為突屬性時，所受的HP回復量+{0}%。
 300991	ヴィヴァクスの願い	Vivax's Wish	少女的祈愿	朝氣心願髮帶	得意属性が突属性の時、受けるHP回復量+{0}%	While equipped to a character with Stab affinity, boosts HP recovery received by {0}%.	自身属性为突刺属性时，所受HP恢复量+{0}%。	自身屬性為突屬性時，所受的HP回復量+{0}%。
-300992	クラーレン				得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与			
-300993	クラーレン				得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与			
-300994	ナチュナリシュツ				自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%			
-300995	ナチュナリシュツ				自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%			
-300996	獣の護符				得意属性が突属性の時、受ける強化効果量+{0}%			
-300997	獣の護符				得意属性が突属性の時、受ける強化効果量+{0}%			
-300998	叫びのハサミ				得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-300999	叫びのハサミ				得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301000	サイレンススタイル				自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%			
-301001	サイレンススタイル				自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%			
-301002	紫宝石の首飾り				自身が斬属性の時、与えるHP回復量+{0}%			
-301003	紫宝石の首飾り				自身が斬属性の時、与えるHP回復量+{0}%			
-301004	石割りアックス				得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与			
-301005	石割りアックス				得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与			
-301006	鱗のプレート				得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限12%)			
-301007	鱗のプレート				得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限9%)			
-301008	メルクリウスの瞳				得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%			
-301009	メルクリウスの瞳				得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%			
-301010	ノブレスランス				得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与			
-301011	ノブレスランス				得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与			
-301012	エミナンスコート				得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%			
-301013	エミナンスコート				得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%			
-301014	フィエールガント				自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与			
-301015	フィエールガント				自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与			
-301016	冥闇の杖				得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301017	冥闇の杖				得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301018	寧静の服				得意属性が雷属性の時、与えるマイナス効果量+{0}%			
-301019	寧静の服				得意属性が雷属性の時、与えるマイナス効果量+{0}%			
-301020	花占いの札				自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与			
-301021	花占いの札				自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与			
-301022	インクイジターソード				得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%			
-301023	インクイジターソード				得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%			
-301024	イージスジャケット				得意属性が雷属性の時、受けるHP回復量+{0}%			
-301025	イージスジャケット				得意属性が雷属性の時、受けるHP回復量+{0}%			
-301026	オミノスバングル				自身がアタッカーの時、受ける強化効果量+{0}%			
-301027	オミノスバングル				自身がアタッカーの時、受ける強化効果量+{0}%			
-301028	シュメルツシュヴェールト				得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301029	シュメルツシュヴェールト				得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301030	旅のプレート				得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301031	旅のプレート				得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)			
-301032	献身のロケット				得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%			
-301033	献身のロケット				得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%			
+300992	クラーレン	Klauen	金叶爪杖	金葉爪杖	得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与	While equipped to an Attacker with Stab affinity, after using a skill, boosts own P. ATK by {0}% for 1 turn.	自身属性为突刺属性且身为攻击者时，技能发动后，赋予自身“物攻+{0}%”，1次行动结束后失效。	自身屬性為突屬性且為攻擊者時，發動技能後，賦予自身「物攻+{0}%」，直到行動結束1次為止。
+300993	クラーレン	Klauen	金叶爪杖	金葉爪杖	得意属性が突属性かつアタッカーの時、スキル発動後、自身に「物攻+{0}%」を1回行動終了するまで付与	While equipped to an Attacker with Stab affinity, after using a skill, boosts own P. ATK by {0}% for 1 turn.	自身属性为突刺属性且身为攻击者时，技能发动后，赋予自身“物攻+{0}%”，1次行动结束后失效。	自身屬性為突屬性且為攻擊者時，發動技能後，賦予自身「物攻+{0}%」，直到行動結束1次為止。
+300994	ナチュナリシュツ	Natüranisch	自然守护者	防護斗篷	自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%	While equipped to an Attacker, boosts skill damage by {0}% when target has status effects.	自身为攻击者时，目标陷入异常状态时，技能伤害+{0}%。	自身為攻擊者時，目標為異常狀態時，技能傷害+{0}%。
+300995	ナチュナリシュツ	Natüranisch	自然守护者	防護斗篷	自身がアタッカーの時、対象が状態異常時、スキルダメージ+{0}%	While equipped to an Attacker, boosts skill damage by {0}% when target has status effects.	自身为攻击者时，目标陷入异常状态时，技能伤害+{0}%。	自身為攻擊者時，目標為異常狀態時，技能傷害+{0}%。
+300996	獣の護符	Talisman of Ancient Beasts	野兽护符	獸之護符	得意属性が突属性の時、受ける強化効果量+{0}%	While equipped to a character with Stab affinity, boosts potency of buff effects received by {0}%.	自身属性为突刺属性时，所受强化效果量+{0}%。	自身屬性為突屬性時，所受強化效果量+{0}%。
+300997	獣の護符	Talisman of Ancient Beasts	野兽护符	獸之護符	得意属性が突属性の時、受ける強化効果量+{0}%	While equipped to a character with Stab affinity, boosts potency of buff effects received by {0}%.	自身属性为突刺属性时，所受强化效果量+{0}%。	自身屬性為突屬性時，所受強化效果量+{0}%。
+300998	叫びのハサミ	Screaming Scissors	尖叫剪刀	悲鳴剪刀	得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Slash affinity, after using a skill, boosts the burst skill damage of the ally with the highest P. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为斩击属性且身为支援者时，技能发动后，赋予物攻最高的1名我方“爆发技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為斬屬性並為支援者時，發動技能後，賦予我方物攻最高的1人「爆發技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+300999	叫びのハサミ	Screaming Scissors	尖叫剪刀	悲鳴剪刀	得意属性が斬属性かつサポーターの時、スキル発動後、物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Slash affinity, after using a skill, boosts the burst skill damage of the ally with the highest P. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为斩击属性且身为支援者时，技能发动后，赋予物攻最高的1名我方“爆发技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為斬屬性並為支援者時，發動技能後，賦予我方物攻最高的1人「爆發技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+301000	サイレンススタイル	Silence Style	静谧风情	沉默風情	自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%	While equipped to a Supporter, boosts all allies' physical attack skill damage by {0}%.	自身为支援者时，我方全体的物理攻击技能伤害+{0}%。	自身為支援者時，我方全體的物理攻擊技能傷害+{0}%。
+301001	サイレンススタイル	Silence Style	静谧风情	沉默風情	自身がサポーターの時、味方全員の物理攻撃スキルダメージ+{0}%	While equipped to a Supporter, boosts all allies' physical attack skill damage by {0}%.	自身为支援者时，我方全体的物理攻击技能伤害+{0}%。	自身為支援者時，我方全體的物理攻擊技能傷害+{0}%。
+301002	紫宝石の首飾り	Lilac Jewel Necklace	紫宝石项链	紫寶石項鍊	自身が斬属性の時、与えるHP回復量+{0}%	While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.	自身属性为斩击属性时，给予的HP恢复量+{0}%。	自身屬性為斬屬性時，賦予的HP回復量+{0}%。
+301003	紫宝石の首飾り	Lilac Jewel Necklace	紫宝石项链	紫寶石項鍊	自身が斬属性の時、与えるHP回復量+{0}%	While equipped to a character with Slash affinity, boosts HP recovery given by {0}%.	自身属性为斩击属性时，给予的HP恢复量+{0}%。	自身屬性為斬屬性時，賦予的HP回復量+{0}%。
+301004	石割りアックス	Rock Splitter	劈石之斧	劈石之斧	得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, reduces target's Stab resistance by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“突刺属性耐性-{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「突屬性耐性-{0}%」，直到受2次攻擊為止。
+301005	石割りアックス	Rock Splitter	劈石之斧	劈石之斧	得意属性が突属性の時、攻撃後、対象に「突属性耐性-{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, reduces target's Stab resistance by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“突刺属性耐性-{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「突屬性耐性-{0}%」，直到受2次攻擊為止。
+301006	鱗のプレート	Scale Plate	龙鳞胸铠	龍鱗胸鎧	得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限12%)	While equipped to a character with Stab affinity, when attack target is stunned, reduces target's damage by {0}%. (MAX 12%)	自身属性为突刺属性时，攻击目标破防时，赋予目标“伤害-{0}%”（上限12%）。	自身屬性為突屬性時，攻擊目標破防時，賦予目標「傷害-{0}%」（上限12%）。
+301007	鱗のプレート	Scale Plate	龙鳞胸铠	龍鱗胸鎧	得意属性が突属性の時、攻撃対象がブレイク時、対象に「ダメージ-{0}%」を付与(上限9%)	While equipped to a character with Stab affinity, when attack target is stunned, reduces target's damage by {0}%. (MAX 9%)	自身属性为突刺属性时，攻击目标破防时，赋予目标“伤害-{0}%”（上限9%）。	自身屬性為突屬性時，攻擊目標破防時，賦予目標「傷害-{0}%」（上限9%）。
+301008	メルクリウスの瞳	Mercurius Eye	守护神之瞳	守護神之瞳	得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%	While equipped to a Breaker with Stab affinity, boosts stun damage by {0}% when attacking a weakness.	自身属性为突刺属性且身为破坏者时，发动WEAK攻击时，破防伤害+{0}%。	自身屬性為突屬性並為破壞者時，WEAK攻擊時，破防傷害+{0}%。
+301009	メルクリウスの瞳	Mercurius Eye	守护神之瞳	守護神之瞳	得意属性が突属性かつブレイカーの時、WEAK攻撃時、ブレイクダメージ+{0}%	While equipped to a Breaker with Stab affinity, boosts stun damage by {0}% when attacking a weakness.	自身属性为突刺属性且身为破坏者时，发动WEAK攻击时，破防伤害+{0}%。	自身屬性為突屬性並為破壞者時，WEAK攻擊時，破防傷害+{0}%。
+301010	ノブレスランス	Noblesse Lance	王者十字枪	貴族長槍	得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, boosts target's physical attack damage received by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“所受物理攻击伤害+{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「所受物理攻擊傷害+{0}%」，直到受2次攻擊為止。
+301011	ノブレスランス	Noblesse Lance	王者十字枪	貴族長槍	得意属性が突属性の時、攻撃後、対象に「受ける物理攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与	While equipped to a character with Stab affinity, after attacking, boosts target's physical attack damage received by {0}% for 2 attacks.	自身属性为突刺属性时，攻击后，赋予目标“所受物理攻击伤害+{0}%”，受到2次攻击后失效。	自身屬性為突屬性時，攻擊後，賦予目標「所受物理攻擊傷害+{0}%」，直到受2次攻擊為止。
+301012	エミナンスコート	Eminence Coat	高贵大衣	顯赫外套	得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter with Stab affinity, boosts potency of inflicted negative effects by {0}%.	自身属性为突刺属性且身为支援者时，给予的负面效果量+{0}%。	自身屬性為突屬性並為支援者時，賦予的減弱效果量+{0}%。
+301013	エミナンスコート	Eminence Coat	高贵大衣	顯赫外套	得意属性が突属性かつサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter with Stab affinity, boosts potency of inflicted negative effects by {0}%.	自身属性为突刺属性且身为支援者时，给予的负面效果量+{0}%。	自身屬性為突屬性並為支援者時，賦予的減弱效果量+{0}%。
+301014	フィエールガント	Fière Gauntlets	至尊手套	自豪手套	自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.	自身为支援者时，技能发动后，赋予我方全体“物理攻击技能伤害+{0}%”，1次行动结束后失效。	自身為支援者時，發動技能後，賦予我方全體「物理攻擊技能傷害+{0}%」，直到行動結束1次為止。
+301015	フィエールガント	Fière Gauntlets	至尊手套	自豪手套	自身がサポーターの時、スキル発動後、味方全員に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts all allies' physical attack skill damage by {0}% for 1 turn.	自身为支援者时，技能发动后，赋予我方全体“物理攻击技能伤害+{0}%”，1次行动结束后失效。	自身為支援者時，發動技能後，賦予我方全體「物理攻擊技能傷害+{0}%」，直到行動結束1次為止。
+301016	冥闇の杖	Darkveil Rod	幽冥之杖	冥闇之杖	得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Bolt affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest M. ATK for 1 turn. (Cannot be stacked)	自身属性为雷属性且身为支援者时，技能发动后，赋予魔攻最高的1名友方“WEAK攻击伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為雷屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「WEAK攻擊傷害+{0}%」，直到行動結束1次為止（不可重複）。
+301017	冥闇の杖	Darkveil Rod	幽冥之杖	冥闇之杖	得意属性が雷属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「WEAK攻撃ダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Bolt affinity, after using a skill, boosts damage when attacking a weakness by {0}% for the ally with the highest M. ATK for 1 turn. (Cannot be stacked)	自身属性为雷属性且身为支援者时，技能发动后，赋予魔攻最高的1名友方“WEAK攻击伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為雷屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「WEAK攻擊傷害+{0}%」，直到行動結束1次為止（不可重複）。
+301018	寧静の服	Tranquil Tunic	宁静之服	寧靜服裝	得意属性が雷属性の時、与えるマイナス効果量+{0}%	While equipped to a character with Bolt affinity, boosts potency of negative effects inflicted by {0}%.	自身属性为雷属性时，给予的负面效果量+{0}%。	自身屬性為雷屬性時，賦予的減弱效果量+{0}%。
+301019	寧静の服	Tranquil Tunic	宁静之服	寧靜服裝	得意属性が雷属性の時、与えるマイナス効果量+{0}%	While equipped to a character with Bolt affinity, boosts potency of negative effects inflicted by {0}%.	自身属性为雷属性时，给予的负面效果量+{0}%。	自身屬性為雷屬性時，賦予的減弱效果量+{0}%。
+301020	花占いの札	Fortune Talisman	花朵占卜符	花朵占卜符	自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts target's damage received by {0}% and magic attack damage received by {1}% for 2 turns.	自身为支援者时，技能发动后，赋予目标“所受伤害+{0}%”和“所受魔法攻击伤害+{1}%”，2次行动结束后失效。	自身為支援者時，發動技能後，賦予目標「所受傷害+{0}%」與「所受魔法攻擊傷害+{1}%」，直到行動結束2次為止。
+301021	花占いの札	Fortune Talisman	花朵占卜符	花朵占卜符	自身がサポーターの時、スキル発動後、対象に「受けるダメージ+{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回行動終了するまで付与	While equipped to a Supporter, after using a skill, boosts target's damage received by {0}% and magic attack damage received by {1}% for 2 turns.	自身为支援者时，技能发动后，赋予目标“所受伤害+{0}%”和“所受魔法攻击伤害+{1}%”，2次行动结束后失效。	自身為支援者時，發動技能後，賦予目標「所受傷害+{0}%」與「所受魔法攻擊傷害+{1}%」，直到行動結束2次為止。
+301022	インクイジターソード	Inquisitor's Blade	探究者之剑	審問官之劍	得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%	While equipped to a character with Bolt affinity, boosts skill damage by {0}% when attacking a weakness.	自身属性为雷属性且发动WEAK攻击时，技能伤害+{0}%。	自身屬性為雷屬性並WEAK攻擊時，技能傷害+{0}%。
+301023	インクイジターソード	Inquisitor's Blade	探究者之剑	審問官之劍	得意属性が雷属性かつWEAK攻撃時、スキルダメージ+{0}%	While equipped to a character with Bolt affinity, boosts skill damage by {0}% when attacking a weakness.	自身属性为雷属性且发动WEAK攻击时，技能伤害+{0}%。	自身屬性為雷屬性並WEAK攻擊時，技能傷害+{0}%。
+301024	イージスジャケット	Aegis Jacket	防卫夹克	防衛夾克	得意属性が雷属性の時、受けるHP回復量+{0}%	While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.	自身属性为雷属性时，所受HP恢复量+{0}%。	自身屬性為雷屬性時，所受的HP回復量+{0}%。
+301025	イージスジャケット	Aegis Jacket	防卫夹克	防衛夾克	得意属性が雷属性の時、受けるHP回復量+{0}%	While equipped to a character with Bolt affinity, boosts HP recovery received by {0}%.	自身属性为雷属性时，所受HP恢复量+{0}%。	自身屬性為雷屬性時，所受的HP回復量+{0}%。
+301026	オミノスバングル	Ominous Bangle	噩兆手镯	不祥手環	自身がアタッカーの時、受ける強化効果量+{0}%	While equipped to an Attacker, boosts potency of received buff effects by {0}%.	自身为攻击者时，所受强化效果量+{0}%。	自身為攻擊者時，所受強化效果量+{0}%。
+301027	オミノスバングル	Ominous Bangle	噩兆手镯	不祥手環	自身がアタッカーの時、受ける強化効果量+{0}%	While equipped to an Attacker, boosts potency of received buff effects by {0}%.	自身为攻击者时，所受强化效果量+{0}%。	自身為攻擊者時，所受強化效果量+{0}%。
+301028	シュメルツシュヴェールト	Schmertzschwert	苦痛棘刃	苦痛之劍	得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts all allies' critical damage by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予我方全体“暴击伤害+{0}%”，1次行动结束后失效。（不可叠加）	自身屬性為風屬性並為支援者時，發動技能後，賦予我方全體「重擊傷害+{0}%」，直到行動結束1次為止。（不可重複）
+301029	シュメルツシュヴェールト	Schmertzschwert	苦痛棘刃	苦痛之劍	得意属性が風属性かつサポーターの時、スキル発動後、味方全員に「クリティカルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts all allies' critical damage by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予我方全体“暴击伤害+{0}%”，1次行动结束后失效。（不可叠加）	自身屬性為風屬性並為支援者時，發動技能後，賦予我方全體「重擊傷害+{0}%」，直到行動結束1次為止。（不可重複）
+301030	旅のプレート	Journey Plate	旅行胸铠	旅行胸鎧	得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予魔攻最高的1名我方“技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為風屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+301031	旅のプレート	Journey Plate	旅行胸铠	旅行胸鎧	得意属性が風属性かつサポーターの時、スキル発動後、魔攻が最も高い味方1人に「スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)	While equipped to a Supporter with Air affinity, after using a skill, boosts skill damage of the ally with the highest M. ATK by {0}% for 1 turn. (Cannot be stacked)	自身属性为风属性且身为支援者时，技能发动后，赋予魔攻最高的1名我方“技能伤害+{0}%”，1次行动结束后失效（不可叠加）。	自身屬性為風屬性並為支援者時，發動技能後，賦予我方魔攻最高的1人「技能傷害+{0}%」，直到行動結束1次為止（不可重複）。
+301032	献身のロケット	Locket of Devotion	奉献相框坠	奉獻相框墜	得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%	While equipped to a Supporter with Air affinity, boosts all allies' M. ATK by {0}%.	自身属性为风属性且身为支援者时，我方全体魔攻+{0}%。	自身屬性為風屬性並為支援者時，我方全體魔攻+{0}%。
+301033	献身のロケット	Locket of Devotion	奉献相框坠	奉獻相框墜	得意属性が風属性かつサポーターの時、味方全員の魔攻+{0}%	While equipped to a Supporter with Air affinity, boosts all allies' M. ATK by {0}%.	自身属性为风属性且身为支援者时，我方全体魔攻+{0}%。	自身屬性為風屬性並為支援者時，我方全體魔攻+{0}%。
 301034	スターリーナイトランス				自身がディフェンダーの時、バトル開始時、味方全員に「攻撃を受けた時、自身のHPを{0}%回復」を1回攻撃を受けるまで付与<br>「ランターナ」の味方全員の魔防+{1}%			
 301035	寒凪のハルバード				得意属性が雷属性の時、攻撃後、対象に「ダメージ-{0}%」を1回行動終了するまで付与			
 301036	寒凪のハルバード				得意属性が雷属性の時、攻撃後、対象に「ダメージ-{0}%」を1回行動終了するまで付与			
@@ -1084,13 +1084,13 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1980157	火傷させちゃうんだから！	Burnt to a Crisp!	我要把你烧伤！	我會讓你燒傷的！	得意属性が火属性のキャラは「クリティカルダメージ+{0}%」	Boosts the critical damage of characters with Fire affinity by {0}%.	自身属性为火属性的角色“暴击伤害+{0}%”。	自身屬性為火屬性的角色「重擊傷害+{0}%」。
 1980158	やれることならなんだって！	I'll Do Whatever I Can!	只要是我能做的，我会尽己所能！	任何能做到的事都不容錯過！	「ひょうきん者」は「スキルダメージ・ブレイクダメージ+{0}%」	Boosts Energetic characters' skill damage and stun damage by {0}%.	“活宝”标签角色获得“技能伤害、破防伤害+{0}%”。	「詼諧的人」的角色「技能傷害、破防傷害+{0}%」。
 1980159	天使の祝福	Angel's Blessing	天使的祝福	天使的祝福	得意属性が突属性のキャラは「物攻・魔攻・物防・魔防+{0}%」	Boosts Stab affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by {0}%.	自身属性为突刺属性的角色获得“物攻、魔攻、物防、魔防+{0}%”。	自身屬性為突屬性的角色「物攻、魔攻、物防、魔防+{0}%」。
-1980160	ビビっとアイデア湧いてきた！				「先駆け」と「スキルダメージ+{0}%」			
-1980161	王の背中に魅せられて				「麻痺耐性+{0}%」と「攻撃対象が麻痺状態の時、スキルダメージ+{1}%」			
-1980162	弱点を見抜く慧眼				「ランターナ」は攻撃後、対象に「受ける突属性ダメージ+{0}%」を1回攻撃を受けるまで付与			
-1980163	攻めて攻めて攻めまくれ！				「冒険」は「物攻・魔攻+{0}%」と「スキルダメージ・ブレイクダメージ+{1}%」			
-1980164	人形遣いの献身				得意属性が雷属性のキャラは「物攻・魔攻・物防・魔防+{0}%」			
-1980165	知の探究者ご愛用				バーストスキルダメージ+{0}%			
-1980166	この力、飼いならしてみせる				「ランターナ」は「物攻・魔攻・物防・魔防+{0}%」			
+1980160	ビビっとアイデア湧いてきた！	Flash of Inspiration!	灵感在不停涌现！	靈感嘩嘩地湧了出來！	「先駆け」と「スキルダメージ+{0}%」	Grants Initiative and boosts skill damage by {0}%.	获得“先锋”与“技能伤害+{0}%”。	「先鋒」與「技能傷害+{0}%」。
+1980161	王の背中に魅せられて	Captivated by the Queen	被王的背影所吸引	為君主的背影所吸引	「麻痺耐性+{0}%」と「攻撃対象が麻痺状態の時、スキルダメージ+{1}%」	Boosts Paralysis resistance by {0}% and boosts skill damage by {1}% when target is paralyzed.	获得“麻痹耐性+{0}%”与“攻击目标陷入麻痹状态时，技能伤害+{1}%”。	「麻痺耐性+{0}%」與「攻擊目標為麻痺狀態時，技能傷害+{1}%」。
+1980162	弱点を見抜く慧眼	Keen Eye for Weakness	看破弱点的慧眼	看穿弱點的慧眼	「ランターナ」は攻撃後、対象に「受ける突属性ダメージ+{0}%」を1回攻撃を受けるまで付与	After Lantarna characters attack, boosts their target's Stab damage received by {0}% for 1 attack.	“兰塔纳”标签角色攻击后，赋予目标“所受突刺属性伤害+{0}%”，受到1次攻击后失效。	「蘭塔納」的角色在攻擊後，賦予目標「所受突屬性傷害+{0}%」，直到受1次攻擊為止。
+1980163	攻めて攻めて攻めまくれ！	Smash, Smash, and Smash Some More!	打他个屁滚尿流！	進攻進攻瘋狂進攻！	「冒険」は「物攻・魔攻+{0}%」と「スキルダメージ・ブレイクダメージ+{1}%」	Boosts Adventurer characters' P. ATK and M. ATK by {0}% and skill damage and stun damage by {1}%.	“冒险”标签角色获得“物攻、魔攻+{0}%”和“技能伤害、破防伤害+{1}%”。	「冒險」的角色「物攻、魔攻+{0}%」且「技能傷害、破防傷害+{1}%」。
+1980164	人形遣いの献身	Puppeteer's Devotion	人偶师的献身	操偶師的獻身	得意属性が雷属性のキャラは「物攻・魔攻・物防・魔防+{0}%」	Boosts Bolt affinity characters' P. ATK, M. ATK, P. DEF, and M. DEF by {0}%.	自身属性为雷属性的角色获得“物攻、魔攻、物防、魔防+{0}%”。	自身屬性為雷屬性的角色「物攻、魔攻、物防、魔防+{0}%」。
+1980165	知の探究者ご愛用	Seeker of Knowledge's Favorite Specs	知识探究者的爱用好物	知識探究者的愛用品	バーストスキルダメージ+{0}%	Boosts burst skill damage by {0}%.	爆发技能的伤害+{0}%。	爆發技能傷害+{0}%。
+1980166	この力、飼いならしてみせる	I'll Master This Power	我会驯服这股力量的。	我一定會駕馭這股力量。	「ランターナ」は「物攻・魔攻・物防・魔防+{0}%」	Boosts Lantarna characters' P. ATK, M. ATK, P. DEF, and M. DEF by {0}%.	“兰塔纳”标签角色获得“物攻、魔攻、物防、魔防+{0}%”。	「蘭塔納」的角色「物攻、魔攻、物防、魔防+{0}%」。
 1980167	星夜彩る優艶な騎士				「騎士」は「物防・魔防+{0}%」			
 1980168	私たちの渇望のために				得意属性が雷属性のキャラは「攻撃対象がブレイク状態の時、スキルダメージ+{0}%」			
 1980169	身体の芯まで凍らせてあげる				得意属性が氷属性のキャラは「魔攻+{0}%」			
@@ -1319,20 +1319,20 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1990261	フロッケが支えます！	Flocke's Here to Help!	芙洛可会支援大家！	芙洛可會支持你們！	スキル発動後、自身のHPを{0}%回復<br>自身のHPが95%以上の状態で攻撃を受けた時、タイムラインに並んでいる、次の味方のパネル1つをバーストパネルに変換(空パネルの時は生成)	After using a skill, restores own HP by {0}%.<br>When hit by an attack while own HP is 95% or higher, converts the panel of the next ally in turn order into a burst panel. (Creates a burst panel if the panel is empty)	发动技能后，恢复自身{0}%HP。<br>自身HP不低于95%的状态下受到攻击时，时间条上的后1个我方面板变换为爆发面板（面板为空时生成面板）。	技能發動後，回復自身HP{0}%。<br>自身HP在95%以上的狀態下受到攻擊時，將時間條上的下一個我方面板（包括空面板）轉換為爆發面板。
 1990262	友の支えが力になる！				自身に付与されている強化効果の数に応じ、スキルダメージ+10〜100%(1〜20個で多いほど増加)<br>※バトル開始時に発動した回数制限のない強化効果は含まない			
 1990263	イタズラしちゃうよ！				スキル使用前、攻撃対象に「絡まりリボン」が付与されている時、その攻撃のスキルダメージ+{0}%			
-1990264	盛り上がり上昇中！				自身がパネル獲得時またはHP回復を受けた時、自身に「物攻+{0}%」を付与(上限100%)し、<br>自身に「突属性ダメージ+{1}%」を<br>1回行動終了するまで付与(上限5個)			
-1990265	ビーッグチャーンス！				プラスパネルから受ける効果量+{0}%<br>攻撃対象が麻痺・ねむり・スタン状態あるいは「王の威光」が付与された状態の時、ダメージ+{1}%			
-1990266	溢れ出る闘争の力Ⅱ				味方全員のスキルダメージ+{0}%			
-1990267	心安らげる歌姫の旋律				スキル発動後、アイテムゲージを{0}%回復し、<br>味方全員のHPを{1}%回復			
-1990268	錬金爵の計略				味方全員の与えるマイナス効果量+{0}%			
-1990269	ブラッド式突撃戦術				得意属性が突属性の味方全員のスキルダメージ・ブレイクダメージ+{0}%			
-1990270	来たぜ、好機！				攻撃対象がブレイク時、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与し、<br>味方全員に「スキル2の貫通力+{1}」を付与（上限100）			
-1990271	喧嘩屋マクダ様につづけぇ！				バトル開始時、自身に「素早さ+{0}%」と「強制ブレイク」を1回行動終了するまで付与			
-1990272	無理しないでよね……				得意属性が雷属性の味方全員の魔攻+{0}%<br>スキル発動後、味方全員に「ターン開始時、HP回復+{1}%」を1回行動開始するまで付与			
-1990273	邪魔するヤツは許さない				得意属性が雷属性の味方全員に以下の追加効果を付与<br>追加効果：「攻撃後、対象に受けるダメージ+{0}%を1回攻撃を受けるまで付与(上限4個)」			
-1990274	研究に犠牲は付きものです				自身が劇薬パネル獲得時、バーストスキルを発動でき、<br>自身に「受けるダメージ+{0}%」を1回攻撃を受けるまで付与し、<br>自身に「スキルダメージ+{1}%」を1回行動終了するまで付与(上限150%)			
-1990275	弱化被検体対象実験				スキル使用前、攻撃対象にマイナス効果が5個以上付与されている時、その攻撃のクリティカル確率+{0}%			
-1990276	風に乗ってガンガンいくわよ！				得意属性が風属性の味方全員のスキルダメージ+{0}%			
-1990277	思いっきり戦うために				スキル発動後、得意属性が風属性の味方全員に「ターン開始時、HP回復+{0}%」を2回行動開始するまで付与			
+1990264	盛り上がり上昇中！	Rising Excitement!	心情持续高涨中！	氣氛高漲中！	自身がパネル獲得時またはHP回復を受けた時、自身に「物攻+{0}%」を付与(上限100%)し、<br>自身に「突属性ダメージ+{1}%」を<br>1回行動終了するまで付与(上限5個)	When using panels or receiving HP recovery, boosts own P. ATK by {0}% (MAX 100%) and own Stab damage by {1}% for 1 turn. (MAX 5 turns)	自身获得面板或HP得到恢复时，赋予自身“物攻+{0}%”（上限100%），<br>并赋予自身“突刺属性伤害+{1}%”，<br>1次行动结束后失效（上限5次）。	自身獲得面板時或獲得HP回復時，賦予自身「物攻+{0}%」（上限100%），<br>並賦予自身「突屬性傷害+{1}%」，<br>直到行動結束1次為止（上限5個）。
+1990265	ビーッグチャーンス！	Big Opportunity!	绝好机会！	偉～大機會！	プラスパネルから受ける効果量+{0}%<br>攻撃対象が麻痺・ねむり・スタン状態あるいは「王の威光」が付与された状態の時、ダメージ+{1}%	Boosts the effects received from positive panels by {0}%.<br>If attack target is inflicted with Paralysis, Sleep, Dazed, or Royal Authority, boosts damage by {1}%.	从正面面板获得的效果量+{0}%。<br>攻击目标处于麻痹、睡眠、昏眩状态或被赋予“王的威光”状态时，伤害+{1}%。	來自加強面板的效果量+{0}%。<br>攻擊目標被賦予麻痺、睡眠、昏眩狀態或「王的威勢」狀態時，傷害+{1}%。
+1990266	溢れ出る闘争の力Ⅱ	Destructive Overload II	满溢的斗争之力Ⅱ	滿溢而出的鬥爭之力Ⅱ	味方全員のスキルダメージ+{0}%	Boosts skill damage by {0}% for all allies.	我方全体技能伤害+{0}%。	我方全體的技能傷害+{0}%。
+1990267	心安らげる歌姫の旋律	Diva's Soothing Melody	令人安心的歌姬旋律	安定人心的歌姬旋律	スキル発動後、アイテムゲージを{0}%回復し、<br>味方全員のHPを{1}%回復	After using skill, restores the item gauge by {0}% and restores all allies' HP by {1}%.	发动技能后，道具槽恢复{0}%，<br>我方全体的HP恢复{1}%。	發動技能後，回復道具量表{0}%，<br>並回復我方全體HP{1}%。
+1990268	錬金爵の計略	Seneschal's Plan	炼金爵的计谋	鍊金爵的計策	味方全員の与えるマイナス効果量+{0}%	Boosts potency of all allies' negative effects inflicted by {0}%.	我方全体造成负面效果量+{0}%。	我方全體賦予減弱效果量+{0}%。
+1990269	ブラッド式突撃戦術	Brad's Signature Assault Strategy	布莱德式突击战术	布萊德式突擊戰術	得意属性が突属性の味方全員のスキルダメージ・ブレイクダメージ+{0}%	Boosts skill damage and stun damage of all allies with Stab affinity by {0}%.	自身属性为突刺属性的我方全体技能伤害与破防伤害+{0}%。	使自身屬性為突屬性的我方全體技能傷害及破防傷害+{0}%。
+1990270	来たぜ、好機！	This Is It! My Chance!	好机会到来！	好機會來啦！	攻撃対象がブレイク時、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与し、<br>味方全員に「スキル2の貫通力+{1}」を付与（上限100）	When attack target is stunned, boosts own skill damage by {0}% for 2 turns and boosts all allies' Skill 2 penetration by {1}. (MAX 100)	攻击目标破防时，赋予自身“技能伤害+{0}%”，2次行动结束后失效，<br>赋予我方全体“技能2穿透力+{1}”（上限100）。	攻擊目標破防時，賦予自身「技能傷害+{0}%」，直到行動結束2次為止，<br>並賦予我方全體「技能2的貫穿力+{1}」（上限100）。
+1990271	喧嘩屋マクダ様につづけぇ！	Follow the Brawl Master!	跟着我上！	跟隨打架專家瑪格達吧！	バトル開始時、自身に「素早さ+{0}%」と「強制ブレイク」を1回行動終了するまで付与	"At the start of battle, boosts own SPD by {0}% and grants self ""Force Stun"" for 1 turn."	战斗开始时，赋予自身“敏捷+{0}%”和“强制破防”，1次行动结束后失效。	戰鬥開始時，賦予自身「敏捷+{0}%」與「強制破防」，直到行動結束1次為止。
+1990272	無理しないでよね……	Don't Overdo It...	不要勉强……	可別太逞強了……	得意属性が雷属性の味方全員の魔攻+{0}%<br>スキル発動後、味方全員に「ターン開始時、HP回復+{1}%」を1回行動開始するまで付与	Boosts M. ATK of all allies with Bolt affinity by {0}%.<br>After using a skill, restores all allies' HP by {1}% at the start of the turn for 1 turn.	自身属性为雷属性的我方全体魔攻+{0}%<br>技能发动后，赋予我方全体“回合开始时，恢复HP+{1}%”，回合开始1次后失效。	自身屬性為雷屬性的我方全體魔攻+{0}%。<br>發動技能後，賦予我方全體「回合開始時，HP回復+{1}%」，直到行動開始1次為止。
+1990273	邪魔するヤツは許さない	None Shall Stand in My Way	妨碍之人不可原谅	礙事者不可饒恕	得意属性が雷属性の味方全員に以下の追加効果を付与<br>追加効果：「攻撃後、対象に受けるダメージ+{0}%を1回攻撃を受けるまで付与(上限4個)」	Grants the following additional effect to all allies with Bolt affinity.<br>Additional effect: After attacking, boosts target's damage received by {0}% for 1 attack. (MAX 4)	赋予自身属性为雷属性的我方全体以下追加效果。<br>追加效果：“攻击后，赋予目标所受伤害+{0}%，受到1次攻击后失效（上限4次）”。	賦予自身屬性為雷屬性的我方全體以下追加效果。<br>追加效果：「攻擊後，賦予目標所受傷害+{0}%，直到受1次攻擊為止（上限4個）」。
+1990274	研究に犠牲は付きものです	Research Demands Sacrifice	研究难免牺牲	研究必然伴隨犧牲	自身が劇薬パネル獲得時、バーストスキルを発動でき、<br>自身に「受けるダメージ+{0}%」を1回攻撃を受けるまで付与し、<br>自身に「スキルダメージ+{1}%」を1回行動終了するまで付与(上限150%)	Can activate burst skill when using a chem panel. Using a chem panel boosts own damage received by {0}% for 1 attack and boosts own skill damage by {1}% for 1 turn. (MAX 150%)	自身获得剧药面板时，可发动爆发技能，<br>赋予自身“所受伤害+{0}%”，受到1次攻击后失效，<br>赋予自身“技能伤害+{1}%”，1次行动结束后失效（上限150%）。	自身獲得劇藥面板時，可發動爆發技能，<br>賦予自身「所受傷害+{0}%」，直到受1次攻擊為止，<br>並賦予自身「技能傷害+{1}%」直到行動結束1次為止（上限150%）。
+1990275	弱化被検体対象実験	Experiment on the Weak	弱化测试体对象实验	弱化受檢體目標實驗	スキル使用前、攻撃対象にマイナス効果が5個以上付与されている時、その攻撃のクリティカル確率+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts that attack's critical rate by {0}%.	使用技能前，若攻击目标被赋予5个及以上负面效果，此次攻击的暴击率+{0}%。	使用技能前，攻擊目標被賦予5個以上減弱效果時，該攻擊的重擊率+{0}%。
+1990276	風に乗ってガンガンいくわよ！	Riding the Wind!	乘着风猛烈进攻！	乘著風，強勢向前衝吧！	得意属性が風属性の味方全員のスキルダメージ+{0}%	Boosts skill damage by {0}% for all allies with Air affinity.	自身属性为风属性的我方全体技能伤害+{0}%。	自身屬性為風屬性的我方全體技能傷害+{0}%。
+1990277	思いっきり戦うために	To Fight at Full Strength	为了能够尽情战斗	為了盡情戰鬥	スキル発動後、得意属性が風属性の味方全員に「ターン開始時、HP回復+{0}%」を2回行動開始するまで付与	After using a skill, restores all Air allies' HP by {0}% at the start of the turn for 2 turns.	技能发动后，赋予自身属性为风属性的我方全体“回合开始时，恢复HP+{0}%”，2次回合开始后失效。	發動技能後，賦予我方全體自身屬性為風屬性者「回合開始時HP回復+{0}%」，直到行動開始2次為止。
 1990278	魅惑の曲線美				敵にとても狙われやすくなる<br>自身の物防・魔防+{0}%			
 1990279	星の輝きをこの手に				バトル開始時、「エレクトリカルワルツ」のスキルランプを3個点灯する<br>自身がパネル獲得時または攻撃を受けた時、「エレクトリカルワルツ」のスキルランプを1個点灯する			
 1990280	破壊の天稟				「サピエンティア」または「フルグルハスタ」で攻撃対象がブレイク時、味方全員のバーストパネルを除いたパネル全てを、叡智解放パネルに変換(空パネルの時は生成)<br>自身が叡智解放パネル獲得時、バーストスキルを発動できる			
@@ -1947,11 +1947,11 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 4990625	防者会心ダメージアップオールⅢ	Defender Critical Damage Up (All) III	防者全体暴击伤害提升Ⅲ	防者全體重擊傷害上升Ⅲ	自身がディフェンダーの時、味方全員のクリティカルダメージ+{0}%	While equipped to a Defender, boosts all allies' critical damage by {0}%.	自身为防御者时，我方全体暴击伤害+{0}%。	自身為防禦者時，我方全體的重擊傷害+{0}%。
 4990626	防者会心ダメージアップオールⅢ	Defender Critical Damage Up (All) III	防者全体暴击伤害提升Ⅲ	防者全體重擊傷害上升Ⅲ	自身がディフェンダーの時、味方全員のクリティカルダメージ+{0}%	While equipped to a Defender, boosts all allies' critical damage by {0}%.	自身为防御者时，我方全体暴击伤害+{0}%。	自身為防禦者時，我方全體的重擊傷害+{0}%。
 4990627	防者会心ダメージアップオールⅢ	Defender Critical Damage Up (All) III	防者全体暴击伤害提升Ⅲ	防者全體重擊傷害上升Ⅲ	自身がディフェンダーの時、味方全員のクリティカルダメージ+{0}%	While equipped to a Defender, boosts all allies' critical damage by {0}%.	自身为防御者时，我方全体暴击伤害+{0}%。	自身為防禦者時，我方全體的重擊傷害+{0}%。
-4990628	斬得ダメージアップオールⅢ				得意属性が斬属性の時、味方全員のスキルダメージ+{0}%			
-4990629	斬得ダメージアップオールⅢ				得意属性が斬属性の時、味方全員のスキルダメージ+{0}%			
-4990630	斬得ダメージアップオールⅢ				得意属性が斬属性の時、味方全員のスキルダメージ+{0}%			
-4990631	斬得ダメージアップオールⅢ				得意属性が斬属性の時、味方全員のスキルダメージ+{0}%			
-4990632	斬得ダメージアップオールⅢ				得意属性が斬属性の時、味方全員のスキルダメージ+{0}%			
+4990628	斬得ダメージアップオールⅢ	Slash Affinity Damage Up (All) III	擅斩击全体伤害提升Ⅲ	擅斬全體傷害上升Ⅲ	得意属性が斬属性の時、味方全員のスキルダメージ+{0}%	While equipped to a character with Slash affinity, boosts skill damage by {0}% for all allies.	自身属性为斩击属性时，我方全体技能伤害+{0}%。	自身屬性為斬屬性時，我方全體技能傷害+{0}%。
+4990629	斬得ダメージアップオールⅢ	Slash Affinity Damage Up (All) III	擅斩击全体伤害提升Ⅲ	擅斬全體傷害上升Ⅲ	得意属性が斬属性の時、味方全員のスキルダメージ+{0}%	While equipped to a character with Slash affinity, boosts skill damage by {0}% for all allies.	自身属性为斩击属性时，我方全体技能伤害+{0}%。	自身屬性為斬屬性時，我方全體技能傷害+{0}%。
+4990630	斬得ダメージアップオールⅢ	Slash Affinity Damage Up (All) III	擅斩击全体伤害提升Ⅲ	擅斬全體傷害上升Ⅲ	得意属性が斬属性の時、味方全員のスキルダメージ+{0}%	While equipped to a character with Slash affinity, boosts skill damage by {0}% for all allies.	自身属性为斩击属性时，我方全体技能伤害+{0}%。	自身屬性為斬屬性時，我方全體技能傷害+{0}%。
+4990631	斬得ダメージアップオールⅢ	Slash Affinity Damage Up (All) III	擅斩击全体伤害提升Ⅲ	擅斬全體傷害上升Ⅲ	得意属性が斬属性の時、味方全員のスキルダメージ+{0}%	While equipped to a character with Slash affinity, boosts skill damage by {0}% for all allies.	自身属性为斩击属性时，我方全体技能伤害+{0}%。	自身屬性為斬屬性時，我方全體技能傷害+{0}%。
+4990632	斬得ダメージアップオールⅢ	Slash Affinity Damage Up (All) III	擅斩击全体伤害提升Ⅲ	擅斬全體傷害上升Ⅲ	得意属性が斬属性の時、味方全員のスキルダメージ+{0}%	While equipped to a character with Slash affinity, boosts skill damage by {0}% for all allies.	自身属性为斩击属性时，我方全体技能伤害+{0}%。	自身屬性為斬屬性時，我方全體技能傷害+{0}%。
 4990633	壮健会心ダメージアップⅢ	Hardy Critical Damage Up III	壮健暴击伤害提升Ⅲ	壯健重擊傷害上升Ⅲ	自身のHPが50%以上の場合、クリティカルダメージ+{0}%	Boosts critical damage by {0}% when own HP is 50% or higher.	自身HP不低于50%时，暴击伤害+{0}%。	自身的HP在50%以上時，重擊傷害+{0}%。
 4990634	壮健会心ダメージアップⅢ	Hardy Critical Damage Up III	壮健暴击伤害提升Ⅲ	壯健重擊傷害上升Ⅲ	自身のHPが50%以上の場合、クリティカルダメージ+{0}%	Boosts critical damage by {0}% when own HP is 50% or higher.	自身HP不低于50%时，暴击伤害+{0}%。	自身的HP在50%以上時，重擊傷害+{0}%。
 4990635	壮健会心ダメージアップⅢ	Hardy Critical Damage Up III	壮健暴击伤害提升Ⅲ	壯健重擊傷害上升Ⅲ	自身のHPが50%以上の場合、クリティカルダメージ+{0}%	Boosts critical damage by {0}% when own HP is 50% or higher.	自身HP不低于50%时，暴击伤害+{0}%。	自身的HP在50%以上時，重擊傷害+{0}%。
@@ -1962,31 +1962,31 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 4990640	攻者単体ダメージアップⅢ	Attacker Single Damage Up III	攻者对单体伤害提升Ⅲ	攻者單體傷害上升Ⅲ	自身がアタッカーの時、単体攻撃のスキルダメージ+{0}%	While equipped to an Attacker, boosts single-target attack skill damage by {0}%.	自身为攻击者时，单体攻击的技能伤害+{0}%。	自身為攻擊者時，單體攻擊的技能傷害+{0}%。
 4990641	攻者単体ダメージアップⅢ	Attacker Single Damage Up III	攻者对单体伤害提升Ⅲ	攻者單體傷害上升Ⅲ	自身がアタッカーの時、単体攻撃のスキルダメージ+{0}%	While equipped to an Attacker, boosts single-target attack skill damage by {0}%.	自身为攻击者时，单体攻击的技能伤害+{0}%。	自身為攻擊者時，單體攻擊的技能傷害+{0}%。
 4990642	攻者単体ダメージアップⅢ	Attacker Single Damage Up III	攻者对单体伤害提升Ⅲ	攻者單體傷害上升Ⅲ	自身がアタッカーの時、単体攻撃のスキルダメージ+{0}%	While equipped to an Attacker, boosts single-target attack skill damage by {0}%.	自身为攻击者时，单体攻击的技能伤害+{0}%。	自身為攻擊者時，單體攻擊的技能傷害+{0}%。
-4990643	突・弱点被ダメージアップⅢ				得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与			
-4990644	突・弱点被ダメージアップⅢ				得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与			
-4990645	突・弱点被ダメージアップⅢ				得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与			
-4990646	突・弱点被ダメージアップⅢ				得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与			
-4990647	突・弱点被ダメージアップⅢ				得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与			
-4990648	術者マイナスアップⅢ				自身がサポーターの時、与えるマイナス効果量+{0}%			
-4990649	術者マイナスアップⅢ				自身がサポーターの時、与えるマイナス効果量+{0}%			
-4990650	術者マイナスアップⅢ				自身がサポーターの時、与えるマイナス効果量+{0}%			
-4990651	術者マイナスアップⅢ				自身がサポーターの時、与えるマイナス効果量+{0}%			
-4990652	術者マイナスアップⅢ				自身がサポーターの時、与えるマイナス効果量+{0}%			
-4990653	ダメージアップオール攻者Ⅲ				アタッカーの味方全員のスキルダメージ+{0}%			
-4990654	ダメージアップオール攻者Ⅲ				アタッカーの味方全員のスキルダメージ+{0}%			
-4990655	ダメージアップオール攻者Ⅲ				アタッカーの味方全員のスキルダメージ+{0}%			
-4990656	ダメージアップオール攻者Ⅲ				アタッカーの味方全員のスキルダメージ+{0}%			
-4990657	ダメージアップオール攻者Ⅲ				アタッカーの味方全員のスキルダメージ+{0}%			
-4990658	弱体ダメージアップⅢ				スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%			
-4990659	弱体ダメージアップⅢ				スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%			
-4990660	弱体ダメージアップⅢ				スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%			
-4990661	弱体ダメージアップⅢ				スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%			
-4990662	弱体ダメージアップⅢ				スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%			
-4990663	風得アタック被会心ダメアップⅢ				得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与			
-4990664	風得アタック被会心ダメアップⅢ				得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与			
-4990665	風得アタック被会心ダメアップⅢ				得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与			
-4990666	風得アタック被会心ダメアップⅢ				得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与			
-4990667	風得アタック被会心ダメアップⅢ				得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与			
+4990643	突・弱点被ダメージアップⅢ	Stab Received Weakness Damage Up III	突刺・弱点所受伤害提升Ⅲ	突‧弱點所受傷害上升Ⅲ	得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与	Boosts damage received by the target by {0}% for 2 attacks when attacking a target's Stab weakness.	以突刺属性发动WEAK攻击时，赋予目标“所受伤害+{0}%”，受到2次攻击后失效。	突屬性並WEAK攻擊時，賦予目標「所受傷害+{0}%」，直到受2次攻擊為止。
+4990644	突・弱点被ダメージアップⅢ	Stab Received Weakness Damage Up III	突刺・弱点所受伤害提升Ⅲ	突‧弱點所受傷害上升Ⅲ	得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与	Boosts damage received by the target by {0}% for 2 attacks when attacking a target's Stab weakness.	以突刺属性发动WEAK攻击时，赋予目标“所受伤害+{0}%”，受到2次攻击后失效。	突屬性並WEAK攻擊時，賦予目標「所受傷害+{0}%」，直到受2次攻擊為止。
+4990645	突・弱点被ダメージアップⅢ	Stab Received Weakness Damage Up III	突刺・弱点所受伤害提升Ⅲ	突‧弱點所受傷害上升Ⅲ	得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与	Boosts damage received by the target by {0}% for 2 attacks when attacking a target's Stab weakness.	以突刺属性发动WEAK攻击时，赋予目标“所受伤害+{0}%”，受到2次攻击后失效。	突屬性並WEAK攻擊時，賦予目標「所受傷害+{0}%」，直到受2次攻擊為止。
+4990646	突・弱点被ダメージアップⅢ	Stab Received Weakness Damage Up III	突刺・弱点所受伤害提升Ⅲ	突‧弱點所受傷害上升Ⅲ	得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与	Boosts damage received by the target by {0}% for 2 attacks when attacking a target's Stab weakness.	以突刺属性发动WEAK攻击时，赋予目标“所受伤害+{0}%”，受到2次攻击后失效。	突屬性並WEAK攻擊時，賦予目標「所受傷害+{0}%」，直到受2次攻擊為止。
+4990647	突・弱点被ダメージアップⅢ	Stab Received Weakness Damage Up III	突刺・弱点所受伤害提升Ⅲ	突‧弱點所受傷害上升Ⅲ	得意属性が突属性かつWEAK攻撃時、対象に「受けるダメージ+{0}%」を2回攻撃を受けるまで付与	Boosts damage received by the target by {0}% for 2 attacks when attacking a target's Stab weakness.	以突刺属性发动WEAK攻击时，赋予目标“所受伤害+{0}%”，受到2次攻击后失效。	突屬性並WEAK攻擊時，賦予目標「所受傷害+{0}%」，直到受2次攻擊為止。
+4990648	術者マイナスアップⅢ	Supporter Negative Effects Up III	术者负面效果提升Ⅲ	術士減弱上升Ⅲ	自身がサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter, boosts potency of inflicted negative effects by {0}%.	自身为支援者时，给予的负面效果量+{0}%。	自身為支援者時，賦予的減弱效果量+{0}%。
+4990649	術者マイナスアップⅢ	Supporter Negative Effects Up III	术者负面效果提升Ⅲ	術士減弱上升Ⅲ	自身がサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter, boosts potency of inflicted negative effects by {0}%.	自身为支援者时，给予的负面效果量+{0}%。	自身為支援者時，賦予的減弱效果量+{0}%。
+4990650	術者マイナスアップⅢ	Supporter Negative Effects Up III	术者负面效果提升Ⅲ	術士減弱上升Ⅲ	自身がサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter, boosts potency of inflicted negative effects by {0}%.	自身为支援者时，给予的负面效果量+{0}%。	自身為支援者時，賦予的減弱效果量+{0}%。
+4990651	術者マイナスアップⅢ	Supporter Negative Effects Up III	术者负面效果提升Ⅲ	術士減弱上升Ⅲ	自身がサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter, boosts potency of inflicted negative effects by {0}%.	自身为支援者时，给予的负面效果量+{0}%。	自身為支援者時，賦予的減弱效果量+{0}%。
+4990652	術者マイナスアップⅢ	Supporter Negative Effects Up III	术者负面效果提升Ⅲ	術士減弱上升Ⅲ	自身がサポーターの時、与えるマイナス効果量+{0}%	While equipped to a Supporter, boosts potency of inflicted negative effects by {0}%.	自身为支援者时，给予的负面效果量+{0}%。	自身為支援者時，賦予的減弱效果量+{0}%。
+4990653	ダメージアップオール攻者Ⅲ	Damage Up (All Attackers) III	攻者全体伤害提升Ⅲ	全體傷害上升攻者Ⅲ	アタッカーの味方全員のスキルダメージ+{0}%	Boosts all allied Attackers' skill damage by {0}%.	我方全体攻击者的技能伤害+{0}%。	我方全體攻擊者的技能傷害+{0}%。
+4990654	ダメージアップオール攻者Ⅲ	Damage Up (All Attackers) III	攻者全体伤害提升Ⅲ	全體傷害上升攻者Ⅲ	アタッカーの味方全員のスキルダメージ+{0}%	Boosts all allied Attackers' skill damage by {0}%.	我方全体攻击者的技能伤害+{0}%。	我方全體攻擊者的技能傷害+{0}%。
+4990655	ダメージアップオール攻者Ⅲ	Damage Up (All Attackers) III	攻者全体伤害提升Ⅲ	全體傷害上升攻者Ⅲ	アタッカーの味方全員のスキルダメージ+{0}%	Boosts all allied Attackers' skill damage by {0}%.	我方全体攻击者的技能伤害+{0}%。	我方全體攻擊者的技能傷害+{0}%。
+4990656	ダメージアップオール攻者Ⅲ	Damage Up (All Attackers) III	攻者全体伤害提升Ⅲ	全體傷害上升攻者Ⅲ	アタッカーの味方全員のスキルダメージ+{0}%	Boosts all allied Attackers' skill damage by {0}%.	我方全体攻击者的技能伤害+{0}%。	我方全體攻擊者的技能傷害+{0}%。
+4990657	ダメージアップオール攻者Ⅲ	Damage Up (All Attackers) III	攻者全体伤害提升Ⅲ	全體傷害上升攻者Ⅲ	アタッカーの味方全員のスキルダメージ+{0}%	Boosts all allied Attackers' skill damage by {0}%.	我方全体攻击者的技能伤害+{0}%。	我方全體攻擊者的技能傷害+{0}%。
+4990658	弱体ダメージアップⅢ	Weakened Damage Up III	削弱伤害提升Ⅲ	弱化傷害上升Ⅲ	スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts skill damage by {0}%.	技能发动前，若攻击目标被赋予5个及以上负面效果，技能伤害+{0}%。	發動技能前，攻擊目標被賦予5個以上減弱效果時，技能傷害+{0}%。
+4990659	弱体ダメージアップⅢ	Weakened Damage Up III	削弱伤害提升Ⅲ	弱化傷害上升Ⅲ	スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts skill damage by {0}%.	技能发动前，若攻击目标被赋予5个及以上负面效果，技能伤害+{0}%。	發動技能前，攻擊目標被賦予5個以上減弱效果時，技能傷害+{0}%。
+4990660	弱体ダメージアップⅢ	Weakened Damage Up III	削弱伤害提升Ⅲ	弱化傷害上升Ⅲ	スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts skill damage by {0}%.	技能发动前，若攻击目标被赋予5个及以上负面效果，技能伤害+{0}%。	發動技能前，攻擊目標被賦予5個以上減弱效果時，技能傷害+{0}%。
+4990661	弱体ダメージアップⅢ	Weakened Damage Up III	削弱伤害提升Ⅲ	弱化傷害上升Ⅲ	スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts skill damage by {0}%.	技能发动前，若攻击目标被赋予5个及以上负面效果，技能伤害+{0}%。	發動技能前，攻擊目標被賦予5個以上減弱效果時，技能傷害+{0}%。
+4990662	弱体ダメージアップⅢ	Weakened Damage Up III	削弱伤害提升Ⅲ	弱化傷害上升Ⅲ	スキル発動前、攻撃対象にマイナス効果が5個以上付与されている時、スキルダメージ+{0}%	Before using a skill, if the attack target has 5 or more negative effects, boosts skill damage by {0}%.	技能发动前，若攻击目标被赋予5个及以上负面效果，技能伤害+{0}%。	發動技能前，攻擊目標被賦予5個以上減弱效果時，技能傷害+{0}%。
+4990663	風得アタック被会心ダメアップⅢ	Received Air Critical Damage Up III	擅风攻击所受暴击伤害提升Ⅲ	擅風攻擊所受重擊傷害上升Ⅲ	得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与	While equipped to a character with Air affinity, when attacking, boosts target's critical damage received by {0}% for 1 attack.	自身属性为风属性时，攻击时，赋予目标“所受暴击伤害+{0}%”，受到1次攻击后失效。	自身屬性為風屬性時，攻擊時，賦予目標「所受重擊傷害+{0}%」，直到受1次攻擊為止。
+4990664	風得アタック被会心ダメアップⅢ	Received Air Critical Damage Up III	擅风攻击所受暴击伤害提升Ⅲ	擅風攻擊所受重擊傷害上升Ⅲ	得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与	While equipped to a character with Air affinity, when attacking, boosts target's critical damage received by {0}% for 1 attack.	自身属性为风属性时，攻击时，赋予目标“所受暴击伤害+{0}%”，受到1次攻击后失效。	自身屬性為風屬性時，攻擊時，賦予目標「所受重擊傷害+{0}%」，直到受1次攻擊為止。
+4990665	風得アタック被会心ダメアップⅢ	Received Air Critical Damage Up III	擅风攻击所受暴击伤害提升Ⅲ	擅風攻擊所受重擊傷害上升Ⅲ	得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与	While equipped to a character with Air affinity, when attacking, boosts target's critical damage received by {0}% for 1 attack.	自身属性为风属性时，攻击时，赋予目标“所受暴击伤害+{0}%”，受到1次攻击后失效。	自身屬性為風屬性時，攻擊時，賦予目標「所受重擊傷害+{0}%」，直到受1次攻擊為止。
+4990666	風得アタック被会心ダメアップⅢ	Received Air Critical Damage Up III	擅风攻击所受暴击伤害提升Ⅲ	擅風攻擊所受重擊傷害上升Ⅲ	得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与	While equipped to a character with Air affinity, when attacking, boosts target's critical damage received by {0}% for 1 attack.	自身属性为风属性时，攻击时，赋予目标“所受暴击伤害+{0}%”，受到1次攻击后失效。	自身屬性為風屬性時，攻擊時，賦予目標「所受重擊傷害+{0}%」，直到受1次攻擊為止。
+4990667	風得アタック被会心ダメアップⅢ	Received Air Critical Damage Up III	擅风攻击所受暴击伤害提升Ⅲ	擅風攻擊所受重擊傷害上升Ⅲ	得意属性が風属性の時、攻撃時、対象に「受けるクリティカルダメージ+{0}%」を1回攻撃を受けるまで付与	While equipped to a character with Air affinity, when attacking, boosts target's critical damage received by {0}% for 1 attack.	自身属性为风属性时，攻击时，赋予目标“所受暴击伤害+{0}%”，受到1次攻击后失效。	自身屬性為風屬性時，攻擊時，賦予目標「所受重擊傷害+{0}%」，直到受1次攻擊為止。
 4990668	雷得エンハンスアップⅢ				得意属性が雷属性の時、与える強化効果量+{0}%			
 4990669	雷得エンハンスアップⅢ				得意属性が雷属性の時、与える強化効果量+{0}%			
 4990670	雷得エンハンスアップⅢ				得意属性が雷属性の時、与える強化効果量+{0}%			
@@ -2676,20 +2676,20 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 7000596	得意属性が風属性のキャラの単体攻撃ダメージ上昇(1)	Air Single-Target Attack Damage Up (1)	自身属性为风属性的角色单体攻击伤害提升（1）	自身屬性為風屬性的角色，單體攻擊傷害上升（1）	得意属性が風属性のキャラの単体攻撃のスキルダメージ{0}%アップ	Boosts single-target attack skill damage by {0}% for characters with Air affinity.	自身属性为风属性的角色单体攻击技能伤害提升{0}%。	自身屬性為風屬性的角色，單體攻擊的技能傷害上升{0}%。
 7000597	得意属性が風属性のキャラの単体攻撃ダメージ上昇(2)	Air Single-Target Attack Damage Up (2)	自身属性为风属性的角色单体攻击伤害提升（2）	自身屬性為風屬性的角色，單體攻擊傷害上升（2）	得意属性が風属性のキャラの単体攻撃のスキルダメージ{0}%アップ	Boosts single-target attack skill damage by {0}% for characters with Air affinity.	自身属性为风属性的角色单体攻击技能伤害提升{0}%。	自身屬性為風屬性的角色，單體攻擊的技能傷害上升{0}%。
 7000598	得意属性が風属性のキャラの単体攻撃ダメージ上昇(3)	Air Single-Target Attack Damage Up (3)	自身属性为风属性的角色单体攻击伤害提升（3）	自身屬性為風屬性的角色，單體攻擊傷害上升（3）	得意属性が風属性のキャラの単体攻撃のスキルダメージ{0}%アップ	Boosts single-target attack skill damage by {0}% for characters with Air affinity.	自身属性为风属性的角色单体攻击技能伤害提升{0}%。	自身屬性為風屬性的角色，單體攻擊的技能傷害上升{0}%。
-7000599	属性耐性ダウン強化【突】(1)				対象が与える「突属性耐性ダウン」の効果量{0}%アップ			
-7000600	属性耐性ダウン強化【突】(2)				対象が与える「突属性耐性ダウン」の効果量{0}%アップ			
-7000601	属性耐性ダウン強化【突】(3)				対象が与える「突属性耐性ダウン」の効果量{0}%アップ			
-7000602	属性耐性ダウン強化【突】(4)				対象が与える「突属性耐性ダウン」の効果量{0}%アップ			
-7000603	属性耐性ダウン強化【突】(5)				対象が与える「突属性耐性ダウン」の効果量{0}%アップ			
-7000604	得意属性が突属性のキャラのスキルダメージ上昇(1)				得意属性が突属性のキャラのスキルダメージ{0}%アップ			
-7000605	得意属性が突属性のキャラのスキルダメージ上昇(2)				得意属性が突属性のキャラのスキルダメージ{0}%アップ			
-7000606	得意属性が突属性のキャラのスキルダメージ上昇(3)				得意属性が突属性のキャラのスキルダメージ{0}%アップ			
-7000607	得意属性が突属性のキャラの受けるHP回復量上昇(1)				得意属性が突属性のキャラの受けるHP回復量{0}%アップ			
-7000608	得意属性が突属性のキャラの受けるHP回復量上昇(2)				得意属性が突属性のキャラの受けるHP回復量{0}%アップ			
-7000609	得意属性が突属性のキャラの受けるHP回復量上昇(3)				得意属性が突属性のキャラの受けるHP回復量{0}%アップ			
-7000610	得意属性が突属性のキャラのクリティカルダメージ上昇(1)				得意属性が突属性のキャラのクリティカルダメージ{0}%アップ			
-7000611	得意属性が突属性のキャラのクリティカルダメージ上昇(2)				得意属性が突属性のキャラのクリティカルダメージ{0}%アップ			
-7000612	得意属性が突属性のキャラのクリティカルダメージ上昇(3)				得意属性が突属性のキャラのクリティカルダメージ{0}%アップ			
+7000599	属性耐性ダウン強化【突】(1)	属性耐性ダウン強化【突】(1)	属性耐性ダウン強化【突】(1)	属性耐性ダウン強化【突】(1)	対象が与える「突属性耐性ダウン」の効果量{0}%アップ	Boosts potency of Stab Resistance Down applied by {0}%.	目标给予的“突刺属性耐性下降”的效果量提升{0}%。	目標賦予的「突屬性耐性下降」的效果量上升{0}%。
+7000600	属性耐性ダウン強化【突】(2)	属性耐性ダウン強化【突】(2)	属性耐性ダウン強化【突】(2)	属性耐性ダウン強化【突】(2)	対象が与える「突属性耐性ダウン」の効果量{0}%アップ	Boosts potency of Stab Resistance Down applied by {0}%.	目标给予的“突刺属性耐性下降”的效果量提升{0}%。	目標賦予的「突屬性耐性下降」的效果量上升{0}%。
+7000601	属性耐性ダウン強化【突】(3)	属性耐性ダウン強化【突】(3)	属性耐性ダウン強化【突】(3)	属性耐性ダウン強化【突】(3)	対象が与える「突属性耐性ダウン」の効果量{0}%アップ	Boosts potency of Stab Resistance Down applied by {0}%.	目标给予的“突刺属性耐性下降”的效果量提升{0}%。	目標賦予的「突屬性耐性下降」的效果量上升{0}%。
+7000602	属性耐性ダウン強化【突】(4)	属性耐性ダウン強化【突】(4)	属性耐性ダウン強化【突】(4)	属性耐性ダウン強化【突】(4)	対象が与える「突属性耐性ダウン」の効果量{0}%アップ	Boosts potency of Stab Resistance Down applied by {0}%.	目标给予的“突刺属性耐性下降”的效果量提升{0}%。	目標賦予的「突屬性耐性下降」的效果量上升{0}%。
+7000603	属性耐性ダウン強化【突】(5)	属性耐性ダウン強化【突】(5)	属性耐性ダウン強化【突】(5)	属性耐性ダウン強化【突】(5)	対象が与える「突属性耐性ダウン」の効果量{0}%アップ	Boosts potency of Stab Resistance Down applied by {0}%.	目标给予的“突刺属性耐性下降”的效果量提升{0}%。	目標賦予的「突屬性耐性下降」的效果量上升{0}%。
+7000604	得意属性が突属性のキャラのスキルダメージ上昇(1)	Stab Affinity Skill Damage Up (1)	自身属性为突刺属性的角色技能伤害提升（1）	自身屬性為突屬性的角色，技能傷害上升（1）	得意属性が突属性のキャラのスキルダメージ{0}%アップ	Boosts the skill damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色技能伤害提升{0}%。	自身屬性為突屬性的角色，技能傷害上升{0}%。
+7000605	得意属性が突属性のキャラのスキルダメージ上昇(2)	Stab Affinity Skill Damage Up (2)	自身属性为突刺属性的角色技能伤害提升（2）	自身屬性為突屬性的角色，技能傷害上升（2）	得意属性が突属性のキャラのスキルダメージ{0}%アップ	Boosts the skill damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色技能伤害提升{0}%。	自身屬性為突屬性的角色，技能傷害上升{0}%。
+7000606	得意属性が突属性のキャラのスキルダメージ上昇(3)	Stab Affinity Skill Damage Up (3)	自身属性为突刺属性的角色技能伤害提升（3）	自身屬性為突屬性的角色，技能傷害上升（3）	得意属性が突属性のキャラのスキルダメージ{0}%アップ	Boosts the skill damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色技能伤害提升{0}%。	自身屬性為突屬性的角色，技能傷害上升{0}%。
+7000607	得意属性が突属性のキャラの受けるHP回復量上昇(1)	Stab Received HP Recovery Up (1)	自身属性为突刺属性的角色所受HP恢复量提升（1）	自身屬性為突屬性的角色，所受HP回復量上升（1）	得意属性が突属性のキャラの受けるHP回復量{0}%アップ	Boosts HP recovery received by {0}% for characters with Stab affinity.	自身属性为突刺属性的角色所受HP恢复量提升{0}%。	自身屬性為突屬性的角色，所受HP回復量上升{0}%。
+7000608	得意属性が突属性のキャラの受けるHP回復量上昇(2)	Stab Received HP Recovery Up (2)	自身属性为突刺属性的角色所受HP恢复量提升（2）	自身屬性為突屬性的角色，所受HP回復量上升（2）	得意属性が突属性のキャラの受けるHP回復量{0}%アップ	Boosts HP recovery received by {0}% for characters with Stab affinity.	自身属性为突刺属性的角色所受HP恢复量提升{0}%。	自身屬性為突屬性的角色，所受HP回復量上升{0}%。
+7000609	得意属性が突属性のキャラの受けるHP回復量上昇(3)	Stab Received HP Recovery Up (3)	自身属性为突刺属性的角色所受HP恢复量提升（3）	自身屬性為突屬性的角色，所受HP回復量上升（3）	得意属性が突属性のキャラの受けるHP回復量{0}%アップ	Boosts HP recovery received by {0}% for characters with Stab affinity.	自身属性为突刺属性的角色所受HP恢复量提升{0}%。	自身屬性為突屬性的角色，所受HP回復量上升{0}%。
+7000610	得意属性が突属性のキャラのクリティカルダメージ上昇(1)	Stab Affinity Crit Damage Up (1)	自身属性为突刺属性的角色暴击伤害提升（1）	自身屬性為突屬性的角色，重擊傷害上升（1）	得意属性が突属性のキャラのクリティカルダメージ{0}%アップ	Boosts the critical damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色暴击伤害提升{0}%。	自身屬性為突屬性的角色，重擊傷害上升{0}%。
+7000611	得意属性が突属性のキャラのクリティカルダメージ上昇(2)	Stab Affinity Crit Damage Up (2)	自身属性为突刺属性的角色暴击伤害提升（2）	自身屬性為突屬性的角色，重擊傷害上升（2）	得意属性が突属性のキャラのクリティカルダメージ{0}%アップ	Boosts the critical damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色暴击伤害提升{0}%。	自身屬性為突屬性的角色，重擊傷害上升{0}%。
+7000612	得意属性が突属性のキャラのクリティカルダメージ上昇(3)	Stab Affinity Crit Damage Up (3)	自身属性为突刺属性的角色暴击伤害提升（3）	自身屬性為突屬性的角色，重擊傷害上升（3）	得意属性が突属性のキャラのクリティカルダメージ{0}%アップ	Boosts the critical damage of characters with Stab affinity by {0}%.	自身属性为突刺属性的角色暴击伤害提升{0}%。	自身屬性為突屬性的角色，重擊傷害上升{0}%。
 7000613	得意属性が雷属性のキャラの受けるHP回復量上昇(1)				得意属性が雷属性のキャラの受けるHP回復量{0}%アップ			
 7000614	得意属性が雷属性のキャラの受けるHP回復量上昇(2)				得意属性が雷属性のキャラの受けるHP回復量{0}%アップ			
 7000615	得意属性が雷属性のキャラの受けるHP回復量上昇(3)				得意属性が雷属性のキャラの受けるHP回復量{0}%アップ			
@@ -2715,8 +2715,8 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 21001001					被クリティカル100%減少\n戦闘アイテムの被ダメージ90%減少	Reduces critical damage received by 100%.\nReduces damage received from battle items by 90%.	被暴击率下降100%，\n所受战斗道具伤害下降90%。	所受重擊傷害減少100%，\n戰鬥道具所受傷害減少90%。
 21015001					・攻撃時、攻撃対象に受けるダメージ+30%を付与する	・攻撃時、攻撃対象に受けるダメージ+30%を付与する	・攻撃時、攻撃対象に受けるダメージ+30%を付与する	・攻撃時、攻撃対象に受けるダメージ+30%を付与する
 21027001					wave開始時、下記の効果を発動\n・自身に被ダメージDOWN20％2回を付与\n・自身に与ダメージDOWN20％2回を付与	wave開始時、下記の効果を発動\n・自身に被ダメージDOWN20％2回を付与\n・自身に与ダメージDOWN20％2回を付与	wave開始時、下記の効果を発動\n・自身に被ダメージDOWN20％2回を付与\n・自身に与ダメージDOWN20％2回を付与	wave開始時、下記の効果を発動\n・自身に被ダメージDOWN20％2回を付与\n・自身に与ダメージDOWN20％2回を付与
-21038001					非ブレイク時、被ダメージ軽減\n被クリティカルダメージが上昇			
-21038002					ブレイク復帰時、以下の効果を得る\n・与えるマイナス効果量UP\n・再生(2回)付与			
+21038001					非ブレイク時、被ダメージ軽減\n被クリティカルダメージが上昇	非ブレイク時、被ダメージ軽減\n被クリティカルダメージが上昇	非ブレイク時、被ダメージ軽減\n被クリティカルダメージが上昇	非ブレイク時、被ダメージ軽減\n被クリティカルダメージが上昇
+21038002					ブレイク復帰時、以下の効果を得る\n・与えるマイナス効果量UP\n・再生(2回)付与	ブレイク復帰時、以下の効果を得る\n・与えるマイナス効果量UP\n・再生(2回)付与	ブレイク復帰時、以下の効果を得る\n・与えるマイナス効果量UP\n・再生(2回)付与	ブレイク復帰時、以下の効果を得る\n・与えるマイナス効果量UP\n・再生(2回)付与
 21045001					麻痺＋パネル効果「被ダメージUP」無効	麻痺＋パネル効果「被ダメージUP」無効	麻痺＋パネル効果「被ダメージUP」無効	麻痺＋パネル効果「被ダメージUP」無効
 21046001					スキル発動後、自身に与ダメージUP(10%/3回)を付与する	スキル発動後、自身に与ダメージUP(10%/3回)を付与する	スキル発動後、自身に与ダメージUP(10%/3回)を付与する	スキル発動後、自身に与ダメージUP(10%/3回)を付与する
 21048000					ブレイク後、自身の与ダメージUP(30%/3回)付与	ブレイク後、自身の与ダメージUP(30%/3回)付与	ブレイク後、自身の与ダメージUP(30%/3回)付与	ブレイク後、自身の与ダメージUP(30%/3回)付与
@@ -2730,7 +2730,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 21067001					マイナス効果を持つ相手に対し、与ダメージ30%UP	マイナス効果を持つ相手に対し、与ダメージ30%UP	マイナス効果を持つ相手に対し、与ダメージ30%UP	マイナス効果を持つ相手に対し、与ダメージ30%UP
 21075006					ブレイク時自身に付与されているすべてのバフ解除\nブレイク時、自身に素早さDOWNを付与	ブレイク時自身に付与されているすべてのバフ解除\nブレイク時、自身に素早さDOWNを付与	ブレイク時自身に付与されているすべてのバフ解除\nブレイク時、自身に素早さDOWNを付与	ブレイク時自身に付与されているすべてのバフ解除\nブレイク時、自身に素早さDOWNを付与
 21086001					自身のHPが50%以下で被弾時、1回だけ以下の効果を付与\n・自身に与ダメージ20%UPを付与\n・自身の素早さ10%UPを付与\n(effect_motionを通常時のものに設定)	自身のHPが50%以下で被弾時、1回だけ以下の効果を付与\n・自身に与ダメージ20%UPを付与\n・自身の素早さ10%UPを付与\n(effect_motionを通常時のものに設定)	自身のHPが50%以下で被弾時、1回だけ以下の効果を付与\n・自身に与ダメージ20%UPを付与\n・自身の素早さ10%UPを付与\n(effect_motionを通常時のものに設定)	自身のHPが50%以下で被弾時、1回だけ以下の効果を付与\n・自身に与ダメージ20%UPを付与\n・自身の素早さ10%UPを付与\n(effect_motionを通常時のものに設定)
-21122001					ブレイク時、強化パネルをバーストパネルに書き換え(2マス)			
+21122001					ブレイク時、強化パネルをバーストパネルに書き換え(2マス)	ブレイク時、強化パネルをバーストパネルに書き換え(2マス)	ブレイク時、強化パネルをバーストパネルに書き換え(2マス)	ブレイク時、強化パネルをバーストパネルに書き換え(2マス)
 21131001					・ブレイク中、クリティカル被弾確率が30%上昇\n・クリティカル被弾時、被ダメージUP(100%)\n・HPが50%以下の時、非クリティカル攻撃の被弾時に「被ダメージDOWN(35%)」(1回)を自身に付与(1回だけ発動)	・ブレイク中、クリティカル被弾確率が30%上昇\n・クリティカル被弾時、被ダメージUP(100%)\n・HPが50%以下の時、非クリティカル攻撃の被弾時に「被ダメージDOWN(35%)」(1回)を自身に付与(1回だけ発動)	・ブレイク中、クリティカル被弾確率が30%上昇\n・クリティカル被弾時、被ダメージUP(100%)\n・HPが50%以下の時、非クリティカル攻撃の被弾時に「被ダメージDOWN(35%)」(1回)を自身に付与(1回だけ発動)	・ブレイク中、クリティカル被弾確率が30%上昇\n・クリティカル被弾時、被ダメージUP(100%)\n・HPが50%以下の時、非クリティカル攻撃の被弾時に「被ダメージDOWN(35%)」(1回)を自身に付与(1回だけ発動)
 21137001					戦闘アイテムのダメージを受けた時、自身に以下効果を付与\n与ダメージダウン（50％/3回）※付与上限回数3回\n被ダメージアップ（50％/3回）※付与上限回数3回\n被ブレイクダメージアップ（50％/3回）※付与上限回数3回	戦闘アイテムのダメージを受けた時、自身に以下効果を付与\n与ダメージダウン（50％/3回）※付与上限回数3回\n被ダメージアップ（50％/3回）※付与上限回数3回\n被ブレイクダメージアップ（50％/3回）※付与上限回数3回	戦闘アイテムのダメージを受けた時、自身に以下効果を付与\n与ダメージダウン（50％/3回）※付与上限回数3回\n被ダメージアップ（50％/3回）※付与上限回数3回\n被ブレイクダメージアップ（50％/3回）※付与上限回数3回	戦闘アイテムのダメージを受けた時、自身に以下効果を付与\n与ダメージダウン（50％/3回）※付与上限回数3回\n被ダメージアップ（50％/3回）※付与上限回数3回\n被ブレイクダメージアップ（50％/3回）※付与上限回数3回
 21140001					味方戦闘不能時、下記の効果を発動\n・自身の行動を再抽選\n・10パネル分のプラスパネルをバーストパネルに書き換え	味方戦闘不能時、下記の効果を発動\n・自身の行動を再抽選\n・10パネル分のプラスパネルをバーストパネルに書き換え	味方戦闘不能時、下記の効果を発動\n・自身の行動を再抽選\n・10パネル分のプラスパネルをバーストパネルに書き換え	味方戦闘不能時、下記の効果を発動\n・自身の行動を再抽選\n・10パネル分のプラスパネルをバーストパネルに書き換え
@@ -2754,17 +2754,17 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 21149001					攻撃スキル被弾直前にHPが50%以下だった場合、\n被弾後に1度だけ以下の効果を発動\n・敵全体の受けるHP回復量-50%\n・自身の与ダメージ+30%	攻撃スキル被弾直前にHPが50%以下だった場合、\n被弾後に1度だけ以下の効果を発動\n・敵全体の受けるHP回復量-50%\n・自身の与ダメージ+30%	攻撃スキル被弾直前にHPが50%以下だった場合、\n被弾後に1度だけ以下の効果を発動\n・敵全体の受けるHP回復量-50%\n・自身の与ダメージ+30%	攻撃スキル被弾直前にHPが50%以下だった場合、\n被弾後に1度だけ以下の効果を発動\n・敵全体の受けるHP回復量-50%\n・自身の与ダメージ+30%
 21149002					味方が戦闘不能になった時、1度だけ以下の効果を発動\n・自身の行動を再抽選\n・自身に受ける強化効果量(15%/3回)を付与\n・自身に再生(5%/10回)を付与\n・自身に被ダメージDOWN(20%/3回)を付与	味方が戦闘不能になった時、1度だけ以下の効果を発動\n・自身の行動を再抽選\n・自身に受ける強化効果量(15%/3回)を付与\n・自身に再生(5%/10回)を付与\n・自身に被ダメージDOWN(20%/3回)を付与	味方が戦闘不能になった時、1度だけ以下の効果を発動\n・自身の行動を再抽選\n・自身に受ける強化効果量(15%/3回)を付与\n・自身に再生(5%/10回)を付与\n・自身に被ダメージDOWN(20%/3回)を付与	味方が戦闘不能になった時、1度だけ以下の効果を発動\n・自身の行動を再抽選\n・自身に受ける強化効果量(15%/3回)を付与\n・自身に再生(5%/10回)を付与\n・自身に被ダメージDOWN(20%/3回)を付与
 21149003					・クリティカル被弾時、被ダメージが100%上昇	・クリティカル被弾時、被ダメージが100%上昇	・クリティカル被弾時、被ダメージが100%上昇	・クリティカル被弾時、被ダメージが100%上昇
-21149004					攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)			
-21149005					非ブレイク中に攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)			
+21149004					攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)
+21149005					非ブレイク中に攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	非ブレイク中に攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	非ブレイク中に攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)	非ブレイク中に攻撃を受けた時、受けた攻撃の属性の耐性を高める(上限50％)
 21149006					戦闘開始時、味方全体に耐性DOWN無効を付与			
-21149007					ブレイクした時、累積した属性耐性をリセットする\nブレイク中は属性耐性UPの効果をうけない			
+21149007					ブレイクした時、累積した属性耐性をリセットする\nブレイク中は属性耐性UPの効果をうけない	ブレイクした時、累積した属性耐性をリセットする\nブレイク中は属性耐性UPの効果をうけない	ブレイクした時、累積した属性耐性をリセットする\nブレイク中は属性耐性UPの効果をうけない	ブレイクした時、累積した属性耐性をリセットする\nブレイク中は属性耐性UPの効果をうけない
 21152001					行動後に自身にカウンター(1回)を付与\n被ブレイク時、自身のバフ全解除	行動後に自身にカウンター(1回)を付与\n被ブレイク時、自身のバフ全解除	行動後に自身にカウンター(1回)を付与\n被ブレイク時、自身のバフ全解除	行動後に自身にカウンター(1回)を付与\n被ブレイク時、自身のバフ全解除
 21153001					・味方戦闘不能時、自身に確定クリティカル(1回)を付与\n・攻撃被弾時、自身がブレイクした場合、自身の強化効果を全て解除	・味方戦闘不能時、自身に確定クリティカル(1回)を付与\n・攻撃被弾時、自身がブレイクした場合、自身の強化効果を全て解除	・味方戦闘不能時、自身に確定クリティカル(1回)を付与\n・攻撃被弾時、自身がブレイクした場合、自身の強化効果を全て解除	・味方戦闘不能時、自身に確定クリティカル(1回)を付与\n・攻撃被弾時、自身がブレイクした場合、自身の強化効果を全て解除
 21156001					戦闘不能時、敵と味方に付与されている強化効果を全て解除	戦闘不能時、敵と味方に付与されている強化効果を全て解除	戦闘不能時、敵と味方に付与されている強化効果を全て解除	戦闘不能時、敵と味方に付与されている強化効果を全て解除
 21164003					攻撃スキル被弾後自身のHPが15％以下になった時、自身に与ダメージアップ(25%/2回)、素早さアップ(15%/2回)、被ダメージダウン(30%/2回)付与	攻撃スキル被弾後自身のHPが15％以下になった時、自身に与ダメージアップ(25%/2回)、素早さアップ(15%/2回)、被ダメージダウン(30%/2回)付与	攻撃スキル被弾後自身のHPが15％以下になった時、自身に与ダメージアップ(25%/2回)、素早さアップ(15%/2回)、被ダメージダウン(30%/2回)付与	攻撃スキル被弾後自身のHPが15％以下になった時、自身に与ダメージアップ(25%/2回)、素早さアップ(15%/2回)、被ダメージダウン(30%/2回)付与
 21164004					状態異常を持っている間、自身に与ダメージダウン(5%)、被クリティカル確率(10%)、被ダメージアップ(10%)を付与	状態異常を持っている間、自身に与ダメージダウン(5%)、被クリティカル確率(10%)、被ダメージアップ(10%)を付与	状態異常を持っている間、自身に与ダメージダウン(5%)、被クリティカル確率(10%)、被ダメージアップ(10%)を付与	状態異常を持っている間、自身に与ダメージダウン(5%)、被クリティカル確率(10%)、被ダメージアップ(10%)を付与
 21166001					状態異常を持っている間、自身に受ける強化効果量ダウン(50%)を付与	状態異常を持っている間、自身に受ける強化効果量ダウン(50%)を付与	状態異常を持っている間、自身に受ける強化効果量ダウン(50%)を付与	状態異常を持っている間、自身に受ける強化効果量ダウン(50%)を付与
-21168001					味方陣営が1人の時の手番開始前に、行動再抽選＋与ダメージアップ(30%)、素早さアップ(6%)			
+21168001					味方陣営が1人の時の手番開始前に、行動再抽選＋与ダメージアップ(30%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選＋与ダメージアップ(30%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選＋与ダメージアップ(30%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選＋与ダメージアップ(30%)、素早さアップ(6%)
 21168002					味方陣営が1人の時の手番開始前に、行動再抽選+与ダメージアップ(20%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選+与ダメージアップ(20%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選+与ダメージアップ(20%)、素早さアップ(6%)	味方陣営が1人の時の手番開始前に、行動再抽選+与ダメージアップ(20%)、素早さアップ(6%)
 21170001					被ブレイク時、キャラ陣営に付与されているデバフを全て解除	被ブレイク時、キャラ陣営に付与されているデバフを全て解除	被ブレイク時、キャラ陣営に付与されているデバフを全て解除	被ブレイク時、キャラ陣営に付与されているデバフを全て解除
 21173001					自身のHPが30%になった時、一度だけ自身のターンを5ターン早める	自身のHPが30%になった時、一度だけ自身のターンを5ターン早める	自身のHPが30%になった時、一度だけ自身のターンを5ターン早める	自身のHPが30%になった時、一度だけ自身のターンを5ターン早める
@@ -2787,9 +2787,9 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 21183000					戦闘不能時、敵味方全体のHPを20％回復する	戦闘不能時、敵味方全体のHPを20％回復する	戦闘不能時、敵味方全体のHPを20％回復する	戦闘不能時、敵味方全体のHPを20％回復する
 21184001					ブレイク復帰時、自身のマイナス効果を全て解除\nブレイク復帰時、自身に素早さUP(5%)を付与\nブレイク復帰時、自身に与ダメージUP(10%)を付与	ブレイク復帰時、自身のマイナス効果を全て解除\nブレイク復帰時、自身に素早さUP(5%)を付与\nブレイク復帰時、自身に与ダメージUP(10%)を付与	ブレイク復帰時、自身のマイナス効果を全て解除\nブレイク復帰時、自身に素早さUP(5%)を付与\nブレイク復帰時、自身に与ダメージUP(10%)を付与	ブレイク復帰時、自身のマイナス効果を全て解除\nブレイク復帰時、自身に素早さUP(5%)を付与\nブレイク復帰時、自身に与ダメージUP(10%)を付与
 21184002					弱点攻撃で被ブレイク時、自身に全属性耐性DOWN(25%)を付与	弱点攻撃で被ブレイク時、自身に全属性耐性DOWN(25%)を付与	弱点攻撃で被ブレイク時、自身に全属性耐性DOWN(25%)を付与	弱点攻撃で被ブレイク時、自身に全属性耐性DOWN(25%)を付与
-21186001					先駆け			
-21186002					ブレイク時バフ解除			
-21186003					HP70％以下で被弾時、以下の効果を得る\n・自身のHPを40％回復\n・自身に回避を2回付与\n・自身に確定クリティカル(1回)付与			
+21186001					先駆け	先駆け	先駆け	先駆け
+21186002					ブレイク時バフ解除	ブレイク時バフ解除	ブレイク時バフ解除	ブレイク時バフ解除
+21186003					HP70％以下で被弾時、以下の効果を得る\n・自身のHPを40％回復\n・自身に回避を2回付与\n・自身に確定クリティカル(1回)付与	HP70％以下で被弾時、以下の効果を得る\n・自身のHPを40％回復\n・自身に回避を2回付与\n・自身に確定クリティカル(1回)付与	HP70％以下で被弾時、以下の効果を得る\n・自身のHPを40％回復\n・自身に回避を2回付与\n・自身に確定クリティカル(1回)付与	HP70％以下で被弾時、以下の効果を得る\n・自身のHPを40％回復\n・自身に回避を2回付与\n・自身に確定クリティカル(1回)付与
 21187001					戦闘アイテムによるダメージを受けた時、自身に全属性耐性DOWN(25%/3回)を付与する	戦闘アイテムによるダメージを受けた時、自身に全属性耐性DOWN(25%/3回)を付与する	戦闘アイテムによるダメージを受けた時、自身に全属性耐性DOWN(25%/3回)を付与する	戦闘アイテムによるダメージを受けた時、自身に全属性耐性DOWN(25%/3回)を付与する
 21189001					仲間が戦闘不能になった時、自身にダメージ無効(2回)を付与する	仲間が戦闘不能になった時、自身にダメージ無効(2回)を付与する	仲間が戦闘不能になった時、自身にダメージ無効(2回)を付与する	仲間が戦闘不能になった時、自身にダメージ無効(2回)を付与する
 21189002					仲間が戦闘不能になった時、自身に与ダメージUP(25%/永続)(上限50%)を付与する\n手番開始前、自身のダメージ無効が付与されていない時、自身に与ダメージUP(上限50%)を解除する	仲間が戦闘不能になった時、自身に与ダメージUP(25%/永続)(上限50%)を付与する\n手番開始前、自身のダメージ無効が付与されていない時、自身に与ダメージUP(上限50%)を解除する	仲間が戦闘不能になった時、自身に与ダメージUP(25%/永続)(上限50%)を付与する\n手番開始前、自身のダメージ無効が付与されていない時、自身に与ダメージUP(上限50%)を解除する	仲間が戦闘不能になった時、自身に与ダメージUP(25%/永続)(上限50%)を付与する\n手番開始前、自身のダメージ無効が付与されていない時、自身に与ダメージUP(上限50%)を解除する
@@ -2797,9 +2797,9 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 21190002					戦闘不能時、敵味方全体に与ダメージUP(20％/2回)を付与する	戦闘不能時、敵味方全体に与ダメージUP(20％/2回)を付与する	戦闘不能時、敵味方全体に与ダメージUP(20％/2回)を付与する	戦闘不能時、敵味方全体に与ダメージUP(20％/2回)を付与する
 21192001					自身の行動後にかばう(2回)を付与	自身の行動後にかばう(2回)を付与	自身の行動後にかばう(2回)を付与	自身の行動後にかばう(2回)を付与
 21192002					強化パネル獲得時に自身のHP10％回復	強化パネル獲得時に自身のHP10％回復	強化パネル獲得時に自身のHP10％回復	強化パネル獲得時に自身のHP10％回復
-21203001					毎行動時に挑発1回付与			
-21204001					戦闘不能時、仲間全体に再生(2回)を付与			
-21205001					戦闘開始時に自身に再生(2回)を付与			
+21203001					毎行動時に挑発1回付与	毎行動時に挑発1回付与	毎行動時に挑発1回付与	毎行動時に挑発1回付与
+21204001					戦闘不能時、仲間全体に再生(2回)を付与	戦闘不能時、仲間全体に再生(2回)を付与	戦闘不能時、仲間全体に再生(2回)を付与	戦闘不能時、仲間全体に再生(2回)を付与
+21205001					戦闘開始時に自身に再生(2回)を付与	戦闘開始時に自身に再生(2回)を付与	戦闘開始時に自身に再生(2回)を付与	戦闘開始時に自身に再生(2回)を付与
 21206001					ブレイク復帰時1度だけ、自身に与ダメージUP(15%)、素早さUP(7%)を付与。自身のデバフを解除			
 21206002					ブレイクされたとき、フィールド効果(敵カウント/敵/被ダメージ100％UP)を発動			
 21212001					バトル開始時、被ダメージDOWN(1回目)(75%/永続)を付与\nバトル開始時、被ダメージDOWN(2回目)(50%/永続)を付与\nバトル開始時、被ダメージDOWN(3回目)(25%/永続)を付与\neffect_motion_バトル開始時			
@@ -2813,18 +2813,18 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 23073003					自身がブレイク時、自身のバフを全て解除\n自身がブレイク時、被ダメージUP	On stun, removes all buffs from self.\nWhen stunned, boosts damage received.	自身破防时，解除自身的全部增益。\n自身陷入破防状态时，所受害提升。	自身破防時，自身的增益全部解除。\n自身破防時，所受傷害上升。
 23076004					自身がブレイク時、自身のバフを全て解除\n自身がブレイク時、自身に素早さDOWN付与	On stun, removes all buffs from self.\nOn stun, reduces own SPD.	自身破防时，解除自身的全部增益。\n自身破防时，赋予自身敏捷下降。	自身破防時，自身的增益全部解除。\n自身破防時，賦予自身敏捷下降。
 23079005					スキル対象が悪性状態異常時、自身の与ダメージUP\nスキル対象がデバフを所持時、自身の与ダメージUP	When the target is inflicted with bad status effects, boosts own damage dealt.\nWhen skill target has a debuff, boosts own damage dealt.	技能目标为负面异常状态时，自身造成伤害提升。\n技能目标拥有减益时，自身造成伤害提升。	技能目標受到惡性異常狀態時，自身的給予傷害上升。\n技能目標具有減益效果時，自身的給予傷害上升。
-24093001					攻撃被弾時、自身に被ダメージUP(10%/上限100%)を付与			
-24097002					自身が戦闘不能時、[敵/被ダメージ2%UP付与/全体25T]フィールドを展開する			
-24097003					被ダメージDOWN(上限90%)無効			
-24132001					自身が戦闘不能時、相手に悪性状態異常が付与されていない場合、被ダメージUP(20%/5回)を付与			
-24133001					WAVE開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法与ダメージUP(50%/3回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(20%/3回)(バトル中1回)\n自身のBGが50%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)			
-24133002					WAVE開始時、自身にダメージ無効(永続)を付与\nブレイク時、自身のダメージ無効を解除			
-24133003					WAVE開始時、相手全員にクリティカル確率DOWN(999%/永続)を付与\nWAVE開始時、相手全員に確定クリティカル無効を付与			
-24166001					相手を撃破した時、自身に与ダメージUP(100%/永続)を付与			
-24166002					初手スキルでフィールドを展開したいため先駆け			
-24176001					強化系パネルを獲得した時、自身に与ダメージ25%UPを付与(上限100%)\n強化系パネルを獲得した時、与ダメージDOWN状態を解除\n弱化パネルを獲得した時、自身に与ダメージ10%DOWNを付与(上限100%)\n弱化パネルを獲得した時、与ダメージUP状態を解除			
-24176002					ブレイク時、自身に与ダメージDOWN(5%/永続)を付与\nブレイク時、素早さDOWN(5%/2回)を付与			
-24176003					被ダメージUP無効			
+24093001					攻撃被弾時、自身に被ダメージUP(10%/上限100%)を付与	攻撃被弾時、自身に被ダメージUP(10%/上限100%)を付与	攻撃被弾時、自身に被ダメージUP(10%/上限100%)を付与	攻撃被弾時、自身に被ダメージUP(10%/上限100%)を付与
+24097002					自身が戦闘不能時、[敵/被ダメージ2%UP付与/全体25T]フィールドを展開する	自身が戦闘不能時、[敵/被ダメージ2%UP付与/全体25T]フィールドを展開する	自身が戦闘不能時、[敵/被ダメージ2%UP付与/全体25T]フィールドを展開する	自身が戦闘不能時、[敵/被ダメージ2%UP付与/全体25T]フィールドを展開する
+24097003					被ダメージDOWN(上限90%)無効	被ダメージDOWN(上限90%)無効	被ダメージDOWN(上限90%)無効	被ダメージDOWN(上限90%)無効
+24132001					自身が戦闘不能時、相手に悪性状態異常が付与されていない場合、被ダメージUP(20%/5回)を付与	自身が戦闘不能時、相手に悪性状態異常が付与されていない場合、被ダメージUP(20%/5回)を付与	自身が戦闘不能時、相手に悪性状態異常が付与されていない場合、被ダメージUP(20%/5回)を付与	自身が戦闘不能時、相手に悪性状態異常が付与されていない場合、被ダメージUP(20%/5回)を付与
+24133001					WAVE開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法与ダメージUP(50%/3回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(20%/3回)(バトル中1回)\n自身のBGが50%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	WAVE開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法与ダメージUP(50%/3回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(20%/3回)(バトル中1回)\n自身のBGが50%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	WAVE開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法与ダメージUP(50%/3回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(20%/3回)(バトル中1回)\n自身のBGが50%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	WAVE開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法与ダメージUP(50%/3回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(20%/3回)(バトル中1回)\n自身のBGが50%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)
+24133002					WAVE開始時、自身にダメージ無効(永続)を付与\nブレイク時、自身のダメージ無効を解除	WAVE開始時、自身にダメージ無効(永続)を付与\nブレイク時、自身のダメージ無効を解除	WAVE開始時、自身にダメージ無効(永続)を付与\nブレイク時、自身のダメージ無効を解除	WAVE開始時、自身にダメージ無効(永続)を付与\nブレイク時、自身のダメージ無効を解除
+24133003					WAVE開始時、相手全員にクリティカル確率DOWN(999%/永続)を付与\nWAVE開始時、相手全員に確定クリティカル無効を付与	WAVE開始時、相手全員にクリティカル確率DOWN(999%/永続)を付与\nWAVE開始時、相手全員に確定クリティカル無効を付与	WAVE開始時、相手全員にクリティカル確率DOWN(999%/永続)を付与\nWAVE開始時、相手全員に確定クリティカル無効を付与	WAVE開始時、相手全員にクリティカル確率DOWN(999%/永続)を付与\nWAVE開始時、相手全員に確定クリティカル無効を付与
+24166001					相手を撃破した時、自身に与ダメージUP(100%/永続)を付与	相手を撃破した時、自身に与ダメージUP(100%/永続)を付与	相手を撃破した時、自身に与ダメージUP(100%/永続)を付与	相手を撃破した時、自身に与ダメージUP(100%/永続)を付与
+24166002					初手スキルでフィールドを展開したいため先駆け	初手スキルでフィールドを展開したいため先駆け	初手スキルでフィールドを展開したいため先駆け	初手スキルでフィールドを展開したいため先駆け
+24176001					強化系パネルを獲得した時、自身に与ダメージ25%UPを付与(上限100%)\n強化系パネルを獲得した時、与ダメージDOWN状態を解除\n弱化パネルを獲得した時、自身に与ダメージ10%DOWNを付与(上限100%)\n弱化パネルを獲得した時、与ダメージUP状態を解除	強化系パネルを獲得した時、自身に与ダメージ25%UPを付与(上限100%)\n強化系パネルを獲得した時、与ダメージDOWN状態を解除\n弱化パネルを獲得した時、自身に与ダメージ10%DOWNを付与(上限100%)\n弱化パネルを獲得した時、与ダメージUP状態を解除	強化系パネルを獲得した時、自身に与ダメージ25%UPを付与(上限100%)\n強化系パネルを獲得した時、与ダメージDOWN状態を解除\n弱化パネルを獲得した時、自身に与ダメージ10%DOWNを付与(上限100%)\n弱化パネルを獲得した時、与ダメージUP状態を解除	強化系パネルを獲得した時、自身に与ダメージ25%UPを付与(上限100%)\n強化系パネルを獲得した時、与ダメージDOWN状態を解除\n弱化パネルを獲得した時、自身に与ダメージ10%DOWNを付与(上限100%)\n弱化パネルを獲得した時、与ダメージUP状態を解除
+24176002					ブレイク時、自身に与ダメージDOWN(5%/永続)を付与\nブレイク時、素早さDOWN(5%/2回)を付与	ブレイク時、自身に与ダメージDOWN(5%/永続)を付与\nブレイク時、素早さDOWN(5%/2回)を付与	ブレイク時、自身に与ダメージDOWN(5%/永続)を付与\nブレイク時、素早さDOWN(5%/2回)を付与	ブレイク時、自身に与ダメージDOWN(5%/永続)を付与\nブレイク時、素早さDOWN(5%/2回)を付与
+24176003					被ダメージUP無効	被ダメージUP無効	被ダメージUP無効	被ダメージUP無効
 26003001					カチコチ状態の時、被クリティカルダメージ50%UP\nブレイク中、氷属性攻撃の被クリティカル確率100%UP\nブレイク中、氷属性攻撃の被クリティカルダメージ30%UP	カチコチ状態の時、被クリティカルダメージ50%UP\nブレイク中、氷属性攻撃の被クリティカル確率100%UP\nブレイク中、氷属性攻撃の被クリティカルダメージ30%UP	カチコチ状態の時、被クリティカルダメージ50%UP\nブレイク中、氷属性攻撃の被クリティカル確率100%UP\nブレイク中、氷属性攻撃の被クリティカルダメージ30%UP	カチコチ状態の時、被クリティカルダメージ50%UP\nブレイク中、氷属性攻撃の被クリティカル確率100%UP\nブレイク中、氷属性攻撃の被クリティカルダメージ30%UP
 26005003					・非クリティカル攻撃被弾時、自身に被ダメージダウン付与(4%/上限50%)\n・手番終了時、自身の手番を1つ早める(50%)	・非クリティカル攻撃被弾時、自身に被ダメージダウン付与(4%/上限50%)\n・手番終了時、自身の手番を1つ早める(50%)	・非クリティカル攻撃被弾時、自身に被ダメージダウン付与(4%/上限50%)\n・手番終了時、自身の手番を1つ早める(50%)	・非クリティカル攻撃被弾時、自身に被ダメージダウン付与(4%/上限50%)\n・手番終了時、自身の手番を1つ早める(50%)
 26008001					攻撃被弾時、ブレイクした場合、自身のかばう効果を99個解除	攻撃被弾時、ブレイクした場合、自身のかばう効果を99個解除	攻撃被弾時、ブレイクした場合、自身のかばう効果を99個解除	攻撃被弾時、ブレイクした場合、自身のかばう効果を99個解除
@@ -2836,8 +2836,8 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 26018001					気絶した時、味方のHPを回復する\nブレイクしていないとき、被ダメージ90％DOWN\n自身ブレイク時、自身の強化効果を解除\n自身が受ける全体攻撃のブレイクダメージ150％UP\nブレイク中、被ダメージ200%増加\n自身ブレイク時、敵全体に与ダメージ50%を付与(上限150%)	気絶した時、味方のHPを回復する\nブレイクしていないとき、被ダメージ90％DOWN\n自身ブレイク時、自身の強化効果を解除\n自身が受ける全体攻撃のブレイクダメージ150％UP\nブレイク中、被ダメージ200%増加\n自身ブレイク時、敵全体に与ダメージ50%を付与(上限150%)	気絶した時、味方のHPを回復する\nブレイクしていないとき、被ダメージ90％DOWN\n自身ブレイク時、自身の強化効果を解除\n自身が受ける全体攻撃のブレイクダメージ150％UP\nブレイク中、被ダメージ200%増加\n自身ブレイク時、敵全体に与ダメージ50%を付与(上限150%)	気絶した時、味方のHPを回復する\nブレイクしていないとき、被ダメージ90％DOWN\n自身ブレイク時、自身の強化効果を解除\n自身が受ける全体攻撃のブレイクダメージ150％UP\nブレイク中、被ダメージ200%増加\n自身ブレイク時、敵全体に与ダメージ50%を付与(上限150%)
 26026003					ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を10%付与\n戦闘不能時、味方全体に被ダメージUP30%を永続付与\n戦闘不能時、味方全体に与ダメージUP10%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を10%付与\n戦闘不能時、味方全体に被ダメージUP30%を永続付与\n戦闘不能時、味方全体に与ダメージUP10%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を10%付与\n戦闘不能時、味方全体に被ダメージUP30%を永続付与\n戦闘不能時、味方全体に与ダメージUP10%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を10%付与\n戦闘不能時、味方全体に被ダメージUP30%を永続付与\n戦闘不能時、味方全体に与ダメージUP10%を永続付与
 26026004					ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を30%付与\n戦闘不能時、味方全体に被ダメージUP50%を永続付与\n戦闘不能時、味方全体に与ダメージUP15%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を30%付与\n戦闘不能時、味方全体に被ダメージUP50%を永続付与\n戦闘不能時、味方全体に与ダメージUP15%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を30%付与\n戦闘不能時、味方全体に被ダメージUP50%を永続付与\n戦闘不能時、味方全体に与ダメージUP15%を永続付与	ブレイク時自身に付与されたバフを全て解除\n行動終了後、自身に被ダメージDOWN(上限90%)を30%付与\n戦闘不能時、味方全体に被ダメージUP50%を永続付与\n戦闘不能時、味方全体に与ダメージUP15%を永続付与
-26030001					単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、被ダメージ5%DOWN(上限50%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、被ダメージ5%DOWN(上限50%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、被ダメージ5%DOWN(上限50%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動
-26030002					単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、被ダメージ10%DOWN(上限100%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、被ダメージ10%DOWN(上限100%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、被ダメージ10%DOWN(上限100%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動
+26030001					単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ5%UP(上限50%)付与\n単体攻撃被弾時、与ダメージ3%UP(上限30%)付与\n全体攻撃被弾時、与ダメージ3%DOWN(上限30%)付与\nカウンター100%発動
+26030002					単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動	単体攻撃被弾時、被ダメージ10%UP(上限100%)付与\n単体攻撃被弾時、与ダメージ5%UP(上限50%)付与\n全体攻撃被弾時、与ダメージ5%DOWN(上限50%)付与\nカウンター100%発動
 26035001					ブレイク時、敵全体に再生3%(2回)を付与\nブレイク時、敵全体に与ダメージDOWN30%(1回)を付与	ブレイク時、敵全体に再生3%(2回)を付与\nブレイク時、敵全体に与ダメージDOWN30%(1回)を付与	ブレイク時、敵全体に再生3%(2回)を付与\nブレイク時、敵全体に与ダメージDOWN30%(1回)を付与	ブレイク時、敵全体に再生3%(2回)を付与\nブレイク時、敵全体に与ダメージDOWN30%(1回)を付与
 26039001					相手が挑発を持つ時、与ダメージ上昇(10%)			
 26039002					ブレイク時、敵全体に与ダメージUP(55%/2回)とクリティカルダメージUP(55%/2回)付与			
@@ -2906,7 +2906,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 26132002					戦闘不能時、相手全員に毒(2回)×3を付与			
 26133001					Wave開始時、自身に被ダメージDOWN(20%/5回)を付与\nWave開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法ダメージUP(40%/1回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(10%/3回)(バトル中1回)\n自身のHPが70%以下になった時、自身に被ダメージDOWN(30%/5回)を付与(バトル中1回)\n自身のHPが70%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	Wave開始時、自身に被ダメージDOWN(20%/5回)を付与\nWave開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法ダメージUP(40%/1回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(10%/3回)(バトル中1回)\n自身のHPが70%以下になった時、自身に被ダメージDOWN(30%/5回)を付与(バトル中1回)\n自身のHPが70%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	Wave開始時、自身に被ダメージDOWN(20%/5回)を付与\nWave開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法ダメージUP(40%/1回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(10%/3回)(バトル中1回)\n自身のHPが70%以下になった時、自身に被ダメージDOWN(30%/5回)を付与(バトル中1回)\n自身のHPが70%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)	Wave開始時、自身に被ダメージDOWN(20%/5回)を付与\nWave開始時、自身に被ブレイクダメージDOWN(20%/3回)を付与\n自身のブレイク復帰時、魔法ダメージUP(40%/1回)を付与(バトル中1回)\n自身のブレイク復帰時、素早さUP(10%/3回)(バトル中1回)\n自身のHPが70%以下になった時、自身に被ダメージDOWN(30%/5回)を付与(バトル中1回)\n自身のHPが70%以下になった時、自身に被ブレイクダメージDOWN(30%/5回)を付与(バトル中1回)
 26143001					死亡時、敵全体にプラス効果無効(1回)を付与	死亡時、敵全体にプラス効果無効(1回)を付与	死亡時、敵全体にプラス効果無効(1回)を付与	死亡時、敵全体にプラス効果無効(1回)を付与
-26144001					自身に悪性状態異常が付与されていたら、被ダメージ50%上昇			
+26144001					自身に悪性状態異常が付与されていたら、被ダメージ50%上昇	自身に悪性状態異常が付与されていたら、被ダメージ50%上昇	自身に悪性状態異常が付与されていたら、被ダメージ50%上昇	自身に悪性状態異常が付与されていたら、被ダメージ50%上昇
 26148001					HP50%以下で攻撃被弾時、自身のHPを回復(20%)、与ダメージUP(20%/3回)、素早さUP(5%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(20%)、与ダメージUP(20%/3回)、素早さUP(5%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(20%)、与ダメージUP(20%/3回)、素早さUP(5%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(20%)、与ダメージUP(20%/3回)、素早さUP(5%/3回)を付与
 26148004					アンチュワルター以外の敵エネミーが戦闘不能になるまで被ダメージダウン\nアンチュワルター以外の敵エネミーが戦闘不能になるたびにバフ解除\n自身が状態異常時、被ダメージ100％アップ	アンチュワルター以外の敵エネミーが戦闘不能になるまで被ダメージダウン\nアンチュワルター以外の敵エネミーが戦闘不能になるたびにバフ解除\n自身が状態異常時、被ダメージ100％アップ	アンチュワルター以外の敵エネミーが戦闘不能になるまで被ダメージダウン\nアンチュワルター以外の敵エネミーが戦闘不能になるたびにバフ解除\n自身が状態異常時、被ダメージ100％アップ	アンチュワルター以外の敵エネミーが戦闘不能になるまで被ダメージダウン\nアンチュワルター以外の敵エネミーが戦闘不能になるたびにバフ解除\n自身が状態異常時、被ダメージ100％アップ
 26148005					HP50%以下で攻撃被弾時、自身のHPを回復(15%)、与ダメージUP(10%/3回)、素早さUP(3%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(15%)、与ダメージUP(10%/3回)、素早さUP(3%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(15%)、与ダメージUP(10%/3回)、素早さUP(3%/3回)を付与	HP50%以下で攻撃被弾時、自身のHPを回復(15%)、与ダメージUP(10%/3回)、素早さUP(3%/3回)を付与
@@ -2926,25 +2926,25 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 26170001					ブレイク時、敵のデバフをすべて解除する	ブレイク時、敵のデバフをすべて解除する	ブレイク時、敵のデバフをすべて解除する	ブレイク時、敵のデバフをすべて解除する
 26170002					ブレイク時、敵のデバフをすべて解除する\n攻撃時、対象に毒(2%/3回)を3個付与する	ブレイク時、敵のデバフをすべて解除する\n攻撃時、対象に毒(2%/3回)を3個付与する	ブレイク時、敵のデバフをすべて解除する\n攻撃時、対象に毒(2%/3回)を3個付与する	ブレイク時、敵のデバフをすべて解除する\n攻撃時、対象に毒(2%/3回)を3個付与する
 26174003					ブレイクされていない時、アイテムによるデバフを受けた場合、自身のマイナス効果を解除	ブレイクされていない時、アイテムによるデバフを受けた場合、自身のマイナス効果を解除	ブレイクされていない時、アイテムによるデバフを受けた場合、自身のマイナス効果を解除	ブレイクされていない時、アイテムによるデバフを受けた場合、自身のマイナス効果を解除
-26189001					ブレイク時、仲間全体のプラス効果をすべて解除			
-26190001					ブレイクしていない時、自身の受けるダメージ-50%			
-26190002					ブレイクしていない時、自身の受けるダメージ-90%			
+26189001					ブレイク時、仲間全体のプラス効果をすべて解除	ブレイク時、仲間全体のプラス効果をすべて解除	ブレイク時、仲間全体のプラス効果をすべて解除	ブレイク時、仲間全体のプラス効果をすべて解除
+26190001					ブレイクしていない時、自身の受けるダメージ-50%	ブレイクしていない時、自身の受けるダメージ-50%	ブレイクしていない時、自身の受けるダメージ-50%	ブレイクしていない時、自身の受けるダメージ-50%
+26190002					ブレイクしていない時、自身の受けるダメージ-90%	ブレイクしていない時、自身の受けるダメージ-90%	ブレイクしていない時、自身の受けるダメージ-90%	ブレイクしていない時、自身の受けるダメージ-90%
 26194001					HP50%以下で攻撃被弾時、自身のHP回復＋デバフ解除	HP50%以下で攻撃被弾時、自身のHP回復＋デバフ解除	HP50%以下で攻撃被弾時、自身のHP回復＋デバフ解除	HP50%以下で攻撃被弾時、自身のHP回復＋デバフ解除
 26194002					被クリティカルダメージ100%DOWN、自身が受けるターン遅延効果無効	被クリティカルダメージ100%DOWN、自身が受けるターン遅延効果無効	被クリティカルダメージ100%DOWN、自身が受けるターン遅延効果無効	被クリティカルダメージ100%DOWN、自身が受けるターン遅延効果無効
 26194003					自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効
 26197001					HP60%以下で攻撃被弾時、自身のデバフ解除+素早さUP(永続3％)	HP60%以下で攻撃被弾時、自身のデバフ解除+素早さUP(永続3％)	HP60%以下で攻撃被弾時、自身のデバフ解除+素早さUP(永続3％)	HP60%以下で攻撃被弾時、自身のデバフ解除+素早さUP(永続3％)
 26197002					戦闘アイテム以外から受けるダメージ75%DOWN、自身が受けるターン遅延効果無効	戦闘アイテム以外から受けるダメージ75%DOWN、自身が受けるターン遅延効果無効	戦闘アイテム以外から受けるダメージ75%DOWN、自身が受けるターン遅延効果無効	戦闘アイテム以外から受けるダメージ75%DOWN、自身が受けるターン遅延効果無効
 26197003					自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効	自身が受けるターン遅延効果無効
-26200001					HP50％以下で被弾時、自身に与ダメージUP(30%/永続)、受けた攻撃のクリティカル発生率UP(30%/永続)、素早さUP(5%/永続)を付与			
-26200002					ブレイク中、自身に防御力低下(50%)を付与			
-26200004					HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、受けた攻撃のクリティカル発生率UP(40%/永続)、素早さUP(8%/永続)を付与			
-26200005					ブレイク中、自身に防御力低下(70%)を付与			
-26200006					HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、素早さUP(10%/永続)を付与			
-26200007					ブレイク中、受ける攻撃のクリティカル確率UP(100%)			
+26200001					HP50％以下で被弾時、自身に与ダメージUP(30%/永続)、受けた攻撃のクリティカル発生率UP(30%/永続)、素早さUP(5%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(30%/永続)、受けた攻撃のクリティカル発生率UP(30%/永続)、素早さUP(5%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(30%/永続)、受けた攻撃のクリティカル発生率UP(30%/永続)、素早さUP(5%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(30%/永続)、受けた攻撃のクリティカル発生率UP(30%/永続)、素早さUP(5%/永続)を付与
+26200002					ブレイク中、自身に防御力低下(50%)を付与	ブレイク中、自身に防御力低下(50%)を付与	ブレイク中、自身に防御力低下(50%)を付与	ブレイク中、自身に防御力低下(50%)を付与
+26200004					HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、受けた攻撃のクリティカル発生率UP(40%/永続)、素早さUP(8%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、受けた攻撃のクリティカル発生率UP(40%/永続)、素早さUP(8%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、受けた攻撃のクリティカル発生率UP(40%/永続)、素早さUP(8%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、受けた攻撃のクリティカル発生率UP(40%/永続)、素早さUP(8%/永続)を付与
+26200005					ブレイク中、自身に防御力低下(70%)を付与	ブレイク中、自身に防御力低下(70%)を付与	ブレイク中、自身に防御力低下(70%)を付与	ブレイク中、自身に防御力低下(70%)を付与
+26200006					HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、素早さUP(10%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、素早さUP(10%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、素早さUP(10%/永続)を付与	HP50％以下で被弾時、自身に与ダメージUP(40%/永続)、素早さUP(10%/永続)を付与
+26200007					ブレイク中、受ける攻撃のクリティカル確率UP(100%)	ブレイク中、受ける攻撃のクリティカル確率UP(100%)	ブレイク中、受ける攻撃のクリティカル確率UP(100%)	ブレイク中、受ける攻撃のクリティカル確率UP(100%)
 26201001					ブレイク時、自身のプラス効果を解除し、キャラ側の素早さUP(10%/2回)	ブレイク時、自身のプラス効果を解除し、キャラ側の素早さUP(10%/2回)	ブレイク時、自身のプラス効果を解除し、キャラ側の素早さUP(10%/2回)	ブレイク時、自身のプラス効果を解除し、キャラ側の素早さUP(10%/2回)
 26201002					ブレイク中、自身の被ダメージUP(20%)	ブレイク中、自身の被ダメージUP(20%)	ブレイク中、自身の被ダメージUP(20%)	ブレイク中、自身の被ダメージUP(20%)
 26201003					ブレイク中、自身の被ダメージUP(300%)、被クリティカル確率UP(100%)	ブレイク中、自身の被ダメージUP(300%)、被クリティカル確率UP(100%)	ブレイク中、自身の被ダメージUP(300%)、被クリティカル確率UP(100%)	ブレイク中、自身の被ダメージUP(300%)、被クリティカル確率UP(100%)
-26202003					ブレイク時、自身のバフを全て解除\n非クリティカル攻撃被弾時にカウンター			
+26202003					ブレイク時、自身のバフを全て解除\n非クリティカル攻撃被弾時にカウンター	ブレイク時、自身のバフを全て解除\n非クリティカル攻撃被弾時にカウンター	ブレイク時、自身のバフを全て解除\n非クリティカル攻撃被弾時にカウンター	ブレイク時、自身のバフを全て解除\n非クリティカル攻撃被弾時にカウンター
 26207001					ウェーブ開始時、相手全員にHP上限UP(100%/永続)を付与\nウェーブ開始時、相手全員に魔攻UP(100%/永続)を付与\nウェーブ開始時、相手全員のHPを100%回復\neffect_motionあり			
 26207002					ウェーブ開始時、相手全員にHP上限UP(300%/永続)を付与\nウェーブ開始時、相手全員に魔攻UP(300%/永続)を付与\nウェーブ開始時、相手全員のHPを300%回復\neffect_motionあり			
 26207003					与えるダメージ+400%			
@@ -3926,14 +3926,14 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 600000575	アイテム大戦vsユーディーアビリティ2	Item War vs. Judie - Ability 2	道具大战vs优蒂能力2	道具大戰vs優蒂的能力2	自身がグラムナートのとき、自身に被ダメDOWN(20%)を付与	When affecting a Gramnad character, reduces own damage received by 20%.	自身为葛拉姆奈特角色时，赋予自身所受伤害下降（20%）。	自身為葛拉姆奈特的角色時，賦予自身所受傷害下降（20%）。
 600000576	アイテム大戦vsユーディーアビリティ3	Item War vs. Judie - Ability 3	道具大战vs优蒂能力3	道具大戰vs優蒂的能力3	自身がグラムナートのとき、自身にアイテムゲージUP(10%)	When affecting a Gramnad character, boosts own item gauge by 10%.	自身为葛拉姆奈特角色时，赋予自身道具槽提升（10%）。	自身為葛拉姆奈特的角色時，賦予自身道具量表上升（10%）。
 600000577	アイテム大戦vsユーディーアビリティ4	Item War vs. Judie - Ability 4	道具大战vs优蒂能力4	道具大戰vs優蒂的能力4	戦闘アイテムのダメージ+1000%\n戦闘アイテムの回復量+30%\nアイテムゲージ追加回復(10%)を付与\n自身がザールブルグのとき、自身に被ダメDOWN(20%)を付与\n自身がザールブルグのとき、自身にアイテムゲージ追加回復(10%)を付与	Boosts battle item damage by 1000%.\nBoosts recovery amount from battle items by 30%.\nGrants 10% additional item gauge recovery.\nWhen affecting a Salburg character, reduces own damage received by 20%.\nWhen affecting a Salburg character, grants self 10% additional item gauge recovery.	战斗道具的伤害+1000%。\n战斗道具的恢复量+30%。\n赋予道具槽额外恢复（10%）。\n自身为萨尔布鲁克角色时，赋予自身所受伤害下降（20%）。\n自身为萨尔布鲁克角色时，赋予自身道具槽额外恢复（10%）。	戰鬥道具的傷害+1000%。\n戰鬥道具的回復量+30%。\n賦予道具量表追加回復（10%）。\n自身為薩爾布魯克的角色時，賦予自身所受傷害下降（20%）。\n自身為薩爾布魯克的角色時，賦予自身道具量表追加回復（10%）。
-600000578					WEAK攻撃時、ブレイクダメージ+20%			
-600000579					ディフェンダーの行動後、味方全員に受けるダメージ-10%を付与			
-600000580					サポーターの行動後、味方全員のマイナス効果を1つ解除\nサポーターの行動後、味方全員の状態異常を1つ解除			
-600000581					ブレイカーの行動後、自身にブレイクダメージ+10%(上限100%)を付与			
-600000582					自身の受ける強化効果量+50%			
-600000585	[突・マイナス効果]付与効果量+50%				突属性のキャラが与えるマイナス効果量+50%			
-600000586	[サポーター・マイナス効果]付与効果量+50%				サポーターの与えるマイナス効果量+50%			
-600000587	[状態異常時]物理ダメージ+50%				対象が状態異常の時物理攻撃のｽｷﾙﾀﾞﾒｰｼﾞ+50%			
+600000578					WEAK攻撃時、ブレイクダメージ+20%	Boosts stun damage by 20% when attacking a weakness.	发动WEAK攻击时，破防伤害+20%。	WEAK攻擊時，破防傷害+20%。
+600000579					ディフェンダーの行動後、味方全員に受けるダメージ-10%を付与	After a Defender's turn, reduces all allies' damage received by 10%.	防御者行动后，赋予我方全体所受伤害-10%。	防禦者行動後，賦予我方全體所受傷害-10%。
+600000580					サポーターの行動後、味方全員のマイナス効果を1つ解除\nサポーターの行動後、味方全員の状態異常を1つ解除	After a Supporter's turn, removes one negative effect from all allies.\nAfter a Supporter's turn, removes one status effect from all allies.	支援者行动后，解除我方全体的1个负面效果。\n支援者行动后，解除我方全体的1个异常状态。	支援者行動後，解除1個我方全體的減弱效果。\n支援者行動後，解除1個我方全體的異常狀態。
+600000581					ブレイカーの行動後、自身にブレイクダメージ+10%(上限100%)を付与	After a Breaker's turn, boosts own stun damage by 10%. (MAX 100%)	破坏者行动后，赋予自身破防伤害+10%（上限100%）。	破壞者行動後，賦予自身破防傷害+10%（上限100%）。
+600000582					自身の受ける強化効果量+50%	Boosts own potency of buff effects received by 50%.	自身所受强化效果量+50%。	自身所受強化效果量+50%。
+600000585	[突・マイナス効果]付与効果量+50%	[Stab/Negative Effects] Potency +50%	[突刺·负面效果]赋予效果量+50%	[突‧減弱效果]賦予效果量+50%	突属性のキャラが与えるマイナス効果量+50%	Boosts potency of negative effects inflicted by Stab affinity characters by 50%.	突刺属性角色给予的负面效果量+50%。	突屬性的角色賦予減弱效果量+50%。
+600000586	[サポーター・マイナス効果]付与効果量+50%	[Supporter/Negative Effects] Potency +50%	[支援者·负面效果]赋予效果量+50%	[支援者‧減弱效果]賦予效果量+50%	サポーターの与えるマイナス効果量+50%	Boosts potency of negative effects inflicted by Supporters by 50%.	支援者给予的负面效果量+50%。	支援者賦予減弱效果量+50%。
+600000587	[状態異常時]物理ダメージ+50%	[Status Effects] Physical Damage +50%	[异常状态时]物理伤害+50%	[異常狀態時]物理傷害+50%	対象が状態異常の時物理攻撃のｽｷﾙﾀﾞﾒｰｼﾞ+50%	Boosts skill damage of physical attacks by 50% when target is inflicted with a status effect.	目标处于异常状态时，物理攻击的技能伤害+50%。	目標為異常狀態時，物理攻擊的技能傷害+50%。
 600010001	行動するたび、ディフェンダーのHPを回復	Restore Defender HP Per Turn	每次行动时恢复防御者的HP	每次行動時，回復防禦者的HP	ディフェンダーの行動開始時、HP10%回復	Restores HP by 10% at the start of a Defender's turn.	防御者开始行动时，HP恢复10%。	防禦者開始行動時，回復HP10%。
 600010002	単体攻撃のブレイクダメージ上昇	Single-Target Stun Damage Up	单体攻击的破防伤害提升	單體攻擊的破防傷害上升	単体攻撃のブレイクダメージ+50%	Boosts single-target attack stun damage by 50%.	单体攻击的破防伤害+50%。	單體攻擊的破防傷害+50%。
 600010003	全体攻撃のスキルダメージ上昇	All Enemy Attack Skill Damage Up	全体攻击的技能伤害提升	全體攻擊的技能傷害上升	全体攻撃のスキルダメージ+100%	Boosts skill damage by 100% for attacks that target all enemies.	全体攻击的技能伤害+100%。	全體攻擊的技能傷害+100%。
