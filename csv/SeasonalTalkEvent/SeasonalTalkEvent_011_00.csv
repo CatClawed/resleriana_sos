@@ -1,0 +1,416 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+SeasonalTalkEvent_011_00_001ID	0	Sophie	ソフィー	ねぇねぇ、プラフタ。知ってる？\nもうすぐリンデマン菓子祭りが始まるって！						
+SeasonalTalkEvent_011_00_001ID	1	Plachta	プラフタ	ええ。もちろん知っていますよ						
+SeasonalTalkEvent_011_00_001ID	2	Plachta	プラフタ	美味しいチョコが街にたくさん出回る、\nとても素敵な催しですね						
+SeasonalTalkEvent_011_00_001ID	3	Sophie	ソフィー	そうそう！\nあたしも楽しみなんだよね！						
+SeasonalTalkEvent_011_00_001ID	4	Sophie	ソフィー	それでさ、提案なんだけど。\nあたしたちもチョコを作ってみない？						
+SeasonalTalkEvent_011_00_001ID	5	Sophie	ソフィー	お互いにチョコを手作りして、贈り合うの！\nどうかな？						
+SeasonalTalkEvent_011_00_001ID	6	Plachta	プラフタ	いい提案ですね。\nもちろん構いませんよ						
+SeasonalTalkEvent_011_00_001ID	7	Sophie	ソフィー	やったあ！\nどんなチョコを作ろうかなー。ふふっ						
+SeasonalTalkEvent_011_00_001ID	8	Sophie	ソフィー	いつも以上に張り切って作らないとね！						
+SeasonalTalkEvent_011_00_001ID	9	Plachta	プラフタ	随分やる気ですね、ソフィー。\nですが、普通のチョコでもよいのでは？						
+SeasonalTalkEvent_011_00_001ID	10	Sophie	ソフィー	それじゃあ味気ないよ。\nお祭りなんだから、力入れていかないと！						
+SeasonalTalkEvent_011_00_001ID	11	Sophie	ソフィー	それにさ。これもきっと、\n錬金術の勉強になると思うんだよね						
+SeasonalTalkEvent_011_00_001ID	12	Sophie	ソフィー	今までにない斬新なチョコを作ったり、\nとにかく大量に作ってみたりとか！						
+SeasonalTalkEvent_011_00_001ID	13	Plachta	プラフタ	なるほど、言われてみれば。\n新しい発想が色々と生まれそうです						
+SeasonalTalkEvent_011_00_001ID	14	Plachta	プラフタ	では私も、ソフィーを見習って\n腕によりをかけるとしましょう						
+SeasonalTalkEvent_011_00_001ID	15	Sophie	ソフィー	プラフタもやる気だね！\nそれじゃあ早速、チョコ作り開始だー！						
+SeasonalTalkEvent_011_00_001ID	16	Sophie	ソフィー	まずは何から始めようかな。\nとりあえず、どんなチョコにするか考えて……						
+SeasonalTalkEvent_011_00_001ID	17	Sophie	ソフィー	レシピもまとめて、素材を集めて……。\nあれ、結構やること多い？						
+SeasonalTalkEvent_011_00_001ID	18	Plachta	プラフタ	ひとまず、やることを１つに絞るのはどうでしょうか						
+SeasonalTalkEvent_011_00_001ID	19	Plachta	プラフタ	新しいことに挑戦する時は、\nまず勉強から始めるのがよいかと						
+SeasonalTalkEvent_011_00_001ID	20	Sophie	ソフィー	チョコ作りの勉強かぁ。\n確かに、基本のレシピは知ってるけど……						
+SeasonalTalkEvent_011_00_001ID	21	Sophie	ソフィー	お店で売ってる本格的なチョコとかは、\nどう作るのかよく知らないかも						
+SeasonalTalkEvent_011_00_001ID	22	Plachta	プラフタ	であれば、まずはどんなチョコが\n売られているか見て回るのはどうでしょう						
+SeasonalTalkEvent_011_00_001ID	23	Plachta	プラフタ	それらの商品を参考にして、\n自分なりのチョコを生み出すきっかけにするのです						
+SeasonalTalkEvent_011_00_001ID	24	Plachta	プラフタ	ソフィーが良いと思うものを取り入れながら、\n作ってみるのがよいのではないでしょうか						
+SeasonalTalkEvent_011_00_001ID	25	Sophie	ソフィー	それ、いいね！\nなら早速、街に出かけよう！						
+SeasonalTalkEvent_011_00_001ID	26	Sophie	ソフィー	プラフタが思わず驚いちゃうようなやつ、\nきっと作ってみせるからね！						
+SeasonalTalkEvent_011_00_001ID	27	Plachta	プラフタ	ふふ。とても楽しみです						
+SeasonalTalkEvent_011_00_001ID	28	Plachta	プラフタ	いい機会ですし、チョコ以外のお菓子も\n色々作ってみてもいいかもしれません						
+SeasonalTalkEvent_011_00_001ID	29	Plachta	プラフタ	チョコと組み合わせることで、\nさらに美味しくなるお菓子もありますので						
+SeasonalTalkEvent_011_00_001ID	30	Sophie	ソフィー	それも勉強の一環ってことだね。\n分かった、やってみるよ！						
+SeasonalTalkEvent_011_00_001ID	31	Plachta	プラフタ	その調子です、ソフィー。\n私をうならせるようなものを期待していますよ						
+SeasonalTalkEvent_011_00_001ID	32	Sophie	ソフィー	うん！　……あれ？　もしかしてプラフタ、\nただお菓子を食べたいだけだったり？						
+SeasonalTalkEvent_011_00_001ID	33	Plachta	プラフタ	……鋭いですね。どうもこの身体になると\n味覚が戻っているのか、食欲が増すようです						
+SeasonalTalkEvent_011_00_001ID	34	Sophie	ソフィー	ランターナに来てから、たまーにこうして\n身体が変化する時があるよね。なんでだろう？						
+SeasonalTalkEvent_011_00_001ID	35	Plachta	プラフタ	まあ、どういった材料配分だとよい塩梅になるのか、\n知りたいという気持ちもありますよ						
+SeasonalTalkEvent_011_00_001ID	36	Sophie	ソフィー	あははっ。なるほどね。\nそれじゃあ出かけよう！						
+SeasonalTalkEvent_011_00_001ID	37	Plachta	プラフタ	はい。一緒に美味しいチョコを\n作りましょう、ソフィー						
+SeasonalTalkEvent_011_00_001ID	38	Sophie	ソフィー	うん！						
+SeasonalTalkEvent_011_00_001ID	39	Sophie Neuenmuller	ソフィー・ノイエンミュラー	朗らかな性格の錬金術士。\n真面目な努力家だが、ややずぼらな部分もある						
+SeasonalTalkEvent_011_00_001ID	40	Plachta	プラフタ	ソフィーと行動を共にする錬金術士。\n近頃、その身体にはある変化が起こっている						
+SeasonalTalkEvent_011_00_002ID	0	Sophie	ソフィー	やっぱりすごいねぇ、リンデ祭って。\n本番はまだもう少し先なのに……						
+SeasonalTalkEvent_011_00_002ID	1	Plachta	プラフタ	すでに多くのお店で、\n独創的なチョコが売り出されていますね						
+SeasonalTalkEvent_011_00_002ID	2	Plachta	プラフタ	きっと彼らも、リンデ祭に向けて\n研究を進めていたに違いありません						
+SeasonalTalkEvent_011_00_002ID	3	Sophie	ソフィー	だよね。どこもすごく力が入ってるもん！						
+SeasonalTalkEvent_011_00_002ID	4	Sophie	ソフィー	どれもこれも美味しそうで\n何から食べるか迷っちゃうなぁ						
+SeasonalTalkEvent_011_00_002ID	5	Plachta	プラフタ	そうですね。\nどこから手をつけたらよいものか						
+SeasonalTalkEvent_011_00_002ID	6	Juna	ユナ	おや？　二人とも						
+SeasonalTalkEvent_011_00_002ID	7	Sophie	ソフィー	ユナさん！　こんにちは！						
+SeasonalTalkEvent_011_00_002ID	8	Juna	ユナ	どうも。何か悩んでいる様子だが、\nどうかしたのか？						
+SeasonalTalkEvent_011_00_002ID	9	Sophie	ソフィー	あぁ、実はですね。\nもうすぐリンデ祭じゃないですか						
+SeasonalTalkEvent_011_00_002ID	10	Sophie	ソフィー	プラフタとチョコを贈り合おうと思ってて。\n市販のチョコを勉強しにきたんです						
+SeasonalTalkEvent_011_00_002ID	11	Plachta	プラフタ	ですが、店も商品もとても多く\nどこから回ろうかと悩んでいまして						
+SeasonalTalkEvent_011_00_002ID	12	Juna	ユナ	ふむ。そういうことなら、私も協力しよう						
+SeasonalTalkEvent_011_00_002ID	13	Juna	ユナ	ちょうど街の見回りをしていたところでな。\n道中で色んなチョコを見かけたんだ						
+SeasonalTalkEvent_011_00_002ID	14	Juna	ユナ	人気のある店もいくつかあった。\n有益な情報を提供できると思う						
+SeasonalTalkEvent_011_00_002ID	15	Sophie	ソフィー	本当ですか！　ぜひ教えてください！						
+SeasonalTalkEvent_011_00_002ID	16	Juna	ユナ	あぁ、構わない						
+SeasonalTalkEvent_011_00_002ID	17	Juna	ユナ	まずは、向こうの通りにある菓子屋だな。\nかわいらしい形のチョコが豊富に並んでいた						
+SeasonalTalkEvent_011_00_002ID	18	Juna	ユナ	軽くのぞいてみたが、どれも良い出来だった。\nああいう工夫があると、贈られた側も嬉しいだろうな						
+SeasonalTalkEvent_011_00_002ID	19	Plachta	プラフタ	形も、お菓子の大事な要素ですからね。\n私も後で見てみたいところです						
+SeasonalTalkEvent_011_00_002ID	20	Juna	ユナ	それと、あちらの屋台も良かったぞ。\nチョコ入りの温かい飲み物を売っていたんだが						
+SeasonalTalkEvent_011_00_002ID	21	Juna	ユナ	香ばしい匂いが辺りに漂っていてな。\n随分と長い行列ができていた						
+SeasonalTalkEvent_011_00_002ID	22	Sophie	ソフィー	へぇー、飲みものかぁ！\n確かにそういうチョコもありですよね！						
+SeasonalTalkEvent_011_00_002ID	23	Juna	ユナ	ひとまずそんなところだ。\nどうだ、参考になっただろうか？						
+SeasonalTalkEvent_011_00_002ID	24	Sophie	ソフィー	はい！　ありがとうございます！						
+SeasonalTalkEvent_011_00_002ID	25	Plachta	プラフタ	ユナの話は分かりやすいですね。\nまるで実際に食べてきたかのような口ぶりでした						
+SeasonalTalkEvent_011_00_002ID	26	Juna	ユナ	なっ。\nい、いや。別に食べてはいないぞ？						
+SeasonalTalkEvent_011_00_002ID	27	Juna	ユナ	私は王国騎士として街を見回っているんだ。\nいついかなる時も、模範的でなければならない						
+SeasonalTalkEvent_011_00_002ID	28	Juna	ユナ	リンデ祭の開催を祝いこそすれ、\n無闇にはしゃぐような行為はしない						
+SeasonalTalkEvent_011_00_002ID	29	Plachta	プラフタ	そうなのですね。てっきりユナも、\n誰かに贈るチョコを探しているのかと						
+SeasonalTalkEvent_011_00_002ID	30	Juna	ユナ	い、いやいや！\nそんなことはしていなくてだな……						
+SeasonalTalkEvent_011_00_002ID	31	Juna	ユナ	おっと、そろそろ見回りを再開しなければ。\nでは二人とも、頑張ってくれ						
+SeasonalTalkEvent_011_00_002ID	32	Plachta	プラフタ	……ユナの様子が、なんだかおかしかったような？						
+SeasonalTalkEvent_011_00_002ID	33	Sophie	ソフィー	そう？　それよりも、\nすごくいい情報が聞けてよかったね！						
+SeasonalTalkEvent_011_00_002ID	34	Sophie	ソフィー	ユナさんの話してたお店、\n早速行ってみようよ！						
+SeasonalTalkEvent_011_00_002ID	35	Plachta	プラフタ	あ、ソフィー！　待ってください！						
+SeasonalTalkEvent_011_00_003ID	0	Sophie	ソフィー	ふぅ。どのチョコも美味しかったなー						
+SeasonalTalkEvent_011_00_003ID	1	Plachta	プラフタ	どれも個性的で素晴らしかったですね。\n味も良いものばかりでしたし						
+SeasonalTalkEvent_011_00_003ID	2	Sophie	ソフィー	だね。味だけじゃなくて、\n見た目とか作り方も工夫されてて、面白かった！						
+SeasonalTalkEvent_011_00_003ID	3	Sophie	ソフィー	チョコってこんなに奥が深いんだなぁって、\n改めて気付かされちゃったよ						
+SeasonalTalkEvent_011_00_003ID	4	Plachta	プラフタ	どうでしょうか、ソフィー。\n作りたいチョコは決まってきましたか？						
+SeasonalTalkEvent_011_00_003ID	5	Sophie	ソフィー	うーん……それがね。\nなんだか逆に、分からなくなってきちゃったんだよね						
+SeasonalTalkEvent_011_00_003ID	6	Plachta	プラフタ	ふむ……と言うと……						
+SeasonalTalkEvent_011_00_003ID	7	Plachta	プラフタ	個性豊かなチョコを見すぎてしまったために、\n軸が定まらなくなった、とかでしょうか？						
+SeasonalTalkEvent_011_00_003ID	8	Sophie	ソフィー	あ、そう！　そんな感じ！						
+SeasonalTalkEvent_011_00_003ID	9	Plachta	プラフタ	なるほど。でしたら分かります。\n実は、私も同じなので……						
+SeasonalTalkEvent_011_00_003ID	10	Sophie	ソフィー	そっか、プラフタもなんだ。\nどうしたらいいんだろうね？						
+SeasonalTalkEvent_011_00_003ID	11	Roman	ロマン	やあ。お隣、いいかい？						
+SeasonalTalkEvent_011_00_003ID	12	Sophie	ソフィー	あ。ロマンさん！						
+SeasonalTalkEvent_011_00_003ID	13	Roman	ロマン	二人とも、どうかしたの？\n錬金術のことで悩んでいるのかな						
+SeasonalTalkEvent_011_00_003ID	14	Sophie	ソフィー	え～っと、錬金術、というより\nもっと初歩的な悩みっていうか						
+SeasonalTalkEvent_011_00_003ID	15	Plachta	プラフタ	リンデ祭に向けて、\nどんなチョコを作ろうかと悩んでいまして						
+SeasonalTalkEvent_011_00_003ID	16	Roman	ロマン	あぁ、そういえばそろそろ本番だね						
+SeasonalTalkEvent_011_00_003ID	17	Roman	ロマン	そうだな……二人はリンデ祭のことを\nどれくらい知っているんだい？						
+SeasonalTalkEvent_011_00_003ID	18	Sophie	ソフィー	どれくらい、っていうと？						
+SeasonalTalkEvent_011_00_003ID	19	Plachta	プラフタ	歴史の話などでしょうか。\n確か、リンデマンという人物が広めた催しだとか						
+SeasonalTalkEvent_011_00_003ID	20	Roman	ロマン	そうだね。もっと具体的な話は？						
+SeasonalTalkEvent_011_00_003ID	21	Sophie	ソフィー	えっと。あたしが知ってるのは……						
+SeasonalTalkEvent_011_00_003ID	22	Sophie	ソフィー	家族や恋人の無事を祈って\nチョコを贈りはじめたのがきっかけ、って話とか						
+SeasonalTalkEvent_011_00_003ID	23	Roman	ロマン	その通り！　それが分かっているなら、\n悩みの解決も近いんじゃないかな						
+SeasonalTalkEvent_011_00_003ID	24	Roman	ロマン	つまり。味や見た目で悩むのもいいけど、\n他にも大事なことがあるんじゃない？　ってことさ						
+SeasonalTalkEvent_011_00_003ID	25	Sophie	ソフィー	大事なこと……						
+SeasonalTalkEvent_011_00_003ID	26	Roman	ロマン	リンデ祭がどんなお祭りなのか、\n自分がチョコにどんな想いを込めたいのか						
+SeasonalTalkEvent_011_00_003ID	27	Roman	ロマン	改めて考えてみるといいよ						
+SeasonalTalkEvent_011_00_003ID	28	Sophie	ソフィー	なるほど……ありがとうございます！						
+SeasonalTalkEvent_011_00_003ID	29	Roman	ロマン	どういたしまして。悩み相談にも定評があるのさ。\n頑張ってね、二人とも						
+SeasonalTalkEvent_011_00_003ID	30	Roman	ロマン	人にもらえるチョコというのは、\nなかなかに嬉しいものだよ						
+SeasonalTalkEvent_011_00_003ID	31	Plachta	プラフタ	まだ、完全には理解できていませんが。\n重要なことを教えてもらえた気がします						
+SeasonalTalkEvent_011_00_003ID	32	Sophie	ソフィー	うん、あたしもそう思う！						
+SeasonalTalkEvent_011_00_003ID	33	Sophie	ソフィー	よーし。とりあえず、\nチョコ作りを進めていこう！						
+SeasonalTalkEvent_011_00_003ID	34	Plachta	プラフタ	はい。行きましょうか						
+SeasonalTalkEvent_011_00_004ID	0	Sophie	ソフィー	よしよし。素材が集まってきたね！						
+SeasonalTalkEvent_011_00_004ID	1	Plachta	プラフタ	こちらも収穫は上々です。\nいい仕上がりのチョコが作れそうです						
+SeasonalTalkEvent_011_00_004ID	2	Plachta	プラフタ	他のお菓子にも使えそうな素材が多く手に入りました。\nお菓子作りの修業も、さらに進みそうですね						
+SeasonalTalkEvent_011_00_004ID	3	Sophie	ソフィー	アトリエに戻ったらいっぱい作るから、\n楽しみにしててね、プラフタ！						
+SeasonalTalkEvent_011_00_004ID	4	Plachta	プラフタ	はい。ソフィーの腕前を確かめてあげましょう						
+SeasonalTalkEvent_011_00_004ID	5	Sophie	ソフィー	ふふっ、お手柔らかに！						
+SeasonalTalkEvent_011_00_004ID	6	Plachta	プラフタ	ええ。ところで……\nなんだかご機嫌ですね、ソフィー						
+SeasonalTalkEvent_011_00_004ID	7	Sophie	ソフィー	え、そうかな？						
+SeasonalTalkEvent_011_00_004ID	8	Plachta	プラフタ	先ほどまで、私と同じように悩んでいたのに\n採取を始めてからは、笑顔が増えてきたように思います						
+SeasonalTalkEvent_011_00_004ID	9	Plachta	プラフタ	質の良い素材を見つけられたからでしょうか？						
+SeasonalTalkEvent_011_00_004ID	10	Sophie	ソフィー	ふふ、それもあると思うけどー						
+SeasonalTalkEvent_011_00_004ID	11	Sophie	ソフィー	プラフタにどんなチョコを\nあげようかなって考えてるうちにね？						
+SeasonalTalkEvent_011_00_004ID	12	Sophie	ソフィー	自然と楽しい気持ちになってきたんだよね。\n顔がゆるんでたのは、そのせいかも						
+SeasonalTalkEvent_011_00_004ID	13	Plachta	プラフタ	なるほど。では悩みも解決したのですか？						
+SeasonalTalkEvent_011_00_004ID	14	Sophie	ソフィー	それがぜんぜんなんだよねー。\nまだ考え中ってところ						
+SeasonalTalkEvent_011_00_004ID	15	Plachta	プラフタ	そうでしたか。不思議ですね……						
+SeasonalTalkEvent_011_00_004ID	16	Plachta	プラフタ	私も……ロマンに言われた言葉を\n思い返していまして						
+SeasonalTalkEvent_011_00_004ID	17	Plachta	プラフタ	あともう少しで、\n何かが見えてきそうな気がしているのですが						
+SeasonalTalkEvent_011_00_004ID	18	Sophie	ソフィー	そうなの？　いいね！\nよかったら詳しく聞かせて――						
+SeasonalTalkEvent_011_00_004ID	19	Plachta	プラフタ	っ！　今の音は……！						
+SeasonalTalkEvent_011_00_004ID	20	Sophie	ソフィー	プラフタ、やっつけよう！						
+SeasonalTalkEvent_011_00_004ID	21	Plachta	プラフタ	ええ！						
+SeasonalTalkEvent_011_00_005ID	0	Sophie	ソフィー	はぁ。びっくりした！						
+SeasonalTalkEvent_011_00_005ID	1	Plachta	プラフタ	いきなりでしたが、お互い無事でよかったです						
+SeasonalTalkEvent_011_00_005ID	2	Sophie	ソフィー	うん！　プラフタのおかげだよ、ありがとう！						
+SeasonalTalkEvent_011_00_005ID	3	Plachta	プラフタ	いいえ。ソフィーの力があったからこそですよ						
+SeasonalTalkEvent_011_00_005ID	4	Sophie	ソフィー	そうかな？　えへへ						
+SeasonalTalkEvent_011_00_005ID	5	Sophie	ソフィー	あ、そうだ。\nさっきの魔物の素材、拾ってくるね！						
+SeasonalTalkEvent_011_00_005ID	6	Plachta	プラフタ	それを拾い終えたら、アトリエに戻りましょうか						
+SeasonalTalkEvent_011_00_005ID	7	Sophie	ソフィー	うん！						
+SeasonalTalkEvent_011_00_005ID	8	Plachta	プラフタ	……あっ！						
+SeasonalTalkEvent_011_00_005ID	9	Plachta	プラフタ	（まずい……ソフィーの近くに、また魔物が！）						
+SeasonalTalkEvent_011_00_005ID	10	Sophie	ソフィー	ふふふ～ん、ふっふふ～ん						
+SeasonalTalkEvent_011_00_005ID	11	Plachta	プラフタ	（採取に夢中で、気付いていない……！）						
+SeasonalTalkEvent_011_00_005ID	12	Plachta	プラフタ	ソフィー、危ないっ！						
+SeasonalTalkEvent_011_00_005ID	13	Sophie	ソフィー	えっ？\n……ひゃあああっ！？						
+SeasonalTalkEvent_011_00_005ID	14	Plachta	プラフタ	あ……！						
+SeasonalTalkEvent_011_00_005ID	15	Lanze	ランツェ	ふぅ。間一髪だったな！						
+SeasonalTalkEvent_011_00_005ID	16	Heidi	ハイディ	間に合ってよかった！						
+SeasonalTalkEvent_011_00_005ID	17	Sophie	ソフィー	ランツェさん！　ハイディさん！						
+SeasonalTalkEvent_011_00_005ID	18	Plachta	プラフタ	はぁ……。\n助かりました、二人とも！						
+SeasonalTalkEvent_011_00_005ID	19	Sophie	ソフィー	危ないところを、ありがとうございました！						
+SeasonalTalkEvent_011_00_005ID	20	Heidi	ハイディ	いいってこと！\nこういうのはお互い様ってね～						
+SeasonalTalkEvent_011_00_005ID	21	Heidi	ハイディ	まぁ、どうしてもって言うなら\nお礼とかいただいちゃおっかな～？　なんてね！						
+SeasonalTalkEvent_011_00_005ID	22	Sophie	ソフィー	それならぜひ！　ちょうど素材を\nたくさん集めてたところなんです						
+SeasonalTalkEvent_011_00_005ID	23	Heidi	ハイディ	え、本当に！？\n冗談のつもりだったけど、やった！						
+SeasonalTalkEvent_011_00_005ID	24	Lanze	ランツェ	もしかしてお前さんたちも、\nチョコ作りの材料を集めてるのか？						
+SeasonalTalkEvent_011_00_005ID	25	Plachta	プラフタ	はい、そうです。\nということは、あなたたちも？						
+SeasonalTalkEvent_011_00_005ID	26	Heidi	ハイディ	そうそう。この時期はみんな、\n考えることが一緒だよね～						
+SeasonalTalkEvent_011_00_005ID	27	Lanze	ランツェ	盛大な祭りだからな。\n誰しも世話になってる人の一人や二人いるもんだ						
+SeasonalTalkEvent_011_00_005ID	28	Lanze	ランツェ	そんな相手にチョコを渡して、日頃の礼を伝える。\nこの機会を逃す手はねえよな！						
+SeasonalTalkEvent_011_00_005ID	29	Sophie	ソフィー	ふふっ、そうですよね！						
+SeasonalTalkEvent_011_00_005ID	30	Heidi	ハイディ	ちなみに私は、それだけじゃないけどね～						
+SeasonalTalkEvent_011_00_005ID	31	Lanze	ランツェ	んん？　チョコを作る以外に何かあるのか？						
+SeasonalTalkEvent_011_00_005ID	32	Heidi	ハイディ	ふっふっふ。聞いて驚くなよ～？						
+SeasonalTalkEvent_011_00_005ID	33	Heidi	ハイディ	私はね。美味しいチョコのレシピを考えて、\nそれをお店に売ろうと思ってるんだ～！						
+SeasonalTalkEvent_011_00_005ID	34	Plachta	プラフタ	レシピを売る？　なぜそのようなことを？						
+SeasonalTalkEvent_011_00_005ID	35	Heidi	ハイディ	もちろん、お金だよ、お金！\nリンデ祭にはたっくさんの人たちが来るでしょ？						
+SeasonalTalkEvent_011_00_005ID	36	Heidi	ハイディ	どこのお店も、美味しいチョコを準備して\nお客さんを独り占めしたいわけよ						
+SeasonalTalkEvent_011_00_005ID	37	Heidi	ハイディ	だから、いいレシピをお店に売り込む！\n上手くいけばたんまり稼げちゃうってわけ！						
+SeasonalTalkEvent_011_00_005ID	38	Sophie	ソフィー	あははっ。ハイディさんらしいです！						
+SeasonalTalkEvent_011_00_005ID	39	Plachta	プラフタ	皆さん、それぞれ目的が\nはっきりしているのですね						
+SeasonalTalkEvent_011_00_005ID	40	Sophie	ソフィー	プラフタ？　どうしたの？						
+SeasonalTalkEvent_011_00_005ID	41	Plachta	プラフタ	いえ、大丈夫です。\n今の話を聞いて、ようやく迷いが晴れまして						
+SeasonalTalkEvent_011_00_005ID	42	Sophie	ソフィー	えっ？　作りたいチョコ、決まったってこと？						
+SeasonalTalkEvent_011_00_005ID	43	Sophie	ソフィー	どうやって思いついたの？\nあたしにも教えてよ！						
+SeasonalTalkEvent_011_00_005ID	44	Plachta	プラフタ	それは……秘密です						
+SeasonalTalkEvent_011_00_005ID	45	Sophie	ソフィー	ええっ、なんでぇ！？						
+SeasonalTalkEvent_011_00_005ID	46	Plachta	プラフタ	ソフィーほどの錬金術士なら、\n自分の力で気付けるはずですよ						
+SeasonalTalkEvent_011_00_005ID	47	Sophie	ソフィー	そんなぁー！						
+SeasonalTalkEvent_011_00_005ID	48	Heidi	ハイディ	ははっ。よく分かんないけど、大変そうだねぇ						
+SeasonalTalkEvent_011_00_005ID	49	Lanze	ランツェ	俺たちはそろそろ行くか。\n素材をありがとうな、二人とも！						
+SeasonalTalkEvent_011_00_005ID	50	Plachta	プラフタ	こちらこそです。\nでは戻りましょう、ソフィー						
+SeasonalTalkEvent_011_00_005ID	51	Sophie	ソフィー	待ってよ、プラフター！						
+SeasonalTalkEvent_011_00_006ID	0	Plachta	プラフタ	さあ。調合に取り掛かりましょうか						
+SeasonalTalkEvent_011_00_006ID	1	Sophie	ソフィー	もうチョコを作るの！？　早いなぁ！						
+SeasonalTalkEvent_011_00_006ID	2	Plachta	プラフタ	いえ、チョコは後ほど作ります。\n先に小物を作っておこうかと思いまして						
+SeasonalTalkEvent_011_00_006ID	3	Plachta	プラフタ	チョコをただ渡すだけでは寂しいですからね。\n彩りを加えるためのものを作りたいのです						
+SeasonalTalkEvent_011_00_006ID	4	Plachta	プラフタ	まずは、チョコを入れる箱でも作りましょう。\n美味しいチョコに合う魅力的なものにしなくては						
+SeasonalTalkEvent_011_00_006ID	5	Sophie	ソフィー	ねぇ、そばで見ててもいい？\nプラフタの調合を見てれば、何か気付けるかも！						
+SeasonalTalkEvent_011_00_006ID	6	Plachta	プラフタ	構いませんよ。\nでは始めましょうか						
+SeasonalTalkEvent_011_00_006ID	7	Sophie	ソフィー	うん！　よろしくお願いします！						
+SeasonalTalkEvent_011_00_006ID	8	Sophie	ソフィー	――うーん。見てる限りは、\nいつもの調合と変わらないような……						
+SeasonalTalkEvent_011_00_006ID	9	Plachta	プラフタ	そうですね。作るものも一般的ですし、\n特別なことはしていません						
+SeasonalTalkEvent_011_00_006ID	10	Sophie	ソフィー	参考になればいいなと思ったけど、\nそう上手くはいかないか。はぁ						
+SeasonalTalkEvent_011_00_006ID	11	Plachta	プラフタ	ふふ。そんなソフィーに、\n１つ良いことを教えてあげましょう						
+SeasonalTalkEvent_011_00_006ID	12	Sophie	ソフィー	なになに？　教えて！						
+SeasonalTalkEvent_011_00_006ID	13	Plachta	プラフタ	実はですね。\n手掛かりはすでに、目の前にありますよ？						
+SeasonalTalkEvent_011_00_006ID	14	Sophie	ソフィー	ええー？　そんなこと言われたら、\n余計に分からなくなっちゃうよー！						
+SeasonalTalkEvent_011_00_006ID	15	Plachta	プラフタ	ふふふ……						
+SeasonalTalkEvent_011_00_006ID	16	Plachta	プラフタ	ふう。完成です。\n立派な箱を作ることができました						
+SeasonalTalkEvent_011_00_006ID	17	Sophie	ソフィー	うぅ……結局何も分からなかったよ……						
+SeasonalTalkEvent_011_00_006ID	18	Plachta	プラフタ	そう落ち込まないでください、ソフィー						
+SeasonalTalkEvent_011_00_006ID	19	Plachta	プラフタ	きっとそこまで難しいことではありません。\nよければもう一度、調合を見ていきますか？						
+SeasonalTalkEvent_011_00_006ID	20	Sophie	ソフィー	……ううん、大丈夫！\nプラフタに頼ってばかりじゃ良くないからね						
+SeasonalTalkEvent_011_00_006ID	21	Sophie	ソフィー	他のみんなにも話を聞いてみるよ。\nちょっと外に出てくる！						
+SeasonalTalkEvent_011_00_006ID	22	Plachta	プラフタ	あ、待ってください、ソフィー！						
+SeasonalTalkEvent_011_00_006ID	23	Sophie	ソフィー	うん？　どうしたの？						
+SeasonalTalkEvent_011_00_006ID	24	Plachta	プラフタ	外に行く前に、お菓子作りの\n修業を進めておきませんか？						
+SeasonalTalkEvent_011_00_006ID	25	Sophie	ソフィー	あぁ、そうだね！\n気持ちの整理もできそうだし、やってみる！						
+SeasonalTalkEvent_011_00_006ID	26	Plachta	プラフタ	えぇ、お願いします。\n私もひと作業終えて、すっかりお菓子が恋しく……						
+SeasonalTalkEvent_011_00_006ID	27	Plachta	プラフタ	んんっ。ではなく、\nソフィーの腕前を見たくなってきたので						
+SeasonalTalkEvent_011_00_006ID	28	Sophie	ソフィー	あはは。分かった！\n美味しいもの作るから、待ってて！						
+SeasonalTalkEvent_011_00_006ID	29	Plachta	プラフタ	はい。よろしくお願いしますね						
+SeasonalTalkEvent_011_00_007ID	0	Sophie	ソフィー	うーん。\nチョコにどんな想いを込めたいか、かぁ……						
+SeasonalTalkEvent_011_00_007ID	1	Magda	マクダ	よう、ソフィー！						
+SeasonalTalkEvent_011_00_007ID	2	Sophie	ソフィー	あれ？　マクダさん！						
+SeasonalTalkEvent_011_00_007ID	3	Magda	マクダ	どうした、そんな辛気臭い顔して。\nもうすぐリンデ祭だってのによ						
+SeasonalTalkEvent_011_00_007ID	4	Magda	マクダ	このマクダ様みてえに、\nもっと楽しまなきゃ損だぞ～						
+SeasonalTalkEvent_011_00_007ID	5	Sophie	ソフィー	あはは、そうですよね。\n実は、そのリンデ祭のことで悩んでいて……						
+SeasonalTalkEvent_011_00_007ID	6	Magda	マクダ	へえ？　そういうことなら、\n相談にでも乗ってやろうか						
+SeasonalTalkEvent_011_00_007ID	7	Sophie	ソフィー	本当ですか？　ありがとうございます！\n実はですね……						
+SeasonalTalkEvent_011_00_007ID	8	Magda	マクダ	――なるほどな。どんなチョコを作りゃいいか、\n分からなくなっちまったわけか						
+SeasonalTalkEvent_011_00_007ID	9	Sophie	ソフィー	そうなんです。マクダさんはどう思いますか？						
+SeasonalTalkEvent_011_00_007ID	10	Magda	マクダ	心を込めりゃそれでいいんじゃねぇか？　ん～……\n相談に乗っといてなんだが正解は分からねぇ、悪い						
+SeasonalTalkEvent_011_00_007ID	11	Sophie	ソフィー	そうですか……\nマクダさんは、誰かにチョコをあげないんですか？						
+SeasonalTalkEvent_011_00_007ID	12	Magda	マクダ	あぁ、ブラッドには渡すぜ。あいつは坊ちゃんなだけ\nあって、王都下町のうまい店をまだまだ知らないからな						
+SeasonalTalkEvent_011_00_007ID	13	Sophie	ソフィー	そうなんですねー。\n仲、いいですもんね						
+SeasonalTalkEvent_011_00_007ID	14	Magda	マクダ	まぁ、仕事上、最近よく組んでるからよ……						
+SeasonalTalkEvent_011_00_007ID	15	Sophie	ソフィー	え？　だって、リンデ祭のチョコって、\nお世話になっている人に渡すものじゃないですか						
+SeasonalTalkEvent_011_00_007ID	16	Sophie	ソフィー	マクダさん、よくブラッドさんと一緒にいますし。\nあげるとしたらブラッドさんなのかなって						
+SeasonalTalkEvent_011_00_007ID	17	Magda	マクダ	でもお前、あれだぜ！\nリンデ祭のチョコっつっても、あれだぜ！						
+SeasonalTalkEvent_011_00_007ID	18	Magda	マクダ	でもお前、あれだぜ！\nリンデ祭のチョコっつっても、あれだぜ！						
+SeasonalTalkEvent_011_00_007ID	19	Magda	マクダ	坊ちゃんに渡すのはいつものお礼って意味だ。\n重要な意味が含まれているわけじゃねぇ！						
+SeasonalTalkEvent_011_00_007ID	20	Sophie	ソフィー	重要な意味？\nそれってなんですか？　教えてください！						
+SeasonalTalkEvent_011_00_007ID	21	Magda	マクダ	そ、それはその～……！						
+SeasonalTalkEvent_011_00_007ID	22	Brad	ブラッド	おや……						
+SeasonalTalkEvent_011_00_007ID	23	Magda	マクダ	うおっ！？						
+SeasonalTalkEvent_011_00_007ID	24	Sophie	ソフィー	ブラッドさん、奇遇ですね！\nちょうどブラッドさんの話をしていたところなんですよ						
+SeasonalTalkEvent_011_00_007ID	25	Brad	ブラッド	そうだったのか。\n何か話でもあるのか、マクダ？						
+SeasonalTalkEvent_011_00_007ID	26	Magda	マクダ	くっくっく。リンデ祭で、マクダ様がお前に\nチョコを用意してるって話さ。光栄に思えよ						
+SeasonalTalkEvent_011_00_007ID	27	Brad	ブラッド	なんだ……？\nどうしたんだ、マクダ！						
+SeasonalTalkEvent_011_00_007ID	28	Sophie	ソフィー	あんなに慌ててどうしたんだろ、マクダさん？						
+SeasonalTalkEvent_011_00_007ID	29	Sophie	ソフィー	もっと詳しく聞きたかったけど……。\nしょうがないかな						
+SeasonalTalkEvent_011_00_007ID	30	Brad	ブラッド	むしろお前が私に渡さなかったら、私は悲しいぞ。\n共に行動しているだろう						
+SeasonalTalkEvent_011_00_007ID	31	Magda	マクダ	お、おぅ						
+SeasonalTalkEvent_011_00_007ID	32	Brad	ブラッド	私としても、しっかりしたチョコレートを\nお前に用意する。これもまた、当然のことだ						
+SeasonalTalkEvent_011_00_007ID	33	Magda	マクダ	オ、オモシレェ……待ってるぜぇコラ、あばよ						
+SeasonalTalkEvent_011_00_008ID	0	Sophie	ソフィー	街のみんな、相変わらず盛り上がってるなぁ						
+SeasonalTalkEvent_011_00_008ID	1	Sophie	ソフィー	プラフタと一緒に回った時より、\nもっと人が増えてる気がする！						
+SeasonalTalkEvent_011_00_008ID	2	Sophie	ソフィー	みんなリンデ祭を楽しみにしてるんだなぁ……						
+SeasonalTalkEvent_011_00_008ID	3	Sophie	ソフィー	（街のみんなはどんな気持ちで、\n　リンデ祭のチョコを贈り合ってるんだろう？）						
+SeasonalTalkEvent_011_00_008ID	4	Sophie	ソフィー	（カフェで、ロマンさんとも話した通り――）						
+SeasonalTalkEvent_011_00_008ID	5	Sophie	ソフィー	（そもそもリンデ祭は、大切な人の無事を\n　祈る気持ちから始まったんだよね）						
+SeasonalTalkEvent_011_00_008ID	6	Sophie	ソフィー	（でも、それだけじゃなくって。\n　ランツェさんやハイディさんみたいに……）						
+SeasonalTalkEvent_011_00_008ID	7	Sophie	ソフィー	（自分なりの想いを抱えて、\n　リンデ祭を楽しんでる人たちもいて）						
+SeasonalTalkEvent_011_00_008ID	8	Sophie	ソフィー	（つまり……チョコっていうのは、\n　ただ大切な人に渡す贈りもの、ってだけじゃない）						
+SeasonalTalkEvent_011_00_008ID	9	Sophie	ソフィー	（大切な人への祈りと一緒に、\n　自分自身の気持ちも乗せて贈るもの、みたいな？）						
+SeasonalTalkEvent_011_00_008ID	10	Sophie	ソフィー	うん。考えがまとまってきた気がする！						
+SeasonalTalkEvent_011_00_008ID	11	Sophie	ソフィー	つまり、あたしがこれから\n作らなくちゃいけないのは……						
+SeasonalTalkEvent_011_00_008ID	12	Sophie	ソフィー	そのチョコを作るために、\nあたしがやるべきことは……！						
+SeasonalTalkEvent_011_00_008ID	13	Sophie	ソフィー	よーし、決めた！\nアトリエに戻ろう！						
+SeasonalTalkEvent_011_00_009ID	0	Plachta	プラフタ	ごちそうさまでした。\nこのお菓子の出来も良かったですね						
+SeasonalTalkEvent_011_00_009ID	1	Plachta	プラフタ	ソフィーのお菓子作りの腕前が\n順調に上がっているようで何よりです						
+SeasonalTalkEvent_011_00_009ID	2	Plachta	プラフタ	さて。ソフィーが戻ってくる前に、\nもう１つくらいは……						
+SeasonalTalkEvent_011_00_009ID	3	Sophie	ソフィー	プラフター！　ただいま！						
+SeasonalTalkEvent_011_00_009ID	4	Plachta	プラフタ	わっ。も、戻ったんですね、ソフィー						
+SeasonalTalkEvent_011_00_009ID	5	Sophie	ソフィー	うん！　あのね、プラフタ！\nあたしも作りたいチョコが見えてきたよ！						
+SeasonalTalkEvent_011_00_009ID	6	Plachta	プラフタ	本当ですか？　それはよかったです。\n早速作っていきますか？						
+SeasonalTalkEvent_011_00_009ID	7	Sophie	ソフィー	あ、その前に！\nあたしが考えたこと、プラフタに聞いてほしいんだ						
+SeasonalTalkEvent_011_00_009ID	8	Plachta	プラフタ	……？　なんでしょうか。\nもちろん構いませんよ						
+SeasonalTalkEvent_011_00_009ID	9	Sophie	ソフィー	えへへ、ありがとう！						
+SeasonalTalkEvent_011_00_009ID	10	Sophie	ソフィー	あのね。どんなチョコを作りたいのか、\n改めて考え直してみたの						
+SeasonalTalkEvent_011_00_009ID	11	Sophie	ソフィー	リンデ祭に向けて、\nあたしが作りたいチョコっていうのは……						
+SeasonalTalkEvent_011_00_009ID	12	Sophie	ソフィー	ただ、プラフタへの想いを込めて\n作っただけのものじゃなくって						
+SeasonalTalkEvent_011_00_009ID	13	Sophie	ソフィー	あたし自身の想いも一緒に込めた、\nそういうチョコなんじゃないかって！						
+SeasonalTalkEvent_011_00_009ID	14	Plachta	プラフタ	なるほど……。\nそれがソフィーの結論なのですね						
+SeasonalTalkEvent_011_00_009ID	15	Plachta	プラフタ	ふふ。私も、その通りだと思います						
+SeasonalTalkEvent_011_00_009ID	16	Sophie	ソフィー	プラフタもあたしと\n同じ答えにたどり着いてたの？						
+SeasonalTalkEvent_011_00_009ID	17	Plachta	プラフタ	ええ。ソフィーと街を回りながら\n考えていたのですよ						
+SeasonalTalkEvent_011_00_009ID	18	Plachta	プラフタ	街には美味しいチョコがたくさんあります。\nでも、ただそれを真似ただけでは……						
+SeasonalTalkEvent_011_00_009ID	19	Plachta	プラフタ	ソフィーに渡すチョコとして\nふさわしくないのではと感じまして						
+SeasonalTalkEvent_011_00_009ID	20	Plachta	プラフタ	それで、色々な方の話を聞いて、\nようやく思い至ったのです						
+SeasonalTalkEvent_011_00_009ID	21	Plachta	プラフタ	ソフィーからの想いにお返しするだけではなく、\n私からの気持ちを伝えるものでもあるのだと						
+SeasonalTalkEvent_011_00_009ID	22	Plachta	プラフタ	まさに、今のソフィーの話と同じですね						
+SeasonalTalkEvent_011_00_009ID	23	Sophie	ソフィー	そっか……えへへ、嬉しい！						
+SeasonalTalkEvent_011_00_009ID	24	Sophie	ソフィー	聞いてくれてありがとね、プラフタ。\nこれであたしも、やっとチョコが作れそう！						
+SeasonalTalkEvent_011_00_009ID	25	Plachta	プラフタ	では、早速準備に取り掛かりましょうか						
+SeasonalTalkEvent_011_00_009ID	26	Sophie	ソフィー	うん！　それじゃあ――						
+SeasonalTalkEvent_011_00_009ID	27	Sophie	ソフィー	これから、強い魔物を倒しに行ってくるねっ！						
+SeasonalTalkEvent_011_00_009ID	28	Plachta	プラフタ	……はい？						
+SeasonalTalkEvent_011_00_010ID	0	Sophie	ソフィー	すっかり暗くなっちゃったねー。\nこれは強敵が出てきそうな予感！						
+SeasonalTalkEvent_011_00_010ID	1	Plachta	プラフタ	ちょっと、ソフィー！\nどういうことですか！？						
+SeasonalTalkEvent_011_00_010ID	2	Sophie	ソフィー	え？　何が？						
+SeasonalTalkEvent_011_00_010ID	3	Plachta	プラフタ	何が？　じゃありませんよ！						
+SeasonalTalkEvent_011_00_010ID	4	Plachta	プラフタ	急に変なことを言って、\nアトリエを飛び出したりして！						
+SeasonalTalkEvent_011_00_010ID	5	Plachta	プラフタ	どうしてさっきの話の流れで、\n強い魔物と戦おう、なんて話になるんですか！？						
+SeasonalTalkEvent_011_00_010ID	6	Sophie	ソフィー	あー、あはは。\nちょっと先走りすぎちゃったかな？						
+SeasonalTalkEvent_011_00_010ID	7	Sophie	ソフィー	あのね！　どういうチョコを作ればいいのかは\nやっと見えてきたんだけど……						
+SeasonalTalkEvent_011_00_010ID	8	Sophie	ソフィー	その想いを、どうやってチョコに込めるかを\nあたしなりに考えてみたの						
+SeasonalTalkEvent_011_00_010ID	9	Sophie	ソフィー	あたしにとってプラフタは、\n錬金術やお菓子作りの師匠で						
+SeasonalTalkEvent_011_00_010ID	10	Sophie	ソフィー	でも同時に、仲良しの友達でもあって……						
+SeasonalTalkEvent_011_00_010ID	11	Sophie	ソフィー	それってあたしにとっては、\n本当に当たり前の気持ちなんだよ						
+SeasonalTalkEvent_011_00_010ID	12	Sophie	ソフィー	だからこそ……その大切さを、\n実感しにくくなってるんじゃないかなって						
+SeasonalTalkEvent_011_00_010ID	13	Plachta	プラフタ	ソフィー……						
+SeasonalTalkEvent_011_00_010ID	14	Plachta	プラフタ	少し、分かります。実は私も、\nそのことに気付いたおかげで、悩みが晴れたので						
+SeasonalTalkEvent_011_00_010ID	15	Sophie	ソフィー	そうなの？						
+SeasonalTalkEvent_011_00_010ID	16	Plachta	プラフタ	ええ。今日、森で素材を集めていた時に、\nソフィーが魔物に襲われかけましたよね						
+SeasonalTalkEvent_011_00_010ID	17	Plachta	プラフタ	ハイディとランツェのおかげで、\n何事もなく無事でしたが						
+SeasonalTalkEvent_011_00_010ID	18	Plachta	プラフタ	あの時に、改めて実感したのです						
+SeasonalTalkEvent_011_00_010ID	19	Plachta	プラフタ	ソフィーの無事を祈る気持ちが、\nこんなにも大きい、ということに						
+SeasonalTalkEvent_011_00_010ID	20	Sophie	ソフィー	！　そうだったんだ……！						
+SeasonalTalkEvent_011_00_010ID	21	Plachta	プラフタ	私が先に答えにたどり着いたのは、\nきっとあの経験があったからでしょう						
+SeasonalTalkEvent_011_00_010ID	22	Plachta	プラフタ	そして……きっと今のソフィーも、\n同じことを考えているのでは？						
+SeasonalTalkEvent_011_00_010ID	23	Sophie	ソフィー	うん。きっとそうだと思う……！						
+SeasonalTalkEvent_011_00_010ID	24	Sophie	ソフィー	すごく強い魔物と戦って、\n無事に勝つことができたら……						
+SeasonalTalkEvent_011_00_010ID	25	Sophie	ソフィー	いつもお世話になってるプラフタに、\nちゃんとお返しができるんじゃないかって思ったの！						
+SeasonalTalkEvent_011_00_010ID	26	Sophie	ソフィー	プラフタのおかげで、こんなに強くなれてる。\n足りないところもあるけど、少しずつ前に進めてる						
+SeasonalTalkEvent_011_00_010ID	27	Sophie	ソフィー	だから、ありがとう！　これからもよろしく！\nそんなあたしの気持ちを、チョコに込めたいんだ！						
+SeasonalTalkEvent_011_00_010ID	28	Plachta	プラフタ	……なるほど。空回っているような気もしますが、\nソフィーの考えはよく分かりました						
+SeasonalTalkEvent_011_00_010ID	29	Plachta	プラフタ	となれば。私も一緒に戦わないといけませんね						
+SeasonalTalkEvent_011_00_010ID	30	Sophie	ソフィー	えっ？						
+SeasonalTalkEvent_011_00_010ID	31	Plachta	プラフタ	おや、何を驚いているのですか？						
+SeasonalTalkEvent_011_00_010ID	32	Plachta	プラフタ	今のソフィーの話の通りなら……						
+SeasonalTalkEvent_011_00_010ID	33	Plachta	プラフタ	私からソフィーへの想いも、\nこの戦いを通じて強まるはずです						
+SeasonalTalkEvent_011_00_010ID	34	Plachta	プラフタ	一人で戦うなんて言わせませんよ、ソフィー！						
+SeasonalTalkEvent_011_00_010ID	35	Sophie	ソフィー	プラフタ……！						
+SeasonalTalkEvent_011_00_010ID	36	Sophie	ソフィー	っ！　来た……！						
+SeasonalTalkEvent_011_00_010ID	37	Plachta	プラフタ	さあ、行きましょう！						
+SeasonalTalkEvent_011_00_010ID	38	Sophie	ソフィー	うんっ！						
+SeasonalTalkEvent_011_00_011ID	0	Plachta	プラフタ	――まったく。いきなりアトリエを飛び出した時は\n何事かと思いましたよ						
+SeasonalTalkEvent_011_00_011ID	1	Sophie	ソフィー	うう。それについてはごめんなさい……						
+SeasonalTalkEvent_011_00_011ID	2	Plachta	プラフタ	ソフィーの実力は認めていますが、\nそれでも一人で戦うなんて、無茶というものです						
+SeasonalTalkEvent_011_00_011ID	3	Plachta	プラフタ	私がついていなかったら、どうなっていたか。\nしっかり反省してください、ソフィー						
+SeasonalTalkEvent_011_00_011ID	4	Sophie	ソフィー	ううっ。さっきまでプラフタも\n納得してくれてた感じだったのに！						
+SeasonalTalkEvent_011_00_011ID	5	Plachta	プラフタ	あなたの考えに共感した、というだけです。\nそれとこれとは話が違いますよ						
+SeasonalTalkEvent_011_00_011ID	6	Sophie	ソフィー	そ、そうだよね……。\n無茶なことしちゃってごめん！						
+SeasonalTalkEvent_011_00_011ID	7	Plachta	プラフタ	ふふ。まぁ、説教はこのくらいで。\nチョコ作りに集中していきましょうか						
+SeasonalTalkEvent_011_00_011ID	8	Sophie	ソフィー	うん、頑張る！						
+SeasonalTalkEvent_011_00_011ID	9	Sophie	ソフィー	……なんていうかさ。\nこんな気持ち、はじめてかも						
+SeasonalTalkEvent_011_00_011ID	10	Sophie	ソフィー	リンデ祭のことは、前から知ってたし。\nどういう由来があるのかも分かってた						
+SeasonalTalkEvent_011_00_011ID	11	Sophie	ソフィー	でも、お祭りの意味とか、込めるべき想いとか、\nそういうのに、正面から向き合ったのは……						
+SeasonalTalkEvent_011_00_011ID	12	Plachta	プラフタ	今回が初めて、ということですね。\n私も同じですよ、ソフィー						
+SeasonalTalkEvent_011_00_011ID	13	Plachta	プラフタ	錬金術士としても大切なことを、\nまた１つ、手に入れられた気がします						
+SeasonalTalkEvent_011_00_011ID	14	Sophie	ソフィー	うん！　あたしも成長できたよ！						
+SeasonalTalkEvent_011_00_011ID	15	Sophie	ソフィー	あとは二人で、美味しいチョコを贈り合うだけ。\n完成するまでよろしくね、プラフタ！						
+SeasonalTalkEvent_011_00_011ID	16	Plachta	プラフタ	ええ。こちらこそ、よろしくお願いします						
+SeasonalTalkEvent_011_00_011ID	17	Sophie	ソフィー	――でっきた～！　チョコ、完成！						
+SeasonalTalkEvent_011_00_011ID	18	Plachta	プラフタ	お疲れさまでした、ソフィー。\nでは早速交換しましょうか						
+SeasonalTalkEvent_011_00_011ID	19	Plachta	プラフタ	おっと、その前に。\n少し待ってもらえますか？						
+SeasonalTalkEvent_011_00_011ID	20	Sophie	ソフィー	うん？　いいけど、どうしたの？						
+SeasonalTalkEvent_011_00_011ID	21	Plachta	プラフタ	今日、私が作っていた箱があったでしょう。\nあの箱に入れて渡したいなと						
+SeasonalTalkEvent_011_00_011ID	22	Sophie	ソフィー	あっ！　そういえば作ってたね！						
+SeasonalTalkEvent_011_00_011ID	23	Plachta	プラフタ	あれも私なりの、想いを伝える方法の１つなのです。\n細やかな心遣いも、必要なことだと思ったので						
+SeasonalTalkEvent_011_00_011ID	24	Sophie	ソフィー	あ！　だからあの時、\n手掛かりは目の前にあるって……！						
+SeasonalTalkEvent_011_00_011ID	25	Sophie	ソフィー	それならあたしも作りたいな！\nプラフタ、ちょっと待っててくれる！？						
+SeasonalTalkEvent_011_00_011ID	26	Plachta	プラフタ	ふふふ。ゆっくりでいいですよ						
+SeasonalTalkEvent_011_00_011ID	27	Sophie	ソフィー	ありがとう！　あ、それとさ！						
+SeasonalTalkEvent_011_00_011ID	28	Sophie	ソフィー	リンデ祭の本番の日に、\nまた一緒に街に出て、チョコを食べに行かない？						
+SeasonalTalkEvent_011_00_011ID	29	Plachta	プラフタ	いいですね。\nぜひ一緒に回りましょう！						
+SeasonalTalkEvent_011_00_011ID	30	Sophie	ソフィー	えへへ、うん！\n楽しみだなぁ！						
+SeasonalTalkEvent_011_00_012ID	0	Plachta	プラフタ	ソフィー、あの屋台を見てください！\n見たことない形のチョコがありますよ						
+SeasonalTalkEvent_011_00_012ID	1	Sophie	ソフィー	本当だ！　あれどうやって作ってるんだろう？						
+SeasonalTalkEvent_011_00_012ID	2	Plachta	プラフタ	かなりの技術が必要そうですね。\nどんなレシピなのか、興味をそそられます						
+SeasonalTalkEvent_011_00_012ID	3	Sophie	ソフィー	それで言うとさ、さっき食べたチョコも\n初めて食べる味だったよね！						
+SeasonalTalkEvent_011_00_012ID	4	Sophie	ソフィー	あの味って、どう再現したらいいんだろ？\n多分、あれとあれを混ぜて作れば……						
+SeasonalTalkEvent_011_00_012ID	5	Plachta	プラフタ	アトリエに戻ったら、早速試作してみましょうか						
+SeasonalTalkEvent_011_00_012ID	6	Sophie	ソフィー	うん！　楽しみだなー！						
+SeasonalTalkEvent_011_00_012ID	7	Plachta	プラフタ	では、少し休憩しませんか？\n試作の計画も練っておきたいですし						
+SeasonalTalkEvent_011_00_012ID	8	Sophie	ソフィー	そうだね。あっちで休もうか！						
+SeasonalTalkEvent_011_00_012ID	9	Sophie	ソフィー	……ふふふ						
+SeasonalTalkEvent_011_00_012ID	10	Plachta	プラフタ	ん？　どうかしましたか、ソフィー？						
+SeasonalTalkEvent_011_00_012ID	11	Sophie	ソフィー	あのね。プラフタからもらった\nチョコのことを思い出してたんだ						
+SeasonalTalkEvent_011_00_012ID	12	Sophie	ソフィー	リンデ祭も、ついに本番って感じでさ。\nたくさん美味しいチョコを食べ歩いてきたけど……						
+SeasonalTalkEvent_011_00_012ID	13	Sophie	ソフィー	それでも、プラフタの手作りチョコが、\n一番美味しかった気がするなって！						
+SeasonalTalkEvent_011_00_012ID	14	Plachta	プラフタ	ふふ、そうですか。それはありがたいです						
+SeasonalTalkEvent_011_00_012ID	15	Plachta	プラフタ	実は私も、ソフィーのくれたチョコが\n一番好みですよ						
+SeasonalTalkEvent_011_00_012ID	16	Sophie	ソフィー	本当？　よかったぁ！						
+SeasonalTalkEvent_011_00_012ID	17	Sophie	ソフィー	ああー。あのチョコのこと思い出したら、\nまた食べたくなってきちゃったよ……						
+SeasonalTalkEvent_011_00_012ID	18	Sophie	ソフィー	ねぇプラフタ。もう１回作ってもらえないかな？						
+SeasonalTalkEvent_011_00_012ID	19	Plachta	プラフタ	そう言ってもらえると、嬉しいですね。\nでも、しばらくはお預けということで						
+SeasonalTalkEvent_011_00_012ID	20	Sophie	ソフィー	え？　どうして？						
+SeasonalTalkEvent_011_00_012ID	21	Plachta	プラフタ	あのチョコは、リンデ祭に向けて、\nという前提があったからこそ作れたチョコです						
+SeasonalTalkEvent_011_00_012ID	22	Plachta	プラフタ	ですから、次のリンデ祭までは\nお預けということで						
+SeasonalTalkEvent_011_00_012ID	23	Sophie	ソフィー	ええっ？\nそんなに待てないよ～！						
+SeasonalTalkEvent_011_00_Favor_001ID	0	Plachta	プラフタ	おや、どうしましたかソフィー？　……ふむ、\nこれもチョコ作りの手掛かりになるかもしれないと						
+SeasonalTalkEvent_011_00_Favor_001ID	1	Plachta	プラフタ	ありがとうございます。\nこの調子で色々渡してもらえますか？						
+SeasonalTalkEvent_011_00_Favor_001ID	2	Plachta	プラフタ	一緒に、私たちのとっておきを見つけましょう						
+SeasonalTalkEvent_011_00_Favor_002ID	0	Plachta	プラフタ	また持ってきてくれたのですね。\n素材を集めるのに無理はしていませんか？						
+SeasonalTalkEvent_011_00_Favor_002ID	1	Plachta	プラフタ	ソフィーは人のために無理をしがちですからね。\n……まったく、心配する身にもなってください						
+SeasonalTalkEvent_011_00_Favor_002ID	2	Plachta	プラフタ	とにかく、無事に帰ってくること。\nそれさえ守っていただければ、私は十分なのですから						
+SeasonalTalkEvent_011_00_Favor_003ID	0	Plachta	プラフタ	ハイディやランツェもチョコを用意していましたね。\n家族で贈り合ったりもするのでしょうか						
+SeasonalTalkEvent_011_00_Favor_003ID	1	Plachta	プラフタ	おや、「あたしたちも家族だよ」……ですか？\n……ふふ、そうですね						
+SeasonalTalkEvent_011_00_Favor_003ID	2	Plachta	プラフタ	「そしたら、長生きなプラフタは大おばあちゃん？」\nこら、怒りますよソフィー！						
+SeasonalTalkEvent_011_00_Favor_004ID	0	Plachta	プラフタ	おや、みんなの話を聞いてくるのでは\nなかったのですか？　私からは助言しませんよ						
+SeasonalTalkEvent_011_00_Favor_004ID	1	Plachta	プラフタ	贈りものは嬉しいですが、それはそれ、これはこれ。\nほら、気を付けて行ってらっしゃい						
+SeasonalTalkEvent_011_00_Favor_004ID	2	Plachta	プラフタ	……ふふ。次はいつ来ますかね。\nどこまでの助言ならソフィーの成長に……ぶつぶつ						
+SeasonalTalkEvent_011_00_Favor_005ID	0	Plachta	プラフタ	チョコに込める意味、ですか？　そうですね、\n１つに決まっているわけではないみたいですよ						
+SeasonalTalkEvent_011_00_Favor_005ID	1	Plachta	プラフタ	家族への感謝、無事を祈る想い、恋人への愛情……						
+SeasonalTalkEvent_011_00_Favor_005ID	2	Plachta	プラフタ	「それならあたしは愛情を込める」！？　それは……\n悪くありませんね……いえ、なんでもありません！						
+SeasonalTalkEvent_011_00_Favor_006ID	0	Plachta	プラフタ	しばらく見ませんでしたね。\nどこへ行っていたのですか、ソフィー？						
+SeasonalTalkEvent_011_00_Favor_006ID	1	Plachta	プラフタ	……少し考えごとを？　私がいるのに、どうして一人で\n考え込むのです？　相談してくれれば……						
+SeasonalTalkEvent_011_00_Favor_006ID	2	Plachta	プラフタ	……あ。ああ、なるほど……私へのチョコについて\n考えていたのですね……ふふ						
+SeasonalTalkEvent_011_00_Favor_007ID	0	Plachta	プラフタ	ふふ……チョコ作りの方針が定まってよかったですね。\n私も、気持ちが通じ合った気がして嬉しかったです						
+SeasonalTalkEvent_011_00_Favor_007ID	1	Plachta	プラフタ	……え？　「方針が定まったから、\nもう贈りものもやめるかも」？						
+SeasonalTalkEvent_011_00_Favor_007ID	2	Plachta	プラフタ	ダ、ダメです！　まだリンデ祭は終わってません。\nこれでおしまいなんて、その……寂しいじゃないですか						
+SeasonalTalkEvent_011_00_Favor_008ID	0	Plachta	プラフタ	……え？\n「贈りもののお礼にチョコが欲しい」、ですか？						
+SeasonalTalkEvent_011_00_Favor_008ID	1	Plachta	プラフタ	次のリンデ祭までお預けだと言いましたよね。\nねだったって出ません						
+SeasonalTalkEvent_011_00_Favor_008ID	2	Plachta	プラフタ	また来年、必ずお渡ししますから。\nその次の年も、そのまた次の年も……						
+SeasonalTalkEvent_011_00_Favor_008ID	3	Plachta	プラフタ	だから、その……ずっと一緒に居ましょう						
+SeasonalTalkEvent_011_00_Favor_008ID	4	Plachta	プラフタ	……ああもう、私だって本当はもっとあなたのチョコが\n食べたいんですから						
+SeasonalTalkEvent_011_00_Favor_008ID	5	Plachta	プラフタ	でも、歯止めが効かなくなってしまいそうなので。\nきっとこの体の食欲のせいです						
+SeasonalTalkEvent_011_00_Favor_008ID	6	Plachta	プラフタ	ですからその、また来年。一緒にまた食べましょう。\n約束、ですよ						

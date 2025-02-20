@@ -1,0 +1,345 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+Date_MCHARA_B_00_01ID	0	Ayesha	アーシャ	ヴァレリアさーん。いますかー？						
+Date_MCHARA_B_00_01ID	1	Valeria	ヴァレリア	あら、アーシャじゃない。\nどうかしたの？						
+Date_MCHARA_B_00_01ID	2	Ayesha	アーシャ	実は急ぎで薬を作る必要があって、\n薬草集めに同行をお願いしたいんです						
+Date_MCHARA_B_00_01ID	3	Valeria	ヴァレリア	護衛の依頼ね、もちろん構わないわよ！\nよく声をかけてくれたわね						
+Date_MCHARA_B_00_01ID	4	Ayesha	アーシャ	ありがとうございます！\nでは早速、向かいましょう！						
+Date_MCHARA_B_00_01ID	5	Valeria	ヴァレリア	――急ぎって言ってたけど、\nなんの薬を作るの？						
+Date_MCHARA_B_00_01ID	6	Ayesha	アーシャ	風邪に効く薬です						
+Date_MCHARA_B_00_01ID	7	Valeria	ヴァレリア	え、アーシャ、風邪引いてるの？\nそれなら休まないとダメじゃない						
+Date_MCHARA_B_00_01ID	8	Ayesha	アーシャ	あ、いえ。わたしではなくて。\n街で小さな女の子からお願いされたんです						
+Date_MCHARA_B_00_01ID	9	Ayesha	アーシャ	お姉ちゃんが風邪を引いたから、\n風邪を治す薬を作ってほしいって						
+Date_MCHARA_B_00_01ID	10	Valeria	ヴァレリア	なんだ、そういうこと。\nお姉ちゃん思いの優しい妹ね						
+Date_MCHARA_B_00_01ID	11	Valeria	ヴァレリア	風邪を引いたときって、\n身体が重くなって、いつもより元気が\n出なくなるのよね？　多分						
+Date_MCHARA_B_00_01ID	12	Valeria	ヴァレリア	そういうとき、周りの人が\n薬の他にしてあげられることって\n何かないかしら						
+Date_MCHARA_B_00_01ID	13		選択肢	体調崩されたことないんですか？						
+Date_MCHARA_B_00_01ID	14	Ayesha	アーシャ	もしかして……\nヴァレリアさんって、体調を崩されたこと\nないんですか？						
+Date_MCHARA_B_00_01ID	15	Valeria	ヴァレリア	ええ。ないわね。\n丈夫な身体は私の自慢！						
+Date_MCHARA_B_00_01ID	16	Ayesha	アーシャ	わぁ……すごいですね。\n生まれつきでしょうか。それとも、\n普段の食事に秘密があったり……						
+Date_MCHARA_B_00_01ID	17	Valeria	ヴァレリア	記憶がないから、\n生まれつきかどうかについては\nなんとも言えないわね						
+Date_MCHARA_B_00_01ID	18	Valeria	ヴァレリア	でもきっと、普段の食事のおかげかも\nしれないわ！　フロッケの作る料理、\nとっても美味しいから！						
+Date_MCHARA_B_00_01ID	19		選択肢	自分がされて嬉しいことを考えましょう						
+Date_MCHARA_B_00_01ID	20	Ayesha	アーシャ	自分がされて嬉しいことを考えてみるのは\nどうでしょうか。それはきっと、\n相手にとっても嬉しいことだと思います						
+Date_MCHARA_B_00_01ID	21	Valeria	ヴァレリア	なるほど、いい考えねアーシャ！\nそうね、私なら……						
+Date_MCHARA_B_00_01ID	22	Valeria	ヴァレリア	みんなと、美味しいお肉をたくさん食べる\nことかしら！　好きなものを食べたら\n元気出るわよね！						
+Date_MCHARA_B_00_01ID	23	Ayesha	アーシャ	お肉……は人によるかもしれません。\nでも、誰かがそばにいてくれるっていうのは\nとても嬉しいことだと思います						
+Date_MCHARA_B_00_01ID	24	Valeria	ヴァレリア	確かに、それだけでも元気が出るかも……！\n少しでも辛さや寂しさが和らぐよう、\nそばで手を握っていてあげたいわ						
+Date_MCHARA_B_00_01ID	25		選択肢	どうしてそう思ったんですか？						
+Date_MCHARA_B_00_01ID	26	Ayesha	アーシャ	どうしてそう思ったんですか？\n何か、そう考えるようなことが\nあったんでしょうか						
+Date_MCHARA_B_00_01ID	27	Valeria	ヴァレリア	フロッケが熱を出して辛そうだったことが\nあったの。寝ている姿を見てて、\nそう思ったことがあるわ						
+Date_MCHARA_B_00_01ID	28	Ayesha	アーシャ	そうだったんですね。でもきっと\nフロッケちゃんは、ヴァレリアさんが\nそばにいてくれて嬉しかったと思います						
+Date_MCHARA_B_00_01ID	29	Valeria	ヴァレリア	……私は薬も料理も作れないから、\nせめてそばにいようって思ったの						
+Date_MCHARA_B_00_01ID	30	Valeria	ヴァレリア	それだけだったけれど、それでも\n辛そうなフロッケの支えになれていたのなら\n……よかったわ						
+Date_MCHARA_B_00_01ID	31	Valeria	ヴァレリア	あっ、大変！　おしゃべりしている\n暇なかったわ。薬草集めに行くわよ！						
+Date_MCHARA_B_00_01ID	32	Ayesha	アーシャ	はい！\nよろしくお願いします、ヴァレリアさん！						
+Date_MCHARA_B_00_01ID	33	Valeria	ヴァレリア	目当ての薬草はこの辺りに生えてるの？						
+Date_MCHARA_B_00_01ID	34	Ayesha	アーシャ	はい。確かこの付近に……あっ！\n見つけました！						
+Date_MCHARA_B_00_01ID	35	Valeria	ヴァレリア	待ってアーシャ。\n移動するときは一声かけてからね！						
+Date_MCHARA_B_00_01ID	36		選択肢	大丈夫ですよ！						
+Date_MCHARA_B_00_01ID	37	Ayesha	アーシャ	大丈夫ですよ！\nいざとなったらヴァレリアさんが\n守ってくれますもんね！						
+Date_MCHARA_B_00_01ID	38	Valeria	ヴァレリア	任せときなさい。襲ってくるやつがいたら\n刺身よ刺身						
+Date_MCHARA_B_00_01ID	39	Ayesha	アーシャ	ヴァレリアさん、頼りにしてますよ！						
+Date_MCHARA_B_00_01ID	40		選択肢	あ、すみません						
+Date_MCHARA_B_00_01ID	41	Ayesha	アーシャ	あ、すみません						
+Date_MCHARA_B_00_01ID	42	Valeria	ヴァレリア	風邪の子が心配なのは分かるけど、\nアーシャがケガしたら大変なんだから						
+Date_MCHARA_B_00_01ID	43	Ayesha	アーシャ	そう、ですよね。ちょっとうかつでした						
+Date_MCHARA_B_00_01ID	44	Valeria	ヴァレリア	ううん。分かってくれたらいいの。\n次からは気を付けてね！						
+Date_MCHARA_B_00_01ID	45		選択肢	はい、分かりました！						
+Date_MCHARA_B_00_01ID	46	Ayesha	アーシャ	はい、分かりました！						
+Date_MCHARA_B_00_01ID	47	Valeria	ヴァレリア	うん、いい返事！						
+Date_MCHARA_B_00_01ID	48	Valeria	ヴァレリア	こういうのは、護衛する側だけじゃなく\n護衛される側の意識も大切だから。\n私の経験則だけど						
+Date_MCHARA_B_00_01ID	49	Valeria	ヴァレリア	それじゃ、私が周りを見張ってるから、\nその間に薬草を集めちゃって						
+Date_MCHARA_B_00_01ID	50	Ayesha	アーシャ	はい！\nえっと、風邪に効くのはこれとこれと……						
+Date_MCHARA_B_00_01ID	51	Valeria	ヴァレリア	……っ！　アーシャ！						
+Date_MCHARA_B_00_01ID	52	Ayesha	アーシャ	えっ						
+Date_MCHARA_B_00_01ID	53	Valeria	ヴァレリア	アーシャ、ケガはない？						
+Date_MCHARA_B_00_01ID	54	Ayesha	アーシャ	は、はい。ありがとうございます						
+Date_MCHARA_B_00_01ID	55	Valeria	ヴァレリア	ふぅ、危なかった。\n帰りは絶対に私のそばを\n離れちゃダメだからね？						
+Date_MCHARA_B_00_01ID	56	Ayesha	アーシャ	はい！						
+Date_MCHARA_B_00_01ID	57	Ayesha	アーシャ	はい、風邪に効くお薬だよ。\nお姉ちゃんに飲ませてあげて						
+Date_MCHARA_B_00_01ID	58		子ども	ありがとう！　アーシャお姉さん！						
+Date_MCHARA_B_00_01ID	59	Valeria	ヴァレリア	転ばないように気を付けるのよー						
+Date_MCHARA_B_00_01ID	60	Ayesha	アーシャ	ヴァレリアさん、ありがとうございました。\nこれ傷薬です。使ってください						
+Date_MCHARA_B_00_01ID	61	Valeria	ヴァレリア	ありがと。\nアーシャにはいつも助けられてるわね						
+Date_MCHARA_B_00_01ID	62	Ayesha	アーシャ	そんな、わたしのほうこそです						
+Date_MCHARA_B_00_01ID	63	Valeria	ヴァレリア	アーシャってすごく頼りになって……\nなんだか妹みたいよね！						
+Date_MCHARA_B_00_01ID	64		選択肢	わたしが妹ですか……？						
+Date_MCHARA_B_00_01ID	65	Ayesha	アーシャ	わたしが妹ですか……？						
+Date_MCHARA_B_00_01ID	66	Valeria	ヴァレリア	だって私のほうが年上でしょ？　多分。\nだから私がお姉ちゃん！						
+Date_MCHARA_B_00_01ID	67	Ayesha	アーシャ	なるほど……！\n確かにお姉ちゃんかもしれません！						
+Date_MCHARA_B_00_01ID	68		選択肢	ヴァレリアさんがお姉ちゃん？						
+Date_MCHARA_B_00_01ID	69	Ayesha	アーシャ	じゃあ、\nヴァレリアさんがお姉ちゃんですか？						
+Date_MCHARA_B_00_01ID	70	Valeria	ヴァレリア	そうよ！　私がお姉ちゃんよ！						
+Date_MCHARA_B_00_01ID	71	Valeria	ヴァレリア	……え？　もしかして嫌なの？						
+Date_MCHARA_B_00_01ID	72	Ayesha	アーシャ	あ、いえ、そうじゃないんです。\nただ、今まで考えたことがなかったので						
+Date_MCHARA_B_00_01ID	73		選択肢	ヴァレリアさんも頼りになりますよ！						
+Date_MCHARA_B_00_01ID	74	Ayesha	アーシャ	ヴァレリアさんも頼りになりますよ！						
+Date_MCHARA_B_00_01ID	75	Valeria	ヴァレリア	まあね！　わたしはお姉ちゃんだから！\n頼りになって当然よ！						
+Date_MCHARA_B_00_01ID	76	Ayesha	アーシャ	さっきも魔物を倒すヴァレリアさん、\nすごくかっこよかったです！						
+Date_MCHARA_B_00_01ID	77	Valeria	ヴァレリア	そう？　私って姉の素質があるのかしら！						
+Date_MCHARA_B_00_01ID	78	Ayesha	アーシャ	でもどうして急に、\nわたしが妹みたいだと思ったんですか？						
+Date_MCHARA_B_00_01ID	79	Valeria	ヴァレリア	風邪を引いた姉を心配する子を見て\n思ったの。私の傷を手当てしてくれるときの\nアーシャに似てるなーって						
+Date_MCHARA_B_00_01ID	80	Valeria	ヴァレリア	それでよく考えたら、\n私のが年上だって気付いたのよ！						
+Date_MCHARA_B_00_01ID	81	Valeria	ヴァレリア	困ったときはいつでも頼ってね。\nなんてったって私はお姉ちゃんなんだから！						
+Date_MCHARA_B_00_01ID	82	Valeria	ヴァレリア	なんなら「ヴァレリアお姉ちゃん」って\n呼んでもいいのよ？						
+Date_MCHARA_B_00_01ID	83	Ayesha	アーシャ	あ、えっと……はい。\nヴァ、ヴァレリアお姉ちゃん！						
+Date_MCHARA_B_00_01ID	84	Valeria	ヴァレリア	…………！　なんか……いいわね、これ！\n家でも一応、長女だけど\nぜんぜん長女らしくはなかったし						
+Date_MCHARA_B_00_01ID	85	Ayesha	アーシャ	いつもはお姉ちゃんって呼ばれる側なので\n少し照れますけど……わたしも嬉しいです！						
+Date_MCHARA_B_00_01ID	86	Valeria	ヴァレリア	なら遠慮しないで甘えてきて！\n姉としてたくさん甘やかしてあげる！						
+Date_MCHARA_B_00_01ID	87	Ayesha	アーシャ	……はい！　ヴァレリアお姉ちゃん！						
+Date_MCHARA_B_00_02ID	0	Ayesha	アーシャ	ヴァレリアさーん！\nいますかー？						
+Date_MCHARA_B_00_02ID	1	Valeria	ヴァレリア	あら、アーシャじゃない。\nまた薬草を集めに行くの？						
+Date_MCHARA_B_00_02ID	2	Ayesha	アーシャ	いえ、今日はただ遊びに来たんです。\nその……ヴァレリアお姉ちゃんに会いたくて						
+Date_MCHARA_B_00_02ID	3	Valeria	ヴァレリア	ふふ、何それ。\nまったく、寂しがりやな妹ね！						
+Date_MCHARA_B_00_02ID	4	Valeria	ヴァレリア	いいわよ。今日はなんの予定もないし、\nヴァレリアお姉ちゃんが相手してあげる！						
+Date_MCHARA_B_00_02ID	5	Ayesha	アーシャ	本当ですか？\nふふっ、嬉しいです！						
+Date_MCHARA_B_00_02ID	6	Valeria	ヴァレリア	それじゃあ何をしようかしら？\nお姉ちゃんにしてほしいことはある？						
+Date_MCHARA_B_00_02ID	7		選択肢	うーん……ちょっと考えてみます！						
+Date_MCHARA_B_00_02ID	8	Ayesha	アーシャ	うーん……ちょっと考えてみます！						
+Date_MCHARA_B_00_02ID	9	Valeria	ヴァレリア	なんでもいいわよ。\n本当にちょっとしたことでもいいからね						
+Date_MCHARA_B_00_02ID	10	Valeria	ヴァレリア	相手してあげる！　とは言ったけれど、\n姉になったらなったで、私から何を\nしてあげればいいか分からないの						
+Date_MCHARA_B_00_02ID	11	Valeria	ヴァレリア	うーん、もどかしいわ……！\nでも――						
+Date_MCHARA_B_00_02ID	12		選択肢	一緒にお買い物したいです！						
+Date_MCHARA_B_00_02ID	13	Ayesha	アーシャ	一緒にお買い物したいです！						
+Date_MCHARA_B_00_02ID	14	Valeria	ヴァレリア	それくらいお安い御用よ。\nどこにだってついてってあげるんだから						
+Date_MCHARA_B_00_02ID	15	Valeria	ヴァレリア	なんならアーシャの欲しいもの、\n全部買ってあげちゃう！						
+Date_MCHARA_B_00_02ID	16	Ayesha	アーシャ	さすがにそこまでしてもらうわけには……\nでもお姉ちゃんとお買い物、楽しみです！						
+Date_MCHARA_B_00_02ID	17		選択肢	なんでもいいんですか？						
+Date_MCHARA_B_00_02ID	18	Ayesha	アーシャ	なんでもいいんですか？						
+Date_MCHARA_B_00_02ID	19	Valeria	ヴァレリア	ええ、もちろん！\n妹のためならなんだってしてあげるわよ！						
+Date_MCHARA_B_00_02ID	20	Ayesha	アーシャ	ヴァレリアお姉ちゃん……！\nかっこいいです！						
+Date_MCHARA_B_00_02ID	21	Valeria	ヴァレリア	ふふ、そうでしょそうでしょ？\nこれがお姉ちゃんってものよ！						
+Date_MCHARA_B_00_02ID	22	Valeria	ヴァレリア	なんだか不思議な感じ。\n妹のためならなんだってできちゃいそう						
+Date_MCHARA_B_00_02ID	23	Ayesha	アーシャ	わたしもです。つい甘えたくなって……\nお姉ちゃんがいるって、\nこんな感じなんですね！						
+Date_MCHARA_B_00_02ID	24	Valeria	ヴァレリア	遠慮なんてしなくていいわよ。\n全力でお姉ちゃんに甘えていいんだからね！						
+Date_MCHARA_B_00_02ID	25	Ayesha	アーシャ	はい！　ヴァレリアお姉ちゃん！						
+Date_MCHARA_B_00_02ID	26	Valeria	ヴァレリア	なーに？　私のかわいい妹！\nふふふふ！						
+Date_MCHARA_B_00_02ID	27	Heidi	ハイディ	……えーっと、どういう状況？\n今、「ヴァレリアお姉ちゃん」って\n言ってなかった？						
+Date_MCHARA_B_00_02ID	28	Flocke	フロッケ	フロッケも混乱してます……\nただ二人とも、すごく幸せそうです						
+Date_MCHARA_B_00_02ID	29	Ayesha	アーシャ	あっ、ヴァレリアお姉ちゃん。\nハイディさんとフロッケちゃんが\n帰ってきました！						
+Date_MCHARA_B_00_02ID	30	Heidi	ハイディ	やっぱり「お姉ちゃん」って……						
+Date_MCHARA_B_00_02ID	31	Flocke	フロッケ	あの、これはいったい……？						
+Date_MCHARA_B_00_02ID	32	Valeria	ヴァレリア	見て分からない？\n私がアーシャの姉になったのよ！\n妹、増えました						
+Date_MCHARA_B_00_02ID	33	Flocke	フロッケ	ヴァレリアさんが、\nアーシャさんのお姉さん……？						
+Date_MCHARA_B_00_02ID	34	Heidi	ハイディ	印象としては逆なんだよなぁ						
+Date_MCHARA_B_00_02ID	35	Valeria	ヴァレリア	私のほうが多分年上なんだから当然でしょ						
+Date_MCHARA_B_00_02ID	36	Ayesha	アーシャ	ヴァレリアさんは\nとても頼りになるお姉ちゃんです！\nおかしなことなんてありませんよ						
+Date_MCHARA_B_00_02ID	37	Valeria	ヴァレリア	なんてできた妹なのかしら！\nけどアーシャだっていつも頼りになるし、\n私の自慢の妹よ！						
+Date_MCHARA_B_00_02ID	38		選択肢	ヴァレリアお姉ちゃんこそです！						
+Date_MCHARA_B_00_02ID	39	Ayesha	アーシャ	ヴァレリアお姉ちゃんこそ、\nとっても強い、わたしの自慢の姉です！						
+Date_MCHARA_B_00_02ID	40	Valeria	ヴァレリア	んもうっ！\nアーシャはほめ上手なんだから！						
+Date_MCHARA_B_00_02ID	41	Ayesha	アーシャ	ただ思ったことを言ってるだけですよ						
+Date_MCHARA_B_00_02ID	42	Valeria	ヴァレリア	またまた！　本当、アーシャは\n私を喜ばせてくれる天才ね！						
+Date_MCHARA_B_00_02ID	43		選択肢	なんだか照れちゃいます……						
+Date_MCHARA_B_00_02ID	44	Ayesha	アーシャ	なんだか照れちゃいます……						
+Date_MCHARA_B_00_02ID	45	Valeria	ヴァレリア	それにすっごくかわいくて、\n頼りになる最高の妹なんだから！						
+Date_MCHARA_B_00_02ID	46	Ayesha	アーシャ	そんな……ほめたって何も出ませんよー						
+Date_MCHARA_B_00_02ID	47	Valeria	ヴァレリア	アーシャの笑顔が見られるわ！\nそれだけで私は幸せよ！						
+Date_MCHARA_B_00_02ID	48		選択肢	お姉ちゃんの真似をしてるんです！						
+Date_MCHARA_B_00_02ID	49	Ayesha	アーシャ	それはお姉ちゃんの真似をしてるからです！						
+Date_MCHARA_B_00_02ID	50	Valeria	ヴァレリア	アーシャったら！\n嬉しいこと言ってくれるじゃない！\nお世辞だとしても嬉しいわ						
+Date_MCHARA_B_00_02ID	51	Ayesha	アーシャ	お世辞なんかじゃないですよ。\nわたしもお姉ちゃんみたいになりたいです						
+Date_MCHARA_B_00_02ID	52	Valeria	ヴァレリア	そうなの？\nなら今度、色んなことを教えてあげる！						
+Date_MCHARA_B_00_02ID	53	Heidi	ハイディ	異常なほどに仲がいいな……\nだんだん本当の姉妹に見えてきたかも……？						
+Date_MCHARA_B_00_02ID	54	Flocke	フロッケ	二人とも姉妹になれたことが、\n本当に嬉しいんですね！						
+Date_MCHARA_B_00_02ID	55	Valeria	ヴァレリア	姉として振る舞うのって、\nこんな素敵なことなのね！\nなんだろう、このしっくりきてる感						
+Date_MCHARA_B_00_02ID	56	Valeria	ヴァレリア	ねえ、ハイディ、フロッケ。\nこれからは私を姉として\nもっと甘えていいわよ						
+Date_MCHARA_B_00_02ID	57	Heidi	ハイディ	まぁ家族構成的には、あんたが長女\nではあるけど、私は……\n相棒としての立ち位置が強いからなぁ						
+Date_MCHARA_B_00_02ID	58	Valeria	ヴァレリア	遠慮しなくていいのよ。\nほら、こっちに来なさい						
+Date_MCHARA_B_00_02ID	59	Ayesha	アーシャ	お二人も一緒に、\nヴァレリアお姉ちゃんに甘えましょう！						
+Date_MCHARA_B_00_02ID	60	Flocke	フロッケ	……ハイディさん。\nフロッケたちも本格的に妹になりましょう						
+Date_MCHARA_B_00_02ID	61	Heidi	ハイディ	え、本気？						
+Date_MCHARA_B_00_02ID	62	Flocke	フロッケ	フロッケも、妹として\n姉に甘えたい心はあります！						
+Date_MCHARA_B_00_02ID	63	Heidi	ハイディ	そっか、フロッケがそう言うなら						
+Date_MCHARA_B_00_02ID	64	Flocke	フロッケ	……ヴァレリアお姉ちゃん！						
+Date_MCHARA_B_00_02ID	65	Heidi	ハイディ	ヴァ……ヴァレリア姉さん……						
+Date_MCHARA_B_00_02ID	66	Valeria	ヴァレリア	ええ！　私がみんなのお姉ちゃんよ！						
+Date_MCHARA_B_00_02ID	67	Lanze	ランツェ	おうおう、なんだか騒がしいと思ったら……						
+Date_MCHARA_B_00_02ID	68	Lanze	ランツェ	ヴァレリアが姉ちゃん？\nお前ら４人揃って、なにやってんだぁ？						
+Date_MCHARA_B_00_02ID	69	Valeria	ヴァレリア	私に甘えてるのよ！\nねっ、アーシャ						
+Date_MCHARA_B_00_02ID	70		選択肢	お姉ちゃんができたんです！						
+Date_MCHARA_B_00_02ID	71	Ayesha	アーシャ	実は、お姉ちゃんができたんです！						
+Date_MCHARA_B_00_02ID	72	Lanze	ランツェ	はぁ？　なに言ってんだぁ？						
+Date_MCHARA_B_00_02ID	73	Valeria	ヴァレリア	私に妹が増えたのよ！						
+Date_MCHARA_B_00_02ID	74	Valeria	ヴァレリア	なんだか、自然に受け入れられるわ。\n実は私には、本当に妹がいたりして……						
+Date_MCHARA_B_00_02ID	75	Lanze	ランツェ	いや、さっぱり意味が分かんねぇよ……						
+Date_MCHARA_B_00_02ID	76		選択肢	ランツェさんも一緒にどうですか？						
+Date_MCHARA_B_00_02ID	77	Ayesha	アーシャ	ランツェさんも一緒にどうですか？						
+Date_MCHARA_B_00_02ID	78	Lanze	ランツェ	どうって……何をだよ？						
+Date_MCHARA_B_00_02ID	79	Valeria	ヴァレリア	お姉ちゃんである私に甘えるのを、よ！						
+Date_MCHARA_B_00_02ID	80	Lanze	ランツェ	……アーシャでも天使ちゃんでもなく、\nヴァレリアに……？						
+Date_MCHARA_B_00_02ID	81	Valeria	ヴァレリア	何よ、その目						
+Date_MCHARA_B_00_02ID	82	Valeria	ヴァレリア	今の私は、かわいい妹が三人もいる\n頼れるお姉ちゃんなのよ！						
+Date_MCHARA_B_00_02ID	83		選択肢	誰かに甘えるっていいですね						
+Date_MCHARA_B_00_02ID	84	Ayesha	アーシャ	誰かに甘えるっていいですね。\n普段、誰かに甘えることがないので、\nすごく不思議な気分なんです！						
+Date_MCHARA_B_00_02ID	85	Lanze	ランツェ	そうだな。大人になるとなかなか人に\n甘えらんなくなるからなぁ……						
+Date_MCHARA_B_00_02ID	86	Valeria	ヴァレリア	でも、私にならいつでも甘えてくれて\nいいわよ！　お姉ちゃんだもの！						
+Date_MCHARA_B_00_02ID	87	Lanze	ランツェ	アーシャよぅ……\nもっとマシな人選はなかったのか？						
+Date_MCHARA_B_00_02ID	88	Valeria	ヴァレリア	ちょっと！　聞こえてるわよ！						
+Date_MCHARA_B_00_02ID	89	Valeria	ヴァレリア	まあ、今の私にはかわいい妹が\n三人もいるから、痛くも痒くもないわ！						
+Date_MCHARA_B_00_02ID	90	Valeria	ヴァレリア	ふふふ。三人の妹たちに慕われて……\nお姉ちゃんって最高ね！						
+Date_MCHARA_B_00_02ID	91	Lanze	ランツェ	よく分かんねぇが、\nヴァレリアは姉扱いされてぇのか……\nなら、俺も一肌脱いでやるか！						
+Date_MCHARA_B_00_02ID	92	Lanze	ランツェ	よっ、ヴァレリア姉ちゃん！\n俺を弟にしてくれや！						
+Date_MCHARA_B_00_02ID	93	Valeria	ヴァレリア	え？　それは無理よ？						
+Date_MCHARA_B_00_02ID	94	Valeria	ヴァレリア	ランツェは私より年上でしょ						
+Date_MCHARA_B_00_02ID	95	Lanze	ランツェ	おいおい、そりゃねぇぜ！\nおじさんはちょっと乗ってみた\nだけなのによぉ！						
+Date_MCHARA_B_00_03ID	0	Valeria	ヴァレリア	みんな、おはよう！\n今日もお姉ちゃんにたくさん甘えてね！						
+Date_MCHARA_B_00_03ID	1	Ayesha	アーシャ	はい！　たくさん甘えさせてください！						
+Date_MCHARA_B_00_03ID	2	Heidi	ハイディ	もうすっかり、いい夢姉気分、じゃな						
+Date_MCHARA_B_00_03ID	3	Flocke	フロッケ	でも、本当に幸せそうですね！						
+Date_MCHARA_B_00_03ID	4	Valeria	ヴァレリア	さて、今日は妹たちに何をしてあげようかしら。\nもっと姉として尊敬されるためには……						
+Date_MCHARA_B_00_03ID	5	Valeria	ヴァレリア	そうだ！　ねえ、アーシャ。\n私に薬作りを手伝わせてくれない？						
+Date_MCHARA_B_00_03ID	6	Heidi	ハイディ	あんた、薬作りなんてできるの？\nアーシャに迷惑かけるだけじゃ……						
+Date_MCHARA_B_00_03ID	7	Valeria	ヴァレリア	お姉ちゃんにできないことはないわ！						
+Date_MCHARA_B_00_03ID	8	Heidi	ハイディ	なんか相棒、姉に相当なこだわりがあるなぁ。\nアーシャ、断ってもいいからね？						
+Date_MCHARA_B_00_03ID	9	Ayesha	アーシャ	いえ、ぜひお手伝いをお願いします！\n二人でやったほうが速いですから！						
+Date_MCHARA_B_00_03ID	10	Valeria	ヴァレリア	ええ、任せて！\nそれじゃあ早速始めましょう！						
+Date_MCHARA_B_00_03ID	11	Ayesha	アーシャ	（それからヴァレリアさんと\n　薬作りを開始したのですが……）						
+Date_MCHARA_B_00_03ID	12	Ayesha	アーシャ	ヴァレリアお姉ちゃん。\n香り付けの薬草を取ってくれますか？						
+Date_MCHARA_B_00_03ID	13	Valeria	ヴァレリア	えーっと……これかしら？						
+Date_MCHARA_B_00_03ID	14	Ayesha	アーシャ	あ、その隣の薬草ですね						
+Date_MCHARA_B_00_03ID	15	Valeria	ヴァレリア	どれも同じに見えるわ……						
+Date_MCHARA_B_00_03ID	16	Ayesha	アーシャ	あとは全体をゆっくりかき混ぜれば……						
+Date_MCHARA_B_00_03ID	17	Valeria	ヴァレリア	力仕事は私に任せて！\n完璧にかき混ぜてみせるわ						
+Date_MCHARA_B_00_03ID	18	Valeria	ヴァレリア	はぁ～～～！						
+Date_MCHARA_B_00_03ID	19	Ayesha	アーシャ	ああっ、そんなに勢いよくはダメです！\nゆっくり！　ゆっくり混ぜてください！						
+Date_MCHARA_B_00_03ID	20	Ayesha	アーシャ	あまり早く混ぜすぎると、\n悪い反応が起こって……						
+Date_MCHARA_B_00_03ID	21	Valeria	ヴァレリア	な、なにっ！？						
+Date_MCHARA_B_00_03ID	22	Ayesha	アーシャ	今みたいに爆発しちゃうんです……						
+Date_MCHARA_B_00_03ID	23	Valeria	ヴァレリア	けほっ、けほっ！　なんとまぁ						
+Date_MCHARA_B_00_03ID	24	Valeria	ヴァレリア	けほっ……薬作りって難しいのね。\n私が手伝うと逆に迷惑かも						
+Date_MCHARA_B_00_03ID	25	Ayesha	アーシャ	いえ、気にしないでください！\n気持ちだけでも嬉しいです！						
+Date_MCHARA_B_00_03ID	26	Valeria	ヴァレリア	その代わり、料理を作ってあげる！\nずっと集中しててお腹空いてるでしょ！						
+Date_MCHARA_B_00_03ID	27	Valeria	ヴァレリア	待っててね、パパっと作ってくるから！						
+Date_MCHARA_B_00_03ID	28	Ayesha	アーシャ	最後の仕上げに混ぜて……\nくるるん、くるるん。よし、完成！						
+Date_MCHARA_B_00_03ID	29	Ayesha	アーシャ	ヴァレリアさん、遅いな。\nあれから戻って来ないけど、何かあったのかな？						
+Date_MCHARA_B_00_03ID	30	Valeria	ヴァレリア	アーシャ、ごめん……\n料理を作ろうとしたんだけど、失敗しちゃって……						
+Date_MCHARA_B_00_03ID	31	Ayesha	アーシャ	そうだったんですね。\nじゃあ、今から一緒に作りましょうか						
+Date_MCHARA_B_00_03ID	32	Valeria	ヴァレリア	はぁ……\nぜんぜん姉らしいことできてない……						
+Date_MCHARA_B_00_03ID	33	Valeria	ヴァレリア	こんなんじゃお姉ちゃん失格だわ						
+Date_MCHARA_B_00_03ID	34	Ayesha	アーシャ	そんなことありません。\nヴァレリアさんは十分お姉ちゃんですよ！						
+Date_MCHARA_B_00_03ID	35	Valeria	ヴァレリア	そうかな……？						
+Date_MCHARA_B_00_03ID	36	Ayesha	アーシャ	そうですよ。\nだから元気を出してください！						
+Date_MCHARA_B_00_03ID	37	Valeria	ヴァレリア	……うん。ありがとう、アーシャ						
+Date_MCHARA_B_00_03ID	38	Ayesha	アーシャ	（姉というのは、薬草が判別できるとか、料理ができる\n　とか、そういうことだけじゃないと思います）						
+Date_MCHARA_B_00_03ID	39	Ayesha	アーシャ	（姉の数だけ、姉の在り方が\n　存在しているんじゃないかな……）						
+Date_MCHARA_B_00_04ID	0	Ayesha	アーシャ	（待ち合わせの場所はここだよね）						
+Date_MCHARA_B_00_04ID	1	Ayesha	アーシャ	（ヴァレリアさん、「大切な話がある」って\n　いってたけど、なんの話だろう……？）						
+Date_MCHARA_B_00_04ID	2	Ayesha	アーシャ	あ、ヴァレリアお姉ちゃん						
+Date_MCHARA_B_00_04ID	3	Valeria	ヴァレリア	アーシャ。来てくれてありがとう。\n今日は大切な話をしなくちゃいけないの						
+Date_MCHARA_B_00_04ID	4	Ayesha	アーシャ	はい。聞かせてください						
+Date_MCHARA_B_00_04ID	5	Valeria	ヴァレリア	あのね……\n私はアーシャの姉じゃいられないかも……						
+Date_MCHARA_B_00_04ID	6	Ayesha	アーシャ	え……もしかして、\nわたしのお姉ちゃんをするの、\n疲れちゃいましたか……？						
+Date_MCHARA_B_00_04ID	7	Valeria	ヴァレリア	ううん、そうじゃないの。\nアーシャのお姉ちゃんになれて、\nすごく嬉しい						
+Date_MCHARA_B_00_04ID	8	Ayesha	アーシャ	それならどうしてですか？						
+Date_MCHARA_B_00_04ID	9	Valeria	ヴァレリア	お姉ちゃんっていうのは\n年上らしく頼りがいがあって、\n妹から尊敬される存在だと、私は思うの						
+Date_MCHARA_B_00_04ID	10	Valeria	ヴァレリア	でも私はいつも失敗して、\nアーシャに迷惑かけてばかり。\nそんなのお姉ちゃんじゃないわ！						
+Date_MCHARA_B_00_04ID	11	Ayesha	アーシャ	そんなことないです！\nヴァレリアさんはすごく頼りになって、\n尊敬できるお姉ちゃんですよ！						
+Date_MCHARA_B_00_04ID	12	Valeria	ヴァレリア	本当に？　どうしてそう思えるの？						
+Date_MCHARA_B_00_04ID	13		選択肢	いつも守ってくれて頼りになります						
+Date_MCHARA_B_00_04ID	14	Ayesha	アーシャ	いつも守ってくれて頼りになります。\nこの前だってヴァレリアさんがいなければ\nわたしは無事ではいられませんでした						
+Date_MCHARA_B_00_04ID	15	Valeria	ヴァレリア	戦闘は私の取り柄だもの。\nそれには少し自信があるわ						
+Date_MCHARA_B_00_04ID	16	Ayesha	アーシャ	そんなヴァレリアさんがいてくれるから、\n私は安心して薬草を集められるんです！						
+Date_MCHARA_B_00_04ID	17	Valeria	ヴァレリア	そうなの？						
+Date_MCHARA_B_00_04ID	18		選択肢	いつも頑張ってて素敵です						
+Date_MCHARA_B_00_04ID	19	Ayesha	アーシャ	ヴァレリアさんは、\nいつも頑張ってて素敵です						
+Date_MCHARA_B_00_04ID	20	Valeria	ヴァレリア	ありがとう、アーシャ。\nでも、頑張ってるのはみんな同じじゃない？						
+Date_MCHARA_B_00_04ID	21	Valeria	ヴァレリア	ただ頑張るだけじゃダメ。\n頼りにされるような結果を残さないと、\nアーシャの姉にはなれないのよ……						
+Date_MCHARA_B_00_04ID	22	Ayesha	アーシャ	そんな真剣に考えてくれてるなんて……\nそれはそれで嬉しいです						
+Date_MCHARA_B_00_04ID	23		選択肢	ご飯を食べる姿に元気をもらえます						
+Date_MCHARA_B_00_04ID	24	Ayesha	アーシャ	ヴァレリアさんがご飯を食べる姿に\n元気をもらえます！						
+Date_MCHARA_B_00_04ID	25	Valeria	ヴァレリア	ちゃんとご飯を食べないと、\nいざってときにみんなを守れないもの						
+Date_MCHARA_B_00_04ID	26	Valeria	ヴァレリア	でも、たまに食べすぎてハイディに\n注意されるのよね……						
+Date_MCHARA_B_00_04ID	27	Valeria	ヴァレリア	食べる量を減らしたほうがいいのかしら						
+Date_MCHARA_B_00_04ID	28	Ayesha	アーシャ	あっ、ごめんなさい！\nそんなつもりで言ったんじゃないんです！						
+Date_MCHARA_B_00_04ID	29	Ayesha	アーシャ	ヴァレリアさんはとても頼りになるんです！\nだから、そんなに考え込まないでください！						
+Date_MCHARA_B_00_04ID	30	Valeria	ヴァレリア	いいえ。まだまだ理想の姉には足りない。\nもっと色々できないとダメなの！						
+Date_MCHARA_B_00_04ID	31	Ayesha	アーシャ	自分では気付いていないだけで、\nヴァレリアさんはとても素敵な人ですよ！						
+Date_MCHARA_B_00_04ID	32	Valeria	ヴァレリア	そうかしら……たとえばどんなところが？						
+Date_MCHARA_B_00_04ID	33		選択肢	色々なことに挑戦する姿勢が素敵です						
+Date_MCHARA_B_00_04ID	34	Ayesha	アーシャ	色々なことに挑戦する姿勢が素敵です						
+Date_MCHARA_B_00_04ID	35	Valeria	ヴァレリア	とりあえず挑戦してみないと、\n何ができるか分からないでしょ？						
+Date_MCHARA_B_00_04ID	36	Valeria	ヴァレリア	でも、それで迷惑かけることも多いのよね。\n考えなしに手を出すのも考えものだわ……						
+Date_MCHARA_B_00_04ID	37	Ayesha	アーシャ	誰だって最初は上手くできなくて当然です						
+Date_MCHARA_B_00_04ID	38	Valeria	ヴァレリア	そう言ってくれると少し気が楽になるわ。\nありがとね、アーシャ						
+Date_MCHARA_B_00_04ID	39		選択肢	きっぱりとした態度が尊敬できます						
+Date_MCHARA_B_00_04ID	40	Ayesha	アーシャ	ヴァレリアさんは、きっぱりとした態度が\n尊敬できます						
+Date_MCHARA_B_00_04ID	41	Valeria	ヴァレリア	ただ思ったことを言ってるだけよ						
+Date_MCHARA_B_00_04ID	42	Ayesha	アーシャ	ちゃんと言えるのがすごいです。\nわたしは、思っても言えないことがあるので						
+Date_MCHARA_B_00_04ID	43	Valeria	ヴァレリア	けど、なんでも言えばいいわけじゃない\nでしょ？　間違ったこともたくさん言うし、\n言わなければよかったなってことも多いの						
+Date_MCHARA_B_00_04ID	44	Ayesha	アーシャ	それでも、いいことだと思いますよ						
+Date_MCHARA_B_00_04ID	45		選択肢	他人のために本気になれて素敵です						
+Date_MCHARA_B_00_04ID	46	Ayesha	アーシャ	他人のために本気になれて素敵です						
+Date_MCHARA_B_00_04ID	47	Valeria	ヴァレリア	そんなの大したことじゃないわ。\nただ困っている人を放っておけないだけよ						
+Date_MCHARA_B_00_04ID	48	Ayesha	アーシャ	そう思って行動できるのが素敵です！\n誰でもできることじゃないですよ！						
+Date_MCHARA_B_00_04ID	49	Valeria	ヴァレリア	そ、そう？　なんだか照れるわね						
+Date_MCHARA_B_00_04ID	50	Ayesha	アーシャ	他のみんなもきっと\n同じように思ってるはずです！						
+Date_MCHARA_B_00_04ID	51	Ayesha	アーシャ	自分の長所って、\nなかなか自分じゃ気付けないものです						
+Date_MCHARA_B_00_04ID	52	Ayesha	アーシャ	わたしもまだ気付けてない、\nヴァレリアさんのいいところが\nもっとたくさんあるはずです！						
+Date_MCHARA_B_00_04ID	53	Valeria	ヴァレリア	アーシャはそう言ってくれるけど、\nやっぱりまだ納得できない						
+Date_MCHARA_B_00_04ID	54	Valeria	ヴァレリア	今の私にはできないことがたくさんある。\nそんな状態で姉になんてなれないわ！						
+Date_MCHARA_B_00_04ID	55		選択肢	これからできるようにすればいいんです						
+Date_MCHARA_B_00_04ID	56	Ayesha	アーシャ	それなら、\nこれからできるようにすればいいんです						
+Date_MCHARA_B_00_04ID	57	Valeria	ヴァレリア	でも、できるようになるまでずっと\nみんなに迷惑かけるのよ？						
+Date_MCHARA_B_00_04ID	58	Ayesha	アーシャ	わたしは気にしません。\nきっと他のみんなもそうです						
+Date_MCHARA_B_00_04ID	59	Valeria	ヴァレリア	うーん、それでも私は気にしちゃうわ。\nどれだけ時間がかかるかも分からないし						
+Date_MCHARA_B_00_04ID	60		選択肢	わたしもできないことがあります						
+Date_MCHARA_B_00_04ID	61	Ayesha	アーシャ	わたしも姉だけど、\nできないことはあります						
+Date_MCHARA_B_00_04ID	62	Valeria	ヴァレリア	それでも私より色んなことができるでしょ？\n私は戦闘以外からっきしだから						
+Date_MCHARA_B_00_04ID	63	Ayesha	アーシャ	そんなことないです。\nわたしもみんなに助けてもらってばかりです						
+Date_MCHARA_B_00_04ID	64	Ayesha	アーシャ	全部を一人でやる必要なんかないです。\nみんなで助け合っていくのが、\n友達や家族だと思うんです						
+Date_MCHARA_B_00_04ID	65	Valeria	ヴァレリア	助け合う、か……						
+Date_MCHARA_B_00_04ID	66		選択肢	その代わりすごく強いですよね！						
+Date_MCHARA_B_00_04ID	67	Ayesha	アーシャ	その代わりすごく強いですよね！						
+Date_MCHARA_B_00_04ID	68	Valeria	ヴァレリア	私にはそれしかないから						
+Date_MCHARA_B_00_04ID	69	Ayesha	アーシャ	十分ですよ！\nわたしにできないことなので尊敬してます！						
+Date_MCHARA_B_00_04ID	70	Valeria	ヴァレリア	強いだけじゃダメなのよ。\n強さだけで対処できないことはたくさんある						
+Date_MCHARA_B_00_04ID	71	Valeria	ヴァレリア	そんな私が姉になるなんて……						
+Date_MCHARA_B_00_04ID	72	Valeria	ヴァレリア	……そっか、そうだったのね						
+Date_MCHARA_B_00_04ID	73	Valeria	ヴァレリア	ありがとう、アーシャ。\nあなたのおかげで気付いたわ						
+Date_MCHARA_B_00_04ID	74	Valeria	ヴァレリア	私、姉ってすごく特別な存在だと思ってた。\nでも本当はそうじゃなかったのね						
+Date_MCHARA_B_00_04ID	75	Ayesha	アーシャ	はい。姉だからって\nすごい人である必要はないんです。\nわたしもぜんぜんすごくなんかないですし						
+Date_MCHARA_B_00_04ID	76	Ayesha	アーシャ	この前、風邪薬をあげた子を覚えてますか？\nあの子たちみたいに困ったら助け合う……\nそれが姉妹だと思うんです						
+Date_MCHARA_B_00_04ID	77	Valeria	ヴァレリア	ありがとう。おかげで目が覚めたわ。\n私、無理して背伸びしようとしてた						
+Date_MCHARA_B_00_04ID	78	Valeria	ヴァレリア	アーシャは妹だけど……\nやっぱりお母さんでもあるわね！						
+Date_MCHARA_B_00_04ID	79	Ayesha	アーシャ	そうですか？　えへへ。\nだとしたらわたしたちって、\nなんだか不思議な関係ですね						
+Date_MCHARA_B_00_04ID	80	Valeria	ヴァレリア	ふふっ、そうね！						
+Date_MCHARA_B_00_04ID	81	Ayesha	アーシャ	（姉妹が助け合うみたいに、私も\n　ヴァレリアさんを支えられたかな）						
+Date_MCHARA_B_00_04ID	82	Ayesha	アーシャ	ヴァレリアさん！\nこれからも私のお姉ちゃんでいてください！						
+Date_MCHARA_B_00_04ID	83	Valeria	ヴァレリア	アーシャ……気持ちはすごく嬉しい。\nでも、やっぱりダメ。\n今の私は姉にふさわしくない！						
+Date_MCHARA_B_00_04ID	84	Valeria	ヴァレリア	……決めた！\n私、姉になるため修行に出るわ！						
+Date_MCHARA_B_00_04ID	85	Valeria	ヴァレリア	次会う時には、\n立派な姉になって帰ってくるから。\nその時まで待ってて！						
+Date_MCHARA_B_00_04ID	86	Ayesha	アーシャ	そんな！　ヴァレリアお姉ちゃーん！\n戻ってきてくださーい！						
+Date_MCHARA_B_00_05ID	0	Valeria	ヴァレリア	アーシャ。薬草は集め終わった？						
+Date_MCHARA_B_00_05ID	1	Ayesha	アーシャ	あともう少しです！\n……よし、これでバッチリ！						
+Date_MCHARA_B_00_05ID	2	Ayesha	アーシャ	ヴァレリアさん、お待たせしました！						
+Date_MCHARA_B_00_05ID	3	Valeria	ヴァレリア	それじゃ街に戻るわよ。\nアーシャ、私のそばから離れないでね？						
+Date_MCHARA_B_00_05ID	4	Ayesha	アーシャ	はい！						
+Date_MCHARA_B_00_05ID	5	Ayesha	アーシャ	今日もわたしに付き合ってくれて\nありがとうございました！						
+Date_MCHARA_B_00_05ID	6	Ayesha	アーシャ	この前の、魔物から受けた傷の具合はどうですか？\nどこか痛む場所はあったりしませんか？						
+Date_MCHARA_B_00_05ID	7	Valeria	ヴァレリア	大丈夫、見ての通りピンピンしてるわ！\nこれも、あの時もらったアーシャの傷薬のおかげね！						
+Date_MCHARA_B_00_05ID	8	Valeria	ヴァレリア	アーシャの薬は本当によく効くから、\nいつも大助かり！　もう感謝しかないわ！						
+Date_MCHARA_B_00_05ID	9	Ayesha	アーシャ	感謝するのはわたしのほうです						
+Date_MCHARA_B_00_05ID	10	Ayesha	アーシャ	ヴァレリアさんのおかげで、\nこうして薬を作れてるんですから！						
+Date_MCHARA_B_00_05ID	11	Valeria	ヴァレリア	じゃあ、お互い感謝ってことね！						
+Date_MCHARA_B_00_05ID	12	Heidi	ハイディ	あれ、また薬草集めに行ってたんだ						
+Date_MCHARA_B_00_05ID	13	Ayesha	アーシャ	はい。ヴァレリアさんをお借りしてました						
+Date_MCHARA_B_00_05ID	14	Flocke	フロッケ	あれ？\nお姉ちゃんは辞めたんですか？						
+Date_MCHARA_B_00_05ID	15	Valeria	ヴァレリア	辞めたっていうのは少し違うわね。\n姉とか妹とか、形だけの関係に\nこだわるのをやめたの						
+Date_MCHARA_B_00_05ID	16	Valeria	ヴァレリア	姉妹ってそういうものじゃないでしょ？						
+Date_MCHARA_B_00_05ID	17	Heidi	ハイディ	ふぅん。詳しい事情は分かんないけど、\nスッキリした顔してるじゃん						
+Date_MCHARA_B_00_05ID	18	Valeria	ヴァレリア	姉になって、色んなことに気付けたの						
+Date_MCHARA_B_00_05ID	19	Valeria	ヴァレリア	今はまだできないことが多いけど、\nこれから少しづつ増やせばいいって						
+Date_MCHARA_B_00_05ID	20	Flocke	フロッケ	なんだか今のヴァレリアさん、\nとても大人っぽく見えます！						
+Date_MCHARA_B_00_05ID	21	Valeria	ヴァレリア	でしょでしょ！\n私は日々成長してるのよ！						
+Date_MCHARA_B_00_05ID	22	Heidi	ハイディ	ま、本当にちょっとずつだけどね						
+Date_MCHARA_B_00_05ID	23	Ayesha	アーシャ	ヴァレリアさんなら、\n必ず立派なお姉さんになれますよ！						
+Date_MCHARA_B_00_05ID	24	Valeria	ヴァレリア	ありがとう。きっとこれからもみんなに\n迷惑をかけるかもしれない						
+Date_MCHARA_B_00_05ID	25	Valeria	ヴァレリア	そのときはみんなに助けてほしいの						
+Date_MCHARA_B_00_05ID	26	Valeria	ヴァレリア	必ず恩返しはするから！\nそれまで待っててちょうだい！						
+Date_MCHARA_B_00_05ID	27	Ayesha	アーシャ	はい！						
+Date_MCHARA_B_00_05ID	28	Flocke	フロッケ	楽しみにしてますね！						
+Date_MCHARA_B_00_05ID	29	Heidi	ハイディ	迷惑かけられ慣れてるから、\n今さら気にしないっての						
+Date_MCHARA_B_00_05ID	30	Valeria	ヴァレリア	そして、いつか自然とみんなに頼られる、\n立派な姉になってやるんだから！						
+Date_MCHARA_B_00_05ID	31	Ayesha	アーシャ	その時はまた呼ばせてください！\nヴァレリアお姉ちゃんって！						
+Date_MCHARA_B_00_05ID	32	Valeria	ヴァレリア	ええ！　もちろんよ！						
