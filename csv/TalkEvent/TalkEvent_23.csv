@@ -1,0 +1,825 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_23_001ID	0	Totori	トトリ	では、このまま進行して大丈夫そうですね、船長さん						
+TalkEvent_23_001ID	1		船長	ええ。天気も快晴。航路も問題なしよ。\nバーバラ号、全速前進！						
+TalkEvent_23_001ID	2	Mimi	ミミ	もう船出から何日か経つけど、順調すぎるってくらい\n順調ね。ときどき、海の魔物が襲ってくるくらいで						
+TalkEvent_23_001ID	3	Totori	トトリ	そうだね。でも、本番はこれからだよ						
+TalkEvent_23_001ID	4	Mimi	ミミ	分かってるわよ。今のうちに英気を養っておかないとね						
+TalkEvent_23_001ID	5	Totori	トトリ	レスナさん。今日のところも順調そうですよ						
+TalkEvent_23_001ID	6	Resna	レスナ	ありがとうございます、トトリ先輩！\n身体だけでなく心も、大船に乗った気持ちです！						
+TalkEvent_23_001ID	7	Totori	トトリ	ただ、また魔物が襲ってくるかもしれないので、\nいつでも飛び出せるようにしておいてくださいね						
+TalkEvent_23_001ID	8	Resna	レスナ	はい！　心得ています！						
+TalkEvent_23_001ID	9	Resna	レスナ	（――あれから１年が経った）						
+TalkEvent_23_001ID	10	Resna	レスナ	（私は錬金術士、レスナ・シュテルネンリヒト。\n　ランターナ大陸に錬金術を復活させんと願う者）						
+TalkEvent_23_001ID	11	Resna	レスナ	（ランターナ大陸ではマナの枯渇によって、　\n　錬金術は１５０年前に廃れ、ほぼ忘れ去られていた）						
+TalkEvent_23_001ID	12	Resna	レスナ	（それでも私は、人々に幸せをもたらす錬金術の\n　復活を夢見て――）						
+TalkEvent_23_001ID	13	Resna	レスナ	（膨大なマナが眠るという人跡未踏の地、\n　「果ての大陸」を目指してきた）						
+TalkEvent_23_001ID	14	Resna	レスナ	（夢への第一歩として、私は仲間たちと一緒に\n　大陸中を旅し、錬金術で問題を解決していった）						
+TalkEvent_23_001ID	15	Resna	レスナ	（その実績を王国から評価され、晴れて「果ての大陸」\n　を目指すための支援を受けられることとなった）						
+TalkEvent_23_001ID	16	Resna	レスナ	（この船、バーバラ号は、その大きな支援の１つ。\n　私たちは大陸を離れ、大海原へと旅立った）						
+TalkEvent_23_001ID	17	Resna	レスナ	（私たちが目指すのは大陸の遥か北西……\n　「無数島群域」と呼ばれる海域だ）						
+TalkEvent_23_001ID	18	Resna	レスナ	（不安で胸がいっぱいだけど……\n　この１年、しっかり準備をしてきたんだ）						
+TalkEvent_23_001ID	19	Resna	レスナ	大丈夫……うん、大丈夫……						
+TalkEvent_23_001ID	20	Izana	イザナ	安心して！						
+TalkEvent_23_001ID	21	Izana	イザナ	レスナちゃんもこの船も、\nこのアタシがばっちり守っちゃうから！						
+TalkEvent_23_001ID	22	Resna	レスナ	ふふっ、頼もしいね。騎士イザナ殿！						
+TalkEvent_23_001ID	23	Izana	イザナ	えへへ……						
+TalkEvent_23_001ID	24	Resna	レスナ	（彼女はイザナちゃん。騎士を目指す私の幼馴染……\n　ううん。今はもう「目指していた」だね）						
+TalkEvent_23_001ID	25	Resna	レスナ	（この１年の間に、イザナちゃんは騎士の選抜試験に\n　見事合格！　正式に騎士となった）						
+TalkEvent_23_001ID	26	Resna	レスナ	（国王陛下の計らいもあり、今は錬金術士である私の\n　護衛役として、果ての大陸への旅路に同行している）						
+TalkEvent_23_001ID	27	Resna	レスナ	（立場は少し変わったけれど、今まで通り\n　頼もしくて、優しくて、かわいい私の騎士様だ）						
+TalkEvent_23_001ID	28	Resna	レスナ	（他にも、この旅には心強い仲間たちが\n　ついてきてくれている）						
+TalkEvent_23_001ID	29	Resna	レスナ	（私と同じ錬金術士で、船や航海への造詣も深い\n　トトリ先輩）						
+TalkEvent_23_001ID	30	Resna	レスナ	（それから、トトリ先輩のお友達で、\n　腕利きの冒険者であるミミさん）						
+TalkEvent_23_001ID	31	Resna	レスナ	（それ以外にもたくさん。これまでの旅を共にした\n　仲間たちや、王国騎士の皆さんも）						
+TalkEvent_23_001ID	32	Resna	レスナ	（この船の船長を務めているのも、\n　王国から派遣された人だ）						
+TalkEvent_23_001ID	33	Resna	レスナ	（それから、あっちの船には――）						
+TalkEvent_23_001ID	34	Resna	レスナ	わわっ！						
+TalkEvent_23_001ID	35	Mimi	ミミ	ちょっと！　進路を変える前に言いなさいよね！						
+TalkEvent_23_001ID	36		船長	あっちの船に合わせただけよ。\n文句は向こうの船長……ランツェに言って						
+TalkEvent_23_001ID	37	Totori	トトリ	ランツェさん、船のことになると\n強引なところあるからなあ……						
+TalkEvent_23_001ID	38		船長	腕は確かなのだけれどね。\nリヒャルト殿下が見込んだだけのことはあるわ						
+TalkEvent_23_001ID	39	Totori	トトリ	船長さんこそ、ランターナ王国内でも一二を争う\n操船技術の持ち主だ、って聞きましたよ						
+TalkEvent_23_001ID	40		船長	まあ、期待に応えられるよう頑張るわよ						
+TalkEvent_23_001ID	41	Resna	レスナ	（たくさんの頼もしい仲間たちと共に――）						
+TalkEvent_23_001ID	42	Resna	レスナ	果てなき海の先へ――いざ、参らん！						
+TalkEvent_23_001ID	43	Resna Sternenlicht	レスナ・シュテルネンリヒト	「果ての大陸」を目指す腕利きの錬金術士。\n錬金術を愛し、その素晴らしさを広めたいと思っている						
+TalkEvent_23_001ID	44	Izana Kokoschka	イザナ・ココシュカ	レスナの幼馴染。王国騎士団に所属する獣人の少女。\n鍛冶屋の娘で、両手に持ったハンマーを武器に戦う						
+TalkEvent_23_001ID	45	Mimi Houllier von Schwarzlang	ミミ・ウリエ・フォン・シュヴァルツラング	異邦人の冒険者。\n親友のトトリに頼まれ、この旅に同行した						
+TalkEvent_23_001ID	46	Totooria Helmold	トトゥーリア・ヘルモルト	通称「トトリ」。錬金術士であり、ミミの親友。\n航海の心得があり、船長の補佐役として乗船している						
+TalkEvent_23_002ID	0	Resna	レスナ	ロマンさん。何かご不便はありませんか？						
+TalkEvent_23_002ID	1	Roman	ロマン	潮の香りに広がる青空。心地よく流れていく風……\nいやあ、いいねえ。船旅は！						
+TalkEvent_23_002ID	2	Resna	レスナ	今のところ順調ですしね。\nこれも王国のご支援のおかげです！						
+TalkEvent_23_002ID	3	Roman	ロマン	いいや、様々な対策を練り、この船を造り上げたのは\n君たち錬金術士さ						
+TalkEvent_23_002ID	4	Roman	ロマン	おかげで、今のところは優雅な船旅を満喫できている						
+TalkEvent_23_002ID	5	Roman	ロマン	こうしていると色んなしがらみを忘れて、\nただの一冒険者になった気持ちになれるねぇ						
+TalkEvent_23_002ID	6	Izana	イザナ	あはは。ロマン君……いえ、殿下も忙しくされて\nいましたから						
+TalkEvent_23_002ID	7	Roman	ロマン	いやいや。こうしている間、私はただのロマンだよ。\nそう堅苦しいと寂しくなってしまう						
+TalkEvent_23_002ID	8	Juna	ユナ	殿下。そうは言っても無数島群域に到着すれば、\n王国の代表として交渉されるのですよ？						
+TalkEvent_23_002ID	9	Roman	ロマン	そ、それはそうだけど……						
+TalkEvent_23_002ID	10	Juna	ユナ	それに海には魔物もいます。だらけきっておられず、\n少しは気を引き締めてくださらないと						
+TalkEvent_23_002ID	11	Roman	ロマン	はは……\nきっとユナがそばにいるから安心してしまうんだろうね						
+TalkEvent_23_002ID	12	Juna	ユナ	では、少し緊張感を与えて差し上げましょうか						
+TalkEvent_23_002ID	13	Roman	ロマン	そ、それには及ばないよ！\nさーて、少し身体を動かしてこようかなあ！						
+TalkEvent_23_002ID	14	Roman	ロマン	――おっと！						
+TalkEvent_23_002ID	15	Resna	レスナ	これは！						
+TalkEvent_23_002ID	16		騎士Ａ	前方より敵襲！						
+TalkEvent_23_002ID	17	Roman	ロマン	噂をしていたら、早速ご登場のようだね						
+TalkEvent_23_002ID	18	Izana	イザナ	……例の頂獣じゃないみたいだね						
+TalkEvent_23_002ID	19	Juna	ユナ	殿下はこちらへ。イザナ、指揮は任せたぞ						
+TalkEvent_23_002ID	20	Izana	イザナ	はい！						
+TalkEvent_23_002ID	21	Izana	イザナ	迎撃用の武装を展開！\n周囲にも敵がいないか確認して！						
+TalkEvent_23_002ID	22	Wilbell	ウィルベル	イザナ！　ちょっと空から周りを見てくるわ！						
+TalkEvent_23_002ID	23	Izana	イザナ	うん、お願い！						
+TalkEvent_23_002ID	24		騎士Ｂ	武装展開完了！　いつでも行けます！						
+TalkEvent_23_002ID	25	Izana	イザナ	よーし！　撃て！						
+TalkEvent_23_002ID	26	Izana	イザナ	もう一度！　撃て！						
+TalkEvent_23_002ID	27	Wilbell	ウィルベル	大体片付いたみたいよ！\nでも、討ち漏らしもいるみたい！						
+TalkEvent_23_002ID	28	Wilbell	ウィルベル	ひゃぁっ！						
+TalkEvent_23_002ID	29	Izana	イザナ	討ち漏らした分は、直接迎え撃とう！						
+TalkEvent_23_002ID	30	Lara	ララ	ふふ。王の行く手を阻む者には容赦しませんわ						
+TalkEvent_23_002ID	31	Mimi	ミミ	ちょうど退屈していたところよ。かかってきなさい						
+TalkEvent_23_002ID	32	Totori	トトリ	船には傷一つ付けさせないからね！						
+TalkEvent_23_002ID	33	Resna	レスナ	イザナちゃん、行こう！						
+TalkEvent_23_002ID	34	Izana	イザナ	うん！　レスナちゃん！						
+TalkEvent_23_002ID	35	Resna	レスナ	やぁっ！						
+TalkEvent_23_002ID	36	Izana	イザナ	はぁぁっ！						
+TalkEvent_23_002ID	37	Izana	イザナ	よし、あと一息！　一斉に叩くよ！						
+TalkEvent_23_002ID	38	Roman Kalman	ロマン・カルマン	冒険者の青年。その正体は王国第二王子であり、\n本名は「リヒャルト・ランターナ」						
+TalkEvent_23_002ID	39	Juna Waitz	ユナ・ヴァイツ	王国に仕える「白夜の騎士」の一人。ロマンの護衛を\n務めるが、王子らしからぬ振る舞いには手を焼きがち						
+TalkEvent_23_002ID	40	Wilbell Voll=ErsLied	ウィルベル・フォル＝エルスリート	凄腕の魔法使い。\nホウキに乗って空を自在に飛び回ることができる						
+TalkEvent_23_002ID	41	Lara Trockel	ララ・トロッケル	錬金術士にして、独立国家「ララ・キングダム」の王。\nかつてはレスナと敵対していたが、現在は和解している						
+TalkEvent_23_003ID	0	Plachta	プラフタ	魔物は無事に撃退できたみたいですね						
+TalkEvent_23_003ID	1	Ryza	ライザ	ほら、言ったでしょ。あの程度の魔物なら\nレスナたちの敵じゃないって						
+TalkEvent_23_003ID	2	Plachta	プラフタ	ええ、心配は無用でした						
+TalkEvent_23_003ID	3	Valeria	ヴァレリア	ちぇー。どうせ襲ってくるなら、こっちの船に\nすればいいのに						
+TalkEvent_23_003ID	4	Lanze	ランツェ	そんなに身体を動かしてぇんなら、船の仕事を手伝え。\n働かざる者、食うべからずだぞ！						
+TalkEvent_23_003ID	5	Valeria	ヴァレリア	もー。私は二重に記憶喪失なんだから、\nもっと優しくしてほしいわ						
+TalkEvent_23_003ID	6	Lanze	ランツェ	記憶喪失だろうがなんだろうが関係ねぇな。\nいいから手伝いなさい！　おさぼりは許しませんよ！						
+TalkEvent_23_003ID	7	Valeria	ヴァレリア	はぁーい						
+TalkEvent_23_003ID	8	Valeria	ヴァレリア	（――私が「ヴァレリア」として\n　生まれてから、１年が経った）						
+TalkEvent_23_003ID	9	Valeria	ヴァレリア	（目が覚めた時、私は「ヴァレリア」の\n　記憶をすべて失っていた……）						
+TalkEvent_23_003ID	10	Valeria	ヴァレリア	（まだ記憶は戻っていないから、私の中には\n　この１年分の記憶しかない）						
+TalkEvent_23_003ID	11	Valeria	ヴァレリア	（私の家族だという\n　ハイディ、フロッケ、ランツェ）						
+TalkEvent_23_003ID	12	Valeria	ヴァレリア	（そして、レスナ……）						
+TalkEvent_23_003ID	13	Valeria	ヴァレリア	（みんなと一緒に過ごした時間は短いけど）						
+TalkEvent_23_003ID	14	Valeria	ヴァレリア	（「ヴァレリア」がどれほど大切な存在だったのか。\n　私に向けられる笑顔を見れば分かる）						
+TalkEvent_23_003ID	15	Valeria	ヴァレリア	（今回の旅に参加を名乗り出たのも、そんなみんなの\n　力に少しでもなりたいって思ったから）						
+TalkEvent_23_003ID	16	Valeria	ヴァレリア	（そうすることで……\n　私が何者なのかを、少しでも見つけ出せたら）						
+TalkEvent_23_003ID	17	Valeria	ヴァレリア	「ヴァレリア」か……						
+TalkEvent_23_003ID	18	Resna	レスナ	ヴァレリア						
+TalkEvent_23_003ID	19	Heidi	ハイディ	相棒！						
+TalkEvent_23_003ID	20	Valeria	ヴァレリア	（私が記憶を取り戻したら、\n　みんなもっと喜んでくれるわよね）						
+TalkEvent_23_003ID	21	Valeria	ヴァレリア	（まあ、焦らなくていいって、\n　レスナもハイディも言ってくれてるけど）						
+TalkEvent_23_003ID	22	Valeria	ヴァレリア	（いつか戻るといいな）						
+TalkEvent_23_003ID	23	Flocke	フロッケ	ヴァレリアさん						
+TalkEvent_23_003ID	24	Valeria	ヴァレリア	えっ？　あ、フロッケ……						
+TalkEvent_23_003ID	25	Flocke	フロッケ	ぼーっとしてましたけど、大丈夫ですか？						
+TalkEvent_23_003ID	26	Flocke	フロッケ	もしかして、お腹空きました？						
+TalkEvent_23_003ID	27	Valeria	ヴァレリア	ううん、大丈夫。ちょっと一仕事してくる！						
+TalkEvent_23_003ID	28	Valeria	ヴァレリア	よっこい……ん？\nなんかこのたる、すごいベトベトしてる……						
+TalkEvent_23_003ID	29	Valeria	ヴァレリア	ランツェ！　このたるって中身なんだっけ						
+TalkEvent_23_003ID	30	Lanze	ランツェ	船の燃料だ。そろそろ補充の時間だから、\n中に運んどいてくれ						
+TalkEvent_23_003ID	31	Flocke	フロッケ	風がなくても動く船なんて、すごいですよね						
+TalkEvent_23_003ID	32	Lanze	ランツェ	ああ。おかげで進む速さも段違いだ。\n錬金術さまさまだな						
+TalkEvent_23_003ID	33	Valeria	ヴァレリア	う、燃料の話をしていたら、私のお腹も減ってきた						
+TalkEvent_23_003ID	34	Flocke	フロッケ	そうだと思って、ご飯を持ってきましたよ						
+TalkEvent_23_003ID	35	Valeria	ヴァレリア	わーー、ありがとう！						
+TalkEvent_23_003ID	36	Lanze	ランツェ	天使ちゃんもさまさまだ						
+TalkEvent_23_003ID	37	Plachta	プラフタ	異邦人の錬金術士。\n錬金術への探求心が強く、日々研究に没頭している						
+TalkEvent_23_003ID	38	Reisalin Stout	ライザリン・シュタウト	王国のカフェ「星の繭」で働いていた錬金術士。\n冒険が好きで、カフェを飛び出しこの旅に同行した						
+TalkEvent_23_003ID	39	Lanze Dach	ランツェ・ダッハ	王国では少し名の知れた船乗り。かつては飲んだくれの\nダメ人間だったが、今では改心し頼れる船長となった						
+TalkEvent_23_003ID	40	Valeria	ヴァレリア	レスナと旅を共にする冒険者。昔の記憶を失っている。\n戦闘技術は確かだが、頭を使うのは少し苦手						
+TalkEvent_23_003ID	41	Flocke Cerha	フロッケ・チェルハ	心優しき行商人の少女。\nヴァレリアやランツェたちと一緒に暮らしている						
+TalkEvent_23_004ID	0	Valeria	ヴァレリア	んー、やっぱりダメね						
+TalkEvent_23_004ID	1	Plachta	プラフタ	ヴァレリア、どうかしましたか？						
+TalkEvent_23_004ID	2	Valeria	ヴァレリア	飴を使って向こうの船まで移動できないかなーと\n思ったんだけど、やっぱり使えないみたい						
+TalkEvent_23_004ID	3	Ryza	ライザ	あ、そうそう！　あたしも試してみたけど\n船に乗ってからは作動しなかったんだよね						
+TalkEvent_23_004ID	4	Klaudia	クラウディア	確か、大陸の外だと使えないかもしれないって\n話でしたよね？						
+TalkEvent_23_004ID	5	Valeria	ヴァレリア	そっかあ……。暇になったから、\nレスナの顔でも見に行こうと思ったのに						
+TalkEvent_23_004ID	6	Valeria	ヴァレリア	ランツェ、あっちに船寄せられないの？						
+TalkEvent_23_004ID	7	Lanze	ランツェ	今は、んなことやってる余裕ねえよ						
+TalkEvent_23_004ID	8	Valeria	ヴァレリア	ちぇー						
+TalkEvent_23_004ID	9	Valeria	ヴァレリア	そういえば、ちょっと気になってたんだけど……\nプラフタ、前と雰囲気変わった？						
+TalkEvent_23_004ID	10	Plachta	プラフタ	私ですか？						
+TalkEvent_23_004ID	11	Valeria	ヴァレリア	私が目を覚ましてすぐに会った時から、\n見た目とか話し方とか、変わった感じがするんだけど						
+TalkEvent_23_004ID	12	Valeria	ヴァレリア	気のせいかしら？\n私の記憶がごちゃごちゃになってるだけ？						
+TalkEvent_23_004ID	13	Lanze	ランツェ	いや、気のせいじゃないと思うぜ。他にも何人か\n変わりすぎじゃね？　ってヤツらもいるよな						
+TalkEvent_23_004ID	14	Lanze	ランツェ	例えばウィルベルとかよ……\nライザやクラウディアもちょっと雰囲気変わったか？						
+TalkEvent_23_004ID	15	Plachta	プラフタ	ふむ。異なる世界に来たことで、自身の持つ可能性が\n様々な形で現出しているのかもしれませんね						
+TalkEvent_23_004ID	16	Valeria	ヴァレリア	えーっと……つまりどういうこと？						
+TalkEvent_23_004ID	17	Plachta	プラフタ	要するに……異なる世界へ渡ってきたことで、説明の\nつかない不思議なことが起きている、ということです						
+TalkEvent_23_004ID	18	Klaudia	クラウディア	結局何を言っているのか、\n分かったような、分からないような……						
+TalkEvent_23_004ID	19	Valeria	ヴァレリア	（ランターナ大陸には、いつからか別の世界から\n　迷い込んだという人たちが現れた）						
+TalkEvent_23_004ID	20	Valeria	ヴァレリア	（その人たちは「異邦人」と呼ばれ、この世界の\n　住人として溶け込んでいったそうだ）						
+TalkEvent_23_004ID	21	Valeria	ヴァレリア	（錬金術が失われていない世界もたくさんあるらしく、\n　ライザやプラフタみたいに、錬金術士もいる）						
+TalkEvent_23_004ID	22	Valeria	ヴァレリア	（「異邦人」をこの世界に引き込んだのは、\n　「パルメ族」という存在だった）						
+TalkEvent_23_004ID	23	Valeria	ヴァレリア	（あの日、私が対峙したザスキアという人物こそ、\n　そのパルメ族の一人だ）						
+TalkEvent_23_004ID	24	Valeria	ヴァレリア	（どうやって元の世界へ帰るのかを知るために、\n　みんなはパルメ族の行方を追うことにしたらしい）						
+TalkEvent_23_004ID	25	Valeria	ヴァレリア	（今どこにいるかは分からないけれど、ザスキアは\n　レスナのことを見守っている、と言っていた）						
+TalkEvent_23_004ID	26	Valeria	ヴァレリア	（きっと、果ての大陸を目指すこの旅の途中にも\n　出会うことがあるはず……）						
+TalkEvent_23_004ID	27	Valeria	ヴァレリア	（果ての大陸、か……\n　いったいどんな所なのかしら）						
+TalkEvent_23_004ID	28	Klaudia Valentz	クラウディア・バレンツ	商家の一人娘で、やり手の仕事人。\n親友のライザとの新たな冒険に心を躍らせている						
+TalkEvent_23_005ID	0	Plachta	プラフタ	この揺れは……！						
+TalkEvent_23_005ID	1	Valeria	ヴァレリア	魔物ね！						
+TalkEvent_23_005ID	2	Flocke	フロッケ	ちょ、頂獣でしょうか！						
+TalkEvent_23_005ID	3	Lanze	ランツェ	落ち着け、天使ちゃん。\nヤツの縄張りは、もうちょっと先だ						
+TalkEvent_23_005ID	4	Lanze	ランツェ	お前ら！　戦闘準備だ！						
+TalkEvent_23_005ID	5	Ryza	ライザ	了解！						
+TalkEvent_23_005ID	6	Valeria	ヴァレリア	分かったわ！　歓迎してやるわよ						
+TalkEvent_23_005ID	7	Lanze	ランツェ	それに、前にも言ったろ？\nヤツが現れる時には、かならず予兆があるんだ						
+TalkEvent_23_005ID	8	Lanze	ランツェ	頂獣クヴァレルガ。ヤツは必ず、嵐と共に現れる						
+TalkEvent_23_005ID	9	Lanze	ランツェ	（今からちょうど３年前――\n　俺は果ての大陸を目指し船を出していた）						
+TalkEvent_23_005ID	10	Lanze	ランツェ	（妻のバーバラや仲間たちを連れて、大陸から\n　遥か北西……ちょうどこの海域を航海していた）						
+TalkEvent_23_005ID	11	Lanze	ランツェ	目的地は無数島群域だ。\nそれを取っ掛かりに果ての大陸を目指す！						
+TalkEvent_23_005ID	12		バーバラ	頂獣が出るって海域を突破する必要があるけどね						
+TalkEvent_23_005ID	13		船員Ａ	そんなヤツ、俺たちなら倒しちまえるさ！\nなぁ、船長！						
+TalkEvent_23_005ID	14	Lanze	ランツェ	ったりめえだ。\nそのために、戦う備えだってしてきたんだ						
+TalkEvent_23_005ID	15	Lanze	ランツェ	俺らはいくつもの海を渡ってきた！　\nどんな困難だって、全員で乗りきってきた！						
+TalkEvent_23_005ID	16	Lanze	ランツェ	俺たちなら、できる！！						
+TalkEvent_23_005ID	17		船員たち	おおおおおっ！						
+TalkEvent_23_005ID	18	Lanze	ランツェ	（だが、甘かった）						
+TalkEvent_23_005ID	19	Lanze	ランツェ	（ヤツは、嵐と共に現れた）						
+TalkEvent_23_005ID	20		船員Ａ	うわぁぁっ！						
+TalkEvent_23_005ID	21		船員Ｂ	おい！　うわぁぁっ！						
+TalkEvent_23_005ID	22	Lanze	ランツェ	くそっ！！　くそっ！！						
+TalkEvent_23_005ID	23	Lanze	ランツェ	（高波は船から仲間たちを振り落とし、飲み込んだ。\n　大砲の照準も定まらず、よしんば当たっても――）						
+TalkEvent_23_005ID	24		船員Ｃ	ぜ、ぜんぜん効いてねえ！						
+TalkEvent_23_005ID	25		声	あああああああ						
+TalkEvent_23_005ID	26		声	おお……おオオ……						
+TalkEvent_23_005ID	27	Lanze	ランツェ	くっ、さっきから妙な声が……！\n周りの音が聞こえねえ！						
+TalkEvent_23_005ID	28		バーバラ	ランツェ！　ヤツが――！						
+TalkEvent_23_005ID	29	Lanze	ランツェ	（大砲の弾なんか通用しやしなかった。\n　ヤツはとうとう船に半身を乗り上げてきた）						
+TalkEvent_23_005ID	30	Lanze	ランツェ	（それは、高く壁となってそびえる恐怖と絶望だった）						
+TalkEvent_23_005ID	31	Lanze	ランツェ	まだだ！　負けねぇ！\nやられちまった仲間のためにも！						
+TalkEvent_23_005ID	32	Lanze	ランツェ	うぉぉぉぉぉっ！						
+TalkEvent_23_005ID	33	Lanze	ランツェ	（俺たちは武器を手に必死に戦った。\n　手応えがなくとも、やるしかなかった。が――）						
+TalkEvent_23_005ID	34	Lanze	ランツェ	な、何を――						
+TalkEvent_23_005ID	35		バーバラ	ランツェ！						
+TalkEvent_23_005ID	36	Lanze	ランツェ	バ、バーバラ！？						
+TalkEvent_23_005ID	37	Lanze	ランツェ	（俺を庇って直撃を受けたバーバラの姿を最後に……\n　後のことはよく覚えちゃいない）						
+TalkEvent_23_005ID	38	Lanze	ランツェ	う……						
+TalkEvent_23_005ID	39	Lanze	ランツェ	（意識を取り戻した時、俺はすべてを失っていた）						
+TalkEvent_23_005ID	40	Lanze	ランツェ	（バーバラとの思い出のペンダントと、仲間の証の\n　短刀、そして、俺の命を残して）						
+TalkEvent_23_005ID	41	Lanze	ランツェ	なんで、俺だけ……！\nバーバラ、みんな……俺を信じたばっかりに……！						
+TalkEvent_23_005ID	42	Lanze	ランツェ	仇は――取るぜ。バーバラ、みんな						
+TalkEvent_23_005ID	43	Lanze	ランツェ	決着を付ける時が来たな、クヴァレルガ。\n首を洗って待ってやがれ						
+TalkEvent_23_006ID	0	Valeria	ヴァレリア	よーし、一暴れよ！						
+TalkEvent_23_006ID	1	Ryza	ライザ	あははっ！　ヴァレリア、張り切ってるね！						
+TalkEvent_23_006ID	2	Ryza	ライザ	あたしも負けてらんない！						
+TalkEvent_23_006ID	3	Lanze	ランツェ	おい。暴れすぎて船を壊すなよ？\n大事なモンがどっさり積んであるんだからよ						
+TalkEvent_23_006ID	4	Flocke	フロッケ	頂獣と戦うために色々準備してきましたからね						
+TalkEvent_23_006ID	5	Lanze	ランツェ	その通りだ！　お前らが暴れすぎて壊れでもしたら、\n作戦がパーだからな！						
+TalkEvent_23_006ID	6	Lanze	ランツェ	特に、燃料が入ったたるには気を付けろよ！\n下手に引火したら丸焼けになるぞ！						
+TalkEvent_23_006ID	7	Valeria	ヴァレリア	分かってるわ！						
+TalkEvent_23_006ID	8	Ryza	ライザ	心配しなくても大丈夫！　あたしたちに任せて！						
+TalkEvent_23_006ID	9	Plachta	プラフタ	皆さん！　来ましたよ！						
+TalkEvent_23_006ID	10	Ryza	ライザ	そりゃあああああっ！						
+TalkEvent_23_006ID	11	Valeria	ヴァレリア	はぁぁぁっ！						
+TalkEvent_23_006ID	12	Plachta	プラフタ	魔物が次々と……！						
+TalkEvent_23_006ID	13	Flocke	フロッケ	さすがはヴァレリアさんたちですね！						
+TalkEvent_23_006ID	14	Valeria	ヴァレリア	このまま残りを狩るわよ！						
+TalkEvent_23_007ID	0	Wilbell	ウィルベル	あっちも片付いたみたいね						
+TalkEvent_23_007ID	1	Izana	イザナ	どっちも戦力は万全だもんね！\nでもまぁ……よかったぁ						
+TalkEvent_23_007ID	2	Roman	ロマン	ランターナ大陸を出発してから数度、こうして魔物と\n遭遇してるけど、問題なく進めているね						
+TalkEvent_23_007ID	3	Roman	ロマン	それも、しっかり準備をしてきた成果だ						
+TalkEvent_23_007ID	4	Resna	レスナ	はい！						
+TalkEvent_23_007ID	5		字幕	――１年前						
+TalkEvent_23_007ID	6	Roman	ロマン	みんなも知っての通り、果ての大陸を目指す大型船の\n建造が始まった						
+TalkEvent_23_007ID	7	Resna	レスナ	いよいよですね……！						
+TalkEvent_23_007ID	8	Roman	ロマン	王国の財と技術、そして錬金術の叡智が結集した\n最高の船になるはずだ						
+TalkEvent_23_007ID	9	Roman	ロマン	まずは先遣隊として出発する２隻の建造を進める予定だ						
+TalkEvent_23_007ID	10	Totori	トトリ	それが完成したら、後発の船も造られていくって\n聞きました						
+TalkEvent_23_007ID	11	Roman	ロマン	ああ。無数島群域との交易が再開することになれば、\nより多くの船が必要になるからね						
+TalkEvent_23_007ID	12	Valeria	ヴァレリア	でも、そのためには頂獣ってやつを\n倒さないといけないんでしょ？						
+TalkEvent_23_007ID	13	Roman	ロマン	そうだ。当然、そちらの対策も進めなくてはならない						
+TalkEvent_23_007ID	14	Resna	レスナ	すでに、ランツェさんからの情報を元に\n計画を練り始めています						
+TalkEvent_23_007ID	15	Lanze	ランツェ	まあ、大した情報じゃねえがな……\n一応、ヤツの力はこの身で味わってるからよ						
+TalkEvent_23_007ID	16	Roman	ロマン	いや、ありがたいよ。なにせ、頂獣クヴァレルガは\n目撃情報も少ない、謎に包まれた頂獣だ						
+TalkEvent_23_007ID	17	Lanze	ランツェ	正確には、出会ったヤツは大抵無事に戻って\n来れねえってことだろうけどな						
+TalkEvent_23_007ID	18	Lanze	ランツェ	……俺たちもそうだった。\nそん中で俺一人生きて帰れたのは、運が良かっただけだ						
+TalkEvent_23_007ID	19	Totori	トトリ	今は猫の手も借りたい状況ですからね。\n心強いですよ、ランツェさん						
+TalkEvent_23_007ID	20	Lanze	ランツェ	誰が猫の手だ！						
+TalkEvent_23_007ID	21	Ryza	ライザ	あはは……						
+TalkEvent_23_007ID	22	Valeria	ヴァレリア	この飴でひとっ飛び、ってわけにはいかないのよね？						
+TalkEvent_23_007ID	23	Resna	レスナ	一度行ったことのある場所しか行けないからね						
+TalkEvent_23_007ID	24	Valeria	ヴァレリア	一度でも行ったことある人なら大丈夫なの？						
+TalkEvent_23_007ID	25	Roman	ロマン	いや、私もそう思って、無数島群域に赴いたことのある\nワルターに試してもらったが……ダメだったよ						
+TalkEvent_23_007ID	26	Roman	ロマン	もしかすると、大陸の外へは行けないのかもしれないね						
+TalkEvent_23_007ID	27	Roman	ロマン	ともかく、今は船で無数島群域へ\n到達することを考えよう						
+TalkEvent_23_007ID	28	Ryza	ライザ	あっちに着いたら、果ての大陸の情報収集だね！						
+TalkEvent_23_007ID	29	Resna	レスナ	はい！						
+TalkEvent_23_007ID	30	Roman	ロマン	そして、我が国との国交再開に向けた交渉もね						
+TalkEvent_23_007ID	31	Ryza	ライザ	ロマンさん、これは責任重大だー						
+TalkEvent_23_007ID	32	Roman	ロマン	ははは。みんな、頑張ろう！						
+TalkEvent_23_007ID	33	Brad	ブラッド	どうしても先遣隊として行く気か。頂獣が待つ海へ						
+TalkEvent_23_007ID	34	Roman	ロマン	夢への航海。行かずして私では無いよ						
+TalkEvent_23_007ID	35	Brad	ブラッド	……そうか、そうだな。お前はそう言うな						
+TalkEvent_23_007ID	36	Brad	ブラッド	ランターナのことは心配するな、リヒャルト。\nオルペウス殿下は私がお支えする						
+TalkEvent_23_007ID	37	Roman	ロマン	ああ、頼んだよ。ブラッド						
+TalkEvent_23_008ID	0	Izana	イザナ	レスナちゃん、何の本読んでるの？\nあれ、それって……						
+TalkEvent_23_008ID	1	Resna	レスナ	うん、ララさ……アラルさんの本だよ						
+TalkEvent_23_008ID	2	Izana	イザナ	今回の旅にも持ってきたんだねぇ						
+TalkEvent_23_008ID	3	Resna	レスナ	私にとって特別な本だし、\nどんな時でも初心を忘れたくないなって						
+TalkEvent_23_008ID	4	Izana	イザナ	その気持ち、アタシも分かる！　アタシもさ、\nこの旅に出る前に騎士の本を読み返してきたんだ						
+TalkEvent_23_008ID	5	Resna	レスナ	えっ、騎士の本って……私があげたやつ？						
+TalkEvent_23_008ID	6	Izana	イザナ	うん。レスナちゃんが出会わせてくれた\nアタシの一番大好きな本だよ						
+TalkEvent_23_008ID	7	Resna	レスナ	ふふっ、そう言ってくれて嬉しい						
+TalkEvent_23_008ID	8	Izana	イザナ	そういえば、ヨハナにもプレゼントしてたよね、本。\n読んでくれてるかな？						
+TalkEvent_23_008ID	9	Resna	レスナ	少しは……気晴らしになるといいけど						
+TalkEvent_23_008ID	10	Johanna	ヨハナ	……ただいま						
+TalkEvent_23_008ID	11	Resna	レスナ	ヨハナちゃん、おかえり。\nオリバーさんの容体、どうだった？						
+TalkEvent_23_008ID	12	Johanna	ヨハナ	……いつ倒れてもおかしくないって						
+TalkEvent_23_008ID	13	Resna	レスナ	…………！						
+TalkEvent_23_008ID	14	Johanna	ヨハナ	ごめんね、レスナ。\n今回の旅……私は一緒に行けないと思う						
+TalkEvent_23_008ID	15	Johanna	ヨハナ	今、おじいちゃんのそばを\n離れるわけにはいかないから						
+TalkEvent_23_008ID	16	Resna	レスナ	私のことは気にしなくていいよ。\n今はオリバーさんのそばにいてあげて						
+TalkEvent_23_008ID	17	Resna	レスナ	ヨハナちゃんがいてくれれば、\nオリバーさんもきっと元気になるから						
+TalkEvent_23_008ID	18	Johanna	ヨハナ	……ん						
+TalkEvent_23_008ID	19	Heidi	ハイディ	そっか。ヨハナも行けなくなったのか～						
+TalkEvent_23_008ID	20	Johanna	ヨハナ	「も」ってことは……あんたも？						
+TalkEvent_23_008ID	21	Heidi	ハイディ	まー、元の家族とちょっとね。\nなんかややこしいことになってるみたいでさ						
+TalkEvent_23_008ID	22	Heidi	ハイディ	ほったらかしにしたまま、\n逃げるわけにもいかないっていうか						
+TalkEvent_23_008ID	23	Valeria	ヴァレリア	ハイディ、私にできることはある？						
+TalkEvent_23_008ID	24	Heidi	ハイディ	ははっ、大丈夫だよ相棒！\n自分でちゃんとケリをつけてくるから						
+TalkEvent_23_008ID	25	Heidi	ハイディ	あんたは、レスナの力になってあげて						
+TalkEvent_23_008ID	26	Valeria	ヴァレリア	そう……分かったわ						
+TalkEvent_23_008ID	27	Heidi	ハイディ	ま、すぐに用事が済めば、\n船出に間に合うかもしれないしね！						
+TalkEvent_23_008ID	28	Heidi	ハイディ	私だって、あんなヤツらといるより、\n今の家族と一緒に船旅を楽しみたいもんね						
+TalkEvent_23_009ID	0	Resna	レスナ	（結局ハイディさんは\n　出航の日に戻ってくることはなかった）						
+TalkEvent_23_009ID	1	Resna	レスナ	（そして、ヨハナちゃんも……）						
+TalkEvent_23_009ID	2	Resna	レスナ	（二人を乗せないまま、先遣隊の船は\n　出航することになったんだ）						
+TalkEvent_23_009ID	3	Resna	レスナ	ヨハナちゃん……						
+TalkEvent_23_009ID	4	Izana	イザナ	ヨハナのおじいちゃん、持ち直すといいね						
+TalkEvent_23_009ID	5	Resna	レスナ	うん……						
+TalkEvent_23_009ID	6	Resna	レスナ	（それに、ハイディさんも……）						
+TalkEvent_23_009ID	7	Resna	レスナ	（ヴァレリアが記憶を失ってから、\n　ハイディさんの様子が変わった）						
+TalkEvent_23_009ID	8	Resna	レスナ	（黙ってじっとヴァレリアを見ていたり、\n　ぼんやりとしている時間が増えたように思う）						
+TalkEvent_23_009ID	9	Resna	レスナ	（ハイディさんも、ヴァレリアのことが心配で\n　たまらないんだ）						
+TalkEvent_23_009ID	10	Resna	レスナ	（それでも今回の船出に同行しなかったのには、\n　よほどの事情があるんだろう）						
+TalkEvent_23_009ID	11	Izana	イザナ	今回の顔ぶれって実力者ばっかだし、アタシだって\n腕に覚えはあるつもりなんだけど……						
+TalkEvent_23_009ID	12	Izana	イザナ	あの二人が欠けてると、意外と心細いね。\nいや、物足りないっていうか？						
+TalkEvent_23_009ID	13	Resna	レスナ	うん、分かるよ。居るべき人が居ない感じ……						
+TalkEvent_23_009ID	14	Saskia	ザスキア	でもね、錬金術を使うためのマナの枯渇が起こった\nことは、パルメ族にとっても誤算だったわ						
+TalkEvent_23_009ID	15	Saskia	ザスキア	その解決の近道となるのが、果ての大陸だった						
+TalkEvent_23_009ID	16	Saskia	ザスキア	そのためにレスナ、あなたを育て、ヴァレリアを\nあなたの補佐に付けたの						
+TalkEvent_23_009ID	17	Resna	レスナ	（世界を裏で操っている存在、パルメ族。今まで私が\n　歩んできた道は、師匠に仕組まれたものだった……）						
+TalkEvent_23_009ID	18	Resna	レスナ	（師匠の庇護がなくなった今、私たちの身に\n　どんな危険が襲いかかるのか想像もできない）						
+TalkEvent_23_009ID	19	Saskia	ザスキア	この先もずっと、私はあなたの歩みを見守っているわ						
+TalkEvent_23_009ID	20	Saskia	ザスキア	過ちを犯したら、叱ってあげるから						
+TalkEvent_23_009ID	21	Resna	レスナ	……っ！						
+TalkEvent_23_009ID	22	Resna	レスナ	（私は私の道を進むって決めた。\n　どんな荒波が来たって乗り越えてみせるんだ！）						
+TalkEvent_23_009ID	23	Resna	レスナ	（果ての大陸を見つけ、錬金術を復興する。\n　その想いだけは、仕組まれたものじゃないんだから）						
+TalkEvent_23_009ID	24	Totori	トトリ	皆さん、敵の襲撃です！　今度は空から！						
+TalkEvent_23_009ID	25	Izana	イザナ	なんだか天気も悪くなってきたね						
+TalkEvent_23_009ID	26	Resna	レスナ	うん。迅速果断に対処しよう！						
+TalkEvent_23_010ID	0	Wilbell	ウィルベル	よーし、一丁上がりね！						
+TalkEvent_23_010ID	1	Mimi	ミミ	ずいぶん天候が荒れてきたわね						
+TalkEvent_23_010ID	2		船長	みんな、どこかに掴まって！\n油断すると海に真っ逆さまよ！						
+TalkEvent_23_010ID	3	Resna	レスナ	嵐は頂獣出現の前触れだって、\nランツェさんが言ってた						
+TalkEvent_23_010ID	4	Izana	イザナ	うん……警戒が必要だね						
+TalkEvent_23_010ID	5	Totori	トトリ	揺れが酷いので、酔わないように気を付けてください！\n気分が悪い人は医務室へ！						
+TalkEvent_23_010ID	6	Resna	レスナ	うぅ……						
+TalkEvent_23_010ID	7	Izana	イザナ	大丈夫？　レスナちゃん……うぐっ						
+TalkEvent_23_010ID	8	Resna	レスナ	イザナちゃん……こそ……						
+TalkEvent_23_010ID	9	Wilbell	ウィルベル	あ～。船酔いね。あたしは浮いてるから平気だけど						
+TalkEvent_23_010ID	10	Resna	レスナ	慣れるために、訓練もしてきたんですけど……\n侮っていました……嵐の海の力を						
+TalkEvent_23_010ID	11	Totori	トトリ	レスナさん。ゆっくり横になって、楽にして						
+TalkEvent_23_010ID	12	Mimi	ミミ	ほら、イザナも。楽な姿勢でゆーっくり息をするのよ						
+TalkEvent_23_010ID	13	Izana	イザナ	き、騎士なのに……情けないよ。\n二人とも……平気なんだ？						
+TalkEvent_23_010ID	14	Totori	トトリ	わたしたちは船旅には慣れてるからね						
+TalkEvent_23_010ID	15		船長	嵐も収まってきてる。もう少しの辛抱よ！						
+TalkEvent_23_010ID	16	Resna	レスナ	それなら……このまま進めますね						
+TalkEvent_23_010ID	17	Resna	レスナ	このくらいの嵐は想定してましたし、\n荒波は乗り越えるって決めたんですから						
+TalkEvent_23_010ID	18	Izana	イザナ	だね。こんなの……慣れればどうってことないよ！						
+TalkEvent_23_010ID	19	Lara	ララ	ふふ。まずは持ち直すべきですが、気持ちが折れて\nいないのは重畳です						
+TalkEvent_23_011ID	0	Lanze	ランツェ	嵐は過ぎたみてぇだな。お前ら大丈夫か？						
+TalkEvent_23_011ID	1	Valeria	ヴァレリア	ええ、大丈夫よ						
+TalkEvent_23_011ID	2	Klaudia	クラウディア	頂獣の兆候かと思いましたが、違ったみたいですね						
+TalkEvent_23_011ID	3	Lanze	ランツェ	ま、これくらいは海じゃ起こりうることだ。\nランツェ流航海術その一。嵐に慌てるな						
+TalkEvent_23_011ID	4	Plachta	プラフタ	うう……うううぅぅ……						
+TalkEvent_23_011ID	5	Ryza	ライザ	プラフタ、大丈夫？\n無理しないで横になったほうがいいよ						
+TalkEvent_23_011ID	6	Flocke	フロッケ	プラフタさん、冷たいお水です。\n気分が落ち着きますよ						
+TalkEvent_23_011ID	7	Plachta	プラフタ	ありがとうございます……ライザ、フロッケ						
+TalkEvent_23_011ID	8	Lanze	ランツェ	お、おい、あれを見ろよ！						
+TalkEvent_23_011ID	9	Valeria	ヴァレリア	え、何！？　また魔物！？						
+TalkEvent_23_011ID	10	Lanze	ランツェ	ランターナイルカの群れだ！						
+TalkEvent_23_011ID	11	Ryza	ライザ	うわあ、かわいい！\n見て、この船と並走してるよ！						
+TalkEvent_23_011ID	12	Flocke	フロッケ	ランターナイルカさん、\nフロッケたちと一緒に旅をしてるみたいですね						
+TalkEvent_23_011ID	13	Lanze	ランツェ	あいつらは人間にも友好的でな。イルカに乗って\n海を旅した冒険者の伝説なんてのも残ってるくらいだ						
+TalkEvent_23_011ID	14	Klaudia	クラウディア	へえ、素敵……！						
+TalkEvent_23_011ID	15	Ryza	ライザ	あたしたちも乗れるかな？						
+TalkEvent_23_011ID	16	Lanze	ランツェ	いや、さすがに無理じゃねえか？\n乗れたとしても、海の中に潜られたらおしまいだぞ						
+TalkEvent_23_011ID	17	Valeria	ヴァレリア	そういえば、水中でも息ができる道具\n持ってきてなかったっけ？						
+TalkEvent_23_011ID	18	Ryza	ライザ	ああ、エアドロップね。頂獣と戦うとき、\n海に落ちても大丈夫なようにって用意してあるよ						
+TalkEvent_23_011ID	19	Klaudia	クラウディア	一応、数には余裕がありますけど……						
+TalkEvent_23_011ID	20	Lanze	ランツェ	……分かった、行ってこい。\nまあ、ちょうどいい気分転換になるだろ						
+TalkEvent_23_011ID	21		三人	やったー！						
+TalkEvent_23_011ID	22		ランターナイルカ	キュイーッ！						
+TalkEvent_23_011ID	23	Valeria	ヴァレリア	すっごーい！　あんた、泳ぎ速いのね						
+TalkEvent_23_011ID	24	Klaudia	クラウディア	わあ……他にも魚がいっぱい！\n綺麗……						
+TalkEvent_23_011ID	25	Klaudia	クラウディア	ねえ、イルカさん。あっちのほうまで行ける？						
+TalkEvent_23_011ID	26		ランターナイルカ	キュイーッ！						
+TalkEvent_23_011ID	27	Klaudia	クラウディア	わあ、言うこと聞いてくれた！\nこっちの気持ちが分かるのかな？						
+TalkEvent_23_011ID	28	Valeria	ヴァレリア	ねえ、もっと速く泳げる？						
+TalkEvent_23_011ID	29		ランターナイルカ	キュイイー！						
+TalkEvent_23_011ID	30	Valeria	ヴァレリア	あははっ！　気持ちいいー！						
+TalkEvent_23_012ID	0	Valeria	ヴァレリア	んー！　おいしい！\nやっぱり、フロッケのご飯は最高ね！						
+TalkEvent_23_012ID	1	Flocke	フロッケ	えへへ、ありがとうございます						
+TalkEvent_23_012ID	2	Lanze	ランツェ	しかし、船の上でこんな豪華な食事が食えるとはな						
+TalkEvent_23_012ID	3	Flocke	フロッケ	錬金術士の方々が作ってくれた蔵のおかげで、\n色々な食材が使えますから						
+TalkEvent_23_012ID	4	Lanze	ランツェ	不思議なもんだよな。\n何日も食料を保存しておける蔵なんて						
+TalkEvent_23_012ID	5	Ryza	ライザ	乾パンとか干し肉とか、保存食ばっかりじゃ\n飽きちゃうからね						
+TalkEvent_23_012ID	6	Lanze	ランツェ	色々な栄養が摂取できるってのも、航海じゃでかいぜ						
+TalkEvent_23_012ID	7	Plachta	プラフタ	えへへ、苦労して作った甲斐がありました						
+TalkEvent_23_012ID	8	Flocke	フロッケ	おかわりもありますから、欲しい方は言ってくださいね						
+TalkEvent_23_012ID	9	Valeria	ヴァレリア	じゃ、おかわり！						
+TalkEvent_23_012ID	10	Ryza	ライザ	って、さっそく！？\nヴァレリア、食べるの早すぎない？						
+TalkEvent_23_012ID	11	Valeria	ヴァレリア	なんか、手が止まらないのよ。ご飯が美味しいのは\nもちろんだけど、この雰囲気がいいっていうか						
+TalkEvent_23_012ID	12	Klaudia	クラウディア	ふふ、その気持ち分かるかも						
+TalkEvent_23_012ID	13	Klaudia	クラウディア	こんなに素敵な月の下で食事なんて、\nなんだかすごく特別な感じがしますよね						
+TalkEvent_23_012ID	14	Flocke	フロッケ	昼の間はひどい嵐だったのに。すっかり晴れましたね						
+TalkEvent_23_012ID	15	Plachta	プラフタ	大の月と、子の月……。月が２つあるのも、\nこの世界の特徴ですね。すこぶる興味深いです						
+TalkEvent_23_012ID	16	Ryza	ライザ	あたしたちの世界じゃ月は１つだもんね						
+TalkEvent_23_012ID	17	Lanze	ランツェ	子の月には黄金星って別名もあってな						
+TalkEvent_23_012ID	18	Ryza	ライザ	へえ、黄金星……						
+TalkEvent_23_012ID	19	Lanze	ランツェ	船乗りの間じゃ、あの星に航海の無事を願う……\nなんつう風習もあったりするくらいだ						
+TalkEvent_23_012ID	20	Plachta	プラフタ	ある意味、この世界の信仰の象徴なのですね						
+TalkEvent_23_012ID	21	Lanze	ランツェ	まあ……あの星は金の塊なんだって、\nバカなことを言ってた奴もいたがな						
+TalkEvent_23_012ID	22		船員Ａ	黄金星は、金の塊でできてんだ！\nそれだけの宝があれば一生分の酒が買えるぜ！						
+TalkEvent_23_012ID	23		船員Ｂ	ははは！　そりゃいいな！						
+TalkEvent_23_012ID	24		バーバラ	まったく……信仰心のない奴らだねえ						
+TalkEvent_23_012ID	25	Lanze	ランツェ	いいじゃねえか、黄金星。俺らの船で、\nいつか星の海にも漕ぎ出してやろうぜ						
+TalkEvent_23_012ID	26	Lanze	ランツェ	バーバラ、俺はな。\nあの黄金星を持って帰ってくる男だ！						
+TalkEvent_23_012ID	27		船員Ａ	よく言った船長！　それでこそ男だ！！						
+TalkEvent_23_012ID	28	Lanze	ランツェ	持って帰るぞ！　黄金星！						
+TalkEvent_23_012ID	29		船員たち	おおーー！						
+TalkEvent_23_012ID	30		バーバラ	本当に仕方ない男だね。\nあんたって奴はさ……						
+TalkEvent_23_012ID	31	Lanze	ランツェ	……ふっ、懐かしいな。\nあの頃は、そんなバカみてえな話をよくした						
+TalkEvent_23_012ID	32	???	？？？	――船長……俺たち、アンタについていくぜ！						
+TalkEvent_23_012ID	33	Lanze	ランツェ	……っ！？						
+TalkEvent_23_012ID	34	Flocke	フロッケ	ランツェさん、どうかしたんですか？						
+TalkEvent_23_012ID	35	Lanze	ランツェ	あ、いや……なんでもねえ。\n気のせいか……						
+TalkEvent_23_012ID	36	Ryza	ライザ	ねえ、クラウディア。\nこの月に合いそうな曲、何か演奏してよ						
+TalkEvent_23_012ID	37	Flocke	フロッケ	いいですね！　フロッケも聞きたいです！						
+TalkEvent_23_012ID	38	Klaudia	クラウディア	それじゃあ……この曲はどうかな？						
+TalkEvent_23_013ID	0	Resna	レスナ	ララさん。休まれていなかったんですね						
+TalkEvent_23_013ID	1	Lara	ララ	ふふ。少々、大陸に残してきた皆のことを\n想っていましたの						
+TalkEvent_23_013ID	2	Lara	ララ	ララ・キングダムの者たちはもちろんのこと、\n錬金党の面々のことも						
+TalkEvent_23_013ID	3	Resna	レスナ	（極夜の錬金党。己の渇望を満たすために集った、\n　高い実力を備えた５人の錬金術士たち）						
+TalkEvent_23_013ID	4	Resna	レスナ	（彼らは自分たちの目的のために素材を独占しようとし\n　度々私たちと対立してきた）						
+TalkEvent_23_013ID	5	Resna	レスナ	（党首クリセルダの目的は、世界を裏で操る\n　「パルメ族」を表舞台に引きずり出すことだった）						
+TalkEvent_23_013ID	6	Resna	レスナ	（クリセルダさんが敗れ、事件が終息した後、\n　極夜の錬金党は解体され、彼らは王国に降った）						
+TalkEvent_23_013ID	7	Geron	ジェロン	俺は、無数島群域へ向かう船には乗れない。\nティムのことを見ている必要があるからだ						
+TalkEvent_23_013ID	8	Geron	ジェロン	もし、ランターナ大陸と無数島群域が\n飴で自由に移動できるようになったならば……						
+TalkEvent_23_013ID	9	Geron	ジェロン	そのときは、今までと同じように力を貸そう						
+TalkEvent_23_013ID	10	Lara	ララ	あなたならそう答えると思っていましたわ						
+TalkEvent_23_013ID	11	Criselda	クリセルダ	私とアンチュ、ワルターも船には乗れないわ。\n王国の監視が厳しいもの						
+TalkEvent_23_013ID	12	Walther	ワルター	王国の目が届く範囲で、やれることをやれ、だそうです						
+TalkEvent_23_013ID	13	Antje	アンチュ	だから、私たちの中で船に乗るのはララだけになるわ						
+TalkEvent_23_013ID	14	Lara	ララ	クリセルダとしては退屈ですわね？						
+TalkEvent_23_013ID	15	Criselda	クリセルダ	焦ることはないわ。私の力が必要なときはすぐに来る						
+TalkEvent_23_013ID	16	Criselda	クリセルダ	そう遠くないうちに、無数島群域に行けるわ。\nアンチュも一緒よ？　当然ワルターも						
+TalkEvent_23_013ID	17	Lara	ララ	では、道を切り開いておきますわ。王として						
+TalkEvent_23_013ID	18	Resna	レスナ	皆さんのことが心配ですか？						
+TalkEvent_23_013ID	19	Lara	ララ	ええ。ジェロンはともかく、他の三人は騒ぎを起こさず\n過ごしているでしょうか……などと						
+TalkEvent_23_013ID	20	Resna	レスナ	それは……多分、大丈夫だと思いますけど						
+TalkEvent_23_013ID	21	Lara	ララ	まあ、それ以上に、彼らに心配をかけないよう、\nわたくしも励まなくてはなりませんわね						
+TalkEvent_23_013ID	22	Resna	レスナ	はい。私、ララさんが一緒にいてくださって心強いです						
+TalkEvent_23_013ID	23	Resna	レスナ	――――！						
+TalkEvent_23_013ID	24	Lara	ララ	では、そう仰ってくれるあなたのために、\n力を振るわせてもらいましょうか						
+TalkEvent_23_013ID	25	Resna	レスナ	はい！						
+TalkEvent_23_014ID	0	Totori	トトリ	そーれっ！						
+TalkEvent_23_014ID	1	Resna	レスナ	わあ、さすがトトリ先輩！\nまた釣れましたね！						
+TalkEvent_23_014ID	2	Izana	イザナ	おおっ、こっちも来た来た！\nてーいっ！						
+TalkEvent_23_014ID	3	Wilbell	ウィルベル	むむむむ……！\nなんであたしだけ釣れないのよ						
+TalkEvent_23_014ID	4	Wilbell	ウィルベル	トトリが教えてくれた通りやってるのに。\nこうなったら魔法で、ひと思いに……						
+TalkEvent_23_014ID	5	Resna	レスナ	そ、それは我慢してください！\n他の魚も逃げちゃいますからっ						
+TalkEvent_23_014ID	6	Mimi	ミミ	……ねえ。あなたの竿、引いてるみたいだけど？						
+TalkEvent_23_014ID	7	Wilbell	ウィルベル	えっ？　ほ、本当だ！\nぐぐっ……な、なにこれ、すごい力！						
+TalkEvent_23_014ID	8	Totori	トトリ	ウィルベルさん、放さないでください！\nこの引き、絶対に大物ですよ！						
+TalkEvent_23_014ID	9	Wilbell	ウィルベル	そ、そんなこと言われたって……くっ、ひゃあっ！！						
+TalkEvent_23_014ID	10	Mimi	ミミ	ちょっと、しっかりしなさいよ！						
+TalkEvent_23_014ID	11	Izana	イザナ	大物、逃がしてたまるかー！						
+TalkEvent_23_014ID	12		三人	せーのおおお！！！						
+TalkEvent_23_014ID	13	Resna	レスナ	す、すごい！　大物ですよ！\nやりましたね、ウィルベルさん！						
+TalkEvent_23_014ID	14	Wilbell	ウィルベル	こ、このウィルベルさんにかかれば当然よ！\n……はあっ、はあっ……						
+TalkEvent_23_014ID	15	Resna	レスナ	じゃあ、さっそくお魚さんの下ごしらえを……あれ？\nあそこに見えるのって、島でしょうか？						
+TalkEvent_23_014ID	16	Mimi	ミミ	まだ無数島群域には到着していないはずだけど……\nただの離れ小島かしら						
+TalkEvent_23_014ID	17	Resna	レスナ	せっかくですし、調査と採取を兼ねて\n調べに行ってみませんか？						
+TalkEvent_23_014ID	18	Lanze	ランツェ	たった今、レスナたちから合図があった。\n向こうに見えてる島を調査するそうだ						
+TalkEvent_23_014ID	19	Lanze	ランツェ	俺たちはフロッケ号とバーバラ号を見てるから\n探索に出る奴は小船で上陸してくれ						
+TalkEvent_23_014ID	20	Ryza	ライザ	了解！　島の探索なんて、ワクワクするね！						
+TalkEvent_23_014ID	21	Valeria	ヴァレリア	そうね！\n美味しいものあるかしら？						
+TalkEvent_23_014ID	22	Lanze	ランツェ	島にあるのは食い物だけとは限らねぇぞ。\n身の危険を感じたら、すぐにフロッケ号まで戻ってこい						
+TalkEvent_23_014ID	23	Valeria	ヴァレリア	分かってるわ						
+TalkEvent_23_014ID	24	Flocke	フロッケ	フロッケ号……						
+TalkEvent_23_014ID	25	Lanze	ランツェ	ん？　どうした、天使ちゃん						
+TalkEvent_23_014ID	26	Flocke	フロッケ	この船に、フロッケの名前が\n付けられたことに、まだ慣れてなくて……						
+TalkEvent_23_014ID	27	Lanze	ランツェ	あー……勝手に決めちまって悪かったな。\n船の名前を好きに決めていいと言われたとき――						
+TalkEvent_23_014ID	28	Lanze	ランツェ	パッと頭に浮かんだのが、この名前だったんだよ。\nフロッケ号より、天使ちゃん号のほうがよかったか？						
+TalkEvent_23_014ID	29	Lanze	ランツェ	むしろ、もっと派手に大天使フロッケ号とか……						
+TalkEvent_23_014ID	30	Flocke	フロッケ	い、いえ！　フロッケ号で大丈夫ですっ！						
+TalkEvent_23_015ID	0	Resna	レスナ	ヴァレリア、そっちに行ったよ！						
+TalkEvent_23_015ID	1	Valeria	ヴァレリア	任せて！　やああっ！！						
+TalkEvent_23_015ID	2	Valeria	ヴァレリア	くっ、すばしっこいヤツね！\nミミ、お願い！						
+TalkEvent_23_015ID	3	Mimi	ミミ	言われなくたって……！\n――はああっ！						
+TalkEvent_23_015ID	4	Totori	トトリ	わあ、やったねミミちゃん！						
+TalkEvent_23_015ID	5	Mimi	ミミ	ふん。\nこの程度の敵、私の相手にもならないわ						
+TalkEvent_23_015ID	6	Resna	レスナ	ミミさん、今の一撃お見事でした。\nさすがトトリ先輩のご友人ですね！						
+TalkEvent_23_015ID	7	Mimi	ミミ	べ、別にトトリの友達とか関係ないでしょ？\n今のは私の実力だもの						
+TalkEvent_23_015ID	8	Totori	トトリ	うんうん、そうだよ！						
+TalkEvent_23_015ID	9	Totori	トトリ	ミミちゃんは私と一緒にいてくれるのが不思議なくらい\n強くて頼もしくて、すごい人なんだから！						
+TalkEvent_23_015ID	10	Ryza	ライザ	不思議ってことはないんじゃない？\nだって二人とも、息ぴったりだし						
+TalkEvent_23_015ID	11	Ryza	ライザ	お互いを思いやってるのが、見てて分かるなぁ						
+TalkEvent_23_015ID	12	Mimi	ミミ	そ、そんなことないわよ！　こっちはトトリに\n振り回されて困ってるんだから！						
+TalkEvent_23_015ID	13	Totori	トトリ	えへへ、そうだよね。ミミちゃんには\n頼ってばかりで……いつも、ごめんね？						
+TalkEvent_23_015ID	14	Mimi	ミミ	なっ！　今のは、ち、違うのよっ！\nトトリが謝ることなんてっ……						
+TalkEvent_23_015ID	15	Resna	レスナ	トトリ先輩、そのお気持ち分かります！						
+TalkEvent_23_015ID	16	Resna	レスナ	私もイザナちゃんに頼ってばかりで……\nもっとしっかりしなくちゃって、思うんですけど						
+TalkEvent_23_015ID	17	Izana	イザナ	えー？　あたしはレスナちゃんに\n頼られるの、すっごく嬉しいけどな						
+TalkEvent_23_015ID	18	Izana	イザナ	それだけ信頼してくれてるってことだし、\nその信頼に応えたいっていつも思うよ						
+TalkEvent_23_015ID	19	Resna	レスナ	イザナちゃん……						
+TalkEvent_23_015ID	20	Izana	イザナ	だよね、ミミ！						
+TalkEvent_23_015ID	21	Mimi	ミミ	え、ええ、そうね……						
+TalkEvent_23_015ID	22	Izana	イザナ	ほら！　やっぱりミミも\nトトリのこと大好きなんだよー！						
+TalkEvent_23_015ID	23	Mimi	ミミ	えっ！？　だ、大好き！？						
+TalkEvent_23_015ID	24	Totori	トトリ	ミミちゃん……！						
+TalkEvent_23_015ID	25	Mimi	ミミ	私は、その、だって……\nああ、もう！　そんな目で見ないでよトトリ！						
+TalkEvent_23_016ID	0	Ryza	ライザ	わあ、なんだろうこの植物？\nこのキノコも見たことない！						
+TalkEvent_23_016ID	1	Ryza	ライザ	はー、この島に来てよかった。\nどこもかしこも珍しいものばかり						
+TalkEvent_23_016ID	2	Ryza	ライザ	未開の地の探索！　これこそ冒険だよねー！						
+TalkEvent_23_016ID	3	Wilbell	ウィルベル	よくそんなにはしゃぎ回れるわね。\nいつもの探索と変わらないじゃない						
+TalkEvent_23_016ID	4	Mimi	ミミ	そうね。どれも同じ草に見えるけど。何が違うの？						
+TalkEvent_23_016ID	5	Ryza	ライザ	ぜんぜん違うよ！　こっちの葉っぱは丸いし\nこっちは棘があるし……						
+TalkEvent_23_016ID	6	Ryza	ライザ	効能は……見ただけじゃ分かんないけど。\n錬金術の素材になりそうなものばかりだよ						
+TalkEvent_23_016ID	7	Ryza	ライザ	あー、色々試したくなってきたー！						
+TalkEvent_23_016ID	8	Wilbell	ウィルベル	はあ、どうして錬金術士って\n素材を前にするとみんな子どもっぽくなるのかしら						
+TalkEvent_23_016ID	9	Mimi	ミミ	好奇心の塊というか……無邪気すぎるのよね						
+TalkEvent_23_016ID	10	Ryza	ライザ	そんなことないと思うけどなあ。\n二人だって……あ！						
+TalkEvent_23_016ID	11	Ryza	ライザ	ねえねえ、二人とも。\n見てほしいものがあるんだけど						
+TalkEvent_23_016ID	12	Wilbell	ウィルベル	なによ？						
+TalkEvent_23_016ID	13	Ryza	ライザ	じゃーん！！						
+TalkEvent_23_016ID	14	Wilbell	ウィルベル	ひっ……きゃああああ！！						
+TalkEvent_23_016ID	15	Mimi	ミミ	な、ななな、何よそれ！						
+TalkEvent_23_016ID	16	Ryza	ライザ	なんだろう。あたしも分かんない。\nでも、変わった生き物だよねー						
+TalkEvent_23_016ID	17	Wilbell	ウィルベル	それ、触っても大丈夫なの？\nっていうか、よく触れたわね！？						
+TalkEvent_23_016ID	18	Ryza	ライザ	あはは、大丈夫だよ。\n人間が近づいても逃げなかったし						
+TalkEvent_23_016ID	19	Ryza	ライザ	もしかしたら、ランターナイルカみたいに\n人間が好きかも……あ、噛まれた						
+TalkEvent_23_016ID	20	Mimi	ミミ	な、なにやってるのよ！　治療しなさい、治療！						
+TalkEvent_23_016ID	21	Wilbell	ウィルベル	好奇心旺盛にもほどがあるわよ、ライザ！						
+TalkEvent_23_016ID	22	Resna	レスナ	ライザ先輩たち、すごく楽しそうですね						
+TalkEvent_23_016ID	23	Totori	トトリ	うん、ミミちゃんが\nあんなにはしゃいでるのって珍しいかも						
+TalkEvent_23_016ID	24	Mimi	ミミ	それ、早くどうにかしなさいよ！						
+TalkEvent_23_016ID	25	Ryza	ライザ	じゃあ、ウィルベル。\nちょっと持っててくれる？						
+TalkEvent_23_016ID	26	Wilbell	ウィルベル	嫌に決まってるでしょ！！						
+TalkEvent_23_016ID	27	Totori	トトリ	ふふっ。\nなんだか子どもみたいで可愛いよね						
+TalkEvent_23_016ID	28	Resna	レスナ	ふふっ、そうですね！						
+TalkEvent_23_017ID	0	Valeria	ヴァレリア	色んな素材が採れたわね						
+TalkEvent_23_017ID	1	Ryza	ライザ	うん。面白そうな素材がいーっぱい！　\nあ～、早く調合してみたいっ！						
+TalkEvent_23_017ID	2	Valeria	ヴァレリア	…………？						
+TalkEvent_23_017ID	3	Resna	レスナ	どうしたの？						
+TalkEvent_23_017ID	4	Izana	イザナ	誰かいる。あっちの物陰						
+TalkEvent_23_017ID	5	Totori	トトリ	ランツェさんたちかな？						
+TalkEvent_23_017ID	6	???	？？？	――あなたたち、誰？						
+TalkEvent_23_017ID	7	Valeria	ヴァレリア	……んん？						
+TalkEvent_23_017ID	8	Resna	レスナ	（私たちの船の乗組員じゃない。\n　じゃあ、いったい……？）						
+TalkEvent_23_017ID	9	Wilbell	ウィルベル	それはこっちのセリフよ。\nあんたが先に名乗りなさいよ						
+TalkEvent_23_017ID	10	???	？？？	それもそう。あなた、なかなか賢いわね						
+TalkEvent_23_017ID	11	Bepp	ベップ	私は――ノーヴァ神聖国聖戦士、ベップ・ジムロック						
+TalkEvent_23_017ID	12	Izana	イザナ	ノーヴァ神聖国！？						
+TalkEvent_23_017ID	13	Ryza	ライザ	じゃあ、この子は無数島群域の……！？						
+TalkEvent_23_017ID	14	Izana	イザナ	アタシたち、もうそんな所まで来たんだね！！						
+TalkEvent_23_017ID	15	Resna	レスナ	うん！！！						
+TalkEvent_23_017ID	16	Bepp	ベップ	…………？						
+TalkEvent_23_017ID	17	Resna	レスナ	はじめまして、ベップさん。\n私はレスナ・シュテルネンリヒト						
+TalkEvent_23_017ID	18	Resna	レスナ	ランターナ大陸から、海を越えてやって来ました						
+TalkEvent_23_017ID	19	Bepp	ベップ	任務の途中、見慣れない船を見かけて来てみたら……\n大陸からの旅人だったなんて						
+TalkEvent_23_017ID	20	Bepp	ベップ	へぇ……大陸の人ってこんな感じなのね						
+TalkEvent_23_017ID	21	Bepp	ベップ	かわいい						
+TalkEvent_23_017ID	22	Resna	レスナ	お、お褒めの言葉、ありがとうございます						
+TalkEvent_23_017ID	23	Bepp	ベップ	ん、そうだ。これあげる。美味しいわよ						
+TalkEvent_23_017ID	24	Resna	レスナ	おぉ！　いただきます！						
+TalkEvent_23_017ID	25	Resna	レスナ	！　噛めば噛むほど旨味が出ます、ベップさん						
+TalkEvent_23_017ID	26	Bepp	ベップ	よかった						
+TalkEvent_23_017ID	27	Valeria	ヴァレリア	ご飯を分けてくれるなんて、\nきっと、すごくいい人よ						
+TalkEvent_23_017ID	28	Ryza	ライザ	あはは、そうだね						
+TalkEvent_23_017ID	29	Bepp	ベップ	頂獣のせいで、大陸からの船は来なくなった、\nと聞いていたんだけど						
+TalkEvent_23_017ID	30	Resna	レスナ	はい、その頂獣を退治して、\n無数島群域に行く予定なんです						
+TalkEvent_23_017ID	31	Izana	イザナ	そっちの任務っていうのは？\n聖戦士？　だって言ってたけど						
+TalkEvent_23_017ID	32	Bepp	ベップ	頂獣の縄張りまで来て動きを監視しているの。\n私たちは、神聖国の安全を守るのが役目だから						
+TalkEvent_23_017ID	33	Mimi	ミミ	でも、そっちの国とはまだかなり距離があるわよね						
+TalkEvent_23_017ID	34	Bepp	ベップ	そうね。ここから船で数日。\nでも、それほどに危険な存在だから						
+TalkEvent_23_017ID	35	Bepp	ベップ	この島も、頂獣の縄張りの中よ						
+TalkEvent_23_017ID	36	Wilbell	ウィルベル	えっ！？　そうなの！？						
+TalkEvent_23_017ID	37	Totori	トトリ	でも、頂獣が出る場所は嵐になるって……						
+TalkEvent_23_017ID	38	Bepp	ベップ	嵐になるのは、頂獣が実際にいる場所の近くだけ。\n縄張りはもっと広いの						
+TalkEvent_23_017ID	39	Bepp	ベップ	そして、その行動範囲は年々広がっている						
+TalkEvent_23_017ID	40	Mimi	ミミ	つまり、今は運よく出会っていないだけってことね						
+TalkEvent_23_017ID	41	Bepp	ベップ	そうね。できるだけ早く、この海域を抜けたほうがいい						
+TalkEvent_23_017ID	42	Resna	レスナ	ベップさん。私たちはその頂獣……\nクヴァレルガを討伐するつもりです						
+TalkEvent_23_017ID	43	Resna	レスナ	私たちは、昔のように海を自由に行き来できる\nようにしたいと思っているんです						
+TalkEvent_23_017ID	44	Valeria	ヴァレリア	そのために、色々準備してきたんだから						
+TalkEvent_23_017ID	45	Bepp Zimlock	ベップ・ジムロック	無数島群域の「ノーヴァ神聖国」からやってきた少女。\n国の安全を守るという使命を帯びた「聖戦士」の一人						
+TalkEvent_23_018ID	0	Lanze	ランツェ	――クヴァレルガの厄介なところは大きく２つある。\n１つは海が戦場になるってことだ						
+TalkEvent_23_018ID	1	Roman	ロマン	こちらは小回りの効かない船の上で戦うしかないが、\nヤツは海を自由に動く……機動力が段違い、だね						
+TalkEvent_23_018ID	2	Lanze	ランツェ	そういうことだ。それに、ヤツは嵐と共に現れる。\n普通の船じゃ、動きについていけねぇ						
+TalkEvent_23_018ID	3	Resna	レスナ	私たちが乗る船には、錬金術で作った推進装置が\n使われます。それで何とかならないでしょうか						
+TalkEvent_23_018ID	4	Lanze	ランツェ	ありゃあくまで長距離の航海に備えたものだからな\nマシにはなるだろうが、まだ足りねえ						
+TalkEvent_23_018ID	5	Resna	レスナ	なるほど……出力を上げることはできますが、\n船の耐久性が心配ですし、積める燃料にも限りが……						
+TalkEvent_23_018ID	6	Lanze	ランツェ	そういうことなら、瞬間的に噴かしゃいけるか？\n一瞬でも加速できりゃ、ぐっと戦いやすくなるはずだ						
+TalkEvent_23_018ID	7	Totori	トトリ	そういえば、前にも似たようなことをやりましたね						
+TalkEvent_23_018ID	8	Resna	レスナ	確かに、それなら何とかなると思います。出力を調整\nできるようにして、燃料も特殊なものを用意すれば……						
+TalkEvent_23_018ID	9	Roman	ロマン	よし、その方向で考えてみようじゃないか						
+TalkEvent_23_018ID	10	Valeria	ヴァレリア	それで、もう１つの厄介なところって？						
+TalkEvent_23_018ID	11	Lanze	ランツェ	ヤツが使う「水の刃」だ。ヤツは海水を吸い込んで、\nそれを刃物みてえに吐き出してきやがる						
+TalkEvent_23_018ID	12	Lanze	ランツェ	……俺の船は、その刃で真っ二つになった						
+TalkEvent_23_018ID	13	Resna	レスナ	それほどの威力が……						
+TalkEvent_23_018ID	14	Lanze	ランツェ	ま、ヤツの必殺攻撃ってところだろうな。\nだが、その攻撃こそがヤツの弱点だと俺は睨んでる						
+TalkEvent_23_018ID	15	Valeria	ヴァレリア	どういうこと？						
+TalkEvent_23_018ID	16	Lanze	ランツェ	ヤツは水を吐き出すとき、大きく口を開く。\nあのときもそうだった						
+TalkEvent_23_018ID	17	Lanze	ランツェ	その口の中に、光るものが見えたんだ。\nあれはきっと、ヤツの急所に違いねえ。心臓とかよ						
+TalkEvent_23_018ID	18	Lanze	ランツェ	ま、確証はねえんだがな。色んな海の魔物を\n見てきた上での、船乗りの勘ってヤツだ						
+TalkEvent_23_018ID	19	Roman	ロマン	海で船乗りの勘は重要じゃないか。\nあなたなら、なおさらだよ						
+TalkEvent_23_018ID	20	Roman	ロマン	それに、頂獣と言っても生物は生物だ。\n身体の外よりは内側のほうが脆いに決まっているからね						
+TalkEvent_23_018ID	21	Valeria	ヴァレリア	じゃあ、口を開いた瞬間に攻撃しちゃえばいいのね						
+TalkEvent_23_018ID	22	Lanze	ランツェ	そいつが一苦労なんだ。間に合わなかったり、\n仕留めきれなかったりしたら、こっちは真っ二つだ						
+TalkEvent_23_018ID	23	Totori	トトリ	どこまで耐えられるかはわかりませんけど、\n何とか水の刃を防げるように改造してみましょうか						
+TalkEvent_23_018ID	24	Resna	レスナ	あとは、口を開いた状態で動きを止められないかも\n考えてみます						
+TalkEvent_23_018ID	25	Roman	ロマン	大体、方向性は見えてきたね						
+TalkEvent_23_018ID	26	Roman	ロマン	これは、この国の未来をも左右する重要な戦いになる。\n力を合わせて乗りきろうじゃないか						
+TalkEvent_23_019ID	0	Lanze	ランツェ	なるほど、お前はノーヴァ神聖国の……						
+TalkEvent_23_019ID	1	Bepp	ベップ	さっきの島で、大体の事情は聞いたわ						
+TalkEvent_23_019ID	2	Bepp	ベップ	頂獣の存在は、我が国にとっても脅威。\n可能な範囲で協力するわ						
+TalkEvent_23_019ID	3	Lanze	ランツェ	そりゃあ心強い。よろしく頼むぜ						
+TalkEvent_23_019ID	4	Valeria	ヴァレリア	もうあいつの縄張りには入ってるって話だったわね						
+TalkEvent_23_019ID	5	Lanze	ランツェ	いつ襲ってきてもおかしくねえ。\n気を引き締めろよ						
+TalkEvent_23_019ID	6	Valeria	ヴァレリア	もちろんよ！						
+TalkEvent_23_019ID	7	Ryza	ライザ	ええっ！？						
+TalkEvent_23_019ID	8	Flocke	フロッケ	きゃあっ！						
+TalkEvent_23_019ID	9	Bepp	ベップ	この大波は……						
+TalkEvent_23_019ID	10	Klaudia	クラウディア	空までが、あっという間に真っ暗に……！						
+TalkEvent_23_019ID	11	Lanze	ランツェ	来やがったか……						
+TalkEvent_23_019ID	12		声	あああああああ						
+TalkEvent_23_019ID	13		声	おお……おオオ……						
+TalkEvent_23_019ID	14	Klaudia	クラウディア	男の人や女の人……色んな……人の……声						
+TalkEvent_23_019ID	15	Plachta	プラフタ	頭の中に、直接聞こえてくるような……						
+TalkEvent_23_019ID	16	Valeria	ヴァレリア	ランツェから、話は聞いてたけど……不気味ね						
+TalkEvent_23_019ID	17		声	ウウ……アアア……						
+TalkEvent_23_019ID	18	Lanze	ランツェ	……あの時と同じだ。\nやっぱり俺の気のせいじゃなかったか						
+TalkEvent_23_019ID	19	Bepp	ベップ	あの頂獣には、餌食となった者の怨念が\n取りついていると言われている						
+TalkEvent_23_019ID	20	Bepp	ベップ	しかし、あれはそれを拒むどころか、\n使役して自分の力に変えているの						
+TalkEvent_23_019ID	21	Lanze	ランツェ	むかつく野郎だな						
+TalkEvent_23_019ID	22		声	……ツェ、ランツェ						
+TalkEvent_23_019ID	23	Lanze	ランツェ	なに！？　この声は……						
+TalkEvent_23_019ID	24		声	ランツェ						
+TalkEvent_23_019ID	25	Lanze	ランツェ	バーバラなのか……						
+TalkEvent_23_019ID	26		声	ランツェ。どうしてあんたは生きてるの？						
+TalkEvent_23_019ID	27	Lanze	ランツェ	……ってめぇぇぇぇ						
+TalkEvent_23_019ID	28	Lanze	ランツェ	バーバラの声で、勝手なことを\nほざいてんじゃあねぇぇぇぇ！！！						
+TalkEvent_23_019ID	29	Lanze	ランツェ	姿を現しやがれ！　クヴァレルガ！						
+TalkEvent_23_019ID	30	Flocke	フロッケ	っ！！						
+TalkEvent_23_019ID	31	Lanze	ランツェ	出たな！　総員！　戦闘準備だ！						
+TalkEvent_23_019ID	32	Lanze	ランツェ	てめえのために、錬金術士総出で用意してやったぜ！\nくらいやがれ！						
+TalkEvent_23_019ID	33	Ryza	ライザ	よしっ、効いてる！						
+TalkEvent_23_019ID	34	Plachta	プラフタ	対頂獣用の装備、改良した甲斐がありましたね！						
+TalkEvent_23_019ID	35	Lanze	ランツェ	逃げるんじゃねぇ！\nてめえは絶対に俺が倒してやる！！　追撃だ！！！						
+TalkEvent_23_019ID	36	Flocke	フロッケ	ダメです、ランツェさん！　深追いは危険です！						
+TalkEvent_23_019ID	37	Lanze	ランツェ	だ、だが……						
+TalkEvent_23_019ID	38	Flocke	フロッケ	相手はもう射程外です。弾を無駄遣いせず、\nレスナさんたちに任せて機会を窺いましょう						
+TalkEvent_23_019ID	39	Flocke	フロッケ	大切なことは、\nみんなで確実に頂獣を倒すことなんですから						
+TalkEvent_23_019ID	40	Lanze	ランツェ	……っ						
+TalkEvent_23_019ID	41	Lanze	ランツェ	そうだ……その通りだな、天使ちゃん。\nすまねえ、おかげで頭が冷えた						
+TalkEvent_23_019ID	42	Lanze	ランツェ	みんな！　次の接近に備えるぞ！						
+TalkEvent_23_019ID	43	Flocke	フロッケ	はい！						
+TalkEvent_23_020ID	0	Wilbell	ウィルベル	あいつ、こっちに来るわよ！						
+TalkEvent_23_020ID	1	Totori	トトリ	船の針路はこのまま！						
+TalkEvent_23_020ID	2		船長	任せて！						
+TalkEvent_23_020ID	3	Juna	ユナ	殿下、皆、振り落とされぬよう！						
+TalkEvent_23_020ID	4	Roman	ロマン	ああ。砲撃開始だ！						
+TalkEvent_23_020ID	5	Izana	イザナ	はっ！						
+TalkEvent_23_020ID	6	Resna	レスナ	はいっ！						
+TalkEvent_23_020ID	7	Izana	イザナ	やぁぁぁぁぁっ！						
+TalkEvent_23_020ID	8	Mimi	ミミ	逃がすもんですか！						
+TalkEvent_23_020ID	9	Totori	トトリ	船長さん、追いかけられますか！？						
+TalkEvent_23_020ID	10		船長	そのための私。全速前進！						
+TalkEvent_23_020ID	11	Izana	イザナ	よし、射程に入ったよ！						
+TalkEvent_23_020ID	12	Lara	ララ	ですが、このままではあちらの船に\n当たってしまいますわ						
+TalkEvent_23_020ID	13	Resna	レスナ	打ち合わせ通り、頂獣の行き先に回り込みましょう！						
+TalkEvent_23_020ID	14	Totori	トトリ	うん。加速装置の出番だね。\n船長さん、お願いします！						
+TalkEvent_23_020ID	15		船長	了解！						
+TalkEvent_23_020ID	16	Juna	ユナ	待て！　ヤツが攻撃態勢に入るぞ！						
+TalkEvent_23_020ID	17	Resna	レスナ	っ！						
+TalkEvent_23_020ID	18	Roman	ロマン	っ！						
+TalkEvent_23_020ID	19	Izana	イザナ	みんな、どこかに掴まって！　バーバラ号、頑張れ！						
+TalkEvent_23_020ID	20	Juna	ユナ	しまった！						
+TalkEvent_23_020ID	21		人型	……い……苦し……						
+TalkEvent_23_020ID	22	Juna	ユナ	あの鎧は……まさか、ランターナ王国の！？						
+TalkEvent_23_020ID	23	Roman	ロマン	過去の記録では、クヴァレルガとの交戦時に\n亡霊のようなものを見た、というものがあった						
+TalkEvent_23_020ID	24	Wilbell	ウィルベル	あれがそうだっていうの！？						
+TalkEvent_23_020ID	25		人型	うう……いタ……い……						
+TalkEvent_23_020ID	26	Roman	ロマン	クヴァレルガに沈められた者たちの怨霊……。\nまさか比喩でもなんでもなく、怨霊そのものとは						
+TalkEvent_23_020ID	27	Resna	レスナ	そんなことって……						
+TalkEvent_23_020ID	28	Roman	ロマン	ウェルテックスといい、\n頂獣というのは、本当におぞましい相手だ						
+TalkEvent_23_020ID	29		船長	加速の準備にもう少しかかるわ！\n少しだけ時間を稼いで！						
+TalkEvent_23_020ID	30	Izana	イザナ	こうなったら……コイツを倒すしかない！						
+TalkEvent_23_020ID	31	Resna	レスナ	で、でも！　何か救える方法は……						
+TalkEvent_23_020ID	32		人型	ウウ……アアア……						
+TalkEvent_23_020ID	33	Roman	ロマン	今はその余裕が無い！　倒さなければやられる！						
+TalkEvent_23_020ID	34	Roman	ロマン	今、ヤツを直接叩くのは難しい！\n機が来るまで耐えるんだ！						
+TalkEvent_23_020ID	35	Izana	イザナ	みんな、海に落っこちないようにね！						
+TalkEvent_23_020ID	36	Resna	レスナ	頂獣クヴァレルガ……手強いっ！						
+TalkEvent_23_020ID	37	Izana	イザナ	絶対負けないよ！\nハンマーーーーッ！！						
+TalkEvent_23_020ID	38	Roman	ロマン	トトリ、加速装置の準備はどうだい！？						
+TalkEvent_23_020ID	39	Totori	トトリ	もうちょっとです！\nあと少しだけ持ちこたえてください！						
+TalkEvent_23_021ID	0	Totori	トトリ	加速装置の準備、できました！						
+TalkEvent_23_021ID	1		船長	じゃ、行くわよ！						
+TalkEvent_23_021ID	2	Juna	ユナ	殿下、皆、お覚悟を！						
+TalkEvent_23_021ID	3	Resna	レスナ	ううっ、すごい衝撃……！						
+TalkEvent_23_021ID	4	Lara	ララ	ですが、目論見通りの陣形になりましたわね						
+TalkEvent_23_021ID	5	Roman	ロマン	今だ！　砲撃再開！						
+TalkEvent_23_021ID	6	Wilbell	ウィルベル	うんうん！　あっちもしっかり撃ってる！　\nいい感じに追い詰められそうね！						
+TalkEvent_23_021ID	7	Resna	レスナ	はい！　……あれ？						
+TalkEvent_23_021ID	8	Mimi	ミミ	や、やったの！？						
+TalkEvent_23_021ID	9	Lara	ララ	……いえ、そう容易くはなさそうですわ						
+TalkEvent_23_021ID	10	Juna	ユナ	殿下！　後ろへ！						
+TalkEvent_23_021ID	11	Izana	イザナ	レスナちゃん！						
+TalkEvent_23_021ID	12	Wilbell	ウィルベル	ひゃぁぁぁっ！？						
+TalkEvent_23_021ID	13	Mimi	ミミ	ったく、しぶといわね！						
+TalkEvent_23_021ID	14	Roman	ロマン	みんな！　振り落とされるな！						
+TalkEvent_23_021ID	15	Izana	イザナ	でやぁぁぁぁぁっ！						
+TalkEvent_23_021ID	16	Resna	レスナ	く……っ！						
+TalkEvent_23_021ID	17	Resna	レスナ	止まった……！？						
+TalkEvent_23_021ID	18	Wilbell	ウィルベル	いや、きっと攻撃の機会をうかがってるのよ。\n卑怯なヤツ……！						
+TalkEvent_23_021ID	19	Resna	レスナ	海中の敵を攻撃できるよう、\n船底に武器を取り付けています、それを使えば……！						
+TalkEvent_23_021ID	20		船長	もうすでにその武器も起動してる。\nでも、あまり効いてないみたいね						
+TalkEvent_23_021ID	21		船長	さすが頂獣。何もかも計算通りってわけにはいかないか						
+TalkEvent_23_021ID	22		船員Ａ	船長！　船底が破損してます！						
+TalkEvent_23_021ID	23	Totori	トトリ	すぐ修理しましょう！\nミミちゃん！						
+TalkEvent_23_021ID	24	Mimi	ミミ	ええ、手伝うわ。道具の用意は抜かりないものね						
+TalkEvent_23_021ID	25	Roman	ロマン	海の中から引きずり出さないことには\nこちらも攻められないね						
+TalkEvent_23_021ID	26	Resna	レスナ	そうですね……何か手を考えないと。\n邪知に長けた相手の、上をいかねば！						
+TalkEvent_23_021ID	27	Saskia	ザスキア	レスナ。あなたはこのまま果ての大陸を目指せば\nいいの。私も応援しちゃうわ						
+TalkEvent_23_021ID	28	Resna	レスナ	（たとえ師匠の庇護が無くても……やり遂げてみせる）						
+TalkEvent_23_022ID	0	Lanze	ランツェ	くっ！　野郎、海の中なら優位に立てると踏んだか						
+TalkEvent_23_022ID	1	Plachta	プラフタ	厄介ですね……\nこのままでは、一方的にやられてしまいます						
+TalkEvent_23_022ID	2	Ryza	ライザ	ちょっとでも上に上がってきたときを狙って……\n撃つ！　撃つ！						
+TalkEvent_23_022ID	3	Flocke	フロッケ	ダメです！　効いてません！\n船底に取り付けてある武器も、効果が薄いようです						
+TalkEvent_23_022ID	4	Valeria	ヴァレリア	くっ……こうなったら、飛び込んで直接殴ろうかしら！						
+TalkEvent_23_022ID	5	Plachta	プラフタ	それこそダメですよ！　作戦を忘れないでください						
+TalkEvent_23_022ID	6	Valeria	ヴァレリア	分かってるけど……このままじゃ埒が明かないわよ						
+TalkEvent_23_022ID	7	Bepp	ベップ	ここは、私たちに任せて						
+TalkEvent_23_022ID	8	Lanze	ランツェ	何か手があるのか？						
+TalkEvent_23_022ID	9	Bepp	ベップ	ん						
+TalkEvent_23_022ID	10	Lanze	ランツェ	お、おい！　危ねえぞ！						
+TalkEvent_23_022ID	11	Bepp	ベップ	聖戦士だから、平気						
+TalkEvent_23_022ID	12	Valeria	ヴァレリア	ん？　今何か――						
+TalkEvent_23_022ID	13	Bepp	ベップ	ちょっとうるさいかもしれない。耳を塞いで						
+TalkEvent_23_022ID	14	Ryza	ライザ	えっ？						
+TalkEvent_23_022ID	15	Klaudia	クラウディア	きゃっ！？						
+TalkEvent_23_022ID	16	Valeria	ヴァレリア	なにこの音！？						
+TalkEvent_23_022ID	17	Plachta	プラフタ	音波を発する爆弾……でしょうか！？						
+TalkEvent_23_022ID	18	Valeria	ヴァレリア	出てきた！						
+TalkEvent_23_022ID	19	Ryza	ライザ	そっか！　あの音に引き寄せられたんだ！						
+TalkEvent_23_022ID	20	Bepp	ベップ	本来は、頂獣の気をそらすために使うものだけどね						
+TalkEvent_23_022ID	21	Bepp	ベップ	あの頂獣は、音を頼りに敵の居場所を判別している						
+TalkEvent_23_022ID	22	Bepp	ベップ	水中は音が伝わりやすいから、あれにはよく効く……\nって、姉様が言っていた						
+TalkEvent_23_022ID	23	Klaudia	クラウディア	ベップさんのお姉さん……？						
+TalkEvent_23_022ID	24	Bepp	ベップ	私たちとしても、頂獣を倒すべく研究は進めていたの						
+TalkEvent_23_022ID	25	Lanze	ランツェ	こ、この動きは……！						
+TalkEvent_23_022ID	26	Lanze	ランツェ	水の刃が来るぞ！　拘束弾の準備だ！						
+TalkEvent_23_022ID	27	Flocke	フロッケ	は、はいっ！						
+TalkEvent_23_022ID	28	Valeria	ヴァレリア	あれがクヴァレルガの心臓部分……！						
+TalkEvent_23_022ID	29	Klaudia	クラウディア	きゃあっ！						
+TalkEvent_23_022ID	30	Ryza	ライザ	これじゃ狙いがつけられない！						
+TalkEvent_23_022ID	31	Lanze	ランツェ	くそっ、大人しくしやがれ！						
+TalkEvent_23_022ID	32	Flocke	フロッケ	ああっ！　鎖が！						
+TalkEvent_23_022ID	33	Lanze	ランツェ	お前ら、伏せろおおおおっ！！						
+TalkEvent_23_023ID	0	Valeria	ヴァレリア	っ……真っ二つには、ならなかったわね……						
+TalkEvent_23_023ID	1	Lanze	ランツェ	ああ……だが、ギリギリだな。\nもう一発食らったら、さすがに――						
+TalkEvent_23_023ID	2	Ryza	ライザ	また！？						
+TalkEvent_23_023ID	3	Lanze	ランツェ	おいおい、嘘だろ！						
+TalkEvent_23_023ID	4	Lanze	ランツェ	（このままじゃ、天使ちゃんも、こいつらも、\n　また……！）						
+TalkEvent_23_023ID	5	Lanze	ランツェ	何か……何かねぇのか……！						
+TalkEvent_23_023ID	6	Lanze	ランツェ	たるだ！　燃料が入ったたるを海に落とせ！						
+TalkEvent_23_023ID	7	Valeria	ヴァレリア	えっ、なんで！？						
+TalkEvent_23_023ID	8	Lanze	ランツェ	燃料をヤツに吸い込ませるんだ！						
+TalkEvent_23_023ID	9	Ryza	ライザ	あっ、なるほど！　よーし！						
+TalkEvent_23_023ID	10	Lanze	ランツェ	来たな！						
+TalkEvent_23_023ID	11	Lanze	ランツェ	くらいやがれ！						
+TalkEvent_23_023ID	12	Bepp	ベップ	へえ、やるわね。お見事						
+TalkEvent_23_023ID	13	Plachta	プラフタ	これは効いたはずです！						
+TalkEvent_23_023ID	14	Ryza	ライザ	っ！　まだ動けるの！？						
+TalkEvent_23_023ID	15	Flocke	フロッケ	ちょ、直接来ました！						
+TalkEvent_23_023ID	16	Valeria	ヴァレリア	上等じゃない！　分かりやすくていいわ！						
+TalkEvent_23_023ID	17	Bepp	ベップ	好機ね。ここで仕留めてしまいましょう						
+TalkEvent_23_023ID	18	Lanze	ランツェ	久しぶりだな、クヴァレルガ。\n忘れたとは言わせねぇ						
+TalkEvent_23_023ID	19	Lanze	ランツェ	決着を付けようじゃねぇか						
+TalkEvent_23_023ID	20	Lanze	ランツェ	さっきの爆発も\nちったぁ効いてるみてぇだな						
+TalkEvent_23_023ID	21	Valeria	ヴァレリア	ようやく直接やり合えるわね！\nどっちが強いか、勝負よ！						
+TalkEvent_23_023ID	22	Ryza	ライザ	また嵐が強く……！						
+TalkEvent_23_023ID	23	Flocke	フロッケ	皆さん、振り落とされないように\n気を付けてください！						
+TalkEvent_23_023ID	24	Bepp	ベップ	さすがに、なかなかしぶとい……						
+TalkEvent_23_023ID	25	Lanze	ランツェ	いい加減くたばりやがれ！						
+TalkEvent_23_024ID	0	Lanze	ランツェ	あと一息……あと一息で、倒せる……！						
+TalkEvent_23_024ID	1	Ryza	ライザ	――！　また水の刃が来るっ！						
+TalkEvent_23_024ID	2	Bepp	ベップ	こんな至近距離で！						
+TalkEvent_23_024ID	3	Plachta	プラフタ	燃料はもう残ってませんよ！						
+TalkEvent_23_024ID	4	Flocke	フロッケ	皆さん！　伏せて！						
+TalkEvent_23_024ID	5	Valeria	ヴァレリア	まだ来ない……？						
+TalkEvent_23_024ID	6	Bepp	ベップ	なんだか苦しんでるみたい						
+TalkEvent_23_024ID	7	Ryza	ライザ	さっき飲み込んだ燃料で						
+TalkEvent_23_024ID	8	Ryza	ライザ	喉が詰まっちゃってるんじゃない！？						
+TalkEvent_23_024ID	9	Lanze	ランツェ	仕留めるなら今しかねえ！						
+TalkEvent_23_024ID	10	Lanze	ランツェ	くそっ、邪魔だ！						
+TalkEvent_23_024ID	11	Bepp	ベップ	――はっ！						
+TalkEvent_23_024ID	12	Bepp	ベップ	やあっ！！						
+TalkEvent_23_024ID	13	Bepp	ベップ	行って						
+TalkEvent_23_024ID	14	Lanze	ランツェ	おう！						
+TalkEvent_23_024ID	15	Lanze	ランツェ	くそったれの因縁もここまでだな						
+TalkEvent_23_024ID	16	Lanze	ランツェ	てめえは今、ここで俺が沈める！！						
+TalkEvent_23_024ID	17	Lanze	ランツェ	うおおおおおおおおおおおっ！！！						
+TalkEvent_23_024ID	18	Flocke	フロッケ	ランツェさんっ！！						
+TalkEvent_23_024ID	19	Valeria	ヴァレリア	ランツェ！！						
+TalkEvent_23_024ID	20	Lanze	ランツェ	――ぷはっ！						
+TalkEvent_23_024ID	21	Klaudia	クラウディア	ランツェさん！						
+TalkEvent_23_024ID	22	Ryza	ライザ	よかった……無事だったんだね						
+TalkEvent_23_024ID	23	Bepp	ベップ	とどめを刺したのね。いい気合だった						
+TalkEvent_23_024ID	24	Flocke	フロッケ	よかったです……本当に……						
+TalkEvent_23_024ID	25	Lanze	ランツェ	終わったんだな……						
+TalkEvent_23_024ID	26	Lanze	ランツェ	……やったぜ、みんな……バーバラ						
+TalkEvent_23_024ID	27		バーバラ	ほら、笑って。あんたは海の男でしょう？						
+TalkEvent_23_024ID	28			みんなを守って海を旅する、強い男なんだから						
+TalkEvent_23_024ID	29	Lanze	ランツェ	ああ。もう後ろを向くのは終わりにするぜ						
+TalkEvent_23_024ID	30	Lanze	ランツェ	だから……見ててくれよ、バーバラ。みんな						
+TalkEvent_23_025ID	0	Resna	レスナ	頂獣……倒せたんだ……						
+TalkEvent_23_025ID	1	Resna	レスナ	（外海で頂獣が出ること、大きな障害となることは、\n　ランツェさんからも強く聞かされてきた）						
+TalkEvent_23_025ID	2	Resna	レスナ	（それを乗り越える力を付けるために、\n　私はランターナ大陸を旅して……）						
+TalkEvent_23_025ID	3	Resna	レスナ	（出航前にも、長い時間をかけて準備を重ねて、\n　こうして倒すことができて……）						
+TalkEvent_23_025ID	4	Resna	レスナ	（でもこの先、何が待っているかはまったくの未知数）						
+TalkEvent_23_025ID	5	Resna	レスナ	ノーヴァ神聖国は、どんな場所なんだろう						
+TalkEvent_23_025ID	6	Roman	ロマン	レスナ、お疲れさま。\n果ての大陸に向けて、１つ壁を越えたね						
+TalkEvent_23_025ID	7	Resna	レスナ	はい。これでようやく入口に立つことができました						
+TalkEvent_23_025ID	8	Roman	ロマン	相変わらず、謙虚だね。\nもう少し喜んでも罰は当たらないと思うよ						
+TalkEvent_23_025ID	9	Roman	ロマン	……それより。見たかい？\nさっき、ノーヴァ神聖国の船が使っていた武器						
+TalkEvent_23_025ID	10	Resna	レスナ	はい。あれは間違いなく、\n錬金術によって作られたもの……						
+TalkEvent_23_025ID	11	Resna	レスナ	ノーヴァ神聖国にも、\n錬金術士がいるということでしょうか						
+TalkEvent_23_025ID	12	Bepp	ベップ	その通りよ						
+TalkEvent_23_025ID	13	Resna	レスナ	ベップさん！　いつの間に！？						
+TalkEvent_23_025ID	14	Bepp	ベップ	頂獣を倒した祝いに、喜びの舞でもと思って						
+TalkEvent_23_025ID	15	Bepp	ベップ	いぇー						
+TalkEvent_23_025ID	16	Resna	レスナ	（これも異文化交流！　よーし！）						
+TalkEvent_23_025ID	17	Resna	レスナ	こ、こうですか、ベップさん						
+TalkEvent_23_025ID	18	Bepp	ベップ	もっと、一陣の風になるの						
+TalkEvent_23_025ID	19	Resna	レスナ	か、風！　よぉーし、風だ、私は風になるんだ						
+TalkEvent_23_025ID	20	Roman	ロマン	これが、ノーヴァ神聖国の儀式なんだね						
+TalkEvent_23_025ID	21	Bepp	ベップ	いえ、私独自のやつ						
+TalkEvent_23_025ID	22	Resna	レスナ	あっ、そ、そうだったんですか						
+TalkEvent_23_025ID	23	Roman	ロマン	ところで、\nそちらの国に錬金術士がいるというのは本当かい？						
+TalkEvent_23_025ID	24	Bepp	ベップ	ええ						
+TalkEvent_23_025ID	25	Resna	レスナ	ごくり。い、いったいどんな方なんでしょう！？						
+TalkEvent_23_025ID	26	Bepp	ベップ	聡明で、可憐で、優秀で、能弁で、快活で……\n挙げればキリが無いわ						
+TalkEvent_23_025ID	27	Bepp	ベップ	ちょうど、レスナと同じくらいの年のはず						
+TalkEvent_23_025ID	28	Bepp	ベップ	頂獣が討伐されたと知ったら、\n姉様もきっと喜んでくれるはず。報告するのが楽しみね						
+TalkEvent_23_025ID	29	Resna	レスナ	その方、お名前はなんと？						
+TalkEvent_23_025ID	30	Bepp	ベップ	――アルビーナ・ジムロック						
+TalkEvent_23_025ID	31	Bepp	ベップ	アルビーナのアトリエを構える、\n我が国の英雄よ						

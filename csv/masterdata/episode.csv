@@ -132,6 +132,11 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 7904	あなたと夢見るトクベツボスチャレンジ							
 7907	あなたと夢見るトクベツストーリー				大切な人にチョコを贈るリンデ祭を控えたある日、錬金術士のソフィーはプラフタとチョコを贈り合う約束をする。自分なりのチョコを用意するため、プラフタと共にリンデ祭に向けて盛り上がる街へ出かけるソフィー。様々な人と交流する中で、彼女が見つけた自分なりの\nチョコとは……？			
 7908	あなたと夢見るトクベツ							
+8201	あなたと冒険するトクベツストーリー				錬金術士のライザは、親友のクラウディアの手伝いで、リンデ祭で売り出す新しい商品を開発することに。商品開発の調査と称した街歩きで、様々な贈りものの形を知るライザたち。クラウディアへの贈りものに悩むライザが見つけた、自分しか用意できない特別な贈りものとは……？			
+8203	あなたと冒険するトクベツスコアバトル							
+8204	あなたと冒険するトクベツボスチャレンジ							
+8208	あなたと冒険するトクベツ							
+8304	チャレンジバトルクヴァレルガ							
 101001	先輩、お初にお目にかかります	It's a Pleasure to Meet You	前辈，初次见面	前輩您好，初次見面				
 101002	王都にて	In the Royal Capital	在王都	王都之中				
 101003	月影の会	The Moonlight Society	月影会	月影會				
@@ -155,6 +160,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 101022	約束	A Promise	约定	約定				
 101023	ヴァレリア	Valeria	瓦莱莉娅	瓦萊莉婭				
 101024	抗う者たち							
+101025	新天地へ							
 204051	育成クエスト：経験の飴	Training Quest: Experience Candy	育成挑战：经验糖果	育成挑戰：經驗糖果				
 204052	育成クエスト：強化の雫	Training Quest: Power Up Dew	育成挑战：强化之露	育成挑戰：強化之露				
 204053	育成クエスト：ピース	Training Quest: Pieces	育成挑战：碎片	育成挑戰：碎片				
@@ -183,6 +189,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 204120	スコアバトル20章	スコアバトル20章	スコアバトル20章	スコアバトル20章				
 204121	スコアバトル21章	スコアバトル21章	スコアバトル21章	スコアバトル21章				
 204122	スコアバトル22章							
+204123	スコアバトル23章							
 204206	風薫る水辺	Breezy Waterside	馨风水岸	薰風吹拂的水邊	豊かな自然が育まれた湿地帯。王都の薬士も薬草を採りに訪れる。風が吹くと水に浮いた花々が優しく音を立てるため、いつしか湿原のささやきと呼ばれるようになった。	A marshy region deep in the heart of nature. Apothecaries from the royal capital often visit to gather medicinal herbs. The wind blowing over the flowers floating on the water's surface makes a sound resembling hushed whispers, hence the marsh's namesake.	丰富的自然环境所孕育的湿地。王都的药师也会来此采摘药草。起风时浮在水面的花朵会发出阵阵轻柔声响，因此不知从何时起被人称作呢喃湿地。	孕育出豐富自然的一片濕地，連王都的藥師也會到此摘採藥草。起風時，浮在水面上的花朵便會發出輕柔聲響，不知何時，人們開始將這種聲音稱為濕原的耳語。
 204207	浮花の園	Driftblossom Marsh	浮花之园	浮花之園	色とりどりの花が浮かぶ湿原の最奥。ぬかるんだ足場が人々を遠ざけた結果、王都からほど近いこの地にもまだ、新種の植物が眠っているとされる。	A secluded place deep in the wetlands that is full of colorful aquatic flowers. Despite being so close to the capital, the difficult, muddy terrain means few people venture out here. Rumor has it this marsh is home to a number of as-yet undiscovered plants.	漂浮着五颜六色花朵的湿地最深处。地面湿滑使人难以接近，因此据说这里尽管地处王都周边，却仍沉睡着未知的植物。	濕原的最深處，水面上漂浮著五彩繽紛的花卉。由於地面滿是泥濘難以行走而人跡罕至。人們認為，距離王都極近的這塊地方仍沉眠著新品種植物。
 204208	きらめく裂け目	Sparkling Crevasse	璀璨裂隙	閃耀的裂縫	フリーゲン近くの山中にある洞窟。瑠璃色の結晶が輝いて、真っ暗な洞窟を照らす。かつて訪れた冒険者は、洞窟の奥で静かに咲く白い花を目撃したという。	A cavern in the mountains near Friegen. The glow emanating from lapis lazuli crystals illuminates the deep dark of the cave's interior. Adventurers who once visited the cave spoke of witnessing a solemn white flower blooming in solitude deep within.	位于弗里根周边山中的洞窟。漆黑的洞窟内部被琉璃色结晶散发的光芒照亮。据说曾有到访洞窟的冒险者在洞窟深处看到过静静绽放的白色花朵。	位於弗里岡附近山中的洞窟。琉璃色的結晶閃閃發光，照耀著黑暗的洞窟。曾到訪此地的冒險者表示，他在洞窟深處看到了白色的花靜靜綻放。
@@ -227,3 +234,5 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1000008	ライバルと競う未来							
 1000009	竜の涙は花と散る							
 1000010	あなたと夢見るトクベツ							
+1000011	あなたと冒険するトクベツ							
+1000012	レジェンドチャレンジクヴァレルガ							

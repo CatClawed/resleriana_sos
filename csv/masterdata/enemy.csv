@@ -43,6 +43,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10004006	オオイタチ	Giant Weasel	大鼬	大鼬
 10004007	オオイタチ	Giant Weasel	大鼬	大鼬
 10004008	オオイタチ			
+10004009	オオイタチ			
 10005001	ブルーフィン	Bluefin	蓝鳍鼬	藍鰭鼬
 10005002	ブルーフィン	Bluefin	蓝鳍鼬	藍鰭鼬
 10005003	ブルーフィン	Bluefin	蓝鳍鼬	藍鰭鼬
@@ -96,6 +97,9 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10009019	ミニワイバーン	Mini Wyvern	迷你双足飞龙	迷你雙足飛龍
 10009020	ミニワイバーン			
 10009021	ミニワイバーン			
+10009022	ミニワイバーン			
+10009023	ミニワイバーン			
+10009024	ミニワイバーン			
 10010001	ウィンドフェザー	Zephyr Feather	风羽	風羽
 10010002	ウィンドフェザー	Zephyr Feather	风羽	風羽
 10010003	ウィンドフェザー	Zephyr Feather	风羽	風羽
@@ -107,6 +111,8 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10010009	ウィンドフェザー	Zephyr Feather	风羽	風羽
 10010010	ウィンドフェザー	Zephyr Feather	风羽	風羽
 10010011	ウィンドフェザー	Zephyr Feather	风羽	風羽
+10010012	ウィンドフェザー			
+10010013	ウィンドフェザー			
 10011001	キングオブストーム	King of Storms	风暴之王	風暴之王
 10011002	キングオブストーム			
 10012001	キバコオモリ	Fang Bat	利齿蝙蝠	利齒蝙蝠
@@ -120,11 +126,13 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10012009	キバコオモリ	Fang Bat	利齿蝙蝠	利齒蝙蝠
 10012010	キバコオモリ	Fang Bat	利齿蝙蝠	利齒蝙蝠
 10012011	キバコオモリ			
+10012012	キバコオモリ			
 10013001	六角ガメ	Hexagon Turtle	六角龟	六角龜
 10013002	六角ガメ	Hexagon Turtle	六角龟	六角龜
 10013003	六角ガメ	Hexagon Turtle	六角龟	六角龜
 10013004	六角ガメ	Hexagon Turtle	六角龟	六角龜
 10013005	六角ガメ	Hexagon Turtle	六角龟	六角龜
+10013006	六角ガメ			
 10014001	マンオーウォー	Man o' War	僧帽水母	僧帽水母
 10014002	マンオーウォー	Man o' War	僧帽水母	僧帽水母
 10014003	マンオーウォー	Man o' War	僧帽水母	僧帽水母
@@ -135,6 +143,8 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10014008	マンオーウォー	Man o' War	僧帽水母	僧帽水母
 10014009	マンオーウォー	Man o' War	僧帽水母	僧帽水母
 10014010	マンオーウォー	Man o' War	僧帽水母	僧帽水母
+10014011	マンオーウォー			
+10014012	マンオーウォー			
 10015001	[狡猾な]花の精	[Sly] Flower Pixie	[狡猾的]花精	[狡猾的]花精
 10015002	花の精	Flower Pixie	花精	花精
 10015003	花の精	Flower Pixie	花精	花精
@@ -150,6 +160,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10016008	ゼファーピクシー	Zephyr Pixie	微风仙子	微風仙子
 10016009	ゼファーピクシー	Zephyr Pixie	微风仙子	微風仙子
 10016010	ゼファーピクシー	Zephyr Pixie	微风仙子	微風仙子
+10016011	ゼファーピクシー			
 10017001	ナメルダケ	Lickshroom	舔舔菇	舔舔菇
 10017002	ナメルダケ	Lickshroom	舔舔菇	舔舔菇
 10017003	ナメルダケ	Lickshroom	舔舔菇	舔舔菇
@@ -189,6 +200,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10023007	ゴースト	Ghost	鬼魂	鬼魂
 10023008	ゴースト	Ghost	鬼魂	鬼魂
 10023009	ゴースト	Ghost	鬼魂	鬼魂
+10023010	ゴースト			
 10025001	アポステル	Aphostol	使徒	使徒
 10025002	アポステル	Aphostol	使徒	使徒
 10025003	アポステル	Aphostol	使徒	使徒
@@ -221,6 +233,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10035001	兇翼 ブリード	Bleed, Wings of Calamity	凶翼　喋血	凶翼 喋血
 10035002	兇翼 ブリード	Bleed, Wings of Calamity	凶翼　喋血	凶翼 喋血
 10035003	兇翼 ブリード	Bleed, Wings of Calamity	凶翼　喋血	凶翼 喋血
+10035004	兇翼 ブリード			
 10038001	巨像の兵士	Colossus Soldier	巨像士兵	巨像士兵
 10039001	スプリントバード	Sprinting Bird	快跑鸟	快跑鳥
 10039002	スプリントバード	Sprinting Bird	快跑鸟	快跑鳥
@@ -258,6 +271,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10067001	レッドパペットM	Red Puppet M	红人偶M	紅色傀儡M
 10069001	ブルーパペットS	Blue Puppet S	蓝人偶S	藍色傀儡S
 10069002	ブルーパペットS	Blue Puppet S	蓝人偶S	藍色傀儡S
+10069003	ブルーパペットS			
 10072001	イエローパペットS	Yellow Puppet S	黄人偶S	黃色傀儡S
 10072002	イエローパペットS	Yellow Puppet S	黄人偶S	黃色傀儡S
 10072003	イエローパペットS	Yellow Puppet S	黄人偶S	黃色傀儡S
@@ -282,6 +296,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10081006	プリズムシェルS	Prism S	炫光甲壳S	稜晶之殼S
 10081007	プリズムシェルS	Prism S	炫光甲壳S	稜晶之殼S
 10081008	プリズムシェルS	Prism S	炫光甲壳S	稜晶之殼S
+10081009	プリズムシェルS			
 10082001	プリズムシェルM	Prism M	炫光甲壳M	稜晶之殼M
 10082002	プリズムシェルM	Prism M	炫光甲壳M	稜晶之殼M
 10082009	プリズムシェルM	Prism M	炫光甲壳M	稜晶之殼M
@@ -363,6 +378,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10110004	ガーゴイル	Gargoyle	石像鬼	石像鬼
 10110005	ガーゴイル	Gargoyle	石像鬼	石像鬼
 10110006	ガーゴイル	Gargoyle	石像鬼	石像鬼
+10110007	ガーゴイル			
 10116001	ミラージュリザード	Mirage Lizard	迷雾蜥蜴	迷霧蜥蜴
 10118001	ヒュージウォルフ	Huge Wolf	巨大野狼	巨狼
 10119001	氷花の精	Ice Flower Spirit	冰花精	冰花精
@@ -374,16 +390,20 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10120005	氷結コオモリ	Frost Bat	冰冻蝙蝠	冰凍蝙蝠
 10120006	氷結コオモリ	Frost Bat	冰冻蝙蝠	冰凍蝙蝠
 10120007	氷結コオモリ	Frost Bat	冰冻蝙蝠	冰凍蝙蝠
+10120008	氷結コオモリ			
+10120009	氷結コオモリ			
 10121001	ホーント	Haunt	怨灵	怨靈
 10121002	ホーント	Haunt	怨灵	怨靈
 10121003	ホーント	Haunt	怨灵	怨靈
 10121004	ホーント	Haunt	怨灵	怨靈
 10121005	ホーント	Haunt	怨灵	怨靈
+10121006	ホーント			
 10122001	ロックパペット	Rock Puppet	石傀儡	石傀儡
 10122002	ロックパペット	Rock Puppet	石傀儡	石傀儡
 10122003	ロックパペット	Rock Puppet	石傀儡	石傀儡
 10122004	ロックパペット	Rock Puppet	石傀儡	石傀儡
 10122005	ロックパペット	Rock Puppet	石傀儡	石傀儡
+10122006	ロックパペット			
 10123001	ウォルフ	Wolf	野狼	野狼
 10123002	ウォルフ	Wolf	野狼	野狼
 10123003	ウォルフ	Wolf	野狼	野狼
@@ -513,6 +533,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10167007	トリッカー	Tricker	捣蛋鬼	搗蛋鬼
 10167008	トリッカー	Tricker	捣蛋鬼	搗蛋鬼
 10167009	トリッカー			
+10167010	トリッカー			
 10168001	クリムゾンアイ	Crimson Eye	猩红眼瞳	緋紅之眼
 10168002	クリムゾンアイ	Crimson Eye	猩红眼瞳	緋紅之眼
 10168003	クリムゾンアイ	Crimson Eye	猩红眼瞳	緋紅之眼
@@ -588,8 +609,11 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10203001	テンタクルス	Tentacles	触手章鱼	觸手章魚
 10204001	島魚	Island Fish	岛鱼	島魚
 10204002	島魚	Island Fish	岛鱼	島魚
+10204003	島魚			
+10204004	島魚			
 10205001	大白島	Great White Whale	大白岛	大白島
 10205002	大白島	Great White Whale	大白岛	大白島
+10205003	大白島			
 10206002	[解放者]クリセルダ			
 10208001	[解放者]クリセルダ			
 10208002	[解放者]クリセルダ			
@@ -598,6 +622,19 @@ id	name	name_en	name_zh-CN	name_zh-TW
 10214001	ポルターガイスト			
 10214002	ポルターガイスト			
 10214003	ポルターガイスト			
+10218001	クヴァレルガ(本体)			
+10218002	クヴァレルガ(本体)			
+10219001	クヴァレルガ(右腕)			
+10220001	クヴァレルガ(左腕)			
+10221001	悪意の擬餌			
+10222001	傀儡の怨霊			
+10222002	傀儡の怨霊			
+10222003	傀儡の怨霊			
+10222004	傀儡の怨霊			
+10222005	傀儡の怨霊			
+10222006	傀儡の怨霊			
+10223001	クヴァレルガ			
+10223002	クヴァレルガ			
 20015002	[狡猾な]花の精	[Sly] Flower Pixie	[狡猾的]花精	[狡猾的]花精
 20015003	[狡猾な]花の精	[Sly] Flower Pixie	[狡猾的]花精	[狡猾的]花精
 20020002	ウッドゴーレム	Wood Golem	木魔巨人	木魔巨人
@@ -1053,6 +1090,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60015003	花の精			
 60015004	[正月気分の]花の精			
 60015005	花の精			
+60015006	花の精			
 60016000	[調整個体]ゼファーピクシー	[Altered Entity] Zephyr Pixie	[调整个体]微风仙子	[調整個體]微風仙子
 60016001	ゼファーピクシー	Zephyr Pixie	微风仙子	微風仙子
 60016002	ゼファーピクシー	Zephyr Pixie	微风仙子	微風仙子
@@ -1062,6 +1100,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60016006	ゼファーピクシー			
 60016007	ゼファーピクシー			
 60016008	ゼファーピクシー			
+60016009	ゼファーピクシー			
 60017001	ナメルダケ	Lickshroom	舔舔菇	舔舔菇
 60017002	[胞子の源]ナメルダケ	[Sporewell] Lickshroom	[孢子之源]舔舔菇	[胞子之源]舔舔菇
 60017003	ナメルダケ	Lickshroom	舔舔菇	舔舔菇
@@ -1088,6 +1127,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60019005	メテオライトドール			
 60019006	メテオライトドール			
 60019007	メテオライトドール			
+60019008	メテオライトドール			
 60020001	ウッドゴーレム	Wood Golem	木魔巨人	木魔巨人
 60020002	ウッドゴーレム	Wood Golem	木魔巨人	木魔巨人
 60020003	[古傷を持った]ウッドゴーレム	[Scarred] Wood Golem	[身负旧伤的]木魔巨人	[帶有舊傷的]木魔巨人
@@ -1209,6 +1249,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60063004	プラチナフラワーS			
 60063005	プラチナフラワーS			
 60063006	プラチナフラワーS			
+60063007	プラチナフラワーS			
 60064001	プラチナフラワーM			
 60066001	レッドパペットS	Red Puppet S	红人偶S	紅色傀儡S
 60066002	レッドパペットS	Red Puppet S	红人偶S	紅色傀儡S
@@ -1217,9 +1258,11 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60066005	レッドパペットS	Red Puppet S	红人偶S	紅色傀儡S
 60066006	レッドパペットS	Red Puppet S	红人偶S	紅色傀儡S
 60066007	レッドパペットS			
+60066008	レッドパペットS			
 60069001	ブルーパペットS	Blue Puppet S	蓝人偶S	藍色傀儡S
 60069002	ブルーパペットS			
 60069003	ブルーパペットS			
+60069004	ブルーパペットS			
 60070001	ブルーパペットM	Blue Puppet M	蓝人偶M	藍色傀儡M
 60070002	ブルーパペットM	Blue Puppet M	蓝人偶M	藍色傀儡M
 60071001	ブルーパペットL			
@@ -1239,6 +1282,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60081007	プリズムシェルS			
 60081008	プリズムシェルS			
 60081009	プリズムシェルS			
+60081010	プリズムシェルS			
 60082001	プリズムシェルM	Prism M	炫光甲壳M	稜晶之殼M
 60082002	プリズムシェルM			
 60083001	プリズムシェルL	Prism Shell L	炫光甲壳L	稜晶之殼L
@@ -1294,6 +1338,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60097006	花ぷに	Flower Puni	花噗尼	花噗尼
 60097007	花ぷに	Flower Puni	花噗尼	花噗尼
 60097008	花ぷに			
+60097009	花ぷに			
 60098001	スカーフバニー	Scarf Bunny	围巾兔	圍巾兔
 60098002	スカーフバニー			
 60098003	スカーフバニー			
@@ -1435,6 +1480,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60121007	ホーント			
 60121008	ホーント			
 60121009	ホーント			
+60121010	ホーント			
 60122001	[制圧する]ロックパペット	[Suppressor] Rock Puppet	[进行压制的]石傀儡	[實施壓制的]石傀儡
 60122002	[制圧する]ロックパペット	[Suppressor] Rock Puppet	[进行压制的]石傀儡	[實施壓制的]石傀儡
 60122003	[制圧する]ロックパペット	[Suppressor] Rock Puppet	[进行压制的]石傀儡	[實施壓制的]石傀儡
@@ -1452,6 +1498,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60122015	ロックパペット			
 60122016	ロックパペット			
 60122017	[聖夜の]ロックパペット			
+60122018	ロックパペット			
 60123001	[制圧する]ウォルフ	[Suppressor] Wolf	[进行压制的]野狼	[實施壓制的]野狼
 60123002	[制圧する]ウォルフ	[Suppressor] Wolf	[进行压制的]野狼	[實施壓制的]野狼
 60123003	[制圧する]ウォルフ	[Suppressor] Wolf	[进行压制的]野狼	[實施壓制的]野狼
@@ -1560,6 +1607,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60169005	ドライアド			
 60169006	ドライアド			
 60169007	ドライアド			
+60169008	ドライアド			
 60170001	スレットヴェノム	Venomous Threat	凶毒	威脅劇毒
 60170002	[強毒性の]スレットヴェノム	[Poisonous] Venomous Threat	[毒性强的]凶毒	[毒性強的]威脅劇毒
 60171007	真夏の青ぷに	Midsummer Blue Puni	盛夏的蓝噗尼	盛夏的藍噗尼
@@ -1601,6 +1649,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60190010	バーニングローズ			
 60190011	バーニングローズ			
 60190012	バーニングローズ			
+60190013	バーニングローズ			
 60192001	巨木兵			
 60193001	悠久の守り手			
 60193002	悠久の守り手			
@@ -1652,6 +1701,8 @@ id	name	name_en	name_zh-CN	name_zh-TW
 60211001	[新春を寿ぐ]鏡もちでかぷに			
 60211002	[新春を寿ぐ]鏡もちでかぷに			
 60215001	リボンハット			
+60216001	チョコポッテリア			
+60217001	ミニチョコポッテリア			
 80001000	青ぷに	Blue Puni	蓝噗尼	藍噗尼
 80001001	青ぷに	Blue Puni	蓝噗尼	藍噗尼
 80001002	青ぷに	Blue Puni	蓝噗尼	藍噗尼

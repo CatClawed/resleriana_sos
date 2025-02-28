@@ -18,6 +18,7 @@ TalkEvent is JP only from 22 onward.
 | Dragon Bride  | 007  |
 | Summer | 008  |
 | Christmas 2024 | 009 |
+| Valentine 2025 | 011 |
 
 
 | Event  | LegendEvent Range |
