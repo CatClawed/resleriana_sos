@@ -1,0 +1,840 @@
+file	id	romanized_name	localized_name	text	localized_name_en	text_en	localized_name_zh-CN	text_zh-CN	localized_name_zh-TW	text_zh-TW
+TalkEvent_24_001ID	0	Alvina	案内人	ようこそ、ノーヴァ神聖国へ！\n船旅はいかがでしたか？						
+TalkEvent_24_001ID	1	Alvina	案内人	私は皆さまを導く「星の案内人」です。\nどうぞよろしくお願いいたします						
+TalkEvent_24_001ID	2	Alvina	案内人	ノーヴァ神聖国は遥か昔、星の導きによってこの島を\n訪れた聖人と、その仲間たちによって建国されました						
+TalkEvent_24_001ID	3	Alvina	案内人	聖人たちは星の神より賜った恵みを糧に\n様々な奇跡を起こし、国を豊かにしていきました						
+TalkEvent_24_001ID	4	Alvina	案内人	この島の中には当時の遺構が多数あり、今もなお\n星の加護を島にもたらしています						
+TalkEvent_24_001ID	5	Alvina	案内人	南の海に棲む強大な頂獣でさえも、\nこの加護のおかげで、島には寄りつけないのです						
+TalkEvent_24_001ID	6		観光客の女	おかげで、私たちの島も守られているのね						
+TalkEvent_24_001ID	7		観光客の男	さすが、聖地と呼ばれるだけのことはある						
+TalkEvent_24_001ID	8	Alvina	案内人	ええ。それでは遺跡の一つへご案内します						
+TalkEvent_24_001ID	9		観光客の女	これが、星の加護をもたらす遺跡……\n厳かで、歴史の重みを感じる佇まいね						
+TalkEvent_24_001ID	10	Alvina	案内人	「聖戦士」の皆さん、お疲れさまです！						
+TalkEvent_24_001ID	11		聖戦士Ａ	こんにちは、皆さん。ノーヴァ神聖国へようこそ						
+TalkEvent_24_001ID	12	Alvina	案内人	この方々は「聖戦士」と呼ばれています。\n遺跡や街の安全を守るため、日々戦っているんです						
+TalkEvent_24_001ID	13		観光客の男	ノーヴァの聖戦士……ケイウンの武士とは\nまた違った凜とした美しさだ						
+TalkEvent_24_001ID	14	Alvina	案内人	皆さん、どうぞこちらに。\n壁や柱には触らないよう気を付けてくださいね						
+TalkEvent_24_001ID	15	Alvina	案内人	最後はこの広場をご案内します。あちらに見えるのは\n神官長様がいらっしゃる大聖堂です						
+TalkEvent_24_001ID	16		観光客の男	おぉ、ここが……。広場も大きいのですね						
+TalkEvent_24_001ID	17	Alvina	案内人	この広場では毎月一度、国民一同が集まり、\n神官長様のもと星に祈りを捧げるんです						
+TalkEvent_24_001ID	18	Alvina	案内人	選ばれた「歌姫」たちが星を称える歌を歌ったり……						
+TalkEvent_24_001ID	19		観光客の女	ノーヴァの歌姫といえば、\n聖戦士と並ぶ誉れある職業として有名ですもんねぇ						
+TalkEvent_24_001ID	20	Alvina	案内人	その集会では「成人の儀」も執り行われます。\n成人した者は、そこで各々の天命を授かるのです						
+TalkEvent_24_001ID	21		観光客の男	ああ。そういえばノーヴァ神聖国では、\n職業が神託で決められると聞いたことがあるな						
+TalkEvent_24_001ID	22		観光客の女	それじゃあ、案内人さんも？						
+TalkEvent_24_001ID	23	Alvina	案内人	……はい。聖地に訪れる方々をもてなすこと。\nそれが、星の神より授けられた私の天命です						
+TalkEvent_24_001ID	24	Alvina	案内人	これで案内は終わりになりますが、\n最後に皆さんの旅の無事を祈って、１曲歌います！						
+TalkEvent_24_001ID	25		観光客の男	え？						
+TalkEvent_24_001ID	26	Alvina	案内人	星の恵みが～♪　我らを導くだろう～～～♪						
+TalkEvent_24_001ID	27	Alvina	案内人	いかがでしたか～？						
+TalkEvent_24_001ID	28		観光客の女	あ、ありがとう。ええと……いい声ね！						
+TalkEvent_24_001ID	29		観光客の男	あ、ああ……\nとても分かりやすい案内をありがとう						
+TalkEvent_24_002ID	0	???	？？？	それじゃあ報告はお願い、ね						
+TalkEvent_24_002ID	1		聖戦士Ｂ	はいッ！！						
+TalkEvent_24_002ID	2	???	？？？	ふふ。みんな、お疲れさま						
+TalkEvent_24_002ID	3	Alvina	案内人	あ、ヤンネさん、こんちゃーっす。\nもしかして、お仕事帰り？						
+TalkEvent_24_002ID	4	Janne	ヤンネ	ええ。北の山に魔物が出たから、お仕置きしてきたの						
+TalkEvent_24_002ID	5	Alvina	案内人	いつもお疲れさま。聖戦士様は頼もしいねぇ、\n肩お揉みしまーす、もみもみ						
+TalkEvent_24_002ID	6	Janne	ヤンネ	あ、ンん……上手だけど、おだてても何も出ないわよ						
+TalkEvent_24_002ID	7	Alvina	案内人	聖戦士といえば国民的英雄！　みんなの憧れだもの\n観光客の受けもいいからさ、元気でいてほしいわけっす						
+TalkEvent_24_002ID	8	Janne	ヤンネ	あなたも昔から言ってたわね。\nアタシは聖戦士になるんだーって						
+TalkEvent_24_002ID	9	Alvina	案内人	……あはは、昔の話ですって旦那ァ						
+TalkEvent_24_002ID	10	Janne	ヤンネ	そうね。あなたはもう、\n大事な天命を授かった身なんだもの						
+TalkEvent_24_002ID	11	Alvina	案内人	そうそう。アタシはノーヴァ神聖国の素晴らしさを\n伝える、星の案内人ですから！						
+TalkEvent_24_002ID	12	Janne	ヤンネ	ふふっ、熱心でいいことね、よしよし						
+TalkEvent_24_002ID	13	Janne	ヤンネ	あっ、そうだわ。\n１つ知らせておかないといけないことがあったの						
+TalkEvent_24_002ID	14	Alvina	案内人	もしかして、何かお手伝いですか！\nお小遣い欲しいので、ぜひぜひ！						
+TalkEvent_24_002ID	15	Janne	ヤンネ	それがね。\nこの頃、街に不審者が出るって噂になっているのよ						
+TalkEvent_24_002ID	16	Alvina	案内人	不審者ぁ……？						
+TalkEvent_24_002ID	17	Janne	ヤンネ	ほら、最近街外れに新しい家が建ったでしょう						
+TalkEvent_24_002ID	18	Alvina	案内人	ああ、そういえば。こんなひとけのないところに\n住むなんて物好きだなあ、って思ってましたケド						
+TalkEvent_24_002ID	19	Janne	ヤンネ	そこに住んでいる人なんだけど……\nなんでも、「錬金術」を使うって話なの						
+TalkEvent_24_002ID	20	Alvina	案内人	ええっ！？　れ、錬金術！？						
+TalkEvent_24_002ID	21	Janne	ヤンネ	案内人のあなたなら、もちろん知っているわよね						
+TalkEvent_24_002ID	22	Alvina	案内人	それはまあ……。この国を築いた聖人が使ったという、\n星の恵みを力に変える奇跡の術……						
+TalkEvent_24_002ID	23	Alvina	案内人	でも、その力は継承されてなくて、\n今は誰にも使えないって聞いてたんですケド……						
+TalkEvent_24_002ID	24	Janne	ヤンネ	ただの噂ならいいけど、もし本人が嘘を言いふらして\nいるなら、見過ごしておくわけにはいかないわ						
+TalkEvent_24_002ID	25	Janne	ヤンネ	奇跡を騙ることは、星の神様への冒涜だもの						
+TalkEvent_24_002ID	26	Alvina	案内人	そうだね。もしそれが本当なら大変だ						
+TalkEvent_24_002ID	27	Janne	ヤンネ	今のところ、目立った動きはしていないようだけど……\n頭の片隅にいれておいてね						
+TalkEvent_24_002ID	28	Alvina	案内人	はーいッス！						
+TalkEvent_24_002ID	29	Alvina	案内人	（錬金術……か。いったいどんな人なんだろ）						
+TalkEvent_24_002ID	30	Alvina	案内人	なーーんか、気になるなぁ～……！						
+TalkEvent_24_002ID	31	Janne Lindemann	ヤンネ・リンデマン	ノーヴァ神聖国の聖戦士。\n国内でも指折りの実力を持ち、人々に名が知られている						
+TalkEvent_24_003ID	0	Alvina	案内人	星の恵みが～♪　我らを導くだろう～～～♪						
+TalkEvent_24_003ID	1	Alvina	案内人	ん～……もうちょっとこう、感情を込めて……\n聴いている人の心が、揺さぶられるような						
+TalkEvent_24_003ID	2		住民Ａ	うわぁぁぁ！						
+TalkEvent_24_003ID	3	Alvina	案内人	な、何じゃあ！？						
+TalkEvent_24_003ID	4	Alvina	案内人	魔物！？　こんな街の近くに！						
+TalkEvent_24_003ID	5	Alvina	案内人	（聖戦士の人たち……苦戦してるみたい）						
+TalkEvent_24_003ID	6		聖戦士Ａ	くっ……皆、立ち上がれ！\n我らの天命を全うするんだ！						
+TalkEvent_24_003ID	7		聖戦士Ｂ	うおおおおおおっ！！						
+TalkEvent_24_003ID	8	Alvina	案内人	魔物はみんなが退治してくれたから、もう大丈夫だよ。\nケガはない？						
+TalkEvent_24_003ID	9		住民Ａ	ああ、大丈夫だよ。\nそれより、聖戦士の方たちは……						
+TalkEvent_24_003ID	10	Alvina	案内人	何人かケガしちゃったみたい						
+TalkEvent_24_003ID	11	Alvina	案内人	こんな街の近くに魔物が出るなんて、災難でしたね						
+TalkEvent_24_003ID	12		聖戦士Ａ	街を守るのは我々が授かった天命。\nそれを全うできたのだ、災難とは思わないさ						
+TalkEvent_24_003ID	13		聖戦士Ｂ	ああ。これも星の神が我々に与えた試練なのだろう						
+TalkEvent_24_003ID	14	Alvina	案内人	っと、……早く治療しないと！						
+TalkEvent_24_003ID	15	Alvina	案内人	アタシ、薬持ってくるね！						
+TalkEvent_24_003ID	16	Alvina	案内人	えっと、ここから一番近いのは、\n街の入口にある薬屋さんかな……！						
+TalkEvent_24_003ID	17	???	？？？	そこのお前						
+TalkEvent_24_003ID	18	Alvina	案内人	わっ！？　な、何！？						
+TalkEvent_24_003ID	19	???	？？？	ケガ人の薬を調達するところだろう						
+TalkEvent_24_003ID	20	???	？？？	うちに来るがいい\nちょうど今作っていたところだ						
+TalkEvent_24_003ID	21	Alvina	案内人	え……？						
+TalkEvent_24_004ID	0	Alvina	案内人	（ここって、ヤンネさんが言ってた\n　不審者が住んでる家なんじゃ……？）						
+TalkEvent_24_004ID	1	???	？？？	そこで待っていろ						
+TalkEvent_24_004ID	2	Alvina	案内人	は、はい						
+TalkEvent_24_004ID	3	Alvina	案内人	（なんだろ、つい言うこと聞いちゃう）						
+TalkEvent_24_004ID	4	Alvina	案内人	（なに、あの釜……？）						
+TalkEvent_24_004ID	5	Alvina	案内人	（えっ。釜の中が光って……\n　これ、何が起きてるの！？）						
+TalkEvent_24_004ID	6	???	？？？	治療薬だ。これが必要だったのだろう？						
+TalkEvent_24_004ID	7	Alvina	案内人	え！　あ……あ、はい！　ありがとうございます！\nあの、薬を届けた後、また寄っていいですか？						
+TalkEvent_24_004ID	8	???	？？？	構わんよ。これも、星の導きだ						
+TalkEvent_24_004ID	9	???	？？？	錬金術を見るのは初めてか？						
+TalkEvent_24_004ID	10	Alvina	案内人	さっきのが錬金術！？\nでも、現代では使える人はいないって……						
+TalkEvent_24_004ID	11	???	？？？	細々とだが、錬金術は現代にも継承されている。\n私も錬金術士として、長く活動してきた						
+TalkEvent_24_004ID	12	Alvina	案内人	……錬金術があれば、\nどんなものでも作り出せるんですか？						
+TalkEvent_24_004ID	13	???	？？？	作り出したいと望むなら、道は必ず開ける。\n錬金術とはあらゆる可能性に満ちているのだ						
+TalkEvent_24_004ID	14	Alvina	案内人	可能性……大活躍してみんなに褒められたり、\nお金をたくさん稼いだり！？						
+TalkEvent_24_004ID	15	???	？？？	……興味があるか？						
+TalkEvent_24_004ID	16	Alvina	案内人	はい！　それはもちろん。\nこんな面白そうな話、なかなかないですもん						
+TalkEvent_24_004ID	17	???	？？？	実は、私は近々錬金術士を引退するつもりだ。\nもう歳なのでな、体力的に厳しい						
+TalkEvent_24_004ID	18	???	？？？	この技術を受け継いでくれる者がいるなら、\nこれほど嬉しいことはない						
+TalkEvent_24_004ID	19	Alvina	案内人	それって、アタシに錬金術をやれってことですか！？						
+TalkEvent_24_004ID	20	???	？？？	ああ、そうだ						
+TalkEvent_24_004ID	21	???	？？？	無理にとは言わない。しかし……これは私の直感だが、\n君にはその才能があるように思う						
+TalkEvent_24_004ID	22	Alvina	案内人	そうかなー？　えへへ						
+TalkEvent_24_004ID	23	Alvina	案内人	……でも、できません。アタシが神様から授かった、\n星の案内人という天命を捨てるわけにはいきませんから						
+TalkEvent_24_004ID	24	???	？？？	天命か。\n確かに、教えに背くわけにはいかないな						
+TalkEvent_24_004ID	25	???	？？？	だが、学問を身につけるだけなら問題ないだろう\nもし興味があるのなら、このアトリエを訪れるといい						
+TalkEvent_24_004ID	26	Alvina	案内人	…………						
+TalkEvent_24_004ID	27	Alvina	案内人	（口では否定しながらも、アタシの心の中は\n　興味と好奇心でいっぱいになっていた）						
+TalkEvent_24_004ID	28	August	アウグスト	そういえば、名乗るのが遅れたな。\n私は錬金術士のアウグスト。君は？						
+TalkEvent_24_004ID	29	Alvina	アルビーナ	アルビーナ・ジムロックです。\nよろしくね、アウグストさん						
+TalkEvent_24_004ID	30	Alvina	アルビーナ	（――それが、アタシと錬金術の出会いだった）						
+TalkEvent_24_005ID	0		字幕	――それから１年後						
+TalkEvent_24_005ID	1	Alvina	アルビーナ	ふんふふ～ん♪						
+TalkEvent_24_005ID	2	Alvina	アルビーナ	よしっ、次は……						
+TalkEvent_24_005ID	3	Alvina	アルビーナ	いっちょやりますか！						
+TalkEvent_24_005ID	4	Alvina	アルビーナ	っしょ……うんしょっ！						
+TalkEvent_24_005ID	5	Bepp	ベップ	姉様、姉様						
+TalkEvent_24_005ID	6	Alvina	アルビーナ	あ、ベップ、おか！　カロスタン草買えた？						
+TalkEvent_24_005ID	7	Bepp	ベップ	残念ながら売り切れ……						
+TalkEvent_24_005ID	8	Alvina	アルビーナ	うそぉーん！？　昨日はまだ在庫あったのに！						
+TalkEvent_24_005ID	9	Alvina	アルビーナ	ギリギリまで値下がりを待ったのが仇になったか……						
+TalkEvent_24_005ID	10	Bepp	ベップ	その薬草、この近くでは採れないのよね？						
+TalkEvent_24_005ID	11	Alvina	アルビーナ	島の外から仕入れてるやつだからね。いや――						
+TalkEvent_24_005ID	12	Alvina	アルビーナ	ちょっと工程は増えるけど、						
+TalkEvent_24_005ID	13	Alvina	アルビーナ	代用が利かなくはないか……						
+TalkEvent_24_005ID	14	Alvina	アルビーナ	ベップ、ちょっとこっちお願いできる？						
+TalkEvent_24_005ID	15	Bepp	ベップ	もちろん。姉様の頼みとあれば、なんでもする						
+TalkEvent_24_005ID	16	Alvina	アルビーナ	ええと、こやつと……						
+TalkEvent_24_005ID	17	Alvina	アルビーナ	……あった、これだ						
+TalkEvent_24_005ID	18	Alvina	アルビーナ	ふふふ～ん♪						
+TalkEvent_24_005ID	19	Bepp	ベップ	姉様、こんな感じでいいかしら						
+TalkEvent_24_005ID	20	Alvina	アルビーナ	うん、バッチリ！　じゃあ器に移しておいて						
+TalkEvent_24_005ID	21	Alvina	アルビーナ	結構貴重な素材だから、塵一つも逃さないように！						
+TalkEvent_24_005ID	22	Bepp	ベップ	御意						
+TalkEvent_24_005ID	23	Alvina	アルビーナ	あとはこれを混ぜれば……						
+TalkEvent_24_005ID	24	Bepp	ベップ	姉様、薬草のほうは大丈夫？						
+TalkEvent_24_005ID	25	Alvina	アルビーナ	ん。元の予定とはちょっと変わったけど、問題ねぇ						
+TalkEvent_24_005ID	26	Alvina	アルビーナ	……これでよし、と						
+TalkEvent_24_005ID	27	Alvina	アルビーナ	時間配分も完璧だね！　さっすがアルビちゃん！						
+TalkEvent_24_005ID	28	Jelka	イェルカ	お！　やってるねえ、アルビー！						
+TalkEvent_24_005ID	29	Alvina	アルビーナ	あれ、皆さんお揃いで！						
+TalkEvent_24_005ID	30	Janne	ヤンネ	ふふ。偶然、そこで一緒になってね？						
+TalkEvent_24_005ID	31	August	アウグスト	調合の準備中だったようだな						
+TalkEvent_24_005ID	32	Alvina	アルビーナ	うん！　ちょうど素材の下準備が終わったところ						
+TalkEvent_24_005ID	33	Jelka	イェルカ	なら、あとは混ぜるだけか。アタシたちも手伝うよ						
+TalkEvent_24_005ID	34	Alvina	アルビーナ	ホント！？　助かりますわ～						
+TalkEvent_24_005ID	35	Alvina	アルビーナ	それじゃ、仕上げといきますか！						
+TalkEvent_24_006ID	0	Alvina	アルビーナ	（錬金術との出会いから１年。アタシはアウグストさん\n　に弟子入りし、錬金術士見習いとなった）						
+TalkEvent_24_006ID	1	Alvina	アルビーナ	おーし、完成じゃい！\nみんなも手伝ってくれてありがとね						
+TalkEvent_24_006ID	2	Bepp	ベップ	このくらい、当然よ姉様						
+TalkEvent_24_006ID	3	Alvina	アルビーナ	（ベップは師匠と一緒にこの島に来た女の子。\n　でも、親子というわけじゃないんだよね）						
+TalkEvent_24_006ID	4	Alvina	アルビーナ	（アタシのほうが年上なこともあり、姉のように慕って\n　くれている。姉様って呼び方は少し恥ずかしいけど）						
+TalkEvent_24_006ID	5	Jelka	イェルカ	やっぱり、錬金術ってヤツは面白いね。\nそこらに落ちてるものからなんでも作っちまうんだから						
+TalkEvent_24_006ID	6	Alvina	アルビーナ	（イェルカは師匠の古い知り合い。冒険者として旅に\n　出ていることが多く、よく土産話を聞かせてくれる）						
+TalkEvent_24_006ID	7	August	アウグスト	調合にも慣れてきたな、アルビーナ。\nやはり、お前を選んだ私の目に狂いはなかったようだ						
+TalkEvent_24_006ID	8	Alvina	アルビーナ	えっへへ、それほどでも……あるかも？\nいやあ、隠れた才能発揮しちゃってるかもなあ～						
+TalkEvent_24_006ID	9	Alvina	アルビーナ	でも、それを見抜いた師匠もさすがですよ？　このこの						
+TalkEvent_24_006ID	10	August	アウグスト	今作った薬をよく見せてくれ						
+TalkEvent_24_006ID	11	Alvina	アルビーナ	うーん、ほめ甲斐ないすなあ……						
+TalkEvent_24_006ID	12	August	アウグスト	ふむ。船酔いに効く薬か						
+TalkEvent_24_006ID	13	Alvina	アルビーナ	はい。このところ海が荒れてるみたいだから、\n観光客のみんなも大変だろうなって						
+TalkEvent_24_006ID	14	Alvina	アルビーナ	船を降りたばかりの客に売りつければ……\nふっふっふ、これはいい儲けになる予感！						
+TalkEvent_24_006ID	15	Jelka	イェルカ	商売上手ではあるけど、粋な心も忘れちゃいけないよ						
+TalkEvent_24_006ID	16	Alvina	アルビーナ	分かってますがな。でも、器材の修理代も必要だし						
+TalkEvent_24_006ID	17	August	アウグスト	ちゃんと言いつけは守っているだろうな？						
+TalkEvent_24_006ID	18	Alvina	アルビーナ	「錬金術のことは周りには話さない」でしょ						
+TalkEvent_24_006ID	19	Alvina	アルビーナ	それは、アタシが授かった天命とは違うから						
+TalkEvent_24_006ID	20	August	アウグスト	ああ。己の天命に背く行いは、この国の教えに反する。\n商人の真似ごとは、もはや学問ではすまされん						
+TalkEvent_24_006ID	21	Alvina	アルビーナ	だから、観光客の人たちだけ相手にしてるッスよ						
+TalkEvent_24_006ID	22	Alvina	アルビーナ	話が広がる心配も少ないし、最悪バレても\n案内人としての仕事だって言い訳できるし！						
+TalkEvent_24_006ID	23	August	アウグスト	十分気を付けろよ。咎められ、\n錬金術を学ぶことを禁じられては、元も子もないのだ						
+TalkEvent_24_006ID	24	Alvina	アルビーナ	はーい。分かってまーす。\n錬金術のことは、ここにいる５人だけの秘密だから！						
+TalkEvent_24_006ID	25	Jelka	イェルカ	そもそも、聖戦士のヤンネさんにバレてる時点で、\n今さらって気もするけどね						
+TalkEvent_24_006ID	26	Alvina	アルビーナ	ヤンネさんはアルビちゃんが赤子の時から知ってるし、\n理解があるから						
+TalkEvent_24_006ID	27	Janne	ヤンネ	最初知った時はどうしようかと思ったけど、\n悪い子じゃないことは知ってるし……						
+TalkEvent_24_006ID	28	Janne	ヤンネ	きちんと案内人としてのお仕事をした上でやる分には、\n口を出さないことにしたの						
+TalkEvent_24_006ID	29	Alvina	アルビーナ	さすがヤンネさん！　話が分かる！\nベップ！　肩をお揉みして						
+TalkEvent_24_006ID	30	Bepp	ベップ	今日も凝ってる						
+TalkEvent_24_006ID	31	Janne	ヤンネ	ただ、悪い方向に行かないよう目は光らせているわよ\n結構きわどいことをしているんだから……ンンっ						
+TalkEvent_24_006ID	32	August	アウグスト	……それはそうと、もうじき集会が始まる。\n出かける準備をしておけ						
+TalkEvent_24_006ID	33	Alvina	アルビーナ	あ、もうそんな時間か、おっす						
+TalkEvent_24_006ID	34	Janne	ヤンネ	そうそう、だからあなたを迎えに来ていたの\n遅刻したら大変よ						
+TalkEvent_24_006ID	35	Alvina	アルビーナ	はーい！						
+TalkEvent_24_006ID	36	Alvina Zimlock	アルビーナ・ジムロック	ノーヴァ神聖国で「星の案内人」を務める少女。\n密かに錬金術士としても活動している						
+TalkEvent_24_006ID	37	Jelka	イェルカ	神聖国を拠点に活動している冒険者。\n「粋」を信条とする、いなせな風来坊						
+TalkEvent_24_006ID	38	August Seifert	アウグスト・ザイフェルト	アルビーナに錬金術を教えた師匠。\n多くを語らず、その素性は謎に包まれている						
+TalkEvent_24_007ID	0	Janne	ヤンネ	今夜はベップちゃんの儀式の日だったわね						
+TalkEvent_24_007ID	1	Bepp	ベップ	…………						
+TalkEvent_24_007ID	2	Alvina	アルビーナ	そっかぁ～、もうそんな時期かあ。\nベップのお仕事は何になるかな						
+TalkEvent_24_007ID	3	Bepp	ベップ	できれば、姉様を助けられるものだと嬉しい						
+TalkEvent_24_007ID	4	Alvina	アルビーナ	ベップの剣の腕はすごいからなあ。ヤンネさんみたいに\n聖戦士に選ばれちゃったりするんじゃない？						
+TalkEvent_24_007ID	5	Janne	ヤンネ	そうなったら嬉しいわね。近頃、引退者も増えていて、\n人手が足りてないのよ						
+TalkEvent_24_007ID	6	August	アウグスト	集会が始まるぞ。私語は慎め						
+TalkEvent_24_007ID	7	Alvina	アルビーナ	…………						
+TalkEvent_24_007ID	8	Alvina	アルビーナ	（いよいよ、アタシも成人を迎えた――\n　今日、ここでアタシの未来が決まる）						
+TalkEvent_24_007ID	9	Alvina	アルビーナ	（アタシも、みんなに憧れられるような英雄に……！）						
+TalkEvent_24_007ID	10	Chief Priest	神官長	ふむ、なるほど。アルビーナ・ジムロックよ。\n星の神より授かりし天命を告げます						
+TalkEvent_24_007ID	11	Alvina	アルビーナ	…………						
+TalkEvent_24_007ID	12	Chief Priest	神官長	ベップ・ジムロック。あなたの天命は――						
+TalkEvent_24_007ID	13	Bepp	ベップ	…………						
+TalkEvent_24_007ID	14	Alvina	アルビーナ	…………						
+TalkEvent_24_007ID	15	Chief Priest	神官長	――聖戦士です						
+TalkEvent_24_007ID	16	Alvina	アルビーナ	――――！						
+TalkEvent_24_007ID	17	Chief Priest	神官長	まずは見習いからになりますが、この国と民たちを\n守るため、その腕を振るいなさい						
+TalkEvent_24_007ID	18	Bepp	ベップ	……承知しました						
+TalkEvent_24_007ID	19	Alvina	アルビーナ	（ベップが、本当に聖戦士に……）						
+TalkEvent_24_007ID	20	Chief Priest	神官長	皆も知っての通り、ここひと月ほど、\n街の井戸が涸れ、水の確保が困難になっています						
+TalkEvent_24_007ID	21	Chief Priest	神官長	北の森にある水源から水を運び難を凌いでいますが、\n運び手たちが魔物に襲われる事例も起こっています						
+TalkEvent_24_007ID	22	Chief Priest	神官長	その護衛も聖戦士の務めの１つ。\nこの苦境の中、あなたの働きに期待します						
+TalkEvent_24_007ID	23	Bepp	ベップ	……はい						
+TalkEvent_24_007ID	24	Chief Priest	神官長	この水不足は我々に与えられた試練です						
+TalkEvent_24_007ID	25	Chief Priest	神官長	しかし、星への感謝を忘れず、清らかな心で祈りを\n捧げれば、星の神は必ず導いてくださるはずです						
+TalkEvent_24_007ID	26		住民たち	星の神よ。我らを導き給え						
+TalkEvent_24_007ID	27	Alvina	アルビーナ	（水不足かあ……原因は分からないけれど、\n　本当不便な話だよね……）						
+TalkEvent_24_007ID	28	Alvina	アルビーナ	（アタシの錬金術で、何か力になれたりしないかな）						
+TalkEvent_24_007ID	29	Bepp	ベップ	姉様						
+TalkEvent_24_007ID	30	Alvina	アルビーナ	へっ？　あ、ああベップ。おかえり						
+TalkEvent_24_007ID	31	Alvina	アルビーナ	それにしても、ベップが本当に聖戦士かあ～！\n自慢の妹よの～！						
+TalkEvent_24_007ID	32	Bepp	ベップ	…………						
+TalkEvent_24_007ID	33	Alvina	アルビーナ	どしたい？						
+TalkEvent_24_007ID	34	Bepp	ベップ	以前、ヤンネさんから聞いたわ。\n姉様は、聖戦士になりたがっていたと						
+TalkEvent_24_007ID	35	Alvina	アルビーナ	……あぁ、昔の話だよ。ただの子どもの頃の夢だってぇ						
+TalkEvent_24_007ID	36	Alvina	アルビーナ	おめでとうベップ。頑張ってね						
+TalkEvent_24_007ID	37	Bepp	ベップ	……はい。ありがとう、姉様						
+TalkEvent_24_007ID	38		字幕	――１年と少し前						
+TalkEvent_24_008ID	0		父親	本日の糧を与えてくださったこと、\n星の導きに感謝を						
+TalkEvent_24_008ID	1	Alvina	アルビーナ	星の導きに感謝を						
+TalkEvent_24_008ID	2	Bepp	ベップ	星の導きに感謝を						
+TalkEvent_24_008ID	3		母親	それにしても、ベップが聖戦士だなんて。\nこれからが楽しみね						
+TalkEvent_24_008ID	4		父親	期待の新人聖戦士だからね。\n親としても鼻が高いよ						
+TalkEvent_24_008ID	5	Bepp	ベップ	姉様の妹だもの。当然よ						
+TalkEvent_24_008ID	6		母親	本当、アルビーナとも実の姉妹みたいに仲良くなって						
+TalkEvent_24_008ID	7		母親	ベップが家族になってからお家も賑やかになったし、\n任せてくれたアウグストさんにも感謝しないと						
+TalkEvent_24_008ID	8	Alvina	アルビーナ	（アタシが師匠に弟子入りしてから、師匠の家は\n　錬金術のアトリエとして使うことが多くなった）						
+TalkEvent_24_008ID	9	Alvina	アルビーナ	（そのせいで手狭になったこともあり、\n　ベップは今、アタシの家で一緒に暮らしている）						
+TalkEvent_24_008ID	10		父親	それより、アルビーナのほうは最近どうだい？\n案内人の仕事は						
+TalkEvent_24_008ID	11	Alvina	アルビーナ	順調だよ。分かりやすいってよくほめてもらえるし						
+TalkEvent_24_008ID	12		母親	アルビーナは昔からお勉強も得意だったものね						
+TalkEvent_24_008ID	13	Alvina	アルビーナ	ま、色々頑張ってますよ、アルビちゃんは！						
+TalkEvent_24_008ID	14		母親	ふふ。星の神様もきっと、アルビーナの才能を\n見抜いていたのね						
+TalkEvent_24_008ID	15		父親	ああ。これもふさわしい天命を\n授けてくださった星の神様のおかげだな						
+TalkEvent_24_008ID	16		母親	そうね。神様に感謝しましょう						
+TalkEvent_24_008ID	17	Alvina	アルビーナ	うん。神様、ありがとうございます						
+TalkEvent_24_008ID	18	Alvina	アルビーナ	（――幼い頃から、アタシは英雄に憧れていた。\n　物語に登場するような、強く気高い英雄に）						
+TalkEvent_24_008ID	19	Alvina	アルビーナ	（子どもの頃から、一番好きだったのは、\n　九人の英雄が活躍するお話）						
+TalkEvent_24_008ID	20	Alvina	アルビーナ	（この星に降りかかる災厄を祓い、世界を救う。\n　そんな英雄たちの冒険譚に目を輝かせた）						
+TalkEvent_24_008ID	21	Alvina	アルビーナ	（この国で英雄といえば、遺跡を守る聖戦士か、\n　星へ祈りの歌を届ける歌姫だ）						
+TalkEvent_24_008ID	22	Alvina	アルビーナ	（子どもながらに、身体を鍛えようと頑張ってみたり、\n　歌を練習してみたり……）						
+TalkEvent_24_008ID	23	Alvina	アルビーナ	（色々してみたけど、\n　結局アタシは神様に選ばれなかった）						
+TalkEvent_24_008ID	24	Alvina	アルビーナ	（案内人の仕事も嫌いじゃないけど、\n　少し物足りないというのが正直なところで……）						
+TalkEvent_24_008ID	25	Alvina	アルビーナ	（錬金術との出会いは、そんなアタシの人生を\n　一変させた！　……なんてこともなく）						
+TalkEvent_24_008ID	26	Alvina	アルビーナ	（上達していくのは楽しいけれど、作るものも地味だし\n　大きなことは何１つとしてできていない）						
+TalkEvent_24_008ID	27	Alvina	アルビーナ	はあ～～～～……						
+TalkEvent_24_008ID	28		母親	あら、その本。まだ家にあったのね。\n今度、図書館に寄贈しましょうか						
+TalkEvent_24_008ID	29	Alvina	アルビーナ	そ、それはダメ！						
+TalkEvent_24_008ID	30		母親	あらそう？　そういう子どもっぽい本を\n読む歳でもないでしょうに						
+TalkEvent_24_008ID	31	Alvina	アルビーナ	いいの。お気に入りだから						
+TalkEvent_24_008ID	32		母親	昔はよく読んでたわよね。\n登場人物の真似をしてみたり						
+TalkEvent_24_008ID	33	Alvina	アルビーナ	そうそう						
+TalkEvent_24_008ID	34	Alvina	アルビーナ	あーあ。アタシも案内人じゃなくて、\nかっこいい英雄になりたかったなー						
+TalkEvent_24_008ID	35		母親	アルビーナ。冗談でもそんなこと言わないで						
+TalkEvent_24_008ID	36		母親	神様が授けてくださった大事な天命でしょう？\nそれを全うすることが、あなたの幸せに繋がるんだから						
+TalkEvent_24_008ID	37	Alvina	アルビーナ	……分かってるよ。ゴメン、変なこと言って						
+TalkEvent_24_009ID	0	Alvina	アルビーナ	おーし、今日も張り切って採取していこー！						
+TalkEvent_24_009ID	1	Bepp	ベップ	おーし！						
+TalkEvent_24_009ID	2	Janne	ヤンネ	こらこら。今日は聖戦士としての\nベップちゃんの初仕事なんだから						
+TalkEvent_24_009ID	3	Alvina	アルビーナ	分かってるってば。でも、ヤンネさんが\nベップの教育係についてくれて助かったよ						
+TalkEvent_24_009ID	4	Alvina	アルビーナ	こうやって便乗して錬金術の素材探しに\n出かけられるんだから						
+TalkEvent_24_009ID	5	Janne	ヤンネ	……本当は止めるべきなんだろうけど						
+TalkEvent_24_009ID	6	Janne	ヤンネ	何度も言ってるように、\n一人で無茶なことしたらダメだからね						
+TalkEvent_24_009ID	7	Alvina	アルビーナ	分かっとります！　もし言いつけを破ったら\nこのアルビ、お仕置きを、甘んじて受けます						
+TalkEvent_24_009ID	8	???	？？？	おや？　こんなところで星の案内人さんと出会うなんて						
+TalkEvent_24_009ID	9	Alvina	アルビーナ	げぇっ、シトリン……						
+TalkEvent_24_009ID	10	Citrine	シトリン	ご挨拶だなあ。もしかして、こんな洞窟にまで\n観光客を連れてきたのかい？						
+TalkEvent_24_009ID	11	Alvina	アルビーナ	そんなわけないでしょ。ちょっと散歩に来ただけ。\nアンタこそ、ここに何しに来たのよ						
+TalkEvent_24_009ID	12	Citrine	シトリン	今日は僕、「神聖国なんでも屋」として\n魔物退治の依頼をこなしに来たんだよ						
+TalkEvent_24_009ID	13	Alvina	アルビーナ	ホントになんっでも仕事を受けるのねぇ						
+TalkEvent_24_009ID	14	Citrine	シトリン	まぁね。君こそ、なんでも屋紛いのことをして\n観光客からお金を巻き上げてるって噂を聞いたけど？						
+TalkEvent_24_009ID	15	Alvina	アルビーナ	はえー、そんなくだらない噂があるんだ。アホくさ						
+TalkEvent_24_009ID	16	Alvina	アルビーナ	というか、アンタなんて外からやって来て、\n好き勝手に商売してるじゃない						
+TalkEvent_24_009ID	17	Citrine	シトリン	僕の「なんでも屋」は儀式でちゃーんと決まったこと。\n悪く言われる筋合いはないよねぇ						
+TalkEvent_24_009ID	18	Citrine	シトリン	この国はさ、成人してる場合は儀式で\n職業を決めてもらえば問題なしなんでしょ？						
+TalkEvent_24_009ID	19	Alvina	アルビーナ	なんか都合がいいのよね、アンタは。\nなんでも屋とか、対象が広すぎるわ						
+TalkEvent_24_009ID	20	Citrine	シトリン	あっはっは。羨ましいって顔に書いてあるよ。\nじゃーね！　何か困ったことがあれば請け負うよ～						
+TalkEvent_24_009ID	21	Janne	ヤンネ	あの子、最近よく話してるけど、仲いいの？						
+TalkEvent_24_009ID	22	Alvina	アルビーナ	いいわけないっすわ。何かとこっちに\n突っかかってくるし、迷惑してるっすわ						
+TalkEvent_24_009ID	23	Janne	ヤンネ	あら。\nもしかして、あなたに気があったり？						
+TalkEvent_24_009ID	24	Alvina	アルビーナ	アルビちゃんも、もしかしてソレかと思って\nシトリンをからかってみたんすよ。そしたら						
+TalkEvent_24_009ID	25	Citrine	シトリン	あっはっは。僕が好きなのは、宝石だよ						
+TalkEvent_24_009ID	26	Alvina	アルビーナ	って、けろりと言ってたので、そのセンはないかと						
+TalkEvent_24_009ID	27	Bepp	ベップ	待って。姉様は宝石のように美しい。実は告白かも						
+TalkEvent_24_009ID	28	Alvina	アルビーナ	あー！　そっかそっか、そういう意味だったのか\nあるかもしれない！！						
+TalkEvent_24_009ID	29	Janne	ヤンネ	……あなたって、昔から、変わらない性格してるわね						
+TalkEvent_24_009ID	30	Alvina	アルビーナ	とにかくシトリン苦手。妙に勘が鋭くて、\n錬金術のことバレそうになったりするし……						
+TalkEvent_24_009ID	31	Alvina	アルビーナ	大体、「なんでも屋」なんて……\nそんな天命、聞いたことないよ						
+TalkEvent_24_009ID	32	Janne	ヤンネ	儀式で決まったことに文句を付けない、めっ！						
+TalkEvent_24_009ID	33	Alvina	アルビーナ	わ、分かってマスよぉ。ね、ねぇベップ						
+TalkEvent_24_009ID	34	Bepp	ベップ	姉様は、分かってる						
+TalkEvent_24_009ID	35	Alvina	アルビーナ	ま、いいわ！　こっちは錬金術を学ぶのに忙しい						
+TalkEvent_24_009ID	36	Alvina	アルビーナ	ああいう手合いは、相手にせぬわ！						
+TalkEvent_24_009ID	37	Bepp	ベップ	姉様、なんて大人。精神的に勝利しているわ						
+TalkEvent_24_009ID	38	Bepp	ベップ	よければそんな姉様に勝利の舞いを披露したい						
+TalkEvent_24_009ID	39	Bepp	ベップ	第一幕！						
+TalkEvent_24_009ID	40	Alvina	アルビーナ	ヒュー、かわいいよ、ベップー！						
+TalkEvent_24_009ID	41	Janne	ヤンネ	はいはい、そろそろ行くわよ、あなたたち						
+TalkEvent_24_009ID	42	Citrine	シトリン	様々な依頼を請け負う「なんでも屋」。\nアルビーナとは折り合いが悪く、よく言い合いになる						
+TalkEvent_24_010ID	0	Alvina	アルビーナ	たっだいまー！						
+TalkEvent_24_010ID	1	Jelka	イェルカ	あぁ、やっと戻ってきた。このイェルカさんが\n遊びに来たってのに、出かけてるんだから						
+TalkEvent_24_010ID	2	Alvina	アルビーナ	やっほー、イェルカ。\nなになに？　また旅の話でもしにきてくれた？						
+TalkEvent_24_010ID	3	Jelka	イェルカ	ベップの初仕事だったんだろ？\nどうだい、新人聖戦士の実力のほどは						
+TalkEvent_24_010ID	4	Alvina	アルビーナ	腕は申し分ないって、ヤンネさんのお墨付きだよ						
+TalkEvent_24_010ID	5	Jelka	イェルカ	そりゃ頼もしい。\n今度、アタシとも手合わせしてみるかい？						
+TalkEvent_24_010ID	6	Bepp	ベップ	悪いけど、必要のない狩りはしてはダメだって、\n故郷の村の教えがあるから……						
+TalkEvent_24_010ID	7	Jelka	イェルカ	へぇ、ベップはそういう考え方だったのか。\nだとしたら、粋じゃない提案をしちまったな						
+TalkEvent_24_010ID	8	Bepp	ベップ	イェルカはどうして、そんなに粋にこだわるの？						
+TalkEvent_24_010ID	9	Jelka	イェルカ	ある人の生き様を見て、粋だなぁ、\n自分も、こうありたいなぁって思ったのさ						
+TalkEvent_24_010ID	10	Bepp	ベップ	ほぅほぅ。ホーホーホッホウ、ホーホーホッホウ						
+TalkEvent_24_010ID	11	Jelka	イェルカ	キジバト！						
+TalkEvent_24_010ID	12	Bepp	ベップ	正解！　さすが姉御						
+TalkEvent_24_010ID	13	Jelka	イェルカ	そういや、さっきシトリンに会ったんだけどね。\nお前さんとひと悶着あったんだって？						
+TalkEvent_24_010ID	14	Alvina	アルビーナ	そうなんだよー！　相変わらずいけ好かない奴！						
+TalkEvent_24_010ID	15	Jelka	イェルカ	ま、確かに生意気なところはあるね。\nアタシはそこもかわいいと思うけど						
+TalkEvent_24_010ID	16	Jelka	イェルカ	シトリンの奴が話してたんだが、どうやらあいつ、\n水不足の問題に首を突っ込むみたいだよ						
+TalkEvent_24_010ID	17	Alvina	アルビーナ	ン、そうなの！？						
+TalkEvent_24_010ID	18	Jelka	イェルカ	もし解決できれば大儲けだって、やる気になってたよ						
+TalkEvent_24_010ID	19	Alvina	アルビーナ	ぐぬぬ……そんなことまで考えてたなんて						
+TalkEvent_24_010ID	20	Jelka	イェルカ	アウグスト、水不足ってのは\n錬金術でどうにかできないわけ？						
+TalkEvent_24_010ID	21	August	アウグスト	模索すれば手立てはあるだろう。\n錬金術の可能性は無限大だ						
+TalkEvent_24_010ID	22	Alvina	アルビーナ	――――！						
+TalkEvent_24_010ID	23	Alvina	アルビーナ	（もしかしてこれって、アタシの力を\n　世に知らしめる絶好の機会……！？）						
+TalkEvent_24_010ID	24	Alvina	アルビーナ	（水不足を錬金術でなんとかすれば、正式な\n　活動を認めてもらえるよう、交渉ができる）						
+TalkEvent_24_010ID	25	August	アウグスト	しかし、今の私では不可能だろうな。\n気力も、体力も追いつかん						
+TalkEvent_24_010ID	26	Alvina	アルビーナ	素敵老紳士の師匠といえど、寄る年波には勝てませぬか						
+TalkEvent_24_010ID	27	Alvina	アルビーナ	……師匠ではなく、アタシが錬金術でやってみるのは\nどう思いますかね						
+TalkEvent_24_010ID	28	Jelka	イェルカ	へぇ、お前さんが？						
+TalkEvent_24_010ID	29	August	アウグスト	少なくとも、私より可能性はあるだろう						
+TalkEvent_24_010ID	30	Alvina	アルビーナ	そ、そうかな？　やっぱり？						
+TalkEvent_24_010ID	31	Alvina	アルビーナ	（やってやる……アルビちゃんは、やれる子だ！）						
+TalkEvent_24_010ID	32	Alvina	アルビーナ	よーし、シトリンに先を越されてたまるか！\nこの問題はアタシが解決してやる！						
+TalkEvent_24_010ID	33	Jelka	イェルカ	おぉー、いい決意表明だねぇ。心がこもってる						
+TalkEvent_24_010ID	34	Alvina	アルビーナ	師匠、できるだけ気を付けますが、\nちょっと動きは派手になります						
+TalkEvent_24_010ID	35	August	アウグスト	こういう時に役立ってこその錬金術だ。\nやれるだけやってみろ						
+TalkEvent_24_010ID	36	Bepp	ベップ	狩りも、ここで動くというタイミングが大事。\n姉様は今、人生で動くべきタイミングを肌で感じている						
+TalkEvent_24_010ID	37	Bepp	ベップ	そんな姉様を応援することを、誓う						
+TalkEvent_24_010ID	38	Alvina	アルビーナ	じゃあ、アタシたちはこのへんで						
+TalkEvent_24_010ID	39	Jelka	イェルカ	気を付けて帰るんだよ						
+TalkEvent_24_011ID	0	Alvina	アルビーナ	ってわけで、ベップの初仕事は\n滞りなく、こなしたわけ！						
+TalkEvent_24_011ID	1		母親	そう！　それは良かったわ						
+TalkEvent_24_011ID	2		父親	それより、話を聞いていて気になったんだが……\nアルビーナもベップと一緒にいたのかい？						
+TalkEvent_24_011ID	3	Alvina	アルビーナ	うん。お仕事、休みだったし……ちょっとばかし、\n様子を見にね						
+TalkEvent_24_011ID	4		母親	聖戦士のお仕事って、魔物と戦ったりもするでしょう？\n一緒にいたら危ないじゃないの						
+TalkEvent_24_011ID	5	Alvina	アルビーナ	案内人のアタシが一番分かってるって\nいざってときには、ちゃんと適切な距離は保ってるよ						
+TalkEvent_24_011ID	6		父親	うん。ベップが気になるのは分かるが。街の外には\n危険も多い。お前は案内人の仕事が天命、忘れずにな						
+TalkEvent_24_011ID	7	Alvina	アルビーナ	……うす、大丈夫						
+TalkEvent_24_011ID	8	Bepp	ベップ	姉様。服の裾が少しほつれているわ						
+TalkEvent_24_011ID	9	Alvina	アルビーナ	え？　あ、ホントだ。\nどこかに引っかけたのかな						
+TalkEvent_24_011ID	10	Bepp	ベップ	後で直すわ、姉様を称える歌を歌いながら						
+TalkEvent_24_011ID	11	Alvina	アルビーナ	ありがとー！　						
+TalkEvent_24_011ID	12		母親	もう。そうやっていつもベップに世話を\n焼いてもらって……たまには自分でやりなさい						
+TalkEvent_24_011ID	13	Bepp	ベップ	大丈夫、私がやりたくてやってることだから						
+TalkEvent_24_011ID	14		母親	この前なんて、ご飯をあーんして食べさせて\nもらってたじゃない。あれはやりすぎよ						
+TalkEvent_24_011ID	15	Janne	ヤンネ	ジムロックさん、こんばんは						
+TalkEvent_24_011ID	16		母親	あら、ヤンネさん！　これから夜の見回り？						
+TalkEvent_24_011ID	17	Janne	ヤンネ	はい。あの、娘をお願いしても……						
+TalkEvent_24_011ID	18		母親	もちろん！　いつもお役目ご苦労さま						
+TalkEvent_24_011ID	19	Janne	ヤンネ	いえ。こちらこそ、いつも面倒を見てくださって\n助かっています						
+TalkEvent_24_011ID	20	Janne	ヤンネ	そうだ。ベップちゃんも一緒に来てもらえる？\n見回りも聖戦士の大事な仕事の１つだから						
+TalkEvent_24_011ID	21	Bepp	ベップ	分かったわ、いずれ見回りのベップと呼ばれてみせる						
+TalkEvent_24_011ID	22	Alvina	アルビーナ	あっ、アタシも！　ついてっていい？\n案内人視点から教えてあげられることもあるからさ						
+TalkEvent_24_011ID	23		母親	アルビーナ。さっき言ったばかりじゃないの\nあまり危ないことをしちゃ……						
+TalkEvent_24_011ID	24	Alvina	アルビーナ	大丈夫だってお母さん！　武道大会で近隣の島々の\n猛者を打ち負かした、ヤンネさんがいるんだよ						
+TalkEvent_24_011ID	25	Alvina	アルビーナ	ね、ヤンネさん！　いいでしょ？						
+TalkEvent_24_011ID	26	Alvina	アルビーナ	（ちょっと採りに行きたい素材があって……\n　無茶はしませんから、何とぞ、お願いします！）						
+TalkEvent_24_011ID	27	Janne	ヤンネ	（もう、しょうがないわね……ちょっとだけよ）						
+TalkEvent_24_011ID	28	Janne	ヤンネ	まあ、私たちがちゃんとついていますから。\n安心してください						
+TalkEvent_24_011ID	29		母親	そう？　ヤンネさんがそう言うなら……						
+TalkEvent_24_011ID	30	Alvina	アルビーナ	じゃあヤンネさん、ベップ、行こ！						
+TalkEvent_24_012ID	0	Alvina	アルビーナ	ん～～～～……素材も手に入ったし、\n今日も実りある１日だったなあ						
+TalkEvent_24_012ID	1	Alvina	アルビーナ	……ベップと会ってから、もう１年も経ったんだね						
+TalkEvent_24_012ID	2	Alvina	アルビーナ	どう？　ここでの生活は。楽しい？						
+TalkEvent_24_012ID	3	Bepp	ベップ	もちろん。毎日姉様と一緒にいられて、充実してる						
+TalkEvent_24_012ID	4	Alvina	アルビーナ	そっか。ならよかった						
+TalkEvent_24_012ID	5	Alvina	アルビーナ	色々、仕事を教えてもらって、どう？\n聖戦士としてやっていけそう？						
+TalkEvent_24_012ID	6	Bepp	ベップ	ええ。元から戦うのは得意だから						
+TalkEvent_24_012ID	7	Bepp	ベップ	礼儀作法も、大丈夫						
+TalkEvent_24_012ID	8	Alvina	アルビーナ	ベップは地頭、いいからね						
+TalkEvent_24_012ID	9	Bepp	ベップ	いつか、故郷の仇を討つためにも、\n聖戦士として腕を磨くわ						
+TalkEvent_24_012ID	10	Alvina	アルビーナ	ベップ……						
+TalkEvent_24_012ID	11	Alvina	アルビーナ	（ベップは元々、ここから離れた島の出身だった。\n　自然が多く、狩りをして生計を立てていたという）						
+TalkEvent_24_012ID	12	Alvina	アルビーナ	（ただある時……正体不明の「身体が赤く光る魔物」が\n　現れ、　故郷の村が襲われてしまった）						
+TalkEvent_24_012ID	13	Alvina	アルビーナ	（その後、偶然島を訪れたアウグストさんに保護され\n　行動を共にするようになったのだという）						
+TalkEvent_24_012ID	14	Bepp	ベップ	私はただ一人の生き残りとして、\n家族や、島のみんなの無念を晴らしてみせる						
+TalkEvent_24_012ID	15	Bepp	ベップ	この身に代えても！！						
+TalkEvent_24_012ID	16	Alvina	アルビーナ	……その時は、アタシも一緒だよ						
+TalkEvent_24_012ID	17	Bepp	ベップ	姉様……						
+TalkEvent_24_012ID	18	Alvina	アルビーナ	ベップはもう、一人じゃないんだから。\n師匠も、ヤンネさんも、イェルカも、一緒だからね						
+TalkEvent_24_012ID	19	Bepp	ベップ	……ありがとう						
+TalkEvent_24_012ID	20	Alvina	アルビーナ	この身に代えて、なんて言わないでね。\n決意のほどは分かるけどさ						
+TalkEvent_24_012ID	21	Bepp	ベップ	……うん						
+TalkEvent_24_012ID	22	Bepp	ベップ	私も、姉様がどこかへ行く時は、必ず一緒に行くから						
+TalkEvent_24_012ID	23	Alvina	アルビーナ	ふふ、そうね、一緒よベップ						
+TalkEvent_24_012ID	24	Bepp	ベップ	おやすみなさい						
+TalkEvent_24_012ID	25	Alvina	アルビーナ	うん。おやすみー						
+TalkEvent_24_013ID	0	Citrine	シトリン	へぇ……なるほどね						
+TalkEvent_24_013ID	1	Alvina	アルビーナ	ヘイッ！　アンタ、何やってんの？						
+TalkEvent_24_013ID	2	Citrine	シトリン	ん？　ああ、カルボナーラか						
+TalkEvent_24_013ID	3	Alvina	アルビーナ	アルビーナよ。誰がパスタよ						
+TalkEvent_24_013ID	4	Citrine	シトリン	仕事の合間に、このへんの土壌を調べてるのさ						
+TalkEvent_24_013ID	5	Alvina	アルビーナ	ドジョー？　なんでまた。吐かんかい						
+TalkEvent_24_013ID	6	Citrine	シトリン	そりゃ、井戸の水が涸れた原因を探るためさ						
+TalkEvent_24_013ID	7	Citrine	シトリン	そこをどうにか解決できれば、商売になること\n間違いなしでしょ						
+TalkEvent_24_013ID	8	Alvina	アルビーナ	うわぁ。イェルカの言ってた通りだ……						
+TalkEvent_24_013ID	9	Alvina	アルビーナ	でもね！　アタシがちゃちゃっと解決するから！\nアンタはお役御免よ！　鉱石でも採掘してなされ！						
+TalkEvent_24_013ID	10	Citrine	シトリン	なんで君が？　君の仕事は案内人だろう						
+TalkEvent_24_013ID	11	Alvina	アルビーナ	ん゛っ！　まぁ、婉曲的表現ってやつよ						
+TalkEvent_24_013ID	12	Alvina	アルビーナ	っ！？						
+TalkEvent_24_013ID	13	Bepp	ベップ	――っ！						
+TalkEvent_24_013ID	14	Alvina	アルビーナ	ま、魔物！？　ぜんぜん気付かなかった……						
+TalkEvent_24_013ID	15	Citrine	シトリン	君も脇が甘いね、ベップ。\nそんなんじゃ、聖戦士は務まらないよ						
+TalkEvent_24_013ID	16	Bepp	ベップ	今、シトリンが魔物より危なそうな感じがした						
+TalkEvent_24_013ID	17	Citrine	シトリン	心外だなあ。僕は君たちを守ろうとしただけだよ						
+TalkEvent_24_013ID	18	Citrine	シトリン	あれっ。まだまだ寄って来るよ。やだなぁ						
+TalkEvent_24_013ID	19	Bepp	ベップ	姉様、私の後ろに						
+TalkEvent_24_013ID	20	Alvina	アルビーナ	仕方ない、ここは一時的に共闘で行こ！\nねえ、シトリン！						
+TalkEvent_24_013ID	21	Citrine	シトリン	やーだよ						
+TalkEvent_24_013ID	22	Alvina	アルビーナ	んあ？						
+TalkEvent_24_013ID	23	Citrine	シトリン	こんなの倒したって、儲けにならないもん。\nそれじゃあ、あとはよろしく～！						
+TalkEvent_24_013ID	24	Alvina	アルビーナ	待たんかいコラァ！						
+TalkEvent_24_013ID	25	Bepp	ベップ	私だけで問題ないわ。姉様は私が守る						
+TalkEvent_24_013ID	26	Alvina	アルビーナ	ううん、アタシも戦うよベップ！						
+TalkEvent_24_013ID	27	Alvina	アルビーナ	（……さっきのあいつ、すごい殺気だった）						
+TalkEvent_24_013ID	28	Alvina	アルビーナ	（もしかしたら、本当にこっちが\n　やられちゃうんじゃないかって思うくらい……）						
+TalkEvent_24_013ID	29	Alvina	アルビーナ	くっ、今はこっちに集中……行くよ、ベップ！						
+TalkEvent_24_014_00ID	0	Alvina	アルビーナ	ふう、片付いた……						
+TalkEvent_24_014_00ID	1	Bepp	ベップ	問答無用で襲ってくる相手には、容赦しない						
+TalkEvent_24_014_00ID	2	Alvina	アルビーナ	……って、やばっ！　そろそろ仕事の時間だ！\nベップのほうも大丈夫？						
+TalkEvent_24_014_00ID	3	Bepp	ベップ	今日は海岸の見回りの予定だから……走れば間に合う						
+TalkEvent_24_014_00ID	4	Alvina	アルビーナ	急げ～！　いっちに！						
+TalkEvent_24_014_00ID	5	Bepp	ベップ	さん、し！						
+TalkEvent_24_014_00ID	6	Alvina	アルビーナ	最後はこの広場をご案内します。あちらに見えるのは\n神官長様がいらっしゃる大聖堂です						
+TalkEvent_24_014_00ID	7	Alvina	アルビーナ	これで案内は終わりになります。\n最後に皆さんの旅の無事を祈って――						
+TalkEvent_24_014_00ID	8		住民Ａ	大変だ！　海のほうから魔物が！						
+TalkEvent_24_014_00ID	9		観光客の老人	なんだって！？						
+TalkEvent_24_014_00ID	10		観光客の子供	お母さん……！						
+TalkEvent_24_014_00ID	11		観光客の母親	だ、大丈夫よ。ねえ、案内人さん！						
+TalkEvent_24_014_00ID	12	Alvina	アルビーナ	皆さん、落ち着いて！\n広がらず、広場の隅に固まって待っていてください						
+TalkEvent_24_014_00ID	13	Alvina	アルビーナ	（よりにもよって海のほうから……\n　ベップ、大丈夫かな……）						
+TalkEvent_24_014_00ID	14	Jelka	イェルカ	アルビー！						
+TalkEvent_24_014_00ID	15	Alvina	アルビーナ	ああ、イェルカ……って、どうしたの！？\nなんかボロボロだけど……						
+TalkEvent_24_014_00ID	16	Jelka	イェルカ	海で釣りをしてたら、いきなり魔物が上がってきてさ。\nそいつらの相手をしてた。ったく、お気に入りの服が						
+TalkEvent_24_014_00ID	17	Alvina	アルビーナ	イェルカでも手こずるくらいなの！？						
+TalkEvent_24_014_00ID	18	Jelka	イェルカ	だいぶ倒したけど、数が多くてね。\n本職の聖戦士が駆けつけてきたから、いったん任せた						
+TalkEvent_24_014_00ID	19	Alvina	アルビーナ	そっか、じゃあ、ベップも戦ってるんだ……						
+TalkEvent_24_014_00ID	20	Alvina	アルビーナ	ベップが……大勢の魔物と……						
+TalkEvent_24_014_00ID	21	Bepp	ベップ	この身に代えても！！						
+TalkEvent_24_014_00ID	22	Alvina	アルビーナ	アタシ、ちょっと様子を見てくる！						
+TalkEvent_24_014_00ID	23	Jelka	イェルカ	そいつは、心得違いじゃないかい						
+TalkEvent_24_014_00ID	24	Jelka	イェルカ	お前さんの仕事は、観光客の面倒を見ることだろう。\n天命に背くつもりか？　ベップの強さを信じなよ						
+TalkEvent_24_014_00ID	25	Alvina	アルビーナ	でも、ベップ、まだ聖戦士になったばかりだし！\n心構えだって、危なっかしいとこがあって……！						
+TalkEvent_24_014_00ID	26	Jelka	イェルカ	……妹分が心配な気持ちはよく分かる。\nそれを邪魔するのも無粋、か						
+TalkEvent_24_014_00ID	27	Alvina	アルビーナ	ありがとう！						
+TalkEvent_24_014_00ID	28	Alvina	アルビーナ	皆さーん！　安全が確認できるまで、\nこの広場から出ないようにお願いします！						
+TalkEvent_24_014_00ID	29	Alvina	アルビーナ	聖戦士が、魔物の対応に出ていますので、\nこの広場にいる限りは、大丈夫ですから！						
+TalkEvent_24_014_01ID	0	Janne	ヤンネ	ベップちゃん！　あっちをお願い！　こいつらは私が！						
+TalkEvent_24_014_01ID	1	Bepp	ベップ	……分かった						
+TalkEvent_24_014_01ID	2	Bepp	ベップ	はぁぁぁっ！						
+TalkEvent_24_014_01ID	3	Janne	ヤンネ	ベップちゃん、後ろ！						
+TalkEvent_24_014_01ID	4	Alvina	アルビーナ	そりゃあああっ！						
+TalkEvent_24_014_01ID	5	Bepp	ベップ	姉様！？						
+TalkEvent_24_014_01ID	6	Alvina	アルビーナ	うわぁ、聞いてた通りたくさんいるね！						
+TalkEvent_24_014_01ID	7	Janne	ヤンネ	アルビーナ！　何しに来たの！						
+TalkEvent_24_014_01ID	8	Alvina	アルビーナ	ベップが心配で見に来ちゃった。\nアタシも加勢するよ！　お客さんなら避難させたし！						
+TalkEvent_24_014_01ID	9	Janne	ヤンネ	……はあ。言いたいことはたくさんあるけど、\n今はそんな場合じゃないわね						
+TalkEvent_24_014_01ID	10	Janne	ヤンネ	街に被害が及ぶ前に、食い止めるわよ						
+TalkEvent_24_015_00ID	0	Janne	ヤンネ	ふう……なんとか片付いたわね						
+TalkEvent_24_015_00ID	1	Janne	ヤンネ	みんな、お疲れさま！　ベップちゃんも良くやったわ						
+TalkEvent_24_015_00ID	2		住民Ｃ	すごいわ！　さすがヤンネさん！						
+TalkEvent_24_015_00ID	3		住民Ｄ	さすが、神聖国最強！						
+TalkEvent_24_015_00ID	4	Citrine	シトリン	なーんだ、もう片付いちゃったのか						
+TalkEvent_24_015_00ID	5	Alvina	アルビーナ	げぇっ。シトリン……						
+TalkEvent_24_015_00ID	6	Citrine	シトリン	なんでも屋の稼ぎ時かと思って来てみたら……\nヤンネさんがいるなら元から出る幕なしだったなぁ						
+TalkEvent_24_015_00ID	7	Alvina	アルビーナ	そうそう！\nなんでも屋なんてお呼びじゃないんだからね！						
+TalkEvent_24_015_00ID	8	Citrine	シトリン	……ところで、なんで君がここに？						
+TalkEvent_24_015_00ID	9	Janne	ヤンネ	そうね。その辺り、じっくり聞かせてもらうわよ						
+TalkEvent_24_015_00ID	10	Alvina	アルビーナ	うっ。ごめんなさい、その話はまた今度ー！						
+TalkEvent_24_015_00ID	11	Janne	ヤンネ	……もう						
+TalkEvent_24_015_01ID	0	Alvina	アルビーナ	待たせてしまい申し訳ありません！\n現れた魔物は聖戦士たちの手で無事に討伐されました						
+TalkEvent_24_015_01ID	1		観光客の老人	ほっ、これで一安心だな						
+TalkEvent_24_015_01ID	2	Jelka	イェルカ	おかえり、アルビー。こっちは何ごともなかったよ						
+TalkEvent_24_015_01ID	3	Alvina	アルビーナ	イェルカ！　見ててくれたのね、ありがとう						
+TalkEvent_24_015_01ID	4		観光客の子供	お姉さん！　すごいね、聖戦士の人たち！						
+TalkEvent_24_015_01ID	5	Jelka	イェルカ	ほら、言っただろう？　任せておけば大丈夫だって。\nなんたってこの国の英雄たちだからね						
+TalkEvent_24_015_01ID	6	Alvina	アルビーナ	明日の定期船も予定通り出航予定です。\n今夜は宿でゆっくりお休みください						
+TalkEvent_24_015_01ID	7	Alvina	アルビーナ	ふう……						
+TalkEvent_24_015_01ID	8	Chief Priest	神官長	アルビーナ						
+TalkEvent_24_015_01ID	9	Alvina	アルビーナ	はいっ！？　あ、神官長……と、\nお父さん、お母さん！？						
+TalkEvent_24_015_01ID	10	Chief Priest	神官長	案内人としての仕事を放棄して、\n聖戦士たちに加勢しに行ったと聞きました						
+TalkEvent_24_015_01ID	11	Chief Priest	神官長	己の天命に背く行いだということは、\n理解していますね？						
+TalkEvent_24_015_01ID	12	Alvina	アルビーナ	はい……ごめんなさい						
+TalkEvent_24_015_01ID	13	Chief Priest	神官長	持ち場を離れる時に、観光客に指示を出した、\nそれで配慮したことには、なりません						
+TalkEvent_24_015_01ID	14	Chief Priest	神官長	観光客に常に寄り添い、不安を取り除くのが、\n本来のあなたの天命						
+TalkEvent_24_015_01ID	15	Chief Priest	神官長	次はないと思いなさい。\n星の神は、あなたの行いを天から見ていますよ						
+TalkEvent_24_015_01ID	16	Alvina	アルビーナ	……分かりました						
+TalkEvent_24_015_01ID	17	Chief Priest	神官長	あなたには数日の間、謹慎を命じます。\n少し頭を冷やしなさい						
+TalkEvent_24_015_01ID	18		父親	アルビーナ……どうしてこんなことを						
+TalkEvent_24_015_01ID	19	Alvina	アルビーナ	アタシ……ベップのことが心配で。それで……						
+TalkEvent_24_015_01ID	20		母親	それは、教えに背いていい理由にはならないわ						
+TalkEvent_24_015_01ID	21		父親	お前は頭がいい子だ、分かるだろう？						
+TalkEvent_24_015_01ID	22	Alvina	アルビーナ	っ……！						
+TalkEvent_24_015_01ID	23		父親	お前も、ベップも、観光客も、全員無事なのは\n本当に良かったが……						
+TalkEvent_24_015_01ID	24		母親	二度とこんなことはしないで。\nあなたの幸せのために						
+TalkEvent_24_016ID	0	Alvina	アルビーナ	はあ……暇だなあ						
+TalkEvent_24_016ID	1	Bepp	ベップ	姉様。こんなところにいたのね						
+TalkEvent_24_016ID	2	Alvina	アルビーナ	ああ、ベップ。見回り？　お疲れ……						
+TalkEvent_24_016ID	3	Bepp	ベップ	姉様、やっぱり元気がないわ						
+TalkEvent_24_016ID	4	Alvina	アルビーナ	ま、久々にがっつり怒られちゃったからね\n気分も落ち込むっていうか……						
+TalkEvent_24_016ID	5	Alvina	アルビーナ	しばらく謹慎だっていうから、\n特にやることもないし、暇で暇で						
+TalkEvent_24_016ID	6	Bepp	ベップ	アトリエには行かないの？						
+TalkEvent_24_016ID	7	Alvina	アルビーナ	万が一バレたら火に油だからさ……\nしばらくは大人しくしてようかなって						
+TalkEvent_24_016ID	8	Bepp	ベップ	動物鳴き声クイズでもする？						
+TalkEvent_24_016ID	9	Alvina	アルビーナ	んー。気分的にはもうちょい激しいのがいい						
+TalkEvent_24_016ID	10	Bepp	ベップ	じゃあ、私が元気の出る踊りを踊ってあげる						
+TalkEvent_24_016ID	11	Bepp	ベップ	たらららら～♪						
+TalkEvent_24_016ID	12	Alvina	アルビーナ	おお！　今日は一段と動きがキレてる！						
+TalkEvent_24_016ID	13	Bepp	ベップ	……どう？						
+TalkEvent_24_016ID	14	Alvina	アルビーナ	ふふっ、ありがと。ちょっと元気出た						
+TalkEvent_24_016ID	15	Bepp	ベップ	姉様が私を心配して来てくれたこと、嬉しかった。\nだから、落ち込まないで						
+TalkEvent_24_016ID	16	Alvina	アルビーナ	……うん。優しいベップ、すき						
+TalkEvent_24_016ID	17	Citrine	シトリン	あっ、無職だ						
+TalkEvent_24_016ID	18	Alvina	アルビーナ	シトリン！　きらい！\nアタシは無職じゃなくて、謹慎中なだけ！						
+TalkEvent_24_016ID	19	Citrine	シトリン	あれ、そうだったっけバレリーナくん						
+TalkEvent_24_016ID	20	Alvina	アルビーナ	アルビーナな。誰が踊り子じゃい。で、何か用？						
+TalkEvent_24_016ID	21	Citrine	シトリン	いや、別に。大聖堂に用があって来てみたら、\nたまたま君たちを見かけただけだよ						
+TalkEvent_24_016ID	22	Alvina	アルビーナ	大聖堂に？　あんたが？						
+TalkEvent_24_016ID	23	Citrine	シトリン	例の水不足の解決策について案がまとまったからね。\n神官長に許可をもらってくるんだ						
+TalkEvent_24_016ID	24	Alvina	アルビーナ	にゃにぃ……！						
+TalkEvent_24_016ID	25	Citrine	シトリン	これが認められれば、大きな稼ぎになる。\nふふ、今から楽しみだよ						
+TalkEvent_24_016ID	26	Citrine	シトリン	儲かったら、君にもお菓子くらい奢ってあげるよ。\nじゃあね、バイバイ						
+TalkEvent_24_016ID	27	Alvina	アルビーナ	ぐぬぬ……先を越されたー！　ベップ～～！						
+TalkEvent_24_016ID	28	Bepp	ベップ	よしよし……						
+TalkEvent_24_017ID	0	Alvina	アルビーナ	うぅ～。気になるよ～						
+TalkEvent_24_017ID	1	Bepp	ベップ	シトリンが言ってたこと？						
+TalkEvent_24_017ID	2	Alvina	アルビーナ	うん。まあ、水不足の問題が解決するなら、\nそりゃなんでもありがたいんだけどさ……						
+TalkEvent_24_017ID	3	Alvina	アルビーナ	（……でも、それはアタシがやりたかった！）						
+TalkEvent_24_017ID	4	Alvina	アルビーナ	（錬金術でみんなの役に立って、\n　それを認められて……英雄みたいに、輝きたかった）						
+TalkEvent_24_017ID	5	Alvina	アルビーナ	（シトリンが好き勝手やってるのに、\n　アタシにはそれが認められないなんて）						
+TalkEvent_24_017ID	6	Alvina	アルビーナ	（悔しい……ズルい……不公平だ！）						
+TalkEvent_24_017ID	7	Alvina	アルビーナ	（与えられた天命とは違っても、アタシには、\n　それを成し遂げる力があるはずなのに！）						
+TalkEvent_24_017ID	8	Bepp	ベップ	姉様						
+TalkEvent_24_017ID	9	Alvina	アルビーナ	…………						
+TalkEvent_24_017ID	10	Bepp	ベップ	私の生まれた島では、この国のような教えはなかった						
+TalkEvent_24_017ID	11	Bepp	ベップ	だから、授けられた天命の価値や、それに背くことの\n重大さというのは……正直ピンと来ていない						
+TalkEvent_24_017ID	12	Bepp	ベップ	でも、この国の人々が、それを拠りどころにして\n生活していることは、ここで暮らすうちに理解できた						
+TalkEvent_24_017ID	13	Alvina	アルビーナ	うん……それはアタシも分かってる						
+TalkEvent_24_017ID	14	Alvina	アルビーナ	でもさ……それじゃ片付けられないことだって、あるよ						
+TalkEvent_24_017ID	15	Bepp	ベップ	そうね。私も、姉様が間違っているとは思わない。\nだって、姉様は良い行いをしようとしているのだから						
+TalkEvent_24_017ID	16	Bepp	ベップ	……私は、姉様がやりたいことなら、応援する。\n手伝えることがあれば、一緒に行く						
+TalkEvent_24_017ID	17	Bepp	ベップ	たとえそれを咎められたとしても、\n私だけは姉様の味方よ						
+TalkEvent_24_017ID	18	Alvina	アルビーナ	ベップ……ありがとう！　なんか元気出てきた！						
+TalkEvent_24_017ID	19	Bepp	ベップ	ついでに踊り、おかわりしとく？						
+TalkEvent_24_017ID	20	Alvina	アルビーナ	いや、これ以上は胸焼けしそうだからやめとく						
+TalkEvent_24_017ID	21	Alvina	アルビーナ	錬金術のことがバレたら大変とか、\n気にしてたらダメだね						
+TalkEvent_24_017ID	22	Alvina	アルビーナ	シトリンの案が却下される可能性だってあるし、\nアタシももうちょっと調べてみよう！						
+TalkEvent_24_017ID	23	Bepp	ベップ	うん、その意気よ						
+TalkEvent_24_018ID	0	Alvina	アルビーナ	この島には本来、雨水が染み込んだ地下水が\n豊富に存在し、それを生活水として利用してきた……						
+TalkEvent_24_018ID	1	Alvina	アルビーナ	それが枯渇したのだとしたら、まず考えられるのは\n元になる雨水が不足しているとかだけど……						
+TalkEvent_24_018ID	2	Alvina	アルビーナ	ここ数年、この島の気候は安定していて、\n特段雨が少なかったというわけでもない						
+TalkEvent_24_018ID	3	Alvina	アルビーナ	うーん、原因ばっかり考えててもダメそ～……						
+TalkEvent_24_018ID	4	Alvina	アルビーナ	それより、別の水源からどうにかして水を引いてくる\n方法を考えたほうが……						
+TalkEvent_24_018ID	5	Jelka	イェルカ	あれ、謹慎中にこんなところに来て大丈夫かい？						
+TalkEvent_24_018ID	6	Alvina	アルビーナ	控えめに、慎み深くはしてるから大丈夫						
+TalkEvent_24_018ID	7	Jelka	イェルカ	あはは、いいねぇ、ふてぶてしくて						
+TalkEvent_24_018ID	8	Jelka	イェルカ	水不足のことを調べてたようだけど、\nまだ諦めてなかったの？						
+TalkEvent_24_018ID	9	Jelka	イェルカ	シトリンに先を越されたって聞いたけど						
+TalkEvent_24_018ID	10	Alvina	アルビーナ	でも、まだ正式に決まったわけじゃない。\n逆転の可能性はあるから！						
+TalkEvent_24_018ID	11	Alvina	アルビーナ	……ねえ、イェルカ。\n冒険の最中、もし水がなくて困ったらどうする？						
+TalkEvent_24_018ID	12	Jelka	イェルカ	そうだねぇ。近くに森があれば湧き水を探したり……\n雨水を溜めたりってところかな						
+TalkEvent_24_018ID	13	Jelka	イェルカ	あとは海水だね。もちろんそのままじゃ飲めないが、\n沸かせば真水を取り出せる						
+TalkEvent_24_018ID	14	Alvina	アルビーナ	蒸留作戦ね。でも、街の水を丸ごと\nそれで賄うのはさすがに厳しそうだなあ……						
+TalkEvent_24_018ID	15	Jelka	イェルカ	それはそうだろうね。\n一人分の水を確保するのにも一苦労だから						
+TalkEvent_24_018ID	16	Alvina	アルビーナ	でも、海水を使うって発想は悪くない気がする。\n効率よく塩分を中和できさえすれば……						
+TalkEvent_24_018ID	17	Alvina	アルビーナ	確か、海水を素材に飲み薬を調合するレシピも\nあったよね。そのへん、参考にならないかなあ						
+TalkEvent_24_018ID	18	Jelka	イェルカ	……こりゃ、自分の世界に入っちまったな						
+TalkEvent_24_018ID	19	Alvina	アルビーナ	よし、まずは一度海水を採取して成分を調べてみよ！\n錬金術士の腕の見せ所だ！						
+TalkEvent_24_018ID	20			――数日後						
+TalkEvent_24_018ID	21	Alvina	アルビーナ	謹慎も今日で終わりか～\nなんだかんだ、充実した数日間だったなあ						
+TalkEvent_24_018ID	22	Alvina	アルビーナ	水不足の解決案もだいぶまとまってきたし……ん？						
+TalkEvent_24_018ID	23	Alvina	アルビーナ	師匠と神官長……？　何話してるんだろ						
+TalkEvent_24_018ID	24	Alvina	アルビーナ	師匠ー！　神官長さまと仲良しになりましたねぇ\n						
+TalkEvent_24_018ID	25	August	アウグスト	知恵を頼られているのだ						
+TalkEvent_24_018ID	26	Alvina	アルビーナ	錬金術以外にも、とにかく博識ですからね師匠は。\nなんでも知ってるアウグストってね						
+TalkEvent_24_018ID	27	Alvina	アルビーナ	で、何を話されていたんですか？						
+TalkEvent_24_018ID	28	August	アウグスト	問題になっている水不足のことでな						
+TalkEvent_24_018ID	29	Alvina	アルビーナ	えっ、何それ。気になるんですけど						
+TalkEvent_24_018ID	30	August	アウグスト	神聖国なんでも屋のシトリン……\n確か、お前も知り合いだったか						
+TalkEvent_24_018ID	31	August	アウグスト	あの者が出した解決案だが、実行に向けての課題が多く\n少々難航しているようでな						
+TalkEvent_24_018ID	32	Alvina	アルビーナ	えっ！？　そうなの！？						
+TalkEvent_24_018ID	33	August	アウグスト	具体的には、森の水源から街まで\n水路を引いてくるというものなのだが……						
+TalkEvent_24_018ID	34	August	アウグスト	それには島の外から技術者を招き、\n大がかりな工事をする必要がある						
+TalkEvent_24_018ID	35	Alvina	アルビーナ	結構、距離あるもんね						
+TalkEvent_24_018ID	36	August	アウグスト	だが、そのやり方では国民の納得を得るのは\n難しいのではないか、という懸念が挙がっている						
+TalkEvent_24_018ID	37	Alvina	アルビーナ	確かに。聖地を荒らすなー！　って声は絶対出るよね。\nアタシだってちょっと嫌だもん						
+TalkEvent_24_018ID	38	August	アウグスト	シトリンには現在、別案を検討するように\n依頼しているそうだ						
+TalkEvent_24_018ID	39	Alvina	アルビーナ	ということは……\nこれってもしかしてアタシの出番！？						
+TalkEvent_24_018ID	40	August	アウグスト	……そういえば、お前もその問題を調べると\n言っていたな。何か案があるのか？						
+TalkEvent_24_018ID	41	Alvina	アルビーナ	はい！　ぜひ聞いてくださいよ！						
+TalkEvent_24_019ID	0	Alvina	アルビーナ	これを、こうして……						
+TalkEvent_24_019ID	1	Jelka	イェルカ	その筒は？						
+TalkEvent_24_019ID	2	Alvina	アルビーナ	まあ見てて……そろそろいいかな？　これを……						
+TalkEvent_24_019ID	3	Alvina	アルビーナ	イェルカ、飲んでみて！						
+TalkEvent_24_019ID	4	Jelka	イェルカ	えぇー、海水を～？						
+TalkEvent_24_019ID	5	Alvina	アルビーナ	いいから、アルビちゃんを信じて						
+TalkEvent_24_019ID	6	Jelka	イェルカ	そう言われたら飲むっきゃないな。ごくごく、ぷは						
+TalkEvent_24_019ID	7	Jelka	イェルカ	ん、これ……水だよ？　真水だ！\nお前さん、まさか……！						
+TalkEvent_24_019ID	8	Alvina	アルビーナ	うん。海水を真水に濾過する装置を作ったんだ。\nこれを使えば、海水を飲み水にできる						
+TalkEvent_24_019ID	9	Jelka	イェルカ	へぇ。こんな一瞬で……これも錬金術の力か						
+TalkEvent_24_019ID	10	Alvina	アルビーナ	まぁね！　ただ、こんな小さいのじゃなくて\nもっと大きな装置を作る必要があるけどね						
+TalkEvent_24_019ID	11	Alvina	アルビーナ	素材もたくさん必要だし、また集めに行かないと……						
+TalkEvent_24_019ID	12	Janne	ヤンネ	アルビーナ。この間のこと、反省していないようね						
+TalkEvent_24_019ID	13	Alvina	アルビーナ	う……						
+TalkEvent_24_019ID	14	Janne	ヤンネ	神官長からもお叱りを受けたんでしょう？\nこれ以上、勝手な行動を続けたら――						
+TalkEvent_24_019ID	15	Alvina	アルビーナ	ヤンネさん！						
+TalkEvent_24_019ID	16	Janne	ヤンネ	……なに？						
+TalkEvent_24_019ID	17	Alvina	アルビーナ	誰かがやらなきゃいけないんだよ。\nみんな、苦労してるんだから						
+TalkEvent_24_019ID	18	Janne	ヤンネ	なら、あなたでなくてもいいでしょう？\n天命とは、違うんだから						
+TalkEvent_24_019ID	19	Alvina	アルビーナ	ううん、アタシじゃなきゃダメなの。\nだって、そのための力……錬金術があるんだから						
+TalkEvent_24_019ID	20	Alvina	アルビーナ	錬金術は、星の恵みを糧に奇跡を起こす術……\nきっと、この時のために、星の神様がくれたんだよ						
+TalkEvent_24_019ID	21	Janne	ヤンネ	話が飛躍しすぎじゃないかしら？						
+TalkEvent_24_019ID	22	Alvina	アルビーナ	でも、そう考えないと説明がつかないよ						
+TalkEvent_24_019ID	23	Alvina	アルビーナ	この島では遥か昔に途絶えた錬金術の才能が、\nいきなりアタシに宿るなんてさ						
+TalkEvent_24_019ID	24	Janne	ヤンネ	うーん……						
+TalkEvent_24_019ID	25	Alvina	アルビーナ	ほら、宿屋のトムさんが、趣味の釣りに目覚めて\nいっぱい魚を釣れるようになったじゃない？						
+TalkEvent_24_019ID	26	Alvina	アルビーナ	それと近いやつかも。\nきっと、これも天からの授かりものなんだよ						
+TalkEvent_24_019ID	27	Alvina	アルビーナ	漁師じゃないトムさんが釣った魚をお裾分けするのが\nありなら、アタシのこれもありじゃないかなって						
+TalkEvent_24_019ID	28	Janne	ヤンネ	なんか、それはちょっと話が違う気もするけど						
+TalkEvent_24_019ID	29	Alvina	アルビーナ	本来の案内屋の仕事を否定しているわけじゃない。\nただ、もう１つの才能も、みんなのために使いたいだけ						
+TalkEvent_24_019ID	30	Janne	ヤンネ	そう言われると、一理あるわね……						
+TalkEvent_24_019ID	31	Alvina	アルビーナ	よし、あともう一押し……						
+TalkEvent_24_019ID	32	Alvina	アルビーナ	この力で問題を解決することは、神様の意思なんだ。\nそれに背くことは、むしろ教えに反することになるよ						
+TalkEvent_24_019ID	33	Janne	ヤンネ	……はあ。分かったわ						
+TalkEvent_24_019ID	34	Alvina	アルビーナ	さすがヤンネさん！　話が分かる！						
+TalkEvent_24_019ID	35	Janne	ヤンネ	ただし、街の外に出るときは、\n私やベップちゃんと一緒に行くこと。いいわね？						
+TalkEvent_24_019ID	36	Alvina	アルビーナ	もちろん！\nむしろこちらからお願いするつもりだったし						
+TalkEvent_24_019ID	37	Jelka	イェルカ	……相変わらず、面白いやりとりだね。\nお前さんの口が達者なのか、ヤンネさんが単純なのか						
+TalkEvent_24_019ID	38	Jelka	イェルカ	ま、本職の休み時間にやってることなら\n問題ないとアタシは思うよ、協力するさ						
+TalkEvent_24_019ID	39	Alvina	アルビーナ	そうと決まったら、早速採取に行こう！						
+TalkEvent_24_019ID	40	Citrine	シトリン	…………						
+TalkEvent_24_020ID	0	Alvina	アルビーナ	さすがに、ここらへんまで遠出すると\nなかなかの緊張感っすわ						
+TalkEvent_24_020ID	1	Jelka	イェルカ	こんな時でもないと、なかなか来ないからね						
+TalkEvent_24_020ID	2	Janne	ヤンネ	くれぐれも用心してね。\nこの辺りは魔物も気性が荒いのが多いから						
+TalkEvent_24_020ID	3	Bepp	ベップ	全部倒して料理して、姉様に献上する						
+TalkEvent_24_020ID	4	Alvina	アルビーナ	頼もしき妹よ						
+TalkEvent_24_020ID	5	Jelka	イェルカ	海から遠いせいか、風がぜんぜんないね。\n日差しも強いし、汗が噴き出てきそうだよ						
+TalkEvent_24_020ID	6	Alvina	アルビーナ	確かに、ちょっと暑いね……						
+TalkEvent_24_020ID	7	Jelka	イェルカ	ベップ。お前さん、黒成分多めだけど、\nこういう天気だと少し暑くないかい？						
+TalkEvent_24_020ID	8	Bepp	ベップ	暑いのは確かね						
+TalkEvent_24_020ID	9	Jelka	イェルカ	やっぱりそうなんだ。\nもちっと涼しい色合いの服を着たらどうだい？						
+TalkEvent_24_020ID	10	Bepp	ベップ	ううん、そういうわけにはいかない。\nこれは、島で亡くなったみんなを弔うための服だから						
+TalkEvent_24_020ID	11	Bepp	ベップ	あの「光る怪物」にかたき討ちを果たすまでは、\n私はこのままでいい						
+TalkEvent_24_020ID	12	Jelka	イェルカ	その心意気はあっぱれなんだけど						
+TalkEvent_24_020ID	13	Jelka	イェルカ	せっかくべっぴんさんなんだから、\nもっと色々おしゃれをさせたいのに						
+TalkEvent_24_020ID	14	Alvina	アルビーナ	それは分かるな～！\nベップ、そういうのにぜんぜん興味ないんだもん						
+TalkEvent_24_020ID	15	Bepp	ベップ	……姉様がどうしてもというなら、\nたまには着てもいいわ						
+TalkEvent_24_020ID	16	Alvina	アルビーナ	ホント！？　じゃあ、ど・う・し・て・も！						
+TalkEvent_24_020ID	17	Jelka	イェルカ	よーし！　今度似合いそうなのを見繕ってあげるよ！\n粋なベップに仕上げてみせるさ						
+TalkEvent_24_021ID	0	Bepp	ベップ	姉様、待って						
+TalkEvent_24_021ID	1	Alvina	アルビーナ	ありゃ。採取に夢中で汚れちゃってた？\nありがとね！						
+TalkEvent_24_021ID	2	Bepp	ベップ	ううん。姉様の世話をするのも、妹の役目だから						
+TalkEvent_24_021ID	3	Janne	ヤンネ	随分歩いたわね。疲れたでしょう？						
+TalkEvent_24_021ID	4	Jelka	イェルカ	アタシは慣れてるけど……\nそっちはさすがに疲れてきたみたいだね						
+TalkEvent_24_021ID	5	Alvina	アルビーナ	ちょっとね～。でも素材集めは捗ってるから						
+TalkEvent_24_021ID	6	Bepp	ベップ	姉様、お水を						
+TalkEvent_24_021ID	7	Alvina	アルビーナ	うん。ありがとベップ～						
+TalkEvent_24_021ID	8	Bepp	ベップ	あと、これで汗を拭いて						
+TalkEvent_24_021ID	9	Alvina	アルビーナ	ベップってば気が利く～						
+TalkEvent_24_021ID	10	Janne	ヤンネ	アルビーナ。あなた、さすがに\nベップちゃんになんでも任せっきりじゃないかしら						
+TalkEvent_24_021ID	11	Alvina	アルビーナ	お母様がたは、みんな同じことをいうわね						
+TalkEvent_24_021ID	12	Alvina	アルビーナ	だってだって。アタシよりベップのほうが\n得意なんだもん。家事とか色々						
+TalkEvent_24_021ID	13	Janne	ヤンネ	あらあら。しっかりした子なのに、\nベップちゃんがいるとすぐ甘えんぼになるんだから						
+TalkEvent_24_021ID	14	Alvina	アルビーナ	いやいや甘えんぼって。\nアタシとベップは姉妹！　助け合って生きてる！						
+TalkEvent_24_021ID	15	Janne	ヤンネ	まぁ……そうね、一理ある						
+TalkEvent_24_021ID	16	Alvina	アルビーナ	アタシは交渉ごととか考えるのは得意だけど、\nベップは話すのがちょっと苦手！						
+TalkEvent_24_021ID	17	Alvina	アルビーナ	ベップは細かい気配り上手だけど、\nアタシはちょーっと大雑把！						
+TalkEvent_24_021ID	18	Janne	ヤンネ	まぁ……それはそうね						
+TalkEvent_24_021ID	19	Alvina	アルビーナ	そんな風に、アタシたちはお互い得意なことで\n補い合ってるってわけ！　甘えっぱなしじゃないの！						
+TalkEvent_24_021ID	20	Janne	ヤンネ	言われてみれば……そうなのかもしれないわね						
+TalkEvent_24_021ID	21	Alvina	アルビーナ	でしょ！						
+TalkEvent_24_021ID	22	Jelka	イェルカ	ま～た言いくるめられてるよ						
+TalkEvent_24_022ID	0	Alvina	アルビーナ	あった。これだこれ						
+TalkEvent_24_022ID	1	Bepp	ベップ	これが、探してた素材？						
+TalkEvent_24_022ID	2	Alvina	アルビーナ	そう。採取するのに一番苦労しそうなやつ。\nこれが手に入れば、成功したも同然だよ						
+TalkEvent_24_022ID	3	Jelka	イェルカ	ここまではるばる来た甲斐があったね						
+TalkEvent_24_022ID	4	Alvina	アルビーナ	うん！　これもみんなのおかげ――						
+TalkEvent_24_022ID	5	Alvina	アルビーナ	えっ						
+TalkEvent_24_022ID	6	Bepp	ベップ	ふっ！						
+TalkEvent_24_022ID	7	Alvina	アルビーナ	な、なにっ！？　魔物の襲撃！？						
+TalkEvent_24_022ID	8	Citrine	シトリン	あーあ。護衛さんたちはやっぱり隙がないなぁ						
+TalkEvent_24_022ID	9	Alvina	アルビーナ	シトリン！？　なんでアンタがここに！？\nまさか、後をつけてきたの？						
+TalkEvent_24_022ID	10	Citrine	シトリン	どうだっていいさ、そんなことは						
+TalkEvent_24_022ID	11	Citrine	シトリン	それより、君のほうが問題だろう？\n教えに背いて、こんなところまでやって来るなんて						
+TalkEvent_24_022ID	12	Citrine	シトリン	それも「錬金術」に必要なのかい？						
+TalkEvent_24_022ID	13	Alvina	アルビーナ	はて、錬金術とな？						
+TalkEvent_24_022ID	14	Citrine	シトリン	とぼけても無駄だよ。君が錬金術とやらを使って、\n水不足を解消しようと動いてるのは知ってる						
+TalkEvent_24_022ID	15	Alvina	アルビーナ	ちっ……やっぱり面倒な奴						
+TalkEvent_24_022ID	16	Alvina	アルビーナ	それで？　アタシを心配して、\nわざわざ注意しに来てくれたってこと？						
+TalkEvent_24_022ID	17	Citrine	シトリン	注意？　違う違う。\n僕は奪いに来たのさ。君が持っている案ってヤツをね						
+TalkEvent_24_022ID	18	Citrine	シトリン	この話は、僕にとっても重要な商機なんだ。\nみすみす逃すわけにはいかないよ						
+TalkEvent_24_022ID	19	Alvina	アルビーナ	いーやいやいや、だからって商売がたきを襲って\n横取りなんて、まともじゃないでしょ！？						
+TalkEvent_24_022ID	20	Alvina	アルビーナ	あんたはヤな奴だけど、そういう一線は越えないと\n思ってた。見損なったよ！						
+TalkEvent_24_022ID	21	Citrine	シトリン	君にどう思われようが、別に構わないね！\nアルビーナ・ジムロック！！						
+TalkEvent_24_022ID	22	Janne	ヤンネ	神聖国で働く者同士で争うなんて……						
+TalkEvent_24_022ID	23	Citrine	シトリン	僕だって最強の聖戦士と戦いたくはないよ。\nでも、商売だから！						
+TalkEvent_24_022ID	24	Alvina	アルビーナ	ヤンネさん！\nそんなこと言ってる場合じゃないですって！						
+TalkEvent_24_022ID	25	Citrine	シトリン	大人しく情報を渡してくれたら、\n悪いようにはしないんだけどな						
+TalkEvent_24_022ID	26	Alvina	アルビーナ	情報を渡した時点で最悪なんですけど！						
+TalkEvent_24_022ID	27	Citrine	シトリン	思ったよりしぶといなあ。\nさっさと終わらせたいんだけど						
+TalkEvent_24_022ID	28	Bepp	ベップ	……それはお互いさま						
+TalkEvent_24_022ID	29	Jelka	イェルカ	さあて、どっちが先に倒れるかね						
+TalkEvent_24_023ID	0	Citrine	シトリン	あーあ。４対１なんてズルいよねぇ……\nしかもヤンネさんまでいるしさぁ						
+TalkEvent_24_023ID	1	Janne	ヤンネ	さすがにやりすぎよ。それぞれに考えがあるのだから、\nもっとよく話し合って――						
+TalkEvent_24_023ID	2	Alvina	アルビーナ	それ以前の問題よ！　アタシとヤンネさんで\nお尻百叩きしてやるから、反省しなさいよね！						
+TalkEvent_24_023ID	3	Citrine	シトリン	やーだね						
+TalkEvent_24_023ID	4	Alvina	アルビーナ	あ、ちょっと！　逃げんな！　正座せんかい！						
+TalkEvent_24_023ID	5	Citrine	シトリン	ふふ。僕に対してその程度で済ませようなんて、\nちょーっといい子が過ぎるんじゃない？						
+TalkEvent_24_023ID	6	Alvina	アルビーナ	は！？						
+TalkEvent_24_023ID	7	Jelka	イェルカ	待ちな。何かシトリンの手元が怪しい、\n罠があるかも知れない						
+TalkEvent_24_023ID	8	Citrine	シトリン	まったねぇー、いい子ちゃん！						
+TalkEvent_24_023ID	9	Alvina	アルビーナ	もっと、ボコボコにすれば良かったってわけ？\nヤンネさんの百叩きを舐めてるわね						
+TalkEvent_24_023ID	10	Bepp	ベップ	姉様を愚弄するなんて……許すまじ、なんでも屋						
+TalkEvent_24_023ID	11	Janne	ヤンネ	こらこら。熱くならないの						
+TalkEvent_24_023ID	12	Jelka	イェルカ	素材は集まったんだろう？\nなら、アタシたちも帰ろう						
+TalkEvent_24_023ID	13	Alvina	アルビーナ	そうだね。あいつがまた何かしでかす前に、\nちゃちゃっと調合しちゃわないと！						
+TalkEvent_24_024ID	0	Alvina	アルビーナ	よーしよし、順調に動いてるね						
+TalkEvent_24_024ID	1	Alvina	アルビーナ	ベップ、１杯いっとく？						
+TalkEvent_24_024ID	2	Bepp	ベップ	いただきます。ごく……ごく……ごく……						
+TalkEvent_24_024ID	3	Alvina	アルビーナ	どう？						
+TalkEvent_24_024ID	4	Bepp	ベップ	うん。美味しいわ。突き抜けるような爽快感						
+TalkEvent_24_024ID	5	Alvina	アルビーナ	やたっ！　成功だね						
+TalkEvent_24_024ID	6	Janne	ヤンネ	これでも、街全体の水を賄うには足りなそうだけど……						
+TalkEvent_24_024ID	7	Alvina	アルビーナ	同じ装置をたくさん用意するつもり。元になる海水は\nいくらでもあるし、装置さえ増やせば大丈夫！						
+TalkEvent_24_024ID	8	Alvina	アルビーナ	ただ、さすがに神官長に話は通さないといけないね。\n今、その道筋を綿密に考えて……						
+TalkEvent_24_024ID	9	August	アウグスト	ふむ。ろ過装置の実験は成功したようだな						
+TalkEvent_24_024ID	10	Alvina	アルビーナ	あっ、師匠！　はい、バッチリ完成ですよ！						
+TalkEvent_24_024ID	11	August	アウグスト	見事だ						
+TalkEvent_24_024ID	12	Alvina	アルビーナ	えへへ、あとはこれを神官長に売り込んで、\n水不足は解決、報酬もうはうは……						
+TalkEvent_24_024ID	13	August	アウグスト	そのことだがな。\n１つお前に話さなければならないことがある						
+TalkEvent_24_024ID	14	Alvina	アルビーナ	うは？						
+TalkEvent_24_024ID	15	August	アウグスト	こっちへ来い						
+TalkEvent_24_024ID	16	Citrine	シトリン	やあ						
+TalkEvent_24_024ID	17	Alvina	アルビーナ	あんた！　どの面下げて……！						
+TalkEvent_24_024ID	18	Citrine	シトリン	まあ、落ち着いてよ。さっきのことは謝るからさ						
+TalkEvent_24_024ID	19	Alvina	アルビーナ	ぬぬぬ……というか、なんで師匠とシトリンが一緒に？						
+TalkEvent_24_024ID	20	August	アウグスト	それはだな……						
+TalkEvent_24_024ID	21	Alvina	アルビーナ	このろ過装置をシトリンが作ったことにする！？\n意味わからないんですけど！！						
+TalkEvent_24_024ID	22	August	アウグスト	お前自身も言っていたように、これを実際に\n稼働させるには、神官長の同意を得る必要がある						
+TalkEvent_24_024ID	23	August	アウグスト	だが、天命に背く行いを看過してはくれないだろう。\nましてや、これが一度目ではないのだから						
+TalkEvent_24_024ID	24	Alvina	アルビーナ	うぐ……それはそうですけど……						
+TalkEvent_24_024ID	25	Citrine	シトリン	その点、僕は元より問題解決を請け負っていた\nなんでも屋なわけだし、話が早いはずだよ						
+TalkEvent_24_024ID	26	Citrine	シトリン	もちろん、報酬はほぼ君の取り分でいい。\n仲介費くらいはちょこっともらうけどね						
+TalkEvent_24_024ID	27	Alvina	アルビーナ	はあ！？　全部アタシの取り分でしょ！？						
+TalkEvent_24_024ID	28	Citrine	シトリン	……それなら、こう言い換えてもいい。\n君の錬金術のことを黙っている口止め料だとね						
+TalkEvent_24_024ID	29	Alvina	アルビーナ	もう錬金術のことも全部話す！　実績をあげたんだから\n許可してもらうという線で説得を……！						
+TalkEvent_24_024ID	30	August	アウグスト	それは無理だ。天命のしきたりは、過去一度も\n変えられたことがないという						
+TalkEvent_24_024ID	31	Alvina	アルビーナ	天命のしきたり……						
+TalkEvent_24_024ID	32	August	アウグスト	お前がこれからも錬金術を続けたいと思うなら、\n言う通りにするがいい						
+TalkEvent_24_024ID	33	August	アウグスト	私はお前を認めている。錬金術を教え終わるまで、\n万が一、お前と引き離されてしまっては困るのだ						
+TalkEvent_24_024ID	34	Alvina	アルビーナ	（もし錬金術がなくなったら、アタシは……）						
+TalkEvent_24_024ID	35	Alvina	アルビーナ	っ……！						
+TalkEvent_24_024ID	36	August	アウグスト	少し考える時間をやる。\n決意が固まったら、またアトリエに来い						
+TalkEvent_24_025ID	0	Chief Priest	神官長	国全土に及んだ水不足の件について……\n無事、解決の目処が立ちました						
+TalkEvent_24_025ID	1		住民Ａ	ああ、もうダメかと思っていた！\n我々の祈りが星々に届いたんだ！						
+TalkEvent_24_025ID	2		住民Ｂ	星の神様の導きに感謝を！						
+TalkEvent_24_025ID	3	Chief Priest	神官長	解決に導いたのは、神聖国なんでも屋のシトリン。\n前に来なさい						
+TalkEvent_24_025ID	4	Citrine	シトリン	はい						
+TalkEvent_24_025ID	5	Alvina	アルビーナ	（結局、アタシは師匠の言う通りにした。\n　それ以上、上手い方法が思いつかなかったから）						
+TalkEvent_24_025ID	6	Alvina	アルビーナ	（錬金術と引き離される可能性があるなら、\n　こうするしかなかった。それは分かってる）						
+TalkEvent_24_025ID	7	Alvina	アルビーナ	（でも……！）						
+TalkEvent_24_025ID	8	Chief Priest	神官長	此度の活躍、見事でした。\nあなたに星の導きがあらんことを						
+TalkEvent_24_025ID	9		住民Ａ	ありがとうー！						
+TalkEvent_24_025ID	10		住民Ｂ	この国の英雄だわ！						
+TalkEvent_24_025ID	11	Alvina	アルビーナ	（もし、本当なら……この歓声を受けていたのは、\n　アタシのはずだったのに、なんでこうなるの……？）						
+TalkEvent_24_025ID	12	Alvina	アルビーナ	っ……						
+TalkEvent_24_025ID	13	Bepp	ベップ	姉様……						
+TalkEvent_24_025ID	14	Alvina	アルビーナ	はあ……						
+TalkEvent_24_025ID	15	Bepp	ベップ	姉様。お疲れさま						
+TalkEvent_24_025ID	16	Alvina	アルビーナ	うん……						
+TalkEvent_24_025ID	17	Bepp	ベップ	……私は、全部見てたから。\n姉様がみんなのために頑張ったこと						
+TalkEvent_24_025ID	18	Bepp	ベップ	私は、姉様こそがこの国の英雄だって、知ってるから						
+TalkEvent_24_025ID	19	Alvina	アルビーナ	ベップ……うう……						
+TalkEvent_24_025ID	20	Alvina	アルビーナ	ぐすっ……そんな風に言われたら泣いちゃう……						
+TalkEvent_24_025ID	21	Bepp	ベップ	ふふ。もう泣いてる						
+TalkEvent_24_025ID	22	Alvina	アルビーナ	うっ……うっ……しかも、家に払われた\n報酬のお金、ウチの両親、喜んで寄付しちゃったし……						
+TalkEvent_24_025ID	23	Bepp	ベップ	おいたわしや……						
+TalkEvent_24_025ID	24	Alvina	アルビーナ	（――その翌日、アタシは師匠に呼ばれて\n　アトリエを訪れた）						
+TalkEvent_24_025ID	25	Alvina	アルビーナ	師匠、なんですか話って						
+TalkEvent_24_025ID	26	August	アウグスト	……ああした結末になってしまったことを詫びよう						
+TalkEvent_24_025ID	27	Alvina	アルビーナ	いいですよ、もう。\n全部アタシのためだって分かってますから						
+TalkEvent_24_025ID	28	August	アウグスト	結果はああなってしまったが、よく問題解決に導いた。\nお前の錬金術の腕は確かなようだ						
+TalkEvent_24_025ID	29	Alvina	アルビーナ	ありがとうございます						
+TalkEvent_24_025ID	30	August	アウグスト	よって、弟子は卒業とする						
+TalkEvent_24_025ID	31	Alvina	アルビーナ	えっ、卒業！？						
+TalkEvent_24_025ID	32	August	アウグスト	これからは一人前の錬金術士として、\n自己研鑽に励んでいけ						
+TalkEvent_24_025ID	33	Alvina	アルビーナ	あ、アタシが一人前の錬金術士に！？\nやったあ！						
+TalkEvent_24_025ID	34	August	アウグスト	このアトリエも、お前に託すことにしよう						
+TalkEvent_24_025ID	35	Alvina	アルビーナ	それは嬉しいけど……\nまるで師匠がいなくなっちゃうみたいな……						
+TalkEvent_24_025ID	36	August	アウグスト	その通りだ。しばらくしたら、私はこの国を出る。\n島の外で、やるべきことができたのでな						
+TalkEvent_24_025ID	37	August	アウグスト	島を出るまでの間に、教えるべきことは\nすべて教え終えてから行く、そこは案ずるな						
+TalkEvent_24_025ID	38	Alvina	アルビーナ	また戻って来ますよね？						
+TalkEvent_24_025ID	39	August	アウグスト	…………						
+TalkEvent_24_025ID	40	Alvina	アルビーナ	……そっか						
+TalkEvent_24_025ID	41	Alvina	アルビーナ	師匠。錬金術を教えてくださり、ありがとうございます\n						
+TalkEvent_24_025ID	42	August	アウグスト	残りの知識も伝えよう、早速はじめるぞ						
+TalkEvent_24_025ID	43	Alvina	アルビーナ	師匠は、こんな時までずっと冷静なんですね						
+TalkEvent_24_025ID	44	August	アウグスト	これでも感慨にふけっているぞ						
+TalkEvent_24_025ID	45	Alvina	アルビーナ	えー本当ですかぁ						
+TalkEvent_24_026ID	0		字幕	――それから半年後のこと						
+TalkEvent_24_026ID	1	Janne	ヤンネ	アルビーナ、いる？						
+TalkEvent_24_026ID	2	Alvina	アルビーナ	あ、ヤンネさん！　ちょっと今取り込んでて……						
+TalkEvent_24_026ID	3	Janne	ヤンネ	急ぎの用事なの。切り上げられない？						
+TalkEvent_24_026ID	4	Alvina	アルビーナ	うーん、用件次第かなあ～						
+TalkEvent_24_026ID	5	Janne	ヤンネ	星の案内人のあなたにしか頼めない用事よ						
+TalkEvent_24_026ID	6	Alvina	アルビーナ	どういうこと？　今日はお仕事入ってないんだけど……						
+TalkEvent_24_026ID	7	Janne	ヤンネ	急な来客があって、対応しなくちゃならないの。\n神官長直々の要請よ						
+TalkEvent_24_026ID	8	Alvina	アルビーナ	でも、今日って定期船が着く日でもないよ？\n来客っていったいどこから……						
+TalkEvent_24_026ID	9	Janne	ヤンネ	――ランターナ大陸よ						
+TalkEvent_24_026ID	10	Alvina	アルビーナ	え……						
+TalkEvent_24_026ID	11	Alvina	アルビーナ	えええええええええっ！？						
+TalkEvent_24_026ID	12	Alvina	アルビーナ	はあっ……はあっ……						
+TalkEvent_24_026ID	13	Alvina	アルビーナ	大陸から人がやって来るなんて……しかも！						
+TalkEvent_24_026ID	14	Alvina	アルビーナ	大陸出身の錬金術士……！！						
+TalkEvent_24_026ID	15	Alvina	アルビーナ	どんな人なんだろう。\nあの頂獣を倒したってホントなのかな！？						
+TalkEvent_24_026ID	16	Alvina	アルビーナ	早く会いたい……話したい！						
+TalkEvent_24_026ID	17	Alvina	アルビーナ	（師匠がこの国を去ってから、また何もない日常に\n　戻りかけていた）						
+TalkEvent_24_026ID	18	Alvina	アルビーナ	（でも……今度こそ、何かが変わる気がする！）						
+TalkEvent_24_026ID	19	Alvina	アルビーナ	待ってろおおお！　大陸の錬金術士！						

@@ -15,7 +15,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 17	コール	Cole	克尔	克隆
 18	キラキラコイン	Shiny Coins	闪亮硬币	閃亮硬幣
 19	その他	Others	其他	其他
-20	チャプター	Chapter	章节	章節
+20	チャプターパック	Chapter	章节	章節
 21	コール	Cole	克尔	克隆
 22	キラキラコイン	Shiny Coins	闪亮硬币	閃亮硬幣
 23	その他	Others	其他	其他
@@ -43,7 +43,7 @@ id	name	name_en	name_zh-CN	name_zh-TW
 45	キラキラコイン	Shiny Coins	闪亮硬币	閃亮硬幣
 46	その他	Others	其他	其他
 47	マンスリー	Monthly	月常	每月
-48	デイリー	Daily	日常	每日
+48	キラキラコイン	Daily	日常	每日
 49	マンスリー	Monthly	月常	每月
 50	マンスリー	Monthly	月常	每月
 51	マンスリー	Monthly	月常	每月
@@ -52,8 +52,10 @@ id	name	name_en	name_zh-CN	name_zh-TW
 54	マンスリー			
 55	思い出の輝き【1.5周年】			
 56	マンスリー			
+57	星導石			
+58	ガチャチケット			
 101	期間限定	Limited	限时	期間限定
-106	記憶の断片	Memory Fragment	记忆片段	記憶片段
+106	定常	Memory Fragment	记忆片段	記憶片段
 107	フロッケチケット			
 1000	星祈石			
 100001				
@@ -107,3 +109,5 @@ id	name	name_en	name_zh-CN	name_zh-TW
 100067				
 100068				
 100069				
+100070				
+100071				

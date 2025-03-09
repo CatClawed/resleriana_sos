@@ -72,6 +72,15 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 510098	けた外れの突破力				スキルで撃破時、クリティカルダメージ+{value}%(上限100%)			
 510099	理論家の知恵				パーティの誰かが戦闘アイテム使用後、味方全員に「受けるダメージ-{value}%(固定)」を1回攻撃を受けるまで付与(発動上限2回)<br>※アイテムを複数同時に使用しても発動は1回			
 510100	被ダメージDOWN				受けるダメージ-{value}%(固定)			
+510101	連刃研磨のLvに応じクリティカル率UP				連刃研磨のLvに応じ、クリティカル確率+{value}%			
+510102	連刃研磨のLv3以上でクリティカルダメージUP				Lv3以上：クリティカルダメージ+{value}%			
+510103	連刃研磨のLv5以上でクリティカルダメージUP				Lv5以上：クリティカルダメージ+{value}%			
+510104	連刃研磨のLv10以上でクリティカルダメージUP				Lv10以上：クリティカルダメージ+{value}%			
+510105	クリティカル率UP				クリティカル確率+{value}%			
+510106	クリティカルダメージUP				クリティカルダメージ+{value}%			
+510107	学びの成果を見せてあげる！				スキルダメージ+{value}%(上限200%)			
+510108	あなたの夢、お手伝いします！				クリティカルダメージ+{value}%(上限250%)			
+510109	冒険があたしを成長させる！				スキル威力+{value}%(上限5個)			
 560001	麻痺攻撃(高確率)	Paralyzing Attack (High Chance)	麻痹攻击（高概率）	麻痺攻擊（高機率）	攻撃後、対象に「麻痺」を付与	After attacking, inflicts the target with Paralysis.	攻击后，赋予目标“麻痹”。	攻擊後，賦予目標「麻痺」。
 560010	攻撃対象が麻痺状態の時与ダメージUP	Damage Up When Atk. Target Paralyzed	攻击目标陷入麻痹状态时，造成伤害提升	攻擊目標為麻痺狀態時給予傷害上升	攻撃対象が麻痺状態の時スキルダメージ+{value}%	Boosts skill damage by {value}% when attack target is paralyzed.	攻击目标陷入麻痹状态时，技能伤害+{value}%。	攻擊目標為麻痺狀態時技能傷害+{value}%
 560015	敵が1体の時与ダメージUP	Single Enemy Dealt Damage Up	敌人为1名时，造成伤害提升	敵人數量為1時給予傷害上升	敵が1体の時、スキルダメージ+{value}%	Boosts skill damage by {value}% when there is only one enemy.	敌人为1名时，技能伤害＋{value}%。	敵人數量為1時，技能傷害+{value}%。
@@ -270,6 +279,24 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 610197	被ダメージDOWN				受けるダメージ-{value}%(上限2個)			
 610198	被クリティカルダメージUP				受けるクリティカルダメージ+{value}%			
 610199	物攻UP				物攻+{value}%(上限40%)			
+610200	物攻UP				物攻+{value}%(上限30%)			
+610201	物攻UP				物攻+{value}%(上限120%)			
+610203	連刃研磨				連刃研磨のLvに応じて、「羽化する闘志」でボーナスを獲得する			
+610204	物攻UP				物攻+{value}%(上限30%)			
+610205	スキル威力UP				スキル威力+{value}%(上限100%)			
+610206	与える回復量UP				与えるHP回復量+{value}%(上限100%)			
+610207	受ける攻撃の貫通力UP				受ける攻撃の貫通力+{value}			
+610208	ブレイクダメージUP				ブレイクダメージ+{value}%(上限40%)			
+610209	被ダメージ：火UP				火属性攻撃から受けるダメージ+{value}%(上限100%)			
+610210	魔法被ダメージUP				受ける魔法攻撃スキルダメージ+{value}%			
+610211	バーストダメージUP				バーストスキルダメージ+{value}%(上限200%)			
+610212	魔攻UP				魔攻+{value}%(上限100%)			
+610213	与ダメージUP				スキルダメージ+{value}%(上限300%)			
+610214	クリティカル率UP				クリティカル確率+{value}%(上限150%)			
+610215	被ダメージDOWN				受けるダメージ-{value}%(上限2個)			
+610216	被クリティカルダメージUP				受けるクリティカルダメージ+{value}%(上限2個)			
+610219	魔攻UP				魔攻+{value}%(上限30%)			
+610222	火耐性DOWN				火属性攻撃から受けるダメージ+{value}%(上限50%)			
 620002	被ダメージUP	Received Damage Up	所受伤害提升	所受傷害上升	受けるダメージ+{value}%(上限15%)	Boosts damage received by {value}%. (MAX 15%)	所受伤害+{value}%（上限15%）。	所受傷害+{value}%（上限15%）。
 710001	条件付き与ダメージUP	Dealt Damage Up (Cond.)	附带条件造成伤害提升	在特定條件下給予傷害上升	攻撃対象のHPが75%以上の時、スキルダメージ+{value}%	Boosts skill damage by {value}% when the target's HP is 75% or higher.	攻击目标的HP不低于75%时，技能伤害+{value}%。	攻擊目標的HP在75%以上時，技能傷害+{value}%。
 710002	魔法攻撃反射	Magic Attack Reflect	魔法攻击反弹	魔法攻擊反射	魔法攻撃を受けた時、{value}%を反射する	When hit by a magic attack, reflects {value}%.	受到魔法攻击时，反弹{value}%。	受到魔法攻擊時，反射{value}%。
@@ -298,6 +325,8 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 710027	魔攻UP				魔攻+{value}%			
 710028	HP上限UP				最大HP+{value}%			
 710029	クリティカル率UP				クリティカル確率+{value}%(上限100%)			
+710030	条件付き与ダメージUP				カウンター攻撃時、与えるダメージ+{value}%			
+710031	回避				回避確率{value}%(上限30%)			
 710078	行動するたびに与ダメージ増加	Dealt Damage Boost Each Turn	每次行动时造成伤害增加	每次行動時給予傷害增加	行動するたびスキルダメージ+{value}%	Boosts skill damage by {value}% per turn.	每次行动时技能伤害+{value}%。	每次行動時技能傷害+{value}%。
 710079	行動するたびに与ダメージ増加	Dealt Damage Boost Each Turn	每次行动时造成伤害增加	每次行動時給予傷害增加	行動するたびスキルダメージ+{value}%	Boosts skill damage by {value}% per turn.	每次行动时技能伤害+{value}%。	每次行動時技能傷害+{value}%。
 710278	物理攻撃被ダメージDOWN	P. Atk. Received Damage Down	所受物理攻击伤害下降	所受物理攻擊傷害下降	物理攻撃を受ける時、受けるダメージ-{value}%	Reduces damage received from physical attacks by {value}%.	受到物理攻击时，所受伤害-{value}%。	受到物理攻擊時，所受傷害-{value}%。
@@ -433,6 +462,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 810024	被パネル効果量UP	Received Panel Effect Up	所受面板效果量提升	所受面板效果量上升	受けるパネル効果量+{value}%	Boosts potency of panel effects received by {value}%.	所受面板效果量+{value}%。	所受面板效果量+{value}%。
 810025	魔法攻撃反射	Magic Attack Reflect	魔法攻击反弹	魔法攻擊反射	魔法攻撃を受けた時、{value}%を反射する	When hit by a magic attack, reflects {value}%.	受到魔法攻击时，反弹{value}%。	受到魔法攻擊時，反射{value}%。
 810030	条件付き被ダメージDOWN	Received Damage Down (Cond.)	附带条件所受伤害下降	在特定條件下所受傷害下降	味方の数が2体以上時、受けるダメージ-{value}%	When there are 2 or more allies, reduces damage received by {value}%.	有不少于2名我方时，所受伤害-{value}%。	我方有2名以上時，所受傷害-{value}%。
+810032	条件付きカウンター状態				WEAKでない攻撃を受けた時、カウンター攻撃する			
 810034	与ダメージUP	Dealt Damage Up	造成伤害提升	給予傷害上升	スキルダメージ+{value}%(上限50%)	Boosts skill damage by {value}%. (MAX 50%)	技能伤害+{value}%（上限50%）。	技能傷害+{value}%（上限50%）。
 810035	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%(上限100%)	Reduces damage received by {value}%. (MAX 100%)	所受伤害-{value}%（上限100%）。	所受傷害-{value}%（上限100%）。
 810036	被ダメージDOWN	Received Damage Down	所受伤害下降	所受傷害下降	受けるダメージ-{value}%(上限90%)	Reduces damage received by {value}%. (MAX 90%)	所受伤害-{value}%（上限90%）。	所受傷害-{value}%（上限90%）。
@@ -583,6 +613,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 820100	被クリティカルダメージUP	Received Critical Damage Up	所受暴击伤害提升	所受重擊傷害上升	受けるクリティカルダメージ+{value}%	Boosts critical damage received by {value}%.	所受暴击伤害+{value}%。	所受重擊傷害+{value}%。
 820102	確定クリティカル無効	Guaranteed Critical Immunity	必定暴击无效	必定重擊無效	確定クリティカル無効	Guaranteed Critical Immunity.	必定暴击无效。	必定重擊無效。
 820103	全属性耐性DOWN	All Attribute Resistance Down	全属性耐性下降	全屬性耐性下降	全属性攻撃から受けるダメージ+{value}%	Boosts damage received from all attribute attacks by {value}%.	来自全属性攻击的伤害+{value}%。	來自全屬性攻擊的傷害+{value}%。
+820106	状態異常耐性DOWN				悪性状態異常耐性-{value}%			
 820108	被ブレイクダメージUP	Received Stun Damage Up	所受破防伤害提升	所受破防傷害上升	受けるブレイクダメージ+{value}%(上限100%)	Boosts stun damage taken by {value}%. (MAX 100%)	所受破防伤害+{value}%（上限100%）。	所受破防傷害+{value}%（上限100%）。
 820324	与ダメージダウン(上限100%)	Dealt Damage Down (MAX 100%)	造成伤害下降（上限100%）	給予傷害下降（上限100%）	与えるダメージ-{value}%(上限100%)	Reduces damage dealt by {value}%. (MAX 100%)	造成伤害-{value}%（上限100%）。	給予傷害-{value}%（上限100%）。
 820342	与ダメージDOWN(上限つき)				スキルダメージ-{value}%(上限30%)			
@@ -716,6 +747,7 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 910144	戦闘アイテムから受ける強化効果量UP				戦闘アイテムから受ける強化効果量+{value}%			
 910146	被ダメージDOWN				受けるダメージ-{value}%(重複不可)(強化効果量変化の効果を受けない)			
 910152	全体被ダメージDOWN				全体攻撃から受けるダメージ-{value}%(強化効果量変化の効果を受けない)			
+910153	戦闘アイテムダメージUP				戦闘アイテムダメージ+{value}%			
 920001	回復無効	Nullify Recovery	恢复无效	回復無效	HP回復効果を受け付けなくなる	Blocks the target from receiving HP recovery.	不会受到HP恢复效果。	無法獲得HP回復效果。
 920002	プラス効果無効	Nullify Positive Effects	正面效果无效	加強效果無效	プラス効果の付与を受け付けなくなる	Blocks positive effects from being applied.	不会被赋予正面效果。	無法被賦予加強效果。
 920003	魔法耐性DOWN	Magic Resistance Down	魔法耐性下降	魔法耐性下降	魔法ダメージ耐性-{value}%	Reduces magic damage resistance by {value}%.	魔法伤害耐性-{value}%。	魔法傷害耐性-{value}%。
@@ -1083,6 +1115,12 @@ id	name	name_en	name_zh-CN	name_zh-TW	description	description_en	description_zh-
 1210362	条件付き与ダメージUP				対象が状態異常の時、与えるダメージ+{value}%　解除不可			
 1210363	条件付き与ダメージDOWN				戦闘アイテム以外で与えるダメージ-{value}%　解除不可			
 1210364	条件付き与ダメージDOWN				ブレイク中の敵へ与えるダメージ-{value}%　解除不可			
+1210365	アイテムダメージUP				戦闘アイテムの与えるダメージ+{value}%(上限3000%)　解除不可			
+1210366	アイテム回復量UP				戦闘アイテムの回復量+{value}%　解除不可			
+1210367	アイテムゲージ回復量UP				行動後のアイテムゲージ回復量+50%　解除不可			
+1210368	アイテムクリティカル率UP				戦闘アイテムのクリティカル率+{value}%(上限100%)　解除不可			
+1210369	条件付きスキルダメージUP(突)				突属性の戦闘アイテム使用時、味方全体に戦闘アイテムで与えるダメージ+{value}%を付与　解除不可			
+1210370	条件付きスキルダメージUP(斬)				斬属性の戦闘アイテム使用時、味方全体に戦闘アイテムで与えるダメージ+{value}%を付与　解除不可			
 1220005	単体攻撃ダメージDOWN	Single Damage Down	单体攻击伤害下降	單體攻擊傷害下降	単体攻撃スキルダメージ-{value}%	Reduces single-target attack skill damage by {value}%.	单体攻击技能伤害-{value}%。	單體攻擊技能傷害-{value}%。
 1220006	被ダメージUP(ディフェンダー)	Defender: Received Damage Up	所受伤害提升（防御者）	所受傷害上升（防禦者）	ディフェンダーの受けるダメージ+{value}%	Boosts damage received by Defenders by {value}%.	防御者所受伤害+{value}%。	防禦者所受傷害+{value}%。
 1220007	受けるプラス効果量DOWN	Received Pos Effects Down	所受正面效果量下降	所受加強效果量下降	受けるプラス効果の効果量-{value}%	Reduces potency of positive effects received by {value}%.	所受正面效果的效果量-{value}%。	所受加強效果的效果量-{value}%。
